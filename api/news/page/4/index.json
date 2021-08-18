@@ -2,6 +2,102 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-13-aiml-seen-as-crucial-to-battle-software-supply-chain-security-breaches.md",
+      "title": "AI/ML Seen as Crucial to Battle Software Supply Chain Security Breaches",
+      "excerpt": "Malware delivered via automatic software updates is a challenge for the digital supply chain serving a wide range of companies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aitrends.com/ai-in-business/ai-ml-seen-as-crucial-to-battle-software-supply-chain-security-breaches/",
+      "originalUrl": "https://www.aitrends.com/ai-in-business/ai-ml-seen-as-crucial-to-battle-software-supply-chain-security-breaches/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.aitrends.com/wp-content/uploads/2021/08/8-13SupplyChain-2.jpeg",
+          "width": 550,
+          "height": 309,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-13T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "aitrends",
+        "domain": "aitrends.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-08-13-why-ai-ethics-needs-to-address-ai-literacy-not-just-bias.md",
+      "title": "Why AI ethics needs to address AI literacy, not just bias",
+      "excerpt": "AI ethics is about more than just bias. That's why Red Hat's Noelle Silver is dedicated to spreading AI literacy.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/13/why-ai-ethics-needs-to-address-ai-literacy-not-just-bias/",
+      "originalUrl": "https://venturebeat.com/2021/08/13/why-ai-ethics-needs-to-address-ai-literacy-not-just-bias/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/Women-in-AI-Awards-1.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/13/why-ai-ethics-needs-to-address-ai-literacy-not-just-bias/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/13/why-ai-ethics-needs-to-address-ai-literacy-not-just-bias/amp/",
+      "publishedDateTime": "2021-08-13T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-13-global-machine-learning-accelerator-for-healthcare-report-forecast-to-2021-27-google-ibm-and-microsoft.md",
       "title": "Global Machine Learning Accelerator For Healthcare Report Forecast to 2021-27- Google, IBM, and Microsoft.",
       "excerpt": "The global Machine Learning Accelerator For Healthcare sector, it is forecasted to achieve a CAGR of xx% by the year end 2027. This growth rate will benefit the sector to achieve USD xx in 2027 , which is in 2020 valued at USD xx billion.",
@@ -1077,93 +1173,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-fedex-deploys-new-ai-robotics-e-commerce-fulfilment-system.md",
-      "title": "FedEx Deploys new AI-Robotics E-Commerce Fulfilment System",
-      "excerpt": "FedEx to scale up “encouraging” trial of new RPSi system from Berkshire Grey, which is AI-enabled and autonomously sorts thousands of packages a day",
-      "sourceUrl": null,
-      "webUrl": "https://supplychaindigital.com/logistics/fedex-deploys-new-ai-robotics-e-commerce-fulfilment-system",
-      "originalUrl": "https://supplychaindigital.com/logistics/fedex-deploys-new-ai-robotics-e-commerce-fulfilment-system",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://supplychaindigital.com/sites/default/files/styles/og_image/public/image/FedEx%20Delivery%20Van%20with%20Berkshire%20Grey%20Package%20Sortation%20System%20Foreground2.png?itok=svWe6DZ6",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-12T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Supply Chain Digital",
-        "domain": "supplychaindigital.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-deep-learning-chip-market-trend-forecast-drivers-restraints-company-profiles-and-key-players-analysis-by-2028.md",
-      "title": "Deep Learning Chip Market Trend, Forecast, Drivers, Restraints, Company Profiles and Key Players Analysis by 2028",
-      "excerpt": "The global deep learning chip market is expected to reach a market size of USD 27.75 Billion by 2028 and register a high revenue CAGR, according to latest analysis by Emergen Research. Increasing quantum computing adoption is expected to drive global deep learning chip market growth to a significant extent during the forecast period.",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/deep-learning-chip-market-trend-forecast-drivers-restraints-company-profiles-and-key-players-analysis-by-2028/",
-      "originalUrl": "https://manometcurrent.com/deep-learning-chip-market-trend-forecast-drivers-restraints-company-profiles-and-key-players-analysis-by-2028/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/08/Rotating-U-Disk-Market-390x220.jpg",
-          "width": 390,
-          "height": 220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/deep-learning-chip-market-trend-forecast-drivers-restraints-company-profiles-and-key-players-analysis-by-2028/",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-learning-chip-market-trend-forecast-drivers-restraints-company-profiles-and-key-players-analysis-by-2028/",
-      "publishedDateTime": "2021-08-12T08:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

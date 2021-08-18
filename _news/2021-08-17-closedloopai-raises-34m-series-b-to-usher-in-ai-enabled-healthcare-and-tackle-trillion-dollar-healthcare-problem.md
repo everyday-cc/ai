@@ -2,26 +2,25 @@
 category: news
 title: "ClosedLoop.ai Raises $34M Series B to Usher in AI-Enabled Healthcare and Tackle Trillion-Dollar Healthcare Problem"
 excerpt: "ClosedLoop.ai., healthcare’s data science platform, today announced a $34 million Series B financing. The investment round, led by Telstra Ventures with participation from Breyer Capital, Greycroft Ventures,"
-publishedDateTime: 2021-08-17T10:01:00Z
-originalUrl: "https://www.wfmz.com/news/ap/ap-business/closedloop-ai-raises-34m-series-b-to-usher-in-ai-enabled-healthcare-and-tackle-trillion/article_27d87c7e-7a01-582c-a550-2ef6167868d1.html"
-webUrl: "https://www.wfmz.com/news/ap/ap-business/closedloop-ai-raises-34m-series-b-to-usher-in-ai-enabled-healthcare-and-tackle-trillion/article_27d87c7e-7a01-582c-a550-2ef6167868d1.html"
+publishedDateTime: 2021-08-17T10:02:00Z
+originalUrl: "https://www.djournal.com/closedloop-ai-raises-34m-series-b-to-usher-in-ai-enabled-healthcare-and-tackle-trillion/article_4f901115-5a95-5de3-951f-d5a015668b37.html"
+webUrl: "https://www.djournal.com/closedloop-ai-raises-34m-series-b-to-usher-in-ai-enabled-healthcare-and-tackle-trillion/article_4f901115-5a95-5de3-951f-d5a015668b37.html"
 type: article
-quality: 34
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Daily Journal
+  domain: djournal.com
 
 topics:
   - AI in Healthcare
   - AI
-  - Machine Learning
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/95/f953e9d5-1a21-5bdd-b443-02a75559d04f/611b8938cd137.image.jpg?resize=878%2C630"
-    width: 878
+  - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/7/b3/7b39322b-9a77-5c23-8ca9-34c4ef28a821/611b8ce50c2f9.image.jpg?crop=1699%2C956%2C0%2C131&resize=1120%2C630&order=crop%2Cresize"
+    width: 1120
     height: 630
     isCached: true
 
@@ -94,6 +93,6 @@ related:
         height: 750
         isCached: true
 
-secured: "XzO7SzXh94lffYi54IEeJptvwqXPEeep0Dp4rXgAgtEEqG+wn+lnhtPgmYezteDJtfzKjPuXxoM0Hu3kDCF98fKU778EzfwK5uwTMZFEGn4S29z1rTRvU9t/IJPk2a7LIQxLW0/5sR93h4UsVpZNa+vGSjiVveiG+BBZccL5YleB7H838l0th/y2xj+V6PkLchwX7Pb1dKHavODR9O1nYAY9j+dRuRXwfvxlys8eyGrLcPtv8klaYEDTO/0xRk8Mq8U9wR5cSI30w/ovAaq48OSQTsUKUKrNkPbnThY4or5YwRdI55Q40li7sY/8HYdtDAfu4pkyTPxwMVCpCjKI3+kiqc+aBKRr1nHnxR28+DDjHGPV3M3jAH3xFsGA1wk5a2wV8RvjSl0bF/wFThjaABFheT23376S/YEgCaLOhMb4Ox+MMsVyEZowg5fOzw6Lnab26UOu6rZQSHkoLCP82H9DzKLJc7WseYSVo5ei59RyU0KROnVTUbZSSy4TON2KchcOdj1dIbxR/1JtBddi9g==;BTu3hMSlO5sfdlGLAxVy+A=="
+secured: "PxGWavn9DzNg+jbV9zqLBy8xmmS1EhJpUXvO8oGp1Y4G/qo44H6V+z6MMcr5E6hT7rntxvA6NLnJEHJJ0AF+ZkMJwrezCq/aglnLNg+bqNXNW4N7CWN1AgCGQd2kP8vU1oRVCXAS08oudRX2R1GpJhnAccLHFS69DZ3M1pmOxcngu0d2BVjtdT2CsqBOhh67pHg7YAYHY1DRboRt2jXCRJzoWXqsBGE/C6pglurajayxAJVu58Lw5Lw+H7FBPv91qW5xKMq3kCQ/lMA2+Yyq55JPRL8RrKYMPmwmDjdYBVrpGkfQw77r7CAMYNYDdH/lykqgNj2/+pEAUN/yFB1Innu7mufHKa5Kgjq1CEZnvqE=;YIXXZE6mtDt4o19pPniGZQ=="
 ---
 

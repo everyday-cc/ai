@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-04-soda-data-management-software-now-available-in-aws-marketplace.md",
+      "title": "SoDA Data Management Software Now Available in AWS Marketplace",
+      "excerpt": "As part of its continued commitment to streamlining the process of intelligent data transfers to and from the public cloud, SoDA has made its enterpri",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210803005417/en/SoDA-Data-Management-Software-Now-Available-in-AWS-Marketplace",
+      "originalUrl": "https://www.businesswire.com/news/home/20210803005417/en/SoDA-Data-Management-Software-Now-Available-in-AWS-Marketplace",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-03T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-why-data-management-is-critical-for-faster-drug-development.md",
       "title": "Why Data Management Is Critical For Faster Drug Development",
       "excerpt": "Co-Founder, COO at Komprise, creating Intelligent Data Management for enterprises to manage data growth and harness data value across clouds For every 5,000 drug candidates, only one results in a commercial product,",
@@ -1348,59 +1382,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-our-ai-headline-experiment-continues-did-we-break-the-machine.md",
-      "title": "Our AI headline experiment continues: Did we break the machine?",
-      "excerpt": "Is Our Machine Learning? Our AI headline experiment continues: Did we break the machine? Feeding the machine: We give an AI some headlines and see what it does; Is our machine lea",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2021/07/our-ai-experiment-continues-did-we-break-the-machine/",
-      "originalUrl": "https://arstechnica.com/information-technology/2021/07/our-ai-experiment-continues-did-we-break-the-machine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/Machine-Learning-Feature-3-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-20T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AWS AI"
       ]
     }
   ],

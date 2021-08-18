@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/08/17/african-fintech-pngme-raises-15m-f
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/17/african-fintech-pngme-raises-15m-for-its-financial-data-infrastructure-platform/amp/"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Financial Data Platform Pngme Raises $15 Million"
+    excerpt: "Pngme, a San Francisco-based financial data platform, announced yesterday that it has secured $15 million in Series A funding."
+    publishedDateTime: 2021-08-18T08:34:00Z
+    webUrl: "https://www.financemagnates.com/fintech/news/financial-data-platform-pngme-raises-15-million/"
+    ampWebUrl: "https://www.financemagnates.com/fintech/news/financial-data-platform-pngme-raises-15-million/amp/"
+    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/news/financial-data-platform-pngme-raises-15-million/amp/"
+    type: article
+    provider:
+      name: Finance Magnates
+      domain: financemagnates.com
+    quality: 59
+    images:
+      - url: "https://www.financemagnates.com/wp-content/uploads/2021/05/StoneX-Logo.jpg"
+        width: 424
+        height: 211
+        isCached: true
   - title: "FinTech: AI and the future of financial services"
     excerpt: "AI has given birth to the fintech industry, making digital transactions and data aggregation a new way of life, but what does the future hold?"
     publishedDateTime: 2021-08-17T09:23:00Z

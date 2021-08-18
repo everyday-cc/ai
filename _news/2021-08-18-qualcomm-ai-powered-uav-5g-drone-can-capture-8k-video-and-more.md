@@ -6,7 +6,7 @@ publishedDateTime: 2021-08-18T09:39:00Z
 originalUrl: "https://www.geeky-gadgets.com/qualcomm-5g-drone-18-08-2021/"
 webUrl: "https://www.geeky-gadgets.com/qualcomm-5g-drone-18-08-2021/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/08/Qualcomm-AI-powered-UAV-5G-drone.jpg"
@@ -108,6 +109,6 @@ related:
       domain: mobilitytechzone.com
     quality: 0
 
-secured: "nSM1jfLryG8MBNsnpIxvpS9BxFPdLj672Q9sGrqD7gS9RbdzsQjREq5f6LZbAhmdVFy7Nz5gPQPOoIVzoHpiRSODftHwP16wcGXYpFzprO7q+SBhduAndQKO8W85nV9DpmG7zCEtusPsNsSiSzVw7QbwLioKuXnGGg4xslb7EYVRGj3BgcIs8nRUyLmSv/wujrpmnrkYYY4ePRQK6HC5ZDCOEiaLq7xwUjY0HkqZb5xrekpvqjkj4CFAaNU7LTWCr8RgNRs67thNhrtSGcKjpsEobfSNlIm5UcZfazBmCMLy7AiYksqxDza9NEoa5Xk7CwoER9nAG4HNpaPLcnHaZmsTde9VzMehvoZ+gUJdR9I=;60ZdJxH+GaZwStp4gZzDLA=="
+secured: "GABIkiexjPW8OFhlilkAWkHk3jSzzf6gvlmb/aPrGlnYc4SaUc+oqjWfb0zJJ3hbglK7Cvpwxsi4VZC64di+JX5V47r/7tNcxDDmfOZwExgcruXVbiW1urqvyG2EnPiPZEZA122wj+gSXg9vB/h72DRshP7aS0zh6JqiKi3k4JOftvFxcEXctqMSIXEnoVxcKOMHIllp/f+o4urbr0ilfyhS26yu1NQjU4R85WEnqjoAh3e/K0uZX9FgOs8v/+CRNxyM0xvTIo160/FWbo4K3WB5oGpOPCSxBonQhNWtJy7ruZ62C5UtbjqElcTX8lOcX8x2cPrsNuN20qzsfHV7zO2gSfgG/uHl2N+6IqUX7PpSXxLCDqBAsWl7XKlIURYTKmwr1lRmTQSA++830akiZ9WSpIJYKig4sVSKXd66tK6cGGyEFOeohIf5HA9ocgq83SW+MBu41uh9fqzj1sg/2b7m3lhrGS0yl3F38ENCMytw7uLOnvcxi3Rg/SVirlsXlv+Jfb96S8aLJEl1lEGE/g==;/vcUvoMVghMANnGqEu3mNw=="
 ---
 

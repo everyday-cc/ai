@@ -72,7 +72,7 @@ related:
     provider:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/08/Qualcomm-AI-powered-UAV-5G-drone.jpg"
         width: 700

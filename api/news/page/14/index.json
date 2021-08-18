@@ -2,6 +2,101 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-08-05-google-pixel-6-to-sport-5nm-tensor-chips-made-by-samsung-report.md",
+      "title": "Google Pixel 6 to sport 5nm Tensor chips made by Samsung: Report",
+      "excerpt": "While Google is gearing up for the launch of its Pixel 6 series, a new report has revealed new information regarding the company’s new proprietary chipset. The upcoming Pixel 6 will sport the new Tensor chips that are based on a 5nm process produced by Samsung.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/08/05/google-pixel-6-tensor-chips-5nm-samsung/",
+      "originalUrl": "https://www.gizmochina.com/2021/08/05/google-pixel-6-tensor-chips-5nm-samsung/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2021/08/Google-Tensor.jpg",
+          "width": 453,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-05T03:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-indonesian-verification-platform-for-fintech-set-to-graduate-from-y-combinator.md",
+      "title": "Indonesian verification platform for fintech set to graduate from Y Combinator",
+      "excerpt": "Verihubs, which offers a similar service to US-based unicorn Plaid, counts Indonesia’s largest private bank among its clients.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techinasia.com/verihubs-set-to-graduate-y-combinator?ref=recommender-697782",
+      "originalUrl": "https://www.techinasia.com/verihubs-set-to-graduate-y-combinator?ref=recommender-697782",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-05T02:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Techinasia",
+        "domain": "techinasia.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techinasia.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-05-fintech-zeni-announces-34-mn-series-b-led-by-elevation-capital.md",
       "title": "Fintech Zeni Announces $34 Mn Series B Led By Elevation Capital",
       "excerpt": "The company will use the capital infusion to bring its intelligent bookkeeping and accounting platform and services to more customers by investing aggressively in its team in the US and India across product,",
@@ -1096,111 +1191,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-word-to-the-wise-do-not-try-asking-an-ai-self-driving-car-to-park-in-the-red.md",
-      "title": "Word To The Wise: Do Not Try Asking An AI Self-Driving Car To Park In The Red",
-      "excerpt": "If a passenger inside a self-driving car asks to be dropped off at a red curb, should the AI perform this potentially illegal act?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/04/word-to-the-wise-do-not-try-asking-an-ai-self-driving-car-to-park-in-the-red/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/04/word-to-the-wise-do-not-try-asking-an-ai-self-driving-car-to-park-in-the-red/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6108c783af8a8c472c810b03%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2166%26cropY1%3D562%26cropY2%3D2896",
-          "width": 1200,
-          "height": 1293,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/04/word-to-the-wise-do-not-try-asking-an-ai-self-driving-car-to-park-in-the-red/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/04/word-to-the-wise-do-not-try-asking-an-ai-self-driving-car-to-park-in-the-red/amp/",
-      "publishedDateTime": "2021-08-04T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-air-t-edge-series-rugged-software-define-radios-with-a-gpu.md",
-      "title": "AIR-T Edge Series-Rugged Software Define Radios with a GPU",
-      "excerpt": "The AIR8201 incorporates the proven technology of Artificial Intelligence Radio Transceiver (AIR-T) product line: an NVIDIA Jetson TX2i industrial-grade embedded GPU processor, an industrial grade Xilinx FPGA,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/air-t-edge-series-rugged-software-define-radios-with-a-gpu-1030689624",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/air-t-edge-series-rugged-software-define-radios-with-a-gpu-1030689624",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1587736/Deepwave_Digital_edge_series_announcement.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-04T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

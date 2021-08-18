@@ -2,6 +2,92 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2021-07-08-artificial-intelligence-helps-to-discover-new-drugs.md",
+      "title": "Artificial Intelligence Helps to Discover New Drugs",
+      "excerpt": "In any case, the pharmaceutical industry will have to adapt its research approach to a new rulebook. Artificial intelligence (AI) in healthcare is the discipline using data intensive computer based solutions to improve patient care and outcome. Drug ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/artificial-intelligence-helps-to-discover-new-drugs-202141-1.htm",
+      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-helps-to-discover-new-drugs-202141-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/drug-6.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-helps-to-discover-new-drugs-202141-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-helps-to-discover-new-drugs-202141-1.htm",
+      "publishedDateTime": "2021-07-07T22:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-08-oneplus-nord-2-launch-date-accidentally-confirmed-to-feature-dimensity-1200-ai-chip.md",
+      "title": "OnePlus Nord 2 launch date accidentally confirmed, to feature Dimensity 1200 AI chip",
+      "excerpt": "Ahead of the launch, it has also revealed the device’s performance unit details. The upcoming OnePlus Nord 2 will feature a custom MediaTek Dimensity 1200 AI chipset under the hood. While we have seen the Dimnesity 1200 SoC on the Realme X7 Max (Review ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/technology/oneplus-nord-2-launch-date-accidentally-confirmed-to-feature-dimensity-1200-ai-chip-7143481.html",
+      "originalUrl": "https://www.moneycontrol.com/news/technology/oneplus-nord-2-launch-date-accidentally-confirmed-to-feature-dimensity-1200-ai-chip-7143481.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2020/07/Nord-2-770x433.jpg?impolicy=website&width=770&height=431",
+          "width": 770,
+          "height": 431,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/technology/oneplus-nord-2-launch-date-accidentally-confirmed-to-feature-dimensity-1200-ai-chip-7143481.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/oneplus-nord-2-launch-date-accidentally-confirmed-to-feature-dimensity-1200-ai-chip-7143481.html/amp",
+      "publishedDateTime": "2021-07-07T21:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-08-ai-tool-can-measure-fat-around-the-heart-and-calculate-ones-diabetes-risk.md",
       "title": "AI tool can measure fat around the heart and calculate one’s diabetes risk",
       "excerpt": "Accumulation of fat specifically around the heart has long been linked to cardiovascular and metabolic disease but until now there hasn’t been a simple way to measure this. A new artificial intelligence tool has been developed that can quantify these fat deposits from regular MRI images.",
@@ -1086,111 +1172,6 @@
         "AI",
         "Google AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-robots-can-make-music-but-can-they-sing.md",
-      "title": "Robots Can Make Music, but Can They Sing?",
-      "excerpt": "At an international competition called the A.I. Song Contest, tracks exploring the technology as a tool for music making revealed the potential — and the limitations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/07/07/arts/music/ai-song-contest.html",
-      "originalUrl": "https://www.nytimes.com/2021/07/07/arts/music/ai-song-contest.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/07/07/arts/07ai-song3/07ai-song3-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/07/07/arts/music/ai-song-contest.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/07/arts/music/ai-song-contest.amp.html",
-      "publishedDateTime": "2021-07-07T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-artificial-intelligence-in-education-market-report-2021-to-2030-globally-exploring-sales-volume-revenue-and-price-by-types.md",
-      "title": "Artificial Intelligence in Education Market Report 2021 to 2030 Globally Exploring Sales Volume Revenue and Price by Types",
-      "excerpt": "Jul 07, 2021 (AmericaNewsHour) -- In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence in Education Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-report-2021-to-2030-globally-exploring-sales-volume-revenue-and-price-by-types-2021-07-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-report-2021-to-2030-globally-exploring-sales-volume-revenue-and-price-by-types-2021-07-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-07T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales",
-        "AI in Education"
       ]
     }
   ],

@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Samsung has its own AI-designed chip. Soon, others will too"
-excerpt: "Samsung is using AI features in new software from Synopsys, a leading chip design software firm used by many companies. “What you’re seeing here is the first of a real commercial processor design with AI,"
+excerpt: "Samsung is using artificial intelligence to automate the insanely complex and subtle process of designing cutting-edge computer chips. The South Korean giant is one of the first chipmakers to use AI to create its chips."
 publishedDateTime: 2021-08-15T10:44:00Z
-originalUrl: "https://arstechnica.com/gadgets/2021/08/samsung-has-its-own-ai-designed-chip-soon-others-will-too/?comments=1&start=0"
-webUrl: "https://arstechnica.com/gadgets/2021/08/samsung-has-its-own-ai-designed-chip-soon-others-will-too/?comments=1&start=0"
+originalUrl: "https://arstechnica.com/gadgets/2021/08/samsung-has-its-own-ai-designed-chip-soon-others-will-too/"
+webUrl: "https://arstechnica.com/gadgets/2021/08/samsung-has-its-own-ai-designed-chip-soon-others-will-too/"
 type: article
 quality: 84
-heat: 154
+heat: 155
 published: true
 
 provider:
@@ -19,8 +19,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - AI Hardware
+  - AI
 
 images:
   - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/08/cpu-red-760x380.jpg"
@@ -130,6 +130,6 @@ related:
         height: 630
         isCached: true
 
-secured: "DQD7lbl9ZtcNnbSqWJ/YTE+nztCsRdb5WF0Da3rNRcAoFU+Sjtj5sRC5cZRsyuD/9XqBNPxma9T9qMkHjifPc9RQMlv4Dr1lgt+9/aEErZa8/Z2HU5PrP32neKE4r81nIlaWIXfjkN3jvllzrqEbEALC5pbYreo7wvSDEDCwqyaM8exgTBaTdlYUxG1fHEI6m/KZ1W9z5WM0ccELYHphAEq/FES0H31XWyzWRpebkOsa3PxaCIDI4vbfofbTL6SkEJWOIgS9FB2Gt6Ms3Spacinv93b1fMdqFN2Nmo5UNzydQEf9Cp2twe6kpfTtHdBoGe8JlNn7EwkTmkBRHCuGa+efdkoIXijtIommF2gAuEA=;ver79xdSpzHQAOhHej+4HQ=="
+secured: "/JmBQvFJ15tAr3SfPJ+aLst+9ayOvwv5oMPYbPK17irmzeKSATQRPnxGhpdgJXTV52107iGp+J2l9micwmxVUdixe8Ixv+k17ot0H98Xh0gYCS4w9ouKck4WumKqXAipp0B7Xd2r85uc2iLxTfhMrX37FgjI3by7a4hnki7jrSS08T9KgFQ9n40rnLjpXsP5PFxPeuyTMZVzfPY9JPdJRijORcmoRxKKRpM69LMMe3HWOz46sIxbm8qV0h4fthC8LJ5hmRM+DkjOcFTDC0IJZwA44sDGq1ijQ8L9a29oNEvzN16QSmI+Yfm959k1h4V5EUOi2n+1/BRMlopvbGvUOdXhvimww1XrqbngwG74QjA=;JnLlJsX7TIvzv+EXO/gItA=="
 ---
 

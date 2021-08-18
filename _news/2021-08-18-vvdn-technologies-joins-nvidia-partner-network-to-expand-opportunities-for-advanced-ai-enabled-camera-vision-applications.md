@@ -1,18 +1,20 @@
 ---
 category: news
-title: "VVDN Technologies Joins NVIDIA Partner Network to Expand Opportunities for Advanced AI-Enabled Camera & Vision Applications"
-excerpt: "VVDN Technologies, a premier electronic product engineering and manufacturing company, announced that it has joined the NVIDIA Partner"
-publishedDateTime: 2021-08-18T09:00:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/vvdn-technologies-joins-nvidia-partner-network-to-expand-opportunities-for-advanced-ai-enabled-camera-amp-vision-applications-851556490.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/vvdn-technologies-joins-nvidia-partner-network-to-expand-opportunities-for-advanced-ai-enabled-camera-amp-vision-applications-851556490.html"
+title: "VVDN Technologies joins NVIDIA Partner Network to expand opportunities for advanced AI-Enabled Camera & Vision Applications"
+excerpt: "VVDN Technologies, a premier electronic product engineering and manufacturing company, announced that it has joined the NVIDIA Partner Network"
+publishedDateTime: 2021-08-18T09:40:00Z
+originalUrl: "https://theprint.in/ani-press-releases/vvdn-technologies-joins-nvidia-partner-network-to-expand-opportunities-for-advanced-ai-enabled-camera-vision-applications/717875/"
+webUrl: "https://theprint.in/ani-press-releases/vvdn-technologies-joins-nvidia-partner-network-to-expand-opportunities-for-advanced-ai-enabled-camera-vision-applications/717875/"
+ampWebUrl: "https://theprint.in/ani-press-releases/vvdn-technologies-joins-nvidia-partner-network-to-expand-opportunities-for-advanced-ai-enabled-camera-vision-applications/717875/?amp"
+cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/vvdn-technologies-joins-nvidia-partner-network-to-expand-opportunities-for-advanced-ai-enabled-camera-vision-applications/717875/?amp"
 type: article
-quality: 15
-heat: 15
+quality: 35
+heat: 35
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: ThePrint
+  domain: theprint.in
 
 topics:
   - Computer Vision
@@ -20,11 +22,11 @@ topics:
   - AI Hardware
 
 images:
-  - url: "https://mma.prnewswire.com/media/1531036/VVDN_Technologies_Logo.jpg?p=facebook"
+  - url: "https://static.theprint.in/wp-content/uploads/2021/08/vvdn-technologies-joins-nvidia-partner-network-to-expand-opportunities-for-advanced-ai-enabled-camera-vision-applications.jpg"
     width: 600
-    height: 315
+    height: 450
     isCached: true
 
-secured: "SdnS59PKgNiBp5cXpCtpD7xrLdq50xYNFrrJkkFdEdZSE2cIdo8VZyddyLgX7Ruv1mYiMdX1019Fx88f107+tiY0ULf8dv75qiEIgKX0fthWtwF0R3vP2fW0wMhQTiWA3VfkZWL1EZyHAeGLqRgOd1ILsD+Sj5AxD2Bl714/l9PeMGzS5xbQIVszU96VUxhOIBEotUUoFrth8PtqWm5+WXMklPKQBdx1ZoopqszLeYvn7tgD+N5hUS6zl7qGra3PNyO2FA67AOQOVZ6XzlJblKQcw0pKjxgaC0rgPg/wyKdG68P6EeFw1f12uGufvEM29FvXbCc0256tHaxiS/YK7RhK940/KoAOFwnwQUPeLkY=;OX/pjTFeWZeMF0gAeWVu2A=="
+secured: "O/pZ5vOl5xKy6r6SRRIkL9laca+CwZxv5ml8G0OKB9xhj1+EXfyGc3fBFV9EqTPzZ4yFwR4ZqTI7nn/o81PC5xHS2YlJNJV2okRmBBtiAaGNTr39OF5ouDKJ8WGRQDrp1G+CAtAwlg6g4zWNVIJWsJoSkTLfThoyjvh96gbXUWMn8ljOdJ3j8UeIWBzAC3YILJnCvMSOrMZ7HZwic4igApZ0jrIzNnJHQvE0LsxK3lAR93WesCKuKNben+fq9rfERZHtjl/UDti3YcPVjswuePHYyyLMTOX8SGF5QyBlqiZ2H9gMo72n21T6Z91A2PwADt63i1s8cUQcLRlGHIQpBHtQdiB3DO1YSSEuogu121A=;C8Qd2niJvWzmKOwereg1TQ=="
 ---
 

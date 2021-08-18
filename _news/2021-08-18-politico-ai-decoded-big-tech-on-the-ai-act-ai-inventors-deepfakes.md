@@ -8,8 +8,8 @@ webUrl: "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-big-t
 ampWebUrl: "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-big-tech-on-the-ai-act-ai-inventors-deepfakes/amp/"
 cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-big-tech-on-the-ai-act-ai-inventors-deepfakes/amp/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.politico.eu/wp-content/uploads/2021/04/01/AI-Decoded.png"
@@ -26,6 +27,6 @@ images:
     height: 1080
     isCached: true
 
-secured: "aLNxoyK1bfeBjbPmsqSGAx2fpJKwkS0lhASLB7WcXmUL0oolWa0KcraCaxqbbMUiAYe/YTIuRYXMGqr2Bzrcvv/MaDDqyXqLV6qLu8OIii0LE6VT74fw9T3e1c3BsNaDe1SKpr0YZUkKEAtUGipToeUzYYNKGSDOZ3Xusj+r9cKPhDYUPzN+hK+GPl7dQFgC62AGK9EsYb7jGYDe/yjA+iVAxeBJcz+hCtZBf1jU+6h3luSar4SBrUI/VFh0xkU4OFkLrYn3OFzSsgoWCeOokf94AACeHwFjTePPi1ZJPJaHA5FcKFRkBMOHuo88SwjWyAU/w5OncgpetetpG+GVwR+nYiBOSSq6MfvDBSTcuf4=;yIgitOdHOBnxKfhMPhCYNA=="
+secured: "F6AL5mwkx45WPEEqh6SG6OTAc9/fok550LunbKA2UdiO9fOlAeVSwscheUIBy1C2F4dmXKOwcdfxDnamuvhSAdsi4gpxP4szZ72urhw6q8XF035Ni5RmqHpW/8irJTQ41ygZIK5L8Bp1B3ZrtTcBhzBt1p9Q7SqGtwnPGetCJuuyxRHts+Jsmbal1HwFfXS7pcSpy7bA4E616roRJaE5Ew9TwCErfLmDis5F0NXI3Vnr2hhjI0qgVrA7yu+ghxIL9LdWAo94Dvlr8ZnyAj6bk5J6kKRZHmwNYbLCLlrFXRDlBLN4ioWJJNjo9VC1XzMVqzh1bc3HnBx2Mg5tOC+hegs5/1EbD4/DDM0YJZB75aRoeJiHeydcWqg8g91XJoBtRmsT0gne0NUsC28CuBZj7SMVUjuiJjH9iHeq5DmfIJmPaye4kH3C+g230oFtEPU4s2qfgobkcz8it2DAzMwkyytBGssaJWWWX5IIydug3xrR/9onywCma9xofdVFmQouEEJcSnyYxqAMafdcIScx5Q==;GNTtPQt8dXghvr/SdvZFoA=="
 ---
 

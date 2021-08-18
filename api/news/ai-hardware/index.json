@@ -105,7 +105,7 @@
       "originalUrl": "https://www.techradar.com/nz/news/intel-teases-reveal-of-arcs-ai-powered-dlss-super-sampling-alternative-this-week",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -262,7 +262,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/will-project-dojo-be-the-central-focus-of-teslas-tsla-ai-day-2021-08-16",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -291,13 +291,13 @@
     {
       "path": "_news/2021-08-15-samsung-has-its-own-ai-designed-chip-soon-others-will-too.md",
       "title": "Samsung has its own AI-designed chip. Soon, others will too",
-      "excerpt": "Samsung is using AI features in new software from Synopsys, a leading chip design software firm used by many companies. “What you’re seeing here is the first of a real commercial processor design with AI,",
+      "excerpt": "Samsung is using artificial intelligence to automate the insanely complex and subtle process of designing cutting-edge computer chips. The South Korean giant is one of the first chipmakers to use AI to create its chips.",
       "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2021/08/samsung-has-its-own-ai-designed-chip-soon-others-will-too/?comments=1&start=0",
-      "originalUrl": "https://arstechnica.com/gadgets/2021/08/samsung-has-its-own-ai-designed-chip-soon-others-will-too/?comments=1&start=0",
+      "webUrl": "https://arstechnica.com/gadgets/2021/08/samsung-has-its-own-ai-designed-chip-soon-others-will-too/",
+      "originalUrl": "https://arstechnica.com/gadgets/2021/08/samsung-has-its-own-ai-designed-chip-soon-others-will-too/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 155,
       "tags": null,
       "images": [
         {
@@ -336,8 +336,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI Hardware"
+        "AI Hardware",
+        "AI"
       ]
     },
     {

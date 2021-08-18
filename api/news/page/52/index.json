@@ -2,6 +2,91 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2021-07-09-using-ai-to-drill-down-in-physics.md",
+      "title": "Using AI to Drill Down in Physics",
+      "excerpt": "Jesse Thaler, an associate professor of physics at the Massachusetts Institute of Technology (MIT), investigates the potential of artificial intelligence (AI) in particle physics. In 2020, Thaler also became the director of the National Science Foundation's AI Institute for Artificial Intelligence and Fundamental Interactions (IAIFI),",
+      "sourceUrl": null,
+      "webUrl": "https://cacm.acm.org/news/253847-using-ai-to-drill-down-in-physics/fulltext",
+      "originalUrl": "https://cacm.acm.org/news/253847-using-ai-to-drill-down-in-physics/fulltext",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-08T10:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "acm.org",
+        "domain": "acm.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-08-robotic-funding-doesnt-grow-on-trees.md",
+      "title": "Robotic funding doesn’t grow on trees",
+      "excerpt": "Good Fruit Grower got the following statement from CEO Dan Steere, After a series of promising commercial trials ... so here’s a fun video of Boston Dynamics doing fun Boston Dynamics stuff ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/03/29/this-is-boston-dynamics-next-commercial-robot/",
+      "originalUrl": "https://techcrunch.com/2021/07/08/robotics-roundup-19/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/yYUuWWnfRsk/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/03/29/this-is-boston-dynamics-next-commercial-robot/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/29/this-is-boston-dynamics-next-commercial-robot/amp/",
+      "publishedDateTime": "2021-07-08T09:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-08-new-machine-learning-based-cheating-may-threaten-competitive-play.md",
       "title": "New machine learning-based cheating may threaten competitive play",
       "excerpt": "Despite being illicit in games, and even illegal in some countries, the cheating industry has developed immensely, creating multi-million dollar businesses. You may think cheating is",
@@ -1055,92 +1140,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-artificial-intelligence-helps-to-discover-new-drugs.md",
-      "title": "Artificial Intelligence Helps to Discover New Drugs",
-      "excerpt": "In any case, the pharmaceutical industry will have to adapt its research approach to a new rulebook. Artificial intelligence (AI) in healthcare is the discipline using data intensive computer based solutions to improve patient care and outcome. Drug ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/artificial-intelligence-helps-to-discover-new-drugs-202141-1.htm",
-      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-helps-to-discover-new-drugs-202141-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/drug-6.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-helps-to-discover-new-drugs-202141-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-helps-to-discover-new-drugs-202141-1.htm",
-      "publishedDateTime": "2021-07-07T22:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-oneplus-nord-2-launch-date-accidentally-confirmed-to-feature-dimensity-1200-ai-chip.md",
-      "title": "OnePlus Nord 2 launch date accidentally confirmed, to feature Dimensity 1200 AI chip",
-      "excerpt": "Ahead of the launch, it has also revealed the device’s performance unit details. The upcoming OnePlus Nord 2 will feature a custom MediaTek Dimensity 1200 AI chipset under the hood. While we have seen the Dimnesity 1200 SoC on the Realme X7 Max (Review ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/technology/oneplus-nord-2-launch-date-accidentally-confirmed-to-feature-dimensity-1200-ai-chip-7143481.html",
-      "originalUrl": "https://www.moneycontrol.com/news/technology/oneplus-nord-2-launch-date-accidentally-confirmed-to-feature-dimensity-1200-ai-chip-7143481.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2020/07/Nord-2-770x433.jpg?impolicy=website&width=770&height=431",
-          "width": 770,
-          "height": 431,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/technology/oneplus-nord-2-launch-date-accidentally-confirmed-to-feature-dimensity-1200-ai-chip-7143481.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/oneplus-nord-2-launch-date-accidentally-confirmed-to-feature-dimensity-1200-ai-chip-7143481.html/amp",
-      "publishedDateTime": "2021-07-07T21:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

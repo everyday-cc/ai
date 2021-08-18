@@ -41,6 +41,22 @@ related:
         width: 887
         height: 508
         isCached: true
+  - title: "Financial Data Platform Pngme Raises $15 Million"
+    excerpt: "Pngme, a San Francisco-based financial data platform, announced yesterday that it has secured $15 million in Series A funding."
+    publishedDateTime: 2021-08-18T08:34:00Z
+    webUrl: "https://www.financemagnates.com/fintech/news/financial-data-platform-pngme-raises-15-million/"
+    ampWebUrl: "https://www.financemagnates.com/fintech/news/financial-data-platform-pngme-raises-15-million/amp/"
+    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/news/financial-data-platform-pngme-raises-15-million/amp/"
+    type: article
+    provider:
+      name: Finance Magnates
+      domain: financemagnates.com
+    quality: 59
+    images:
+      - url: "https://www.financemagnates.com/wp-content/uploads/2021/05/StoneX-Logo.jpg"
+        width: 424
+        height: 211
+        isCached: true
   - title: "Sharon French Joins Fintech TIFIN as Senior Partner as over 50 ETFs and Mutual Funds Use the Platform to Reach Financial Advisors and Investors"
     excerpt: "TIFIN, a fintech platform using artificial intelligence and investment-driven personalization to shape the future of investor experiences, today announced that financial industry veteran"
     publishedDateTime: 2021-08-16T12:47:00Z

@@ -3,28 +3,27 @@ category: news
 title: "Jon Peddie Research Announces its Latest Whitepaper for Sony Electronics Inc.: The Rise and Benefits of Companion Robots"
 excerpt: "Jon Peddie Research (JPR), the industry's research and consulting firm for graphics and multimedia, announced a new whitepaper regarding the benefits of companion robots, including the Sony Aibo dog."
 publishedDateTime: 2021-08-16T11:56:00Z
-originalUrl: "https://www.bakersfield.com/ap/news/jon-peddie-research-announces-its-latest-whitepaper-for-sony-electronics-inc-the-rise-and-benefits/article_df231d87-5ae0-580a-87c3-7fd099241713.html"
-webUrl: "https://www.bakersfield.com/ap/news/jon-peddie-research-announces-its-latest-whitepaper-for-sony-electronics-inc-the-rise-and-benefits/article_df231d87-5ae0-580a-87c3-7fd099241713.html"
+originalUrl: "https://www.valdostadailytimes.com/news/business/jon-peddie-research-announces-its-latest-whitepaper-for-sony-electronics-inc-the-rise-and-benefits/article_9f88f0ca-e0cd-59af-ba08-52c2dc74d616.html"
+webUrl: "https://www.valdostadailytimes.com/news/business/jon-peddie-research-announces-its-latest-whitepaper-for-sony-electronics-inc-the-rise-and-benefits/article_9f88f0ca-e0cd-59af-ba08-52c2dc74d616.html"
 type: article
-quality: 16
-heat: 16
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: The Bakersfield Californian
-  domain: bakersfield.com
+  name: The Valdosta Daily Times
+  domain: valdostadailytimes.com
 
 topics:
-  - AI in Robotics
-  - AI
   - AI in Healthcare
+  - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png"
-    width: 1200
-    height: 630
+  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg"
+    width: 640
+    height: 336
     isCached: true
 
-secured: "WkM2/hmgDxvyvOfHP6Zg+I303kWRI3D0fb1R/ew8xMDnw/gbupHQaZq+fRbeZ0ovsmAbspI7A+P62eYMULAJdMg4KPYghh68UbXeaXg32GjjT8Zq1Ncyg79su7unTZWUS7h4+5ZikyOeet2O2yRat8ulCMWoPlcn4u18GuwkNSUgz6ft8/c9szPo3Q3vrVIK3GUjqLDzFhCUlLyekVtphWhNvPIYsW0TgD7uyNODghFAQzGqLrGSR0jcVeP0ErxQ2I88JVEHdLHUQAOlL6N2nFYW9qMo+jzEShDerdBA8Vrxow7tdJMGJPwqEFd8XmvziurOo3v7bIFHIl8qP3T5h/M1qR7C+TsIOjV0dxBmLoc=;DoyCVRwlhX9WN/tBrKS/tw=="
+secured: "fMlGGtrFmtivaMh1Qh5aLYnc66FxundMVNXVSNmtM+oRFONqqCRSDt2Pypcm+et0JopGtBgAWFbiPAgDWX8lDmh2FXHLbYVhNrq5KxfSPxZJkxU//cW1F57nvjTHumxxGxRzHmNCDMxGtHM8mdytR7xXuQgTAdwFzGdTlghrPWAOccoxEV0zNSMnJlBWQSFBt17jG+ynVMzRC89/RzJ/b4QQQqkizhMTBGGjIeoeW0m0FgPoFICtodWdFGpaHjbBs7zNp7RrkPGLfQMLtjw2hvTkgPlm6vhPPTACbcGtgfM3TUqK9IuaCwBBJ6KxhJcVFBeO4yM9upirL/0Ko6njHJSkkHzz9TRNGuaIf8Bfzd4=;Cfvy5p635EPE1aLbib7HYg=="
 ---
 

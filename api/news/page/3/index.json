@@ -2,6 +2,100 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-16-us-probing-autopilot-problems-on-765000-tesla-vehicles.md",
+      "title": "U.S. probing Autopilot problems on 765,000 Tesla vehicles",
+      "excerpt": "The investigation of automated driving systems covers 765,000 vehicles, almost everything Tesla has sold in the U.S. since its 2014 model year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/u-s-probing-autopilot-problems-on-765000-tesla-vehicles/",
+      "originalUrl": "https://www.msn.com/en-us/news/us/us-probes-autopilot-problems-on-765000-tesla-vehicles/ar-AANnKSo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 219,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2016/07/26/2ba3eebe-003e-40a9-ba02-878f155e7235/thumbnail/1200x630/98f5acf6ccf62dbae5ac2354d53f0427/gettyimages-545144506.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/u-s-probing-autopilot-problems-on-765000-tesla-vehicles/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/u-s-probing-autopilot-problems-on-765000-tesla-vehicles/",
+      "publishedDateTime": "2021-08-16T08:25:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cbsnews.com/news/u-s-probing-autopilot-problems-on-765000-tesla-vehicles/",
+        "domain": "cbsnews.com/news/u-s-probing-autopilot-problems-on-765000-tesla-vehicles/",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-08-16-infervision-ai-assists-the-european-commission-monitoring-covid-19-variants.md",
+      "title": "InferVision AI Assists the European Commission Monitoring COVID-19 Variants",
+      "excerpt": "InferVision AI has been selected to help monitor COVID-19 variants across the European Union. Faced with this challenge, the European Commission decided to increase their investment in the adoption of AI tools from InferVision.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/infervision-ai-assists-the-european-commission-monitoring-covid-19-variants-1030734639",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/infervision-ai-assists-the-european-commission-monitoring-covid-19-variants-1030734639",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1595169/InferRead_CT.jpg",
+          "width": 400,
+          "height": 243,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-16T06:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-16-iim-ahmedabad-launches-centre-for-data-science-and-artificial-intelligence.md",
       "title": "IIM Ahmedabad Launches Centre for Data Science and Artificial Intelligence",
       "excerpt": "Ahmedabad has launched the Brij Disa Centre for Data Science and Artificial Intelligence (CDSA) to enable research in the field.",
@@ -383,13 +477,13 @@
     {
       "path": "_news/2021-08-15-samsung-has-its-own-ai-designed-chip-soon-others-will-too.md",
       "title": "Samsung has its own AI-designed chip. Soon, others will too",
-      "excerpt": "Samsung is using AI features in new software from Synopsys, a leading chip design software firm used by many companies. “What you’re seeing here is the first of a real commercial processor design with AI,",
+      "excerpt": "Samsung is using artificial intelligence to automate the insanely complex and subtle process of designing cutting-edge computer chips. The South Korean giant is one of the first chipmakers to use AI to create its chips.",
       "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2021/08/samsung-has-its-own-ai-designed-chip-soon-others-will-too/?comments=1&start=0",
-      "originalUrl": "https://arstechnica.com/gadgets/2021/08/samsung-has-its-own-ai-designed-chip-soon-others-will-too/?comments=1&start=0",
+      "webUrl": "https://arstechnica.com/gadgets/2021/08/samsung-has-its-own-ai-designed-chip-soon-others-will-too/",
+      "originalUrl": "https://arstechnica.com/gadgets/2021/08/samsung-has-its-own-ai-designed-chip-soon-others-will-too/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 155,
       "tags": null,
       "images": [
         {
@@ -428,8 +522,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI Hardware"
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -1126,102 +1220,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-aiml-seen-as-crucial-to-battle-software-supply-chain-security-breaches.md",
-      "title": "AI/ML Seen as Crucial to Battle Software Supply Chain Security Breaches",
-      "excerpt": "Malware delivered via automatic software updates is a challenge for the digital supply chain serving a wide range of companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aitrends.com/ai-in-business/ai-ml-seen-as-crucial-to-battle-software-supply-chain-security-breaches/",
-      "originalUrl": "https://www.aitrends.com/ai-in-business/ai-ml-seen-as-crucial-to-battle-software-supply-chain-security-breaches/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.aitrends.com/wp-content/uploads/2021/08/8-13SupplyChain-2.jpeg",
-          "width": 550,
-          "height": 309,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-13T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "aitrends",
-        "domain": "aitrends.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-why-ai-ethics-needs-to-address-ai-literacy-not-just-bias.md",
-      "title": "Why AI ethics needs to address AI literacy, not just bias",
-      "excerpt": "AI ethics is about more than just bias. That's why Red Hat's Noelle Silver is dedicated to spreading AI literacy.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/13/why-ai-ethics-needs-to-address-ai-literacy-not-just-bias/",
-      "originalUrl": "https://venturebeat.com/2021/08/13/why-ai-ethics-needs-to-address-ai-literacy-not-just-bias/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/Women-in-AI-Awards-1.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/13/why-ai-ethics-needs-to-address-ai-literacy-not-just-bias/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/13/why-ai-ethics-needs-to-address-ai-literacy-not-just-bias/amp/",
-      "publishedDateTime": "2021-08-13T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }
