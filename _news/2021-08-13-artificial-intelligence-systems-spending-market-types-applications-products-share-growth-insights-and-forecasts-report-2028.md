@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Radiotherapy Market Report 2021: Expanding Healthcare Infrastructure Accompanied with Rising R&D Activities to Propel Growth - Forecast to 2026"
-    excerpt: "The \"Global Radiotherapy Market - Analysis By Procedure (External Radiation, Internal Radiation), Product, Application, By Region, By Country (2021 Edition): Market Insights and Forecast with Impact of COVID-19 (2021-2026)\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2021-08-13T11:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/global-radiotherapy-market-report-2021-expanding-healthcare-infrastructure-accompanied-with-rising-r-d-activities-to-propel-growth-forecast-to-2026-1030728893"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 24
   - title: "AI Infrastructure Market to Witness the Highest Growth"
     excerpt: "The increasing need for hardware platforms with high computing power to run various AI software is a key factor fueling the growth of the AI infrastructure market. Machine learning technology held the largest share of AI infrastructure market in 2020 APAC is the host to a few of the fastest-growing and leading industrialized economies such as China,"
     publishedDateTime: 2021-08-18T00:37:00Z

@@ -27,7 +27,7 @@ related:
   - title: "InferVision AI Assists the European Commission Monitoring COVID-19 Variants"
     excerpt: "InferVision AI has been selected to help monitor COVID-19 variants across the European Union. Faced with this challenge, the European Commission decided to increase their investment in the adoption of AI tools from InferVision."
     publishedDateTime: 2021-08-16T13:29:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/infervision-ai-assists-the-european-commission-monitoring-covid-19-variants-1030734639"
+    webUrl: "https://markets.businessinsider.com/news/stocks/infervision-ai-assists-the-european-commission-monitoring-covid-19-variants-1030734747"
     type: article
     provider:
       name: Business Insider
@@ -37,6 +37,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1595169/InferRead_CT.jpg"
         width: 400
         height: 243
+        isCached: true
+  - title: "Global Artificial Intelligence Market Report (2021 to 2030) - COVID-19 Growth and Change - ResearchAndMarkets.com"
+    excerpt: "COVID-19 Growth and Change to 2030” report has been added to ResearchAndMarkets.com’s offering. This report provides strategists, marketers and senior management with the critical information they need to assess the global artificial intelligence market."
+    publishedDateTime: 2021-08-16T13:03:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-health-coronavirus-pandemic-artificial-intelligence-45b91cdf2c7842bd8d72db1edf75620c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 18
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "InferVision Completes Series D2 Financing Round Led by Goldman Sachs Asset Management"
     excerpt: "InferVision, a medical artificial intelligence (AI) provider specializing in the clinical application of AI and deep learning technologies announced the completion of its Series D2 financing led by Goldman Sachs Asset Management."

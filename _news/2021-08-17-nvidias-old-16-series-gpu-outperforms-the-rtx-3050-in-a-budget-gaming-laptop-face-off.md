@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcgamer.com/amp/nvidias-old-16-series-gpu-outperforms-th
 cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/nvidias-old-16-series-gpu-outperforms-the-rtx-3050-in-a-budget-gaming-laptop-face-off/"
 type: article
 quality: 51
-heat: 52
+heat: 51
 published: false
 
 provider:

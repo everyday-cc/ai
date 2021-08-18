@@ -27,22 +27,17 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Fintech Market COVID 19 Impacted In-Depth Analysis including key players Microsoft, Google, Salesforce"
-    excerpt: "Our report will be revised to address Pre/Post COVID-19 effects on the Artificial Intelligence in Fintech industry. Click to get Artificial Intelligence in Fintech Research Sample PDF Copy Here @: jcmarketresearch."
-    publishedDateTime: 2021-08-14T14:11:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-in-fintech-market-covid-19-impacted-in-depth-analysis-including-key-players-microsoft-google-salesforce/"
-    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-fintech-market-covid-19-impacted-in-depth-analysis-including-key-players-microsoft-google-salesforce/"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-fintech-market-covid-19-impacted-in-depth-analysis-including-key-players-microsoft-google-salesforce/"
+  - title: "Machine Learning as a Service (MLaaS) Market 2021 to Witness Stunning Growth-Microsoft Corporation, IBM Corporation, Google LLC"
+    excerpt: "Market Research Report 2021-2026 published by Market Insights Reports is a significant source of keen information for business specialists. It furnishes the Machine Learning as a Service (MLaaS) business outline with development investigation and historical and futuristic cost analysis,"
+    publishedDateTime: 2021-08-17T16:47:00Z
+    webUrl: "https://www.openpr.com/news/2358161/machine-learning-as-a-service-mlaas-market-2021-to-witness"
+    ampWebUrl: "https://www.openpr.com/amp/2358161/machine-learning-as-a-service-mlaas-market-2021-to-witness"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2358161/machine-learning-as-a-service-mlaas-market-2021-to-witness"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 45
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/Global-Telecom-Including-Key-Players-Market-Share-1.jpg"
-        width: 600
-        height: 400
-        isCached: true
+      name: openpr.com
+      domain: openpr.com
+    quality: 43
 
 secured: "mYr1l3+UCEYOY0GZKZoBv/TiDp+sShRRrjE8W6Glq1ua3mTpG78bQkrlGoycAmnS0RLMxLzEr+WvT8TDpaNOIG4ooIPS0UqhCIPLKkq8WbF4n3k11o+iZs2pf6awrQ47D05lcnomYj5Fsv+viAxdsVIQ8pjzvnW/fMNPlz3ef4sLwBLMLhrfstsRjE4hjUd+TiwHOQtY6R6EUClBkzaQtyHpgeiHQC/qxtevVu7b3MeGGFc5LnDdyIUUIPnrhN4Hxe7e9ww+CRrA62+xoT49HzmTJQ7TarH3cPWhh3NwASIq3YOlRdczaqEwd9+7fZ1X7e5A0pFoOqQbvbqmDon72pqu7PBU2/bBd44N6L69FNYkGXqc579sg8gNUzmdwt5BTxgiCF5fGe7+5ItZP8G4mbuAwdiS8G4NJVbyuA+O22CNKTVHb012n+Vw/youqR68rLDycv9CUl4p5ImCZrDCZvCkudutBTDkdf0m8uJmC5v994XqLNTcKA2slxiDuh3dW89SI8HO910vOz7Hc54m5w==;UEQ+czQ2Xn0bypV+HHzryg=="
 ---

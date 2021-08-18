@@ -61,20 +61,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Hands-free farm is using AI, smart sensors and lettuce-picking robots"
-    excerpt: "In Australia, innovators have just presented the country's first fully automated farm; it cost $20 million to set up. Conducted by researchers at Charles Sturt University in Wagga Wagga,"
-    publishedDateTime: 2021-08-13T12:08:00Z
-    webUrl: "https://www.freshplaza.com/article/9344341/hands-free-farm-is-using-ai-smart-sensors-and-lettuce-picking-robots/"
-    type: article
-    provider:
-      name: FreshPlaza
-      domain: freshplaza.com
-    quality: 54
-    images:
-      - url: "https://www.freshplaza.com/remote/https/agfstorage.blob.core.windows.net/misc/FP_com/2021/08/13/Coco.jpg?preset=OgImage"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Hands-free farm is using AI, smart sensors and lettuce-harvesting robots"
     excerpt: "In Australia, innovators have just presented the country's first fully automated farm; it cost $20 million to set up. Conducted by researchers at Charles Sturt University in Wagga Wagga,"
     publishedDateTime: 2021-08-16T15:32:00Z

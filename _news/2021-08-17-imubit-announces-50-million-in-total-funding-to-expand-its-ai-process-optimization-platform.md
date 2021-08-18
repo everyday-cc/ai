@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-s
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-fb409dad6066c8a32dbb472f96c1f810"
 type: article
 quality: 6
-heat: 6
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,38 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Plannuh Announces AI-Driven Marketing Planning and Budgeting Platform Integration to Salesforce"
+    excerpt: "Plannuh today announced an integration with Salesforce Marketing Cloud to empower marketers to reliably and consistently measure the true business value of their marketing campaigns and their entire marketing plan."
+    publishedDateTime: 2021-08-17T12:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/plannuh-announces-ai-driven-marketing-planning-and-budgeting-platform-integration-to-salesforce-1030737894"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 72
+    images:
+      - url: "https://mma.prnewswire.com/media/1158334/plannuh_Logo.jpg"
+        width: 400
+        height: 300
+        isCached: true
+  - title: "Artificial Intelligence in Fintech Market COVID 19 Impacted In-Depth Analysis including key players Microsoft, Google, Salesforce"
+    excerpt: "Our report will be revised to address Pre/Post COVID-19 effects on the Artificial Intelligence in Fintech industry. Click to get Artificial Intelligence in Fintech Research Sample PDF Copy Here @: jcmarketresearch."
+    publishedDateTime: 2021-08-14T14:11:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-fintech-market-covid-19-impacted-in-depth-analysis-including-key-players-microsoft-google-salesforce/"
+    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-fintech-market-covid-19-impacted-in-depth-analysis-including-key-players-microsoft-google-salesforce/"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-fintech-market-covid-19-impacted-in-depth-analysis-including-key-players-microsoft-google-salesforce/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 45
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/Global-Telecom-Including-Key-Players-Market-Share-1.jpg"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "e4rncmoK/GpjwWhj4kj2Ii+b1sXsSyb3oldu3aiMx0R1nTr3sN2qOW4JXremEYvnNNl+955NdYv91H6prs4ZfMRcTzGDwHb3LVbJWs49Rb0wi/cbsrOKep9MXHbjqQvxI2c9GjVPEdLE5uCkVeij+u/r1X6Kkfp/XIBa2LqTgC/4TpiznaRsdFSnk1dp4ydQq6qF21GTRsTtFw+JM/SqZc0iAq6q1Hh2dU+0y05LF2346YnxCpXuoh61SApSLZ9O6R7sF480SMywJGJ5rDqOg1xJF6aPe4zCRDSA0CeM4h1Why5cBGi8S0gj5T+CObCZEAGu4RgSLXQkc/vXUWKOIsvcNcVWxOIDQ1y7uGfBwjU=;2XvWU2776jXhjk+ASul5jA=="
 ---

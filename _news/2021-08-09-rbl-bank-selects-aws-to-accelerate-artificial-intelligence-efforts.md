@@ -1,16 +1,13 @@
 ---
 category: news
-title: "RBL Bank selects AWS to accelerate artificial intelligence efforts"
-excerpt: "RBL Bank, has chosen Amazon Web Services (AWS), an Amazon.com company, as its preferred cloud provider to strengthen its AI‐powered banking solutions and drive digital transformation at the Bank, adding significant value to the Bank’s innovative offerings,"
-publishedDateTime: 2021-08-08T20:38:00Z
-originalUrl: "https://www.indiainfoline.com/article/news-top-story/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900437_1.html"
-webUrl: "https://www.indiainfoline.com/article/news-top-story/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900437_1.html"
-ampWebUrl: "https://www.indiainfoline.com/article-amp/news-top-story/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900437_1.html"
-cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-top-story/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900437_1.html"
+title: "RBL Bank selects AWS to Accelerate Artificial Intelligence Efforts"
+excerpt: "Other use cases already being tested within the Operations division include using services like Amazon Rekognition and Amazon Textract to automatically extract and match customer signatures and ..."
+publishedDateTime: 2021-08-09T08:09:00Z
+originalUrl: "https://www.indiainfoline.com/article/news-sector-banking-financials/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900334_1.html"
+webUrl: "https://www.indiainfoline.com/article/news-sector-banking-financials/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900334_1.html"
+ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-banking-financials/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900334_1.html"
+cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-banking-financials/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900334_1.html"
 type: article
-quality: 91
-heat: -1
-published: false
 
 provider:
   name: India Infoline
@@ -22,77 +19,11 @@ topics:
   - AI in Finance
 
 images:
-  - url: "https://content.indiainfoline.com/_media/iifl/img/article/2018-10/01/full/1538373827-2439.jpg"
+  - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
     width: 350
     height: 233
     isCached: true
 
-related:
-  - title: "RBL Bank selects AWS to accelerate AI efforts"
-    excerpt: "RBL Bank has selected Amazon Web Services (AWS), an Amazon.com company, as its cloud provider. AWS would help RBL Bank strengthen its AI-powered banking solutions and drive digital transformation at the lender."
-    publishedDateTime: 2021-08-09T11:05:00Z
-    webUrl: "https://www.thehindubusinessline.com/money-and-banking/rbl-bank-selects-aws-to-accelerate-ai-efforts/article35814022.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/money-and-banking/rbl-bank-selects-aws-to-accelerate-ai-efforts/article35814022.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/money-and-banking/rbl-bank-selects-aws-to-accelerate-ai-efforts/article35814022.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 91
-    images:
-      - url: "https://www.thehindubusinessline.com/money-and-banking/uhrmta/article35335593.ece/ALTERNATES/LANDSCAPE_615/RBLbank"
-        width: 615
-        height: 384
-        isCached: true
-  - title: "RBL Bank selects AWS to drive AI capabilities"
-    excerpt: "RBL Bank is building on its analytics practice and investing in AI capabilities to implement various use cases across multiple segments, including risk, customer service, human resources, and operatio"
-    publishedDateTime: 2021-08-09T09:58:00Z
-    webUrl: "https://www.livemint.com/industry/banking/rbl-bank-selects-aws-to-drive-ai-capabilities-11628502692053.html"
-    ampWebUrl: "https://www.livemint.com/industry/banking/rbl-bank-selects-aws-to-drive-ai-capabilities/amp-11628502692053.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/industry/banking/rbl-bank-selects-aws-to-drive-ai-capabilities/amp-11628502692053.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 91
-    images:
-      - url: "https://images.livemint.com/img/2021/08/09/600x338/rbl2-kYsG--621x414@LiveMint-91ed_1628503057208.JPG"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "RBL Bank selects AWS as preferred cloud provider"
-    excerpt: "Other use cases already being tested within the Operations division include usingservices like Amazon Rekognition and Amazon Textract to automatically extract and match customer signatures and ..."
-    publishedDateTime: 2021-08-09T07:46:00Z
-    webUrl: "https://www.indiainfoline.com/article/capital-market-corporate-news/rbl-bank-selects-aws-as-preferred-cloud-provider-121080900272_1.html"
-    ampWebUrl: "https://www.indiainfoline.com/article-amp/capital-market-corporate-news/rbl-bank-selects-aws-as-preferred-cloud-provider-121080900272_1.html"
-    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/capital-market-corporate-news/rbl-bank-selects-aws-as-preferred-cloud-provider-121080900272_1.html"
-    type: article
-    provider:
-      name: India Infoline
-      domain: indiainfoline.com
-    quality: 76
-    images:
-      - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
-        width: 350
-        height: 233
-        isCached: true
-  - title: "Telangana AI Mission selects 42 start-ups for Revv Up accelerator"
-    excerpt: "Telangana AI Mission has announced the selection of as many as 42 start-ups for Revv Up, an accelerator programme that it has put together in association with Nasscom. A 12-month programme, it is for start-ups offering solutions using Artificial Intelligence (AI)."
-    publishedDateTime: 2021-08-12T13:24:00Z
-    webUrl: "https://www.thehindu.com/news/cities/Hyderabad/telangana-ai-mission-selects-42-start-ups-for-revv-up-accelerator/article35879484.ece"
-    ampWebUrl: "https://www.thehindu.com/news/cities/Hyderabad/telangana-ai-mission-selects-42-start-ups-for-revv-up-accelerator/article35879484.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Hyderabad/telangana-ai-mission-selects-42-start-ups-for-revv-up-accelerator/article35879484.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 57
-    images:
-      - url: "https://th.thgim.com/static/theme/default/base/img/og-image.jpg"
-        width: 300
-        height: 300
-        isCached: true
-
-secured: "ynz3yBCppjVB8mUIjz3zhR0G4tfg7jRojRlOlW64gR6UvHmZU9eZNtLymGE8Mu9XiRm0sMURx1R4p20bTZt0dVtssFwfBfxvwKVH3SGqqqPL7NNReRqH5YuAYheh72/I4eO2ccIgzrAKnkub/JJ7hKTXjkn48/VTbw3xkmd2La/Fd/GI5cNqevbLUOUJL8+bQJCylV5tt1AeMw8BjdxbHgVtXsx2EjlweT20HVeEZYckJpuM/CUTo0XTJC6aKFamM6ltAxK+3boeVir0c/IT7s1y4s1HTNH76a16itpfgZc3uZfo+R5oPAHaVYuKlmXxf1Mk/5zjY5nhnYCTdXTLbwzxkjFNUTwfRN6o2ylvNszT/6vlatuZsbeGkjppzEVQ/bVSUc7q3QV9SuM/iJHu1+C8Ypt/abCSbWQcVqqODQ+YNeePwxHWbFL0mTPT+C8GT2WjzzF2FtKTUz8Wv9p2sLm7fe+OXd9v2b4PTV5ZfbIn9pQbocgSM4Vc2HBKDD4kLKNyvLmZ4GzRtEuOQ6xWOg==;ccIeQ8YeIy5LCniqKgecnQ=="
+secured: "L3rw5Zzw4Ivb9O31uxTbjr+X6PZiB/4yvJJgf33MhSosNoB8KXpBLQpsykkjh+jmc2LnAAuPuh4wWWvXtIeQWAK2o4VN1Rpuw4aTIG7Uc1TYA2s30xJOIQAG4ZUiUS+LXLKITY3crMv2K1D1CckK2drqR4MTsoFy8RPCMxQ/OCIypCOWe4mY/gLYZT5iE9cXfaQOn1i7sqvCxAeKU8f0Z41HDzCIX2Qw5XdZYVeTTFDOeJB+SDWgbyVXgkbZKEG1pdJoq5S+lRbi634Ke6TA5WZKcK3jFAh3Lg1dZYVk8g4q2mNvH7gesdfI0EKIqIqEwlQDr0blYtDIVYXm9DRkdgLhsSeMgHTjVM7ZABH+vLE=;ey0gdvdwhoXY75kdelyHvg=="
 ---
 

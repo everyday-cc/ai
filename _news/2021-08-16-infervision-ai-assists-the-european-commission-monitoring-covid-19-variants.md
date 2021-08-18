@@ -3,11 +3,11 @@ category: news
 title: "InferVision AI Assists the European Commission Monitoring COVID-19 Variants"
 excerpt: "InferVision AI has been selected to help monitor COVID-19 variants across the European Union. Faced with this challenge, the European Commission decided to increase their investment in the adoption of AI tools from InferVision."
 publishedDateTime: 2021-08-16T13:29:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/infervision-ai-assists-the-european-commission-monitoring-covid-19-variants-1030734639"
-webUrl: "https://markets.businessinsider.com/news/stocks/infervision-ai-assists-the-european-commission-monitoring-covid-19-variants-1030734639"
+originalUrl: "https://markets.businessinsider.com/news/stocks/infervision-ai-assists-the-european-commission-monitoring-covid-19-variants-1030734747"
+webUrl: "https://markets.businessinsider.com/news/stocks/infervision-ai-assists-the-european-commission-monitoring-covid-19-variants-1030734747"
 type: article
 quality: 65
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
         width: 690
         height: 400
         isCached: true
+  - title: "Global Artificial Intelligence Market Report (2021 to 2030) - COVID-19 Growth and Change - ResearchAndMarkets.com"
+    excerpt: "COVID-19 Growth and Change to 2030” report has been added to ResearchAndMarkets.com’s offering. This report provides strategists, marketers and senior management with the critical information they need to assess the global artificial intelligence market."
+    publishedDateTime: 2021-08-16T13:03:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-health-coronavirus-pandemic-artificial-intelligence-45b91cdf2c7842bd8d72db1edf75620c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 18
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "InferVision Completes Series D2 Financing Round Led by Goldman Sachs Asset Management"
     excerpt: "InferVision, a medical artificial intelligence (AI) provider specializing in the clinical application of AI and deep learning technologies announced the completion of its Series D2 financing led by Goldman Sachs Asset Management."
     publishedDateTime: 2021-08-13T14:34:00Z
@@ -57,6 +71,6 @@ related:
         height: 480
         isCached: true
 
-secured: "etlfBUuWvNVzV/xk17kZb3Af+Q3nxHQ4xdRNHEpBdhGzjC3ptfXqx10Y3O5AbdPcsHGfhFpUE7xIz/cHWTpnqDhKI+AkcoXs17E5LRX8pavuUbQoWLTT3E9s8nRxF+urrlev0fl7A9VKw4A+VLKl2W/vKM7ar+RiXA8KURhNr2m5A6rRRciwwoH/SjmkHB6Uo1dLzgDaRyd++vpxQgMa349BP0zjCfmusWzM3+6wneaixayEMkK0gTrQHYtGWP24YxESoIqSEs1ipj7sA0wfz08wGy0y5kJdfZ0isbtM2zAPZ//klLKiCaGgj2i39vwydrMXZ0Lu5XcLekqiYjCPWf2xtooT4B36pGUpdrFe7fU=;M4Fhm+91P0WTEq33eLzxuw=="
+secured: "QsN+BVc0pmjni3YSKf0kJKVHyDR/eCaM4lsQbCqbkVN6B2OUZqYuji7eLjkH7NbfunzfmuK6UbSIluny1TYaBZtPq1NGRXTYywduGJVuL1JdZpPMSdr7dvNt9P4riM2ZqP0V4LomL0E96J6sEK18ePypryQc4jdyLp7yyUN28Fxm/ilGHDG90tUh1rl99YH96t7hUvkGp79fZfNSvsYSizz5NQyXq8HuQsD6IfKF2k6y81pDSVba05R6f50q0lnV9lKSamm/moyykAiNcWK6E56haue4WPLc8Pa73JqU1NhP9oqzpFd8lr61Oz7XyxyDR6q0ejm/RYjzKc2a0BNp5wyxLx5ngR/zUx37oSJ08Do=;Eowv7GZqVeRlLwhJl+1mjw=="
 ---
 

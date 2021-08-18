@@ -8,8 +8,8 @@ webUrl: "https://www.openpr.com/news/2358326/artificial-intelligence-for-automot
 ampWebUrl: "https://www.openpr.com/amp/2358326/artificial-intelligence-for-automotive-applications-market"
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2358326/artificial-intelligence-for-automotive-applications-market"
 type: article
-quality: 53
-heat: 63
+quality: 55
+heat: 65
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://cdn.openpr.com/U/8/U818559952_g.jpg"
@@ -36,6 +37,6 @@ related:
       domain: ipsnews.net
     quality: 0
 
-secured: "okEkrTJ6P9uMEDyvU2GQQkCVRjsR8mGmo9NmN/PWxWb1klT47vTruDhW97YE6I6kvUVfJN8aJ8aBOX181KmHkNHCaaZPpdHSi+hLZ5+YcTxOU6avfFmGiB6n1mvfbuquVeZTic1keOUT/EPXpguuK7FYLx3vP2GdLWpM6o0kwILcDbHaxmTegK7WPXwN26Btr4dNm3LhLMKhZ0IFU4jX/oA7WY9ug21ZPqQGnEFKFuay3xZIs6oCbnLQmQLbNV9ABBRxaemCILLZSVvnX5Z7fOTZPrPdzWfaQZj/WYVioSXbeI63QR1f9VZnyoUrBu3AkWdujtDqt0GBSrzKbW/cGGa3d0ZJylL0ytwhcwfA7Ag=;kZwrzyNqwRxg+djww9bXzw=="
+secured: "H6g7hRWxSn9TD6JT9bWcc1Hu6yTAyOIbFNCmzXgMrdCfT/MQ/WEM1nNhJQj8xHfUE6GRR3HLA13GHRWQf0tzYPCq/5tG0hmrDekwWkDh1meMRBeWXECHc2A+z6CAmm4BxKIHYyKkd4sOhBdgqcFAnzJKKGaWQtXriJGw/Or7NIcrNhnLblHdkGiOm2i39ixtW0Rz6PENaw7S6PQ72u+VnSwSWxxHfrc9yJE2uLRcIJruT9lTx5anpuItw6FMlbp8vwTsAfUH5SJVWpp4o/WKNyc9fUyqu4t1OwUZwwLCktvmilZzDanBvT04/lSODmbtfKOSrLwQRhvtpemkZykFY6jWPN+d4JVIjz4+LaigHbm19uf8F5TZKFc0mn8r6EtmqJGhJ/1naugHAyVR0heziWIWI3LatGJgH/lE2gjYEaDZMnjo7QQ07h/Yqbo/Y6oqxC9GBEsmlfuSfvIVwsnPAS8HTVLRjHKi36sGx+iy5SCAkqCS1rCgq3aUCTs4zltIc+P4HyDrRdqhpmiUuCa3BA==;j0uDm0REPgBykYOLQgfc+A=="
 ---
 

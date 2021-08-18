@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Peak Fintech Signs Agreement to Acquire Analytics and AI Company Cubeler Inc., Paving the Way for Its North American Expansion"
-excerpt: "PRNewswire/ - Peak Fintech Group Inc. (CSE: PKK) (OTCQX: PKKFF) ('Peak' or the 'Company'), an innovative Fintech service"
-publishedDateTime: 2021-08-16T14:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/peak-fintech-signs-agreement-to-acquire-analytics-and-ai-company-cubeler-inc-paving-the-way-for-its-north-american-expansion-1030734030"
-webUrl: "https://markets.businessinsider.com/news/stocks/peak-fintech-signs-agreement-to-acquire-analytics-and-ai-company-cubeler-inc-paving-the-way-for-its-north-american-expansion-1030734030"
+excerpt: "CNW Telbec/ - Peak Fintech Group Inc. (CSE: PKK) (OTCQX: PKKFF) ('Peak' or the 'Company'), an innovative Fintech service"
+publishedDateTime: 2021-08-16T12:17:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/peak-fintech-signs-agreement-to-acquire-analytics-and-ai-company-cubeler-inc-paving-the-way-for-its-north-american-expansion-1030734071"
+webUrl: "https://markets.businessinsider.com/news/stocks/peak-fintech-signs-agreement-to-acquire-analytics-and-ai-company-cubeler-inc-paving-the-way-for-its-north-american-expansion-1030734071"
 type: article
 quality: 41
 heat: -1
@@ -67,6 +67,6 @@ related:
       domain: businessinsider.com
     quality: 21
 
-secured: "78PmpA19pha38iJVZaJVb7ZToAIIkvpV1ptGFDJpCRDb0ryxq7zZkdxIzjDUzcvzr2QoCHrls/q7o3gYXShRa03ac2rat+EQdui6xYQR2BHhA9UQH85WT3l00UTVLw9I3bEfQg8xWII699jt/vNCtulsonhTXnucUMmlKCYPls1E8UbnkkMnDoCpAx5nn7p7aIAa+ZUd2RAyIo5Dk1WInrv8c5aEVwT5w8Ak+VbA+MeeUUcrrxXb3KU7vsqeKbEKJLEPuBTcZRug0DbXFVzsBY/GoLG7cCb+y2V9SogyFx+ErKrXI+ouldBCEXJi72AO6bdzhumTfEAR5thi8TCoB29SjS08v4yD7zR7pbSlg0A=;M8sJGuJ9dRlYHHr5sMPqLw=="
+secured: "niI65RgW2FrDxWL5oj6KsnWurPzDlkzCUdu+r9P5gE/gr05c1AhVTv69LrwCR4gtQAR87p6OAmWj72Ow8Gvvc/Ki+ZYL7CDiEatZhkCxl/TnEjcrY6GvhOZcedK4wwcSZLdlVgLpq9bpzuv6UV7b4LLCf62W7goshjFtmQCTHcSdVlZiWCsXTnuL4C0GcVqpP2t8XjZEdyRgjH72WhwZ/udlz+zqD0HLN+99Grr1SZym8Myrtzdctq/AcQeiIOiW5pkJfreg2Xtc90RVmB72kXUz+qGBs3WtHlEv341CXS7Q1QK5kz3+/y4OInlGF40HpKh11Cfq2ngU3Iz7zwMJxllqmh/uQoe1FDPeSd3rhoQ=;RSua7baWDvBZhcTUc5XYPA=="
 ---
 

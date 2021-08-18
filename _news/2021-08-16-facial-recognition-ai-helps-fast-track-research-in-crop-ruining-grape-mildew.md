@@ -7,7 +7,7 @@ originalUrl: "https://www.siliconrepublic.com/machines/grape-crops-resistant-to-
 webUrl: "https://www.siliconrepublic.com/machines/grape-crops-resistant-to-mildew-ai"
 type: article
 quality: 51
-heat: 61
+heat: 51
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 800
     height: 600
     isCached: true
-
-related:
-  - title: "Facial recognition software can help save multibillion dollar grape crop"
-    excerpt: "An unusual collaboration between a biologist and an engineer might greatly enhance the current to protect grape crops. The new technology, using robotics and AI to identify grape"
-    publishedDateTime: 2021-08-13T12:06:00Z
-    webUrl: "https://www.freshplaza.com/article/9344319/facial-recognition-software-can-help-save-multibillion-dollar-grape-crop/"
-    type: article
-    provider:
-      name: FreshPlaza
-      domain: freshplaza.com
-    quality: 38
-    images:
-      - url: "https://www.freshplaza.com/remote/https/agfstorage.blob.core.windows.net/misc/Stock_photos/Grape/Grape_0016_135.jpg?preset=OgImage"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "3MkfrI4C+x7wsWn37UGo0iR1iqI+bB/cJjDsFvcuBoMtr/sRlLbpuFLtvHtFCJeA5k+PKErFMcQAqVjf4mEPF1NiiGInPSukQL/xrm4aJm48NeEJHql+48NJtpMD1+ABqYA8fIlL64byQwoP6WiRq+XikU6ULpzvVJG57qL4eYjSIfuaA+YX2O1qoGVXDSPYAfQ+xbM7LFSDEBFBNqOwpe2cjQXu6eklkqL0+ZikMUruQzCnIHGIkpLu5pl0/e+2/QOsBxWkQ2OBc2zQ35bQmE21U63QtPfPbTjxW8YEVrmbEktNnPp937moYPrbomUtkb5F8YNv5zx+s3heFtUGZ5IOmc1JJ7Pk6MQwSlfO4DE=;TwxxXvDMrWNfVwYmUnlE9g=="
 ---

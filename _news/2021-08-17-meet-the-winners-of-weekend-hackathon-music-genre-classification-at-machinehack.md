@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/meet-the-winners-of-weekend-hackatho
 webUrl: "https://analyticsindiamag.com/meet-the-winners-of-weekend-hackathon-music-genre-classification-at-machinehack/"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1600
     height: 900
     isCached: true
-
-related:
-  - title: "MachineHack Launches MOCKS — A Skill Assessment Module On Machine Learning"
-    excerpt: "A Skill Assessment Module On Machine Learning — is for students & working professionals, looking to practice & sharpen their skills in different aspects of the data science domain."
-    publishedDateTime: 2021-08-13T11:30:00Z
-    webUrl: "https://analyticsindiamag.com/machinehack-launches-mocks-a-skill-assessment-module-on-machine-learning/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/MachineHack-Launches-MOCKS-A-Skill-Assessment-Module-on-Machine-Learning-1024x576.png"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "yqaOUeJQ/fsb5387BbvlcBKYD9JIOtfPIJfSPNw8VNmAE6yspjmwf/RB2d1vzEJrs8deiiCNQVlWrg9rmSZ9SpVnsJSX7UmEPqtRTXoAPdIdkt388mzrpydEk1IWUhMObop+eKFfisIUJYBM38hsJf/a/94pOxZUYztfoxSYffKKyN3z5RFuHelUAi5gv0+ErTryOXW6LW4U/Zm3U0hy6PUy6ETMwV9eDQ/F6eefZLE9Wj+7eSYu68fsZQvUaOwxwkyaUOCNHMh2hG94YHdY0KxmzsGAZacycWW0cKApygZYpZrCfnFnt4sVs8hFLhmZcXZeClz+4dsK2MFpkprrGItfdMD/EQyJ+mZDMT8fCXmmHHZwsLOKjIJMkNnCf7VPf38K+lVqMqMDvKhfUugSpIuWtJq907PvLh48fX4jHUVjOtzMCKiyBf5+AGRYjYmIXJS9YCQZA51J5rFBXPFio+WYFF3gOzCYheTKGoedIxc/UQqrtq1PLSHW6G59+Kt7Efo4ZbeNCHA2TTKLIYkB3g==;gLLLQxo6F8OyaZwpjKW4Rg=="
 ---

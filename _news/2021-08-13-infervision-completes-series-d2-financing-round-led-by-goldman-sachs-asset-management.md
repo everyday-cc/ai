@@ -28,7 +28,7 @@ related:
   - title: "InferVision AI Assists the European Commission Monitoring COVID-19 Variants"
     excerpt: "InferVision AI has been selected to help monitor COVID-19 variants across the European Union. Faced with this challenge, the European Commission decided to increase their investment in the adoption of AI tools from InferVision."
     publishedDateTime: 2021-08-16T13:29:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/infervision-ai-assists-the-european-commission-monitoring-covid-19-variants-1030734639"
+    webUrl: "https://markets.businessinsider.com/news/stocks/infervision-ai-assists-the-european-commission-monitoring-covid-19-variants-1030734747"
     type: article
     provider:
       name: Business Insider
@@ -52,6 +52,20 @@ related:
       - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-912319336.jpg"
         width: 690
         height: 400
+        isCached: true
+  - title: "Global Artificial Intelligence Market Report (2021 to 2030) - COVID-19 Growth and Change - ResearchAndMarkets.com"
+    excerpt: "COVID-19 Growth and Change to 2030” report has been added to ResearchAndMarkets.com’s offering. This report provides strategists, marketers and senior management with the critical information they need to assess the global artificial intelligence market."
+    publishedDateTime: 2021-08-16T13:03:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-health-coronavirus-pandemic-artificial-intelligence-45b91cdf2c7842bd8d72db1edf75620c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 18
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "9lGcfsAJ0cylNQe1nCq4pUdu+ZHRXmccDMnkbJn5CoVoMDflie9oZdFSlMeGBBBiWS2tDFLh0SCSwlTRQTEhFo6uNvXc8Zbbqers3GM7YgWvAZr1WD/3hsS6/FMb7AUvhz42Y+zHf3hkjIjtB/zBD/VG5R0Aa4IlLU/02GMUU8WUwY0WLaCtNkriwV9fsJOEIK1pzvFR4YJ3ga1lZFnPB3H2SuJKbSi1N9oikIlLh0Fbj99c+rEVR4rSjE+WM+AgZ8EvGQLA8VvNmSmJNKVavwv7/pAQw+0L7X8XvxzZ8DaDVLGaNKEjlV9C/WYA3FL/0n45Y5Nl8rW3a0XltuLNOO3pT0ZSeV6qg1+UH2ATcGs=;tgQjkP5EWdasEnwX9e7l+w=="

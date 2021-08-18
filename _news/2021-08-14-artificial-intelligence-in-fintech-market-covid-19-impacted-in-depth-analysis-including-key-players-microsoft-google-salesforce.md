@@ -9,7 +9,7 @@ ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-fintech-market
 cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-fintech-market-covid-19-impacted-in-depth-analysis-including-key-players-microsoft-google-salesforce/"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -27,22 +27,29 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence In Oil & Gas Market- Increasing Demand with Industry Professionals: IBM Corporation, Intel, Microsoft, Accenture, Google LLC"
-    excerpt: "The recently revealed Report titled Global Artificial Intelligence In Oil & Gas Market report presents the market analysis on the basis of several factors. Report gives the in-depth analysis on the major countries of key regions where the market is growing."
-    publishedDateTime: 2021-08-17T05:50:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-in-oil-gas-market-increasing-demand-with-industry-professionals-ibm-corporation-intel-microsoft-accenture-google-llc/"
-    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-oil-gas-market-increasing-demand-with-industry-professionals-ibm-corporation-intel-microsoft-accenture-google-llc/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-oil-gas-market-increasing-demand-with-industry-professionals-ibm-corporation-intel-microsoft-accenture-google-llc/?amp=1"
+  - title: "Plannuh Announces AI-Driven Marketing Planning and Budgeting Platform Integration to Salesforce"
+    excerpt: "Plannuh today announced an integration with Salesforce Marketing Cloud to empower marketers to reliably and consistently measure the true business value of their marketing campaigns and their entire marketing plan."
+    publishedDateTime: 2021-08-17T12:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/plannuh-announces-ai-driven-marketing-planning-and-budgeting-platform-integration-to-salesforce-1030737894"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 35
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 72
     images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/Market-Research-10.jpg"
-        width: 300
-        height: 203
+      - url: "https://mma.prnewswire.com/media/1158334/plannuh_Logo.jpg"
+        width: 400
+        height: 300
         isCached: true
+  - title: "Imubit Announces $50 million in Total Funding to Expand its AI Process Optimization Platform"
+    excerpt: "Imubit, the leader of artificial intelligence (AI) process optimization for refiners and chemical operators, has raised $50 million to bring its Closed-Loop Neural Networks to every process manufacturing plant around the globe."
+    publishedDateTime: 2021-08-16T22:10:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-fb409dad6066c8a32dbb472f96c1f810"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 6
 
 secured: "ntqaX5cmTVLyRYB+NwN9+yUhVNbbeofgWKhnEvs/3bjXMaoJ9PMrpwM7jQO1ns3lVqXK7MexAElaUVVpDCBnE7CTIumFXdQWOyGVQ/EuUli43lNtO33kK5s13TI+XrrRlDa0JPqD+OcOJ5UB9YcEsIniRqfSSNVQp32J5WeaEB185C3PLaUJLQ65v7ZAsi+hbWOT8dC59RW8qDa8+KtEmGS+AQq6NSf0uYqZO8A2V3r3r7mqqrmeh7joNC/lORS7+ZHzOx8qy9RxSNBMQ8XOzwIfeGRycJVmwn6/Rq1MrnpJ8vXC3zyvIlSB/fLJ+FdEOA6C3UlEZB43sahruu9m5XNX3BLjGru3Lx3M0OUvSLg=;9SQRPFql1MJzkoHvuvDCbQ=="
 ---

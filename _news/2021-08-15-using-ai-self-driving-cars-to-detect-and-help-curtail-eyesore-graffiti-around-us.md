@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/15/using-ai-self-dri
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/15/using-ai-self-driving-cars-to-detect-and-help-curtail-eyesore-graffiti-around-us/amp/"
 type: article
 quality: 84
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611ab3e1fe39a3c39b5cb34c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1323%26cropY1%3D232%26cropY2%3D976"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Hands-free farm is using AI, smart sensors and lettuce-picking robots"
-    excerpt: "In Australia, innovators have just presented the country's first fully automated farm; it cost $20 million to set up. Conducted by researchers at Charles Sturt University in Wagga Wagga,"
-    publishedDateTime: 2021-08-13T12:08:00Z
-    webUrl: "https://www.freshplaza.com/article/9344341/hands-free-farm-is-using-ai-smart-sensors-and-lettuce-picking-robots/"
-    type: article
-    provider:
-      name: FreshPlaza
-      domain: freshplaza.com
-    quality: 54
-    images:
-      - url: "https://www.freshplaza.com/remote/https/agfstorage.blob.core.windows.net/misc/FP_com/2021/08/13/Coco.jpg?preset=OgImage"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Hands-free farm is using AI, smart sensors and lettuce-harvesting robots"
     excerpt: "In Australia, innovators have just presented the country's first fully automated farm; it cost $20 million to set up. Conducted by researchers at Charles Sturt University in Wagga Wagga,"
