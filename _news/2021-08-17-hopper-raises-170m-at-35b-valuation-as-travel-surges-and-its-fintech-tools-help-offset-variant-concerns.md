@@ -55,12 +55,35 @@ related:
     provider:
       name: HIT Consultant
       domain: hitconsultant.net
-    quality: 54
+    quality: 56
     images:
       - url: "https://mk0hitconsultan2lp7c.kinstacdn.com/wp-content/uploads/2021/08/ClosedLoop.png"
         width: 906
         height: 569
         isCached: true
+  - title: "Pngme raises $15m for financial data infrastructure platform"
+    excerpt: "Pngme, a San Francisco-based firm that builds data infrastructure and out-of-the box machine learning capabilities for financial institutions and fintechs across sub-Saharan Africa, has raised $15 million in a Series A funding round led by Octopus Ventures."
+    publishedDateTime: 2021-08-17T23:25:00Z
+    webUrl: "https://www.finextra.com/newsarticle/38667/pngme-raises-15m-for-financial-data-infrastructure-platform"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/900fintech-africa.jpg"
+        width: 480
+        height: 270
+        isCached: true
+  - title: "Fintech platform FUSE Autotech raises $10M in Series A funding led by Target Global"
+    excerpt: "FUSE Autotech, a fintech software platform that redefines the car buying process, today announced the completion of its $10 million Series A round of financing, led by Target Global with participation from PICO Venture Partners,"
+    publishedDateTime: 2021-08-17T20:29:00Z
+    webUrl: "https://www.autonews.com/fi-press-release/fintech-platform-fuse-autotech-raises-10m-series-funding-led-target-global"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 13
 
 secured: "Lvr4MbmAZXA5iKsGtpKwT521wbpbNnR1p3w1J1Ni7qYdBy+MjcHnybfsj/0CGRXbOUMwpN65uvJHTnXheO3d1TpaXe7yZThQHEqe40HYqECP8F43GZ2d3VDmebcqykBubJzsLSkvwBAtJ5yjC+5XrAyRQDkiLo+7Eq6dSXCChanYi+pZvNNUzgvg7ef9Kv3dLrmCx00y5+HrKilxXBUojXi7DRgfOqhmYP1BhPPh8RRz83/a5/ipyNPx1BFQZ1OUTxrcoVWOluknkXs23arG0pDx0IzQThwnR5r8Lws58dWsrn36Ky+Nuudu4LPDwN94p9YDYUikaai6NAq4Z4hdbcsURPujsN2UWTPV1MlBll9XXHNDI/2WXyDf47uzpeFXU/vXLSrp1it8/vdqxLFPRp9KxD5g0l7v2bWqFrNoCD5ZUug86loFVK06onAupJQmVtpC9BcFOoQ9lxaG+0190TNKMdBMiK+QQIHfdkex0ZYbEtdShlq98QBipIXc/+S+M85RSfsYLFPsJlaQrBl39A==;grosHCTKt29/mPQJrhPong=="
 ---

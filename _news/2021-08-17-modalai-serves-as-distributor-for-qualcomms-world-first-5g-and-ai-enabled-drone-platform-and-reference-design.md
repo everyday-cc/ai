@@ -1,28 +1,22 @@
 ---
 category: news
-title: "ModalAI Serves as Distributor for Qualcomm’s World First 5G and AI-Enabled Drone Platform and Reference Design"
-excerpt: "ModalAI today announced it will be the manufacturer and distributor of Qualcomm Technologies’ world first 5G and AI-enabled drone platform and reference design, the Qualcomm FlightTM RB5 5G Platform,"
-publishedDateTime: 2021-08-17T13:05:00Z
-originalUrl: "https://www.suasnews.com/2021/08/modalai-serves-as-distributor-for-qualcomms-world-first-5g-and-ai-enabled-drone-platform-and-reference-design/"
-webUrl: "https://www.suasnews.com/2021/08/modalai-serves-as-distributor-for-qualcomms-world-first-5g-and-ai-enabled-drone-platform-and-reference-design/"
+title: "ModalAI Serves as Distributor for Qualcomm's World First 5G and AI-Enabled Drone Platform and Reference Design"
+excerpt: "ModalAI today announced it will be the manufacturer and distributor of Qualcomm ( News - Alert) Technologies' world first 5G and AI-enabled drone platform and reference design, the Qualcomm Flight™ RB5 5G Platform,"
+publishedDateTime: 2021-08-17T13:35:00Z
+originalUrl: "https://www.mobilitytechzone.com/lte/news/2021/08/17/9431965.htm"
+webUrl: "https://www.mobilitytechzone.com/lte/news/2021/08/17/9431965.htm"
 type: article
-quality: 19
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: SUAS News
-  domain: suasnews.com
+  name: Mobility Techzone
+  domain: mobilitytechzone.com
 
 topics:
-  - AI Hardware
+  - AI in Robotics
   - AI
-
-images:
-  - url: "https://www.suasnews.com/wp-content/uploads/2021/08/5g-modal.png"
-    width: 1400
-    height: 700
-    isCached: true
 
 related:
   - title: "Qualcomm readies 5G and AI drone platform"
@@ -58,6 +52,6 @@ related:
         height: 285
         isCached: true
 
-secured: "MaKl858Yf1skQmQ8M7gBZG9qQ6s1g/EszaMFphhRSmDuhvKI5bSOd7NhzhRYVv1HQx1kzoJ11h54d5rRmOHPczIyQIVoaVd2ab8cUTrUwzEOUTeKdVEXuv2WBoPkc8O6rDyG/foSAlPIA2ZhtLVJ5WEwnR+8T9HBooUQSNuQDD6R8xpalVsV64Bq4Z+UiAPGdHoGS6Y43LVN4QiIg6Wp3RtYTf+jGc56RkDkrac3wc9TJo65/rXY4FAGH45wx0Qhhs/dviZKO6WMeK2MTk4llQPjjXPDg2TpGpvWR3mTxOZOOekD6/5L8xbLpH8pKWKyO4AMThQvfRZ2arWckPbRpZdymseSR/wUGM2AOu+7xvU=;KWngjmCKx+D+w8CCnE4wiw=="
+secured: "8IWysFLZ/ECHx/dZNZvJZFKbaOGdBHb06uhGUzIXIKAgLQJ2yQqC/pU6LMUU6fIErHbQQDBl9cQX1YmD+3a+Ac1zTZ5BFIPjQw4iI9FB/AcgXoim5byMS03vh6SGB7UOeF8ULsi+lCX3MIIm5UeB7C4HEFq2GdrOMw/6JR4XA8MG8dKLIIGRhEbBl8+RCaMqAu0si8Ec1DX3Zy113J5WzdJNOm1rwIUBUiLPCz5PcrX9PzM8SlbRXKL2d1tITJXlGvFNx6JCTBr4MB4zxo4EdIbCmViao4gOWcno0vakfVecUEAEzx99v/j1c4RDZ97nZkFUaSNn1IVxy8UuDm78Y6nGogPqsWHi6n0Pl3nNI2GGWUPD0nUPax5GJ3ZZGnI+M7PEvRIsi09OveqCTPx9a2V0Yf9Pc+TjfP/ZQcMQnDeUujoEcGbnpX2D3VzkmIiauJa0SmgctRYz9uG5XvbC5ThdItILYZ/UgMZwZzQzgrulrjJtsfvpgGp0FwyaU+x7gmyZeo0GaPmsQRo26NYFUA==;O6EubSvv3iw9ZWNpbRL8DA=="
 ---
 

@@ -66,6 +66,20 @@ related:
         width: 940
         height: 512
         isCached: true
+  - title: "A warning on artificial intelligence"
+    excerpt: "Artificial intelligence has insinuated its way into our daily lives, whether we are aware. From opening our smartphones with facial recognition, to travel and commuting assistance, to personalizing our feeds on social media,"
+    publishedDateTime: 2021-08-17T21:40:00Z
+    webUrl: "https://www.startribune.com/a-warning-on-artificial-intelligence/600088703/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 37
+    images:
+      - url: "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1629214656"
+        width: 1680
+        height: 876
+        isCached: true
 
 secured: "wTXnS1lG/CwkHXoe5qKE8dtZBt+DhAPBilSWtYqCYIpCIqhdNAUTNtOeGlg/FiU/FJref5TZWAQihDcDsFa3mZIsol+uroA+cYb2do2Lxylk6wpTFh6Q4X9L10o18/AGX77hbGjk4OeqNr7izOdoLePYr/675VLmPSQ1K9gwMRvLRHNuYCTs2Fu75Iy1q7RmDSWe4JKM4M6ciFCkAR+KUraSFXBkakPLGVCGTloYMTUxkNZKAC+oWTX4Z5VdCm+XxB56C56Wqig0UzvCkWO1OASXZoIkXIW4qOlVXmXU5SoCvjh07Z2zPe/37sHr6Fi7KQlNV6DEOyR1mV3MPQsIjMk/16SEjREwMnrNXQHI7xs=;0/478fWrfw8GqgI6dhnq3A=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/tomgroenfeldt/2021/08/17/accerns-no-c
 webUrl: "https://www.forbes.com/sites/tomgroenfeldt/2021/08/17/accerns-no-code-ai-platform-can-speed-analytics-in-financial-services/"
 type: article
 quality: 69
-heat: 119
+heat: 99
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mapsted Brings Artificial Intelligence, Data Analytics & Machine Learning Location Technology to Indian Railways"
-    excerpt: "Mapsted announced today that their competitive bid was selected, from a group of the top technology companies in the world, to sign a multi-year contract with East Coast"
-    publishedDateTime: 2021-08-13T07:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/08/p22482549/mapsted-brings-artificial-intelligence-data-analytics-machine-learning-location-technology-to-indi"
-    ampWebUrl: "https://www.benzinga.com/amp/content/22482549"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22482549"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 48
   - title: "Peak Fintech Signs Agreement to Acquire Analytics and AI Company Cubeler Inc., Paving the Way for Its North American Expansion"
     excerpt: "CNW Telbec/ - Peak Fintech Group Inc. (CSE: PKK) (OTCQX: PKKFF) ('Peak' or the 'Company'), an innovative Fintech service"
     publishedDateTime: 2021-08-16T12:17:00Z
@@ -53,20 +42,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1594914/Peak_Fintech_Group_Inc__Peak_Fintech_Signs_Agreement_to_Acquire.jpg"
         width: 323
         height: 235
-        isCached: true
-  - title: "AI in customer analytics: Sharpening individual focus"
-    excerpt: "The choices we make, shopping online or using digital payments at physical stores, can tell the retailers, merchants and banks a lot about us. And today, AI programmes are sophisticated enough to be a"
-    publishedDateTime: 2021-08-13T05:30:00Z
-    webUrl: "https://www.forbesindia.com/article/ai-special/ai-in-customer-analytics-sharpening-individual-focus/69753/1"
-    type: article
-    provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 39
-    images:
-      - url: "https://www.forbesindia.com/media/images/2021/Aug/img_165553_customeranalytics.jpg"
-        width: 800
-        height: 600
         isCached: true
   - title: "Right Direction Financial Services to leverage Scienaptic AI-powered platform"
     excerpt: "After recently forging a relationship with an independent dealership group, Scienaptic bolstered its client roster of independ"

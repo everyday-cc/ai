@@ -7,8 +7,8 @@ originalUrl: "https://www.eventbrite.com.au/e/building-australias-capability-on-
 webUrl: "https://www.eventbrite.com.au/e/building-australias-capability-on-ethical-artificial-intelligence-tickets-167003577195"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: eventbrite.com.au
@@ -36,20 +36,6 @@ related:
       name: Precision Computer Methods Corporate Website
       domain: pcmethods.com
     quality: 39
-  - title: "AI-powered bidding platform for Australia’s biggest solar farm"
-    excerpt: "The operators of Australia’s largest solar farm have turned to a software-based bidding solution as they seek to optimize dispatch and manage the facility’s market trading and power purchase commitments amid increasing market volatility."
-    publishedDateTime: 2021-08-13T05:23:00Z
-    webUrl: "https://www.pv-magazine.com/2021/08/13/ai-powered-bidding-platform-for-australias-biggest-solar-farm/"
-    type: article
-    provider:
-      name: pv magazine International
-      domain: pv-magazine.com
-    quality: 37
-    images:
-      - url: "https://www.pv-magazine.com/wp-content/uploads/2021/08/darlington-point-octopus.jpg"
-        width: 800
-        height: 420
-        isCached: true
 
 secured: "/cN3fikLV2DVNahMo/xhmXiY4RgveRKtoBkzS56WLSGazYY4AFNEPYXAlCrwHAgHM/CF71yQexAMbz++EYtovERyRAMceUDVTLFjTAT0djTT6rF6rbFcaU/EzRdggPpsNyDwU6TC4sZZYar71Ki6jBNcAyX5IF9KKSXZy+kkpFfAyu2NVSnq9783slyldKXR2wBj3haUm37QPiXSiwH8ggbzzkZl9hB8h2AAcqE3Zjj7IG6JRtMqXMUSSbIO7LwSQcjg/EzhL+UijW6QgGEuxDf5rhbOzYzNeavfinRtymMOS7RDrPRRA8yXVjeX4m8bErYGV3o9cfZ8rwWMxuFNhKaPCy/SNmv8RsK6JP9xRbQ=;QPx4JAa4TRzU6aPQnyzolA=="
 ---

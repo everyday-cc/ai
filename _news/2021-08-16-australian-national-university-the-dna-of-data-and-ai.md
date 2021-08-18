@@ -35,20 +35,6 @@ related:
         width: 1000
         height: 500
         isCached: true
-  - title: "AI-powered bidding platform for Australia’s biggest solar farm"
-    excerpt: "The operators of Australia’s largest solar farm have turned to a software-based bidding solution as they seek to optimize dispatch and manage the facility’s market trading and power purchase commitments amid increasing market volatility."
-    publishedDateTime: 2021-08-13T05:23:00Z
-    webUrl: "https://www.pv-magazine.com/2021/08/13/ai-powered-bidding-platform-for-australias-biggest-solar-farm/"
-    type: article
-    provider:
-      name: pv magazine International
-      domain: pv-magazine.com
-    quality: 37
-    images:
-      - url: "https://www.pv-magazine.com/wp-content/uploads/2021/08/darlington-point-octopus.jpg"
-        width: 800
-        height: 420
-        isCached: true
 
 secured: "1nDDq/tGXxnX8Qj6QboK6OOzwlYQv7mvNHJqBmtCdlyjG8jS8VxuyjDANj8dVgDfwYi7tYBs+gWvfKRHpieSuyzUDyeXxI92QCyBM8plzx8Ik5w9sl9SplOBOxOP/6lSgrXKB9/wQ46pk+OuGrD+iJ23qKgTXwHqH5snWyMHpTwfkxNOTPbYdASDpJdjp3teX/8jLkZbUUvXcEoo5cYRF8LERgDVADu8tXPQfHu4mOomxN8kufHuPJhofH0LVPCuLDL8dFnFT26GFacInVWA6i+dCAv22iVRKe+lyoHTOOEd1C4QwCEG65xIsyfsLiCNk55IesjDLD4058w8S1ZO8tB2z9WbpT2Y1Zw/rTj44oQ=;GulrmZmT3NxxDRLI2YpNDg=="
 ---

@@ -42,20 +42,15 @@ related:
         width: 1200
         height: 577
         isCached: true
-  - title: "ModalAI Serves as Distributor for Qualcomm’s World First 5G and AI-Enabled Drone Platform and Reference Design"
-    excerpt: "ModalAI today announced it will be the manufacturer and distributor of Qualcomm Technologies’ world first 5G and AI-enabled drone platform and reference design, the Qualcomm FlightTM RB5 5G Platform,"
-    publishedDateTime: 2021-08-17T13:05:00Z
-    webUrl: "https://www.suasnews.com/2021/08/modalai-serves-as-distributor-for-qualcomms-world-first-5g-and-ai-enabled-drone-platform-and-reference-design/"
+  - title: "ModalAI Serves as Distributor for Qualcomm's World First 5G and AI-Enabled Drone Platform and Reference Design"
+    excerpt: "ModalAI today announced it will be the manufacturer and distributor of Qualcomm ( News - Alert) Technologies' world first 5G and AI-enabled drone platform and reference design, the Qualcomm Flight™ RB5 5G Platform,"
+    publishedDateTime: 2021-08-17T13:35:00Z
+    webUrl: "https://www.mobilitytechzone.com/lte/news/2021/08/17/9431965.htm"
     type: article
     provider:
-      name: SUAS News
-      domain: suasnews.com
-    quality: 19
-    images:
-      - url: "https://www.suasnews.com/wp-content/uploads/2021/08/5g-modal.png"
-        width: 1400
-        height: 700
-        isCached: true
+      name: Mobility Techzone
+      domain: mobilitytechzone.com
+    quality: 0
 
 secured: "4KMaRxJeKpKeDClGyJDhlCNywma2vBzCrJVRFCxlrAu2iWzN7LB59bjpASGQDk3pKlspp321xGvipyEpuYIny/m8Ayef2W4NBjb8SwPffWCA+j1/JDTNLx5X2SB15UeWi9+L2ymVrAINQaF3UFv09a6KX5Nh9MQawNLV/1M6cj8DkENcLrr5Q8z5XM/cXSs6Rg4MbcL7RItioUEsfMMQoOsvDoFjiRN5N/zG2AvQOrMBeWo79Dd+9IB7g64EWs/Fq85YBMX378xEZ3wcN9JdKO2fmelvKApCkM5VHmyurWYYGoSrzmQY/FTjJaBLVqNr5CKSxhuiiZBhkYt4JydmEocjfg0IKWNrTxMNmwXkNVY=;9cDQi/iASzyt+Kp+3UG3kA=="
 ---

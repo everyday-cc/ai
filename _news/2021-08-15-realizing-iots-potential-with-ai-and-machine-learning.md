@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/14/realizing-iots-potential-with-ai-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/14/realizing-iots-potential-with-ai-and-machine-learning/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -67,6 +67,20 @@ related:
       - url: "https://40uu5c99f3a2ja7s7miveqgqu-wpengine.netdna-ssl.com/wp-content/uploads/2018/03/AI-and-IoT-at-work.jpg"
         width: 741
         height: 494
+        isCached: true
+  - title: "A warning on artificial intelligence"
+    excerpt: "Artificial intelligence has insinuated its way into our daily lives, whether we are aware. From opening our smartphones with facial recognition, to travel and commuting assistance, to personalizing our feeds on social media,"
+    publishedDateTime: 2021-08-17T21:40:00Z
+    webUrl: "https://www.startribune.com/a-warning-on-artificial-intelligence/600088703/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 37
+    images:
+      - url: "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1629214656"
+        width: 1680
+        height: 876
         isCached: true
 
 secured: "vORRXPBtdaPvb8mu+ybCS0X2kgi0z7c1JHfWRSJGrgFqMZSP5r6NH6nIawBCBF2GV0C9VJX8FRdKAIGUTZ7G68f3mVjlrX+4q7QFdJ6NEOeGKnGk8rF0kQBTJ0PtCY3nptnKPMV8Fi7x4tf1CX6uN82KaBNs1VX6g0vOceWxKAfbHl+lHxMQThRY+0lDY0Ww7Mldat9nBeIogzlHSGijeTDRuwFXngMSLwy+xTxdjGWYVdDktTXppJtMUelj1m50pHYYn1gL5FExaQND8Bv/LRFVqz/ZaYTJtXYVk9MoWDGYJ8NXDYVnA9kYTDBAdWSMJoRruG8yj8v+acPMd+9kou1t9sEtCvfAjhq3QlB0gqFithvn0vIOKHulFOVwsezBfUIox07MddfbFI4sFKfzGkfcGU477vFpQ6dki5J6cPNOjzFVITvb6rLwrQdaRIT8eV/Eeqf8/ZUuBGQHtwZewHZJnOteNX/0cQOjKmzFH32cd609izN2ElFIUWo4/bQA54/JYyzz0oLhlCek5v83cg==;nrL7yUvrZ/i6FpA33Vx6jg=="

@@ -35,7 +35,7 @@ related:
     provider:
       name: AAAS
       domain: aaas.org
-    quality: 60
+    quality: 62
     images:
       - url: "https://www.aaas.org/sites/default/files/styles/large/public/2021-08/smart_0219-6-1200x628_440X440.jpg?itok=bhxYTxx1"
         width: 440

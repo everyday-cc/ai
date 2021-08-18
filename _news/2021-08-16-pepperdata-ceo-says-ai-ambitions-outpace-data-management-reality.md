@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/08/15/pepperdata-ceo-says-ai-ambitions-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/15/pepperdata-ceo-says-ai-ambitions-outpace-data-management-reality/amp/"
 type: article
 quality: 87
-heat: 111
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -30,19 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "Juniper touts cloud-ready data centre, AI, automation"
-    excerpt: "Enterprise networks are focused on buying full-stack offerings that include key software components such as management, automation and artificial intelligence (AI), but also routing, switching and security rather than a piecemeal approach. That trend is ..."
-    publishedDateTime: 2021-08-15T11:11:00Z
-    webUrl: "https://www.arnnet.com.au/article/690513/juniper-touts-cloud-ready-data-centre-ai-automation/"
+  - title: "Pepperdata adds GPU-tracking tools to help IT teams maximize usage"
+    excerpt: "Pepperdata adds tools to monitor GPUs as part of a broader effort to help enterprise IT teams optimize utilization."
+    publishedDateTime: 2021-08-17T23:40:00Z
+    webUrl: "https://venturebeat.com/2021/08/17/pepperdata-adds-gpu-tracking-tools-to-help-it-teams-maximize-usage/"
+    ampWebUrl: "https://venturebeat.com/2021/08/17/pepperdata-adds-gpu-tracking-tools-to-help-it-teams-maximize-usage/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/17/pepperdata-adds-gpu-tracking-tools-to-help-it-teams-maximize-usage/amp/"
     type: article
     provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 37
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/nw_manjoj_leelanivas.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2021/07/GettyImages-1307248206-e1628717341174.jpg?fit=800%2C534&strip=all"
         width: 800
-        height: 500
+        height: 400
         isCached: true
   - title: "Pepperdata moves into GPU monitoring and optimization for data-intensive apps"
     excerpt: "Big data infrastructure management firm Pepperdata Inc. is turning its attention to high-performance workloads, launching a new monitoring tool today for graphics processing units that power data-intensive applications such as Apache Spark on Kubernetes."

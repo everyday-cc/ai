@@ -34,22 +34,6 @@ related:
         width: 800
         height: 420
         isCached: true
-  - title: "Parliamentarians With Innovators For India Launches India’s First AI-powered Vaccine Awareness Campaign Immunise"
-    excerpt: "Bobble AI, having over 50 Million users mostly from India, has designed and developed a series of rich visuals (stickers & GIFs) around COVID 19 vaccinations which can be used as a part of everyday conversations on chat messaging apps including WhatsApp."
-    publishedDateTime: 2021-08-13T06:00:00Z
-    webUrl: "https://www.india.com/news/parliamentarians-with-innovators-for-india-launches-indias-first-ai-powered-vaccine-awareness-campaign-immunise-4885669/"
-    ampWebUrl: "https://www.india.com/news/parliamentarians-with-innovators-for-india-launches-indias-first-ai-powered-vaccine-awareness-campaign-immunise-4885669/amp/"
-    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/news/parliamentarians-with-innovators-for-india-launches-indias-first-ai-powered-vaccine-awareness-campaign-immunise-4885669/amp/"
-    type: article
-    provider:
-      name: India.com
-      domain: india.com
-    quality: 36
-    images:
-      - url: "https://s3.india.com/wp-content/uploads/2021/08/PR-1.png"
-        width: 600
-        height: 600
-        isCached: true
 
 secured: "LWNKUKL3sgW1Nwf0whQA81Nt/5HOCMtK+Pj1UQ4TJDRFetQN1o1ZRgMHZQZXpp7qBlEYb7SNHgHtwbadtT0LiulKJ3rKgDiXSVA+12r+LFvcqMbpHomCtORBqqUC1bR97Ta0pN1m7mCwe0hE6Y2L6KSU6gSaOHh7PlC28K1KPgj+gKQilUR4IIYpp9R2lQXODC/2XZBObM/oDYi9I90m2JJt1OsqqU7ShjIjsizF3jnt5VpijGkzb0Nr+CfgqKHbqFy2ZTuoc0XPe/4FPlGZe8HjIOLwwoy0h7GkNKNwWMZy/XUIw8L6Ptyj4WSvXwysk7rc+641HXR7I8lVXypuKuzspnoXRaOszo0cEl3Vtvc=;vbPzvJSDFadjrSdOJR/x8Q=="
 ---

@@ -44,20 +44,18 @@ related:
         height: 683
         isCached: true
   - title: "EXPLAINER: Western states face first federal water cuts"
-    excerpt: "U.S. officials declared the first-ever water shortage from a river that serves 40 million people in the West, triggering cuts to some Arizona farmers next year amid a gripping drought."
-    publishedDateTime: 2021-08-17T20:10:00Z
-    webUrl: "https://fox59.com/news/national-world/explainer-western-states-face-first-federal-water-cuts/"
-    ampWebUrl: "https://fox59.com/news/national-world/explainer-western-states-face-first-federal-water-cuts/amp/"
-    cdnAmpWebUrl: "https://fox59-com.cdn.ampproject.org/c/s/fox59.com/news/national-world/explainer-western-states-face-first-federal-water-cuts/amp/"
+    excerpt: "U.S. officials on Monday declared the first-ever water shortage from a river that serves 40 million people in the West, triggering cuts to some Arizona farmers next year"
+    publishedDateTime: 2021-08-17T22:07:00Z
+    webUrl: "https://www.newspressnow.com/explainer-western-states-face-first-federal-water-cuts/article_79a12a76-ffa7-11eb-b716-8b2f0b5c515b.html"
     type: article
     provider:
-      name: FOX59 News
-      domain: fox59.com
-    quality: 59
+      name: News-Press NOW
+      domain: newspressnow.com
+    quality: 39
     images:
-      - url: "https://fox59.com/wp-content/uploads/sites/21/2021/08/AP21226282851703.jpg?w=1280"
-        width: 1280
-        height: 853
+      - url: "https://bloximages.newyork1.vip.townnews.com/newspressnow.com/content/tncms/assets/v3/editorial/9/90/99088f94-ffa7-11eb-954f-0769bc1c14f0/611c33e184d17.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
         isCached: true
   - title: "Western States Face First Federal Water Cuts"
     excerpt: "U.S. officials on Monday declared the first-ever water shortage from a river that serves 40 million people in the West, triggering cuts to some Arizona farmers next year amid a gripping drought. Water levels at the largest reservoir on the Colorado River — Lake Mead — have fallen to record lows."

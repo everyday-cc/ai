@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pepperdata adds GPU-tracking tools to help IT teams maximize usage"
+    excerpt: "Pepperdata adds tools to monitor GPUs as part of a broader effort to help enterprise IT teams optimize utilization."
+    publishedDateTime: 2021-08-17T23:40:00Z
+    webUrl: "https://venturebeat.com/2021/08/17/pepperdata-adds-gpu-tracking-tools-to-help-it-teams-maximize-usage/"
+    ampWebUrl: "https://venturebeat.com/2021/08/17/pepperdata-adds-gpu-tracking-tools-to-help-it-teams-maximize-usage/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/17/pepperdata-adds-gpu-tracking-tools-to-help-it-teams-maximize-usage/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/07/GettyImages-1307248206-e1628717341174.jpg?fit=800%2C534&strip=all"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Pepperdata CEO says AI ambitions outpace data management reality"
     excerpt: "Pepperdata CEO Ash Munshi says lack of appreciation for data management will lead to disappointing results for enterprise AI."
     publishedDateTime: 2021-08-15T23:40:00Z
@@ -41,21 +57,7 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Juniper touts cloud-ready data centre, AI, automation"
-    excerpt: "Enterprise networks are focused on buying full-stack offerings that include key software components such as management, automation and artificial intelligence (AI), but also routing, switching and security rather than a piecemeal approach. That trend is ..."
-    publishedDateTime: 2021-08-15T11:11:00Z
-    webUrl: "https://www.arnnet.com.au/article/690513/juniper-touts-cloud-ready-data-centre-ai-automation/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 37
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/nw_manjoj_leelanivas.jpg"
-        width: 800
-        height: 500
-        isCached: true
 
-secured: "psdFvyV44hJHXaDDQpori1aIkdoTnEb+aTll74y5jggFe+XJH69bv+chGPs7Tr7CcY7hpaDnlEhqorBGSKHPIXAJk9KflXH+s90uTff/rOrYB3MwFy9oyUYf1HkQ4z/ZYmRG7T7bieTMlXnfjz+ZvL9nqDFfKPRstw11LavchCMxkBUbqSeap1n1AdnmxK+gie4QndT24ERXQfjErxscSkcpaNEo6tNBWh7/GKA1gnRgPdjy4Jo2+MElF/JJY13L9e88EXo3UyQepfs+UKogEIVVCzwpN3gkUEJePww9kxdyy0vwQS/ZpJZdk34YqCB83GSgQJxGBHqw5ol2JW3V+jxWHw3xTs7OzrMfJK/cGCw=;NpkAEjkoiYTlkyRA9qXvug=="
+secured: "hqPFFUdm82lRVtX021Ed8L9Eop/iqZ1+ao6AaRfHN9Yj3k9Z3MCDMwur8SW9uh60W3yeyQVCIe0xBvA0HzeGiscV6BUGBqZMXo/mhbjGFvInAhDrB+EfpR6cYtPp5FOkE5BPtpzdxf1YlXT0Dtj6q9NSqnRUXkwEkg3LSuFsNN/XF/+gbmGMfFIePn/Z0fw0BzHtOGQ4hMVCCOaQrr1kC9phHs8k2cJa3I9H/D8UToNH8X1XEe/vBtc/D8mutsqOBzxnAZzfqgD7Mkr+KBlfzUtXfmG9lS4iO/7oeSo4oKhTDQ1X+U6Fs84hH6UguLGAlgLTcsFhjEe6u6AmJTbFApyINkMDdHNru76oYXVVSnZUfCJtgaBIfgBf5xAQyfR/UC31pTzpV6zY1fabv/jqlazpEw1O8Q1XubLNgPhWKdzwHJRVp3BYiRnwS7PP4nWXExoH2R6u19/Reolj8npF3mYx1AUCJ3jpMxj5RKynhUmEOPT997atFOh+MrJ267IZkfp+URk3WedLWKlPka5w1w==;2nolsBxHaABXFypUf3bQBw=="
 ---
 

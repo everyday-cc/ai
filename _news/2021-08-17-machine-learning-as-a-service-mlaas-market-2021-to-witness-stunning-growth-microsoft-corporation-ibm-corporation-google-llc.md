@@ -21,6 +21,17 @@ topics:
   - AI
   - Machine Learning
 
+related:
+  - title: "Artificial Intelligence-Emotion Recognition Market Experience a Tremendous Growth in Near Future | Realeyes, Softbank, INTRAface, CrowdEmotion, IBM"
+    excerpt: "The ‘ Artificial Intelligence-Emotion Recognition market’ research report added by Report Ocean, is an in-depth analysis of the latest developments, market size, status, upcoming technologies, industry drivers,"
+    publishedDateTime: 2021-08-17T23:12:00Z
+    webUrl: "https://ipsnews.net/business/2021/08/17/artificial-intelligence-emotion-recognition-market-experience-a-tremendous-growth-in-near-future-realeyes-softbank-intraface-crowdemotion-ibm/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 0
+
 secured: "EF7+0K1hK6h3nL6fQszkfxBtWIzfWtrhl2cFKeYY4Qj2u5kiVWZfkdSJVr6upo6bSg78MMwVtkjxtO/gfEuIQyJ1R76BQeso+RNqyb2nb4v9J+CAnIDIC15ez8baiLtjWFHNuoc5ksBBq6KQIdYbCkYULzJdQ1Jol4ZU3ox073o4KCRTwpIfzHDD6vAklvWefh5b4mCS4TgY12BchY13T/krPHdDLsSuWY2xIf7IWCtXI78wePUigE4VCk+0qiK06wxccaUEbvuqTqvGwzm2ZPiRcFwqs8FlaJ7yGQy3K2A2dSwiHdo4E1d73rop9xoZ6+vtb3t9RwDipYSvtcGv+6yABg9EtFHZPKSOaQimhYc=;GbSAgvYbv6/pvNZ0OqWjSw=="
 ---
 

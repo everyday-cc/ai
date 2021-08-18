@@ -7,7 +7,7 @@ originalUrl: "https://fintechzoom.com/fintech_news_intel/intels-mobileye-announc
 webUrl: "https://fintechzoom.com/fintech_news_intel/intels-mobileye-announces-plan-for-driverless-delivery-service-tests-self-driving-cars-in-nyc/"
 type: article
 quality: 27
-heat: 27
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,38 @@ images:
     width: 750
     height: 500
     isCached: true
+
+related:
+  - title: "Gridlock solutions envisioned with driverless cars, flying taxis and delivery drones"
+    excerpt: "“The challenge is that AV and AI [artificial intelligence] is complicated to implement in urban environments,” said Bernard Schmidt of the authority’s AV division. “There is human bias in ..."
+    publishedDateTime: 2021-08-15T12:46:00Z
+    webUrl: "https://www.miamiherald.com/news/local/community/miami-dade/article237643954.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/local/community/miami-dade/article237643954.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/local/community/miami-dade/article237643954.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 52
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/d8c13d6b-7856-494e-9971-e37ddc10c652/c3add766-c8dc-42cf-9b32-f380f6083365/1280x720/match/image.jpg"
+        width: 1080
+        height: 720
+        isCached: true
+  - title: "Driverless? No, But How About the Car as Co-Pilot?"
+    excerpt: "Some 17 years ago, the U.S. military kicked off the race to build a self-driving car by sending a fleet of fledgling robot vehicles across the Mojave Desert in its seminal 2004 Darpa challenge. The industry has made significant progress since,"
+    publishedDateTime: 2021-08-16T11:35:00Z
+    webUrl: "https://www.washingtonpost.com/business/driverless-no-but-how-about-the-car-as-co-pilot/2021/08/16/744a9cac-fe8e-11eb-87e0-7e07bd9ce270_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
 
 secured: "oaNWZwx8TbLNADUL7S4UlLFSGYLgnClT1klPBmh4I1t7wQvWz6kRP3bO68kXxeOHrPOF/0rhdJ/PMBhmeTSpfAeJwC/iU3JE/XB+cDbF6Rn58dx77XrUq/CNWfF6pjyl8jABUDeYzazVGXV5jqYXgeLM1kuGctTjPIbzAoyK/3DZgm7MoKs5M+oXXoSc9K8TdLbqY5z5AG/cBhsS5EWJHrYhHioONa17Qw6mywgnFlHJz3A0/yXaI0NigN0gdj/is5SWUwOasKOASFTxdXB6XOL0bdp5qTvEuVV24gjokNnp+BvA2QHEBAbTdOYydwL6PduC+4baVYgt4Y7FdBM72Nq5G0fn25cS8Syvp16aZt8=;sHqqxoqepsH3pE2XEHnk5Q=="
 ---
