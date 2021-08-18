@@ -7,7 +7,7 @@ originalUrl: "https://www.lelezard.com/en/news-19955937.html"
 webUrl: "https://www.lelezard.com/en/news-19955937.html"
 type: article
 quality: 12
-heat: 12
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 640
     height: 480
     isCached: true
+
+related:
+  - title: "Decision Automation Industry Leaders Partner to Offer Free Training to Help Organizations Maximize Enterprise AI Efforts"
+    excerpt: "InRule Technology®, provider of the leading decision platform for automating mission-critical business decisions, today announced a free online training session to help organizations better understand how to leverage business rules and"
+    publishedDateTime: 2021-08-17T13:18:00Z
+    webUrl: "https://www.lelezard.com/en/news-19955551.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 14
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "WIdECyZFsIShXpJi70bYv30l07cc/L4DC8z1hYtqcqRPKRDfumRNktSKulL/rR3rBdQKgcjy/OH2lwd3q/sPO4i9MjvZdFbblnkkMP9/2ayPYuch2qc+/E9vlwOB85Lg60Ju0ySvVyOgvUdTVmBEou7aLVhl7pWbrTTD8Jq6BM7eoU5YvCKy8yHluYiQTvlMH5RtOp0R6PIrgVB8inuhJcRaCVoxikE/w5WmpxbYY5YPYpSX48ePybouNW8+aJ/kFYjOHlP7Ezr0GPZwpEvV6A9JSZWBoqgEtt0vKvUhTVhUFMqfCnIjVWoKY96PtZavd4tH1A8NsfQAiycJT/cY2QKr1f4S8jVRZltRWuCJMgI=;pH6MycrfcRKH+oyUCc4fPQ=="
 ---

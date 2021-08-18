@@ -71,17 +71,6 @@ related:
         width: 1024
         height: 478
         isCached: true
-  - title: "Wobot.ai Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Available in the Microsoft Azure Marketplace Microsoft Azure customers worldwide now gain access to Wobot ai to take advantage of the scalability reliability and agility of Azure to look at internal bBest practices and to achieve operational"
-    publishedDateTime: 2021-08-13T15:07:00Z
-    webUrl: "https://www.openpr.com/news/2354678/wobot-ai-now-available-in-the-microsoft-azure-marketplace"
-    ampWebUrl: "https://www.openpr.com/amp/2354678/wobot-ai-now-available-in-the-microsoft-azure-marketplace"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2354678/wobot-ai-now-available-in-the-microsoft-azure-marketplace"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 69
   - title: "Microsoft launches Azure Government Top Secret for US national security contracts"
     excerpt: "Microsoft has made 'Azure Government Top Secret' generally available, and can now bid for US government contracts with top-secret data hosting requirements. The company has long offered 'Government' and 'Government Secret' services,"
     publishedDateTime: 2021-08-17T12:29:00Z

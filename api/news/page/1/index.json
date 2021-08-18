@@ -2,6 +2,135 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-18-baidu-says-it-has-begun-mass-production-of-2nd-gen-kunlun-ai-chips.md",
+      "title": "Baidu says it has begun mass production of 2nd-gen Kunlun AI chips",
+      "excerpt": "Chinese tech giant Baidu said on Wednesday it had begun mass-producing second-generation Kunlun artificial intelligence (AI) chips, as it races to become a key player in the chip industry which Beijing is trying to strengthen.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gadgetsnow.com/tech-news/baidu-says-it-has-begun-mass-production-of-2nd-gen-kunlun-ai-chips/articleshow/85425603.cms",
+      "originalUrl": "https://www.gadgetsnow.com/tech-news/baidu-says-it-has-begun-mass-production-of-2nd-gen-kunlun-ai-chips/articleshow/85425603.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/resizemode-4,msid-85425603,imgsize-9644,width-800/85425603.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gadgetsnow.com/tech-news/baidu-says-it-has-begun-mass-production-of-2nd-gen-kunlun-ai-chips/amp_articleshow/85425603.cms",
+      "cdnAmpWebUrl": "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/baidu-says-it-has-begun-mass-production-of-2nd-gen-kunlun-ai-chips/amp_articleshow/85425603.cms",
+      "publishedDateTime": "2021-08-18T02:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gadgets Now",
+        "domain": "gadgetsnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-18-keep-an-eye-on-your-home-from-afar-with-this-affordable-ai-powered-security-camera.md",
+      "title": "Keep an eye on your home from afar with this affordable AI-powered security camera",
+      "excerpt": "TL;DR: Keep your home safe with this Blurams Home Pro Indoor Security Camera, available for $37.99 as of Aug. 18. Whether you’re finally leaving your house more often or casually retreating back inside after your brief stint out in the world,",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/aug-18-blurams-home-pro-indoor-security-camera",
+      "originalUrl": "https://mashable.com/article/aug-18-blurams-home-pro-indoor-security-camera",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/01n9QyMq4CuPX28iwGE46Mr/hero-image.fill.size_1200x675.v1629277507.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-18T02:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-08-18-this-new-ai-system-can-translate-natural-language-to-computer-code.md",
+      "title": "This New AI System Can Translate Natural Language To Computer Code",
+      "excerpt": "Advertisement Do you feel like you have an amazing idea for an application but don’t know how to code? Thanks to an artificial intelligence research company named OpenAI, it’s now possible to translate natural English language into programming code!",
+      "sourceUrl": null,
+      "webUrl": "https://wonderfulengineering.com/this-new-ai-system-can-translate-natural-language-to-computer-code/",
+      "originalUrl": "https://wonderfulengineering.com/this-new-ai-system-can-translate-natural-language-to-computer-code/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wonderfulengineering.com/wp-content/uploads/2021/08/2020_10largeimg_1328966816.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wonderfulengineering.com/this-new-ai-system-can-translate-natural-language-to-computer-code/amp/",
+      "cdnAmpWebUrl": "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/this-new-ai-system-can-translate-natural-language-to-computer-code/amp/",
+      "publishedDateTime": "2021-08-18T01:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wonderful Engineering",
+        "domain": "wonderfulengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-18-baidu-unveils-concept-autonomous-robocar.md",
       "title": "Baidu unveils concept autonomous 'Robocar'",
       "excerpt": "Along with unveiling a new autonomous vehicle, Baidu also announced it has started mass producing its AI chip, the Kunlun II.",
@@ -252,7 +381,7 @@
       "originalUrl": "https://thenextweb.com/news/optimists-guide-future-quantum-ai-could-make-earth-paradise",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -596,7 +725,7 @@
       "originalUrl": "https://www.pymnts.com/healthcare/2021/ai-communication-startup-drips-grows-healthcare-presence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1051,7 +1180,7 @@
       "originalUrl": "https://venturebeat.com/2021/08/17/qualcomm-readies-5g-and-ai-drone-platform/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -1093,161 +1222,6 @@
         "AI in Robotics",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-artificial-intelligence-market-size-share-by-sales-revenue-demands-growth-factors-and-emerging-trends-by-2027.md",
-      "title": "Artificial Intelligence Market Size & Share by Sales Revenue, Demands, Growth Factors and Emerging Trends by 2027",
-      "excerpt": "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-share-by-sales-revenue-demands-growth-factors-and-emerging-trends-by-2027-2021-08-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-share-by-sales-revenue-demands-growth-factors-and-emerging-trends-by-2027-2021-08-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-17T04:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-stopping-ai-bias-starts-with-diverse-product-teams.md",
-      "title": "Stopping AI Bias Starts With Diverse Product Teams",
-      "excerpt": "Beyond the ethics of debating gender or racial bias ... in product design has consequences in the digital world, which leans heavily on artificial intelligence (AI). AI-enabled robots are augmenting human labor on the factory floor, improving customer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/17/stopping-ai-bias-starts-with-diverse-product-teams/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/17/stopping-ai-bias-starts-with-diverse-product-teams/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611a8cd7696f99911afdc233%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/17/stopping-ai-bias-starts-with-diverse-product-teams/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/17/stopping-ai-bias-starts-with-diverse-product-teams/amp/",
-      "publishedDateTime": "2021-08-17T04:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-jumpstart-your-industrial-ai-strategy-with-these-three-use-cases.md",
-      "title": "Jumpstart Your Industrial AI Strategy With These Three Use Cases",
-      "excerpt": "The will to adopt AI is there; nobody still needs to hear the sales pitch. What is needed is guidance on just how and where to get started.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/17/jumpstart-your-industrial-ai-strategy-with-these-three-use-cases/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/17/jumpstart-your-industrial-ai-strategy-with-these-three-use-cases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611a8c063cc53c79155cb34c%2F0x0.jpg",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/17/jumpstart-your-industrial-ai-strategy-with-these-three-use-cases/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/17/jumpstart-your-industrial-ai-strategy-with-these-three-use-cases/amp/",
-      "publishedDateTime": "2021-08-17T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

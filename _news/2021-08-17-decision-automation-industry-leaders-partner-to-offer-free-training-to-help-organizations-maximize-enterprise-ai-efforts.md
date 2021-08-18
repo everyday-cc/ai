@@ -7,7 +7,7 @@ originalUrl: "https://www.lelezard.com/en/news-19955551.html"
 webUrl: "https://www.lelezard.com/en/news-19955551.html"
 type: article
 quality: 14
-heat: -1
+heat: 14
 published: false
 
 provider:
@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "VVDN Technologies Joins NVIDIA Partner Network to Expand Opportunities for Advanced AI-Enabled Camera & Vision Applications"
-    excerpt: "VVDN Technologies, a premier electronic product engineering and manufacturing company, announced that it has joined the NVIDIA Partner Network (NPN) as a provider of AI-enabled computer vision solutions powered by the NVIDIA Jetson edge AI platform."
-    publishedDateTime: 2021-08-18T01:18:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/vvdn-technologies-joins-nvidia-partner-network-to-expand-opportunities-for-advanced-ai-enabled-camera-vision-applications-1030740143"
+  - title: "guardDog.ai Launches Dealer Program for Integrators to Bring Autonomous Incident Response Technology to New Customer Channels"
+    excerpt: "Guard Dog Solutions, Inc., dba guardDog.ai, a rapidly expanding leader in cybersecurity solutions for consumers and businesses, today announced a dealer program for Systems Integrators, MSSP's, and IT Security Professionals nationwide."
+    publishedDateTime: 2021-08-17T14:06:00Z
+    webUrl: "https://www.lelezard.com/en/news-19955937.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 25
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 12
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "zrlteGsDPL6L7mKsSBtKI/BgQyIVbLvCQRth2WQka3Alqr9gzu+F2jrjp2ihBnGlDqZUxBRpjwozaNqo/WJJBl3JFjzdhlXuPF3Oxt1BqxFuczHe42S/8M+ksYFJWFtEuA3PFaWKtItuDe4HBUw9NzoiB/Lq5xC+3hUExTpM11mKPJTJTowHWhm/hAgrgrEhW1M9phslajj56YrOJIn9qbc8bg0T2U83QNAYFvBkJU5q9v4DhlkA/PA9f+9oLwQ3XJYK/zGD565pvXmAKUL76XbrkJBdmsOkCEMfGeVuncBiDRB5iF4B/a0jkqRSOcbnBv3BhVWDxdLZVlBROONkGo+4hk96yLXnpN0pwjhWzkI=;C/L2K5AU9nOxGzF1pxxBnQ=="
 ---

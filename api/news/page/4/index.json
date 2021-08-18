@@ -2,6 +2,93 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-13-global-machine-learning-accelerator-for-healthcare-report-forecast-to-2021-27-google-ibm-and-microsoft.md",
+      "title": "Global Machine Learning Accelerator For Healthcare Report Forecast to 2021-27- Google, IBM, and Microsoft.",
+      "excerpt": "The global Machine Learning Accelerator For Healthcare sector, it is forecasted to achieve a CAGR of xx% by the year end 2027. This growth rate will benefit the sector to achieve USD xx in 2027 , which is in 2020 valued at USD xx billion.",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/global-machine-learning-accelerator-for-healthcare-report-forecast-to-2021-27-google-ibm-and-microsoft/",
+      "originalUrl": "https://manometcurrent.com/global-machine-learning-accelerator-for-healthcare-report-forecast-to-2021-27-google-ibm-and-microsoft/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/global-machine-learning-accelerator-for-healthcare-report-forecast-to-2021-27-google-ibm-and-microsoft/?amp=1",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/global-machine-learning-accelerator-for-healthcare-report-forecast-to-2021-27-google-ibm-and-microsoft/?amp=1",
+      "publishedDateTime": "2021-08-13T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-13-thirdai-raises-6m-to-democratize-ai-to-any-hardware.md",
+      "title": "ThirdAI raises $6M to democratize AI to any hardware",
+      "excerpt": "ThirdAI is building tools to speed up deep learning technology without the need for hardware like graphics processing units.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/08/13/thirdai-raises-6m-to-democratize-ai-to-any-hardware/",
+      "originalUrl": "https://techcrunch.com/2021/08/13/thirdai-raises-6m-to-democratize-ai-to-any-hardware/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/Anshumali-Shrivastava-1.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/08/13/thirdai-raises-6m-to-democratize-ai-to-any-hardware/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/13/thirdai-raises-6m-to-democratize-ai-to-any-hardware/amp/",
+      "publishedDateTime": "2021-08-13T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-13-ai-in-marketing-use-cases-and-examples-in-content-marketing.md",
       "title": "AI in Marketing: Use Cases and Examples in Content Marketing",
       "excerpt": "The use case for analyzing and editing content for grammar, sentiment, tone and style isn't the hottest AI marketing use case. But it’s there. It ranked somewhere in the middle of the pack among 49 use cases presented to marketers in the 2021 State of Marketing AI report by Drift and the Marketing Artificial Intelligence Institute.",
@@ -1077,92 +1164,6 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-dalhousie-universitys-ai-robotics-team-wins-gold-in-robocup.md",
-      "title": "Dalhousie University’s AI robotics team wins gold in RoboCup",
-      "excerpt": "The Dalhousie University's AI robotics team, CYRUS, has become the first Canadian team to win gold in the international RoboCup competition. Team CYRUS, led by research assistant Nader Zare and PhD student Mahtab Sarvmaili,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/article/dalhousie-universitys-ai-robotics-team-wins-gold-in-robocup/456872",
-      "originalUrl": "https://www.itworldcanada.com/article/dalhousie-universitys-ai-robotics-team-wins-gold-in-robocup/456872",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2021/08/GettyImages-637794534.jpg",
-          "width": 836,
-          "height": 418,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/article/dalhousie-universitys-ai-robotics-team-wins-gold-in-robocup/456872?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/dalhousie-universitys-ai-robotics-team-wins-gold-in-robocup/456872?amp=1",
-      "publishedDateTime": "2021-08-12T07:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-engineering-students-makes-driverless-car-using-ai-maharashtra.md",
-      "title": "Engineering Students Makes Driverless Car Using AI: Maharashtra",
-      "excerpt": "Maharashtra`s Pune-based engineering students of a private university have developed a Driverless autonomous electric four-wheeler with the help of Artificial Intelligence. They mentioned the use for reducing accidents and deaths caused by human errors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nyoooz.com/news/pune/1601592/engineering-students-makes-driverless-car-using-ai-maharashtra-/",
-      "originalUrl": "https://www.nyoooz.com/news/pune/1601592/engineering-students-makes-driverless-car-using-ai-maharashtra-/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nyoooz.com/uploads/nyoooz-images/maxresdefault49.jpg",
-          "width": 800,
-          "height": 494,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nyoooz.com/amp/news/pune/1601592/engineering-students-makes-driverless-car-using-ai-maharashtra-/",
-      "cdnAmpWebUrl": "https://www-nyoooz-com.cdn.ampproject.org/c/s/www.nyoooz.com/amp/news/pune/1601592/engineering-students-makes-driverless-car-using-ai-maharashtra-/",
-      "publishedDateTime": "2021-08-12T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "nyoooz.com",
-        "domain": "nyoooz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

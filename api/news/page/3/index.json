@@ -2,6 +2,143 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-16-iim-ahmedabad-launches-centre-for-data-science-and-artificial-intelligence.md",
+      "title": "IIM Ahmedabad Launches Centre for Data Science and Artificial Intelligence",
+      "excerpt": "Ahmedabad has launched the Brij Disa Centre for Data Science and Artificial Intelligence (CDSA) to enable research in the field.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news18.com/news/education-career/iim-ahmedabad-launches-centre-for-data-science-and-artificial-intelligence-4091990.html",
+      "originalUrl": "https://www.news18.com/news/education-career/iim-ahmedabad-launches-centre-for-data-science-and-artificial-intelligence-4091990.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.news18.com/ibnlive/uploads/2021/08/iim-ahmedabad-162911098716x9.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news18.com/amp/news/education-career/iim-ahmedabad-launches-centre-for-data-science-and-artificial-intelligence-4091990.html",
+      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/iim-ahmedabad-launches-centre-for-data-science-and-artificial-intelligence-4091990.html",
+      "publishedDateTime": "2021-08-16T03:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN-News18",
+        "domain": "news18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-16-leveraging-on-fintech-to-solve-the-creditworthiness-issues-among-msmes-in-india.md",
+      "title": "Leveraging On Fintech To Solve the 'Creditworthiness' Issues Among MSMEs In India",
+      "excerpt": "The traditional lending cycle is time-consuming, involves excessive documentation including but not limited to registration proof, income proof, bank statement, business plan, MSME certificate, etc.,",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/380301",
+      "originalUrl": "https://www.entrepreneur.com/article/380301",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1629109807-austin-distel-EMPZ7yRZoGw-unsplash.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/380301",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/380301",
+      "publishedDateTime": "2021-08-16T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-16-single-mri-scan-can-classify-brain-tumours-using-deep-learning-model.md",
+      "title": "Single MRI scan can classify brain tumours using deep learning model",
+      "excerpt": "According to a recent study, a new deep learning model can help classify a brain tumour as one of six common types, using a single 3D MRI scan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesnownews.com/health/article/single-mri-scan-can-classify-brain-tumours-using-deep-learning-model/799586",
+      "originalUrl": "https://www.timesnownews.com/health/article/single-mri-scan-can-classify-brain-tumours-using-deep-learning-model/799586",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgk.timesnownews.com/story/MRI-56baa4073df78c0b136bb6bc.jpg?tr=w-400,h-300,fo-auto",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesnownews.com/amp/health/article/single-mri-scan-can-classify-brain-tumours-using-deep-learning-model/799586",
+      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/health/article/single-mri-scan-can-classify-brain-tumours-using-deep-learning-model/799586",
+      "publishedDateTime": "2021-08-15T22:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "timesnownews.com",
+        "domain": "timesnownews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-16-artificial-intelligence-in-retail-market-sizesharerecent-study-by-2027microsoft-nvidia-amazon-web-services.md",
       "title": "Artificial Intelligence in Retail Market Size,Share,Recent Study by 2027|Microsoft, Nvidia, Amazon Web Services",
       "excerpt": "“Los Angeles, United States, Aug 2021,- QY Research has recently published a new report, titled Global Artificial Intelligence in Retail Market Report, History and Forecast 2016-2027, Breakdown Data by Companies, Key Regions, Types and Application The ...",
@@ -157,7 +294,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/15/using-ai-self-driving-cars-to-detect-and-help-curtail-eyesore-graffiti-around-us/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -398,7 +535,7 @@
       "originalUrl": "https://venturebeat.com/2021/08/14/realizing-iots-potential-with-ai-and-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -588,50 +725,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-14-this-machine-learning-tool-can-translate-english-sentences-into-computer-code.md",
-      "title": "This Machine Learning Tool Can Translate English Sentences Into Computer Code",
-      "excerpt": "OpenAI resarchers have developed a unique machine learning tool that can seamlessly translate the English language into computer codes.",
-      "sourceUrl": null,
-      "webUrl": "https://beebom.com/this-machine-learning-tool-translates-english-sentences-to-computer-code/",
-      "originalUrl": "https://beebom.com/this-machine-learning-tool-translates-english-sentences-to-computer-code/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beebom.com/wp-content/uploads/2021/08/OpenAI-Researchers-Develops-a-Tool-To-Translate-English-Sentences-Into-Codes-feat..jpg",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beebom.com/this-machine-learning-tool-translates-english-sentences-to-computer-code/amp/",
-      "cdnAmpWebUrl": "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/this-machine-learning-tool-translates-english-sentences-to-computer-code/amp/",
-      "publishedDateTime": "2021-08-14T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Beebom",
-        "domain": "beebom.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2021-08-14-3-top-artificial-intelligence-stocks-to-buy-in-august.md",
       "title": "3 Top Artificial Intelligence Stocks to Buy in August",
       "excerpt": "There are a handful of companies bringing artificial intelligence to the party and changing the game as a result. There's no one way to use AI -- these companies are using it to make lending decisions and power chat bots.",
@@ -775,58 +868,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-14-us-lawmakers-are-not-convinced-about-amazons-ability-to-store-palm-prints-safely.md",
-      "title": "US lawmakers are not convinced about Amazon's ability to store palm prints safely",
-      "excerpt": "With Amazon One, the company is hoping to make payment for your groceries simpler and faster by scanning your palm. For now, you can use it",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/90785-us-lawmakers-not-convinced-about-amazon-ability-store.html",
-      "originalUrl": "https://www.techspot.com/news/90785-us-lawmakers-not-convinced-about-amazon-ability-store.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/08/2021-08-13-image-10.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/90785-us-lawmakers-not-convinced-about-amazon-ability-store.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/90785-us-lawmakers-not-convinced-about-amazon-ability-store.html",
-      "publishedDateTime": "2021-08-13T10:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     },
@@ -1181,57 +1222,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-thirdai-raises-6m-to-democratize-ai-to-any-hardware.md",
-      "title": "ThirdAI raises $6M to democratize AI to any hardware",
-      "excerpt": "ThirdAI is building tools to speed up deep learning technology without the need for hardware like graphics processing units.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/08/13/thirdai-raises-6m-to-democratize-ai-to-any-hardware/",
-      "originalUrl": "https://techcrunch.com/2021/08/13/thirdai-raises-6m-to-democratize-ai-to-any-hardware/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/08/Anshumali-Shrivastava-1.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/08/13/thirdai-raises-6m-to-democratize-ai-to-any-hardware/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/13/thirdai-raises-6m-to-democratize-ai-to-any-hardware/amp/",
-      "publishedDateTime": "2021-08-13T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/14/realizing-iots-potential-with-ai-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/14/realizing-iots-potential-with-ai-and-machine-learning/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 86
-  - title: "Abacus.AI debuts industry-first platform for building, training and running deep learning models"
-    excerpt: "Abacus.AI debuts industry-first platform for building, training and running deep learning models - SiliconANGLE"
-    publishedDateTime: 2021-08-13T16:14:00Z
-    webUrl: "https://siliconangle.com/2021/08/13/abacus-ai-debuts-industry-first-platform-building-training-running-deep-learning-models/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 45
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/Bindu-Headshot.jpg"
-        width: 940
-        height: 512
-        isCached: true
   - title: "The interaction and convergence of IoT and AI at work"
     excerpt: "The Internet of Things (IoT) and artificial intelligence (AI) go hand in hand across several use cases and applications in business and science. How IoT and AI already work together today and what the future holds - with several examples."
     publishedDateTime: 2021-08-15T12:39:00Z

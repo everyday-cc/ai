@@ -2,6 +2,109 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-08-11-oracle-tweaks-mysql-and-boosts-storage-engine.md",
+      "title": "Oracle tweaks MySQL and boosts storage engine",
+      "excerpt": "Oracle has announced a free upgrade to its MySQL HeatWave service which it says promises to make life easier for clients, while at the same time improving performance and stability. The upgrade comes in the form of MySQL Autopilot,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/oracle-tweaks-mysql-and-boosts-storage-engine",
+      "originalUrl": "https://www.techradar.com/news/oracle-tweaks-mysql-and-boosts-storage-engine",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/UhpgU7eT2dhfTc52jvyvM-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/oracle-tweaks-mysql-and-boosts-storage-engine",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/oracle-tweaks-mysql-and-boosts-storage-engine",
+      "publishedDateTime": "2021-08-11T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-mubadala-backs-software-startup-peopleai-in-new-funding-round.md",
+      "title": "Mubadala Backs Software Startup People.ai in New Funding Round",
+      "excerpt": "Sales software startup People.ai has reached a $1.1 billion valuation with a $100 million funding round backed by new investors Mubadala Investment Co. and Akkadian Ventures.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-08-11/mubadala-backs-software-startup-people-ai-in-new-funding-round",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-08-11/mubadala-backs-software-startup-people-ai-in-new-funding-round",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCe10WAM32Rk/v0/1200x900.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-11T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-11-openai-can-translate-english-into-code-with-its-new-machine-learning-software-codex.md",
       "title": "OpenAI can translate English into code with its new machine learning software Codex",
       "excerpt": "AI research company OpenAI is releasing ... to build simple websites and rudimentary games using natural language, as well as translate between different programming languages and tackle data ...",
@@ -1091,108 +1194,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-salesforces-kathy-baxter-is-coming-to-tc-sessions-saas-to-talk-ai.md",
-      "title": "Salesforce’s Kathy Baxter is coming to TC Sessions: SaaS to talk AI",
-      "excerpt": "As the use of AI has grown and developed over the last several years, companies like Salesforce have tried to tap into it to improve their software and help customers operate faster and more efficiently.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/08/10/salesforces-kathy-baxter-is-coming-to-tc-sessions-saas-to-talk-ai/",
-      "originalUrl": "https://techcrunch.com/2021/08/10/salesforces-kathy-baxter-is-coming-to-tc-sessions-saas-to-talk-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/08/kathy_baxter.png?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/08/10/salesforces-kathy-baxter-is-coming-to-tc-sessions-saas-to-talk-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/10/salesforces-kathy-baxter-is-coming-to-tc-sessions-saas-to-talk-ai/amp/",
-      "publishedDateTime": "2021-08-10T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-twitters-ai-bounty-program-reveals-bias-toward-young-pretty-white-people.md",
-      "title": "Twitter's AI bounty program reveals bias toward young, pretty white people",
-      "excerpt": "Twitter's first AI bias bounty has wrapped up, and it learned that beauty filters skew its photo algorithm — among other issues..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/twitter-ai-bias-beauty-filters-133210055.html",
-      "originalUrl": "https://www.engadget.com/twitter-ai-bias-beauty-filters-133210055.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-07/ea9ee970-eb0c-11eb-bff7-edec61e3c4f2",
-          "width": 5000,
-          "height": 3333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/twitter-ai-bias-beauty-filters-133210055.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/twitter-ai-bias-beauty-filters-133210055.html",
-      "publishedDateTime": "2021-08-10T06:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

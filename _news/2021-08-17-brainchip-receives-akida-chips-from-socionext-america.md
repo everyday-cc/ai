@@ -2,17 +2,17 @@
 category: news
 title: "BrainChip Receives Akida Chips from Socionext America"
 excerpt: "BrainChip Holdings Ltd (ASX: BRN), (OTCQX: BRCHF), a leading provider of ultra-low power high performance artificial intelligence technology, today announced it has received the first batch of Akida™ chips from its manufacturing run from Socionext America (SNA)."
-publishedDateTime: 2021-08-17T03:30:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210816005738/en/BrainChip-Receives-Akida-Chips-from-Socionext-America"
-webUrl: "https://www.businesswire.com/news/home/20210816005738/en/BrainChip-Receives-Akida-Chips-from-Socionext-America"
+publishedDateTime: 2021-08-16T23:33:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-brainchip-receives-akida-chips-from-socionext-america-/2021/08/16/9431517.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-brainchip-receives-akida-chips-from-socionext-america-/2021/08/16/9431517.htm"
 type: article
 quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Hardware
@@ -34,6 +34,6 @@ related:
         height: 438
         isCached: true
 
-secured: "EQUBQubB5dKe90NlFGSYmOJ6KL1jegWqNL+Mjb2yiMBs6csnB75Zuncdc/eLJRcfT8N58H1zp8/EfFlp0CpCqQUtPfyhPIINiIqkN7nehyQdOSo6qrLhR6gera/0o2gvVNLqj1W1BAIizW6SsG+3yhC2SLQdvRDWp6oomxDdOBU1yjDi1AOCNiAyRcijLHx3Rty1CYk927u1z76V/C1qCcqOFn6vxoDA9qqQbdfI+OOR871S1O+hT30yboKFLskK4prh5DaXEly7N7SnX12CnDfASHA4Iw4xRN38n9JLA9y3oz5atolUHm4NvrIMUdEiXW1tb77693guDmEJHasv6AULV4J93vPPY/2AtoRxfV8=;JFxdtbta8rNYDOkv757KRA=="
+secured: "rRNkZRpxKoo29xiGm3NaJMNOufGOaSuEzrsgl4kj4Gbr03K4spq+WZw2kQeBwLwx66Tww6Njhgy+4R80uJwhZAdQHbYZgUIoL9OazzEcnFAmIjbYY1GZvgnAo62+dd21EcIFcCVWbQrGy6/t7QeVsITryDVmTtcDi410ly/z7oyPqlmPA1Pg6lJigVw4dgE51KAKZoN2txCbCozhKscb30cqkMYAYZ/uG7R6bBD2DIa3YH9EZ4kJfwHgd0c/JBR2kKbO4X4AKVP5PRsEayF2RyM2g7Rmyn3HCUWfD0yF3PaIzPEfYfAdTYUu2xrI2PIRL8K7HkHxMti0F+U3zsk+EG/1dGXJ3/XbTeYeXiqEdLk=;Sj7s4TNgWCDkGx/qT1gFfA=="
 ---
 

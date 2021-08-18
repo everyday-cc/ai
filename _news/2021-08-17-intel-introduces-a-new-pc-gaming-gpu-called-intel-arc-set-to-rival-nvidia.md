@@ -165,6 +165,20 @@ related:
         width: 1440
         height: 1080
         isCached: true
+  - title: "Intel Arc gaming GPU launched to compete with NVIDIA and AMD"
+    excerpt: "Intel is finally getting serious with gaming GPUs with the release of Arc. The Intel Arc is a culmination of years of work that the company has put on to finally compete with NVIDIA's GeForce and"
+    publishedDateTime: 2021-08-18T09:48:00Z
+    webUrl: "https://www.noypigeeks.com/computers/intel-arc-gpu/"
+    type: article
+    provider:
+      name: NoypiGeeks
+      domain: noypigeeks.com
+    quality: 39
+    images:
+      - url: "https://www.noypigeeks.com/wp-content/uploads/2021/08/intel-arc-gpu-noypigeeks.jpg"
+        width: 900
+        height: 506
+        isCached: true
   - title: "Beware Nvidia! Intel Arc is the New Consumer GPU Brand Coming to Devices in 2022 With Ray Tracing, Super Sampling and More"
     excerpt: "Beware Nvidia! Intel Arc is the New Consumer GPU Brand Coming to Devices in 2022 With Ray Tracing, Super Sampling and More -"
     publishedDateTime: 2021-08-17T06:32:00Z

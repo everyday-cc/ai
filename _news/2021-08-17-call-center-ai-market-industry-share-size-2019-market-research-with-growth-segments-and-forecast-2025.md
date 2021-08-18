@@ -66,6 +66,22 @@ related:
         width: 750
         height: 350
         isCached: true
+  - title: "Artificial Intelligence in Energy Market Recent Trends, Future Growth, Industry Analysis, Outlook, Insights, Share and Forecasts Report 2028"
+    excerpt: "The global Artificial Intelligence in energy market is expected to reach a market size of USD 20.83 Billion at a steady CAGR of 23.6% in 2028, according to latest analysis by Emergen Research. This steady revenue growth can be attributed to increasing need to obtain operational efficiency to meet energy requirements."
+    publishedDateTime: 2021-08-18T08:24:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-energy-market-recent-trends-future-growth-industry-analysis-outlook-insights-share-and-forecasts-report-2028/"
+    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-energy-market-recent-trends-future-growth-industry-analysis-outlook-insights-share-and-forecasts-report-2028/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-energy-market-recent-trends-future-growth-industry-analysis-outlook-insights-share-and-forecasts-report-2028/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 24
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/shutterstock_1859475574-11-390x220.jpg"
+        width: 390
+        height: 220
+        isCached: true
   - title: "Global Field Programmable Gate Array Market to be Driven by the Growth of AI and Deep Learning Technologies in the Forecast Period of 2021-2026"
     excerpt: "The new report by Expert Market Research titled, ‘Global Field Programmable Gate Array Market Size, Share, Price, Trends, Growth, Analysis, Report and Forecast 2021-2026’, gives an in-depth analysis of the global field programmable gate array market,"
     publishedDateTime: 2021-08-14T01:00:00Z

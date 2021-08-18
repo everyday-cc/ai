@@ -9,8 +9,8 @@ ampWebUrl: "https://beebom.com/this-machine-learning-tool-translates-english-sen
 cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/this-machine-learning-tool-translates-english-sentences-to-computer-code/amp/"
 type: article
 quality: 73
-heat: 83
-published: true
+heat: -1
+published: false
 
 provider:
   name: Beebom
@@ -28,21 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "English schools turn to AI to help students catch up after Covid"
-    excerpt: "An unusual teaching assistant is waiting for the students of St John’s primary school, in Wigan, north-west England, when they return from their summer holidays. To get them back up to speed, after a year of disruptions from Covid-19,"
-    publishedDateTime: 2021-08-14T04:00:00Z
-    webUrl: "https://www.ft.com/content/006ebaf6-a76c-4257-a343-f1db1f7b39e7"
-    ampWebUrl: "https://amp.ft.com/content/006ebaf6-a76c-4257-a343-f1db1f7b39e7"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/006ebaf6-a76c-4257-a343-f1db1f7b39e7"
+  - title: "This New AI System Can Translate Natural Language To Computer Code"
+    excerpt: "Advertisement Do you feel like you have an amazing idea for an application but don’t know how to code? Thanks to an artificial intelligence research company named OpenAI, it’s now possible to translate natural English language into programming code!"
+    publishedDateTime: 2021-08-18T08:01:00Z
+    webUrl: "https://wonderfulengineering.com/this-new-ai-system-can-translate-natural-language-to-computer-code/"
+    ampWebUrl: "https://wonderfulengineering.com/this-new-ai-system-can-translate-natural-language-to-computer-code/amp/"
+    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/this-new-ai-system-can-translate-natural-language-to-computer-code/amp/"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 57
+      name: Wonderful Engineering
+      domain: wonderfulengineering.com
+    quality: 74
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9feb48f9-abc8-4488-9e23-610d352828e3.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
+      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/08/2020_10largeimg_1328966816.jpg"
+        width: 900
+        height: 600
         isCached: true
 
 secured: "QLnTcm1poe3cOejHuoXS8wDP0J13guegrd2ytx0KOqLORJSM6Z50mMceUSueMGqhXpPItjT/RCdM6Jn/bfhz2z7jbfgeszI13eP1pfRwUN43Rxs9wS7q0KtPMnDc5rhc5Jhl/DA2MNMDLqszG4D45D4T4gWlx1tbxhEQK+RAfFi+3WKTKGEMktDlKAaFgHMeH83hCSKF4Ht4uMREkaY6fwENmyMlAw/TtqfjkfdH0u53aaDY2TCg5nG1+mP37K28m7xrmqHKI6fBg/ngaCkzcu0l54MuTgcLqE378dSTOhxJriEXkiQDEajKyhQjpDtsSTKgjsKY5P0zuYijNW/HOvOk9pL6WBAQSo+myarNcvFM67CpGbzGzVICTtsihXM+D53LWqyZWaHTzekZQ0eCuKahr41sKlmR9KLu7+Mk+KCVZeiHbontsEBw2iJaIQmzZ2xfAczMyut+lJjUbRO9iIaQGIVHnzIVzXc179s2u1OsLX2zfys8zKAQfl5+b12xw9N2xEbqR+VZPFfNRKmtxg==;/HUk/efTUIgcXfpTGT+KJA=="

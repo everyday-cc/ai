@@ -1,44 +1,30 @@
 ---
 category: news
 title: "VVDN Technologies Joins NVIDIA Partner Network to Expand Opportunities for Advanced AI-Enabled Camera & Vision Applications"
-excerpt: "VVDN Technologies, a premier electronic product engineering and manufacturing company, announced that it has joined the NVIDIA Partner Network (NPN) as a provider of AI-enabled computer vision solutions powered by the NVIDIA Jetson edge AI platform."
-publishedDateTime: 2021-08-18T01:18:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/vvdn-technologies-joins-nvidia-partner-network-to-expand-opportunities-for-advanced-ai-enabled-camera-vision-applications-1030740143"
-webUrl: "https://markets.businessinsider.com/news/stocks/vvdn-technologies-joins-nvidia-partner-network-to-expand-opportunities-for-advanced-ai-enabled-camera-vision-applications-1030740143"
+excerpt: "VVDN Technologies, a premier electronic product engineering and manufacturing company, announced that it has joined the NVIDIA Partner"
+publishedDateTime: 2021-08-18T09:00:00Z
+originalUrl: "https://www.prnewswire.co.uk/news-releases/vvdn-technologies-joins-nvidia-partner-network-to-expand-opportunities-for-advanced-ai-enabled-camera-amp-vision-applications-851556490.html"
+webUrl: "https://www.prnewswire.co.uk/news-releases/vvdn-technologies-joins-nvidia-partner-network-to-expand-opportunities-for-advanced-ai-enabled-camera-amp-vision-applications-851556490.html"
 type: article
-quality: 25
-heat: 25
+quality: 15
+heat: 15
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.co.uk
 
 topics:
   - Computer Vision
   - AI
   - AI Hardware
 
-related:
-  - title: "Decision Automation Industry Leaders Partner to Offer Free Training to Help Organizations Maximize Enterprise AI Efforts"
-    excerpt: "InRule Technology®, provider of the leading decision platform for automating mission-critical business decisions, today announced a free online training session to help organizations better understand how to leverage business rules and"
-    publishedDateTime: 2021-08-17T13:18:00Z
-    webUrl: "https://www.lelezard.com/en/news-19955551.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 14
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
+images:
+  - url: "https://mma.prnewswire.com/media/1531036/VVDN_Technologies_Logo.jpg?p=facebook"
+    width: 600
+    height: 315
+    isCached: true
 
-secured: "xGUdL4AqrIEggONt3ymK6WK6ErCUKQAq2iegqEqBuRYwkUOAb/d55TgZ1fBN270oDCppPDGXuDGvxMPfMq018uB8HsjkF0t4LIvgKR0f+gePWiur62Pd56FlfvO/wHDxamKHfsfXEXDKn+FvZbwaYlFDTFP0Xg8didRfXYvVEq+Tjp4QY4/sevTIthWz3W6nqzsp29/Zo4c1oFxekZ1b2iKWPGEjlvvIacCCXEW1ejd0DNxsWYMZaOWscYdzZE5Kdrgi84K9Efd3XOWA0ErinCsOZRphUD35FmSo3gxV6reE6y43s1O+bOgReX7ZWoOyd1Sy0B5TowJ7jnbZSDJXVdboDN4RrQ+v7TzhUl6edGl/6vTZeAzOdSaYUI0BYY5e9v1DEtwtaAWpOIY9r14D9VpRo0WSTQ57N3Ctllp/BwlyK3HN/kiqNPUbPeePYPNskihgnmJ84jKLYnz2MEAkGJkd8lr0yT9cdr8XXS/3cv8V0QuBLbxLMp6POnt2JyVZx2iogbzVsVz6TXLCBmYWHQ==;3+1QwwkCyni5bY5vUbID2w=="
+secured: "SdnS59PKgNiBp5cXpCtpD7xrLdq50xYNFrrJkkFdEdZSE2cIdo8VZyddyLgX7Ruv1mYiMdX1019Fx88f107+tiY0ULf8dv75qiEIgKX0fthWtwF0R3vP2fW0wMhQTiWA3VfkZWL1EZyHAeGLqRgOd1ILsD+Sj5AxD2Bl714/l9PeMGzS5xbQIVszU96VUxhOIBEotUUoFrth8PtqWm5+WXMklPKQBdx1ZoopqszLeYvn7tgD+N5hUS6zl7qGra3PNyO2FA67AOQOVZ6XzlJblKQcw0pKjxgaC0rgPg/wyKdG68P6EeFw1f12uGufvEM29FvXbCc0256tHaxiS/YK7RhK940/KoAOFwnwQUPeLkY=;OX/pjTFeWZeMF0gAeWVu2A=="
 ---
 

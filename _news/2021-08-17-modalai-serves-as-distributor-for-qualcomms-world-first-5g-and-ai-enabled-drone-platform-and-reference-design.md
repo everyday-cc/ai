@@ -67,6 +67,20 @@ related:
         width: 320
         height: 214
         isCached: true
+  - title: "Qualcomm AI-powered UAV 5G drone can capture 8K video and more"
+    excerpt: "Qualcomm has introduced the world's first 5G and artificial intelligence enabled drone platform in the form of the Qualcomm Flight RB5 5G"
+    publishedDateTime: 2021-08-18T09:39:00Z
+    webUrl: "https://www.geeky-gadgets.com/qualcomm-5g-drone-18-08-2021/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/08/Qualcomm-AI-powered-UAV-5G-drone.jpg"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Qualcomm unveils 5G AI drone"
     excerpt: "Qualcomm has unveiled the world’s first drone with 5G and AI capabilities. The reference drone operates on the chipmaker’s Flight RB5 5G platform, promising cutting-edge capabilities, high-performance,"
     publishedDateTime: 2021-08-18T07:32:00Z
@@ -78,6 +92,20 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 39
+  - title: "Qualcomm unveils its next-generation 5G AI drone platform"
+    excerpt: "Qualcomm Technologies Inc. has unveiled a new reference design for drones that integrates 5G and artificial intelligence. The chipmaker said today it’s aiming to replicate the success of the experimental Ingenuity Helicopter that recently visited Mars,"
+    publishedDateTime: 2021-08-18T03:46:00Z
+    webUrl: "https://siliconangle.com/2021/08/17/qualcomm-unveils-next-generation-5g-ai-drone-platform/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/qualcomm-5g-drone-platform.png"
+        width: 1127
+        height: 684
+        isCached: true
 
 secured: "8IWysFLZ/ECHx/dZNZvJZFKbaOGdBHb06uhGUzIXIKAgLQJ2yQqC/pU6LMUU6fIErHbQQDBl9cQX1YmD+3a+Ac1zTZ5BFIPjQw4iI9FB/AcgXoim5byMS03vh6SGB7UOeF8ULsi+lCX3MIIm5UeB7C4HEFq2GdrOMw/6JR4XA8MG8dKLIIGRhEbBl8+RCaMqAu0si8Ec1DX3Zy113J5WzdJNOm1rwIUBUiLPCz5PcrX9PzM8SlbRXKL2d1tITJXlGvFNx6JCTBr4MB4zxo4EdIbCmViao4gOWcno0vakfVecUEAEzx99v/j1c4RDZ97nZkFUaSNn1IVxy8UuDm78Y6nGogPqsWHi6n0Pl3nNI2GGWUPD0nUPax5GJ3ZZGnI+M7PEvRIsi09OveqCTPx9a2V0Yf9Pc+TjfP/ZQcMQnDeUujoEcGbnpX2D3VzkmIiauJa0SmgctRYz9uG5XvbC5ThdItILYZ/UgMZwZzQzgrulrjJtsfvpgGp0FwyaU+x7gmyZeo0GaPmsQRo26NYFUA==;O6EubSvv3iw9ZWNpbRL8DA=="
 ---

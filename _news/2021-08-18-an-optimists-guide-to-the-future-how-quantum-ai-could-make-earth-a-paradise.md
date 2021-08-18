@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/optimists-guide-future-quantum-ai-coul
 webUrl: "https://thenextweb.com/news/optimists-guide-future-quantum-ai-could-make-earth-paradise"
 type: article
 quality: 64
-heat: 76
+heat: 77
 published: true
 
 provider:

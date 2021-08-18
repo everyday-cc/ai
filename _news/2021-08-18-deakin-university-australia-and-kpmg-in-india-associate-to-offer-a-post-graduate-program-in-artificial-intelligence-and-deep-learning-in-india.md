@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Deakin University, Australia, and KPMG in India associate to offer a Post Graduate Program in Artificial Intelligence and Deep Learning in India"
-excerpt: "The adoption of artificial intelligence and deep learning to harness their transformative potential is becoming a key priority of"
-publishedDateTime: 2021-08-18T05:43:00Z
-originalUrl: "https://theprint.in/ani-press-releases/deakin-university-australia-and-kpmg-in-india-associate-to-offer-a-post-graduate-program-in-artificial-intelligence-and-deep-learning-in-india/717571/"
-webUrl: "https://theprint.in/ani-press-releases/deakin-university-australia-and-kpmg-in-india-associate-to-offer-a-post-graduate-program-in-artificial-intelligence-and-deep-learning-in-india/717571/"
-ampWebUrl: "https://theprint.in/ani-press-releases/deakin-university-australia-and-kpmg-in-india-associate-to-offer-a-post-graduate-program-in-artificial-intelligence-and-deep-learning-in-india/717571/?amp"
-cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/deakin-university-australia-and-kpmg-in-india-associate-to-offer-a-post-graduate-program-in-artificial-intelligence-and-deep-learning-in-india/717571/?amp"
+excerpt: "The adoption of artificial intelligence and deep learning to harness their transformative potential is becoming a key priority of most organizations."
+publishedDateTime: 2021-08-18T08:30:00Z
+originalUrl: "https://www.business-standard.com/content/press-releases-ani/deakin-university-australia-and-kpmg-in-india-associate-to-offer-a-post-graduate-program-in-artificial-intelligence-and-deep-learning-in-india-121081800643_1.html"
+webUrl: "https://www.business-standard.com/content/press-releases-ani/deakin-university-australia-and-kpmg-in-india-associate-to-offer-a-post-graduate-program-in-artificial-intelligence-and-deep-learning-in-india-121081800643_1.html"
+ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/deakin-university-australia-and-kpmg-in-india-associate-to-offer-a-post-graduate-program-in-artificial-intelligence-and-deep-learning-in-india-121081800643_1.html"
+cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/deakin-university-australia-and-kpmg-in-india-associate-to-offer-a-post-graduate-program-in-artificial-intelligence-and-deep-learning-in-india-121081800643_1.html"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: ThePrint
-  domain: theprint.in
+  name: Business Standard
+  domain: business-standard.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://static.theprint.in/wp-content/uploads/2021/08/deakin-university-australia-and-kpmg-in-india-associate-to-offer-a-post-graduate-program-in-artificial-intelligence-and-deep-learning-in-india.jpg"
+  - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-08/18/full/20210818114332.jpg"
     width: 600
     height: 450
     isCached: true
@@ -53,6 +53,6 @@ related:
       domain: pcmethods.com
     quality: 39
 
-secured: "PrkALpnAmBfFuoFftHDNSNP8ZuV+26Sx3Ku17kq1+ciB+9y6YZ3gYosTGvLaGXY7uaBShM3WImHaq+DAByMXoQ+HRz3P2DLcgS+7+DwBXZPgk3OdTY+lB1+4oTMmuGWhxD7UlD2SnzvpLKsfyGcNqbIDYMj8cNlNsGV1uDLyijFOzvOUrXXaIke4DpYpdE4/q/qHmSFghrDRSATeDf5mz5rzrejj4EWN2WNlVyTwO/nSWR8Yu+3a3HYBw0tdJ2s1IwLM7ZGynWkBUEBLtMdXj1GvjNPnS8V6W0mi5hQq3B2chibOQah/m5ORy8l3EsvkvooYlf+gtL8OUlQbY8A3oYYw/GnMxLAafgQco/Sre1I=;+z2NhBI/qGMU5PD04NCyQg=="
+secured: "pcBL1TGeppUyVMbKSVoFjgwSYRfNriEdtI9IMvpXBzoVltVY8oIi9F5Oj7Ju6+3OZF5pFNkavApQfrkhBe+ZPPuphZjwmq/bA08UCv7BlmrTDSqoKhIWwtJVqJJmV7aBDvbOT7QNs6cG85bezhD3H8GQ0Gbs9f3OHebEBiCjuH96VrdQT+HyDbks45vyq82K5jTX6eCv4HD/4fZnZ2kwFvyPKiU64IBUoCFfSW02DyK+4903vsyZONH166l4IqCYaVHbxzoOZPVuXiFPEJhINCBHsJF4CUTFJSQdcYfzEe3PaVi2lxdTxMiRLI8yANgW1XjxaWQokvkES9K6GBgsLdX8NDYrUol/MAz6k3Ohi1M=;h24vuw2Gy5aQiMFovUHIDg=="
 ---
 
