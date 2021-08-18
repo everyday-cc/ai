@@ -9,7 +9,7 @@ ampWebUrl: "https://simpleflying.com/newark-airport-facial-recognition/amp/"
 cdnAmpWebUrl: "https://simpleflying-com.cdn.ampproject.org/c/s/simpleflying.com/newark-airport-facial-recognition/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 86
 published: true
 
 provider:

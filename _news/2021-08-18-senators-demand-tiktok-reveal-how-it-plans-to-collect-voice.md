@@ -44,7 +44,7 @@ related:
     provider:
       name: WABE
       domain: wabe.org
-    quality: 23
+    quality: 25
     images:
       - url: "https://www.wabe.org/wp-content/uploads/2021/08/ap21175557373801_custom-555100b4c2587836b7f704b6242f75a8467fcd66.jpg"
         width: 2000

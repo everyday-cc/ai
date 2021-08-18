@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2355656/artificial-intelligence-in-retail
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2355656/artificial-intelligence-in-retail-market-size-share-recent"
 type: article
 quality: 86
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -39,6 +39,17 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 67
+  - title: "Artificial Intelligence(AI) in Retail Market Latest Advancement and Business Outlook 2021 - 2027: IBM, Microsoft, Nvidia, Amazon Web Services"
+    excerpt: "Market Insights Reports released a new study on 2021 2027 Artificial Intelligence AI in Retail Market with 100 data Tables Pie Chat Graphs Figures spread through Pages and easy to understand detailed analysis The Global Artificial Intelligence AI in Retail"
+    publishedDateTime: 2021-08-18T18:39:00Z
+    webUrl: "https://www.openpr.com/news/2359634/artificial-intelligence-ai-in-retail-market-latest"
+    ampWebUrl: "https://www.openpr.com/amp/2359634/artificial-intelligence-ai-in-retail-market-latest"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2359634/artificial-intelligence-ai-in-retail-market-latest"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 51
   - title: "Speech and Voice Recognition Market Analysis and Forecast by 2027|Microsoft Corporation, Alphabet, Cantab Research Limited"
     excerpt: "Los Angeles United States Aug 2021 QY Research has recently published a new report titled Global Speech and Voice Recognition Market Report History and Forecast 2016 2027 Breakdown Data by Companies Key Regions Types and Application The report has been"
     publishedDateTime: 2021-08-16T04:03:00Z

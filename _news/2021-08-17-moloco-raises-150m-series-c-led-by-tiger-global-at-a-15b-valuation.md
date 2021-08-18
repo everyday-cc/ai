@@ -103,19 +103,14 @@ related:
         height: 720
         isCached: true
   - title: "MOLOCO Closes $150 Million Series C Financing Led by Tiger Global to Bring Transparent Machine Learning Algorithms to All"
-    excerpt: "MOLOCO (  com), a leader in machine learning and growth solutions for mobile app marketers and e-commerce companies, announced today it has raised $150 million in Series C funding to bring sophisticated,"
-    publishedDateTime: 2021-08-17T16:13:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-e013360112cbe1ec4a52d02f23833463"
+    excerpt: "MOLOCO (  com ), a leader in machine learning and growth solutions for mobile app marketers and e-commerce companies, announced today it has raised $150 million in Series C funding to bring sophisticated,"
+    publishedDateTime: 2021-08-17T15:11:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/moloco-closes-150-million-series-c-financing-led-by-tiger-global-to-bring-transparent-machine-learning-algorithms-to-all-1030739081"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 14
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 26
   - title: "Fintech platform FUSE Autotech raises $10M in Series A funding led by Target Global"
     excerpt: "FUSE Autotech, a fintech software platform that redefines the car buying process, today announced the completion of its $10 million Series A round of financing, led by Target Global with participation from PICO Venture Partners,"
     publishedDateTime: 2021-08-17T20:29:00Z
@@ -126,6 +121,6 @@ related:
       domain: autonews.com
     quality: 13
 
-secured: "LqaBS6jsXGXqvD+9lf3TsQhOSkkfp0wm2m/nqDZMXT5c5XaL3r+Ug5U11G2tToECXa3sNgIjDRMD9LZYP8bRwKHuo2/W4e9JSSH2Pls3hEan7P9IHWS6Ofn76wp11DdVL3yZFU7RSoxDGJU/lWQQymp9RFjsLFJ6gpGErk8zKIVMvE3p7UwrshWjg08qHynux1Zf3Pjpe7cmkhW6smvzol9mIbOtFnxoQGNG5oe5ivER5eJoL+GQdQ+VJdl2IN4LP9go+N0eHgbbsABfeXnxHt1GgzZROm6V/OH8Ifyt4UrPhUUz35wMs/5hfAnwH3xFwjw5cHkJnSqz9WUr+PcdAUTNJabBDgCDvsKk+NlQrrQ=;A6wundI0SyUCp6X+s/GAtw=="
+secured: "D64sCC85kfE4bWFzxtGsETVJN6hZaKoI2LD6fTtzea3PoTDH+Ht8ClRnMMHYPxoD4rRFD7AL00sVxeFLYz9wtOR0uJUGO26JlQ57dZ0c2huIXg4K88vWmyKoRF5ArHXYlUyJYOdFD3uckCGOT0Ve2fhu2xDr0blntuqeAlUpJjofi3voUGtHqNLG2FvN+9ZHxxX2wUyf+6RUYQcwjEKsb5DA4KRE4GQnD23+QhQMe6WmCLRTphCmTqySQW5fpJvasrmW2SoDuVGMsJJjEUFA7EPaQ4go7Hn35wCnuB+SMa2aUyT1DKnKf3nMdmOBEoy/iKY8S/FUMmAOZLbyq2Hk0DdhnQD6xYZ0B9yRNnuBLhp5sd8lkOiUJrA/yy/jGW79ap95AhfS+m1yRTUznyOeYUPSW+BUL/Gqs+3dphVraEGV3aQpdA+su0hhL4vTVfVwjp5ysA20M9rPcm2ES0Pn51jKNnmLXv+QSwdzGKqtSD+IS73XIsnFtC844hVQIjgZtp4vnJGhcPUjE4JQlhjwyF1ABwQvpFI6vTU4hs7xolU=;QP30BRs/gaTA7uwd9M9MVw=="
 ---
 

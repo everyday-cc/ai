@@ -1,29 +1,31 @@
 ---
 category: news
 title: "Universal Robots Takes Cobot Welding to the Next Level at FABTECH 2021"
-excerpt: "Universal Robots pioneered collaborative arc welding and continues to make cobot-powered fabricating solutions mainstream. FABTECH 2021 is the launchpad for innovative new cobot applications including heavy-duty water-cooled welding,"
-publishedDateTime: 2021-08-18T17:14:00Z
-originalUrl: "https://us.acrofan.com/detail.php?number=518246"
-webUrl: "https://us.acrofan.com/detail.php?number=518246"
+excerpt: "Universal Robots pioneered collaborative arc welding and continues to make cobot-powered fabricating solutions mainstream. FABTECH 2021 is the launchpad"
+publishedDateTime: 2021-08-18T18:28:00Z
+originalUrl: "https://www.01net.it/universal-robots-takes-cobot-welding-to-the-next-level-at-fabtech-2021/"
+webUrl: "https://www.01net.it/universal-robots-takes-cobot-welding-to-the-next-level-at-fabtech-2021/"
+ampWebUrl: "https://www.01net.it/universal-robots-takes-cobot-welding-to-the-next-level-at-fabtech-2021/amp/"
+cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/universal-robots-takes-cobot-welding-to-the-next-level-at-fabtech-2021/amp/"
 type: article
-quality: 39
-heat: 39
+quality: 59
+heat: 59
 published: false
 
 provider:
-  name: 아크로팬
-  domain: acrofan.com
+  name: 01Net
+  domain: 01net.it
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-    width: 580
-    height: 339
+  - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+    width: 735
+    height: 552
     isCached: true
 
-secured: "KnSTqZPnQZiJwoBXLnL8LG90y+LfBmDN6HBb/K16u9OwU5PiKR96/y8EstIY5cvVVBMAp2D6wwv5lfi+fv/+1YX5CJBnoMXeMJvLUMjGaEiU7oO0BXpsJXVA5QMCqzSF3dJRuNmhNUWN1U1I3rmUa8btkVuYwCl+wOPH0IM48NJGivdrjyblpUbdc5yQ04EUCgICpJ47Fr//0q5bTAYr3Yda0k0rrf6sRF6s9KMtsbb1WuquUaw9G/1xbu0fF4rojvA35JbfxB2eM43MZ2vOACMnqHbdbNTETgAGnn1AsuQUSQrXa3bG3mSpYhHNc+QzVmgf+VM1qsoEkL0QKLl78N803/u0K/rR4V9GHjIgnRI=;dhF8alXAEAjA0ymxUWb+Hw=="
+secured: "a/ATLtX6+8VyCiXlc1IMUjk9e+jMln/+4sEi5zrbmG83s8H2fNlwYRUhBMtc+7EZWGpILPNB1PGB3OM67M+QSEj0USaCJfzKxIVGUEvsbKJMLiUj+dOGUU/vIUFBMzavxbsUDtQSCNSy0IcSSLZUgzFDp5uwZZBrAlSvFB6SALEclmMyc6XWUoTCqy43Aj2CXl9IhsOvKxjL3w44uk8DAPmNrtF2ZB0FsRNtJaKKKfEIhfwajSEAt69LtHuxfEOSPQewOS0gfdcpGVv7Lc1LpFHhxkmOhX/ueIx+jIZPDA0GcaKc9xD94NBFj1dVGI2AvfcrkkxNYprE9JbDM39awbHQBHvP8pVz+ylNEidE+8o=;baWOr9Qx8Ja1LL46BwR8hw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.techinasia.com/company-pushing-boundaries-healthcare-a
 webUrl: "https://www.techinasia.com/company-pushing-boundaries-healthcare-ai?ref=recommender-701323"
 type: article
 quality: 66
-heat: 96
+heat: 97
 published: true
 
 provider:

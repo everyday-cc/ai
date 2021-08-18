@@ -25,17 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Medius squashes invoice lead times with efficient AI tech"
-    excerpt: "Medius, a leading provider of spend management solutions, is transforming its customer's electronic invoice management"
-    publishedDateTime: 2021-08-17T07:25:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/08/n22528768/medius-squashes-invoice-lead-times-with-efficient-ai-tech"
-    ampWebUrl: "https://www.benzinga.com/amp/content/22528768"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22528768"
+  - title: "RETRANSMISSION: LG Uplus Kiosks Go Touchless with Kardome's Voice Technology"
+    excerpt: "secure voice recognition interaction in kiosks and digital signageTel Aviv, Israel--(Newsfile Corp. - August 10, 2021) - Kardome today announced it has contracted with LG Uplus to install its ..."
+    publishedDateTime: 2021-08-17T09:56:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/retransmission--lg-uplus-kiosks-go-touchless-with-kardomes-voice-technology-10430968"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 31
 
 secured: "5cE22Uo/f/AtXE96QAv50YzxTcWacKYJJQTWNGm1HwnKJGa0o3nf8pAIF1oyO9Cx0CdRcHbpsyXp+J+7COfmUnpxGx+FY+9IOHfxhTmpNK0NkCMXTMWxgngVQubeT5tSKADLX7OK4biOAvfelQZ/MoKFm1wjj/wsbhwL659RjE4lU1ou3jgkbqDWcpjup04cLLMzuZAIpaKM/VgDwvDb77YLp+OVdqHnggp+MuOUSfAXcjnu3c/OGwtCbVxFhkF+ClsWO1GXbpLubQZEC1uUEhwDwXEfW5J22z+w6kBr3KrYEyKJ0BbciPmYkUKnY6GXxNluXiGOXseMmGTPCTw/RH5h0+Ew7WyHFpD+ZR5w2rE=;gRlngGQk1h+pAjp+1UgIkw=="
 ---

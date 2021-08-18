@@ -38,6 +38,17 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 43
+  - title: "AI Recruitment Market is Booming Worldwide with Google, IBM, Oracle"
+    excerpt: "Advance Market Analytics published a new research publication on AI Recruitment Market Insights to 2026 with 232 pages and enriched with self explained Tables and charts in presentable format In the Study you will find new evolving Trends Drivers Restraints"
+    publishedDateTime: 2021-08-18T19:43:00Z
+    webUrl: "https://www.openpr.com/news/2359662/ai-recruitment-market-is-booming-worldwide-with-google-ibm"
+    ampWebUrl: "https://www.openpr.com/amp/2359662/ai-recruitment-market-is-booming-worldwide-with-google-ibm"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2359662/ai-recruitment-market-is-booming-worldwide-with-google-ibm"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 37
 
 secured: "mYr1l3+UCEYOY0GZKZoBv/TiDp+sShRRrjE8W6Glq1ua3mTpG78bQkrlGoycAmnS0RLMxLzEr+WvT8TDpaNOIG4ooIPS0UqhCIPLKkq8WbF4n3k11o+iZs2pf6awrQ47D05lcnomYj5Fsv+viAxdsVIQ8pjzvnW/fMNPlz3ef4sLwBLMLhrfstsRjE4hjUd+TiwHOQtY6R6EUClBkzaQtyHpgeiHQC/qxtevVu7b3MeGGFc5LnDdyIUUIPnrhN4Hxe7e9ww+CRrA62+xoT49HzmTJQ7TarH3cPWhh3NwASIq3YOlRdczaqEwd9+7fZ1X7e5A0pFoOqQbvbqmDon72pqu7PBU2/bBd44N6L69FNYkGXqc579sg8gNUzmdwt5BTxgiCF5fGe7+5ItZP8G4mbuAwdiS8G4NJVbyuA+O22CNKTVHb012n+Vw/youqR68rLDycv9CUl4p5ImCZrDCZvCkudutBTDkdf0m8uJmC5v994XqLNTcKA2slxiDuh3dW89SI8HO910vOz7Hc54m5w==;UEQ+czQ2Xn0bypV+HHzryg=="
 ---

@@ -38,6 +38,22 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Elon Musk’s Plan To Tout Tesla AI Comes As Tougher Scrutiny Of The Company Looms"
+    excerpt: "The company's AI Day takes place as NHTSA probes its Autopilot feature and as two Senators call for a Federal Trade Commission investigation of how Tesla promotes Autopilot and Full Self Driving."
+    publishedDateTime: 2021-08-18T18:53:00Z
+    webUrl: "https://www.forbes.com/sites/alanohnsman/2021/08/18/elon-musks-plan-to-tout-tesla-ai-comes-as-tougher-scrutiny-of-the-company-looms/"
+    ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2021/08/18/elon-musks-plan-to-tout-tesla-ai-comes-as-tougher-scrutiny-of-the-company-looms/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2021/08/18/elon-musks-plan-to-tout-tesla-ai-comes-as-tougher-scrutiny-of-the-company-looms/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 99
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611d5044bebdc296608d0853%2F0x0.jpg"
+        width: 1200
+        height: 849
+        isCached: true
   - title: "What to expect from OpenAI’s Codex API"
     excerpt: "The Codex demo puts the advantages of large language models on display, showing an impressive capacity to resolve references and write code."
     publishedDateTime: 2021-08-16T21:20:00Z

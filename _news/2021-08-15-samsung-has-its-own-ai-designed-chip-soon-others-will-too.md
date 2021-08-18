@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/gadgets/2021/08/samsung-has-its-own-ai-des
 webUrl: "https://arstechnica.com/gadgets/2021/08/samsung-has-its-own-ai-designed-chip-soon-others-will-too/"
 type: article
 quality: 84
-heat: 155
+heat: 154
 published: true
 
 provider:

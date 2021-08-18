@@ -55,6 +55,17 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 67
+  - title: "Artificial Intelligence(AI) in Retail Market Latest Advancement and Business Outlook 2021 - 2027: IBM, Microsoft, Nvidia, Amazon Web Services"
+    excerpt: "Market Insights Reports released a new study on 2021 2027 Artificial Intelligence AI in Retail Market with 100 data Tables Pie Chat Graphs Figures spread through Pages and easy to understand detailed analysis The Global Artificial Intelligence AI in Retail"
+    publishedDateTime: 2021-08-18T18:39:00Z
+    webUrl: "https://www.openpr.com/news/2359634/artificial-intelligence-ai-in-retail-market-latest"
+    ampWebUrl: "https://www.openpr.com/amp/2359634/artificial-intelligence-ai-in-retail-market-latest"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2359634/artificial-intelligence-ai-in-retail-market-latest"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 51
   - title: "Artificial Intelligence In Healthcare Service Market: Future Trend and Analysis of Key Segments and Forecast 2021 to 2026-IBM, Microsoft, Enlitic"
     excerpt: "The Artificial Intelligence In Healthcare Service Market Research study published by MarketInsightsReports, entitled Global Artificial Intelligence In Healthcare Service Market Growth 2021-2026 consists of the market share,"
     publishedDateTime: 2021-08-14T08:53:00Z

@@ -6,8 +6,8 @@ publishedDateTime: 2021-08-18T16:01:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/baidu-world-2021-baidu-showcases-how-latest-ai-innovations-transform-transportation-industry-and-daily-life-1030742878"
 webUrl: "https://markets.businessinsider.com/news/stocks/baidu-world-2021-baidu-showcases-how-latest-ai-innovations-transform-transportation-industry-and-daily-life-1030742878"
 type: article
-quality: 50
-heat: 60
+quality: 52
+heat: 62
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI Hardware
 
 images:
   - url: "https://mma.prnewswire.com/media/1597362/Image1.jpg"
@@ -44,6 +45,6 @@ related:
         height: 266
         isCached: true
 
-secured: "KsXQx842c3EE3fBtOGoMwTROI88W1mJBHqL0JzAntyr+uDOZVcV3waqthrXF62b+oNICfAaw8uT/pr4k0p0DzwHl3yBoikkZJTMSYiG2e8Y2fYTo3jOxUMZfJFFdIsRbDt+5p6Ex0b32E3LteyZzXv0Iq00pQC4Fb3NqS2eR/v0E3qtq3QQqREo1ZGCSNuuO+4mEM8BEnB55ZlIh38cYaatN3JFT+h73T3a+f8/aHccei9l55bAM6cQgw2TDKwc+y/m2UhAl7TEHsOGTnjL13TFXPhk3r5zTpksSyUgXQxqiBZAzqx4IWhTdwGCn20mEEuwYHuyGvHZl7+ez25wMn1w+O9GJ7S1m0QxuhtblrVE=;tB2ChVODIahxM0/EljSUzw=="
+secured: "JXQcvujEOv+xBbA0V8FhJLWEmdVIoXTW8ByCsG/6W0Y9vGIhI1b6KdxRKNNEtPoyIZoDKqL0o/rAbJnisGxszIek2pTx5S/oKxC/mp1Jpc0nJ0bV2TgXxAwXp7Xg29efOU2Clz40JauFx1JoPS1+Evp4jyn/dBNHserZXL1vtOLfNHEWc3Bnvi5mJ1CaJcAdhlPepUpdO/VF4yAVPUwwATjFv3vM+DW9u+OvFEnmou+2zMKOW30Zx9+5CQZi7NTs6/iWCxdEz+m/+sXTqcCe2B3MtnlLJPprUyVdj0WWWgDIzETBzvFxHyBmfrY5QTpbDAZeG7L5D+/X3HrO2cEkplclilLdK6YRKrpcJ0PxD8xb7CZHgVUe9pJLLbeP7hpdJmGW/fv+WvIjCQ7k7+DivhbcyX4as6875Zd3elYtxG7snxK8RamZPx6n8VKhQxKVtCnltVSgH/CBN6ehO5uakbcKLc6LbJR+9PitUhn4zUqVtIXVknistKPK/oeEkx2ggtOlFirwpXRCSCY1MRARyQ==;k5IzLvYpb4MZSEWQvYTTjg=="
 ---
 

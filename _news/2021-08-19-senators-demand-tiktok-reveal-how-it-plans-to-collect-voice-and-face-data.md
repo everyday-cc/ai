@@ -6,7 +6,7 @@ publishedDateTime: 2021-08-18T17:45:00Z
 originalUrl: "https://www.wabe.org/senators-demand-tiktok-reveal-how-it-plans-to-collect-voice-and-face-data/"
 webUrl: "https://www.wabe.org/senators-demand-tiktok-reveal-how-it-plans-to-collect-voice-and-face-data/"
 type: article
-quality: 23
+quality: 25
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.wabe.org/wp-content/uploads/2021/08/ap21175557373801_custom-555100b4c2587836b7f704b6242f75a8467fcd66.jpg"
@@ -51,6 +52,6 @@ related:
         height: 240
         isCached: true
 
-secured: "Ub2ojmdynWDwEiVxV3H4B7HF8rf7HmG4Q87wAqiNG5M2UaytLMcBdMS9rNy9j95XqGUZNzlcLkloU0Ylvt0J/do28wavCtUsXF9MIZzz+qqN0r8XFgsDdlIM559eE0J6oZly2O6UNXo2Y7RHEVeyxN4FoUbibZQkjyVtDNtv7Kl/8bhGnM8wkq6OTGjbWvANHfKjUR59ngnV/47QNQRlAdnyiiYpbrhRStu86gMmjoNv4HNuEFHWBQkHQpfZVXyOmriK24GRw1J0x5LvXbKIC/5DzuEM7iM+/un+Fq7vqZUiI06HXt04swq1Mjje4dhuVj/VTZIzYYLskHWqJpsNKBym95vZDHjUltEpDHC9nH0=;gUODxKxMHdIneyf57XZuGQ=="
+secured: "b2I/YW2kY79M2eqoTcem2rGrLFthENeNGOB05E4K1fN1r5UPdOc/mVzBVUgkqHR98bBk921VkpsU3xvjAcgUbu0bLq0iZ8vVZalh6LzCho+gH0mdGwqqQC1W2G+21/0ta4f90T+lJ6DcYRLS4nqJrn0StzR3pdz9CIKS4kf/jUUv7y4AKEeqEBAYTwhXOf/GqsplqwwW0EbH0gbKcodtdVDgh7klIRXYJV5ChXVFAovq+MfwC05PRaa/mw/5SfoIu6t1u0tRDGlULzcxLv+K9rrgI8v4L3OEauh0Lc7b98yLtQ5nFn1AHXUkxzM19nv3BZkLRPO9IuGEqM1bp5raNJeqNrOOBWMzs/0BEdjur0A/Q8TE3Vbd64JpOuE0upWbdF0oupICWfSMDmZyqz2ShYT9/D7p3N2+o3HZXJ3NBfFcRkTA9aFWqzqfkPP87YKtbezIf/CvO1YFFPwo5W7vMDE6bpNgcHsHvHyoe7AyUfF4IGa8xlsra81g7It4gv4TSJmhuquqMIaVi5RO8Bpj7w==;gPecOR/Xe4l8xGZ4kR3axQ=="
 ---
 

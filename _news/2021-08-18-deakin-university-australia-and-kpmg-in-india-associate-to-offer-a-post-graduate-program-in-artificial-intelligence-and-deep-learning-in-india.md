@@ -52,6 +52,15 @@ related:
       name: Precision Computer Methods Corporate Website
       domain: pcmethods.com
     quality: 39
+  - title: "Deakin University, Australia, and KPMG in India associate to offer a Post Graduate Program in Artificial Intelligence and Deep Learning in India"
+    excerpt: "KPMG in India, one of the market leaders in data science advisory services, has entered a Memorandum of Understanding with Deakin University, Australia, to offer a Post Graduate Industry Practitioner Programme in Artificial Intelligence and Deep Learning to Indian students."
+    publishedDateTime: 2021-08-18T18:45:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20210818/3804913.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
 
 secured: "+yKDEHaxJBzDpq+fmVNrWNX+0/vkrGjKLRhTfhbvgrR2+kvPhX6QuYjW82oaxtLv15LjBGFHVeGhHDnwtilTPiPLhIWA69mK545kLglIBsvFP0dd0iIgIJ2GaV8rGF5Pkq68G4IBkJWk2mkZ6nc0mw5hOOKx5DlVjQe2AdRapnWzmZSv3RZItuuktSGNtwzx/MfrpBNHDmsBdqSwsySsE+aYctsrKxfRpklqBaGOY2FVHjpiJTBHiZeAOZBrYQHSd7rP4JCM49v0MK6mPqNN7rK4yii1um0a+3JKGX7/FGB3fLEFOJiVA+1M9Yf8V/HM1HX5V/qs3ZmMFgAJkIqtOY6Cank0fbCebDvGudr5fkLrWyi6ICEauQIISovbeHs6yS8yBCs7EtPlCSAOhpU3wz5GTpnwJY7P4hcKlBxL/Hu0avRmsbECZqqaf8RML7p/UHkK923oaVFFPtk9mtrM1isKdCsn6mBrDjsOLU2F7ugjyMPiNC6jd/lRHVGpHGrvNsv/H14FInHW8z1lPt+DdQ==;0i/ji48pJEzmyHvxObS+yg=="
 ---

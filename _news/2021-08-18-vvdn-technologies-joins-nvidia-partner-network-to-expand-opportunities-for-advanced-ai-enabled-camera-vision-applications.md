@@ -40,6 +40,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "VVDN Technologies Joins NVIDIA Partner Network to Expand Opportunities for Advanced AI-Enabled Camera & Vision Applications"
+    excerpt: "VVDN Technologies, a premier electronic product engineering and manufacturing company, announced that it has joined the NVIDIA Partner"
+    publishedDateTime: 2021-08-18T18:30:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/vvdn-technologies-joins-nvidia-partner-network-to-expand-opportunities-for-advanced-ai-enabled-camera-amp-vision-applications-851556490.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 13
+    images:
+      - url: "https://mma.prnewswire.com/media/1531036/VVDN_Technologies_Logo.jpg?p=facebook"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "P6utPlIK13/RdsFJyUkMKEL2UD9xDn9v60TpRyX8udt6YPBLi9S1909Q+LvREofn1RHWWbZkPDgSBgONRPQcE7M6+WQaMnJp4EuxoyYg66zaMOlXbNwseSGc4HAxPCGdKgVNE1P2ulq5uONP5n8qfW6iJdlDL4mFr23x/HV4zYs1lXRzaJwrEQ7fiNXjTFjz6KAe8ZJlha2KpzpbJsGjiJX60wu2og6DDlLMh/UlL52Ku1LQcTXvUTcDnm3eX1R5cv2eWhjMLVit+rbRbDU5Q14W6Q2rjMIg1ziwBYeOeKCvujvBXOD/Vs0EporbWpwy9Jxemn23xvFO1u1YUt762GX7OTd8AnMrsCim7790jgWDFiM6IgBA3YJeVgadpbYAMUwAmUnjkrtheXNqeLc+iZkN57y50HcIWZ9H/q7RTuQ+V3ya8tmm4VOH7O5t4UuiVojOHNeBfQVweWHMkOGbFXYFOcXSIjq2gwh8uFp8SO6C6Hv/uXhVEgKFfcvAtWPyDtINO3rWUaJ8XxgP306/+w==;VEsNGoRpqgThoIvVv/w8Qg=="
 ---

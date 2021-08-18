@@ -108,19 +108,14 @@ related:
         height: 720
         isCached: true
   - title: "MOLOCO Closes $150 Million Series C Financing Led by Tiger Global to Bring Transparent Machine Learning Algorithms to All"
-    excerpt: "MOLOCO (  com), a leader in machine learning and growth solutions for mobile app marketers and e-commerce companies, announced today it has raised $150 million in Series C funding to bring sophisticated,"
-    publishedDateTime: 2021-08-17T16:13:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-e013360112cbe1ec4a52d02f23833463"
+    excerpt: "MOLOCO (  com ), a leader in machine learning and growth solutions for mobile app marketers and e-commerce companies, announced today it has raised $150 million in Series C funding to bring sophisticated,"
+    publishedDateTime: 2021-08-17T15:11:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/moloco-closes-150-million-series-c-financing-led-by-tiger-global-to-bring-transparent-machine-learning-algorithms-to-all-1030739081"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 14
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 26
 
 secured: "QOXM+19bQAalDmAjGyHRaZGdW0/Fk8noCqcAwVESdqJAvgQk5jPlGqdyO0cJ3IHeF6t6yAEXI4Z/B7VPNytT8j5JFgeHf2AOZxSWb4FXtHOKmKqoLNWllM75Q6c9PTtri/j5lQ/IyvpTJIA7Geb8INKIdViaQ9PgDG+r/LahD2GqFdSuq3StqtDrBZXIsFlrMDn0GDEm3JdNUdEEWzXTD/QVKWDpF4HgeuVAJy6Kkf2v2Mk6u8ktZqGnC/Xtp3xWevwNXmP3NPOBzEz1PnCGlPup8WEhMKvjlbdSnfcLCU4kmili2Vy6+9+ywqqvqQuzRLo4wGdSApm01yMJSxLAWKoOgxZP7scNdT7pj6wctFg=;6v98hwDSfJx1yp1czS9yOg=="
 ---
