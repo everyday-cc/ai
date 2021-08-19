@@ -116,7 +116,7 @@
       "originalUrl": "https://www.cnbc.com/2021/08/18/democrats-ask-ftc-to-investigate-teslas-self-driving-claims.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 504,
+      "heat": 514,
       "tags": null,
       "images": [
         {
@@ -325,7 +325,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/15/using-ai-self-driving-cars-to-detect-and-help-curtail-eyesore-graffiti-around-us/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -653,49 +653,6 @@
         "Computer Vision",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-5-best-artificial-intelligence-stocks-to-invest-in-right-now.md",
-      "title": "5 Best Artificial Intelligence Stocks To Invest In Right Now",
-      "excerpt": "Xnora.ai specializes in putting artificial intelligence on devices ... conviction in Alphabet‘s ‘moonshot’ bets (such as Waymo), substantial success in which would likely be required ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/?singlepage=1",
-      "originalUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/?singlepage=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/06120633/Artificial-Intelligence-piqsels.com-id-jcurz.jpg",
-          "width": 1920,
-          "height": 1044,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-10T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     },
     {
@@ -1426,6 +1383,49 @@
         "AI in Autos",
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-what-beijings-tech-crackdown-is-really-about.md",
+      "title": "What Beijing’s tech crackdown is really about",
+      "excerpt": "A few doors down are the internet companies Baidu and Meituan; Alibaba Group is registered at a PO box up the street, right across from Singh’s Roti Shop & Bar. The Caribbean footholds ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.afr.com/technology/what-beijing-s-tech-crackdown-is-really-about-20210803-p58fdy",
+      "originalUrl": "https://www.afr.com/technology/what-beijing-s-tech-crackdown-is-really-about-20210803-p58fdy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.ffx.io/images/$zoom_0.6307%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_241%2C$y_4/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/f2461a1ab5ede5834d22573e5d0b7ed108ff231a",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-03T15:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Australian Financial Review",
+        "domain": "afr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

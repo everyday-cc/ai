@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telegraph.co.uk/beauty/news/artificial-intelligence-chan
 cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/beauty/news/artificial-intelligence-changing-face-beauty/amp/"
 type: article
 quality: 57
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2021/05/Comp1-scaled.jpg"
         width: 2560
         height: 1707
+        isCached: true
+  - title: "The hidden helping hand: expert from Croesus reveals how AI tech is already changing the industry"
+    excerpt: "There’s an obvious reason for this – most physical locations were closed, so organizations had to fall back on online support – but it becomes especially interesting to note this is just a taster of an AI-centric revolution currently changing the world of finance."
+    publishedDateTime: 2021-08-19T15:31:00Z
+    webUrl: "https://www.wealthprofessional.ca/investments/wealth-technology/the-hidden-helping-hand-expert-from-croesus-reveals-how-ai-tech-is-already-changing-the-industry/359051"
+    type: article
+    provider:
+      name: wealthprofessional.ca
+      domain: wealthprofessional.ca
+    quality: 26
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/ca/155/0382_637649839418762625.png"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "oMtBKbiTeVitc7SfFFsMJ1teezjCGLO3ScKHYSyS//gBmCwqY8N8MtN0f1C+rXEpJ14ZS1V7HsO0Pxn03+O0W4bKd6OmQ5RP0PAtdX949BAVUUg5p+bvVEnKkTd+FFZ/Pt9/gXRJy1Pz3jHuSf4wMcLoCqDDduJ/l3nbZQki7F4EWFAtls8BD/owYANScJP7xyDF5D/6YUBCNKleEEEiPJpwowb+PoDnnsNs/AudbiPMMat6TMRqNSu2bT684JT8cu3rN1r1b+x+T/Tezb3n3eaQlN8Fd0T2t1bx711yoWB7UqAPizHWmZXje2KGFbo5jASZ/+YiNVxwAgfZCV/6OvxzCMQ/z875ukn03FwWg1kSIfbk3QJinsbH/0pbt/mpwro1IKq6RjC27M726X6/2+yZ89RuSqrQOoNE3bKjuz8L/MNe9LAXD6moEYB0AssHcOmJAAjC6fmiIBoUvV9AuEg0a18JDeaM48KQoZnaotyq64tzls3GSi57+z36gA2R8GZjM2OP9tNt2RLMlxWxRg==;OL8iKGpzDrfuETaWt3z/8w=="

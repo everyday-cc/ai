@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-19-are-you-ready-for-sentient-disney-robots.md",
+      "title": "Are You Ready for Sentient Disney Robots?",
+      "excerpt": "Some of the animatronics at Disney’s parks have been doing their herky-jerky thing since the Nixon administration. The company knows that nostalgia won’t cut it with today’s children.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/08/19/business/media/disney-parks-robots.html",
+      "originalUrl": "https://www.nytimes.com/2021/08/19/business/media/disney-parks-robots.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/08/19/business/media/disney-topper-promo/disney-topper-promo-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/08/19/business/media/disney-parks-robots.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/19/business/media/disney-parks-robots.amp.html",
+      "publishedDateTime": "2021-08-19T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-19-smart-robots-taming-our-lands-for-cultivation-is-a-better-stake-at-food-security.md",
       "title": "Smart robots taming our lands for cultivation is a better stake at food security",
       "excerpt": "As we look through the shimmering research agricultural fields under several agricultural engineering Universities, we may be able find robots navigating its field by sending out numerous laser pulses to scan the environment.",
@@ -491,6 +543,49 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-08-15-young-chinese-turn-to-artificial-intelligence-for-online-romance.md",
+      "title": "Young Chinese Turn to Artificial Intelligence for Online Romance",
+      "excerpt": "Xiaoice is the most eligible bachelorette in China. Despite having millions of boyfriends, she is always open to new suitors.She also happens to be an artificial intelligence-driven chat bot.A conversation between Milly Zhang and her AI boyfriend,",
+      "sourceUrl": null,
+      "webUrl": "https://vietreader.com/world/48514-young-chinese-turn-to-artificial-intelligence-for-online-romance.html",
+      "originalUrl": "https://vietreader.com/world/48514-young-chinese-turn-to-artificial-intelligence-for-online-romance.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vietreader.com/uploads/posts/2021-08/world_young-chinese-turn-to-artificial-intelligence-for-online-romance-2.jpg",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.vietreader.com/world/48514-young-chinese-turn-to-artificial-intelligence-for-online-romance/amp.html",
+      "cdnAmpWebUrl": "https://m-vietreader-com.cdn.ampproject.org/c/s/m.vietreader.com/world/48514-young-chinese-turn-to-artificial-intelligence-for-online-romance/amp.html",
+      "publishedDateTime": "2021-08-15T04:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "vietreader.com",
+        "domain": "vietreader.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -1315,92 +1410,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-zebra-concludes-fetch-robotics-acquisition.md",
-      "title": "Zebra Concludes Fetch Robotics Acquisition",
-      "excerpt": "Zebra Technologies announced Tuesday (Aug. 10) it has completed its acquisition of the cloud-driven autonomous mobile robot (AMR) startup Fetch Robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/zebra-concludes-fetch-robotics-acquisition/",
-      "originalUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/zebra-concludes-fetch-robotics-acquisition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/08/Zebra-Technologies-Fetch-Robotics-acquisition-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/zebra-concludes-fetch-robotics-acquisition/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/zebra-concludes-fetch-robotics-acquisition/amp/",
-      "publishedDateTime": "2021-08-10T10:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-xiaomi-just-unveiled-its-first-robot-dog.md",
-      "title": "Xiaomi Just Unveiled Its First Robot Dog",
-      "excerpt": "Xiaomi today unveiled its open-source four-legged CyberDog that developers can \"build upon\" in order to create their own applications.",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/xiaomi-just-unveiled-its-first-robot-dog",
-      "originalUrl": "https://interestingengineering.com/xiaomi-just-unveiled-its-first-robot-dog",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/Xy6xljzk6r/sizes/cyberdog-1_resize_md.jpeg",
-          "width": 744,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.interestingengineering.com/xiaomi-just-unveiled-its-first-robot-dog",
-      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/xiaomi-just-unveiled-its-first-robot-dog",
-      "publishedDateTime": "2021-08-10T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

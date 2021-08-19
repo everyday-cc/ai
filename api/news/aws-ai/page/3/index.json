@@ -2,6 +2,283 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-22-tc-energy-builds-an-intelligent-document-processing-workflow-to-process-over-20-million-images-with-amazon-ai.md",
+      "title": "TC Energy builds an intelligent document processing workflow to process over 20 million images with Amazon AI",
+      "excerpt": "This is a guest post authored by Paul Ngo, US Gas Technical and Operational Services Data Team Lead at TC Energy. TC Energy operates a network of pipelines, including 57,900 miles of natural gas and 3,000 miles of oil and liquid pipelines, throughout North America. TC Energy enables a stable network",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/tc-energy-builds-an-intelligent-document-processing-workflow-to-process-over-20-million-images-with-amazon-ai/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/tc-energy-builds-an-intelligent-document-processing-workflow-to-process-over-20-million-images-with-amazon-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/21/TC-Energy.jpg",
+          "width": 800,
+          "height": 623,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-22T08:06:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-22-move-to-data-now-thats-the-next-big-paradigm-mai-lan-bukovec-aws.md",
+      "title": "Move to Data – Now. That’s the next big paradigm: Mai-Lan Bukovec, AWS",
+      "excerpt": "How about having a storage area that is less of a dank-creepy basement and more of a colorful modular wardrobe? Here is all you need to know.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/move-data-now-thats-next-big-paradigm/",
+      "originalUrl": "https://www.dqindia.com/move-data-now-thats-next-big-paradigm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2021/07/Mai-Lan-Bukovec1.jpg",
+          "width": 800,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/move-data-now-thats-next-big-paradigm/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/move-data-now-thats-next-big-paradigm/amp/",
+      "publishedDateTime": "2021-07-21T22:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-21-microsoft-azure-joins-aws-google-cloud-as-cloud-platforms-supporting-nih-biomedical-research.md",
+      "title": "Microsoft Azure joins AWS, Google Cloud as cloud platforms supporting NIH biomedical research",
+      "excerpt": "Though tech giants Microsoft, Amazon and Google typically vie against one another to be chosen as a collaborator’s sole cloud provider, they’ll be working in harmony for once to support the National Institutes of Health’s biomedical research work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fiercebiotech.com/medtech/microsoft-azure-joins-aws-google-cloud-as-cloud-platforms-supporting-nih-biomedical",
+      "originalUrl": "https://www.fiercebiotech.com/medtech/microsoft-azure-joins-aws-google-cloud-as-cloud-platforms-supporting-nih-biomedical",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://qtxasset.com/fiercebiotech/1626810252/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png?3BYwK50kU2Wfn3vdn6f2lV_WiZXgn7hW",
+          "width": 884,
+          "height": 543,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-21T05:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FierceBiotech",
+        "domain": "fiercebiotech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-21-aws-announces-the-general-availability-of-amazon-healthlake.md",
+      "title": "AWS Announces the General Availability of Amazon HealthLake",
+      "excerpt": "AWS announced the general availability of Amazon HealthLake, a fully-managed, HIPAA-eligible service. With the service, healthcare providers, health insurance-, and pharmaceutical companies can securely store,",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2021/07/aws-amazon-healthlake-ga/",
+      "originalUrl": "https://www.infoq.com/news/2021/07/aws-amazon-healthlake-ga/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2021/07/aws-amazon-healthlake-ga/en/headerimage/header+%286%29-1626678272811.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-21T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-20-use-amazon-sagemaker-feature-store-in-a-java-environment.md",
+      "title": "Use Amazon SageMaker Feature Store in a Java environment",
+      "excerpt": "Feature engineering is a process of applying transformations on raw data that a machine learning (ML) model can use. As an organization scales, this process is typically repeated by multiple teams that use the same features for different ML solutions. Because of this, organizations are forced to develop",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-feature-store-in-a-java-environment/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-feature-store-in-a-java-environment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-20T15:23:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-21-bot-services-market-may-set-epic-growth-story-artificial-solutions-ibm-next-it-corp-nuance-communications-aws.md",
+      "title": "Bot Services Market May Set Epic Growth Story : Artificial Solutions, IBM, Next IT Corp, Nuance Communications, AWS",
+      "excerpt": "This press release was orginally distributed by SBWire Edison, NJ — (SBWIRE) — 07/20/2021 — The Latest Released Bot Services market study has evaluated the future growth potential of Global Bot Services market and provides information and useful stats on market structure and size.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/bot-services-market-may-set-epic-growth-story-artificial-solutions-ibm-next-it-corp-nuance-communications-aws",
+      "originalUrl": "https://www.digitaljournal.com/pr/bot-services-market-may-set-epic-growth-story-artificial-solutions-ibm-next-it-corp-nuance-communications-aws",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/07/Bezos-leaves-enduringlegacy-AFP-1K-01-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-20T14:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-20-prepare-and-clean-your-data-for-amazon-forecast.md",
       "title": "Prepare and clean your data for Amazon Forecast",
       "excerpt": "You might use traditional methods to forecast future business outcomes, but these traditional methods are often not flexible enough to account for varying factors, such as weather or promotions, outside of the traditional time series data considered. With the advancement of machine learning (ML) and",
@@ -1103,279 +1380,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-artificial-intelligence-ai-chipsets-market-industry-analysis-size-share-trends-demand-growth-opportunities-and-forecast-2027.md",
-      "title": "Artificial Intelligence (AI) Chipsets Market Industry Analysis, Size, Share, Trends, Demand, Growth, Opportunities and Forecast 2027",
-      "excerpt": "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-industry-analysis-size-share-trends-demand-growth-opportunities-and-forecast-2027-2021-07-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-industry-analysis-size-share-trends-demand-growth-opportunities-and-forecast-2027-2021-07-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-14T20:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare",
-        "AWS AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-deploy-variational-autoencoders-for-anomaly-detection-with-tensorflow-serving-on-amazon-sagemaker.md",
-      "title": "Deploy variational autoencoders for anomaly detection with TensorFlow Serving on Amazon SageMaker",
-      "excerpt": "Anomaly detection is the process of identifying items, events, or occurrences that have different characteristics from the majority of the data. It has many applications in various fields, like fraud detection for credit cards, insurance, or healthcare; network intrusion detection for cybersecurity;",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/deploying-variational-autoencoders-for-anomaly-detection-with-tensorflow-serving-on-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/deploying-variational-autoencoders-for-anomaly-detection-with-tensorflow-serving-on-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/01/ML1533-image003.jpg",
-          "width": 1588,
-          "height": 934,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-14T10:28:56-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-artificial-intelligence-ai-chipsets-market-to-upheave-market-growth-during-the-forecast-period-2020-2026.md",
-      "title": "Artificial Intelligence (AI) Chipsets Market to Upheave Market Growth During The Forecast Period 2020-2026",
-      "excerpt": "Chipsets Market to Upheave Market Growth During The Forecast Period 2020-2026” by Zion Market Research facilitates a closer outlook on opportunities, revenue growth, and current market trends. The report is focused to offer qualitative and quantitative analysis of dynamics and market opportunities prevailing during the forecast period.",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/artificial-intelligence-ai-chipsets-market-to-upheave-market-growth-during-the-forecast-period-2020-2026/",
-      "originalUrl": "https://manometcurrent.com/artificial-intelligence-ai-chipsets-market-to-upheave-market-growth-during-the-forecast-period-2020-2026/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-14T04:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-sk-ecoplant-develops-eco-friendly-ai-powered-incinerator-solution-using-aws.md",
-      "title": "SK ecoplant Develops Eco-friendly AI-powered Incinerator Solution Using AWS",
-      "excerpt": "SK ecoplant, the plant engineering and construction arm of SK Group, announced that it will build an artificial intelligence (AI) incinerator solution, using Am",
-      "sourceUrl": null,
-      "webUrl": "https://technuter.com/channel-news/sk-ecoplant-develops-eco-friendly-ai-powered-incinerator-solution-using-aws.html",
-      "originalUrl": "https://technuter.com/channel-news/sk-ecoplant-develops-eco-friendly-ai-powered-incinerator-solution-using-aws.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://technuter.com/wp-content/uploads/2019/03/aws-logo.jpg",
-          "width": 277,
-          "height": 239,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://technuter.com/channel-news/sk-ecoplant-develops-eco-friendly-ai-powered-incinerator-solution-using-aws.html/amp",
-      "cdnAmpWebUrl": "https://technuter-com.cdn.ampproject.org/c/s/technuter.com/channel-news/sk-ecoplant-develops-eco-friendly-ai-powered-incinerator-solution-using-aws.html/amp",
-      "publishedDateTime": "2021-07-12T23:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technuter.com",
-        "domain": "technuter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-artificial-intelligence-stocks-the-10-best-ai-companies.md",
-      "title": "Artificial Intelligence Stocks: The 10 Best AI Companies",
-      "excerpt": "AI could be the 21st century's biggest new industry. Long a focal point of science fiction, AI is no longer a curious theme to ponder for the distant future — it's here.",
-      "sourceUrl": null,
-      "webUrl": "https://wtop.com/news/2021/07/artificial-intelligence-stocks-the-10-best-ai-companies-3/",
-      "originalUrl": "https://wtop.com/news/2021/07/artificial-intelligence-stocks-the-10-best-ai-companies-3/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wtop.com/news/2021/07/artificial-intelligence-stocks-the-10-best-ai-companies-3/amp/",
-      "cdnAmpWebUrl": "https://wtop-com.cdn.ampproject.org/c/s/wtop.com/news/2021/07/artificial-intelligence-stocks-the-10-best-ai-companies-3/amp/",
-      "publishedDateTime": "2021-07-12T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTOP News",
-        "domain": "wtop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare",
-        "AI Hardware",
-        "Natural Language Processing",
-        "IBM AI",
-        "Facebook AI",
-        "Microsoft AI",
-        "AI in Robotics",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-10-amazon-to-extend-ban-on-police-use-of-face-recognition-tech.md",
-      "title": "Amazon to Extend Ban on Police Use of Face Recognition Tech",
-      "excerpt": "Activists have targeted Amazon Web Services cloud computing unit's \"Rekognition\" facial recognition technology and Ring surveillance cameras used for home security. It was not clear the degree to which police have used the systems. Amazon last year called ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.courthousenews.com/amazon-to-extend-ban-on-police-use-of-face-recognition-tech/",
-      "originalUrl": "https://www.courthousenews.com/amazon-to-extend-ban-on-police-use-of-face-recognition-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://courthousenewswebsite.kinsta.cloud/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.courthousenews.com/amazon-to-extend-ban-on-police-use-of-face-recognition-tech/amp/",
-      "cdnAmpWebUrl": "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/amazon-to-extend-ban-on-police-use-of-face-recognition-tech/amp/",
-      "publishedDateTime": "2021-07-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Courthouse News Service",
-        "domain": "courthousenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

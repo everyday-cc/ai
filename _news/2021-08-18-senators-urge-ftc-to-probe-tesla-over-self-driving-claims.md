@@ -119,6 +119,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Lawmakers Target Tesla's Autopilot and Self-Driving Claims"
+    excerpt: "Two U.S. Senators are urging the Federal Trade Commission to investigate whether Tesla Inc. uses deceptive marketing practices by labeling its driver-assistance systems “Autopilot” and “Full Self-Driving."
+    publishedDateTime: 2021-08-19T14:28:00Z
+    webUrl: "https://www.bloomberg.com/news/videos/2021-08-19/lawmakers-target-tesla-s-autopilot-and-self-driving-claims-video"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 84
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iik2TiWFxOik/v5/-1x-1.jpg"
+        width: 2000
+        height: 1125
+        isCached: true
   - title: "What investors need to know about Tesla's AI day"
     excerpt: "CNBC's 'Squawk Box' team discusses Tesla's valuation ahead of its artifical intelligence day with Gene Munster of Loup Ventures and Gordon Johnson, GLJ Research CEO and founder."
     publishedDateTime: 2021-08-19T11:58:00Z
@@ -465,6 +479,6 @@ related:
         height: 630
         isCached: true
 
-secured: "jOyV3EFCk+ojTbYJUYaeXaaz/JwZ4mTby5JZRIUWGQz6aWMVJSf+7s2Ep8DzfC9L+JGWHAmhD5G43Bcy/Mu+jNcoInbAbjWBjWl8zQma3Gj5ej+qfSYQs8cI3kVeqb0VDvitaY/Y8lC5MJESBn3iAmDRHZr9THo2MUu1TvEakaJPDSgnwgXMjbVxJu+X8RwqKUxN4E2KYxOim9Trzdu0BSGmipriMdEpJPxoS+t+R7OazjJJylClI18roOsEg1gfGjKypmSN3VmMLfLUeGDRJ2QSflsfsY1uPmGehKiAgibsE0PAWHm6ZarAPkplo/6eAdgtZhLARw6S9SeQoAvJYd+fFvf+s+2ZN6N5jN8wM2k=;JvGTslsve2hslrW9vEI07g=="
+secured: "NygicIsOfMG1luJ0vu/k1geqkd3Fqyv6GLyH4sct23xufS/l+ZBzi+WCjz6k0PyCl4qXqC0hPDzaTG0fHVrOZurEd3DD9+7Ldkkkvlm1VbyqcOJiNPuNB3FabumYxwSuTDsQ26h7p015NDK1E97PHsLFydoYJNvQoUwPC0KlbqjsDWT+Q9Hf9eaAfeJIANUxaKYzwJD3IzLXNkrP+MhITCPECEUTcpbR4E723TWAp3FSn5W6LHCNnKHCI18BPgWwbpbZv9B+NddCFc7JRbCSdSJUzCATjKiYTdbqJrPTqi8s+8MHObQcNnsTZVfKxJD7IQrhNkoj21uF6nYmvGX7ULE6sZQRAu3/IyXI8Y+ueJsTLyV5cGU0BERIOnBaSql3/103oUsFIcuy8c1G78G3OhwH+WyM0VKizZSt0zP4eNT45QJE+qBItFhmLpSnHcNGmWSUhjKdZqFYeJa2cPd8OAsOYB6QR8DWYEuixTs+1aUHlb8Nc/iymnhF7YSO3SW2AEInTzftxTes2IDlruTCQw==;tvhmyWnvBgT2RjbAfuDHXA=="
 ---
 

@@ -2,6 +2,205 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-08-12-fintech-platform-fuse-autotech-raises-10m-in-series-a-funding-led-by-target-global.md",
+      "title": "Fintech Platform FUSE Autotech Raises $10M in Series A Funding Led by Target Global",
+      "excerpt": "FUSE Autotech, a fintech software platform that redefines the car buying process, today announced the completion of its $10 million Series A round of financing, led by Target Global with participation from PICO Venture Partners,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/fintech-platform-fuse-autotech-raises-10m-in-series-a-funding-led-by-target-global-1030724575",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/fintech-platform-fuse-autotech-raises-10m-in-series-a-funding-led-by-target-global-1030724575",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1593214/Logo_FUSEAutotech_Primary_ID_0fdecb7cdd63_Logo.jpg",
+          "width": 400,
+          "height": 295,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-12T06:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-artificial-intelligence-for-social-inclusion-technologies-and-necessary-steps.md",
+      "title": "Artificial Intelligence For Social Inclusion: Technologies And Necessary Steps",
+      "excerpt": "For those who develop technology, it is essential not only to think about usability but increasingly about accessibility.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/12/artificial-intelligence-for-social-inclusion-technologies-and-necessary-steps/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/12/artificial-intelligence-for-social-inclusion-technologies-and-necessary-steps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61140c2e210c118b1901925f%2F0x0.jpg",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/12/artificial-intelligence-for-social-inclusion-technologies-and-necessary-steps/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/12/artificial-intelligence-for-social-inclusion-technologies-and-necessary-steps/amp/",
+      "publishedDateTime": "2021-08-12T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-bell-5g-powers-tiny-mile-food-delivery-robots-in-downtown-toronto.md",
+      "title": "Bell 5G powers Tiny Mile food delivery robots in downtown Toronto",
+      "excerpt": "Canadian AI tech start-up leveraging Bell 5G to deliver food to downtown residents MONTRÉAL,  /CNW Telbec/ - Bell today announced a",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/bell-5g-powers-tiny-mile-food-delivery-robots-in-downtown-toronto-1030724079",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/bell-5g-powers-tiny-mile-food-delivery-robots-in-downtown-toronto-1030724079",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1593141/Bell_Canada_Bell_5G_powers_Tiny_Mile_food_delivery_robots_in_dow.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-12T05:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-uk-regtech-shield-introduces-alert-transparency-capabilities-by-leveraging-ai-nlp.md",
+      "title": "UK Regtech Shield Introduces Alert Transparency Capabilities by Leveraging AI, NLP",
+      "excerpt": "UK Regtech firm Shield has introduced Alert Transparency Capabilities by leveraging AI and natural language processing or NLP.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2021/08/179061-uk-regtech-shield-introduces-alert-transparency-capabilities-by-leveraging-ai-nlp/",
+      "originalUrl": "https://www.crowdfundinsider.com/2021/08/179061-uk-regtech-shield-introduces-alert-transparency-capabilities-by-leveraging-ai-nlp/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/09/Regtech-in-the-UK-300x222.jpg",
+          "width": 300,
+          "height": 222,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2021/08/179061-uk-regtech-shield-introduces-alert-transparency-capabilities-by-leveraging-ai-nlp/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/08/179061-uk-regtech-shield-introduces-alert-transparency-capabilities-by-leveraging-ai-nlp/amp/",
+      "publishedDateTime": "2021-08-12T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-08-12-14-tech-specialties-that-may-soon-be-obsolete.md",
       "title": "14 Tech Specialties That May Soon Be Obsolete",
       "excerpt": "The tech industry evolves rapidly, so knowing what skills the industry needs right now—and what skills may soon be obsolete—improves a budding tech professional’s options.",
@@ -615,6 +814,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-12-an-introduction-to-decision-tree-and-ensemble-methods.md",
+      "title": "An Introduction to Decision Tree and Ensemble Methods",
+      "excerpt": "For more details check here. Before we get into code, we would spin an Amazon SageMaker Notebook, it’s a fully managed ML compute instance running the Jupyter Notebook App. It manages creating the instance and related resources for us, we are going to ...",
+      "sourceUrl": null,
+      "webUrl": "https://opendatascience.com/an-introduction-to-decision-tree-and-ensemble-methods/",
+      "originalUrl": "https://opendatascience.com/an-introduction-to-decision-tree-and-ensemble-methods/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://opendatascience.com/wp-content/uploads/2021/08/image31.png",
+          "width": 640,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-11T12:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Open Data Science",
+        "domain": "opendatascience.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-12-microsoft-acquires-israeli-startup-peer5-to-improve-video-streaming-software.md",
       "title": "Microsoft acquires Israeli startup Peer5 to improve video streaming software",
       "excerpt": "Tech giant says acquisition will aid businesses using its communication platform, Microsoft Teams; global real estate giant JLL snaps up Israeli analytics firm Skyline AI",
@@ -946,230 +1188,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-can-humor-laughter-ai-reduce-the-stress-of-women-living-with-cancer.md",
-      "title": "Can Humor, Laughter & AI Reduce the Stress of Women Living with Cancer?",
-      "excerpt": "It sounds like the opening to a classic joke: “A cancer survivor, a scientist, and a doctor walk into a bar,” but instead it’s a groundbreaking 8-week Mindset and Metastatic Cancer Research Study utilizing artificial intelligence to investigate personalized stress reduction strategies for women with living with advanced cancer.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/lifestyle-technology-health-coronavirus-pandemic-philanthropy-2a8c8750ce5190969c1f1dfe42098e9c",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/lifestyle-technology-health-coronavirus-pandemic-philanthropy-2a8c8750ce5190969c1f1dfe42098e9c",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-11T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-artificial-intelligence-ai-in-healthcare-market-latest-trends-demand-and-advancement-2021-to-2028.md",
-      "title": "Artificial Intelligence (AI) in Healthcare Market Latest Trends, Demand and Advancement 2021 to 2028",
-      "excerpt": "According to our new research study on \"Artificial Intelligence (AI) in Healthcare Market Forecast to 2027 - COVID-19",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-latest-trends-demand-and-advancement-2021-to-2028-2021-08-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-latest-trends-demand-and-advancement-2021-to-2028-2021-08-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-11T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-deep-learning-model-classifies-brain-tumors-with-single-mri-scan.md",
-      "title": "Deep learning model classifies brain tumors with single MRI scan",
-      "excerpt": "A team of researchers at Washington University School of Medicine have developed a deep learning model that is capable of classifying a brain tumor as one of six common types using a single 3D MRI scan,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/924825",
-      "originalUrl": "https://www.eurekalert.org/news-releases/924825",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/fe06826f-37f6-4b29-a4c8-078a2fdd00f5/Rendition/thumbnail/Content/Public",
-          "width": 274,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-11T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-artificial-intelligence-classifies-brain-tumors-with-single-mri-scan.md",
-      "title": "Artificial Intelligence Classifies Brain Tumors With Single MRI Scan",
-      "excerpt": "A team of researchers at Washington University School of Medicine have developed a deep learning model that is capable of classifying a brain tumor as one of six common types using a single 3D MRI scan,",
-      "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/artificial-intelligence-classifies-brain-tumors-with-single-mri-scan/",
-      "originalUrl": "https://scitechdaily.com/artificial-intelligence-classifies-brain-tumors-with-single-mri-scan/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/Deep-Learning-Model-Classifies-Brain-Tumors-Single-MRI-Scan-777x849.jpg",
-          "width": 777,
-          "height": 849,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://scitechdaily.com/artificial-intelligence-classifies-brain-tumors-with-single-mri-scan/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-classifies-brain-tumors-with-single-mri-scan/amp/",
-      "publishedDateTime": "2021-08-11T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-writesonic-leans-on-ai-to-produce-winning-copy-when-you-dont-have-the-time-to-write.md",
-      "title": "Writesonic leans on AI to produce winning copy when you don’t have the time to write",
-      "excerpt": "Sponsored Deals Instead of sinking all that time and money into your business writing projects, Writesonic was created to handle those tasks intelligently.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/11/writesonic-leans-on-ai-to-produce-winning-copy-when-you-dont-have-the-time-to-write/",
-      "originalUrl": "https://venturebeat.com/2021/08/11/writesonic-leans-on-ai-to-produce-winning-copy-when-you-dont-have-the-time-to-write/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/sale_205218_article_image.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/11/writesonic-leans-on-ai-to-produce-winning-copy-when-you-dont-have-the-time-to-write/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/11/writesonic-leans-on-ai-to-produce-winning-copy-when-you-dont-have-the-time-to-write/amp/",
-      "publishedDateTime": "2021-08-11T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

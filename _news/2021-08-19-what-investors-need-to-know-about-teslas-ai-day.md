@@ -123,6 +123,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Lawmakers Target Tesla's Autopilot and Self-Driving Claims"
+    excerpt: "Two U.S. Senators are urging the Federal Trade Commission to investigate whether Tesla Inc. uses deceptive marketing practices by labeling its driver-assistance systems “Autopilot” and “Full Self-Driving."
+    publishedDateTime: 2021-08-19T14:28:00Z
+    webUrl: "https://www.bloomberg.com/news/videos/2021-08-19/lawmakers-target-tesla-s-autopilot-and-self-driving-claims-video"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 84
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iik2TiWFxOik/v5/-1x-1.jpg"
+        width: 2000
+        height: 1125
+        isCached: true
   - title: "Two senators urge the FTC to investigate Tesla over “Full Self-Driving” statements"
     excerpt: "Two Democratic senators have asked the new chair of the Federal Trade Commission to investigate Tesla’s statements about the autonomous capabilities of its Autopilot and Full Self-Driving systems. The senators,"
     publishedDateTime: 2021-08-18T20:51:00Z

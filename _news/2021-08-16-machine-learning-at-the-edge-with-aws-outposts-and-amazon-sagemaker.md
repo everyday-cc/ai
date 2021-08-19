@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/machine-learning-at-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/machine-learning-at-the-edge-with-aws-outposts-and-amazon-sagemaker/"
 type: article
 quality: 121
-heat: 191
+heat: 201
 published: true
 
 provider:
@@ -127,6 +127,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/18/ML-4924-image001.jpg"
         width: 1092
         height: 732
+        isCached: true
+  - title: "Bring your own container to project model accuracy drift with Amazon SageMaker Model Monitor"
+    excerpt: "Amazon SageMaker is a fully managed service that enables developers and data scientists to quickly and easily build, train, and deploy ML models at any scale. After you train an ML model, you can deploy it on SageMaker endpoints that are fully managed and ..."
+    publishedDateTime: 2021-08-17T10:28:00Z
+    webUrl: "https://github.com/aws-samples/sagemaker-model-monitor-bring-your-own-container"
+    type: article
+    provider:
+      name: GitHub
+      domain: github.com
+    quality: 43
+    images:
+      - url: "https://opengraph.githubassets.com/0f032af55932efc7ed1f4944dd404ef48469b0f94517e0d66fb7aac0fe14a5d4/aws-samples/sagemaker-model-monitor-bring-your-own-container"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "yXA/j8dcyJQTC3Zi57P4NcTo7VNd/lwwW+b+iaG1lvlSniunu0mWXLPtcK7qGvHbFWNJdclsmg7WC0luowsm/ko86hYz0/W0uonnNIzjbOtiZePPJNTpOkMwUWwhXoP9petf+8CCzq90J8YsyA2Ar/TqJ7fs/Ujcz1F7S4+7TbQwZmP0nEEqiksa7oK+f8kiyDPkzHD2PSwVNPpBHYtN0lkjUNCjABd3RsPFovedjnZxADdt+Rk+4ieVPd/pw8RdcShYwO+9P91z4tL51tES6eXg5OK46Ft93LtPfRcuuAHJOEEGYC6NgtNVMtL2Jsrl6AAl/xBdzuGs8pbiyAe/BF3hRd+wP//W8GVvnZ5wbS8=;DHXSUtGJGuHmY7OFpjiHpA=="

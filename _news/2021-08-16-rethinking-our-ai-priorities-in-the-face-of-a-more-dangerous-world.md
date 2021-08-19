@@ -54,6 +54,20 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "The hidden helping hand: expert from Croesus reveals how AI tech is already changing the industry"
+    excerpt: "There’s an obvious reason for this – most physical locations were closed, so organizations had to fall back on online support – but it becomes especially interesting to note this is just a taster of an AI-centric revolution currently changing the world of finance."
+    publishedDateTime: 2021-08-19T15:31:00Z
+    webUrl: "https://www.wealthprofessional.ca/investments/wealth-technology/the-hidden-helping-hand-expert-from-croesus-reveals-how-ai-tech-is-already-changing-the-industry/359051"
+    type: article
+    provider:
+      name: wealthprofessional.ca
+      domain: wealthprofessional.ca
+    quality: 26
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/ca/155/0382_637649839418762625.png"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "w7p9zo42uf51xZxF41CeHlhyuLmyfZTOkZxLi2WmR+zYvxDHi1U7HM9RJyRwOs7B8asPN4QqLHF2uxsnIx1ImLZ2XMGyRgvf2cBvt1PtQWFOQmDTteunSmnltdO8ZOS8wsHte3vDuHdCoaYUn1e4Te88rfxeU+ONpNoOJdt4XyZjuy2cpKBBdfcZ9zpxn3hKRcdPNVw/3mA5Q5TvXUdtK9FbqQF76EjXOUCram7wutByjeMWu6hlpwEx45upbLdu+eJFN2ra7fM6A38h6x3OG5keTnPf+tttLf6ePlpcN3cx6ugvEMlH/GpnLy9epIQFQW/DmRVLJ/wsIaWmJybdKfjkuagy/+DoXCRsI6gKVseY6+BP0NUFYK/iB+ZTEUusEZh6XGnySdPPbss3gH4TM8VqcVTrXVjU1/T48FD7Qg1T7o2HH+JdRcaIV6frMWZqcCxzmG3uMp0A0woR7bglPkfDvHcpPBnAzB9aGVf6BFP+xlA/l+QvGG0l9GzczMYFhL8y2TuT700xxy8jB7IkeQ==;4KT9ns13AU5c1VzKyQP6gg=="
 ---

@@ -2,6 +2,212 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-18-a-crossword-puzzle-with-a-big-purpose.md",
+      "title": "A crossword puzzle with a big purpose",
+      "excerpt": "Before the pandemic, Alicia Chang was working on a new project. “I was experimenting with non-traditional ways to help teach Googlers the AI Principles,” she says. Alicia is a technical writer on the Engineering Education team focused on designing learning experiences to help Googlers learn about our",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/crossword-puzzle-big-purpose/",
+      "originalUrl": "https://blog.google/technology/ai/crossword-puzzle-big-purpose/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Crossword_V2_JNgkVl7.gif",
+          "width": 2096,
+          "height": 1182,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/crossword-puzzle-big-purpose/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/crossword-puzzle-big-purpose/amp/",
+      "publishedDateTime": "2021-08-18T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-18-mexico-seeks-to-reinvent-itself-through-artificial-intelligence.md",
+      "title": "Mexico seeks to reinvent itself through Artificial Intelligence",
+      "excerpt": "The pandemic accelerated the digital transformation process in Mexico and more and more companies are reinventing themselves through Artificial Intelligence to maintain their profitability.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/380602",
+      "originalUrl": "https://www.entrepreneur.com/article/380602",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1629297983-ia-mexico.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/380602",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/380602",
+      "publishedDateTime": "2021-08-18T07:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-18-accelerator-challenge-could-your-ai-startup-help-consumers-and-small-businesses-overcome-financial-challenges.md",
+      "title": "Accelerator challenge: Could your AI startup help consumers and small businesses overcome financial challenges?",
+      "excerpt": "AI program. The 2021 program is recruiting six to eight startups that can build AI-driven solutions designed to help consumers and small businesses unlock smart financial decisions, find more money, and gain complete confidence in their money choices.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/18/accelerator-challenge-could-your-ai-startup-help-consumers-and-small-businesses-overcome-financial-challenges/",
+      "originalUrl": "https://venturebeat.com/2021/08/18/accelerator-challenge-could-your-ai-startup-help-consumers-and-small-businesses-overcome-financial-challenges/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-875599880-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 617,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/18/accelerator-challenge-could-your-ai-startup-help-consumers-and-small-businesses-overcome-financial-challenges/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/18/accelerator-challenge-could-your-ai-startup-help-consumers-and-small-businesses-overcome-financial-challenges/amp/",
+      "publishedDateTime": "2021-08-18T07:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-08-18-social-media-expert-nick-rogers-explores-the-possibilities-and-limitations-of-ai-driven-platforms.md",
+      "title": "Social Media Expert, Nick Rogers, Explores The Possibilities And Limitations Of AI-Driven Platforms",
+      "excerpt": "Media Marketing Agency, have seized the opportunity to promote products like never before, representing various brands and growing the careers of up-and-coming influencers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/mikeswigunski/2021/08/18/social-media-expert-nick-rogers-explores-the-possibilities-and-limitations-of-ai-driven-platforms/",
+      "originalUrl": "https://www.forbes.com/sites/mikeswigunski/2021/08/18/social-media-expert-nick-rogers-explores-the-possibilities-and-limitations-of-ai-driven-platforms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611be34cae352a869f680e40%2F0x0.jpg",
+          "width": 1200,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/mikeswigunski/2021/08/18/social-media-expert-nick-rogers-explores-the-possibilities-and-limitations-of-ai-driven-platforms/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeswigunski/2021/08/18/social-media-expert-nick-rogers-explores-the-possibilities-and-limitations-of-ai-driven-platforms/amp/",
+      "publishedDateTime": "2021-08-18T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-18-what-to-expect-from-teslas-ai-day-event.md",
       "title": "What to expect from Tesla’s AI day event",
       "excerpt": "It’s been nearly two years since Tesla’s first “Autonomy Day” event, at which CEO Elon Musk made numerous lofty predictions about the future of autonomous vehicles, including his infamous claim that the company would have “one million robotaxis on the road” by the end of 2020.",
@@ -261,7 +467,7 @@
       "originalUrl": "https://www.cnbc.com/2021/08/18/democrats-ask-ftc-to-investigate-teslas-self-driving-claims.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 504,
+      "heat": 514,
       "tags": null,
       "images": [
         {
@@ -438,49 +644,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-18-baidu-says-2nd-gen-kunlun-ai-chips-enter-mass-production.md",
-      "title": "Baidu Says 2nd-Gen Kunlun AI Chips Enter Mass Production",
-      "excerpt": "Chinese tech giant Baidu said on Wednesday it had begun mass-producing second-generation Kunlun artificial intelligence (AI) chips, as it races to become a key player in the chip industry which Beijing is trying to strengthen.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2021-08-18/baidu-says-2nd-gen-kunlun-ai-chips-enter-mass-production",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-08-18/baidu-says-2nd-gen-kunlun-ai-chips-enter-mass-production",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2021-08-18/baidu-says-2nd-gen-kunlun-ai-chips-enter-mass-production?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-08-18/baidu-says-2nd-gen-kunlun-ai-chips-enter-mass-production?context=amp",
-      "publishedDateTime": "2021-08-17T23:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     },
@@ -1068,142 +1231,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-wipro-unveils-wipro-aws-launch-pad-co-innovation-center-in-sao-paulo.md",
-      "title": "Wipro unveils Wipro AWS Launch Pad co-innovation center in São Paulo",
-      "excerpt": "Wipro Limited on Tuesday, August 17, 2021, unveiled the Wipro AWS Launch Pad co-innovation center in São Paulo.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/business/wipro-unveils-wipro-aws-launch-pad-co-innovation-center-in-so-paulo-702070",
-      "originalUrl": "https://www.thehansindia.com/business/wipro-unveils-wipro-aws-launch-pad-co-innovation-center-in-so-paulo-702070",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thehansindia.com/h-upload/2021/08/17/1102565-wipro-aws.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/business/wipro-unveils-wipro-aws-launch-pad-co-innovation-center-in-so-paulo-702070",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/business/wipro-unveils-wipro-aws-launch-pad-co-innovation-center-in-so-paulo-702070",
-      "publishedDateTime": "2021-08-17T08:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-conga-buys-ai-startup-that-helps-companies-understand-how-contracts-will-affect-revenue.md",
-      "title": "Conga buys AI startup that helps companies understand how contracts will affect revenue",
-      "excerpt": "Revenue operations company AppExtremes LLC, which does business as Conga, is boosting its contract management capabilities by acquiring a startup called Contract Wrangler Inc. for an undisclosed price.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2021/08/17/conga-buys-ai-startup-helps-companies-understand-contracts-will-impact-revenue/",
-      "originalUrl": "https://siliconangle.com/2021/08/17/conga-buys-ai-startup-helps-companies-understand-contracts-will-impact-revenue/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/writing-1149962_1920.jpg",
-          "width": 1920,
-          "height": 1281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-17T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-when-your-teacher-is-an-ai-avatar.md",
-      "title": "When your teacher is an AI avatar",
-      "excerpt": "Natalie Monbiot, head of strategy at Hour One, explains to Tonya Hall how digital avatars could expand the reach of online education.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/video/when-your-teacher-is-an-ai-avatar/",
-      "originalUrl": "https://www.zdnet.com/video/when-your-teacher-is-an-ai-avatar/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/r/2021/08/17/7a1c3acf-bd9b-49cf-b428-a124026eb375/thumbnail/770x578/cf74f2a944f82fd6bc4128ea1210553f/thumb.jpg",
-          "width": 770,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-17T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

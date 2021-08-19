@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/08/18/democrats-ask-ftc-to-investigate
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/08/18/democrats-ask-ftc-to-investigate-teslas-self-driving-claims.html"
 type: article
 quality: 204
-heat: 504
+heat: 514
 published: true
 
 provider:
@@ -108,6 +108,20 @@ related:
       - url: "https://www.reuters.com/resizer/bjG2wzYs69PPGKUQaSbIqLB-3G4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UVOPVOGYAFKMZFQHYFY36WRXL4.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Lawmakers Target Tesla's Autopilot and Self-Driving Claims"
+    excerpt: "Two U.S. Senators are urging the Federal Trade Commission to investigate whether Tesla Inc. uses deceptive marketing practices by labeling its driver-assistance systems “Autopilot” and “Full Self-Driving."
+    publishedDateTime: 2021-08-19T14:28:00Z
+    webUrl: "https://www.bloomberg.com/news/videos/2021-08-19/lawmakers-target-tesla-s-autopilot-and-self-driving-claims-video"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 84
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iik2TiWFxOik/v5/-1x-1.jpg"
+        width: 2000
+        height: 1125
         isCached: true
   - title: "What investors need to know about Tesla's AI day"
     excerpt: "CNBC's 'Squawk Box' team discusses Tesla's valuation ahead of its artifical intelligence day with Gene Munster of Loup Ventures and Gordon Johnson, GLJ Research CEO and founder."

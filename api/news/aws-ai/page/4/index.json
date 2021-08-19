@@ -2,6 +2,279 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-07-15-artificial-intelligence-ai-chipsets-market-industry-analysis-size-share-trends-demand-growth-opportunities-and-forecast-2027.md",
+      "title": "Artificial Intelligence (AI) Chipsets Market Industry Analysis, Size, Share, Trends, Demand, Growth, Opportunities and Forecast 2027",
+      "excerpt": "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-industry-analysis-size-share-trends-demand-growth-opportunities-and-forecast-2027-2021-07-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-industry-analysis-size-share-trends-demand-growth-opportunities-and-forecast-2027-2021-07-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-14T20:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare",
+        "AWS AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-deploy-variational-autoencoders-for-anomaly-detection-with-tensorflow-serving-on-amazon-sagemaker.md",
+      "title": "Deploy variational autoencoders for anomaly detection with TensorFlow Serving on Amazon SageMaker",
+      "excerpt": "Anomaly detection is the process of identifying items, events, or occurrences that have different characteristics from the majority of the data. It has many applications in various fields, like fraud detection for credit cards, insurance, or healthcare; network intrusion detection for cybersecurity;",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/deploying-variational-autoencoders-for-anomaly-detection-with-tensorflow-serving-on-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/deploying-variational-autoencoders-for-anomaly-detection-with-tensorflow-serving-on-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/01/ML1533-image003.jpg",
+          "width": 1588,
+          "height": 934,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-14T10:28:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-artificial-intelligence-ai-chipsets-market-to-upheave-market-growth-during-the-forecast-period-2020-2026.md",
+      "title": "Artificial Intelligence (AI) Chipsets Market to Upheave Market Growth During The Forecast Period 2020-2026",
+      "excerpt": "Chipsets Market to Upheave Market Growth During The Forecast Period 2020-2026” by Zion Market Research facilitates a closer outlook on opportunities, revenue growth, and current market trends. The report is focused to offer qualitative and quantitative analysis of dynamics and market opportunities prevailing during the forecast period.",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/artificial-intelligence-ai-chipsets-market-to-upheave-market-growth-during-the-forecast-period-2020-2026/",
+      "originalUrl": "https://manometcurrent.com/artificial-intelligence-ai-chipsets-market-to-upheave-market-growth-during-the-forecast-period-2020-2026/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-14T04:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-sk-ecoplant-develops-eco-friendly-ai-powered-incinerator-solution-using-aws.md",
+      "title": "SK ecoplant Develops Eco-friendly AI-powered Incinerator Solution Using AWS",
+      "excerpt": "SK ecoplant, the plant engineering and construction arm of SK Group, announced that it will build an artificial intelligence (AI) incinerator solution, using Am",
+      "sourceUrl": null,
+      "webUrl": "https://technuter.com/channel-news/sk-ecoplant-develops-eco-friendly-ai-powered-incinerator-solution-using-aws.html",
+      "originalUrl": "https://technuter.com/channel-news/sk-ecoplant-develops-eco-friendly-ai-powered-incinerator-solution-using-aws.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://technuter.com/wp-content/uploads/2019/03/aws-logo.jpg",
+          "width": 277,
+          "height": 239,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://technuter.com/channel-news/sk-ecoplant-develops-eco-friendly-ai-powered-incinerator-solution-using-aws.html/amp",
+      "cdnAmpWebUrl": "https://technuter-com.cdn.ampproject.org/c/s/technuter.com/channel-news/sk-ecoplant-develops-eco-friendly-ai-powered-incinerator-solution-using-aws.html/amp",
+      "publishedDateTime": "2021-07-12T23:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technuter.com",
+        "domain": "technuter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-12-artificial-intelligence-stocks-the-10-best-ai-companies.md",
+      "title": "Artificial Intelligence Stocks: The 10 Best AI Companies",
+      "excerpt": "AI could be the 21st century's biggest new industry. Long a focal point of science fiction, AI is no longer a curious theme to ponder for the distant future — it's here.",
+      "sourceUrl": null,
+      "webUrl": "https://wtop.com/news/2021/07/artificial-intelligence-stocks-the-10-best-ai-companies-3/",
+      "originalUrl": "https://wtop.com/news/2021/07/artificial-intelligence-stocks-the-10-best-ai-companies-3/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wtop.com/news/2021/07/artificial-intelligence-stocks-the-10-best-ai-companies-3/amp/",
+      "cdnAmpWebUrl": "https://wtop-com.cdn.ampproject.org/c/s/wtop.com/news/2021/07/artificial-intelligence-stocks-the-10-best-ai-companies-3/amp/",
+      "publishedDateTime": "2021-07-12T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTOP News",
+        "domain": "wtop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare",
+        "AI Hardware",
+        "Natural Language Processing",
+        "IBM AI",
+        "Facebook AI",
+        "Microsoft AI",
+        "AI in Robotics",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-10-amazon-to-extend-ban-on-police-use-of-face-recognition-tech.md",
+      "title": "Amazon to Extend Ban on Police Use of Face Recognition Tech",
+      "excerpt": "Activists have targeted Amazon Web Services cloud computing unit's \"Rekognition\" facial recognition technology and Ring surveillance cameras used for home security. It was not clear the degree to which police have used the systems. Amazon last year called ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.courthousenews.com/amazon-to-extend-ban-on-police-use-of-face-recognition-tech/",
+      "originalUrl": "https://www.courthousenews.com/amazon-to-extend-ban-on-police-use-of-face-recognition-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://courthousenewswebsite.kinsta.cloud/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.courthousenews.com/amazon-to-extend-ban-on-police-use-of-face-recognition-tech/amp/",
+      "cdnAmpWebUrl": "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/amazon-to-extend-ban-on-police-use-of-face-recognition-tech/amp/",
+      "publishedDateTime": "2021-07-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Courthouse News Service",
+        "domain": "courthousenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-07-09-dynamic-ab-testing-for-machine-learning-models-with-amazon-sagemaker-mlops-projects.md",
       "title": "Dynamic A/B testing for machine learning models with Amazon SageMaker MLOps projects",
       "excerpt": "In this post, you learn how to create a MLOps project to automate the deployment of an Amazon SageMaker endpoint with multiple production variants for A/B testing. You also deploy a general purpose API and testing infrastructure that includes a multi-armed bandit experiment framework. This testing infrastructure",
@@ -1091,298 +1364,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-automate-car-insurance-claims-processing-with-autonet-and-amazon-rekognition-custom-labels.md",
-      "title": "Automate car insurance claims processing with Autonet and Amazon Rekognition Custom Labels",
-      "excerpt": "There is nothing more exhilarating than getting the keys to your first car or driving off the lot with the car of your dreams. Sadly, that exhilaration can quickly fade to frustration when your car is damaged. Working through the phone calls, emails, and damage reports with your insurance provider can",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automate-car-insurance-claims-processing-with-autonet-and-amazon-rekognition-custom-labels/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-car-insurance-claims-processing-with-autonet-and-amazon-rekognition-custom-labels/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/25/3942-Diagram.jpg",
-          "width": 801,
-          "height": 528,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T15:37:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-06-28-virtana-migrate-delivers-3x-faster-cloud-migration-to-aws.md",
-      "title": "Virtana Migrate Delivers 3x Faster Cloud Migration to AWS",
-      "excerpt": "Virtana, the AIOps observability company for hybrid cloud, announces the momentum of Virtana Platform, with successful customer and partner use cases for",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/virtana-migrate-delivers-3x-faster-cloud-migration-to-aws/article_c79c0c74-8524-58d9-9ccc-a395876d246b.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/virtana-migrate-delivers-3x-faster-cloud-migration-to-aws/article_c79c0c74-8524-58d9-9ccc-a395876d246b.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/03/f03f332d-513b-51a1-a054-036cd721ca33/6050c91088e37.image.jpg?resize=864%2C288",
-          "width": 864,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-28T06:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-reduce-computer-vision-inference-latency-using-grpc-with-tensorflow-serving-on-amazon-sagemaker.md",
-      "title": "Reduce computer vision inference latency using gRPC with TensorFlow serving on Amazon SageMaker",
-      "excerpt": "AWS customers are increasingly using computer vision (CV) models for improved efficiency and an enhanced user experience. For example, a live broadcast of sports can be processed in real time to detect specific events automatically and provide additional insights to viewers at low latency. Inventory",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/reduce-compuer-vision-inference-latency-using-grpc-with-tensorflow-serving-on-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/reduce-compuer-vision-inference-latency-using-grpc-with-tensorflow-serving-on-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/15/1-3850.jpg",
-          "width": 800,
-          "height": 303,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-25T10:37:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-how-daniel-wellingtons-customer-service-department-saved-99-on-translation-costs-with-amazon-translate.md",
-      "title": "How Daniel Wellington’s customer service department saved 99% on translation costs with Amazon Translate",
-      "excerpt": "This post is co-authored by Lezgin Bakircioglu, Innovation and Security Manager at Daniel Wellington. In their own words, “Daniel Wellington (DW) is a Swedish fashion brand founded in 2011. Since its inception, it has sold over 11 million watches and established itself as one of the fastest-growing and",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-daniel-wellingtons-customer-service-department-saved-99-on-translation-costs-with-amazon-translate/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-daniel-wellingtons-customer-service-department-saved-99-on-translation-costs-with-amazon-translate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/09/3451-Architecture.jpg",
-          "width": 800,
-          "height": 354,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-24T15:58:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-ml-model-explainability-with-amazon-sagemaker-clarify-and-the-sklearn-pre-built-container.md",
-      "title": "ML model explainability with Amazon SageMaker Clarify and the SKLearn pre-built container",
-      "excerpt": "Amazon SageMaker Clarify is a new machine learning (ML) feature that enables ML developers and data scientists to detect possible bias in their data and ML models and explain model predictions. It’s part of Amazon SageMaker, an end-to-end platform to build, train, and deploy your ML models. Clarify was",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-clarify-with-the-sklearn-pre-built-container/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-clarify-with-the-sklearn-pre-built-container/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-24T14:43:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-salesforce-crm-expands-aws-partnership-to-enhance-app-development.md",
-      "title": "Salesforce (CRM) Expands AWS Partnership to Enhance App Development",
-      "excerpt": "Salesforce CRM recently announced that it is expanding its partnership with Amazon’s AMZN cloud arm, Amazon Web Services (AWS), to make their combined offerings more accessible to customers. This extended partnership will help customers rapidly develop compelling applications to accelerate the digital migration of their businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/salesforce-crm-expands-aws-partnership-to-enhance-app-development-2021-06-24",
-      "originalUrl": "https://www.nasdaq.com/articles/salesforce-crm-expands-aws-partnership-to-enhance-app-development-2021-06-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/salesforce-crm-expands-aws-partnership-to-enhance-app-development-2021-06-24?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/salesforce-crm-expands-aws-partnership-to-enhance-app-development-2021-06-24?amp",
-      "publishedDateTime": "2021-06-24T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

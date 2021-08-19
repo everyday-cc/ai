@@ -2,6 +2,368 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-08-02-chinese-weightlifter-li-dominates-womens-87kg-division-at-tokyo-2020.md",
+      "title": "Chinese weightlifter Li dominates women's +87kg division at Tokyo 2020",
+      "excerpt": "Li Wenwen of China celebrates during the awarding ceremony for the Weightlifting Women's +87kg Final at Tokyo 2020 Olympic Games in Tokyo, Japan on Aug. 2, 2021. (Xinhua/Yang Lei) China's Li Wenwen shows her supremacy in the women's weightlifting +87kg division and sets three new Olympic records at Tokyo 2020.",
+      "sourceUrl": null,
+      "webUrl": "https://lileicc.github.io/",
+      "originalUrl": "https://www.msn.com/en-xl/news/other/chinese-weightlifter-li-dominates-womens-87kg-division-at-tokyo-2020/ar-AAMQvND",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-02T08:07:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "github.io/",
+        "domain": "github.io/",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-02-nvidia-is-tracking-more-than-8500-ai-startups-with-60b-in-funding.md",
+      "title": "Nvidia is tracking more than 8,500 AI startups with $60B in funding",
+      "excerpt": "Nvidia is tracking more than 8,500 AI startups through its Inception AI startup program. Those companies have raised more than $60 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/02/nvidia-is-tracking-more-than-8500-ai-startups-with-60b-in-funding/",
+      "originalUrl": "https://venturebeat.com/2021/08/02/nvidia-is-tracking-more-than-8500-ai-startups-with-60b-in-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 231,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/nvidia-inception-2-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 624,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/02/nvidia-is-tracking-more-than-8500-ai-startups-with-60b-in-funding/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/02/nvidia-is-tracking-more-than-8500-ai-startups-with-60b-in-funding/amp/",
+      "publishedDateTime": "2021-08-02T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-08-02-wavicle-data-solutions-establishes-dedicated-aws-solutions-practice.md",
+      "title": "Wavicle Data Solutions Establishes Dedicated AWS Solutions Practice",
+      "excerpt": "New AWS Solutions Practice focuses on building and enhancing AWS-centric solutions for faster time-to-value for Wavicle customers CHICAGO (PRWEB)",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/08/p22276802/wavicle-data-solutions-establishes-dedicated-aws-solutions-practice",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/08/p22276802/wavicle-data-solutions-establishes-dedicated-aws-solutions-practice",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155831/Options-Trades-Feb-3-2021-5.png",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/22276802",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22276802",
+      "publishedDateTime": "2021-08-02T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-02-the-excel-formula-language-is-now-turing-complete.md",
+      "title": "The Excel Formula Language Is Now Turing-Complete",
+      "excerpt": "The Excel team announced LAMBDA, a new feature that lets users define and name formula functions. LAMBDA functions admit parameters, can call other LAMBDA functions and recursively call themselves. With LAMBDA,",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/articles/excel-lambda-turing-complete/",
+      "originalUrl": "https://www.infoq.com/articles/excel-lambda-turing-complete/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/articles/excel-lambda-turing-complete/en/headerimage/excel-formula-language-becomes-turing-complete-header-image-1627571698217.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-02T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-02-artificial-intelligence-in-agriculture-market-size-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025.md",
+      "title": "Artificial Intelligence in Agriculture Market Size – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2025",
+      "excerpt": "Global Artificial Intelligence in Agriculture Market industry valued approximately USD 432.2 million in 2016 is anticipated to grow with a healthy growth rate of more than 22.5% over the forecast period 2017-2025.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-size-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-08-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-size-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-08-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-02T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-02-at-171-cagr-ai-in-fintech-market-size-is-expected-to-exhibit-89849-million-usd-by-2025.md",
+      "title": "At 17.1% CAGR, AI in Fintech Market Size is Expected to Exhibit 8984.9 million USD by 2025",
+      "excerpt": "Worldwide AI in Fintech market size is projected to expand at 17.1% CAGR over the analysis timeframe from 2020 to 2025, taking the industry valuation of USD 4779.7 million in 2019 to USD 8984.9 million by the year 2025.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/at-171-cagr-ai-in-fintech-market-size-is-expected-to-exhibit-89849-million-usd-by-2025-2021-08-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/at-171-cagr-ai-in-fintech-market-size-is-expected-to-exhibit-89849-million-usd-by-2025-2021-08-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-02T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-02-idemias-facial-recognition-algorithm-maintains-1-ranking-in-nists-frvt-test.md",
+      "title": "IDEMIA’s facial recognition algorithm maintains #1 ranking in NIST’s FRVT test",
+      "excerpt": "IDEMIA National Security Solutions (NSS), an affiliate of IDEMIA, the world’s leading biometric and identity solutions provider, announced today that the company’s facial recognition algorithm 1:N has maintained the top spot on the National Institute of Standards and Technology’s (NIST) Face Recognition Vendor Test (FRVT) with a correct identification accuracy of 99.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-f9a4dee661c078eee3d827267be39e58",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-f9a4dee661c078eee3d827267be39e58",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-02T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-02-google-deepmind-improving-the-interpretability-of-medical-imagings-black-box.md",
+      "title": "Google DeepMind - Improving the interpretability of medical imaging’s “Black Box”",
+      "excerpt": "Type out all lyrics, even if it’s a chorus that’s repeated throughout the song The Section Header button breaks up song sections. Highlight the text then click the link Use Bold and Italics ...",
+      "sourceUrl": null,
+      "webUrl": "https://genius.com/Aresh-banaji-google-deepmind-improving-the-interpretability-of-medical-imagings-black-box-lyrics",
+      "originalUrl": "https://genius.com/Aresh-banaji-google-deepmind-improving-the-interpretability-of-medical-imagings-black-box-lyrics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://assets.genius.com/images/sharing_fallback.png?1628811342",
+          "width": 1000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://genius.com/amp/Aresh-banaji-google-deepmind-improving-the-interpretability-of-medical-imagings-black-box-lyrics",
+      "cdnAmpWebUrl": "https://genius-com.cdn.ampproject.org/c/s/genius.com/amp/Aresh-banaji-google-deepmind-improving-the-interpretability-of-medical-imagings-black-box-lyrics",
+      "publishedDateTime": "2021-08-02T06:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Genius",
+        "domain": "genius.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-02-computer-vision-market-has-revealed-immense-growth-with-key-players-texas-instruments-keyence-basler.md",
       "title": "Computer Vision Market Has Revealed Immense Growth with Key Players – Texas Instruments, Keyence, Basler",
       "excerpt": "The Global Computer Vision Market report is expected to grow at a CAGR of 9.16% and is poised to reach $XX Billion by 2027 as compared to $XX Billion in 2020. The factors leading to this extraordinary growth is attributed to various market dynamics discussed in the report.",
@@ -775,377 +1137,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-europe-artificial-intelligence-market-2021-industry-trends-share-size-demand-and-future-scope.md",
-      "title": "Europe Artificial Intelligence Market 2021: Industry Trends, Share, Size, Demand and Future Scope",
-      "excerpt": "According to the latest report by IMARC Group, titled Europe Artificial Intelligence Market Size: Industry Trends, Share, Growth, Opportunity and Forecast 2021-2026, the europe artificial intelligence market expected to continue its robust growth during the forecast period (2021-2026).",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/europe-artificial-intelligence-market-2021-industry-trends-share-size-demand-and-future-scope-2021-08-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/europe-artificial-intelligence-market-2021-industry-trends-share-size-demand-and-future-scope-2021-08-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-01T23:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-l2-self-driving-vehicle-market-2021-global-industry-analysis-trends-market-size-and-forecasts-up-to-2027-with-leading-regions-and-countries.md",
-      "title": "L2 Self-driving Vehicle Market 2021 : Global Industry Analysis, Trends, Market Size and Forecasts up to 2027 with Leading Regions and Countries Data",
-      "excerpt": "L2 Self-driving Vehicle Market Growth Analysis 2021-2026 : The increasing use of L2 Self-driving Vehicle in Home",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/l2-self-driving-vehicle-market-2021-global-industry-analysis-trends-market-size-and-forecasts-up-to-2027-with-leading-regions-and-countries-data-2021-08-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/l2-self-driving-vehicle-market-2021-global-industry-analysis-trends-market-size-and-forecasts-up-to-2027-with-leading-regions-and-countries-data-2021-08-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-01T23:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-supercomputers-are-becoming-another-cloud-service-heres-what-it-means.md",
-      "title": "Supercomputers are becoming another cloud service. Here's what it means",
-      "excerpt": "Designing for the usual cloud workloads isn't the same as designing for high performance computing: Azure is trying to achieve both.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/supercomputers-are-becoming-another-cloud-service-heres-what-it-means/",
-      "originalUrl": "https://www.zdnet.com/article/supercomputers-are-becoming-another-cloud-service-heres-what-it-means/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/r/2021/07/20/4578fe42-7a03-4ce3-b255-3ee294ece765/thumbnail/1200x675/ade3598837ab9ca69ae071f14060e02e/thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/supercomputers-are-becoming-another-cloud-service-heres-what-it-means/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/supercomputers-are-becoming-another-cloud-service-heres-what-it-means/",
-      "publishedDateTime": "2021-08-01T18:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-a-parasite-is-turning-cicadas-into-mind-controlled-sex-zombies.md",
-      "title": "A parasite is turning cicadas into mind-controlled ‘sex zombies’",
-      "excerpt": "Don't Miss: Today’s top deals: Exclusive deals for Prime members only, $6 car detailing tool, $200 off MacBook Pro, $73 robot vacuum, more The actions of the fungus are like something straight ...",
-      "sourceUrl": null,
-      "webUrl": "https://bgr.com/science/zombie-cicadas-fungus-parasite/",
-      "originalUrl": "https://bgr.com/science/zombie-cicadas-fungus-parasite/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bgr.com/wp-content/uploads/2020/07/c809caf4-b90c-4bc9-88b3-461a0e29bf8d.jpg?quality=70&strip=all",
-          "width": 826,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://bgr.com/science/zombie-cicadas-fungus-parasite/amp/",
-      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/science/zombie-cicadas-fungus-parasite/amp/",
-      "publishedDateTime": "2021-08-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "bgr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-csras-cloud-migration-experience-moving-mission-critical-applications-to-aws-govcloud-us.md",
-      "title": "CSRA's Cloud Migration Experience: Moving Mission-Critical Applications to AWS GovCloud (US)",
-      "excerpt": "\"We were given a very aggressive timeline of just four months to get everything up and running,\" Bergen says. \"During that time we had to go from having nothing to having all of our applications replicated so we could support our 15,000 employees.",
-      "sourceUrl": null,
-      "webUrl": "https://fcw.com/articles/2021/08/03/ai-hsgac-workforce-bill.aspx",
-      "originalUrl": "https://gcn.com/pages/native/amazon-csra-q3-2016.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fcw.com/-/media/GIG/EDIT_SHARED/AI_Automation/aigovernment.png",
-          "width": 760,
-          "height": 368,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GCN",
-        "domain": "gcn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-why-artificial-intelligence-isnt-intelligent.md",
-      "title": "Why Artificial Intelligence Isn't Intelligent",
-      "excerpt": "A funny thing happens among engineers and researchers who build artificial intelligence (AI) once they attain a deep level of expertise in their field. Some of them—especially those who understand what actual,",
-      "sourceUrl": null,
-      "webUrl": "https://cacm.acm.org/opinion/articles/254486-why-artificial-intelligence-isnt-intelligent/fulltext",
-      "originalUrl": "https://cacm.acm.org/opinion/articles/254486-why-artificial-intelligence-isnt-intelligent/fulltext",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "acm.org",
-        "domain": "acm.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-wipro-has-earned-the-kubernetes-on-microsoft-azure-advanced-specialization.md",
-      "title": "Wipro Has Earned the Kubernetes on Microsoft Azure Advanced Specialization",
-      "excerpt": "Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO), a leading global information technology, consulting and business process services company, today announced that it has earned the Kubernetes on Microsoft Azure advanced specialization,",
-      "sourceUrl": null,
-      "webUrl": "https://www.pressreleasepoint.com/wipro-has-earned-kubernetes-microsoft-azure-advanced-specialization",
-      "originalUrl": "https://www.pressreleasepoint.com/wipro-has-earned-kubernetes-microsoft-azure-advanced-specialization",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pressreleasepoint.com/sites/all/modules/press_release/social-media-icons/fbpage.png",
-          "width": 256,
-          "height": 256,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KLAS Press Release",
-        "domain": "pressreleasepoint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-argo-ai-will-now-provide-free-rides-in-california-in-its-autonomous-vehicles.md",
-      "title": "Argo AI will now provide free rides in California in its autonomous vehicles",
-      "excerpt": "Argo AI has secured the Drivered Autonomous Vehicle Passenger Service Pilot program which allows companies to operate a ride-hailing service using autonomous vehicles while adhering to specific rules.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/argo-ai-will-now-provide-free-rides-in-california-in-its-autonomous-vehicles/",
-      "originalUrl": "https://www.neowin.net/news/argo-ai-will-now-provide-free-rides-in-california-in-its-autonomous-vehicles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2015/12/ford-fusion_story.jpg",
-          "width": 760,
-          "height": 570,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-01T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

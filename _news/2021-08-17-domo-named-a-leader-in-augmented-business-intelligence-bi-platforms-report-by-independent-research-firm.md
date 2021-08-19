@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Domo Named a Leader in Augmented Business Intelligence (BI) Platforms Report by Independent Research Firm"
-excerpt: "Domo (Nasdaq: DOMO), provider of the Domo Business Cloud, today announced that Forrester Research ( News - Alert) has named the company a Leader in The Forrester Wave™: Augmented BI Platforms, Q3 2021 authored by vice president and principal analyst Boris Evelson and published on August 16,"
-publishedDateTime: 2021-08-17T12:18:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-domo-named-leader-augmented-business-intelligence-bi-platforms-/2021/08/17/9431967.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-domo-named-leader-augmented-business-intelligence-bi-platforms-/2021/08/17/9431967.htm"
+excerpt: "tiles' that can be dragged and dropped into Domo's data pipeline (Magic ETL), guided ML (via native integration with Amazon SageMaker Autopilot, a separately sold product), and integration with ..."
+publishedDateTime: 2021-08-17T12:14:00Z
+originalUrl: "https://www.lelezard.com/en/news-19955076.html"
+webUrl: "https://www.lelezard.com/en/news-19955076.html"
 type: article
-quality: 0
-heat: 0
+quality: 7
+heat: 7
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
+    isCached: true
 
 related:
   - title: "Verint Named a Market Leader in Opus Research Conversational Intelligence Intelliview Report"
@@ -38,6 +44,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "cH/6yErc2y5zMkHWrqXNzADDpkiWe3cMWPkzPS2pbriwjOWWU1Q9L1QfXUOwIPwzAX6rXNq/t750DrluXxKVS9Yujk079M1J87GlC3Ru8NSvYFbFIoskHl4/2rYLM/HfLA3+4Ni8wdop42IWKohpKpI5oKx0mD2Qf268Sxqh3K/WqFY6dwj5RkrVwuqP++dG6lZkBjl/Ky5FQU2tCWGuJC50FsdLiCHQPfY/sMU+UR/+RiPouE/eqaqW6z1YHvhNT/QEi4/zBT7Cr+SNTmiunI4ryEr1sJ0uWlaNefiHKEUdT8v9FldcuerLOhzmOyJxX2ADkyuq7WuopP6WxsP61z51pAgsyB20hJ/i21xMbC8=;DWsS6C06NfbrhMvUt8qRsg=="
+secured: "jojPVYXneo5XU1ud0PhvV3oPXTxzp+hYbN3kfZgbAG2tq00+vJ/dDtwOM+SXwPWJGNMsegzW7nj5Q0PHyYhzUwNpCP/i5Cd9UBgNn0UaiI0acDuLjEG8Iv7mK5K0LeL1z/4FIQ5xDbYm9w1yb8eCImFI9WNRCeFtmv8aI4jsKlYyptQ2rRAlezNdr0qUpcxsAFTx39OcXBxs72k+NMKhnvDHFUSNAm7S4OE1mZFodHfq8SCmsk0FRcqsGP9OxsYZJSULv82NiMU31cuWxK6kdQJQN0FHxW70PbQ9ts8k1AuBrh+wcJ9LqMEpYcQpsgt0KYlBrfzgAbxWKjYYPTXHPSn7s6/laauCXLD375QCMu4=;ww+/6SUd6Epm2zBQ+VisSQ=="
 ---
 

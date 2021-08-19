@@ -2,6 +2,343 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-08-09-russias-robot-fighter-apparently-isnt-very-robotic.md",
+      "title": "Russia’s Robot Fighter Apparently Isn’t Very Robotic",
+      "excerpt": "In the race to develop robotic fighter jets, it might look like Russia is pulling ahead of the United States. But appearances can be deceiving. Russia’s first few robot fighters ... probably won’t be very robotic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidaxe/2021/08/09/russias-robot-fighter-apparently-isnt-very-robotic/",
+      "originalUrl": "https://www.forbes.com/sites/davidaxe/2021/08/09/russias-robot-fighter-apparently-isnt-very-robotic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61106b25e970047366f7c323%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1200%26cropY1%3D72%26cropY2%3D747",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidaxe/2021/08/09/russias-robot-fighter-apparently-isnt-very-robotic/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidaxe/2021/08/09/russias-robot-fighter-apparently-isnt-very-robotic/amp/",
+      "publishedDateTime": "2021-08-09T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-09-pizza-hut-is-building-an-ai-that-it-says-will-recommend-food-to-you-based-on-your-local-weather.md",
+      "title": "Pizza Hut is building an AI that it says will recommend food to you based on your local weather",
+      "excerpt": "Pizza Hut is developing an in-house AI, rather than buy off-the-shelf programs, that knows what customers might want to order, its data chief said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/pizza-hut-wants-ai-to-recommend-food-based-on-weather-2021-8",
+      "originalUrl": "https://www.businessinsider.com/pizza-hut-wants-ai-to-recommend-food-based-on-weather-2021-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6111042138aff70018907a15?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/pizza-hut-wants-ai-to-recommend-food-based-on-weather-2021-8?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pizza-hut-wants-ai-to-recommend-food-based-on-weather-2021-8?amp",
+      "publishedDateTime": "2021-08-09T04:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-09-ai-failed-promise-or-a-case-of-unrealistic-expectations.md",
+      "title": "AI: Failed Promise Or A Case Of Unrealistic Expectations?",
+      "excerpt": "However, has AI failed to deliver, or are we setting our expectations too high? Putting the hype aside, AI does have significant potential to help organizations enhance their efficiency and make better use of data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/09/ai-failed-promise-or-a-case-of-unrealistic-expectations/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/09/ai-failed-promise-or-a-case-of-unrealistic-expectations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610d39e772f8cad64da16789%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/09/ai-failed-promise-or-a-case-of-unrealistic-expectations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/09/ai-failed-promise-or-a-case-of-unrealistic-expectations/amp/",
+      "publishedDateTime": "2021-08-09T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-09-rbl-bank-selects-aws-to-accelerate-ai-efforts.md",
+      "title": "RBL Bank selects AWS to accelerate AI efforts",
+      "excerpt": "RBL Bank has selected Amazon Web Services (AWS), an Amazon.com company, as its cloud provider. AWS would help RBL Bank strengthen its AI-powered banking solutions and drive digital transformation at the lender.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/money-and-banking/rbl-bank-selects-aws-to-accelerate-ai-efforts/article35814022.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/money-and-banking/rbl-bank-selects-aws-to-accelerate-ai-efforts/article35814022.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/money-and-banking/uhrmta/article35335593.ece/ALTERNATES/LANDSCAPE_615/RBLbank",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/money-and-banking/rbl-bank-selects-aws-to-accelerate-ai-efforts/article35814022.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/money-and-banking/rbl-bank-selects-aws-to-accelerate-ai-efforts/article35814022.ece/amp/",
+      "publishedDateTime": "2021-08-09T04:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-08-09-bear-flag-robotics-will-help-deere-expand-autonomous-equipment.md",
+      "title": "Bear Flag Robotics Will Help Deere Expand Autonomous Equipment",
+      "excerpt": "On Thursday, the company announced it's acquired Bear Flag Robotics for $250 million. Aaryan Balu reports the California startup develops autonomous technology for farm equipment. Dan Leibfried, Director of Automation and Autonomy at the Deere Intelligent Solutions Group in Urbandale,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wvik.org/wvik-top-stories/2021-08-09/bear-flag-robotics-will-help-deere-expand-autonomous-equipment",
+      "originalUrl": "https://www.wvik.org/wvik-top-stories/2021-08-09/bear-flag-robotics-will-help-deere-expand-autonomous-equipment",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://npr.brightspotcdn.com/dims4/default/240a7fb/2147483647/strip/true/crop/4032x2483+0+270/resize/880x542!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0a%2F45%2Fc13843cb4f1f8782a438083c4ebc%2Fdeerre-bear-flag-robotics-tractor.JPG",
+          "width": 880,
+          "height": 542,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wvik.org/wvik-top-stories/2021-08-09/bear-flag-robotics-will-help-deere-expand-autonomous-equipment?_amp=true",
+      "cdnAmpWebUrl": "https://www-wvik-org.cdn.ampproject.org/c/s/www.wvik.org/wvik-top-stories/2021-08-09/bear-flag-robotics-will-help-deere-expand-autonomous-equipment?_amp=true",
+      "publishedDateTime": "2021-08-09T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "wvik.org",
+        "domain": "wvik.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-09-rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts.md",
+      "title": "RBL Bank selects AWS to Accelerate Artificial Intelligence Efforts",
+      "excerpt": "RBL Bank has chosen Amazon Web Services (AWS) as its preferred cloud provider to strengthen its AI-powered banking solutions and drive digital transformation at",
+      "sourceUrl": null,
+      "webUrl": "https://technuter.com/breaking-news/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts.html",
+      "originalUrl": "https://technuter.com/breaking-news/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://technuter.com/wp-content/uploads/2019/03/aws-logo.jpg",
+          "width": 277,
+          "height": 239,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-09T02:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technuter.com",
+        "domain": "technuter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-08-09-how-machine-learning-could-help-develop-cures-for-covid-19-and-other-diseases.md",
+      "title": "How machine learning could help develop cures for COVID-19 and other diseases",
+      "excerpt": "The big idea We combined a machine learning algorithm with knowledge gleaned from hundreds of biological experiments to develop a technique that allows biomedical researchers to figure out the functio",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/machine-learning-develop-cures-covid-19-other-diseases-syndication",
+      "originalUrl": "https://thenextweb.com/news/machine-learning-develop-cures-covid-19-other-diseases-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/414689/original/file-20210804-5434-1c9381h.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip",
+          "width": 754,
+          "height": 648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-09T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-09-chinas-top-court-specifies-rules-for-facial-recognition.md",
       "title": "China's top court specifies rules for facial recognition",
       "excerpt": "China's Supreme People's Court specified a set of regulations for the use of facial recognition, according to The Xinhua News Agency reports.The rules involve",
@@ -84,50 +421,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts.md",
-      "title": "RBL Bank selects AWS to Accelerate Artificial Intelligence Efforts",
-      "excerpt": "Other use cases already being tested within the Operations division include using services like Amazon Rekognition and Amazon Textract to automatically extract and match customer signatures and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiainfoline.com/article/news-sector-banking-financials/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900334_1.html",
-      "originalUrl": "https://www.indiainfoline.com/article/news-sector-banking-financials/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900334_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg",
-          "width": 350,
-          "height": 233,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiainfoline.com/article-amp/news-sector-banking-financials/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900334_1.html",
-      "cdnAmpWebUrl": "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-banking-financials/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900334_1.html",
-      "publishedDateTime": "2021-08-09T01:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Infoline",
-        "domain": "indiainfoline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Finance"
       ]
     },
     {
@@ -898,271 +1191,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-08-roundup-us-win-gold-as-usual-new-blood-coming-in-olympic-basketball.md",
-      "title": "Roundup: U.S. win gold as usual, new blood coming in Olympic basketball",
-      "excerpt": "Players of the United States pose with gold medals after the awarding ceremony for the men's basketball at the Tokyo 2020 Olympic Games in Saitama, Japan, Aug. 7, 2021. (Xinhua/Pan Yulong) Basketball roundup: The U.",
-      "sourceUrl": null,
-      "webUrl": "https://lileicc.github.io/",
-      "originalUrl": "https://www.msn.com/en-xl/news/other/roundup-us-win-gold-as-usual-new-blood-coming-in-olympic-basketball/ar-AAN4bxY",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-08T00:50:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "github.io/",
-        "domain": "github.io/",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-08-trouble-at-googles-deepmind-and-tech-workers-not-going-back-to-the-office.md",
-      "title": "Trouble at Google's DeepMind and tech workers not going back to the office",
-      "excerpt": "Hello, and welcome to this week's edition of the Insider Tech newsletter, where we break down the biggest news in tech, including: This week: Trouble at Google's DeepMind Insider learned that an ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trouble-at-googles-deepmind-tech-workers-refuse-the-office-2021-8",
-      "originalUrl": "https://www.businessinsider.com/trouble-at-googles-deepmind-tech-workers-refuse-the-office-2021-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/610c60112a24d0001861fc02?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trouble-at-googles-deepmind-tech-workers-refuse-the-office-2021-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trouble-at-googles-deepmind-tech-workers-refuse-the-office-2021-8?amp",
-      "publishedDateTime": "2021-08-07T16:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-08-robotics-students-ready-to-learn-mystery-competition.md",
-      "title": "Robotics students ready to learn mystery competition",
-      "excerpt": "Whether it’s playing a futuristic ball game, navigating through a complex obstacle course with computer controled wheels or manipulating a metal hand, FIRST Robotics Competition students in La Porte County have been competing for years in gladiatorial matches with their machines.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/article/technology-sports-college-football-robotics-indiana-hoosiers-football-bbe4df1ad0874d79b35236f85f811cfe",
-      "originalUrl": "https://apnews.com/article/technology-sports-college-football-robotics-indiana-hoosiers-football-bbe4df1ad0874d79b35236f85f811cfe",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/ShareLogo2.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-07T15:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-08-die-as-a-human-or-live-forever-as-a-cyborg-will-robots-rule-the-world.md",
-      "title": "‘Die as a human or live forever as a cyborg’: Will robots rule the world?",
-      "excerpt": "Marshall calls it “natural intelligence”, not artificial intelligence. Autonomy, the kind driverless cars and robot vacuums need to navigate their surrounds, is a solved problem, he says.",
-      "sourceUrl": null,
-      "webUrl": "https://www.smh.com.au/national/die-as-a-human-or-live-forever-as-a-cyborg-will-robots-rule-the-world-20210610-p57zy4.html",
-      "originalUrl": "https://www.smh.com.au/national/die-as-a-human-or-live-forever-as-a-cyborg-will-robots-rule-the-world-20210610-p57zy4.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.ffx.io/image/upload/v1600232233/google-amp/placeholder.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.smh.com.au/national/die-as-a-human-or-live-forever-as-a-cyborg-will-robots-rule-the-world-20210610-p57zy4.html",
-      "cdnAmpWebUrl": "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/national/die-as-a-human-or-live-forever-as-a-cyborg-will-robots-rule-the-world-20210610-p57zy4.html",
-      "publishedDateTime": "2021-08-07T12:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sydney Morning Herald",
-        "domain": "smh.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-08-systems-of-systems-the-next-big-step-for-edge-ai.md",
-      "title": "Systems of systems: The next big step for edge AI",
-      "excerpt": "A system of systems connects an enterprise’s multiple, purpose-dedicated systems using a single common language.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/07/systems-of-systems-the-next-big-step-for-edge-ai/",
-      "originalUrl": "https://venturebeat.com/2021/08/07/systems-of-systems-the-next-big-step-for-edge-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-135456171.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/07/systems-of-systems-the-next-big-step-for-edge-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/07/systems-of-systems-the-next-big-step-for-edge-ai/amp/",
-      "publishedDateTime": "2021-08-07T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-07-vatican-speaks-out-in-killer-robots-debate-at-un-raising-weaponization-of-artificial-intelligence.md",
-      "title": "Vatican speaks out in 'killer robots' debate at UN raising weaponization of artificial intelligence",
-      "excerpt": "The Vatican has told a UN meeting in Geneva that the use of \"killer robots\" and other lethal autonomous weapons systems that use artificial intelligence violates international treaties because innocent civilians could be erroneously targeted.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ecumenicalnews.com/article/vatican-speaks-out-in-killer-robots-debate-at-un-raising-weaponization-of-artificial-intelligence/60901.htm",
-      "originalUrl": "https://www.ecumenicalnews.com/article/vatican-speaks-out-in-killer-robots-debate-at-un-raising-weaponization-of-artificial-intelligence/60901.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.ecumenicalnews.com/full/23732/630-0/robot-weapons.jpg",
-          "width": 630,
-          "height": 452,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.ecumenicalnews.com/amp/vatican-speaks-out-in-killer-robots-debate-at-un-raising-weaponization-of-artificial-intelligence/60901.htm",
-      "cdnAmpWebUrl": "https://www-ecumenicalnews-com.cdn.ampproject.org/c/www.ecumenicalnews.com/amp/vatican-speaks-out-in-killer-robots-debate-at-un-raising-weaponization-of-artificial-intelligence/60901.htm",
-      "publishedDateTime": "2021-08-07T08:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ecumenical News",
-        "domain": "ecumenicalnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-19-intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor.md",
+      "title": "Intel architect Koduri says every chip will be a neural net processor",
+      "excerpt": "Intel's Xeon chips have tended to dominate the market for AI inference, but Nvidia has been making inroads. Intel has litle share in neural network training while Nvidia dominates the field with its GPUs. Koduri said the company intends to compete against ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/article/intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor/",
+      "originalUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/article/intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/08/19/beb44cbb-ab59-4180-9f75-496e4ef8a5b4/intel-2021-sapphire-rapids.jpg",
+          "width": 365,
+          "height": 310,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor/",
+      "publishedDateTime": "2021-08-19T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-are-you-ready-for-sentient-disney-robots.md",
+      "title": "Are You Ready for Sentient Disney Robots?",
+      "excerpt": "Some of the animatronics at Disney’s parks have been doing their herky-jerky thing since the Nixon administration. The company knows that nostalgia won’t cut it with today’s children.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/08/19/business/media/disney-parks-robots.html",
+      "originalUrl": "https://www.nytimes.com/2021/08/19/business/media/disney-parks-robots.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/08/19/business/media/disney-topper-promo/disney-topper-promo-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/08/19/business/media/disney-parks-robots.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/19/business/media/disney-parks-robots.amp.html",
+      "publishedDateTime": "2021-08-19T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-19-intel-takes-the-lid-off-its-biggest-chip-designs-for-the-coming-years.md",
       "title": "Intel takes the lid off its biggest chip designs for the coming years",
       "excerpt": "Intel's top chip architects touted the designs at Intel Architecture Day 2021 in the hopes of instilling confidence in its leadership.",
@@ -308,8 +412,8 @@
       "title": "BrainBox AI to Showcase Its Innovative Technology at the 26th United Nations Climate Change Conference",
       "excerpt": "The only Canadian company, and one of ten globally, chosen for prestigious Tech For Our Planet program at COP26, designed to spark environmental",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/brainbox-ai-to-showcase-its-innovative-technology-at-the-26th-united-nations-climate-change-conference-1030745058",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/brainbox-ai-to-showcase-its-innovative-technology-at-the-26th-united-nations-climate-change-conference-1030745058",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/brainbox-ai-to-showcase-its-innovative-technology-at-the-26th-united-nations-climate-change-conference-1030745145",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/brainbox-ai-to-showcase-its-innovative-technology-at-the-26th-united-nations-climate-change-conference-1030745145",
       "featuredContent": null,
       "highlight": null,
       "heat": 71,
@@ -352,6 +456,50 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-machine-learning-transforming-the-lending-industry.md",
+      "title": "Machine learning: Transforming the lending industry",
+      "excerpt": "Machine learning algorithms are capable of delving into petabytes of data to comprehend the specific needs of individual customers",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/machine-learning-transforming-lending-industry/",
+      "originalUrl": "https://www.dqindia.com/machine-learning-transforming-lending-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2021/07/machine-learning-5290464_640.jpg",
+          "width": 850,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/machine-learning-transforming-lending-industry/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/machine-learning-transforming-lending-industry/amp/",
+      "publishedDateTime": "2021-08-19T01:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
       ]
     },
     {
@@ -542,6 +690,58 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-baidu-says-2nd-gen-kunlun-ai-chips-enter-mass-production.md",
+      "title": "Baidu says 2nd-gen Kunlun AI chips enter mass production",
+      "excerpt": "BEIJING, Aug 18 (Reuters) - Chinese tech giant Baidu said on Wednesday it had begun mass-producing second-generation Kunlun artificial intelligence (AI) chips, as it races to become a key player in the chip industry which Beijing is trying to strengthen.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-baidu-semiconductors/baidu-says-2nd-gen-kunlun-ai-chips-enter-mass-production-idUSKBN2FJ0GK",
+      "originalUrl": "https://www.reuters.com/article/us-baidu-semiconductors/baidu-says-2nd-gen-kunlun-ai-chips-enter-mass-production-idUSKBN2FJ0GK",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210818&t=2&i=1572224486&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH7H07S",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2FJ0GK",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2FJ0GK",
+      "publishedDateTime": "2021-08-18T22:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -918,7 +1118,7 @@
       "originalUrl": "https://www.telegraph.co.uk/beauty/news/artificial-intelligence-changing-face-beauty/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -1043,212 +1243,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-18-a-crossword-puzzle-with-a-big-purpose.md",
-      "title": "A crossword puzzle with a big purpose",
-      "excerpt": "Before the pandemic, Alicia Chang was working on a new project. “I was experimenting with non-traditional ways to help teach Googlers the AI Principles,” she says. Alicia is a technical writer on the Engineering Education team focused on designing learning experiences to help Googlers learn about our",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/crossword-puzzle-big-purpose/",
-      "originalUrl": "https://blog.google/technology/ai/crossword-puzzle-big-purpose/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Crossword_V2_JNgkVl7.gif",
-          "width": 2096,
-          "height": 1182,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/crossword-puzzle-big-purpose/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/crossword-puzzle-big-purpose/amp/",
-      "publishedDateTime": "2021-08-18T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-18-mexico-seeks-to-reinvent-itself-through-artificial-intelligence.md",
-      "title": "Mexico seeks to reinvent itself through Artificial Intelligence",
-      "excerpt": "The pandemic accelerated the digital transformation process in Mexico and more and more companies are reinventing themselves through Artificial Intelligence to maintain their profitability.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/380602",
-      "originalUrl": "https://www.entrepreneur.com/article/380602",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1629297983-ia-mexico.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/380602",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/380602",
-      "publishedDateTime": "2021-08-18T07:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-18-accelerator-challenge-could-your-ai-startup-help-consumers-and-small-businesses-overcome-financial-challenges.md",
-      "title": "Accelerator challenge: Could your AI startup help consumers and small businesses overcome financial challenges?",
-      "excerpt": "AI program. The 2021 program is recruiting six to eight startups that can build AI-driven solutions designed to help consumers and small businesses unlock smart financial decisions, find more money, and gain complete confidence in their money choices.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/18/accelerator-challenge-could-your-ai-startup-help-consumers-and-small-businesses-overcome-financial-challenges/",
-      "originalUrl": "https://venturebeat.com/2021/08/18/accelerator-challenge-could-your-ai-startup-help-consumers-and-small-businesses-overcome-financial-challenges/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-875599880-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 617,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/18/accelerator-challenge-could-your-ai-startup-help-consumers-and-small-businesses-overcome-financial-challenges/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/18/accelerator-challenge-could-your-ai-startup-help-consumers-and-small-businesses-overcome-financial-challenges/amp/",
-      "publishedDateTime": "2021-08-18T07:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-08-18-social-media-expert-nick-rogers-explores-the-possibilities-and-limitations-of-ai-driven-platforms.md",
-      "title": "Social Media Expert, Nick Rogers, Explores The Possibilities And Limitations Of AI-Driven Platforms",
-      "excerpt": "Media Marketing Agency, have seized the opportunity to promote products like never before, representing various brands and growing the careers of up-and-coming influencers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/mikeswigunski/2021/08/18/social-media-expert-nick-rogers-explores-the-possibilities-and-limitations-of-ai-driven-platforms/",
-      "originalUrl": "https://www.forbes.com/sites/mikeswigunski/2021/08/18/social-media-expert-nick-rogers-explores-the-possibilities-and-limitations-of-ai-driven-platforms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611be34cae352a869f680e40%2F0x0.jpg",
-          "width": 1200,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/mikeswigunski/2021/08/18/social-media-expert-nick-rogers-explores-the-possibilities-and-limitations-of-ai-driven-platforms/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeswigunski/2021/08/18/social-media-expert-nick-rogers-explores-the-possibilities-and-limitations-of-ai-driven-platforms/amp/",
-      "publishedDateTime": "2021-08-18T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

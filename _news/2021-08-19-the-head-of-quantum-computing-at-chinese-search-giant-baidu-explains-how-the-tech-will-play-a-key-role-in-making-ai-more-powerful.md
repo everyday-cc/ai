@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/baidu-quantum-computing-head-techn
 webUrl: "https://www.businessinsider.com/baidu-quantum-computing-head-technology-2021-8"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -28,22 +28,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "Chinese operators are using AI to inspect their power plants"
-    excerpt: "When your power plant is set to deliver renewable energy for fifty or a hundred years, keeping the equipment in running order is business critical. SPIC, one of the top ten hydropower companies in the world by installed capacity,"
-    publishedDateTime: 2021-08-16T13:46:00Z
-    webUrl: "https://www.hydropower.org/case-study/ai-power-plant"
-    type: article
-    provider:
-      name: International Hydropower Association
-      domain: hydropower.org
-    quality: 39
-    images:
-      - url: "https://assets-global.website-files.com/5f749e4b9399c80b5e421384/611786cfd8c4835e22692a94_AI%20powerplant_thumbnail.gif"
-        width: 342
-        height: 208
-        isCached: true
-
-secured: "g3951mmI0HsJfL/wEa6sCP3irJjJuxb30Bz4zSaTYlQzR3M4pDIxxtkTnAW1YrWQDzodoBkiW9ThPIPHW8eY4X6636XDkjLe81Q99byb1PuT/mvqsGvHA3Cl0lR1/FO+WmilKzqmKsgJXRUteobVjajgXl/xNqleqrI0I8k/d2N3pDJXnkErBiyrF4HMC/ECowheD4VyCpm1RdbkuJC1p1UjAWIjHebTmmYCQnTSfWPBMJxyGL8PWUX2VNjM4nPY0WDc0d0gzZ/1GKTKy79yJLeah4wkLEHC4t+pmjGit7q4GMwocKqYguMW/WN+94G9pjEmvkmLlEi2DyE9efVLBaGzd4txOONbEM9ODLeIp6U=;tpL0E2fzn20VztBrEQyqUQ=="
+secured: "2bbiTbT8VqoQFJGGwDfgmrjCbvNTs+ClqIVB1KwtC0BRQJy1z0wNiKw1Ne2Bc3C1UWGXa6oPTMiEMsJolt2LzWGTN3mOr8AdUU7q0yLTIenJ5v5xVLnBhd75JyLgdQUYJ/GS7KqV3pZYbJcVYpoH/1Mhgr5j5TXn17tpUdCDEItsmaVzEcIVpNIXeKxyOixqlFcLio0kJSjFVmluofn4+TM9maPWooNTidh4G3IMfJtsF/OUkW757Egn4STTxVpYdq7IWR7FqCpQyw898NEFiorJas11is5yKLRPqtGzC4ySn5VRNgMUoSHuVQiXrbKh5vlxLnffLKU457M6N9klZYM2Uhfki3s1sKXNDZcO2784JDy6msm5jjf2q2x/y67Al9pItTUuAKor/98Ov0PCLEuVrZoMuK0gjVgsKXUltZ6XTY3e8WZaDaur5xhUbPxxVswWpI7TjqGRzi7qqRhIdhF67F3dmloIxm3s9kxsZRvVDP34OkWobLIIzPoEHGxh2L0bNWn9z4goRjd2FOVq8A==;j2AzVuAcUHCaS9QEYsVj8g=="
 ---
 

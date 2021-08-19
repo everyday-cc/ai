@@ -2,6 +2,415 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2021-07-28-design-for-responsible-ai-with-microsofts-hax.md",
+      "title": "Design for responsible AI with Microsoft’s HAX",
+      "excerpt": "At the heart of HAX is a set of guidelines built from 18 best practices that you can use to guide interactions between users and your systems. They’re presente",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3626696/design-for-responsible-ai-with-microsoft-hax.html",
+      "originalUrl": "https://www.infoworld.com/article/3626696/design-for-responsible-ai-with-microsoft-hax.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-28T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-politico-ai-decoded-algorithmic-transparency-germany-on-facial-recognition-ethical-deep-fakes.md",
+      "title": "POLITICO AI: Decoded: Algorithmic transparency — Germany on facial recognition — Ethical deep fakes?",
+      "excerpt": "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-algorithmic-transparency-germany-on-facial-recognition-ethical-deep-fakes/",
+      "originalUrl": "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-algorithmic-transparency-germany-on-facial-recognition-ethical-deep-fakes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/wp-content/uploads/2021/04/01/AI-Decoded.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-algorithmic-transparency-germany-on-facial-recognition-ethical-deep-fakes/amp/",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-algorithmic-transparency-germany-on-facial-recognition-ethical-deep-fakes/amp/",
+      "publishedDateTime": "2021-07-28T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "POLITICO",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Computer Vision",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-how-fintech-can-harness-the-power-of-aws-aiml.md",
+      "title": "How Fintech can harness the power of AWS AI/ML",
+      "excerpt": "Arun Kumar Lokanatha, AI/ ML Specialist Solutions Architect, AISPL, will discuss different AWS services, such as Amazon Textract, Amazon Rekognition, Amazon Comprehend, Amazon Sagemaker and Amazon ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2021/07/fintech-harness-power-aws-ai-ml/amp",
+      "originalUrl": "https://yourstory.com/2021/07/fintech-harness-power-aws-ai-ml/amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/2d86ed30b28211e8b2e7114aea10c711/Imagetht2-1627460868024.jpg ",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/2021/07/fintech-harness-power-aws-ai-ml/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/07/fintech-harness-power-aws-ai-ml/amp",
+      "publishedDateTime": "2021-07-28T01:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-australias-digital-minister-avoiding-legislating-ai-ethics-and-will-remain-voluntary-framework.md",
+      "title": "Australia's digital minister avoiding legislating AI ethics and will remain voluntary framework",
+      "excerpt": "Minister for Superannuation, Financial Services and the Digital Economy Jane Hume said she's reluctant for the country's AI ethics framework to be more than a voluntary program.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/australias-digital-minister-avoiding-turning-ai-ethics-framework-into-a-legislated-program/",
+      "originalUrl": "https://www.zdnet.com/article/australias-digital-minister-avoiding-turning-ai-ethics-framework-into-a-legislated-program/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/australias-digital-minister-avoiding-turning-ai-ethics-framework-into-a-legislated-program/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/australias-digital-minister-avoiding-turning-ai-ethics-framework-into-a-legislated-program/",
+      "publishedDateTime": "2021-07-28T01:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-our-quantum-processor-at-the-deutsches-museum.md",
+      "title": "Our quantum processor at the Deutsches Museum",
+      "excerpt": "In 2019, our Quantum AI team achieved a beyond-classical computation by outperforming the world’s fastest classical computer. Today, a quantum processor from the Sycamore generation that accomplished this important computing milestone will be donated to the Deutsches Museum of Masterpieces of Science",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/our-quantum-processor-deutsches-museum/",
+      "originalUrl": "https://blog.google/technology/ai/our-quantum-processor-deutsches-museum/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/20210726-150-_Safe_Agency-Max_Hofstetter.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 866,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/our-quantum-processor-deutsches-museum/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/our-quantum-processor-deutsches-museum/amp/",
+      "publishedDateTime": "2021-07-28T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-with-computer-vision-bzigo-creates-iron-dome-against-mosquitos.md",
+      "title": "With computer vision, Bzigo creates ‘Iron Dome’ against mosquitos",
+      "excerpt": "Israeli startup's tech doesn't kill the pests, just pinpoints them with laser light and alerts your smartphone",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesofisrael.com/with-computer-vision-bzigo-creates-iron-dome-against-mosquitos/",
+      "originalUrl": "https://www.timesofisrael.com/with-computer-vision-bzigo-creates-iron-dome-against-mosquitos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.timesofisrael.com/www/uploads/2021/07/Bzigo_From_Behind-e1627155186683-640x400.jpg",
+          "width": 640,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesofisrael.com/with-computer-vision-bzigo-creates-iron-dome-against-mosquitos/amp/",
+      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/with-computer-vision-bzigo-creates-iron-dome-against-mosquitos/amp/",
+      "publishedDateTime": "2021-07-28T00:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times of Israel",
+        "domain": "timesofisrael.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-computer-science-course-listing.md",
+      "title": "Computer Science Course Listing",
+      "excerpt": "and object recognition. An advanced course in computer graphics for students familiar with basic issues in computer graphics. Details on hidden line and surface removal. 2D and 3D curve and surface generation, rendering, illumination, and color models ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.uml.edu/Catalog/Undergraduate/Sciences/Departments/Computer-Science/Course-Listing.aspx",
+      "originalUrl": "https://www.uml.edu/Catalog/Undergraduate/Sciences/Departments/Computer-Science/Course-Listing.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.uml.edu/Images/Allen-House-river-1400_tcm18-197005.jpg?w=x",
+          "width": 1400,
+          "height": 1050,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-28T00:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UMass Lowell",
+        "domain": "uml.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-why-we-need-engineers-who-study-ethics-as-much-as-maths.md",
+      "title": "Why we need engineers who study ethics as much as maths",
+      "excerpt": "The Miami apartment collapse is a grim reminder of why engineering matters, and why engineering trainees should study ethics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.studyinternational.com/news/study-ethics/",
+      "originalUrl": "https://www.studyinternational.com/news/study-ethics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.studyinternational.com/wp-content/uploads/2021/07/000_9EU6FK-1024x683.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-27T23:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Study International",
+        "domain": "studyinternational.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-startups-combat-fintech-challenges-heres-how.md",
+      "title": "Startups Combat Fintech Challenges: Here's How",
+      "excerpt": "Fintech business model is facilitating a unique and seamless compliance management system that allows the business owners to go through the massive data and make better decisions in their business pro",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/378593",
+      "originalUrl": "https://www.entrepreneur.com/article/378593",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1627452044-mark-oflynn-bqjswIxbhEE-unsplash.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/378593",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/378593",
+      "publishedDateTime": "2021-07-27T23:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-28-chipmaker-ampere-to-acquire-ai-startup-onspecta.md",
       "title": "Chipmaker Ampere to acquire AI startup OnSpecta",
       "excerpt": "Chipmaker Ampere on Wednesday announced its plan to acquire OnSpecta, a startup whose software accelerates AI inference workloads in the cloud and the edge. The terms of the deal were not disclosed. OnSpecta,",
@@ -706,423 +1115,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-qualcomm-stakes-beachhead-in-artificial-intelligence-with-foxconn-gloria-ai-edge-box.md",
-      "title": "Qualcomm Stakes Beachhead In Artificial Intelligence With Foxconn Gloria AI Edge Box",
-      "excerpt": "Powered by Qualcomm’s Cloud AI 100 solution, the system is design to support up to 24 high-definition cameras for video analytics applications like traffic analysis, security monitoring and smart retail spaces.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davealtavilla/2021/07/27/qualcomm-stakes-beachhead-in-artificial-intelligence-with-foxconn-gloria-ai-edge-box/",
-      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2021/07/27/qualcomm-stakes-beachhead-in-artificial-intelligence-with-foxconn-gloria-ai-edge-box/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6100677707201bbe17a32370%2F0x0.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2021/07/27/qualcomm-stakes-beachhead-in-artificial-intelligence-with-foxconn-gloria-ai-edge-box/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2021/07/27/qualcomm-stakes-beachhead-in-artificial-intelligence-with-foxconn-gloria-ai-edge-box/amp/",
-      "publishedDateTime": "2021-07-27T13:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-maines-facial-recognition-law-shows-bipartisan-support-for-protecting-privacy.md",
-      "title": "Maine’s Facial Recognition Law Shows Bipartisan Support for Protecting Privacy",
-      "excerpt": "Now it's up to Congress to pass legislation that will protect all people in the United States from invasive surveillance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aclu.org/news/privacy-technology/maines-facial-recognition-law-shows-bipartisan-support-for-protecting-privacy/",
-      "originalUrl": "https://www.aclu.org/news/privacy-technology/maines-facial-recognition-law-shows-bipartisan-support-for-protecting-privacy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.aclu.org/news/images/share/default_fb_share.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-27T12:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Aclu.org",
-        "domain": "aclu.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-facebooks-new-privacy-changes-for-instagrams-teen-users-met-with-both-praise-scrutiny.md",
-      "title": "Facebook's new privacy changes for Instagram's teen users met with both praise, scrutiny",
-      "excerpt": "Facebook introduces a slew of privacy changes for Instagram's teen users. While praised by some experts, others wonder will the changes actually work?",
-      "sourceUrl": null,
-      "webUrl": "https://www.azcentral.com/story/tech/2021/07/27/instagram-teen-safety-update-facebook-mark-zuckerberg/5381319001/",
-      "originalUrl": "https://www.azcentral.com/story/tech/2021/07/27/instagram-teen-safety-update-facebook-mark-zuckerberg/5381319001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2019/07/19/USAT/bd70cf9d-21ae-4a27-af30-bced9016eb48-GTY_586113554.JPG?auto=webp&crop=2999,1687,x0,y180&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.azcentral.com/amp/5381319001",
-      "cdnAmpWebUrl": "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5381319001",
-      "publishedDateTime": "2021-07-27T12:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Arizona Republic",
-        "domain": "azcentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-semiconductor-chips-small-tech-big-impact.md",
-      "title": "Semiconductor Chips: Small Tech, Big Impact",
-      "excerpt": "Other than a cellphone or computer, it might have been difficult to believe before that something as small as a computer chip figures so prominently in our everyday lives. Or how the lack thereof could bring entire industries to a virtual standstill.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/traceywelsonrossman/2021/07/27/semiconductor-chips-small-tech-big-impact/",
-      "originalUrl": "https://www.forbes.com/sites/traceywelsonrossman/2021/07/27/semiconductor-chips-small-tech-big-impact/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61005af0c8732a73ff6bb6eb%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D440%26cropY1%3D58%26cropY2%3D306",
-          "width": 440,
-          "height": 248,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/traceywelsonrossman/2021/07/27/semiconductor-chips-small-tech-big-impact/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traceywelsonrossman/2021/07/27/semiconductor-chips-small-tech-big-impact/amp/",
-      "publishedDateTime": "2021-07-27T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-ai-the-new-teachers-pet.md",
-      "title": "AI: The New Teacher's Pet",
-      "excerpt": "artificial intelligence. Today’s Daily Dose takes you through the exciting new ways technology is set to mold education in the years to come. We look at how it can ease stress, save time and put ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ozy.com/%25section%25/ai-the-new-teachers-pet/437881/",
-      "originalUrl": "https://www.ozy.com/%25section%25/ai-the-new-teachers-pet/437881/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.ozy.com/ozy-prod/2021/07/gettyimages-1255011442-copy.jpg?width=1200&height=630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-27T10:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "OZY",
-        "domain": "ozy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-ai-infrastructure-market-worth-793-billion-by-2026-at-a-cagr-of-273.md",
-      "title": "AI Infrastructure Market worth $79.3 billion by 2026, at a CAGR of 27.3%",
-      "excerpt": "Browse 169 market data Tables and 60 Figres spread through 238 Pages and in-depth TOC on \"AI Infrastructure Market with COVID-19 Impact Analysis and Region - Global Forecast to 2026\" View detailed Table of Content here -  Hardware to account for the largest share of AI infrastructure market in 2021 The hardware segment is sub-segmented into a processor,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-infrastructure-market-worth-793-billion-by-2026-at-a-cagr-of-273-2021-07-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-infrastructure-market-worth-793-billion-by-2026-at-a-cagr-of-273-2021-07-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-27T10:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-interview-robotics-and-ai-inspire-new-orchestral-piece.md",
-      "title": "INTERVIEW: Robotics and AI inspire new orchestral piece",
-      "excerpt": "It’s not everyday that a new orchestral piece comes around that has been inspired by robotics, artificial intelligence and the relationship between humans and inanimates, but that’s exactly what listeners can expect when taking in the sounds of Lim Fantasy of Companionship for Piano & Orchestra.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hollywoodsoapbox.com/interview-robotics-and-ai-inspire-new-orchestral-piece/",
-      "originalUrl": "https://www.hollywoodsoapbox.com/interview-robotics-and-ai-inspire-new-orchestral-piece/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hollywoodsoapbox.com/wp-content/uploads/2021/07/Screen-Shot-2021-07-27-at-12.56.20-PM-e1627405060734.png",
-          "width": 800,
-          "height": 532,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-27T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "hollywoodsoapbox.com",
-        "domain": "hollywoodsoapbox.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-ai-in-healthcare-market-is-booming-worldwide-with-google-ibm-microsoft-sentrian.md",
-      "title": "AI in Healthcare Market Is Booming Worldwide with Google, IBM, Microsoft, Sentrian",
-      "excerpt": "The Global AI in Healthcare Market has witnessed continuous growth in the past few years and may grow further during the forecast period 2021 2026 A Latest intelligence report published by AMA Research with title AI in Healthcare Market Outlook",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2338927/ai-in-healthcare-market-is-booming-worldwide-with-google-ibm",
-      "originalUrl": "https://www.openpr.com/news/2338927/ai-in-healthcare-market-is-booming-worldwide-with-google-ibm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/7/U727806452_g.jpg",
-          "width": 800,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2338927/ai-in-healthcare-market-is-booming-worldwide-with-google-ibm",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2338927/ai-in-healthcare-market-is-booming-worldwide-with-google-ibm",
-      "publishedDateTime": "2021-07-27T09:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-artificial-intelligence-in-structural-biology-is-here-to-stay.md",
-      "title": "Artificial intelligence in structural biology is here to stay",
-      "excerpt": "Machine learning will transform our understanding of protein folding. And it’s essential that all data be open.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/d41586-021-02037-0",
-      "originalUrl": "https://www.nature.com/articles/d41586-021-02037-0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-021-02037-0/d41586-021-02037-0_19391872.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-27T09:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

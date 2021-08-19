@@ -1,32 +1,25 @@
 ---
 category: news
 title: "Musk's 'AI Day' confronts tough questions about Tesla's technology"
-excerpt: "At Tesla's \"Autonomy Day\" event in April 2019, Chief Executive Elon Musk said that by mid-2020 Tesla (TSLA.O) would have over a million self-driving vehicles where riders \"could go to sleep\" during a trip."
-publishedDateTime: 2021-08-19T02:02:00Z
-originalUrl: "https://www.reuters.com/technology/musks-ai-day-confronts-tough-questions-about-teslas-technology-2021-08-18/"
-webUrl: "https://www.reuters.com/technology/musks-ai-day-confronts-tough-questions-about-teslas-technology-2021-08-18/"
+excerpt: "At Tesla's \"Autonomy Day\" event in April 2019, Chief Executive Elon Musk said that by mid-2020 Tesla TSLA.O would have over a million self-driving vehicles where riders \"could go to sleep\" during a trip."
+publishedDateTime: 2021-08-19T14:11:00Z
+originalUrl: "https://www.nasdaq.com/articles/musks-ai-day-confronts-tough-questions-about-teslas-technology-2021-08-19-0"
+webUrl: "https://www.nasdaq.com/articles/musks-ai-day-confronts-tough-questions-about-teslas-technology-2021-08-19-0"
+ampWebUrl: "https://www.nasdaq.com/articles/musks-ai-day-confronts-tough-questions-about-teslas-technology-2021-08-19-0?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/musks-ai-day-confronts-tough-questions-about-teslas-technology-2021-08-19-0?amp"
 type: article
-quality: 84
+quality: 86
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
+  - AI Hardware
   - AI
   - AI in Autos
-
-images:
-  - url: "https://www.reuters.com/resizer/gQCbWlBrk4aRoBGlrduiXWv8Rzo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2MB6UJWVB5KMZA545NR5FCANH4.jpg"
-    width: 1200
-    height: 628
-    isCached: true
 
 related:
   - title: "What to expect from Tesla’s AI day event"
@@ -174,6 +167,6 @@ related:
         height: 630
         isCached: true
 
-secured: "wyx42ZBGRoy3E81xeG9Czmjd0BOry7MRLd2H5SBOPZCUZhjC0AUcFy5Fpy9MuEKntIJBHnZ7D1l3fdI1O2EzolGDpj3XWekR5Ud2o1OOHhevPdDCLr4M1QMKM9SrHa4lw9ZrIWYJR7jG7VuYa25p/WCZFbkgp56K6K5eoC7xMMMjD2egpDkUuT2RkmYYoVO889zqSmsf25yhsXGrJ2HTfCXFbC66ofsPEVFS4a/PJB7jVTTNW5b2ERwqff4t1hdAxuIG90h6oghgxfpxJRUydJ+r+Nay6mUT3MONjbdo41Z9V1cFQP6Af3Zqw43LoaOwp6ghSA5bD2sBwWIAGMQdEACMCBxQN422ysfPwzd9N18=;XL8QmX9TIfmYSTO7utM9Yw=="
+secured: "xPsiLM6CQW575AOvLhFdNFzjstyH2qbxd1I8XZeTGPk6z7Fy8QYKHjDJJZI1CfIUd6j3VArF7/7tFKhpwBHKJv9XZE6VFMxRX54JqwHm01xIZgFw0QfnsDHarmtYao8unLhkDzq48W3450jsd/8qNMi7WUXKnrw4F371xJHAQFfJUV6rkB/wqdoNxqGdF9/u1OgKfw95kSlQ9ZACVbhbrpUrioqgyHu1ivGnKTahVQ9obQ9+vPeNeTbam3MfgLLbmGrWlIHRbnsV+kAZCnlrrKzDmzpO8USupE33MMAxfMME9sB+B9ruQhqatAAK42Hsh9kXSuPV/iOr7GpmP7zeGEQcOPTQDO+gkmydKlLyhvnlxz3LxjvcWT7GmOAqAlqrUsEV2CFqUXuQIrrAFTy7LmPkTQ+tYtutuKetAhYMQY8OjUn1ytjyYNzulkHJ7X4YcDU/2B5ZGXYVUCTM/3f3GU1oO95mPCZdUCa3ZcMlDG8M1AjK8FrpaHW5iDS0yeWQLIxuEd/KPX4Ry19TwvqCJw==;F1S7Ecl+s4JEPGutdMMx8Q=="
 ---
 

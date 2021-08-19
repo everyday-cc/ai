@@ -2,6 +2,142 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-17-wipro-unveils-wipro-aws-launch-pad-co-innovation-center-in-sao-paulo.md",
+      "title": "Wipro unveils Wipro AWS Launch Pad co-innovation center in São Paulo",
+      "excerpt": "Wipro Limited on Tuesday, August 17, 2021, unveiled the Wipro AWS Launch Pad co-innovation center in São Paulo.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/business/wipro-unveils-wipro-aws-launch-pad-co-innovation-center-in-so-paulo-702070",
+      "originalUrl": "https://www.thehansindia.com/business/wipro-unveils-wipro-aws-launch-pad-co-innovation-center-in-so-paulo-702070",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2021/08/17/1102565-wipro-aws.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/business/wipro-unveils-wipro-aws-launch-pad-co-innovation-center-in-so-paulo-702070",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/business/wipro-unveils-wipro-aws-launch-pad-co-innovation-center-in-so-paulo-702070",
+      "publishedDateTime": "2021-08-17T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-conga-buys-ai-startup-that-helps-companies-understand-how-contracts-will-affect-revenue.md",
+      "title": "Conga buys AI startup that helps companies understand how contracts will affect revenue",
+      "excerpt": "Revenue operations company AppExtremes LLC, which does business as Conga, is boosting its contract management capabilities by acquiring a startup called Contract Wrangler Inc. for an undisclosed price.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2021/08/17/conga-buys-ai-startup-helps-companies-understand-contracts-will-impact-revenue/",
+      "originalUrl": "https://siliconangle.com/2021/08/17/conga-buys-ai-startup-helps-companies-understand-contracts-will-impact-revenue/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/writing-1149962_1920.jpg",
+          "width": 1920,
+          "height": 1281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-17T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-when-your-teacher-is-an-ai-avatar.md",
+      "title": "When your teacher is an AI avatar",
+      "excerpt": "Natalie Monbiot, head of strategy at Hour One, explains to Tonya Hall how digital avatars could expand the reach of online education.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/video/when-your-teacher-is-an-ai-avatar/",
+      "originalUrl": "https://www.zdnet.com/video/when-your-teacher-is-an-ai-avatar/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/r/2021/08/17/7a1c3acf-bd9b-49cf-b428-a124026eb375/thumbnail/770x578/cf74f2a944f82fd6bc4128ea1210553f/thumb.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-17T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-17-intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal.md",
       "title": "Intel’s Habana starts to chip away at Nvidia in cloud with AWS deal",
       "excerpt": "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading on FintechZoom",
@@ -1105,143 +1241,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-milk-allergy-that-can-make-a-bubble-bath-lethal-teenagers-experience-has-led-experts-to-call-for-cosmetic-products-to-carry-ingredient-warnings.md",
-      "title": "Milk allergy that can make a bubble bath lethal: Teenager's experience has led experts to call for cosmetic products to carry ingredient warnings",
-      "excerpt": "She had been given the bath bomb for Christmas and although she checked the label before using it, she failed to spot ... people have heard of nut allergies but tend to think milk allergy is mild ...",
-      "sourceUrl": null,
-      "webUrl": "https://alzheimersnewstoday.com/2021/08/17/altoida-device-indicate-alzheimers-adults-mild-dementia-fda-breakthrough-status/",
-      "originalUrl": "https://www.dailymail.co.uk/health/article-9898971/Milk-allergy-make-bubble-bath-lethal.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://alzheimersnewstoday.com/wp-content/uploads/2021/08/Tablet.png",
-          "width": 700,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-16T16:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-researchers-fooled-ai-into-ignoring-stop-signs-using-a-cheap-projector.md",
-      "title": "Researchers fooled AI into ignoring stop signs using a cheap projector",
-      "excerpt": "A team of researchers demonstrated a novel attack on AI vision systems using nothing but a laptop and a projector. What does this mean for driverless cars?",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/researchers-tricked-ai-ignoring-stop-signs-using-cheap-projector",
-      "originalUrl": "https://thenextweb.com/news/researchers-tricked-ai-ignoring-stop-signs-using-cheap-projector",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2Fstopattack.jpg&signature=3ff95e62e62b4f1c42d18ca4e0b2b0d3",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-16T11:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-sales-fintech-seismic-pushes-valuation-to-3-billion.md",
-      "title": "Sales fintech Seismic pushes valuation to $3 billion",
-      "excerpt": "Seismic, a fintech designed to personalize sales interactions, doubled its valuation in a year after fresh funding and a new acquisition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.investmentnews.com/sales-fintech-seismic-pushes-valuation-to-3-billion-210373",
-      "originalUrl": "https://www.investmentnews.com/sales-fintech-seismic-pushes-valuation-to-3-billion-210373",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s32566.pcdn.co/wp-content/uploads/2021/07/applovin-Tech-social-digital-mobile-.jpeg.optimal.jpeg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.investmentnews.com/sales-fintech-seismic-pushes-valuation-to-3-billion-210373/amp",
-      "cdnAmpWebUrl": "https://www-investmentnews-com.cdn.ampproject.org/c/s/www.investmentnews.com/sales-fintech-seismic-pushes-valuation-to-3-billion-210373/amp",
-      "publishedDateTime": "2021-08-16T11:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestmentNews",
-        "domain": "investmentnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

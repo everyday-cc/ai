@@ -7,7 +7,7 @@ originalUrl: "https://www.hydropower.org/case-study/ai-power-plant"
 webUrl: "https://www.hydropower.org/case-study/ai-power-plant"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,20 +25,70 @@ images:
     isCached: true
 
 related:
-  - title: "The head of quantum computing at Chinese search giant Baidu explains how the tech will play a 'key role' in making AI more powerful"
-    excerpt: "China is investing heavily in quantum computing, and the race is on for giants like Baidu, Alibaba, and Tencent. Baidu is focusing on using it for AI."
-    publishedDateTime: 2021-08-19T13:30:00Z
-    webUrl: "https://www.businessinsider.com/baidu-quantum-computing-head-technology-2021-8"
+  - title: "Young Chinese Turn to Artificial Intelligence for Online Romance"
+    excerpt: "Xiaoice is the most eligible bachelorette in China. Despite having millions of boyfriends, she is always open to new suitors.She also happens to be an artificial intelligence-driven chat bot.A conversation between Milly Zhang and her AI boyfriend,"
+    publishedDateTime: 2021-08-15T11:21:00Z
+    webUrl: "https://vietreader.com/world/48514-young-chinese-turn-to-artificial-intelligence-for-online-romance.html"
+    ampWebUrl: "https://m.vietreader.com/world/48514-young-chinese-turn-to-artificial-intelligence-for-online-romance/amp.html"
+    cdnAmpWebUrl: "https://m-vietreader-com.cdn.ampproject.org/c/s/m.vietreader.com/world/48514-young-chinese-turn-to-artificial-intelligence-for-online-romance/amp.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
+      name: vietreader.com
+      domain: vietreader.com
+    quality: 59
     images:
-      - url: "https://i.insider.com/6116a207c040ad0018ce3837?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://cdn.vietreader.com/uploads/posts/2021-08/world_young-chinese-turn-to-artificial-intelligence-for-online-romance-2.jpg"
+        width: 750
+        height: 500
         isCached: true
+  - title: "Tech Giants Turn To AI For Chip Design"
+    excerpt: "As the world reels under acute chip shortage, using AI and machine learning techniques for chip design seems to be a possible solution."
+    publishedDateTime: 2021-08-18T10:30:00Z
+    webUrl: "https://analyticsindiamag.com/tech-giants-turn-to-ai-for-chip-design/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/Chip_AIM.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "Chinese search engine Baidu launches a US dollar bond, despite crackdown"
+    excerpt: "Baidu Inc, a Chinese internet behemoth, is approaching financial markets with a two-tranche, US dollar sustainability bond, which"
+    publishedDateTime: 2021-08-18T14:00:00Z
+    webUrl: "https://techstory.in/chinese-search-engine-baidu-launches-a-us-dollar-bond-despite-crackdown/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 38
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2016/04/Baidu.jpg"
+        width: 1199
+        height: 798
+        isCached: true
+  - title: "Lonely hearts in China reboot online romance with AI"
+    excerpt: "China's young adults are coping with social anxiety and loneliness in a digital-native way: through virtual love. Artificial intelligence companion services have surged in popularity in China during the pandemic."
+    publishedDateTime: 2021-08-16T13:00:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/lonely-hearts-in-china-reboot-online-romance-with-ai/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/lonely-hearts-in-china-reboot-online-romance-with-ai/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/lonely-hearts-in-china-reboot-online-romance-with-ai/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
+  - title: "SoftBank co-leads Chinese self-driving vehicle firm’s series B round"
+    excerpt: "To date, Neolix has deployed and delivered nearly 1,000 autonomous vehicles in nine countries and over 30 cities worldwide."
+    publishedDateTime: 2021-08-18T05:16:00Z
+    webUrl: "https://www.techinasia.com/softbank-coleads-series-chinese-selfdriving-vehicle-firm"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 34
 
 secured: "fo3BZ6ZU6E2fldh4hMxdO5Bo8nmzEBd+Kh8dkQm9x8YpPGUo9A8uwDR+VBPO/YDlS6Mlew4uPEKFGbWLmXXa3IYFKrrziZwP9EbKbuSGzSS209HSdUb0MLI0bA/zqb/dGjMQtj7CXPiLMTE7lilI/06VFCw3LXx8Son6ouI35wujwmJOb3GjpwX1a1tijAvrA10IttCt8LGAAEq4kJ7F2U66sMFFhnov+ByOPsIAGppTC9FgnFy6tlOyKRduM8rMP9bh+vK6or3oNYzzgISJZhcuCucBn75nDAC/86xOOHy2hSecMSSjrEyCSmRPa8r66nU23mQBwOmg7PAD1CmISalJ1AhvB/fdLTLvaHyYNoU=;jQum3dyhQn0JtfhdIYqmmQ=="
 ---
