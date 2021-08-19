@@ -98,6 +98,20 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 39
+  - title: "Qualcomm Boosts Drone Utility with 5G and AI-enabled Drone Platform"
+    excerpt: "New Qualcomm solution features heterogeneous, low-power computing and camera systems with AI, plus long-range connectivity such as 5G, and Wi-Fi 6."
+    publishedDateTime: 2021-08-19T01:09:00Z
+    webUrl: "https://www.eetindia.co.in/qualcomm-boosts-drone-utility-with-5g-and-ai-enabled-drone-platform/"
+    type: article
+    provider:
+      name: eetindia.co.in
+      domain: eetindia.co.in
+    quality: 39
+    images:
+      - url: "https://www.eetindia.co.in/wp-content/uploads/sites/4/2021/08/qualcomm-qualcomm-flight-rb5-5g-platform-1.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Qualcomm unveils its next-generation 5G AI drone platform"
     excerpt: "Qualcomm Technologies Inc. has unveiled a new reference design for drones that integrates 5G and artificial intelligence. The chipmaker said today it’s aiming to replicate the success of the experimental Ingenuity Helicopter that recently visited Mars,"
     publishedDateTime: 2021-08-18T03:46:00Z

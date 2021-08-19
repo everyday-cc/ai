@@ -3,8 +3,8 @@ category: news
 title: "African languages to get more bespoke scientific terms"
 excerpt: "Many words common to science have never been written in African languages. Now, researchers from across Africa are changing that."
 publishedDateTime: 2021-08-18T19:28:00Z
-originalUrl: "https://www.nature.com/articles/d41586-021-02218-x"
-webUrl: "https://www.nature.com/articles/d41586-021-02218-x"
+originalUrl: "https://www.nature.com/articles/d41586-021-02218-x?error=cookies_not_supported&code=b494e1b2-a6e5-4d59-b72a-66880a8578f9"
+webUrl: "https://www.nature.com/articles/d41586-021-02218-x?error=cookies_not_supported&code=b494e1b2-a6e5-4d59-b72a-66880a8578f9"
 type: article
 quality: 24
 heat: 24
@@ -24,6 +24,6 @@ images:
     height: 576
     isCached: true
 
-secured: "DCe5ldtlGUen9zlrvpsuIUozgbOtm+vBsUvrZajxJHJPpWfd6RhuGxwR4IfLPlCsbw/TYYpR3XnNEAeQLRwvfwuui4d2ei9pNGbzJ4R8Z0SOwHoPRTT+Pc/FAX7lLR9GK5TGk/T/Wj/0dOFS+kTl75qI1bv/aniWiWkYhQvgI711x8ayFgG9k2e/b+GfhSjSdx5xK2Eoc7aoKkGuMWpnIEkPivqTOOQTQVdXgkXUmUTVOnlmYDOXAh12q0Qy6x/VZcWGyA4jQoCmBCNO49HWVGwZPWES0caB8mbh+AbUhdmW7NTY8SZX1ilpim8KtRTnD9lvsp35uGl8B5TV8ZPfolwYLykWOy4d8i7SA8qIegyLg4kwvtgL0xkDvsbH2lMPr2oJCMUaNRrg2HCM+wKqHBrcHh77PKnjnCajaT2QI8jejRF70ks/B7a+iMv9aftUzncWWjbWtgmpZ3JcrrM8q7+JKEv47SyswyOCBDT+Nw+SenCwBFE+oBPM5qT1RdIWljnWNpg+YK1m5k9gk56Oxg==;f4tkFeGBogfReP6ELCtDsQ=="
+secured: "PN4QDN+s2PRDAnyy5LAsACkyV+eR7dYxgoH/snngRXhYG9ynFbSo2VHkLqnV6mrN82NXfKdGbAH5BJPxi98JabWbr0Rem+P0wnFKN/p0JswjTdiT5vkxSMhzSLhZrqvcnWj4a+LLqJrwLQNY+3w6ScdVw1MnCsKydVHUM/C/wwKpoPft1HKhFNowuqm4xKx1L93xwboGgDmfBWv06P2/SyT0E+XzoNe1UAROieCGK1TygA/ox8qfgfWAik1dN7UKyrtXCLJHKMYxSmGLNY9rXKoGSkgO2tlJzp+6MvFSTPNJ0ei7MAlBvYGDN7cqwj78mBS9ZB60cieu9JT6SoK2KTILG9bu6lkOu5kqPxYuce0=;+wUu77n3ApFJPfVSkJMjAw=="
 ---
 

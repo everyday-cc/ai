@@ -3,11 +3,11 @@ category: news
 title: "Is AI Coming for Your Dev Job or Not? A Tale of Two Surveys"
 excerpt: "The long-simmering issue was revisited following the recent unveiling of GitHub Copilot, an advanced AI system that acts like a \"pair programmer\" by suggesting whole-line code completions and much more."
 publishedDateTime: 2021-08-18T21:57:00Z
-originalUrl: "https://visualstudiomagazine.com/articles/2021/08/18/robot-jobs.aspx"
-webUrl: "https://visualstudiomagazine.com/articles/2021/08/18/robot-jobs.aspx"
+originalUrl: "https://visualstudiomagazine.com/Articles/2021/08/18/robot-jobs.aspx?p=1"
+webUrl: "https://visualstudiomagazine.com/Articles/2021/08/18/robot-jobs.aspx?p=1"
 type: article
-quality: 39
-heat: 39
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -15,7 +15,6 @@ provider:
   domain: visualstudiomagazine.com
 
 topics:
-  - Microsoft AI
   - AI
 
 images:
@@ -24,6 +23,6 @@ images:
     height: 450
     isCached: true
 
-secured: "OgPuOwBJrnAzY6FRx8Nm89hM80GqSzK4OQAC3DU3J5rlXxCo4OVQggTLEDt6eu1J4ztup5DmCWXdpKpT7rZqP/0aEGzYyOYFxugBQqh8YlVi7YOSnkSFIs9fEmf51KQQd19iXEHa79bNgG3LW6bWL0hcy2Y83d9ERqt2R2urUgmzYsH2zYbWongwIpkQl1nVARDYVSuNWSxdeaMLG0xzYGqTjb03zTbs2AHExGiGSCqYJDPgm1oKPte6PTcnCz/4yz7irRL7to5c7ee+HAtdsPMKardO+3DICPQLnI7GV7NSzxHiQMl+PmhgpGsBO7aShI43dDjYhZwIkPRwRbSqkQamwpwsCEeuxQiK/K52zEc=;ngZ1FiLdAOrXlwiMbPKBrg=="
+secured: "QKItbomPGGqTVTJ8aWl0tfG4MQi8SOOBGoz6ZbYbh58mybV8fQHE14NKkGDJ7yPJHXa8tw0GLjbPq5g+42QIhHRvd0+727Qo08uXGq3VIirsRmVkeBHFccYibQMLtl+GjMYkBbCpiM9fhHxyJoD41LZ/JK4y6pvd76IsbKtaxyw7gsqsmpNUDcdaxCvPZKampn2vilMpN8e3U3PV04OvUub1zE7LM1alGJRJ7cvo5Ei8+LN5B7tXNECK2fbUXunHjF4SV8qOHIjVJn+LCj0U1Q1IMkEmRF+nN6PBhtqb1+dF2HuWdiNvIi/ENg5E+iZQ6byIMihhRpdPS1kRNgD1Tf3OHjziSrgkuvZYy+p3Txc=;eoXHX0WH5a3eycyLngPetw=="
 ---
 

@@ -85,22 +85,6 @@ related:
         width: 800
         height: 385
         isCached: true
-  - title: "Artificial Intelligence (AI) in Social Media Market Revenue, Growth Factors, Trends, Key Companies, Forecast To 2027"
-    excerpt: "The Global  Market Forecast to 2028 published by Reports and Data provides a holistic overview of the Artificial Intelligence (AI) in S"
-    publishedDateTime: 2021-08-14T07:33:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-social-media-market-revenue-growth-factors-trends-key-companies-forecast-to-2027/"
-    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-social-media-market-revenue-growth-factors-trends-key-companies-forecast-to-2027/"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-in-social-media-market-revenue-growth-factors-trends-key-companies-forecast-to-2027/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 51
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/7-13.jpg"
-        width: 750
-        height: 350
-        isCached: true
   - title: "Artificial Intelligence in Energy Market Recent Trends, Future Growth, Industry Analysis, Outlook, Insights, Share and Forecasts Report 2028"
     excerpt: "The global Artificial Intelligence in energy market is expected to reach a market size of USD 20.83 Billion at a steady CAGR of 23.6% in 2028, according to latest analysis by Emergen Research. This steady revenue growth can be attributed to increasing need to obtain operational efficiency to meet energy requirements."
     publishedDateTime: 2021-08-18T08:24:00Z

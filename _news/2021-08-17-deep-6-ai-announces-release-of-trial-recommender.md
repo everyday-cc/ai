@@ -2,22 +2,28 @@
 category: news
 title: "Deep 6 AI Announces Release of Trial Recommender"
 excerpt: "Deep 6 AI today announced the addition of Trial Recommender to its industry-leading artificial intelligence (AI)-driven clinical trial acceleration platform. Addressing a major gap in traditional patient recruitment,"
-publishedDateTime: 2021-08-17T13:17:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-deep-6-ai-announces-release-trial-recommender-/2021/08/17/9432271.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-deep-6-ai-announces-release-trial-recommender-/2021/08/17/9432271.htm"
+publishedDateTime: 2021-08-17T13:03:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-health-bbc477d60e474a5aa011a0d5bbf54fd1"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-health-bbc477d60e474a5aa011a0d5bbf54fd1"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "3C/bPcdfwkskIaMFA1gHWXAC2vc1tZC/y73B0XE4GMy0hCatD5OcRzQDs5K0zlblBg85PBsaiPps9qNjyk8v980E+5b6jEIWxagvA6RYbjI/VNovJ2IPc20vlKW3vlo2BtNLjNhqs7Bne8aPSMiA8E0ZF2wB/U4ffC6Pfs3KbzFp9VjW2xiiUtTfFoyRTVuJop9DsaATJtcYAHKDOH2x8jkhqETz+jZmUuRYhs1lfcLFJAJAIdOo6HdFHiHc+pNhXwla8ILl1aXRyQ252r/I4ZGVxKJ+dEYKvnR5glC7PNSW9rpPSdbeesIKr/nPyDOlQAGuAjs6YlYR8v3rUV3Ilm/1/NsJrjeUiiL/4RZdC/U=;Cdstih/P41kDDSqGJ03/Mg=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "+iRofcNGwaXRDlzlb5Aa1ZlJn0ypPKyPZC8hO6vN49o6TFJkFWVVbNB8il5OvBTTI/etbWaIYXHcQE/aub0pUBh5OBhJMu4Wmkyu+h2mZOIg0jou8uEKV3MG5w/rLv3FJqVCLsBKmnWlFn0ZrheKUF46MlVVZWxz5GxGzbIv296ms8n6GZWJixAuw2pJuNJn7ZTIic8xEMxcKX31wPT/EbmKJcyKCYGEAddQSnJNBtXrCvmuztLnK6z/B5HjFYOu5KZQ0kGZqBSM56KqyhhIkFwLi8qRLXEJmijNUUnrmBngVKAaqcIw5kjvPiBbBocxWgw2coPwTK5OaXKKACF+gXePgNqe4bKFexnQ7fUfkm8=;Dw3j5jfs7TYLIWJ5SNnieQ=="
 ---
 

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "5 Best Artificial Intelligence Stocks To Invest In Right Now"
-excerpt: "Xnora.ai specializes in putting artificial intelligence on devices ... conviction in Alphabet‘s ‘moonshot’ bets (such as Waymo), substantial success in which would likely be required ..."
-publishedDateTime: 2021-08-10T14:20:00Z
-originalUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/?singlepage=1"
-webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/?singlepage=1"
+excerpt: "Alphabet Inc. (NASDAQ:GOOGL) ranks 4th on the list of 12 best artificial intelligence stocks to invest ... Alphabet‘s ‘moonshot’ bets (such as Waymo), substantial success in which would ..."
+publishedDateTime: 2021-08-10T14:18:00Z
+originalUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/2/"
+webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/2/"
 type: article
 
 provider:
@@ -14,7 +14,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-  - AI in Healthcare
 
 images:
   - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/06120633/Artificial-Intelligence-piqsels.com-id-jcurz.jpg"
@@ -22,6 +21,6 @@ images:
     height: 1044
     isCached: true
 
-secured: "dY7BVqYg9xF6y515xddceU9RKQWFsPg3TcCDKfI1REgyQnxLJ1OiJzCqrtDXXKHGfk9S4w3ongYZNCKWICPj3Mt2hKF0DkXRaOLyTMBKS0JsolnCgJYBCrTaOxPYSD2NBX/AnIP1qHkGW3bZ1XB/ISefecCNTFoS/TtMCopStSJwDqpZ7LzDv+odZSbCJum/tnBuSIsXuPFdT00L8yntW+kF3dBkzUAeLWZlsjMSPj0Z5Oq3gkRaS1AP5Wngl6IqkFOwQR/uzcW0hypcSNRaFL0lVGC3gkfKvxVQGhLB9bLegXjMfr7QI9vssdMoulZpftj+MbAtf81WlAJ/O/WHK9ABmazefoWcfDzo4/uwUf4=;iYgktvz9i+ASeHtkKOQnXw=="
+secured: "FLveO+4S+ATmT/ao2lZ0i1snumYru9GOiE7Hm8Ha9CrKzlOnJ8Z6JoYMOgSyyZVnkaMW88ilyu7Z7sm262t4SyT1FmKqRNecZkRi4+QpoNztmO6hjuCiMVDACkLl+XuFlA4dIXY8vsuy7vhASM4xlNc83MTk7LAdlsu1KINWiv5oRB2YxQqe5AFE+HC58/UpNAjKDbQgR4yl9Bo/B4IlMJASrqBjblEwRzxbNkT1qxElTX5NL84auwdtTlvNPYpytp6I4kg78XqlWe88yfJdYlWRDkL1fi44V/nKzEobvMNrmMRPZ2QQRjW0Oge0A9Ca0/mI54zLFaoIXRubphw8tL6DK+GToviWE9YZxoTF2HE=;TI6CJH4mZSbWtSUfydEacw=="
 ---
 

@@ -111,6 +111,20 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 39
+  - title: "Qualcomm Boosts Drone Utility with 5G and AI-enabled Drone Platform"
+    excerpt: "New Qualcomm solution features heterogeneous, low-power computing and camera systems with AI, plus long-range connectivity such as 5G, and Wi-Fi 6."
+    publishedDateTime: 2021-08-19T01:09:00Z
+    webUrl: "https://www.eetindia.co.in/qualcomm-boosts-drone-utility-with-5g-and-ai-enabled-drone-platform/"
+    type: article
+    provider:
+      name: eetindia.co.in
+      domain: eetindia.co.in
+    quality: 39
+    images:
+      - url: "https://www.eetindia.co.in/wp-content/uploads/sites/4/2021/08/qualcomm-qualcomm-flight-rb5-5g-platform-1.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "ModalAI Serves as Distributor for Qualcomm's World First 5G and AI-Enabled Drone Platform and Reference Design"
     excerpt: "ModalAI today announced it will be the manufacturer and distributor of Qualcomm ( News - Alert) Technologies' world first 5G and AI-enabled drone platform and reference design, the Qualcomm Flight™ RB5 5G Platform,"
     publishedDateTime: 2021-08-17T13:35:00Z
