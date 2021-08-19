@@ -17,7 +17,7 @@
       "twitter": {
         "username": "sougwen",
         "url": "https://twitter.com/sougwen",
-        "followers": 9010
+        "followers": 9013
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/sougwenchung/"
@@ -26,7 +26,7 @@
         "AI",
         "AI in Robotics"
       ],
-      "heat": 60,
+      "heat": 59,
       "tags": [
         "Artist"
       ],
@@ -86,7 +86,7 @@
             "AI",
             "AI in Robotics"
           ],
-          "heat": 60,
+          "heat": 59,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/654747413152821248/AAyCfd5Q_400x400.png",
@@ -120,7 +120,7 @@
         }
       ],
       "size": 3,
-      "heat": 60,
+      "heat": 59,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1218584329540063233/DkdIuybw_400x400.jpg",
@@ -146,7 +146,7 @@
       "twitter": {
         "username": "katecrawford",
         "url": "https://twitter.com/katecrawford",
-        "followers": 76587
+        "followers": 76590
       },
       "topics": [
         "AI"
@@ -295,14 +295,14 @@
       "twitter": {
         "username": "clmt",
         "url": "https://twitter.com/clmt",
-        "followers": 11024
+        "followers": 11026
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/clementfarabet"
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=u3u16tgAAAAJ",
-        "citations": 9100
+        "citations": 9109
       },
       "affiliation": {
         "path": "",
@@ -373,7 +373,7 @@
       "bio": "Michigan State University",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=g-_ZXGsAAAAJ",
-        "citations": 228037
+        "citations": 228098
       },
       "affiliation": {
         "path": "",
@@ -408,7 +408,7 @@
       "bio": "Professor of Computer Science, National Chiao Tung University",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=_0PCbyUAAAAJ",
-        "citations": 159328
+        "citations": 159514
       },
       "affiliation": {
         "path": "",
@@ -655,7 +655,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=Bgzrdc8AAAAJ",
-        "citations": 153221
+        "citations": 153281
       },
       "affiliation": {
         "path": "",
@@ -729,7 +729,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=GTtW9H0AAAAJ",
-        "citations": 144239
+        "citations": 144250
       },
       "affiliation": {
         "path": "",
@@ -763,7 +763,7 @@
       "bio": "Professor of EECS, UC Berkeley. Jitendra is known for his research in computer vision.",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=oY9R5YQAAAAJ",
-        "citations": 213433
+        "citations": 213507
       },
       "affiliation": {
         "path": "",
@@ -858,7 +858,7 @@
       "bio": "PhD Physics, Stanford University",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=_EPCKe0AAAAJ",
-        "citations": 199479
+        "citations": 199619
       },
       "affiliation": {
         "path": "",
@@ -1126,7 +1126,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=TwMib_QAAAAJ",
-        "citations": 151277
+        "citations": 151366
       },
       "affiliation": {
         "path": "",
