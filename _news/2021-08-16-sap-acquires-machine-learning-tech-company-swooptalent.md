@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Conga acquires AI contract risk platform"
+    excerpt: "Conga, tradename for AppExtremes LLC, a company engaged in end-to-end digital document transformation, has acquired Contract Wrangler Inc."
+    publishedDateTime: 2021-08-19T05:36:00Z
+    webUrl: "https://www.dailycamera.com/2021/08/18/conga-acquires-ai-contract-risk-platform"
+    ampWebUrl: "https://www.dailycamera.com/2021/08/18/conga-acquires-ai-contract-risk-platform/amp/"
+    cdnAmpWebUrl: "https://www-dailycamera-com.cdn.ampproject.org/c/s/www.dailycamera.com/2021/08/18/conga-acquires-ai-contract-risk-platform/amp/"
+    type: article
+    provider:
+      name: Daily Camera
+      domain: dailycamera.com
+    quality: 57
+    images:
+      - url: "https://www.dailycamera.com/wp-content/uploads/2019/08/RP40129.jpg?w=1024&#038;h=683"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "vXX0Iv3/9ucB3kvrOMdfNKvZMIzmQT7O993pfnNNIWldvl7oUbaGJ1nVg8YWXhmV6PPzvA/2UOXjgYc4vOKlQbSA1yd95XhdM2G7nX+RoMIAzlGFim2VSYKoXWo/xVlkdfjvtLkDawtlGmYbWZob5xo2ASqxqLERI+mrWFFgoe8DigJuhOG8Nm5A7NMalDqqZlbnroN8WcUHtqsdWn/oApMarA1NhFTy0PVUeWBHluTJyui0Lac2AQFzqCqPSLvJOVd/8Vazd+ScUTc5GFAzH+JcBlXEvwv7uqT2HcVl4QoPlsiAga4ns78sYvSaBh54YIFa3nJ5RolN/8mYvSsNMlmIY4bEid7wCdKlcOu2oLE=;kPnnK6T9ffeLv7VPIJqS+g=="
 ---

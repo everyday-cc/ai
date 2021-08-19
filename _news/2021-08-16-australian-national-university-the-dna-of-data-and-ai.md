@@ -35,31 +35,6 @@ related:
         width: 1000
         height: 500
         isCached: true
-  - title: "Deakin University, Australia, and KPMG in India associate to offer a Post Graduate Program in Artificial Intelligence and Deep Learning in India"
-    excerpt: "The adoption of artificial intelligence and deep learning to harness their transformative potential is becoming a key priority of most organizations."
-    publishedDateTime: 2021-08-18T08:30:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/deakin-university-australia-and-kpmg-in-india-associate-to-offer-a-post-graduate-program-in-artificial-intelligence-and-deep-learning-in-india-121081800643_1.html"
-    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/deakin-university-australia-and-kpmg-in-india-associate-to-offer-a-post-graduate-program-in-artificial-intelligence-and-deep-learning-in-india-121081800643_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/deakin-university-australia-and-kpmg-in-india-associate-to-offer-a-post-graduate-program-in-artificial-intelligence-and-deep-learning-in-india-121081800643_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 37
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-08/18/full/20210818114332.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Deakin University, Australia, and KPMG in India associate to offer a Post Graduate Program in Artificial Intelligence and Deep Learning in India"
-    excerpt: "KPMG in India, one of the market leaders in data science advisory services, has entered a Memorandum of Understanding with Deakin University, Australia, to offer a Post Graduate Industry Practitioner Programme in Artificial Intelligence and Deep Learning to Indian students."
-    publishedDateTime: 2021-08-18T18:45:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20210818/3804913.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
 
 secured: "1nDDq/tGXxnX8Qj6QboK6OOzwlYQv7mvNHJqBmtCdlyjG8jS8VxuyjDANj8dVgDfwYi7tYBs+gWvfKRHpieSuyzUDyeXxI92QCyBM8plzx8Ik5w9sl9SplOBOxOP/6lSgrXKB9/wQ46pk+OuGrD+iJ23qKgTXwHqH5snWyMHpTwfkxNOTPbYdASDpJdjp3teX/8jLkZbUUvXcEoo5cYRF8LERgDVADu8tXPQfHu4mOomxN8kufHuPJhofH0LVPCuLDL8dFnFT26GFacInVWA6i+dCAv22iVRKe+lyoHTOOEd1C4QwCEG65xIsyfsLiCNk55IesjDLD4058w8S1ZO8tB2z9WbpT2Y1Zw/rTj44oQ=;GulrmZmT3NxxDRLI2YpNDg=="
 ---

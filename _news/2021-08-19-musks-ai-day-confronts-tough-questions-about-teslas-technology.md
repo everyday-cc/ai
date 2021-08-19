@@ -1,28 +1,30 @@
 ---
 category: news
-title: "Musk’s ‘AI Day’ confronts tough questions about Tesla’s technology"
-excerpt: "Two U.S. senators also called on the Fair Trade Commission to investigate Tesla ‘s claims of “Full Self-Driving” and “Autopilot.” “Expectations have been significantly reduced from investors … Tesla has got some harder questions to answer,"
-publishedDateTime: 2021-08-18T23:47:00Z
-originalUrl: "https://fintechzoom.com/fintech_news_tesla-nasdaq-tsla/musks-ai-day-confronts-tough-questions-about-teslas-technology/"
-webUrl: "https://fintechzoom.com/fintech_news_tesla-nasdaq-tsla/musks-ai-day-confronts-tough-questions-about-teslas-technology/"
+title: "Musk's 'AI Day' confronts tough questions about Tesla's technology"
+excerpt: "Tesla CEO Musk is expected to reveal more about Tesla's \"Dojo\" computing system on Thursday, which he has said would process vast amounts of video data it obtains from Tesla vehicles on the road."
+publishedDateTime: 2021-08-19T00:43:00Z
+originalUrl: "https://www.foxbusiness.com/markets/elon-musk-tesla-ai-day-confronts-tough-questions-technology"
+webUrl: "https://www.foxbusiness.com/markets/elon-musk-tesla-ai-day-confronts-tough-questions-technology"
+ampWebUrl: "https://www.foxbusiness.com/markets/elon-musk-tesla-ai-day-confronts-tough-questions-technology.amp"
+cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/markets/elon-musk-tesla-ai-day-confronts-tough-questions-technology.amp"
 type: article
-quality: 56
+quality: 76
 heat: -1
 published: false
 
 provider:
-  name: fintechzoom
-  domain: fintechzoom.com
+  name: Fox Business
+  domain: foxbusiness.com
 
 topics:
-  - AI in Finance
+  - AI Hardware
   - AI
   - AI in Autos
 
 images:
-  - url: "https://fintechzoom.com/wp-content/uploads/2021/08/2MB6UJWVB5KMZA545NR5FCANH4.jpg"
-    width: 1200
-    height: 628
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cda2c4b9-302c-4a9c-a6ff-7ccd94b863c4/37687a85-2e7a-4ff3-b7cb-e60920b3755e/1280x720/match/image.jpg?pubId=854081161001"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -100,6 +102,6 @@ related:
         height: 800
         isCached: true
 
-secured: "xHbGgHzHkC8l2awHmsw9llD2pfur3IYcUHynmdrZZQBBjLLlXcSpbhn4CV1IdfAJP3PvgWuyBOKCC53zpUoD4aM/EuxXrBI8Wglct4k5VHX8rxs1WZbGqRRu9SX7mv7hYBZRpGD0dB4mBS+D1MLl8NxllJ/ib2/6NM0P+4CTAASkJSUtGQEPSx549NIyjalrRd/VGY7RLjnKPOpgzWy0SawVIwf6ZgztFtlZYi/537em04+RGylI9Ygj36F7Zi15Wh/0CnSodh7QTv9mKmzz6s1CYPyUuVkn0qwJQShDAmZ5Jc7uOutzdCUn3klY1Y2EAoAfV0nLw/zwoScfKA33I2dcAntaOPWoBFtSe1y+K48WQCge2qjlimo3/SUH7ZvygEjTLTZu2+stkCp2Bxf1t8Uhw/VN8+HDyO6v1SlQfLM4oeuUNrIPM/pwUTvZcP7inkLj+Mp+cp4FIftzfYSV0+X4Hq43N6vdyx+gRh57RzTcM5OwN5WAJ+72nKBebkB6zu5EqvzQtV8uPGwSbMGI+w==;6GLuAPowYaPMaT/Ma1cdow=="
+secured: "BcleksaX6ZeMdgwKJfZTsTShkm0rKrD5J2jix1aPp908gmUNc9iS1t3GuI0c80yoU+yuJAGhxrYcHDrDmNRy0x1lcV+cpVK7zrV65KmdVihvxgS+2xjVMW0HiJzxtpYzGAs0IIJ1CCGOfAFlDlz7TvTpuQffYZJNtf0IBgMa/AWj1hM1ndaQiksv3BVDWWhiDhIy4c61YZREJDD1ZeR/qWPAuyVU78GSAvSWOfIJE5Ee0n6VThqk6gs09RTrkNPORC3eIBDy/K+WluQlKXFTNaCXN3VSRueIotKaS8KxSXSYdMNf6tc8TIQXJX7CR3HlaAYpH+R34Fdky5ouIC/HYWxKePR6JViTWjqHUgJXVhw=;TvrrR9YSO31GqfL3AjrPsw=="
 ---
 

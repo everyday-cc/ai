@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/optimists-guide-future-quantum-ai-coul
 webUrl: "https://thenextweb.com/news/optimists-guide-future-quantum-ai-could-make-earth-paradise"
 type: article
 quality: 64
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Music of the Future: Listen to These Songs Made by Artificial Intelligence"
+    excerpt: "Artificial Intelligence is taking over the music industry. These AI songs are a blend of human and AI technologies like machine learning."
+    publishedDateTime: 2021-08-19T04:21:00Z
+    webUrl: "https://www.analyticsinsight.net/music-of-the-future-listen-to-these-songs-made-by-artificial-intelligence/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 35
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Artificial-intelligence-5.jpg"
+        width: 900
+        height: 500
+        isCached: true
   - title: "Live: How will AI shape our life and future? Live: How will AI shape our life and future? Live: How will AI shape our life and future?"
     excerpt: "The Virtual Baidu World Conference 2021 is underway, demonstrating the firm's latest breakthroughs in artificial intelligence (AI) and its applications in everyday life."
     publishedDateTime: 2021-08-17T14:46:00Z

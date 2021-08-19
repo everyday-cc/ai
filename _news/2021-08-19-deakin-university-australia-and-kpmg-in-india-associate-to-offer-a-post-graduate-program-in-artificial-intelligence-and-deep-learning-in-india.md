@@ -19,31 +19,22 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Building Australia's Capability on Ethical Artificial Intelligence"
-    excerpt: "Mr Santow will lead a major UTS initiative to build Australia’s strategic capability in artificial intelligence (AI) and new technology. This initiative will support Australian business and government to be leaders in responsible innovation—by developing and using AI that is powerful,"
-    publishedDateTime: 2021-08-15T00:46:00Z
-    webUrl: "https://www.eventbrite.com.au/e/building-australias-capability-on-ethical-artificial-intelligence-tickets-167003577195"
+  - title: "KPMG, Deakin University Join Hands to Offer PG Course in Artificial Intelligence and Deep Learning"
+    excerpt: "The adoption of artificial intelligence and deep learning to harness their transformative potential is becoming a key priority of most organizations."
+    publishedDateTime: 2021-08-19T05:36:00Z
+    webUrl: "https://www.news18.com/news/education-career/kpmg-deakin-university-australia-join-hands-to-offer-a-pg-course-in-artificial-intelligence-and-deep-learning-4102001.html"
+    ampWebUrl: "https://www.news18.com/amp/news/education-career/kpmg-deakin-university-australia-join-hands-to-offer-a-pg-course-in-artificial-intelligence-and-deep-learning-4102001.html"
+    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/kpmg-deakin-university-australia-join-hands-to-offer-a-pg-course-in-artificial-intelligence-and-deep-learning-4102001.html"
     type: article
     provider:
-      name: eventbrite.com.au
-      domain: eventbrite.com.au
-    quality: 54
+      name: CNN-News18
+      domain: news18.com
+    quality: 60
     images:
-      - url: "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F144419107%2F507908461719%2F1%2Foriginal.20210428-031838?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=020167f4baf25a658b9d223bbb35926a"
-        width: 1000
-        height: 500
+      - url: "https://images.news18.com/ibnlive/uploads/2021/08/kpmg-162935128916x9.jpg"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "Australian National University: The DNA of data and AI"
-    excerpt: "Data is vital to scientific research. Without the ability to quickly process and analyze large amounts of data, breakthroughs and publications take longer. This increases administrative tasks and can even lead to projects going over budget."
-    publishedDateTime: 2021-08-16T12:12:00Z
-    webUrl: "https://www.pcmethods.com/it-support-blog/australian-national-university-the-dna-of-data-and-ai1629133965"
-    ampWebUrl: "https://www.pcmethods.com/it-support-blog/australian-national-university-the-dna-of-data-and-ai1629133965?hs_amp=true"
-    cdnAmpWebUrl: "https://www-pcmethods-com.cdn.ampproject.org/c/s/www.pcmethods.com/it-support-blog/australian-national-university-the-dna-of-data-and-ai1629133965?hs_amp=true"
-    type: article
-    provider:
-      name: Precision Computer Methods Corporate Website
-      domain: pcmethods.com
-    quality: 39
   - title: "Deakin University, Australia, and KPMG in India associate to offer a Post Graduate Program in Artificial Intelligence and Deep Learning in India"
     excerpt: "The adoption of artificial intelligence and deep learning to harness their transformative potential is becoming a key priority of most organizations."
     publishedDateTime: 2021-08-18T08:30:00Z

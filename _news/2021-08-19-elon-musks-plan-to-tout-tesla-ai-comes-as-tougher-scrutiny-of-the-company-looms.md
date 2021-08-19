@@ -88,19 +88,21 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Musk’s ‘AI Day’ confronts tough questions about Tesla’s technology"
-    excerpt: "Two U.S. senators also called on the Fair Trade Commission to investigate Tesla ‘s claims of “Full Self-Driving” and “Autopilot.” “Expectations have been significantly reduced from investors … Tesla has got some harder questions to answer,"
-    publishedDateTime: 2021-08-18T23:47:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_tesla-nasdaq-tsla/musks-ai-day-confronts-tough-questions-about-teslas-technology/"
+  - title: "Musk's 'AI Day' confronts tough questions about Tesla's technology"
+    excerpt: "Tesla CEO Musk is expected to reveal more about Tesla's \"Dojo\" computing system on Thursday, which he has said would process vast amounts of video data it obtains from Tesla vehicles on the road."
+    publishedDateTime: 2021-08-19T00:43:00Z
+    webUrl: "https://www.foxbusiness.com/markets/elon-musk-tesla-ai-day-confronts-tough-questions-technology"
+    ampWebUrl: "https://www.foxbusiness.com/markets/elon-musk-tesla-ai-day-confronts-tough-questions-technology.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/markets/elon-musk-tesla-ai-day-confronts-tough-questions-technology.amp"
     type: article
     provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 56
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 76
     images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/2MB6UJWVB5KMZA545NR5FCANH4.jpg"
-        width: 1200
-        height: 628
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cda2c4b9-302c-4a9c-a6ff-7ccd94b863c4/37687a85-2e7a-4ff3-b7cb-e60920b3755e/1280x720/match/image.jpg?pubId=854081161001"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "4wsdcF0Sla32agDFnhXbZThbGp5MENYBD56c3j64fyUfcwZsh2iy00XJUzh1AvXMUis6bWrD6bVM2d5OqSNYQYin93USlVQYXauiHzQlkJs4tPlXiuj2z+Wx1c+eD8Bkrn+YL5teN2ofw7P0e5Xk1hfOoh0tKH6ifHTYm7A643pk6UWbxXOXt444x2yIz1FudlP+AxJQd3MtE1eX36kfPbtwAKBmCJ5wu5CmSe4DA1a/88pNnsaKKggIXGBTpZiPbx/oxCYrT/HHmDRDO+PI42E4QFFlriJwgbnEpKe+PE/XSeUMDqpX96IErULRA+x8ILYW/JjZIuaoDtrAUXry6/utpjQx0DQIWIU6+IWZJQz/fo93pFN8DwfYs6T0p6GjPAyIzo16JYC8ltqDF9uKMmH1YYknhEcBj7LsWk46vP7d9FhCtv7LxNIOxga6NDNAm9MmEOLe0545yAaeuiZjc4yPYGOTd9NOmhY9VMPfBeIL08NXmzWvVZy1prUBZxr9jXEwiXf6Xfsac87hk111OA==;frTQ8VE2zw+mGz1Em4QHfA=="

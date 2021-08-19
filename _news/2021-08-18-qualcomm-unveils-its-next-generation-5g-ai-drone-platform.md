@@ -125,6 +125,20 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Qualcomm unveils 5G and AI-enabled drone platform"
+    excerpt: "Qualcomm Technologies has unveiled a drone platform and reference design to offer both 5G and AI-capabilities, the Qualcomm Flight RB5 5G Platform."
+    publishedDateTime: 2021-08-19T02:23:00Z
+    webUrl: "https://digitimes.com/news/a20210819VL200.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 39
+    images:
+      - url: "https://digitimes.com/newsshow/20210819VL200_files/2_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "ModalAI Serves as Distributor for Qualcomm's World First 5G and AI-Enabled Drone Platform and Reference Design"
     excerpt: "ModalAI today announced it will be the manufacturer and distributor of Qualcomm ( News - Alert) Technologies' world first 5G and AI-enabled drone platform and reference design, the Qualcomm Flight™ RB5 5G Platform,"
     publishedDateTime: 2021-08-17T13:35:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/17/qualcomm-readies-5g-and-ai-drone-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/17/qualcomm-readies-5g-and-ai-drone-platform/amp/"
 type: article
 quality: 91
-heat: 171
+heat: 181
 published: true
 
 provider:
@@ -116,6 +116,20 @@ related:
       - url: "https://www.eetindia.co.in/wp-content/uploads/sites/4/2021/08/qualcomm-qualcomm-flight-rb5-5g-platform-1.jpg"
         width: 600
         height: 400
+        isCached: true
+  - title: "Qualcomm unveils 5G and AI-enabled drone platform"
+    excerpt: "Qualcomm Technologies has unveiled a drone platform and reference design to offer both 5G and AI-capabilities, the Qualcomm Flight RB5 5G Platform."
+    publishedDateTime: 2021-08-19T02:23:00Z
+    webUrl: "https://digitimes.com/news/a20210819VL200.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 39
+    images:
+      - url: "https://digitimes.com/newsshow/20210819VL200_files/2_b.jpg"
+        width: 640
+        height: 427
         isCached: true
   - title: "Qualcomm unveils its next-generation 5G AI drone platform"
     excerpt: "Qualcomm Technologies Inc. has unveiled a new reference design for drones that integrates 5G and artificial intelligence. The chipmaker said today it’s aiming to replicate the success of the experimental Ingenuity Helicopter that recently visited Mars,"

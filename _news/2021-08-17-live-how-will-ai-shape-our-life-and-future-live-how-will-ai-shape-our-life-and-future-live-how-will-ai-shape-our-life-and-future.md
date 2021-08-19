@@ -39,6 +39,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Music of the Future: Listen to These Songs Made by Artificial Intelligence"
+    excerpt: "Artificial Intelligence is taking over the music industry. These AI songs are a blend of human and AI technologies like machine learning."
+    publishedDateTime: 2021-08-19T04:21:00Z
+    webUrl: "https://www.analyticsinsight.net/music-of-the-future-listen-to-these-songs-made-by-artificial-intelligence/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 35
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Artificial-intelligence-5.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "8bQvjO78HwuPoL2heCa5wRHArTJkvDkfn08QCAsyF7Few4ebBGiEs05UXtvg2ZHIZNE3XO7oqzBSxe0nNaTsOH9nqbYkfdONcUy4jKoXERcrJvatlT0DyS/mwxMrggMvVgzw11G3Z257LnMMHXGBfEsQJhZ6n8nzVeEhWWWlTOHjo/5GW9kfdYbivLks1853cAyKwoe+TAxV5omXVlf4nU8MnvpLcdB9DDqgbS8AhO8i7l8KJNRLmfMf9qdKgOJXf2PyD5x1vLHMyY/3KVrNb6MfpafoqUOuOVGyB9fxzdx8zSUb63Tr/lj+iHNprGJGpP3TYHmlPUtYkOPYrxf986a74Ef4nqouToHZEvAiN1RNNsj6yxQnPJMgN9DzultNhqRxhVmE7x6PUDQrcw/fn3m30av6pPdPNcUq5P0IRgggN0oIN6VJLNCqOy9GzWZJXfLCO8TfTJfq20Nc6nCHmhFmVYDGuA5WwON9Y8fVnVxoNNxQjVUWzKx+pxr+/RveeVSak0MZqsno+SUhKCR5XQ==;ZQrsVxBcwc6ccX7RuV92MA=="
 ---
