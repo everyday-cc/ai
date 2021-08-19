@@ -209,19 +209,19 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Avaya and Microsoft Announce Integration of Microsoft Azure Communication Services with Avaya OneCloud™ CPaaS"
-    excerpt: "Benefiting from the complementary strengths of both companies, the joint solutions include Avaya’s award-winning 1 Avaya OneCloud CPaaS (Communications Platform as a Service) now integrated with voice,"
-    publishedDateTime: 2021-08-17T12:02:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/avaya-and-microsoft-announce-integration-of-microsoft-azure-communication-services-with-avaya-onecloud-cpaas/article_9eaf7855-aaa8-5eff-8a20-fafec569f735.html"
+  - title: "Avaya and Microsoft Announce Integration of Microsoft Azure Communication Services with Avaya OneCloud CPaaS"
+    excerpt: "Avaya announced a strategic relationship with Microsoft to create a powerful set of joint cloud communications solutions to define the future of customer and em"
+    publishedDateTime: 2021-08-17T15:06:00Z
+    webUrl: "https://technuter.com/breaking-news/avaya-and-microsoft-announce-integration-of-microsoft-azure-communication-services-with-avaya-onecloud-cpaas.html"
     type: article
     provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
+      name: technuter.com
+      domain: technuter.com
     quality: 35
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/custom/image/da68c2f8-c3ab-11e5-94c7-b366ea8ae93c.jpg"
-        width: 1200
-        height: 630
+      - url: "https://technuter.com/wp-content/uploads/2020/04/Avaya.jpg"
+        width: 340
+        height: 296
         isCached: true
   - title: "Avaya and Microsoft Announce Integration of Microsoft Azure Communication Services with Avaya OneCloudtm CPaaS"
     excerpt: "Avaya , a global leader in solutions to enhance and simplify communications and collaboration, today announced a strategic relationship with Microsoft to create a powerful set of joint cloud communications solutions to define the future of"

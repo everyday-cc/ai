@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Avaya and Microsoft Announce Integration of Microsoft Azure Communication Services with Avaya OneCloud™ CPaaS"
-excerpt: "Benefiting from the complementary strengths of both companies, the joint solutions include Avaya’s award-winning 1 Avaya OneCloud CPaaS (Communications Platform as a Service) now integrated with voice,"
-publishedDateTime: 2021-08-17T12:02:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/avaya-and-microsoft-announce-integration-of-microsoft-azure-communication-services-with-avaya-onecloud-cpaas/article_9eaf7855-aaa8-5eff-8a20-fafec569f735.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/avaya-and-microsoft-announce-integration-of-microsoft-azure-communication-services-with-avaya-onecloud-cpaas/article_9eaf7855-aaa8-5eff-8a20-fafec569f735.html"
+title: "Avaya and Microsoft Announce Integration of Microsoft Azure Communication Services with Avaya OneCloud CPaaS"
+excerpt: "Avaya announced a strategic relationship with Microsoft to create a powerful set of joint cloud communications solutions to define the future of customer and em"
+publishedDateTime: 2021-08-17T15:06:00Z
+originalUrl: "https://technuter.com/breaking-news/avaya-and-microsoft-announce-integration-of-microsoft-azure-communication-services-with-avaya-onecloud-cpaas.html"
+webUrl: "https://technuter.com/breaking-news/avaya-and-microsoft-announce-integration-of-microsoft-azure-communication-services-with-avaya-onecloud-cpaas.html"
 type: article
 quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: technuter.com
+  domain: technuter.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/custom/image/da68c2f8-c3ab-11e5-94c7-b366ea8ae93c.jpg"
-    width: 1200
-    height: 630
+  - url: "https://technuter.com/wp-content/uploads/2020/04/Avaya.jpg"
+    width: 340
+    height: 296
     isCached: true
 
 related:
@@ -238,6 +238,6 @@ related:
         height: 480
         isCached: true
 
-secured: "oARfZeplZJu4piNcKGDkfMh+DRXkPH5bg2PjevafVA5YUoDPmaZ1YBuYatEPZRCSuGG2PKF642S3UAj7y4zIYOTnJP/u8CFf0KryNThfzoanHfZ+DnQ4p/UKNie+PSaS8lbV1ECoXJJKe9CuM+XDstnrxFs6+w5qvWMfsGUZfshnWDZ5qfF+2spIS7CLOhiCMvO3550WPwhKRKp0sQ9ytkqGCgooX7uMlEtY1+tYWlb06GW1SlbmYrPVDwaq1PVVDH3YdXHWmw+Vd5Y7UpdwC5ncA0ReGH/6W2zQpZlcVA5W9pbpTBITf6qCqOsme8AE0OYQ4hgqvJuDqgEuGZqULZXAG8fPA8CD7+eAU7XU3XQ=;1J8LfPxIezcZNcfYDh2Kbw=="
+secured: "H/dEXzx/mSZ+U0WpqyTxWyxOWwCCW9wLvKrbFp6LE+6Cx9vujjRuhSTia1TbZ47Exuk34B+me7/wKAybH0NfRQjkBGajxEB42IRSRuc2uMG+1LZIkpgzk/FPJb8lFRPTeejBjscS/7pmDAFMKLqOn8LGNS8IF5pd2Hvvztatg6germZeRc4HofRpnmFtArZoH/VUO07mRqCDCimhFc8Ne+r0I9rUY4XGQZHdlDiyh5v07HBEhnkca4C8sE2uaxzHttu7wejr7EL7CPEEjRXeTB3y4iQc6xPYMpAvTVitiv3entpAVYvochpnMjlfTSa76KXEO77VPa+XD2YL9BkymszJiJBAXLUCS7ZVIKro7Ck=;2QWuZQl3VjElureYkwkjLA=="
 ---
 

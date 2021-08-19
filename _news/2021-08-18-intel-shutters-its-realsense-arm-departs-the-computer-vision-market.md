@@ -7,7 +7,7 @@ originalUrl: "https://www.hackster.io/news/intel-shutters-its-realsense-arm-depa
 webUrl: "https://www.hackster.io/news/intel-shutters-its-realsense-arm-departs-the-computer-vision-market-221c7aaf02d7"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 517
     height: 388
     isCached: true
+
+related:
+  - title: "Intel RealSense camera business being shut down"
+    excerpt: "Intel RealSense is being shut down. Intel CEO Pat Gelsinger wants to focus all of Intel's efforts on its core chipmaking business."
+    publishedDateTime: 2021-08-18T03:10:00Z
+    webUrl: "https://www.therobotreport.com/intel-realsense-camera-business-being-shut-down/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 54
+    images:
+      - url: "https://www.therobotreport.com/wp-content/uploads/2021/08/intel-realsense-shuts-down.jpg"
+        width: 1000
+        height: 750
+        isCached: true
 
 secured: "Pff9WJOoALUa3STKl9pradwBwoabVys+U/2lbrytkf9sJQObfvt9Ih0I5cT0ptaG6bkG/JfdC3/eFKSGE9prsyAJ+LpaN1YGIzRWQoUNZEAIIPiRHcd1isL4eolX5sjZt6wyILJtaIII+bd0nHCqjCV23Nu6r87qP+HZMYwQn2GBeaAExQP4Y2F6iSpNPA0uz0MfcvLUKdy7aYLGF8l4B3pEWn/+EuNIftwCmadS67dQLrxPyawFFnoLr83X2Qtuhuh4yewkuecDvW6LurunNEu6Qx+cXCja9C8Q+LFo9HYIAgNwVEIQlVn0TNaElYVqvn/E8cgxXkhABz1or3/JWWqrkw7X21H3KwkV82MlzWwRca1uH78Z2duin6We+2onqbpmwyRUqRScBJhV0u7Dfsi1poBcN6/HLhHD1TeEQ3KeSLYPboj9SlG0Es6+hB6vQo6bUzQdjyaDwXCbblZ+vSSMDl1kF6uKCUtWwgRlCaCZRv4OVJ1Jshjw2rgW/l4byjxhcBvWl94bU9FGW5VfYA==;nNUCMcPajZvkduZsdpx30A=="
 ---

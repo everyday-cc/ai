@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla to Hold AI Day Amid New Scrutiny: What to Expect"
+    excerpt: "The world’s most valuable car maker is holding an event to promote its use of artificial intelligence, just as federal regulators this week announced a new investigation into the company’s Autopilot d"
+    publishedDateTime: 2021-08-19T13:00:00Z
+    webUrl: "https://www.wsj.com/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430?mod=hp_lista_pos3"
+    ampWebUrl: "https://www.wsj.com/amp/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 104
+    images:
+      - url: "https://images.wsj.net/im-387824?width=700&height=557"
+        width: 700
+        height: 557
+        isCached: true
   - title: "What to expect from OpenAI’s Codex API"
     excerpt: "The Codex demo puts the advantages of large language models on display, showing an impressive capacity to resolve references and write code."
     publishedDateTime: 2021-08-16T21:20:00Z
@@ -158,6 +174,6 @@ related:
         height: 630
         isCached: true
 
-secured: "FiuEB8CoepOulYWZLkxpkGPpKahSwCu/HJtLA6AkSjsHci4fdH+PhQC5FUa3+7TiJi2eLBVzoyZcH91M6VHYUiWjeY1C56hCabySRiwd8eY0UA/7GnasFj9E+AR4M3pwZ9hvWm0v2QWyBgkVdDMk/9mxlA4UwEsjw47pXy4743qfIPoI6ALXEMCvf46HOiFpx7GwiR1Bhep6yBgOvyJhkfFSPRf0TZhNEMgGHe+hBBjwh/B9rkSSjBWwEFsV0mJkzRzqzab2KgWG6DV1NUZpbKwHcZxr3T2ZbAmitqhAYtoedK9R+dWcZ7cMFJCVUSD9idVjLglATSdt3gjzwZw4aAiF0P4bQndJY7Npi9RTxqE=;ZdJ0uhOg1LMV+T1pk8tBMA=="
+secured: "wyx42ZBGRoy3E81xeG9Czmjd0BOry7MRLd2H5SBOPZCUZhjC0AUcFy5Fpy9MuEKntIJBHnZ7D1l3fdI1O2EzolGDpj3XWekR5Ud2o1OOHhevPdDCLr4M1QMKM9SrHa4lw9ZrIWYJR7jG7VuYa25p/WCZFbkgp56K6K5eoC7xMMMjD2egpDkUuT2RkmYYoVO889zqSmsf25yhsXGrJ2HTfCXFbC66ofsPEVFS4a/PJB7jVTTNW5b2ERwqff4t1hdAxuIG90h6oghgxfpxJRUydJ+r+Nay6mUT3MONjbdo41Z9V1cFQP6Af3Zqw43LoaOwp6ghSA5bD2sBwWIAGMQdEACMCBxQN422ysfPwzd9N18=;XL8QmX9TIfmYSTO7utM9Yw=="
 ---
 

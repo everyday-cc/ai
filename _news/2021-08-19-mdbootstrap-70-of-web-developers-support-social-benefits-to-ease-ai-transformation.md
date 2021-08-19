@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/18/mdbootstrap-70-of-web-developers-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/18/mdbootstrap-70-of-web-developers-support-social-benefits-to-ease-ai-transformation/amp/"
 type: article
 quality: 80
-heat: 81
+heat: 80
 published: true
 
 provider:

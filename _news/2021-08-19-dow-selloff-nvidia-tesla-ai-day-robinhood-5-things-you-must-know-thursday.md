@@ -60,6 +60,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla to Hold AI Day Amid New Scrutiny: What to Expect"
+    excerpt: "The world’s most valuable car maker is holding an event to promote its use of artificial intelligence, just as federal regulators this week announced a new investigation into the company’s Autopilot d"
+    publishedDateTime: 2021-08-19T13:00:00Z
+    webUrl: "https://www.wsj.com/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430?mod=hp_lista_pos3"
+    ampWebUrl: "https://www.wsj.com/amp/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 104
+    images:
+      - url: "https://images.wsj.net/im-387824?width=700&height=557"
+        width: 700
+        height: 557
+        isCached: true
   - title: "What to expect from OpenAI’s Codex API"
     excerpt: "The Codex demo puts the advantages of large language models on display, showing an impressive capacity to resolve references and write code."
     publishedDateTime: 2021-08-16T21:20:00Z

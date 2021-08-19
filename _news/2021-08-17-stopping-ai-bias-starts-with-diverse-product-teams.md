@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/17/stopping-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/17/stopping-ai-bias-starts-with-diverse-product-teams/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Innovating With Artificial Intelligence"
+    excerpt: "It’s been a while since I talked about artificial intelligence — mainly because those articles started to die down or I started reading the same thing over and over. Then other topics emerged within the markets and current events sort of shifted the conversation."
+    publishedDateTime: 2021-08-17T18:09:00Z
+    webUrl: "https://www.wealthdaily.com/articles/innovating-with-artificial-intelligence/99838"
+    ampWebUrl: "https://www.wealthdaily.com/amp/articles/innovating-with-artificial-intelligence/99838"
+    cdnAmpWebUrl: "https://www-wealthdaily-com.cdn.ampproject.org/c/s/www.wealthdaily.com/amp/articles/innovating-with-artificial-intelligence/99838"
+    type: article
+    provider:
+      name: Wealth Daily
+      domain: wealthdaily.com
+    quality: 57
+    images:
+      - url: "https://images.angelpub.com/2017/39/46975/monica-savaglia-signature-park-avenue-digest.png"
+        width: 300
+        height: 228
+        isCached: true
 
 secured: "aaI+lJfe6+0ic5Vhym/nbv2dp4coUrW4Zb5s0F2YSmmNHNLUHX/qIjAdongSd6pRyfFXbCZyarEhUoPqFzBGtqjIvddO/lcLilbhHayay5v9jaYrcC2Jcn1jVmi65eyq2NTErGpXPGq1LI9cjJ22GJ+hLtfvlV0lb96OVjWWWLVryg7SeHUmrvFXyqlXbScNKrWBCLrjRsX7bh/Wzo/LTjfEhu2Kj+TBXxqaCVk9Yvk6zk6Q8U7qV4X/AO2W5SI56OdoUckzm9nhKRLln7I1JKoSYLyds8kE8HQcNHL0OePdkQWnw2E/3F0qszz+HEFNnJCJ662lXfoAT7WYLDBZH33NFC0kdZWr/n79iAOHNgGjA+9+++0nCvRThPgYZ/VfYv64SCJ4noLW0Hrb+VMGNDMTe12VgTFTOiKe0fUcxu0bfUS8NZDYiRytzVDCpbzab0HiCVjZMmLr6kFSFXU4UY2bdNJYc42gUsJkv1Gi4xu3H6abVnpGoHLLkbIY5RPO7jCOR2wkvEh+zFqByhckfw==;xPg+mBOuIbED09tjTqpCzw=="
 ---
