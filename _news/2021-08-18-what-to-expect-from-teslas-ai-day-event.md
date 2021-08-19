@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/8/18/22627101/tesla-event
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/8/18/22627101/tesla-event-ai-day-rumors-elon-musk-what-to-expect"
 type: article
 quality: 108
-heat: 148
+heat: 158
 published: true
 
 provider:
@@ -89,6 +89,20 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iuGj712Psngg/v0/1200x800.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Musk’s ‘AI Day’ confronts tough questions about Tesla’s technology"
+    excerpt: "Two U.S. senators also called on the Fair Trade Commission to investigate Tesla ‘s claims of “Full Self-Driving” and “Autopilot.” “Expectations have been significantly reduced from investors … Tesla has got some harder questions to answer,"
+    publishedDateTime: 2021-08-18T23:47:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_tesla-nasdaq-tsla/musks-ai-day-confronts-tough-questions-about-teslas-technology/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 56
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/2MB6UJWVB5KMZA545NR5FCANH4.jpg"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "y4PEhKCvR05+kQfdk3fTAC6WGVkcr3SGlBpbdOPEIrlJykOwV8AodK9VRsZH6NlhCE0lJ7spK9Xnoy72dVd28ZEYdcABh/iAiLCFaW09LklpyhhmjyDnMmO4BprixzZbxzkn+wYqvfnW2yUJ0toMLFEl29cNXxfPfwquO+Unyj5MchG7nXxbvfo77Qmlb6et9qWIpz0qGm/k2H8luFOxrAAn4zqKHBtNeJbj3O6igJp8QxroHtjf3YT9Iz3jxPzA3hthQo03BM0tGcuQ2rNYk4GsANUecUp1s1h3mUF0Ubchl5LehVt46vNZBPUmi2el6pymFrLMzEQAlHjGqDY5bQ+RuNPMtNwY41ItYHKzfvwH29JeBjUtUZvsuX2YjAz4xhOZS+/KuIlWP0UltQSp3ha/pU3VjbkG1b55bQfmh+z4zG30W/7Feh07PpH1Tm/jA12o4Bwg4EUQdjJ1n2GJkju0uVTd0wIB8PtqM+I/y9Ow3oCEUQMJa9RFcU+sfnSM8XgQPgmxZKkMh15YhffHTQ==;qHEsaGeaZDqN+W7PgZRaWw=="

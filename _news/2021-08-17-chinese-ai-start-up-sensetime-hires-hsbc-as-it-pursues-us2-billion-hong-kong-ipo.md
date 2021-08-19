@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/business/banking-finance/article/3145370/chines
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/banking-finance/article/3145370/chinese-ai-start-sensetime-hires-hsbc-it-pursues-us2"
 type: article
 quality: 182
-heat: 202
+heat: 203
 published: true
 
 provider:

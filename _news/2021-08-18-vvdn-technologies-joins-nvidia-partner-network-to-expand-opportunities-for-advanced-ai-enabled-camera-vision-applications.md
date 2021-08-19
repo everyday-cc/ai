@@ -1,60 +1,40 @@
 ---
 category: news
 title: "VVDN Technologies Joins NVIDIA Partner Network to Expand Opportunities for Advanced AI-Enabled Camera & Vision Applications"
-excerpt: "VVDN Technologies, a premier electronic product engineering and manufacturing company, announced that it has joined the NVIDIA Partner"
-publishedDateTime: 2021-08-18T14:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/vvdn-technologies-joins-nvidia-partner-network-to-expand-opportunities-for-advanced-ai-enabled-camera--vision-applications-301357286.html"
-webUrl: "https://www.prnewswire.com/news-releases/vvdn-technologies-joins-nvidia-partner-network-to-expand-opportunities-for-advanced-ai-enabled-camera--vision-applications-301357286.html"
+excerpt: "VVDN Technologies, a premier electronic product engineering and manufacturing company, announced that it has joined the NVIDIA Partner Network ( NPN) as a provider of AI-enabled computer vision solutions powered by the NVIDIA Jetson edge AI platform."
+publishedDateTime: 2021-08-18T14:14:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-29707966c446abc1e45b7fbac2a86985"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-29707966c446abc1e45b7fbac2a86985"
 type: article
-quality: 15
-heat: -1
+quality: 13
+heat: 13
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI Hardware
-  - AI
   - Computer Vision
+  - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1531036/VVDN_Technologies_Logo.jpg?p=facebook"
-    width: 600
-    height: 315
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
-  - title: "J&J partners with AI startup to identify early lung cancer cases"
-    excerpt: "A Johnson & Johnson division focused on developing tools to combat lung cancer is partnering with a clinical decision-support startup that recently achieved regulatory clearance for an early detection tool, the companies announced Wednesday. The Lung ..."
-    publishedDateTime: 2021-08-18T17:25:00Z
-    webUrl: "https://www.modernhealthcare.com/information-technology/jj-partners-ai-startup-identify-early-lung-cancer-cases"
+  - title: "VVDN Technologies joins NVIDIA Partner Network to expand opportunities for advanced AI-Enabled Camera & Vision Applications"
+    excerpt: "VVDN Technologies, a premier electronic product engineering and manufacturing company, announced that it has joined the NVIDIA Partner Network (NPN) as a provider of AI-enabled computer vision solutions powered by the NVIDIA Jetson edge AI platform."
+    publishedDateTime: 2021-08-18T22:45:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20210818/3805015.html"
     type: article
     provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 37
-    images:
-      - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/Artifical%20intelligence_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "VVDN Technologies Joins NVIDIA Partner Network to Expand Opportunities for Advanced AI-Enabled Camera & Vision Applications"
-    excerpt: "VVDN Technologies, a premier electronic product engineering and manufacturing company, announced that it has joined the NVIDIA Partner"
-    publishedDateTime: 2021-08-18T18:30:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/vvdn-technologies-joins-nvidia-partner-network-to-expand-opportunities-for-advanced-ai-enabled-camera-amp-vision-applications-851556490.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 15
-    images:
-      - url: "https://mma.prnewswire.com/media/1531036/VVDN_Technologies_Logo.jpg?p=facebook"
-        width: 600
-        height: 315
-        isCached: true
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
 
-secured: "P6utPlIK13/RdsFJyUkMKEL2UD9xDn9v60TpRyX8udt6YPBLi9S1909Q+LvREofn1RHWWbZkPDgSBgONRPQcE7M6+WQaMnJp4EuxoyYg66zaMOlXbNwseSGc4HAxPCGdKgVNE1P2ulq5uONP5n8qfW6iJdlDL4mFr23x/HV4zYs1lXRzaJwrEQ7fiNXjTFjz6KAe8ZJlha2KpzpbJsGjiJX60wu2og6DDlLMh/UlL52Ku1LQcTXvUTcDnm3eX1R5cv2eWhjMLVit+rbRbDU5Q14W6Q2rjMIg1ziwBYeOeKCvujvBXOD/Vs0EporbWpwy9Jxemn23xvFO1u1YUt762GX7OTd8AnMrsCim7790jgWDFiM6IgBA3YJeVgadpbYAMUwAmUnjkrtheXNqeLc+iZkN57y50HcIWZ9H/q7RTuQ+V3ya8tmm4VOH7O5t4UuiVojOHNeBfQVweWHMkOGbFXYFOcXSIjq2gwh8uFp8SO6C6Hv/uXhVEgKFfcvAtWPyDtINO3rWUaJ8XxgP306/+w==;VEsNGoRpqgThoIvVv/w8Qg=="
+secured: "vHWZGmeoH/PoPHl0jznBebO0L/QtXI7xDCDdHr0NosnBchEUL7f8d+9sMDaexXHAv6Vhoy0nu+1bWwnytlivRC2i7rqenZ09+7ghgLnPzcV4gsXjM9yTknLrZoKWuRldMXTAglBTLeCp1zVL0yyXpCeVGIM6YvdvZLZj81WFYQdxKKEjN7fbUZd3lFkxbp5V5kx3ls0LQ5tLyD9rWfxt6b+0R8xlE8Ox7Ww6LitUHKEix29NgQWE7CdsXMkpeKFsQ1h+m+B1F320G/TdguJ/mvkpzVTfyypofFf30+/4XBwcQHEvEo4wvMBE4Sn3blc/pNpDK+pGtlq6QNikWAfX2AoHnLmndkPFjJcMF/n4Vt0=;puZNeCfIZNSJzrvOBm2R0g=="
 ---
 

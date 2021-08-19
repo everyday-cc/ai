@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hellenicshippingnews.com/the-collective-benefits-of-arti
 cdnAmpWebUrl: "https://www-hellenicshippingnews-com.cdn.ampproject.org/c/s/www.hellenicshippingnews.com/the-collective-benefits-of-artificial-intelligence-and-machine-learning/amp/"
 type: article
 quality: 76
-heat: 88
+heat: 86
 published: true
 
 provider:

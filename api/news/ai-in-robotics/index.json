@@ -10,7 +10,7 @@
       "originalUrl": "https://www.theverge.com/2021/8/18/22627101/tesla-event-ai-day-rumors-elon-musk-what-to-expect",
       "featuredContent": null,
       "highlight": null,
-      "heat": 148,
+      "heat": 158,
       "tags": null,
       "images": [
         {
@@ -274,7 +274,7 @@
       "originalUrl": "https://www.hellenicshippingnews.com/the-collective-benefits-of-artificial-intelligence-and-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -399,10 +399,10 @@
     {
       "path": "_news/2021-08-13-pharmaceutical-robots-market-to-exceed-usd-38391-million-by-2028-covid-19-impact-and-global-analysis-by-the-insight-partners.md",
       "title": "Pharmaceutical Robots Market to Exceed USD 383.91 million by 2028 - COVID-19 Impact and Global Analysis by The Insight Partners",
-      "excerpt": "As per the latest The Insight Partners research report, \"Pharmaceutical Robots Market to 2028 – Global Analysis and Forecast – by Product, Application, End User, and Geography,\" the market is projected to reach US$ 383.",
+      "excerpt": "Traditional Robots Held the Largest Share by Product Segment in Pharmaceutical Robots Market During 2021–2028 Download PDF Brochure:  Get in-depth details on \" Pharmaceutical Robots Market\" (115 - Tables,",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/08/13/9430384.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/08/13/9430384.htm",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/pharmaceutical-robots-market-to-exceed-usd-383-91-million-by-2028-covid-19-impact-and-global-analysis-by-the-insight-partners-1030728954",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/pharmaceutical-robots-market-to-exceed-usd-383-91-million-by-2028-covid-19-impact-and-global-analysis-by-the-insight-partners-1030728954",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -412,12 +412,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-13T04:34:00-07:00",
+      "publishedDateTime": "2021-08-13T04:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

@@ -88,6 +88,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Musk’s ‘AI Day’ confronts tough questions about Tesla’s technology"
+    excerpt: "Two U.S. senators also called on the Fair Trade Commission to investigate Tesla ‘s claims of “Full Self-Driving” and “Autopilot.” “Expectations have been significantly reduced from investors … Tesla has got some harder questions to answer,"
+    publishedDateTime: 2021-08-18T23:47:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_tesla-nasdaq-tsla/musks-ai-day-confronts-tough-questions-about-teslas-technology/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 56
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/2MB6UJWVB5KMZA545NR5FCANH4.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "4wsdcF0Sla32agDFnhXbZThbGp5MENYBD56c3j64fyUfcwZsh2iy00XJUzh1AvXMUis6bWrD6bVM2d5OqSNYQYin93USlVQYXauiHzQlkJs4tPlXiuj2z+Wx1c+eD8Bkrn+YL5teN2ofw7P0e5Xk1hfOoh0tKH6ifHTYm7A643pk6UWbxXOXt444x2yIz1FudlP+AxJQd3MtE1eX36kfPbtwAKBmCJ5wu5CmSe4DA1a/88pNnsaKKggIXGBTpZiPbx/oxCYrT/HHmDRDO+PI42E4QFFlriJwgbnEpKe+PE/XSeUMDqpX96IErULRA+x8ILYW/JjZIuaoDtrAUXry6/utpjQx0DQIWIU6+IWZJQz/fo93pFN8DwfYs6T0p6GjPAyIzo16JYC8ltqDF9uKMmH1YYknhEcBj7LsWk46vP7d9FhCtv7LxNIOxga6NDNAm9MmEOLe0545yAaeuiZjc4yPYGOTd9NOmhY9VMPfBeIL08NXmzWvVZy1prUBZxr9jXEwiXf6Xfsac87hk111OA==;frTQ8VE2zw+mGz1Em4QHfA=="
 ---

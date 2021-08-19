@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Newark, N.J., Airport Tests Facial Recognition for Boarding"
+    excerpt: "The Newark Liberty International Airport is using facial recognition to verify passengers for boarding at a single gate in a new pilot program. The goal is to make boarding a smoother process."
+    publishedDateTime: 2021-08-18T22:05:00Z
+    webUrl: "https://www.govtech.com/products/newark-n-j-airport-tests-facial-recognition-for-boarding"
+    ampWebUrl: "https://www.govtech.com/products/newark-n-j-airport-tests-facial-recognition-for-boarding?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/newark-n-j-airport-tests-facial-recognition-for-boarding?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 74
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/4b0c0fb/2147483647/strip/true/crop/3840x2002+0+158/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F8b%2Ff0%2Fd7d5d49246228a0d733bfc67324b%2Fshutterstock-1651644193.jpg"
+        width: 840
+        height: 438
+        isCached: true
 
 secured: "qRBIZalWdW6/+2xi4wMgBubG1IW6yBpD+xknxDztwcT88MvtX5sv+uW1FBEqypuUqOC1H37frdTLLgulM3n3AUquCqemyBnd9UJmZc9u44IEcbVAR8Ha0Mga22HP+R4Md73QtGVIviRRVa6x2Iw+M7WTu73/Tl0HFsfit89wDXGgwu5+ufHTh7Hl3dIPw7t69xcg2gTD5o22JzsBfTNjXF1WNJXTyrcr/ZaI5oX9SGzGVdATBKQBaONYRHK7A/qd233Dp5k/0/CipdHgS+dgnsDJpylYc1IGVlGb5oG4j2i2DmLs+qFCbBosNKUYRC1LGPP5mpQyo6o9zhd8FE6KLaI1WKbDtDYIuR6I5VAwiu5gmYyhmUVbxslN2k06rd+1+iNusyF8VZeKRQrsl4o4XRLmjZmjThQUDhvWslD+I50r2vX2aSltuZSoqb++pRloBQMJ/YZ5wvWGeb49RutFSJveMij2HzrPJnYNcJyg94U/CM+lmkzm8hEZGzOoF8ZyW/jOsCFRd7faZQ58wz88iw==;o0kzShc7Mks8gVek2zFN9Q=="
 ---

@@ -70,6 +70,15 @@ related:
         width: 610
         height: 380
         isCached: true
+  - title: "Mate Labs, Indian AI startup, to digitally transform Luminous Power Technologies' Supply Chain"
+    excerpt: "Luminous Power Technologies, India's market leader in power backup and home electricals, today selected Mate Labs' flagship product Mateverse to strengthen its supply chain against a potential Covid third wave."
+    publishedDateTime: 2021-08-18T22:15:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20210818/3805004.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 5
 
 secured: "ma+VpmEzXUSMZ/SNSPcCmow38k68GaCJzgSRvRbAP0A/+kjB+bEqcZtzeupM1AelvAQPHlhDB2dBWbH2a93dx8q6U1PMQj2ZSFu72uAeGkrwbRNCm/Yqerwpss2sITegvrAquN54jpg0KXAgKnFsW6/a9T3bDrCLZDjos7nm3U7XQW9cIyeJDtGg3ok2VQ+WHUCE1eZiatixtRyUMZirwWD7RMv1kvcWCHeJUbYwX5bqne6EhXPd847j90QkvAbZSXlQFrIpRPOAdK6MHoQZYhsb76T9mbtkutrb2TSDZPpPUDXFYT1nDMdzFIpBQA0xdHL/wFHT/Q3PPye+cJfAq+exfNMkQZ/zTQvdYgjugUhM3uv+t7w38E2oxGfiWjCFAtH8Fh1EhfSXdIp/gBcXnZcryJ0+4NXIIY18jPfwd6vrA+iqqiqSZZ/pVZ0OW33OfL3qlbejghyoRLtz0mHB3hlYvpg0yIk3FmCIr6mfzhmq9aDzt7fdGKOG+bDT1wBcILGRL6tOByipk2cNiH9KtQ==;k/vzZbSKWmbzHLDLuSbfBw=="
 ---

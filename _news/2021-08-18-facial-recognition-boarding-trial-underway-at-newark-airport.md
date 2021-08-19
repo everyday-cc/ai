@@ -9,7 +9,7 @@ ampWebUrl: "https://simpleflying.com/newark-airport-facial-recognition/amp/"
 cdnAmpWebUrl: "https://simpleflying-com.cdn.ampproject.org/c/s/simpleflying.com/newark-airport-facial-recognition/amp/"
 type: article
 quality: 74
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Newark, N.J., Airport Tests Facial Recognition for Boarding"
+    excerpt: "The Newark Liberty International Airport is using facial recognition to verify passengers for boarding at a single gate in a new pilot program. The goal is to make boarding a smoother process."
+    publishedDateTime: 2021-08-18T22:05:00Z
+    webUrl: "https://www.govtech.com/products/newark-n-j-airport-tests-facial-recognition-for-boarding"
+    ampWebUrl: "https://www.govtech.com/products/newark-n-j-airport-tests-facial-recognition-for-boarding?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/newark-n-j-airport-tests-facial-recognition-for-boarding?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 74
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/4b0c0fb/2147483647/strip/true/crop/3840x2002+0+158/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F8b%2Ff0%2Fd7d5d49246228a0d733bfc67324b%2Fshutterstock-1651644193.jpg"
+        width: 840
+        height: 438
+        isCached: true
   - title: "Facial Recognition Self-Boarding Pilot Program Launches at Newark Airport"
     excerpt: "Boarding an airplane can be a stressful experience, particularly if you’ve found yourself searching for your boarding pass and passport. A pilot program launched by the Port Authority, in partnership with the airline Lufthansa,"
     publishedDateTime: 2021-08-17T21:48:00Z

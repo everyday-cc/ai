@@ -6,8 +6,8 @@ publishedDateTime: 2021-08-18T18:27:00Z
 originalUrl: "https://www.newswhip.com/2021/08/how-companies-like-mcdonalds-and-bosch-are-incorporating-artificial-intelligence/"
 webUrl: "https://www.newswhip.com/2021/08/how-companies-like-mcdonalds-and-bosch-are-incorporating-artificial-intelligence/"
 type: article
-quality: 34
-heat: 34
+quality: 36
+heat: 36
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.newswhip.com/wp-content/uploads/2021/08/Linkedin-post-144.png"
@@ -24,6 +25,6 @@ images:
     height: 506
     isCached: true
 
-secured: "MuNH4ArpcGGqDpJ0BCQEYGCe1j/bftMm6eTPTfngVZOPllpgKM6aBsJ1dFz0SafanCXRYdFiOYFyNrN8I/5rOCy57rcqUAowugouPmOP0HrsNA2H3Zb3EBO6Uf4VGhpfzmmnbLls24FGFCYPT7BtO5Mrfa3m99ptuMLhm+lejuTvQzLnJsM6sXObeb4hZnY+0E6p2c64fNf57K4AChF3HVeZdgiXqOJNKgkp4IBhMASjNqxsGlnqRixEoNUKgJPFQPe8mhiUaEllCNeMdiU4+Ig6FZgttNYw6I5H4gNcoX8XMctUqWyAH2Z+Y7jSB/Qgqdjy10xwNwEJnUCl/upID+4ArTnmWrowMVqgfBFdcTg=;9QJGVFzHixrFHlHhfPE63A=="
+secured: "T7mE3es9OddJufPYNrYURwHMJcjaGOTzYHGc96h5hgzGGZSq2rDoxTRxWXCdR53Fbr1VBzwh2r1DBUGwy38m+Gx5BKAEpDR9ym40WB0ACNRoZ/bxNspOc5RgSWk2MOz3k9jEe3vQr/+6jKXK8UXrgmasNaMvHBLIPHIpY10vKA7SOezVpXBCQiAo2BPk5CYR490e4Rr5cu8jXyTFcNE3Gdm8H7UdAMpTJ5UYlK7Zq77seuLxfGsdVaYV0sXZ4ZVhTQdVZ16BywW8N4jcSOxOBkdvcnbLcFOIYUjjMrav0E51TtA52ykqise5pn2bq6HPcD9nxpsDT4F7FbAnU2CerRv6QluHPieZg+m6T7UcBHpZsQIGFuJiWwLpfZozAHT8E0kZXfLbFm+Z2JJ9Z7Wp1cqLGLbLxFpDvtsi6Qpx2bnu2OeEVcqMFKBUSKyUdQK4bimxnHOVPxBMsp6G252jHQSWZFE2XkVD6wb/pLgMFK7OJ6t/vW0ht8ScO+1noQd6jRirobZyZADszFQ6oF7j9w==;IHfct18T2rmRyhWshIHG8A=="
 ---
 

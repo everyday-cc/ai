@@ -43,6 +43,20 @@ related:
         width: 1260
         height: 592
         isCached: true
+  - title: "Amazon SageMaker notebook instances now support Amazon Linux 2"
+    excerpt: "Today, we’re excited to announce that Amazon SageMaker notebook instances support Amazon Linux 2. You can now choose Amazon Linux 2 for your new SageMaker notebook instance to take advantage of the latest update and support provided by Amazon Linux 2. SageMaker notebook instances are fully managed Jupyter"
+    publishedDateTime: 2021-08-18T22:35:47Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-notebook-instance-now-supports-amazon-linux-2/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        width: 768
+        height: 385
+        isCached: true
   - title: "Secure multi-account model deployment with Amazon SageMaker: Part 2"
     excerpt: "In Part 1 of this series of posts, we offered step-by-step guidance for using Amazon SageMaker, SageMaker projects and Amazon SageMaker Pipelines, and AWS services such as Amazon Virtual Private Cloud (Amazon VPC), AWS CloudFormation, AWS Key Management Service (AWS KMS), and AWS Identity and Access"
     publishedDateTime: 2021-08-18T13:41:13Z
@@ -98,6 +112,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/12/ML-4590-image003-1242x630.png"
         width: 1242
         height: 630
+        isCached: true
+  - title: "Migrate your work to an Amazon SageMaker notebook instance with Amazon Linux 2"
+    excerpt: "Amazon SageMaker notebook instances now support Amazon Linux 2, so you can now create a new Amazon SageMaker notebook instance to start developing your machine learning (ML) models with the latest updates. An obvious question is: what do I need to do to migrate my work from an existing notebook instance"
+    publishedDateTime: 2021-08-18T22:36:58Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/migrate-your-work-to-amazon-sagemaker-notebook-instance-with-amazon-linux-2/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 85
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/18/ML-4924-image001.jpg"
+        width: 1092
+        height: 732
         isCached: true
 
 secured: "VJaasdEB6+bJrDzaGnVmUHwKj3jTNvOnUfvRqnW2AadVwoTuujUWREQQzxGqtJGfY3sEsp4qDWXs/kOkNLZW7UEkqBiBTCYhJqAWaPvbWpBkW0G1kOeBuqNRrqIVK0x6zBmIBDK0/+PGaeBvaUbmg2KIqsKjexdTCdjfLtUjHlj0iTq46OLuwFw1+XzCRNXHDTx+rfLyJWdp1lT4sRDMrcjEAZlMk9HpwEJH3fYl4eGVh8QAepD4rW6N5CpLh7rpIDNWAYl6D/RRbKnghIb1s2DmeDZw8+InI0i0k4EBcR8/xAMDlvCB9mcrngvhxyPUJnOY3NjvA6YuKdg9r5+FCWpOYuaqIGFSjiIkBsgH46w=;yJ4RsLRpzvIBOm6+pCZ8ew=="

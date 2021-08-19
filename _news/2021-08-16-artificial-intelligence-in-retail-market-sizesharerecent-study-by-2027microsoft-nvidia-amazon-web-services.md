@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2355656/artificial-intelligence-in-retail
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2355656/artificial-intelligence-in-retail-market-size-share-recent"
 type: article
 quality: 86
-heat: 137
+heat: 136
 published: true
 
 provider:

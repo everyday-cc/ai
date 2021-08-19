@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/08/15/tesla-pushes-full-self-driving-beta-u
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/15/tesla-pushes-full-self-driving-beta-update-download-button/amp/"
 type: article
 quality: 79
-heat: 113
+heat: 109
 published: true
 
 provider:
