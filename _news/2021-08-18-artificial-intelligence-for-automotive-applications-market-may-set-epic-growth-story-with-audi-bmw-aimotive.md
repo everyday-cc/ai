@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2358326/artificial-intelligence-for-autom
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2358326/artificial-intelligence-for-automotive-applications-market"
 type: article
 quality: 55
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Based Medical Device Market May Set Epic Growth Story | NVIDIA, Medtronic, GE Healthcare"
+    excerpt: "Worldwide Artificial Intelligence Based Medical Device Market In depth Research Report 2021 Forecast to 2026 is latest research study released by HTF MI evaluating the market risk side analysis highlighting opportunities and leveraged with strategic and tactical decision making support"
+    publishedDateTime: 2021-08-19T12:48:00Z
+    webUrl: "https://www.openpr.com/news/2360701/artificial-intelligence-based-medical-device-market-may-set"
+    ampWebUrl: "https://www.openpr.com/amp/2360701/artificial-intelligence-based-medical-device-market-may-set"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2360701/artificial-intelligence-based-medical-device-market-may-set"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 53
+    images:
+      - url: "https://cdn.openpr.com/U/8/U819997887_g.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Auditoria.AI Named to Constellation ShortList for AI-Driven Cognitive ..."
     excerpt: "SANTA CLARA, CA / ACCESSWIRE / August 18, 2021 / AUDITORIA.AI, a pioneer in AI-driven automation solutions for corporate finance teams, today announced it was named to the Constellation ShortList™ for AI-Driven Cognitive Applications in Q3 2021."
     publishedDateTime: 2021-08-18T13:01:00Z

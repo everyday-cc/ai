@@ -6,7 +6,7 @@ publishedDateTime: 2021-08-19T11:50:00Z
 originalUrl: "https://www.datacenterdynamics.com/en/news/baidus-kunlun-ii-ai-chips-enter-mass-production/"
 webUrl: "https://www.datacenterdynamics.com/en/news/baidus-kunlun-ii-ai-chips-enter-mass-production/"
 type: article
-quality: 39
+quality: 56
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI Hardware
 
 images:
   - url: "https://media.datacenterdynamics.com/media/images/Baidu_headquarters.2e16d0ba.fill-1200x630.jpg"
@@ -90,6 +91,6 @@ related:
       domain: telecompaper.com
     quality: 34
 
-secured: "ldG+5jAoupXFV+PFA6nxKpT7P4wodE5EhP5LgMHlugxuoSdvYiHj/mNVpLaG1OHh1Oh6AC+Ycn1Bs5dXppscDiE+kwkRqkgsR4bYRABd+7lm1Oi2x3myxkl6fJEtbKcChvQP1LEN/gqGpdUK8/nResh9Yp9QI9sPpHxKEmgPNjrmrqwzw31FZe0ZRkXv0NZbAloqR57Vgmajh1KJ/DsQaQWJ7YoJnuEl6qkZiucDNUxlO6KMq9iUE6sJyRI4CTC+YykJLN2bJUu8ytU0l8F6JDBSij0c1EJXvyHXvhAT3rkHAO56XtjewCPO5aLI0bRCF16Yl4PjdAXG6LdEXzqCghjwUqWdPwrkPyxiG1ZAOno=;myUVVQfRUalOUfJYXQXQUQ=="
+secured: "g0UzkFOla1UF/jRVFHB9wkuj/yew+bIQNEmlGi02da5/vaL37enDv8+vX4ALeXLc4Ipg3UMxsbOci+707hiFYHPIqSXLRu+FtaAJPJ6tltqJayIGEhLon5l8vhnnm7TKhCtXW5QhBLYafZG9/us2yQk5Ny+7l4X8x4bPcM47YiM4+Cm93N7WaPlOf5jCu9PmBhlBMGOm5v2+xd+hDbcBF9cNByH7h3w1ilMd5zOf+Ss/pvSos7XStdVhY3OUu8vMF+s43aM0Zy5eIs/Wh4ZuKol1xXbkLcvtLhLv3spqXhlDVPBFzrWgOfYWwS/kgguZS7W9Oy5ifCGOPAKE8Yu/9POl8FfjjOMAXcRZO3UIY7ZXQINP8mznroJAUMWzyO7CaTonlVp4iQo5wNLhOAtQZvtwU55v5rYDGdQmHcYhAzBR2oRiScnMjJohD2RkR9Vl4b5aMQiFi3t68yK0qfi0jJEUGfDITwasvdD8qN4YELpCZtKp8kYvUNsKGGzsToyxrT5p6YlTcX8BjrwxQxHBsw==;/60v2/wms+mJPN6i6NLeoA=="
 ---
 

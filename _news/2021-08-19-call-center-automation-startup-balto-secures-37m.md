@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/08/19/call-center-automation-startup-ba
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/19/call-center-automation-startup-balto-secures-37m/amp/"
 type: article
 quality: 72
-heat: -1
-published: false
+heat: 82
+published: true
 
 provider:
   name: VentureBeat
@@ -30,49 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "Automation-as-a-service startup Rapid Robotics raises $36.7M"
-    excerpt: "Rapid Robotics, a startup providing out-of-the-box automation solutions for manufacturers, today announced it has raised $36.7 million."
-    publishedDateTime: 2021-08-18T13:00:00Z
-    webUrl: "https://venturebeat.com/2021/08/18/automation-as-a-service-startup-rapid-robotics-raises-36-7m/"
-    ampWebUrl: "https://venturebeat.com/2021/08/18/automation-as-a-service-startup-rapid-robotics-raises-36-7m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/18/automation-as-a-service-startup-rapid-robotics-raises-36-7m/amp/"
+  - title: "Computer vision solution startup Doxel secures $40 Million in Series B round, continues to scale-up India operations"
+    excerpt: "The investment will allow Doxel to continue to expand its India workforce with hiring planned across the enterprise, scale its artificial intelligence platform, and rapidly accelerate recruiting across its engineering,"
+    publishedDateTime: 2021-08-17T07:56:00Z
+    webUrl: "https://www.dqindia.com/computer-vision-solution-startup-doxel-secures-40-million-series-b-round-continues-scale-india-operations/"
+    ampWebUrl: "https://www.dqindia.com/computer-vision-solution-startup-doxel-secures-40-million-series-b-round-continues-scale-india-operations/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/computer-vision-solution-startup-doxel-secures-40-million-series-b-round-continues-scale-india-operations/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 119
+      name: Dataquest
+      domain: dqindia.com
+    quality: 36
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1224500457-e1629234304346.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Startup That Develops AI-Pumped Robotic Arms Raises $37 Million"
-    excerpt: "Rapid Robotics’ Series B was led by Kleiner Perkins and Tiger Global, and comes as labor and parts shortages are hitting the economy."
-    publishedDateTime: 2021-08-18T17:39:00Z
-    webUrl: "https://www.wsj.com/articles/startup-that-develops-ai-pumped-robotic-arms-raises-37-million-11629311957"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 84
-    images:
-      - url: "https://images.wsj.net/im-387697/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Rapid Robotics raises $36.7M for its AI-powered industrial robots"
-    excerpt: "Kleiner Perkins and Tiger Global have led a $36.7 million funding round for Rapid Robotics Inc., a startup developing artificial intelligence-powered robots aimed at the industrial sector. San Francisco-based Rapid Robotics announced the funding this morning."
-    publishedDateTime: 2021-08-18T13:00:00Z
-    webUrl: "https://siliconangle.com/2021/08/18/rapid-robotics-raises-36-7m-ai-powered-industrial-robots/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 69
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/1.png"
-        width: 745
-        height: 422
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/03/funding.jpg"
+        width: 850
+        height: 400
         isCached: true
 
 secured: "0Er6iSnpF9jcvys5PkAyfnZhgVFHnD9bbBX50jU+wXpXHmCDnppZMesmby9242VQw0K39oVL1pWC5nClF5cgMC+jVpKI1TRbK34WsGjvmfV+ksnHufbX0PU7wyixhgXGRfvwJQFFFUS+ehEWUpkyc9yA+7f7H8O12d37v+uY1Oy/Vvxxz8YOW4WAyPn1pugl7is9KGTiXQsvxAeS30ZNOyfUFY93GotAW+/mQosKBzDMN8UCdTF65aQCpQgZWkf3ra6Y25S6jFivdDAekYvT3hlV0KY4919ipyqV96qUthDDfl2lr26uKPUSdt83B1oYIq7kmhqgL4TXlvdNCXXbg4QAeFo5jFTYBqWI26qbp8w=;qg7hk8ZUwSSjBwmC3msvcQ=="

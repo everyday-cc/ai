@@ -62,22 +62,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Elon Musk’s Plan To Tout Tesla AI Comes As Tougher Scrutiny Of The Company Looms"
-    excerpt: "The company's AI Day takes place as NHTSA probes its Autopilot feature and as two Senators call for a Federal Trade Commission investigation of how Tesla promotes Autopilot and Full Self Driving."
-    publishedDateTime: 2021-08-18T18:53:00Z
-    webUrl: "https://www.forbes.com/sites/alanohnsman/2021/08/18/elon-musks-plan-to-tout-tesla-ai-comes-as-tougher-scrutiny-of-the-company-looms/"
-    ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2021/08/18/elon-musks-plan-to-tout-tesla-ai-comes-as-tougher-scrutiny-of-the-company-looms/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2021/08/18/elon-musks-plan-to-tout-tesla-ai-comes-as-tougher-scrutiny-of-the-company-looms/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 99
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611d5044bebdc296608d0853%2F0x0.jpg"
-        width: 1200
-        height: 849
-        isCached: true
   - title: "What to expect from OpenAI’s Codex API"
     excerpt: "The Codex demo puts the advantages of large language models on display, showing an impressive capacity to resolve references and write code."
     publishedDateTime: 2021-08-16T21:20:00Z
@@ -106,18 +90,29 @@ related:
       domain: nasdaq.com
     quality: 86
   - title: "Musk's 'AI Day' confronts tough questions about Tesla's technology"
-    excerpt: "At Tesla's \"Autonomy Day\" event in April 2019, Chief Executive Elon Musk said that by mid-2020 Tesla (TSLA.O) would have over a million self-driving vehicles where riders \"could go to sleep\" during a trip."
-    publishedDateTime: 2021-08-19T02:02:00Z
-    webUrl: "https://www.reuters.com/technology/musks-ai-day-confronts-tough-questions-about-teslas-technology-2021-08-18/"
+    excerpt: "At Tesla's \"Autonomy Day\" event in April 2019, Chief Executive Elon Musk said that by mid-2020 Tesla would have over a million self-driving vehicles where riders \"could go to sleep\" during a trip. By Hyunjoo Jin SAN FRANCISCO, Aug 18 (Reuters) - At Tesla's ..."
+    publishedDateTime: 2021-08-19T10:36:00Z
+    webUrl: "https://www.nasdaq.com/articles/musks-ai-day-confronts-tough-questions-about-teslas-technology-2021-08-19"
+    ampWebUrl: "https://www.nasdaq.com/articles/musks-ai-day-confronts-tough-questions-about-teslas-technology-2021-08-19?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/musks-ai-day-confronts-tough-questions-about-teslas-technology-2021-08-19?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 86
+  - title: "Tesla Autopilot U.S. Safety Probe Puts a Damper on Elon Musk’s AI Day"
+    excerpt: "The federal investigation into Tesla Inc.’s Autopilot comes at an awkward time for Elon Musk. On Thursday -- just three days after the U.S. government announced its probe -- he has a briefing scheduled about the carmaker’s work on artificial intelligence."
+    publishedDateTime: 2021-08-16T15:58:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-08-16/tesla-autopilot-u-s-safety-probe-puts-a-damper-on-musk-s-ai-day"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
     quality: 84
     images:
-      - url: "https://www.reuters.com/resizer/gQCbWlBrk4aRoBGlrduiXWv8Rzo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2MB6UJWVB5KMZA545NR5FCANH4.jpg"
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVshSUQDWYX0/v0/1200x900.jpg"
         width: 1200
-        height: 628
+        height: 900
         isCached: true
   - title: "Dow Selloff, Nvidia, Tesla AI Day, Robinhood: 5 Things You Must Know Thursday"
     excerpt: "\"That said, the start of tapering necessarily chips away at the tools at the Fed ... The stock dropped 11.73% to $43.96 early Thursday. Tesla's AI Day is invite-only and is expected to begin ..."
@@ -146,6 +141,20 @@ related:
       name: The Market Herald
       domain: themarketherald.com.au
     quality: 71
+  - title: "Tesla Autopilot U.S. Safety Probe Puts a Damper on Elon Musk’s AI Day"
+    excerpt: "The federal investigation into Tesla Inc.’s Autopilot comes at an awkward time for Elon Musk. On Thursday -- just three days after the U.S. government announced its probe -- he has a briefing scheduled about the carmaker’s work on artificial intelligence."
+    publishedDateTime: 2021-08-17T03:58:00Z
+    webUrl: "https://www.bloombergquint.com/business/tesla-autopilot-u-s-safety-probe-puts-a-damper-on-musk-s-ai-day"
+    type: article
+    provider:
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 54
+    images:
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "e34TdqQDp/6rj0OdcN3aoRl4b1EcGbeepxa+GsLWcoAOVoZh9B/gDzFF4Ot4Hw7hYJpk5mr5GxITxrlKRvbQb6W8AW0JmrSD5T0QxI7a+zUimJJpS6qvVLYUbB8mUUkGWu887Eyx9St7SIV+VuXvcC7Yw4337YaE4513lzuONb+6xTWc1gVeGjlll7xg6VOdmuXET6bUJnva0+O717sWkmOtep0NuugcWnBRicA6wv41o0W5jdPFt2qzo9hKaC5hXqSS1fn9EgtvKb598ItikcOhM1EXwHFWm02m5I5VOXQ5oX3L0Yc3G+n9VIoyENU2JLJGw7+m+kVOFNGwMCbSSRcIbjbyuRwJ1faJGOkcbSDIiuxuqa6WL2ZGe1bPCtsfieQR8tYR8Zvs4j7qNKmwL09L4e7m18NLj4jbpmacB9v0fPz9q6fwdpeohi4ZbxHPU4LS+omqTIMFW9HlEMMFY3F/4V887RAAFUDKFUH3X+lBwDHPiHpYiCgGWgcGiXh+zg4FKLpPx+08l36A1ky2BQ==;Kn+F7m9wxKLWTmFyTtJSyw=="
 ---

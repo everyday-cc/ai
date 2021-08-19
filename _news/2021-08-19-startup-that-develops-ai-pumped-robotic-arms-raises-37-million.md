@@ -6,9 +6,9 @@ publishedDateTime: 2021-08-18T17:39:00Z
 originalUrl: "https://www.wsj.com/articles/startup-that-develops-ai-pumped-robotic-arms-raises-37-million-11629311957"
 webUrl: "https://www.wsj.com/articles/startup-that-develops-ai-pumped-robotic-arms-raises-37-million-11629311957"
 type: article
-quality: 84
-heat: -1
-published: false
+quality: 184
+heat: 204
+published: true
 
 provider:
   name: Wall Street Journal
@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Call center automation startup Balto secures $37M"
-    excerpt: "Balto, a call center automation startup based in St. Louis, has raised $37 million in series B funding for its agent coaching AI."
-    publishedDateTime: 2021-08-19T11:00:00Z
-    webUrl: "https://venturebeat.com/2021/08/19/call-center-automation-startup-balto-secures-37m/"
-    ampWebUrl: "https://venturebeat.com/2021/08/19/call-center-automation-startup-balto-secures-37m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/19/call-center-automation-startup-balto-secures-37m/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 72
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/11/shutterstock_344231354-e1628723101457.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Rapid Robotics raises $36.7M for its AI-powered industrial robots"
     excerpt: "Kleiner Perkins and Tiger Global have led a $36.7 million funding round for Rapid Robotics Inc., a startup developing artificial intelligence-powered robots aimed at the industrial sector. San Francisco-based Rapid Robotics announced the funding this morning."
     publishedDateTime: 2021-08-18T13:00:00Z
@@ -76,6 +60,6 @@ related:
         height: 422
         isCached: true
 
-secured: "0AMOffx3WZn9LZpCz1bsZkwezkPEipRKX0GqCxR41lqjh2Ija8pLx5jFpr1dCyijWR7SE2S6ljP1GvR/WPT298xDVTRgDlNDd4VG5Hsaudh2yBDdsr4opbv6tSz6B7WKjF+KSQUz8yco//C2ibzTEge6zyc2X8pG5pxUjUB20M+D8UEt60DMZiVN8GH+Jw6WEkZQfLxs/Gitz8x5CQBzLeCSs8bjcOFHu67ItREeGEG4a7q4/lWtSPPxv2HAsRlPH2hWd3vm7Jy08Tk8CKS7yEAkbp+H4r5jQjjZtZwpU666M4nN1YZ+IipYKj4CQ40K5dSHjWk9FlajlflCHbDS+peP8Wb9pb/DJt4Teid/ouE=;TLyB5+orE4kOs1o01kHGuw=="
+secured: "pe2Bg2wsRxBhYsDLasBgIi0gsWqOF4NNGC5y8L5HbVoEoCwPLDGe9jNsxO+jp4FtnxoLUw5xs64BD1Syt8jcWLTQPIPrn0ThUTGtFlmjus56636egqpETBa0k1jyii1M+lnO1U8tgOKSUKcKlVzg64BV0Wel/o9BIuztSiaZZkdhl6HPeZEaWAueBxKyYzL8DX07R86lkN/zYTUkDGLasDJ+hpJX3cz0qh7TgAIDbw7hGN5c9FDROF+Ky+jImwEXmiLpR71xBPJXTSZVZAPUoAXWKrTnAVTCK1bbjoMrnS49e7wJ5DoIMshQkyIsiRER74ajOdAIospCc1557uEEOzqDVfM8JfhcnV5MExEaqMgmRqar3/I489x+MAAmG1+ymX41B+DYGnvdrfZ/whaS/czTrHLzUhki982SR6oy98s7LZA2f2k5ozAzfoip6/gYdeDwvr8q1fcegbC/F1MeghovLBkeJT6RMj5eSa3V4ZroWgtVPvqU+xIoXU/QrsMlK9ZgX3PLpQX37iEP0+trtjJJZT2HIloPPwwY++R9OyQ=;arou4AJXPzG6ZGKncZZBQg=="
 ---
 

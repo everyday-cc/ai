@@ -8,8 +8,8 @@ webUrl: "https://www.dqindia.com/machine-learning-transforming-lending-industry/
 ampWebUrl: "https://www.dqindia.com/machine-learning-transforming-lending-industry/amp/"
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/machine-learning-transforming-lending-industry/amp/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://www.dqindia.com/wp-content/uploads/2021/07/machine-learning-5290464_640.jpg"

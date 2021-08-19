@@ -1,19 +1,16 @@
 ---
 category: news
-title: "Colorado Standardized Test Scores Reveal Deep Learning Loss From Pandemic: 'Creates A Sense Of Urgency'"
-excerpt: "Anecdotally, it's been no secret that students have fallen behind during the constraints of the pandemic, but state standardized test score data released Thursday paints a clearer picture of just how severe that learning loss may have been."
-publishedDateTime: 2021-08-12T23:21:00Z
-originalUrl: "https://denver.cbslocal.com/video/5889845-colorado-standardized-test-scores-reveal-deep-learning-loss-from-pandemic-creates-a-sense-of-urgency/"
-webUrl: "https://denver.cbslocal.com/video/5889845-colorado-standardized-test-scores-reveal-deep-learning-loss-from-pandemic-creates-a-sense-of-urgency/"
-ampWebUrl: "https://denver.cbslocal.com/video/5889845-colorado-standardized-test-scores-reveal-deep-learning-loss-from-pandemic-creates-a-sense-of-urgency/?amp"
-cdnAmpWebUrl: "https://denver-cbslocal-com.cdn.ampproject.org/c/s/denver.cbslocal.com/video/5889845-colorado-standardized-test-scores-reveal-deep-learning-loss-from-pandemic-creates-a-sense-of-urgency/?amp"
+title: "Colorado Standardized Test Scores Reveal Deep Learning Loss From Pandemic: ‘Creates A Sense Of Urgency’"
+excerpt: "“I think it really creates a sense of urgency as to how we help our students catch up from any learning loss they might have experienced over the last year.” READ MORE: Safeway Faces Fines ..."
+publishedDateTime: 2021-08-13T00:47:00Z
+originalUrl: "https://denver.cbslocal.com/2021/08/13/covid-standardized-test-scores-learning-loss/"
+webUrl: "https://denver.cbslocal.com/2021/08/13/covid-standardized-test-scores-learning-loss/"
+ampWebUrl: "https://denver.cbslocal.com/2021/08/13/covid-standardized-test-scores-learning-loss/?amp"
+cdnAmpWebUrl: "https://denver-cbslocal-com.cdn.ampproject.org/c/s/denver.cbslocal.com/2021/08/13/covid-standardized-test-scores-learning-loss/?amp"
 type: article
-quality: 43
-heat: 43
-published: false
 
 provider:
-  name: CBS Local
+  name: CBS Denver
   domain: cbslocal.com
 
 topics:
@@ -21,11 +18,11 @@ topics:
   - AI
 
 images:
-  - url: "https://m101675-ucdn.mp.lura.live/anv-iupl/D7B/346/D7B3462C30543700D7A235847E04E7D8.jpg?Expires=1723766400&KeyName=mcpkey1&Signature=-hChSuhJx69PWyS8kLTjBLOhA6s"
-    width: 1920
-    height: 1080
+  - url: "https://denver.cbslocal.com/wp-content/uploads/sites/15909806/2021/08/STATE-TESTING-DATA-5PKG.transfer_frame_1349.jpeg?w=420"
+    width: 420
+    height: 236
     isCached: true
 
-secured: "cwRehjzLSTGMbC3YyDq2dicfOrFGbSJLzSGlgSqs0DQqxUwx8kaX+K+WMQKlK5mn25zXH8rxiZVDj63dTeUYLged3uw6XRougYkdHMoNym230ZVXaTNB3WiFG6GyY2WUzCDRHt9mPdK0uFSVzaluhGwwoOfkPFCaPWgq62Lh1cn2nyeSZtoiVi32eDGqSvlcj5PFbifHaXDF7Yg43M220d2DWu3UW+JMuu4c3aAFmsAIfihICS+O9vJTqFoIf2mk+tiJsidALshBPXsLJ+iiumiX9HRIDU22BuQ/9pZEIciTZwgamOY4FT2rmRSRB4NsMfoMeJ++lQ/xLvSyn6vJ0GRK7w6LCBk+EOKnIjvFVFZ8uyeet4W1FVx1UnB/qgPRDJW86iT0cpJBS+ndEVa4v+Au+DvqhzGW2vbWw4d3ZyDttS4t5PhYcxDcnhzPM0OJScMo1gEQqSOd9XanPdmumf1hD2Dx+EwustaOIno2k3wKqgY3uRVJCEEFT54AdBcZwnF/CPh7mbgIn22+E4EUbQ==;HTUDKlWVx+E0BTcht9LmVg=="
+secured: "qA3m1WgMLUiEsWskJwNmc4LED3OzDqkydVwwpMwlexlNj3L5WdqYGxwQi68f6yjmLDgziXYy/BRb1TvVNLpO8MjmC4xiE3nBqg1TnIP5GGuaeq0t++L208JqgKcmkRCILayVidOIcbcIoxzszwwD05OBfiB6dgdVKYFYD7p7kS5xmOxTu00ljDPs9GDahf3RW1mgMmQ1gfr8qRVV4Yqvny2k9LyqmUfumtnxNBuFJQnpOcivqc76VK0PZEFJuawn/J0jG+q9eSIB3UQVdQAVbhh6EXO2QfGEtbrQmZXrjJAa3c+hh6erFUzdvL7jNol7cBTUKWhnL91hR1OIm7uNnaDn7ebYjBdKuYX8cPBSMR4=;VFVD6kVkDLF3e8OqKN4Arg=="
 ---
 

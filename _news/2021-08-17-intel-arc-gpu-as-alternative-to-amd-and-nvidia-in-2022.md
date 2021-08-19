@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Intel's Arc gaming GPU: Price, specs and availability"
+    excerpt: "Intel Arc GPUs will face off against AMD and Nvidia rivals with hardware ray tracing and other key features. Read all about them here."
+    publishedDateTime: 2021-08-19T13:00:00Z
+    webUrl: "https://www.pcworld.com/article/3629402/intels-arc-gaming-gpu-price-specs-and-availability.html"
+    ampWebUrl: "https://www.pcworld.com/article/3629402/intels-arc-gaming-gpu-price-specs-and-availability.amp.html"
+    cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3629402/intels-arc-gaming-gpu-price-specs-and-availability.amp.html"
+    type: article
+    provider:
+      name: PC World
+      domain: pcworld.com
+    quality: 104
+    images:
+      - url: "https://images.idgesg.net/images/article/2019/03/intel-xe-gpu-tease-100791559-large.jpg?auto=webp"
+        width: 1199
+        height: 662
+        isCached: true
   - title: "Intel Revealed A Lot More Than Just Its Arc Discrete GPU Branding Today"
     excerpt: "Intel Arc will be the brand to do battle with NVIDIA’s GeForce and AMD’s Radeon graphics products when it arrives in Q1 2022."
     publishedDateTime: 2021-08-16T22:22:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/marcochiappetta/2021/08/16/intel-reveal
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcochiappetta/2021/08/16/intel-revealed-a-lot-more-than-just-its-arc-discrete-gpu-branding-today/amp/"
 type: article
 quality: 89
-heat: 199
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Intel's Arc gaming GPU: Price, specs and availability"
+    excerpt: "Intel Arc GPUs will face off against AMD and Nvidia rivals with hardware ray tracing and other key features. Read all about them here."
+    publishedDateTime: 2021-08-19T13:00:00Z
+    webUrl: "https://www.pcworld.com/article/3629402/intels-arc-gaming-gpu-price-specs-and-availability.html"
+    ampWebUrl: "https://www.pcworld.com/article/3629402/intels-arc-gaming-gpu-price-specs-and-availability.amp.html"
+    cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3629402/intels-arc-gaming-gpu-price-specs-and-availability.amp.html"
+    type: article
+    provider:
+      name: PC World
+      domain: pcworld.com
+    quality: 104
+    images:
+      - url: "https://images.idgesg.net/images/article/2019/03/intel-xe-gpu-tease-100791559-large.jpg?auto=webp"
+        width: 1199
+        height: 662
+        isCached: true
   - title: "Intel Enters Dedicated GPU Market With Intel Arc: Will Be Available From Q1 2022"
     excerpt: "Though Intel makes both CPU and GPU, it is always widely recognized for making CPU. The company has now announced a sub-brand, dedicated to the graphics card -- Intel Arc. Under this initiation, the company will launch the first generation of dedicated graphics cards based on Xe HPG microarchitecture."
     publishedDateTime: 2021-08-17T07:09:00Z

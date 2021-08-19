@@ -25,78 +25,57 @@ images:
     isCached: true
 
 related:
-  - title: "African fintech Pngme raises $15M for its financial data infrastructure platform"
-    excerpt: "Unbundling financial data through APIs and driving data-driven insights with value-add products in Africa keeps getting more exciting as major players continue to raise more money for scale. Less than a year after its $3 million seed round,"
-    publishedDateTime: 2021-08-17T11:01:00Z
-    webUrl: "https://techcrunch.com/2021/08/17/african-fintech-pngme-raises-15m-for-its-financial-data-infrastructure-platform/"
-    ampWebUrl: "https://techcrunch.com/2021/08/17/african-fintech-pngme-raises-15m-for-its-financial-data-infrastructure-platform/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/17/african-fintech-pngme-raises-15m-for-its-financial-data-infrastructure-platform/amp/"
+  - title: "The AI advantages for healthcare and finance"
+    excerpt: "By Evan Schuman When senior executives at two of the world’s most highly-regulated verticals—healthcare and finance—explore ways of improving operations, boosting margins and delivering it all with a strong ROI,"
+    publishedDateTime: 2021-08-18T23:08:00Z
+    webUrl: "https://techcrunch.com/sponsor/beyond-limits/the-ai-advantages-for-healthcare-and-finance/"
     type: article
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 84
+    quality: 101
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/08/85237365-BCDC-4C78-B42B-91B00D15C6C0.jpeg?w=887"
-        width: 887
-        height: 508
-        isCached: true
-  - title: "Financial Data Platform Pngme Raises $15 Million"
-    excerpt: "Pngme, a San Francisco-based financial data platform, announced yesterday that it has secured $15 million in Series A funding."
-    publishedDateTime: 2021-08-18T08:34:00Z
-    webUrl: "https://www.financemagnates.com/fintech/news/financial-data-platform-pngme-raises-15-million/"
-    ampWebUrl: "https://www.financemagnates.com/fintech/news/financial-data-platform-pngme-raises-15-million/amp/"
-    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/news/financial-data-platform-pngme-raises-15-million/amp/"
-    type: article
-    provider:
-      name: Finance Magnates
-      domain: financemagnates.com
-    quality: 59
-    images:
-      - url: "https://www.financemagnates.com/wp-content/uploads/2021/05/StoneX-Logo.jpg"
-        width: 424
-        height: 211
-        isCached: true
-  - title: "Africa: the fintech Pngme raises $15 million to continue its development on the African continent"
-    excerpt: "PNGme, an African fintech that leverages AI to facilitate the collection and analysis of banking data PNGme is a US-based fintech with a presence in Nigeria as well as Kenya. It is developing a financial data infrastructure as well as a machine learning ..."
-    publishedDateTime: 2021-08-19T09:34:00Z
-    webUrl: "https://www.actuia.com/english/africa-the-fintech-pngme-raises-15-million-to-continue-its-development-on-the-african-continent/"
-    type: article
-    provider:
-      name: Actu IA
-      domain: actuia.com
-    quality: 26
-    images:
-      - url: "https://www.actuia.com/wp-content/uploads/2021/08/PNGme.jpg"
-        width: 800
+      - url: "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1244301434.jpg?w=600"
+        width: 600
         height: 400
         isCached: true
-  - title: "Fintech startup Pngme raises $15m Series A funding to power the future of financial services in Africa"
-    excerpt: "Fintech startup Pngme raised $15 million in Series A funding as the company sets out to grow its financial data infrastructure and machine learning-as-a-service platform for financial institutions and fintechs across sub-Saharan Africa."
-    publishedDateTime: 2021-08-19T08:27:00Z
-    webUrl: "https://africabusinesscommunities.com/tech/tech-news/fintech-startup-pngme-raises-15m-series-a-funding-to-power-the-future-of-financial-services-in-africa/"
+  - title: "AI Communication Startup Drips Grows Healthcare Presence"
+    excerpt: "Drips, a conversational communications startup, is growing its presence in the healthcare industry by forming strategic partnerships."
+    publishedDateTime: 2021-08-17T15:30:00Z
+    webUrl: "https://www.pymnts.com/healthcare/2021/ai-communication-startup-drips-grows-healthcare-presence/"
+    ampWebUrl: "https://www.pymnts.com/healthcare/2021/ai-communication-startup-drips-grows-healthcare-presence/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/healthcare/2021/ai-communication-startup-drips-grows-healthcare-presence/amp/"
     type: article
     provider:
-      name: africabusinesscommunities.com
-      domain: africabusinesscommunities.com
-    quality: 23
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 74
     images:
-      - url: "https://adserver.20nine.nl/www/delivery/avw.php?zoneid=30&n=5f0197a"
-        width: 336
-        height: 280
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/08/AI-Drip-healthcare-texting-457x274.jpg"
+        width: 457
+        height: 274
         isCached: true
-  - title: "Sharon French Joins Fintech TIFIN as Senior Partner as over 50 ETFs and Mutual Funds Use the Platform to Reach Financial Advisors and Investors"
-    excerpt: "TIFIN, a fintech platform using artificial intelligence and investment-driven personalization to shape the future of investor experiences, today announced that financial industry veteran"
-    publishedDateTime: 2021-08-16T12:47:00Z
-    webUrl: "https://www.gjsentinel.com/news/colorado/sharon-french-joins-fintech-tifin-as-senior-partner-as-over-50-etfs-and-mutual-funds/article_ec0c1c34-2ab0-576a-9002-7e92ec5a33ec.html"
+  - title: "This company is pushing the boundaries in healthcare with AI"
+    excerpt: "In a fast-paced environment, AI is a resource that never gets tired, never forgets, and can never be emotional."
+    publishedDateTime: 2021-08-18T01:44:00Z
+    webUrl: "https://www.techinasia.com/company-pushing-boundaries-healthcare-ai?ref=recommender-701323"
     type: article
     provider:
-      name: The Grand Junction Daily Sentinel
-      domain: gjsentinel.com
-    quality: 0
+      name: Techinasia
+      domain: techinasia.com
+    quality: 66
+  - title: "ClosedLoop.ai Raises $34M Series B to Usher in AI-Enabled Healthcare and Tackle Trillion-Dollar Healthcare Problem"
+    excerpt: "ClosedLoop.ai., healthcare’s data science platform, today announced a $34 million Series B financing. The investment round, led by Telstra Ventures with participation from Breyer Capital, Greycroft Ventures,"
+    publishedDateTime: 2021-08-17T10:02:00Z
+    webUrl: "https://www.djournal.com/closedloop-ai-raises-34m-series-b-to-usher-in-ai-enabled-healthcare-and-tackle-trillion/article_4f901115-5a95-5de3-951f-d5a015668b37.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 32
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/gjsentinel.com/content/tncms/assets/v3/editorial/d/90/d90f015c-15a8-5633-8f95-1e14c8de3991/611a62080c207.image.jpg?resize=630%2C630"
-        width: 630
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/7/b3/7b39322b-9a77-5c23-8ca9-34c4ef28a821/611b8ce50c2f9.image.jpg?crop=1699%2C956%2C0%2C131&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
         height: 630
         isCached: true
 

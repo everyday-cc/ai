@@ -57,20 +57,6 @@ related:
         width: 424
         height: 211
         isCached: true
-  - title: "FinTech: AI and the future of financial services"
-    excerpt: "AI has given birth to the fintech industry, making digital transactions and data aggregation a new way of life, but what does the future hold?"
-    publishedDateTime: 2021-08-17T09:23:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/fintech-ai-and-future-financial-services"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 39
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/GettyImages-1206796363_3.jpg.png?itok=w-C15RI0"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Fintech startup Pngme raises $15m Series A funding to power the future of financial services in Africa"
     excerpt: "Fintech startup Pngme raised $15 million in Series A funding as the company sets out to grow its financial data infrastructure and machine learning-as-a-service platform for financial institutions and fintechs across sub-Saharan Africa."
     publishedDateTime: 2021-08-19T08:27:00Z

@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Intel XeSS is Alchemist's answer to DLSS and FSR, and can work on anyone's GPU"
+    excerpt: "Whatever the reason behind its new feature, however, it says the answer lies within AI-augmented super sampling ... in order to improve overall clarity without drastically increasing GPU load. In loose terms, it's similar to Nvidia's DLSS in the sense ..."
+    publishedDateTime: 2021-08-19T13:11:00Z
+    webUrl: "https://www.pcgamer.com/uk/intel-xess-xe-super-sampling/"
+    ampWebUrl: "https://www.pcgamer.com/uk/amp/intel-xess-xe-super-sampling/"
+    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/uk/amp/intel-xess-xe-super-sampling/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 55
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/8fgPWdA2DDMJtR4gfRM8ef-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "jTAoTYj7lhC+cPkBwv3eQqMOMc7JCoX2UxmOSC/dcYHybvtS794OZLoyX0HukJVsTeFoEPpqoTl5/rznrqeXC5za/KtcARP3aLkzQ7xEOKqfZOJeh17DU4hcb/2c5yLGIO7a093/uKzq//oVgKmNeSiHcPptvwAtvxqBbs3skl+8WmWJ7r67kW103v7lvrzcf5BsH9QJtfKuF/PYdXw+wu0eic5Hkr/ZN6AQuxb8KwmjohB2ZlLgrLZbmEAIYwJwIZJuSJ7AOmX4SEyTnNrEIKRk9cMZO0jr1U6AU91HzaR10ggsWIE8EO0Ko8jb6XImNDq4yXWcF7U0vU/4OznWSspQlNx2maqInkHcidWx0g0=;pxj3ZdYSk6Blqm8cxLUHIw=="
 ---

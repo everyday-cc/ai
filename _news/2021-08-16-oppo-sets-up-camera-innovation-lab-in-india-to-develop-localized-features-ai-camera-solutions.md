@@ -25,24 +25,6 @@ images:
     height: 434
     isCached: true
 
-related:
-  - title: "Computer vision solution startup Doxel secures $40 Million in Series B round, continues to scale-up India operations"
-    excerpt: "The investment will allow Doxel to continue to expand its India workforce with hiring planned across the enterprise, scale its artificial intelligence platform, and rapidly accelerate recruiting across its engineering,"
-    publishedDateTime: 2021-08-17T07:56:00Z
-    webUrl: "https://www.dqindia.com/computer-vision-solution-startup-doxel-secures-40-million-series-b-round-continues-scale-india-operations/"
-    ampWebUrl: "https://www.dqindia.com/computer-vision-solution-startup-doxel-secures-40-million-series-b-round-continues-scale-india-operations/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/computer-vision-solution-startup-doxel-secures-40-million-series-b-round-continues-scale-india-operations/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 36
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/03/funding.jpg"
-        width: 850
-        height: 400
-        isCached: true
-
 secured: "Jy9StfqP8NAlwa6xyr7GzHPwSyclG6MhF4Xn+rq9kheYVatR8MwyOVpAs4JDpGMxUG9oT3KJ49ReL3z5k+klYXRxCWEDXGjqfFpte9LAH1k4FUF4C+5i5TLgaBrK+fsW4Bq5dWcv1jFxRRgEZOfzI5qLOc68yd7lk5Db4aF1NnlcxitgTWe3DzsKj0WtooPsb9lpIh9kWaXwmoig8fxltwsIhVDBRc8BcdOdYl89IWOZDbMAGM5utAtoak2fDimAclb1RukvVDwvDWB+Dzap+PuJH+YYFnsXQQQiKh+OLhm2TFrkUmdavb5I+hAvnbCGTJaaXGOK4nGeUUcDPqErnrhjPdwxDm+1JlUFiZfGyqY=;fSsDBkVXoJR7GwME4vBrkQ=="
 ---
 

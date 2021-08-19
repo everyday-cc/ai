@@ -1,26 +1,28 @@
 ---
 category: news
 title: "VVDN Technologies Joins NVIDIA Partner Network to Expand Opportunities for Advanced AI-Enabled Camera & Vision Applications"
-excerpt: "As part of the NVIDIA Jetson partner ecosystem, VVDN can leverage the powerful GPU-accelerated edge computing ... and manufacture next-gen innovative AI/ML based camera and vision solutions ..."
-publishedDateTime: 2021-08-18T01:18:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/vvdn-technologies-joins-nvidia-partner-network-to-expand-opportunities-for-advanced-ai-enabled-camera-vision-applications-1030742469"
-webUrl: "https://markets.businessinsider.com/news/stocks/vvdn-technologies-joins-nvidia-partner-network-to-expand-opportunities-for-advanced-ai-enabled-camera-vision-applications-1030742469"
+excerpt: "VVDN Technologies, a premier electronic product engineering and manufacturing company, announced that it has joined the NVIDIA Partner Network ( NPN) as a provider of AI-enabled computer vision solutions powered by the NVIDIA Jetson edge AI platform."
+publishedDateTime: 2021-08-18T14:14:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-29707966c446abc1e45b7fbac2a86985"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-29707966c446abc1e45b7fbac2a86985"
 type: article
-quality: 23
+quality: 13
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "VVDN Technologies Joins NVIDIA Partner Network for Advanced AI-Enabled Camera, Vision Applications"
@@ -49,6 +51,6 @@ related:
       domain: webindia123.com
     quality: 0
 
-secured: "WTtdAcwqoPsyTNEEAVwq54wcPLgy5iwrmZD7kYQYG1ebKW0QdV5Xnni5EzAI93tIbm/UJccVEn3Lbavz8WrVCbXxhqxU6wHlIZZ7mdgTxpxC2ugjPz9ezufEFQL6z+EuNL7NFVCq5v2SkgBg21rse6QbrD3tJ3yD1DK+caFjL0h9NDaH4M1fRgGSMaMFEL0KxoAOBvWelba7f38vZ1LsKjiBiT8yWl20/0HoDIW0jaufa0gLbShZmXL8dXB5QCaa3jpMnmmeykiNEBQfs43ooATqoOJZ2P8yVkDIUHAIvk+97NgF/F/fevtCLEvcMpVvYI+lZBOGLbmW9hVCc9nIMhXy/f2bp6lzcWn3b+SqT5IrkAz4ejlsTWnsYk1qWobSkRIlutLvOAH4losx7iuacnMCVwD4mTnAXT+b/5+BYgCqJSfFFW6Pk7sobwp4qg23ROWyBq9Y+dzno3jRixSYwS3MrFpUNyXo1yRryhdao6q0CzaI8zfAMY/p6TXIPSecO9yN0z88qglFCIIZeHcXQQ==;85u3BY0sAqzNVjLohWaPVQ=="
+secured: "7qlCPiA41RsmpWLMdNUOahUtTDP1k21QlVbuO6BkCf40HDptw5QSPx2whcwAc7Bhk0ZaAu1YKL67V5WT2KsC5TzNKlurtSDmsOXeiSlTLX6XoIeoGemKPmZORt0kj2DWRxj5LCr+beQr00BnFtBI6qR/aTJTp/2p+s3xEhbcu18tEAqfX+5869vQ7M3wI2gCycH9DoxA5T0Mhji99qfz1I0MwLb1Z2RNUpt4e2bNkYSb+KOSEhiydMOjM6Z7OZwXDBZ6oMbn3+7YzYHlGVWWC8f46VoWoBUjaN9ncQqLabtdVz5Zb4Fi+p6WQJEhdX1P8lenDNfjk/I3OEVta5o18uV3n9f4VkzQZMe82FmV2YE=;CskL/6VP69JNLIZqrRMkKw=="
 ---
 

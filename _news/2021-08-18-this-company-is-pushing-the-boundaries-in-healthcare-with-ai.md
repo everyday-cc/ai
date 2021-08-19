@@ -7,8 +7,8 @@ originalUrl: "https://www.techinasia.com/company-pushing-boundaries-healthcare-a
 webUrl: "https://www.techinasia.com/company-pushing-boundaries-healthcare-ai?ref=recommender-701323"
 type: article
 quality: 66
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: Techinasia
@@ -24,51 +24,63 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "AI Regulation Is Coming"
-    excerpt: "This article explains the moves regulators are most likely to make and the three main challenges businesses need to consider as they adopt and integrate AI. The first is ensuring fairness."
-    publishedDateTime: 2021-08-16T17:59:00Z
-    webUrl: "https://hbr.org/2021/09/ai-regulation-is-coming"
-    ampWebUrl: "https://hbr.org/amp/2021/09/ai-regulation-is-coming"
-    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/09/ai-regulation-is-coming"
+  - title: "The AI advantages for healthcare and finance"
+    excerpt: "By Evan Schuman When senior executives at two of the world’s most highly-regulated verticals—healthcare and finance—explore ways of improving operations, boosting margins and delivering it all with a strong ROI,"
+    publishedDateTime: 2021-08-18T23:08:00Z
+    webUrl: "https://techcrunch.com/sponsor/beyond-limits/the-ai-advantages-for-healthcare-and-finance/"
     type: article
     provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 59
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 101
     images:
-      - url: "https://hbr.org/resources/images/article_assets/2021/07/R2105G_SUN.jpg"
-        width: 1000
-        height: 562
+      - url: "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1244301434.jpg?w=600"
+        width: 600
+        height: 400
         isCached: true
-  - title: "How artificial intelligence is changing the face of beauty"
-    excerpt: "From fragrance to skincare, AI is helping us to make smarter beauty choices Finding a new-season foundation or signature scent has long required a stroll through the beauty aisles of our favourite department stores."
-    publishedDateTime: 2021-08-18T17:30:00Z
-    webUrl: "https://www.telegraph.co.uk/beauty/news/artificial-intelligence-changing-face-beauty/"
-    ampWebUrl: "https://www.telegraph.co.uk/beauty/news/artificial-intelligence-changing-face-beauty/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/beauty/news/artificial-intelligence-changing-face-beauty/amp/"
+  - title: "AI Communication Startup Drips Grows Healthcare Presence"
+    excerpt: "Drips, a conversational communications startup, is growing its presence in the healthcare industry by forming strategic partnerships."
+    publishedDateTime: 2021-08-17T15:30:00Z
+    webUrl: "https://www.pymnts.com/healthcare/2021/ai-communication-startup-drips-grows-healthcare-presence/"
+    ampWebUrl: "https://www.pymnts.com/healthcare/2021/ai-communication-startup-drips-grows-healthcare-presence/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/healthcare/2021/ai-communication-startup-drips-grows-healthcare-presence/amp/"
     type: article
     provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 57
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 74
     images:
-      - url: "https://www.telegraph.co.uk/content/dam/beauty/2021/08/18/Visuels-connectivite-ROSE_0_trans_NvBQzQNjv4BqLUm2LqZ7QfPrWh62iB90NVTmGTZwRSZcqbDiPNar8DA.jpg"
-        width: 828
-        height: 517
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/08/AI-Drip-healthcare-texting-457x274.jpg"
+        width: 457
+        height: 274
         isCached: true
-  - title: "List of Major Companies with AI Patents to Know About in 2021"
-    excerpt: "Many big companies with AI patents such as IBM, Microsoft, Google, Samsung, and Siemens have been dominant in making it to the list of the top AI patents companies coming up with innovations using AI."
-    publishedDateTime: 2021-08-18T15:30:00Z
-    webUrl: "https://www.analyticsinsight.net/list-of-major-companies-with-ai-patents-to-know-about-in-2021/"
+  - title: "FinTech: AI and the future of financial services"
+    excerpt: "AI has given birth to the fintech industry, making digital transactions and data aggregation a new way of life, but what does the future hold?"
+    publishedDateTime: 2021-08-17T09:23:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/fintech-ai-and-future-financial-services"
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
+      name: fintechmagazine
+      domain: fintechmagazine.com
     quality: 39
     images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/List-of-Major-Companies-with-AI-Patents-to-Know-About-in-2021.jpg"
-        width: 900
-        height: 500
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/GettyImages-1206796363_3.jpg.png?itok=w-C15RI0"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "ClosedLoop.ai Raises $34M Series B to Usher in AI-Enabled Healthcare and Tackle Trillion-Dollar Healthcare Problem"
+    excerpt: "ClosedLoop.ai., healthcare’s data science platform, today announced a $34 million Series B financing. The investment round, led by Telstra Ventures with participation from Breyer Capital, Greycroft Ventures,"
+    publishedDateTime: 2021-08-17T10:02:00Z
+    webUrl: "https://www.djournal.com/closedloop-ai-raises-34m-series-b-to-usher-in-ai-enabled-healthcare-and-tackle-trillion/article_4f901115-5a95-5de3-951f-d5a015668b37.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 32
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/7/b3/7b39322b-9a77-5c23-8ca9-34c4ef28a821/611b8ce50c2f9.image.jpg?crop=1699%2C956%2C0%2C131&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
+        height: 630
         isCached: true
 
 secured: "PcgjvS/2G0N0ZvOb/CHkK8xaNyL7DY/au8P7qFaLR8qAvsBb8oqEcUDbyUt32Rnc2trL8uJzgaOZYM4/12bD71NZ+OLIVyMmZCr7JRx6txj6tbht1/n6suQrogz1qkBZpihIIBcRM/L0X9tDacigptLOoFQGF7YDTYu6+WkAjSdj/U1BZ/78gIORUgaa6t3loVOJ02jWziixS6wmD8KV+aSjAIM33BNChqhGSIUEJ6x7VBGZEYmSeLe5Dsm26dgMHn+khbq08eCcoxipCKCkQfM9sNlHu87Ors3pQP4UavJJubtHRMHueJ8XR0lblX0WAROLr3HJmGmvmW03r6DZH8ZR6Sqw8Ky7J7kI7QcF7KznCNFj3o0l5PEZyboccSl0MmWGWwxLEJT2WCHP0bKJvR5kW2mB7i5I9C1pEcr5CNv3bbZDYYxgNqrpwuC9dospOjVB6Qg/E2QuqX9GEnNqk8bmcFzdH9UXlMgE079MJhzhl04gJ37OpE6MhPkIDE0AYylqMpQCXpf2jm8gJ6U/Sg==;VTf3wWdcbj75PVT8BIom4Q=="

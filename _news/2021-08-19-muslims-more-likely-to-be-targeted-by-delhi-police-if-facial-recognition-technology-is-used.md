@@ -9,7 +9,7 @@ ampWebUrl: "https://theprint.in/opinion/muslims-more-likely-to-be-targeted-by-de
 cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/opinion/muslims-more-likely-to-be-targeted-by-delhi-police-if-facial-recognition-technology-is-used/718092/?amp"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "UK privacy advocates sound alarm on ‘dystopian’ live facial recognition technology used by police"
-    excerpt: "UK privacy and civil liberties campaigners say that the proposed changes to the code on the use of facial recognition systems by police leave a path for this technology to be abused by the state."
-    publishedDateTime: 2021-08-17T12:45:00Z
-    webUrl: "https://www.rt.com/uk/532293-uk-facial-recognition-concerns/"
-    ampWebUrl: "https://www.rt.com/uk/532293-uk-facial-recognition-concerns/amp/"
-    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/uk/532293-uk-facial-recognition-concerns/amp/"
+  - title: "How this technologist is using beauty as a tool to disrupt facial recognition"
+    excerpt: "The biggest stories of the day delivered to your inbox. By signing up to the Mashable newsletter you agree to receive electronic communications from Mashable that may sometimes include ..."
+    publishedDateTime: 2021-08-19T12:52:00Z
+    webUrl: "https://mashable.com/video/how-to-disrupt-surveillance-facial-recognition-tech"
     type: article
     provider:
-      name: RT
-      domain: rt.com
-    quality: 46
+      name: Mashable
+      domain: mashable.com
+    quality: 66
     images:
-      - url: "https://cdni.rt.com/files/2021.08/xxl/611baefa203027116d5066cb.jpg"
-        width: 1240
-        height: 697
+      - url: "https://helios-i.mashable.com/imagery/videos/00qvEiMeRxzCYbNV2ojrTjw/hero-image.fill.size_1200x675.v1628003112.png"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Facial Recognition Technology: A Threat To Privacy And Freedom"
     excerpt: "Across the country, people are waking up to the dangers of facial recognition technology — and they’re taking action. In Massachusetts, municipalities are stepping up to stop this harmful surveillance technology: Somerville was the first community on the East Coast to ban government use of facial recognition technology,"
@@ -57,6 +55,15 @@ related:
         width: 2247
         height: 1498
         isCached: true
+  - title: "Can a Covid-19 face mask protect you from facial recognition technology too?"
+    excerpt: "Our relationship with ‘public space’ is being redefined, not just by a global pandemic, but also by a new era of biometric surveillance technologies."
+    publishedDateTime: 2021-08-16T10:27:00Z
+    webUrl: "https://privacyinternational.org/news-analysis/4511/can-covid-19-face-mask-protect-you-facial-recognition-technology-too"
+    type: article
+    provider:
+      name: Privacy International
+      domain: privacyinternational.org
+    quality: 16
 
 secured: "fGv496r4E6PEFHf4loYkSKhV216G5dLtdybK4VyqAeoCzsqSRUXscTe5AsPBOjrBD+5LwLGa5Ol+9S1P5qLhjHoprEn6IGru66JN7Ut29JgzOrtnhYu1VbNQeYyr9LQPWAygPHFvqh/71LI68bdE8eyjjb/k84u0I/mYg9n7tSj5B75RVnZLhTTsM9sclWbpfrhNA84VizIBP81C8KMuScYuaW3lCKLAtsMpyDrP2BnGQRFbcE1XZWU/OKVGDAlA2kodk+uP9/1gNZxHChNpstb7+OiDDXF+oW3wHUsj9P76wtPiZ5DdaAqsjzMdewBcpanOY0I2vujkJVEQjcAcpZ2uTnGED58yZJgA88ZKevsFKglxiEaK9czPXvsSEa+BccK1eLoy4SbyyyvdYvmf+uYmTU+GmWcBPqUElHFF2v7nrYY6gg0fhnWrXba7ijR6+h3/OQtLGriXwqqW91TfukfwmQ8PqN36FygBQiFwO8GmkrHLFO9rZaEOvpP3qBb24j2qinLtc35fV/azpyISlg==;rDzt+16+iCWPOWEhGjlNHA=="
 ---

@@ -54,36 +54,36 @@
       ]
     },
     {
-      "path": "_news/2021-08-18-this-company-is-pushing-the-boundaries-in-healthcare-with-ai.md",
-      "title": "This company is pushing the boundaries in healthcare with AI",
-      "excerpt": "In a fast-paced environment, AI is a resource that never gets tired, never forgets, and can never be emotional.",
+      "path": "_news/2021-08-18-bill-smart-brings-technical-expertise-in-robotics-and-ai-to-discussions-about-regulation.md",
+      "title": "Bill Smart Brings Technical Expertise in Robotics and AI to Discussions about Regulation",
+      "excerpt": "Bill Smart builds robots and researches human-robot interactions. He is also very interested in the policies that guide and regulate technology. Sometimes, he says, policymakers, like other members of the public,",
       "sourceUrl": null,
-      "webUrl": "https://www.techinasia.com/company-pushing-boundaries-healthcare-ai?ref=recommender-701323",
-      "originalUrl": "https://www.techinasia.com/company-pushing-boundaries-healthcare-ai?ref=recommender-701323",
+      "webUrl": "https://www.aaas.org/news/bill-smart-brings-technical-expertise-robotics-and-ai-discussions-about-regulation",
+      "originalUrl": "https://www.aaas.org/news/bill-smart-brings-technical-expertise-robotics-and-ai-discussions-about-regulation",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 72,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.aaas.org/sites/default/files/styles/large/public/2021-08/smart_0219-6-1200x628_440X440.jpg?itok=bhxYTxx1",
+          "width": 440,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-17T18:44:00-07:00",
+      "publishedDateTime": "2021-08-17T14:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Techinasia",
-        "domain": "techinasia.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techinasia.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "AAAS",
+        "domain": "aaas.org",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -92,9 +92,9 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
+        "AI in Robotics",
         "AI",
-        "AI in Healthcare"
+        "AI Ethics"
       ]
     },
     {

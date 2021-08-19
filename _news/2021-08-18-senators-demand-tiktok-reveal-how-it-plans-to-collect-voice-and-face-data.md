@@ -1,25 +1,28 @@
 ---
 category: news
 title: "Senators Demand TikTok Reveal How It Plans To Collect Voice And Face Data"
-excerpt: "TikTok has quietly expanded how much information it will collect from its more than 100 million users in the U.S. to include \"faceprints and voiceprints.\" In response, a bipartisan duo of senators are asking TikTok to open up about what exactly that means."
-publishedDateTime: 2021-08-18T14:51:00Z
-originalUrl: "https://wskg.org/npr_story_post/senators-demand-tiktok-reveal-how-it-plans-to-collect-voice-and-face-data/"
-webUrl: "https://wskg.org/npr_story_post/senators-demand-tiktok-reveal-how-it-plans-to-collect-voice-and-face-data/"
-ampWebUrl: "https://wskg.org/npr_story_post/senators-demand-tiktok-reveal-how-it-plans-to-collect-voice-and-face-data/amp/"
-cdnAmpWebUrl: "https://wskg-org.cdn.ampproject.org/c/s/wskg.org/npr_story_post/senators-demand-tiktok-reveal-how-it-plans-to-collect-voice-and-face-data/amp/"
+excerpt: "SD., said they are alarmed by TikTok's recent changes to its privacy policies that automatically collect biometric data of its users."
+publishedDateTime: 2021-08-18T11:20:00Z
+originalUrl: "https://www.capradio.org/news/npr/story?storyid=1028633650"
+webUrl: "https://www.capradio.org/news/npr/story?storyid=1028633650"
 type: article
-quality: 25
-heat: 25
+quality: 23
+heat: -1
 published: false
 
 provider:
-  name: WSKG
-  domain: wskg.org
+  name: Capital Public Radio
+  domain: capradio.org
 
 topics:
   - Natural Language Processing
   - AI
-  - Computer Vision
+
+images:
+  - url: "https://media.npr.org/assets/img/2021/08/17/ap21175557373801-0d205af881ebbfdd3b436303e6dfe0e5eef55b29.jpg?s=6"
+    width: 948
+    height: 710
+    isCached: true
 
 related:
   - title: "Senators Demand TikTok Reveal How It Plans To Collect Voice And Face Data"
@@ -51,6 +54,6 @@ related:
         height: 240
         isCached: true
 
-secured: "6d/ledyEm2yinDxvVSKg0kPtkYGikIRwUkTPhpyyfqdgXXeMqXmC+uSCNCdkZOvWnGVFkxa0Q4VymxsclQDA8V5fv9hI+JeeUZF5IUxFzS8MmihI1Pkmh4qj6ce+kf6hh28msGsM6pH1YJaafZxQjL8+4tg56sALjppXMM4iRUUeL4U9NccwJix7Z8dBlZ7q9N6w3a2PcEw46Gt6sBxe6TjzZkjmCQ+x5KDUomKwFngR7HZOI4BA3/RWj1c3j+QoKGxcM9i6hFsniY/4BKNA0w6033lISIa3u3K1VSfKoBh0xFRv0ZQLSotKZUlc2zmwAsbcV3ZFerIpSyh+P4qr7IMNT42+AuG6S/nch27pxa2IB4N95yCHcDpYoSoi39QMtM8IqlXmekqm5Wnxkz30Fszm5IAse45Zro6/DfqXa8A+2DPqGz7rwblqpIZ4Bg/3wlXFscBgG2To0VD602MJGvw//fBu6Yk/xoLf+p8lcNkTuHJtUQlMU5IURnPWJ5GQ/f297GY9e9PBlvGiqHG+uQ==;25W9+Lu6n0Pq41nISo0Yow=="
+secured: "ilzPnX99cefytu/LLROElCtBB09R/BMY0t55yEkEm1Vd5b4BWP64n+GOX57/Hy8+XAeSqOv+kqBvQHnBM/K9OWysMAj4/djqJspqtIWj2wiXwNBKI42RBLR7GWmy/GoXe8ji/eiJnlJWzCUQ1dUX0vXLOqerCJQFKBiALTwh4bSeaELNEjXMJ2yvlMOLXA+GME6/VaomnLv4nEsn9HBDYS2/TOalKdbzdDipPrPgE5PMVUf3Oofba50/ZTdVPFIIC7Px7ToBph5JKIDYikr5Nng6HXNJgqHItkEu2e7MPWvO6aCDCWkmrss31D99WuZNgHt4JfXlog8GAUkheqYhIVGXXiDL3frgADqwZ3tOphc=;wrzQznbpJWR8DM71jJjYYg=="
 ---
 

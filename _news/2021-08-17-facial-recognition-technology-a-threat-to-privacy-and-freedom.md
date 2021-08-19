@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "How this technologist is using beauty as a tool to disrupt facial recognition"
+    excerpt: "The biggest stories of the day delivered to your inbox. By signing up to the Mashable newsletter you agree to receive electronic communications from Mashable that may sometimes include ..."
+    publishedDateTime: 2021-08-19T12:52:00Z
+    webUrl: "https://mashable.com/video/how-to-disrupt-surveillance-facial-recognition-tech"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 66
+    images:
+      - url: "https://helios-i.mashable.com/imagery/videos/00qvEiMeRxzCYbNV2ojrTjw/hero-image.fill.size_1200x675.v1628003112.png"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Muslims more likely to be targeted by Delhi Police if facial recognition technology is used"
     excerpt: "Any technological intervention that intensifies policing will aggravate the historical systemic bias, particularly against Muslims living in over-policed areas like Old Delhi or Nizamuddin."
     publishedDateTime: 2021-08-18T21:18:00Z
@@ -41,22 +55,15 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "UK privacy advocates sound alarm on ‘dystopian’ live facial recognition technology used by police"
-    excerpt: "UK privacy and civil liberties campaigners say that the proposed changes to the code on the use of facial recognition systems by police leave a path for this technology to be abused by the state."
-    publishedDateTime: 2021-08-17T12:45:00Z
-    webUrl: "https://www.rt.com/uk/532293-uk-facial-recognition-concerns/"
-    ampWebUrl: "https://www.rt.com/uk/532293-uk-facial-recognition-concerns/amp/"
-    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/uk/532293-uk-facial-recognition-concerns/amp/"
+  - title: "Can a Covid-19 face mask protect you from facial recognition technology too?"
+    excerpt: "Our relationship with ‘public space’ is being redefined, not just by a global pandemic, but also by a new era of biometric surveillance technologies."
+    publishedDateTime: 2021-08-16T10:27:00Z
+    webUrl: "https://privacyinternational.org/news-analysis/4511/can-covid-19-face-mask-protect-you-facial-recognition-technology-too"
     type: article
     provider:
-      name: RT
-      domain: rt.com
-    quality: 46
-    images:
-      - url: "https://cdni.rt.com/files/2021.08/xxl/611baefa203027116d5066cb.jpg"
-        width: 1240
-        height: 697
-        isCached: true
+      name: Privacy International
+      domain: privacyinternational.org
+    quality: 16
 
 secured: "f+zQ6RbJbyw2a8yuall8JXKxcxzEjQbQwF8a9iFtUWpqCD/8RnNBQawwRSl3aNQclvYCkDFZ01DDHRBzj4HXu8xnZyEWmRgaTSA/KQcqsR3KPyaemVOhex6a6Npcg5/f6ibU60H7HvM7Yjj5dm4kKdv4dWBDwkDDCyDPxyfizAgPMhGdfxHiZTAGbUfDrvw6VQmzYh8pFRKjXYOLtaNgOnetMmskV4HJ9VaDo7r/L0a73jA2UOwAVJHslqS+xHu0TB3Pwx+rWnK/5CHpvKGXlxzW0kJUe+oyMqNFTE9DFnqRLW8tcXAd1Xwz5IxgDVbIAErYgMZKnmYu3kNZh1QnOH0G+uDGbon8Pk+ctxKFJaKD/23Y74U8jUPshhY2sn20zhBVUFarpceJgZoajlHPYH2HhZXNozx76Nhj1ywQAzcspGlZlNgDwAZpZdXCPCwwl/0dmevudS/LN1vnEzXvGdL0hiKCg89HymIGZaws49z6NZJt/VeJVCcF0A5Ka93SOdZevJiRSB3rhQOYJh4hrg==;2/t5LzqWvu4YJ/JVXmU2nw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.datamation.com/artificial-intelligence/ai-development-
 webUrl: "https://www.datamation.com/artificial-intelligence/ai-development-priorities/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,38 @@ images:
     width: 1024
     height: 389
     isCached: true
+
+related:
+  - title: "How artificial intelligence is changing the face of beauty"
+    excerpt: "From fragrance to skincare, AI is helping us to make smarter beauty choices Finding a new-season foundation or signature scent has long required a stroll through the beauty aisles of our favourite department stores."
+    publishedDateTime: 2021-08-18T17:30:00Z
+    webUrl: "https://www.telegraph.co.uk/beauty/news/artificial-intelligence-changing-face-beauty/"
+    ampWebUrl: "https://www.telegraph.co.uk/beauty/news/artificial-intelligence-changing-face-beauty/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/beauty/news/artificial-intelligence-changing-face-beauty/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 57
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/beauty/2021/08/18/Visuels-connectivite-ROSE_0_trans_NvBQzQNjv4BqLUm2LqZ7QfPrWh62iB90NVTmGTZwRSZcqbDiPNar8DA.jpg"
+        width: 828
+        height: 517
+        isCached: true
+  - title: "Op-Ed: AI and the future of gaming — A piece of string worth tying into knots"
+    excerpt: "The inevitable future of gaming is super-smart, evolving, artificial intelligence. That opens up endless possibilities, not just for gaming, but for that elusive thing, a meaningful human existence. Gaming is a business principle,"
+    publishedDateTime: 2021-08-15T11:27:00Z
+    webUrl: "https://www.digitaljournal.com/tech-science/op-ed-ai-and-the-future-of-gaming-a-piece-of-string-worth-tying-into-knots/article"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 34
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/05/Comp1-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
 
 secured: "w7p9zo42uf51xZxF41CeHlhyuLmyfZTOkZxLi2WmR+zYvxDHi1U7HM9RJyRwOs7B8asPN4QqLHF2uxsnIx1ImLZ2XMGyRgvf2cBvt1PtQWFOQmDTteunSmnltdO8ZOS8wsHte3vDuHdCoaYUn1e4Te88rfxeU+ONpNoOJdt4XyZjuy2cpKBBdfcZ9zpxn3hKRcdPNVw/3mA5Q5TvXUdtK9FbqQF76EjXOUCram7wutByjeMWu6hlpwEx45upbLdu+eJFN2ra7fM6A38h6x3OG5keTnPf+tttLf6ePlpcN3cx6ugvEMlH/GpnLy9epIQFQW/DmRVLJ/wsIaWmJybdKfjkuagy/+DoXCRsI6gKVseY6+BP0NUFYK/iB+ZTEUusEZh6XGnySdPPbss3gH4TM8VqcVTrXVjU1/T48FD7Qg1T7o2HH+JdRcaIV6frMWZqcCxzmG3uMp0A0woR7bglPkfDvHcpPBnAzB9aGVf6BFP+xlA/l+QvGG0l9GzczMYFhL8y2TuT700xxy8jB7IkeQ==;4KT9ns13AU5c1VzKyQP6gg=="
 ---
