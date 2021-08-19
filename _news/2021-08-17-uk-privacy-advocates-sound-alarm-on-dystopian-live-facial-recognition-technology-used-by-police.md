@@ -9,7 +9,7 @@ ampWebUrl: "https://www.rt.com/uk/532293-uk-facial-recognition-concerns/amp/"
 cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/uk/532293-uk-facial-recognition-concerns/amp/"
 type: article
 quality: 46
-heat: 46
+heat: -1
 published: false
 
 provider:
@@ -27,37 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "UK faces 'dystopian' future with facial-recognition AI cameras turning public spaces into 'prisons'"
-    excerpt: "Campaigners slammed proposed new CCTV guidance given to police and councils in England and Wales to compare camera footage with a watch-list (file photo)."
-    publishedDateTime: 2021-08-17T07:39:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-9900501/UK-faces-dystopian-future-facial-recognition-AI-cameras-turning-public-spaces-prisons.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-9900501/amp/UK-faces-dystopian-future-facial-recognition-AI-cameras-turning-public-spaces-prisons.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9900501/amp/UK-faces-dystopian-future-facial-recognition-AI-cameras-turning-public-spaces-prisons.html"
+  - title: "Muslims more likely to be targeted by Delhi Police if facial recognition technology is used"
+    excerpt: "Any technological intervention that intensifies policing will aggravate the historical systemic bias, particularly against Muslims living in over-policed areas like Old Delhi or Nizamuddin."
+    publishedDateTime: 2021-08-18T21:18:00Z
+    webUrl: "https://theprint.in/opinion/muslims-more-likely-to-be-targeted-by-delhi-police-if-facial-recognition-technology-is-used/718092/"
+    ampWebUrl: "https://theprint.in/opinion/muslims-more-likely-to-be-targeted-by-delhi-police-if-facial-recognition-technology-is-used/718092/?amp"
+    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/opinion/muslims-more-likely-to-be-targeted-by-delhi-police-if-facial-recognition-technology-is-used/718092/?amp"
     type: article
     provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 45
+      name: ThePrint
+      domain: theprint.in
+    quality: 49
     images:
-      - url: "https://i.dailymail.co.uk/1s/2021/08/17/08/46765661-0-image-a-27_1629185947147.jpg"
-        width: 636
-        height: 382
-        isCached: true
-  - title: "'Massive invasion of privacy': Hamden lawmakers seek to ban government use of facial recognition technology"
-    excerpt: "Police Department officials have said the agency presently does not use any such technology but previously engaged in a free trial of facial recognition software. Passing an ordinance “is the right thing to do as the technology becomes more pervasive in terms of its use by government,"
-    publishedDateTime: 2021-08-18T15:59:00Z
-    webUrl: "https://www.nhregister.com/news/article/Massive-invasion-of-privacy-Hamden-16394681.php"
-    ampWebUrl: "https://www.nhregister.com/news/amp/Massive-invasion-of-privacy-Hamden-16394681.php"
-    cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/Massive-invasion-of-privacy-Hamden-16394681.php"
-    type: article
-    provider:
-      name: New Haven Register
-      domain: nhregister.com
-    quality: 43
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://static.theprint.in/wp-content/uploads/2020/04/Shab-e-Barat.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Facial Recognition Technology: A Threat To Privacy And Freedom"
     excerpt: "Across the country, people are waking up to the dangers of facial recognition technology — and they’re taking action. In Massachusetts, municipalities are stepping up to stop this harmful surveillance technology: Somerville was the first community on the East Coast to ban government use of facial recognition technology,"

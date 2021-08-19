@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/video/watch/5-levels-machine-learning"
 webUrl: "https://www.wired.com/video/watch/5-levels-machine-learning"
 type: article
 quality: 84
-heat: 85
+heat: 86
 published: true
 
 provider:

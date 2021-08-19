@@ -59,6 +59,38 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Senators say Tesla’s ‘self-driving’ claims are misleading, call for FTC probe"
+    excerpt: "Driving” features is misleading to consumers and should be investigated by the Federal Trade Commission, two US senators said Wednesday."
+    publishedDateTime: 2021-08-18T20:19:00Z
+    webUrl: "https://nypost.com/2021/08/18/senators-say-teslas-self-driving-claims-are-misleading/"
+    ampWebUrl: "https://nypost.com/2021/08/18/senators-say-teslas-self-driving-claims-are-misleading/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/18/senators-say-teslas-self-driving-claims-are-misleading/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 71
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/senator-markey.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Tesla’s Self-Driving Advertising Called Out As Misleading To Consumers"
+    excerpt: "Two senators have requested the FTC open an investigation into Tesla's self-driving technology advertising, claiming it is \"misleading\" consumers."
+    publishedDateTime: 2021-08-18T18:53:00Z
+    webUrl: "https://www.ibtimes.com/teslas-self-driving-advertising-called-out-misleading-consumers-3276343"
+    ampWebUrl: "https://www.ibtimes.com/teslas-self-driving-advertising-called-out-misleading-consumers-3276343?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/teslas-self-driving-advertising-called-out-misleading-consumers-3276343?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 59
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/11/13/tesla-would-be-the-first-foreign-car-company.jpg"
+        width: 1024
+        height: 707
+        isCached: true
   - title: "U.S. Senators Urge FTC to Investigate Tesla About Self-Driving Claims"
     excerpt: "Tesla could not get more bad news about Autopilot and FSD. If it was not enough to have NHTSA investigating why its cars crash so much against parked emergency vehicles, now the Senate Democrats Richard Blumenthal and Edward Markey also went after the company."
     publishedDateTime: 2021-08-18T11:33:00Z
@@ -73,6 +105,17 @@ related:
         width: 728
         height: 300
         isCached: true
+  - title: "Two Senators Accuse Tesla Of Misleading Customers With Self-Driving Features, Request FTC Probe"
+    excerpt: "Senators Richard Blumenthal and Edward J. Markey have sent a letter to the Chair of the Federal Trade Commission, Lina Khan, asking the organization to investigate Tesla for what they allege are deceptive business practices."
+    publishedDateTime: 2021-08-18T21:29:00Z
+    webUrl: "https://www.carscoops.com/2021/08/two-senators-accuse-tesla-of-misleading-customers-with-self-driving-features-request-ftc-probe/"
+    ampWebUrl: "https://www.carscoops.com/2021/08/two-senators-accuse-tesla-of-misleading-customers-with-self-driving-features-request-ftc-probe/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/08/two-senators-accuse-tesla-of-misleading-customers-with-self-driving-features-request-ftc-probe/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 27
   - title: "Tesla pushes new Full Self-Driving Beta update"
     excerpt: "Electric vehicle company Tesla has started pushing a new software update for its 'Full Self-Driving Beta' programme. CEO Elon Musk released the improvements in the update and gave an idea of when the wider release is going to happen."
     publishedDateTime: 2021-08-16T13:30:00Z

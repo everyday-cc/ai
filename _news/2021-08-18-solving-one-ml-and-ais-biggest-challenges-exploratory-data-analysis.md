@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 617
         isCached: true
-  - title: "The wave of self-driving-truck companies going public now face a new challenge: making money before investors lose patience"
-    excerpt: "Autonomous-truck companies, are starting to go public. But most don't plan to launch a product until 2023 at the earliest."
-    publishedDateTime: 2021-08-14T09:14:00Z
-    webUrl: "https://www.businessinsider.com/autonomous-truck-startups-trying-launch-before-new-investors-give-up-2021-8"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 28
-    images:
-      - url: "https://i.insider.com/611698bdc040ad0018ce3446?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "YxdNNYNjMYYwYAWAk5hBZ0M471EjPpNaF3SloNND+s4ujBAomBCQ0FaVSxTSSIG513wyodDxUJBayo8DtukBLJT7qo81pOKnT3xHM9ZhHYufXhYyNPMgCDhw7dKva9h5yNhNCvcaXMi/fMLt7saFQCR4P9bS18r9qBDW8MYUbXsn/tnb8kjZu3hC+u2gDEco2ACjmU/91KVPulENPH6rAAY8JN/tv4iuHLgug34dNrJuLyDsJTd51uKk7kSGKZwAJI3zSQj9mv04c5OZM/+Ps4zLidME5NN94ldiwjnqFyc6UxF/0+0BMbL0srcvrTKOM1MJsvnIFhHOjjVpLAhKpfxDjEio7jRA5SEof3t8Icw=;CF+vdd4zDzd5IxWrGAK6iQ=="
 ---

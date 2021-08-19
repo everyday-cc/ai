@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/18/accelerator-challenge-could-your-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/18/accelerator-challenge-could-your-ai-startup-help-consumers-and-small-businesses-overcome-financial-challenges/amp/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/data_tunnel_shutterstock_-Sergey-Nivens.jpg"
         width: 1000
         height: 534
-        isCached: true
-  - title: "The wave of self-driving-truck companies going public now face a new challenge: making money before investors lose patience"
-    excerpt: "Autonomous-truck companies, are starting to go public. But most don't plan to launch a product until 2023 at the earliest."
-    publishedDateTime: 2021-08-14T09:14:00Z
-    webUrl: "https://www.businessinsider.com/autonomous-truck-startups-trying-launch-before-new-investors-give-up-2021-8"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 28
-    images:
-      - url: "https://i.insider.com/611698bdc040ad0018ce3446?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
 
 secured: "R1oxt3kE2hajso/YFTdYcEEv+AfL42dzHngEw/sJefzS2X3T9RdI1fZhBf5n9QzmGtMy+QPWvBjLYvYAgw3E1WIo/ZyaO9g01NIA80HEhvsMcEjXxcH5PanAAogufqTNUOe3N52AYDC3f9YvhzUFw2lDEQ5JWuNkjVP+0k3sYUoUSGyo1YsWxw67jvCOpPeJWArx3DsjQulH/JyPhFInfOiolhRY/zEeCmhLlvejLWtyL8NN4L/4/TqYTe2/tr/3LWnsBYS3gHdob+lffHSLjRcmyMoBVC9BmfmtlrqLSybIgdxjNbflx2Ey+iiMqNW14/HshyrODM82zQUp38BSWapBSltGkqDAMO2n2tDYFuu2ngGfva+k+EqnWd9/ELSPN1G+m2AzSCgP5fCfztLeZceSM8C86uOsR8P8em10NdIrTgBpb0pLcjlSca+mHxR9QVOuYQhcBQlVGrzrvVvEXBB8uVlP7nScjZ2Dxlm5IIsUyr9/OBD+IXRD6oJ9wBAlpIMtIcHOYHRPVyHlpprmYg==;6aT0oddyucRKGm3jaK7hhQ=="

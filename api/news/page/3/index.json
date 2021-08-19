@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-17-if-youre-using-ai-you-need-to-think-about-ethics.md",
+      "title": "If you're using AI, you need to think about ethics",
+      "excerpt": "Shahram Ebadollahi, chief data & AI officer at Novartis, explains why robust frameworks should always underpin the use of new technology",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/360596/if-youre-using-ai-you-need-to-think-about-ethics",
+      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/360596/if-youre-using-ai-you-need-to-think-about-ethics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1629189362/itpro/two_heads_ai_human_shutterstock_565307584.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/360596/if-youre-using-ai-you-need-to-think-about-ethics?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/360596/if-youre-using-ai-you-need-to-think-about-ethics?amp",
+      "publishedDateTime": "2021-08-17T01:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-new-rules-on-police-use-of-facial-recognition-dont-go-far-enough-experts-say.md",
+      "title": "New rules on police use of facial recognition don't go far enough, experts say",
+      "excerpt": "The UK government has updated its code of practice on the use of surveillance cameras. Will it be enough to protect citizens' rights?",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/new-rules-on-police-use-of-facial-recognition-dont-go-far-enough-experts-say/",
+      "originalUrl": "https://www.zdnet.com/article/new-rules-on-police-use-of-facial-recognition-dont-go-far-enough-experts-say/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/08/17/781cbd69-4be4-4e42-8031-b7287e8afc84/gettyimages-1208074512.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/new-rules-on-police-use-of-facial-recognition-dont-go-far-enough-experts-say/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/new-rules-on-police-use-of-facial-recognition-dont-go-far-enough-experts-say/",
+      "publishedDateTime": "2021-08-17T01:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-17-china-ev-maker-warns-terms-like-self-driving-may-mislead-people.md",
       "title": "China EV Maker Warns Terms Like Self Driving May Mislead People",
       "excerpt": "The Chief Executive Officer of Chinese electric-car maker Li Auto Inc. has said the industry should limit using the terms autonomous and self driving, considering no automobile today is truly capable of that and its common usage is becoming misleading for consumers.",
@@ -701,7 +805,7 @@
       "originalUrl": "https://www.msn.com/en-us/news/us/us-probes-autopilot-problems-on-765000-tesla-vehicles/ar-AANnKSo",
       "featuredContent": null,
       "highlight": null,
-      "heat": 269,
+      "heat": 289,
       "tags": null,
       "images": [
         {
@@ -1120,101 +1224,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-15-gridlock-solutions-envisioned-with-driverless-cars-flying-taxis-and-delivery-drones.md",
-      "title": "Gridlock solutions envisioned with driverless cars, flying taxis and delivery drones",
-      "excerpt": "“The challenge is that AV and AI [artificial intelligence] is complicated to implement in urban environments,” said Bernard Schmidt of the authority’s AV division. “There is human bias in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.miamiherald.com/news/local/community/miami-dade/article237643954.html",
-      "originalUrl": "https://www.miamiherald.com/news/local/community/miami-dade/article237643954.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/d8c13d6b-7856-494e-9971-e37ddc10c652/c3add766-c8dc-42cf-9b32-f380f6083365/1280x720/match/image.jpg",
-          "width": 1080,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.miamiherald.com/news/local/community/miami-dade/article237643954.html",
-      "cdnAmpWebUrl": "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/local/community/miami-dade/article237643954.html",
-      "publishedDateTime": "2021-08-15T05:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Miami Herald",
-        "domain": "miamiherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-15-samsung-has-its-own-ai-designed-chip-soon-others-will-too.md",
-      "title": "Samsung has its own AI-designed chip. Soon, others will too",
-      "excerpt": "Samsung is using artificial intelligence to automate the insanely complex and subtle process of designing cutting-edge computer chips. The South Korean giant is one of the first chipmakers to use AI to create its chips.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2021/08/samsung-has-its-own-ai-designed-chip-soon-others-will-too/",
-      "originalUrl": "https://arstechnica.com/gadgets/2021/08/samsung-has-its-own-ai-designed-chip-soon-others-will-too/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/08/cpu-red-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-15T03:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

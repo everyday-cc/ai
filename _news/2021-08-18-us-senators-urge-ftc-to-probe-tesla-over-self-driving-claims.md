@@ -61,6 +61,22 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Tesla’s claims about Autopilot and Full Self-Driving are under scrutiny as senators pressure FTC"
+    excerpt: "Two senators are pressuring the Federal Trade Commission (FTC) to investigate Tesla’s claims about Autopilot and the Full Self-Driving (FSD) package. Richard Blumenthal and Ed Markey, two senators representing the Democratic Party,"
+    publishedDateTime: 2021-08-18T20:18:00Z
+    webUrl: "https://electrek.co/2021/08/18/tesla-claims-autopilot-full-self-driving-are-under-scrutiny-senators-pressure-ftc/"
+    ampWebUrl: "https://electrek.co/2021/08/18/tesla-claims-autopilot-full-self-driving-are-under-scrutiny-senators-pressure-ftc/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/18/tesla-claims-autopilot-full-self-driving-are-under-scrutiny-senators-pressure-ftc/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 91
+    images:
+      - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2019/12/Tesla-Self-driving-visualization.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Tesla Autopilot U.S. Safety Probe Puts a Damper on Elon Musk’s AI Day"
     excerpt: "The federal investigation into Tesla Inc.’s Autopilot comes at an awkward time for Elon Musk. On Thursday -- just three days after the U.S. government announced its probe -- he has a briefing scheduled about the carmaker’s work on artificial intelligence."
     publishedDateTime: 2021-08-16T15:58:00Z
@@ -90,6 +106,22 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1deefcf8-eb75-4197-9c45-b1e78439086b.jpg?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
+        isCached: true
+  - title: "Senators call for investigation into Tesla’s marketing of self-driving vehicle features"
+    excerpt: "Two Democratic senators have sent a letter to the Federal Trade Commission (FTC) asking for an investigation into Tesla’s marketing of its Autopilot and Fu"
+    publishedDateTime: 2021-08-18T16:34:00Z
+    webUrl: "https://www.consumeraffairs.com/news/senators-call-for-investigation-into-teslas-marketing-of-self-driving-vehicle-features-081821.html"
+    ampWebUrl: "https://www.consumeraffairs.com/amp/news/senators-call-for-investigation-into-teslas-marketing-of-self-driving-vehicle-features-081821.html"
+    cdnAmpWebUrl: "https://www-consumeraffairs-com.cdn.ampproject.org/c/s/www.consumeraffairs.com/amp/news/senators-call-for-investigation-into-teslas-marketing-of-self-driving-vehicle-features-081821.html"
+    type: article
+    provider:
+      name: ConsumerAffairs
+      domain: consumeraffairs.com
+    quality: 68
+    images:
+      - url: "https://media.consumeraffairs.com/files/news/Tesla_company_concept_bankkgraphy_Getty_Images.jpg"
+        width: 900
+        height: 600
         isCached: true
   - title: "US Launches Investigation Into Tesla’s Self-Driving Tech After Numerous Crashes"
     excerpt: "The US government have launched a formal investigation into Tesla’s Autopilot function, due to reports of numerous crashes.  The formal investigation is into Tesla’s driver-assistance systems, known as Autopilot."
@@ -194,6 +226,6 @@ related:
         height: 630
         isCached: true
 
-secured: "I7LMqSjkmXO2WvNlLkAoKk6Er9kDMecItIGV+CnDu9iEiYSQ4HX1IeVoAMcc7laOy2hd2iFi5LlPnlzZRzF6HLEq84khHVgdIwD/ikFvu3kYIn/DKSJPMOPCFGRQvTDnYKCXKo3DrMJUu0da6uALnYThxDpPfyWUUcluDBNR8KpT3r0y09FE+ps9IGZJqzFdW0fYqlDC1gAELYfpTdMX9B9FXgQP0T67g6toieqQ13M+7XNu7AZHYfQoRFpsGd7ZJlOSxFObH3PP2VXl2AAF0zE+zhRkoncXdUQY4A83cHkW3+6cqcpU1FcXZwv+lfWiIiUvI+oDgBOXKsCMR737nglIvDvqX3lPjjvCenZH018=;7ZB+E72nNQ80zBLRLmxy3A=="
+secured: "TVBbmZcZP1WT3mfFFG9OPixs4xoA771KnlkSoYZ6MxSG/k/db8o6bxdx3hX2i625KNSE4JaE5j/vYc2SwRQEGB4+z2IjrqzBUgpbvAJfufxYvrMa578XRABl6xLjLvX7bt8wcy8BWQxe9wR7YSeMO5rYYpSgV7eSLc0/bqxG3ysFBirL2Ik3to++eNTz1eGfpr96qDI27SccxTKdaWOdINAh//Lph8tipbJu/MbjkMxVJfjVVYPfCNWcjzqXhVltl0gQ3w4QhIpHBLpp0+JBjlLwZ+JG732WzOk3HRr241SjXCWHez+IEEx83Mt+zuv5D9+uBv7A7re4p26DGu2/Q9Yvo8DjZexd98BF+PihfEdEW3Zs0o6rIhIgFp+Ylwt5AT2PYVTT+tOXtIKF/dHo1SXPNC4vbSsNM3/6HjHs5a8C2nXdDE3t4Qa5d5K5LekSH1rkZyn5XXcGM7LuJdFdg4C8SRlUM5fV8k4Ge6DqgW2CVa3P/YOSaf9XihVkG1gsu6rXanwzAHu+PsBUM8Rv+Q==;sqhLlC1yf3UWkvRL8CI6oQ=="
 ---
 

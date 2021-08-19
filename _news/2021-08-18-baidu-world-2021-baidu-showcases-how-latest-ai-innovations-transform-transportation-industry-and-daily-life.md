@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-baidu-world-2021-baidu-showcases-h
 webUrl: "https://www.tmcnet.com/usubmit/-baidu-world-2021-baidu-showcases-how-latest-ai-/2021/08/18/9433548.htm"
 type: article
 quality: 20
-heat: 20
+heat: -1
 published: false
 
 provider:
@@ -26,14 +26,14 @@ images:
 
 related:
   - title: "Baidu World 2021: Baidu Showcases How Latest AI Innovations Transform Transportation, Industry and Daily Life"
-    excerpt: "Baidu Showcases How Latest AI Innovations Transform Transportation, Industry and Daily Life. BEIJING, Aug. 18, 2021 /PRNewswire/ -- Today, Baidu demonstrated how"
-    publishedDateTime: 2021-08-18T17:30:00Z
-    webUrl: "https://www.mobilitytechzone.com/lte/news/2021/08/18/9433548.htm"
+    excerpt: "Today, Baidu demonstrated how its latest AI innovations will transform and improve transportation, industry and daily life at its annual flagship technology conference, Baidu World 2021. From a robocar reveal and a rebranded robotaxi mobile platform to Xiaodu's first smart TV and the 2 nd generation Kunlun AI chip,"
+    publishedDateTime: 2021-08-18T17:52:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/baidu-world-2021-baidu-showcases-how-latest-ai-innovations-transform-transportation-industry-and-daily-life-1030742878"
     type: article
     provider:
-      name: Mobility Techzone
-      domain: mobilitytechzone.com
-    quality: 20
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
     images:
       - url: "https://mma.prnewswire.com/media/1597362/Image1.jpg"
         width: 400

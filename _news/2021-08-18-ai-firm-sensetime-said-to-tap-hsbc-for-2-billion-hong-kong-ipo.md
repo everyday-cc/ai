@@ -54,6 +54,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI Firm Yitu Said to Mull Hong Kong IPO After Shanghai Plan Halt"
+    excerpt: "Chinese artificial intelligence company Yitu Technology is considering an initial public offering in Hong Kong after a tightening regulatory scrutiny stalled an earlier attempt to list in Shanghai, people familiar with the matter said."
+    publishedDateTime: 2021-08-19T02:35:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-08-19/ai-firm-yitu-said-to-mull-hong-kong-ipo-after-shanghai-plan-halt"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioSo1Zz2K1CQ/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "B7WJkUI9fzNoKI6YUWByJmAm62lF4XfFov3MU+fimEhw1cCdb0DRj7UjnLLMVNWo+Q+FAZWcSuHM8aTtzHtEe/dgTXMR0aWrK2OCKpx63qBgANVFfX/3JArqkRKe66u8CX+ITAtTFV3M80QGtqPsqxC41TBLfBGfdHPDcFauZMnOe+PIhOOnHrqmxvXOdBBduUTV2ymdURS60lyNGvFSBsnlRpEXxcf3zADZK4vdkKkGdnM65dkSv56Gd4oJ9HgaclIahvA4aCbp9dq6OV36Hpm7DbFp30csPUBmeHTrsopiyN+QDCCt+G6LEwvshJUalPudD0ydCP4dtAjGlVnkQ7qHCqIOqt+89t8224Hrh7o=;LrPvUuTcAa8TKzwYC4v2RQ=="
 ---

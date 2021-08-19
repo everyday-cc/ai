@@ -97,6 +97,20 @@ related:
         width: 390
         height: 220
         isCached: true
+  - title: "AI Infrastructure Sales Size 2021 by Product, Revenue, price, Industry Share, Growth Opportunity and Forecast to 2026 Research Report by MSR"
+    excerpt: "AI Infrastructure Sales Size 2021 by Product, Revenue, Price, Industry Share, Growth Opportunity and Forecast to 2026 Research Report by MSR"
+    publishedDateTime: 2021-08-19T03:27:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_amd/ai-infrastructure-sales-size-2021-by-product-revenue-price-industry-share-growth-opportunity-and-forecast-to-2026-research-report-by-msr/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 21
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/1629343638_img-6.png"
+        width: 500
+        height: 300
+        isCached: true
   - title: "Call Center AI Market Industry Share, Size: 2019 Market Research with Growth, Segments and Forecast - 2025"
     excerpt: "The rising consumer data in various industries such as retail BFSI and others are creating growth opportunities in the call center AI market With the growing digitalization across the globe big data is on a continuous rise According to the"
     publishedDateTime: 2021-08-17T09:43:00Z
