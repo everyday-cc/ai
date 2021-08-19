@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/17/ai-powered-travel-tech-platform-h
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/17/ai-powered-travel-tech-platform-hopper-raises-175m/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -77,6 +77,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Hiration Raises $3M to Offer its Affordable, AI-powered Resume-Building Platform to Job Seekers All Over The World"
+    excerpt: "Today Hiration, the platform that offers world class resources that makes it easy for qualified candidates to create the perfect resumes and find their dream role, announced it has raised $3M in seed funding from Prime Venture Partners,"
+    publishedDateTime: 2021-08-19T21:56:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-hiration-raises-3m-offer-its-affordable-ai-powered-/2021/08/19/9434545.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "98HOOeNFADHlLaPWFRLnXqyDEBB6Q4NEoFQbZIKMy250TI21gK7ERk8xLd32HYO+qhdc177EeXHgcpAm+XfRZjbsQSZgdeb37+GLIllSIW9uzR+dFZy3PyjfuCIrhzhD21uQfn2OapvtpjRL/AgS02BHEK01YeH8jAEvu0anwX0w5T/S8VCyTzq7aVEsuAOAAZ1Jrijgkr75PHsRbifCKS8zS6zQyyKzFga3lqFhXmIrRPrKWwGKXOz1SA+ZkAYuhHGx35s7ECWhwob86BPBe5BuJi2y6Wb9EmjJmZYSQEwSxBkYHSAXsHyHvQLCUDPCPkCZJbp4u1gPSB4gEhdYfqgI7zX6mJKz0r4slWA234S4WBEc0aytZgPkHoDVZ1NljYKFFR0kc1ICyIDgMoyMXRyCDgvVEAKMkagGQY0z9YgxNiVAKPON3dee9MeFHKZ1UGP+JprfEVZyly8aiPd55D3qJaiEy5xEHqpYaexhvFt/MzKs6gt1rh87nYV8cebwjB8H9syRziiLFUo+Tkh9Rw==;gYV3B/Jeew30lNEVGdcIIg=="
 ---

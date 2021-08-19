@@ -6,8 +6,8 @@ publishedDateTime: 2021-08-19T17:33:00Z
 originalUrl: "https://www.hcinnovationgroup.com/analytics-ai/artifical-intelligence-machine-learning/article/21235008/american-board-of-artificial-intelligence-in-medicine-provides-training-certification"
 webUrl: "https://www.hcinnovationgroup.com/analytics-ai/artifical-intelligence-machine-learning/article/21235008/american-board-of-artificial-intelligence-in-medicine-provides-training-certification"
 type: article
-quality: 44
-heat: 44
+quality: 46
+heat: 46
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://img.hcinnovationgroup.com/files/base/ebm/hci/image/2021/08/dreamstime_xl_124585312.611e67c01a4e7.png?auto=format&fit=max&w=1200"
@@ -23,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "D1lWON8vFzkQ+8UuCYzl+fGxVZWEkh8Vq2fOnm1bgqdb/cakWWTwzcf4RHVMfI4rwC2w1BKTZgfR4vQXwPBvQYHjLe5IEaQCrqa1Ey8bU93aXsh4avfsho79xUl5JkyaFDV6e/wI4VRnvzVj/xwWbYGMgameSBN28x17sJ0ZhSutgS7r1kucCzN8EPFViIMQww34kLHPGGfpkG3IWLU26Z3+aevDVhRvTmCw0bPO2waRuE8Zk5ivc5JjILsdpwUmA51ZLrB8RhMQYIQYWTLfLJB36jNNmtXxcqVAflFvkUv9BZkYGS4nyprFqxMGWrFlwkkbGJxrqFI8bwZhR6wAdhSvWINbEuAD1th+8MkNObo=;CvndjQvqH2Uq9nV7f/3UIw=="
+secured: "jSMZBkOLveiuViONuGAkPoQ+IYiw5oPSpqbXxiemUdTSQx32Yu1cQEkQvSSI+QD1DJIuMdOB+e/DUyOIQsJ1+2A76HJI5uKQHP1b+3UuuJ8vQ3jy5nVXkxbMuCZw7OjbpJj9AiGv3xW+68Q054DYfYmlCO+P9Qw6w3ZJ6sLXtv2QQImvxXhV3/NLZPSLU56M24uQhrXPtavn+C7fZ5PGpo1HC6zQliMRxPoTm2knMvOpoWMynJUEYsC5UKCi6odLmfzn6nEe9+oLenHb5l2WonV9zSMiEVkRAE8CVepVyJISnt1e91m1iZn3GPqTKFTzG8elnQPtd9hPxzRwPJhON9w1iragOjH9NcBdyZaRGebbDfeFm3sZn3rgVYRcxSGTQePuLaKVlk+i5Pu5y890vG3JJxUoMcARIT/pTp2RUg3KiyHDsBQnVTApB1/8kQUmhR3h032vkmLTB4I3snFiKdAJdbffGYOfbif4Nurvor68pSLDQsKGp2hD76m6GmlmX+Adc8n+KSxwMXlhOnmt1w==;EOIoyWtdZI4Cf0VIqZQaIQ=="
 ---
 

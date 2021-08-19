@@ -72,6 +72,15 @@ related:
         width: 906
         height: 569
         isCached: true
+  - title: "Hiration Raises $3M to Offer its Affordable, AI-powered Resume-Building Platform to Job Seekers All Over The World"
+    excerpt: "Today Hiration, the platform that offers world class resources that makes it easy for qualified candidates to create the perfect resumes and find their dream role, announced it has raised $3M in seed funding from Prime Venture Partners,"
+    publishedDateTime: 2021-08-19T21:56:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-hiration-raises-3m-offer-its-affordable-ai-powered-/2021/08/19/9434545.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "tMDU6WzZCP2wvOrRSWZ3R1btRDoaTtQQBx9VSKpV/tfKdLnYOQGgmOp/BSefG6wrP8N8BPLJ61hwoR2mrCFn5WxAs0RAi1+ElC+N0WzJHY4zY96dzckhNbS2qvMIqdhZGtNuOxXTIJQUBxlRdJZeofWRGzcuDMvkFa8qzSDcYPx5Zr6pJwyOhQjsbToKL1DjFsCRcEK6LwF8StSFhUE+43L/3SnQjsUWq3HJRHtbxqYoG4MYX9IZ5rduQ1YZyvb9oPg1di4HLYqfrDLo+M/XqH0uIBrJITJ5o/3upzf7S0nQ2dHW1DqUFX/V4MjFoNDN3QpSOHLzBtGtzbvYNTDx/nzwtaDOkESlCfgW3SK5/j4=;WTleIyTr7xb0V0RbMturpg=="
 ---

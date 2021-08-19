@@ -24,6 +24,22 @@ images:
     height: 400
     isCached: true
 
+related:
+  - title: "Osaro Raises $30M in Series C Funding"
+    excerpt: "The company’s automation systems bring together advanced machine learning for object recognition with control software that adapts to customer data and environments. The robotic piece-picking solution is optimized for e-commerce fulfillment center ..."
+    publishedDateTime: 2021-08-19T15:55:00Z
+    webUrl: "https://www.finsmes.com/2021/08/osaro-raises-30m-in-series-c-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 39
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2021/08/osaro.jpg"
+        width: 400
+        height: 400
+        isCached: true
+
 secured: "8r8ZqV/Izl+Rlalg7NljiOAwe4dC4QBcVrSawrh4iqgh77GngJSwfbtODJ5aSFzrgEgTYLACzQjm5Qcjccp2OxzRC8VleRsWFDAJLvgmV43cn2G6th45bXNgEszBm6F+bl60H4vx76qdSvyPkZhvDkN25Xk2tezpSU0AODNxgCO3Os0bIv6ilNOsMfEVfQTB1P7/ryacU6CTEZEc8R0WGjq6ADW9aMgPkhcdrEJZlFdwdfz3Ry0xT7YP6g8a3GlElsZ8GPfoUW6b7JVIhSnoX+mKpOJBZxlLBXaAIWpfK07hTmJU3LLutotumav+rsyPHJ6BNFjXS28bMa5lKoLzpnFp0exMLDZRCZXeDR2+S2g=;aPqZUSNL/DXG4eiG+hQm9g=="
 ---
 

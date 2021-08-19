@@ -1,0 +1,28 @@
+---
+category: news
+title: "Is Artificial Intelligence the New Normal in the Everything-Customer World? Research Says \"Yes\""
+excerpt: "The Insider also reports booming use of artificial intelligence in medicine and predicts nearly 50% growth of AI projects in the healthcare industry in the next two to three years. You might have heard the saying,"
+publishedDateTime: 2021-08-19T19:50:00Z
+originalUrl: "https://www.avaya.com/blogs/archives/2021/08/ai_the_everything_customer/"
+webUrl: "https://www.avaya.com/blogs/archives/2021/08/ai_the_everything_customer/"
+type: article
+quality: 25
+heat: 25
+published: false
+
+provider:
+  name: Avaya
+  domain: avaya.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://www.avaya.com/blogs/images/ai_everything_customer.jpg"
+    width: 840
+    height: 420
+    isCached: true
+
+secured: "ZBdrxnlYVjmK8wZ9xRWv1BYsHHvIag2EISCTzbePn4KJckqUxUo7CUbqCvmHsUc2oY6fgyTvShNhnFiJqjn6fRdHvAPkRFtE9YWtvZRbUCNWGOGvCBdVeUfsbwVHnLHcy8rtXS+lbM42e8RORSTwfUASimWD2C2R5XY3GczVP0zDqlTasxrulinRloHAQUMiJsKpeoGxeSFy4JAcUZ6fjum+bBMhD52T4glMHwqu5ixfPbh3JDo1/KLIAn7evlEU/tjwMf97l1Qd6jQqT5YRNU5IAjTtRsHewVT//AIOlcfjy/0/z2TszET81O3v9PhDdpC3DiGh8pwQKqgJW/3PD2koqxOXw/zN3sRAKveAHrQ=;x9mawotrxDEonrXRbximHQ=="
+---
+

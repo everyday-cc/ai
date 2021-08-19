@@ -2,11 +2,11 @@
 category: news
 title: "New Windows 10 previews arrive for versions 21H2 and 21H1"
 excerpt: "and Azure IoT Edge for Linux on Windows (EFLOW) deployments for machine learning. It moves 21H2 to build number 19044.1200. The best laptops: Our recommended models for every use case and platform New year, new laptop? These are the devices that should be ..."
-publishedDateTime: 2021-08-19T11:45:00Z
-originalUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/article/new-windows-10-21h2-and-21h1-previews-arrive/"
-webUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/article/new-windows-10-21h2-and-21h1-previews-arrive/"
-ampWebUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/new-windows-10-21h2-and-21h1-previews-arrive/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/new-windows-10-21h2-and-21h1-previews-arrive/"
+publishedDateTime: 2021-08-19T15:35:00Z
+originalUrl: "https://www.zdnet.com/index.php/category/2025/index.php/article/new-windows-10-21h2-and-21h1-previews-arrive/"
+webUrl: "https://www.zdnet.com/index.php/category/2025/index.php/article/new-windows-10-21h2-and-21h1-previews-arrive/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2025/index.php/google-amp/article/new-windows-10-21h2-and-21h1-previews-arrive/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2025/index.php/google-amp/article/new-windows-10-21h2-and-21h1-previews-arrive/"
 type: article
 quality: 74
 heat: 84
@@ -48,6 +48,6 @@ related:
         height: 802
         isCached: true
 
-secured: "w23z4Gac4zMW5oUiQkLzd9XqW8qIHMmfHq1mkLyo4KVh6I+5FS4e02YOxGmvWx7l3fSfy1KaJV5/5OVgcoZY0JXUU+OhYCMyyoeu+leByYg6VDo/ePZF8p0mCnPAll/eZROd/DPlAvuA8Tob6nhMa9fnAUgJHrNcTjwane790vbRbNnIETr2/y1rtA9hy+PRPvQtyK759tAOArY3Y+xwFUP/ZPdj2t4sfUhvuR9vsKnc2FdA2Cj/41dYNCrUWomTb4roS7vkSHUTcz6rCGit4RBW0B6LsMeczLEaSpr9sC4WMQFCLwprlzvZI0I4A+WVMlEhfzOrJojTmQB8HgsbM1G8vkgkXPt0kyhWQnTzHic=;vwdUrJKXr6+pGYcrayVFlA=="
+secured: "wT2aNN0QZIeEiw6Es7OupqdHsyVvSHqqGTXtsurM0fkc8Itz1QzWGQyc9dIG/SK1JwYVu0Ew+Dpo44v+XuwyaUNVRCicoVkd7TKjz85OIDW1rmR+5A1O+pT+3M+tRK/49PGhXVXjoXhdPDceujyofNxsyqp0zbQHHkmhOqgAYNnU6uEE+Y0Q1STA54IaGOmYvMmUo8oTEXGnpx3Q4JvQjE8EnesWug1FziMdJ+qFkeRASSG8Qu7nbBo6NnfvObynociEPPhu49eQ8Ka2QZ3WQhhWJGzkyDAE+y85ESRAaVn//3K8yuWk8ju5PRdngYvjz+yR8+osdycLAhS9/XdwK/x+HIRuQFPRM6y8bpcNeBE=;CUyr4e1vdfvMkBqBVXCPZQ=="
 ---
 

@@ -39,6 +39,22 @@ related:
         width: 800
         height: 407
         isCached: true
+  - title: "Big bet on AI punches up Nvidia stock"
+    excerpt: "Nvidia (NVDA) reported blow-out earnings Wednesday after the close. Revenues are surging as its high-end chips for graphics and data centers remain in high demand. The San Jose, Calif.-based company reported revenues surged 68% during the second quarter,"
+    publishedDateTime: 2021-08-19T18:57:00Z
+    webUrl: "https://www.thestreet.com/tech/news/nvdajdm081921"
+    ampWebUrl: "https://www.thestreet.com/tech/.amp/news/nvdajdm081921"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/tech/.amp/news/nvdajdm081921"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 57
+    images:
+      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTgzMjYwMzgyMjI2MjkzNzk4/nvidia-data-science-home-og-social-share.jpg"
+        width: 620
+        height: 326
+        isCached: true
   - title: "Artificial Intelligence(AI) in Retail Market Latest Advancement and Business Outlook 2021 - 2027: IBM, Microsoft, Nvidia, Amazon Web Services"
     excerpt: "Market Insights Reports released a new study on 2021 2027 Artificial Intelligence AI in Retail Market with 100 data Tables Pie Chat Graphs Figures spread through Pages and easy to understand detailed analysis The Global Artificial Intelligence AI in Retail"
     publishedDateTime: 2021-08-18T18:39:00Z

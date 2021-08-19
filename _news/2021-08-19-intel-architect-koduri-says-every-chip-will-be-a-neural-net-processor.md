@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/article/intel
 ampWebUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.zdnet.com/a/hub/i/2021/08/19/beb44cbb-ab59-4180-9f75-496e4ef8a5b4/intel-2021-sapphire-rapids.jpg"
@@ -30,6 +31,6 @@ images:
     height: 310
     isCached: true
 
-secured: "6exIMxfOR5v/r9IQnDliZobD+/DZKW+0FLWbiB6HJkUmZ/SAI+u1UO7Dzbcpkv4chgAHXu7n0+T4uLkoMU2cIgbBoMx82/qXi1oU1SRxugs+d2Tf0eb8Aja54hjQ2ZhUV8IfIkDNi2jP4f/qIKr+rBDUMDRmb+xi5xBjO/nxLcRi614X21dQkaFTxbNqr1nnHmCTwvpxa97y6nvQntZ60EmWonKMPoUVUwJEoExgNBn/jgYX3ZNijKDnK/njka+zdskIcd4X3FukAO8VvBBnxTI4YSIGIaba9ljDCEM5GzXDviJIFzrrryaeSYrSehfNddhvY5pi0WSlnlva1Hf3D7KMUxZ/Qu2dHVs/KgD9+14=;5pmExyNVeXbOOrUI5tyZHw=="
+secured: "I8/zObX/xckxSXusHX02dEU8AjM5wk6+591yBFURj6l9n8M4CXDsAfyZQGctolS+TNdgl81DDoImaqtbTNJCNUUp364mp+gOZSlyK09bo7k0+u8cqF0ByXaOUprgA6Vk/GXHBw1k9bT4m+gisIw1CXQXwkQOWpTg+eNSZl0v1iM7TsxdhoT4jz1g9ZP3xarhTqlhHWX10ilufZdUvTQ4nErE9hMv6YR0OaK7B9bOtxBveAbogZyKl8phR02zPhGOcnggyGH48a1mf4JhcO97CWK9IJk77edsTeayMkz3UP+aNX6orX48M6whdm/8uw9fffhMAM0b34aTkoMTCp+7bl9c/KuM2AWLP5u9fZymQsMpzHNlax1R8OquLGaSl/tivdjzyrcFKtZbUMebPpX6XDQNpF/Z8jawfA9sVeTBiYFnf2a7qTgcfzuPEGfX+Kn7HxamI2rSgaoYplUexqVgj2vp26s/jDLxjwtrrY8sLiAtpDWmFgfYAe4cyeKCnPn9h98K0CdWR9d85fnaxZRF+Q==;LT0W0ChErJKcQuomiyTGMQ=="
 ---
 

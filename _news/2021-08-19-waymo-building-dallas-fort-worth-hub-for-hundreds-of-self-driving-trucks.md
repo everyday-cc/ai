@@ -49,6 +49,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Waymo expands self-driving truck operations"
+    excerpt: "The 9 acre hub will be built from the ground up for Waymo Via and its autonomous driving operations. The facility will be the primary operations center for Waymo’s self-driving trucking business in Texas and will be able to accommodate hundreds of trucks ..."
+    publishedDateTime: 2021-08-19T12:36:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17081/waymo-expands-self-driving-truck-operations"
+    type: article
+    provider:
+      name: electronics360.globalspec
+      domain: globalspec.com
+    quality: 39
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/081/17081/Ryder_Waymo.jpg"
+        width: 752
+        height: 423
+        isCached: true
 
 secured: "nAH4qWibTSvdkRKYT5EqMUUBme6TKDAwLBhUkEryIEUBr975WMErCyfV7a7awBF6Pk3xudiq9AIDLbehjfbI01ngpTlaYZe+Zg43OxX8KeMfm2mmBZjCG1ZCBDo4UfOpZq9zXChC0QkRtUTrBR12Yh0Xx5bLL6acuPeNALJTRXhcUsEpHPBK1eF6ZbI4Of0qT8Pc5+rb0u6Z5b6yCl+Q+xYWgobybY0M7VsG9XaeYEoeUiW0fNKSvd/GebnM9YCwF5lluOiBop8LPbtrtEhfmMPOZqHF86PwnuV7guqD85gyYPq6tJnARXVAWgSJAD22QHF7I2iDzoqQ6AUoM0MpUuENeFAeXzdcbest2YmIHkH8mYjEeXk93EUy94gVML3DSQKIaP0qhDMEWwnvtqKkUjauj+mRPakT7Uz5jt+DtM7sGbb2ZtRjZDjC+QQom1TK3epgW7+YHzwiSSXdzItRvm6WibSG9/Gqp6tySAEuJUZ/bYe+4nmwxjBDSxrA6dCONfvnD9WObaMRYWhSvgm1Fw==;ktOlcpF3k3WcAWIsgi2Pzg=="
 ---

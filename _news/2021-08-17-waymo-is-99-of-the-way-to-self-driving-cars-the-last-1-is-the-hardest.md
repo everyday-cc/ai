@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Waymo expands self-driving truck operations"
+    excerpt: "The 9 acre hub will be built from the ground up for Waymo Via and its autonomous driving operations. The facility will be the primary operations center for Waymo’s self-driving trucking business in Texas and will be able to accommodate hundreds of trucks ..."
+    publishedDateTime: 2021-08-19T12:36:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17081/waymo-expands-self-driving-truck-operations"
+    type: article
+    provider:
+      name: electronics360.globalspec
+      domain: globalspec.com
+    quality: 39
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/081/17081/Ryder_Waymo.jpg"
+        width: 752
+        height: 423
+        isCached: true
   - title: "Waymo building Dallas-Fort Worth hub for hundreds of self-driving trucks"
     excerpt: "Waymo, the Mountain View-based autonomous truck spinoff of Alphabet Inc., said on Wednesday that it is working on a dedicated trucking hub that covers nine acres in Lancaster, Texas. The site will be able to accommodate hundreds of vehicles and hundreds of personnel,"
     publishedDateTime: 2021-08-18T21:57:00Z

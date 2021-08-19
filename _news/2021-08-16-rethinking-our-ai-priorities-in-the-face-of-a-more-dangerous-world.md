@@ -40,6 +40,20 @@ related:
         width: 828
         height: 517
         isCached: true
+  - title: "The Medical Field is Changing Because of Artificial Intelligence"
+    excerpt: "Artificial intelligence is also the brain behind things like robot-assisted surgeries, and by 2025, the robot surgery market is expected to pass $7 billion. In addition to the obvious things like no dependence on human dexterity, and “no bad days” for ..."
+    publishedDateTime: 2021-08-19T14:50:00Z
+    webUrl: "https://dataconomy.com/2021/08/medical-field-changing-artificial-intelligence/"
+    type: article
+    provider:
+      name: dataconomy.com
+      domain: dataconomy.com
+    quality: 39
+    images:
+      - url: "https://dataconomy.com/wp-content/uploads/2021/08/medical-field-changing-artificial-intelligence.jpg"
+        width: 1920
+        height: 1013
+        isCached: true
   - title: "Op-Ed: AI and the future of gaming — A piece of string worth tying into knots"
     excerpt: "The inevitable future of gaming is super-smart, evolving, artificial intelligence. That opens up endless possibilities, not just for gaming, but for that elusive thing, a meaningful human existence. Gaming is a business principle,"
     publishedDateTime: 2021-08-15T11:27:00Z

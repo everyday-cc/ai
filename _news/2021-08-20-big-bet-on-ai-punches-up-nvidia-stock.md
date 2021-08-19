@@ -1,30 +1,28 @@
 ---
 category: news
-title: "Speech and Voice Recognition Market Analysis and Forecast by 2027|Microsoft Corporation, Alphabet, Cantab Research Limited"
-excerpt: "Los Angeles United States Aug 2021 QY Research has recently published a new report titled Global Speech and Voice Recognition Market Report History and Forecast 2016 2027 Breakdown Data by Companies Key Regions Types and Application The report has been"
-publishedDateTime: 2021-08-16T04:03:00Z
-originalUrl: "https://www.openpr.com/news/2355652/speech-and-voice-recognition-market-analysis-and-forecast"
-webUrl: "https://www.openpr.com/news/2355652/speech-and-voice-recognition-market-analysis-and-forecast"
-ampWebUrl: "https://www.openpr.com/amp/2355652/speech-and-voice-recognition-market-analysis-and-forecast"
-cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2355652/speech-and-voice-recognition-market-analysis-and-forecast"
+title: "Big bet on AI punches up Nvidia stock"
+excerpt: "Nvidia (NVDA) reported blow-out earnings Wednesday after the close. Revenues are surging as its high-end chips for graphics and data centers remain in high demand. The San Jose, Calif.-based company reported revenues surged 68% during the second quarter,"
+publishedDateTime: 2021-08-19T18:57:00Z
+originalUrl: "https://www.thestreet.com/tech/news/nvdajdm081921"
+webUrl: "https://www.thestreet.com/tech/news/nvdajdm081921"
+ampWebUrl: "https://www.thestreet.com/tech/.amp/news/nvdajdm081921"
+cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/tech/.amp/news/nvdajdm081921"
 type: article
-quality: 35
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: openpr.com
-  domain: openpr.com
+  name: TheStreet.com
+  domain: thestreet.com
 
 topics:
-  - Natural Language Processing
   - AI
-  - Microsoft AI
 
 images:
-  - url: "https://cdn.openpr.com/U/8/U816324049_g.jpg"
-    width: 800
-    height: 407
+  - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTgzMjYwMzgyMjI2MjkzNzk4/nvidia-data-science-home-og-social-share.jpg"
+    width: 620
+    height: 326
     isCached: true
 
 related:
@@ -55,22 +53,6 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 67
-  - title: "Big bet on AI punches up Nvidia stock"
-    excerpt: "Nvidia (NVDA) reported blow-out earnings Wednesday after the close. Revenues are surging as its high-end chips for graphics and data centers remain in high demand. The San Jose, Calif.-based company reported revenues surged 68% during the second quarter,"
-    publishedDateTime: 2021-08-19T18:57:00Z
-    webUrl: "https://www.thestreet.com/tech/news/nvdajdm081921"
-    ampWebUrl: "https://www.thestreet.com/tech/.amp/news/nvdajdm081921"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/tech/.amp/news/nvdajdm081921"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 57
-    images:
-      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTgzMjYwMzgyMjI2MjkzNzk4/nvidia-data-science-home-og-social-share.jpg"
-        width: 620
-        height: 326
-        isCached: true
   - title: "Artificial Intelligence(AI) in Retail Market Latest Advancement and Business Outlook 2021 - 2027: IBM, Microsoft, Nvidia, Amazon Web Services"
     excerpt: "Market Insights Reports released a new study on 2021 2027 Artificial Intelligence AI in Retail Market with 100 data Tables Pie Chat Graphs Figures spread through Pages and easy to understand detailed analysis The Global Artificial Intelligence AI in Retail"
     publishedDateTime: 2021-08-18T18:39:00Z
@@ -82,7 +64,23 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 51
+  - title: "Speech and Voice Recognition Market Analysis and Forecast by 2027|Microsoft Corporation, Alphabet, Cantab Research Limited"
+    excerpt: "Los Angeles United States Aug 2021 QY Research has recently published a new report titled Global Speech and Voice Recognition Market Report History and Forecast 2016 2027 Breakdown Data by Companies Key Regions Types and Application The report has been"
+    publishedDateTime: 2021-08-16T04:03:00Z
+    webUrl: "https://www.openpr.com/news/2355652/speech-and-voice-recognition-market-analysis-and-forecast"
+    ampWebUrl: "https://www.openpr.com/amp/2355652/speech-and-voice-recognition-market-analysis-and-forecast"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2355652/speech-and-voice-recognition-market-analysis-and-forecast"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 35
+    images:
+      - url: "https://cdn.openpr.com/U/8/U816324049_g.jpg"
+        width: 800
+        height: 407
+        isCached: true
 
-secured: "PYDHzmBgpHkT5TSD/4kNsUNIANMSdJG+doKx9U9TGI7/h4Pa/OUd/LrVQJAs2L8VsZcXjn7G3jnuYFu2ecgdh4t/0u+GjdEIgV0Hj3nIROYCI7MQT9CQZFUelnbUCjawMd9uN0L16izAGIGVX0bRnFNFwRbLys8KC0GmZofKlo2qZ9NwEZK6MsaJjX/gZ6OAcCGZv8TC6rnewqUU62ojwNmvYPO9NvL7CWlqGzWiyxxJ3JyhyxadbElAhFUuS4mjzxCRIyqmpS8MrGhmwaYV3ChwcLyXwpo87qykhkD7NzeU9jGepnBIoK9q5ywufRoU3iYAxK5lRuwKhjMm5ir22UrewsQAEtYEYHgBhHbKbOh21ywUVzckbeyPdYXYwVH8XIYYjrzTGzGkH59aHdfZLlzVcsZWPrlXgOYKenNwAzGtXZFlNmVa373+St6MJN1GpsIVih6SvsFIfcIZUEE6S625AaiWmITEgVbyW+qv713rBkzDZ4esN8vaQizbQ5fOvC8U82X0t4KWMn2cOxqbNA==;QSH/TzTG7bXDg47wKfbVeg=="
+secured: "g+wyMfHcI5j9fVSnOG7BvugFknIbECvPhj+VQyYQr6pqRgcXvncnTgzGNuYi6xj2xcSmoDt/6aAqv0Wuawy7Sd3Z9MPETiqZJNlWfVdVzCTE0wUVdKQeMU4lUOZXFOuykLhfnO/znNc0ys36rjkUZGW6hlYQcX+IGxhSE5IbinXn8Rlw9Mt56Islk7Lw4PTlQi3TcjQRwPcucGhjJyQOPGS4sL4fqli6K7WIarlrZugwvybXTzn87e7V4TgeS2NdzdfcNLO4J57W8kWKmtUqCC+xIS4xZhOeZedejIdgZRsJB5W9jDhiu4znlgqMT3sNU1DV5MiKi8Dc2XPA/AEqCCoRCZvwWMbSei/5i3dtdKs=;0skXbta2LEj+yue6DX2rvg=="
 ---
 

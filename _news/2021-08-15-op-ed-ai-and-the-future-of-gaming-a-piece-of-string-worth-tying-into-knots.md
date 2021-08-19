@@ -40,6 +40,20 @@ related:
         width: 828
         height: 517
         isCached: true
+  - title: "The Medical Field is Changing Because of Artificial Intelligence"
+    excerpt: "Artificial intelligence is also the brain behind things like robot-assisted surgeries, and by 2025, the robot surgery market is expected to pass $7 billion. In addition to the obvious things like no dependence on human dexterity, and “no bad days” for ..."
+    publishedDateTime: 2021-08-19T14:50:00Z
+    webUrl: "https://dataconomy.com/2021/08/medical-field-changing-artificial-intelligence/"
+    type: article
+    provider:
+      name: dataconomy.com
+      domain: dataconomy.com
+    quality: 39
+    images:
+      - url: "https://dataconomy.com/wp-content/uploads/2021/08/medical-field-changing-artificial-intelligence.jpg"
+        width: 1920
+        height: 1013
+        isCached: true
   - title: "Rethinking Our AI Priorities in the Face of a More Dangerous World"
     excerpt: "Artificial intelligence (AI) is either our best path to a better tomorrow or the harbinger of an apocalypse, depending on who is talking about it:"
     publishedDateTime: 2021-08-15T18:17:00Z

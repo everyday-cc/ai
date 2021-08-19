@@ -1,29 +1,21 @@
 ---
 category: news
-title: "ClosedLoop.ai Raises $34M to Expand Healthcare Data Science Platform"
-excerpt: "ClosedLoop.ai., an Austin, TX-based healthcare data science platform, today announced it has raised $34 million in Series B funding."
-publishedDateTime: 2021-08-17T20:38:00Z
-originalUrl: "https://hitconsultant.net/2021/08/17/closedloop-healthcare-data-science-funding/"
-webUrl: "https://hitconsultant.net/2021/08/17/closedloop-healthcare-data-science-funding/"
+title: "Hiration Raises $3M to Offer its Affordable, AI-powered Resume-Building Platform to Job Seekers All Over The World"
+excerpt: "Today Hiration, the platform that offers world class resources that makes it easy for qualified candidates to create the perfect resumes and find their dream role, announced it has raised $3M in seed funding from Prime Venture Partners,"
+publishedDateTime: 2021-08-19T21:56:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-hiration-raises-3m-offer-its-affordable-ai-powered-/2021/08/19/9434545.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-hiration-raises-3m-offer-its-affordable-ai-powered-/2021/08/19/9434545.htm"
 type: article
-quality: 56
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: HIT Consultant
-  domain: hitconsultant.net
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI in Healthcare
   - AI
-  - Machine Learning
-
-images:
-  - url: "https://mk0hitconsultan2lp7c.kinstacdn.com/wp-content/uploads/2021/08/ClosedLoop.png"
-    width: 906
-    height: 569
-    isCached: true
 
 related:
   - title: "AI-powered travel tech platform Hopper raises $175M"
@@ -58,6 +50,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "ClosedLoop.ai Raises $34M to Expand Healthcare Data Science Platform"
+    excerpt: "ClosedLoop.ai., an Austin, TX-based healthcare data science platform, today announced it has raised $34 million in Series B funding."
+    publishedDateTime: 2021-08-17T20:38:00Z
+    webUrl: "https://hitconsultant.net/2021/08/17/closedloop-healthcare-data-science-funding/"
+    type: article
+    provider:
+      name: HIT Consultant
+      domain: hitconsultant.net
+    quality: 56
+    images:
+      - url: "https://mk0hitconsultan2lp7c.kinstacdn.com/wp-content/uploads/2021/08/ClosedLoop.png"
+        width: 906
+        height: 569
+        isCached: true
   - title: "HR tech Startup Hiration raises Rs 21 cr; to offer AI-powered career platform for job seekers"
     excerpt: "Hiration, an AI-powered career platform which helps professionals create high-impact resumes and find their dream job, has raised Rs 21 crore ($3 million) from Prime Venture Partners, Venture Highway and Y Combinator."
     publishedDateTime: 2021-08-19T10:01:00Z
@@ -74,16 +80,7 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Hiration Raises $3M to Offer its Affordable, AI-powered Resume-Building Platform to Job Seekers All Over The World"
-    excerpt: "Today Hiration, the platform that offers world class resources that makes it easy for qualified candidates to create the perfect resumes and find their dream role, announced it has raised $3M in seed funding from Prime Venture Partners,"
-    publishedDateTime: 2021-08-19T21:56:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-hiration-raises-3m-offer-its-affordable-ai-powered-/2021/08/19/9434545.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
-secured: "hIio4zDjM/aGsbIb2r+NyVdUGcqQTGduKc0tAnCjY96Rzd8qvVm9UI9sgluSgtSebOseTH8ICdO3yv2SkcapvStwj+Ba6NRsG8E5qE9ClH4CWdkwRNKTIyUzoEnugTzO2zR9YS4BTKdXyUP8d10jQDriU9h7U84OUIA/91FNmupz3UG60xmi56W0wBr8JmOlIOyFouhEDoPrUFIjs6oq8uK02fs9QFUflOs68Ub0ffVKY7MKbIiBdAYkW5OsEkKBd0bnAkhvIDLMK6j/UxQ2iUryEnK7eEIy+VJgnRrTcRg2ZtVoQdSltMQynNDb2HUsGj/MBFSvoK+kEPKKts1gkn02KJB3Sr22IO699pBy5zZB5fNbDv9LPXWneo9TeZpiWYnvD+nc5zt9EJifH2Ci2124y17eCZw8itpECYFvlB+hZmRy4/FIia18CCofhYM92PBcsXysCQP+VdXy7L011c2y1E9dy+QtLIxgExUdObVsHLoh/H1zmxdE76DPVcpueeknHgNoFrEsu4HAdi63Ig==;79vUXGk+BUJbsSD2KxeTIA=="
+secured: "SaxEtOrD39lSqUQZBqsc5GC30y63+xHyI/geoEY25intzC3tlOYT+a8+YK4oRS5GclW4ZLe5fHZe9n48vYkpHoWnVs3CtuUj5mbT2MYcqri5dkVXToOQJoMU6ZLI/P2prKBdDpyBd/ZYHhI1AEU45r3R1Bi1WutLjBOoSXhnnz93qKNSp8VmBLyekt2cBKmjPrySrVxsnrB76KkGdFTxALfiXqP/DkbTIh5OOkhHX7f7gFIYiucHCM2sBBLJFg3oU5psOAZKBhvw9vdi6w7S9yzgFl40oKk74B/SO6Gwqcb8aVRb7h6Rqa7XQPo0NE86a/AzHFJtEp9yG1eqHQhsVFXJDQ5VTGrsP324H3NGqZI=;m5DMTIxBy8hIs8mtkXhrUQ=="
 ---
 

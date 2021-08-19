@@ -30,10 +30,10 @@ images:
 related:
   - title: "New Windows 10 previews arrive for versions 21H2 and 21H1"
     excerpt: "and Azure IoT Edge for Linux on Windows (EFLOW) deployments for machine learning. It moves 21H2 to build number 19044.1200. The best laptops: Our recommended models for every use case and platform New year, new laptop? These are the devices that should be ..."
-    publishedDateTime: 2021-08-19T11:45:00Z
-    webUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/article/new-windows-10-21h2-and-21h1-previews-arrive/"
-    ampWebUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/new-windows-10-21h2-and-21h1-previews-arrive/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/new-windows-10-21h2-and-21h1-previews-arrive/"
+    publishedDateTime: 2021-08-19T15:35:00Z
+    webUrl: "https://www.zdnet.com/index.php/category/2025/index.php/article/new-windows-10-21h2-and-21h1-previews-arrive/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2025/index.php/google-amp/article/new-windows-10-21h2-and-21h1-previews-arrive/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2025/index.php/google-amp/article/new-windows-10-21h2-and-21h1-previews-arrive/"
     type: article
     provider:
       name: ZDNet

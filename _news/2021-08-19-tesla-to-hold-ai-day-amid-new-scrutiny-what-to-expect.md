@@ -104,17 +104,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Musk's 'AI Day' confronts tough questions about Tesla's technology"
-    excerpt: "At Tesla's \"Autonomy Day\" event in April 2019, Chief Executive Elon Musk said that by mid-2020 Tesla TSLA.O would have over a million self-driving vehicles where riders \"could go to sleep\" during a trip."
-    publishedDateTime: 2021-08-19T14:11:00Z
-    webUrl: "https://www.nasdaq.com/articles/musks-ai-day-confronts-tough-questions-about-teslas-technology-2021-08-19-0"
-    ampWebUrl: "https://www.nasdaq.com/articles/musks-ai-day-confronts-tough-questions-about-teslas-technology-2021-08-19-0?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/musks-ai-day-confronts-tough-questions-about-teslas-technology-2021-08-19-0?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 86
   - title: "Tesla Autopilot U.S. Safety Probe Puts a Damper on Elon Musk’s AI Day"
     excerpt: "The federal investigation into Tesla Inc.’s Autopilot comes at an awkward time for Elon Musk. On Thursday -- just three days after the U.S. government announced its probe -- he has a briefing scheduled about the carmaker’s work on artificial intelligence."
     publishedDateTime: 2021-08-16T15:58:00Z
@@ -128,6 +117,20 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVshSUQDWYX0/v0/1200x900.jpg"
         width: 1200
         height: 900
+        isCached: true
+  - title: "Musk's 'AI Day' confronts tough questions about Tesla's technology"
+    excerpt: "At Tesla's \"Autonomy Day\" event in April 2019, Chief Executive Elon Musk said that by mid-2020 Tesla (TSLA.O) would have over a million self-driving vehicles where riders \"could go to sleep\" during a trip."
+    publishedDateTime: 2021-08-19T02:02:00Z
+    webUrl: "https://www.reuters.com/technology/musks-ai-day-confronts-tough-questions-about-teslas-technology-2021-08-18/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://www.reuters.com/resizer/gQCbWlBrk4aRoBGlrduiXWv8Rzo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2MB6UJWVB5KMZA545NR5FCANH4.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Dow Selloff, Nvidia, Tesla AI Day, Robinhood: 5 Things You Must Know Thursday"
     excerpt: "\"That said, the start of tapering necessarily chips away at the tools at the Fed ... The stock dropped 11.73% to $43.96 early Thursday. Tesla's AI Day is invite-only and is expected to begin ..."

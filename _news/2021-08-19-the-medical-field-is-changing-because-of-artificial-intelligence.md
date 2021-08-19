@@ -1,27 +1,27 @@
 ---
 category: news
-title: "The hidden helping hand: expert from Croesus reveals how AI tech is already changing the industry"
-excerpt: "There’s an obvious reason for this – most physical locations were closed, so organizations had to fall back on online support – but it becomes especially interesting to note this is just a taster of an AI-centric revolution currently changing the world of finance."
-publishedDateTime: 2021-08-19T15:31:00Z
-originalUrl: "https://www.wealthprofessional.ca/investments/wealth-technology/the-hidden-helping-hand-expert-from-croesus-reveals-how-ai-tech-is-already-changing-the-industry/359051"
-webUrl: "https://www.wealthprofessional.ca/investments/wealth-technology/the-hidden-helping-hand-expert-from-croesus-reveals-how-ai-tech-is-already-changing-the-industry/359051"
+title: "The Medical Field is Changing Because of Artificial Intelligence"
+excerpt: "Artificial intelligence is also the brain behind things like robot-assisted surgeries, and by 2025, the robot surgery market is expected to pass $7 billion. In addition to the obvious things like no dependence on human dexterity, and “no bad days” for ..."
+publishedDateTime: 2021-08-19T14:50:00Z
+originalUrl: "https://dataconomy.com/2021/08/medical-field-changing-artificial-intelligence/"
+webUrl: "https://dataconomy.com/2021/08/medical-field-changing-artificial-intelligence/"
 type: article
-quality: 26
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: wealthprofessional.ca
-  domain: wealthprofessional.ca
+  name: dataconomy.com
+  domain: dataconomy.com
 
 topics:
-  - Natural Language Processing
+  - AI in Robotics
   - AI
 
 images:
-  - url: "https://cdn-res.keymedia.com/cms/images/ca/155/0382_637649839418762625.png"
-    width: 1000
-    height: 600
+  - url: "https://dataconomy.com/wp-content/uploads/2021/08/medical-field-changing-artificial-intelligence.jpg"
+    width: 1920
+    height: 1013
     isCached: true
 
 related:
@@ -40,20 +40,6 @@ related:
       - url: "https://www.telegraph.co.uk/content/dam/beauty/2021/08/18/Visuels-connectivite-ROSE_0_trans_NvBQzQNjv4BqLUm2LqZ7QfPrWh62iB90NVTmGTZwRSZcqbDiPNar8DA.jpg"
         width: 828
         height: 517
-        isCached: true
-  - title: "The Medical Field is Changing Because of Artificial Intelligence"
-    excerpt: "Artificial intelligence is also the brain behind things like robot-assisted surgeries, and by 2025, the robot surgery market is expected to pass $7 billion. In addition to the obvious things like no dependence on human dexterity, and “no bad days” for ..."
-    publishedDateTime: 2021-08-19T14:50:00Z
-    webUrl: "https://dataconomy.com/2021/08/medical-field-changing-artificial-intelligence/"
-    type: article
-    provider:
-      name: dataconomy.com
-      domain: dataconomy.com
-    quality: 39
-    images:
-      - url: "https://dataconomy.com/wp-content/uploads/2021/08/medical-field-changing-artificial-intelligence.jpg"
-        width: 1920
-        height: 1013
         isCached: true
   - title: "Rethinking Our AI Priorities in the Face of a More Dangerous World"
     excerpt: "Artificial intelligence (AI) is either our best path to a better tomorrow or the harbinger of an apocalypse, depending on who is talking about it:"
@@ -83,7 +69,21 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "The hidden helping hand: expert from Croesus reveals how AI tech is already changing the industry"
+    excerpt: "There’s an obvious reason for this – most physical locations were closed, so organizations had to fall back on online support – but it becomes especially interesting to note this is just a taster of an AI-centric revolution currently changing the world of finance."
+    publishedDateTime: 2021-08-19T15:31:00Z
+    webUrl: "https://www.wealthprofessional.ca/investments/wealth-technology/the-hidden-helping-hand-expert-from-croesus-reveals-how-ai-tech-is-already-changing-the-industry/359051"
+    type: article
+    provider:
+      name: wealthprofessional.ca
+      domain: wealthprofessional.ca
+    quality: 26
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/ca/155/0382_637649839418762625.png"
+        width: 1000
+        height: 600
+        isCached: true
 
-secured: "icRj4bg/h/0G9FPUC4N/5gXeihN3tXvjB52nqrJfkaK7rPKJqlopwbSloq5rsaMRcAAeC49gFjj61/lK9ULE53Uc6FK3lXg6tplg7KevsbQ4Yrqk13VegH6TQFZCgOd9K/v0u2DYN7SF5jofOipXZliAtKKQXZeLix7mNxmq1L5wIuA7NrTtFxqMzrPjcY23BODbsaOSvActI8KEwosc1xuGrVCwduTELHSzXfonJo8Zq/8Ez7/fxXU12W8Etd5EAY8XZoAF0yb1j26N2faTOaA9pbTuOy0uhKuevQDjqHN5bvSmHSXc7ub5Eynkjh0c79w2qXHWD2+1SCGMDxA9vugQuh5OLpn2NuvYgRHT/XtJ5v530VRvo2G6RJr+edhcALXJ0ekux1QmlfiSOnASweG66v94m92/snhzoiZtO1HU5z/NYZy0Bdvs5CZUnJZhCrzl6oY2ljNV4WC6hgzHCBv35s8gmpqPyORjbLNhIaukZ8vf15wASjb0DSfmHq2+LeEOc7uY0bLhwhMPsYsJYQ==;5sEOquu9+I3ueiHfLdiwNA=="
+secured: "aeOKprkuklzWNQLdvrNkMdkZ7m2DftFuZPYIdg8uAqbfCPS+vu3qNkKn5oHAFypBJi0l+WFIsrJc5NqbkgMoPUgAnvs1z7rxGg3LS3d0cVyQFPV8DhXFcDyovIH1zPu/feBb6GJykHAum/Csj/Zpns5l2TvZ0vtZSi7/6KY6s2YJgKzfXypMhBEnJtMNFjPeeiNI8+QAAG/J0Gh4bsoMOD9QneDkkjtVbQVSsZK8JkLr3UGDcJxoDshOq5fQbd+iLNWApC0HiUJej3IB6vtphSicbf3EU6HjdUvwRlBGlooJ9fQsk/mM9zdwAmzFS7d1h+enE+y1iLRBil5LXDgHwBELVKuMVk6fOAAN6nwgo2g=;v1NTRg2pRMvli2gB+6YDIw=="
 ---
 
