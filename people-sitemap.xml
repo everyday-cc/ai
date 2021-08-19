@@ -199,12 +199,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://everyday.cc/ai/people/clement-farabet/</loc>
-    <lastmod>2021-08-16T00:00:00-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://everyday.cc/ai/people/huahai-yang/</loc>
     <lastmod>2021-08-16T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -434,6 +428,12 @@
   </url>
   <url>
     <loc>https://everyday.cc/ai/people/carol-e-reiley/</loc>
+    <lastmod>2021-08-16T00:00:00-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://everyday.cc/ai/people/clement-farabet/</loc>
     <lastmod>2021-08-16T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
