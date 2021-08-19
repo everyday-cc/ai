@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/08/18/amazon-rolls-out-indias-first-cele
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/18/amazon-rolls-out-indias-first-celebrity-voice-on-alexa-with-amitabh-bachchan/amp/"
 type: article
 quality: 71
-heat: 81
+heat: 101
 published: true
 
 provider:
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Chat with Big B's voice on Amazon Alexa for Rs 149"
+    excerpt: "Amazon on Thursday said it has made India's first celebrity voice feature on Alexa available with the legendary Amitabh Bachchan, and the users in India can add his amazing voice to their"
+    publishedDateTime: 2021-08-19T07:20:00Z
+    webUrl: "https://www.thehansindia.com/technology/tech-news/chat-with-big-bs-voice-on-amazon-alexa-for-rs-149-702383"
+    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/chat-with-big-bs-voice-on-amazon-alexa-for-rs-149-702383"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/chat-with-big-bs-voice-on-amazon-alexa-for-rs-149-702383"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 44
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2021/08/19/1102936-alexa.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Now chat with Big B's voice on Amazon Alexa for Rs 149 in India"
+    excerpt: "Amazon on Thursday said it has made India's first celebrity voice feature on Alexa available with the legendary Amitabh Bachchan, and"
+    publishedDateTime: 2021-08-19T07:06:00Z
+    webUrl: "https://www.glamsham.com/world/technology/now-chat-with-big-bs-voice-on-amazon-alexa-for-rs-149-in-india"
+    ampWebUrl: "https://www.glamsham.com/world/technology/now-chat-with-big-bs-voice-on-amazon-alexa-for-rs-149-in-india/amp"
+    cdnAmpWebUrl: "https://www-glamsham-com.cdn.ampproject.org/c/s/www.glamsham.com/world/technology/now-chat-with-big-bs-voice-on-amazon-alexa-for-rs-149-in-india/amp"
+    type: article
+    provider:
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 44
+    images:
+      - url: "https://www.glamsham.com/wp-content/uploads/2021/08/OpenGraph-Thumbnail.png"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Amazon Echo adds Amitabh Bachchan's voice"
     excerpt: "Puneesh Kumar, country leader for Alexa, Amazon India, said, \"At Amazon and Alexa, we consistently innovate on behalf of our customers and building the Amitabh Bachchan celebrity voice experience with one of India’s most iconic voices has been a labour of love."
     publishedDateTime: 2021-08-19T04:37:00Z
@@ -46,6 +78,6 @@ related:
         height: 630
         isCached: true
 
-secured: "rOwoKjzNkvA1UIhTMRCV7eOcVK3mV7p8JRPbDxs/YAUqM4EjDr3zJQdpDrHZT0Jqb6Zci1xbRHxCIOr4Dzupua5V8i+7Cg6PEwWnAEl6XrXYs36Aqa9VTZSNdEP2yt3V3zy15+C5wB5q0oGS9qRW7OlFpisECTlLarv3Hw9iJjjt5Mekkjw66SuB/rXRg/AoFycBpbQfnfrZG3E5/7xW+Qh2yBcuOkH6f3Cn1NVxo+tvjr7QbF2QASjvTpBJokJ8NcYH6f1T3hZK9X76K49rHcXP53+VulNu80l0DKG14t496C60zVJHyW9hZ8/lMfqbVpKL7qB307rTh8pd4SF7FJzV6wcNWPVrIjmEtToM0GI=;SYaao/jtlDTEWiyHdjrOFA=="
+secured: "9VpXsmUeJHTX4qLrTqN5vk40NTD9R5slXwLGDdu8Eo8Z5oPFCZat5Ndjzs2x+1utwDyzZuIhIwAlk7lOMPGHSTQWqHB8RiKIW04W9M9sCrg0dOSEnsASgTuGRMlB9XoNNZRrV7ul9Z3cUjCi/0c6KkM9nTOVH3UNKjevEnk7C9y/MeGW5lVcHlI3NUzOHltW04MLYiFgShw+R0gs8M3t9SIJ5eYIrLiL4kEuwej73N4+zvhy4NxMEYyYPFoMcRwrD6TluLk0x6kPXt8NTeYYhryyhfRYBpcgZzKq+7GzRjVDTcMzY92QaD9Cjwt8J4UaNPIjtpEKFgK6u9xJg5Y3xRwOXK8HHtiwdHkJ8ZrKwzpd4PF/RxmKCZ7JXCOBvLsMa8JRu1H1VaIBlgGe6e0IXgUjGPTB7sxh0pPI+ooKvFLtBv3lMzHk2OgiRDX9zS/4whpvOuac1zb73pjGCFomPw0zCnPkqxKtaIi01vaLidSY6XKl38tyzKxnwk3MYrM6NUqT3nTIzxhQDlxHF76D0Q==;QC1AOfax0RDUq6pSP4vNZg=="
 ---
 

@@ -32,22 +32,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Artificial Intelligence in Fintech Market COVID 19 Impacted In-Depth Analysis including key players Microsoft, Google, Salesforce"
-    excerpt: "Our report will be revised to address Pre/Post COVID-19 effects on the Artificial Intelligence in Fintech industry. Click to get Artificial Intelligence in Fintech Research Sample PDF Copy Here @: jcmarketresearch."
-    publishedDateTime: 2021-08-14T14:11:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-in-fintech-market-covid-19-impacted-in-depth-analysis-including-key-players-microsoft-google-salesforce/"
-    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-fintech-market-covid-19-impacted-in-depth-analysis-including-key-players-microsoft-google-salesforce/"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-fintech-market-covid-19-impacted-in-depth-analysis-including-key-players-microsoft-google-salesforce/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 45
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/Global-Telecom-Including-Key-Players-Market-Share-1.jpg"
-        width: 600
-        height: 400
-        isCached: true
 
 secured: "e4rncmoK/GpjwWhj4kj2Ii+b1sXsSyb3oldu3aiMx0R1nTr3sN2qOW4JXremEYvnNNl+955NdYv91H6prs4ZfMRcTzGDwHb3LVbJWs49Rb0wi/cbsrOKep9MXHbjqQvxI2c9GjVPEdLE5uCkVeij+u/r1X6Kkfp/XIBa2LqTgC/4TpiznaRsdFSnk1dp4ydQq6qF21GTRsTtFw+JM/SqZc0iAq6q1Hh2dU+0y05LF2346YnxCpXuoh61SApSLZ9O6R7sF480SMywJGJ5rDqOg1xJF6aPe4zCRDSA0CeM4h1Why5cBGi8S0gj5T+CObCZEAGu4RgSLXQkc/vXUWKOIsvcNcVWxOIDQ1y7uGfBwjU=;2XvWU2776jXhjk+ASul5jA=="
 ---

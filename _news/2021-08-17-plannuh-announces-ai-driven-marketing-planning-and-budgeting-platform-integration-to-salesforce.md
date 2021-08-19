@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/plannuh-announces-
 webUrl: "https://markets.businessinsider.com/news/stocks/plannuh-announces-ai-driven-marketing-planning-and-budgeting-platform-integration-to-salesforce-1030737894"
 type: article
 quality: 72
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Fintech Market COVID 19 Impacted In-Depth Analysis including key players Microsoft, Google, Salesforce"
-    excerpt: "Our report will be revised to address Pre/Post COVID-19 effects on the Artificial Intelligence in Fintech industry. Click to get Artificial Intelligence in Fintech Research Sample PDF Copy Here @: jcmarketresearch."
-    publishedDateTime: 2021-08-14T14:11:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-in-fintech-market-covid-19-impacted-in-depth-analysis-including-key-players-microsoft-google-salesforce/"
-    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-fintech-market-covid-19-impacted-in-depth-analysis-including-key-players-microsoft-google-salesforce/"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-fintech-market-covid-19-impacted-in-depth-analysis-including-key-players-microsoft-google-salesforce/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 45
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/Global-Telecom-Including-Key-Players-Market-Share-1.jpg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Imubit Announces $50 million in Total Funding to Expand its AI Process Optimization Platform"
     excerpt: "Imubit, the leader of artificial intelligence (AI) process optimization for refiners and chemical operators, has raised $50 million to bring its Closed-Loop Neural Networks to every process manufacturing plant around the globe."
     publishedDateTime: 2021-08-16T22:10:00Z

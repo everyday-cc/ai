@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Single MRI scan can classify brain tumours using deep learning model"
-excerpt: "Researchers have developed a deep learning model that is capable of classifying a brain tumour as one of six common types, using a single 3D MRI scan, during a new study. The study by researchers from the  University School of Medicine has been published in Radiology: Artificial Intelligence."
-publishedDateTime: 2021-08-14T17:45:00Z
-originalUrl: "https://news.webindia123.com/news/Articles/Science/20210814/3803259.html"
-webUrl: "https://news.webindia123.com/news/Articles/Science/20210814/3803259.html"
+excerpt: "Washington [US], August 14 (ANI): Researchers have developed a deep learning model that is capable of classifying a brain tumour as one of six common types, using a single 3D MRI scan, during a ..."
+publishedDateTime: 2021-08-14T22:17:00Z
+originalUrl: "https://www.aninews.in/news/science/single-mri-scan-can-classify-brain-tumours-using-deep-learning-model20210814221632/"
+webUrl: "https://www.aninews.in/news/science/single-mri-scan-can-classify-brain-tumours-using-deep-learning-model20210814221632/"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Asian News International
+  domain: aninews.in
 
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://aniportalimages.s3.amazonaws.com/media/details/dbsdnbfsndbfnsdbfnsf20210814155452.jpg"
+    width: 600
+    height: 450
+    isCached: true
 
 related:
   - title: "Single MRI scan can classify brain tumours using deep learning model"
@@ -36,6 +42,6 @@ related:
         height: 300
         isCached: true
 
-secured: "2lXpBhsVgnv01oQ19pRXQTBXrKZn6wa3K7A6USuRkMuo3BsAMx4tgnHcKPzeZdYkRvU3+0Z0TBdBlwhR+rhuvaJOYvi9gJKtacu7m31/9JEbzpGHGRIcSO4mLIBfrj0uu5/zx78u3IV8EDk0xsQeA1/xbXcJNbilrn3lTx0gsJ+Q839byDezwOVSpvWRqaj0J0QL9E40YgdEQHZrr0VPIpUBPNpwlGDm4qYx51myRkK7NsFLeTWAR67AgTwJSEVgTJfcbRNUJXo3ssEvt74f4SILMQdcHdl0itEpZBv0zm2yWZ06YqJkfPq4XEJ8wRtnKzo/25/8haqa2ArSSCX0D0dgswna4sqZVJpO8QUF3gA=;e1hX6BjkHG2jdasRdTMmKw=="
+secured: "9V/TVkU5R0vYSSY5b2Tx4lzwZJp40Ih73mh2zDt74eFvKKt9kAGOwc0s/punZyLIHCCm5ldqlkw5wDMGWXY3l+aXKUI+GhicnfKYF8PJuMLoBIVyOqc5l28kaxVZAiDFBLRDL23XasxL1CJ1xknRMYg0z5QC1FBjyHizuoxliR7/VySzHpIO96iZJH0qUQe6as9KK3CQU+MBWINZy2N1xSNfOqFZYVXM/AkrwCupLDdYeKS3AU8qW9/ucOUcULh6GupuQa0TMByq/JUcvs6QmOC61lh4aQZ3MccZpbw7kRM3/WqHVzrbTb31QE0m098waU0ArhUfAA/cCO+KyVdQuKvrwG0AjoKnutmYAbGH9sE=;5sga7A1nWtV8SAY0LYji9g=="
 ---
 

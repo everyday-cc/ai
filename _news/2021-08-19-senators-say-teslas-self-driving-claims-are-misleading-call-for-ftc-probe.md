@@ -105,6 +105,20 @@ related:
         width: 728
         height: 300
         isCached: true
+  - title: "Tesla: American senators pressing FTC to investigate EV carmaker over alleged misleading self-driving claims"
+    excerpt: "Tesla should be investigated by the U.S. Federal Trade Commission now. At least two senators said on Wednesday, Aug. 18, that Elon Musks company may have misled buyers with the companys automated driving"
+    publishedDateTime: 2021-08-19T06:36:00Z
+    webUrl: "https://www.econotimes.com/Tesla-American-senators-pressing-FTC-to-investigate-EV-carmaker-over-alleged-misleading-self-driving-claims-1615381"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 35
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/20210819d898dbc0e5536ceb0_th_1024x0.jpeg"
+        width: 640
+        height: 420
+        isCached: true
   - title: "Two Senators Accuse Tesla Of Misleading Customers With Self-Driving Features, Request FTC Probe"
     excerpt: "Senators Richard Blumenthal and Edward J. Markey have sent a letter to the Chair of the Federal Trade Commission, Lina Khan, asking the organization to investigate Tesla for what they allege are deceptive business practices."
     publishedDateTime: 2021-08-18T21:29:00Z
@@ -126,6 +140,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "XAKcHaqP/9horIwZibc0kq/YtTN9QORHfovVJB5a5PGNclkwvuVKmQxW2fM94IaY1qJ4OHyUkjCSjBY4gQXNOg4TtN9dZru9grUneinZGSXZcy2XCGqIqwOQ41xFDfzTLlbLSdHItZyMYJPsTKdrSqzTwo6IAfdVtaEu633SwqUFj8Di/uj4EuGp+mUjkRj2InsgYM8QnNQjb8dAhMJMGeqDRHBKuY3ExPpqrHZcC8QUmN6t9mJAY/REN6h2u78XnUEhBcaTlAhGod8gzSOHrazC2VL8oAvBtLDnoRJ9xm6fdUF9gc5a3HKD2vwxm2cdk/UoOCgHqCMfqXKSCaAUmTz9VCylmoYTUknBRkTlT+Y=;m9Gv+8h+Enz0ZGxTPeAv+A=="
+secured: "wH4msRtiC1f0Ws3Q2S+73f5abL4dUy95lZl7uFpEQDnURL6MldVSuUtzUXrWY2vHyuAiJU8REc7UXbsJzdYShlQG4lM7AtXX8m4yB6B4H9PhnUUTHmYOckOGhiVh7QM3n3tJvOlhYpyyagIFDbGe/OQ/lrwzsLSn557d9yGIdnsL9MX38X0kB/EvAH2i46KQzZMZj8jB+u4XzoZwOs8+iO1Gh+GpHe46SmTETzcB/WEl25sMRilwr1awp8QEy1MEMZsITW1Fp9IOIO46pL/VlaHV+cUd1fUnuusfCQSAEyLaVjUIYtoIPKqNjYxVmPwRwfxr91J+ZOO54v0FvVL5m9rH06UAUDthCpxhGV8Xgg/KEnXnILM/IgghxdSA8eX6/OfUV8CGplGYdhjqgus6R6sg0UJxdiv6jPSaPg8FVhhFKSph9rxYOEIfE3YP852SbPkcQhFkxR6hyS4ID3D7WcQoNLTgTFeMuTk7s5HMjj0+M1OrLulDocfBTUh5wKQTbuCeabQ1nz9h68WuLbBCAQ==;RemjnU/kxc0T+t7+s513XQ=="
 ---
 

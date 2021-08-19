@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-07-19-scientists-adopt-deep-learning-for-multi-object-tracking.md",
+      "title": "Scientists adopt deep learning for multi-object tracking",
+      "excerpt": "Computer vision has progressed much over the past decade and made its way into all sorts of relevant applications, both in academia and in our daily lives. There are, however, some tasks in this field that are still extremely difficult for computers to perform with acceptable accuracy and speed.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-07-scientists-deep-multi-object-tracking.html",
+      "originalUrl": "https://techxplore.com/news/2021-07-scientists-deep-multi-object-tracking.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/scientists-adopt-deep.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-07-scientists-deep-multi-object-tracking.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-scientists-deep-multi-object-tracking.amp",
+      "publishedDateTime": "2021-07-19T08:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-19-go1-raises-200m-at-a-1b-valuation-to-boost-its-curated-enterprise-learning-platform.md",
       "title": "Go1 raises $200M at a $1B+ valuation to boost its curated enterprise learning platform",
       "excerpt": "Online learning continues to see a huge boost of attention and use in the wake of the Covid-19 pandemic, and today a startup building tools specifically for enterprises to deliver on their internal education remits is announcing a big round of funding that points to the startup’s own growth",
@@ -1426,49 +1469,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-5-ways-deep-learning-ai-can-be-used-for-better-medical-decisions.md",
-      "title": "5 ways Deep Learning AI can be used for better medical decisions",
-      "excerpt": "Applications of Deep Learning AI are accumulating a lot of hope and interest as an important non-medical intervention for transforming patient care and supporting clinicians. Applications of Deep Learning AI are accumulating a lot of hope and interest as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/5-ways-deep-learning-ai-can-used-better-medical-decisions/",
-      "originalUrl": "https://www.dqindia.com/5-ways-deep-learning-ai-can-used-better-medical-decisions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2021/07/Deep-Learning.jpg",
-          "width": 850,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/5-ways-deep-learning-ai-can-used-better-medical-decisions/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/5-ways-deep-learning-ai-can-used-better-medical-decisions/amp/",
-      "publishedDateTime": "2021-07-12T10:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

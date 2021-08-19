@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/tomgroenfeldt/2021/08/17/accerns-no-c
 webUrl: "https://www.forbes.com/sites/tomgroenfeldt/2021/08/17/accerns-no-code-ai-platform-can-speed-analytics-in-financial-services/"
 type: article
 quality: 69
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -70,6 +70,20 @@ related:
       - url: "https://gisuser.com/wp-content/uploads/2019/01/GEOjobs1-1.png"
         width: 300
         height: 250
+        isCached: true
+  - title: "Airbus’ UP42 partners with Indian startup HyperVerge for AI-based satellite imagery analytics"
+    excerpt: "BERLIN, Germany, August 18, 2021 – UP42, a geospatial developer platform and marketplace wholly owned by Airbus, has partnered with Indian startup HyperVerge Inc. to offer satellite imagery services using Artificial Intelligence (AI)-based change ..."
+    publishedDateTime: 2021-08-19T06:25:00Z
+    webUrl: "https://www.mynewsdesk.com/up42/pressreleases/airbus-up42-partners-with-indian-startup-hyperverge-for-ai-based-satellite-imagery-analytics-3121264"
+    type: article
+    provider:
+      name: mynewsdesk.com
+      domain: mynewsdesk.com
+    quality: 26
+    images:
+      - url: "https://resources.mynewsdesk.com/image/upload/c_fill,h_628,q_auto:good,w_1200/fl5lrkgo0tpf7ws3pmhz.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "University of Maryland, Baltimore (UMB) Grants Pumas-AI Exclusive License of Analytics Platform to Enhance Drug Development"
     excerpt: "AI, a University of Maryland, Baltimore (UMB) startup company, has been granted worldwide, exclusive rights to enhancements to Pumas, an end-to-end pharmaceutical modeling and simulation platform for quantitative analysis across the drug development lifecycle."

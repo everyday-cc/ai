@@ -105,6 +105,20 @@ related:
         width: 728
         height: 300
         isCached: true
+  - title: "Tesla: American senators pressing FTC to investigate EV carmaker over alleged misleading self-driving claims"
+    excerpt: "Tesla should be investigated by the U.S. Federal Trade Commission now. At least two senators said on Wednesday, Aug. 18, that Elon Musks company may have misled buyers with the companys automated driving"
+    publishedDateTime: 2021-08-19T06:36:00Z
+    webUrl: "https://www.econotimes.com/Tesla-American-senators-pressing-FTC-to-investigate-EV-carmaker-over-alleged-misleading-self-driving-claims-1615381"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 35
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/20210819d898dbc0e5536ceb0_th_1024x0.jpeg"
+        width: 640
+        height: 420
+        isCached: true
   - title: "Two Senators Accuse Tesla Of Misleading Customers With Self-Driving Features, Request FTC Probe"
     excerpt: "Senators Richard Blumenthal and Edward J. Markey have sent a letter to the Chair of the Federal Trade Commission, Lina Khan, asking the organization to investigate Tesla for what they allege are deceptive business practices."
     publishedDateTime: 2021-08-18T21:29:00Z

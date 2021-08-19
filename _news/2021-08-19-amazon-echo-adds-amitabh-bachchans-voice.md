@@ -41,6 +41,38 @@ related:
         width: 1024
         height: 702
         isCached: true
+  - title: "Chat with Big B's voice on Amazon Alexa for Rs 149"
+    excerpt: "Amazon on Thursday said it has made India's first celebrity voice feature on Alexa available with the legendary Amitabh Bachchan, and the users in India can add his amazing voice to their"
+    publishedDateTime: 2021-08-19T07:20:00Z
+    webUrl: "https://www.thehansindia.com/technology/tech-news/chat-with-big-bs-voice-on-amazon-alexa-for-rs-149-702383"
+    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/chat-with-big-bs-voice-on-amazon-alexa-for-rs-149-702383"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/chat-with-big-bs-voice-on-amazon-alexa-for-rs-149-702383"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 44
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2021/08/19/1102936-alexa.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Now chat with Big B's voice on Amazon Alexa for Rs 149 in India"
+    excerpt: "Amazon on Thursday said it has made India's first celebrity voice feature on Alexa available with the legendary Amitabh Bachchan, and"
+    publishedDateTime: 2021-08-19T07:06:00Z
+    webUrl: "https://www.glamsham.com/world/technology/now-chat-with-big-bs-voice-on-amazon-alexa-for-rs-149-in-india"
+    ampWebUrl: "https://www.glamsham.com/world/technology/now-chat-with-big-bs-voice-on-amazon-alexa-for-rs-149-in-india/amp"
+    cdnAmpWebUrl: "https://www-glamsham-com.cdn.ampproject.org/c/s/www.glamsham.com/world/technology/now-chat-with-big-bs-voice-on-amazon-alexa-for-rs-149-in-india/amp"
+    type: article
+    provider:
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 44
+    images:
+      - url: "https://www.glamsham.com/wp-content/uploads/2021/08/OpenGraph-Thumbnail.png"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "N4x1ZHwelTY/Y86k5gcyUb7Rnv3zWyVUYsKowdymWP/VmfynesyHezkYhF12VXyOUwB9h4TdBOezHl2OBHfDJwqNOsEDGhM7dzPNL5LhC6TN6W3l+dANQyEA8jiTGhyWajQjxBexeVy/zf/B8Sk2hjylIy0YO8d58f7wW0UWvrUQ9+SGxGjdEJ2SoqQol6KBNCZP6tDl8BaEVzXrAjRPE6i1JT+VzWrnZLEDtM2YYRTfOGBYF0Jk4MjtNoyX+5jac/i+ZKFx8qfmnxKvRXGd5Oz3VY2wrc1seb1U0Zq//zk5Cycd9YYjz/mKw/oYtUqEaU7M8dVTOHTW51ESlhCj6QqIguz0eOfuOsUHxgIBUqY=;9mK277BRV3kNryvhMomErg=="
 ---

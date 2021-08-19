@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-08-17/waymo-s-self-dr
 webUrl: "https://www.bloomberg.com/news/articles/2021-08-17/waymo-s-self-driving-cars-are-99-of-the-way-there-the-last-1-is-the-hardest"
 type: article
 quality: 68
-heat: 78
-published: true
+heat: -1
+published: false
 
 provider:
   name: Bloomberg
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Waymo begins work on dedicated Texas hub for self-driving trucks"
+    excerpt: "Alphabet-owned Waymo is looking to gain a strong foothold in the nascent autonomous freight industry, today announcing plans to build a dedicated hub for its self-driving trucks in the state of Texas."
+    publishedDateTime: 2021-08-19T06:51:00Z
+    webUrl: "https://newatlas.com/automotive/waymo-dedicated-texas-hub-self-driving-trucks/"
+    ampWebUrl: "https://newatlas.com/automotive/waymo-dedicated-texas-hub-self-driving-trucks/?amp=true"
+    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/waymo-dedicated-texas-hub-self-driving-trucks/?amp=true"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 89
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/6981b2a/2147483647/strip/true/crop/1620x1080+150+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F54%2Fb3%2Faf7f948749be8c11427aabf027e8%2Fryder-waymo.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Waymo building Dallas-Fort Worth hub for hundreds of self-driving trucks"
     excerpt: "Waymo, the Mountain View-based autonomous truck spinoff of Alphabet Inc., said on Wednesday that it is working on a dedicated trucking hub that covers nine acres in Lancaster, Texas. The site will be able to accommodate hundreds of vehicles and hundreds of personnel,"
     publishedDateTime: 2021-08-18T21:57:00Z

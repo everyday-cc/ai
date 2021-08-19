@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcmag.com/news/dem-senators-ask-ftc-to-probe-tesla-over-
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/dem-senators-ask-ftc-to-probe-tesla-over-misleading-self-driving-claims?amp=true"
 type: article
 quality: 103
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -108,6 +108,20 @@ related:
       - url: "https://s1.cdn.autoevolution.com/images/news/us-senators-urge-ftc-to-investigate-tesla-about-self-driving-claims-167555-7.jpg"
         width: 728
         height: 300
+        isCached: true
+  - title: "Tesla: American senators pressing FTC to investigate EV carmaker over alleged misleading self-driving claims"
+    excerpt: "Tesla should be investigated by the U.S. Federal Trade Commission now. At least two senators said on Wednesday, Aug. 18, that Elon Musks company may have misled buyers with the companys automated driving"
+    publishedDateTime: 2021-08-19T06:36:00Z
+    webUrl: "https://www.econotimes.com/Tesla-American-senators-pressing-FTC-to-investigate-EV-carmaker-over-alleged-misleading-self-driving-claims-1615381"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 35
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/20210819d898dbc0e5536ceb0_th_1024x0.jpeg"
+        width: 640
+        height: 420
         isCached: true
   - title: "Two Senators Accuse Tesla Of Misleading Customers With Self-Driving Features, Request FTC Probe"
     excerpt: "Senators Richard Blumenthal and Edward J. Markey have sent a letter to the Chair of the Federal Trade Commission, Lina Khan, asking the organization to investigate Tesla for what they allege are deceptive business practices."

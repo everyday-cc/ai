@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-ma
 webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-share-growth-strategies-geographical-analysis-and-forecast-by-2027-2021-08-18"
 type: article
 quality: 71
-heat: 171
+heat: 161
 published: true
 
 provider:
@@ -58,22 +58,6 @@ related:
       - url: "https://cdn.openpr.com/U/8/U817239313_g.jpg"
         width: 780
         height: 470
-        isCached: true
-  - title: "Machine Learning as a Service Market Size & Growth Analysis Report, 2021-2027"
-    excerpt: "The Global MLaaS Market is anticipated to grow at a considerable CAGR of around 40 5 during the forecast period 2021 2027 The key factor to drive the market growth is the increasing cloud based technologies among the industries due"
-    publishedDateTime: 2021-08-14T13:26:00Z
-    webUrl: "https://www.openpr.com/news/2355468/machine-learning-as-a-service-market-size-growth-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2355468/machine-learning-as-a-service-market-size-growth-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2355468/machine-learning-as-a-service-market-size-growth-analysis"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 56
-    images:
-      - url: "https://cdn.openpr.com/U/8/U814236969_g.jpg"
-        width: 800
-        height: 385
         isCached: true
   - title: "Artificial Intelligence in Energy Market Recent Trends, Future Growth, Industry Analysis, Outlook, Insights, Share and Forecasts Report 2028"
     excerpt: "The global Artificial Intelligence in energy market is expected to reach a market size of USD 20.83 Billion at a steady CAGR of 23.6% in 2028, according to latest analysis by Emergen Research. This steady revenue growth can be attributed to increasing need to obtain operational efficiency to meet energy requirements."
