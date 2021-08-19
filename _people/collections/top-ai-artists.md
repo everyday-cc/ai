@@ -2,7 +2,7 @@
 name: "Top AI Artists"
 bio: "Top artists exploring the impact of AI on art, culture and society."
 type: "collection"
-heat: 59
+heat: 109
 
 query: item.tags contains 'Artist'
 
