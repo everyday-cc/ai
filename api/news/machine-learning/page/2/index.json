@@ -2,6 +2,154 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-11-oracle-tweaks-mysql-and-boosts-storage-engine.md",
+      "title": "Oracle tweaks MySQL and boosts storage engine",
+      "excerpt": "Oracle has announced a free upgrade to its MySQL HeatWave service which it says promises to make life easier for clients, while at the same time improving performance and stability. The upgrade comes in the form of MySQL Autopilot,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/oracle-tweaks-mysql-and-boosts-storage-engine",
+      "originalUrl": "https://www.techradar.com/news/oracle-tweaks-mysql-and-boosts-storage-engine",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/UhpgU7eT2dhfTc52jvyvM-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/oracle-tweaks-mysql-and-boosts-storage-engine",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/oracle-tweaks-mysql-and-boosts-storage-engine",
+      "publishedDateTime": "2021-08-11T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-openai-can-translate-english-into-code-with-its-new-machine-learning-software-codex.md",
+      "title": "OpenAI can translate English into code with its new machine learning software Codex",
+      "excerpt": "AI research company OpenAI is releasing ... to build simple websites and rudimentary games using natural language, as well as translate between different programming languages and tackle data ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/8/10/22618128/openai-codex-natural-language-into-code-api-beta-access",
+      "originalUrl": "https://www.theverge.com/2021/8/10/22618128/openai-codex-natural-language-into-code-api-beta-access",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/O4KwUbyNYY8vEUK3ThvDskcE3RI=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69705204/acastro_181017_1777_brain_ai_0001.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/8/10/22618128/openai-codex-natural-language-into-code-api-beta-access",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/8/10/22618128/openai-codex-natural-language-into-code-api-beta-access",
+      "publishedDateTime": "2021-08-11T03:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-artificial-neural-networks-modeled-on-brains.md",
+      "title": "Artificial Neural Networks Modeled On Brains",
+      "excerpt": "Researchers modeled artificial neural networks based on human brains for performing cognitive tasks efficiently.",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicsforu.com/technology-trends/research-papers/artificial-neural-networks-modeled-on-brains",
+      "originalUrl": "https://www.electronicsforu.com/technology-trends/research-papers/artificial-neural-networks-modeled-on-brains",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.electronicsforu.com/wp-contents/uploads/2021/08/neuro.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.electronicsforu.com/technology-trends/research-papers/artificial-neural-networks-modeled-on-brains/amp",
+      "cdnAmpWebUrl": "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/technology-trends/research-papers/artificial-neural-networks-modeled-on-brains/amp",
+      "publishedDateTime": "2021-08-11T03:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronics For You",
+        "domain": "electronicsforu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-11-artificial-intelligence-ai-chipsets-market-booming-segments-investors-seeking-stunning-growth-market-size-forecast-2028.md",
       "title": "Artificial Intelligence (AI) Chipsets Market Booming Segments; Investors Seeking Stunning Growth, Market Size, Forecast 2028",
       "excerpt": "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting",
@@ -245,8 +393,8 @@
       "title": "Synthesis AI’s Head of Artificial Intelligence Publishes The First Book on Synthetic Data for Deep Learning",
       "excerpt": "Synthesis AI, a pioneer in synthetic data technologies, today announced Springer has published the book Synthetic Data for Deep Learning written by Head of Artificial Intelligence (AI), Sergey Nikolenko.",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-business-science-artificial-intelligence-e1c1d1eb52b120419782075b530cf0c9",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-business-science-artificial-intelligence-e1c1d1eb52b120419782075b530cf0c9",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-science-artificial-intelligence-e1c1d1eb52b120419782075b530cf0c9",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-science-artificial-intelligence-e1c1d1eb52b120419782075b530cf0c9",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -265,7 +413,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-10T06:03:00-07:00",
+      "publishedDateTime": "2021-08-10T06:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Associated Press",
@@ -1207,164 +1355,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-aiml-innovations-inc-to-webcast-live-at-virtualinvestorconferencescom-august-5th.md",
-      "title": "AI/ML Innovations Inc. to Webcast Live at VirtualInvestorConferences.com August 5th",
-      "excerpt": "AI/ML Innovations Inc. (CSE: AIML) (OTCQB: AIMLF) (\"AIML\" or the \"Company\"), a company committed to acquiring and advancing Artificial Intelligence/Machine Learning technologies that address urgent societal needs,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-ml-innovations-inc-to-webcast-live-at-virtualinvestorconferences-com-august-5th-1030686183",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-ml-innovations-inc-to-webcast-live-at-virtualinvestorconferences-com-august-5th-1030686183",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1394979/Virtual_Investor_Conference_Logo.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-03T17:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-is-deepminds-new-reinforcement-learning-system-a-step-toward-general-ai.md",
-      "title": "Is DeepMind’s new reinforcement learning system a step toward general AI?",
-      "excerpt": "The paper's findings show some impressive advances in applying reinforcement learning to complicated problems.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/03/is-deepminds-new-reinforcement-learning-system-a-step-toward-general-ai/",
-      "originalUrl": "https://venturebeat.com/2021/08/03/is-deepminds-new-reinforcement-learning-system-a-step-toward-general-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/DeepMind-reinforcement-learning-AI-XLand.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/03/is-deepminds-new-reinforcement-learning-system-a-step-toward-general-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/03/is-deepminds-new-reinforcement-learning-system-a-step-toward-general-ai/amp/",
-      "publishedDateTime": "2021-08-03T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-machine-learning-as-a-service-mlaas-market-assessment-opportunity-forecast.md",
-      "title": "Machine Learning as a Service (MLaaS) Market Assessment & Opportunity Forecast",
-      "excerpt": "Market With Top Countries Data, Industry Analysis , Size, Share, Revenue, Prominent Players, Developing Technologies, Tendencies and Forecast The Machine Learning-as-a-service (MLaaS) Market was valued at USD 1.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-assessment-opportunity-forecast-2021-08-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-assessment-opportunity-forecast-2021-08-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-03T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI",
         "Machine Learning"
       ]

@@ -2,6 +2,135 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-06-28-iit-madras-offers-free-online-course-on-introduction-to-machine-learning-for-students.md",
+      "title": "IIT Madras Offers Free Online Course on Introduction to Machine Learning for Students",
+      "excerpt": "IIT Madras is offering a free online course on Introduction to Machine Learning for students pursuing their under graduation and post graduation",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/iit-madras-offers-free-online-course-introduction-machine-learning-students/",
+      "originalUrl": "https://www.dqindia.com/iit-madras-offers-free-online-course-introduction-machine-learning-students/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2021/02/Books-on-machine-learning.jpg",
+          "width": 850,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/iit-madras-offers-free-online-course-introduction-machine-learning-students/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-madras-offers-free-online-course-introduction-machine-learning-students/amp/",
+      "publishedDateTime": "2021-06-28T01:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-28-artificial-intelligence-at-the-service-of-the-company.md",
+      "title": "Artificial intelligence at the service of the company",
+      "excerpt": "Two of the companies created in The Collider, the innovation programme of the Mobile World Capital of Barcelona, stand out for applying artificial intelligence in",
+      "sourceUrl": null,
+      "webUrl": "https://www.lavanguardia.com/economia/20210628/7551935/artificial-intelligence-at-the-service-of-the-company.html",
+      "originalUrl": "https://www.lavanguardia.com/economia/20210628/7551935/artificial-intelligence-at-the-service-of-the-company.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lavanguardia.com/files/image_948_465/uploads/2021/06/22/60d19a84d34b0.jpeg",
+          "width": 948,
+          "height": 465,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.lavanguardia.com/economia/20210628/7551935/artificial-intelligence-at-the-service-of-the-company.amp.html",
+      "cdnAmpWebUrl": "https://www-lavanguardia-com.cdn.ampproject.org/c/s/www.lavanguardia.com/economia/20210628/7551935/artificial-intelligence-at-the-service-of-the-company.amp.html",
+      "publishedDateTime": "2021-06-27T19:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "La Vanguardia",
+        "domain": "lavanguardia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-27-machine-learning-identifies-new-brain-network-signature-of-major-depression.md",
+      "title": "Machine learning identifies new brain network signature of major depression",
+      "excerpt": "Machine learning is a method of data analysis that automates analytical model building. It is a branch of artificial intelligence based on the idea that",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedailystar.net/health/news/machine-learning-identifies-new-brain-network-signature-major-depression-2118733",
+      "originalUrl": "https://www.thedailystar.net/health/news/machine-learning-identifies-new-brain-network-signature-major-depression-2118733",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/social_share/public/feature/images/2021/06/26/brain-network-signature.jpg?itok=FT-QWUJF",
+          "width": 560,
+          "height": 292,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thedailystar.net/health/news/machine-learning-identifies-new-brain-network-signature-major-depression-2118733?amp",
+      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/health/news/machine-learning-identifies-new-brain-network-signature-major-depression-2118733?amp",
+      "publishedDateTime": "2021-06-26T12:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Star",
+        "domain": "thedailystar.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-26-deep-neural-networks-market-top-manufacturers-size-business-scenario-share-growth-insights-industry-analysis-trends-and-forecasts-report.md",
       "title": "Deep Neural Networks Market Top Manufacturers, Size, Business Scenario, Share, Growth, Insights, Industry Analysis, Trends and Forecasts Report 2027",
       "excerpt": "The market intelligence report further offers hard to find data derived from attractiveness analysis that narrates a lot about the products, regions and applications expected to generate more revenue.",
@@ -1254,136 +1383,6 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-max-kelsen-revs-up-ml-system-for-car-share-platform.md",
-      "title": "Max Kelsen revs up ML system for car share platform",
-      "excerpt": "Australian car share platform Car Next Door has tapped Max Kelsen to deploy a machine learning system geared at reducing inappropriate car borrower behaviour.",
-      "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/article/689240/max-kelsen-revs-up-ml-system-car-share-platform/",
-      "originalUrl": "https://www.arnnet.com.au/article/689240/max-kelsen-revs-up-ml-system-car-share-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/nicktherkelsen-terry.jpg",
-          "width": 800,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-21T23:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-new-machine-learning-methods-could-improve-environmental-predictions.md",
-      "title": "New machine learning methods could improve environmental predictions",
-      "excerpt": "Algorithm is 'taught' rules of the physical world to help researchers make better predictions Machine learning algorithms do a lot for us every day--send unwanted email to our spam folder, warn us if our car is about to back into something,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2021-06/uom-nml062221.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-06/uom-nml062221.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/268665_web.jpg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-21T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-microscopy-deep-learning-predicts-viral-infections.md",
-      "title": "Microscopy deep learning predicts viral infections",
-      "excerpt": "When viruses infect cells, changes in the cell nucleus occur, and these can be observed through fluorescence microscopy. Using fluorescence images from live cells, researchers have trained an artificial neural network to reliably recognize cells that are infected by adenoviruses or herpes viruses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/06/210621123733.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/06/210621123733.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-21T15:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

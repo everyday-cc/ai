@@ -2,96 +2,25 @@
 category: news
 title: "Deep learning model classifies brain tumors with single MRI scan"
 excerpt: "A team of researchers at Washington University School of Medicine have developed a deep learning model that is capable of classifying a brain tumor as one of six common types using a single 3D MRI scan,"
-publishedDateTime: 2021-08-11T14:20:00Z
-originalUrl: "https://medicalxpress.com/news/2021-08-deep-brain-tumors-mri-scan.html"
-webUrl: "https://medicalxpress.com/news/2021-08-deep-brain-tumors-mri-scan.html"
-ampWebUrl: "https://medicalxpress.com/news/2021-08-deep-brain-tumors-mri-scan.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-08-deep-brain-tumors-mri-scan.amp"
+publishedDateTime: 2021-08-11T14:01:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/924825"
+webUrl: "https://www.eurekalert.org/news-releases/924825"
 type: article
-quality: 74
-heat: -1
-published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/deep-learning-model-cl.jpg"
-    width: 1721
-    height: 1881
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/fe06826f-37f6-4b29-a4c8-078a2fdd00f5/Rendition/thumbnail/Content/Public"
+    width: 274
+    height: 300
     isCached: true
 
-related:
-  - title: "Artificial Intelligence Classifies Brain Tumors With Single MRI Scan"
-    excerpt: "A team of researchers at Washington University School of Medicine have developed a deep learning model that is capable of classifying a brain tumor as one of six common types using a single 3D MRI scan,"
-    publishedDateTime: 2021-08-11T14:00:00Z
-    webUrl: "https://scitechdaily.com/artificial-intelligence-classifies-brain-tumors-with-single-mri-scan/"
-    ampWebUrl: "https://scitechdaily.com/artificial-intelligence-classifies-brain-tumors-with-single-mri-scan/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-classifies-brain-tumors-with-single-mri-scan/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 74
-    images:
-      - url: "https://scitechdaily.com/images/Deep-Learning-Model-Classifies-Brain-Tumors-Single-MRI-Scan-777x849.jpg"
-        width: 777
-        height: 849
-        isCached: true
-  - title: "Deep learning model classifies brain tumors with single MRI scan"
-    excerpt: "A team of researchers have developed a deep learning model that is capable of classifying a brain tumor as one of six common types using a single 3D MRI scan, according to a new study."
-    publishedDateTime: 2021-08-12T13:29:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/08/210811100807.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 64
-  - title: "Deep learning model can classify intracranial tumors using a single 3D MRI scan"
-    excerpt: "A team of researchers at Washington University School of Medicine have developed a deep learning model that is capable of classifying a brain tumor as one of six common types using a single 3D MRI scan,"
-    publishedDateTime: 2021-08-11T23:18:00Z
-    webUrl: "https://www.news-medical.net/news/20210811/Deep-learning-model-can-classify-intracranial-tumors-using-a-single-3D-MRI-scan.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210811/Deep-learning-model-can-classify-intracranial-tumors-using-a-single-3D-MRI-scan.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210811/Deep-learning-model-can-classify-intracranial-tumors-using-a-single-3D-MRI-scan.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 55
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Artificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
-  - title: "Deep learning classifies brain tumors on single MRI scans"
-    excerpt: "A deep-learning model was able to classify brain tumors as one of six common types on a single 3D MRI scan, according to a study published August 11 in Radiology: Artificial Intelligence."
-    publishedDateTime: 2021-08-11T14:32:00Z
-    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemID=133201"
-    type: article
-    provider:
-      name: AuntMinnie
-      domain: auntminnie.com
-    quality: 54
-    images:
-      - url: "https://www.auntminnie.com/user/images/content_images/pho_redir/2021_08_10_21_28_8592_2021_08_11_RSNA_MRI_deep_learning_social.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Single MRI scan can classify brain tumours using deep learning model"
-    excerpt: "Researchers have developed a deep learning model that is capable of classifying a brain tumour as one of six common types, using a single 3D MRI scan, during a new study. The study by researchers from the  University School of Medicine has been published in Radiology: Artificial Intelligence."
-    publishedDateTime: 2021-08-14T17:45:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20210814/3803259.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 34
-
-secured: "FOLkSeNSePdh9Q21uO8VAccPbQmlI02tZqlJ/z9Gb/Thn9JGSy4yuHL2JIBMM2/DORtXS3Y+stsWPefNdRW2rfr0VJXK3H2+2KiaiGhl4djk4wMWAEiZe7uY1vJLb6afifXf7HJt1g74L+QwgodliVK5vNjSZ9AJ0xHvq9Q85orImL4/8K46JgQ3iL4J+37qCrwuFC1u24bdWofUpFvrd8Oh43A4HYTI8dNiLgJtTo32NwExjznv8FkrT4kJ1Eb8il+KWjA4J1lqBID4/DfznvRTYGgZM1+zZYoT2vWgsaGNzXoVGRirPtKgs3TGWDYPYWQ20e9kMuhZXHRt89I4kLThO1dMpMG7YQpYV3WEXgA=;7YvRG8sEiLZbNV+4f946iQ=="
+secured: "I7x/Xl+YbAWKDujm9xWBfFrXsHBtDate8NV/V2TleIYCEE9wzRTw6ZpN++tsFRgnZ9MJlB+U/m6HERDV3hc46BEXOl/ruaH5aIf2TdZkOiY4u/SUsbPUjNw0xMTPYUlRPm/ua5/fa+3mIB+bRy8Jy5KFzCfAyqMGBlVqWTxxtaCg/61tEY1cu7Ti49KVV9Poyk4fGW/3ziM3C+Kdd3ISGHvySClKqE63n72FvA/IrlFELhmBnswIhqAEy5ZdbEjTsJ6t79nOZqHi+L9jr1KRTjIawxKRyW+mG9SAJFBlxAHQrzmfqd4I9PCn5AsKMWIvSng1o5JO4/EpoVRGYpIQ4z9157IkeLmG6LS9XMF3z1M=;xQ4/oTpyadg6CYssoUWW2Q=="
 ---
 

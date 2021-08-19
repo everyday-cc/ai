@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-28-osmos-emerges-from-stealth-to-unify-enterprise-data.md",
+      "title": "Osmos emerges from stealth to unify enterprise data",
+      "excerpt": "Osmos, a startup developing a platform for enterprise data transformation, has emerged from stealth with $13 million in funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/28/osmos-emerges-from-stealth-to-unify-enterprise-data/",
+      "originalUrl": "https://venturebeat.com/2021/07/28/osmos-emerges-from-stealth-to-unify-enterprise-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/06/pinpoint-big-data.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 803,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/28/osmos-emerges-from-stealth-to-unify-enterprise-data/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/28/osmos-emerges-from-stealth-to-unify-enterprise-data/amp/",
+      "publishedDateTime": "2021-07-28T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-28-design-for-responsible-ai-with-microsofts-hax.md",
       "title": "Design for responsible AI with Microsoft’s HAX",
       "excerpt": "At the heart of HAX is a set of guidelines built from 18 best practices that you can use to guide interactions between users and your systems. They’re presente",
@@ -1242,58 +1294,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-new-toolkit-aims-to-help-teams-create-responsible-human-ai-experiences.md",
-      "title": "New toolkit aims to help teams create responsible human-AI experiences",
-      "excerpt": "The post New toolkit aims to help teams create responsible human-AI experiences appeared first on The AI Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://blogs.microsoft.com/ai-for-business/hax-toolkit/",
-      "originalUrl": "https://blogs.microsoft.com/ai-for-business/hax-toolkit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/171/2021/07/HAX_MSC21_PICHA_remoteWorkplace_82783-1-1024x683.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-19T09:11:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

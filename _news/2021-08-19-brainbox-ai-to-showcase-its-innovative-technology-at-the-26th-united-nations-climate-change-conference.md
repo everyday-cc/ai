@@ -3,12 +3,12 @@ category: news
 title: "BrainBox AI to Showcase Its Innovative Technology at the 26th United Nations Climate Change Conference"
 excerpt: "The only Canadian company, and one of ten globally, chosen for prestigious Tech For Our Planet program at COP26, designed to spark environmental"
 publishedDateTime: 2021-08-19T10:32:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/brainbox-ai-to-showcase-its-innovative-technology-at-the-26th-united-nations-climate-change-conference-1030745145"
-webUrl: "https://markets.businessinsider.com/news/stocks/brainbox-ai-to-showcase-its-innovative-technology-at-the-26th-united-nations-climate-change-conference-1030745145"
+originalUrl: "https://markets.businessinsider.com/news/stocks/brainbox-ai-to-showcase-its-innovative-technology-at-the-26th-united-nations-climate-change-conference-1030745058"
+webUrl: "https://markets.businessinsider.com/news/stocks/brainbox-ai-to-showcase-its-innovative-technology-at-the-26th-united-nations-climate-change-conference-1030745058"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: Business Insider
@@ -37,7 +37,16 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "BrainBox AI Only Canadian Company Chosen for Innovation Showcase at 26th United Nations Climate Change Conference"
+    excerpt: "Montreal-based start-up one of ten companies to present at COP26's Tech For Our Planet program, to encourage environmental change and help the"
+    publishedDateTime: 2021-08-19T10:32:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/brainbox-ai-only-canadian-company-chosen-for-innovation-showcase-at-26th-united-nations-climate-change-conference-1030745060"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 26
 
-secured: "9KXLfbFO6yPZCBJIBvGjz3j+CwlJraWsHZ0wK5kcJdsmF25o87SWeDx/KMAz17hbWPk4YVwpv3WC9sMt9yMqUZkECssSB40cY1JTBmjuo0YtQNEeM9ZQiZjGZ3Gb3v22xlmzJojmJdg+l/GVYMUTFAyN2z1IGzgea5nu0Hb2dCM+O05ASj4bEfGnRv7Y2wZmOqYc1e+sx2UXzPKXGp8iIEMoIR2J5mJGCcK/l3a9efWREYVS3eky49hYm6aNn39dn6bP8LJy3wXPadFCIS2QYg6nCkhFxYsziylEwWQx77gLIlifeMSTteThxWAtsBTz9LiS9y6065PvG7tQpYIAoD6rvzw8Bhtxc0niwfUY4wg=;LqMpGPrc0OwCo0wXtQiqAg=="
+secured: "gs7BHLiwg9cfvoBW1dDK9yiu0yHzFXxbsnYeldr04O4gNnKAgsN0dhKwXM3Xt2MheVeWJ9n0T4fvZl4jz4UsS8FEXRlDn7HjJ+0QNtQfHJgaPQom5gmHHFPYxHmMUA15K0vT/2ZpuNazJcH9vOyB7h/qNj0hIvEKT9pM29iB7VC7xu9F5RO6MHI3fzsH7ilYGWk+tuLrDrerMMaIR+mfyjHA6CWa7IxoILE4DYSN/1YOLqFbpF8MFVk2pzTledjea/2DferKkshB7rwj4bTT0I/fG6yZL+Pqu/VyIegGe7dnGZKzWCphlHdvPkVqIy64u8I6wJc2Bn+WR3I58XRe2zTQOzpV5lcCzRkAnd5c6/o=;yxx1fyF9UeHKdTNhiiv0zw=="
 ---
 

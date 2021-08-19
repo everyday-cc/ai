@@ -29,19 +29,14 @@ images:
 
 related:
   - title: "VVDN Technologies Joins NVIDIA Partner Network to Expand Opportunities for Advanced AI-Enabled Camera & Vision Applications"
-    excerpt: "VVDN Technologies, a premier electronic product engineering and manufacturing company, announced that it has joined the NVIDIA Partner Network ( NPN) as a provider of AI-enabled computer vision solutions powered by the NVIDIA Jetson edge AI platform."
-    publishedDateTime: 2021-08-18T14:14:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-29707966c446abc1e45b7fbac2a86985"
+    excerpt: "As part of the NVIDIA Jetson partner ecosystem, VVDN can leverage the powerful GPU-accelerated edge computing ... and manufacture next-gen innovative AI/ML based camera and vision solutions ..."
+    publishedDateTime: 2021-08-18T01:18:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/vvdn-technologies-joins-nvidia-partner-network-to-expand-opportunities-for-advanced-ai-enabled-camera-vision-applications-1030742469"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 13
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 23
   - title: "VVDN Technologies joins NVIDIA Partner Network to expand opportunities for advanced AI-Enabled Camera & Vision Applications"
     excerpt: "VVDN Technologies, a premier electronic product engineering and manufacturing company, announced that it has joined the NVIDIA Partner Network (NPN) as a provider of AI-enabled computer vision solutions powered by the NVIDIA Jetson edge AI platform."
     publishedDateTime: 2021-08-18T22:45:00Z

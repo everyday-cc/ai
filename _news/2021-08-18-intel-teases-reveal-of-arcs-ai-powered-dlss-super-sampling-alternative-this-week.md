@@ -48,11 +48,11 @@ related:
         height: 636
         isCached: true
   - title: "Intel XeSS is Alchemist's answer to DLSS and FSR, and can work on anyone's GPU"
-    excerpt: "Whatever the reason behind its new feature, however, it says the answer lies within AI-augmented super sampling ... in order to improve overall clarity without drastically increasing GPU load. In loose terms, it's similar to Nvidia's DLSS in the sense ..."
-    publishedDateTime: 2021-08-19T13:11:00Z
-    webUrl: "https://www.pcgamer.com/uk/intel-xess-xe-super-sampling/"
-    ampWebUrl: "https://www.pcgamer.com/uk/amp/intel-xess-xe-super-sampling/"
-    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/uk/amp/intel-xess-xe-super-sampling/"
+    excerpt: "Intel has announced that its upcoming lineup of gaming graphics cards, now known as Intel Alchemist, will support a frame rate boosting technology called (XeSS). That bit you might have known already,"
+    publishedDateTime: 2021-08-19T13:01:00Z
+    webUrl: "https://www.pcgamer.com/intel-xess-xe-super-sampling/"
+    ampWebUrl: "https://www.pcgamer.com/amp/intel-xess-xe-super-sampling/"
+    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/intel-xess-xe-super-sampling/"
     type: article
     provider:
       name: PC Gamer

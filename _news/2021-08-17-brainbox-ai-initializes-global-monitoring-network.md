@@ -25,7 +25,7 @@ related:
   - title: "BrainBox AI to Showcase Its Innovative Technology at the 26th United Nations Climate Change Conference"
     excerpt: "The only Canadian company, and one of ten globally, chosen for prestigious Tech For Our Planet program at COP26, designed to spark environmental"
     publishedDateTime: 2021-08-19T10:32:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/brainbox-ai-to-showcase-its-innovative-technology-at-the-26th-united-nations-climate-change-conference-1030745145"
+    webUrl: "https://markets.businessinsider.com/news/stocks/brainbox-ai-to-showcase-its-innovative-technology-at-the-26th-united-nations-climate-change-conference-1030745058"
     type: article
     provider:
       name: Business Insider
@@ -36,6 +36,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "BrainBox AI Only Canadian Company Chosen for Innovation Showcase at 26th United Nations Climate Change Conference"
+    excerpt: "Montreal-based start-up one of ten companies to present at COP26's Tech For Our Planet program, to encourage environmental change and help the"
+    publishedDateTime: 2021-08-19T10:32:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/brainbox-ai-only-canadian-company-chosen-for-innovation-showcase-at-26th-united-nations-climate-change-conference-1030745060"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 26
 
 secured: "M7BuLr0dEVmq/l6B3VTbThe/2n/SoFXzGiu7JOT5CNtrWtdv7yLtiABBo9sr5eLFd3t0OhurJPmpRqiy3PGs5jlATLfWArn5TcgMqRW75zgp9VSOOXNiQmAWANONCBl2VhMHPBJWX/uNFB7S3koxPKEBXLLHe25+i+VnZCfOJzyH5kGu/o/iw8AJ5n9lw/KPGmDpxc00a9BC4YwKV7PM7IJot1evK/fVg1GRCx5EAVRsVoinDFopsm3+C+vT9reYU1/oP72NingPFOrcXlmEBzgQgrOQvVeII6Iyg0Tf8gg0X7xde2BufVims+CF+0bH11fVzOEWy0Lu5UvFFcUPGetdZiYkcYsc+JPtAdgKinc=;I2PERlWlPtNcH/B0CxplTg=="
 ---

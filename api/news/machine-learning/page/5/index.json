@@ -2,6 +2,148 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-07-20-softserve-wins-google-cloud-specialization-partner-of-the-year-award-for-machine-learning.md",
+      "title": "SoftServe Wins Google Cloud Specialization Partner of the Year Award for Machine Learning",
+      "excerpt": "SoftServe, a leading digital authority and consulting company and Google Cloud Premier Partner has won the 2020 Google Cloud Global Specialization Partner of the Year – Machine Learning award. This press release features multimedia.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fltimes.com/business/national/softserve-wins-google-cloud-specialization-partner-of-the-year-award-for-machine-learning/article_d466f021-3d30-5ab8-903b-e5a35e8442ec.html",
+      "originalUrl": "https://www.fltimes.com/business/national/softserve-wins-google-cloud-specialization-partner-of-the-year-award-for-machine-learning/article_d466f021-3d30-5ab8-903b-e5a35e8442ec.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/assets/v3/editorial/4/17/41720ee0-a5cb-5e3a-a8fa-52835b8fd883/60f6f6cd381c7.image.jpg?crop=1388%2C1041%2C302%2C0&resize=840%2C630&order=crop%2Cresize",
+          "width": 840,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-20T09:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finger Lakes Times",
+        "domain": "fltimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-07-20-our-ai-headline-experiment-continues-did-we-break-the-machine.md",
+      "title": "Our AI headline experiment continues: Did we break the machine?",
+      "excerpt": "Is Our Machine Learning? Our AI headline experiment continues: Did we break the machine? Feeding the machine: We give an AI some headlines and see what it does; Is our machine lea",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2021/07/our-ai-experiment-continues-did-we-break-the-machine/",
+      "originalUrl": "https://arstechnica.com/information-technology/2021/07/our-ai-experiment-continues-did-we-break-the-machine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/Machine-Learning-Feature-3-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-20T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-20-artificial-intelligence-and-machine-learning-course-at-cit.md",
+      "title": "Artificial Intelligence and Machine Learning course at CIT",
+      "excerpt": "Ponnampet: A new engineering course in Artificial Intelligence and Machine Learning (AI & ML), an allied branch of Computer Science and Engineering, is being introduced at Coorg Institute of Technology (CIT),",
+      "sourceUrl": null,
+      "webUrl": "https://starofmysore.com/artificial-intelligence-and-machine-learning-course-at-cit/",
+      "originalUrl": "https://starofmysore.com/artificial-intelligence-and-machine-learning-course-at-cit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://starofmysore.com/wp-content/uploads/2021/07/news-12-Coorg-Institute-Technology.jpg",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://starofmysore.com/artificial-intelligence-and-machine-learning-course-at-cit/",
+      "cdnAmpWebUrl": "https://starofmysore-com.cdn.ampproject.org/c/s/starofmysore.com/artificial-intelligence-and-machine-learning-course-at-cit/",
+      "publishedDateTime": "2021-07-20T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Star of Mysore",
+        "domain": "starofmysore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-07-20-dotdata-announces-automated-feature-engineering-on-the-databricks-platform.md",
       "title": "dotData Announces Automated Feature Engineering On The Databricks Platform",
       "excerpt": "SAN MATEO, Calif., July 20, 2021 /PRNewswire/ -- dotData, a leader in full-cycle enterprise AI automation solutions, today announced that its award-winning Automated Feature Engineering (AutoFE) technology is now fully integrated with and available on the Databricks Platform.",
@@ -1310,145 +1452,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-visa-on-using-advanced-ai-such-as-unsupervised-learning-to-fight-fraud.md",
-      "title": "Visa on using advanced AI such as unsupervised learning to fight fraud",
-      "excerpt": "Visa's Melissa McSherry discusses how Visa uses unsupervised machine learning and other types of AI to fight payment fraud at Transform 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/13/visa-on-using-advanced-ai-such-as-unsupervised-learning-to-fight-fraud/",
-      "originalUrl": "https://venturebeat.com/2021/07/13/visa-on-using-advanced-ai-such-as-unsupervised-learning-to-fight-fraud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/02/Visa-e1626186642948.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/13/visa-on-using-advanced-ai-such-as-unsupervised-learning-to-fight-fraud/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/13/visa-on-using-advanced-ai-such-as-unsupervised-learning-to-fight-fraud/amp/",
-      "publishedDateTime": "2021-07-13T07:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-machine-learning-can-set-your-document-data-free-heres-how.md",
-      "title": "Machine Learning Can Set Your Document Data Free - Here’s How",
-      "excerpt": "Financial services organizations need to examine documents ... Optical Character Recognition (OCR), and machine learning (ML) to capture, extract, and process data from different types of documents. Even though digitization and IDP has been top of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/amazonwebservices/2021/07/13/machine-learning-can-set-your-document-data-freeheres-how/",
-      "originalUrl": "https://www.forbes.com/sites/amazonwebservices/2021/07/13/machine-learning-can-set-your-document-data-freeheres-how/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d4ff08cd155fb463f2f788%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/amazonwebservices/2021/07/13/machine-learning-can-set-your-document-data-freeheres-how/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amazonwebservices/2021/07/13/machine-learning-can-set-your-document-data-freeheres-how/amp/",
-      "publishedDateTime": "2021-07-13T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-they-design-a-system-for-detecting-floods-from-space-using-artificial-intelligence.md",
-      "title": "They design a system for detecting floods from space using Artificial Intelligence",
-      "excerpt": "Researchers have developed a model for flood detection based on neural networks. It’s called WorldFloods and has been launched into space.",
-      "sourceUrl": null,
-      "webUrl": "https://www.preventionweb.net/english/professional/news/v.php?id=78968",
-      "originalUrl": "https://www.preventionweb.net/english/professional/news/v.php?id=78968",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-13T03:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Prevention Web",
-        "domain": "preventionweb.net",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -290,6 +290,50 @@
       ]
     },
     {
+      "path": "_news/2021-08-15-getting-started-with-the-aws-deepracer-offroad-sample-project.md",
+      "title": "Getting started with the AWS DeepRacer Offroad sample project",
+      "excerpt": "The AWS DeepRacer Offroad sample project is a sample application built on top of the existing AWS DeepRacer application that adds additional capability to the AWS DeepRacer device to autonomously navigate through a path of QR codes by decoding the ...",
+      "sourceUrl": null,
+      "webUrl": "https://github.com/aws-deepracer/aws-deepracer-offroad-sample-project/blob/main/getting-started.md",
+      "originalUrl": "https://github.com/aws-deepracer/aws-deepracer-offroad-sample-project/blob/main/getting-started.md",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://opengraph.githubassets.com/2155729e54c4bf5f0daf5f0d6135b373bf5b9f812118fc22c12c966f51502308/aws-deepracer/aws-deepracer-offroad-sample-project",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-14T17:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GitHub",
+        "domain": "github.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-08-13-senators-ask-amazon-how-it-will-use-palm-print-data-from-its-stores.md",
       "title": "Senators ask Amazon how it will use palm print data from its stores",
       "excerpt": "Senators have asked Amazon's CEO how the company will use palm print data from One — they're concerned it might abuse the data..",
@@ -1259,6 +1303,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-06-tag-amazon-web-services.md",
+      "title": "Tag: Amazon Web Services",
+      "excerpt": "Amazon Web Services just released the findings from the Carbon Reduction Opportunity of Moving to the Cloud for APAC report ... As part of Amazon Web Services (AWS)' Build On, ASEAN 2020 hackathon, the first ever AWS DeepRacer Women's League in ...",
+      "sourceUrl": null,
+      "webUrl": "https://soyacincau.com/tag/amazon-web-services/",
+      "originalUrl": "https://soyacincau.com/tag/amazon-web-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://staging.soyacincau.com/covid_assets/kul.png",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SoyaCincau",
+        "domain": "soyacincau.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-enghouse-espialtv-enables-tv-accessibility-with-amazon-polly.md",
       "title": "Enghouse EspialTV enables TV accessibility with Amazon Polly",
       "excerpt": "This is a guest post by Mick McCluskey, the VP of Product Management at Enghouse EspialTV. Enghouse provides software solutions that power digital transformation for communications service operators. EspialTV is an Enghouse SaaS solution that transforms the delivery of TV services for these operators",
@@ -1362,110 +1449,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-extend-amazon-sagemaker-pipelines-to-include-custom-steps-using-callback-steps.md",
-      "title": "Extend Amazon SageMaker Pipelines to include custom steps using callback steps",
-      "excerpt": "Launched at AWS re:Invent 2020, Amazon SageMaker Pipelines is the first purpose-built, easy-to-use continuous integration and continuous delivery (CI/CD) service for machine learning (ML). With Pipelines, you can create, automate, and manage end-to-end ML workflows at scale. You can extend your pipelines",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/extend-amazon-sagemaker-pipelines-to-include-custom-steps-using-callback-steps/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/extend-amazon-sagemaker-pipelines-to-include-custom-steps-using-callback-steps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/30/ML-4059-image001-805x630.png",
-          "width": 805,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-03T11:44:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-enhancing-customer-service-experiences-using-conversational-ai-power-your-contact-center-with-amazon-lex-and-genesys-cloud.md",
-      "title": "Enhancing customer service experiences using Conversational AI: Power your contact center with Amazon Lex and Genesys Cloud",
-      "excerpt": "Customers expect personalized contact center experiences. They want easy access to customer support and quick resolution of their issues. Delighting callers with a quick and easy interaction remains central to the customer experience (CX) strategy for support organizations. Enterprises often deploy omni-channel",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/enhancing-customer-service-experiences-using-conversational-ai-power-your-contact-center-with-amazon-lex-and-genesys-cloud/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/enhancing-customer-service-experiences-using-conversational-ai-power-your-contact-center-with-amazon-lex-and-genesys-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/02/lex-genesys-1.gif",
-          "width": 800,
-          "height": 445,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-03T11:32:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

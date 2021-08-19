@@ -2,6 +2,153 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-20-prepare-and-clean-your-data-for-amazon-forecast.md",
+      "title": "Prepare and clean your data for Amazon Forecast",
+      "excerpt": "You might use traditional methods to forecast future business outcomes, but these traditional methods are often not flexible enough to account for varying factors, such as weather or promotions, outside of the traditional time series data considered. With the advancement of machine learning (ML) and",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/tailor-and-prepare-your-data-for-amazon-forecast/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/tailor-and-prepare-your-data-for-amazon-forecast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-20T13:05:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-20-use-contextual-information-and-third-party-data-to-improve-your-recommendations.md",
+      "title": "Use contextual information and third party data to improve your recommendations",
+      "excerpt": "Have you noticed that your shopping preferences are influenced by the weather? For example, on hot days would you rather drink a lemonade vs. a hot coffee? Customers from consumer-packaged goods (CPG) and retail industries wanted to better understand how weather conditions like temperature and rain can",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-contextual-information-and-third-party-data-to-improve-your-recommendations/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-contextual-information-and-third-party-data-to-improve-your-recommendations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/30/ML-2080-image02.jpg",
+          "width": 443,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-20T12:17:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-20-dotmatics-announces-support-for-the-aws-for-health-initiative.md",
+      "title": "Dotmatics Announces Support for the AWS for Health Initiative",
+      "excerpt": "Dotmatics has announced support for the AWS for Health initiative from Amazon Web Services (AWS) to improve laboratory efficiency and accelerate the pace of scientific innovation by facilitating more rapid data access,",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/informatics/product-news/dotmatics-announces-support-for-the-aws-for-health-initiative-351111",
+      "originalUrl": "https://www.technologynetworks.com/informatics/product-news/dotmatics-announces-support-for-the-aws-for-health-initiative-351111",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.technologynetworks.com/tn/images/logo/social/facebook.PNG",
+          "width": 389,
+          "height": 389,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologynetworks.com/informatics/product-news/amp/dotmatics-announces-support-for-the-aws-for-health-initiative-351111",
+      "cdnAmpWebUrl": "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/product-news/amp/dotmatics-announces-support-for-the-aws-for-health-initiative-351111",
+      "publishedDateTime": "2021-07-20T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks.com",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-20-our-ai-headline-experiment-continues-did-we-break-the-machine.md",
       "title": "Our AI headline experiment continues: Did we break the machine?",
       "excerpt": "Is Our Machine Learning? Our AI headline experiment continues: Did we break the machine? Feeding the machine: We give an AI some headlines and see what it does; Is our machine lea",
@@ -1229,155 +1376,6 @@
         "AWS AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-dynamic-ab-testing-for-machine-learning-models-with-amazon-sagemaker-mlops-projects.md",
-      "title": "Dynamic A/B testing for machine learning models with Amazon SageMaker MLOps projects",
-      "excerpt": "In this post, you learn how to create a MLOps project to automate the deployment of an Amazon SageMaker endpoint with multiple production variants for A/B testing. You also deploy a general purpose API and testing infrastructure that includes a multi-armed bandit experiment framework. This testing infrastructure",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/dynamic-a-b-testing-for-machine-learning-models-with-amazon-sagemaker-mlops-projects/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/dynamic-a-b-testing-for-machine-learning-models-with-amazon-sagemaker-mlops-projects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/23/14-3239-Architecture.jpg",
-          "width": 800,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-09T11:07:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-optimize-workforce-in-your-store-using-amazon-rekognition.md",
-      "title": "Optimize workforce in your store using Amazon Rekognition",
-      "excerpt": "In this post, we show you how to use Amazon Rekognition and AWS DeepLens to detect, and analyze occupancy in a retail business to optimize workforce utilization. Retailers often need to make decisions to improve the in-store customer experience through personnel management. Having too few or too many",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/optimize-workforce-in-your-store-using-amazon-rekognition/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/optimize-workforce-in-your-store-using-amazon-rekognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-09T09:17:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-aws-iot-core-for-lorawan-comes-to-sydney-cloud-region.md",
-      "title": "AWS IoT Core for LoRaWAN comes to Sydney cloud region",
-      "excerpt": "The move allows users to “leverage” Amazon SageMaker, a managed ML service, without moving data or learning a new skill, AWS claimed. Writing in a blog post during its general availability ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/article/689680/aws-iot-core-lorawan-comes-sydney-cloud-region/",
-      "originalUrl": "https://www.arnnet.com.au/article/689680/aws-iot-core-lorawan-comes-sydney-cloud-region/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/aws_website_crop.jpg",
-          "width": 800,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-08T17:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

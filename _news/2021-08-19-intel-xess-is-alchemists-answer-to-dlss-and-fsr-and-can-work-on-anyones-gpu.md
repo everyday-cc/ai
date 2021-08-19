@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Intel XeSS is Alchemist's answer to DLSS and FSR, and can work on anyone's GPU"
-excerpt: "Whatever the reason behind its new feature, however, it says the answer lies within AI-augmented super sampling ... in order to improve overall clarity without drastically increasing GPU load. In loose terms, it's similar to Nvidia's DLSS in the sense ..."
-publishedDateTime: 2021-08-19T13:11:00Z
-originalUrl: "https://www.pcgamer.com/uk/intel-xess-xe-super-sampling/"
-webUrl: "https://www.pcgamer.com/uk/intel-xess-xe-super-sampling/"
-ampWebUrl: "https://www.pcgamer.com/uk/amp/intel-xess-xe-super-sampling/"
-cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/uk/amp/intel-xess-xe-super-sampling/"
+excerpt: "Intel has announced that its upcoming lineup of gaming graphics cards, now known as Intel Alchemist, will support a frame rate boosting technology called (XeSS). That bit you might have known already,"
+publishedDateTime: 2021-08-19T13:01:00Z
+originalUrl: "https://www.pcgamer.com/intel-xess-xe-super-sampling/"
+webUrl: "https://www.pcgamer.com/intel-xess-xe-super-sampling/"
+ampWebUrl: "https://www.pcgamer.com/amp/intel-xess-xe-super-sampling/"
+cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/intel-xess-xe-super-sampling/"
 type: article
 quality: 55
 heat: -1
@@ -60,6 +60,6 @@ related:
         height: 636
         isCached: true
 
-secured: "jPRHOLt4KEfK4tzOyMmd6eT9CKuF8X14CFD3sfWJWaCLT+dipU1fQMX3m3yOYv1otKjeyjg78sWpq22nrssKCvPm/Lxm0R+Fcv2HwwMxCDyPngyzRy43W0gyS7LeOgwTsf1wz6T+ma0pUSuZBn2XECu6rHDry+tVhUCNYLZM9NvfJjFJfbh/LOT3+pTBPZ4RUFaO2uNUaSKGhcGkdMlJ18OO9fDAGEtrf3ArQzfjB8l/LPFWSVwR0JgdxgpP/8+NGqrz1tL3jvFZtzptHj6tQ5EpXpLIxG11878FAp0fiadAh1cGCn/+1yis4KE6pLNFC5y0WVUSdanQFixcp1IHRanh13iaBfqJzHD5TvJZPXE=;ibd1wgHcU/Le5beVHwHJLw=="
+secured: "fQ/9FcJyS9USx6nvPZFYkQL7y/XDdLiqSLjCnvm5una3W1Dy0Aq/fzTWayWQuvNaZoiO7OF2ea1BpfbRVyLXfgP++Vw3h25OXw9baFIvJ4rKDkqf4pWoKPZnwtqVztaVdSW9R/oEif496GiHajJzs3wx0ciKzDd5W8nxfoGJqqf2sYEbZa9xHKmJdkY0o7BIFuny/OW+r84JSlHo91LEOAl/RfpvRnDKpKhjEOZ/ZdqFTjRDWv4PUISZ8rQHThOk8Bu5NM0TNhzNciI+NH40Qu+MDyJy/9qMtQhBs96Y5I9VT5urzmcSKubp+RQiz8VAQFpzaj0797whX1OSBEGLHZsL2pYh4Rn4SfO/kPgFIbA=;fP6Sy6Y7aSR91SbNc25p8g=="
 ---
 
