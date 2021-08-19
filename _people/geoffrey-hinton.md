@@ -11,11 +11,11 @@ affiliation:
 twitter:
   username: geoffreyhinton
   url: https://twitter.com/geoffreyhinton
-  followers: 124438
+  followers: 124447
 
 googleScholar:
   url: https://scholar.google.com/citations?user=JicYPdAAAAAJ
-  citations: 495206
+  citations: 495524
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Geoffrey_Hinton
