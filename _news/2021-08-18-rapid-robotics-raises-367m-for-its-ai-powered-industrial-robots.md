@@ -44,16 +44,32 @@ related:
   - title: "Startup That Develops AI-Pumped Robotic Arms Raises $37 Million"
     excerpt: "Rapid Robotics’ Series B was led by Kleiner Perkins and Tiger Global, and comes as labor and parts shortages are hitting the economy."
     publishedDateTime: 2021-08-18T17:39:00Z
-    webUrl: "https://www.wsj.com/articles/startup-that-develops-ai-pumped-robotic-arms-raises-37-million-11629311957?tpl=vc"
+    webUrl: "https://www.wsj.com/articles/startup-that-develops-ai-pumped-robotic-arms-raises-37-million-11629311957"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 67
+    quality: 84
     images:
       - url: "https://images.wsj.net/im-387697/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Call center automation startup Balto secures $37M"
+    excerpt: "Balto, a call center automation startup based in St. Louis, has raised $37 million in series B funding for its agent coaching AI."
+    publishedDateTime: 2021-08-19T11:00:00Z
+    webUrl: "https://venturebeat.com/2021/08/19/call-center-automation-startup-balto-secures-37m/"
+    ampWebUrl: "https://venturebeat.com/2021/08/19/call-center-automation-startup-balto-secures-37m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/19/call-center-automation-startup-balto-secures-37m/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 72
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2017/11/shutterstock_344231354-e1628723101457.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "a4qiz/CLcUXdyfHXldAtVxpEsMYKrnU1lnnnspjfs1QxaMOXeixQAtSgfsdKwIzFiYYnCGdsGSh8wvt00pIbx3WTqdhlK9LIdh3HoMkvb/DohhMBUgDJT/RgKYcyvn45oXlUvVKCrjR5XYHYnxU0Na26WtT/qa9xTUEnYO6Cpqnyjsxg8SNqcYPRRb3BmbdMeVghyVMM+RwNBweYzEkgHHg8tyvfDq7BRSrofaubvnTqaiH+m+Jw260xo34G9zSNnUvhllrI6PP1K/c3vDvPLr2unbht3BEAN81hk2WExDtcSjd/drIRoOzCiLWHBiZacm6sWXc2RXCZff7Kg/0yY47NvqgYN0UHmCS62K/IpaO2DYVF69GAmSUCrbieqgKiEbvlR4corIx4tO0KA8k3AXARyh4cRpze5mfoMkZUB8AUpqNKLY9h/mdAnuihPStBmsVrZqBkrEEMBSyMH1LZF99X1uANH5IiZMYMbZlNuhf7BNd3HGwnUwVIOoo62rKphZvEXoUXGCBG+jVALFv+lg==;B0MWiJrEHi/XCGPBGMO4Qw=="

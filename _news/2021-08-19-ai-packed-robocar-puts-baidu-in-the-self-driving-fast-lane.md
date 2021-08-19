@@ -99,6 +99,20 @@ related:
         width: 685
         height: 456
         isCached: true
+  - title: "Baidu unveils Level 5 self-driving vehicle"
+    excerpt: "Chinese technology company Baidu Inc has unveiled its first Level 5 (L5) fully autonomous driving vehicle this week at the...Read"
+    publishedDateTime: 2021-08-19T10:45:00Z
+    webUrl: "https://www.just-auto.com/news/baidu-unveils-level-5-self-driving-vehicle/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 39
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/08/Baidu_Co_founder_CEO_Robin_Li_CCTV_host_Beining_Sa_sit.jpg"
+        width: 1270
+        height: 846
+        isCached: true
   - title: "China's Baidu Unveils a Level-5 Robocar With No Steering Wheel & Gull-Wing Doors That ‘Moves, Communicates & Learns'"
     excerpt: "China’s tech giant Baidu Inc held its annual flagship \"Baidu World 2021\" conference on Wednesday and once again revealed some of its advanced work on AI and autonomous driving. Among the highlights, Baidu Co-founder and CEO Robin Li unveiled his vision for mobility of the future in the form of a futuristic “robocar” designed to make autonomous vehicles more accessible to the broader public."
     publishedDateTime: 2021-08-18T20:45:00Z

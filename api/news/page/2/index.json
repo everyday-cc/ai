@@ -2,6 +2,144 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-18-this-new-ai-system-can-translate-natural-language-to-computer-code.md",
+      "title": "This New AI System Can Translate Natural Language To Computer Code",
+      "excerpt": "Advertisement Do you feel like you have an amazing idea for an application but don’t know how to code? Thanks to an artificial intelligence research company named OpenAI, it’s now possible to translate natural English language into programming code!",
+      "sourceUrl": null,
+      "webUrl": "https://wonderfulengineering.com/this-new-ai-system-can-translate-natural-language-to-computer-code/",
+      "originalUrl": "https://wonderfulengineering.com/this-new-ai-system-can-translate-natural-language-to-computer-code/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wonderfulengineering.com/wp-content/uploads/2021/08/2020_10largeimg_1328966816.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wonderfulengineering.com/this-new-ai-system-can-translate-natural-language-to-computer-code/amp/",
+      "cdnAmpWebUrl": "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/this-new-ai-system-can-translate-natural-language-to-computer-code/amp/",
+      "publishedDateTime": "2021-08-18T01:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wonderful Engineering",
+        "domain": "wonderfulengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-18-baidu-says-2nd-gen-kunlun-ai-chips-enter-mass-production.md",
+      "title": "Baidu Says 2nd-Gen Kunlun AI Chips Enter Mass Production",
+      "excerpt": "Chinese tech giant Baidu said on Wednesday it had begun mass-producing second-generation Kunlun artificial intelligence (AI) chips, as it races to become a key player in the chip industry which Beijing is trying to strengthen.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2021-08-18/baidu-says-2nd-gen-kunlun-ai-chips-enter-mass-production",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-08-18/baidu-says-2nd-gen-kunlun-ai-chips-enter-mass-production",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2021-08-18/baidu-says-2nd-gen-kunlun-ai-chips-enter-mass-production?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-08-18/baidu-says-2nd-gen-kunlun-ai-chips-enter-mass-production?context=amp",
+      "publishedDateTime": "2021-08-17T23:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-18-baidu-unveils-concept-autonomous-robocar.md",
+      "title": "Baidu unveils concept autonomous 'Robocar'",
+      "excerpt": "Along with unveiling a new autonomous vehicle, Baidu also announced it has started mass producing its AI chip, the Kunlun II.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/baidu-unveils-concept-autonomous-robocar/",
+      "originalUrl": "https://www.zdnet.com/article/baidu-unveils-concept-autonomous-robocar/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/08/18/97007714-bc06-4b94-816a-9a85a0427308/e9clrpivoag-sz.jpg",
+          "width": 2477,
+          "height": 1509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/baidu-unveils-concept-autonomous-robocar/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/baidu-unveils-concept-autonomous-robocar/",
+      "publishedDateTime": "2021-08-17T20:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-18-artificial-intelligence-for-automotive-applications-market-may-set-epic-growth-story-with-audi-bmw-aimotive.md",
       "title": "Artificial Intelligence For Automotive Applications Market May Set Epic Growth Story with Audi, BMW, AImotive",
       "excerpt": "The Latest research study released by HTF MI Worldwide Artificial Intelligence For Automotive Applications Market with 100 pages of analysis on business Strategy taken up by key and emerging industry players and delivers know how of the current market development",
@@ -10,7 +148,7 @@
       "originalUrl": "https://www.openpr.com/news/2358326/artificial-intelligence-for-automotive-applications-market",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -820,7 +958,7 @@
       "originalUrl": "https://venturebeat.com/2021/08/17/ai-powered-travel-tech-platform-hopper-raises-175m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1025,7 +1163,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/plannuh-announces-ai-driven-marketing-planning-and-budgeting-platform-integration-to-salesforce-1030737894",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -1066,162 +1204,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-data-observability-startup-monte-carlo-raises-60m.md",
-      "title": "Data observability startup Monte Carlo raises $60M",
-      "excerpt": "Monte Carlo, a startup leveraging AI to power its data observability tech, has raised $60 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/17/data-observability-startup-monte-carlo-raises-60m/",
-      "originalUrl": "https://venturebeat.com/2021/08/17/data-observability-startup-monte-carlo-raises-60m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/AI-e1628527067120.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/17/data-observability-startup-monte-carlo-raises-60m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/17/data-observability-startup-monte-carlo-raises-60m/amp/",
-      "publishedDateTime": "2021-08-17T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-qualcomm-readies-5g-and-ai-drone-platform.md",
-      "title": "Qualcomm readies 5G and AI drone platform",
-      "excerpt": "Qualcomm is unveiling its QRB5165 processor platform that enables aerial drones to tap both 5G and AI technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/17/qualcomm-readies-5g-and-ai-drone-platform/",
-      "originalUrl": "https://venturebeat.com/2021/08/17/qualcomm-readies-5g-and-ai-drone-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/qualcomm-drone-Flight-RB5-Image-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 577,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/17/qualcomm-readies-5g-and-ai-drone-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/17/qualcomm-readies-5g-and-ai-drone-platform/amp/",
-      "publishedDateTime": "2021-08-17T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-stopping-ai-bias-starts-with-diverse-product-teams.md",
-      "title": "Stopping AI Bias Starts With Diverse Product Teams",
-      "excerpt": "Beyond the ethics of debating gender or racial bias ... in product design has consequences in the digital world, which leans heavily on artificial intelligence (AI). AI-enabled robots are augmenting human labor on the factory floor, improving customer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/17/stopping-ai-bias-starts-with-diverse-product-teams/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/17/stopping-ai-bias-starts-with-diverse-product-teams/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611a8cd7696f99911afdc233%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/17/stopping-ai-bias-starts-with-diverse-product-teams/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/17/stopping-ai-bias-starts-with-diverse-product-teams/amp/",
-      "publishedDateTime": "2021-08-17T04:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

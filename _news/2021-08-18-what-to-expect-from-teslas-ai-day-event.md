@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/8/18/22627101/tesla-event
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/8/18/22627101/tesla-event-ai-day-rumors-elon-musk-what-to-expect"
 type: article
 quality: 108
-heat: 178
+heat: 188
 published: true
 
 provider:
@@ -33,6 +33,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla AI Day might rely on ‘one more thing’ moment to be impactful"
+    excerpt: "Tesla is holding its ‘AI Day’ today and the automaker might have to rely on a ‘one more thing’ moment for the presentation to be impactful and move the needle. Over the last few years, Tesla started holding events,"
+    publishedDateTime: 2021-08-19T10:07:00Z
+    webUrl: "https://electrek.co/2021/08/19/tesla-ai-day-one-more-thing-moment-impactful/"
+    ampWebUrl: "https://electrek.co/2021/08/19/tesla-ai-day-one-more-thing-moment-impactful/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/19/tesla-ai-day-one-more-thing-moment-impactful/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 106
+    images:
+      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2019/07/Tesla-snake-charger.png?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Elon Musk’s Plan To Tout Tesla AI Comes As Tougher Scrutiny Of The Company Looms"
     excerpt: "The company's AI Day takes place as NHTSA probes its Autopilot feature and as two Senators call for a Federal Trade Commission investigation of how Tesla promotes Autopilot and Full Self Driving."
     publishedDateTime: 2021-08-18T18:53:00Z
@@ -91,20 +107,18 @@ related:
         height: 800
         isCached: true
   - title: "Musk's 'AI Day' confronts tough questions about Tesla's technology"
-    excerpt: "Tesla CEO Musk is expected to reveal more about Tesla's \"Dojo\" computing system on Thursday, which he has said would process vast amounts of video data it obtains from Tesla vehicles on the road."
-    publishedDateTime: 2021-08-19T00:43:00Z
-    webUrl: "https://www.foxbusiness.com/markets/elon-musk-tesla-ai-day-confronts-tough-questions-technology"
-    ampWebUrl: "https://www.foxbusiness.com/markets/elon-musk-tesla-ai-day-confronts-tough-questions-technology.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/markets/elon-musk-tesla-ai-day-confronts-tough-questions-technology.amp"
+    excerpt: "At Tesla's \"Autonomy Day\" event in April 2019, Chief Executive Elon Musk said that by mid-2020 Tesla (TSLA.O) would have over a million self-driving vehicles where riders \"could go to sleep\" during a trip."
+    publishedDateTime: 2021-08-19T02:02:00Z
+    webUrl: "https://www.reuters.com/technology/musks-ai-day-confronts-tough-questions-about-teslas-technology-2021-08-18/"
     type: article
     provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 76
+      name: Reuters
+      domain: reuters.com
+    quality: 84
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cda2c4b9-302c-4a9c-a6ff-7ccd94b863c4/37687a85-2e7a-4ff3-b7cb-e60920b3755e/1280x720/match/image.jpg?pubId=854081161001"
-        width: 1280
-        height: 720
+      - url: "https://www.reuters.com/resizer/gQCbWlBrk4aRoBGlrduiXWv8Rzo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2MB6UJWVB5KMZA545NR5FCANH4.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Dow Selloff, Nvidia, Tesla AI Day, Robinhood: 5 Things You Must Know Thursday"
     excerpt: "\"That said, the start of tapering necessarily chips away at the tools at the Fed ... The stock dropped 11.73% to $43.96 early Thursday. Tesla's AI Day is invite-only and is expected to begin ..."

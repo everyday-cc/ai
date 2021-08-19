@@ -2,6 +2,162 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-19-new-windows-10-previews-arrive-for-versions-21h2-and-21h1.md",
+      "title": "New Windows 10 previews arrive for versions 21H2 and 21H1",
+      "excerpt": "and Azure IoT Edge for Linux on Windows (EFLOW) deployments for machine learning. It moves 21H2 to build number 19044.1200. The best laptops: Our recommended models for every use case and platform New year, new laptop? These are the devices that should be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/article/new-windows-10-21h2-and-21h1-previews-arrive/",
+      "originalUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/article/new-windows-10-21h2-and-21h1-previews-arrive/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/r/2021/07/15/70041633-d204-4909-8e5f-a88cf817ee47/thumbnail/1200x675/f38a610575a8bcb617825d19d1c98802/gettyimages-1216889099.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/new-windows-10-21h2-and-21h1-previews-arrive/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/new-windows-10-21h2-and-21h1-previews-arrive/",
+      "publishedDateTime": "2021-08-19T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-pinterest-introduces-a-computer-vision-powered-hair-pattern-search.md",
+      "title": "Pinterest Introduces a Computer Vision-Powered Hair Pattern Search",
+      "excerpt": "Pinterest this week rolled out hair pattern search, a \"first-of-its-kind\" technology created with pinners of color in mind. Using computer vision-powered object detection, the feature enables users to refine hair searches by six different patterns: protective,",
+      "sourceUrl": null,
+      "webUrl": "https://uk.pcmag.com/social-media/135146/pinterest-introduces-a-computer-vision-powered-hair-pattern-search",
+      "originalUrl": "https://uk.pcmag.com/social-media/135146/pinterest-introduces-a-computer-vision-powered-hair-pattern-search",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_uk/news/p/pinterest-/pinterest-introduces-a-computer-vision-powered-hair-pattern_7vfe.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-19T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-seeking-global-recognition-taliban-take-a-new-approach-making-nice.md",
+      "title": "Seeking Global Recognition, Taliban Take a New Approach: Making Nice",
+      "excerpt": "The group’s head-spinning claims of moderation follow a common playbook for rebel-held governments, with mixed lessons for Afghanistan’s future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/08/19/world/asia/taliban-foreign-recognition.html",
+      "originalUrl": "https://www.nytimes.com/2021/08/19/world/asia/taliban-foreign-recognition.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/08/18/world/18int-afghan2/18int-afghan2-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/08/19/world/asia/taliban-foreign-recognition.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/19/world/asia/taliban-foreign-recognition.amp.html",
+      "publishedDateTime": "2021-08-19T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-19-waymo-begins-work-on-dedicated-texas-hub-for-self-driving-trucks.md",
       "title": "Waymo begins work on dedicated Texas hub for self-driving trucks",
       "excerpt": "Alphabet-owned Waymo is looking to gain a strong foothold in the nascent autonomous freight industry, today announcing plans to build a dedicated hub for its self-driving trucks in the state of Texas.",
@@ -305,7 +461,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-share-growth-strategies-geographical-analysis-and-forecast-by-2027-2021-08-18",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 181,
       "tags": null,
       "images": [
         {
@@ -710,7 +866,7 @@
       "originalUrl": "https://www.theverge.com/2021/8/18/22627101/tesla-event-ai-day-rumors-elon-musk-what-to-expect",
       "featuredContent": null,
       "highlight": null,
-      "heat": 178,
+      "heat": 188,
       "tags": null,
       "images": [
         {
@@ -867,7 +1023,7 @@
       "originalUrl": "https://venturebeat.com/2021/08/18/automation-as-a-service-startup-rapid-robotics-raises-36-7m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -1096,144 +1252,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-08-18-this-new-ai-system-can-translate-natural-language-to-computer-code.md",
-      "title": "This New AI System Can Translate Natural Language To Computer Code",
-      "excerpt": "Advertisement Do you feel like you have an amazing idea for an application but don’t know how to code? Thanks to an artificial intelligence research company named OpenAI, it’s now possible to translate natural English language into programming code!",
-      "sourceUrl": null,
-      "webUrl": "https://wonderfulengineering.com/this-new-ai-system-can-translate-natural-language-to-computer-code/",
-      "originalUrl": "https://wonderfulengineering.com/this-new-ai-system-can-translate-natural-language-to-computer-code/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wonderfulengineering.com/wp-content/uploads/2021/08/2020_10largeimg_1328966816.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wonderfulengineering.com/this-new-ai-system-can-translate-natural-language-to-computer-code/amp/",
-      "cdnAmpWebUrl": "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/this-new-ai-system-can-translate-natural-language-to-computer-code/amp/",
-      "publishedDateTime": "2021-08-18T01:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wonderful Engineering",
-        "domain": "wonderfulengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-18-baidu-says-2nd-gen-kunlun-ai-chips-enter-mass-production.md",
-      "title": "Baidu Says 2nd-Gen Kunlun AI Chips Enter Mass Production",
-      "excerpt": "Chinese tech giant Baidu said on Wednesday it had begun mass-producing second-generation Kunlun artificial intelligence (AI) chips, as it races to become a key player in the chip industry which Beijing is trying to strengthen.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2021-08-18/baidu-says-2nd-gen-kunlun-ai-chips-enter-mass-production",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-08-18/baidu-says-2nd-gen-kunlun-ai-chips-enter-mass-production",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2021-08-18/baidu-says-2nd-gen-kunlun-ai-chips-enter-mass-production?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-08-18/baidu-says-2nd-gen-kunlun-ai-chips-enter-mass-production?context=amp",
-      "publishedDateTime": "2021-08-17T23:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-18-baidu-unveils-concept-autonomous-robocar.md",
-      "title": "Baidu unveils concept autonomous 'Robocar'",
-      "excerpt": "Along with unveiling a new autonomous vehicle, Baidu also announced it has started mass producing its AI chip, the Kunlun II.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/baidu-unveils-concept-autonomous-robocar/",
-      "originalUrl": "https://www.zdnet.com/article/baidu-unveils-concept-autonomous-robocar/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/08/18/97007714-bc06-4b94-816a-9a85a0427308/e9clrpivoag-sz.jpg",
-          "width": 2477,
-          "height": 1509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/baidu-unveils-concept-autonomous-robocar/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/baidu-unveils-concept-autonomous-robocar/",
-      "publishedDateTime": "2021-08-17T20:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -74,6 +74,20 @@ related:
         width: 976
         height: 551
         isCached: true
+  - title: "Baidu's Kunlun II AI chips enter mass production"
+    excerpt: "Chinese tech giant Baidu has begun mass-producing its second generation of Kunlun artificial intelligence chips, used in its cloud data centers and smart electric vehicles. Baidu spun the Kunlun chip business out into an independent company earlier this year,"
+    publishedDateTime: 2021-08-19T11:50:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/baidus-kunlun-ii-ai-chips-enter-mass-production/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 39
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Baidu_headquarters.2e16d0ba.fill-1200x630.jpg"
+        width: 400
+        height: 211
+        isCached: true
 
 secured: "7T/lnt8Fyk3+BIWRslEC/4HBUK3Y9XQ5gD/5y0lnmxFKlQxVbxlCzdsoO3IW8XPtOysR06gOoOuedP+P6SAqIJupunGGuyB6ZTEkOj80Bgi8PRxMru6kuIsqV9RdCI8s5u2Io2FBqU7PFpj5DfuxJRWx7GG2XlH8lcE5hniU3/yPVqdtAh5JsOtifSR7uGtG8hl1rmAjLc91DDSlFYiLP0039UJ7aE+w8WBbK+u3rFHFtaBjl/zBTD9qYgyDHFxpkqm+6WKNiB+/mWtCy52NaVFStVNglAQczfC8gd2/j2zZ749xl19rWRVqn4ByL8nAW8l0fUINYIzHhylxF4QLstJX6X24d1ONGYWtDWW2ub8=;ObTdzO/o0CNBQZ+3WldGjA=="
 ---

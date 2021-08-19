@@ -99,6 +99,20 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Baidu unveils Level 5 self-driving vehicle"
+    excerpt: "Chinese technology company Baidu Inc has unveiled its first Level 5 (L5) fully autonomous driving vehicle this week at the...Read"
+    publishedDateTime: 2021-08-19T10:45:00Z
+    webUrl: "https://www.just-auto.com/news/baidu-unveils-level-5-self-driving-vehicle/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 39
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/08/Baidu_Co_founder_CEO_Robin_Li_CCTV_host_Beining_Sa_sit.jpg"
+        width: 1270
+        height: 846
+        isCached: true
   - title: "China's Baidu Unveils a Level-5 Robocar With No Steering Wheel & Gull-Wing Doors That ‘Moves, Communicates & Learns'"
     excerpt: "China’s tech giant Baidu Inc held its annual flagship \"Baidu World 2021\" conference on Wednesday and once again revealed some of its advanced work on AI and autonomous driving. Among the highlights, Baidu Co-founder and CEO Robin Li unveiled his vision for mobility of the future in the form of a futuristic “robocar” designed to make autonomous vehicles more accessible to the broader public."
     publishedDateTime: 2021-08-18T20:45:00Z
@@ -114,6 +128,6 @@ related:
         height: 507
         isCached: true
 
-secured: "v1kg0P4yylU3K1008HaKQrHiv1vpGAnV/REM8FfY2WHwbz/jzhxo7if6rbb9O7z/wacN9COmAfOMVFg06G8/hcv7y8dU1snb0Yk/GJZ8E44fUvvSgkfUH5QvcgKSUbPdJZh3UuFxrWq9yey7fimuNERH7nHjDQBV0DF+BPIsyEilV8EkajVqTYxU/ZKQ0j0IX9CtzGxegGilT7RwCfVvwdBB1X0bc0ekCNR3OiQKYUCcqxI+xzCJmi3fIcKd9zZnKLHxGMHj6syZnfptbk3Ngo5f+1vda3cXoUkhQJ3mlVXCFik4ixYq2UO6pHgnSz/sq+VWI6ymC/ZwmXbcsLl4via0J5D6F6AFRsyvNxIuYxY=;x2QRhxpVA5fusGCrwcq4zw=="
+secured: "+NTMIb6vsuBu4yxsq+NaxV97MGwzfjkZ7r/AuVFwrjQS+Heep8Q+mwzakagEB+tMwoA1a/QLr7buofWe83TBLZGi0TytuuLvfefCA3k5HgypaGXo+/Qa0dr4jwVa/fu1/e83QMWDSzhGLlKNdkbAiRI+7D3Uvw6ovdowvVOa3h1jjITGhYxmMtUNKwmdgw3RNPjQ0tqp0CFFfRKZDvR+CFdmkmgl7C4JWVkmuLIRcKpvvWIFUJ09JVIdCA4YoxjPPt5pKpfYSLwnWNoOr9WS15swRShAfOoN4h9DRiTz/Cb/a7UOHO0XoB7qoyf1EyORH8nMdS2yG2GshGRbk1H0vJDjvs1M2wSTqP/xeNRRiZKp0LiWNQ4cBRg0IEKs/ySz4wEiDfj1I3nJKOdWsUAh0eCmBo5ALhLgcLQRpdccszzBF43z9/XiSsjI2xTWLVFH+RK4iLpwmbxOCzSAL4Tp6uaGcHuOnUFCM0fDnlZI0JYzLP6lBDJAiqCWdKFrMaysvjuHu7H1THLYkAPMVPmAGA==;WAmq5wUMag+7LIhMkD4aiA=="
 ---
 

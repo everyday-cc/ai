@@ -3,10 +3,10 @@ category: news
 title: "Startup That Develops AI-Pumped Robotic Arms Raises $37 Million"
 excerpt: "Rapid Robotics’ Series B was led by Kleiner Perkins and Tiger Global, and comes as labor and parts shortages are hitting the economy."
 publishedDateTime: 2021-08-18T17:39:00Z
-originalUrl: "https://www.wsj.com/articles/startup-that-develops-ai-pumped-robotic-arms-raises-37-million-11629311957?tpl=vc"
-webUrl: "https://www.wsj.com/articles/startup-that-develops-ai-pumped-robotic-arms-raises-37-million-11629311957?tpl=vc"
+originalUrl: "https://www.wsj.com/articles/startup-that-develops-ai-pumped-robotic-arms-raises-37-million-11629311957"
+webUrl: "https://www.wsj.com/articles/startup-that-develops-ai-pumped-robotic-arms-raises-37-million-11629311957"
 type: article
-quality: 67
+quality: 84
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
       height: 50
 
 topics:
+  - AI in Robotics
   - AI
 
 images:
@@ -44,6 +45,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Call center automation startup Balto secures $37M"
+    excerpt: "Balto, a call center automation startup based in St. Louis, has raised $37 million in series B funding for its agent coaching AI."
+    publishedDateTime: 2021-08-19T11:00:00Z
+    webUrl: "https://venturebeat.com/2021/08/19/call-center-automation-startup-balto-secures-37m/"
+    ampWebUrl: "https://venturebeat.com/2021/08/19/call-center-automation-startup-balto-secures-37m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/19/call-center-automation-startup-balto-secures-37m/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 72
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2017/11/shutterstock_344231354-e1628723101457.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Rapid Robotics raises $36.7M for its AI-powered industrial robots"
     excerpt: "Kleiner Perkins and Tiger Global have led a $36.7 million funding round for Rapid Robotics Inc., a startup developing artificial intelligence-powered robots aimed at the industrial sector. San Francisco-based Rapid Robotics announced the funding this morning."
     publishedDateTime: 2021-08-18T13:00:00Z
@@ -59,6 +76,6 @@ related:
         height: 422
         isCached: true
 
-secured: "wbR1xiw3sduZUCCMX7DbE4K4qgctOSFRutCQMQLgPqqg3i2qmyMhEeZ90t9UOFTD+QMGPe3KNd5k9KBw1aDlLQgxohr2L+5WhnaGg2DW2tXwFf97BUnKv3rVG9+tARDeSxdWbVcgtgYwcCALfF2s57PzdMk0jMroe+H5ekz7N90mcCpK3wOtDQV5wzLL+zHrOShas/yny5QjbUd8Jy4ypi7wDTQFgjGh8aNk04p2WTLs2ODdxH3i7sM+KDSQshQKTw3N5oB7PoZx//lxa5MFww6M0csjr38YsXHXUNGDgCEgKMSLai8fWVggVVaSKZt0EA2VxDNGF19JKuv58QThi4MtmObnPz9yihdhz4Q6x5Y=;8EeqIooANemRUO+8hRRNXg=="
+secured: "0AMOffx3WZn9LZpCz1bsZkwezkPEipRKX0GqCxR41lqjh2Ija8pLx5jFpr1dCyijWR7SE2S6ljP1GvR/WPT298xDVTRgDlNDd4VG5Hsaudh2yBDdsr4opbv6tSz6B7WKjF+KSQUz8yco//C2ibzTEge6zyc2X8pG5pxUjUB20M+D8UEt60DMZiVN8GH+Jw6WEkZQfLxs/Gitz8x5CQBzLeCSs8bjcOFHu67ItREeGEG4a7q4/lWtSPPxv2HAsRlPH2hWd3vm7Jy08Tk8CKS7yEAkbp+H4r5jQjjZtZwpU666M4nN1YZ+IipYKj4CQ40K5dSHjWk9FlajlflCHbDS+peP8Wb9pb/DJt4Teid/ouE=;TLyB5+orE4kOs1o01kHGuw=="
 ---
 

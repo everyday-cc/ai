@@ -58,6 +58,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "HR tech Startup Hiration raises Rs 21 cr; to offer AI-powered career platform for job seekers"
+    excerpt: "Hiration, an AI-powered career platform which helps professionals create high-impact resumes and find their dream job, has raised Rs 21 crore ($3 million) from Prime Venture Partners, Venture Highway and Y Combinator."
+    publishedDateTime: 2021-08-19T10:01:00Z
+    webUrl: "https://www.freepressjournal.in/business/hr-tech-startup-hiration-raises-rs-21-cr-to-offer-ai-powered-career-platform-for-job-seekers"
+    ampWebUrl: "https://www.freepressjournal.in/amp/business/hr-tech-startup-hiration-raises-rs-21-cr-to-offer-ai-powered-career-platform-for-job-seekers"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/hr-tech-startup-hiration-raises-rs-21-cr-to-offer-ai-powered-career-platform-for-job-seekers"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 46
+    images:
+      - url: "https://images.assettype.com/freepressjournal/2020-10/e414dc5d-24a0-42a9-87a6-1f8de88c1cbd/2016_11_18T091019Z_1_LYNXeMPECAH0GF_RTROPTP_3_INDIA_MODI_CORRUPTION3qw.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "hIio4zDjM/aGsbIb2r+NyVdUGcqQTGduKc0tAnCjY96Rzd8qvVm9UI9sgluSgtSebOseTH8ICdO3yv2SkcapvStwj+Ba6NRsG8E5qE9ClH4CWdkwRNKTIyUzoEnugTzO2zR9YS4BTKdXyUP8d10jQDriU9h7U84OUIA/91FNmupz3UG60xmi56W0wBr8JmOlIOyFouhEDoPrUFIjs6oq8uK02fs9QFUflOs68Ub0ffVKY7MKbIiBdAYkW5OsEkKBd0bnAkhvIDLMK6j/UxQ2iUryEnK7eEIy+VJgnRrTcRg2ZtVoQdSltMQynNDb2HUsGj/MBFSvoK+kEPKKts1gkn02KJB3Sr22IO699pBy5zZB5fNbDv9LPXWneo9TeZpiWYnvD+nc5zt9EJifH2Ci2124y17eCZw8itpECYFvlB+hZmRy4/FIia18CCofhYM92PBcsXysCQP+VdXy7L011c2y1E9dy+QtLIxgExUdObVsHLoh/H1zmxdE76DPVcpueeknHgNoFrEsu4HAdi63Ig==;79vUXGk+BUJbsSD2KxeTIA=="
 ---

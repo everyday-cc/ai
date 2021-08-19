@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Now chat with Big B's voice on Amazon Alexa for Rs 149 in India"
-excerpt: "Amazon on Thursday said it has made India's first celebrity voice feature on Alexa available with the legendary Amitabh Bachchan, and"
-publishedDateTime: 2021-08-19T07:06:00Z
-originalUrl: "https://www.glamsham.com/world/technology/now-chat-with-big-bs-voice-on-amazon-alexa-for-rs-149-in-india"
-webUrl: "https://www.glamsham.com/world/technology/now-chat-with-big-bs-voice-on-amazon-alexa-for-rs-149-in-india"
-ampWebUrl: "https://www.glamsham.com/world/technology/now-chat-with-big-bs-voice-on-amazon-alexa-for-rs-149-in-india/amp"
-cdnAmpWebUrl: "https://www-glamsham-com.cdn.ampproject.org/c/s/www.glamsham.com/world/technology/now-chat-with-big-bs-voice-on-amazon-alexa-for-rs-149-in-india/amp"
+excerpt: "Users in India can add his amazing voice to their Alexa experience on Echo devices for an introductory price of Rs 149 for one year."
+publishedDateTime: 2021-08-19T10:45:00Z
+originalUrl: "https://www.business-standard.com/article/current-affairs/now-chat-with-big-b-s-voice-on-amazon-alexa-for-rs-149-in-india-121081900329_1.html"
+webUrl: "https://www.business-standard.com/article/current-affairs/now-chat-with-big-b-s-voice-on-amazon-alexa-for-rs-149-in-india-121081900329_1.html"
+ampWebUrl: "https://wap.business-standard.com/article-amp/current-affairs/now-chat-with-big-b-s-voice-on-amazon-alexa-for-rs-149-in-india-121081900329_1.html"
+cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/current-affairs/now-chat-with-big-b-s-voice-on-amazon-alexa-for-rs-149-in-india-121081900329_1.html"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: glamsham.com
-  domain: glamsham.com
+  name: Business Standard
+  domain: business-standard.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.glamsham.com/wp-content/uploads/2021/08/OpenGraph-Thumbnail.png"
+  - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2020-09/14/full/1600063066-272.jpg&width=1200"
     width: 1200
-    height: 675
+    height: 900
     isCached: true
 
 related:
@@ -122,6 +122,6 @@ related:
         height: 630
         isCached: true
 
-secured: "xwjDXtN7efzxlf9qA1t8rW0zgKjlhXaa3UkepB2ZXDvLng1F2s4gk5H1Og8ihVBvl5GubGvtjso7uObpifbPBHaQtbGX8QM3O3sl/XIOptZH3H1ro8+KsmAcx2SWruxy9vb47gwagMvsuklHHjuoPYRYbZxrD3zdNCrhq7oGK5MXRl/y0gOQ6082WNKcZW5Kj2Llwmq3wYHTHOaM1L9wCwL3hJEazcMz88DDeRMqnyEZirarHlpFa3sHnDW32kGwX020u8cgnQIUteJmVanmKPZbI9TDXDrczYfOGvQ5Fqd563yXmBubmWAuW10ovMUi1dOrRgGq6PYfpB7sMEW0nuGPmesm5WNrRNhzZ2UMRW0=;NN5QCn5XEnl5pWFIqsiO1g=="
+secured: "zfDHbekf9csyIoRiWSF3l7OPC8u3T+gwOLIoriWrRdLk6W0EImNKft2FHS6WAYxkMM5ULVBK0LSQRJALrUr5zkTdMHfRlfx1TawcLOLf4Pnwsv/k5YuNMNPweMrTCFZ0ZiobpGOErpfjvVjlp4niUQyahvgfYMRXhEWrsGjXKajT+GPJbgtW/Q6GZGxyq/lINMwOtCyrVmqnv6HTNSiy2V5U5YVu3E9Gf04zyPsrgQ5Ww5E9jETGhQ+LJq0wEZPdrbVPTlZ90GWmcxLhKxIohh6PF0xKKq1VcZdz/MXmi932kxW8vgU95X17UxFg6R+iHe/O18SEhvWbDCvv+tO2VFRbX4bIp+7xAvkSXpiZYyk=;LbIowhLN8TTKiCZOuj/89w=="
 ---
 

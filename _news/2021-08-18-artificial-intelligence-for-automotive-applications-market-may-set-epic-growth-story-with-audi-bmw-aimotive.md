@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2358326/artificial-intelligence-for-autom
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2358326/artificial-intelligence-for-automotive-applications-market"
 type: article
 quality: 55
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Auditoria.AI Named to Constellation ShortList for AI-Driven Cognitive ..."
+    excerpt: "SANTA CLARA, CA / ACCESSWIRE / August 18, 2021 / AUDITORIA.AI, a pioneer in AI-driven automation solutions for corporate finance teams, today announced it was named to the Constellation ShortList™ for AI-Driven Cognitive Applications in Q3 2021."
+    publishedDateTime: 2021-08-18T13:01:00Z
+    webUrl: "https://www.pr-inside.com/auditoria-ai-named-to-constellation-shortlist-for-ai-driven-cognitive-r4843691.htm"
+    type: article
+    provider:
+      name: PR-Inside
+      domain: pr-inside.com
+    quality: 38
+    images:
+      - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Auditoria.AI Named to Constellation ShortList for AI-Driven Cognitive Applications for the Second Consecutive Year"
     excerpt: "Exclusive List Solidifies Auditoria’s Transformative Approach to Cognitive Automation. SANTA CLARA, CA / ACCESSWIRE / August 18, 2021 / AUDITORIA.AI, a pioneer in AI-driven auto"
     publishedDateTime: 2021-08-18T13:01:00Z

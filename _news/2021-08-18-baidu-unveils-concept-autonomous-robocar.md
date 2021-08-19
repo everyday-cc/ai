@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/baidu-unveils-concept-auton
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/baidu-unveils-concept-autonomous-robocar/"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -102,6 +102,20 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F9%252F6%252F7%252F4%252F35964769-1-eng-GB%252F20210818N%2520Baidu%2520robocar.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
         width: 1024
         height: 512
+        isCached: true
+  - title: "Baidu unveils Level 5 self-driving vehicle"
+    excerpt: "Chinese technology company Baidu Inc has unveiled its first Level 5 (L5) fully autonomous driving vehicle this week at the...Read"
+    publishedDateTime: 2021-08-19T10:45:00Z
+    webUrl: "https://www.just-auto.com/news/baidu-unveils-level-5-self-driving-vehicle/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 39
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/08/Baidu_Co_founder_CEO_Robin_Li_CCTV_host_Beining_Sa_sit.jpg"
+        width: 1270
+        height: 846
         isCached: true
   - title: "China's Baidu Unveils a Level-5 Robocar With No Steering Wheel & Gull-Wing Doors That ‘Moves, Communicates & Learns'"
     excerpt: "China’s tech giant Baidu Inc held its annual flagship \"Baidu World 2021\" conference on Wednesday and once again revealed some of its advanced work on AI and autonomous driving. Among the highlights, Baidu Co-founder and CEO Robin Li unveiled his vision for mobility of the future in the form of a futuristic “robocar” designed to make autonomous vehicles more accessible to the broader public."

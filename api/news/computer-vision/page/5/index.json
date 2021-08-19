@@ -2,6 +2,101 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-07-12-algolux-closes-184-million-series-b-round-for-robust-computer-vision.md",
+      "title": "Algolux Closes $18.4 Million Series B Round for Robust Computer Vision",
+      "excerpt": "New investment will serve to accelerate market adoption of Algolux's robust and scalable computer vision and image optimization solutions",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/ap/ap-business/algolux-closes-18-4-million-series-b-round-for-robust-computer-vision/article_c3c021bc-8b02-577a-8ceb-1b73688e4a44.html",
+      "originalUrl": "https://www.wfmz.com/news/ap/ap-business/algolux-closes-18-4-million-series-b-round-for-robust-computer-vision/article_c3c021bc-8b02-577a-8ceb-1b73688e4a44.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-12T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-12-computer-vision-system-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-forecast-to-2021.md",
+      "title": "Computer Vision System Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News Forecast to 2021.",
+      "excerpt": "At the beginning of 2021, COVID-19 disease began to spread around the world, millions of people worldwide were infected",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-system-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-forecast-to-2021-2021-07-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-system-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-forecast-to-2021-2021-07-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-11T22:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-11-exynos-flagship-chipsets-a-history-of-samsungs-homegrown-silicon.md",
       "title": "Exynos flagship chipsets: A history of Samsung's homegrown silicon",
       "excerpt": "Samsung has used Exynos flagship chips for a long, long time, so we thought it would be a good idea to chart its history.",
@@ -1248,111 +1343,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-facial-recognition-tech-has-been-widely-used-across-the-us-government-for-years-a-new-report-shows.md",
-      "title": "Facial recognition tech has been widely used across the US government for years, a new report shows",
-      "excerpt": "(CNN Business)As George Floyd's death sparked protests in cities across the country, six federal agencies turned to facial-recognition software in an effort to identify people in images of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/2021/06/30/tech/government-facial-recognition-use-gao-report/index.html",
-      "originalUrl": "https://edition.cnn.com/2021/06/30/tech/government-facial-recognition-use-gao-report/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210629171548-03-capitol-riot-file-0106-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/30/tech/government-facial-recognition-use-gao-report/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/30/tech/government-facial-recognition-use-gao-report/index.html",
-      "publishedDateTime": "2021-06-30T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-us-agencies-must-track-which-facial-recognition-systems-they-use-report-says.md",
-      "title": "US agencies must track which facial recognition systems they use, report says",
-      "excerpt": "Several federal agencies don't know which systems their employees use, according to the Government Accountability Office.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/services-and-software/us-agencies-must-track-which-facial-recognition-systems-they-use-report-says/",
-      "originalUrl": "https://www.cnet.com/tech/services-and-software/us-agencies-must-track-which-facial-recognition-systems-they-use-report-says/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/gwmoAi0S4eDXJo6Rbg_tTnsJSgc=/1200x630/2020/05/01/bff6e427-0240-4ffd-bfbb-40db6bab6b46/security-facial-recognition-contact-tracing.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/us-agencies-must-track-which-facial-recognition-systems-they-use-report-says/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/us-agencies-must-track-which-facial-recognition-systems-they-use-report-says/",
-      "publishedDateTime": "2021-06-30T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

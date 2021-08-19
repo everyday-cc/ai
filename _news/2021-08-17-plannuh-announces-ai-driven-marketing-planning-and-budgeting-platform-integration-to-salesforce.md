@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/plannuh-announces-
 webUrl: "https://markets.businessinsider.com/news/stocks/plannuh-announces-ai-driven-marketing-planning-and-budgeting-platform-integration-to-salesforce-1030737894"
 type: article
 quality: 72
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Yext Announces Yext AI Search for Salesforce Service Cloud on Salesforce AppExchange, the World's Leading Enterprise Cloud Marketplace"
+    excerpt: "(NYSE: YEXT), the AI Search Company, today announced it has launched Yext AI Search on Salesforce AppExchange, empowering customers to transform the customer support experience for both agents and customers."
+    publishedDateTime: 2021-08-19T11:11:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/yext-announces-yext-ai-search-for-salesforce-service-cloud-on-salesforce-appexchange-the-world-s-leading-enterprise-cloud-marketplace-1030745200"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
+    images:
+      - url: "https://mma.prnewswire.com/media/1597691/SalesforceSFDC_Yext.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Imubit Announces $50 million in Total Funding to Expand its AI Process Optimization Platform"
     excerpt: "Imubit, the leader of artificial intelligence (AI) process optimization for refiners and chemical operators, has raised $50 million to bring its Closed-Loop Neural Networks to every process manufacturing plant around the globe."
     publishedDateTime: 2021-08-16T22:10:00Z

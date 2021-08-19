@@ -32,6 +32,20 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "Yext Announces Yext AI Search for Salesforce Service Cloud on Salesforce AppExchange, the World's Leading Enterprise Cloud Marketplace"
+    excerpt: "(NYSE: YEXT), the AI Search Company, today announced it has launched Yext AI Search on Salesforce AppExchange, empowering customers to transform the customer support experience for both agents and customers."
+    publishedDateTime: 2021-08-19T11:11:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/yext-announces-yext-ai-search-for-salesforce-service-cloud-on-salesforce-appexchange-the-world-s-leading-enterprise-cloud-marketplace-1030745200"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
+    images:
+      - url: "https://mma.prnewswire.com/media/1597691/SalesforceSFDC_Yext.jpg"
+        width: 400
+        height: 225
+        isCached: true
 
 secured: "e4rncmoK/GpjwWhj4kj2Ii+b1sXsSyb3oldu3aiMx0R1nTr3sN2qOW4JXremEYvnNNl+955NdYv91H6prs4ZfMRcTzGDwHb3LVbJWs49Rb0wi/cbsrOKep9MXHbjqQvxI2c9GjVPEdLE5uCkVeij+u/r1X6Kkfp/XIBa2LqTgC/4TpiznaRsdFSnk1dp4ydQq6qF21GTRsTtFw+JM/SqZc0iAq6q1Hh2dU+0y05LF2346YnxCpXuoh61SApSLZ9O6R7sF480SMywJGJ5rDqOg1xJF6aPe4zCRDSA0CeM4h1Why5cBGi8S0gj5T+CObCZEAGu4RgSLXQkc/vXUWKOIsvcNcVWxOIDQ1y7uGfBwjU=;2XvWU2776jXhjk+ASul5jA=="
 ---

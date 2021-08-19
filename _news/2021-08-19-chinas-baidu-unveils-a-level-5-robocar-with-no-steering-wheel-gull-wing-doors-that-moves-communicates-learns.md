@@ -113,6 +113,20 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Baidu unveils Level 5 self-driving vehicle"
+    excerpt: "Chinese technology company Baidu Inc has unveiled its first Level 5 (L5) fully autonomous driving vehicle this week at the...Read"
+    publishedDateTime: 2021-08-19T10:45:00Z
+    webUrl: "https://www.just-auto.com/news/baidu-unveils-level-5-self-driving-vehicle/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 39
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/08/Baidu_Co_founder_CEO_Robin_Li_CCTV_host_Beining_Sa_sit.jpg"
+        width: 1270
+        height: 846
+        isCached: true
 
 secured: "htjtRf6sb6xflbiCe01B43Z4dKCsoar6AjTlePQwXl329Lmb18nFXepLhd5nWX7Ce2Z2mia7OZLO6Hs/lM/Ip1gW1YONVauLRjpoWYE6PSchCm5HAd7BIlWoj1LgfSEOoYRi90VZFwQ4COoepkaVTd7yltcFyqQMt0kp+hS7SEMTofXmELqQmmvLZXMkr/3ImthzeDuiz1NipCPUMt8QbK5eW/lBXdt8QeiSbd6TtEPr/DPHrlv+XcyYnD1PR3wbU6zUND6akQmpK6D3SpMqUB5rSiXhCbzfpRkWzAzEmay/S7jrrSrxh1MYjvOT+Rm5hxYqPzD8uWp2SsM4q9XEXrNUH/6paIA9WKoinRS5j6TeRMgGE03jaxJSBEovml75tl3boyY9IeaEUn4WJkEIzKuM4nvimu/di7IEtLCaH5Fueefi6tuRYJszFyfkOv1KDj2KVR6iBi4m6fnB5dcler+sQ90DGhMUvPJ4nGd9w0DS1iCWIzCXD5y6kksjGmhp6yVWKonHt601Ck/ATh7TfQ==;WGl1i0zg62QqYPD88DbbZg=="
 ---

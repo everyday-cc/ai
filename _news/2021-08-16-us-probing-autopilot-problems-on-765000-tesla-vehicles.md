@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/u-s-probing-autopilot-problems-on-7
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/u-s-probing-autopilot-problems-on-765000-tesla-vehicles/"
 type: article
 quality: 159
-heat: 289
+heat: 299
 published: true
 
 provider:
@@ -148,6 +148,20 @@ related:
       - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Senators Urges FTC to Further Investigate Tesla's Self-Driving Claims"
+    excerpt: "Senators Ed Markey and Richard Blumenthal have reportedly called on the Federal Trade Commission to investigate Elon Musk ‘s electric vehicles company over its “misleading advertising and marketing” of the Autopilot and Full Self-Driving Systems."
+    publishedDateTime: 2021-08-19T08:51:00Z
+    webUrl: "https://hypebeast.com/2021/8/tesla-self-driving-claims-ftc-investigation-news"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 54
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F08%2Ftesla-self-driving-claims-ftc-investigation-news-tw.jpg?w=960&cbr=1&q=90&fit=max"
+        width: 960
+        height: 480
         isCached: true
   - title: "More than 750,000 Tesla self-driving cars could be RECALLED after Autopilot crashes"
     excerpt: "Tesla's Autopilot system is under investigation after a series of crashes involving parked emergency vehicles."

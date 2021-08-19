@@ -41,6 +41,20 @@ related:
         width: 450
         height: 300
         isCached: true
+  - title: "Auditoria.AI Named to Constellation ShortList for AI-Driven Cognitive ..."
+    excerpt: "SANTA CLARA, CA / ACCESSWIRE / August 18, 2021 / AUDITORIA.AI, a pioneer in AI-driven automation solutions for corporate finance teams, today announced it was named to the Constellation ShortList™ for AI-Driven Cognitive Applications in Q3 2021."
+    publishedDateTime: 2021-08-18T13:01:00Z
+    webUrl: "https://www.pr-inside.com/auditoria-ai-named-to-constellation-shortlist-for-ai-driven-cognitive-r4843691.htm"
+    type: article
+    provider:
+      name: PR-Inside
+      domain: pr-inside.com
+    quality: 38
+    images:
+      - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Artificial Intelligence-Emotion Recognition Market Experience a Tremendous Growth in Near Future | Realeyes, Softbank, INTRAface, CrowdEmotion, IBM"
     excerpt: "The ‘ Artificial Intelligence-Emotion Recognition market’ research report added by Report Ocean, is an in-depth analysis of the latest developments, market size, status, upcoming technologies, industry drivers,"
     publishedDateTime: 2021-08-17T23:12:00Z

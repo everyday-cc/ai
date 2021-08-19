@@ -1,30 +1,31 @@
 ---
 category: news
 title: "Musk's 'AI Day' confronts tough questions about Tesla's technology"
-excerpt: "Tesla CEO Musk is expected to reveal more about Tesla's \"Dojo\" computing system on Thursday, which he has said would process vast amounts of video data it obtains from Tesla vehicles on the road."
-publishedDateTime: 2021-08-19T00:43:00Z
-originalUrl: "https://www.foxbusiness.com/markets/elon-musk-tesla-ai-day-confronts-tough-questions-technology"
-webUrl: "https://www.foxbusiness.com/markets/elon-musk-tesla-ai-day-confronts-tough-questions-technology"
-ampWebUrl: "https://www.foxbusiness.com/markets/elon-musk-tesla-ai-day-confronts-tough-questions-technology.amp"
-cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/markets/elon-musk-tesla-ai-day-confronts-tough-questions-technology.amp"
+excerpt: "At Tesla's \"Autonomy Day\" event in April 2019, Chief Executive Elon Musk said that by mid-2020 Tesla (TSLA.O) would have over a million self-driving vehicles where riders \"could go to sleep\" during a trip."
+publishedDateTime: 2021-08-19T02:02:00Z
+originalUrl: "https://www.reuters.com/technology/musks-ai-day-confronts-tough-questions-about-teslas-technology-2021-08-18/"
+webUrl: "https://www.reuters.com/technology/musks-ai-day-confronts-tough-questions-about-teslas-technology-2021-08-18/"
 type: article
-quality: 76
+quality: 84
 heat: -1
 published: false
 
 provider:
-  name: Fox Business
-  domain: foxbusiness.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI Hardware
   - AI
   - AI in Autos
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cda2c4b9-302c-4a9c-a6ff-7ccd94b863c4/37687a85-2e7a-4ff3-b7cb-e60920b3755e/1280x720/match/image.jpg?pubId=854081161001"
-    width: 1280
-    height: 720
+  - url: "https://www.reuters.com/resizer/gQCbWlBrk4aRoBGlrduiXWv8Rzo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2MB6UJWVB5KMZA545NR5FCANH4.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
@@ -43,6 +44,22 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/6uz3Juf-UxS1whmCVmJrEE9PFCg=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69741387/acastro_180524_1777_tesla_0003.0.jpg"
         width: 1400
         height: 933
+        isCached: true
+  - title: "Tesla AI Day might rely on ‘one more thing’ moment to be impactful"
+    excerpt: "Tesla is holding its ‘AI Day’ today and the automaker might have to rely on a ‘one more thing’ moment for the presentation to be impactful and move the needle. Over the last few years, Tesla started holding events,"
+    publishedDateTime: 2021-08-19T10:07:00Z
+    webUrl: "https://electrek.co/2021/08/19/tesla-ai-day-one-more-thing-moment-impactful/"
+    ampWebUrl: "https://electrek.co/2021/08/19/tesla-ai-day-one-more-thing-moment-impactful/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/19/tesla-ai-day-one-more-thing-moment-impactful/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 106
+    images:
+      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2019/07/Tesla-snake-charger.png?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Elon Musk’s Plan To Tout Tesla AI Comes As Tougher Scrutiny Of The Company Looms"
     excerpt: "The company's AI Day takes place as NHTSA probes its Autopilot feature and as two Senators call for a Federal Trade Commission investigation of how Tesla promotes Autopilot and Full Self Driving."
@@ -129,6 +146,6 @@ related:
       domain: themarketherald.com.au
     quality: 71
 
-secured: "BcleksaX6ZeMdgwKJfZTsTShkm0rKrD5J2jix1aPp908gmUNc9iS1t3GuI0c80yoU+yuJAGhxrYcHDrDmNRy0x1lcV+cpVK7zrV65KmdVihvxgS+2xjVMW0HiJzxtpYzGAs0IIJ1CCGOfAFlDlz7TvTpuQffYZJNtf0IBgMa/AWj1hM1ndaQiksv3BVDWWhiDhIy4c61YZREJDD1ZeR/qWPAuyVU78GSAvSWOfIJE5Ee0n6VThqk6gs09RTrkNPORC3eIBDy/K+WluQlKXFTNaCXN3VSRueIotKaS8KxSXSYdMNf6tc8TIQXJX7CR3HlaAYpH+R34Fdky5ouIC/HYWxKePR6JViTWjqHUgJXVhw=;TvrrR9YSO31GqfL3AjrPsw=="
+secured: "DEuM+VZTXBpygagvV/Qlm7a7L/fcZ6qHc8sWGPvtIJDXRs3ftFDPktyFDLEk9LYrzlTMnP6F7kG1gGg2UsBFriS0w8nSwfbnOahLnCjdIO4oPkXVEz6fkWK8rAgISiPYQ+WE558UgtPuvVbQTKTtrcXmVxk5Mluu8/t88qTYorBvBNtas+m3BzJNlcJQf5k9j4l117kMnixxHIfevc5xAr34wpETh5Gt/70LTVflyh17kLDF/pZbWsZfLKIJCVFf9I3o073OACLZiit0cN+TXuPU5D6vvyp66owUxhXCpO9RoKmQG4gsqQxIUyB+QuMQcvzGXLvCwk2rEm1d1/vPjpeW5proMtDUQX0J+yDmNHc=;Fa00w3BCntHjSQFG7uvlCA=="
 ---
 

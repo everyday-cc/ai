@@ -2,6 +2,154 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-08-13-senators-ask-amazon-how-it-will-use-palm-print-data-from-its-stores.md",
+      "title": "Senators ask Amazon how it will use palm print data from its stores",
+      "excerpt": "Senators have asked Amazon's CEO how the company will use palm print data from One — they're concerned it might abuse the data..",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/senators-amazon-palm-print-data-investigation-134424558.html",
+      "originalUrl": "https://www.engadget.com/senators-amazon-palm-print-data-investigation-134424558.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-08/e62ca7f0-fc33-11eb-b3bb-37c2f81426cc",
+          "width": 1600,
+          "height": 1067,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/senators-amazon-palm-print-data-investigation-134424558.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/senators-amazon-palm-print-data-investigation-134424558.html",
+      "publishedDateTime": "2021-08-13T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-13-aiml-seen-as-crucial-to-battle-software-supply-chain-security-breaches.md",
+      "title": "AI/ML Seen as Crucial to Battle Software Supply Chain Security Breaches",
+      "excerpt": "Malware delivered via automatic software updates is a challenge for the digital supply chain serving a wide range of companies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aitrends.com/ai-in-business/ai-ml-seen-as-crucial-to-battle-software-supply-chain-security-breaches/",
+      "originalUrl": "https://www.aitrends.com/ai-in-business/ai-ml-seen-as-crucial-to-battle-software-supply-chain-security-breaches/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.aitrends.com/wp-content/uploads/2021/08/8-13SupplyChain-2.jpeg",
+          "width": 550,
+          "height": 309,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-13T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "aitrends",
+        "domain": "aitrends.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-08-13-why-ai-ethics-needs-to-address-ai-literacy-not-just-bias.md",
+      "title": "Why AI ethics needs to address AI literacy, not just bias",
+      "excerpt": "AI ethics is about more than just bias. That's why Red Hat's Noelle Silver is dedicated to spreading AI literacy.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/13/why-ai-ethics-needs-to-address-ai-literacy-not-just-bias/",
+      "originalUrl": "https://venturebeat.com/2021/08/13/why-ai-ethics-needs-to-address-ai-literacy-not-just-bias/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/Women-in-AI-Awards-1.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/13/why-ai-ethics-needs-to-address-ai-literacy-not-just-bias/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/13/why-ai-ethics-needs-to-address-ai-literacy-not-just-bias/amp/",
+      "publishedDateTime": "2021-08-13T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-13-global-machine-learning-accelerator-for-healthcare-report-forecast-to-2021-27-google-ibm-and-microsoft.md",
       "title": "Global Machine Learning Accelerator For Healthcare Report Forecast to 2021-27- Google, IBM, and Microsoft.",
       "excerpt": "The global Machine Learning Accelerator For Healthcare sector, it is forecasted to achieve a CAGR of xx% by the year end 2027. This growth rate will benefit the sector to achieve USD xx in 2027 , which is in 2020 valued at USD xx billion.",
@@ -1034,144 +1182,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-facial-recognition-ai-helps-save-multibillion-dollar-grape-crop.md",
-      "title": "Facial recognition AI helps save multibillion dollar grape crop",
-      "excerpt": "A radical collaboration between a biologist and an engineer is supercharging efforts to protect grape crops. The technology they've developed, using robotics and AI to identify grape plants infected with a devastating fungus,",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-08-facial-recognition-ai-multibillion-dollar.html",
-      "originalUrl": "https://phys.org/news/2021-08-facial-recognition-ai-multibillion-dollar.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/facial-recognition-ai.jpg",
-          "width": 670,
-          "height": 377,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-08-facial-recognition-ai-multibillion-dollar.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-08-facial-recognition-ai-multibillion-dollar.amp",
-      "publishedDateTime": "2021-08-12T09:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-why-machine-learning-models-fail.md",
-      "title": "Why machine learning models fail",
-      "excerpt": "Machine learning and data science are important tools in the tech industry. However, if they are used improperly, they may create more problems than they solve.",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/ai/why-machine-learning-models-fail/",
-      "originalUrl": "https://sdtimes.com/ai/why-machine-learning-models-fail/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2021/08/8-11-machine-learning-fail.jpeg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-12T09:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-4bgry-fdx-fedex-ground-installs-robotics-in-queens.md",
-      "title": "4BGRY, FDX : FedEx Ground Installs Robotics In Queens...",
-      "excerpt": "FedEx Ground has installed robotics solutions in its Queens, New York, facility to sort small packages that arrive in bulk for loading into containers bound for other hubs in",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/21/08/22471695/fedex-ground-installs-robotics-in-queens-plans-additional-facilities",
-      "originalUrl": "https://www.benzinga.com/news/21/08/22471695/fedex-ground-installs-robotics-in-queens-plans-additional-facilities",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/car-438029_1920_51.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/22471695",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22471695",
-      "publishedDateTime": "2021-08-12T09:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

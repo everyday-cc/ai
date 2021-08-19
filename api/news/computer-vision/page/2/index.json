@@ -2,6 +2,95 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-04-global-ai-in-computer-vision-market-anticipated-to-experience-constant-growth-during-2020-2026.md",
+      "title": "Global AI In Computer Vision Market anticipated to experience constant growth during 2020-2026",
+      "excerpt": "The research report titled “Global AI In Computer Vision Market anticipated to experience constant growth during 2020-2026” and published by “Zion Market Research” is an in-depth and dedicated scrutiny of the existing stats of the global AI In Computer Vision Market entailing the numerous facets pertinent to statistics and growth of the business.",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/global-ai-in-computer-vision-market-anticipated-to-experience-constant-growth-during-2020-2026/",
+      "originalUrl": "https://manometcurrent.com/global-ai-in-computer-vision-market-anticipated-to-experience-constant-growth-during-2020-2026/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mccourier.com/wp-content/uploads/2021/01/Global-AI-In-Computer-Vision-Market.jpg",
+          "width": 449,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-04T03:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-object-detection-with-tensorflow.md",
+      "title": "Object Detection, With TensorFlow",
+      "excerpt": "One of the tools that can be put to work in object recognition is an open source library called TensorFlow, which [Evan] aka [Edje Electronics] has put to work for exactly this purpose.",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2018/07/31/object-detection-with-tensorflow/",
+      "originalUrl": "https://hackaday.com/2018/07/31/object-detection-with-tensorflow/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2018/07/main3.png",
+          "width": 877,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2021-08-04-local-motors-selects-alwaysai-as-its-computer-vision-partner-for-automated-accessibility-features-and-enhanced-customer-experience-on-olli-20.md",
       "title": "Local Motors selects alwaysAI® as its Computer Vision partner for automated accessibility features and enhanced customer experience on Olli 2.0",
       "excerpt": "Local Motors and computer vision platform leader, alwaysAI ®, have announced a strategic partnership to bring advanced computer vision applications to Olli 2.0, Local Motors' autonomous electric vehicle.",
@@ -1219,103 +1308,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-maines-facial-recognition-law-shows-bipartisan-support-for-protecting-privacy.md",
-      "title": "Maine’s Facial Recognition Law Shows Bipartisan Support for Protecting Privacy",
-      "excerpt": "Now it's up to Congress to pass legislation that will protect all people in the United States from invasive surveillance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aclu.org/news/privacy-technology/maines-facial-recognition-law-shows-bipartisan-support-for-protecting-privacy/",
-      "originalUrl": "https://www.aclu.org/news/privacy-technology/maines-facial-recognition-law-shows-bipartisan-support-for-protecting-privacy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.aclu.org/news/images/share/default_fb_share.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-27T12:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Aclu.org",
-        "domain": "aclu.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-detect-small-shapes-and-objects-within-your-images-using-amazon-rekognition-custom-labels.md",
-      "title": "Detect small shapes and objects within your images using Amazon Rekognition Custom Labels",
-      "excerpt": "There are multiple scenarios in which you may want to use computer vision to detect small objects or symbols within a given image. Whether it’s detecting company logos on grocery store shelves to manage inventory, detecting informative symbols on documents, or evaluating survey or quiz documents that",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/detect-small-shapes-and-objects-within-your-images-using-amazon-rekognition-custom-labels/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/detect-small-shapes-and-objects-within-your-images-using-amazon-rekognition-custom-labels/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-27T09:10:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
       ]
     }
   ],

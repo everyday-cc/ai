@@ -9,7 +9,7 @@ ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-08-18/baidu-say
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-08-18/baidu-says-2nd-gen-kunlun-ai-chips-enter-mass-production?context=amp"
 type: article
 quality: 84
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -68,6 +68,20 @@ related:
       - url: "https://dealstreetwebsite.s3.amazonaws.com/uploads/2018/04/baidu-1.jpg"
         width: 976
         height: 551
+        isCached: true
+  - title: "Baidu's Kunlun II AI chips enter mass production"
+    excerpt: "Chinese tech giant Baidu has begun mass-producing its second generation of Kunlun artificial intelligence chips, used in its cloud data centers and smart electric vehicles. Baidu spun the Kunlun chip business out into an independent company earlier this year,"
+    publishedDateTime: 2021-08-19T11:50:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/baidus-kunlun-ii-ai-chips-enter-mass-production/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 39
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Baidu_headquarters.2e16d0ba.fill-1200x630.jpg"
+        width: 400
+        height: 211
         isCached: true
   - title: "Baidu announces mass production of 2nd generation Kunlun AI chip"
     excerpt: "Baidu announced the start of mass production of its second-generation Kunlun AI chip, Kunlun II, and also demonstrated industrial applications using Baidu AI Cloud at Baidu World 2021, its annual flagship technology conference."

@@ -60,20 +60,20 @@ related:
         height: 600
         isCached: true
   - title: "Now chat with Big B's voice on Amazon Alexa for Rs 149 in India"
-    excerpt: "Amazon on Thursday said it has made India's first celebrity voice feature on Alexa available with the legendary Amitabh Bachchan, and"
-    publishedDateTime: 2021-08-19T07:06:00Z
-    webUrl: "https://www.glamsham.com/world/technology/now-chat-with-big-bs-voice-on-amazon-alexa-for-rs-149-in-india"
-    ampWebUrl: "https://www.glamsham.com/world/technology/now-chat-with-big-bs-voice-on-amazon-alexa-for-rs-149-in-india/amp"
-    cdnAmpWebUrl: "https://www-glamsham-com.cdn.ampproject.org/c/s/www.glamsham.com/world/technology/now-chat-with-big-bs-voice-on-amazon-alexa-for-rs-149-in-india/amp"
+    excerpt: "Users in India can add his amazing voice to their Alexa experience on Echo devices for an introductory price of Rs 149 for one year."
+    publishedDateTime: 2021-08-19T10:45:00Z
+    webUrl: "https://www.business-standard.com/article/current-affairs/now-chat-with-big-b-s-voice-on-amazon-alexa-for-rs-149-in-india-121081900329_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/current-affairs/now-chat-with-big-b-s-voice-on-amazon-alexa-for-rs-149-in-india-121081900329_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/current-affairs/now-chat-with-big-b-s-voice-on-amazon-alexa-for-rs-149-in-india-121081900329_1.html"
     type: article
     provider:
-      name: glamsham.com
-      domain: glamsham.com
+      name: Business Standard
+      domain: business-standard.com
     quality: 44
     images:
-      - url: "https://www.glamsham.com/wp-content/uploads/2021/08/OpenGraph-Thumbnail.png"
+      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2020-09/14/full/1600063066-272.jpg&width=1200"
         width: 1200
-        height: 675
+        height: 900
         isCached: true
   - title: "Alexa users can now add Amitabh Bachchan's voice feature on their device"
     excerpt: "speech recognition, neural text-to-speech and more,\" Amazon India's country leader for Alexa Puneesh Kumar said."

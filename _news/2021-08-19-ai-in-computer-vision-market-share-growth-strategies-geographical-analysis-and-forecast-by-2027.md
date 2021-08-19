@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-ma
 webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-share-growth-strategies-geographical-analysis-and-forecast-by-2027-2021-08-18"
 type: article
 quality: 71
-heat: 161
+heat: 181
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence-based Security Market to Witness Notable Growth by 2027"
+    excerpt: "It covers how this COVID-19 pandemic affected each and every industry of the world. This Artificial Intelligence-based Security market report further proceeds with covering market trends, competitive analysis, growth factors, market size, forecast and ..."
+    publishedDateTime: 2021-08-19T10:10:00Z
+    webUrl: "https://www.openpr.com/news/2360272/artificial-intelligence-based-security-market-to-witness"
+    ampWebUrl: "https://www.openpr.com/amp/2360272/artificial-intelligence-based-security-market-to-witness"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2360272/artificial-intelligence-based-security-market-to-witness"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 70
+    images:
+      - url: "https://cdn.openpr.com/U/8/U819264200_g.jpg"
+        width: 600
+        height: 300
+        isCached: true
   - title: "Artificial Intelligence Market Size & Share by Sales Revenue, Demands, Growth Factors and Emerging Trends by 2027"
     excerpt: "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue"
     publishedDateTime: 2021-08-17T11:21:00Z
@@ -56,6 +72,22 @@ related:
     quality: 61
     images:
       - url: "https://cdn.openpr.com/U/8/U817239313_g.jpg"
+        width: 780
+        height: 470
+        isCached: true
+  - title: "Artificial Intelligence Plus Internet of Things (AIOT) Market Analysis by Trends, Technological Advancement, Forecast till 2027 & COVID-19 Effect"
+    excerpt: "This Artificial Intelligence Plus Internet of Things AIOT market analysis looks at the global market s current state and projected expansion from 2021 to 2027 It includes a summary of marketing research methodology as well as commercial potential In this"
+    publishedDateTime: 2021-08-19T10:11:00Z
+    webUrl: "https://www.openpr.com/news/2360270/artificial-intelligence-plus-internet-of-things-aiot-market"
+    ampWebUrl: "https://www.openpr.com/amp/2360270/artificial-intelligence-plus-internet-of-things-aiot-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2360270/artificial-intelligence-plus-internet-of-things-aiot-market"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 35
+    images:
+      - url: "https://cdn.openpr.com/U/8/U819795651_g.jpg"
         width: 780
         height: 470
         isCached: true

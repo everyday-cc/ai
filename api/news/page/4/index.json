@@ -2,6 +2,151 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-16-infervision-ai-assists-the-european-commission-monitoring-covid-19-variants.md",
+      "title": "InferVision AI Assists the European Commission Monitoring COVID-19 Variants",
+      "excerpt": "InferVision AI has been selected to help monitor COVID-19 variants across the European Union. Faced with this challenge, the European Commission decided to increase their investment in the adoption of AI tools from InferVision.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/infervision-ai-assists-the-european-commission-monitoring-covid-19-variants-1030734639",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/infervision-ai-assists-the-european-commission-monitoring-covid-19-variants-1030734639",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1595169/InferRead_CT.jpg",
+          "width": 400,
+          "height": 243,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-16T06:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-16-iim-ahmedabad-launches-centre-for-data-science-and-artificial-intelligence.md",
+      "title": "IIM Ahmedabad Launches Centre for Data Science and Artificial Intelligence",
+      "excerpt": "Ahmedabad has launched the Brij Disa Centre for Data Science and Artificial Intelligence (CDSA) to enable research in the field.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news18.com/news/education-career/iim-ahmedabad-launches-centre-for-data-science-and-artificial-intelligence-4091990.html",
+      "originalUrl": "https://www.news18.com/news/education-career/iim-ahmedabad-launches-centre-for-data-science-and-artificial-intelligence-4091990.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.news18.com/ibnlive/uploads/2021/08/iim-ahmedabad-162911098716x9.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news18.com/amp/news/education-career/iim-ahmedabad-launches-centre-for-data-science-and-artificial-intelligence-4091990.html",
+      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/iim-ahmedabad-launches-centre-for-data-science-and-artificial-intelligence-4091990.html",
+      "publishedDateTime": "2021-08-16T03:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN-News18",
+        "domain": "news18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-16-leveraging-on-fintech-to-solve-the-creditworthiness-issues-among-msmes-in-india.md",
+      "title": "Leveraging On Fintech To Solve the 'Creditworthiness' Issues Among MSMEs In India",
+      "excerpt": "The traditional lending cycle is time-consuming, involves excessive documentation including but not limited to registration proof, income proof, bank statement, business plan, MSME certificate, etc.,",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/380301",
+      "originalUrl": "https://www.entrepreneur.com/article/380301",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1629109807-austin-distel-EMPZ7yRZoGw-unsplash.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/380301",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/380301",
+      "publishedDateTime": "2021-08-16T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-16-mobilicom-launches-world-first-ai-based-360-cybersecurity-suite-for-drones-robotics.md",
       "title": "Mobilicom launches world-first AI-based 360° Cybersecurity Suite for drones, robotics",
       "excerpt": "First-ever AI-based 360° drone cybersecurity system that can detect, prevent, and respond to multiple cyber threats in real-time without requiring an operator• Designed specifically for industrial and commercial drones,",
@@ -728,10 +873,10 @@
     {
       "path": "_news/2021-08-14-mhs-robotics-wins-robotics-innovation-award.md",
       "title": "MHS Robotics Wins Robotics Innovation Award",
-      "excerpt": "Robotics Business Review’s RBR50 Robotics Innovation Awards have highlighted the most creative and influential innovations from around the world that have advanced the state of robotics. MHS Global is a full-service provider of innovative material handling systems that solve the challenges of distribution and fulfillment operations.",
+      "excerpt": "MHS, a single-source provider of material handling automation and software solutions, took home a 2021 RBR50 Innovation Award from Robotics Business Review for the multi-pick robotic end effector. Unlike end effectors that handle a single item at a time,",
       "sourceUrl": null,
-      "webUrl": "https://www.automation.com/en-us/articles/august-2021/mhs-robotics-wins-robotics-innovation-award",
-      "originalUrl": "https://www.automation.com/en-us/articles/august-2021/mhs-robotics-wins-robotics-innovation-award",
+      "webUrl": "https://www.automation.com/en-us/articles/august-2021/mhs-robotics-wins-robotics-innovation-award? Control News & Articles",
+      "originalUrl": "https://www.automation.com/en-us/articles/august-2021/mhs-robotics-wins-robotics-innovation-award? Control News & Articles",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1075,154 +1220,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-senators-ask-amazon-how-it-will-use-palm-print-data-from-its-stores.md",
-      "title": "Senators ask Amazon how it will use palm print data from its stores",
-      "excerpt": "Senators have asked Amazon's CEO how the company will use palm print data from One — they're concerned it might abuse the data..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/senators-amazon-palm-print-data-investigation-134424558.html",
-      "originalUrl": "https://www.engadget.com/senators-amazon-palm-print-data-investigation-134424558.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-08/e62ca7f0-fc33-11eb-b3bb-37c2f81426cc",
-          "width": 1600,
-          "height": 1067,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/senators-amazon-palm-print-data-investigation-134424558.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/senators-amazon-palm-print-data-investigation-134424558.html",
-      "publishedDateTime": "2021-08-13T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-aiml-seen-as-crucial-to-battle-software-supply-chain-security-breaches.md",
-      "title": "AI/ML Seen as Crucial to Battle Software Supply Chain Security Breaches",
-      "excerpt": "Malware delivered via automatic software updates is a challenge for the digital supply chain serving a wide range of companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aitrends.com/ai-in-business/ai-ml-seen-as-crucial-to-battle-software-supply-chain-security-breaches/",
-      "originalUrl": "https://www.aitrends.com/ai-in-business/ai-ml-seen-as-crucial-to-battle-software-supply-chain-security-breaches/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.aitrends.com/wp-content/uploads/2021/08/8-13SupplyChain-2.jpeg",
-          "width": 550,
-          "height": 309,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-13T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "aitrends",
-        "domain": "aitrends.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-why-ai-ethics-needs-to-address-ai-literacy-not-just-bias.md",
-      "title": "Why AI ethics needs to address AI literacy, not just bias",
-      "excerpt": "AI ethics is about more than just bias. That's why Red Hat's Noelle Silver is dedicated to spreading AI literacy.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/13/why-ai-ethics-needs-to-address-ai-literacy-not-just-bias/",
-      "originalUrl": "https://venturebeat.com/2021/08/13/why-ai-ethics-needs-to-address-ai-literacy-not-just-bias/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/Women-in-AI-Awards-1.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/13/why-ai-ethics-needs-to-address-ai-literacy-not-just-bias/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/13/why-ai-ethics-needs-to-address-ai-literacy-not-just-bias/amp/",
-      "publishedDateTime": "2021-08-13T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

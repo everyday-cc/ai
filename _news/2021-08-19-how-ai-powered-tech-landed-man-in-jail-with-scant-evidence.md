@@ -1,30 +1,28 @@
 ---
 category: news
 title: "How AI-powered Tech Landed Man In Jail With Scant Evidence"
-excerpt: "Williams was jailed last August, accused of murdering a young man from the neighborhood who asked him for a ride during a night of unrest over police brutality in May. But the key evidence against Williams didn’t come from an eyewitness or an informant;"
-publishedDateTime: 2021-08-19T08:55:00Z
-originalUrl: "https://www.timesunion.com/news/article/How-AI-powered-Tech-Landed-Man-In-Jail-With-Scant-16396942.php"
-webUrl: "https://www.timesunion.com/news/article/How-AI-powered-Tech-Landed-Man-In-Jail-With-Scant-16396942.php"
-ampWebUrl: "https://www.timesunion.com/news/amp/How-AI-powered-Tech-Landed-Man-In-Jail-With-Scant-16396942.php"
-cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/How-AI-powered-Tech-Landed-Man-In-Jail-With-Scant-16396942.php"
+excerpt: "Michael Williams’ wife pleaded with him to remember their fishing trips with the grandchildren, how he used to braid her hair, anything to jar him back to his world outside the concrete walls of Cook County Jail."
+publishedDateTime: 2021-08-19T04:05:00Z
+originalUrl: "https://apnews.com/7e3345485aa668c97606d4b54f9b6220"
+webUrl: "https://apnews.com/7e3345485aa668c97606d4b54f9b6220"
 type: article
-quality: 57
-heat: 57
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: Times Union
-  domain: timesunion.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://storage.googleapis.com/afs-prod/media/30b09fd23d1745e2b89cf69c5e676ec9/3000.jpeg"
+    width: 3000
+    height: 2000
     isCached: true
 
-secured: "o5W0QhRUe+y6DJGHfGdJ0jj7pU0yzqfQe2ItSCHkecjyTTYpuF4raO8uYhgOCNE75X1wz5Byjg6GDfEz4et95rv97pTbMi3SdHiE1PjnEWUm/awgwUdppftJ/J2zVxRFPTcuXJyAI0X0VMfODIEo9IihXxB0up3SVbWFYsqSj23QhSGcy+9whma1ZfcwWUeWLfvbXwztLK6O1XFeKYwYXsvII72++3U8nPzrSQtlLdc6MTjrb6fKLTay4cccnnq+uZDfqxTevMxKWldJl9ZpBAppNPYXAni1tQcKE0cxKyAyxlApSXwLlOibikCrW8+trQf4YLmeNlTs+aoz2FrzMo9K6bBJxc8mQkQy9VL0AyQ=;JJFbJxrs1sCtLFr/ZiBfvg=="
+secured: "8klLEPkilD/WZRPfNM05O32E96cOGdIQG8i45Y5F/dTMXobDIiLneNLAlKcisgpqFQb1o6EnJ6gwQU0N0tSx6LqHK6gi+ckAGXKU+3hNF8fwBUWhxQGtphjedBFYAY3c4f/5RRLaXQykugMkeugOkqluOoLg1hPKnUYFoGgHFJu6Kuqk7uOZ9pIuHOT4cetkaSjwt5DUsOsai9NYGBA3sqFThrFmIYkfL8IFHwDt7Bn16+fUzsYS4G5vQceyaB3KTJpoZ7Ebn7zp2sT/ooP+Hul5FY/vA+8wbBpjFwxG+P3oNEinXzi7RGAo+bijq361R1emihS3dFm67VdsgRU0IgcOIeRbvaDjCMKzW8tckm8=;lS21m2xZHq/SWLk9CqMdFg=="
 ---
 
