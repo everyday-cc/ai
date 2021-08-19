@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/8/18/22627101/tesla-event
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/8/18/22627101/tesla-event-ai-day-rumors-elon-musk-what-to-expect"
 type: article
 quality: 108
-heat: 158
+heat: 178
 published: true
 
 provider:
@@ -106,6 +106,33 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Dow Selloff, Nvidia, Tesla AI Day, Robinhood: 5 Things You Must Know Thursday"
+    excerpt: "\"That said, the start of tapering necessarily chips away at the tools at the Fed ... The stock dropped 11.73% to $43.96 early Thursday. Tesla's AI Day is invite-only and is expected to begin ..."
+    publishedDateTime: 2021-08-19T09:05:00Z
+    webUrl: "https://thestreet.com/markets/5-things-you-must-know-before-market-opens-thursday-081921"
+    ampWebUrl: "https://www.thestreet.com/.amp/markets/5-things-you-must-know-before-market-opens-thursday-081921"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/markets/5-things-you-must-know-before-market-opens-thursday-081921"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 73
+    images:
+      - url: "https://www.thestreet.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTcyMzQxNzA2MTY1OTIxNzMy/13-wells-fargo-roman-tiraspolsky--shutterstock.jpg"
+        width: 620
+        height: 349
+        isCached: true
+  - title: "Ahead of Tesla’s ‘AI Day’, Baidu unveils its next-gen AI chip"
+    excerpt: "Ahead of Tesla's 'AI Day', China's largest search engine company Baidu has unveiled its next-generation AI chip for autonomous vehicles."
+    publishedDateTime: 2021-08-18T21:47:00Z
+    webUrl: "https://themarketherald.com.au/ahead-of-teslas-ai-day-baidu-unveils-its-next-gen-ai-chip-2021-08-19/"
+    ampWebUrl: "https://themarketherald.com.au/ahead-of-teslas-ai-day-baidu-unveils-its-next-gen-ai-chip-2021-08-19/amp/"
+    cdnAmpWebUrl: "https://themarketherald-com-au.cdn.ampproject.org/c/s/themarketherald.com.au/ahead-of-teslas-ai-day-baidu-unveils-its-next-gen-ai-chip-2021-08-19/amp/"
+    type: article
+    provider:
+      name: The Market Herald
+      domain: themarketherald.com.au
+    quality: 71
 
 secured: "y4PEhKCvR05+kQfdk3fTAC6WGVkcr3SGlBpbdOPEIrlJykOwV8AodK9VRsZH6NlhCE0lJ7spK9Xnoy72dVd28ZEYdcABh/iAiLCFaW09LklpyhhmjyDnMmO4BprixzZbxzkn+wYqvfnW2yUJ0toMLFEl29cNXxfPfwquO+Unyj5MchG7nXxbvfo77Qmlb6et9qWIpz0qGm/k2H8luFOxrAAn4zqKHBtNeJbj3O6igJp8QxroHtjf3YT9Iz3jxPzA3hthQo03BM0tGcuQ2rNYk4GsANUecUp1s1h3mUF0Ubchl5LehVt46vNZBPUmi2el6pymFrLMzEQAlHjGqDY5bQ+RuNPMtNwY41ItYHKzfvwH29JeBjUtUZvsuX2YjAz4xhOZS+/KuIlWP0UltQSp3ha/pU3VjbkG1b55bQfmh+z4zG30W/7Feh07PpH1Tm/jA12o4Bwg4EUQdjJ1n2GJkju0uVTd0wIB8PtqM+I/y9Ow3oCEUQMJa9RFcU+sfnSM8XgQPgmxZKkMh15YhffHTQ==;qHEsaGeaZDqN+W7PgZRaWw=="
 ---

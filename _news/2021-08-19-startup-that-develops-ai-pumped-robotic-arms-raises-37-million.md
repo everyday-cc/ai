@@ -3,10 +3,10 @@ category: news
 title: "Startup That Develops AI-Pumped Robotic Arms Raises $37 Million"
 excerpt: "Rapid Robotics’ Series B was led by Kleiner Perkins and Tiger Global, and comes as labor and parts shortages are hitting the economy."
 publishedDateTime: 2021-08-18T17:39:00Z
-originalUrl: "https://www.wsj.com/articles/startup-that-develops-ai-pumped-robotic-arms-raises-37-million-11629311957"
-webUrl: "https://www.wsj.com/articles/startup-that-develops-ai-pumped-robotic-arms-raises-37-million-11629311957"
+originalUrl: "https://www.wsj.com/articles/startup-that-develops-ai-pumped-robotic-arms-raises-37-million-11629311957?tpl=vc"
+webUrl: "https://www.wsj.com/articles/startup-that-develops-ai-pumped-robotic-arms-raises-37-million-11629311957?tpl=vc"
 type: article
-quality: 84
+quality: 67
 heat: -1
 published: false
 
@@ -19,7 +19,6 @@ provider:
       height: 50
 
 topics:
-  - AI in Robotics
   - AI
 
 images:
@@ -60,6 +59,6 @@ related:
         height: 422
         isCached: true
 
-secured: "knrYr4/8m2P1x/jgnFanxVVAmoYkeqbsonsFWE9AIVZ5IRRH3PSA/LcRBQjqX1g9pPVVwaXnXTbl9ywz1zD8WXDvJxxwD7O1mypq1S+LrM7+o7Fanz20LliyerWx0RUoGifRehcvOXAQ+zAwASmfqmkwWCCv3Xm9MjeQ86oC8kEIzH5fIHhJsjPYGZceCUIWpEZD06OL8w+al67sRUsWfcgjwxAH6zlHhgJ+hR8Grcyd5+9+yRJj0pFsIR1JkPq4jn9vCcns9bVGrgoXCec4ux5fu5u44B1CWVUZTB+TfiFy1GzD70XhFIIOtTC1ur1WcjMgNs4CEMsHKCbV8JuHlQZsYfxWDGSHLKJZL2APgs2Nv/BNyxx/OCXgIiOJxiMaFRSWT0m3Rwuo4juQ6br1TS96uS286iImqHFsN6elQ262CbxOWBdqXtU/mNnyZWEZr1gSmCHhFt0oR1opvNdIwEWGCuLUWJnYk2l/WWTT6CYPMNcnS1nkA9E7iFScm/eoZBhol0zmtwjoSPZnIvhBdQ==;EZqvv7KW4RSCXBtGIFiDAw=="
+secured: "wbR1xiw3sduZUCCMX7DbE4K4qgctOSFRutCQMQLgPqqg3i2qmyMhEeZ90t9UOFTD+QMGPe3KNd5k9KBw1aDlLQgxohr2L+5WhnaGg2DW2tXwFf97BUnKv3rVG9+tARDeSxdWbVcgtgYwcCALfF2s57PzdMk0jMroe+H5ekz7N90mcCpK3wOtDQV5wzLL+zHrOShas/yny5QjbUd8Jy4ypi7wDTQFgjGh8aNk04p2WTLs2ODdxH3i7sM+KDSQshQKTw3N5oB7PoZx//lxa5MFww6M0csjr38YsXHXUNGDgCEgKMSLai8fWVggVVaSKZt0EA2VxDNGF19JKuv58QThi4MtmObnPz9yihdhz4Q6x5Y=;8EeqIooANemRUO+8hRRNXg=="
 ---
 

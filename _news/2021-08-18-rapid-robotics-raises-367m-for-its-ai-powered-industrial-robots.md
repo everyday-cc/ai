@@ -44,12 +44,12 @@ related:
   - title: "Startup That Develops AI-Pumped Robotic Arms Raises $37 Million"
     excerpt: "Rapid Robotics’ Series B was led by Kleiner Perkins and Tiger Global, and comes as labor and parts shortages are hitting the economy."
     publishedDateTime: 2021-08-18T17:39:00Z
-    webUrl: "https://www.wsj.com/articles/startup-that-develops-ai-pumped-robotic-arms-raises-37-million-11629311957"
+    webUrl: "https://www.wsj.com/articles/startup-that-develops-ai-pumped-robotic-arms-raises-37-million-11629311957?tpl=vc"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 84
+    quality: 67
     images:
       - url: "https://images.wsj.net/im-387697/social"
         width: 1280

@@ -2,23 +2,29 @@
 category: news
 title: "How AI-powered Tech Landed Man In Jail With Scant Evidence"
 excerpt: "Williams was jailed last August, accused of murdering a young man from the neighborhood who asked him for a ride during a night of unrest over police brutality in May. But the key evidence against Williams didn’t come from an eyewitness or an informant;"
-publishedDateTime: 2021-08-19T07:40:00Z
-originalUrl: "https://www.seattletimes.com/business/technology/how-ai-powered-tech-landed-man-in-jail-with-scant-evidence/"
-webUrl: "https://www.seattletimes.com/business/technology/how-ai-powered-tech-landed-man-in-jail-with-scant-evidence/"
-ampWebUrl: "https://www.seattletimes.com/business/technology/how-ai-powered-tech-landed-man-in-jail-with-scant-evidence/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/how-ai-powered-tech-landed-man-in-jail-with-scant-evidence/?amp=1"
+publishedDateTime: 2021-08-19T08:55:00Z
+originalUrl: "https://www.timesunion.com/news/article/How-AI-powered-Tech-Landed-Man-In-Jail-With-Scant-16396942.php"
+webUrl: "https://www.timesunion.com/news/article/How-AI-powered-Tech-Landed-Man-In-Jail-With-Scant-16396942.php"
+ampWebUrl: "https://www.timesunion.com/news/amp/How-AI-powered-Tech-Landed-Man-In-Jail-With-Scant-16396942.php"
+cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/How-AI-powered-Tech-Landed-Man-In-Jail-With-Scant-16396942.php"
 type: article
-quality: 37
-heat: 37
+quality: 57
+heat: 57
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: Times Union
+  domain: timesunion.com
 
 topics:
   - AI
 
-secured: "h/uzWKjSjVBOiYfbD5arPw+N3ziCJk4YOYQTPU6yuN/n3FxP+SGYKHFe7rnPC2Ocfx6PvgRP8IkqWzLjOyqLOjEYj0tpLYQS2PfwLTZ7T4A3oZlvCkfvKfbjPbddGzN4pDSUgNnx0ShejaWoVaaj0rzNHMTORmU93shz1vkMTkZ8VNoZ1AWmM9z3BEPxy4Vj3yQW8b8TktjVEuyIqU96+fxwOoq2wpa555G9VYzLPzC9N0uMSPzxJq7oYXNWurwZPBkaQAZ/26QChueAbqNIavhzFPodBqC3odqrNUbzqjAPlHle7oSvb38wVpqOHm/B5XKJydhDEYqQDlluTgDkUV9mSuSBd2M3XEVyFY+H34LirDvBFCKJeVo79NB8/C9dB1bcuS9iovuFDQ1t6ptfqC0VS8inqXsQCbtPo2Ej2MSvt91JEMEUbJ3djS7kVMdUNAwUMCdA/9ZXqt1f/8IwJD9Mn67X+/dwstal/Zrgi4hZbZS6OFmyYqt/5g8dcDXXSLDw6OLL2Q/OPdBICnKdAg==;zByS10qYeaq1VS6hSfIKsA=="
+images:
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
+    isCached: true
+
+secured: "o5W0QhRUe+y6DJGHfGdJ0jj7pU0yzqfQe2ItSCHkecjyTTYpuF4raO8uYhgOCNE75X1wz5Byjg6GDfEz4et95rv97pTbMi3SdHiE1PjnEWUm/awgwUdppftJ/J2zVxRFPTcuXJyAI0X0VMfODIEo9IihXxB0up3SVbWFYsqSj23QhSGcy+9whma1ZfcwWUeWLfvbXwztLK6O1XFeKYwYXsvII72++3U8nPzrSQtlLdc6MTjrb6fKLTay4cccnnq+uZDfqxTevMxKWldJl9ZpBAppNPYXAni1tQcKE0cxKyAyxlApSXwLlOibikCrW8+trQf4YLmeNlTs+aoz2FrzMo9K6bBJxc8mQkQy9VL0AyQ=;JJFbJxrs1sCtLFr/ZiBfvg=="
 ---
 

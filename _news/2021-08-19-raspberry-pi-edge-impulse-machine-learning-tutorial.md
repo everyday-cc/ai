@@ -6,8 +6,8 @@ publishedDateTime: 2021-08-19T07:18:00Z
 originalUrl: "https://www.geeky-gadgets.com/raspberry-pi-edge-impulse-machine-learning-19-08-2021/"
 webUrl: "https://www.geeky-gadgets.com/raspberry-pi-edge-impulse-machine-learning-19-08-2021/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/08/Raspberry-Pi-Edge-Impulse-machine-learning.jpg"
@@ -24,6 +25,6 @@ images:
     height: 450
     isCached: true
 
-secured: "6qnsVQk1WzSoiFfoL4dcOO7+zy6RMOPrdfc/1DRTYLZ8PzoEdMpo17ngqPym/eSJvSYbNL0h26xQOGAHvzbdX2OB7CQm8SOYJ3891IzUsQNJEEnc+X92LnqsRr3HyQNJuSMbk7SG8RqOQgUMnVDLNki/CmByYjZgYjUpAdP7BjXqQMHuNv2ZdmKDcjV2ZZ9npk1IndZhz/bxLXRqTyPLPKW/tom2fpJOCXmd4kq58K7Bz3Dph4G/0RiVhbOmjb4aMbT+4++WznGYzmvF8DJ2uqAZKjymg8r7/OwpalrGjdWJmrbgL5F3wP02+hm0DpJkqfck1g90svXbM2cfBeJDOxX3BHjvNvKevn1lYXcXPPA=;ou53txkD1ZH2v1xSo65fXA=="
+secured: "8V6kCS3kr1KhAKnmGHH1S3V5lxd/S4m5+nAgiQaJAUDsw/IiP53KbgtvfweAlGtuJdGJe+Agu5EHvxGkpq83xnEa/m07+N5QknmGpdDdZk8APl+f60gvkM7Bx0sTK1a0U+L5+A59g+g+baimvToxow+IffTPbzsGdMsTnG6ZgaWIx7NazkFDOsBovnz7pCyHPTFxspQmEZwPyJl1BzeL9xj8SFJLS1Dx5p+RdPJV5ipo8HwqbzWwlb/5lQQmIXkvz5kUZBtHy+TfjRUNJ08nL+ccw24SwIiffsuzVzL0QdqTz3xUF8Q+Hx3rlOGKmEiei8dIt8xZ5Hg9oHr2xtbLqBCgg1CIOr1cKj7+nnPbBbJx47zBHZe8mBcHUDQ0Clxirdgox720cpCmd1nPaBLvDWXs9GfEBJlXS1GcxYL27iXpCXfbAxlwkwvYyVFBW4HqK3KYYc6B+S7MTdt8XwKIcU34Z3wxuJsrtKYJkNN7av+efEus3ZQlWc+w9t+yMKMFdcZDZEVyzkh6ZvWy+Iau2g==;KME3BOPlxNa1CcbzJklZjg=="
 ---
 

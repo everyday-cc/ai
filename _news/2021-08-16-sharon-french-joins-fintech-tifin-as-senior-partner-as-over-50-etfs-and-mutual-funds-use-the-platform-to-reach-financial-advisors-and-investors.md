@@ -71,6 +71,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Africa: the fintech Pngme raises $15 million to continue its development on the African continent"
+    excerpt: "PNGme, an African fintech that leverages AI to facilitate the collection and analysis of banking data PNGme is a US-based fintech with a presence in Nigeria as well as Kenya. It is developing a financial data infrastructure as well as a machine learning ..."
+    publishedDateTime: 2021-08-19T09:34:00Z
+    webUrl: "https://www.actuia.com/english/africa-the-fintech-pngme-raises-15-million-to-continue-its-development-on-the-african-continent/"
+    type: article
+    provider:
+      name: Actu IA
+      domain: actuia.com
+    quality: 26
+    images:
+      - url: "https://www.actuia.com/wp-content/uploads/2021/08/PNGme.jpg"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "Fintech startup Pngme raises $15m Series A funding to power the future of financial services in Africa"
+    excerpt: "Fintech startup Pngme raised $15 million in Series A funding as the company sets out to grow its financial data infrastructure and machine learning-as-a-service platform for financial institutions and fintechs across sub-Saharan Africa."
+    publishedDateTime: 2021-08-19T08:27:00Z
+    webUrl: "https://africabusinesscommunities.com/tech/tech-news/fintech-startup-pngme-raises-15m-series-a-funding-to-power-the-future-of-financial-services-in-africa/"
+    type: article
+    provider:
+      name: africabusinesscommunities.com
+      domain: africabusinesscommunities.com
+    quality: 23
+    images:
+      - url: "https://adserver.20nine.nl/www/delivery/avw.php?zoneid=30&n=5f0197a"
+        width: 336
+        height: 280
+        isCached: true
 
 secured: "nFZlKlHs6woTNLKmun73fbAbJY70l7UXAA9NxpIazC9d1FP20kOkgzqqLpZVb0kf5V6VijtD3qyoMpbJS9l0shDGi/5eBXtxXAdq4ckOL4FwKnuiGnI28d4RpyymOiPK5t7drXp95H2FdwlorPOcpKlSs/GCqL9NqOTdfasbKUekgP2fTY+SVU+CQylmSvAcbIcclpcavdlcPZKPmKU2nB3Y/kFnxTCnPlRUiD7caOJiKkse4CIfKqLQae7dYui+cI3QJ9lCTSvdg7DlQ7HES4Y7M2RlbubQHs24NVu/zyTE6ifRMFeRxege6fu0yjUG9cX4Ft7SDWyK2EH0Gr4zetmYFvIOzfnG5BtPWuxiBfWQkZnctOoQDhuvARcGqxiryxNGF0JW7SL76pKqeS/R//3fIS33PT+rBPCB4Gkra67Ll1TOrJV5+xtKyrmc3hw/r1iqHRYpbDNH5QbQ1UqPzhtMDjq1+SIJNj0wekH245y1fKWPhdBh9KKETMtZP+M71+mcBjZm0art1ATbMlm2hg==;WswxGcW7lRHKYDtaAP+LlA=="
 ---

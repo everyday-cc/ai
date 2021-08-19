@@ -2,6 +2,92 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-07-24-usa-facial-recognition-in-use-at-major-chains-without-customer-knowledge.md",
+      "title": "USA: Facial recognition in use at major chains without customer knowledge",
+      "excerpt": "From Macy’s to Ace Hardware, facial recognition is already everywhere”, 15 July 2021. Some of the US’s most popular stores — including Macy’s and Ace Hardware — are using facial recognition on their customers,",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-humanrights.org/en/latest-news/united-states-facial-recognition-in-use-at-major-chains-without-customer-knowledge/",
+      "originalUrl": "https://www.business-humanrights.org/en/latest-news/united-states-facial-recognition-in-use-at-major-chains-without-customer-knowledge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.business-humanrights.org/media/images/united-nations-419885_1280.2e16d0ba.fill-788x488.jpg",
+          "width": 788,
+          "height": 488,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-23T14:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "洗護用品和肥皂",
+        "domain": "business-humanrights.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-24-with-full-self-driving-available-on-demand-be-wary-of-any-and-all-teslas.md",
+      "title": "With Full Self-Driving available on demand, be wary of any and all Teslas",
+      "excerpt": "Tesla released its Full Self-Driving advanced driving assistance mode as part of a subscription available to almost every Tesla driver in the U.S.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/tesla-full-self-driving-mode-subscription-warning",
+      "originalUrl": "https://mashable.com/article/tesla-full-self-driving-mode-subscription-warning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/05VpQKwqzrrr1dfizwOYgSv/hero-image.fill.size_1200x675.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-23T12:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-24-dazzled-by-the-sun-nasa-taps-ai-to-give-its-solar-telescope-an-eye-test.md",
       "title": "Dazzled by the Sun, NASA taps AI to give its solar telescope an eye-test",
       "excerpt": "Staring at the Sun is ill-advised if you want to keep your eyesight, but NASA’s solar telescopes have some sneaky ways to avoid burn-out as the space agency gleans vital information about",
@@ -1086,94 +1172,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-ai-governance-market-predictions-with-covid-19-analysis-key-players-ibm-google-facebook-aws.md",
-      "title": "Ai Governance Market Predictions With Covid-19 Analysis, Key Players – IBM, Google, Facebook, AWS.",
-      "excerpt": "To avail Sample Copy of report, visit @  Key Companies Operating in this Market IBM Google Facebook AWS Microsoft Salesforce.com SAP FICO 2021.AI ZestFinance SAS Institute Pymetrics H2O.AI integrate.ai Market by Application BFSI Healthcare and Life Sciences Government and Defense Retail and Car This report is wide in concept and content right from Ai Governance market In addition to CAGR,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/ai-governance-market-predictions-with-covid-19-analysis-key-players-ibm-google-facebook-aws/",
-      "originalUrl": "https://manometcurrent.com/ai-governance-market-predictions-with-covid-19-analysis-key-players-ibm-google-facebook-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ksusentinel.com/wp-content/uploads/2021/05/300-x-300-pixel.jpg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-23T01:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-robotics-ai-why-the-uk-must-stage-a-skills-intervention.md",
-      "title": "Robotics & AI - why the UK must stage a skills intervention",
-      "excerpt": "A new white paper on plugging the robotics and AI skills gap in the UK is published, but what’s really needed is a complete change of attitude.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/robotics-ai-why-uk-must-stage-skills-intervention",
-      "originalUrl": "https://diginomica.com/robotics-ai-why-uk-must-stage-skills-intervention",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2021-07/D844DC4C-8A53-464F-932D-D27E444308F0.jpeg",
-          "width": 640,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/robotics-ai-why-uk-must-stage-skills-intervention?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/robotics-ai-why-uk-must-stage-skills-intervention?amp",
-      "publishedDateTime": "2021-07-23T01:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI Ethics"
       ]
     }
   ],

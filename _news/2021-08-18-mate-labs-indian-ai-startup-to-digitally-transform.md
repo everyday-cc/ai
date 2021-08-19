@@ -56,6 +56,22 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Mate Labs, Indian AI startup, to digitally transform Luminous Power Technologies' Supply Chain"
+    excerpt: "Mateverse is a full-scale AI and ML-based forecasting platform that can dynamically predict end-customer demands while avoiding inefficiencies caused by supply and demand misalignment across business"
+    publishedDateTime: 2021-08-19T09:41:00Z
+    webUrl: "https://www.timesnownews.com/technology-science/article/mate-labs-indian-ai-startup-to-digitally-transform-luminous-power-technologies-supply-chain/801116"
+    ampWebUrl: "https://www.timesnownews.com/amp/technology-science/article/mate-labs-indian-ai-startup-to-digitally-transform-luminous-power-technologies-supply-chain/801116"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/technology-science/article/mate-labs-indian-ai-startup-to-digitally-transform-luminous-power-technologies-supply-chain/801116"
+    type: article
+    provider:
+      name: timesnownews.com
+      domain: timesnownews.com
+    quality: 45
+    images:
+      - url: "https://imgk.timesnownews.com/story/Mate_Labs_Mateverse2021081809214520210818092816.jpg?tr=w-400,h-300,fo-auto"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Luminous Power Technologies To Digitally Transform its Supply Chain With Indian AI Start-up Mate Labs"
     excerpt: "Luminous Power Technologies selected Mate Labs’ flagship product Mateverse to strengthen its supply chain against a potential Covid third wave. Mateverse is a full-scale AI and ML-based forecasting pl"
     publishedDateTime: 2021-08-18T08:42:00Z
@@ -70,15 +86,6 @@ related:
         width: 610
         height: 380
         isCached: true
-  - title: "Mate Labs, Indian AI startup, to digitally transform Luminous Power Technologies' Supply Chain"
-    excerpt: "Luminous Power Technologies, India's market leader in power backup and home electricals, today selected Mate Labs' flagship product Mateverse to strengthen its supply chain against a potential Covid third wave."
-    publishedDateTime: 2021-08-18T22:15:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20210818/3805004.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 5
 
 secured: "ma+VpmEzXUSMZ/SNSPcCmow38k68GaCJzgSRvRbAP0A/+kjB+bEqcZtzeupM1AelvAQPHlhDB2dBWbH2a93dx8q6U1PMQj2ZSFu72uAeGkrwbRNCm/Yqerwpss2sITegvrAquN54jpg0KXAgKnFsW6/a9T3bDrCLZDjos7nm3U7XQW9cIyeJDtGg3ok2VQ+WHUCE1eZiatixtRyUMZirwWD7RMv1kvcWCHeJUbYwX5bqne6EhXPd847j90QkvAbZSXlQFrIpRPOAdK6MHoQZYhsb76T9mbtkutrb2TSDZPpPUDXFYT1nDMdzFIpBQA0xdHL/wFHT/Q3PPye+cJfAq+exfNMkQZ/zTQvdYgjugUhM3uv+t7w38E2oxGfiWjCFAtH8Fh1EhfSXdIp/gBcXnZcryJ0+4NXIIY18jPfwd6vrA+iqqiqSZZ/pVZ0OW33OfL3qlbejghyoRLtz0mHB3hlYvpg0yIk3FmCIr6mfzhmq9aDzt7fdGKOG+bDT1wBcILGRL6tOByipk2cNiH9KtQ==;k/vzZbSKWmbzHLDLuSbfBw=="
 ---

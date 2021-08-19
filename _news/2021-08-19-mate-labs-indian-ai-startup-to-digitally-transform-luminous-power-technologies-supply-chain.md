@@ -1,21 +1,29 @@
 ---
 category: news
 title: "Mate Labs, Indian AI startup, to digitally transform Luminous Power Technologies' Supply Chain"
-excerpt: "Luminous Power Technologies, India's market leader in power backup and home electricals, today selected Mate Labs' flagship product Mateverse to strengthen its supply chain against a potential Covid third wave."
-publishedDateTime: 2021-08-18T22:15:00Z
-originalUrl: "https://news.webindia123.com/news/Articles/Business/20210818/3805004.html"
-webUrl: "https://news.webindia123.com/news/Articles/Business/20210818/3805004.html"
+excerpt: "Mateverse is a full-scale AI and ML-based forecasting platform that can dynamically predict end-customer demands while avoiding inefficiencies caused by supply and demand misalignment across business"
+publishedDateTime: 2021-08-19T09:41:00Z
+originalUrl: "https://www.timesnownews.com/technology-science/article/mate-labs-indian-ai-startup-to-digitally-transform-luminous-power-technologies-supply-chain/801116"
+webUrl: "https://www.timesnownews.com/technology-science/article/mate-labs-indian-ai-startup-to-digitally-transform-luminous-power-technologies-supply-chain/801116"
+ampWebUrl: "https://www.timesnownews.com/amp/technology-science/article/mate-labs-indian-ai-startup-to-digitally-transform-luminous-power-technologies-supply-chain/801116"
+cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/technology-science/article/mate-labs-indian-ai-startup-to-digitally-transform-luminous-power-technologies-supply-chain/801116"
 type: article
-quality: 5
+quality: 45
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: timesnownews.com
+  domain: timesnownews.com
 
 topics:
   - AI
+
+images:
+  - url: "https://imgk.timesnownews.com/story/Mate_Labs_Mateverse2021081809214520210818092816.jpg?tr=w-400,h-300,fo-auto"
+    width: 400
+    height: 300
+    isCached: true
 
 related:
   - title: "AI startup Mate Labs to digitally transform Luminous Power Technologies' supply chain"
@@ -79,6 +87,6 @@ related:
         height: 380
         isCached: true
 
-secured: "auqXZ9uomxBqu2braOshHt8X1cDMs5O6qDtcon99RiZVN0gd3w/3Tk4mqongHcKR+j8ULm7q0LcaB349ahW60ctDOWEnLpSHPbMOLMDNzRHO3/82HQCM25tFoIDRBmdSunTZj2PWRPQV99GUuOMIypRdJlfQPKkUww8E68WMz6MsM0kVy4NZT4dtSQrgJyDScBXg68VGCys6CUE2XenoMXUV+NbHaVyDujEYC3ZJIrP3YI1vF/NXjbRn2oqJb4oDd9gcZiX1KlQaZeVcT0Dqa117h2jd+emevDDY29b5hz/llLMwCFnxT0DsCOGegaCz3TcjgFt30YctFfwXUPViZB9KpgtEjSWstzgpJUFZV+Q=;6zTls90W/44796HYCsTIoA=="
+secured: "p/u5ZdleEYXym3mI3G7Ow0qmRy/gJCmBAqxNMa591OTOgdtuyd9yDoxVecmfgVLQtVc+3v9QAGdGpvKLF+WbtBIJIXgaIIdejAhyL21h203R2oih/3eS5Tt+MCUYTrE5nWKjhdU4pkckJVDI4uU2CqqpvyGLXv5HnM74PI1WqAw5/zJU1KZOK4vhvXTJAXcTqVloy1XqKPayinN5w+qhs5Zmb5gtwErDsaDL4aEeCOoshKoJZegoittiZJ94KMWvi88yT9VWaKRMw4lL7L0GcmT/rf/nniD6WeEcxt8MiOkv0K7hmhRtT5ZnQg1vmO4kFHyY3kmQSH9x6OQ7sVvWF1j2JQ88JSf6qr+4DFFTX+w=;7n2cDkXFkOSW96cpTYYv/A=="
 ---
 

@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 702
         isCached: true
+  - title: "Amitabh Bachchan joins Amazon Alexa as its first Indian celebrity voice"
+    excerpt: "After “Avengers” star Samuel L. Jackson, Amazon now brings us Amitabh Bachchan on Alexa, Amazon's own virtual assistant."
+    publishedDateTime: 2021-08-19T09:13:00Z
+    webUrl: "https://thetechportal.com/2021/08/19/amitabh-bachchan-joins-amazon-alexa-as-its-first-indian-celebrity-voice/"
+    ampWebUrl: "https://thetechportal.com/2021/08/19/amitabh-bachchan-joins-amazon-alexa-as-its-first-indian-celebrity-voice/?amp"
+    cdnAmpWebUrl: "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/2021/08/19/amitabh-bachchan-joins-amazon-alexa-as-its-first-indian-celebrity-voice/?amp"
+    type: article
+    provider:
+      name: thetechportal.com
+      domain: thetechportal.com
+    quality: 44
+    images:
+      - url: "https://thetechportal.com/wp-content/uploads/2021/08/alexa-introduce-me-to-amitabh-bachchan.jpg"
+        width: 650
+        height: 488
+        isCached: true
   - title: "Now chat with Big B's voice on Amazon Alexa for Rs 149 in India"
     excerpt: "Amazon on Thursday said it has made India's first celebrity voice feature on Alexa available with the legendary Amitabh Bachchan, and"
     publishedDateTime: 2021-08-19T07:06:00Z
@@ -58,6 +74,38 @@ related:
       - url: "https://www.glamsham.com/wp-content/uploads/2021/08/OpenGraph-Thumbnail.png"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Alexa users can now add Amitabh Bachchan's voice feature on their device"
+    excerpt: "speech recognition, neural text-to-speech and more,\" Amazon India's country leader for Alexa Puneesh Kumar said."
+    publishedDateTime: 2021-08-19T09:41:00Z
+    webUrl: "https://www.businesstoday.in/technology/news/story/alexa-users-can-now-add-amitabh-bachchans-voice-feature-on-their-device-304581-2021-08-19"
+    ampWebUrl: "https://www.businesstoday.in/amp/technology/news/story/alexa-users-can-now-add-amitabh-bachchans-voice-feature-on-their-device-304581-2021-08-19"
+    cdnAmpWebUrl: "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/technology/news/story/alexa-users-can-now-add-amitabh-bachchans-voice-feature-on-their-device-304581-2021-08-19"
+    type: article
+    provider:
+      name: Business Today
+      domain: businesstoday.in
+    quality: 43
+    images:
+      - url: "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202108/alexa-sixteen_nine.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Amitabh Bachchan Becomes India’s First Celebrity Voice For Amazon’s Alexa"
+    excerpt: "Amazon has announced India’s first celebrity voice feature on Alexa with the bollywood actor Amitabh Bachchan. Indian customers can include Bachchan’s voice to their Alexa exp"
+    publishedDateTime: 2021-08-19T09:54:00Z
+    webUrl: "https://inc42.com/buzz/amitabh-bachchan-becomes-indias-first-celebrity-voice-for-alexa/"
+    ampWebUrl: "https://inc42.com/buzz/amitabh-bachchan-becomes-indias-first-celebrity-voice-for-alexa/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/amitabh-bachchan-becomes-indias-first-celebrity-voice-for-alexa/amp/"
+    type: article
+    provider:
+      name: inc42.com
+      domain: inc42.com
+    quality: 43
+    images:
+      - url: "https://inc42.com/wp-content/uploads/2021/08/Untitled-design-33.png"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Amazon Echo adds Amitabh Bachchan's voice"
     excerpt: "Puneesh Kumar, country leader for Alexa, Amazon India, said, \"At Amazon and Alexa, we consistently innovate on behalf of our customers and building the Amitabh Bachchan celebrity voice experience with one of India’s most iconic voices has been a labour of love."

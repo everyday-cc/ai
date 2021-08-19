@@ -8,8 +8,8 @@ webUrl: "https://www.openpr.com/news/2359893/artificial-intelligence-ai-chipsets
 ampWebUrl: "https://www.openpr.com/amp/2359893/artificial-intelligence-ai-chipsets-market-trends-2019"
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2359893/artificial-intelligence-ai-chipsets-market-trends-2019"
 type: article
-quality: 39
-heat: 39
+quality: 56
+heat: 66
 published: false
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - Natural Language Processing
   - AI
   - Machine Learning
+  - AI Hardware
 
 related:
   - title: "Artificial Intelligence (AI) Chipset Market by Technological Advancements and Business Outlook 2021"

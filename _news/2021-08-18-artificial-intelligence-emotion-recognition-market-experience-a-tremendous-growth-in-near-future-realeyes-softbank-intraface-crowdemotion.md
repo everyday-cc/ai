@@ -35,6 +35,20 @@ related:
         width: 450
         height: 300
         isCached: true
+  - title: "Auditoria.AI Named to Constellation ShortList for AI-Driven Cognitive Applications for the Second Consecutive Year"
+    excerpt: "Exclusive List Solidifies Auditoria’s Transformative Approach to Cognitive Automation. SANTA CLARA, CA / ACCESSWIRE / August 18, 2021 / AUDITORIA.AI, a pioneer in AI-driven auto"
+    publishedDateTime: 2021-08-18T13:01:00Z
+    webUrl: "https://apnews.com/press-release/accesswire/technology-business-fc2f302c0629473e2c0b88fc3dc0c316"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 17
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "UXEF62YigYX61LyPOuK7wF++vKEObnhFoqMCZVRvwZSIWKYIK0mi9q+JCHIpe0W3EecBcJyx76jVEmmOgGcR/qbhSiNuWH2GtDd8GH7YcnYDfQx3XIpMW0oEPHwFwTPzxdjp7OxfvBVQwAZN8SBkkR8LfJKrnV593DKmXs3ZIyb5bDpdmsOz+A1tzsVGlYUKPMNV24SXUl6Kjkx9avKs3ZlcmRtgJ9KUSkSe0UoE6RsFPpAtHwyIP09fcLTReuBH9hdRV/GqIHKYjJA73VWH7XffeBqEOgewnBQCYkn6aXsqjdfLI5TBbwo66sU1Mgm8GH03WYFIW1XdobDqx9SoIU5lZgfAzwfLXc+kBfisZgg=;iuISjVg3YvLgB4TF7DHH0g=="
 ---

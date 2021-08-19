@@ -55,6 +55,22 @@ related:
         width: 400
         height: 266
         isCached: true
+  - title: "Baidu boss Robin Li unveils 'robocar', his vision for the future of autonomous driving"
+    excerpt: "“Baidu has an edge in developing self-driving cars [because of] its Apollo platform,” said Peter Chen, an engineer with car components company ZF TRW in Shanghai. “The industry is keen to know to what extent its models can turn out to be autonomous."
+    publishedDateTime: 2021-08-19T02:29:00Z
+    webUrl: "https://www.asiaone.com/digital/baidu-boss-robin-li-unveils-robocar-his-vision-future-autonomous-driving"
+    ampWebUrl: "https://www.asiaone.com/digital/baidu-boss-robin-li-unveils-robocar-his-vision-future-autonomous-driving?amp"
+    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/digital/baidu-boss-robin-li-unveils-robocar-his-vision-future-autonomous-driving?amp"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 51
+    images:
+      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Aug2021/20210819_robin_twitter.jpg?itok=wDNm1WtL"
+        width: 763
+        height: 509
+        isCached: true
   - title: "Baidu unveils 1st fully autonomous robocar"
     excerpt: "Chinese internet search giant Baidu Inc unveiled on Wednesday its first L5 self-driving robocar with no steering wheel, and an upgraded autonomous driving service platform named Luobo Kuaipao, in a bid to speed up the commercialization of autonomous driving technology."
     publishedDateTime: 2021-08-18T07:48:00Z

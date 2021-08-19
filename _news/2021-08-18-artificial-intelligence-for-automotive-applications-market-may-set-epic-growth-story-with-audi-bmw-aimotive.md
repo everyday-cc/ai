@@ -9,8 +9,8 @@ ampWebUrl: "https://www.openpr.com/amp/2358326/artificial-intelligence-for-autom
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2358326/artificial-intelligence-for-automotive-applications-market"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: openpr.com
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Auditoria.AI Named to Constellation ShortList for AI-Driven Cognitive Applications for the Second Consecutive Year"
+    excerpt: "Exclusive List Solidifies Auditoria’s Transformative Approach to Cognitive Automation. SANTA CLARA, CA / ACCESSWIRE / August 18, 2021 / AUDITORIA.AI, a pioneer in AI-driven auto"
+    publishedDateTime: 2021-08-18T13:01:00Z
+    webUrl: "https://apnews.com/press-release/accesswire/technology-business-fc2f302c0629473e2c0b88fc3dc0c316"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 17
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Artificial Intelligence-Emotion Recognition Market Experience a Tremendous Growth in Near Future | Realeyes, Softbank, INTRAface, CrowdEmotion, IBM"
     excerpt: "The ‘ Artificial Intelligence-Emotion Recognition market’ research report added by Report Ocean, is an in-depth analysis of the latest developments, market size, status, upcoming technologies, industry drivers,"
     publishedDateTime: 2021-08-17T23:12:00Z

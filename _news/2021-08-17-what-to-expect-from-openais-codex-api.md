@@ -105,6 +105,33 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Dow Selloff, Nvidia, Tesla AI Day, Robinhood: 5 Things You Must Know Thursday"
+    excerpt: "\"That said, the start of tapering necessarily chips away at the tools at the Fed ... The stock dropped 11.73% to $43.96 early Thursday. Tesla's AI Day is invite-only and is expected to begin ..."
+    publishedDateTime: 2021-08-19T09:05:00Z
+    webUrl: "https://thestreet.com/markets/5-things-you-must-know-before-market-opens-thursday-081921"
+    ampWebUrl: "https://www.thestreet.com/.amp/markets/5-things-you-must-know-before-market-opens-thursday-081921"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/markets/5-things-you-must-know-before-market-opens-thursday-081921"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 73
+    images:
+      - url: "https://www.thestreet.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTcyMzQxNzA2MTY1OTIxNzMy/13-wells-fargo-roman-tiraspolsky--shutterstock.jpg"
+        width: 620
+        height: 349
+        isCached: true
+  - title: "Ahead of Tesla’s ‘AI Day’, Baidu unveils its next-gen AI chip"
+    excerpt: "Ahead of Tesla's 'AI Day', China's largest search engine company Baidu has unveiled its next-generation AI chip for autonomous vehicles."
+    publishedDateTime: 2021-08-18T21:47:00Z
+    webUrl: "https://themarketherald.com.au/ahead-of-teslas-ai-day-baidu-unveils-its-next-gen-ai-chip-2021-08-19/"
+    ampWebUrl: "https://themarketherald.com.au/ahead-of-teslas-ai-day-baidu-unveils-its-next-gen-ai-chip-2021-08-19/amp/"
+    cdnAmpWebUrl: "https://themarketherald-com-au.cdn.ampproject.org/c/s/themarketherald.com.au/ahead-of-teslas-ai-day-baidu-unveils-its-next-gen-ai-chip-2021-08-19/amp/"
+    type: article
+    provider:
+      name: The Market Herald
+      domain: themarketherald.com.au
+    quality: 71
 
 secured: "7Gufw01y0Fug/L3/wjy5xd4kTdZ9bD1HsVA73BtwP2nJqiAAo1DBmbT2+rsaiXRCrcsbqA7V/9s96PbXyDay5BShQFDEhJv5HB8oltN8PiXbZF5dTQfoDtNryN7fuoF86HzzBS4w17i5dMVWyFz0Lg71zXWosiQZLEWHxIy1Z2p/RCLfWS/xZX7UfSoPEGov5jIDgH9KFz+aFeVEyxZyBYWoxDrS84zJvESxkV+m8Q0F5tUlN4ubZpvPOWlS9jZsDTey5Yv1fLebfATK2EH5qSJIMd+uhSigiUBmCBMptLyDAjFOJZJsevDp8Hr8NAL0VyJbFy3lDnpA1XpMutTixxpawh09Erbv32zBB4SFRzBAiyCSaoo0LiqjTSL7ScF0a9/7CcF5MvQeaKd5GzIEr+5gUiCRg0ffdCLQSenW/tJxif4TZtj6S6zSwxK+jh3jcGzqWwUPMQeh6OQLSWolIYiBu2cdkiOF3iGx2dfNS2ZN5lX8bB8mzncNS0buiFf8myC0s/YkPVtLwzr9537/IQ==;QpkrZ5EN3mLUoGJXjsI/QQ=="
 ---

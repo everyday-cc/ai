@@ -40,6 +40,17 @@ related:
         width: 800
         height: 540
         isCached: true
+  - title: "The Israeli startup using AI to predict car accidents is acquired for $61M"
+    excerpt: "Smart city builder Rekor Systems announced its intentions to acquire Israeli startup Waycare for $61 million in cash and stock. The acquisition is expected to be finalized in Q3 2021, with the Israeli startup’s staff expected to join Rekor Systems."
+    publishedDateTime: 2021-08-19T09:15:00Z
+    webUrl: "https://www.geektime.com/israeli-startup-waycare-acquired-by-rekor-systems/"
+    ampWebUrl: "https://www.geektime.com/israeli-startup-waycare-acquired-by-rekor-systems/amp/"
+    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/israeli-startup-waycare-acquired-by-rekor-systems/amp/"
+    type: article
+    provider:
+      name: Geektime
+      domain: geektime.com
+    quality: 35
 
 secured: "Mcd0/lbCJxHQ4LQjjZV/o6l8pk5pFM5pvBssM9AkrqQ9vvYeaYfonFCG+ngGMfqyjUzjFDSK3lX1LwpLEml+gOZ/5V5oZOtSOzOhdKGV3cPRmRXAnc5syIORjgSyis1tLyEYAu2oSBpCU2+hiExQKpmCl2CpOZ3XiSCnW17He69SK5fh8aatYfQlpqg/yV7fsdU1yQYMvIhNSpcynMTnYM0pn+Xg2sDXXKgH7Hj22dhaAgMJCgIQRNCU1N+W0Rfa2H7ShMUBYpbN2b+at61rZtiq0cqdOBbU1S9NovWtpzn8sauIz8S4DLLuWI7R4zdQuNUgZmSyyJmBZ4ITTmXsODwUA7MYbYM0IgorTRilRLo=;NWiRHvZCFBu9hiK/dDn5/w=="
 ---

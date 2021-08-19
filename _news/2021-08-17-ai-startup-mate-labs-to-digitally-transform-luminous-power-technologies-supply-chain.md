@@ -42,6 +42,22 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Mate Labs, Indian AI startup, to digitally transform Luminous Power Technologies' Supply Chain"
+    excerpt: "Mateverse is a full-scale AI and ML-based forecasting platform that can dynamically predict end-customer demands while avoiding inefficiencies caused by supply and demand misalignment across business"
+    publishedDateTime: 2021-08-19T09:41:00Z
+    webUrl: "https://www.timesnownews.com/technology-science/article/mate-labs-indian-ai-startup-to-digitally-transform-luminous-power-technologies-supply-chain/801116"
+    ampWebUrl: "https://www.timesnownews.com/amp/technology-science/article/mate-labs-indian-ai-startup-to-digitally-transform-luminous-power-technologies-supply-chain/801116"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/technology-science/article/mate-labs-indian-ai-startup-to-digitally-transform-luminous-power-technologies-supply-chain/801116"
+    type: article
+    provider:
+      name: timesnownews.com
+      domain: timesnownews.com
+    quality: 45
+    images:
+      - url: "https://imgk.timesnownews.com/story/Mate_Labs_Mateverse2021081809214520210818092816.jpg?tr=w-400,h-300,fo-auto"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Mate Labs, Indian AI startup, to digitally transform"
     excerpt: "Luminous Power Technologies India market leader in power backup and home electricals today selected Mate Labs flagship product Mateverse to strengthen its"
     publishedDateTime: 2021-08-18T10:05:00Z
@@ -70,15 +86,6 @@ related:
         width: 610
         height: 380
         isCached: true
-  - title: "Mate Labs, Indian AI startup, to digitally transform Luminous Power Technologies' Supply Chain"
-    excerpt: "Luminous Power Technologies, India's market leader in power backup and home electricals, today selected Mate Labs' flagship product Mateverse to strengthen its supply chain against a potential Covid third wave."
-    publishedDateTime: 2021-08-18T22:15:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20210818/3805004.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 5
 
 secured: "u2X0MeMyPo6uzeowzA7QKDWx2INHxpDb8EROib62w02kAE/qa7CvgQc2VCay7gh81ItJYkncIre++X8jSyjt+fEpo++zqvrvvO9/10i6NXghbeMCbO3gxyxNE2BSvtQ5bs6UnDUSmseKel2P7oC/uo8gF3orirTcERDiJsLgqNFAPgQdK+6SjWdruto2+25E4BswVxEnWMs157DHag1mONbL2crwtAcND4kTA9flBIah6MoakhEOKDBPRMOm6GohNhgR0jal1kgaCenCvZsDrh+cRzTDdSYrWyQStMT1j5Yu/2ZbIAUbtOBHoD0RWKM3Gm2fuIhxNHV+ZKljq4lHJHR2NYvDVHmq5kR8MkSzaY9Rl7JIzKKkaD7zj0l5swomwjW/aDUg97tzZ+8A33ELedjm7303ybwGaP2wzJaexoFbjOav3zoA4QPNHRTNWrymp07LnKYgEHsHiQGL3bhlHBGc6Ts1YJM2dBvzx3SDYYJ4+yPxZ4n8dQ6pc3s2/o+QqcDCMV5YQkQVtb9ksIKX5Q==;GFH1lVlsYI80CTIYiH0rVg=="
 ---
