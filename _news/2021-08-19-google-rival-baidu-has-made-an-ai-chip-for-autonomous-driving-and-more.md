@@ -143,6 +143,15 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 33
+  - title: "Baidu Announces Upgraded Baidu Brain 7.0 and Mass Production of 2nd Generation Kunlun AI Chip"
+    excerpt: "Baidu today showcased its strengths in artificial intelligence technology with the launch of Baidu Brain 7.0, the start of mass"
+    publishedDateTime: 2021-08-18T18:06:00Z
+    webUrl: "https://www.enterpriseai.news/2021/08/18/baidu-announces-upgraded-baidu-brain-7-0-and-mass-production-of-2nd-generation-kunlun-ai-chip/"
+    type: article
+    provider:
+      name: enterpriseai
+      domain: enterpriseai.news
+    quality: 25
 
 secured: "MH7HThuWJqwY5DR1isryGm0vQJ6p+Ceb7e9UMFOZXYaDkmGzqL6lW51nGbO9HT3T1K6zPGtR5xAQ+vHd8pejehwcWiKMCjyJmPfVtiI7JUNkFyEbnH4ZGzAeEN1Aey4mPOnh8u+at2lqMwCnXl1y85ElCvY4HL9p6MmOaIaLPI49B611VWbN2p6qDbB5xQ2L0aaByJHQr+6aSyo1JIYJXiJcAUmA9Gt3VITdDhYllLI1lZfstuqnlTPrkKJey9on09s1ab7V9jzLI9lQuT0adQTKb4BnBJ9MLcSnx68ZtVA9oX2oDo54kO/4Lkj7SciUi8VLx5Keh24g/alC+GjJkAmg4JjjHwI3eGhqxgzbe/nJ3m+d+NbmyHb4ij4/w1IBija3quiIMGZ5MwKiEq0YyJqmTyZ3F0Wjfdx9qsdfJI+Hu6qShua9h1rY6FvHrd2T6An3NPJqHWVCnwryCwEK/GZYyo0E7YrH8bTHSAYDCumCW5MtO4tkQsqfxKI1pu5xfkL8mN6W3et+vhRVTKe8Mg==;ke6t6EeeqUo2R5h/Fc9qDQ=="
 ---

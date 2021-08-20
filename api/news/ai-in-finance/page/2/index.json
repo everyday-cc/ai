@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-03-first-uae-bank-to-use-facial-recognition-for-account-opening-goes-live.md",
+      "title": "First UAE bank to use facial recognition for account opening goes live",
+      "excerpt": "Leading brand for international independent financial advisers, wealth management professionals serving expatriate and cross-border clients worldwide.",
+      "sourceUrl": null,
+      "webUrl": "https://www.internationalinvestment.net/news/4035339/uae-bank-facial-recognition-account-goes-live",
+      "originalUrl": "https://www.internationalinvestment.net/news/4035339/uae-bank-facial-recognition-account-goes-live",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.internationalinvestment.net/api/v1/wps/596d1df/c9a443f4-e315-4447-9535-83f9c25df3a2/2/facial-recognition-software-370x229.jpg",
+          "width": 370,
+          "height": 229,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-03T03:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "internationalinvestment",
+        "domain": "internationalinvestment.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-adib-is-the-first-uae-bank-to-use-facial-recognition-for-account-opening.md",
       "title": "ADIB is the first UAE bank to use facial recognition for account opening",
       "excerpt": "ADIB, announced the signing of a partnership with the Ministry of Interior (MOI) to allow opening of accounts remotely and digitally.",
@@ -1353,59 +1397,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-breaking-bad-data-with-machine-learning.md",
-      "title": "Breaking ‘bad data’ with machine learning",
-      "excerpt": "Every single large organization is heavily siloed, but there are huge business benefits to integrating data silos.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/13/breaking-bad-data-with-machine-learning/",
-      "originalUrl": "https://venturebeat.com/2021/07/13/breaking-bad-data-with-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/GettyImages-1088374242.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 597,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/13/breaking-bad-data-with-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/13/breaking-bad-data-with-machine-learning/amp/",
-      "publishedDateTime": "2021-07-13T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

@@ -2,6 +2,725 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2021-07-15-simplify-secure-search-solutions-with-amazon-kendras-principal-store.md",
+      "title": "Simplify secure search solutions with Amazon Kendra’s Principal Store",
+      "excerpt": "For many enterprises, critical business information is often stored as unstructured data scattered across multiple content repositories. It is challenging for organizations to make this information available to users when they need it. It is also difficult to do so securely so that relevant information",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/simplify-secure-search-solutions-with-the-new-principal-store-for-secure-search-in-amazon-kendra/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/simplify-secure-search-solutions-with-the-new-principal-store-for-secure-search-in-amazon-kendra/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/13/1-4820-Chart.jpg",
+          "width": 800,
+          "height": 374,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T13:59:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-powerful-vehicle-intelligence-with-virtually-unlimited-scalability.md",
+      "title": "Powerful Vehicle Intelligence with Virtually Unlimited Scalability",
+      "excerpt": "camera-agnostic automatic license plate recognition (ALPR) engine powered by early AI-based object recognition technology and compatible with video management systems (VMS). Today, the brand's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/powerful-vehicle-intelligence-with-virtually-unlimited-scalability-301335215.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/powerful-vehicle-intelligence-with-virtually-unlimited-scalability-301335215.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1215961/PlateSmart_Logo.jpg?p=facebook",
+          "width": 2079,
+          "height": 1088,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T13:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-researchers-develop-deep-learning-method-for-translating-vocal-signals-from-the-brain-to-text.md",
+      "title": "Researchers develop deep-learning method for translating vocal signals from the brain to text",
+      "excerpt": "Researchers at the University of Califonia San Francisco developed a way to allow people with speech loss to communicate with their brains. The technology uses neural",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/90437-researchers-develop-deep-learning-method-translating-vocal-signals.html",
+      "originalUrl": "https://www.techspot.com/news/90437-researchers-develop-deep-learning-method-translating-vocal-signals.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2019/02/2019-02-19-ts3_thumbs-9e6.jpg",
+          "width": 800,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/90437-researchers-develop-deep-learning-method-translating-vocal-signals.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/90437-researchers-develop-deep-learning-method-translating-vocal-signals.html",
+      "publishedDateTime": "2021-07-15T13:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-edge-ai-market-size-and-growth-prospects-2019-2027.md",
+      "title": "Edge AI Market Size and Growth Prospects 2019 – 2027",
+      "excerpt": "The global Edge AI market report scope includes detailed study covering underlying factors influencing the industry",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/edge-ai-market-size-and-growth-prospects-2019-2027-2021-07-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/edge-ai-market-size-and-growth-prospects-2019-2027-2021-07-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 219,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T13:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-jassy-takes-over-at-amazon-leading-to-new-ai-future.md",
+      "title": "Jassy Takes Over at Amazon, Leading to New AI Future",
+      "excerpt": "Andy Jassy took over from Jeff Bezos as CEO of Amazon on July 5, after serving as head of AWS, growing it into a $45 billion business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aitrends.com/ai-and-business-strategy/jassy-takes-over-at-amazon-leading-to-new-ai-future/",
+      "originalUrl": "https://www.aitrends.com/ai-and-business-strategy/jassy-takes-over-at-amazon-leading-to-new-ai-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.aitrends.com/wp-content/uploads/2021/07/7-16AIatAmazon-2.jpeg",
+          "width": 550,
+          "height": 366,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T13:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "aitrends",
+        "domain": "aitrends.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-facebook-robots-are-getting-smarter-watch-them-go-wild-video.md",
+      "title": "Facebook Robots Are Getting Smarter, Watch Them Go Wild (Video)",
+      "excerpt": "Facebook has been training robots to think for themselves. Its chief AI scientist Yann LeCun explains why with a video that shows what robots can do when left to their own devices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/martineparis/2021/07/09/facebook-robots-are-getting-smarter-watch-them-in-the-wild-video/",
+      "originalUrl": "https://www.forbes.com/sites/martineparis/2021/07/09/facebook-robots-are-getting-smarter-watch-them-in-the-wild-video/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e79dd602c7bff56bca0980%2F0x0.jpg%3FcropX1%3D202%26cropX2%3D958%26cropY1%3D0%26cropY2%3D426",
+          "width": 756,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2021/07/09/facebook-robots-are-getting-smarter-watch-them-in-the-wild-video/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2021/07/09/facebook-robots-are-getting-smarter-watch-them-in-the-wild-video/amp/",
+      "publishedDateTime": "2021-07-15T12:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-why-transformers-offer-more-than-meets-the-eye.md",
+      "title": "Why Transformers offer more than meets the eye",
+      "excerpt": "Transformers, a major innovation in AI and machine learning, have practical real-world applications -- and implications.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/15/why-transformers-offer-more-than-meets-the-eye/",
+      "originalUrl": "https://venturebeat.com/2021/07/15/why-transformers-offer-more-than-meets-the-eye/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/trust-2-e1611944466862.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/15/why-transformers-offer-more-than-meets-the-eye/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/15/why-transformers-offer-more-than-meets-the-eye/amp/",
+      "publishedDateTime": "2021-07-15T12:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-why-we-need-engineers-who-study-ethics-as-much-as-maths.md",
+      "title": "Why we need engineers who study ethics as much as maths",
+      "excerpt": "The Miami apartment collapse is a grim reminder of why engineering matters, and why comprehensive education in ethics should be embedded in the training of engineers.",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/why-we-need-engineers-who-study-ethics-as-much-as-maths-161356",
+      "originalUrl": "https://theconversation.com/why-we-need-engineers-who-study-ethics-as-much-as-maths-161356",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/404650/original/file-20210606-80132-z4b58d.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
+          "width": 320,
+          "height": 213,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theconversation.com/amp/why-we-need-engineers-who-study-ethics-as-much-as-maths-161356",
+      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/why-we-need-engineers-who-study-ethics-as-much-as-maths-161356",
+      "publishedDateTime": "2021-07-15T12:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-native-voice-nabs-14m-to-convert-devices-into-branded-voice-assistants.md",
+      "title": "Native Voice nabs $14M to convert devices into branded voice assistants",
+      "excerpt": "Native Voice, a company developing an SDK that allows companies to bring branded voice assistants to devices, has raised $14 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/19/native-voice-raises-14-million-to-bring-branded-voice-assistants-to-more-devices/",
+      "originalUrl": "https://venturebeat.com/2021/07/19/native-voice-raises-14-million-to-bring-branded-voice-assistants-to-more-devices/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/ScreenShot2021-01-03at10.04.26AM.png?w=1200&strip=all",
+          "width": 1000,
+          "height": 569,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/19/native-voice-raises-14-million-to-bring-branded-voice-assistants-to-more-devices/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/19/native-voice-raises-14-million-to-bring-branded-voice-assistants-to-more-devices/amp/",
+      "publishedDateTime": "2021-07-15T12:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-what-happens-when-robots-make-fake-news.md",
+      "title": "What Happens When Robots Make Fake News?",
+      "excerpt": "Writing created by artificial intelligence has dramatically improved over the last few years. Such robot-generated text is now used in newsrooms as well as by companies looking to generate content quickly and cheaply.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/helenleebouygues/2021/07/15/what-happens-when-robots-make-fake-news/",
+      "originalUrl": "https://www.forbes.com/sites/helenleebouygues/2021/07/15/what-happens-when-robots-make-fake-news/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f083d5cfdd52608822ee31%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/helenleebouygues/2021/07/15/what-happens-when-robots-make-fake-news/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/helenleebouygues/2021/07/15/what-happens-when-robots-make-fake-news/amp/",
+      "publishedDateTime": "2021-07-15T12:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-learning-aids-skoltech-method-helps-train-computer-vision-algorithms-on-limited-data.md",
+      "title": "Learning aids: Skoltech method helps train computer vision algorithms on limited data",
+      "excerpt": "Researchers from Skoltech have found a way to help computer vision algorithms process satellite images of the Earth more accurately, even with minimal data for training. This will make various remote sensing tasks easier for machines and,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/470834",
+      "originalUrl": "https://www.eurekalert.org/news-releases/470834",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-attackers-can-elicit-toxic-behavior-from-ai-translation-systems-study-finds.md",
+      "title": "Attackers can elicit ‘toxic behavior’ from AI translation systems, study finds",
+      "excerpt": "Watch now! Neural machine translation (NMT), or AI techniques that can translate between languages, is in widespread use today owing to its robustness and versatility. But it’s been shown that ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/15/attackers-can-elicit-toxic-behavior-from-ai-translation-systems-study-finds/",
+      "originalUrl": "https://venturebeat.com/2021/07/15/attackers-can-elicit-toxic-behavior-from-ai-translation-systems-study-finds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/15/attackers-can-elicit-toxic-behavior-from-ai-translation-systems-study-finds/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/15/attackers-can-elicit-toxic-behavior-from-ai-translation-systems-study-finds/amp/",
+      "publishedDateTime": "2021-07-15T11:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-researchers-match-deepminds-alphafold2-protein-folding-power-with-faster-freely-available-model.md",
+      "title": "Researchers match DeepMind’s AlphaFold2 protein folding power with faster, freely available model",
+      "excerpt": "DeepMind stunned the biology world late last year when its AlphaFold2 AI model predicted the structure of proteins (a common and very difficult problem) so accurately that many declared the decades-old problem “solved.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/07/15/researchers-match-deepminds-alphafold2-protein-folding-power-with-faster-freely-available-model/",
+      "originalUrl": "https://techcrunch.com/2021/07/15/researchers-match-deepminds-alphafold2-protein-folding-power-with-faster-freely-available-model/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/07/rosettafold.jpg?w=1000",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/07/15/researchers-match-deepminds-alphafold2-protein-folding-power-with-faster-freely-available-model/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/15/researchers-match-deepminds-alphafold2-protein-folding-power-with-faster-freely-available-model/amp/",
+      "publishedDateTime": "2021-07-15T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-self-driving-startup-aurora-to-go-public-through-spac.md",
+      "title": "Self-Driving Startup Aurora to Go Public Through SPAC",
+      "excerpt": "The special-purpose acquisition company behind the deal is backed by the founders of LinkedIn and Zynga Inc.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/self-driving-startup-aurora-to-go-public-through-spac-11626371629",
+      "originalUrl": "https://www.wsj.com/articles/self-driving-startup-aurora-to-go-public-through-spac-11626371629",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-370052/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/self-driving-startup-aurora-to-go-public-through-spac-11626371629",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-startup-aurora-to-go-public-through-spac-11626371629",
+      "publishedDateTime": "2021-07-15T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-cerebras-new-monster-ai-chip-adds-14-trillion-transistors.md",
+      "title": "Cerebras’ New Monster AI Chip Adds 1.4 Trillion Transistors",
+      "excerpt": "Shift to 7-nanometer process boosts the second-generation chip's transistor count to a mind-boggling 2.6 trillion.",
+      "sourceUrl": null,
+      "webUrl": "https://cacm.acm.org/news/254014-cerebras-new-monster-ai-chip-adds-14-trillion-transistors",
+      "originalUrl": "https://cacm.acm.org/news/254014-cerebras-new-monster-ai-chip-adds-14-trillion-transistors",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T09:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "acm.org",
+        "domain": "acm.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-self-driving-tech-developer-aurora-raising-2-billion-in-spac-listing-that-values-it-at-11-billion.md",
       "title": "Self-Driving Tech Developer Aurora Raising $2 Billion In SPAC Listing That Values It At $11 Billion",
       "excerpt": "Funds from the deal will help the company get its self-driving truck technology ready for commercialization by late 2023.",
@@ -484,703 +1203,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-expertai-announces-winners-of-sentiment-opinion-mining-hackathon.md",
-      "title": "Expert.ai Announces Winners of Sentiment & Opinion Mining Hackathon",
-      "excerpt": "BOSTON, July 15, 2021 /PRNewswire/ -- Expert.ai announced today the winners of the \"Sentiment & Opinion Mining Natural Language API ... retrieval and machine translation, to make sure user ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/expertai-announces-winners-of-sentiment--opinion-mining-hackathon-301333647.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/expertai-announces-winners-of-sentiment--opinion-mining-hackathon-301333647.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1283900/Expert_ai_Logo.jpg?p=facebook",
-          "width": 1500,
-          "height": 785,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-major-study-from-stanford-university-and-youper-finds-artificial-intelligence-therapy-effective-at-reducing-anxiety-and-depression.md",
-      "title": "Major Study From Stanford University and Youper Finds Artificial Intelligence Therapy Effective at Reducing Anxiety and Depression",
-      "excerpt": "a team of scientists at Stanford University confirmed a new model of mental health treatment that uses artificial intelligence therapy is significantly effective at reducing symptoms of depression ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/major-study-from-stanford-university-and-youper-finds-artificial-intelligence-therapy-effective-at-reducing-anxiety-and-depression-301334656.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/major-study-from-stanford-university-and-youper-finds-artificial-intelligence-therapy-effective-at-reducing-anxiety-and-depression-301334656.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-tantech-subsidiary-starts-accepting-orders-for-innovative-driverless-and-manned-street-sweepers-inventory-built-to-fulfill-initial-customer.md",
-      "title": "Tantech Subsidiary Starts Accepting Orders for Innovative Driverless and Manned Street Sweepers; Inventory Built to Fulfill Initial Customer Orders",
-      "excerpt": "Tantech Holdings Ltd (NASDAQ: TANH) (\"Tantech\" or the \"Company\"), a clean energy company in China, today announced that its subsidiary,",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/tantech-subsidiary-starts-accepting-orders-innovative-driverless-and-manned-street",
-      "originalUrl": "https://www.asiaone.com/business/tantech-subsidiary-starts-accepting-orders-innovative-driverless-and-manned-street",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jul2021/pr-newswire_500_4_966.jpg?itok=nvzH1Dk8",
-          "width": 763,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.asiaone.com/business/tantech-subsidiary-starts-accepting-orders-innovative-driverless-and-manned-street?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/tantech-subsidiary-starts-accepting-orders-innovative-driverless-and-manned-street?amp",
-      "publishedDateTime": "2021-07-15T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-how-artificial-intelligence-is-fighting-wildfires.md",
-      "title": "How Artificial Intelligence Is Fighting Wildfires",
-      "excerpt": "A lab at the University of California, San Diego, uses data to figure out how fires will burn, and how to help prevent them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/07/15/us/wildfires-artificial-intelligence.html",
-      "originalUrl": "https://www.nytimes.com/2021/07/15/us/wildfires-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/07/15/multimedia/15californiatoday-fire-b/merlin_190627797_498e5dd5-d350-4676-9c87-862a283f469c-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/07/15/us/wildfires-artificial-intelligence.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/15/us/wildfires-artificial-intelligence.amp.html",
-      "publishedDateTime": "2021-07-15T05:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-an-algorithm-found-you-how-data-determines-price-tags-for-films-and-finds-new-talent.md",
-      "title": "‘An Algorithm Found You’: How Data Determines Price Tags for Films and Finds New Talent",
-      "excerpt": "Like every production company, Jumpcut wants to discover new talent. As a data-driven startup, it leans on machine-learning algorithms to analyze content on YouTube and Reddit — everything from production value to the emotional response of commenters — and spits out a list of prospective content creators.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alanohnsman/2021/04/26/ai-50-americas-most-promising-artificial-intelligence-companies/?sh=5718e24b77cf",
-      "originalUrl": "https://www.msn.com/en-us/finance/other/e2-80-98an-algorithm-found-you-e2-80-99-how-data-determines-price-tags-for-films-and-finds-new-talent/ar-AAMbWx8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608360b00a7f489ff308c3f2%2F0x0.png%3FcropX1%3D58%26cropX2%3D1928%26cropY1%3D40%26cropY2%3D1092",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T05:30:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "forbes.com/sites/alanohnsman/2021/04/26/ai-50-americas-most-promising-artificial-intelligence-companies/?sh=5718e24b77cf",
-        "domain": "forbes.com/sites/alanohnsman/2021/04/26/ai-50-americas-most-promising-artificial-intelligence-companies/?sh=5718e24b77cf",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-ai-based-chatbots-speed-up-intelligent-talent-recruitment.md",
-      "title": "AI-Based Chatbots Speed Up Intelligent Talent Recruitment",
-      "excerpt": "Intelligent chatbots are proving that there’s no talent shortage when you know how to personalize employee recruitment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sap/2021/07/15/ai-based-chatbots-speed-up-intelligent-talent-recruitment/",
-      "originalUrl": "https://www.forbes.com/sites/sap/2021/07/15/ai-based-chatbots-speed-up-intelligent-talent-recruitment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d9c7f4d73f511129de383c%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sap/2021/07/15/ai-based-chatbots-speed-up-intelligent-talent-recruitment/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/07/15/ai-based-chatbots-speed-up-intelligent-talent-recruitment/amp/",
-      "publishedDateTime": "2021-07-15T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-in-d-identity-verification-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "IN-D Identity Verification Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "IN-D.ai customers will benefit from the scalability and reliability of the Azure cloud platform, with streamlined deployment and management. “Companies have found it tough to balance a seamless ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswireindia.com/in-d-identity-verification-now-available-in-the-microsoft-azure-marketplace-73975.html",
-      "originalUrl": "https://www.businesswireindia.com/in-d-identity-verification-now-available-in-the-microsoft-azure-marketplace-73975.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cms.businesswireindia.com/Uploads/companyLogo/INDLogo_14634.jpg",
-          "width": 1892,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswireindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-smart-cities-how-facial-recognition-can-facilitate-the-safe-return-to-urban-life.md",
-      "title": "Smart Cities: How Facial Recognition Can Facilitate The Safe Return To Urban Life",
-      "excerpt": "When deployed correctly and used to its highest potential, facial recognition technology can help facilitate safe interactions and support a flourishing economy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/07/15/smart-cities-how-facial-recognition-can-facilitate-the-safe-return-to-urban-life/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/07/15/smart-cities-how-facial-recognition-can-facilitate-the-safe-return-to-urban-life/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ef458fb64fa807a6922555%2F0x0.jpg",
-          "width": 1200,
-          "height": 873,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/07/15/smart-cities-how-facial-recognition-can-facilitate-the-safe-return-to-urban-life/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/07/15/smart-cities-how-facial-recognition-can-facilitate-the-safe-return-to-urban-life/amp/",
-      "publishedDateTime": "2021-07-15T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-kenyas-aifluence-closes-1m-for-its-ai-powered-influencer-marketing-platform.md",
-      "title": "Kenya’s AIfluence closes $1M for its AI-powered influencer marketing platform",
-      "excerpt": "Influencer marketing is one of the fastest-growing and one of the most impactful media channels today. There’s a growing ad-blocking movement and key demographics are spending less time in front of TVs.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/15/kenyas-aifluence-closes-1m-for-its-ai-powered-influencer-marketing-platform/",
-      "originalUrl": "https://techcrunch.com/2021/07/15/kenyas-aifluence-closes-1m-for-its-ai-powered-influencer-marketing-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2014/12/influencer.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/07/15/kenyas-aifluence-closes-1m-for-its-ai-powered-influencer-marketing-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/15/kenyas-aifluence-closes-1m-for-its-ai-powered-influencer-marketing-platform/amp/",
-      "publishedDateTime": "2021-07-15T04:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-unlocking-value-with-privacy-preserving-machine-learning.md",
-      "title": "Unlocking Value With Privacy-Preserving Machine Learning",
-      "excerpt": "To address this unprecedented need, machine learning (ML) is proving to be a powerful tool for uncovering the value locked within data. However, with power comes responsibility, and in order to leverage ML effectively,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cpomagazine.com/insights/unlocking-value-with-privacy-preserving-machine-learning/",
-      "originalUrl": "https://www.cpomagazine.com/insights/unlocking-value-with-privacy-preserving-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cpomagazine.com/wp-content/uploads/2021/07/unlocking-value-with-privacy-preserving-machine-learning_1500.jpg",
-          "width": 1500,
-          "height": 860,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cpomagazine.com/data-privacy/unlocking-value-with-privacy-preserving-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/unlocking-value-with-privacy-preserving-machine-learning/amp/",
-      "publishedDateTime": "2021-07-15T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CPO Magazine",
-        "domain": "cpomagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-rajnath-singh-launches-artificial-intelligence-based-grievance-analysis-app.md",
-      "title": "Rajnath Singh Launches Artificial Intelligence-Based Grievance Analysis App",
-      "excerpt": "With the launch of an artificial intelligence (AI) based grievance analysis application called CPGRAMS, Defence Minister Rajnath Singh on Thursday said the country is moving towards citizen-centric reforms with scientific knowledge and technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/india-news/rajnath-singh-launches-ai-based-grievance-analysis-app-2487325",
-      "originalUrl": "https://www.ndtv.com/india-news/rajnath-singh-launches-ai-based-grievance-analysis-app-2487325",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2020-12/al8qqheo_rajnath-singh-650_625x300_30_December_20.jpg",
-          "width": 650,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/india-news/rajnath-singh-launches-ai-based-grievance-analysis-app-2487325?amp=1&akamai-rum=off",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/rajnath-singh-launches-ai-based-grievance-analysis-app-2487325?amp=1&akamai-rum=off",
-      "publishedDateTime": "2021-07-15T03:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-insights-on-the-31-billion-robotics-global-market-to-2025-impact-analysis-of-covid-19.md",
-      "title": "Insights on the $31 Billion Robotics Global Market to 2025 - Impact Analysis of COVID-19",
-      "excerpt": "The Global Robotics Market was valued at around US$ 31 Billion in 2020 and the market is expected to register a double digit CAGR over the forecast period of 2021 - 2025. The adoption of robots across a wide range of industries including manufacturing,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/insights-on-the-31-billion-robotics-global-market-to-2025---impact-analysis-of-covid-19-2021-07-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/insights-on-the-31-billion-robotics-global-market-to-2025---impact-analysis-of-covid-19-2021-07-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T03:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-building-ethical-ai-products-can-put-businesses-at-a-competitive-advantage.md",
-      "title": "Building ethical A.I. products can put businesses at a competitive advantage",
-      "excerpt": "They are able to automate repetitive tasks, analyze large volumes of data, recommend content, translate languages and even play games. But the current scope of things that AI can do is relatively ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/07/15/building-ethical-ai-products-can-put-businesses-at-competitive-advantage.html",
-      "originalUrl": "https://www.cnbc.com/2021/07/15/building-ethical-ai-products-can-put-businesses-at-competitive-advantage.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106908631-1625805682269-gettyimages-1327731017-vcg111338081794.jpeg?v=1626330979",
-          "width": 6016,
-          "height": 4016,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/07/15/building-ethical-ai-products-can-put-businesses-at-competitive-advantage.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/15/building-ethical-ai-products-can-put-businesses-at-competitive-advantage.html",
-      "publishedDateTime": "2021-07-15T03:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-with-general-motors-40-ytd-3-ways-it-can-power-up-long-term-portfolios.md",
-      "title": "With General Motors +40% YTD, 3 Ways It Can Power Up Long-Term Portfolios",
-      "excerpt": "Stocks Analysis by Investing.com (Tezcan Gecgil/Investing.com) covering: General Motors Company, Microsoft Corporation, Ford Motor Company, Walmart Inc. Read Investing.com (Tezcan Gecgil/Investing.com)'s latest article on Investing.",
-      "sourceUrl": null,
-      "webUrl": "https://investor.gm.com/news-releases/news-release-details/gm-reports-strong-first-quarter-2021-results",
-      "originalUrl": "https://www.investing.com/analysis/with-general-motors-40-ytd-3-ways-it-can-power-up-longterm-portfolios-200591536",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investor.gm.com/sites/g/files/knoqqb60441/themes/site/nir_pid2306/dist/new-images/GM-logo-2021.png",
-          "width": 555,
-          "height": 555,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T02:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Investing.com",
-        "domain": "investing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-artificial-intelligence-in-healthcare-global-market-forecast-to-2027.md",
-      "title": "Artificial Intelligence in Healthcare Global Market - Forecast to 2027",
-      "excerpt": "The rapidly evolving vast and complex healthcare industry is slowly deploying AI solutions into its mainstream workflows to increase the productivity of various healthcare. Artificial intelligence (AI) is the collection of computer programs or algorithms or software to make machines smarter and enable them to simulate human intelligence and perform various higher-order value-based tasks like visual perception,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-global-market---forecast-to-2027-2021-07-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-global-market---forecast-to-2027-2021-07-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 324,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T00:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

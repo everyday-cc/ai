@@ -2,6 +2,597 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-08-04-sensorium-demos-ai-driven-avatars-as-latest-virtual-beings.md",
+      "title": "Sensorium demos AI-driven avatars as latest virtual beings",
+      "excerpt": "All the sessions from Transform 2021 are available on-demand now. Watch now. Sensorium Galaxy is an upcoming virtual world that will blend human and AI characters so that humans can have unscripted conversations with virtual beings.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/04/sensorium-demos-ai-driven-avatars-as-latest-virtual-beings/",
+      "originalUrl": "https://venturebeat.com/2021/08/04/sensorium-demos-ai-driven-avatars-as-latest-virtual-beings/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/sensorium.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/04/sensorium-demos-ai-driven-avatars-as-latest-virtual-beings/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/04/sensorium-demos-ai-driven-avatars-as-latest-virtual-beings/amp/",
+      "publishedDateTime": "2021-08-04T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-intels-ai-degree-program-expands-to-18-additional-community-colleges-in-11-states.md",
+      "title": "Intel's AI degree program expands to 18 additional community colleges in 11 states",
+      "excerpt": "Following an online pilot in the fall of 2020 with Maricopa County Community College District, Intel is expanding its AI for Workforce Program to include 18 additional schools across 11 states..",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/intel-ai-for-workforce-2021-expansion-130027058.html",
+      "originalUrl": "https://www.engadget.com/intel-ai-for-workforce-2021-expansion-130027058.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-08/799696a0-f3be-11eb-8ffb-43a39e47ee85",
+          "width": 1600,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-04T07:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-can-an-ai-be-an-inventor-new-legal-judgments-say-yes.md",
+      "title": "Can An AI Be An Inventor? New Legal Judgments Say Yes.",
+      "excerpt": "Two landmark cases in the ongoing legal battle to establish an artificial intelligence system as an inventor came down in favor of the team trying to make this possible.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anthonytrippe/2021/08/04/can-an-ai-be-an-inventor-new-legal-judgments-say-yes/",
+      "originalUrl": "https://www.forbes.com/sites/anthonytrippe/2021/08/04/can-an-ai-be-an-inventor-new-legal-judgments-say-yes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610aa3b553adde69aa700bd3%2F0x0.jpg",
+          "width": 1200,
+          "height": 772,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anthonytrippe/2021/08/04/can-an-ai-be-an-inventor-new-legal-judgments-say-yes/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anthonytrippe/2021/08/04/can-an-ai-be-an-inventor-new-legal-judgments-say-yes/amp/",
+      "publishedDateTime": "2021-08-04T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-load-external-tfrecord-with-tfds.md",
+      "title": "Load external tfrecord with TFDS",
+      "excerpt": "For TFDS to be able to decode the tf.train.Example proto, you need to provide the tfds.features sturcture matching your specs. For example: features = tfds.features.FeaturesDict({ 'image': tfds.features.Image(shape=(256, 256, 3)), 'label': tfds.features ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/datasets/external_tfrecord?hl=sk",
+      "originalUrl": "https://www.tensorflow.org/datasets/external_tfrecord?hl=sk",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=sk",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-04T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-fintech-stampli-launches-new-partner-program-for-ap-automation.md",
+      "title": "Fintech Stampli Launches New Partner Program for AP Automation",
+      "excerpt": "Stampli, a leader in AI-driven Accounts Payable (AP) automation, is introducing a new partner program for accounting firms, bookkeeping services, resellers, consultants, and ERP providers to expand their offerings with Stampli’s award-winning AP automation and payments software.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-6ce6650633234769a031d84c4b32890c",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-6ce6650633234769a031d84c4b32890c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-04T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-hiring-the-right-personality-matters-and-ai-can-help.md",
+      "title": "Hiring the Right Personality Matters, and AI Can Help",
+      "excerpt": "It's important to find the right employees in order for your business to succeed. Here's how AI can help you find the perfect match.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/378658",
+      "originalUrl": "https://www.entrepreneur.com/article/378658",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/378658",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/378658",
+      "publishedDateTime": "2021-08-04T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-apptek-achieves-top-ranking-at-the-international-workshop-in-spoken-language-translations-iwslt-2021-evaluation-campaign.md",
+      "title": "AppTek Achieves Top Ranking at the International Workshop in Spoken Language Translation's (IWSLT) 2021 Evaluation Campaign",
+      "excerpt": "AppTek is a global leader in artificial intelligence (AI) and machine learning (ML) technologies for automatic speech recognition (ASR), neural machine translation (NMT), and natural language ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/apptek-achieves-top-ranking-at-the-international-workshop-in-spoken-language-translations-iwslt-2021-evaluation-campaign-301347962.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/apptek-achieves-top-ranking-at-the-international-workshop-in-spoken-language-translations-iwslt-2021-evaluation-campaign-301347962.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-04T05:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-artificial-intelligence-increases-document-processing-efficiency-350-for-california-based-workers-compensation-defense-firm.md",
+      "title": "Artificial Intelligence Increases Document Processing Efficiency 350% for California-Based Workers' Compensation Defense Firm",
+      "excerpt": "We leverage advances in computer vision, natural language processing, and machine learning to help organizations process, manage, and leverage their unstructured data to streamline manual tasks, make better data-driven decisions, and drive business value.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-increases-document-processing-efficiency-350-california-/2021/08/04/9423710.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-increases-document-processing-efficiency-350-california-/2021/08/04/9423710.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-04T05:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-amazon-is-having-a-one-day-sale-on-yeedi-robot-vacs-get-one-for-just-99.md",
+      "title": "Amazon is having a one-day sale on Yeedi robot vacs —get one for just $99",
+      "excerpt": "Well, Amazon is granting your wish with its epic Deal of the Day on Yeedi robot vacuums, which are up to 55 percent off today. And you have several models to choose from! Yeedi robot vacuums use smart home technologies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/lifestyle/amazon-having-one-day-sale-093006199.html",
+      "originalUrl": "https://www.aol.com/lifestyle/amazon-having-one-day-sale-093006199.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/U4Ofc49TIDjKeeA6jRkYhg--~B/aD02NTA7dz0xMTgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/aol_yahoo_life_260/d3bceb59d4d334b54e306637b598cfd4",
+          "width": 1180,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-04T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-intel-expands-college-ai-training-programme-to-11-us-states.md",
+      "title": "Intel expands college AI training programme to 11 US states",
+      "excerpt": "Intel is working with Dell to expand its AI for Workforce Program to 18 additional institutions across 11 US states to help educate the next generation of US technologists, engineers, and inventors. The programme,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/business-strategy/careers-training/360473/intel-expands-college-ai-training-to-11-states",
+      "originalUrl": "https://www.itpro.co.uk/business-strategy/careers-training/360473/intel-expands-college-ai-training-to-11-states",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570816607/itpro/2018/09/students_shutterstock_309525341.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/business-strategy/careers-training/360473/intel-expands-college-ai-training-to-11-states?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/careers-training/360473/intel-expands-college-ai-training-to-11-states?amp",
+      "publishedDateTime": "2021-08-04T05:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-spell-operationalizes-advanced-ai-with-the-first-comprehensive-mlops-platform-for-deep-learning.md",
+      "title": "Spell Operationalizes Advanced AI with the First Comprehensive MLOps Platform for Deep Learning",
+      "excerpt": "Spell, the leader in operationalizing AI for natural language processing (NLP), machine vision, and speech recognition, has launched the world's first cloud-agnostic, end-to-end MLOps platform for deep learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/08/04/9423613.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/08/04/9423613.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-04T05:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-spell-unveils-deep-learning-operations-platform-to-cut-ai-training-costs.md",
+      "title": "Spell unveils deep learning operations platform to cut AI training costs",
+      "excerpt": "Spell takes wraps off deep learning operations (DLOps) platform that promises to reduce cost of building more advanced AI models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/04/spell-unveils-deep-learning-operations-platform-to-cut-ai-training-costs/",
+      "originalUrl": "https://venturebeat.com/2021/08/04/spell-unveils-deep-learning-operations-platform-to-cut-ai-training-costs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/Spell.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/04/spell-unveils-deep-learning-operations-platform-to-cut-ai-training-costs/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/04/spell-unveils-deep-learning-operations-platform-to-cut-ai-training-costs/amp/",
+      "publishedDateTime": "2021-08-04T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-a-new-kind-of-alien-ai-and-the-hiring-process.md",
+      "title": "A New Kind Of Alien: AI And The Hiring Process",
+      "excerpt": "Not all aliens are depicted in popular culture as green or humanoid. In short, they could be robots. More specifically, we could venture to call AI an alien life form.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/04/a-new-kind-of-alien-ai-and-the-hiring-process/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/04/a-new-kind-of-alien-ai-and-the-hiring-process/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600f2b331a4b8a0eaa784baf%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/04/a-new-kind-of-alien-ai-and-the-hiring-process/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/04/a-new-kind-of-alien-ai-and-the-hiring-process/amp/",
+      "publishedDateTime": "2021-08-04T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-04-artificial-intelligence-ai-chips-market-with-rising-security-issues-by-key-players-amd-nvidia-google-intel.md",
       "title": "Artificial Intelligence (AI) Chips Market with Rising Security Issues by Key Players: AMD, NVIDIA, Google, Intel",
       "excerpt": "Chips market research Report is an inestimable supply of perceptive information for business strategists. This Artificial Intelligence (AI) Chips Market study provides comprehensive data which enlarge the understanding,",
@@ -559,575 +1150,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-facebook-reportedly-wants-to-securely-mine-your-encrypted-data-to-target-ads.md",
-      "title": "Facebook reportedly wants to securely mine your encrypted data to target ads",
-      "excerpt": "There’s no secret that Facebook loves ads. It has stuffed the blue app and different features of Instagram with them. And the company has contemplated many times inserting ads i",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/facebook-encryption-ads-ai-team-rumor",
-      "originalUrl": "https://thenextweb.com/news/facebook-encryption-ads-ai-team-rumor",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/plugged?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FZuck-money.jpg&signature=781fd7a9456599290afb06f5fff80ff9",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-04T01:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-underwater-robot-laying-cables-crossed-the-rotterdam-maasmond-to-connect-dutch-offshore-wind-farm.md",
-      "title": "Underwater robot laying cables crossed the Rotterdam Maasmond to connect Dutch offshore wind farm",
-      "excerpt": "TenneT is developing the Hollandse Kust (zuid) offshore grid for the connection of new wind farms. Four offshore cables will be buried in the North Sea bed. For the first ten kilometres of the offshore cable route,",
-      "sourceUrl": null,
-      "webUrl": "https://www.windtech-international.com/projects-and-contracts/underwater-robot-laying-cables-crossed-the-rotterdam-maasmond-to-connect-dutch-offshore-wind-farm",
-      "originalUrl": "https://www.windtech-international.com/projects-and-contracts/underwater-robot-laying-cables-crossed-the-rotterdam-maasmond-to-connect-dutch-offshore-wind-farm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.windtech-international.com/images/stories/Features/2021Features/JulAug2021Images/Fischer-Block-Fig-1.jpg",
-          "width": 450,
-          "height": 255,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-04T00:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windtech International",
-        "domain": "windtech-international.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-intel-dell-technologies-make-acquiring-ai-skills-more-accessible.md",
-      "title": "Intel & Dell Technologies Make Acquiring AI Skills More Accessible",
-      "excerpt": "The World Economic Forum says that AI could create 97 million new jobs by 2025, with roles like data analysts and scientists, AI and machine learning specialists, and big data specialists.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/carolinamilanesi/2021/08/04/intel--dell-technologies-make-acquiring-ai-skills-more-accessible/",
-      "originalUrl": "https://www.forbes.com/sites/carolinamilanesi/2021/08/04/intel--dell-technologies-make-acquiring-ai-skills-more-accessible/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610a23dc66dff1948f194ad4%2F0x0.jpg",
-          "width": 1200,
-          "height": 712,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/carolinamilanesi/2021/08/04/intel--dell-technologies-make-acquiring-ai-skills-more-accessible/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolinamilanesi/2021/08/04/intel--dell-technologies-make-acquiring-ai-skills-more-accessible/amp/",
-      "publishedDateTime": "2021-08-03T22:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-fujitsu-ai-scoring-platform-powers-new-galileo-xai-solution-from-larus-for-financial-services.md",
-      "title": "Fujitsu AI Scoring Platform Powers New Galileo XAI Solution from LARUS for Financial Services",
-      "excerpt": "Italian solutions vendor LARUS Business Automation S.r.l. and Fujitsu Limited plan to leverage components of Fujitsu's Finplex AI",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/08/a22316200/fujitsu-ai-scoring-platform-powers-new-galileo-xai-solution-from-larus-for-financial-services",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/08/a22316200/fujitsu-ai-scoring-platform-powers-new-galileo-xai-solution-from-larus-for-financial-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/22316200",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22316200",
-      "publishedDateTime": "2021-08-03T20:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-differential-privacy-in-tff.md",
-      "title": "Differential Privacy in TFF",
-      "excerpt": "This tutorial will demonstrate the recommended best practice for training models with user-level Differential Privacy using Tensorflow Federated. We will use the DP ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/federated/tutorials/federated_learning_with_differential_privacy?hl=sl",
-      "originalUrl": "https://www.tensorflow.org/federated/tutorials/federated_learning_with_differential_privacy?hl=sl",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=sl",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-03T19:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-aiml-innovations-inc-to-webcast-live-at-virtualinvestorconferencescom-august-5th.md",
-      "title": "AI/ML Innovations Inc. to Webcast Live at VirtualInvestorConferences.com August 5th",
-      "excerpt": "AI/ML Innovations Inc. (CSE: AIML) (OTCQB: AIMLF) (\"AIML\" or the \"Company\"), a company committed to acquiring and advancing Artificial Intelligence/Machine Learning technologies that address urgent societal needs,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-ml-innovations-inc-to-webcast-live-at-virtualinvestorconferences-com-august-5th-1030686183",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-ml-innovations-inc-to-webcast-live-at-virtualinvestorconferences-com-august-5th-1030686183",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1394979/Virtual_Investor_Conference_Logo.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-03T17:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-hong-leong-bank-seeks-digital-disruptors-across-southeast-asia-to-find-esg-focused-innovative-solutions-for-banking-and-financial-services.md",
-      "title": "Hong Leong Bank Seeks Digital Disruptors Across Southeast Asia to Find ESG-Focused Innovative Solutions for Banking and Financial Services",
-      "excerpt": "Hong Leong Bank (\"HLB\" or the \"Bank\") is calling all budding disruptors to join its 'Can You Hack It' Virtual Hackathon ASEAN Edition 2021 to co-create Innovative solutions focused on ESG. This virtual hackathon themed 'Environmental,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-hong-leong-bank-seeks-digital-disruptors-across-southeast-/2021/08/04/9424444.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-hong-leong-bank-seeks-digital-disruptors-across-southeast-/2021/08/04/9424444.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-03T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-momentum-builds-in-ai-analytics-platforms-and-robotics.md",
-      "title": "Momentum builds in AI analytics platforms and robotics",
-      "excerpt": "Funding in AI and robotics technologies is spiralling – covering everything from AI analytics platforms to autonomous sites and self-driving trucks",
-      "sourceUrl": null,
-      "webUrl": "https://constructionglobal.com/digital-construction/momentum-builds-ai-analytics-platforms-and-robotics?page=48",
-      "originalUrl": "https://constructionglobal.com/digital-construction/momentum-builds-ai-analytics-platforms-and-robotics?page=48",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://constructionglobal.com/sites/default/files/styles/og_image/public/image/GettyImages-1275786906_0.jpg.png?itok=NssVRdFF",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-03T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Construction Global",
-        "domain": "constructionglobal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-object-detection-with-tensorflow.md",
-      "title": "Object Detection, With TensorFlow",
-      "excerpt": "One of the tools that can be put to work in object recognition is an open source library called TensorFlow, which [Evan] aka [Edje Electronics] has put to work for exactly this purpose.",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2018/07/31/object-detection-with-tensorflow/",
-      "originalUrl": "https://hackaday.com/2018/07/31/object-detection-with-tensorflow/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2018/07/main3.png",
-          "width": 877,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-03T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-ebay-roborocks-smart-e4-robot-vacuummop-returns-to-low-of-150-refurb-orig-300.md",
-      "title": "eBay – Roborock’s smart E4 Robot Vacuum/Mop returns to low of $150 (Refurb, Orig. $300)",
-      "excerpt": "Roborock’s official eBay storefront is offering its E4 Robot Vacuum + Mop for $149.99 shipped in refurbished condition. Today’s deal knocks a full 50% off its normal going rate and is a match for the lowest price that we’ve tracked.",
-      "sourceUrl": null,
-      "webUrl": "https://fintechzoom.com/fintech_news_ebay/ebay-roborocks-smart-e4-robot-vacuum-mop-returns-to-low-of-150-refurb-orig-300/",
-      "originalUrl": "https://fintechzoom.com/fintech_news_ebay/ebay-roborocks-smart-e4-robot-vacuum-mop-returns-to-low-of-150-refurb-orig-300/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-03T16:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fintechzoom",
-        "domain": "fintechzoom.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-what-beijings-tech-crackdown-is-really-about.md",
-      "title": "What Beijing’s tech crackdown is really about",
-      "excerpt": "A few doors down are the internet companies Baidu and Meituan; Alibaba Group is registered at a PO box up the street, right across from Singh’s Roti Shop & Bar. The Caribbean footholds ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.afr.com/technology/what-beijing-s-tech-crackdown-is-really-about-20210803-p58fdy",
-      "originalUrl": "https://www.afr.com/technology/what-beijing-s-tech-crackdown-is-really-about-20210803-p58fdy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.ffx.io/images/$zoom_0.6307%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_241%2C$y_4/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/f2461a1ab5ede5834d22573e5d0b7ed108ff231a",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-03T15:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Australian Financial Review",
-        "domain": "afr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-data-science-is-a-lot-of-drudgery-and-thats-good.md",
-      "title": "Data science is a lot of drudgery, and that’s good",
-      "excerpt": "According to Anaconda’s 2021 State of Data Science survey, survey respondents said they spend “39 per cent of their time on data prep and data cleansing, which is more than the time spent on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.anaconda.com/state-of-data-science-2021",
-      "originalUrl": "https://www.arnnet.com.au/article/690220/data-science-lot-drudgery-good/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-cdn.anaconda.com/assets/_1200x630_crop_center-center_82_none/sods-preview.png?mtime=20210713171821&focal=none&tmtime=20210713171837",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-03T15:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-google-and-qualcomm-to-continue-working-together-despite-new-tensor-chip.md",
-      "title": "Google and Qualcomm to continue working together despite new Tensor chip",
-      "excerpt": "While neither Google nor Qualcomm, have said anything about what these partnerships will be, it's possible that Google will continue sourcing modems and other components from Qualcomm",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/technology/tech-news/google-and-qualcomm-to-continue-working-together-despite-new-tensor-chip-11627984911443.html",
-      "originalUrl": "https://www.livemint.com/technology/tech-news/google-and-qualcomm-to-continue-working-together-despite-new-tensor-chip-11627984911443.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/08/03/600x338/Google_1572917561307_1627985235381.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/technology/tech-news/google-and-qualcomm-to-continue-working-together-despite-new-tensor-chip/amp-11627984911443.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/google-and-qualcomm-to-continue-working-together-despite-new-tensor-chip/amp-11627984911443.html",
-      "publishedDateTime": "2021-08-03T14:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

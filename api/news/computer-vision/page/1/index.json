@@ -49,15 +49,15 @@
       "title": "Pinterest Introduces a Computer Vision-Powered Hair Pattern Search",
       "excerpt": "Pinterest this week rolled out hair pattern search, a \"first-of-its-kind\" technology created with pinners of color in mind. Using computer vision-powered object detection, the feature enables users to refine hair searches by six different patterns: protective,",
       "sourceUrl": null,
-      "webUrl": "https://in.pcmag.com/social-media/144365/pinterest-introduces-a-computer-vision-powered-hair-pattern-search",
-      "originalUrl": "https://in.pcmag.com/social-media/144365/pinterest-introduces-a-computer-vision-powered-hair-pattern-search",
+      "webUrl": "https://uk.pcmag.com/social-media/135146/pinterest-introduces-a-computer-vision-powered-hair-pattern-search",
+      "originalUrl": "https://uk.pcmag.com/social-media/135146/pinterest-introduces-a-computer-vision-powered-hair-pattern-search",
       "featuredContent": null,
       "highlight": null,
       "heat": 84,
       "tags": null,
       "images": [
         {
-          "url": "https://sm.pcmag.com/t/pcmag_in/news/p/pinterest-/pinterest-introduces-a-computer-vision-powered-hair-pattern_aj3c.1200.jpg",
+          "url": "https://sm.pcmag.com/t/pcmag_uk/news/p/pinterest-/pinterest-introduces-a-computer-vision-powered-hair-pattern_7vfe.1200.jpg",
           "width": 1200,
           "height": 675,
           "title": null,
@@ -511,6 +511,50 @@
       ]
     },
     {
+      "path": "_news/2021-08-13-street-mapping-startup-mapillary-scores-a-mysterious-amazon-rekognition-partnership.md",
+      "title": "Street-mapping startup Mapillary scores a mysterious Amazon Rekognition partnership",
+      "excerpt": "Mapillary, a startup on a mission to “fix” the world’s maps, partnered with Amazon’s machine vision program, Rekognition, to build street-level maps. Starting with a parking app, the Swedish company plans to build a platform that rivals Google’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehustle.co/mapillary-amazon-mapping-google/",
+      "originalUrl": "https://thehustle.co/mapillary-amazon-mapping-google/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehustle.co/wp-content/uploads/2018/09/xxx-31.jpg",
+          "width": 600,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehustle.co/mapillary-amazon-mapping-google/amp/",
+      "cdnAmpWebUrl": "https://thehustle-co.cdn.ampproject.org/c/s/thehustle.co/mapillary-amazon-mapping-google/amp/",
+      "publishedDateTime": "2021-08-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hustle",
+        "domain": "thehustle.co",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-08-13-many-americans-arent-aware-theyre-being-tracked-with-facial-recognition-while-shopping.md",
       "title": "Many Americans aren't aware they're being tracked with facial recognition while shopping",
       "excerpt": "Of those surveyed, almost half (40%) were completely unaware that retailers have begun using facial recognition technology in their stores while 60 percent said they knew this tec",
@@ -649,6 +693,50 @@
       ]
     },
     {
+      "path": "_news/2021-08-12-amazon-rekognition-custom-brand-detection.md",
+      "title": "Amazon Rekognition Custom Brand Detection",
+      "excerpt": "When the labelers complete the labeling job, the solution uses the annotations from the labelers to prepare and train a custom label model using Amazon Rekognition Custom Labels service and deploys the model once the training completes. When the model is ...",
+      "sourceUrl": null,
+      "webUrl": "https://github.com/aws-samples/amazon-rekognition-custom-brand-detection",
+      "originalUrl": "https://github.com/aws-samples/amazon-rekognition-custom-brand-detection",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://opengraph.githubassets.com/e28091c2f1b5d65ce18c3a75b7f39a2e547efdeac7635e00e02bf5afa8433e86/aws-samples/amazon-rekognition-custom-brand-detection",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-11T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GitHub",
+        "domain": "github.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-08-11-how-computer-vision-works-and-why-its-plagued-by-bias.md",
       "title": "How computer vision works — and why it’s plagued by bias",
       "excerpt": "Computer vision explained. We break down how AI computer vision works, its rise, applications, bias, and challenges.",
@@ -698,6 +786,41 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-global-artificial-intelligence-applications-for-smart-cities-market-swot-analysiskey-indicatorsforecast-2027-amazon-rekognition-c3ai.md",
+      "title": "Global Artificial Intelligence Applications for Smart Cities Market SWOT Analysis,Key Indicators,Forecast 2027 : Amazon (Rekognition), C3.ai",
+      "excerpt": "MR Accuracy Reports reports provide extensive Artificial Intelligence Applications for Smart Cities assessments with considering the importance and projections and provide detailed, strategic life choice data identification and effective to provide a ...",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/global-artificial-intelligence-applications-for-smart-cities-market-swot-analysiskey-indicatorsforecast-2027-amazon-rekognition-c3-ai/",
+      "originalUrl": "https://manometcurrent.com/global-artificial-intelligence-applications-for-smart-cities-market-swot-analysiskey-indicatorsforecast-2027-amazon-rekognition-c3-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/global-artificial-intelligence-applications-for-smart-cities-market-swot-analysiskey-indicatorsforecast-2027-amazon-rekognition-c3-ai/",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/global-artificial-intelligence-applications-for-smart-cities-market-swot-analysiskey-indicatorsforecast-2027-amazon-rekognition-c3-ai/",
+      "publishedDateTime": "2021-08-10T22:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -1252,118 +1375,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-multiple-view-geometry-in-computer-vision.md",
-      "title": "Multiple View Geometry in Computer Vision",
-      "excerpt": "A basic problem in computer vision is to understand the structure of a real world scene given several images of it. Techniques for solving this problem are taken from projective geometry and photogrammetry. Here, the authors cover the geometric principles ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/by/academic/subjects/computer-science/computer-graphics-image-processing-and-robotics/multiple-view-geometry-computer-vision-2nd-edition?format=PB&isbn=9780521540513",
-      "originalUrl": "https://www.cambridge.org/by/academic/subjects/computer-science/computer-graphics-image-processing-and-robotics/multiple-view-geometry-computer-vision-2nd-edition?format=PB&isbn=9780521540513",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-05T19:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-facial-recognition-based-boarding-system-under-trial-in-6-airports-govt-to-ls.md",
-      "title": "Facial recognition-based boarding system under trial in 6 airports: Govt to LS",
-      "excerpt": "Centre also informed that Airports Authority of India (AAI) plans to invest around ₹25,000 crore in next 4-5 years for expansion and development of existing and new terminals, using modern technology",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/news/india/facial-recognition-based-boarding-system-under-trial-in-6-airports-govt-to-ls-11628176112755.html",
-      "originalUrl": "https://www.livemint.com/news/india/facial-recognition-based-boarding-system-under-trial-in-6-airports-govt-to-ls-11628176112755.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/08/05/600x338/DSC_6647-01_1590380999692_1628177035268.jpeg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/news/india/facial-recognition-based-boarding-system-under-trial-in-6-airports-govt-to-ls/amp-11628176112755.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/facial-recognition-based-boarding-system-under-trial-in-6-airports-govt-to-ls/amp-11628176112755.html",
-      "publishedDateTime": "2021-08-05T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-himss-2021-chooch-ai-automates-healthcare-with-computer-vision.md",
-      "title": "HIMSS 2021: Chooch AI Automates Healthcare With Computer Vision",
-      "excerpt": "HIMSS Global Health Conference & Exhibition 2021 8/10-12 2021] Chooch AI, the leading computer vision AI platform, today announced the availability of computer vision models that will efficiently support healthcare.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/08/05/9425075.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/08/05/9425075.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-05T07:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

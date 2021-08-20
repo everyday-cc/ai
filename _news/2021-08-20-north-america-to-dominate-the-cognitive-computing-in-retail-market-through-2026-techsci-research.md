@@ -8,8 +8,8 @@ webUrl: "https://www.openpr.com/news/2361483/north-america-to-dominate-the-cogni
 ampWebUrl: "https://www.openpr.com/amp/2361483/north-america-to-dominate-the-cognitive-computing-in-retail"
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2361483/north-america-to-dominate-the-cognitive-computing-in-retail"
 type: article
-quality: 47
-heat: 47
+quality: 49
+heat: -1
 published: false
 
 provider:
@@ -20,12 +20,31 @@ topics:
   - Natural Language Processing
   - AI
   - Microsoft AI
+  - Google AI
 
 images:
   - url: "https://cdn.openpr.com/U/8/U820880368_g.jpg"
     width: 400
     height: 300
     isCached: true
+
+related:
+  - title: "North America is expected to dominate the AI in Physical Security Market to through 2026 – TechSci Research"
+    excerpt: "Ongoing technological advancements and the surge in use of the internet protocol based camera is expected to drive the demand for global AI in physical security market in forecast period According to TechSci Research report Global AI in Physical Security"
+    publishedDateTime: 2021-08-20T06:15:00Z
+    webUrl: "https://www.openpr.com/news/2361395/north-america-is-expected-to-dominate-the-ai-in-physical-security"
+    ampWebUrl: "https://www.openpr.com/amp/2361395/north-america-is-expected-to-dominate-the-ai-in-physical-security"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2361395/north-america-is-expected-to-dominate-the-ai-in-physical-security"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 58
+    images:
+      - url: "https://cdn.openpr.com/U/8/U820806123_g.jpg"
+        width: 450
+        height: 300
+        isCached: true
 
 secured: "BvzOOBC71G40MvMkKakO9X1+hxMt+LiNXGKhD100OSAd4oVbuQG9vJQ4FL+r54TuI/vPMcEmkGCvx4ffqi21YL+mqUWUgNrdAlA3A9A6EYIf1C3oRxlQG+3tGdYfY3RhnIa4Nu79L7qnz6VI+rCZjZjBP6YW5a6F0OxLRFcNaaLm6oHIDoS1168PCP/r2rrOh8WNk5mY0l0xkLSv1KsM5AQNxvaUa1uFgnkR1VU1lQmBU7pVhzyV4/NUzLmQDkLd8pA8u3/tBPvmzHFeP7NV/Cp8E0qMyoneP2qFb54kC/VHIEQNnAAG5x8POeteFozDQgWPVXQKK1k1er727usnagz7C/38COObS/q9Bnj6j71ZOC+iSsMHS4uPFmsWQXufTUhUwE3HHK5SA0vZBBEdJaJrsZw86m7AIjSSj9r+f5WcnVtEAsEboTFxoiPAtC3g/x81vond/cnUR5kr+hZajAyXsh7htroaxr2PiRQCt0NK6MvNifylT3f0S8IOXQuWxDer0AHUUz5FL8f2JzzzDA==;TGb6Tz59TDUibs1Dy71K9A=="
 ---

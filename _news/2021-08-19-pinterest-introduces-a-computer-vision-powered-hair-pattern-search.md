@@ -3,8 +3,8 @@ category: news
 title: "Pinterest Introduces a Computer Vision-Powered Hair Pattern Search"
 excerpt: "Pinterest this week rolled out hair pattern search, a \"first-of-its-kind\" technology created with pinners of color in mind. Using computer vision-powered object detection, the feature enables users to refine hair searches by six different patterns: protective,"
 publishedDateTime: 2021-08-19T11:00:00Z
-originalUrl: "https://in.pcmag.com/social-media/144365/pinterest-introduces-a-computer-vision-powered-hair-pattern-search"
-webUrl: "https://in.pcmag.com/social-media/144365/pinterest-introduces-a-computer-vision-powered-hair-pattern-search"
+originalUrl: "https://uk.pcmag.com/social-media/135146/pinterest-introduces-a-computer-vision-powered-hair-pattern-search"
+webUrl: "https://uk.pcmag.com/social-media/135146/pinterest-introduces-a-computer-vision-powered-hair-pattern-search"
 type: article
 quality: 84
 heat: 84
@@ -23,11 +23,11 @@ topics:
   - AI
 
 images:
-  - url: "https://sm.pcmag.com/t/pcmag_in/news/p/pinterest-/pinterest-introduces-a-computer-vision-powered-hair-pattern_aj3c.1200.jpg"
+  - url: "https://sm.pcmag.com/t/pcmag_uk/news/p/pinterest-/pinterest-introduces-a-computer-vision-powered-hair-pattern_7vfe.1200.jpg"
     width: 1200
     height: 675
     isCached: true
 
-secured: "ZFz1m35GXbXZqeVmrHjl9tJ72hND3EcvLkUpyDtesbVEIhI9hTGGnKtKJhaME7iSyad7+FvJqI+rB1Kg4dEv47HT4j6lHzuSZvgCPedkcNBG0CjWXIisKZ+HBnZ7TkwOd/zbVGK5PVyvTCbMTqd2a2bjmgIm2f7b26TAfyaBHTRhfPr1cvjsMqeHCGei3WCu2q66PYQCoOjFbpx/XocxBjBO8GOXMl1xN3FBYr0c8BdA0QsDhpqzxkLWgLO0voxAjBqwMf7H62CmGDjcpKQxXAztGv2n7BRZklJfVUlT8lQSVHP4LrePYD4iVk8No/xbzXY5WwAe7MpZ6O6KPtXfWo6IHgPlnof9hcjvpxoPIAQ=;jmBlSXukqX/Iy2+81RlBLw=="
+secured: "0Jd/GXykJCsTnY3h3yd4KKMdNEbrje6VQkfFzk1Hg3wIvBrnLiD/3ZJtdbjohavS9JqcG+YwA/z0hbRCBL+937Fx//gxt92A7I8dAJnZXRrP1bVnKZ57rYRoxOrkDJpwVnZAZD7DAU9wttCa74L5WWJcJWHhLz08rSEzAjhRtWW5g80BxrfcepSp6DdlWAxl7bE0goiBumitQi7UJ17LF5ub7DiaYXLtvlgTGvP+YdP/zQoOUmK19XFpS1P1rlwMqmHliZ2DLfEwLHkFkDtT5ZZxWZ32k6toq10GJ+/xWwmiDh7IgPiS0t5canSlOzRFjnjI6eSF4mNaZ/Puu8bPyViS9F6GZBMkO9NBZ79mhBI=;lTM2mmIYpmkArq0TC1dVzA=="
 ---
 

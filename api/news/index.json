@@ -53,7 +53,7 @@
       "originalUrl": "https://www.cnet.com/news/elon-musk-reveals-tesla-bot-a-humanoid-robot-utilizing-tesla-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 321,
+      "heat": 331,
       "tags": null,
       "images": [
         {
@@ -283,57 +283,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-amazon-taps-its-socialbot-challenge-to-boost-conversational-ai.md",
-      "title": "Amazon taps its SocialBot challenge to boost conversational AI",
-      "excerpt": "Amazon announced the winners of its annual Alexa Prize SocialBot Grand Challenge, which ​​promotes research into coherence, context awareness, fluency of re",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/19/amazon-taps-its-socialbot-challenge-to-boost-conversational-ai/",
-      "originalUrl": "https://venturebeat.com/2021/08/19/amazon-taps-its-socialbot-challenge-to-boost-conversational-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1150572105-e1629315992557.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/19/amazon-taps-its-socialbot-challenge-to-boost-conversational-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/19/amazon-taps-its-socialbot-challenge-to-boost-conversational-ai/amp/",
-      "publishedDateTime": "2021-08-19T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -844,15 +793,15 @@
       "title": "Pinterest Introduces a Computer Vision-Powered Hair Pattern Search",
       "excerpt": "Pinterest this week rolled out hair pattern search, a \"first-of-its-kind\" technology created with pinners of color in mind. Using computer vision-powered object detection, the feature enables users to refine hair searches by six different patterns: protective,",
       "sourceUrl": null,
-      "webUrl": "https://in.pcmag.com/social-media/144365/pinterest-introduces-a-computer-vision-powered-hair-pattern-search",
-      "originalUrl": "https://in.pcmag.com/social-media/144365/pinterest-introduces-a-computer-vision-powered-hair-pattern-search",
+      "webUrl": "https://uk.pcmag.com/social-media/135146/pinterest-introduces-a-computer-vision-powered-hair-pattern-search",
+      "originalUrl": "https://uk.pcmag.com/social-media/135146/pinterest-introduces-a-computer-vision-powered-hair-pattern-search",
       "featuredContent": null,
       "highlight": null,
       "heat": 84,
       "tags": null,
       "images": [
         {
-          "url": "https://sm.pcmag.com/t/pcmag_in/news/p/pinterest-/pinterest-introduces-a-computer-vision-powered-hair-pattern_aj3c.1200.jpg",
+          "url": "https://sm.pcmag.com/t/pcmag_uk/news/p/pinterest-/pinterest-introduces-a-computer-vision-powered-hair-pattern_7vfe.1200.jpg",
           "width": 1200,
           "height": 675,
           "title": null,
@@ -1229,6 +1178,49 @@
         "AI in Robotics",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-kpmg-deakin-university-join-hands-to-offer-pg-course-in-artificial-intelligence-and-deep-learning.md",
+      "title": "KPMG, Deakin University Join Hands to Offer PG Course in Artificial Intelligence and Deep Learning",
+      "excerpt": "The adoption of artificial intelligence and deep learning to harness their transformative potential is becoming a key priority of most organizations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news18.com/news/education-career/kpmg-deakin-university-australia-join-hands-to-offer-a-pg-course-in-artificial-intelligence-and-deep-learning-4102001.html",
+      "originalUrl": "https://www.news18.com/news/education-career/kpmg-deakin-university-australia-join-hands-to-offer-a-pg-course-in-artificial-intelligence-and-deep-learning-4102001.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.news18.com/ibnlive/uploads/2021/08/kpmg-162935128916x9.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news18.com/amp/news/education-career/kpmg-deakin-university-australia-join-hands-to-offer-a-pg-course-in-artificial-intelligence-and-deep-learning-4102001.html",
+      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/kpmg-deakin-university-australia-join-hands-to-offer-a-pg-course-in-artificial-intelligence-and-deep-learning-4102001.html",
+      "publishedDateTime": "2021-08-18T22:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN-News18",
+        "domain": "news18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

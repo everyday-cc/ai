@@ -2,24 +2,24 @@
 category: news
 title: "Ryder and Waymo agree to build maintenance network for self-driving trucks"
 excerpt: "The companies’ goal is to maximize vehicle up-time and ensure the reliability required to scale operations nationwide, Miami-based Ryder said. According to Waymo Via—Waymo’s trucking and local delivery unit—the move was necessary to serve its growing fleet and geographical footprint."
-publishedDateTime: 2021-08-19T18:57:00Z
-originalUrl: "https://www.dcvelocity.com/articles/52020-ryder-and-waymo-agree-to-build-maintenance-network-for-self-driving-trucks"
-webUrl: "https://www.dcvelocity.com/articles/52020-ryder-and-waymo-agree-to-build-maintenance-network-for-self-driving-trucks"
+publishedDateTime: 2021-08-19T18:58:00Z
+originalUrl: "https://www.supplychainquarterly.com/articles/5310-ryder-and-waymo-agree-to-build-maintenance-network-for-self-driving-trucks"
+webUrl: "https://www.supplychainquarterly.com/articles/5310-ryder-and-waymo-agree-to-build-maintenance-network-for-self-driving-trucks"
 type: article
 quality: 52
 heat: -1
 published: false
 
 provider:
-  name: DC Velocity
-  domain: dcvelocity.com
+  name: supplychainquarterly.com
+  domain: supplychainquarterly.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.dcvelocity.com/ext/resources/2021/08/19/Ryder_Waymo.jpg?height=635&t=1629399307&width=1200"
+  - url: "https://www.supplychainquarterly.com/ext/resources/2021/08/19/Ryder_Waymo.jpg?height=635&t=1629400349&width=1200"
     width: 1129
     height: 635
     isCached: true
@@ -79,6 +79,6 @@ related:
       domain: bizjournals.com
     quality: 18
 
-secured: "ENG9ugetkLgqjb8IUiSdg1h76l74iiHcNoh1WyHenp2b7iozb5gHBvEcxdvo9UdQU4bf7X7+kBtCG5iU0mhDtmWt3bNarON9FSrd1OV+GFPwaZEUaSntowpoMyyi9xt0SISjk+hQhrHD+egnxp6N2WWJfCQXxfNIIrThCFg9cQLI2C0kApdkheQ2SywiUx8lVR48TU9JWe+fQRy8U6hjE1R2zzHQISZY72jgILLk8N9Qn4LYh0hpuSClZNmZmR/i6u0+xV9Xq7WoFNIDOIAvfS9SNmwPGx013/TK9famAcAg+6iPyXFqFYfhXVFhsPhe9dszRZqVh8DJK2XrUA7d2xDrHxGCua+S9N8xCifmvPb4o4+ZtCHPmrRy8fIdQDwbsIB67x+XmWTxU+dF617iTRLIs37HTDyAAKVguYn9CHC30MZtWy9mfLvuDN9GAj7+rglIlsyTXGuLh2v6qU1nMWIVVZQR7AyUE65j4r/sxfp9JgpDINs5IGuw6qChdPnajUWOYLUt1fOQDGJMBwsVnw==;jP1fWI200QmxMQgObTx5bA=="
+secured: "VWRUvX9D5IpwktZFkRGB0Bfw+PgcJAVaqLVMevClDBJIcn+bEi0i7b+nIke+NKwVtPOyfLbd6Oy7ytC15H2Hv6AlsTpdvRfOVMzfg5RT3NP1O/4YvmTQQUZPUoBir8anJ00P4Pb5PwXwXPUbqNT+XrZt+5+A50rZC7sV9L7pR0A90FUu9HAyd8DtaAI8UdY3LoCqoo2lCKj2oBpQWCaT5me3CPpuYdoSmB389sGSk89VKwXWcmUfTJsS17Rg0QdjDLYo1qyrpxYLzpwxzZcyZKWI5+D5TnFXHBUNSnjpB3267wxL3vgb0s8GsCHpYfe4SNCvtYfT8GZp3r1iAIN3t7tqs2eEnENg3vD5Fh7YBQw=;wD3iE2id7GOI48tEJ3SJ5Q=="
 ---
 

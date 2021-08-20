@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2FJ0GK"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2FJ0GK"
 type: article
 quality: 104
-heat: 194
+heat: 204
 published: true
 
 provider:
@@ -146,7 +146,16 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 33
+  - title: "Baidu Announces Upgraded Baidu Brain 7.0 and Mass Production of 2nd Generation Kunlun AI Chip"
+    excerpt: "Baidu today showcased its strengths in artificial intelligence technology with the launch of Baidu Brain 7.0, the start of mass"
+    publishedDateTime: 2021-08-18T18:06:00Z
+    webUrl: "https://www.enterpriseai.news/2021/08/18/baidu-announces-upgraded-baidu-brain-7-0-and-mass-production-of-2nd-generation-kunlun-ai-chip/"
+    type: article
+    provider:
+      name: enterpriseai
+      domain: enterpriseai.news
+    quality: 25
 
-secured: "NAE2HZbrItRn4azL1k2s3Iuhye/LGrzb3/4BO9RK8WWmEc3xLkEmr7iIWwiMptlLRrTgU+DFc8Wxm/A32V+f7LtTHTHFyYUzLmKWaARmGRPfXivZylf3flzwcWsbuBRL8CIysloyjOff81TP1f5y40yy+IhzsW8W0gGcZFAQ10MbHAfYtllGMVk3H467s5kQYSvEcvcXvmPph4EnY12cGxifEn2lHKW7cC+QkccI2gJpfqPnM4QqPHTyRutyt+ZshVhvSfWOlYL5o+IAwDfOdnjKMcxouRz8mMXM2oyrylPQLsp8FqP5OgALcsRcDPa4SeXCtU/+I2+jjTXBOxuT8LMBO6gsnB6q5rf0Bdi8xZg=;spH0/goPoFzRa4o1WfmmFg=="
+secured: "JMi1QW+jz/khQoSn9oxlrSI4yw0ja6GEVxgiUSZ3RLdClEmIPV0cuOVjhNiielFmqy6Ui6BgdJg5xWBa8VaniIZBd6qS1LX6J16FgZl2+u7x7Gqp65DnzWps4rdPAyrGswWZy9Su8czP6/sm6J4RoAwKGGbzyvYp0f3LMrsXM0Dk57msp5ByVv7S/nIq8v4piwSpmg+nYvn3rb6qutcnx4aJSkbIds99wtrfz536xghokGB9YUHVR9BTuEjxxrMG1smgM+ik4D002fxdLUtroS8a+HuPMBg9QncCcTNI8ePeJBGxzHsnYZHR52wbQV/rTC5wh2HGMSRuHZ0xpfNMyMDHTffyVCnz9hjWtmMPCe8/VzksuN+/iD/0s2Ayqxz3nmhjZMiMPrJqqpmTGTPgqbqjUNVeQqz8Q443fG5gSnOVlcsm9AlV7a0oAk0UWkj2ta1TboFHT8T/z+j/UIkIV7c/hUfs/F+xO3Hcs4On+BIUbUmMl3DU+K8kQzgz29jaenbqJyt9xtnYRf7JBmiSVQ==;0uxZqg8rQ9AiShlTnaaK9A=="
 ---
 

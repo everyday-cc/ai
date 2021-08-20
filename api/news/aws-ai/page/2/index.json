@@ -2,6 +2,234 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-09-announcing-model-improvements-and-lower-annotation-limits-for-amazon-comprehend-custom-entity-recognition.md",
+      "title": "Announcing model improvements and lower annotation limits for Amazon Comprehend custom entity recognition",
+      "excerpt": "Amazon Comprehend is a natural language processing (NLP) service that provides APIs to extract key phrases, contextual entities, events, sentiment from unstructured text, and more. Entities refer to things in your document such as people, places, organizations, credit card numbers, and so on. But what",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-model-improvements-and-lower-annotation-limits-for-amazon-comprehend-custom-entity-recognition/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-model-improvements-and-lower-annotation-limits-for-amazon-comprehend-custom-entity-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/09/1-4900-counts_rev1.png",
+          "width": 800,
+          "height": 566,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-09T13:07:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-08-09-seachange-enables-a-fully-migrated-cloud-video-delivery-platform-with-unique-analytics-and-engagement-services-on-amazon-web-services.md",
+      "title": "SeaChange Enables a Fully Migrated Cloud Video Delivery Platform with Unique Analytics and Engagement Services on Amazon Web Services",
+      "excerpt": "Now, with Amazon SageMaker, SeaChange customers will be able to easily deploy ML use cases like predictive maintenance, computer vision and predicting customer behaviors. \"SeaChange's StreamVid ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/seachange-enables-a-fully-migrated-cloud-video-delivery-platform-with-unique-analytics-and-engagement-services-on-amazon-web-services-1030708388",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/seachange-enables-a-fully-migrated-cloud-video-delivery-platform-with-unique-analytics-and-engagement-services-on-amazon-web-services-1030708388",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-09T05:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-09-rbl-bank-selects-aws-as-preferred-cloud-provider.md",
+      "title": "RBL Bank selects AWS as preferred cloud provider",
+      "excerpt": "Other use cases already being tested within the Operations division include usingservices like Amazon Rekognition and Amazon Textract to automatically extract and match customer signatures and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiainfoline.com/article/capital-market-corporate-news/rbl-bank-selects-aws-as-preferred-cloud-provider-121080900272_1.html",
+      "originalUrl": "https://www.indiainfoline.com/article/capital-market-corporate-news/rbl-bank-selects-aws-as-preferred-cloud-provider-121080900272_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg",
+          "width": 350,
+          "height": 233,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.indiainfoline.com/article-amp/capital-market-corporate-news/rbl-bank-selects-aws-as-preferred-cloud-provider-121080900272_1.html",
+      "cdnAmpWebUrl": "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/capital-market-corporate-news/rbl-bank-selects-aws-as-preferred-cloud-provider-121080900272_1.html",
+      "publishedDateTime": "2021-08-09T05:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Infoline",
+        "domain": "indiainfoline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-08-09-rbl-bank-selects-aws-to-accelerate-ai-efforts.md",
+      "title": "RBL Bank selects AWS to accelerate AI efforts",
+      "excerpt": "RBL Bank has selected Amazon Web Services (AWS), an Amazon.com company, as its cloud provider. AWS would help RBL Bank strengthen its AI-powered banking solutions and drive digital transformation at the lender.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/money-and-banking/rbl-bank-selects-aws-to-accelerate-ai-efforts/article35814022.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/money-and-banking/rbl-bank-selects-aws-to-accelerate-ai-efforts/article35814022.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/money-and-banking/uhrmta/article35335593.ece/ALTERNATES/LANDSCAPE_615/RBLbank",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/money-and-banking/rbl-bank-selects-aws-to-accelerate-ai-efforts/article35814022.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/money-and-banking/rbl-bank-selects-aws-to-accelerate-ai-efforts/article35814022.ece/amp/",
+      "publishedDateTime": "2021-08-09T04:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-08-09-rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts.md",
+      "title": "RBL Bank selects AWS to Accelerate Artificial Intelligence Efforts",
+      "excerpt": "Other use cases already being tested within the Operations division include using services like Amazon Rekognition and Amazon Textract to automatically extract and match customer signatures and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiainfoline.com/article/news-sector-banking-financials/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900334_1.html",
+      "originalUrl": "https://www.indiainfoline.com/article/news-sector-banking-financials/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900334_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg",
+          "width": 350,
+          "height": 233,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.indiainfoline.com/article-amp/news-sector-banking-financials/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900334_1.html",
+      "cdnAmpWebUrl": "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-banking-financials/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900334_1.html",
+      "publishedDateTime": "2021-08-09T01:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Infoline",
+        "domain": "indiainfoline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-08-06-make-your-audio-and-video-files-searchable-using-amazon-transcribe-and-amazon-kendra.md",
       "title": "Make your audio and video files searchable using Amazon Transcribe and Amazon Kendra",
       "excerpt": "The demand for audio and video media content is growing at an unprecedented rate. Organizations are using media to engage with their audiences like never before. Product documentation is increasingly published in video form, and podcasts are increasingly produced in place of blog posts. The recent explosion",
@@ -578,19 +806,19 @@
     {
       "path": "_news/2021-08-02-wavicle-data-solutions-establishes-dedicated-aws-solutions-practice.md",
       "title": "Wavicle Data Solutions Establishes Dedicated AWS Solutions Practice",
-      "excerpt": "New AWS Solutions Practice focuses on building and enhancing AWS-centric solutions for faster time-to-value for Wavicle customers CHICAGO (PRWEB)",
+      "excerpt": "video and image solutions using Amazon Rekognition, and audio solutions using Amazon Transcribe. PII Compliance: In order to maintain the privacy of customer data, the Wavicle team provides ...",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/08/p22276802/wavicle-data-solutions-establishes-dedicated-aws-solutions-practice",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/08/p22276802/wavicle-data-solutions-establishes-dedicated-aws-solutions-practice",
+      "webUrl": "https://www.lelezard.com/en/news-19930559.html",
+      "originalUrl": "https://www.lelezard.com/en/news-19930559.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155831/Options-Trades-Feb-3-2021-5.png",
-          "width": 1200,
-          "height": 600,
+          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
+          "width": 640,
+          "height": 480,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -598,13 +826,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/22276802",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22276802",
-      "publishedDateTime": "2021-08-02T08:00:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-02T08:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -659,6 +887,50 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-02-orlando-renews-facial-rekognition-pilot-program.md",
+      "title": "Orlando Renews Facial “Rekognition” Pilot Program",
+      "excerpt": "But there’s one part of Amazon’s business that is very interested in seeing your face out and about in public. Amazon Rekognition is a facial recognition system. And Orlando’s police department is one of two in the country helping Amazon beta-test ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wmfe.org/orlando-renews-facial-rekognition-pilot-program/89058",
+      "originalUrl": "https://www.wmfe.org/orlando-renews-facial-rekognition-pilot-program/89058",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wmfeimages.s3.amazonaws.com/wp-content/uploads/2018/06/26160245/orlando-traffic-cam_wide-1c5544417c9e03a74d839be8594a6b4893ea190a.jpg",
+          "width": 1060,
+          "height": 596,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-01T13:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WMFE",
+        "domain": "wmfe.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -1133,266 +1405,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-how-fintech-can-harness-the-power-of-aws-aiml.md",
-      "title": "How Fintech can harness the power of AWS AI/ML",
-      "excerpt": "Arun Kumar Lokanatha, AI/ ML Specialist Solutions Architect, AISPL, will discuss different AWS services, such as Amazon Textract, Amazon Rekognition, Amazon Comprehend, Amazon Sagemaker and Amazon ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2021/07/fintech-harness-power-aws-ai-ml/amp",
-      "originalUrl": "https://yourstory.com/2021/07/fintech-harness-power-aws-ai-ml/amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/2d86ed30b28211e8b2e7114aea10c711/Imagetht2-1627460868024.jpg ",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2021/07/fintech-harness-power-aws-ai-ml/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/07/fintech-harness-power-aws-ai-ml/amp",
-      "publishedDateTime": "2021-07-28T01:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-detect-small-shapes-and-objects-within-your-images-using-amazon-rekognition-custom-labels.md",
-      "title": "Detect small shapes and objects within your images using Amazon Rekognition Custom Labels",
-      "excerpt": "There are multiple scenarios in which you may want to use computer vision to detect small objects or symbols within a given image. Whether it’s detecting company logos on grocery store shelves to manage inventory, detecting informative symbols on documents, or evaluating survey or quiz documents that",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/detect-small-shapes-and-objects-within-your-images-using-amazon-rekognition-custom-labels/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/detect-small-shapes-and-objects-within-your-images-using-amazon-rekognition-custom-labels/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-27T09:10:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-bring-your-own-container-to-project-model-accuracy-drift-with-amazon-sagemaker-model-monitor.md",
-      "title": "Bring your own container to project model accuracy drift with Amazon SageMaker Model Monitor",
-      "excerpt": "The world we live in is constantly changing, and so is the data that is collected to build models. One of the problems that is often seen in production environments is that the deployed model doesn’t behave the same way as it did during the training phase. This concept is generally called data drift",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/bring-your-own-container-to-project-model-accuracy-drift-with-amazon-sagemaker-model-monitor/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/bring-your-own-container-to-project-model-accuracy-drift-with-amazon-sagemaker-model-monitor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/08/ml2559-diag2.jpg",
-          "width": 785,
-          "height": 525,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-26T14:37:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-great-attains-aws-advanced-consulting-partner-accreditation.md",
-      "title": "GREAT Attains AWS Advanced Consulting Partner Accreditation",
-      "excerpt": "GREAT, a leading independent AWS-focused cloud services company, has been recognized by Amazon Web Services (AWS) for its depth of capability and client satisfaction by being promoted to Advanced Consulting Partner in the AWS Partner Network (APN).",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-great-attains-aws-advanced-consulting-partner-accreditation-/2021/07/26/9416632.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-great-attains-aws-advanced-consulting-partner-accreditation-/2021/07/26/9416632.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-26T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-blue-hexagon-augments-aws-network-firewall-with-ai-based-cloud-native-threat-detection.md",
-      "title": "Blue Hexagon Augments AWS Network Firewall with AI-based Cloud-Native Threat Detection",
-      "excerpt": "Blue Hexagon, a leading agentless cloud-native AI security platform, announced the native integration of Blue Hexagon’s industry-leading real-time deep learning based threat detection with AWS Network Firewall for real-time protection.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/blue-hexagon-augments-aws-network-firewall-with-ai-based-cloud-native-threat-detection/",
-      "originalUrl": "https://www.financialbuzz.com/blue-hexagon-augments-aws-network-firewall-with-ai-based-cloud-native-threat-detection/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-26T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-amazons-mugshot-ai-says-28-members-of-congress-are-known-criminals.md",
-      "title": "Amazon’s mugshot AI says 28 members of Congress are known criminals",
-      "excerpt": "In a new series of tests by the American Civil Liberties Union a whopping 28 members of Congress have been matched by Amazon’s Rekognition facial identification software with mugshots of known ...",
-      "sourceUrl": null,
-      "webUrl": "https://bgr.com/science/amazon-rekognition-congress-false-matches-aclu/",
-      "originalUrl": "https://bgr.com/science/amazon-rekognition-congress-false-matches-aclu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bgr.com/wp-content/uploads/2018/07/featured_image.jpg?quality=70&strip=all",
-          "width": 1160,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://bgr.com/science/amazon-rekognition-congress-false-matches-aclu/amp/",
-      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/science/amazon-rekognition-congress-false-matches-aclu/amp/",
-      "publishedDateTime": "2021-07-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "bgr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

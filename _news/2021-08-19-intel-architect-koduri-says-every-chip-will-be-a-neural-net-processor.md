@@ -34,10 +34,10 @@ images:
 related:
   - title: "Intel architect Koduri says every chip will be a neural net processor"
     excerpt: "The processing of neural networks for artificial intelligence is becoming a main part of the workload of every kind of chip, according to chip giant Intel, which on Thursday unveiled details of forthcoming processors during its annual \"Architecture Day ..."
-    publishedDateTime: 2021-08-19T17:27:00Z
-    webUrl: "https://www.zdnet.com/index.php/publisher/6291689/index.php/article/intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor/"
-    ampWebUrl: "https://www.zdnet.com/index.php/publisher/6291689/index.php/google-amp/article/intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6291689/index.php/google-amp/article/intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor/"
+    publishedDateTime: 2021-08-20T04:53:00Z
+    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor/"
     type: article
     provider:
       name: ZDNet

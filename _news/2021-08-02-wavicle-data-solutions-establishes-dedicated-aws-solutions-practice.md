@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Wavicle Data Solutions Establishes Dedicated AWS Solutions Practice"
-excerpt: "New AWS Solutions Practice focuses on building and enhancing AWS-centric solutions for faster time-to-value for Wavicle customers CHICAGO (PRWEB)"
-publishedDateTime: 2021-08-02T15:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/08/p22276802/wavicle-data-solutions-establishes-dedicated-aws-solutions-practice"
-webUrl: "https://www.benzinga.com/pressreleases/21/08/p22276802/wavicle-data-solutions-establishes-dedicated-aws-solutions-practice"
-ampWebUrl: "https://www.benzinga.com/amp/content/22276802"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22276802"
+excerpt: "video and image solutions using Amazon Rekognition, and audio solutions using Amazon Transcribe. PII Compliance: In order to maintain the privacy of customer data, the Wavicle team provides ..."
+publishedDateTime: 2021-08-02T15:06:00Z
+originalUrl: "https://www.lelezard.com/en/news-19930559.html"
+webUrl: "https://www.lelezard.com/en/news-19930559.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155831/Options-Trades-Feb-3-2021-5.png"
-    width: 1200
-    height: 600
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
     isCached: true
 
-secured: "OaMp1IxDlPhq856EjvSD0k43T5vLytd2tO26urIxUtn1FEZiSvf8/3VuoPfwcDsi5KPmX6teSuEiRdhJgwQHnyJhCB5NNxE22mamf64WsywKYWoDQ7TTtC2F8CeXROHmEF0GWNhyH+wutjeExRHM8X0TwAEdk3MCdXuhDtYHm5vC+YLxhlr7qVDj0gvdFOvgJGweKVfmKClo5vFpXljQQ5jScQcRUQ9xh39GLKQ6MQgDKegB7Z4Rqthh3pHKVxumvQCiK5vNX4Iitnth3tviy1cKONlayd/Lg0/1qSjJ8UDHozNW/XpR2CdldI9xDDMK2Jlsj3oyJ8cm81FKrwfv7QCqy1+wSata1nOL5TrIv4g=;tEP++qKKOvPc96u368P6UA=="
+secured: "E15+LuLbMa7WK3t4YjZIRgPBFkypYVIXoxY0drmy8H0qIyzJRT2nrpWaeXWgyacKX0tRdYTUOavZsobfbgtxF47v6SGGzEJJqW3EI2SWFR3p4oC4BonfweBogyadaEI9bFYBTMF4bw3D648hrlHQNcFYpj5Mu6C+uXmasaK06f2VRorVuKnO44QvWHXtMtPPNxG6QlMG1eYtrZggb15wpHTaUp64Gf4VBV6BqtETQHvZDzXgxbJObS87cYudQERZ/UwHoTpkUFnB/MarqhtKNRU8s/zjlN7d+/OD/VJTo9ymeNWaa3ZB6zwF0ynCKRk7WbNIMVzGJFEC7fRXy1H5k/6Cm0TssDMm/V5EP1V2D8I=;Rs7sLpseUODW9Iek2p6TZw=="
 ---
 

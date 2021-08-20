@@ -1,10 +1,10 @@
 ---
 category: news
 title: "U.S. senators urge FTC to probe Tesla over self-driving claims"
-excerpt: "Two U.S. senators on Wednesday pressed the Federal Trade Commission (FTC) to probe Tesla (TSLA.O), saying the company has misled consumers and endangered the public by marketing its driving automation systems as fully self-driving."
+excerpt: "A logo of the electric vehicle maker Tesla is seen near a shopping complex in Beijing, China January 5, 2021. REUTERS/Tingshu Wang"
 publishedDateTime: 2021-08-18T15:19:00Z
-originalUrl: "https://www.reuters.com/article/tesla-autopilot-ftc/corrected-us-senators-urge-ftc-to-probe-tesla-over-self-driving-claims-idUSL4N2PO3YZ"
-webUrl: "https://www.reuters.com/article/tesla-autopilot-ftc/corrected-us-senators-urge-ftc-to-probe-tesla-over-self-driving-claims-idUSL4N2PO3YZ"
+originalUrl: "https://www.reuters.com/news/picture/us-senators-urge-ftc-to-probe-tesla-over-idUSKBN2FJ0WV"
+webUrl: "https://www.reuters.com/news/picture/us-senators-urge-ftc-to-probe-tesla-over-idUSKBN2FJ0WV"
 type: article
 quality: 84
 heat: -1
@@ -23,9 +23,9 @@ topics:
   - AI
 
 images:
-  - url: "https://www.reuters.com/resizer/bjG2wzYs69PPGKUQaSbIqLB-3G4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UVOPVOGYAFKMZFQHYFY36WRXL4.jpg"
-    width: 1200
-    height: 628
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210818&t=2&i=1572270336&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH7H0FQ"
+    width: 810
+    height: 539
     isCached: true
 
 related:
@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tesla Bot: A concept humanoid robot embedded with Tesla's vehicle AI"
+    excerpt: "At Tesla AI Day, the company's CEO Elon Musk unveiled a concept humanoid robot that will be powered by the AI currently embedded within Tesla's autonomous vehicles. Aptly named the Tesla Bot, details about the concept robot were limited,"
+    publishedDateTime: 2021-08-20T02:15:00Z
+    webUrl: "https://www.zdnet.com/index.php/category/18502/index.php/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/18502/index.php/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/18502/index.php/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 121
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/08/20/c53f20ad-f148-4044-a3eb-0929d3675012/tesla.png"
+        width: 1390
+        height: 856
+        isCached: true
   - title: "Elon Musk unveils 'Tesla bot,' a humanoid robot that would be made from Tesla's self-driving AI"
     excerpt: "\"There will be profound applications for the economy,\" Musk said about the bot's future capabilities. \"In the future, physical work will be a choice.\""
     publishedDateTime: 2021-08-20T03:12:00Z
@@ -93,20 +109,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Tesla Bot: A concept humanoid robot embedded with Tesla's vehicle AI"
-    excerpt: "At Tesla AI Day, the company's CEO Elon Musk unveiled a concept humanoid robot that will be powered by the AI currently embedded within Tesla's autonomous vehicles. Aptly named the Tesla Bot, details about the concept robot were limited,"
-    publishedDateTime: 2021-08-20T02:15:00Z
-    webUrl: "https://www.zdnet.com/index.php/publisher/6291689/index.php/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 101
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/r/2021/08/20/c53f20ad-f148-4044-a3eb-0929d3675012/thumbnail/770x578/1063f420391333387dce4c459db92c3f/tesla.png"
-        width: 770
-        height: 578
-        isCached: true
   - title: "Elon Musk’s Plan To Tout Tesla AI Comes As Tougher Scrutiny Of The Company Looms"
     excerpt: "The company's AI Day takes place as NHTSA probes its Autopilot feature and as two Senators call for a Federal Trade Commission investigation of how Tesla promotes Autopilot and Full Self Driving."
     publishedDateTime: 2021-08-18T18:53:00Z
@@ -138,22 +140,6 @@ related:
       - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2019/12/Tesla-Self-driving-visualization.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Musk Shows Self-Driving Progress, Humanoid Robot at Tesla AI Day"
-    excerpt: "Tesla Inc. used its inaugural AI Day to showcase improvements in its self-driving capability -- which has come under a regulatory spotlight -- and unveiled plans for a life-like robot that Elon Musk says will take the drudgery out of everyday life."
-    publishedDateTime: 2021-08-20T05:55:00Z
-    webUrl: "https://www.bnnbloomberg.ca/musk-shows-self-driving-progress-humanoid-robot-at-tesla-ai-day-1.1642269"
-    ampWebUrl: "https://www.bnnbloomberg.ca/musk-shows-self-driving-progress-humanoid-robot-at-tesla-ai-day-1.1642269.amp.html"
-    cdnAmpWebUrl: "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/musk-shows-self-driving-progress-humanoid-robot-at-tesla-ai-day-1.1642269.amp.html"
-    type: article
-    provider:
-      name: bnnbloomberg
-      domain: bnnbloomberg.ca
-    quality: 91
-    images:
-      - url: "https://www.bnnbloomberg.ca/img/bnn/amp/BNN_placeholder.jpg"
-        width: 620
-        height: 349
         isCached: true
   - title: "Lawmakers Target Tesla's Autopilot and Self-Driving Claims"
     excerpt: "Two U.S. Senators are urging the Federal Trade Commission to investigate whether Tesla Inc. uses deceptive marketing practices by labeling its driver-assistance systems “Autopilot” and “Full Self-Driving."
@@ -247,6 +233,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Musk Shows Self-Driving Progress, Humanoid Robot at Tesla AI Day"
+    excerpt: "Tesla Inc. used its inaugural AI Day to showcase improvements in its self-driving capability -- which has come under a regulatory spotlight -- and unveiled plans for a life-like robot that Elon Musk says will take the drudgery out of everyday life."
+    publishedDateTime: 2021-08-20T06:03:00Z
+    webUrl: "https://www.bloombergquint.com/business/tesla-showcases-self-driving-progress-at-inaugural-ai-day"
+    type: article
+    provider:
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 71
+    images:
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2021-08%2F317f2532-b723-427c-901c-13ccb9f542a5%2F372941285.jpg?rect=0%2C568%2C3998%2C2099&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Senators call for investigation into Tesla’s marketing of self-driving vehicle features"
     excerpt: "Two Democratic senators have sent a letter to the Federal Trade Commission (FTC) asking for an investigation into Tesla’s marketing of its Autopilot and Fu"
     publishedDateTime: 2021-08-18T16:34:00Z
@@ -262,6 +262,20 @@ related:
       - url: "https://media.consumeraffairs.com/files/news/Tesla_company_concept_bankkgraphy_Getty_Images.jpg"
         width: 900
         height: 600
+        isCached: true
+  - title: "U.S. Launches Broad Investigation Into Tesla Autopilot Over Numerous Crashes"
+    excerpt: "NHTSA’s probe of the driver-assist feature covers about 765,000 vehicles—every model in Tesla's lineup stretching back to 2014."
+    publishedDateTime: 2021-08-16T14:31:00Z
+    webUrl: "https://www.forbes.com/sites/alanohnsman/2021/08/16/us-launches-broad-investigation-into-tesla-autopilot-over-numerous-crashes/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 66
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611a751d1a6d628cdfed1c2f%2F0x0.jpg"
+        width: 1168
+        height: 778
         isCached: true
   - title: "Senators call for FTC probe of Tesla 'Full Self-Driving' overstatements"
     excerpt: "Two U.S. senators are pushing back against Tesla's marketing of its driver assistance systems, claiming that the company's name for them misleads the public."
@@ -529,6 +543,6 @@ related:
         height: 630
         isCached: true
 
-secured: "kv6nNNg9pI0rLblUquY/ukcn8Xud8W8tlDqP7huHmfSET2bbOkkKBAqzVWk2BGXxn6lWcbWl3DvT4gKzlVp+UDtaF3zIEREUoGg1QUI+QOwEv0rGXwuHhZsC7QgAGZbM1Drp8scfSXOLu8iDQZQkZbt/1wkfZF7JfZ9PemAt45wgVZtQMxurn3E+Yqj/nR5yBiEEq9rGnXwBU4ecGo/nAMV5KDcmbtT5iq/x8TpUNdy44FFSq1WTYV4mgITsQD+vkasi1YbCPM5gX8/N8A6k4b69PlUAN7D8rGdI/xVHQogwoTcDMHDy8hB5ZCfi4q7tZ062IXsb4r4c4XMPDvKapP+FsZQXBwSP6w1opqfShcszd9l86SfNZa6EkZP9TqoXlgNvBsXl2Vzjg+25v4MFSB2TJhH0oA8RHBNkznyEMWh6s/lPVUh84nf6fbPefAkymegHt7yk/NMkFurnS0/kfqG1aRodl8HPvzSbkVqxX2thJT7ajzsf/cMo38n1W89jRUKY6tAf9P7j3ssKnNTb8Q==;M4rGJidifYrfwYL/eq2PPg=="
+secured: "uSI4MCaPn4p/Pk39BEJAWsvvNYhhR2nkbZAJ+dWXEVbzQh8dsvey+abrPWFoYVqbIlu0bzmsNQKgVahNwV5Pc5fV79G+j7x69uG50myLk4P9czseW8/0wQbWpJ8rgQWvj7gAuUhnp/L2MtJtSvZOCtiFufBwwTU1E0Vzy8DRNZ4IpT4tEYwx32lxeycW5lF5Y0bSjsHEDpQG7q8VJ8VEQMWci7y2LvJ9pGA0G6OaPyCRvPK59QIiT25j7zo+61kxwXiWK/OP8PquUY3brLgUvBh+BLrqNPDIWxs3ZmFJyOFHlEO1k7OUVQXDlY9Wz7cqd0w9vAg7nDzBu8ZmBe+3JMOmCcS8ulyLY8lj/sltawQ=;g6Lc6hILpQA0VSWY59k1Dg=="
 ---
 

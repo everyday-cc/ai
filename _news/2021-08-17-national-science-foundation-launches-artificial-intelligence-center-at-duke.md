@@ -25,37 +25,67 @@ images:
     isCached: true
 
 related:
-  - title: "Operationalizing AI Ethics, No Longer An Option But An Imperative"
-    excerpt: "As I’ve written in my “On AI Ethics,” series, machine learning models that aim to mirror and predict real-life as closely as possible are not without their challenges."
-    publishedDateTime: 2021-08-18T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/aparnadhinakaran/2021/08/18/operationalizing-ai-ethics-no-longer-an-option-but-an-imperative/"
-    ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2021/08/18/operationalizing-ai-ethics-no-longer-an-option-but-an-imperative/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2021/08/18/operationalizing-ai-ethics-no-longer-an-option-but-an-imperative/amp/"
+  - title: "How Conversational AI Works and What It Does"
+    excerpt: "Automatic Speech Recognition (ASR), Advanced Dialog management, and Machine Learning (ML), are likely to pass the Turing Test and provide a more realistic experience than traditional chatbots. Most of us have had interactions on websites with chatbots that were less than satisfactory,"
+    publishedDateTime: 2021-08-16T12:41:00Z
+    webUrl: "https://www.interactions.com/conversational-ai/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 137
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611c9d4051688c7059342af3%2F0x0.png"
-        width: 1024
-        height: 536
+      - url: "https://www.interactions.com/wp-content/uploads/2019/10/voc_wp_content-card.jpg"
+        width: 768
+        height: 430
         isCached: true
-  - title: "Machine Learning Operationalization Software Market Projected to Grow at a Steady Pace During 2021-2027 Covid-19 Analysis | KNIME, Seldon"
-    excerpt: "To continue with the reviews and details provided in this innovative Machine Learning Operationalization Software market report it also aims at providing advanced data concerning to Machine Learning Operationalization Software market global status market trends analysis segment size growth share"
-    publishedDateTime: 2021-08-17T13:21:00Z
-    webUrl: "https://www.openpr.com/news/2357813/machine-learning-operationalization-software-market"
-    ampWebUrl: "https://www.openpr.com/amp/2357813/machine-learning-operationalization-software-market"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2357813/machine-learning-operationalization-software-market"
+  - title: "Bringing your AI coworker up to speed"
+    excerpt: "The future will likely show that the projections of what AI can do were unrealistic, but so were the predictions of robots running amok."
+    publishedDateTime: 2021-08-16T14:20:00Z
+    webUrl: "https://venturebeat.com/2021/08/16/bringing-your-ai-coworker-up-to-speed/"
+    ampWebUrl: "https://venturebeat.com/2021/08/16/bringing-your-ai-coworker-up-to-speed/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/16/bringing-your-ai-coworker-up-to-speed/amp/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 26
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://cdn.openpr.com/U/8/U817243339_g.jpg"
-        width: 780
-        height: 470
+      - url: "https://venturebeat.com/wp-content/uploads/2021/08/christina-wocintechchat-com-glRqyWJgUeY-unsplash-e1628794161691.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Amazon taps its SocialBot challenge to boost conversational AI"
+    excerpt: "Amazon announced the winners of its annual Alexa Prize SocialBot Grand Challenge, which ​​promotes research into coherence, context awareness, fluency of re"
+    publishedDateTime: 2021-08-19T17:15:00Z
+    webUrl: "https://venturebeat.com/2021/08/19/amazon-taps-its-socialbot-challenge-to-boost-conversational-ai/"
+    ampWebUrl: "https://venturebeat.com/2021/08/19/amazon-taps-its-socialbot-challenge-to-boost-conversational-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/19/amazon-taps-its-socialbot-challenge-to-boost-conversational-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1150572105-e1629315992557.jpg?fit=800%2C533&strip=all"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "4 Ways Conversational AI Is Improving the Customer Experience"
+    excerpt: "Conversational AI, along with natural language processing (NLP), automatic speech recognition (ASR), advanced dialog management, and machine learning (ML), are changing the way humans relate and communicate with machines."
+    publishedDateTime: 2021-08-19T00:00:00Z
+    webUrl: "https://www.cmswire.com/customer-experience/4-ways-conversational-ai-is-improving-the-customer-experience/"
+    ampWebUrl: "https://www.cmswire.com/customer-experience/4-ways-conversational-ai-is-improving-the-customer-experience/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/customer-experience/4-ways-conversational-ai-is-improving-the-customer-experience/amp/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 59
+    images:
+      - url: "https://www.cmswire.com/-/media/a6327718c2224d618291e489516c0abf.ashx?mw=1024"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "yqlQsQ3HPUmWQs+tG93E7nQ1KNIHf9AhoeNmcvq1D0c5jNROOVBrldSn+ZPg+cV1+p8dirNDtu1FoleXFrZf+CxIA2woZrr9qkWml2RN2urPQFW1zg5VJjZesqMzIL7T317PWcA71HauXhRq+VALVxNh/WPPT0xwMiQR4H9SyrvU87SlqswfrJQdfP7dw4/nI1NVnRiSIF5Du1ZjSa9WPtPDqmZcf27S6l7Jt+Ok1j+26HukIWvF3iw3qRlkC8EvmHDr2CdG4/fBn7o6/jieY76m3x5LyKIP7e2d22GFrV5VUxWF9y6nh9z4ORoGhwzZoXiCJ+eASAmdxDc138bSwx+GSQwn21qOix74oY2BHm9VrmWdHl3MrMurX/yHh0SD1Z0QPxTdi0ylClwuFbEk86fS3IHe+GbC4EwxeI9H+WtOwLIRBZxaawkgbZ3OngkWqyEvm0EpLi9U4QHok1yI9p5BP0Fa8TNp6TqLcmWEzjz4KAN6LbIe4ah0glkqb6mF26VjLGMTmW673lPCJwa98A==;52v0lIVQLLcXDMwVTzGorw=="

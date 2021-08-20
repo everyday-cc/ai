@@ -10,7 +10,7 @@
       "originalUrl": "https://www.cnet.com/news/elon-musk-reveals-tesla-bot-a-humanoid-robot-utilizing-tesla-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 321,
+      "heat": 331,
       "tags": null,
       "images": [
         {
@@ -359,7 +359,7 @@
       "originalUrl": "https://www.cnbc.com/2021/08/18/democrats-ask-ftc-to-investigate-teslas-self-driving-claims.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 544,
+      "heat": 554,
       "tags": null,
       "images": [
         {
@@ -743,6 +743,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-14-europeans-pull-together-to-lead-av-safety-push.md",
+      "title": "Europeans pull together to lead AV safety push",
+      "excerpt": "Rather than tackling autonomous vehicle safety issue individually, a number of European companies and organizations have united in a cooperative effort.",
+      "sourceUrl": null,
+      "webUrl": "https://www.autonews.com/technology/europeans-pull-together-lead-av-safety-push",
+      "originalUrl": "https://www.autonews.com/technology/europeans-pull-together-lead-av-safety-push",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-prod.autonews.com/s3fs-public/styles/width_280/public/HUDI-01_i.jpg",
+          "width": 265,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-14T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-13-you-dont-need-tea-leaves-to-read-where-policy-wants-capital-week-in-review.md",
       "title": "You Don’t Need Tea Leaves To Read Where Policy Wants Capital, Week In Review",
       "excerpt": "Baidu reported strong earnings growth Thursday ... new growth sectors such as industrial Internet, V2X autonomous driving and monetization of city government. Thus, we will not be surprised ...",
@@ -1029,6 +1072,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-11-cox-automotive-mobility-and-arizonas-institute-of-automated-mobility-work-to-advance-automated-vehicle-development-and-safety.md",
+      "title": "Cox Automotive Mobility and Arizona's Institute of Automated Mobility Work to Advance Automated Vehicle Development and Safety",
+      "excerpt": "Cox Automotive Mobility, a division of Cox Automotive committed to advancing the world's fleets to serve the next generation, will be",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/cox-automotive-mobility-and-arizonas-institute-of-automated-mobility-work-to-advance-automated-vehicle-development-and-safety-301352482.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/cox-automotive-mobility-and-arizonas-institute-of-automated-mobility-work-to-advance-automated-vehicle-development-and-safety-301352482.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/807919/Cox_Automotive_Mobility_Logo.jpg?p=facebook",
+          "width": 2700,
+          "height": 1413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-10T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-10-asia-pacific-artificial-intelligence-market-2021-industry-growth-market-growth-share-and-forecast-2026.md",
       "title": "Asia Pacific Artificial Intelligence Market 2021: Industry Growth, Market Growth, Share and Forecast 2026",
       "excerpt": "Industry Trends, Share, Growth, Opportunity and Forecast 2021-2026,” the market is expecting to continue its robust growth during the forecast period (2021-2026). The report provides a detailed analysis of the market by Type,",
@@ -1058,6 +1144,40 @@
       "provider": {
         "name": "manometcurrent.com",
         "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-teslas-strength-in-patent-numbers-leaves-rivals-in-dust.md",
+      "title": "Tesla’s strength in patent numbers leaves rivals in dust",
+      "excerpt": "In 2018, Tesla applied for a patent for a steering system that will allow the car to be operated via touch screen. A vehicle can be controlled by making swiping or clicking gestures on the flat interface,",
+      "sourceUrl": null,
+      "webUrl": "https://www.freemalaysiatoday.com/category/business/2021/08/10/teslas-strength-in-patent-numbers-leaves-rivals-in-dust/",
+      "originalUrl": "https://www.freemalaysiatoday.com/category/business/2021/08/10/teslas-strength-in-patent-numbers-leaves-rivals-in-dust/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-10T00:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Free Malaysia Today",
+        "domain": "freemalaysiatoday.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1272,55 +1392,12 @@
       ]
     },
     {
-      "path": "_news/2021-08-08-die-as-a-human-or-live-forever-as-a-cyborg-will-robots-rule-the-world.md",
-      "title": "‘Die as a human or live forever as a cyborg’: Will robots rule the world?",
-      "excerpt": "Marshall calls it “natural intelligence”, not artificial intelligence. Autonomy, the kind driverless cars and robot vacuums need to navigate their surrounds, is a solved problem, he says.",
+      "path": "_news/2021-08-08-3-unstoppable-stocks-that-are-beating-warren-buffett-so-far-this-year.md",
+      "title": "3 Unstoppable Stocks That Are Beating Warren Buffett So Far This Year",
+      "excerpt": "There are quite a few stocks that are easily outgaining Berkshire and aren't among the conglomerate's holdings. Here are three unstoppable stocks that are beating Buffett so far this year. Image source:.",
       "sourceUrl": null,
-      "webUrl": "https://www.smh.com.au/national/die-as-a-human-or-live-forever-as-a-cyborg-will-robots-rule-the-world-20210610-p57zy4.html",
-      "originalUrl": "https://www.smh.com.au/national/die-as-a-human-or-live-forever-as-a-cyborg-will-robots-rule-the-world-20210610-p57zy4.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.ffx.io/image/upload/v1600232233/google-amp/placeholder.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.smh.com.au/national/die-as-a-human-or-live-forever-as-a-cyborg-will-robots-rule-the-world-20210610-p57zy4.html",
-      "cdnAmpWebUrl": "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/national/die-as-a-human-or-live-forever-as-a-cyborg-will-robots-rule-the-world-20210610-p57zy4.html",
-      "publishedDateTime": "2021-08-07T12:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sydney Morning Herald",
-        "domain": "smh.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-07-baidu-launches-apolong-ii-multi-purpose-autonomous-minibus-in-guangzhou.md",
-      "title": "Baidu Launches Apolong II Multi-Purpose Autonomous Minibus in Guangzhou",
-      "excerpt": "The Apolong II minibus effectively mirrors the powerful autonomous driving capabilities of Baidu's Apollo Robotaxi by incorporating the latest self-developed autonomous driving computing unit and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/baidu-launches-apolong-ii-multi-purpose-autonomous-minibus-in-guangzhou-2021-08-06",
-      "originalUrl": "https://www.nasdaq.com/press-release/baidu-launches-apolong-ii-multi-purpose-autonomous-minibus-in-guangzhou-2021-08-06",
+      "webUrl": "https://www.nasdaq.com/articles/3-unstoppable-stocks-that-are-beating-warren-buffett-so-far-this-year-2021-08-08",
+      "originalUrl": "https://www.nasdaq.com/articles/3-unstoppable-stocks-that-are-beating-warren-buffett-so-far-this-year-2021-08-08",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1328,99 +1405,13 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-06T14:30:00-07:00",
+      "ampWebUrl": "https://www.nasdaq.com/articles/3-unstoppable-stocks-that-are-beating-warren-buffett-so-far-this-year-2021-08-08?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-unstoppable-stocks-that-are-beating-warren-buffett-so-far-this-year-2021-08-08?amp",
+      "publishedDateTime": "2021-08-08T03:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-famous-game-of-go-shines-spotlight-on-novelty-by-humans-and-by-ai-fortuitously-for-self-driving-cars.md",
-      "title": "Famous Game Of Go Shines Spotlight On Novelty By Humans And By AI, Fortuitously For Self-Driving Cars",
-      "excerpt": "Using the famous game of Go, and a groundbreaking match entailing the novelty of AI, allows for great insights into self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/06/famous-game-of-go-shines-spotlight-on-novelty-by-humans-and-by-ai-fortuitously-for-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/06/famous-game-of-go-shines-spotlight-on-novelty-by-humans-and-by-ai-fortuitously-for-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f821ed8ce958ffa98e965c4%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7360%26cropY1%3D93%26cropY2%3D3543",
-          "width": 1200,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/06/famous-game-of-go-shines-spotlight-on-novelty-by-humans-and-by-ai-fortuitously-for-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/06/famous-game-of-go-shines-spotlight-on-novelty-by-humans-and-by-ai-fortuitously-for-self-driving-cars/amp/",
-      "publishedDateTime": "2021-08-06T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-cango-auto-view-developing-auto-intelligence-amid-a-worldwide-industry-shift-toward-autonomous-driving.md",
-      "title": "CANGO Auto View: Developing Auto Intelligence Amid a Worldwide Industry Shift Toward Autonomous Driving",
-      "excerpt": "On May 8, 2012, the Nevada Department of Motor Vehicles issued the first ever self-driving car license to Google's self-driving car, which was a modified version of Toyota Prius hybrid.",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210806cn67430/cango-auto-view-developing-auto-intelligence-amid-a-worldwide-industry-shift-toward-autonomous-driving",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210806cn67430/cango-auto-view-developing-auto-intelligence-amid-a-worldwide-industry-shift-toward-autonomous-driving",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-06T03:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null

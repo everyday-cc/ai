@@ -2,11 +2,11 @@
 category: news
 title: "Intel architect Koduri says every chip will be a neural net processor"
 excerpt: "The processing of neural networks for artificial intelligence is becoming a main part of the workload of every kind of chip, according to chip giant Intel, which on Thursday unveiled details of forthcoming processors during its annual \"Architecture Day ..."
-publishedDateTime: 2021-08-19T17:27:00Z
-originalUrl: "https://www.zdnet.com/index.php/publisher/6291689/index.php/article/intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor/"
-webUrl: "https://www.zdnet.com/index.php/publisher/6291689/index.php/article/intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor/"
-ampWebUrl: "https://www.zdnet.com/index.php/publisher/6291689/index.php/google-amp/article/intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6291689/index.php/google-amp/article/intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor/"
+publishedDateTime: 2021-08-20T04:53:00Z
+originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor/"
+webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor/"
 type: article
 quality: 91
 heat: -1
@@ -49,6 +49,6 @@ related:
         height: 310
         isCached: true
 
-secured: "awzhwCCTpz5ja9w7qkU5Zmh0iITLEZ/59K3XR/mRK46YiUp1VZ2kigrLCwDl7zmgirrr9/fn8uQIkpR2Tf+XOLyIWgkFh06Ki2go80LPQLz02SN1r1bxeKQLAfsoQ0Pp1nULGMrZhTL40S1a8USSv0Q1sN7JhXTGBxlssLESgRj2jkH3CC/0EWE8TiD8hxE/5QKaq8q2/FtRK+bVNBszSb3JTWVo/UI3Ox5bsWoItkw+PtOTXh0lqhh/N/c04sDuz4284Atlc0DnZW45Yxwjn5z5db3jj08474moSbWQYLuHeStKXlhtFJvC/hWsenIRmzQKvkGM39zKIHbqCuK6Zp2ir4ryhek1vT3LeF9uMyk=;KMHPHfYDmZyLbR1/z39nkA=="
+secured: "edaJimaowfSKSQ9oKkOVH4iceYb2FRJh904ek+Kd8736SDfpz0ClXpLSaLm60F2WF5zBGnrFfCo5UZkd0C01noSpLmsE+Pt/DBxLHHQQ9GYIbnF2BEreJKJ0uqpf50MlAc56GSAyDcRRx6RXCOkL3lqTQsI+RS89zvFk1lpDl5OiFdBPPO5yOht66QTMRLYMff3sQqCu+GMcuTsIodegJRWzFUuqDRYosZXDfwPCc0WpRmz5gQ5INxAt2pTr0ReKsmTqRYClxpemFDpeQ9Yx1PtqAsJ8XAg3Wlcxa4F9zhfNxt/OdflPu7chptN/c4dMyvCxAFSAL3yvv0//lyR7qadcjfulbzt+eYEM/xltoCM=;oNuHHuDzeBMjYPd9vq4TVw=="
 ---
 

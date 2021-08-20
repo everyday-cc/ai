@@ -2,6 +2,723 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-07-31-elon-musks-old-pals-invest-in-neuralink-to-fund-testing-brain-chips-in-humans.md",
+      "title": "Elon Musk’s Old Pals Invest in Neuralink to Fund Testing Brain Chips in Humans",
+      "excerpt": "Elon Musk has rounded up his old friends from PayPal and Open AI days to fund his brain-computer interface startup Neuralink’s next phase of experiments to test implantable brain chips in humans and take the company’s first product to market.",
+      "sourceUrl": null,
+      "webUrl": "https://observer.com/2021/07/elon-musk-neuralink-raise-fund-peter-thiel-brain-chip-human-test/",
+      "originalUrl": "https://observer.com/2021/07/elon-musk-neuralink-raise-fund-peter-thiel-brain-chip-human-test/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://observer.com/wp-content/uploads/sites/2/2021/07/GettyImages-491588398-e1627667664725.jpeg?quality=80&#038;strip",
+          "width": 3461,
+          "height": 2344,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://observer.com/2021/07/elon-musk-neuralink-raise-fund-peter-thiel-brain-chip-human-test/amp/",
+      "cdnAmpWebUrl": "https://observer-com.cdn.ampproject.org/c/s/observer.com/2021/07/elon-musk-neuralink-raise-fund-peter-thiel-brain-chip-human-test/amp/",
+      "publishedDateTime": "2021-07-30T12:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Observer",
+        "domain": "observer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-31-new-law-leaves-facial-recognition-debate-unsettled.md",
+      "title": "New law leaves facial recognition debate unsettled",
+      "excerpt": "President Biden’s nominee for U.S. attorney and advocates who voiced privacy concerns are pitching a state commission on a bill that would regulate government use of facial recognition",
+      "sourceUrl": null,
+      "webUrl": "https://www.wwlp.com/news/massachusetts/new-law-leaves-facial-recognition-debate-unsettled/",
+      "originalUrl": "https://www.wwlp.com/news/massachusetts/new-law-leaves-facial-recognition-debate-unsettled/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wwlp.com/wp-content/uploads/sites/26/2018/05/NC_facialrecognition0523_1920x1080_1527103738342_43280524_ver1.0.jpg?w=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wwlp.com/news/massachusetts/new-law-leaves-facial-recognition-debate-unsettled/amp/",
+      "cdnAmpWebUrl": "https://www-wwlp-com.cdn.ampproject.org/c/s/www.wwlp.com/news/massachusetts/new-law-leaves-facial-recognition-debate-unsettled/amp/",
+      "publishedDateTime": "2021-07-30T12:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WWLP",
+        "domain": "wwlp.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-31-keys-to-personalizing-ai-for-sales.md",
+      "title": "Keys to personalizing AI for sales",
+      "excerpt": "With its broad access to data, AI can create a personalized customer experience at a much greater scale than that of a human sales team.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/30/keys-to-personalizing-ai-for-sales/",
+      "originalUrl": "https://venturebeat.com/2021/07/30/keys-to-personalizing-ai-for-sales/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/enterprise-e1627412579683.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/30/keys-to-personalizing-ai-for-sales/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/30/keys-to-personalizing-ai-for-sales/amp/",
+      "publishedDateTime": "2021-07-30T12:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-07-31-biden-to-tap-artificial-intelligence-expert-as-top-business-diplomat.md",
+      "title": "Biden to Tap Artificial Intelligence Expert as Top Business Diplomat",
+      "excerpt": "Stanford professor Ramin Toloui is the president’s pick for assistant secretary of state for business, a White House official said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/biden-to-tap-artificial-intelligence-expert-as-top-business-diplomat-11627675784",
+      "originalUrl": "https://www.wsj.com/articles/biden-to-tap-artificial-intelligence-expert-as-top-business-diplomat-11627675784",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-378291/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/biden-to-tap-artificial-intelligence-expert-as-top-business-diplomat-11627675784",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-to-tap-artificial-intelligence-expert-as-top-business-diplomat-11627675784",
+      "publishedDateTime": "2021-07-30T12:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-31-what-the-evolution-of-aiml-means-for-government-it.md",
+      "title": "What the evolution of AI/ML means for government IT",
+      "excerpt": "The easy accessibility of cloud-native artificial intelligence and machine learning allows agencies to quickly design, test and deploy complex service solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://gcn.com/articles/2021/07/30/cloud-native-ai-ml.aspx",
+      "originalUrl": "https://gcn.com/articles/2021/07/30/cloud-native-ai-ml.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gcn.com/-/media/GIG/EDIT_SHARED/Analytics_Data/GUI_data_access.jpg",
+          "width": 760,
+          "height": 368,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-30T11:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GCN",
+        "domain": "gcn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-07-30-lyft-gets-equity-stake-in-argo-ai-fords-first-robotaxis-arrive-in-late-2021.md",
+      "title": "Lyft Gets Equity Stake In Argo AI; Ford’s First Robotaxis Arrive In Late 2021",
+      "excerpt": "Ford and automated driving partner Argo AI will launch automated ride-hailing services on Lyft’s platform in Austin and Miami this year. Lyft will provide Argo with data to help optimize deployments and evaluate the safety of the vehicles in exchange for a 2.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/samabuelsamid/2021/07/21/lyft-invests-in-argo-ai-ford-robotaxis-in-late-2021/",
+      "originalUrl": "https://www.forbes.com/sites/samabuelsamid/2021/07/21/lyft-invests-in-argo-ai-ford-robotaxis-in-late-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609087f84501f2a79e9e0618%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/samabuelsamid/2021/07/21/lyft-invests-in-argo-ai-ford-robotaxis-in-late-2021/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2021/07/21/lyft-invests-in-argo-ai-ford-robotaxis-in-late-2021/amp/",
+      "publishedDateTime": "2021-07-30T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-30-facebook-open-sources-droidlet-robotics-development-platform.md",
+      "title": "Facebook open-sources Droidlet robotics development platform",
+      "excerpt": "Facebook researchers wrote in a blog today that Droidlet ... but we believe that by sharing our research work with the AI community, all of us will get there faster.” You can read more about Droidlet here or check out the platform’s GitHub page.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/facebook-open-sources-droidlet-robotics-development-platform/",
+      "originalUrl": "https://www.therobotreport.com/facebook-open-sources-droidlet-robotics-development-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2021/07/facebook-droidlet-platform.jpg",
+          "width": 1000,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-30T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-07-30-how-to-approach-ai-more-responsibly-according-to-a-top-ai-ethicist.md",
+      "title": "How to approach AI more responsibly, according to a top AI ethicist",
+      "excerpt": "A conversation with DataRobot's Haniyeh Mahmoudian, a winner of VentureBeat’s Women in AI responsibility and ethics award.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/30/how-to-approach-ai-more-responsibly-according-to-a-top-ai-ethicist/",
+      "originalUrl": "https://venturebeat.com/2021/07/30/how-to-approach-ai-more-responsibly-according-to-a-top-ai-ethicist/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/Women-in-AI-Awards.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/30/how-to-approach-ai-more-responsibly-according-to-a-top-ai-ethicist/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/30/how-to-approach-ai-more-responsibly-according-to-a-top-ai-ethicist/amp/",
+      "publishedDateTime": "2021-07-30T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-07-30-moengage-raises-325m-to-inject-customer-engagement-with-ai.md",
+      "title": "MoEngage raises $32.5M to inject customer engagement with AI",
+      "excerpt": "MoEngage, an AI customer engagement platform based in San Francisco, California, today announced that it raised $32.5 million led by Multiples Private Equity with participation from Eight RoadsVentures,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/30/moengage-raises-32-5m-to-inject-customer-engagement-with-ai/",
+      "originalUrl": "https://venturebeat.com/2021/07/30/moengage-raises-32-5m-to-inject-customer-engagement-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/06/pinpoint-big-data.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 803,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/30/moengage-raises-32-5m-to-inject-customer-engagement-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/30/moengage-raises-32-5m-to-inject-customer-engagement-with-ai/amp/",
+      "publishedDateTime": "2021-07-30T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-30-sa-first-to-award-patent-recognising-artificial-intelligence-as-inventor.md",
+      "title": "SA first to award patent recognising artificial intelligence as inventor",
+      "excerpt": "An artificial intelligence has invented a food container with a practical adaption for the transfer of heat into and out of the container.",
+      "sourceUrl": null,
+      "webUrl": "https://www.timeslive.co.za/news/south-africa/2021-07-30-sa-first-to-award-patent-recognising-artificial-intelligence-as-inventor/",
+      "originalUrl": "https://www.timeslive.co.za/news/south-africa/2021-07-30-sa-first-to-award-patent-recognising-artificial-intelligence-as-inventor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/CS1UTZk59JN31DyaVgUuAi6XLPrzfb_ppy-GcAyEjcetYRarjZc_cwAS1LmVVSMOWcJETzDKnK3oizDBZyBtLb5AtpVORRbL=s1000",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timeslive.co.za/amp/news/south-africa/2021-07-30-sa-first-to-award-patent-recognising-artificial-intelligence-as-inventor/",
+      "cdnAmpWebUrl": "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/news/south-africa/2021-07-30-sa-first-to-award-patent-recognising-artificial-intelligence-as-inventor/",
+      "publishedDateTime": "2021-07-30T07:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Times LIVE",
+        "domain": "timeslive.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-30-ai-eye-podcast-ibms-ai-powered-the-weather-company-named-most-accurate-provider-globally-alteryx-achieves-elite-technology-partner-status.md",
+      "title": "AI Eye Podcast - IBM’s AI-Powered The Weather Company Named “Most Accurate Provider Globally,” Alteryx Achieves Elite Technology Partner Status In Snowflake Partnership ...",
+      "excerpt": "Stock News, podcasts - AI, Biotech, Cannabis ... Sheri Bachstein, CEO of The Weather Company and GM of IBM Watson Advertising, said: \"A forecast is most helpful when it comes from a recognized ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/instablog/776842-investorideas-com/5621430-ai-eye-podcast-ibm-s-ai-powered-weather-company-named-accurate-provider-globally-alteryx",
+      "originalUrl": "https://seekingalpha.com/instablog/776842-investorideas-com/5621430-ai-eye-podcast-ibm-s-ai-powered-weather-company-named-accurate-provider-globally-alteryx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/uploads/2021/7/30/776842-1627667637181148.jpg",
+          "width": 387,
+          "height": 365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/instablog/776842-investorideas-com/5621430-ai-eye-podcast-ibm-s-ai-powered-weather-company-named-accurate-provider-globally-alteryx",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/instablog/776842-investorideas-com/5621430-ai-eye-podcast-ibm-s-ai-powered-weather-company-named-accurate-provider-globally-alteryx",
+      "publishedDateTime": "2021-07-30T06:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-30-healthcare-artificial-intelligence-market-future-scope-demands-and-projected-industry-growths-to-2026.md",
+      "title": "Healthcare Artificial Intelligence Market Future Scope, Demands and Projected Industry Growths to 2026",
+      "excerpt": "The healthcare artificial intelligence market is anticipated to witness significant growth over the coming time period owing to increasing use of technology across numerous medical application verticals such as drug discovery,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-future-scope-demands-and-projected-industry-growths-to-2026-2021-07-30",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-future-scope-demands-and-projected-industry-growths-to-2026-2021-07-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-30T06:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-30-aws-neptune-update-machine-learning-data-science-and-the-future-of-graph-databases.md",
+      "title": "AWS Neptune update: Machine learning, data science, and the future of graph databases",
+      "excerpt": "Neptune ML is powered by Amazon SageMaker and the open source Deep Graph Library (DGL), to which Amazon contributes. GNNs is a relatively new branch of Deep Learning, with the interesting feature ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/aws-neptune-update-machine-learning-data-science-and-the-future-of-graph-databases/",
+      "originalUrl": "https://www.zdnet.com/article/aws-neptune-update-machine-learning-data-science-and-the-future-of-graph-databases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/07/14/dab15c07-8cf8-4f40-9413-97eff4356f4f/awsneptunearchitecture.png",
+          "width": 1435,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aws-neptune-update-machine-learning-data-science-and-the-future-of-graph-databases/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-neptune-update-machine-learning-data-science-and-the-future-of-graph-databases/",
+      "publishedDateTime": "2021-07-30T05:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-07-30-how-no-code-ai-is-changing-business.md",
+      "title": "How No-Code AI Is Changing Business",
+      "excerpt": "According to a 2017 survey by Deloitte, 47% of businesses complained of difficulties integrating AI projects into their current systems. Meanwhile, 40% noted cost as a significant inhibiting factor. And 37% said managers simply don’t have enough expertise to implement AI successfully,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/07/30/how-no-code-ai-is-changing-business/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/07/30/how-no-code-ai-is-changing-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6102d80d24b51bc4f80ee929%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/07/30/how-no-code-ai-is-changing-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/07/30/how-no-code-ai-is-changing-business/amp/",
+      "publishedDateTime": "2021-07-30T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-30-rolex-rings-ipo-subscribed-1406-times-on-final-day-qib-portion-booked-664-times.md",
+      "title": "Rolex Rings IPO subscribed 14.06 times on final day, QIB portion booked 6.64 times",
+      "excerpt": "Investors have put in bids for 7.99 crore equity shares against offer size of 56.85 lakh equity shares, the subscription data available on exchanges showed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/ac06c97d-b0a1-49a1-a88d-f270687aaa92",
+      "originalUrl": "https://www.msn.com/en-in/money/topstories/rolex-rings-ipo-subscribed-1406-times-on-final-day-qib-portion-booked-664-times/ar-AAMJpbr",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0e03860d-6d33-4d12-a2cc-d402d9f8c10c.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/ac06c97d-b0a1-49a1-a88d-f270687aaa92",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/ac06c97d-b0a1-49a1-a88d-f270687aaa92",
+      "publishedDateTime": "2021-07-30T04:36:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ft.com/content/ac06c97d-b0a1-49a1-a88d-f270687aaa92",
+        "domain": "ft.com/content/ac06c97d-b0a1-49a1-a88d-f270687aaa92",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-30-five-steps-to-using-ai-technology-to-solve-the-dei-talent-equation.md",
       "title": "Five Steps To Using AI Technology To Solve The DE&I Talent Equation",
       "excerpt": "The significance of DE&I was discovered by corporations more than two decades ago. So, why aren’t we seeing major improvements in this space?",
@@ -475,662 +1192,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-cloud-q-offering-with-qumulo-on-azure-as-a-service.md",
-      "title": "Cloud Q Offering with Qumulo on Azure as a Service",
-      "excerpt": "Qumulo Expands Cloud Q Offering with Qumulo on Azure as a Service . Qumulo on Azure delivers petabyte-scale file data management platform as a managed service i",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1102542182/Cloud-Q-Offering-with-Qumulo-on-Azure-as-a-Service",
-      "originalUrl": "https://menafn.com/1102542182/Cloud-Q-Offering-with-Qumulo-on-Azure-as-a-Service",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?815494",
-          "width": 404,
-          "height": 249,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-29T20:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-tesla-ai-day-to-be-held-on-august-19-says-elon-musk.md",
-      "title": "Tesla AI Day To Be Held On August 19, says Elon Musk",
-      "excerpt": "Tesla is having an event called Tesla AI Day on August 19, company CEO Elon Musk has announced. Tesla had a Tesla Autonomy Day in 2019, and Tesla Battery Day in 2020, but it never had an event solely dedicated to artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://in.mashable.com/tech/23851/tesla-ai-day-to-be-held-on-august-19-says-elon-musk",
-      "originalUrl": "https://in.mashable.com/tech/23851/tesla-ai-day-to-be-held-on-august-19-says-elon-musk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_in/article/t/tesla-ai-d/tesla-ai-day-to-be-held-on-august-19-elon-musk-says_xxqe.620.jpg",
-          "width": 620,
-          "height": 377,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://in.mashable.com/tech/23851/tesla-ai-day-to-be-held-on-august-19-says-elon-musk?amp=1",
-      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/23851/tesla-ai-day-to-be-held-on-august-19-says-elon-musk?amp=1",
-      "publishedDateTime": "2021-07-29T20:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-beckers-clinical-leadership-infection-control-e-newsletter.md",
-      "title": "Becker's Clinical Leadership & Infection Control E-Newsletter",
-      "excerpt": "To sign up for Becker's Clinical Leadership & Infection Control E-Newsletter or any of our other E-Newsletters, click here. If you are experiencing difficulty receiving our newsletters, you may need to whitelist our new domain. Please visit https://www ...",
-      "sourceUrl": null,
-      "webUrl": "https://fcw.com/articles/2021/08/03/ai-hsgac-workforce-bill.aspx",
-      "originalUrl": "https://www.beckersasc.com/infection-control-e-weeklies.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fcw.com/-/media/GIG/EDIT_SHARED/AI_Automation/aigovernment.png",
-          "width": 760,
-          "height": 368,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-29T20:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's ASC",
-        "domain": "beckersasc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-ai-use-cases-are-expanding-and-evolving-in-healthcare.md",
-      "title": "AI use cases are expanding and evolving in healthcare",
-      "excerpt": "The world is increasingly seeing tangible impacts of AI across various industries, including healthcare.  Using AI, healthcare providers can analyze and",
-      "sourceUrl": null,
-      "webUrl": "https://techwireasia.com/2021/07/ai-use-cases-are-expanding-and-evolving-in-healthcare/",
-      "originalUrl": "https://techwireasia.com/2021/07/ai-use-cases-are-expanding-and-evolving-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.techwireasia.com/wp-content/uploads/2021/07/editedGettyImages-1035331882-450x300.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techwireasia.com/amp/2021/07/ai-use-cases-are-expanding-and-evolving-in-healthcare/",
-      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/07/ai-use-cases-are-expanding-and-evolving-in-healthcare/",
-      "publishedDateTime": "2021-07-29T19:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techwireasia.com",
-        "domain": "techwireasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-ibms-the-weather-company-continues-to-be-the-worlds-most-accurate-forecaster-overall.md",
-      "title": "IBM's The Weather Company Continues to Be the World's Most Accurate Forecaster Overall",
-      "excerpt": "NEW YORK and ATLANTA, July 29, 2021 /PRNewswire/ -- IBM (NYSE: IBM) and its subsidiary The Weather Company, which includes The Weather Channel digital properties, were determined to be \"the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/ibms-the-weather-company-continues-to-be-the-worlds-most-accurate-forecaster-overall",
-      "originalUrl": "https://www.nasdaq.com/press-release/ibms-the-weather-company-continues-to-be-the-worlds-most-accurate-forecaster-overall",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-29T17:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-are-there-robot-proof-jobs.md",
-      "title": "Are There Robot-proof Jobs?",
-      "excerpt": "Robots work well in perfectly controlled environments, such as factories and warehouses, and not in ad hoc environments like your aunt Sue’s attic. Forest rangers and electricians are a couple of jobs like this that come to mind, but there are many more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/are-there-robot-proof-jobs",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/are-there-robot-proof-jobs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/FourthAgeCover.jpg",
-          "width": 1400,
-          "height": 2113,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-cognex-visionpro-software-breaks-down-barriers-between-deep-learning-and-traditional-vision.md",
-      "title": "Cognex VisionPro Software Breaks Down Barriers Between Deep Learning and Traditional Vision",
-      "excerpt": "Two major new releases deliver advanced vision tools and tighter deep learning integration in a high-performance platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.automation.com/en-us/products/july-2021/cognex-visionpro-software-deep-learning-vision",
-      "originalUrl": "https://www.automation.com/en-us/products/july-2021/cognex-visionpro-software-deep-learning-vision",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.automation.com/getmedia/b76fce20-782e-4755-9d1a-af8cf9a3529f/Cognex-prod-July-30-2021-web.png?width=500&height=313&ext=.png",
-          "width": 500,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation",
-        "domain": "automation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-googles-cloud-automl-is-an-ai-to-help-engineers-program-ai.md",
-      "title": "Google's Cloud AutoML Is An AI To Help Engineers Program AI",
-      "excerpt": "In late 2017 Google announced it had been working on AutoML (short for “automated machine learning”), a machine learning algorithm that is essentially capable of programming and training other algorithms. Now Google has introduced an alpha version of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/googles-cloud-automl-ai-help-engineers-program-ai",
-      "originalUrl": "https://www.designnews.com/electronics-test/googles-cloud-automl-ai-help-engineers-program-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Google%20Cloud%20AutoML%20Vision.png",
-          "width": 1708,
-          "height": 962,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-hire-django-developers-near-bhaktapur.md",
-      "title": "Hire Django Developers near Bhaktapur",
-      "excerpt": "Data Scrapping -Data Mining -Exploratory Data Analysis -Data Visualization -Data Modelling -Training and Testing of Data - ETL -Dataflow Pipeline building Amazon Web Services, Python, Jupyter notebook, Amazon S3, Amazon DeepRacer, Amazon Sagemaker ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.upwork.com/l/np/django-developers-in-bhaktapur/",
-      "originalUrl": "https://www.upwork.com/l/np/django-developers-in-bhaktapur/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.upwork.com/static/marketing/ui/master/img/logo-1200x630.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Upwork",
-        "domain": "upwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-healthcare-ai-market-next-big-thing.md",
-      "title": "Healthcare AI Market Next Big Thing",
-      "excerpt": "Latest released Global Healthcare AI Market Research Report provides detailed assessment of Key and emerging players showcasing company profiles, product/service offerings, market price, and sales revenue to better derive market size estimation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-next-big-thing-2021-07-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-next-big-thing-2021-07-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-29T15:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-get-started-with-the-amazon-kendra-amazon-workdocs-connector.md",
-      "title": "Get started with the Amazon Kendra Amazon WorkDocs connector",
-      "excerpt": "Amazon Kendra is an intelligent search service powered by machine learning (ML). Amazon Kendra reimagines enterprise search for your websites and applications so your employees and customers can easily find the content they’re looking for, even when it’s scattered across multiple locations and content",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/get-started-with-the-amazon-kendra-amazon-workdocs-connector/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/get-started-with-the-amazon-kendra-amazon-workdocs-connector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-29T14:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-load-external-tfrecord-with-tfds.md",
-      "title": "Load external tfrecord with TFDS",
-      "excerpt": "For TFDS to be able to decode the tf.train.Example proto, you need to provide the tfds.features sturcture matching your specs. For example: features = tfds.features.FeaturesDict({ 'image': tfds.features.Image(shape=(256, 256, 3)), 'label': tfds.features ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/datasets/external_tfrecord?hl=fi",
-      "originalUrl": "https://www.tensorflow.org/datasets/external_tfrecord?hl=fi",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=fi",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-29T12:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-human-assisted-artificial-intelligence-a-pathway-to-trustworthy-and-unbiased-ai.md",
-      "title": "Human Assisted Artificial Intelligence: A Pathway to Trustworthy And Unbiased AI",
-      "excerpt": "Using AI for automating manufacturing and improving our work streams, such as providing robust CMMS (computerized maintenance management systems) is an excellent application for AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karenpanetta/2021/07/29/human-assisted-artificial-intelligence-a-pathway-to-trustworthy-and-unbiased-ai/",
-      "originalUrl": "https://www.forbes.com/sites/karenpanetta/2021/07/29/human-assisted-artificial-intelligence-a-pathway-to-trustworthy-and-unbiased-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6102ef37f481281f327c9112%2F0x0.jpg",
-          "width": 1200,
-          "height": 807,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karenpanetta/2021/07/29/human-assisted-artificial-intelligence-a-pathway-to-trustworthy-and-unbiased-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karenpanetta/2021/07/29/human-assisted-artificial-intelligence-a-pathway-to-trustworthy-and-unbiased-ai/amp/",
-      "publishedDateTime": "2021-07-29T11:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-skoltech-method-helps-train-computer-vision-algorithms-on-limited-data.md",
-      "title": "Skoltech Method Helps Train Computer Vision Algorithms on Limited Data",
-      "excerpt": "Researchers have developed a technique to help computer vision algorithms more accurately process satellite imagery of the Earth, even when trained on limited data.",
-      "sourceUrl": null,
-      "webUrl": "https://cacm.acm.org/news/254410-skoltech-method-helps-train-computer-vision-algorithms-on-limited-data/fulltext",
-      "originalUrl": "https://cacm.acm.org/news/254410-skoltech-method-helps-train-computer-vision-algorithms-on-limited-data/fulltext",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-29T09:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "acm.org",
-        "domain": "acm.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-repay-provides-integrated-payment-processing-for-provana-customers.md",
-      "title": "REPAY Provides Integrated Payment Processing for Provana Customers",
-      "excerpt": "The integration automates processes and increases control of payment methods on Provana’s repayment platform ATLANTA-- ( BUSINESS WIRE )-- Repay Holdings Corporation (NASDAQ: RPAY) (\"REPAY\"), a leading provider of vertically-integrated payment solutions,",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210729005325/en/REPAY-Provides-Integrated-Payment-Processing-for-Provana-Customers",
-      "originalUrl": "https://www.businesswire.com/news/home/20210729005325/en/REPAY-Provides-Integrated-Payment-Processing-for-Provana-Customers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-29T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

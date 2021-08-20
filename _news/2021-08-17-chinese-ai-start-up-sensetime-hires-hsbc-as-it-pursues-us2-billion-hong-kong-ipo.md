@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/business/banking-finance/article/3145370/chines
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/banking-finance/article/3145370/chinese-ai-start-sensetime-hires-hsbc-it-pursues-us2"
 type: article
 quality: 182
-heat: 212
+heat: 222
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Chinese AI Unicorn Eyes IPO, Southeast Asia Expansion After $200 Million Funding Round"
+    excerpt: "After a recent funding round from top Chinese venture capital firms, Shenzhen-based AI startup SmartMore has big plans to go public and expand across Southeast Asia, starting with Singapore."
+    publishedDateTime: 2021-08-20T05:10:00Z
+    webUrl: "https://www.forbes.com/sites/rubyleung/2021/08/20/chinese-ai-unicorn-eyes-ipo-southeast-asia-expansion-after-200-million-funding-round/"
+    ampWebUrl: "https://www.forbes.com/sites/rubyleung/2021/08/20/chinese-ai-unicorn-eyes-ipo-southeast-asia-expansion-after-200-million-funding-round/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rubyleung/2021/08/20/chinese-ai-unicorn-eyes-ipo-southeast-asia-expansion-after-200-million-funding-round/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 79
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611f358e094e8aec6f42b14b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D849%26cropY1%3D0%26cropY2%3D478"
+        width: 849
+        height: 478
+        isCached: true
   - title: "AI Firm SenseTime Said to Tap HSBC For $2 Billion Hong Kong IPO"
     excerpt: "SenseTime Group Ltd., China’s largest artificial intelligence company, is working with HSBC Holdings Plc to arrange its planned Hong Kong initial public offering that could raise at least $2 billion,"
     publishedDateTime: 2021-08-17T05:50:00Z

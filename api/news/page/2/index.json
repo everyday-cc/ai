@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-08-19-kpmg-deakin-university-join-hands-to-offer-pg-course-in-artificial-intelligence-and-deep-learning.md",
-      "title": "KPMG, Deakin University Join Hands to Offer PG Course in Artificial Intelligence and Deep Learning",
-      "excerpt": "The adoption of artificial intelligence and deep learning to harness their transformative potential is becoming a key priority of most organizations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news18.com/news/education-career/kpmg-deakin-university-australia-join-hands-to-offer-a-pg-course-in-artificial-intelligence-and-deep-learning-4102001.html",
-      "originalUrl": "https://www.news18.com/news/education-career/kpmg-deakin-university-australia-join-hands-to-offer-a-pg-course-in-artificial-intelligence-and-deep-learning-4102001.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.news18.com/ibnlive/uploads/2021/08/kpmg-162935128916x9.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news18.com/amp/news/education-career/kpmg-deakin-university-australia-join-hands-to-offer-a-pg-course-in-artificial-intelligence-and-deep-learning-4102001.html",
-      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/kpmg-deakin-university-australia-join-hands-to-offer-a-pg-course-in-artificial-intelligence-and-deep-learning-4102001.html",
-      "publishedDateTime": "2021-08-18T22:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN-News18",
-        "domain": "news18.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-19-baidu-says-2nd-gen-kunlun-ai-chips-enter-mass-production.md",
       "title": "Baidu says 2nd-gen Kunlun AI chips enter mass production",
       "excerpt": "BEIJING, Aug 18 (Reuters) - Chinese tech giant Baidu said on Wednesday it had begun mass-producing second-generation Kunlun artificial intelligence (AI) chips, as it races to become a key player in the chip industry which Beijing is trying to strengthen.",
@@ -53,7 +10,7 @@
       "originalUrl": "https://www.reuters.com/article/us-baidu-semiconductors/baidu-says-2nd-gen-kunlun-ai-chips-enter-mass-production-idUSKBN2FJ0GK",
       "featuredContent": null,
       "highlight": null,
-      "heat": 194,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -303,6 +260,49 @@
         "AI in Healthcare",
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-national-ai-research-resource-task-force-seeks-more-diverse-public-responses.md",
+      "title": "National AI Research Resource Task Force seeks more ‘diverse’ public responses",
+      "excerpt": "The task force designing a blueprint for a National Artificial Intelligence Research Resource extended the deadline to publicly comment on its work by a month to elicit more diverse responses. A few expected respondents asked for more time,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fedscoop.com/nairr-public-comment-extension/",
+      "originalUrl": "https://www.fedscoop.com/nairr-public-comment-extension/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/sng-global-web-assets/logo/Favicon_FS.png",
+          "width": 629,
+          "height": 607,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-18T13:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FedScoop",
+        "domain": "fedscoop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -906,7 +906,7 @@
       "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/08/18/operationalizing-ai-ethics-no-longer-an-option-but-an-imperative/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -1103,7 +1103,7 @@
       "originalUrl": "https://www.cnbc.com/2021/08/18/democrats-ask-ftc-to-investigate-teslas-self-driving-claims.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 544,
+      "heat": 554,
       "tags": null,
       "images": [
         {

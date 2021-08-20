@@ -57,7 +57,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 114
+    quality: 116
     images:
       - url: "https://images.mktw.net/im-388779/social"
         width: 1280
@@ -78,6 +78,22 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/6uz3Juf-UxS1whmCVmJrEE9PFCg=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69741387/acastro_180524_1777_tesla_0003.0.jpg"
         width: 1400
         height: 933
+        isCached: true
+  - title: "Elon Musk says Tesla is working on humanoid robots"
+    excerpt: "Tesla CEO Elon Musk says his company is working on a humanoid robot and that it will build a prototype “sometime next year.” The humanoid robot will leverage Tesla’s experience with automated machines in its factories,"
+    publishedDateTime: 2021-08-20T02:23:00Z
+    webUrl: "https://www.theverge.com/2021/8/19/22633514/tesla-robot-prototype-elon-musk-humanoid-ai-day"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2021/8/19/22633514/tesla-robot-prototype-elon-musk-humanoid-ai-day"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/8/19/22633514/tesla-robot-prototype-elon-musk-humanoid-ai-day"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 106
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/OF-uREy2YlBbDjVYbZdcPKd1Cgw=/0x0:1290x746/1400x933/filters:focal(542x270:748x476):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69751137/Screen_Shot_2021_08_19_at_9.06.39_PM.0.png"
+        width: 1290
+        height: 746
         isCached: true
   - title: "Tesla to Spotlight Artificial Intelligence Work Amid Scrutiny"
     excerpt: "Elon Musk is expected to spotlight Tesla Inc.’s work on artificial intelligence as the company faces increased federal scrutiny of a key application of that technology: its driver-assistance system known as Autopilot. Tesla on Thursday evening is slated ..."
@@ -143,6 +159,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Tesla unveils own chip for AI training computer Dojo"
+    excerpt: "Tesla CEO Elon Musk a few years ago asked Tesla engineer \"to design a superfast training computer and that’s how we started Project Dojo,” Tesla director Ganesh Venkataramanan said at the AI Day event."
+    publishedDateTime: 2021-08-20T02:56:00Z
+    webUrl: "https://www.moneycontrol.com/news/world/tesla-unveils-own-chip-for-ai-training-computer-dojo-7363411.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/world/tesla-unveils-own-chip-for-ai-training-computer-dojo-7363411.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/tesla-unveils-own-chip-for-ai-training-computer-dojo-7363411.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 91
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2021/07/Tesla_Jul8-770x433.jpg?impolicy=website&width=770&height=431"
+        width: 770
+        height: 431
+        isCached: true
   - title: "Will Project Dojo be the Central Focus of Tesla's (TSLA) AI Day?"
     excerpt: "The AI Day is expected to shed light on new information about the development progress with respect to Tesla’s much touted Full Self-Driving (FSD) suite. Full Self-Driving builds on Tesla’s advanced driver-assistance system known as Autopilot,"
     publishedDateTime: 2021-08-16T15:47:00Z
@@ -182,36 +214,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Musk's 'AI Day' confronts tough questions about Tesla's technology"
-    excerpt: "At Tesla's \"Autonomy Day\" event in April 2019, Chief Executive Elon Musk said that by mid-2020 Tesla (TSLA.O) would have over a million self-driving vehicles where riders \"could go to sleep\" during a trip."
-    publishedDateTime: 2021-08-19T02:02:00Z
-    webUrl: "https://www.reuters.com/technology/musks-ai-day-confronts-tough-questions-about-teslas-technology-2021-08-18/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-    images:
-      - url: "https://www.reuters.com/resizer/gQCbWlBrk4aRoBGlrduiXWv8Rzo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2MB6UJWVB5KMZA545NR5FCANH4.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Elon Musk says Tesla's robot will make physical work a 'choice'"
-    excerpt: "After dominating the electric vehicle market and throwing his hat into the billionaire space race, Tesla boss Elon Musk announced the latest frontier he's aiming to conquer: humanoid robots. The irascible entrepreneur said Thursday he would have an initial prototype of an androgynous \"Tesla Bot\" by next year."
-    publishedDateTime: 2021-08-20T07:56:00Z
-    webUrl: "https://www.rfi.fr/en/business-and-tech/20210820-elon-musk-says-tesla-s-robot-will-make-physical-work-a-choice"
-    ampWebUrl: "https://amp.rfi.fr/en/business-and-tech/20210820-elon-musk-says-tesla-s-robot-will-make-physical-work-a-choice"
-    cdnAmpWebUrl: "https://amp-rfi-fr.cdn.ampproject.org/c/s/amp.rfi.fr/en/business-and-tech/20210820-elon-musk-says-tesla-s-robot-will-make-physical-work-a-choice"
-    type: article
-    provider:
-      name: RFI
-      domain: www.rfi.fr
-    quality: 76
-    images:
-      - url: "https://s.rfi.fr/media/display/16e2403c-018c-11ec-a607-005056a97e36/w:1280/p:16x9/9edc5006fd7f99e5f81026bdd897f7d51b17692e.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Musk Says Tesla Will Have a Humanoid Robot Next Year"
     excerpt: "CEO Elon Musk said he was trying to recruit engineers and scientists to the company’s AI team. Still, Musk did surprise attendees when he announced plans for Tesla to have a humanoid robot at some point next year."
     publishedDateTime: 2021-08-20T06:42:00Z
@@ -243,6 +245,22 @@ related:
       - url: "https://img.chdrstatic.com/media/794aafcd-9b3d-4b8b-89e1-1afefb5e498f.jpg?width=1200&source=backend&auto=webp"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Musk's 'AI Day' confronts tough questions about Tesla's technology"
+    excerpt: "Tesla CEO Musk is expected to reveal more about Tesla's \"Dojo\" computing system on Thursday, which he has said would process vast amounts of video data it obtains from Tesla vehicles on the road."
+    publishedDateTime: 2021-08-19T00:43:00Z
+    webUrl: "https://www.foxbusiness.com/markets/elon-musk-tesla-ai-day-confronts-tough-questions-technology"
+    ampWebUrl: "https://www.foxbusiness.com/markets/elon-musk-tesla-ai-day-confronts-tough-questions-technology.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/markets/elon-musk-tesla-ai-day-confronts-tough-questions-technology.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 74
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cda2c4b9-302c-4a9c-a6ff-7ccd94b863c4/37687a85-2e7a-4ff3-b7cb-e60920b3755e/1280x720/match/image.jpg?pubId=854081161001"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Tesla AI Day Is About To Start. Here’s Some Key Things You Can Expect to Learn."
     excerpt: "Investors want to learn more about Tesla’s competitive position on AI-technology versus other car makers, and they may be hoping that CEO Elon Musk has a surprise or two up his sleeve as well. Technology Tesla (ticker: TSLA) has a vertically integrated ..."
@@ -282,35 +300,19 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 71
-  - title: "Tesla unveils own chip for AI training computer Dojo"
-    excerpt: "Tesla Inc on Thursday unveiled its own computer chips to train its automated driving system. Tesla CEO Elon Musk a few years ago asked Tesla engineer \"to design a superfast training computer and that's how we"
-    publishedDateTime: 2021-08-20T02:28:00Z
-    webUrl: "https://kfgo.com/2021/08/19/tesla-unveils-own-chip-for-ai-training-computer-dojo/"
+  - title: "Elon Musk says Tesla's robot will make physical work a 'choice'"
+    excerpt: "After dominating the electric vehicle market and throwing his hat into the billionaire space race, Tesla boss Elon Musk announced the latest frontier he is aiming to conquer: Humanoid robots. The iras"
+    publishedDateTime: 2021-08-20T08:10:00Z
+    webUrl: "https://www.channelnewsasia.com/business/tesla-humanoid-robot-automation-elon-musk-2125921"
     type: article
     provider:
-      name: KFGO
-      domain: kfgo.com
-    quality: 71
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 56
     images:
-      - url: "https://storage.googleapis.com/media.mwcradio.com/mimesis/2021-08/20/2021-08-20T022846Z_1_LYNXMPEH7J02U_RTROPTP_3_TESLA-BITCOIN.JPG"
-        width: 728
-        height: 424
-        isCached: true
-  - title: "Elon Musk says Tesla is building a humanoid robot for 'boring, repetitive and dangerous' work"
-    excerpt: "Elon Musk said Thursday night at Tesla's AI Day that the company is building a humanoid robot, and will probably have a prototype next year. \"It's basically going to start dealing with work that is boring,"
-    publishedDateTime: 2021-08-20T04:20:00Z
-    webUrl: "https://www.actionnewsnow.com/content/national/575135882.html"
-    ampWebUrl: "http://www.actionnewsnow.com/templates/AMP?contentID=575135882"
-    cdnAmpWebUrl: "https://www-actionnewsnow-com.cdn.ampproject.org/c/www.actionnewsnow.com/templates/AMP?contentID=575135882"
-    type: article
-    provider:
-      name: Action News Now
-      domain: actionnewsnow.com
-    quality: 65
-    images:
-      - url: "http://media.heartlandtv.com/designimages/Story+Default.jpg"
-        width: 640
-        height: 380
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--u_8oGNj6--/c_crop%2Ch_450%2Cw_800%2Cx_0%2Cy_83/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_338%2Cw_600/v1/one-cms/core/2021-08-19t104505z_1_lynxmpeh7i0h2_rtroptp_3_tesla-india-imports-tax.jpg?itok=0dbuG5HX"
+        width: 600
+        height: 338
         isCached: true
   - title: "Tesla Autopilot U.S. Safety Probe Puts a Damper on Elon Musk’s AI Day"
     excerpt: "The federal investigation into Tesla Inc.’s Autopilot comes at an awkward time for Elon Musk. On Thursday -- just three days after the U.S. government announced its probe -- he has a briefing scheduled about the carmaker’s work on artificial intelligence."
@@ -326,6 +328,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Elon Musk says Tesla is building a humanoid robot for ‘boring, repetitive and dangerous’ work"
+    excerpt: "By Matt McFarland, CNN Business Elon Musk said Thursday night at Tesla’s AI Day that the company is building a humanoid robot, and will probably have a prototype next year. “It’s basically going to start dealing with work that is boring,"
+    publishedDateTime: 2021-08-20T10:10:00Z
+    webUrl: "https://localnews8.com/money/cnn-social-media-technology/2021/08/19/elon-musk-says-tesla-is-building-a-humanoid-robot-for-boring-repetitive-and-dangerous-work/"
+    type: article
+    provider:
+      name: Local News 8
+      domain: localnews8.com
+    quality: 25
 
 secured: "E1v53FexkklpYIRAPuaA8w1HBOqyX8m0UVNFmlacf5v3mUoBPukBOZielxBTjYqjyUFDHC9ghaV3T6qi1m1tVhQSqsP+tppc0HNihk23GhnFX6gLSYXX+rpUUa9UMxNpAbX4NfX3wR1KxT5JsI6qFumG19lKokV05+4k9mOAutavBT/+db0h6aCBcYJcC9qtvq+Aj0f2JjjMNnZwgc1GWOdY18Fg8A9mgTjge1OOD3KYmKo4YUEPw4vBKV+iFkkm9vZ1nmZ0DJ58W/hbtbAU2SyMBGLwjUxt9zI1z7Lq8YzQXLL8KfpL4/3C20QUNVi9kU0vaQtNPokWkFUX7oMyFHDdggAoFwty5QRwMS6BndA=;LRWeDLCvhsTvD5AhIPBOGQ=="
 ---

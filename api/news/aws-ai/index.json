@@ -525,6 +525,94 @@
       ]
     },
     {
+      "path": "_news/2021-08-13-street-mapping-startup-mapillary-scores-a-mysterious-amazon-rekognition-partnership.md",
+      "title": "Street-mapping startup Mapillary scores a mysterious Amazon Rekognition partnership",
+      "excerpt": "Mapillary, a startup on a mission to “fix” the world’s maps, partnered with Amazon’s machine vision program, Rekognition, to build street-level maps. Starting with a parking app, the Swedish company plans to build a platform that rivals Google’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehustle.co/mapillary-amazon-mapping-google/",
+      "originalUrl": "https://thehustle.co/mapillary-amazon-mapping-google/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehustle.co/wp-content/uploads/2018/09/xxx-31.jpg",
+          "width": 600,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehustle.co/mapillary-amazon-mapping-google/amp/",
+      "cdnAmpWebUrl": "https://thehustle-co.cdn.ampproject.org/c/s/thehustle.co/mapillary-amazon-mapping-google/amp/",
+      "publishedDateTime": "2021-08-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hustle",
+        "domain": "thehustle.co",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-amazon-rekognition-custom-brand-detection.md",
+      "title": "Amazon Rekognition Custom Brand Detection",
+      "excerpt": "When the labelers complete the labeling job, the solution uses the annotations from the labelers to prepare and train a custom label model using Amazon Rekognition Custom Labels service and deploys the model once the training completes. When the model is ...",
+      "sourceUrl": null,
+      "webUrl": "https://github.com/aws-samples/amazon-rekognition-custom-brand-detection",
+      "originalUrl": "https://github.com/aws-samples/amazon-rekognition-custom-brand-detection",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://opengraph.githubassets.com/e28091c2f1b5d65ce18c3a75b7f39a2e547efdeac7635e00e02bf5afa8433e86/aws-samples/amazon-rekognition-custom-brand-detection",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-11T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GitHub",
+        "domain": "github.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-08-11-getting-started-with-amazon-sagemaker-feature-store.md",
       "title": "Getting started with Amazon SageMaker Feature Store",
       "excerpt": "In a machine learning (ML) journey, one crucial step before building any ML model is to transform your data and design features from your data so that your data can be machine-readable. This step is known as feature engineering. This can include one-hot encoding categorical variables, converting text",
@@ -808,6 +896,41 @@
       ]
     },
     {
+      "path": "_news/2021-08-11-global-artificial-intelligence-applications-for-smart-cities-market-swot-analysiskey-indicatorsforecast-2027-amazon-rekognition-c3ai.md",
+      "title": "Global Artificial Intelligence Applications for Smart Cities Market SWOT Analysis,Key Indicators,Forecast 2027 : Amazon (Rekognition), C3.ai",
+      "excerpt": "MR Accuracy Reports reports provide extensive Artificial Intelligence Applications for Smart Cities assessments with considering the importance and projections and provide detailed, strategic life choice data identification and effective to provide a ...",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/global-artificial-intelligence-applications-for-smart-cities-market-swot-analysiskey-indicatorsforecast-2027-amazon-rekognition-c3-ai/",
+      "originalUrl": "https://manometcurrent.com/global-artificial-intelligence-applications-for-smart-cities-market-swot-analysiskey-indicatorsforecast-2027-amazon-rekognition-c3-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/global-artificial-intelligence-applications-for-smart-cities-market-swot-analysiskey-indicatorsforecast-2027-amazon-rekognition-c3-ai/",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/global-artificial-intelligence-applications-for-smart-cities-market-swot-analysiskey-indicatorsforecast-2027-amazon-rekognition-c3-ai/",
+      "publishedDateTime": "2021-08-10T22:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-08-11-massive-growth-of-machine-learning-in-healthcare-market-by-2027-oracle-intel-corporation-ibm-corporation-amazon-web-services.md",
       "title": "Massive Growth of Machine Learning in Healthcare Market by 2027 | Oracle, Intel Corporation, IBM Corporation, Amazon Web Services",
       "excerpt": "Machine learning can also help healthcare organizations meet growing medical demands, improve operations and lower costs. At the bedside, machine learning innovation can help healthcare practitioners detect and treat disease more efficiently and with more ...",
@@ -1036,6 +1159,85 @@
       ]
     },
     {
+      "path": "_news/2021-08-10-ai-in-fashion-market-size-share-growth-trends-top-companies-outlook-and-forecast-by-2028-microsoft-ibm-google-aws-sap-facebook.md",
+      "title": "AI in Fashion Market Size, Share, Growth Trends, Top Companies, Outlook and Forecast by 2028 | Microsoft , Ibm , Google , Aws , Sap , Facebook",
+      "excerpt": "New Jersey, USA, – The report provides exclusive research of global AI in Fashion based on our honest, accurate and completes analysis of the market to help you grow your business. This is a high-quality market research and analysis of AI in Fashion reports that provide strong research with market players to get to know the hidden growth opportunities of the competitive landscape in growth segments and more.",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/ai-in-fashion-market-size-share-growth-trends-top-companies-outlook-and-forecast-by-2028-microsoft-ibm-google-aws-sap-facebook/",
+      "originalUrl": "https://manometcurrent.com/ai-in-fashion-market-size-share-growth-trends-top-companies-outlook-and-forecast-by-2028-microsoft-ibm-google-aws-sap-facebook/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/ai-in-fashion-market-size-share-growth-trends-top-companies-outlook-and-forecast-by-2028-microsoft-ibm-google-aws-sap-facebook/",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/ai-in-fashion-market-size-share-growth-trends-top-companies-outlook-and-forecast-by-2028-microsoft-ibm-google-aws-sap-facebook/",
+      "publishedDateTime": "2021-08-09T18:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-amazons-edstart-helps-deliver-thailands-opendurian.md",
+      "title": "Amazon’s EdStart helps deliver Thailand’s OpenDurian",
+      "excerpt": "Amazon Rekognition for vocabulary exercise, and Amazon SageMaker for content recommendation. Our engineers also learned a lot from the AWS solution architects about cloud architecture and best practices, so that we can design for success and provide great ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nationthailand.com/business/30372231",
+      "originalUrl": "https://www.nationthailand.com/business/30372231",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nationthailand.com/images/news/2019/07/03/30372231/800_bd22e678ccf6feb.jpg?v=1562153023",
+          "width": 674,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "nationthailand",
+        "domain": "nationthailand.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-09-attendee-matchmaking-at-virtual-events-with-amazon-personalize.md",
       "title": "Attendee matchmaking at virtual events with Amazon Personalize",
       "excerpt": "Amazon Personalize enables developers to build applications with the same machine learning (ML) technology used by Amazon.com for real-time personalized recommendations—no ML expertise required. Amazon Personalize makes it easy for developers to build applications capable of delivering a wide array of",
@@ -1181,225 +1383,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-announcing-model-improvements-and-lower-annotation-limits-for-amazon-comprehend-custom-entity-recognition.md",
-      "title": "Announcing model improvements and lower annotation limits for Amazon Comprehend custom entity recognition",
-      "excerpt": "Amazon Comprehend is a natural language processing (NLP) service that provides APIs to extract key phrases, contextual entities, events, sentiment from unstructured text, and more. Entities refer to things in your document such as people, places, organizations, credit card numbers, and so on. But what",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-model-improvements-and-lower-annotation-limits-for-amazon-comprehend-custom-entity-recognition/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-model-improvements-and-lower-annotation-limits-for-amazon-comprehend-custom-entity-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/09/1-4900-counts_rev1.png",
-          "width": 800,
-          "height": 566,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-09T13:07:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-seachange-enables-a-fully-migrated-cloud-video-delivery-platform-with-unique-analytics-and-engagement-services-on-amazon-web-services.md",
-      "title": "SeaChange Enables a Fully Migrated Cloud Video Delivery Platform with Unique Analytics and Engagement Services on Amazon Web Services",
-      "excerpt": "Now, with Amazon SageMaker, SeaChange customers will be able to easily deploy ML use cases like predictive maintenance, computer vision and predicting customer behaviors. \"SeaChange's StreamVid ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/seachange-enables-a-fully-migrated-cloud-video-delivery-platform-with-unique-analytics-and-engagement-services-on-amazon-web-services-1030708388",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/seachange-enables-a-fully-migrated-cloud-video-delivery-platform-with-unique-analytics-and-engagement-services-on-amazon-web-services-1030708388",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-09T05:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-rbl-bank-selects-aws-to-accelerate-ai-efforts.md",
-      "title": "RBL Bank selects AWS to accelerate AI efforts",
-      "excerpt": "RBL Bank has selected Amazon Web Services (AWS), an Amazon.com company, as its cloud provider. AWS would help RBL Bank strengthen its AI-powered banking solutions and drive digital transformation at the lender.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/money-and-banking/rbl-bank-selects-aws-to-accelerate-ai-efforts/article35814022.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/money-and-banking/rbl-bank-selects-aws-to-accelerate-ai-efforts/article35814022.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/money-and-banking/uhrmta/article35335593.ece/ALTERNATES/LANDSCAPE_615/RBLbank",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/money-and-banking/rbl-bank-selects-aws-to-accelerate-ai-efforts/article35814022.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/money-and-banking/rbl-bank-selects-aws-to-accelerate-ai-efforts/article35814022.ece/amp/",
-      "publishedDateTime": "2021-08-09T04:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts.md",
-      "title": "RBL Bank selects AWS to Accelerate Artificial Intelligence Efforts",
-      "excerpt": "Other use cases already being tested within the Operations division include using services like Amazon Rekognition and Amazon Textract to automatically extract and match customer signatures and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiainfoline.com/article/news-sector-banking-financials/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900334_1.html",
-      "originalUrl": "https://www.indiainfoline.com/article/news-sector-banking-financials/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900334_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg",
-          "width": 350,
-          "height": 233,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiainfoline.com/article-amp/news-sector-banking-financials/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900334_1.html",
-      "cdnAmpWebUrl": "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-banking-financials/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900334_1.html",
-      "publishedDateTime": "2021-08-09T01:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Infoline",
-        "domain": "indiainfoline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-rbl-bank-selects-aws-as-preferred-cloud-provider.md",
-      "title": "RBL Bank selects AWS as preferred cloud provider",
-      "excerpt": "The Bank is building on its analytics practice and investing in AI capabilitiesto implement various use cases across multiple segments, including Risk, Customer Service, Human Resources, and Operations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/news-cm/rbl-bank-selects-aws-as-preferred-cloud-provider-121080900615_1.html",
-      "originalUrl": "https://www.business-standard.com/article/news-cm/rbl-bank-selects-aws-as-preferred-cloud-provider-121080900615_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/news-cm/rbl-bank-selects-aws-as-preferred-cloud-provider-121080900615_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/rbl-bank-selects-aws-as-preferred-cloud-provider-121080900615_1.html",
-      "publishedDateTime": "2021-08-09T00:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

@@ -45,6 +45,42 @@
       ]
     },
     {
+      "path": "_news/2021-08-10-ai-in-fashion-market-size-share-growth-trends-top-companies-outlook-and-forecast-by-2028-microsoft-ibm-google-aws-sap-facebook.md",
+      "title": "AI in Fashion Market Size, Share, Growth Trends, Top Companies, Outlook and Forecast by 2028 | Microsoft , Ibm , Google , Aws , Sap , Facebook",
+      "excerpt": "New Jersey, USA, – The report provides exclusive research of global AI in Fashion based on our honest, accurate and completes analysis of the market to help you grow your business. This is a high-quality market research and analysis of AI in Fashion reports that provide strong research with market players to get to know the hidden growth opportunities of the competitive landscape in growth segments and more.",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/ai-in-fashion-market-size-share-growth-trends-top-companies-outlook-and-forecast-by-2028-microsoft-ibm-google-aws-sap-facebook/",
+      "originalUrl": "https://manometcurrent.com/ai-in-fashion-market-size-share-growth-trends-top-companies-outlook-and-forecast-by-2028-microsoft-ibm-google-aws-sap-facebook/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/ai-in-fashion-market-size-share-growth-trends-top-companies-outlook-and-forecast-by-2028-microsoft-ibm-google-aws-sap-facebook/",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/ai-in-fashion-market-size-share-growth-trends-top-companies-outlook-and-forecast-by-2028-microsoft-ibm-google-aws-sap-facebook/",
+      "publishedDateTime": "2021-08-09T18:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-10-facebook-open-sources-blenderbot-20-chatbot.md",
       "title": "Facebook Open-Sources BlenderBot 2.0 Chatbot",
       "excerpt": "Facebook AI Research (FAIR) open-sourced BlenderBot 2.0, an AI chatbot that has long-term memory and can use internet searches for supplemental conversational context. The new model outperforms version 1.",
@@ -1359,58 +1395,6 @@
         "Facebook AI",
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-facebook-wants-to-help-train-the-robots-that-will-take-out-your-trash-and-unload-your-dishwasher.md",
-      "title": "Facebook wants to help train the robots that will take out your trash and unload your dishwasher",
-      "excerpt": "The social media company released Habitat 2.0 to help researchers train household robots-to-be. By Daphne Leprince-Ringuet | July 1, 2021 -- 15:08 GMT (08:08 PDT) | Topic: Robotics Facebook has announced a new step in the company's journey towards achieving what it calls \"embodied AI\" – the technology that could one day enable robots to carry out tasks in mundane settings,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/facebook-wants-to-help-train-the-robots-that-will-take-out-your-trash-and-unload-your-dishwasher/",
-      "originalUrl": "https://www.zdnet.com/article/facebook-wants-to-help-train-the-robots-that-will-take-out-your-trash-and-unload-your-dishwasher/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/07/01/bb632da1-3378-41ff-845c-d07b3fe73671/gettyimages-1309871457.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facebook-wants-to-help-train-the-robots-that-will-take-out-your-trash-and-unload-your-dishwasher/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-wants-to-help-train-the-robots-that-will-take-out-your-trash-and-unload-your-dishwasher/",
-      "publishedDateTime": "2021-07-01T01:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

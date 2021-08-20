@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-25-why-machine-learning-projects-fail-and-how-to-make-sure-they-dont.md",
+      "title": "Why Machine Learning Projects Fail – and How to Make Sure They Don’t",
+      "excerpt": "The first step to a successful ML project is to understand that these projects require different processes, terminology, workflows, and tools than those needed by traditional development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/big-data-and-analytics/why-machine-learning-projects-fail-and-how-to-make-sure-they-dont/",
+      "originalUrl": "https://www.eweek.com/big-data-and-analytics/why-machine-learning-projects-fail-and-how-to-make-sure-they-dont/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2021/04/cloud-security.png",
+          "width": 1043,
+          "height": 652,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-24T13:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-06-25-state-street-to-implement-machine-learning-tech-roundup.md",
       "title": "State Street to Implement Machine Learning: Tech Roundup",
       "excerpt": "State Street plans to implement a cloud-based, machine learning technology that it said is designed to “transform private markets processing and document management.” Through State Street’s partnership with Canoe Intelligence,",

@@ -141,6 +141,15 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 34
+  - title: "Baidu Announces Upgraded Baidu Brain 7.0 and Mass Production of 2nd Generation Kunlun AI Chip"
+    excerpt: "Baidu today showcased its strengths in artificial intelligence technology with the launch of Baidu Brain 7.0, the start of mass"
+    publishedDateTime: 2021-08-18T18:06:00Z
+    webUrl: "https://www.enterpriseai.news/2021/08/18/baidu-announces-upgraded-baidu-brain-7-0-and-mass-production-of-2nd-generation-kunlun-ai-chip/"
+    type: article
+    provider:
+      name: enterpriseai
+      domain: enterpriseai.news
+    quality: 25
 
 secured: "K2e2dgFgfAN6QbBtTA4DCOVhlYhpgApIPOWq9zzCM0tg6adzZFunYAotGQn8k9skkvRi2vAtJChz/ez5k9cevkJtmXcYLYjJWy0/RysjvjChn66KF6mrlLOYLPIEUkEf9SL6MMxbc8iahrxhfcck/uH7pVfI1Ozv8Tc02Iv9LVFY09Zb4GvdYto46ztRQzxt54clPN4s9/ilVvqDkRB1mDnFrnjEGzT0ht/MokA6qH90dk2Oh2hwzMq9yyp/5evLnYA4yK57ZGkldDJEL32+/QtF3Kt1Hu5BKS6HywXzxJhURSLRSrQc+BKinKP7KN1bYCpINZ89irMQ4pZawk+E5VCLINi3LMSaZZcSxjUYFyg=;pxe7rrY4bmdTB7xPrvf3IQ=="
 ---

@@ -2,6 +2,260 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-07-21-toyotas-woven-planet-acquires-lyfts-level-5-self-driving-division.md",
+      "title": "Toyota’s Woven Planet acquires Lyft’s Level 5 self-driving division",
+      "excerpt": "Toyota subsidiary Woven Planet, has announced the completed acquisition of Level 5, the self-driving division of rideshare veterans Lyft Inc.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/07/20/toyotas-woven-planet-acquires-lyfts-level-5-self-driving-division/",
+      "originalUrl": "https://electrek.co/2021/07/20/toyotas-woven-planet-acquires-lyfts-level-5-self-driving-division/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2021/07/Lyft-Level-5-Demo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/07/20/toyotas-woven-planet-acquires-lyfts-level-5-self-driving-division/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/07/20/toyotas-woven-planet-acquires-lyfts-level-5-self-driving-division/amp/",
+      "publishedDateTime": "2021-07-20T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-20-mobileye-tests-self-driving-cars-in-new-york-city.md",
+      "title": "Mobileye tests self-driving cars in New York City",
+      "excerpt": "Intel Corp (INTC.O) unit Mobileye on Tuesday said it was testing self-driving vehicles in New York City, including the bustling Manhattan borough, in an effort to prove its technology can handle jaywalkers,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/mobileye-autonomous-idUSL1N2OW1D2",
+      "originalUrl": "https://www.reuters.com/article/mobileye-autonomous-idUSL1N2OW1D2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/O8ujmXD0AyQVjzLJjat8EkF9628=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FCRTJPEXSJKP7P4ZP3SKI3FYE4.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-20T07:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-20-artificial-intelligence-and-machine-learning-course-at-cit.md",
+      "title": "Artificial Intelligence and Machine Learning course at CIT",
+      "excerpt": "Ponnampet: A new engineering course in Artificial Intelligence and Machine Learning (AI & ML), an allied branch of Computer Science and Engineering, is being introduced at Coorg Institute of Technology (CIT),",
+      "sourceUrl": null,
+      "webUrl": "https://starofmysore.com/artificial-intelligence-and-machine-learning-course-at-cit/",
+      "originalUrl": "https://starofmysore.com/artificial-intelligence-and-machine-learning-course-at-cit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://starofmysore.com/wp-content/uploads/2021/07/news-12-Coorg-Institute-Technology.jpg",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://starofmysore.com/artificial-intelligence-and-machine-learning-course-at-cit/",
+      "cdnAmpWebUrl": "https://starofmysore-com.cdn.ampproject.org/c/s/starofmysore.com/artificial-intelligence-and-machine-learning-course-at-cit/",
+      "publishedDateTime": "2021-07-20T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Star of Mysore",
+        "domain": "starofmysore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-07-20-google-unveils-self-driving-cloud-security-feature.md",
+      "title": "Google unveils ‘self-driving’ cloud security feature",
+      "excerpt": "At its Security Summit, Google Cloud announced Chronicle integrations, Cloud IDS, an autonomic security operations stack, and more.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/20/google-unveils-self-driving-cloud-security-feature/",
+      "originalUrl": "https://venturebeat.com/2021/07/20/google-unveils-self-driving-cloud-security-feature/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/04/cloud_security-shutterstock_238417594-e1626720984465.jpg?w=1200&strip=all",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/20/google-unveils-self-driving-cloud-security-feature/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/20/google-unveils-self-driving-cloud-security-feature/amp/",
+      "publishedDateTime": "2021-07-20T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-07-20-shenzhen-emerges-as-chinas-robotaxi-capital-as-deeprouteai-opens-public-trials-in-tech-hub.md",
+      "title": "Shenzhen emerges as China’s robotaxi capital as DeepRoute.ai opens public trials in tech hub",
+      "excerpt": "The local legislature in Shenzhen is currently reviewing a draft of regulations on intelligent and connected vehicles, likely to be a guide for country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/policy/article/3141701/shenzhen-emerges-chinas-robotaxi-capital-deeprouteai-opens-public",
+      "originalUrl": "https://www.scmp.com/tech/policy/article/3141701/shenzhen-emerges-chinas-robotaxi-capital-deeprouteai-opens-public",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/07/19/83671b14-e883-11eb-b928-713afa0cd390_image_hires_192708.jpg?itok=y-seTOmz&v=1626694036",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/policy/article/3141701/shenzhen-emerges-chinas-robotaxi-capital-deeprouteai-opens-public",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/policy/article/3141701/shenzhen-emerges-chinas-robotaxi-capital-deeprouteai-opens-public",
+      "publishedDateTime": "2021-07-19T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-20-what-driverless-cars-tell-us-about-industrial-policy.md",
       "title": "What driverless cars tell us about industrial policy",
       "excerpt": "Among the industries picked as critical to that endeavor: aerospace, artificial intelligence ... miles — since 2019 when it began operating a driverless service in Phoenix, Arizona.",
@@ -1128,240 +1382,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-could-your-next-rental-car-be-a-robotaxi-t-mobile-teams-with-startup-for-5g-driverless-electric-car-service.md",
-      "title": "Could your next rental car be a robotaxi? T-Mobile teams with startup for 5G driverless electric car service",
-      "excerpt": "Autonomous and driverless car technology company Halo ... Halo equips the vehicles with an artificial intelligence-driven \"Advanced Safe Stop mechanism\" that automatically brings the cars to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/tech/2021/07/08/t-mobile-startup-plan-driverless-rental-car-service/7887811002/",
-      "originalUrl": "https://www.usatoday.com/story/tech/2021/07/08/t-mobile-startup-plan-driverless-rental-car-service/7887811002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/07/07/USAT/edba4e94-13cc-4888-921c-7d88a12d4f5d-21CM0192-05_060221_1604m.jpg?auto=webp&crop=6719,3779,x0,y341&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7887811002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7887811002",
-      "publishedDateTime": "2021-07-12T12:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-artificial-intelligence-stocks-the-10-best-ai-companies.md",
-      "title": "Artificial Intelligence Stocks: The 10 Best AI Companies",
-      "excerpt": "AI could be the 21st century's biggest new industry. Long a focal point of science fiction, AI is no longer a curious theme to ponder for the distant future — it's here.",
-      "sourceUrl": null,
-      "webUrl": "https://wtop.com/news/2021/07/artificial-intelligence-stocks-the-10-best-ai-companies-3/",
-      "originalUrl": "https://wtop.com/news/2021/07/artificial-intelligence-stocks-the-10-best-ai-companies-3/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wtop.com/news/2021/07/artificial-intelligence-stocks-the-10-best-ai-companies-3/amp/",
-      "cdnAmpWebUrl": "https://wtop-com.cdn.ampproject.org/c/s/wtop.com/news/2021/07/artificial-intelligence-stocks-the-10-best-ai-companies-3/amp/",
-      "publishedDateTime": "2021-07-12T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTOP News",
-        "domain": "wtop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare",
-        "AI Hardware",
-        "Natural Language Processing",
-        "IBM AI",
-        "Facebook AI",
-        "Microsoft AI",
-        "AI in Robotics",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-artificial-intelligence-is-on-the-side-of-apes-tesla-fames-ai-based-etf-sells-facebook-walmart-and-buys-amc.md",
-      "title": "Artificial Intelligence Is On The Side Of Apes? Tesla-Fame's AI-Based ETF Sells Facebook, Walmart And Buys AMC",
-      "excerpt": "The Qraft AI-Enhanced US Large Cap Momentum ETF (NYSE: AMOM), an exchange-traded fund driven by artificial intelligence, has sold a majority of its holdings in Facebook Inc. (NASDAQ: FB) and Walmart Inc.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/etf/artificial-intelligence-is-on-the-side-of-apes-tesla-fame-s-ai-based-etf-sells-facebook-walmart-and-buys-amc-1030596697",
-      "originalUrl": "https://markets.businessinsider.com/news/etf/artificial-intelligence-is-on-the-side-of-apes-tesla-fame-s-ai-based-etf-sells-facebook-walmart-and-buys-amc-1030596697",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/3090841071_105297e728_o_6.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-12T06:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-the-self-driving-race-between-elon-musks-tesla-and-dominos-pizza-robots.md",
-      "title": "The self-driving race between Elon Musk's Tesla and Domino's pizza robots",
-      "excerpt": "Elon Musk has talked up full self-driving for years, but missed many deadlines. Some are betting the big progress in autonomous vehicles: delivering pizza.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/07/10/self-driving-looking-less-like-elon-musk-more-dominos-pizza-robots.html",
-      "originalUrl": "https://www.cnbc.com/2021/07/10/self-driving-looking-less-like-elon-musk-more-dominos-pizza-robots.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 265,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106907169-1625602487443-rev1.jpg?v=1625667387",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/07/10/self-driving-looking-less-like-elon-musk-more-dominos-pizza-robots.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/10/self-driving-looking-less-like-elon-musk-more-dominos-pizza-robots.html",
-      "publishedDateTime": "2021-07-12T04:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-smarter-by-the-minute-myriad-of-applications-unlocked-by-artificial-intelligence.md",
-      "title": "Smarter by the minute: Myriad of applications unlocked by artificial intelligence",
-      "excerpt": "The July 2021 issue of IEEE/CAA Journal of Automatica Sinica features six articles that showcase the potential of machine learning in its various forms. The applications described in the studies range from advanced driver assistance systems and computer vision to image processing and collaborative robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/485179",
-      "originalUrl": "https://www.eurekalert.org/news-releases/485179",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://admin.eurekalert.org/Api/v1/Multimedia/23bb7753-4820-46f6-a706-121e0e959344/Content/Public",
-          "width": 1079,
-          "height": 1875,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-11T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
         "publishers": null,
         "authors": null
       },

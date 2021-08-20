@@ -3,18 +3,18 @@ category: news
 title: "How AI-powered tech landed man in jail with scant evidence"
 excerpt: "Williams was jailed last August, accused of killing a young man from the neighborhood who asked him for a ride during a night of unrest over police brutality in May. But the key evidence against Williams didn’t come from an eyewitness or an informant;"
 publishedDateTime: 2021-08-20T06:15:00Z
-originalUrl: "https://www.registercitizen.com/news/article/How-AI-powered-Tech-Landed-Man-In-Jail-With-Scant-16396942.php"
-webUrl: "https://www.registercitizen.com/news/article/How-AI-powered-Tech-Landed-Man-In-Jail-With-Scant-16396942.php"
-ampWebUrl: "https://www.registercitizen.com/news/amp/How-AI-powered-Tech-Landed-Man-In-Jail-With-Scant-16396942.php"
-cdnAmpWebUrl: "https://www-registercitizen-com.cdn.ampproject.org/c/s/www.registercitizen.com/news/amp/How-AI-powered-Tech-Landed-Man-In-Jail-With-Scant-16396942.php"
+originalUrl: "https://www.chron.com/news/article/How-AI-powered-Tech-Landed-Man-In-Jail-With-Scant-16396942.php"
+webUrl: "https://www.chron.com/news/article/How-AI-powered-Tech-Landed-Man-In-Jail-With-Scant-16396942.php"
+ampWebUrl: "https://www.chron.com/news/amp/How-AI-powered-Tech-Landed-Man-In-Jail-With-Scant-16396942.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/How-AI-powered-Tech-Landed-Man-In-Jail-With-Scant-16396942.php"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: The Register Citizen
-  domain: registercitizen.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - AI
@@ -55,6 +55,6 @@ related:
         height: 2000
         isCached: true
 
-secured: "LP/O3xLUtF5MHVMXIfgoATIO/vzSrpV/2B8z5ieEVmVUQoHxiCxAKBRAbg6GvbsWPHvMaaKnajvqYutr9Geo8qymJe5ytM55iAYAH0tjT71iIfMnhgN08L35qjG+5lwYCRa1UampmU29zIWWXzfgH+UFUy3oO0K2i3yUmvmAhkM+3V2C0H0k71ep/fdCSNjRJrz5IjQpqIycoMvmp0wh+DJctPMipMEkQ5Flo9SM0mBid8dk8c1teA1IoPLd5xZSY6lxR0cWTSjfqp6LQ/HDmGuZRoUIMRY2XD7pw2DeSEQO9VsuagHsVf2g+Dp1XfoKy1ilbYn+8EURIjSWcOgGN5QH1CDediawpya9ZalbAw8=;3zBioS8C6C6aSOwIsXQPjQ=="
+secured: "mNFouD9SVVf3tOTNgPcNmNcVzXu09Zjqumnet5rnU4e3iP4plys8IQra/PomZcAp1mCPzVoY5KIQGiZOOvLVR6HiQW4VW98g+G9YEQMVWU8JK+9Wed0qoOr5xjAU9GxA2kxqIPI11IwPHl88cpwdNoIA0qVL0T0B1+OVq2NowtVzHv9kLEs12Gg2usg6PrwK2bF+0QUBI1dX6GlgjK3xW9EY0E7INIVCu8Gq8gT3Ul0Ko92yA1wZfoWPA1i9OX9akiVHRODC5K9QzJM+XHHwL7gutGHJQiQ3/dZz6n5ckVKYi9RkizSc/h6SLEO4mAzcHhsFXICUOqxx2XBLE6+i9OqAQEZyuVOxKUIx/RSI6Iw=;iIMo2nDH4iwWDNIPGv5gfg=="
 ---
 

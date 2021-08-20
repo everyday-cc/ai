@@ -838,6 +838,50 @@
       ]
     },
     {
+      "path": "_news/2021-08-09-rbl-bank-selects-aws-as-preferred-cloud-provider.md",
+      "title": "RBL Bank selects AWS as preferred cloud provider",
+      "excerpt": "Other use cases already being tested within the Operations division include usingservices like Amazon Rekognition and Amazon Textract to automatically extract and match customer signatures and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiainfoline.com/article/capital-market-corporate-news/rbl-bank-selects-aws-as-preferred-cloud-provider-121080900272_1.html",
+      "originalUrl": "https://www.indiainfoline.com/article/capital-market-corporate-news/rbl-bank-selects-aws-as-preferred-cloud-provider-121080900272_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg",
+          "width": 350,
+          "height": 233,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.indiainfoline.com/article-amp/capital-market-corporate-news/rbl-bank-selects-aws-as-preferred-cloud-provider-121080900272_1.html",
+      "cdnAmpWebUrl": "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/capital-market-corporate-news/rbl-bank-selects-aws-as-preferred-cloud-provider-121080900272_1.html",
+      "publishedDateTime": "2021-08-09T05:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Infoline",
+        "domain": "indiainfoline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-08-09-rbl-bank-selects-aws-to-accelerate-ai-efforts.md",
       "title": "RBL Bank selects AWS to accelerate AI efforts",
       "excerpt": "RBL Bank has selected Amazon Web Services (AWS), an Amazon.com company, as its cloud provider. AWS would help RBL Bank strengthen its AI-powered banking solutions and drive digital transformation at the lender.",
@@ -926,26 +970,35 @@
       ]
     },
     {
-      "path": "_news/2021-08-09-rbl-bank-selects-aws-as-preferred-cloud-provider.md",
-      "title": "RBL Bank selects AWS as preferred cloud provider",
-      "excerpt": "The Bank is building on its analytics practice and investing in AI capabilitiesto implement various use cases across multiple segments, including Risk, Customer Service, Human Resources, and Operations.",
+      "path": "_news/2021-08-07-spell-bringing-mlops-to-deep-learning-to-ease-the-deep-learning-path-for-enterprises.md",
+      "title": "Spell Bringing MLOps to Deep Learning to Ease the Deep Learning Path for Enterprises",
+      "excerpt": "Making machine learning operations easier to use, manage and organize for enterprises has always been the goal of the series of best practices known as",
       "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/news-cm/rbl-bank-selects-aws-as-preferred-cloud-provider-121080900615_1.html",
-      "originalUrl": "https://www.business-standard.com/article/news-cm/rbl-bank-selects-aws-as-preferred-cloud-provider-121080900615_1.html",
+      "webUrl": "https://www.enterpriseai.news/2021/08/06/spell-bringing-mlops-to-deep-learning-to-ease-the-deep-learning-path-for-enterprises/",
+      "originalUrl": "https://www.enterpriseai.news/2021/08/06/spell-bringing-mlops-to-deep-learning-to-ease-the-deep-learning-path-for-enterprises/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.enterpriseai.news/wp-content/uploads/2021/08/deep-learning-shutterstock-1040985685_600x.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/news-cm/rbl-bank-selects-aws-as-preferred-cloud-provider-121080900615_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/rbl-bank-selects-aws-as-preferred-cloud-provider-121080900615_1.html",
-      "publishedDateTime": "2021-08-09T00:20:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-06T11:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
+        "name": "enterpriseai",
+        "domain": "enterpriseai.news",
         "images": null,
         "publishers": null,
         "authors": null
@@ -955,7 +1008,7 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
+        "Machine Learning",
         "AI",
         "AI in Finance"
       ]
@@ -963,10 +1016,10 @@
     {
       "path": "_news/2021-08-06-fico-continues-to-drive-innovation-with-13-new-patents-for-ai-machine-learning-fraud-and-decision-management-platform.md",
       "title": "FICO Continues to Drive Innovation with 13 New Patents for AI, Machine Learning, Fraud and Decision Management Platform",
-      "excerpt": "Leading digital decision platform company, FICO, today announced that it has been awarded 13 new patents related to artificial intelligence (AI), machine learning (ML), fraud and decision management platform.",
+      "excerpt": "FICO has been awarded 13 new patents for fraud, AI/ML and decision management platforms Leading digital decision platform company, FICO, today announced that it has been awarded 13 new patents related to artificial intelligence (AI),",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-fico-continues-drive-innovation-with-13-new-patents-/2021/08/06/9425723.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-fico-continues-drive-innovation-with-13-new-patents-/2021/08/06/9425723.htm",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/fico-continues-to-drive-innovation-with-13-new-patents-for-ai-machine-learning-fraud-and-decision-management-platform-1030701250",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/fico-continues-to-drive-innovation-with-13-new-patents-for-ai-machine-learning-fraud-and-decision-management-platform-1030701250",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -976,12 +1029,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-06T05:06:00-07:00",
+      "publishedDateTime": "2021-08-06T07:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1285,50 +1347,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-first-uae-bank-to-use-facial-recognition-for-account-opening-goes-live.md",
-      "title": "First UAE bank to use facial recognition for account opening goes live",
-      "excerpt": "Leading brand for international independent financial advisers, wealth management professionals serving expatriate and cross-border clients worldwide.",
-      "sourceUrl": null,
-      "webUrl": "https://www.internationalinvestment.net/news/4035339/uae-bank-facial-recognition-account-goes-live",
-      "originalUrl": "https://www.internationalinvestment.net/news/4035339/uae-bank-facial-recognition-account-goes-live",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.internationalinvestment.net/api/v1/wps/596d1df/c9a443f4-e315-4447-9535-83f9c25df3a2/2/facial-recognition-software-370x229.jpg",
-          "width": 370,
-          "height": 229,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-03T03:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "internationalinvestment",
-        "domain": "internationalinvestment.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

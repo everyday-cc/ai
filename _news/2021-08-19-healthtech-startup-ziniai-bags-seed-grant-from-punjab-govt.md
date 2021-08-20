@@ -9,7 +9,7 @@ ampWebUrl: "https://www.freepressjournal.in/amp/business/healthtech-startup-zini
 cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/healthtech-startup-ziniai-bags-seed-grant-from-punjab-govt"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1200
     height: 1833
     isCached: true
+
+related:
+  - title: "Healthtech startup Zini.ai Bags Seed Grant From The Govt of Punjab"
+    excerpt: "Zini.ai was shortlisted from a cohort of 15 startups that were further shortlisted from more than 150 companies across the country."
+    publishedDateTime: 2021-08-20T07:02:00Z
+    webUrl: "https://analyticsindiamag.com/healthtech-startup-zini-ai-bags-seed-grant-from-the-govt-of-punjab/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/Healthtech-startup-Zini.ai-Bags-Seed-Grant-From-The-Govt-of-Punjab.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "mbQPQJrvoGaAvFeXt4VSor0jFQrvdNotEgV8LRnOSK2MiMAHRUuSoJ4GulDUCdWjzOqKIoX7JPLC4Y/b18ewcQbbaSEDDiCyjP28AV/nCstXR8l5YUfIdSnyQfZa1kKJPgvJZAAPOKmrgtuZowPjFuAPqwapu5oiH7ZUjyXtUo54qpsX+o6kh5lw0f8ArQr4EmOsro+U/CpggMPvZdV8v4y1kSSZqYojQ0D4WFfTWSr1wfKWgjAAGlilqjT6V3OPheIv5k8AGwVwp2wZ4ll9cNxrgcicwoj4wX+3dJYhH+FpBB+gK/tIBYLhcfId4YupMDOHuXC30tgLdD7uuc+cCLOeeJVOuRg3pB3rrrKEeV5AfoVZsp8pOjlrXf7B8bsGTTgG9s/ceodqLLCKcTGoyzmNx3n10+wnOrxoP1yF7VS04LkI9DKSXHkW5tRB+6pYPiCUyIfR7Z2Z0UQCGN3vNLO1fI6V44QntpUMo+uMXF8FhBybBlWPmInUq8t0X3SDSAI2oqcX0TEZWOHvtTZ+mQ==;HYmEPRTwOwnKIBQjq/nmYA=="
 ---

@@ -6,9 +6,9 @@ publishedDateTime: 2021-08-18T20:35:00Z
 originalUrl: "https://www.fedscoop.com/nairr-public-comment-extension/"
 webUrl: "https://www.fedscoop.com/nairr-public-comment-extension/"
 type: article
-quality: 35
-heat: 35
-published: false
+quality: 135
+heat: 145
+published: true
 
 provider:
   name: FedScoop
@@ -40,6 +40,6 @@ related:
         height: 400
         isCached: true
 
-secured: "wcjhLYzAQL+YnfC77navFoAp5Qlv4G1CUV1kTAhGySTH0pEV/+b1/+Gn+PZOuxxqNjcv6sH4W+c5sP81ZufsEFadTf3WfBn3blYlXzEDr9nUiKak53pqsZqrRv20XB8pfOcvysPLGz9xWdk1aqXpI1iz2MfeQoG8EqxpsSqMRJQmwMgv2lKCJzy1iTscw8vKxZ9pXywZzd6LEbMYKulax4pxGcwpqciwssGD+vPV71UWnTWqDfFMWfriAhsKmZjHaIg2c2WNBkm6LkYUHeKA0ZR7/YTqCGSUcOD3eZG1hBlwVMltbquVIzFoLLapapi0qbFW0HkZyIfd3FBmGWe6yPJPapfQtT09H+liqDhr/rQ=;pDWlGIdBp2BaomTk7F6WnQ=="
+secured: "AbrLJJMvtjJN4TsmjZD4V2b5ntEzoKJyho0L9iguS+MNlZ4FglYkUeNnqXMhD82+yCunqKsiBoRHZkmEPGk7t//wsObxeWj98Xlx1QZBEU5M6vA0afSHbiHVyc2c+eqPg9d9VSWBtl2evRhkTvDMfZtXm/rqKDb6V94pyYqY+GasuhkIp9pLz3YuS0igkUfWD5qfPtnIjOWUu3ajESeDm3dgMYyqunWx8wjlnmtuwVPUuKJHNpiMy9U/XvLwRibLBhvFQsJsZgzbLvet52p2iGfX7YY5+CX5L0/C/lQ9jzGMub1723syxO5iHl4c5y6hHT/6uhr9AeUimTSaEZg9jenwPpJPBcHC6nx617PaSJy30wZcXKuWX7/mNyWhTY1G;vrtU0S/uK90kxDLit54/+g=="
 ---
 

@@ -99,15 +99,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "MOLOCO Closes $150 Million Series C Financing Led by Tiger Global to Bring Transparent Machine Learning Algorithms to All"
-    excerpt: "MOLOCO (  com ), a leader in machine learning and growth solutions for mobile app marketers and e-commerce companies, announced today it has raised $150 million in Series C funding to bring sophisticated,"
-    publishedDateTime: 2021-08-17T15:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/moloco-closes-150-million-series-c-financing-led-by-tiger-global-to-bring-transparent-machine-learning-algorithms-to-all-1030739081"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 26
   - title: "Fintech platform FUSE Autotech raises $10M in Series A funding led by Target Global"
     excerpt: "FUSE Autotech, a fintech software platform that redefines the car buying process, today announced the completion of its $10 million Series A round of financing, led by Target Global with participation from PICO Venture Partners,"
     publishedDateTime: 2021-08-17T20:29:00Z
@@ -117,6 +108,15 @@ related:
       name: Automotive News
       domain: autonews.com
     quality: 13
+  - title: "MOLOCO Closes $150 Million Series C Financing Led by Tiger Global to Bring Transparent Machine Learning Algorithms to All"
+    excerpt: "MOLOCO ( a leader in machine learning and growth solutions for mobile app marketers and e-commerce companies, announced"
+    publishedDateTime: 2021-08-17T15:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/moloco-closes-150-million-series-c-financing-led-by-tiger-global-to-bring-transparent-machine-learning-algorithms-to-all-301356860.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
 
 secured: "nu+uw/ZGzdzq/+jMocEx6e3GGPuZFSDVhgPKhES8i60aJiTtk4WCeFsFsw4h/MOhkQsgwE42TaLe4ZLilxoGWmyAY6P+yA1HW4bxJ9MYYayMvCONKD6lpsFn8b0rdJuBN5oVB/avXKyy0kVCA4OdBJs51n9xPqUsAavNkPA4b60lbidmuRRv9JivqBJ9pkDhwwXH6CcVdX/rSyLJODV9hactVIxhldGceFFdZfFwJu2bb6AwdfKcVg9RaQM7ol0yu5pj/meaeuFeQtlmzlVye9Gvz7oNvFS9iT/kP7h3aasdkwJf8XBGE+gZUS3CFSFA3kIV4X9URMJnZ/2+xHEwUCzWK9jXf8hD3gtEepbeb+Bdf991fDFN3i0q00v8Rs4qbLgbCzO/3fGS378XEYtt1iRyPgzX1pzKCaWr+8DO9x3Y2uJ6nekFH4vGgrxZapwB6K2tVW04aBdiFeJX0bcnWKT/MM8fXYPDl3acTb7v59xsVH63lNrc7wN3FmBHkCl/uUvPez/Er1aO3cgy/oCelA==;B2bioqL2zSl9B3c8zvQ4wg=="
 ---

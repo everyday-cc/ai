@@ -14,6 +14,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://www.enterpriseai.news/wp-content/uploads/2021/08/deep-learning-shutterstock-1040985685_600x.jpg"

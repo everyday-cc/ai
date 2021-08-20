@@ -32,7 +32,7 @@ related:
     provider:
       name: FedScoop
       domain: fedscoop.com
-    quality: 35
+    quality: 135
     images:
       - url: "https://s3.amazonaws.com/sng-global-web-assets/logo/Favicon_FS.png"
         width: 629
