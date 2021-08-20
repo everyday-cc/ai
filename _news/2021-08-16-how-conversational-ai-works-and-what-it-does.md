@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "4 Ways Conversational AI Is Improving the Customer Experience"
+    excerpt: "Conversational AI, along with natural language processing (NLP), automatic speech recognition (ASR), advanced dialog management, and machine learning (ML), are changing the way humans relate and communicate with machines."
+    publishedDateTime: 2021-08-19T00:00:00Z
+    webUrl: "https://www.interactions.com/conversational-ai/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 137
+    images:
+      - url: "https://www.interactions.com/wp-content/uploads/2019/10/voc_wp_content-card.jpg"
+        width: 768
+        height: 430
+        isCached: true
   - title: "Bringing your AI coworker up to speed"
     excerpt: "The future will likely show that the projections of what AI can do were unrealistic, but so were the predictions of robots running amok."
     publishedDateTime: 2021-08-16T14:20:00Z
@@ -56,22 +70,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1150572105-e1629315992557.jpg?fit=800%2C533&strip=all"
         width: 800
         height: 400
-        isCached: true
-  - title: "4 Ways Conversational AI Is Improving the Customer Experience"
-    excerpt: "Conversational AI, along with natural language processing (NLP), automatic speech recognition (ASR), advanced dialog management, and machine learning (ML), are changing the way humans relate and communicate with machines."
-    publishedDateTime: 2021-08-19T00:00:00Z
-    webUrl: "https://www.cmswire.com/customer-experience/4-ways-conversational-ai-is-improving-the-customer-experience/"
-    ampWebUrl: "https://www.cmswire.com/customer-experience/4-ways-conversational-ai-is-improving-the-customer-experience/amp/"
-    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/customer-experience/4-ways-conversational-ai-is-improving-the-customer-experience/amp/"
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 59
-    images:
-      - url: "https://www.cmswire.com/-/media/a6327718c2224d618291e489516c0abf.ashx?mw=1024"
-        width: 640
-        height: 480
         isCached: true
   - title: "National Science Foundation launches artificial intelligence center at Duke"
     excerpt: "Athena is committed to development in education and will “cultivate a diverse next generation of mobile network leaders with the core values of ethics and fairness for AI.”"

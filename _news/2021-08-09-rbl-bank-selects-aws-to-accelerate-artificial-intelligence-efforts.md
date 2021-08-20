@@ -1,15 +1,17 @@
 ---
 category: news
 title: "RBL Bank selects AWS to Accelerate Artificial Intelligence Efforts"
-excerpt: "RBL Bank has chosen Amazon Web Services (AWS) as its preferred cloud provider to strengthen its AI-powered banking solutions and drive digital transformation at"
-publishedDateTime: 2021-08-09T09:05:00Z
-originalUrl: "https://technuter.com/breaking-news/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts.html"
-webUrl: "https://technuter.com/breaking-news/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts.html"
+excerpt: "Other use cases already being tested within the Operations division include using services like Amazon Rekognition and Amazon Textract to automatically extract and match customer signatures and ..."
+publishedDateTime: 2021-08-09T08:09:00Z
+originalUrl: "https://www.indiainfoline.com/article/news-sector-banking-financials/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900334_1.html"
+webUrl: "https://www.indiainfoline.com/article/news-sector-banking-financials/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900334_1.html"
+ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-banking-financials/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900334_1.html"
+cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-banking-financials/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900334_1.html"
 type: article
 
 provider:
-  name: technuter.com
-  domain: technuter.com
+  name: India Infoline
+  domain: indiainfoline.com
 
 topics:
   - AWS AI
@@ -17,11 +19,11 @@ topics:
   - AI in Finance
 
 images:
-  - url: "https://technuter.com/wp-content/uploads/2019/03/aws-logo.jpg"
-    width: 277
-    height: 239
+  - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
+    width: 350
+    height: 233
     isCached: true
 
-secured: "KzR7fEr32QAm+qs1vw31h3aUTMfPb8AqNvXEyULO8ZBDbIIf9BTYric6RdEl3+jMKcw9x/lu5vqnGmR6YDdpY+v7iIjhXFjSyylOOMtvD75d1ZmEL+GJsg9TwBB4kjUeInuetsSyqhj1p2i51YX0wsg7Jl/VMSXI2mxRSDS03YyhT2K9eQJu2X45fq9V51U1ZWfEu7yK1B0/lcMTnOpK7v5DVKWYCWnRQh7iYuv6WsxcUjR6P7L5SsqMcKtD9IlfQV28BQe7UiR08PhPGe3OKhmj3mjHNGLzovWlSwBtNQseZI3udFhHnHVvNTmCDOJLAok4P/0VAZfEuzthQFY/rklcnAJ4Q0CEt2yNFFpsNDA=;0iSA6FEUQN3HrhI0w5YZMA=="
+secured: "v9Qn/VZwhqzVyrGh+DaFffBPWd3dQBZ4Un4XE0tr7Fry0VbPG8QruIKysR7bOUq3JtxweGzJH2Fd5pod0+zSGux8aLWVaqWkc42wGNZM+Fa3fW/jMIQhdq5e/o2Ur0cjtPmT5u7VRDPeKiPSwXIluvzRqVLbRzgRVpKR0JkZEqqWwINrIqxW73GJ3eErRKZbmlm0GFZ9a6Js843yi0AOthDwKGWYfjyQ4RsQOX7gszser14f+pzZURqrYbDqVUzVyKR9GHwRFxF1mAMlgR4x7I/u4ZgKo3uTrkwag6Y01gvpZFHW27NR5yK/7tbwlcz4n5spK12rUUyyDJybc34mfryGZMtuBqhMtb1LIMM83l4=;dQ9IW4U5b9+TWOxnRPZpkQ=="
 ---
 

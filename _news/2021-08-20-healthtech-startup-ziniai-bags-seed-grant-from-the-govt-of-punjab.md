@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Healthtech Startup Zini.ai Bags Seed Grant From The Government Of Punjab"
+    excerpt: "The startups selected for the grant will have access to mentors, networking opportunities, interactions with Invest Punjab and other stakeholders"
+    publishedDateTime: 2021-08-20T08:02:00Z
+    webUrl: "https://www.entrepreneur.com/article/380793"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/380793"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/380793"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 86
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1629446524-Zini-PunjabSeedGrant002v11.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Healthtech startup Zini.ai bags Seed grant from Punjab govt"
     excerpt: "Zini.ai, an AI-powered multilingual virtual physician, a flagship product by Grainpad Pvt Ltd, was selected for the Startup Punjab Seed grant award. Zini.ai was shortlisted from a cohort of 15 startups that were further shortlisted from more than 150 companies from across the country."
     publishedDateTime: 2021-08-19T06:36:00Z

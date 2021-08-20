@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Sentiance wins 2021 FinTech Award for \"Best FinTech Mobile Telematics Provider - Europe\""
-excerpt: "Sentiance, an intelligence-driven data science and behavior change company, is awarded the \"Best FinTech Mobile Telematics Provider – Europe \" award by Wealth & Finance International. The FinTech Awards by Wealth & Finance International recognize and spotlight creative innovation,"
-publishedDateTime: 2021-08-19T14:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/sentiance-wins-2021-fintech-award-for-best-fintech-mobile-telematics-provider-europe-1030745508"
-webUrl: "https://markets.businessinsider.com/news/stocks/sentiance-wins-2021-fintech-award-for-best-fintech-mobile-telematics-provider-europe-1030745508"
+excerpt: "The FinTech Awards by Wealth & Finance International ... The main reasons why Sentiance won this award are its competitive AI technology, its innovative in-house behavior change team, and the ..."
+publishedDateTime: 2021-08-19T12:15:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/sentiance-wins-2021-fintech-award-for-best-fintech-mobile-telematics-provider-europe-1030745487"
+webUrl: "https://markets.businessinsider.com/news/stocks/sentiance-wins-2021-fintech-award-for-best-fintech-mobile-telematics-provider-europe-1030745487"
 type: article
 quality: 45
 heat: 45
@@ -44,6 +44,6 @@ related:
         height: 751
         isCached: true
 
-secured: "RVtccYDN2cikUXlkEk3Uczi+WYoRdEzDeCq3NJDGrYiqdF6VMDxNvs1izS5TFG0W1g/uF2f+PxRf03js+q7tYXBAjADVNRoOBHcd1inc6nWiIHtlPYjN9ZyUik8J5YRNd7bQXNlaUYJ7oS2241HkCo8IaIKmE4T8ZTN19A6/fmVhtn8QX0Oag4vzrwa+gRGcelEH+0KxTFdSss3IePlFrEEHwATBOY/ITWlva6s+39pFkZBBs8KVgkwyf3S3dHOSXFLdTdkEOjewGVluzUg+7iQDsRM1oIeerQbCk6mGr3JG5QTEkqJTs/yoG8DFL4X1sCq9zkW8OAhpiXAdIR3Jtx4pUJRqQ1ck9MlzjL9mV/QT45Jn8onNumdFJkzoWuld/eeCrfFCJgkqjDdiYwxs8rVTgXjDX5wDtQwRADzyIlEe1JX+Smc9j9dU12jDKJtwmrxm4IH+DCevdco03U7Vj5TxuntgMnmR+Vrz/DtKFRrFrPuG2ZHCXcdA1z/UHZ+0E4rjFUStdB1IPyPBeNU8Ow==;DekHwWz2naivDiycZeaw/g=="
+secured: "5J6eENe1yhKPMdGeF94Z4W1wzrxWiaCrAcKVPjXEtrft1lfp29u7OoRmWHQ2N9hinR3CQ+K8vaS0j8bsT67U8Ak0pqE+uAiO57bIcnFAGXvopDKW6TKHyJnq6WqdV+1quDZG+27zHBv3ZcRNHRrwhXqkuluWFho5Su9Wtw2iSb91sUYvphNgbad6CKR1aSu8iXJzwH1hRK18r3I7prSRZl0V+72o65xAHeWkByFOO0p+FnzH/ZJC7+JHcfFqfZeqeK+8D+519X4wUZrpDVtBaebEZw0stI8uR34AKTIvE3+PXC7DmDz+ACeIJTDZB4QaX/q1PsCG9XsaCh1LHChEyw42lmGo84o35jtctaERjzo=;2pmq/sThxwbxadrKzo55wQ=="
 ---
 

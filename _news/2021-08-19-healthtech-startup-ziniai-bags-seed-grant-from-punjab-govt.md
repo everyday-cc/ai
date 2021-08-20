@@ -9,7 +9,7 @@ ampWebUrl: "https://www.freepressjournal.in/amp/business/healthtech-startup-zini
 cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/healthtech-startup-ziniai-bags-seed-grant-from-punjab-govt"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Healthtech Startup Zini.ai Bags Seed Grant From The Government Of Punjab"
+    excerpt: "The startups selected for the grant will have access to mentors, networking opportunities, interactions with Invest Punjab and other stakeholders"
+    publishedDateTime: 2021-08-20T08:02:00Z
+    webUrl: "https://www.entrepreneur.com/article/380793"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/380793"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/380793"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 86
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1629446524-Zini-PunjabSeedGrant002v11.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Healthtech startup Zini.ai Bags Seed Grant From The Govt of Punjab"
     excerpt: "Zini.ai was shortlisted from a cohort of 15 startups that were further shortlisted from more than 150 companies across the country."
     publishedDateTime: 2021-08-20T07:02:00Z

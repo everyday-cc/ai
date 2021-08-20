@@ -58,6 +58,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Intel’s GPU ambition comes into fruition with Arc; Aims to tackle DLSS and FSR with XeSS"
+    excerpt: "Intel has officially unveiled its brand new GPU division called Intel Arc that will be in charge of developing GPUs for laptops and desktops."
+    publishedDateTime: 2021-08-20T09:39:00Z
+    webUrl: "https://www.tech-critter.com/intel-arc-gpu-xess-technology/"
+    type: article
+    provider:
+      name: tech-critter.com
+      domain: tech-critter.com
+    quality: 45
+    images:
+      - url: "https://i2.wp.com/www.tech-critter.com/wp-content/uploads/2021/08/image003.jpg"
+        width: 1300
+        height: 731
+        isCached: true
   - title: "Intel teases AI-based DLSS-style super sampling tech in the works"
     excerpt: "Intel confirms it is working on AI-based Super Sampling technology, to fight against NVIDIA's DLSS and AMD's FSR technologies."
     publishedDateTime: 2021-08-17T03:09:00Z

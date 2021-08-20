@@ -22,404 +22,176 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Elon Musk reveals 'Tesla Bot', a humanoid robot utilizing Tesla AI"
-    excerpt: "Tesla . Speaking at Tesla's AI Day, founder Elon Musk revealed the Tesla Bot, a humanoid robot running on artificial intelligence used by Tesla's autonomous vehicles. \"It makes se"
-    publishedDateTime: 2021-08-20T02:16:00Z
-    webUrl: "https://www.cnet.com/news/elon-musk-reveals-tesla-bot-a-humanoid-robot-utilizing-tesla-ai/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/elon-musk-reveals-tesla-bot-a-humanoid-robot-utilizing-tesla-ai/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/elon-musk-reveals-tesla-bot-a-humanoid-robot-utilizing-tesla-ai/"
+  - title: "Baidu says 2nd-gen Kunlun AI chips enter mass production"
+    excerpt: "BEIJING, Aug 18 (Reuters) - Chinese tech giant Baidu said on Wednesday it had begun mass-producing second-generation Kunlun artificial intelligence (AI) chips, as it races to become a key player in the chip industry which Beijing is trying to strengthen."
+    publishedDateTime: 2021-08-19T05:30:00Z
+    webUrl: "https://www.reuters.com/article/us-baidu-semiconductors/baidu-says-2nd-gen-kunlun-ai-chips-enter-mass-production-idUSKBN2FJ0GK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2FJ0GK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2FJ0GK"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 121
-    images:
-      - url: "https://www.cnet.com/a/img/jetI8eIc6sjGpCz4QvcCpNQMlb0=/213x0:1037x691/1200x630/center/top/2021/08/20/c7483157-7676-4005-9899-b6c229715f8f/teslarobot1.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Elon Musk unveils plans for humanoid robot that uses Tesla’s artificial intelligence"
-    excerpt: "Tesla Inc. showcased its artificial-intelligence systems on Thursday amid renewed criticism for Autopilot, its most-talked-about AI-based system, as"
-    publishedDateTime: 2021-08-20T03:06:00Z
-    webUrl: "https://www.marketwatch.com/story/elon-musk-unveils-plans-for-humanoid-robot-that-uses-teslas-artificial-intelligence-11629426728"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/elon-musk-unveils-plans-for-humanoid-robot-that-uses-teslas-artificial-intelligence-11629426728"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/elon-musk-unveils-plans-for-humanoid-robot-that-uses-teslas-artificial-intelligence-11629426728"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 116
-    images:
-      - url: "https://images.mktw.net/im-388779/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "What to expect from Tesla’s AI day event"
-    excerpt: "It’s been nearly two years since Tesla’s first “Autonomy Day” event, at which CEO Elon Musk made numerous lofty predictions about the future of autonomous vehicles, including his infamous claim that the company would have “one million robotaxis on the road” by the end of 2020."
-    publishedDateTime: 2021-08-18T14:00:00Z
-    webUrl: "https://www.theverge.com/2021/8/18/22627101/tesla-event-ai-day-rumors-elon-musk-what-to-expect"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2021/8/18/22627101/tesla-event-ai-day-rumors-elon-musk-what-to-expect"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/8/18/22627101/tesla-event-ai-day-rumors-elon-musk-what-to-expect"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 108
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/6uz3Juf-UxS1whmCVmJrEE9PFCg=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69741387/acastro_180524_1777_tesla_0003.0.jpg"
-        width: 1400
-        height: 933
-        isCached: true
-  - title: "Elon Musk says Tesla is working on humanoid robots"
-    excerpt: "Tesla CEO Elon Musk says his company is working on a humanoid robot and that it will build a prototype “sometime next year.” The humanoid robot will leverage Tesla’s experience with automated machines in its factories,"
-    publishedDateTime: 2021-08-20T02:23:00Z
-    webUrl: "https://www.theverge.com/2021/8/19/22633514/tesla-robot-prototype-elon-musk-humanoid-ai-day"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2021/8/19/22633514/tesla-robot-prototype-elon-musk-humanoid-ai-day"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/8/19/22633514/tesla-robot-prototype-elon-musk-humanoid-ai-day"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 106
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/OF-uREy2YlBbDjVYbZdcPKd1Cgw=/0x0:1290x746/1400x933/filters:focal(542x270:748x476):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69751137/Screen_Shot_2021_08_19_at_9.06.39_PM.0.png"
-        width: 1290
-        height: 746
-        isCached: true
-  - title: "Tesla to Spotlight Artificial Intelligence Work Amid Scrutiny"
-    excerpt: "Elon Musk is expected to spotlight Tesla Inc.’s work on artificial intelligence as the company faces increased federal scrutiny of a key application of that technology: its driver-assistance system known as Autopilot. Tesla on Thursday evening is slated ..."
-    publishedDateTime: 2021-08-19T22:30:00Z
-    webUrl: "https://www.wsj.com/articles/tesla-ai-day-2021-11629408749"
-    ampWebUrl: "https://www.wsj.com/amp/articles/tesla-ai-day-2021-11629408749"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tesla-ai-day-2021-11629408749"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 106
-    images:
-      - url: "https://images.wsj.net/im-387188/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "How to watch Tesla’s AI day event"
-    excerpt: "Today is Tesla’s AI Day, a sequel of sorts to the company’s Autonomy Day event held in 2019. The event, which will be held at Tesla’s headquarters in Palo Alto, CA, will be livestreamed for the public starting at 5PM PT / 8PM ET (though the event may ..."
-    publishedDateTime: 2021-08-19T15:39:00Z
-    webUrl: "https://www.theverge.com/2021/8/19/22632384/tesla-event-watch-ai-day-elon-musk-start-time-live-stream"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2021/8/19/22632384/tesla-event-watch-ai-day-elon-musk-start-time-live-stream"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/8/19/22632384/tesla-event-watch-ai-day-elon-musk-start-time-live-stream"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
+      name: Reuters
+      domain: reuters.com
     quality: 104
     images:
-      - url: "https://cdn.vox-cdn.com/thumbor/euC9eBc4MhSWfWm4BHGu0ALNmJk=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69747879/acastro_180524_1777_tesla_0001.0.jpg"
-        width: 1400
-        height: 933
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210818&t=2&i=1572224486&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH7H07S"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Tesla to Hold AI Day Amid New Scrutiny: What to Expect"
-    excerpt: "The world’s most valuable car maker is holding an event to promote its use of artificial intelligence, just as federal regulators this week announced a new investigation into the company’s Autopilot d"
-    publishedDateTime: 2021-08-19T13:00:00Z
-    webUrl: "https://www.wsj.com/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430?mod=hp_lista_pos3"
-    ampWebUrl: "https://www.wsj.com/amp/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 104
-    images:
-      - url: "https://images.wsj.net/im-387824?width=700&height=557"
-        width: 700
-        height: 557
-        isCached: true
-  - title: "Tesla to Hold AI Day at a Time of New Scrutiny: What to Expect"
-    excerpt: "The world’s most valuable car maker is holding an event to promote its use of artificial intelligence, just as federal regulators this week announced a new investigation into the company’s Autopilot driver assistance technology."
-    publishedDateTime: 2021-08-19T21:41:00Z
-    webUrl: "https://www.wsj.com/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430"
-    ampWebUrl: "https://www.wsj.com/amp/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 104
-    images:
-      - url: "https://images.wsj.net/im-387828?width=700&height=466"
-        width: 700
-        height: 466
-        isCached: true
-  - title: "Tesla to Spotlight Artificial Intelligence Work Amid Scrutiny of Autopilot"
-    excerpt: "Elon Musk is slated to host an event Thursday evening to drum up interest in the electric-vehicle maker and its AI efforts at a time its driver-assistance system is under investigation."
-    publishedDateTime: 2021-08-19T20:33:00Z
-    webUrl: "https://www.wsj.com/articles/tesla-ai-day-2021-11629408749?mod=lead_feature_below_a_pos1"
-    ampWebUrl: "https://www.wsj.com/amp/articles/tesla-ai-day-2021-11629408749"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tesla-ai-day-2021-11629408749"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 104
-    images:
-      - url: "https://images.wsj.net/im-387188/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Watch Tesla AI Day and follow the important news coming out of it"
-    excerpt: "PM ET (5:00 PM PT) if Tesla is on time, which is a big ‘if’. We are also going to link to all the headline-worthy news coming out of the event. Over the last few years, Tesla started holding events, not really to unveil"
-    publishedDateTime: 2021-08-19T21:49:00Z
-    webUrl: "https://electrek.co/2021/08/19/watch-tesla-ai-day-livestream-important-news/"
-    ampWebUrl: "https://electrek.co/2021/08/19/watch-tesla-ai-day-livestream-important-news/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/19/watch-tesla-ai-day-livestream-important-news/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 104
-    images:
-      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-AI-Day.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Tesla is working on an AI-powered humanoid robot"
-    excerpt: "Tesla is building a humanoid robot simply called the Tesla Bot, Elon Musk has revealed at the automaker's (and, perhaps, soon-to-be-robotmaker's) AI Day event. It's intended to be friendly, he said, and be slow and weak enough that you can outrun and overpower it — you know,"
-    publishedDateTime: 2021-08-20T14:23:00Z
-    webUrl: "https://www.engadget.com/tesla-bot-humanoid-robot-033635103.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 101
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-08/6bb3c8d0-0162-11ec-b9ff-880869fe088f"
-        width: 2790
-        height: 1569
-        isCached: true
-  - title: "Elon Musk announces humanoid robot Tesla Bot that uses artificial intelligence"
-    excerpt: "Billionaire Elon Musk has announced that Tesla is working on a humanoid robot called \"Tesla Bot\" that uses artificial intelligence and will launch the prototype in 2022. Join us to build the future of AI →  pic."
-    publishedDateTime: 2021-08-20T03:43:00Z
-    webUrl: "https://www.wionews.com/technology/elon-musk-announces-humanoid-robot-tesla-bot-that-uses-artificial-intelligence-407062"
-    ampWebUrl: "https://www.wionews.com/technology/elon-musk-announces-humanoid-robot-tesla-bot-that-uses-artificial-intelligence-407062/amp"
-    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/technology/elon-musk-announces-humanoid-robot-tesla-bot-that-uses-artificial-intelligence-407062/amp"
-    type: article
-    provider:
-      name: WION
-      domain: wionews.com
-    quality: 87
-    images:
-      - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2021/08/20/207585-untitled-design-6.jpg"
-        width: 918
-        height: 506
-        isCached: true
-  - title: "Will Project Dojo be the Central Focus of Tesla's (TSLA) AI Day?"
-    excerpt: "The AI Day is expected to shed light on new information about the development progress with respect to Tesla’s much touted Full Self-Driving (FSD) suite. Full Self-Driving builds on Tesla’s advanced driver-assistance system known as Autopilot,"
-    publishedDateTime: 2021-08-16T15:47:00Z
-    webUrl: "https://www.nasdaq.com/articles/will-project-dojo-be-the-central-focus-of-teslas-tsla-ai-day-2021-08-16"
-    ampWebUrl: "https://www.nasdaq.com/articles/will-project-dojo-be-the-central-focus-of-teslas-tsla-ai-day-2021-08-16?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/will-project-dojo-be-the-central-focus-of-teslas-tsla-ai-day-2021-08-16?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 86
-  - title: "Tesla AI Day Doubles as Showcase to Recruit and Flaunt Future"
-    excerpt: "Welcome to the Hyperdrive daily briefing, decoding the revolution reshaping the auto world, from EVs to self-driving cars and beyond."
-    publishedDateTime: 2021-08-18T10:40:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2021-08-18/tesla-ai-day-doubles-as-showcase-to-recruit-and-flaunt-future"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 86
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iuGj712Psngg/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Why Tesla Stock Is Up After AI Day"
-    excerpt: "Wedbush didn't change its \"outperform\" rating on Tesla stock this morning in response to the company's plan to build its own D1 computer chips to run its Dojo supercomputer ... But hey, in at least one respect, AI Day was a success: It generated headlines ..."
-    publishedDateTime: 2021-08-20T15:41:00Z
-    webUrl: "https://www.nasdaq.com/articles/why-tesla-stock-is-up-after-ai-day-2021-08-20"
-    ampWebUrl: "https://www.nasdaq.com/articles/why-tesla-stock-is-up-after-ai-day-2021-08-20?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-tesla-stock-is-up-after-ai-day-2021-08-20?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 86
-  - title: "Tesla Autopilot U.S. Safety Probe Puts a Damper on Elon Musk’s AI Day"
-    excerpt: "The federal investigation into Tesla Inc.’s Autopilot comes at an awkward time for Elon Musk. On Thursday -- just three days after the U.S. government announced its probe -- he has a briefing scheduled about the carmaker’s work on artificial intelligence."
-    publishedDateTime: 2021-08-16T15:58:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-08-16/tesla-autopilot-u-s-safety-probe-puts-a-damper-on-musk-s-ai-day"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 84
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVshSUQDWYX0/v0/1200x900.jpg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Tesla Places Itself As A Robotics Company With Reach Beyond EVs, Unveils Dojo Chips, Humanoid: Key Takeaways From AI Day"
-    excerpt: "The maximum running speed of the robot is 5 mph, which as per Musk makes it safe. The entrepreneur has in the past expressed concerns about artificial intelligence and thus the Bot is designed at a “mechanical level” in such a way that “you can run ..."
-    publishedDateTime: 2021-08-20T15:00:00Z
-    webUrl: "https://www.benzinga.com/news/21/08/22590542/tesla-places-itself-as-a-robotics-company-with-reach-beyond-evs-unveils-dojo-chips-humanoid-key-take"
-    ampWebUrl: "https://www.benzinga.com/amp/content/22590542"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22590542"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 81
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/screen_shot_2021-08-20_at_4.16.51_pm.png"
-        width: 2720
-        height: 1584
-        isCached: true
-  - title: "Tesla Unveils Own Chip for AI Training Computer Dojo"
-    excerpt: "Tesla Inc on Thursday unveiled its own computer chips to train its automated driving system. Tesla CEO Elon Musk a few years ago asked Tesla engineer \"to design a superfast training computer and that's how we started Project Dojo,"
-    publishedDateTime: 2021-08-20T02:28:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-08-19/tesla-unveils-own-chip-for-ai-training-computer-dojo"
+  - title: "Baidu Says 2nd-Gen Kunlun AI Chips Enter Mass Production"
+    excerpt: "Chinese tech giant Baidu said on Wednesday it had begun mass-producing second-generation Kunlun artificial intelligence (AI) chips, as it races to become a key player in the chip industry which Beijing is trying to strengthen."
+    publishedDateTime: 2021-08-18T06:12:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-08-18/baidu-says-2nd-gen-kunlun-ai-chips-enter-mass-production"
+    ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-08-18/baidu-says-2nd-gen-kunlun-ai-chips-enter-mass-production?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-08-18/baidu-says-2nd-gen-kunlun-ai-chips-enter-mass-production?context=amp"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 81
-  - title: "Tesla's 'AI Day' reveals new AI-learning server, Dojo, and Tesla Bot"
-    excerpt: "Tesla's AI Day event showcased how Tesla is using AI and neural networks to improve self-driving technology, solar power generation and storage, and even powering a humanoid robot called Tesla Bot."
-    publishedDateTime: 2021-08-20T08:04:00Z
-    webUrl: "https://interestingengineering.com/teslas-ai-day-reveals-new-ai-learning-server-dojo-and-tesla-bot"
-    ampWebUrl: "https://amp.interestingengineering.com/teslas-ai-day-reveals-new-ai-learning-server-dojo-and-tesla-bot"
-    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/teslas-ai-day-reveals-new-ai-learning-server-dojo-and-tesla-bot"
+    quality: 84
+  - title: "Baidu Unveils Robocar And Its Second-Generation AI Chip In China"
+    excerpt: "Chinese internet and AI behemoth Baidu has unveiled its second-generation artificial intelligence chip alongside a host of other important pieces of technology related to the automotive industry, including a ‘robocar’."
+    publishedDateTime: 2021-08-20T09:56:00Z
+    webUrl: "https://www.carscoops.com/2021/08/baidu-unveils-robocar-and-its-second-generation-ai-chip-in-china/"
+    ampWebUrl: "https://www.carscoops.com/2021/08/baidu-unveils-robocar-and-its-second-generation-ai-chip-in-china/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/08/baidu-unveils-robocar-and-its-second-generation-ai-chip-in-china/amp/"
     type: article
     provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 78
-    images:
-      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/zDOZKyd0Gk/sizes/tesla-project-dojo-d1-chip-tile_resize_md.jpg"
-        width: 744
-        height: 389
-        isCached: true
-  - title: "Musk Says Tesla Will Have a Humanoid Robot Next Year"
-    excerpt: "Tesla showcases its artificial intelligence at an investor event starting around 8 p.m. eastern time. Expect to hear about the company's computing technology, autonomous driving features and vehicle safety."
-    publishedDateTime: 2021-08-20T16:48:00Z
-    webUrl: "https://www.barrons.com/articles/tesla-bot-ai-day-51629408985"
-    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-bot-ai-day-51629408985"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-bot-ai-day-51629408985"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
+      name: Carscoops
+      domain: carscoops.com
     quality: 76
     images:
-      - url: "https://images.barrons.com/im-388806/social"
-        width: 1280
-        height: 640
+      - url: "https://www.carscoops.com/wp-content/uploads/2021/08/Baidu-Robocara-1024x555.jpg"
+        width: 1024
+        height: 555
         isCached: true
-  - title: "Tesla AI Day Preview"
-    excerpt: "Tesla’s AI day is Thursday August 19, scheduled to start at 8 PM EST at Tesla headquarters in Palo Alto, California. The goal of the event is to essentially persuade robotics and AI experts to come work at Tesla,"
-    publishedDateTime: 2021-08-19T17:00:00Z
-    webUrl: "https://cheddar.com/media/tesla-ai-day-preview"
-    ampWebUrl: "https://cheddar.com/media/tesla-ai-day-preview.amp"
-    cdnAmpWebUrl: "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/tesla-ai-day-preview.amp"
+  - title: "Baidu says it has begun mass production of 2nd-gen Kunlun AI chips"
+    excerpt: "Chinese tech giant Baidu said on Wednesday it had begun mass-producing second-generation Kunlun artificial intelligence (AI) chips, as it races to become a key player in the chip industry which Beijing is trying to strengthen."
+    publishedDateTime: 2021-08-18T09:32:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/baidu-says-it-has-begun-mass-production-of-2nd-gen-kunlun-ai-chips/articleshow/85425603.cms"
+    ampWebUrl: "https://www.gadgetsnow.com/tech-news/baidu-says-it-has-begun-mass-production-of-2nd-gen-kunlun-ai-chips/amp_articleshow/85425603.cms"
+    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/baidu-says-it-has-begun-mass-production-of-2nd-gen-kunlun-ai-chips/amp_articleshow/85425603.cms"
     type: article
     provider:
-      name: Cheddar
-      domain: cheddar.com
-    quality: 76
-    images:
-      - url: "https://img.chdrstatic.com/media/794aafcd-9b3d-4b8b-89e1-1afefb5e498f.jpg?width=1200&source=backend&auto=webp"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Musk's 'AI Day' confronts tough questions about Tesla's technology"
-    excerpt: "Tesla CEO Musk is expected to reveal more about Tesla's \"Dojo\" computing system on Thursday, which he has said would process vast amounts of video data it obtains from Tesla vehicles on the road."
-    publishedDateTime: 2021-08-19T00:43:00Z
-    webUrl: "https://www.foxbusiness.com/markets/elon-musk-tesla-ai-day-confronts-tough-questions-technology"
-    ampWebUrl: "https://www.foxbusiness.com/markets/elon-musk-tesla-ai-day-confronts-tough-questions-technology.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/markets/elon-musk-tesla-ai-day-confronts-tough-questions-technology.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
+      name: Gadgets Now
+      domain: gadgetsnow.com
     quality: 74
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cda2c4b9-302c-4a9c-a6ff-7ccd94b863c4/37687a85-2e7a-4ff3-b7cb-e60920b3755e/1280x720/match/image.jpg?pubId=854081161001"
-        width: 1280
-        height: 720
+      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-85425603,imgsize-9644,width-800/85425603.jpg"
+        width: 800
+        height: 533
         isCached: true
-  - title: "Tesla AI Day Is About To Start. Here’s Some Key Things You Can Expect to Learn."
-    excerpt: "Investors want to learn more about Tesla’s competitive position on AI-technology versus other car makers, and they may be hoping that CEO Elon Musk has a surprise or two up his sleeve as well. Technology Tesla (ticker: TSLA) has a vertically integrated ..."
-    publishedDateTime: 2021-08-19T21:36:00Z
-    webUrl: "https://www.barrons.com/articles/tesla-ai-day-is-about-to-start-heres-some-key-things-you-can-expect-to-learn-51629408985"
-    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-ai-day-is-about-to-start-heres-some-key-things-you-can-expect-to-learn-51629408985"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-ai-day-is-about-to-start-heres-some-key-things-you-can-expect-to-learn-51629408985"
+  - title: "Baidu Announces Upgraded Baidu Brain 7.0 and Mass Production of 2nd Generation Kunlun AI Chip"
+    excerpt: "Baidu today showcased its strengths in artificial intelligence technology with the launch of Baidu Brain 7.0, the start of mass production of its 2 nd generation Kunlun AI chip, Kunlun II, and the demonstration of industrial applications using Baidu AI Cloud."
+    publishedDateTime: 2021-08-18T15:40:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/baidu-announces-upgraded-baidu-brain-7-0-and-mass-production-of-2nd-generation-kunlun-ai-chip-1030742673"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 72
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 73
     images:
-      - url: "https://images.barrons.com/im-388173/social"
-        width: 1280
-        height: 640
+      - url: "https://mma.prnewswire.com/media/1597327/Image1.jpg"
+        width: 400
+        height: 225
         isCached: true
-  - title: "Elon Musk claims Tesla will debut a humanoid robot next year"
-    excerpt: "Elon Musk showed off his latest project Thursday night: a sleek white and shiny humanoid robot, sized a bit smaller than the average man, engineered to perform \"dangerous, repetitive, boring\" tasks – sometime in the future."
-    publishedDateTime: 2021-08-20T05:09:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/elon-musk-claims-tesla-will-debut-a-humanoid-robot-next-year/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/elon-musk-claims-tesla-will-debut-a-humanoid-robot-next-year/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/elon-musk-claims-tesla-will-debut-a-humanoid-robot-next-year/?amp=1"
+  - title: "Baidu's Kunlun II AI chips enter mass production"
+    excerpt: "Chinese tech giant Baidu has begun mass-producing its second generation of Kunlun artificial intelligence chips, used in its cloud data centers and smart electric vehicles. Baidu spun the Kunlun chip business out into an independent company earlier this year,"
+    publishedDateTime: 2021-08-19T11:50:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/baidus-kunlun-ii-ai-chips-enter-mass-production/"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 71
-  - title: "Elon Musk says Tesla's robot will make physical work a 'choice'"
-    excerpt: "After dominating the electric vehicle market and throwing his hat into the billionaire space race, Tesla boss Elon Musk announced the latest frontier he is aiming to conquer: Humanoid robots. The iras"
-    publishedDateTime: 2021-08-20T08:10:00Z
-    webUrl: "https://www.channelnewsasia.com/business/tesla-humanoid-robot-automation-elon-musk-2125921"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
     quality: 56
     images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--u_8oGNj6--/c_crop%2Ch_450%2Cw_800%2Cx_0%2Cy_83/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_338%2Cw_600/v1/one-cms/core/2021-08-19t104505z_1_lynxmpeh7i0h2_rtroptp_3_tesla-india-imports-tax.jpg?itok=0dbuG5HX"
-        width: 600
-        height: 338
+      - url: "https://media.datacenterdynamics.com/media/images/Baidu_headquarters.2e16d0ba.fill-1200x630.jpg"
+        width: 400
+        height: 211
         isCached: true
-  - title: "Tesla Autopilot U.S. Safety Probe Puts a Damper on Elon Musk’s AI Day"
-    excerpt: "The federal investigation into Tesla Inc.’s Autopilot comes at an awkward time for Elon Musk. On Thursday -- just three days after the U.S. government announced its probe -- he has a briefing scheduled about the carmaker’s work on artificial intelligence."
-    publishedDateTime: 2021-08-17T03:58:00Z
-    webUrl: "https://www.bloombergquint.com/business/tesla-autopilot-u-s-safety-probe-puts-a-damper-on-musk-s-ai-day"
+  - title: "Google Rival Baidu Has Made an AI Chip for Autonomous Driving and More"
+    excerpt: "Baidu has unveiled its latest Kunlun II chip at the Baidu World Conference. It is claimed to be two to three times faster than its predecessor, but what is more important here is that the unit is an artificial intelligence chip that can also be used for autonomous cars."
+    publishedDateTime: 2021-08-19T16:38:00Z
+    webUrl: "https://www.autoevolution.com/news/google-rival-baidu-has-made-an-ai-chip-for-autonomous-driving-and-more-167674.html"
     type: article
     provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 56
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/google-rival-baidu-has-made-an-ai-chip-for-autonomous-driving-and-more-167674-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
+  - title: "Baidu shows off robotaxi concept and second-generation AI computer chip"
+    excerpt: "Baidu says it is ready to move from technical verification to large-scale commercial operation of self-driving cars."
+    publishedDateTime: 2021-08-20T14:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1133304_baidu-shows-off-robotaxi-concept-and-second-generation-ai-computer-chip"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 56
+    images:
+      - url: "https://images.hgmsites.net/lrg/baidu-self-driving-car-concept_100803533_l.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "China’s Baidu says 2nd-gen Kunlun AI chips enter mass production"
+    excerpt: "Chinese tech giant Baidu said on Wednesday it had begun mass-producing second-generation Kunlun artificial intelligence (AI) chips, as it races to become a key player in the chip industry which Beijing is trying to strengthen."
+    publishedDateTime: 2021-08-18T08:46:00Z
+    webUrl: "https://www.dealstreetasia.com/stories/baidu-ai-chips-256357/"
+    type: article
+    provider:
+      name: dealstreetasia
+      domain: dealstreetasia.com
     quality: 54
     images:
-      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 630
+      - url: "https://dealstreetwebsite.s3.amazonaws.com/uploads/2018/04/baidu-1.jpg"
+        width: 976
+        height: 551
         isCached: true
-  - title: "Elon Musk says Tesla is building a humanoid robot for ‘boring, repetitive and dangerous’ work"
-    excerpt: "By Matt McFarland, CNN Business Elon Musk said Thursday night at Tesla’s AI Day that the company is building a humanoid robot, and will probably have a prototype next year. “It’s basically going to start dealing with work that is boring,"
-    publishedDateTime: 2021-08-20T08:59:00Z
-    webUrl: "https://abc17news.com/video/2021/08/20/elon-musk-says-tesla-is-building-a-humanoid-robot-for-boring-repetitive-and-dangerous-work-2/"
+  - title: "Baidu Brain 7.0 AI Platform Announced; Baidu Kunlun II AI Chips Now in Mass Production"
+    excerpt: "The latest version of Baidu’s open AI platform, Baidu Brain 7.0, has been launched by the Chinese technology company, which also announced that its Kunlun"
+    publishedDateTime: 2021-08-18T20:48:00Z
+    webUrl: "https://www.enterpriseai.news/2021/08/18/baidu-brain-7-0-ai-platform-announced-baidu-kunlun-ii-ai-chips-now-in-mass-production/"
     type: article
     provider:
-      name: ABC 17 News
-      domain: abc17news.com
-    quality: 45
+      name: enterpriseai
+      domain: enterpriseai.news
+    quality: 48
     images:
-      - url: "https://abc17news.b-cdn.net/abc17news.com/2021/08/hypatia-h_e53277f69b31148810e9707a8a3d9650-h_b97ea991d9b2817ab9b9934fbf4452f8-300-scaled.jpg"
-        width: 2560
-        height: 1708
+      - url: "https://www.enterpriseai.news/wp-content/uploads/2021/08/Baidu-logo-shutterstock-363519476_600x.jpg"
+        width: 600
+        height: 400
         isCached: true
+  - title: "Baidu announces mass production of 2nd generation Kunlun AI chip"
+    excerpt: "Baidu announced the start of mass production of its second-generation Kunlun AI chip, Kunlun II, and also demonstrated industrial applications using Baidu AI Cloud at Baidu World 2021, its annual flagship technology conference."
+    publishedDateTime: 2021-08-19T07:23:00Z
+    webUrl: "https://www.telecompaper.com/news/baidu-announces-mass-production-of-2nd-generation-kunlun-ai-chip--1394202"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 34
+  - title: "Baidu Announces Baidu Brain 7.0 and Production of 2nd Gen Kunlun AI Chip"
+    excerpt: "Baidu today showcased its artificial intelligence technology with the launch of Baidu Brain 7.0, the start of mass production of its 2nd generation Kunlun AI chip, Kunlun II, and the demonstration of industrial applications using Baidu AI Cloud."
+    publishedDateTime: 2021-08-19T13:30:00Z
+    webUrl: "https://insidehpc.com/2021/08/baidu-announces-baidu-brain-7-0-and-production-of-2nd-gen-kunlun-ai-chip/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 33
+  - title: "Baidu Announces Upgraded Baidu Brain 7.0 and Mass Production of 2nd Generation Kunlun AI Chip"
+    excerpt: "Baidu today showcased its strengths in artificial intelligence technology with the launch of Baidu Brain 7.0, the start of mass"
+    publishedDateTime: 2021-08-18T18:06:00Z
+    webUrl: "https://www.enterpriseai.news/2021/08/18/baidu-announces-upgraded-baidu-brain-7-0-and-mass-production-of-2nd-generation-kunlun-ai-chip/"
+    type: article
+    provider:
+      name: enterpriseai
+      domain: enterpriseai.news
+    quality: 25
 
 secured: "4e6iVPw7ghcuxrRjmmPbjchVG5g9hGW6XfvR2w0VLrNOkd7YQ8HyHRzUFtTrwH8ZgM1oFCn9qRnWl59sE0FqCRdcdaWDdWkI5fdT67bCxtzNt0LvhhKjCblx8zap6f2x32UTp5BSmXt9GPn+Wi2MK76QGhWn1VbucReNQMuCln0G3zj08IKeIqZsx3MQnMcq51f2ViKukWcyU+d1nyBdsmZqoQiRLrGFcXNU+x4W9CIxst7SHfLC3rsHIRdokHmiWHkGA637hcWBHwrk4GmVxogwkGh8jorTulgXwqprcney3/yOjvTbDeDQC/vagoShNE5l1Fw60eX8RePAVrlj+Emlv1sG9+OP10ze89WB1UCmDeYO45fixMHaeBM1+UPIAAzmmj5hZPLG0ytBBBbS33Rx3BSkL1PmICQqstgoyIl82cF+MMWX5aETfimRB0SxeQvm6Wv1gRqwvLeIeKYuNEXKOfGUrs0epSWz4Uk8xBW+orPR9AB02cNA0pn9Xz7ZYBIEhGp8/BCI9gUpCoARCw==;4ZvHJVOmF4TXjHP6YHy1VQ=="
 ---

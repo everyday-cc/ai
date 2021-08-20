@@ -53,6 +53,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 84
+  - title: "Baidu Unveils Robocar And Its Second-Generation AI Chip In China"
+    excerpt: "Chinese internet and AI behemoth Baidu has unveiled its second-generation artificial intelligence chip alongside a host of other important pieces of technology related to the automotive industry, including a ‘robocar’."
+    publishedDateTime: 2021-08-20T09:56:00Z
+    webUrl: "https://www.carscoops.com/2021/08/baidu-unveils-robocar-and-its-second-generation-ai-chip-in-china/"
+    ampWebUrl: "https://www.carscoops.com/2021/08/baidu-unveils-robocar-and-its-second-generation-ai-chip-in-china/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/08/baidu-unveils-robocar-and-its-second-generation-ai-chip-in-china/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 76
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2021/08/Baidu-Robocara-1024x555.jpg"
+        width: 1024
+        height: 555
+        isCached: true
   - title: "Baidu says it has begun mass production of 2nd-gen Kunlun AI chips"
     excerpt: "Chinese tech giant Baidu said on Wednesday it had begun mass-producing second-generation Kunlun artificial intelligence (AI) chips, as it races to become a key player in the chip industry which Beijing is trying to strengthen."
     publishedDateTime: 2021-08-18T09:32:00Z
@@ -83,6 +99,17 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Ahead of Tesla’s ‘AI Day’, Baidu unveils its next-gen AI chip"
+    excerpt: "Ahead of Tesla's 'AI Day', China's largest search engine company Baidu has unveiled its next-generation AI chip for autonomous vehicles."
+    publishedDateTime: 2021-08-18T21:47:00Z
+    webUrl: "https://themarketherald.com.au/ahead-of-teslas-ai-day-baidu-unveils-its-next-gen-ai-chip-2021-08-19/"
+    ampWebUrl: "https://themarketherald.com.au/ahead-of-teslas-ai-day-baidu-unveils-its-next-gen-ai-chip-2021-08-19/amp/"
+    cdnAmpWebUrl: "https://themarketherald-com-au.cdn.ampproject.org/c/s/themarketherald.com.au/ahead-of-teslas-ai-day-baidu-unveils-its-next-gen-ai-chip-2021-08-19/amp/"
+    type: article
+    provider:
+      name: The Market Herald
+      domain: themarketherald.com.au
+    quality: 71
   - title: "Baidu's Kunlun II AI chips enter mass production"
     excerpt: "Chinese tech giant Baidu has begun mass-producing its second generation of Kunlun artificial intelligence chips, used in its cloud data centers and smart electric vehicles. Baidu spun the Kunlun chip business out into an independent company earlier this year,"
     publishedDateTime: 2021-08-19T11:50:00Z
@@ -167,6 +194,6 @@ related:
       domain: enterpriseai.news
     quality: 25
 
-secured: "MeWtmx6RXdcIv2ZUUM8naiLECQ8uujTPmk3V80+jbuoqwOTzpoODsCm3qX4Mp1CzG58ozGkJvlPMkLd8CtP5KD7xAjeXneR0cGsfAu3CtfNPtUCthU/GePSAgVeNE43VXBdwJXsG1z+Xe+b6QnRjVvgb0WZgdYpSvfB2kvoDTJGndPrInACUU6cQQyLsWQTO0SBvbkcH4DZHyR032T1WkDeo4ndbTCiti9kUlhhzEfoGBzFkVs4BVzbh2nYnPhp9+KquyQKmIW7qnTrEvAeI1xyQKM1inxM/C6dpePA6atrZ5UU2mHLHQ0lZefbdEenOShA0LFbtC9/Cq918Wp2/pmIB7jz1XNNMDeAZAsZgjbo=;cNrchC0pgkR1Zqz75nkyug=="
+secured: "1+Y+KHVYypwbQW+3IY5J/dTHwH3mAKTRAiT5ki9r2TMRc+kd07yf8IlUl2RSUliJzV603KB1oEIqebNXBHgp+LXBq1WEOmCfNAiOT76qBzkDbZ5kzAIvlx4lOlR5H/QvD+sG5RLn6Mpor892ulfkCZ6VaEb0ACfSzF8/bJ1+1VkaAPAstuc1Ip65XjkTxLIFU+KBOgvuTaDe5FRhqZM+JDCJlryNZhc4tt826c2XRaZmLBuF0aaT1oqSlALqo4sR13X3NA1kipD5O3Rw29szmN9n51asnreTYOw0n78mJnM4vESbUx7RWwbWnwK8dDF9u0ygHO16+Ig709OBwMkCZIWKKsHYdHzblS+6g5+kkK6V31AxuR6mMhSyzeASkZfKk3yqUPnWIQCJy2ZVh3X20+ZxWyMC9WK6dhEljavoPOSHj6W/d8RPDcs7bMwbi2GGcNOOLy7HdkBAyMouVde9kxwLbesI0FBc1as3AstcOQPGt+2av1nTz4th9W/oz3D52VxMQysZ0aKIPtMX5YG/Vg==;2Tm7pe1PfBSIryW5nTZCjA=="
 ---
 

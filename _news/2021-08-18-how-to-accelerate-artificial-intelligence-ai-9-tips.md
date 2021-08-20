@@ -7,7 +7,7 @@ originalUrl: "https://enterprisersproject.com/article/2021/8/artificial-intellig
 webUrl: "https://enterprisersproject.com/article/2021/8/artificial-intelligence-ai-how-accelerate"
 type: article
 quality: 52
-heat: 52
+heat: 62
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 620
     height: 350
     isCached: true
+
+related:
+  - title: "Artificial Intelligence (AI): 4 characteristics of successful teams"
+    excerpt: "Struggling to get your Artificial Intelligence initiative past the early stages? Consider these lessons from teams that have successfully implemented and scaled AI strategies."
+    publishedDateTime: 2021-08-20T18:35:00Z
+    webUrl: "https://enterprisersproject.com/article/2021/8/artificial-intelligence-ai-4-characteristics-successful-teams"
+    type: article
+    provider:
+      name: enterprisersproject.com
+      domain: enterprisersproject.com
+    quality: 52
+    images:
+      - url: "https://enterprisersproject.com/sites/default/files/styles/google_discover/public/cio_digital_transformation.png?itok=DBlxhDuf"
+        width: 620
+        height: 350
+        isCached: true
 
 secured: "hwT12o/lUuF0dlKurI5V1XC2Wyd81TyONf8vxAmYytE+7bSyUTphCuPdv+E1xoqL9XtqBQjHoTkw5+77QWS5yxjSM6syiIlzSy1n1Nxbz7uZr7jFyMTl6pBb581mS1Y78mB/LL2SPdU+zz4lBCtAewZdio7SC5g11QXGzcWHOU8HdmtPHfX528JntqAW8RLj1sDzbEc06dQ7poTsNS33uwqjl7bmwBMe4MPymQgnAExNo6L3EaoY3LUu9RX5OYN4c2LGsJ9z88sK9QKqg0n7zckw/RIFgw1WhJB4Cw99g8g1KV6OWoeiZQjA/vUS0eWXn0zdm4u5daH8i7XLhwlRqJZdB5mtSTg1Q6Krc5YGSjyXtvnG+wTASuXp0UKOy/SD7IAlL4aT+iSN4JZxf5FJLQMJtelfxTDPkBZSRyBknKd0RSipPPHqxSqGvx0jfN4UqlbSRKbYFPjKVmfO5YKjU76bt4JxwGGWx7mHADxn0lqyzzaFPfYM+vdoq+kr3dKMxZi3c+drUuqjwRq0TeGGUQ==;W5W9xgtLBbCS5Q1RUtO6mA=="
 ---

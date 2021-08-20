@@ -62,6 +62,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Intel’s GPU ambition comes into fruition with Arc; Aims to tackle DLSS and FSR with XeSS"
+    excerpt: "Intel has officially unveiled its brand new GPU division called Intel Arc that will be in charge of developing GPUs for laptops and desktops."
+    publishedDateTime: 2021-08-20T09:39:00Z
+    webUrl: "https://www.tech-critter.com/intel-arc-gpu-xess-technology/"
+    type: article
+    provider:
+      name: tech-critter.com
+      domain: tech-critter.com
+    quality: 45
+    images:
+      - url: "https://i2.wp.com/www.tech-critter.com/wp-content/uploads/2021/08/image003.jpg"
+        width: 1300
+        height: 731
+        isCached: true
 
 secured: "/l8mj090aAYpt5MYh2YA/q2V3UVW/9ENFHiPOFk4Hi8nBBBpmyR7cIBlxsxq8AklLcke+Hp1ins7UchICGidXImLkATHc8c7RQEI2Bdeqnrc2bdm/u28E7xKFAu1YUvthCAGRL4S3E+FGcrdxIOwSw72ASkyFkJ6BNnzSyFrjLRVQE4MuWOoma7E6TPyx6jxNCYkTFQEuXnstOaMd9ESORBfzCvr44aiUYyr+FcyT8NmSgZTH8hShg8sSD5ERDsqJrOuqb1xdqVPNYSNpFDkgOHz/u9gEr0bNT6zOOqouh3YvL4z/i5CfIAbga37GueXDV+Qq7Hp6OOlVPZ4aeWyhM13JC3WuKDBAopqtXgqcy0=;cOTRdOgRVbQCmeaRrc0QWA=="
 ---
