@@ -39,6 +39,20 @@ related:
         width: 1000
         height: 750
         isCached: true
+  - title: "Intel Winding Down Its RealSense Computer Vision Business: Report"
+    excerpt: "Via CRN The long-running IT publication CRN is reporting that Intel is “winding down” its RealSense computer vision business, meaning its depth sensor cameras are ... Read more"
+    publishedDateTime: 2021-08-19T13:50:00Z
+    webUrl: "https://www.sixteen-nine.net/2021/08/19/intel-winding-down-its-realsense-computer-vision-business-report/"
+    type: article
+    provider:
+      name: Sixteen:Nine
+      domain: sixteen-nine.net
+    quality: 39
+    images:
+      - url: "https://www.sixteen-nine.net/wp-content/uploads/2021/08/d455-intel-realsense.jpeg"
+        width: 960
+        height: 340
+        isCached: true
 
 secured: "Pff9WJOoALUa3STKl9pradwBwoabVys+U/2lbrytkf9sJQObfvt9Ih0I5cT0ptaG6bkG/JfdC3/eFKSGE9prsyAJ+LpaN1YGIzRWQoUNZEAIIPiRHcd1isL4eolX5sjZt6wyILJtaIII+bd0nHCqjCV23Nu6r87qP+HZMYwQn2GBeaAExQP4Y2F6iSpNPA0uz0MfcvLUKdy7aYLGF8l4B3pEWn/+EuNIftwCmadS67dQLrxPyawFFnoLr83X2Qtuhuh4yewkuecDvW6LurunNEu6Qx+cXCja9C8Q+LFo9HYIAgNwVEIQlVn0TNaElYVqvn/E8cgxXkhABz1or3/JWWqrkw7X21H3KwkV82MlzWwRca1uH78Z2duin6We+2onqbpmwyRUqRScBJhV0u7Dfsi1poBcN6/HLhHD1TeEQ3KeSLYPboj9SlG0Es6+hB6vQo6bUzQdjyaDwXCbblZ+vSSMDl1kF6uKCUtWwgRlCaCZRv4OVJ1Jshjw2rgW/l4byjxhcBvWl94bU9FGW5VfYA==;nNUCMcPajZvkduZsdpx30A=="
 ---

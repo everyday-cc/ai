@@ -6,8 +6,8 @@ publishedDateTime: 2021-08-19T17:33:00Z
 originalUrl: "https://www.hcinnovationgroup.com/analytics-ai/artifical-intelligence-machine-learning/article/21235008/american-board-of-artificial-intelligence-in-medicine-provides-training-certification"
 webUrl: "https://www.hcinnovationgroup.com/analytics-ai/artifical-intelligence-machine-learning/article/21235008/american-board-of-artificial-intelligence-in-medicine-provides-training-certification"
 type: article
-quality: 46
-heat: 46
+quality: 48
+heat: 48
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Facebook AI
+  - AI Ethics
 
 images:
   - url: "https://img.hcinnovationgroup.com/files/base/ebm/hci/image/2021/08/dreamstime_xl_124585312.611e67c01a4e7.png?auto=format&fit=max&w=1200"

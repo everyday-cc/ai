@@ -7,8 +7,8 @@ originalUrl: "https://www.therobotreport.com/intel-realsense-camera-business-bei
 webUrl: "https://www.therobotreport.com/intel-realsense-camera-business-being-shut-down/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: The Robot Report
@@ -38,6 +38,20 @@ related:
       - url: "https://hackster.imgix.net/uploads/attachments/1337246/_YtRzx93hOu.blob?auto=compress%2Cformat&w=600&h=450&fit=min"
         width: 517
         height: 388
+        isCached: true
+  - title: "Intel Winding Down Its RealSense Computer Vision Business: Report"
+    excerpt: "Via CRN The long-running IT publication CRN is reporting that Intel is “winding down” its RealSense computer vision business, meaning its depth sensor cameras are ... Read more"
+    publishedDateTime: 2021-08-19T13:50:00Z
+    webUrl: "https://www.sixteen-nine.net/2021/08/19/intel-winding-down-its-realsense-computer-vision-business-report/"
+    type: article
+    provider:
+      name: Sixteen:Nine
+      domain: sixteen-nine.net
+    quality: 39
+    images:
+      - url: "https://www.sixteen-nine.net/wp-content/uploads/2021/08/d455-intel-realsense.jpeg"
+        width: 960
+        height: 340
         isCached: true
 
 secured: "DHXS+Lb6eJM3V3nnA3FMYEWM8GKs5GN2LBtpTTmFfzZyqnCzcHrRKqGc8p2ZIME4uPwps5Jhc+qQ4RHuaslWNjCM785Z8Xqvn2dEWK+ZDIUi+03/PZBIu3aTH6b6qSBX5YvaWaRnTFowBnJP4bmHg0+ansCY0In5RTDh/Otv/n+jBQDUGjCLHZE/tdkvrspl3QpKnxN7IqBKiEJUHetNi37chROeLLSuaYaEcWg/sUaQ3Lu+ha8IY//YQ1ohDd5IR5AwyQfQH217ZW0cdQBxPXTcXF3BRm7yeNyOZFADvtfSkXu89rJHGw19GTn7V2/MPTdcSJSxUHgPo9H9kh0QYdJZ8Xy/TFUsD9WGy56wUsnE0MVraZ7Z2URvOJtk4a0MBnkdR4+7mmG0sasjZEPDmwxbu/zC6RrUS08e4EvNZNEEd1ySpXyO+d65SNng5WutOVW0iQSl4FNiyWbRJolS9JUMX+CUztNYkhukLgy9pN4WzqxVM5rExc4YJqHxj05LWhb5JFtUYMqfWk7OeU/Ukw==;h/JHg7V00Cm6jWg6ZSaS9Q=="

@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "LSC : Lone Star College, Intel Team Up To Offer Artificial Intelligence Education"
+    excerpt: "The demand for artificial intelligence (AI) skills is rapidly growing and developing a skilled workforce will be critical for the U.S. t"
+    publishedDateTime: 2021-08-19T19:19:00Z
+    webUrl: "https://patch.com/texas/pasadena-tx/lsc-lone-star-college-intel-team-offer-artificial-intelligence-education"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 49
+    images:
+      - url: "https://patch.com/img/cdn/assets/layout/logo-patch-800x600.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Intel teases AI-based DLSS-style super sampling tech in the works"
     excerpt: "Intel confirms it is working on AI-based Super Sampling technology, to fight against NVIDIA's DLSS and AMD's FSR technologies."
     publishedDateTime: 2021-08-17T03:09:00Z
