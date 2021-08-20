@@ -6,8 +6,8 @@ publishedDateTime: 2021-08-16T07:00:00Z
 originalUrl: "https://labs.sogeti.com/technology-labs-podcast-artificial-intelligence-and-quality-engineering-with-johan-steyn/"
 webUrl: "https://labs.sogeti.com/technology-labs-podcast-artificial-intelligence-and-quality-engineering-with-johan-steyn/"
 type: article
-quality: 29
-heat: 29
+quality: 31
+heat: 31
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://labs.sogeti.com/wp-content/uploads/2021/02/podcast-tom.jpg"

@@ -6,8 +6,8 @@ publishedDateTime: 2021-08-19T01:47:00Z
 originalUrl: "https://digboston.com/mass-seeks-to-create-artificial-intelligence-task-force-wont-publicly-name-appointees/"
 webUrl: "https://digboston.com/mass-seeks-to-create-artificial-intelligence-task-force-wont-publicly-name-appointees/"
 type: article
-quality: 29
-heat: 29
+quality: 31
+heat: 31
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://digboston.com/wp-content/uploads/2021/08/AI-EYES-e1629337590872.png"

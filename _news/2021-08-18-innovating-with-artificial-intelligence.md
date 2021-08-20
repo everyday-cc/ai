@@ -8,7 +8,7 @@ webUrl: "https://www.wealthdaily.com/articles/innovating-with-artificial-intelli
 ampWebUrl: "https://www.wealthdaily.com/amp/articles/innovating-with-artificial-intelligence/99838"
 cdnAmpWebUrl: "https://www-wealthdaily-com.cdn.ampproject.org/c/s/www.wealthdaily.com/amp/articles/innovating-with-artificial-intelligence/99838"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://images.angelpub.com/2017/39/46975/monica-savaglia-signature-park-avenue-digest.png"

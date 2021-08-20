@@ -72,20 +72,6 @@ related:
         width: 1200
         height: 667
         isCached: true
-  - title: "Juniper touts cloud-ready data centre, AI, automation"
-    excerpt: "Enterprise networks are focused on buying full-stack offerings that include key software components such as management, automation and artificial intelligence (AI), but also routing, switching and security rather than a piecemeal approach. That trend is ..."
-    publishedDateTime: 2021-08-15T11:11:00Z
-    webUrl: "https://www.arnnet.com.au/article/690513/juniper-touts-cloud-ready-data-centre-ai-automation/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 37
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/nw_manjoj_leelanivas.jpg"
-        width: 800
-        height: 500
-        isCached: true
   - title: "DRUID AI and Service Centrix Form a Strategic Partnership"
     excerpt: "DRUID AI and Service Centrix Form a Strategic Partnership  - DRUID virtual assistants may converse and activate activities with both attended and unsupervised robots to streamline"
     publishedDateTime: 2021-08-17T10:48:00Z

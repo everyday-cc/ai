@@ -41,7 +41,7 @@ related:
     provider:
       name: Wealth Daily
       domain: wealthdaily.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://images.angelpub.com/2017/39/46975/monica-savaglia-signature-park-avenue-digest.png"
         width: 300

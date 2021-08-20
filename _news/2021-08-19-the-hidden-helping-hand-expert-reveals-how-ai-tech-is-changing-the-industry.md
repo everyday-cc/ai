@@ -69,20 +69,6 @@ related:
         width: 1024
         height: 389
         isCached: true
-  - title: "Op-Ed: AI and the future of gaming — A piece of string worth tying into knots"
-    excerpt: "The inevitable future of gaming is super-smart, evolving, artificial intelligence. That opens up endless possibilities, not just for gaming, but for that elusive thing, a meaningful human existence. Gaming is a business principle,"
-    publishedDateTime: 2021-08-15T11:27:00Z
-    webUrl: "https://www.digitaljournal.com/tech-science/op-ed-ai-and-the-future-of-gaming-a-piece-of-string-worth-tying-into-knots/article"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 34
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/05/Comp1-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "The hidden helping hand: expert from Croesus reveals how AI tech is already changing the industry"
     excerpt: "There’s an obvious reason for this – most physical locations were closed, so organizations had to fall back on online support – but it becomes especially interesting to note this is just a taster of an AI-centric revolution currently changing the world of finance."
     publishedDateTime: 2021-08-19T15:31:00Z

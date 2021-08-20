@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/08/18/amazon-rolls-out-indias-first-cele
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/18/amazon-rolls-out-indias-first-celebrity-voice-on-alexa-with-amitabh-bachchan/amp/"
 type: article
 quality: 71
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -124,6 +124,20 @@ related:
       - url: "https://cdn.i.haymarketmedia.asia/?n=campaign-india%2fcontent%2f20210819044036_alexa.jpg&h=630&w=1200&q=75&v=20170226&c=1"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Now chat with Big B's voice on Amazon Alexa for Rs 149 in India"
+    excerpt: "speech recognition, neural text-to-speech and more,\" said Puneesh Kumar, Country Leader for Alexa, Amazon India. Amazon Alexa in September last year announced a partnership with Bachchan to create a unique voice experience for its Indian fans. Alexa in the ..."
+    publishedDateTime: 2021-08-20T05:10:00Z
+    webUrl: "https://www.tribuneindia.com/news/entertainment/now-chat-with-big-bs-voice-on-amazon-alexa-for-rs-149-in-india-299355"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 24
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/8/2021_8$largeimg_1248748738.jpeg"
+        width: 660
+        height: 440
         isCached: true
 
 secured: "9VpXsmUeJHTX4qLrTqN5vk40NTD9R5slXwLGDdu8Eo8Z5oPFCZat5Ndjzs2x+1utwDyzZuIhIwAlk7lOMPGHSTQWqHB8RiKIW04W9M9sCrg0dOSEnsASgTuGRMlB9XoNNZRrV7ul9Z3cUjCi/0c6KkM9nTOVH3UNKjevEnk7C9y/MeGW5lVcHlI3NUzOHltW04MLYiFgShw+R0gs8M3t9SIJ5eYIrLiL4kEuwej73N4+zvhy4NxMEYyYPFoMcRwrD6TluLk0x6kPXt8NTeYYhryyhfRYBpcgZzKq+7GzRjVDTcMzY92QaD9Cjwt8J4UaNPIjtpEKFgK6u9xJg5Y3xRwOXK8HHtiwdHkJ8ZrKwzpd4PF/RxmKCZ7JXCOBvLsMa8JRu1H1VaIBlgGe6e0IXgUjGPTB7sxh0pPI+ooKvFLtBv3lMzHk2OgiRDX9zS/4whpvOuac1zb73pjGCFomPw0zCnPkqxKtaIi01vaLidSY6XKl38tyzKxnwk3MYrM6NUqT3nTIzxhQDlxHF76D0Q==;QC1AOfax0RDUq6pSP4vNZg=="

@@ -85,15 +85,6 @@ related:
         width: 1280
         height: 960
         isCached: true
-  - title: "Navigating Driver Privacy and Safety of Electric Vehicles, Self-Driving Vehicles"
-    excerpt: "A growing number of connected electric vehicles, as well as the evolution of self driving and automated vehicles are putting a greater demand on processing power. New technologies are advancing rapidly with the introduction of new processing methods,"
-    publishedDateTime: 2021-08-15T13:00:00Z
-    webUrl: "https://insidebigdata.com/2021/08/15/navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 1
 
 secured: "XTIgOrgTsb+M1W519hW4rmRlA3b1j3jXm5qm1/mKY284u5xjO4KPvU3MECleiRoLUNA8uFi+bW9W4VDsUfN1ujHXKbjs413Q2hvr7ADdwobGXkuwlmuwRBCQx+tCbz1sHPn2gpoWYc29j49t3n2M8FUem3f8wzsz5amS6q1d/r2qV/z2hqD0v6YlDuOI0nU+DG+rpI01NJk5M3kKVOER9D1tNAgdXUmbJpzMZ8UO14xFHoF3HPY6EqMQHaDZah+1hsQwKs7pPcxQc9y0qTQhFi6+3oiUIVpHgKt7Nv3HOiVVjdn/NrvI+K72wQtEWbbh9yz/9f5LEgCYz9ZdXJ0YxwWtNrPukrDFQehJMpyK6zk=;ih0r6YXcZlKFgjvmUWCjqQ=="
 ---

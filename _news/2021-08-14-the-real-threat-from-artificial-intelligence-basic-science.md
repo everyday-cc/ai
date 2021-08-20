@@ -14,6 +14,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://ksusentinel.com/wp-content/uploads/2021/08/inteligencia-artificial-web-780x470.jpg"
@@ -21,6 +22,6 @@ images:
     height: 470
     isCached: true
 
-secured: "JrYKkBX4/bv2e9nsEtOrpLRs9z0IwruP2igB3qCrvS4VCrFr8VV5cndqN+802JjpZ9XFxJL1S8B079mZ4n5psUuS3gVqGm+ouv5zPVrBbGYZIcJ+ftp3coj/3C6Vhrq8Zdq/a2l1KaigacUJkaNEpFipP65DsNjFmQWnwQIdE2hyPqkay1jgRTKtlCJkVWrhaM6t9rP0RQ5ZBR7YWQlvZCi/sdDczXKpVsqQLkXTh7Vd+6INCBdBpBUuwNs0hmObH0Md0LFj9wcLzNLgoQ0HSfdMqc3XPCe496rpcEmhhuAkeNZ6lR9osF50fRTMhSThInQZkvXEi8T/8Znc/mDaJwl/sm001Mwok0Z+4daAPD0=;RNr4tHXzStOfOF4+yqdbAw=="
+secured: "ca3O06T5nX1QYRxJsyIcDbwPLm6flNSmzAm6/qAv6R/OtmwrbtAw/ZePGyf04UCmyD2BIGdgi5wX4aLmTyFmTmo+J9jZyHsJldCNnO0D1T8AdP+3ET/KEfvWwgjJtkbqJPahq/4x4QfvNvWMhx5KaCdRoQ7BKZeJaP8SqoWT1TBwhYrwxodpE8B4XAaHIwWVpwX09PCijr8N0kH4iPdYyEt7CwqTisjsjFLpvxHJZI6sovYHlQBVYPGUxIlU3mQfZ7pRI++sDmwanqN1vLBBDqgtezs9E8Nl6dEahtQvXu6fEPBzXdF9R/Eu9yv3wA5emZv4JVJ6BL4SPW+U1pZfhvotav5t6dWrniAjcqjHV8rky8BvCupCm7masgkAyJNfY+JI/2fFy6oxlbI7q+SZ6ZBNT31jAPDFNH9EksUpr2ZarRnDh6uA13yce0CWOrf2o3/jh1j8792H4NDXD0D14u7PX1MKMnvxitlaPcNqFCdAUh3YozXp1uR2XHWffB7dUc5eIUnnCGazAOWK1jvXrw==;UlDKYGjbDXL4G1jeGkvYkA=="
 ---
 

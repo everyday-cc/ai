@@ -121,6 +121,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Now chat with Big B's voice on Amazon Alexa for Rs 149 in India"
+    excerpt: "speech recognition, neural text-to-speech and more,\" said Puneesh Kumar, Country Leader for Alexa, Amazon India. Amazon Alexa in September last year announced a partnership with Bachchan to create a unique voice experience for its Indian fans. Alexa in the ..."
+    publishedDateTime: 2021-08-20T05:10:00Z
+    webUrl: "https://www.tribuneindia.com/news/entertainment/now-chat-with-big-bs-voice-on-amazon-alexa-for-rs-149-in-india-299355"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 24
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/8/2021_8$largeimg_1248748738.jpeg"
+        width: 660
+        height: 440
+        isCached: true
 
 secured: "MB6sv5exf3Wq522IQHObutMzTvolz9TmgmLAPicDLLrnE6AzChwmNOhxQOCpoMHW5jiTpyUlS1bNkVszI+3of2G1QWq/y6+CXPrZoYbsBP0MLbKSCjJXiBNOzb9X/p9ZOgAqmZnDKf4RbUTs9SkIUrxlhS10HMVnFcu78A9nFuPzn2G4e5t0Hk97yRvR8NO4sLd3PGfZgDyC8itsgV18Or7TKwyL6HVvEM/rsW7JPxQ0XP/rqazJ2qDJt8bhT9/GC2YZLPLSfBZJCZWZZZsms1unLr9cbjloIMWlkiuhGaL0ODBiGdnWkiPHKOCJx86A8GrghVikdui/kL1HPvSey9vt7jxEV2Z2Kgr9hcasli8=;tiIbk3RZnMJC80SwWvgBVA=="
 ---

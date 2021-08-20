@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/8/18/22627101/tesla-event
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/8/18/22627101/tesla-event-ai-day-rumors-elon-musk-what-to-expect"
 type: article
 quality: 108
-heat: 229
+heat: 249
 published: true
 
 provider:
@@ -81,6 +81,22 @@ related:
         width: 700
         height: 557
         isCached: true
+  - title: "Tesla to Spotlight Artificial Intelligence Work Amid Scrutiny"
+    excerpt: "Elon Musk is expected to spotlight Tesla Inc.’s work on artificial intelligence as the company faces increased federal scrutiny of a key application of that technology: its driver-assistance system known as Autopilot. Tesla on Thursday evening is slated ..."
+    publishedDateTime: 2021-08-19T22:30:00Z
+    webUrl: "https://www.wsj.com/articles/tesla-ai-day-2021-11629408749"
+    ampWebUrl: "https://www.wsj.com/amp/articles/tesla-ai-day-2021-11629408749"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tesla-ai-day-2021-11629408749"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 104
+    images:
+      - url: "https://images.wsj.net/im-387188/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "What to expect from OpenAI’s Codex API"
     excerpt: "The Codex demo puts the advantages of large language models on display, showing an impressive capacity to resolve references and write code."
     publishedDateTime: 2021-08-16T21:20:00Z
@@ -149,6 +165,22 @@ related:
       - url: "https://www.reuters.com/resizer/gQCbWlBrk4aRoBGlrduiXWv8Rzo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2MB6UJWVB5KMZA545NR5FCANH4.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Tesla AI Day Preview"
+    excerpt: "Tesla’s AI day is Thursday August 19, scheduled to start at 8 PM EST at Tesla headquarters in Palo Alto, California. The goal of the event is to essentially persuade robotics and AI experts to come work at Tesla,"
+    publishedDateTime: 2021-08-19T17:00:00Z
+    webUrl: "https://cheddar.com/media/tesla-ai-day-preview"
+    ampWebUrl: "https://cheddar.com/media/tesla-ai-day-preview.amp"
+    cdnAmpWebUrl: "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/tesla-ai-day-preview.amp"
+    type: article
+    provider:
+      name: Cheddar
+      domain: cheddar.com
+    quality: 76
+    images:
+      - url: "https://img.chdrstatic.com/media/794aafcd-9b3d-4b8b-89e1-1afefb5e498f.jpg?width=1200&source=backend&auto=webp"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Dow Selloff, Nvidia, Tesla AI Day, Robinhood: 5 Things You Must Know Thursday"
     excerpt: "\"That said, the start of tapering necessarily chips away at the tools at the Fed ... The stock dropped 11.73% to $43.96 early Thursday. Tesla's AI Day is invite-only and is expected to begin ..."

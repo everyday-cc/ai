@@ -98,15 +98,6 @@ related:
         width: 900
         height: 506
         isCached: true
-  - title: "MOLOCO Closes $150 Million Series C Financing Led by Tiger Global to Bring Transparent Machine Learning Algorithms to All"
-    excerpt: "MOLOCO (  com ), a leader in machine learning and growth solutions for mobile app marketers and e-commerce companies, announced today it has raised $150 million in Series C funding to bring sophisticated,"
-    publishedDateTime: 2021-08-17T15:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/moloco-closes-150-million-series-c-financing-led-by-tiger-global-to-bring-transparent-machine-learning-algorithms-to-all-1030739081"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 26
   - title: "Fintech platform FUSE Autotech raises $10M in Series A funding led by Target Global"
     excerpt: "FUSE Autotech, a fintech software platform that redefines the car buying process, today announced the completion of its $10 million Series A round of financing, led by Target Global with participation from PICO Venture Partners,"
     publishedDateTime: 2021-08-17T20:29:00Z
@@ -116,6 +107,15 @@ related:
       name: Automotive News
       domain: autonews.com
     quality: 13
+  - title: "MOLOCO Closes $150 Million Series C Financing Led by Tiger Global to Bring Transparent Machine Learning Algorithms to All"
+    excerpt: "MOLOCO ( a leader in machine learning and growth solutions for mobile app marketers and e-commerce companies, announced"
+    publishedDateTime: 2021-08-17T15:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/moloco-closes-150-million-series-c-financing-led-by-tiger-global-to-bring-transparent-machine-learning-algorithms-to-all-301356860.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
 
 secured: "ONpiB/HNfx094YpJkwyt+8k+AX5rhTDlE5qzw4qwGJUwpJYJiBMJTwGZ7wWAL1j60jLfoz+d0Pm+BfdpThHKNKqaKYxbtcws/ubNdVeFrELTfr7vW5UIau5yWrXW97NbXMdb/jT6B3+JQduISLLj7OWNMKGDYsGLih1ox4WwAOSp3LDHl7omjPnDlauG/DPxFSyHZj4I9KYqglVGmfyEr1y/UiLW7lzI62m2JpcolLROoqcBvhKysPOo0bFaXaVj8mw0cLEqSZQGvF+V5V5Mlii9SxrbmWq9g1pzk2oHjmiyEJ8Yj+CdRp4GVpMphci6t5nNLzl3fyfkcI1EGYr935zTT3ri4s4a7tWwWJVghM8=;g3+85iQc9OupjZdurIswGw=="
 ---

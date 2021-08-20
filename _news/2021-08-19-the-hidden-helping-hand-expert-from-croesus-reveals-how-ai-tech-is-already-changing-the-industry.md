@@ -83,20 +83,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Op-Ed: AI and the future of gaming — A piece of string worth tying into knots"
-    excerpt: "The inevitable future of gaming is super-smart, evolving, artificial intelligence. That opens up endless possibilities, not just for gaming, but for that elusive thing, a meaningful human existence. Gaming is a business principle,"
-    publishedDateTime: 2021-08-15T11:27:00Z
-    webUrl: "https://www.digitaljournal.com/tech-science/op-ed-ai-and-the-future-of-gaming-a-piece-of-string-worth-tying-into-knots/article"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 34
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/05/Comp1-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
 
 secured: "icRj4bg/h/0G9FPUC4N/5gXeihN3tXvjB52nqrJfkaK7rPKJqlopwbSloq5rsaMRcAAeC49gFjj61/lK9ULE53Uc6FK3lXg6tplg7KevsbQ4Yrqk13VegH6TQFZCgOd9K/v0u2DYN7SF5jofOipXZliAtKKQXZeLix7mNxmq1L5wIuA7NrTtFxqMzrPjcY23BODbsaOSvActI8KEwosc1xuGrVCwduTELHSzXfonJo8Zq/8Ez7/fxXU12W8Etd5EAY8XZoAF0yb1j26N2faTOaA9pbTuOy0uhKuevQDjqHN5bvSmHSXc7ub5Eynkjh0c79w2qXHWD2+1SCGMDxA9vugQuh5OLpn2NuvYgRHT/XtJ5v530VRvo2G6RJr+edhcALXJ0ekux1QmlfiSOnASweG66v94m92/snhzoiZtO1HU5z/NYZy0Bdvs5CZUnJZhCrzl6oY2ljNV4WC6hgzHCBv35s8gmpqPyORjbLNhIaukZ8vf15wASjb0DSfmHq2+LeEOc7uY0bLhwhMPsYsJYQ==;5sEOquu9+I3ueiHfLdiwNA=="
 ---
