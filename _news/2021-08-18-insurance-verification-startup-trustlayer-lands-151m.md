@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/18/insurance-verification-startup-tr
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/18/insurance-verification-startup-trustlayer-lands-15-1m/amp/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:

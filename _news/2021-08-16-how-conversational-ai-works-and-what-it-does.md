@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cmswire.com/digital-experience/how-conversational-ai-wor
 cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/how-conversational-ai-works-and-what-it-does/amp/"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "The interaction and convergence of IoT and AI at work"
-    excerpt: "The Internet of Things (IoT) and artificial intelligence (AI) go hand in hand across several use cases and applications in business and science. How IoT and AI already work together today and what the future holds - with several examples."
-    publishedDateTime: 2021-08-15T12:39:00Z
-    webUrl: "https://www.i-scoop.eu/internet-of-things-iot/iot-and-ai/"
+  - title: "Amazon taps its SocialBot challenge to boost conversational AI"
+    excerpt: "Amazon announced the winners of its annual Alexa Prize SocialBot Grand Challenge, which ​​promotes research into coherence, context awareness, fluency of re"
+    publishedDateTime: 2021-08-19T17:15:00Z
+    webUrl: "https://venturebeat.com/2021/08/19/amazon-taps-its-socialbot-challenge-to-boost-conversational-ai/"
+    ampWebUrl: "https://venturebeat.com/2021/08/19/amazon-taps-its-socialbot-challenge-to-boost-conversational-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/19/amazon-taps-its-socialbot-challenge-to-boost-conversational-ai/amp/"
     type: article
     provider:
-      name: i-scoop.eu
-      domain: i-scoop.eu
-    quality: 43
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://40uu5c99f3a2ja7s7miveqgqu-wpengine.netdna-ssl.com/wp-content/uploads/2018/03/AI-and-IoT-at-work.jpg"
-        width: 741
-        height: 494
+      - url: "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1150572105-e1629315992557.jpg?fit=800%2C533&strip=all"
+        width: 800
+        height: 400
         isCached: true
 
 secured: "r8pHEW5AWhgk4db9+U9VDvWKlzQSjQ0JCM5coTq+UaJcDTkN/dOg2R1A8x5EVlFBEM8FTFuDnbG+FBOaGpjyEj/EwbjV629Tx4EAJVh2oPsOjlq+B3jVgimkz4K38hGHhcR0iOaEGkq97eiu6rPaK7hafsuSkiEtA98oG4aBRCz2K3bCvCdsTMJ2ZY959A+pjBAK8JwB7hj0LSV36bp1rly69h9sxFiPlIE9v4oWoet2QdTbxlHRTD0bUCSqwm58PGQTtMdPLr98fuU/YF9Dxrrl9y/nO5shPgI8nFnGeE8zNNWcDlgiWWnBOnZTo+cK9ucNYqAyMG0nv4+2HWf299gfzDJEnrr7GlAPJgdHJgOIU0WMHOP51xa2WDiH+JISu45irVcOtpHe0II0qVDBRoURnN9gbQW9EhrjQSNt88fH2Ixp1SegtalWwwffneieMz1AoFaFNcMH8vVg8tWow9F8iO4Gk99ZL57MFVKiMC88SKd8ZWmEUxtWY587OfnqmhsGjxOVnn9Sh7SErC4ceQ==;e9NODqTnZQ+Tn4gf5TCDEQ=="

@@ -49,7 +49,7 @@ related:
     provider:
       name: TheStreet.com
       domain: thestreet.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTgzMjYwMzgyMjI2MjkzNzk4/nvidia-data-science-home-og-social-share.jpg"
         width: 620

@@ -6,8 +6,8 @@ publishedDateTime: 2021-08-17T10:20:00Z
 originalUrl: "https://www.supplychainbrain.com/articles/33590-how-artificial-intelligence-is-sniffing-out-corporate-greenwashers"
 webUrl: "https://www.supplychainbrain.com/articles/33590-how-artificial-intelligence-is-sniffing-out-corporate-greenwashers"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.supplychainbrain.com/ext/resources/0-images/article-images/2021/0817_waste.jpg?height=635&t=1629178605&width=1200"

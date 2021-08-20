@@ -8,7 +8,7 @@ webUrl: "https://www.thestreet.com/tech/news/nvdajdm081921"
 ampWebUrl: "https://www.thestreet.com/tech/.amp/news/nvdajdm081921"
 cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/tech/.amp/news/nvdajdm081921"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTgzMjYwMzgyMjI2MjkzNzk4/nvidia-data-science-home-og-social-share.jpg"
@@ -81,6 +82,6 @@ related:
         height: 407
         isCached: true
 
-secured: "g+wyMfHcI5j9fVSnOG7BvugFknIbECvPhj+VQyYQr6pqRgcXvncnTgzGNuYi6xj2xcSmoDt/6aAqv0Wuawy7Sd3Z9MPETiqZJNlWfVdVzCTE0wUVdKQeMU4lUOZXFOuykLhfnO/znNc0ys36rjkUZGW6hlYQcX+IGxhSE5IbinXn8Rlw9Mt56Islk7Lw4PTlQi3TcjQRwPcucGhjJyQOPGS4sL4fqli6K7WIarlrZugwvybXTzn87e7V4TgeS2NdzdfcNLO4J57W8kWKmtUqCC+xIS4xZhOeZedejIdgZRsJB5W9jDhiu4znlgqMT3sNU1DV5MiKi8Dc2XPA/AEqCCoRCZvwWMbSei/5i3dtdKs=;0skXbta2LEj+yue6DX2rvg=="
+secured: "3ZuGKQGBAZPyyAHI8l1W3rGfIvXqGx/+QDfjuZdYuuYLCO10dYqE2DCtEOQVMUIaGrhDbQRPLJoQhhrlRU635HsyOnePJAyGqXVlywpODXY3oUWRZgIykSUc92Gy+H/2YNutlVDOorCu9hw84kzmjXvSomK5LjT4HdLYY+wo/rykVNLJuo21bZCZ0hx8dVqFG5p/a+Ii2OReYw8/l7OeWcRcD5RKAomoNgvpEbl3ekW96pAv4g8P0iErZ/jnYeyTEuQDFQZAiKuwpJbx7IoTAY+l2TE0aFkW4uMmGjJoHejvCJkxY6WWiLvyB75p3siipvr0ux4Kqr4Nwg7Shdm2TpLwDBeBuNzkMVHcOb4zIu+jP/RjaSUhtSJ5rHKrpbfAazQoL5jmMgKMcUOolvRHhDqPOjw5PSO2IZmGbUpHO53WfurHM9Mc6/gDkGMqRzG75RA0MCpmvp4j18+Py/FovXPEgv6ngFmkrUAbUJ2qB1g8TKYodSp6VbYsZVWCYlCbrGsNeer2qGMzwJknB5EdsQ==;Ruov1ZLMJfGEftD2aXYVfw=="
 ---
 

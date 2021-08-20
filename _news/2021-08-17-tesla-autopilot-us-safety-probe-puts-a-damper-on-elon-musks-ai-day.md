@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "How to watch Tesla’s AI day event"
+    excerpt: "Today is Tesla’s AI Day, a sequel of sorts to the company’s Autonomy Day event held in 2019. The event, which will be held at Tesla’s headquarters in Palo Alto, CA, will be livestreamed for the public starting at 5PM PT / 8PM ET (though the event may ..."
+    publishedDateTime: 2021-08-19T15:39:00Z
+    webUrl: "https://www.theverge.com/2021/8/19/22632384/tesla-event-watch-ai-day-elon-musk-start-time-live-stream"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2021/8/19/22632384/tesla-event-watch-ai-day-elon-musk-start-time-live-stream"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/8/19/22632384/tesla-event-watch-ai-day-elon-musk-start-time-live-stream"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 104
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/euC9eBc4MhSWfWm4BHGu0ALNmJk=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69747879/acastro_180524_1777_tesla_0001.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "Tesla to Hold AI Day Amid New Scrutiny: What to Expect"
     excerpt: "The world’s most valuable car maker is holding an event to promote its use of artificial intelligence, just as federal regulators this week announced a new investigation into the company’s Autopilot d"
     publishedDateTime: 2021-08-19T13:00:00Z
@@ -157,6 +173,22 @@ related:
       - url: "https://www.thestreet.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTcyMzQxNzA2MTY1OTIxNzMy/13-wells-fargo-roman-tiraspolsky--shutterstock.jpg"
         width: 620
         height: 349
+        isCached: true
+  - title: "Tesla AI Day Is About To Start. Here’s Some Key Things You Can Expect to Learn."
+    excerpt: "Investors want to learn more about Tesla’s competitive position on AI-technology versus other car makers, and they may be hoping that CEO Elon Musk has a surprise or two up his sleeve as well. Technology Tesla (ticker: TSLA) has a vertically integrated ..."
+    publishedDateTime: 2021-08-19T21:36:00Z
+    webUrl: "https://www.barrons.com/articles/tesla-ai-day-is-about-to-start-heres-some-key-things-you-can-expect-to-learn-51629408985"
+    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-ai-day-is-about-to-start-heres-some-key-things-you-can-expect-to-learn-51629408985"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-ai-day-is-about-to-start-heres-some-key-things-you-can-expect-to-learn-51629408985"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 72
+    images:
+      - url: "https://images.barrons.com/im-388173/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Ahead of Tesla’s ‘AI Day’, Baidu unveils its next-gen AI chip"
     excerpt: "Ahead of Tesla's 'AI Day', China's largest search engine company Baidu has unveiled its next-generation AI chip for autonomous vehicles."

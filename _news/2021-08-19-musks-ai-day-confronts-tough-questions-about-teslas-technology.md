@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "How to watch Tesla’s AI day event"
+    excerpt: "Today is Tesla’s AI Day, a sequel of sorts to the company’s Autonomy Day event held in 2019. The event, which will be held at Tesla’s headquarters in Palo Alto, CA, will be livestreamed for the public starting at 5PM PT / 8PM ET (though the event may ..."
+    publishedDateTime: 2021-08-19T15:39:00Z
+    webUrl: "https://www.theverge.com/2021/8/19/22632384/tesla-event-watch-ai-day-elon-musk-start-time-live-stream"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2021/8/19/22632384/tesla-event-watch-ai-day-elon-musk-start-time-live-stream"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/8/19/22632384/tesla-event-watch-ai-day-elon-musk-start-time-live-stream"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 104
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/euC9eBc4MhSWfWm4BHGu0ALNmJk=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69747879/acastro_180524_1777_tesla_0001.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "Tesla to Hold AI Day Amid New Scrutiny: What to Expect"
     excerpt: "The world’s most valuable car maker is holding an event to promote its use of artificial intelligence, just as federal regulators this week announced a new investigation into the company’s Autopilot d"
     publishedDateTime: 2021-08-19T13:00:00Z
@@ -148,6 +164,22 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "Tesla AI Day Is About To Start. Here’s Some Key Things You Can Expect to Learn."
+    excerpt: "Investors want to learn more about Tesla’s competitive position on AI-technology versus other car makers, and they may be hoping that CEO Elon Musk has a surprise or two up his sleeve as well. Technology Tesla (ticker: TSLA) has a vertically integrated ..."
+    publishedDateTime: 2021-08-19T21:36:00Z
+    webUrl: "https://www.barrons.com/articles/tesla-ai-day-is-about-to-start-heres-some-key-things-you-can-expect-to-learn-51629408985"
+    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-ai-day-is-about-to-start-heres-some-key-things-you-can-expect-to-learn-51629408985"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-ai-day-is-about-to-start-heres-some-key-things-you-can-expect-to-learn-51629408985"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 72
+    images:
+      - url: "https://images.barrons.com/im-388173/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Ahead of Tesla’s ‘AI Day’, Baidu unveils its next-gen AI chip"
     excerpt: "Ahead of Tesla's 'AI Day', China's largest search engine company Baidu has unveiled its next-generation AI chip for autonomous vehicles."
     publishedDateTime: 2021-08-18T21:47:00Z
@@ -174,6 +206,6 @@ related:
         height: 630
         isCached: true
 
-secured: "foqJB8Zxw3ZtcQlDXZdUYtk9ndf2lw1gk8OTBmtLo9YL1J+cw2wB9r2LjIFwP/wknzYoI8uH9Za2Por5GpArpEGaILopHFfKSNx4m/szoGxiXc6U9R9X61+f94SoqTbpnwfZachRExgsVuBKHPcztnIzdVekOfz7uKbvkBJZB7Th29Bl2YW9C+26AqLMWL+pRNcNlzOMY9qVJprL9u5Z3eSPCluXUVgLIrl4cRbbt8QO6CbeH2T707n6snl5LFshoeHOYgWYhs0rvJxajlXJXG1Ruqo1AXyK8SiNloELvUrNXQwPG+yw89IVBDjY+k9iA9h5tOHEazmfl4rFO/pB4cQjUZFHqlMfUY4SwHkSyIE=;5Ja0LEQF0V7plpT/txhUCw=="
+secured: "EQU4U1/Ybsd114dOCUXi0Se57NeSbB+0DwMJLMDaidlUhpwAO+Ps8susUN+bvCQy/IURNoba4RnIeyNQKlelHACYo97tVtBFvlFO7RYbl1u21lWd6spN2JaM1vLeGY4dZJQdFRdz5xqFssW0PGivfOCRcgr3joW0y2uplklkpu2eOTOYlz+QOLdAN5/cj+4Z6ytyO7T5nrxCc9fNX5iN45z2dFZWvPvMbyujzr92BA59kp5mIQulgDp+MK+H59LanVpAjs70ELoLPVkOI+O/9tiR1JGdqKPrXbAMX1gxWzAjSrJoOtRprOyZUp4j1lX3FWCncuuZ2Z1gqI6kGfUi7NeN1MTwnFPKb1rg6Afgw3up9nvqClw+1drre0PE3ZUMDX3RYkfWEyelz6vuXv+/Snb5Y6L5F10l7onSUoaby0YMoK0/GhMrFXXooHlm/8vq0iLdGGkXHOK3kDsI6rXpl/MTaYRO6jAvfNKSeFDk0etwrBp9cQskbTxbUCpJaSZOrp4HxB41zzzow3MBhfXtiA==;X0cmw27kB9NI1otVmID2Fg=="
 ---
 

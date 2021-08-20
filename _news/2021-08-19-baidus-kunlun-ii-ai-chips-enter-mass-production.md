@@ -83,6 +83,20 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Google Rival Baidu Has Made an AI Chip for Autonomous Driving and More"
+    excerpt: "Baidu has unveiled its latest Kunlun II chip at the Baidu World Conference. It is claimed to be two to three times faster than its predecessor, but what is more important here is that the unit is an artificial intelligence chip that can also be used for autonomous cars."
+    publishedDateTime: 2021-08-19T16:38:00Z
+    webUrl: "https://www.autoevolution.com/news/google-rival-baidu-has-made-an-ai-chip-for-autonomous-driving-and-more-167674.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 56
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/google-rival-baidu-has-made-an-ai-chip-for-autonomous-driving-and-more-167674-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
   - title: "China’s Baidu says 2nd-gen Kunlun AI chips enter mass production"
     excerpt: "Chinese tech giant Baidu said on Wednesday it had begun mass-producing second-generation Kunlun artificial intelligence (AI) chips, as it races to become a key player in the chip industry which Beijing is trying to strengthen."
     publishedDateTime: 2021-08-18T08:46:00Z
