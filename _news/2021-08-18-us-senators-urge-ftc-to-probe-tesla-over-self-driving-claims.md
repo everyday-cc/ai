@@ -109,6 +109,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Musk Shows Self-Driving Progress, Humanoid Robot at Tesla AI Day"
+    excerpt: "Tesla Inc. used its inaugural AI Day to showcase improvements in its self-driving capability -- which has come under a regulatory spotlight -- and unveiled plans for a life-like robot that Elon Musk says will take the drudgery out of everyday life."
+    publishedDateTime: 2021-08-20T05:55:00Z
+    webUrl: "https://www.bnnbloomberg.ca/musk-shows-self-driving-progress-humanoid-robot-at-tesla-ai-day-1.1642269"
+    ampWebUrl: "https://www.bnnbloomberg.ca/musk-shows-self-driving-progress-humanoid-robot-at-tesla-ai-day-1.1642269.amp.html"
+    cdnAmpWebUrl: "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/musk-shows-self-driving-progress-humanoid-robot-at-tesla-ai-day-1.1642269.amp.html"
+    type: article
+    provider:
+      name: bnnbloomberg
+      domain: bnnbloomberg.ca
+    quality: 91
+    images:
+      - url: "https://www.bnnbloomberg.ca/img/bnn/amp/BNN_placeholder.jpg"
+        width: 620
+        height: 349
+        isCached: true
   - title: "Lawmakers Target Tesla's Autopilot and Self-Driving Claims"
     excerpt: "Two U.S. Senators are urging the Federal Trade Commission to investigate whether Tesla Inc. uses deceptive marketing practices by labeling its driver-assistance systems “Autopilot” and “Full Self-Driving."
     publishedDateTime: 2021-08-19T14:28:00Z

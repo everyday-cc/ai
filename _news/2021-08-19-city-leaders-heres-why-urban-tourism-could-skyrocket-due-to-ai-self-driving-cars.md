@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/19/city-leaders-here
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/19/city-leaders-heres-why-urban-tourism-could-skyrocket-due-to-ai-self-driving-cars/amp/"
 type: article
 quality: 83
-heat: -1
-published: false
+heat: 93
+published: true
 
 provider:
   name: Forbes
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Using AI Self-Driving Cars To Detect And Help Curtail Eyesore Graffiti Around Us"
-    excerpt: "Graffiti can be controversial, which brings up the potential use of AI self-driving cars for ... [+] detecting and possibly curtailing graffiti, or not. Graffiti can invoke quite heated debates. Some assert that graffiti is a blight, a blemish, altogether ..."
-    publishedDateTime: 2021-08-15T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/15/using-ai-self-driving-cars-to-detect-and-help-curtail-eyesore-graffiti-around-us/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/15/using-ai-self-driving-cars-to-detect-and-help-curtail-eyesore-graffiti-around-us/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/15/using-ai-self-driving-cars-to-detect-and-help-curtail-eyesore-graffiti-around-us/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e8fd47f30f273c86ecb7ea%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2081%26cropY1%3D198%26cropY2%3D1369"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Citywide Gunshot Detection Could Be Bolstered Via Roaming AI Self-Driving Cars"
     excerpt: "Gunshot detection systems are standalone today, but the future might involve leveraging the advent of self-driving cars as an ally in ascertaining neighborhood gunfire."
     publishedDateTime: 2021-08-17T15:30:00Z
@@ -60,34 +44,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611ab3e1fe39a3c39b5cb34c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1323%26cropY1%3D232%26cropY2%3D976"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Hands-free farm is using AI, smart sensors and lettuce-harvesting robots"
-    excerpt: "In Australia, innovators have just presented the country's first fully automated farm; it cost $20 million to set up. Conducted by researchers at Charles Sturt University in Wagga Wagga,"
-    publishedDateTime: 2021-08-16T15:32:00Z
-    webUrl: "https://www.freshplaza.com/article/9344341/hands-free-farm-is-using-ai-smart-sensors-and-lettuce-harvesting-robots/"
-    type: article
-    provider:
-      name: FreshPlaza
-      domain: freshplaza.com
-    quality: 53
-    images:
-      - url: "https://www.freshplaza.com/remote/https/agfstorage.blob.core.windows.net/misc/FP_com/2021/08/13/Coco.jpg?preset=OgImage"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Re-inventing retail and the future of data driven AI"
-    excerpt: "The new normal of e-commerce has shifted fast and has steered a new reality for consumers and retailers alike. In a recent report by McKinsey, we have vaulted ten years ahead in consumer and business digital penetration in less than three months."
-    publishedDateTime: 2021-08-16T08:30:00Z
-    webUrl: "https://www.thedrum.com/news/2021/08/16/re-inventing-retail-and-the-future-data-driven-ai"
-    type: article
-    provider:
-      name: The Drum
-      domain: thedrum.com
-    quality: 37
-    images:
-      - url: "https://media-assets-03.thedrum.com/cache/images/thedrum-prod/s3-news-tmp-362001-the_drum_reinvention_of_retail--default--1280.jpg"
-        width: 1280
-        height: 960
         isCached: true
 
 secured: "CHiKjD7VFV0vjKM8u8O3qN+oXldvND63PwM3lOiqroWx1ipRl4URyhTBEAZOZrEU/4f2C+TDz4BfJWfb+/9KsF4m9pVDa7C3GGZ/5nY+eMBjVm7/5tbXmdoEJZONXR6BmtYbai5QKbuNrA9RmN56RAsdYDep7AXcuUf4P7Xhdw2WPjs5euVg+icPD4WAuBquUa5xPwp7hJGDoyjf7eE2oZPYZgsSbxS/lgWNOzqKLBXV3pFON1WgO0zvcS3i3syKllY1zzY3rtYv83e45Y/k2wf9I68BZYOt8SgQPEP7apMAQRq5G1uCXPJeM4pzSeSqN4+SMi/u0w8HY6D4ZslJLAYf+MWEAwlQd2hq59kK/YC0MqSUh6LrWODICqxtUy0Ba59bYHklfg/kuuITsHGMH5yAjt5uhIq3vTt9LJv4f7YhatyLQJWQQP0W4gkvfh2Lti6YfZ1sXTzmyflXi91bznKl448tp5a//0U52v6rCzecLQDq3sX3/wDuL327J1iCy5bweTjnJ0ukL4pTbkv/1Q==;UmJpsA2dAAFqbMxPlHB9Dg=="

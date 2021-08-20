@@ -8,8 +8,8 @@ webUrl: "https://syncedreview.com/2021/08/19/deepmind-podracer-tpu-based-rl-fram
 ampWebUrl: "https://syncedreview.com/2021/08/19/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-86/amp/"
 cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/08/19/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-86/amp/"
 type: article
-quality: 41
-heat: 41
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Google AI
 
 images:
   - url: "https://i2.wp.com/syncedreview.com/wp-content/uploads/2021/08/image-79.png?fit=950%2C713&ssl=1"

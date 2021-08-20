@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telegraph.co.uk/beauty/news/artificial-intelligence-chan
 cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/beauty/news/artificial-intelligence-changing-face-beauty/amp/"
 type: article
 quality: 57
-heat: 98
+heat: 97
 published: true
 
 provider:

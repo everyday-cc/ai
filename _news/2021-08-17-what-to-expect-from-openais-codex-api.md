@@ -112,6 +112,22 @@ related:
         width: 700
         height: 557
         isCached: true
+  - title: "Tesla to Hold AI Day at a Time of New Scrutiny: What to Expect"
+    excerpt: "The world’s most valuable car maker is holding an event to promote its use of artificial intelligence, just as federal regulators this week announced a new investigation into the company’s Autopilot driver assistance technology."
+    publishedDateTime: 2021-08-19T21:41:00Z
+    webUrl: "https://www.wsj.com/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430"
+    ampWebUrl: "https://www.wsj.com/amp/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 104
+    images:
+      - url: "https://images.wsj.net/im-387828?width=700&height=466"
+        width: 700
+        height: 466
+        isCached: true
   - title: "Tesla to Spotlight Artificial Intelligence Work Amid Scrutiny of Autopilot"
     excerpt: "Elon Musk is slated to host an event Thursday evening to drum up interest in the electric-vehicle maker and its AI efforts at a time its driver-assistance system is under investigation."
     publishedDateTime: 2021-08-19T20:33:00Z
@@ -240,6 +256,20 @@ related:
       name: The Market Herald
       domain: themarketherald.com.au
     quality: 71
+  - title: "Tesla unveils own chip for AI training computer Dojo"
+    excerpt: "Tesla Inc on Thursday unveiled its own computer chips to train its automated driving system. Tesla CEO Elon Musk a few years ago asked Tesla engineer \"to design a superfast training computer and that's how we"
+    publishedDateTime: 2021-08-20T02:28:00Z
+    webUrl: "https://kfgo.com/2021/08/19/tesla-unveils-own-chip-for-ai-training-computer-dojo/"
+    type: article
+    provider:
+      name: KFGO
+      domain: kfgo.com
+    quality: 71
+    images:
+      - url: "https://storage.googleapis.com/media.mwcradio.com/mimesis/2021-08/20/2021-08-20T022846Z_1_LYNXMPEH7J02U_RTROPTP_3_TESLA-BITCOIN.JPG"
+        width: 728
+        height: 424
+        isCached: true
   - title: "Tesla Autopilot U.S. Safety Probe Puts a Damper on Elon Musk’s AI Day"
     excerpt: "The federal investigation into Tesla Inc.’s Autopilot comes at an awkward time for Elon Musk. On Thursday -- just three days after the U.S. government announced its probe -- he has a briefing scheduled about the carmaker’s work on artificial intelligence."
     publishedDateTime: 2021-08-17T03:58:00Z
@@ -254,6 +284,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Elon Musk unveils plans for humanoid robot that uses Tesla's artificial intelligence"
+    excerpt: "Thursday amid renewed criticism for Autopilot, its most-talked-about AI-based system, as it unveiled its next big project: a humanoid robot. At the company's first AI Day, Chief Executive Elon Musk gave a preview of the Tesla Bot,"
+    publishedDateTime: 2021-08-19T21:38:00Z
+    webUrl: "https://www.morningstar.com/news/marketwatch/20210819649/elon-musk-unveils-plans-for-humanoid-robot-that-uses-teslas-artificial-intelligence"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 44
 
 secured: "7Gufw01y0Fug/L3/wjy5xd4kTdZ9bD1HsVA73BtwP2nJqiAAo1DBmbT2+rsaiXRCrcsbqA7V/9s96PbXyDay5BShQFDEhJv5HB8oltN8PiXbZF5dTQfoDtNryN7fuoF86HzzBS4w17i5dMVWyFz0Lg71zXWosiQZLEWHxIy1Z2p/RCLfWS/xZX7UfSoPEGov5jIDgH9KFz+aFeVEyxZyBYWoxDrS84zJvESxkV+m8Q0F5tUlN4ubZpvPOWlS9jZsDTey5Yv1fLebfATK2EH5qSJIMd+uhSigiUBmCBMptLyDAjFOJZJsevDp8Hr8NAL0VyJbFy3lDnpA1XpMutTixxpawh09Erbv32zBB4SFRzBAiyCSaoo0LiqjTSL7ScF0a9/7CcF5MvQeaKd5GzIEr+5gUiCRg0ffdCLQSenW/tJxif4TZtj6S6zSwxK+jh3jcGzqWwUPMQeh6OQLSWolIYiBu2cdkiOF3iGx2dfNS2ZN5lX8bB8mzncNS0buiFf8myC0s/YkPVtLwzr9537/IQ==;QpkrZ5EN3mLUoGJXjsI/QQ=="
 ---

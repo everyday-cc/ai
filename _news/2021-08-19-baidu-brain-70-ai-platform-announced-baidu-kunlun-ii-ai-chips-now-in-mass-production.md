@@ -6,7 +6,7 @@ publishedDateTime: 2021-08-18T20:48:00Z
 originalUrl: "https://www.enterpriseai.news/2021/08/18/baidu-brain-7-0-ai-platform-announced-baidu-kunlun-ii-ai-chips-now-in-mass-production/"
 webUrl: "https://www.enterpriseai.news/2021/08/18/baidu-brain-7-0-ai-platform-announced-baidu-kunlun-ii-ai-chips-now-in-mass-production/"
 type: article
-quality: 46
+quality: 48
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.enterpriseai.news/wp-content/uploads/2021/08/Baidu-logo-shutterstock-363519476_600x.jpg"
@@ -143,6 +144,6 @@ related:
       domain: insidehpc.com
     quality: 33
 
-secured: "bYrDD1egooB309X+zXfZVT2McsTnHcHKXnyo+qa44WbLIQ6VAJzkoOb8RfoxI+NMLoRPydznUQGXpasiHKOL9weQk/7f4hIIFqCGJWvFlxYjrErT90Axwvc+/c9q0t+TizlMaDXRE8P3gQFre2Hb19DPFqmcugCiGbNQTW/cAPwrwyiXGjOyGGn/SGEzFiG84LWjB6sd/rv/9GU4dwpjKosPvMLc1lPPRyo39W40HeI64od1pEsXOqL8R8UnC4yhwdO9yMAHsCrXrrVMmzw3+kjrByr8IBYW9y5tiPjEgbotHT5DHzdnvrdten1ruBHVW4qDdm3vk4GhQSdbZtiZExu5mAsBd51GWDAzH10JzbE=;6l9oz6tiyo0uSMQ61b6sYA=="
+secured: "uMCiTqM6AfC7n/Ha4wsZWKn4gySiKuZH8084yH0qjpyhhNj1LqUXHTcQnQN1/PYigfPvgm97bX3tVJyqWTdOx7ClRe2wt3pbd6yB0mHzvozJWquk5LxtnKD7O57p4B2x8Bn/ob6MS+YXPrePyjwXFQeCjtrnSHpmawZKqOiOve4fRyK3OEfCB/RJJUqKNeK3+4Zng4HIHTpqN5MAiJM/x/2DnOQBqcmTwfNC0RJDMTmoLdGSuiES1GJPK6PSeT6N8WRBDAIQMpzwdXN1z7G7FNIcOVNfN1p51FmL8O+GILu6dQvGh4iyAa5Pj0Kl6jA61ksT2lw7Mnrc9J3T+D2sEUsH6akU+aYJaLWb0+75A+zxAuwJFW3I6YLhEzoGHc10447129kWSsbNjQbY1S3TrkZiWSo620epSDhSVgTOGeHJ7DD+JGYz3orblt/Ks4M3POGGLoAyHJQkjbTgoKTC1baw8CHUaHRKckK5gSM0jN3uaQ0GqJSHldXCYvPpLm7q4q4ws6yrItOdtgRKnmvxhA==;tAb0UBdGIklobUnoCqoTAQ=="
 ---
 

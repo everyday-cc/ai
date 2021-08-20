@@ -118,7 +118,7 @@ related:
     provider:
       name: enterpriseai
       domain: enterpriseai.news
-    quality: 46
+    quality: 48
     images:
       - url: "https://www.enterpriseai.news/wp-content/uploads/2021/08/Baidu-logo-shutterstock-363519476_600x.jpg"
         width: 600

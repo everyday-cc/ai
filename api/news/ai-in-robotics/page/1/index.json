@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-20-elon-musk-says-teslas-robot-will-make-physical-work-a-choice.md",
+      "title": "Elon Musk says Tesla's robot will make physical work a 'choice'",
+      "excerpt": "After dominating the electric vehicle market and throwing his hat into the billionaire space race, Tesla boss Elon Musk announced the latest frontier he's aiming to conquer: humanoid robots. The irascible entrepreneur said Thursday he would have an initial prototype of an androgynous \"Tesla Bot\" by next year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.rfi.fr/en/business-and-tech/20210820-elon-musk-says-tesla-s-robot-will-make-physical-work-a-choice",
+      "originalUrl": "https://www.rfi.fr/en/business-and-tech/20210820-elon-musk-says-tesla-s-robot-will-make-physical-work-a-choice",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.rfi.fr/media/display/16e2403c-018c-11ec-a607-005056a97e36/w:1280/p:16x9/9edc5006fd7f99e5f81026bdd897f7d51b17692e.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.rfi.fr/en/business-and-tech/20210820-elon-musk-says-tesla-s-robot-will-make-physical-work-a-choice",
+      "cdnAmpWebUrl": "https://amp-rfi-fr.cdn.ampproject.org/c/s/amp.rfi.fr/en/business-and-tech/20210820-elon-musk-says-tesla-s-robot-will-make-physical-work-a-choice",
+      "publishedDateTime": "2021-08-20T00:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RFI",
+        "domain": "www.rfi.fr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-08-19-diamond-age-raises-8-million-seed-round-to-advance-robotics-and-3d-printing-for-affordable-home-construction.md",
       "title": "Diamond Age Raises $8 Million Seed Round to Advance Robotics and 3D Printing for Affordable Home Construction",
       "excerpt": "Diamond Age, a full stack robotics startup that is automating new home construction to make home ownership more affordable, raised an $8 million seed round led by Prime Movers Lab and Alpaca VC. Additional investors include Dolby Family Ventures,",
@@ -254,7 +298,7 @@
       "originalUrl": "https://www.theverge.com/2021/8/18/22627101/tesla-event-ai-day-rumors-elon-musk-what-to-expect",
       "featuredContent": null,
       "highlight": null,
-      "heat": 259,
+      "heat": 289,
       "tags": null,
       "images": [
         {
@@ -308,7 +352,7 @@
       "originalUrl": "https://www.aaas.org/news/bill-smart-brings-technical-expertise-robotics-and-ai-discussions-about-regulation",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -1359,58 +1403,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-electronic-arts-says-artificial-intelligence-will-make-game-characters-much-more-lifelike.md",
-      "title": "Electronic Arts says artificial intelligence will make game characters much more lifelike",
-      "excerpt": "Researchers at Electronic Arts are coming up with ways to make those hyper-realistic games even more squint-and-you-miss-it real looking.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/electronic-arts-says-artificial-intelligence-will-make-game-characters-much-more-lifelike/",
-      "originalUrl": "https://www.cnet.com/news/electronic-arts-says-artificial-intelligence-will-make-game-characters-much-more-lifelike/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/BKR7h7WfGvh2AP3PXkXtNQ5JM_M=/1200x630/2021/08/11/a70e7667-bf0e-4ff5-8a24-36ad7df67db5/screen-shot-2021-08-10-at-8-21-18-pm.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/electronic-arts-says-artificial-intelligence-will-make-game-characters-much-more-lifelike/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/electronic-arts-says-artificial-intelligence-will-make-game-characters-much-more-lifelike/",
-      "publishedDateTime": "2021-08-11T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

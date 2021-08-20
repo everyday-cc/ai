@@ -57,6 +57,22 @@ related:
         width: 640
         height: 425
         isCached: true
+  - title: "Emotion Detection And Recognition Market"
+    excerpt: "The global Emotion Detection And Recognition Market is forecast to reach USD 148 11 Billion by 2026 according to a new report by With the rising number of smart homes increasing demand for personal health and industry"
+    publishedDateTime: 2021-08-20T05:14:00Z
+    webUrl: "https://www.openpr.com/news/2361364/emotion-detection-and-recognition-market-segments-key-vendors"
+    ampWebUrl: "https://www.openpr.com/amp/2361364/emotion-detection-and-recognition-market-segments-key-vendors"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2361364/emotion-detection-and-recognition-market-segments-key-vendors"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 44
+    images:
+      - url: "https://cdn.openpr.com/U/8/U820923146_g.jpg"
+        width: 750
+        height: 350
+        isCached: true
   - title: "Google adds facial expression recognition to Android Accessibility Suite beta version"
     excerpt: "A team at XDA Developers has discovered that Google has added facial expression recognition to the beta version of the Android Accessibility Suite, which came with the beta version of Android 12. The new feature is called collectively Camera Switches."
     publishedDateTime: 2021-08-17T14:00:00Z

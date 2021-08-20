@@ -29,19 +29,49 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese operators are using AI to inspect their power plants"
-    excerpt: "When your power plant is set to deliver renewable energy for fifty or a hundred years, keeping the equipment in running order is business critical. SPIC, one of the top ten hydropower companies in the world by installed capacity,"
-    publishedDateTime: 2021-08-16T13:46:00Z
-    webUrl: "https://www.hydropower.org/case-study/ai-power-plant"
+  - title: "Baidu Pushing to Expand Robotaxi to 30 Chinese cities by 2023-2024"
+    excerpt: "Baidu plans to expand its robotaxi ride-hailing services across 30 cities in China in two to three years to serve a wider range of users. Robin Li, founder of"
+    publishedDateTime: 2021-08-19T21:36:00Z
+    webUrl: "https://www.nextbigfuture.com/2021/08/baidu-pushing-to-expand-robotaxi-to-30-chinese-cities-by-2023-2024.html"
+    ampWebUrl: "https://www.nextbigfuture.com/2021/08/baidu-pushing-to-expand-robotaxi-to-30-chinese-cities-by-2023-2024.html"
+    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/08/baidu-pushing-to-expand-robotaxi-to-30-chinese-cities-by-2023-2024.html"
     type: article
     provider:
-      name: International Hydropower Association
-      domain: hydropower.org
-    quality: 39
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 59
     images:
-      - url: "https://assets-global.website-files.com/5f749e4b9399c80b5e421384/611786cfd8c4835e22692a94_AI%20powerplant_thumbnail.gif"
-        width: 342
-        height: 208
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/08/Screen-Shot-2021-08-19-at-2.32.36-PM.jpg"
+        width: 1952
+        height: 840
+        isCached: true
+  - title: "Chinese search engine Baidu launches a US dollar bond, despite crackdown"
+    excerpt: "Baidu Inc, a Chinese internet behemoth, is approaching financial markets with a two-tranche, US dollar sustainability bond, which"
+    publishedDateTime: 2021-08-18T14:00:00Z
+    webUrl: "https://techstory.in/chinese-search-engine-baidu-launches-a-us-dollar-bond-despite-crackdown/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 38
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2016/04/Baidu.jpg"
+        width: 1199
+        height: 798
+        isCached: true
+  - title: "Baidu Launches Robotaxi App as Chinese Internet Giant Takes Ridehailing to Next Level"
+    excerpt: "Chinese internet giant Baidu has released an upgraded version of its driverless car mobility platform, building on the fleet of robotaxis that it has been running on a trial basis for the last two years,"
+    publishedDateTime: 2021-08-18T10:19:00Z
+    webUrl: "https://www.yicaiglobal.com/news/baidu-launches-robotaxi-app-as-chinese-internet-giant-takes-ridehailing-to-next-level"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 32
+    images:
+      - url: "http://img.yicaiglobal.com/cdn/news/baidu-launches-robotaxi-app-as-chinese-internet-giant-takes-ridehailing-to-next-level/15569727868633088.jpg"
+        width: 720
+        height: 480
         isCached: true
 
 secured: "2bbiTbT8VqoQFJGGwDfgmrjCbvNTs+ClqIVB1KwtC0BRQJy1z0wNiKw1Ne2Bc3C1UWGXa6oPTMiEMsJolt2LzWGTN3mOr8AdUU7q0yLTIenJ5v5xVLnBhd75JyLgdQUYJ/GS7KqV3pZYbJcVYpoH/1Mhgr5j5TXn17tpUdCDEItsmaVzEcIVpNIXeKxyOixqlFcLio0kJSjFVmluofn4+TM9maPWooNTidh4G3IMfJtsF/OUkW757Egn4STTxVpYdq7IWR7FqCpQyw898NEFiorJas11is5yKLRPqtGzC4ySn5VRNgMUoSHuVQiXrbKh5vlxLnffLKU457M6N9klZYM2Uhfki3s1sKXNDZcO2784JDy6msm5jjf2q2x/y67Al9pItTUuAKor/98Ov0PCLEuVrZoMuK0gjVgsKXUltZ6XTY3e8WZaDaur5xhUbPxxVswWpI7TjqGRzi7qqRhIdhF67F3dmloIxm3s9kxsZRvVDP34OkWobLIIzPoEHGxh2L0bNWn9z4goRjd2FOVq8A==;j2AzVuAcUHCaS9QEYsVj8g=="

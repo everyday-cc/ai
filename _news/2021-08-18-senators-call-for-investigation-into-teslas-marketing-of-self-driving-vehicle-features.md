@@ -108,6 +108,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Musk Shows Self-Driving Progress, Humanoid Robot at Tesla AI Day"
+    excerpt: "Tesla Inc. used its inaugural AI Day to showcase improvements in its self-driving capability -- which has come under a regulatory spotlight -- and unveiled plans for a life-like robot that Elon Musk says will take the drudgery out of everyday life."
+    publishedDateTime: 2021-08-20T05:55:00Z
+    webUrl: "https://www.bnnbloomberg.ca/musk-shows-self-driving-progress-humanoid-robot-at-tesla-ai-day-1.1642269"
+    ampWebUrl: "https://www.bnnbloomberg.ca/musk-shows-self-driving-progress-humanoid-robot-at-tesla-ai-day-1.1642269.amp.html"
+    cdnAmpWebUrl: "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/musk-shows-self-driving-progress-humanoid-robot-at-tesla-ai-day-1.1642269.amp.html"
+    type: article
+    provider:
+      name: bnnbloomberg
+      domain: bnnbloomberg.ca
+    quality: 91
+    images:
+      - url: "https://www.bnnbloomberg.ca/img/bnn/amp/BNN_placeholder.jpg"
+        width: 620
+        height: 349
+        isCached: true
   - title: "U.S. senators urge FTC to probe Tesla over self-driving claims"
     excerpt: "Two U.S. senators on Wednesday pressed the Federal Trade Commission (FTC) to probe Tesla (TSLA.O), saying the company has misled consumers and endangered the public by marketing its driving automation systems as fully self-driving."
     publishedDateTime: 2021-08-18T15:19:00Z
@@ -480,6 +496,6 @@ related:
         height: 630
         isCached: true
 
-secured: "nyCywjNkKnK12nvCyZ+3XdQJ+ANUBB4xOqA4CyXu1TsvBDISplaFmt81HbDkwJ0zhzIRA3kZuN0AP283OrU0jecIMUpBWv9p9pqOzvzdgs/az3DWv9HLPed0DRvot2LLwmBeexnxRE/LrJTNRX0arxUTPfjqlFFVU9pfVv9eLC/geDYid6Dse/Zwoy59MTdlK/z94jLhZbBsG0vZjcPMRVy/EEJeQwD++487JstR4Npm1Bh67W/rGXiu4ekGXetxzCiWvgjt6cXDex+EMMveRjmXvCbeXopTzEEcufrd7KqBV1fZswyGxKCq68QbnIZ2WTRrspgiAh3vMC+JRxOixc1hsNRbr1wJ/on2Y6UuS/w=;Z0w7XIS+IbEKfWbbEmdwtQ=="
+secured: "E4B/dNJ87O7Xoy2m6kNX9YCbmiDTuZZ53dwR38AtQQ/YAHYQB0h4fjY4O3fEmTyCp9woRhlo8t4z2WNCd9dxptzCV84i6/TqEttZp+Rkg6CKGrg1YmZmvDKcT8XAbDh9n3k8rJ1Z1Y3lg/c1ZTvuw+lSEUEqXc361M0+Ufd8ogmqeNxkKzxyMO9LhkkZWW+kzJ9fu/RCp6411CeiJzEt9kHYSS4jfbjhMorEU8vRz0DU+Y78x8G/Zx8V5vj5bDxB9Ki/A5CBF0i1yPYMWbK8fCXNRXHWa6JBAvs/5YYj5GNfyQWNMtGoi5h9f2Rjizh7KlfGRUUkjPfQrDGIOvwiaXTav7rforkcY6FwIWXj9ZFGvogM5rZ/hT35ks8mDDVuHYAz7oicWvH/aT9Ix2X61WTLBTU1LV+UmpoMLjThh1mNkr3VfXhTP8iBA9VTUFQeyBddAy8DyUINx7MPIPrdRj5kaqWMfu5NBwcHP4baWZ2GkFzXOHbN23gg1qwgiBZpED/2aHYcb2zUU4x41l/Taw==;3MFXYrSzsWXTGOxim4/dKQ=="
 ---
 

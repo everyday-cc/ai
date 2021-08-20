@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/new-rules-on-police-use-of-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/new-rules-on-police-use-of-facial-recognition-dont-go-far-enough-experts-say/"
 type: article
 quality: 85
-heat: 145
+heat: 155
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://diginomica.com/sites/default/files/images/2021-08/76522589-0B01-4323-9BBC-AA85BA5ABD9A.jpeg"
         width: 640
         height: 425
+        isCached: true
+  - title: "Emotion Detection And Recognition Market"
+    excerpt: "The global Emotion Detection And Recognition Market is forecast to reach USD 148 11 Billion by 2026 according to a new report by With the rising number of smart homes increasing demand for personal health and industry"
+    publishedDateTime: 2021-08-20T05:14:00Z
+    webUrl: "https://www.openpr.com/news/2361364/emotion-detection-and-recognition-market-segments-key-vendors"
+    ampWebUrl: "https://www.openpr.com/amp/2361364/emotion-detection-and-recognition-market-segments-key-vendors"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2361364/emotion-detection-and-recognition-market-segments-key-vendors"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 44
+    images:
+      - url: "https://cdn.openpr.com/U/8/U820923146_g.jpg"
+        width: 750
+        height: 350
         isCached: true
   - title: "Concerns over use of facial recognition in app"
     excerpt: "A month ago, Chief Minister Conrad K Sangma had launched a mobile app which uses facial recognition technology to verify pensioners in an exemplary fashion, but it has now raised legal concerns from select members of the civil society."

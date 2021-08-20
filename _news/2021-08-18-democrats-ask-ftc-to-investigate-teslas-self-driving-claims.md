@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/08/18/democrats-ask-ftc-to-investigate
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/08/18/democrats-ask-ftc-to-investigate-teslas-self-driving-claims.html"
 type: article
 quality: 204
-heat: 514
+heat: 524
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2019/12/Tesla-Self-driving-visualization.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Musk Shows Self-Driving Progress, Humanoid Robot at Tesla AI Day"
+    excerpt: "Tesla Inc. used its inaugural AI Day to showcase improvements in its self-driving capability -- which has come under a regulatory spotlight -- and unveiled plans for a life-like robot that Elon Musk says will take the drudgery out of everyday life."
+    publishedDateTime: 2021-08-20T05:55:00Z
+    webUrl: "https://www.bnnbloomberg.ca/musk-shows-self-driving-progress-humanoid-robot-at-tesla-ai-day-1.1642269"
+    ampWebUrl: "https://www.bnnbloomberg.ca/musk-shows-self-driving-progress-humanoid-robot-at-tesla-ai-day-1.1642269.amp.html"
+    cdnAmpWebUrl: "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/musk-shows-self-driving-progress-humanoid-robot-at-tesla-ai-day-1.1642269.amp.html"
+    type: article
+    provider:
+      name: bnnbloomberg
+      domain: bnnbloomberg.ca
+    quality: 91
+    images:
+      - url: "https://www.bnnbloomberg.ca/img/bnn/amp/BNN_placeholder.jpg"
+        width: 620
+        height: 349
         isCached: true
   - title: "U.S. senators urge FTC to probe Tesla over self-driving claims"
     excerpt: "Two U.S. senators on Wednesday pressed the Federal Trade Commission (FTC) to probe Tesla (TSLA.O), saying the company has misled consumers and endangered the public by marketing its driving automation systems as fully self-driving."

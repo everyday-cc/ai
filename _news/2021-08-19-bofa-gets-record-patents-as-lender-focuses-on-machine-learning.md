@@ -1,29 +1,33 @@
 ---
 category: news
 title: "BofA Gets Record Patents as Lender Focuses on Machine Learning"
-excerpt: "The U.S. Patent and Trademark Office granted the lender 227 patents in the first six months of 2021, up 23% from a year earlier, Bank of America said in a statement Thursday. The Charlotte, North Carolina-based company set its previous patent record in the first half of last year,"
-publishedDateTime: 2021-08-19T15:08:00Z
-originalUrl: "https://www.bloombergquint.com/onweb/bofa-gets-record-patents-as-lender-focuses-on-machine-learning"
-webUrl: "https://www.bloombergquint.com/onweb/bofa-gets-record-patents-as-lender-focuses-on-machine-learning"
+excerpt: "Inventors at Bank of America Corp. kept originating ideas, leading to a record-setting first half of the year, even while continuing to work from home."
+publishedDateTime: 2021-08-19T12:30:00Z
+originalUrl: "https://www.bloomberg.com/news/articles/2021-08-19/bofa-gets-record-patents-as-lender-focuses-on-machine-learning"
+webUrl: "https://www.bloomberg.com/news/articles/2021-08-19/bofa-gets-record-patents-as-lender-focuses-on-machine-learning"
 type: article
-quality: 39
-heat: 39
+quality: 69
+heat: 69
 published: false
 
 provider:
-  name: BloombergQuint
-  domain: bloombergquint.com
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXquAk2lhuYI/v0/560x-1.jpg"
-    width: 560
-    height: 447
+  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDYMsjEoS52g/v0/1200x656.jpg"
+    width: 1200
+    height: 656
     isCached: true
 
-secured: "55HAWCKkqBOjxxbihn/qGvcHg412KLzPU2ebNb4cVmXcf/hQPw+YtPK9HrdZLUsaPcpNQlyLzZW7Vg2EdRKH469sGGj6oEne9YmUvIqWGtFy5hsxsELPnALhkveWSgMCHGtCoOiejWk8n6u9ecNESZa5LwTYnEXglHCJ0xVXWTFGuo3kunXC2tF2gvXOwEaZdUA6Ki7H3/nsMYsAodvzBzJtc3r7vovIN7SeVo5ITzNrxlI6m7n0LTDIxaZVaLWTfZOz7E0+neFWvRiuY2ORzLLHJHlq5pUQXuoOel/8Edk4smbRofWXszhH/ASXgPDv5NBWfHxQkfArSnwWkNYIH8bnY1lS7ElqhwVb3h9gmu5Qc7IUxEs+/F+ZLtDu3OO0DRDhmW1vywCAz7mPEyPypry2+UNXHEdpR9AfG9ULTDX1t6gNgrQgkjxsXwBdGGPwHjHe6Kdyyq6RUKyMy3Ssua2BBlLmMjiMTLCWm1skrB5nGsoMN1SSa7pWZa7dLEVWnQKzNYgePgcWDuY0+K9t4A==;02xqCpBrUbF0vR9/cgb6fg=="
+secured: "26Iev9eoz7kqMf9HlWYrd0bUMft+O/h3RYpod+aYh39aQmmLrIc0mRm43yXhr4suytBN1peFH9EM8g8fEE8Mg1kSj+dJzD1GYwDzB01AS6vfqZyBumGmmHHN6QDGsgZExLIapTPBwBz2HgIijNf3G0MACmngol9EI5rKi9yRzQpPYrBwltrHmJNw26rhcJlEq3L6ZKjFYx6UHv7/Q1+YRaPvQ6sYTw04qiC4haVmWqOSx/4qC/Dxpc6VybcWjV3G3RxSgnowT0LfJveyxDa2JBF0vWg9yr6+eKCsdsBi5peJhy0QoGwQVb4kIguJhAAzANBsvMZMpSTV2siLnBitxQ2qRTt3DKJu5UFjxR7PE2Y=;QDrprRU9u4qiHUykAM6ndA=="
 ---
 

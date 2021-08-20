@@ -7,7 +7,7 @@ originalUrl: "https://techstory.in/chinese-search-engine-baidu-launches-a-us-dol
 webUrl: "https://techstory.in/chinese-search-engine-baidu-launches-a-us-dollar-bond-despite-crackdown/"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,36 @@ images:
     isCached: true
 
 related:
+  - title: "Baidu Pushing to Expand Robotaxi to 30 Chinese cities by 2023-2024"
+    excerpt: "Baidu plans to expand its robotaxi ride-hailing services across 30 cities in China in two to three years to serve a wider range of users. Robin Li, founder of"
+    publishedDateTime: 2021-08-19T21:36:00Z
+    webUrl: "https://www.nextbigfuture.com/2021/08/baidu-pushing-to-expand-robotaxi-to-30-chinese-cities-by-2023-2024.html"
+    ampWebUrl: "https://www.nextbigfuture.com/2021/08/baidu-pushing-to-expand-robotaxi-to-30-chinese-cities-by-2023-2024.html"
+    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/08/baidu-pushing-to-expand-robotaxi-to-30-chinese-cities-by-2023-2024.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 59
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/08/Screen-Shot-2021-08-19-at-2.32.36-PM.jpg"
+        width: 1952
+        height: 840
+        isCached: true
+  - title: "The head of quantum computing at Chinese search giant Baidu explains how the tech will play a 'key role' in making AI more powerful"
+    excerpt: "China is investing heavily in quantum computing, and the race is on for giants like Baidu, Alibaba, and Tencent. Baidu is focusing on using it for AI."
+    publishedDateTime: 2021-08-19T13:30:00Z
+    webUrl: "https://www.businessinsider.com/baidu-quantum-computing-head-technology-2021-8"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 39
+    images:
+      - url: "https://i.insider.com/6116a207c040ad0018ce3837?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Baidu Launches Robotaxi App as Chinese Internet Giant Takes Ridehailing to Next Level"
     excerpt: "Chinese internet giant Baidu has released an upgraded version of its driverless car mobility platform, building on the fleet of robotaxis that it has been running on a trial basis for the last two years,"
     publishedDateTime: 2021-08-18T10:19:00Z
@@ -39,15 +69,6 @@ related:
         width: 720
         height: 480
         isCached: true
-  - title: "The Funded: A former Baidu exec raised $66M for his lidar startup in a round led by Chinese investors — at a precarious time for such deals"
-    excerpt: "The funding of a Sunnyvale lidar startup with ties to China comes at an interesting time as that country cracks down on the independence of tech companies in its borders. Here's more on that and other Bay Area startup news."
-    publishedDateTime: 2021-08-16T19:27:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/08/16/sunnyvale-lidar-startup-innovusion-raises-66m.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
 
 secured: "rukDJPXJ8aYudylU+6ErpyqP2RN8ic7D2Qg2QikqUSQjIr6wbwDdbNlrCO3jJKKqMbfUL7NRro7QxpT2p1EPyFINfJ6rdqNqMhavffqNCtHGzGz1nK5I2ezCou6GORRAM+hqNixXCOz/So9xoS+yP6um+K0sBy/dAusaFEoo23cPtb+pQwHsWzav5L/4EI/mFi/7kQf2OlHEPQYSW6TpRwjFg6ivLKctU1v1c4ADyBbDgOpYybqqTWMKjNWr8OUmRe5kwa/t9769MM7wcwU0Gv2Z8PbgugiVLDWJP+qcSRY47ELihElOgj5mi+cuxcHR6JVbdMB1yJXzsMFWvBMqRIKbCPewvbciDxQ6SlCTd872woXrHSCPTDQvMaSap5HG9c7Crhmqnuh2MlEK45BXwWpFbmwQygMcImqWTw3CqHgRU68+7dgFPNk0XLqsNPFqcQMWol/r/KVRJNo9TdciGzdLExcVegIta4MX88xW1Il+UR8qTeUuN1wFtHKVpaMuQZyRGI/n+esJmt7OOmGIKQ==;9iF0/04fZybiX9N0I9Lyxw=="
 ---

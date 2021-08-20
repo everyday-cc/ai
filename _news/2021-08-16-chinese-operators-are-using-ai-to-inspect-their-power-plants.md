@@ -24,22 +24,6 @@ images:
     height: 208
     isCached: true
 
-related:
-  - title: "The head of quantum computing at Chinese search giant Baidu explains how the tech will play a 'key role' in making AI more powerful"
-    excerpt: "China is investing heavily in quantum computing, and the race is on for giants like Baidu, Alibaba, and Tencent. Baidu is focusing on using it for AI."
-    publishedDateTime: 2021-08-19T13:30:00Z
-    webUrl: "https://www.businessinsider.com/baidu-quantum-computing-head-technology-2021-8"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
-    images:
-      - url: "https://i.insider.com/6116a207c040ad0018ce3837?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-
 secured: "fo3BZ6ZU6E2fldh4hMxdO5Bo8nmzEBd+Kh8dkQm9x8YpPGUo9A8uwDR+VBPO/YDlS6Mlew4uPEKFGbWLmXXa3IYFKrrziZwP9EbKbuSGzSS209HSdUb0MLI0bA/zqb/dGjMQtj7CXPiLMTE7lilI/06VFCw3LXx8Son6ouI35wujwmJOb3GjpwX1a1tijAvrA10IttCt8LGAAEq4kJ7F2U66sMFFhnov+ByOPsIAGppTC9FgnFy6tlOyKRduM8rMP9bh+vK6or3oNYzzgISJZhcuCucBn75nDAC/86xOOHy2hSecMSSjrEyCSmRPa8r66nU23mQBwOmg7PAD1CmISalJ1AhvB/fdLTLvaHyYNoU=;jQum3dyhQn0JtfhdIYqmmQ=="
 ---
 

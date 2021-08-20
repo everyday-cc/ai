@@ -112,6 +112,22 @@ related:
         width: 700
         height: 557
         isCached: true
+  - title: "Tesla to Hold AI Day at a Time of New Scrutiny: What to Expect"
+    excerpt: "The world’s most valuable car maker is holding an event to promote its use of artificial intelligence, just as federal regulators this week announced a new investigation into the company’s Autopilot driver assistance technology."
+    publishedDateTime: 2021-08-19T21:41:00Z
+    webUrl: "https://www.wsj.com/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430"
+    ampWebUrl: "https://www.wsj.com/amp/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 104
+    images:
+      - url: "https://images.wsj.net/im-387828?width=700&height=466"
+        width: 700
+        height: 466
+        isCached: true
   - title: "What to expect from OpenAI’s Codex API"
     excerpt: "The Codex demo puts the advantages of large language models on display, showing an impressive capacity to resolve references and write code."
     publishedDateTime: 2021-08-16T21:20:00Z
@@ -240,6 +256,20 @@ related:
       name: The Market Herald
       domain: themarketherald.com.au
     quality: 71
+  - title: "Tesla unveils own chip for AI training computer Dojo"
+    excerpt: "Tesla Inc on Thursday unveiled its own computer chips to train its automated driving system. Tesla CEO Elon Musk a few years ago asked Tesla engineer \"to design a superfast training computer and that's how we"
+    publishedDateTime: 2021-08-20T02:28:00Z
+    webUrl: "https://kfgo.com/2021/08/19/tesla-unveils-own-chip-for-ai-training-computer-dojo/"
+    type: article
+    provider:
+      name: KFGO
+      domain: kfgo.com
+    quality: 71
+    images:
+      - url: "https://storage.googleapis.com/media.mwcradio.com/mimesis/2021-08/20/2021-08-20T022846Z_1_LYNXMPEH7J02U_RTROPTP_3_TESLA-BITCOIN.JPG"
+        width: 728
+        height: 424
+        isCached: true
   - title: "Tesla Autopilot U.S. Safety Probe Puts a Damper on Elon Musk’s AI Day"
     excerpt: "The federal investigation into Tesla Inc.’s Autopilot comes at an awkward time for Elon Musk. On Thursday -- just three days after the U.S. government announced its probe -- he has a briefing scheduled about the carmaker’s work on artificial intelligence."
     publishedDateTime: 2021-08-17T03:58:00Z
@@ -254,7 +284,16 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Elon Musk unveils plans for humanoid robot that uses Tesla's artificial intelligence"
+    excerpt: "Thursday amid renewed criticism for Autopilot, its most-talked-about AI-based system, as it unveiled its next big project: a humanoid robot. At the company's first AI Day, Chief Executive Elon Musk gave a preview of the Tesla Bot,"
+    publishedDateTime: 2021-08-19T21:38:00Z
+    webUrl: "https://www.morningstar.com/news/marketwatch/20210819649/elon-musk-unveils-plans-for-humanoid-robot-that-uses-teslas-artificial-intelligence"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 44
 
-secured: "yL0gKr2nRnCQ35InBVP2tDk1KQQAeVlG9sEoFM7Ao8GgI/Oe8xB/uyPPOVtgwE4/R3IQaOlWcuyZRi7eE0RF00EW/rGnO9w/je4kB2DRPJZnXmqeez49KcRLWxF5ZobHlffmR/IWud0WyArp99DThJbF55/V2iK9Dkq9evufb4BvNwFo43ePWA8DtkKVOQIlQlyL2UHWZXtgzakCv4DYa/XBP7JjJJYFOauGhkOsqNmP9uv+v6WrrI/zeO2wA0SFCVsI9RmXoo/PzRlwv6eFlfXCTMb9x22vINAG6z2qz4L7dvh8BUwHdu129Jx9fWtwJa/dbjFfwGHLmSLDCb/IIxRsQsGFGlT2YGrkplxfDho=;2xxvk66HD2wyx/pqv2QL0w=="
+secured: "8WvDPcAtn2nd9pQoRBlPCl9UKGz9Lgl5zltci9cVM8Q48aMcM1wTHGjQkj1Cx7SmczUqd8EKsXec7iOVfkmfwXeeCV15I9hiE2kMsqsZqCXMnVDvAR6FMX8Kay3Q/Fh6NyleTlhPmyLI5UBYg5uwZqQNxxEyWgrPKdoRvUgWLRUfenOxvBFXkK4kppiNF2cbg3GTXFKnxV50eGWsDTZmbsA4t+7FW8acw8SxwORP9+jcdKf3hy26aKGXtp3BQZv05VW/Bd+qVq+msRy3qhSMi8IKOaEHvfu4/BrmrRYohB8bIvuxm9lbNguRKzt93rDCi0PeFzm5FlWW3ICmn32rjXfRVAYz2NCP3m1nf3u6onhp82aeq4+LCtrn4ue1EuY3iYDXSl/SwCrox+0LMgERLJMd2OK97A87Hlx1d5pJmDanpYMLOkA/OTZTcnvtGSmNMZs+SeT+Xy7S3obNQpfnTjHmGf5bCMlehyMHeopIZWkNxsGDUoRU/f+/0btsDT6ZF5wCjYdmXzfKOYYt7eVu3g==;WrfSo45ah78PSoFNK+pF1w=="
 ---
 
