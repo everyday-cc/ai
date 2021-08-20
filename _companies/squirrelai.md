@@ -2,7 +2,7 @@
 name: "Squirrel AI Learning"
 overview: "Squirrel AI Learning is the first pure-play AI-powered adaptive education provider in China."
 type: "profile"
-heat: 42
+heat: 57
 
 website: https://www.squirrelai.com/
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Squirrel AI Learning"
 
-secured: "XjvX2+khxk2W0N8voXpkfsiIhJgurmYZ/Q8Qj83V5HK+YweSc8lk1MhfoK8MSzqZ7EpbEhuXWJ76Z/rJtP8Q1uhimRFbMxQ3KifE4mosQjjNqXlMNPCRQTMFo58u9eZey9D99USb8WjCH+GKgV0x/fbm7yXDxeveGZWoP+U1w55HPnwE7wNlWAPtKviJePa1Pl2K2CweMtKy4BL7D6Bk0xUmkbVP7aGItJA6CLQibNMWKFp+9skD7zXOld9WkJ//kuyQfeG1OdOteCA3v7V5CKwWaIkoWgWB4413dOoH5uo4chicykcxIN0QLM+RUqODs9/Br65uTgLQq5OrqmgZ+YHpTQfF1C5dMQ6ADTDss8SxHHGbUL4dX7oG0RhtA8beBNfjjRCG7MNk4HXnsTQGyw==;FLRUyiCu5rUc7+nE9zPldA=="
+secured: "O3cunbXIoFZhKsf/tkFZt+IVwW7a7OYOPoaHEFfnWWf5iuafTIezE8Uqy9iiuKhTmzJ/mxoXfJi1E4p0SuQmDNG+hOa4sbKlnP2E/0IeuKmhctitjIm9Jk6oaT0UDgnSZPS4krvX01dCx1Vk4YJ4YdrHsz0lY/fhurB16LtsNO5V0uMnE3iLR8nDqIc/qVKNfvMJADnJpWObfa1f/lMC8htq5xORw+3/MRv/zL7mJNOV/3In1+UwBVp5Ki8PPThePg+5IoZStmeBE7p5iLgYJFC8Yu4mFU8ncJ/fyLa8r0vuudR+wDAXggJOhysPWd2IQ2v3DFtyx+34KjZYm3ius0OwNBVAG3hnJ/jNU5b7vnUgwh649ErnMRl7Z7h+/AbCaDHiLk76hv3gKv+yGgkrJg==;5d5Iz56P/mmXSnvMM1zfHg=="
 ---
 

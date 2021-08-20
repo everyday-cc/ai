@@ -2,7 +2,7 @@
 name: "Standard Cognition"
 overview: "Improving the retail checkout experience, by removing it entirely."
 type: "profile"
-heat: 57
+heat: 82
 
 website: https://standard.ai/
 
@@ -41,6 +41,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "iYur4pRZnxFWzgGU9YRAukzbJnmD/k0Q9QkWsrzzfiN9qcicKasiY6/zGN+yU6eyj2/jCV48FSqw7YrrqCd69xjkpgFUKf4hmyg2bZkbzbh8kaztlPP8Y7/74+WGqCO6hu2cGY6Iy/mT+8ReT+AdeQ6ETKpTFrByX9c33h/xsVPyhNKDRDnx17xUlNI3T/IsghCz5hfGRzyS8rciJPzt1lIOAlhO+v3/H3VZfIk+AWqsdvkptHwK3gWW/j6R6ikLF5L7uovCh86FWHCnj+Gj29hgDfyOLCqJpMMWVkdKgHP7N89JiRScmc7t+iGzpYM+NAxQnaJ4GIsxDoxgJMEYsDfdc7pXY8v6ebS0Ol70KePPfAYGPvRbRLUSsUvf5xPBnZvhBshadFafnnrEAAzX6r5A0jpIGnTO6vjGeyywWJM=;pLqIqOt9j1JbmFvKwZwpEQ=="
+secured: "T/X7rhgttyD0NjjKCbX9lTHRgHChxfSL022eZhYK56i9DF9oeseIGrLVqEU8QNSDt2MdNW5wBcO1lzeG18wXMNt/9rzr9XaRLBqA1QoPYyw78pZ7gqwQEdryWEWx+os+H0ZPK4/NCf/q56gczw3g8PRyjCClQVfH9uK96ncsz6CR1PtYmuxhxWZQwvCQXiecpn5kWVsDO52/g7X8xmURWNyRMdso+fPlDxJ3OONjXdWtZm4iZQtlrW93AvVJYssOL0wMW2c3miDUZUqqfPoXLq6Oz5718UsSwOGKxOXjfmFrdIeyOXfTl7OjlK041bstPEcLAMVsRMxOWyBEVM2S7zXl9pCMsjzXotItkn/rraWClTwFRjM/XmKNVjLhnk64l/wgAj3/Pk2jY9aHOLSWeLM8TARZXq7EBOtFUgx0SgA=;qEeuhN+UWkRZ7E6903eIVQ=="
 ---
 

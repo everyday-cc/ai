@@ -2,7 +2,7 @@
 name: "Pymetrics"
 overview: "Founded by Harvard/MIT-trained PhDs, pymetrics uses neuroscience data and AI to help global clients like Unilever, Accenture and LinkedIn make their hiring and internal mobility more predictive and less biased. pymetrics replaces the resume as a first-pass filter by assessing candidates based on their true potential -- their inherent cognitive and emotional make-up. Using algorithms that are trained on high-performing employees at a company, pymetrics builds a trait profile of a company's top performers to select best fit talent. These algorithms are then audited to remove any gender or ethnic bias. pymetrics also serves as a common application for candidates, ensuring that everyone finds their best-fit job, regardless of where they apply. With over 80 enterprise clients and offices in NYC, London, Sydney and Singapore, pymetrics is powering the future of hiring: efficient, predictive, and bias-free."
 type: "profile"
-heat: 82
+heat: 50
 
 website: https://www.pymetrics.com/
 
@@ -41,6 +41,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "zVZuyXY4xufPrXN20XuC/WQH37wnC5nAnS1fiDhHawynYUuAeoppD7gJHA/Ml39L0GLQcDh+WNewouiWq6CsG6vk7/EEUgmQyNLxDCgtLtV+7KD0ZbS+507S+c5vhjc5IP+PlWWGJ248Ftey69QKQvwe5BSJXPhGAIDAKTnV+oMfh5d9T8f2MFnnnhmbIVzJjMR/2glpYYh3oqRVerqhqezuqr3roZq3Kj+2qGAFjUSOtEJjwncJ1J/ID+0C+aQiQe+PqjPTNjQhPng7JStd2TxJDeDRALsJatSdbwnE2wpBlDlBoeoCW4YsoeHP3d7JYZFLabCDZ/OhErQTfv8+ZwqcdTxhFzpDp9pKNhzH1V32uLKr1a3358vWSrzwwVk55qi9pengFkotmFMJA94lvxJZbxITeec85CJ2ucp4kqs=;WM+MOavEvoPhEBiUhJvd/A=="
+secured: "1F7P/n7D/Gkb/ExYauFlmhg4wrOu8uKSJ16Za+cAzoZNQcDtliRdHc7nGReqaeb0X1flzRovwZS9nv1zM5lg3eE+3CfqwxLGrPvqhBACyuy9tYxIWC/xbaXH+quOWqFPG1vb1xDhRrSvggPGVviAMeDUxeanYt0neT5oMZO/bhoc0Pu4ASlBV1RZHo6SWeD/aefzFnc/mHiJWT8gzCPUY758tzq+E2/EGOoWtBBwV9r3w/6TAr7p926JktBU22i6zRd8wx1UQ22CGxkeq5oO37D+najXvlBHrFUBdhwq7n5iPR765r/FGpYvWBr0zIrfJV67BZ9/xEub5uJxjtGIQNm0WE52m9NOucqhonsq5wPfjIKGuLFc/bPRCnw3ZM+NFn9OlHU4D3DFN57l4XAxrAdphgJYnAumPUd+FQQntao=;6FW2AEJWlICIidhbTvP7TQ=="
 ---
 

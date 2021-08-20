@@ -4,7 +4,7 @@ otherNames:
   - "Tesla Motors"
 overview: "Tesla’s mission is to accelerate the world’s transition to sustainable energy through increasingly affordable electric vehicles in addition to renewable energy generation and storage. CA-based Tesla is committed to having the best-in-class in safety, performance, and reliability in all Tesla cars. There are currently over 275,000 Model S, Model X and Model 3 vehicles on the road worldwide. To achieve a sustainable energy future, Tesla also created infinitely scalable energy products: Powerwall, Powerpack and Solar Roof. As the world’s only vertically integrated energy company, Tesla continues to innovate, scale and reduce the costs of commercial and grid-scale systems, with the goal of ultimately getting us to 100% renewable energy grids."
 type: "profile"
-heat: 556
+heat: 569
 
 website: https://www.tesla.com
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "tesla"
   url: "https://twitter.com/tesla"
-  followers: 10772234
+  followers: 10773279
 
 size: 10,001+ employees
 yearFounded: 2003
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "kX5Hq4wtaVq8KJYBCmKcPa5ShQ65r6jHWYXOBkgyHXVJ2gkb8365Ez/3RuxHf9dLtsva7MAkxz9c8fMh8dO/GhuWYsj3YdYHp4Cx4v42+Y2L1ZqxFJOLZEa7J1xGLgSGfTpBXMc3yPPVxoKxolNHAiBu0zGRubPsam+oyTHBb1JRZdOVb0vD8IQ+r0sX0GDLtaPXvzSvCWokixLTjoxYqq9Tv4ADI/ELG7KhNBGjlNx2UVXATGP0fvTBr5Hcfl+97F173ZVAkGY6CUopYOezq9eBix76W32k/DAhEj/X5EHtdo5AllTA6roh0E82uUPerQOWF3AEBUFFW1nar8yBo0LEu2LJgX4PGnSFhS0c2dAaodQ+o2R0ct619rptIV9qYsHA9DSwIYf3yyFxSR77YyQYtw7uBTxsQ8/ppBXQFXE=;IGi+xXiNCv4MFeXo/rt8ZA=="
+secured: "TbJH6NIxVSbZyjC73biK/tr/TIsSjKdj8PRVe1MxcmLJb/jLF3UlXc14GgFvWhm+3kEhw4fD3DKmw2gP5IlDg+ldxmOREPEcDmzamEug7apG4Z4vBtm9d223RRU0jXaTVm6dMagw9Cxx7bRzE2/D/gVQU06oM+CiA3FNhkhgQJEvY/tjBNSTeP2nIXydGeXPnb1QXAyBkfxe1muRrJFItEhzXTCLe0AsmIyt6R1OGzyZZzUuelSzJ/2Re/6zsstvTRVbpKUpHfjrsSJpZQEvRNKkha07XODtecV5RjARadXUwgQjrudZm/jlg0YAST+OyoUijm33vK+LQVcaadNP3kNw7vYSShg8k/HYCKhY0MKMUacILvFPf2RmuIh0d6mm8jDLRZuyFb0aUuKWay0rTqI5T/BjuCsetmsSsj8dAbc=;w6WAi8mQ/m7+pyPd8mn7RQ=="
 ---
 
