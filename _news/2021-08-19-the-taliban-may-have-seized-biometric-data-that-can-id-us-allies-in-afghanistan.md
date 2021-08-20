@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/8/18/22630686/biometric-d
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/8/18/22630686/biometric-data-afghanistan-taliban-hiide-civilians"
 type: article
 quality: 168
-heat: 178
+heat: 188
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://thehayride.com/wp-content/uploads/2021/08/kabul-straw-man.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Taliban captured US facial recognition and eye-scan database, reports say"
+    excerpt: "A key database of the biometric information of Afghan allies who assisted U.S. and coalition forces may now be in the hands of Taliban militants who are seeking revenge. On Tuesday, the Intercept reported,"
+    publishedDateTime: 2021-08-19T20:05:00Z
+    webUrl: "https://americanmilitarynews.com/2021/08/taliban-captured-us-facial-recognition-and-eye-scan-database-reports-say/"
+    type: article
+    provider:
+      name: American Military News
+      domain: americanmilitarynews.com
+    quality: 38
+    images:
+      - url: "https://americanmilitarynews.com/wp-content/uploads/1-about-amn.png"
+        width: 800
+        height: 500
         isCached: true
 
 secured: "yC28xK6mqLzCLj+2vB0NeDjyiBX/Fmoe2HBAYkmLFH4RbxOFUAB3viRa00aCspWyIhRT2M/DY3STNjQPdOiHmU0R6XG2MFPcCChPchw/3DVA4xRN6BB4oewZrq+AI6f33eVFKX2V9BKTe3zpXhSSCvS+QXcbfaeqYjahk7IEtR+ChB3ZI4ZSq9/pQNaVBfgIGqeoA50tgoaROujD+z7i3vLesahTZUQ7+1XUaSPKb9ed/1dUZIU1xlnONxcUrf00aWpN2pUu/cXGK5oyvcw+8k2zeiwZdH1KVWQb+cxe7F515i0xLlYY7KBLZ1PiGBD9WW/fVlFbLtUE1LfzgDoJA64vSySur3SnlAIJlsUpx1R+qFmusWvr2NkVt4Bj+VVradvqEnZheLeCsn3jT3rlIusk96DbtU71Dp+mJLJzeV3G5L65gFznJex2xmh/xYmcHl67czEwoNF+ynb2uBgwEVdeIB3sARBsY7tT3UYTKyQA3qp7lOJMc5griLvOUxXcBUnTyGj2pQYFvr1nRs1WSFRYp8v5CKFim4Agx0zTsWw=;0qxWhlsOSIat3w7m7jx5Dg=="

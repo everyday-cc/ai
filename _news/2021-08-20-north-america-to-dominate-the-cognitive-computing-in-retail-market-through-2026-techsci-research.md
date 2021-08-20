@@ -8,8 +8,8 @@ webUrl: "https://www.openpr.com/news/2361483/north-america-to-dominate-the-cogni
 ampWebUrl: "https://www.openpr.com/amp/2361483/north-america-to-dominate-the-cognitive-computing-in-retail"
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2361483/north-america-to-dominate-the-cognitive-computing-in-retail"
 type: article
-quality: 45
-heat: 45
+quality: 47
+heat: 47
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://cdn.openpr.com/U/8/U820880368_g.jpg"
@@ -26,6 +27,6 @@ images:
     height: 300
     isCached: true
 
-secured: "t5kAOjOr/CKpYXu8T8Q0BwAtrQVWTXeWOJt/C5wSOXbmYWTAlC80lsdpDr/wlmbE8UVR7iDyKEzQeC8cY5CUKivVSAfMly0b6GQBYPHLZeitsLOlOQtblbIW4eneahSYxsfKCcy+B0hsY8rcUtmW4qWJisUjznR9JKyJAUWdz7mzl0LbV07z5JOWfjewxtCxBgynFR6b8BjbItFkwPzovjKqLwq+9OnL8V2cT6Pudwxm/UD8ieAK0jfxWuVVl7Z7y4NFCN3sRmUFPMocAPCktHSlnrar4FvkahoNxuKSv5e3iRv94uxUStx63iyAtu1/Ouj++QW98fRGo9xi67U9T8jzUqaJE9xDMMzAXbDXna0=;L9v3p0BiOafc82pOG9ebJA=="
+secured: "BvzOOBC71G40MvMkKakO9X1+hxMt+LiNXGKhD100OSAd4oVbuQG9vJQ4FL+r54TuI/vPMcEmkGCvx4ffqi21YL+mqUWUgNrdAlA3A9A6EYIf1C3oRxlQG+3tGdYfY3RhnIa4Nu79L7qnz6VI+rCZjZjBP6YW5a6F0OxLRFcNaaLm6oHIDoS1168PCP/r2rrOh8WNk5mY0l0xkLSv1KsM5AQNxvaUa1uFgnkR1VU1lQmBU7pVhzyV4/NUzLmQDkLd8pA8u3/tBPvmzHFeP7NV/Cp8E0qMyoneP2qFb54kC/VHIEQNnAAG5x8POeteFozDQgWPVXQKK1k1er727usnagz7C/38COObS/q9Bnj6j71ZOC+iSsMHS4uPFmsWQXufTUhUwE3HHK5SA0vZBBEdJaJrsZw86m7AIjSSj9r+f5WcnVtEAsEboTFxoiPAtC3g/x81vond/cnUR5kr+hZajAyXsh7htroaxr2PiRQCt0NK6MvNifylT3f0S8IOXQuWxDer0AHUUz5FL8f2JzzzDA==;TGb6Tz59TDUibs1Dy71K9A=="
 ---
 

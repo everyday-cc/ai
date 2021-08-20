@@ -60,6 +60,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Elon Musk unveils 'Tesla bot,' a humanoid robot that would be made from Tesla's self-driving AI"
+    excerpt: "\"There will be profound applications for the economy,\" Musk said about the bot's future capabilities. \"In the future, physical work will be a choice.\""
+    publishedDateTime: 2021-08-20T03:12:00Z
+    webUrl: "https://www.businessinsider.com/elon-musk-unveils-tesla-bot-humanoid-robot-based-off-autopilot-2021-8"
+    ampWebUrl: "https://www.businessinsider.com/elon-musk-unveils-tesla-bot-humanoid-robot-based-off-autopilot-2021-8?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-unveils-tesla-bot-humanoid-robot-based-off-autopilot-2021-8?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 109
+    images:
+      - url: "https://i.insider.com/611f13540fbf9e0018e886b0?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Dem Senators Ask FTC to Probe Tesla Over 'Misleading' Self-Driving Claims"
     excerpt: "US Senators Richard Blumenthal and Edward Markey are concerned Tesla is overhyping the company's self-driving technologies and thus putting Tesla owners at risk."
     publishedDateTime: 2021-08-18T15:36:00Z
@@ -75,6 +91,20 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/03Bc9fh4ZHWjHuDp1ukh4oG-1.1629298473.fit_lim.size_1200x630.jpg"
         width: 1120
         height: 630
+        isCached: true
+  - title: "Tesla Bot: A concept humanoid robot embedded with Tesla's vehicle AI"
+    excerpt: "At Tesla AI Day, the company's CEO Elon Musk unveiled a concept humanoid robot that will be powered by the AI currently embedded within Tesla's autonomous vehicles. Aptly named the Tesla Bot, details about the concept robot were limited,"
+    publishedDateTime: 2021-08-20T02:15:00Z
+    webUrl: "https://www.zdnet.com/index.php/publisher/6291689/index.php/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 101
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/r/2021/08/20/c53f20ad-f148-4044-a3eb-0929d3675012/thumbnail/770x578/1063f420391333387dce4c459db92c3f/tesla.png"
+        width: 770
+        height: 578
         isCached: true
   - title: "Elon Musk’s Plan To Tout Tesla AI Comes As Tougher Scrutiny Of The Company Looms"
     excerpt: "The company's AI Day takes place as NHTSA probes its Autopilot feature and as two Senators call for a Federal Trade Commission investigation of how Tesla promotes Autopilot and Full Self Driving."
@@ -496,6 +526,6 @@ related:
         height: 630
         isCached: true
 
-secured: "/+CNeazIykAaPdc4btEj5a8z0LOTXQm2MgLOUt4KaSdTcaAaSXJJ2jgBIC0d53HBnPbr7D2pSg0wo8B8axTKup2ye1rONLycMKZ2KNUI49Df2rerH5xx7Gcto5UgxMlY87IBp5LpHSeZqEGMuqi8wqlfyyuCfT8HeAJ7sx7xmvDSgQsstUWakoSkAfh96eMC6sGHJu/UVKcK5wNH8a8dwti8uKUU12CBtEVTAU5i7kiEENgTZuG2+fZf9a4Yo63ML2w3z/3F7bG1CvCvTFh7gWB2W1XybK3+yPue0eYR7meI3flkTvwHhQfJG7qjUlCpdl3fmesXnuR2IM62FeUZSNFq+6dWYduq43S1EcNNm0M=;OQ6nUeFN50YO7vNZKO7TEg=="
+secured: "6Msz/jjSsYDo8MhICPbEOBOIJP+XYjKXVUAieJCZ3FVH8iRaVr0ApKBbriCPDEIHxrl0ZsKQfhW0gMlsv2WEITnpLIIMqkRzT+ov621gh0Gzj1CA92eqDApWWFZMf3WxJGlHDAFGLfWKkDzOcIzSiea1KO7xG8jrpTupQy9M6uA8PYGdeQnG0odJLVGSRoVqKpCpGQABjm5Ll7HRCEJ1FvR3sPhIXUxnGaiLVM1BcxOu0pLdKTPd3d+qQ7E+pErySe3+GW8mnUg7IbHLJoWDCcDpKOXT3xhLZKsYQmXWXn5FyjoguOOBVqQm02TEI91J/psMnjaFiXPb2HvnGmzmMrKuia3A4uSr+DgLbv0RxYKKdCDLYxIMrgjN6PitzK+f53EUsDNilvp6fcqQJZ4n4Gy+TAqT/x0Po/KWN7Qj9GMHRIHJpiAeDzXdoOQXCVvY5CWLhiXiXlgdT5xV0N38Szv4SqCOjYP0bsFW2usEzeI+cnk8sSoIoyRouvYel6mB/buvOIzatf8qbwfzr2iL6g==;5Zj/1A9Vs/RUBXByT0UP8Q=="
 ---
 

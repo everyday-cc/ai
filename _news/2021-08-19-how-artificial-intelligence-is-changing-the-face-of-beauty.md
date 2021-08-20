@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telegraph.co.uk/beauty/news/artificial-intelligence-chan
 cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/beauty/news/artificial-intelligence-changing-face-beauty/amp/"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       - url: "https://dataconomy.com/wp-content/uploads/2021/08/medical-field-changing-artificial-intelligence.jpg"
         width: 1920
         height: 1013
-        isCached: true
-  - title: "Rethinking Our AI Priorities in the Face of a More Dangerous World"
-    excerpt: "Artificial intelligence (AI) is either our best path to a better tomorrow or the harbinger of an apocalypse, depending on who is talking about it:"
-    publishedDateTime: 2021-08-15T18:17:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/ai-development-priorities/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 37
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intelligence-2-1024x389.jpeg"
-        width: 1024
-        height: 389
         isCached: true
   - title: "The hidden helping hand: expert reveals how AI tech is changing the industry"
     excerpt: "There’s an obvious reason for this – most physical locations were closed, so organizations had to fall back on online support – but it becomes especially interesting to note this is just a taster of an AI-centric revolution currently changing the world of finance."

@@ -1,26 +1,22 @@
 ---
 category: news
 title: "Esports Technologies Files Patent for Artificial Intelligence-Powered Real-Time Odds Modeling & Simulation System"
-excerpt: "Esports Technologies, Inc. (Nasdaq: EBET), a leading global provider of advanced esports wagering products and technology, announced today that it has filed a provisional patent application for a technology that uses artificial intelligence to generate odds models for use in a betting algorithm for esports tournaments and various stages of a tournament."
-publishedDateTime: 2021-08-19T12:37:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/esports-technologies-files-patent-for-artificial-intelligence-powered-real-time-odds-modeling-simulation-system-1030745602"
-webUrl: "https://markets.businessinsider.com/news/stocks/esports-technologies-files-patent-for-artificial-intelligence-powered-real-time-odds-modeling-simulation-system-1030745602"
+excerpt: "Harnessing cutting-edge modeling and artificial intelligence to create the technology for this planned next-generation wagering tool demonstrates our commitment to innovation and our focus on the needs of esports enthusiasts and bettors everywhere."
+publishedDateTime: 2021-08-19T12:27:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-esports-technologies-files-patent-artificial-intelligence-powered-real-/2021/08/19/9434117.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-esports-technologies-files-patent-artificial-intelligence-powered-real-/2021/08/19/9434117.htm"
 type: article
-quality: 26
-heat: 26
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
 
-secured: "L5v0ZehQ609ezIfpUsDTqPBKhx2SnYCsM7tg6IIb13vV1vYGA+g4MEc5wKAGB62+l5GwKlRYTEc1Mv1SyczTHW+wMUhWzMJ/ZIa5qq7SObeUTmOB/ga0yeCP0KOmeUgrkJkI8AJoF43z9ZrUAC4pZm/jirv/14WRkFQFF/UYssn7vE1nRcIETTJLhQygxTWK8eC+3K6e5MUsIO3XzU117Uls0aE6BT4Dbf4Rgid0SpM7iFYrPuUnFTSOE4tLE51itO9ngSsYyvZdPeTfV/jnkRx9PfwfaTbiqUBmsXAaW87BHBBwN7BOD6yt73QJufGa+Q7YPoMwJOTldqFCzQvTI9B/313/Pe5xaxt/j9p3U6CGJFRBZ0C3i+FI+xGEq90W5HIbknjbPQLeFrgsOLj9T9O3Cce+N0+VtuzBHYzEUzEYvy/oRI86SC3J+vrTQ9h6FKrc+me/SHPKSWu5cJuXr/EAjQfR0zNS1tqa4xd9ygCEyLIfsmd2NiBKZ1RJ9aepnli4QxKSsUaEKKx3t0yi4Q==;8FHUMBnWh03pIEPre9noWA=="
+secured: "lXbrMviDzAS8fb3oOR5xm/UkJPiPtzQqMPy9TPNBLrG1F9pJPQ/Ud/nMNnxy7S+wUaNhdV7Oa0uf/39lr4NWX59NhrFcsN3rtfN+eRZNCEyq658bdgDor44SxZGj+zXZzJGu1P+EopSqaA2YqMWbr5ypaPVGhGUuusgzgyOJNJm5ftlnVuO/GYtHFI7q/8U1fwfhuhuMycwE6f3JbedOaQ8yLiKV5ZZnjeV0MZpol9fKN3uwKC0y78KA58XdKcHXCbs715npq2DTmH+tU1u2MkU1R8yaVO5D+vxCHHlnqcavUw+FqJhsA3+4hTY1C+0X+P/OOrXZDXCPzpb7pudyFsc1QC5ZAIxq7w8yrleQWY1WRnIpA9Q6N6NXStJFCwZRd4tbSI8CHlmMFF3d53in97k8A3/89TU5U2PltY9AOP5ZWyKLMZGXShevoqyU5EK0OHIGVH6tpoeS1rtAHDEalTuJxsuDBOJMQb330cn+6zM26lc7P6NOEN85ynJXMqmX5muI8SbwB3g1PbR3wEFQnA==;D26V3IBljyc+X2Piq3agqA=="
 ---
 

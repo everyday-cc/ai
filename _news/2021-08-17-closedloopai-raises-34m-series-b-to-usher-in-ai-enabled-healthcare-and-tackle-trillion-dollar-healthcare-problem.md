@@ -2,17 +2,17 @@
 category: news
 title: "ClosedLoop.ai Raises $34M Series B to Usher in AI-Enabled Healthcare and Tackle Trillion-Dollar Healthcare Problem"
 excerpt: "ClosedLoop.ai., healthcare’s data science platform, today announced a $34 million Series B financing. The investment round, led by Telstra Ventures with participation from Breyer Capital, Greycroft Ventures,"
-publishedDateTime: 2021-08-17T10:01:00Z
-originalUrl: "https://www.newspressnow.com/news/national_news/coronavirus/closedloop-ai-raises-34m-series-b-to-usher-in-ai-enabled-healthcare-and-tackle-trillion/article_c8f201bf-2548-597a-8f0c-b35452291baf.html"
-webUrl: "https://www.newspressnow.com/news/national_news/coronavirus/closedloop-ai-raises-34m-series-b-to-usher-in-ai-enabled-healthcare-and-tackle-trillion/article_c8f201bf-2548-597a-8f0c-b35452291baf.html"
+publishedDateTime: 2021-08-17T10:02:00Z
+originalUrl: "https://www.galvnews.com/news_ap/business/article_850ffc79-12c3-5a29-b549-cff53995f578.html"
+webUrl: "https://www.galvnews.com/news_ap/business/article_850ffc79-12c3-5a29-b549-cff53995f578.html"
 type: article
 quality: 34
 heat: -1
 published: false
 
 provider:
-  name: News-Press NOW
-  domain: newspressnow.com
+  name: Daily News
+  domain: galvnews.com
 
 topics:
   - Machine Learning
@@ -20,7 +20,7 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/newspressnow.com/content/tncms/assets/v3/editorial/9/24/92406886-a2ff-536d-b642-72461e2f6078/611b8c2708266.image.jpg?resize=878%2C630"
+  - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/assets/v3/editorial/9/95/9953ba36-2420-5482-a022-13715f016472/611b8fcd926f7.image.jpg?resize=878%2C630"
     width: 878
     height: 630
     isCached: true
@@ -105,6 +105,6 @@ related:
         height: 630
         isCached: true
 
-secured: "7SjsYmRElECQ7w0Vhk78a3MKDNHhO4beJ89BhX7e4DPGaFAZx2MtR8Fru4YHg57gOr9sa3vCg+9ge1ArjG5Uy1aU6h6VAhjLgin38YsLrhOVckzYyTEjDaHUzecK4blMgLgaYz3m7hkzFsCfxD7s8rIV7btWqzr0Hy1PYEncE/GJ/4G18X+KJlPfmkBYzeStQIWz2aAdthFwVcBd1YFtwBaJBNQxIKu+Rg22XzY1m7aW2JDAzzz2npFzcn1rh8Xvd8mfWvAIG4sDXuqUf/RCgMRVEJXbmKGoIdHeQLGGLDGeOsyT0XSF9nLk0Q1VT5EnlFSVb35ThfphNWpYedVyyO22lzKlHGfJ8VaiPz2Li6o=;DieFJVYI0rt3Bv/oc+3YYg=="
+secured: "XBCNNIMcwalyh3KGpBSvNxL/EZuYypChex6JKB9s0D8lGASFPdRAa73dZZSTVfKBr6kjpkAXCyOn1/bxb2ar6qylLsePGRaHt4HsBToiH3u/kZONu9vtUJpBH6XMC1zjg9ML+CVv5mxZ9djFtEPWEWl26wQl8Yd9JtQ/2WkcrpBJjFxNVVQXR0Fr/Tcfmex/kfs7NCtopSmmGmniTCzdeB8zw8fUm7zP96vDg70xhWJOa1bkhJHRpmM9tD6DVfUg25JFs53ifjbxtwa9+/4MCQf4P9G+Hw1cprBkuOZQug45QUqI7+0LU6eyTktFxYPqNRzXcPnqMqn9827/Xxur4ZkP1xE4aYE/NkIYir/Ozvs=;+LaGqlkJm1ZODL08KnKIFQ=="
 ---
 

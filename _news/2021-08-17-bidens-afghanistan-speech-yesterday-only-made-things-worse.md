@@ -43,6 +43,20 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Taliban captured US facial recognition and eye-scan database, reports say"
+    excerpt: "A key database of the biometric information of Afghan allies who assisted U.S. and coalition forces may now be in the hands of Taliban militants who are seeking revenge. On Tuesday, the Intercept reported,"
+    publishedDateTime: 2021-08-19T20:05:00Z
+    webUrl: "https://americanmilitarynews.com/2021/08/taliban-captured-us-facial-recognition-and-eye-scan-database-reports-say/"
+    type: article
+    provider:
+      name: American Military News
+      domain: americanmilitarynews.com
+    quality: 38
+    images:
+      - url: "https://americanmilitarynews.com/wp-content/uploads/1-about-amn.png"
+        width: 800
+        height: 500
+        isCached: true
 
 secured: "ETV/w5kb5G/pTVvrrBkfB3yU97GWbeHjt+/ysleqPADfjloqecqspk2TNLcWQAj8MnI06J+2ThJU0r7y6GL/nRyjFjUlnPkvux0T2b3bk0mL8dBPPelgHCHcIrbmYZS8Z3A9cRelqtobOFzH5C4za9YdzHeh+9rrEnQhmrz+bmlne0WTCbsUJa6gkn2cJx87KO1E1lNO/jjXyVV0kD0dSk2d9y95zB9xFNU4t2rZrKVUOsAlDxUGyHkFRpKvhmKuuI3hf+V8U2AyM6Gy+JH4DIQb5mTpuKCM8KgunwY6yh13V4L2oigs+9UO/8Ji6s2yFLzRCX62BJKAJhHlOLGDqpjewnpeNe7Kw5MuhOYKEDRA1rzh/ejj8ypy+810yrLACAEOBY4JiKVotGJ6mSGsm6cgqpMTi8TaH0oSlVTr06YUCYIE+ZqG/IWwBGKNFKSrIg94iU1vtlFkdJqmDkCY4J3VCM7/aD90DqyBjJSG7HaNg2O9bIIhyXbu6CVr2WLSK6vB7v+uKlUAPSoM1ExU3Q==;BznSCpgXWy524VnDYOdcXg=="
 ---

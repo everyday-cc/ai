@@ -25,6 +25,22 @@ images:
     height: 434
     isCached: true
 
+related:
+  - title: "How Can India’s Workforce Be Prepared for the Artificial Intelligence Era?"
+    excerpt: "Artificial Intelligence, using artificial intelligence technologies like machine learning, is improving the workforce of India. India navigates its path toward being future-ready will influence the success of Artificial Intelligence in the Indian Workforce as a whole."
+    publishedDateTime: 2021-08-17T09:00:00Z
+    webUrl: "https://www.analyticsinsight.net/how-can-indias-workforce-be-prepared-for-the-artificial-intelligence-era/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 35
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/How-can-Indias-Workforce-be-prepared-for-the-Artificial-Intelligence-era.jpg"
+        width: 900
+        height: 500
+        isCached: true
+
 secured: "Jy9StfqP8NAlwa6xyr7GzHPwSyclG6MhF4Xn+rq9kheYVatR8MwyOVpAs4JDpGMxUG9oT3KJ49ReL3z5k+klYXRxCWEDXGjqfFpte9LAH1k4FUF4C+5i5TLgaBrK+fsW4Bq5dWcv1jFxRRgEZOfzI5qLOc68yd7lk5Db4aF1NnlcxitgTWe3DzsKj0WtooPsb9lpIh9kWaXwmoig8fxltwsIhVDBRc8BcdOdYl89IWOZDbMAGM5utAtoak2fDimAclb1RukvVDwvDWB+Dzap+PuJH+YYFnsXQQQiKh+OLhm2TFrkUmdavb5I+hAvnbCGTJaaXGOK4nGeUUcDPqErnrhjPdwxDm+1JlUFiZfGyqY=;fSsDBkVXoJR7GwME4vBrkQ=="
 ---
 

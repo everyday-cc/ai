@@ -95,15 +95,15 @@ related:
         isCached: true
   - title: "ClosedLoop.ai Raises $34M Series B to Usher in AI-Enabled Healthcare and Tackle Trillion-Dollar Healthcare Problem"
     excerpt: "ClosedLoop.ai., healthcare’s data science platform, today announced a $34 million Series B financing. The investment round, led by Telstra Ventures with participation from Breyer Capital, Greycroft Ventures,"
-    publishedDateTime: 2021-08-17T10:01:00Z
-    webUrl: "https://www.newspressnow.com/news/national_news/coronavirus/closedloop-ai-raises-34m-series-b-to-usher-in-ai-enabled-healthcare-and-tackle-trillion/article_c8f201bf-2548-597a-8f0c-b35452291baf.html"
+    publishedDateTime: 2021-08-17T10:02:00Z
+    webUrl: "https://www.galvnews.com/news_ap/business/article_850ffc79-12c3-5a29-b549-cff53995f578.html"
     type: article
     provider:
-      name: News-Press NOW
-      domain: newspressnow.com
+      name: Daily News
+      domain: galvnews.com
     quality: 34
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/newspressnow.com/content/tncms/assets/v3/editorial/9/24/92406886-a2ff-536d-b642-72461e2f6078/611b8c2708266.image.jpg?resize=878%2C630"
+      - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/assets/v3/editorial/9/95/9953ba36-2420-5482-a022-13715f016472/611b8fcd926f7.image.jpg?resize=878%2C630"
         width: 878
         height: 630
         isCached: true
