@@ -7,8 +7,8 @@ originalUrl: "https://www.gizmochina.com/2021/08/17/samsung-exynos-chips-ai-desi
 webUrl: "https://www.gizmochina.com/2021/08/17/samsung-exynos-chips-ai-design/"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 134
+published: true
 
 provider:
   name: Gizmochina
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Samsung Joins Google and Nvidia in Using AI to Design Chips"
-    excerpt: "Samsung has reportedly started using artificial intelligence features in the Synopsys chip design tool for upcoming processors."
-    publishedDateTime: 2021-08-15T13:19:00Z
-    webUrl: "https://uk.pcmag.com/processors/135086/samsung-joins-google-and-nvidia-in-using-ai-to-design-chips"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 84
-    images:
-      - url: "https://sm.pcmag.com/t/pcmag_uk/news/s/samsung-jo/samsung-joins-google-and-nvidia-in-using-ai-to-design-chips_neg5.1200.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Samsung’s Next Exynos Chips Will Be Designed By Artificial Intelligence"
     excerpt: "AI can design chips more effectively. So Samsung's next Exynos chips are decided to be designed by a special AI function dubbed DSO.ai."
     publishedDateTime: 2021-08-16T08:55:00Z
@@ -101,22 +87,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Artificial Intelligence in Aviation Market to Develop New Growth Story | NVIDIA, Intel, IBM"
-    excerpt: "Latest business intelligence report released on Global Artificial Intelligence in Aviation Market, covers different industry elements and growth inclinations that helps in predicting market forecast."
-    publishedDateTime: 2021-08-18T06:39:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-in-aviation-market-to-develop-new-growth-story-nvidia-intel-ibm/"
-    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-aviation-market-to-develop-new-growth-story-nvidia-intel-ibm/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-aviation-market-to-develop-new-growth-story-nvidia-intel-ibm/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 47
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/A-84-390x220.jpg"
-        width: 390
-        height: 220
-        isCached: true
   - title: "Samsung’s use of AI for chip design signals industry shift away from dominant suppliers"
     excerpt: "Using an AI approach in new software from Synopsys, a leading chip software design company, Samsung is creating complex chips, like the Exynos processor, which will run its smartphones, tablets, and PCs."
     publishedDateTime: 2021-08-17T04:58:00Z
@@ -130,34 +100,6 @@ related:
       - url: "https://contentstorage-nax1.emarketer.com/84f562672eb6178047b4abf0336c8304/default-image-share.png?im=FitAndFill,width=1200,height=630"
         width: 1200
         height: 630
-        isCached: true
-  - title: "NVIDIA reveals more details about how AI is reinventing graphics"
-    excerpt: "To learn more about how NVIDIA is using artificial intelligence to help reinvent computer graphics check out the NVIDIA presentation"
-    publishedDateTime: 2021-08-16T07:55:00Z
-    webUrl: "https://www.geeky-gadgets.com/nvidia-reveals-more-details-about-how-ai-is-reinventing-graphics-16-08-2021/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/08/NVIDIA-reveals-more-details-about-how-AI-is-reinventing-graphics.jpg"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "AI Exosphere Joins NVIDIA Inception to Bring New AI Assistant to Market"
-    excerpt: "\"After being invited to the NVIDIA Inception program and hearing all the excellent work and support, NVIDIA is doing; we knew this was the best fit for our startup,\" said Sal Peer, CEO of AI Exosphere. NVIDIA Inception helps startups during critical stages ..."
-    publishedDateTime: 2021-08-19T12:38:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-exosphere-joins-nvidia-inception-to-bring-new-ai-assistant-to-market/article_d4090b12-dd6b-5a9f-aa85-6dc90d8b25f9.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 37
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "H7JLC2kR39AEUTK8TQYLlo0QJUNvVEXFLkwdaeqZ5kVAj2/ZVOiGjxLuliF9XzdcpoOWvoBqTgLVRF8isquKG55vm9Br/evRFZkMCm+K01T7Pxhm/eP+sbyE3DnnsVdHmHRlqQNMoHfe4ymHHGlXNFFLCbyACPKOUR1bYm2lIO9NFot6AoocnX55hm3gzjyCrqPN+xKAiipSCBcw/v1ezqomJLBIyw38KJPfCmQ8tpTWkrlb20W1HNItfrn4N0emPb7skBhRfQKxnSJtduJ2nhm15r/Qu8wfe/p5gEuFZ7ri7VjzBDsaKXhAfQTizNRfbH9HzfuPh0pLkkCDdO68z5+J8n0y8ckhd1JYwFZIkN82hLE4+goTqadICc7k2Wt06BSJ1gXa5x7qn9JSLLquoXfnsVpmZ3zpnWK9ZokdWDB/9jKKB7OTqeZLd9/GIJ5RLid89PnHOCmYP9RoXO2fhQ0osuOqYx0RhciFE+CRMh6icNR4xyKiMwBbcOmAiXIGmiRyPAswzPayAz5tLwsZDw==;Ws2owmqJ+LE+15PzpprOIA=="

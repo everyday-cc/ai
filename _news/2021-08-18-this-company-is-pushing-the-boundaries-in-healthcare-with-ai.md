@@ -54,6 +54,17 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Global Healthcare Artificial Intelligence (AI) Market Report Forecast to 2027"
+    excerpt: "IBM Watson Health Healthcare Artificial Intelligence (AI) technology is expected to change the way people communicate around the world. The Healthcare Artificial Intelligence (AI) technology study ..."
+    publishedDateTime: 2021-08-18T16:09:00Z
+    webUrl: "https://www.openpr.com/news/2359516/global-healthcare-artificial-intelligence-ai-market-report"
+    ampWebUrl: "https://www.openpr.com/amp/2359516/global-healthcare-artificial-intelligence-ai-market-report"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2359516/global-healthcare-artificial-intelligence-ai-market-report"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 68
   - title: "ClosedLoop.ai Raises $34M Series B to Usher in AI-enabled Healthcare"
     excerpt: "ClosedLoop.ai, healthcare’s data science platform, today announced a $34 million Series B financing. The investment"
     publishedDateTime: 2021-08-18T12:53:00Z

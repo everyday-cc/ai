@@ -94,7 +94,7 @@ related:
   - title: "U.S. senators urge FTC to probe Tesla over self-driving claims"
     excerpt: "Two U.S. senators on Wednesday pressed the Federal Trade Commission (FTC) to probe Tesla (TSLA.O), saying the company has misled consumers and endangered the public by marketing its driving automation systems as fully self-driving."
     publishedDateTime: 2021-08-18T15:19:00Z
-    webUrl: "https://www.reuters.com/business/autos-transportation/us-senators-urge-ftc-probe-tesla-over-self-driving-claims-2021-08-18/"
+    webUrl: "https://www.reuters.com/article/tesla-autopilot-ftc/corrected-us-senators-urge-ftc-to-probe-tesla-over-self-driving-claims-idUSL4N2PO3YZ"
     type: article
     provider:
       name: Reuters

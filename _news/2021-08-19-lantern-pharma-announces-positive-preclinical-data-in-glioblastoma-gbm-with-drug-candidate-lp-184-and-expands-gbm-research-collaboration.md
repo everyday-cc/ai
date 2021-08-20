@@ -1,29 +1,25 @@
 ---
 category: news
 title: "Lantern Pharma Announces Positive Preclinical Data in Glioblastoma (GBM) with Drug Candidate LP-184 and Expands GBM Research Collaboration"
-excerpt: "RADR ® is Lantern's proprietary machine learning-based artificial intelligence platform that integrates data ... defined patients who could potentially benefit from LP-184-based therapy. \"This new data reinforces that LP-184 may have clinical utility ..."
-publishedDateTime: 2021-08-19T12:52:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/lantern-pharma-announces-positive-preclinical-data-in-glioblastoma-gbm-with-drug-candidate-lp-184-and-expands-gbm-research-collaboration-301358943.html"
-webUrl: "https://www.prnewswire.com/news-releases/lantern-pharma-announces-positive-preclinical-data-in-glioblastoma-gbm-with-drug-candidate-lp-184-and-expands-gbm-research-collaboration-301358943.html"
+excerpt: "Lantern Pharma (NASDAQ:LTRN), a clinical stage biopharmaceutical company, announced today that a successful preclinical"
+publishedDateTime: 2021-08-19T12:50:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/08/n22574787/lantern-pharma-announces-positive-preclinical-data-in-glioblastoma-gbm-with-drug-candidate-lp-184-"
+webUrl: "https://www.benzinga.com/pressreleases/21/08/n22574787/lantern-pharma-announces-positive-preclinical-data-in-glioblastoma-gbm-with-drug-candidate-lp-184-"
+ampWebUrl: "https://www.benzinga.com/amp/content/22574787"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22574787"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1216507/Lantern_Pharma_Logo.jpg?p=facebook"
-    width: 939
-    height: 491
-    isCached: true
-
-secured: "mPnSWcH4VdbqHhIIUxY5iwtxOSX1r/HDF1RhmNrY67uejGlxOcPWSMGHB1VvVS8FLzwaClGMWIRetZ7rshpdbztql49ocjjAURGBNRq+WZvT9z03vzo04rMWA0uXedftdR1QwKAw8ovoPdP9VWy2XY/0exm+iarfOXajU+NTyBQHwUSMhc4QFNwXjdVPn6m5GlN1xmq9WLLJujmHG2cUZU8FTXND99HiHQoH8BSIhnY+zz4aQUS80vJjVGt70/X1uHQvOD5heEwdAyVUlJvhkO2nDvlQjYaoHnC4/W8KDjDVTWMlfAlCns3ptJ71qylMp9czjVz378tMLRIz8KrCJLBcw50W1LE7dPg8qtVNKyQ=;3IG5iqW/J2qyPANuWZneVg=="
+secured: "SCLBYk2smdsqq562VEAkWXO5u5gvvqDczbzpqn1xGwrdfDW0CfHNb2l8+ktG3QUiMocORszK3l1LJ1mEjhOoe92Qq6SM1NyY/35KrbHTUgPzzSLNYFiYIO2triEIdlyqGOsz3HoAXWhvhTsRLjrbyTb1IkLfvg0Go+ISWbMCpZskzUAXilaSv1yzhflNB0v+RmUw7b5cU8FaQCep+a3wQrv7hoCQAiZNUaTYMCA7dHgNoITsSi1qrgR9eRwSTZdmEu3TqTT5ZWk7mrqJRmQp2GHHtU/ypI/BeDy1yFc4rLIOE0n7C3dCHyaeaNBvqyjAMZZMwqNPi9DSgvA+J/uMVQs8QgVNdFG9FPlZ0Xc3pYQ=;eyi295RrpUoVFc9SAuekDQ=="
 ---
 

@@ -8,7 +8,7 @@ webUrl: "https://www.wsj.com/articles/tesla-ai-day-2021-11629408749"
 ampWebUrl: "https://www.wsj.com/amp/articles/tesla-ai-day-2021-11629408749"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tesla-ai-day-2021-11629408749"
 type: article
-quality: 104
+quality: 106
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - AI in Robotics
 
 images:
   - url: "https://images.wsj.net/im-387188/social"
@@ -94,6 +95,22 @@ related:
       - url: "https://images.wsj.net/im-387824?width=700&height=557"
         width: 700
         height: 557
+        isCached: true
+  - title: "Tesla to Spotlight Artificial Intelligence Work Amid Scrutiny of Autopilot"
+    excerpt: "Elon Musk is slated to host an event Thursday evening to drum up interest in the electric-vehicle maker and its AI efforts at a time its driver-assistance system is under investigation."
+    publishedDateTime: 2021-08-19T20:33:00Z
+    webUrl: "https://www.wsj.com/articles/tesla-ai-day-2021-11629408749?mod=lead_feature_below_a_pos1"
+    ampWebUrl: "https://www.wsj.com/amp/articles/tesla-ai-day-2021-11629408749"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tesla-ai-day-2021-11629408749"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 104
+    images:
+      - url: "https://images.wsj.net/im-387188/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "What to expect from OpenAI’s Codex API"
     excerpt: "The Codex demo puts the advantages of large language models on display, showing an impressive capacity to resolve references and write code."
@@ -238,6 +255,6 @@ related:
         height: 630
         isCached: true
 
-secured: "tF9vLx4NCiVfVJ3j0PzPVMsFJEPm5at6N4TN7L7mYS7l3TVtL6wnT4rkrXfSrMh2VSdZSxi/GWclmg44wGijGUizlE5N8i8HpJUnjqTNwnUnOGJH21FjRJFBzevFaR6829dR4gjgC5B1Z5sYMQqFbPY5YsFAB0DOoQtjypPe7FnA0Ag7zjlggHFXLuFlDSWXQEEqD3aSPa9QhBjwiLd43O6BNDZYTJtDIPfy6j1/VwGIoOA5NH5kCi2GFZ66NUQO1aVDATAzwQtGAsp54ASX5FL5vnLrUrXBtCb25xvtuPjOoOWjLLhPu1v+PVjOGNuUP/EwZYmT8zKBOI3RTQfqumdFAB2mNaBSNsI0ENg1v4c=;0aXUDeZhMUSri/q2qpo2sA=="
+secured: "QMYu3lHqy3EXapaF+7BJXDqKnLE5CVc2DAq/qlNnRpXUfaaNQZwoQ7PGHJS1Gz4C56sRw2AGV0tt4PIqaP7ZyokHokgzut91Vtge3vYXOrpVP02Nhaap6qFoB82Swp6nZiq9Gzma840LzP/meSNU7F+D5iA9hOb7/XMg48Ro3Vde2/KQaCViOpYpU5qBkcr2Yes04kFyPQ5DFLBAPQFZGURC2R9mrSEYWAoswjOwjegX/yyQKldpCS3Z/8qoF02Xsa5jqqZI2VKy166liOYzGHjX32ROhrbdarrw0IFM8KIlfu25YdCy9j1pxQCHiWiRuffhnFfs46KgAEtr05PPl4J6E/xmNyKxyMmFcz6KVNmmXhr7VXLp7AeChFAwGdPb82XxJIi5rLcLMccBZKfzFzxwUTY5mKL3UnBiJSJaLKuCuPqslLjBVj7hJWhQ9Obd86CXx63NUdZViVry3HZBG8MH5USo4rErGHZZ9QVxRYBb3YKHgEFozqu+YEaW3gHRCzuTwJb1Gq1a+4n6s1o7bg==;re7vM6cJnB9XdfmWXPu1tg=="
 ---
 

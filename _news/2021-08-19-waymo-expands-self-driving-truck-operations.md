@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Ryder and Waymo agree to build maintenance network for self-driving trucks"
+    excerpt: "The companies’ goal is to maximize vehicle up-time and ensure the reliability required to scale operations nationwide, Miami-based Ryder said. According to Waymo Via—Waymo’s trucking and local delivery unit—the move was necessary to serve its growing fleet and geographical footprint."
+    publishedDateTime: 2021-08-19T18:57:00Z
+    webUrl: "https://www.dcvelocity.com/articles/52020-ryder-and-waymo-agree-to-build-maintenance-network-for-self-driving-trucks"
+    type: article
+    provider:
+      name: DC Velocity
+      domain: dcvelocity.com
+    quality: 52
+    images:
+      - url: "https://www.dcvelocity.com/ext/resources/2021/08/19/Ryder_Waymo.jpg?height=635&t=1629399307&width=1200"
+        width: 1129
+        height: 635
+        isCached: true
   - title: "Waymo building Dallas-Fort Worth hub for hundreds of self-driving trucks"
     excerpt: "Waymo, the Mountain View-based autonomous truck spinoff of Alphabet Inc., said on Wednesday that it is working on a dedicated trucking hub that covers nine acres in Lancaster, Texas. The site will be able to accommodate hundreds of vehicles and hundreds of personnel,"
     publishedDateTime: 2021-08-18T21:57:00Z

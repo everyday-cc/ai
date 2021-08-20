@@ -26,9 +26,9 @@ images:
 
 related:
   - title: "Sentiance wins 2021 FinTech Award for \"Best FinTech Mobile Telematics Provider - Europe\""
-    excerpt: "Sentiance, an intelligence-driven data science and behavior change company, is awarded the \"Best FinTech Mobile Telematics Provider – Europe \" award by Wealth & Finance International. The FinTech Awards by Wealth & Finance International recognize and spotlight creative innovation,"
-    publishedDateTime: 2021-08-19T14:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/sentiance-wins-2021-fintech-award-for-best-fintech-mobile-telematics-provider-europe-1030745508"
+    excerpt: "The FinTech Awards by Wealth & Finance International ... The main reasons why Sentiance won this award are its competitive AI technology, its innovative in-house behavior change team, and the ..."
+    publishedDateTime: 2021-08-19T12:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/sentiance-wins-2021-fintech-award-for-best-fintech-mobile-telematics-provider-europe-1030745487"
     type: article
     provider:
       name: Business Insider

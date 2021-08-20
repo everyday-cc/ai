@@ -30,14 +30,14 @@ images:
 related:
   - title: "How AI-powered tech landed man in jail with scant evidence"
     excerpt: "Williams was jailed last August, accused of killing a young man from the neighborhood who asked him for a ride during a night of unrest over police brutality in May. But the key evidence against Williams didn’t come from an eyewitness or an informant;"
-    publishedDateTime: 2021-08-20T05:59:00Z
-    webUrl: "https://www.ctpost.com/news/article/How-AI-powered-Tech-Landed-Man-In-Jail-With-Scant-16396942.php"
-    ampWebUrl: "https://www.ctpost.com/news/amp/How-AI-powered-Tech-Landed-Man-In-Jail-With-Scant-16396942.php"
-    cdnAmpWebUrl: "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/news/amp/How-AI-powered-Tech-Landed-Man-In-Jail-With-Scant-16396942.php"
+    publishedDateTime: 2021-08-20T06:15:00Z
+    webUrl: "https://www.registercitizen.com/news/article/How-AI-powered-Tech-Landed-Man-In-Jail-With-Scant-16396942.php"
+    ampWebUrl: "https://www.registercitizen.com/news/amp/How-AI-powered-Tech-Landed-Man-In-Jail-With-Scant-16396942.php"
+    cdnAmpWebUrl: "https://www-registercitizen-com.cdn.ampproject.org/c/s/www.registercitizen.com/news/amp/How-AI-powered-Tech-Landed-Man-In-Jail-With-Scant-16396942.php"
     type: article
     provider:
-      name: Connecticut Post
-      domain: ctpost.com
+      name: The Register Citizen
+      domain: registercitizen.com
     quality: 57
     images:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"

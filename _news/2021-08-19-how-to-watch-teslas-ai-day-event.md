@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla to Spotlight Artificial Intelligence Work Amid Scrutiny"
+    excerpt: "Elon Musk is expected to spotlight Tesla Inc.’s work on artificial intelligence as the company faces increased federal scrutiny of a key application of that technology: its driver-assistance system known as Autopilot. Tesla on Thursday evening is slated ..."
+    publishedDateTime: 2021-08-19T22:30:00Z
+    webUrl: "https://www.wsj.com/articles/tesla-ai-day-2021-11629408749"
+    ampWebUrl: "https://www.wsj.com/amp/articles/tesla-ai-day-2021-11629408749"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tesla-ai-day-2021-11629408749"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 106
+    images:
+      - url: "https://images.wsj.net/im-387188/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Tesla to Hold AI Day Amid New Scrutiny: What to Expect"
     excerpt: "The world’s most valuable car maker is holding an event to promote its use of artificial intelligence, just as federal regulators this week announced a new investigation into the company’s Autopilot d"
     publishedDateTime: 2021-08-19T13:00:00Z
@@ -79,10 +95,10 @@ related:
         width: 700
         height: 557
         isCached: true
-  - title: "Tesla to Spotlight Artificial Intelligence Work Amid Scrutiny"
-    excerpt: "Elon Musk is expected to spotlight Tesla Inc.’s work on artificial intelligence as the company faces increased federal scrutiny of a key application of that technology: its driver-assistance system known as Autopilot. Tesla on Thursday evening is slated ..."
-    publishedDateTime: 2021-08-19T22:30:00Z
-    webUrl: "https://www.wsj.com/articles/tesla-ai-day-2021-11629408749"
+  - title: "Tesla to Spotlight Artificial Intelligence Work Amid Scrutiny of Autopilot"
+    excerpt: "Elon Musk is slated to host an event Thursday evening to drum up interest in the electric-vehicle maker and its AI efforts at a time its driver-assistance system is under investigation."
+    publishedDateTime: 2021-08-19T20:33:00Z
+    webUrl: "https://www.wsj.com/articles/tesla-ai-day-2021-11629408749?mod=lead_feature_below_a_pos1"
     ampWebUrl: "https://www.wsj.com/amp/articles/tesla-ai-day-2021-11629408749"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tesla-ai-day-2021-11629408749"
     type: article

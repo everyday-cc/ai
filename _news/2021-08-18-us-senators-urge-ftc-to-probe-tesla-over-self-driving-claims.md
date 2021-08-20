@@ -3,8 +3,8 @@ category: news
 title: "U.S. senators urge FTC to probe Tesla over self-driving claims"
 excerpt: "Two U.S. senators on Wednesday pressed the Federal Trade Commission (FTC) to probe Tesla (TSLA.O), saying the company has misled consumers and endangered the public by marketing its driving automation systems as fully self-driving."
 publishedDateTime: 2021-08-18T15:19:00Z
-originalUrl: "https://www.reuters.com/business/autos-transportation/us-senators-urge-ftc-probe-tesla-over-self-driving-claims-2021-08-18/"
-webUrl: "https://www.reuters.com/business/autos-transportation/us-senators-urge-ftc-probe-tesla-over-self-driving-claims-2021-08-18/"
+originalUrl: "https://www.reuters.com/article/tesla-autopilot-ftc/corrected-us-senators-urge-ftc-to-probe-tesla-over-self-driving-claims-idUSL4N2PO3YZ"
+webUrl: "https://www.reuters.com/article/tesla-autopilot-ftc/corrected-us-senators-urge-ftc-to-probe-tesla-over-self-driving-claims-idUSL4N2PO3YZ"
 type: article
 quality: 84
 heat: -1
@@ -483,6 +483,6 @@ related:
         height: 630
         isCached: true
 
-secured: "TVBbmZcZP1WT3mfFFG9OPixs4xoA771KnlkSoYZ6MxSG/k/db8o6bxdx3hX2i625KNSE4JaE5j/vYc2SwRQEGB4+z2IjrqzBUgpbvAJfufxYvrMa578XRABl6xLjLvX7bt8wcy8BWQxe9wR7YSeMO5rYYpSgV7eSLc0/bqxG3ysFBirL2Ik3to++eNTz1eGfpr96qDI27SccxTKdaWOdINAh//Lph8tipbJu/MbjkMxVJfjVVYPfCNWcjzqXhVltl0gQ3w4QhIpHBLpp0+JBjlLwZ+JG732WzOk3HRr241SjXCWHez+IEEx83Mt+zuv5D9+uBv7A7re4p26DGu2/Q9Yvo8DjZexd98BF+PihfEdEW3Zs0o6rIhIgFp+Ylwt5AT2PYVTT+tOXtIKF/dHo1SXPNC4vbSsNM3/6HjHs5a8C2nXdDE3t4Qa5d5K5LekSH1rkZyn5XXcGM7LuJdFdg4C8SRlUM5fV8k4Ge6DqgW2CVa3P/YOSaf9XihVkG1gsu6rXanwzAHu+PsBUM8Rv+Q==;sqhLlC1yf3UWkvRL8CI6oQ=="
+secured: "B22kO82e7yrLgMsBB4sjLH8LdxPpqpJJ9NLN43mIwnKF+aNgPz3t+xEG2KLiLrXHAQyN/tyOrpGrIACdNhl+JFiwF3dSGXhnh0PKKgRvsHATXTW6OjrfBTCqlfTw1MjP00Picl783n3OlD1rkHYgwKMQV4NGNSIjV/cS1mcxfNScfEP+pHALF/4q7yGd3LQ/vzUwkaEqqWoIogfPGZ6rKqRs3BC33cDt1VS17adlzyaYWVqEQzmWUWfWgKMX0OIYkoPCGO4sBeMpMWTfqtj1VWQ2jbBH+g4JBku1nLk+IC2ii2/c4zu2lARAH4zdWztPwuiFyRuYYEl43zvj5vA9Z5VZIW+FSunFbOtD2xa202k=;hQZChgxsQzlrM0phRiz3qA=="
 ---
 
