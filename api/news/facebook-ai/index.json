@@ -2,6 +2,42 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-18-ai-in-fashion-market-to-see-huge-growth-by-2026-google-aws-microsoft-facebook.md",
+      "title": "AI in Fashion Market to See Huge Growth by 2026 | Google, AWS, Microsoft, Facebook",
+      "excerpt": "The latest study released on the Global AI in Fashion Market by AMA Research evaluates market size, trend, and forecast to 2026. The AI in Fashion market study covers significant research data and proofs to be a handy resource document for managers,",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/ai-in-fashion-market-to-see-huge-growth-by-2026-google-aws-microsoft-facebook/",
+      "originalUrl": "https://manometcurrent.com/ai-in-fashion-market-to-see-huge-growth-by-2026-google-aws-microsoft-facebook/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/ai-in-fashion-market-to-see-huge-growth-by-2026-google-aws-microsoft-facebook/?amp=1",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/ai-in-fashion-market-to-see-huge-growth-by-2026-google-aws-microsoft-facebook/?amp=1",
+      "publishedDateTime": "2021-08-17T14:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-16-ready-to-build-your-own-house-terrascope-uses-ai-to-sort-through-rural-property-for-sale.md",
       "title": "Ready to build your own house? Terrascope uses AI to sort through rural property for sale",
       "excerpt": "Terrascope co-founder Kehan Zhou talks about shopping for rural land with the help of machine learning technology.",
@@ -1333,58 +1369,6 @@
         "AI",
         "AI Hardware",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-ai-image-recognition-market-new-innovations-technology-growth-and-research-2021-2026.md",
-      "title": "AI Image Recognition Market New Innovations, Technology Growth and Research 2021-2026",
-      "excerpt": "The Global AI Image Recognition Market Report Provides Business Overview, Market Trends, Industry Challenges, And Forecast 2021-2026 Jul 02, 2021",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-image-recognition-market-new-innovations-technology-growth-and-research-2021-2026-2021-07-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-image-recognition-market-new-innovations-technology-growth-and-research-2021-2026-2021-07-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-02T05:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

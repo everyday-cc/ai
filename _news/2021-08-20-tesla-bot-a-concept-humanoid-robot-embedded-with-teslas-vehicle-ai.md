@@ -340,6 +340,22 @@ related:
         width: 1024
         height: 707
         isCached: true
+  - title: "Tesla Bot Goal to Automate Labor"
+    excerpt: "Tesla needs robots to install solar power. Mining, garbage collection and iron working is dangerous. Tesla needs to mine more materials for their batteries and cars. Steel working is needed for Tesla cars."
+    publishedDateTime: 2021-08-20T13:59:00Z
+    webUrl: "https://www.nextbigfuture.com/2021/08/tesla-bot-goal-to-automate-labor.html"
+    ampWebUrl: "https://www.nextbigfuture.com/2021/08/tesla-bot-goal-to-automate-labor.html"
+    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/08/tesla-bot-goal-to-automate-labor.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 59
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/08/Screen-Shot-2021-08-19-at-7.47.13-PM.jpg"
+        width: 1920
+        height: 1150
+        isCached: true
   - title: "6 Injured As Self-Driving Tesla Crashes In School Car Park In UK: Report"
     excerpt: "Five children and an adult were taken to hospital with injuries after a self-driving Tesla Inc Model 3 crashed in a school car park in southern England on Monday evening, the Telegraph reported."
     publishedDateTime: 2021-08-16T22:06:00Z
@@ -574,6 +590,6 @@ related:
         height: 630
         isCached: true
 
-secured: "XJA6StWjnWsFH8/xZVHVLkCQUKomEFAU8rrJ6MGDm1RbxBo81uZg6jZyx2gGAVZaie7Bjx+dxRq6VcvdDFykPOPZ9edHQU7Gf0bsjZYVkruI+/8TrJYWoOD/TpqdmWG3eN/VCDK9gmMwUy9DArhlmKs4BOhdck7CByO46s+1NwCru9M40OYlBFCUAQFVboaIcmvdsMROdHLtNJgFFJV67mq+wBT1p2UDBjKcb71nGPVG/25z1Yi1j5KC8Q8abfuvdXbRfibONM+woyj6o16lAY6TmYRUfoaPXaFmRplIXm0bQ3xN6gnfPikBPFxOSh0ptMpPZctBDYRF0uJsM69AWNDojXkQYBLY3xqDcW2Y6S4=;7FzHcGzmrbtQT3YBHDe8Ig=="
+secured: "s7EPsij89wCfY7Y/yaj9Tux6wYDrB208drKGfMFGuL+mjZlvkXQdiUACHRAIgmYOdTAbrJm1TzR9iWp3VtwjRYRjcOlEHF1QeCDQo7FnB/7kx7cEyWrwGkCNXN8KgEN8INW2XQG6jekerXPj0mcTrkvocvdIqoPbNx2ou3LWC9w3bhgd7DNOx5QaA6QDA4+6eJ3JYI6yx+ub/0POSs0MI6wSSf+SRV9CgqEj+90sVDNKmAzA0ljpga+5td+iNbEpr4x7eOjCIbnjc3YA1n0uDplO+OJa2TnI8qZp6UFkB8gL0F6E+cmnGce98rOgsTZY+R6f6dF/++mfR7hg8P9rCs8a3a5a+HkLvgZD9T723JDGCx3t9wkBCIEYUE7LpHYYFXFf28U/j3wuxVfRiLcjJA1RW7Hz80bW5wU0QIlBykHpZQDD/IkrYNpIEf/ejUQ3sZnlvUJhgmQum/dpp/hZkEryXgkRCwwu305xHN2JKDBKq1v0fbY4RIHp/Or9aTc60+QgYex8J3pZ4m+uKCDngQ==;sAx4g9xeSR1oF/X/LJRkXg=="
 ---
 

@@ -51,7 +51,16 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 81
+  - title: "Tesla's insane new Dojo D1 AI chip, a full transcript of its unveiling"
+    excerpt: "This chip is manufactured on 7nm ... To sum it all, this is what it will be: it will be the fastest AI training computer -- 4x the performance at the same cost, 1.3x better performance-per-watt -- that is energy-saving, and 5x smaller footprint."
+    publishedDateTime: 2021-08-20T10:42:00Z
+    webUrl: "https://www.tweaktown.com/news/81229/teslas-insane-new-dojo-d1-ai-chip-full-transcript-of-its-unveiling/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 51
 
-secured: "qg+yokt8mG1750iZ6IheJZ8k+Rx6tV1kdlRIy/MH7519Ocd6P4IE9nZfQooTO0f3e0XxVfw/73z8UZllX8UJiXqt7GZJj2mDZH7I4IKTCdnAfP4PeNUGLcb016ZnXzer9zvq6Y/POzvEPxcr//IW530tUpfPneQgr/4ipwzbmP2k/rLBzccmCn3vKQxgVbJ8bFyUiVHfSka7UjDKu1lbzgEtj7GPNwupY9sZeKuYWGcyNzAsXTeK74lhqJRvET/pyoT7eU5IVwmYrYr6rPp0os1CjsldxKvxMbkYWIGAAVSG4BEF9ELQBA/Ms2B8iLbZFJF9gasMmg/oLdf/4yEUQLHG2Zsd5RKaVqZRKu+crA4=;ozvsVTJ9j+0DqpuFSl1gig=="
+secured: "sp6ZLfWSKjEQWDHjrBmeZJo8dyxDM7J8Ao/mBn899Z5J2Vg3H8HDuXJbAvndRcitIbKi640zTiVgiqVJTFM16zY9KtNHN20/CjlAiFYD/rrEiTd69Bnp3RB4mP/+rTpEhZQ/MlXiKxdQrbpBsoI/dUmaXSMBUSANDHcrjk9TUUIVcjxM27RthI0qIv5jnCRI1YfQGHpSCTG+M2u5J/Lr2aL5wjCmQ58hJPETH/a1qJHlFYfLXIwwt2RwJTIWYIS9hK3avQWCZCGRc6bLX4fBg0HTMesYGXeUF5YgFUB+RWiL3EtUpKCFKkjNxLZxdOuxgUu79ev0h2yMtCMZ/GPMyqZZrD4d3zvfW0oqej0oBM2+TSvnuL6uYwmrIkJ+0X48JE3KKKZpFvtJRElqthG7d1fRsC1c4zMm1RBLp2O1rjuUTzmMHI973iSVZDd8czJUTi9UwdhUSWKrJk16L5M2v43CMF8DaVBK+xAVa0qfk08BkVIraaFakrxPJgXoOA3gHEm9cGsDzXRVBhd62S0Itw==;vdnXMWiMBWf95YXnvYFV1A=="
 ---
 

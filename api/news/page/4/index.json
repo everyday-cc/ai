@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-17-use-block-kit-when-integrating-amazon-lex-bots-with-slack.md",
+      "title": "Use Block Kit when integrating Amazon Lex bots with Slack",
+      "excerpt": "If you’re integrating your Amazon Lex chatbots with Slack, chances are you’ll come across Block Kit. Block Kit is a UI framework for Slack apps. Like response cards, Block Kit can help simplify interactions with your users. It offers flexibility to format your bot messages with blocks, buttons, check",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-block-kit-when-integrating-amazon-lex-bots-with-slack/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-block-kit-when-integrating-amazon-lex-bots-with-slack/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/04/ML-2976-image001.jpg",
+          "width": 795,
+          "height": 389,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-17T08:48:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-wipro-unveils-wipro-aws-launch-pad-co-innovation-center-in-sao-paulo.md",
+      "title": "Wipro unveils Wipro AWS Launch Pad co-innovation center in São Paulo",
+      "excerpt": "Wipro Limited on Tuesday, August 17, 2021, unveiled the Wipro AWS Launch Pad co-innovation center in São Paulo.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/business/wipro-unveils-wipro-aws-launch-pad-co-innovation-center-in-so-paulo-702070",
+      "originalUrl": "https://www.thehansindia.com/business/wipro-unveils-wipro-aws-launch-pad-co-innovation-center-in-so-paulo-702070",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2021/08/17/1102565-wipro-aws.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/business/wipro-unveils-wipro-aws-launch-pad-co-innovation-center-in-so-paulo-702070",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/business/wipro-unveils-wipro-aws-launch-pad-co-innovation-center-in-so-paulo-702070",
+      "publishedDateTime": "2021-08-17T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-17-conga-buys-ai-startup-that-helps-companies-understand-how-contracts-will-affect-revenue.md",
       "title": "Conga buys AI startup that helps companies understand how contracts will affect revenue",
       "excerpt": "Revenue operations company AppExtremes LLC, which does business as Conga, is boosting its contract management capabilities by acquiring a startup called Contract Wrangler Inc. for an undisclosed price.",
@@ -1144,110 +1239,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-knee-replacement-robot-does-custom-implants.md",
-      "title": "Knee replacement robot does custom implants",
-      "excerpt": "Personalized medicine is transforming treatment, but joint replacement is still a largely off-the-shelf affair. A startup combining artificial intelligence, robotics, and 3D printing wants to change that,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/knee-replacement-robot-does-custom-implants/",
-      "originalUrl": "https://www.zdnet.com/article/knee-replacement-robot-does-custom-implants/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/08/17/3affa5e0-7748-4ba8-8069-cda35717b3e0/knee-replacement-monogram.jpg",
-          "width": 1559,
-          "height": 991,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/knee-replacement-robot-does-custom-implants/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/knee-replacement-robot-does-custom-implants/",
-      "publishedDateTime": "2021-08-16T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-microsoft-azure-government-top-secret-has-hit-general-availability.md",
-      "title": "Microsoft Azure Government Top Secret has hit general availability",
-      "excerpt": "Microsoft has announced that Azure Government Top Secret, its cloud offering dealing with modernizing infrastructure and data management tooling for classified U.S. Government operations, has hit GA.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/microsoft-azure-government-top-secret-has-hit-general-availability/",
-      "originalUrl": "https://www.neowin.net/news/microsoft-azure-government-top-secret-has-hit-general-availability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 239,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2021/08/1629183549_2b62ae85-b75c-450d-9d5d-8a11108c2d45_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-16T20:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

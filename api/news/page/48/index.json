@@ -2,6 +2,250 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2021-07-15-kenyas-aifluence-closes-1m-for-its-ai-powered-influencer-marketing-platform.md",
+      "title": "Kenya’s AIfluence closes $1M for its AI-powered influencer marketing platform",
+      "excerpt": "Influencer marketing is one of the fastest-growing and one of the most impactful media channels today. There’s a growing ad-blocking movement and key demographics are spending less time in front of TVs.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/07/15/kenyas-aifluence-closes-1m-for-its-ai-powered-influencer-marketing-platform/",
+      "originalUrl": "https://techcrunch.com/2021/07/15/kenyas-aifluence-closes-1m-for-its-ai-powered-influencer-marketing-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2014/12/influencer.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/07/15/kenyas-aifluence-closes-1m-for-its-ai-powered-influencer-marketing-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/15/kenyas-aifluence-closes-1m-for-its-ai-powered-influencer-marketing-platform/amp/",
+      "publishedDateTime": "2021-07-15T04:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-unlocking-value-with-privacy-preserving-machine-learning.md",
+      "title": "Unlocking Value With Privacy-Preserving Machine Learning",
+      "excerpt": "To address this unprecedented need, machine learning (ML) is proving to be a powerful tool for uncovering the value locked within data. However, with power comes responsibility, and in order to leverage ML effectively,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cpomagazine.com/insights/unlocking-value-with-privacy-preserving-machine-learning/",
+      "originalUrl": "https://www.cpomagazine.com/insights/unlocking-value-with-privacy-preserving-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cpomagazine.com/wp-content/uploads/2021/07/unlocking-value-with-privacy-preserving-machine-learning_1500.jpg",
+          "width": 1500,
+          "height": 860,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cpomagazine.com/data-privacy/unlocking-value-with-privacy-preserving-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/unlocking-value-with-privacy-preserving-machine-learning/amp/",
+      "publishedDateTime": "2021-07-15T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CPO Magazine",
+        "domain": "cpomagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-rajnath-singh-launches-artificial-intelligence-based-grievance-analysis-app.md",
+      "title": "Rajnath Singh Launches Artificial Intelligence-Based Grievance Analysis App",
+      "excerpt": "With the launch of an artificial intelligence (AI) based grievance analysis application called CPGRAMS, Defence Minister Rajnath Singh on Thursday said the country is moving towards citizen-centric reforms with scientific knowledge and technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/india-news/rajnath-singh-launches-ai-based-grievance-analysis-app-2487325",
+      "originalUrl": "https://www.ndtv.com/india-news/rajnath-singh-launches-ai-based-grievance-analysis-app-2487325",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2020-12/al8qqheo_rajnath-singh-650_625x300_30_December_20.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/india-news/rajnath-singh-launches-ai-based-grievance-analysis-app-2487325?amp=1&akamai-rum=off",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/rajnath-singh-launches-ai-based-grievance-analysis-app-2487325?amp=1&akamai-rum=off",
+      "publishedDateTime": "2021-07-15T03:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-insights-on-the-31-billion-robotics-global-market-to-2025-impact-analysis-of-covid-19.md",
+      "title": "Insights on the $31 Billion Robotics Global Market to 2025 - Impact Analysis of COVID-19",
+      "excerpt": "The Global Robotics Market was valued at around US$ 31 Billion in 2020 and the market is expected to register a double digit CAGR over the forecast period of 2021 - 2025. The adoption of robots across a wide range of industries including manufacturing,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/insights-on-the-31-billion-robotics-global-market-to-2025---impact-analysis-of-covid-19-2021-07-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/insights-on-the-31-billion-robotics-global-market-to-2025---impact-analysis-of-covid-19-2021-07-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T03:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-building-ethical-ai-products-can-put-businesses-at-a-competitive-advantage.md",
+      "title": "Building ethical A.I. products can put businesses at a competitive advantage",
+      "excerpt": "They are able to automate repetitive tasks, analyze large volumes of data, recommend content, translate languages and even play games. But the current scope of things that AI can do is relatively ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/07/15/building-ethical-ai-products-can-put-businesses-at-competitive-advantage.html",
+      "originalUrl": "https://www.cnbc.com/2021/07/15/building-ethical-ai-products-can-put-businesses-at-competitive-advantage.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106908631-1625805682269-gettyimages-1327731017-vcg111338081794.jpeg?v=1626330979",
+          "width": 6016,
+          "height": 4016,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/07/15/building-ethical-ai-products-can-put-businesses-at-competitive-advantage.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/15/building-ethical-ai-products-can-put-businesses-at-competitive-advantage.html",
+      "publishedDateTime": "2021-07-15T03:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-with-general-motors-40-ytd-3-ways-it-can-power-up-long-term-portfolios.md",
       "title": "With General Motors +40% YTD, 3 Ways It Can Power Up Long-Term Portfolios",
       "excerpt": "Stocks Analysis by Investing.com (Tezcan Gecgil/Investing.com) covering: General Motors Company, Microsoft Corporation, Ford Motor Company, Walmart Inc. Read Investing.com (Tezcan Gecgil/Investing.com)'s latest article on Investing.",
@@ -867,256 +1111,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-toyotas-woven-planet-acquires-hd-mapping-startup-carmera.md",
-      "title": "Toyota’s Woven Planet acquires HD mapping startup Carmera",
-      "excerpt": "Woven Planet Holdings — an entity created by Toyota to invest in, develop and eventually bring future of transportation technologies like automated driving to market — has acquired HD mapping startup Carmera for an undisclosed amount.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/14/toyotas-woven-planet-acquires-hd-mapping-startup-carmera/",
-      "originalUrl": "https://techcrunch.com/2021/07/14/toyotas-woven-planet-acquires-hd-mapping-startup-carmera/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 254,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/07/Cobra_Tokyo_PoC_animated.gif",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/07/14/toyotas-woven-planet-acquires-hd-mapping-startup-carmera/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/14/toyotas-woven-planet-acquires-hd-mapping-startup-carmera/amp/",
-      "publishedDateTime": "2021-07-14T14:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-ibm-chief-data-scientist-makes-the-case-for-building-ai-factories.md",
-      "title": "IBM chief data scientist makes the case for building AI factories",
-      "excerpt": "IBM chief data scientist John Thomas makes the case for building AI factories to increase adoption of best data science practices at scale.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/14/ibm-chief-data-scientist-makes-the-case-for-building-ai-factories/",
-      "originalUrl": "https://venturebeat.com/2021/07/14/ibm-chief-data-scientist-makes-the-case-for-building-ai-factories/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/japanai-e1598883828258.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/14/ibm-chief-data-scientist-makes-the-case-for-building-ai-factories/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/14/ibm-chief-data-scientist-makes-the-case-for-building-ai-factories/amp/",
-      "publishedDateTime": "2021-07-14T13:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-holly-herndon-releases-ai-deepfake-tool-that-lets-others-make-music-with-her-voice.md",
-      "title": "Holly Herndon Releases AI Deepfake Tool That Lets Others Make Music With Her Voice",
-      "excerpt": "W]e think we have found a way to allow people to perform through my voice, reduce confusion by establishing official approval, and invite everyone to benefit from the proceeds generated",
-      "sourceUrl": null,
-      "webUrl": "https://www.rollingstone.com/music/music-news/holly-herndon-ai-deepfake-tool-1197200/",
-      "originalUrl": "https://www.rollingstone.com/music/music-news/holly-herndon-ai-deepfake-tool-1197200/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rollingstone.com/wp-content/uploads/2021/07/602ce97df0ac5c08e9c98d5578bbe38e54167b86.jpg",
-          "width": 1800,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.rollingstone.com/music/music-news/holly-herndon-ai-deepfake-tool-1197200/amp/",
-      "cdnAmpWebUrl": "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/music/music-news/holly-herndon-ai-deepfake-tool-1197200/amp/",
-      "publishedDateTime": "2021-07-14T13:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Rolling Stone",
-        "domain": "rollingstone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-lambda-labs-raises-15m-for-ai-optimized-hardware-infrastructure.md",
-      "title": "Lambda Labs raises $15M for AI-optimized hardware infrastructure",
-      "excerpt": "Among these are the TensorBook, a laptop with a dedicated GPU, and a workstation product with up to four desktop-class GPUs for AI training. Lambda also offers servers including one designed to be ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/14/lambda-labs-raises-15m-for-ai-optimized-hardware-infrastructure/",
-      "originalUrl": "https://venturebeat.com/2021/07/14/lambda-labs-raises-15m-for-ai-optimized-hardware-infrastructure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/AI-e1621941163863.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/14/lambda-labs-raises-15m-for-ai-optimized-hardware-infrastructure/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/14/lambda-labs-raises-15m-for-ai-optimized-hardware-infrastructure/amp/",
-      "publishedDateTime": "2021-07-14T13:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-global-speech-and-voice-recognition-technology-market-2021-top-industry-trend-and-segments-analysis-upto-2026.md",
-      "title": "Global Speech and Voice Recognition Technology Market 2021 Top Industry Trend and Segments Analysis upto 2026",
-      "excerpt": "The latest updated report published by MarketQuest.biz titled Global Speech and Voice Recognition Technology Market 2021 by Company, Regions, Type and Application, Forecast to 2026 provides a better understanding of the overall market analytics and valuation of the market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-speech-and-voice-recognition-technology-market-2021-top-industry-trend-and-segments-analysis-upto-2026-2021-07-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-speech-and-voice-recognition-technology-market-2021-top-industry-trend-and-segments-analysis-upto-2026-2021-07-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-14T13:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

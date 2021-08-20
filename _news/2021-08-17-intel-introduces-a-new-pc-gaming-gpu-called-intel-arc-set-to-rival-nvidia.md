@@ -195,6 +195,20 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "The Full Nerd ep. 188: Intel's 12th-gen Alder Lake and Arc GPU"
+    excerpt: "You can read more about Alder Lake in Mark Hachman's story. The Full Nerd gang also talks about Intel's new Arc GPU, which breaks cover with hardware ray tracing support and AI-based upsampling to compete with Nvidia's DLSS 2.0. For more details ..."
+    publishedDateTime: 2021-08-20T19:19:00Z
+    webUrl: "https://www.pcworld.idg.com.au/article/690699/full-nerd-ep-188-intel-12th-gen-alder-lake-arc-gpu/"
+    type: article
+    provider:
+      name: idg.com.au
+      domain: idg.com.au
+    quality: 39
+    images:
+      - url: "https://www.idgcdn.com.au/article/images/800x800/dimg/tfn21_188_tfnep188_v1-100900097-orig.jpgautowebp"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Beware Nvidia! Intel Arc is the New Consumer GPU Brand Coming to Devices in 2022 With Ray Tracing, Super Sampling and More"
     excerpt: "Beware Nvidia! Intel Arc is the New Consumer GPU Brand Coming to Devices in 2022 With Ray Tracing, Super Sampling and More -"
     publishedDateTime: 2021-08-17T06:32:00Z

@@ -2,23 +2,27 @@
 category: news
 title: "Next therapy for Covid maybe be at your local pharmacy"
 excerpt: "Several drugs that are already in use for other purposes, including one dietary supplement, have shown to block or reduce infection by SARS-CoV2, the virus causing Covid-19, in cells, researchers have found."
-publishedDateTime: 2021-08-20T06:10:00Z
-originalUrl: "https://www.sify.com/news/next-therapy-for-covid-maybe-be-at-your-local-pharmacy-news-international-viugkeiacdhij.html"
-webUrl: "https://www.sify.com/news/next-therapy-for-covid-maybe-be-at-your-local-pharmacy-news-international-viugkeiacdhij.html"
-ampWebUrl: "https://www.sify.com/news/next-therapy-for-covid-maybe-be-at-your-local-pharmacy-news-international-viugkeiacdhij.html"
-cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/next-therapy-for-covid-maybe-be-at-your-local-pharmacy-news-international-viugkeiacdhij.html"
+publishedDateTime: 2021-08-20T09:12:00Z
+originalUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=865021"
+webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=865021"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: Daijiworld
+  domain: daijiworld.com
 
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "http://www.daijiworld.in/images3/plywood_082021_1.jpg"
+    width: 580
+    height: 386
+    isCached: true
 
 related:
   - title: "Upcoming Therapy for COVID-19 Maybe be at Local Pharmacy"
@@ -33,6 +37,6 @@ related:
       domain: medindia.net
     quality: 39
 
-secured: "ZKWqNZOMh7uwt/tjmNCR4d1dzOmd9tpZGr/uicQYBDVS2sv2yr6g9ImTSMGIwP0gAnIOaLs1SQHMm4F/1mMtHWww/8fF4dtpRYul1+SukBL9D0SuHju6tMbMkBbQ0i+C1V75zmkxZZzAQWISvmzl4ALBb2QunhScSK6xUfZUSjn3Vo5DU6w+6ug8dl0hzPhD72qIGAXPaVDSmQg7KV55aBo3ZeLPyojo8rGOQdDsgJ/V3AudASrqNrmoaV0xQvJ90Lix/wpuZTQxOJnDV6QCmO5tMrhyl2sIQI4bXS+sXy0UOiILglVAZR8uJdnjbhyJcJoxBFDNkOtuuTG5duHmB2csv59S/PY8qGM/b8PlTAs=;DVxm6iEVg5ekV8TfAs+Dyw=="
+secured: "+dLRCPeteORtvfHprfGkkHswqmLmLkOV13TvZInzUbnXfhFZSUweSBbkZcm/RiTjtsCDDHPhOgofKgE1CV5kZ4zxTnHCTW7cCDBPztd+ER2/8hYAk44l4gqCklVpAgPzAbG4Hb0TlwTot8jfh08ftHmv077c7UdgC4ig5aQMxcxLmWoAYbxl5qSpdkP/uMoTH0B8ktBg0XjFvYdR/eDOMVhE7pLuR4l0WYVarKjRm0aZO9dFi+HiFcRz+EY7wz1nRnNqudmbabOtG7SfM6IeFr09bU/lirmXWEw2vZS63/Atz3/3BtNMrWBpD1W6GwX5AnDyVWawwQRCpTqJ+b1WbngqGLJQhve/ZTrEAogIl4U=;QHoW6UWNVAS0qZ29vevuDA=="
 ---
 

@@ -24,19 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "How to achieve an AI-driven competitive advantage for your organisation"
-    excerpt: "Welcome to the third and final episode of this three part series on ‘Liberating data: the new paradigm to drive business success and customer delight’, brought to you by Google Cloud, Accenture and IDG Communications."
-    publishedDateTime: 2021-08-16T03:22:00Z
-    webUrl: "https://www.cio.com/article/3629457/how-to-achieve-an-ai-driven-competitive-advantage-for-your-organisation.html"
+  - title: "Decision Automation Industry Leaders Partner to Offer Free Training to Help Organizations Maximize Enterprise AI Efforts"
+    excerpt: "InRule Technology®, provider of the leading decision platform for automating mission-critical business decisions, today announced a free online training session to help organizations better understand how to leverage business rules and"
+    publishedDateTime: 2021-08-17T13:18:00Z
+    webUrl: "https://www.lelezard.com/en/news-19955551.html"
     type: article
     provider:
-      name: CIO
-      domain: cio.com
-    quality: 37
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 14
     images:
-      - url: "https://images.idgesg.net/images/article/2021/08/databrandedwide-3000x3000px-100899406-large.jpg"
-        width: 1200
-        height: 1200
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "guardDog.ai Launches Dealer Program for Integrators to Bring Autonomous Incident Response Technology to New Customer Channels"
+    excerpt: "Guard Dog Solutions, Inc., dba guardDog.ai, a rapidly expanding leader in cybersecurity solutions for consumers and businesses, today announced a dealer program for Systems Integrators, MSSP's, and IT Security Professionals nationwide."
+    publishedDateTime: 2021-08-17T14:06:00Z
+    webUrl: "https://www.lelezard.com/en/news-19955937.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 12
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "gJs0laZWcIJsDuUUjWfCa12nOn0dxGk4pDMUi/MzfvGEJnvd16yFYYUzFk1jWnIFpl3pbkXM0jSkhMjy8rAJoTb2VFR58Q45vWotdguZlbSSeU7MAKunbBLbkDPGLeirKc3QFNIXGEAhLCfPCJqrGYiACfVYYERgIHg8YoZ02rGdCblSkaBOOuIOZy8bZ7yminBPEW3MHq9ZjIYu84KLfzc2I8sLawyz/K3acn1TQFlW0JzuPiMBr3VzXrS06AP1yBG4WRRAIPJ1MzQfIDYVD+aJKKo5O6DKK20CXZXgqzP4Tj64NHCHlH0r7FBhDMk0n9vHC2YAMycIt1w2FtKFLqWYq7ROCd/NOuVUyviW33k=;x68vXZj7LoLOqNySZPIARg=="

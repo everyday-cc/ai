@@ -22,22 +22,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Artificial Intelligence in Retail Market Size,Share,Recent Study by 2027|Microsoft, Nvidia, Amazon Web Services"
-    excerpt: "“Los Angeles, United States, Aug 2021,- QY Research has recently published a new report, titled Global Artificial Intelligence in Retail Market Report, History and Forecast 2016-2027, Breakdown Data by Companies, Key Regions, Types and Application The ..."
-    publishedDateTime: 2021-08-16T04:17:00Z
-    webUrl: "https://www.openpr.com/news/2355656/artificial-intelligence-in-retail-market-size-share-recent"
-    ampWebUrl: "https://www.openpr.com/amp/2355656/artificial-intelligence-in-retail-market-size-share-recent"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2355656/artificial-intelligence-in-retail-market-size-share-recent"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 86
-    images:
-      - url: "https://cdn.openpr.com/U/8/U816958276_g.jpg"
-        width: 800
-        height: 407
-        isCached: true
   - title: "AI in Fashion Market to See Huge Growth by 2026 | Google, AWS, Microsoft, Facebook"
     excerpt: "The latest study released on the Global AI in Fashion Market by AMA Research evaluates market size, trend, and forecast to 2026. The AI in Fashion market study covers significant research data and proofs to be a handy resource document for managers,"
     publishedDateTime: 2021-08-17T21:33:00Z
@@ -49,38 +33,31 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 67
-  - title: "Big bet on AI punches up Nvidia stock"
-    excerpt: "Nvidia (NVDA) reported blow-out earnings Wednesday after the close. Revenues are surging as its high-end chips for graphics and data centers remain in high demand. The San Jose, Calif.-based company reported revenues surged 68% during the second quarter,"
-    publishedDateTime: 2021-08-19T18:57:00Z
-    webUrl: "https://www.thestreet.com/tech/news/nvdajdm081921"
-    ampWebUrl: "https://www.thestreet.com/tech/.amp/news/nvdajdm081921"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/tech/.amp/news/nvdajdm081921"
+  - title: "This Robot-Run Large Cap ETF Has Less Apple, Microsoft, Amazon, Facebook Compared To SPY And Is Bullish On These Manufacturing Stocks Instead"
+    excerpt: "The Qraft AI-Enhanced US Large Cap ETF (NYSE: QRFT) has revealed that it has less holdings in “big tech” companies such as Microsoft Corp."
+    publishedDateTime: 2021-08-18T11:51:00Z
+    webUrl: "https://markets.businessinsider.com/news/etf/this-robot-run-large-cap-etf-has-less-apple-microsoft-amazon-facebook-compared-to-spy-and-is-bullish-on-these-manufacturing-stocks-instead-1030741520"
     type: article
     provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 59
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
     images:
-      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTgzMjYwMzgyMjI2MjkzNzk4/nvidia-data-science-home-og-social-share.jpg"
-        width: 620
-        height: 326
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/clayton-cardinalli-hkjnx0edbje-unsplash.jpg"
+        width: 1024
+        height: 768
         isCached: true
-  - title: "Speech and Voice Recognition Market Analysis and Forecast by 2027|Microsoft Corporation, Alphabet, Cantab Research Limited"
-    excerpt: "Los Angeles United States Aug 2021 QY Research has recently published a new report titled Global Speech and Voice Recognition Market Report History and Forecast 2016 2027 Breakdown Data by Companies Key Regions Types and Application The report has been"
-    publishedDateTime: 2021-08-16T04:03:00Z
-    webUrl: "https://www.openpr.com/news/2355652/speech-and-voice-recognition-market-analysis-and-forecast"
-    ampWebUrl: "https://www.openpr.com/amp/2355652/speech-and-voice-recognition-market-analysis-and-forecast"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2355652/speech-and-voice-recognition-market-analysis-and-forecast"
+  - title: "Machine Learning as a Service (MLaaS) Market 2021 to Witness Stunning Growth-Microsoft Corporation, IBM Corporation, Google LLC"
+    excerpt: "Market Research Report 2021-2026 published by Market Insights Reports is a significant source of keen information for business specialists. It furnishes the Machine Learning as a Service (MLaaS) business outline with development investigation and historical and futuristic cost analysis,"
+    publishedDateTime: 2021-08-17T16:47:00Z
+    webUrl: "https://www.openpr.com/news/2358161/machine-learning-as-a-service-mlaas-market-2021-to-witness"
+    ampWebUrl: "https://www.openpr.com/amp/2358161/machine-learning-as-a-service-mlaas-market-2021-to-witness"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2358161/machine-learning-as-a-service-mlaas-market-2021-to-witness"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 35
-    images:
-      - url: "https://cdn.openpr.com/U/8/U816324049_g.jpg"
-        width: 800
-        height: 407
-        isCached: true
+    quality: 43
 
 secured: "MT6DikBVOSac5O/azPKzpjSCSgUWJlJedkJwvwMBp+o2jUyjRe4tPXXMH5p36cPl1Lq0xBsAmL+/j8rqX+ceSE2hJwQ1Oq3bvSn8jKonYVe3meqWVAbJe2snYF1ONcSME84wwin98mhCtwHZmbjeohgAxdP7xFpdULS4VHEYe/O6kD5B9VQgBjmeLkOgbYWQZdwhgCJVGzplJXvqo4hnwc0ldZoJ2lcxR1ZEl/Z6pzKktsHHYemMU4hrYHp1tNZL219v3iuyNA1LZCqrSXXadHuPb5vMTrXxiqIelajX73TpC8hdJaKpf4e2WxIWIq4hvETtIsLlWktWumfOHJWUDxM3dXVSgtqrwNd/Xuh63b0=;5T6eyifdeiPPtlipCzuSBw=="
 ---

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Sentiance wins 2021 FinTech Award for \"Best FinTech Mobile Telematics Provider - Europe\""
-excerpt: "The FinTech Awards by Wealth & Finance International ... The main reasons why Sentiance won this award are its competitive AI technology, its innovative in-house behavior change team, and the ..."
-publishedDateTime: 2021-08-19T12:15:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/sentiance-wins-2021-fintech-award-for-best-fintech-mobile-telematics-provider-europe-1030745487"
-webUrl: "https://markets.businessinsider.com/news/stocks/sentiance-wins-2021-fintech-award-for-best-fintech-mobile-telematics-provider-europe-1030745487"
+excerpt: "Sentiance, an intelligence-driven data science and behavior change company, is awarded the \"Best FinTech Mobile Telematics Provider – Europe \" award by Wealth & Finance International. The FinTech Awards by Wealth & Finance International recognize and spotlight creative innovation,"
+publishedDateTime: 2021-08-19T14:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/sentiance-wins-2021-fintech-award-for-best-fintech-mobile-telematics-provider-europe-1030745508"
+webUrl: "https://markets.businessinsider.com/news/stocks/sentiance-wins-2021-fintech-award-for-best-fintech-mobile-telematics-provider-europe-1030745508"
 type: article
 quality: 45
 heat: 45
@@ -44,6 +44,6 @@ related:
         height: 751
         isCached: true
 
-secured: "5J6eENe1yhKPMdGeF94Z4W1wzrxWiaCrAcKVPjXEtrft1lfp29u7OoRmWHQ2N9hinR3CQ+K8vaS0j8bsT67U8Ak0pqE+uAiO57bIcnFAGXvopDKW6TKHyJnq6WqdV+1quDZG+27zHBv3ZcRNHRrwhXqkuluWFho5Su9Wtw2iSb91sUYvphNgbad6CKR1aSu8iXJzwH1hRK18r3I7prSRZl0V+72o65xAHeWkByFOO0p+FnzH/ZJC7+JHcfFqfZeqeK+8D+519X4wUZrpDVtBaebEZw0stI8uR34AKTIvE3+PXC7DmDz+ACeIJTDZB4QaX/q1PsCG9XsaCh1LHChEyw42lmGo84o35jtctaERjzo=;2pmq/sThxwbxadrKzo55wQ=="
+secured: "HnNTCBTT7CnZPvErGHVmV4rUalcY9k5lPh4wH1nOGvBgcMEnEeY3mK1aG48EFFlMTvZH+3n7QeA8NHrR0zXVx2ZsuslwvgtyE+bWiklY+LD9pudM2HCbWQgktIGuc3qrDGkqZ/c5+YCb06q2+wLxkt9RakxDA/1HWvWYvUF3wWFEbPhKifaUrraceWxRxkxMSsAg5BEQIpEHJw6UHU5MfRtGFr4p2h4ZfkImueFODvkOU5KAtMWkFWD1g0TaqUhp5VCJ55fWhJDgmHRIt/zwxCLlT8fTX+Uwhy7A6T2ZahADjXwfAQ1AHtDMrlssCYEa9nKQGjfC2Xh1C2f9xSa6QNSF59720OP3pfJmXYd49P8=;1rzJL8JQ9kmr6Z0o9Yx+wg=="
 ---
 

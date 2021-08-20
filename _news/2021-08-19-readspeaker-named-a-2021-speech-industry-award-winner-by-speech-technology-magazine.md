@@ -1,23 +1,29 @@
 ---
 category: news
 title: "ReadSpeaker Named a 2021 Speech Industry Award Winner by Speech Technology Magazine"
-excerpt: "ReadSpeaker, the most trusted, independent digital voice partner for global businesses, today announced that it was named a Speech Technology Magazine's 2021 Speech Industry Award winner. ReadSpeaker was selected as a result of the company's ongoing commitment to delivering industry-leading text-to-speech (TTS) solutions,"
-publishedDateTime: 2021-08-19T13:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-readspeaker-named-2021-speech-industry-award-winner-speech-/2021/08/19/9434285.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-readspeaker-named-2021-speech-industry-award-winner-speech-/2021/08/19/9434285.htm"
+excerpt: "ReadSpeaker, the most trusted, independent digital voice partner for global businesses, today announced that it was named a Speech Technology Magazine’s 2021 Speech Industry Award winner. ReadSpeaker was selected as a result of the company’s ongoing commitment to delivering industry-leading text-to-speech (TTS) solutions,"
+publishedDateTime: 2021-08-19T13:02:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-0695b677a7544b35bd94132602da90e9"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-0695b677a7544b35bd94132602da90e9"
 type: article
-quality: 0
-heat: 0
+quality: 18
+heat: 18
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "7Upcdsd/d15Ra3DUyQr80hIgM/OBUsNRDNwv4cO+ZeZdr9mlUVY2IFfEG3VUHOjZE4o3C5bPDSNrY0+AMNEii1gZejwPxwhWOT93aN0wzeTix9AQwPdJbTymSXMXSlFzXfg+IqFfUuMXAUbfns2K7QDIfB3Ak2dk6smacAiZbHMUCsX2+sKQVDIQ14mOr0psCqRnt2E6ShNJ9R8HQtlfqQjLcF9aYBOxnqp+v8EAUMF7wDwDw0THsoeC6pIovbDTimeDBF/6oAQP6An2EcGEu0tTCG6kSnqJU50N3BFiiJT9JFKZV79OXGdX/NWNl99/X9s99UrCQZCk+iVIS9bAkY8xCa7cPPGwQCU7SI1Zqeo=;SmT4Gt6V3V8QFsXLA5a2Zg=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "1YPoEDpjd8no4JZlxMfVLWQ/SD9v5hqiSiRm1JdLEtW8RBIc5YhjbVnhLY98dlgk7sii4G3pJaWFflJYwH/6Nlf6OSnQCeK4FoUkJUK0rFuhKJvr3pWGKSCUCby+q3GkfqkUP1HTiaTnhT9MFF3TqT7HjW8zooWwa3+UxLSTTQTuqlq17lnpUs8fvuh18BvPLILRLtOyYWmogFCsVBlRum4aTr7YpK4V9C/m70w05UYcOn4Qs1FD38nDkTXS2KSvTAVyq0a6lU8OJukh0N1dUP6HcZI7Z4/GOcRQU1CGamlDOLznT+Ob4FYoBuuhgXJ++4fj9iEZFkFtg6iEJOx3wKAfXAv+ZfnwagNuIqrZrcQ=;h6el8ltSEwxSV5vsnpyLbg=="
 ---
 

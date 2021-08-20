@@ -7,7 +7,7 @@ originalUrl: "https://www.aaas.org/news/bill-smart-brings-technical-expertise-ro
 webUrl: "https://www.aaas.org/news/bill-smart-brings-technical-expertise-robotics-and-ai-discussions-about-regulation"
 type: article
 quality: 62
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -56,6 +56,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Artificial Intelligence Technology Solutions Announces Details of Strategic Relationship with Ghost Robotics Corporation"
+    excerpt: "Integrating our QUGVs into their offering will certainly open doors and bring new opportunities for both companies” -Artificial Intelligence Technology Solutions ... it has signed an agreement with Ghost Robotics Corporation (\"Ghost\"), outlining the ..."
+    publishedDateTime: 2021-08-20T12:43:00Z
+    webUrl: "https://www.roboticstomorrow.com/news/2021/08/20/artificial-intelligence-technology-solutions-announces-details-of-strategic-relationship-with-ghost-robotics-corporation/17357/"
+    type: article
+    provider:
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 39
 
 secured: "mGZGxl7DXKRINrFCSjgBTVoGrXlABkClmg9j7/Alw8cd/OAfmtFXLtnUMWaqxandyMcz5EH7mvJ0FuwHlxFpX43htwGcAt7yLSnQRFkpoi/gxstgXrjAxSPovh4qLGmx4yOnSR7naafVW73P33DSjlRAwQHRQ4eT19a/SWsI8Aw8CLkQviYYxG7jA3CGbGbjbovBSDg089KFwK2C+3hCerWAWHfbRlGQQjK4K9ZkSuc5kP3+Q1oOgXzysoIJPLmfKqm9kREw2+x5iMmfAIG9QWrHHF32FH6LDftDNNcR5if2sG+Zys7Lve3iWtJBr8w73wz2u0yDgmelia84sELvLdvY/P+8E0qi/F4J/IODdzW+ra5zga8LPiPbo7k5vdKNpw11KVW2ufilFtUTtBd89H1laHW53oblul+N9jEtXBISerB1SMUFOQ3egvvwMonMj7BJ7F9biymQjASjH5CGYMsSYpF1KwY/6aFSzneHvWIJWejRCmxat+gMhsXPSf4vMZbz4lGB6BncS1BPbXCnjw==;OmOSLoMlV4O/2NoV6DgR1A=="
 ---

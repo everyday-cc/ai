@@ -2,6 +2,238 @@
   "page": 68,
   "value": [
     {
+      "path": "_news/2021-06-30-storj-crowdsources-infrastructure-to-undercut-cloud-giants.md",
+      "title": "Storj Crowdsources Infrastructure to Undercut Cloud Giants",
+      "excerpt": "Storj is counting on it. Related: How Storj Is Building a Storage Cloud Without Owning a Single Disk The seven-year-old Atlanta-based startup provides decentralized object-based cloud storage by renting excess storage capacity from companies and individuals.",
+      "sourceUrl": null,
+      "webUrl": "https://finance.yahoo.com/news/tiger-global-d1-lead-300-120000925.html",
+      "originalUrl": "https://www.datacenterknowledge.com/startups/storj-crowdsources-infrastructure-undercut-cloud-giants",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/3p18auIDmIr0MWfxa6dTMA--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/44e1d64891a394263399c09e6e903a11",
+          "width": 2000,
+          "height": 1334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-30T09:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Data Center Knowledge",
+        "domain": "datacenterknowledge.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-medidata-acorn-ai-synthetic-control-arm-named-best-ai-based-solution-for-healthcare-by-2021-ai-breakthrough-awards.md",
+      "title": "Medidata Acorn AI Synthetic Control Arm® Named “Best AI-based Solution for Healthcare” by 2021 AI Breakthrough Awards",
+      "excerpt": "However, an SCA can improve patient recruitment and retention by allowing for a study design where all or at least more patients can be treated with the experimental therapy ... to honoring excellence in Artificial Intelligence technologies, services ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.register-herald.com/region/medidata-acorn-ai-synthetic-control-arm-named-best-ai-based-solution-for-healthcare-by-2021/article_a495d921-24fb-5ab8-92a6-73240b430619.html",
+      "originalUrl": "https://www.register-herald.com/region/medidata-acorn-ai-synthetic-control-arm-named-best-ai-based-solution-for-healthcare-by-2021/article_a495d921-24fb-5ab8-92a6-73240b430619.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/3/1b/31ba3241-1f65-5860-9593-b4fa908b9fa5/60dc991277cd6.image.jpg?resize=645%2C630",
+          "width": 645,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-30T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Register-Herald",
+        "domain": "register-herald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-c3ai-fragmented-market-may-be-difficult-to-dominate.md",
+      "title": "C3.ai: Fragmented Market May Be Difficult To Dominate",
+      "excerpt": "The market for AI software is extremely large and growing rapidly, but fragmented and highly competitive. See why investing in C3.ai is a particularly speculative undertaking.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4437266-c3-ai-fragmented-market-difficult-to-dominate",
+      "originalUrl": "https://seekingalpha.com/article/4437266-c3-ai-fragmented-market-difficult-to-dominate",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1251037767/medium_image_1251037767.jpg",
+          "width": 768,
+          "height": 410,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4437266-c3-ai-fragmented-market-difficult-to-dominate",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4437266-c3-ai-fragmented-market-difficult-to-dominate",
+      "publishedDateTime": "2021-06-30T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-what-investors-should-know-about-baidus-ai-chip-spin-off.md",
+      "title": "What Investors Should Know About Baidu's AI Chip Spin-Off",
+      "excerpt": "Baidu (NASDAQ:BIDU) unveiled Kunlun, its artificial intelligence (AI) chip optimized for cloud-to-edge computing tasks, three years ago. At the time, it claimed the 14nm chip provided 1.5 to three times more processing power than NVIDIA's comparable T4 GPU for AI tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/06/30/what-investors-know-about-baidu-ai-chip-spin-off/",
+      "originalUrl": "https://www.fool.com/investing/2021/06/30/what-investors-know-about-baidu-ai-chip-spin-off/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F632101%2F1600829035136803.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 721,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/06/30/what-investors-know-about-baidu-ai-chip-spin-off/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/30/what-investors-know-about-baidu-ai-chip-spin-off/",
+      "publishedDateTime": "2021-06-30T08:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-zoom-to-acquire-real-time-translation-startup-kites.md",
+      "title": "Zoom to acquire real-time translation startup Kites",
+      "excerpt": "Zoom on Tuesday said it has signed a deal to acquire Kites, an AI startup focused on developing real-time translation tools. With the acquisition, Zoom hopes to \"improve meeting productivity and efficiency\" by adding \"multi-language translation capabilities\" to the video chat service,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/services-and-software/zoom-to-acquire-real-time-translation-startup-kites/",
+      "originalUrl": "https://www.cnet.com/tech/services-and-software/zoom-to-acquire-real-time-translation-startup-kites/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/Ms_zrkY2ZfQJR7X57i9S6le1_AE=/1200x630/2020/06/29/e721e8fc-6c98-4378-878b-5b350754a3fc/zoom-logo-apple-iphone-11-3436.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/zoom-to-acquire-real-time-translation-startup-kites/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/zoom-to-acquire-real-time-translation-startup-kites/",
+      "publishedDateTime": "2021-06-30T08:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-lip-reading-by-ai-self-driving-cars-is-either-alarming-or-ingenious.md",
       "title": "Lip-Reading By AI Self-Driving Cars Is Either Alarming Or Ingenious",
       "excerpt": "Advances in AI have enabled new apps for doing lip-reading, which could be a feature included into self-driving cars, alarmingly so or perhaps ingeniously.",
@@ -964,246 +1196,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-advancing-safe-deployment-with-aiopsintroducing-gandalf.md",
-      "title": "Advancing safe deployment with AIOps—introducing Gandalf",
-      "excerpt": "The continuous monitoring of health metrics is a fundamental part of this process, and this is where AIOps plays a critical role. In the post that follows, we introduce how AI and machine learning are used to empower DevOps engineers, monitor the Azure deployment process at scale, detect issues early,",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/advancing-safe-deployment-with-aiops-introducing-gandalf/",
-      "originalUrl": "https://azure.microsoft.com/blog/advancing-safe-deployment-with-aiops-introducing-gandalf/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/bac9753f-e782-4ece-987b-214cb2b012c9.png",
-          "width": 841,
-          "height": 431,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-30T02:00:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-chinas-didi-touts-tech-spending-ahead-of-wall-st-debut.md",
-      "title": "China's Didi touts tech spending ahead of Wall St debut",
-      "excerpt": "Early investors included Apple Inc., Japan’s Softbank, Alibaba and Chinese internet giants, Tencent Holding Ltd. and Baidu Inc. Didi ... into development of self-driving, electric vehicles ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fox23.com/news/chinas-didi-touts/DBXXNMFWEYG4ZRLYZ7NRQERQJU/",
-      "originalUrl": "https://www.fox23.com/news/chinas-didi-touts/DBXXNMFWEYG4ZRLYZ7NRQERQJU/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/cmg/XL7AELWQMP6C5P7XEBRG6NG5AA.jpg",
-          "width": 5349,
-          "height": 3487,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fox23.com/news/chinas-didi-touts/DBXXNMFWEYG4ZRLYZ7NRQERQJU/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-fox23-com.cdn.ampproject.org/c/s/www.fox23.com/news/chinas-didi-touts/DBXXNMFWEYG4ZRLYZ7NRQERQJU/?outputType=amp",
-      "publishedDateTime": "2021-06-30T01:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox 23",
-        "domain": "fox23.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-voiceitt-app-for-atypical-speech-a-triumph-in-disability-co-design.md",
-      "title": "Voiceitt App For Atypical Speech — A Triumph In Disability Co-Design",
-      "excerpt": "Voiceitt, a new app that can interpret the atypical speech of individuals with communication difficulties, represents a true victory for user-centered co-design. Working alongside disability organizations across the world,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gusalexiou/2021/06/30/voiceitt-app-for-atypical-speech---a-triumph-in-disability-co-design/",
-      "originalUrl": "https://www.forbes.com/sites/gusalexiou/2021/06/30/voiceitt-app-for-atypical-speech---a-triumph-in-disability-co-design/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60dbdaee2b0833da1c7afcff%2F0x0.jpg",
-          "width": 1086,
-          "height": 1086,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gusalexiou/2021/06/30/voiceitt-app-for-atypical-speech---a-triumph-in-disability-co-design/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gusalexiou/2021/06/30/voiceitt-app-for-atypical-speech---a-triumph-in-disability-co-design/amp/",
-      "publishedDateTime": "2021-06-30T00:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-artificial-intelligence-ai-in-bfsi-market-2021-is-booming-worldwide-with-eminent-key-players-amazon-web-services-aws-inc-avaamo.md",
-      "title": "Artificial Intelligence Ai In Bfsi Market 2021 is Booming Worldwide With Eminent Key Players | Amazon Web Services (AWS), Inc., Avaamo",
-      "excerpt": "The most recent research report on Artificial Intelligence Ai In Bfsi Market 2021 published by Stratagem Market Insights begins with the market description official report segmentation and classification The report offers a comprehensive analysis of the market so that perusers",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2317267/artificial-intelligence-ai-in-bfsi-market-2021-is-booming",
-      "originalUrl": "https://www.openpr.com/news/2317267/artificial-intelligence-ai-in-bfsi-market-2021-is-booming",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/6/U630260262_g.jpg",
-          "width": 621,
-          "height": 414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2317267/artificial-intelligence-ai-in-bfsi-market-2021-is-booming",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2317267/artificial-intelligence-ai-in-bfsi-market-2021-is-booming",
-      "publishedDateTime": "2021-06-29T23:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-github-introduces-an-ai-pal-to-help-you-code-better.md",
-      "title": "GitHub introduces an AI pal to help you code better",
-      "excerpt": "GitHub is already one of the most popular platforms to build and host coding projects. Last year, it launched a built-in Integrated Development Environment to let you code directl",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/github-copilot-ai-openai-code-tool",
-      "originalUrl": "https://thenextweb.com/news/github-copilot-ai-openai-code-tool",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FGitHub-copilot.jpg&signature=04c4e92701007a57aa8fde20946e8e81",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

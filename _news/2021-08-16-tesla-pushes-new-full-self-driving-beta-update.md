@@ -343,6 +343,22 @@ related:
         width: 1024
         height: 707
         isCached: true
+  - title: "Tesla Bot Goal to Automate Labor"
+    excerpt: "Tesla needs robots to install solar power. Mining, garbage collection and iron working is dangerous. Tesla needs to mine more materials for their batteries and cars. Steel working is needed for Tesla cars."
+    publishedDateTime: 2021-08-20T13:59:00Z
+    webUrl: "https://www.nextbigfuture.com/2021/08/tesla-bot-goal-to-automate-labor.html"
+    ampWebUrl: "https://www.nextbigfuture.com/2021/08/tesla-bot-goal-to-automate-labor.html"
+    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/08/tesla-bot-goal-to-automate-labor.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 59
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/08/Screen-Shot-2021-08-19-at-7.47.13-PM.jpg"
+        width: 1920
+        height: 1150
+        isCached: true
   - title: "6 Injured As Self-Driving Tesla Crashes In School Car Park In UK: Report"
     excerpt: "Five children and an adult were taken to hospital with injuries after a self-driving Tesla Inc Model 3 crashed in a school car park in southern England on Monday evening, the Telegraph reported."
     publishedDateTime: 2021-08-16T22:06:00Z

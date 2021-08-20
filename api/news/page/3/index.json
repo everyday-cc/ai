@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-18-accelerator-challenge-could-your-ai-startup-help-consumers-and-small-businesses-overcome-financial-challenges.md",
+      "title": "Accelerator challenge: Could your AI startup help consumers and small businesses overcome financial challenges?",
+      "excerpt": "AI program. The 2021 program is recruiting six to eight startups that can build AI-driven solutions designed to help consumers and small businesses unlock smart financial decisions, find more money, and gain complete confidence in their money choices.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/18/accelerator-challenge-could-your-ai-startup-help-consumers-and-small-businesses-overcome-financial-challenges/",
+      "originalUrl": "https://venturebeat.com/2021/08/18/accelerator-challenge-could-your-ai-startup-help-consumers-and-small-businesses-overcome-financial-challenges/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-875599880-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 617,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/18/accelerator-challenge-could-your-ai-startup-help-consumers-and-small-businesses-overcome-financial-challenges/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/18/accelerator-challenge-could-your-ai-startup-help-consumers-and-small-businesses-overcome-financial-challenges/amp/",
+      "publishedDateTime": "2021-08-18T07:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-08-18-social-media-expert-nick-rogers-explores-the-possibilities-and-limitations-of-ai-driven-platforms.md",
       "title": "Social Media Expert, Nick Rogers, Explores The Possibilities And Limitations Of AI-Driven Platforms",
       "excerpt": "Media Marketing Agency, have seized the opportunity to promote products like never before, representing various brands and growing the careers of up-and-coming influencers.",
@@ -258,7 +310,7 @@
       "originalUrl": "https://www.cnbc.com/2021/08/18/democrats-ask-ftc-to-investigate-teslas-self-driving-claims.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 574,
+      "heat": 584,
       "tags": null,
       "images": [
         {
@@ -765,7 +817,7 @@
       "originalUrl": "https://www.aaas.org/news/bill-smart-brings-technical-expertise-robotics-and-ai-discussions-about-regulation",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -798,6 +850,42 @@
         "AI in Robotics",
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-08-18-ai-in-fashion-market-to-see-huge-growth-by-2026-google-aws-microsoft-facebook.md",
+      "title": "AI in Fashion Market to See Huge Growth by 2026 | Google, AWS, Microsoft, Facebook",
+      "excerpt": "The latest study released on the Global AI in Fashion Market by AMA Research evaluates market size, trend, and forecast to 2026. The AI in Fashion market study covers significant research data and proofs to be a handy resource document for managers,",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/ai-in-fashion-market-to-see-huge-growth-by-2026-google-aws-microsoft-facebook/",
+      "originalUrl": "https://manometcurrent.com/ai-in-fashion-market-to-see-huge-growth-by-2026-google-aws-microsoft-facebook/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/ai-in-fashion-market-to-see-huge-growth-by-2026-google-aws-microsoft-facebook/?amp=1",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/ai-in-fashion-market-to-see-huge-growth-by-2026-google-aws-microsoft-facebook/?amp=1",
+      "publishedDateTime": "2021-08-17T14:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AWS AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -1097,101 +1185,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-use-block-kit-when-integrating-amazon-lex-bots-with-slack.md",
-      "title": "Use Block Kit when integrating Amazon Lex bots with Slack",
-      "excerpt": "If you’re integrating your Amazon Lex chatbots with Slack, chances are you’ll come across Block Kit. Block Kit is a UI framework for Slack apps. Like response cards, Block Kit can help simplify interactions with your users. It offers flexibility to format your bot messages with blocks, buttons, check",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-block-kit-when-integrating-amazon-lex-bots-with-slack/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-block-kit-when-integrating-amazon-lex-bots-with-slack/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/04/ML-2976-image001.jpg",
-          "width": 795,
-          "height": 389,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-17T08:48:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-wipro-unveils-wipro-aws-launch-pad-co-innovation-center-in-sao-paulo.md",
-      "title": "Wipro unveils Wipro AWS Launch Pad co-innovation center in São Paulo",
-      "excerpt": "Wipro Limited on Tuesday, August 17, 2021, unveiled the Wipro AWS Launch Pad co-innovation center in São Paulo.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/business/wipro-unveils-wipro-aws-launch-pad-co-innovation-center-in-so-paulo-702070",
-      "originalUrl": "https://www.thehansindia.com/business/wipro-unveils-wipro-aws-launch-pad-co-innovation-center-in-so-paulo-702070",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thehansindia.com/h-upload/2021/08/17/1102565-wipro-aws.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/business/wipro-unveils-wipro-aws-launch-pad-co-innovation-center-in-so-paulo-702070",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/business/wipro-unveils-wipro-aws-launch-pad-co-innovation-center-in-so-paulo-702070",
-      "publishedDateTime": "2021-08-17T08:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

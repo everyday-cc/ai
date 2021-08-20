@@ -372,6 +372,22 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Get Ready To Meet Tesla’s Humanoid Bot Powered By Vehicle AI"
+    excerpt: "Tesla’s AI Day event included a surprise announcement about an upcoming humanoid bot powered by the car’s autonomous fleet technology."
+    publishedDateTime: 2021-08-20T16:31:00Z
+    webUrl: "https://www.pymnts.com/artificial-intelligence-2/2021/tesla-bot-artificial-intelligence-vehicle-technology/"
+    ampWebUrl: "https://www.pymnts.com/artificial-intelligence-2/2021/tesla-bot-artificial-intelligence-vehicle-technology/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/artificial-intelligence-2/2021/tesla-bot-artificial-intelligence-vehicle-technology/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 74
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/08/robotics-1-457x305.jpeg"
+        width: 457
+        height: 305
+        isCached: true
   - title: "Tesla AI Day: How to Watch and Live Updates"
     excerpt: "How to Watch AI Day. Elon Musk announced via Twitter that AI day will be streamed for the public and press to view. The event is following a recent announcement of a NHTSA investi"
     publishedDateTime: 2021-08-20T01:12:00Z
@@ -412,6 +428,22 @@ related:
       - url: "https://images.hgmsites.net/lrg/tesla-bot_100803509_l.jpg"
         width: 1024
         height: 589
+        isCached: true
+  - title: "Elon Musk unveils humanoid robot to take over ‘boring’ work"
+    excerpt: "The ‘Tesla Bot,’ a prototype of which should be available next year, is designed to eliminate “dangerous, repetitive and boring tasks,” like bending over to pick something up, or go to the store"
+    publishedDateTime: 2021-08-20T16:13:00Z
+    webUrl: "https://www.mercurynews.com/2021/08/20/elon-musk-unveils-humanoid-robot-to-take-over-boring-work/"
+    ampWebUrl: "https://www.mercurynews.com/2021/08/20/elon-musk-unveils-humanoid-robot-to-take-over-boring-work/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/08/20/elon-musk-unveils-humanoid-robot-to-take-over-boring-work/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 59
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/08/bot_list.png?w=863&#038;h=443"
+        width: 863
+        height: 443
         isCached: true
   - title: "Elon Musk says Tesla's robot will make physical work a 'choice'"
     excerpt: "After dominating the electric vehicle market and throwing his hat into the billionaire space race, Tesla boss Elon Musk announced the latest frontier he is aiming to conquer: Humanoid robots. The iras"
@@ -455,6 +487,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tesla unveils a humanoid robot powered by its vehicle A.I called the Tesla Bot"
+    excerpt: "While no physical robot has been shown off yet, Elon Musk unveiled a new humanoid robot called the Tesla Bot. According to Musk, the purpose of this robot is to eliminate dangerous, repetitive, and boring tasks and it uses the same artificial intelligence and autopilot cameras that Tesla uses in their vehicles."
+    publishedDateTime: 2021-08-20T14:31:00Z
+    webUrl: "https://barrie360.com/tesla-unveils-a-humanoid-robot-powered-by-its-vehicle-a-i-called-the-tesla-bot/"
+    type: article
+    provider:
+      name: barrie360
+      domain: barrie360.com
+    quality: 52
+    images:
+      - url: "https://barrie360.com/wp-content/uploads/2021/08/Tesla-Bot.png"
+        width: 1000
+        height: 500
+        isCached: true
   - title: "Elon Musk says Tesla is building a humanoid robot for ‘boring, repetitive and dangerous’ work"
     excerpt: "By Matt McFarland, CNN Business Elon Musk said Thursday night at Tesla’s AI Day that the company is building a humanoid robot, and will probably have a prototype next year. “It’s basically going to start dealing with work that is boring,"
     publishedDateTime: 2021-08-20T08:59:00Z
@@ -483,7 +529,21 @@ related:
         width: 3473
         height: 1953
         isCached: true
+  - title: "Tesla will build a human-like robot to help drivers with “dangerous and repetitive tasks” (video)"
+    excerpt: "The Tesla Bot prototype, announced during the company’s Artificial Intelligence (AI) Day, will be unveiled next year. Tesla CEO Elon Musk announced Thursday that the company plans next year to release a humanoid robot called the Tesla Bot that will run ..."
+    publishedDateTime: 2021-08-20T16:23:00Z
+    webUrl: "https://amicohoops.net/tesla-will-build-a-human-like-robot-to-help-drivers-with-dangerous-and-repetitive-tasks-video/"
+    type: article
+    provider:
+      name: Amico Hoops
+      domain: amicohoops.net
+    quality: 43
+    images:
+      - url: "https://amicohoops.net/wp-content/uploads/2021/08/T-Mobile-confirms-it-was-the-target-of-a-cyber-attack-707x442.jpg"
+        width: 707
+        height: 442
+        isCached: true
 
-secured: "jH+rtdo1myFX+pGaVPMrxpKJr5xT0Pk20JekhVUVGqbCQNuJTUC3XIRFiL+Ob2MGZe8WbNOlEW1GZceM2IU0T28W9EsURQTCpJOTJB6lznco1waNdMREPNV93qeRwSbqL6Vzq0ZXt2h2gPjmlNggusIPvbqUuZ9N23sQgk1qx5Llf7cIN1J8CmREj8FO39HCXICuEr44RohvlcQjXfzS3+YVmRfYQAFR4YqCv3EfjoERCE2xgf9EjrAp+P+fzGFRD+TD4CZWsSItxf9CvPNekfC2DQ+0hBVMMmNmbPt1nDuQCFtFvzSbr/Z1No189xKIlQa3JgYdmaaHlTHuwSQoTJqNHJ6GkIggEEU0p2jn7bU=;WRZOIVSR5edxS/+bI/8/jA=="
+secured: "GztE5RL+kyfY8ZCa2m5iVcwPQJKQiW5ld863TpscxYCxUTJ7vAP6o1TM2JSMMqIM3d4rUZHxK5jiQA96bifnANIDB5dKwqmjvG0sGIs0LNen8ofauQl+yKUFHJITKNy+zUquHVamCVbUpxeIymGUVT6SesTJ46Vlx92RpOFAYEdjegep/qrxec6IJGn4DThu9ghPlWbq1goARhhzMSp2BRGFMd/IK/NbtbaV0338z/waZlkyKzGjwttT1TY2icMTAKl29xP+i+iofhGCB3yIKBeDr1tV1Vb3lJiwz8kxmSPXWTGtgeHUHNKJYvKyWDPMcrW6o00vorthRsnBDYaDjh/TvNYLljhQKMwhSUcWvGrcLjD9ULIG6+UUDpR/ATRkK9dBJJ2qWRw80Fwng3g/X6yl4MvO9T9YA6yfEckHL+qPp48LcZqH5ClGtx4FjCEoERuySHQNTvaI7FdcQ5i2inNaeDZye1QwA3wBL1VV/sZwVroOZe6d1/tlKwA8BI1LvV36U2B8x2uDscgpLEFt2w==;LO5P7ZUfmepmC/278Abs4A=="
 ---
 

@@ -1,29 +1,45 @@
 ---
 category: news
 title: "Demonstrating the Power of AI for Food & Beverage Innovation, Upcoming Webinar Hosted by Xtalks"
-excerpt: "Artificial Intelligence (AI) is becoming necessary for food and beverage manufacturers to meet ever-changing demands and stay ahead in an increasingly competitive environment. In"
-publishedDateTime: 2021-08-20T12:30:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_food_beverages/demonstrating-the-power-of-ai-for-food-beverage-innovation-upcoming-webinar-hosted-by-xtalks/article_8775912f-a6b6-53ab-b303-4d4af620be8c.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_food_beverages/demonstrating-the-power-of-ai-for-food-beverage-innovation-upcoming-webinar-hosted-by-xtalks/article_8775912f-a6b6-53ab-b303-4d4af620be8c.html"
+excerpt: "In this webinar, Sridhar Sudarsan, CTO of SparkCognition and former CTO of IBM Watson, will discuss how AI/ML solutions solve operational challenges in large food and beverage manufacturing facilities. Register for this webinar to see Sridhar show how the ..."
+publishedDateTime: 2021-08-20T12:35:00Z
+originalUrl: "https://www.lelezard.com/en/news-19961775.html"
+webUrl: "https://www.lelezard.com/en/news-19961775.html"
 type: article
 quality: 27
-heat: 27
+heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
+  - url: "https://www.lelezard.com/img/theme/lezard2.png"
+    width: 500
+    height: 414
     isCached: true
 
-secured: "sjvn6p0UPnz0sWJSte7EcnSsbgOigYX+Wf0h6CM4dicfw2d+No70gkXSh6jtOJ+dfRfTOaKqDhysfM2OmqxEjQIP36zXBgGOKsiXhN0tJrSmF3XIY+nKtC/SywkjAYL9FXW3m/o2VF9TZShf8rS2Lg+9oDXQoLKNK9aPna1Fgr16UIMnXC2iP9RdQYDw6n/18X7w/AMS0a7iT9+wXeiLn5wIIBzvNX/O/4B12gTiB6RrnRifsxs3WV0LrB8/+2JpNg+L8GkqSwV06knaoloabMbH4E0C0s2Ao95NfbcEKUR5znOxK3kup7/6HKlXGZUxTlWH3YA8VO1EonwRUG9OYVg8Z5NUfOxVw2cXedQSGxA=;r2hE0lzp0ICgJLgfgct8Ig=="
+related:
+  - title: "Caution is needed in use of artificial intelligence for lending"
+    excerpt: "Artificial intelligence has insinuated its way into our daily lives, whether we are aware or not. From opening our smartphones with facial recognition, to travel and commuting assistance, to personali"
+    publishedDateTime: 2021-08-18T16:00:00Z
+    webUrl: "https://www.sentinelsource.com/opinion/op-ed/caution-is-needed-in-use-of-artificial-intelligence-for-lending/article_7fa8558c-6018-5d7d-8fc0-110838bc2041.html"
+    type: article
+    provider:
+      name: The Keene Sentinel
+      domain: sentinelsource.com
+    quality: 37
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/sentinelsource.com/content/tncms/custom/image/94f334aa-d43b-11eb-b5e9-4f39ce134ddd.jpg"
+        width: 1200
+        height: 480
+        isCached: true
+
+secured: "U45p+WCMPYvaLXtT4MLMBiMOlIBIii/6g2zxH4ze6Lqb6l9gJOZUaUw4tVxpxwYSFrEqPsWEE4cyHcV1pODrLN3B8ffHfiOm35c158bCS1M9KeCb7MrWHP6LejIuoV1F2VfwIdCbE/38vcNuRspapU8hSOcPKUopVrtvkeFdZiVRdTrDe3Iod3z+4zR4St6LRlonhCc+p0E3cXzJsEPWwNKSChA9tKs+PFItodADdfYLlZA6DohgqBY35f6DJVf5OwFOo9/xWngry43zk1mHW8xWtSr+EdCx+MqfPD78qjwM9NGMdz7ER7CMudxOYcaGla/A5qvxQf1xuwHTiyHzUnfkHVNsYK10khfk0Sv35WE=;b4vN3iwU1aoDefGPJJ+gtQ=="
 ---
 

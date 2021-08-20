@@ -9,8 +9,8 @@ ampWebUrl: "https://manometcurrent.com/ai-in-fashion-market-to-see-huge-growth-b
 cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/ai-in-fashion-market-to-see-huge-growth-by-2026-google-aws-microsoft-facebook/?amp=1"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: manometcurrent.com
@@ -23,37 +23,19 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Artificial Intelligence in Retail Market Size,Share,Recent Study by 2027|Microsoft, Nvidia, Amazon Web Services"
-    excerpt: "“Los Angeles, United States, Aug 2021,- QY Research has recently published a new report, titled Global Artificial Intelligence in Retail Market Report, History and Forecast 2016-2027, Breakdown Data by Companies, Key Regions, Types and Application The ..."
-    publishedDateTime: 2021-08-16T04:17:00Z
-    webUrl: "https://www.openpr.com/news/2355656/artificial-intelligence-in-retail-market-size-share-recent"
-    ampWebUrl: "https://www.openpr.com/amp/2355656/artificial-intelligence-in-retail-market-size-share-recent"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2355656/artificial-intelligence-in-retail-market-size-share-recent"
+  - title: "This Robot-Run Large Cap ETF Has Less Apple, Microsoft, Amazon, Facebook Compared To SPY And Is Bullish On These Manufacturing Stocks Instead"
+    excerpt: "The Qraft AI-Enhanced US Large Cap ETF (NYSE: QRFT) has revealed that it has less holdings in “big tech” companies such as Microsoft Corp."
+    publishedDateTime: 2021-08-18T11:51:00Z
+    webUrl: "https://markets.businessinsider.com/news/etf/this-robot-run-large-cap-etf-has-less-apple-microsoft-amazon-facebook-compared-to-spy-and-is-bullish-on-these-manufacturing-stocks-instead-1030741520"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 86
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
     images:
-      - url: "https://cdn.openpr.com/U/8/U816958276_g.jpg"
-        width: 800
-        height: 407
-        isCached: true
-  - title: "Big bet on AI punches up Nvidia stock"
-    excerpt: "Nvidia (NVDA) reported blow-out earnings Wednesday after the close. Revenues are surging as its high-end chips for graphics and data centers remain in high demand. The San Jose, Calif.-based company reported revenues surged 68% during the second quarter,"
-    publishedDateTime: 2021-08-19T18:57:00Z
-    webUrl: "https://www.thestreet.com/tech/news/nvdajdm081921"
-    ampWebUrl: "https://www.thestreet.com/tech/.amp/news/nvdajdm081921"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/tech/.amp/news/nvdajdm081921"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 59
-    images:
-      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTgzMjYwMzgyMjI2MjkzNzk4/nvidia-data-science-home-og-social-share.jpg"
-        width: 620
-        height: 326
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/clayton-cardinalli-hkjnx0edbje-unsplash.jpg"
+        width: 1024
+        height: 768
         isCached: true
   - title: "Artificial Intelligence(AI) in Retail Market Latest Advancement and Business Outlook 2021 - 2027: IBM, Microsoft, Nvidia, Amazon Web Services"
     excerpt: "Market Insights Reports released a new study on 2021 2027 Artificial Intelligence AI in Retail Market with 100 data Tables Pie Chat Graphs Figures spread through Pages and easy to understand detailed analysis The Global Artificial Intelligence AI in Retail"
@@ -66,22 +48,17 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 51
-  - title: "Speech and Voice Recognition Market Analysis and Forecast by 2027|Microsoft Corporation, Alphabet, Cantab Research Limited"
-    excerpt: "Los Angeles United States Aug 2021 QY Research has recently published a new report titled Global Speech and Voice Recognition Market Report History and Forecast 2016 2027 Breakdown Data by Companies Key Regions Types and Application The report has been"
-    publishedDateTime: 2021-08-16T04:03:00Z
-    webUrl: "https://www.openpr.com/news/2355652/speech-and-voice-recognition-market-analysis-and-forecast"
-    ampWebUrl: "https://www.openpr.com/amp/2355652/speech-and-voice-recognition-market-analysis-and-forecast"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2355652/speech-and-voice-recognition-market-analysis-and-forecast"
+  - title: "Machine Learning as a Service (MLaaS) Market 2021 to Witness Stunning Growth-Microsoft Corporation, IBM Corporation, Google LLC"
+    excerpt: "Market Research Report 2021-2026 published by Market Insights Reports is a significant source of keen information for business specialists. It furnishes the Machine Learning as a Service (MLaaS) business outline with development investigation and historical and futuristic cost analysis,"
+    publishedDateTime: 2021-08-17T16:47:00Z
+    webUrl: "https://www.openpr.com/news/2358161/machine-learning-as-a-service-mlaas-market-2021-to-witness"
+    ampWebUrl: "https://www.openpr.com/amp/2358161/machine-learning-as-a-service-mlaas-market-2021-to-witness"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2358161/machine-learning-as-a-service-mlaas-market-2021-to-witness"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 35
-    images:
-      - url: "https://cdn.openpr.com/U/8/U816324049_g.jpg"
-        width: 800
-        height: 407
-        isCached: true
+    quality: 43
 
 secured: "WkdI719DfSuz3BZoRd90hchLlkhZCzOXiJvXgnwXCQkdfisQvAGUE34HKJFuTgBYTowsxWzTSfdChrlS7PJsfmGGp0TvBYVPFj6foFI+PJwegyU+1GEm0QfFaROIXr1VJ3r76Sewnu3ZnG3RiiyCMRAXWWLUT6DGKRi9pnGVGGvD/Tzz6zqlz31n1rTDs0bXVTtIY9hYjCtBof+eTNBxK4JkPlySP2Y8jH3RXGBjyOdDAiJT665aVeWa7eaC2+HX+EmnbwQ6HgoEbRUgXIcfFBI9cMO/DOC6KsPClwwqkAWSFRU6VuthkjzZDiBoqJzZ0w1kLWvUkHeYDSbVIdsOehS0XOi5hEgdlsN43DVM7l0=;A4AOCTkykw/UpLVbbE8Juw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/08/20/tesla-dojo-supercomputer-worlds-new-m
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/20/tesla-dojo-supercomputer-worlds-new-most-powerful-ai-training-machine/amp/"
 type: article
 quality: 102
-heat: 122
+heat: 132
 published: true
 
 provider:
@@ -55,6 +55,15 @@ related:
         width: 750
         height: 395
         isCached: true
+  - title: "Tesla's insane new Dojo D1 AI chip, a full transcript of its unveiling"
+    excerpt: "This chip is manufactured on 7nm ... To sum it all, this is what it will be: it will be the fastest AI training computer -- 4x the performance at the same cost, 1.3x better performance-per-watt -- that is energy-saving, and 5x smaller footprint."
+    publishedDateTime: 2021-08-20T10:42:00Z
+    webUrl: "https://www.tweaktown.com/news/81229/teslas-insane-new-dojo-d1-ai-chip-full-transcript-of-its-unveiling/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 51
 
 secured: "wnX/NTnZAK6bI86sdMHg8QI8Jz4UhV5jDTzhkYjCMflDtxE+8h1jSHHzil3rQotPnHvzVczLpp1tHoM5ir3HJ1KKzoamIYCr+Mta++boVdtbjw9npwjes+ZnqKx11ScvLwQxn85OeGMGOwc788qlF+6e07UZ3RxmXML5SQfFgeMA9BuOE0CAXmeti8wHY5C83arQCkBS+izWEKyVci7hYbh1J43hBCI3XYBzBO1AIWF/flytqJqtig8XUMGTPtLRUxi9ZK6UN2t+ZYVW4J+Fda9hRDOdH/cmIQnPS7FAEPPDCsap53wwdSyjpSg6//+QPpFXZ0ujPZ2sIY+ED1KwuLuKkh/z72L167IIly/R7oc=;OVpsQ58B+mdAiBAkF4082Q=="
 ---
