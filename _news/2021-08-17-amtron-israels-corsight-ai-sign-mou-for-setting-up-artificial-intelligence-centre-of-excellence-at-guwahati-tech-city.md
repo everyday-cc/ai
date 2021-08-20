@@ -27,15 +27,6 @@ images:
 
 related:
   - title: "AMTRON, Corsight AI and I-Sec partner to deliver facial recognition"
-    excerpt: "Assam Electronics Development Corporation Limited (AMTRON) has signed a tripartite MOU with Corsight AI, a leading Facial Recognition Technology provider, to establish a strong Facial Recognition Technology Development and Services portfolio along with setting up a Facial Recognition Center of Excellence (\"FR-COE\") at Tech City,"
-    publishedDateTime: 2021-08-16T00:00:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-amtron-corsight-ai-i-sec-partner-deliver-facial-/2021/08/16/9431550.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
-  - title: "AMTRON, Corsight AI and I-Sec partner to deliver facial recognition"
     excerpt: "Assam Electronics Development Corporation Limited (AMTRON) has signed a tripartite MOU with Corsight AI, a leading Facial"
     publishedDateTime: 2021-08-17T03:30:00Z
     webUrl: "https://www.prnewswire.com/in/news-releases/amtron-corsight-ai-and-i-sec-partner-to-deliver-facial-recognition-891042133.html"

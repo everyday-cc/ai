@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/08/18/amazon-rolls-out-indias-first-cele
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/18/amazon-rolls-out-indias-first-celebrity-voice-on-alexa-with-amitabh-bachchan/amp/"
 type: article
 quality: 71
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -124,6 +124,20 @@ related:
       - url: "https://cdn.i.haymarketmedia.asia/?n=campaign-india%2fcontent%2f20210819044036_alexa.jpg&h=630&w=1200&q=75&v=20170226&c=1"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Amazon brings Amitabh Bachchan’s voice to Alexa"
+    excerpt: "Amazon on Thursday said megastar Amitabh Bachchan’s voice will now be available on Alexa that will allow users to ask for music, set alarms and even get weather updates in Bachchan’s signature style."
+    publishedDateTime: 2021-08-20T05:39:00Z
+    webUrl: "https://mybigplunge.com/business/amazon-brings-amitabh-bachchans-voice-to-alexa/"
+    type: article
+    provider:
+      name: mybigplunge.com
+      domain: mybigplunge.com
+    quality: 24
+    images:
+      - url: "https://mybigplunge.com/wp-content/uploads/2021/08/Amazon-brings-Amitabh-Bachchans-voice-to-Alexa-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
   - title: "Now chat with Big B's voice on Amazon Alexa for Rs 149 in India"
     excerpt: "speech recognition, neural text-to-speech and more,\" said Puneesh Kumar, Country Leader for Alexa, Amazon India. Amazon Alexa in September last year announced a partnership with Bachchan to create a unique voice experience for its Indian fans. Alexa in the ..."

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/17/pepperdata-adds-gpu-tracking-tool
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/17/pepperdata-adds-gpu-tracking-tools-to-help-it-teams-maximize-usage/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Pepperdata CEO says AI ambitions outpace data management reality"
-    excerpt: "Pepperdata CEO Ash Munshi says lack of appreciation for data management will lead to disappointing results for enterprise AI."
-    publishedDateTime: 2021-08-15T23:40:00Z
-    webUrl: "https://venturebeat.com/2021/08/15/pepperdata-ceo-says-ai-ambitions-outpace-data-management-reality/"
-    ampWebUrl: "https://venturebeat.com/2021/08/15/pepperdata-ceo-says-ai-ambitions-outpace-data-management-reality/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/15/pepperdata-ceo-says-ai-ambitions-outpace-data-management-reality/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/03/data_streaming2-e1626372457758.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Pepperdata moves into GPU monitoring and optimization for data-intensive apps"
     excerpt: "Big data infrastructure management firm Pepperdata Inc. is turning its attention to high-performance workloads, launching a new monitoring tool today for graphics processing units that power data-intensive applications such as Apache Spark on Kubernetes."
     publishedDateTime: 2021-08-17T13:00:00Z

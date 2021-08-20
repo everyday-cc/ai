@@ -67,6 +67,15 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "The future of AI takes shape"
+    excerpt: "OpenAI has also shown how AI can help programmers build the software of the future, releasing Codex, a machine learning tool that translates your text, for what you want your program to do, into code."
+    publishedDateTime: 2021-08-20T16:06:00Z
+    webUrl: "https://www.ft.com/content/ccf3fcf2-f5ec-4fbc-bc86-a56a9b41ec7c"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 19
 
 secured: "8bQvjO78HwuPoL2heCa5wRHArTJkvDkfn08QCAsyF7Few4ebBGiEs05UXtvg2ZHIZNE3XO7oqzBSxe0nNaTsOH9nqbYkfdONcUy4jKoXERcrJvatlT0DyS/mwxMrggMvVgzw11G3Z257LnMMHXGBfEsQJhZ6n8nzVeEhWWWlTOHjo/5GW9kfdYbivLks1853cAyKwoe+TAxV5omXVlf4nU8MnvpLcdB9DDqgbS8AhO8i7l8KJNRLmfMf9qdKgOJXf2PyD5x1vLHMyY/3KVrNb6MfpafoqUOuOVGyB9fxzdx8zSUb63Tr/lj+iHNprGJGpP3TYHmlPUtYkOPYrxf986a74Ef4nqouToHZEvAiN1RNNsj6yxQnPJMgN9DzultNhqRxhVmE7x6PUDQrcw/fn3m30av6pPdPNcUq5P0IRgggN0oIN6VJLNCqOy9GzWZJXfLCO8TfTJfq20Nc6nCHmhFmVYDGuA5WwON9Y8fVnVxoNNxQjVUWzKx+pxr+/RveeVSak0MZqsno+SUhKCR5XQ==;ZQrsVxBcwc6ccX7RuV92MA=="
 ---

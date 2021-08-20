@@ -8,7 +8,7 @@ webUrl: "https://interestingengineering.com/teslas-ai-day-reveals-new-ai-learnin
 ampWebUrl: "https://amp.interestingengineering.com/teslas-ai-day-reveals-new-ai-learning-server-dojo-and-tesla-bot"
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/teslas-ai-day-reveals-new-ai-learning-server-dojo-and-tesla-bot"
 type: article
-quality: 76
+quality: 78
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ topics:
   - AI
   - AI in Autos
   - AI Hardware
+  - AI in Robotics
 
 images:
   - url: "https://inteng-storage.s3.amazonaws.com/img/iea/zDOZKyd0Gk/sizes/tesla-project-dojo-d1-chip-tile_resize_md.jpg"
@@ -202,6 +203,22 @@ related:
         width: 2790
         height: 1569
         isCached: true
+  - title: "Elon Musk announces humanoid robot Tesla Bot that uses artificial intelligence"
+    excerpt: "Billionaire Elon Musk has announced that Tesla is working on a humanoid robot called \"Tesla Bot\" that uses artificial intelligence and will launch the prototype in 2022. Join us to build the future of AI →  pic."
+    publishedDateTime: 2021-08-20T03:43:00Z
+    webUrl: "https://www.wionews.com/technology/elon-musk-announces-humanoid-robot-tesla-bot-that-uses-artificial-intelligence-407062"
+    ampWebUrl: "https://www.wionews.com/technology/elon-musk-announces-humanoid-robot-tesla-bot-that-uses-artificial-intelligence-407062/amp"
+    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/technology/elon-musk-announces-humanoid-robot-tesla-bot-that-uses-artificial-intelligence-407062/amp"
+    type: article
+    provider:
+      name: WION
+      domain: wionews.com
+    quality: 87
+    images:
+      - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2021/08/20/207585-untitled-design-6.jpg"
+        width: 918
+        height: 506
+        isCached: true
   - title: "Will Project Dojo be the Central Focus of Tesla's (TSLA) AI Day?"
     excerpt: "The AI Day is expected to shed light on new information about the development progress with respect to Tesla’s much touted Full Self-Driving (FSD) suite. Full Self-Driving builds on Tesla’s advanced driver-assistance system known as Autopilot,"
     publishedDateTime: 2021-08-16T15:47:00Z
@@ -227,6 +244,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Why Tesla Stock Is Up After AI Day"
+    excerpt: "Wedbush didn't change its \"outperform\" rating on Tesla stock this morning in response to the company's plan to build its own D1 computer chips to run its Dojo supercomputer ... But hey, in at least one respect, AI Day was a success: It generated headlines ..."
+    publishedDateTime: 2021-08-20T15:41:00Z
+    webUrl: "https://www.nasdaq.com/articles/why-tesla-stock-is-up-after-ai-day-2021-08-20"
+    ampWebUrl: "https://www.nasdaq.com/articles/why-tesla-stock-is-up-after-ai-day-2021-08-20?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-tesla-stock-is-up-after-ai-day-2021-08-20?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 86
   - title: "Tesla Autopilot U.S. Safety Probe Puts a Damper on Elon Musk’s AI Day"
     excerpt: "The federal investigation into Tesla Inc.’s Autopilot comes at an awkward time for Elon Musk. On Thursday -- just three days after the U.S. government announced its probe -- he has a briefing scheduled about the carmaker’s work on artificial intelligence."
     publishedDateTime: 2021-08-16T15:58:00Z
@@ -241,6 +269,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Tesla Places Itself As A Robotics Company With Reach Beyond EVs, Unveils Dojo Chips, Humanoid: Key Takeaways From AI Day"
+    excerpt: "The maximum running speed of the robot is 5 mph, which as per Musk makes it safe. The entrepreneur has in the past expressed concerns about artificial intelligence and thus the Bot is designed at a “mechanical level” in such a way that “you can run ..."
+    publishedDateTime: 2021-08-20T15:00:00Z
+    webUrl: "https://www.benzinga.com/news/21/08/22590542/tesla-places-itself-as-a-robotics-company-with-reach-beyond-evs-unveils-dojo-chips-humanoid-key-take"
+    ampWebUrl: "https://www.benzinga.com/amp/content/22590542"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22590542"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 81
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/screen_shot_2021-08-20_at_4.16.51_pm.png"
+        width: 2720
+        height: 1584
+        isCached: true
   - title: "Tesla Unveils Own Chip for AI Training Computer Dojo"
     excerpt: "Tesla Inc on Thursday unveiled its own computer chips to train its automated driving system. Tesla CEO Elon Musk a few years ago asked Tesla engineer \"to design a superfast training computer and that's how we started Project Dojo,"
     publishedDateTime: 2021-08-20T02:28:00Z
@@ -251,9 +295,9 @@ related:
       domain: usnews.com
     quality: 81
   - title: "Musk Says Tesla Will Have a Humanoid Robot Next Year"
-    excerpt: "CEO Elon Musk said he was trying to recruit engineers and scientists to the company’s AI team. Still, Musk did surprise attendees when he announced plans for Tesla to have a humanoid robot at some point next year."
-    publishedDateTime: 2021-08-20T06:42:00Z
-    webUrl: "https://www.barrons.com/articles/tesla-bot-ai-day-51629408985?refsec=technology"
+    excerpt: "Tesla showcases its artificial intelligence at an investor event starting around 8 p.m. eastern time. Expect to hear about the company's computing technology, autonomous driving features and vehicle safety."
+    publishedDateTime: 2021-08-20T16:48:00Z
+    webUrl: "https://www.barrons.com/articles/tesla-bot-ai-day-51629408985"
     ampWebUrl: "https://www.barrons.com/amp/articles/tesla-bot-ai-day-51629408985"
     cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-bot-ai-day-51629408985"
     type: article
@@ -262,7 +306,7 @@ related:
       domain: barrons.com
     quality: 76
     images:
-      - url: "https://images.barrons.com/im-388781/social"
+      - url: "https://images.barrons.com/im-388806/social"
         width: 1280
         height: 640
         isCached: true
@@ -366,14 +410,19 @@ related:
         isCached: true
   - title: "Elon Musk says Tesla is building a humanoid robot for ‘boring, repetitive and dangerous’ work"
     excerpt: "By Matt McFarland, CNN Business Elon Musk said Thursday night at Tesla’s AI Day that the company is building a humanoid robot, and will probably have a prototype next year. “It’s basically going to start dealing with work that is boring,"
-    publishedDateTime: 2021-08-20T10:10:00Z
-    webUrl: "https://localnews8.com/money/cnn-social-media-technology/2021/08/19/elon-musk-says-tesla-is-building-a-humanoid-robot-for-boring-repetitive-and-dangerous-work/"
+    publishedDateTime: 2021-08-20T08:59:00Z
+    webUrl: "https://abc17news.com/video/2021/08/20/elon-musk-says-tesla-is-building-a-humanoid-robot-for-boring-repetitive-and-dangerous-work-2/"
     type: article
     provider:
-      name: Local News 8
-      domain: localnews8.com
-    quality: 25
+      name: ABC 17 News
+      domain: abc17news.com
+    quality: 45
+    images:
+      - url: "https://abc17news.b-cdn.net/abc17news.com/2021/08/hypatia-h_e53277f69b31148810e9707a8a3d9650-h_b97ea991d9b2817ab9b9934fbf4452f8-300-scaled.jpg"
+        width: 2560
+        height: 1708
+        isCached: true
 
-secured: "Dp9+Wd3xFs86mSk2Q33EY48xXGMwbH8ZqN6VWzk+x0gfTTHXhlhdnsQRqhwJjO5Xdc8niCv5Fg1wmZN8M87HVrqvhc3SCRRav/cqoWjVVYhraNUQvkhhNuj7Ge4WVfCGrAdWFtaad3DP7QMp1bnclrQdAYLqzXnWe6bQ4C3ACJUk99u86493+zLmq4A3UP9+5obOpSLFl9hUpJhD7VgXOcuAb8KkgWDbIi9RZpZdYqqYGVP0wtQKS7hypbXNFdRIxoBZ0JZZrmKT93PpfvDAQ/6XiQtcmeu3Pv0D73Vz2APxNqW+SwptuQu2qTZ0vVZYZxmzzcz4LBzcorNvCqzOFdmHEd6totxYGif+hLpSVbo=;cYdE2YwMffuknS03qFvzLg=="
+secured: "FJkk5Ha29csLkyyIxV+iPeJcv1YgojnfbGjahIzYrUgxyeg1Xje0a5/L5lTrO0sVDYpEqZ5JVKA9Ca4kpHnnEO1oU719Y6RSPXF/lVTvA1PDy+5lrs9JYNO0G5kdccsR+suv3sAqxvJM+TteAnMnh4PdG4gAExxRrCr4sgbQSTBgyQQvqKTc1WqZaoL8jyFYACGFLkSAC3+Roomn21uPVYST3rqXBegI10tGwnoUhXQj9HN8z2DBwi6UcQw3VSjf5mPtl0EyN0RkvYreL5iVqbYYXtyOlxA7VLvFuT/sb/546t08GgkBu64WQzPponNHwIJW3uNfm2GvQZx598lOno9835iSS4OlIs7mlTb7kWubZR5OFf96Jt0VZ0koqDFTo4K6MNcnXINoAghkajSQAvxvdAw/JHNmlMmUG3Hsa5q9aOpwYVnqLvHmdRSGNI40MXhdKxY93ptNTNOrRI/9ccavhdivhawlTwhxzh7zC/bZveS/jaSVZ4/mweTlg1iJy8Fl+cp1f8JtHcML/Ka7LQ==;XDR5voIiRGE0i2mJ3g31Hw=="
 ---
 

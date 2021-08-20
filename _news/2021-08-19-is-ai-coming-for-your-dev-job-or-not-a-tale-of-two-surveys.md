@@ -6,8 +6,8 @@ publishedDateTime: 2021-08-18T21:57:00Z
 originalUrl: "https://visualstudiomagazine.com/articles/2021/08/18/robot-jobs.aspx"
 webUrl: "https://visualstudiomagazine.com/articles/2021/08/18/robot-jobs.aspx"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/IntroImages2016/0516red_RedView.jpg"

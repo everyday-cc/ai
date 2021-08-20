@@ -184,6 +184,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Tesla AI Day: EV-maker shows improved self-driving tech for Autopilot"
+    excerpt: "Tesla's self-driving technology has recently come under regulatory spotlight. Tesla is working on a purely vision-based system, using eight vehicle-mounted cameras to process a real-time three-dimensional vector space to guide navigation."
+    publishedDateTime: 2021-08-20T17:51:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/news/tesla-ai-day-ev-maker-shows-improved-self-driving-tech-for-autopilot-41629439031382.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/news/tesla-ai-day-ev-maker-shows-improved-self-driving-tech-for-autopilot/amp-41629439031382.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/tesla-ai-day-ev-maker-shows-improved-self-driving-tech-for-autopilot/amp-41629439031382.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 74
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2021/08/20/600x338/AFP_9L8894_1629439212600_1629439224395.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Musk shows self-driving progress, humanoid robot at Tesla AI Day"
     excerpt: "Tesla used its inaugural AI Day to showcase improvements in its self-driving capability -- which has come under a regulatory spotlight -- and unveiled plans for a life-like robot that Elon Musk says will take the drudgery out of everyday life."
     publishedDateTime: 2021-08-20T08:22:00Z
@@ -245,6 +261,20 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/senator-markey.jpg?quality=90&strip=all&w=1024"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Musk Shows Self-Driving Progress, Humanoid Robot at Tesla AI Day"
+    excerpt: "Tesla Inc. used its inaugural AI Day to showcase improvements in its self-driving capability -- which has come under a regulatory spotlight -- and unveiled plans for a life-like robot that Elon Musk says will take the drudgery out of everyday life."
+    publishedDateTime: 2021-08-20T17:05:00Z
+    webUrl: "https://www.bloombergquint.com/business/tesla-showcases-self-driving-progress-at-inaugural-ai-day"
+    type: article
+    provider:
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 71
+    images:
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2021-08%2F317f2532-b723-427c-901c-13ccb9f542a5%2F372941285.jpg?rect=0%2C568%2C3998%2C2099&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Senators call for investigation into Tesla’s marketing of self-driving vehicle features"
     excerpt: "Two Democratic senators have sent a letter to the Federal Trade Commission (FTC) asking for an investigation into Tesla’s marketing of its Autopilot and Fu"
@@ -542,6 +572,6 @@ related:
         height: 630
         isCached: true
 
-secured: "BieLRP4CE/0/LEcaP6u8bBIQzrsJGPT3ojC0KM0OnTG8Wv0MH7wqYVIUvvQtDFGf3XFW9SWONvhJBXVf6ymuWN0JrT97exCHYLW57dybShIl+Antv5sC5VLEjhIaDfhdP/azYHxl+yehEHglvaXsU7fir4DI4vWTGSPAI4x4iEug/44r2k+gk0m+Yn7y3coUyNQqkqElCsToGNuspzsqguUDrF/26EJbLSi7ym5xzXAaMki4PCHdodPdI8xgqDNvI+uyTqF1W3oM3wMMhyIq0ktHTnBU0CuK+wCR8DOnD9C9Sj5dG4xYPkyCNf7VQQGTvs+SsgIVpdPnoq5zEsjXQr8nd69/9PvuCc8p4JXKA44=;dS7cCSGk+8qCmXVTcJG4zg=="
+secured: "c0cT4Gzdl2Kx3N34mvUNxm7hd29WmK8ddRfTm+ClSVBEcua0PVkWWusHkeaZcjtv1McMAZArP8Q/VmQfFu+3itTtrK+8QEw02i926D475LwkoJuxC2ITRdQjZNS/7RFcg0n2DBYvL28fcUIhV5Z2031uQLCft4rGpkqrQT12Jka1QtkNuufx3MR+i1zAQgpNCwtURreBit+Zv+Dvi2PKgDpVoDjn+eGSgNsyRqKlIpRBfijslutVKLhJCEGT0fJmFPNQqpXNM/ypJrePF7grb6UZSYEKYv87fcrxzTWJ1LnAwJdEBI6+nfes3hNm0QF6LAQJzem/FLv0FL88Nmu45Ep8s7nf3uET21pzdlMmILwmnydPvRYjIa2KKuj5HM3sM4oqp0Pm/RZ2bHSrEPvmsFanWgccfbDIwOMBfFAVwYhfr56MZhi+ifF1hUuRb5Y0HRyJ7o8YbHyfZvvCuEna7P0xz6yDGH0bI7daAO4Z/Tpdsm6LIkz4RtXpM3xhsC6lyQ4EEgppj3lNc9CufXRcwg==;WpQCiU7n7oEdhIc2VIYI4g=="
 ---
 

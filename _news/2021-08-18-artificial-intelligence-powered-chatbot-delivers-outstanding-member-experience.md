@@ -24,31 +24,22 @@ images:
     isCached: true
 
 related:
-  - title: "AI-powered contact centers are revolutionizing the customer experience for millions of Indians"
-    excerpt: "However, the key to these relationships is a ‘cut-above customer experience. The increased customer interest in financial planning has set off a higher number of inquiries at banking contact centers."
-    publishedDateTime: 2021-08-16T11:26:00Z
-    webUrl: "https://www.dqindia.com/ai-powered-contact-centers-revolutionizing-customer-experience-millions-indians/"
-    ampWebUrl: "https://www.dqindia.com/ai-powered-contact-centers-revolutionizing-customer-experience-millions-indians/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ai-powered-contact-centers-revolutionizing-customer-experience-millions-indians/amp/"
+  - title: "BPCL launches AI-enabled chatbot Urja"
+    excerpt: "With the objective of making BPCL’s customer interface comprehensive and integrated digitally, Urja, the chabot is now available on the company website for any queries for both B2B & B2C"
+    publishedDateTime: 2021-08-20T17:45:00Z
+    webUrl: "https://www.livemint.com/companies/news/bpcl-launches-ai-enabled-chatbot-urja-11629439490779.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/bpcl-launches-ai-enabled-chatbot-urja/amp-11629439490779.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/bpcl-launches-ai-enabled-chatbot-urja/amp-11629439490779.html"
     type: article
     provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 45
+      name: Mint
+      domain: livemint.com
+    quality: 57
     images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/07/IBM-Watson-to-explore.jpg"
-        width: 800
-        height: 420
+      - url: "https://images.livemint.com/img/2021/08/20/600x338/d56b0d84-2a70-11eb-a978-708e052e967f_1605835106052_1605835154992_1629439682369.jpg"
+        width: 600
+        height: 338
         isCached: true
-  - title: "Parliamentarians with innovators for India launches India's first AI powered vaccine awareness campaign Immunise"
-    excerpt: "PI India is engaging with Bobble AI to connect with millennial and Gen Zies and ensure greater uptake of vaccinations, assisting the government's aim of 10 million vaccinations a day which is still 40."
-    publishedDateTime: 2021-08-16T12:16:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-parliamentarians-with-innovators-india-launches-indias-first-ai-/2021/08/16/9431007.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "JdSh1D9HwntsTlMK/tLo7yHjjc3gr4v5Rf5mNNjEhWD03PXZ1JepB1duV17HaRKFUAN6PB2M552Og7qh7cbsxF3r3nugPbpPJURAW4cw5n69NE/nPkwE2KySIwUjl41U8tPlX2C8cq9M5Y412NLgRI7sbm0JTxI/1uf81wnHXS30hwcY6OtiYWbYByDilGGb7mE/d9T7+a/3Zwv0Qn8f8M2IFkJYf0PTqSUYUUTXWdVPBWN1mcFLg3+zxZCL0PtstR0dDE5kNUCvVjdLVtgtNM/N4IIhXAdKbxMu5StjwvdjncSiHi+d/XXMq0inVyo7OwMr6BUeJOpSOU3/1ccNJot8AQs8EMNEi2ijyPv8nRnaYm6joJvm+f3HQUJ3nsXu2pbIEGOCcu/Ol3D9+moFU+lIbDnoigTOTswHGQwbxS0kZhyFYLe4HHyYwYwcNyOYin0vIrwBH25WIuBm5WpCrTeaFAT03PiZqDHc/NSMp+wmJsidSRJiPTyEPL2xHGzNw3C1heofszXYwJTlWbL/bA==;FhVuj/OGjbaOfy2x+Q8elg=="
 ---

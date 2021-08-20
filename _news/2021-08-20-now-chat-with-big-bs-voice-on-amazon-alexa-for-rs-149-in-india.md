@@ -135,6 +135,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Amazon brings Amitabh Bachchan’s voice to Alexa"
+    excerpt: "Amazon on Thursday said megastar Amitabh Bachchan’s voice will now be available on Alexa that will allow users to ask for music, set alarms and even get weather updates in Bachchan’s signature style."
+    publishedDateTime: 2021-08-20T05:39:00Z
+    webUrl: "https://mybigplunge.com/business/amazon-brings-amitabh-bachchans-voice-to-alexa/"
+    type: article
+    provider:
+      name: mybigplunge.com
+      domain: mybigplunge.com
+    quality: 24
+    images:
+      - url: "https://mybigplunge.com/wp-content/uploads/2021/08/Amazon-brings-Amitabh-Bachchans-voice-to-Alexa-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "ixKGLXKhhocgWtUz8XiZS77SQtBm4WrxKXZ8QU6mk/ZDlfWxjqCJqyXnYDzwDKVpkQHwy4Jpr7txlZ1IlmWya9Q0fcv884+XL7eyck5ZYQpHLBwgXRyI6Gr7z9MJ6i+Dh/dUQJ4OmZPq3Ze/ZTaMCxYv9Q2WxtrB81Gu7jToPByQ90R5KIEMOE1q83w+akorsITgbQsOkEt4TP/raji/hwV2ynOP80akd0YasYU6FusELsW+ct6omxOBlYeSkb6UywD1YBSB3krPNUxAAVBhm0do4FNs2+aPqy8m+NyV00pr7h/QpNOW9oSAgZSm2NMgRLZ0JgzcWqgDYZju5MZYL22Zs41gZJWMtdsUh22vktk=;BHXtEa1DCShHzbJoUX5aKA=="
 ---

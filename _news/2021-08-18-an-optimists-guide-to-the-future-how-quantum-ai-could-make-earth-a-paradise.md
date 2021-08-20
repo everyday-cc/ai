@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/optimists-guide-future-quantum-ai-coul
 webUrl: "https://thenextweb.com/news/optimists-guide-future-quantum-ai-could-make-earth-paradise"
 type: article
 quality: 64
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -56,6 +56,15 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "The future of AI takes shape"
+    excerpt: "OpenAI has also shown how AI can help programmers build the software of the future, releasing Codex, a machine learning tool that translates your text, for what you want your program to do, into code."
+    publishedDateTime: 2021-08-20T16:06:00Z
+    webUrl: "https://www.ft.com/content/ccf3fcf2-f5ec-4fbc-bc86-a56a9b41ec7c"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 19
   - title: "Live: How will AI shape our life and future? Live: How will AI shape our life and future? Live: How will AI shape our life and future?"
     excerpt: "The Virtual Baidu World Conference 2021 is underway, demonstrating the firm's latest breakthroughs in artificial intelligence (AI) and its applications in everyday life."
     publishedDateTime: 2021-08-17T14:46:00Z

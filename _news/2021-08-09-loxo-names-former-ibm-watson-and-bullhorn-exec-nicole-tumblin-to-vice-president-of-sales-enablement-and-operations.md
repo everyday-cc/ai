@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Loxo Names Former IBM Watson and Bullhorn Exec, Nicole Tumblin to Vice President of Sales Enablement and Operations"
-excerpt: "DENVER, Aug. 9, 2021 /PRNewswire-PRWeb/ -- Loxo, the #1 Talent Intelligence Platform and global leader in AI recruitment automation ... She also held leadership positions at IBM with the Watson ..."
-publishedDateTime: 2021-08-09T13:24:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/08/n22399590/loxo-names-former-ibm-watson-and-bullhorn-exec-nicole-tumblin-to-vice-president-of-sales-enablemen"
-webUrl: "https://www.benzinga.com/pressreleases/21/08/n22399590/loxo-names-former-ibm-watson-and-bullhorn-exec-nicole-tumblin-to-vice-president-of-sales-enablemen"
-ampWebUrl: "https://www.benzinga.com/amp/content/22399590"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22399590"
+excerpt: "The #1 Talent Intelligence Platform hires recruiting and AI software veteran to accelerate revenue and customer acquisition while delivering a world-class experience across"
+publishedDateTime: 2021-08-09T13:05:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/08/p22399618/loxo-names-former-ibm-watson-and-bullhorn-exec-nicole-tumblin-to-vice-president-of-sales-enablemen"
+webUrl: "https://www.benzinga.com/pressreleases/21/08/p22399618/loxo-names-former-ibm-watson-and-bullhorn-exec-nicole-tumblin-to-vice-president-of-sales-enablemen"
+ampWebUrl: "https://www.benzinga.com/amp/content/22399618"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22399618"
 type: article
 
 provider:
@@ -18,6 +18,6 @@ topics:
   - AI
   - AI in Sales
 
-secured: "0kIteTYCGlw+p0hO9UxpZ3ZoIO1fhZNzi0/vneD3qlOIQxZs8KfqUlDUtAZBZI9UcTSBG6kL561HEvBvb4E3uFgr6FjsBpk/cDCIgjzx68XtrmfM1YeknBuD2b1XPdGCU86s9PXJrEBY9i2IU1qZPA/FHCEjanyb43zs8AlSxnwoHm1AeN6qJueZ4tD604QETPPdufZrfpilv+DG7yBzSejKo7jD+lbPo9y/wuovkfuSTkW9kmbuouAZOLV2ZV5dMjeSNUgUBiSLeOwnMM/l1554Bg0epoCkUzApTWTXGz/T6LgHaeOATPLsRmdXA7r1zANYwmXZblbCDcYYjNlxWD8beEscK3vgmWQcTh8Jnew=;nmzkpCCfopXMmp5mPTzGyA=="
+secured: "i8W2w9FG0WNlODf6VQvax0rpvabtXxwF4usYkjSscOsqqnifctUH7w8mlxJXYvxs25pAC4+lZSWUZ/N0i1xwNNl4rp4fj2n/qif4w6yQdFbp1ClUiz7qgijgBcA071OdruE22uU5k814XmhVagX79S2wLBe2zyE2qRNW97rgT27kF4OyNinKEnrwceuTqQ3hQpdCKL8TMnbFMUAe4PV0ggLbMlR/21meS4vxIepJKT4lzJhmUOjS1VXoNOrR0UpaTYas60vD4abeGU2kul9ZZD34Wk+gZ/qI8sWT2O649KKUPHUGWmAaKGFc14WzQTvBmZezaAqv3cv7PnXfCAHwpDNzn6ClyuoWuZn7Tu5WF3s=;ja+P4nl1c3IFYJhaLSWGjA=="
 ---
 

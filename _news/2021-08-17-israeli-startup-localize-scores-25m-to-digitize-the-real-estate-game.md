@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Geoscape partners with Israeli AI startup"
-    excerpt: "Geoscape Australia says it will be able to evolve its 3D modelling after partnering with a Israeli IA startup (image: Geoscape). The Public Sector Mapping Agency has partnered with an Israeli AI startup as it moves to enhance its 3D digital maps."
-    publishedDateTime: 2021-08-16T00:59:00Z
-    webUrl: "https://www.governmentnews.com.au/geoscape-partners-with-israeli-ai-startup/"
-    type: article
-    provider:
-      name: governmentnews.com.au
-      domain: governmentnews.com.au
-    quality: 37
-    images:
-      - url: "https://cdn.governmentnews.com.au/wp-content/uploads/2021/08/16105002/rsz_74e1e6d2-b386-4461-a5f2-a3ca3c9ed1ae.png"
-        width: 780
-        height: 520
-        isCached: true
   - title: "The Israeli startup using AI to predict car accidents is acquired for $61M"
     excerpt: "Smart city builder Rekor Systems announced its intentions to acquire Israeli startup Waycare for $61 million in cash and stock. The acquisition is expected to be finalized in Q3 2021, with the Israeli startup’s staff expected to join Rekor Systems."
     publishedDateTime: 2021-08-19T09:15:00Z

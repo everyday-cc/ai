@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence-powered chatbot delivers outstanding member experience"
-    excerpt: "The shift to remote banking caused by the COVID-19 pandemic will never be reversed. As a result, credit unions have a unique opportunity to build and retain market share in this new environment. Enter conversational banking experiences driven by artificial intelligence that increase convenience and success for members."
-    publishedDateTime: 2021-08-18T16:18:00Z
-    webUrl: "https://www.cuinsight.com/artificial-intelligence-powered-chatbot-delivers-outstanding-member-experience.html"
-    type: article
-    provider:
-      name: Credit Union Insight
-      domain: cuinsight.com
-    quality: 33
-    images:
-      - url: "https://www.cuinsight.com/wp-content/uploads/2020/11/bigstock-Futuristic-Robot-Artificial-In-351324593.jpg"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "Parliamentarians with innovators for India launches India's first AI powered vaccine awareness campaign Immunise"
     excerpt: "PI India is engaging with Bobble AI to connect with millennial and Gen Zies and ensure greater uptake of vaccinations, assisting the government's aim of 10 million vaccinations a day which is still 40."
     publishedDateTime: 2021-08-16T12:16:00Z

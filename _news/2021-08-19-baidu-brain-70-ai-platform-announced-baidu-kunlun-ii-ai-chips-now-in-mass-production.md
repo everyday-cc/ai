@@ -111,6 +111,20 @@ related:
         width: 728
         height: 300
         isCached: true
+  - title: "Baidu shows off robotaxi concept and second-generation AI computer chip"
+    excerpt: "Baidu says it is ready to move from technical verification to large-scale commercial operation of self-driving cars."
+    publishedDateTime: 2021-08-20T14:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1133304_baidu-shows-off-robotaxi-concept-and-second-generation-ai-computer-chip"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 56
+    images:
+      - url: "https://images.hgmsites.net/lrg/baidu-self-driving-car-concept_100803533_l.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "China’s Baidu says 2nd-gen Kunlun AI chips enter mass production"
     excerpt: "Chinese tech giant Baidu said on Wednesday it had begun mass-producing second-generation Kunlun artificial intelligence (AI) chips, as it races to become a key player in the chip industry which Beijing is trying to strengthen."
     publishedDateTime: 2021-08-18T08:46:00Z

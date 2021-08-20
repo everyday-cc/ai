@@ -1,31 +1,27 @@
 ---
 category: news
 title: "Baidu Announces Autonomous Driving Milestones at Baidu World 2021"
-excerpt: "Today, Baidu held its annual flagship technology conference, Baidu World 2021, where Co-founder and CEO Robin Li unveiled his vision for mobility of the future alongside a new robotaxi mobile platform that aims to make autonomous vehicles more accessible to the broader public."
-publishedDateTime: 2021-08-18T13:13:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/baidu-announces-autonomous-driving-milestones-at-baidu-world-2021-1030741983"
-webUrl: "https://markets.businessinsider.com/news/stocks/baidu-announces-autonomous-driving-milestones-at-baidu-world-2021-1030741983"
+excerpt: "Baidu held its annual flagship technology conference, Baidu World 2021, where Co-founder and CEO Robin Li unveiled his vision"
+publishedDateTime: 2021-08-18T12:36:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/baidu-announces-autonomous-driving-milestones-at-baidu-world-2021-301357959.html"
+webUrl: "https://www.prnewswire.com/news-releases/baidu-announces-autonomous-driving-milestones-at-baidu-world-2021-301357959.html"
 type: article
-quality: 69
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1597211/Baidu_Co_founder_CEO_Robin_Li_CCTV_host_Beining_Sa_sit.jpg"
-    width: 400
-    height: 266
+  - url: "https://mma.prnewswire.com/media/1597211/Baidu_Co_founder_CEO_Robin_Li_CCTV_host_Beining_Sa_sit.jpg?p=facebook"
+    width: 1270
+    height: 665
     isCached: true
 
 related:
@@ -133,6 +129,20 @@ related:
         width: 1270
         height: 846
         isCached: true
+  - title: "Baidu claims it has created Level 5 robocar"
+    excerpt: "BEIJING: Baidu, the Chinese technology giant behind the country's search engine, has just announced a level 5 SAE autonomous car thanks to a new chip. Behind this potential success is an ambitious open source platform called Apollo."
+    publishedDateTime: 2021-08-20T08:57:00Z
+    webUrl: "https://www.carsifu.my/news/baidu-claims-it-has-created-level-5-robocar"
+    type: article
+    provider:
+      name: CarSifu
+      domain: carsifu.my
+    quality: 39
+    images:
+      - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2021/08/robocar_baidu.e80f1105302.original1.jpeg"
+        width: 800
+        height: 500
+        isCached: true
   - title: "Baidu Apollo unveils autonomous vehicle with no steering wheel or pedals"
     excerpt: "Baidu has been conducting R&D on autonomous vehicles since 2013. It established Apollo in 2017. Baidu holds 2,900 patents in the field, and its self-driving cars have covered 12 million km in tests and passenger services."
     publishedDateTime: 2021-08-18T05:48:00Z
@@ -162,6 +172,6 @@ related:
         height: 507
         isCached: true
 
-secured: "7ityO3e6whtWsCj2Xs/vPsRCZFKbofLeFZlzNYO2C9P+89ATsi02s1CKthcQ/Sh2XpDv8NWXjGGjXuFGwS4NOV6NdpVNwGpZ6ZRY9xELsSat9EmpLz1MAkb+S53Lo1F18ryvOGKEeUOVOcS4dlfHUnarKaljuHa19Jv6aSaJJ2Wvnb+18ZaHxFA2id7juKbxvbQ7uWyDLiJlyt3Gm5lgS73taCQl09iQxzS0gr4IeJrY5/XYVtJCrcMcRvQZQbWePGk/Zyq7zjo2XRUW1ArE0AQcWAASfigLwV4QwtpFWvACxkuI1f/S8vqaD7qi+3paOkp6gy7blZIARhNx6aIN5/Md6ORk+P7O8Gd5ZG9Ncls=;iaVwyy8XYRr5dVcO9/gmQQ=="
+secured: "RrVSPP4Cg6ogQEp/ToGyCNMcTbTuRB9JfGShXyPpwWEy6u+FhBVMCxEBhDJJ26rzHh0qtLVDQFRAlD+egU/+gVE2X4TytnQ11BAklSXaynYVvFAIDExNfZ9KoJ555HTr3GNgPxkO0CK8Kx26y3IQaY3Om6PV5KB0aljeFwuc3jYMebLuji9Klq+HNV+xTlBs62ZRCKxM0yK0GWAbVjvBmHyXovCj8UdHA7yQFSTcni+G4jDPq0gJPtjkNZI2hu1QQthIuMJBJVlBAQZUeSC/J9duFPj8PYUmuytT/mOlYTVv4j796oIK1TWnWq9X2yTN8+9qZgMMNG5il25VtwLclJ8vE/49rbJd21ObgvSN53Y=;8TUzs446qfV76aEJp3X5Wg=="
 ---
 

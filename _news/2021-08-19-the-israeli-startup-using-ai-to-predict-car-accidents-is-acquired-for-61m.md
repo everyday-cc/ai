@@ -36,20 +36,6 @@ related:
         width: 800
         height: 540
         isCached: true
-  - title: "Geoscape partners with Israeli AI startup"
-    excerpt: "Geoscape Australia says it will be able to evolve its 3D modelling after partnering with a Israeli IA startup (image: Geoscape). The Public Sector Mapping Agency has partnered with an Israeli AI startup as it moves to enhance its 3D digital maps."
-    publishedDateTime: 2021-08-16T00:59:00Z
-    webUrl: "https://www.governmentnews.com.au/geoscape-partners-with-israeli-ai-startup/"
-    type: article
-    provider:
-      name: governmentnews.com.au
-      domain: governmentnews.com.au
-    quality: 37
-    images:
-      - url: "https://cdn.governmentnews.com.au/wp-content/uploads/2021/08/16105002/rsz_74e1e6d2-b386-4461-a5f2-a3ca3c9ed1ae.png"
-        width: 780
-        height: 520
-        isCached: true
 
 secured: "fcOwTu2OS9C391/ku2F+/unTO93G4Sdf8ZtoWOmBUwnHPZWysuVaBG5Wp5fRwuIJ+UgTZ3kUQ+cgVu8tfrwP4j4bP6qac6H65dAjSw2k3UCTK92tbz+4JH4cOO0/Ws4ulaALuajbOsadGcIsVtUDBJn1BvaOtIJbWSDSNoMXonKxyKkW4plkUswdp8hiFF9An4R26GX3F0wDDmsR/7lJhFBEnkDJxtaBQnrMKFltgScWCk17Tpl0Xxv26Q1KZiGNIWhp6L+k1txmxu7Xji2iHQHyTAOmmcbd/eihEpaM4iC742x15eUsip1UaZwCIUyxTUVFUWPtfGxioxZDo6cTiZcPwUmjCQNyVk4d+kx+R/qs3YjGallPlhpcjQGBV7GKkSC70SrnydcAUQ9/F5x32ZNWvOTS/tVGtfByy2mbmdMrzNU6CEmmFosXNT+2NKapxdnRYZND9oDMKTYH4UvMRHf+gkLkf1a/sZfolWW9eKfdg1nZgpZABCPGHZ7oiPyfAZy/UBjC4SXxjeBXffzoww==;Y9adF65T6HgVwuD6Srrdkg=="
 ---

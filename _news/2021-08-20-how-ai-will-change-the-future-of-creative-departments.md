@@ -52,6 +52,15 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "The future of AI takes shape"
+    excerpt: "OpenAI has also shown how AI can help programmers build the software of the future, releasing Codex, a machine learning tool that translates your text, for what you want your program to do, into code."
+    publishedDateTime: 2021-08-20T16:06:00Z
+    webUrl: "https://www.ft.com/content/ccf3fcf2-f5ec-4fbc-bc86-a56a9b41ec7c"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 19
   - title: "Live: How will AI shape our life and future? Live: How will AI shape our life and future? Live: How will AI shape our life and future?"
     excerpt: "The Virtual Baidu World Conference 2021 is underway, demonstrating the firm's latest breakthroughs in artificial intelligence (AI) and its applications in everyday life."
     publishedDateTime: 2021-08-17T14:46:00Z
@@ -67,6 +76,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "UEQOGbHQJviBar5Xe1/KX1D+vO1dzSpNvsPlFeHiH52b+sbgnlMtWrWuN/86oTPGUeB5/Qbx34pOqs2wdn6A36PggvdYkZo5a3efU/3fW5psnbylpY+Mwtmn+Bp+kRe3CGcBo78rMZvvS/3Tek7BX63qDv69KIkWAXlCEW+NxiF0JC01YNXaNbvlapTQr+qzaDJ97ldDBVwHlb9d8jCvkJksY1NMqkcb5axv5BukPNYNEhT70SMq3IpVP+lYyz0d7VoEbMwTZT8kpMBbJJCX1n7VoGiAPgaHB6kHRRew+W1/voydroekw9UjPdwsggSTXx5+fIOY6l19yJTbDAb+OUHev9Nd4YNv+nXN/lfDv0k=;ftpHsnyk9eACYzeaYnYLAQ=="
+secured: "H309iHS36U67WEVGavYfeGyf6fW+3uLGstH37KJ75Pu3TkciO/GyuDavInUkwiIytyNEw38cQRoRmjmyGagkM0lZzAVYyTtnJdWEd6lmQ261blrFyP9JpmtqrhrskeoRLqzkjOrzCxkSM/qxV0fUpvHuSCNurg7Phh55oM0bcJvnzH7lUwwbZH1p6gkG2GWhSqG+okC/pPXYMsVSfmkZTsk3rKea0gn7J1w3G2FeFviYVGl+kEhgzxYgOQ+lSgA2TpTVbc/UAkhqCbJetikg1gNUTpctodlJ91gJ0QjKeFZqQkIJOgcwFIPpDu1cIGjzQ7r66w7FnaWlHdS5LJTOAegDQbTAFldRqN0ohtDyoBBaMrnjJvLn84aOi2OO+DHL375XYMN7bBnzZF3ago/n5yPgfTbrHakniqEBKcuZUSPctKmkd/bxcA+N23smz0j22lMCsxEhCSdoUVUwV+BQnFcj5hM6RiFopvsj9wXCTVabSxIMm8t2jPXSTTlZZJfMsMyYZNTau3wCyX2t1HAVCw==;GM+yt/lvYDPxI1kbr21xxA=="
 ---
 

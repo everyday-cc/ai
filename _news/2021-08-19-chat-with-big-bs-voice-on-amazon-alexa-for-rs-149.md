@@ -121,6 +121,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Amazon brings Amitabh Bachchan’s voice to Alexa"
+    excerpt: "Amazon on Thursday said megastar Amitabh Bachchan’s voice will now be available on Alexa that will allow users to ask for music, set alarms and even get weather updates in Bachchan’s signature style."
+    publishedDateTime: 2021-08-20T05:39:00Z
+    webUrl: "https://mybigplunge.com/business/amazon-brings-amitabh-bachchans-voice-to-alexa/"
+    type: article
+    provider:
+      name: mybigplunge.com
+      domain: mybigplunge.com
+    quality: 24
+    images:
+      - url: "https://mybigplunge.com/wp-content/uploads/2021/08/Amazon-brings-Amitabh-Bachchans-voice-to-Alexa-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Now chat with Big B's voice on Amazon Alexa for Rs 149 in India"
     excerpt: "speech recognition, neural text-to-speech and more,\" said Puneesh Kumar, Country Leader for Alexa, Amazon India. Amazon Alexa in September last year announced a partnership with Bachchan to create a unique voice experience for its Indian fans. Alexa in the ..."
     publishedDateTime: 2021-08-20T05:10:00Z

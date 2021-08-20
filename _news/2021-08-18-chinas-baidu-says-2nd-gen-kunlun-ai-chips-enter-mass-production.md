@@ -110,6 +110,20 @@ related:
         width: 728
         height: 300
         isCached: true
+  - title: "Baidu shows off robotaxi concept and second-generation AI computer chip"
+    excerpt: "Baidu says it is ready to move from technical verification to large-scale commercial operation of self-driving cars."
+    publishedDateTime: 2021-08-20T14:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1133304_baidu-shows-off-robotaxi-concept-and-second-generation-ai-computer-chip"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 56
+    images:
+      - url: "https://images.hgmsites.net/lrg/baidu-self-driving-car-concept_100803533_l.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Baidu Brain 7.0 AI Platform Announced; Baidu Kunlun II AI Chips Now in Mass Production"
     excerpt: "The latest version of Baidu’s open AI platform, Baidu Brain 7.0, has been launched by the Chinese technology company, which also announced that its Kunlun"
     publishedDateTime: 2021-08-18T20:48:00Z

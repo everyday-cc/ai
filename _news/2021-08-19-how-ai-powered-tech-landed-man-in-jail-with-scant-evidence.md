@@ -39,20 +39,18 @@ related:
         height: 800
         isCached: true
   - title: "How AI-powered tech landed man in jail with scant evidence"
-    excerpt: "Williams was jailed last August, accused of killing a young man from the neighborhood who asked him for a ride during a night of unrest over police brutality in May. But the key evidence against Williams didn’t come from an eyewitness or an informant;"
-    publishedDateTime: 2021-08-20T06:15:00Z
-    webUrl: "https://www.chron.com/news/article/How-AI-powered-Tech-Landed-Man-In-Jail-With-Scant-16396942.php"
-    ampWebUrl: "https://www.chron.com/news/amp/How-AI-powered-Tech-Landed-Man-In-Jail-With-Scant-16396942.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/How-AI-powered-Tech-Landed-Man-In-Jail-With-Scant-16396942.php"
+    excerpt: "The Silicon Valley startup launched 25 years ago backed by venture capitalist ... In 2018, it acquired a predictive policing company called HunchLab, which integrates its AI models with ShotSpotter's gunshot detection data to purportedly predict crime ..."
+    publishedDateTime: 2021-08-20T15:22:00Z
+    webUrl: "https://www.phillytrib.com/news/across_america/how-ai-powered-tech-landed-man-in-jail-with-scant-evidence/article_8906ba06-04ed-56ee-8122-65a2bd5f2de3.html"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 57
+      name: Philadelphia Tribune
+      domain: phillytrib.com
+    quality: 37
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://bloximages.chicago2.vip.townnews.com/phillytrib.com/content/tncms/assets/v3/editorial/4/93/493205e0-207a-5f90-8da3-e166ab94624b/611fc6f6afd2b.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
         isCached: true
 
 secured: "I18UAw/cuM2/UUyRHCMQszpKLmxx8KsY1O+vDLM5Lqgg/BbDZgGEldH6/ikFs2eUIMgdSHz9S3pVvsFrChjsqWv25VvyfCYZHI+dhU+YT/HdlvsGX7sRJ6WJJUPS/A3lVwb/46ppHNHBQhg6jiP+LVqF+w3CewzhgXp+QaJVDjbxi6l3He9sYFIz6deBB4zyMEzanEUc2eMbb8k5kgzRSGhg5PdcP4j2AHZnD2ZX2yaeSnNptNxTl9VzbwkzXsSz0h4xNqEFv7b4YfV/1iM90YZhBUYz5sylvRfCCqscJvGJHxZQKtA9f8Xebx3Gh4lMFTOwMqRz6KRT8YFGJbB4CK0e81Nw2Tu6vNBYUHbD4SA=;L2BO+4elwo5z9PAa+9TJPg=="
