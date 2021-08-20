@@ -1,26 +1,22 @@
 ---
 category: news
 title: "Wavicle Data Solutions Establishes Dedicated AWS Solutions Practice"
-excerpt: "video and image solutions using Amazon Rekognition, and audio solutions using Amazon Transcribe. PII Compliance: In order to maintain the privacy of customer data, the Wavicle team provides ..."
-publishedDateTime: 2021-08-02T15:06:00Z
-originalUrl: "https://www.lelezard.com/en/news-19930559.html"
-webUrl: "https://www.lelezard.com/en/news-19930559.html"
+excerpt: "New AWS Solutions Practice focuses on building and enhancing AWS-centric solutions for faster time-to-value for Wavicle customers CHICAGO (PRWEB)"
+publishedDateTime: 2021-08-02T15:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/08/p22276802/wavicle-data-solutions-establishes-dedicated-aws-solutions-practice"
+webUrl: "https://www.benzinga.com/pressreleases/21/08/p22276802/wavicle-data-solutions-establishes-dedicated-aws-solutions-practice"
+ampWebUrl: "https://www.benzinga.com/amp/content/22276802"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22276802"
 type: article
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
-    isCached: true
-
-secured: "E15+LuLbMa7WK3t4YjZIRgPBFkypYVIXoxY0drmy8H0qIyzJRT2nrpWaeXWgyacKX0tRdYTUOavZsobfbgtxF47v6SGGzEJJqW3EI2SWFR3p4oC4BonfweBogyadaEI9bFYBTMF4bw3D648hrlHQNcFYpj5Mu6C+uXmasaK06f2VRorVuKnO44QvWHXtMtPPNxG6QlMG1eYtrZggb15wpHTaUp64Gf4VBV6BqtETQHvZDzXgxbJObS87cYudQERZ/UwHoTpkUFnB/MarqhtKNRU8s/zjlN7d+/OD/VJTo9ymeNWaa3ZB6zwF0ynCKRk7WbNIMVzGJFEC7fRXy1H5k/6Cm0TssDMm/V5EP1V2D8I=;Rs7sLpseUODW9Iek2p6TZw=="
+secured: "tK5ZwlCWV3ennGVmydtpojhP3bc3xGOSKtdFjdsb+irE6PEaoyt1z9UB/XCLhmr7YJc4NN0MtI2cm1zosA0OHwB0qQoKkRkSZRpwWJStNwlzpe0nQm4ble3H55hyeX20CDdeeicOuAvOOnNI6uVfN9vUewl9zz1bmhuS8OQZB8w2++iKNQW91x/8RnujjfGW9gyofKNIBm9riAviEPIOnuRd0UnilBwqs7z22IIbSmqtZCbokuPP6tSyNfw89F8mnPltKxZ1FJbtHjJF2kUq5fKeIaAESmMXMKK3SBqsrMXgy48EO3YIkvxH5sXN0y4aMqXTUx8nwtsjxcwksKWgROu3WV1ylyTBPrjEXx8i0vU=;c2VK7tDxm+XpW5gLxDoM4A=="
 ---
 

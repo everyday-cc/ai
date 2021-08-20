@@ -61,22 +61,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Tesla Bot: A concept humanoid robot embedded with Tesla's vehicle AI"
-    excerpt: "At Tesla AI Day, the company's CEO Elon Musk unveiled a concept humanoid robot that will be powered by the AI currently embedded within Tesla's autonomous vehicles. Aptly named the Tesla Bot, details about the concept robot were limited,"
-    publishedDateTime: 2021-08-20T02:15:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/18502/index.php/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/18502/index.php/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/18502/index.php/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 121
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/08/20/c53f20ad-f148-4044-a3eb-0929d3675012/tesla.png"
-        width: 1390
-        height: 856
-        isCached: true
   - title: "Elon Musk unveils 'Tesla bot,' a humanoid robot that would be made from Tesla's self-driving AI"
     excerpt: "\"There will be profound applications for the economy,\" Musk said about the bot's future capabilities. \"In the future, physical work will be a choice.\""
     publishedDateTime: 2021-08-20T03:12:00Z
@@ -108,6 +92,20 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/03Bc9fh4ZHWjHuDp1ukh4oG-1.1629298473.fit_lim.size_1200x630.jpg"
         width: 1120
         height: 630
+        isCached: true
+  - title: "Tesla Bot: A concept humanoid robot embedded with Tesla's vehicle AI"
+    excerpt: "At Tesla AI Day, the company's CEO Elon Musk unveiled a concept humanoid robot that will be powered by the AI currently embedded within Tesla's autonomous vehicles. Aptly named the Tesla Bot, details about the concept robot were limited,"
+    publishedDateTime: 2021-08-20T02:15:00Z
+    webUrl: "https://www.zdnet.com/index.php/publisher/6291689/index.php/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 101
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/r/2021/08/20/c53f20ad-f148-4044-a3eb-0929d3675012/thumbnail/770x578/1063f420391333387dce4c459db92c3f/tesla.png"
+        width: 770
+        height: 578
         isCached: true
   - title: "Elon Musk’s Plan To Tout Tesla AI Comes As Tougher Scrutiny Of The Company Looms"
     excerpt: "The company's AI Day takes place as NHTSA probes its Autopilot feature and as two Senators call for a Federal Trade Commission investigation of how Tesla promotes Autopilot and Full Self Driving."
@@ -185,21 +183,19 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Tesla pushes new Full Self-Driving Beta update, don’t hold your breath for download button"
-    excerpt: "Tesla has started pushing a new software update for its Full Self-Driving Beta program. CEO Elon Musk released the improvements in the update and gave us an idea of when the wider release is going to happen."
-    publishedDateTime: 2021-08-15T21:30:00Z
-    webUrl: "https://electrek.co/2021/08/15/tesla-pushes-full-self-driving-beta-update-download-button/"
-    ampWebUrl: "https://electrek.co/2021/08/15/tesla-pushes-full-self-driving-beta-update-download-button/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/15/tesla-pushes-full-self-driving-beta-update-download-button/amp/"
+  - title: "Musk shows self-driving progress, humanoid robot at Tesla AI Day"
+    excerpt: "Tesla used its inaugural AI Day to showcase improvements in its self-driving capability -- which has come under a regulatory spotlight -- and unveiled plans for a life-like robot that Elon Musk says will take the drudgery out of everyday life."
+    publishedDateTime: 2021-08-20T08:22:00Z
+    webUrl: "https://europe.autonews.com/automakers/musk-shows-self-driving-progress-humanoid-robot-tesla-ai-day"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 79
+      name: Automotive News
+      domain: autonews.com
+    quality: 73
     images:
-      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-full-self-driving-beta.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Tesla%20during%20testing%20Bloomberg.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "Senators call for consumer watchdog probe into Tesla’s self-driving claims"
     excerpt: "Top Democratic senators are calling on the Federal Trade Commission to launch an investigation into marketing practices at Tesla, days after the National Highway Traffic Safety Administration opened a probe into the car maker’s Autopilot driverless technology."
@@ -217,6 +213,22 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Teslabot: Tesla’s stunning decision to make its own robot, to get the groceries"
+    excerpt: "Tesla drops major bombshell, saying it will make its own robot using the same computing hardware it has developed for autonomous driving."
+    publishedDateTime: 2021-08-20T03:42:00Z
+    webUrl: "https://thedriven.io/2021/08/20/teslabot-tesla-stunning-decision-to-make-its-own-robot-to-get-the-groceries/"
+    ampWebUrl: "https://thedriven.io/2021/08/20/teslabot-tesla-stunning-decision-to-make-its-own-robot-to-get-the-groceries/amp/"
+    cdnAmpWebUrl: "https://thedriven-io.cdn.ampproject.org/c/s/thedriven.io/2021/08/20/teslabot-tesla-stunning-decision-to-make-its-own-robot-to-get-the-groceries/amp/"
+    type: article
+    provider:
+      name: thedriven
+      domain: thedriven.io
+    quality: 72
+    images:
+      - url: "https://thedriven.io/wp-content/uploads/2021/08/teslabot-2.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Senators say Tesla’s ‘self-driving’ claims are misleading, call for FTC probe"
     excerpt: "Driving” features is misleading to consumers and should be investigated by the Federal Trade Commission, two US senators said Wednesday."
     publishedDateTime: 2021-08-18T20:19:00Z
@@ -232,20 +244,6 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/senator-markey.jpg?quality=90&strip=all&w=1024"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Musk Shows Self-Driving Progress, Humanoid Robot at Tesla AI Day"
-    excerpt: "Tesla Inc. used its inaugural AI Day to showcase improvements in its self-driving capability -- which has come under a regulatory spotlight -- and unveiled plans for a life-like robot that Elon Musk says will take the drudgery out of everyday life."
-    publishedDateTime: 2021-08-20T06:03:00Z
-    webUrl: "https://www.bloombergquint.com/business/tesla-showcases-self-driving-progress-at-inaugural-ai-day"
-    type: article
-    provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
-    quality: 71
-    images:
-      - url: "https://gumlet.assettype.com/bloombergquint%2F2021-08%2F317f2532-b723-427c-901c-13ccb9f542a5%2F372941285.jpg?rect=0%2C568%2C3998%2C2099&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Senators call for investigation into Tesla’s marketing of self-driving vehicle features"
     excerpt: "Two Democratic senators have sent a letter to the Federal Trade Commission (FTC) asking for an investigation into Tesla’s marketing of its Autopilot and Fu"
@@ -543,6 +541,6 @@ related:
         height: 630
         isCached: true
 
-secured: "uSI4MCaPn4p/Pk39BEJAWsvvNYhhR2nkbZAJ+dWXEVbzQh8dsvey+abrPWFoYVqbIlu0bzmsNQKgVahNwV5Pc5fV79G+j7x69uG50myLk4P9czseW8/0wQbWpJ8rgQWvj7gAuUhnp/L2MtJtSvZOCtiFufBwwTU1E0Vzy8DRNZ4IpT4tEYwx32lxeycW5lF5Y0bSjsHEDpQG7q8VJ8VEQMWci7y2LvJ9pGA0G6OaPyCRvPK59QIiT25j7zo+61kxwXiWK/OP8PquUY3brLgUvBh+BLrqNPDIWxs3ZmFJyOFHlEO1k7OUVQXDlY9Wz7cqd0w9vAg7nDzBu8ZmBe+3JMOmCcS8ulyLY8lj/sltawQ=;g6Lc6hILpQA0VSWY59k1Dg=="
+secured: "U9awYqOcKyycMq4AyxyfHZLQM6CBywSH/hsXRnO3uTk/jjNlZ+fUCvnqQqm24xgqbFDF8BWA/w0jn959rWynIw2GqvIGgSKElPk9nwSqgzfZGDybXYaJbybtLnJbrG7oaXII134pq6mlGDiiQjZE7LhzcWJlyVV5m6/1koe15zEGKCKzl9AH7zhxbk59lfC/vIHD9SdrWJ1vP+gfS1pF6elLBl1CgSNc5TNHqYBOKR9JMDF4y4icfuFtlWu+OrvNSg6g2hIaTt7JloWCr76xLpZEhiS4kR9g2nfrG2qHxqR8qU2IIP5ioOESdnHzILL8mGGMNAl7LdYuIrXPS6HYORAwHEdlaNkQgAyN3HdkmY+cnbCU5ZgvO87bNa7TZlXuHL06XnW2hAUNS7eXs1Tka1ft5iID5vZAt1amemnxVKsfF2oJztYgd3Jp51FafY6b/ECljCV9TqOiDj3n3V2nSvix4XlIF0ERjNuIXu2Qs1WIFmKWvFzfgRxmWbE+FYeimlCQRWINRju3GIB3pJ+N/A==;MH0Sws2z3IthUWMHo+F7lg=="
 ---
 

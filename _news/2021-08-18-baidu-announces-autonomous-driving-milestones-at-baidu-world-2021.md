@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Baidu Announces Autonomous Driving Milestones at Baidu World 2021"
-excerpt: "Baidu held its annual flagship technology conference, Baidu World 2021, where Co-founder and CEO Robin Li unveiled his vision"
-publishedDateTime: 2021-08-18T12:36:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/baidu-announces-autonomous-driving-milestones-at-baidu-world-2021-301357959.html"
-webUrl: "https://www.prnewswire.com/news-releases/baidu-announces-autonomous-driving-milestones-at-baidu-world-2021-301357959.html"
+excerpt: "Today, Baidu held its annual flagship technology conference, Baidu World 2021, where Co-founder and CEO Robin Li unveiled his vision for mobility of the future alongside a new robotaxi mobile platform that aims to make autonomous vehicles more accessible to the broader public."
+publishedDateTime: 2021-08-18T13:13:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/baidu-announces-autonomous-driving-milestones-at-baidu-world-2021-1030741983"
+webUrl: "https://markets.businessinsider.com/news/stocks/baidu-announces-autonomous-driving-milestones-at-baidu-world-2021-1030741983"
 type: article
-quality: 39
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1597211/Baidu_Co_founder_CEO_Robin_Li_CCTV_host_Beining_Sa_sit.jpg?p=facebook"
-    width: 1270
-    height: 665
+  - url: "https://mma.prnewswire.com/media/1597211/Baidu_Co_founder_CEO_Robin_Li_CCTV_host_Beining_Sa_sit.jpg"
+    width: 400
+    height: 266
     isCached: true
 
 related:
@@ -158,6 +162,6 @@ related:
         height: 507
         isCached: true
 
-secured: "Vo8awDqUQvQwvqLI/6Jyq2NVTZ1epJ1xUZrZCvWUcJwsLOIUm0jyfNoeVhIPgSLprE3YBaKB6Lm1IKGsCNmVV3k+8FxAYd2s7JakKnjHw/5PWvYr/Bl4+96brOOw/jTwFGV4p+qCqq4Yw83cPV+ZcG6B8EXmjwcdTJ5qcy15eUpJJlheGokmORMOZEf/TaWRin7KmrODzH9nI94So1UFFthrTGkZfNTQIKxblsSp48AWbZHTVasRaD386TelDluG+fD3OivSsszNGtXxu3Hewp86Tcs4uuvnK/PM9Vhtjo7RMoac6aU+ySypX/XjBQLQptKHk6tusC7+TZzqpv/gps/74A1n4zuHJjzac7LYTNE=;UE3+4Jl/9dZUkAUms2aV0w=="
+secured: "7ityO3e6whtWsCj2Xs/vPsRCZFKbofLeFZlzNYO2C9P+89ATsi02s1CKthcQ/Sh2XpDv8NWXjGGjXuFGwS4NOV6NdpVNwGpZ6ZRY9xELsSat9EmpLz1MAkb+S53Lo1F18ryvOGKEeUOVOcS4dlfHUnarKaljuHa19Jv6aSaJJ2Wvnb+18ZaHxFA2id7juKbxvbQ7uWyDLiJlyt3Gm5lgS73taCQl09iQxzS0gr4IeJrY5/XYVtJCrcMcRvQZQbWePGk/Zyq7zjo2XRUW1ArE0AQcWAASfigLwV4QwtpFWvACxkuI1f/S8vqaD7qi+3paOkp6gy7blZIARhNx6aIN5/Md6ORk+P7O8Gd5ZG9Ncls=;iaVwyy8XYRr5dVcO9/gmQQ=="
 ---
 

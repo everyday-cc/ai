@@ -38,6 +38,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "How AI will change the future of creative departments"
+    excerpt: "Founder of Creative Content Works and Creative Director of GENIE, the creative industry’s first automated talent agent, argues that AI will soon be at the heart of all agency creative departments."
+    publishedDateTime: 2021-08-20T15:40:00Z
+    webUrl: "https://shots.net/news/view/how-ai-will-change-the-future-of-creative-departments"
+    type: article
+    provider:
+      name: shots
+      domain: shots.net
+    quality: 37
+    images:
+      - url: "https://d17mj1ha1c2g57.cloudfront.net/v1/-C6dcn573KZqYETpJdtXKv1o2GQ/1200x630%23/80/shotsmag/production/clips/1fb9c825-3439-4cbe-aff4-052b534ed913/gettyimages-1312032125.jpg?v=1&quality=70&format=jpeg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Live: How will AI shape our life and future? Live: How will AI shape our life and future? Live: How will AI shape our life and future?"
     excerpt: "The Virtual Baidu World Conference 2021 is underway, demonstrating the firm's latest breakthroughs in artificial intelligence (AI) and its applications in everyday life."
     publishedDateTime: 2021-08-17T14:46:00Z

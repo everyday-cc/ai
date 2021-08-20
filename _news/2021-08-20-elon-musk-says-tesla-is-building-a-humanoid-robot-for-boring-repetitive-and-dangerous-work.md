@@ -164,21 +164,35 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Tesla unveils own chip for AI training computer Dojo"
-    excerpt: "Tesla CEO Elon Musk a few years ago asked Tesla engineer \"to design a superfast training computer and that’s how we started Project Dojo,” Tesla director Ganesh Venkataramanan said at the AI Day event."
-    publishedDateTime: 2021-08-20T02:56:00Z
-    webUrl: "https://www.moneycontrol.com/news/world/tesla-unveils-own-chip-for-ai-training-computer-dojo-7363411.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/world/tesla-unveils-own-chip-for-ai-training-computer-dojo-7363411.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/tesla-unveils-own-chip-for-ai-training-computer-dojo-7363411.html/amp"
+  - title: "Watch Tesla AI Day and follow the important news coming out of it"
+    excerpt: "PM ET (5:00 PM PT) if Tesla is on time, which is a big ‘if’. We are also going to link to all the headline-worthy news coming out of the event. Over the last few years, Tesla started holding events, not really to unveil"
+    publishedDateTime: 2021-08-19T21:49:00Z
+    webUrl: "https://electrek.co/2021/08/19/watch-tesla-ai-day-livestream-important-news/"
+    ampWebUrl: "https://electrek.co/2021/08/19/watch-tesla-ai-day-livestream-important-news/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/19/watch-tesla-ai-day-livestream-important-news/amp/"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 91
+      name: Electrek
+      domain: electrek.co
+    quality: 104
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2021/07/Tesla_Jul8-770x433.jpg?impolicy=website&width=770&height=431"
-        width: 770
-        height: 431
+      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-AI-Day.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Tesla is working on an AI-powered humanoid robot"
+    excerpt: "Tesla is building a humanoid robot simply called the Tesla Bot, Elon Musk has revealed at the automaker's (and, perhaps, soon-to-be-robotmaker's) AI Day event. It's intended to be friendly, he said, and be slow and weak enough that you can outrun and overpower it — you know,"
+    publishedDateTime: 2021-08-20T14:23:00Z
+    webUrl: "https://www.engadget.com/tesla-bot-humanoid-robot-033635103.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 101
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-08/6bb3c8d0-0162-11ec-b9ff-880869fe088f"
+        width: 2790
+        height: 1569
         isCached: true
   - title: "Will Project Dojo be the Central Focus of Tesla's (TSLA) AI Day?"
     excerpt: "The AI Day is expected to shed light on new information about the development progress with respect to Tesla’s much touted Full Self-Driving (FSD) suite. Full Self-Driving builds on Tesla’s advanced driver-assistance system known as Autopilot,"
@@ -219,6 +233,15 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Tesla Unveils Own Chip for AI Training Computer Dojo"
+    excerpt: "Tesla Inc on Thursday unveiled its own computer chips to train its automated driving system. Tesla CEO Elon Musk a few years ago asked Tesla engineer \"to design a superfast training computer and that's how we started Project Dojo,"
+    publishedDateTime: 2021-08-20T02:28:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-08-19/tesla-unveils-own-chip-for-ai-training-computer-dojo"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 81
   - title: "Musk Says Tesla Will Have a Humanoid Robot Next Year"
     excerpt: "CEO Elon Musk said he was trying to recruit engineers and scientists to the company’s AI team. Still, Musk did surprise attendees when he announced plans for Tesla to have a humanoid robot at some point next year."
     publishedDateTime: 2021-08-20T06:42:00Z
@@ -250,6 +273,22 @@ related:
       - url: "https://img.chdrstatic.com/media/794aafcd-9b3d-4b8b-89e1-1afefb5e498f.jpg?width=1200&source=backend&auto=webp"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Tesla's 'AI Day' reveals new AI-learning server, Dojo, and Tesla Bot"
+    excerpt: "Tesla's AI Day event showcased how Tesla is using AI and neural networks to improve self-driving technology, solar power generation and storage, and even powering a humanoid robot called Tesla Bot."
+    publishedDateTime: 2021-08-20T08:04:00Z
+    webUrl: "https://interestingengineering.com/teslas-ai-day-reveals-new-ai-learning-server-dojo-and-tesla-bot"
+    ampWebUrl: "https://amp.interestingengineering.com/teslas-ai-day-reveals-new-ai-learning-server-dojo-and-tesla-bot"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/teslas-ai-day-reveals-new-ai-learning-server-dojo-and-tesla-bot"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 76
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/zDOZKyd0Gk/sizes/tesla-project-dojo-d1-chip-tile_resize_md.jpg"
+        width: 744
+        height: 389
         isCached: true
   - title: "Musk's 'AI Day' confronts tough questions about Tesla's technology"
     excerpt: "Tesla CEO Musk is expected to reveal more about Tesla's \"Dojo\" computing system on Thursday, which he has said would process vast amounts of video data it obtains from Tesla vehicles on the road."

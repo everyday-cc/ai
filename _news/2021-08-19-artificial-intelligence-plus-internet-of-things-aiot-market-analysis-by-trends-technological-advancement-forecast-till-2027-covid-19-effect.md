@@ -56,6 +56,20 @@ related:
         width: 600
         height: 300
         isCached: true
+  - title: "3D Facial Recognition Market Demand, Top Players, Industry Future Growth by 2026"
+    excerpt: "This detailed presentation on ‘ 3D Facial Recognition market’ available at MarketStudyReport.com, features an exhaustive study conveying influential trends prevailing in the global business sphere. The report also presents significant details concerning market size,"
+    publishedDateTime: 2021-08-17T17:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-market-demand-top-players-industry-future-growth-by-2026-2021-08-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Market Size & Share by Sales Revenue, Demands, Growth Factors and Emerging Trends by 2027"
     excerpt: "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue"
     publishedDateTime: 2021-08-17T11:21:00Z

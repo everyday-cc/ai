@@ -38,7 +38,7 @@ related:
     provider:
       name: CMS Wire
       domain: cmswire.com
-    quality: 137
+    quality: 139
     images:
       - url: "https://www.interactions.com/wp-content/uploads/2019/10/voc_wp_content-card.jpg"
         width: 768

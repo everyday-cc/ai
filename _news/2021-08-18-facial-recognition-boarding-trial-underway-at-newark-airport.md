@@ -9,7 +9,7 @@ ampWebUrl: "https://simpleflying.com/newark-airport-facial-recognition/amp/"
 cdnAmpWebUrl: "https://simpleflying-com.cdn.ampproject.org/c/s/simpleflying.com/newark-airport-facial-recognition/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://media.nbcnewyork.com/2019/09/newark-airport-generic-aerials-file-FEB-2017-00011624_WNBC_0000000205.jpg?quality=85&strip=all&fit=1200%2C675"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Facial Recognition Market Size | Opportunity Analysis Report by 2026"
+    excerpt: "Estimates suggests that global facial recognition market size will exceed USD 12 billion in terms of annual valuation by 2026. All the major mobile phone companies including Samsung, Apple, Xiomi Corp and others offer FaceTech in their phones."
+    publishedDateTime: 2021-08-18T04:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-opportunity-analysis-report-by-2026-2021-08-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "7ML29w5dVUlcZVRoC07WH0pfKmiA5iENgj2phByTzlvrSwMpb8zYJ4ecYmjDXvEm7MmK8aK0oraRkntOS5yDR5WBJ8neEiAxMhMCpvGcLh4aiyWJQC0E8gIAJ86717E9hVEVvGEt88D5iyBJ6uu9ayUnrrc9ZZcBJlO8dFKDp8JXoeUT4pi1tQjfcOKwNM4TO9MMxhJRud5cXTZuwkaS5pG/3c1b2WeUPlwV4s/dt2iEc3stoxECvkIuDLWhTISP1pBXa7vhwHjwYE7D1KegmbuJhQsvvvNHYvdN825v6SDa5aH/zATHySb4gyynI3j+yg1JbxbZYoFdFkrR0uNCcuKx0tP5hUR1Ba86dVoiq22M4/e9IwWSETf0I4V5XnvzgA097WvYMoYG4JoocpKCa9EFXre3BfWleHGGBjV5CrhB8hkVNZXlglIrunMJS7vTMgRBgGrAkPcrCxBuVQb/CWTFXXHFOR/beUd9EXtLhbPOWwegHV2NnVseETUXmkLrDa7B3aTdDTCXJnBTYIT72g==;CWAEWBGVY+GUj76QgpmOpg=="

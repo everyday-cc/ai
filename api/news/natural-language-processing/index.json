@@ -62,7 +62,7 @@
       "originalUrl": "https://wonderfulengineering.com/this-new-ai-system-can-translate-natural-language-to-computer-code/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -197,6 +197,49 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-08-16-how-conversational-ai-works-and-what-it-does.md",
+      "title": "How Conversational AI Works and What It Does",
+      "excerpt": "Automatic Speech Recognition (ASR), Advanced Dialog management, and Machine Learning (ML), are likely to pass the Turing Test and provide a more realistic experience than traditional chatbots. Most of us have had interactions on websites with chatbots that were less than satisfactory,",
+      "sourceUrl": null,
+      "webUrl": "https://www.interactions.com/conversational-ai/",
+      "originalUrl": "https://www.cmswire.com/digital-experience/how-conversational-ai-works-and-what-it-does/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.interactions.com/wp-content/uploads/2019/10/voc_wp_content-card.jpg",
+          "width": 768,
+          "height": 430,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-16T05:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI",
         "Natural Language Processing"
       ]
@@ -1393,58 +1436,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-deepgram-launches-10m-speech-recognition-startup-program.md",
-      "title": "Deepgram launches $10M speech recognition startup program",
-      "excerpt": "Speech recognition startup Deepgram is launching a $10 million accelerator program to help develop voice applications.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/03/deepgram-launches-10m-speech-recognition-startup-program/",
-      "originalUrl": "https://venturebeat.com/2021/08/03/deepgram-launches-10m-speech-recognition-startup-program/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/GettyImages-1279453193-e1617364143462.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/03/deepgram-launches-10m-speech-recognition-startup-program/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/03/deepgram-launches-10m-speech-recognition-startup-program/amp/",
-      "publishedDateTime": "2021-08-03T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

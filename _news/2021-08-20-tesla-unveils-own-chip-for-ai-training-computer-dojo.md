@@ -1,31 +1,27 @@
 ---
 category: news
-title: "Tesla unveils own chip for AI training computer Dojo"
-excerpt: "Tesla CEO Elon Musk a few years ago asked Tesla engineer \"to design a superfast training computer and that’s how we started Project Dojo,” Tesla director Ganesh Venkataramanan said at the AI Day event."
-publishedDateTime: 2021-08-20T02:56:00Z
-originalUrl: "https://www.moneycontrol.com/news/world/tesla-unveils-own-chip-for-ai-training-computer-dojo-7363411.html"
-webUrl: "https://www.moneycontrol.com/news/world/tesla-unveils-own-chip-for-ai-training-computer-dojo-7363411.html"
-ampWebUrl: "https://www.moneycontrol.com/news/world/tesla-unveils-own-chip-for-ai-training-computer-dojo-7363411.html/amp"
-cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/tesla-unveils-own-chip-for-ai-training-computer-dojo-7363411.html/amp"
+title: "Tesla Unveils Own Chip for AI Training Computer Dojo"
+excerpt: "Tesla Inc on Thursday unveiled its own computer chips to train its automated driving system. Tesla CEO Elon Musk a few years ago asked Tesla engineer \"to design a superfast training computer and that's how we started Project Dojo,"
+publishedDateTime: 2021-08-20T02:28:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2021-08-19/tesla-unveils-own-chip-for-ai-training-computer-dojo"
+webUrl: "https://www.usnews.com/news/technology/articles/2021-08-19/tesla-unveils-own-chip-for-ai-training-computer-dojo"
 type: article
-quality: 91
+quality: 81
 heat: -1
 published: false
 
 provider:
-  name: moneycontrol.com
-  domain: moneycontrol.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
   - AI in Autos
-
-images:
-  - url: "https://images.moneycontrol.com/static-mcnews/2021/07/Tesla_Jul8-770x433.jpg?impolicy=website&width=770&height=431"
-    width: 770
-    height: 431
-    isCached: true
 
 related:
   - title: "Elon Musk reveals 'Tesla Bot', a humanoid robot utilizing Tesla AI"
@@ -172,6 +168,36 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Watch Tesla AI Day and follow the important news coming out of it"
+    excerpt: "PM ET (5:00 PM PT) if Tesla is on time, which is a big ‘if’. We are also going to link to all the headline-worthy news coming out of the event. Over the last few years, Tesla started holding events, not really to unveil"
+    publishedDateTime: 2021-08-19T21:49:00Z
+    webUrl: "https://electrek.co/2021/08/19/watch-tesla-ai-day-livestream-important-news/"
+    ampWebUrl: "https://electrek.co/2021/08/19/watch-tesla-ai-day-livestream-important-news/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/19/watch-tesla-ai-day-livestream-important-news/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 104
+    images:
+      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-AI-Day.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Tesla is working on an AI-powered humanoid robot"
+    excerpt: "Tesla is building a humanoid robot simply called the Tesla Bot, Elon Musk has revealed at the automaker's (and, perhaps, soon-to-be-robotmaker's) AI Day event. It's intended to be friendly, he said, and be slow and weak enough that you can outrun and overpower it — you know,"
+    publishedDateTime: 2021-08-20T14:23:00Z
+    webUrl: "https://www.engadget.com/tesla-bot-humanoid-robot-033635103.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 101
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-08/6bb3c8d0-0162-11ec-b9ff-880869fe088f"
+        width: 2790
+        height: 1569
+        isCached: true
   - title: "Will Project Dojo be the Central Focus of Tesla's (TSLA) AI Day?"
     excerpt: "The AI Day is expected to shed light on new information about the development progress with respect to Tesla’s much touted Full Self-Driving (FSD) suite. Full Self-Driving builds on Tesla’s advanced driver-assistance system known as Autopilot,"
     publishedDateTime: 2021-08-16T15:47:00Z
@@ -242,6 +268,22 @@ related:
       - url: "https://img.chdrstatic.com/media/794aafcd-9b3d-4b8b-89e1-1afefb5e498f.jpg?width=1200&source=backend&auto=webp"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Tesla's 'AI Day' reveals new AI-learning server, Dojo, and Tesla Bot"
+    excerpt: "Tesla's AI Day event showcased how Tesla is using AI and neural networks to improve self-driving technology, solar power generation and storage, and even powering a humanoid robot called Tesla Bot."
+    publishedDateTime: 2021-08-20T08:04:00Z
+    webUrl: "https://interestingengineering.com/teslas-ai-day-reveals-new-ai-learning-server-dojo-and-tesla-bot"
+    ampWebUrl: "https://amp.interestingengineering.com/teslas-ai-day-reveals-new-ai-learning-server-dojo-and-tesla-bot"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/teslas-ai-day-reveals-new-ai-learning-server-dojo-and-tesla-bot"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 76
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/zDOZKyd0Gk/sizes/tesla-project-dojo-d1-chip-tile_resize_md.jpg"
+        width: 744
+        height: 389
         isCached: true
   - title: "Musk's 'AI Day' confronts tough questions about Tesla's technology"
     excerpt: "Tesla CEO Musk is expected to reveal more about Tesla's \"Dojo\" computing system on Thursday, which he has said would process vast amounts of video data it obtains from Tesla vehicles on the road."
@@ -335,6 +377,6 @@ related:
       domain: localnews8.com
     quality: 25
 
-secured: "0Hd+7tibrfK1SEUi+0Xnh8pNmDePVfOAr/1K5/4m7wKvUpBdKPcxOzhdY59P+9mqqU00vXZvERdtd0FSkhGJ2moC7JqLS0zl8VRbbFyGcMBjRdPtHjI7EQxzwWn4SmxT0lu7kAWPrxFGv7PWwAc0HeA3nR8GREFhXJ4E2CrmW/DMlbRsreQPGDp2cb2gAWRjpidqE09yZZyPA0tdSYz35ds9DNXs4E+HNIO1fM4LH/6eTMSyUKV4ljM7OQKlySPwb/mWAfXPpnvlYpc/rBAATMmsXY52s5wdRBtemJpn/7P51hLp8QeHs7c5sjJzYf2KLhv/ltpP7ixtFzReyrbWsOMjDxOvwZJkomrCIEm510A=;USq4pBOkCMHX38p04KLNMg=="
+secured: "RKPRJEu/naCvR5+zpDfMUkP10/uD8Sj0x9xj0daBcQmYO6k3Bvr8dZkdyFIEil69JJLSjXc2TdBqgZllsErhG3VujCtDCXPP1UJ+sDRUxiwwCJJH8r0VbNzmGqgctWXDI722PQMcczygioXFuXtYMGze9lZf8bUHjHUGG98AoNuZCShE4I1sGadXjedheckXFMXtw/f/GWwchEErCyDKp/Hlhh7n7WiQD3cxQDemm/EwSzXJpeBCuhLD/fq5+rXqybdBSY51623fqdKUuWMlOlFtmw4AxQ6fpNJzV4WHHB6PNb5k+NLJLa777XFrtW1LCSOgg7u+hXEwPUebIxPyC3ZdwlBQqtBHmKaYkLhg9MlApTdggeceYtk3OvT2X0xg48WAMi3eNZIPrbMxg/CiCEnn+3bjuVH1kGaGnA4JHhcVCBtKgR/SDXW0oKXutRyw7VmTqz5a8Q0SPtaeE89ktOHUU9zcEf7mqCsf1bHD3yis1wP0msPMLQsCBjxN45X3ej8ktWRv09m8TfTXFuyrAQ==;xTuds7ASjljNQFyKw+SHtg=="
 ---
 

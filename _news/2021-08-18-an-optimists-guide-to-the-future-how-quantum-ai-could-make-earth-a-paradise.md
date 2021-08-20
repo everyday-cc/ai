@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/optimists-guide-future-quantum-ai-coul
 webUrl: "https://thenextweb.com/news/optimists-guide-future-quantum-ai-could-make-earth-paradise"
 type: article
 quality: 64
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "How AI will change the future of creative departments"
+    excerpt: "Founder of Creative Content Works and Creative Director of GENIE, the creative industry’s first automated talent agent, argues that AI will soon be at the heart of all agency creative departments."
+    publishedDateTime: 2021-08-20T15:40:00Z
+    webUrl: "https://shots.net/news/view/how-ai-will-change-the-future-of-creative-departments"
+    type: article
+    provider:
+      name: shots
+      domain: shots.net
+    quality: 37
+    images:
+      - url: "https://d17mj1ha1c2g57.cloudfront.net/v1/-C6dcn573KZqYETpJdtXKv1o2GQ/1200x630%23/80/shotsmag/production/clips/1fb9c825-3439-4cbe-aff4-052b534ed913/gettyimages-1312032125.jpg?v=1&quality=70&format=jpeg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Music of the Future: Listen to These Songs Made by Artificial Intelligence"
     excerpt: "Artificial Intelligence is taking over the music industry. These AI songs are a blend of human and AI technologies like machine learning."
     publishedDateTime: 2021-08-19T04:21:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/intel-realsense-camera-business-bei
 webUrl: "https://www.therobotreport.com/intel-realsense-camera-business-being-shut-down/"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       - url: "https://www.sixteen-nine.net/wp-content/uploads/2021/08/d455-intel-realsense.jpeg"
         width: 960
         height: 340
+        isCached: true
+  - title: "Why Intel wound down its RealSense computer vision tech unit"
+    excerpt: "Intel CEO Pat Gelsinger said he decided to wind down the chipmaker’s RealSense computer vision division because it did not fit in with the company’s six core businesses, which include the new foundry,"
+    publishedDateTime: 2021-08-20T01:31:00Z
+    webUrl: "https://www.crn.com.au/news/why-intel-wound-down-its-realsense-computer-vision-tech-unit-568829"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/News/20210820123046_0_0_0_0_70__News_Pat_Gelsinger1.jpg"
+        width: 965
+        height: 545
         isCached: true
 
 secured: "DHXS+Lb6eJM3V3nnA3FMYEWM8GKs5GN2LBtpTTmFfzZyqnCzcHrRKqGc8p2ZIME4uPwps5Jhc+qQ4RHuaslWNjCM785Z8Xqvn2dEWK+ZDIUi+03/PZBIu3aTH6b6qSBX5YvaWaRnTFowBnJP4bmHg0+ansCY0In5RTDh/Otv/n+jBQDUGjCLHZE/tdkvrspl3QpKnxN7IqBKiEJUHetNi37chROeLLSuaYaEcWg/sUaQ3Lu+ha8IY//YQ1ohDd5IR5AwyQfQH217ZW0cdQBxPXTcXF3BRm7yeNyOZFADvtfSkXu89rJHGw19GTn7V2/MPTdcSJSxUHgPo9H9kh0QYdJZ8Xy/TFUsD9WGy56wUsnE0MVraZ7Z2URvOJtk4a0MBnkdR4+7mmG0sasjZEPDmwxbu/zC6RrUS08e4EvNZNEEd1ySpXyO+d65SNng5WutOVW0iQSl4FNiyWbRJolS9JUMX+CUztNYkhukLgy9pN4WzqxVM5rExc4YJqHxj05LWhb5JFtUYMqfWk7OeU/Ukw==;h/JHg7V00Cm6jWg6ZSaS9Q=="

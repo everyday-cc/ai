@@ -146,17 +146,17 @@
       "title": "Deep learning model classifies brain tumors with single MRI scan",
       "excerpt": "A team of researchers at Washington University School of Medicine have developed a deep learning model that is capable of classifying a brain tumor as one of six common types using a single 3D MRI scan,",
       "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/924825",
-      "originalUrl": "https://www.eurekalert.org/news-releases/924825",
+      "webUrl": "https://medicalxpress.com/news/2021-08-deep-brain-tumors-mri-scan.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-08-deep-brain-tumors-mri-scan.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/fe06826f-37f6-4b29-a4c8-078a2fdd00f5/Rendition/thumbnail/Content/Public",
-          "width": 274,
-          "height": 300,
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/deep-learning-model-cl.jpg",
+          "width": 1721,
+          "height": 1881,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -164,13 +164,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-11T07:01:00-07:00",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-08-deep-brain-tumors-mri-scan.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-08-deep-brain-tumors-mri-scan.amp",
+      "publishedDateTime": "2021-08-11T07:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1069,34 +1069,34 @@
     {
       "path": "_news/2021-08-06-fico-continues-to-drive-innovation-with-13-new-patents-for-ai-machine-learning-fraud-and-decision-management-platform.md",
       "title": "FICO Continues to Drive Innovation with 13 New Patents for AI, Machine Learning, Fraud and Decision Management Platform",
-      "excerpt": "FICO has been awarded 13 new patents for fraud, AI/ML and decision management platforms Leading digital decision platform company, FICO, today announced that it has been awarded 13 new patents related to artificial intelligence (AI),",
+      "excerpt": "Leading digital decision platform company, FICO, today announced that it has been awarded 13 new patents related to artificial intelligence (AI), machine learning (ML), fraud and decision management platform.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/fico-continues-to-drive-innovation-with-13-new-patents-for-ai-machine-learning-fraud-and-decision-management-platform-1030701250",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/fico-continues-to-drive-innovation-with-13-new-patents-for-ai-machine-learning-fraud-and-decision-management-platform-1030701250",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fico-continues-to-drive-innovation-with-13-new-patents-for-ai-machine-learning-fraud-and/article_56c9cb39-a1f4-51ca-9c16-3ba83b22c78a.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fico-continues-to-drive-innovation-with-13-new-patents-for-ai-machine-learning-fraud-and/article_56c9cb39-a1f4-51ca-9c16-3ba83b22c78a.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/53/45360abc-e30f-59d8-b8ab-b5f5d7c8e141/60ace7f7122c5.image.jpg?resize=1200%2C441",
+          "width": 1200,
+          "height": 441,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-06T07:00:00-07:00",
+      "publishedDateTime": "2021-08-06T05:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

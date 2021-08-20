@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2021/08/18/operational
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2021/08/18/operationalizing-ai-ethics-no-longer-an-option-but-an-imperative/amp/"
 type: article
 quality: 104
-heat: 115
+heat: 125
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Column: Simplifying live broadcast operations using AI and machine learning"
+    excerpt: "Pulling back the curtain on AI and machine learning in live broadcast workflows Artificial Intelligence ... Read More"
+    publishedDateTime: 2021-08-16T11:39:00Z
+    webUrl: "https://www.newscaststudio.com/2021/08/16/simplifying-broadcast-using-ai-and-machine-learning/"
+    type: article
+    provider:
+      name: Newscast Studio
+      domain: newscaststudio.com
+    quality: 52
+    images:
+      - url: "https://www.newscaststudio.com/wp-content/uploads/2021/08/machine-learning-ai.jpg"
+        width: 1100
+        height: 621
+        isCached: true
   - title: "Machine Learning Operationalization Software Market Projected to Grow at a Steady Pace During 2021-2027 Covid-19 Analysis | KNIME, Seldon"
     excerpt: "To continue with the reviews and details provided in this innovative Machine Learning Operationalization Software market report it also aims at providing advanced data concerning to Machine Learning Operationalization Software market global status market trends analysis segment size growth share"
     publishedDateTime: 2021-08-17T13:21:00Z

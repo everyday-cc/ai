@@ -6,8 +6,8 @@ publishedDateTime: 2021-08-16T12:41:00Z
 originalUrl: "https://www.cmswire.com/digital-experience/how-conversational-ai-works-and-what-it-does/"
 webUrl: "https://www.interactions.com/conversational-ai/"
 type: article
-quality: 137
-heat: 177
+quality: 139
+heat: 179
 published: true
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.interactions.com/wp-content/uploads/2019/10/voc_wp_content-card.jpg"
@@ -87,6 +88,6 @@ related:
         height: 618
         isCached: true
 
-secured: "xBlWQnG48prtFd1oDDWrrQoOw3j4fMkBmAiLNj2qjrSW3MR9iU1LgBDweYCmB8oNq4XoOepNZB8x6CUTLcDkbEYpVZkS4nmwxddT/PCQ10akYygTQelfWpuKatyQxvkHMhnehW41gqfnFWi9G65asso6Hby/Wpo/+abDFNaz/6NaIqtsLhEUyObJvlwdfzUPvK4n8G/b3f1FpiPXqJ4xKIyTyeueUiWmIJoXTo806IIVfYFwv84o/j8G99cAtkjwzYFi/bTYWiBN3ekd9Vb4q/eBwFA4gf7Q2Uf311CJziD2Ac+Dk0z+ubBUHFxHxZtyiHaZhdJFwrIVefDoU0hCWfZofPwV7xe274vhdoHrzik=;YWDfnNAyd4wooNBUF95vfw=="
+secured: "fBzp15cqplSEbHXB/9HhLORTtVEkQRTmCn05z0rmIrh3SQLXNMHNOZmzH3I02unHd3x213Z1NrY9u5zku4p8wSuiuRbVhlDgONd0ZOgcUO8GxlFOP3hdwMU6w5btfUaGSP8s2CHzNd4czWlBWxL9RXedkdb2uuploXa+CS+Wg+PwHyWsODlAaUtHFRrAC0J5OFXkt0bjtpsiJ/5ZmQz2WbukIBeno0U6hDs9BKMf2i8HPEMXy4xtI1sxIv97+yKQU0jLXYZyJpNidsBFG7NPH31PJxapp+SxL9Przf5IT+ThbrxCh9Uc3fqk1TTKGJ+x44G918aAADB1SqW05efcTmbYU2DzmPBgLfvZ6S9I9bodUPR5jKtVA6u4uYHSiaF8dYW/+4GR4+2o2blW+dUU7o964boKcWH9QsoQMDIyJDybsq6XO4K8lg8/cdHwXxpn5OrMHvh2W/lvNguQmKgNj2YYBLwoDoBWX8SxxhCM5F7qJakyw+lcfJCo+EL/hA1MLXkxMQEt9byGAM03SyshCQgSaNr4QJgsvetT0X83JjM=;lm47pespnY5qUzY2YwOJAg=="
 ---
 
