@@ -50,6 +50,20 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 66
+  - title: "ClosedLoop.ai Raises $34M Series B to Usher in AI-enabled Healthcare"
+    excerpt: "ClosedLoop.ai, healthcare’s data science platform, today announced a $34 million Series B financing. The investment"
+    publishedDateTime: 2021-08-18T12:53:00Z
+    webUrl: "https://www.enterpriseai.news/2021/08/18/closedloop-ai-raises-34m-series-b-to-usher-in-ai-enabled-healthcare-and-tackle-trillion-dollar-healthcare-problem/"
+    type: article
+    provider:
+      name: enterpriseai
+      domain: enterpriseai.news
+    quality: 56
+    images:
+      - url: "https://www.enterpriseai.news/wp-content/uploads/2019/03/EAI2-01-fb.png"
+        width: 1598
+        height: 840
+        isCached: true
   - title: "FinTech: AI and the future of financial services"
     excerpt: "AI has given birth to the fintech industry, making digital transactions and data aggregation a new way of life, but what does the future hold?"
     publishedDateTime: 2021-08-17T09:23:00Z
@@ -66,16 +80,16 @@ related:
         isCached: true
   - title: "ClosedLoop.ai Raises $34M Series B to Usher in AI-Enabled Healthcare and Tackle Trillion-Dollar Healthcare Problem"
     excerpt: "ClosedLoop.ai., healthcare’s data science platform, today announced a $34 million Series B financing. The investment round, led by Telstra Ventures with participation from Breyer Capital, Greycroft Ventures,"
-    publishedDateTime: 2021-08-17T10:02:00Z
-    webUrl: "https://www.djournal.com/closedloop-ai-raises-34m-series-b-to-usher-in-ai-enabled-healthcare-and-tackle-trillion/article_4f901115-5a95-5de3-951f-d5a015668b37.html"
+    publishedDateTime: 2021-08-17T10:01:00Z
+    webUrl: "https://www.newspressnow.com/news/national_news/coronavirus/closedloop-ai-raises-34m-series-b-to-usher-in-ai-enabled-healthcare-and-tackle-trillion/article_c8f201bf-2548-597a-8f0c-b35452291baf.html"
     type: article
     provider:
-      name: Daily Journal
-      domain: djournal.com
-    quality: 32
+      name: News-Press NOW
+      domain: newspressnow.com
+    quality: 34
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/7/b3/7b39322b-9a77-5c23-8ca9-34c4ef28a821/611b8ce50c2f9.image.jpg?crop=1699%2C956%2C0%2C131&resize=1120%2C630&order=crop%2Cresize"
-        width: 1120
+      - url: "https://bloximages.newyork1.vip.townnews.com/newspressnow.com/content/tncms/assets/v3/editorial/9/24/92406886-a2ff-536d-b642-72461e2f6078/611b8c2708266.image.jpg?resize=878%2C630"
+        width: 878
         height: 630
         isCached: true
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202108/informed-consent-key-to-com
 webUrl: "https://www.biometricupdate.com/202108/informed-consent-key-to-compliant-retail-facial-recognition-deployments"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1100
     height: 734
     isCached: true
+
+related:
+  - title: "New UK live facial recognition code proposed has potential for adverse effects"
+    excerpt: "The proposed code states that any use of live facial recognition should quickly delete any unused biometric data collected."
+    publishedDateTime: 2021-08-19T20:02:00Z
+    webUrl: "https://www.biometricupdate.com/202108/new-uk-live-facial-recognition-code-proposed-has-potential-for-adverse-effects"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/11151135/biometric-identification-facial-recognition.jpg"
+        width: 1600
+        height: 1109
+        isCached: true
 
 secured: "qsRMikbm2QKC7YLEBBp4LQU7R0YnNSDUAYHhbeG53pM9saHWi0kVQOcm8mDnELC/x15pGC9nLQR6EKWbva3zoTN0MaMQuN3U9UyRAkCE1ZtsDSBI5gmaS4gqwKqS/qLa/pK0BntpVxoY/u7udgflPDHQ+bwXDLfc036/GlMvOVv++Jsukn3hOlglRuQuR8NkjjT3hC4WPIeZeSIGu1iW6dBsyuWxGjFVgjVidbrzwaiwv4vTQKXfcqTg450aIJ1LZAv9aqTLbQD8sNwvKU+8Mm+KgrStn25NXnVsJK6+m18ZH6UL40+5mPCNr6BmxjpqkxFmD7IV84aFAJq9MCZ+jm3riZxy00r5sQiPHKnx6xMqMF+4gg0OZG6eSiA98oRLwmIh/k//jjc12nuJ2KCfFU6Vd+a5hFZ1ke4ixQVH4K9ZhCmWNINg62iz+rX8HtcaTTP+Me5/Rq1kolYP8eBuHYvDvB6dGhMM7K2LSzb61lK/XbMNZWrjTv2dw+S09z6uKfkgD32DsRmQwgUc/PvWgg==;koTCllCQDuvVXffwdp0p3w=="
 ---

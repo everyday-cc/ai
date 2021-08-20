@@ -19,19 +19,14 @@ topics:
 
 related:
   - title: "Domo Named a Leader in Augmented Business Intelligence (BI) Platforms Report by Independent Research Firm"
-    excerpt: "tiles' that can be dragged and dropped into Domo's data pipeline (Magic ETL), guided ML (via native integration with Amazon SageMaker Autopilot, a separately sold product), and integration with ..."
-    publishedDateTime: 2021-08-17T12:14:00Z
-    webUrl: "https://www.lelezard.com/en/news-19955076.html"
+    excerpt: "Domo (Nasdaq: DOMO), provider of the Domo Business Cloud, today announced that Forrester Research ( News - Alert) has named the company a Leader in The Forrester Wave™: Augmented BI Platforms, Q3 2021 authored by vice president and principal analyst Boris Evelson and published on August 16,"
+    publishedDateTime: 2021-08-17T12:18:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-domo-named-leader-augmented-business-intelligence-bi-platforms-/2021/08/17/9431967.htm"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 7
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
   - title: "Verint Named a Market Leader in Opus Research Conversational Intelligence Intelliview Report"
     excerpt: "Verint ® (NASDAQ: VRNT), the Customer Engagement Company ™, today announced that Opus Research has named Verint's (News - Alert) artificial intelligence (AI) and analytics solutions the overall market leader in Conversational Intelligence out of a field of 11 vendors evaluated in its new Opus Research Conversational Intelligence Intelliview Report."
     publishedDateTime: 2021-08-17T12:39:00Z

@@ -44,6 +44,20 @@ related:
         width: 2477
         height: 1509
         isCached: true
+  - title: "Baidu Announces Autonomous Driving Milestones at Baidu World 2021"
+    excerpt: "Today, Baidu held its annual flagship technology conference, Baidu World 2021, where Co-founder and CEO Robin Li unveiled his vision for mobility of the future alongside a new robotaxi mobile platform that aims to make autonomous vehicles more accessible to the broader public."
+    publishedDateTime: 2021-08-18T13:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/baidu-announces-autonomous-driving-milestones-at-baidu-world-2021-1030741983"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://mma.prnewswire.com/media/1597211/Baidu_Co_founder_CEO_Robin_Li_CCTV_host_Beining_Sa_sit.jpg"
+        width: 400
+        height: 266
+        isCached: true
   - title: "Baidu boss Robin Li unveils 'robocar', his vision for the future of autonomous driving"
     excerpt: "“Baidu has an edge in developing self-driving cars [because of] its Apollo platform,” said Peter Chen, an engineer with car components company ZF TRW in Shanghai. “The industry is keen to know to what extent its models can turn out to be autonomous."
     publishedDateTime: 2021-08-19T02:29:00Z
@@ -59,20 +73,6 @@ related:
       - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Aug2021/20210819_robin_twitter.jpg?itok=wDNm1WtL"
         width: 763
         height: 509
-        isCached: true
-  - title: "Baidu Announces Autonomous Driving Milestones at Baidu World 2021"
-    excerpt: "Baidu held its annual flagship technology conference, Baidu World 2021, where Co-founder and CEO Robin Li unveiled his vision"
-    publishedDateTime: 2021-08-18T12:36:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/baidu-announces-autonomous-driving-milestones-at-baidu-world-2021-301357959.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1597211/Baidu_Co_founder_CEO_Robin_Li_CCTV_host_Beining_Sa_sit.jpg?p=facebook"
-        width: 1270
-        height: 665
         isCached: true
   - title: "Baidu unveils 1st fully autonomous robocar prototype"
     excerpt: "Chinese internet search giant Baidu Inc. unveiled on Wednesday its first L5 self-driving robocar prototype with no steering wheel, and an upgraded autonomous driving service platform named Luobo Kuaipao,"
@@ -159,6 +159,6 @@ related:
         height: 507
         isCached: true
 
-secured: "EkhQ4uAIQnbBZ5p8FpaLOPx8lTGB/mPwPN6lI/Ag5t9/5hCwMX9qf7+KOzMvzd7gKE/il/AWFxRLfhs6LgSRxriWaQDWMD6D8KPhwx4Go2XGVWpecxqyHoWCIdXw3sQ6YGWuvme9YoiHzR6GvKiC4dH8YRPlseanF3zijgvLKlWNdz29t+5Py0TN7kt1FqgZaq5aU1/O2aVJotOAp85zZl8p+mE3BMBvnwIwW8z5yzGm0RR51F3aQ/qZY0ED9Uie0lPFoHBL9ROXCxdd517AMgTOlLENtnDYcjf5MvQJNg8e1W3slW9m5vNtk9zR6LzSDOD48X1VJFja9JuLnGL+2teu0Sy1HI49Am3sY3tsMzQ=;nrS3NaUr+MJJ5eXnABmzcg=="
+secured: "21x2fqzP0YzCO/YiR/JYbbJQPZ2OBdL/KIP4wi6b4WRUg1fSB3VyJaw9tLS6sGctIctmuOVosQG1Ll4PV94LgWDmTXLx18oK3rFNEVvT0uUw30jVAAImjnyPJB3vbvwSu6Z51oohxa+27B6rs4Mh/ja5pHHl/fWMDyDYdrpHGWrQaEQ+/aCJf5Ohj9z09SNtemL2YGzMZiCG+rgzAyl00nvtzx3ZGCsV0y1zy28nuhioPGDaJI445Ffr6lB68cDP3g7W/MRy8oNz1PC7fHEJohGl0dHOGMhRjxsIZR6fbYEw1xBZ6p0772DkXQy8vSXwCtaqrqZgwagB9uxkGZqrnhTzTvFe3iPtAzXsQl12SNvmDL7IXY60oIrlLDFpzuz3jNIyAG9pR8NJnysF5NoBQuZCG6KC5Y0pZc9VCQee9BMyKkDCByFCI7uBMZpP57N7VIIqSkjfRhbgctLeJ7Fm0+FfgTh0He1ZTda/TGbfuhS8MCVsPcQyIgWzZvYJJCHZA+hF6rFx7lPiumurRjLs2A==;ASO+xVKqkN4mklTJoESb7A=="
 ---
 

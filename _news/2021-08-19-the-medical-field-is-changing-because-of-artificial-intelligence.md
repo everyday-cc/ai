@@ -6,7 +6,7 @@ publishedDateTime: 2021-08-19T14:50:00Z
 originalUrl: "https://dataconomy.com/2021/08/medical-field-changing-artificial-intelligence/"
 webUrl: "https://dataconomy.com/2021/08/medical-field-changing-artificial-intelligence/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://dataconomy.com/wp-content/uploads/2021/08/medical-field-changing-artificial-intelligence.jpg"
@@ -54,6 +55,20 @@ related:
       - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intelligence-2-1024x389.jpeg"
         width: 1024
         height: 389
+        isCached: true
+  - title: "The hidden helping hand: expert reveals how AI tech is changing the industry"
+    excerpt: "There’s an obvious reason for this – most physical locations were closed, so organizations had to fall back on online support – but it becomes especially interesting to note this is just a taster of an AI-centric revolution currently changing the world of finance."
+    publishedDateTime: 2021-08-19T15:31:00Z
+    webUrl: "https://www.wealthprofessional.ca/investments/wealth-technology/the-hidden-helping-hand-expert-reveals-how-ai-tech-is-changing-the-industry/359051"
+    type: article
+    provider:
+      name: wealthprofessional.ca
+      domain: wealthprofessional.ca
+    quality: 36
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/ca/155/0382_637649839418762625.png"
+        width: 1000
+        height: 600
         isCached: true
   - title: "Op-Ed: AI and the future of gaming — A piece of string worth tying into knots"
     excerpt: "The inevitable future of gaming is super-smart, evolving, artificial intelligence. That opens up endless possibilities, not just for gaming, but for that elusive thing, a meaningful human existence. Gaming is a business principle,"

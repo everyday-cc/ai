@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Here’s How Val Kilmer Recreated His Speaking Voice Using Artificial Intelligence"
+    excerpt: "Val Kilmer lost his voice during his battle with throat cancer, but now he's recreated his speaking voice in an special way."
+    publishedDateTime: 2021-08-19T17:40:00Z
+    webUrl: "https://www.cheatsheet.com/entertainment/val-kilmer-recreated-speaking-voice-using-artificial-intelligence.html/"
+    type: article
+    provider:
+      name: The Cheat Sheet
+      domain: cheatsheet.com
+    quality: 32
+    images:
+      - url: "https://www.cheatsheet.com/wp-content/uploads/2021/08/Val-Kilmer-at-the-United-Nations-headquarters-1200x878.jpg"
+        width: 1200
+        height: 878
+        isCached: true
 
 secured: "GPpfuZYGubWAKHF3wTS93X1p1TGiRSOzheZhi/5gkwmem7r7cs2BCq3y/xvTC/u4mUofQ+M1DcGhQtyqKniTX5g6Lbix9u+DDYqGLp2HYn5mV6Aopn5Upd3RqlbHswj+A9vuPEOegwuRHsjYbIGVx6WnVsDDDXrSKJn/Eekq5ViQUqfMoyoGa/hE8r8ZtjNyEQGsO5jp+lM9ui0X2EwS9aJrbOqGoztjScxQD2Z6y33QdPTl9u8eMZmh5030ZLQCzt9wJRzCp6a9SVGqVBFotM7KcqEBM9tkNOe0cop/h6oGPg6C/P+3HKhFxCjrdMcg0Siz9V5KCIz5eJLGSQB5e5EIWz81p/jSvPlD6QjebOY=;LAdl0zf+gw12mOIbuV2y0w=="
 ---

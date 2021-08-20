@@ -86,6 +86,20 @@ related:
         width: 780
         height: 470
         isCached: true
+  - title: "Global Face Recognition Device Market Size, Opportunities, Historical Analysis, Development Status, Business Growth by 2025"
+    excerpt: "Global Face Recognition Device Market report added by Market Study Report that gives meticulous investigation of current scenario of the market size, share, demand, growth, trends, companies active in the industry and forecasts for the coming years."
+    publishedDateTime: 2021-08-16T15:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-device-market-size-opportunities-historical-analysis-development-status-business-growth-by-2025-2021-08-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Energy Market Recent Trends, Future Growth, Industry Analysis, Outlook, Insights, Share and Forecasts Report 2028"
     excerpt: "The global Artificial Intelligence in energy market is expected to reach a market size of USD 20.83 Billion at a steady CAGR of 23.6% in 2028, according to latest analysis by Emergen Research. This steady revenue growth can be attributed to increasing need to obtain operational efficiency to meet energy requirements."
     publishedDateTime: 2021-08-18T08:24:00Z

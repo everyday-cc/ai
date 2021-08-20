@@ -2,25 +2,26 @@
 category: news
 title: "ClosedLoop.ai Raises $34M Series B to Usher in AI-Enabled Healthcare and Tackle Trillion-Dollar Healthcare Problem"
 excerpt: "ClosedLoop.ai., healthcare’s data science platform, today announced a $34 million Series B financing. The investment round, led by Telstra Ventures with participation from Breyer Capital, Greycroft Ventures,"
-publishedDateTime: 2021-08-17T10:02:00Z
-originalUrl: "https://www.djournal.com/closedloop-ai-raises-34m-series-b-to-usher-in-ai-enabled-healthcare-and-tackle-trillion/article_4f901115-5a95-5de3-951f-d5a015668b37.html"
-webUrl: "https://www.djournal.com/closedloop-ai-raises-34m-series-b-to-usher-in-ai-enabled-healthcare-and-tackle-trillion/article_4f901115-5a95-5de3-951f-d5a015668b37.html"
+publishedDateTime: 2021-08-17T10:01:00Z
+originalUrl: "https://www.newspressnow.com/news/national_news/coronavirus/closedloop-ai-raises-34m-series-b-to-usher-in-ai-enabled-healthcare-and-tackle-trillion/article_c8f201bf-2548-597a-8f0c-b35452291baf.html"
+webUrl: "https://www.newspressnow.com/news/national_news/coronavirus/closedloop-ai-raises-34m-series-b-to-usher-in-ai-enabled-healthcare-and-tackle-trillion/article_c8f201bf-2548-597a-8f0c-b35452291baf.html"
 type: article
-quality: 32
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Daily Journal
-  domain: djournal.com
+  name: News-Press NOW
+  domain: newspressnow.com
 
 topics:
-  - AI in Healthcare
+  - Machine Learning
   - AI
+  - AI in Healthcare
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/7/b3/7b39322b-9a77-5c23-8ca9-34c4ef28a821/611b8ce50c2f9.image.jpg?crop=1699%2C956%2C0%2C131&resize=1120%2C630&order=crop%2Cresize"
-    width: 1120
+  - url: "https://bloximages.newyork1.vip.townnews.com/newspressnow.com/content/tncms/assets/v3/editorial/9/24/92406886-a2ff-536d-b642-72461e2f6078/611b8c2708266.image.jpg?resize=878%2C630"
+    width: 878
     height: 630
     isCached: true
 
@@ -64,6 +65,20 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 66
+  - title: "ClosedLoop.ai Raises $34M Series B to Usher in AI-enabled Healthcare"
+    excerpt: "ClosedLoop.ai, healthcare’s data science platform, today announced a $34 million Series B financing. The investment"
+    publishedDateTime: 2021-08-18T12:53:00Z
+    webUrl: "https://www.enterpriseai.news/2021/08/18/closedloop-ai-raises-34m-series-b-to-usher-in-ai-enabled-healthcare-and-tackle-trillion-dollar-healthcare-problem/"
+    type: article
+    provider:
+      name: enterpriseai
+      domain: enterpriseai.news
+    quality: 56
+    images:
+      - url: "https://www.enterpriseai.news/wp-content/uploads/2019/03/EAI2-01-fb.png"
+        width: 1598
+        height: 840
+        isCached: true
   - title: "FinTech: AI and the future of financial services"
     excerpt: "AI has given birth to the fintech industry, making digital transactions and data aggregation a new way of life, but what does the future hold?"
     publishedDateTime: 2021-08-17T09:23:00Z
@@ -79,6 +94,6 @@ related:
         height: 630
         isCached: true
 
-secured: "PxGWavn9DzNg+jbV9zqLBy8xmmS1EhJpUXvO8oGp1Y4G/qo44H6V+z6MMcr5E6hT7rntxvA6NLnJEHJJ0AF+ZkMJwrezCq/aglnLNg+bqNXNW4N7CWN1AgCGQd2kP8vU1oRVCXAS08oudRX2R1GpJhnAccLHFS69DZ3M1pmOxcngu0d2BVjtdT2CsqBOhh67pHg7YAYHY1DRboRt2jXCRJzoWXqsBGE/C6pglurajayxAJVu58Lw5Lw+H7FBPv91qW5xKMq3kCQ/lMA2+Yyq55JPRL8RrKYMPmwmDjdYBVrpGkfQw77r7CAMYNYDdH/lykqgNj2/+pEAUN/yFB1Innu7mufHKa5Kgjq1CEZnvqE=;YIXXZE6mtDt4o19pPniGZQ=="
+secured: "7SjsYmRElECQ7w0Vhk78a3MKDNHhO4beJ89BhX7e4DPGaFAZx2MtR8Fru4YHg57gOr9sa3vCg+9ge1ArjG5Uy1aU6h6VAhjLgin38YsLrhOVckzYyTEjDaHUzecK4blMgLgaYz3m7hkzFsCfxD7s8rIV7btWqzr0Hy1PYEncE/GJ/4G18X+KJlPfmkBYzeStQIWz2aAdthFwVcBd1YFtwBaJBNQxIKu+Rg22XzY1m7aW2JDAzzz2npFzcn1rh8Xvd8mfWvAIG4sDXuqUf/RCgMRVEJXbmKGoIdHeQLGGLDGeOsyT0XSF9nLk0Q1VT5EnlFSVb35ThfphNWpYedVyyO22lzKlHGfJ8VaiPz2Li6o=;DieFJVYI0rt3Bv/oc+3YYg=="
 ---
 

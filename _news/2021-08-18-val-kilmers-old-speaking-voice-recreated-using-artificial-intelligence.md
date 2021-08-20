@@ -9,8 +9,8 @@ ampWebUrl: "https://www.ladbible.com/news/celebrity-val-kilmers-speaking-voice-r
 cdnAmpWebUrl: "https://www-ladbible-com.cdn.ampproject.org/c/s/www.ladbible.com/news/celebrity-val-kilmers-speaking-voice-recreated-using-artificial-intelligence-20210818.amp.html"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: LADbible
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Here’s How Val Kilmer Recreated His Speaking Voice Using Artificial Intelligence"
+    excerpt: "Val Kilmer lost his voice during his battle with throat cancer, but now he's recreated his speaking voice in an special way."
+    publishedDateTime: 2021-08-19T17:40:00Z
+    webUrl: "https://www.cheatsheet.com/entertainment/val-kilmer-recreated-speaking-voice-using-artificial-intelligence.html/"
+    type: article
+    provider:
+      name: The Cheat Sheet
+      domain: cheatsheet.com
+    quality: 32
+    images:
+      - url: "https://www.cheatsheet.com/wp-content/uploads/2021/08/Val-Kilmer-at-the-United-Nations-headquarters-1200x878.jpg"
+        width: 1200
+        height: 878
+        isCached: true
   - title: "AI gave Val Kilmer his voice back. But critics worry the technology could be misused."
     excerpt: "Val Kilmer lost his natural speaking voice in 2015 during a battle with throat cancer. The Hollywood actor worked with an AI firm to digitally restore it."
     publishedDateTime: 2021-08-18T17:36:00Z
