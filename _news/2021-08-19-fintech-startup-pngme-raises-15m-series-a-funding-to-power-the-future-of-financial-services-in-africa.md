@@ -85,20 +85,6 @@ related:
         width: 300
         height: 400
         isCached: true
-  - title: "Sharon French Joins Fintech TIFIN as Senior Partner as over 50 ETFs and Mutual Funds Use the Platform to Reach Financial Advisors and Investors"
-    excerpt: "TIFIN, a fintech platform using artificial intelligence and investment-driven personalization to shape the future of investor experiences, today announced that financial industry veteran"
-    publishedDateTime: 2021-08-16T12:47:00Z
-    webUrl: "https://www.gjsentinel.com/news/colorado/sharon-french-joins-fintech-tifin-as-senior-partner-as-over-50-etfs-and-mutual-funds/article_ec0c1c34-2ab0-576a-9002-7e92ec5a33ec.html"
-    type: article
-    provider:
-      name: The Grand Junction Daily Sentinel
-      domain: gjsentinel.com
-    quality: 0
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/gjsentinel.com/content/tncms/assets/v3/editorial/d/90/d90f015c-15a8-5633-8f95-1e14c8de3991/611a62080c207.image.jpg?resize=630%2C630"
-        width: 630
-        height: 630
-        isCached: true
 
 secured: "8jyPMvnmPD4tPgM/GGWGey3de+ikSTu6Ng0U2QI+/s9aLH1V7tnRy/7YWlYO28+7nkepKplaYkS3h0htyW33ftunh5wvAbPV8D0bP+hB58g2eL3uptLt9fBO7N4ddmCtZlX3Vwr+fp0lJNxCwZCbhLO2OMGvsBpdLT/Tslu6GNwst+06VQE5eWfdcDvmCLyWkENQlckQq046pBXVQQDJB0TKrHhikpEIpAjDA7aN5y6/Y85o3Kv+Ekpli++vlfTdflDYzReKB9etJlvxkNXiF5sw5/tUPZ2tIzE+PDnoKHCcdLGiLLSEaBRC+0P85+q+LcnXuaOgWHHY4IEj3zJqHTY75kBCwUFmOROJSg68snwPzY4jaU74tPHSFsE1lpmbL9OZHK8Yb66s+yeCw/SNXW/rtIYbw6g7fupQJt5hO0fLjLXWfOJRTYA+YKEuEwXHi1/MhAiem9b4y7NITAX8kZ4QT4JnImb1/Mh6rVQ6ZgiWBaaZWznA2e0kv7WlHhKFVS6fB6w4K1bemjC/hBqgvg==;pGv6wbLaUPCLrYQxaAh1tw=="
 ---

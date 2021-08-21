@@ -55,15 +55,6 @@ related:
         width: 6000
         height: 4000
         isCached: true
-  - title: "retrain.ai Completes $20M in Funding"
-    excerpt: "PRNewswire/ -- retrain.ai, the Talent Intelligence Platform, today announced it has closed an additional $7 million from"
-    publishedDateTime: 2021-08-16T11:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/retrain-ai-completes-20m-in-funding-1030733721"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
   - title: "ClosedLoop Employs AI to Target Unnecessary Health Spending"
     excerpt: "ClosedLoop.ai is hoping to use artificial intelligence to overcome some of the biggest obstacles in medicine including unnecessary healthcare spending. The Austin, TX-based company has raised $34 million to help it accomplish this task."
     publishedDateTime: 2021-08-17T19:58:00Z

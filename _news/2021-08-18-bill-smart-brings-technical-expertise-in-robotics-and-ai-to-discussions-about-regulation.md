@@ -7,7 +7,7 @@ originalUrl: "https://www.aaas.org/news/bill-smart-brings-technical-expertise-ro
 webUrl: "https://www.aaas.org/news/bill-smart-brings-technical-expertise-robotics-and-ai-discussions-about-regulation"
 type: article
 quality: 62
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Regulation Is Coming"
-    excerpt: "This article explains the moves regulators are most likely to make and the three main challenges businesses need to consider as they adopt and integrate AI. The first is ensuring fairness."
-    publishedDateTime: 2021-08-16T17:59:00Z
-    webUrl: "https://hbr.org/2021/09/ai-regulation-is-coming"
-    ampWebUrl: "https://hbr.org/amp/2021/09/ai-regulation-is-coming"
-    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/09/ai-regulation-is-coming"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 59
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2021/07/R2105G_SUN.jpg"
-        width: 1000
-        height: 562
-        isCached: true
   - title: "Artificial Intelligence Technology Solutions Announces Details of Strategic Relationship with Ghost Robotics Corporation"
     excerpt: "Artificial Intelligence Technology Solutions, Inc., ( OTCPK:AITX), which provides AI-driven security and productivity solutions for enterprise clients, is pleased to announce that it has signed an agreement with Ghost Robotics Corporation (“Ghost”),"
     publishedDateTime: 2021-08-19T13:01:00Z

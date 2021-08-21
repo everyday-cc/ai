@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-ma
 webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-share-growth-strategies-geographical-analysis-and-forecast-by-2027-2021-08-18"
 type: article
 quality: 71
-heat: 211
+heat: 201
 published: true
 
 provider:
@@ -187,20 +187,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 19
-  - title: "Global Artificial Intelligence Market Report (2021 to 2030) - COVID-19 Growth and Change - ResearchAndMarkets.com"
-    excerpt: "COVID-19 Growth and Change to 2030” report has been added to ResearchAndMarkets.com’s offering. This report provides strategists, marketers and senior management with the critical information they need to assess the global artificial intelligence market."
-    publishedDateTime: 2021-08-16T13:03:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-health-coronavirus-pandemic-artificial-intelligence-45b91cdf2c7842bd8d72db1edf75620c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 18
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Global Healthcare Machine Vision System Market (2021 to 2028) - by Product Type, Type, and Application - ResearchAndMarkets.com"
     excerpt: "The “Global Healthcare Machine Vision System Market by Product Type, Type, and Application: Opportunity Analysis and Industry Forecast, 2021-2028” report has been added to ResearchAndMarkets.com’s offering."
     publishedDateTime: 2021-08-18T08:56:00Z

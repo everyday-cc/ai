@@ -6,7 +6,7 @@ publishedDateTime: 2021-08-21T03:03:00Z
 originalUrl: "https://www.bbntimes.com/society/the-artistic-side-of-artificial-intelligence-ai"
 webUrl: "https://www.bbntimes.com/society/the-artistic-side-of-artificial-intelligence-ai"
 type: article
-quality: 52
+quality: 54
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.bbntimes.com/images/articles/global-economy/The_Artistic_Side_of_Artificial_Intelligence_AI.jpg"
@@ -68,6 +69,6 @@ related:
         height: 300
         isCached: true
 
-secured: "Jh6UFB9/cLW7ZFeReWDr224DnG+keK2FTUCL9/9UyubzbTYthhQCYsiEVUhK3mrh4yoTw96W1nMYi/X5j+dbQM5OC/HQmituuHJ0TpgRuwJ5P2B0LRCWpLAJH3fd7NY89gK+KRV7ZzyzM5HrftaGMWD8d8ikosf52EsHWYmer3Dy10DuH4tZXDpPvrbqA0IDXK9YlJnhkmHU7bBHbWT0yFGGGSoPZ01TxNPPTv8h9vo0j/6XRGt9nVVMwghxOUYPHEtX57oxhzzcPRiOL3dAQladx7EMGVjMuicRbrfFBy/VjMccZuNbBHt+DoORHtSuNeIUqi0zWkR2YzMnBIK6RXbKloBGti1YLEanMGn0o5c=;ZpgsXg0SPzmQdsg0lD7kLg=="
+secured: "xbXCcRC/ob0663HXpa2T8reBUKBGtP71Up8/f59qdhIauRoyugrmzaTgZab1fm6wNze6SSM3L+AWL88k0RT/Dlzgle/3z9NZPopLtO1YhBGkf0nVSyj2f/4zvPTRPeuUTE2jemEu64I+VFMUlYUUYBwVdGk7flsEBbRxON5uoWTdHUxmirj0psArtR0lnVOeTZXxYjYwW1O0UWDAaiSKAIVXM7zVxKCcquvyRs4LcMEPzKD/9znVVK3+f36QrckI0mMFFDEz5wVbUqYX0sov5gg9UC227HVqz0HOPd3g7C1sQ7ZSuaTgbKGaeezI1AqvqmhyiFCnVhP52LqPPhXZOtF6Lu6RnTVvhpIi9raTE0iD8D5d7WRTjzWEOZctsUzdIvuCPk8xipyKAYKjzDraqcO/U5TVuo4426bJ82wAi3Ymbe8EN8ZrWrlEYpvbrkNOBuSUHlIHgOmwDWcikinMDKKNNQyA6O/m2rBAXvBfSgqZPX0xeny0OQPUcmv8HZDnFl2RV+fKJBxlkUq+qdFoJA==;YdEeqgLuHXB+yJRm8AxQGA=="
 ---
 

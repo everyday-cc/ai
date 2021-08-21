@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/16/sap-acquires-ai-powered-human-res
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/16/sap-acquires-ai-powered-human-resources-platform-swooptalent/amp/"
 type: article
 quality: 187
-heat: 207
+heat: 197
 published: true
 
 provider:
@@ -30,17 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "SAP acquires machine learning tech company SwoopTalent"
-    excerpt: "SAP said the deal was focused on incorporating the company's data and machine learning intellectual property into their human experience management systems."
-    publishedDateTime: 2021-08-16T11:31:00Z
-    webUrl: "https://www.zdnet.com/article/sap-acquires-machine-learning-tech-company-swooptalent/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/sap-acquires-machine-learning-tech-company-swooptalent/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sap-acquires-machine-learning-tech-company-swooptalent/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 69
   - title: "Conga acquires AI contract risk platform"
     excerpt: "Conga, tradename for AppExtremes LLC, a company engaged in end-to-end digital document transformation, has acquired Contract Wrangler Inc."
     publishedDateTime: 2021-08-19T05:36:00Z

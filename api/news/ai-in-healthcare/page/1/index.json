@@ -45,6 +45,93 @@
       ]
     },
     {
+      "path": "_news/2021-08-20-meet-grace-the-robot-nurse-that-covid-created.md",
+      "title": "Meet Grace, the robot nurse that COVID created",
+      "excerpt": "Meet Grace. She's a robot designed to ease the workload of nurses and front-line workers.She’s the creation of the same company that built Sophia, a robot granted citizenship by",
+      "sourceUrl": null,
+      "webUrl": "https://www.ajc.com/pulse/meet-grace-the-robot-nurse-that-covid-created/JT55K5RIZRCCBCT4JWVES4DXRE/",
+      "originalUrl": "https://www.ajc.com/pulse/meet-grace-the-robot-nurse-that-covid-created/JT55K5RIZRCCBCT4JWVES4DXRE/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ajc.com/resizer/pOESF5YZ-GwT3z4otLueCQYhSX4=/1200x630/d1fegwn2wjh0cs.cloudfront.net/08-19-2021/t_9328b74d675644a187be2357285eed8f_name_fe9f02760a224939b7270c4da778e758.jpeg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ajc.com/pulse/meet-grace-the-robot-nurse-that-covid-created/JT55K5RIZRCCBCT4JWVES4DXRE/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-ajc-com.cdn.ampproject.org/c/s/www.ajc.com/pulse/meet-grace-the-robot-nurse-that-covid-created/JT55K5RIZRCCBCT4JWVES4DXRE/?outputType=amp",
+      "publishedDateTime": "2021-08-20T05:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Atlanta Journal-Constitution",
+        "domain": "ajc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-radiotherapy-market-maintains-steady-pace-of-growth-projected-to-reach-usd-77-billion-by-2027.md",
+      "title": "Radiotherapy Market Maintains Steady Pace of Growth- Projected to reach USD 7.7 billion by 2027",
+      "excerpt": "A recent study conducted by the strategic consulting and market research firm BlueWeave Consulting revealed that the global radiotherapy market was worth USD 5.7 billion in the year 2020. The market is estimated to grow at a CAGR of 4.",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/radiotherapy-market-maintains-steady-pace-of-growth-projected-to-reach-usd-7-7-billion-by-2027/",
+      "originalUrl": "https://manometcurrent.com/radiotherapy-market-maintains-steady-pace-of-growth-projected-to-reach-usd-7-7-billion-by-2027/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manometcurrent.com/wp-content/uploads/2021/08/OEM-Factory-Workout-Clothes-Fitness-Yoga-Wear-Women-Sports-Wear-Gym-Wear-390x220.jpg",
+          "width": 390,
+          "height": 220,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/radiotherapy-market-maintains-steady-pace-of-growth-projected-to-reach-usd-7-7-billion-by-2027/?amp=1",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/radiotherapy-market-maintains-steady-pace-of-growth-projected-to-reach-usd-7-7-billion-by-2027/?amp=1",
+      "publishedDateTime": "2021-08-19T02:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-19-is-artificial-intelligence-contributing-positively-to-parenting-weighing-the-pros-and-cons-with-angela-j-kim.md",
       "title": "Is Artificial Intelligence Contributing Positively To Parenting? Weighing The Pros And Cons With Angela J. Kim",
       "excerpt": "It seems that most discussions about parenting and AI are focused on privacy issues, but there are many other ways in which these two worlds intersect.",
@@ -413,6 +500,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-12-new-technology-for-personalized-antibiotic-therapy.md",
+      "title": "New Technology for Personalized Antibiotic Therapy",
+      "excerpt": "Incorporating a new sensor to antibiotic susceptibility test can reduce inappropriate usage of antibiotics and enhance quality of care for the patients.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/new-technology-for-personalized-antibiotic-therapy-202714-1.htm",
+      "originalUrl": "https://www.medindia.net/news/new-technology-for-personalized-antibiotic-therapy-202714-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/potent-antibiotic-identified.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/new-technology-for-personalized-antibiotic-therapy-202714-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/new-technology-for-personalized-antibiotic-therapy-202714-1.htm",
+      "publishedDateTime": "2021-08-11T10:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-11-can-humor-laughter-ai-reduce-the-stress-of-women-living-with-cancer.md",
       "title": "Can Humor, Laughter & AI Reduce the Stress of Women Living with Cancer?",
       "excerpt": "It sounds like the opening to a classic joke: “A cancer survivor, a scientist, and a doctor walk into a bar,” but instead it’s a groundbreaking 8-week Mindset and Metastatic Cancer Research Study utilizing artificial intelligence to investigate personalized stress reduction strategies for women with living with advanced cancer.",
@@ -778,6 +908,49 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-new-technology-paves-way-towards-personalized-antibiotic-therapy.md",
+      "title": "New technology paves way towards personalized antibiotic therapy",
+      "excerpt": "Researchers have developed a method for monitoring bacterial responses to antibiotics in health-care settings that opens the door to personalized antibiotic therapy for patients. Using microwave sensing technology researchers have developed a low-cost,",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2021/08/210809144123.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2021/08/210809144123.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-09T13:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -1170,180 +1343,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-healthcare-ar-and-vr-market-review-2021-growth-seen-on-heavy-volume-microsoft-ge-healthcare-artificial-life.md",
-      "title": "Healthcare AR and VR Market Review 2021: Growth Seen on Heavy Volume | Microsoft, GE Healthcare, Artificial Life",
-      "excerpt": "The latest research on “Global Healthcare AR and VR Report 2021” offered by HTF MI provides a comprehensive investigation into the geographical landscape, industry size along with the revenue estimation of the business.",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/healthcare-ar-and-vr-market-review-2021-growth-seen-on-heavy-volume-microsoft-ge-healthcare-artificial-life/",
-      "originalUrl": "https://manometcurrent.com/healthcare-ar-and-vr-market-review-2021-growth-seen-on-heavy-volume-microsoft-ge-healthcare-artificial-life/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-03T05:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-ai-quantum-computing-and-other-technologies-poised-to-transform-healthcare.md",
-      "title": "AI, quantum computing and other technologies poised to transform healthcare",
-      "excerpt": "One of the big factors accelerating technological innovation is the healthcare workforce, which has been stressed during the pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.healthcarefinancenews.com/news/ai-quantum-computing-and-other-technologies-poised-transform-healthcare",
-      "originalUrl": "https://www.healthcarefinancenews.com/news/ai-quantum-computing-and-other-technologies-poised-transform-healthcare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.healthcarefinancenews.com/sites/healthcarefinancenews.com/files/doc_nurse_computer_screen_tech_AI_David%20Sacks_Getty%20Images_7.jpg",
-          "width": 635,
-          "height": 353,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-02T13:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Healthcare Finance News",
-        "domain": "healthcarefinancenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-a-new-kind-of-help-for-healthcare-where-proven-science-and-new-technology-merge.md",
-      "title": "A New Kind Of Help For Healthcare: Where Proven Science And New Technology Merge",
-      "excerpt": "Digital therapeutic products derived from best practices and new insights from machine learning offer a key opportunity that has yet to be realized: optimal effective treatment of patients with common conditions that are difficult to control.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/02/a-new-kind-of-help-for-healthcare-where-proven-science-and-new-technology-merge/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/02/a-new-kind-of-help-for-healthcare-where-proven-science-and-new-technology-merge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610405d5ef72b264d3dff7be%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/02/a-new-kind-of-help-for-healthcare-where-proven-science-and-new-technology-merge/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/02/a-new-kind-of-help-for-healthcare-where-proven-science-and-new-technology-merge/amp/",
-      "publishedDateTime": "2021-08-02T05:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-31-deep-learning-in-healthcare-market.md",
-      "title": "Deep Learning in Healthcare Market",
-      "excerpt": "A new intelligence report released by HTF MI with title \"Global Deep Learning in Healthcare Market Survey & Outlook\" is designed covering micro level of analysis by Insurers and key business ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2342651/deep-learning-in-healthcare-market-giants-to-grow-at-much-faster",
-      "originalUrl": "https://www.openpr.com/news/2342651/deep-learning-in-healthcare-market-giants-to-grow-at-much-faster",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/7/U731952845_g.jpg",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2342651/deep-learning-in-healthcare-market-giants-to-grow-at-much-faster",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2342651/deep-learning-in-healthcare-market-giants-to-grow-at-much-faster",
-      "publishedDateTime": "2021-07-31T03:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

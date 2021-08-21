@@ -9,8 +9,8 @@ ampWebUrl: "https://indianexpress.com/article/education/iim-ahmedabad-launches-n
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/education/iim-ahmedabad-launches-new-centre-for-data-science-and-artificial-intelligence-7456342/lite/"
 type: article
 quality: 53
-heat: -1
-published: false
+heat: 83
+published: true
 
 provider:
   name: The Indian Express
@@ -26,36 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "IIM A launches dedicated centre for Data Science and Artificial Intelligence"
-    excerpt: "The centre will also take up challenging consulting projects of considerable practical importance in collaboration with industry players. One of the major highlights of the centre is an exhaustive ann"
-    publishedDateTime: 2021-08-16T11:49:00Z
-    webUrl: "https://www.livemint.com/education/news/iim-a-launches-dedicated-centre-for-data-science-and-artificial-intelligence-11629113784537.html"
-    ampWebUrl: "https://www.livemint.com/education/news/iim-a-launches-dedicated-centre-for-data-science-and-artificial-intelligence/amp-11629113784537.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/education/news/iim-a-launches-dedicated-centre-for-data-science-and-artificial-intelligence/amp-11629113784537.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 54
-    images:
-      - url: "https://images.livemint.com/img/2021/08/16/600x338/iim_1629114559768.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "IIM Ahmedabad Gets New Centre For Data Science, Artificial Intelligence"
-    excerpt: "The centre will undertake research in Data Science and Artificial Intelligence to support businesses, governance, and policymaking, IIM Ahmedabad said."
-    publishedDateTime: 2021-08-16T11:20:00Z
-    webUrl: "https://www.ndtv.com/education/iim-ahmedabad-gets-new-centre-for-data-science-artificial-intelligence"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 37
-    images:
-      - url: "https://cache.careers360.mobi/media/presets/860X430/article_images/2021/8/16/IIM-Ahmedabad.jpg"
-        width: 860
-        height: 430
-        isCached: true
   - title: "DRUID AI and Service Centrix Form a Strategic Partnership"
     excerpt: "DRUID AI and Service Centrix Form a Strategic Partnership  - DRUID virtual assistants may converse and activate activities with both attended and unsupervised robots to streamline"
     publishedDateTime: 2021-08-17T10:48:00Z
@@ -84,20 +54,6 @@ related:
         width: 729
         height: 411
         isCached: true
-  - title: "IIM Ahmedabad Launches Brij Disa Centre for Data Science and Artificial Intelligence"
-    excerpt: "Centre to Serve as a Platform for Industry, Academia, Researchers and Students for Research and Knowledge Generation Ahmedabad, August 16,"
-    publishedDateTime: 2021-08-16T11:03:00Z
-    webUrl: "https://www.indianweb2.com/2021/08/iim-ahmedabad-launches-brij-disa-centre.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 30
-    images:
-      - url: "https://lh3.googleusercontent.com/proxy/dsxOpqUteFMCewkkOrqa966p3tADf0PQD5DaSjD_ADmG5vPZcRu-gc_JDWZRPp3G03ceZrDijV2jOCAlkDDfh9CpgZs"
-        width: 480
-        height: 360
-        isCached: true
   - title: "IIM Ahmedabad inaugurates Brij Disa Centre for Data Science and Artificial Intelligence"
     excerpt: "Ahmedabad/IBNS: The Indian Institute of Management Ahmedabad, a premier global management institute has launched the Brij Disa Centre for Data Science and Artificial Intelligence (CDSA)."
     publishedDateTime: 2021-08-17T05:57:00Z
@@ -112,15 +68,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "UGA launches major hiring initiative in data science and artificial intelligence"
-    excerpt: "As data science and artificial intelligence transform a range of fields, the University of Georgia is making a significant investment in faculty with expertise in using big data to address some of society’s most urgent challenges."
-    publishedDateTime: 2021-08-16T22:10:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/925422"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 14
 
 secured: "0oKvw057+IU/NBf7gQ+whJ/btrcduWtlXtBFdFZzKREkmyYtrv7FbIDnFatDOiqQgXrYtP5qIwrt7sJjbDHJJg0vWHp9TY6dGzZem1k4vmAedyePkFxaAbnDfgNYNdOj0Xr5PBacFxb9P2H4RyHPrT3tWQD7O5X2Wh9/2UDzF5Ig7Nj/MLa7CznQtfpfb7Mws6bOoBhAlbp5DYci5mY6HejEzguupEFNI4LbTW7cUjRerx5USBLefC7SYJTv+VqnXOjSLeU0ficc6YRb5Nzpyho22nR1kzad05zGB7NGYAjLIJrPTGj3lR/8u00VD+JBMDBFNc0plTRud5ewGw6nbLuiqBsYzMTOJsPahNk8/TYknxCYVFDWUr612XJML9sP59nt7X/XMXvJWValVDsZLmU9HHSrhGE05bLHeradFP0Q8XKr4qed8dMFUIT/Fbn123q7CsfY/JIIwJJ15bJPN6rq771PThfRX58iaYs/o1aZNNhJuEAVb/vqNHTOogYjCUAWXXsQ5VXsxDMRzBGvIw==;tYGFVdolHFiOFjR/2v/jPA=="
 ---

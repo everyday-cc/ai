@@ -2,19 +2,19 @@
 category: news
 title: "The future is here: Meet Tesla Bot, Elon Musk's humanoid robot"
 excerpt: "The next project for billionaire Elon Musk? Humanoid robots. The entrepreneur unveiled Tesla Bot on Thursday during an event touting advances in artificial intelligence. According to a description on Tesla's website, the Tesla Bot was designed to perform ..."
-publishedDateTime: 2021-08-21T00:42:00Z
-originalUrl: "https://www.desmoinesregister.com/story/tech/gaming/2021/08/20/tesla-bot-elon-musk-humanoid-robots/8208107002/"
-webUrl: "https://www.desmoinesregister.com/story/tech/gaming/2021/08/20/tesla-bot-elon-musk-humanoid-robots/8208107002/"
-ampWebUrl: "https://amp.desmoinesregister.com/amp/8208107002"
-cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/8208107002"
+publishedDateTime: 2021-08-20T23:32:00Z
+originalUrl: "https://www.azcentral.com/story/tech/gaming/2021/08/20/tesla-bot-elon-musk-humanoid-robots/8208107002/"
+webUrl: "https://www.azcentral.com/story/tech/gaming/2021/08/20/tesla-bot-elon-musk-humanoid-robots/8208107002/"
+ampWebUrl: "https://amp.azcentral.com/amp/8208107002"
+cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/8208107002"
 type: article
 quality: 76
 heat: -1
 published: false
 
 provider:
-  name: Des Moines Register
-  domain: desmoinesregister.com
+  name: The Arizona Republic
+  domain: azcentral.com
 
 topics:
   - AI in Robotics
@@ -431,6 +431,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tesla Bot Division Will Be the Most Successful Robot Company"
+    excerpt: "Here is why Tesla Bot has an assured level of success. The Tesla robots do not have to exceed the level of Boston Dynamic robots for agility to win. Boston Dynamics was founded in 1992 and has recently started making about $50 million a year in revenue."
+    publishedDateTime: 2021-08-20T15:50:00Z
+    webUrl: "https://www.nextbigfuture.com/2021/08/tesla-bot-division-will-be-the-most-successful-robot-company.html"
+    ampWebUrl: "https://www.nextbigfuture.com/2021/08/tesla-bot-division-will-be-the-most-successful-robot-company.html"
+    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/08/tesla-bot-division-will-be-the-most-successful-robot-company.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 76
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/08/Screen-Shot-2021-08-19-at-7.50.47-PM-1024x623.jpg"
+        width: 1024
+        height: 623
+        isCached: true
   - title: "Tesla robots: Musk wants alternative to humans for ‘boring’ work"
     excerpt: "Elon Musk said Thursday night at Tesla's AI Day that the company is building a humanoid robot, and will probably have a prototype next year. Check out what he had to say."
     publishedDateTime: 2021-08-20T10:27:00Z
@@ -582,6 +598,22 @@ related:
         width: 1200
         height: 450
         isCached: true
+  - title: "Elon Musk doubles down on artificial intelligence at Tesla amid scrutiny of autopilot"
+    excerpt: "Elon Musk doubled down on Tesla Inc.’s embrace of artificial intelligence after a week of intensifying scrutiny of the advanced driver-assistance features sold by the electric-vehicle maker. Mr. Musk,"
+    publishedDateTime: 2021-08-20T14:26:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/elon-musk-doubles-down-on-artificial-intelligence-at-tesla-amid-scrutiny-of-autopilot-11629440003179.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/elon-musk-doubles-down-on-artificial-intelligence-at-tesla-amid-scrutiny-of-autopilot/amp-11629440003179.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/elon-musk-doubles-down-on-artificial-intelligence-at-tesla-amid-scrutiny-of-autopilot/amp-11629440003179.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 69
+    images:
+      - url: "https://images.livemint.com/img/2021/08/20/600x338/AFP_9FL4HW_1628918669201_1629440309019.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Elon Musk Says Tesla Wants To Build A Humanoid Robot That Could Replace Human Workers"
     excerpt: "Advertisement Robots replacing humans as the workforce is no more a fantasy. The Tesla supremo Elon Musk revealed at Tesla AI Day that besides developing electric cars and solar power, they are now working on building a humanoid that is soon to replace humans."
     publishedDateTime: 2021-08-20T17:39:00Z
@@ -597,22 +629,6 @@ related:
       - url: "https://wonderfulengineering.com/wp-content/uploads/2021/08/tesla-bot_resize_md.jpg"
         width: 744
         height: 389
-        isCached: true
-  - title: "Elon Musk doubles down on artificial intelligence at Tesla amid scrutiny of autopilot"
-    excerpt: "Elon Musk doubled down on Tesla Inc.’s embrace of artificial intelligence after a week of intensifying scrutiny of the advanced driver-assistance features sold by the electric-vehicle maker. Mr. Musk,"
-    publishedDateTime: 2021-08-20T14:26:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/elon-musk-doubles-down-on-artificial-intelligence-at-tesla-amid-scrutiny-of-autopilot-11629440003179.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/elon-musk-doubles-down-on-artificial-intelligence-at-tesla-amid-scrutiny-of-autopilot/amp-11629440003179.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/elon-musk-doubles-down-on-artificial-intelligence-at-tesla-amid-scrutiny-of-autopilot/amp-11629440003179.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 67
-    images:
-      - url: "https://images.livemint.com/img/2021/08/20/600x338/AFP_9FL4HW_1628918669201_1629440309019.jpg"
-        width: 600
-        height: 337
         isCached: true
   - title: "Elon Musk unveils humanoid robot to take over ‘boring’ work"
     excerpt: "The ‘Tesla Bot,’ a prototype of which should be available next year, is designed to eliminate “dangerous, repetitive and boring tasks,” like bending over to pick something up, or go to the store"
@@ -688,6 +704,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Elon Musk says Tesla building humanoid robot for ‘boring, repetitive and dangerous’ work"
+    excerpt: "Elon Musk said Thursday night at Tesla’s AI Day that the company is building a humanoid robot, and will probably have a prototype next year. “It’s basically going to start dealing with work that is boring,"
+    publishedDateTime: 2021-08-20T12:02:00Z
+    webUrl: "https://www.wishtv.com/news/elon-musk-says-tesla-building-humanoid-robot-for-boring-repetitive-and-dangerous-work/"
+    type: article
+    provider:
+      name: WISHTV8
+      domain: wishtv.com
+    quality: 47
+    images:
+      - url: "https://www.wishtv.com/wp-content/uploads/2021/08/Tesla-robot-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Elon Musk says Tesla is building a humanoid robot for ‘boring, repetitive and dangerous’ work"
     excerpt: "By Matt McFarland, CNN Business Elon Musk said Thursday night at Tesla’s AI Day that the company is building a humanoid robot, and will probably have a prototype next year. “It’s basically going to start dealing with work that is boring,"
     publishedDateTime: 2021-08-20T08:59:00Z
@@ -759,6 +789,6 @@ related:
         height: 1708
         isCached: true
 
-secured: "fqdTaNnZjYdP9/C18p8+xaJg+MTrdgdFYbnz71o46pj3AW5L9YvHJ6FrFq9dipP4k/aiU743gYBJSeBXxxMrhYCc0RPJJzPDz1KkWqfXar9fJsozz3m3SDX4uja5o9vSbLrhjBmDxtBaRxOI1UwxVqiJ8CNhsh6vabBAqKvaggdq3ibmJUmWV6Jpz3wvlnno0Z+V6TxOXSbYxPVJbLKqIUNmYNLDpfazbxBUP9j2pC4borY2aEvqpvThBToO01zOk/TOtdDDNXOJ2nPDzJg0bEwMGiGvZOMCUApMMULBHtmNbwb1pT5uzWsFMb9cml//L67WLGF3E3qpXpNddCAaHqINhRuoVZ4G1yQ1Ywj9vrw=;g67fNyUoBJD7mTy/5IyCYQ=="
+secured: "dTLmrG4l3vOqZQL8mcPh+bu5dgBF2J9aGTcgfSywVxiWv618yE0l7FT7qRZ6m/oUCnRf188Z9N4CyGJlMxFbsZPtlCIC0DNDHrVd8kyI5ji2TqovJLoZvIfFK7ynjod+YdXkJ3fjqWMZHtJ1A83vqVxwE6iEgYILrblq0iizOxGKENgW+TmUII630sTXpiJo2pUYglYmq3us5FDpx9bRotxiNto3KGM1Vkh8D3hub//ReylN6tCCcJ9yBKB9rSX4fMsePPA1I1nJTjYbjMk1zOzTc1OkNQBus/MMjcF4cEvG9C1iNscunKuXdhZAiqm+oYoVA2WHV/uXSYQxaLk+1UoBUTnJLxnoiiRkiQotdrc=;hrzTUh0qZgCnudzfJJ0oqw=="
 ---
 

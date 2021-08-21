@@ -26,22 +26,6 @@ images:
     height: 336
     isCached: true
 
-related:
-  - title: "Shield Named ‘Best Complete Communications Compliance Platform 2021’ by Wealth & Finance International FinTech Awards"
-    excerpt: "Specialist RegTech provider Shield is proud to announce its platform has won the ‘Best Complete Communications Compliance Platform 2021’ category in the Wealth & Finance International FinTech Awards."
-    publishedDateTime: 2021-08-17T14:21:00Z
-    webUrl: "https://www.corporatecomplianceinsights.com/shield-named-best-complete-communications-compliance-platform-2021/"
-    type: article
-    provider:
-      name: corporatecomplianceinsights.com
-      domain: corporatecomplianceinsights.com
-    quality: 16
-    images:
-      - url: "https://www.corporatecomplianceinsights.com/wp-content/uploads/2021/08/gold-award.jpg"
-        width: 1000
-        height: 751
-        isCached: true
-
 secured: "O6df05DVE2J3cM0WCCS+c46uqDgv5PCuTKWh7brJCEYK/m6i3Dfmmz6eyJeFWeP9iJnhzSthK0QiDQ0p0ucdxltGytNke/6GhCf2R0zLdOqypyfChancX6I+6cY88McW1QuDAVSQmSQoPl/IOxviiiMRgDf+d/BQDt2cZ25rPltzpEErr47Le9sJ401sZLENlxBkTxJw2JQbPGEifB/Ui0omm31Ng5QYlq31j/+lfbjoZL4atpKtHeOu+Bd7Pz2qFlIcc4CY1QAi+RYBrRT6RlhM0OXbht8V8UyyL914Yk+6bWnurGkBdycaSHpXl6HyU8ehVo2uBrCJx5Q9a6tmVjGbZTKbrLeQVFB2zNlOzzg=;wwfK8AK88sFpu/pqhKQbNw=="
 ---
 

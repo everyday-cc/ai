@@ -197,20 +197,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 19
-  - title: "Global Artificial Intelligence Market Report (2021 to 2030) - COVID-19 Growth and Change - ResearchAndMarkets.com"
-    excerpt: "COVID-19 Growth and Change to 2030” report has been added to ResearchAndMarkets.com’s offering. This report provides strategists, marketers and senior management with the critical information they need to assess the global artificial intelligence market."
-    publishedDateTime: 2021-08-16T13:03:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-health-coronavirus-pandemic-artificial-intelligence-45b91cdf2c7842bd8d72db1edf75620c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 18
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Global AI-powered X Ray Imaging Market 2021 Growth Opportunities, Top Manufacturers, Regions, Application, and Forecast to 2027"
     excerpt: "MarketsandResearchbiz presented Global AI-powered X Ray Imaging Market report which analyses competitive advancements"
     publishedDateTime: 2021-08-17T01:40:00Z

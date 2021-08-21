@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/08/17/african-fintech-pngme-raises-15m-f
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/17/african-fintech-pngme-raises-15m-for-its-financial-data-infrastructure-platform/amp/"
 type: article
 quality: 84
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -88,20 +88,6 @@ related:
       - url: "https://adserver.20nine.nl/www/delivery/avw.php?zoneid=30&n=5f0197a"
         width: 336
         height: 280
-        isCached: true
-  - title: "Sharon French Joins Fintech TIFIN as Senior Partner as over 50 ETFs and Mutual Funds Use the Platform to Reach Financial Advisors and Investors"
-    excerpt: "TIFIN, a fintech platform using artificial intelligence and investment-driven personalization to shape the future of investor experiences, today announced that financial industry veteran"
-    publishedDateTime: 2021-08-16T12:47:00Z
-    webUrl: "https://www.gjsentinel.com/news/colorado/sharon-french-joins-fintech-tifin-as-senior-partner-as-over-50-etfs-and-mutual-funds/article_ec0c1c34-2ab0-576a-9002-7e92ec5a33ec.html"
-    type: article
-    provider:
-      name: The Grand Junction Daily Sentinel
-      domain: gjsentinel.com
-    quality: 0
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/gjsentinel.com/content/tncms/assets/v3/editorial/d/90/d90f015c-15a8-5633-8f95-1e14c8de3991/611a62080c207.image.jpg?resize=630%2C630"
-        width: 630
-        height: 630
         isCached: true
 
 secured: "4aGrtXyD9tEvmBVNVQXhYFrnQbN8B5NLD7LfLtxLzIyl8ZDJpiExGPOUtHFRnqtkoBBMkoEd1roLM5dOcCRqYTuOEa2a/XU3iMakAO0D/yqgLhKVpQ+O7zr69wRmvCoIBHBzwq0+yoS0hYEvqB4nE8rAbamgyDbGurPeNCY7MZPGUOJT2MqLgNADzx4WdrsOPQSdaQRD+cPzAuJ1pWdLWI+m9PguzWyCfpte63rfuHCXWvlHUXjw/N+PfZgcvzFIj5B16sr+nHNqQs5R0ryiSGnprsxwNizTdzdDm82UTL1piwFz5b3mrideZRwraQylojmz/KFGi9hjWnqZcb9bw1TKTM4lk1MEq9kwIkLHwMWVGpA1zWBSnHF6q9eYiRnxy66/aPqRJrDj+lO6/DxqtOty2dRytGKzFC3Vo8fb/fU3dY4QPasqpAxuJtY1D+uOawOs04iJYG6LTgUypGYONtoxpnTeMlobUuUrEhMifwrhz8vn5A9hQ4zD+VqXAuIMTzdWTTGcNldSX94XZJZvmw==;NDexUHSaWPn+6Kptk/36ZQ=="

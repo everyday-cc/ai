@@ -42,17 +42,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "SAP acquires machine learning tech company SwoopTalent"
-    excerpt: "SAP said the deal was focused on incorporating the company's data and machine learning intellectual property into their human experience management systems."
-    publishedDateTime: 2021-08-16T11:31:00Z
-    webUrl: "https://www.zdnet.com/article/sap-acquires-machine-learning-tech-company-swooptalent/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/sap-acquires-machine-learning-tech-company-swooptalent/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sap-acquires-machine-learning-tech-company-swooptalent/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 69
 
 secured: "nhcm6PlNWc/ginF26597lezomg37hQ1cK4PpTcu3q3CRg7SnfLbClkniHNwjayYwXjapRo36o9e9kZd+xYxcYxAvKltBVsPPSP1faOWdNYuhKqGhjnJuwt7Mpijx+50Xl+OzZbB0QSl7AFixy45yCd/UOY7w1nJUQ+P3xPbhA92sk7mWb1mlWIPDF4Usr90IiUKDtIunRjqIpNIGcTjlkxYRXM4dlY2Aqq7KHHJdu02CFbJVsxRo3xxaijHA21o4cqqV9y4VzHbj/nzc8VYwMIb6UmrZuR7QGds+3nWuZ2kKTH6ir9PWwhioRV6gMNsXhR/VjW6O7LsovnaHv6IUkdLq0KszEkNWZep/7rmIMTo=;4I0rijGkATZ1U6lzunCiHg=="
 ---

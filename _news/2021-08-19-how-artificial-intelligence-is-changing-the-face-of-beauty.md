@@ -9,8 +9,8 @@ ampWebUrl: "https://www.telegraph.co.uk/beauty/news/artificial-intelligence-chan
 cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/beauty/news/artificial-intelligence-changing-face-beauty/amp/"
 type: article
 quality: 57
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Daily Telegraph
@@ -26,47 +26,49 @@ images:
     isCached: true
 
 related:
-  - title: "The Medical Field is Changing Because of Artificial Intelligence"
-    excerpt: "Artificial intelligence is also the brain behind things like robot-assisted surgeries, and by 2025, the robot surgery market is expected to pass $7 billion. In addition to the obvious things like no dependence on human dexterity, and “no bad days” for ..."
-    publishedDateTime: 2021-08-19T14:50:00Z
-    webUrl: "https://dataconomy.com/2021/08/medical-field-changing-artificial-intelligence/"
+  - title: "4 Ways Conversational AI Is Improving the Customer Experience"
+    excerpt: "Conversational AI, along with natural language processing (NLP), automatic speech recognition (ASR), advanced dialog management, and machine learning (ML), are changing the way humans relate and communicate with machines."
+    publishedDateTime: 2021-08-19T00:00:00Z
+    webUrl: "https://www.interactions.com/conversational-ai/"
     type: article
     provider:
-      name: dataconomy.com
-      domain: dataconomy.com
-    quality: 41
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 139
     images:
-      - url: "https://dataconomy.com/wp-content/uploads/2021/08/medical-field-changing-artificial-intelligence.jpg"
-        width: 1920
-        height: 1013
+      - url: "https://www.interactions.com/wp-content/uploads/2019/10/voc_wp_content-card.jpg"
+        width: 768
+        height: 430
         isCached: true
-  - title: "The hidden helping hand: expert reveals how AI tech is changing the industry"
-    excerpt: "There’s an obvious reason for this – most physical locations were closed, so organizations had to fall back on online support – but it becomes especially interesting to note this is just a taster of an AI-centric revolution currently changing the world of finance."
-    publishedDateTime: 2021-08-19T15:31:00Z
-    webUrl: "https://www.wealthprofessional.ca/investments/wealth-technology/the-hidden-helping-hand-expert-reveals-how-ai-tech-is-changing-the-industry/359051"
+  - title: "Discovery Enhances Customer Experience Using Machine Learning"
+    excerpt: "From live TV to OTT streaming services to social media, we are consuming more content than ever before. The leading media content developers and distributors are constantly thinking of creative ways to personalize experiences and improve engagement."
+    publishedDateTime: 2021-08-17T15:18:00Z
+    webUrl: "https://www.forbes.com/sites/amazonwebservices/2021/08/17/discovery-enhances-customer-experience-using-machine-learning/"
     type: article
     provider:
-      name: wealthprofessional.ca
-      domain: wealthprofessional.ca
-    quality: 36
+      name: Forbes
+      domain: forbes.com
+    quality: 69
     images:
-      - url: "https://cdn-res.keymedia.com/cms/images/ca/155/0382_637649839418762625.png"
-        width: 1000
-        height: 600
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6116c9d6ee6b44b9b106b5a1%2F0x0.jpg"
+        width: 1200
+        height: 801
         isCached: true
-  - title: "The hidden helping hand: expert from Croesus reveals how AI tech is already changing the industry"
-    excerpt: "There’s an obvious reason for this – most physical locations were closed, so organizations had to fall back on online support – but it becomes especially interesting to note this is just a taster of an AI-centric revolution currently changing the world of finance."
-    publishedDateTime: 2021-08-19T15:31:00Z
-    webUrl: "https://www.wealthprofessional.ca/investments/wealth-technology/the-hidden-helping-hand-expert-from-croesus-reveals-how-ai-tech-is-already-changing-the-industry/359051"
+  - title: "AI Regulation Is Coming"
+    excerpt: "This article explains the moves regulators are most likely to make and the three main challenges businesses need to consider as they adopt and integrate AI. The first is ensuring fairness."
+    publishedDateTime: 2021-08-16T17:59:00Z
+    webUrl: "https://hbr.org/2021/09/ai-regulation-is-coming"
+    ampWebUrl: "https://hbr.org/amp/2021/09/ai-regulation-is-coming"
+    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/09/ai-regulation-is-coming"
     type: article
     provider:
-      name: wealthprofessional.ca
-      domain: wealthprofessional.ca
-    quality: 26
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 59
     images:
-      - url: "https://cdn-res.keymedia.com/cms/images/ca/155/0382_637649839418762625.png"
+      - url: "https://hbr.org/resources/images/article_assets/2021/07/R2105G_SUN.jpg"
         width: 1000
-        height: 600
+        height: 562
         isCached: true
 
 secured: "oMtBKbiTeVitc7SfFFsMJ1teezjCGLO3ScKHYSyS//gBmCwqY8N8MtN0f1C+rXEpJ14ZS1V7HsO0Pxn03+O0W4bKd6OmQ5RP0PAtdX949BAVUUg5p+bvVEnKkTd+FFZ/Pt9/gXRJy1Pz3jHuSf4wMcLoCqDDduJ/l3nbZQki7F4EWFAtls8BD/owYANScJP7xyDF5D/6YUBCNKleEEEiPJpwowb+PoDnnsNs/AudbiPMMat6TMRqNSu2bT684JT8cu3rN1r1b+x+T/Tezb3n3eaQlN8Fd0T2t1bx711yoWB7UqAPizHWmZXje2KGFbo5jASZ/+YiNVxwAgfZCV/6OvxzCMQ/z875ukn03FwWg1kSIfbk3QJinsbH/0pbt/mpwro1IKq6RjC27M726X6/2+yZ89RuSqrQOoNE3bKjuz8L/MNe9LAXD6moEYB0AssHcOmJAAjC6fmiIBoUvV9AuEg0a18JDeaM48KQoZnaotyq64tzls3GSi57+z36gA2R8GZjM2OP9tNt2RLMlxWxRg==;OL8iKGpzDrfuETaWt3z/8w=="

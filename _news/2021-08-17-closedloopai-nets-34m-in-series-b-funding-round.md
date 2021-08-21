@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/closedloop-ai-ne
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/closedloop-ai-nets-34m-series-b-funding-round/amp/"
 type: article
 quality: 57
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -40,15 +40,6 @@ related:
         width: 6000
         height: 4000
         isCached: true
-  - title: "retrain.ai Completes $20M in Funding"
-    excerpt: "PRNewswire/ -- retrain.ai, the Talent Intelligence Platform, today announced it has closed an additional $7 million from"
-    publishedDateTime: 2021-08-16T11:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/retrain-ai-completes-20m-in-funding-1030733721"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
   - title: "ClosedLoop.ai Raises $34M in Series B Funding"
     excerpt: "ClosedLoop.ai., an Austin, Texas-based healthcare’s data science platform, raised $34m in Series B financing. The round was led by Telstra Ventures with participation from Breyer Capital, Greycroft Ventures,"
     publishedDateTime: 2021-08-17T10:43:00Z

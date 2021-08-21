@@ -52,20 +52,6 @@ related:
         width: 1000
         height: 596
         isCached: true
-  - title: "Peak Fintech Signs Agreement to Acquire Analytics and AI Company Cubeler Inc., Paving the Way for Its North American Expansion"
-    excerpt: "CNW Telbec/ - Peak Fintech Group Inc. (CSE: PKK) (OTCQX: PKKFF) ('Peak' or the 'Company'), an innovative Fintech service"
-    publishedDateTime: 2021-08-16T12:17:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/peak-fintech-signs-agreement-to-acquire-analytics-and-ai-company-cubeler-inc-paving-the-way-for-its-north-american-expansion-1030734071"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 41
-    images:
-      - url: "https://mma.prnewswire.com/media/1594914/Peak_Fintech_Group_Inc__Peak_Fintech_Signs_Agreement_to_Acquire.jpg"
-        width: 323
-        height: 235
-        isCached: true
   - title: "Right Direction Financial Services to leverage Scienaptic AI-powered platform"
     excerpt: "After recently forging a relationship with an independent dealership group, Scienaptic bolstered its client roster of independ"
     publishedDateTime: 2021-08-16T14:07:00Z
@@ -108,15 +94,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "University of Maryland, Baltimore (UMB) Grants Pumas-AI Exclusive License of Analytics Platform to Enhance Drug Development"
-    excerpt: "AI, a University of Maryland, Baltimore (UMB) startup company, has been granted worldwide, exclusive rights to enhancements to Pumas, an end-to-end pharmaceutical modeling and simulation platform for quantitative analysis across the drug development lifecycle."
-    publishedDateTime: 2021-08-16T12:40:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/university-of-maryland-baltimore-umb-grants-pumas-ai-exclusive-license-of-analytics-platform-to-enhance-drug-development-1030734233"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 21
 
 secured: "Me/jblCvD1fcyA5GhlXk5vc+hbWp9dLXxQkGo7dpWH10BBerbh1/l9lxpczs9iyWOaUW3R8ZIPlcISBMgO7DEvJ67P+GUBPAO/fWqrXeo4AYQJWZAIQ8mGLfXGtIhnLzqpXRrrIMZg9y0NBzHqzF8ZYJCMj1e80tID0Zl/aeVtKekMetcSWDyD8by0U28iciI2VBC3UlIGJ1X7Y7Zyg7y231AwQzIQoISZjBvYNJgzgY0Fi1xqZCLbr48tw2aVsROCPajHW7bqAPC1KBYllvHZkqxVvOYJCfDwRGOntn01yj8Y2gzY+4SEuoCk6T+T5JsnzWvtjo+WhiKpzTitUxmsez6ZuR5kJdSMjAChUQdOM=;q27ptSiQWCPtmaDI3Y6djA=="
 ---

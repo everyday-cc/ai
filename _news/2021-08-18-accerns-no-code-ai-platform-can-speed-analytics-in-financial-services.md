@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/tomgroenfeldt/2021/08/17/accerns-no-c
 webUrl: "https://www.forbes.com/sites/tomgroenfeldt/2021/08/17/accerns-no-code-ai-platform-can-speed-analytics-in-financial-services/"
 type: article
 quality: 69
-heat: 139
+heat: 119
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/smiley_face_emoji_shutterstock_-pixelliebe.jpg"
         width: 1000
         height: 596
-        isCached: true
-  - title: "Peak Fintech Signs Agreement to Acquire Analytics and AI Company Cubeler Inc., Paving the Way for Its North American Expansion"
-    excerpt: "CNW Telbec/ - Peak Fintech Group Inc. (CSE: PKK) (OTCQX: PKKFF) ('Peak' or the 'Company'), an innovative Fintech service"
-    publishedDateTime: 2021-08-16T12:17:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/peak-fintech-signs-agreement-to-acquire-analytics-and-ai-company-cubeler-inc-paving-the-way-for-its-north-american-expansion-1030734071"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 41
-    images:
-      - url: "https://mma.prnewswire.com/media/1594914/Peak_Fintech_Group_Inc__Peak_Fintech_Signs_Agreement_to_Acquire.jpg"
-        width: 323
-        height: 235
         isCached: true
   - title: "Right Direction Financial Services to leverage Scienaptic AI-powered platform"
     excerpt: "After recently forging a relationship with an independent dealership group, Scienaptic bolstered its client roster of independ"
@@ -113,15 +99,6 @@ related:
         width: 800
         height: 800
         isCached: true
-  - title: "University of Maryland, Baltimore (UMB) Grants Pumas-AI Exclusive License of Analytics Platform to Enhance Drug Development"
-    excerpt: "AI, a University of Maryland, Baltimore (UMB) startup company, has been granted worldwide, exclusive rights to enhancements to Pumas, an end-to-end pharmaceutical modeling and simulation platform for quantitative analysis across the drug development lifecycle."
-    publishedDateTime: 2021-08-16T12:40:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/university-of-maryland-baltimore-umb-grants-pumas-ai-exclusive-license-of-analytics-platform-to-enhance-drug-development-1030734233"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 21
 
 secured: "txHCtQtqJZokfbSfTbXyFMalYgoLa9wH0mOQfVcXMytbkTg/z5RtSeLVJdP4JkUA8/M/ulW+5Ks5g2AoOf7z6OH1qbqnYka3QU8UAFiVntexWL/yE7JblzEoxShR3tIwM51e1fUHKvHhDtRhd6R9XX2gslo9n0l/H4iJQjFguoVB2NJKnid+JoXSww/30T87Eo9nFMZ8bW4o4n5X9EVBYQO68Sq/r/xNccQiA7iKc5NLsvv6OGNDX5ccku+ublhIriOlo8CG3Sn+FyxvUyBjWOsqJsZWWlrJv84iRo/ZlccibL1Kb/r3CMERbA6PD7cMc2Sx3l8dO90kE6eb8zANlmTaD5gvZN1DHSqz/S0DJ0l/mwlkQi//SQO3rOP2R+tsu7jPHyGzb72r5axWlQ5UDi1cCCJBNg/bNVQaYOIeI588Gy1NKclApbS56ifECGZEe9k1+uLSz0pdREh2xeIudbRyt+aEe2oamEPqZNA2rx7yo8AEJrOwwNcW/yQogbo8BM4GURVRLeYjbdv5yS30ag==;dYfueFWkje4vZS//IYXqGg=="
 ---

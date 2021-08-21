@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/2021/08/20/what-ai-researchers-can-learn-from-the-self-assembling-brain/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -112,7 +112,7 @@
       "originalUrl": "https://electrek.co/2021/08/20/tesla-dojo-supercomputer-worlds-new-most-powerful-ai-training-machine/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 132,
+      "heat": 133,
       "tags": null,
       "images": [
         {
@@ -354,6 +354,50 @@
       ]
     },
     {
+      "path": "_news/2021-08-20-meet-grace-the-robot-nurse-that-covid-created.md",
+      "title": "Meet Grace, the robot nurse that COVID created",
+      "excerpt": "Meet Grace. She's a robot designed to ease the workload of nurses and front-line workers.She’s the creation of the same company that built Sophia, a robot granted citizenship by",
+      "sourceUrl": null,
+      "webUrl": "https://www.ajc.com/pulse/meet-grace-the-robot-nurse-that-covid-created/JT55K5RIZRCCBCT4JWVES4DXRE/",
+      "originalUrl": "https://www.ajc.com/pulse/meet-grace-the-robot-nurse-that-covid-created/JT55K5RIZRCCBCT4JWVES4DXRE/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ajc.com/resizer/pOESF5YZ-GwT3z4otLueCQYhSX4=/1200x630/d1fegwn2wjh0cs.cloudfront.net/08-19-2021/t_9328b74d675644a187be2357285eed8f_name_fe9f02760a224939b7270c4da778e758.jpeg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ajc.com/pulse/meet-grace-the-robot-nurse-that-covid-created/JT55K5RIZRCCBCT4JWVES4DXRE/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-ajc-com.cdn.ampproject.org/c/s/www.ajc.com/pulse/meet-grace-the-robot-nurse-that-covid-created/JT55K5RIZRCCBCT4JWVES4DXRE/?outputType=amp",
+      "publishedDateTime": "2021-08-20T05:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Atlanta Journal-Constitution",
+        "domain": "ajc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-08-20-tesla-bot-reveal-sparks-tidal-wave-of-jokes-memes-as-people-make-i-robot-comparisons.md",
       "title": "Tesla Bot Reveal Sparks Tidal Wave of Jokes, Memes as People Make 'I, Robot' Comparisons",
       "excerpt": "Tesla Bot has been presented to the public by Elon Musk and Twitter has predictably reacted with humor and mock horror.",
@@ -561,7 +605,7 @@
       "originalUrl": "https://newatlas.com/robotics/tesla-bot-robot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 601,
+      "heat": 622,
       "tags": null,
       "images": [
         {
@@ -791,6 +835,57 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-20-amazon-taps-its-socialbot-challenge-to-boost-conversational-ai.md",
+      "title": "Amazon taps its SocialBot challenge to boost conversational AI",
+      "excerpt": "Amazon announced the winners of its annual Alexa Prize SocialBot Grand Challenge, which ​​promotes research into coherence, context awareness, fluency of re",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/19/amazon-taps-its-socialbot-challenge-to-boost-conversational-ai/",
+      "originalUrl": "https://venturebeat.com/2021/08/19/amazon-taps-its-socialbot-challenge-to-boost-conversational-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1150572105-e1629315992557.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/19/amazon-taps-its-socialbot-challenge-to-boost-conversational-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/19/amazon-taps-its-socialbot-challenge-to-boost-conversational-ai/amp/",
+      "publishedDateTime": "2021-08-19T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -1148,110 +1243,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-intels-arc-gaming-gpu-price-specs-and-availability.md",
-      "title": "Intel's Arc gaming GPU: Price, specs and availability",
-      "excerpt": "Intel Arc GPUs will face off against AMD and Nvidia rivals with hardware ray tracing and other key features. Read all about them here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcworld.com/article/3629402/intels-arc-gaming-gpu-price-specs-and-availability.html",
-      "originalUrl": "https://www.pcworld.com/article/3629402/intels-arc-gaming-gpu-price-specs-and-availability.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 234,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/03/intel-xe-gpu-tease-100791559-large.jpg?auto=webp",
-          "width": 1199,
-          "height": 662,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcworld.com/article/3629402/intels-arc-gaming-gpu-price-specs-and-availability.amp.html",
-      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3629402/intels-arc-gaming-gpu-price-specs-and-availability.amp.html",
-      "publishedDateTime": "2021-08-19T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect.md",
-      "title": "Tesla to Hold AI Day Amid New Scrutiny: What to Expect",
-      "excerpt": "The world’s most valuable car maker is holding an event to promote its use of artificial intelligence, just as federal regulators this week announced a new investigation into the company’s Autopilot d",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430?mod=hp_lista_pos3",
-      "originalUrl": "https://www.wsj.com/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430?mod=hp_lista_pos3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-387824?width=700&height=557",
-          "width": 700,
-          "height": 557,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430",
-      "publishedDateTime": "2021-08-19T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

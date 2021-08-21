@@ -2,6 +2,180 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-03-healthcare-ar-and-vr-market-review-2021-growth-seen-on-heavy-volume-microsoft-ge-healthcare-artificial-life.md",
+      "title": "Healthcare AR and VR Market Review 2021: Growth Seen on Heavy Volume | Microsoft, GE Healthcare, Artificial Life",
+      "excerpt": "The latest research on “Global Healthcare AR and VR Report 2021” offered by HTF MI provides a comprehensive investigation into the geographical landscape, industry size along with the revenue estimation of the business.",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/healthcare-ar-and-vr-market-review-2021-growth-seen-on-heavy-volume-microsoft-ge-healthcare-artificial-life/",
+      "originalUrl": "https://manometcurrent.com/healthcare-ar-and-vr-market-review-2021-growth-seen-on-heavy-volume-microsoft-ge-healthcare-artificial-life/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-03T05:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-03-ai-quantum-computing-and-other-technologies-poised-to-transform-healthcare.md",
+      "title": "AI, quantum computing and other technologies poised to transform healthcare",
+      "excerpt": "One of the big factors accelerating technological innovation is the healthcare workforce, which has been stressed during the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.healthcarefinancenews.com/news/ai-quantum-computing-and-other-technologies-poised-transform-healthcare",
+      "originalUrl": "https://www.healthcarefinancenews.com/news/ai-quantum-computing-and-other-technologies-poised-transform-healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.healthcarefinancenews.com/sites/healthcarefinancenews.com/files/doc_nurse_computer_screen_tech_AI_David%20Sacks_Getty%20Images_7.jpg",
+          "width": 635,
+          "height": 353,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-02T13:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Healthcare Finance News",
+        "domain": "healthcarefinancenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-02-a-new-kind-of-help-for-healthcare-where-proven-science-and-new-technology-merge.md",
+      "title": "A New Kind Of Help For Healthcare: Where Proven Science And New Technology Merge",
+      "excerpt": "Digital therapeutic products derived from best practices and new insights from machine learning offer a key opportunity that has yet to be realized: optimal effective treatment of patients with common conditions that are difficult to control.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/02/a-new-kind-of-help-for-healthcare-where-proven-science-and-new-technology-merge/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/02/a-new-kind-of-help-for-healthcare-where-proven-science-and-new-technology-merge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610405d5ef72b264d3dff7be%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/02/a-new-kind-of-help-for-healthcare-where-proven-science-and-new-technology-merge/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/02/a-new-kind-of-help-for-healthcare-where-proven-science-and-new-technology-merge/amp/",
+      "publishedDateTime": "2021-08-02T05:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-31-deep-learning-in-healthcare-market.md",
+      "title": "Deep Learning in Healthcare Market",
+      "excerpt": "A new intelligence report released by HTF MI with title \"Global Deep Learning in Healthcare Market Survey & Outlook\" is designed covering micro level of analysis by Insurers and key business ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2342651/deep-learning-in-healthcare-market-giants-to-grow-at-much-faster",
+      "originalUrl": "https://www.openpr.com/news/2342651/deep-learning-in-healthcare-market-giants-to-grow-at-much-faster",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/7/U731952845_g.jpg",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2342651/deep-learning-in-healthcare-market-giants-to-grow-at-much-faster",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2342651/deep-learning-in-healthcare-market-giants-to-grow-at-much-faster",
+      "publishedDateTime": "2021-07-31T03:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-07-31-what-are-the-recent-developments-in-cancer-therapy.md",
       "title": "What Are the Recent Developments in Cancer Therapy?",
       "excerpt": "Cancer is one of the world’s deadliest diseases, claiming more than 166,000 lives a year in the UK. In the United States, cancer accounts for more than 600,000 mortalities a year, with lung",
@@ -1177,189 +1351,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-healthcare-artificial-intelligence-ai-market-scope-future-prospects-and-competitive-analysis-2020-to-2027.md",
-      "title": "Healthcare Artificial Intelligence (AI) Market Scope, Future Prospects And Competitive Analysis 2020 to 2027",
-      "excerpt": "Market Insights . The advent of artificial intelligence (AI) will be responsible for transforming the way world works in the coming years. Its inclusion in the healthcare is a fas",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-scope-future-prospects-and-competitive-analysis-2020-to-2027-2021-07-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-scope-future-prospects-and-competitive-analysis-2020-to-2027-2021-07-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-21T05:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-meet-the-startups-that-participated-in-tmu-x-bes-latest-demo-day-in-taiwan.md",
-      "title": "Meet the startups that Participated in TMU x BE's Latest demo day in Taiwan",
-      "excerpt": "At Taiwan-based TMU x BE accelerator’s demo day on July 20, startups discussed their solutions, which tackle topics like Digital Health, Medical Devices and AI Healthcare. A series",
-      "sourceUrl": null,
-      "webUrl": "https://www.wicz.com/story/44344954/meet-the-startups-that-participated-in-tmu-x-bes-latest-demo-day-in-taiwan",
-      "originalUrl": "https://www.wicz.com/story/44344954/meet-the-startups-that-participated-in-tmu-x-bes-latest-demo-day-in-taiwan",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://WICZ.images.worldnow.com/images/20397967_G.png",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-20T13:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX 40 WICZ TV",
-        "domain": "wicz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-ai-revolution-in-2021-5-industries-that-are-thriving-with-artificial-intelligence.md",
-      "title": "AI Revolution in 2021: 5 Industries That Are Thriving With Artificial Intelligence",
-      "excerpt": "AI or Artificial Intelligence is a buzzword across the world these days. Several industries are prospering with AI implementation, and many others are gearing up to adopt this latest technology to start a journey of steady progress.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/ai-revolution-in-2021-5-industries-that-are-thriving-with-artificial-intelligence/",
-      "originalUrl": "https://techbullion.com/ai-revolution-in-2021-5-industries-that-are-thriving-with-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2021/07/5-Industries-That-Are-Thriving-With-Artificial-Intelligence-.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/ai-revolution-in-2021-5-industries-that-are-thriving-with-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/ai-revolution-in-2021-5-industries-that-are-thriving-with-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-07-19T00:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-president-bidens-recent-executive-order-on-promoting-competition-in-the-american-economy-highlights-the-healthcare-sector.md",
-      "title": "President Biden’s Recent Executive Order on Promoting Competition in the American Economy Highlights the Healthcare Sector",
-      "excerpt": "President Biden issued an “Executive Order on Promoting Competition in the American Economy,” (the “Order”) which aims to drive down prices for consumers, incr",
-      "sourceUrl": null,
-      "webUrl": "https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/09/fact-sheet-executive-order-on-promoting-competition-in-the-american-economy/",
-      "originalUrl": "https://www.natlawreview.com/article/president-biden-s-recent-executive-order-promoting-competition-american-economy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.whitehouse.gov/wp-content/uploads/2021/01/wh_social-share-1100x740.png",
-          "width": 1100,
-          "height": 740,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-18T12:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "AI in Healthcare"
       ]

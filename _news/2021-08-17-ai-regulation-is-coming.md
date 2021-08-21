@@ -27,43 +27,50 @@ images:
     isCached: true
 
 related:
-  - title: "Bill Smart Brings Technical Expertise in Robotics and AI to Discussions about Regulation"
-    excerpt: "Bill Smart builds robots and researches human-robot interactions. He is also very interested in the policies that guide and regulate technology. Sometimes, he says, policymakers, like other members of the public,"
-    publishedDateTime: 2021-08-17T21:34:00Z
-    webUrl: "https://www.aaas.org/news/bill-smart-brings-technical-expertise-robotics-and-ai-discussions-about-regulation"
+  - title: "4 Ways Conversational AI Is Improving the Customer Experience"
+    excerpt: "Conversational AI, along with natural language processing (NLP), automatic speech recognition (ASR), advanced dialog management, and machine learning (ML), are changing the way humans relate and communicate with machines."
+    publishedDateTime: 2021-08-19T00:00:00Z
+    webUrl: "https://www.interactions.com/conversational-ai/"
     type: article
     provider:
-      name: AAAS
-      domain: aaas.org
-    quality: 62
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 139
     images:
-      - url: "https://www.aaas.org/sites/default/files/styles/large/public/2021-08/smart_0219-6-1200x628_440X440.jpg?itok=bhxYTxx1"
-        width: 440
-        height: 440
+      - url: "https://www.interactions.com/wp-content/uploads/2019/10/voc_wp_content-card.jpg"
+        width: 768
+        height: 430
         isCached: true
-  - title: "Artificial Intelligence Technology Solutions Announces Details of Strategic Relationship with Ghost Robotics Corporation"
-    excerpt: "Artificial Intelligence Technology Solutions, Inc., ( OTCPK:AITX), which provides AI-driven security and productivity solutions for enterprise clients, is pleased to announce that it has signed an agreement with Ghost Robotics Corporation (“Ghost”),"
-    publishedDateTime: 2021-08-19T13:01:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-robotics-artificial-intelligence-df9f5b640a0341379ec80892bd61158c"
+  - title: "Discovery Enhances Customer Experience Using Machine Learning"
+    excerpt: "From live TV to OTT streaming services to social media, we are consuming more content than ever before. The leading media content developers and distributors are constantly thinking of creative ways to personalize experiences and improve engagement."
+    publishedDateTime: 2021-08-17T15:18:00Z
+    webUrl: "https://www.forbes.com/sites/amazonwebservices/2021/08/17/discovery-enhances-customer-experience-using-machine-learning/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 69
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6116c9d6ee6b44b9b106b5a1%2F0x0.jpg"
+        width: 1200
+        height: 801
         isCached: true
-  - title: "Artificial Intelligence Technology Solutions Announces Details of Strategic Relationship with Ghost Robotics Corporation"
-    excerpt: "Integrating our QUGVs into their offering will certainly open doors and bring new opportunities for both companies” -Artificial Intelligence Technology Solutions ... it has signed an agreement with Ghost Robotics Corporation (\"Ghost\"), outlining the ..."
-    publishedDateTime: 2021-08-20T12:43:00Z
-    webUrl: "https://www.roboticstomorrow.com/news/2021/08/20/artificial-intelligence-technology-solutions-announces-details-of-strategic-relationship-with-ghost-robotics-corporation/17357/"
+  - title: "How artificial intelligence is changing the face of beauty"
+    excerpt: "From fragrance to skincare, AI is helping us to make smarter beauty choices Finding a new-season foundation or signature scent has long required a stroll through the beauty aisles of our favourite department stores."
+    publishedDateTime: 2021-08-18T17:30:00Z
+    webUrl: "https://www.telegraph.co.uk/beauty/news/artificial-intelligence-changing-face-beauty/"
+    ampWebUrl: "https://www.telegraph.co.uk/beauty/news/artificial-intelligence-changing-face-beauty/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/beauty/news/artificial-intelligence-changing-face-beauty/amp/"
     type: article
     provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 41
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 57
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/beauty/2021/08/18/Visuels-connectivite-ROSE_0_trans_NvBQzQNjv4BqLUm2LqZ7QfPrWh62iB90NVTmGTZwRSZcqbDiPNar8DA.jpg"
+        width: 828
+        height: 517
+        isCached: true
 
 secured: "Ri8DKB+SBoM/FakZRGz8haN1XywicDrxjRFZF0h2cn7Ol7lArzvlNEqmWy1SKRKTx9ZIlbKC7cWooo/wHAkcI7GRxovKBQEVnd57Kz3sYGfLzurh/6aVPxqIaVvbMzqBuLOhlV7xrTTNKGFIPccqAcmhE4A2JO1JLbrbwGt9jhov44wZWUotKKtM0EHFexlXHYX7vhYm0qPTFtF3sWLlW97QU1fDZET+mNr/fbl5pLU0XvzbNCONDfAAPT0/t23anpm/V2GscfHgSP08ok4I4T49w8raf2PiQemQs2Sv8tszJqmiXXze3mJzYk+evNJvme5gsAipNU27TAyRX+RiQ5g+wxNas/8/qQj7suisTtyiG/5kHouHieD5bmrX1vuORN0EgOgWysqJmL1R8bMUKDnOIJvyyyNn46HNSYhDlvJT+VSzX1dFm+3obCbFfNW5bw3DtR5zGJrpfPo9W3EdHI2DThk/ek3yTzW+43gDcFfDFzvVI8GwjudJ7BNSGwLmaK8weh36CWAfX0wZ2Hbwmw==;cLQer4LQ6S9ScaKrgytHCA=="
 ---

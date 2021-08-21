@@ -463,50 +463,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-17-tool-for-explainable-face-biometrics-neural-networks-open-sourced-by-truera.md",
-      "title": "Tool for explainable face biometrics, neural networks open-sourced by TruEra",
-      "excerpt": "TruLens is the product of eight years of explainability research conducted at both Carnegie Mellon University and TruEra, and is available now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202108/tool-for-explainable-face-biometrics-neural-networks-open-sourced-by-truera",
-      "originalUrl": "https://www.biometricupdate.com/202108/tool-for-explainable-face-biometrics-neural-networks-open-sourced-by-truera",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg",
-          "width": 1050,
-          "height": 591,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-16T11:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_news/2021-08-17-the-collective-benefits-of-artificial-intelligence-and-machine-learning.md",
       "title": "The Collective Benefits Of Artificial Intelligence And Machine Learning",
       "excerpt": "T he COVID-19 pandemic has pulled together a variety of factors that have brought the opportunities of artificial intelligence (AI) and machine learning (ML) into sharp focus acro",
@@ -1022,49 +978,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-13-colorado-standardized-test-scores-reveal-deep-learning-loss-from-pandemic-creates-a-sense-of-urgency.md",
-      "title": "Colorado Standardized Test Scores Reveal Deep Learning Loss From Pandemic: ‘Creates A Sense Of Urgency’",
-      "excerpt": "It's been no secret that students have fallen behind during the constraints of the pandemic, but state standardized test score data paints a clearer picture of just how severe that learning loss may have been.",
-      "sourceUrl": null,
-      "webUrl": "https://denver.cbslocal.com/2021/08/13/covid-standardized-test-scores-learning-loss/",
-      "originalUrl": "https://denver.cbslocal.com/2021/08/13/covid-standardized-test-scores-learning-loss/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://denver.cbslocal.com/wp-content/uploads/sites/15909806/2021/08/STATE-TESTING-DATA-5PKG.transfer_frame_1349.jpeg?w=420",
-          "width": 420,
-          "height": 236,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://denver.cbslocal.com/2021/08/13/covid-standardized-test-scores-learning-loss/?amp",
-      "cdnAmpWebUrl": "https://denver-cbslocal-com.cdn.ampproject.org/c/s/denver.cbslocal.com/2021/08/13/covid-standardized-test-scores-learning-loss/?amp",
-      "publishedDateTime": "2021-08-13T05:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS Local",
-        "domain": "cbslocal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-13-global-neural-network-software-market-2021-industry-analysis-by-top-leading-player-key-regions-and-future-demand-forecast-upto-2028.md",
       "title": "Global Neural Network Software Market 2021 Industry Analysis by Top Leading Player, Key Regions and Future Demand, Forecast upto 2028",
       "excerpt": "The Research Corporation has released a new Neural Network Software Market Report 2021 comes with the exclusive trade analysis of development components, patterns, flows, and sizes. The Neural Network Software report also calculates current and past market values to forecast potential market management through the forecast amount between 2021- 2028.",
@@ -1147,6 +1060,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-13-colorado-standardized-test-scores-reveal-deep-learning-loss-from-pandemic-creates-a-sense-of-urgency.md",
+      "title": "Colorado Standardized Test Scores Reveal Deep Learning Loss From Pandemic: 'Creates A Sense Of Urgency'",
+      "excerpt": "Anecdotally, it's been no secret that students have fallen behind during the constraints of the pandemic, but state standardized test score data released Thursday paints a clearer picture of just how severe that learning loss may have been.",
+      "sourceUrl": null,
+      "webUrl": "https://denver.cbslocal.com/video/5889845-colorado-standardized-test-scores-reveal-deep-learning-loss-from-pandemic-creates-a-sense-of-urgency/",
+      "originalUrl": "https://denver.cbslocal.com/video/5889845-colorado-standardized-test-scores-reveal-deep-learning-loss-from-pandemic-creates-a-sense-of-urgency/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m101675-ucdn.mp.lura.live/anv-iupl/009/F9A/009F9AB942A2855B3F41AC1DFA566BBC.jpg?Expires=1724112000&KeyName=mcpkey1&Signature=l215Oij6xA6M7Pf6wfjYfuPMWqE",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://denver.cbslocal.com/video/5889845-colorado-standardized-test-scores-reveal-deep-learning-loss-from-pandemic-creates-a-sense-of-urgency/?amp",
+      "cdnAmpWebUrl": "https://denver-cbslocal-com.cdn.ampproject.org/c/s/denver.cbslocal.com/video/5889845-colorado-standardized-test-scores-reveal-deep-learning-loss-from-pandemic-creates-a-sense-of-urgency/?amp",
+      "publishedDateTime": "2021-08-12T16:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS Local",
+        "domain": "cbslocal.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1390,6 +1346,49 @@
         "name": "India Times",
         "domain": "indiatimes.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-spell-introduces-mlops-for-deep-learning.md",
+      "title": "Spell introduces MLOps for deep learning",
+      "excerpt": "Deep learning model development and management drives special requirements, especially around the provisioning of hardware. Spell introduced a machine learning operations (MLOps) platform last week that caters to these very needs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/spell-introduces-mlops-for-deep-learning/",
+      "originalUrl": "https://www.zdnet.com/article/spell-introduces-mlops-for-deep-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/spell-introduces-mlops-for-deep-learning/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/spell-introduces-mlops-for-deep-learning/",
+      "publishedDateTime": "2021-08-11T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

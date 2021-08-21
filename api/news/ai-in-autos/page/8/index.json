@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-06-16-alphabets-self-driving-unit-waymo-raises-25b-in-funding-round.md",
+      "title": "Alphabet’s self-driving unit Waymo raises $2.5B in funding round",
+      "excerpt": "Alphabet’s self-driving unit Waymo said on Wednesday it raised $2.5 billion in its fresh funding round in a year after a string of defections of executives rekindled concerns about",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/06/16/alphabets-self-driving-unit-waymo-raises-2-5b-in-funding/",
+      "originalUrl": "https://nypost.com/2021/06/16/alphabets-self-driving-unit-waymo-raises-2-5b-in-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 264,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/waymo-raises-2.5-billion.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/06/16/alphabets-self-driving-unit-waymo-raises-2-5b-in-funding/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/16/alphabets-self-driving-unit-waymo-raises-2-5b-in-funding/amp/",
+      "publishedDateTime": "2021-06-16T09:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-16-tusimple-stock-the-driverless-truck-stock-that-counts-nvidia-and-cathie-wood-as-investors.md",
       "title": "TuSimple Stock: The Driverless Truck Stock That Counts NVIDIA and Cathie Wood as Investors",
       "excerpt": "We're going to take a look at TuSimple (NASDAQ:TSP), which develops self-driving technology for long-haul trucks. This is probably a new name for many investors, as it just held its initial public offering (IPO) on April 15.",

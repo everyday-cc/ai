@@ -2,6 +2,135 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-08-17-ai-startup-mate-labs-to-digitally-transform-luminous-power-technologies-supply-chain.md",
+      "title": "AI startup Mate Labs to digitally transform Luminous Power Technologies' supply chain",
+      "excerpt": "Mate Labs' flagship product Mateverse is a full-scale AI and ML-based forecasting platform that can dynamically predict end-customer demands while avoiding inefficiencies caused by supply and demand misalignment across business operations.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/tech-bytes/ai-startup-mate-labs-to-digitally-transform-luminous-power-technologies-supply-chain/articleshow/85398526.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/tech-bytes/ai-startup-mate-labs-to-digitally-transform-luminous-power-technologies-supply-chain/articleshow/85398526.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-2159821,msid-85398512/ai.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/tech-bytes/ai-startup-mate-labs-to-digitally-transform-luminous-power-technologies-supply-chain/amp_articleshow/85398526.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/tech-bytes/ai-startup-mate-labs-to-digitally-transform-luminous-power-technologies-supply-chain/amp_articleshow/85398526.cms",
+      "publishedDateTime": "2021-08-17T03:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-explainer-western-states-face-first-federal-water-cuts.md",
+      "title": "EXPLAINER: Western states face first federal water cuts",
+      "excerpt": "U.S. officials on Monday declared the first-ever water shortage from a river that serves 40 million people in the West, triggering cuts to some Arizona farmers next year amid a gripping drought. Water levels at the largest reservoir on the Colorado River — Lake Mead — have fallen to record lows.",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattlepi.com/news/article/EXPLAINER-Western-states-face-first-federal-16389204.php",
+      "originalUrl": "https://www.seattlepi.com/news/article/EXPLAINER-Western-states-face-first-federal-16389204.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.seattlepi.com/news/amp/EXPLAINER-Western-states-face-first-federal-16389204.php",
+      "cdnAmpWebUrl": "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/EXPLAINER-Western-states-face-first-federal-16389204.php",
+      "publishedDateTime": "2021-08-17T03:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "seattlepi.com",
+        "domain": "seattlepi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-solve-your-toughest-business-problems-with-ai-and-machine-learning.md",
+      "title": "Solve your toughest business problems with AI and machine learning ",
+      "excerpt": "Today, AI and machine learning are enabling data-driven organizations to accelerate their journey to insights and decisions. With all the latest advancements, AI is no longer limited to only those with deep expertise or a cache of data scientists, and many organizations can now adopt AI and machine learning",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/solve-your-toughest-business-problems-with-ai-and-machine-learning/",
+      "originalUrl": "https://azure.microsoft.com/blog/solve-your-toughest-business-problems-with-ai-and-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-17T03:00:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-08-17-if-youre-using-ai-you-need-to-think-about-ethics.md",
       "title": "If you're using AI, you need to think about ethics",
       "excerpt": "Shahram Ebadollahi, chief data & AI officer at Novartis, explains why robust frameworks should always underpin the use of new technology",
@@ -10,7 +139,7 @@
       "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/360596/if-youre-using-ai-you-need-to-think-about-ethics",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -114,7 +243,7 @@
       "originalUrl": "https://www.gizmochina.com/2021/08/17/samsung-exynos-chips-ai-design/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -258,6 +387,48 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-iim-ahmedabad-launches-new-centre-for-data-science-and-artificial-intelligence.md",
+      "title": "IIM-Ahmedabad launches new centre for data science and artificial intelligence",
+      "excerpt": "The centre will also take up challenging consulting projects of considerable practical importance in collaboration with industry players.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/education/iim-ahmedabad-launches-new-centre-for-data-science-and-artificial-intelligence-7456342/",
+      "originalUrl": "https://indianexpress.com/article/education/iim-ahmedabad-launches-new-centre-for-data-science-and-artificial-intelligence-7456342/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2020/12/IIM-Ahmedabad.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/education/iim-ahmedabad-launches-new-centre-for-data-science-and-artificial-intelligence-7456342/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/education/iim-ahmedabad-launches-new-centre-for-data-science-and-artificial-intelligence-7456342/lite/",
+      "publishedDateTime": "2021-08-16T20:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -462,50 +633,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-17-tool-for-explainable-face-biometrics-neural-networks-open-sourced-by-truera.md",
-      "title": "Tool for explainable face biometrics, neural networks open-sourced by TruEra",
-      "excerpt": "TruLens is the product of eight years of explainability research conducted at both Carnegie Mellon University and TruEra, and is available now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202108/tool-for-explainable-face-biometrics-neural-networks-open-sourced-by-truera",
-      "originalUrl": "https://www.biometricupdate.com/202108/tool-for-explainable-face-biometrics-neural-networks-open-sourced-by-truera",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg",
-          "width": 1050,
-          "height": 591,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-16T11:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_news/2021-08-17-researchers-fooled-ai-into-ignoring-stop-signs-using-a-cheap-projector.md",
       "title": "Researchers fooled AI into ignoring stop signs using a cheap projector",
       "excerpt": "A team of researchers demonstrated a novel attack on AI vision systems using nothing but a laptop and a projector. What does this mean for driverless cars?",
@@ -565,7 +692,7 @@
       "originalUrl": "https://www.investmentnews.com/sales-fintech-seismic-pushes-valuation-to-3-billion-210373",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -757,7 +884,7 @@
       "originalUrl": "https://venturebeat.com/2021/08/16/sap-acquires-ai-powered-human-resources-platform-swooptalent/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 207,
+      "heat": 197,
       "tags": null,
       "images": [
         {
@@ -1054,142 +1181,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-08-16-iim-a-launches-dedicated-centre-for-data-science-and-artificial-intelligence.md",
-      "title": "IIM A launches dedicated centre for Data Science and Artificial Intelligence",
-      "excerpt": "The centre will also take up challenging consulting projects of considerable practical importance in collaboration with industry players. One of the major highlights of the centre is an exhaustive ann",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/education/news/iim-a-launches-dedicated-centre-for-data-science-and-artificial-intelligence-11629113784537.html",
-      "originalUrl": "https://www.livemint.com/education/news/iim-a-launches-dedicated-centre-for-data-science-and-artificial-intelligence-11629113784537.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/08/16/600x338/iim_1629114559768.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/education/news/iim-a-launches-dedicated-centre-for-data-science-and-artificial-intelligence/amp-11629113784537.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/education/news/iim-a-launches-dedicated-centre-for-data-science-and-artificial-intelligence/amp-11629113784537.html",
-      "publishedDateTime": "2021-08-16T04:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-16-iim-ahmedabad-launches-centre-for-data-science-and-artificial-intelligence.md",
-      "title": "IIM Ahmedabad Launches Centre for Data Science and Artificial Intelligence",
-      "excerpt": "Ahmedabad has launched the Brij Disa Centre for Data Science and Artificial Intelligence (CDSA) to enable research in the field.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news18.com/news/education-career/iim-ahmedabad-launches-centre-for-data-science-and-artificial-intelligence-4091990.html",
-      "originalUrl": "https://www.news18.com/news/education-career/iim-ahmedabad-launches-centre-for-data-science-and-artificial-intelligence-4091990.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.news18.com/ibnlive/uploads/2021/08/iim-ahmedabad-162911098716x9.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news18.com/amp/news/education-career/iim-ahmedabad-launches-centre-for-data-science-and-artificial-intelligence-4091990.html",
-      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/iim-ahmedabad-launches-centre-for-data-science-and-artificial-intelligence-4091990.html",
-      "publishedDateTime": "2021-08-16T03:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN-News18",
-        "domain": "news18.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-16-leveraging-on-fintech-to-solve-the-creditworthiness-issues-among-msmes-in-india.md",
-      "title": "Leveraging On Fintech To Solve the 'Creditworthiness' Issues Among MSMEs In India",
-      "excerpt": "The traditional lending cycle is time-consuming, involves excessive documentation including but not limited to registration proof, income proof, bank statement, business plan, MSME certificate, etc.,",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/380301",
-      "originalUrl": "https://www.entrepreneur.com/article/380301",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1629109807-austin-distel-EMPZ7yRZoGw-unsplash.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/380301",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/380301",
-      "publishedDateTime": "2021-08-16T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

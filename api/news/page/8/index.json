@@ -2,6 +2,100 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-08-13-insig-ai-chairman-matthew-farnum-schneider-resigns.md",
+      "title": "Insig AI Chairman Matthew Farnum-Schneider Resigns",
+      "excerpt": "By Ian Walker Insig AI PLC said Friday that Executive Chairman Matthew Farnum-Schneider has resigned in order to focus on other opportunities and will",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/insig-ai-chairman-matthew-farnum-schneider-resigns-271628840155",
+      "originalUrl": "https://www.marketwatch.com/story/insig-ai-chairman-matthew-farnum-schneider-resigns-271628840155",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/insig-ai-chairman-matthew-farnum-schneider-resigns-271628840155",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/insig-ai-chairman-matthew-farnum-schneider-resigns-271628840155",
+      "publishedDateTime": "2021-08-13T00:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-13-artificial-intelligence-ai-for-security-market-overview-with-detailed-analysis-competitive-situation-and-forecast-to-2026.md",
+      "title": "Artificial Intelligence (AI) for Security Market Overview with Detailed Analysis, Competitive Situation and Forecast to 2026",
+      "excerpt": "Significant prime key makes encased inside the report close by Market Share, Stock Determinations and Figures, Contact data, Sales, Capacity, Production, Price, Cost, Revenue and Business Profiles. The primary goal of the Artificial Intelligence (AI) for Security business report is to Supply Key Insights on Competition Positioning,",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/artificial-intelligence-ai-for-security-market-overview-with-detailed-analysis-competitive-situation-and-forecast-to-2026/",
+      "originalUrl": "https://manometcurrent.com/artificial-intelligence-ai-for-security-market-overview-with-detailed-analysis-competitive-situation-and-forecast-to-2026/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ibb.co/c32bqbJ/img-final.jpg",
+          "width": 600,
+          "height": 401,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/artificial-intelligence-ai-for-security-market-overview-with-detailed-analysis-competitive-situation-and-forecast-to-2026/",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-for-security-market-overview-with-detailed-analysis-competitive-situation-and-forecast-to-2026/",
+      "publishedDateTime": "2021-08-13T00:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-08-13-deepminds-alphazero-crushes-chess.md",
       "title": "DeepMind’s AlphaZero crushes chess",
       "excerpt": "The AlphaZero algorithm developed by Google and DeepMind took just four hours of playing against itself to synthesise the chess knowledge of one and a half millennium and reach a level where it not only surpassed humans but crushed the reigning World ...",
@@ -173,6 +267,49 @@
         "AWS AI",
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-08-13-colorado-standardized-test-scores-reveal-deep-learning-loss-from-pandemic-creates-a-sense-of-urgency.md",
+      "title": "Colorado Standardized Test Scores Reveal Deep Learning Loss From Pandemic: 'Creates A Sense Of Urgency'",
+      "excerpt": "Anecdotally, it's been no secret that students have fallen behind during the constraints of the pandemic, but state standardized test score data released Thursday paints a clearer picture of just how severe that learning loss may have been.",
+      "sourceUrl": null,
+      "webUrl": "https://denver.cbslocal.com/video/5889845-colorado-standardized-test-scores-reveal-deep-learning-loss-from-pandemic-creates-a-sense-of-urgency/",
+      "originalUrl": "https://denver.cbslocal.com/video/5889845-colorado-standardized-test-scores-reveal-deep-learning-loss-from-pandemic-creates-a-sense-of-urgency/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m101675-ucdn.mp.lura.live/anv-iupl/009/F9A/009F9AB942A2855B3F41AC1DFA566BBC.jpg?Expires=1724112000&KeyName=mcpkey1&Signature=l215Oij6xA6M7Pf6wfjYfuPMWqE",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://denver.cbslocal.com/video/5889845-colorado-standardized-test-scores-reveal-deep-learning-loss-from-pandemic-creates-a-sense-of-urgency/?amp",
+      "cdnAmpWebUrl": "https://denver-cbslocal-com.cdn.ampproject.org/c/s/denver.cbslocal.com/video/5889845-colorado-standardized-test-scores-reveal-deep-learning-loss-from-pandemic-creates-a-sense-of-urgency/?amp",
+      "publishedDateTime": "2021-08-12T16:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS Local",
+        "domain": "cbslocal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -991,162 +1128,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-keeptruckin-uses-ambarella-ai-chips-to-monitor-truck-drivers.md",
-      "title": "KeepTruckin uses Ambarella AI chips to monitor truck drivers",
-      "excerpt": "KeepTruckin will use Ambarella AI processors in its dashboard camera that can monitor both road conditions and driver awareness.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/12/keeptruckin-uses-ambarella-ai-chips-to-monitor-truck-drivers/",
-      "originalUrl": "https://venturebeat.com/2021/08/12/keeptruckin-uses-ambarella-ai-chips-to-monitor-truck-drivers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/truck-Combined-Product-Photo_Ambarella-KeepTruckin-—-Under-Embargo-Until-Aug.-12-2021.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 711,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/12/keeptruckin-uses-ambarella-ai-chips-to-monitor-truck-drivers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/12/keeptruckin-uses-ambarella-ai-chips-to-monitor-truck-drivers/amp/",
-      "publishedDateTime": "2021-08-12T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-motivo-raises-125m-series-a-to-speed-up-chip-design-with-ai.md",
-      "title": "Motivo raises $12.5M Series A to speed up chip design with AI",
-      "excerpt": "Chip design is a long slog of trial and error, taking years to bring a design to market. Motivo, a five year old startup from a chip industry veteran is creating software to speed up chip design from years to months using AI.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/08/12/motivo-raises-12-5m-series-a-to-speed-up-chip-design-with-ai/",
-      "originalUrl": "https://techcrunch.com/2021/08/12/motivo-raises-12-5m-series-a-to-speed-up-chip-design-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1095112402.jpg?w=1024",
-          "width": 1024,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/08/12/motivo-raises-12-5m-series-a-to-speed-up-chip-design-with-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/12/motivo-raises-12-5m-series-a-to-speed-up-chip-design-with-ai/amp/",
-      "publishedDateTime": "2021-08-12T06:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-fintech-platform-fuse-autotech-raises-10m-in-series-a-funding-led-by-target-global.md",
-      "title": "Fintech Platform FUSE Autotech Raises $10M in Series A Funding Led by Target Global",
-      "excerpt": "FUSE Autotech, a fintech software platform that redefines the car buying process, today announced the completion of its $10 million Series A round of financing, led by Target Global with participation from PICO Venture Partners,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/fintech-platform-fuse-autotech-raises-10m-in-series-a-funding-led-by-target-global-1030724575",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/fintech-platform-fuse-autotech-raises-10m-in-series-a-funding-led-by-target-global-1030724575",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1593214/Logo_FUSEAutotech_Primary_ID_0fdecb7cdd63_Logo.jpg",
-          "width": 400,
-          "height": 295,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-12T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

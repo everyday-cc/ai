@@ -9,7 +9,7 @@ ampWebUrl: "https://www.investmentnews.com/sales-fintech-seismic-pushes-valuatio
 cdnAmpWebUrl: "https://www-investmentnews-com.cdn.ampproject.org/c/s/www.investmentnews.com/sales-fintech-seismic-pushes-valuation-to-3-billion-210373/amp"
 type: article
 quality: 61
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -68,6 +68,15 @@ related:
     provider:
       name: notimerica.com
       domain: notimerica.com
+    quality: 4
+  - title: "Celebrating fintech’s role at the heart of the new normal"
+    excerpt: "Innovate Finance has launched a new forum to explore the potential of fintech to create a more inclusive and sustainable world. What good timing - fintech has performed impressively amidst the pandemic and will have a crucial role to play as restrictions are lifted and we settle  into our ‘new normal’."
+    publishedDateTime: 2021-08-21T04:38:00Z
+    webUrl: "https://www.finextra.com/blogposting/20765/celebrating-fintechs-role-at-the-heart-of-the-new-normal"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
     quality: 4
 
 secured: "pTkBXmdjz/7VlypGjOs1iTr8sTupHM/XTGVC1XYa9XWsGxyhNdVAM1sidsaDEdKpsIVOiudZcp38ahSz9XlrIHuNHsprlETG7LPnRYM+voY+7gvmydojn62tQHq92O64KCMkctoMSbjuD3vW/50KtBRlNcN0G+Z7fyelLdh73gDu9rtbTO43GNTSNtmnMjJZ9rV8uAXuxcb2midJ/KRhpygPofqWKqKmL1rL3u5q5bTrK4caPpPK97Z9QJw+ANfrX6cjZgzhr1HlkSg4okTvP+V4b1SS2dkxljySXy2YKlXzAX80BIjMP72UPxlctM7TyP2LxyDwIvW6H6wtRN2T/aAHepTBtrpJfvOVKZWsXF6s5Y5a65YGHHIUN6AntUOaizsdSBfvMUYuHP1pgHTAIEcRKVPDIjmE0GKF5hMlCXRwGOhzWbpiRvMrKabBi4K/NWb7cSuI8j08AjaV5/sZnQ3xpG2t25dN0On6EmCwvGlzEXgKvhSIiM/RrqpnXbQ9S1e/6mf0BcxtieM3xMPz9A==;JCc/phXNe3vU0T6blUPtng=="

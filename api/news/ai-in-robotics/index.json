@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-20-meet-grace-the-robot-nurse-that-covid-created.md",
+      "title": "Meet Grace, the robot nurse that COVID created",
+      "excerpt": "Meet Grace. She's a robot designed to ease the workload of nurses and front-line workers.She’s the creation of the same company that built Sophia, a robot granted citizenship by",
+      "sourceUrl": null,
+      "webUrl": "https://www.ajc.com/pulse/meet-grace-the-robot-nurse-that-covid-created/JT55K5RIZRCCBCT4JWVES4DXRE/",
+      "originalUrl": "https://www.ajc.com/pulse/meet-grace-the-robot-nurse-that-covid-created/JT55K5RIZRCCBCT4JWVES4DXRE/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ajc.com/resizer/pOESF5YZ-GwT3z4otLueCQYhSX4=/1200x630/d1fegwn2wjh0cs.cloudfront.net/08-19-2021/t_9328b74d675644a187be2357285eed8f_name_fe9f02760a224939b7270c4da778e758.jpeg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ajc.com/pulse/meet-grace-the-robot-nurse-that-covid-created/JT55K5RIZRCCBCT4JWVES4DXRE/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-ajc-com.cdn.ampproject.org/c/s/www.ajc.com/pulse/meet-grace-the-robot-nurse-that-covid-created/JT55K5RIZRCCBCT4JWVES4DXRE/?outputType=amp",
+      "publishedDateTime": "2021-08-20T05:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Atlanta Journal-Constitution",
+        "domain": "ajc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-08-20-tesla-bot-reveal-sparks-tidal-wave-of-jokes-memes-as-people-make-i-robot-comparisons.md",
       "title": "Tesla Bot Reveal Sparks Tidal Wave of Jokes, Memes as People Make 'I, Robot' Comparisons",
       "excerpt": "Tesla Bot has been presented to the public by Elon Musk and Twitter has predictably reacted with humor and mock horror.",
@@ -63,7 +107,7 @@
       "originalUrl": "https://newatlas.com/robotics/tesla-bot-robot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 601,
+      "heat": 622,
       "tags": null,
       "images": [
         {
@@ -456,7 +500,7 @@
       "originalUrl": "https://www.aaas.org/news/bill-smart-brings-technical-expertise-robotics-and-ai-discussions-about-regulation",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -1356,59 +1400,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-artificial-intelligence-ai-in-healthcare-market-latest-trends-demand-and-advancement-2021-to-2028.md",
-      "title": "Artificial Intelligence (AI) in Healthcare Market Latest Trends, Demand and Advancement 2021 to 2028",
-      "excerpt": "According to our new research study on \"Artificial Intelligence (AI) in Healthcare Market Forecast to 2027 - COVID-19",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-latest-trends-demand-and-advancement-2021-to-2028-2021-08-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-latest-trends-demand-and-advancement-2021-to-2028-2021-08-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-11T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

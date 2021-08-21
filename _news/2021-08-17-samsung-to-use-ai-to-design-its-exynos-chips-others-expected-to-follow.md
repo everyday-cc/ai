@@ -39,20 +39,6 @@ related:
         width: 1204
         height: 560
         isCached: true
-  - title: "Samsung wants AI to build its chips"
-    excerpt: "Humans do not think the right way Samsung is using artificial intelligence to automate the insanely complex and subtle process of designing cutting-edge computer chips. The South Korean giant is one of the first chipmakers to use AI to create its chips."
-    publishedDateTime: 2021-08-16T11:02:00Z
-    webUrl: "https://www.fudzilla.com/news/53380-samsung-wants-ai-to-build-its-chips"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 54
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/84e79ff7cb8a96e4a18d21518d83afd5_L.jpg"
-        width: 620
-        height: 432
-        isCached: true
   - title: "Samsung’s use of AI for chip design signals industry shift away from dominant suppliers"
     excerpt: "Using an AI approach in new software from Synopsys, a leading chip software design company, Samsung is creating complex chips, like the Exynos processor, which will run its smartphones, tablets, and PCs."
     publishedDateTime: 2021-08-17T04:58:00Z

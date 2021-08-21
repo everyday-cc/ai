@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Tesla Unveils Own Chip for AI Training Computer Dojo"
-excerpt: "Tesla Inc on Thursday unveiled its own computer chips to train its automated driving system. Tesla CEO Elon Musk a few years ago asked Tesla engineer \"to design a superfast training computer and that's how we started Project Dojo,"
-publishedDateTime: 2021-08-20T02:28:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2021-08-19/tesla-unveils-own-chip-for-ai-training-computer-dojo"
-webUrl: "https://www.usnews.com/news/technology/articles/2021-08-19/tesla-unveils-own-chip-for-ai-training-computer-dojo"
+title: "Tesla unveils own chip for AI training computer Dojo"
+excerpt: "Tesla Inc TSLA.O on Thursday unveiled its own computer chips to train its automated driving system. Tesla CEO Elon Musk a few years ago asked Tesla engineer \"to design a superfast training computer and that's how we started Project Dojo,"
+publishedDateTime: 2021-08-20T01:54:00Z
+originalUrl: "https://www.nasdaq.com/articles/tesla-unveils-own-chip-for-ai-training-computer-dojo-2021-08-20"
+webUrl: "https://www.nasdaq.com/articles/tesla-unveils-own-chip-for-ai-training-computer-dojo-2021-08-20"
+ampWebUrl: "https://www.nasdaq.com/articles/tesla-unveils-own-chip-for-ai-training-computer-dojo-2021-08-20?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tesla-unveils-own-chip-for-ai-training-computer-dojo-2021-08-20?amp"
 type: article
-quality: 81
+quality: 101
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI Hardware
@@ -64,6 +62,6 @@ related:
       domain: tweaktown.com
     quality: 51
 
-secured: "RKPRJEu/naCvR5+zpDfMUkP10/uD8Sj0x9xj0daBcQmYO6k3Bvr8dZkdyFIEil69JJLSjXc2TdBqgZllsErhG3VujCtDCXPP1UJ+sDRUxiwwCJJH8r0VbNzmGqgctWXDI722PQMcczygioXFuXtYMGze9lZf8bUHjHUGG98AoNuZCShE4I1sGadXjedheckXFMXtw/f/GWwchEErCyDKp/Hlhh7n7WiQD3cxQDemm/EwSzXJpeBCuhLD/fq5+rXqybdBSY51623fqdKUuWMlOlFtmw4AxQ6fpNJzV4WHHB6PNb5k+NLJLa777XFrtW1LCSOgg7u+hXEwPUebIxPyC3ZdwlBQqtBHmKaYkLhg9MlApTdggeceYtk3OvT2X0xg48WAMi3eNZIPrbMxg/CiCEnn+3bjuVH1kGaGnA4JHhcVCBtKgR/SDXW0oKXutRyw7VmTqz5a8Q0SPtaeE89ktOHUU9zcEf7mqCsf1bHD3yis1wP0msPMLQsCBjxN45X3ej8ktWRv09m8TfTXFuyrAQ==;xTuds7ASjljNQFyKw+SHtg=="
+secured: "WemtcDeVt4aGaB4WCJ/s2KtSi2WntticMFJGFh84fJ9o6d9zLJ/YV8nyfVYvHWs6gan3EwAE8DeVDaRAoIKyuULc3Faoczqe8s0audw4gCEhSovKyva4ScbYqTqXNgQL+YXyl4tMo9UzDBxz82H5lMoxBqIBqucd398iG19/u2dFETzX994ZlZCx+C6PXCo24tiwwf5geLXP4DWr8suD1AP5IU4lIfJWnkYbKSTtfWbQ9Y+Jk9U7gWE222bqyo4dR0G8FAQZbrZKBnUqoVQynn9DCPyl2cT5gCvuMKdpS05Ph0w9N9jR3D2AETQzCGo1flsci/4tepw4flmTRXDTX3LREDR5LE/JxKS8hRiz0Xvs/Vqpl/nlPa4MufvQ/PXLU9wTjkMunS2n64OS5IvSB+18M00vP1gI+ofuAD8j1D/A/N0vSfvs0cmHO8voj+LcOeU5ZduDiEydFK24qNqu10qJmnNNmffl6CGnjP26Ox0cgUsdPZh/EYK/JcJbxraRMwVaJd5zP5G2AyRyoSU2Og==;tEgC/2YLp59suzy5AChR0A=="
 ---
 

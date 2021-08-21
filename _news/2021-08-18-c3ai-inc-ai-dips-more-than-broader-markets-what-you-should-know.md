@@ -60,7 +60,7 @@ related:
     provider:
       name: bbntimes
       domain: bbntimes.com
-    quality: 52
+    quality: 54
     images:
       - url: "https://www.bbntimes.com/images/articles/global-economy/The_Artistic_Side_of_Artificial_Intelligence_AI.jpg"
         width: 1200

@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "Meet Grace, the robot nurse that COVID created"
+    excerpt: "Meet Grace. She's a robot designed to ease the workload of nurses and front-line workers.She’s the creation of the same company that built Sophia, a robot granted citizenship by"
+    publishedDateTime: 2021-08-20T12:31:00Z
+    webUrl: "https://www.ajc.com/pulse/meet-grace-the-robot-nurse-that-covid-created/JT55K5RIZRCCBCT4JWVES4DXRE/"
+    ampWebUrl: "https://www.ajc.com/pulse/meet-grace-the-robot-nurse-that-covid-created/JT55K5RIZRCCBCT4JWVES4DXRE/?outputType=amp"
+    cdnAmpWebUrl: "https://www-ajc-com.cdn.ampproject.org/c/s/www.ajc.com/pulse/meet-grace-the-robot-nurse-that-covid-created/JT55K5RIZRCCBCT4JWVES4DXRE/?outputType=amp"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 61
+    images:
+      - url: "https://www.ajc.com/resizer/pOESF5YZ-GwT3z4otLueCQYhSX4=/1200x630/d1fegwn2wjh0cs.cloudfront.net/08-19-2021/t_9328b74d675644a187be2357285eed8f_name_fe9f02760a224939b7270c4da778e758.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Next therapy for Covid maybe be at your local pharmacy"
     excerpt: "Several drugs that are already in use for other purposes, including one dietary supplement, have shown to block or reduce infection by SARS-CoV2, the virus causing Covid-19, in cells, researchers have found."
     publishedDateTime: 2021-08-20T06:10:00Z

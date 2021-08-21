@@ -431,6 +431,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tesla Bot Division Will Be the Most Successful Robot Company"
+    excerpt: "Here is why Tesla Bot has an assured level of success. The Tesla robots do not have to exceed the level of Boston Dynamic robots for agility to win. Boston Dynamics was founded in 1992 and has recently started making about $50 million a year in revenue."
+    publishedDateTime: 2021-08-20T15:50:00Z
+    webUrl: "https://www.nextbigfuture.com/2021/08/tesla-bot-division-will-be-the-most-successful-robot-company.html"
+    ampWebUrl: "https://www.nextbigfuture.com/2021/08/tesla-bot-division-will-be-the-most-successful-robot-company.html"
+    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/08/tesla-bot-division-will-be-the-most-successful-robot-company.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 76
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/08/Screen-Shot-2021-08-19-at-7.50.47-PM-1024x623.jpg"
+        width: 1024
+        height: 623
+        isCached: true
   - title: "Tesla robots: Musk wants alternative to humans for ‘boring’ work"
     excerpt: "Elon Musk said Thursday night at Tesla's AI Day that the company is building a humanoid robot, and will probably have a prototype next year. Check out what he had to say."
     publishedDateTime: 2021-08-20T10:27:00Z
@@ -497,14 +513,14 @@ related:
         isCached: true
   - title: "The future is here: Meet Tesla Bot, Elon Musk's humanoid robot"
     excerpt: "The next project for billionaire Elon Musk? Humanoid robots. The entrepreneur unveiled Tesla Bot on Thursday during an event touting advances in artificial intelligence. According to a description on Tesla's website, the Tesla Bot was designed to perform ..."
-    publishedDateTime: 2021-08-21T00:42:00Z
-    webUrl: "https://www.desmoinesregister.com/story/tech/gaming/2021/08/20/tesla-bot-elon-musk-humanoid-robots/8208107002/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/8208107002"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/8208107002"
+    publishedDateTime: 2021-08-20T23:32:00Z
+    webUrl: "https://www.azcentral.com/story/tech/gaming/2021/08/20/tesla-bot-elon-musk-humanoid-robots/8208107002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/8208107002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/8208107002"
     type: article
     provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
+      name: The Arizona Republic
+      domain: azcentral.com
     quality: 76
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/08/20/USAT/1151605a-4bba-4ecd-aac9-1742df02732a-0x0-KJC_5055-1.jpg?auto=webp&crop=3999,2249,x0,y266&format=pjpg&width=1200"
@@ -608,7 +624,7 @@ related:
     provider:
       name: Mint
       domain: livemint.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://images.livemint.com/img/2021/08/20/600x338/AFP_9FL4HW_1628918669201_1629440309019.jpg"
         width: 600
@@ -688,6 +704,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Elon Musk says Tesla building humanoid robot for ‘boring, repetitive and dangerous’ work"
+    excerpt: "Elon Musk said Thursday night at Tesla’s AI Day that the company is building a humanoid robot, and will probably have a prototype next year. “It’s basically going to start dealing with work that is boring,"
+    publishedDateTime: 2021-08-20T12:02:00Z
+    webUrl: "https://www.wishtv.com/news/elon-musk-says-tesla-building-humanoid-robot-for-boring-repetitive-and-dangerous-work/"
+    type: article
+    provider:
+      name: WISHTV8
+      domain: wishtv.com
+    quality: 47
+    images:
+      - url: "https://www.wishtv.com/wp-content/uploads/2021/08/Tesla-robot-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Elon Musk says Tesla is building a humanoid robot for ‘boring, repetitive and dangerous’ work"
     excerpt: "By Matt McFarland, CNN Business Elon Musk said Thursday night at Tesla’s AI Day that the company is building a humanoid robot, and will probably have a prototype next year. “It’s basically going to start dealing with work that is boring,"
     publishedDateTime: 2021-08-20T08:59:00Z
@@ -759,6 +789,6 @@ related:
         height: 1708
         isCached: true
 
-secured: "Nglb96SAp6lRLAJfJGFVaTZGSlrDfQ4BQb24uTGKdF3Q4AecGRAyuUa1R3Q0V0S2RhYK+gEbNxBOfMOCOlaW2tGtJHCF4VKCH0J7whwWPi/q7duPN+4j5mYcjzK5+FmOtjlYjvKzWjZzGOakemEQ1xIMwEaFucpWH2SUCdd+4fvTf8LGI1glBKSWe3BNanzv44LDlsq9JRja9g3pxRAFtfjqrg1dqvDgc7RtZXc+7Lhc2g6IUYKv6VIDKWYGNnPmcBxeB3J+FR8U6qRvgnVwFksvOz0lqebFn3Lm9S/jZUoNit3CWdTfti0Yva5DvTeL1w8svRYhC74a/dKsxAeli6AEPUdmr3wW86+jnyNJiRk=;EzVmGjqjSr5Thj33UaSYFA=="
+secured: "nhgF1mR0RbUjKJWjZa26VembWrggSLqP0ExL/tB2cPw+WzTJp6jGZhfwcQiOx0xQDQik3j29D7xhGxH6TKgwZBiMOsvVlkR48ACozC7gSUxokGJuStEaaczAxgGpz97GI8HjJogyU57kLyWQByG09FpavEZJHvktKhJ89PdOTq3ALLTM6ExaJlFsI82EQtO4DSjwGs0AOsZKxt8Sw4YLVzn/3NbRQ01wvoyO8vxrTI4zIcbi+sg738NFk1AKwhFs9Zg00BeXml++xe0chD2Tz1VUsCg7JLEL+HE+s+6m9RkM8VAMFxfNkoGDLA0N9uuGIJJzwQ4bcA3nr6HehLHGw23wYKix4I8mTtbUZ8kFZD0B0Y/PfVrMf5HOPLhYTuhsItmjle83OVReXIw1Z0DPMW7QUdbI99XhKpNM4sAINdrKXpue0RHMuZBiyoKoL4MaV0lno5V3/SoOOOw946Efu7tm1jRjfZfggvWGOWkYrQUyO5n4FnMgNYCjoLGEeOhDw4seMQeSPnPWS9xf7fEfCA==;NsaRRXVGyDaLuLF+D5ocbw=="
 ---
 

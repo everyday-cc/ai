@@ -2,6 +2,144 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-08-14-baidu-rolls-out-paid-driverless-taxi-service-in-beijing.md",
+      "title": "Baidu rolls out paid driverless taxi service in Beijing",
+      "excerpt": "BEIJING (AP) — Chinese tech giant Baidu rolled out its paid driverless taxi service on Sunday ... Kelly Wang and her husband, who both work in the artificial intelligence industry, said they had a smooth riding experience. “I would recommend people ...",
+      "sourceUrl": null,
+      "webUrl": "https://accesswdun.com/article/2021/5/1001811",
+      "originalUrl": "https://accesswdun.com/article/2021/5/1001811",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://binaryapi.ap.org/dacbbcc8fdee407a886411a4b2db2efc/preview.jpg",
+          "width": 512,
+          "height": 341,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-13T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Access WDUN",
+        "domain": "accesswdun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-14-mhs-robotics-wins-robotics-innovation-award.md",
+      "title": "MHS Robotics Wins Robotics Innovation Award",
+      "excerpt": "MHS, a single-source provider of material handling automation and software solutions, took home a 2021 RBR50 Innovation Award from Robotics Business Review for the multi-pick robotic end effector. Unlike end effectors that handle a single item at a time,",
+      "sourceUrl": null,
+      "webUrl": "https://www.automation.com/en-us/articles/august-2021/mhs-robotics-wins-robotics-innovation-award? Control News & Articles",
+      "originalUrl": "https://www.automation.com/en-us/articles/august-2021/mhs-robotics-wins-robotics-innovation-award? Control News & Articles",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.automation.com/getmedia/fcf06c5f-7585-425b-aa89-0b8d7cafebe6/robot-award-Aug-13-2021-web.png?width=500&height=313&ext=.png",
+          "width": 500,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-13T11:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automation",
+        "domain": "automation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-14-ai-startup-abacusai-turns-on-real-time-deep-learning-system-for-enterprises.md",
+      "title": "AI startup Abacus.ai turns on real-time deep learning system for enterprises",
+      "excerpt": "Abacus had already come to market with a form of auto-ML, a way automate deep learning model building for customers. The company has amassed over 6,000 customers that have used over 20,000 models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/article/ai-startup-abacus-ai-turns-on-real-time-deep-learning-system-for-enterprises/",
+      "originalUrl": "https://www.zdnet.com/index.php/article/ai-startup-abacus-ai-turns-on-real-time-deep-learning-system-for-enterprises/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/08/13/da0ed5fb-d3e2-4f25-be4f-afb1d8aa863d/abacus-ai-vector-matching-engine-2021.png",
+          "width": 2468,
+          "height": 1406,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/article/ai-startup-abacus-ai-turns-on-real-time-deep-learning-system-for-enterprises/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/ai-startup-abacus-ai-turns-on-real-time-deep-learning-system-for-enterprises/",
+      "publishedDateTime": "2021-08-13T11:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-14-upstart-can-ai-kill-the-fico-score.md",
       "title": "Upstart: Can AI Kill The FICO Score?",
       "excerpt": "As for Upstart, Girouard’s main focus is to upend the banking industry’s reliance on the FICO score. “The Upstart system uses AI and machine learning models with 1,600 data points and 15 billion cells of data to improve accuracy in terms of identifying and measuring credit risks,",
@@ -632,49 +770,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-13-colorado-standardized-test-scores-reveal-deep-learning-loss-from-pandemic-creates-a-sense-of-urgency.md",
-      "title": "Colorado Standardized Test Scores Reveal Deep Learning Loss From Pandemic: ‘Creates A Sense Of Urgency’",
-      "excerpt": "It's been no secret that students have fallen behind during the constraints of the pandemic, but state standardized test score data paints a clearer picture of just how severe that learning loss may have been.",
-      "sourceUrl": null,
-      "webUrl": "https://denver.cbslocal.com/2021/08/13/covid-standardized-test-scores-learning-loss/",
-      "originalUrl": "https://denver.cbslocal.com/2021/08/13/covid-standardized-test-scores-learning-loss/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://denver.cbslocal.com/wp-content/uploads/sites/15909806/2021/08/STATE-TESTING-DATA-5PKG.transfer_frame_1349.jpeg?w=420",
-          "width": 420,
-          "height": 236,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://denver.cbslocal.com/2021/08/13/covid-standardized-test-scores-learning-loss/?amp",
-      "cdnAmpWebUrl": "https://denver-cbslocal-com.cdn.ampproject.org/c/s/denver.cbslocal.com/2021/08/13/covid-standardized-test-scores-learning-loss/?amp",
-      "publishedDateTime": "2021-08-13T05:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS Local",
-        "domain": "cbslocal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-13-facial-recognition-market-to-lift-up-industry-growth-during-the-forecast-period-from-2020-2027-key-players-crossmatch-keylemon-nec-3m.md",
       "title": "Facial Recognition Market To Lift Up Industry Growth During The Forecast Period From 2020 – 2027, Key Players – Crossmatch , Keylemon, NEC, 3M.",
       "excerpt": "To receive a sample copy, please click here: visit @  Market by Application Emotion Recognition Attendance Tracking and Monitoring Access Control Law Enforcement Others The deadly COVID-19 outbreak has significantly slowed the growth and development of the international market industry.",
@@ -1085,100 +1180,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-insig-ai-chairman-matthew-farnum-schneider-resigns.md",
-      "title": "Insig AI Chairman Matthew Farnum-Schneider Resigns",
-      "excerpt": "By Ian Walker Insig AI PLC said Friday that Executive Chairman Matthew Farnum-Schneider has resigned in order to focus on other opportunities and will",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/insig-ai-chairman-matthew-farnum-schneider-resigns-271628840155",
-      "originalUrl": "https://www.marketwatch.com/story/insig-ai-chairman-matthew-farnum-schneider-resigns-271628840155",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/insig-ai-chairman-matthew-farnum-schneider-resigns-271628840155",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/insig-ai-chairman-matthew-farnum-schneider-resigns-271628840155",
-      "publishedDateTime": "2021-08-13T00:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-artificial-intelligence-ai-for-security-market-overview-with-detailed-analysis-competitive-situation-and-forecast-to-2026.md",
-      "title": "Artificial Intelligence (AI) for Security Market Overview with Detailed Analysis, Competitive Situation and Forecast to 2026",
-      "excerpt": "Significant prime key makes encased inside the report close by Market Share, Stock Determinations and Figures, Contact data, Sales, Capacity, Production, Price, Cost, Revenue and Business Profiles. The primary goal of the Artificial Intelligence (AI) for Security business report is to Supply Key Insights on Competition Positioning,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/artificial-intelligence-ai-for-security-market-overview-with-detailed-analysis-competitive-situation-and-forecast-to-2026/",
-      "originalUrl": "https://manometcurrent.com/artificial-intelligence-ai-for-security-market-overview-with-detailed-analysis-competitive-situation-and-forecast-to-2026/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ibb.co/c32bqbJ/img-final.jpg",
-          "width": 600,
-          "height": 401,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/artificial-intelligence-ai-for-security-market-overview-with-detailed-analysis-competitive-situation-and-forecast-to-2026/",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-for-security-market-overview-with-detailed-analysis-competitive-situation-and-forecast-to-2026/",
-      "publishedDateTime": "2021-08-13T00:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

@@ -2,40 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2021-06-21-amazon-amzn-aws-picked-by-ferrari-bolsters-client-base.md",
-      "title": "Amazon (AMZN) AWS Picked by Ferrari, Bolsters Client Base",
-      "excerpt": "Amazon Web Services (“AWS”)—entered an agreement with Ferrari RACE. Notably, Ferrari selected AWS as its official cloud, Machine Learning, and AI provider to bring advancements across its road cars department,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/amazon-amzn-aws-picked-by-ferrari-bolsters-client-base-2021-06-21",
-      "originalUrl": "https://www.nasdaq.com/articles/amazon-amzn-aws-picked-by-ferrari-bolsters-client-base-2021-06-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/amazon-amzn-aws-picked-by-ferrari-bolsters-client-base-2021-06-21?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-amzn-aws-picked-by-ferrari-bolsters-client-base-2021-06-21?amp",
-      "publishedDateTime": "2021-06-21T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-21-dataiku-launches-in-aws-marketplace.md",
       "title": "Dataiku Launches In AWS Marketplace",
       "excerpt": "Dataiku, a leading AI and machine learning platform, announced today that it is available in AWS Marketplace, a digital catalog with thousands of software listings from independent software vendors that make it easy to find,",

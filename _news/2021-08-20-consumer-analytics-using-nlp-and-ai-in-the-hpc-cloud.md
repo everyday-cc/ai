@@ -40,20 +40,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Peak Fintech Signs Agreement to Acquire Analytics and AI Company Cubeler Inc., Paving the Way for Its North American Expansion"
-    excerpt: "CNW Telbec/ - Peak Fintech Group Inc. (CSE: PKK) (OTCQX: PKKFF) ('Peak' or the 'Company'), an innovative Fintech service"
-    publishedDateTime: 2021-08-16T12:17:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/peak-fintech-signs-agreement-to-acquire-analytics-and-ai-company-cubeler-inc-paving-the-way-for-its-north-american-expansion-1030734071"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 41
-    images:
-      - url: "https://mma.prnewswire.com/media/1594914/Peak_Fintech_Group_Inc__Peak_Fintech_Signs_Agreement_to_Acquire.jpg"
-        width: 323
-        height: 235
-        isCached: true
   - title: "Right Direction Financial Services to leverage Scienaptic AI-powered platform"
     excerpt: "After recently forging a relationship with an independent dealership group, Scienaptic bolstered its client roster of independ"
     publishedDateTime: 2021-08-16T14:07:00Z
@@ -110,15 +96,6 @@ related:
         width: 800
         height: 800
         isCached: true
-  - title: "University of Maryland, Baltimore (UMB) Grants Pumas-AI Exclusive License of Analytics Platform to Enhance Drug Development"
-    excerpt: "AI, a University of Maryland, Baltimore (UMB) startup company, has been granted worldwide, exclusive rights to enhancements to Pumas, an end-to-end pharmaceutical modeling and simulation platform for quantitative analysis across the drug development lifecycle."
-    publishedDateTime: 2021-08-16T12:40:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/university-of-maryland-baltimore-umb-grants-pumas-ai-exclusive-license-of-analytics-platform-to-enhance-drug-development-1030734233"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 21
 
 secured: "Dq8UkVHYia7Dj5751I2eu06ck0XHR/Qu7hWIaYEOyDPt+gjfyUTUgt2I3h3PFAcuD6eRvnMlul3duONVPAz90/T9xaAC8FDLQIVCSImRq35ZkGsskqStGiRv8ue5gFHoEE37lbuPpZhe+MIJo0V76YEX5DbZT9LVgPTyjeVmvEC4icROcUA8T3+U7F5d9vXHplpoEos+NzDBJnG/Oqw8SxSoorleaxDUvjz+/SG7i1yepT+AIlnv4vP0b8MzzXaAkJ14MxsCQq+mYz7gdM2BGE1csQzjVc4nDBnOUNu1B0moJGaDBzZORgOOdGOazatj+CeDDpqxUozsb6L1ugXZNxJrm7Rn2An+c3C3gyVcWtk0gYW1tu7m0faV2TCkj5xKzhIsCCvxOQ75yvjN3rzbjm9Ufle7sPU253Mkf1M4w+jSFpXhrOEzPNBxoEqdR+hps1wsSFLBI+wCVnQr32dvuzk2HP83kiluvrQzGj/1eDGZOzSM3pyNzPAA97CxoW01xNMYL2IqworsoI9O08ORWw==;zpWVLnR5TLDXaK9dml5pNA=="
 ---

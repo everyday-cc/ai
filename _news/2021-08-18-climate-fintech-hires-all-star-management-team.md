@@ -67,6 +67,15 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Celebrating fintech’s role at the heart of the new normal"
+    excerpt: "Innovate Finance has launched a new forum to explore the potential of fintech to create a more inclusive and sustainable world. What good timing - fintech has performed impressively amidst the pandemic and will have a crucial role to play as restrictions are lifted and we settle  into our ‘new normal’."
+    publishedDateTime: 2021-08-21T04:38:00Z
+    webUrl: "https://www.finextra.com/blogposting/20765/celebrating-fintechs-role-at-the-heart-of-the-new-normal"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "Eot7kUpcLyuPDq2MHzxTHV1wFADgCmBos1VvA7X6oqk+9OLYzxP+5YPzMYCnrjyBM+n842qL9W4BRO7jj4rexcgk45+U0O3wLcdvQ8DJw9XARJo6TcwwUS+zeqBHxEwtcmr4WG8kWCZYDw72j8PItqY+ukqBmX1p48lNdfS/N5oEeqoBbj0zJjnXf72e3DdS2Ltwxap0PJ1lmcUMrwDJ7/VyZ+N82DtqtnbayJ+sVm4s6Ciak+kp1HKslql34MS/27y+JGo+83TUD4i3SKPwqu2HUJ2Zz4n7UKoClpaLgPZxIxPxnmWT/EiMfMPkdD6+daSudfqNlwRntHto0n8FSo1l2hmCrOucwo1A3t4fjwQ=;irDDX+2vd57VwgV4If8IXg=="
 ---

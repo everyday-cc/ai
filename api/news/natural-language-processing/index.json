@@ -106,6 +106,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-19-4-ways-conversational-ai-is-improving-the-customer-experience.md",
+      "title": "4 Ways Conversational AI Is Improving the Customer Experience",
+      "excerpt": "Conversational AI, along with natural language processing (NLP), automatic speech recognition (ASR), advanced dialog management, and machine learning (ML), are changing the way humans relate and communicate with machines.",
+      "sourceUrl": null,
+      "webUrl": "https://www.interactions.com/conversational-ai/",
+      "originalUrl": "https://www.cmswire.com/customer-experience/4-ways-conversational-ai-is-improving-the-customer-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.interactions.com/wp-content/uploads/2019/10/voc_wp_content-card.jpg",
+          "width": 768,
+          "height": 430,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-08-18-this-new-ai-system-can-translate-natural-language-to-computer-code.md",
       "title": "This New AI System Can Translate Natural Language To Computer Code",
       "excerpt": "Advertisement Do you feel like you have an amazing idea for an application but don’t know how to code? Thanks to an artificial intelligence research company named OpenAI, it’s now possible to translate natural English language into programming code!",
@@ -157,7 +200,7 @@
       "originalUrl": "https://www.forbes.com/sites/tomgroenfeldt/2021/08/17/accerns-no-code-ai-platform-can-speed-analytics-in-financial-services/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1363,49 +1406,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-ai-used-to-unlock-secrets-of-ancient-texts.md",
-      "title": "AI Used To Unlock Secrets of Ancient Texts",
-      "excerpt": "To preserve historical accounts of humanity, texts have been kept safely stored away in libraries and monasteries all over the world. A large amount of this material has never been read. Now, researchers are developing an artificial neural network to read complex ancient handwriting based on human perception to improve capabilities of deep learning transcription.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/tn/news/ai-used-to-unlock-secrets-of-ancient-texts-351652",
-      "originalUrl": "https://www.technologynetworks.com/tn/news/ai-used-to-unlock-secrets-of-ancient-texts-351652",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/ai-used-to-unlock-secrets-of-ancient-texts-351652.jpg?v=11356441",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologynetworks.com/informatics/news/amp/ai-used-to-unlock-secrets-of-ancient-texts-351652",
-      "cdnAmpWebUrl": "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/news/amp/ai-used-to-unlock-secrets-of-ancient-texts-351652",
-      "publishedDateTime": "2021-08-04T03:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks.com",
-        "domain": "technologynetworks.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

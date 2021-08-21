@@ -183,20 +183,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 19
-  - title: "Global Artificial Intelligence Market Report (2021 to 2030) - COVID-19 Growth and Change - ResearchAndMarkets.com"
-    excerpt: "COVID-19 Growth and Change to 2030” report has been added to ResearchAndMarkets.com’s offering. This report provides strategists, marketers and senior management with the critical information they need to assess the global artificial intelligence market."
-    publishedDateTime: 2021-08-16T13:03:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-health-coronavirus-pandemic-artificial-intelligence-45b91cdf2c7842bd8d72db1edf75620c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 18
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Global Healthcare Machine Vision System Market (2021 to 2028) - by Product Type, Type, and Application - ResearchAndMarkets.com"
     excerpt: "The “Global Healthcare Machine Vision System Market by Product Type, Type, and Application: Opportunity Analysis and Industry Forecast, 2021-2028” report has been added to ResearchAndMarkets.com’s offering."
     publishedDateTime: 2021-08-18T08:56:00Z
@@ -226,6 +212,6 @@ related:
         height: 420
         isCached: true
 
-secured: "Ge8oOG9ikqSFg7DdQsc9V/nsdHebyNgA05zV2t7KlPjYUyQAY3gTkCecc2V9cPh7RYc4rA1pP57SNStDlv7YXaSeqvfQ+mXQ/Q3nkiPZBS8zY2XGlg4s3HLz3qUq5RvlhfEMR1LW+Sq3Vnl2DYwkQ+OIfAWD3zWwDI/jlushcv4E+2RDxupVLR/gtMFQ+xjvZFX0QPSf/in60eT98mHPYQSnVSHlrOg/7eauEMkTqs1hnot/4Jsq1ieJ7G2tcYItfn/ntXfJGnbqOx0Xal6Ws54mF6xQJzx3UP4bPxTtpvF0r35U8qUIBznxZhylLNGr6mj1O1o17xZdGkv1mcYdzQkr80SHJfWgqlkjjSMjq94=;uzpOjh03CxZU0ZOw8giqnw=="
+secured: "3mSF29lW83hKzW/9pPtksxybTCzlultoi35A8VrjH+CjEX+smjDeN2ezSgnWk2iZXX3CuEqz9CP9ZEeN12Nu8xSgYvCKuZDz4sfWM42gNdPhsiQjSSlWG/wbd5PCtQU6ySZpMQVbM1vG3UmBTpKQSS26umQhnQGs5dO+P0Uax4KRkMvogNxlPUcZYb9ESSnlCnZXqNWXrIQpomHSTBn5U3/m1CeX1LKUDIC0GCEx2J9m7vmUysA2X4fqWADy2hultB55XTHe0A+wc1cZ3PzJ+l1bSOS1yj5AUrpDGONfh+V7V6zCxtIAbXVgPik7sn+YcRB29FMrtOYfXf7Fd3Qc9mmwcttoqEw9+74Ahu14Gqqx55ZzjDKqWdNVwKZoNlVpJk8rgntWsx2agU9R8CYH9In6g8fuG/fQtI7zEX86GRBisgqv6XcTpgg1EITjmGlaD42/zlpP9HCo2MiXm+JfB5pHymkcMWm4BeyZ+3IhUR/A9jNfaTV9JsriOMs3a6z2BD5iTEMlNHhcTs7FZ8chmQ==;nJlyiu3+8gBEsHz59cg7ew=="
 ---
 

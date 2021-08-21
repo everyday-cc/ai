@@ -68,6 +68,15 @@ related:
       name: notimerica.com
       domain: notimerica.com
     quality: 4
+  - title: "Celebrating fintech’s role at the heart of the new normal"
+    excerpt: "Innovate Finance has launched a new forum to explore the potential of fintech to create a more inclusive and sustainable world. What good timing - fintech has performed impressively amidst the pandemic and will have a crucial role to play as restrictions are lifted and we settle  into our ‘new normal’."
+    publishedDateTime: 2021-08-21T04:38:00Z
+    webUrl: "https://www.finextra.com/blogposting/20765/celebrating-fintechs-role-at-the-heart-of-the-new-normal"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "xW6vfNOKxWZa3FN3yQPJzIYCFdnjrSTq6gxz1U01lc8tJqryhOyLyJGXL92u7gs4L4PwYzwA6iRD3SjIP19AN4tkrVxYu4G91f+tv6iFazxrnWSeDSPUow4pQN6hQRT3tIihjYSw5GaijvDhjFWFpINcEri6WAq40FdaOL605gwxSj3qfiVbSdQ9FnrY2Vkmc+jLW02rA0fPifYnwM+Vt99YVdDmgj97oJ6txcm+MN+9187wryk6Vv9+cC1cY9VIfUlQqQwABnL2GYme0f2RqrIBiVNugyGCGQ3HVEOtkWF7vFMXVsuluDCUekP016blkpCuRJRpbXlC05xo2WH676sRUQXParh6laXrdg1v+yhhC5ESm46QI2pFUoCYwkojLZe+TOivIeLZne9RyfADp2gMRRvVD/rIOA/7l/oBAEW3cwb0ZHMv+FeeYCuTHpwU3IEtR20gMlKdXgzKGR6OIhu1r4TcVTNxV9TW2W6UJVz2PC2FqVz3OM0Al/SoVQxKseplcv6+A57xC3Uc6R76kA==;cnVbtu+DnnUUVxu0FPV7HQ=="
 ---

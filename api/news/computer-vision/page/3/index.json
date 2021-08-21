@@ -2,41 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-07-29-shutterstockai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions.md",
-      "title": "Shutterstock.AI Launches Data On AWS Data Exchange To Advance Computer Vision Solutions",
-      "excerpt": "including Amazon Rekognition, a solution that simplifies adding image and video analysis to applications using proven, highly scalable, deep learning technology that requires no prior machine ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions-833614481.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions-833614481.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-29T04:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_news/2021-07-29-voice-controlled-multimodal-ai-solution.md",
       "title": "Voice-controlled multimodal AI solution",
       "excerpt": "This joint solution features always-on functionality with quick voice-triggered activation from standby mode to perform object recognition, facial recognition, and other vision-based tasks that are critical functions in security cameras and other systems.",
@@ -1371,6 +1336,50 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-23-study-gene-therapy-may-protect-against-vision-loss-from-glaucoma-diabetes.md",
+      "title": "Study: Gene therapy may protect against vision loss from glaucoma, diabetes",
+      "excerpt": "A new form of gene therapy may help prevent vision loss caused by diabetic retinopathy and glaucoma, according to a study published Thursday by the journal Cell.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Health_News/2021/07/22/glaucoma-diabetic-retinopathy-gene-therapy-study/1131626965438/",
+      "originalUrl": "https://www.upi.com/Health_News/2021/07/22/glaucoma-diabetic-retinopathy-gene-therapy-study/1131626965438/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi_com/1131626965438/2021/1/8678551491ec528750efc72fc88df1f0/v1.5/Study-Gene-therapy-may-protect-against-vision-loss-from-glaucoma-diabetes.jpg",
+          "width": 800,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Health_News/2021/07/22/glaucoma-diabetic-retinopathy-gene-therapy-study/1131626965438/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Health_News/2021/07/22/glaucoma-diabetic-retinopathy-gene-therapy-study/1131626965438/",
+      "publishedDateTime": "2021-07-22T14:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],
