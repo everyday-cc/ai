@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2021/08/18/operational
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2021/08/18/operationalizing-ai-ethics-no-longer-an-option-but-an-imperative/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "National Science Foundation launches artificial intelligence center at Duke"
-    excerpt: "Athena is committed to development in education and will “cultivate a diverse next generation of mobile network leaders with the core values of ethics and fairness for AI.”"
-    publishedDateTime: 2021-08-17T04:33:00Z
-    webUrl: "https://www.dukechronicle.com/article/2021/08/duke-university-national-science-foundation-artificial-intelligence-ai-center"
-    type: article
-    provider:
-      name: The Chronicle
-      domain: dukechronicle.com
-    quality: 37
-    images:
-      - url: "https://snworksceo.imgix.net/dtc/d51cf6dd-d29e-48c3-be8d-00e46318c9bb.sized-1000x1000.jpg?w=1000&ar=16%3B9&fit=crop&crop=faces&facepad=3&auto=format"
-        width: 1000
-        height: 618
-        isCached: true
   - title: "Implication of AI timelines on planning and solutions"
     excerpt: "TL;DR If your median estimate for TAI is in 30 years you might have to plan to solve the alignment problem in 5 years When thinking about AI timelines I like to think about the timeline and high level plan for solutions based on them."
     publishedDateTime: 2021-08-21T06:39:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/intel-works-with-com
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/intel-works-with-community-colleges-to-address-ai-skills-gap/"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -102,15 +102,6 @@ related:
         width: 1350
         height: 450
         isCached: true
-  - title: "Intel teases AI-based DLSS-style super sampling tech in the works"
-    excerpt: "Intel confirms it is working on AI-based Super Sampling technology, to fight against NVIDIA's DLSS and AMD's FSR technologies."
-    publishedDateTime: 2021-08-17T03:09:00Z
-    webUrl: "https://www.tweaktown.com/news/81158/intel-teases-ai-based-dlss-style-super-sampling-tech-in-the-works/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 17
 
 secured: "rW87neviLFcBRcBr7vUaVaOUhLkRxMi/Ps/uQ1Nw4LmolSY6wNo462omubQrUeyTjL78ZNm8G/jsvHuUbeXRKJ6I5qGbDtLg7KbwzcuV1ljR9mIHi7iMhEjWUprvG7Uzbc5Z1smMLYLHQLdOneudfWVmMksl1DIH/AcGPerfzad9PuUc79AvIHbQcm6g7W0ly00lYoOAqy2gqCCIjoLUB6YRlOUG3+hu12cjqsFVM10eUMKesLJGmfFk36A85WOVleqjBuXmfdoddXyHYjV7IScb4P174jicyc5f6ZmHjNikVopg0voA2Vgbkm2z7FgSiJ/CnZ1XnEcz75iWH1s5HBjJzXLPT7i9GD+QVxNG08E=;RDof/ax0FUqeOqpiR1XAMg=="
 ---

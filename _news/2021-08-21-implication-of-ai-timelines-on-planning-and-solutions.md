@@ -40,20 +40,6 @@ related:
         width: 1024
         height: 536
         isCached: true
-  - title: "National Science Foundation launches artificial intelligence center at Duke"
-    excerpt: "Athena is committed to development in education and will “cultivate a diverse next generation of mobile network leaders with the core values of ethics and fairness for AI.”"
-    publishedDateTime: 2021-08-17T04:33:00Z
-    webUrl: "https://www.dukechronicle.com/article/2021/08/duke-university-national-science-foundation-artificial-intelligence-ai-center"
-    type: article
-    provider:
-      name: The Chronicle
-      domain: dukechronicle.com
-    quality: 37
-    images:
-      - url: "https://snworksceo.imgix.net/dtc/d51cf6dd-d29e-48c3-be8d-00e46318c9bb.sized-1000x1000.jpg?w=1000&ar=16%3B9&fit=crop&crop=faces&facepad=3&auto=format"
-        width: 1000
-        height: 618
-        isCached: true
   - title: "Machine Learning Operationalization Software Market Projected to Grow at a Steady Pace During 2021-2027 Covid-19 Analysis | KNIME, Seldon"
     excerpt: "To continue with the reviews and details provided in this innovative Machine Learning Operationalization Software market report it also aims at providing advanced data concerning to Machine Learning Operationalization Software market global status market trends analysis segment size growth share"
     publishedDateTime: 2021-08-17T13:21:00Z

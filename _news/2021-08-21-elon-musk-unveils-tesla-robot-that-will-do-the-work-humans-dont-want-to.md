@@ -95,9 +95,9 @@ related:
   - title: "Tesla Bot: A concept humanoid robot embedded with Tesla's vehicle AI"
     excerpt: "At Tesla AI Day, the company's CEO Elon Musk unveiled a concept humanoid robot that will be powered by the AI currently embedded within Tesla's autonomous vehicles. Aptly named the Tesla Bot, details about the concept robot were limited,"
     publishedDateTime: 2021-08-20T02:15:00Z
-    webUrl: "https://www.zdnet.com/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
+    webUrl: "https://www.zdnet.com/index.php/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
+    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
     type: article
     provider:
       name: ZDNet
@@ -638,6 +638,22 @@ related:
         width: 1566
         height: 1280
         isCached: true
+  - title: "Tesla reveals new plan to build robots"
+    excerpt: "Tesla is now working on human-like robots. According to the company's website, the robots would be used for tasks that are considered \"unsafe, repetitive or boring.\" For the project, Tesla said it's searching for mechanical,"
+    publishedDateTime: 2021-08-21T19:54:00Z
+    webUrl: "https://www.wtkr.com/news/national/tesla-reveals-new-robot"
+    ampWebUrl: "https://www.wtkr.com/news/national/tesla-reveals-new-robot?_amp=true"
+    cdnAmpWebUrl: "https://www-wtkr-com.cdn.ampproject.org/c/s/www.wtkr.com/news/national/tesla-reveals-new-robot?_amp=true"
+    type: article
+    provider:
+      name: WTKR.com
+      domain: wtkr.com
+    quality: 76
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/1878d93/2147483647/strip/true/crop/5530x3111+0+125/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fcb%2Fa6%2F68804c7e4693a0e226ff5daf731f%2Fap21207771303544.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Get Ready To Meet Tesla’s Humanoid Bot Powered By Vehicle AI"
     excerpt: "Tesla’s AI Day event included a surprise announcement about an upcoming humanoid bot powered by the car’s autonomous fleet technology."
     publishedDateTime: 2021-08-20T16:31:00Z
@@ -945,20 +961,6 @@ related:
       - url: "https://greekreporter.com/wp-content/uploads/2021/08/Elon-Musk-Credit-JDLasica-creative-commons.jpg"
         width: 763
         height: 600
-        isCached: true
-  - title: "Tesla Autopilot U.S. Safety Probe Puts a Damper on Elon Musk’s AI Day"
-    excerpt: "The federal investigation into Tesla Inc.’s Autopilot comes at an awkward time for Elon Musk. On Thursday -- just three days after the U.S. government announced its probe -- he has a briefing scheduled about the carmaker’s work on artificial intelligence."
-    publishedDateTime: 2021-08-17T03:58:00Z
-    webUrl: "https://www.bloombergquint.com/business/tesla-autopilot-u-s-safety-probe-puts-a-damper-on-musk-s-ai-day"
-    type: article
-    provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
-    quality: 54
-    images:
-      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Tesla unveils a humanoid robot powered by its vehicle A.I called the Tesla Bot"
     excerpt: "While no physical robot has been shown off yet, Elon Musk unveiled a new humanoid robot called the Tesla Bot. According to Musk, the purpose of this robot is to eliminate dangerous, repetitive, and boring tasks and it uses the same artificial intelligence and autopilot cameras that Tesla uses in their vehicles."

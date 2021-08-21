@@ -7,7 +7,7 @@ originalUrl: "https://www.indiablooms.com/finance-details/14292/iim-ahmedabad-in
 webUrl: "https://www.indiablooms.com/finance-details/14292/iim-ahmedabad-inaugurates-brij-disa-centre-for-data-science-and-artificial-intelligence.html"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -22,52 +22,6 @@ images:
     width: 800
     height: 533
     isCached: true
-
-related:
-  - title: "IIM-Ahmedabad launches new centre for data science and artificial intelligence"
-    excerpt: "The centre will also take up challenging consulting projects of considerable practical importance in collaboration with industry players."
-    publishedDateTime: 2021-08-17T03:47:00Z
-    webUrl: "https://indianexpress.com/article/education/iim-ahmedabad-launches-new-centre-for-data-science-and-artificial-intelligence-7456342/"
-    ampWebUrl: "https://indianexpress.com/article/education/iim-ahmedabad-launches-new-centre-for-data-science-and-artificial-intelligence-7456342/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/education/iim-ahmedabad-launches-new-centre-for-data-science-and-artificial-intelligence-7456342/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 53
-    images:
-      - url: "https://images.indianexpress.com/2020/12/IIM-Ahmedabad.jpg"
-        width: 1200
-        height: 667
-        isCached: true
-  - title: "DRUID AI and Service Centrix Form a Strategic Partnership"
-    excerpt: "DRUID AI and Service Centrix Form a Strategic Partnership  - DRUID virtual assistants may converse and activate activities with both attended and unsupervised robots to streamline"
-    publishedDateTime: 2021-08-17T10:48:00Z
-    webUrl: "https://www.cioreview.com/news/druid-ai-and-service-centrix-form-a-strategic-partnership-nid-34294-cid-255.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 37
-    images:
-      - url: "https://www.cioreview.com/news_new/sliderimage/g2yar.300.jpg"
-        width: 300
-        height: 350
-        isCached: true
-  - title: "IIM Ahmedabad To Establish A Centre For Data Science And Artificial Intelligence"
-    excerpt: "IIM, Ahmedabad, has announced the launch of the Brij Disa Centre for Data Science and Artificial Intelligence (CDSA)"
-    publishedDateTime: 2021-08-17T09:16:00Z
-    webUrl: "https://analyticsindiamag.com/iim-ahmedabad-to-establish-a-centre-for-data-science-and-artificial-intelligence/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 32
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/IIMAhmedabad_AIM.jpg"
-        width: 729
-        height: 411
-        isCached: true
 
 secured: "xP7DBzYMBJ70X8lAZPHtLtEiquEsTuEoaQBf8ZRWoGK6Qgoo4IZ7KyMbt+iPZcaZ4hjQ4sPFsEGWus5d4wYtBmv8ODWe8UFqFmaDCVKNU3fy+CUQX1yoUqD1pPZCyJT9nl8BTL6Fi3QYziKZ7V58S5xe79d63WYjCKLy55yxOZUWpeFioSL4VONGZQEKLYyxlm0URT/nsRUwO0Dke8/XlrHdRmCAwM5GVg5RLmKtW9mHqDRnj+maPhmtC5Rs8LZhGnhi+9SCwELrAKNq5sURqa6oBjRIAGbJax20aThBnTc+kVlvjAnz81BoWcmKmPDnjieLo3uMEjDb0pLzahOwgQ1R7inE2gWVTzOGFh0rLeclmRenRq4ldzEjKAcfAK7eBDZvqMASH5ndAKIenBabK9u4p0LtZMxQX8MGim1SLqJvYDsiX1228dcqF9H7SNZz3anHPmKmZaL/0bkW/GGMqMih5m8Bt5tpGgHOme9lWc5NVxCTUjmNzoAxjMaLnHh337vLd/oGi3ge+Ymd5xirFw==;n9xDHNR3Psln1ud/a4EZZQ=="
 ---

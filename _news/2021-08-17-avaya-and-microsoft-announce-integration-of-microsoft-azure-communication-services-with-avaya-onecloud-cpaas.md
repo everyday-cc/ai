@@ -25,36 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Azure Government Top Secret has hit general availability"
-    excerpt: "Microsoft has announced that Azure Government Top Secret, its cloud offering dealing with modernizing infrastructure and data management tooling for classified U.S. Government operations, has hit GA."
-    publishedDateTime: 2021-08-17T03:44:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-azure-government-top-secret-has-hit-general-availability/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 99
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2021/08/1629183549_2b62ae85-b75c-450d-9d5d-8a11108c2d45_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
-  - title: "Azure Government Top Secret now available for US national security missions"
-    excerpt: "Microsoft recently announced that cloud-based service Azure Government Top Secret is now going to aid national security missions in the US."
-    publishedDateTime: 2021-08-18T12:30:00Z
-    webUrl: "https://news.thewindowsclub.com/azure-government-top-secret-now-available-106117/"
-    ampWebUrl: "https://news.thewindowsclub.com/azure-government-top-secret-now-available-106117/?amp"
-    cdnAmpWebUrl: "https://news-thewindowsclub-com.cdn.ampproject.org/c/s/news.thewindowsclub.com/azure-government-top-secret-now-available-106117/?amp"
-    type: article
-    provider:
-      name: TWCN Tech News
-      domain: thewindowsclub.com
-    quality: 89
-    images:
-      - url: "https://news.thewindowsclub.com/wp-content/uploads/2021/08/azure-govt-top-secret.jpg"
-        width: 700
-        height: 395
-        isCached: true
   - title: "Avaya integrates Microsoft Azure capabilities into its OneCloud CPaaS"
     excerpt: "Communications technology firm Avaya (AVYA) has announced the integration of Microsoft Azure (MSFT) voice, video, chat and SMS capabilities into its OneCloud Communications Platform"
     publishedDateTime: 2021-08-17T13:25:00Z
@@ -70,20 +40,6 @@ related:
       - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
         width: 1200
         height: 1200
-        isCached: true
-  - title: "Microsoft launches Azure Government Top Secret for US national security contracts"
-    excerpt: "Microsoft has made 'Azure Government Top Secret' generally available, and can now bid for US government contracts with top-secret data hosting requirements. The company has long offered 'Government' and 'Government Secret' services,"
-    publishedDateTime: 2021-08-17T12:29:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-launches-azure-government-top-secret-for-us-national-security-contracts/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 66
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/MicrosoftAzureClippySoldier.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Microsoft ups ante in government cloud contest"
     excerpt: "Microsoft announced its Azure Government Top Secret cloud received authorisation making it available to US national security agencies."
@@ -144,20 +100,6 @@ related:
       - url: "https://www.totaltele.com/res/image/tech%20stuff/the%20score%20board.jpg"
         width: 500
         height: 500
-        isCached: true
-  - title: "Cloud Natural Language Processing Market to Witness Massive Growth by Microsoft, Facebook, Google"
-    excerpt: "This press release was orginally distributed by SBWire Edison, NJ — (SBWIRE) — 08/18/2021 — The latest study released on the Global Cloud Natural Language Processing Market by AMA Research evaluates market size,"
-    publishedDateTime: 2021-08-18T13:57:00Z
-    webUrl: "https://www.digitaljournal.com/pr/cloud-natural-language-processing-market-to-witness-massive-growth-by-microsoft-facebook-google"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 43
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/Portugal-Wildfire-AFP-1K-01-e1629214093515-600x337.jpg"
-        width: 600
-        height: 337
         isCached: true
   - title: "Microsoft unwraps top secret cloud"
     excerpt: "Microsoft announced its top secret, air-gapped Azure cloud has received authorization to operate and are 'generally available' for national security workloads."

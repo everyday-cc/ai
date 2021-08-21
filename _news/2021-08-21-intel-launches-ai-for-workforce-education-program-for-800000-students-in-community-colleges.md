@@ -100,15 +100,6 @@ related:
         width: 1350
         height: 450
         isCached: true
-  - title: "Intel teases AI-based DLSS-style super sampling tech in the works"
-    excerpt: "Intel confirms it is working on AI-based Super Sampling technology, to fight against NVIDIA's DLSS and AMD's FSR technologies."
-    publishedDateTime: 2021-08-17T03:09:00Z
-    webUrl: "https://www.tweaktown.com/news/81158/intel-teases-ai-based-dlss-style-super-sampling-tech-in-the-works/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 17
 
 secured: "5g2NnUBheI/awJmOqvRzlsDdu2439t6SmRg4ge19EqnOUyRL/W6KbYMZ9oHPGpO28+TuoW5rB8vs7WP8H0iY7Vgdnku/tZTl+JtrQaqjbrEamtrJ00vbVr/v5n3pu/AxPnU8Om6QCLqi7NyNVT2SBXr5msDaCeCtwimZTOSw33OcvR2jKL6bD49LtWErRqS0EMkBBjRTLJBB2929/F/SUIRBkq2Qc2KsGK+GLYLaIjqyGA7LWDd2/C0eMOoFmSrSvuNUpEz3XQJGwSDy+MNE3lCK0vCSnyBm2ie0x5FjYkPFlx98XOcU5AMhYs4pslgK+Uj103d7wC1zufT3/9lrMkmS9uhn9JMOQC/LyWSTZXQ2r0Tv8mZ5ZcmTY8csQcj4s6Yz/AoHIghfW3wlqPVLyI8LGRUGEGEtEX86ZTPHqhv2GiSBybaQxQoLDtqWtZcQrsWQI4DszYAYaZBiF8zxW22JQqIvyC4QQzZdID4bJ6wgISqsOgvnfJ6rZ4JIBoBiPNpvLou8P6G6N5Y28mqLAQ==;okqZigQXc41lWysZ+mmSHQ=="
 ---

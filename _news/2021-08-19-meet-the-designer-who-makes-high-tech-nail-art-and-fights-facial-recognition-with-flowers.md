@@ -7,7 +7,7 @@ originalUrl: "https://mashable.com/article/joselyn-mcdonald-interview"
 webUrl: "https://mashable.com/article/joselyn-mcdonald-interview"
 type: article
 quality: 75
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1199
     height: 675
     isCached: true
-
-related:
-  - title: "AMTRON, Corsight AI and I-Sec partner to deliver facial recognition"
-    excerpt: "Assam Electronics Development Corporation Limited (AMTRON) has signed a tripartite MOU with Corsight AI, a leading Facial"
-    publishedDateTime: 2021-08-17T03:30:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/amtron-corsight-ai-and-i-sec-partner-to-deliver-facial-recognition-891042133.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 34
 
 secured: "vfF4/S337EYjNf6XFRZmHMGwA5DEGhjH1WMJO2lZOosoAF4Mj7iaKKUYi3895+iuoyBuUVgl/BsjXDlvW/Fhnyr238wG6cevBsktbYVz/3couVa17YhhHea6sdMFtdPoVVZ7groQg7UEKLigz+/QsBgdK6V6ScV5eypcxLj4GQy8IVDLub/RWOTC3p4DlQV6l3nFWzCbWfE0TFsxd9wE78wCMsUqeLhQ6feKQO0sYL+zH0FwwFVT/Uyhzssg+MYPY2w2/gmSbI4tGXiqbP0kFZgVflk5hHur7L801KuoHFbbLJW/bz14REAdMSVCBl+btSiALsxhQK46knbg0c4/CDrS/kQucTK9SI9ABv3y1Qu8hzB9+IcLFgmw/qrCeQtW7bYmhQN2EbCEXI6yR9DSbzGscQ3fT5M4rh7mwxIjNH87Sngr6Cujqiu3E5xWkRdAJk4MBh1UpUYPJRsHqQlLHf5jTctLq1gAURduN7a/AKZurIXzDFLk5Z75NXL7tQBqEgf+75boUrcR6kBbUMkxSA==;xZSOCV5jvJ8RbV02zyD5GQ=="
 ---
