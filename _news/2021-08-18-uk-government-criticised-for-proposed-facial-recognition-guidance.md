@@ -113,6 +113,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Open source face recognition application adds features"
+    excerpt: "Exadel, a software engineering company that delivers digital platforms, products and applications, announced updates to CompreFace, an open source face recognition application. Since its launch in November 2020,"
+    publishedDateTime: 2021-08-21T11:11:00Z
+    webUrl: "https://www.ept.ca/2021/08/open-source-face-recognition-application-adds-features/"
+    type: article
+    provider:
+      name: EPT
+      domain: www.ept.ca
+    quality: 39
+    images:
+      - url: "https://www.ept.ca/wp-content/uploads/2020/08/EPT_Aug2021_ISSUU_COV-ml-300x400.jpg"
+        width: 300
+        height: 400
+        isCached: true
   - title: "The Use of Facial Recognition Technology in Criminal Investigations"
     excerpt: "Facial recognition and surveillance technology is being used throughout the nation during criminal investigations. Find out more with our latest article written by our senior law clerk, Sarah! Facial recognition and surveillance technology is being used throughout the nation during criminal investigations."
     publishedDateTime: 2021-08-18T01:15:00Z

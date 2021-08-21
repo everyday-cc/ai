@@ -4,31 +4,23 @@ title: "BeingAI unveils human-like AI character named Zbee"
 excerpt: "BeingAI is creating virtual beings with artificial intelligence. And its first AI being is a virtual character named Zbee."
 publishedDateTime: 2021-08-20T20:00:00Z
 originalUrl: "https://venturebeat.com/2021/08/20/beingai-unveils-human-like-ai-character-named-zbee/"
-webUrl: "https://venturebeat.com/2021/08/20/beingai-unveils-human-like-ai-character-named-zbee/"
-ampWebUrl: "https://venturebeat.com/2021/08/20/beingai-unveils-human-like-ai-character-named-zbee/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/20/beingai-unveils-human-like-ai-character-named-zbee/amp/"
+webUrl: "https://beingai.com/zbee/"
 type: article
-quality: 87
-heat: 87
+quality: 147
+heat: 147
 published: true
 
 provider:
   name: VentureBeat
   domain: venturebeat.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
+    - url: "/assets/images/organizations/venturebeat.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
 
-images:
-  - url: "https://venturebeat.com/wp-content/uploads/2021/08/zbee-3.jpg?w=1200&strip=all"
-    width: 1200
-    height: 712
-    isCached: true
-
-secured: "STLK5MWbzfMj34K3zTNhGSJ3xLurfMu42aOSFBJWNZxoIB0wTuAckD4LSDJBn01nRKGu5jjAYUn7kWW3PJmVeByHISuOEao8lhCglAzCZ1vLyb7GinCa5EJhPi+5XMNYj9FAaPdWbUKCq/RzUhtN4JrrMw2zgJe9So8fFatKAFQoIJ/b8W/acurGNB6zAUYoY0CK1FLuIAQAJFC4Eb+naxFo8MfyAG8J1RbglJQ5KtsTbtIlWIW/tLVYYGAw7gVwNd45vgydNx7s7rlsHqtL0HmlKuhV2uIeyLak9FklPQV3qQ7SjEVSX4aMTnV4AbirZypLogP4ARcywAL4W3wiTBxAult6AGFQDKC2qPf22Zg5enbSNJYnMt1dkRu+L6VlpcvRDsyoy0vtuwRIZUxOyBuDNz6SNcdtbf8ZBn37Zii5lgzAuHTX+pEkeJ4AwOVa0p1pDmA2LVw5F78vFYU+2F/wJuOVmlKghg3us6wGzCoxDPBg5DtPKno9RHYEcSPGcl0CPOch8F91xGqvDuFhEA==;5kox1MhiWTkkFrxQkDHJiw=="
+secured: "bOTXnNLbUVP98dCRusR6lKT72QLUj01HoomCFLrgX+QEngzQJdHQ/0rC4MxlrBtkfkVLBF3X5T7D/pajStOs+LL4cbGOPrDYyjdSo2G68mizREVN05J2KaSHapn2on//cnlHy14vlpzGnX3MLYpvXgU/JkfJd8DeI3DG1AmNmI5I0lHNSYt2/hZPaIoLkDm1GWCoz8k1C4qAatGVgy5CfmrjgfTjqZTGFF7Tk81dGusKjb93phdnYC0o2+8MnxSF/y7uH7w388IUnoAAWrNoTy3MVoeGGMtmr3yf9V9pWbLgzNxLthWvvGam6TJfBOhbCTqolT3nqf+pId6CtNXwJKGIyLrqBouL74j0FheQBrNzxNJ1FTzieZximOWaArX8bbudjZ3ciWTbHhwV4jya3OK53U9HgC15YURG8apChnBw6puOUYr2lgtMFZTZnCSGD2IB2fPHlmWro0sBeHJG5mnnXOFdgcq+IQ/JCP3UO2MVw9u4t3WCMFJtG5U1Z6oZ1AgphxbDMwIVaKs01Vs3yL4sNgUlz3pKd2JNw6ltIso=;DsBqy3mt2EuRHXsNYN7uCA=="
 ---
 

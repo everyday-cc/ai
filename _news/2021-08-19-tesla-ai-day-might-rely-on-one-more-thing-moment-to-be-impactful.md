@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/08/19/tesla-ai-day-one-more-thing-moment-im
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/19/tesla-ai-day-one-more-thing-moment-impactful/amp/"
 type: article
 quality: 106
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Watch Tesla AI Day and follow the important news coming out of it"
+    excerpt: "PM ET (5:00 PM PT) if Tesla is on time, which is a big ‘if’. We are also going to link to all the headline-worthy news coming out of the event. Over the last few years, Tesla started holding events, not really to unveil"
+    publishedDateTime: 2021-08-19T21:49:00Z
+    webUrl: "https://electrek.co/2021/08/19/watch-tesla-ai-day-livestream-important-news/"
+    ampWebUrl: "https://electrek.co/2021/08/19/watch-tesla-ai-day-livestream-important-news/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/19/watch-tesla-ai-day-livestream-important-news/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 104
+    images:
+      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-AI-Day.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Tesla AI Day Is About To Start. Here’s Some Key Things You Can Expect to Learn."
     excerpt: "Investors want to learn more about Tesla’s competitive position on AI-technology versus other car makers, and they may be hoping that CEO Elon Musk has a surprise or two up his sleeve as well. Technology Tesla (ticker: TSLA) has a vertically integrated ..."
     publishedDateTime: 2021-08-19T21:36:00Z

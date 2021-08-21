@@ -59,20 +59,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Facial Recognition Market Size | Opportunity Analysis Report by 2026"
-    excerpt: "Estimates suggests that global facial recognition market size will exceed USD 12 billion in terms of annual valuation by 2026. All the major mobile phone companies including Samsung, Apple, Xiomi Corp and others offer FaceTech in their phones."
-    publishedDateTime: 2021-08-18T04:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-opportunity-analysis-report-by-2026-2021-08-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "0WFS3bmdAapRTeSCBEFJPcVqqvQT1MP6v1dxlbihUrNCuZWpUQYrKoapX3rd/NC7stFuBgtYz4YhEtAOsQDT4DgXCw7zworp+xHoIy62aEqpUqX3FOYz77ZuGKOicmFKkQqVmfD3ndViE0o1CP79xT166Vx+LVFYfTBogjidDw4CDaZ4PqO9qUrpidxSDTJeadWrSZpJl2Oa0GmX3Uq1NiXli+b1PBcQfpRhh6krNXrGqxmhYqbE/k6OcJt/JsjXzLeXLSLR+Z46ptevvLuOIy0IMJnWj86ctkEbL2l/GCZzQH1D2DQ6zn6IwinJntF2Egq+I39GkaWQYTybLcK82nKl0+gOQcCexTjVmdYcTBth+x9MfVDiKVQfg8YOKyU7xhLGxjhP+7aADp8eJNGdW+mC2Sdy2alL7/yqaiT9PyMmwhaHltR8koBK8T/d9KLb7RoovUOULCDkfcF3WHSu0tQqV2uMU+LjJNVSZLn8m4yj7UfqldXzWxmQr/j/70AK0EUNTEFYFywazdFooVKtOA==;urjQm2ySGdJgLnVrPTp73g=="
 ---

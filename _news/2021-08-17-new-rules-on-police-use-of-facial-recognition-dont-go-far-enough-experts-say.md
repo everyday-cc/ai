@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/new-rules-on-police-use-of-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/new-rules-on-police-use-of-facial-recognition-dont-go-far-enough-experts-say/"
 type: article
 quality: 85
-heat: 155
+heat: 165
 published: true
 
 provider:
@@ -106,6 +106,20 @@ related:
       - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2021/08/p-1-facial-recognition-misunderstanding.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Open source face recognition application adds features"
+    excerpt: "Exadel, a software engineering company that delivers digital platforms, products and applications, announced updates to CompreFace, an open source face recognition application. Since its launch in November 2020,"
+    publishedDateTime: 2021-08-21T11:11:00Z
+    webUrl: "https://www.ept.ca/2021/08/open-source-face-recognition-application-adds-features/"
+    type: article
+    provider:
+      name: EPT
+      domain: www.ept.ca
+    quality: 39
+    images:
+      - url: "https://www.ept.ca/wp-content/uploads/2020/08/EPT_Aug2021_ISSUU_COV-ml-300x400.jpg"
+        width: 300
+        height: 400
         isCached: true
   - title: "UK government criticised for proposed facial-recognition guidance"
     excerpt: "The government is updating its “surveillance camera code of practice” for the first time since it was implemented in 2013, but privacy campaigners have criticised the proposed updates for not doing enough to mitigate abuses of facial-recognition technology."

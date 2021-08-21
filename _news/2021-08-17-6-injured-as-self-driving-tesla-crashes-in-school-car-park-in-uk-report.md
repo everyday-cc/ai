@@ -43,38 +43,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Tesla Bot: A concept humanoid robot embedded with Tesla's vehicle AI"
-    excerpt: "At Tesla AI Day, the company's CEO Elon Musk unveiled a concept humanoid robot that will be powered by the AI currently embedded within Tesla's autonomous vehicles. Aptly named the Tesla Bot, details about the concept robot were limited,"
-    publishedDateTime: 2021-08-20T02:15:00Z
-    webUrl: "https://www.zdnet.com/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 121
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/08/20/c53f20ad-f148-4044-a3eb-0929d3675012/tesla.png"
-        width: 1390
-        height: 856
-        isCached: true
-  - title: "Elon Musk unveils 'Tesla bot,' a humanoid robot that would be made from Tesla's self-driving AI"
-    excerpt: "\"There will be profound applications for the economy,\" Musk said about the bot's future capabilities. \"In the future, physical work will be a choice.\""
-    publishedDateTime: 2021-08-20T03:12:00Z
-    webUrl: "https://www.businessinsider.com/elon-musk-unveils-tesla-bot-humanoid-robot-based-off-autopilot-2021-8"
-    ampWebUrl: "https://www.businessinsider.com/elon-musk-unveils-tesla-bot-humanoid-robot-based-off-autopilot-2021-8?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-unveils-tesla-bot-humanoid-robot-based-off-autopilot-2021-8?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 109
-    images:
-      - url: "https://i.insider.com/611f13540fbf9e0018e886b0?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Dem Senators Ask FTC to Probe Tesla Over 'Misleading' Self-Driving Claims"
     excerpt: "US Senators Richard Blumenthal and Edward Markey are concerned Tesla is overhyping the company's self-driving technologies and thus putting Tesla owners at risk."
     publishedDateTime: 2021-08-18T15:36:00Z
@@ -106,22 +74,6 @@ related:
       - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/05/Tesla-Guide-Cybertruck-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Elon Musk’s Plan To Tout Tesla AI Comes As Tougher Scrutiny Of The Company Looms"
-    excerpt: "The company's AI Day takes place as NHTSA probes its Autopilot feature and as two Senators call for a Federal Trade Commission investigation of how Tesla promotes Autopilot and Full Self Driving."
-    publishedDateTime: 2021-08-18T18:53:00Z
-    webUrl: "https://www.forbes.com/sites/alanohnsman/2021/08/18/elon-musks-plan-to-tout-tesla-ai-comes-as-tougher-scrutiny-of-the-company-looms/"
-    ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2021/08/18/elon-musks-plan-to-tout-tesla-ai-comes-as-tougher-scrutiny-of-the-company-looms/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2021/08/18/elon-musks-plan-to-tout-tesla-ai-comes-as-tougher-scrutiny-of-the-company-looms/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 99
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611d5044bebdc296608d0853%2F0x0.jpg"
-        width: 1200
-        height: 849
         isCached: true
   - title: "Tesla’s claims about Autopilot and Full Self-Driving are under scrutiny as senators pressure FTC"
     excerpt: "Two senators are pressuring the Federal Trade Commission (FTC) to investigate Tesla’s claims about Autopilot and the Full Self-Driving (FSD) package. Richard Blumenthal and Ed Markey, two senators representing the Democratic Party,"
@@ -183,20 +135,6 @@ related:
         width: 2000
         height: 1125
         isCached: true
-  - title: "What investors need to know about Tesla's AI day"
-    excerpt: "CNBC's 'Squawk Box' team discusses Tesla's valuation ahead of its artifical intelligence day with Gene Munster of Loup Ventures and Gordon Johnson, GLJ Research CEO and founder."
-    publishedDateTime: 2021-08-19T11:58:00Z
-    webUrl: "https://www.cnbc.com/video/2021/08/19/what-investors-need-to-know-about-teslas-ai-day.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 84
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106930296-16293722741629372269-18143738765-1080pnbcnews.jpg?v=1629372273"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Two senators urge the FTC to investigate Tesla over “Full Self-Driving” statements"
     excerpt: "Two Democratic senators have asked the new chair of the Federal Trade Commission to investigate Tesla’s statements about the autonomous capabilities of its Autopilot and Full Self-Driving systems. The senators,"
     publishedDateTime: 2021-08-18T20:51:00Z
@@ -229,20 +167,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Musk shows self-driving progress, humanoid robot at Tesla AI Day"
-    excerpt: "Tesla used its inaugural AI Day to showcase improvements in its self-driving capability -- which has come under a regulatory spotlight -- and unveiled plans for a life-like robot that Elon Musk says will take the drudgery out of everyday life."
-    publishedDateTime: 2021-08-20T08:22:00Z
-    webUrl: "https://europe.autonews.com/automakers/musk-shows-self-driving-progress-humanoid-robot-tesla-ai-day"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 73
-    images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Tesla%20during%20testing%20Bloomberg.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Senators call for consumer watchdog probe into Tesla’s self-driving claims"
     excerpt: "Top Democratic senators are calling on the Federal Trade Commission to launch an investigation into marketing practices at Tesla, days after the National Highway Traffic Safety Administration opened a probe into the car maker’s Autopilot driverless technology."
     publishedDateTime: 2021-08-18T16:51:00Z
@@ -259,22 +183,6 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "Teslabot: Tesla’s stunning decision to make its own robot, to get the groceries"
-    excerpt: "Tesla drops major bombshell, saying it will make its own robot using the same computing hardware it has developed for autonomous driving."
-    publishedDateTime: 2021-08-20T03:42:00Z
-    webUrl: "https://thedriven.io/2021/08/20/teslabot-tesla-stunning-decision-to-make-its-own-robot-to-get-the-groceries/"
-    ampWebUrl: "https://thedriven.io/2021/08/20/teslabot-tesla-stunning-decision-to-make-its-own-robot-to-get-the-groceries/amp/"
-    cdnAmpWebUrl: "https://thedriven-io.cdn.ampproject.org/c/s/thedriven.io/2021/08/20/teslabot-tesla-stunning-decision-to-make-its-own-robot-to-get-the-groceries/amp/"
-    type: article
-    provider:
-      name: thedriven
-      domain: thedriven.io
-    quality: 72
-    images:
-      - url: "https://thedriven.io/wp-content/uploads/2021/08/teslabot-2.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Senators say Tesla’s ‘self-driving’ claims are misleading, call for FTC probe"
     excerpt: "Driving” features is misleading to consumers and should be investigated by the Federal Trade Commission, two US senators said Wednesday."
     publishedDateTime: 2021-08-18T20:19:00Z
@@ -290,20 +198,6 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/senator-markey.jpg?quality=90&strip=all&w=1024"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Musk Shows Self-Driving Progress, Humanoid Robot at Tesla AI Day"
-    excerpt: "Tesla Inc. used its inaugural AI Day to showcase improvements in its self-driving capability -- which has come under a regulatory spotlight -- and unveiled plans for a life-like robot that Elon Musk says will take the drudgery out of everyday life."
-    publishedDateTime: 2021-08-20T17:05:00Z
-    webUrl: "https://www.bloombergquint.com/business/tesla-showcases-self-driving-progress-at-inaugural-ai-day"
-    type: article
-    provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
-    quality: 71
-    images:
-      - url: "https://gumlet.assettype.com/bloombergquint%2F2021-08%2F317f2532-b723-427c-901c-13ccb9f542a5%2F372941285.jpg?rect=0%2C568%2C3998%2C2099&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Senators call for investigation into Tesla’s marketing of self-driving vehicle features"
     excerpt: "Two Democratic senators have sent a letter to the Federal Trade Commission (FTC) asking for an investigation into Tesla’s marketing of its Autopilot and Fu"
@@ -352,22 +246,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/11/13/tesla-would-be-the-first-foreign-car-company.jpg"
         width: 1024
         height: 707
-        isCached: true
-  - title: "Tesla Bot Goal to Automate Labor"
-    excerpt: "Tesla needs robots to install solar power. Mining, garbage collection and iron working is dangerous. Tesla needs to mine more materials for their batteries and cars. Steel working is needed for Tesla cars."
-    publishedDateTime: 2021-08-20T13:59:00Z
-    webUrl: "https://www.nextbigfuture.com/2021/08/tesla-bot-goal-to-automate-labor.html"
-    ampWebUrl: "https://www.nextbigfuture.com/2021/08/tesla-bot-goal-to-automate-labor.html"
-    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/08/tesla-bot-goal-to-automate-labor.html"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 59
-    images:
-      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/08/Screen-Shot-2021-08-19-at-7.47.13-PM.jpg"
-        width: 1920
-        height: 1150
         isCached: true
   - title: "Six injured as self-driving Tesla crashes in school car park in Southern England"
     excerpt: "At least one person was reported to have been pinned under the electric car in a car park of a college in Sussex, the report said, adding that exact number was not clear."
@@ -426,22 +304,6 @@ related:
       - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F08%2Ftesla-self-driving-claims-ftc-investigation-news-tw.jpg?w=960&cbr=1&q=90&fit=max"
         width: 960
         height: 480
-        isCached: true
-  - title: "More than 750,000 Tesla self-driving cars could be RECALLED after Autopilot crashes"
-    excerpt: "Tesla's Autopilot system is under investigation after a series of crashes involving parked emergency vehicles."
-    publishedDateTime: 2021-08-16T20:37:00Z
-    webUrl: "https://7news.com.au/technology/tesla-autopilot-investigated-after-crashes-c-3700875"
-    ampWebUrl: "https://7news.com.au/technology/tesla-autopilot-investigated-after-crashes-c-3700875.amp"
-    cdnAmpWebUrl: "https://7news-com-au.cdn.ampproject.org/c/s/7news.com.au/technology/tesla-autopilot-investigated-after-crashes-c-3700875.amp"
-    type: article
-    provider:
-      name: 7news
-      domain: 7news.com.au
-    quality: 53
-    images:
-      - url: "https://images.7news.com.au/publication/C-3700875/4f033b8d40628b59a523ce7d34d73faa6c5b4dcd-16x9-x0y0w1280h720.jpg?imwidth=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Senators Call for Investigation of Tesla’s Marketing Claims of its Autopilot and 'Full Self-Driving' Features"
     excerpt: "Consumer Reports shares details of a call to investigate Tesla’s marketing claims for its Autopilot and 'Full Self-Driving' Features. Two U.S. senators' letter to the Federal Trade Commission alleges that the automaker’s public statements might have led to crashes and fatalities."
@@ -521,20 +383,6 @@ related:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_338%2Cw_600/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=OKRpQAP1"
         width: 600
         height: 338
-        isCached: true
-  - title: "Elon Musk's Ambitious Plan to Build a Self-Driving Tesla Has Just 1 Problem. It Doesn't Work"
-    excerpt: "On the other hand, Tesla is the only company with a CEO that insists on marketing driver-assist technologies as \"full-self driving,\" even when the car can't drive itself. I know t"
-    publishedDateTime: 2021-08-17T07:02:00Z
-    webUrl: "https://www.inc.com/jason-aten/elon-musks-ambitious-plan-to-build-a-self-driving-tesla-nhtsa-investigation.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 28
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/getty_1228322113_izvhcy.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Two Senators Accuse Tesla Of Misleading Customers With Self-Driving Features, Request FTC Probe"
     excerpt: "Senators Richard Blumenthal and Edward J. Markey have sent a letter to the Chair of the Federal Trade Commission, Lina Khan, asking the organization to investigate Tesla for what they allege are deceptive business practices."

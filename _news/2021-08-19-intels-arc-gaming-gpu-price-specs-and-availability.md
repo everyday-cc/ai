@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcworld.com/article/3629402/intels-arc-gaming-gpu-price-
 cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3629402/intels-arc-gaming-gpu-price-specs-and-availability.amp.html"
 type: article
 quality: 104
-heat: 215
+heat: 204
 published: true
 
 provider:
@@ -124,20 +124,6 @@ related:
       - url: "https://htxt.co.za/wp-content/uploads/2021/08/intel-arc-logo.png"
         width: 1080
         height: 608
-        isCached: true
-  - title: "Intel announces gaming GPU brand to challenge Nvidia, AMD in 2022"
-    excerpt: "Intel plans to take on Nvidia and AMD with a new brand called Intel Arc for its upcoming series of discrete GPU products for high-performance desktops and laptops that will debut in 2022. The based company unveiled the brand Monday,"
-    publishedDateTime: 2021-08-16T19:42:00Z
-    webUrl: "https://www.crn.com.au/news/intel-announces-gaming-gpu-brand-to-challenge-nvidia-amd-in-2022-568675"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 39
-    images:
-      - url: "https://i.nextmedia.com.au/News/intel-arc-chip-and-computers-hi.jpeg"
-        width: 1400
-        height: 899
         isCached: true
   - title: "Behold Alchemist! This is Intel’s first gaming GPU."
     excerpt: "Intel has been working to enter the high-end graphics card market to compete with Nvidia and AMD, and today those efforts get a name: Intel Arc. The earliest Arc products will be released in the first quarter of 2022 and will be based on a GPU codenamed Alchemist."

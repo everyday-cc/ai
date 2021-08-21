@@ -103,6 +103,20 @@ related:
         width: 2880
         height: 1920
         isCached: true
+  - title: "Open source face recognition application adds features"
+    excerpt: "Exadel, a software engineering company that delivers digital platforms, products and applications, announced updates to CompreFace, an open source face recognition application. Since its launch in November 2020,"
+    publishedDateTime: 2021-08-21T11:11:00Z
+    webUrl: "https://www.ept.ca/2021/08/open-source-face-recognition-application-adds-features/"
+    type: article
+    provider:
+      name: EPT
+      domain: www.ept.ca
+    quality: 39
+    images:
+      - url: "https://www.ept.ca/wp-content/uploads/2020/08/EPT_Aug2021_ISSUU_COV-ml-300x400.jpg"
+        width: 300
+        height: 400
+        isCached: true
   - title: "UK government criticised for proposed facial-recognition guidance"
     excerpt: "The government is updating its “surveillance camera code of practice” for the first time since it was implemented in 2013, but privacy campaigners have criticised the proposed updates for not doing enough to mitigate abuses of facial-recognition technology."
     publishedDateTime: 2021-08-18T11:00:00Z

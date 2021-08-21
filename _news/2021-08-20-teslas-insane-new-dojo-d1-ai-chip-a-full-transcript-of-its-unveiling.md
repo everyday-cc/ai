@@ -36,17 +36,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla unveils own chip for AI training computer Dojo"
-    excerpt: "Tesla Inc TSLA.O on Thursday unveiled its own computer chips to train its automated driving system. Tesla CEO Elon Musk a few years ago asked Tesla engineer \"to design a superfast training computer and that's how we started Project Dojo,"
-    publishedDateTime: 2021-08-20T01:54:00Z
-    webUrl: "https://www.nasdaq.com/articles/tesla-unveils-own-chip-for-ai-training-computer-dojo-2021-08-20"
-    ampWebUrl: "https://www.nasdaq.com/articles/tesla-unveils-own-chip-for-ai-training-computer-dojo-2021-08-20?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tesla-unveils-own-chip-for-ai-training-computer-dojo-2021-08-20?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 101
   - title: "Tesla details Dojo supercomputer, reveals Dojo D1 chip and training tile module"
     excerpt: "Tesla CEO Elon Musk has periodically tweeted about Dojo, a ‘neural network exaflop supercomputer,’ but has shared few details up to this point. During its AI Day event this week, the electric car and energy company revealed its in-house D1 chip that will power the system and a ‘training tile’ module."
     publishedDateTime: 2021-08-20T19:27:00Z

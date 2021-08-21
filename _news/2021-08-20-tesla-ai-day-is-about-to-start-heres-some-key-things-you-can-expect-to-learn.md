@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Watch Tesla AI Day and follow the important news coming out of it"
+    excerpt: "PM ET (5:00 PM PT) if Tesla is on time, which is a big ‘if’. We are also going to link to all the headline-worthy news coming out of the event. Over the last few years, Tesla started holding events, not really to unveil"
+    publishedDateTime: 2021-08-19T21:49:00Z
+    webUrl: "https://electrek.co/2021/08/19/watch-tesla-ai-day-livestream-important-news/"
+    ampWebUrl: "https://electrek.co/2021/08/19/watch-tesla-ai-day-livestream-important-news/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/19/watch-tesla-ai-day-livestream-important-news/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 104
+    images:
+      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-AI-Day.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "Ul01Dvh+jpPLUYjWjndkzQAlsirt6Q4HCNotUpfujQzN2xMuW7q6uhm/EoYPqCSQFDLbBJ7OemukLLUQxaY+XWywunqoQGurmv/EQ8RElcxnS0I+pqzB/gjflqcVmu6nxixraBijz1FiqwOnECTfxFWRUcYXsIR174TggQkcnvH8Usg31VMSwbHJe9F/PcYcKCiUWUZkeV9JXDGbFkAlgcrxRRY3CZOa7ctOtCznivQHba7KXJi9YM2K714U51uE2/BbSLoRIzLMvjSgFbwjch5H/1QAA/0twHdChV2Ev7bKQLJqQcOCkyOv3gpnHvY2R+FEJ2e6lRGSbZeoRIVhCO9PzFhwyu38peiukfEqGrk3FNe2llhtSvxuO5jQOMAA6Ez7hz1nR6H6H9+nOrkTBiBFBiBTs7zr+ie5+r5MmlvL6DzqWeg3UBTJCm+7419uA3RWfLJnKqjw8vw/GwZqiOoIDXkNv22+G+FCnJmxYUbeglrPXiG+Kmjtvwy0ygt2ikDtstJz5tpCCZpBEnYRFQ==;33AaYhKSSHTVxwAxUuZ9ew=="
 ---

@@ -55,6 +55,22 @@ related:
         width: 770
         height: 578
         isCached: true
+  - title: "Intel Launches AI for Workforce Education Program for 800,000 Students in Community Colleges"
+    excerpt: "Intel (Nasdaq: INTC) announced an expansion of its AI for Workforce Program to 18 community colleges across 11 U.S. states, with a total of 800,000 students. The company plans to expand to 50 more community and vocational colleges in 2022."
+    publishedDateTime: 2021-08-21T02:00:00Z
+    webUrl: "https://iblnews.org/intel-launches-ai-for-workforce-education-program-for-800000-students-in-community-colleges/"
+    ampWebUrl: "https://iblnews.org/intel-launches-ai-for-workforce-education-program-for-800000-students-in-community-colleges/amp/"
+    cdnAmpWebUrl: "https://iblnews-org.cdn.ampproject.org/c/s/iblnews.org/intel-launches-ai-for-workforce-education-program-for-800000-students-in-community-colleges/amp/"
+    type: article
+    provider:
+      name: IBL News
+      domain: iblnews.org
+    quality: 65
+    images:
+      - url: "https://iblnews.org/wp-content/uploads/2021/08/Intel-AI-Colleges-2.jpg"
+        width: 860
+        height: 505
+        isCached: true
   - title: "Intel’s GPU ambition comes into fruition with Arc; Aims to tackle DLSS and FSR with XeSS"
     excerpt: "Intel has officially unveiled its brand new GPU division called Intel Arc that will be in charge of developing GPUs for laptops and desktops."
     publishedDateTime: 2021-08-20T09:39:00Z
@@ -68,6 +84,20 @@ related:
       - url: "https://i2.wp.com/www.tech-critter.com/wp-content/uploads/2021/08/image003.jpg"
         width: 1300
         height: 731
+        isCached: true
+  - title: "Intel debuts XeSS AI upscaling technology to rival DLSS and FSR, compatible with all GPUs"
+    excerpt: "Known as Intel XeSS (Xe Super Sampling: a reference to the Xe architecture in their new graphics cards) and just like AMD the technology will be open source to all, meaning it will work on any GPU regardless of brand like Nvidia,"
+    publishedDateTime: 2021-08-21T10:30:00Z
+    webUrl: "https://www.game-debate.com/news/31134/intel-debuts-xess-ai-upscaling-technology-to-rival-dlss-and-fsr-compatible-with-all-gpus"
+    type: article
+    provider:
+      name: Game-Debate
+      domain: game-debate.com
+    quality: 45
+    images:
+      - url: "https://media.game-debate.com/images/news/31134/intel-debuts-xess-ai-upscaling-technology-to-rival-dlss-and-fsr-compatible-with-all-gpus.jpg"
+        width: 1350
+        height: 450
         isCached: true
   - title: "Intel teases AI-based DLSS-style super sampling tech in the works"
     excerpt: "Intel confirms it is working on AI-based Super Sampling technology, to fight against NVIDIA's DLSS and AMD's FSR technologies."

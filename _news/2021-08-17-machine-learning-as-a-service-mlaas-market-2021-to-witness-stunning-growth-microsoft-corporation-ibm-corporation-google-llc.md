@@ -22,31 +22,6 @@ topics:
   - Machine Learning
 
 related:
-  - title: "AI in Fashion Market to See Huge Growth by 2026 | Google, AWS, Microsoft, Facebook"
-    excerpt: "The latest study released on the Global AI in Fashion Market by AMA Research evaluates market size, trend, and forecast to 2026. The AI in Fashion market study covers significant research data and proofs to be a handy resource document for managers,"
-    publishedDateTime: 2021-08-17T21:33:00Z
-    webUrl: "https://manometcurrent.com/ai-in-fashion-market-to-see-huge-growth-by-2026-google-aws-microsoft-facebook/"
-    ampWebUrl: "https://manometcurrent.com/ai-in-fashion-market-to-see-huge-growth-by-2026-google-aws-microsoft-facebook/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/ai-in-fashion-market-to-see-huge-growth-by-2026-google-aws-microsoft-facebook/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 67
-  - title: "This Robot-Run Large Cap ETF Has Less Apple, Microsoft, Amazon, Facebook Compared To SPY And Is Bullish On These Manufacturing Stocks Instead"
-    excerpt: "The Qraft AI-Enhanced US Large Cap ETF (NYSE: QRFT) has revealed that it has less holdings in “big tech” companies such as Microsoft Corp."
-    publishedDateTime: 2021-08-18T11:51:00Z
-    webUrl: "https://markets.businessinsider.com/news/etf/this-robot-run-large-cap-etf-has-less-apple-microsoft-amazon-facebook-compared-to-spy-and-is-bullish-on-these-manufacturing-stocks-instead-1030741520"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/clayton-cardinalli-hkjnx0edbje-unsplash.jpg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Artificial Intelligence(AI) in Retail Market Latest Advancement and Business Outlook 2021 - 2027: IBM, Microsoft, Nvidia, Amazon Web Services"
     excerpt: "Market Insights Reports released a new study on 2021 2027 Artificial Intelligence AI in Retail Market with 100 data Tables Pie Chat Graphs Figures spread through Pages and easy to understand detailed analysis The Global Artificial Intelligence AI in Retail"
     publishedDateTime: 2021-08-18T18:39:00Z
@@ -58,20 +33,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 51
-  - title: "Neural Network Software Market to Witness Huge Growth by 2026: Google, Neurala, IBM"
-    excerpt: "This press release was orginally distributed by SBWire Edison, NJ — (SBWIRE) — 08/18/2021 — The latest study released on the Global Neural Network Software Market by AMA Research evaluates market size,"
-    publishedDateTime: 2021-08-19T03:28:00Z
-    webUrl: "https://www.digitaljournal.com/pr/neural-network-software-market-to-witness-huge-growth-by-2026-google-neurala-ibm"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 33
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/Mask-Covid-Pandemic-AFP-1K-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "EF7+0K1hK6h3nL6fQszkfxBtWIzfWtrhl2cFKeYY4Qj2u5kiVWZfkdSJVr6upo6bSg78MMwVtkjxtO/gfEuIQyJ1R76BQeso+RNqyb2nb4v9J+CAnIDIC15ez8baiLtjWFHNuoc5ksBBq6KQIdYbCkYULzJdQ1Jol4ZU3ox073o4KCRTwpIfzHDD6vAklvWefh5b4mCS4TgY12BchY13T/krPHdDLsSuWY2xIf7IWCtXI78wePUigE4VCk+0qiK06wxccaUEbvuqTqvGwzm2ZPiRcFwqs8FlaJ7yGQy3K2A2dSwiHdo4E1d73rop9xoZ6+vtb3t9RwDipYSvtcGv+6yABg9EtFHZPKSOaQimhYc=;GbSAgvYbv6/pvNZ0OqWjSw=="
 ---

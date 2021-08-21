@@ -47,6 +47,36 @@ related:
         width: 700
         height: 557
         isCached: true
+  - title: "Tesla AI Day Doubles as Showcase to Recruit and Flaunt Future"
+    excerpt: "Welcome to the Hyperdrive daily briefing, decoding the revolution reshaping the auto world, from EVs to self-driving cars and beyond."
+    publishedDateTime: 2021-08-18T10:40:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2021-08-18/tesla-ai-day-doubles-as-showcase-to-recruit-and-flaunt-future"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 86
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iuGj712Psngg/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Tesla AI Day: How to Watch and Live Updates"
+    excerpt: "How to Watch AI Day. Elon Musk announced via Twitter that AI day will be streamed for the public and press to view. The event is following a recent announcement of a NHTSA investi"
+    publishedDateTime: 2021-08-20T01:12:00Z
+    webUrl: "https://www.thestreet.com/tesla/news/how-to-watch-tesla-ai-day"
+    ampWebUrl: "https://www.thestreet.com/tesla/.amp/news/how-to-watch-tesla-ai-day"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/tesla/.amp/news/how-to-watch-tesla-ai-day"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 74
+    images:
+      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTgyOTAyNjIzNTMwMTMyODk5/210803aiday.jpg"
+        width: 620
+        height: 349
+        isCached: true
 
 secured: "VYK52FMRgN3k4rM0Mnp1LZ4N6RiVHrtFre/wFbdvvxuSDJ6k5bAbqP72oZ7aDhRmOvJUH3Uerh5WhyAB45duoFFLhcDwVVuTnRUkcsFrgBAbR7p5OFhwVm4xJuCl9+O9tgyomwZIbe0oUiA2DUueTbjU+8zb+TtYiaycXPFblClu28fiiXejm0w6hZ/FqpQ1jbIgDYRmLGcR/8tvW2MmyDTp1qURXw0fAxtnj6gG4gI3qGmS16G9sOtDIu7JIcwJCFzl3TkGv/LBidCKgo6BzMAbnd7m8dXlE/RFBWWoDX5MSdGR03aHpiyAoiCIY3wPlWubTeqv/gwU2mO1WoeaA6IWzA2GMJD9ObIL2HOG8dL+yZS68XeXQ22nSeAg0P0pyVntHnl9gaiXf8ZFwRHx1BCEFFWEvOBHVU3dJk8pSgt0SiMt+v7rHkGwQ0kGHndcFHv9AXQ5KaF2r5f2mAIEWvR0S7xtSZCviGQiUDzW6ukPlVaIJOE76QgsH13FwEc2BgIELtOD2zDWuOf6iR82gQ==;7LD9HxKtjtTEP24O4giMAw=="
 ---

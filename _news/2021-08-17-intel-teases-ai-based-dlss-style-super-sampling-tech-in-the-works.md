@@ -48,6 +48,22 @@ related:
         width: 770
         height: 578
         isCached: true
+  - title: "Intel Launches AI for Workforce Education Program for 800,000 Students in Community Colleges"
+    excerpt: "Intel (Nasdaq: INTC) announced an expansion of its AI for Workforce Program to 18 community colleges across 11 U.S. states, with a total of 800,000 students. The company plans to expand to 50 more community and vocational colleges in 2022."
+    publishedDateTime: 2021-08-21T02:00:00Z
+    webUrl: "https://iblnews.org/intel-launches-ai-for-workforce-education-program-for-800000-students-in-community-colleges/"
+    ampWebUrl: "https://iblnews.org/intel-launches-ai-for-workforce-education-program-for-800000-students-in-community-colleges/amp/"
+    cdnAmpWebUrl: "https://iblnews-org.cdn.ampproject.org/c/s/iblnews.org/intel-launches-ai-for-workforce-education-program-for-800000-students-in-community-colleges/amp/"
+    type: article
+    provider:
+      name: IBL News
+      domain: iblnews.org
+    quality: 65
+    images:
+      - url: "https://iblnews.org/wp-content/uploads/2021/08/Intel-AI-Colleges-2.jpg"
+        width: 860
+        height: 505
+        isCached: true
   - title: "LSC : Lone Star College, Intel Team Up To Offer Artificial Intelligence Education"
     excerpt: "The demand for artificial intelligence (AI) skills is rapidly growing and developing a skilled workforce will be critical for the U.S. t"
     publishedDateTime: 2021-08-19T19:19:00Z
@@ -75,6 +91,20 @@ related:
       - url: "https://i2.wp.com/www.tech-critter.com/wp-content/uploads/2021/08/image003.jpg"
         width: 1300
         height: 731
+        isCached: true
+  - title: "Intel debuts XeSS AI upscaling technology to rival DLSS and FSR, compatible with all GPUs"
+    excerpt: "Known as Intel XeSS (Xe Super Sampling: a reference to the Xe architecture in their new graphics cards) and just like AMD the technology will be open source to all, meaning it will work on any GPU regardless of brand like Nvidia,"
+    publishedDateTime: 2021-08-21T10:30:00Z
+    webUrl: "https://www.game-debate.com/news/31134/intel-debuts-xess-ai-upscaling-technology-to-rival-dlss-and-fsr-compatible-with-all-gpus"
+    type: article
+    provider:
+      name: Game-Debate
+      domain: game-debate.com
+    quality: 45
+    images:
+      - url: "https://media.game-debate.com/images/news/31134/intel-debuts-xess-ai-upscaling-technology-to-rival-dlss-and-fsr-compatible-with-all-gpus.jpg"
+        width: 1350
+        height: 450
         isCached: true
 
 secured: "/l8mj090aAYpt5MYh2YA/q2V3UVW/9ENFHiPOFk4Hi8nBBBpmyR7cIBlxsxq8AklLcke+Hp1ins7UchICGidXImLkATHc8c7RQEI2Bdeqnrc2bdm/u28E7xKFAu1YUvthCAGRL4S3E+FGcrdxIOwSw72ASkyFkJ6BNnzSyFrjLRVQE4MuWOoma7E6TPyx6jxNCYkTFQEuXnstOaMd9ESORBfzCvr44aiUYyr+FcyT8NmSgZTH8hShg8sSD5ERDsqJrOuqb1xdqVPNYSNpFDkgOHz/u9gEr0bNT6zOOqouh3YvL4z/i5CfIAbga37GueXDV+Qq7Hp6OOlVPZ4aeWyhM13JC3WuKDBAopqtXgqcy0=;cOTRdOgRVbQCmeaRrc0QWA=="

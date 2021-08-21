@@ -25,6 +25,22 @@ images:
     height: 628
     isCached: true
 
+related:
+  - title: "CyberLink Partners with QNAP to Develop a Smart Facial Recognition Solution for Surveillance and Security"
+    excerpt: "CyberLink Corp. (5203.TW), a pioneer in AI and facial recognition technologies, announced a partnership with QNAP® Systems Inc., which integrates CyberLink’s FaceMe® facial recognition engine into QNAP’s QVR Face and QVR Face Link smart facial ..."
+    publishedDateTime: 2021-08-21T06:17:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-health-coronavirus-pandemic-d9f209275f584e5b91a78d03bcd7613c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
 secured: "MtkbW+jL0laXKDRT89tQ88tcIitDxYgGyvJmogRfg6rHuPU+PmajhUWlfPSw3HJkZaZgFM8bLTLIEqbYlmeYdGlk4MjluDYPJyMzPk5KO3pD4bWfHkIEPiI4DcsvQOvD4oF91RxGrXPrkH0ZDRWpr5w6tecckgY1t6SEgmmQOmcqscA3CXtqa/O9+I3HO3N44ZwawGlqu7IfWpJWxJGloeFwsLU4yqZfrJyM7Zm/m8YfDmkKnMs69wjFUr2cmMzi3cmDmrfsxzE/IrQJbgqvmXcdQ7dL7CNO2L+e0ouCaDi2sOb9FvfxVTeXn6LMHS0w1UyXi6kv0+EhFbRUDQ1qKiRDFUDve+Rq0bLmMVleOqy3T+t9wC6pb8slu4LyCTXgSLVzt63K4az5E5xnEiJcoyOP1+McNG/iZOgtLQZtrY37McCJDSI09fQPN3xhOWuYBhz4L5XdF25mJTva2A1ECHGUVmNfHYkGBdbJjmunwmNfVYC1VdwrLksgJlXyLf7Lvx8SZWLgX0/GE7zDZ1q+QA==;JQxZn+NfGGnNn0cSFc6VCg=="
 ---
 

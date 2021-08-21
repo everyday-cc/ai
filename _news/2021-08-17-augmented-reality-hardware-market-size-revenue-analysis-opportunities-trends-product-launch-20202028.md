@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Automatic Speech Recognition (ASR) Software Market Size, Trends, SWOT, PEST, Porter’s Analysis, For 2020–2027"
-    excerpt: "The Global Automatic Speech Recognition ASR Software Market is witnessing a remarkable growth owing to an increase in the demands for the products and a tremendous shift in consumer preferences The high demand is concentrated in the European and North"
-    publishedDateTime: 2021-08-19T15:35:00Z
-    webUrl: "https://www.openpr.com/news/2360987/automatic-speech-recognition-asr-software-market-size"
-    ampWebUrl: "https://www.openpr.com/amp/2360987/automatic-speech-recognition-asr-software-market-size"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2360987/automatic-speech-recognition-asr-software-market-size"
+  - title: "Automotive Speech Recognition System Market Outlook to 2027 | Report Delivers Emerging Trends that Will Generate New Growth Opportunities"
+    excerpt: "Aug 19, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Automotive Speech Recognition"
+    publishedDateTime: 2021-08-19T07:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-speech-recognition-system-market-outlook-to-2027-report-delivers-emerging-trends-that-will-generate-new-growth-opportunities-2021-08-19"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 40
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
     images:
-      - url: "https://cdn.openpr.com/U/8/U819579667_g.jpg"
-        width: 750
-        height: 350
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "hf659tE2gUMJSCx5Ukj7NUuR0vBH25843PSCD0nfVPPSeDhDDXrlwSwHSyvfd7vYX2XOTHDwU+0bmkF6l02DDsb3PrY9KKmvkZJHa3klwB8AvF5O2xjro4qpzh3ylIPTtqjiIeNCqy8sY2Z3m//12tKQj8XfRNjeKgioeLULMuHE65ibeUewWRvDW9AFk7gVF63kE3BmDrEw5kfghKsmgWTuh2b4Qix0SLRJQge+BvMKjHXDYxRlmXUp04owfhu5VL8aCWr1+aqb9kJ6YeZWFexy5RWV+cQZ+c+tHPonKeQ8FOnuPsTLRVjj26qYLO9Z+1kmwQ14eRQyNcbuG7OHVR4lgAvrs3L+uxglUlYANRk=;dMMunuu77lKc+B730PezpA=="

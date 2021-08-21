@@ -99,17 +99,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Ahead of Tesla’s ‘AI Day’, Baidu unveils its next-gen AI chip"
-    excerpt: "Ahead of Tesla's 'AI Day', China's largest search engine company Baidu has unveiled its next-generation AI chip for autonomous vehicles."
-    publishedDateTime: 2021-08-18T21:47:00Z
-    webUrl: "https://themarketherald.com.au/ahead-of-teslas-ai-day-baidu-unveils-its-next-gen-ai-chip-2021-08-19/"
-    ampWebUrl: "https://themarketherald.com.au/ahead-of-teslas-ai-day-baidu-unveils-its-next-gen-ai-chip-2021-08-19/amp/"
-    cdnAmpWebUrl: "https://themarketherald-com-au.cdn.ampproject.org/c/s/themarketherald.com.au/ahead-of-teslas-ai-day-baidu-unveils-its-next-gen-ai-chip-2021-08-19/amp/"
-    type: article
-    provider:
-      name: The Market Herald
-      domain: themarketherald.com.au
-    quality: 71
   - title: "Baidu's Kunlun II AI chips enter mass production"
     excerpt: "Chinese tech giant Baidu has begun mass-producing its second generation of Kunlun artificial intelligence chips, used in its cloud data centers and smart electric vehicles. Baidu spun the Kunlun chip business out into an independent company earlier this year,"
     publishedDateTime: 2021-08-19T11:50:00Z
@@ -165,6 +154,20 @@ related:
       - url: "https://dealstreetwebsite.s3.amazonaws.com/uploads/2018/04/baidu-1.jpg"
         width: 976
         height: 551
+        isCached: true
+  - title: "Baidu says 2nd-gen Kunlun AI chips enter mass production"
+    excerpt: "BEIJING, Aug 18 (Reuters) – Chinese tech giant Baidu said on Wednesday it had begun mass-producing second-generation Kunlun artificial intelligence (AI) chips, as it races to become a key player in the chip industry which Beijing is trying to strengthen."
+    publishedDateTime: 2021-08-21T11:53:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_nvidia-stock/baidu-says-2nd-gen-kunlun-ai-chips-enter-mass-production-2/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 54
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/RYPZAKZXTBPZFPVVEKT4DR5U44.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Baidu announces mass production of 2nd generation Kunlun AI chip"
     excerpt: "Baidu announced the start of mass production of its second-generation Kunlun AI chip, Kunlun II, and also demonstrated industrial applications using Baidu AI Cloud at Baidu World 2021, its annual flagship technology conference."

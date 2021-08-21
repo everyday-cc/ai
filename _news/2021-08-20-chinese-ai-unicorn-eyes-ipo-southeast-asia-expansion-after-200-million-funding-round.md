@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/rubyleung/2021/08/20/chinese-ai-unicorn-ey
 ampWebUrl: "https://www.forbes.com/sites/rubyleung/2021/08/20/chinese-ai-unicorn-eyes-ipo-southeast-asia-expansion-after-200-million-funding-round/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rubyleung/2021/08/20/chinese-ai-unicorn-eyes-ipo-southeast-asia-expansion-after-200-million-funding-round/amp/"
 type: article
-quality: 79
+quality: 179
 heat: -1
 published: false
 
@@ -103,6 +103,6 @@ related:
         height: 630
         isCached: true
 
-secured: "t58MqfsA/6iN4LtRn3lXI1BWozGvA1LqVcJrooVad2i3kUbNP82NzHlK+BHIoeqcA9EDqmOtuirA5kDhuw1LRnyblQ1ZOoC/A0e3jeYODJE+xWRbkKpAu3FiuqKNRjdJnprt+tShWpsKHvnkZnISOCaVPaaft0wV7M4Awx+d14CQsn882Tl9MQyhBDm5cEnLe89ERqDEdq/SEls+bJD+W9VYGafkMOy/tznOM9oLGwpzETVYOdmGaI8IxqKH1kUga4yET3TrO7pfhqUE26bSiRKiwwtqpE2l5ntMxzr1c064B37ClMYy6CWDNo+nWYL6Kr2+0LrFy7dgbgqak9nBsHX3aIFyUFO0rzR3xlGHV8M3KCKDhgYjKe459Ya8RVqYdTqftPDmnFJwj9Rw1ON9hI31i69uhA79w8NhXqdc19OGltJXh/YtxUG9rGMPP/7YnnPzPBwQ1MeFxR9BRqk1gEejnyq/2jBQR87PNm6CwVqSsvpWLweHwR8GMdREG/7HRsi0903I6PYbkx8UHCckLg==;QPdLY/cnaX2r/QwgjjSrfQ=="
+secured: "LCE08Hu7ocertNqlCDyd0v6wMi8VYRN9etFtyhFJrPiqdFzl+YyOzkYinlrN2wmLyvn8Ric8yGisZTkpHvwu3gg7XLhe2znwuKcpb1Ba34yI1lAyToF/lvQe/WyTnHfM4dGOchQ77/sZ2PgeCRzuPKw5fMlGFaIYQxfVWv0o2miIELFzq99kkwQtvqPF1M5CQL2n0IN5uJWWrif+7dVLrzdWYg8ztdsxKumBVoUDzQn3p7y6e4E9vL/ThTh+Im3IyA6zM5tU66G01G9OULfDXEQuPHEEAcKmr9h/GXwsihTtzQU5jkph+WMrqkzo89Ciwk87mutLSkTIKBTP/cnp5rzcYH9e+5kEJlCUZne7B5VRqK0GYeCAR9LgUoLgsXfmm7xIL+nGcMXbPELZl2CroOpRzIsXqrK+E7ip/WR6n364EYm8Qvkm0+VqDzX8WWi0vlFYz4Axsr8nZ9yC9ixlhe/ehwKks2YgNLqGD2hfJ1tOHY7I3i5n5WSTOg3fq29JtEb5mJYpejEGCGtPcgKl4JPbsSlPWZ3b1KawWdF8tP4=;+yzYBQVxXjreHWUpBB6VSg=="
 ---
 
