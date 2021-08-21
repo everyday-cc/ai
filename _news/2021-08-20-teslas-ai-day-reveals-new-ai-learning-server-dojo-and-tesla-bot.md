@@ -157,6 +157,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Elon Musk says Tesla will produce humanoid robot to help build cars"
+    excerpt: "The \"Tesla Bot\" is a natural step because the company's vehicles are \"like semi-sentient robots on wheels,\" the CEO said."
+    publishedDateTime: 2021-08-21T00:04:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/elon-musk-says-tesla-will-produce-humanoid-robot-help-build-n1277348"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1277348"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1277348"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 106
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_33/3500579/210820-tesla-mb-1.jpg"
+        width: 4000
+        height: 2666
+        isCached: true
   - title: "How to watch Tesla’s AI day event"
     excerpt: "Today is Tesla’s AI Day, a sequel of sorts to the company’s Autonomy Day event held in 2019. The event, which will be held at Tesla’s headquarters in Palo Alto, CA, will be livestreamed for the public starting at 5PM PT / 8PM ET (though the event may ..."
     publishedDateTime: 2021-08-19T15:39:00Z
@@ -250,6 +266,22 @@ related:
       - url: "https://www.benzinga.com/files/images/story/2012/screen_shot_2021-08-20_at_4.16.51_pm.png"
         width: 2720
         height: 1584
+        isCached: true
+  - title: "Tesla is building an AI humanoid robot called Optimus, says Elon Musk"
+    excerpt: "Tesla will branch out from building electric, self-driving cars to produce humanoid robots designed to “eliminate dangerous, repetitive, boring tasks”, says the company's founder Elon Musk"
+    publishedDateTime: 2021-08-20T00:00:00Z
+    webUrl: "https://www.newscientist.com/article/2287792-tesla-is-building-an-ai-humanoid-robot-called-optimus-says-elon-musk/"
+    ampWebUrl: "https://www.newscientist.com/article/2287792-tesla-is-building-an-ai-humanoid-robot-called-optimus-says-elon-musk/amp/"
+    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2287792-tesla-is-building-an-ai-humanoid-robot-called-optimus-says-elon-musk/amp/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 91
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2021/08/20140258/pri195510988.jpg?width=600"
+        width: 600
+        height: 400
         isCached: true
   - title: "Elon Musk announces humanoid robot Tesla Bot that uses artificial intelligence"
     excerpt: "Billionaire Elon Musk has announced that Tesla is working on a humanoid robot called \"Tesla Bot\" that uses artificial intelligence and will launch the prototype in 2022. Join us to build the future of AI →  pic."
@@ -351,22 +383,6 @@ related:
       - url: "https://inteng-storage.s3.amazonaws.com/img/iea/94w5VrvDOo/sizes/tesla-bot_resize_md.jpg"
         width: 744
         height: 389
-        isCached: true
-  - title: "Elon Musk Says Tesla's Robot Will Make Physical Work A 'Choice'"
-    excerpt: "After dominating the electric vehicle market and throwing his hat into the billionaire space race, Tesla boss Elon Musk announced the latest frontier he's aiming to conquer: humanoid robots."
-    publishedDateTime: 2021-08-20T11:51:00Z
-    webUrl: "https://www.barrons.com/news/elon-musk-says-tesla-s-robot-will-make-physical-work-a-choice-01629446109"
-    ampWebUrl: "https://www.barrons.com/amp/news/elon-musk-says-tesla-s-robot-will-make-physical-work-a-choice-01629446109"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/elon-musk-says-tesla-s-robot-will-make-physical-work-a-choice-01629446109"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 76
-    images:
-      - url: "https://www.barrons.com/asset/external-media/afp/AFP1053261761598506529237758936347385438126---1.jpg"
-        width: 768
-        height: 565
         isCached: true
   - title: "Musk Says Tesla Will Have a Humanoid Robot Next Year"
     excerpt: "Tesla showcases its artificial intelligence at an investor event starting around 8 p.m. eastern time. Expect to hear about the company's computing technology, autonomous driving features and vehicle safety."
@@ -646,6 +662,20 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2021/08/bot_list.png?w=863&#038;h=443"
         width: 863
         height: 443
+        isCached: true
+  - title: "Elon Musk Says Tesla's Robot Will Make Physical Work A 'Choice'"
+    excerpt: "After dominating the electric vehicle market and throwing his hat into the billionaire space race, Tesla boss Elon Musk announced the latest frontier he's aiming to conquer: humanoid robots. The irascible entrepreneur said Thursday he would have an initial prototype of an androgynous \"Tesla Bot\" by next year."
+    publishedDateTime: 2021-08-20T07:51:00Z
+    webUrl: "https://www.ibtimes.com/elon-musk-says-teslas-robot-will-make-physical-work-choice-3277728"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 56
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/08/20/tesla-ceo-elon-musk-says-the-company-will.jpg"
+        width: 1024
+        height: 753
         isCached: true
   - title: "Oh, Great: Elon Musk Wants Tesla To Build Humanoid Robots Now"
     excerpt: "Musk hopes to have a prototype of a ’Tesla Bot’ in the next year, and a section on the company’s website is looking for engineering help."

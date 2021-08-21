@@ -57,6 +57,17 @@ related:
         width: 800
         height: 500
         isCached: true
+  - title: "Taliban took Afghanistan but face cash squeeze"
+    excerpt: "The Taliban face a frontal challenge in cementing control of Afghanistan: Money. Despite their dominant military blitz over the past week, the Taliban lack access to billions of dollars from their central bank and the International Monetary Fund that would keep the country running during a turbulent shakeup."
+    publishedDateTime: 2021-08-21T06:14:00Z
+    webUrl: "https://www.kentucky.com/news/business/article253632368.html"
+    ampWebUrl: "https://amp.kentucky.com/news/business/article253632368.html"
+    cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/business/article253632368.html"
+    type: article
+    provider:
+      name: Lexington Herald Leader
+      domain: kentucky.com
+    quality: 24
 
 secured: "ETV/w5kb5G/pTVvrrBkfB3yU97GWbeHjt+/ysleqPADfjloqecqspk2TNLcWQAj8MnI06J+2ThJU0r7y6GL/nRyjFjUlnPkvux0T2b3bk0mL8dBPPelgHCHcIrbmYZS8Z3A9cRelqtobOFzH5C4za9YdzHeh+9rrEnQhmrz+bmlne0WTCbsUJa6gkn2cJx87KO1E1lNO/jjXyVV0kD0dSk2d9y95zB9xFNU4t2rZrKVUOsAlDxUGyHkFRpKvhmKuuI3hf+V8U2AyM6Gy+JH4DIQb5mTpuKCM8KgunwY6yh13V4L2oigs+9UO/8Ji6s2yFLzRCX62BJKAJhHlOLGDqpjewnpeNe7Kw5MuhOYKEDRA1rzh/ejj8ypy+810yrLACAEOBY4JiKVotGJ6mSGsm6cgqpMTi8TaH0oSlVTr06YUCYIE+ZqG/IWwBGKNFKSrIg94iU1vtlFkdJqmDkCY4J3VCM7/aD90DqyBjJSG7HaNg2O9bIIhyXbu6CVr2WLSK6vB7v+uKlUAPSoM1ExU3Q==;BznSCpgXWy524VnDYOdcXg=="
 ---

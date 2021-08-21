@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/8/18/22630686/biometric-d
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/8/18/22630686/biometric-data-afghanistan-taliban-hiide-civilians"
 type: article
 quality: 168
-heat: 188
+heat: 198
 published: true
 
 provider:
@@ -60,6 +60,17 @@ related:
         width: 800
         height: 500
         isCached: true
+  - title: "Taliban took Afghanistan but face cash squeeze"
+    excerpt: "The Taliban face a frontal challenge in cementing control of Afghanistan: Money. Despite their dominant military blitz over the past week, the Taliban lack access to billions of dollars from their central bank and the International Monetary Fund that would keep the country running during a turbulent shakeup."
+    publishedDateTime: 2021-08-21T06:14:00Z
+    webUrl: "https://www.kentucky.com/news/business/article253632368.html"
+    ampWebUrl: "https://amp.kentucky.com/news/business/article253632368.html"
+    cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/business/article253632368.html"
+    type: article
+    provider:
+      name: Lexington Herald Leader
+      domain: kentucky.com
+    quality: 24
 
 secured: "yC28xK6mqLzCLj+2vB0NeDjyiBX/Fmoe2HBAYkmLFH4RbxOFUAB3viRa00aCspWyIhRT2M/DY3STNjQPdOiHmU0R6XG2MFPcCChPchw/3DVA4xRN6BB4oewZrq+AI6f33eVFKX2V9BKTe3zpXhSSCvS+QXcbfaeqYjahk7IEtR+ChB3ZI4ZSq9/pQNaVBfgIGqeoA50tgoaROujD+z7i3vLesahTZUQ7+1XUaSPKb9ed/1dUZIU1xlnONxcUrf00aWpN2pUu/cXGK5oyvcw+8k2zeiwZdH1KVWQb+cxe7F515i0xLlYY7KBLZ1PiGBD9WW/fVlFbLtUE1LfzgDoJA64vSySur3SnlAIJlsUpx1R+qFmusWvr2NkVt4Bj+VVradvqEnZheLeCsn3jT3rlIusk96DbtU71Dp+mJLJzeV3G5L65gFznJex2xmh/xYmcHl67czEwoNF+ynb2uBgwEVdeIB3sARBsY7tT3UYTKyQA3qp7lOJMc5griLvOUxXcBUnTyGj2pQYFvr1nRs1WSFRYp8v5CKFim4Agx0zTsWw=;0qxWhlsOSIat3w7m7jx5Dg=="
 ---

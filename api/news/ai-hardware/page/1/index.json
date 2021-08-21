@@ -55,6 +55,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-20-big-bet-on-ai-punches-up-nvidia-stock.md",
+      "title": "Big bet on AI punches up Nvidia stock",
+      "excerpt": "Nvidia (NVDA) reported blow-out earnings Wednesday after the close. Revenues are surging as its high-end chips for graphics and data centers remain in high demand. The San Jose, Calif.-based company reported revenues surged 68% during the second quarter,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/tech/news/nvdajdm081921",
+      "originalUrl": "https://www.thestreet.com/tech/news/nvdajdm081921",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTgzMjYwMzgyMjI2MjkzNzk4/nvidia-data-science-home-og-social-share.jpg",
+          "width": 620,
+          "height": 326,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/tech/.amp/news/nvdajdm081921",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/tech/.amp/news/nvdajdm081921",
+      "publishedDateTime": "2021-08-19T11:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-08-19-intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor.md",
       "title": "Intel architect Koduri says every chip will be a neural net processor",
       "excerpt": "Intel's Xeon chips have tended to dominate the market for AI inference, but Nvidia has been making inroads. Intel has litle share in neural network training while Nvidia dominates the field with its GPUs. Koduri said the company intends to compete against ...",
@@ -504,50 +547,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal.md",
-      "title": "Intel’s Habana starts to chip away at Nvidia in cloud with AWS deal",
-      "excerpt": "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading on FintechZoom",
-      "sourceUrl": null,
-      "webUrl": "https://fintechzoom.com/fintech_news_nvidia-stock/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal-2/",
-      "originalUrl": "https://fintechzoom.com/fintech_news_nvidia-stock/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fintechzoom.com/wp-content/uploads/2021/08/m02d20201202t2i1543204037rLYNXMPEGB115Rw800.jpeg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-17T06:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fintechzoom",
-        "domain": "fintechzoom.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI Hardware"
       ]
     },
     {

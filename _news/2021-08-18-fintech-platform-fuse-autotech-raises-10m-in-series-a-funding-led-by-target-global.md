@@ -65,20 +65,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "Latent AI Raises $19M in Series A Funding"
-    excerpt: "Latent AI, a Menlo Park, CA-based startup is dedicated to building solutions that enable the adaptive edge to transform AI processing, closed a $19m Series A funding"
-    publishedDateTime: 2021-08-16T14:37:00Z
-    webUrl: "https://www.finsmes.com/2021/08/latent-ai-raises-19m-in-series-a-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 37
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2016/07/ai-dp.jpg"
-        width: 1000
-        height: 750
-        isCached: true
   - title: "MOLOCO raises $150M to help companies run AI-driven mobile ad campaigns"
     excerpt: "MOLOCO added that its top line has been “consistently” growing by 100% or more every year. MOLOCO provides what’s known in the digital advertising industry as a demand-side platform. The platform allows enterprises to buy ad space in mobile apps to display promotions for those apps’ users."
     publishedDateTime: 2021-08-17T18:59:00Z
@@ -94,14 +80,14 @@ related:
         height: 506
         isCached: true
   - title: "MOLOCO Closes $150 Million Series C Financing Led by Tiger Global to Bring Transparent Machine Learning Algorithms to All"
-    excerpt: "MOLOCO ( a leader in machine learning and growth solutions for mobile app marketers and e-commerce companies, announced"
-    publishedDateTime: 2021-08-17T15:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/moloco-closes-150-million-series-c-financing-led-by-tiger-global-to-bring-transparent-machine-learning-algorithms-to-all-301356860.html"
+    excerpt: "MOLOCO (  com ), a leader in machine learning and growth solutions for mobile app marketers and e-commerce companies, announced today it has raised $150 million in Series C funding to bring sophisticated,"
+    publishedDateTime: 2021-08-17T15:11:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/moloco-closes-150-million-series-c-financing-led-by-tiger-global-to-bring-transparent-machine-learning-algorithms-to-all-1030739081"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 24
 
 secured: "QOXM+19bQAalDmAjGyHRaZGdW0/Fk8noCqcAwVESdqJAvgQk5jPlGqdyO0cJ3IHeF6t6yAEXI4Z/B7VPNytT8j5JFgeHf2AOZxSWb4FXtHOKmKqoLNWllM75Q6c9PTtri/j5lQ/IyvpTJIA7Geb8INKIdViaQ9PgDG+r/LahD2GqFdSuq3StqtDrBZXIsFlrMDn0GDEm3JdNUdEEWzXTD/QVKWDpF4HgeuVAJy6Kkf2v2Mk6u8ktZqGnC/Xtp3xWevwNXmP3NPOBzEz1PnCGlPup8WEhMKvjlbdSnfcLCU4kmili2Vy6+9+ywqqvqQuzRLo4wGdSApm01yMJSxLAWKoOgxZP7scNdT7pj6wctFg=;6v98hwDSfJx1yp1czS9yOg=="
 ---

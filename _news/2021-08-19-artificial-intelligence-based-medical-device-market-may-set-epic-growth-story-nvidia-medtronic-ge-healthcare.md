@@ -27,58 +27,85 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence For Automotive Applications Market May Set Epic Growth Story with Audi, BMW, AImotive"
-    excerpt: "The Latest research study released by HTF MI Worldwide Artificial Intelligence For Automotive Applications Market with 100 pages of analysis on business Strategy taken up by key and emerging industry players and delivers know how of the current market development"
-    publishedDateTime: 2021-08-18T02:32:00Z
-    webUrl: "https://www.openpr.com/news/2358326/artificial-intelligence-for-automotive-applications-market"
-    ampWebUrl: "https://www.openpr.com/amp/2358326/artificial-intelligence-for-automotive-applications-market"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2358326/artificial-intelligence-for-automotive-applications-market"
+  - title: "Big bet on AI punches up Nvidia stock"
+    excerpt: "Nvidia (NVDA) reported blow-out earnings Wednesday after the close. Revenues are surging as its high-end chips for graphics and data centers remain in high demand. The San Jose, Calif.-based company reported revenues surged 68% during the second quarter,"
+    publishedDateTime: 2021-08-19T18:57:00Z
+    webUrl: "https://www.thestreet.com/tech/news/nvdajdm081921"
+    ampWebUrl: "https://www.thestreet.com/tech/.amp/news/nvdajdm081921"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/tech/.amp/news/nvdajdm081921"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 55
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 59
     images:
-      - url: "https://cdn.openpr.com/U/8/U818559952_g.jpg"
-        width: 450
-        height: 300
+      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTgzMjYwMzgyMjI2MjkzNzk4/nvidia-data-science-home-og-social-share.jpg"
+        width: 620
+        height: 326
         isCached: true
-  - title: "Auditoria.AI Named to Constellation ShortList for AI-Driven Cognitive ..."
-    excerpt: "SANTA CLARA, CA / ACCESSWIRE / August 18, 2021 / AUDITORIA.AI, a pioneer in AI-driven automation solutions for corporate finance teams, today announced it was named to the Constellation ShortList™ for AI-Driven Cognitive Applications in Q3 2021."
-    publishedDateTime: 2021-08-18T13:01:00Z
-    webUrl: "https://www.pr-inside.com/auditoria-ai-named-to-constellation-shortlist-for-ai-driven-cognitive-r4843691.htm"
+  - title: "Artificial Intelligence in Aviation Market to Develop New Growth Story | NVIDIA, Intel, IBM"
+    excerpt: "Latest business intelligence report released on Global Artificial Intelligence in Aviation Market, covers different industry elements and growth inclinations that helps in predicting market forecast."
+    publishedDateTime: 2021-08-18T06:39:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-aviation-market-to-develop-new-growth-story-nvidia-intel-ibm/"
+    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-aviation-market-to-develop-new-growth-story-nvidia-intel-ibm/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-aviation-market-to-develop-new-growth-story-nvidia-intel-ibm/?amp=1"
     type: article
     provider:
-      name: PR-Inside
-      domain: pr-inside.com
-    quality: 38
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 47
     images:
-      - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/A-84-390x220.jpg"
+        width: 390
+        height: 220
+        isCached: true
+  - title: "VVDN Technologies Joins NVIDIA Partner Network for Advanced AI-Enabled Camera, Vision Applications"
+    excerpt: "With pre-trained AI models, developer SDKs and support for cloud-native technologies across the full Jetson lineup. Gurugram: VVDN Technologies announced that it has joined the NVIDIA Partner Network (NPN) as a provider of AI-enabled computer vision ..."
+    publishedDateTime: 2021-08-19T06:55:00Z
+    webUrl: "https://www.india.com/business/vvdn-technologies-joins-nvidia-partner-network-for-advanced-ai-enabled-camera-vision-applications-4898886/"
+    ampWebUrl: "https://www.india.com/business/vvdn-technologies-joins-nvidia-partner-network-for-advanced-ai-enabled-camera-vision-applications-4898886/amp/"
+    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/business/vvdn-technologies-joins-nvidia-partner-network-for-advanced-ai-enabled-camera-vision-applications-4898886/amp/"
+    type: article
+    provider:
+      name: India.com
+      domain: india.com
+    quality: 47
+    images:
+      - url: "https://s3.india.com/wp-content/uploads/2021/08/AI-Artificial-Intelligence-Image.jpg"
         width: 1200
-        height: 628
+        height: 800
         isCached: true
-  - title: "Auditoria.AI Named to Constellation ShortList for AI-Driven Cognitive Applications for the Second Consecutive Year"
-    excerpt: "Exclusive List Solidifies Auditoria’s Transformative Approach to Cognitive Automation. SANTA CLARA, CA / ACCESSWIRE / August 18, 2021 / AUDITORIA.AI, a pioneer in AI-driven auto"
-    publishedDateTime: 2021-08-18T13:01:00Z
-    webUrl: "https://apnews.com/press-release/accesswire/technology-business-fc2f302c0629473e2c0b88fc3dc0c316"
+  - title: "AI Exosphere Joins NVIDIA Inception to Bring New AI Assistant to Market"
+    excerpt: "\"After being invited to the NVIDIA Inception program and hearing all the excellent work and support, NVIDIA is doing; we knew this was the best fit for our startup,\" said Sal Peer, CEO of AI Exosphere. NVIDIA Inception helps startups during critical stages ..."
+    publishedDateTime: 2021-08-19T12:38:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-exosphere-joins-nvidia-inception-to-bring-new-ai-assistant-to-market/article_d4090b12-dd6b-5a9f-aa85-6dc90d8b25f9.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 17
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 37
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Artificial Intelligence-Emotion Recognition Market Experience a Tremendous Growth in Near Future | Realeyes, Softbank, INTRAface, CrowdEmotion, IBM"
-    excerpt: "The ‘ Artificial Intelligence-Emotion Recognition market’ research report added by Report Ocean, is an in-depth analysis of the latest developments, market size, status, upcoming technologies, industry drivers,"
-    publishedDateTime: 2021-08-17T23:12:00Z
-    webUrl: "https://ipsnews.net/business/2021/08/17/artificial-intelligence-emotion-recognition-market-experience-a-tremendous-growth-in-near-future-realeyes-softbank-intraface-crowdemotion-ibm/"
+  - title: "VVDN Technologies Joins NVIDIA Partner Network to Expand Opportunities for Advanced AI-Enabled Camera & Vision Applications"
+    excerpt: "As part of the NVIDIA Jetson partner ecosystem, VVDN can leverage the powerful GPU-accelerated edge computing ... and manufacture next-gen innovative AI/ML based camera and vision solutions ..."
+    publishedDateTime: 2021-08-18T01:18:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/vvdn-technologies-joins-nvidia-partner-network-to-expand-opportunities-for-advanced-ai-enabled-camera-vision-applications-1030742469"
     type: article
     provider:
-      name: Inter Press Service
-      domain: ipsnews.net
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 23
+  - title: "VVDN Technologies joins NVIDIA Partner Network to expand opportunities for advanced AI-Enabled Camera & Vision Applications"
+    excerpt: "VVDN Technologies, a premier electronic product engineering and manufacturing company, announced that it has joined the NVIDIA Partner Network (NPN) as a provider of AI-enabled computer vision solutions powered by the NVIDIA Jetson edge AI platform."
+    publishedDateTime: 2021-08-18T22:45:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20210818/3805015.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
     quality: 0
 
 secured: "QT5EAi0tazjHtV3Y/HypinAwOL5A6SFw9gf5yxBtxHX/JjfuIk1lNA9EVgQbSdc+41x9UNnLLGIvYSYB7it6dj2xAZyPdPO9LAnhtUiIdL99u6lI4EcbORdCueuC6GMWRwtBomo0fb3IXwgT4ZlzJyxhVKPJ9tzLDg46mi2XR52YGur+/ZYnk25Otp7BDPXLWgnTI8pA1EZ8tfZsi0YVs0Y5RLniNGnzjfSlMmgQFyvuHeaKu4pf/mBmhpBPAZ0fxQNJZ+wxQjD3raRJl1vQxJyfltdLmsSZLye9glZ+vDd4MRtUMNMvbhPkEVOjjPUik7PeXykGFOc3LAaIsHrRUV9wodJlc6vTzgL4Fb9whJAXg6A6DvgQeDLz5vYJqoWDz0HzW1niPwnXieV5XdkrXhkW3A5kEqRzJMSbxQUszV/HrF0Mgf66KqMrRnQDRXqt5OD5seNCbN5QcTOl8+lMs5VK2fKqBoM8LP4RyMkUH68tKxCh2+k4K33NYFVM/5fDmbV1V1duawbq98AYkYZOTg==;L2+cN7VkEycnWfw9u6o6tw=="

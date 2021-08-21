@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2021/08/18/operational
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2021/08/18/operationalizing-ai-ethics-no-longer-an-option-but-an-imperative/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://snworksceo.imgix.net/dtc/d51cf6dd-d29e-48c3-be8d-00e46318c9bb.sized-1000x1000.jpg?w=1000&ar=16%3B9&fit=crop&crop=faces&facepad=3&auto=format"
         width: 1000
         height: 618
+        isCached: true
+  - title: "Implication of AI timelines on planning and solutions"
+    excerpt: "TL;DR If your median estimate for TAI is in 30 years you might have to plan to solve the alignment problem in 5 years When thinking about AI timelines I like to think about the timeline and high level plan for solutions based on them."
+    publishedDateTime: 2021-08-21T06:39:00Z
+    webUrl: "https://www.lesswrong.com/posts/GDsSvEnd8YAbSKLHp/implication-of-ai-timelines-on-planning-and-solutions"
+    type: article
+    provider:
+      name: LessWrong
+      domain: lesswrong.com
+    quality: 37
+    images:
+      - url: "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1503704344/sequencesgrid/h6vrwdypijqgsop7xwa0.jpg"
+        width: 696
+        height: 274
         isCached: true
   - title: "Machine Learning Operationalization Software Market Projected to Grow at a Steady Pace During 2021-2027 Covid-19 Analysis | KNIME, Seldon"
     excerpt: "To continue with the reviews and details provided in this innovative Machine Learning Operationalization Software market report it also aims at providing advanced data concerning to Machine Learning Operationalization Software market global status market trends analysis segment size growth share"

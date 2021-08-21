@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/tomgroenfeldt/2021/08/17/accerns-no-c
 webUrl: "https://www.forbes.com/sites/tomgroenfeldt/2021/08/17/accerns-no-code-ai-platform-can-speed-analytics-in-financial-services/"
 type: article
 quality: 69
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/smiley_face_emoji_shutterstock_-pixelliebe.jpg"
         width: 1000
         height: 596
-        isCached: true
-  - title: "Right Direction Financial Services to leverage Scienaptic AI-powered platform"
-    excerpt: "After recently forging a relationship with an independent dealership group, Scienaptic bolstered its client roster of independ"
-    publishedDateTime: 2021-08-16T14:07:00Z
-    webUrl: "https://www.autoremarketing.com/subprime/right-direction-financial-services-leverage-scienaptic-ai-powered-platform"
-    type: article
-    provider:
-      name: Auto Remarketing
-      domain: autoremarketing.com
-    quality: 34
-    images:
-      - url: "https://www.autoremarketing.com/sites/default/files/styles/story_page_main_image/public/right%20direction%20for%20web.png?itok=hrHdM3Cl"
-        width: 880
-        height: 495
         isCached: true
   - title: "Airbus’ UP42 Partners with Indian Startup HyperVerge for AI-based Satellite Imagery Analytics"
     excerpt: "This is the 11th successful partnership industrialized by Airbus Bizlab in India and the second partnership between HyperVerge and an Airbus entity."

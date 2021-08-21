@@ -106,6 +106,22 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Tesla aims to launch Full Self-Driving Computer 2 with Cybertruck next year"
+    excerpt: "Tesla plans to launch a new Full Self-Driving computer with Cybertruck electric pickup truck next year. The updated self-driving hardware should also include new cameras. Tesla’s self-driving ..."
+    publishedDateTime: 2021-08-20T16:02:00Z
+    webUrl: "https://electrek.co/2021/08/20/tesla-aims-launch-full-self-driving-computer-2-cybertruck-next-year/"
+    ampWebUrl: "https://electrek.co/2021/08/20/tesla-aims-launch-full-self-driving-computer-2-cybertruck-next-year/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/20/tesla-aims-launch-full-self-driving-computer-2-cybertruck-next-year/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 102
+    images:
+      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/05/Tesla-Guide-Cybertruck-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Elon Musk’s Plan To Tout Tesla AI Comes As Tougher Scrutiny Of The Company Looms"
     excerpt: "The company's AI Day takes place as NHTSA probes its Autopilot feature and as two Senators call for a Federal Trade Commission investigation of how Tesla promotes Autopilot and Full Self Driving."
     publishedDateTime: 2021-08-18T18:53:00Z
@@ -305,20 +321,6 @@ related:
       - url: "https://media.consumeraffairs.com/files/news/Tesla_company_concept_bankkgraphy_Getty_Images.jpg"
         width: 900
         height: 600
-        isCached: true
-  - title: "U.S. Launches Broad Investigation Into Tesla Autopilot Over Numerous Crashes"
-    excerpt: "NHTSA’s probe of the driver-assist feature covers about 765,000 vehicles—every model in Tesla's lineup stretching back to 2014."
-    publishedDateTime: 2021-08-16T14:31:00Z
-    webUrl: "https://www.forbes.com/sites/alanohnsman/2021/08/16/us-launches-broad-investigation-into-tesla-autopilot-over-numerous-crashes/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 66
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611a751d1a6d628cdfed1c2f%2F0x0.jpg"
-        width: 1168
-        height: 778
         isCached: true
   - title: "Senators call for FTC probe of Tesla 'Full Self-Driving' overstatements"
     excerpt: "Two U.S. senators are pushing back against Tesla's marketing of its driver assistance systems, claiming that the company's name for them misleads the public."
@@ -578,15 +580,6 @@ related:
       name: Carscoops
       domain: carscoops.com
     quality: 27
-  - title: "Tesla pushes new Full Self-Driving Beta update"
-    excerpt: "Electric vehicle company Tesla has started pushing a new software update for its 'Full Self-Driving Beta' programme. CEO Elon Musk released the improvements in the update and gave an idea of when the wider release is going to happen."
-    publishedDateTime: 2021-08-16T13:30:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20210816/3804098.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
   - title: "Markey & Blumenthal Call For FTC Investigation Into Tesla's Misleading Advertising of Driving Automation Systems"
     excerpt: "Markey  (D-Mass.) and Richard Blumenthal (D-Conn.), members of the Senate Commerce, Science, and Transportation Committee, voiced serious concerns about Tesla’s misleading advertising and marketing of its Autopilot and Full-Self Driving (FSD) features to consumers,"
     publishedDateTime: 2021-08-18T15:49:00Z

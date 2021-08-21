@@ -40,20 +40,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Right Direction Financial Services to leverage Scienaptic AI-powered platform"
-    excerpt: "After recently forging a relationship with an independent dealership group, Scienaptic bolstered its client roster of independ"
-    publishedDateTime: 2021-08-16T14:07:00Z
-    webUrl: "https://www.autoremarketing.com/subprime/right-direction-financial-services-leverage-scienaptic-ai-powered-platform"
-    type: article
-    provider:
-      name: Auto Remarketing
-      domain: autoremarketing.com
-    quality: 34
-    images:
-      - url: "https://www.autoremarketing.com/sites/default/files/styles/story_page_main_image/public/right%20direction%20for%20web.png?itok=hrHdM3Cl"
-        width: 880
-        height: 495
-        isCached: true
   - title: "Airbus’ UP42 Partners with Indian Startup HyperVerge for AI-based Satellite Imagery Analytics"
     excerpt: "This is the 11th successful partnership industrialized by Airbus Bizlab in India and the second partnership between HyperVerge and an Airbus entity."
     publishedDateTime: 2021-08-18T13:10:00Z

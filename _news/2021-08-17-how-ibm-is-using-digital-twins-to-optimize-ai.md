@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/16/how-ibm-is-using-digital-twins-to
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/16/how-ibm-is-using-digital-twins-to-optimize-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Worldwide Artificial Intelligence Industry to 2030 - Featuring Google, IBM and Baidu Among Others"
-    excerpt: "The \"Artificial Intelligence Global Market Report 2021: COVID-19 Growth and Change to 2030\" report has been added to"
-    publishedDateTime: 2021-08-16T13:45:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/worldwide-artificial-intelligence-industry-to-2030---featuring-google-ibm-and-baidu-among-others-301355761.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 43
-    images:
-      - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
 
 secured: "4Gixv8aaJnC8bQELnjWwy+BpqlqNAxlBJz0671g22guN/NUMFuCCeKyYJBEPXaLpVp8dA/+yo3iiCsHpUZ8QyPzyWDMElnAGs0Qq3jSaDBzn59Q73aXOy3ji21jWrv+DyuBY+MysZil3pfYQmCV9ZfytODkubQyFExXypMWomToQOuh5pmIB/REGTtYzwTXDsInae0S+Hpz72xU5wqpOKgnRTGk1oyod/uAwAcHK0Z14kGNStWL4l7fbH8VO31aTOTzp7IH9Jq3maKWfX44/JoBpnChsfrzojoK31YIDPo2Y4WAbO0NXeqFbpRXCYhXhlihnlsf+ysvyrWq4osSYSLDwl5/1gUpyl9Cq9xw+M+uD21Hm1s38RUIBnoEU6Psw6/qdbx/j8RPsR6JMQZtzIcZo+e7EPfGVp8HCJaGFfrDhomjt/y0/nzN9DXVyontYafJeOD0/tYFqUQB10dwJEED1kTvAcTOl7Z1HSvljxeXSoMxK4EVPMbDLFiicL9mlmRwq2Dq6riU3CIHMRfniNw==;k9hWLmLMZlELnfv4ctFk2A=="
 ---

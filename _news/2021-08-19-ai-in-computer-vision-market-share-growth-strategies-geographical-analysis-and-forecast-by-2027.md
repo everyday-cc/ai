@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-ma
 webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-share-growth-strategies-geographical-analysis-and-forecast-by-2027-2021-08-18"
 type: article
 quality: 71
-heat: 201
+heat: 191
 published: true
 
 provider:
@@ -88,20 +88,6 @@ related:
       - url: "https://cdn.openpr.com/U/8/U817239313_g.jpg"
         width: 780
         height: 470
-        isCached: true
-  - title: "Global Face Recognition Device Market Size, Opportunities, Historical Analysis, Development Status, Business Growth by 2025"
-    excerpt: "Global Face Recognition Device Market report added by Market Study Report that gives meticulous investigation of current scenario of the market size, share, demand, growth, trends, companies active in the industry and forecasts for the coming years."
-    publishedDateTime: 2021-08-16T15:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-device-market-size-opportunities-historical-analysis-development-status-business-growth-by-2025-2021-08-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Neural Network Software Market Competitive Landscape, Growth Factors, Revenue Analysis, 2020–2027 | Reports and Data"
     excerpt: "Going ahead, the Neural Network Software market report precisely evaluates the gross profits, revenue shares, sales volume, manufacturing costs, and individual growth rate, and financial positions of the leading market contenders."

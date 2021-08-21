@@ -1,31 +1,27 @@
 ---
 category: news
 title: "Baidu Announces Autonomous Driving Milestones at Baidu World 2021"
-excerpt: "Today, Baidu held its annual flagship technology conference, Baidu World 2021, where Co-founder and CEO Robin Li unveiled his vision for mobility of the future alongside a new robotaxi mobile platform that aims to make autonomous vehicles more accessible to the broader public."
-publishedDateTime: 2021-08-18T13:13:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/baidu-announces-autonomous-driving-milestones-at-baidu-world-2021-1030741983"
-webUrl: "https://markets.businessinsider.com/news/stocks/baidu-announces-autonomous-driving-milestones-at-baidu-world-2021-1030741983"
+excerpt: "Baidu held its annual flagship technology conference, Baidu World 2021, where Co-founder and CEO Robin Li unveiled his vision"
+publishedDateTime: 2021-08-18T12:36:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/baidu-announces-autonomous-driving-milestones-at-baidu-world-2021-301357959.html"
+webUrl: "https://www.prnewswire.com/news-releases/baidu-announces-autonomous-driving-milestones-at-baidu-world-2021-301357959.html"
 type: article
-quality: 69
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1597211/Baidu_Co_founder_CEO_Robin_Li_CCTV_host_Beining_Sa_sit.jpg"
-    width: 400
-    height: 266
+  - url: "https://mma.prnewswire.com/media/1597211/Baidu_Co_founder_CEO_Robin_Li_CCTV_host_Beining_Sa_sit.jpg?p=facebook"
+    width: 1270
+    height: 665
     isCached: true
 
 related:
@@ -133,6 +129,20 @@ related:
         width: 1270
         height: 846
         isCached: true
+  - title: "Baidu Announces Autonomous Driving Milestones"
+    excerpt: "Baidu CEO unveils vision for mobility of the future – a robocar that moves, communicates and learns; Launches new robotaxi mobile platform. Baidu this week held its annual flagship technology conference,"
+    publishedDateTime: 2021-08-19T19:20:00Z
+    webUrl: "https://www.aftermarketnews.com/baidu-announces-autonomous-driving-milestones-at-baidu-world-2021/"
+    type: article
+    provider:
+      name: After Market News
+      domain: aftermarketnews.com
+    quality: 39
+    images:
+      - url: "https://s19538.pcdn.co/wp-content/uploads/2021/08/Baidu-exterior-1000x563.jpg"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "Baidu claims it has created Level 5 robocar"
     excerpt: "BEIJING: Baidu, the Chinese technology giant behind the country's search engine, has just announced a level 5 SAE autonomous car thanks to a new chip. Behind this potential success is an ambitious open source platform called Apollo."
     publishedDateTime: 2021-08-20T08:57:00Z
@@ -176,6 +186,6 @@ related:
         height: 507
         isCached: true
 
-secured: "aaNgi2EmVrQZm4tP6Ll4hJt5NyipHFIY2y5+XPDa+LdwKN2nMgnoA/huLzQncErJtMricQsBRO/jVK8FsXhKmBYBGpZGE7aInrhrDXdP1lKP1I9Gxz0D8AjgiT4R2087dTirH1ipYHmzwz7o4dsiPwqZXQcPIvf4cYvW1Gf5Q5DEpzMn/9R4O7+a/dWk363x0psbtL3WCVsphYU+Lbf82vSki0BXQPzBlu1WPIUsIWbbQKctQPgyXCUmSoG9KXDbGTiBBGQpP50sh+7PTwOPXyTIVl+hJglU5UlCms0Bv9BVy8exS5sUt88N9xPwhV12K0dwW9QLV9TXQZvF3tAHJoeKcIZM2gbkP/JTeW+LmMgBgnHMZ7IPK5WyhvBavJBsxizI0YNqamiKUEk+OARXkz8fuWn3B0XtRB4tRY2vwUy6wCgfrLITVymMTGi9DJSMFMgHXXsYV1FHt1Bi/h/wj2z7ZANX9vo3+uC4tMo4wTluz00W4SjPjI1HmBaJ90J7lH8fzndT+yVLvbJEuFZG5Q==;ueLMKp7AX+EJ4EpFJWcFrQ=="
+secured: "x50Grm+JefX0ltYRvZMtzoFD5JSFhuLmRrj7YRXKywxgQ0OmzlZ/90dKAfJZZiXhkwPxcEPqP0beAc19Y9G3r0yQg3xpdslwnYirzRq1Y2l2tDwDJmEmtErUDXNs3M6IgP/HyhH9inoc3MN+6F0vwVZcUSAMHe3PeWpRdPzhLiBLsoVhGV9aZuArQddR5/kB4/qcmUPJiR5rTwYFL7mFKFY6aKYp4x6fOeAvg4qvdREY/Wp/UPLAWMlWbqBbP/5BURr6xCS41Ckm3/axLkeOSP3xbinNQgnG+GHJIQODwhD+Xjlr5hwoZvJZWZnDY/PhCQDTUato9kF+/XXuNowASyKr15qdXOYsWm+7f49KTo4=;Zeqbi/N2TAkp3RFOiyeFCg=="
 ---
 

@@ -1,23 +1,27 @@
 ---
 category: news
 title: "Medius squashes invoice lead times with efficient AI tech"
-excerpt: "Utilizing Microsoft Azure Machine Learning and Artificial Intelligence (AI), with a user-friendly interface, Medius has developed an e-invoicing solution that captures and converts data dynamically, and dramatically reduces processing time to mere moments."
-publishedDateTime: 2021-08-17T07:38:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-medius-squashes-invoice-lead-times-with-efficient-ai-/2021/08/17/9431590.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-medius-squashes-invoice-lead-times-with-efficient-ai-/2021/08/17/9431590.htm"
+excerpt: "Experts talk about Medius' state-of-the-art data capture software that uses clever AI to extract invoice data automatically. STOCKHOLM,"
+publishedDateTime: 2021-08-17T07:42:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/medius-squashes-invoice-lead-times-with-efficient-ai-tech-1030736976"
+webUrl: "https://markets.businessinsider.com/news/stocks/medius-squashes-invoice-lead-times-with-efficient-ai-tech-1030736976"
 type: article
-quality: 19
-heat: 19
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "U8DaV4o2sN1Tg8hII/KVAsH4jHluY8pirwyS6cbVGE0sMDDQ5VI3jL6ib+7eG8uj9MUwuf4U915UfLvR+6BoRzU9Sfso9L1oUzZewByU7UulHkvKdN7kQB93Cno7WFZb556LqAQBUPe1rFyNF4QvjgPMQU4rDoivV5UjvjKLqEi+1Bgm8bU7Hw0SuDsqvZ7XXqh7c2KN2mn375u4uIwZ7AVEoomI8UheZKKK80vzeGCP1zkMITiSKdEW9IC22aVT+gcwYf0ZYqObZctMiQPWy1ZkxyIWWeyLYiWnJQmRld8jFhmX+OFVJF/pHZ9AkBf8qYhhUWNo4i/iyiTGtaZonVsdkwf1fhK1rA5jZqGrBtY=;hEKX9XELBH4lmf+IVvGMwA=="
+secured: "qRWogz/SEFcrnoGJPcVvHEh7BSeuDnsGFrsywQgOcuR16ctxjAfDexSqjI6P586JM87K5BxhVvFhh8eh1WkoGuZs0Buu3JigA+dtkWSV72vnTBcO9+EjtdeH31keaHgbdNXTue17Xns0c0RUCPV6ecSkn8oKKlHl/F9AB69JbDq0/SQsW7dK+K6boxqDB3ateASKI/IzR8qV5Rorc9RvaIGaGTmvsipbHbeIzlXUaXpnIbRp6hzdvCLwOX8ASA/GUGZZNwDqmomMWzCHS2GyITSG7DrRiuHEseJ+FYjl01evi7xEHaymAXpj4wWVUoRCv5zvUKiYLscqHpsIlFQmmLh7nfQCbQMWRWX4Nnshmus=;iOLqZ8xqVKKL6hikpssH7A=="
 ---
 

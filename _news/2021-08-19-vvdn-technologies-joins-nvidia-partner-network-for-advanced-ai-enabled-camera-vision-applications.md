@@ -9,7 +9,7 @@ ampWebUrl: "https://www.india.com/business/vvdn-technologies-joins-nvidia-partne
 cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/business/vvdn-technologies-joins-nvidia-partner-network-for-advanced-ai-enabled-camera-vision-applications-4898886/amp/"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,54 @@ images:
     isCached: true
 
 related:
+  - title: "Big bet on AI punches up Nvidia stock"
+    excerpt: "Nvidia (NVDA) reported blow-out earnings Wednesday after the close. Revenues are surging as its high-end chips for graphics and data centers remain in high demand. The San Jose, Calif.-based company reported revenues surged 68% during the second quarter,"
+    publishedDateTime: 2021-08-19T18:57:00Z
+    webUrl: "https://www.thestreet.com/tech/news/nvdajdm081921"
+    ampWebUrl: "https://www.thestreet.com/tech/.amp/news/nvdajdm081921"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/tech/.amp/news/nvdajdm081921"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 59
+    images:
+      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTgzMjYwMzgyMjI2MjkzNzk4/nvidia-data-science-home-og-social-share.jpg"
+        width: 620
+        height: 326
+        isCached: true
+  - title: "Artificial Intelligence Based Medical Device Market May Set Epic Growth Story | NVIDIA, Medtronic, GE Healthcare"
+    excerpt: "Worldwide Artificial Intelligence Based Medical Device Market In depth Research Report 2021 Forecast to 2026 is latest research study released by HTF MI evaluating the market risk side analysis highlighting opportunities and leveraged with strategic and tactical decision making support"
+    publishedDateTime: 2021-08-19T12:48:00Z
+    webUrl: "https://www.openpr.com/news/2360701/artificial-intelligence-based-medical-device-market-may-set"
+    ampWebUrl: "https://www.openpr.com/amp/2360701/artificial-intelligence-based-medical-device-market-may-set"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2360701/artificial-intelligence-based-medical-device-market-may-set"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 53
+    images:
+      - url: "https://cdn.openpr.com/U/8/U819997887_g.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Artificial Intelligence in Aviation Market to Develop New Growth Story | NVIDIA, Intel, IBM"
+    excerpt: "Latest business intelligence report released on Global Artificial Intelligence in Aviation Market, covers different industry elements and growth inclinations that helps in predicting market forecast."
+    publishedDateTime: 2021-08-18T06:39:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-aviation-market-to-develop-new-growth-story-nvidia-intel-ibm/"
+    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-aviation-market-to-develop-new-growth-story-nvidia-intel-ibm/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-aviation-market-to-develop-new-growth-story-nvidia-intel-ibm/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 47
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/A-84-390x220.jpg"
+        width: 390
+        height: 220
+        isCached: true
   - title: "AI Exosphere Joins NVIDIA Inception to Bring New AI Assistant to Market"
     excerpt: "\"After being invited to the NVIDIA Inception program and hearing all the excellent work and support, NVIDIA is doing; we knew this was the best fit for our startup,\" said Sal Peer, CEO of AI Exosphere. NVIDIA Inception helps startups during critical stages ..."
     publishedDateTime: 2021-08-19T12:38:00Z

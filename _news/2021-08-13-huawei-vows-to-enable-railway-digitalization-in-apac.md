@@ -1,47 +1,26 @@
 ---
 category: news
 title: "Huawei Vows to Enable Railway Digitalization in APAC"
-excerpt: "To this end, we will drive ubiquitous connectivity and promote equal access to networks; bring cloud and artificial intelligence to all four corners of the earth to provide superior computing ..."
-publishedDateTime: 2021-08-13T13:03:00Z
-originalUrl: "https://www.asiaone.com/business/huawei-vows-enable-railway-digitalization-apac"
-webUrl: "https://www.asiaone.com/business/huawei-vows-enable-railway-digitalization-apac"
-ampWebUrl: "https://www.asiaone.com/business/huawei-vows-enable-railway-digitalization-apac?amp"
-cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/huawei-vows-enable-railway-digitalization-apac?amp"
+excerpt: "The event attracted more than 1300 railway industry customers, partners, experts, and media drawn from across the APAC region. Core Huawei railway industry customers and partners - including the Hong Kong Mass Transit Railway Corporation (MTR),"
+publishedDateTime: 2021-08-13T11:32:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-huawei-vows-enable-railway-digitalization-apac-/2021/08/13/9430379.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-huawei-vows-enable-railway-digitalization-apac-/2021/08/13/9430379.htm"
 type: article
-quality: 59
-heat: 69
-published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.asiaone.com/themes/asiaone_amp/logo.png"
-    width: 299
-    height: 300
+  - url: "https://mma.prnewswire.com/media/1594222/railway_image.jpg"
+    width: 400
+    height: 213
     isCached: true
 
-related:
-  - title: "Huawei Vows to Enable Railway Digitalization in APAC"
-    excerpt: "Railway Forum 2021 online, the second iteration of this annual event, exploring the theme \"Smart Rail, Better Future Mobility.\" Although COVID 19 has brought massive disruption to the rail"
-    publishedDateTime: 2021-08-16T01:00:00Z
-    webUrl: "https://www.ryt9.com/en/anpi/251643"
-    type: article
-    provider:
-      name: RYT9
-      domain: ryt9.com
-    quality: 39
-    images:
-      - url: "https://www.ryt9.com/img/files/20210816/iq180106f6bf95d50ed513aa0d825017a4.jpg"
-        width: 800
-        height: 426
-        isCached: true
-
-secured: "KTRhOI4bp10uXmjn6mZJjYXG6CDTpwldBtQ+E1Z5XBQMdyi6HpnXzLRE5DI8yBqdcHJTj3p9fX0tzBfcJ2OdLRrvuCzd3jn9JdKYWz8BkF1BNHn4DU5/iZnK6o0hlVc6qHoeV4s8d5iJ3KeIzN+fGe6CGLe7y1oITiWMdwqKXuCnl9L4vHjATSiVfBpPul4GKjTfU3h5fllsYCD3jRSJ++iv5CBxFbq3/HjrYjPYUlAtA5WIFySeZaHHj9Y89clsRxSDes8BrAk18qNQgA9vmP+AcUICDAIA3SCkMn8fGLP6HYagd0w/Px48DnAWWx2XEPFFNA06mPT4lVg75787DVDKq0K9FgNzbZr7UlKpIew=;LclUak/i14oPh8A4obcbNg=="
+secured: "FWQyStm1rWx75q1oLOg8lwzNUoepNabqUkCnFOnvx+3wOfcdA4K8XuR3CxGw309fwXVd80XqOJqL7opBheid7fYdRtHwBtkTbxwUCjXN3NMa8p+4nh5HIK0y78aLuCE8/f5zd9VPxf0RnCHmM40L32sVGWrV72z88u2Q6wHQ1bRxATDABNy23se1pLl6p3HTpdMIqIHpynb5hY6ZSjWxoFuT3IOyzsDYAUDtS8yj6oKQey4B5abqQx0/9vmfImoPY0Y5STD3MEtxXnTJLlwwH7UzxJTgTICo6+iBXItkKjlL77vGe2k49fBNy8JRqeCysagWJZ1mmPYxJMKd2eKVjkJF6A6VFeEYucDy+tRAUH0=;Ma3vB8W7X4aBeWV2NHApQw=="
 ---
 
