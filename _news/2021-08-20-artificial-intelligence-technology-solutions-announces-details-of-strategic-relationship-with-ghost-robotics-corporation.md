@@ -35,19 +35,14 @@ related:
         height: 440
         isCached: true
   - title: "Artificial Intelligence Technology Solutions Announces Details of Strategic Relationship with Ghost Robotics Corporation"
-    excerpt: "Artificial Intelligence Technology Solutions, Inc., ( OTCPK:AITX), which provides AI-driven security and productivity solutions for enterprise clients, is pleased to announce that it has signed an agreement with Ghost Robotics Corporation (“Ghost”),"
-    publishedDateTime: 2021-08-19T13:01:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-robotics-artificial-intelligence-df9f5b640a0341379ec80892bd61158c"
+    excerpt: "Forward-looking statements involve risks and uncertainties that could cause actual results to differ materially from those expressed or implied by the statements, including, but not limited to, the following: the ability of Artificial Intelligence ..."
+    publishedDateTime: 2021-08-19T13:08:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-technology-solutions-announces-details-strategic-relatio-/2021/08/19/9434301.htm"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 59
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 39
 
 secured: "pD4t6pUU3SMjNnPBCP1bLf2ykOO5l+bGT4fQ3KhxZw+O4/FT3/yY0qd42YALhlMD7HXZkJYmq7xoH7tle1r6EEowoDVtZAYfaljWOU0IYgVRifwostkapy+D25MTa44Lmb73aFhKVbafHNwUTEFGRLRMkcFb/1dQJ6wFNTQjrEgXuc3bdUNPydDF8iJHpUtKkJwEOIFpZUQTiuu4s013JyixkmjtU+TAjYhEp4PQY0gWKjFOLhpEA3xduYgXRLxNCDKcvnObrqCFA/XDVjy/L6DWvv310EQRckbMxP8PsXRqHD56BeBFt8ArdAvyGS5VEgwj5YocwcI+uuNrvM/pMlfxPt4iIoiv9eo+ftZnWvg=;ky4aIZU1VrLzy9krnXBv6w=="
 ---

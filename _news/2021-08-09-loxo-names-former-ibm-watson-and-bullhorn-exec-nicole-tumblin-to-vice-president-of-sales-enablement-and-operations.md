@@ -1,23 +1,27 @@
 ---
 category: news
 title: "Loxo Names Former IBM Watson and Bullhorn Exec, Nicole Tumblin to Vice President of Sales Enablement and Operations"
-excerpt: "The #1 Talent Intelligence Platform hires recruiting and AI software veteran to accelerate revenue and customer acquisition while delivering a world-class experience across"
-publishedDateTime: 2021-08-09T13:05:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/08/p22399618/loxo-names-former-ibm-watson-and-bullhorn-exec-nicole-tumblin-to-vice-president-of-sales-enablemen"
-webUrl: "https://www.benzinga.com/pressreleases/21/08/p22399618/loxo-names-former-ibm-watson-and-bullhorn-exec-nicole-tumblin-to-vice-president-of-sales-enablemen"
-ampWebUrl: "https://www.benzinga.com/amp/content/22399618"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22399618"
+excerpt: "DENVER, Aug. 9, 2021 /PRNewswire-PRWeb/ -- Loxo, the #1 Talent Intelligence Platform and global leader in AI recruitment automation ... She also held leadership positions at IBM with the Watson ..."
+publishedDateTime: 2021-08-09T13:12:00Z
+originalUrl: "https://www.lelezard.com/en/news-19942074.html"
+webUrl: "https://www.lelezard.com/en/news-19942074.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
   - IBM AI
   - AI
   - AI in Sales
 
-secured: "TF4INx1b+fvY2+V7PA2m8p7LGWuhdfxu5vxSzb+uGNC5H4XW0W+xQhDohCUO4crS7V3fDdM2jHc/YRxMAzldcgkPwi31251AUPVHc8oQfjkUETGj+q6W7Ekn/HsQ5YMbcJwWzxCv+0CPVGU+UqSBpqtrOlywpwaXWXXsgLCorFCQjw1mUN1huHZXiyRMvZIGXrYIupGDD+bdOb0j+YP0cLih0SkC81KxZvaQ7j7prPg2bCaDHqGErX4U3XCs2Qj9o9y0yiwu00RO0CN+gIf2Ubnu2UbpUgYJwt+PHXmXcGCSRVduMH8ZK6RZGQqopTFQGXuSzCZtKGIpbIRTztqYTQGQqGwheTq25tB073hYDRM=;birVTpXvoNBAXpf+8N6TAA=="
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
+    isCached: true
+
+secured: "ojnUJMrA8ELHQ6xWBjatGCp9Py0wegRhLfwfs2LWJ9wKkdywStwRRVRPueUiVpALfKOu0strdHcqEpj86WWjhwFgGMlsW+SIRgYA+KUBGeBg7Qw85oPeWwa85e9Vak6Hu2M2bIfymGv2Ffyg4QBYT9/76mq9oWnDU6Sa8XtdogOKIlWXHEZZLpWfYabZRG2Yw0EFal/vrAMDg2mKIzgcuN2LIVp2iOysw+9wMvVSIwrzUOGGxWYPPMpvR6Dkwp73cJbPt94u3DXWJaV5GI7jo4wR6LT+dw+u2QKUGIClsqfVDb6aut4F+GDWSYFU7VDnSjmpxlDIFlG6azbUHPBhMD+BlyyYLhrHhc4dko5kxhM=;BeyC25h8yRFfwECqs4w6Mw=="
 ---
 

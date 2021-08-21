@@ -42,22 +42,6 @@ related:
         width: 620
         height: 326
         isCached: true
-  - title: "Artificial Intelligence Based Medical Device Market May Set Epic Growth Story | NVIDIA, Medtronic, GE Healthcare"
-    excerpt: "Worldwide Artificial Intelligence Based Medical Device Market In depth Research Report 2021 Forecast to 2026 is latest research study released by HTF MI evaluating the market risk side analysis highlighting opportunities and leveraged with strategic and tactical decision making support"
-    publishedDateTime: 2021-08-19T12:48:00Z
-    webUrl: "https://www.openpr.com/news/2360701/artificial-intelligence-based-medical-device-market-may-set"
-    ampWebUrl: "https://www.openpr.com/amp/2360701/artificial-intelligence-based-medical-device-market-may-set"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2360701/artificial-intelligence-based-medical-device-market-may-set"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 53
-    images:
-      - url: "https://cdn.openpr.com/U/8/U819997887_g.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "VVDN Technologies Joins NVIDIA Partner Network for Advanced AI-Enabled Camera, Vision Applications"
     excerpt: "With pre-trained AI models, developer SDKs and support for cloud-native technologies across the full Jetson lineup. Gurugram: VVDN Technologies announced that it has joined the NVIDIA Partner Network (NPN) as a provider of AI-enabled computer vision ..."
     publishedDateTime: 2021-08-19T06:55:00Z

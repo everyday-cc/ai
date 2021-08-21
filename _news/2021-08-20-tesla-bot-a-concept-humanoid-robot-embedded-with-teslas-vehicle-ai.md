@@ -3,10 +3,10 @@ category: news
 title: "Tesla Bot: A concept humanoid robot embedded with Tesla's vehicle AI"
 excerpt: "At Tesla AI Day, the company's CEO Elon Musk unveiled a concept humanoid robot that will be powered by the AI currently embedded within Tesla's autonomous vehicles. Aptly named the Tesla Bot, details about the concept robot were limited,"
 publishedDateTime: 2021-08-20T02:15:00Z
-originalUrl: "https://www.zdnet.com/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
-webUrl: "https://www.zdnet.com/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
+originalUrl: "https://www.zdnet.com/index.php/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
+webUrl: "https://www.zdnet.com/index.php/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
+ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
 type: article
 quality: 121
 heat: -1
@@ -1018,6 +1018,20 @@ related:
         width: 2048
         height: 1366
         isCached: true
+  - title: "Elon Musk announced that the Tesla Bot, a humanoid robot with AI, is coming out in 2022 and has already been showered with memes!"
+    excerpt: "Day, Elon Musk announced that in 2022 they will present the prototype of the humanoid robot Tesla Bot. Of course, netizens responded as they know best: with memes.  This Thursday, Elon Musk announced that his electric vehicle company is working on creating a humanoid robot ."
+    publishedDateTime: 2021-08-21T14:25:00Z
+    webUrl: "https://www.mysanantonio.com/business/article/Elon-Musk-announced-that-the-Tesla-Bot-a-16401310.php"
+    type: article
+    provider:
+      name: My San Antonio
+      domain: mysanantonio.com
+    quality: 42
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/42/66/21376445/3/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Elon Musk plans to design humanoid robot to help with everyday chores"
     excerpt: "\"It's basically going to start dealing with work that is boring, repetitive and dangerous,\" Musk said of the Tesla robot."
     publishedDateTime: 2021-08-20T17:59:00Z
@@ -1061,6 +1075,6 @@ related:
         height: 445
         isCached: true
 
-secured: "lQnE1THDJ1AyRz6UDi+oLWjWIQ33qjirqnzM7jK4orZ/MvamjCc/LTlUFBYaq6mQ1wz91ULSs0+T/WZmgmGxfUJfw3pK6WKYX28xRadX3DqC90kv35fl5T+YVubjKeSVMynW7d+fV8zev2Arkm+EEMxTPAa6wSKj7lw6KcKgfUOzGE62NW26j00Q85yTitetYrvBjmB/wGLGqi4kCa5U4R+sGBTovgZF57ZHuCukOJjfU7Si+SXrsXa40nMcM8MvcAtdjCV/e2azpCSMnCzI/4Pid98CeWKOx+Wr0QtvyxmXwjrmFKtq87mawB5kabkYzRkBdX9Ou/8yO0woR+cYH/jLmJHJBu3icA94rLP8fp8PABA+YGrQjXfVTRlUfc6Yu9Cp7QA2GTmqi8LLv5ZhEZed4OQlJiMb28/RbBvZg8+f9dkIn9Y6ycyD96EDFvrkUk8N0L+/sufuF/w0l3m2vwtFeVk+o9jrwvH3qaANL/sxnMMsUJc5X9bdH6m17fSfh1LGgDGeJ5RiOP7vcGwRHw==;n7JKGf4/dH39pb382szIUg=="
+secured: "LXvJhW27tAxKgfonlWP6cCgEf9lzXrNW78SCHoJcEC/8l3nqABSS4R9JT5lTJMJfmmuJ4szhAeI2ZjmTQ8ICP4qDpHhARR7PcpEFjXL3XwEF0ZQAN03NhZxI3bNe0P69qrNkYSIZ/rj+eHIic6u3IXtIzzSiLa8SKex/0jqAoJu20+JZ9GwiwGu+D9/NwWKhSRBu/mc6vSB7HbxJjeF2YPyl+3sl+2Kl5h+ry5R/DsH+wF2TO5SQItCl5S310h3srmPDjtRaMhtFPGDjeMNS1NOTc2ID5ks12+zYiRurSCg3an/JHOCm3YxtD7VbM/kvvWXsMaT3Ozt+g/qJd3Lz70HEzVg/NQmYuxaYSdlokcw=;zsAMqNXmHrk81lFJB2OSTw=="
 ---
 

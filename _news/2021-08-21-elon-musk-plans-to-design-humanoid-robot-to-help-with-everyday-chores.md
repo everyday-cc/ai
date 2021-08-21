@@ -92,9 +92,9 @@ related:
   - title: "Tesla Bot: A concept humanoid robot embedded with Tesla's vehicle AI"
     excerpt: "At Tesla AI Day, the company's CEO Elon Musk unveiled a concept humanoid robot that will be powered by the AI currently embedded within Tesla's autonomous vehicles. Aptly named the Tesla Bot, details about the concept robot were limited,"
     publishedDateTime: 2021-08-20T02:15:00Z
-    webUrl: "https://www.zdnet.com/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
+    webUrl: "https://www.zdnet.com/index.php/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
+    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
     type: article
     provider:
       name: ZDNet
@@ -1027,6 +1027,20 @@ related:
         width: 2048
         height: 1366
         isCached: true
+  - title: "Elon Musk announced that the Tesla Bot, a humanoid robot with AI, is coming out in 2022 and has already been showered with memes!"
+    excerpt: "Day, Elon Musk announced that in 2022 they will present the prototype of the humanoid robot Tesla Bot. Of course, netizens responded as they know best: with memes.  This Thursday, Elon Musk announced that his electric vehicle company is working on creating a humanoid robot ."
+    publishedDateTime: 2021-08-21T14:25:00Z
+    webUrl: "https://www.mysanantonio.com/business/article/Elon-Musk-announced-that-the-Tesla-Bot-a-16401310.php"
+    type: article
+    provider:
+      name: My San Antonio
+      domain: mysanantonio.com
+    quality: 42
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/42/66/21376445/3/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Elon Musk's Ambitious Plan to Build a Self-Driving Tesla Has Just 1 Problem. It Doesn't Work"
     excerpt: "On the other hand, Tesla is the only company with a CEO that insists on marketing driver-assist technologies as \"full-self driving,\" even when the car can't drive itself. I know t"
     publishedDateTime: 2021-08-17T07:02:00Z
@@ -1056,6 +1070,6 @@ related:
         height: 445
         isCached: true
 
-secured: "PI9tTGQuO4CU0Uy+auXSLE+4z24z8foJe9633XhZ9YDd21lenFSQJDnw/egt3SMr8asBCTE2XykywP34q/Gz3Iba46V1RpiiUc0jSJtufEMXj5B4JvDRymfd8XI+ajBpXk/XlRB4u5qenlQGUMS3kfl7isgKmBxPiqaOq8QqGnJNv3jZ3CGUM1KR7K0XJssYBwH6sJxmx9Hi8B9raJtXkZU+IfFLnFI7qK3ci3vPJ4BQ5iNapQ9+a6pYeRFj3rXJT/wAtnZnJ9a6oQ7BD1l5Lb6v/yN6f7tYniwIIRKHPPMR/uxuOoiIjwXvSRJiYhv4IOECpVwOE+1OyibvbnDKRFV3H1pcal/HMOh9tZ1ywKA=;/45mWPRcjMRDs9UCamZacw=="
+secured: "DQywWA8wO22+9AETh0dGeS+CcVOSeLOLK+CnnbzoWqSelPH53OGGuKfD6q3j9ahyYTE0tKWTMMt5BvSUq+WM6zHqoohEyxfjDX9AQ744QW99EMwWZJg/otYtMgtrNZgUuL/TIQa8R5wmXyRegIk5Aqvhg0PgF5LBBCMaIngWypgyPa7MutBgEHK4YNc0LhL4X3qnMnEop0R54h4XJ6GxPbZW3zz6UWTkS/eO+qsCLVRJydj2JhTfBYrNRudh7ZgnajHLUMuRBo/8by/SmfoD9Ff4ZqyyD7KqNF46PkjytLGESyjWh4w/fVxkjPDDIo3PxaAgDAN4You7vr5oD++pnA6e4tx2B7vc7uKihIQFocqqbSd9wFMJtHdi6unSm3dqVCfcMKOOVgCM8R99z567Bobh0bbdjz/ZLLz3HO7WW3Np9fqaXY18yMSV7N85NK+cPBTUBCypZ/68HbhrAriHy1uLpQCI0t6a73oQQu76vubPYgmUTfwDqTRbC4fo9FFYelMdayRaUTcp2GjwgFBcUA==;CqUxyJvmEycFj5rTg6uh6A=="
 ---
 

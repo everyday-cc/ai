@@ -27,20 +27,6 @@ images:
 
 related:
   - title: "Artificial Intelligence Technology Solutions Announces Details of Strategic Relationship with Ghost Robotics Corporation"
-    excerpt: "Artificial Intelligence Technology Solutions, Inc., ( OTCPK:AITX), which provides AI-driven security and productivity solutions for enterprise clients, is pleased to announce that it has signed an agreement with Ghost Robotics Corporation (“Ghost”),"
-    publishedDateTime: 2021-08-19T13:01:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-robotics-artificial-intelligence-df9f5b640a0341379ec80892bd61158c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 59
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Artificial Intelligence Technology Solutions Announces Details of Strategic Relationship with Ghost Robotics Corporation"
     excerpt: "Integrating our QUGVs into their offering will certainly open doors and bring new opportunities for both companies” -Artificial Intelligence Technology Solutions ... it has signed an agreement with Ghost Robotics Corporation (\"Ghost\"), outlining the ..."
     publishedDateTime: 2021-08-20T12:43:00Z
     webUrl: "https://www.roboticstomorrow.com/news/2021/08/20/artificial-intelligence-technology-solutions-announces-details-of-strategic-relationship-with-ghost-robotics-corporation/17357/"
@@ -49,6 +35,15 @@ related:
       name: Robotics Tomorrow
       domain: roboticstomorrow.com
     quality: 41
+  - title: "Artificial Intelligence Technology Solutions Announces Details of Strategic Relationship with Ghost Robotics Corporation"
+    excerpt: "Forward-looking statements involve risks and uncertainties that could cause actual results to differ materially from those expressed or implied by the statements, including, but not limited to, the following: the ability of Artificial Intelligence ..."
+    publishedDateTime: 2021-08-19T13:08:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-technology-solutions-announces-details-strategic-relatio-/2021/08/19/9434301.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 39
 
 secured: "mGZGxl7DXKRINrFCSjgBTVoGrXlABkClmg9j7/Alw8cd/OAfmtFXLtnUMWaqxandyMcz5EH7mvJ0FuwHlxFpX43htwGcAt7yLSnQRFkpoi/gxstgXrjAxSPovh4qLGmx4yOnSR7naafVW73P33DSjlRAwQHRQ4eT19a/SWsI8Aw8CLkQviYYxG7jA3CGbGbjbovBSDg089KFwK2C+3hCerWAWHfbRlGQQjK4K9ZkSuc5kP3+Q1oOgXzysoIJPLmfKqm9kREw2+x5iMmfAIG9QWrHHF32FH6LDftDNNcR5if2sG+Zys7Lve3iWtJBr8w73wz2u0yDgmelia84sELvLdvY/P+8E0qi/F4J/IODdzW+ra5zga8LPiPbo7k5vdKNpw11KVW2ufilFtUTtBd89H1laHW53oblul+N9jEtXBISerB1SMUFOQ3egvvwMonMj7BJ7F9biymQjASjH5CGYMsSYpF1KwY/6aFSzneHvWIJWejRCmxat+gMhsXPSf4vMZbz4lGB6BncS1BPbXCnjw==;OmOSLoMlV4O/2NoV6DgR1A=="
 ---

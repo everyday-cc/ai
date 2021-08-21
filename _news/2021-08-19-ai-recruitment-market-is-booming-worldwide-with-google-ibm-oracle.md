@@ -20,6 +20,38 @@ topics:
   - AI
 
 related:
+  - title: "AI in Medical Imaging Diagnosis Market Is Booming Worldwide | GE Healthcare, IBM Watson Health, Philips Healthcare"
+    excerpt: "Our report will be revised to address COVID-19 pre-Post pandemic effects on the Global AI in Medical Imaging Diagnosis Market. Click to get Global AI in Medical Imaging Diagnosis Market Research Free Sample PDF Copy Here Before Purchase @: jcmarketresearch."
+    publishedDateTime: 2021-08-17T15:20:00Z
+    webUrl: "https://manometcurrent.com/ai-in-medical-imaging-diagnosis-market-is-booming-worldwide-ge-healthcare-ibm-watson-health-philips-healthcare/"
+    ampWebUrl: "https://manometcurrent.com/ai-in-medical-imaging-diagnosis-market-is-booming-worldwide-ge-healthcare-ibm-watson-health-philips-healthcare/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/ai-in-medical-imaging-diagnosis-market-is-booming-worldwide-ge-healthcare-ibm-watson-health-philips-healthcare/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 69
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/global-silicone-swimming-caps-market-390x220.png"
+        width: 390
+        height: 220
+        isCached: true
+  - title: "Artificial Intelligence Based Medical Device Market May Set Epic Growth Story | NVIDIA, Medtronic, GE Healthcare"
+    excerpt: "Worldwide Artificial Intelligence Based Medical Device Market In depth Research Report 2021 Forecast to 2026 is latest research study released by HTF MI evaluating the market risk side analysis highlighting opportunities and leveraged with strategic and tactical decision making support"
+    publishedDateTime: 2021-08-19T12:48:00Z
+    webUrl: "https://www.openpr.com/news/2360701/artificial-intelligence-based-medical-device-market-may-set"
+    ampWebUrl: "https://www.openpr.com/amp/2360701/artificial-intelligence-based-medical-device-market-may-set"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2360701/artificial-intelligence-based-medical-device-market-may-set"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 53
+    images:
+      - url: "https://cdn.openpr.com/U/8/U819997887_g.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Artificial Intelligence Market Is Booming Worldwide | IBM, Intel, Nuance Communications, IFLYTEK"
     excerpt: "The Artificial Intelligence Market research report includes an in-sight study of the key Global Artificial Intelligence Market prominent players along with the company profiles and planning adopted by them."
     publishedDateTime: 2021-08-19T05:15:00Z

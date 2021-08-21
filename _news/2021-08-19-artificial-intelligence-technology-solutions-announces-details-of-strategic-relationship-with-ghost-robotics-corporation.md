@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Artificial Intelligence Technology Solutions Announces Details of Strategic Relationship with Ghost Robotics Corporation"
-excerpt: "Artificial Intelligence Technology Solutions, Inc., ( OTCPK:AITX), which provides AI-driven security and productivity solutions for enterprise clients, is pleased to announce that it has signed an agreement with Ghost Robotics Corporation (“Ghost”),"
-publishedDateTime: 2021-08-19T13:01:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-robotics-artificial-intelligence-df9f5b640a0341379ec80892bd61158c"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-robotics-artificial-intelligence-df9f5b640a0341379ec80892bd61158c"
+excerpt: "Forward-looking statements involve risks and uncertainties that could cause actual results to differ materially from those expressed or implied by the statements, including, but not limited to, the following: the ability of Artificial Intelligence ..."
+publishedDateTime: 2021-08-19T13:08:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-technology-solutions-announces-details-strategic-relatio-/2021/08/19/9434301.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-technology-solutions-announces-details-strategic-relatio-/2021/08/19/9434301.htm"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
   - AI in Robotics
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Bill Smart Brings Technical Expertise in Robotics and AI to Discussions about Regulation"
@@ -49,6 +43,6 @@ related:
       domain: roboticstomorrow.com
     quality: 41
 
-secured: "QK7lBt4sssAZdhbS+nsrdwpaqXp2ZXx2U4xxO6yovVRG6PAVpvLbTXaZbzYAbtcfYLORnqwApt+6F3FE5GoFXb0tl5LfUgSMZK/RkuCn/RO/3eSqLfZJzbbg57MZFvJRyB8FH1EMnn+JndDLul11kRnszow3Wtmtql2ZP4kb2V90CRq+okgAAcmOgRAyA7uTP8uSsUvpqpV7gSH1QnhHgXe4KD0OA5QYoV18KShLj7aTRTiJsh3rJZYxhGOiZdT4dXS3TMTce0lPc0Asz2EU5XMIf4e30Shg8L0Svj+LPtC6nhKJNP7+tFRGp1meQK8Pt1QdzueRLWtI4FjLB6t4d/mMwx/oygajkQsM5M97vV8=;RO3dxyL4jE7JAFJ5RyaVUQ=="
+secured: "xyHGXRAo2AZ4FvQ8d36YfvcAE2WNUkWKhDv0elLYME0m6u0TUPrxaXdL8tdJamreLVSvXpfDHQBv5bwd0nq09zDQhp3iEfcF4oc6QtxyX93KS4VW094O/Ob20XcvHIH8RySIncm6dI8DpNzHN3kdKUVps8Z2gtaLIw1RFPLIC7sI34JX5hxWgoVzz3S6sLvV4OG/+hhom2qy6geoq6hIZtuP1LCzgptIcWZXVaKcl4w+5ejuy5i5qvXwf4j3HENimCNCcfkArt3VwsFKUprXexLQtFn4sWdfkCABcqXoB9UL5X96/W4YRsLuA0/AwI9hDv55I8tLTbc9iGKIs+fj6ZvY5+EBtptRZkFeio4jl/c=;LRngPsyr+ssxcU5dUuy0Mg=="
 ---
 
