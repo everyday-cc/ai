@@ -2,6 +2,41 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-21-3-artificial-intelligence-stocks-to-buy-right-now.md",
+      "title": "3 Artificial Intelligence Stocks to Buy Right Now",
+      "excerpt": "But tech companies are still just getting started with AI, which means that there's still plenty of opportunities for investors to benefit from artificial intelligence for years to come. If you're looking for some top artificial intelligence stocks to buy right now,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-artificial-intelligence-stocks-to-buy-right-now-2021-08-21?time=1629546902",
+      "originalUrl": "https://www.nasdaq.com/articles/3-artificial-intelligence-stocks-to-buy-right-now-2021-08-21?time=1629546902",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/3-artificial-intelligence-stocks-to-buy-right-now-2021-08-21?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-artificial-intelligence-stocks-to-buy-right-now-2021-08-21?amp",
+      "publishedDateTime": "2021-08-21T04:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-20-meet-grace-the-robot-nurse-that-covid-created.md",
       "title": "Meet Grace, the robot nurse that COVID created",
       "excerpt": "Meet Grace. She's a robot designed to ease the workload of nurses and front-line workers.She’s the creation of the same company that built Sophia, a robot granted citizenship by",
@@ -107,7 +142,7 @@
       "originalUrl": "https://www.cnet.com/news/elon-musk-unveils-tesla-bot-a-humanoid-robot-utilizing-vehicle-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 891,
+      "heat": 901,
       "tags": null,
       "images": [
         {
@@ -1357,49 +1392,6 @@
         "AI in Robotics",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-arm-institute-virtual-summit-tackles-robotics-for-pandemics-and-beyond.md",
-      "title": "ARM Institute virtual summit tackles robotics for pandemics and beyond",
-      "excerpt": "The ARM Institute opened registration for the ARM Exchange Technical Summit: Robotic Solutions for Pandemics & Beyond.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/arm-institute-virtual-summit-tackles-robotics-for-pandemics-beyond/",
-      "originalUrl": "https://www.therobotreport.com/arm-institute-virtual-summit-tackles-robotics-for-pandemics-beyond/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2021/08/arm-institute-summit-pandemic.jpg",
-          "width": 1000,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-11T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

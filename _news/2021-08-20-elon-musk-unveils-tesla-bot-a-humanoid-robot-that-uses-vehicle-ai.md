@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/elon-musk-unveils-tesla-bot-a-h
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/elon-musk-unveils-tesla-bot-a-humanoid-robot-utilizing-vehicle-ai/"
 type: article
 quality: 221
-heat: 891
+heat: 901
 published: true
 
 provider:
@@ -1017,6 +1017,20 @@ related:
       - url: "https://www.scotsman.com/webimg/b25lY21zOjU4OGQ0ZjliLTlhMDAtNDMwNi05NGI5LWRhMTc1M2YxYTUwZDo4YmYzZjRjYi1mZjZhLTQ0M2YtOGZkMS04N2RiZTI5M2Y5MDk=.jpg?width=2048&enable=upscale"
         width: 2048
         height: 1366
+        isCached: true
+  - title: "Elon Musk plans to design humanoid robot to help with everyday chores"
+    excerpt: "\"It's basically going to start dealing with work that is boring, repetitive and dangerous,\" Musk said of the Tesla robot."
+    publishedDateTime: 2021-08-20T17:59:00Z
+    webUrl: "https://abc-7.com/cnn/cnn-tech/2021/08/20/elon-musk-plans-to-design-humanoid-robot-to-help-with-everyday-chores/"
+    type: article
+    provider:
+      name: ABC7
+      domain: abc-7.com
+    quality: 39
+    images:
+      - url: "https://abc-7.com/wp-content/uploads/2021/08/Bot.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Elon Musk's Ambitious Plan to Build a Self-Driving Tesla Has Just 1 Problem. It Doesn't Work"
     excerpt: "On the other hand, Tesla is the only company with a CEO that insists on marketing driver-assist technologies as \"full-self driving,\" even when the car can't drive itself. I know t"

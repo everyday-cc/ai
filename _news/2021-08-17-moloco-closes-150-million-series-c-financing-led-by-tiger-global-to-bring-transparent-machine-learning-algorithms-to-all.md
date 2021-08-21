@@ -1,23 +1,26 @@
 ---
 category: news
 title: "MOLOCO Closes $150 Million Series C Financing Led by Tiger Global to Bring Transparent Machine Learning Algorithms to All"
-excerpt: "MOLOCO ( a leader in machine learning and growth solutions for mobile app marketers and e-commerce companies, announced"
-publishedDateTime: 2021-08-17T15:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/moloco-closes-150-million-series-c-financing-led-by-tiger-global-to-bring-transparent-machine-learning-algorithms-to-all-301356860.html"
-webUrl: "https://www.prnewswire.com/news-releases/moloco-closes-150-million-series-c-financing-led-by-tiger-global-to-bring-transparent-machine-learning-algorithms-to-all-301356860.html"
+excerpt: "MOLOCO (  com ), a leader in machine learning and growth solutions for mobile app marketers and e-commerce companies, announced today it has raised $150 million in Series C funding to bring sophisticated,"
+publishedDateTime: 2021-08-17T15:11:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/moloco-closes-150-million-series-c-financing-led-by-tiger-global-to-bring-transparent-machine-learning-algorithms-to-all-1030739081"
+webUrl: "https://markets.businessinsider.com/news/stocks/moloco-closes-150-million-series-c-financing-led-by-tiger-global-to-bring-transparent-machine-learning-algorithms-to-all-1030739081"
 type: article
-quality: 0
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
 
 related:
   - title: "MOLOCO raises $150M Series C led by Tiger Global at a $1.5B valuation"
@@ -90,6 +93,6 @@ related:
       domain: autonews.com
     quality: 13
 
-secured: "PgbCb/0vyxuVGPa7fej25GRkUqZJekS38O8SLo8ycxTLqbROAIGEsGJ8I/1sl8XRUI4dGxGYXnDaEamo8gTwD52+Dc9rZcE5h7PDWfzGBLWDpnmoJvE3HyDuzaMTCjUY3qFgpuLk9YN3eGUrTXT8VN2Xb7tT3vkEcg4CRse1+elJ75A75fV0/FBk0w+TY8aNDOx9TBfPytHZkVXKLL1PkWiDFVK35BggwFRWlUOAXFu9+saXIixNTEi8g40546NW+WeRsRAdyE4q+flS5zc6XIW0IjawrASDU1OW5Wyb1F/QhZCgASmCkG4cPs6HXdIQrwTFigFVCN64uQQntOiFA7uM4RSTDANQshhNLoiXVt4=;JRYAIDqFqJu/SDcbqXEseQ=="
+secured: "P9tHaXBWxEDM6IdWm4LqJk/B0ab/wUevtyOsWJDl2SdbLAwPvQjBUqMrdxe0zo6m6K3+pH1FGrI25AVMhzhecI2CcrvKzNXpYvJ+Q6MmEwa334EZ2HH+DlRIccL4iXx8sZ8V7gIdCM5VUO/w7E3a822LHBsPRWcLVmPb5NFu5YWPK8uaSc1L2Bz2E/nTBJB6x3zLBdPSLur3HX9g6Er00HaAmurn7LdE5E5hCQLXWgaj584VrfqL3nf0ZpuJGQhlbRAbYyvNrEB45K93BdNYEHc/W3L1hEnSZnhzBSts+4lUsHLgoOhFrjfypD/p8AMTmIVFPqjmB5vzlDwgx/V/CGK1owOBradkco4ySfs1rzU=;nqL44FQyNCTBWXJpShB0kw=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-07-28-computer-science-course-listing.md",
+      "title": "Computer Science Course Listing",
+      "excerpt": "and object recognition. An advanced course in computer graphics for students familiar with basic issues in computer graphics. Details on hidden line and surface removal. 2D and 3D curve and surface generation, rendering, illumination, and color models ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.uml.edu/Catalog/Undergraduate/Sciences/Departments/Computer-Science/Course-Listing.aspx",
+      "originalUrl": "https://www.uml.edu/Catalog/Undergraduate/Sciences/Departments/Computer-Science/Course-Listing.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.uml.edu/Images/Allen-House-river-1400_tcm18-197005.jpg?w=x",
+          "width": 1400,
+          "height": 1050,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-28T00:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UMass Lowell",
+        "domain": "uml.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-28-why-we-need-engineers-who-study-ethics-as-much-as-maths.md",
       "title": "Why we need engineers who study ethics as much as maths",
       "excerpt": "The Miami apartment collapse is a grim reminder of why engineering matters, and why engineering trainees should study ethics.",
@@ -1089,49 +1132,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-interview-robotics-and-ai-inspire-new-orchestral-piece.md",
-      "title": "INTERVIEW: Robotics and AI inspire new orchestral piece",
-      "excerpt": "It’s not everyday that a new orchestral piece comes around that has been inspired by robotics, artificial intelligence and the relationship between humans and inanimates, but that’s exactly what listeners can expect when taking in the sounds of Lim Fantasy of Companionship for Piano & Orchestra.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hollywoodsoapbox.com/interview-robotics-and-ai-inspire-new-orchestral-piece/",
-      "originalUrl": "https://www.hollywoodsoapbox.com/interview-robotics-and-ai-inspire-new-orchestral-piece/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hollywoodsoapbox.com/wp-content/uploads/2021/07/Screen-Shot-2021-07-27-at-12.56.20-PM-e1627405060734.png",
-          "width": 800,
-          "height": 532,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-27T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "hollywoodsoapbox.com",
-        "domain": "hollywoodsoapbox.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

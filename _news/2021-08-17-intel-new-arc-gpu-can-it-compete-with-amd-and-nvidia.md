@@ -43,22 +43,6 @@ related:
         width: 1199
         height: 662
         isCached: true
-  - title: "Intel Revealed A Lot More Than Just Its Arc Discrete GPU Branding Today"
-    excerpt: "Intel Arc will be the brand to do battle with NVIDIA’s GeForce and AMD’s Radeon graphics products when it arrives in Q1 2022."
-    publishedDateTime: 2021-08-16T22:22:00Z
-    webUrl: "https://www.forbes.com/sites/marcochiappetta/2021/08/16/intel-revealed-a-lot-more-than-just-its-arc-discrete-gpu-branding-today/"
-    ampWebUrl: "https://www.forbes.com/sites/marcochiappetta/2021/08/16/intel-revealed-a-lot-more-than-just-its-arc-discrete-gpu-branding-today/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcochiappetta/2021/08/16/intel-revealed-a-lot-more-than-just-its-arc-discrete-gpu-branding-today/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611ae287eea39eee2237481d%2F0x0.jpg"
-        width: 1200
-        height: 775
-        isCached: true
   - title: "Intel Enters Dedicated GPU Market With Intel Arc: Will Be Available From Q1 2022"
     excerpt: "Though Intel makes both CPU and GPU, it is always widely recognized for making CPU. The company has now announced a sub-brand, dedicated to the graphics card -- Intel Arc. Under this initiation, the company will launch the first generation of dedicated graphics cards based on Xe HPG microarchitecture."
     publishedDateTime: 2021-08-17T07:09:00Z
@@ -74,20 +58,6 @@ related:
       - url: "https://www.gizbot.com/img/2021/08/intel-enters-dedicated-gpu-market-with-intel-arc1-1629183937.jpg"
         width: 600
         height: 337
-        isCached: true
-  - title: "The Full Nerd ep. 188: Intel's 12th-gen Alder Lake and Arc GPU"
-    excerpt: "You can read more about Alder Lake in Mark Hachman's story. The Full Nerd gang also talks about Intel's new Arc GPU, which breaks cover with hardware ray tracing support and AI-based upsampling to compete with Nvidia's DLSS 2.0. For more details ..."
-    publishedDateTime: 2021-08-20T19:05:00Z
-    webUrl: "https://www.pcworld.com/article/3630515/the-full-nerd-ep-188-intels-12th-gen-alder-lake-and-arc-gpu.html"
-    type: article
-    provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 69
-    images:
-      - url: "https://images.idgesg.net/images/article/2021/08/tfn21_188_tfnep188_v1-100900097-large.3x2.jpg?auto=webp"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Intel announces high-performance consumer GPU brand Intel Arc"
     excerpt: "Intel Arc – for discrete high-performance consumer GPUs along with accompanying software and services. The new brand is largely looking at gamers as its target end consumer. The first laptops and desktops on Intel Arc products are expected to be released in 2022."
@@ -148,6 +118,20 @@ related:
       - url: "https://www.noypigeeks.com/wp-content/uploads/2021/08/intel-arc-gpu-noypigeeks.jpg"
         width: 900
         height: 506
+        isCached: true
+  - title: "The Full Nerd ep. 188: Intel's 12th-gen Alder Lake and Arc GPU"
+    excerpt: "The Full Nerd crew discusses Intel's big reveal on its next-gen Alder Lake CPU and its first enthusiast gaming GPU In this episode of The Full Nerd, Gordon Ung, Alaina Yee, Mark Hachman and Adam Patrick Murray discuss Intel's big news on Alder Lake and its Arc GPU."
+    publishedDateTime: 2021-08-21T15:33:00Z
+    webUrl: "https://www.goodgearguide.com.au/article/690699/full-nerd-ep-188-intel-12th-gen-alder-lake-arc-gpu/"
+    type: article
+    provider:
+      name: Good Gear Guide
+      domain: goodgearguide.com.au
+    quality: 39
+    images:
+      - url: "https://www.idgcdn.com.au/article/images/800x800/dimg/tfn21_188_tfnep188_v1-100900097-orig.jpgautowebp"
+        width: 800
+        height: 450
         isCached: true
   - title: "Intel Introduces A New PC Gaming GPU Called Intel Arc, Set To Rival Nvidia"
     excerpt: "Intel is ready to boost its game in the gaming market by introducing an upcoming gaming GPU known as the Intel Arc. This new Arc brand is said to cover both hardware and software powering Intel’s high-end discrete GPUs."

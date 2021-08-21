@@ -41,6 +41,22 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Tesla aims to launch Full Self-Driving Computer 2 with Cybertruck"
+    excerpt: "Tesla plans to launch a new Full Self-Driving computer with Cybertruck electric pickup truck next year. The updated self-driving hardware should also include new cameras. Tesla’s self-driving hardware has been a point of controversy."
+    publishedDateTime: 2021-08-20T18:30:00Z
+    webUrl: "https://electrek.co/web-stories/tesla-aims-to-launch-full-self-driving-computer-2-with-cybertruck-next-year/"
+    ampWebUrl: "https://electrek.co/web-stories/tesla-aims-to-launch-full-self-driving-computer-2-with-cybertruck-next-year/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/web-stories/tesla-aims-to-launch-full-self-driving-computer-2-with-cybertruck-next-year/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 104
+    images:
+      - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/e-gs-thumb-22.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Dem Senators Ask FTC to Probe Tesla Over 'Misleading' Self-Driving Claims"
     excerpt: "US Senators Richard Blumenthal and Edward Markey are concerned Tesla is overhyping the company's self-driving technologies and thus putting Tesla owners at risk."
     publishedDateTime: 2021-08-18T15:36:00Z
@@ -106,18 +122,18 @@ related:
         height: 550
         isCached: true
   - title: "U.S. senators urge FTC to probe Tesla over self-driving claims"
-    excerpt: "A logo of the electric vehicle maker Tesla is seen near a shopping complex in Beijing, China January 5, 2021. REUTERS/Tingshu Wang"
+    excerpt: "Two U.S. senators on Wednesday pressed the Federal Trade Commission (FTC) to probe Tesla (TSLA.O), saying the company has misled consumers and endangered the public by marketing its driving automation systems as fully self-driving."
     publishedDateTime: 2021-08-18T15:19:00Z
-    webUrl: "https://www.reuters.com/news/picture/us-senators-urge-ftc-to-probe-tesla-over-idUSKBN2FJ0WV"
+    webUrl: "https://www.reuters.com/article/tesla-autopilot-ftc/corrected-us-senators-urge-ftc-to-probe-tesla-over-self-driving-claims-idUSL4N2PO3YZ"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 84
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210818&t=2&i=1572270336&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH7H0FQ"
-        width: 810
-        height: 539
+      - url: "https://www.reuters.com/resizer/bjG2wzYs69PPGKUQaSbIqLB-3G4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UVOPVOGYAFKMZFQHYFY36WRXL4.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Lawmakers Target Tesla's Autopilot and Self-Driving Claims"
     excerpt: "Two U.S. Senators are urging the Federal Trade Commission to investigate whether Tesla Inc. uses deceptive marketing practices by labeling its driver-assistance systems “Autopilot” and “Full Self-Driving."
@@ -245,22 +261,6 @@ related:
         width: 1024
         height: 707
         isCached: true
-  - title: "6 Injured As Self-Driving Tesla Crashes In School Car Park In UK: Report"
-    excerpt: "Five children and an adult were taken to hospital with injuries after a self-driving Tesla Inc Model 3 crashed in a school car park in southern England on Monday evening, the Telegraph reported."
-    publishedDateTime: 2021-08-16T22:06:00Z
-    webUrl: "https://www.ndtv.com/world-news/6-injured-as-self-driving-tesla-crashes-in-school-car-park-in-southern-england-report-2512014"
-    ampWebUrl: "https://www.ndtv.com/world-news/6-injured-as-self-driving-tesla-crashes-in-school-car-park-in-southern-england-report-2512014?amp=1&akamai-rum=off"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/6-injured-as-self-driving-tesla-crashes-in-school-car-park-in-southern-england-report-2512014?amp=1&akamai-rum=off"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 58
-    images:
-      - url: "https://i.ndtvimg.com/i/2017-06/police-line-do-not-cross_650x400_41498536630.jpg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "Six injured as self-driving Tesla crashes in school car park in Southern England"
     excerpt: "At least one person was reported to have been pinned under the electric car in a car park of a college in Sussex, the report said, adding that exact number was not clear."
     publishedDateTime: 2021-08-17T02:30:00Z
@@ -333,29 +333,6 @@ related:
         width: 1199
         height: 674
         isCached: true
-  - title: "Fed Look at Self-Driving Tesla Crashes with Emergency Vehicles"
-    excerpt: "The National Highway Safety Administration is investigating at least 11 incidents in which the cars collided with emergency vehicles that were already at the scene of an earlier accident."
-    publishedDateTime: 2021-08-16T21:30:00Z
-    webUrl: "https://www.firehouse.com/community-risk/community-risk-reduction/news/21234510/fed-look-at-selfdriving-tesla-crashes-with-emergency-vehicles"
-    type: article
-    provider:
-      name: Firehouse
-      domain: firehouse.com
-    quality: 39
-    images:
-      - url: "https://img.firehouse.com/files/base/cygnus/fhc/image/2021/08/16x9/Tesla_Fire_Woodlands__TX__.611ad6dc4bde8.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Six Injured as Self-Driving Tesla Crashes in School Car Park in Southern England - Telegraph"
-    excerpt: "Five children and an adult were taken to hospital with injuries after a self-driving Tesla Inc Model 3 crashed in a school car park in southern England on Monday evening, the Telegraph reported. At least one person was reported to have been pinned under the electric car in a car park of a college in Sussex,"
-    publishedDateTime: 2021-08-16T21:08:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-08-16/six-injured-as-self-driving-tesla-crashes-in-school-car-park-in-southern-england-telegraph"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 38
   - title: "Tesla: American senators pressing FTC to investigate EV carmaker over alleged misleading self-driving claims"
     excerpt: "Tesla should be investigated by the U.S. Federal Trade Commission now. At least two senators said on Wednesday, Aug. 18, that Elon Musks company may have misled buyers with the companys automated driving"
     publishedDateTime: 2021-08-19T06:36:00Z
@@ -383,20 +360,6 @@ related:
       - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2019/04/tesla-charging-station-1000x600.jpg"
         width: 1000
         height: 600
-        isCached: true
-  - title: "Six injured as self-driving Tesla crashes in school car park in Southern England: Report"
-    excerpt: "Five children and an adult were taken to hospital with injuries after a self-driving Tesla Inc Model 3 crashed in a school car park in southern England on Monday evening, the Telegraph reported. At le"
-    publishedDateTime: 2021-08-16T21:42:00Z
-    webUrl: "https://www.channelnewsasia.com/business/six-injured-self-driving-tesla-crashes-school-car-park-southern-england-report-2117186"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 30
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_338%2Cw_600/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=OKRpQAP1"
-        width: 600
-        height: 338
         isCached: true
   - title: "Two Senators Accuse Tesla Of Misleading Customers With Self-Driving Features, Request FTC Probe"
     excerpt: "Senators Richard Blumenthal and Edward J. Markey have sent a letter to the Chair of the Federal Trade Commission, Lina Khan, asking the organization to investigate Tesla for what they allege are deceptive business practices."

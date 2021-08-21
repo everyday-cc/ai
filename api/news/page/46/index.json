@@ -2,6 +2,51 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2021-07-17-deep-learning-software-market-robotics-intelligence-evolving-to-make-the-new-era-nuance-clarifai-aws-ibm-keras-deeppy.md",
+      "title": "Deep Learning Software Market Robotics, Intelligence Evolving to Make the New Era| Nuance, Clarifai, AWS, IBM, Keras DeepPy",
+      "excerpt": "The recent report on “Global Deep Learning Software Market Report 2021 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2027 (Based on 2020 COVID-19 Worldwide Spread)” offered by ResearchMoz,",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/deep-learning-software-market-robotics-intelligence-evolving-to-make-the-new-era-nuance-clarifai-aws-ibm-keras-deeppy/",
+      "originalUrl": "https://manometcurrent.com/deep-learning-software-market-robotics-intelligence-evolving-to-make-the-new-era-nuance-clarifai-aws-ibm-keras-deeppy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manometcurrent.com/wp-content/uploads/2021/07/MicrosoftTeams-image-2.jpg",
+          "width": 743,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-16T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-17-artificial-intelligence-in-supply-chain-market-is-set-to-fly-high-in-years-to-come.md",
       "title": "Artificial Intelligence in Supply Chain Market is Set To Fly High in Years to Come",
       "excerpt": "Artificial Intelligence in Supply Chain Market Analysis, Artificial Intelligence in Supply Chain Market Forecast, Artificial Intelligence in Supply Chain Market Growth, Artificial Intelligence in Supply Chain Market Opportunity,",
@@ -1170,49 +1215,6 @@
         "AI",
         "Machine Learning",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-could-the-pittsburgh-left-help-argo-ai-win-the-self-driving-car-race.md",
-      "title": "Could the ‘Pittsburgh left’ help Argo AI win the self-driving car race?",
-      "excerpt": "Yet the driverless technology company Argo AI ... and make sure its artificial intelligence systems deeply understand them — not just where the street signs, traffic lights and road markings ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/business/story/2021-07-15/argo-ai-robotaxi",
-      "originalUrl": "https://www.latimes.com/business/story/2021-07-15/argo-ai-robotaxi",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/75020f5/2147483647/strip/true/crop/6000x3919+0+41/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F6c%2Fcd%2F534512b98dfada9db3836e453a91%2Fae1ef9f1bada4fafadcd0384a152cc0a",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/business/story/2021-07-15/argo-ai-robotaxi?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2021-07-15/argo-ai-robotaxi?_amp=true",
-      "publishedDateTime": "2021-07-16T02:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

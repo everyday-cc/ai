@@ -2,6 +2,58 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2021-07-16-why-transformers-offer-more-than-meets-the-eye.md",
+      "title": "Why Transformers offer more than meets the eye",
+      "excerpt": "Transformers, a major innovation in AI and machine learning, have practical real-world applications -- and implications.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/15/why-transformers-offer-more-than-meets-the-eye/",
+      "originalUrl": "https://venturebeat.com/2021/07/15/why-transformers-offer-more-than-meets-the-eye/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/trust-2-e1611944466862.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/15/why-transformers-offer-more-than-meets-the-eye/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/15/why-transformers-offer-more-than-meets-the-eye/amp/",
+      "publishedDateTime": "2021-07-15T12:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-16-why-we-need-engineers-who-study-ethics-as-much-as-maths.md",
       "title": "Why we need engineers who study ethics as much as maths",
       "excerpt": "The Miami apartment collapse is a grim reminder of why engineering matters, and why comprehensive education in ethics should be embedded in the training of engineers.",
@@ -1119,49 +1171,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-in-d-identity-verification-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "IN-D Identity Verification Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "IN-D.ai customers will benefit from the scalability and reliability of the Azure cloud platform, with streamlined deployment and management. “Companies have found it tough to balance a seamless ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswireindia.com/in-d-identity-verification-now-available-in-the-microsoft-azure-marketplace-73975.html",
-      "originalUrl": "https://www.businesswireindia.com/in-d-identity-verification-now-available-in-the-microsoft-azure-marketplace-73975.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cms.businesswireindia.com/Uploads/companyLogo/INDLogo_14634.jpg",
-          "width": 1892,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswireindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

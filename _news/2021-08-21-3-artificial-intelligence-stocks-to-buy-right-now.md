@@ -8,9 +8,9 @@ webUrl: "https://www.nasdaq.com/articles/3-artificial-intelligence-stocks-to-buy
 ampWebUrl: "https://www.nasdaq.com/articles/3-artificial-intelligence-stocks-to-buy-right-now-2021-08-21?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-artificial-intelligence-stocks-to-buy-right-now-2021-08-21?amp"
 type: article
-quality: 69
-heat: -1
-published: false
+quality: 71
+heat: 81
+published: true
 
 provider:
   name: Nasdaq
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AWS AI
 
 related:
   - title: "Best Artificial Intelligence Stocks To Buy Right Now? 5 To Watch"

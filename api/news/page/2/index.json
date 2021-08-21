@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-20-amazon-taps-its-socialbot-challenge-to-boost-conversational-ai.md",
+      "title": "Amazon taps its SocialBot challenge to boost conversational AI",
+      "excerpt": "Amazon announced the winners of its annual Alexa Prize SocialBot Grand Challenge, which ​​promotes research into coherence, context awareness, fluency of re",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/19/amazon-taps-its-socialbot-challenge-to-boost-conversational-ai/",
+      "originalUrl": "https://venturebeat.com/2021/08/19/amazon-taps-its-socialbot-challenge-to-boost-conversational-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1150572105-e1629315992557.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/19/amazon-taps-its-socialbot-challenge-to-boost-conversational-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/19/amazon-taps-its-socialbot-challenge-to-boost-conversational-ai/amp/",
+      "publishedDateTime": "2021-08-19T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-19-cast-ai-eyes-a-hybrid-goldmine-cloud-cost-reduction.md",
       "title": "Cast AI Eyes A Hybrid Goldmine: Cloud Cost Reduction",
       "excerpt": "A major focus is on suppliers of cloud Kubernetes services, including Amazon EKS, Google GKS, Kubernetes Operation (Kops), and Microsoft’s Azure Kubernetes Services (AKS). The CAST AI engine does this by using Cloud Service Provider (CSP) accounts to ...",
@@ -146,40 +197,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-best-artificial-intelligence-stocks-to-buy-right-now-5-to-watch.md",
-      "title": "Best Artificial Intelligence Stocks To Buy Right Now? 5 To Watch",
-      "excerpt": "Top Artificial Intelligence Stocks To Watch Ahead Of September 2021. While investors are wondering why stocks are down this week, tech stocks could be worth noting. In particula",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/best-artificial-intelligence-stocks-to-buy-right-now-5-to-watch-2021-08-19",
-      "originalUrl": "https://www.nasdaq.com/articles/best-artificial-intelligence-stocks-to-buy-right-now-5-to-watch-2021-08-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/best-artificial-intelligence-stocks-to-buy-right-now-5-to-watch-2021-08-19?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/best-artificial-intelligence-stocks-to-buy-right-now-5-to-watch-2021-08-19?amp",
-      "publishedDateTime": "2021-08-19T08:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     },
@@ -400,7 +417,7 @@
       "originalUrl": "https://www.pcworld.com/article/3629402/intels-arc-gaming-gpu-price-specs-and-availability.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 204,
+      "heat": 194,
       "tags": null,
       "images": [
         {

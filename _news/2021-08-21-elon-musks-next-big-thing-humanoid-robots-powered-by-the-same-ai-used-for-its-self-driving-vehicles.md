@@ -1027,6 +1027,20 @@ related:
         width: 2048
         height: 1366
         isCached: true
+  - title: "Elon Musk plans to design humanoid robot to help with everyday chores"
+    excerpt: "\"It's basically going to start dealing with work that is boring, repetitive and dangerous,\" Musk said of the Tesla robot."
+    publishedDateTime: 2021-08-20T17:59:00Z
+    webUrl: "https://abc-7.com/cnn/cnn-tech/2021/08/20/elon-musk-plans-to-design-humanoid-robot-to-help-with-everyday-chores/"
+    type: article
+    provider:
+      name: ABC7
+      domain: abc-7.com
+    quality: 39
+    images:
+      - url: "https://abc-7.com/wp-content/uploads/2021/08/Bot.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Elon Musk's Ambitious Plan to Build a Self-Driving Tesla Has Just 1 Problem. It Doesn't Work"
     excerpt: "On the other hand, Tesla is the only company with a CEO that insists on marketing driver-assist technologies as \"full-self driving,\" even when the car can't drive itself. I know t"
     publishedDateTime: 2021-08-17T07:02:00Z

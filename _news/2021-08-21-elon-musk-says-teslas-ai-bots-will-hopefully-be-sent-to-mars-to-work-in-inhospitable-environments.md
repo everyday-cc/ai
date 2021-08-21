@@ -1018,6 +1018,20 @@ related:
         width: 2048
         height: 1366
         isCached: true
+  - title: "Elon Musk plans to design humanoid robot to help with everyday chores"
+    excerpt: "\"It's basically going to start dealing with work that is boring, repetitive and dangerous,\" Musk said of the Tesla robot."
+    publishedDateTime: 2021-08-20T17:59:00Z
+    webUrl: "https://abc-7.com/cnn/cnn-tech/2021/08/20/elon-musk-plans-to-design-humanoid-robot-to-help-with-everyday-chores/"
+    type: article
+    provider:
+      name: ABC7
+      domain: abc-7.com
+    quality: 39
+    images:
+      - url: "https://abc-7.com/wp-content/uploads/2021/08/Bot.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Elon Musk's Ambitious Plan to Build a Self-Driving Tesla Has Just 1 Problem. It Doesn't Work"
     excerpt: "On the other hand, Tesla is the only company with a CEO that insists on marketing driver-assist technologies as \"full-self driving,\" even when the car can't drive itself. I know t"
     publishedDateTime: 2021-08-17T07:02:00Z
@@ -1047,6 +1061,6 @@ related:
         height: 445
         isCached: true
 
-secured: "8rfkYq5VCCeH45o5T+rXGv1Z4sa7ys8zu7wQ9ljzeCpLGL5/fJW4ow4ljM9jP71Qk1Hh/dQPDdmUzLqvnLDXMjtfMBElEp7D0WjN/YiKMLdwsZGHXjM8Q++djI7WrANmFf9rSlmw2w7UAVo22/THWXY9aCOt5goZUwaPLlnKDnKyiFigk2u554lDwkJA/Eaf5F47X1YdVGwG5HhUZLedq/NeChVKeYn5I4t3caaMyaObODI4pxr7FXX0uvMHp19RgsFNMPIF1kSSfMfzlI+BoXTZoQbQcurypuH2EYP2RdZyVVvCZl07Hdecy5+UYrvVygNBTLDKz9avEnHcr6ri048M6cC59rRdQygzeAWXX2Q=;BCOg+ZfUqYVgYHeJKo+2zw=="
+secured: "L+VlXzv72pY2v0m1qZDIEtEu0mZTtwmvEtPet+NabsZNKRdnvwpAP26cZqLcjSpBLI5SmmNGRlvUzxpsCUniC48Qx0A7AphW9A7hOBLQsXkHRDqBcY0eX7VD6GiQ5CBoTqGs3SAx39QFtNutu3iEcGdBtf+5Tr9bWg01geskAiziHSjhCPya/ZU5Id2Cv87L6YK4nKSY9xJXcmKOZGcd/6iFlRNKZkX0oG+UDzhRTwVQvqANcnxzfjfiEuBZ+qDvZ9jcPT6Ss3W86/kXnWlW+FvbiJpog+1ENA3VB1J2aCv/qauB6SIsA+M6XnGjw5PMQ/tfxrNF7Yuw4A18YiPu8qEKI6EWW49/mbpf6/TY8weN6jH9gKihzI2VtluPLbm8I051VN47u0YmBws23XxU96oe6Mba70OzbvIm4acPlFHXHGHAjfIZQv4wqus+jXIzDsk1qk2gvzfaZU+pIZf5XHWuE3sTmF6KDmWGP7tW5lKh9BHZyPpa1Ol4ibwtrN/UKWPL5TVJmxllQdfpENUiew==;W1icoWgAv7tUnN50xtCeOw=="
 ---
 

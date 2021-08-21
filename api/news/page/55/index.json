@@ -2,6 +2,59 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2021-07-12-the-self-driving-race-between-elon-musks-tesla-and-dominos-pizza-robots.md",
+      "title": "The self-driving race between Elon Musk's Tesla and Domino's pizza robots",
+      "excerpt": "Elon Musk has talked up full self-driving for years, but missed many deadlines. Some are betting the big progress in autonomous vehicles: delivering pizza.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/07/10/self-driving-looking-less-like-elon-musk-more-dominos-pizza-robots.html",
+      "originalUrl": "https://www.cnbc.com/2021/07/10/self-driving-looking-less-like-elon-musk-more-dominos-pizza-robots.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106907169-1625602487443-rev1.jpg?v=1625667387",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/07/10/self-driving-looking-less-like-elon-musk-more-dominos-pizza-robots.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/10/self-driving-looking-less-like-elon-musk-more-dominos-pizza-robots.html",
+      "publishedDateTime": "2021-07-12T04:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-07-12-5-ai-startups-out-to-change-the-world.md",
       "title": "5 AI startups out to change the world",
       "excerpt": "Deep learning is solving challenging problems in industries as diverse as retail, manufacturing, and agriculture. These companies are leading the way.",
@@ -1107,57 +1160,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-10-spains-most-valuable-euro-2020-star-was-french-born-laporte-suggests-ai.md",
-      "title": "Spain’s Most Valuable Euro 2020 Star Was French-Born Laporte, Suggests AI",
-      "excerpt": "Now, after his chosen team exited at the semi-final stage of the competition, it seems he was Spain’s most valuable player. At least, that is according to Olocip, an artificial intelligence (AI) company founded by former Real Madrid playmaker Esteban Granero.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/henryflynn/2021/07/10/spains-most-valuable-euro-2020-star-was-french-born-laporte-suggests-ai/",
-      "originalUrl": "https://www.forbes.com/sites/henryflynn/2021/07/10/spains-most-valuable-euro-2020-star-was-french-born-laporte-suggests-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e8b794912627d521557395%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/henryflynn/2021/07/10/spains-most-valuable-euro-2020-star-was-french-born-laporte-suggests-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/henryflynn/2021/07/10/spains-most-valuable-euro-2020-star-was-french-born-laporte-suggests-ai/amp/",
-      "publishedDateTime": "2021-07-10T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

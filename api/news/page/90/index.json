@@ -2,6 +2,58 @@
   "page": 90,
   "value": [
     {
+      "path": "_news/2021-06-17-foundations-of-trustworthy-ai-operationalizing-trustworthy-ai.md",
+      "title": "Foundations of trustworthy AI: Operationalizing trustworthy AI",
+      "excerpt": "Industry focus on trustworthy AI is being driven by several forces — corporate social responsibility posture, concerns around reputational risk and a growing set of regulations. Organizations recognize that they need a systematic approach to ensure AI and machine learning can be trusted and operationalized.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/06/operationalizing-trustworthy-ai/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/06/operationalizing-trustworthy-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/06/blog_operationalize-ai_2000x1000.jpg",
+          "width": 2000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-16T22:00:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-17-tractable-becomes-worlds-first-computer-vision-unicorn-for-financial-services.md",
       "title": "Tractable becomes world's first computer vision unicorn for financial services",
       "excerpt": "The round doubles the total raised by Tractable from $55M to $115M and values the company at $1B – making it the world's first computer vision 'unicorn' for financial services. When drivers get into an accident,",
@@ -1111,49 +1163,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-bme-and-bbf-fintech-to-stage-sustainable-finance-hackathon.md",
-      "title": "BME and BBF Fintech to stage sustainable finance hackathon",
-      "excerpt": "The first hackathon focused on the fintech and insurtech world at an international level, concentrating on sustainable finance, will be hosted in Bilbao. The ‘Hack & Disrupt!’ event will take place on 25,",
-      "sourceUrl": null,
-      "webUrl": "https://fintechmagazine.com/technology-and-ai/bme-and-bbf-fintech-stage-sustainable-finance-hackathon",
-      "originalUrl": "https://fintechmagazine.com/technology-and-ai/bme-and-bbf-fintech-stage-sustainable-finance-hackathon",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fintechmagazine.com/sites/default/files/styles/ma/public/image/GettyImages-1205339069.jpg?itok=UKp6xhHf",
-          "width": 4096,
-          "height": 2160,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-16T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fintechmagazine",
-        "domain": "fintechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

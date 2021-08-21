@@ -1,31 +1,27 @@
 ---
 category: news
 title: "The Full Nerd ep. 188: Intel's 12th-gen Alder Lake and Arc GPU"
-excerpt: "You can read more about Alder Lake in Mark Hachman's story. The Full Nerd gang also talks about Intel's new Arc GPU, which breaks cover with hardware ray tracing support and AI-based upsampling to compete with Nvidia's DLSS 2.0. For more details ..."
-publishedDateTime: 2021-08-20T19:05:00Z
-originalUrl: "https://www.pcworld.com/article/3630515/the-full-nerd-ep-188-intels-12th-gen-alder-lake-and-arc-gpu.html"
-webUrl: "https://www.pcworld.com/article/3630515/the-full-nerd-ep-188-intels-12th-gen-alder-lake-and-arc-gpu.html"
+excerpt: "The Full Nerd crew discusses Intel's big reveal on its next-gen Alder Lake CPU and its first enthusiast gaming GPU In this episode of The Full Nerd, Gordon Ung, Alaina Yee, Mark Hachman and Adam Patrick Murray discuss Intel's big news on Alder Lake and its Arc GPU."
+publishedDateTime: 2021-08-21T15:33:00Z
+originalUrl: "https://www.goodgearguide.com.au/article/690699/full-nerd-ep-188-intel-12th-gen-alder-lake-arc-gpu/"
+webUrl: "https://www.goodgearguide.com.au/article/690699/full-nerd-ep-188-intel-12th-gen-alder-lake-arc-gpu/"
 type: article
-quality: 69
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: PC World
-  domain: pcworld.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Good Gear Guide
+  domain: goodgearguide.com.au
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://images.idgesg.net/images/article/2021/08/tfn21_188_tfnep188_v1-100900097-large.3x2.jpg?auto=webp"
-    width: 1200
-    height: 800
+  - url: "https://www.idgcdn.com.au/article/images/800x800/dimg/tfn21_188_tfnep188_v1-100900097-orig.jpgautowebp"
+    width: 800
+    height: 450
     isCached: true
 
 related:
@@ -44,22 +40,6 @@ related:
       - url: "https://images.idgesg.net/images/article/2019/03/intel-xe-gpu-tease-100791559-large.jpg?auto=webp"
         width: 1199
         height: 662
-        isCached: true
-  - title: "Intel Revealed A Lot More Than Just Its Arc Discrete GPU Branding Today"
-    excerpt: "Intel Arc will be the brand to do battle with NVIDIA’s GeForce and AMD’s Radeon graphics products when it arrives in Q1 2022."
-    publishedDateTime: 2021-08-16T22:22:00Z
-    webUrl: "https://www.forbes.com/sites/marcochiappetta/2021/08/16/intel-revealed-a-lot-more-than-just-its-arc-discrete-gpu-branding-today/"
-    ampWebUrl: "https://www.forbes.com/sites/marcochiappetta/2021/08/16/intel-revealed-a-lot-more-than-just-its-arc-discrete-gpu-branding-today/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcochiappetta/2021/08/16/intel-revealed-a-lot-more-than-just-its-arc-discrete-gpu-branding-today/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611ae287eea39eee2237481d%2F0x0.jpg"
-        width: 1200
-        height: 775
         isCached: true
   - title: "Intel Enters Dedicated GPU Market With Intel Arc: Will Be Available From Q1 2022"
     excerpt: "Though Intel makes both CPU and GPU, it is always widely recognized for making CPU. The company has now announced a sub-brand, dedicated to the graphics card -- Intel Arc. Under this initiation, the company will launch the first generation of dedicated graphics cards based on Xe HPG microarchitecture."
@@ -182,6 +162,6 @@ related:
         height: 630
         isCached: true
 
-secured: "K5UF3xt8PwJBTIaCUc1U4fEnvVGAAak8xgIwBLtoUN7MGsutmbppOhOK0xNwq8Xt7Du23BAW6RiodYB8c5lzc7feKYG9qUKayuvy386FWIU7vLuiA9Ym3dtzcikQsCsMt4U24pcjj1L9NDZWnN5DFpltI0/sBFvVgfvM3sSpS7b1qry1tE/BKvO5mk8U89Q4pgBJHYgCGDNyKQWHPBM4vaVEe+2xg/PGJVPzmzOA2dVFyvBkaemfpmPAmykJ2FdxhV0mTCG7yJeSGWfpS4xSzpBA3snWWX63rL6PwCRNqs+8sgE6KJKZrO5/e1LriofhtvuIpa+JRpLrXkZS/MTZq5Qk5IRHDgSbjntJ6/mpGZAmz4Oja1akNMnOCVFoeNrozgIBL4nvdN31qPwy+Ke+shRREOfY5Xx64h64IsJDtMIusWpV5vO1Pa676BDcPJofx74/FdeCe0CV+ux4VRM/YJt7UKuunrYjzgesqGRyQ6TIVr4IaOSArEK2DsVCQWV9PrdYI187EiWsjDpuo7yAeQ==;wT85BHiNBaCt4KAA7HOVtA=="
+secured: "9IWfZ40KzCoVrljJmOVC0izkA7I5B1/GWva6Wk/uFnBP5TTqDzf1b7a5+VNcyTrA9h5ueVb3alLdXadyJw3WYa/USHTz9By15SpKtdm9lvFXB6SGYcjpIWu2deYAPW5AzNeLFCFJNYWorw12kjdrzEG6qabFVL4qokm7+4zpFyZNyUxgVVm7s6KeL/d3Y9t1hY6W7+66ZVWsZnnBAXSaBXqGgdLZtR063hfH15JVWlyv5Nmgnz7eAm3WELk6AGK74tpe6RAmRWfqezmZXIo/x7rspCEplRpQngjpVHuodvkP4faMvpbMSbuu3ixrDx6bL12+3ROkdyxcH3NTCDuaFQGRadgbn2uvrwWU9v1Cyf0=;EYU9cDjDcsAyrigQOO7M+A=="
 ---
 

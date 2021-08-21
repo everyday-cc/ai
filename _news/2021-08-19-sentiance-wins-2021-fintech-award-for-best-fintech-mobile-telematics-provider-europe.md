@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Sentiance wins 2021 FinTech Award for \"Best FinTech Mobile Telematics Provider - Europe\""
-excerpt: "Sentiance, an intelligence-driven data science and behavior change company, is awarded the \"Best FinTech Mobile Telematics Provider – Europe \" award by Wealth & Finance International. The FinTech Awards by Wealth & Finance International recognize and spotlight creative innovation,"
+excerpt: "Sentiance, an intelligence-driven data science and behavior change company, is awarded the \"Best FinTech Mobile Telematics Provider – Europe\" award by Wealth & Finance International. The FinTech Awards by Wealth & Finance International recognize and spotlight creative innovation,"
 publishedDateTime: 2021-08-19T14:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/sentiance-wins-2021-fintech-award-for-best-fintech-mobile-telematics-provider-europe-1030745508"
-webUrl: "https://markets.businessinsider.com/news/stocks/sentiance-wins-2021-fintech-award-for-best-fintech-mobile-telematics-provider-europe-1030745508"
+originalUrl: "https://markets.businessinsider.com/news/stocks/sentiance-wins-2021-fintech-award-for-best-fintech-mobile-telematics-provider-europe-1030745487"
+webUrl: "https://markets.businessinsider.com/news/stocks/sentiance-wins-2021-fintech-award-for-best-fintech-mobile-telematics-provider-europe-1030745487"
 type: article
 quality: 45
 heat: 45
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Sentiance wins 2021 FinTech Award for “Best FinTech Mobile Telematics Provider"
+    excerpt: "Sentiance, an intelligence-driven data science and behavior change company, is awarded the “Best FinTech Mobile Telematics Provider – Europe” award by Wealth & Finance International. The FinTech Awards by Wealth & Finance International recognize and spotlight creative innovation,"
+    publishedDateTime: 2021-08-21T12:47:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_fintech-news-today/sentiance-wins-2021-fintech-award-for-best-fintech-mobile-telematics-provider/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 20
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/c119d8c99f89f291172bda0dc4833286.jpeg"
+        width: 400
+        height: 230
+        isCached: true
   - title: "Shield Named ‘Best Complete Communications Compliance Platform 2021’ by Wealth & Finance International FinTech Awards"
     excerpt: "Specialist RegTech provider Shield is proud to announce its platform has won the ‘Best Complete Communications Compliance Platform 2021’ category in the Wealth & Finance International FinTech Awards."
     publishedDateTime: 2021-08-17T14:21:00Z
@@ -44,6 +58,6 @@ related:
         height: 751
         isCached: true
 
-secured: "Om4P2oVObmWdeBlYVJX5rJwutEt0t73tL9/qwDlZ+eMUWadNW1hhnPfwa0PN9Z6QyYkFDw3SPgEO2uTM30lefrf9iV6QFioDSotE7cqw/x8ITlqke3gJcEQ2BJJJ7B9yxzobwBVnSbKDS+0E2BrKU+WawWcmfU1dghV7Yv2UuQANWKfB6gS/tcRw+91w00I3fCoGBB1e+SOoIc4hyQ7YF2R6dJT2tIohh78WmWrpVTiZXYtMxMQo4OIZJV0yTgojXkccnk/SUKROP6rsHohlWQhf9r9RiRT/jCxCLsf14CQThw7qnz6JXiMK0TulvWtaIp8DgQfgD8Cl6DJwdQbfHymqvWBAGln6LOuwi4aU18xx7k80xDcYpr6CvvyhYF6H7vAVdXHHl60bsEb7+nt9EYETZcwZX1u/zAI0DfjsAXZ5+FX6akZh12V0Y2ua3t8XcWYh9TYaAMy55pyWo9Trp/4luWcoCWWwKU/glgOS1hgwTrgbZhLFYY8txyoMkrEKyZ1I/kcRxUZEP5woi/eRwA==;NgRVbf7aqyf4xUQ95ieq1Q=="
+secured: "ek3PcG7jV1CANKkoQyfnQe0nonTajndi+2YRIWbKqy0Wme/FfLFkTHzRaf93lrW284qNURgClDtid2i+NZBQh2zFp/hn1y4DofRA/3SPjLUEcP7tjK2uQuZiESC9PZHYv8xs+9EOBiIKoUk6/mODYQETtLqGAUcu20xebqmkya5oEaZM3onITkW4/2gQMrieyVhmYXiiXEo3xySQcV4pEjmOOJXDQmS/QArs4P3bc1iAs2LlHn/jdV8xJ/CsJpcQL9EDGRWpwfEoUb+gyqml/KEEbDYL3522fnv1b/mH04UP4v8UkrQTNGYniUV+gjZyuomskh8gNWMuOl9LII9T9gxPPCS+5S6tw4B1z+n/SfE=;5SQvP0eHGdsWt4nlKB1Z6A=="
 ---
 

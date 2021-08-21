@@ -286,6 +286,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-06-tech-moguls-declare-era-of-artificial-intelligence.md",
+      "title": "Tech moguls declare era of artificial intelligence",
+      "excerpt": "Artificial intelligence and machine learning will create computers ... The technology will spread to driverless cars and service robots in the future, the Bank of America report said. Sundar Pichai, chief executive of Alphabet Inc's Google, said he sees ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dnaindia.com/technology/report-tech-moguls-declare-era-of-artificial-intelligence-2219803",
+      "originalUrl": "https://www.dnaindia.com/technology/report-tech-moguls-declare-era-of-artificial-intelligence-2219803",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2016/06/04/467805-elon-musk-2015-business-economy-event-finance-and-economy-headshot-launch-event-talking-tesla-model-x-transportation-usa-getty-images.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DNA India",
+        "domain": "dnaindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-06-brainchip-demonstrates-that-intelligent-ai-is-everywhere-at-ai-hardware-summit-2021.md",
       "title": "BrainChip Demonstrates that Intelligent AI is Everywhere at AI Hardware Summit 2021",
       "excerpt": "BrainChip Holdings Ltd (ASX: BRN), (OTCQX: BRCHF), a leading provider of ultra-low power high performance artificial intelligence technology, today announced that Rob Telson, VP Worldwide Sales and Marketing,",
@@ -1056,49 +1099,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-knowles-releases-ai-enabled-tws-development-kit-with-premium-features.md",
-      "title": "Knowles Releases AI-Enabled TWS Development Kit with Premium Features",
-      "excerpt": "New TWS development kit shortens design cycle for OEMs and accelerates timeline to bring TWS products with advanced features to market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.twice.com/the-wire/knowles-releases-ai-enabled-tws-development-kit-with-premium-features",
-      "originalUrl": "https://www.twice.com/the-wire/knowles-releases-ai-enabled-tws-development-kit-with-premium-features",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.twice.com/wp-content/uploads/2021/08/TWS-Development-Kit.png",
-          "width": 986,
-          "height": 645,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.twice.com/the-wire/knowles-releases-ai-enabled-tws-development-kit-with-premium-features?amp",
-      "cdnAmpWebUrl": "https://www-twice-com.cdn.ampproject.org/c/s/www.twice.com/the-wire/knowles-releases-ai-enabled-tws-development-kit-with-premium-features?amp",
-      "publishedDateTime": "2021-08-05T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Twice",
-        "domain": "twice.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

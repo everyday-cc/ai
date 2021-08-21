@@ -2,6 +2,49 @@
   "page": 88,
   "value": [
     {
+      "path": "_news/2021-06-18-robotics-outlook-2030-how-intelligence-and-mobility-will-shape-the-future.md",
+      "title": "Robotics Outlook 2030: How Intelligence and Mobility Will Shape the Future",
+      "excerpt": "Established robotics companies must counter startups that are innovating in areas with the potential to generate high profits and alter the dimensions of the industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bcg.com/publications/2021/how-intelligence-and-mobility-will-shape-the-future-of-the-robotics-industry",
+      "originalUrl": "https://www.bcg.com/publications/2021/how-intelligence-and-mobility-will-shape-the-future-of-the-robotics-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://web-assets.bcg.com/dims4/default/acbc354/2147483647/strip/true/crop/2880x1512+0+15/resize/1200x630!/quality/90/?url=http%3A%2F%2Fboston-consulting-group-brightspot.s3.amazonaws.com%2Faa%2F24%2F2f1131ee44a0906f0cc4122a3b7d%2Frobotics-outlook-2030-how-intelligence-and-mobility-will-shape-the-future-rectangle.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-17T16:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BCG",
+        "domain": "bcg.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-18-what-googles-ai-designed-chip-tells-us-about-the-nature-of-intelligence.md",
       "title": "What Google’s AI-designed chip tells us about the nature of intelligence",
       "excerpt": "Google Brain scientists published in Nature a deep reinforcement learning technique for floorplanning, or arranging components on chips.",
@@ -1153,48 +1196,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-google-shrinks-health-team-reassigns-130-workers-5-things-to-know.md",
-      "title": "Google shrinks health team; reassigns 130 workers: 5 things to know",
-      "excerpt": "Google is moving more than 130 employees within its health division into other areas of the company including Search and the newly-acquired Fitbit group, according to a June 17 Insider report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/google-strikes-deal-with-hospital-chain-to-develop-healthcare-algorithms-11622030401",
-      "originalUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/google-shrinks-health-team-reassigns-130-workers-5-things-to-know.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-343511/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/google-strikes-deal-with-hospital-chain-to-develop-healthcare-algorithms-11622030401",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/google-strikes-deal-with-hospital-chain-to-develop-healthcare-algorithms-11622030401",
-      "publishedDateTime": "2021-06-17T07:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

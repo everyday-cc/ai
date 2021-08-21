@@ -2,6 +2,49 @@
   "page": 77,
   "value": [
     {
+      "path": "_news/2021-06-25-facial-recognition-use-by-liberals-raises-issues-says-bcs-privacy-commissioner.md",
+      "title": "Facial recognition use by Liberals raises issues, says B.C.'s privacy commissioner",
+      "excerpt": "British Columbia's information and privacy commissioner says he's considering launching an investigation into the use of facial recognition technology by the Liberal Party of Canada.",
+      "sourceUrl": null,
+      "webUrl": "https://bc.ctvnews.ca/facial-recognition-use-by-liberals-raises-issues-says-b-c-s-privacy-commissioner-1.5484881",
+      "originalUrl": "https://bc.ctvnews.ca/facial-recognition-use-by-liberals-raises-issues-says-b-c-s-privacy-commissioner-1.5484881",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/local/british-columbia/2021/6/24/1_5484881/_jcr_content/root/responsivegrid/image.coreimg.jpg",
+          "width": 1020,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://beta.ctvnews.ca/local/british-columbia/2021/6/24/1_5484881.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/british-columbia/2021/6/24/1_5484881.html",
+      "publishedDateTime": "2021-06-24T17:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-25-artificial-intelligence-and-how-it-affects-every-day-operations.md",
       "title": "Artificial intelligence and how it affects every day operations",
       "excerpt": "With rapid development of innovative technological solutions, Artificial intelligence (AI ... AI companies are enabling autonomous self-driving cars. These vehicles are equipped with sensors ...",
@@ -1124,49 +1167,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-modular-robotics-market-provides-detailed-insight-by-trends-challenges-opportunities-and-competitive-analysis.md",
-      "title": "Modular Robotics Market Provides Detailed Insight by Trends, Challenges, Opportunities, and Competitive Analysis",
-      "excerpt": "From 9 32 trillion in 2009 the manufacturing output value added rose sharply to 13 672 trillion in 2019 as per the World Bank This reflects both the burgeoning demand for every type of product on account of the booming",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2313241/modular-robotics-market-provides-detailed-insight-by-trends",
-      "originalUrl": "https://www.openpr.com/news/2313241/modular-robotics-market-provides-detailed-insight-by-trends",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/6/U624416484_g.jpg",
-          "width": 800,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2313241/modular-robotics-market-provides-detailed-insight-by-trends",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2313241/modular-robotics-market-provides-detailed-insight-by-trends",
-      "publishedDateTime": "2021-06-24T07:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

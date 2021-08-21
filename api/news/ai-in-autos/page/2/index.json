@@ -648,6 +648,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-06-tech-moguls-declare-era-of-artificial-intelligence.md",
+      "title": "Tech moguls declare era of artificial intelligence",
+      "excerpt": "Artificial intelligence and machine learning will create computers ... The technology will spread to driverless cars and service robots in the future, the Bank of America report said. Sundar Pichai, chief executive of Alphabet Inc's Google, said he sees ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dnaindia.com/technology/report-tech-moguls-declare-era-of-artificial-intelligence-2219803",
+      "originalUrl": "https://www.dnaindia.com/technology/report-tech-moguls-declare-era-of-artificial-intelligence-2219803",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2016/06/04/467805-elon-musk-2015-business-economy-event-finance-and-economy-headshot-launch-event-talking-tesla-model-x-transportation-usa-getty-images.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DNA India",
+        "domain": "dnaindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-06-li-auto-owner-tricks-his-vehicle-into-performing-reckless-full-self-driving.md",
       "title": "Li Auto owner tricks his vehicle into performing reckless full self-driving",
       "excerpt": "Footage of a man recklessly driving his Li Auto ONE SUV has gone viral in China after he tricked his SUV into \"full self-driving\" mode.",
@@ -1279,50 +1322,6 @@
       "topics": [
         "IBM AI",
         "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-07-31-artificial-intelligence-wants-you-and-your-job.md",
-      "title": "Artificial Intelligence Wants You and Your Job",
-      "excerpt": "The artificial intelligence (AI) behind the soothing voice telling us where to turn has replaced passenger-seat navigators, maps, even traffic updates on the radio. How on earth did we survive before this technology arrived in our lives?",
-      "sourceUrl": null,
-      "webUrl": "https://www.fairobserver.com/region/north_america/john-feffer-artificial-intelligence-ai-news-technology-tech-world-news-32892/",
-      "originalUrl": "https://www.fairobserver.com/region/north_america/john-feffer-artificial-intelligence-ai-news-technology-tech-world-news-32892/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.fairobserver.com/wp-content/uploads/2021/07/Artificial-intelligence-news-1.jpg",
-          "width": 1800,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fairobserver.com/region/north_america/john-feffer-artificial-intelligence-ai-news-technology-tech-world-news-32892/amp/",
-      "cdnAmpWebUrl": "https://www-fairobserver-com.cdn.ampproject.org/c/s/www.fairobserver.com/region/north_america/john-feffer-artificial-intelligence-ai-news-technology-tech-world-news-32892/amp/",
-      "publishedDateTime": "2021-07-31T04:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fair Observer",
-        "domain": "fairobserver.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
         "AI in Autos"
       ]
     }

@@ -2,6 +2,40 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-08-02-uae-in-top-10-globally-for-readiness-to-accommodate-driverless-vehicles.md",
+      "title": "UAE in top 10 globally for readiness to accommodate driverless vehicles",
+      "excerpt": "The United Arab Emirates is among the top 10 countries in the world when it comes to readiness to accommodate driverless vehicles, revealed KPMG’s Autonomous Vehicles Readiness Index (AVRI).. UAE in top 10 globally for readiness to accommodate driverless vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.logisticsmiddleeast.com/transport/article-13789-uae-in-top-10-globally-for-readiness-to-accommodate-driverless-vehicles",
+      "originalUrl": "https://www.logisticsmiddleeast.com/transport/article-13789-uae-in-top-10-globally-for-readiness-to-accommodate-driverless-vehicles",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-02T05:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Logistics Middle East",
+        "domain": "logisticsmiddleeast.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-02-a-new-kind-of-help-for-healthcare-where-proven-science-and-new-technology-merge.md",
       "title": "A New Kind Of Help For Healthcare: Where Proven Science And New Technology Merge",
       "excerpt": "Digital therapeutic products derived from best practices and new insights from machine learning offer a key opportunity that has yet to be realized: optimal effective treatment of patients with common conditions that are difficult to control.",
@@ -50,6 +84,49 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-02-hoth-therapeutics-initiates-preclinical-study-of-ht-alz-for-alzheimers-disease.md",
+      "title": "Hoth Therapeutics Initiates Preclinical Study of HT-ALZ for Alzheimer's Disease",
+      "excerpt": "To evaluate other forms of memory, we will also determine if chronic HT-ALZ treatment influences non-spatial memory using a novel object recognition and novel object location task. These tests ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-19930013.html",
+      "originalUrl": "https://www.lelezard.com/en/news-19930013.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/health.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-02T05:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -381,40 +458,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-hoth-therapeutics-initiates-preclinical-study-of-ht-alz-for-alzheimers-disease.md",
-      "title": "Hoth Therapeutics Initiates Preclinical Study of HT-ALZ for Alzheimer's Disease",
-      "excerpt": "To evaluate other forms of memory, we will also determine if chronic HT-ALZ treatment influences non-spatial memory using a novel object recognition and novel object location task. These tests ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/08/n22272652/hoth-therapeutics-initiates-preclinical-study-of-ht-alz-for-alzheimers-disease",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/08/n22272652/hoth-therapeutics-initiates-preclinical-study-of-ht-alz-for-alzheimers-disease",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/22272652",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22272652",
-      "publishedDateTime": "2021-08-02T01:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1116,50 +1159,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-01-azure-machine-learning-service.md",
-      "title": "AZURE MACHINE LEARNING SERVICE",
-      "excerpt": "Accenture will have all of its consultants in the next two years adopt the new model of data-focused storytelling that is built on data, machine learning models and visualisation for specific sectors and industries. This is a time of deep reflection for ...",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/topic/Azure-Machine-Learning-Service",
-      "originalUrl": "https://economictimes.indiatimes.com/topic/Azure-Machine-Learning-Service",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.etimg.com/thumb/height-270,width-360,imgsize-,msid-85288177/.jpg",
-          "width": 360,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/topic/Azure-Machine-Learning-Service/amp",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/topic/Azure-Machine-Learning-Service/amp",
-      "publishedDateTime": "2021-07-31T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

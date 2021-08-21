@@ -85,20 +85,6 @@ related:
         width: 621
         height: 369
         isCached: true
-  - title: "Deploy multiple serving containers on a single instance using Amazon SageMaker multi-container endpoints"
-    excerpt: "Amazon SageMaker is a fully managed service that enables developers and data scientists to quickly and easily build, train, and deploy machine learning (ML) models built on different frameworks. SageMaker real-time inference endpoints are fully managed and can serve predictions in real time with low"
-    publishedDateTime: 2021-08-16T21:07:33Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/deploy-multiple-serving-containers-on-a-single-instance-using-amazon-sagemaker-multi-container-endpoints/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 87
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/06/ml-2800-img1-1089x630.png"
-        width: 1089
-        height: 630
-        isCached: true
   - title: "Migrate your work to an Amazon SageMaker notebook instance with Amazon Linux 2"
     excerpt: "Amazon SageMaker notebook instances now support Amazon Linux 2, so you can now create a new Amazon SageMaker notebook instance to start developing your machine learning (ML) models with the latest updates. An obvious question is: what do I need to do to migrate my work from an existing notebook instance"
     publishedDateTime: 2021-08-18T22:36:58Z

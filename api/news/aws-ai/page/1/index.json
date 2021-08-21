@@ -2,22 +2,22 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-08-19-best-artificial-intelligence-stocks-to-buy-right-now-5-to-watch.md",
-      "title": "Best Artificial Intelligence Stocks To Buy Right Now? 5 To Watch",
-      "excerpt": "Top Artificial Intelligence Stocks To Watch Ahead Of September 2021. While investors are wondering why stocks are down this week, tech stocks could be worth noting. In particula",
+      "path": "_news/2021-08-21-3-artificial-intelligence-stocks-to-buy-right-now.md",
+      "title": "3 Artificial Intelligence Stocks to Buy Right Now",
+      "excerpt": "But tech companies are still just getting started with AI, which means that there's still plenty of opportunities for investors to benefit from artificial intelligence for years to come. If you're looking for some top artificial intelligence stocks to buy right now,",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/best-artificial-intelligence-stocks-to-buy-right-now-5-to-watch-2021-08-19",
-      "originalUrl": "https://www.nasdaq.com/articles/best-artificial-intelligence-stocks-to-buy-right-now-5-to-watch-2021-08-19",
+      "webUrl": "https://www.nasdaq.com/articles/3-artificial-intelligence-stocks-to-buy-right-now-2021-08-21?time=1629546902",
+      "originalUrl": "https://www.nasdaq.com/articles/3-artificial-intelligence-stocks-to-buy-right-now-2021-08-21?time=1629546902",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 81,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/best-artificial-intelligence-stocks-to-buy-right-now-5-to-watch-2021-08-19?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/best-artificial-intelligence-stocks-to-buy-right-now-5-to-watch-2021-08-19?amp",
-      "publishedDateTime": "2021-08-19T08:56:00-07:00",
+      "ampWebUrl": "https://www.nasdaq.com/articles/3-artificial-intelligence-stocks-to-buy-right-now-2021-08-21?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-artificial-intelligence-stocks-to-buy-right-now-2021-08-21?amp",
+      "publishedDateTime": "2021-08-21T04:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Nasdaq",
@@ -31,8 +31,9 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
-        "AI"
+        "AI in Robotics",
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -44,7 +45,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-notebook-instance-now-supports-amazon-linux-2/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 149,
       "tags": null,
       "images": [
         {
