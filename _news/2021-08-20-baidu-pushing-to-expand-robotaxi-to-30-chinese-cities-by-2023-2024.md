@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextbigfuture.com/2021/08/baidu-pushing-to-expand-robota
 cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/08/baidu-pushing-to-expand-robotaxi-to-30-chinese-cities-by-2023-2024.html"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla Bot, Genesis G90, Baidu Robotaxi: Today's Car News"
+    excerpt: "A redesigned Genesis G90 boasting a new platform and possibly an electric powertrain is coming up shortly. A prototype has been spotted at the Nürburgring and we have fresh spy shots and video. Baidu says it is ready to move from technical verification to large-scale commercial operation of self-driving cars."
+    publishedDateTime: 2021-08-20T15:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1133305_tesla-bot-genesis-g90-baidu-robotaxi-today-s-car-news"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 54
+    images:
+      - url: "https://images.hgmsites.net/hug/2022-genesis-g90-spy-shots--photo-credits-baldauf-sb-medien_100802815_h.jpg"
+        width: 1920
+        height: 1174
+        isCached: true
   - title: "The head of quantum computing at Chinese search giant Baidu explains how the tech will play a 'key role' in making AI more powerful"
     excerpt: "China is investing heavily in quantum computing, and the race is on for giants like Baidu, Alibaba, and Tencent. Baidu is focusing on using it for AI."
     publishedDateTime: 2021-08-19T13:30:00Z

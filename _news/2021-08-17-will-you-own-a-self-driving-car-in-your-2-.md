@@ -7,7 +7,7 @@ originalUrl: "https://www.morningstar.com/news/marketwatch/2021081720/will-you-o
 webUrl: "https://www.morningstar.com/news/marketwatch/2021081720/will-you-own-a-self-driving-car-in-your-2"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "Self-Driving Robocar Will Be Your Personal Assistant, Doesn't Need a Steering Wheel"
+    excerpt: "Baidu, the Chinese tech giant, has recently revealed the robocar, a vehicle with no steering wheel and automatic gull-wing doors that is said to be capable of level 5 autonomy. In addition to the robocar,"
+    publishedDateTime: 2021-08-21T00:55:00Z
+    webUrl: "https://www.autoevolution.com/news/self-driving-robocar-will-be-your-personal-assistant-doesn-t-need-a-steering-wheel-167781.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 18
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/self-driving-robocar-will-be-your-personal-assistant-doesn-t-need-a-steering-wheel-167781-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
 
 secured: "dXZOILHY4D8VaO+ByLCbrbkMkZuGQjv0y1WpJPOgJxYDXPDo+COTsrFQKaqLXinkUpZpn/HMUEQbNpg9wL9dY0Zcenj/0K4A466Cubomqt5wGtnp33DV19u0hTaXxtrvjp4fYRXrFM1fGL1TTsTaVct+4Une+Y8y07QlmB49BM+enVCdmd45v/kLMozFHiFERh65hUOeuMh+7YHZL43rwG1URVinQUVU/6i0kbeZLtL0VxbkNGQ5EtUazwrlOnfDYBgcZBbRD4EcnC6Eock8MYNS4F/j9DtPOBZ9Z8DJABoSqV8i7tif5J87x0qRsiem4yFlGwYtoViLO88l4iBaa7vfEEut4MlX8CVoYHRNYPc=;kYl+xgzcC39IDHkAaUotzQ=="
 ---

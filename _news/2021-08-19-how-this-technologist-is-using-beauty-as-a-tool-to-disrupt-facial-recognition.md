@@ -7,7 +7,7 @@ originalUrl: "https://mashable.com/video/how-to-disrupt-surveillance-facial-reco
 webUrl: "https://mashable.com/video/how-to-disrupt-surveillance-facial-recognition-tech"
 type: article
 quality: 66
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -55,15 +55,6 @@ related:
         width: 2247
         height: 1498
         isCached: true
-  - title: "Can a Covid-19 face mask protect you from facial recognition technology too?"
-    excerpt: "Our relationship with ‘public space’ is being redefined, not just by a global pandemic, but also by a new era of biometric surveillance technologies."
-    publishedDateTime: 2021-08-16T10:27:00Z
-    webUrl: "https://privacyinternational.org/news-analysis/4511/can-covid-19-face-mask-protect-you-facial-recognition-technology-too"
-    type: article
-    provider:
-      name: Privacy International
-      domain: privacyinternational.org
-    quality: 16
 
 secured: "+pieaNBejiVwpS6MEbsVr83xzKpTA6cABjf5VsTx3+M9FQs7m2cT/k0cwdzCKEsR2OguXjf6PXWL165QkKb+TGBlPpgQhmUf/RrIw24wBaopX9kx14/PLeiSLOTiR6Vvlm1X2G07xQbJ+mly9D6l+qlm3cjYsQtDELoZI2XdZdnDL8uz0QRcUeDuyGcXLz5dqCLwhMO9wGNmhJUBIbBzENXup8vWGMq3UV052o2SA+MKNpKyIsjWtpWQaoVjmcD/qnVpzLYqeHwwsAH2odM7JUeJH/Y4pnuoBOp7cu0ShxiaL5Dc1GvUXTBYz9gqwuE3rqHCmMCw3jHlMsdmuTe7//T2l428RBgr4CNXzIQCUgkQ0n/b8BLD5qldsNtTSblJ1W61979DCDt/z0h6gh3rIXBvX6S7KcR/gioXHyQtjVaiPJi0vHYSV4v010+lCX9BhzcMx4cqbPV3G5Tlc4qdgKlZyuwK4dIg30tzslqfaWTFP51mb4/m58PU8X3vHGY7zz+d/a09xYzs+sOkSbIKyg==;KhKB7ec00XoYPdW4F+fvCQ=="
 ---

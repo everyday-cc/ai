@@ -23,18 +23,15 @@ topics:
 related:
   - title: "Next therapy for Covid maybe be at your local pharmacy"
     excerpt: "Several drugs that are already in use for other purposes, including one dietary supplement, have shown to block or reduce infection by SARS-CoV2, the virus causing Covid-19, in cells, researchers have found."
-    publishedDateTime: 2021-08-20T09:12:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=865021"
+    publishedDateTime: 2021-08-20T06:10:00Z
+    webUrl: "https://www.sify.com/news/next-therapy-for-covid-maybe-be-at-your-local-pharmacy-news-international-viugkeiacdhij.html"
+    ampWebUrl: "https://www.sify.com/news/next-therapy-for-covid-maybe-be-at-your-local-pharmacy-news-international-viugkeiacdhij.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/next-therapy-for-covid-maybe-be-at-your-local-pharmacy-news-international-viugkeiacdhij.html"
     type: article
     provider:
-      name: Daijiworld
-      domain: daijiworld.com
+      name: Sify.com
+      domain: sify.com
     quality: 39
-    images:
-      - url: "http://www.daijiworld.in/images3/plywood_082021_1.jpg"
-        width: 580
-        height: 386
-        isCached: true
 
 secured: "BaVNVYGCgxKBqVAX4KG6I91tImrcQe7TcHSEjCt4DvOHXqAGDRScw/5eq1Ssa5z39Sfx948Xvq98H7f08PCs/NodbCPYZlTEEY6MYKApirqeccAr5QWWu/qPT+QLzzzmpj1K+ngas/Cv25CP1MykbJi/HcWbz3bjdTqijC0jiHnlG5zUJYU2AV/1zYcnBhXm8M4+jYUlo5x3WKoAmThkPhWdo2/9s0gyd5ZO3iZRlc3NS3E28gd7plYpXD7zHTJTUkM9CaXcI66j71x+rJ8VE3aJZpdT1EWPzWG3xQKxWP+Q0l8MXPdoivllacu23kVA4FgXjWG+sLrFu/rTBmZUs9sJUEGVSZVuWADy8T9rJrM=;drIEn/PH2oNRx80ASDWrkw=="
 ---

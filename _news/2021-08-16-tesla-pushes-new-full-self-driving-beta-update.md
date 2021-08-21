@@ -131,6 +131,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla Sells ‘Full Self-Driving,’ but What Is It Really?"
+    excerpt: "Over the years, Tesla owners have paid as much as $10,000 for the package, called Full Self-Driving. F.S.D., which can be purchased as an extra on Tesla cars, is a collection of services that add to Tesla’s Autopilot, the driver-assistance technology ..."
+    publishedDateTime: 2021-08-20T15:29:00Z
+    webUrl: "https://www.nytimes.com/2021/08/20/technology/tesla-full-self-driving-fsd.html"
+    ampWebUrl: "https://www.nytimes.com/2021/08/20/technology/tesla-full-self-driving-fsd.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/20/technology/tesla-full-self-driving-fsd.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 89
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/30/business/00tesla-tech1/00tesla-tech1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "U.S. senators urge FTC to probe Tesla over self-driving claims"
     excerpt: "A logo of the electric vehicle maker Tesla is seen near a shopping complex in Beijing, China January 5, 2021. REUTERS/Tingshu Wang"
     publishedDateTime: 2021-08-18T15:19:00Z

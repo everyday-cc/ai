@@ -66,20 +66,6 @@ related:
         width: 1200
         height: 1200
         isCached: true
-  - title: "Microsoft Renames Its Azure for FHIR API to Azure Healthcare APIs"
-    excerpt: "Microsoft announced the renaming of its Cloud for Healthcare’s Azure API for Fast Healthcare Interoperability Resource (FHIR) to “Azure Healthcare APIs.” In addition to the renaming of the APIs, the company also expands support for healthcare data to include patient health data via FHIR,"
-    publishedDateTime: 2021-08-16T10:52:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_microsoft/microsoft-renames-its-azure-for-fhir-api-to-azure-healthcare-apis/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 71
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/12344a12-b9b7-4c8f-b165-6afb4b7b3af8.png"
-        width: 1024
-        height: 478
-        isCached: true
   - title: "Microsoft launches Azure Government Top Secret for US national security contracts"
     excerpt: "Microsoft has made 'Azure Government Top Secret' generally available, and can now bid for US government contracts with top-secret data hosting requirements. The company has long offered 'Government' and 'Government Secret' services,"
     publishedDateTime: 2021-08-17T12:29:00Z

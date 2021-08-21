@@ -53,6 +53,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 67
+  - title: "The Artistic Side of Artificial Intelligence (AI)"
+    excerpt: "Move over selfie, artificial intelligence (AI) might just be creating your world-class portrait. Meet Patrick Tresset, a London-based artist. His art practice follows two main paths. On one hand, Tresset presents theatrical installations in which robotic agents are actors."
+    publishedDateTime: 2021-08-21T03:03:00Z
+    webUrl: "https://www.bbntimes.com/society/the-artistic-side-of-artificial-intelligence-ai"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 52
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/The_Artistic_Side_of_Artificial_Intelligence_AI.jpg"
+        width: 1200
+        height: 872
+        isCached: true
 
 secured: "tNPg1XC891CJBlTNxLOQAC8Cyo7ARiZTaJMk3peiAIsYJGM5PbfpMPHs6xG4K9E2A48H5mDYFMmelBT4W0cwKFo2UnGlNqwfLGgGC09jX46A/W1GiISxk78xNCAgtly9cQYaVzUFzcWUKry9NzLNqaLrnkdaX6HJa3f5ZweyCqlG912BQ9SYfbHEp8/I1NDT0GH2Q3px/PO2VtSVeJFDbK3h8X2Pyr2OmMiAMjN+oAkUpCmLcThWAPAdZ3WwV8KMTpdgHp8aQ1ou302rBLymgpG4ylRfa7KqTB96N3vLfaSxxIVwFPrXLHyp/OQEBJU/fl+cgAnLBHI6J9XzZNHVSzxZnVgzedS6CFdf0UqDXOm+eSdpsYboFOiH8sQkVAPWTuPnFFspWdVIlrGkCBYFaoOZg/wQI16JhGjwiIaZj029yC9wxQD94MZgQ5iCPEKfkIkH0TwZ6wtN5dqvwdNAA6IpvSyTc8eV0qU71YK6tWpkgp6y9G2z21fB8SjF3jZfQRSYnlWD8i/0OcpW1jw8OA==;BU/vp0UPF/uWEBXydm9TNA=="
 ---

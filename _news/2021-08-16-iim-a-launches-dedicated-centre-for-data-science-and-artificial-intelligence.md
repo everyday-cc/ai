@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/education/news/iim-a-launches-dedicated-cen
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/education/news/iim-a-launches-dedicated-centre-for-data-science-and-artificial-intelligence/amp-11629113784537.html"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 124
+published: true
 
 provider:
   name: Mint
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "IIM Ahmedabad Launches Centre for Data Science and Artificial Intelligence"
-    excerpt: "Ahmedabad has launched the Brij Disa Centre for Data Science and Artificial Intelligence (CDSA) to enable research in the field."
-    publishedDateTime: 2021-08-16T10:51:00Z
-    webUrl: "https://www.news18.com/news/education-career/iim-ahmedabad-launches-centre-for-data-science-and-artificial-intelligence-4091990.html"
-    ampWebUrl: "https://www.news18.com/amp/news/education-career/iim-ahmedabad-launches-centre-for-data-science-and-artificial-intelligence-4091990.html"
-    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/iim-ahmedabad-launches-centre-for-data-science-and-artificial-intelligence-4091990.html"
-    type: article
-    provider:
-      name: CNN-News18
-      domain: news18.com
-    quality: 55
-    images:
-      - url: "https://images.news18.com/ibnlive/uploads/2021/08/iim-ahmedabad-162911098716x9.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "IIM-Ahmedabad launches new centre for data science and artificial intelligence"
     excerpt: "The centre will also take up challenging consulting projects of considerable practical importance in collaboration with industry players."
     publishedDateTime: 2021-08-17T03:47:00Z
@@ -128,6 +112,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "UGA launches major hiring initiative in data science and artificial intelligence"
+    excerpt: "As data science and artificial intelligence transform a range of fields, the University of Georgia is making a significant investment in faculty with expertise in using big data to address some of society’s most urgent challenges."
+    publishedDateTime: 2021-08-16T22:10:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/925422"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 14
 
 secured: "tQWoNxiirzYSPaDYJLYGocDObtLx4m7xe6ufDTfQdyJ/YjgEU+LF1QXI9IMpPiv/rClkG4ijGiaCWx2D3ZUnxaK3hc+hTPDRRi/JGkm9NUQMNBXTYsCMWod9rYcgUuzzjTK6mmRjttkWqqTzTIO99rRhHIdebq0VF5uV5fvHU7TDNtl/PKFB3touF3n6J1aBUspF4xn+OvxZvbTm00QxkextzCMm9UfxbqzRmYJ7HJXKZ7rJiW8T9xT6A+Sevusv68ZvFsEfq2vdUxOV86ejmZh0pzCAOGuqwOnW0FJV5CQPp4Khswcj6EszsgcIRQc28GvABoqflNzPkkVG0sG/YYuVnqtgl8qLSyZCdjncXPw=;GhIoM0ubT/rci3EmsiAopg=="
 ---

@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "IIM Ahmedabad Launches Centre for Data Science and Artificial Intelligence"
-    excerpt: "Ahmedabad has launched the Brij Disa Centre for Data Science and Artificial Intelligence (CDSA) to enable research in the field."
-    publishedDateTime: 2021-08-16T10:51:00Z
-    webUrl: "https://www.news18.com/news/education-career/iim-ahmedabad-launches-centre-for-data-science-and-artificial-intelligence-4091990.html"
-    ampWebUrl: "https://www.news18.com/amp/news/education-career/iim-ahmedabad-launches-centre-for-data-science-and-artificial-intelligence-4091990.html"
-    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/iim-ahmedabad-launches-centre-for-data-science-and-artificial-intelligence-4091990.html"
-    type: article
-    provider:
-      name: CNN-News18
-      domain: news18.com
-    quality: 55
-    images:
-      - url: "https://images.news18.com/ibnlive/uploads/2021/08/iim-ahmedabad-162911098716x9.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "IIM A launches dedicated centre for Data Science and Artificial Intelligence"
     excerpt: "The centre will also take up challenging consulting projects of considerable practical importance in collaboration with industry players. One of the major highlights of the centre is an exhaustive ann"
     publishedDateTime: 2021-08-16T11:49:00Z
@@ -128,6 +112,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "UGA launches major hiring initiative in data science and artificial intelligence"
+    excerpt: "As data science and artificial intelligence transform a range of fields, the University of Georgia is making a significant investment in faculty with expertise in using big data to address some of society’s most urgent challenges."
+    publishedDateTime: 2021-08-16T22:10:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/925422"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 14
 
 secured: "X0S5/tyuhSDfCn9QgWZ65bbjS1zq00Om13r2wcnt7OXrODqwW+Jeo1YMNtCMbLr85GpfNuvVlWQl11SBFYle3NtIU7I88XvTAaeiZBj1He+Gf6nHF5U/2XZscCAuEbqu5HgTgVAq1Z1bb77B9knrcedPCiZtG2nhIeEmJ5yXf+yTCLXyAEG58rmOB032yMhaNx2VJznE82698pQPjTex29pww2j47/hGO2lI4fJbnVn4zPpFDg9b2n7+iudUTM0riozrAtCeTnybSz3JaHRG7HUDQPO+snc+KP+sSuvmzOAycHdeyxBGc3vJAy/shn/VrScReYDxg2YsCV0y6jfFAycprwl9zQFN2zvewwNBrRg=;3YqjFpk4+ysZkQ3r0EUhaA=="
 ---

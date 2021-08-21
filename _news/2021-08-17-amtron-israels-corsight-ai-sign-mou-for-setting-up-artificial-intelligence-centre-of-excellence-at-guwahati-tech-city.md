@@ -25,17 +25,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "AMTRON, Corsight AI and I-Sec partner to deliver facial recognition"
-    excerpt: "Assam Electronics Development Corporation Limited (AMTRON) has signed a tripartite MOU with Corsight AI, a leading Facial"
-    publishedDateTime: 2021-08-17T03:30:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/amtron-corsight-ai-and-i-sec-partner-to-deliver-facial-recognition-891042133.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 34
-
 secured: "ObrAKI37U+o3cX9hgxs/gyF270RK1btHTsVXZAQQm+u5ltSv1yuUGYpzBrdnCe+hgabOM3GyDTgxeGqZikz2jZBVSxyGxlo7tTjpdeAGdtrIINhDEc0h8YWCk/MvniXAtc59W3pcNO32rzNz0vI9UhcU7FfHmR78qLw5PiP+TwTbnC+Gwx1gcj7MbtAFliYx4zv9FsmLg+Whq8PWbXbk64WD31fgDn/h6UNIm5EV08rKw/h2hub5hA9p1WJXdzSca92vG/eAdNpt6aO697xL+yvfo/LNup/bEaMxoDdsHJhnEbx5qVLOkidqv6B7yIfzWajXLLCgxl4ovgtU5wpehOX7UztPsOKtSWDFWW96b0THPi8n4TuNJOugogca15v5yH18Sd66HDIgdJ9YRYvU4HhD8QAXje7EG/En32qbB6xFuS36eR/GOxeQQ3DB9//JiaPz64bHPXr6Gal6dMfTIKF1e8J8DEKVzFX4SV7xlAyJRp69VKD2zZA3cGrTlR/4yiWqS2peShXXK71eSKe4OA==;KSzFIbGXGsP5EMSl9SXKUA=="
 ---
 

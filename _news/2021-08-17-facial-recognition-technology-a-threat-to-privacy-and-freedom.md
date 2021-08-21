@@ -55,15 +55,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Can a Covid-19 face mask protect you from facial recognition technology too?"
-    excerpt: "Our relationship with ‘public space’ is being redefined, not just by a global pandemic, but also by a new era of biometric surveillance technologies."
-    publishedDateTime: 2021-08-16T10:27:00Z
-    webUrl: "https://privacyinternational.org/news-analysis/4511/can-covid-19-face-mask-protect-you-facial-recognition-technology-too"
-    type: article
-    provider:
-      name: Privacy International
-      domain: privacyinternational.org
-    quality: 16
 
 secured: "f+zQ6RbJbyw2a8yuall8JXKxcxzEjQbQwF8a9iFtUWpqCD/8RnNBQawwRSl3aNQclvYCkDFZ01DDHRBzj4HXu8xnZyEWmRgaTSA/KQcqsR3KPyaemVOhex6a6Npcg5/f6ibU60H7HvM7Yjj5dm4kKdv4dWBDwkDDCyDPxyfizAgPMhGdfxHiZTAGbUfDrvw6VQmzYh8pFRKjXYOLtaNgOnetMmskV4HJ9VaDo7r/L0a73jA2UOwAVJHslqS+xHu0TB3Pwx+rWnK/5CHpvKGXlxzW0kJUe+oyMqNFTE9DFnqRLW8tcXAd1Xwz5IxgDVbIAErYgMZKnmYu3kNZh1QnOH0G+uDGbon8Pk+ctxKFJaKD/23Y74U8jUPshhY2sn20zhBVUFarpceJgZoajlHPYH2HhZXNozx76Nhj1ywQAzcspGlZlNgDwAZpZdXCPCwwl/0dmevudS/LN1vnEzXvGdL0hiKCg89HymIGZaws49z6NZJt/VeJVCcF0A5Ka93SOdZevJiRSB3rhQOYJh4hrg==;2/t5LzqWvu4YJ/JVXmU2nw=="
 ---

@@ -52,6 +52,20 @@ related:
         width: 450
         height: 300
         isCached: true
+  - title: "The Artistic Side of Artificial Intelligence (AI)"
+    excerpt: "Move over selfie, artificial intelligence (AI) might just be creating your world-class portrait. Meet Patrick Tresset, a London-based artist. His art practice follows two main paths. On one hand, Tresset presents theatrical installations in which robotic agents are actors."
+    publishedDateTime: 2021-08-21T03:03:00Z
+    webUrl: "https://www.bbntimes.com/society/the-artistic-side-of-artificial-intelligence-ai"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 52
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/The_Artistic_Side_of_Artificial_Intelligence_AI.jpg"
+        width: 1200
+        height: 872
+        isCached: true
 
 secured: "svUoYWV2rF4u1FqJryVzlaAvd9CceGiculuoz2vjVQ/JYzHDN1vZSdTMRipS0dOe6N22KW6gIfGfqvqbzlMZuxeBKi1RO4FL+7NwxVpcoegNjvu4AS205FfLoyB5cWUADO10u1ENfKwhSVFm3Wjxk4MKy+AJoxT9d2oXJODxHfDNF2sirZ76MG7Gkpw7yCvXhr9uRx7EyGT9ethG5NbFh8b9HVYZZQnjGepwGFqUgmF8Nv6akbIY/j7gXo3ibIxmYe8FQyPoq6fBKnicuQteg10v2EuDHrDVPDy6qCDpSDKnqy5M0iKaKkxEqc9NFyeMcBQfOWGDx4dub4Gq8cWLikpkkw8qFGhMbDsg5Kl7eRA=;yx51B8yxTjaKlnvM7i7hTQ=="
 ---

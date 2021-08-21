@@ -45,6 +45,20 @@ related:
         width: 1952
         height: 840
         isCached: true
+  - title: "Tesla Bot, Genesis G90, Baidu Robotaxi: Today's Car News"
+    excerpt: "A redesigned Genesis G90 boasting a new platform and possibly an electric powertrain is coming up shortly. A prototype has been spotted at the Nürburgring and we have fresh spy shots and video. Baidu says it is ready to move from technical verification to large-scale commercial operation of self-driving cars."
+    publishedDateTime: 2021-08-20T15:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1133305_tesla-bot-genesis-g90-baidu-robotaxi-today-s-car-news"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 54
+    images:
+      - url: "https://images.hgmsites.net/hug/2022-genesis-g90-spy-shots--photo-credits-baldauf-sb-medien_100802815_h.jpg"
+        width: 1920
+        height: 1174
+        isCached: true
   - title: "Chinese search engine Baidu launches a US dollar bond, despite crackdown"
     excerpt: "Baidu Inc, a Chinese internet behemoth, is approaching financial markets with a two-tranche, US dollar sustainability bond, which"
     publishedDateTime: 2021-08-18T14:00:00Z

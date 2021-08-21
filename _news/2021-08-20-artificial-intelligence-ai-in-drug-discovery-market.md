@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2362368/artificial-intelligence-ai-in-dru
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2362368/artificial-intelligence-ai-in-drug-discovery-market-latest"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -54,7 +54,21 @@ related:
         width: 450
         height: 300
         isCached: true
+  - title: "The Artistic Side of Artificial Intelligence (AI)"
+    excerpt: "Move over selfie, artificial intelligence (AI) might just be creating your world-class portrait. Meet Patrick Tresset, a London-based artist. His art practice follows two main paths. On one hand, Tresset presents theatrical installations in which robotic agents are actors."
+    publishedDateTime: 2021-08-21T03:03:00Z
+    webUrl: "https://www.bbntimes.com/society/the-artistic-side-of-artificial-intelligence-ai"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 52
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/The_Artistic_Side_of_Artificial_Intelligence_AI.jpg"
+        width: 1200
+        height: 872
+        isCached: true
 
-secured: "ITuAl3CvWGWJLBfLqXweDpZRezPeQjxaabkjmLlwy0sXUK+2J2fE8Jrgox47L6/U4EQeVZZsj5ZlubVyFpmU2TuxEg9flbSvl7F40GYREPnQtaghKSvomJWCjo+XHAw5iZjJRk93CRweq7nRfbuMz7Wo00vNfwPaE2OV/Abm/FUDLCzHkyq7g5NrtWLvtxD9cHr6tp0jjhTYGI4h57/vIpVPY5LIXz0hJJIL9VSq8wEmFiKbrGkKIji58U3cfYDj0u/LMkVeOViaxURGPxGNmVnDDHIEz2qKd6DYZUBaKez3RGZnrZX+3C+3E/ZE56ZTYJIVT6DOZB4iA3yQ28qHxt/aRSprLtCN48xklTvumJI=;DxPHIC3MMEJ+3vUUyMWlLQ=="
+secured: "nmoi4YH1vzXACSsUi2wUXJSx1TB1r3CcRZh94beXjRpgBgwY8/aw4zFx3Ht1vDTVujwqO5BjyK+PvoqRZx8DxeAmvd/ttnvjNEJRhJEIzSbldUBUab9gGZauqMu6HjemlUVMbXWbZrFZknkpTJvoGRbPoSd9CrgrC3/6gn5EWZdF2PQoLNWy3AtaVBRLed9/+AdcERhC5xnF62Fg1DzrOiZTyPeQr+SMv26TpdgO8KsLGununP97T/2wjbjlcisBn9M4ERN/WjwOkOm2d7THxebISGU81VphhVsVj8ac/uC/HCcTKBqxfTi2LuJVc7QEa1alLhsMZF3me4djLLkiw+g0gDMMpTzYgbwwAejqLJRd4uJ3E6+sPpMAiA9FDiVXa+4yCnwRsgQev1+L3FIaBaAdG07NkAgZooDK0dWSk0U5n5WrMpikfOjG9BTovsGhCO9IbZmngaMjLv+QBIvTOweG7j5AcGHnL8M8Yd+r1mE70o0nEyLTeBWkXCqHYBP/Lck1BNgzcI8CvQzuTk3Bxw==;qDgXkixFTY4qUtPSKmWtpA=="
 ---
 

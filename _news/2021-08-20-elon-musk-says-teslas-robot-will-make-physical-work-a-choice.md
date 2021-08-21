@@ -1,18 +1,20 @@
 ---
 category: news
-title: "Elon Musk says Tesla's robot will make physical work a 'choice'"
-excerpt: "After dominating the electric vehicle market and throwing his hat into the billionaire space race, Tesla boss Elon Musk announced the latest frontier he is aiming to conquer: Humanoid robots. The iras"
-publishedDateTime: 2021-08-20T08:10:00Z
-originalUrl: "https://www.channelnewsasia.com/business/tesla-humanoid-robot-automation-elon-musk-2125921"
-webUrl: "https://www.channelnewsasia.com/business/tesla-humanoid-robot-automation-elon-musk-2125921"
+title: "Elon Musk Says Tesla's Robot Will Make Physical Work A 'Choice'"
+excerpt: "After dominating the electric vehicle market and throwing his hat into the billionaire space race, Tesla boss Elon Musk announced the latest frontier he's aiming to conquer: humanoid robots."
+publishedDateTime: 2021-08-20T11:51:00Z
+originalUrl: "https://www.barrons.com/news/elon-musk-says-tesla-s-robot-will-make-physical-work-a-choice-01629446109"
+webUrl: "https://www.barrons.com/news/elon-musk-says-tesla-s-robot-will-make-physical-work-a-choice-01629446109"
+ampWebUrl: "https://www.barrons.com/amp/news/elon-musk-says-tesla-s-robot-will-make-physical-work-a-choice-01629446109"
+cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/elon-musk-says-tesla-s-robot-will-make-physical-work-a-choice-01629446109"
 type: article
-quality: 56
+quality: 76
 heat: -1
 published: false
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: Barron's
+  domain: barrons.com
 
 topics:
   - AI in Robotics
@@ -20,9 +22,9 @@ topics:
   - AI in Autos
 
 images:
-  - url: "https://onecms-res.cloudinary.com/image/upload/s--u_8oGNj6--/c_crop%2Ch_450%2Cw_800%2Cx_0%2Cy_83/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_338%2Cw_600/v1/one-cms/core/2021-08-19t104505z_1_lynxmpeh7i0h2_rtroptp_3_tesla-india-imports-tax.jpg?itok=0dbuG5HX"
-    width: 600
-    height: 338
+  - url: "https://www.barrons.com/asset/external-media/afp/AFP1053261761598506529237758936347385438126---1.jpg"
+    width: 768
+    height: 565
     isCached: true
 
 related:
@@ -479,14 +481,14 @@ related:
         isCached: true
   - title: "The future is here: Meet Tesla Bot, Elon Musk's humanoid robot"
     excerpt: "The next project for billionaire Elon Musk? Humanoid robots. The entrepreneur unveiled Tesla Bot on Thursday during an event touting advances in artificial intelligence. According to a description on Tesla's website, the Tesla Bot was designed to perform ..."
-    publishedDateTime: 2021-08-20T23:58:00Z
-    webUrl: "https://www.cincinnati.com/story/tech/gaming/2021/08/20/tesla-bot-elon-musk-humanoid-robots/8208107002/"
-    ampWebUrl: "https://amp.cincinnati.com/amp/8208107002"
-    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/8208107002"
+    publishedDateTime: 2021-08-21T00:42:00Z
+    webUrl: "https://www.desmoinesregister.com/story/tech/gaming/2021/08/20/tesla-bot-elon-musk-humanoid-robots/8208107002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/8208107002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/8208107002"
     type: article
     provider:
-      name: Cincinnati Enquirer
-      domain: cincinnati.com
+      name: Des Moines Register
+      domain: desmoinesregister.com
     quality: 76
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/08/20/USAT/1151605a-4bba-4ecd-aac9-1742df02732a-0x0-KJC_5055-1.jpg?auto=webp&crop=3999,2249,x0,y266&format=pjpg&width=1200"
@@ -565,6 +567,20 @@ related:
       - url: "https://images.hgmsites.net/lrg/tesla-bot_100803509_l.jpg"
         width: 1024
         height: 589
+        isCached: true
+  - title: "Tesla unveils chip to train AI models"
+    excerpt: "Tesla has unveiled its own computer chips that will train its automated driving system. Revealed during the automaker’s AI Day event, Tesla’s custom chip will show the firm's continuing pursuit of vertical integration, according to senior director of ..."
+    publishedDateTime: 2021-08-20T11:28:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2021/08/tesla-unveils-chip-to-train-ai-models-and-plans-to-launch-humanoid-robot-prototype/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 71
+    images:
+      - url: "https://eandt.theiet.org/media/16585/dreamstime_xxl_52439329.jpg?crop=0,0,0,0.5078125&cropmode=percentage&width=1200&height=450&rnd=132739338070000000"
+        width: 1200
+        height: 450
         isCached: true
   - title: "Elon Musk Says Tesla Wants To Build A Humanoid Robot That Could Replace Human Workers"
     excerpt: "Advertisement Robots replacing humans as the workforce is no more a fantasy. The Tesla supremo Elon Musk revealed at Tesla AI Day that besides developing electric cars and solar power, they are now working on building a humanoid that is soon to replace humans."
@@ -743,6 +759,6 @@ related:
         height: 1708
         isCached: true
 
-secured: "PwYLEmUfGUGy8yEbzTtChoS5jn6QszdORvWkgKvMceCMi+6fmgi94tkAEUfHxLZAkdIeeGHqyrZp4PPxTyI2yt5W7WLbCrAsn/p4YJfYg/JPWmcwjazA5V2iWLvrE4w06R2+KfLdKqkMY3c2qWCdSoGFlN3EDtZH/Vgv75gmw3/U5e4WL1+skHGmiqoBy3YwLk/Ie8D1A3TU/NFoKuOrMP+CbUWJFYnWbgclY/cAe3Cy5GMx+NGQ9HiP4UqvOKuBvcL6eqtSBu79CooU68SP2IM99x7ECKxUfIUw6eAAY7+g9sHKTZq0ky7/Tli0NskshtMTxZjWSGQCkP46035TOoNH1youngsAPx7ZRGun3N8=;Nl5YRu2JrgWmKas0NyMESw=="
+secured: "4CM567vz+sZMaEUd1QiAfsD7XNHiHhYEeMH/up/H8umW0uSndtFfS1a/Jm0ao4YJAyExEpv9W7EBUAzztoudbznZtSKoEE9xU70oC1IyeICjZF4sAdkfXCLfg/nR6uX/XdyFSmb8/qvjHmZQBkuKzQkQWMmrWNPNP/ekUXA6pXby+DmdIru47xgeUAYqyHCoMkdRacrs61EWTHieNkGXarLmdU2RIdqzwrtvN6n5cxcSaZHAnJWmFvULzKrzrRep08dK63bjTh2duyKqDdqdrFKSXqV3Ai9ILB36jvrbLoBBoAg+UySYL3HN7dR4VaTe13eaxfcjWLVExoZv5cDGzKxmS/BRy89dUZA9WQN59c4=;+7lVGRhUkTAtYC202nakLQ=="
 ---
 

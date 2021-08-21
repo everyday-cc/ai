@@ -71,6 +71,20 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Top Fintech Trends Transforming Peoples Lives"
+    excerpt: "AI and ML have managed to retain their top positions in the FinTech trend for a long time. They have fuelled the rapid growth and development of new technologies in the FinTech industry. FREMONT, CA: The fintech industry is growing rapidly, and it is ..."
+    publishedDateTime: 2021-08-20T12:40:00Z
+    webUrl: "https://www.cioapplications.com/news/top-fintech-trends-transforming-peoples-lives-nid-8324.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 24
+    images:
+      - url: "https://www.cioapplications.com/uploaded_images/magazine_img/itqtp300400.jpg"
+        width: 300
+        height: 400
+        isCached: true
   - title: "Fintech startup Pngme raises $15m Series A funding to power the future of financial services in Africa"
     excerpt: "Fintech startup Pngme raised $15 million in Series A funding as the company sets out to grow its financial data infrastructure and machine learning-as-a-service platform for financial institutions and fintechs across sub-Saharan Africa."
     publishedDateTime: 2021-08-19T08:27:00Z
