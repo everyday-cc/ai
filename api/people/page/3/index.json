@@ -4,6 +4,41 @@
   "page": 3,
   "value": [
     {
+      "path": "_people/jitendra-malik.md",
+      "title": "Jitendra Malik",
+      "excerpt": "Professor of EECS, UC Berkeley. Jitendra is known for his research in computer vision.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/jitendra-malik/index.json",
+      "webUrl": "https://everyday.cc/ai/people/jitendra-malik/",
+      "type": "profile",
+      "name": "Jitendra Malik",
+      "bio": "Professor of EECS, UC Berkeley. Jitendra is known for his research in computer vision.",
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=oY9R5YQAAAAJ",
+        "citations": 213684
+      },
+      "affiliation": {
+        "path": "",
+        "name": "berkeley.edu",
+        "domain": "berkeley.edu"
+      },
+      "topics": [
+        "AI",
+        "Computer Vision",
+        "Machine Learning"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://scholar.google.com/citations?view_op=view_photo&user=oY9R5YQAAAAJ&citpid=2",
+          "width": 85,
+          "height": 128,
+          "title": "Jitendra Malik",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_people/john-giannandrea.md",
       "title": "John Giannandrea",
       "excerpt": "John Giannandrea is Apple's senior vice president of Machine Learning and AI Strategy, reporting to CEO Tim Cook. John joined Apple in 2018 and oversees the strategy for artificial intelligence and machine learning across the company and development of Core ML and Siri technologies.",
@@ -807,50 +842,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/clement-farabet.md",
-      "title": "Clément Farabet",
-      "excerpt": "VP, AI infra @ NVIDIA, building self-driving cars and GPU based data science. Ex Twitter (Cortex cofounder). Prev cofounder at Madbits. Deep learning, AI.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/clement-farabet/index.json",
-      "webUrl": "https://everyday.cc/ai/people/clement-farabet/",
-      "type": "profile",
-      "name": "Clément Farabet",
-      "bio": "VP, AI infra @ NVIDIA, building self-driving cars and GPU based data science. Ex Twitter (Cortex cofounder). Prev cofounder at Madbits. Deep learning, AI.",
-      "location": "San Francisco, CA",
-      "website": "http://www.clement.farabet.net/",
-      "twitter": {
-        "username": "clmt",
-        "url": "https://twitter.com/clmt",
-        "followers": 11028
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/clementfarabet"
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=u3u16tgAAAAJ",
-        "citations": 9108
-      },
-      "affiliation": {
-        "path": "",
-        "name": "nyu.edu - Homepage",
-        "domain": "nyu.edu - Homepage"
-      },
-      "topics": [
-        "AI",
-        "AI in Hardware"
-      ],
-      "heat": 42,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/953003983307550720/GhDHdn42_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Clément Farabet",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_people/javier-m-duarte.md",
       "title": "Javier M. Duarte",
       "excerpt": "particle physics assistant prof at @UCSanDiego on the @CMSExperiment",
@@ -938,7 +929,7 @@
       "twitter": {
         "username": "huahaiy",
         "url": "https://twitter.com/huahaiy",
-        "followers": 966
+        "followers": 967
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/huahaiyang/"
@@ -982,7 +973,7 @@
       "twitter": {
         "username": "johnkrafcik",
         "url": "https://twitter.com/johnkrafcik",
-        "followers": 15998
+        "followers": 15997
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/johnkrafcik/"
