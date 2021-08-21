@@ -43,6 +43,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Consumer Analytics Using NLP and AI in the HPC Cloud"
+    excerpt: "Customers and shoppers have benefited greatly from advances in Internet connectivity in recent years. Rapidly growing e-commerce firms have yielded actual"
+    publishedDateTime: 2021-08-20T16:25:00Z
+    webUrl: "https://www.datanami.com/2021/08/20/consumer_analytics_using_nlp_and_ai/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 54
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/smiley_face_emoji_shutterstock_-pixelliebe.jpg"
+        width: 1000
+        height: 596
+        isCached: true
   - title: "Right Direction Financial Services to leverage Scienaptic AI-powered platform"
     excerpt: "After recently forging a relationship with an independent dealership group, Scienaptic bolstered its client roster of independ"
     publishedDateTime: 2021-08-16T14:07:00Z

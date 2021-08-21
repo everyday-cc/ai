@@ -28,6 +28,17 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "Tesla sells ‘Full Self-Driving,’ but what is it really?"
+    excerpt: "Editor's note: This story is available as a result of a content partnership with The New York Times. Subscribers will see stories like this every day on our website (and in our daily emails) as an added value to your subscription. As U.S. investigators ..."
+    publishedDateTime: 2021-08-20T21:35:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2021/08/20/nyt-tesla-what-is-full-self-driving.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
+
 secured: "Fxsuz88XbNYvZCeNHYyphIzlZUK5dLUeAYpcH9uenrgkOK1Jv9Q2BvRhk7fx4SOBKgiQpIjZqp54Zr6AOmczZ4251NOqNi7uhJaOS0dRgBtANFwq1GypZfnS2uv9Q61acw8nggaNihwwvnKTWXUB6SV8/1jm2thVOfBzht4bP/7zO2DfH9QyH6zK3QwIc1s0DRerCvQrKUN00KHOW4GctqF50MGZT70xr1cxhDOoBNAlW+9FdSM2xJtIObbhNfrhmWv6s5GrKG+cTJdeiTRC3RF+r+XI4uiYh+ozl0ejndiuxfmfzXH8BgzGfLt6MjkiRa1wvp4/Ebdjh2VKNh8RyuB6bVFyPlg9fPivu3ljCfZnaQUGVh2v49IBib/DUs6/UeW4HefhTAoRYAnxemCegCnuhWvh6upWLJM3pbLtMA9zoQeSU5oO6QOIAFfJFFUCX4mDgm5BP6nVc204jtQIeBJ7JXYu2jqXkIK1gwbx8O/fhMLfd9/ABWdnBQj7Em9udZzmmhXALuNDRp6+cjIDrQ==;qg40Hd/alL1kKzLmFQwaAw=="
 ---
 

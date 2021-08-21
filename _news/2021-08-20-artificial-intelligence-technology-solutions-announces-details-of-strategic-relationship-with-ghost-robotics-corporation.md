@@ -6,7 +6,7 @@ publishedDateTime: 2021-08-20T12:43:00Z
 originalUrl: "https://www.roboticstomorrow.com/news/2021/08/20/artificial-intelligence-technology-solutions-announces-details-of-strategic-relationship-with-ghost-robotics-corporation/17357/"
 webUrl: "https://www.roboticstomorrow.com/news/2021/08/20/artificial-intelligence-technology-solutions-announces-details-of-strategic-relationship-with-ghost-robotics-corporation/17357/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 related:
   - title: "Bill Smart Brings Technical Expertise in Robotics and AI to Discussions about Regulation"

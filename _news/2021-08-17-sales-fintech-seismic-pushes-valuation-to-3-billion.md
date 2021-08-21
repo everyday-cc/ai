@@ -9,7 +9,7 @@ ampWebUrl: "https://www.investmentnews.com/sales-fintech-seismic-pushes-valuatio
 cdnAmpWebUrl: "https://www-investmentnews-com.cdn.ampproject.org/c/s/www.investmentnews.com/sales-fintech-seismic-pushes-valuation-to-3-billion-210373/amp"
 type: article
 quality: 61
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://skift.com/wp-content/uploads/2021/08/a-user-of-hoppers-booking-app-source-hopper.jpg"
         width: 1025
         height: 684
+        isCached: true
+  - title: "FinTech SPAC Activity Heats Up"
+    excerpt: "In that filing, TG Venture said technologies under consideration for business combinations will include AI, blockchain and other advances. The filing notes, “FinTech is disruptive to our life every day. The power dynamics in the payments industry are ..."
+    publishedDateTime: 2021-08-20T15:15:00Z
+    webUrl: "https://www.pymnts.com/news/ipo/2021/fintech-spac-activity-heats-up/"
+    ampWebUrl: "https://www.pymnts.com/news/ipo/2021/fintech-spac-activity-heats-up/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/ipo/2021/fintech-spac-activity-heats-up/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/08/IPO-SPAC-FinTech-457x274.jpg"
+        width: 457
+        height: 274
         isCached: true
   - title: "Climate FinTech hires all-star management team"
     excerpt: "(News Aktuell) - – bullfinch completes its management team by hiring top-level executives. Niko von Tippelskirch has been newly appointed to the executive management board and will take on the position of Chief Operating Officer (COO)."

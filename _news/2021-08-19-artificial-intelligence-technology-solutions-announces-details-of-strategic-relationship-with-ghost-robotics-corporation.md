@@ -63,7 +63,7 @@ related:
     provider:
       name: Robotics Tomorrow
       domain: roboticstomorrow.com
-    quality: 39
+    quality: 41
 
 secured: "QK7lBt4sssAZdhbS+nsrdwpaqXp2ZXx2U4xxO6yovVRG6PAVpvLbTXaZbzYAbtcfYLORnqwApt+6F3FE5GoFXb0tl5LfUgSMZK/RkuCn/RO/3eSqLfZJzbbg57MZFvJRyB8FH1EMnn+JndDLul11kRnszow3Wtmtql2ZP4kb2V90CRq+okgAAcmOgRAyA7uTP8uSsUvpqpV7gSH1QnhHgXe4KD0OA5QYoV18KShLj7aTRTiJsh3rJZYxhGOiZdT4dXS3TMTce0lPc0Asz2EU5XMIf4e30Shg8L0Svj+LPtC6nhKJNP7+tFRGp1meQK8Pt1QdzueRLWtI4FjLB6t4d/mMwx/oygajkQsM5M97vV8=;RO3dxyL4jE7JAFJ5RyaVUQ=="
 ---

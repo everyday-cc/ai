@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/tomgroenfeldt/2021/08/17/accerns-no-c
 webUrl: "https://www.forbes.com/sites/tomgroenfeldt/2021/08/17/accerns-no-code-ai-platform-can-speed-analytics-in-financial-services/"
 type: article
 quality: 69
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Consumer Analytics Using NLP and AI in the HPC Cloud"
+    excerpt: "Customers and shoppers have benefited greatly from advances in Internet connectivity in recent years. Rapidly growing e-commerce firms have yielded actual"
+    publishedDateTime: 2021-08-20T16:25:00Z
+    webUrl: "https://www.datanami.com/2021/08/20/consumer_analytics_using_nlp_and_ai/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 54
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/smiley_face_emoji_shutterstock_-pixelliebe.jpg"
+        width: 1000
+        height: 596
+        isCached: true
   - title: "Peak Fintech Signs Agreement to Acquire Analytics and AI Company Cubeler Inc., Paving the Way for Its North American Expansion"
     excerpt: "CNW Telbec/ - Peak Fintech Group Inc. (CSE: PKK) (OTCQX: PKKFF) ('Peak' or the 'Company'), an innovative Fintech service"
     publishedDateTime: 2021-08-16T12:17:00Z

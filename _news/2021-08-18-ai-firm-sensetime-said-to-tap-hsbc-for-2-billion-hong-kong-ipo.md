@@ -84,6 +84,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Facial recognition unicorn gallops back to Hong Kong for prospective IPO"
+    excerpt: "Yitu has set its sights on Hong Kong for an IPO, after its attempt to list in Shanghai followed a familiar pattern for Chinese facial recognition providers."
+    publishedDateTime: 2021-08-20T15:39:00Z
+    webUrl: "https://www.biometricupdate.com/202108/facial-recognition-unicorn-gallops-back-to-hong-kong-for-prospective-ipo"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 38
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/08/20113804/Yitu-2.png"
+        width: 1024
+        height: 537
+        isCached: true
 
 secured: "B7WJkUI9fzNoKI6YUWByJmAm62lF4XfFov3MU+fimEhw1cCdb0DRj7UjnLLMVNWo+Q+FAZWcSuHM8aTtzHtEe/dgTXMR0aWrK2OCKpx63qBgANVFfX/3JArqkRKe66u8CX+ITAtTFV3M80QGtqPsqxC41TBLfBGfdHPDcFauZMnOe+PIhOOnHrqmxvXOdBBduUTV2ymdURS60lyNGvFSBsnlRpEXxcf3zADZK4vdkKkGdnM65dkSv56Gd4oJ9HgaclIahvA4aCbp9dq6OV36Hpm7DbFp30csPUBmeHTrsopiyN+QDCCt+G6LEwvshJUalPudD0ydCP4dtAjGlVnkQ7qHCqIOqt+89t8224Hrh7o=;LrPvUuTcAa8TKzwYC4v2RQ=="
 ---

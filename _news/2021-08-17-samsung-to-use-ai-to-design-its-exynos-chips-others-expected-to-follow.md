@@ -55,20 +55,6 @@ related:
         width: 1024
         height: 536
         isCached: true
-  - title: "AI is here to design complex chips and Samsung will use it"
-    excerpt: "Every one of us might have watched movies where we see AI and robots taking the control of the world and whatnot! However, the thing that we humans cannot do in an acute way, these days AI or Artificial Intelligence is doing for us and now that also includes designing chips."
-    publishedDateTime: 2021-08-16T05:10:00Z
-    webUrl: "https://technosports.co.in/2021/08/16/ai-is-here-to-design-complex-chips-and-samsung-will-use-it/"
-    type: article
-    provider:
-      name: TechnoSports
-      domain: technosports.co.in
-    quality: 54
-    images:
-      - url: "https://technosports.co.in/wp-content/uploads/2020/10/Samsung-Exynos-Processors.png"
-        width: 2092
-        height: 1138
-        isCached: true
   - title: "Samsung wants AI to build its chips"
     excerpt: "Humans do not think the right way Samsung is using artificial intelligence to automate the insanely complex and subtle process of designing cutting-edge computer chips. The South Korean giant is one of the first chipmakers to use AI to create its chips."
     publishedDateTime: 2021-08-16T11:02:00Z

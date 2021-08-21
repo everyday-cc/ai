@@ -7,8 +7,8 @@ originalUrl: "https://www.biometricupdate.com/202108/tool-for-explainable-face-b
 webUrl: "https://www.biometricupdate.com/202108/tool-for-explainable-face-biometrics-neural-networks-open-sourced-by-truera"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: Biometric Companies
@@ -39,6 +39,20 @@ related:
       - url: "https://images.law.com/contrib/content/uploads/sites/389/2021/08/Biometric-Data-767x633.jpg"
         width: 767
         height: 633
+        isCached: true
+  - title: "In-Depth Analysis on Global Voice Biometrics Market- Expected to Reach $4.7 Billion by 2027"
+    excerpt: "Voice biometrics is usually used utilized for speech recognition via analysis of an individual voice, pitch, speech, and tone. In terms of security, voice biometric has an extensive advantage in comparison to passwords, as they can be simply hacked or ..."
+    publishedDateTime: 2021-08-16T19:29:00Z
+    webUrl: "https://www.digitaljournal.com/pr/in-depth-analysis-on-global-voice-biometrics-market-expected-to-reach-4-7-billion-by-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 14
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/Mask-Covid-Pandemic-AFP-1K-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "tMunVT+GipAjlIemO0qMZjS7Hdsdm6HjjAAj5k4H4gFTIWPRc25zm27fJbJoIXjzUumcJcjHE51saVbQOC7o0krdEPyya5QWmFOmXcviEV0sjSO0VbwBnqoGBr4Y7I1VtgEtAtyhauh9koGRauFjPZ+4EDyhQac6hiOAyfyIur6cxVbsTrNforbZJ3s5ztwWSB8rqu0YLs1dY96K2Vu1V//zU8hlFAar0Ig7IDgxWTB/6mze4ZdtVNKQ/x45Ya5zyL3H0mGwBylaKbsI7so0L1mcGPgLEf1+o9n5U0Q0VHmpJUg4xXLN7awIuvegiZ2j4VrO++8yrl00pLBy7X1AGyrmZkWwG6fLP8iqX4dDmYv0HRvUK74ypXmni1kXr0uIjLcmaq7AhEloH/5haed3vabBgGdRFBSgGH44259g2qRecv3VulW0Yyjhi7ZFmvCaaG03Z6POsMv6WaVvwud5RSIVR7ZCUNVgIHCT1FP5/1l204SBs6KKUiCaWsXpI82qMtBR7WaH4fod+e66ZH7z7A==;Qq9vsCuZwe+T/tzKRv3RWA=="

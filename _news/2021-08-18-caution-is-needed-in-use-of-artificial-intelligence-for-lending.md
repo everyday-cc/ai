@@ -23,22 +23,6 @@ images:
     height: 480
     isCached: true
 
-related:
-  - title: "Demonstrating the Power of AI for Food & Beverage Innovation, Upcoming Webinar Hosted by Xtalks"
-    excerpt: "In this webinar, Sridhar Sudarsan, CTO of SparkCognition and former CTO of IBM Watson, will discuss how AI/ML solutions solve operational challenges in large food and beverage manufacturing facilities. Register for this webinar to see Sridhar show how the ..."
-    publishedDateTime: 2021-08-20T12:35:00Z
-    webUrl: "https://www.lelezard.com/en/news-19961775.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 27
-    images:
-      - url: "https://www.lelezard.com/img/theme/lezard2.png"
-        width: 500
-        height: 414
-        isCached: true
-
 secured: "FvrFNLWlOvGqfsgJ9pfczWZuHT1e+vdBhf1pCJZwr8O41Yx0xt7AcNjQ2IutsFHY+lTJ+oUeqZDfpCLFYplspx/Y7Wof5IRl97RVrYo+l/TPdTmtOxmqerd/kuT9CSDHHphbX86yPQ/pxMoDoAI4fvTkSq6J6nuVCXT0q3RFlUAtrUWbmKGhZvvilDKudxRLYyCWi7tlLzyRRjq1AgSqKhD4C4YOEvQ/KDw7dDwQSRRKHHWiT4iHzgkxq9DmjVXnkvvljr6re75SjxthPHx98eo2eB7cJbYz4NvKUuVdYyIwbmROfgNDHNbwrT62i4LOjCIEwDHb0joAOAV2S7uHi/E+G7ASGiOuvjMkflwAqik=;+CbaVMfkq1I5AfCaT8uiKQ=="
 ---
 

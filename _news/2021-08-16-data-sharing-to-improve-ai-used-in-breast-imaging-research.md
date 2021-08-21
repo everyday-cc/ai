@@ -54,6 +54,20 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Researchers Highlight Promise of AI in Diagnosing, Managing NAFLD"
+    excerpt: "Artificial intelligence (AI) and its subsets may play a key role in ... As there are limited options for NAFLD drug therapy, the authors said, AI could identify patient response, particularly by taking into account their genomics and environmental exposures."
+    publishedDateTime: 2021-08-20T19:35:00Z
+    webUrl: "https://www.ajmc.com/view/researchers-highlight-promise-of-ai-in-diagnosing-managing-nafld"
+    type: article
+    provider:
+      name: The American Journal of Managed Care
+      domain: ajmc.com
+    quality: 39
+    images:
+      - url: "https://cdn.sanity.io/images/0vv8moc6/ajmc/e1ec648dc06d633466058f03102964b60f8a93ef-4500x3000.jpg?fit=crop&auto=format"
+        width: 4500
+        height: 3000
+        isCached: true
 
 secured: "haclz0wLhTr2Z8n915NExxx+gJiCDAE+hd+Eb6MubC+clbE4b6VkoWQP0t98e11bUs0L8XKVQxgGl3FWcVBxi9OBJrG2f8EAerDO66a2mIQO51G8PCDt7q68FIkiskV8UdYOrvFRvsB9szKNw0kSUhmlceCxk/kjQr6dbn44VuYnuvvgr4ZBOcodhCfWGwSJvCkHC9T91fYUdblk1aBB0qFU4Y9Hn+tAm24cF43HVAmjNm7BELuPerVDRizdioH+wzsK2xngSpVeBtCw/4KgEknzZ2AGIOUkbx/W4TaEXow8KSDhePHA1WYZ7sCr234ZPnd7+kMpYB2KK0zPaGCQTLiCBN3MQf1+gUAE+/ZwPn4=;gtZJoKONnuQrDb9beexn5Q=="
 ---

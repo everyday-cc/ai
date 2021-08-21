@@ -19,15 +19,31 @@ topics:
   - AI
 
 related:
-  - title: "Noodle.ai Joins AWS Partner Network to Build Supply Chain Resiliency for CPG Customers"
-    excerpt: "Noodle.ai, the leading provider of Flow Operations (FlowOps) software, today announced it has become an Amazon Web Services (AWS) Advanced Technology Partner to drive scale and efficiency for the supply chains of global consumer packaged goods (CPG) companies."
-    publishedDateTime: 2021-08-17T14:05:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/noodle-ai-joins-aws-partner-network-to-build-supply-chain-resiliency-for-cpg-customers-1030737980"
+  - title: "VVDN Technologies Joins NVIDIA Partner Network for Advanced AI-Enabled Camera, Vision Applications"
+    excerpt: "With pre-trained AI models, developer SDKs and support for cloud-native technologies across the full Jetson lineup. Gurugram: VVDN Technologies announced that it has joined the NVIDIA Partner Network (NPN) as a provider of AI-enabled computer vision ..."
+    publishedDateTime: 2021-08-19T06:55:00Z
+    webUrl: "https://www.india.com/business/vvdn-technologies-joins-nvidia-partner-network-for-advanced-ai-enabled-camera-vision-applications-4898886/"
+    ampWebUrl: "https://www.india.com/business/vvdn-technologies-joins-nvidia-partner-network-for-advanced-ai-enabled-camera-vision-applications-4898886/amp/"
+    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/business/vvdn-technologies-joins-nvidia-partner-network-for-advanced-ai-enabled-camera-vision-applications-4898886/amp/"
+    type: article
+    provider:
+      name: India.com
+      domain: india.com
+    quality: 47
+    images:
+      - url: "https://s3.india.com/wp-content/uploads/2021/08/AI-Artificial-Intelligence-Image.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "VVDN Technologies Joins NVIDIA Partner Network to Expand Opportunities for Advanced AI-Enabled Camera & Vision Applications"
+    excerpt: "VVDN Technologies, a premier electronic product engineering and manufacturing company, announced that it has joined the NVIDIA Partner Network (NPN) as a provider of AI-enabled computer vision solutions powered by the NVIDIA Jetson edge AI platform."
+    publishedDateTime: 2021-08-18T01:18:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/vvdn-technologies-joins-nvidia-partner-network-to-expand-opportunities-for-advanced-ai-enabled-camera-vision-applications-1030741069"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 56
+    quality: 23
 
 secured: "CmaAiWeGfyUNRiD0jQjKWwjQP9E1X6InKlOJNlbn/IaqjM/AoijLsTjsksJ6uhU7Ukm3syERYnLiXsRIhTc9tIRNLnBGZamfrgZvxuwSUETpm0PgvivwVVQ5sH37dssF6HPC4cOk52zvVz7Bsucd21fX3Hzn38DQVQutq3zRQeCpIlB/U4GzFYEXGIGRIybopf0emwzuhvj6+jPxCiwSWWnBSjKsP3gqZZnILcGdzF8Cttq5akvlP+OEYln/e/0xBdSEJyawC3w5gRGpDft04v5Abex6741DyQ778m6CjA8fgVFvaJfWsvjN4QOTzHg+NW3BniC3Ae/qH8Y4lkTmIHYzsWQj9LSL/hu87/3ocOs=;4kaH79etnoAyy18Kx8TJdw=="
 ---

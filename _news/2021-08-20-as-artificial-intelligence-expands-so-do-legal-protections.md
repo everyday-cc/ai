@@ -3,8 +3,8 @@ category: news
 title: "As Artificial Intelligence Expands, So Do Legal Protections"
 excerpt: "As the use of artificial intelligence expands, David Rabinowitz, a litigation and IP partner at Moses & Singer, examines where copyright and trade secret law currently stand on ownership and use of AI."
 publishedDateTime: 2021-08-20T08:01:00Z
-originalUrl: "https://news.bloomberglaw.com/business-and-practice/as-artificial-intelligence-expands-so-do-legal-protections"
-webUrl: "https://news.bloomberglaw.com/business-and-practice/as-artificial-intelligence-expands-so-do-legal-protections"
+originalUrl: "https://news.bloomberglaw.com/us-law-week/as-artificial-intelligence-expands-so-do-legal-protections"
+webUrl: "https://news.bloomberglaw.com/us-law-week/as-artificial-intelligence-expands-so-do-legal-protections"
 type: article
 quality: 37
 heat: 37
@@ -23,6 +23,6 @@ images:
     height: 368
     isCached: true
 
-secured: "1aHrvj32J6FZ25oiQcXYMpPbYWlRpvcMZjREyWhFkCYBbNbNmCdqvWUUV69RLhJRkG7F47S3Sww++GwEGH/RV3fi84DOW0klATF8cOJedr5tCusnplJbK8vDgdnMYDwj9ETfyPdcdEnVtv6pF1RsoJFO/f89gMgsEZJV3ig8QIJYdvYBnSMcaO0vyaXEmMHtadlT1+ee+51q1J9UjS1dtrkqkxyL+ca/F5xiZe7DhCdSaAQAjJcOzcZTkCGXOZl3X1Q1xunxrEBWAuC6yBdHozVjfipM8r1FUTWQLigqBGzXNteqC6ztS2qiufk5PUWgWXvGKOCjK8fiqHAb0xy73SxdAy4st6fIX6CqmokINhRA3Lu9QoG8uc7MrKwPx2Td4ihIN9oxoFBsdQb7BF75W9I0Rm6sbi9PaNtgR5spt4iD8D7Mpccs8e8ovTzmfmI/2BHM5UXj5OF894fhXpdy8WUuqLLNZxxodijzztIAOCGDWzCSlHv5eQ6b6zgh6vVT8JSV+hXOA4QXIf/L1CMGlw==;5bAy7EuaIwemk2nBobgeEg=="
+secured: "grhu4FD8C7858PzubJNRA8B6y1e7ZJlYPL+fUFih4Kh6jkWExTPP4sGAiqMsQeAYKHL/oFd3y91DF8/sSr8KO39Pqcmm2iMPm6sluGfnRb9EviI3iaHxKDGKYpiNb6JiI+CtNZTkAjRCcmwEdcew1E2EHtzG8l0hP88cC6YyAj+HgZAdDJIwltFmlq9C4vfMisHW3U1OoGs+I4Ro37p5gecremjbQAT7cL4lP0Bhv6KuY5Ur4OBCHDkG3H+kSZWKnhp2q1NUeh6GAu4aQCVWAAX0GZC0nYjkzBThaJwbmw4fqPDl1x4vmZCdxF8ezYXMkbQ8mnbg1Au0ecog/P8JaijviuHeEtBIYY8vd4OlSwI=;JYSXKlkwb81hQ5ANWyBBNQ=="
 ---
 

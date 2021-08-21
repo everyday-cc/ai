@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/business/banking-finance/article/3145370/chines
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/banking-finance/article/3145370/chinese-ai-start-sensetime-hires-hsbc-it-pursues-us2"
 type: article
 quality: 182
-heat: 222
+heat: 232
 published: true
 
 provider:
@@ -73,6 +73,20 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioSo1Zz2K1CQ/v0/1200x800.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Facial recognition unicorn gallops back to Hong Kong for prospective IPO"
+    excerpt: "Yitu has set its sights on Hong Kong for an IPO, after its attempt to list in Shanghai followed a familiar pattern for Chinese facial recognition providers."
+    publishedDateTime: 2021-08-20T15:39:00Z
+    webUrl: "https://www.biometricupdate.com/202108/facial-recognition-unicorn-gallops-back-to-hong-kong-for-prospective-ipo"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 38
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/08/20113804/Yitu-2.png"
+        width: 1024
+        height: 537
         isCached: true
   - title: "AI Firm SenseTime Said to Tap HSBC For $2 Billion Hong Kong IPO"
     excerpt: "SenseTime Group Ltd., China’s largest artificial intelligence company, is working with HSBC Holdings Plc to arrange its planned Hong Kong initial public offering that could raise at least $2 billion,"
