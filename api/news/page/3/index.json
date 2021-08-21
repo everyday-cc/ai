@@ -2,6 +2,145 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-19-4-ways-conversational-ai-is-improving-the-customer-experience.md",
+      "title": "4 Ways Conversational AI Is Improving the Customer Experience",
+      "excerpt": "Conversational AI, along with natural language processing (NLP), automatic speech recognition (ASR), advanced dialog management, and machine learning (ML), are changing the way humans relate and communicate with machines.",
+      "sourceUrl": null,
+      "webUrl": "https://www.interactions.com/conversational-ai/",
+      "originalUrl": "https://www.cmswire.com/customer-experience/4-ways-conversational-ai-is-improving-the-customer-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.interactions.com/wp-content/uploads/2019/10/voc_wp_content-card.jpg",
+          "width": 768,
+          "height": 430,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-the-ai-advantages-for-healthcare-and-finance.md",
+      "title": "The AI advantages for healthcare and finance",
+      "excerpt": "By Evan Schuman When senior executives at two of the world’s most highly-regulated verticals—healthcare and finance—explore ways of improving operations, boosting margins and delivering it all with a strong ROI,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/sponsor/beyond-limits/the-ai-advantages-for-healthcare-and-finance/",
+      "originalUrl": "https://techcrunch.com/sponsor/beyond-limits/the-ai-advantages-for-healthcare-and-finance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1244301434.jpg?w=600",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-18T16:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-national-ai-research-resource-task-force-seeks-more-diverse-public-responses.md",
+      "title": "National AI Research Resource Task Force seeks more ‘diverse’ public responses",
+      "excerpt": "The task force designing a blueprint for a National Artificial Intelligence Research Resource extended the deadline to publicly comment on its work by a month to elicit more diverse responses. A few expected respondents asked for more time,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fedscoop.com/nairr-public-comment-extension/",
+      "originalUrl": "https://www.fedscoop.com/nairr-public-comment-extension/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/sng-global-web-assets/logo/Favicon_FS.png",
+          "width": 629,
+          "height": 607,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-18T13:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FedScoop",
+        "domain": "fedscoop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-19-mdbootstrap-70-of-web-developers-support-social-benefits-to-ease-ai-transformation.md",
       "title": "MDBootstrap: 70% of web developers support social benefits to ease AI transformation",
       "excerpt": "Most developers recognize the danger that AI poses for web development jobs. Most of them agreed that AI transformation is likely to be a cause of widespread unemployment in the i",
@@ -757,7 +896,7 @@
       "originalUrl": "https://www.cnbc.com/2021/08/18/democrats-ask-ftc-to-investigate-teslas-self-driving-claims.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 584,
+      "heat": 574,
       "tags": null,
       "images": [
         {
@@ -1071,144 +1210,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-18-intel-realsense-camera-business-being-shut-down.md",
-      "title": "Intel RealSense camera business being shut down",
-      "excerpt": "Intel RealSense is being shut down. Intel CEO Pat Gelsinger wants to focus all of Intel's efforts on its core chipmaking business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/intel-realsense-camera-business-being-shut-down/",
-      "originalUrl": "https://www.therobotreport.com/intel-realsense-camera-business-being-shut-down/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2021/08/intel-realsense-shuts-down.jpg",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-17T20:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-18-artificial-intelligence-for-automotive-applications-market-may-set-epic-growth-story-with-audi-bmw-aimotive.md",
-      "title": "Artificial Intelligence For Automotive Applications Market May Set Epic Growth Story with Audi, BMW, AImotive",
-      "excerpt": "The Latest research study released by HTF MI Worldwide Artificial Intelligence For Automotive Applications Market with 100 pages of analysis on business Strategy taken up by key and emerging industry players and delivers know how of the current market development",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2358326/artificial-intelligence-for-automotive-applications-market",
-      "originalUrl": "https://www.openpr.com/news/2358326/artificial-intelligence-for-automotive-applications-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/8/U818559952_g.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2358326/artificial-intelligence-for-automotive-applications-market",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2358326/artificial-intelligence-for-automotive-applications-market",
-      "publishedDateTime": "2021-08-17T19:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-18-pepperdata-adds-gpu-tracking-tools-to-help-it-teams-maximize-usage.md",
-      "title": "Pepperdata adds GPU-tracking tools to help IT teams maximize usage",
-      "excerpt": "Pepperdata adds tools to monitor GPUs as part of a broader effort to help enterprise IT teams optimize utilization.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/17/pepperdata-adds-gpu-tracking-tools-to-help-it-teams-maximize-usage/",
-      "originalUrl": "https://venturebeat.com/2021/08/17/pepperdata-adds-gpu-tracking-tools-to-help-it-teams-maximize-usage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/GettyImages-1307248206-e1628717341174.jpg?fit=800%2C534&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/17/pepperdata-adds-gpu-tracking-tools-to-help-it-teams-maximize-usage/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/17/pepperdata-adds-gpu-tracking-tools-to-help-it-teams-maximize-usage/amp/",
-      "publishedDateTime": "2021-08-17T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

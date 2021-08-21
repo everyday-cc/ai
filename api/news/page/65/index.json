@@ -2,6 +2,185 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2021-07-03-warming-trends-global-warming-means-happier-rattlesnakes-what-the-future-holds-for-yellowstone-and-fire-experts-plead-for-a-quieter-fourth.md",
+      "title": "Warming Trends: Global Warming Means Happier Rattlesnakes, What the Future Holds for Yellowstone and Fire Experts Plead for a Quieter Fourth",
+      "excerpt": "Science Good News for Rattlesnakes Contrary to a body of research showing that many plants and animals will suffer in a warming world, rising temperatures may actually help cold-blooded rattlesnakes thrive.",
+      "sourceUrl": null,
+      "webUrl": "https://inside.com/",
+      "originalUrl": "https://insideclimatenews.org/news/03072021/warming-trends-climate-change-rattlesnakes-fireworks-wildfire-yellowstone/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inside.com/assets/web/social_pic-cf0b5d505091715c9a12ede9a20c8dfc64bf813c11ed04775fd183cc6ce23fdb.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-03T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inside Climate News",
+        "domain": "insideclimatenews.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-03-facial-recognition-tech-has-been-widely-used-across-the-us-government-for-years-a-new-report-shows.md",
+      "title": "Facial recognition tech has been widely used across the US government for years, a new report shows",
+      "excerpt": "The use of an assortment of other companies’ facial-recognition products was also reported in that same timeframe, such as Amazon’s Rekognition software. Ten agencies told the GAO that it used ...",
+      "sourceUrl": null,
+      "webUrl": "https://kvia.com/news/business-technology/cnn-social-media-technology/2021/06/30/facial-recognition-tech-has-been-widely-used-across-the-us-government-for-years-a-new-report-shows-2/",
+      "originalUrl": "https://kvia.com/news/business-technology/cnn-social-media-technology/2021/06/30/facial-recognition-tech-has-been-widely-used-across-the-us-government-for-years-a-new-report-shows-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kvia.b-cdn.net/2021/07/hypatia-h_23d667f55b4c015e1415b2e40186c54d-h_18bcfaf1b7723aeabe16bdb83b9561b0-300-scaled.jpg",
+          "width": 2560,
+          "height": 1654,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-03T00:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KVIA",
+        "domain": "kvia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-07-03-ford-not-worth-the-risk.md",
+      "title": "Ford: Not Worth The Risk",
+      "excerpt": "Ford could be a great turnaround play ... The effect ends up being that the company wasn't able to retain its advantage - and everyone else in the industry was forced to pay money to keep up.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/samabuelsamid/2021/05/04/argo-ai-shares-some-details-on-the-lidar-that-will-be-used-on-ford-automated-vehicles/?sh=55bcc5223606",
+      "originalUrl": "https://seekingalpha.com/article/4437700-ford-not-worth-the-risk",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609087f84501f2a79e9e0618%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/samabuelsamid/2021/05/04/argo-ai-shares-some-details-on-the-lidar-that-will-be-used-on-ford-automated-vehicles/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2021/05/04/argo-ai-shares-some-details-on-the-lidar-that-will-be-used-on-ford-automated-vehicles/amp/",
+      "publishedDateTime": "2021-07-02T22:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-03-madden-22s-next-gen-stats-and-star-driven-ai-may-have-an-important-disconnect.md",
+      "title": "Madden 22’s Next-Gen Stats And Star-Driven AI May Have An Important Disconnect",
+      "excerpt": "The concept of Next-Gen Stats and star-driven AI are great, but both enhancements might still miss the mark in fixing a legacy issue in the Madden series.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brianmazique/2021/07/02/madden-22s-next-gen-stats-and-star-driven-ai-may-have-an-important-disconnect/",
+      "originalUrl": "https://www.forbes.com/sites/brianmazique/2021/07/02/madden-22s-next-gen-stats-and-star-driven-ai-may-have-an-important-disconnect/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60dfd5ed5cd0db2f2c9735e7%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1456%26cropY1%3D0%26cropY2%3D819",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brianmazique/2021/07/02/madden-22s-next-gen-stats-and-star-driven-ai-may-have-an-important-disconnect/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brianmazique/2021/07/02/madden-22s-next-gen-stats-and-star-driven-ai-may-have-an-important-disconnect/amp/",
+      "publishedDateTime": "2021-07-02T20:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-03-ai-weekly-who-outlines-steps-for-creating-inclusive-ai-health-care-systems.md",
       "title": "AI Weekly: WHO outlines steps for creating inclusive AI health care systems",
       "excerpt": "The World Health Organization (WHO) outlined steps that must be taken for the development of trustworthy AI in health care.",
@@ -955,207 +1134,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-artificial-intelligence-ai-chipsets-market-latest-industry-trends-industry-size-key-drivers-and-future-demand-forecast.md",
-      "title": "Artificial Intelligence (AI) Chipsets Market Latest Industry Trends, Industry Size, Key Drivers and Future Demand Forecast",
-      "excerpt": "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-latest-industry-trends-industry-size-key-drivers-and-future-demand-forecast-2021-07-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-latest-industry-trends-industry-size-key-drivers-and-future-demand-forecast-2021-07-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-01T21:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Healthcare",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-global-artificial-intelligence-market-size-share-to-be-appraised-at-usd-44178-million-by-2025.md",
-      "title": "Global Artificial Intelligence Market Size, Share to Be Appraised at USD 4417.8 million By 2025",
-      "excerpt": "Selbyville, Delaware. The report Artificial Intelligence Market Size and Analysis maintains enhanced dynamics and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-size-share-to-be-appraised-at-usd-44178-million-by-2025-2021-07-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-size-share-to-be-appraised-at-usd-44178-million-by-2025-2021-07-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-01T21:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-five-smart-marketing-use-cases-for-artificial-intelligence.md",
-      "title": "Five Smart Marketing Use Cases For Artificial Intelligence",
-      "excerpt": "Artificial Intelligence (AI) is transforming marketing. Here we look at the different ways companies of any size, and with any budget, can make use of this technology to improve marketing performance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2021/07/02/five-smart-marketing-use-cases-for-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/07/02/five-smart-marketing-use-cases-for-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60de92ae206792710c446fdb%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-01T21:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-how-the-wsjs-events-business-has-thrived.md",
-      "title": "How the WSJ’s events business has thrived",
-      "excerpt": "Jacob Granger of Journalism.co.uk explores how The Wall Street Journal’s events business thrived during the pandemic. Granger writes, “The Wall Street Journal (WSJ) has been setting up virtual events throughout the pandemic to bolster its",
-      "sourceUrl": null,
-      "webUrl": "https://www.movemeback.com/events/the-wall-street-journal-future-of-everything-festival-the-future-of-everything-festival/",
-      "originalUrl": "https://talkingbiznews.com/they-talk-biz-news/how-the-wsjs-events-business-has-thrived/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.movemeback.com/media/thumbnails/images/the-wall-street-journal-future-of-everything-festival-the-future-of-everything-festival-event-cover-20210415-10320999/a83d2a433cf19484038e688f96376be7.jpg",
-          "width": 800,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-01T19:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Talking Biz News",
-        "domain": "talkingbiznews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

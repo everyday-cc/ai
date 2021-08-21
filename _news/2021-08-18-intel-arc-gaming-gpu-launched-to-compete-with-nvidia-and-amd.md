@@ -151,22 +151,6 @@ related:
         width: 1080
         height: 608
         isCached: true
-  - title: "Intel is getting into the dedicated GPU space with Intel Arc, launching early 2022"
-    excerpt: "Intel has announced that the company will be entering the discrete graphics space, making dedicated GPUs for both desktops and laptops starting 2022."
-    publishedDateTime: 2021-08-16T16:00:00Z
-    webUrl: "https://www.pocket-lint.com/homepage/news/intel/158043-intel-is-getting-into-the-dedicated-gpu-space-with-intel-arc-launching-early-2022"
-    ampWebUrl: "https://www.pocket-lint.com/homepage/news/intel/158043-intel-is-getting-into-the-dedicated-gpu-space-with-intel-arc-launching-early-2022.amphtml"
-    cdnAmpWebUrl: "https://www-pocket--lint-com.cdn.ampproject.org/c/s/www.pocket-lint.com/homepage/news/intel/158043-intel-is-getting-into-the-dedicated-gpu-space-with-intel-arc-launching-early-2022.amphtml"
-    type: article
-    provider:
-      name: Pocket-lint
-      domain: pocket-lint.com
-    quality: 53
-    images:
-      - url: "https://cdn.pocket-lint.com/r/s/1200x630/assets/images/0-news-intel-is-getting-into-the-dedicated-gpu-space-with-intel-arc-launching-early-2022-image1-0rugu3ghvs.jpg"
-        width: 943
-        height: 630
-        isCached: true
   - title: "Intel announces gaming GPU brand to challenge Nvidia, AMD in 2022"
     excerpt: "Intel plans to take on Nvidia and AMD with a new brand called Intel Arc for its upcoming series of discrete GPU products for high-performance desktops and laptops that will debut in 2022. The based company unveiled the brand Monday,"
     publishedDateTime: 2021-08-16T19:42:00Z

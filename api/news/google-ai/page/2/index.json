@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-26-artificial-intelligence-predicts-the-shapes-of-molecules-to-come.md",
+      "title": "Artificial intelligence predicts the shapes of molecules to come",
+      "excerpt": "So last fall, after reading that an artificial intelligence lab in London called DeepMind had built a system that automatically predicts the shapes of enzymes and other proteins, McGeehan asked ...",
+      "sourceUrl": null,
+      "webUrl": "https://bdnews24.com/science/2021/07/26/artificial-intelligence-predicts-the-shapes-of-molecules-to-come",
+      "originalUrl": "https://bdnews24.com/science/2021/07/26/artificial-intelligence-predicts-the-shapes-of-molecules-to-come",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d30fl32nd2baj9.cloudfront.net/media/2021/07/26/protein-shapes-260721-01.jpg/BINARY/protein-shapes-260721-01.jpg",
+          "width": 1024,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.bdnews24.com/amp/en/detail/science/1918656",
+      "cdnAmpWebUrl": "https://m-bdnews24-com.cdn.ampproject.org/c/s/m.bdnews24.com/amp/en/detail/science/1918656",
+      "publishedDateTime": "2021-07-26T05:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bdnews24.com",
+        "domain": "bdnews24.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-24-deepmind-unlocks-the-protein-secrets-of-life.md",
       "title": "DeepMind unlocks the protein secrets of life",
       "excerpt": "Demis Hassabis stunned the world of science this week when he and his research team opened a window into how life works.The British artificial intelligence pioneer, 44, revealed an AI system that had",
@@ -1420,58 +1463,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-ai-safety-tools-can-help-mitigate-bias-in-algorithms.md",
-      "title": "AI safety tools can help mitigate bias in algorithms",
-      "excerpt": "A range of tools are available from companies including Microsoft that are designed to address concerns arising from risky AI deployments.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/29/ai-safety-tools-can-help-mitigate-bias-in-algorithms/",
-      "originalUrl": "https://venturebeat.com/2021/06/29/ai-safety-tools-can-help-mitigate-bias-in-algorithms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/06/bigdata.jpg?w=1200&strip=all",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/29/ai-safety-tools-can-help-mitigate-bias-in-algorithms/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/29/ai-safety-tools-can-help-mitigate-bias-in-algorithms/amp/",
-      "publishedDateTime": "2021-06-29T12:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

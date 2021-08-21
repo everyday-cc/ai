@@ -146,15 +146,6 @@ related:
         width: 500
         height: 500
         isCached: true
-  - title: "Conversational AI Market is ready for its next Big Move | Google, Microsoft, IBM, AWS"
-    excerpt: "The ‘ Conversational AI market’ research report added by Report Ocean, is an in-depth analysis of the latest developments, market size, status, upcoming technologies, industry drivers, challenges, regulatory policies,"
-    publishedDateTime: 2021-08-16T16:47:00Z
-    webUrl: "https://ipsnews.net/business/2021/08/16/conversational-ai-market-is-ready-for-its-next-big-move-google-microsoft-ibm-aws/"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 44
   - title: "Microsoft unwraps top secret cloud"
     excerpt: "Microsoft announced its top secret, air-gapped Azure cloud has received authorization to operate and are 'generally available' for national security workloads."
     publishedDateTime: 2021-08-17T20:06:00Z

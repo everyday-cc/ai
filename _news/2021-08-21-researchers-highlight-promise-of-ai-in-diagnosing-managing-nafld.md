@@ -39,20 +39,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Data Sharing to Improve AI Used in Breast-Imaging Research"
-    excerpt: "The large-scale sharing of data is a key step toward transparency in science, say researchers who have made a large dataset of DBT images available to aid development of machine-learning algorithms."
-    publishedDateTime: 2021-08-16T16:52:00Z
-    webUrl: "https://www.medscape.com/viewarticle/956658"
-    type: article
-    provider:
-      name: Medscape
-      domain: medscape.com
-    quality: 37
-    images:
-      - url: "https://img.medscape.com/thumbnail_library/msr_181018_digital_breast_tomosynthesis_800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "uDyhOTDKduTMHpU07eEIJtjBTrDq1fdRUghOuyVblbI7eJ7Z34F1wynywU0/bk+bLXpnoDcOmiAXI0vjOVDyj4wsOzF4X4ABIKPyUnGP4+wDo206K9Dy0mzIxbRQZ7LhqjL7hssh+FdrxlGpuOAnxWBX1qL5fhnWa+RtRSnQ5Tmvc5S/ImbculSurEm+xW7bNxrjH+ZoWLB1+ychYuM8m4wtk8dACCyF4q29MwLO4gNroKHkpxlIemWLUB69/w5yCkIXi+9lWb8BlK05ZXxFC7FyMipL4eHwfCydkk47ihjZVMryMkrtWJ3TNbyhN2OLzYwodv8yOa6d2Y6hdLX/BO5iIp2N2ks4V12+Q0UIYEk0eC9+WK9ZKS5vmf60HPPxYOV5ytWA7P6VOlIujuc10tTLVFWPsi2kSaLJDM2PuLQAho7BXHGOKEWP64I8kmFNnohh+FWRMG3qQWhYE9ZrN8duoAQgbB+YXpHnJAZlnPnpn6CMl5rPdzffbYbGOrPBtbSav557s6Xc8GvADDH9MQ==;vorPCT6evd+gGJz5JscujA=="
 ---

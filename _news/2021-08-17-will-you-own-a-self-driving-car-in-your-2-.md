@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Self-Driving Robocar Will Be Your Personal Assistant, Doesn't Need a Steering Wheel"
-    excerpt: "Baidu, the Chinese tech giant, has recently revealed the robocar, a vehicle with no steering wheel and automatic gull-wing doors that is said to be capable of level 5 autonomy. In addition to the robocar,"
-    publishedDateTime: 2021-08-21T00:55:00Z
-    webUrl: "https://www.autoevolution.com/news/self-driving-robocar-will-be-your-personal-assistant-doesn-t-need-a-steering-wheel-167781.html"
+  - title: "Film's star is self-driving car by Cruise to build trust"
+    excerpt: "The car, one of 200 used for testing by the GM unit, stars in a short film meant to earn consumers' trust and educate them about the technology."
+    publishedDateTime: 2021-08-21T08:00:00Z
+    webUrl: "https://www.autonews.com/mobility-report/films-star-self-driving-car-cruise-build-trust"
     type: article
     provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 18
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
     images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/self-driving-robocar-will-be-your-personal-assistant-doesn-t-need-a-steering-wheel-167781-7.jpg"
-        width: 728
-        height: 300
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/4POPPY-MAIN_i.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "dXZOILHY4D8VaO+ByLCbrbkMkZuGQjv0y1WpJPOgJxYDXPDo+COTsrFQKaqLXinkUpZpn/HMUEQbNpg9wL9dY0Zcenj/0K4A466Cubomqt5wGtnp33DV19u0hTaXxtrvjp4fYRXrFM1fGL1TTsTaVct+4Une+Y8y07QlmB49BM+enVCdmd45v/kLMozFHiFERh65hUOeuMh+7YHZL43rwG1URVinQUVU/6i0kbeZLtL0VxbkNGQ5EtUazwrlOnfDYBgcZBbRD4EcnC6Eock8MYNS4F/j9DtPOBZ9Z8DJABoSqV8i7tif5J87x0qRsiem4yFlGwYtoViLO88l4iBaa7vfEEut4MlX8CVoYHRNYPc=;kYl+xgzcC39IDHkAaUotzQ=="

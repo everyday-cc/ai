@@ -2,6 +2,135 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-08-13-amazon-prime-lawmakers-ask-amazon-what-it-plans-to-do-with-palm-print-biometric-data.md",
+      "title": "Amazon Prime – Lawmakers ask Amazon what it plans to do with palm print biometric data",
+      "excerpt": "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom.",
+      "sourceUrl": null,
+      "webUrl": "https://fintechzoom.com/fintech_news_amazon-prime/amazon-prime-lawmakers-ask-amazon-what-it-plans-to-do-with-palm-print-biometric-data/",
+      "originalUrl": "https://fintechzoom.com/fintech_news_amazon-prime/amazon-prime-lawmakers-ask-amazon-what-it-plans-to-do-with-palm-print-biometric-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fintechzoom.com/wp-content/uploads/2021/08/734fe028b08a216fc0352dd35eb54935.jpeg",
+          "width": 2000,
+          "height": 1321,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-13T04:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fintechzoom",
+        "domain": "fintechzoom.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-13-huawei-vows-to-enable-railway-digitalization-in-apac.md",
+      "title": "Huawei Vows to Enable Railway Digitalization in APAC",
+      "excerpt": "The event attracted more than 1300 railway industry customers, partners, experts, and media drawn from across the APAC region. Core Huawei railway industry customers and partners - including the Hong Kong Mass Transit Railway Corporation (MTR),",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-huawei-vows-enable-railway-digitalization-apac-/2021/08/13/9430379.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-huawei-vows-enable-railway-digitalization-apac-/2021/08/13/9430379.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1594222/railway_image.jpg",
+          "width": 400,
+          "height": 213,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-13T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-13-global-neural-network-software-market-2021-industry-analysis-by-top-leading-player-key-regions-and-future-demand-forecast-upto-2028.md",
+      "title": "Global Neural Network Software Market 2021 Industry Analysis by Top Leading Player, Key Regions and Future Demand, Forecast upto 2028",
+      "excerpt": "The Research Corporation has released a new Neural Network Software Market Report 2021 comes with the exclusive trade analysis of development components, patterns, flows, and sizes. The Neural Network Software report also calculates current and past market values to forecast potential market management through the forecast amount between 2021- 2028.",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/global-neural-network-software-market-2021-industry-analysis-by-top-leading-player-key-regions-and-future-demand-forecast-upto-2028/",
+      "originalUrl": "https://manometcurrent.com/global-neural-network-software-market-2021-industry-analysis-by-top-leading-player-key-regions-and-future-demand-forecast-upto-2028/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manometcurrent.com/wp-content/uploads/2021/08/3-Copy-6-390x220.png",
+          "width": 390,
+          "height": 220,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/global-neural-network-software-market-2021-industry-analysis-by-top-leading-player-key-regions-and-future-demand-forecast-upto-2028/?amp=1",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/global-neural-network-software-market-2021-industry-analysis-by-top-leading-player-key-regions-and-future-demand-forecast-upto-2028/?amp=1",
+      "publishedDateTime": "2021-08-13T04:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-13-ai-startup-abacusai-turns-on-real-time-deep-learning-system-for-enterprises.md",
       "title": "AI startup Abacus.ai turns on real-time deep learning system for enterprises",
       "excerpt": "Real-time capabilities will allow a customer to plug an existing TensorFlow or Pytorch neural network into streaming data and have it continuously re-trained, for uses such as recommender systems.",
@@ -1026,136 +1155,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-fedex-deploys-new-ai-robotics-e-commerce-fulfilment-system.md",
-      "title": "FedEx Deploys new AI-Robotics E-Commerce Fulfilment System",
-      "excerpt": "FedEx to scale up “encouraging” trial of new RPSi system from Berkshire Grey, which is AI-enabled and autonomously sorts thousands of packages a day",
-      "sourceUrl": null,
-      "webUrl": "https://supplychaindigital.com/logistics/fedex-deploys-new-ai-robotics-e-commerce-fulfilment-system",
-      "originalUrl": "https://supplychaindigital.com/logistics/fedex-deploys-new-ai-robotics-e-commerce-fulfilment-system",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://supplychaindigital.com/sites/default/files/styles/og_image/public/image/FedEx%20Delivery%20Van%20with%20Berkshire%20Grey%20Package%20Sortation%20System%20Foreground2.png?itok=svWe6DZ6",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-12T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Supply Chain Digital",
-        "domain": "supplychaindigital.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-deep-learning-chip-market-trend-forecast-drivers-restraints-company-profiles-and-key-players-analysis-by-2028.md",
-      "title": "Deep Learning Chip Market Trend, Forecast, Drivers, Restraints, Company Profiles and Key Players Analysis by 2028",
-      "excerpt": "The global deep learning chip market is expected to reach a market size of USD 27.75 Billion by 2028 and register a high revenue CAGR, according to latest analysis by Emergen Research. Increasing quantum computing adoption is expected to drive global deep learning chip market growth to a significant extent during the forecast period.",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/deep-learning-chip-market-trend-forecast-drivers-restraints-company-profiles-and-key-players-analysis-by-2028/",
-      "originalUrl": "https://manometcurrent.com/deep-learning-chip-market-trend-forecast-drivers-restraints-company-profiles-and-key-players-analysis-by-2028/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/08/Rotating-U-Disk-Market-390x220.jpg",
-          "width": 390,
-          "height": 220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/deep-learning-chip-market-trend-forecast-drivers-restraints-company-profiles-and-key-players-analysis-by-2028/",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-learning-chip-market-trend-forecast-drivers-restraints-company-profiles-and-key-players-analysis-by-2028/",
-      "publishedDateTime": "2021-08-12T08:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-dalhousie-universitys-ai-robotics-team-wins-gold-in-robocup.md",
-      "title": "Dalhousie University’s AI robotics team wins gold in RoboCup",
-      "excerpt": "The Dalhousie University's AI robotics team, CYRUS, has become the first Canadian team to win gold in the international RoboCup competition. Team CYRUS, led by research assistant Nader Zare and PhD student Mahtab Sarvmaili,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/article/dalhousie-universitys-ai-robotics-team-wins-gold-in-robocup/456872",
-      "originalUrl": "https://www.itworldcanada.com/article/dalhousie-universitys-ai-robotics-team-wins-gold-in-robocup/456872",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2021/08/GettyImages-637794534.jpg",
-          "width": 836,
-          "height": 418,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/article/dalhousie-universitys-ai-robotics-team-wins-gold-in-robocup/456872?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/dalhousie-universitys-ai-robotics-team-wins-gold-in-robocup/456872?amp=1",
-      "publishedDateTime": "2021-08-12T07:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -141,6 +141,51 @@
       ]
     },
     {
+      "path": "_news/2021-08-12-tensorflow-with-sagemaker-on-pycharm.md",
+      "title": "TensorFlow with SageMaker on Pycharm",
+      "excerpt": "Amazon SageMaker is a fully managed machine learning service. With SageMaker, data scientists and developers can quickly and easily build and train machine learning models, and then directly deploy them into a production-ready hosted environment.",
+      "sourceUrl": null,
+      "webUrl": "https://github.com/cuiIRISA/tensorflow-sagemaker-on-pycharm",
+      "originalUrl": "https://github.com/cuiIRISA/tensorflow-sagemaker-on-pycharm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://opengraph.githubassets.com/e5ec5167890468b13dc4d9605fad637bbfc0da92cc1285e4cb07019d33ffe4c6/cuiIRISA/tensorflow-sagemaker-on-pycharm",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-12T06:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GitHub",
+        "domain": "github.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2021-08-12-without-code-for-deepminds-protein-ai-this-lab-wrote-its-own.md",
       "title": "Without Code for DeepMind’s Protein AI, This Lab Wrote Its Own",
       "excerpt": "After CASP14, which took place in December 2020, the problem had effectively been solved, by researchers at the Google subsidiary DeepMind. A research company focused on a branch of artificial ...",
@@ -1400,49 +1445,6 @@
         "Machine Learning",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-artificial-intelligence-predicts-the-shapes-of-molecules-to-come.md",
-      "title": "Artificial intelligence predicts the shapes of molecules to come",
-      "excerpt": "So last fall, after reading that an artificial intelligence lab in London called DeepMind had built a system that automatically predicts the shapes of enzymes and other proteins, McGeehan asked ...",
-      "sourceUrl": null,
-      "webUrl": "https://bdnews24.com/science/2021/07/26/artificial-intelligence-predicts-the-shapes-of-molecules-to-come",
-      "originalUrl": "https://bdnews24.com/science/2021/07/26/artificial-intelligence-predicts-the-shapes-of-molecules-to-come",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d30fl32nd2baj9.cloudfront.net/media/2021/07/26/protein-shapes-260721-01.jpg/BINARY/protein-shapes-260721-01.jpg",
-          "width": 1024,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.bdnews24.com/amp/en/detail/science/1918656",
-      "cdnAmpWebUrl": "https://m-bdnews24-com.cdn.ampproject.org/c/s/m.bdnews24.com/amp/en/detail/science/1918656",
-      "publishedDateTime": "2021-07-26T05:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bdnews24.com",
-        "domain": "bdnews24.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.fooddive.com/news/how-nativeai-is-bringing-consumer-da
 webUrl: "https://www.fooddive.com/news/how-nativeai-is-bringing-consumer-data-closer-to-manufacturers/604977/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Adapdix acquires Edge Intelligence to bring data and AI closer together"
-    excerpt: "Adapdix, the industry leader in AI-powered automation software, announces that it has acquired Edge Intelligence, developer of the first geographically distributed data management platform for analytics built for both edge computing and hybrid cloud environments."
-    publishedDateTime: 2021-08-16T16:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/adapdix-acquires-edge-intelligence-to-bring-data-and-ai-closer-together-1030735171"
+  - title: "How AI Prevents Fatigue After Data Breaches"
+    excerpt: "Data breaches can get exhausting, whether you're dealing with them day to day or watching the news. Can AI take some work off your hands?"
+    publishedDateTime: 2021-08-18T13:00:00Z
+    webUrl: "https://securityintelligence.com/articles/ai-prevents-fatigue-data-breaches/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
+      name: Hack
+      domain: securityintelligence.com
+    quality: 37
     images:
-      - url: "https://mma.prnewswire.com/media/1589890/Adapdix_acquires_Edge_Intelligence.jpg"
-        width: 400
-        height: 400
+      - url: "https://securityintelligence.com/wp-content/uploads/2021/08/Government-Chief-of-Cyber-Security-Consults-Military-Officer-who-Works-on-Computer.-Specialists-Working-on-Computers-in-System-Control-Room..jpeg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "s+an0Sjcw5EJLq9UQ1CLrg8ezXwWXQXvBXUWR/3FmgPGSTVg9r6AI45kcjEySuosnIh5b8KSdf4gqYMTME20UlPBKqvIEiPNvvuBAUNQ5nxyy/HKHAw6X7MPFhcMLfABVpjtXEIg1G/EF6mE62pKNFvHNqtzrIIuXPwT95V0EjcWb94vfEtsGJ8MvurPRqESUq5ys6DABCNUibqZQedRf2cdqNsylFSL+JvgArAEF/bKjzdgWtoAWKQAkMG7OQWj40ZIjyNvQFzFBooYGp/NqAWDCUT7KEFsfQH+MK7WoYhEUc2SOVyNrlByoZyatEBjSGDY328N1pbNKdQbhy9zA7/4RPRceuCy0cWqxojrXQQ=;RHxIvDzK/qGr3F3n4SwqIg=="

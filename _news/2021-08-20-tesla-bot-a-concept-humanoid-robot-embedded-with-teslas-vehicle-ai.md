@@ -48,22 +48,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "U.S. probing Autopilot problems on 765,000 Tesla vehicles"
-    excerpt: "The investigation of automated driving systems covers 765,000 vehicles, almost everything Tesla has sold in the U.S. since its 2014 model year."
-    publishedDateTime: 2021-08-16T15:25:07Z
-    webUrl: "https://www.cbsnews.com/news/u-s-probing-autopilot-problems-on-765000-tesla-vehicles/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/u-s-probing-autopilot-problems-on-765000-tesla-vehicles/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/u-s-probing-autopilot-problems-on-765000-tesla-vehicles/"
-    type: article
-    provider:
-      name: cbsnews.com/news/u-s-probing-autopilot-problems-on-765000-tesla-vehicles/
-      domain: cbsnews.com/news/u-s-probing-autopilot-problems-on-765000-tesla-vehicles/
-    quality: 159
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2016/07/26/2ba3eebe-003e-40a9-ba02-878f155e7235/thumbnail/1200x630/98f5acf6ccf62dbae5ac2354d53f0427/gettyimages-545144506.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Elon Musk unveils 'Tesla bot,' a humanoid robot that would be made from Tesla's self-driving AI"
     excerpt: "\"There will be profound applications for the economy,\" Musk said about the bot's future capabilities. \"In the future, physical work will be a choice.\""
     publishedDateTime: 2021-08-20T03:12:00Z

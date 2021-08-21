@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202108/tool-for-explainable-face-b
 webUrl: "https://www.biometricupdate.com/202108/tool-for-explainable-face-biometrics-neural-networks-open-sourced-by-truera"
 type: article
 quality: 53
-heat: 63
+heat: 53
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1050
     height: 591
     isCached: true
-
-related:
-  - title: "Businesses Face New Litigation Risk Over Biometric Information"
-    excerpt: "A New York City law that took effect early last month is likely to significantly expand the range of biometric-related litigation beyond social media companies to a new group of defendants: retail stores,"
-    publishedDateTime: 2021-08-16T16:54:00Z
-    webUrl: "https://www.law.com/newyorklawjournal/2021/08/16/businesses-face-new-litigation-risk-over-biometric-information/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 24
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/389/2021/08/Biometric-Data-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
 
 secured: "tMunVT+GipAjlIemO0qMZjS7Hdsdm6HjjAAj5k4H4gFTIWPRc25zm27fJbJoIXjzUumcJcjHE51saVbQOC7o0krdEPyya5QWmFOmXcviEV0sjSO0VbwBnqoGBr4Y7I1VtgEtAtyhauh9koGRauFjPZ+4EDyhQac6hiOAyfyIur6cxVbsTrNforbZJ3s5ztwWSB8rqu0YLs1dY96K2Vu1V//zU8hlFAar0Ig7IDgxWTB/6mze4ZdtVNKQ/x45Ya5zyL3H0mGwBylaKbsI7so0L1mcGPgLEf1+o9n5U0Q0VHmpJUg4xXLN7awIuvegiZ2j4VrO++8yrl00pLBy7X1AGyrmZkWwG6fLP8iqX4dDmYv0HRvUK74ypXmni1kXr0uIjLcmaq7AhEloH/5haed3vabBgGdRFBSgGH44259g2qRecv3VulW0Yyjhi7ZFmvCaaG03Z6POsMv6WaVvwud5RSIVR7ZCUNVgIHCT1FP5/1l204SBs6KKUiCaWsXpI82qMtBR7WaH4fod+e66ZH7z7A==;Qq9vsCuZwe+T/tzKRv3RWA=="
 ---

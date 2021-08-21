@@ -2,6 +2,126 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-08-16-will-project-dojo-be-the-central-focus-of-teslas-tsla-ai-day.md",
+      "title": "Will Project Dojo be the Central Focus of Tesla's (TSLA) AI Day?",
+      "excerpt": "The AI Day is expected to shed light on new information about the development progress with respect to Tesla’s much touted Full Self-Driving (FSD) suite. Full Self-Driving builds on Tesla’s advanced driver-assistance system known as Autopilot,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/will-project-dojo-be-the-central-focus-of-teslas-tsla-ai-day-2021-08-16",
+      "originalUrl": "https://www.nasdaq.com/articles/will-project-dojo-be-the-central-focus-of-teslas-tsla-ai-day-2021-08-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/will-project-dojo-be-the-central-focus-of-teslas-tsla-ai-day-2021-08-16?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/will-project-dojo-be-the-central-focus-of-teslas-tsla-ai-day-2021-08-16?amp",
+      "publishedDateTime": "2021-08-16T08:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-08-16-infervision-ai-assists-the-european-commission-monitoring-covid-19-variants.md",
+      "title": "InferVision AI Assists the European Commission Monitoring COVID-19 Variants",
+      "excerpt": "InferVision AI has been selected to help monitor COVID-19 variants across the European Union. Faced with this challenge, the European Commission decided to increase their investment in the adoption of AI tools from InferVision.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/infervision-ai-assists-the-european-commission-monitoring-covid-19-variants-1030734639",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/infervision-ai-assists-the-european-commission-monitoring-covid-19-variants-1030734639",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1595169/InferRead_CT.jpg",
+          "width": 400,
+          "height": 243,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-16T06:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-16-data-center-gaming-segments-to-aid-nvidias-nvda-q2-earnings.md",
+      "title": "Data Center, Gaming Segments to Aid NVIDIA's (NVDA) Q2 Earnings",
+      "excerpt": "The company’s fate is tied to its gaming and data-center segments, which accounts for a bulk of NVIDIA’s revenues. The two divisions are likely to continue benefiting from stellar demand for chips used in gaming,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/data-center-gaming-segments-to-aid-nvidias-nvda-q2-earnings-2021-08-16",
+      "originalUrl": "https://www.nasdaq.com/articles/data-center-gaming-segments-to-aid-nvidias-nvda-q2-earnings-2021-08-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/data-center-gaming-segments-to-aid-nvidias-nvda-q2-earnings-2021-08-16?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/data-center-gaming-segments-to-aid-nvidias-nvda-q2-earnings-2021-08-16?amp",
+      "publishedDateTime": "2021-08-16T06:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-16-how-conversational-ai-works-and-what-it-does.md",
       "title": "How Conversational AI Works and What It Does",
       "excerpt": "Automatic Speech Recognition (ASR), Advanced Dialog management, and Machine Learning (ML), are likely to pass the Turing Test and provide a more realistic experience than traditional chatbots. Most of us have had interactions on websites with chatbots that were less than satisfactory,",
@@ -1025,145 +1145,6 @@
         "IBM AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-08-14-3-top-artificial-intelligence-stocks-to-buy-in-august.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy in August",
-      "excerpt": "There are a handful of companies bringing artificial intelligence to the party and changing the game as a result. There's no one way to use AI -- these companies are using it to make lending decisions and power chat bots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/08/14/3-top-artificial-intelligence-stocks-to-buy-in-aug/",
-      "originalUrl": "https://www.fool.com/investing/2021/08/14/3-top-artificial-intelligence-stocks-to-buy-in-aug/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F638439%2Fgettyimages-1269346543.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/08/14/3-top-artificial-intelligence-stocks-to-buy-in-aug/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/08/14/3-top-artificial-intelligence-stocks-to-buy-in-aug/",
-      "publishedDateTime": "2021-08-14T03:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-08-14-the-real-threat-from-artificial-intelligence-basic-science.md",
-      "title": "The real threat from artificial intelligence – basic science",
-      "excerpt": "The reader has already understood the astronomical impact artificial intelligence (AI) has on businesses and governments, forcing large economies to make strategic plans for the technology. What not everyone understands yet are the real risks posed by the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/08/14/the-real-threat-from-artificial-intelligence-basic-science/",
-      "originalUrl": "https://ksusentinel.com/2021/08/14/the-real-threat-from-artificial-intelligence-basic-science/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ksusentinel.com/wp-content/uploads/2021/08/inteligencia-artificial-web-780x470.jpg",
-          "width": 780,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-14T03:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-08-14-automl-code-gen-preview.md",
-      "title": "AutoML Code Gen Preview",
-      "excerpt": "To start using the AutoML Code Gen Preview, the feature must be enabled when submitting the experiment. Please note that these instructions may be updated as needed during the preview. When using AutoML via the SDK, you will need to ensure that you call ...",
-      "sourceUrl": null,
-      "webUrl": "https://github.com/Azure/automl-codegen-preview",
-      "originalUrl": "https://github.com/Azure/automl-codegen-preview",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://opengraph.githubassets.com/c51cf07a677ebb46f6eeb3c56eb7614de3f82950948f224e7d06dde45ee63133/Azure/automl-codegen-preview",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-14T03:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GitHub",
-        "domain": "github.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

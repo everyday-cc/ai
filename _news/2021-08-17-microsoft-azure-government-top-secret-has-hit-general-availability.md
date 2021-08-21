@@ -7,7 +7,7 @@ originalUrl: "https://www.neowin.net/news/microsoft-azure-government-top-secret-
 webUrl: "https://www.neowin.net/news/microsoft-azure-government-top-secret-has-hit-general-availability/"
 type: article
 quality: 99
-heat: 219
+heat: 209
 published: true
 
 provider:
@@ -135,15 +135,6 @@ related:
         width: 500
         height: 500
         isCached: true
-  - title: "Conversational AI Market is ready for its next Big Move | Google, Microsoft, IBM, AWS"
-    excerpt: "The ‘ Conversational AI market’ research report added by Report Ocean, is an in-depth analysis of the latest developments, market size, status, upcoming technologies, industry drivers, challenges, regulatory policies,"
-    publishedDateTime: 2021-08-16T16:47:00Z
-    webUrl: "https://ipsnews.net/business/2021/08/16/conversational-ai-market-is-ready-for-its-next-big-move-google-microsoft-ibm-aws/"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 44
   - title: "Cloud Natural Language Processing Market to Witness Massive Growth by Microsoft, Facebook, Google"
     excerpt: "This press release was orginally distributed by SBWire Edison, NJ — (SBWIRE) — 08/18/2021 — The latest study released on the Global Cloud Natural Language Processing Market by AMA Research evaluates market size,"
     publishedDateTime: 2021-08-18T13:57:00Z

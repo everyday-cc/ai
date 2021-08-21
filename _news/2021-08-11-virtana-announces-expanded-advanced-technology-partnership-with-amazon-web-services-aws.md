@@ -3,8 +3,8 @@ category: news
 title: "Virtana Announces Expanded Advanced Technology Partnership with Amazon Web Services (AWS)"
 excerpt: "Virtana, the AIOps observability company for hybrid cloud, today announced its expanded offering of Virtana Platform on Amazon Web Services (AWS) Marketplace. Offering end user customers a unified SaaS platform on Marketplace,"
 publishedDateTime: 2021-08-11T13:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/08/11/9428699.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/08/11/9428699.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-virtana-announces-expanded-advanced-technology-partnership-with-amazon-/2021/08/11/9428699.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-virtana-announces-expanded-advanced-technology-partnership-with-amazon-/2021/08/11/9428699.htm"
 type: article
 
 provider:
@@ -15,6 +15,6 @@ topics:
   - AWS AI
   - AI
 
-secured: "kp+F93H3m6A+4tTv8YiSbdc++BjzP57jZ5rOGf36kO8jBev1+cjsXhb6BVP5YBYcP+al/bAqaNP8I9oraBWTNZWG8hSB60ym93kQa6Qt6q6qfKF6NX3C6BnudyURJ/POxssnROAmLQw/bJi1hao1VPAfY5cJT+WiT9XM7e60kPNf0Ddxl8KyThkYR9uaPoVb2V15IjjIhorXQ2G1m5e2wBfMUSkXjio3GXSoRNXhfXf0EsoTtc4SA2ZFoVnkYndT8Tyf7nQw5I8rnl6Tkb7gXtYs2l3sTbDAR8UKd6EadXiLPIzaBqryJGhEexBbx8+oSytuWCaOPyFYfsOIXrpIGlILNrRtXUP9idEH6qpv/wo=;AzBKZLYtTCBIw7RwieVYXQ=="
+secured: "Qyob7V1JGquk6D3QTdWXy4/+Z40q5+jjNOtgfNUkC68gjXiMCzZnHDZQtmg0HhmcjFxlzX0WgOEMJelBGdK6U68wOALfJ7LsCZ1jU0TKq4ydWUk7aBfDgQCVn5ZRY/jpMbMpAyhHlHW89sPW1ap0/yl5BaPBH/b9dvX3WX5uOo2IzzzWZpwnoVp6egcegNf8v/fXbSjtCh+qc5ZuS4YMXa6Eafoij96IBNB/PRQuz0RiblD9FV5kx+VvC9+DsPg6iaWVWFw/Erir5l8m+GbChRxphNT9Dxe49tdYxxCtvE8Om79GDJ2TQjaEhxsbREuW744iBvhLwvqhwhe74fStzGXi+OOt1z+ZgjdeGmVv9YE=;wS1eTqGqKlY22PlOhfJ6ng=="
 ---
 

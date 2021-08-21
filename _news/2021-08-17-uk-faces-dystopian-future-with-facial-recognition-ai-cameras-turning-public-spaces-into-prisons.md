@@ -59,6 +59,20 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "New UK live facial recognition code proposed has potential for adverse effects"
+    excerpt: "The proposed code states that any use of live facial recognition should quickly delete any unused biometric data collected."
+    publishedDateTime: 2021-08-19T20:02:00Z
+    webUrl: "https://www.biometricupdate.com/202108/new-uk-live-facial-recognition-code-proposed-has-potential-for-adverse-effects"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/11151135/biometric-identification-facial-recognition.jpg"
+        width: 1600
+        height: 1109
+        isCached: true
 
 secured: "8D2b+QScFYUT60E2qR8z/IxMTNJzOCM6Y1OHSeKPgaQIMDhj91skOcFTEqRJ43xYGRnSPZJ7wkXOAwmXfQNnj55xha2La0F6FTveRVFC+QlOI3smfHhvNnYNOZs8eG0+UzLCKJ6zPB4bPOMl06YQdk/Pgr0p+Tqvi7bMGSL/4TVLiT8qC7RswL8qjVfQwfaRf81AZR9iTmYYk9gUGY3jCA6yweJ1SgKrIyNX4KdjL/5FKJJLCNDumqrKHNM7Ha4A9aJxVHgYKg7mTXrK4khbnBIv2bZ6r+c0r49bmaW3nvMghiyCDIPsus+XYZc65VhJP1eTWrEs26hJOq9sPOkN5OJ96xolmElQdTx2p/2XZxXeB1HJkjwrDlqMUQuLezTQ0xIHlp3mcorwf9eyttvyhsG1l8uYlJ3dBTtlAOno/eUASWYug5YQaUdFCYlkIjHVr7HvpAUH7Egeq2DU6CHjke+NnldiD/2YmHtfBmset8xlyiEz4HcliNfi1OkDFH0uZ7vSdXzqKdK6W9bqAi4V7A==;Yf37xs4xYm5oQo1wILgN7w=="
 ---

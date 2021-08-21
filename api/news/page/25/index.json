@@ -2,6 +2,180 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-08-02-facial-recognition-in-uae-now-open-a-bank-account-with-a-selfie.md",
+      "title": "Facial recognition in UAE: Now, open a bank account with a selfie",
+      "excerpt": "UAE citizens and residents can now open a bank account from the comfort of their home by taking a selfie — and be done with the entire process in less than five minutes. Abu Dhabi Islamic Bank (ADIB) on Monday signed a partnership with the Ministry of Interior to launch the UAE’s first digital account opening service through an app by using a selfie.",
+      "sourceUrl": null,
+      "webUrl": "https://www.khaleejtimes.com/news/facial-recognition-in-uae-now-open-a-bank-account-with-a-selfie",
+      "originalUrl": "https://www.khaleejtimes.com/news/facial-recognition-in-uae-now-open-a-bank-account-with-a-selfie",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://amp.khaleejtimes.com/storyimage/KT/20210802/ARTICLE/210809856/AR/0/AR-210809856.jpg&NCS_modified=20210802112011&MaxH=225&imageVersion=16by9",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.khaleejtimes.com/news/facial-recognition-in-uae-now-open-a-bank-account-with-a-selfie",
+      "cdnAmpWebUrl": "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/news/facial-recognition-in-uae-now-open-a-bank-account-with-a-selfie",
+      "publishedDateTime": "2021-08-02T02:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Khaleej Times",
+        "domain": "khaleejtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-08-02-samsung-sets-up-ai-ml-lab-at-karnatakas-kle-technological-university.md",
+      "title": "Samsung sets up AI, ML lab at Karnataka's KLE Technological University",
+      "excerpt": "The ‘SEED Lab’ will allows students and faculty members at KLE Tech to jointly work on research and development projects under the mentorship of s..",
+      "sourceUrl": null,
+      "webUrl": "https://telecom.economictimes.indiatimes.com/news/samsung-sets-up-ai-ml-lab-at-karnatakas-kle-technological-university/84969085",
+      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/samsung-sets-up-ai-ml-lab-at-karnatakas-kle-technological-university/84969085",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-84969085,imgsize-1257112,width-800,height-434,overlay-ettelecom/samsung-sets-up-ai-ml-lab-at-karnataka-s-kle-technological-university.jpg",
+          "width": 800,
+          "height": 434,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/samsung-sets-up-ai-ml-lab-at-karnatakas-kle-technological-university/84969085",
+      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/samsung-sets-up-ai-ml-lab-at-karnatakas-kle-technological-university/84969085",
+      "publishedDateTime": "2021-08-02T01:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-08-02-facial-recognition-market-research-report-upcoming-trends-demand-regional-analysis-and-forecast-2020-to-2025.md",
+      "title": "Facial Recognition Market Research Report, Upcoming Trends, Demand, Regional Analysis and Forecast 2020 to 2025",
+      "excerpt": "According to IMARC Group latest report titled\" Facial Recognition Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025\", the market grew at a CAGR of around 18% during 2014-2019.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-research-report-upcoming-trends-demand-regional-analysis-and-forecast-2020-to-2025-2021-08-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-research-report-upcoming-trends-demand-regional-analysis-and-forecast-2020-to-2025-2021-08-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-02T01:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-02-hoth-therapeutics-initiates-preclinical-study-of-ht-alz-for-alzheimers-disease.md",
+      "title": "Hoth Therapeutics Initiates Preclinical Study of HT-ALZ for Alzheimer's Disease",
+      "excerpt": "To evaluate other forms of memory, we will also determine if chronic HT-ALZ treatment influences non-spatial memory using a novel object recognition and novel object location task. These tests ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/08/n22272652/hoth-therapeutics-initiates-preclinical-study-of-ht-alz-for-alzheimers-disease",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/08/n22272652/hoth-therapeutics-initiates-preclinical-study-of-ht-alz-for-alzheimers-disease",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/22272652",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22272652",
+      "publishedDateTime": "2021-08-02T01:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-02-desicrew-scales-up-ai-and-ml-service-offerings-for-its-next-phase-of-growth.md",
       "title": "DesiCrew scales up AI and ML service offerings for its next phase of growth",
       "excerpt": "The Chennai-based DesiCrew, a digital transformation services company in the league of India's Tier I tech service vendors",
@@ -957,195 +1131,6 @@
         "Machine Learning",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-07-31-what-are-the-recent-developments-in-cancer-therapy.md",
-      "title": "What Are the Recent Developments in Cancer Therapy?",
-      "excerpt": "Cancer is one of the world’s deadliest diseases, claiming more than 166,000 lives a year in the UK. In the United States, cancer accounts for more than 600,000 mortalities a year, with lung",
-      "sourceUrl": null,
-      "webUrl": "https://www.labmate-online.com/news/news-and-views/5/breaking-news/what-are-the-recent-developments-in-cancer-therapy/55835",
-      "originalUrl": "https://www.labmate-online.com/news/news-and-views/5/breaking-news/what-are-the-recent-developments-in-cancer-therapy/55835",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.labmate-online.com/assets/file_store/pr_files/55835/thumbnails/images/600w_pexels-klaus-nielsen-6303696.jpg",
-          "width": 600,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-31T03:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "labmate-online.com",
-        "domain": "labmate-online.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-31-why-artificial-intelligence-isnt-intelligent.md",
-      "title": "Why Artificial Intelligence Isn’t Intelligent",
-      "excerpt": "Some AI experts think that the name itself is fueling the kind of hype and confusion that have led to “AI winters” in the past.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/why-artificial-intelligence-isnt-intelligent-11627704050",
-      "originalUrl": "https://www.wsj.com/articles/why-artificial-intelligence-isnt-intelligent-11627704050",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-376905/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/why-artificial-intelligence-isnt-intelligent-11627704050",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/why-artificial-intelligence-isnt-intelligent-11627704050",
-      "publishedDateTime": "2021-07-30T20:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-07-31-global-artificial-intelligence-ai-in-oil-and-gas-market-to-witness-tremendous-growth-rate-during-forecast-period.md",
-      "title": "Global Artificial Intelligence (AI) in Oil and Gas Market to witness tremendous growth rate during forecast period",
-      "excerpt": "Global Artificial Intelligence (AI) in Oil and Gas Market Stepped Up to Surge Growth Rate Amid COVID-19 Analysis. The report on “Artificial Intelligence (AI) in Oil and Gas Mark",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/global-artificial-intelligence-ai-in-oil-and-gas-market-to-witness-tremendous-growth-rate-during-forecast-period/",
-      "originalUrl": "https://manometcurrent.com/global-artificial-intelligence-ai-in-oil-and-gas-market-to-witness-tremendous-growth-rate-during-forecast-period/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dailyhonestfacts.com/wp-content/uploads/2021/05/market-research-store5.jpg.jpg",
-          "width": 500,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-30T18:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-31-load-external-tfrecord-with-tfds.md",
-      "title": "Load external tfrecord with TFDS",
-      "excerpt": "For TFDS to be able to decode the tf.train.Example proto, you need to provide the tfds.features sturcture matching your specs. For example: features = tfds.features.FeaturesDict({ 'image': tfds.features.Image(shape=(256, 256, 3)), 'label': tfds.features ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/datasets/external_tfrecord?hl=nb",
-      "originalUrl": "https://www.tensorflow.org/datasets/external_tfrecord?hl=nb",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=nb",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-30T18:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

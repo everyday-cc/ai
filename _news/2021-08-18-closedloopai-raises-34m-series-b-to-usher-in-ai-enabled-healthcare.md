@@ -76,6 +76,22 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 66
+  - title: "From health care to infrastructure, how AI is changing the world for the better"
+    excerpt: "New advances and creative applications are harnessing the power of AI to offer solutions to a host of social issues to enable new leaps in human development."
+    publishedDateTime: 2021-08-20T14:50:00Z
+    webUrl: "https://www.technologyreview.com/2021/08/20/1032358/from-health-care-to-infrastructure-how-ai-is-changing-the-world-for-the-better/"
+    ampWebUrl: "https://www.technologyreview.com/2021/08/20/1032358/from-health-care-to-infrastructure-how-ai-is-changing-the-world-for-the-better/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/08/20/1032358/from-health-care-to-infrastructure-how-ai-is-changing-the-world-for-the-better/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 53
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/08/Baidu_CDSS_1200_675.jpg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "FinTech: AI and the future of financial services"
     excerpt: "AI has given birth to the fintech industry, making digital transactions and data aggregation a new way of life, but what does the future hold?"
     publishedDateTime: 2021-08-17T09:23:00Z

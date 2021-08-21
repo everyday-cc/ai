@@ -89,6 +89,22 @@ related:
         width: 1598
         height: 840
         isCached: true
+  - title: "From health care to infrastructure, how AI is changing the world for the better"
+    excerpt: "New advances and creative applications are harnessing the power of AI to offer solutions to a host of social issues to enable new leaps in human development."
+    publishedDateTime: 2021-08-20T14:50:00Z
+    webUrl: "https://www.technologyreview.com/2021/08/20/1032358/from-health-care-to-infrastructure-how-ai-is-changing-the-world-for-the-better/"
+    ampWebUrl: "https://www.technologyreview.com/2021/08/20/1032358/from-health-care-to-infrastructure-how-ai-is-changing-the-world-for-the-better/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/08/20/1032358/from-health-care-to-infrastructure-how-ai-is-changing-the-world-for-the-better/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 53
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/08/Baidu_CDSS_1200_675.jpg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "ClosedLoop.ai Raises $34M Series B to Usher in AI-Enabled Healthcare and Tackle Trillion-Dollar Healthcare Problem"
     excerpt: "ClosedLoop.ai., healthcare’s data science platform, today announced a $34 million Series B financing. The investment round, led by Telstra Ventures with participation from Breyer Capital, Greycroft Ventures,"
     publishedDateTime: 2021-08-17T10:02:00Z

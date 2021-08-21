@@ -24,17 +24,6 @@ images:
     height: 300
     isCached: true
 
-related:
-  - title: "Will you own a self-driving car in your -2-"
-    excerpt: "Tesla's Full Self-Driving is considerably more sophisticated. Despite its name, it does not possess SAE Level 5 self-driving capability. Full Self-Driving can park the car in a parking space, back it out of a parking space,"
-    publishedDateTime: 2021-08-17T04:01:00Z
-    webUrl: "https://www.morningstar.com/news/marketwatch/2021081720/will-you-own-a-self-driving-car-in-your-2"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 4
-
 secured: "UEgkekauAgXOzvIkqWE1iAbHZ3Vntw2v/6qbXORKqx6HRaEx3SHbqd1obxQDchAeg6TpSIZcbBMqpMG/M54WIy7Rhha07pjlqKA/Cuum+mwaSEjCozd38yBbsYPdBW+x6/kn2n/o97w9z5ckRdaIR/Ajly6ScsjPowWP17ZqZrdD9EeaoohTcKF4syUZmpWhj55NYc1yfmMkxygsjSU2LJOG4joaaeMZqrJ/KpyCujltxtZYgj7KzYlhkjM9aMOevb5eqtILGFZPBR2Lb5eb6UhBVUTkFyyLSCIdzB3G4uhI3Vclov8F7mbLzZkjnDBfOZZMkb8L5AnIgOZjPHn/Tf03BtUrehECGt8scXJS1S9LNH+8kutkvMa+8SKvYxCvqtchcTXQnUvggS1wr/O8z3Lh7Oy2aXj7l11HD3dbuFbrgLJnT/ScgWl74lyf8aiuXay0zzBrOzPmmYsKEva05Us3dqRfU4eePhPkwektpzUZIOo+LvdVZlsb+bQ9pWytYBUhxo1qPauqoiXhZ077xg==;REP9UB7uRzSEfNzuez5E8g=="
 ---
 

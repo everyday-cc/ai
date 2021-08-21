@@ -56,6 +56,57 @@
       ]
     },
     {
+      "path": "_news/2021-08-21-ai-weekly-ai-research-still-has-a-reproducibility-problem.md",
+      "title": "AI Weekly: AI research still has a reproducibility problem",
+      "excerpt": "QMIX is a popular algorithm that implements CTDE, and many research groups claim to have designed QMIX algorithms that perform well on difficult benchmarks. But a new paper claims that these algorithms’ improvements might only be the result of code optimizations or “tricks” rather than design innovations.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/20/ai-weekly-ai-research-still-has-a-reproducibility-problem/",
+      "originalUrl": "https://venturebeat.com/2021/08/20/ai-weekly-ai-research-still-has-a-reproducibility-problem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?fit=800%2C414&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/20/ai-weekly-ai-research-still-has-a-reproducibility-problem/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/20/ai-weekly-ai-research-still-has-a-reproducibility-problem/amp/",
+      "publishedDateTime": "2021-08-20T18:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-21-what-ai-researchers-can-learn-from-the-self-assembling-brain.md",
       "title": "What AI researchers can learn from the self-assembling brain",
       "excerpt": "One idea that hasn’t gotten enough attention from the AI community is how the brain creates itself, argues Peter Robin Hiesinger.",
@@ -95,6 +146,48 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-21-senators-question-doj-funding-for-ai-powered-policing-tech.md",
+      "title": "Senators question DOJ funding for AI-powered policing tech",
+      "excerpt": "Some Capitol Hill Democrats and civil rights advocates are concerned about how police and prosecutors increasingly use algorithm-powered technologies that may amplify racial bias",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/senators-question-doj-funding-ai-powered-policing-tech-79565344",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/senators-question-doj-funding-ai-powered-policing-tech-79565344",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/210723_vod_75yroldtasedCO_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/senators-question-doj-funding-ai-powered-policing-tech-79565344",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/senators-question-doj-funding-ai-powered-policing-tech-79565344",
+      "publishedDateTime": "2021-08-20T15:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -155,6 +248,58 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-21-tesla-bull-vs-tesla-bear-tesla-ai-day-key-takeaways-from-analysts.md",
+      "title": "Tesla Bull Vs. Tesla Bear: Tesla AI Day Key Takeaways From Analysts",
+      "excerpt": "Tesla Inc (NASDAQ: TSLA) explained various AI technology, seemingly for recruiting purposes, during its AI Day on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/tesla-bull-vs-tesla-bear-tesla-ai-day-key-takeaways-from-analysts-1030749493",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/tesla-bull-vs-tesla-bear-tesla-ai-day-key-takeaways-from-analysts-1030749493",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/0x0-model3_13_0.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-20T11:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -659,7 +804,7 @@
       "originalUrl": "https://newatlas.com/robotics/tesla-bot-robot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 642,
+      "heat": 672,
       "tags": null,
       "images": [
         {
@@ -1089,153 +1234,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-diamond-age-raises-8-million-seed-round-to-advance-robotics-and-3d-printing-for-affordable-home-construction.md",
-      "title": "Diamond Age Raises $8 Million Seed Round to Advance Robotics and 3D Printing for Affordable Home Construction",
-      "excerpt": "Diamond Age, a full stack robotics startup that is automating new home construction to make home ownership more affordable, raised an $8 million seed round led by Prime Movers Lab and Alpaca VC. Additional investors include Dolby Family Ventures,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/diamond-age-raises-8-million-seed-round-to-advance-robotics-and-3d-printing-for-affordable-home-construction-1030746267",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/diamond-age-raises-8-million-seed-round-to-advance-robotics-and-3d-printing-for-affordable-home-construction-1030746267",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-new-windows-10-previews-arrive-for-versions-21h2-and-21h1.md",
-      "title": "New Windows 10 previews arrive for versions 21H2 and 21H1",
-      "excerpt": "and Azure IoT Edge for Linux on Windows (EFLOW) deployments for machine learning. It moves 21H2 to build number 19044.1200. The best laptops: Our recommended models for every use case and platform New year, new laptop? These are the devices that should be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2025/index.php/article/new-windows-10-21h2-and-21h1-previews-arrive/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2025/index.php/article/new-windows-10-21h2-and-21h1-previews-arrive/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/r/2021/07/15/70041633-d204-4909-8e5f-a88cf817ee47/thumbnail/1200x675/f38a610575a8bcb617825d19d1c98802/gettyimages-1216889099.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2025/index.php/google-amp/article/new-windows-10-21h2-and-21h1-previews-arrive/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2025/index.php/google-amp/article/new-windows-10-21h2-and-21h1-previews-arrive/",
-      "publishedDateTime": "2021-08-19T08:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-city-leaders-heres-why-urban-tourism-could-skyrocket-due-to-ai-self-driving-cars.md",
-      "title": "City Leaders: Here’s Why Urban Tourism Could Skyrocket Due To AI Self-Driving Cars",
-      "excerpt": "Tourism is significant to the economic wellbeing of cities, and we might see a boon in urban tourism due to the advent of AI-based true self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/19/city-leaders-heres-why-urban-tourism-could-skyrocket-due-to-ai-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/19/city-leaders-heres-why-urban-tourism-could-skyrocket-due-to-ai-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611c144d2530a533d7e1f280%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1534%26cropY1%3D29%26cropY2%3D892",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/19/city-leaders-heres-why-urban-tourism-could-skyrocket-due-to-ai-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/19/city-leaders-heres-why-urban-tourism-could-skyrocket-due-to-ai-self-driving-cars/amp/",
-      "publishedDateTime": "2021-08-19T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],
