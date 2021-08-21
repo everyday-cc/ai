@@ -51,7 +51,7 @@ related:
     provider:
       name: datanami.com
       domain: datanami.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/smiley_face_emoji_shutterstock_-pixelliebe.jpg"
         width: 1000

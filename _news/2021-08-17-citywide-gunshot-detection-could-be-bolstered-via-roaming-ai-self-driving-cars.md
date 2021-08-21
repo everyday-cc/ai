@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Artificial Intelligence in cars: A timely boost to driving experience"
+    excerpt: "Artificial intelligence (AI) is a wide-range branch of computer science concerned with building smart machines capable of performing tasks that typically require human intelligence. Presently, AI can be seen anywhere whether it's your cellphone,"
+    publishedDateTime: 2021-08-20T07:52:00Z
+    webUrl: "https://www.cityspidey.com/news/14469/artificial-intelligence-in-cars-a-timely-boost-to-driving-experience"
+    ampWebUrl: "https://www.cityspidey.com/amp/news/14469/artificial-intelligence-in-cars-a-timely-boost-to-driving-experience"
+    cdnAmpWebUrl: "https://www-cityspidey-com.cdn.ampproject.org/c/s/www.cityspidey.com/amp/news/14469/artificial-intelligence-in-cars-a-timely-boost-to-driving-experience"
+    type: article
+    provider:
+      name: cityspidey
+      domain: cityspidey.com
+    quality: 57
+    images:
+      - url: "https://cityspideynews.s3.amazonaws.com/uploads/spidey/202108/artificial-intelligence-in-cars-1629444886.jpg"
+        width: 1170
+        height: 580
+        isCached: true
 
 secured: "xGImd6eWVz4fZpbHHkL6K/lyge4nKpREoZXQYc9N1c/zx4dhoJp/kuBr/yVK/OYAwLEOtlKrYL+X/SWQmGrFeeVK7kO0EnVypnv8JRPqxFzaqHbHG+oECmr43zEauZwdt7StgGL/WOdmlfOg8OvEs4kFzmnBbXpzYrhyEvFF8QKEqd3qj5/7IHgdHcgXFkAWObQVPM49Qe9cUoT5+PkLd2j/nbNkVLE0gnMjRNKzOzx4zAdpHu6FxjqW7tr4KAtu1xvSjDd0cHgcJUyhTvgvV75RDx1+kc+WMh9pFygIK+5GnnTblrRFmSUGLR+z2y4a516KvpS69jdPvpXleGfLxMCYE5cbTe4cLeL8HEWvbFboNOaY6O5dMlpTs+vg3YfnhV+crve2hOAj1oGmpw4fTMyc7LUBGdUdIksbK9oMmR7cHL3uWuJya+iqOW/sp8wq2LywdvYXWTMIOZrZYGYFxMyNdp9n09/3KeOuciXVhU6aQ55x+yNpGrKzSggsBL4g55VucHFqSwAl/jZJOURjXQ==;PhtZc9LV5iV8eOLKRnTodw=="
 ---

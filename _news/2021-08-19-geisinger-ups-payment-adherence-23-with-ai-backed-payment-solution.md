@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Geisinger Unveils AI-Backed, Customizable Approach to Medical Billing"
+    excerpt: "The new offering in partnership with fintech startup, PayZen marks Geisinger as the first large health system in the country to deploy an AI-backed financing solution to create customized billing ..."
+    publishedDateTime: 2021-08-20T09:50:00Z
+    webUrl: "https://hitconsultant.net/2021/08/20/geisinger-zero-interest-payment-patients/"
+    type: article
+    provider:
+      name: HIT Consultant
+      domain: hitconsultant.net
+    quality: 39
+    images:
+      - url: "https://mk0hitconsultan2lp7c.kinstacdn.com/wp-content/uploads/2020/04/Geisinger.jpg"
+        width: 460
+        height: 306
+        isCached: true
   - title: "Geisinger offers AI-enabled payment plans for patients"
     excerpt: "Startup PayZen provided Geisinger's platform ... \"We looked at this market and felt the 'buy now, pay later' approach for healthcare needs to happen.\" An AI-based algorithm analyzes more than 30,000 patient finance data to determine how much they are ..."
     publishedDateTime: 2021-08-20T20:01:00Z

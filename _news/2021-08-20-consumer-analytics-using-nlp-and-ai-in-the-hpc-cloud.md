@@ -6,7 +6,7 @@ publishedDateTime: 2021-08-20T16:25:00Z
 originalUrl: "https://www.datanami.com/2021/08/20/consumer_analytics_using_nlp_and_ai/"
 webUrl: "https://www.datanami.com/2021/08/20/consumer_analytics_using_nlp_and_ai/"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/smiley_face_emoji_shutterstock_-pixelliebe.jpg"
@@ -119,6 +120,6 @@ related:
       domain: businessinsider.com
     quality: 21
 
-secured: "ttGatOr7GYWrkfZoyF1k6cFqNZwfec8h4UImzxqi5S6j9MbB8hdaHERrYYQOw+MPtxmLiu81jOqyZn59Agv0oDKd3IUfb5Gzl3iw7tDbKauhCT7ZBYe6Jm9/BHiU4v4wPg/+isT2+6ZzZkEpkYTyaEsC2+RSHPVhfLMO6ZPe3Y3XNcJ0cNYy/XxgImafgTrWWcb+l5PnfvJZ3dFfEKDiMEstsLLKq3Rx6+L+DLIXpwnZRF8R0zttiUcYcE4WT50TsKNMUbjJvbrLltEvN4mFtKq7V0nnst1XuOIU7owKGwORpWPCZRLkvNk2/SIo1SXnsw4KKx6V1eSzfrYOPzYA7XjWmeITlNbQAEhz20D0t10=;VU1wFks48jd7bqcjsYHUfw=="
+secured: "Dq8UkVHYia7Dj5751I2eu06ck0XHR/Qu7hWIaYEOyDPt+gjfyUTUgt2I3h3PFAcuD6eRvnMlul3duONVPAz90/T9xaAC8FDLQIVCSImRq35ZkGsskqStGiRv8ue5gFHoEE37lbuPpZhe+MIJo0V76YEX5DbZT9LVgPTyjeVmvEC4icROcUA8T3+U7F5d9vXHplpoEos+NzDBJnG/Oqw8SxSoorleaxDUvjz+/SG7i1yepT+AIlnv4vP0b8MzzXaAkJ14MxsCQq+mYz7gdM2BGE1csQzjVc4nDBnOUNu1B0moJGaDBzZORgOOdGOazatj+CeDDpqxUozsb6L1ugXZNxJrm7Rn2An+c3C3gyVcWtk0gYW1tu7m0faV2TCkj5xKzhIsCCvxOQ75yvjN3rzbjm9Ufle7sPU253Mkf1M4w+jSFpXhrOEzPNBxoEqdR+hps1wsSFLBI+wCVnQr32dvuzk2HP83kiluvrQzGj/1eDGZOzSM3pyNzPAA97CxoW01xNMYL2IqworsoI9O08ORWw==;zpWVLnR5TLDXaK9dml5pNA=="
 ---
 

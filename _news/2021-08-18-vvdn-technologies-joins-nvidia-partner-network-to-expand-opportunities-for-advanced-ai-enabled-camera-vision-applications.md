@@ -1,10 +1,10 @@
 ---
 category: news
 title: "VVDN Technologies Joins NVIDIA Partner Network to Expand Opportunities for Advanced AI-Enabled Camera & Vision Applications"
-excerpt: "VVDN Technologies, a premier electronic product engineering and manufacturing company, announced that it has joined the NVIDIA Partner Network (NPN) as a provider of AI-enabled computer vision solutions powered by the NVIDIA Jetson edge AI platform."
+excerpt: "As part of the NVIDIA Jetson partner ecosystem, VVDN can leverage the powerful GPU-accelerated edge computing ... and manufacture next-gen innovative AI/ML based camera and vision solutions ..."
 publishedDateTime: 2021-08-18T01:18:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/vvdn-technologies-joins-nvidia-partner-network-to-expand-opportunities-for-advanced-ai-enabled-camera-vision-applications-1030741069"
-webUrl: "https://markets.businessinsider.com/news/stocks/vvdn-technologies-joins-nvidia-partner-network-to-expand-opportunities-for-advanced-ai-enabled-camera-vision-applications-1030741069"
+originalUrl: "https://markets.businessinsider.com/news/stocks/vvdn-technologies-joins-nvidia-partner-network-to-expand-opportunities-for-advanced-ai-enabled-camera-vision-applications-1030742469"
+webUrl: "https://markets.businessinsider.com/news/stocks/vvdn-technologies-joins-nvidia-partner-network-to-expand-opportunities-for-advanced-ai-enabled-camera-vision-applications-1030742469"
 type: article
 quality: 23
 heat: -1
@@ -19,7 +19,7 @@ provider:
       height: 50
 
 topics:
-  - Computer Vision
+  - AI Hardware
   - AI
 
 related:
@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI Exosphere Joins NVIDIA Inception to Bring New AI Assistant to Market"
+    excerpt: "\"After being invited to the NVIDIA Inception program and hearing all the excellent work and support, NVIDIA is doing; we knew this was the best fit for our startup,\" said Sal Peer, CEO of AI Exosphere. NVIDIA Inception helps startups during critical stages ..."
+    publishedDateTime: 2021-08-19T12:38:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-exosphere-joins-nvidia-inception-to-bring-new-ai-assistant-to-market/article_d4090b12-dd6b-5a9f-aa85-6dc90d8b25f9.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "VVDN Technologies joins NVIDIA Partner Network to expand opportunities for advanced AI-Enabled Camera & Vision Applications"
     excerpt: "VVDN Technologies, a premier electronic product engineering and manufacturing company, announced that it has joined the NVIDIA Partner Network (NPN) as a provider of AI-enabled computer vision solutions powered by the NVIDIA Jetson edge AI platform."
     publishedDateTime: 2021-08-18T22:45:00Z
@@ -49,6 +63,6 @@ related:
       domain: webindia123.com
     quality: 0
 
-secured: "KLZUn3rDsnOpLtYr5bV7NwsB7K2+QW2x6ksIgjx/v4omXSs+IALHgOHXKpDte2v1WrV9rPbdVHtuq0m1fqXmGx1SPOSYjXRuka+GPEV/2mSXF0s2D82K09qGBPLMbheMkLi2yOAYWVMAoLWW1SgH8w90fel/tza6VdN6dj8gcFgAUPFFe0jqc57Es7cW7O6PQ9O2Ry5JcIG+jHxzhorX70Gy3xo/zSYBSiWeQkxajmm0glsPPZHmtHaZml1G2qTCtp3+yAzqvMb5LeaBVeWu1F2LD2nIq2u38D5XNEQZ66IMRcEKYfy48zqLgq9GDOuMyfsrlsk1WpZB5GfMEVMtqmRxNcqQhuTlFGp0cCmj1zk7IZn5/p1Thn0laFUBSDsdVnu15GUp19quqMr3jUDQoqMIZy+X1HSoUL4Dmk4z9zyVal5tEa5gt770Yd9We2XRhdwIxQJp7PL8X4Q0jt6TlniKjrFLgZ9eQ1ZrLgWl85r9Ba8oNBqqr/zFKRikiS2KF4uur4pirmdWA13gLHFqHw==;ktV2X8dOUBUhd0GVVhq1GA=="
+secured: "efn5ISNvFkh0SqM+nBsdI67h2JEGjE4YtzIwQKUVypzkX62cqf4CE6G+FPLP6gThBw19rBE4RY+8Aixv+VtmGdkLrGfgEhXEvSn0kKbHdurOdYgoTISZjhSqdxpNgDqztnoTY2MEJa/43Edrxv8g2mzn87tgCkHWgdfZGT7dG9M4fWA00Tfuvi/xtNT1ue9EmOJDckgdYLfPw33nmDjL6nvFJzCOhliFO/qUOZDWpdB0e65bmjQMYtYXiyc4wRUEhNhm1OdHSKRD6dkMgFJ3ibyxNKv6bO+lfYfinsbmBljWgT+4whUSzVaNLs4OIeLDcrb6lhOC6cXJIcQ6HFyd4E8rBaSx+iQekN79NnzrsmUdz3/RPW8bD3mw0KnUJjQYet8hhGwjmIKIpn8r290EIkvgrAHlZy0JtJ7OF+E7FOjHPZhu7aRzOUSVRcRJHvHADiUJwgjXBHVuPogABdCYn/VoYhPJhhAc6DOK7Q1Di4SkXXK2heWTig6/yYxaxSFSniyPjMILqjp2q3DEblg4Ew==;WuWqBn6sVvgr01dPbRkhcg=="
 ---
 

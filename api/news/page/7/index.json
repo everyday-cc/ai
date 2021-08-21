@@ -2,6 +2,57 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-08-13-music-streaming-service-uses-ai-to-make-up-music-on-the-spot.md",
+      "title": "Music streaming service uses AI to make up music on the spot",
+      "excerpt": "Streaming service AiMi wants to take on Spotify and Apple Music with an entirely AI-generated music subscription for 10 dollars a month. The new AiMi Plus will combine artist-submitted samples with AI music for extended,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/services-and-software/music-streaming-service-uses-ai-to-make-up-music-on-the-spot/",
+      "originalUrl": "https://www.cnet.com/tech/services-and-software/music-streaming-service-uses-ai-to-make-up-music-on-the-spot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/hbJ9xb-ICpkn_kYDVqFzA3qRiXg=/1200x630/2021/08/13/27eb6950-5881-4a42-b7d9-722d4611f964/aimi-experineces.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/music-streaming-service-uses-ai-to-make-up-music-on-the-spot/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/music-streaming-service-uses-ai-to-make-up-music-on-the-spot/",
+      "publishedDateTime": "2021-08-13T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-13-you-dont-need-tea-leaves-to-read-where-policy-wants-capital-week-in-review.md",
       "title": "You Don’t Need Tea Leaves To Read Where Policy Wants Capital, Week In Review",
       "excerpt": "Baidu reported strong earnings growth Thursday ... new growth sectors such as industrial Internet, V2X autonomous driving and monetization of city government. Thus, we will not be surprised ...",
@@ -1103,50 +1154,6 @@
         "AWS AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-street-mapping-startup-mapillary-scores-a-mysterious-amazon-rekognition-partnership.md",
-      "title": "Street-mapping startup Mapillary scores a mysterious Amazon Rekognition partnership",
-      "excerpt": "Mapillary, a startup on a mission to “fix” the world’s maps, partnered with Amazon’s machine vision program, Rekognition, to build street-level maps. Starting with a parking app, the Swedish company plans to build a platform that rivals Google’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehustle.co/mapillary-amazon-mapping-google/",
-      "originalUrl": "https://thehustle.co/mapillary-amazon-mapping-google/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehustle.co/wp-content/uploads/2018/09/xxx-31.jpg",
-          "width": 600,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehustle.co/mapillary-amazon-mapping-google/amp/",
-      "cdnAmpWebUrl": "https://thehustle-co.cdn.ampproject.org/c/s/thehustle.co/mapillary-amazon-mapping-google/amp/",
-      "publishedDateTime": "2021-08-12T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hustle",
-        "domain": "thehustle.co",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

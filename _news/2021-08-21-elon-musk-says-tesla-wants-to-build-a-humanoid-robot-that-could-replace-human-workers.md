@@ -108,6 +108,22 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Elon Musk Announces Tesla's New Humanoid Robots"
+    excerpt: "Elon Musk announced Thursday night that his company, Tesla, is creating a humanoid robot. He anticipates ... \"It's basically going to start dealing with work that is boring, repetitive and dangerous,\" he said during Tesla’s AI Day. He added, \"What ..."
+    publishedDateTime: 2021-08-20T16:53:00Z
+    webUrl: "https://www.entrepreneur.com/article/380843"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/380843"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/380843"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 106
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1629473007-GettyImages-1234764434.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Elon Musk says Tesla is working on humanoid robots"
     excerpt: "Tesla CEO Elon Musk says his company is working on a humanoid robot and that it will build a prototype “sometime next year.” The humanoid robot will leverage Tesla’s experience with automated machines in its factories,"
     publishedDateTime: 2021-08-20T02:23:00Z
@@ -415,6 +431,22 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Elon Musk reveals Tesla is building a humanoid robot"
+    excerpt: "Elon Musk revealed on Thursday that Tesla is building a humanoid robot and aims to have a prototype ready by 2022. During the company's AI Day, Musk said that the ... that Tesla has sold in the U.S. since the start of the 2014 model year."
+    publishedDateTime: 2021-08-20T19:44:00Z
+    webUrl: "https://www.cbsnews.com/news/elon-musk-tesla-humanoid-robot/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/elon-musk-tesla-humanoid-robot/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/elon-musk-tesla-humanoid-robot/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 76
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/08/20/ba796e7d-ee5d-4e0b-bbd2-a4ef20cd885b/thumbnail/1200x630/c769f8b66c0a16203f196c5290520656/screen-shot-2021-08-20-at-1-11-01-pm.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Tesla Previews Robot with Human in Spandex Suit"
     excerpt: "The robot will stand five feet and eight inches tall and weight 125 pounds, the company indicated, and will be \"friendly.\" Tesla said that the humanoid robot will feature 40 electromechanical actuators,"
     publishedDateTime: 2021-08-20T17:01:00Z
@@ -446,6 +478,22 @@ related:
       - url: "https://www.mystateline.com/wp-content/uploads/sites/17/2021/08/Tesla-Bot-hero.jpg?w=1280"
         width: 1280
         height: 698
+        isCached: true
+  - title: "The future is here: Meet Tesla Bot, Elon Musk's humanoid robot"
+    excerpt: "The next project for billionaire Elon Musk? Humanoid robots. The entrepreneur unveiled Tesla Bot on Thursday during an event touting advances in artificial intelligence. According to a description on Tesla's website, the Tesla Bot was designed to perform ..."
+    publishedDateTime: 2021-08-20T23:58:00Z
+    webUrl: "https://www.cincinnati.com/story/tech/gaming/2021/08/20/tesla-bot-elon-musk-humanoid-robots/8208107002/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/8208107002"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/8208107002"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 76
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/20/USAT/1151605a-4bba-4ecd-aac9-1742df02732a-0x0-KJC_5055-1.jpg?auto=webp&crop=3999,2249,x0,y266&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Elon Musk unveils Tesla robot that will do the work humans don't want to"
     excerpt: "Tesla revealed details about some of the artificial intelligence upgrades being deployed to power their vehicles’ self-driving system. To close out the event, Musk revealed the company is developing a robot that runs on the same artificial intelligence technology as its fleet of autonomous vehicles."
@@ -651,6 +699,20 @@ related:
       - url: "https://WRCB.images.worldnow.com/images/21245164_G.jpg?lastEditedDate=1629447655000"
         width: 3473
         height: 1953
+        isCached: true
+  - title: "Tesla Bot: What is Elon Musk's humanoid robot revealed at Tesla artificial intelligence event? When is Tesla Bot coming out?"
+    excerpt: "On Thursday 19 August, electric vehicle producer Tesla outlined its next steps in its artificial intelligence (AI ... with the 5ft 8in humanoid robot stealing the show at Tesla AI Day 2021. Elon Musk - Tesla 'most likely' to accept Bitcoin again following ..."
+    publishedDateTime: 2021-08-20T14:25:00Z
+    webUrl: "https://www.scotsman.com/lifestyle/tech/tesla-bot-what-is-elon-musks-humanoid-robot-revealed-at-tesla-artificial-intelligence-event-when-is-tesla-bot-coming-out-3351667"
+    type: article
+    provider:
+      name: The Scotsman
+      domain: scotsman.com
+    quality: 44
+    images:
+      - url: "https://www.scotsman.com/webimg/b25lY21zOjU4OGQ0ZjliLTlhMDAtNDMwNi05NGI5LWRhMTc1M2YxYTUwZDo4YmYzZjRjYi1mZjZhLTQ0M2YtOGZkMS04N2RiZTI5M2Y5MDk=.jpg?width=2048&enable=upscale"
+        width: 2048
+        height: 1366
         isCached: true
   - title: "Tesla will build a human-like robot to help drivers with “dangerous and repetitive tasks” (video)"
     excerpt: "The Tesla Bot prototype, announced during the company’s Artificial Intelligence (AI) Day, will be unveiled next year. Tesla CEO Elon Musk announced Thursday that the company plans next year to release a humanoid robot called the Tesla Bot that will run ..."

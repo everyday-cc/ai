@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/researchers-tricked-ai-ignoring-stop-s
 webUrl: "https://thenextweb.com/news/researchers-tricked-ai-ignoring-stop-signs-using-cheap-projector"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Rules for bringing AI into the classroom"
-    excerpt: "The best AI applications promise to improve and accelerate teachers’ knowledge of what their students need, how best to deliver that teaching, and which students require the most help — from a human teacher — to keep up with their learning."
-    publishedDateTime: 2021-08-16T09:00:00Z
-    webUrl: "https://www.ft.com/content/ef231955-e97d-4552-8dcc-f1afe01ad613"
-    ampWebUrl: "https://amp.ft.com/content/ef231955-e97d-4552-8dcc-f1afe01ad613"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/ef231955-e97d-4552-8dcc-f1afe01ad613"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 57
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F31b935f3-3e3c-4595-99af-7e57a96a5235.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
   - title: "Researchers Highlight Promise of AI in Diagnosing, Managing NAFLD"
     excerpt: "Artificial intelligence (AI) and its subsets may play a key role in ... As there are limited options for NAFLD drug therapy, the authors said, AI could identify patient response, particularly by taking into account their genomics and environmental exposures."
     publishedDateTime: 2021-08-20T19:35:00Z

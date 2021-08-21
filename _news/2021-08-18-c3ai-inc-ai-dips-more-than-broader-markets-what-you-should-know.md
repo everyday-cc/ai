@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/c3.ai-inc.-ai-dips-more-than-broader
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/c3.ai-inc.-ai-dips-more-than-broader-markets%3A-what-you-should-know-2021-08-17?amp"
 type: article
 quality: 67
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,40 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Artificial Intelligence (AI) in Drug Discovery Market"
+    excerpt: "Growth of Pharmaceutical Companies and Cloud Based Services Artificial intelligence (AI) in drug discovery market also provides you with detailed market analysis for every country growth in healthcare expenditure for capital equipment’s, installed base ..."
+    publishedDateTime: 2021-08-20T15:21:00Z
+    webUrl: "https://www.openpr.com/news/2362368/artificial-intelligence-ai-in-drug-discovery-market-latest"
+    ampWebUrl: "https://www.openpr.com/amp/2362368/artificial-intelligence-ai-in-drug-discovery-market-latest"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2362368/artificial-intelligence-ai-in-drug-discovery-market-latest"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 74
+    images:
+      - url: "https://cdn.openpr.com/U/8/U820518554_g.jpg"
+        width: 599
+        height: 400
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Drug Discovery Market Next Big Thing : Major Giants NVIDIA, IBM, NuMedii"
+    excerpt: "The Latest research study released by HTF MI Global Artificial Intelligence AI in Drug Discovery Market with 100 pages of analysis on business Strategy taken up by key and emerging industry players and delivers know how of the current market"
+    publishedDateTime: 2021-08-18T01:52:00Z
+    webUrl: "https://www.openpr.com/news/2358309/artificial-intelligence-ai-in-drug-discovery-market-next-big"
+    ampWebUrl: "https://www.openpr.com/amp/2358309/artificial-intelligence-ai-in-drug-discovery-market-next-big"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2358309/artificial-intelligence-ai-in-drug-discovery-market-next-big"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 55
+    images:
+      - url: "https://cdn.openpr.com/U/8/U818837183_g.jpg"
+        width: 450
+        height: 300
+        isCached: true
 
 secured: "svUoYWV2rF4u1FqJryVzlaAvd9CceGiculuoz2vjVQ/JYzHDN1vZSdTMRipS0dOe6N22KW6gIfGfqvqbzlMZuxeBKi1RO4FL+7NwxVpcoegNjvu4AS205FfLoyB5cWUADO10u1ENfKwhSVFm3Wjxk4MKy+AJoxT9d2oXJODxHfDNF2sirZ76MG7Gkpw7yCvXhr9uRx7EyGT9ethG5NbFh8b9HVYZZQnjGepwGFqUgmF8Nv6akbIY/j7gXo3ibIxmYe8FQyPoq6fBKnicuQteg10v2EuDHrDVPDy6qCDpSDKnqy5M0iKaKkxEqc9NFyeMcBQfOWGDx4dub4Gq8cWLikpkkw8qFGhMbDsg5Kl7eRA=;yx51B8yxTjaKlnvM7i7hTQ=="
 ---

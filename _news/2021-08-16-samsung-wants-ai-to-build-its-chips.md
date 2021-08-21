@@ -39,22 +39,6 @@ related:
         width: 1204
         height: 560
         isCached: true
-  - title: "Samsung’s Next Exynos Chips Will Be Designed By Artificial Intelligence"
-    excerpt: "AI can design chips more effectively. So Samsung's next Exynos chips are decided to be designed by a special AI function dubbed DSO.ai."
-    publishedDateTime: 2021-08-16T08:55:00Z
-    webUrl: "https://www.gizchina.com/2021/08/16/samsungs-next-exynos-chips-will-be-designed-by-artificial-intelligence/"
-    ampWebUrl: "https://www.gizchina.com/2021/08/16/samsungs-next-exynos-chips-will-be-designed-by-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/08/16/samsungs-next-exynos-chips-will-be-designed-by-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 74
-    images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2021/08/Business-Samsung-AI-Chips-144295666-1024x536.jpg"
-        width: 1024
-        height: 536
-        isCached: true
   - title: "Samsung to use AI to design its Exynos chips, others expected to follow"
     excerpt: "Artificial Intelligence (AI) have become more powerful over the years. So much so that Samsung confirmed it will be relying on AI to design its upcoming Exynos chips. In a confirmation told to Wired,"
     publishedDateTime: 2021-08-17T11:19:00Z

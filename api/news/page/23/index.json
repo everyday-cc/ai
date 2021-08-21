@@ -2,6 +2,57 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-08-03-can-ai-improve-your-pickup-lines.md",
+      "title": "Can AI improve your pickup lines?",
+      "excerpt": "Can AI help people enhance their online dating game? Would you trust a computer with your digital pickup lines? A team at Medzino, a digital health and wellness clinic, had some fun prompting OpenAI 's GPT-3 language prediction model to generate dating advice for different situations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/can-ai-improve-your-pickup-lines/",
+      "originalUrl": "https://www.zdnet.com/article/can-ai-improve-your-pickup-lines/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/08/02/50135686-3e51-431c-a8a2-bbf43f0162bb/love-heart-artificial-intelligence.jpg",
+          "width": 1499,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/can-ai-improve-your-pickup-lines/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/can-ai-improve-your-pickup-lines/",
+      "publishedDateTime": "2021-08-02T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-building-architectures-that-can-handle-the-worlds-data.md",
       "title": "Building architectures that can handle the world’s data",
       "excerpt": "Perceiver IO, a more general version of the Perceiver architecture, can produce a wide variety of outputs from many different inputs.",
@@ -1104,40 +1155,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-unbabel-launches-mt-telescope-to-deeply-understand-machine-translation-performance.md",
-      "title": "Unbabel Launches MT-Telescope to Deeply Understand Machine Translation Performance",
-      "excerpt": "SAN FRANCISCO--(BUSINESS WIRE)--Unbabel, an AI-powered Language Operations platform ... tool that enables developers and users of Machine Translation (MT) systems to deeply analyze and understand ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210802005131/en/Unbabel-Launches-MT-Telescope-to-Deeply-Understand-Machine-Translation-Performance",
-      "originalUrl": "https://www.businesswire.com/news/home/20210802005131/en/Unbabel-Launches-MT-Telescope-to-Deeply-Understand-Machine-Translation-Performance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-02T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

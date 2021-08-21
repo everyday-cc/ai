@@ -145,17 +145,6 @@ related:
         width: 940
         height: 443
         isCached: true
-  - title: "Microsoft launches 'top secret' Azure cloud region for US intelligence community"
-    excerpt: "Microsoft continues to deliver on its pledge to provide cloud services to the US government that are compliant with all strengths of data classification"
-    publishedDateTime: 2021-08-16T09:00:00Z
-    webUrl: "https://www.computerweekly.com/news/252505336/Microsoft-launches-top-secret-Azure-cloud-region-for-US-intelligence-community"
-    ampWebUrl: "https://www.computerweekly.com/news/252505336/Microsoft-launches-top-secret-Azure-cloud-region-for-US-intelligence-community?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252505336/Microsoft-launches-top-secret-Azure-cloud-region-for-US-intelligence-community?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 51
   - title: "Integration of Microsoft Azure Communication Services with Avaya OneCloud CPaaS"
     excerpt: "Avaya has announced a strategic relationship with Microsoft to create a powerful set of joint cloud communications solutions to define the future of customer and employee experience.  Benefitting from the complementary strengths of both companies,"
     publishedDateTime: 2021-08-17T15:47:00Z

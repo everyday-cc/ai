@@ -24,22 +24,40 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Drug Discovery Market Next Big Thing : Major Giants NVIDIA, IBM, NuMedii"
-    excerpt: "The Latest research study released by HTF MI Global Artificial Intelligence AI in Drug Discovery Market with 100 pages of analysis on business Strategy taken up by key and emerging industry players and delivers know how of the current market"
-    publishedDateTime: 2021-08-18T01:52:00Z
-    webUrl: "https://www.openpr.com/news/2358309/artificial-intelligence-ai-in-drug-discovery-market-next-big"
-    ampWebUrl: "https://www.openpr.com/amp/2358309/artificial-intelligence-ai-in-drug-discovery-market-next-big"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2358309/artificial-intelligence-ai-in-drug-discovery-market-next-big"
+  - title: "VVDN Technologies Joins NVIDIA Partner Network for Advanced AI-Enabled Camera, Vision Applications"
+    excerpt: "With pre-trained AI models, developer SDKs and support for cloud-native technologies across the full Jetson lineup. Gurugram: VVDN Technologies announced that it has joined the NVIDIA Partner Network (NPN) as a provider of AI-enabled computer vision ..."
+    publishedDateTime: 2021-08-19T06:55:00Z
+    webUrl: "https://www.india.com/business/vvdn-technologies-joins-nvidia-partner-network-for-advanced-ai-enabled-camera-vision-applications-4898886/"
+    ampWebUrl: "https://www.india.com/business/vvdn-technologies-joins-nvidia-partner-network-for-advanced-ai-enabled-camera-vision-applications-4898886/amp/"
+    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/business/vvdn-technologies-joins-nvidia-partner-network-for-advanced-ai-enabled-camera-vision-applications-4898886/amp/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 55
+      name: India.com
+      domain: india.com
+    quality: 47
     images:
-      - url: "https://cdn.openpr.com/U/8/U818837183_g.jpg"
-        width: 450
-        height: 300
+      - url: "https://s3.india.com/wp-content/uploads/2021/08/AI-Artificial-Intelligence-Image.jpg"
+        width: 1200
+        height: 800
         isCached: true
+  - title: "VVDN Technologies Joins NVIDIA Partner Network to Expand Opportunities for Advanced AI-Enabled Camera & Vision Applications"
+    excerpt: "As part of the NVIDIA Jetson partner ecosystem, VVDN can leverage the powerful GPU-accelerated edge computing ... and manufacture next-gen innovative AI/ML based camera and vision solutions ..."
+    publishedDateTime: 2021-08-18T01:18:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/vvdn-technologies-joins-nvidia-partner-network-to-expand-opportunities-for-advanced-ai-enabled-camera-vision-applications-1030742469"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 23
+  - title: "VVDN Technologies joins NVIDIA Partner Network to expand opportunities for advanced AI-Enabled Camera & Vision Applications"
+    excerpt: "VVDN Technologies, a premier electronic product engineering and manufacturing company, announced that it has joined the NVIDIA Partner Network (NPN) as a provider of AI-enabled computer vision solutions powered by the NVIDIA Jetson edge AI platform."
+    publishedDateTime: 2021-08-18T22:45:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20210818/3805015.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
 
 secured: "aT0E2Nn+lFDBpN1J3DkBG+KT4UqOpksFZ18yYubTYQIsQCWoCKH6mq+WR+y8xlbPEnk0UrHbjWj5fYSViJw/lkbG/uX+TU2eszeKZ1albUdp1Q4HtPOKHzIcZPrZNebuswHC7CQ04qXly90/RP3KTvSYEZd5NMoTP5kj+W4DObu32uMtSagJSZmBF73XKgVW4lb5pELSkoPKnnBKQR5yf8bFXm9Z9oGuqJbkWJo0wldSS5bXy0lXzjLjulv29pwSADBZ5TbwgqMM+U60fBwBXblezlQ4wmdM1ziloAOdpEOUO7Ov0KqDOiae1qEZQ3GerLB5Ecl3WmFfiFM/ZoOI4ZOtipBSISAQzi15CAryLb4=;rZxAGd1IFP7m9F18WIf5xg=="
 ---

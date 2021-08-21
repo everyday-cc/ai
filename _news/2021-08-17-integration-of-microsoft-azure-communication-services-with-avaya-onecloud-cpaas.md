@@ -145,17 +145,6 @@ related:
         width: 940
         height: 443
         isCached: true
-  - title: "Microsoft launches 'top secret' Azure cloud region for US intelligence community"
-    excerpt: "Microsoft continues to deliver on its pledge to provide cloud services to the US government that are compliant with all strengths of data classification"
-    publishedDateTime: 2021-08-16T09:00:00Z
-    webUrl: "https://www.computerweekly.com/news/252505336/Microsoft-launches-top-secret-Azure-cloud-region-for-US-intelligence-community"
-    ampWebUrl: "https://www.computerweekly.com/news/252505336/Microsoft-launches-top-secret-Azure-cloud-region-for-US-intelligence-community?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252505336/Microsoft-launches-top-secret-Azure-cloud-region-for-US-intelligence-community?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 51
   - title: "Conversational AI Market is ready for its next Big Move | Google, Microsoft, IBM, AWS"
     excerpt: "The ‘ Conversational AI market’ research report added by Report Ocean, is an in-depth analysis of the latest developments, market size, status, upcoming technologies, industry drivers, challenges, regulatory policies,"
     publishedDateTime: 2021-08-16T16:47:00Z

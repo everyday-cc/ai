@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2021/08/17/samsung-exynos-chips-ai-desi
 webUrl: "https://www.gizmochina.com/2021/08/17/samsung-exynos-chips-ai-design/"
 type: article
 quality: 84
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Samsung’s Next Exynos Chips Will Be Designed By Artificial Intelligence"
-    excerpt: "AI can design chips more effectively. So Samsung's next Exynos chips are decided to be designed by a special AI function dubbed DSO.ai."
-    publishedDateTime: 2021-08-16T08:55:00Z
-    webUrl: "https://www.gizchina.com/2021/08/16/samsungs-next-exynos-chips-will-be-designed-by-artificial-intelligence/"
-    ampWebUrl: "https://www.gizchina.com/2021/08/16/samsungs-next-exynos-chips-will-be-designed-by-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/08/16/samsungs-next-exynos-chips-will-be-designed-by-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 74
-    images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2021/08/Business-Samsung-AI-Chips-144295666-1024x536.jpg"
-        width: 1024
-        height: 536
-        isCached: true
   - title: "Samsung wants AI to build its chips"
     excerpt: "Humans do not think the right way Samsung is using artificial intelligence to automate the insanely complex and subtle process of designing cutting-edge computer chips. The South Korean giant is one of the first chipmakers to use AI to create its chips."
     publishedDateTime: 2021-08-16T11:02:00Z
