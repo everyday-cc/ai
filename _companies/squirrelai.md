@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "SquirrelAI_Edu"
   url: "https://twitter.com/SquirrelAI_Edu"
-  followers: 486
+  followers: 485
 
 locations:
   - Shanghai
