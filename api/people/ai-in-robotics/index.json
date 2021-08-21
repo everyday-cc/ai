@@ -17,7 +17,7 @@
       "twitter": {
         "username": "ylecun",
         "url": "https://twitter.com/ylecun",
-        "followers": 270988
+        "followers": 271008
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=WLN3QrAAAAAJ",
@@ -37,7 +37,7 @@
         "Computer Vision",
         "AI in Robotics"
       ],
-      "heat": 298,
+      "heat": 322,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/2387565623/7gew8nz1z7ik1ch148so_400x400.jpeg",
@@ -63,7 +63,7 @@
       "twitter": {
         "username": "rodneyabrooks",
         "url": "https://twitter.com/rodneyabrooks",
-        "followers": 22883
+        "followers": 22887
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/rodney-brooks-1a137517/"
@@ -84,13 +84,71 @@
         "AI",
         "AI in Robotics"
       ],
-      "heat": 167,
+      "heat": 249,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1408149522560081920/xtAuctIj_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Rodney Brooks",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/sebastian-thrun.md",
+      "title": "Sebastian Thrun",
+      "excerpt": "Sebastian Thrun is an innovator, entrepreneur educator, and computer scientist from Germany. He is CEO of the Kitty Hawk Corporation, chairman and co-founder of Udacity. Before that, he was a Google VP and Fellow, a Professor of Computer Science at Stanford University, and before that at Carnegie Mellon University.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/sebastian-thrun/index.json",
+      "webUrl": "https://everyday.cc/ai/people/sebastian-thrun/",
+      "type": "profile",
+      "name": "Sebastian Thrun",
+      "bio": "Sebastian Thrun is an innovator, entrepreneur educator, and computer scientist from Germany. He is CEO of the Kitty Hawk Corporation, chairman and co-founder of Udacity. Before that, he was a Google VP and Fellow, a Professor of Computer Science at Stanford University, and before that at Carnegie Mellon University.",
+      "location": "Mountain View, CA",
+      "website": "https://t.co/rlrjbh9s51",
+      "twitter": {
+        "username": "SebastianThrun",
+        "url": "https://twitter.com/SebastianThrun",
+        "followers": 77250
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=7K34d7cAAAAJ",
+        "citations": 128152
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Sebastian_Thrun"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Stanford",
+        "domain": "stanford.edu",
+        "images": [
+          {
+            "url": "/assets/images/organizations/stanford.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          },
+          {
+            "url": "/assets/images/organizations/stanford.edu-400x400.jpg",
+            "width": 400,
+            "height": 400,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ],
+      "heat": 125,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/459372432806014977/ftbXtMDO_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Sebastian Thrun",
           "isCached": true
         }
       ],
@@ -110,7 +168,7 @@
       "twitter": {
         "username": "sougwen",
         "url": "https://twitter.com/sougwen",
-        "followers": 9018
+        "followers": 9019
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/sougwenchung/"
@@ -119,7 +177,7 @@
         "AI",
         "AI in Robotics"
       ],
-      "heat": 108,
+      "heat": 87,
       "tags": [
         "Artist"
       ],
@@ -159,7 +217,7 @@
             "AI",
             "AI in Autos"
           ],
-          "heat": 77,
+          "heat": 71,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/987293141253287936/1SJjp2Np_400x400.jpg",
@@ -202,7 +260,7 @@
           "topics": [
             "AI"
           ],
-          "heat": 64,
+          "heat": 82,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/836441713497391104/Aj6W5UHO_400x400.jpg",
@@ -237,7 +295,7 @@
         }
       ],
       "size": 8,
-      "heat": 76,
+      "heat": 85,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/987293141253287936/1SJjp2Np_400x400.jpg",
@@ -282,6 +340,41 @@
       "content": "\r\n"
     },
     {
+      "path": "_people/carol-e-reiley.md",
+      "title": "Carol E. Reiley",
+      "excerpt": "Entrepreneur/Scientist/Roboticist. Saving the world, one robot at a time. Cofounder & CEO of healthcare startup. Board member & Advisor of http://drive.ai.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/carol-e-reiley/index.json",
+      "webUrl": "https://everyday.cc/ai/people/carol-e-reiley/",
+      "type": "profile",
+      "name": "Carol E. Reiley",
+      "bio": "Entrepreneur/Scientist/Roboticist. Saving the world, one robot at a time. Cofounder & CEO of healthcare startup. Board member & Advisor of http://drive.ai.",
+      "location": "Los Altos, CA",
+      "website": "https://t.co/wvvOUl1h5W",
+      "twitter": {
+        "username": "robot_MD",
+        "url": "https://twitter.com/robot_MD",
+        "followers": 11676
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/carol-reiley-7a91072/"
+      },
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ],
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/999169921744486400/Vo0GZHaC_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Carol E. Reiley",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_people/madeline-gannon.md",
       "title": "Madeline Gannon",
       "excerpt": "Inventing better ways to communicate with machines.",
@@ -308,99 +401,6 @@
           "width": 400,
           "height": 400,
           "title": "Madeline Gannon",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/carol-e-reiley.md",
-      "title": "Carol E. Reiley",
-      "excerpt": "Entrepreneur/Scientist/Roboticist. Saving the world, one robot at a time. Cofounder & CEO of healthcare startup. Board member & Advisor of http://drive.ai.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/carol-e-reiley/index.json",
-      "webUrl": "https://everyday.cc/ai/people/carol-e-reiley/",
-      "type": "profile",
-      "name": "Carol E. Reiley",
-      "bio": "Entrepreneur/Scientist/Roboticist. Saving the world, one robot at a time. Cofounder & CEO of healthcare startup. Board member & Advisor of http://drive.ai.",
-      "location": "Los Altos, CA",
-      "website": "https://t.co/wvvOUl1h5W",
-      "twitter": {
-        "username": "robot_MD",
-        "url": "https://twitter.com/robot_MD",
-        "followers": 11675
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/carol-reiley-7a91072/"
-      },
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ],
-      "heat": 42,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/999169921744486400/Vo0GZHaC_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Carol E. Reiley",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/sebastian-thrun.md",
-      "title": "Sebastian Thrun",
-      "excerpt": "Sebastian Thrun is an innovator, entrepreneur educator, and computer scientist from Germany. He is CEO of the Kitty Hawk Corporation, chairman and co-founder of Udacity. Before that, he was a Google VP and Fellow, a Professor of Computer Science at Stanford University, and before that at Carnegie Mellon University.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/sebastian-thrun/index.json",
-      "webUrl": "https://everyday.cc/ai/people/sebastian-thrun/",
-      "type": "profile",
-      "name": "Sebastian Thrun",
-      "bio": "Sebastian Thrun is an innovator, entrepreneur educator, and computer scientist from Germany. He is CEO of the Kitty Hawk Corporation, chairman and co-founder of Udacity. Before that, he was a Google VP and Fellow, a Professor of Computer Science at Stanford University, and before that at Carnegie Mellon University.",
-      "location": "Mountain View, CA",
-      "website": "https://t.co/rlrjbh9s51",
-      "twitter": {
-        "username": "SebastianThrun",
-        "url": "https://twitter.com/SebastianThrun",
-        "followers": 77251
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=7K34d7cAAAAJ",
-        "citations": 128152
-      },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Sebastian_Thrun"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Stanford",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          },
-          {
-            "url": "/assets/images/organizations/stanford.edu-400x400.jpg",
-            "width": 400,
-            "height": 400,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ],
-      "heat": 0,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/459372432806014977/ftbXtMDO_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Sebastian Thrun",
           "isCached": true
         }
       ],
