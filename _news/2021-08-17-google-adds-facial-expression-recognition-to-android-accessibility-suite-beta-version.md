@@ -76,20 +76,6 @@ related:
         width: 750
         height: 350
         isCached: true
-  - title: "Concerns over use of facial recognition in app"
-    excerpt: "A month ago, Chief Minister Conrad K Sangma had launched a mobile app which uses facial recognition technology to verify pensioners in an exemplary fashion, but it has now raised legal concerns from select members of the civil society."
-    publishedDateTime: 2021-08-17T01:05:00Z
-    webUrl: "https://theshillongtimes.com/2021/08/17/concerns-over-use-of-facial-recognition-in-app/"
-    type: article
-    provider:
-      name: Shillong Times
-      domain: theshillongtimes.com
-    quality: 39
-    images:
-      - url: "https://theshillongtimes.com/wp-content/uploads/2021/07/DSC_1591-scaled.jpg"
-        width: 2560
-        height: 1768
-        isCached: true
   - title: "The great misunderstanding at the core of facial recognition"
     excerpt: "Numerous authors have sketched out the social, political, and ethical implications of facial recognition technology. These important critiques highlight the consequences of false positive identifications,"
     publishedDateTime: 2021-08-17T14:00:00Z

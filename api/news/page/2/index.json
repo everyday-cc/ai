@@ -2,6 +2,143 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-20-artificial-intelligence-in-retail-market-size-growth-and-forecast-analysis-by-2027.md",
+      "title": "Artificial Intelligence in Retail Market Size, Growth and Forecast Analysis By 2027",
+      "excerpt": "A recent research report on the Global \"Artificial Intelligence in Retail Market\" presents a complete overview",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-size-growth-and-forecast-analysis-by-2027-2021-08-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-size-growth-and-forecast-analysis-by-2027-2021-08-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 276,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-19T12:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-20-remote-sensing-and-machine-learning-reveal-archaic-shell-rings.md",
+      "title": "Remote sensing and machine learning reveal Archaic shell rings",
+      "excerpt": "Deep in the dense coastal forests and marshes of the American Southeast lie shell rings and shell mounds left by Indigenous people 3,000 to 5,000 years ago. Now an international team of researchers, using deep machine learning to assess remote sensing data,",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-08-remote-machine-reveal-archaic-shell.html",
+      "originalUrl": "https://phys.org/news/2021-08-remote-machine-reveal-archaic-shell.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/remote-sensing-and-mac.jpg",
+          "width": 992,
+          "height": 554,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-08-remote-machine-reveal-archaic-shell.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-08-remote-machine-reveal-archaic-shell.amp",
+      "publishedDateTime": "2021-08-19T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-20-big-bet-on-ai-punches-up-nvidia-stock.md",
+      "title": "Big bet on AI punches up Nvidia stock",
+      "excerpt": "Nvidia (NVDA) reported blow-out earnings Wednesday after the close. Revenues are surging as its high-end chips for graphics and data centers remain in high demand. The San Jose, Calif.-based company reported revenues surged 68% during the second quarter,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/tech/news/nvdajdm081921",
+      "originalUrl": "https://www.thestreet.com/tech/news/nvdajdm081921",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTgzMjYwMzgyMjI2MjkzNzk4/nvidia-data-science-home-og-social-share.jpg",
+          "width": 620,
+          "height": 326,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/tech/.amp/news/nvdajdm081921",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/tech/.amp/news/nvdajdm081921",
+      "publishedDateTime": "2021-08-19T11:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-08-20-amazon-taps-its-socialbot-challenge-to-boost-conversational-ai.md",
       "title": "Amazon taps its SocialBot challenge to boost conversational AI",
       "excerpt": "Amazon announced the winners of its annual Alexa Prize SocialBot Grand Challenge, which ​​promotes research into coherence, context awareness, fluency of re",
@@ -197,40 +334,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-best-artificial-intelligence-stocks-to-buy-right-now-5-to-watch.md",
-      "title": "Best Artificial Intelligence Stocks To Buy Right Now? 5 To Watch",
-      "excerpt": "Top Artificial Intelligence Stocks To Watch Ahead Of September 2021. While investors are wondering why stocks are down this week, tech stocks could be worth noting. In particula",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/best-artificial-intelligence-stocks-to-buy-right-now-5-to-watch-2021-08-19",
-      "originalUrl": "https://www.nasdaq.com/articles/best-artificial-intelligence-stocks-to-buy-right-now-5-to-watch-2021-08-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/best-artificial-intelligence-stocks-to-buy-right-now-5-to-watch-2021-08-19?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/best-artificial-intelligence-stocks-to-buy-right-now-5-to-watch-2021-08-19?amp",
-      "publishedDateTime": "2021-08-19T08:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     },
@@ -1115,110 +1218,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-baidu-says-2nd-gen-kunlun-ai-chips-enter-mass-production.md",
-      "title": "Baidu says 2nd-gen Kunlun AI chips enter mass production",
-      "excerpt": "BEIJING, Aug 18 (Reuters) - Chinese tech giant Baidu said on Wednesday it had begun mass-producing second-generation Kunlun artificial intelligence (AI) chips, as it races to become a key player in the chip industry which Beijing is trying to strengthen.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-baidu-semiconductors/baidu-says-2nd-gen-kunlun-ai-chips-enter-mass-production-idUSKBN2FJ0GK",
-      "originalUrl": "https://www.reuters.com/article/us-baidu-semiconductors/baidu-says-2nd-gen-kunlun-ai-chips-enter-mass-production-idUSKBN2FJ0GK",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 234,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210818&t=2&i=1572224486&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH7H07S",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2FJ0GK",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2FJ0GK",
-      "publishedDateTime": "2021-08-18T22:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-amazon-rolls-out-indias-first-celebrity-voice-on-alexa-with-amitabh-bachchan.md",
-      "title": "Amazon rolls out India’s first celebrity voice on Alexa with Amitabh Bachchan",
-      "excerpt": "Amazon has rolled out India’s first celebrity voice feature on Alexa with the nation’s biggest movie star Amitabh Bachchan as the company makes a push to lure more users in the world’s second-most populated nation.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/08/18/amazon-rolls-out-indias-first-celebrity-voice-on-alexa-with-amitabh-bachchan/",
-      "originalUrl": "https://techcrunch.com/2021/08/18/amazon-rolls-out-indias-first-celebrity-voice-on-alexa-with-amitabh-bachchan/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-102146713.jpg?w=1024",
-          "width": 1024,
-          "height": 702,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/08/18/amazon-rolls-out-indias-first-celebrity-voice-on-alexa-with-amitabh-bachchan/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/18/amazon-rolls-out-indias-first-celebrity-voice-on-alexa-with-amitabh-bachchan/amp/",
-      "publishedDateTime": "2021-08-18T22:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

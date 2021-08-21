@@ -275,20 +275,6 @@ related:
       name: fintechzoom
       domain: fintechzoom.com
     quality: 19
-  - title: "Global AI-powered X Ray Imaging Market 2021 Growth Opportunities, Top Manufacturers, Regions, Application, and Forecast to 2027"
-    excerpt: "MarketsandResearchbiz presented Global AI-powered X Ray Imaging Market report which analyses competitive advancements"
-    publishedDateTime: 2021-08-17T01:40:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/270748091/global-ai-powered-x-ray-imaging-market-2021-growth-opportunities-top-manufacturers-regions-application-and-forecast-to-2027"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 9
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1628990292156.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Artificial Intelligence in Drug Discovery Market Competitive Landscape Forecasts to 2027: Global Industry Growth, Share, Size, Trends"
     excerpt: "According to Reports and Data, the Artificial Intelligence in Drug Discovery Market was valued at USD 253.8 million in 2019 and is expected to reach USD 2,127.9 million by the year 2027, at a CAGR of 31."
     publishedDateTime: 2021-08-18T18:16:00Z

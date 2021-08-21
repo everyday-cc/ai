@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/new-rules-on-police-use-of-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/new-rules-on-police-use-of-facial-recognition-dont-go-far-enough-experts-say/"
 type: article
 quality: 85
-heat: 165
+heat: 155
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://cdn.openpr.com/U/8/U820923146_g.jpg"
         width: 750
         height: 350
-        isCached: true
-  - title: "Concerns over use of facial recognition in app"
-    excerpt: "A month ago, Chief Minister Conrad K Sangma had launched a mobile app which uses facial recognition technology to verify pensioners in an exemplary fashion, but it has now raised legal concerns from select members of the civil society."
-    publishedDateTime: 2021-08-17T01:05:00Z
-    webUrl: "https://theshillongtimes.com/2021/08/17/concerns-over-use-of-facial-recognition-in-app/"
-    type: article
-    provider:
-      name: Shillong Times
-      domain: theshillongtimes.com
-    quality: 39
-    images:
-      - url: "https://theshillongtimes.com/wp-content/uploads/2021/07/DSC_1591-scaled.jpg"
-        width: 2560
-        height: 1768
         isCached: true
   - title: "Google adds facial expression recognition to Android Accessibility Suite beta version"
     excerpt: "A team at XDA Developers has discovered that Google has added facial expression recognition to the beta version of the Android Accessibility Suite, which came with the beta version of Android 12. The new feature is called collectively Camera Switches."

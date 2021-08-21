@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-07-29-convert-an-object-detection-python-code-to-aws-sagemaker-for-deployment.md",
-      "title": "Convert an object detection python code to AWS sagemaker for deployment.",
-      "excerpt": "Object Detection Re-implementation on AWS Sagemaker using Pytorch's detecto library. We have an object detection code in Pytorch using detecto. However, we would like to deploy it on aws sagemaker. We have an existing object detection dataset. Our goal is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.upwork.com/freelance-jobs/apply/Convert-object-detection-python-code-AWS-sagemaker-for-deployment_~01cc049e3d738a019e/",
-      "originalUrl": "https://www.upwork.com/freelance-jobs/apply/Convert-object-detection-python-code-AWS-sagemaker-for-deployment_~01cc049e3d738a019e/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.upwork.com/images/upwork-logo-1200.png",
-          "width": 1201,
-          "height": 631,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-29T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Upwork",
-        "domain": "upwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-29-artificial-intelligence-ai-market-in-bfsi-sector-market-is-booming-worldwide-ibm-microsoft-google.md",
       "title": "Artificial Intelligence (AI) Market in BFSI Sector Market is Booming Worldwide | IBM, Microsoft, Google",
       "excerpt": "HTF MI added a new research study on Global Artificial Intelligence (AI) Market in BFSI Sector Market in its repository, aims to offers a detailed overview of the factors influencing the worldwide business orientation and overall outlook.",
@@ -1349,6 +1306,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-19-artificial-intelligence-in-accounting-market.md",
+      "title": "Artificial Intelligence in Accounting Market",
+      "excerpt": "This Report provides a 360-degree synopsis of the competitive scenario of artificial intelligence in accounting industry. It has enormous awareness joined to the ongoing item and technical ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2331197/artificial-intelligence-in-accounting-market-growth",
+      "originalUrl": "https://www.openpr.com/news/2331197/artificial-intelligence-in-accounting-market-growth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/7/U719996303_g.jpg",
+          "width": 800,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2331197/artificial-intelligence-in-accounting-market-growth",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2331197/artificial-intelligence-in-accounting-market-growth",
+      "publishedDateTime": "2021-07-19T00:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

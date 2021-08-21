@@ -264,20 +264,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 19
-  - title: "Global AI-powered X Ray Imaging Market 2021 Growth Opportunities, Top Manufacturers, Regions, Application, and Forecast to 2027"
-    excerpt: "MarketsandResearchbiz presented Global AI-powered X Ray Imaging Market report which analyses competitive advancements"
-    publishedDateTime: 2021-08-17T01:40:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/270748091/global-ai-powered-x-ray-imaging-market-2021-growth-opportunities-top-manufacturers-regions-application-and-forecast-to-2027"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 9
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1628990292156.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Search and Rescue Robots Market Size to Grow Substantially at 18.2% CAGR from 2020 to 2027 - Report by Market Research Future (MRFR)"
     excerpt: "Search and Rescue Robots Market Overview: According to a comprehensive research report by Market Research Future (MRFR),"
     publishedDateTime: 2021-08-17T15:43:00Z

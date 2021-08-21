@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Next therapy for Covid maybe be at your local pharmacy"
-excerpt: "Several drugs that are already in use for other purposes, including one dietary supplement, have shown to block or reduce infection by SARS-CoV2, the virus causing Covid-19, in cells, researchers have found. The study, published in the Proceedings of the National Academy of Science, uses artificial intelligence-powered image analysis of human cell lines during infection with the novel coronavirus. The cells were treated with more than 1,400 individual US Food and Drug Administration-approved drugs and compounds, either before or after viral infection, and screened, resulting in 17 potential hits. Ten of those hits were newly recognised, with seven identified in previous drug repurposing studies, including remdesivir, which is one of the few FDA-approved therapies for Covid-19 in hospitalised patients. \"Traditionally, the drug development process takes a decade -- and we just don't have a decade,\" said Jonathan Sexton, Assistant Professor of Internal Medicine at the University of Michigan Medical School. \"The therapies we discovered are well positioned for phase 2 clinical trials because their safety has already been established,\" he added. The team validated the 17 candidate compounds in several types of cells, including stem-cell derived human lung cells in an effort to mimic SARS-CoV2 infection of the respiratory tract. Nine showed antiviral activity at reasonable doses, including lactoferrin, a protein found in human breast milk that is also available over the counter as a dietary supplement derived from cow's milk. \"We found lactoferrin had remarkable efficacy for preventing infection, working better than anything else we observed,\" Sexton said. He added that early data suggest this efficacy extends even to newer variants of SARS-CoV2, including the highly transmissible Delta variant. The team aims to soon launch clinical trials of the compound to examine its ability to reduce viral loads and inflammation in patients with SARS-CoV2 infection. The study also identified a class of compounds called MEK-inhibitors, typically prescribed to treat cancer, that appear to worsen SARS-CoV2 infection. The finding sheds light on how the virus spreads among cells. \"People going in for chemotherapy are at risk already due to a lowered immune response. We need to investigate whether some of these drugs worsen disease progression,\" said Sexton."
-publishedDateTime: 2021-08-21T11:48:00Z
-originalUrl: "https://news.webindia123.com/news/Articles/Health/20210820/3806207.html"
-webUrl: "https://news.webindia123.com/news/Articles/Health/20210820/3806207.html"
+excerpt: "Several drugs that are already in use for other purposes, including one dietary supplement, have shown to block or reduc"
+publishedDateTime: 2021-08-21T06:00:00Z
+originalUrl: "https://menafn.com/1102650754/Next-therapy-for-Covid-maybe-be-at-your-local-pharmacy"
+webUrl: "https://menafn.com/1102650754/Next-therapy-for-Covid-maybe-be-at-your-local-pharmacy"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://menafn.com/updates/pr/2021-08/20/I_3bb3dimage_story.jpg"
+    width: 400
+    height: 266
+    isCached: true
 
 related:
   - title: "Meet Grace, the robot nurse that COVID created"
@@ -58,6 +64,6 @@ related:
       domain: medindia.net
     quality: 39
 
-secured: "4A6j2wxjmBA8tPCW0jnF4U0kSmRA0G2WH5+vYgeTH5lDmqS/DPDawClbutEPAEjoF4OjRDuILFPhn+RBN3e2u/M3KJYBUwjDDaqoRHgVSWzRRCVNygV5WMDepe8xcksktlulD1CTNEJGG9glVhqcak1HI2IyMBrOz5yDRfF8HSETlLe8pLadbzL2UuH+J2dBXMgtOaPSMBEfXbL/C71wLVfTYcTQS7Y3Xr1ewZoQZzjqTmOxplkkjsPK4R3HEP/GV255ayBh+NGj0yqeI0UhAHGGrDXIn6NpCd3uTNReAfJhzwTmZ05uWYNdw0+WdySCUT5IOtYZlPwOgl8NAP2aFd+cwM+XEWNcVeaQoqvtpqg=;DMyWL5xJXsBwhOzXjNdNBA=="
+secured: "Qkhgy5ykXMHdtxv91F8Y3nffZyH9H/MjnsuZ60sLTdXWm6el17Z3BPGgas2mAzeZrkKqkURzf9fUsNtKuDcD420s19LfiRZQNBfUgnR1i3+gnW95onWDDp4n584mugGR3HyK/lXDiAPA93s22cOC7VIFndAxwpNbBHA52Qh6SucGcRcGntXuj5ko7d3ONrchLVPNGtJCHOm0jvnfvXHPMGMfwX9uLN9FPba3TRh1ucfFRgYRWjJwRY5ZgZLYa+A9chCJhYegiXCSwGMnFm8cHDQ9IgxFpc4LNwTKpESD3vJudZr7HpbTGnwtOyy1t4w1AcPxdSDBRI8idEI51wDJU5swXNh/maSP3u4hfC20vE8=;fX7pOlUi1YDZujVXrjYBBg=="
 ---
 

@@ -41,6 +41,22 @@ related:
         width: 800
         height: 466
         isCached: true
+  - title: "Mysterious ‘Siri Speech Study’ App Shows up in App Store | What Is It?"
+    excerpt: "A new but hidden app has been discovered on the App Store that appears to be part of a project by Apple geared toward improving Siri, but exactly how it"
+    publishedDateTime: 2021-08-20T18:56:00Z
+    webUrl: "https://www.idropnews.com/news/mysterious-siri-speech-study-app-shows-up-on-app-store/166073/"
+    ampWebUrl: "https://www.idropnews.com/news/mysterious-siri-speech-study-app-shows-up-on-app-store/166073/amp/"
+    cdnAmpWebUrl: "https://www-idropnews-com.cdn.ampproject.org/c/s/www.idropnews.com/news/mysterious-siri-speech-study-app-shows-up-on-app-store/166073/amp/"
+    type: article
+    provider:
+      name: iDrop News
+      domain: idropnews.com
+    quality: 44
+    images:
+      - url: "https://cdn.idropnews.com/wp-content/uploads/2021/06/29150222/iPhone-Siri.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "HKCN+HxeHmiYtJr/ZyRgjGrsnlUO/n9vhe6laZi3soqVZcp7WFptmMrwSACIkEoFshNh1n43ydfpVku+8yoqfQ7Ajokwu+UD5nS2XSbJJZjYNwCuldKyWHQ0WDXrygfOxVZXdlQZK8wLM+EZ/V0X/rqvQSAWWjhzr7YbkDjkBqVqNWAKZ12C214+edCcCn1CB7c+i6qyaaLBY54jJExfNMN1QgrUMRqrISW6xtTBLOzbaHthhTOq1C3vHdMvnHafRLWc8dpTEkBt9D90gvcLSqHTH0bl1kb/egb68kjj9+HhY1v9cv2QkqTfjvzwrk5ey1wBvEiQnT709A3h1Io5LBmG826B3ZG1UuS1cm/3Rgy7GSA1dht1whxCygrIKgsr/3AypqxsocljOZ5dnxsKEUXuwNceokq7dJlb2RA+YIRn4axVB0z5tsp6YM3mwGaDrHYs1sx+0q2eMIukP2sSU/dEVTcQnKh2y3CYKYKmyFK2roo/BzA+Cv0SVTIXZZjGCNw5ctQeoPtrsH9vfBPs1A==;GK06dJ3iVjttyf0So7A8bQ=="
 ---

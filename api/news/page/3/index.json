@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-19-baidu-says-2nd-gen-kunlun-ai-chips-enter-mass-production.md",
+      "title": "Baidu says 2nd-gen Kunlun AI chips enter mass production",
+      "excerpt": "BEIJING, Aug 18 (Reuters) - Chinese tech giant Baidu said on Wednesday it had begun mass-producing second-generation Kunlun artificial intelligence (AI) chips, as it races to become a key player in the chip industry which Beijing is trying to strengthen.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-baidu-semiconductors/baidu-says-2nd-gen-kunlun-ai-chips-enter-mass-production-idUSKBN2FJ0GK",
+      "originalUrl": "https://www.reuters.com/article/us-baidu-semiconductors/baidu-says-2nd-gen-kunlun-ai-chips-enter-mass-production-idUSKBN2FJ0GK",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 234,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210818&t=2&i=1572224486&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH7H07S",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2FJ0GK",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2FJ0GK",
+      "publishedDateTime": "2021-08-18T22:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-amazon-rolls-out-indias-first-celebrity-voice-on-alexa-with-amitabh-bachchan.md",
+      "title": "Amazon rolls out India’s first celebrity voice on Alexa with Amitabh Bachchan",
+      "excerpt": "Amazon has rolled out India’s first celebrity voice feature on Alexa with the nation’s biggest movie star Amitabh Bachchan as the company makes a push to lure more users in the world’s second-most populated nation.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/08/18/amazon-rolls-out-indias-first-celebrity-voice-on-alexa-with-amitabh-bachchan/",
+      "originalUrl": "https://techcrunch.com/2021/08/18/amazon-rolls-out-indias-first-celebrity-voice-on-alexa-with-amitabh-bachchan/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-102146713.jpg?w=1024",
+          "width": 1024,
+          "height": 702,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/08/18/amazon-rolls-out-indias-first-celebrity-voice-on-alexa-with-amitabh-bachchan/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/18/amazon-rolls-out-indias-first-celebrity-voice-on-alexa-with-amitabh-bachchan/amp/",
+      "publishedDateTime": "2021-08-18T22:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-19-how-ai-powered-tech-landed-a-man-in-jail-with-scant-evidence.md",
       "title": "How AI-Powered Tech Landed a Man in Jail With Scant Evidence",
       "excerpt": "Michael Williams’ wife pleaded with him to remember their fishing trips with the grandchildren, how he used to braid her hair, anything to jar him back to his world outside the concrete walls of Cook County Jail.",
@@ -1043,7 +1147,7 @@
       "originalUrl": "https://www.cnbc.com/2021/08/18/democrats-ask-ftc-to-investigate-teslas-self-driving-claims.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 434,
+      "heat": 424,
       "tags": null,
       "images": [
         {
@@ -1135,91 +1239,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-18-val-kilmers-old-speaking-voice-recreated-using-artificial-intelligence.md",
-      "title": "Val Kilmer's Old Speaking Voice Recreated Using Artificial Intelligence",
-      "excerpt": "Val Kilmer 's voice has been recreated using artificial intelligence (AI) and old audio recordings. Hear it for yourself here: The former Batman actor lost his voice following a tracheotomy in 2014, as part of his treatment for throat cancer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ladbible.com/news/celebrity-val-kilmers-speaking-voice-recreated-using-artificial-intelligence-20210818",
-      "originalUrl": "https://www.ladbible.com/news/celebrity-val-kilmers-speaking-voice-recreated-using-artificial-intelligence-20210818",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ladbible.com/cdn-cgi/image/width=1200,quality=70,format=jpeg,fit=contain,dpr=1/https%3A%2F%2Fs3-images.ladbible.com%2Fs3%2Fcontent%2Fbf904937611c81f0a846b51ede41430c.png",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ladbible.com/news/celebrity-val-kilmers-speaking-voice-recreated-using-artificial-intelligence-20210818.amp.html",
-      "cdnAmpWebUrl": "https://www-ladbible-com.cdn.ampproject.org/c/s/www.ladbible.com/news/celebrity-val-kilmers-speaking-voice-recreated-using-artificial-intelligence-20210818.amp.html",
-      "publishedDateTime": "2021-08-18T02:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LADbible",
-        "domain": "ladbible.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-18-keep-an-eye-on-your-home-from-afar-with-this-affordable-ai-powered-security-camera.md",
-      "title": "Keep an eye on your home from afar with this affordable AI-powered security camera",
-      "excerpt": "TL;DR: Keep your home safe with this Blurams Home Pro Indoor Security Camera, available for $37.99 as of Aug. 18. Whether you’re finally leaving your house more often or casually retreating back inside after your brief stint out in the world,",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/aug-18-blurams-home-pro-indoor-security-camera",
-      "originalUrl": "https://mashable.com/article/aug-18-blurams-home-pro-indoor-security-camera",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/01n9QyMq4CuPX28iwGE46Mr/hero-image.fill.size_1200x675.v1629277507.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-18T02:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

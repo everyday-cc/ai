@@ -2,6 +2,49 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-08-10-facebook-open-sources-blenderbot-20-chatbot.md",
+      "title": "Facebook Open-Sources BlenderBot 2.0 Chatbot",
+      "excerpt": "Facebook AI Research (FAIR) open-sourced BlenderBot 2.0, an AI chatbot that has long-term memory and can use internet searches for supplemental conversational context. The new model outperforms version 1.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2021/08/facebook-blenderbot-2/",
+      "originalUrl": "https://www.infoq.com/news/2021/08/facebook-blenderbot-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2021/08/facebook-blenderbot-2/en/headerimage/facebook-blenderbot-2-header-1628423619315.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-09-attendee-matchmaking-at-virtual-events-with-amazon-personalize.md",
       "title": "Attendee matchmaking at virtual events with Amazon Personalize",
       "excerpt": "Amazon Personalize enables developers to build applications with the same machine learning (ML) technology used by Amazon.com for real-time personalized recommendations—no ML expertise required. Amazon Personalize makes it easy for developers to build applications capable of delivering a wide array of",
@@ -1129,57 +1172,6 @@
         "Machine Learning",
         "IBM AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-can-you-trust-the-solutions-that-ai-technologies-deliver-with-mathematical-optimization-you-can.md",
-      "title": "Can You Trust The Solutions That AI Technologies Deliver? With Mathematical Optimization, You Can",
-      "excerpt": "Numerous high-profile incidents have shone a spotlight on some of the inherent shortcomings and unintended biases of AI technologies, shaking our confidence in the accuracy of these solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/09/can-you-trust-the-solutions-that-ai-technologies-deliver-with-mathematical-optimization-you-can/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/09/can-you-trust-the-solutions-that-ai-technologies-deliver-with-mathematical-optimization-you-can/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ffc66fc1dceffe79c454b11%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/09/can-you-trust-the-solutions-that-ai-technologies-deliver-with-mathematical-optimization-you-can/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/09/can-you-trust-the-solutions-that-ai-technologies-deliver-with-mathematical-optimization-you-can/amp/",
-      "publishedDateTime": "2021-08-09T06:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

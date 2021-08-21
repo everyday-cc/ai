@@ -1,27 +1,31 @@
 ---
 category: news
 title: "The Full Nerd ep. 188: Intel's 12th-gen Alder Lake and Arc GPU"
-excerpt: "The Full Nerd crew discusses Intel's big reveal on its next-gen Alder Lake CPU and its first enthusiast gaming GPU In this episode of The Full Nerd, Gordon Ung, Alaina Yee, Mark Hachman and Adam Patrick Murray discuss Intel's big news on Alder Lake and its Arc GPU."
-publishedDateTime: 2021-08-21T15:33:00Z
-originalUrl: "https://www.goodgearguide.com.au/article/690699/full-nerd-ep-188-intel-12th-gen-alder-lake-arc-gpu/"
-webUrl: "https://www.goodgearguide.com.au/article/690699/full-nerd-ep-188-intel-12th-gen-alder-lake-arc-gpu/"
+excerpt: "You can read more about Alder Lake in Mark Hachman's story. The Full Nerd gang also talks about Intel's new Arc GPU, which breaks cover with hardware ray tracing support and AI-based upsampling to compete with Nvidia's DLSS 2.0. For more details ..."
+publishedDateTime: 2021-08-20T21:53:00Z
+originalUrl: "https://www.pcworld.com/article/3630515/the-full-nerd-ep-188-intels-12th-gen-alder-lake-and-arc-gpu.html"
+webUrl: "https://www.pcworld.com/article/3630515/the-full-nerd-ep-188-intels-12th-gen-alder-lake-and-arc-gpu.html"
 type: article
-quality: 39
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Good Gear Guide
-  domain: goodgearguide.com.au
+  name: PC World
+  domain: pcworld.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://www.idgcdn.com.au/article/images/800x800/dimg/tfn21_188_tfnep188_v1-100900097-orig.jpgautowebp"
-    width: 800
-    height: 450
+  - url: "https://images.idgesg.net/images/article/2021/08/tfn21_188_tfnep188_v1-100900097-large.3x2.jpg?auto=webp"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -162,6 +166,6 @@ related:
         height: 630
         isCached: true
 
-secured: "gpZKRNKDeQXzRMklhITecps1VyyxcmIEo55RUV1PFV5NidjGIeuT6J9m0MF03rnbiSBBPU9Kb9zCyxKe1ITehhZCs0YGHYXqdK4Og3j4AnqgwNQVjkQglTzvOBQbRgy+WSutNVVfhw+jkICiFg4MiGpSNme+gdiaE+2pO3wi5LNnBmST6MKvQgdHozs6Gf20RgwbkY4J22rNBnVJOsotQSVloWTzWC61W5fYAHuJGeJlWrOhbwoFqNvAD0mdEKGfTAZqiYId9xsPp2/Lit3nbiHpLnJxb7TogknvOzFIF/91y787RJ0dkoycEbOixZKL6KzMraV51Ec9FrBlXJ6KNc/FB1GZQzgxVuhFGpyTEz5y4+shBzBOq4Uieq6vHwxXWUiFOTr9lnvbTeIBku88eoFHmsFLsaEv3fc12YcSsCG/v8u6woi3OeDdDivBhL04f130pkyXY5MX4MxcmEtIKV31WVNcEBUfLCSixlmTWrrJLGBxxdeYQiS6QTVPWILGSP9QZpSJos2f6Re6DJSa/w==;Xkq5dbg1Cs5CVFiGT4qnGQ=="
+secured: "Pro1gIkeVtfT8ppsvAz0JoDvA96Wnv5pd6k1NX7BEnKIU66mXqsnAsrUjMgIY2r/GQ4tGtX1MykhRXgiVCz03qKs6hfp51JwLZXiBrgnCrlP7LKx5RErNohYPiwjAOfTRx9HWyXsR03DNs9cg3XplhK/24zGq83FrRYu/t6a5mlf8B6db3d8hH8TqyDJM5T17pvA+7osGpvJFt2tVlKy41btocp+BnGSkQ3HM5lhTgaHwk/W4hynrXW1U6vgQxX6EkWeJ+UaOLe7NvyVx/HuakvPgaYDFQoYFx7lEAQEnC5ipgKl/qdVh38VKMQXwKNtl4tQ6G4s9QNr601KTHlbBeJP8JsSBE7t16gyR7kVxOQ=;18KQext5OWgbK/1b09sx8w=="
 ---
 

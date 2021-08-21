@@ -3,10 +3,10 @@ category: news
 title: "Tesla Bot: A concept humanoid robot embedded with Tesla's vehicle AI"
 excerpt: "At Tesla AI Day, the company's CEO Elon Musk unveiled a concept humanoid robot that will be powered by the AI currently embedded within Tesla's autonomous vehicles. Aptly named the Tesla Bot, details about the concept robot were limited,"
 publishedDateTime: 2021-08-20T02:15:00Z
-originalUrl: "https://www.zdnet.com/index.php/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
-webUrl: "https://www.zdnet.com/index.php/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
-ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
+originalUrl: "https://www.zdnet.com/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
+webUrl: "https://www.zdnet.com/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
 type: article
 quality: 121
 heat: -1
@@ -21,9 +21,9 @@ provider:
       height: 50
 
 topics:
+  - AI in Robotics
   - AI
   - AI in Autos
-  - AI in Robotics
 
 images:
   - url: "https://www.zdnet.com/a/hub/i/2021/08/20/c53f20ad-f148-4044-a3eb-0929d3675012/tesla.png"
@@ -610,6 +610,22 @@ related:
         width: 768
         height: 474
         isCached: true
+  - title: "James Douma Interviewed About Tesla Bot and AI Day"
+    excerpt: "James Douma was interviewed by Dave Lee about Tesla AI Day. James is an AI expert and notes how Tesla has done significant re-architecting and is charting new"
+    publishedDateTime: 2021-08-21T18:18:00Z
+    webUrl: "https://www.nextbigfuture.com/2021/08/james-douma-interviewed-about-tesla-bot-and-ai-day.html"
+    ampWebUrl: "https://www.nextbigfuture.com/2021/08/james-douma-interviewed-about-tesla-bot-and-ai-day.html"
+    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/08/james-douma-interviewed-about-tesla-bot-and-ai-day.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 76
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/08/Screen-Shot-2021-08-19-at-7.36.59-PM.jpg"
+        width: 1566
+        height: 1280
+        isCached: true
   - title: "Elon Musk unveils Tesla robot that will do the work humans don't want to"
     excerpt: "Tesla revealed details about some of the artificial intelligence upgrades being deployed to power their vehicles’ self-driving system. To close out the event, Musk revealed the company is developing a robot that runs on the same artificial intelligence technology as its fleet of autonomous vehicles."
     publishedDateTime: 2021-08-20T17:40:00Z
@@ -783,6 +799,22 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/56030/content/tesla_bot_hero.jpg"
         width: 708
         height: 444
+        isCached: true
+  - title: "Elon Musk says Tesla is building a humanoid robot for ‘boring, repetitive and dangerous’ work"
+    excerpt: "Elon Musk said Thursday night at Tesla’s AI Day that the company is building a humanoid robot, and will probably have a prototype next"
+    publishedDateTime: 2021-08-20T11:49:00Z
+    webUrl: "https://whdh.com/news/elon-musk-says-tesla-is-building-a-humanoid-robot-for-boring-repetitive-and-dangerous-work/"
+    ampWebUrl: "https://whdh.com/news/elon-musk-says-tesla-is-building-a-humanoid-robot-for-boring-repetitive-and-dangerous-work/amp/"
+    cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/elon-musk-says-tesla-is-building-a-humanoid-robot-for-boring-repetitive-and-dangerous-work/amp/"
+    type: article
+    provider:
+      name: WHDH
+      domain: whdh.com
+    quality: 65
+    images:
+      - url: "https://whdh.com/wp-content/uploads/sites/3/2021/08/hypatia-h_5f674fbb74773d0b1a5da54f0814323e-h_b97ea991d9b2817ab9b9934fbf4452f8.jpg?quality=60&strip=color&w=1024"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Elon Musk unveils humanoid robot to take over ‘boring’ work"
     excerpt: "The ‘Tesla Bot,’ a prototype of which should be available next year, is designed to eliminate “dangerous, repetitive and boring tasks,” like bending over to pick something up, or go to the store"
@@ -976,20 +1008,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Elon Musk says Tesla is building a humanoid robot for ‘boring, repetitive and dangerous’ work"
-    excerpt: "By Matt McFarland, CNN Business Elon Musk said Thursday night at Tesla’s AI Day that the company is building a humanoid robot, and will probably have a prototype next year. “It’s basically going to start dealing with work that is boring,"
-    publishedDateTime: 2021-08-20T08:59:00Z
-    webUrl: "https://abc17news.com/video/2021/08/20/elon-musk-says-tesla-is-building-a-humanoid-robot-for-boring-repetitive-and-dangerous-work-2/"
-    type: article
-    provider:
-      name: ABC 17 News
-      domain: abc17news.com
-    quality: 45
-    images:
-      - url: "https://abc17news.b-cdn.net/abc17news.com/2021/08/hypatia-h_e53277f69b31148810e9707a8a3d9650-h_b97ea991d9b2817ab9b9934fbf4452f8-300-scaled.jpg"
-        width: 2560
-        height: 1708
-        isCached: true
   - title: "Elon Musk says Tesla is building a humanoid robot for 'boring, repetitive and dangerous' work"
     excerpt: "Elon Musk said Thursday night at Tesla's AI Day that the company is building a humanoid robot, and will probably have a prototype next year."
     publishedDateTime: 2021-08-20T19:29:00Z
@@ -1075,6 +1093,6 @@ related:
         height: 445
         isCached: true
 
-secured: "LXvJhW27tAxKgfonlWP6cCgEf9lzXrNW78SCHoJcEC/8l3nqABSS4R9JT5lTJMJfmmuJ4szhAeI2ZjmTQ8ICP4qDpHhARR7PcpEFjXL3XwEF0ZQAN03NhZxI3bNe0P69qrNkYSIZ/rj+eHIic6u3IXtIzzSiLa8SKex/0jqAoJu20+JZ9GwiwGu+D9/NwWKhSRBu/mc6vSB7HbxJjeF2YPyl+3sl+2Kl5h+ry5R/DsH+wF2TO5SQItCl5S310h3srmPDjtRaMhtFPGDjeMNS1NOTc2ID5ks12+zYiRurSCg3an/JHOCm3YxtD7VbM/kvvWXsMaT3Ozt+g/qJd3Lz70HEzVg/NQmYuxaYSdlokcw=;zsAMqNXmHrk81lFJB2OSTw=="
+secured: "EiprlfK6t2qPB8igh9ZMK4HxFX/9XCQ3EVijXc+xwZFe5W/YnKV7wJmtlOAgDlFT7RXGWQ9wbixvyEKE7NkqjlhCjstxw7jpAn252TS+yNWjtqSN0XYrCTFFrjNHfJmxNsh1D3STfYJgeRHcCwmL9uzx7rA1bEhgsJXXQ/4lpJnkMi1S9VplZju0NQoFxVAt5So58Vzk7n0js/V6SjC4+ozlvTplq0cyOlbl+K1bVragiG086XF3Do7LJ7nRRBMcdYD8+ET1K0b86PaZV/j7OXfDQMC2lerE3utOA+PTMb4HRxBvh8p39Z2X/Rjz/QOrcIlHGe+KGE8IvFLThHMePyaXzrpm6x6OzstOmmcbF7E=;rSR43AjvtHg5wB1ZzX3zlA=="
 ---
 

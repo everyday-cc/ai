@@ -2,6 +2,57 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-08-13-neuron7-employs-open-source-ai-tools-for-field-service-across-devices.md",
+      "title": "Neuron7 employs open source AI tools for field service across devices",
+      "excerpt": "Neuron7.ai emerged from stealth with an AI platform that aggregates data across devices for the benefit of field service technicians.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/13/neuron-ai-targets-ai-driven-field-service-across-devices/",
+      "originalUrl": "https://venturebeat.com/2021/08/13/neuron-ai-targets-ai-driven-field-service-across-devices/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/N7-Industry-Specific-Service-Intelligence.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/13/neuron-ai-targets-ai-driven-field-service-across-devices/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/13/neuron-ai-targets-ai-driven-field-service-across-devices/amp/",
+      "publishedDateTime": "2021-08-13T05:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-13-facial-recognition-market-to-lift-up-industry-growth-during-the-forecast-period-from-2020-2027-key-players-crossmatch-keylemon-nec-3m.md",
       "title": "Facial Recognition Market To Lift Up Industry Growth During The Forecast Period From 2020 – 2027, Key Players – Crossmatch , Keylemon, NEC, 3M.",
       "excerpt": "To receive a sample copy, please click here: visit @  Market by Application Emotion Recognition Attendance Tracking and Monitoring Access Control Law Enforcement Others The deadly COVID-19 outbreak has significantly slowed the growth and development of the international market industry.",
@@ -1103,58 +1154,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-one-of-the-first-hands-free-farms-is-using-ai-smart-sensors-and-lettuce-picking-robots.md",
-      "title": "One of the first 'hands-free' farms is using AI, smart sensors, and lettuce-picking robots",
-      "excerpt": "The future of farming has arrived in Australia with a fully automated, hands-free farm that produces food with AI, fruit-picking robots, and drones.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/farming-agriculture-robotics-artificial-intelligence-smart-innovation-automation-food-production-2021-8",
-      "originalUrl": "https://www.businessinsider.com/farming-agriculture-robotics-artificial-intelligence-smart-innovation-automation-food-production-2021-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/611561dd3dd01000199d6892?width=750&format=jpeg&auto=webp",
-          "width": 750,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/farming-agriculture-robotics-artificial-intelligence-smart-innovation-automation-food-production-2021-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/farming-agriculture-robotics-artificial-intelligence-smart-innovation-automation-food-production-2021-8?amp",
-      "publishedDateTime": "2021-08-12T11:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

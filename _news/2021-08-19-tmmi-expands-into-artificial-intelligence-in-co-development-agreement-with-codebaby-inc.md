@@ -1,21 +1,28 @@
 ---
 category: news
 title: "TMMI Expands Into Artificial Intelligence In Co-Development Agreement With CodeBaby, Inc."
-excerpt: "Web site: http://www.tmmi.us TMMI, high resolution video technology pioneer, expands into artificial intelligence with co-development agreement. TMMI's Co-Development agreement with virtual character pioneer, CodeBaby, Inc. will propel the Company's growth ..."
-publishedDateTime: 2021-08-19T13:04:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-tmmi-expands-into-artificial-intelligence-co-development-agreement-/2021/08/19/9434212.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-tmmi-expands-into-artificial-intelligence-co-development-agreement-/2021/08/19/9434212.htm"
+excerpt: "Total Multimedia - TMM, Inc. (“TMMI” or the “Company”) (OTC PNK: TMMI). Web site:  TMMI’s Co-Development agreement with virtual character pioneer, CodeBaby, Inc. will propel the Company’s growth into diverse markets through the integration of several new technologies."
+publishedDateTime: 2021-08-19T13:01:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-f15820abd6a9a1e0e2798ca46528acf3"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-f15820abd6a9a1e0e2798ca46528acf3"
 type: article
-quality: 8
-heat: -1
+quality: 30
+heat: 30
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
+  - AI in Healthcare
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "TMMI Expands Into Artificial Intelligence In Co-Development Agreement With CodeBaby, Inc."
@@ -33,6 +40,6 @@ related:
         height: 1050
         isCached: true
 
-secured: "KBXxhS9ejc/RoS2LBFBZJmJTVVNFY4FVMM4j1vZsZY7JyCfaGDdHR2NnpOOleQhlB2so5PH+O294rRhB17FMjMq0ZeQ9uo3CHO7Z6koFnRRtASAQUqUR87OremzT16ha5UGSOHVlLh2/BT3vG9gmIe/yNdpu/M+bgledErTRuj04MhO0faic9Mshnofs4/KIZG7+nRmw/A9aFoLDjAeUlLLDqgEnUardPzlOfkCmTLIrVfC7jaOsDxvDVL4fYcT/c0V4YjuEcVe94fuPPySCMMGGG8SEj3lk2niMGwjlsSHKNAKzmwPDRAhdJaf6lD/Yz4nNblT3Lca2TyQblEGNbyz/JMvZ+/PUU/If6MiOKPk=;XoAAgpIIZw3vA4np/3+ZyQ=="
+secured: "a0sVAtFM4xFJDUvUZG5/wpz/OEDtlXoy9sdWLBUghLNLFL8WjTK0UAlPIjgAsGtZAlcYHkMn4pC240S5j69DtZr3npA/lXsirNwCgjzRONFUT6aGvKtOTfLaBC+WyCPSYf1BGvll7e9ym9ubO/JdHK90omb3g11HPHFuAswv2HQ0H9OhuQmM16K3+VtAPvaJ6l1EUTypx+3PSnT49+WNRSyyaoB/hOaA8ZUvAaACwAsHH1PWsb8APO+wWNZSyd4nQwKtkRRglyJdWpZ9OjW+bpendZbKS2GLuljnETwpiMkjYqcVLXT1xcTaET9k4+GG19lrA/RPZXvAvLCUIrSRUdQoV+8H3F6wj29bHIspIQg=;PXd2J2ROHRF8EWKLSpOZTw=="
 ---
 

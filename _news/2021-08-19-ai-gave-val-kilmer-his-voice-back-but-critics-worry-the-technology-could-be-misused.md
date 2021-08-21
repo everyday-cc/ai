@@ -24,35 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Val Kilmer's Old Speaking Voice Recreated Using Artificial Intelligence"
-    excerpt: "Val Kilmer 's voice has been recreated using artificial intelligence (AI) and old audio recordings. Hear it for yourself here: The former Batman actor lost his voice following a tracheotomy in 2014, as part of his treatment for throat cancer."
-    publishedDateTime: 2021-08-18T09:42:00Z
-    webUrl: "https://www.ladbible.com/news/celebrity-val-kilmers-speaking-voice-recreated-using-artificial-intelligence-20210818"
-    ampWebUrl: "https://www.ladbible.com/news/celebrity-val-kilmers-speaking-voice-recreated-using-artificial-intelligence-20210818.amp.html"
-    cdnAmpWebUrl: "https://www-ladbible-com.cdn.ampproject.org/c/s/www.ladbible.com/news/celebrity-val-kilmers-speaking-voice-recreated-using-artificial-intelligence-20210818.amp.html"
+  - title: "'Top Gun' star lost his voice to cancer. He used AI to bring it back."
+    excerpt: "Actor Val Kilmer lost his voice in 2015 due to complications to throat cancer. For his new documentary \"Val,\" Kilmer sought out a company to create a synthetic version of his voice using audio deepfake technology to be used as a voiceover."
+    publishedDateTime: 2021-08-19T21:36:00Z
+    webUrl: "https://edition.cnn.com/videos/business/2021/08/19/val-kilmer-ai-voice-js-orig.cnn-business/video/playlists/business-news/"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2021/08/19/val-kilmer-ai-voice-js-orig.cnn-business"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/08/19/val-kilmer-ai-voice-js-orig.cnn-business"
     type: article
     provider:
-      name: LADbible
-      domain: ladbible.com
-    quality: 57
+      name: CNN
+      domain: cnn.com
+    quality: 87
     images:
-      - url: "https://www.ladbible.com/cdn-cgi/image/width=1200,quality=70,format=jpeg,fit=contain,dpr=1/https%3A%2F%2Fs3-images.ladbible.com%2Fs3%2Fcontent%2Fbf904937611c81f0a846b51ede41430c.png"
-        width: 1200
-        height: 674
-        isCached: true
-  - title: "Here’s How Val Kilmer Recreated His Speaking Voice Using Artificial Intelligence"
-    excerpt: "Val Kilmer lost his voice during his battle with throat cancer, but now he's recreated his speaking voice in an special way."
-    publishedDateTime: 2021-08-19T17:40:00Z
-    webUrl: "https://www.cheatsheet.com/entertainment/val-kilmer-recreated-speaking-voice-using-artificial-intelligence.html/"
-    type: article
-    provider:
-      name: The Cheat Sheet
-      domain: cheatsheet.com
-    quality: 32
-    images:
-      - url: "https://www.cheatsheet.com/wp-content/uploads/2021/08/Val-Kilmer-at-the-United-Nations-headquarters-1200x878.jpg"
-        width: 1200
-        height: 878
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210721144935-val-kilmer-documentary-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "GPpfuZYGubWAKHF3wTS93X1p1TGiRSOzheZhi/5gkwmem7r7cs2BCq3y/xvTC/u4mUofQ+M1DcGhQtyqKniTX5g6Lbix9u+DDYqGLp2HYn5mV6Aopn5Upd3RqlbHswj+A9vuPEOegwuRHsjYbIGVx6WnVsDDDXrSKJn/Eekq5ViQUqfMoyoGa/hE8r8ZtjNyEQGsO5jp+lM9ui0X2EwS9aJrbOqGoztjScxQD2Z6y33QdPTl9u8eMZmh5030ZLQCzt9wJRzCp6a9SVGqVBFotM7KcqEBM9tkNOe0cop/h6oGPg6C/P+3HKhFxCjrdMcg0Siz9V5KCIz5eJLGSQB5e5EIWz81p/jSvPlD6QjebOY=;LAdl0zf+gw12mOIbuV2y0w=="

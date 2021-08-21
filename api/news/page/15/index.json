@@ -2,21 +2,21 @@
   "page": 15,
   "value": [
     {
-      "path": "_news/2021-08-09-loxo-names-former-ibm-watson-and-bullhorn-exec-nicole-tumblin-to-vice-president-of-sales-enablement-and-operations.md",
-      "title": "Loxo Names Former IBM Watson and Bullhorn Exec, Nicole Tumblin to Vice President of Sales Enablement and Operations",
-      "excerpt": "DENVER, Aug. 9, 2021 /PRNewswire-PRWeb/ -- Loxo, the #1 Talent Intelligence Platform and global leader in AI recruitment automation ... She also held leadership positions at IBM with the Watson ...",
+      "path": "_news/2021-08-09-can-you-trust-the-solutions-that-ai-technologies-deliver-with-mathematical-optimization-you-can.md",
+      "title": "Can You Trust The Solutions That AI Technologies Deliver? With Mathematical Optimization, You Can",
+      "excerpt": "Numerous high-profile incidents have shone a spotlight on some of the inherent shortcomings and unintended biases of AI technologies, shaking our confidence in the accuracy of these solutions.",
       "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-19942074.html",
-      "originalUrl": "https://www.lelezard.com/en/news-19942074.html",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/09/can-you-trust-the-solutions-that-ai-technologies-deliver-with-mathematical-optimization-you-can/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/09/can-you-trust-the-solutions-that-ai-technologies-deliver-with-mathematical-optimization-you-can/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 94,
       "tags": null,
       "images": [
         {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ffc66fc1dceffe79c454b11%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-09T06:12:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/09/can-you-trust-the-solutions-that-ai-technologies-deliver-with-mathematical-optimization-you-can/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/09/can-you-trust-the-solutions-that-ai-technologies-deliver-with-mathematical-optimization-you-can/amp/",
+      "publishedDateTime": "2021-08-09T06:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,9 +49,7 @@
         "news"
       ],
       "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Sales"
+        "AI"
       ]
     },
     {
@@ -87,6 +94,41 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-08-09-loxo-names-former-ibm-watson-and-bullhorn-exec-nicole-tumblin-to-vice-president-of-sales-enablement-and-operations.md",
+      "title": "Loxo Names Former IBM Watson and Bullhorn Exec, Nicole Tumblin to Vice President of Sales Enablement and Operations",
+      "excerpt": "The #1 Talent Intelligence Platform hires recruiting and AI software veteran to accelerate revenue and customer acquisition while delivering a world-class experience across",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/08/p22399618/loxo-names-former-ibm-watson-and-bullhorn-exec-nicole-tumblin-to-vice-president-of-sales-enablemen",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/08/p22399618/loxo-names-former-ibm-watson-and-bullhorn-exec-nicole-tumblin-to-vice-president-of-sales-enablemen",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/22399618",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22399618",
+      "publishedDateTime": "2021-08-09T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Sales"
       ]
     },
     {
@@ -1103,58 +1145,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-08-what-to-expect-from-teslas-ai-day-scheduled-for-aug-19.md",
-      "title": "What to Expect From Tesla's AI Day Scheduled for Aug. 19",
-      "excerpt": "Tesla, Inc. (NASDAQ: TSLA) is scheduled to host its AI Day Aug.19, and the EV maker began sending invites for the event last week.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/what-to-expect-from-tesla-s-ai-day-scheduled-for-aug-19-1030704372",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/what-to-expect-from-tesla-s-ai-day-scheduled-for-aug-19-1030704372",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/tesla_29.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-08T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

@@ -2,40 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-08-19-best-artificial-intelligence-stocks-to-buy-right-now-5-to-watch.md",
-      "title": "Best Artificial Intelligence Stocks To Buy Right Now? 5 To Watch",
-      "excerpt": "Top Artificial Intelligence Stocks To Watch Ahead Of September 2021. While investors are wondering why stocks are down this week, tech stocks could be worth noting. In particula",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/best-artificial-intelligence-stocks-to-buy-right-now-5-to-watch-2021-08-19",
-      "originalUrl": "https://www.nasdaq.com/articles/best-artificial-intelligence-stocks-to-buy-right-now-5-to-watch-2021-08-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/best-artificial-intelligence-stocks-to-buy-right-now-5-to-watch-2021-08-19?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/best-artificial-intelligence-stocks-to-buy-right-now-5-to-watch-2021-08-19?amp",
-      "publishedDateTime": "2021-08-19T08:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-18-amazon-sagemaker-notebook-instances-now-support-amazon-linux-2.md",
       "title": "Amazon SageMaker notebook instances now support Amazon Linux 2",
       "excerpt": "Today, we’re excited to announce that Amazon SageMaker notebook instances support Amazon Linux 2. You can now choose Amazon Linux 2 for your new SageMaker notebook instance to take advantage of the latest update and support provided by Amazon Linux 2. SageMaker notebook instances are fully managed Jupyter",
@@ -852,8 +818,8 @@
       "title": "Virtana Announces Expanded Advanced Technology Partnership with Amazon Web Services (AWS)",
       "excerpt": "Virtana, the AIOps observability company for hybrid cloud, today announced its expanded offering of Virtana Platform on Amazon Web Services (AWS) Marketplace. Offering end user customers a unified SaaS platform on Marketplace,",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/08/11/9428699.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/08/11/9428699.htm",
+      "webUrl": "https://www.tmcnet.com/usubmit/-virtana-announces-expanded-advanced-technology-partnership-with-amazon-/2021/08/11/9428699.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-virtana-announces-expanded-advanced-technology-partnership-with-amazon-/2021/08/11/9428699.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1119,7 +1085,7 @@
     {
       "path": "_news/2021-08-10-5-best-artificial-intelligence-stocks-to-invest-in-right-now.md",
       "title": "5 Best Artificial Intelligence Stocks To Invest In Right Now",
-      "excerpt": "Xnora.ai specializes in putting artificial intelligence on devices ... conviction in Alphabet‘s ‘moonshot’ bets (such as Waymo), substantial success in which would likely be required ...",
+      "excerpt": "(NASDAQ:AAPL) ranks 5th on the list of 12 best artificial intelligence stocks to invest in right now. The tech giant based in California is one of the leaders in the AI world with significant features such as FaceID,",
       "sourceUrl": null,
       "webUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/?singlepage=1",
       "originalUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/?singlepage=1",
@@ -1141,7 +1107,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-10T07:20:00-07:00",
+      "publishedDateTime": "2021-08-10T06:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Insider Monkey",
@@ -1155,9 +1121,8 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI",
-        "AWS AI"
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -1357,6 +1322,58 @@
       "topics": [
         "AWS AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-09-attendee-matchmaking-at-virtual-events-with-amazon-personalize.md",
+      "title": "Attendee matchmaking at virtual events with Amazon Personalize",
+      "excerpt": "Amazon Personalize enables developers to build applications with the same machine learning (ML) technology used by Amazon.com for real-time personalized recommendations—no ML expertise required. Amazon Personalize makes it easy for developers to build applications capable of delivering a wide array of",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/attendee-matchmaking-at-virtual-events-with-amazon-personalize/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/attendee-matchmaking-at-virtual-events-with-amazon-personalize/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/03/ML-4033-IMG1.png",
+          "width": 864,
+          "height": 596,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-09T15:35:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
       ]
     }
   ],

@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-08-17-data-observability-startup-monte-carlo-raises-60m.md",
+      "title": "Data observability startup Monte Carlo raises $60M",
+      "excerpt": "Monte Carlo, a startup leveraging AI to power its data observability tech, has raised $60 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/17/data-observability-startup-monte-carlo-raises-60m/",
+      "originalUrl": "https://venturebeat.com/2021/08/17/data-observability-startup-monte-carlo-raises-60m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/AI-e1628527067120.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/17/data-observability-startup-monte-carlo-raises-60m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/17/data-observability-startup-monte-carlo-raises-60m/amp/",
+      "publishedDateTime": "2021-08-17T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-17-industry-expo-to-feature-seven-well-tech-trends-to-make-your-home-healthier.md",
       "title": "Industry Expo To Feature Seven Well-Tech Trends to Make Your Home Healthier",
       "excerpt": "Ian Bryant, CEDIA’s director of strategic partnerships, dates the industry’s heightened interest in “well-tech,” (also called well tech and welltech to describe technology created to support wellness),",
@@ -363,7 +414,7 @@
       "originalUrl": "https://www.seattlepi.com/news/article/EXPLAINER-Western-states-face-first-federal-16389204.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -502,7 +553,7 @@
       "originalUrl": "https://www.zdnet.com/article/new-rules-on-police-use-of-facial-recognition-dont-go-far-enough-experts-say/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 155,
       "tags": null,
       "images": [
         {
@@ -1167,57 +1218,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-how-ibm-is-using-digital-twins-to-optimize-ai.md",
-      "title": "How IBM is using digital twins to optimize AI",
-      "excerpt": "Lisa Seacat DeLuca, head of IBM’s digital twin research, talked about how orgs can share expertise by combining digital twins, AI, and IoT.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/16/how-ibm-is-using-digital-twins-to-optimize-ai/",
-      "originalUrl": "https://venturebeat.com/2021/08/16/how-ibm-is-using-digital-twins-to-optimize-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1233363927-e1628896963459.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/16/how-ibm-is-using-digital-twins-to-optimize-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/16/how-ibm-is-using-digital-twins-to-optimize-ai/amp/",
-      "publishedDateTime": "2021-08-16T10:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -2,11 +2,9 @@
 category: news
 title: "Modeling Neural Networks on Real Brains Makes ANN Improvement"
 excerpt: "A new study shows that artificial intelligence networks based on human brain connectivity can perform cognitive tasks efficiently."
-publishedDateTime: 2021-08-10T10:53:00Z
-originalUrl: "https://www.technologynetworks.com/tn/news/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870"
-webUrl: "https://www.technologynetworks.com/tn/news/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870"
-ampWebUrl: "https://www.technologynetworks.com/informatics/news/amp/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870"
-cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/news/amp/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870"
+publishedDateTime: 2021-08-10T10:15:00Z
+originalUrl: "https://www.technologynetworks.com/informatics/news/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870"
+webUrl: "https://www.technologynetworks.com/informatics/news/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870"
 type: article
 
 provider:
@@ -18,11 +16,11 @@ topics:
   - AI
 
 images:
-  - url: "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870.jpg?v=11365095"
+  - url: "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870.jpg?cb=20210810"
     width: 640
     height: 360
     isCached: true
 
-secured: "Ma0dq95dztrnRQg1woI2pRA+JEQAs+bp8vvYZoPN7CqVJ17F0/hR0ttmncrItT3EjtGIciwWvRijBsUf0ZN706eyJhe2Xi9p5iv4lfYjHIj9s2nMAIBjBZmW42e64JzVmOzcBCmqkQH4udMdZQ/24GM5+5tdMRb2yMroV9S5Mp3X1HF7xaXe8sQdGefQioNFAz3M9OwWDZ+zP6azjdbIsYcA6BZmtSIImtNLifi3EBP5JXAsId0DAE6evtMMkzfXqi4xoKTnmDlPzk/jSevC06ntOx7jd+GaSFtjwDoVja4CLHkYNjLrWFyJOfA3iXGsAmAyfvM4/X5agwn9ptgjPENszmokVFN+NnuIwJrvwhXooA+VIUu157qAYhywBOps8qTCbPoGGYLVJLEfD3qgQq3R0NIR0S4wMXrbf70wicfc9MtrIky0fTtl+UPKdF+7+8ER9NXEIk+j9J3L2qOr1kqc0C4M6UC9Ft1LXjwtwvxdhgKSiZbp3rNT/piTMYT+ANDMDC2ZgPmMK7508fTYLA==;KJMXi3b/xXE5gvB3Y+ZvDA=="
+secured: "Ui7LQw5Ab5fGUJcOnBYLK+rwSILwQg20tRaDjW7vyzb9QENhWPLL1GPlRGN8ZBt/UnoygMOrPNfxdoIwhRCbBISqoAthkxUjax+8G9Y60wkDQIBKwBmRyppRPBWem7uWuwGGxLVEhRpq6lZVX3WhsHn+Q7564zqqNklp9sNmTRsOAL4I7KCwtFIYtPKAkIt1L8YZ94RcY8Q3B1nTBrsPLO6rM/5Vt6HiFs5Oe9FpB9Twc02getnACOp/1qPLjMkO8OiRTiN+ytvOB7Sp+M8AYQy59QjfgatGlpiSS02WR3FTyk/+Xu5NEbr7W8frqLZropDcarhbI4pWrlH0jw/LJzpxp/4YDeP2pId4TY8Khbw=;bH87CSHTKK0Wzz/HxVxVHQ=="
 ---
 

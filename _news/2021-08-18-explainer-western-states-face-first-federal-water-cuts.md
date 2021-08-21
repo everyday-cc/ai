@@ -105,20 +105,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Western States Face Water Cuts As A Shortage In The..."
-    excerpt: "U.S. officials on Monday declared the first-ever water shortage from a river that serves 40 million people in the West, triggering cuts to some Arizona farmers next year amid a gripping drought. Water levels at the largest reservoir on the Colorado River — Lake Mead — have fallen to record lows."
-    publishedDateTime: 2021-08-17T02:07:00Z
-    webUrl: "https://wfuv.org/content/western-states-face-water-cuts-shortage-colorado-river-declared"
-    type: article
-    provider:
-      name: WFUV
-      domain: wfuv.org
-    quality: 24
-    images:
-      - url: "https://wfuv.org/sites/all/themes/wfuv_beep/logo.png"
-        width: 342
-        height: 240
-        isCached: true
 
 secured: "Iiki9zlkjoBHT2XCQXgDxR+UA6yYzP07BaPtQj8ajSwtMt6wwLbL/fshNcE1hxzk8apsdfXqfOJk7xHVJ+AYLRoup3VyEctNJPxqdEp/EPeyN6eQD7IPnHtw2ArIYHexdLaTdaX7g3EM1HymEEIrq5wfVsoXprTzXbUdw7X/9MCpqeHhpG6BnlHFSlzkFz/vV6qlUEggThabwlrQK0oOzRiyZ8Y1RDjV7IwC/o0MqcPdVKXKS/+8/OWfRo/dLIsp+OjuSSNLzTi9zU4i/TLsGiKzm5QkPaZ7Qn5/08ioM9R/i0XLbbEdft18E6D88TJwaN44zdEsKmptmAJQz4MkM26tSuzIiwkU8icXciDTRnWq7dyCr0ZNF9k/ZkI0ygLIvFIv1k/ZK3WqqMqc1x3vg4/jxlZffFk5Vp3A2FclmYBwyvMHozeauyRMQNP8RtE1hXYITgunj2nVNc5ub97mkBIobO7Sd7+g9SnqnvrxC6HRdijmHrdwVvVlcusNbYmnLiOATdjzQCloZ/yiUKIpUw==;SKZ+ytml0O+qwsjvaSm2QQ=="
 ---

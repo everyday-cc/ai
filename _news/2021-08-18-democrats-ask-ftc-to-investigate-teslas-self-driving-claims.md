@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/08/18/democrats-ask-ftc-to-investigate
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/08/18/democrats-ask-ftc-to-investigate-teslas-self-driving-claims.html"
 type: article
 quality: 204
-heat: 434
+heat: 424
 published: true
 
 provider:
@@ -250,22 +250,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/11/13/tesla-would-be-the-first-foreign-car-company.jpg"
         width: 1024
         height: 707
-        isCached: true
-  - title: "Six injured as self-driving Tesla crashes in school car park in Southern England"
-    excerpt: "At least one person was reported to have been pinned under the electric car in a car park of a college in Sussex, the report said, adding that exact number was not clear."
-    publishedDateTime: 2021-08-17T02:30:00Z
-    webUrl: "https://www.moneycontrol.com/news/world/six-injured-as-self-driving-tesla-crashes-in-school-car-park-in-southern-england-7345501.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/world/six-injured-as-self-driving-tesla-crashes-in-school-car-park-in-southern-england-7345501.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/six-injured-as-self-driving-tesla-crashes-in-school-car-park-in-southern-england-7345501.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 54
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2021/07/Tesla_Jul8-770x433.jpg?impolicy=website&width=770&height=431"
-        width: 770
-        height: 431
         isCached: true
   - title: "Senators urge FTC to probe Tesla over self-driving claims"
     excerpt: "Two senators say company has misled consumers and endangered the public by marketing its driving automation systems as fully self-driving."

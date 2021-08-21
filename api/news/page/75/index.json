@@ -2,6 +2,49 @@
   "page": 75,
   "value": [
     {
+      "path": "_news/2021-06-28-artificial-intelligence-at-the-service-of-the-company.md",
+      "title": "Artificial intelligence at the service of the company",
+      "excerpt": "Two of the companies created in The Collider, the innovation programme of the Mobile World Capital of Barcelona, stand out for applying artificial intelligence in",
+      "sourceUrl": null,
+      "webUrl": "https://www.lavanguardia.com/economia/20210628/7551935/artificial-intelligence-at-the-service-of-the-company.html",
+      "originalUrl": "https://www.lavanguardia.com/economia/20210628/7551935/artificial-intelligence-at-the-service-of-the-company.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lavanguardia.com/files/image_948_465/uploads/2021/06/22/60d19a84d34b0.jpeg",
+          "width": 948,
+          "height": 465,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.lavanguardia.com/economia/20210628/7551935/artificial-intelligence-at-the-service-of-the-company.amp.html",
+      "cdnAmpWebUrl": "https://www-lavanguardia-com.cdn.ampproject.org/c/s/www.lavanguardia.com/economia/20210628/7551935/artificial-intelligence-at-the-service-of-the-company.amp.html",
+      "publishedDateTime": "2021-06-27T19:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "La Vanguardia",
+        "domain": "lavanguardia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-28-uk-watchdog-raises-alarm-over-live-face-recognition-tech.md",
       "title": "UK watchdog raises alarm over live face recognition tech",
       "excerpt": "Unlike CCTV, LFR and its algorithms can automatically identify who you are and infer sensitive details about you. The chief data protection regulator in the UK has expressed grave concerns over the inappropriate use of live facial recognition (LFR) technology in public places.",
@@ -1107,57 +1150,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-26-how-ai-is-changing-the-nature-of-analytics.md",
-      "title": "How AI is changing the nature of analytics",
-      "excerpt": "At its core, artificial intelligence is an analytics tool. AI is useful because it can parse large amounts of data and add context.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/25/how-ai-is-changing-the-nature-of-analytics/",
-      "originalUrl": "https://venturebeat.com/2021/06/25/how-ai-is-changing-the-nature-of-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/06/analytics-e1624650601959.jpg?fit=800%2C600&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/25/how-ai-is-changing-the-nature-of-analytics/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/25/how-ai-is-changing-the-nature-of-analytics/amp/",
-      "publishedDateTime": "2021-06-25T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

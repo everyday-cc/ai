@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "AI gave Val Kilmer his voice back. But critics worry the technology could be misused."
-    excerpt: "Val Kilmer lost his natural speaking voice in 2015 during a battle with throat cancer. The Hollywood actor worked with an AI firm to digitally restore it."
-    publishedDateTime: 2021-08-18T17:36:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2021/08/18/val-kilmer-ai-voice-cloning/"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 30
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/M2FF5GH7TEI6XB7APYD33HHCOA.jpg&w=1440"
-        width: 1440
-        height: 961
-        isCached: true
 
 secured: "eb2SmOgiUGsiVVjo5Ll5L3pGNojaOivGJC5O0WPSTCZPkllbnF3wZC9LKwRSgLdYlzMMUVjVAZLyJXaxtey5l2s0K6h2UJl5f8yS+9j+YOSJolXMwae/oZDnT6JyEY4aX5F0NDkP6cymhpGVsZKqP74YuH27OzN+pUmWpX3a/tOpafcH8X4GIPIWfQwY6L8Y9sIY+lXYO2wT0KCgYucKWhJ9O957qrIMNk+J3cWowZdJcj7BIgPNoEaZlJsOYhNAb01nmhbTX8rQKwg7bJT9EvW2A4vjA3jZxoTTwMn6JvRvA/7ef2qWZIP9yaJTS0tHrARlAXs8co7SfD/QmiCNzc3oHfBWgalp7uYCoV2pzEjO6vSsN0Zjhh9Tx8vucqI34gSmfe1EmIplxqw7Yy8J4cdvcrutcXtuaofPrYF+pb5JsQuhisACDP9clqPs41UuLxuLIVaOiwzrfObHDmfWe3J7aUXbNKxfPtp+pbWepS/i7ex5y2wNLpkyUnbzRfZ1ATv81SY0FO8a7IK+m1Chwg==;C/QktFe6CB6hgWect5wCig=="
 ---

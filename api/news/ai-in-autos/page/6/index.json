@@ -2,59 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2021-07-06-elon-musk-tesla-to-release-new-ui-with-mind-of-car-view-coming-to-cars-with-fsd-computer.md",
-      "title": "Elon Musk: Tesla to release new UI with ‘mind of car’ view coming to cars with FSD computer",
-      "excerpt": "Elon Musk: has confirmed that Tesla will release a new user interface with its upcoming FSD v9 Beta software update. The updated UI will have something that the CEO referred to as “mind of car’ view.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/07/06/elon-musk-tesla-ui-mind-of-car-view-fsd-computer/",
-      "originalUrl": "https://electrek.co/2021/07/06/elon-musk-tesla-ui-mind-of-car-view-fsd-computer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-full-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/07/06/elon-musk-tesla-ui-mind-of-car-view-fsd-computer/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/07/06/elon-musk-tesla-ui-mind-of-car-view-fsd-computer/amp/",
-      "publishedDateTime": "2021-07-06T03:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2021-07-06-top-tech-companies-applying-artificial-intelligence-for-social-good.md",
       "title": "Top Tech Companies Applying Artificial Intelligence for Social Good",
       "excerpt": "Today, computer vision is being used in self-driving cars and a variety of other applications ... organizations to tackle societal challenges. The team is applying artificial intelligence, deep science, cloud computing, and many other technologies to ...",
@@ -1404,6 +1351,58 @@
         "name": "The Globe and Mail",
         "domain": "theglobeandmail.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-internal-whistleblowers-might-just-blow-the-lid-off-some-quite-dicey-ai-self-driving-cars.md",
+      "title": "Internal Whistleblowers Might Just Blow The Lid Off Some Quite Dicey AI Self-Driving Cars",
+      "excerpt": "You can expect that there will be whistleblowers about self-driving cars, something that might seem surprising and altogether unexpected, but it is going to happen nonetheless. Here's why.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/23/internal-whistleblowers-might-just-blow-the-lid-off-some-quite-dicey-ai-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/23/internal-whistleblowers-might-just-blow-the-lid-off-some-quite-dicey-ai-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60cd37770b24e71b5d37d80b%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/23/internal-whistleblowers-might-just-blow-the-lid-off-some-quite-dicey-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/23/internal-whistleblowers-might-just-blow-the-lid-off-some-quite-dicey-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2021-06-23T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

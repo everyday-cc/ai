@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/21/angst-and-worries-th
 ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/21/angst-and-worries-that-forbidden-knowledge-could-be-revealed-by-developing-ai-self-driving-cars/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/21/angst-and-worries-that-forbidden-knowledge-could-be-revealed-by-developing-ai-self-driving-cars/amp/"
 type: article
-quality: 75
+quality: 77
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60aea6e9c265b9c305b6d333%2F0x0.jpg%3FcropX1%3D471%26cropX2%3D3180%26cropY1%3D8%26cropY2%3D1531"
@@ -77,6 +78,6 @@ related:
         height: 580
         isCached: true
 
-secured: "NdL6pTrZrReL31VUBXnqIL4qYVxduUBu6ijBqd8QDzEgtim2TYgFPZGWZYzjjfRl4dRtqXJGx6T1c2lr/oz1AZXnXUygZBXVRZ47EjEjlbNqPQd3i2SP/75a2fw3dtfhWz5t6A+ezlUzQleYVwc/pYz9SUydSoWaOEWJgWtRu24wGE9mEgSgzOLKEFMyIC0icj/56R3YALAGfd3r3+QwW+dO4LA2QJTGasLVNvrHgCNAGmKY1rtAcb/QxZHj2Bckb72HtDJj2qBMo0DR87zhISHDLjyeXZahUZ/gjkHjXriczVF6frkw4R/Ug7bciKs6sy2dgxT7MsXaQeoopzawoNGfXVxFEmNXXIbbHb7djjo=;/fopxLW6hq5gJbFXiny+Yg=="
+secured: "JJqzyoUy2rsgPGrp9Aw4pF+M/QhGBFD+x+xhbzPx76FY1X+rwGrZH8ro8LHowSAEDC6iXJ+rosJLUtYxaVwcaEMUunFGWfJ5WAMxHHcrTdwil0PBAU3dIHf41XJPnQY/Zwk07X9JA0EBfcltlXMOhHe4m+jfxPzckn6Iyr9B0FQBCkyNnlIy+roGWx1jEsxhUn3ZX5JtkMt27b1JRv/8JeQbWU02dYQSAUP6uwlnlZ3cL2PGppAGjvQV6mDFyDbDCknI6oCjkk6UaJKpZLrwUxyN/EjhAP720RlpTT6f1sC7lI5SVTah4ZtwyhMgcXUcAjPdEW3+OHtWmriut0G+antrDTEkOANUzHeuqDugl7QznCA0PEbP1ZTlSNygU6Yn95cEYrzQRKvBzry8cFZRZIPfhK8DxgYx1HVtT8606m0EAWhWBaAVltlPdVLN1qCn3zvTCPsarHSHw9Uanc2DbG1OJxFUejMNV+og8xyiM5zRgoLnqh0oO5bxqagSjon1ikBtm6QzTRnxvOYZxKSljg==;N2nerSYw8q8siEiclrMHKg=="
 ---
 
