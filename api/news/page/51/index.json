@@ -2,6 +2,142 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2021-07-14-zillow-utilizes-explainer-ai-data-to-revolutionize-how-people-sell-houses.md",
+      "title": "Zillow utilizes explainer AI, data, to revolutionize how people sell houses",
+      "excerpt": "Zillow's Stan Humphries discusses how the company uses AI such as computer vision and NLP to change how people sell houses at Transform 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/14/zillow-utilizes-ai-data-to-revolutionize-how-people-sell-houses/",
+      "originalUrl": "https://venturebeat.com/2021/07/14/zillow-utilizes-ai-data-to-revolutionize-how-people-sell-houses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2012/08/real-estate-zillow.jpg?w=1200&strip=all",
+          "width": 1000,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/14/zillow-utilizes-ai-data-to-revolutionize-how-people-sell-houses/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/14/zillow-utilizes-ai-data-to-revolutionize-how-people-sell-houses/amp/",
+      "publishedDateTime": "2021-07-14T05:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-bridgeweave-launches-ai-powered-investment-analyst-investorai.md",
+      "title": "Bridgeweave launches AI-powered investment analyst InvestorAi",
+      "excerpt": "DIY app covers over 4500 global stocks and 1500 ETFs in 15 markets performing over 800 million calculations every day.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/bridgeweave-launches-ai-powered-investorai/",
+      "originalUrl": "https://www.dqindia.com/bridgeweave-launches-ai-powered-investorai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2021/02/Advanced-analytics.png",
+          "width": 850,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/bridgeweave-launches-ai-powered-investorai/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/bridgeweave-launches-ai-powered-investorai/amp/",
+      "publishedDateTime": "2021-07-14T04:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-zoominfo-acquires-israeli-startup-chorusai-for-575m-cash.md",
+      "title": "ZoomInfo acquires Israeli startup Chorus.ai for $575M cash",
+      "excerpt": "Israeli startup Chorus.ai had only raised $100M in VC funding but was sold for much more than that... Among the trove of funding rounds, IPOs, and talk of establishing Israeli companies for the long run,",
+      "sourceUrl": null,
+      "webUrl": "https://www.geektime.com/zoominfo-acquires-israeli-startup-chorus-ai-for-575m-in-cash-money/",
+      "originalUrl": "https://www.geektime.com/zoominfo-acquires-israeli-startup-chorus-ai-for-575m-in-cash-money/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geektime.com/content/images/2021/07/Screenshot-2021-07-13-at-14-16-43-Chorus-ai-Conversation-Intelligence-for-Sales-Teams-1626175017.png",
+          "width": 900,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geektime.com/zoominfo-acquires-israeli-startup-chorus-ai-for-575m-in-cash-money/amp/",
+      "cdnAmpWebUrl": "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/zoominfo-acquires-israeli-startup-chorus-ai-for-575m-in-cash-money/amp/",
+      "publishedDateTime": "2021-07-14T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geektime",
+        "domain": "geektime.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-14-artificial-intelligence-ai-chipsets-market-to-upheave-market-growth-during-the-forecast-period-2020-2026.md",
       "title": "Artificial Intelligence (AI) Chipsets Market to Upheave Market Growth During The Forecast Period 2020-2026",
       "excerpt": "Chipsets Market to Upheave Market Growth During The Forecast Period 2020-2026” by Zion Market Research facilitates a closer outlook on opportunities, revenue growth, and current market trends. The report is focused to offer qualitative and quantitative analysis of dynamics and market opportunities prevailing during the forecast period.",
@@ -1034,154 +1170,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-how-octopuses-upend-what-we-know-about-ourselves.md",
-      "title": "How Octopuses Upend What We Know About Ourselves",
-      "excerpt": "Octopuses (it’s incorrect to say “octopi,” to my despair) are having a moment: There are award-winning books, documentaries and even science fiction about them. I suspect it’s the same hunger that leaves many of us yearning to know aliens: How do radically different minds work?",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/07/13/opinion/ezra-klein-podcast-sy-montgomery.html",
-      "originalUrl": "https://www.nytimes.com/2021/07/13/opinion/ezra-klein-podcast-sy-montgomery.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/07/13/opinion/13eks-promo/13eks-promo-facebookJumbo-v2.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/07/13/opinion/ezra-klein-podcast-sy-montgomery.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/13/opinion/ezra-klein-podcast-sy-montgomery.amp.html",
-      "publishedDateTime": "2021-07-13T10:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-baidu-shares-are-a-bargain-now-but-not-for-long.md",
-      "title": "Baidu Shares Are a Bargain Now, But Not for Long",
-      "excerpt": "They even have their hand in self-driving technologies ... be light at the end of the tunnel because of technical reasons. Baidu is falling into a potential support zone dating back to 2011.",
-      "sourceUrl": null,
-      "webUrl": "https://investorplace.com/2021/07/bidu-stock-baidu-is-a-bargain-now-but-not-for-long/",
-      "originalUrl": "https://investorplace.com/2021/07/bidu-stock-baidu-is-a-bargain-now-but-not-for-long/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2020/09/bidu-stock-1.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://investorplace.com/2021/07/bidu-stock-baidu-is-a-bargain-now-but-not-for-long/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/07/bidu-stock-baidu-is-a-bargain-now-but-not-for-long/amp/",
-      "publishedDateTime": "2021-07-13T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-breaking-bad-data-with-machine-learning.md",
-      "title": "Breaking ‘bad data’ with machine learning",
-      "excerpt": "Every single large organization is heavily siloed, but there are huge business benefits to integrating data silos.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/13/breaking-bad-data-with-machine-learning/",
-      "originalUrl": "https://venturebeat.com/2021/07/13/breaking-bad-data-with-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/GettyImages-1088374242.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 597,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/13/breaking-bad-data-with-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/13/breaking-bad-data-with-machine-learning/amp/",
-      "publishedDateTime": "2021-07-13T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-18-baidu-unveils-concept-autonomous-robocar.md",
+      "title": "Baidu unveils concept autonomous 'Robocar'",
+      "excerpt": "Along with unveiling a new autonomous vehicle, Baidu also announced it has started mass producing its AI chip, the Kunlun II.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/baidu-unveils-concept-autonomous-robocar/",
+      "originalUrl": "https://www.zdnet.com/article/baidu-unveils-concept-autonomous-robocar/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/08/18/97007714-bc06-4b94-816a-9a85a0427308/e9clrpivoag-sz.jpg",
+          "width": 2477,
+          "height": 1509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/baidu-unveils-concept-autonomous-robocar/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/baidu-unveils-concept-autonomous-robocar/",
+      "publishedDateTime": "2021-08-17T20:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-18-intel-realsense-camera-business-being-shut-down.md",
       "title": "Intel RealSense camera business being shut down",
       "excerpt": "Intel RealSense is being shut down. Intel CEO Pat Gelsinger wants to focus all of Intel's efforts on its core chipmaking business.",
@@ -235,7 +287,7 @@
       "originalUrl": "https://manometcurrent.com/ai-in-fashion-market-to-see-huge-growth-by-2026-google-aws-microsoft-facebook/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -666,7 +718,7 @@
       "originalUrl": "https://siliconangle.com/2021/08/17/conga-buys-ai-startup-helps-companies-understand-contracts-will-impact-revenue/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1161,59 +1213,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-qualcomm-readies-5g-and-ai-drone-platform.md",
-      "title": "Qualcomm readies 5G and AI drone platform",
-      "excerpt": "Qualcomm is unveiling its QRB5165 processor platform that enables aerial drones to tap both 5G and AI technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/17/qualcomm-readies-5g-and-ai-drone-platform/",
-      "originalUrl": "https://venturebeat.com/2021/08/17/qualcomm-readies-5g-and-ai-drone-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/qualcomm-drone-Flight-RB5-Image-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 577,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/17/qualcomm-readies-5g-and-ai-drone-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/17/qualcomm-readies-5g-and-ai-drone-platform/amp/",
-      "publishedDateTime": "2021-08-17T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/08/20/tesla-dojo-supercomputer-worlds-new-m
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/20/tesla-dojo-supercomputer-worlds-new-most-powerful-ai-training-machine/amp/"
 type: article
 quality: 102
-heat: 133
+heat: 132
 published: true
 
 provider:

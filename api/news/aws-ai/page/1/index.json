@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-18-amazon-sagemaker-notebook-instances-now-support-amazon-linux-2.md",
+      "title": "Amazon SageMaker notebook instances now support Amazon Linux 2",
+      "excerpt": "Today, we’re excited to announce that Amazon SageMaker notebook instances support Amazon Linux 2. You can now choose Amazon Linux 2 for your new SageMaker notebook instance to take advantage of the latest update and support provided by Amazon Linux 2. SageMaker notebook instances are fully managed Jupyter",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-notebook-instance-now-supports-amazon-linux-2/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-notebook-instance-now-supports-amazon-linux-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-18T15:35:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-18-ai-in-fashion-market-to-see-huge-growth-by-2026-google-aws-microsoft-facebook.md",
       "title": "AI in Fashion Market to See Huge Growth by 2026 | Google, AWS, Microsoft, Facebook",
       "excerpt": "The latest study released on the Global AI in Fashion Market by AMA Research evaluates market size, trend, and forecast to 2026. The AI in Fashion market study covers significant research data and proofs to be a handy resource document for managers,",
@@ -10,7 +62,7 @@
       "originalUrl": "https://manometcurrent.com/ai-in-fashion-market-to-see-huge-growth-by-2026-google-aws-microsoft-facebook/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1334,49 +1386,6 @@
         "AI",
         "AWS AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-seachange-enables-a-fully-migrated-cloud-video-delivery-platform-with-unique-analytics-and-engagement-services-on-amazon-web-services.md",
-      "title": "SeaChange Enables a Fully Migrated Cloud Video Delivery Platform with Unique Analytics and Engagement Services on Amazon Web Services",
-      "excerpt": "Now, with Amazon SageMaker, SeaChange customers will be able to easily deploy ML use cases like predictive maintenance, computer vision and predicting customer behaviors. \"SeaChange's StreamVid platform enabled us to launch Screen iL last week, our global ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pressreleasepoint.com/seachange-enables-fully-migrated-cloud-video-delivery-platform-unique-analytics-and-engagement",
-      "originalUrl": "https://www.pressreleasepoint.com/seachange-enables-fully-migrated-cloud-video-delivery-platform-unique-analytics-and-engagement",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pressreleasepoint.com/sites/all/modules/press_release/social-media-icons/fbpage.png",
-          "width": 256,
-          "height": 256,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-09T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KLAS Press Release",
-        "domain": "pressreleasepoint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

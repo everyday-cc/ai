@@ -678,6 +678,22 @@ related:
         width: 863
         height: 443
         isCached: true
+  - title: "AI humanoid robots could be here by next year, thanks to Elon Musk"
+    excerpt: "Tesla CEO Elon Musk is back to making national headlines again after unveiling the “Tesla Bot,” otherwise known as the brand’s AI humanoid robot, during the brand’s AI event on Thursday. The robot will use much of the same tech that is found in ..."
+    publishedDateTime: 2021-08-21T00:56:00Z
+    webUrl: "https://www.ksat.com/news/local/2021/08/20/ai-humanoid-robots-could-be-here-by-next-year-thanks-to-elon-musk/"
+    ampWebUrl: "https://www.ksat.com/news/local/2021/08/20/ai-humanoid-robots-could-be-here-by-next-year-thanks-to-elon-musk/?outputType=amp"
+    cdnAmpWebUrl: "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/news/local/2021/08/20/ai-humanoid-robots-could-be-here-by-next-year-thanks-to-elon-musk/?outputType=amp"
+    type: article
+    provider:
+      name: KSAT
+      domain: ksat.com
+    quality: 57
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/KSRSML3EJNCCXJHINBV3LAUW6A.PNG"
+        width: 1170
+        height: 693
+        isCached: true
   - title: "Elon Musk Says Tesla's Robot Will Make Physical Work A 'Choice'"
     excerpt: "After dominating the electric vehicle market and throwing his hat into the billionaire space race, Tesla boss Elon Musk announced the latest frontier he's aiming to conquer: humanoid robots. The irascible entrepreneur said Thursday he would have an initial prototype of an androgynous \"Tesla Bot\" by next year."
     publishedDateTime: 2021-08-20T07:51:00Z
@@ -863,6 +879,6 @@ related:
         height: 1708
         isCached: true
 
-secured: "n67PeHvIk+C80Uyr7SZ065jneJmJZiqhJ+aJRArROhF86Qm6PkKURt9tFha7JGQd5KXW7uPeIcb6KebloF11pKXSKddDBO9qyyiyC49P1Xbkpt2Rz6Vv71mYLL7f7P19Rp/XgrHE2GcRQvGeH6ylsnoTwpBk2M7Im32+v+IzIeN7E/s93Dn0oAIpBMI2yFiJc3BsXoGw2E0tPQti0m4tG2k7ZedWRUJCAmFX1cu2ZEv1b9rBAVmNfps/qMmrbSOQt1Ir+oso1HaponN956q5w+c4qFjHzS0ol6/JO9NJIVPEdtCKYQCpte76EYnh7v8cArntgNK9a9e/9KBrzggs+wR1JIbmDfY+XeVYIgDAzYo=;8Ju28MzsVWRMb6Ueyz1kwg=="
+secured: "vc4dDnGjUWXSdZD2pJvvQqWeg0eS6ZR8zgwYNi5XPNt2Eo/bQMmIxETVnCp8vMc6ieFl38KQeu5BsI+Mf1092oTGlptRDRoFxoYmA7mJMT4Djd/aFvpUUDFz5Ji9aqmPXXispxp5OyZJVTn1SqY5y6yW7IZxfkDftbQXsi7/K1NoBpparTgpjrW0DSAEsae3MJNzt5xbNhwHMbXQb+wsH7xliQmp4zsXycVbLph3rANsjNUptoxJ06fj20Mqd8lE5Q47L8M7dSHx5pFr8JlOd0P9pjupka5LmsgKedzoCptXjUVc54CrOdwBCPN+tRJ0RzIXcDvPv7G6KC5ZiwaFnUOy7t2hZ9LqLhuYqPWoi7XPEs0XJB0g48xdp++yeOD1OJMb/xrpJxSTYpMqNX7U4O1TeZu98b0uEzpkdIYN19PrO8FvZnSsBSTc6F1kUJYo8M2siK4rWJe7xggxHr8Ff7IPaImgAeoxZ63B8P1KvPyJA9nEA/U/G/POoDGi9VH34HWQbekdCswYRGJhPIGnng==;/7EsC79VMlljD0eQWYgWNw=="
 ---
 

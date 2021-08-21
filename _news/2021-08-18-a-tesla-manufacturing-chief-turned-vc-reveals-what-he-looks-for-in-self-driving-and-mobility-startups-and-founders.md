@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla challenger XPeng to Double its Manufacturing Capacity in China to Meet Growing Demand"
+    excerpt: "Chinese electric vehicle startup XPeng plans to double its manufacturing capacity as it takes on segment leader Tesla and others in the world’s biggest auto market with its smart, connected vehicles."
+    publishedDateTime: 2021-08-18T15:45:00Z
+    webUrl: "https://www.futurecar.com/4811/Tesla-challenger-XPeng-to-Double-its-Manufacturing-Capacity-in-China-to-Meet-Growing-Demand"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 31
+    images:
+      - url: "https://img.futurecar.com/202108/18/l_611d2b76ec622.png"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Tesla sells ‘Full Self-Driving,’ but what is it really?"
     excerpt: "Editor's note: This story is available as a result of a content partnership with The New York Times. Subscribers will see stories like this every day on our website (and in our daily emails) as an added value to your subscription. As U.S. investigators ..."
     publishedDateTime: 2021-08-20T21:35:00Z

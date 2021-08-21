@@ -4,13 +4,13 @@
     {
       "path": "_news/2021-08-21-sensetime-parlays-academic-bona-fides-into-worlds-largest-platform-for-artificial-intelligence-facial-recognition-image-processing.md",
       "title": "SenseTime parlays academic bona fides into world’s largest platform for artificial intelligence, facial recognition, image processing",
-      "excerpt": "READ FULL ARTICLE China’s AI industry – comprising computer vision, intelligent speech, human-computer interactions, machine learning, natural language processing and AI chips – is expected to triple to 453.26 billion yuan (US$69.8 billion ...",
+      "excerpt": "China’s AI industry may triple to 453.26 billion yuan in value by 2025 from last year, while a broader AI-driven industry may be as large as 1.66 trillion yuan, which underscores the strategic importance of the field in the Made in China 2025 industrial master plan.",
       "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/business/companies/article/3145739/sensetime-parlays-academic-bona-fides-worlds-largest-platform?module=lead_hero_story&pgtype=homepage",
-      "originalUrl": "https://www.scmp.com/business/companies/article/3145739/sensetime-parlays-academic-bona-fides-worlds-largest-platform?module=lead_hero_story&pgtype=homepage",
+      "webUrl": "https://www.scmp.com/business/companies/article/3145739/sensetime-parlays-academic-bona-fides-worlds-largest-platform",
+      "originalUrl": "https://www.scmp.com/business/companies/article/3145739/sensetime-parlays-academic-bona-fides-worlds-largest-platform",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -26,7 +26,7 @@
       "type": "article",
       "ampWebUrl": "https://amp.scmp.com/business/companies/article/3145739/sensetime-parlays-academic-bona-fides-worlds-largest-platform",
       "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/companies/article/3145739/sensetime-parlays-academic-bona-fides-worlds-largest-platform",
-      "publishedDateTime": "2021-08-20T19:14:00-07:00",
+      "publishedDateTime": "2021-08-21T03:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "South China Morning Post",
@@ -49,10 +49,11 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "AI in Healthcare",
         "AI",
         "Computer Vision",
-        "AI in Healthcare"
+        "Machine Learning",
+        "Natural Language Processing"
       ]
     },
     {
@@ -146,15 +147,15 @@
       "title": "Pinterest Introduces a Computer Vision-Powered Hair Pattern Search",
       "excerpt": "Pinterest this week rolled out hair pattern search, a \"first-of-its-kind\" technology created with pinners of color in mind. Using computer vision-powered object detection, the feature enables users to refine hair searches by six different patterns: protective,",
       "sourceUrl": null,
-      "webUrl": "https://uk.pcmag.com/social-media/135146/pinterest-introduces-a-computer-vision-powered-hair-pattern-search",
-      "originalUrl": "https://uk.pcmag.com/social-media/135146/pinterest-introduces-a-computer-vision-powered-hair-pattern-search",
+      "webUrl": "https://in.pcmag.com/social-media/144365/pinterest-introduces-a-computer-vision-powered-hair-pattern-search",
+      "originalUrl": "https://in.pcmag.com/social-media/144365/pinterest-introduces-a-computer-vision-powered-hair-pattern-search",
       "featuredContent": null,
       "highlight": null,
       "heat": 84,
       "tags": null,
       "images": [
         {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/p/pinterest-/pinterest-introduces-a-computer-vision-powered-hair-pattern_7vfe.1200.jpg",
+          "url": "https://sm.pcmag.com/t/pcmag_in/news/p/pinterest-/pinterest-introduces-a-computer-vision-powered-hair-pattern_aj3c.1200.jpg",
           "width": 1200,
           "height": 675,
           "title": null,
@@ -202,7 +203,7 @@
       "originalUrl": "https://www.nytimes.com/2021/08/19/world/asia/taliban-foreign-recognition.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -508,6 +509,49 @@
       "provider": {
         "name": "Biometric Companies",
         "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-16-optical-adversarial-attack-can-change-the-meaning-of-road-signs.md",
+      "title": "Optical Adversarial Attack Can Change the Meaning of Road Signs",
+      "excerpt": "Researchers in the US have developed an adversarial attack against the ability of machine learning systems to correctly interpret what they see – including mission-critical items such as road signs – by shining patterned light onto real world objects.",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/optical-adversarial-attack-can-change-the-meaning-of-road-signs/",
+      "originalUrl": "https://www.unite.ai/optical-adversarial-attack-can-change-the-meaning-of-road-signs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs-0_YWBTiB/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2021/08/OPAD-main.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-16T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
         "images": null,
         "publishers": null,
         "authors": null
@@ -831,6 +875,49 @@
         "AWS AI",
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-image-recognition-market-size-opportunities-key-growth-factors-revenue-analysis-for-20202027.md",
+      "title": "Image Recognition Market Size, Opportunities, Key Growth Factors, Revenue Analysis, For 2020–2027",
+      "excerpt": "Image Recognition Market Report . The global image recognition market is expected to reach USD 80.07 Billion by 2026, according to a new report by Reports and Data. Image recognit",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/image-recognition-market-size-opportunities-key-growth-factors-revenue-analysis-for-2020-2027/",
+      "originalUrl": "https://manometcurrent.com/image-recognition-market-size-opportunities-key-growth-factors-revenue-analysis-for-2020-2027/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manometcurrent.com/wp-content/uploads/2021/08/8-27.jpg",
+          "width": 750,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/image-recognition-market-size-opportunities-key-growth-factors-revenue-analysis-for-2020-2027/",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/image-recognition-market-size-opportunities-key-growth-factors-revenue-analysis-for-2020-2027/",
+      "publishedDateTime": "2021-08-11T12:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -1260,55 +1347,21 @@
       ]
     },
     {
-      "path": "_news/2021-08-07-spatial-vision-in-humans-and-robots.md",
-      "title": "Spatial Vision in Humans and Robots",
-      "excerpt": "This collection will be of interest to biological researchers investigating how the brain solves spatial problems, as well as to researchers in robotics and computer vision systems.",
+      "path": "_news/2021-08-07-facebooks-droidlet-ai-could-take-speech-recognition-to-a-whole-new-level.md",
+      "title": "Facebook’s ‘droidlet’ A.I. could take speech recognition to a whole new level",
+      "excerpt": "Today's natural language recognition systems -- like Siri and Alexa -- are still somewhat limited in what they can understand. Facebook thinks it can do better",
       "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/cz/academic/subjects/computer-science/computer-graphics-image-processing-and-robotics/spatial-vision-humans-and-robots?format=HB&isbn=9780521430715",
-      "originalUrl": "https://www.cambridge.org/cz/academic/subjects/computer-science/computer-graphics-image-processing-and-robotics/spatial-vision-humans-and-robots?format=HB&isbn=9780521430715",
+      "webUrl": "https://www.digitaltrends.com/features/facebook-is-trying-to-make-robots-smarter-so-they-understand-speech/",
+      "originalUrl": "https://www.digitaltrends.com/features/facebook-is-trying-to-make-robots-smarter-so-they-understand-speech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-06T23:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-07-facial-recognition-market-business-intelligence-report-and-financial-insights.md",
-      "title": "Facial Recognition Market Business Intelligence Report and Financial Insights",
-      "excerpt": "The post-COVID 19 global Facial Recognition Market size is expected to grow from USD XX billion in 2020 to USD 8.5 billion",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-business-intelligence-report-and-financial-insights-2021-08-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-business-intelligence-report-and-financial-insights-2021-08-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
+      "heat": 108,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/image_treatment_facebook_hacked_200716.jpg",
+          "width": 2000,
+          "height": 1333,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1316,16 +1369,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-06T12:16:00-07:00",
+      "ampWebUrl": "https://www.digitaltrends.com/features/facebook-is-trying-to-make-robots-smarter-so-they-understand-speech/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/facebook-is-trying-to-make-robots-smarter-so-they-understand-speech/?amp",
+      "publishedDateTime": "2021-08-07T08:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1341,51 +1394,10 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-07-bc-privacy-watchdog-investigating-federal-liberals-over-facial-recognition-software.md",
-      "title": "B.C. privacy watchdog investigating federal Liberals over facial recognition software",
-      "excerpt": "British Columbia’s privacy watchdog has launched an investigation into the federal Liberal party’s use of facial recognition technology to pick candidates for the next election. B.C. information and privacy commissioner Michael McEvoy’s office ended weeks of speculation on Friday by announcing the investigation in response to concerns from the Canadian Civil Liberties Association.",
-      "sourceUrl": null,
-      "webUrl": "https://windsorstar.com/news/local-news/b-c-privacy-watchdog-investigating-federal-liberals-over-facial-recognition-software",
-      "originalUrl": "https://windsorstar.com/news/local-news/b-c-privacy-watchdog-investigating-federal-liberals-over-facial-recognition-software",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://smartcdn.prod.postmedia.digital/vancouversun/wp-content/uploads/2020/09/privacy-report-20200902.jpg",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://windsorstar.com/news/local-news/b-c-privacy-watchdog-investigating-federal-liberals-over-facial-recognition-software/wcm/ce8b6f2d-268f-402d-94d5-dbd816c25460/amp/",
-      "cdnAmpWebUrl": "https://windsorstar-com.cdn.ampproject.org/c/s/windsorstar.com/news/local-news/b-c-privacy-watchdog-investigating-federal-liberals-over-facial-recognition-software/wcm/ce8b6f2d-268f-402d-94d5-dbd816c25460/amp/",
-      "publishedDateTime": "2021-08-06T10:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windsor Star",
-        "domain": "windsorstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
+        "Natural Language Processing",
+        "AI",
+        "Facebook AI",
+        "Computer Vision"
       ]
     }
   ],

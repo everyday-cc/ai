@@ -7,7 +7,7 @@ originalUrl: "https://www.cmswire.com/customer-experience/4-ways-conversational-
 webUrl: "https://www.interactions.com/conversational-ai/"
 type: article
 quality: 139
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -38,22 +38,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6116c9d6ee6b44b9b106b5a1%2F0x0.jpg"
         width: 1200
         height: 801
-        isCached: true
-  - title: "AI Regulation Is Coming"
-    excerpt: "This article explains the moves regulators are most likely to make and the three main challenges businesses need to consider as they adopt and integrate AI. The first is ensuring fairness."
-    publishedDateTime: 2021-08-16T17:59:00Z
-    webUrl: "https://hbr.org/2021/09/ai-regulation-is-coming"
-    ampWebUrl: "https://hbr.org/amp/2021/09/ai-regulation-is-coming"
-    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/09/ai-regulation-is-coming"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 59
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2021/07/R2105G_SUN.jpg"
-        width: 1000
-        height: 562
         isCached: true
   - title: "How artificial intelligence is changing the face of beauty"
     excerpt: "From fragrance to skincare, AI is helping us to make smarter beauty choices Finding a new-season foundation or signature scent has long required a stroll through the beauty aisles of our favourite department stores."

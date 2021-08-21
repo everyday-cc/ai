@@ -2,6 +2,152 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-08-09-seachange-enables-a-fully-migrated-cloud-video-delivery-platform-with-unique-analytics-and-engagement-services-on-amazon-web-services.md",
+      "title": "SeaChange Enables a Fully Migrated Cloud Video Delivery Platform with Unique Analytics and Engagement Services on Amazon Web Services",
+      "excerpt": "Now, with Amazon SageMaker, SeaChange customers will be able to easily deploy ML use cases like predictive maintenance, computer vision and predicting customer behaviors. \"SeaChange's StreamVid ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/seachange-enables-a-fully-migrated-cloud-video-delivery-platform-with-unique-analytics-and-engagement-services-on-amazon-web-services-1030708388",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/seachange-enables-a-fully-migrated-cloud-video-delivery-platform-with-unique-analytics-and-engagement-services-on-amazon-web-services-1030708388",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-09T05:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-09-russias-robot-fighter-apparently-isnt-very-robotic.md",
+      "title": "Russia’s Robot Fighter Apparently Isn’t Very Robotic",
+      "excerpt": "In the race to develop robotic fighter jets, it might look like Russia is pulling ahead of the United States. But appearances can be deceiving. Russia’s first few robot fighters ... probably won’t be very robotic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidaxe/2021/08/09/russias-robot-fighter-apparently-isnt-very-robotic/",
+      "originalUrl": "https://www.forbes.com/sites/davidaxe/2021/08/09/russias-robot-fighter-apparently-isnt-very-robotic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61106b25e970047366f7c323%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1200%26cropY1%3D72%26cropY2%3D747",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidaxe/2021/08/09/russias-robot-fighter-apparently-isnt-very-robotic/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidaxe/2021/08/09/russias-robot-fighter-apparently-isnt-very-robotic/amp/",
+      "publishedDateTime": "2021-08-09T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-09-pizza-hut-is-building-an-ai-that-it-says-will-recommend-food-to-you-based-on-your-local-weather.md",
+      "title": "Pizza Hut is building an AI that it says will recommend food to you based on your local weather",
+      "excerpt": "Pizza Hut is developing an in-house AI, rather than buy off-the-shelf programs, that knows what customers might want to order, its data chief said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/pizza-hut-wants-ai-to-recommend-food-based-on-weather-2021-8",
+      "originalUrl": "https://www.businessinsider.com/pizza-hut-wants-ai-to-recommend-food-based-on-weather-2021-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6111042138aff70018907a15?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/pizza-hut-wants-ai-to-recommend-food-based-on-weather-2021-8?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pizza-hut-wants-ai-to-recommend-food-based-on-weather-2021-8?amp",
+      "publishedDateTime": "2021-08-09T04:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-09-ai-failed-promise-or-a-case-of-unrealistic-expectations.md",
       "title": "AI: Failed Promise Or A Case Of Unrealistic Expectations?",
       "excerpt": "However, has AI failed to deliver, or are we setting our expectations too high? Putting the hype aside, AI does have significant potential to help organizations enhance their efficiency and make better use of data.",
@@ -1026,135 +1172,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-08-08-social-factors-in-machine-learning-models-aid-cvd-prediction.md",
-      "title": "Social Factors in Machine Learning Models Aid CVD Prediction",
-      "excerpt": "Machine learning approaches are useful for cardiovascular disease prediction, and model performance is improved with inclusion of social determinants of health, according to a review published online July 27 in the American Journal of Preventive Medicine .",
-      "sourceUrl": null,
-      "webUrl": "https://www.physiciansweekly.com/social-factors-in-machine-learning-models-aid-cvd-prediction/",
-      "originalUrl": "https://www.physiciansweekly.com/social-factors-in-machine-learning-models-aid-cvd-prediction/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.physiciansweekly.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.physiciansweekly.com/social-factors-in-machine-learning-models-aid-cvd-prediction/amp/",
-      "cdnAmpWebUrl": "https://www-physiciansweekly-com.cdn.ampproject.org/c/s/www.physiciansweekly.com/social-factors-in-machine-learning-models-aid-cvd-prediction/amp/",
-      "publishedDateTime": "2021-08-08T02:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Too Old to Operate",
-        "domain": "physiciansweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-08-is-robot-therapy-the-future.md",
-      "title": "Is robot therapy the future?",
-      "excerpt": "Seek help for a mental health issue today and you may find yourself referred to an online app or talking to a robot therapist. Is this welcome democratisation of an expensive resource – or the ‘Uberisation of therapy’?",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/society/2021/aug/08/is-robot-therapy-the-future",
-      "originalUrl": "https://www.theguardian.com/society/2021/aug/08/is-robot-therapy-the-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/04168935be947f34b6dd019dc43d0a43310c9226/0_132_3960_2376/master/3960.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3a94a1b689c298d5cd0fb20fc4aace0e",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/society/2021/aug/08/is-robot-therapy-the-future",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/society/2021/aug/08/is-robot-therapy-the-future",
-      "publishedDateTime": "2021-08-08T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-08-roundup-us-win-gold-as-usual-new-blood-coming-in-olympic-basketball.md",
-      "title": "Roundup: U.S. win gold as usual, new blood coming in Olympic basketball",
-      "excerpt": "Players of the United States pose with gold medals after the awarding ceremony for the men's basketball at the Tokyo 2020 Olympic Games in Saitama, Japan, Aug. 7, 2021. (Xinhua/Pan Yulong) Basketball roundup: The U.",
-      "sourceUrl": null,
-      "webUrl": "https://lileicc.github.io/",
-      "originalUrl": "https://www.msn.com/en-xl/news/other/roundup-us-win-gold-as-usual-new-blood-coming-in-olympic-basketball/ar-AAN4bxY",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-08T00:50:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "github.io/",
-        "domain": "github.io/",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

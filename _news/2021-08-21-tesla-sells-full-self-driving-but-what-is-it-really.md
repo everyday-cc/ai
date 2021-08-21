@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Tesla challenger XPeng to Double its Manufacturing Capacity in China to Meet Growing Demand"
+    excerpt: "Chinese electric vehicle startup XPeng plans to double its manufacturing capacity as it takes on segment leader Tesla and others in the world’s biggest auto market with its smart, connected vehicles."
+    publishedDateTime: 2021-08-18T15:45:00Z
+    webUrl: "https://www.futurecar.com/4811/Tesla-challenger-XPeng-to-Double-its-Manufacturing-Capacity-in-China-to-Meet-Growing-Demand"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 31
+    images:
+      - url: "https://img.futurecar.com/202108/18/l_611d2b76ec622.png"
+        width: 800
+        height: 400
+        isCached: true
 
 secured: "cy/yWXhr11tsEiV5ZuzGPY3d5CvA06F+guKq+/8Mi5dVqBaIPHZzxxjlR/wJB3k+qKeU8g/sBAmhgi+cXtK3yU5PXT8Yg5uveE64+Thbh20z6KVFHO2gHmySuNY1kfdppPK/95I+dESjI7CFPCcjuzV88+7yza/vRC9cuGFZYOVqfoG/dszkEQV6i0czYasz/r5wT42iXC3JUeukRPUVTxWw3AB1sQCFpc+w5EH6b4TA5pkWKmcslYBkVTC0zN0wToDxsUJLHCKVlEaEto8CAEVqAaw9R0DQ+1Ufx+PmHKGainVX9VEPB3DShOTfVaJlnhiwuiFXoWe1kYp1OBHIcymDEp9czTXLwPzQKbK1BsIc8e0Hxrt+d8cNaNe5ANfUpH60tusg9fccM3gKt+y5PYOBPw6Qw6WWgO9uGFw8qVQwMhv9c51HZkwvq9+D5ZPKIMQe9CQ9M0zyZPpi5vfZzI/HFgNKoWB2KZRgdV5xWWw+1onoDyfx/W/OWZaWCkkg04JgJl9sFygf4hIrvI4vNg==;Guu1/JLAw9sLjIW36dv3GA=="
 ---

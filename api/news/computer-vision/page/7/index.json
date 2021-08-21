@@ -2,6 +2,127 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-06-25-adversa-ai-red-team-invented-technology-for-ethical-hacking-of-facial-recognition-systems.md",
+      "title": "Adversa AI Red Team Invented Technology for Ethical Hacking of Facial Recognition Systems",
+      "excerpt": "Adversa AI, the leading Trusted AI Research startup, has demonstrated a new attack method on AI facial recognition applications. By making imperceptible",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/adversa-ai-red-team-invented-technology-for-ethical-hacking-of-facial-recognition-systems/article_accf6c97-9b11-5b02-9230-dca51727b07b.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/adversa-ai-red-team-invented-technology-for-ethical-hacking-of-facial-recognition-systems/article_accf6c97-9b11-5b02-9230-dca51727b07b.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/ad/dad4680b-753f-50fd-9e08-d27135bf9c60/60d5cfe838e52.image.jpg?resize=800%2C400",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-25T05:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-06-25-computer-vision-market-market-2021-highlights-recent-trends-market-growth-business-opportunities-till-2026.md",
+      "title": "Computer Vision Market Market 2021 Highlights Recent Trends, Market Growth, Business Opportunities till 2026",
+      "excerpt": "The computer vision market is expected to grow at a CAGR of 7.36 % over the forecast period (2021 – 2026).”  Top Leading Companies of Computer Vision Market are Intel Corporation, National Instruments Corporation,",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/06/25/computer-vision-market-market-2021-highlights-recent-trends-market-growth-business-opportunities-till-2026/",
+      "originalUrl": "https://ksusentinel.com/2021/06/25/computer-vision-market-market-2021-highlights-recent-trends-market-growth-business-opportunities-till-2026/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-24T23:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-25-facial-recognition-use-by-liberals-raises-issues-says-bcs-privacy-commissioner.md",
+      "title": "Facial recognition use by Liberals raises issues, says B.C.'s privacy commissioner",
+      "excerpt": "British Columbia's information and privacy commissioner says he's considering launching an investigation into the use of facial recognition technology by the Liberal Party of Canada.",
+      "sourceUrl": null,
+      "webUrl": "https://bc.ctvnews.ca/facial-recognition-use-by-liberals-raises-issues-says-b-c-s-privacy-commissioner-1.5484881",
+      "originalUrl": "https://bc.ctvnews.ca/facial-recognition-use-by-liberals-raises-issues-says-b-c-s-privacy-commissioner-1.5484881",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/local/british-columbia/2021/6/24/1_5484881/_jcr_content/root/responsivegrid/image.coreimg.jpg",
+          "width": 1020,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://beta.ctvnews.ca/local/british-columbia/2021/6/24/1_5484881.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/british-columbia/2021/6/24/1_5484881.html",
+      "publishedDateTime": "2021-06-24T17:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-24-global-computer-vision-market-size-2021-with-top-countries-data-industry-growth-company-profiles-and-forecasts-analysis-2026.md",
       "title": "Global Computer Vision Market Size 2021 with Top Countries Data, Industry Growth, Company Profiles and Forecasts Analysis 2026",
       "excerpt": "The contemporary coverage of the latest report Global Computer Vision Market 2020 by Manufacturers, Countries, Type and Application, Forecast to 2025 provides a detailed summary as well as a consistent estimation of accurate profits over the forecasted time frame.",
@@ -1292,163 +1413,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-cord-raises-45m-to-automate-computer-vision-annotation-processes.md",
-      "title": "Cord raises $4.5M to automate computer vision annotation processes",
-      "excerpt": "Cord, a computer vision annotation automation platform, has raised an estimated $4.5 million in a seed funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/15/cord-raises-4-4m-to-automate-computer-vision-annotation-processes/",
-      "originalUrl": "https://venturebeat.com/2021/06/15/cord-raises-4-4m-to-automate-computer-vision-annotation-processes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/15/cord-raises-4-4m-to-automate-computer-vision-annotation-processes/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/15/cord-raises-4-4m-to-automate-computer-vision-annotation-processes/amp/",
-      "publishedDateTime": "2021-06-15T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-canadian-regulators-seek-policy-amendments-for-facial-recognition.md",
-      "title": "Canadian Regulators Seek Policy Amendments for Facial Recognition",
-      "excerpt": "Canada’s privacy commissioner wants the country’s lawmakers to revamp privacy laws to address issues related to facial recognition, following an investigation into the use of such technology by Canada",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/canadian-regulators-seek-policy-amendments-for-facial-recognition-11623698032",
-      "originalUrl": "https://www.wsj.com/articles/canadian-regulators-seek-policy-amendments-for-facial-recognition-11623698032",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-353752/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-14T11:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-14-rules-around-facial-recognition-and-policing-remain-blurry.md",
-      "title": "Rules around facial recognition and policing remain blurry",
-      "excerpt": "Privacy advocates say they remain concerned about a lack of federal facial recognition laws and persistent police surveillance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/06/12/a-year-later-tech-companies-calls-to-regulate-facial-recognition-met-with-little-progress.html",
-      "originalUrl": "https://www.cnbc.com/2021/06/12/a-year-later-tech-companies-calls-to-regulate-facial-recognition-met-with-little-progress.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 286,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106604133-15940414202020-06-30t233559z_1802976591_rc2zjh99gjtu_rtrmadp_0_minneapolis-police-new-york.jpeg?v=1594041462",
-          "width": 3065,
-          "height": 2043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/06/12/a-year-later-tech-companies-calls-to-regulate-facial-recognition-met-with-little-progress.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/12/a-year-later-tech-companies-calls-to-regulate-facial-recognition-met-with-little-progress.html",
-      "publishedDateTime": "2021-06-14T05:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

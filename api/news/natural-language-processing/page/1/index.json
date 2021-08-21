@@ -4,13 +4,13 @@
     {
       "path": "_news/2021-08-21-sensetime-parlays-academic-bona-fides-into-worlds-largest-platform-for-artificial-intelligence-facial-recognition-image-processing.md",
       "title": "SenseTime parlays academic bona fides into world’s largest platform for artificial intelligence, facial recognition, image processing",
-      "excerpt": "READ FULL ARTICLE China’s AI industry – comprising computer vision, intelligent speech, human-computer interactions, machine learning, natural language processing and AI chips – is expected to triple to 453.26 billion yuan (US$69.8 billion ...",
+      "excerpt": "China’s AI industry may triple to 453.26 billion yuan in value by 2025 from last year, while a broader AI-driven industry may be as large as 1.66 trillion yuan, which underscores the strategic importance of the field in the Made in China 2025 industrial master plan.",
       "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/business/companies/article/3145739/sensetime-parlays-academic-bona-fides-worlds-largest-platform?module=lead_hero_story&pgtype=homepage",
-      "originalUrl": "https://www.scmp.com/business/companies/article/3145739/sensetime-parlays-academic-bona-fides-worlds-largest-platform?module=lead_hero_story&pgtype=homepage",
+      "webUrl": "https://www.scmp.com/business/companies/article/3145739/sensetime-parlays-academic-bona-fides-worlds-largest-platform",
+      "originalUrl": "https://www.scmp.com/business/companies/article/3145739/sensetime-parlays-academic-bona-fides-worlds-largest-platform",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -26,7 +26,7 @@
       "type": "article",
       "ampWebUrl": "https://amp.scmp.com/business/companies/article/3145739/sensetime-parlays-academic-bona-fides-worlds-largest-platform",
       "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/companies/article/3145739/sensetime-parlays-academic-bona-fides-worlds-largest-platform",
-      "publishedDateTime": "2021-08-20T19:14:00-07:00",
+      "publishedDateTime": "2021-08-21T03:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "South China Morning Post",
@@ -49,10 +49,11 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "AI in Healthcare",
         "AI",
         "Computer Vision",
-        "AI in Healthcare"
+        "Machine Learning",
+        "Natural Language Processing"
       ]
     },
     {
@@ -168,7 +169,7 @@
       "originalUrl": "https://www.cmswire.com/customer-experience/4-ways-conversational-ai-is-improving-the-customer-experience/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -1062,7 +1063,8 @@
       "topics": [
         "Natural Language Processing",
         "AI",
-        "Facebook AI"
+        "Facebook AI",
+        "Computer Vision"
       ]
     },
     {

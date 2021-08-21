@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-05-neural-network-detects-protein-peptide-binding-sites-to-kick-start-peptide-drug-discovery.md",
+      "title": "Neural network detects protein-peptide binding sites to kick-start peptide drug discovery",
+      "excerpt": "Two Skoltech researchers have presented a highly efficient neural network model that uses data on the structure of proteins to predict which of their parts interact with other biological molecules called peptides.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/924544",
+      "originalUrl": "https://www.eurekalert.org/news-releases/924544",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/a2ca0d1b-fda2-4b32-98d9-01fd8aa9a5b5/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 311,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-04T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-05-tesla-teases-future-products-using-artificial-intelligence-not-related-to-its-electric-vehicle-fleet.md",
       "title": "Tesla teases future products using artificial intelligence not related to its electric vehicle fleet",
       "excerpt": "In the invite to its AI Day, Tesla is teasing the use of artificial intelligence beyond its electric vehicle fleet. What do you think they’re talking about? As we have reported over the last week, Tesla is preparing for its upcoming AI Day on August 19.",
@@ -1344,50 +1387,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-openai-debuts-python-based-triton-for-gpu-powered-machine-learning.md",
-      "title": "OpenAI debuts Python-based Triton for GPU-powered machine learning",
-      "excerpt": "Triton 1.0 uses Python (3.6 and up) as its base. The developer writes code in Python using Triton’s libraries, which are then JIT-compiled to run on the GPU. This allows integration with the rest of the Python ecosystem,",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3627243/openai-debuts-python-based-triton-for-gpu-powered-machine-learning.html",
-      "originalUrl": "https://www.infoworld.com/article/3627243/openai-debuts-python-based-triton-for-gpu-powered-machine-learning.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3627243/openai-debuts-python-based-triton-for-gpu-powered-machine-learning.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3627243/openai-debuts-python-based-triton-for-gpu-powered-machine-learning.amp.html",
-      "publishedDateTime": "2021-07-29T07:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

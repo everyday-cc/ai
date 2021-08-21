@@ -24,6 +24,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Oracle Introduces MySQL Autopilot with Machine-Learning Capabilities for MySQL Heatwave"
+    excerpt: "According to Oracle, MySQL Autopilot improves HeatWave by leveraging their AutoML technology, comprised of machine-learning models that learn from each database instance’s usage pattern."
+    publishedDateTime: 2021-08-19T13:00:00Z
+    webUrl: "https://www.infoq.com/news/2021/08/oracle-mysql-autopilot/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 16
+    images:
+      - url: "https://res.infoq.com/news/2021/08/oracle-mysql-autopilot/en/headerimage/OracleMySql_header-1629330776518.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+
 secured: "UHjPF4MUxwkO+azmTD2H6ibPcNFy3ERys0ai3jTPGNs1nx6z1s6niBYHGpPMpA8weiZwbjkqnL38+ijFv5qCrEpvRrEWuJOXDVD6kw9dA3luSBQOfmK/XIT6F+lSnWtj0ki/F5Eh6m30VHRG+YG+9hWXe1apR3pJgCa3a8H1xTtuzLFguQnaWO5IfgHxjtTK+pVz4pFNM5YYrvKnCx2fqBGDQv/p+8QWrB0F32z23eiK/FbEO4jcaMPCSSpeh9p+4A37kBWwSnTKXWV59TJyWdx4OJW0ngRMV9vW30A3U24KC3OM58D1iaPIfZwvXPhlw5A1VZgf95itM4btt4Ug0Vsg4triew+gkfaM99mwj/c=;thgCXm5wKV3bg0TmCaBuRA=="
 ---
 

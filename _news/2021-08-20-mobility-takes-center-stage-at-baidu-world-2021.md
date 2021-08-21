@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/davidsilver/2021/08/19/mobility-takes
 webUrl: "https://www.forbes.com/sites/davidsilver/2021/08/19/mobility-takes-center-stage-at-baidu-world-2021/"
 type: article
 quality: 69
-heat: 90
+heat: 89
 published: true
 
 provider:

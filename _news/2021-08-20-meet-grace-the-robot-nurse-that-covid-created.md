@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ajc.com/pulse/meet-grace-the-robot-nurse-that-covid-crea
 cdnAmpWebUrl: "https://www-ajc-com.cdn.ampproject.org/c/s/www.ajc.com/pulse/meet-grace-the-robot-nurse-that-covid-created/JT55K5RIZRCCBCT4JWVES4DXRE/?outputType=amp"
 type: article
 quality: 61
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -50,6 +50,15 @@ related:
       name: Medindia
       domain: medindia.net
     quality: 39
+  - title: "Next therapy for Covid maybe be at your local pharmacy"
+    excerpt: "Several drugs that are already in use for other purposes, including one dietary supplement, have shown to block or reduce infection by SARS-CoV2, the virus causing Covid-19, in cells, researchers have found. The study, published in the Proceedings of the National Academy of Science, uses artificial intelligence-powered image analysis of human cell lines during infection with the novel coronavirus. The cells were treated with more than 1,400 individual US Food and Drug Administration-approved drugs and compounds, either before or after viral infection, and screened, resulting in 17 potential hits. Ten of those hits were newly recognised, with seven identified in previous drug repurposing studies, including remdesivir, which is one of the few FDA-approved therapies for Covid-19 in hospitalised patients. \"Traditionally, the drug development process takes a decade -- and we just don't have a decade,\" said Jonathan Sexton, Assistant Professor of Internal Medicine at the University of Michigan Medical School. \"The therapies we discovered are well positioned for phase 2 clinical trials because their safety has already been established,\" he added. The team validated the 17 candidate compounds in several types of cells, including stem-cell derived human lung cells in an effort to mimic SARS-CoV2 infection of the respiratory tract. Nine showed antiviral activity at reasonable doses, including lactoferrin, a protein found in human breast milk that is also available over the counter as a dietary supplement derived from cow's milk. \"We found lactoferrin had remarkable efficacy for preventing infection, working better than anything else we observed,\" Sexton said. He added that early data suggest this efficacy extends even to newer variants of SARS-CoV2, including the highly transmissible Delta variant. The team aims to soon launch clinical trials of the compound to examine its ability to reduce viral loads and inflammation in patients with SARS-CoV2 infection. The study also identified a class of compounds called MEK-inhibitors, typically prescribed to treat cancer, that appear to worsen SARS-CoV2 infection. The finding sheds light on how the virus spreads among cells. \"People going in for chemotherapy are at risk already due to a lowered immune response. We need to investigate whether some of these drugs worsen disease progression,\" said Sexton."
+    publishedDateTime: 2021-08-21T11:48:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Health/20210820/3806207.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "U7WYNRmYTfURJ/oHDzx8WUNVHXlk3vfk/kW1+IXTC5PgaKsDp0EfLhXRYe8hA3lWpwuXrfn0HEd19ht57tCtd1zx3fQYlqQxTIw50Cdn1J+lDO0eFPE+WodvlljzJpHakwJL4pF4Fu3tktX0b8sCCMdwt55/vLfgCzRPFg/w1GyAStpBX394wpRLR9UuCoxak2sndBPTJlU6jRjXWXkgdVjE1XcqCtix7rHZ3sv/iAHbFXdv7GV0slcb8Rj0oWbkvBb/M4D8/PpouSUpvkuPgFIXPiPhAMa+xuIbfxLSn7d+JhdzobAn7rMcv9DM1JLx1aXoiI+PQjb3UfTFGC6NDrcfkCcCG10IlRRu2MkL62s=;s4uSu2S4JR6h49eR+TWmQQ=="
 ---

@@ -2,6 +2,144 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2021-07-16-learning-aids-skoltech-method-helps-train-computer-vision-algorithms-on-limited-data.md",
+      "title": "Learning aids: Skoltech method helps train computer vision algorithms on limited data",
+      "excerpt": "Researchers from Skoltech have found a way to help computer vision algorithms process satellite images of the Earth more accurately, even with minimal data for training. This will make various remote sensing tasks easier for machines and,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/470834",
+      "originalUrl": "https://www.eurekalert.org/news-releases/470834",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-attackers-can-elicit-toxic-behavior-from-ai-translation-systems-study-finds.md",
+      "title": "Attackers can elicit ‘toxic behavior’ from AI translation systems, study finds",
+      "excerpt": "Watch now! Neural machine translation (NMT), or AI techniques that can translate between languages, is in widespread use today owing to its robustness and versatility. But it’s been shown that ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/15/attackers-can-elicit-toxic-behavior-from-ai-translation-systems-study-finds/",
+      "originalUrl": "https://venturebeat.com/2021/07/15/attackers-can-elicit-toxic-behavior-from-ai-translation-systems-study-finds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/15/attackers-can-elicit-toxic-behavior-from-ai-translation-systems-study-finds/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/15/attackers-can-elicit-toxic-behavior-from-ai-translation-systems-study-finds/amp/",
+      "publishedDateTime": "2021-07-15T11:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-researchers-match-deepminds-alphafold2-protein-folding-power-with-faster-freely-available-model.md",
+      "title": "Researchers match DeepMind’s AlphaFold2 protein folding power with faster, freely available model",
+      "excerpt": "DeepMind stunned the biology world late last year when its AlphaFold2 AI model predicted the structure of proteins (a common and very difficult problem) so accurately that many declared the decades-old problem “solved.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/07/15/researchers-match-deepminds-alphafold2-protein-folding-power-with-faster-freely-available-model/",
+      "originalUrl": "https://techcrunch.com/2021/07/15/researchers-match-deepminds-alphafold2-protein-folding-power-with-faster-freely-available-model/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/07/rosettafold.jpg?w=1000",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/07/15/researchers-match-deepminds-alphafold2-protein-folding-power-with-faster-freely-available-model/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/15/researchers-match-deepminds-alphafold2-protein-folding-power-with-faster-freely-available-model/amp/",
+      "publishedDateTime": "2021-07-15T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-16-self-driving-startup-aurora-to-go-public-through-spac.md",
       "title": "Self-Driving Startup Aurora to Go Public Through SPAC",
       "excerpt": "The special-purpose acquisition company behind the deal is backed by the founders of LinkedIn and Zynga Inc.",
@@ -1025,154 +1163,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-rajnath-singh-launches-artificial-intelligence-based-grievance-analysis-app.md",
-      "title": "Rajnath Singh Launches Artificial Intelligence-Based Grievance Analysis App",
-      "excerpt": "With the launch of an artificial intelligence (AI) based grievance analysis application called CPGRAMS, Defence Minister Rajnath Singh on Thursday said the country is moving towards citizen-centric reforms with scientific knowledge and technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/india-news/rajnath-singh-launches-ai-based-grievance-analysis-app-2487325",
-      "originalUrl": "https://www.ndtv.com/india-news/rajnath-singh-launches-ai-based-grievance-analysis-app-2487325",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2020-12/al8qqheo_rajnath-singh-650_625x300_30_December_20.jpg",
-          "width": 650,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/india-news/rajnath-singh-launches-ai-based-grievance-analysis-app-2487325?amp=1&akamai-rum=off",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/rajnath-singh-launches-ai-based-grievance-analysis-app-2487325?amp=1&akamai-rum=off",
-      "publishedDateTime": "2021-07-15T03:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-insights-on-the-31-billion-robotics-global-market-to-2025-impact-analysis-of-covid-19.md",
-      "title": "Insights on the $31 Billion Robotics Global Market to 2025 - Impact Analysis of COVID-19",
-      "excerpt": "The Global Robotics Market was valued at around US$ 31 Billion in 2020 and the market is expected to register a double digit CAGR over the forecast period of 2021 - 2025. The adoption of robots across a wide range of industries including manufacturing,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/insights-on-the-31-billion-robotics-global-market-to-2025---impact-analysis-of-covid-19-2021-07-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/insights-on-the-31-billion-robotics-global-market-to-2025---impact-analysis-of-covid-19-2021-07-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T03:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-building-ethical-ai-products-can-put-businesses-at-a-competitive-advantage.md",
-      "title": "Building ethical A.I. products can put businesses at a competitive advantage",
-      "excerpt": "They are able to automate repetitive tasks, analyze large volumes of data, recommend content, translate languages and even play games. But the current scope of things that AI can do is relatively ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/07/15/building-ethical-ai-products-can-put-businesses-at-competitive-advantage.html",
-      "originalUrl": "https://www.cnbc.com/2021/07/15/building-ethical-ai-products-can-put-businesses-at-competitive-advantage.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106908631-1625805682269-gettyimages-1327731017-vcg111338081794.jpeg?v=1626330979",
-          "width": 6016,
-          "height": 4016,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/07/15/building-ethical-ai-products-can-put-businesses-at-competitive-advantage.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/15/building-ethical-ai-products-can-put-businesses-at-competitive-advantage.html",
-      "publishedDateTime": "2021-07-15T03:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

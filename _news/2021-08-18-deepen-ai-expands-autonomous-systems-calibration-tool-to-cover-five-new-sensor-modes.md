@@ -21,17 +21,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "Towards symbiotic autonomous systems"
-    excerpt: "Symbiotic autonomous systems (SASs) continue to discover new achievements and applications through the relentless advances of sensing, computation and algorithmic capabilities. In the future society,"
-    publishedDateTime: 2021-08-16T18:51:00Z
-    webUrl: "https://royalsocietypublishing.org/doi/10.1098/rsta.2020.0359"
-    type: article
-    provider:
-      name: Biology Letters
-      domain: royalsocietypublishing.org
-    quality: 4
-
 secured: "g2UtZCO6bkZv/jgyA+ihh+logckpHgB10zQxWPjYAA6iWn2QYjGHTJrOkN7RegTJCwq17xq2Ggzl1UH67PZXK4uSssCxKsSbajeSCAkxzb8brpYBBsCVbywMuC+NEj8Jj0jzxDHmuQYKTP8pLsYpcVpAy5/l0y/NrjXChi5jp+/Bu++G2D7q+lV9GSmLsut1vYGuJ4ggArBtNns5MltnLQUPi8qr2RU4A4Xk3A3TKlcLtwIm1yxTMEaudNAlzbpI4e8mFb1P+29Ry/+Is1oKNcFTIMAmfgbX8Q7Xu5Wx9/8IqWhowd/uQwy0WW9rGVKgfCIs1mKvMutE2YDEyX9VwvBCtsgEX3PxrJOirzPRO/8=;Ar3Nmp1sgfgstfcJytf8rg=="
 ---
 

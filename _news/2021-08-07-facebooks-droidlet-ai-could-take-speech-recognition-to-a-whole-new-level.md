@@ -24,6 +24,7 @@ topics:
   - Natural Language Processing
   - AI
   - Facebook AI
+  - Computer Vision
 
 images:
   - url: "https://icdn.digitaltrends.com/image/digitaltrends/image_treatment_facebook_hacked_200716.jpg"

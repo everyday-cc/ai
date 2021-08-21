@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-not
 webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-notebook-instance-now-supports-amazon-linux-2/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 159
+published: true
 
 provider:
   name: AWS
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning at the Edge with AWS Outposts and Amazon SageMaker"
-    excerpt: "As customers continue to come up with new use-cases for machine learning, data gravity is as important as ever. Where latency and network connectivity is not an issue, generating data in one location (such as a manufacturing facility) and sending it to the cloud for inference is acceptable for some use-cases."
-    publishedDateTime: 2021-08-16T17:40:11Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/machine-learning-at-the-edge-with-aws-outposts-and-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 121
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/10/ML-2440-img1-1260x592.png"
-        width: 1260
-        height: 592
-        isCached: true
   - title: "Secure multi-account model deployment with Amazon SageMaker: Part 1"
     excerpt: "Amazon SageMaker Studio is a web-based, integrated development environment (IDE) for machine learning (ML) that lets you build, train, debug, deploy, and monitor your ML models. Although Studio provides all the tools you need to take your models from experimentation to production, you need a robust and"
     publishedDateTime: 2021-08-18T13:37:08Z

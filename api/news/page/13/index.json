@@ -2,6 +2,151 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-08-10-artificial-intelligence-unlocks-extreme-weather-mysteries.md",
+      "title": "Artificial intelligence unlocks extreme weather mysteries",
+      "excerpt": "From lake-draining drought in California to bridge-breaking floods in China, extreme weather is wreaking havoc. Preparing for weather extremes in a changing climate remains a challenge, however, because their causes are complex and their response to global warming is often not well understood.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-08-artificial-intelligence-extreme-weather-mysteries.html",
+      "originalUrl": "https://phys.org/news/2021-08-artificial-intelligence-extreme-weather-mysteries.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/researchers-use-artifi.jpg",
+          "width": 1453,
+          "height": 1500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-08-artificial-intelligence-extreme-weather-mysteries.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-08-artificial-intelligence-extreme-weather-mysteries.amp",
+      "publishedDateTime": "2021-08-10T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-ai-for-population-health-and-medical-imaging-gets-a-boost-with-230-million-acquisitions.md",
+      "title": "AI For Population Health And Medical Imaging Gets A Boost With $230 Million Acquisitions",
+      "excerpt": "Nanox announced today two acquisitions to create a globally connected, end-to-end AI in radiology and population health solution",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2021/08/10/ai-for-population-health-and-medical-imaging-gets-a-boost-with-230-million-acquisitions/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2021/08/10/ai-for-population-health-and-medical-imaging-gets-a-boost-with-230-million-acquisitions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61126d032c71efbd31a6ced9%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2021/08/10/ai-for-population-health-and-medical-imaging-gets-a-boost-with-230-million-acquisitions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/08/10/ai-for-population-health-and-medical-imaging-gets-a-boost-with-230-million-acquisitions/amp/",
+      "publishedDateTime": "2021-08-10T05:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-this-startup-is-trailblazing-industrial-ai-sphere.md",
+      "title": "This Startup Is Trailblazing Industrial AI Sphere",
+      "excerpt": "DeTect Technologies is innovating and providing highly sophisticated and advanced yet easy-to-understand AI solutions",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/379825",
+      "originalUrl": "https://www.entrepreneur.com/article/379825",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1628596224-WhatsAppImage2021-08-10at51908PMv1.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/379825",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/379825",
+      "publishedDateTime": "2021-08-10T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-10-embracing-complexity-and-uncertainty-the-stage-approach-for-ai-powered-banking.md",
       "title": "Embracing Complexity And Uncertainty: The STAGE Approach For AI-Powered Banking",
       "excerpt": "The Covid-19 pandemic introduced unprecedented uncertainty and pushed banks over the ascending triangle of digital transformation toward AI-powered banking.",
@@ -1024,143 +1169,6 @@
         "AI",
         "AWS AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-seachange-enables-a-fully-migrated-cloud-video-delivery-platform-with-unique-analytics-and-engagement-services-on-amazon-web-services.md",
-      "title": "SeaChange Enables a Fully Migrated Cloud Video Delivery Platform with Unique Analytics and Engagement Services on Amazon Web Services",
-      "excerpt": "Now, with Amazon SageMaker, SeaChange customers will be able to easily deploy ML use cases like predictive maintenance, computer vision and predicting customer behaviors. \"SeaChange's StreamVid platform enabled us to launch Screen iL last week, our global ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pressreleasepoint.com/seachange-enables-fully-migrated-cloud-video-delivery-platform-unique-analytics-and-engagement",
-      "originalUrl": "https://www.pressreleasepoint.com/seachange-enables-fully-migrated-cloud-video-delivery-platform-unique-analytics-and-engagement",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pressreleasepoint.com/sites/all/modules/press_release/social-media-icons/fbpage.png",
-          "width": 256,
-          "height": 256,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-09T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KLAS Press Release",
-        "domain": "pressreleasepoint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-supply-chain-aia-food-additive-that-wont-harm-our-health.md",
-      "title": "Supply Chain AI—A Food Additive That Won’t Harm Our Health",
-      "excerpt": "From intelligent fridges to footfall figures, food and beverage companies are using AI to develop, produce, and deliver the products customers want—and it’s helping them do it more sustainably, too.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/curtmueller/2021/08/09/supply-chain-ai-a-food-additive-that-wont-harm-our-health/",
-      "originalUrl": "https://www.forbes.com/sites/curtmueller/2021/08/09/supply-chain-ai-a-food-additive-that-wont-harm-our-health/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61119153e2a91c164f29e63c%2F0x0.jpg",
-          "width": 1200,
-          "height": 638,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/curtmueller/2021/08/09/supply-chain-ai-a-food-additive-that-wont-harm-our-health/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/curtmueller/2021/08/09/supply-chain-ai-a-food-additive-that-wont-harm-our-health/amp/",
-      "publishedDateTime": "2021-08-09T13:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-student-researcher-urges-natural-language-processing-research-focus-on-signed-languages.md",
-      "title": "Student researcher urges natural language processing research focus on signed languages",
-      "excerpt": "Advancements in natural language processing (NLP) enable computers to understand what humans say and help people communicate through tools like machine translation, voice-controlled assistants and chatbots.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-08-student-urges-natural-language-focus.html",
-      "originalUrl": "https://techxplore.com/news/2021-08-student-urges-natural-language-focus.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/sign-language.jpg",
-          "width": 1920,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-08-student-urges-natural-language-focus.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-student-urges-natural-language-focus.amp",
-      "publishedDateTime": "2021-08-09T13:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

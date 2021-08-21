@@ -2,6 +2,135 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-07-spatial-vision-in-humans-and-robots.md",
+      "title": "Spatial Vision in Humans and Robots",
+      "excerpt": "This collection will be of interest to biological researchers investigating how the brain solves spatial problems, as well as to researchers in robotics and computer vision systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/cz/academic/subjects/computer-science/computer-graphics-image-processing-and-robotics/spatial-vision-humans-and-robots?format=HB&isbn=9780521430715",
+      "originalUrl": "https://www.cambridge.org/cz/academic/subjects/computer-science/computer-graphics-image-processing-and-robotics/spatial-vision-humans-and-robots?format=HB&isbn=9780521430715",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-06T23:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-07-facial-recognition-market-business-intelligence-report-and-financial-insights.md",
+      "title": "Facial Recognition Market Business Intelligence Report and Financial Insights",
+      "excerpt": "The post-COVID 19 global Facial Recognition Market size is expected to grow from USD XX billion in 2020 to USD 8.5 billion",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-business-intelligence-report-and-financial-insights-2021-08-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-business-intelligence-report-and-financial-insights-2021-08-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-06T12:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-07-bc-privacy-watchdog-investigating-federal-liberals-over-facial-recognition-software.md",
+      "title": "B.C. privacy watchdog investigating federal Liberals over facial recognition software",
+      "excerpt": "British Columbia’s privacy watchdog has launched an investigation into the federal Liberal party’s use of facial recognition technology to pick candidates for the next election. B.C. information and privacy commissioner Michael McEvoy’s office ended weeks of speculation on Friday by announcing the investigation in response to concerns from the Canadian Civil Liberties Association.",
+      "sourceUrl": null,
+      "webUrl": "https://windsorstar.com/news/local-news/b-c-privacy-watchdog-investigating-federal-liberals-over-facial-recognition-software",
+      "originalUrl": "https://windsorstar.com/news/local-news/b-c-privacy-watchdog-investigating-federal-liberals-over-facial-recognition-software",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://smartcdn.prod.postmedia.digital/vancouversun/wp-content/uploads/2020/09/privacy-report-20200902.jpg",
+          "width": 1000,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://windsorstar.com/news/local-news/b-c-privacy-watchdog-investigating-federal-liberals-over-facial-recognition-software/wcm/ce8b6f2d-268f-402d-94d5-dbd816c25460/amp/",
+      "cdnAmpWebUrl": "https://windsorstar-com.cdn.ampproject.org/c/s/windsorstar.com/news/local-news/b-c-privacy-watchdog-investigating-federal-liberals-over-facial-recognition-software/wcm/ce8b6f2d-268f-402d-94d5-dbd816c25460/amp/",
+      "publishedDateTime": "2021-08-06T10:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windsor Star",
+        "domain": "windsorstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-06-federal-liberals-probed-for-facial-recognition-use.md",
       "title": "Federal Liberals probed for facial recognition use",
       "excerpt": "The Liberal Party of Canada’s use of facial recognition technology is under investigation by B.C.’s information and privacy commissioner. Michael McEvoy’s office said August 6 it would be looking into the federal governing party’s use of the controversial technology for identification purposes in nomination races.",
@@ -1188,126 +1317,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-07-31-spanish-dpa-fines-supermarket-chain-2520000-eur-for-unlawful-use-of-facial-recognition-system.md",
-      "title": "Spanish DPA Fines Supermarket Chain 2,520,000 EUR for Unlawful Use of Facial Recognition System",
-      "excerpt": "On July 27, 2021, the Spanish Data Protection Authority (the “AEPD”) imposed a €2,520,000 fine on Spanish supermarket chain Mercadona, S.A. for unlawful use of a facial recognition sy",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/spanish-dpa-fines-supermarket-chain-2520000-eur-unlawful-use-facial-recognition",
-      "originalUrl": "https://www.natlawreview.com/article/spanish-dpa-fines-supermarket-chain-2520000-eur-unlawful-use-facial-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
-          "width": 1426,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/spanish-dpa-fines-supermarket-chain-2520000-eur-unlawful-use-facial-recognition?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/spanish-dpa-fines-supermarket-chain-2520000-eur-unlawful-use-facial-recognition?amp",
-      "publishedDateTime": "2021-07-30T13:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-31-new-law-leaves-facial-recognition-debate-unsettled.md",
-      "title": "New law leaves facial recognition debate unsettled",
-      "excerpt": "President Biden’s nominee for U.S. attorney and advocates who voiced privacy concerns are pitching a state commission on a bill that would regulate government use of facial recognition",
-      "sourceUrl": null,
-      "webUrl": "https://www.wwlp.com/news/massachusetts/new-law-leaves-facial-recognition-debate-unsettled/",
-      "originalUrl": "https://www.wwlp.com/news/massachusetts/new-law-leaves-facial-recognition-debate-unsettled/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wwlp.com/wp-content/uploads/sites/26/2018/05/NC_facialrecognition0523_1920x1080_1527103738342_43280524_ver1.0.jpg?w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wwlp.com/news/massachusetts/new-law-leaves-facial-recognition-debate-unsettled/amp/",
-      "cdnAmpWebUrl": "https://www-wwlp-com.cdn.ampproject.org/c/s/www.wwlp.com/news/massachusetts/new-law-leaves-facial-recognition-debate-unsettled/amp/",
-      "publishedDateTime": "2021-07-30T12:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WWLP",
-        "domain": "wwlp.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-skoltech-method-helps-train-computer-vision-algorithms-on-limited-data.md",
-      "title": "Skoltech Method Helps Train Computer Vision Algorithms on Limited Data",
-      "excerpt": "Researchers have developed a technique to help computer vision algorithms more accurately process satellite imagery of the Earth, even when trained on limited data.",
-      "sourceUrl": null,
-      "webUrl": "https://cacm.acm.org/news/254410-skoltech-method-helps-train-computer-vision-algorithms-on-limited-data/fulltext",
-      "originalUrl": "https://cacm.acm.org/news/254410-skoltech-method-helps-train-computer-vision-algorithms-on-limited-data/fulltext",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-29T09:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "acm.org",
-        "domain": "acm.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

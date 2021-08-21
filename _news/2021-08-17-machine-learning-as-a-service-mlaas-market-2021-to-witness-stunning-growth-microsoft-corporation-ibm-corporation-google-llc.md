@@ -58,6 +58,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 51
+  - title: "Neural Network Software Market to Witness Huge Growth by 2026: Google, Neurala, IBM"
+    excerpt: "This press release was orginally distributed by SBWire Edison, NJ — (SBWIRE) — 08/18/2021 — The latest study released on the Global Neural Network Software Market by AMA Research evaluates market size,"
+    publishedDateTime: 2021-08-19T03:28:00Z
+    webUrl: "https://www.digitaljournal.com/pr/neural-network-software-market-to-witness-huge-growth-by-2026-google-neurala-ibm"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 33
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/Mask-Covid-Pandemic-AFP-1K-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "EF7+0K1hK6h3nL6fQszkfxBtWIzfWtrhl2cFKeYY4Qj2u5kiVWZfkdSJVr6upo6bSg78MMwVtkjxtO/gfEuIQyJ1R76BQeso+RNqyb2nb4v9J+CAnIDIC15ez8baiLtjWFHNuoc5ksBBq6KQIdYbCkYULzJdQ1Jol4ZU3ox073o4KCRTwpIfzHDD6vAklvWefh5b4mCS4TgY12BchY13T/krPHdDLsSuWY2xIf7IWCtXI78wePUigE4VCk+0qiK06wxccaUEbvuqTqvGwzm2ZPiRcFwqs8FlaJ7yGQy3K2A2dSwiHdo4E1d73rop9xoZ6+vtb3t9RwDipYSvtcGv+6yABg9EtFHZPKSOaQimhYc=;GbSAgvYbv6/pvNZ0OqWjSw=="
 ---

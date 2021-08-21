@@ -10,7 +10,7 @@
       "originalUrl": "https://www.cmswire.com/customer-experience/4-ways-conversational-ai-is-improving-the-customer-experience/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -95,6 +95,58 @@
         "AI in Healthcare",
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-08-18-amazon-sagemaker-notebook-instances-now-support-amazon-linux-2.md",
+      "title": "Amazon SageMaker notebook instances now support Amazon Linux 2",
+      "excerpt": "Today, we’re excited to announce that Amazon SageMaker notebook instances support Amazon Linux 2. You can now choose Amazon Linux 2 for your new SageMaker notebook instance to take advantage of the latest update and support provided by Amazon Linux 2. SageMaker notebook instances are fully managed Jupyter",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-notebook-instance-now-supports-amazon-linux-2/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-notebook-instance-now-supports-amazon-linux-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-18T15:35:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -896,7 +948,7 @@
       "originalUrl": "https://www.cnbc.com/2021/08/18/democrats-ask-ftc-to-investigate-teslas-self-driving-claims.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 574,
+      "heat": 564,
       "tags": null,
       "images": [
         {
@@ -1158,58 +1210,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-18-baidu-unveils-concept-autonomous-robocar.md",
-      "title": "Baidu unveils concept autonomous 'Robocar'",
-      "excerpt": "Along with unveiling a new autonomous vehicle, Baidu also announced it has started mass producing its AI chip, the Kunlun II.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/baidu-unveils-concept-autonomous-robocar/",
-      "originalUrl": "https://www.zdnet.com/article/baidu-unveils-concept-autonomous-robocar/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/08/18/97007714-bc06-4b94-816a-9a85a0427308/e9clrpivoag-sz.jpg",
-          "width": 2477,
-          "height": 1509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/baidu-unveils-concept-autonomous-robocar/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/baidu-unveils-concept-autonomous-robocar/",
-      "publishedDateTime": "2021-08-17T20:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

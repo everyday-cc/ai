@@ -2,6 +2,92 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-08-12-4bgry-fdx-fedex-ground-installs-robotics-in-queens.md",
+      "title": "4BGRY, FDX : FedEx Ground Installs Robotics In Queens...",
+      "excerpt": "FedEx Ground has installed robotics solutions in its Queens, New York, facility to sort small packages that arrive in bulk for loading into containers bound for other hubs in",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/21/08/22471695/fedex-ground-installs-robotics-in-queens-plans-additional-facilities",
+      "originalUrl": "https://www.benzinga.com/news/21/08/22471695/fedex-ground-installs-robotics-in-queens-plans-additional-facilities",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/files/images/story/2012/car-438029_1920_51.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/22471695",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22471695",
+      "publishedDateTime": "2021-08-12T09:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-il-makiage-acquires-leading-israeli-computer-vision-start-up-voyage81.md",
+      "title": "IL MAKIAGE acquires leading Israeli computer vision start-up Voyage81",
+      "excerpt": "The tech-driven beauty company is adding cutting edge computer vision technology to its existing deep learning capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.jpost.com/israel-news/il-makiage-acquires-leading-israeli-computer-vision-start-up-voyage81-676548",
+      "originalUrl": "https://www.jpost.com/israel-news/il-makiage-acquires-leading-israeli-computer-vision-start-up-voyage81-676548",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/481304",
+          "width": 640,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.jpost.com/israel-news/il-makiage-acquires-leading-israeli-computer-vision-start-up-voyage81-676548/amp",
+      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/israel-news/il-makiage-acquires-leading-israeli-computer-vision-start-up-voyage81-676548/amp",
+      "publishedDateTime": "2021-08-12T09:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Jerusalem Post Blogs",
+        "domain": "jpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-12-fedex-deploys-new-ai-robotics-e-commerce-fulfilment-system.md",
       "title": "FedEx Deploys new AI-Robotics E-Commerce Fulfilment System",
       "excerpt": "FedEx to scale up “encouraging” trial of new RPSi system from Berkshire Grey, which is AI-enabled and autonomously sorts thousands of packages a day",
@@ -1049,94 +1135,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-stashfin-is-improving-fraud-detection-in-india-with-machine-learning-and-ai.md",
-      "title": "StashFin is improving fraud detection in India with machine learning and AI",
-      "excerpt": "Fraud detection is something the financial services industry can't afford to take lightly. From retail to consumer banking, to fintech and insurance",
-      "sourceUrl": null,
-      "webUrl": "https://techwireasia.com/2021/08/can-ai-and-ml-help-reduce-fraud-detection-in-india/",
-      "originalUrl": "https://techwireasia.com/2021/08/can-ai-and-ml-help-reduce-fraud-detection-in-india/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.techwireasia.com/wp-content/uploads/2021/08/Parikshit-Chitalkar-Co-founderStashfin-259x300.jpg",
-          "width": 259,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techwireasia.com/amp/2021/08/can-ai-and-ml-help-reduce-fraud-detection-in-india/",
-      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/08/can-ai-and-ml-help-reduce-fraud-detection-in-india/",
-      "publishedDateTime": "2021-08-11T19:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techwireasia.com",
-        "domain": "techwireasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-amazon-rekognition-custom-brand-detection.md",
-      "title": "Amazon Rekognition Custom Brand Detection",
-      "excerpt": "When the labelers complete the labeling job, the solution uses the annotations from the labelers to prepare and train a custom label model using Amazon Rekognition Custom Labels service and deploys the model once the training completes. When the model is ...",
-      "sourceUrl": null,
-      "webUrl": "https://github.com/aws-samples/amazon-rekognition-custom-brand-detection",
-      "originalUrl": "https://github.com/aws-samples/amazon-rekognition-custom-brand-detection",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://opengraph.githubassets.com/e28091c2f1b5d65ce18c3a75b7f39a2e547efdeac7635e00e02bf5afa8433e86/aws-samples/amazon-rekognition-custom-brand-detection",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-11T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GitHub",
-        "domain": "github.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

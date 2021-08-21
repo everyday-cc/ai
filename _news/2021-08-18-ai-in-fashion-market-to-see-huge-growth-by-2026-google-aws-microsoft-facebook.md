@@ -9,7 +9,7 @@ ampWebUrl: "https://manometcurrent.com/ai-in-fashion-market-to-see-huge-growth-b
 cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/ai-in-fashion-market-to-see-huge-growth-by-2026-google-aws-microsoft-facebook/?amp=1"
 type: article
 quality: 67
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 43
+  - title: "Neural Network Software Market to Witness Huge Growth by 2026: Google, Neurala, IBM"
+    excerpt: "This press release was orginally distributed by SBWire Edison, NJ — (SBWIRE) — 08/18/2021 — The latest study released on the Global Neural Network Software Market by AMA Research evaluates market size,"
+    publishedDateTime: 2021-08-19T03:28:00Z
+    webUrl: "https://www.digitaljournal.com/pr/neural-network-software-market-to-witness-huge-growth-by-2026-google-neurala-ibm"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 33
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/Mask-Covid-Pandemic-AFP-1K-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "WkdI719DfSuz3BZoRd90hchLlkhZCzOXiJvXgnwXCQkdfisQvAGUE34HKJFuTgBYTowsxWzTSfdChrlS7PJsfmGGp0TvBYVPFj6foFI+PJwegyU+1GEm0QfFaROIXr1VJ3r76Sewnu3ZnG3RiiyCMRAXWWLUT6DGKRi9pnGVGGvD/Tzz6zqlz31n1rTDs0bXVTtIY9hYjCtBof+eTNBxK4JkPlySP2Y8jH3RXGBjyOdDAiJT665aVeWa7eaC2+HX+EmnbwQ6HgoEbRUgXIcfFBI9cMO/DOC6KsPClwwqkAWSFRU6VuthkjzZDiBoqJzZ0w1kLWvUkHeYDSbVIdsOehS0XOi5hEgdlsN43DVM7l0=;A4AOCTkykw/UpLVbbE8Juw=="
 ---

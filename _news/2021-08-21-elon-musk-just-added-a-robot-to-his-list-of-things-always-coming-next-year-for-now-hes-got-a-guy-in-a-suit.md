@@ -677,6 +677,22 @@ related:
         width: 863
         height: 443
         isCached: true
+  - title: "AI humanoid robots could be here by next year, thanks to Elon Musk"
+    excerpt: "Tesla CEO Elon Musk is back to making national headlines again after unveiling the “Tesla Bot,” otherwise known as the brand’s AI humanoid robot, during the brand’s AI event on Thursday. The robot will use much of the same tech that is found in ..."
+    publishedDateTime: 2021-08-21T00:56:00Z
+    webUrl: "https://www.ksat.com/news/local/2021/08/20/ai-humanoid-robots-could-be-here-by-next-year-thanks-to-elon-musk/"
+    ampWebUrl: "https://www.ksat.com/news/local/2021/08/20/ai-humanoid-robots-could-be-here-by-next-year-thanks-to-elon-musk/?outputType=amp"
+    cdnAmpWebUrl: "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/news/local/2021/08/20/ai-humanoid-robots-could-be-here-by-next-year-thanks-to-elon-musk/?outputType=amp"
+    type: article
+    provider:
+      name: KSAT
+      domain: ksat.com
+    quality: 57
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/KSRSML3EJNCCXJHINBV3LAUW6A.PNG"
+        width: 1170
+        height: 693
+        isCached: true
   - title: "Elon Musk Says Tesla's Robot Will Make Physical Work A 'Choice'"
     excerpt: "After dominating the electric vehicle market and throwing his hat into the billionaire space race, Tesla boss Elon Musk announced the latest frontier he's aiming to conquer: humanoid robots. The irascible entrepreneur said Thursday he would have an initial prototype of an androgynous \"Tesla Bot\" by next year."
     publishedDateTime: 2021-08-20T07:51:00Z

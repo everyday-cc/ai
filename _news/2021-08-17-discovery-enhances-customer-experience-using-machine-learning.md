@@ -43,22 +43,6 @@ related:
         width: 768
         height: 430
         isCached: true
-  - title: "AI Regulation Is Coming"
-    excerpt: "This article explains the moves regulators are most likely to make and the three main challenges businesses need to consider as they adopt and integrate AI. The first is ensuring fairness."
-    publishedDateTime: 2021-08-16T17:59:00Z
-    webUrl: "https://hbr.org/2021/09/ai-regulation-is-coming"
-    ampWebUrl: "https://hbr.org/amp/2021/09/ai-regulation-is-coming"
-    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/09/ai-regulation-is-coming"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 59
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2021/07/R2105G_SUN.jpg"
-        width: 1000
-        height: 562
-        isCached: true
   - title: "How artificial intelligence is changing the face of beauty"
     excerpt: "From fragrance to skincare, AI is helping us to make smarter beauty choices Finding a new-season foundation or signature scent has long required a stroll through the beauty aisles of our favourite department stores."
     publishedDateTime: 2021-08-18T17:30:00Z

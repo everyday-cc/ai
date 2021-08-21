@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning at the Edge with AWS Outposts and Amazon SageMaker"
-    excerpt: "As customers continue to come up with new use-cases for machine learning, data gravity is as important as ever. Where latency and network connectivity is not an issue, generating data in one location (such as a manufacturing facility) and sending it to the cloud for inference is acceptable for some use-cases."
-    publishedDateTime: 2021-08-16T17:40:11Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/machine-learning-at-the-edge-with-aws-outposts-and-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 121
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/10/ML-2440-img1-1260x592.png"
-        width: 1260
-        height: 592
-        isCached: true
   - title: "Amazon SageMaker notebook instances now support Amazon Linux 2"
     excerpt: "Today, we’re excited to announce that Amazon SageMaker notebook instances support Amazon Linux 2. You can now choose Amazon Linux 2 for your new SageMaker notebook instance to take advantage of the latest update and support provided by Amazon Linux 2. SageMaker notebook instances are fully managed Jupyter"
     publishedDateTime: 2021-08-18T22:35:47Z

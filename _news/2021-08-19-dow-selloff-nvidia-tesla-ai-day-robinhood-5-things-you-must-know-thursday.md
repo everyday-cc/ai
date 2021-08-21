@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thestreet.com/.amp/markets/5-things-you-must-know-before
 cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/markets/5-things-you-must-know-before-market-opens-thursday-081921"
 type: article
 quality: 73
-heat: 73
+heat: 74
 published: true
 
 provider:

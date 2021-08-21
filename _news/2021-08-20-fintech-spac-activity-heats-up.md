@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Sales fintech Seismic pushes valuation to $3 billion"
-    excerpt: "Seismic, a fintech designed to personalize sales interactions, doubled its valuation in a year after fresh funding and a new acquisition."
-    publishedDateTime: 2021-08-16T18:42:00Z
-    webUrl: "https://www.investmentnews.com/sales-fintech-seismic-pushes-valuation-to-3-billion-210373"
-    ampWebUrl: "https://www.investmentnews.com/sales-fintech-seismic-pushes-valuation-to-3-billion-210373/amp"
-    cdnAmpWebUrl: "https://www-investmentnews-com.cdn.ampproject.org/c/s/www.investmentnews.com/sales-fintech-seismic-pushes-valuation-to-3-billion-210373/amp"
-    type: article
-    provider:
-      name: InvestmentNews
-      domain: investmentnews.com
-    quality: 61
-    images:
-      - url: "https://s32566.pcdn.co/wp-content/uploads/2021/07/applovin-Tech-social-digital-mobile-.jpeg.optimal.jpeg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Online Travel Hopper’s Metamorphosis From Flight Selling to Fintech"
     excerpt: "Hopper, an online travel company, said it had $170 million Series G round of equity ﬁnancing, led by GPI, a private equity firm."
     publishedDateTime: 2021-08-17T11:30:00Z
@@ -58,6 +42,20 @@ related:
       - url: "https://skift.com/wp-content/uploads/2021/08/a-user-of-hoppers-booking-app-source-hopper.jpg"
         width: 1025
         height: 684
+        isCached: true
+  - title: "4 Ways the Fintech Industry is Detecting and Preventing Frauds"
+    excerpt: "Digitization in the fintech industry is giving rise to financial fraud. It is essential to detect potential frauds and prevent them before any loss to the customer or the organization. Fremont, CA: Like all the industries,"
+    publishedDateTime: 2021-08-20T00:00:00Z
+    webUrl: "https://www.cioapplications.com/news/4-ways-the-fintech-industry-is-detecting-and-preventing-frauds-nid-8322.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 24
+    images:
+      - url: "https://www.cioapplications.com/uploaded_images/magazine_img/itqtp300400.jpg"
+        width: 300
+        height: 400
         isCached: true
   - title: "Climate FinTech hires all-star management team"
     excerpt: "(News Aktuell) - – bullfinch completes its management team by hiring top-level executives. Niko von Tippelskirch has been newly appointed to the executive management board and will take on the position of Chief Operating Officer (COO)."

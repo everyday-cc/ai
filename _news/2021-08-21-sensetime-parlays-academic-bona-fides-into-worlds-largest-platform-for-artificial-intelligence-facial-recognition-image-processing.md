@@ -1,15 +1,15 @@
 ---
 category: news
 title: "SenseTime parlays academic bona fides into world’s largest platform for artificial intelligence, facial recognition, image processing"
-excerpt: "READ FULL ARTICLE China’s AI industry – comprising computer vision, intelligent speech, human-computer interactions, machine learning, natural language processing and AI chips – is expected to triple to 453.26 billion yuan (US$69.8 billion ..."
-publishedDateTime: 2021-08-21T02:14:00Z
-originalUrl: "https://www.scmp.com/business/companies/article/3145739/sensetime-parlays-academic-bona-fides-worlds-largest-platform?module=lead_hero_story&pgtype=homepage"
-webUrl: "https://www.scmp.com/business/companies/article/3145739/sensetime-parlays-academic-bona-fides-worlds-largest-platform?module=lead_hero_story&pgtype=homepage"
+excerpt: "China’s AI industry may triple to 453.26 billion yuan in value by 2025 from last year, while a broader AI-driven industry may be as large as 1.66 trillion yuan, which underscores the strategic importance of the field in the Made in China 2025 industrial master plan."
+publishedDateTime: 2021-08-21T10:20:00Z
+originalUrl: "https://www.scmp.com/business/companies/article/3145739/sensetime-parlays-academic-bona-fides-worlds-largest-platform"
+webUrl: "https://www.scmp.com/business/companies/article/3145739/sensetime-parlays-academic-bona-fides-worlds-largest-platform"
 ampWebUrl: "https://amp.scmp.com/business/companies/article/3145739/sensetime-parlays-academic-bona-fides-worlds-largest-platform"
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/companies/article/3145739/sensetime-parlays-academic-bona-fides-worlds-largest-platform"
 type: article
-quality: 77
-heat: 87
+quality: 79
+heat: 89
 published: true
 
 provider:
@@ -21,10 +21,11 @@ provider:
       height: 50
 
 topics:
-  - Natural Language Processing
+  - AI in Healthcare
   - AI
   - Computer Vision
-  - AI in Healthcare
+  - Machine Learning
+  - Natural Language Processing
 
 images:
   - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/08/21/e986ee0c-0187-11ec-83d9-2f907cc4e7e5_image_hires_151711.jpg?itok=PxNg6vKn&v=1629530249"
@@ -48,6 +49,6 @@ related:
         height: 350
         isCached: true
 
-secured: "mV+qcRygLJEHXtBcWXOWcR3K2C8WR5dPweA6GapPaw3ZSiPPhOF7/OTgGlgNdXMxjJCsS7uTDJXJmiwe28JVgBmEzh5siSXmfg60cz/VYK4/9vnrK9LUmMtkvc7NTxQY5upfx5/QkdCId3f/SxO7YdSsHUeaowrzQsxECoiAshspSakkXQVKQUrLXTVnErXZRtEqQDNtAlBbJPoeCxR/x2ymmVQax8+JGA4uOIkgBziphenOc7zbVglellzKgoKO1cxge4gzcR4bdwR3wny4RxVkoQieMlFhMtJJBig3apAsL2QfZ9RmPX4xsM9B5gOwcbVM3zFsV6a4eXPvUTriJG39FjIHQ5TlHIw/p8l+Y0o=;xxhviG1Xwax3LCzg77K/dQ=="
+secured: "9Tgtiie1GbW+dTDejGON131M4xrql6hoBypANr0U68sn8fx94Z5wO1FaPXPlBWPsrsymilgavAv1FjvLuQWrL/It+NDXV70wUFm+3YQa6054G1Oa3kyOknZ73coNimqud9saS4h0RS8tKBhibW+Ix8lQsEQ86zRsrpvo/ryNCg1+u1/E+55Hws8lWGxWIqzCVApSvEyLw8qCgJmdA0knYuEu58MYXLxopB19GqZKy3NhNzcSy7lPCzjWcQx0yTnaCajr06mHjpSbbsH8/4V8M1xQrCaU4YAdpRt6hcEHg14okkcPUYknjwo2UTrRisJlqVIgtGo0Nqr85K4t8Ziu8sj32Fcvc8UGbwS7lQazHQI=;QphUelEVULyPEscuQDDurA=="
 ---
 

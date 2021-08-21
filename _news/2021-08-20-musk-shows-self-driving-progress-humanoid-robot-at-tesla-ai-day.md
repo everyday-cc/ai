@@ -371,22 +371,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "US Launches Investigation Into Tesla’s Self-Driving Tech After Numerous Crashes"
-    excerpt: "The US government have launched a formal investigation into Tesla’s Autopilot function, due to reports of numerous crashes.  The formal investigation is into Tesla’s driver-assistance systems, known as Autopilot."
-    publishedDateTime: 2021-08-16T17:11:00Z
-    webUrl: "https://www.unilad.co.uk/technology/us-launches-investigation-into-teslas-self-driving-tech-after-numerous-crashes/"
-    ampWebUrl: "https://www.unilad.co.uk/technology/us-launches-investigation-into-teslas-self-driving-tech-after-numerous-crashes/amp/"
-    cdnAmpWebUrl: "https://www-unilad-co-uk.cdn.ampproject.org/c/s/www.unilad.co.uk/technology/us-launches-investigation-into-teslas-self-driving-tech-after-numerous-crashes/amp/"
-    type: article
-    provider:
-      name: UNILAD
-      domain: unilad.co.uk
-    quality: 55
-    images:
-      - url: "https://www.unilad.co.uk/cdn-cgi/image/width=420,height=700,quality=70,format=jpeg,fit=contain,dpr=1/https%3A%2F%2Fwww.unilad.co.uk%2Fwp-content%2Fuploads%2F2021%2F08%2FPA-40016613-262x175.jpg"
-        width: 420
-        height: 280
-        isCached: true
   - title: "Six injured as self-driving Tesla crashes in school car park in Southern England"
     excerpt: "At least one person was reported to have been pinned under the electric car in a car park of a college in Sussex, the report said, adding that exact number was not clear."
     publishedDateTime: 2021-08-17T02:30:00Z

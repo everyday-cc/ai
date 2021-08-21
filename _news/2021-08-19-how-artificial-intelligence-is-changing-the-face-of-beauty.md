@@ -54,22 +54,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "AI Regulation Is Coming"
-    excerpt: "This article explains the moves regulators are most likely to make and the three main challenges businesses need to consider as they adopt and integrate AI. The first is ensuring fairness."
-    publishedDateTime: 2021-08-16T17:59:00Z
-    webUrl: "https://hbr.org/2021/09/ai-regulation-is-coming"
-    ampWebUrl: "https://hbr.org/amp/2021/09/ai-regulation-is-coming"
-    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/09/ai-regulation-is-coming"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 59
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2021/07/R2105G_SUN.jpg"
-        width: 1000
-        height: 562
-        isCached: true
 
 secured: "oMtBKbiTeVitc7SfFFsMJ1teezjCGLO3ScKHYSyS//gBmCwqY8N8MtN0f1C+rXEpJ14ZS1V7HsO0Pxn03+O0W4bKd6OmQ5RP0PAtdX949BAVUUg5p+bvVEnKkTd+FFZ/Pt9/gXRJy1Pz3jHuSf4wMcLoCqDDduJ/l3nbZQki7F4EWFAtls8BD/owYANScJP7xyDF5D/6YUBCNKleEEEiPJpwowb+PoDnnsNs/AudbiPMMat6TMRqNSu2bT684JT8cu3rN1r1b+x+T/Tezb3n3eaQlN8Fd0T2t1bx711yoWB7UqAPizHWmZXje2KGFbo5jASZ/+YiNVxwAgfZCV/6OvxzCMQ/z875ukn03FwWg1kSIfbk3QJinsbH/0pbt/mpwro1IKq6RjC27M726X6/2+yZ89RuSqrQOoNE3bKjuz8L/MNe9LAXD6moEYB0AssHcOmJAAjC6fmiIBoUvV9AuEg0a18JDeaM48KQoZnaotyq64tzls3GSi57+z36gA2R8GZjM2OP9tNt2RLMlxWxRg==;OL8iKGpzDrfuETaWt3z/8w=="
 ---

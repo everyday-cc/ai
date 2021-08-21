@@ -25,16 +25,16 @@ images:
 
 related:
   - title: "SenseTime parlays academic bona fides into world’s largest platform for artificial intelligence, facial recognition, image processing"
-    excerpt: "READ FULL ARTICLE China’s AI industry – comprising computer vision, intelligent speech, human-computer interactions, machine learning, natural language processing and AI chips – is expected to triple to 453.26 billion yuan (US$69.8 billion ..."
-    publishedDateTime: 2021-08-21T02:14:00Z
-    webUrl: "https://www.scmp.com/business/companies/article/3145739/sensetime-parlays-academic-bona-fides-worlds-largest-platform?module=lead_hero_story&pgtype=homepage"
+    excerpt: "China’s AI industry may triple to 453.26 billion yuan in value by 2025 from last year, while a broader AI-driven industry may be as large as 1.66 trillion yuan, which underscores the strategic importance of the field in the Made in China 2025 industrial master plan."
+    publishedDateTime: 2021-08-21T10:20:00Z
+    webUrl: "https://www.scmp.com/business/companies/article/3145739/sensetime-parlays-academic-bona-fides-worlds-largest-platform"
     ampWebUrl: "https://amp.scmp.com/business/companies/article/3145739/sensetime-parlays-academic-bona-fides-worlds-largest-platform"
     cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/companies/article/3145739/sensetime-parlays-academic-bona-fides-worlds-largest-platform"
     type: article
     provider:
       name: South China Morning Post
       domain: scmp.com
-    quality: 77
+    quality: 79
     images:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/08/21/e986ee0c-0187-11ec-83d9-2f907cc4e7e5_image_hires_151711.jpg?itok=PxNg6vKn&v=1629530249"
         width: 1200

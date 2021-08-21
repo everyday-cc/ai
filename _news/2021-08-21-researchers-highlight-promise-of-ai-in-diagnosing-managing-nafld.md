@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers fooled AI into ignoring stop signs using a cheap projector"
-    excerpt: "A team of researchers demonstrated a novel attack on AI vision systems using nothing but a laptop and a projector. What does this mean for driverless cars?"
-    publishedDateTime: 2021-08-16T18:50:00Z
-    webUrl: "https://thenextweb.com/news/researchers-tricked-ai-ignoring-stop-signs-using-cheap-projector"
+  - title: "Curbing the cost of payment failures with straight through processing"
+    excerpt: "Fortunately, there are a number of options for payment specialists. By optimising straight through processing, for instance, payments can arrive quickly – and at the correct beneficiary account – with minimal interaction from the customer,"
+    publishedDateTime: 2021-08-20T20:17:00Z
+    webUrl: "https://www.finextra.com/the-long-read/251/curbing-the-cost-of-payment-failures-with-straight-through-processing"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 67
+      name: Finextra
+      domain: finextra.com
+    quality: 39
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2Fstopattack.jpg&signature=3ff95e62e62b4f1c42d18ca4e0b2b0d3"
-        width: 1280
-        height: 640
+      - url: "https://www.finextra.com/finextra-images/oped/251.jpg"
+        width: 800
+        height: 449
         isCached: true
 
 secured: "uDyhOTDKduTMHpU07eEIJtjBTrDq1fdRUghOuyVblbI7eJ7Z34F1wynywU0/bk+bLXpnoDcOmiAXI0vjOVDyj4wsOzF4X4ABIKPyUnGP4+wDo206K9Dy0mzIxbRQZ7LhqjL7hssh+FdrxlGpuOAnxWBX1qL5fhnWa+RtRSnQ5Tmvc5S/ImbculSurEm+xW7bNxrjH+ZoWLB1+ychYuM8m4wtk8dACCyF4q29MwLO4gNroKHkpxlIemWLUB69/w5yCkIXi+9lWb8BlK05ZXxFC7FyMipL4eHwfCydkk47ihjZVMryMkrtWJ3TNbyhN2OLzYwodv8yOa6d2Y6hdLX/BO5iIp2N2ks4V12+Q0UIYEk0eC9+WK9ZKS5vmf60HPPxYOV5ytWA7P6VOlIujuc10tTLVFWPsi2kSaLJDM2PuLQAho7BXHGOKEWP64I8kmFNnohh+FWRMG3qQWhYE9ZrN8duoAQgbB+YXpHnJAZlnPnpn6CMl5rPdzffbYbGOrPBtbSav557s6Xc8GvADDH9MQ==;vorPCT6evd+gGJz5JscujA=="
