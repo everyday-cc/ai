@@ -1068,6 +1068,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Elon Musk says Tesla robot will make physical work a ‘choice’"
+    excerpt: "After dominating the electric vehicle market and throwing his hat into the billionaire space race, Tesla boss Elon Musk announced the latest frontier he's"
+    publishedDateTime: 2021-08-22T15:46:00Z
+    webUrl: "https://techhq.com/2021/08/elon-musk-says-tesla-robot-will-make-physical-work-a-choice/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 56
+    images:
+      - url: "https://cdn.techhq.com/wp-content/uploads/2021/08/000_9LC7WA.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Elon Musk Insists You Can 'Most Likely' Overpower This Humanoid Robot Built to Replace You"
     excerpt: "So says Elon Musk, who just unveiled a humanoid robot built to replace you, sorry relieve you, at your job. The Tesla Bot, a surprise reveal at the end of Tesla's AI Day on Thursday, is a bipedal automaton that is designed to take over \"dangerous,"
     publishedDateTime: 2021-08-20T15:32:00Z

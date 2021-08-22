@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Google AI
 
 images:
   - url: "https://foreignpolicy.com/wp-content/uploads/2021/08/pichai-google-testimony-house-judiciary.jpg?w=1000"

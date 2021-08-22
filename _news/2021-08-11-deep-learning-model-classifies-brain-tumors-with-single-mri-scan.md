@@ -2,25 +2,27 @@
 category: news
 title: "Deep learning model classifies brain tumors with single MRI scan"
 excerpt: "A team of researchers at Washington University School of Medicine have developed a deep learning model that is capable of classifying a brain tumor as one of six common types using a single 3D MRI scan,"
-publishedDateTime: 2021-08-11T14:01:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/924825"
-webUrl: "https://www.eurekalert.org/news-releases/924825"
+publishedDateTime: 2021-08-11T14:20:00Z
+originalUrl: "https://medicalxpress.com/news/2021-08-deep-brain-tumors-mri-scan.html"
+webUrl: "https://medicalxpress.com/news/2021-08-deep-brain-tumors-mri-scan.html"
+ampWebUrl: "https://medicalxpress.com/news/2021-08-deep-brain-tumors-mri-scan.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-08-deep-brain-tumors-mri-scan.amp"
 type: article
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/fe06826f-37f6-4b29-a4c8-078a2fdd00f5/Rendition/thumbnail/Content/Public"
-    width: 274
-    height: 300
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/deep-learning-model-cl.jpg"
+    width: 1721
+    height: 1881
     isCached: true
 
-secured: "QgUxV4J/Fg0+zr5Eln5q8gUbSKev27eF45q2CnVvLiyI2TISqMajAA/zajtHfA9viFbXj5RNRjBrlNmtJcjKn8GIqnGAP+g4xdd8yDzBb0NIlDCdgB7ZbiS3M+HEm84sYwO02WkqM3sw6o32kiRXfzZVqwxmbK2S+tCzRj3QvDHvRy9//6UOxP065aDzfSucYF0a3Wd7Vm29fsmAX9i1ZadxVEPyFD+/tXVA2f7aibrPW79Cnh0buLxP/TTKwuVGnvmH6Ca+L1nQVFy5TgGfEtXv0ghcEc92/rEKceDi4mdpS+Q03C5hXWYPB2AsLHM7NuTdCrKyp3Pej7DYklgCmz5OAwgw/wUsP4R3deWmBNs=;y8iUeMiuisfX4O0sd+6LXA=="
+secured: "cVBYNv5qIKog8heQamdBVmZi5IviMCdALhFsYtog9fiP1xcrPLEQ4waTUm/cvI+VzDo6bKjUgyWgSPm7RWfU7DN3gSQlUGjvVMjuU6PxVC9qQSQE8UJSJD1WyYxYiFmH12Kc4nTGpbjEW4wIup0X103yN9selsPxfgLU/paJs5x/9C/KHqqTgtYR0LyWfFtPJ5yHWVFubgC/REcfzOvpYcDZsuH7jqoRnQTr4+4ZXT+BREOTCS/SkuCVxu8RXO5N5+MWq9NYBMH2JbOjcXgaMDsrWRuRi/6jh2ztUgSbDY3/1XEw5/5txKxb8z6Qtq5IbRJac8OSvBLxtdSCM7U2BQacGgNZCyLTtS8pM/pSass=;jRaAvXTZ6Eo9LkPCxOkbEA=="
 ---
 

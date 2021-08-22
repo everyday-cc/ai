@@ -21,6 +21,7 @@ topics:
   - AI Ethics
   - AI in Robotics
   - AI in Autos
+  - Facebook AI
 
 images:
   - url: "https://erepublic.brightspotcdn.com/dims4/default/aad2570/2147483647/strip/true/crop/930x485+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F60%2Fdb%2Ff5534a57c4805936b0481ece5a69%2Fshutterstock-768013051.jpg"

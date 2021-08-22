@@ -1054,6 +1054,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Elon Musk says Tesla robot will make physical work a ‘choice’"
+    excerpt: "After dominating the electric vehicle market and throwing his hat into the billionaire space race, Tesla boss Elon Musk announced the latest frontier he's"
+    publishedDateTime: 2021-08-22T15:46:00Z
+    webUrl: "https://techhq.com/2021/08/elon-musk-says-tesla-robot-will-make-physical-work-a-choice/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 56
+    images:
+      - url: "https://cdn.techhq.com/wp-content/uploads/2021/08/000_9LC7WA.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Tesla unveils a humanoid robot powered by its vehicle A.I called the Tesla Bot"
     excerpt: "While no physical robot has been shown off yet, Elon Musk unveiled a new humanoid robot called the Tesla Bot. According to Musk, the purpose of this robot is to eliminate dangerous, repetitive, and boring tasks and it uses the same artificial intelligence and autopilot cameras that Tesla uses in their vehicles."
     publishedDateTime: 2021-08-20T14:31:00Z
@@ -1213,6 +1227,6 @@ related:
         height: 445
         isCached: true
 
-secured: "7D3YazG40oi3AlRbwVR17A3mtGwOnGKGqDVrYeQmH9NC4YY1Pl8iqwMstjH082VEW/WdpGGcrGLudaxWZvNj8Psq1JucMFD969p1Kig8ZrZ2KFNzO1IZV/qDi90oN0t5jbgiIRKaWiJwSbXToUcHCejSzePOHb5SKq7skIEHg2mUhw0tZRpAxFXHAVHiWewON4Qjf8o+vtLXjpR+bcwnvH+DnrBbeQD9uCSyMberDvs+UpRinznrUSF6oZKtPinPH0unsvavmVRHHedBO5+SA/YsT649bTdAF4W2w0gUwTeey7p8H97U7CYHrVd5gbUeVsVCRWxTT+x3lTlReyLMxHS7YRM2o1jVoWKeQfDeqW8=;Qwj00l24OnmnLQwI3sBIBA=="
+secured: "wndDgUTOA7gfqfNUNG+8Xl0dFjQLX22VUsrw7ddJ8O9AG2yPYsNqinmka6PYBwy56V3cxW1W0f8Uxkr9eHo+r61kx0sk2sy9hfYRc/t8qr+kdVZ7EhrN6+SRM1kG5pV5MJM6twyyg711QZpTc1fomu5YSIv70vUXJvnK/xTbrV/gHnTAki+2pNdfa8RE4H25Ent2yfIspbEbf4tECgAMnbvIKHEiegGoc9ww5bCAWhVcZdZ1PQOxG+PpmUZupIzHK89mrInUwJpN1ZdffWoI+nCTLYAJ3UhhBy1axJAhkD6eyUNloTR1n1dl2zBQlkOIBXEBpftdzKn9SPAWQfN1NSTnZUj7+AsQPmxkGY/41ZOITgH5DxUkO276T4SKIxMI8Efjle/Um2pcnLq/U2GzImCWLpGX/kBUzHnNxEga1URC+c92TQv17xErg+MlNSy8l0XN5fEQ3XhFCnSpodItIVO5v1zb1DEOI8qR5PUJgo6gyKK2/kqxHK2sQvWoGrsozleA2lTp9GE5pFTxCJh3nA==;f2607HMxqQsq+vherWTIWg=="
 ---
 

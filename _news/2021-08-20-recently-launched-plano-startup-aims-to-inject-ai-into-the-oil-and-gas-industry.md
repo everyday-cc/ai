@@ -7,7 +7,7 @@ originalUrl: "https://www.bizjournals.com/dallas/inno/stories/news/2021/08/19/br
 webUrl: "https://www.bizjournals.com/dallas/inno/stories/news/2021/08/19/brane-paul-carlisle.html"
 type: article
 quality: 13
-heat: 13
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "AI startup Boomy looks to turn the music industry on its ear"
+    excerpt: "AI-based music making startup Boomy offers amatuer and professional musicians alike an easy means of generating new tunes (and new royalty revenue streams).."
+    publishedDateTime: 2021-08-22T16:42:00Z
+    webUrl: "https://www.engadget.com/ai-music-startup-boomy-looks-to-turn-the-record-industry-on-its-ear-190037786.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 67
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-08/89af2c20-01e5-11ec-be3c-7957cb2328c7"
+        width: 5120
+        height: 2880
+        isCached: true
 
 secured: "lE3YqGfQf/BtELx4gvDJ2TgY7800zdlY1KrluwS9QyiuHBD4oOFGdfky0tpuJbLHpDh+WI8Di+BTrCUg45dhz/FBgYwv5Hjmsd0m4rMk36jULDQh8L6E/pMI7NgTPXAMli/dmXjrsiaamlfZVkKjc4WDswvtzXzBVll2SU/70UPIeV/Y+XH8HTNxRctwaWSf6xc1LAlTCo7f6D4Hsu/TTnLeJxooykRy6Hr4yBFSs2RNa1r/RrvJ7sogRvBIW6Gn1LFRXDJc8vLDgS82FkD8THZ3wFUOoLeLoUiH8XuekIVft3Q6YI3qA2I572U9nVXRjwS+1NNhKPLm1TbqKLTjgz/wAmLYHhioRPPZQqPkYnYHwufzBLktpcW+VNY/PG7hwPobB6wjMRoVG2hQLyrR4h/GBV3dMYMWu1GCKlI4EpNgOQuo+4Cd1v5vXu/ILLFRy+gstuhOKpkgJJElF3iYgSwpxjiSYilH5Ow7dqcOrZU0besRs0GauiGRGbeksBnvkPX7P/avN6jrvYz1+T5Zhw==;tQledR3pB5jbSZA2qaqb3w=="
 ---

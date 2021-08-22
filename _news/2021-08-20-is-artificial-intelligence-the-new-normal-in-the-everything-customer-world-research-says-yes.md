@@ -6,8 +6,8 @@ publishedDateTime: 2021-08-19T19:50:00Z
 originalUrl: "https://www.avaya.com/blogs/archives/2021/08/ai_the_everything_customer/"
 webUrl: "https://www.avaya.com/blogs/archives/2021/08/ai_the_everything_customer/"
 type: article
-quality: 25
-heat: 25
+quality: 27
+heat: 27
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.avaya.com/blogs/images/ai_everything_customer.jpg"

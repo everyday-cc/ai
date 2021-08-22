@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/business/mg-motor-unveils-astor-with-person
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/mg-motor-unveils-astor-with-personal-ai-tool/article35986763.ece/amp/"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 615
     height: 384
     isCached: true
+
+related:
+  - title: "MG Astor to come with a personal AI assistant: All that you should know"
+    excerpt: "MG Motor India has revealed its upcoming Astor SUV. The upcoming MG SUV will come with a host of connected and smart technology. One of these will be a personal Artificial Intelligence (AI) guided assistant."
+    publishedDateTime: 2021-08-22T17:38:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/cars/mg-astor-to-come-with-a-personal-ai-assistant-all-that-you-should-know-41629609001381.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/cars/mg-astor-to-come-with-a-personal-ai-assistant-all-that-you-should-know/amp-41629609001381.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/mg-astor-to-come-with-a-personal-ai-assistant-all-that-you-should-know/amp-41629609001381.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 57
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2021/08/22/600x338/Astor_1629272183914_1629611790332.jpeg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "lso5QvpssJcbNuA3dYDmuXzFGyxEygeanBdjKRYz2D/jA5z2hRh5FSWtGu1fHzFAxYywqdnTrv8RaSoRzedam0/GJ0VZJKSbGISrpW9KW+RGaA/w8QSTRSh3VtIl580NXl0beQnHajgWiqQM/HCkVHfCg759/XlgMTdsGHjYMPfSd7LikLMVagbBbgguvD4SKt2QfL/jPdxfvE6RWy5b2/OAQAQ8g/8eL1v+jvbX6eM09zAfWtDXurTajuyysy7v0UZK5sZ/tiQb2CGF5r6asyUvO43RXqDmieNdIFrxjRCH0niiy6KJw1l85wkMSB0CsgHdyXiLj3z3ZD4qzIDhsoOYUugbmSt6xzgM2u6PataWvjsXG+pcotk8PZqSf3Yrx9EiWWJ7lPNs57o/m7s2KsBPraaCpSICdS++SGVhjxPivONSCS3bLPQSaQuwJmhe4bnKO41icb8cceqvF+bA0reW58qXSde8sBNxpjyv6aYKcoG6gsrUMi7Iw81WZcipgWvQPJS+C0xZFK7y1mLRmw==;VjuhEvQZ6q9cePSTghI1ng=="
 ---

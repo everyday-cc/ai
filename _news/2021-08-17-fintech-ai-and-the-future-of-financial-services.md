@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Facebook AI
 
 images:
   - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/GettyImages-1206796363_3.jpg.png?itok=w-C15RI0"

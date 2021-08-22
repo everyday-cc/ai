@@ -111,6 +111,22 @@ related:
         width: 390
         height: 220
         isCached: true
+  - title: "Artificial Intelligence in Oil and Gas Is Set To Experience Innovative Growth By 2027"
+    excerpt: "A new research report from the document repository of ResearchMoz offers detailed study of the Global Artificial Intelligence in Oil and Gas Market. The study presented in the report intends to help companies in the development or modification of their business expansion strategies using important information pertaining to the global Artificial Intelligence in Oil and Gas market."
+    publishedDateTime: 2021-08-19T15:04:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-oil-and-gas-is-set-to-experience-innovative-growth-by-2027/"
+    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-oil-and-gas-is-set-to-experience-innovative-growth-by-2027/"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-oil-and-gas-is-set-to-experience-innovative-growth-by-2027/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 50
+    images:
+      - url: "https://i.ibb.co/hgd8dJh/Researchmoz-us-378.jpg"
+        width: 632
+        height: 369
+        isCached: true
   - title: "Artificial Intelligence in Military Market Size, Share, Company Overview, Growth, Development and Forecast by 2027"
     excerpt: "A recent research report on the Global \"Artificial Intelligence in Military Market\" presents a complete overview"
     publishedDateTime: 2021-08-19T19:44:00Z
@@ -278,15 +294,6 @@ related:
         width: 612
         height: 408
         isCached: true
-  - title: "AI Infrastructure Market to Witness the Highest Growth"
-    excerpt: "The increasing need for hardware platforms with high computing power to run various AI software is a key factor fueling the growth of the AI infrastructure market. Machine learning technology held the largest share of AI infrastructure market in 2020 APAC is the host to a few of the fastest-growing and leading industrialized economies such as China,"
-    publishedDateTime: 2021-08-18T00:37:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_amd/ai-infrastructure-market-to-witness-the-highest-growth/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 19
   - title: "Global Big Data & Machine Learning in Telecom Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
     excerpt: "Pages Report] Check for Discount on Global Big Data & Machine Learning in Telecom Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Big Data & Machine Learning in Telecom market report"
     publishedDateTime: 2021-08-18T14:05:00Z

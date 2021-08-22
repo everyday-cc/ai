@@ -8,8 +8,8 @@ webUrl: "https://www.openpr.com/news/2358711/ai-infrastructure-market-demand-tre
 ampWebUrl: "https://www.openpr.com/amp/2358711/ai-infrastructure-market-demand-trend-key-players-cisco"
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2358711/ai-infrastructure-market-demand-trend-key-players-cisco"
 type: article
-quality: 44
-heat: 44
+quality: 46
+heat: 46
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://cdn.openpr.com/U/8/U818258353_g.jpg"
@@ -25,6 +26,6 @@ images:
     height: 400
     isCached: true
 
-secured: "VbY60lCDKystnGsKL6tTWb79/UxyrmclUVDlVpuMuiw+5mfPplIn8GYnHmDQbVHAUCpYFh5xe4Y7APjJyNFK+ECymBHThnlay2IXQ0JSEd9Myygb7AuRlLDuqgyIC7lScD5vVnKGF6WAoAfs9dF72cP73jzeSQ8KZMQ8zTiv3mOepenXMxx0FGXE6cWYhzn5S3Dsb+8EP1s8DBKsL2fl00ZKfztnRxY3bhx2XWlDsd3OspgJbZ9ekCUa47oxEnyzPyL5ghwwBb/LUIS73mjDIppCVtxqqvXeF47s0jmjtQk9I7x44YzX7SeJGp3WPWJriJnPd44CM1hu6lcfkLTR2ECImig2IJoMu2vEre+2tr4=;tNydMFaTJpEXJz8EDWw+Fw=="
+secured: "iPako3PKUovXlSr3kFRXoQ8YOiqWA1W8eujG31pnl13L/tXTF4ky7KjpZGqBdQC429gVt/seopVozIKbUH7OOWkdSxqeQhip46nes2narbdZoMVzbtxf+gBxrELuX2N5du3pTYMc54TzIQr4c1IRGxVCAqqw/etdFL92zMGCQNbkPcb6LXEIMAFkxQ25gNdJduKa1c4casgEIWbVQEQZSeqHPmxpvj+gFpDx5IthhN6Qg8idmSZH/ml2BbsrawzfxbGwae0TLJ1MDtGnJ/XVKJ4HA8cdRuBsgF1bSldxwuQpn1gFHO0KYvca+lyhjcsyiobUqoYeuwyaU/fB0/MPlmaq1Gp5mwLRbmMuHgEmR5aX0jvcyT6uSWq7Fb2yk0PxJ3ro6UbpldBryuFgpNrd/tQpZk/0rBuNL/noqmTIm3i2HVxHnVllsLg4WxdoS3sKhpEDsUyAH8rhUVaVauT2QuppE+YGj4hF0FqYg2Rl8YMfYKd46592V1QXYf6095so2VFpch1th+YT4d3J2t5w5w==;OkoW4TJrB0SrdLAP0Z4R6g=="
 ---
 

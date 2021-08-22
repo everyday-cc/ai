@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financemagnates.com/fintech/news/financial-data-platform
 cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/news/financial-data-platform-pngme-raises-15-million/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Pngme raises $15m for financial data infrastructure platform"
-    excerpt: "Pngme, a San Francisco-based firm that builds data infrastructure and out-of-the box machine learning capabilities for financial institutions and fintechs across sub-Saharan Africa, has raised $15 million in a Series A funding round led by Octopus Ventures."
-    publishedDateTime: 2021-08-17T23:25:00Z
-    webUrl: "https://www.finextra.com/newsarticle/38667/pngme-raises-15m-for-financial-data-infrastructure-platform"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/900fintech-africa.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "Africa: the fintech Pngme raises $15 million to continue its development on the African continent"
     excerpt: "PNGme, an African fintech that leverages AI to facilitate the collection and analysis of banking data PNGme is a US-based fintech with a presence in Nigeria as well as Kenya. It is developing a financial data infrastructure as well as a machine learning ..."
     publishedDateTime: 2021-08-19T09:34:00Z

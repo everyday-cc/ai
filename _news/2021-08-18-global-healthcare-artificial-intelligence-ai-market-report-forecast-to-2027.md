@@ -69,7 +69,7 @@ related:
     provider:
       name: MIT Technology Review
       domain: technologyreview.com
-    quality: 53
+    quality: 55
     images:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2021/08/Baidu_CDSS_1200_675.jpg?w=1200"
         width: 1200

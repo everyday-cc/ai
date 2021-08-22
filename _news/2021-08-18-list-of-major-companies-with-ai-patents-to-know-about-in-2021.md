@@ -33,7 +33,7 @@ related:
     provider:
       name: NewsWhip
       domain: newswhip.com
-    quality: 36
+    quality: 38
     images:
       - url: "https://www.newswhip.com/wp-content/uploads/2021/08/Linkedin-post-144.png"
         width: 1012

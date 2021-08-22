@@ -8,7 +8,7 @@ webUrl: "https://www.technologyreview.com/2021/08/20/1032358/from-health-care-to
 ampWebUrl: "https://www.technologyreview.com/2021/08/20/1032358/from-health-care-to-infrastructure-how-ai-is-changing-the-world-for-the-better/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/08/20/1032358/from-health-care-to-infrastructure-how-ai-is-changing-the-world-for-the-better/amp/"
 type: article
-quality: 53
+quality: 55
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2021/08/Baidu_CDSS_1200_675.jpg?w=1200"
