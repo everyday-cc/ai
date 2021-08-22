@@ -69,17 +69,6 @@ related:
         width: 390
         height: 220
         isCached: true
-  - title: "Machine Learning as a Service (MLaaS) Market 2021 to Witness Stunning Growth-Microsoft Corporation, IBM Corporation, Google LLC"
-    excerpt: "Market Research Report 2021-2026 published by Market Insights Reports is a significant source of keen information for business specialists. It furnishes the Machine Learning as a Service (MLaaS) business outline with development investigation and historical and futuristic cost analysis,"
-    publishedDateTime: 2021-08-17T16:47:00Z
-    webUrl: "https://www.openpr.com/news/2358161/machine-learning-as-a-service-mlaas-market-2021-to-witness"
-    ampWebUrl: "https://www.openpr.com/amp/2358161/machine-learning-as-a-service-mlaas-market-2021-to-witness"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2358161/machine-learning-as-a-service-mlaas-market-2021-to-witness"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 43
   - title: "Microsoft unwraps top secret cloud"
     excerpt: "Microsoft announced its top secret, air-gapped Azure cloud has received authorization to operate and are 'generally available' for national security workloads."
     publishedDateTime: 2021-08-17T20:06:00Z

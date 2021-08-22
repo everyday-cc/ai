@@ -205,7 +205,7 @@
       "originalUrl": "https://techcrunch.com/sponsor/beyond-limits/the-ai-advantages-for-healthcare-and-finance/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 151,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -250,6 +250,50 @@
       ]
     },
     {
+      "path": "_news/2021-08-18-closedloop-raises-34-million-to-infuse-data-science-into-healthcare.md",
+      "title": "ClosedLoop raises $34 million to infuse data science into healthcare",
+      "excerpt": "Series B financing for its healthcare-specific data science platform, bringing its total funding to $48 million. The company’s software combines machine learning with a library of healthcare-specific training features and model templates.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2021/08/18/closedloop-raises-34-million-infuse-data-science-healthcare/",
+      "originalUrl": "https://siliconangle.com/2021/08/18/closedloop-raises-34-million-infuse-data-science-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/sam-moqadam-2rrsfMN4hn8-unsplash.jpg",
+          "width": 6000,
+          "height": 4000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-18T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-08-18-innovating-with-artificial-intelligence.md",
       "title": "Innovating With Artificial Intelligence",
       "excerpt": "It’s been a while since I talked about artificial intelligence — mainly because those articles started to die down or I started reading the same thing over and over. Then other topics emerged within the markets and current events sort of shifted the conversation.",
@@ -258,7 +302,7 @@
       "originalUrl": "https://www.wealthdaily.com/articles/innovating-with-artificial-intelligence/99838",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -334,6 +378,40 @@
         "IBM AI",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-deep-6-ai-announces-release-of-trial-recommender.md",
+      "title": "Deep 6 AI Announces Release of Trial Recommender",
+      "excerpt": "Deep 6 AI today announced the addition of Trial Recommender to its industry-leading artificial intelligence (AI)-driven clinical trial acceleration platform. Addressing a major gap in traditional patient recruitment,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-deep-6-ai-announces-release-trial-recommender-/2021/08/17/9432271.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-deep-6-ai-announces-release-trial-recommender-/2021/08/17/9432271.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-17T06:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -1277,84 +1355,6 @@
       "topics": [
         "AI",
         "Machine Learning",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-how-fda-regulates-artificial-intelligence-in-medical-products.md",
-      "title": "How FDA Regulates Artificial Intelligence in Medical Products",
-      "excerpt": "Health care organizations are using artificial intelligence (AI)—which the U.S. Food and Drug Administration defines as “the science and engineering of making intelligent machines”—for a growing range of clinical,",
-      "sourceUrl": null,
-      "webUrl": "https://www.pewtrusts.org/research-and-analysis/issue-briefs/2021/08/how-fda-regulates-artificial-intelligence-in-medical-products",
-      "originalUrl": "https://www.pewtrusts.org/research-and-analysis/issue-briefs/2021/08/how-fda-regulates-artificial-intelligence-in-medical-products",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pewtrusts.org/-/media/post-launch-images/2021/08/gettyimages1039290390jpgmaster/16x9_m.jpg",
-          "width": 1820,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-05T12:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pew Charitable Trusts",
-        "domain": "pewtrusts.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-himss-2021-chooch-ai-automates-healthcare-with-computer-vision.md",
-      "title": "HIMSS 2021: Chooch AI Automates Healthcare With Computer Vision",
-      "excerpt": "HIMSS Global Health Conference & Exhibition 2021 8/10-12 2021] Chooch AI, the leading computer vision AI platform, today announced the availability of computer vision models that will efficiently support healthcare.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/08/05/9425075.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/08/05/9425075.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-05T07:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
         "AI in Healthcare"
       ]
     }

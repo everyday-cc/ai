@@ -38,20 +38,6 @@ related:
         width: 768
         height: 430
         isCached: true
-  - title: "Discovery Enhances Customer Experience Using Machine Learning"
-    excerpt: "From live TV to OTT streaming services to social media, we are consuming more content than ever before. The leading media content developers and distributors are constantly thinking of creative ways to personalize experiences and improve engagement."
-    publishedDateTime: 2021-08-17T15:18:00Z
-    webUrl: "https://www.forbes.com/sites/amazonwebservices/2021/08/17/discovery-enhances-customer-experience-using-machine-learning/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6116c9d6ee6b44b9b106b5a1%2F0x0.jpg"
-        width: 1200
-        height: 801
-        isCached: true
   - title: "How artificial intelligence is changing the face of beauty"
     excerpt: "From fragrance to skincare, AI is helping us to make smarter beauty choices Finding a new-season foundation or signature scent has long required a stroll through the beauty aisles of our favourite department stores."
     publishedDateTime: 2021-08-18T17:30:00Z

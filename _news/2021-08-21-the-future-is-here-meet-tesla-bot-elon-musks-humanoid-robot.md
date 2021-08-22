@@ -95,9 +95,9 @@ related:
   - title: "Tesla Bot: A concept humanoid robot embedded with Tesla's vehicle AI"
     excerpt: "At Tesla AI Day, the company's CEO Elon Musk unveiled a concept humanoid robot that will be powered by the AI currently embedded within Tesla's autonomous vehicles. Aptly named the Tesla Bot, details about the concept robot were limited,"
     publishedDateTime: 2021-08-20T02:15:00Z
-    webUrl: "https://www.zdnet.com/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
+    webUrl: "https://www.zdnet.com/index.php/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
+    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
     type: article
     provider:
       name: ZDNet
@@ -654,6 +654,22 @@ related:
         width: 1566
         height: 1280
         isCached: true
+  - title: "Tesla is building a humanoid robot based on self-driving technology"
+    excerpt: "Tesla boss Elon Musk says his electric vehicle company is building a humanoid robot. The South African tech entrepreneur revealed the news at Tesla’s ‘AI Day’, which was largely a presentation about the firm’s self-driving vehicle technology."
+    publishedDateTime: 2021-08-22T08:00:00Z
+    webUrl: "https://www.irishexaminer.com/motoring/arid-40363796.html"
+    ampWebUrl: "https://www.irishexaminer.com/motoring/arid-40363796.html?type=amp"
+    cdnAmpWebUrl: "https://www-irishexaminer-com.cdn.ampproject.org/c/s/www.irishexaminer.com/motoring/arid-40363796.html?type=amp"
+    type: article
+    provider:
+      name: Irish Examiner
+      domain: irishexaminer.com
+    quality: 76
+    images:
+      - url: "https://www.irishexaminer.com/cms_media/module_img/5229/2614661_1_googlediscover_047003fb-2870-4752-a495-e722e2ff407a.jpg.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Tesla reveals new plan to build robots"
     excerpt: "Tesla is now working on human-like robots. According to the company's website, the robots would be used for tasks that are considered \"unsafe, repetitive or boring.\" For the project, Tesla said it's searching for mechanical,"
     publishedDateTime: 2021-08-21T19:54:00Z
@@ -993,6 +1009,20 @@ related:
       - url: "https://greekreporter.com/wp-content/uploads/2021/08/Elon-Musk-Credit-JDLasica-creative-commons.jpg"
         width: 763
         height: 600
+        isCached: true
+  - title: "Elon Musk introduces ‘Tesla Bot’ humanoid robot"
+    excerpt: "Elon Musk, the CEO of Tesla Motors, announced that his electric vehicle company is taking a big step forward in Artificial Intelligence (AI) and is about to launch a humanoid robot prototype by 2022."
+    publishedDateTime: 2021-08-22T09:33:00Z
+    webUrl: "https://www.noypigeeks.com/tech-news/tesla-bot/"
+    type: article
+    provider:
+      name: NoypiGeeks
+      domain: noypigeeks.com
+    quality: 56
+    images:
+      - url: "https://www.noypigeeks.com/wp-content/uploads/2021/08/Tesla-Bot-Specs.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Tesla unveils a humanoid robot powered by its vehicle A.I called the Tesla Bot"
     excerpt: "While no physical robot has been shown off yet, Elon Musk unveiled a new humanoid robot called the Tesla Bot. According to Musk, the purpose of this robot is to eliminate dangerous, repetitive, and boring tasks and it uses the same artificial intelligence and autopilot cameras that Tesla uses in their vehicles."

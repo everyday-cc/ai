@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/08/18/democrats-ask-ftc-to-investigate
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/08/18/democrats-ask-ftc-to-investigate-teslas-self-driving-claims.html"
 type: article
 quality: 204
-heat: 424
+heat: 414
 published: true
 
 provider:
@@ -320,20 +320,6 @@ related:
       - url: "https://s1.econotimes.com/assets/uploads/20210819d898dbc0e5536ceb0_th_1024x0.jpeg"
         width: 640
         height: 420
-        isCached: true
-  - title: "What are the differences between Tesla’s Autopilot and Full Self-Driving features?"
-    excerpt: "Thinking about buying a Tesla but don’t understand all of the self-driving options? We’ve got you covered. When you think of electric vehicles, one of the first names to come to mind is always Tesla."
-    publishedDateTime: 2021-08-17T15:24:00Z
-    webUrl: "https://knowtechie.com/what-are-the-differences-between-teslas-autopilot-and-full-self-driving-features/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 33
-    images:
-      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2019/04/tesla-charging-station-1000x600.jpg"
-        width: 1000
-        height: 600
         isCached: true
   - title: "Two Senators Accuse Tesla Of Misleading Customers With Self-Driving Features, Request FTC Probe"
     excerpt: "Senators Richard Blumenthal and Edward J. Markey have sent a letter to the Chair of the Federal Trade Commission, Lina Khan, asking the organization to investigate Tesla for what they allege are deceptive business practices."

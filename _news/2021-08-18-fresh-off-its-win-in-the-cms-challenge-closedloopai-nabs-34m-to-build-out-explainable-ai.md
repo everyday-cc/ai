@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "ClosedLoop.ai Nets $34M In Series B Funding Round"
-    excerpt: "ClosedLoop.ai., a healthcare platform powered by artificial intelligence, on Tuesday (Aug. 17) announced it has raised $34 million in Series B funding."
-    publishedDateTime: 2021-08-17T16:09:00Z
-    webUrl: "https://www.pymnts.com/news/investment-tracker/2021/closedloop-ai-nets-34m-series-b-funding-round/"
-    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/closedloop-ai-nets-34m-series-b-funding-round/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/closedloop-ai-nets-34m-series-b-funding-round/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 57
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/08/healthcare-telehealth-5G-JPMorgan-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "ClosedLoop raises $34 million to infuse data science into healthcare"
     excerpt: "Series B financing for its healthcare-specific data science platform, bringing its total funding to $48 million. The company’s software combines machine learning with a library of healthcare-specific training features and model templates."
     publishedDateTime: 2021-08-18T15:07:00Z
@@ -67,20 +51,6 @@ related:
       - url: "https://www.mddionline.com/sites/mddionline.com/files/IMG_Aug172021at35252PM.jpg"
         width: 770
         height: 400
-        isCached: true
-  - title: "How transparent design helped a startup win CMS’ AI challenge — and $34M in funding"
-    excerpt: "ClosedLoop.ai, an Austin-based healthcare startup, raised new funding after being picked by CMS as the winner of its AI Health Outcomes Challenge. The company’s secret? Working with health systems to build algorithms that are explainable."
-    publishedDateTime: 2021-08-18T15:28:00Z
-    webUrl: "https://medcitynews.com/2021/08/how-transparent-design-helped-a-startup-win-cms-ai-challenge-and-34m-in-funding/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 31
-    images:
-      - url: "https://medcitynews.com/uploads/2021/08/Closedloop-founders-Dave-and-Andrew-smaller.jpg"
-        width: 1709
-        height: 1226
         isCached: true
 
 secured: "IrH+mmjsyH3lABqiTXn3GwIf8ovAF7FHdBee1ko6QgGYU0nm3IaIYPSBpLckGsht70OROTI7EVISM5DoSZVBjxp/wocLbo75ICeJvRt2wkPD4l+NH9oFYZaen44shyDAFwewWwKIgcdyGSRmxyFxL5jaZrAuLm+kBXLYpEEcz4XdAG/9SgMj7YMlUS22fXDr8H1ijFaZrp8cMHynjBkdB5HMYGm/fM1efKKBVadzTauZiY5mn4X9JtxDnPxxzcgfmpG0FJytWEztkA+w/Hvrze+CYqWh+gvovz5snJILnjfz8uExGm5PgoNgmvxeju0TX41gNpsf3vKL4gUwQyLdFXDKoGVjLgDIudS9HAiQ+YAP7b3i5LD3Ef2neEesye+JP5ZM0LPzZqPh93XODs2DKv4F4kcyZpjziPRySZOCfGGaJzn+aqM1PRSm0EGbN1lFjVxVsg2hfQAJw2e3wVnfYNZ3PsWN0DsyIw3xoTrAAHPifEw561aVIW307ooXgLk0+FZ/r2JLkVkzZ4B5kDbMZA==;ZG7o1A1KGB+3PKOd7clayg=="

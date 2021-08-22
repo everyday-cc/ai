@@ -37,22 +37,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "Biden’s Afghanistan Speech Yesterday Only Made Things Worse"
-    excerpt: "What was already a disastrous situation in Afghanistan only got worse with Joe Biden's speech yesterday, as he showed he isn't capable."
-    publishedDateTime: 2021-08-17T15:38:00Z
-    webUrl: "https://thehayride.com/2021/08/bidens-afghanistan-speech-yesterday-only-made-things-worse/"
-    ampWebUrl: "https://thehayride.com/2021/08/bidens-afghanistan-speech-yesterday-only-made-things-worse/?amp_markup=1"
-    cdnAmpWebUrl: "https://thehayride-com.cdn.ampproject.org/c/s/thehayride.com/2021/08/bidens-afghanistan-speech-yesterday-only-made-things-worse/?amp_markup=1"
-    type: article
-    provider:
-      name: The Hayride
-      domain: thehayride.com
-    quality: 44
-    images:
-      - url: "https://thehayride.com/wp-content/uploads/2021/08/kabul-straw-man.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Taliban captured US facial recognition and eye-scan database, reports say"
     excerpt: "A key database of the biometric information of Afghan allies who assisted U.S. and coalition forces may now be in the hands of Taliban militants who are seeking revenge. On Tuesday, the Intercept reported,"
     publishedDateTime: 2021-08-19T20:05:00Z

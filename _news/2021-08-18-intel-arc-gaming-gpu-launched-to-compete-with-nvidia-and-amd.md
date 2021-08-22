@@ -55,22 +55,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Intel announces high-performance consumer GPU brand Intel Arc"
-    excerpt: "Intel Arc – for discrete high-performance consumer GPUs along with accompanying software and services. The new brand is largely looking at gamers as its target end consumer. The first laptops and desktops on Intel Arc products are expected to be released in 2022."
-    publishedDateTime: 2021-08-17T15:07:00Z
-    webUrl: "https://www.financialexpress.com/industry/technology/intel-announces-high-performance-consumer-gpu-brand-intel-arc/2312689/"
-    ampWebUrl: "https://www.financialexpress.com/industry/technology/intel-announces-high-performance-consumer-gpu-brand-intel-arc/2312689/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/intel-announces-high-performance-consumer-gpu-brand-intel-arc/2312689/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
-    images:
-      - url: "https://images.financialexpress.com/2021/08/intel-1200.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Behold Alchemist! This is Intel’s first gaming GPU."
     excerpt: "Intel has been working to enter the high-end graphics card market to compete with Nvidia and AMD, and today those efforts get a name: Intel Arc. The earliest Arc products will be released in the first quarter of 2022 and will be based on a GPU codenamed Alchemist."
     publishedDateTime: 2021-08-18T07:27:00Z

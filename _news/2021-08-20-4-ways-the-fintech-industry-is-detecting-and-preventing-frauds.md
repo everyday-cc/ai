@@ -41,6 +41,20 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Arab Bank launches fintech accelerator in Egypt"
+    excerpt: "Arab Bank has launched the AB Accelerator in Egypt, a fintech-focused corporate acceleration programme. The accelerator, which"
+    publishedDateTime: 2021-08-22T09:15:00Z
+    webUrl: "https://www.wamda.com/2021/08/arab-bank-launches-fintech-accelerator-egypt"
+    type: article
+    provider:
+      name: wamda.com
+      domain: wamda.com
+    quality: 39
+    images:
+      - url: "https://cdn.wamda.com/feature-images/5f6a17f5130b65a.jpeg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Top Fintech Trends Transforming Peoples Lives"
     excerpt: "AI and ML have managed to retain their top positions in the FinTech trend for a long time. They have fuelled the rapid growth and development of new technologies in the FinTech industry. FREMONT, CA: The fintech industry is growing rapidly, and it is ..."
     publishedDateTime: 2021-08-20T12:40:00Z

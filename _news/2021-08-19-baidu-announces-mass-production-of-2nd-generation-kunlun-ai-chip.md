@@ -176,6 +176,20 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Baidu World 2021: Level 5 autonomous car and mass production of its AI chip announced"
+    excerpt: "During the Baidu World 2021 held on August 18, the Chinese technology giant unveiled its prototype autonomous vehicle. According to the firm, the car would have an autonomy of level 5 SAE, the highest level that exists."
+    publishedDateTime: 2021-08-20T13:54:00Z
+    webUrl: "https://www.actuia.com/english/baidu-world-2021-level-5-autonomous-car-and-mass-production-of-its-ai-chip-announced/"
+    type: article
+    provider:
+      name: Actu IA
+      domain: actuia.com
+    quality: 47
+    images:
+      - url: "https://www.actuia.com/wp-content/uploads/2021/08/Puce-et-Voiture-Autonome.jpg"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Baidu Announces Baidu Brain 7.0 and Production of 2nd Gen Kunlun AI Chip"
     excerpt: "Baidu today showcased its artificial intelligence technology with the launch of Baidu Brain 7.0, the start of mass production of its 2nd generation Kunlun AI chip, Kunlun II, and the demonstration of industrial applications using Baidu AI Cloud."
     publishedDateTime: 2021-08-19T13:30:00Z

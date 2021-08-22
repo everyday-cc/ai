@@ -63,17 +63,6 @@ related:
         width: 390
         height: 220
         isCached: true
-  - title: "Machine Learning as a Service (MLaaS) Market 2021 to Witness Stunning Growth-Microsoft Corporation, IBM Corporation, Google LLC"
-    excerpt: "Market Research Report 2021-2026 published by Market Insights Reports is a significant source of keen information for business specialists. It furnishes the Machine Learning as a Service (MLaaS) business outline with development investigation and historical and futuristic cost analysis,"
-    publishedDateTime: 2021-08-17T16:47:00Z
-    webUrl: "https://www.openpr.com/news/2358161/machine-learning-as-a-service-mlaas-market-2021-to-witness"
-    ampWebUrl: "https://www.openpr.com/amp/2358161/machine-learning-as-a-service-mlaas-market-2021-to-witness"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2358161/machine-learning-as-a-service-mlaas-market-2021-to-witness"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 43
   - title: "Cloud Natural Language Processing Market to Witness Massive Growth by Microsoft, Facebook, Google"
     excerpt: "This press release was orginally distributed by SBWire Edison, NJ — (SBWIRE) — 08/18/2021 — The latest study released on the Global Cloud Natural Language Processing Market by AMA Research evaluates market size,"
     publishedDateTime: 2021-08-18T13:57:00Z

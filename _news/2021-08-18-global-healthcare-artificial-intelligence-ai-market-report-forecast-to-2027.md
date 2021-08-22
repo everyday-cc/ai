@@ -36,22 +36,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "AI Communication Startup Drips Grows Healthcare Presence"
-    excerpt: "Drips, a conversational communications startup, is growing its presence in the healthcare industry by forming strategic partnerships."
-    publishedDateTime: 2021-08-17T15:30:00Z
-    webUrl: "https://www.pymnts.com/healthcare/2021/ai-communication-startup-drips-grows-healthcare-presence/"
-    ampWebUrl: "https://www.pymnts.com/healthcare/2021/ai-communication-startup-drips-grows-healthcare-presence/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/healthcare/2021/ai-communication-startup-drips-grows-healthcare-presence/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 74
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/08/AI-Drip-healthcare-texting-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "This company is pushing the boundaries in healthcare with AI"
     excerpt: "In a fast-paced environment, AI is a resource that never gets tired, never forgets, and can never be emotional."
     publishedDateTime: 2021-08-18T01:44:00Z

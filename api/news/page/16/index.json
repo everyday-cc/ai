@@ -2,6 +2,135 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-08-09-foundations-of-trustworthy-ai-guiding-the-workforce.md",
+      "title": "Foundations of trustworthy AI: Guiding the workforce",
+      "excerpt": "As an organization expands its use of AI, its teams should build individual AI solutions that are trustworthy from the start. This requires guiding the workforce so that everyone involved in creating the solutions understands the tenets of trustworthy AI, knows how to apply them, and makes them an integrated",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/08/trustworthy-ai-guiding-workforce/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/08/trustworthy-ai-guiding-workforce/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/08/blog_guide-workforce_2000x1000.jpg",
+          "width": 2000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-09T06:00:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-09-facteus-joins-snowflake-partner-network-helps-financial-services-organizations-safely-migrate-sensitive-data-to-the-snowflake-data-cloud.md",
+      "title": "Facteus Joins Snowflake Partner Network; Helps Financial Services Organizations Safely Migrate Sensitive Data to the Snowflake Data Cloud",
+      "excerpt": "Facteus, a leading provider of technology and services to safely unlock actionable insights within sensitive data, today announced it is now part of the Snowflake Partner Network, focusing on enabling financial services organizations to safely access the scale,",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/facteus-joins-snowflake-partner-network-helps-financial-services-organizations-safely-migrate-sensitive-data-to-the-snowflake-data-cloud/",
+      "originalUrl": "https://www.financialbuzz.com/facteus-joins-snowflake-partner-network-helps-financial-services-organizations-safely-migrate-sensitive-data-to-the-snowflake-data-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-09T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-09-googles-verily-opens-israel-rd-center-will-partner-with-hospitals-on-ai-in-healthcare.md",
+      "title": "Google’s Verily Opens Israel R&D Center, Will Partner With Hospitals On AI In Healthcare",
+      "excerpt": "The Verily center will focus on early research with Israel's Shaare Zedek hospital using an AI system to help detect colorectal cancer.",
+      "sourceUrl": null,
+      "webUrl": "https://nocamels.com/2021/08/google-verily-israel-rd-center-ai-healthcare/",
+      "originalUrl": "https://nocamels.com/2021/08/google-verily-israel-rd-center-ai-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/08/google-sign-alex-dudar-unsplash.jpg",
+          "width": 1915,
+          "height": 1133,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-09T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NoCamels - Israeli Innovation News",
+        "domain": "nocamels.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-09-seachange-enables-a-fully-migrated-cloud-video-delivery-platform-with-unique-analytics-and-engagement-services-on-amazon-web-services.md",
       "title": "SeaChange Enables a Fully Migrated Cloud Video Delivery Platform with Unique Analytics and Engagement Services on Amazon Web Services",
       "excerpt": "Now, with Amazon SageMaker, SeaChange customers will be able to easily deploy ML use cases like predictive maintenance, computer vision and predicting customer behaviors. \"SeaChange's StreamVid ...",
@@ -1034,144 +1163,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-08-your-nvidia-rtx-gpu-doesnt-just-play-games-it-helps-you-make-them-too.md",
-      "title": "Your Nvidia RTX GPU doesn’t just play games – it helps you make them too",
-      "excerpt": "If you’re not very familiar with PC building or components then you might not realize that Nvidia has other lines of graphics cards that are created for things outside of running demanding titles like Microsoft Flight Simulator,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/your-nvidia-rtx-gpu-doesnt-just-play-games-it-helps-you-make-them-too",
-      "originalUrl": "https://www.techradar.com/news/your-nvidia-rtx-gpu-doesnt-just-play-games-it-helps-you-make-them-too",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/bc6EGtACsoiAR8mvfJ8dxX-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/your-nvidia-rtx-gpu-doesnt-just-play-games-it-helps-you-make-them-too",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/your-nvidia-rtx-gpu-doesnt-just-play-games-it-helps-you-make-them-too",
-      "publishedDateTime": "2021-08-08T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-08-3-unstoppable-stocks-that-are-beating-warren-buffett-so-far-this-year.md",
-      "title": "3 Unstoppable Stocks That Are Beating Warren Buffett So Far This Year",
-      "excerpt": "There are quite a few stocks that are easily outgaining Berkshire and aren't among the conglomerate's holdings. Here are three unstoppable stocks that are beating Buffett so far this year. Image source:.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-unstoppable-stocks-that-are-beating-warren-buffett-so-far-this-year-2021-08-08",
-      "originalUrl": "https://www.nasdaq.com/articles/3-unstoppable-stocks-that-are-beating-warren-buffett-so-far-this-year-2021-08-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/3-unstoppable-stocks-that-are-beating-warren-buffett-so-far-this-year-2021-08-08?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-unstoppable-stocks-that-are-beating-warren-buffett-so-far-this-year-2021-08-08?amp",
-      "publishedDateTime": "2021-08-08T03:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-08-covid-has-changed-how-we-work-with-the-rise-of-ai-is-your-job-at-risk.md",
-      "title": "COVID Has Changed How We Work. With The Rise Of AI, Is Your Job At Risk?",
-      "excerpt": "By starting with a perspective on the potential risk (harm) of AI in a job, we can better understand the implications of how AI will affect specific jobs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/glenngow/2021/08/08/covid-has-changed-how-we-work-with-the-rise-of-ai-is-your-job-at-risk/",
-      "originalUrl": "https://www.forbes.com/sites/glenngow/2021/08/08/covid-has-changed-how-we-work-with-the-rise-of-ai-is-your-job-at-risk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610f2050ad1276be1f7b70ae%2F0x0.jpg",
-          "width": 1104,
-          "height": 844,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2021/08/08/covid-has-changed-how-we-work-with-the-rise-of-ai-is-your-job-at-risk/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2021/08/08/covid-has-changed-how-we-work-with-the-rise-of-ai-is-your-job-at-risk/amp/",
-      "publishedDateTime": "2021-08-08T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

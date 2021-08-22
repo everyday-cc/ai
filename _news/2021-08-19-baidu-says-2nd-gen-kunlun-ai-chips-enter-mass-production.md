@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2FJ0GK"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2FJ0GK"
 type: article
 quality: 104
-heat: 234
+heat: 244
 published: true
 
 provider:
@@ -170,6 +170,20 @@ related:
     images:
       - url: "https://www.enterpriseai.news/wp-content/uploads/2021/08/Baidu-logo-shutterstock-363519476_600x.jpg"
         width: 600
+        height: 400
+        isCached: true
+  - title: "Baidu World 2021: Level 5 autonomous car and mass production of its AI chip announced"
+    excerpt: "During the Baidu World 2021 held on August 18, the Chinese technology giant unveiled its prototype autonomous vehicle. According to the firm, the car would have an autonomy of level 5 SAE, the highest level that exists."
+    publishedDateTime: 2021-08-20T13:54:00Z
+    webUrl: "https://www.actuia.com/english/baidu-world-2021-level-5-autonomous-car-and-mass-production-of-its-ai-chip-announced/"
+    type: article
+    provider:
+      name: Actu IA
+      domain: actuia.com
+    quality: 47
+    images:
+      - url: "https://www.actuia.com/wp-content/uploads/2021/08/Puce-et-Voiture-Autonome.jpg"
+        width: 800
         height: 400
         isCached: true
   - title: "Baidu announces mass production of 2nd generation Kunlun AI chip"

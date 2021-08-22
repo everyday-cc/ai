@@ -71,20 +71,6 @@ related:
         width: 768
         height: 385
         isCached: true
-  - title: "Create Amazon SageMaker projects using third-party source control and Jenkins"
-    excerpt: "Launched at AWS re:Invent 2020, Amazon SageMaker Pipelines is the first purpose-built, easy-to-use continuous integration and continuous delivery (CI/CD) service for machine learning (ML). With Pipelines, you can create, automate, and manage end-to-end ML workflows at scale. You can integrate Pipelines"
-    publishedDateTime: 2021-08-17T16:43:10Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/create-amazon-sagemaker-projects-using-third-party-source-control-and-jenkins/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 86
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/12/ML-4590-image003-1242x630.png"
-        width: 1242
-        height: 630
-        isCached: true
 
 secured: "OOLvJvieSdKRuuqfM8sUYbK6spkkDdNJSxTet6T6DNuLKe9bUCOaVCvMovrk8qHhWlBEgct2yD9ZeEbTQBJnlH3fZKZhomlu6jf1a1sRZUgxLsj60Aqb85WsLnEPxX5wf1l21aJh5ygaadMYypvegYN6wAHzPMwgA2p3GaSZJ5gbZq9q6DskWh0FNbH/5h8rHExg198sdkWueVxK5M1O4LB5qKo/t6Y4eV+zivuYaq/nQiol5+9U8cWEgh5aHp5X5KGnZo71OElnXNyHppnifCKc6TCIeMYdjX7ryj3u/PxXNVTVn58tuluXJuBy7vPb+HQp7Gzj11Unz/Dfsz0ycpwe8kAEwkD9JZSWimiDNQ0=;++bsryCbgQF90VdltNqzGA=="
 ---

@@ -35,6 +35,20 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Arab Bank launches fintech accelerator in Egypt"
+    excerpt: "Arab Bank has launched the AB Accelerator in Egypt, a fintech-focused corporate acceleration programme. The accelerator, which"
+    publishedDateTime: 2021-08-22T09:15:00Z
+    webUrl: "https://www.wamda.com/2021/08/arab-bank-launches-fintech-accelerator-egypt"
+    type: article
+    provider:
+      name: wamda.com
+      domain: wamda.com
+    quality: 39
+    images:
+      - url: "https://cdn.wamda.com/feature-images/5f6a17f5130b65a.jpeg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "4 Ways the Fintech Industry is Detecting and Preventing Frauds"
     excerpt: "Digitization in the fintech industry is giving rise to financial fraud. It is essential to detect potential frauds and prevent them before any loss to the customer or the organization. Fremont, CA: Like all the industries,"
     publishedDateTime: 2021-08-20T00:00:00Z

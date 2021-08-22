@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcworld.com/article/3629402/intels-arc-gaming-gpu-price-
 cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3629402/intels-arc-gaming-gpu-price-specs-and-availability.amp.html"
 type: article
 quality: 104
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
     quality: 69
     images:
       - url: "https://images.idgesg.net/images/article/2021/08/tfn21_188_tfnep188_v1-100900097-large.3x2.jpg?auto=webp"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Intel announces high-performance consumer GPU brand Intel Arc"
-    excerpt: "Intel Arc – for discrete high-performance consumer GPUs along with accompanying software and services. The new brand is largely looking at gamers as its target end consumer. The first laptops and desktops on Intel Arc products are expected to be released in 2022."
-    publishedDateTime: 2021-08-17T15:07:00Z
-    webUrl: "https://www.financialexpress.com/industry/technology/intel-announces-high-performance-consumer-gpu-brand-intel-arc/2312689/"
-    ampWebUrl: "https://www.financialexpress.com/industry/technology/intel-announces-high-performance-consumer-gpu-brand-intel-arc/2312689/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/intel-announces-high-performance-consumer-gpu-brand-intel-arc/2312689/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
-    images:
-      - url: "https://images.financialexpress.com/2021/08/intel-1200.jpg"
         width: 1200
         height: 800
         isCached: true

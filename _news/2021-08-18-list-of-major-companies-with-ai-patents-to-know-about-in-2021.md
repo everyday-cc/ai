@@ -41,22 +41,6 @@ related:
         width: 300
         height: 228
         isCached: true
-  - title: "CCM Best Practices Survey Results – AI Users vs. Non-AI Users"
-    excerpt: "Macrosoft conducted a Customer Communications Management CCM best practices survey 584 people participated in the 21 question on line survey We believe this question is not only a bell weather of companies that are or are not on the leading"
-    publishedDateTime: 2021-08-17T15:03:00Z
-    webUrl: "https://www.openpr.com/news/2357959/ccm-best-practices-survey-results-ai-users-vs-non-ai-users"
-    ampWebUrl: "https://www.openpr.com/amp/2357959/ccm-best-practices-survey-results-ai-users-vs-non-ai-users"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2357959/ccm-best-practices-survey-results-ai-users-vs-non-ai-users"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 57
-    images:
-      - url: "https://cdn.openpr.com/U/8/U817555542_g.jpg"
-        width: 800
-        height: 420
-        isCached: true
   - title: "Novel AI blood testing technology can identify lung cancers with high accuracy"
     excerpt: "A novel artificial intelligence blood testing technology developed by researchers at the Johns Hopkins Kimmel Cancer Center was found to detect over 90% of lung cancers in samples from nearly 800 individuals with and without cancer."
     publishedDateTime: 2021-08-20T13:47:00Z

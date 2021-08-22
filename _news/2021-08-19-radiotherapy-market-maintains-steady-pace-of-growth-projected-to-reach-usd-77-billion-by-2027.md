@@ -286,17 +286,6 @@ related:
       name: fintechzoom
       domain: fintechzoom.com
     quality: 19
-  - title: "Search and Rescue Robots Market Size to Grow Substantially at 18.2% CAGR from 2020 to 2027 - Report by Market Research Future (MRFR)"
-    excerpt: "Search and Rescue Robots Market Overview: According to a comprehensive research report by Market Research Future (MRFR),"
-    publishedDateTime: 2021-08-17T15:43:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/08/g22538740/search-and-rescue-robots-market-size-to-grow-substantially-at-18-2-cagr-from-2020-to-2027-report-b"
-    ampWebUrl: "https://www.benzinga.com/amp/content/22538740"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22538740"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 8
   - title: "Artificial Intelligence in Drug Discovery Market Competitive Landscape Forecasts to 2027: Global Industry Growth, Share, Size, Trends"
     excerpt: "According to Reports and Data, the Artificial Intelligence in Drug Discovery Market was valued at USD 253.8 million in 2019 and is expected to reach USD 2,127.9 million by the year 2027, at a CAGR of 31."
     publishedDateTime: 2021-08-18T18:16:00Z
