@@ -57,20 +57,6 @@ related:
         width: 761
         height: 428
         isCached: true
-  - title: "Edible Arrangements grows business with Microsoft Azure"
-    excerpt: "Edible Arrangements is using Microsoft Azure Synapse Analytics to grow its business by getting insights into its retail operations, supply chain and inventory demands, helping it to make more informed business decisions."
-    publishedDateTime: 2021-08-17T11:36:00Z
-    webUrl: "https://www.technologyrecord.com/Article/edible-arrangements-grows-business-with-microsoft-azure-125408"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 54
-    images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10465/img-Edible-Arrangements_web.jpg"
-        width: 940
-        height: 443
-        isCached: true
   - title: "Microsoft unwraps top secret cloud"
     excerpt: "Microsoft announced its top secret, air-gapped Azure cloud has received authorization to operate and are 'generally available' for national security workloads."
     publishedDateTime: 2021-08-17T20:06:00Z
@@ -98,20 +84,6 @@ related:
       - url: "https://technuter.com/wp-content/uploads/2020/04/Avaya.jpg"
         width: 340
         height: 296
-        isCached: true
-  - title: "Avaya and Microsoft Announce Integration of Microsoft Azure Communication Services with Avaya OneCloudtm CPaaS"
-    excerpt: "Avaya , a global leader in solutions to enhance and simplify communications and collaboration, today announced a strategic relationship with Microsoft to create a powerful set of joint cloud communications solutions to define the future of"
-    publishedDateTime: 2021-08-17T12:07:00Z
-    webUrl: "https://www.lelezard.com/en/news-19954993.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 34
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
         isCached: true
 
 secured: "LtWt3dNSPwNj/VbLAflpFwQhPS+JUxfGfB/kKJD9R0TsmTq7nLtqRCcdPQc+5tjeJS1vylpMAukQ/5dZuV7+6j44oPFJGrIzoj/YZo6lNqOvurRyV7GMLsO4/pL2Psisd2G1BNNi6FCleF1XK18mSft8X1w91E1qHENZx23b5HT1l/A2dxgL9AbmZlR4cjt5dp9400HTd3bMLAq/hYIfZ6XdhDyitrSAsEmr4xo9qPANEM5RRuyAn/LGdN9rZcfYX92VnPjX95hj+PI4mBxVNpHWt61lhmhEVDrvRt4FcrEyKqvlm9veiOaBYGu4J9eHCKd9TfzXA5tMLU0N7YIMKqdgs9r4Y8cMgzB9VVINt3E=;tiG4/bPOC04qfPl/Q4R9MA=="

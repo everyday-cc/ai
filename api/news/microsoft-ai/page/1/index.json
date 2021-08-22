@@ -62,7 +62,7 @@
       "originalUrl": "https://www.zdnet.com/index.php/category/2025/index.php/article/new-windows-10-21h2-and-21h1-previews-arrive/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -149,7 +149,7 @@
       "originalUrl": "https://news.thewindowsclub.com/azure-government-top-secret-now-available-106117/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -193,7 +193,7 @@
       "originalUrl": "https://seekingalpha.com/news/3731423-avaya-integrates-microsoft-azure-capabilities-into-its-onecloud-cpaas",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -555,10 +555,10 @@
     {
       "path": "_news/2021-08-11-swarm-now-available-in-the-microsoft-azure-marketplace.md",
       "title": "SWARM Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "SWARM Engineering, a leader in food supply chain optimization, today announced its availability in the Microsoft Azure Marketplace, an",
+      "excerpt": "SWARM Engineering, a leader in food supply chain optimization, today announced its availability in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure.",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/swarm-now-available-in-the-microsoft-azure-marketplace-301352247.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/swarm-now-available-in-the-microsoft-azure-marketplace-301352247.html",
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/08/11/9428580.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/08/11/9428580.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -568,11 +568,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-11T05:33:00-07:00",
+      "publishedDateTime": "2021-08-11T05:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

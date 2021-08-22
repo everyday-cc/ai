@@ -57,20 +57,6 @@ related:
         width: 761
         height: 428
         isCached: true
-  - title: "Edible Arrangements grows business with Microsoft Azure"
-    excerpt: "Edible Arrangements is using Microsoft Azure Synapse Analytics to grow its business by getting insights into its retail operations, supply chain and inventory demands, helping it to make more informed business decisions."
-    publishedDateTime: 2021-08-17T11:36:00Z
-    webUrl: "https://www.technologyrecord.com/Article/edible-arrangements-grows-business-with-microsoft-azure-125408"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 54
-    images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10465/img-Edible-Arrangements_web.jpg"
-        width: 940
-        height: 443
-        isCached: true
   - title: "Integration of Microsoft Azure Communication Services with Avaya OneCloud CPaaS"
     excerpt: "Avaya has announced a strategic relationship with Microsoft to create a powerful set of joint cloud communications solutions to define the future of customer and employee experience.  Benefitting from the complementary strengths of both companies,"
     publishedDateTime: 2021-08-17T15:47:00Z
@@ -98,20 +84,6 @@ related:
       - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Cloud/topsecret_cloud.jpg"
         width: 760
         height: 368
-        isCached: true
-  - title: "Avaya and Microsoft Announce Integration of Microsoft Azure Communication Services with Avaya OneCloudtm CPaaS"
-    excerpt: "Avaya , a global leader in solutions to enhance and simplify communications and collaboration, today announced a strategic relationship with Microsoft to create a powerful set of joint cloud communications solutions to define the future of"
-    publishedDateTime: 2021-08-17T12:07:00Z
-    webUrl: "https://www.lelezard.com/en/news-19954993.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 34
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
         isCached: true
 
 secured: "duV/6r6BE6CYmDxajl19tX29glR1rgM5tb/V7/87PUqjQF2Qim3VLQQkyy7jzKXcoWCU5xIRbiHVjSUDTLYWxLwVNLcJucGdh4AE3M+ccL/a192n1M7wKQB5AKMeTzDu7O/zX8x3MwJBvijCTLRhqJgY05AgF9SY+nSUqOk0/eLgnM8W8l2lbIQgReRJE/PXwx/gJAVYkAwsNQEX/gISNoanVj1rCgK8mIlc5hDNmJptTj69x1T2P3VfU86Byn8o/9SG5vtBW1I7AUdZmIcSPJUogSOXAAFbKbEGs39LVawkcNh/eOMjVRBYsnzTbRv0Y4ZM8N4Fk6InrsKGhyzCuzqqimzQdoIuD8ffpOBSWwtYsvkXNY+hIT+a7FN64UVZmVoa+YSDACh+hWyJ3F2aotlagqtfkOmi3kqi4mPvCrTL/1MQPFoxDLUc7dC/yOdnMwl54xgJWI/S30ZARb0Z67Y6Ldyx0InOaVJdBXfYpH8bJugp4LtGRTz8bUTSKFuMObv6vEPIV4RCROlnWkX33g==;CLbdh9AHFCm0FdhxC29g+g=="

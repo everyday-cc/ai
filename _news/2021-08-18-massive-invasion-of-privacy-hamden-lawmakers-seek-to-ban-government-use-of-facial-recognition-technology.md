@@ -44,22 +44,6 @@ related:
         width: 640
         height: 425
         isCached: true
-  - title: "UK privacy advocates sound alarm on ‘dystopian’ live facial recognition technology used by police"
-    excerpt: "UK privacy and civil liberties campaigners say that the proposed changes to the code on the use of facial recognition systems by police leave a path for this technology to be abused by the state."
-    publishedDateTime: 2021-08-17T12:45:00Z
-    webUrl: "https://www.rt.com/uk/532293-uk-facial-recognition-concerns/"
-    ampWebUrl: "https://www.rt.com/uk/532293-uk-facial-recognition-concerns/amp/"
-    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/uk/532293-uk-facial-recognition-concerns/amp/"
-    type: article
-    provider:
-      name: RT
-      domain: rt.com
-    quality: 46
-    images:
-      - url: "https://cdni.rt.com/files/2021.08/xxl/611baefa203027116d5066cb.jpg"
-        width: 1240
-        height: 697
-        isCached: true
   - title: "New UK live facial recognition code proposed has potential for adverse effects"
     excerpt: "The proposed code states that any use of live facial recognition should quickly delete any unused biometric data collected."
     publishedDateTime: 2021-08-19T20:02:00Z

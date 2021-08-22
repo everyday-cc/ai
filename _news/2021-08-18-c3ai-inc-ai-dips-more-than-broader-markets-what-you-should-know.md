@@ -66,6 +66,20 @@ related:
         width: 1200
         height: 872
         isCached: true
+  - title: "Turkey sets national artificial intelligence (AI) strategy"
+    excerpt: "An announcement showed that Turkey has set a national artificial intelligence (AI) strategy.<br /> <br /> The 2021-2025 roadmaps showed six priorities"
+    publishedDateTime: 2021-08-22T05:27:00Z
+    webUrl: "https://menafn.com/1102655500/Turkey-sets-national-artificial-intelligence-AI-strategy"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 52
+    images:
+      - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_BusinessFinance_86.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "svUoYWV2rF4u1FqJryVzlaAvd9CceGiculuoz2vjVQ/JYzHDN1vZSdTMRipS0dOe6N22KW6gIfGfqvqbzlMZuxeBKi1RO4FL+7NwxVpcoegNjvu4AS205FfLoyB5cWUADO10u1ENfKwhSVFm3Wjxk4MKy+AJoxT9d2oXJODxHfDNF2sirZ76MG7Gkpw7yCvXhr9uRx7EyGT9ethG5NbFh8b9HVYZZQnjGepwGFqUgmF8Nv6akbIY/j7gXo3ibIxmYe8FQyPoq6fBKnicuQteg10v2EuDHrDVPDy6qCDpSDKnqy5M0iKaKkxEqc9NFyeMcBQfOWGDx4dub4Gq8cWLikpkkw8qFGhMbDsg5Kl7eRA=;yx51B8yxTjaKlnvM7i7hTQ=="
 ---

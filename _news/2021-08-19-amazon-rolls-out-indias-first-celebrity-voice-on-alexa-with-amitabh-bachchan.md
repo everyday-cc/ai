@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/08/18/amazon-rolls-out-indias-first-cele
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/18/amazon-rolls-out-indias-first-celebrity-voice-on-alexa-with-amitabh-bachchan/amp/"
 type: article
 quality: 71
-heat: 153
+heat: 151
 published: true
 
 provider:

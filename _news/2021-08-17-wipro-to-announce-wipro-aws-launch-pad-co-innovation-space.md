@@ -35,22 +35,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Wipro to announce Wipro AWS Launch Pad co-innovation space; Stock ends over 3% higher"
-    excerpt: "The center empowers Wipro Brazil in the development and showcasing of tailored offerings on Amazon Web Services (AWS) for clients throughout industries nationwide."
-    publishedDateTime: 2021-08-17T11:30:00Z
-    webUrl: "https://www.indiainfoline.com/article/news-top-story/wipro-to-announce-wipro-aws-launch-pad-co-innovation-space-stock-ends-over-3-higher-121081700639_1.html"
-    ampWebUrl: "https://www.indiainfoline.com/article-amp/news-top-story/wipro-to-announce-wipro-aws-launch-pad-co-innovation-space-stock-ends-over-3-higher-121081700639_1.html"
-    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-top-story/wipro-to-announce-wipro-aws-launch-pad-co-innovation-space-stock-ends-over-3-higher-121081700639_1.html"
-    type: article
-    provider:
-      name: India Infoline
-      domain: indiainfoline.com
-    quality: 52
-    images:
-      - url: "https://content.indiainfoline.com/_media/iifl/img/misc/2019-04/16/full/wipro-1555392535-06991350.jpg"
-        width: 350
-        height: 233
-        isCached: true
   - title: "Wipro to Announce Wipro AWS Launch Pad Co-Innovation Space"
     excerpt: "The center empowers Wipro Brazil in the development and showcasing of tailored offerings on Amazon Web Services (AWS) for clients throughout industries nationwide."
     publishedDateTime: 2021-08-17T18:33:00Z

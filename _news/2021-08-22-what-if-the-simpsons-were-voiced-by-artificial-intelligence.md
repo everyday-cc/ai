@@ -1,30 +1,30 @@
 ---
 category: news
-title: "What if ‘The Simpsons’ were voiced by artificial intelligence?"
-excerpt: "The emergence of deepfake technology could well upend the entertainment industry. This technology, which allows for the creation of ‘hijacked” videos by realistically modifying faces and reproducing voices thanks to artificial intelligence,"
-publishedDateTime: 2021-08-21T23:34:00Z
-originalUrl: "https://www.malaymail.com/news/showbiz/2021/08/22/what-if-the-simpsons-were-voiced-by-artificial-intelligence/1999483"
-webUrl: "https://www.malaymail.com/news/showbiz/2021/08/22/what-if-the-simpsons-were-voiced-by-artificial-intelligence/1999483"
-ampWebUrl: "https://www.malaymail.com/amp/news/showbiz/2021/08/22/what-if-the-simpsons-were-voiced-by-artificial-intelligence/1999483"
-cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/showbiz/2021/08/22/what-if-the-simpsons-were-voiced-by-artificial-intelligence/1999483"
+title: "What if 'The Simpsons' Were Voiced by Artificial Intelligence?"
+excerpt: "With more than 30 years of archived voices of its characters, 'The Simpsons' could represent a kind of laboratory for the development of artificial intelligence-powered synthetic voices."
+publishedDateTime: 2021-08-22T04:07:00Z
+originalUrl: "https://www.news18.com/news/buzz/what-if-the-simpsons-were-voiced-by-artificial-intelligence-4113278.html"
+webUrl: "https://www.news18.com/news/buzz/what-if-the-simpsons-were-voiced-by-artificial-intelligence-4113278.html"
+ampWebUrl: "https://www.news18.com/amp/news/buzz/what-if-the-simpsons-were-voiced-by-artificial-intelligence-4113278.html"
+cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/buzz/what-if-the-simpsons-were-voiced-by-artificial-intelligence-4113278.html"
 type: article
 quality: 57
 heat: 57
 published: false
 
 provider:
-  name: malaymail
-  domain: malaymail.com
+  name: CNN-News18
+  domain: news18.com
 
 topics:
   - AI
 
 images:
-  - url: "https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-08/les_simpson_20210821-seo.jpg"
-    width: 1200
-    height: 630
+  - url: "https://images.news18.com/ibnlive/uploads/2021/08/the-simpsons-162960523616x9.jpg"
+    width: 1600
+    height: 900
     isCached: true
 
-secured: "mUESxULIWPaodwLqpJHvo8veNX449dkPG6lj0X8Bu3rhHTr1hijUiPKnDZ39AP7+rdkoJo+rkb10OoOgloZW+TwBR4Sz61vj/7RjYPZ8trb/SOTagkDb9ZWmNLyx70YoXw31utCl1z8sY/zLk4juJxCnsRVsiS2esc2Yg2GO6pinncb0iizkaP0QmZpiK62IF/vx0VJUWi+H9g8RHUs6GdbVb2TBx3amso+dS11d1n6fyINzk0WbTEGM8sEvLJlxVA6vrngMCI+IUga+f6OhSIfxRAeEuN2sazLtJ4immeYdNGS4zz5PL083fceB1Uw1j9wqNMBEvYyseo1KKpFV/ic73EkibJq+YPE8avuCsxM=;gam9Rftmbz7MFa4q5Fp5RA=="
+secured: "ZirMbaH4rd2IvdWn9YuVk4lrgT85IWgqJOFleodHoBZ37RS72imXcWTS2RJnMY1LJpygtnAnMpOw7xd4cKfdkTaZyTe8B25r4ruVqvM5y4YXQ1iJ+vz4mXudetdIe20y/b2jBImR9BHEZcQqZrhZZDv971sh0lep9RXByVh07IF1wFdxgRUrGYgXhKvn7cr/cmJTRuGmVdMeQS8OXt/qURO5SaCw7phOFY83xjabwRHtatVcQSm9a/v/8/eITd6mUIFMWqa9M6qjRTC4euyQishYzW++52uu//FWCJ6xvRRctCm7KXoUMOy4FpGPWFepuwKCwaM+yrUU0lW3WaMhRTD5JLf57iymv842qixbfM4=;m8AN+khVZgBnRMSOx0Eaww=="
 ---
 

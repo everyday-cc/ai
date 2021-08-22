@@ -9,7 +9,7 @@ ampWebUrl: "https://news.thewindowsclub.com/azure-government-top-secret-now-avai
 cdnAmpWebUrl: "https://news-thewindowsclub-com.cdn.ampproject.org/c/s/news.thewindowsclub.com/azure-government-top-secret-now-available-106117/?amp"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 700
     height: 395
     isCached: true
-
-related:
-  - title: "Microsoft launches Azure Government Top Secret for US national security contracts"
-    excerpt: "Microsoft has made 'Azure Government Top Secret' generally available, and can now bid for US government contracts with top-secret data hosting requirements. The company has long offered 'Government' and 'Government Secret' services,"
-    publishedDateTime: 2021-08-17T12:29:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-launches-azure-government-top-secret-for-us-national-security-contracts/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 66
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/MicrosoftAzureClippySoldier.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "JVpvFsdt9iBjPc0J5W/2qoiTIk9EhqETNE8PqBYQaaKwijlWg+7FmIt83jAlTJXbE7sA0My/Aw/D42Qa/dRlo6EdrT1JAbsX221tvW51GmJqqmBu7ZCL4cNjngHAAlLUnsHi0Dn7P6aUhRL6xuhw7i59pDFZ4N0f1i7j63VURqkpkNviN6swFYLPx9DjS0grfFct/JaNP2+Qi1aNtvl9S1crarhsKcwtqkZGdLn+/xLN543HIYpC3kh+bN7XhnTYlMdMXG4iRUzeFP3BvEZTLhvH86qIWw8lIegJf7oa1wNf/9NL3GI8vjGDY9zEclkcGASDd/dS+Qqg1xOisuFmuTgi3LDbSfvdgkzAWjZJu+S5M5OqwMppN+YT0Zyr7cUjyFY86JRHdu3mvZCpKZ2AIAf/uKLYSr0P1q+coifWa87tXhWyBcbXj7McqOU+azd1AW+nBVc9b9AlVooFmDAJW9hToM4lTZlIaAP/abfQyKHrsm1mwZ2riwYM3xT8dHV90VIIJw3yVk6OLhWOaU+7aQ==;3762VNZKi5Zxos3n3h9WTw=="
 ---

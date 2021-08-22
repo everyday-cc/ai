@@ -3,10 +3,10 @@ category: news
 title: "Tesla Bot: A concept humanoid robot embedded with Tesla's vehicle AI"
 excerpt: "At Tesla AI Day, the company's CEO Elon Musk unveiled a concept humanoid robot that will be powered by the AI currently embedded within Tesla's autonomous vehicles. Aptly named the Tesla Bot, details about the concept robot were limited,"
 publishedDateTime: 2021-08-20T02:15:00Z
-originalUrl: "https://www.zdnet.com/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
-webUrl: "https://www.zdnet.com/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
+originalUrl: "https://www.zdnet.com/index.php/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
+webUrl: "https://www.zdnet.com/index.php/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
+ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
 type: article
 quality: 121
 heat: -1
@@ -21,9 +21,9 @@ provider:
       height: 50
 
 topics:
-  - AI in Robotics
   - AI
   - AI in Autos
+  - AI in Robotics
 
 images:
   - url: "https://www.zdnet.com/a/hub/i/2021/08/20/c53f20ad-f148-4044-a3eb-0929d3675012/tesla.png"
@@ -255,6 +255,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611fdf470f5f95efd0682f84%2F0x0.jpg"
         width: 1200
         height: 851
+        isCached: true
+  - title: "No one knows when Tesla Bot will arrive. Here are robots you can experience now"
+    excerpt: "Tesla CEO Elon Musk spun up his attention machine Thursday, pulling the wraps off a humanoid robot that uses artificial intelligence to take over mundane tasks for people. The Tesla Bot will sport autopilot cameras and an information display instead of a face."
+    publishedDateTime: 2021-08-21T00:37:00Z
+    webUrl: "https://www.cnet.com/home/smart-home/no-one-knows-when-tesla-bot-will-arrive-here-are-robots-you-can-experience-right-now/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/no-one-knows-when-tesla-bot-will-arrive-here-are-robots-you-can-experience-right-now/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/no-one-knows-when-tesla-bot-will-arrive-here-are-robots-you-can-experience-right-now/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 102
+    images:
+      - url: "https://www.cnet.com/a/img/ATEwHnq0NEOC0lwzeecqEmUMj4A=/1200x630/right/top/2018/05/11/15033206-03a9-43e7-9afe-71dca6018657/20180511-boston-dynamics-spotmini-sideways-01.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Tesla is working on an AI-powered humanoid robot"
     excerpt: "Tesla is building a humanoid robot simply called the Tesla Bot, Elon Musk has revealed at the automaker's (and, perhaps, soon-to-be-robotmaker's) AI Day event. It's intended to be friendly, he said, and be slow and weak enough that you can outrun and overpower it — you know,"
@@ -1125,6 +1141,6 @@ related:
         height: 445
         isCached: true
 
-secured: "njR7WJlULvcow+FLWNMx3dL4XjBgZun/oFH9uzU1KOW1cAu88d4gaRGKit9Xm6dC0MfWe/GFoEF7+Scc9XSR7qbsy4wOguIYoyWGdJRKJ+i2TZeQTRqa99XfVdpSEGPm7UW+KRAIQv2GsFjEBDMvCvWttpJl62L4x5Sn0S/Tn7mMkBE3fKK1brY36HX2E3bHronh8C2r8SVeFZL8+TGgPuib6loj0T40IhNNg4La5YxYnNXFLfUmyqjV9ee0JW/z8RwqROJQuddTkazh8fufr0Wuw+WIvcuc28803eQMVHZM+3iCuKRdpZnLaBEO3OkXCQQhAjsDw/2hYxYz6PIt3QC21VzkN3g6p0HJ1GwFlHQ=;hZPdduT2sZ7krd8KLKE/uQ=="
+secured: "WBvTrJMO+y5sNpgfNUTEzu/ylsibR+wVatJ1lIQrKSNqL6Oqb42fa2NM8Idl20FwOdCtM8AYETW2NFCY7geqNHtQrROEq8WsY1I06TtipfaFsXIXgskR+Omi1260Io2uCXvdfn2Kq2DmOC3+GKmDE80axPESFpXcVi8O2YGs3SG1lSp+KSQYVXf6mXjOp6iAMfb0zzoWZ7V21LSulCkGQoYhxs6YXH04o8sqZS1LUdyTRxjk3cl5BDHCQXAewjdHWDcRzjnwxTeCY7Vwb+hW/5QuB8UjCj4Ezso0s7syBF3u2NyDRnGrMC+hvxyO2aAyScALIMeR/du/ifyZgTT14b9431SdR8cbjlOFNbE5OTU=;tBL8k02qAvgJVrTuZnj9lA=="
 ---
 

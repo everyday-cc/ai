@@ -49,6 +49,20 @@ related:
         width: 300
         height: 400
         isCached: true
+  - title: "Top Fintech Trends Transforming Peoples Lives"
+    excerpt: "AI and ML have managed to retain their top positions in the FinTech trend for a long time. They have fuelled the rapid growth and development of new technologies in the FinTech industry. FREMONT, CA: The fintech industry is growing rapidly, and it is ..."
+    publishedDateTime: 2021-08-20T12:40:00Z
+    webUrl: "https://www.cioapplications.com/news/top-fintech-trends-transforming-peoples-lives-nid-8324.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 24
+    images:
+      - url: "https://www.cioapplications.com/uploaded_images/magazine_img/itqtp300400.jpg"
+        width: 300
+        height: 400
+        isCached: true
 
 secured: "4JBC0pQXq7evaV68qKI7Mzz9Hya9JqanjA/1ec1rRaLEaPXjZhzHPu8EL6N/AfzVGm91CCl9aKQkZVs0Eriye60efuvQ0LTLcgTPbxD3QQRtbSPPEtytX7dR+xfcEYGOvhmIrb0LX50ZasFgTkwC0kwXQO00qG+vXCTI2U+bGSKFMjzQuxONTTOz71kOz/HM2f3rXM84bkx2u4tIDAKXVUlBiuoo8U+1c38ydqHg5zu2B6I0daVUg96jA+SDgatDDw5aR4kXkKKb0rpiZPPAzWhuFXkB8MvqwiizwN4nW+RyErHDp4/XJtjuEeOTzlk0QzQ0knyGbCpmCSEbC0yavh5n1UMXkAclkotF9Jy3rGQuO/Rfz0Q++0X2AvjduANJNKg9Ux1R4kJYYLw1OZNdae1hVOKMDRxWaGzgDbe6kP46towwb1F8hREj67ncCml2i58yF/SwsmDN760RvSsGNErzbAsngiBG0JRUbtPUdne0mthr0lKVE2TiVHOtxynkeQcisDX5A2/JVy8btl8mGA==;tNFvw+jJ0ybG9cn+5cd5Eg=="
 ---

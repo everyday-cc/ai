@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/08/19/world/asia/taliban-foreign-recogn
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/19/world/asia/taliban-foreign-recognition.amp.html"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

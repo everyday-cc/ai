@@ -9,7 +9,7 @@ ampWebUrl: "https://seekingalpha.com/amp/news/3731423-avaya-integrates-microsoft
 cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3731423-avaya-integrates-microsoft-azure-capabilities-into-its-onecloud-cpaas"
 type: article
 quality: 74
-heat: 134
+heat: 114
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://lh3.googleusercontent.com/z5OfrBnxum0G4sy1X-he2-kNZSrtFrbC1noY8PBCsOI-QuFuuqPWFTS3PIh2jMLJhgZxGuuNexVbC4vvC-rzZ1M=w816-h428"
         width: 761
         height: 428
-        isCached: true
-  - title: "Edible Arrangements grows business with Microsoft Azure"
-    excerpt: "Edible Arrangements is using Microsoft Azure Synapse Analytics to grow its business by getting insights into its retail operations, supply chain and inventory demands, helping it to make more informed business decisions."
-    publishedDateTime: 2021-08-17T11:36:00Z
-    webUrl: "https://www.technologyrecord.com/Article/edible-arrangements-grows-business-with-microsoft-azure-125408"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 54
-    images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10465/img-Edible-Arrangements_web.jpg"
-        width: 940
-        height: 443
         isCached: true
   - title: "Integration of Microsoft Azure Communication Services with Avaya OneCloud CPaaS"
     excerpt: "Avaya has announced a strategic relationship with Microsoft to create a powerful set of joint cloud communications solutions to define the future of customer and employee experience.  Benefitting from the complementary strengths of both companies,"
@@ -98,20 +84,6 @@ related:
       - url: "https://technuter.com/wp-content/uploads/2020/04/Avaya.jpg"
         width: 340
         height: 296
-        isCached: true
-  - title: "Avaya and Microsoft Announce Integration of Microsoft Azure Communication Services with Avaya OneCloudtm CPaaS"
-    excerpt: "Avaya , a global leader in solutions to enhance and simplify communications and collaboration, today announced a strategic relationship with Microsoft to create a powerful set of joint cloud communications solutions to define the future of"
-    publishedDateTime: 2021-08-17T12:07:00Z
-    webUrl: "https://www.lelezard.com/en/news-19954993.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 34
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
         isCached: true
 
 secured: "uudqrmFzqS8XMLEnNx3CVFaF9SLa/BvKN69H7nEDNJ7hsvCb1WOv7j8p75ReLrR3ERxvqBQNE8cseZSpgMWFoNzL7aoIpVmVgPBvbV1OAnuzwrp3NZsg611e+GG/BIWWGVZl9GDxcN32hjDPcu7P3RtnetNFgxhrpx91sq2kmzBJG3HvqsxBbfAzEx2JkBYt7g1lThsZpg2DXbM+FB6VFETOM6FczV28e6Yh4dRYKhRs4+WNa2bJm5iE2U4JvZ2yB6UllMnI92jW/Bq/56m2fyfJzRFzcN2N0f3c3Hmg8D7DeZbMwydGFlbHBRnfI0WOQ9LqMDISSunsE4hXGbu2NlUBgIqX5k74LciXqE+IQOA=;gREfDaOSnQVP6GX2siRi0w=="

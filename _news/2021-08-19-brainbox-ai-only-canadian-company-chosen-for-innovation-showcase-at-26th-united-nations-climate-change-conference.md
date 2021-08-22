@@ -36,15 +36,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "BrainBox AI Initializes Global Monitoring Network"
-    excerpt: "Centers in Montreal, Dublin and Sydney enable 24/7 supervision of leading autonomous AI-powered energy sustainability solutionMONTREAL, Aug. 17,"
-    publishedDateTime: 2021-08-17T13:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/brainbox-ai-initializes-global-monitoring-network-1030737593"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
 
 secured: "UQtKA2UvOr5HNDVizU6KJelX1IeXn3QzLcO6SJTJQyBg6AzRrzc3tpzAq9mSTfR3sDnVhsWWIf8WBj56lOBd3U52kBqSzMvp7+cPGBMxnF8KSlttwryKrPKMD6nmEpAq0BSjHuMCvPVupwteGzZrqE0MjuDJObwobES7zqOZ8xDkMHNLzHAuG6+Or927Ws+0YdXFBJV58iQXMrWmLbjT+iSPQ04lnuElxfJaor+2wU4LcKT4/3xdxF0pqSJA1VDBTJZpep6MLFtsfADxdIKsDg2z1fek6lvAwqJbN4JaffB/rtY+ZV/K5P8jSP90M425H/WHnjMENXMgTP7M5dtDsBYRoz7IBQSNmEmYH72AH5U=;zS/PCgATmMTNP90fqQbIBA=="
 ---

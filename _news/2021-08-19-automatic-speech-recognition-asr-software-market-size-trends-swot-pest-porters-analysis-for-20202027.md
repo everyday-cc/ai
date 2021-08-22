@@ -110,20 +110,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market Size & Share by Sales Revenue, Demands, Growth Factors and Emerging Trends by 2027"
-    excerpt: "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue"
-    publishedDateTime: 2021-08-17T11:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-share-by-sales-revenue-demands-growth-factors-and-emerging-trends-by-2027-2021-08-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Radiotherapy Market Maintains Steady Pace of Growth- Projected to reach USD 7.7 billion by 2027"
     excerpt: "A recent study conducted by the strategic consulting and market research firm BlueWeave Consulting revealed that the global radiotherapy market was worth USD 5.7 billion in the year 2020. The market is estimated to grow at a CAGR of 4."
     publishedDateTime: 2021-08-19T09:14:00Z
@@ -155,6 +141,20 @@ related:
       - url: "https://manometcurrent.com/wp-content/uploads/2021/07/Enterprise-Mobility-in-Energy-Sector-Market-390x220.jpg"
         width: 390
         height: 220
+        isCached: true
+  - title: "Artificial Intelligence for Edge Devices Market Analysis, Segments, Top Key Players, Drivers and Trends to 2025"
+    excerpt: "The research report on ‘Artificial Intelligence for Edge Devices Market’ now added by Market Study Report, offers"
+    publishedDateTime: 2021-08-17T17:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-market-analysis-segments-top-key-players-drivers-and-trends-to-2025-2021-08-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Computer Vision Software Market 2021-2030 By Strategic Imperatives for Success and Growth Analysis"
     excerpt: "A new informative report titled as Global Computer Vision Software Market Report 2021 by Key Players Types Applications Countries Market Size Forecast to 2030 has recently published by Absolute Markets Insights to its huge database which helps to shape the"
@@ -245,6 +245,22 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 20
+  - title: "Cognitive Computing Market Size Analysis, DROT, PEST, Porter’s, Region & Country Forecast Till 2027 | Reports and Data"
+    excerpt: "The global cognitive computing market is forecast to reach USD 475.24 Billion by 2026, according to a new report by Reports and Data. The cognitive computing technology derives the answers and works like the human brains."
+    publishedDateTime: 2021-08-20T05:02:00Z
+    webUrl: "https://manometcurrent.com/cognitive-computing-market-size-analysis-drot-pest-porters-region-country-forecast-till-2027-reports-and-data/"
+    ampWebUrl: "https://manometcurrent.com/cognitive-computing-market-size-analysis-drot-pest-porters-region-country-forecast-till-2027-reports-and-data/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/cognitive-computing-market-size-analysis-drot-pest-porters-region-country-forecast-till-2027-reports-and-data/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 20
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/14-77.jpg"
+        width: 750
+        height: 350
+        isCached: true
   - title: "AI Drug Discovery Market Size & Share, 2021 Movements by Latest Trend Analysis, Progression Status, Revenue Expectation to 2026, Research Report"
     excerpt: "AI Drug Discovery Market is fueled by various factors, according to a detailed assessment explained in the report. This study shows how important in-depth analysis should be, and how it greatly affects the quality of information provided to the readers."
     publishedDateTime: 2021-08-21T03:36:00Z

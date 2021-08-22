@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Qualcomm readies 5G and AI drone platform"
-    excerpt: "Qualcomm is unveiling its QRB5165 processor platform that enables aerial drones to tap both 5G and AI technologies."
-    publishedDateTime: 2021-08-17T12:00:00Z
-    webUrl: "https://venturebeat.com/2021/08/17/qualcomm-readies-5g-and-ai-drone-platform/"
-    ampWebUrl: "https://venturebeat.com/2021/08/17/qualcomm-readies-5g-and-ai-drone-platform/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/17/qualcomm-readies-5g-and-ai-drone-platform/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/08/qualcomm-drone-Flight-RB5-Image-1.jpg?w=1200&strip=all"
-        width: 1200
-        height: 577
-        isCached: true
   - title: "Qualcomm launches 5G, AI-enabled drone platform"
     excerpt: "The Qualcomm Flight RB5 5G platform accelerates and scales development for drone manufacturers to deliver powerful enterprise and industrial 5G drones."
     publishedDateTime: 2021-08-17T19:37:00Z
@@ -139,15 +123,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "ModalAI Serves as Distributor for Qualcomm's World First 5G and AI-Enabled Drone Platform and Reference Design"
-    excerpt: "ModalAI today announced it will be the manufacturer and distributor of Qualcomm ( News - Alert) Technologies' world first 5G and AI-enabled drone platform and reference design, the Qualcomm Flight™ RB5 5G Platform,"
-    publishedDateTime: 2021-08-17T13:35:00Z
-    webUrl: "https://www.mobilitytechzone.com/lte/news/2021/08/17/9431965.htm"
-    type: article
-    provider:
-      name: Mobility Techzone
-      domain: mobilitytechzone.com
-    quality: 0
 
 secured: "vBg8iBj4upBsP37MDKENaFAqxo2Fvaeh9TXlXc6xj4tszrp3ov5/cXCN7QvaYyIGZeZrN62B7Za77pR3pFwbzug3X9NrDRMeKEt69qRuooJmIYdymy2GL/NV8KeC/7WCOuUUMkU43k3m+NS2MIiqb2/iMxQiceGmVvveSMatpmMYH+M2YBU6kTHc6NxzfVPavJnB5Gf7aPc27Zvd8oM4TSIP94HkjKSd2R8zA2dDa1pF5SAs3kdmh15E7C+2GY7haT73DECJLhw5Fbc8QDTK7qD7QDaM4r1kz/vOfRiTdVWHIAD2Qn6TnbsGps+l90tiVN3SxIRH+5cEHrTop5vGZtvmlrjyUXldqKFJdICDNNc=;N/79jOx62HnUMUezReIQ8A=="
 ---

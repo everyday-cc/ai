@@ -25,63 +25,45 @@ images:
     isCached: true
 
 related:
-  - title: "Hopper raises $170M at $3.5B+ valuation as travel surges and its fintech tools help offset variant concerns"
-    excerpt: "Travel tech company Hopper has raised a $170 million Series G, the company said today. Astute observers may recognize the number — that’s the same amount it raised in a Series F round that closed earlier this year."
-    publishedDateTime: 2021-08-17T11:30:00Z
-    webUrl: "https://techcrunch.com/2021/08/17/hopper-raises-170m-on-3-5b-valuation-as-travel-surges-and-its-fintech-tools-help-offset-variant-concerns/"
-    ampWebUrl: "https://techcrunch.com/2021/08/17/hopper-raises-170m-on-3-5b-valuation-as-travel-surges-and-its-fintech-tools-help-offset-variant-concerns/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/17/hopper-raises-170m-on-3-5b-valuation-as-travel-surges-and-its-fintech-tools-help-offset-variant-concerns/amp/"
+  - title: "FinTech SPAC Activity Heats Up"
+    excerpt: "In that filing, TG Venture said technologies under consideration for business combinations will include AI, blockchain and other advances. The filing notes, “FinTech is disruptive to our life every day. The power dynamics in the payments industry are ..."
+    publishedDateTime: 2021-08-20T15:15:00Z
+    webUrl: "https://www.pymnts.com/news/ipo/2021/fintech-spac-activity-heats-up/"
+    ampWebUrl: "https://www.pymnts.com/news/ipo/2021/fintech-spac-activity-heats-up/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/ipo/2021/fintech-spac-activity-heats-up/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 171
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/08/PR-General-Hero-A-02.png?w=1024"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "AI-powered travel tech platform Hopper raises $175M"
-    excerpt: "Hopper, the AI-powered predictive airfare and hotel rate platform, has raised $170 million in a series G round of funding."
-    publishedDateTime: 2021-08-17T13:08:00Z
-    webUrl: "https://venturebeat.com/2021/08/17/ai-powered-travel-tech-platform-hopper-raises-175m/"
-    ampWebUrl: "https://venturebeat.com/2021/08/17/ai-powered-travel-tech-platform-hopper-raises-175m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/17/ai-powered-travel-tech-platform-hopper-raises-175m/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/08/Hopper-Cofounders-Joost-Ouwerkerk-Frederic-Lalonde..jpg?w=1200&strip=all"
-        width: 1200
-        height: 614
-        isCached: true
-  - title: "Online Travel Hopper’s Metamorphosis From Flight Selling to Fintech"
-    excerpt: "Hopper, an online travel company, said it had $170 million Series G round of equity ﬁnancing, led by GPI, a private equity firm."
-    publishedDateTime: 2021-08-17T11:30:00Z
-    webUrl: "https://skift.com/2021/08/17/online-travel-hoppers-metamorphosis-from-flight-selling-to-fintech/"
-    ampWebUrl: "https://skift.com/2021/08/17/online-travel-hoppers-metamorphosis-from-flight-selling-to-fintech/amp/"
-    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2021/08/17/online-travel-hoppers-metamorphosis-from-flight-selling-to-fintech/amp/"
-    type: article
-    provider:
-      name: Skift
-      domain: skift.com
+      name: pymnts.com
+      domain: pymnts.com
     quality: 44
     images:
-      - url: "https://skift.com/wp-content/uploads/2021/08/a-user-of-hoppers-booking-app-source-hopper.jpg"
-        width: 1025
-        height: 684
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/08/IPO-SPAC-FinTech-457x274.jpg"
+        width: 457
+        height: 274
         isCached: true
-  - title: "Fintech platform FUSE Autotech raises $10M in Series A funding led by Target Global"
-    excerpt: "FUSE Autotech, a fintech software platform that redefines the car buying process, today announced the completion of its $10 million Series A round of financing, led by Target Global with participation from PICO Venture Partners,"
-    publishedDateTime: 2021-08-17T20:29:00Z
-    webUrl: "https://www.autonews.com/fi-press-release/fintech-platform-fuse-autotech-raises-10m-series-funding-led-target-global"
+  - title: "4 Ways the Fintech Industry is Detecting and Preventing Frauds"
+    excerpt: "Digitization in the fintech industry is giving rise to financial fraud. It is essential to detect potential frauds and prevent them before any loss to the customer or the organization. Fremont, CA: Like all the industries,"
+    publishedDateTime: 2021-08-20T00:00:00Z
+    webUrl: "https://www.cioapplications.com/news/4-ways-the-fintech-industry-is-detecting-and-preventing-frauds-nid-8322.html"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 13
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 24
+    images:
+      - url: "https://www.cioapplications.com/uploaded_images/magazine_img/itqtp300400.jpg"
+        width: 300
+        height: 400
+        isCached: true
+  - title: "Celebrating fintech’s role at the heart of the new normal"
+    excerpt: "Innovate Finance has launched a new forum to explore the potential of fintech to create a more inclusive and sustainable world. What good timing - fintech has performed impressively amidst the pandemic and will have a crucial role to play as restrictions are lifted and we settle  into our ‘new normal’."
+    publishedDateTime: 2021-08-21T04:38:00Z
+    webUrl: "https://www.finextra.com/blogposting/20765/celebrating-fintechs-role-at-the-heart-of-the-new-normal"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "vtPON3BZRljP2ONfneiDCaLfh1cTRjRLDVD499/JqZfXuYxgb92joUEOgxIc85EZ/xvh92e8UKme16CURArIRPawEdcUt7SY5TPL7AOhSO4sHULK6cIpJ0Aq+LQ1uzF5DQuNE9ycAdcI5vfhoBQd3fdks3ygSHOZHez+fn/hylqgQTblJmYylhWWRnRl/QDd0cavhDrRJUV9cfyqFfFww9pC1H7eUOywkZ0MIA11LryAq5m+YjolbHX0yVu+1lmiE2ncZuWWH73YNtzMAPi30dd9SzToC0SF9yQWCcli5ruqraCoFjgOrxSV6bBCWI83sA1Ng4iV8tOyJcnJAwRhjIwRO1vrPTy7Y6cZkcyERfA=;CXhmRig05X9qMVAI5W7ONQ=="
 ---

@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Hopper raises $170M at $3.5B+ valuation as travel surges and its fintech tools help offset variant concerns"
-    excerpt: "Travel tech company Hopper has raised a $170 million Series G, the company said today. Astute observers may recognize the number — that’s the same amount it raised in a Series F round that closed earlier this year."
-    publishedDateTime: 2021-08-17T11:30:00Z
-    webUrl: "https://techcrunch.com/2021/08/17/hopper-raises-170m-on-3-5b-valuation-as-travel-surges-and-its-fintech-tools-help-offset-variant-concerns/"
-    ampWebUrl: "https://techcrunch.com/2021/08/17/hopper-raises-170m-on-3-5b-valuation-as-travel-surges-and-its-fintech-tools-help-offset-variant-concerns/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/17/hopper-raises-170m-on-3-5b-valuation-as-travel-surges-and-its-fintech-tools-help-offset-variant-concerns/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 171
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/08/PR-General-Hero-A-02.png?w=1024"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "AI-powered travel tech platform Hopper raises $175M"
     excerpt: "Hopper, the AI-powered predictive airfare and hotel rate platform, has raised $170 million in a series G round of funding."
     publishedDateTime: 2021-08-17T13:08:00Z
@@ -51,36 +35,75 @@ related:
         width: 1200
         height: 614
         isCached: true
-  - title: "Online Travel Hopper’s Metamorphosis From Flight Selling to Fintech"
-    excerpt: "Hopper, an online travel company, said it had $170 million Series G round of equity ﬁnancing, led by GPI, a private equity firm."
-    publishedDateTime: 2021-08-17T11:30:00Z
-    webUrl: "https://skift.com/2021/08/17/online-travel-hoppers-metamorphosis-from-flight-selling-to-fintech/"
-    ampWebUrl: "https://skift.com/2021/08/17/online-travel-hoppers-metamorphosis-from-flight-selling-to-fintech/amp/"
-    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2021/08/17/online-travel-hoppers-metamorphosis-from-flight-selling-to-fintech/amp/"
+  - title: "AI-powered design platform Uizard picks up $15M"
+    excerpt: "Uizard, an AI-powered mobile app and desktop software design platform, has raised $15 million in venture capital financing."
+    publishedDateTime: 2021-08-18T12:00:00Z
+    webUrl: "https://venturebeat.com/2021/08/18/ai-powered-design-platform-uizard-picks-up-15m/"
+    ampWebUrl: "https://venturebeat.com/2021/08/18/ai-powered-design-platform-uizard-picks-up-15m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/18/ai-powered-design-platform-uizard-picks-up-15m/amp/"
     type: article
     provider:
-      name: Skift
-      domain: skift.com
-    quality: 44
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://skift.com/wp-content/uploads/2021/08/a-user-of-hoppers-booking-app-source-hopper.jpg"
-        width: 1025
-        height: 684
+      - url: "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-947663966-e1621956778415.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Top Fintech Trends Transforming Peoples Lives"
-    excerpt: "AI and ML have managed to retain their top positions in the FinTech trend for a long time. They have fuelled the rapid growth and development of new technologies in the FinTech industry. FREMONT, CA: The fintech industry is growing rapidly, and it is ..."
-    publishedDateTime: 2021-08-20T12:40:00Z
-    webUrl: "https://www.cioapplications.com/news/top-fintech-trends-transforming-peoples-lives-nid-8324.html"
+  - title: "ClosedLoop.ai Raises $34M to Expand Healthcare Data Science Platform"
+    excerpt: "ClosedLoop.ai., an Austin, TX-based healthcare data science platform, today announced it has raised $34 million in Series B funding."
+    publishedDateTime: 2021-08-17T20:38:00Z
+    webUrl: "https://hitconsultant.net/2021/08/17/closedloop-healthcare-data-science-funding/"
     type: article
     provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 24
+      name: HIT Consultant
+      domain: hitconsultant.net
+    quality: 56
     images:
-      - url: "https://www.cioapplications.com/uploaded_images/magazine_img/itqtp300400.jpg"
-        width: 300
-        height: 400
+      - url: "https://mk0hitconsultan2lp7c.kinstacdn.com/wp-content/uploads/2021/08/ClosedLoop.png"
+        width: 906
+        height: 569
         isCached: true
+  - title: "HR tech Startup Hiration raises Rs 21 cr; to offer AI-powered career platform for job seekers"
+    excerpt: "Hiration, an AI-powered career platform which helps professionals create high-impact resumes and find their dream job, has raised Rs 21 crore ($3 million) from Prime Venture Partners, Venture Highway and Y Combinator."
+    publishedDateTime: 2021-08-19T10:01:00Z
+    webUrl: "https://www.freepressjournal.in/business/hr-tech-startup-hiration-raises-rs-21-cr-to-offer-ai-powered-career-platform-for-job-seekers"
+    ampWebUrl: "https://www.freepressjournal.in/amp/business/hr-tech-startup-hiration-raises-rs-21-cr-to-offer-ai-powered-career-platform-for-job-seekers"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/hr-tech-startup-hiration-raises-rs-21-cr-to-offer-ai-powered-career-platform-for-job-seekers"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 46
+    images:
+      - url: "https://images.assettype.com/freepressjournal/2020-10/e414dc5d-24a0-42a9-87a6-1f8de88c1cbd/2016_11_18T091019Z_1_LYNXeMPECAH0GF_RTROPTP_3_INDIA_MODI_CORRUPTION3qw.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Pngme raises $15m for financial data infrastructure platform"
+    excerpt: "Pngme, a San Francisco-based firm that builds data infrastructure and out-of-the box machine learning capabilities for financial institutions and fintechs across sub-Saharan Africa, has raised $15 million in a Series A funding round led by Octopus Ventures."
+    publishedDateTime: 2021-08-17T23:25:00Z
+    webUrl: "https://www.finextra.com/newsarticle/38667/pngme-raises-15m-for-financial-data-infrastructure-platform"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/900fintech-africa.jpg"
+        width: 480
+        height: 270
+        isCached: true
+  - title: "Hiration Raises $3M to Offer its Affordable, AI-powered Resume-Building Platform to Job Seekers All Over The World"
+    excerpt: "Today Hiration, the platform that offers world class resources that makes it easy for qualified candidates to create the perfect resumes and find their dream role, announced it has raised $3M in seed funding from Prime Venture Partners,"
+    publishedDateTime: 2021-08-19T21:56:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-hiration-raises-3m-offer-its-affordable-ai-powered-/2021/08/19/9434545.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "QOXM+19bQAalDmAjGyHRaZGdW0/Fk8noCqcAwVESdqJAvgQk5jPlGqdyO0cJ3IHeF6t6yAEXI4Z/B7VPNytT8j5JFgeHf2AOZxSWb4FXtHOKmKqoLNWllM75Q6c9PTtri/j5lQ/IyvpTJIA7Geb8INKIdViaQ9PgDG+r/LahD2GqFdSuq3StqtDrBZXIsFlrMDn0GDEm3JdNUdEEWzXTD/QVKWDpF4HgeuVAJy6Kkf2v2Mk6u8ktZqGnC/Xtp3xWevwNXmP3NPOBzEz1PnCGlPup8WEhMKvjlbdSnfcLCU4kmili2Vy6+9+ywqqvqQuzRLo4wGdSApm01yMJSxLAWKoOgxZP7scNdT7pj6wctFg=;6v98hwDSfJx1yp1czS9yOg=="
 ---

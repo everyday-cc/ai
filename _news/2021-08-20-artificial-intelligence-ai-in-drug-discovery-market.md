@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2362368/artificial-intelligence-ai-in-dru
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2362368/artificial-intelligence-ai-in-drug-discovery-market-latest"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -67,6 +67,20 @@ related:
       - url: "https://www.bbntimes.com/images/articles/global-economy/The_Artistic_Side_of_Artificial_Intelligence_AI.jpg"
         width: 1200
         height: 872
+        isCached: true
+  - title: "Turkey sets national artificial intelligence (AI) strategy"
+    excerpt: "An announcement showed that Turkey has set a national artificial intelligence (AI) strategy.<br /> <br /> The 2021-2025 roadmaps showed six priorities"
+    publishedDateTime: 2021-08-22T05:27:00Z
+    webUrl: "https://menafn.com/1102655500/Turkey-sets-national-artificial-intelligence-AI-strategy"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 52
+    images:
+      - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_BusinessFinance_86.jpg"
+        width: 800
+        height: 533
         isCached: true
 
 secured: "nmoi4YH1vzXACSsUi2wUXJSx1TB1r3CcRZh94beXjRpgBgwY8/aw4zFx3Ht1vDTVujwqO5BjyK+PvoqRZx8DxeAmvd/ttnvjNEJRhJEIzSbldUBUab9gGZauqMu6HjemlUVMbXWbZrFZknkpTJvoGRbPoSd9CrgrC3/6gn5EWZdF2PQoLNWy3AtaVBRLed9/+AdcERhC5xnF62Fg1DzrOiZTyPeQr+SMv26TpdgO8KsLGununP97T/2wjbjlcisBn9M4ERN/WjwOkOm2d7THxebISGU81VphhVsVj8ac/uC/HCcTKBqxfTi2LuJVc7QEa1alLhsMZF3me4djLLkiw+g0gDMMpTzYgbwwAejqLJRd4uJ3E6+sPpMAiA9FDiVXa+4yCnwRsgQev1+L3FIaBaAdG07NkAgZooDK0dWSk0U5n5WrMpikfOjG9BTovsGhCO9IbZmngaMjLv+QBIvTOweG7j5AcGHnL8M8Yd+r1mE70o0nEyLTeBWkXCqHYBP/Lck1BNgzcI8CvQzuTk3Bxw==;qDgXkixFTY4qUtPSKmWtpA=="

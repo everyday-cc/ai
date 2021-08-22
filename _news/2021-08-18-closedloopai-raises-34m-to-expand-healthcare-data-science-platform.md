@@ -26,21 +26,53 @@ images:
     isCached: true
 
 related:
-  - title: "Financial Data Platform Pngme Raises $15 Million"
-    excerpt: "Pngme, a San Francisco-based financial data platform, announced yesterday that it has secured $15 million in Series A funding."
-    publishedDateTime: 2021-08-18T08:34:00Z
-    webUrl: "https://www.financemagnates.com/fintech/news/financial-data-platform-pngme-raises-15-million/"
-    ampWebUrl: "https://www.financemagnates.com/fintech/news/financial-data-platform-pngme-raises-15-million/amp/"
-    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/news/financial-data-platform-pngme-raises-15-million/amp/"
+  - title: "AI-powered travel tech platform Hopper raises $175M"
+    excerpt: "Hopper, the AI-powered predictive airfare and hotel rate platform, has raised $170 million in a series G round of funding."
+    publishedDateTime: 2021-08-17T13:08:00Z
+    webUrl: "https://venturebeat.com/2021/08/17/ai-powered-travel-tech-platform-hopper-raises-175m/"
+    ampWebUrl: "https://venturebeat.com/2021/08/17/ai-powered-travel-tech-platform-hopper-raises-175m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/17/ai-powered-travel-tech-platform-hopper-raises-175m/amp/"
     type: article
     provider:
-      name: Finance Magnates
-      domain: financemagnates.com
-    quality: 59
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://www.financemagnates.com/wp-content/uploads/2021/05/StoneX-Logo.jpg"
-        width: 424
-        height: 211
+      - url: "https://venturebeat.com/wp-content/uploads/2021/08/Hopper-Cofounders-Joost-Ouwerkerk-Frederic-Lalonde..jpg?w=1200&strip=all"
+        width: 1200
+        height: 614
+        isCached: true
+  - title: "AI-powered design platform Uizard picks up $15M"
+    excerpt: "Uizard, an AI-powered mobile app and desktop software design platform, has raised $15 million in venture capital financing."
+    publishedDateTime: 2021-08-18T12:00:00Z
+    webUrl: "https://venturebeat.com/2021/08/18/ai-powered-design-platform-uizard-picks-up-15m/"
+    ampWebUrl: "https://venturebeat.com/2021/08/18/ai-powered-design-platform-uizard-picks-up-15m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/18/ai-powered-design-platform-uizard-picks-up-15m/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-947663966-e1621956778415.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "HR tech Startup Hiration raises Rs 21 cr; to offer AI-powered career platform for job seekers"
+    excerpt: "Hiration, an AI-powered career platform which helps professionals create high-impact resumes and find their dream job, has raised Rs 21 crore ($3 million) from Prime Venture Partners, Venture Highway and Y Combinator."
+    publishedDateTime: 2021-08-19T10:01:00Z
+    webUrl: "https://www.freepressjournal.in/business/hr-tech-startup-hiration-raises-rs-21-cr-to-offer-ai-powered-career-platform-for-job-seekers"
+    ampWebUrl: "https://www.freepressjournal.in/amp/business/hr-tech-startup-hiration-raises-rs-21-cr-to-offer-ai-powered-career-platform-for-job-seekers"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/hr-tech-startup-hiration-raises-rs-21-cr-to-offer-ai-powered-career-platform-for-job-seekers"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 46
+    images:
+      - url: "https://images.assettype.com/freepressjournal/2020-10/e414dc5d-24a0-42a9-87a6-1f8de88c1cbd/2016_11_18T091019Z_1_LYNXeMPECAH0GF_RTROPTP_3_INDIA_MODI_CORRUPTION3qw.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Pngme raises $15m for financial data infrastructure platform"
     excerpt: "Pngme, a San Francisco-based firm that builds data infrastructure and out-of-the box machine learning capabilities for financial institutions and fintechs across sub-Saharan Africa, has raised $15 million in a Series A funding round led by Octopus Ventures."
@@ -56,34 +88,24 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "Africa: the fintech Pngme raises $15 million to continue its development on the African continent"
-    excerpt: "PNGme, an African fintech that leverages AI to facilitate the collection and analysis of banking data PNGme is a US-based fintech with a presence in Nigeria as well as Kenya. It is developing a financial data infrastructure as well as a machine learning ..."
-    publishedDateTime: 2021-08-19T09:34:00Z
-    webUrl: "https://www.actuia.com/english/africa-the-fintech-pngme-raises-15-million-to-continue-its-development-on-the-african-continent/"
+  - title: "Fintech platform FUSE Autotech raises $10M in Series A funding led by Target Global"
+    excerpt: "FUSE Autotech, a fintech software platform that redefines the car buying process, today announced the completion of its $10 million Series A round of financing, led by Target Global with participation from PICO Venture Partners,"
+    publishedDateTime: 2021-08-17T20:29:00Z
+    webUrl: "https://www.autonews.com/fi-press-release/fintech-platform-fuse-autotech-raises-10m-series-funding-led-target-global"
     type: article
     provider:
-      name: Actu IA
-      domain: actuia.com
-    quality: 26
-    images:
-      - url: "https://www.actuia.com/wp-content/uploads/2021/08/PNGme.jpg"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "Fintech startup Pngme raises $15m Series A funding to power the future of financial services in Africa"
-    excerpt: "Fintech startup Pngme raised $15 million in Series A funding as the company sets out to grow its financial data infrastructure and machine learning-as-a-service platform for financial institutions and fintechs across sub-Saharan Africa."
-    publishedDateTime: 2021-08-19T08:27:00Z
-    webUrl: "https://africabusinesscommunities.com/tech/tech-news/fintech-startup-pngme-raises-15m-series-a-funding-to-power-the-future-of-financial-services-in-africa/"
+      name: Automotive News
+      domain: autonews.com
+    quality: 13
+  - title: "Hiration Raises $3M to Offer its Affordable, AI-powered Resume-Building Platform to Job Seekers All Over The World"
+    excerpt: "Today Hiration, the platform that offers world class resources that makes it easy for qualified candidates to create the perfect resumes and find their dream role, announced it has raised $3M in seed funding from Prime Venture Partners,"
+    publishedDateTime: 2021-08-19T21:56:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-hiration-raises-3m-offer-its-affordable-ai-powered-/2021/08/19/9434545.htm"
     type: article
     provider:
-      name: africabusinesscommunities.com
-      domain: africabusinesscommunities.com
-    quality: 23
-    images:
-      - url: "https://adserver.20nine.nl/www/delivery/avw.php?zoneid=30&n=5f0197a"
-        width: 336
-        height: 280
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "hIio4zDjM/aGsbIb2r+NyVdUGcqQTGduKc0tAnCjY96Rzd8qvVm9UI9sgluSgtSebOseTH8ICdO3yv2SkcapvStwj+Ba6NRsG8E5qE9ClH4CWdkwRNKTIyUzoEnugTzO2zR9YS4BTKdXyUP8d10jQDriU9h7U84OUIA/91FNmupz3UG60xmi56W0wBr8JmOlIOyFouhEDoPrUFIjs6oq8uK02fs9QFUflOs68Ub0ffVKY7MKbIiBdAYkW5OsEkKBd0bnAkhvIDLMK6j/UxQ2iUryEnK7eEIy+VJgnRrTcRg2ZtVoQdSltMQynNDb2HUsGj/MBFSvoK+kEPKKts1gkn02KJB3Sr22IO699pBy5zZB5fNbDv9LPXWneo9TeZpiWYnvD+nc5zt9EJifH2Ci2124y17eCZw8itpECYFvlB+hZmRy4/FIia18CCofhYM92PBcsXysCQP+VdXy7L011c2y1E9dy+QtLIxgExUdObVsHLoh/H1zmxdE76DPVcpueeknHgNoFrEsu4HAdi63Ig==;79vUXGk+BUJbsSD2KxeTIA=="
 ---
