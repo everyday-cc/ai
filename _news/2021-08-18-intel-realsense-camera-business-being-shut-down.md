@@ -7,8 +7,8 @@ originalUrl: "https://www.therobotreport.com/intel-realsense-camera-business-bei
 webUrl: "https://www.therobotreport.com/intel-realsense-camera-business-being-shut-down/"
 type: article
 quality: 54
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Robot Report
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Intel Says Good-Bye To Its AI-Powered RealSense Cameras"
+    excerpt: "Intel’s RealSense cameras were originally designed for touch-free interactions but pivoted to specifically facial recognition in January. Today, Intel confirmed that"
+    publishedDateTime: 2021-08-18T10:39:00Z
+    webUrl: "https://techbooky.com/intel-says-good-bye-to-its-ai-powered-realsense-cameras/"
+    ampWebUrl: "https://techbooky.com/intel-says-good-bye-to-its-ai-powered-realsense-cameras/?amp=1"
+    cdnAmpWebUrl: "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/intel-says-good-bye-to-its-ai-powered-realsense-cameras/?amp=1"
+    type: article
+    provider:
+      name: techbooky.com
+      domain: techbooky.com
+    quality: 59
+    images:
+      - url: "https://techbooky.com/wp-content/uploads/2021/08/D435-Depth-Camera-with-Mount-1130x636-1.jpg"
+        width: 1130
+        height: 636
+        isCached: true
   - title: "Intel Shutters Its RealSense Arm, Departs the Computer Vision Market"
     excerpt: "Intel's six-year foray into depth-sensing and object-tracking computer vision systems comes to an end this week."
     publishedDateTime: 2021-08-18T16:05:00Z

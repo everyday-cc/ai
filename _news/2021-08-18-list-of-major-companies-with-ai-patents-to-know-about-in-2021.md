@@ -7,7 +7,7 @@ originalUrl: "https://www.analyticsinsight.net/list-of-major-companies-with-ai-p
 webUrl: "https://www.analyticsinsight.net/list-of-major-companies-with-ai-patents-to-know-about-in-2021/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,79 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Innovating With Artificial Intelligence"
-    excerpt: "It’s been a while since I talked about artificial intelligence — mainly because those articles started to die down or I started reading the same thing over and over. Then other topics emerged within the markets and current events sort of shifted the conversation."
-    publishedDateTime: 2021-08-17T18:09:00Z
-    webUrl: "https://www.wealthdaily.com/articles/innovating-with-artificial-intelligence/99838"
-    ampWebUrl: "https://www.wealthdaily.com/amp/articles/innovating-with-artificial-intelligence/99838"
-    cdnAmpWebUrl: "https://www-wealthdaily-com.cdn.ampproject.org/c/s/www.wealthdaily.com/amp/articles/innovating-with-artificial-intelligence/99838"
+  - title: "How companies like McDonald’s and Bosch are incorporating artificial intelligence"
+    excerpt: "Artificial intelligence has become one of the key innovations of the 21st century. We looked at how brands are using it and talking about it."
+    publishedDateTime: 2021-08-18T18:27:00Z
+    webUrl: "https://www.newswhip.com/2021/08/how-companies-like-mcdonalds-and-bosch-are-incorporating-artificial-intelligence/"
     type: article
     provider:
-      name: Wealth Daily
-      domain: wealthdaily.com
-    quality: 59
+      name: NewsWhip
+      domain: newswhip.com
+    quality: 36
     images:
-      - url: "https://images.angelpub.com/2017/39/46975/monica-savaglia-signature-park-avenue-digest.png"
-        width: 300
-        height: 228
-        isCached: true
-  - title: "Novel AI blood testing technology can identify lung cancers with high accuracy"
-    excerpt: "A novel artificial intelligence blood testing technology developed by researchers at the Johns Hopkins Kimmel Cancer Center was found to detect over 90% of lung cancers in samples from nearly 800 individuals with and without cancer."
-    publishedDateTime: 2021-08-20T13:47:00Z
-    webUrl: "https://medicalxpress.com/news/2021-08-ai-blood-technology-lung-cancers.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-08-ai-blood-technology-lung-cancers.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-08-ai-blood-technology-lung-cancers.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 53
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/novel-ai-blood-testing.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "National Grid ESO sharpens solar forecasts with AI"
-    excerpt: "National Grid Electricity System Operator (ESO) has teamed up with start-up Open Climate Fix (OCF) to use artificial intelligence to improve the way the grid forecasts solar generation. The new innovation project will see the ESO work with OCF,"
-    publishedDateTime: 2021-08-19T08:03:00Z
-    webUrl: "https://renews.biz/71706/national-grid-eso-sharpens-solar-forecasts-with-ai/"
-    type: article
-    provider:
-      name: reNEWS
-      domain: renews.biz
-    quality: 39
-    images:
-      - url: "https://renews.biz/media/21368/credit-national-grid.jpeg?width=640"
-        width: 640
-        height: 366
-        isCached: true
-  - title: "Demonstrating the Power of AI for Food & Beverage Innovation, Upcoming Webinar Hosted by Xtalks"
-    excerpt: "Artificial Intelligence (AI) is becoming necessary for food and beverage manufacturers to meet ever-changing demands and stay ahead in an increasingly competitive environment. In"
-    publishedDateTime: 2021-08-20T12:30:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_food_beverages/demonstrating-the-power-of-ai-for-food-beverage-innovation-upcoming-webinar-hosted-by-xtalks/article_8775912f-a6b6-53ab-b303-4d4af620be8c.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 27
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Demonstrating the Power of AI for Food & Beverage Innovation, Upcoming Webinar Hosted by Xtalks"
-    excerpt: "Artificial Intelligence (AI) is becoming necessary for food and beverage manufacturers to meet ever-changing demands and stay ahead in an increasingly competitive environment. In their last webinar, VIsit SparkCognition discussed why now is the"
-    publishedDateTime: 2021-08-20T22:53:00Z
-    webUrl: "https://www.lelezard.com/en/news-19961775.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 27
-    images:
-      - url: "https://www.lelezard.com/img/theme/lezard2.png"
-        width: 500
-        height: 414
+      - url: "https://www.newswhip.com/wp-content/uploads/2021/08/Linkedin-post-144.png"
+        width: 1012
+        height: 506
         isCached: true
 
 secured: "u4DA9fiB3UNK8B4y3hVJUr4dpaoX5ff2cQH15hb7arBu0YtLWIAcTohF4xwCtxLBzv3Dh9LFleYGcLaVp5Y3ZwPczBcZDi1GleDqOsaKKnV2cDTHCLpbqo/kwfgEEk3kJaffWc0CV5OofGjKEQpaEySurQRJdBjbC1SGT6dRezI65NdJzATsSLC0TIOx+hTyloSnOoN3uMQVtsaPApgHssuCAuigRnSO/cwJYvYd8B54QvtSQm9QKja9O1lb6NHwRr7GAcVqastnmvTcBO2xStMcC7I74cnFc6QCDF/n093ogiwkYAxMrCDjuDTiZKBpNiD0smDW2lJviILZMK0jzZMRvSF2KpuGfdSif4fh90Ex4HW2kp/bcoiewNxUuuUBnSYRiTboZMNIiU85dtxB8HGZ2OZjBslvo7GndH/M60iM4SKPjnMydoJend/xXDiowIAqAN/dKjbAvfuRYHaTOAzjmMZLyOgFKdHls96PjWYd1nUpjo5hprD3r4g4Goc8Zhi00PjdW07Q7qs/ZQBSow==;mcLbMDUxGBQkHyUHjlY4hg=="

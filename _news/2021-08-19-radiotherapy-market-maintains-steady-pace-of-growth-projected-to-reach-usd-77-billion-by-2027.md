@@ -96,20 +96,6 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 67
-  - title: "3D Facial Recognition Market Demand, Top Players, Industry Future Growth by 2026"
-    excerpt: "This detailed presentation on ‘ 3D Facial Recognition market’ available at MarketStudyReport.com, features an exhaustive study conveying influential trends prevailing in the global business sphere. The report also presents significant details concerning market size,"
-    publishedDateTime: 2021-08-17T17:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-market-demand-top-players-industry-future-growth-by-2026-2021-08-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Deep Learning System Market Demand, Size, Share, Scope & Forecast To 2027"
     excerpt: "The global deep learning system market size is expected to reach USD 93.34 Billion at a steady CAGR of 39.1% in 2028, according to latest analysis by Emergen Research. The deep learning system market is witnessing increased growth due to improvement in computing power and reducing hardware cost."
     publishedDateTime: 2021-08-18T10:16:00Z
@@ -126,15 +112,15 @@ related:
         width: 390
         height: 220
         isCached: true
-  - title: "Artificial Intelligence for Edge Devices Market Analysis, Segments, Top Key Players, Drivers and Trends to 2025"
-    excerpt: "The research report on ‘Artificial Intelligence for Edge Devices Market’ now added by Market Study Report, offers"
-    publishedDateTime: 2021-08-17T17:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-market-analysis-segments-top-key-players-drivers-and-trends-to-2025-2021-08-17"
+  - title: "Artificial Intelligence in Military Market Size, Share, Company Overview, Growth, Development and Forecast by 2027"
+    excerpt: "A recent research report on the Global \"Artificial Intelligence in Military Market\" presents a complete overview"
+    publishedDateTime: 2021-08-19T19:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-size-share-company-overview-growth-development-and-forecast-by-2027-2021-08-19"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 47
+    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

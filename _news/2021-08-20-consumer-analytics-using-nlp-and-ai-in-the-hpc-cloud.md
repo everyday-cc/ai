@@ -7,8 +7,8 @@ originalUrl: "https://www.datanami.com/2021/08/20/consumer_analytics_using_nlp_a
 webUrl: "https://www.datanami.com/2021/08/20/consumer_analytics_using_nlp_and_ai/"
 type: article
 quality: 56
-heat: -1
-published: false
+heat: 86
+published: true
 
 provider:
   name: datanami.com
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Accern’s No-Code AI Platform Can Speed Analytics In Financial Services"
-    excerpt: "Accern, which has more than a library of use cases available for immediate deployment across financial services firms, says templates can reduce the need for customer data scientist-led analytics."
-    publishedDateTime: 2021-08-17T17:56:00Z
-    webUrl: "https://www.forbes.com/sites/tomgroenfeldt/2021/08/17/accerns-no-code-ai-platform-can-speed-analytics-in-financial-services/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
-    images:
-      - url: "https://secure.gravatar.com/avatar/a1949b2c32bb572c7030dac004c2af03?s=400&d=mm&r=g"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Airbus’ UP42 Partners with Indian Startup HyperVerge for AI-based Satellite Imagery Analytics"
     excerpt: "This is the 11th successful partnership industrialized by Airbus Bizlab in India and the second partnership between HyperVerge and an Airbus entity."
     publishedDateTime: 2021-08-18T13:10:00Z

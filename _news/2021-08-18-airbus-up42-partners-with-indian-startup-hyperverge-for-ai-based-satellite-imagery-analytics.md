@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Accern’s No-Code AI Platform Can Speed Analytics In Financial Services"
-    excerpt: "Accern, which has more than a library of use cases available for immediate deployment across financial services firms, says templates can reduce the need for customer data scientist-led analytics."
-    publishedDateTime: 2021-08-17T17:56:00Z
-    webUrl: "https://www.forbes.com/sites/tomgroenfeldt/2021/08/17/accerns-no-code-ai-platform-can-speed-analytics-in-financial-services/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
-    images:
-      - url: "https://secure.gravatar.com/avatar/a1949b2c32bb572c7030dac004c2af03?s=400&d=mm&r=g"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Consumer Analytics Using NLP and AI in the HPC Cloud"
     excerpt: "Customers and shoppers have benefited greatly from advances in Internet connectivity in recent years. Rapidly growing e-commerce firms have yielded actual"
     publishedDateTime: 2021-08-20T16:25:00Z

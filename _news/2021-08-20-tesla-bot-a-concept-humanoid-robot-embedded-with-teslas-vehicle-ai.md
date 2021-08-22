@@ -3,10 +3,10 @@ category: news
 title: "Tesla Bot: A concept humanoid robot embedded with Tesla's vehicle AI"
 excerpt: "At Tesla AI Day, the company's CEO Elon Musk unveiled a concept humanoid robot that will be powered by the AI currently embedded within Tesla's autonomous vehicles. Aptly named the Tesla Bot, details about the concept robot were limited,"
 publishedDateTime: 2021-08-20T02:15:00Z
-originalUrl: "https://www.zdnet.com/index.php/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
-webUrl: "https://www.zdnet.com/index.php/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
-ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
+originalUrl: "https://www.zdnet.com/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
+webUrl: "https://www.zdnet.com/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
 type: article
 quality: 121
 heat: -1
@@ -21,9 +21,9 @@ provider:
       height: 50
 
 topics:
+  - AI in Robotics
   - AI
   - AI in Autos
-  - AI in Robotics
 
 images:
   - url: "https://www.zdnet.com/a/hub/i/2021/08/20/c53f20ad-f148-4044-a3eb-0929d3675012/tesla.png"
@@ -912,6 +912,22 @@ related:
         width: 1920
         height: 1150
         isCached: true
+  - title: "Elon Musk unveils humanoid robot to take over ‘boring’ work"
+    excerpt: "The ‘Tesla Bot,’ a prototype of which should be available next year, is designed to eliminate “dangerous, repetitive and boring tasks,” like bending over to pick something up, or go to the store"
+    publishedDateTime: 2021-08-20T17:13:00Z
+    webUrl: "https://www.eastbaytimes.com/2021/08/20/elon-musk-unveils-humanoid-robot-to-take-over-boring-work/"
+    ampWebUrl: "https://www.eastbaytimes.com/2021/08/20/elon-musk-unveils-humanoid-robot-to-take-over-boring-work/amp/"
+    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/08/20/elon-musk-unveils-humanoid-robot-to-take-over-boring-work/amp/"
+    type: article
+    provider:
+      name: East Bay Times
+      domain: eastbaytimes.com
+    quality: 59
+    images:
+      - url: "https://www.eastbaytimes.com/wp-content/uploads/2021/08/bot_list.png?w=863&#038;h=443"
+        width: 863
+        height: 443
+        isCached: true
   - title: "Elon Musk Unveils Plan for Humanoid Robot Prototype"
     excerpt: "Elon Musk said Tesla will debut a humanoid robot prototype called the Tesla Bot. Its purpose will be to perform physical labor. Musk suggested humans will be replaced in the workforce of the future."
     publishedDateTime: 2021-08-21T13:24:00Z
@@ -1171,6 +1187,6 @@ related:
         height: 445
         isCached: true
 
-secured: "7s6x1TenL9r6sTtaQQux4mysm/CFy8ZcIkdrBOiBmQQGwAQL5pIvhhD/r+dftaKinGyHb5DSnXjOnXGnFrwzHfHapzy24psE9NN7Hk69+YpLZfNFH23cLthGzfQSBbgXdMXrCbLs8hYqKU7Q7hlnMzjhinJPVgJziO9aC205nCr2dCj4iABKZVNukmfyQ0aq7KOKC6ypV5kQF3AFN9Bhq+xKSyY17rZ2j/NoeCfB1otXP2yKRUZ0Dwh0JTVGyf9SGeXcw8o+cwYraOYWNIIG5zjBXC+xw95KBwP1ynAo1MLdvbuBJN2+AQO+xAmCv6x1TrR97WnpIQC/8OSMgBiPvpciyLbcK1rCPuAxbTY84K4=;SIzwa5qtKnHpOATYJ1ikrg=="
+secured: "Wk47ok1UjfcCegSoDmYfWOh9OQvvD2aLd852UQdIFmgtb1j6TvAa3K8QAtaWjQY471eQyOmFlDMw+Bp1InyzYdSjAtvRrKJbpCyBxeFF2v8g9GI+vQUX2nFkx1/79HvS1AkmYuTC/nRpBpQ+E6xN7pW5xuHGD0LPdUtLvywUxgtqRHraBRvYz4SfLbteWym2VReeR2AGRLZnV0lkS1RbjIboKE/dWRH2RnRx4LuFDlnpU5N7zgyVZV6aTwwEbOYMg3V91bREk9E7IHzuENgQk7CDpJ3mDsvycXMI2s5zQJJyWmb/6rmAUyOP+ar34wfxnwxDGu3DmjyxWOIxKLF9naloP0c89RimQxelI6HniyE=;0k1C9n/4OLU8m5wwM1nJlw=="
 ---
 

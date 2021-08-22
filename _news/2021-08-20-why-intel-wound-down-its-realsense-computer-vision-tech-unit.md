@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Intel Says Good-Bye To Its AI-Powered RealSense Cameras"
+    excerpt: "Intel’s RealSense cameras were originally designed for touch-free interactions but pivoted to specifically facial recognition in January. Today, Intel confirmed that"
+    publishedDateTime: 2021-08-18T10:39:00Z
+    webUrl: "https://techbooky.com/intel-says-good-bye-to-its-ai-powered-realsense-cameras/"
+    ampWebUrl: "https://techbooky.com/intel-says-good-bye-to-its-ai-powered-realsense-cameras/?amp=1"
+    cdnAmpWebUrl: "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/intel-says-good-bye-to-its-ai-powered-realsense-cameras/?amp=1"
+    type: article
+    provider:
+      name: techbooky.com
+      domain: techbooky.com
+    quality: 59
+    images:
+      - url: "https://techbooky.com/wp-content/uploads/2021/08/D435-Depth-Camera-with-Mount-1130x636-1.jpg"
+        width: 1130
+        height: 636
+        isCached: true
   - title: "Intel RealSense camera business being shut down"
     excerpt: "Intel RealSense is being shut down. Intel CEO Pat Gelsinger wants to focus all of Intel's efforts on its core chipmaking business."
     publishedDateTime: 2021-08-18T03:10:00Z

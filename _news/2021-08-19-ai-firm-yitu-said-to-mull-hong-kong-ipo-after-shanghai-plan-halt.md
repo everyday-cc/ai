@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-08-19/ai-firm-yitu-sa
 webUrl: "https://www.bloomberg.com/news/articles/2021-08-19/ai-firm-yitu-said-to-mull-hong-kong-ipo-after-shanghai-plan-halt"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/08/20113804/Yitu-2.png"
         width: 1024
         height: 537
-        isCached: true
-  - title: "AI Firm SenseTime Said to Tap HSBC For $2 Billion Hong Kong IPO"
-    excerpt: "SenseTime Group Ltd., China’s largest artificial intelligence company, is working with HSBC Holdings Plc to arrange its planned Hong Kong initial public offering that could raise at least $2 billion,"
-    publishedDateTime: 2021-08-17T17:50:00Z
-    webUrl: "https://www.bloombergquint.com/china/ai-firm-sensetime-said-to-tap-hsbc-for-2-billion-hong-kong-ipo"
-    type: article
-    provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
-    quality: 37
-    images:
-      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "ObSO4dpNbcwu5yeGMLK2jTu1BwcuJ2V/Yxqi+pKwTIIbPjIbf0NQh5A4sX112lKrly3E1JebtncOxMYGeBfBZnJ6NRpUdbS7J9uMrYT4cfVQgUlWsDZtNuRNgXzZuG/S5WUY3tn6dNXkbbwkQ1iooIdnprXrgDzZY4ALm7svsL1aaxzmpD9UsL8KpfxDmFoTout1BgxpEAeUl1t/vbs481MqwNmlKCSwf02dt7WmQH3jrS5br7CnVgB4DfwW8jh8+Nd1VA6T1pKnlKVGZzwNYwpD41vNh81DL2Ie5el4HsyNRBXIZelvcYo4PGkXJnfMAgJM6MkQ1/DQ1UIgX2g3lZH17A9VZOwOwK1GKWb7OQuOz3m/LkfM51Hlsf5VJXPqLGnRaY3K/3Qb7iae4IOsleu8zAvQDsFjGTiucBgVrc2LvqiXvo/aSJzymoiUfRW1aSUXtu4ufiTptwuecZDQdePZ9+xeCzqGF8UWDiLk4TXKZlJeTt3663cvY4ZWE/DdUBrJS8wef7wc6o32g4J/8w==;LWTaAGG08oYK4HrDkyWqww=="

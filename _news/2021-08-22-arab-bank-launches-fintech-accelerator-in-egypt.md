@@ -3,8 +3,8 @@ category: news
 title: "Arab Bank launches fintech accelerator in Egypt"
 excerpt: "Arab Bank has launched the AB Accelerator in Egypt, a fintech-focused corporate acceleration programme. The accelerator, which"
 publishedDateTime: 2021-08-22T09:15:00Z
-originalUrl: "https://www.wamda.com/2021/08/arab-bank-launches-fintech-accelerator-egypt"
-webUrl: "https://www.wamda.com/2021/08/arab-bank-launches-fintech-accelerator-egypt"
+originalUrl: "https://www.wamda.com/ar/2021/08/arab-bank-launches-fintech-accelerator-egypt"
+webUrl: "https://www.wamda.com/ar/2021/08/arab-bank-launches-fintech-accelerator-egypt"
 type: article
 quality: 39
 heat: -1
@@ -88,6 +88,6 @@ related:
       domain: finextra.com
     quality: 4
 
-secured: "IyHGrPmgcUklP1gHMBu6RtJrYa+RHC5J1X9NjHWiXYWV0WTJnqlXH10wexuSgVIaE+YeMqNIp19FmCrgXzE7W3bmpKgEtR6+EOCw5JCS+E1Xhhv6n6yLub2ZzoKP9UIj61BwfYN58riLWepG9GhTAC/+9BTGMWE5J7oYsEqhe0a1C+hr5XdSPH1wGXtCibJ8dQPke11jznoewiJuYgEAdqOMs8gcmPPW2VeYW0QP5YLczLNTcoIl9OkANMAMfHRjYeF2jtoa6qSIhBjZ40YAQl7FWQyfueLt0MWhGHGhhAsZuiB5EQ7IQIJxPg5oznu5Q/+NPPWddV3Xur0qMWvWGc9qDTvVqV1vhWnXh3xnxqE=;Q4MJaaSJOmCpdo/kTExnEA=="
+secured: "NKTdxLxOkeKgWH0EUYXVzTEL7sDwb7oM9rSXgNSRV4X3tpXsDTU/z0q/JYDD66Tof/4fakl0cVjll6vPwdZOQnQJfKemWmgvzAWHqFzdXW7DRwaSYLU/uF0+XcFtZe8XNFerW6uXU2fJO/WYID1yECIPn68gUFAWb431DRnMrDJmEgzBerE64fnaHhSmqgX89sfVrFgJT1Em5130iHXcbgf9y0IZIxAX58tssvuMOaAjF5MCWxzOT/CV9/UvkCf/uR8qjqXia0QpfL4MCA41pN/6gNpdngf3OSkKCYnWZmm0jxx2ArC6ifhZhJMm8PXDr5S/NYQf9Fc+HGV82RLJzUKbLzq3mbYQjXd5zGAhLjM=;b3HvTizCKNfEweeL71PB8g=="
 ---
 

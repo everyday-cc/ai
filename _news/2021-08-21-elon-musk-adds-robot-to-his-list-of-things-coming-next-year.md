@@ -26,16 +26,16 @@ images:
 
 related:
   - title: "Elon Musk just added a robot to his list of things always coming ‘next year.’ For now he’s got a guy in a suit"
-    excerpt: "By Matt McFarland, CNN Business Elon Musk said Thursday night at Tesla’s AI Day that the company is building a humanoid robot, and will probably have a prototype next year. “It’s basically going to start dealing with work that is boring,"
-    publishedDateTime: 2021-08-20T22:40:00Z
-    webUrl: "https://localnews8.com/money/cnn-social-media-technology/2021/08/20/elon-musk-just-added-a-robot-to-his-list-of-things-always-coming-next-year-for-now-hes-got-a-guy-in-a-suit/"
+    excerpt: "CNN, CNN BUSINESS By Matt McFarland, CNN Business Elon Musk said Thursday night at Tesla’s AI Day that the company is building a humanoid robot, and will probably have a prototype next year. “It’s basically going to start dealing with work that is boring,"
+    publishedDateTime: 2021-08-20T17:40:00Z
+    webUrl: "https://ktvz.com/videos/2021/08/20/elon-musk-just-added-a-robot-to-his-list-of-things-always-coming-next-year-for-now-hes-got-a-guy-in-a-suit/"
     type: article
     provider:
-      name: Local News 8
-      domain: localnews8.com
+      name: KTVZ
+      domain: ktvz.com
     quality: 19
     images:
-      - url: "https://localnews8.b-cdn.net/2021/08/hypatia-h_e53277f69b31148810e9707a8a3d9650-h_b97ea991d9b2817ab9b9934fbf4452f8-300-scaled.jpg"
+      - url: "https://ktvz.b-cdn.net/2021/08/hypatia-h_e53277f69b31148810e9707a8a3d9650-h_b97ea991d9b2817ab9b9934fbf4452f8-300-scaled.jpg"
         width: 2560
         height: 1708
         isCached: true

@@ -38,6 +38,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "RWTH: The future with artificial intelligence"
+    excerpt: "Aachen City Hall How do we encounter artificial intelligence in our everyday lives? At home, on the street, while shopping? And how will AI shape our everyday life in the future? Through self-driving cars or in medical care? And where are the limits?"
+    publishedDateTime: 2021-08-20T12:57:00Z
+    webUrl: "https://indiaeducationdiary.in/rwth-the-future-with-artificial-intelligence/"
+    ampWebUrl: "https://indiaeducationdiary.in/rwth-the-future-with-artificial-intelligence/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/rwth-the-future-with-artificial-intelligence/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 59
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/12/rwth-aachen-university-1.png"
+        width: 722
+        height: 362
+        isCached: true
   - title: "Music of the Future: Listen to These Songs Made by Artificial Intelligence"
     excerpt: "Artificial Intelligence is taking over the music industry. These AI songs are a blend of human and AI technologies like machine learning."
     publishedDateTime: 2021-08-19T04:21:00Z
