@@ -43,22 +43,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "When states face water cuts"
-    excerpt: "U.S. officials on Monday declared the first-ever water shortage from a river that serves 40 million people in the West, triggering cuts to some Arizona farmers next year amid a gripping drought. Water levels at the largest reservoir on the Colorado River — Lake Mead — have fallen to record lows."
-    publishedDateTime: 2021-08-18T01:15:00Z
-    webUrl: "https://indiancountrytoday.com/news/when-states-face-water-cuts"
-    ampWebUrl: "https://indiancountrytoday.com/.amp/news/when-states-face-water-cuts"
-    cdnAmpWebUrl: "https://indiancountrytoday-com.cdn.ampproject.org/c/s/indiancountrytoday.com/.amp/news/when-states-face-water-cuts"
-    type: article
-    provider:
-      name: Indian Country Today
-      domain: indiancountrytoday.com
-    quality: 44
-    images:
-      - url: "https://indiancountrytoday.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTcyMTk4NDI0NzE0NjgzNjA0/lakemead-je-2-2000.jpg"
-        width: 620
-        height: 372
-        isCached: true
 
 secured: "EEPUvxfqlQaSUhX74b8OilnYEPshY490eddeWN3FDjBlNEa+l0sO8mmhkF4nBB1Muq41+7U3B+NJDyreNjYUIGSPKkMilwO68AxH0whu+GANCHmTtXB3c2bh+0o64CPIip0sDkNvsV7JRTvNxvRdplIISk+wkvHuuTPKfv53ofr2DP251cZjPnmcvKGGltmRR/lK1gN7jqGe6vZF8qtYCrDAXoiglzIdMrHqi4JnY6+QmG3vqki/71lWsQgBFHMRWQFXE1TMnYKkUoQdOqFPjIv3YBT4JmU8FCrvjgJQgRAhX/v9Kev11scI7wBHr5C0yodjS0ocNFtOHzuupy32089vykn0/h1VLLamEcS3QcE=;xSIj1Wblv1Zwoy8uI+B0vQ=="
 ---

@@ -6,8 +6,8 @@ publishedDateTime: 2021-08-21T09:52:00Z
 originalUrl: "https://www.wrcbtv.com/story/44568655/ai-copywriting-does-it-work-we-tested-7-of-the-top-softwares-so-you-dont-have-to-with-samples-from-each"
 webUrl: "https://www.wrcbtv.com/story/44568655/ai-copywriting-does-it-work-we-tested-7-of-the-top-softwares-so-you-dont-have-to-with-samples-from-each"
 type: article
-quality: 20
-heat: 20
+quality: 22
+heat: 22
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Facebook AI
 
 images:
   - url: "https://CNTSYNCONT.images.worldnow.com/images/21247876_G.jpg"
@@ -24,6 +25,6 @@ images:
     height: 990
     isCached: true
 
-secured: "yBLoBHOxX6PgKWpJvodedCO+LMq467RqXbbm6c7/yWSu5x099QvIgFTpZUrB3m3LSszs1dt+nrSGarEECSgz3xBjyk8FtAhFD41u/I1tOe44DAAR8xC4xoWmaYkTpbhhqZt6y/PZNVDUH4xPZp2hkxhCtKptAM3oF4jHzorkPNtxXxz1FJdGqs7ct6BLKOaKTT3iTFLevkFPldq2IvdCX7t6VPPLO+yh5zU4DwHl3Yq5Ji1Tcp9sk9HC56iBlx6xreyYwL1xK/fi+3osynWx3cMOqOJ6bAhUZljkle/mw/DQbbPCEBRyKEiuww5EDPGpBctJSCDQmNwdspMBsi/Vm1iD/caC3FZVWv1zv5b1r78=;LZ3MNA3OCCH1jEsw7xcb7A=="
+secured: "mS+lHLDgX18zkO2W/OJyDosoVYwjIuRzvp9P2EYFdHTQ0IzK4uePXuwMg6gpiYuBNmYAHBEtFHWpXb5CLcDEROL1Cp3UsuGKEBui8MovPUfrsuxNyxQsPAeaZ8E8kAbGbWSBi9NgqH8bwizbzaJMsfASRBeQgoAn9+QROWI1LzkhGuTdU68g1ZMa3wAX8DzISi7ogBXbsdeNCjJwT0jjH7zbAc9wTfM3uoePEJ1FOirdfyfweU4SWFBSn8hv9syNP3lLq9p7yvY7G7g+okC2qkCLg7xWaYnFP/P1bFl9Xgno70aeQed3ZXLE79KbG0DgSq5QZDjb7TLQA0mE91Xe1zRruIcQ34P4uaQAGVOz3jg7RD7gaIKvrSQpbGGw1n3ABNl5UJk8Ac0KmbsnZN6lSG5Jn/3ZmkhKPPs/1DIhoApOKd/SkSRqQnWlbZJBrz6GKrEvdUbMrq4B8mJuAhIFqckNM05el7qGnsC7xdb7yoHHpxO6H238u0VWY1bHPlrtgqlnjxj8pBO6Y4+IZiUXjg==;fmzjtZq/Ggrqw8Tiqk3xlA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/sponsor/beyond-limits/the-ai-advantages-for
 webUrl: "https://techcrunch.com/sponsor/beyond-limits/the-ai-advantages-for-healthcare-and-finance/"
 type: article
 quality: 101
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -41,15 +41,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 68
-  - title: "This company is pushing the boundaries in healthcare with AI"
-    excerpt: "In a fast-paced environment, AI is a resource that never gets tired, never forgets, and can never be emotional."
-    publishedDateTime: 2021-08-18T01:44:00Z
-    webUrl: "https://www.techinasia.com/company-pushing-boundaries-healthcare-ai?ref=recommender-701323"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 66
   - title: "ClosedLoop.ai Raises $34M Series B to Usher in AI-enabled Healthcare"
     excerpt: "ClosedLoop.ai, healthcare’s data science platform, today announced a $34 million Series B financing. The investment"
     publishedDateTime: 2021-08-18T12:53:00Z

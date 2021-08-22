@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wkbn.com/news/national-world/explainer-western-states-fa
 cdnAmpWebUrl: "https://www-wkbn-com.cdn.ampproject.org/c/s/www.wkbn.com/news/national-world/explainer-western-states-face-first-federal-water-cuts/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: WKBN
@@ -42,22 +42,6 @@ related:
       - url: "https://www.krqe.com/wp-content/uploads/sites/12/2021/08/AP21226282995542.jpg?w=1280"
         width: 1024
         height: 683
-        isCached: true
-  - title: "When states face water cuts"
-    excerpt: "U.S. officials on Monday declared the first-ever water shortage from a river that serves 40 million people in the West, triggering cuts to some Arizona farmers next year amid a gripping drought. Water levels at the largest reservoir on the Colorado River — Lake Mead — have fallen to record lows."
-    publishedDateTime: 2021-08-18T01:15:00Z
-    webUrl: "https://indiancountrytoday.com/news/when-states-face-water-cuts"
-    ampWebUrl: "https://indiancountrytoday.com/.amp/news/when-states-face-water-cuts"
-    cdnAmpWebUrl: "https://indiancountrytoday-com.cdn.ampproject.org/c/s/indiancountrytoday.com/.amp/news/when-states-face-water-cuts"
-    type: article
-    provider:
-      name: Indian Country Today
-      domain: indiancountrytoday.com
-    quality: 44
-    images:
-      - url: "https://indiancountrytoday.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTcyMTk4NDI0NzE0NjgzNjA0/lakemead-je-2-2000.jpg"
-        width: 620
-        height: 372
         isCached: true
 
 secured: "Iiki9zlkjoBHT2XCQXgDxR+UA6yYzP07BaPtQj8ajSwtMt6wwLbL/fshNcE1hxzk8apsdfXqfOJk7xHVJ+AYLRoup3VyEctNJPxqdEp/EPeyN6eQD7IPnHtw2ArIYHexdLaTdaX7g3EM1HymEEIrq5wfVsoXprTzXbUdw7X/9MCpqeHhpG6BnlHFSlzkFz/vV6qlUEggThabwlrQK0oOzRiyZ8Y1RDjV7IwC/o0MqcPdVKXKS/+8/OWfRo/dLIsp+OjuSSNLzTi9zU4i/TLsGiKzm5QkPaZ7Qn5/08ioM9R/i0XLbbEdft18E6D88TJwaN44zdEsKmptmAJQz4MkM26tSuzIiwkU8icXciDTRnWq7dyCr0ZNF9k/ZkI0ygLIvFIv1k/ZK3WqqMqc1x3vg4/jxlZffFk5Vp3A2FclmYBwyvMHozeauyRMQNP8RtE1hXYITgunj2nVNc5ub97mkBIobO7Sd7+g9SnqnvrxC6HRdijmHrdwVvVlcusNbYmnLiOATdjzQCloZ/yiUKIpUw==;SKZ+ytml0O+qwsjvaSm2QQ=="

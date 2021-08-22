@@ -14,13 +14,13 @@ provider:
   name: VentureBeat
   domain: venturebeat.com
   images:
-    - url: "/assets/images/organizations/venturebeat.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
 
-secured: "bOTXnNLbUVP98dCRusR6lKT72QLUj01HoomCFLrgX+QEngzQJdHQ/0rC4MxlrBtkfkVLBF3X5T7D/pajStOs+LL4cbGOPrDYyjdSo2G68mizREVN05J2KaSHapn2on//cnlHy14vlpzGnX3MLYpvXgU/JkfJd8DeI3DG1AmNmI5I0lHNSYt2/hZPaIoLkDm1GWCoz8k1C4qAatGVgy5CfmrjgfTjqZTGFF7Tk81dGusKjb93phdnYC0o2+8MnxSF/y7uH7w388IUnoAAWrNoTy3MVoeGGMtmr3yf9V9pWbLgzNxLthWvvGam6TJfBOhbCTqolT3nqf+pId6CtNXwJKGIyLrqBouL74j0FheQBrNzxNJ1FTzieZximOWaArX8bbudjZ3ciWTbHhwV4jya3OK53U9HgC15YURG8apChnBw6puOUYr2lgtMFZTZnCSGD2IB2fPHlmWro0sBeHJG5mnnXOFdgcq+IQ/JCP3UO2MVw9u4t3WCMFJtG5U1Z6oZ1AgphxbDMwIVaKs01Vs3yL4sNgUlz3pKd2JNw6ltIso=;DsBqy3mt2EuRHXsNYN7uCA=="
+secured: "HI+xO3y/1gm3rQ+CTZjxywu+ey/5rELPmrGNnZNyQ4nefO9iFuWUPanCsUaNRRWMTUQQ2nB/yre8aK/n8NbVSj9vafAY5Q4HSHX4Ey0CqiWjGO1FK2o0VCSrOyZY4XG/uyU0VJYg7H765L5VE7mzZcfJSMK64hS5Y1IcvQbFvuOf4SW06uqnNcHkNr2b4eOnqlqr3IEO9SFS/FYsWE88af3t8wE1swM///h0VbpkNeHB4FOF8jYqZhHDtv5wDjb03LcZmQ6IDw7WY5W0VYVigE+eIVxwUJ2gKRfENpX7pIquUGEwLx8VueifrnHI3dcOrgeiTy5m05m4fhSHzNTSHl2OtjUYeBd5iq3eNWyX2Vrt6wUUh9Xf8vJ1lqWFS7+cr5T9nyEI1zsEHptmnNXb9ApKKvlsSPF8JBu2bcEkxuctWiZ9F1e7ietVZ2sZk4Ert5KHTetO9Ma0uoPTkc1x18jxzXNeNCFyrxVNOC4ukZsJE00XX0GKLLwbsjztpVJ79lQ6LtGqtu8xAejv1aXwB/uuDO6qkjeNzn59VrtjtTk=;uM/ZNfYbcyX432x9KhVbAQ=="
 ---
 

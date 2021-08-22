@@ -69,15 +69,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 24
-  - title: "The Use of Facial Recognition Technology in Criminal Investigations"
-    excerpt: "Facial recognition and surveillance technology is being used throughout the nation during criminal investigations. Find out more with our latest article written by our senior law clerk, Sarah! Facial recognition and surveillance technology is being used throughout the nation during criminal investigations."
-    publishedDateTime: 2021-08-18T01:15:00Z
-    webUrl: "https://www.avvo.com/legal-guides/ugc/the-use-of-facial-recognition-technology-in-criminal-investigations"
-    type: article
-    provider:
-      name: Avvo
-      domain: avvo.com
-    quality: 19
 
 secured: "u1GPJmbHhIu9D4ViOpI78J8o8TdGdkrhXO7nGOrtkKj/I4xDMSkAKbARLE5z4NhaMkL3j4M0PmaK9lUjXrmNEJFHTjcIL4dweocAUNoa90u+KY+UYXNWFt3DV6GbtW62egAD+WldQW1cwEPNrhTIquegCbmgRO7eM46ugYdRqwL/ymoOkBFCOGEudMxqXOpWkvnLWodF1p4V59KKB3Z8xUOILi7/XJgXlY3cRo9cSaTRoK/WJbv/bdNqochCc5g0dsBXJ/bSLT33g1wctzgAKdfKu6PQbCkWTMiCnP1rBfhO4c1FqiBUlaPYcEnewqx5BGEx2QHjJMECESkQKZBY9qzsXrEVZTMXH5yYZxD5z7sMNXHqQ4gORxFuIjNwfkc1tcNnBBQhbdPxA+l8F4F2U2pyw66PaSe9+xozvdOG2/LPwivfmD6z0MjxQCXh0YwLoUmMoLeDvbIXg2omCsChULkWb4JV75ETh1WqNBKS4auKy1ErQ++3QW2VJyc0XDgBAbomkNAfhsxmYy7qVUMcEw==;sau6UTtaTP3r2QITr1ACCw=="
 ---

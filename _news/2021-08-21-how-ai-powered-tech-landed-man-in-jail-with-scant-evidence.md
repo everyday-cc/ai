@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "This Man Spent Nearly A Year In Prison Over Faulty AI-Based Evidence"
+    excerpt: "With this, we should ask since when was judging humanity replaced by an algorithm alone when life hangs in the balance?"
+    publishedDateTime: 2021-08-22T18:10:00Z
+    webUrl: "https://hothardware.com/news/man-jailed-over-ai-powered-gunshot-detection"
+    ampWebUrl: "https://amp.hothardware.com/news/man-jailed-over-ai-powered-gunshot-detection"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/man-jailed-over-ai-powered-gunshot-detection"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 57
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/56048/content/man-wrongly-convicted-on-ai-evidence.jpg"
+        width: 708
+        height: 409
+        isCached: true
   - title: "How AI-powered tech landed man in jail with scant evidence"
     excerpt: "Michael Williams’ wife pleaded with him to remember their fishing trips with the grandchildren, how he used to braid her hair, anything to jar him back to his world outside the concrete walls of Cook County Jail."
     publishedDateTime: 2021-08-19T12:20:00Z

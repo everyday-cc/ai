@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2362368/artificial-intelligence-ai-in-dru
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2362368/artificial-intelligence-ai-in-drug-discovery-market-latest"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Drug Discovery Market Next Big Thing : Major Giants NVIDIA, IBM, NuMedii"
-    excerpt: "The Latest research study released by HTF MI Global Artificial Intelligence AI in Drug Discovery Market with 100 pages of analysis on business Strategy taken up by key and emerging industry players and delivers know how of the current market"
-    publishedDateTime: 2021-08-18T01:52:00Z
-    webUrl: "https://www.openpr.com/news/2358309/artificial-intelligence-ai-in-drug-discovery-market-next-big"
-    ampWebUrl: "https://www.openpr.com/amp/2358309/artificial-intelligence-ai-in-drug-discovery-market-next-big"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2358309/artificial-intelligence-ai-in-drug-discovery-market-next-big"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 55
-    images:
-      - url: "https://cdn.openpr.com/U/8/U818837183_g.jpg"
-        width: 450
-        height: 300
-        isCached: true
   - title: "The Artistic Side of Artificial Intelligence (AI)"
     excerpt: "Move over selfie, artificial intelligence (AI) might just be creating your world-class portrait. Meet Patrick Tresset, a London-based artist. His art practice follows two main paths. On one hand, Tresset presents theatrical installations in which robotic agents are actors."
     publishedDateTime: 2021-08-21T03:03:00Z

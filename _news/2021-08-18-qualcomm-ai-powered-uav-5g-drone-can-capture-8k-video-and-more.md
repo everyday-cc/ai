@@ -7,7 +7,7 @@ originalUrl: "https://www.geeky-gadgets.com/qualcomm-5g-drone-18-08-2021/"
 webUrl: "https://www.geeky-gadgets.com/qualcomm-5g-drone-18-08-2021/"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Smartphones in the sky: Qualcomm launches first 5G and AI platform targeting commercial drones"
-    excerpt: "After supplying computer chips for NASA's Ingenuity helicopter on Mars, Qualcomm has unveiled next generation technologies to help power safe, beyond line-of-sight drone flights on Earth."
-    publishedDateTime: 2021-08-18T01:08:00Z
-    webUrl: "https://www.sandiegouniontribune.com/business/technology/story/2021-08-17/sd-fi-qualcomm-drones"
-    ampWebUrl: "https://www.sandiegouniontribune.com/business/technology/story/2021-08-17/sd-fi-qualcomm-drones?_amp=true"
-    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/technology/story/2021-08-17/sd-fi-qualcomm-drones?_amp=true"
-    type: article
-    provider:
-      name: San Diego Union-Tribune
-      domain: sandiegouniontribune.com
-    quality: 47
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/4b9880a/2147483647/strip/true/crop/2393x1600+4+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F53%2F21%2Ff9dfa488476ebc31094eb4ecc0bf%2Fsd-photos-freelance-contract-825854-sd-fi-covid-presser-14.jpg"
-        width: 320
-        height: 214
-        isCached: true
   - title: "Qualcomm unleashes first 5G AI drone on the world"
     excerpt: "Building on its Mars helicopter technology, Qualcomm has announced its world-first 5G AI drone platform, with an early Verizon tie-up."
     publishedDateTime: 2021-08-18T16:45:00Z

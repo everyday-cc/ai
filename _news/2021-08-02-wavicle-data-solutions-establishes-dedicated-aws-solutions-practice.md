@@ -2,21 +2,25 @@
 category: news
 title: "Wavicle Data Solutions Establishes Dedicated AWS Solutions Practice"
 excerpt: "video and image solutions using Amazon Rekognition, and audio solutions using Amazon Transcribe. PII Compliance: In order to maintain the privacy of customer data, the Wavicle team provides ..."
-publishedDateTime: 2021-08-02T11:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/08/p22276802/wavicle-data-solutions-establishes-dedicated-aws-solutions-practice"
-webUrl: "https://www.benzinga.com/pressreleases/21/08/p22276802/wavicle-data-solutions-establishes-dedicated-aws-solutions-practice"
-ampWebUrl: "https://www.benzinga.com/amp/content/22276802"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22276802"
+publishedDateTime: 2021-08-02T15:06:00Z
+originalUrl: "https://www.lelezard.com/en/news-19930559.html"
+webUrl: "https://www.lelezard.com/en/news-19930559.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "AahZm9rlx0M0Wrq1MlOS7tEWIgn6DEUAT2XVWT97xjxjCbSqTWu2etxhbspl1+Lo1IS4hnlftGAMW3NeCJPRBFrKN9RZlCbdCcvXlZoH4hLcgjRCVp9uvfp0QDwP6ESA156ZE05mammiO0UD3ZNFqx3aU0kQ9ANdnFM7RNBvnDLZTB1nNrz32A7DRQoqUhRIUiPHvEpxNzprRkG2RSYMxBQDik+qdPlM5L5mA12R5o7hJezVrr4ObSGYcwE42sAir7c4b6YuU9EP6qscNHWPZvJ6GSYK/kjr5B6/lZfjGWxtKGdVfRqmHD7RGIdjKTCv07Fj86cvcGWqPsN/Nxgvr/yNjWn4RP7IBh/N0xy2ny8=;TgrlsnGmJj51st5Nmt1bqg=="
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
+    isCached: true
+
+secured: "xPkCbKFw5mHcjgTwF+yvhyitjwgOY2gAQCfMllXcc62iS/RPhjyVVYWe9ReKP2PVpOy1ZL5Qf1wlgqSIOQH9+Zdn1SJCk8AkvYV9mH4zU5HnPR69gXUi3oQJiNb2feDP1+eFdPQyv0MgAqrdaIWor+zRF80UB3ljO1ug2Sw/OrtrGw+Q7IaY+Fa0uLe1vdcsTYQ4mKFwOnHwBqgqiKq7OLBXeUvgZyl6tOKRsNiTVC4GhgA8r6wALW8wdhggts/bu4ycvdiyRGp/vl+msV5UvIQgAdiNs19wHSYdGx9N71wVrLGrUo1r/pomLoc4xUXEOMlG3lsywKvRL3/2a2ToR2R77vZ2Q6h1REhTckbIczk=;q8fpIORqrOLAYChu2SeoSw=="
 ---
 

@@ -37,18 +37,18 @@ related:
       domain: sciencedaily.com
     quality: 46
   - title: "UT Southwestern pioneers PULSAR-integrated radiotherapy with immunotherapy for improved tumor control"
-    excerpt: "DALLAS – Aug. 20, 2021 – Artificial intelligence, along with a $71-million expansion of Radiation Oncology services, is allowing UT Southwestern Medical Center cancer physicians to pioneer a new PULSAR radiation-therapy strategy that improves tumor ..."
-    publishedDateTime: 2021-08-20T13:40:00Z
-    webUrl: "https://www.utsouthwestern.edu/newsroom/articles/year-2021/pulsar-integrated-radiotherapy.html"
+    excerpt: "Artificial intelligence, along with a $71-million expansion of Radiation Oncology services, is allowing UT Southwestern Medical Center cancer physicians to pioneer a new PULSAR radiation-therapy strategy that improves tumor control compared with traditional daily therapy."
+    publishedDateTime: 2021-08-20T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/926055"
     type: article
     provider:
-      name: UT Southwestern Medical Center
-      domain: utsouthwestern.edu
+      name: EurekAlert!
+      domain: eurekalert.org
     quality: 24
     images:
-      - url: "https://www.utsouthwestern.edu/asset/11df8adb-48df-41dc-999b-cc800a62a59b/pulsar-thumbv2.jpg"
-        width: 1000
-        height: 1000
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/f5e3fc51-c302-43d0-a53d-c058ccad2dc6/Rendition/low-res/Content/Public"
+        width: 700
+        height: 355
         isCached: true
 
 secured: "b2nSDeS090ayZ8KTUIIDqXL5qrVwHtRW5LOrx4OBAESCAqwa/W3FkRIr7n7dMhKo0bfXiWRwFkss1bY06NLL9sl2uc4vYEohxtsuv53Z+xniykMF1HLLPaQ/SDHMPsiHSKumfik78KLJVgavDU0WZxSFMH0vz3DXQsrNhKADR737yLtlD3pqf8UfQi+LIGVpQ1zbUTcyf2Dww9nkL4rb7BDaAFTWFG/I6mbAWUuBU9f2oK1t+FZoVIiXtIAcUaziCNwTC5Eo7A4dJ8/dYgQOG3dJW3aC/XYckkGlq69FA7wk6dHMB5eb4UPY2xanjgGeCzxGy/U6GBoET43h23bHBB44AVobtQPqswcI7PKmkKu+UmuAvPR7rXUnYi8CSexqA2Eb8hipepsR28C4q9LFCBRtXu49wF73eInl6jh08Ks4n9SfwkNLsODP9DfQCLc3hEGmIf6NfBC4SkVkGrADdKRFT+ozNzLPkShJcOHa6cc7xob3SWErIT4awCsna9o65EyACp+gAaQAnqdncPkOEw==;vTrH9Q3LmtwpRgbNDo8aKA=="

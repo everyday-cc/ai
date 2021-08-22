@@ -40,18 +40,18 @@ related:
         height: 480
         isCached: true
   - title: "UT Southwestern pioneers PULSAR-integrated radiotherapy with immunotherapy for improved tumor control"
-    excerpt: "DALLAS – Aug. 20, 2021 – Artificial intelligence, along with a $71-million expansion of Radiation Oncology services, is allowing UT Southwestern Medical Center cancer physicians to pioneer a new PULSAR radiation-therapy strategy that improves tumor ..."
-    publishedDateTime: 2021-08-20T13:40:00Z
-    webUrl: "https://www.utsouthwestern.edu/newsroom/articles/year-2021/pulsar-integrated-radiotherapy.html"
+    excerpt: "Artificial intelligence, along with a $71-million expansion of Radiation Oncology services, is allowing UT Southwestern Medical Center cancer physicians to pioneer a new PULSAR radiation-therapy strategy that improves tumor control compared with traditional daily therapy."
+    publishedDateTime: 2021-08-20T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/926055"
     type: article
     provider:
-      name: UT Southwestern Medical Center
-      domain: utsouthwestern.edu
+      name: EurekAlert!
+      domain: eurekalert.org
     quality: 24
     images:
-      - url: "https://www.utsouthwestern.edu/asset/11df8adb-48df-41dc-999b-cc800a62a59b/pulsar-thumbv2.jpg"
-        width: 1000
-        height: 1000
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/f5e3fc51-c302-43d0-a53d-c058ccad2dc6/Rendition/low-res/Content/Public"
+        width: 700
+        height: 355
         isCached: true
 
 secured: "fU6hzF2kNFUPDatK1+Oh2kX2CzFaW18ZVFUqAqqXtvr83RI8YhnjYJQnr8XnjkkSkpTp1ClMSpuOUxWn9wgmNEXmIKkvCET0f/ds9nTcj5jYSOgZo5hc8x5oaB1DUAEWJI5FNruRhYOmfVmKi+NwjjwlXSgn8X4I/5WjMfydCSuZjC3EjglQ8sJ9eNHvRCH3CFM+yL3VZ72FP91CJPPHYBXacvhjmN0oy69gwLs1JMi9VQYz3pTAcW2pXD5C9k6B2PWF7hFu2CUMYNieUo+jkYCF5wfDSnmgrlI+OZQw6O6OoWDOAYTjKrYiYKDYw6kXUmfJdDRUlFPpHhxAH5g2vmhqfPBsvhGJ6cKDq8LPDPI=;hhaFUWQxqZIYUHbLNyhDCg=="

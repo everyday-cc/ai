@@ -41,22 +41,6 @@ related:
         width: 599
         height: 400
         isCached: true
-  - title: "Artificial Intelligence (AI) in Drug Discovery Market Next Big Thing : Major Giants NVIDIA, IBM, NuMedii"
-    excerpt: "The Latest research study released by HTF MI Global Artificial Intelligence AI in Drug Discovery Market with 100 pages of analysis on business Strategy taken up by key and emerging industry players and delivers know how of the current market"
-    publishedDateTime: 2021-08-18T01:52:00Z
-    webUrl: "https://www.openpr.com/news/2358309/artificial-intelligence-ai-in-drug-discovery-market-next-big"
-    ampWebUrl: "https://www.openpr.com/amp/2358309/artificial-intelligence-ai-in-drug-discovery-market-next-big"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2358309/artificial-intelligence-ai-in-drug-discovery-market-next-big"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 55
-    images:
-      - url: "https://cdn.openpr.com/U/8/U818837183_g.jpg"
-        width: 450
-        height: 300
-        isCached: true
   - title: "Turkey sets national artificial intelligence (AI) strategy"
     excerpt: "An announcement showed that Turkey has set a national artificial intelligence (AI) strategy.<br /> <br /> The 2021-2025 roadmaps showed six priorities"
     publishedDateTime: 2021-08-22T05:27:00Z

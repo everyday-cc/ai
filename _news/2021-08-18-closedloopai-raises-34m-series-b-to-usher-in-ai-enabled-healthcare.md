@@ -51,15 +51,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 68
-  - title: "This company is pushing the boundaries in healthcare with AI"
-    excerpt: "In a fast-paced environment, AI is a resource that never gets tired, never forgets, and can never be emotional."
-    publishedDateTime: 2021-08-18T01:44:00Z
-    webUrl: "https://www.techinasia.com/company-pushing-boundaries-healthcare-ai?ref=recommender-701323"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 66
   - title: "From health care to infrastructure, how AI is changing the world for the better"
     excerpt: "New advances and creative applications are harnessing the power of AI to offer solutions to a host of social issues to enable new leaps in human development."
     publishedDateTime: 2021-08-20T14:50:00Z
