@@ -19,61 +19,22 @@ topics:
   - AI
 
 related:
-  - title: "Online Travel Hopper’s Metamorphosis From Flight Selling to Fintech"
-    excerpt: "Hopper, an online travel company, said it had $170 million Series G round of equity ﬁnancing, led by GPI, a private equity firm."
-    publishedDateTime: 2021-08-17T11:30:00Z
-    webUrl: "https://skift.com/2021/08/17/online-travel-hoppers-metamorphosis-from-flight-selling-to-fintech/"
-    ampWebUrl: "https://skift.com/2021/08/17/online-travel-hoppers-metamorphosis-from-flight-selling-to-fintech/amp/"
-    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2021/08/17/online-travel-hoppers-metamorphosis-from-flight-selling-to-fintech/amp/"
+  - title: "COMUNICADO: Climate FinTech hires all-star management team"
+    excerpt: "Frankfurt am Main, Germany, August 18, 2021 (News Aktuell)- bullfinch completes its management team by hiring top-level executives. Niko von Tippelskirch has been newly appointed to the executive management board and will take on the position of Chief Operating Officer (COO)."
+    publishedDateTime: 2021-08-18T05:32:00Z
+    webUrl: "https://www.elconfidencialdigital.com/articulo/ultima-hora/comunicado-climate-fintech-hires-all-star-management-team/20210818073226269198.html"
+    ampWebUrl: "https://www.elconfidencialdigital.com/articulo/ultima-hora/comunicado-climate-fintech-hires-all-star-management-team/20210818073226269198.amp.html"
+    cdnAmpWebUrl: "https://www-elconfidencialdigital-com.cdn.ampproject.org/c/s/www.elconfidencialdigital.com/articulo/ultima-hora/comunicado-climate-fintech-hires-all-star-management-team/20210818073226269198.amp.html"
     type: article
     provider:
-      name: Skift
-      domain: skift.com
+      name: El Confidencial Digital
+      domain: elconfidencialdigital.com
     quality: 44
     images:
-      - url: "https://skift.com/wp-content/uploads/2021/08/a-user-of-hoppers-booking-app-source-hopper.jpg"
-        width: 1025
-        height: 684
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
-  - title: "FinTech SPAC Activity Heats Up"
-    excerpt: "In that filing, TG Venture said technologies under consideration for business combinations will include AI, blockchain and other advances. The filing notes, “FinTech is disruptive to our life every day. The power dynamics in the payments industry are ..."
-    publishedDateTime: 2021-08-20T15:15:00Z
-    webUrl: "https://www.pymnts.com/news/ipo/2021/fintech-spac-activity-heats-up/"
-    ampWebUrl: "https://www.pymnts.com/news/ipo/2021/fintech-spac-activity-heats-up/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/ipo/2021/fintech-spac-activity-heats-up/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/08/IPO-SPAC-FinTech-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
-  - title: "4 Ways the Fintech Industry is Detecting and Preventing Frauds"
-    excerpt: "Digitization in the fintech industry is giving rise to financial fraud. It is essential to detect potential frauds and prevent them before any loss to the customer or the organization. Fremont, CA: Like all the industries,"
-    publishedDateTime: 2021-08-20T00:00:00Z
-    webUrl: "https://www.cioapplications.com/news/4-ways-the-fintech-industry-is-detecting-and-preventing-frauds-nid-8322.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 24
-    images:
-      - url: "https://www.cioapplications.com/uploaded_images/magazine_img/itqtp300400.jpg"
-        width: 300
-        height: 400
-        isCached: true
-  - title: "Celebrating fintech’s role at the heart of the new normal"
-    excerpt: "Innovate Finance has launched a new forum to explore the potential of fintech to create a more inclusive and sustainable world. What good timing - fintech has performed impressively amidst the pandemic and will have a crucial role to play as restrictions are lifted and we settle  into our ‘new normal’."
-    publishedDateTime: 2021-08-21T04:38:00Z
-    webUrl: "https://www.finextra.com/blogposting/20765/celebrating-fintechs-role-at-the-heart-of-the-new-normal"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
 
 secured: "Eot7kUpcLyuPDq2MHzxTHV1wFADgCmBos1VvA7X6oqk+9OLYzxP+5YPzMYCnrjyBM+n842qL9W4BRO7jj4rexcgk45+U0O3wLcdvQ8DJw9XARJo6TcwwUS+zeqBHxEwtcmr4WG8kWCZYDw72j8PItqY+ukqBmX1p48lNdfS/N5oEeqoBbj0zJjnXf72e3DdS2Ltwxap0PJ1lmcUMrwDJ7/VyZ+N82DtqtnbayJ+sVm4s6Ciak+kp1HKslql34MS/27y+JGo+83TUD4i3SKPwqu2HUJ2Zz4n7UKoClpaLgPZxIxPxnmWT/EiMfMPkdD6+daSudfqNlwRntHto0n8FSo1l2hmCrOucwo1A3t4fjwQ=;irDDX+2vd57VwgV4If8IXg=="
 ---

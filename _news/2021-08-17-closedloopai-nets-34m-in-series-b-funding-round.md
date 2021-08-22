@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/closedloop-ai-ne
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/closedloop-ai-nets-34m-series-b-funding-round/amp/"
 type: article
 quality: 57
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/sam-moqadam-2rrsfMN4hn8-unsplash.jpg"
         width: 6000
         height: 4000
-        isCached: true
-  - title: "ClosedLoop.ai Raises $34M in Series B Funding"
-    excerpt: "ClosedLoop.ai., an Austin, Texas-based healthcare’s data science platform, raised $34m in Series B financing. The round was led by Telstra Ventures with participation from Breyer Capital, Greycroft Ventures,"
-    publishedDateTime: 2021-08-17T10:43:00Z
-    webUrl: "https://www.finsmes.com/2021/08/closedloop-ai-raises-34m-in-series-b-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 39
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2021/08/ClosedLoop_co-founders.jpg"
-        width: 480
-        height: 344
         isCached: true
   - title: "ClosedLoop Employs AI to Target Unnecessary Health Spending"
     excerpt: "ClosedLoop.ai is hoping to use artificial intelligence to overcome some of the biggest obstacles in medicine including unnecessary healthcare spending. The Austin, TX-based company has raised $34 million to help it accomplish this task."

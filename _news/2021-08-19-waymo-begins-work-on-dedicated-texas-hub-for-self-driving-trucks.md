@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/automotive/waymo-dedicated-texas-hub-self-drivi
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/waymo-dedicated-texas-hub-self-driving-trucks/?amp=true"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Waymo Is 99% of the Way to Self-Driving Cars. The Last 1% Is the Hardest"
-    excerpt: "The world’s most famous autonomous car shop has lost its CEO and is still getting stymied by traffic cones. What’s taking so long?"
-    publishedDateTime: 2021-08-17T10:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-08-17/waymo-s-self-driving-cars-are-99-of-the-way-there-the-last-1-is-the-hardest"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 68
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igcXXfJQ_IyA/v0/1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Ryder and Waymo agree to build maintenance network for self-driving trucks"
     excerpt: "The companies’ goal is to maximize vehicle up-time and ensure the reliability required to scale operations nationwide, Miami-based Ryder said. According to Waymo Via—Waymo’s trucking and local delivery unit—the move was necessary to serve its growing fleet and geographical footprint."
     publishedDateTime: 2021-08-19T18:58:00Z

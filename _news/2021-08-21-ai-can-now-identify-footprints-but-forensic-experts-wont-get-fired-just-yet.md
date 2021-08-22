@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/ai-identify-footprints-but-forensic-ex
 webUrl: "https://thenextweb.com/news/ai-identify-footprints-but-forensic-experts-wont-get-fired-syndication"
 type: article
 quality: 63
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: The Next Web
@@ -26,6 +26,22 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "We trained AI to recognise footprints, but it won't replace forensic experts yet"
+    excerpt: "We rely on experts all the time. If you need financial advice, you ask an expert. If you are sick, you visit a doctor, and as a juror you may listen to an expert witness. In the future, however, artificial"
+    publishedDateTime: 2021-08-22T01:44:00Z
+    webUrl: "https://www.econotimes.com/We-trained-AI-to-recognise-footprints-but-it-wont-replace-forensic-experts-yet-1615336"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 32
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/2021081915a5314abd1e76070_th_1024x0.jpg"
+        width: 496
+        height: 277
+        isCached: true
 
 secured: "AUGftddA/Gv1FgChaRZ1fygdL/sHgTbuJZ6kHpSXyiPY2GTaVq11hXXHYTU647Fv2hV3/MATyhAdGFwnWx9dE/IDkekF8pweIkrytjlMwrOh0ZKx99r0si/6lWi31Uc3VsFsXm5cedlJWTVoIl+PaBfChcNJKKFowXlzRj/OvkjpkE1qZFbs+uampRgcPnmmaM52Xu7LM04oIu/E48ubT7KoNh8THIBr1otnMPxGpEKhVBQZVhqyN5F6YcuA2ifksh/fq+gZorrh0xLDUv5mZFUEFNdw1bp4HseC/8R4HRUMLGxRjmCbDqWD0owMNcfKAL4knHjsY0xDLcBWVIvHj7ULjdqA8qXWIdyY681WjDs=;SsyskSnk269Zt97keOHT8A=="
 ---

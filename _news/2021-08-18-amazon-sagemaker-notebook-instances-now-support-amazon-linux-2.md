@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-not
 webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-notebook-instance-now-supports-amazon-linux-2/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -98,20 +98,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/18/ML-4924-image001.jpg"
         width: 1092
         height: 732
-        isCached: true
-  - title: "Bring your own container to project model accuracy drift with Amazon SageMaker Model Monitor"
-    excerpt: "Amazon SageMaker is a fully managed service that enables developers and data scientists to quickly and easily build, train, and deploy ML models at any scale. After you train an ML model, you can deploy it on SageMaker endpoints that are fully managed and ..."
-    publishedDateTime: 2021-08-17T10:28:00Z
-    webUrl: "https://github.com/aws-samples/sagemaker-model-monitor-bring-your-own-container"
-    type: article
-    provider:
-      name: GitHub
-      domain: github.com
-    quality: 43
-    images:
-      - url: "https://opengraph.githubassets.com/0f032af55932efc7ed1f4944dd404ef48469b0f94517e0d66fb7aac0fe14a5d4/aws-samples/sagemaker-model-monitor-bring-your-own-container"
-        width: 1200
-        height: 600
         isCached: true
 
 secured: "bgbtXo6h4oBOAmO4K7RcZfSOH6sSqQ6e1E0M+2hIN3ZmHiiIgoLXkQANGuooSskdilPr4WwnJ7FsKd50w4wq7vJqSEFwD3DQm0JsirpvoAXISydXJB2P8d76QEfcdNtT6xFGoDnjghkfwLkYLj0QXYcf7iRf4g0HvFitp77bc9UfCsG9hk2varfbkPLiffTrbcfyB6OSj2fOh7V8Ie2FoZRTjzAXnvy6Xie2TmHqaBtn6LD07exQx045b2y5hbJyFA4VeywQUT9aF0f2BEF+ACaqQvykXnB+UVX6Ny2iRS7aGHygYfS4+ln1M0wMPkvJU01Z5MBR42qjgPT70JiWNWVuao2oAInts5AHdtcHEuw=;tVEl9+I7H3QCceipd87ocw=="

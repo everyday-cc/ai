@@ -7,7 +7,7 @@ originalUrl: "https://www.lelezard.com/en/news-19955551.html"
 webUrl: "https://www.lelezard.com/en/news-19955551.html"
 type: article
 quality: 14
-heat: 14
+heat: -1
 published: false
 
 provider:
@@ -25,33 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "guardDog.ai Launches Dealer Program for Integrators to Bring Autonomous Incident Response Technology to New Customer Channels"
-    excerpt: "Guard Dog Solutions, Inc., dba guardDog.ai, a rapidly expanding leader in cybersecurity solutions for consumers and businesses, today announced a dealer program for Systems Integrators, MSSP's, and IT Security Professionals nationwide."
-    publishedDateTime: 2021-08-17T14:06:00Z
-    webUrl: "https://www.lelezard.com/en/news-19955937.html"
+  - title: "HR tech Startup Hiration raises Rs 21 cr; to offer AI-powered career platform for job seekers"
+    excerpt: "Hiration, an AI-powered career platform which helps professionals create high-impact resumes and find their dream job, has raised Rs 21 crore ($3 million) from Prime Venture Partners, Venture Highway and Y Combinator."
+    publishedDateTime: 2021-08-19T10:01:00Z
+    webUrl: "https://www.freepressjournal.in/business/hr-tech-startup-hiration-raises-rs-21-cr-to-offer-ai-powered-career-platform-for-job-seekers"
+    ampWebUrl: "https://www.freepressjournal.in/amp/business/hr-tech-startup-hiration-raises-rs-21-cr-to-offer-ai-powered-career-platform-for-job-seekers"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/hr-tech-startup-hiration-raises-rs-21-cr-to-offer-ai-powered-career-platform-for-job-seekers"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 12
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 46
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "Leverage AI-Powered Document Automation & Key Servicing Tasks: Practical Yet Transformative Approaches Organizations Can Adopt"
-    excerpt: "In this session, led by industry expert Keith Mullen, you’ll learn about two core processes to perfect transformation, and how AI-powered document analytics powers quicker, more reliable, and less costly operations - freeing staff to focus on what is important,"
-    publishedDateTime: 2021-08-17T21:32:00Z
-    webUrl: "https://nationalmortgageprofessional.com/pro-school/webinar/leverage-ai-powered-document-automation-key-servicing-tasks-practical-yet"
-    type: article
-    provider:
-      name: National Mortgage Professional Magazine
-      domain: nationalmortgageprofessional.com
-    quality: 9
-    images:
-      - url: "https://nationalmortgageprofessional.com/sites/default/files/styles/news_preview_395x192/public/2021-08/norbert-kundrak-LJcB7n2F3UQ-unsplash.jpg?itok=jDczGBID"
-        width: 800
-        height: 522
+      - url: "https://images.assettype.com/freepressjournal/2020-10/e414dc5d-24a0-42a9-87a6-1f8de88c1cbd/2016_11_18T091019Z_1_LYNXeMPECAH0GF_RTROPTP_3_INDIA_MODI_CORRUPTION3qw.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "zrlteGsDPL6L7mKsSBtKI/BgQyIVbLvCQRth2WQka3Alqr9gzu+F2jrjp2ihBnGlDqZUxBRpjwozaNqo/WJJBl3JFjzdhlXuPF3Oxt1BqxFuczHe42S/8M+ksYFJWFtEuA3PFaWKtItuDe4HBUw9NzoiB/Lq5xC+3hUExTpM11mKPJTJTowHWhm/hAgrgrEhW1M9phslajj56YrOJIn9qbc8bg0T2U83QNAYFvBkJU5q9v4DhlkA/PA9f+9oLwQ3XJYK/zGD565pvXmAKUL76XbrkJBdmsOkCEMfGeVuncBiDRB5iF4B/a0jkqRSOcbnBv3BhVWDxdLZVlBROONkGo+4hk96yLXnpN0pwjhWzkI=;C/L2K5AU9nOxGzF1pxxBnQ=="

@@ -9,8 +9,8 @@ ampWebUrl: "https://patch.com/us/across-america/amp/29790439/western-states-face
 cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/us/across-america/amp/29790439/western-states-face-first-federal-water-cuts-ap-explainer"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: Patch
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "EXPLAINER: Western states face first federal water cuts"
-    excerpt: "U.S. officials on Monday declared the first-ever water shortage from a river that serves 40 million people in the West, triggering cuts to some Arizona farmers next year amid a gripping drought. Water levels at the largest reservoir on the Colorado River — Lake Mead — have fallen to record lows."
-    publishedDateTime: 2021-08-17T10:48:00Z
-    webUrl: "https://www.seattlepi.com/news/article/EXPLAINER-Western-states-face-first-federal-16389204.php"
-    ampWebUrl: "https://www.seattlepi.com/news/amp/EXPLAINER-Western-states-face-first-federal-16389204.php"
-    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/EXPLAINER-Western-states-face-first-federal-16389204.php"
-    type: article
-    provider:
-      name: seattlepi.com
-      domain: seattlepi.com
-    quality: 59
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "EXPLAINER: Western states face first federal water cuts"
     excerpt: "U.S. officials on Monday declared the first-ever water shortage from a river that serves 40 million people in the West, triggering cuts to some Arizona farmers next year amid a gripping drought."
     publishedDateTime: 2021-08-18T03:18:00Z

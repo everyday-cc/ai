@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "African fintech Pngme raises $15M for its financial data infrastructure platform"
-    excerpt: "Unbundling financial data through APIs and driving data-driven insights with value-add products in Africa keeps getting more exciting as major players continue to raise more money for scale. Less than a year after its $3 million seed round,"
-    publishedDateTime: 2021-08-17T11:01:00Z
-    webUrl: "https://techcrunch.com/2021/08/17/african-fintech-pngme-raises-15m-for-its-financial-data-infrastructure-platform/"
-    ampWebUrl: "https://techcrunch.com/2021/08/17/african-fintech-pngme-raises-15m-for-its-financial-data-infrastructure-platform/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/17/african-fintech-pngme-raises-15m-for-its-financial-data-infrastructure-platform/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 84
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/08/85237365-BCDC-4C78-B42B-91B00D15C6C0.jpeg?w=887"
-        width: 887
-        height: 508
-        isCached: true
   - title: "Financial Data Platform Pngme Raises $15 Million"
     excerpt: "Pngme, a San Francisco-based financial data platform, announced yesterday that it has secured $15 million in Series A funding."
     publishedDateTime: 2021-08-18T08:34:00Z
@@ -57,19 +41,33 @@ related:
         width: 424
         height: 211
         isCached: true
-  - title: "Top Fintech Trends Transforming Peoples Lives"
-    excerpt: "AI and ML have managed to retain their top positions in the FinTech trend for a long time. They have fuelled the rapid growth and development of new technologies in the FinTech industry. FREMONT, CA: The fintech industry is growing rapidly, and it is ..."
-    publishedDateTime: 2021-08-20T12:40:00Z
-    webUrl: "https://www.cioapplications.com/news/top-fintech-trends-transforming-peoples-lives-nid-8324.html"
+  - title: "ClosedLoop.ai Raises $34M to Expand Healthcare Data Science Platform"
+    excerpt: "ClosedLoop.ai., an Austin, TX-based healthcare data science platform, today announced it has raised $34 million in Series B funding."
+    publishedDateTime: 2021-08-17T20:38:00Z
+    webUrl: "https://hitconsultant.net/2021/08/17/closedloop-healthcare-data-science-funding/"
     type: article
     provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 24
+      name: HIT Consultant
+      domain: hitconsultant.net
+    quality: 56
     images:
-      - url: "https://www.cioapplications.com/uploaded_images/magazine_img/itqtp300400.jpg"
-        width: 300
-        height: 400
+      - url: "https://mk0hitconsultan2lp7c.kinstacdn.com/wp-content/uploads/2021/08/ClosedLoop.png"
+        width: 906
+        height: 569
+        isCached: true
+  - title: "Pngme raises $15m for financial data infrastructure platform"
+    excerpt: "Pngme, a San Francisco-based firm that builds data infrastructure and out-of-the box machine learning capabilities for financial institutions and fintechs across sub-Saharan Africa, has raised $15 million in a Series A funding round led by Octopus Ventures."
+    publishedDateTime: 2021-08-17T23:25:00Z
+    webUrl: "https://www.finextra.com/newsarticle/38667/pngme-raises-15m-for-financial-data-infrastructure-platform"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/900fintech-africa.jpg"
+        width: 480
+        height: 270
         isCached: true
   - title: "Fintech startup Pngme raises $15m Series A funding to power the future of financial services in Africa"
     excerpt: "Fintech startup Pngme raised $15 million in Series A funding as the company sets out to grow its financial data infrastructure and machine learning-as-a-service platform for financial institutions and fintechs across sub-Saharan Africa."

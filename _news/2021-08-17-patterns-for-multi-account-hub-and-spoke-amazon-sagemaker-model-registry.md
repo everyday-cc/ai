@@ -99,20 +99,6 @@ related:
         width: 1092
         height: 732
         isCached: true
-  - title: "Bring your own container to project model accuracy drift with Amazon SageMaker Model Monitor"
-    excerpt: "Amazon SageMaker is a fully managed service that enables developers and data scientists to quickly and easily build, train, and deploy ML models at any scale. After you train an ML model, you can deploy it on SageMaker endpoints that are fully managed and ..."
-    publishedDateTime: 2021-08-17T10:28:00Z
-    webUrl: "https://github.com/aws-samples/sagemaker-model-monitor-bring-your-own-container"
-    type: article
-    provider:
-      name: GitHub
-      domain: github.com
-    quality: 43
-    images:
-      - url: "https://opengraph.githubassets.com/0f032af55932efc7ed1f4944dd404ef48469b0f94517e0d66fb7aac0fe14a5d4/aws-samples/sagemaker-model-monitor-bring-your-own-container"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "zLkRpwwij04ehvtgVfOmjwv9XTLN/LNyKI8kvbd9I3Dds4tCoqIugicqnEWyVTQf1VrC1LhKMG22XOiZ47cA2kCWo7uG6YExkFW6MarlOEJBLrqVu3QyKEHv1TmiXLzr3uhrjt/O1aV/GcYOseMNCacP9+rlod4/zurxBvw/su0tAbkGYClZ0XDDHJwszY2Q7zBRRePiCeyfSUl9hD6acKEkpneAv4GxE/Xvgp2me+KQeJYcKPYmmEOJLc+uw6P70dz27I0MjWgHW5WfliP3UbCjh1plh5z5Q4gJbmbp5s3Q5HTc2epUFCNbnnhs2j5JitM0yPr3eDDrQB3PceejNZSAIxbBjYVVduNBuDtZCf4=;GXLGbNOcb/bSvL8CL0GZoA=="
 ---

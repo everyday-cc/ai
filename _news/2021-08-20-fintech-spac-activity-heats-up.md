@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/ipo/2021/fintech-spac-activity-heats-up/
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/ipo/2021/fintech-spac-activity-heats-up/amp/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Online Travel Hopper’s Metamorphosis From Flight Selling to Fintech"
-    excerpt: "Hopper, an online travel company, said it had $170 million Series G round of equity ﬁnancing, led by GPI, a private equity firm."
-    publishedDateTime: 2021-08-17T11:30:00Z
-    webUrl: "https://skift.com/2021/08/17/online-travel-hoppers-metamorphosis-from-flight-selling-to-fintech/"
-    ampWebUrl: "https://skift.com/2021/08/17/online-travel-hoppers-metamorphosis-from-flight-selling-to-fintech/amp/"
-    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2021/08/17/online-travel-hoppers-metamorphosis-from-flight-selling-to-fintech/amp/"
-    type: article
-    provider:
-      name: Skift
-      domain: skift.com
-    quality: 44
-    images:
-      - url: "https://skift.com/wp-content/uploads/2021/08/a-user-of-hoppers-booking-app-source-hopper.jpg"
-        width: 1025
-        height: 684
-        isCached: true
   - title: "4 Ways the Fintech Industry is Detecting and Preventing Frauds"
     excerpt: "Digitization in the fintech industry is giving rise to financial fraud. It is essential to detect potential frauds and prevent them before any loss to the customer or the organization. Fremont, CA: Like all the industries,"
     publishedDateTime: 2021-08-20T00:00:00Z
@@ -57,15 +41,6 @@ related:
         width: 300
         height: 400
         isCached: true
-  - title: "Climate FinTech hires all-star management team"
-    excerpt: "(News Aktuell) - – bullfinch completes its management team by hiring top-level executives. Niko von Tippelskirch has been newly appointed to the executive management board and will take on the position of Chief Operating Officer (COO)."
-    publishedDateTime: 2021-08-18T07:23:00Z
-    webUrl: "https://www.notimerica.com/comunicados/noticia-comunicado-climate-fintech-hires-all-star-management-team-20210818092345.html"
-    type: article
-    provider:
-      name: notimerica.com
-      domain: notimerica.com
-    quality: 4
   - title: "Celebrating fintech’s role at the heart of the new normal"
     excerpt: "Innovate Finance has launched a new forum to explore the potential of fintech to create a more inclusive and sustainable world. What good timing - fintech has performed impressively amidst the pandemic and will have a crucial role to play as restrictions are lifted and we settle  into our ‘new normal’."
     publishedDateTime: 2021-08-21T04:38:00Z

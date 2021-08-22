@@ -3,18 +3,18 @@ category: news
 title: "Senators question DOJ funding for AI-powered policing tech"
 excerpt: "Some Capitol Hill Democrats and civil rights advocates are concerned about how police and prosecutors increasingly use algorithm-powered technologies that may amplify racial bias."
 publishedDateTime: 2021-08-21T22:24:00Z
-originalUrl: "https://www.kansas.com/news/business/article253638763.html"
-webUrl: "https://www.kansas.com/news/business/article253638763.html"
-ampWebUrl: "https://amp.kansas.com/news/business/article253638763.html"
-cdnAmpWebUrl: "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/business/article253638763.html"
+originalUrl: "https://www.mercedsunstar.com/news/business/article253638763.html"
+webUrl: "https://www.mercedsunstar.com/news/business/article253638763.html"
+ampWebUrl: "https://amp.mercedsunstar.com/news/business/article253638763.html"
+cdnAmpWebUrl: "https://amp-mercedsunstar-com.cdn.ampproject.org/c/s/amp.mercedsunstar.com/news/business/article253638763.html"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Wichita Eagle
-  domain: kansas.com
+  name: Merced Sun-Star
+  domain: mercedsunstar.com
 
 topics:
   - AI
@@ -60,6 +60,6 @@ related:
       domain: businessinsider.com
     quality: 26
 
-secured: "1V6eFmdDYW3VkHGDYhSJRv0uubbuY5jmOea3LcfPhPT8DNvPIgi0jNdobsrOMbBg+7xn5epEDw8uLrlHxVogWvi3OAXe/a49sxf3arTbZvHJxAAlb6bScTFam453/8I9nbqzU2xynVjtU3+AUVdpDWmT9al3RfpsJVx/rFD0LAXlMK8ipVPKhLu27v9G+vdtrbfgdyvLkWzxK0PuZvkHv/xhN/2byB396GRfqFJHj+OPHr/4ISKCw8XcLsjnx+2vlfPABuhcq46mVoE8C/K6Ml+tdN3hAs1HHcDuY4W//B5PLw1EHpnuAQr7bp5ygJd+KnsaKJLPjqvcdwnn7yYCUDQsFBLoPXpf0g7R0ZMW44BjJF+EdYTMcuYHkOjMD5gttG4HcvZBwVppVJL+4XQLP1Q6K9j3BW6srQ5+AYts+EPONAMvWkG/mIz0wFrbN4o2kV8inkQYf86QPuHIjbT2lMMM856LFFW8ZIT3l/OjRTiXgyAdVKvNTwM7tv9V21t4jk4IpCRBbEethRdYRFUodg==;Qk0ab5Uh1XmMFqXSu7rnzg=="
+secured: "BamqgTo+cqL8vb78WG14APLoa05NaiIUaPMBoNDknomTwDFDQoiPxxbf90SdNJ1j/z1K8YtQbT53mcU61TZl4Cbl5p+xx65O1q728FalTm1yLFlr9a/GUTMqdgZ89zQfjle5YOJDB1opJpIFX4cRw6xgVJRj3ndZlq9xMebzuqCu6hkgsfi1K/4BMu7kSQ2SuaQdrmfoonSoM9ebJT53Q1jMGUWT9LdJn5/8KSs6RIDKYEBDSzW3bIzbuEyDbLclJoYO9KmIaDB2sy1VLSL6mfOVeoj0pMjJS1EObnrZVrmAHtpZrLUQcB8SRwkPv0jAFy+PH9X5c6F662sAJkAug714kCC3e8wZBqJL+ZkbtzTlU5VeIQP/xGLrhnCSe+ni8Tb5t2OesxXWvCAOWX81JwPWbbe9/8PCbsKwhjiO9L3DdI7vEUbdjf7nGQs6BWMBlEBHSvLx3WSQnAofYpE/SJlIQvusCYs0fWWJvLth4zN8kQrf4jbhwIceBxNPT5M+piMjHX8Xqv/uOTqBcmOskg==;rCFLq78CpJNpMXwMsuOtTA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/sponsor/beyond-limits/the-ai-advantages-for
 webUrl: "https://techcrunch.com/sponsor/beyond-limits/the-ai-advantages-for-healthcare-and-finance/"
 type: article
 quality: 101
-heat: 171
+heat: 151
 published: true
 
 provider:
@@ -95,34 +95,6 @@ related:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2021/08/Baidu_CDSS_1200_675.jpg?w=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "FinTech: AI and the future of financial services"
-    excerpt: "AI has given birth to the fintech industry, making digital transactions and data aggregation a new way of life, but what does the future hold?"
-    publishedDateTime: 2021-08-17T09:23:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/fintech-ai-and-future-financial-services"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 39
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/GettyImages-1206796363_3.jpg.png?itok=w-C15RI0"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "ClosedLoop.ai Raises $34M Series B to Usher in AI-Enabled Healthcare and Tackle Trillion-Dollar Healthcare Problem"
-    excerpt: "ClosedLoop.ai., healthcare’s data science platform, today announced a $34 million Series B financing. The investment round, led by Telstra Ventures with participation from Breyer Capital, Greycroft Ventures,"
-    publishedDateTime: 2021-08-17T10:02:00Z
-    webUrl: "https://www.galvnews.com/news_ap/business/article_850ffc79-12c3-5a29-b549-cff53995f578.html"
-    type: article
-    provider:
-      name: Daily News
-      domain: galvnews.com
-    quality: 34
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/assets/v3/editorial/9/95/9953ba36-2420-5482-a022-13715f016472/611b8fcd926f7.image.jpg?resize=878%2C630"
-        width: 878
-        height: 630
         isCached: true
 
 secured: "6KiXKhzVP6tOots0x60uQ2LGx9hLmePXhIPQfng4V7kE85/AatJ7eSVdqmJq4pvtM3/sppFIatYNjesJzTnTvM3DThU68i1s3RbBUtRm41DKlLRwTsprAnXBC/jbSLd08E8BDXR4wKM8k/dWZo7OIkz/vGlX0qy7pvjZsAm5cG+kAN6dSrM1wBJ2v/c3S6E8exnBnW89Gsx4kTkAHrbhmbjIOcvCRhXB7hG1T+/aTaj+LfQuxaL0kwd+JHTzgvnd3BYs9+IylpElHR9snfMJ9Mfh8eIH5deWAcvBTWoZTPYGA2fiRGC9OKgsKngNT21LmxJfayDSCqXi5mMozGtowXBunrh6KGmy+ykSYvVxGkkXsTcmoWI8ewa3xCAGbnL+D6Wx4wLc9sute9fL7Hz4mTi3Svtjez270Xe0z7XGOTyIsRYJBoShXQ1kuxRFvv0yPZrWLzB+Hz9Agk+ekRYIVpussNN4BxZfZqYQmVC5X1f2APR7dsTu4F/6cTiXfmVJzGnd00qsoN5UkgwjqZ3I/A==;v2Gz69qp6DjFrUzn4XtBdA=="

@@ -260,17 +260,6 @@ related:
         width: 612
         height: 408
         isCached: true
-  - title: "Call Center AI Market Industry Share, Size: 2019 Market Research with Growth, Segments and Forecast - 2025"
-    excerpt: "The rising consumer data in various industries such as retail BFSI and others are creating growth opportunities in the call center AI market With the growing digitalization across the globe big data is on a continuous rise According to the"
-    publishedDateTime: 2021-08-17T09:43:00Z
-    webUrl: "https://www.openpr.com/news/2357263/call-center-ai-market-industry-share-size-2019-market-research"
-    ampWebUrl: "https://www.openpr.com/amp/2357263/call-center-ai-market-industry-share-size-2019-market-research"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2357263/call-center-ai-market-industry-share-size-2019-market-research"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 19
   - title: "AI Infrastructure Market to Witness the Highest Growth"
     excerpt: "The increasing need for hardware platforms with high computing power to run various AI software is a key factor fueling the growth of the AI infrastructure market. Machine learning technology held the largest share of AI infrastructure market in 2020 APAC is the host to a few of the fastest-growing and leading industrialized economies such as China,"
     publishedDateTime: 2021-08-18T00:37:00Z

@@ -95,34 +95,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "FinTech: AI and the future of financial services"
-    excerpt: "AI has given birth to the fintech industry, making digital transactions and data aggregation a new way of life, but what does the future hold?"
-    publishedDateTime: 2021-08-17T09:23:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/fintech-ai-and-future-financial-services"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 39
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/GettyImages-1206796363_3.jpg.png?itok=w-C15RI0"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "ClosedLoop.ai Raises $34M Series B to Usher in AI-Enabled Healthcare and Tackle Trillion-Dollar Healthcare Problem"
-    excerpt: "ClosedLoop.ai., healthcare’s data science platform, today announced a $34 million Series B financing. The investment round, led by Telstra Ventures with participation from Breyer Capital, Greycroft Ventures,"
-    publishedDateTime: 2021-08-17T10:02:00Z
-    webUrl: "https://www.galvnews.com/news_ap/business/article_850ffc79-12c3-5a29-b549-cff53995f578.html"
-    type: article
-    provider:
-      name: Daily News
-      domain: galvnews.com
-    quality: 34
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/assets/v3/editorial/9/95/9953ba36-2420-5482-a022-13715f016472/611b8fcd926f7.image.jpg?resize=878%2C630"
-        width: 878
-        height: 630
-        isCached: true
 
 secured: "PcgjvS/2G0N0ZvOb/CHkK8xaNyL7DY/au8P7qFaLR8qAvsBb8oqEcUDbyUt32Rnc2trL8uJzgaOZYM4/12bD71NZ+OLIVyMmZCr7JRx6txj6tbht1/n6suQrogz1qkBZpihIIBcRM/L0X9tDacigptLOoFQGF7YDTYu6+WkAjSdj/U1BZ/78gIORUgaa6t3loVOJ02jWziixS6wmD8KV+aSjAIM33BNChqhGSIUEJ6x7VBGZEYmSeLe5Dsm26dgMHn+khbq08eCcoxipCKCkQfM9sNlHu87Ors3pQP4UavJJubtHRMHueJ8XR0lblX0WAROLr3HJmGmvmW03r6DZH8ZR6Sqw8Ky7J7kI7QcF7KznCNFj3o0l5PEZyboccSl0MmWGWwxLEJT2WCHP0bKJvR5kW2mB7i5I9C1pEcr5CNv3bbZDYYxgNqrpwuC9dospOjVB6Qg/E2QuqX9GEnNqk8bmcFzdH9UXlMgE079MJhzhl04gJ37OpE6MhPkIDE0AYylqMpQCXpf2jm8gJ6U/Sg==;VTf3wWdcbj75PVT8BIom4Q=="
 ---

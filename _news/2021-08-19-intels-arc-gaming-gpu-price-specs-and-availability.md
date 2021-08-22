@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcworld.com/article/3629402/intels-arc-gaming-gpu-price-
 cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3629402/intels-arc-gaming-gpu-price-specs-and-availability.amp.html"
 type: article
 quality: 104
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -60,22 +60,6 @@ related:
       - url: "https://images.financialexpress.com/2021/08/intel-1200.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Intel New Arc GPU: Can It Compete With AMD and Nvidia?"
-    excerpt: "Intel announced its entry into the graphic card market with its new Intel Arc GPU. These graphic cards will be competing directly with AMD and Nvidia, finally putting an end to this duopoly. The ARC brand will basically be the equivalent of AMD’s Radeon and Nvidia’s Geforce with multiple hardware generations."
-    publishedDateTime: 2021-08-17T11:10:00Z
-    webUrl: "https://fossbytes.com/intel-new-arc-gpu-can-it-compete-amd-and-nvidia/"
-    ampWebUrl: "https://fossbytes.com/intel-new-arc-gpu-can-it-compete-amd-and-nvidia/amp/"
-    cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/intel-new-arc-gpu-can-it-compete-amd-and-nvidia/amp/"
-    type: article
-    provider:
-      name: Foss Bytes
-      domain: fossbytes.com
-    quality: 59
-    images:
-      - url: "https://fossbytes.com/wp-content/uploads/2021/08/intel-arc-gpu.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Behold Alchemist! This is Intel’s first gaming GPU."
     excerpt: "Intel has been working to enter the high-end graphics card market to compete with Nvidia and AMD, and today those efforts get a name: Intel Arc. The earliest Arc products will be released in the first quarter of 2022 and will be based on a GPU codenamed Alchemist."

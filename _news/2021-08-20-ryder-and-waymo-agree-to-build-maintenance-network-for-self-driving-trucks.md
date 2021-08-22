@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Waymo Is 99% of the Way to Self-Driving Cars. The Last 1% Is the Hardest"
-    excerpt: "The world’s most famous autonomous car shop has lost its CEO and is still getting stymied by traffic cones. What’s taking so long?"
-    publishedDateTime: 2021-08-17T10:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-08-17/waymo-s-self-driving-cars-are-99-of-the-way-there-the-last-1-is-the-hardest"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 68
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igcXXfJQ_IyA/v0/1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Waymo expands self-driving truck operations"
     excerpt: "The 9 acre hub will be built from the ground up for Waymo Via and its autonomous driving operations. The facility will be the primary operations center for Waymo’s self-driving trucking business in Texas and will be able to accommodate hundreds of trucks ..."
     publishedDateTime: 2021-08-19T12:36:00Z

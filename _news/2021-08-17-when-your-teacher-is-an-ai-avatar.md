@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/video/when-your-teacher-is-an-ai-avatar/"
 webUrl: "https://www.zdnet.com/video/when-your-teacher-is-an-ai-avatar/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,10 +28,26 @@ images:
     isCached: true
 
 related:
+  - title: "Innovating With Artificial Intelligence"
+    excerpt: "It’s been a while since I talked about artificial intelligence — mainly because those articles started to die down or I started reading the same thing over and over. Then other topics emerged within the markets and current events sort of shifted the conversation."
+    publishedDateTime: 2021-08-17T18:09:00Z
+    webUrl: "https://www.wealthdaily.com/articles/innovating-with-artificial-intelligence/99838"
+    ampWebUrl: "https://www.wealthdaily.com/amp/articles/innovating-with-artificial-intelligence/99838"
+    cdnAmpWebUrl: "https://www-wealthdaily-com.cdn.ampproject.org/c/s/www.wealthdaily.com/amp/articles/innovating-with-artificial-intelligence/99838"
+    type: article
+    provider:
+      name: Wealth Daily
+      domain: wealthdaily.com
+    quality: 59
+    images:
+      - url: "https://images.angelpub.com/2017/39/46975/monica-savaglia-signature-park-avenue-digest.png"
+        width: 300
+        height: 228
+        isCached: true
   - title: "Noodle.ai is now an AWS Advanced Technology Partner"
-    excerpt: "Noodle.ai is tackling the industry's toughest demand, inventory, and production challenges, leveraging AWS's infrastructure"
-    publishedDateTime: 2021-08-17T19:22:00Z
-    webUrl: "https://www.kmworld.com/Articles/News/News/Noodle.ai-is-now-an-AWS-Advanced-Technology-Partner-148475.aspx"
+    excerpt: "and Amazon SageMaker, to provide enterprise customers with a predictable, agile, and scalable supply chain. At the center of this offering is Noodle.ai's Flow Operations product suite, which consists of five applications that use advanced artificial ..."
+    publishedDateTime: 2021-08-17T18:51:00Z
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=148475"
     type: article
     provider:
       name: KMWorld Magazine

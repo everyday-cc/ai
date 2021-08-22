@@ -27,21 +27,33 @@ images:
     isCached: true
 
 related:
-  - title: "Stopping AI Bias Starts With Diverse Product Teams"
-    excerpt: "Beyond the ethics of debating gender or racial bias ... in product design has consequences in the digital world, which leans heavily on artificial intelligence (AI). AI-enabled robots are augmenting human labor on the factory floor, improving customer ..."
-    publishedDateTime: 2021-08-17T11:19:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/17/stopping-ai-bias-starts-with-diverse-product-teams/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/17/stopping-ai-bias-starts-with-diverse-product-teams/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/17/stopping-ai-bias-starts-with-diverse-product-teams/amp/"
+  - title: "When your teacher is an AI avatar"
+    excerpt: "Natalie Monbiot, head of strategy at Hour One, explains to Tonya Hall how digital avatars could expand the reach of online education."
+    publishedDateTime: 2021-08-17T14:16:00Z
+    webUrl: "https://www.zdnet.com/video/when-your-teacher-is-an-ai-avatar/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611a8cd7696f99911afdc233%2F0x0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.zdnet.com/a/hub/i/r/2021/08/17/7a1c3acf-bd9b-49cf-b428-a124026eb375/thumbnail/770x578/cf74f2a944f82fd6bc4128ea1210553f/thumb.jpg"
+        width: 770
+        height: 578
+        isCached: true
+  - title: "Noodle.ai is now an AWS Advanced Technology Partner"
+    excerpt: "and Amazon SageMaker, to provide enterprise customers with a predictable, agile, and scalable supply chain. At the center of this offering is Noodle.ai's Flow Operations product suite, which consists of five applications that use advanced artificial ..."
+    publishedDateTime: 2021-08-17T18:51:00Z
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=148475"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 54
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/KMWorld/TemplateImages/KMW21_Sub-Cover-Image.gif"
+        width: 772
+        height: 594
         isCached: true
 
 secured: "V2xcGDTeq9rO2xNTyq3zKdc2LXnxze6RX6UzvD9/jqrSMxSfq9Yb0+y3au9rJkQN6vmSFJkIlaUpsdtcHXsHhcMdblpEd4kVTVlZUOWvPmduRnsEQFvCJf9iq2jRmZG9UAuYWEibvAg5ExengINPHnPWVg8ci1IKAElxH9MmU++GbEWl6PtrJm5uETLGsB2QPpigBbfIc86IETz3c4fHcd8E3nfxdZbnZbBfUF9zC4EjCqbm77zoxyW+a1Z4jfR/PUjKeEffN9aBIqpIOuaVkopzeT4AA18zUrERkSxcpzwkhcOuvlucvIxYgZ7CbPaxNsTjSCgOV1qDlM1VEjiNe3SLFAqkxXo9bXKxJzYDjbrk7wvdojRCiamP/5spuBTX/fB/wVZy8G0VJ/XY0aEaoYt8pVCifhxVQMBEdUA6kZgE1AeilwnMHrZ/H6MKkbxudECcMfR40ZthFPA347fu3vd1rgq0BNfr/s02d8cAdVddk61WsvZaS+UD6PHVrFYxXCoxqMX62DEdNhe38y3vZQ==;4qw8qYt7l8worm/ToGEbnQ=="

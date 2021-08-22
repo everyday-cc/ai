@@ -25,66 +25,63 @@ images:
     isCached: true
 
 related:
-  - title: "African fintech Pngme raises $15M for its financial data infrastructure platform"
-    excerpt: "Unbundling financial data through APIs and driving data-driven insights with value-add products in Africa keeps getting more exciting as major players continue to raise more money for scale. Less than a year after its $3 million seed round,"
-    publishedDateTime: 2021-08-17T11:01:00Z
-    webUrl: "https://techcrunch.com/2021/08/17/african-fintech-pngme-raises-15m-for-its-financial-data-infrastructure-platform/"
-    ampWebUrl: "https://techcrunch.com/2021/08/17/african-fintech-pngme-raises-15m-for-its-financial-data-infrastructure-platform/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/17/african-fintech-pngme-raises-15m-for-its-financial-data-infrastructure-platform/amp/"
+  - title: "Hopper raises $170M at $3.5B+ valuation as travel surges and its fintech tools help offset variant concerns"
+    excerpt: "Travel tech company Hopper has raised a $170 million Series G, the company said today. Astute observers may recognize the number — that’s the same amount it raised in a Series F round that closed earlier this year."
+    publishedDateTime: 2021-08-17T11:30:00Z
+    webUrl: "https://techcrunch.com/2021/08/17/hopper-raises-170m-on-3-5b-valuation-as-travel-surges-and-its-fintech-tools-help-offset-variant-concerns/"
+    ampWebUrl: "https://techcrunch.com/2021/08/17/hopper-raises-170m-on-3-5b-valuation-as-travel-surges-and-its-fintech-tools-help-offset-variant-concerns/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/17/hopper-raises-170m-on-3-5b-valuation-as-travel-surges-and-its-fintech-tools-help-offset-variant-concerns/amp/"
     type: article
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 84
+    quality: 171
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/08/85237365-BCDC-4C78-B42B-91B00D15C6C0.jpeg?w=887"
-        width: 887
-        height: 508
+      - url: "https://techcrunch.com/wp-content/uploads/2021/08/PR-General-Hero-A-02.png?w=1024"
+        width: 1024
+        height: 768
         isCached: true
-  - title: "Financial Data Platform Pngme Raises $15 Million"
-    excerpt: "Pngme, a San Francisco-based financial data platform, announced yesterday that it has secured $15 million in Series A funding."
-    publishedDateTime: 2021-08-18T08:34:00Z
-    webUrl: "https://www.financemagnates.com/fintech/news/financial-data-platform-pngme-raises-15-million/"
-    ampWebUrl: "https://www.financemagnates.com/fintech/news/financial-data-platform-pngme-raises-15-million/amp/"
-    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/news/financial-data-platform-pngme-raises-15-million/amp/"
+  - title: "AI-powered travel tech platform Hopper raises $175M"
+    excerpt: "Hopper, the AI-powered predictive airfare and hotel rate platform, has raised $170 million in a series G round of funding."
+    publishedDateTime: 2021-08-17T13:08:00Z
+    webUrl: "https://venturebeat.com/2021/08/17/ai-powered-travel-tech-platform-hopper-raises-175m/"
+    ampWebUrl: "https://venturebeat.com/2021/08/17/ai-powered-travel-tech-platform-hopper-raises-175m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/17/ai-powered-travel-tech-platform-hopper-raises-175m/amp/"
     type: article
     provider:
-      name: Finance Magnates
-      domain: financemagnates.com
-    quality: 59
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://www.financemagnates.com/wp-content/uploads/2021/05/StoneX-Logo.jpg"
-        width: 424
-        height: 211
+      - url: "https://venturebeat.com/wp-content/uploads/2021/08/Hopper-Cofounders-Joost-Ouwerkerk-Frederic-Lalonde..jpg?w=1200&strip=all"
+        width: 1200
+        height: 614
         isCached: true
-  - title: "Africa: the fintech Pngme raises $15 million to continue its development on the African continent"
-    excerpt: "PNGme, an African fintech that leverages AI to facilitate the collection and analysis of banking data PNGme is a US-based fintech with a presence in Nigeria as well as Kenya. It is developing a financial data infrastructure as well as a machine learning ..."
-    publishedDateTime: 2021-08-19T09:34:00Z
-    webUrl: "https://www.actuia.com/english/africa-the-fintech-pngme-raises-15-million-to-continue-its-development-on-the-african-continent/"
+  - title: "Online Travel Hopper’s Metamorphosis From Flight Selling to Fintech"
+    excerpt: "Hopper, an online travel company, said it had $170 million Series G round of equity ﬁnancing, led by GPI, a private equity firm."
+    publishedDateTime: 2021-08-17T11:30:00Z
+    webUrl: "https://skift.com/2021/08/17/online-travel-hoppers-metamorphosis-from-flight-selling-to-fintech/"
+    ampWebUrl: "https://skift.com/2021/08/17/online-travel-hoppers-metamorphosis-from-flight-selling-to-fintech/amp/"
+    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2021/08/17/online-travel-hoppers-metamorphosis-from-flight-selling-to-fintech/amp/"
     type: article
     provider:
-      name: Actu IA
-      domain: actuia.com
-    quality: 26
+      name: Skift
+      domain: skift.com
+    quality: 44
     images:
-      - url: "https://www.actuia.com/wp-content/uploads/2021/08/PNGme.jpg"
-        width: 800
-        height: 400
+      - url: "https://skift.com/wp-content/uploads/2021/08/a-user-of-hoppers-booking-app-source-hopper.jpg"
+        width: 1025
+        height: 684
         isCached: true
-  - title: "Fintech startup Pngme raises $15m Series A funding to power the future of financial services in Africa"
-    excerpt: "Fintech startup Pngme raised $15 million in Series A funding as the company sets out to grow its financial data infrastructure and machine learning-as-a-service platform for financial institutions and fintechs across sub-Saharan Africa."
-    publishedDateTime: 2021-08-19T08:27:00Z
-    webUrl: "https://africabusinesscommunities.com/tech/tech-news/fintech-startup-pngme-raises-15m-series-a-funding-to-power-the-future-of-financial-services-in-africa/"
+  - title: "Fintech platform FUSE Autotech raises $10M in Series A funding led by Target Global"
+    excerpt: "FUSE Autotech, a fintech software platform that redefines the car buying process, today announced the completion of its $10 million Series A round of financing, led by Target Global with participation from PICO Venture Partners,"
+    publishedDateTime: 2021-08-17T20:29:00Z
+    webUrl: "https://www.autonews.com/fi-press-release/fintech-platform-fuse-autotech-raises-10m-series-funding-led-target-global"
     type: article
     provider:
-      name: africabusinesscommunities.com
-      domain: africabusinesscommunities.com
-    quality: 23
-    images:
-      - url: "https://adserver.20nine.nl/www/delivery/avw.php?zoneid=30&n=5f0197a"
-        width: 336
-        height: 280
-        isCached: true
+      name: Automotive News
+      domain: autonews.com
+    quality: 13
 
 secured: "vtPON3BZRljP2ONfneiDCaLfh1cTRjRLDVD499/JqZfXuYxgb92joUEOgxIc85EZ/xvh92e8UKme16CURArIRPawEdcUt7SY5TPL7AOhSO4sHULK6cIpJ0Aq+LQ1uzF5DQuNE9ycAdcI5vfhoBQd3fdks3ygSHOZHez+fn/hylqgQTblJmYylhWWRnRl/QDd0cavhDrRJUV9cfyqFfFww9pC1H7eUOywkZ0MIA11LryAq5m+YjolbHX0yVu+1lmiE2ncZuWWH73YNtzMAPi30dd9SzToC0SF9yQWCcli5ruqraCoFjgOrxSV6bBCWI83sA1Ng4iV8tOyJcnJAwRhjIwRO1vrPTy7Y6cZkcyERfA=;CXhmRig05X9qMVAI5W7ONQ=="
 ---

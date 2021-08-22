@@ -25,70 +25,64 @@ images:
     isCached: true
 
 related:
-  - title: "MOLOCO raises $150M Series C led by Tiger Global at a $1.5B valuation"
-    excerpt: "MOLOCO, an adtech startup that uses machine learning to build mobile campaigns, announced today it has raised $150 million in new Series C funding led by Tiger Global Management, taking its valuation to $1."
-    publishedDateTime: 2021-08-17T11:00:00Z
-    webUrl: "https://techcrunch.com/2021/08/17/moloco-raises-150m-series-c-led-by-tiger-global-at-a-1-5b-valuation/"
-    ampWebUrl: "https://techcrunch.com/2021/08/17/moloco-raises-150m-series-c-led-by-tiger-global-at-a-1-5b-valuation/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/17/moloco-raises-150m-series-c-led-by-tiger-global-at-a-1-5b-valuation/amp/"
+  - title: "Financial Data Platform Pngme Raises $15 Million"
+    excerpt: "Pngme, a San Francisco-based financial data platform, announced yesterday that it has secured $15 million in Series A funding."
+    publishedDateTime: 2021-08-18T08:34:00Z
+    webUrl: "https://www.financemagnates.com/fintech/news/financial-data-platform-pngme-raises-15-million/"
+    ampWebUrl: "https://www.financemagnates.com/fintech/news/financial-data-platform-pngme-raises-15-million/amp/"
+    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/news/financial-data-platform-pngme-raises-15-million/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 187
+      name: Finance Magnates
+      domain: financemagnates.com
+    quality: 59
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1271131179.jpg?w=1024"
-        width: 1024
-        height: 683
+      - url: "https://www.financemagnates.com/wp-content/uploads/2021/05/StoneX-Logo.jpg"
+        width: 424
+        height: 211
         isCached: true
-  - title: "Hopper raises $170M at $3.5B+ valuation as travel surges and its fintech tools help offset variant concerns"
-    excerpt: "Travel tech company Hopper has raised a $170 million Series G, the company said today. Astute observers may recognize the number — that’s the same amount it raised in a Series F round that closed earlier this year."
-    publishedDateTime: 2021-08-17T11:30:00Z
-    webUrl: "https://techcrunch.com/2021/08/17/hopper-raises-170m-on-3-5b-valuation-as-travel-surges-and-its-fintech-tools-help-offset-variant-concerns/"
-    ampWebUrl: "https://techcrunch.com/2021/08/17/hopper-raises-170m-on-3-5b-valuation-as-travel-surges-and-its-fintech-tools-help-offset-variant-concerns/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/17/hopper-raises-170m-on-3-5b-valuation-as-travel-surges-and-its-fintech-tools-help-offset-variant-concerns/amp/"
+  - title: "ClosedLoop.ai Raises $34M to Expand Healthcare Data Science Platform"
+    excerpt: "ClosedLoop.ai., an Austin, TX-based healthcare data science platform, today announced it has raised $34 million in Series B funding."
+    publishedDateTime: 2021-08-17T20:38:00Z
+    webUrl: "https://hitconsultant.net/2021/08/17/closedloop-healthcare-data-science-funding/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 171
+      name: HIT Consultant
+      domain: hitconsultant.net
+    quality: 56
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/08/PR-General-Hero-A-02.png?w=1024"
-        width: 1024
-        height: 768
+      - url: "https://mk0hitconsultan2lp7c.kinstacdn.com/wp-content/uploads/2021/08/ClosedLoop.png"
+        width: 906
+        height: 569
         isCached: true
-  - title: "MOLOCO raises $150M to help companies run AI-driven mobile ad campaigns"
-    excerpt: "MOLOCO added that its top line has been “consistently” growing by 100% or more every year. MOLOCO provides what’s known in the digital advertising industry as a demand-side platform. The platform allows enterprises to buy ad space in mobile apps to display promotions for those apps’ users."
-    publishedDateTime: 2021-08-17T18:59:00Z
-    webUrl: "https://siliconangle.com/2021/08/17/moloco-raises-150m-help-companies-run-ai-driven-mobile-ad-campaigns/"
+  - title: "Africa: the fintech Pngme raises $15 million to continue its development on the African continent"
+    excerpt: "PNGme, an African fintech that leverages AI to facilitate the collection and analysis of banking data PNGme is a US-based fintech with a presence in Nigeria as well as Kenya. It is developing a financial data infrastructure as well as a machine learning ..."
+    publishedDateTime: 2021-08-19T09:34:00Z
+    webUrl: "https://www.actuia.com/english/africa-the-fintech-pngme-raises-15-million-to-continue-its-development-on-the-african-continent/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/moloco.png"
-        width: 900
-        height: 506
-        isCached: true
-  - title: "MOLOCO Closes $150 Million Series C Financing Led by Tiger Global to Bring Transparent Machine Learning Algorithms to All"
-    excerpt: "MOLOCO (  com ), a leader in machine learning and growth solutions for mobile app marketers and e-commerce companies, announced today it has raised $150 million in Series C funding to bring sophisticated,"
-    publishedDateTime: 2021-08-17T15:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/moloco-closes-150-million-series-c-financing-led-by-tiger-global-to-bring-transparent-machine-learning-algorithms-to-all-1030739081"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Actu IA
+      domain: actuia.com
     quality: 26
-  - title: "Fintech platform FUSE Autotech raises $10M in Series A funding led by Target Global"
-    excerpt: "FUSE Autotech, a fintech software platform that redefines the car buying process, today announced the completion of its $10 million Series A round of financing, led by Target Global with participation from PICO Venture Partners,"
-    publishedDateTime: 2021-08-17T20:29:00Z
-    webUrl: "https://www.autonews.com/fi-press-release/fintech-platform-fuse-autotech-raises-10m-series-funding-led-target-global"
+    images:
+      - url: "https://www.actuia.com/wp-content/uploads/2021/08/PNGme.jpg"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "Fintech startup Pngme raises $15m Series A funding to power the future of financial services in Africa"
+    excerpt: "Fintech startup Pngme raised $15 million in Series A funding as the company sets out to grow its financial data infrastructure and machine learning-as-a-service platform for financial institutions and fintechs across sub-Saharan Africa."
+    publishedDateTime: 2021-08-19T08:27:00Z
+    webUrl: "https://africabusinesscommunities.com/tech/tech-news/fintech-startup-pngme-raises-15m-series-a-funding-to-power-the-future-of-financial-services-in-africa/"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 13
+      name: africabusinesscommunities.com
+      domain: africabusinesscommunities.com
+    quality: 23
+    images:
+      - url: "https://adserver.20nine.nl/www/delivery/avw.php?zoneid=30&n=5f0197a"
+        width: 336
+        height: 280
+        isCached: true
 
 secured: "nu+uw/ZGzdzq/+jMocEx6e3GGPuZFSDVhgPKhES8i60aJiTtk4WCeFsFsw4h/MOhkQsgwE42TaLe4ZLilxoGWmyAY6P+yA1HW4bxJ9MYYayMvCONKD6lpsFn8b0rdJuBN5oVB/avXKyy0kVCA4OdBJs51n9xPqUsAavNkPA4b60lbidmuRRv9JivqBJ9pkDhwwXH6CcVdX/rSyLJODV9hactVIxhldGceFFdZfFwJu2bb6AwdfKcVg9RaQM7ol0yu5pj/meaeuFeQtlmzlVye9Gvz7oNvFS9iT/kP7h3aasdkwJf8XBGE+gZUS3CFSFA3kIV4X9URMJnZ/2+xHEwUCzWK9jXf8hD3gtEepbeb+Bdf991fDFN3i0q00v8Rs4qbLgbCzO/3fGS378XEYtt1iRyPgzX1pzKCaWr+8DO9x3Y2uJ6nekFH4vGgrxZapwB6K2tVW04aBdiFeJX0bcnWKT/MM8fXYPDl3acTb7v59xsVH63lNrc7wN3FmBHkCl/uUvPez/Er1aO3cgy/oCelA==;B2bioqL2zSl9B3c8zvQ4wg=="
 ---

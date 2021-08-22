@@ -55,13 +55,13 @@ related:
   - title: "Senators question DOJ funding for AI-powered policing tech"
     excerpt: "Some Capitol Hill Democrats and civil rights advocates are concerned about how police and prosecutors increasingly use algorithm-powered technologies that may amplify racial bias."
     publishedDateTime: 2021-08-21T22:24:00Z
-    webUrl: "https://www.kansas.com/news/business/article253638763.html"
-    ampWebUrl: "https://amp.kansas.com/news/business/article253638763.html"
-    cdnAmpWebUrl: "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/business/article253638763.html"
+    webUrl: "https://www.mercedsunstar.com/news/business/article253638763.html"
+    ampWebUrl: "https://amp.mercedsunstar.com/news/business/article253638763.html"
+    cdnAmpWebUrl: "https://amp-mercedsunstar-com.cdn.ampproject.org/c/s/amp.mercedsunstar.com/news/business/article253638763.html"
     type: article
     provider:
-      name: Wichita Eagle
-      domain: kansas.com
+      name: Merced Sun-Star
+      domain: mercedsunstar.com
     quality: 37
 
 secured: "v5yWyOSF4jCZoyXDClzvNQWkK9dT/vhUzW2m/S7t5vTvnlvCTVuza1AByZO3NQRt0eS8NyVQudKMsXBppjurIALUm+cYuH93v5Y4Q8MNGFp6yTp882Ip63CXTUxyeReLD/N/rsSxgEhpxD+0Myo5nSdoVF4FDWtiqiTF987L1dp3NAOaBbf9s/fF+e65dOFWZ5Ryt2gRSM1WIByYnJGfH3opxg6bKKASyHpzlwyWS3iCiTPscc+z7BVmqcLgz4f/XJJuB5ufDGY/LCY9ohdu0lqp9BPeqxUZd4pugnEi4yCxeDmwb4DR0HTeSqpn+NKrGV/uejxFSSBWXcO3R1Q9dQRTsAF1AVhq8ipfkWK/GURMrJRYbWoQIqeCVF18URTJ5vncjsjmnC2D0EiUNVWS3Y/zJk9hLVf2XJ/rt4iApaqkQQJwf6RNnyd5u+MuClZjI57ok4REW+NlU8Kd5ln4metgqLDojTtqYDGXFlQ4OpqA7Dy3wSJDh4jS8yHvrgie8TWMAVYiabWcaHtwPeeWhA==;oEaU0lQmFl8TwaU4FDOpMQ=="

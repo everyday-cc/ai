@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI startup Mate Labs to digitally transform Luminous Power Technologies' supply chain"
-    excerpt: "Mate Labs' flagship product Mateverse is a full-scale AI and ML-based forecasting platform that can dynamically predict end-customer demands while avoiding inefficiencies caused by supply and demand misalignment across business operations."
-    publishedDateTime: 2021-08-17T10:53:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/tech-bytes/ai-startup-mate-labs-to-digitally-transform-luminous-power-technologies-supply-chain/articleshow/85398526.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/tech-bytes/ai-startup-mate-labs-to-digitally-transform-luminous-power-technologies-supply-chain/amp_articleshow/85398526.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/tech-bytes/ai-startup-mate-labs-to-digitally-transform-luminous-power-technologies-supply-chain/amp_articleshow/85398526.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 50
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-2159821,msid-85398512/ai.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Mate Labs, Indian AI startup, to digitally transform Luminous Power Technologies' Supply Chain"
     excerpt: "Luminous Power Technologies, India's market leader in power backup and home electricals, today selected Mate Labs' flagship product Mateverse to strengthen its supply chain against a"
     publishedDateTime: 2021-08-18T12:30:00Z
