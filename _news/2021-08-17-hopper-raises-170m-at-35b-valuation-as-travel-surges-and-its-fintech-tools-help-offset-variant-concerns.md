@@ -83,7 +83,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 24
+    quality: 26
   - title: "Fintech platform FUSE Autotech raises $10M in Series A funding led by Target Global"
     excerpt: "FUSE Autotech, a fintech software platform that redefines the car buying process, today announced the completion of its $10 million Series A round of financing, led by Target Global with participation from PICO Venture Partners,"
     publishedDateTime: 2021-08-17T20:29:00Z

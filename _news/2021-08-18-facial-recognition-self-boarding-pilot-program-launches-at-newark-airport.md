@@ -59,6 +59,20 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "The great misunderstanding at the core of facial recognition"
+    excerpt: "Numerous authors have sketched out the social, political, and ethical implications of facial recognition technology. These important critiques highlight the consequences of false positive identifications,"
+    publishedDateTime: 2021-08-17T14:00:00Z
+    webUrl: "https://www.fastcompany.com/90666477/facial-recognition-misunderstanding"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 39
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2021/08/p-1-facial-recognition-misunderstanding.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "qRBIZalWdW6/+2xi4wMgBubG1IW6yBpD+xknxDztwcT88MvtX5sv+uW1FBEqypuUqOC1H37frdTLLgulM3n3AUquCqemyBnd9UJmZc9u44IEcbVAR8Ha0Mga22HP+R4Md73QtGVIviRRVa6x2Iw+M7WTu73/Tl0HFsfit89wDXGgwu5+ufHTh7Hl3dIPw7t69xcg2gTD5o22JzsBfTNjXF1WNJXTyrcr/ZaI5oX9SGzGVdATBKQBaONYRHK7A/qd233Dp5k/0/CipdHgS+dgnsDJpylYc1IGVlGb5oG4j2i2DmLs+qFCbBosNKUYRC1LGPP5mpQyo6o9zhd8FE6KLaI1WKbDtDYIuR6I5VAwiu5gmYyhmUVbxslN2k06rd+1+iNusyF8VZeKRQrsl4o4XRLmjZmjThQUDhvWslD+I50r2vX2aSltuZSoqb++pRloBQMJ/YZ5wvWGeb49RutFSJveMij2HzrPJnYNcJyg94U/CM+lmkzm8hEZGzOoF8ZyW/jOsCFRd7faZQ58wz88iw==;o0kzShc7Mks8gVek2zFN9Q=="
 ---

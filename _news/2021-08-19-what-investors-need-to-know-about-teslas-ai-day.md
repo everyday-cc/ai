@@ -96,9 +96,9 @@ related:
   - title: "Tesla Bot: A concept humanoid robot embedded with Tesla's vehicle AI"
     excerpt: "At Tesla AI Day, the company's CEO Elon Musk unveiled a concept humanoid robot that will be powered by the AI currently embedded within Tesla's autonomous vehicles. Aptly named the Tesla Bot, details about the concept robot were limited,"
     publishedDateTime: 2021-08-20T02:15:00Z
-    webUrl: "https://www.zdnet.com/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
+    webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
     type: article
     provider:
       name: ZDNet
@@ -357,6 +357,22 @@ related:
       - url: "https://images.newscientist.com/wp-content/uploads/2021/08/20140258/pri195510988.jpg?width=600"
         width: 600
         height: 400
+        isCached: true
+  - title: "Tesla Has Unveiled A New Chip For Training AI Models Inside Its Data Centers"
+    excerpt: "Tesla announced a custom-made chip for training artificial intelligence networks in data centres. Shown at the carmaker’s Livestreaming AI Day, the work shows that the company is engaged in vertical integration."
+    publishedDateTime: 2021-08-21T12:01:00Z
+    webUrl: "https://wonderfulengineering.com/tesla-has-unveiled-a-new-chip-for-training-ai-models-inside-its-data-centers/"
+    ampWebUrl: "https://wonderfulengineering.com/tesla-has-unveiled-a-new-chip-for-training-ai-models-inside-its-data-centers/amp/"
+    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/tesla-has-unveiled-a-new-chip-for-training-ai-models-inside-its-data-centers/amp/"
+    type: article
+    provider:
+      name: Wonderful Engineering
+      domain: wonderfulengineering.com
+    quality: 88
+    images:
+      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/08/NVidia-GPU-Packaging.jpg"
+        width: 872
+        height: 872
         isCached: true
   - title: "Elon Musk announces humanoid robot Tesla Bot that uses artificial intelligence"
     excerpt: "Billionaire Elon Musk has announced that Tesla is working on a humanoid robot called \"Tesla Bot\" that uses artificial intelligence and will launch the prototype in 2022. Join us to build the future of AI →  pic."
@@ -1009,6 +1025,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Tesla to build robot to eliminate ‘dangerous, repetitive and boring tasks’, says Elon Musk"
+    excerpt: "Tesla used its inaugural AI Day to showcase improvements in its self-driving capability – which has come under a regulatory spotlight in the US – and unveiled plans for a life-like robot that Elon Musk says will take the drudgery out of everyday life."
+    publishedDateTime: 2021-08-22T01:30:00Z
+    webUrl: "https://www.independent.ie/business/technology/news/tesla-to-build-robot-toeliminate-dangerous-repetitive-and-boring-tasks-says-elon-musk-40772558.html"
+    type: article
+    provider:
+      name: Independent.ie
+      domain: independent.ie
+    quality: 46
+    images:
+      - url: "https://www.independent.ie/business/technology/news/f1d51/40772557.ece/AUTOCROP/w1240h700/ORATION-SPACEX"
+        width: 1240
+        height: 700
+        isCached: true
   - title: "Elon Musk says Tesla is building a humanoid robot for 'boring, repetitive and dangerous' work"
     excerpt: "Elon Musk said Thursday night at Tesla's AI Day that the company is building a humanoid robot, and will probably have a prototype next year."
     publishedDateTime: 2021-08-20T19:29:00Z
@@ -1051,6 +1081,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Elon Musk announced that the Tesla Bot, a humanoid robot with AI, is coming out in 2022 and has already been showered with memes!"
+    excerpt: "Day, Elon Musk announced that in 2022 they will present the prototype of the humanoid robot Tesla Bot. Of course, netizens responded as they know best: with memes.  This Thursday, Elon Musk announced that his electric vehicle company is working on creating a humanoid robot ."
+    publishedDateTime: 2021-08-22T00:29:00Z
+    webUrl: "https://www.stamfordadvocate.com/business/article/Elon-Musk-announced-that-the-Tesla-Bot-a-16401310.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 42
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/42/66/21376445/3/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Elon Musk plans to design humanoid robot to help with everyday chores"
     excerpt: "\"It's basically going to start dealing with work that is boring, repetitive and dangerous,\" Musk said of the Tesla robot."
     publishedDateTime: 2021-08-20T17:59:00Z
@@ -1068,7 +1112,7 @@ related:
   - title: "Elon Musk's Next Big Thing, ‘Humanoid Robots' Powered by the Same AI Used for its Self-Driving Vehicles"
     excerpt: "Last night during a live streamed event called “AI Day”, Tesla Chief Executive Elon Musk teased the “Tesla Bot”, a realistic humanoid robot that would be powered by the same types of AI systems that Tesla uses for its Autopilot and Full Self-Driving (FSD) feature in its cars."
     publishedDateTime: 2021-08-20T18:25:00Z
-    webUrl: "https://www.futurecar.com/4817/Elon-Musk’s-Next-Big-Thing-‘Humanoid-Robots’-Powered-by-the-Same-AI-Used-for-its-Self-Driving-Vehicles"
+    webUrl: "https://www.futurecar.com/4817/Elon-Musks-Next-Big-Thing-Humanoid-Robots-Powered-by-the-Same-AI-Used-for-its-Self-Driving-Vehicles"
     type: article
     provider:
       name: futurecar

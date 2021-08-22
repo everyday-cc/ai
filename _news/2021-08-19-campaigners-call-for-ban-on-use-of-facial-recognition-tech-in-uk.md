@@ -9,8 +9,8 @@ ampWebUrl: "https://diginomica.com/campaigners-call-ban-use-facial-recognition-t
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/campaigners-call-ban-use-facial-recognition-tech-uk?amp"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 124
+published: true
 
 provider:
   name: Diginomica
@@ -27,81 +27,51 @@ images:
     isCached: true
 
 related:
-  - title: "New rules on police use of facial recognition don't go far enough, experts say"
-    excerpt: "The UK government has updated its code of practice on the use of surveillance cameras. Will it be enough to protect citizens' rights?"
-    publishedDateTime: 2021-08-17T08:09:00Z
-    webUrl: "https://www.zdnet.com/article/new-rules-on-police-use-of-facial-recognition-dont-go-far-enough-experts-say/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/new-rules-on-police-use-of-facial-recognition-dont-go-far-enough-experts-say/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/new-rules-on-police-use-of-facial-recognition-dont-go-far-enough-experts-say/"
+  - title: "UK privacy advocates sound alarm on ‘dystopian’ live facial recognition technology used by police"
+    excerpt: "UK privacy and civil liberties campaigners say that the proposed changes to the code on the use of facial recognition systems by police leave a path for this technology to be abused by the state."
+    publishedDateTime: 2021-08-17T12:45:00Z
+    webUrl: "https://www.rt.com/uk/532293-uk-facial-recognition-concerns/"
+    ampWebUrl: "https://www.rt.com/uk/532293-uk-facial-recognition-concerns/amp/"
+    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/uk/532293-uk-facial-recognition-concerns/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 85
+      name: RT
+      domain: rt.com
+    quality: 46
     images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/08/17/781cbd69-4be4-4e42-8031-b7287e8afc84/gettyimages-1208074512.jpg"
-        width: 1200
-        height: 800
+      - url: "https://cdni.rt.com/files/2021.08/xxl/611baefa203027116d5066cb.jpg"
+        width: 1240
+        height: 697
         isCached: true
-  - title: "Emotion Detection And Recognition Market"
-    excerpt: "The global Emotion Detection And Recognition Market is forecast to reach USD 148 11 Billion by 2026 according to a new report by With the rising number of smart homes increasing demand for personal health and industry"
-    publishedDateTime: 2021-08-20T05:14:00Z
-    webUrl: "https://www.openpr.com/news/2361364/emotion-detection-and-recognition-market-segments-key-vendors"
-    ampWebUrl: "https://www.openpr.com/amp/2361364/emotion-detection-and-recognition-market-segments-key-vendors"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2361364/emotion-detection-and-recognition-market-segments-key-vendors"
+  - title: "'Massive invasion of privacy': Hamden lawmakers seek to ban government use of facial recognition technology"
+    excerpt: "Police Department officials have said the agency presently does not use any such technology but previously engaged in a free trial of facial recognition software. Passing an ordinance “is the right thing to do as the technology becomes more pervasive in terms of its use by government,"
+    publishedDateTime: 2021-08-18T15:59:00Z
+    webUrl: "https://www.nhregister.com/news/article/Massive-invasion-of-privacy-Hamden-16394681.php"
+    ampWebUrl: "https://www.nhregister.com/news/amp/Massive-invasion-of-privacy-Hamden-16394681.php"
+    cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/Massive-invasion-of-privacy-Hamden-16394681.php"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 44
+      name: New Haven Register
+      domain: nhregister.com
+    quality: 43
     images:
-      - url: "https://cdn.openpr.com/U/8/U820923146_g.jpg"
-        width: 750
-        height: 350
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
-  - title: "Google adds facial expression recognition to Android Accessibility Suite beta version"
-    excerpt: "A team at XDA Developers has discovered that Google has added facial expression recognition to the beta version of the Android Accessibility Suite, which came with the beta version of Android 12. The new feature is called collectively Camera Switches."
-    publishedDateTime: 2021-08-17T14:00:00Z
-    webUrl: "https://techxplore.com/news/2021-08-google-facial-recognition-android-accessibility.html"
-    ampWebUrl: "https://techxplore.com/news/2021-08-google-facial-recognition-android-accessibility.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-google-facial-recognition-android-accessibility.amp"
+  - title: "New UK live facial recognition code proposed has potential for adverse effects"
+    excerpt: "The proposed code states that any use of live facial recognition should quickly delete any unused biometric data collected."
+    publishedDateTime: 2021-08-19T20:02:00Z
+    webUrl: "https://www.biometricupdate.com/202108/new-uk-live-facial-recognition-code-proposed-has-potential-for-adverse-effects"
     type: article
     provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 39
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/android-phone-2.jpg"
-        width: 2880
-        height: 1920
-        isCached: true
-  - title: "The great misunderstanding at the core of facial recognition"
-    excerpt: "Numerous authors have sketched out the social, political, and ethical implications of facial recognition technology. These important critiques highlight the consequences of false positive identifications,"
-    publishedDateTime: 2021-08-17T14:00:00Z
-    webUrl: "https://www.fastcompany.com/90666477/facial-recognition-misunderstanding"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 39
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2021/08/p-1-facial-recognition-misunderstanding.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Open source face recognition application adds features"
-    excerpt: "Exadel, a software engineering company that delivers digital platforms, products and applications, announced updates to CompreFace, an open source face recognition application. Since its launch in November 2020,"
-    publishedDateTime: 2021-08-21T11:11:00Z
-    webUrl: "https://www.ept.ca/2021/08/open-source-face-recognition-application-adds-features/"
-    type: article
-    provider:
-      name: EPT
-      domain: www.ept.ca
-    quality: 39
-    images:
-      - url: "https://www.ept.ca/wp-content/uploads/2020/08/EPT_Aug2021_ISSUU_COV-ml-300x400.jpg"
-        width: 300
-        height: 400
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/11151135/biometric-identification-facial-recognition.jpg"
+        width: 1600
+        height: 1109
         isCached: true
   - title: "UK government criticised for proposed facial-recognition guidance"
     excerpt: "The government is updating its “surveillance camera code of practice” for the first time since it was implemented in 2013, but privacy campaigners have criticised the proposed updates for not doing enough to mitigate abuses of facial-recognition technology."

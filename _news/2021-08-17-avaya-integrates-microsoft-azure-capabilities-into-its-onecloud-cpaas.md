@@ -9,7 +9,7 @@ ampWebUrl: "https://seekingalpha.com/amp/news/3731423-avaya-integrates-microsoft
 cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3731423-avaya-integrates-microsoft-azure-capabilities-into-its-onecloud-cpaas"
 type: article
 quality: 74
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft ups ante in government cloud contest"
-    excerpt: "Microsoft announced its Azure Government Top Secret cloud received authorisation making it available to US national security agencies."
-    publishedDateTime: 2021-08-17T08:18:00Z
-    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/microsoft-ups-ante-in-government-cloud-contest"
-    ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/microsoft-ups-ante-in-government-cloud-contest/amp"
-    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/microsoft-ups-ante-in-government-cloud-contest/amp"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 59
-    images:
-      - url: "https://www.mobileworldlive.com/wp-content/uploads/2018/07/MWL2018_Microsoft.jpg"
-        width: 650
-        height: 379
-        isCached: true
   - title: "Avaya, Microsoft announce integration of Microsoft Azure Communication Services with Avaya OneCloud CPaaS"
     excerpt: "The companies have announced the integration of Microsoft Azure Communication Services with Avaya OneCloud CPaaS."
     publishedDateTime: 2021-08-18T06:39:00Z

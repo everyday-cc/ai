@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "New rules on police use of facial recognition don't go far enough, experts say"
-    excerpt: "The UK government has updated its code of practice on the use of surveillance cameras. Will it be enough to protect citizens' rights?"
-    publishedDateTime: 2021-08-17T08:09:00Z
-    webUrl: "https://www.zdnet.com/article/new-rules-on-police-use-of-facial-recognition-dont-go-far-enough-experts-say/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/new-rules-on-police-use-of-facial-recognition-dont-go-far-enough-experts-say/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/new-rules-on-police-use-of-facial-recognition-dont-go-far-enough-experts-say/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 85
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/08/17/781cbd69-4be4-4e42-8031-b7287e8afc84/gettyimages-1208074512.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Campaigners call for ban on use of facial recognition tech in UK"
-    excerpt: "Human rights group Liberty has called on the UK to ban the use of facial recognition software by police forces and private companies, as the British Government updates its guidance on the use of the surveillance technologies."
-    publishedDateTime: 2021-08-19T11:58:00Z
-    webUrl: "https://diginomica.com/campaigners-call-ban-use-facial-recognition-tech-uk"
-    ampWebUrl: "https://diginomica.com/campaigners-call-ban-use-facial-recognition-tech-uk?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/campaigners-call-ban-use-facial-recognition-tech-uk?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 74
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2021-08/76522589-0B01-4323-9BBC-AA85BA5ABD9A.jpeg"
-        width: 640
-        height: 425
-        isCached: true
   - title: "Emotion Detection And Recognition Market"
     excerpt: "The global Emotion Detection And Recognition Market is forecast to reach USD 148 11 Billion by 2026 according to a new report by With the rising number of smart homes increasing demand for personal health and industry"
     publishedDateTime: 2021-08-20T05:14:00Z
@@ -89,40 +57,71 @@ related:
         width: 2880
         height: 1920
         isCached: true
-  - title: "The great misunderstanding at the core of facial recognition"
-    excerpt: "Numerous authors have sketched out the social, political, and ethical implications of facial recognition technology. These important critiques highlight the consequences of false positive identifications,"
-    publishedDateTime: 2021-08-17T14:00:00Z
-    webUrl: "https://www.fastcompany.com/90666477/facial-recognition-misunderstanding"
+  - title: "Effective and Robust Physical-World Attacks on Deep Learning Face Recognition Systems"
+    excerpt: "Deep neural networks (DNNs) have been increasingly used in face recognition (FR) systems. Recent studies, however, show that DNNs are vulnerable to adversarial examples, which potentially mislead DNN-based FR systems in the physical world."
+    publishedDateTime: 2021-08-21T17:12:00Z
+    webUrl: "https://ieeexplore.ieee.org/abstract/document/9505665"
     type: article
     provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 39
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2021/08/p-1-facial-recognition-misunderstanding.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "UK government criticised for proposed facial-recognition guidance"
-    excerpt: "The government is updating its “surveillance camera code of practice” for the first time since it was implemented in 2013, but privacy campaigners have criticised the proposed updates for not doing enough to mitigate abuses of facial-recognition technology."
-    publishedDateTime: 2021-08-18T11:00:00Z
-    webUrl: "https://www.computerweekly.com/news/252505503/UK-government-criticised-for-proposed-facial-recognition-guidance"
-    ampWebUrl: "https://www.computerweekly.com/news/252505503/UK-government-criticised-for-proposed-facial-recognition-guidance?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252505503/UK-government-criticised-for-proposed-facial-recognition-guidance?amp=1"
+      name: IEEE
+      domain: ieee.org
+    quality: 29
+  - title: "Praxis in new recognition agreement with GMB union"
+    excerpt: "INDEPENDENT social care provider Praxis Care has renewed an exclusive union recognition agreement with the GMB for its employees in the UK and the Isle of Man."
+    publishedDateTime: 2021-08-19T00:12:00Z
+    webUrl: "https://www.irishnews.com/business/2021/08/19/news/praxis-in-new-recognition-agreement-with-gmb-union-2422115/"
     type: article
     provider:
-      name: Computer Weekly
-      domain: computerweekly.com
+      name: The Irish News
+      domain: irishnews.com
     quality: 24
-  - title: "The Use of Facial Recognition Technology in Criminal Investigations"
-    excerpt: "Facial recognition and surveillance technology is being used throughout the nation during criminal investigations. Find out more with our latest article written by our senior law clerk, Sarah! Facial recognition and surveillance technology is being used throughout the nation during criminal investigations."
-    publishedDateTime: 2021-08-18T01:15:00Z
-    webUrl: "https://www.avvo.com/legal-guides/ugc/the-use-of-facial-recognition-technology-in-criminal-investigations"
+    images:
+      - url: "http://www.irishnews.com/picturesarchive/irishnews/irishnews/2021/08/18/173315214-8860171c-672c-4316-99f5-d21a17a3f4da.jpg"
+        width: 900
+        height: 472
+        isCached: true
+  - title: "ICStation's $5 SU-10A Packs an On-Board Unisound US516P6 for Offline Voice Recognition Work"
+    excerpt: "ICStation has begun selling a $5 module designed to add voice control to projects without the need for a network connection, building on the Unisound US516P6 microcontroller: the SU-10A. Designed for solder-free installation to speakers,"
+    publishedDateTime: 2021-08-18T12:29:00Z
+    webUrl: "https://www.hackster.io/news/icstation-s-5-su-10a-packs-an-on-board-unisound-us516p6-for-offline-voice-recognition-work-680799a416e7"
     type: article
     provider:
-      name: Avvo
-      domain: avvo.com
-    quality: 19
+      name: Hackster
+      domain: hackster.io
+    quality: 14
+    images:
+      - url: "https://hackster.imgix.net/uploads/attachments/1336905/_M6eNCQ4wFX.blob?auto=compress%2Cformat&w=600&h=450&fit=min"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "Global Healthcare Machine Vision System Market (2021 to 2028) - by Product Type, Type, and Application - ResearchAndMarkets.com"
+    excerpt: "The “Global Healthcare Machine Vision System Market by Product Type, Type, and Application: Opportunity Analysis and Industry Forecast, 2021-2028” report has been added to ResearchAndMarkets.com’s offering."
+    publishedDateTime: 2021-08-18T08:56:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-cb70dfea047c43779c03e2fd1c672af2"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 11
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Andes Technology and Cyberon Collaborate to Provide Edge-Computing Voice Recognition Solution on DSP-capable RISC-V Processors"
+    excerpt: "Cyberon and Andes Technology announced their collaboration on the edge-computing voice recognition solution, Cyberon DSpotter, by exploring Andes DSP-capable RISC-V CPU cores such as the popular D25F and comprehensive software development environment to provide a cost-effective,"
+    publishedDateTime: 2021-08-19T11:30:00Z
+    webUrl: "https://www.design-reuse.com/news/50465/andes-cyberon-voice-recognition-dsp-risc-v-processor.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 0
+    images:
+      - url: "https://www.design-reuse.com/news_img2/homepage50465/andes2b.jpg"
+        width: 1488
+        height: 940
+        isCached: true
 
 secured: "qKsX5fRddXTwYEQNmoYEhdOOLO1H1WpFEogcq1+YlibCxbj9HaPcffcSbgnFyVNZAkn1K2v6yyIACsuUKbQX0ulqKQc88F2HGqnS1xAAAP0R8KGFhtFglUh0PWCMAmEPDkXw3BF+Dby7C3qJvoTJRuKtr82/bvGtAZsXVBaYEkBbtshpVVA/gkpq2sNcDC+//1wGUH92y7iKe5+Ha49Qv4rHdT3qJVFgtfFpniYMu1VcN1jw1GcV/KZV6d3t//zZKZWj4F/zLamMdNG7rHlhs6+ETDQh+4ZRNAms8qiEeZXzNEL4EDbuaEsbUvIeJFkf39ZcwlswfZaJSz1NxNc6Rp4fXdDf6kPoFC5P8ARN1Bs=;2NaNJkgI92m2k3cQhRSmrQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/index.php/category/2025/index.php/google-amp/a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2025/index.php/google-amp/article/new-windows-10-21h2-and-21h1-previews-arrive/"
 type: article
 quality: 74
-heat: 84
+heat: 85
 published: true
 
 provider:

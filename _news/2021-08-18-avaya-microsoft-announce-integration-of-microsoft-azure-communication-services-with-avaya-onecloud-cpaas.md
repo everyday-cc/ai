@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 1200
         isCached: true
-  - title: "Microsoft ups ante in government cloud contest"
-    excerpt: "Microsoft announced its Azure Government Top Secret cloud received authorisation making it available to US national security agencies."
-    publishedDateTime: 2021-08-17T08:18:00Z
-    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/microsoft-ups-ante-in-government-cloud-contest"
-    ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/microsoft-ups-ante-in-government-cloud-contest/amp"
-    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/microsoft-ups-ante-in-government-cloud-contest/amp"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 59
-    images:
-      - url: "https://www.mobileworldlive.com/wp-content/uploads/2018/07/MWL2018_Microsoft.jpg"
-        width: 650
-        height: 379
-        isCached: true
   - title: "Edible Arrangements grows business with Microsoft Azure"
     excerpt: "Edible Arrangements is using Microsoft Azure Synapse Analytics to grow its business by getting insights into its retail operations, supply chain and inventory demands, helping it to make more informed business decisions."
     publishedDateTime: 2021-08-17T11:36:00Z

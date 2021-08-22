@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Campaigners call for ban on use of facial recognition tech in UK"
+    excerpt: "Human rights group Liberty has called on the UK to ban the use of facial recognition software by police forces and private companies, as the British Government updates its guidance on the use of the surveillance technologies."
+    publishedDateTime: 2021-08-19T11:58:00Z
+    webUrl: "https://diginomica.com/campaigners-call-ban-use-facial-recognition-tech-uk"
+    ampWebUrl: "https://diginomica.com/campaigners-call-ban-use-facial-recognition-tech-uk?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/campaigners-call-ban-use-facial-recognition-tech-uk?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 74
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2021-08/76522589-0B01-4323-9BBC-AA85BA5ABD9A.jpeg"
+        width: 640
+        height: 425
+        isCached: true
   - title: "UK privacy advocates sound alarm on ‘dystopian’ live facial recognition technology used by police"
     excerpt: "UK privacy and civil liberties campaigners say that the proposed changes to the code on the use of facial recognition systems by police leave a path for this technology to be abused by the state."
     publishedDateTime: 2021-08-17T12:45:00Z
@@ -44,22 +60,6 @@ related:
         width: 1240
         height: 697
         isCached: true
-  - title: "UK faces 'dystopian' future with facial-recognition AI cameras turning public spaces into 'prisons'"
-    excerpt: "Campaigners slammed proposed new CCTV guidance given to police and councils in England and Wales to compare camera footage with a watch-list (file photo)."
-    publishedDateTime: 2021-08-17T07:39:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-9900501/UK-faces-dystopian-future-facial-recognition-AI-cameras-turning-public-spaces-prisons.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-9900501/amp/UK-faces-dystopian-future-facial-recognition-AI-cameras-turning-public-spaces-prisons.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9900501/amp/UK-faces-dystopian-future-facial-recognition-AI-cameras-turning-public-spaces-prisons.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 45
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2021/08/17/08/46765661-0-image-a-27_1629185947147.jpg"
-        width: 636
-        height: 382
-        isCached: true
   - title: "New UK live facial recognition code proposed has potential for adverse effects"
     excerpt: "The proposed code states that any use of live facial recognition should quickly delete any unused biometric data collected."
     publishedDateTime: 2021-08-19T20:02:00Z
@@ -74,6 +74,26 @@ related:
         width: 1600
         height: 1109
         isCached: true
+  - title: "UK government criticised for proposed facial-recognition guidance"
+    excerpt: "The government is updating its “surveillance camera code of practice” for the first time since it was implemented in 2013, but privacy campaigners have criticised the proposed updates for not doing enough to mitigate abuses of facial-recognition technology."
+    publishedDateTime: 2021-08-18T11:00:00Z
+    webUrl: "https://www.computerweekly.com/news/252505503/UK-government-criticised-for-proposed-facial-recognition-guidance"
+    ampWebUrl: "https://www.computerweekly.com/news/252505503/UK-government-criticised-for-proposed-facial-recognition-guidance?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252505503/UK-government-criticised-for-proposed-facial-recognition-guidance?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 24
+  - title: "The Use of Facial Recognition Technology in Criminal Investigations"
+    excerpt: "Facial recognition and surveillance technology is being used throughout the nation during criminal investigations. Find out more with our latest article written by our senior law clerk, Sarah! Facial recognition and surveillance technology is being used throughout the nation during criminal investigations."
+    publishedDateTime: 2021-08-18T01:15:00Z
+    webUrl: "https://www.avvo.com/legal-guides/ugc/the-use-of-facial-recognition-technology-in-criminal-investigations"
+    type: article
+    provider:
+      name: Avvo
+      domain: avvo.com
+    quality: 19
 
 secured: "u1GPJmbHhIu9D4ViOpI78J8o8TdGdkrhXO7nGOrtkKj/I4xDMSkAKbARLE5z4NhaMkL3j4M0PmaK9lUjXrmNEJFHTjcIL4dweocAUNoa90u+KY+UYXNWFt3DV6GbtW62egAD+WldQW1cwEPNrhTIquegCbmgRO7eM46ugYdRqwL/ymoOkBFCOGEudMxqXOpWkvnLWodF1p4V59KKB3Z8xUOILi7/XJgXlY3cRo9cSaTRoK/WJbv/bdNqochCc5g0dsBXJ/bSLT33g1wctzgAKdfKu6PQbCkWTMiCnP1rBfhO4c1FqiBUlaPYcEnewqx5BGEx2QHjJMECESkQKZBY9qzsXrEVZTMXH5yYZxD5z7sMNXHqQ4gORxFuIjNwfkc1tcNnBBQhbdPxA+l8F4F2U2pyw66PaSe9+xozvdOG2/LPwivfmD6z0MjxQCXh0YwLoUmMoLeDvbIXg2omCsChULkWb4JV75ETh1WqNBKS4auKy1ErQ++3QW2VJyc0XDgBAbomkNAfhsxmYy7qVUMcEw==;sau6UTtaTP3r2QITr1ACCw=="
 ---

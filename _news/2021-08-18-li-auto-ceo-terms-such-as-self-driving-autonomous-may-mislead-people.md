@@ -24,22 +24,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "Chinese EV maker warns terms like autonomous, self driving may mislead people"
-    excerpt: "EV maker Li Auto's CEO Li Xiang said that no automobile today is truly capable of fully autonomous driving and thus the common usage of such terms should be avoided..He also urged media and industry bodies to adopt a unified nomenclature for assisted and autonomous driving technologies."
-    publishedDateTime: 2021-08-17T07:50:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/chinese-ev-maker-warns-terms-like-autonomous-self-driving-may-mislead-people-41629184138387.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 36
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2021/08/17/600x338/9511e106-3221-11ea-abf9-d6598481f54e_1578554866586_1629184284067.jpg"
-        width: 600
-        height: 338
-        isCached: true
-
 secured: "S2vyK/8+IXcdHvE7cEUC0DnxPcz9eVXqXl3ZbCjfsPdHCMtJ89HKhkiznhk2jYDa2iN1b7pDt5RxLGt7nSGiEn3xMqU4xUsWQCDsenZaPlDBlqbeUgG1AwgYmM++KRMlHA1q/CYW1+ZaYIiOQ+ppurwHBZiTOA9ue7WPOqkAO8WmqxApC6zFh9z/kk/sSn5FkELKjd5uw5mOuQheRp/saxZ1Os6ftnIu+AGK2WcXm8QHLxbEbfwN93Hon3Rr78cv4T2zHGRtnw1GRI0+1U/pI+AsMUhi435Nh41539X2TuQ1qbqSvYSMmSWgD1eIFvAFtC5qdncsyoj1djH43+raZgvuylhbyKTo2hxlPIyOscjC5B2NG/qQq/RVnoNGx+2/XYLoRn1l2jJ0fHulr3WKwmLwtukch6W8CpYoxjj29hJEdYPBuo2jUVwlwUPQFHyB7kroJwlEzF/rbeUitVTxqd9Z3/yGJkTZ1dd5BitY/ld5X//D6F+CDhdy3dLsXZx9PM59T5/rHV5kNrCrM+Xy+g==;3v+nM+DJfMs3ThPIGnijgQ=="
 ---
 
