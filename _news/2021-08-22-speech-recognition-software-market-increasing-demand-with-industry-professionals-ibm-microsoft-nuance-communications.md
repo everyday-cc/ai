@@ -69,20 +69,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Microsoft unwraps top secret cloud"
-    excerpt: "Microsoft announced its top secret, air-gapped Azure cloud has received authorization to operate and are 'generally available' for national security workloads."
-    publishedDateTime: 2021-08-17T20:06:00Z
-    webUrl: "https://gcn.com/articles/2021/08/17/microsoft-top-secret-cloud.aspx"
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
-    quality: 39
-    images:
-      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Cloud/topsecret_cloud.jpg"
-        width: 760
-        height: 368
-        isCached: true
   - title: "AI Recruitment Market is Booming Worldwide with Google, IBM, Oracle"
     excerpt: "Advance Market Analytics published a new research publication on AI Recruitment Market Insights to 2026 with 232 pages and enriched with self explained Tables and charts in presentable format In the Study you will find new evolving Trends Drivers Restraints"
     publishedDateTime: 2021-08-18T19:43:00Z

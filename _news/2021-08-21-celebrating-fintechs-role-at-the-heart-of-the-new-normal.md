@@ -77,15 +77,6 @@ related:
         width: 300
         height: 400
         isCached: true
-  - title: "Fintech platform FUSE Autotech raises $10M in Series A funding led by Target Global"
-    excerpt: "FUSE Autotech, a fintech software platform that redefines the car buying process, today announced the completion of its $10 million Series A round of financing, led by Target Global with participation from PICO Venture Partners,"
-    publishedDateTime: 2021-08-17T20:29:00Z
-    webUrl: "https://www.autonews.com/fi-press-release/fintech-platform-fuse-autotech-raises-10m-series-funding-led-target-global"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 13
 
 secured: "4JBC0pQXq7evaV68qKI7Mzz9Hya9JqanjA/1ec1rRaLEaPXjZhzHPu8EL6N/AfzVGm91CCl9aKQkZVs0Eriye60efuvQ0LTLcgTPbxD3QQRtbSPPEtytX7dR+xfcEYGOvhmIrb0LX50ZasFgTkwC0kwXQO00qG+vXCTI2U+bGSKFMjzQuxONTTOz71kOz/HM2f3rXM84bkx2u4tIDAKXVUlBiuoo8U+1c38ydqHg5zu2B6I0daVUg96jA+SDgatDDw5aR4kXkKKb0rpiZPPAzWhuFXkB8MvqwiizwN4nW+RyErHDp4/XJtjuEeOTzlk0QzQ0knyGbCpmCSEbC0yavh5n1UMXkAclkotF9Jy3rGQuO/Rfz0Q++0X2AvjduANJNKg9Ux1R4kJYYLw1OZNdae1hVOKMDRxWaGzgDbe6kP46towwb1F8hREj67ncCml2i58yF/SwsmDN760RvSsGNErzbAsngiBG0JRUbtPUdne0mthr0lKVE2TiVHOtxynkeQcisDX5A2/JVy8btl8mGA==;tNFvw+jJ0ybG9cn+5cd5Eg=="
 ---

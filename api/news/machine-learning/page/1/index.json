@@ -65,7 +65,7 @@
       "originalUrl": "https://phys.org/news/2021-08-remote-machine-reveal-archaic-shell.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -197,49 +197,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-19-kpmg-deakin-university-join-hands-to-offer-pg-course-in-artificial-intelligence-and-deep-learning.md",
-      "title": "KPMG, Deakin University Join Hands to Offer PG Course in Artificial Intelligence and Deep Learning",
-      "excerpt": "The adoption of artificial intelligence and deep learning to harness their transformative potential is becoming a key priority of most organizations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news18.com/news/education-career/kpmg-deakin-university-australia-join-hands-to-offer-a-pg-course-in-artificial-intelligence-and-deep-learning-4102001.html",
-      "originalUrl": "https://www.news18.com/news/education-career/kpmg-deakin-university-australia-join-hands-to-offer-a-pg-course-in-artificial-intelligence-and-deep-learning-4102001.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.news18.com/ibnlive/uploads/2021/08/kpmg-162935128916x9.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news18.com/amp/news/education-career/kpmg-deakin-university-australia-join-hands-to-offer-a-pg-course-in-artificial-intelligence-and-deep-learning-4102001.html",
-      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/kpmg-deakin-university-australia-join-hands-to-offer-a-pg-course-in-artificial-intelligence-and-deep-learning-4102001.html",
-      "publishedDateTime": "2021-08-18T22:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN-News18",
-        "domain": "news18.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-18-computer-scientist-explains-machine-learning-in-5-levels-of-difficulty.md",
       "title": "Computer Scientist Explains Machine Learning in 5 Levels of Difficulty",
       "excerpt": "WIRED has challenged computer scientist and Hidden Door cofounder and CEO Hilary Mason to explain machine learning to 5 different people; a child, teen, a college student, a grad student and an expert.",
@@ -332,50 +289,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-18-closedloop-raises-34-million-to-infuse-data-science-into-healthcare.md",
-      "title": "ClosedLoop raises $34 million to infuse data science into healthcare",
-      "excerpt": "Series B financing for its healthcare-specific data science platform, bringing its total funding to $48 million. The company’s software combines machine learning with a library of healthcare-specific training features and model templates.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2021/08/18/closedloop-raises-34-million-infuse-data-science-healthcare/",
-      "originalUrl": "https://siliconangle.com/2021/08/18/closedloop-raises-34-million-infuse-data-science-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/sam-moqadam-2rrsfMN4hn8-unsplash.jpg",
-          "width": 6000,
-          "height": 4000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-18T08:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -1395,6 +1308,92 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-scaler-academy-launches-new-course-in-data-science-and-machine-learning.md",
+      "title": "Scaler Academy launches new course in data science and machine learning",
+      "excerpt": "The company said that the program had been designed based on a survey conducted by the company with around 100 data scientists working in leading tech and product firms worldwide.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/tech-bytes/scaler-academy-launches-new-course-in-data-science-and-machine-learning/articleshow/85267653.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/tech-bytes/scaler-academy-launches-new-course-in-data-science-and-machine-learning/articleshow/85267653.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1756969,msid-85267628/edtech.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/tech-bytes/scaler-academy-launches-new-course-in-data-science-and-machine-learning/amp_articleshow/85267653.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/tech-bytes/scaler-academy-launches-new-course-in-data-science-and-machine-learning/amp_articleshow/85267653.cms",
+      "publishedDateTime": "2021-08-12T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-spell-introduces-mlops-for-deep-learning.md",
+      "title": "Spell introduces MLOps for deep learning",
+      "excerpt": "Deep learning model development and management drives special requirements, especially around the provisioning of hardware. Spell introduced a machine learning operations (MLOps) platform last week that caters to these very needs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/spell-introduces-mlops-for-deep-learning/",
+      "originalUrl": "https://www.zdnet.com/article/spell-introduces-mlops-for-deep-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/spell-introduces-mlops-for-deep-learning/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/spell-introduces-mlops-for-deep-learning/",
+      "publishedDateTime": "2021-08-11T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

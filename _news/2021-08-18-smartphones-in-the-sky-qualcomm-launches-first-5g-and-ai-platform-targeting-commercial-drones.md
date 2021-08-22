@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sandiegouniontribune.com/business/technology/story/2021-
 cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/technology/story/2021-08-17/sd-fi-qualcomm-drones?_amp=true"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Qualcomm launches 5G, AI-enabled drone platform"
-    excerpt: "The Qualcomm Flight RB5 5G platform accelerates and scales development for drone manufacturers to deliver powerful enterprise and industrial 5G drones."
-    publishedDateTime: 2021-08-17T19:37:00Z
-    webUrl: "https://www.gpsworld.com/qualcomm-launches-5g-ai-enabled-drone-platform/"
-    ampWebUrl: "https://www.gpsworld.com/qualcomm-launches-5g-ai-enabled-drone-platform/amp/"
-    cdnAmpWebUrl: "https://www-gpsworld-com.cdn.ampproject.org/c/s/www.gpsworld.com/qualcomm-launches-5g-ai-enabled-drone-platform/amp/"
-    type: article
-    provider:
-      name: GPS World
-      domain: gpsworld.com
-    quality: 57
-    images:
-      - url: "https://www.gpsworld.com/wp-content/uploads/2021/08/Qualcomm-Flight-RB5-PP.jpg"
-        width: 620
-        height: 285
-        isCached: true
   - title: "Qualcomm AI-powered UAV 5G drone can capture 8K video and more"
     excerpt: "Qualcomm has introduced the world's first 5G and artificial intelligence enabled drone platform in the form of the Qualcomm Flight RB5 5G"
     publishedDateTime: 2021-08-18T09:39:00Z

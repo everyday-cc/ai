@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financemagnates.com/fintech/news/financial-data-platform
 cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/news/financial-data-platform-pngme-raises-15-million/amp/"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "ClosedLoop.ai Raises $34M to Expand Healthcare Data Science Platform"
-    excerpt: "ClosedLoop.ai., an Austin, TX-based healthcare data science platform, today announced it has raised $34 million in Series B funding."
-    publishedDateTime: 2021-08-17T20:38:00Z
-    webUrl: "https://hitconsultant.net/2021/08/17/closedloop-healthcare-data-science-funding/"
-    type: article
-    provider:
-      name: HIT Consultant
-      domain: hitconsultant.net
-    quality: 56
-    images:
-      - url: "https://mk0hitconsultan2lp7c.kinstacdn.com/wp-content/uploads/2021/08/ClosedLoop.png"
-        width: 906
-        height: 569
-        isCached: true
   - title: "Pngme raises $15m for financial data infrastructure platform"
     excerpt: "Pngme, a San Francisco-based firm that builds data infrastructure and out-of-the box machine learning capabilities for financial institutions and fintechs across sub-Saharan Africa, has raised $15 million in a Series A funding round led by Octopus Ventures."
     publishedDateTime: 2021-08-17T23:25:00Z

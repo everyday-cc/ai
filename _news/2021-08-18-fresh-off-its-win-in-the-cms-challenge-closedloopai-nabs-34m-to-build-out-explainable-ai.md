@@ -38,20 +38,6 @@ related:
         width: 6000
         height: 4000
         isCached: true
-  - title: "ClosedLoop Employs AI to Target Unnecessary Health Spending"
-    excerpt: "ClosedLoop.ai is hoping to use artificial intelligence to overcome some of the biggest obstacles in medicine including unnecessary healthcare spending. The Austin, TX-based company has raised $34 million to help it accomplish this task."
-    publishedDateTime: 2021-08-17T19:58:00Z
-    webUrl: "https://www.mddionline.com/artificial-intelligence/closedloop-employs-ai-target-unnecessary-health-spending"
-    type: article
-    provider:
-      name: MD&M East
-      domain: mddionline.com
-    quality: 39
-    images:
-      - url: "https://www.mddionline.com/sites/mddionline.com/files/IMG_Aug172021at35252PM.jpg"
-        width: 770
-        height: 400
-        isCached: true
 
 secured: "IrH+mmjsyH3lABqiTXn3GwIf8ovAF7FHdBee1ko6QgGYU0nm3IaIYPSBpLckGsht70OROTI7EVISM5DoSZVBjxp/wocLbo75ICeJvRt2wkPD4l+NH9oFYZaen44shyDAFwewWwKIgcdyGSRmxyFxL5jaZrAuLm+kBXLYpEEcz4XdAG/9SgMj7YMlUS22fXDr8H1ijFaZrp8cMHynjBkdB5HMYGm/fM1efKKBVadzTauZiY5mn4X9JtxDnPxxzcgfmpG0FJytWEztkA+w/Hvrze+CYqWh+gvovz5snJILnjfz8uExGm5PgoNgmvxeju0TX41gNpsf3vKL4gUwQyLdFXDKoGVjLgDIudS9HAiQ+YAP7b3i5LD3Ef2neEesye+JP5ZM0LPzZqPh93XODs2DKv4F4kcyZpjziPRySZOCfGGaJzn+aqM1PRSm0EGbN1lFjVxVsg2hfQAJw2e3wVnfYNZ3PsWN0DsyIw3xoTrAAHPifEw561aVIW307ooXgLk0+FZ/r2JLkVkzZ4B5kDbMZA==;ZG7o1A1KGB+3PKOd7clayg=="
 ---

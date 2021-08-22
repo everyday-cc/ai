@@ -7,7 +7,7 @@ originalUrl: "https://www.fedscoop.com/nairr-public-comment-extension/"
 webUrl: "https://www.fedscoop.com/nairr-public-comment-extension/"
 type: article
 quality: 135
-heat: 145
+heat: 135
 published: true
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 629
     height: 607
     isCached: true
-
-related:
-  - title: "AI Research Infrastructure Task Force Needs Input on ‘Democratizing’ Resources"
-    excerpt: "The group is developing an implementation plan for how the U.S. could increase access to artificial intelligence research resources."
-    publishedDateTime: 2021-08-17T19:49:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2021/08/ai-research-infrastructure-task-force-needs-input-democratizing-resources/184595/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 33
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2021/08/17/NGwhitehouse20210817/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "AbrLJJMvtjJN4TsmjZD4V2b5ntEzoKJyho0L9iguS+MNlZ4FglYkUeNnqXMhD82+yCunqKsiBoRHZkmEPGk7t//wsObxeWj98Xlx1QZBEU5M6vA0afSHbiHVyc2c+eqPg9d9VSWBtl2evRhkTvDMfZtXm/rqKDb6V94pyYqY+GasuhkIp9pLz3YuS0igkUfWD5qfPtnIjOWUu3ajESeDm3dgMYyqunWx8wjlnmtuwVPUuKJHNpiMy9U/XvLwRibLBhvFQsJsZgzbLvet52p2iGfX7YY5+CX5L0/C/lQ9jzGMub1723syxO5iHl4c5y6hHT/6uhr9AeUimTSaEZg9jenwPpJPBcHC6nx617PaSJy30wZcXKuWX7/mNyWhTY1G;vrtU0S/uK90kxDLit54/+g=="
 ---

@@ -69,15 +69,6 @@ related:
         width: 300
         height: 400
         isCached: true
-  - title: "Fintech platform FUSE Autotech raises $10M in Series A funding led by Target Global"
-    excerpt: "FUSE Autotech, a fintech software platform that redefines the car buying process, today announced the completion of its $10 million Series A round of financing, led by Target Global with participation from PICO Venture Partners,"
-    publishedDateTime: 2021-08-17T20:29:00Z
-    webUrl: "https://www.autonews.com/fi-press-release/fintech-platform-fuse-autotech-raises-10m-series-funding-led-target-global"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 13
   - title: "Celebrating fintech’s role at the heart of the new normal"
     excerpt: "Innovate Finance has launched a new forum to explore the potential of fintech to create a more inclusive and sustainable world. What good timing - fintech has performed impressively amidst the pandemic and will have a crucial role to play as restrictions are lifted and we settle  into our ‘new normal’."
     publishedDateTime: 2021-08-21T04:38:00Z
@@ -88,6 +79,6 @@ related:
       domain: finextra.com
     quality: 4
 
-secured: "NKTdxLxOkeKgWH0EUYXVzTEL7sDwb7oM9rSXgNSRV4X3tpXsDTU/z0q/JYDD66Tof/4fakl0cVjll6vPwdZOQnQJfKemWmgvzAWHqFzdXW7DRwaSYLU/uF0+XcFtZe8XNFerW6uXU2fJO/WYID1yECIPn68gUFAWb431DRnMrDJmEgzBerE64fnaHhSmqgX89sfVrFgJT1Em5130iHXcbgf9y0IZIxAX58tssvuMOaAjF5MCWxzOT/CV9/UvkCf/uR8qjqXia0QpfL4MCA41pN/6gNpdngf3OSkKCYnWZmm0jxx2ArC6ifhZhJMm8PXDr5S/NYQf9Fc+HGV82RLJzUKbLzq3mbYQjXd5zGAhLjM=;b3HvTizCKNfEweeL71PB8g=="
+secured: "uV9R7c6tMv7a9xcYxa0dhlSmEqkdpRwu16prqNM5wOOFJu8FEImOdXuwlpzBcUKckiOVtyV9Iw29BDiCs9FE2kxJ5e2EVNay9bmAg/9Zc1qvLTkf35zft4Y8Bho7ssnZgBbQZdtB1073jB+Nzldt0W1mTLYgkyFc4NaH0NqA/5HwByNG9y2iQQIHL8ZuVDlEPg6fcJ5VstABfRWUzxGAPNU+DBvKC1NHIRQzPU8EWWuoD2dUHPzwl0kQOs1fuD/aqaKcB/E41P9BJ+WkGZwk4oEGkQ00bH8oYTy8rzDQe0xifbH0GbrY1gxBCcwyjb+LVjS0p1a2ed1xlSoaJrMGY4a2L5NX6abB+LHaIwGPQd3OD+iujVqiV2XOIVpAFX+3XRv8zz7zTPwyM+SmCuwmBAQIhcMJYz8NAq97cbBjz3x+ZKry7eKrrQesv9Wtkx4OtIs7gA3gVyFOrt8nnurYfzBN7uBlsvN6ZxwxUCpZ5nq6bcM5/vmPJAPK6KoFaqtpxMbVj4rDhjey2xZFN0XfOQ==;JS4qH6XRot+26xR454RDeQ=="
 ---
 

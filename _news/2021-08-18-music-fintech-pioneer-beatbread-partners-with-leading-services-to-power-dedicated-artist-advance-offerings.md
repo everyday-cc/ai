@@ -24,6 +24,22 @@ images:
     height: 1060
     isCached: true
 
+related:
+  - title: "Music Fintech Pioneer beatBread Partners with Leading Services to Power Dedicated Artist Advance Offerings"
+    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
+    publishedDateTime: 2021-08-22T02:42:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_fintech-news-today/music-fintech-pioneer-beatbread-partners-with-leading-services-to-power-dedicated-artist-advance-offerings/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 6
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/98e03718d045ba1b9828cf3120163f4e.jpeg"
+        width: 400
+        height: 400
+        isCached: true
+
 secured: "fN92FTRw+k/ZmcPWuHwG9FoPV/Z/ZlqwkKCSHPa7JAanNkSohis6oDKnuW4aX54lBwZBOzMya4bGf0hxCHDceCSwsBcef12ymikVx2ty0uS+SVnqgWyucWd3fsgDtblxNPqCf9MNU/T3ZIORXxUViyl7YxsfOC4/SmSEL2+rnriQOW82zNmG9dU8NY3kuuSjuAaPoDiQIqueWQvnvET7ILV9sVO1hLAy+op82FUlAbf84pCgOJO7p1eRavFdmTngLspWjKgKCB9wXTZ7lRveJZiBUhVoNDM9CvlnRTei2W6VPjEMufK5MBdxx6IzOEwph4FTA5YlHGbYUnicPqo9hDo39KZWdOaWVgG/KebzBlY4tEMO5SRBNvS4iAXGk/jugQj5LfZ5mx02KK9HhFxDXigSyuYXoqeja2BFejHRzx3nFjjsR882cx3D6CKqQ9nBE0u5HsExfR4Mqp0IzqoeHnGTwEY8pfURcjsZ5eytQROfVSzkeoexF9RTjtoy2f0k+3eWNHuGLOpM7bFwqjGCuw==;zL0PUy9tBw+SfSeNQKKQLw=="
 ---
 

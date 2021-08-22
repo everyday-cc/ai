@@ -9,8 +9,8 @@ ampWebUrl: "https://www.news18.com/amp/news/education-career/kpmg-deakin-univers
 cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/kpmg-deakin-university-australia-join-hands-to-offer-a-pg-course-in-artificial-intelligence-and-deep-learning-4102001.html"
 type: article
 quality: 60
-heat: 80
-published: true
+heat: 60
+published: false
 
 provider:
   name: CNN-News18
@@ -25,33 +25,6 @@ images:
     width: 1600
     height: 900
     isCached: true
-
-related:
-  - title: "Deakin University, Australia, and KPMG in India associate to offer a Post Graduate Program in Artificial Intelligence and Deep Learning in India"
-    excerpt: "The adoption of artificial intelligence and deep learning to harness their transformative potential is becoming a key priority of most organizations."
-    publishedDateTime: 2021-08-18T08:30:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/deakin-university-australia-and-kpmg-in-india-associate-to-offer-a-post-graduate-program-in-artificial-intelligence-and-deep-learning-in-india-121081800643_1.html"
-    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/deakin-university-australia-and-kpmg-in-india-associate-to-offer-a-post-graduate-program-in-artificial-intelligence-and-deep-learning-in-india-121081800643_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/deakin-university-australia-and-kpmg-in-india-associate-to-offer-a-post-graduate-program-in-artificial-intelligence-and-deep-learning-in-india-121081800643_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 37
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-08/18/full/20210818114332.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Deakin University, Australia, and KPMG in India associate to offer a Post Graduate Program in Artificial Intelligence and Deep Learning in India"
-    excerpt: "KPMG in India, one of the market leaders in data science advisory services, has entered a Memorandum of Understanding with Deakin University, Australia, to offer a Post Graduate Industry Practitioner Programme in Artificial Intelligence and Deep Learning to Indian students."
-    publishedDateTime: 2021-08-18T18:45:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20210818/3804913.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
 
 secured: "1YgyNNTSGRMUvhGssRB2WVST9cdda0ZK4MH7/sAvJacXXCuottYLk2Rrl9FNyTp79uG+JsELwMvW4KyBi3Zn/+3ynCmbCBa2xZnrIbl/XyUZb0gokhyRRxDglwpTy8vOt/P/9P4FRmNieZ9PR7u+tdnrGAsrJ3d9oA1fmmVf73oH8lgXKdEcUBx9oEyOB9GiEwmpvK6AHth2WRJMYE8liwUKhzxMQvLItnrpbQbxPDpoOTpHcVMJt+/+2mYkEu8B13jvkyYy9n/HMSqLaMBZ2isv+UvEdwdEIaoD2Y16p6ev6xnjg6XzM9SUe2AePEeKaYvaXWTvY1eVp87wss6eZ/3rQyiAjtqbyUqgFt46Yq2haLftljzHZhFnf+6hxC6z44PHtxMdDZgASCOR1RQp5bTCndqNBFJ6uve7AP/ve0P9jyZZQ9iq9pd7snxFSHdGxwjIv+2Xj8igPN08ag6D+p+z9T0HlK3+cLvz8vMfkE15qUMk42N2RpFfurA30Oaq+4efrXYZjG5ZiMmYLLbrmw==;4w6vEoY8miEKLKrd2UOj6g=="
 ---

@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "KPMG, Deakin University Join Hands to Offer PG Course in Artificial Intelligence and Deep Learning"
-    excerpt: "The adoption of artificial intelligence and deep learning to harness their transformative potential is becoming a key priority of most organizations."
-    publishedDateTime: 2021-08-19T05:36:00Z
-    webUrl: "https://www.news18.com/news/education-career/kpmg-deakin-university-australia-join-hands-to-offer-a-pg-course-in-artificial-intelligence-and-deep-learning-4102001.html"
-    ampWebUrl: "https://www.news18.com/amp/news/education-career/kpmg-deakin-university-australia-join-hands-to-offer-a-pg-course-in-artificial-intelligence-and-deep-learning-4102001.html"
-    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/kpmg-deakin-university-australia-join-hands-to-offer-a-pg-course-in-artificial-intelligence-and-deep-learning-4102001.html"
+  - title: "Australia eyes AI, drones, facial recognition tech to protect wild koalas"
+    excerpt: "Researchers are seeking hi-tech solutions to protect koalas against the threats of vehicle collisions and bush fires."
+    publishedDateTime: 2021-08-22T13:10:00Z
+    webUrl: "https://www.scmp.com/news/asia/australasia/article/3145931/australia-eyes-ai-drones-facial-recognition-tech-protect-wild"
+    ampWebUrl: "https://amp.scmp.com/news/asia/australasia/article/3145931/australia-eyes-ai-drones-facial-recognition-tech-protect-wild"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/asia/australasia/article/3145931/australia-eyes-ai-drones-facial-recognition-tech-protect-wild"
     type: article
     provider:
-      name: CNN-News18
-      domain: news18.com
-    quality: 60
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 103
     images:
-      - url: "https://images.news18.com/ibnlive/uploads/2021/08/kpmg-162935128916x9.jpg"
-        width: 1600
-        height: 900
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/08/22/689d270a-0305-11ec-83d9-2f907cc4e7e5_image_hires_131045.jpg?itok=_PUW2we3&v=1629609056"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Deakin University, Australia, and KPMG in India associate to offer a Post Graduate Program in Artificial Intelligence and Deep Learning in India"
     excerpt: "KPMG in India, one of the market leaders in data science advisory services, has entered a Memorandum of Understanding with Deakin University, Australia, to offer a Post Graduate Industry Practitioner Programme in Artificial Intelligence and Deep Learning to Indian students."

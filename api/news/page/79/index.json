@@ -2,6 +2,84 @@
   "page": 79,
   "value": [
     {
+      "path": "_news/2021-06-24-providence-backed-tegria-acquires-healthcare-ai-company.md",
+      "title": "Providence-backed Tegria acquires healthcare AI company",
+      "excerpt": "Providence's health tech investment portfolio Tegria on June 24 acquired KenSci, a company that provides artificial intelligence platforms and tools to healthcare providers, payers and medical device companies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.beckershospitalreview.com/artificial-intelligence/providence-backed-tegria-acquires-healthcare-ai-company.html",
+      "originalUrl": "https://www.beckershospitalreview.com/artificial-intelligence/providence-backed-tegria-acquires-healthcare-ai-company.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/2.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-24T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-24-grand-prize-winner-announced-in-5m-ibm-watson-ai-xprize-competition.md",
+      "title": "Grand Prize Winner Announced in $5M IBM Watson AI XPRIZE Competition",
+      "excerpt": "and IBM Watson, IBM’s AI technology for business, today announced the Grand Prize Winner in the $5M IBM Watson AI XPRIZE Challenge. First launched in 2016, the five-year global competition ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswireindia.com/grand-prize-winner-announced-in-usd5m-ibm-watson-ai-xprize-competition-73669.html",
+      "originalUrl": "https://www.businesswireindia.com/grand-prize-winner-announced-in-usd5m-ibm-watson-ai-xprize-competition-73669.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-24T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswireindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-24-cognitivescale-and-ascendum-to-accelerate-trusted-ai-deployments-for-healthcare-fintech-and-ecommerce.md",
       "title": "CognitiveScale and Ascendum To Accelerate Trusted AI Deployments for Healthcare, Fintech and eCommerce",
       "excerpt": "Partnership Brings Together People, Process and Trust for Successful AI Application Development AUSTIN, June 23, 2021 — CognitiveScale, the enterprise AI company that helps organizations win with intelligent,",
@@ -1057,113 +1135,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-google-visual-inspection-ai-augments-automl-to-detect-defects-in-manufacturing.md",
-      "title": "Google Visual Inspection AI Augments AutoML To Detect Defects In Manufacturing",
-      "excerpt": "Visual Inspection AI takes AutoML Vision to the next level through its domain knowledge of the manufacturing industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2021/06/24/google-visual-inspection-ai-augments-automl-to-detect-defects-in-manufacturing/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2021/06/24/google-visual-inspection-ai-augments-automl-to-detect-defects-in-manufacturing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d424c449305f4e9367c3cf%2F0x0.jpg",
-          "width": 1000,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2021/06/24/google-visual-inspection-ai-augments-automl-to-detect-defects-in-manufacturing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/06/24/google-visual-inspection-ai-augments-automl-to-detect-defects-in-manufacturing/amp/",
-      "publishedDateTime": "2021-06-23T23:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-at-cagr-of-454-artificial-intelligence-chip-market-size-is-projected-to-reach-9119-billion-by-2025.md",
-      "title": "At CAGR of 45.4% Artificial Intelligence Chip Market Size is Projected to Reach $91.19 Billion by 2025",
-      "excerpt": "Heavy inflow of investments in AI startups, rise in demand for smart cities & smart homes, and emergence of quantum computing would propel the growth of the global artificial intelligence chip market Allied Market Research published a report,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/at-cagr-of-454-artificial-intelligence-chip-market-size-is-projected-to-reach-9119-billion-by-2025-2021-06-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/at-cagr-of-454-artificial-intelligence-chip-market-size-is-projected-to-reach-9119-billion-by-2025-2021-06-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-23T23:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware",
-        "Natural Language Processing",
-        "AI in Healthcare"
       ]
     }
   ],

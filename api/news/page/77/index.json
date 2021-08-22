@@ -2,6 +2,108 @@
   "page": 77,
   "value": [
     {
+      "path": "_news/2021-06-26-a-beginners-guide-to-ai-policy.md",
+      "title": "A beginner’s guide to AI: Policy",
+      "excerpt": "Neural's long-running Begginer's Guide To Artificial Intelligence gets a modern update discussing policy and regulation around the globe.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/beginners-guide-to-artificial-intelligence-policy",
+      "originalUrl": "https://thenextweb.com/news/beginners-guide-to-artificial-intelligence-policy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2Fpolicyrobot.jpg&signature=3570b3c012b72a0b33e2163995744feb",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-25T15:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-26-bill-to-use-ai-to-vet-consumer-product-safety-moves-to-senate.md",
+      "title": "Bill to use AI to vet consumer product safety moves to Senate",
+      "excerpt": "The U.S. House of Representatives this week approved and sent to the Senate a bill intended to form a pilot initiative to use ... AI is happening at the same time that the Consumer Product Safety ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/u-s-house-of-representatives-sends-to-senate-bill-to-use-ai-to-vet-consumer-product-safety/",
+      "originalUrl": "https://www.zdnet.com/article/u-s-house-of-representatives-sends-to-senate-bill-to-use-ai-to-vet-consumer-product-safety/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/06/25/73588b37-4571-4625-a275-ba23494c56c3/hr3723-crop-layout-for-twitter.jpg",
+          "width": 1600,
+          "height": 1069,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/u-s-house-of-representatives-sends-to-senate-bill-to-use-ai-to-vet-consumer-product-safety/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/u-s-house-of-representatives-sends-to-senate-bill-to-use-ai-to-vet-consumer-product-safety/",
+      "publishedDateTime": "2021-06-25T13:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-26-ai-weekly-nist-proposes-ways-to-identify-and-address-ai-bias.md",
       "title": "AI Weekly: NIST proposes ways to identify and address AI bias",
       "excerpt": "The U.S. National Institute of Standards and Technology (NIST) is proposing ways to identify and address bias in AI systems.",
@@ -1111,102 +1213,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-deepmind-uses-ai-to-tackle-neglected-deadly-diseases.md",
-      "title": "DeepMind uses AI to tackle neglected deadly diseases",
-      "excerpt": "Artificial intelligence is to be used to tackle the most deadly parasitic diseases in the developing world, tech company DeepMind",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessghana.com/site/news/Technology/241004/DeepMind-uses-AI-to-tackle-neglected-deadly-diseases",
-      "originalUrl": "https://www.businessghana.com/site/news/Technology/241004/DeepMind-uses-AI-to-tackle-neglected-deadly-diseases",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.businessghana.com/site/img/../../cms/img/news/2021-06-24-154800000.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-24T19:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BusinessGhana",
-        "domain": "businessghana.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-ibm-working-on-ai-tools-to-spot-cut-bias-in-online-ad-targeting.md",
-      "title": "IBM working on AI tools to spot, cut bias in online ad targeting",
-      "excerpt": "IBM is developing tools to ensure online advertising algorithms do not unfairly show ads in ways that may be discriminatory.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/24/ibm-working-on-ai-tools-to-spot-cut-bias-in-online-ad-targeting/",
-      "originalUrl": "https://venturebeat.com/2021/06/24/ibm-working-on-ai-tools-to-spot-cut-bias-in-online-ad-targeting/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1178840216-e1624585857682.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/24/ibm-working-on-ai-tools-to-spot-cut-bias-in-online-ad-targeting/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/24/ibm-working-on-ai-tools-to-spot-cut-bias-in-online-ad-targeting/amp/",
-      "publishedDateTime": "2021-06-24T19:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "IBM AI"
       ]
     }
   ],

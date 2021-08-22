@@ -7,8 +7,8 @@ originalUrl: "https://siliconangle.com/2021/08/18/closedloop-raises-34-million-i
 webUrl: "https://siliconangle.com/2021/08/18/closedloop-raises-34-million-infuse-data-science-healthcare/"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: SiliconANGLE
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "ClosedLoop Employs AI to Target Unnecessary Health Spending"
-    excerpt: "ClosedLoop.ai is hoping to use artificial intelligence to overcome some of the biggest obstacles in medicine including unnecessary healthcare spending. The Austin, TX-based company has raised $34 million to help it accomplish this task."
-    publishedDateTime: 2021-08-17T19:58:00Z
-    webUrl: "https://www.mddionline.com/artificial-intelligence/closedloop-employs-ai-target-unnecessary-health-spending"
-    type: article
-    provider:
-      name: MD&M East
-      domain: mddionline.com
-    quality: 39
-    images:
-      - url: "https://www.mddionline.com/sites/mddionline.com/files/IMG_Aug172021at35252PM.jpg"
-        width: 770
-        height: 400
-        isCached: true
   - title: "Fresh off its win in the CMS Challenge, ClosedLoop.ai nabs $34M to build out 'explainable' AI"
     excerpt: "An Austin-based startup beat out some of the biggest names in healthcare to win a $1 million government contest testing the use of artificial intelligence. Now, that company, ClosedLoop.ai, has $34 million in fresh funding to \"pursue more problems\" plaguing the $4 trillion industry,"
     publishedDateTime: 2021-08-18T11:30:00Z

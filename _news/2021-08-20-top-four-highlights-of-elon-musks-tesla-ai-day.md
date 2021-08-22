@@ -82,9 +82,9 @@ related:
   - title: "Tesla Bot: A concept humanoid robot embedded with Tesla's vehicle AI"
     excerpt: "At Tesla AI Day, the company's CEO Elon Musk unveiled a concept humanoid robot that will be powered by the AI currently embedded within Tesla's autonomous vehicles. Aptly named the Tesla Bot, details about the concept robot were limited,"
     publishedDateTime: 2021-08-20T02:15:00Z
-    webUrl: "https://www.zdnet.com/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
+    webUrl: "https://www.zdnet.com/index.php/category/2026/index.php/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2026/index.php/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2026/index.php/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
     type: article
     provider:
       name: ZDNet
@@ -815,6 +815,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Elon Musk claims Tesla will debut a humanoid robot next year"
+    excerpt: "Elon Musk showed off his next big project: a sleek white and shiny humanoid robot, sized a bit smaller than the average man, engineered to perform “dangerous, repetitive, boring” tasks – sometime in the future."
+    publishedDateTime: 2021-08-22T13:00:00Z
+    webUrl: "https://www.newsminer.com/elon-musk-claims-tesla-will-debut-a-humanoid-robot-next-year/article_04b57798-020f-11ec-a1a6-97e3a7f545f4.html"
+    type: article
+    provider:
+      name: Fairbanks Daily News-Miner
+      domain: newsminer.com
+    quality: 71
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/newsminer.com/content/tncms/assets/v3/editorial/2/c2/2c2e14d8-020f-11ec-a4c7-dba736e7af3c/61203c36f0f09.image.jpg?crop=681%2C681%2C209%2C0&resize=630%2C630&order=crop%2Cresize"
+        width: 630
+        height: 630
+        isCached: true
   - title: "Elon Musk doubles down on artificial intelligence at Tesla amid scrutiny of autopilot"
     excerpt: "Elon Musk doubled down on Tesla Inc.’s embrace of artificial intelligence after a week of intensifying scrutiny of the advanced driver-assistance features sold by the electric-vehicle maker. Mr. Musk,"
     publishedDateTime: 2021-08-20T14:26:00Z
@@ -1086,6 +1100,22 @@ related:
       - url: "https://www.wishtv.com/wp-content/uploads/2021/08/Tesla-robot-1024x576.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Elon Musk once criticized AI calling it threat to humanity, now developing humanoid bot [details]"
+    excerpt: "Elon Musk, the South African billionaire and one of the biggest visionary in the modern world had several times warned that artificial intelligence (AI) will overtake humans very soon, and such an uprising could spell an end to the human race."
+    publishedDateTime: 2021-08-22T13:21:00Z
+    webUrl: "https://www.ibtimes.co.in/elon-musk-once-criticized-ai-calling-it-threat-humanity-now-developing-humanoid-bot-details-839981"
+    ampWebUrl: "https://amp.ibtimes.co.in/elon-musk-once-criticized-ai-calling-it-threat-humanity-now-developing-humanoid-bot-details-839981"
+    cdnAmpWebUrl: "https://amp-ibtimes-co-in.cdn.ampproject.org/c/s/amp.ibtimes.co.in/elon-musk-once-criticized-ai-calling-it-threat-humanity-now-developing-humanoid-bot-details-839981"
+    type: article
+    provider:
+      name: IBTimes India
+      domain: ibtimes.co.in
+    quality: 46
+    images:
+      - url: "https://data1.ibtimes.co.in/en/full/764609/humanoid-robot.jpg?w=570&h=304"
+        width: 570
+        height: 304
         isCached: true
   - title: "Tesla to build robot to eliminate ‘dangerous, repetitive and boring tasks’, says Elon Musk"
     excerpt: "Tesla used its inaugural AI Day to showcase improvements in its self-driving capability – which has come under a regulatory spotlight in the US – and unveiled plans for a life-like robot that Elon Musk says will take the drudgery out of everyday life."

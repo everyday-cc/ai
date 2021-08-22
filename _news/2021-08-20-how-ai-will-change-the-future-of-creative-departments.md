@@ -24,59 +24,36 @@ images:
     isCached: true
 
 related:
-  - title: "An optimist’s guide to the future: How quantum AI could make Earth a paradise"
-    excerpt: "Everyone's talking about quantum computing these days. The experts claim the future will be full of amazing tech advances, but what does that really mean?"
-    publishedDateTime: 2021-08-17T20:17:00Z
-    webUrl: "https://thenextweb.com/news/optimists-guide-future-quantum-ai-could-make-earth-paradise"
+  - title: "Modernizing the HR department: Put AI tools to use"
+    excerpt: "Businesses relying on AI today increasingly recognize that solid AI ethics can increase brand equity and confidence, ultimately enhancing employee retention and attracting new customers. Putting AI to use in improving productivity and decision-making speed ..."
+    publishedDateTime: 2021-08-20T13:05:00Z
+    webUrl: "https://www.benefitspro.com/2021/08/20/modernizing-the-hr-department-put-ai-tools-to-use/"
+    ampWebUrl: "https://www.benefitspro.com/2021/08/20/modernizing-the-hr-department-put-ai-tools-to-use/?amp=1"
+    cdnAmpWebUrl: "https://www-benefitspro-com.cdn.ampproject.org/c/s/www.benefitspro.com/2021/08/20/modernizing-the-hr-department-put-ai-tools-to-use/?amp=1"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 64
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2FquantumAI.jpg&signature=04d6c86ec0f1353d9202b68c33f6dbde"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "RWTH: The future with artificial intelligence"
-    excerpt: "Aachen City Hall How do we encounter artificial intelligence in our everyday lives? At home, on the street, while shopping? And how will AI shape our everyday life in the future? Through self-driving cars or in medical care? And where are the limits?"
-    publishedDateTime: 2021-08-20T12:57:00Z
-    webUrl: "https://indiaeducationdiary.in/rwth-the-future-with-artificial-intelligence/"
-    ampWebUrl: "https://indiaeducationdiary.in/rwth-the-future-with-artificial-intelligence/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/rwth-the-future-with-artificial-intelligence/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
+      name: Benefits Pro
+      domain: benefitspro.com
     quality: 59
     images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/12/rwth-aachen-university-1.png"
-        width: 722
-        height: 362
+      - url: "https://images.benefitspro.com/contrib/content/uploads/sites/412/2018/08/09-ai.jpg"
+        width: 657
+        height: 413
         isCached: true
-  - title: "Music of the Future: Listen to These Songs Made by Artificial Intelligence"
-    excerpt: "Artificial Intelligence is taking over the music industry. These AI songs are a blend of human and AI technologies like machine learning."
-    publishedDateTime: 2021-08-19T04:21:00Z
-    webUrl: "https://www.analyticsinsight.net/music-of-the-future-listen-to-these-songs-made-by-artificial-intelligence/"
+  - title: "Senators question Justice Department funding for AI-powered policing tech"
+    excerpt: "A Democratic senator said the U.S. Justice Department needs to look into whether the algorithm-powered police technologies it funds contribute to racial bias in law enforcement."
+    publishedDateTime: 2021-08-20T23:34:00Z
+    webUrl: "https://www.pressdemocrat.com/article/news/senators-question-justice-department-funding-for-ai-powered-policing-tech/"
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 35
+      name: Santa Rosa Press Democrat
+      domain: pressdemocrat.com
+    quality: 36
     images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Artificial-intelligence-5.jpg"
-        width: 900
-        height: 500
+      - url: "https://imengine.prod.srp.navigacloud.com?uuid=790cf399-8bda-5632-813a-c981052a5d82&type=primary&q=72&width=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "The future of AI takes shape"
-    excerpt: "OpenAI has also shown how AI can help programmers build the software of the future, releasing Codex, a machine learning tool that translates your text, for what you want your program to do, into code."
-    publishedDateTime: 2021-08-20T16:06:00Z
-    webUrl: "https://www.ft.com/content/ccf3fcf2-f5ec-4fbc-bc86-a56a9b41ec7c"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 19
 
 secured: "H309iHS36U67WEVGavYfeGyf6fW+3uLGstH37KJ75Pu3TkciO/GyuDavInUkwiIytyNEw38cQRoRmjmyGagkM0lZzAVYyTtnJdWEd6lmQ261blrFyP9JpmtqrhrskeoRLqzkjOrzCxkSM/qxV0fUpvHuSCNurg7Phh55oM0bcJvnzH7lUwwbZH1p6gkG2GWhSqG+okC/pPXYMsVSfmkZTsk3rKea0gn7J1w3G2FeFviYVGl+kEhgzxYgOQ+lSgA2TpTVbc/UAkhqCbJetikg1gNUTpctodlJ91gJ0QjKeFZqQkIJOgcwFIPpDu1cIGjzQ7r66w7FnaWlHdS5LJTOAegDQbTAFldRqN0ohtDyoBBaMrnjJvLn84aOi2OO+DHL375XYMN7bBnzZF3ago/n5yPgfTbrHakniqEBKcuZUSPctKmkd/bxcA+N23smz0j22lMCsxEhCSdoUVUwV+BQnFcj5hM6RiFopvsj9wXCTVabSxIMm8t2jPXSTTlZZJfMsMyYZNTau3wCyX2t1HAVCw==;GM+yt/lvYDPxI1kbr21xxA=="
 ---
