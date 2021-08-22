@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-08-13-why-ai-ethics-needs-to-address-ai-literacy-not-just-bias.md",
+      "title": "Why AI ethics needs to address AI literacy, not just bias",
+      "excerpt": "AI ethics is about more than just bias. That's why Red Hat's Noelle Silver is dedicated to spreading AI literacy.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/13/why-ai-ethics-needs-to-address-ai-literacy-not-just-bias/",
+      "originalUrl": "https://venturebeat.com/2021/08/13/why-ai-ethics-needs-to-address-ai-literacy-not-just-bias/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/Women-in-AI-Awards-1.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/13/why-ai-ethics-needs-to-address-ai-literacy-not-just-bias/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/13/why-ai-ethics-needs-to-address-ai-literacy-not-just-bias/amp/",
+      "publishedDateTime": "2021-08-13T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-13-global-machine-learning-accelerator-for-healthcare-report-forecast-to-2021-27-google-ibm-and-microsoft.md",
       "title": "Global Machine Learning Accelerator For Healthcare Report Forecast to 2021-27- Google, IBM, and Microsoft.",
       "excerpt": "The global Machine Learning Accelerator For Healthcare sector, it is forecasted to achieve a CAGR of xx% by the year end 2027. This growth rate will benefit the sector to achieve USD xx in 2027 , which is in 2020 valued at USD xx billion.",
@@ -1094,58 +1146,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-how-ai-driven-technology-is-increasing-food-security-and-improving-the-lives-of-farmers-worldwide.md",
-      "title": "How AI-Driven Technology Is Increasing Food Security, And Improving The Lives Of Farmers Worldwide",
-      "excerpt": "Part of the reason smaller family farms can’t produce enough to feed more than their own families or communities, and themselves may struggle with food insecurity, is that they lack technological solutions to monitor soil conditions,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/08/12/how-ai-driven-technology-is-increasing-food-security-and-improving-the-lives-of-farmers-worldwide/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/08/12/how-ai-driven-technology-is-increasing-food-security-and-improving-the-lives-of-farmers-worldwide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61158085985b6dd711a7649a%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-12T13:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

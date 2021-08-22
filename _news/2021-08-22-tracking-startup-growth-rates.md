@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/08/21/tracking-startup-growth-rates/amp/
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/21/tracking-startup-growth-rates/amp/"
 type: article
 quality: 72
-heat: 72
+heat: 74
 published: true
 
 provider:

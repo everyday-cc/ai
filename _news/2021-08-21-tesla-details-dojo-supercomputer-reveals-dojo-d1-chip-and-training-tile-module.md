@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla’s Dojo Supercomputer Is The World’s Most Powerful AI Training Machine"
+    excerpt: "Tesla's Dojo supercomputer is the world's most powerful AI training machine. Here are all the details on this."
+    publishedDateTime: 2021-08-20T19:13:00Z
+    webUrl: "https://www.redmondpie.com/teslas-dojo-supercomputer-is-the-worlds-most-powerful-ai-training-machine/"
+    type: article
+    provider:
+      name: Redmond Pie
+      domain: redmondpie.com
+    quality: 54
+    images:
+      - url: "https://cdn.redmondpie.com/wp-content/uploads/2021/08/tesla-chip-1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Tesla's insane new Dojo D1 AI chip, a full transcript of its unveiling"
     excerpt: "This chip is manufactured on 7nm ... To sum it all, this is what it will be: it will be the fastest AI training computer -- 4x the performance at the same cost, 1.3x better performance-per-watt -- that is energy-saving, and 5x smaller footprint."
     publishedDateTime: 2021-08-20T10:42:00Z

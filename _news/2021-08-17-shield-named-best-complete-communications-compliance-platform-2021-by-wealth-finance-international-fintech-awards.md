@@ -25,21 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "COMUNICADO: Climate FinTech hires all-star management team"
-    excerpt: "Frankfurt am Main, Germany, August 18, 2021 (News Aktuell)- bullfinch completes its management team by hiring top-level executives. Niko von Tippelskirch has been newly appointed to the executive management board and will take on the position of Chief Operating Officer (COO)."
-    publishedDateTime: 2021-08-18T05:32:00Z
-    webUrl: "https://www.elconfidencialdigital.com/articulo/ultima-hora/comunicado-climate-fintech-hires-all-star-management-team/20210818073226269198.html"
-    ampWebUrl: "https://www.elconfidencialdigital.com/articulo/ultima-hora/comunicado-climate-fintech-hires-all-star-management-team/20210818073226269198.amp.html"
-    cdnAmpWebUrl: "https://www-elconfidencialdigital-com.cdn.ampproject.org/c/s/www.elconfidencialdigital.com/articulo/ultima-hora/comunicado-climate-fintech-hires-all-star-management-team/20210818073226269198.amp.html"
+  - title: "Sentiance wins 2021 FinTech Award for \"Best FinTech Mobile Telematics Provider - Europe\""
+    excerpt: "Sentiance, an intelligence-driven data science and behavior change company, is awarded the \"Best FinTech Mobile Telematics Provider – Europe\" award by Wealth & Finance International. The FinTech Awards by Wealth & Finance International recognize and spotlight creative innovation,"
+    publishedDateTime: 2021-08-19T14:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/sentiance-wins-2021-fintech-award-for-best-fintech-mobile-telematics-provider-europe-1030745487"
     type: article
     provider:
-      name: El Confidencial Digital
-      domain: elconfidencialdigital.com
-    quality: 44
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://mma.prnewswire.com/media/1597273/Sentiance_Award.jpg"
+        width: 400
+        height: 230
+        isCached: true
+  - title: "Sentiance wins 2021 FinTech Award for “Best FinTech Mobile Telematics Provider"
+    excerpt: "Sentiance, an intelligence-driven data science and behavior change company, is awarded the “Best FinTech Mobile Telematics Provider – Europe” award by Wealth & Finance International. The FinTech Awards by Wealth & Finance International recognize and spotlight creative innovation,"
+    publishedDateTime: 2021-08-21T12:47:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_fintech-news-today/sentiance-wins-2021-fintech-award-for-best-fintech-mobile-telematics-provider/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 20
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/c119d8c99f89f291172bda0dc4833286.jpeg"
+        width: 400
+        height: 230
         isCached: true
 
 secured: "025U2qoGpvHv5hrWy8d8RMD1vm7MzMPOrWIBJSAiv6iT5GPpXchH8E8e/yyHAvGr+vjLIptpZBG52wq7tCQTdzaSL2r0tnWdxUUSe3nvXGhXdg9ggc5jG1z32+HAKimBZJEO2vjxY1gCMU3erIOWVg7TmpgV297dSjXPmIW1qX9S893iUSzbTH3BoA+WymKkNcWoKZH0gjEjOkoegemtB3xZTUJboEbkMF6jeLounYDK3ZscTtALZdQEQLISGTBRrtGO9D6n1b4G0qbaudF8x+kbud5OUky2WJf1aU+ItGY2Ww3XLAueQ6VnX6pYbAQjN6yZciOaRwiBbqTRg8eZfdY9uDrVtE9xCsWgAGndhNs8uGjIECfilUxKTEowoWOmN7E9DxnkKEXea2RJDUBmpK740gWmXp9zjR3sj50pV98yiRCq9IVlV+ODOhGq/ljvkaIqLwphvUk+erh1OgMVlITICylrrcgop0lFfDMyfY96wu8xv1nkCmBHvfy8I8uYTaPOHmFSIo7s4FK0vd3ofA==;Ea1Pj7CrE5VFNkhlV5HRuA=="

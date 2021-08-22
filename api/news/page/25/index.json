@@ -2,6 +2,59 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-08-02-nvidia-is-tracking-more-than-8500-ai-startups-with-60b-in-funding.md",
+      "title": "Nvidia is tracking more than 8,500 AI startups with $60B in funding",
+      "excerpt": "Nvidia is tracking more than 8,500 AI startups through its Inception AI startup program. Those companies have raised more than $60 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/02/nvidia-is-tracking-more-than-8500-ai-startups-with-60b-in-funding/",
+      "originalUrl": "https://venturebeat.com/2021/08/02/nvidia-is-tracking-more-than-8500-ai-startups-with-60b-in-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 231,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/nvidia-inception-2-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 624,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/02/nvidia-is-tracking-more-than-8500-ai-startups-with-60b-in-funding/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/02/nvidia-is-tracking-more-than-8500-ai-startups-with-60b-in-funding/amp/",
+      "publishedDateTime": "2021-08-02T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-08-02-the-excel-formula-language-is-now-turing-complete.md",
       "title": "The Excel Formula Language Is Now Turing-Complete",
       "excerpt": "The Excel team announced LAMBDA, a new feature that lets users define and name formula functions. LAMBDA functions admit parameters, can call other LAMBDA functions and recursively call themselves. With LAMBDA,",
@@ -501,6 +554,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-02-hoth-therapeutics-initiates-preclinical-study-of-ht-alz-for-alzheimers-disease.md",
+      "title": "Hoth Therapeutics Initiates Preclinical Study of HT-ALZ for Alzheimer's Disease",
+      "excerpt": "To evaluate other forms of memory, we will also determine if chronic HT-ALZ treatment influences non-spatial memory using a novel object recognition and novel object location task. These tests ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-19930013.html",
+      "originalUrl": "https://www.lelezard.com/en/news-19930013.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/health.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-02T05:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-02-researchers-use-ai-to-look-for-alien-civilisations.md",
       "title": "Researchers use AI to look for alien civilisations",
       "excerpt": "The team will use a network of mid-sized, high-resolution telescopes and detector arrays with suitable cameras and computer systems as part of their research to find alien civilisations.",
@@ -841,40 +937,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-02-hoth-therapeutics-initiates-preclinical-study-of-ht-alz-for-alzheimers-disease.md",
-      "title": "Hoth Therapeutics Initiates Preclinical Study of HT-ALZ for Alzheimer's Disease",
-      "excerpt": "To evaluate other forms of memory, we will also determine if chronic HT-ALZ treatment influences non-spatial memory using a novel object recognition and novel object location task. These tests ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/08/n22272652/hoth-therapeutics-initiates-preclinical-study-of-ht-alz-for-alzheimers-disease",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/08/n22272652/hoth-therapeutics-initiates-preclinical-study-of-ht-alz-for-alzheimers-disease",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/22272652",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22272652",
-      "publishedDateTime": "2021-08-02T01:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-02-desicrew-scales-up-ai-and-ml-service-offerings-for-its-next-phase-of-growth.md",
       "title": "DesiCrew scales up AI and ML service offerings for its next phase of growth",
       "excerpt": "The Chennai-based DesiCrew, a digital transformation services company in the league of India's Tier I tech service vendors",
@@ -1112,49 +1174,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-a-parasite-is-turning-cicadas-into-mind-controlled-sex-zombies.md",
-      "title": "A parasite is turning cicadas into mind-controlled ‘sex zombies’",
-      "excerpt": "Don't Miss: Today’s top deals: Exclusive deals for Prime members only, $6 car detailing tool, $200 off MacBook Pro, $73 robot vacuum, more The actions of the fungus are like something straight ...",
-      "sourceUrl": null,
-      "webUrl": "https://bgr.com/science/zombie-cicadas-fungus-parasite/",
-      "originalUrl": "https://bgr.com/science/zombie-cicadas-fungus-parasite/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bgr.com/wp-content/uploads/2020/07/c809caf4-b90c-4bc9-88b3-461a0e29bf8d.jpg?quality=70&strip=all",
-          "width": 826,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://bgr.com/science/zombie-cicadas-fungus-parasite/amp/",
-      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/science/zombie-cicadas-fungus-parasite/amp/",
-      "publishedDateTime": "2021-08-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "bgr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

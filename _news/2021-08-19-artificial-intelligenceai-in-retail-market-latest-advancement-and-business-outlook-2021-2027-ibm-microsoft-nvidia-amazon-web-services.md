@@ -9,8 +9,8 @@ ampWebUrl: "https://www.openpr.com/amp/2359634/artificial-intelligence-ai-in-ret
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2359634/artificial-intelligence-ai-in-retail-market-latest"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: openpr.com
@@ -22,6 +22,22 @@ topics:
   - Microsoft AI
 
 related:
+  - title: "Speech Recognition Software Market – increasing demand with Industry Professionals: IBM, Microsoft, Nuance Communications"
+    excerpt: "Announced Speech Recognition Software study with 200+ market data Tables and Figures spread through Pages and easy to understand detailed TOC on “Speech Recognition Software. Speech Recognition Software industry Report allows you to get different methods for maximizing your profit."
+    publishedDateTime: 2021-08-21T18:18:00Z
+    webUrl: "https://manometcurrent.com/speech-recognition-software-market-increasing-demand-with-industry-professionals-ibm-microsoft-nuance-communications/"
+    ampWebUrl: "https://manometcurrent.com/speech-recognition-software-market-increasing-demand-with-industry-professionals-ibm-microsoft-nuance-communications/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/speech-recognition-software-market-increasing-demand-with-industry-professionals-ibm-microsoft-nuance-communications/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 51
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/Autonomous-Vehicles-Market-390x220.jpeg"
+        width: 390
+        height: 220
+        isCached: true
   - title: "Machine Learning as a Service (MLaaS) Market 2021 to Witness Stunning Growth-Microsoft Corporation, IBM Corporation, Google LLC"
     excerpt: "Market Research Report 2021-2026 published by Market Insights Reports is a significant source of keen information for business specialists. It furnishes the Machine Learning as a Service (MLaaS) business outline with development investigation and historical and futuristic cost analysis,"
     publishedDateTime: 2021-08-17T16:47:00Z

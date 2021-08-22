@@ -40,15 +40,17 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "AI-powered debt funding: The key to raising faster capital?"
-    excerpt: "Through the use of AI and machine learning, this newly formed debt venture fund wants to provide bigger and faster debt capital for tech companies."
-    publishedDateTime: 2021-08-17T07:04:00Z
-    webUrl: "https://www.techinasia.com/video/aipowered-debt-funding-key-raising-faster-capital"
+  - title: "Senators question DOJ funding for AI-powered policing tech"
+    excerpt: "Some Capitol Hill Democrats and civil rights advocates are concerned about how police and prosecutors increasingly use algorithm-powered technologies that may amplify racial bias."
+    publishedDateTime: 2021-08-21T22:24:00Z
+    webUrl: "https://www.kansas.com/news/business/article253638763.html"
+    ampWebUrl: "https://amp.kansas.com/news/business/article253638763.html"
+    cdnAmpWebUrl: "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/business/article253638763.html"
     type: article
     provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 47
+      name: Wichita Eagle
+      domain: kansas.com
+    quality: 37
   - title: "Esports Technologies Files Patent for Artificial Intelligence-Powered Real-Time Odds Modeling & Simulation System"
     excerpt: "Esports Technologies, Inc. (Nasdaq: EBET), a leading global provider of advanced esports wagering products and technology, announced today that it has filed a provisional patent application for a technology that uses artificial intelligence to generate odds models for use in a betting algorithm for esports tournaments and various stages of a tournament."
     publishedDateTime: 2021-08-19T12:37:00Z

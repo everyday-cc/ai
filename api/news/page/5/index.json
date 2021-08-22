@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-08-17-this-startup-just-raised-8-million-to-connect-people-to-virtual-support-groups.md",
+      "title": "This Startup Just Raised $8 Million To Connect People To Virtual Support Groups",
+      "excerpt": "The company created an app that provides online support groups to help people struggling with mental and physical health challenges. By using AI technology, Circles asks users a series of questions to match individuals in groups with people that are going through similar issues in life such as divorce,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jairhilburn/2021/08/17/this-startup-just-raised-8-million-to-connect-people-to-virtual-support-groups/",
+      "originalUrl": "https://www.forbes.com/sites/jairhilburn/2021/08/17/this-startup-just-raised-8-million-to-connect-people-to-virtual-support-groups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611ae4a907a8e5a82637481d%2F0x0.jpg",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jairhilburn/2021/08/17/this-startup-just-raised-8-million-to-connect-people-to-virtual-support-groups/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jairhilburn/2021/08/17/this-startup-just-raised-8-million-to-connect-people-to-virtual-support-groups/amp/",
+      "publishedDateTime": "2021-08-17T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-17-your-smart-city-is-boring-how-to-preserve-its-soul-when-the-ai-sensors-move-in.md",
       "title": "Your Smart City Is Boring: How to Preserve Its Soul When the AI Sensors Move In",
       "excerpt": "AI-based smart cities can help keep residents safe, but they risk turning unpredictable, vibrant urban spaces into boring landscapes of sensors and push notifications. Smart city researcher Annelien Smets wants to prevent that.",
@@ -1190,40 +1241,6 @@
         "AI in Finance",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-upstart-holdings-vs-360-finance-which-fintech-stock-is-a-better-choice.md",
-      "title": "Upstart Holdings vs. 360 Finance: Which FinTech Stock is a Better Choice?",
-      "excerpt": "Fintech companies have been in the limelight owing to a significant increase in remote financial transactions amid the COVID-19 pandemic. The trend is expected to continue in the foreseeable future thanks to rapid digitalization.",
-      "sourceUrl": null,
-      "webUrl": "https://stocknews.com/news/qfin-upst-upstart-holdings-vs-360-finance-which-fintech-stock-is-a/",
-      "originalUrl": "https://stocknews.com/news/qfin-upst-upstart-holdings-vs-360-finance-which-fintech-stock-is-a/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://stocknews.com/single-snippet-page/amp/",
-      "cdnAmpWebUrl": "https://stocknews-com.cdn.ampproject.org/c/s/stocknews.com/single-snippet-page/amp/",
-      "publishedDateTime": "2021-08-16T11:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stock News",
-        "domain": "stocknews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

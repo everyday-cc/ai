@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/business/banking-finance/article/3145370/chines
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/banking-finance/article/3145370/chinese-ai-start-sensetime-hires-hsbc-it-pursues-us2"
 type: article
 quality: 182
-heat: 232
+heat: 222
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611f358e094e8aec6f42b14b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D849%26cropY1%3D0%26cropY2%3D478"
         width: 849
         height: 478
-        isCached: true
-  - title: "AI Firm SenseTime Said to Tap HSBC For $2 Billion Hong Kong IPO"
-    excerpt: "SenseTime Group Ltd., China’s largest artificial intelligence company, is working with HSBC Holdings Plc to arrange its planned Hong Kong initial public offering that could raise at least $2 billion,"
-    publishedDateTime: 2021-08-17T05:50:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-08-17/ai-firm-sensetime-said-to-tap-hsbc-for-2-billion-hong-kong-ipo"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iObzxSMaUq08/v0/1200x800.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "AI Firm Yitu Said to Mull Hong Kong IPO After Shanghai Plan Halt"
     excerpt: "Chinese artificial intelligence company Yitu Technology is considering an initial public offering in Hong Kong after a tightening regulatory scrutiny stalled an earlier attempt to list in Shanghai, people familiar with the matter said."

@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Samsung is using Artificial Intelligence to design its new Exynos chips"
-    excerpt: "Samsung has confirmed that the company will be using Artificial Intelligence (AI) to create its new chips and added that it will be using new software from Synopsys, a leading chip design software firm."
-    publishedDateTime: 2021-08-17T06:39:00Z
-    webUrl: "https://www.gizmochina.com/2021/08/17/samsung-exynos-chips-ai-design/"
+  - title: "AI-Powered Electronic Design Automation Tools Could Redefine Chipmaking"
+    excerpt: "Samsung has announced it's using AI EDA tools to build its Exynos processors. Expect more announcements in the future, but geared more towards gradual adoption than a sudden surge."
+    publishedDateTime: 2021-08-17T14:04:00Z
+    webUrl: "https://www.extremetech.com/computing/325878-ai-powered-electronic-design-automation-tools-could-redefine-chipmaking"
     type: article
     provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 84
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 54
     images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2020/10/20201009142558_65337.png"
-        width: 1204
-        height: 560
+      - url: "https://www.extremetech.com/wp-content/uploads/2021/05/Samsung-Exynos.jpg"
+        width: 691
+        height: 382
         isCached: true
 
 secured: "WbZ+x50YK/wgVfM5f2W8pGhxpeEWzPZRkQQG/ZLXgodc4YPLkQefLEBh4P/CEjSn+n/T8sNYHjfOgPXif/N+/HeWXeicnWjfbXw8VsFeJeMQiGqXAv7D+91RBPAP5mAAOZ/To1WNo/0wwI8eaXSLOtG983IW9mURdH0xRFx9Arfnbx3uiqjl/DafHhIgp+TqWnOx/lSfEPksxen7LtzCn2SlOLusIkQ5sF0Clvjcr7QtU+iCGp78RKRwfP6qRdfciBPCXzYRUETRa/mr6FTqrqDlNb7E2P6ssAyFzCVlwKCvoUpyDLBeIjNbPayItl8ikXuC5+5eI6Xyg/vM6OGEDqpYlfCsclgo+ySgJTRAv/zwJ+VEccIYvuA4yqdOfx2faLm38mZi0gfr4IhRs/DRsTjV5Kh1pAF+Dous248Wn+6VDFhTbd6WDHjkuRalQbbdAmd0AGW+CgcncA/aekOGHHeYYn9sNGbdsB+KL4L8/YzSm3N1EN0aMA5YWZ0lpXz6n7MRqNY70cFkt2z8I8Kw4w==;QTZNRL1B0NGeVfC3dRZSCA=="

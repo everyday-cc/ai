@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcworld.com/article/3629402/intels-arc-gaming-gpu-price-
 cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3629402/intels-arc-gaming-gpu-price-specs-and-availability.amp.html"
 type: article
 quality: 104
-heat: 194
+heat: 164
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel Enters Dedicated GPU Market With Intel Arc: Will Be Available From Q1 2022"
-    excerpt: "Though Intel makes both CPU and GPU, it is always widely recognized for making CPU. The company has now announced a sub-brand, dedicated to the graphics card -- Intel Arc. Under this initiation, the company will launch the first generation of dedicated graphics cards based on Xe HPG microarchitecture."
-    publishedDateTime: 2021-08-17T07:09:00Z
-    webUrl: "https://www.gizbot.com/gaming/news/intel-enters-dedicated-gpu-market-with-intel-arc-will-be-available-from-q1-2022-076169.html"
-    ampWebUrl: "https://www.gizbot.com/amphtml/gaming/news/intel-enters-dedicated-gpu-market-with-intel-arc-will-be-available-from-q1-2022-076169.html"
-    cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/gaming/news/intel-enters-dedicated-gpu-market-with-intel-arc-will-be-available-from-q1-2022-076169.html"
-    type: article
-    provider:
-      name: GIZBOT
-      domain: gizbot.com
-    quality: 69
-    images:
-      - url: "https://www.gizbot.com/img/2021/08/intel-enters-dedicated-gpu-market-with-intel-arc1-1629183937.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "The Full Nerd ep. 188: Intel's 12th-gen Alder Lake and Arc GPU"
     excerpt: "You can read more about Alder Lake in Mark Hachman's story. The Full Nerd gang also talks about Intel's new Arc GPU, which breaks cover with hardware ray tracing support and AI-based upsampling to compete with Nvidia's DLSS 2.0. For more details ..."
     publishedDateTime: 2021-08-20T21:53:00Z
@@ -93,22 +77,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Intel’s GPU brand is now Arc, first cards expected in 2022"
-    excerpt: "Launching a GPU, especially a GPU PC builders and gamers have never had a chance to experience then would be a rather big risk, even for Intel. It appears as if Intel used this time to rethink its GPU brand because this week the component maker announced its high performance GPU brand would now be known as Arc."
-    publishedDateTime: 2021-08-17T07:00:00Z
-    webUrl: "https://www.htxt.co.za/2021/08/intels-gpu-brand-is-now-arc-first-cards-expected-in-2022/"
-    ampWebUrl: "https://www.htxt.co.za/2021/08/intels-gpu-brand-is-now-arc-first-cards-expected-in-2022/"
-    cdnAmpWebUrl: "https://www-htxt-co-za.cdn.ampproject.org/c/s/www.htxt.co.za/2021/08/intels-gpu-brand-is-now-arc-first-cards-expected-in-2022/"
-    type: article
-    provider:
-      name: Htxt.Africa
-      domain: htxt.co.za
-    quality: 59
-    images:
-      - url: "https://htxt.co.za/wp-content/uploads/2021/08/intel-arc-logo.png"
-        width: 1080
-        height: 608
-        isCached: true
   - title: "Behold Alchemist! This is Intel’s first gaming GPU."
     excerpt: "Intel has been working to enter the high-end graphics card market to compete with Nvidia and AMD, and today those efforts get a name: Intel Arc. The earliest Arc products will be released in the first quarter of 2022 and will be based on a GPU codenamed Alchemist."
     publishedDateTime: 2021-08-18T07:27:00Z
@@ -150,20 +118,6 @@ related:
       - url: "https://cdn.techjuice.pk/wp-content/uploads/2021/08/intelarc.jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Beware Nvidia! Intel Arc is the New Consumer GPU Brand Coming to Devices in 2022 With Ray Tracing, Super Sampling and More"
-    excerpt: "Beware Nvidia! Intel Arc is the New Consumer GPU Brand Coming to Devices in 2022 With Ray Tracing, Super Sampling and More -"
-    publishedDateTime: 2021-08-17T06:32:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_intel/beware-nvidia-intel-arc-is-the-new-consumer-gpu-brand-coming-to-devices-in-2022-with-ray-tracing-super-sampling-and-more/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 13
-    images:
-      - url: "https://assets.mspimages.in/wp-content/uploads/2021/08/Intel-Arc-GPU-branding.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "GGAgJNH7wBPAHAjRKpdhd2PyIg3wj/ofHNfYbi/ghhBugxP5KZ7pelQrcmawofu+chlGxVXJ0XUcJEGWCG3OC5naB4NISGtugDTMBwnLv9vrNu+2TI+clgoYbzP3SuA66M7o7QsfXQvfZrrRhK2EwmtwC6vGG7ku8DzWBeq1NqRZbbc1OVQ5KRkIRWcaMBw3fIDPBaQ8GMyHcchRS82L5Dy+Hi05OXgYpa1aq8o8eNBi0gKgbQXWCUm+1zXNEmt/CABuazsk1rf1SF/Or3Fv6jJRyMr07GIdtYpIVHqMdcih7207/M+m3XEiGL5atRSEldyMowYIGyQ+NcYwTnhQbgi58OsP4Ha+bgYyxoviDJ8Z+IF69g0JHvEg48TVlFN3vPzTxiSnfqUDZdZbrtJJs8WoQAv7PRxkYsp13Q4DXUbGds7vwkpWgiQvB03sR8gfcr/qz7I2qgF7tDaQkuxxm3oETCXRg4KS1pmUinXdIxNsMmOvyZzDZB48ZJ3g9hsRqz/h3V0EKsf+pnMMz9mUQg==;Q7imlq40tjTLBbhl+Ex7iw=="

@@ -254,6 +254,22 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 20
+  - title: "AI Drug Discovery Market Size & Share, 2021 Movements by Latest Trend Analysis, Progression Status, Revenue Expectation to 2026, Research Report"
+    excerpt: "AI Drug Discovery Market is fueled by various factors, according to a detailed assessment explained in the report. This study shows how important in-depth analysis should be, and how it greatly affects the quality of information provided to the readers."
+    publishedDateTime: 2021-08-21T03:36:00Z
+    webUrl: "https://manometcurrent.com/ai-drug-discovery-market-size-share-2021-movements-by-latest-trend-analysis-progression-status-revenue-expectation-to-2026-research-report/"
+    ampWebUrl: "https://manometcurrent.com/ai-drug-discovery-market-size-share-2021-movements-by-latest-trend-analysis-progression-status-revenue-expectation-to-2026-research-report/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/ai-drug-discovery-market-size-share-2021-movements-by-latest-trend-analysis-progression-status-revenue-expectation-to-2026-research-report/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 20
+    images:
+      - url: "https://i.ibb.co/YtnWRfq/Researchmoz-493.png"
+        width: 612
+        height: 408
+        isCached: true
   - title: "AI Infrastructure Market to Witness the Highest Growth"
     excerpt: "The increasing need for hardware platforms with high computing power to run various AI software is a key factor fueling the growth of the AI infrastructure market. Machine learning technology held the largest share of AI infrastructure market in 2020 APAC is the host to a few of the fastest-growing and leading industrialized economies such as China,"
     publishedDateTime: 2021-08-18T00:37:00Z

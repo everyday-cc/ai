@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "China EV Maker Warns Terms Like Self Driving May Mislead People"
-    excerpt: "The Chief Executive Officer of Chinese electric-car maker Li Auto Inc. has said the industry should limit using the terms autonomous and self driving, considering no automobile today is truly capable of that and its common usage is becoming misleading for consumers."
-    publishedDateTime: 2021-08-17T06:32:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-08-17/china-ev-maker-warns-terms-like-self-driving-may-mislead-people"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4mJTad9d9rA/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Li Auto CEO: Terms such as self driving, autonomous may mislead people"
     excerpt: "Li Xiang warns the industry should limit using the terms autonomous and self driving, considering no automobile today is truly capable of that and its common usage is becoming misleading for consumers."
     publishedDateTime: 2021-08-17T20:01:00Z

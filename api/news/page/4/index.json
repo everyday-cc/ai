@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-18-democrats-ask-ftc-to-investigate-teslas-self-driving-claims.md",
+      "title": "Democrats ask FTC to investigate Tesla's self-driving claims",
+      "excerpt": "Two Democratic senators asked the Federal Trade Commission to investigate Tesla over the company’s advertising of its Autopilot and Full Self-Driving technology. The letter comes one day after the National Highway Traffic Safety Administration opened a formal investigation into Tesla’s Autopilot system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/08/18/democrats-ask-ftc-to-investigate-teslas-self-driving-claims.html",
+      "originalUrl": "https://www.cnbc.com/2021/08/18/democrats-ask-ftc-to-investigate-teslas-self-driving-claims.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 424,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104670924-GettyImages-492682160-autonomous-car.jpg?v=1629294162",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/08/18/democrats-ask-ftc-to-investigate-teslas-self-driving-claims.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/08/18/democrats-ask-ftc-to-investigate-teslas-self-driving-claims.html",
+      "publishedDateTime": "2021-08-18T04:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-18-insurance-verification-startup-trustlayer-lands-151m.md",
       "title": "Insurance verification startup TrustLayer lands $15.1M",
       "excerpt": "TrustLayer, a startup developing AI and automation technologies to quickly verify insurance, has raised $15.1 million in capital.",
@@ -104,7 +156,7 @@
       "originalUrl": "https://wonderfulengineering.com/this-new-ai-system-can-translate-natural-language-to-computer-code/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -1104,7 +1156,7 @@
       "originalUrl": "https://www.scmp.com/business/banking-finance/article/3145370/chinese-ai-start-sensetime-hires-hsbc-it-pursues-us2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 232,
+      "heat": 222,
       "tags": null,
       "images": [
         {
@@ -1128,57 +1180,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-this-startup-just-raised-8-million-to-connect-people-to-virtual-support-groups.md",
-      "title": "This Startup Just Raised $8 Million To Connect People To Virtual Support Groups",
-      "excerpt": "The company created an app that provides online support groups to help people struggling with mental and physical health challenges. By using AI technology, Circles asks users a series of questions to match individuals in groups with people that are going through similar issues in life such as divorce,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jairhilburn/2021/08/17/this-startup-just-raised-8-million-to-connect-people-to-virtual-support-groups/",
-      "originalUrl": "https://www.forbes.com/sites/jairhilburn/2021/08/17/this-startup-just-raised-8-million-to-connect-people-to-virtual-support-groups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611ae4a907a8e5a82637481d%2F0x0.jpg",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jairhilburn/2021/08/17/this-startup-just-raised-8-million-to-connect-people-to-virtual-support-groups/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jairhilburn/2021/08/17/this-startup-just-raised-8-million-to-connect-people-to-virtual-support-groups/amp/",
-      "publishedDateTime": "2021-08-17T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

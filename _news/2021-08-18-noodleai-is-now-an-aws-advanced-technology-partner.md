@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Noodle.ai is now an AWS Advanced Technology Partner"
-excerpt: "Noodle.ai is tackling the industry's toughest demand, inventory, and production challenges, leveraging AWS's infrastructure"
-publishedDateTime: 2021-08-17T19:22:00Z
-originalUrl: "https://www.kmworld.com/Articles/News/News/Noodle.ai-is-now-an-AWS-Advanced-Technology-Partner-148475.aspx"
-webUrl: "https://www.kmworld.com/Articles/News/News/Noodle.ai-is-now-an-AWS-Advanced-Technology-Partner-148475.aspx"
+excerpt: "and Amazon SageMaker, to provide enterprise customers with a predictable, agile, and scalable supply chain. At the center of this offering is Noodle.ai's Flow Operations product suite, which consists of five applications that use advanced artificial ..."
+publishedDateTime: 2021-08-17T18:51:00Z
+originalUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=148475"
+webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=148475"
 type: article
 quality: 54
 heat: -1
@@ -40,6 +40,6 @@ related:
         height: 578
         isCached: true
 
-secured: "uPEHEgK7q3FCWm9SZgSpkiWhmEUF9uwMvc7BqR0/9WYcQIAy4EaKHgrPZF/3OWXgV71RX6OutB8QEwPsVSbKp/VaiIGkT8YndwQPdJlVipQnn5KPn7QtZ1hqKrzuorOUo18bmKFox4qGtQMPsfqwIyvip+rQuCw00pFNuleGInEnQXARq3ZQvTXDKLiuUaCsFQ81KEr4DnzkSUCJyGU93qVlAdo22O5GWEbZc6u+O1tYtehwhLSViZedtqE6yueA+QhwesV6MWzG5x8dU7q5iP9rPSEv8u9972rByOQpsT2+ZT6UEVDfygtKqBOdlKeGJPCIrdMdsBtTPxugvM5HGr42jA+eyPSE3czIOsAEdpk=;jYSDf/6OW2MRa99kVwE8PA=="
+secured: "+Cl27xTDhrr2lhFoDQPWl4Hfyp5drH58DA8zFycPjl/OkRl0C7jerG4ToPIMDw5tlsgiEgxBHS01kyL32DeSLmGMsJC0syxL4cdCpzvxOLG0L+DqXDp44f8TB9lYWYnXoqstEeCb8cvoruMc6cIXBI/a8oDcMVwqyP7CcpVuoYa+fp0UYt+2/4AFkq3KfMNQQxEFYr5yFtzCqmaRvO1UZMM4iVAyAnEIly1sGHTT87py2uOFUvO6s71vULhEGdvDF0vId23ZTm6O/eoFLcXjTM53DkQ0SpNkKY3NvgaGj+KjdsOBM68UPsDfn8jR7P9c92rwyWAfwRd32qyJZ3GvNEbwlzIaM/XGX/S6ho8NvDE=;ZM7DNmSOMVn8eqA/TOru6g=="
 ---
 

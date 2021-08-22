@@ -284,24 +284,33 @@
     {
       "path": "_news/2021-08-09-loxo-names-former-ibm-watson-and-bullhorn-exec-nicole-tumblin-to-vice-president-of-sales-enablement-and-operations.md",
       "title": "Loxo Names Former IBM Watson and Bullhorn Exec, Nicole Tumblin to Vice President of Sales Enablement and Operations",
-      "excerpt": "The #1 Talent Intelligence Platform hires recruiting and AI software veteran to accelerate revenue and customer acquisition while delivering a world-class experience across",
+      "excerpt": "DENVER, Aug. 9, 2021 /PRNewswire-PRWeb/ -- Loxo, the #1 Talent Intelligence Platform and global leader in AI recruitment automation ... She also held leadership positions at IBM with the Watson ...",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/08/p22399618/loxo-names-former-ibm-watson-and-bullhorn-exec-nicole-tumblin-to-vice-president-of-sales-enablemen",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/08/p22399618/loxo-names-former-ibm-watson-and-bullhorn-exec-nicole-tumblin-to-vice-president-of-sales-enablemen",
+      "webUrl": "https://www.lelezard.com/en/news-19942074.html",
+      "originalUrl": "https://www.lelezard.com/en/news-19942074.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/22399618",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22399618",
-      "publishedDateTime": "2021-08-09T06:05:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-09T06:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
         "images": null,
         "publishers": null,
         "authors": null

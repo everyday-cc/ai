@@ -2,6 +2,58 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-08-13-how-ai-driven-technology-is-increasing-food-security-and-improving-the-lives-of-farmers-worldwide.md",
+      "title": "How AI-Driven Technology Is Increasing Food Security, And Improving The Lives Of Farmers Worldwide",
+      "excerpt": "Part of the reason smaller family farms can’t produce enough to feed more than their own families or communities, and themselves may struggle with food insecurity, is that they lack technological solutions to monitor soil conditions,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/08/12/how-ai-driven-technology-is-increasing-food-security-and-improving-the-lives-of-farmers-worldwide/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/08/12/how-ai-driven-technology-is-increasing-food-security-and-improving-the-lives-of-farmers-worldwide/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61158085985b6dd711a7649a%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-12T13:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-08-13-george-mason-university-aditya-johri-receives-fulbright-us-scholar-award-to-finland-for-research-on-ai-ethics-education.md",
       "title": "George Mason University: Aditya Johri Receives Fulbright U.S. Scholar Award To Finland For Research On AI Ethics Education",
       "excerpt": "George Mason University Professor Aditya Johri has received a Fulbright-Nokia Distinguished Chair in Information and Communication Technologies award to conduct research in Finland during the 2021-22 academic year.",
@@ -1086,57 +1138,6 @@
         "name": "GlobeSt.com",
         "domain": "globest.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-you-told-us-you-arent-too-enthusiastic-about-your-phones-ai-camera-modes.md",
-      "title": "You told us: You aren't too enthusiastic about your phone's AI camera modes",
-      "excerpt": "Most Android Authority readers and followers are not very enthusiastic about AI modes on their phone's camera.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/phone-camera-ai-mode-poll-results-2733352/",
-      "originalUrl": "https://www.androidauthority.com/phone-camera-ai-mode-poll-results-2733352/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2019/10/Honor-9X-AI-camera.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/amp/phone-camera-ai-mode-poll-results-2733352/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/phone-camera-ai-mode-poll-results-2733352/",
-      "publishedDateTime": "2021-08-12T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

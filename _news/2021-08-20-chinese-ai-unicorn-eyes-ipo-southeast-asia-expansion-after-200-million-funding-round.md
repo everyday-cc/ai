@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Firm SenseTime Said to Tap HSBC For $2 Billion Hong Kong IPO"
-    excerpt: "SenseTime Group Ltd., China’s largest artificial intelligence company, is working with HSBC Holdings Plc to arrange its planned Hong Kong initial public offering that could raise at least $2 billion,"
-    publishedDateTime: 2021-08-17T05:50:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-08-17/ai-firm-sensetime-said-to-tap-hsbc-for-2-billion-hong-kong-ipo"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iObzxSMaUq08/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "AI Firm Yitu Said to Mull Hong Kong IPO After Shanghai Plan Halt"
     excerpt: "Chinese artificial intelligence company Yitu Technology is considering an initial public offering in Hong Kong after a tightening regulatory scrutiny stalled an earlier attempt to list in Shanghai, people familiar with the matter said."
     publishedDateTime: 2021-08-19T02:35:00Z

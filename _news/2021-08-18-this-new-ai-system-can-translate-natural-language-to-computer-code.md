@@ -9,7 +9,7 @@ ampWebUrl: "https://wonderfulengineering.com/this-new-ai-system-can-translate-na
 cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/this-new-ai-system-can-translate-natural-language-to-computer-code/amp/"
 type: article
 quality: 74
-heat: 79
+heat: 78
 published: true
 
 provider:

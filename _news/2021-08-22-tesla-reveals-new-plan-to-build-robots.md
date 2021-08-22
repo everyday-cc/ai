@@ -95,9 +95,9 @@ related:
   - title: "Tesla Bot: A concept humanoid robot embedded with Tesla's vehicle AI"
     excerpt: "At Tesla AI Day, the company's CEO Elon Musk unveiled a concept humanoid robot that will be powered by the AI currently embedded within Tesla's autonomous vehicles. Aptly named the Tesla Bot, details about the concept robot were limited,"
     publishedDateTime: 2021-08-20T02:15:00Z
-    webUrl: "https://www.zdnet.com/index.php/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
-    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
+    webUrl: "https://www.zdnet.com/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
     type: article
     provider:
       name: ZDNet
@@ -1062,20 +1062,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Elon Musk's Ambitious Plan to Build a Self-Driving Tesla Has Just 1 Problem. It Doesn't Work"
-    excerpt: "On the other hand, Tesla is the only company with a CEO that insists on marketing driver-assist technologies as \"full-self driving,\" even when the car can't drive itself. I know t"
-    publishedDateTime: 2021-08-17T07:02:00Z
-    webUrl: "https://www.inc.com/jason-aten/elon-musks-ambitious-plan-to-build-a-self-driving-tesla-nhtsa-investigation.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 28
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/getty_1228322113_izvhcy.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Elon Musk's Next Big Thing, ‘Humanoid Robots' Powered by the Same AI Used for its Self-Driving Vehicles"
     excerpt: "Last night during a live streamed event called “AI Day”, Tesla Chief Executive Elon Musk teased the “Tesla Bot”, a realistic humanoid robot that would be powered by the same types of AI systems that Tesla uses for its Autopilot and Full Self-Driving (FSD) feature in its cars."
     publishedDateTime: 2021-08-20T18:25:00Z
@@ -1091,6 +1077,6 @@ related:
         height: 445
         isCached: true
 
-secured: "0+5RCI91O3yic6O/u3rFdbwbHpFTDAugzV8wl+vfb5vrdJEYENq+TWdccqZ3Gg1FsYL6cTqsO30cp/6DkrN+UZavOka1OKJofxy6ixzro6Mct8W23Wo82B/FMK+xu/WpHmK9zmkRYCWvfLPhd8CUQ8xqibo2FUksziN18t5qWQMPpxkkow1wDzyn04LH5kngJkrYtX0mXD+OBWDTNQhXefahG0Ef4h7+mvAkjsGK6jYUjLHBhcKJ1v5LrxNU+vdeqBZF05oOax+RyHC6UwFYVnfU88Jp3L6z/MOUWpYHBGE50cINK+BA1TqyHi6TaoLLMzCAp2+LjPLOehAZnJrhCAT+wovCuxJ3+OfpwkNbQig=;agG2kk7jaVCjYNXKE39+gg=="
+secured: "ajNHDygIdl4UcZplJdHOgrVCqCxALtoHfvYxU9EstB6HzsRpydILt8HUnhmYahQF/j6N6cjkFC0sGh7lNb3klsdPv+rKfO0A2MjoDnwz9bfeythdBMPKh6OKb9CSPrUKnrud0hjzPsTkPvxppBAs9v7FGDwBkkB9IQn/dlTfgY6RuYXAFprCybsEqo3VAmSHT6vhjWizwCjSnXKc+o7qvvFTU7hZPf1914kQoba3UfG0DSNtcA/JPHtcAucMtRPdLBp8BSOA9TisoLd6RING3vLyEoMgjZhjRdbTLfIZD2s0ZvgyCJlVMDceaPyc2H9uIuFwdwWAqKULEWjgT0WEFI/QQCcwJNcImyrRD/pqcBNHY6oATw8MAwTVgQwp504Cgm9G+5OKqS5RPw6ggCqJNpGimRscW5L9LWW9DDTO6nkxBHV1VJ9z77s36OtDGonyx+Ycn//zrrzKnWX64KbbFIryVS3Kz2D/iU8lLGPrj8UqN6CHChhwCIUqc0e9ICGGFRB+vEgTzAd+yusWP58P2A==;IMo6w0ZGhKcUPzAN7kcS5Q=="
 ---
 

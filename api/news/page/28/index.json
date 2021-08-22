@@ -2,6 +2,59 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-07-30-amazon-neptune-update-machine-learning-data-science-and-the-future-of-graph-databases.md",
+      "title": "Amazon Neptune update: Machine learning, data science, and the future of graph databases",
+      "excerpt": "Amazon Neptune just added another query language, openCypher, to its arsenal. That may not sound like a big deal in and of itself, but coupled with updates in machine learning and data science features,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/aws-neptune-update-machine-learning-data-science-and-the-future-of-graph-databases/",
+      "originalUrl": "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/aws-neptune-update-machine-learning-data-science-and-the-future-of-graph-databases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/07/14/dab15c07-8cf8-4f40-9413-97eff4356f4f/awsneptunearchitecture.png",
+          "width": 1435,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/aws-neptune-update-machine-learning-data-science-and-the-future-of-graph-databases/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/aws-neptune-update-machine-learning-data-science-and-the-future-of-graph-databases/",
+      "publishedDateTime": "2021-07-29T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-07-30-definity-adds-deep-learning-ai-models-to-detect-digital-asset-market-anomalies.md",
       "title": "DeFinity adds deep-learning AI models to detect digital asset market anomalies",
       "excerpt": "DeFinity, a DeFi marketplace for fiat foreign exchange, tokenised currencies, and central bank digital currencies (CBDC), partners with",
@@ -1068,59 +1121,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-beckers-hospital-review-spotlights-parlance-for-using-voice-recognition-technology-to-improve-caller-experience-in-healthcare.md",
-      "title": "Becker's Hospital Review Spotlights Parlance for using Voice Recognition Technology to Improve Caller Experience in Healthcare",
-      "excerpt": "Becker's Hospital Review has spotlighted Parlance and CEO Joseph Maxwell's work in improving patient caller experience with speech-enabled IVR. Becker's Hospital Review, the nation's leading publication that offers up-to-date healthcare business and legal news and analysis,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/becker-s-hospital-review-spotlights-parlance-for-using-voice-recognition-technology-to-improve-caller-experience-in-healthcare-1030663161",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/becker-s-hospital-review-spotlights-parlance-for-using-voice-recognition-technology-to-improve-caller-experience-in-healthcare-1030663161",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1160610/Parlance_speak_naturally.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-29T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

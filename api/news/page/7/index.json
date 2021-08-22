@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-08-15-young-chinese-turn-to-artificial-intelligence-for-online-romance.md",
+      "title": "Young Chinese Turn to Artificial Intelligence for Online Romance",
+      "excerpt": "Xiaoice is the most eligible bachelorette in China. Despite having millions of boyfriends, she is always open to new suitors.She also happens to be an artificial intelligence-driven chat bot.A conversation between Milly Zhang and her AI boyfriend,",
+      "sourceUrl": null,
+      "webUrl": "https://vietreader.com/world/48514-young-chinese-turn-to-artificial-intelligence-for-online-romance.html",
+      "originalUrl": "https://vietreader.com/world/48514-young-chinese-turn-to-artificial-intelligence-for-online-romance.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vietreader.com/uploads/posts/2021-08/world_young-chinese-turn-to-artificial-intelligence-for-online-romance-2.jpg",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.vietreader.com/world/48514-young-chinese-turn-to-artificial-intelligence-for-online-romance/amp.html",
+      "cdnAmpWebUrl": "https://m-vietreader-com.cdn.ampproject.org/c/s/m.vietreader.com/world/48514-young-chinese-turn-to-artificial-intelligence-for-online-romance/amp.html",
+      "publishedDateTime": "2021-08-15T04:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "vietreader.com",
+        "domain": "vietreader.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-15-samsung-has-its-own-ai-designed-chip-soon-others-will-too.md",
       "title": "Samsung has its own AI-designed chip. Soon, others will too",
       "excerpt": "Samsung is using artificial intelligence to automate the insanely complex and subtle process of designing cutting-edge computer chips. The South Korean giant is one of the first chipmakers to use AI to create its chips.",
@@ -1148,58 +1191,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-why-ai-ethics-needs-to-address-ai-literacy-not-just-bias.md",
-      "title": "Why AI ethics needs to address AI literacy, not just bias",
-      "excerpt": "AI ethics is about more than just bias. That's why Red Hat's Noelle Silver is dedicated to spreading AI literacy.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/13/why-ai-ethics-needs-to-address-ai-literacy-not-just-bias/",
-      "originalUrl": "https://venturebeat.com/2021/08/13/why-ai-ethics-needs-to-address-ai-literacy-not-just-bias/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/Women-in-AI-Awards-1.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/13/why-ai-ethics-needs-to-address-ai-literacy-not-just-bias/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/13/why-ai-ethics-needs-to-address-ai-literacy-not-just-bias/amp/",
-      "publishedDateTime": "2021-08-13T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

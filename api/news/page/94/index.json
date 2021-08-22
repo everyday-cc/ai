@@ -2,6 +2,49 @@
   "page": 94,
   "value": [
     {
+      "path": "_news/2021-06-15-united-fintech-names-advisory-board.md",
+      "title": "United Fintech names advisory board",
+      "excerpt": "United Fintech has announced its Advisory Board, with the appointment of six world-class experts who will play a key role in the global expansion of the fast-growth firm launched by Christian Frahm to help banks,",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/pressarticle/88078/united-fintech-names-advisory-board",
+      "originalUrl": "https://www.finextra.com/pressarticle/88078/united-fintech-names-advisory-board",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finextra.com/about/finextra-logo.png",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-15T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-15-global-artificial-intelligence-service-market-2021-forecast-to-2027-finest-companies-in-market-trends-and-growth-factors-and-market-segmentation.md",
       "title": "Global Artificial Intelligence Service Market 2021 Forecast to 2027: Finest Companies in Market, Trends and Growth Factors and Market Segmentation",
       "excerpt": "Final Report will add the analysis of the impact of COVID-19 on this industry.” Global “Artificial Intelligence",
@@ -1111,57 +1154,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-14-enterprise-ai-platform-dataiku-launches-managed-service-for-smaller-companies.md",
-      "title": "Enterprise AI platform Dataiku launches managed service for smaller companies",
-      "excerpt": "Dataiku is going downstream with a new product today called Dataiku Online. As the name suggests, Dataiku Online is a fully managed version of Dataiku. It lets you take advantage of the data science platform without going through a complicated setup process that involves a system administrator and",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/14/enterprise-ai-platform-dataiku-launches-managed-service-for-smaller-companies/",
-      "originalUrl": "https://techcrunch.com/2021/06/14/enterprise-ai-platform-dataiku-launches-managed-service-for-smaller-companies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/jason-coudriet-eQux_nmDew0-unsplash.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/14/enterprise-ai-platform-dataiku-launches-managed-service-for-smaller-companies/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/14/enterprise-ai-platform-dataiku-launches-managed-service-for-smaller-companies/amp/",
-      "publishedDateTime": "2021-06-14T06:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

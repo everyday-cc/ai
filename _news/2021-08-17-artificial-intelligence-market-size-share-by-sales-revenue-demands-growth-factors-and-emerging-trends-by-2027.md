@@ -249,6 +249,22 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 20
+  - title: "AI Drug Discovery Market Size & Share, 2021 Movements by Latest Trend Analysis, Progression Status, Revenue Expectation to 2026, Research Report"
+    excerpt: "AI Drug Discovery Market is fueled by various factors, according to a detailed assessment explained in the report. This study shows how important in-depth analysis should be, and how it greatly affects the quality of information provided to the readers."
+    publishedDateTime: 2021-08-21T03:36:00Z
+    webUrl: "https://manometcurrent.com/ai-drug-discovery-market-size-share-2021-movements-by-latest-trend-analysis-progression-status-revenue-expectation-to-2026-research-report/"
+    ampWebUrl: "https://manometcurrent.com/ai-drug-discovery-market-size-share-2021-movements-by-latest-trend-analysis-progression-status-revenue-expectation-to-2026-research-report/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/ai-drug-discovery-market-size-share-2021-movements-by-latest-trend-analysis-progression-status-revenue-expectation-to-2026-research-report/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 20
+    images:
+      - url: "https://i.ibb.co/YtnWRfq/Researchmoz-493.png"
+        width: 612
+        height: 408
+        isCached: true
   - title: "Call Center AI Market Industry Share, Size: 2019 Market Research with Growth, Segments and Forecast - 2025"
     excerpt: "The rising consumer data in various industries such as retail BFSI and others are creating growth opportunities in the call center AI market With the growing digitalization across the globe big data is on a continuous rise According to the"
     publishedDateTime: 2021-08-17T09:43:00Z

@@ -2,6 +2,57 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2021-07-12-does-your-ai-governance-focus-on-the-right-questions.md",
+      "title": "Does Your AI Governance Focus On The Right Questions?",
+      "excerpt": "In business, governance is necessary. Does it always help? Not always. Among the reasons governance fails around IT data and systems, for example, is that the governing body doesn’t have enough authority.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/arunshastri/2021/07/12/does-your-ai-governance-focus-on-the-right-questions/",
+      "originalUrl": "https://www.forbes.com/sites/arunshastri/2021/07/12/does-your-ai-governance-focus-on-the-right-questions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ec5764c5778bc031a2268b%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/arunshastri/2021/07/12/does-your-ai-governance-focus-on-the-right-questions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arunshastri/2021/07/12/does-your-ai-governance-focus-on-the-right-questions/amp/",
+      "publishedDateTime": "2021-07-12T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-12-algolux-closes-184-million-series-b-round-for-robust-computer-vision.md",
       "title": "Algolux Closes $18.4 Million Series B Round for Robust Computer Vision",
       "excerpt": "New investment will serve to accelerate market adoption of Algolux's robust and scalable computer vision and image optimization solutions",
@@ -1118,49 +1169,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-wimbledon-2019-ibms-slammtracker-ai-technology-heralds-the-demise-of-the-human-player.md",
-      "title": "Wimbledon 2019: IBM’s Slammtracker AI Technology Heralds The Demise Of The Human Player",
-      "excerpt": "Whilst we patiently wait for the day that Womble-shaped robots replace human tennis players at Wimbledon, we can admire the IBM powered AI technology ... them into the huge Watson driven analytics ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2019/07/08/wimbledon-2019-ibms-slammtracker-ai-technology-heralds-the-demise-of-the-human-player/",
-      "originalUrl": "https://hackaday.com/2019/07/08/wimbledon-2019-ibms-slammtracker-ai-technology-heralds-the-demise-of-the-human-player/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2019/07/Wimbledon.jpg",
-          "width": 862,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-11T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

@@ -52,6 +52,20 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "How AI-powered tech landed man in jail with scant evidence"
+    excerpt: "An Associated Press investigation has identified a number of serious flaws in using ShotSpotter as evidentiary support for prosecutors."
+    publishedDateTime: 2021-08-21T14:00:00Z
+    webUrl: "https://www.stltoday.com/news/national/crime-and-courts/how-ai-powered-tech-landed-man-in-jail-with-scant-evidence/article_30dcdb48-e395-5092-933d-0ddd1c589c53.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/0d/30dcdb48-e395-5092-933d-0ddd1c589c53/611e65f0dbfef.preview.jpg?crop=512%2C288%2C0%2C26&resize=512%2C288&order=crop%2Cresize"
+        width: 512
+        height: 288
+        isCached: true
 
 secured: "pZ0ZTvmCRIwlaIcm/BbnH6k46DeFi2y6uaedFVafZJ/m7vZf/6vAjz7vdxr1rFH3FSULWb9Pj8zedyq6/9aAt8PkRdLZ8dT1I2h1JypnwGHQPkJn8AaOVizzCarFUrDhH8NGGDTxuZtH9zpLqyeY/UxVmon7+/l4+1N7yKgJfEyZhErL4xFNvW5nl1CFrdJlOkCyTZjNy4V/THszMoOfJSa0EBYhPxEgBxVTrBIZxmuJnZROwWfZJ2UYrqTDRs7QL7yToDZl9wUP3YQ3bmqBmnVVxS9Z51ULYjvpSNSh1HlyqUYm12hnN+N2FBx1v7JE0RVgWBq029WkSIenZQFMUbKUIJLzj8yDcXjXiKTyEz7gmF+RGt+DmAVlWG1/Vyt4K19fda4WHJ+pYw0tkTWPA+4TOdO5j6rssbZOk6HLpIwfQRtY+IKx3x76GYGsQuUZx30XHwE7nlFx3TKN4UuY7i/D2RsNNmUKxKm9/O71bI90w5JGzVtb8KlFFyT5AC//LVEH73BhsXehagE2W/NQig==;rmzoWdtg9NGl2uPTj/cAsQ=="
 ---

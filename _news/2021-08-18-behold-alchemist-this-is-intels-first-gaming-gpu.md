@@ -41,22 +41,6 @@ related:
         width: 1199
         height: 662
         isCached: true
-  - title: "Intel Enters Dedicated GPU Market With Intel Arc: Will Be Available From Q1 2022"
-    excerpt: "Though Intel makes both CPU and GPU, it is always widely recognized for making CPU. The company has now announced a sub-brand, dedicated to the graphics card -- Intel Arc. Under this initiation, the company will launch the first generation of dedicated graphics cards based on Xe HPG microarchitecture."
-    publishedDateTime: 2021-08-17T07:09:00Z
-    webUrl: "https://www.gizbot.com/gaming/news/intel-enters-dedicated-gpu-market-with-intel-arc-will-be-available-from-q1-2022-076169.html"
-    ampWebUrl: "https://www.gizbot.com/amphtml/gaming/news/intel-enters-dedicated-gpu-market-with-intel-arc-will-be-available-from-q1-2022-076169.html"
-    cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/gaming/news/intel-enters-dedicated-gpu-market-with-intel-arc-will-be-available-from-q1-2022-076169.html"
-    type: article
-    provider:
-      name: GIZBOT
-      domain: gizbot.com
-    quality: 69
-    images:
-      - url: "https://www.gizbot.com/img/2021/08/intel-enters-dedicated-gpu-market-with-intel-arc1-1629183937.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "The Full Nerd ep. 188: Intel's 12th-gen Alder Lake and Arc GPU"
     excerpt: "You can read more about Alder Lake in Mark Hachman's story. The Full Nerd gang also talks about Intel's new Arc GPU, which breaks cover with hardware ray tracing support and AI-based upsampling to compete with Nvidia's DLSS 2.0. For more details ..."
     publishedDateTime: 2021-08-20T21:53:00Z
@@ -103,22 +87,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Intel’s GPU brand is now Arc, first cards expected in 2022"
-    excerpt: "Launching a GPU, especially a GPU PC builders and gamers have never had a chance to experience then would be a rather big risk, even for Intel. It appears as if Intel used this time to rethink its GPU brand because this week the component maker announced its high performance GPU brand would now be known as Arc."
-    publishedDateTime: 2021-08-17T07:00:00Z
-    webUrl: "https://www.htxt.co.za/2021/08/intels-gpu-brand-is-now-arc-first-cards-expected-in-2022/"
-    ampWebUrl: "https://www.htxt.co.za/2021/08/intels-gpu-brand-is-now-arc-first-cards-expected-in-2022/"
-    cdnAmpWebUrl: "https://www-htxt-co-za.cdn.ampproject.org/c/s/www.htxt.co.za/2021/08/intels-gpu-brand-is-now-arc-first-cards-expected-in-2022/"
-    type: article
-    provider:
-      name: Htxt.Africa
-      domain: htxt.co.za
-    quality: 59
-    images:
-      - url: "https://htxt.co.za/wp-content/uploads/2021/08/intel-arc-logo.png"
-        width: 1080
-        height: 608
-        isCached: true
   - title: "Intel Arc gaming GPU launched to compete with NVIDIA and AMD"
     excerpt: "Intel is finally getting serious with gaming GPUs with the release of Arc. The Intel Arc is a culmination of years of work that the company has put on to finally compete with NVIDIA's GeForce and"
     publishedDateTime: 2021-08-18T09:48:00Z
@@ -146,20 +114,6 @@ related:
       - url: "https://cdn.techjuice.pk/wp-content/uploads/2021/08/intelarc.jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Beware Nvidia! Intel Arc is the New Consumer GPU Brand Coming to Devices in 2022 With Ray Tracing, Super Sampling and More"
-    excerpt: "Beware Nvidia! Intel Arc is the New Consumer GPU Brand Coming to Devices in 2022 With Ray Tracing, Super Sampling and More -"
-    publishedDateTime: 2021-08-17T06:32:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_intel/beware-nvidia-intel-arc-is-the-new-consumer-gpu-brand-coming-to-devices-in-2022-with-ray-tracing-super-sampling-and-more/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 13
-    images:
-      - url: "https://assets.mspimages.in/wp-content/uploads/2021/08/Intel-Arc-GPU-branding.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "xF7Gu5C7wEFSmrlPqeNSP3ejUQon2rcPGBJoEk8r19goK3iwewHEz6TAWKofZNIxiJjj0t4x7HJ4hKCHOhYQ/rGNC+PGWbZGw5piHo9aC25n4/dqHbz0eXbfmEVBgqsjGnFKG0XYiwwKNZtxJQtTS/nyx/Cn+6inQze9mNTfpLyuRyWJ05yjbyCBZWIxsRiRY9Qu3oZ2CfdSt8N3Lmx0W0ii1ql5AtF16kKE5XCWZzepiJa8brLnx+Spj9yMPpTBSIUd2j4LMXJCSwf3do3757qPapoR4f571RNsXh5TCJWdDjmQPUzoISAHPm0/2lZORPlJZBGhJJP9KP4oZiM/SoP5Br6DuZTtX9k5JUkgbw4=;d1bwm7DkuvDbOZRUxO5Opg=="
