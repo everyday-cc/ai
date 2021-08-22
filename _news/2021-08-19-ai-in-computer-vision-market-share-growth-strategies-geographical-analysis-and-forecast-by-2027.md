@@ -59,20 +59,6 @@ related:
         width: 600
         height: 300
         isCached: true
-  - title: "Facial Recognition Market Size | Opportunity Analysis Report by 2026"
-    excerpt: "Estimates suggests that global facial recognition market size will exceed USD 12 billion in terms of annual valuation by 2026. All the major mobile phone companies including Samsung, Apple, Xiomi Corp and others offer FaceTech in their phones."
-    publishedDateTime: 2021-08-18T04:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-opportunity-analysis-report-by-2026-2021-08-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Radiotherapy Market Maintains Steady Pace of Growth- Projected to reach USD 7.7 billion by 2027"
     excerpt: "A recent study conducted by the strategic consulting and market research firm BlueWeave Consulting revealed that the global radiotherapy market was worth USD 5.7 billion in the year 2020. The market is estimated to grow at a CAGR of 4."
     publishedDateTime: 2021-08-19T09:14:00Z
@@ -287,6 +273,20 @@ related:
       - url: "https://i.ibb.co/YtnWRfq/Researchmoz-493.png"
         width: 612
         height: 408
+        isCached: true
+  - title: "Artificial Intelligence in Security Market Report 2021-2028 | Size, Share, Growth, Trends, Competitive Landscape, Revenue, Forecast Analysis"
+    excerpt: "The global Artificial Intelligence in Security market is segregated on the basis of Security as Network Security, and Cloud Security. Based on Service the global Artificial Intelligence in Security market is segmented in Professional and Managed."
+    publishedDateTime: 2021-08-19T19:11:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-security-market-report-2021-2028-size-share-growth-trends-competitive-landscape-revenue-forecast-analysis"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 19
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/Vaccine-Covid19-AFP-1K-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
   - title: "Artificial Intelligence in Drug Discovery Market Competitive Landscape Forecasts to 2027: Global Industry Growth, Share, Size, Trends"
     excerpt: "According to Reports and Data, the Artificial Intelligence in Drug Discovery Market was valued at USD 253.8 million in 2019 and is expected to reach USD 2,127.9 million by the year 2027, at a CAGR of 31."

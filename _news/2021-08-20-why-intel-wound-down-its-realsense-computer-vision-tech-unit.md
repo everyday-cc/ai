@@ -41,20 +41,6 @@ related:
         width: 1130
         height: 636
         isCached: true
-  - title: "Intel RealSense camera business being shut down"
-    excerpt: "Intel RealSense is being shut down. Intel CEO Pat Gelsinger wants to focus all of Intel's efforts on its core chipmaking business."
-    publishedDateTime: 2021-08-18T03:10:00Z
-    webUrl: "https://www.therobotreport.com/intel-realsense-camera-business-being-shut-down/"
-    type: article
-    provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 54
-    images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2021/08/intel-realsense-shuts-down.jpg"
-        width: 1000
-        height: 750
-        isCached: true
   - title: "Intel Shutters Its RealSense Arm, Departs the Computer Vision Market"
     excerpt: "Intel's six-year foray into depth-sensing and object-tracking computer vision systems comes to an end this week."
     publishedDateTime: 2021-08-18T16:05:00Z

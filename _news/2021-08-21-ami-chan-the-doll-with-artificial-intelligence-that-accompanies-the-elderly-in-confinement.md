@@ -2,17 +2,17 @@
 category: news
 title: "Ami-Chan, the doll with artificial intelligence that accompanies the elderly in confinement"
 excerpt: "That is why the Takara Tomy company developed a doll with artificial intelligence to reduce the isolation of older adults. Christened Ami-Chan , the doll was designed as a little (robotic) granddaughter."
-publishedDateTime: 2021-08-21T00:33:00Z
-originalUrl: "https://www.ctpost.com/business/article/Ami-Chan-the-doll-with-artificial-intelligence-16401546.php"
-webUrl: "https://www.ctpost.com/business/article/Ami-Chan-the-doll-with-artificial-intelligence-16401546.php"
+publishedDateTime: 2021-08-21T01:33:00Z
+originalUrl: "https://www.stamfordadvocate.com/business/article/Ami-Chan-the-doll-with-artificial-intelligence-16401546.php"
+webUrl: "https://www.stamfordadvocate.com/business/article/Ami-Chan-the-doll-with-artificial-intelligence-16401546.php"
 type: article
 quality: 29
 heat: 29
 published: false
 
 provider:
-  name: Connecticut Post
-  domain: ctpost.com
+  name: StamfordAdvocate
+  domain: stamfordadvocate.com
 
 topics:
   - AI in Robotics
@@ -24,6 +24,6 @@ images:
     height: 1333
     isCached: true
 
-secured: "MzNA8rDiMz9TraQ/ePip5hvXUoAdGYqpqDa9ZnSz34DL+h3olYiiLzJKsF/8SKuhYRYj7bAm0OBpcDsppiX14/5RAFJ11TfiZW1JdMmOJxQRgtCdbFpD/pkhh/wVtSWBY6GfYvZFVTCGnaytx1d1CGx9la6m+fAj+R6yu+NUtRL/WKD6TAerRoIOb+AVZMxfnxvj6g20YE8Tln7/MckDFmYOXunqIVPDedj1i37tB6q5ph9lO+ZhDRTzSlFEPRnFLPFtp0wxbXNJXoaBuZ5TuElz+ivgZII9Wrh3lHjMPEJ/FBd9Jls2lB9NvA1h051TPEepI8XeJlP5HIkbQMnYHLhbnF4CvkkOUWZODY4AX2s=;L4KD2G3RbdcAOGhJ0MxjZw=="
+secured: "h4U/q6zw9oI7hunb6jusK1IdEQc/ReJoFPFcnDvWU1z0fJCacfqyDATYQklMs9/0snB4GxBbfdzJje7XqgN05V3gWPF7miJioo0MCCfK1OumOWnacnJ8YaUIDXT4nJquBTFQxlH+/tlCzZk9Qegw0GpFpaLFFzAsBIEzrWtlFmHnYGGTCnxFpsvMfGBs5fuqjoYDNgnuAikbe9Swm2RtydBnQIz5hiCJY2+SCeHTMqm83CZHCv2gRM43JDEj532SCytjrlkXkKxaMGroAQV+DZT66ZT9+BZH0BWQtqlBRnOQXDYNGrgj2DzHINu5j+Dt/qQ2W5MBn5GE+cKvkZ40C3TjMZiJ4wLeNc7B4UCnCsw=;zAOvhbHn72LLYD8MhKoo6w=="
 ---
 

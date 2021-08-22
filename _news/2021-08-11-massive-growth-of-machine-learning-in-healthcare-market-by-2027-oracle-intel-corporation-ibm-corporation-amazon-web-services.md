@@ -18,6 +18,7 @@ topics:
   - AI
   - AI in Healthcare
   - AWS AI
+  - AI in Finance
 
 images:
   - url: "https://manometcurrent.com/wp-content/uploads/2021/08/Machine-Learning-in-Healthcare.jpg"

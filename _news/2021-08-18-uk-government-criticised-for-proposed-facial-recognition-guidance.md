@@ -37,6 +37,20 @@ related:
         width: 640
         height: 425
         isCached: true
+  - title: "PI and 30 CSOs unite against use of live facial recognition technology"
+    excerpt: "PI, together with 30 national and international civil society organisations (CSOs), release an open letter calling on Parliament and relevant stakeholders to halt and ban the use of live facial recognition technology (LFRT) by the police and private companies."
+    publishedDateTime: 2021-08-22T21:02:00Z
+    webUrl: "https://www.privacyinternational.org/advocacy/4616/pi-and-30-csos-unite-against-use-live-facial-recognition-technology"
+    type: article
+    provider:
+      name: Privacy International
+      domain: privacyinternational.org
+    quality: 54
+    images:
+      - url: "https://www.privacyinternational.org/sites/default/files/styles/teaser_large_x1/public/2021-07/etienne-girardet-CxTCcjUo2hM-unsplash2.png?itok=GcWDwORh"
+        width: 525
+        height: 295
+        isCached: true
   - title: "'Massive invasion of privacy': Hamden lawmakers seek to ban government use of facial recognition technology"
     excerpt: "Police Department officials have said the agency presently does not use any such technology but previously engaged in a free trial of facial recognition software. Passing an ordinance “is the right thing to do as the technology becomes more pervasive in terms of its use by government,"
     publishedDateTime: 2021-08-18T15:59:00Z

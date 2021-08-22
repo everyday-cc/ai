@@ -79,20 +79,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "Qualcomm unveils its next-generation 5G AI drone platform"
-    excerpt: "Qualcomm Technologies Inc. has unveiled a new reference design for drones that integrates 5G and artificial intelligence. The chipmaker said today it’s aiming to replicate the success of the experimental Ingenuity Helicopter that recently visited Mars,"
-    publishedDateTime: 2021-08-18T03:46:00Z
-    webUrl: "https://siliconangle.com/2021/08/17/qualcomm-unveils-next-generation-5g-ai-drone-platform/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/qualcomm-5g-drone-platform.png"
-        width: 1127
-        height: 684
-        isCached: true
 
 secured: "GABIkiexjPW8OFhlilkAWkHk3jSzzf6gvlmb/aPrGlnYc4SaUc+oqjWfb0zJJ3hbglK7Cvpwxsi4VZC64di+JX5V47r/7tNcxDDmfOZwExgcruXVbiW1urqvyG2EnPiPZEZA122wj+gSXg9vB/h72DRshP7aS0zh6JqiKi3k4JOftvFxcEXctqMSIXEnoVxcKOMHIllp/f+o4urbr0ilfyhS26yu1NQjU4R85WEnqjoAh3e/K0uZX9FgOs8v/+CRNxyM0xvTIo160/FWbo4K3WB5oGpOPCSxBonQhNWtJy7ruZ62C5UtbjqElcTX8lOcX8x2cPrsNuN20qzsfHV7zO2gSfgG/uHl2N+6IqUX7PpSXxLCDqBAsWl7XKlIURYTKmwr1lRmTQSA++830akiZ9WSpIJYKig4sVSKXd66tK6cGGyEFOeohIf5HA9ocgq83SW+MBu41uh9fqzj1sg/2b7m3lhrGS0yl3F38ENCMytw7uLOnvcxi3Rg/SVirlsXlv+Jfb96S8aLJEl1lEGE/g==;/vcUvoMVghMANnGqEu3mNw=="
 ---
