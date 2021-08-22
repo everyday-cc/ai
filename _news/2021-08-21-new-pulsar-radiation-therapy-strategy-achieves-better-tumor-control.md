@@ -9,8 +9,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210820/New-PULSAR-radiation-
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210820/New-PULSAR-radiation-therapy-strategy-achieves-better-tumor-control.aspx"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: News Medical
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "PULSAR-integrated radiotherapy with immunotherapy for improved tumor control"
+    excerpt: "Cancer physicians are pioneering a new PULSAR radiation-therapy strategy that improves tumor control compared with traditional daily therapy."
+    publishedDateTime: 2021-08-21T00:00:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/08/210821113846.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 46
   - title: "UT Southwestern pioneers PULSAR-integrated radiotherapy with immunotherapy for improved tumor control"
     excerpt: "Artificial intelligence, along with a $71-million expansion of Radiation Oncology services, is allowing UT Southwestern Medical Center cancer physicians to pioneer a new PULSAR radiation-therapy strategy that improves tumor control compared with traditional daily therapy."
     publishedDateTime: 2021-08-20T00:00:00Z

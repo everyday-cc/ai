@@ -9,8 +9,8 @@ ampWebUrl: "https://www.govtech.com/products/newark-n-j-airport-tests-facial-rec
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/newark-n-j-airport-tests-facial-recognition-for-boarding?_amp=true"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: Government Technology
@@ -25,40 +25,6 @@ images:
     width: 840
     height: 438
     isCached: true
-
-related:
-  - title: "Facial Recognition Boarding Trial Underway At Newark Airport"
-    excerpt: "A biometric self-boarding e-gate York’s Newark Airport. The trial will run until August 31 at Gate 62 of Terminal B. If all goes well, a wider rollout is anticipated. The Port Authority of New York and New Jersey (PANYNJ),"
-    publishedDateTime: 2021-08-17T22:30:00Z
-    webUrl: "https://simpleflying.com/newark-airport-facial-recognition/"
-    ampWebUrl: "https://simpleflying.com/newark-airport-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://simpleflying-com.cdn.ampproject.org/c/s/simpleflying.com/newark-airport-facial-recognition/amp/"
-    type: article
-    provider:
-      name: Simple Flying
-      domain: simpleflying.com
-    quality: 74
-    images:
-      - url: "https://simpleflying.com/wp-content/uploads/2021/08/Lufthansa-Airbus-A350-941.png"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Facial Recognition Self-Boarding Pilot Program Launches at Newark Airport"
-    excerpt: "Boarding an airplane can be a stressful experience, particularly if you’ve found yourself searching for your boarding pass and passport. A pilot program launched by the Port Authority, in partnership with the airline Lufthansa,"
-    publishedDateTime: 2021-08-17T21:48:00Z
-    webUrl: "https://www.nbcnewyork.com/news/local/facial-recognition-self-boarding-pilot-program-launches-at-newark-airport/3225466/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/local/facial-recognition-self-boarding-pilot-program-launches-at-newark-airport/3225466/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/local/facial-recognition-self-boarding-pilot-program-launches-at-newark-airport/3225466/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 73
-    images:
-      - url: "https://media.nbcnewyork.com/2019/09/newark-airport-generic-aerials-file-FEB-2017-00011624_WNBC_0000000205.jpg?quality=85&strip=all&fit=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "0WFS3bmdAapRTeSCBEFJPcVqqvQT1MP6v1dxlbihUrNCuZWpUQYrKoapX3rd/NC7stFuBgtYz4YhEtAOsQDT4DgXCw7zworp+xHoIy62aEqpUqX3FOYz77ZuGKOicmFKkQqVmfD3ndViE0o1CP79xT166Vx+LVFYfTBogjidDw4CDaZ4PqO9qUrpidxSDTJeadWrSZpJl2Oa0GmX3Uq1NiXli+b1PBcQfpRhh6krNXrGqxmhYqbE/k6OcJt/JsjXzLeXLSLR+Z46ptevvLuOIy0IMJnWj86ctkEbL2l/GCZzQH1D2DQ6zn6IwinJntF2Egq+I39GkaWQYTybLcK82nKl0+gOQcCexTjVmdYcTBth+x9MfVDiKVQfg8YOKyU7xhLGxjhP+7aADp8eJNGdW+mC2Sdy2alL7/yqaiT9PyMmwhaHltR8koBK8T/d9KLb7RoovUOULCDkfcF3WHSu0tQqV2uMU+LjJNVSZLn8m4yj7UfqldXzWxmQr/j/70AK0EUNTEFYFywazdFooVKtOA==;urjQm2ySGdJgLnVrPTp73g=="
 ---

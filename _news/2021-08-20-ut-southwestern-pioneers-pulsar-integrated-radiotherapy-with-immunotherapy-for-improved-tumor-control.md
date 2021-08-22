@@ -41,6 +41,15 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "PULSAR-integrated radiotherapy with immunotherapy for improved tumor control"
+    excerpt: "Cancer physicians are pioneering a new PULSAR radiation-therapy strategy that improves tumor control compared with traditional daily therapy."
+    publishedDateTime: 2021-08-21T00:00:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/08/210821113846.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 46
 
 secured: "NRKVQZOPefRk1WvIo1EnHoF/uJLZHHZR5IE64f/AujrO/junrwMsMszc6Yt1rx6HSpaFHutmlpub0JPl9sdwTAL3c3Z6DMg6ripB+AAAg0EoYTz6PYrp325/rqrkcBMl6bJR3Vvq5717qyGFVcHvg3s0qd8sbtL3Kwe9LCI5LqFhtvkxv6zRy2gWx4seUrSCE4NtnIWhYy7B3co8ADuypU0Ep70G4Sz4sIsglAibXJzhd0J3oYQcmw3hn0Xg8Sapv24fwtqST+nyyIXD2xMQkRtcHKf0vT9SKeaOw3WUcFONuarIat0C4075pCLzshfqXE9bE2iC/VTdkdZ6G492D1EFARsjMfSYgTV/AvBtiQQMuvK9/HWXhH8C/+tt0quDSYfPGCFu0XQMvIe4u8kGJsAXvHNb/o0VqDo6Vzt0e8Y3hK2qjZEPUGmJDqIKDy0AvIwUagnsBenDCOECr4MsKXYMCpJLSu+CF0h1A7raBEHhU1Kl/Od3MRHD6xbkf1iRcmuiZyWEJkkzWZnUoSnTVw==;ddvuFA/QhHmLI0tHLaczGg=="
 ---

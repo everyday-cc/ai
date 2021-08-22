@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2362368/artificial-intelligence-ai-in-dru
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2362368/artificial-intelligence-ai-in-drug-discovery-market-latest"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "C3.ai, Inc. (AI) Dips More Than Broader Markets: What You Should Know"
-    excerpt: "C 3.ai, Inc. (AI) closed the most recent trading day at $45.94, moving -1.46% from the previous trading session. This change lagged the S&P 500's daily loss of 0.71%. Coming into today, shares of the company had lost 8."
-    publishedDateTime: 2021-08-17T21:45:00Z
-    webUrl: "https://www.nasdaq.com/articles/c3.ai-inc.-ai-dips-more-than-broader-markets%3A-what-you-should-know-2021-08-17"
-    ampWebUrl: "https://www.nasdaq.com/articles/c3.ai-inc.-ai-dips-more-than-broader-markets%3A-what-you-should-know-2021-08-17?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/c3.ai-inc.-ai-dips-more-than-broader-markets%3A-what-you-should-know-2021-08-17?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 67
   - title: "Artificial Intelligence (AI) in Drug Discovery Market Next Big Thing : Major Giants NVIDIA, IBM, NuMedii"
     excerpt: "The Latest research study released by HTF MI Global Artificial Intelligence AI in Drug Discovery Market with 100 pages of analysis on business Strategy taken up by key and emerging industry players and delivers know how of the current market"
     publishedDateTime: 2021-08-18T01:52:00Z

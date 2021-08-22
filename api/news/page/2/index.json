@@ -2,6 +2,153 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-20-the-huge-market-failure-of-ai-and-the-sequence-of-events-that-led-us-to-it-part-3.md",
+      "title": "The Huge Market Failure Of AI And The Sequence Of Events That Led Us To It (Part 3)",
+      "excerpt": "In the previous posts in this series, I described why AI models that are trained in a controlled lab setting tend to fail miserably once deployed in a real-world production environment. I also explained why AI solutions must be significantly more rugged,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/20/the-huge-market-failure-of-ai-and-the-sequence-of-events-that-led-us-to-it-part-3/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/20/the-huge-market-failure-of-ai-and-the-sequence-of-events-that-led-us-to-it-part-3/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6042363121cbb7d95b1f446f%2F0x0.jpg",
+          "width": 820,
+          "height": 546,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/20/the-huge-market-failure-of-ai-and-the-sequence-of-events-that-led-us-to-it-part-3/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/20/the-huge-market-failure-of-ai-and-the-sequence-of-events-that-led-us-to-it-part-3/amp/",
+      "publishedDateTime": "2021-08-20T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-20-digital-education-company-numerade-raises-26m-for-ai.md",
+      "title": "Digital Education Company Numerade Raises $26M for AI",
+      "excerpt": "The Los Angeles-based, venture-backed ed-tech startup will use the funds to build out artificial intelligence for a tutoring program, as well as its library of virtual lessons that have been used by millions worldwide.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/education/higher-ed/digital-education-company-numerade-raises-26m-for-ai",
+      "originalUrl": "https://www.govtech.com/education/higher-ed/digital-education-company-numerade-raises-26m-for-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/0f4aa74/2147483647/strip/true/crop/940x490+0+69/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F9d%2F1a%2F8221c2aac7823fec923972d30d68%2Fshutterstock-458330614.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/education/higher-ed/digital-education-company-numerade-raises-26m-for-ai?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/digital-education-company-numerade-raises-26m-for-ai?_amp=true",
+      "publishedDateTime": "2021-08-20T02:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2021-08-20-andrew-hawkins-of-the-verge-on-the-highlights-from-teslas-ai-day.md",
+      "title": "Andrew Hawkins of The Verge on the highlights from Tesla's AI Day",
+      "excerpt": "Andrew Hawkins, Senior Transportation Reporter at The Verge, joins Worldwide Exchange to discuss Tesla's AI Day event and the announcement of a humanoid Tesla robot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2021/08/20/andrew-hawkins-of-the-verge-on-the-highlights-from-teslas-ai-day.html",
+      "originalUrl": "https://www.cnbc.com/video/2021/08/20/andrew-hawkins-of-the-verge-on-the-highlights-from-teslas-ai-day.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106930909-16294568745ED4-WEX-082021-Hawkins.jpg?v=1629456873",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-20T01:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-08-20-healthtech-startup-ziniai-bags-seed-grant-from-the-government-of-punjab.md",
       "title": "Healthtech Startup Zini.ai Bags Seed Grant From The Government Of Punjab",
       "excerpt": "The startups selected for the grant will have access to mentors, networking opportunities, interactions with Invest Punjab and other stakeholders",
@@ -302,7 +449,7 @@
       "originalUrl": "https://techcrunch.com/2021/08/19/companies-betting-on-data-must-value-people-as-much-as-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -405,7 +552,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-size-growth-and-forecast-analysis-by-2027-2021-08-19",
       "featuredContent": null,
       "highlight": null,
-      "heat": 276,
+      "heat": 266,
       "tags": null,
       "images": [
         {
@@ -889,6 +1036,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-19-intel-xess-is-alchemists-answer-to-dlss-and-fsr-and-can-work-on-anyones-gpu.md",
+      "title": "Intel XeSS is Alchemist's answer to DLSS and FSR, and can work on anyone's GPU",
+      "excerpt": "Intel has announced that its upcoming lineup of gaming graphics cards, now known as Intel Alchemist, will support a frame rate boosting technology called (XeSS). That bit you might have known already,",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcgamer.com/intel-xess-xe-super-sampling/",
+      "originalUrl": "https://www.pcgamer.com/intel-xess-xe-super-sampling/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/8fgPWdA2DDMJtR4gfRM8ef-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcgamer.com/amp/intel-xess-xe-super-sampling/",
+      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/intel-xess-xe-super-sampling/",
+      "publishedDateTime": "2021-08-19T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-19-intel-takes-the-lid-off-its-biggest-chip-designs-for-the-coming-years.md",
       "title": "Intel takes the lid off its biggest chip designs for the coming years",
       "excerpt": "Intel's top chip architects touted the designs at Intel Architecture Day 2021 in the hopes of instilling confidence in its leadership.",
@@ -1042,186 +1232,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-how-this-technologist-is-using-beauty-as-a-tool-to-disrupt-facial-recognition.md",
-      "title": "How this technologist is using beauty as a tool to disrupt facial recognition",
-      "excerpt": "The biggest stories of the day delivered to your inbox. By signing up to the Mashable newsletter you agree to receive electronic communications from Mashable that may sometimes include ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/video/how-to-disrupt-surveillance-facial-recognition-tech",
-      "originalUrl": "https://mashable.com/video/how-to-disrupt-surveillance-facial-recognition-tech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/videos/00qvEiMeRxzCYbNV2ojrTjw/hero-image.fill.size_1200x675.v1628003112.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T05:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-campaigners-call-for-ban-on-use-of-facial-recognition-tech-in-uk.md",
-      "title": "Campaigners call for ban on use of facial recognition tech in UK",
-      "excerpt": "Human rights group Liberty has called on the UK to ban the use of facial recognition software by police forces and private companies, as the British Government updates its guidance on the use of the surveillance technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/campaigners-call-ban-use-facial-recognition-tech-uk",
-      "originalUrl": "https://diginomica.com/campaigners-call-ban-use-facial-recognition-tech-uk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2021-08/76522589-0B01-4323-9BBC-AA85BA5ABD9A.jpeg",
-          "width": 640,
-          "height": 425,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/campaigners-call-ban-use-facial-recognition-tech-uk?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/campaigners-call-ban-use-facial-recognition-tech-uk?amp",
-      "publishedDateTime": "2021-08-19T04:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-meet-the-designer-who-makes-high-tech-nail-art-and-fights-facial-recognition-with-flowers.md",
-      "title": "Meet the designer who makes high-tech nail art and fights facial recognition with flowers",
-      "excerpt": "She also strategically applies makeup to combat facial recognition software. Based in North Carolina, McDonald is the co-founder of Blink Blink Creative Circuit Kits, which makes gender inclusive ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/joselyn-mcdonald-interview",
-      "originalUrl": "https://mashable.com/article/joselyn-mcdonald-interview",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/05DJAH5r01nPj2qk8Bpg729/hero-image.fill.size_1200x675.v1628106617.png",
-          "width": 1199,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-call-center-automation-startup-balto-secures-37m.md",
-      "title": "Call center automation startup Balto secures $37M",
-      "excerpt": "Balto, a call center automation startup based in St. Louis, has raised $37 million in series B funding for its agent coaching AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/19/call-center-automation-startup-balto-secures-37m/",
-      "originalUrl": "https://venturebeat.com/2021/08/19/call-center-automation-startup-balto-secures-37m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/11/shutterstock_344231354-e1628723101457.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/19/call-center-automation-startup-balto-secures-37m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/19/call-center-automation-startup-balto-secures-37m/amp/",
-      "publishedDateTime": "2021-08-19T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

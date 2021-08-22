@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-22-natural-language-processing-uncovers-silver-linings-in-the-covid-19-pandemic.md",
+      "title": "Natural Language Processing Uncovers Silver Linings In The Covid-19 Pandemic",
+      "excerpt": "We identified positive aspects, or silver linings, that people experienced during the Covid-19 crisis using computational natural language processing methods,” say the authors of the research led by Stanford University’s Juan Antonio Lossio-Ventura.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/traversmark/2021/08/22/natural-language-processing-uncovers-silver-linings-in-the-covid-19-pandemic/",
+      "originalUrl": "https://www.forbes.com/sites/traversmark/2021/08/22/natural-language-processing-uncovers-silver-linings-in-the-covid-19-pandemic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61211a1fc57e3ecb07d81833%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3585%26cropY1%3D136%26cropY2%3D1816",
+          "width": 1200,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/traversmark/2021/08/22/natural-language-processing-uncovers-silver-linings-in-the-covid-19-pandemic/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traversmark/2021/08/22/natural-language-processing-uncovers-silver-linings-in-the-covid-19-pandemic/amp/",
+      "publishedDateTime": "2021-08-22T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-22-australia-eyes-ai-drones-facial-recognition-tech-to-protect-wild-koalas.md",
       "title": "Australia eyes AI, drones, facial recognition tech to protect wild koalas",
       "excerpt": "Researchers are seeking hi-tech solutions to protect koalas against the threats of vehicle collisions and bush fires.",
@@ -199,7 +251,7 @@
       "originalUrl": "https://www.scmp.com/business/companies/article/3145739/sensetime-parlays-academic-bona-fides-worlds-largest-platform",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -380,6 +432,93 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-21-new-pulsar-radiation-therapy-strategy-achieves-better-tumor-control.md",
+      "title": "New PULSAR radiation-therapy strategy achieves better tumor control",
+      "excerpt": "Artificial intelligence, along with a $71-million expansion of Radiation Oncology services, is allowing UT Southwestern Medical Center cancer physicians to pioneer a new PULSAR radiation-therapy strategy that improves tumor control compared with traditional daily therapy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20210820/New-PULSAR-radiation-therapy-strategy-achieves-better-tumor-control.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20210820/New-PULSAR-radiation-therapy-strategy-achieves-better-tumor-control.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Radiotherapy-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20210820/New-PULSAR-radiation-therapy-strategy-achieves-better-tumor-control.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210820/New-PULSAR-radiation-therapy-strategy-achieves-better-tumor-control.aspx",
+      "publishedDateTime": "2021-08-20T20:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-21-intel-launches-ai-for-workforce-education-program-for-800000-students-in-community-colleges.md",
+      "title": "Intel Launches AI for Workforce Education Program for 800,000 Students in Community Colleges",
+      "excerpt": "Intel (Nasdaq: INTC) announced an expansion of its AI for Workforce Program to 18 community colleges across 11 U.S. states, with a total of 800,000 students. The company plans to expand to 50 more community and vocational colleges in 2022.",
+      "sourceUrl": null,
+      "webUrl": "https://iblnews.org/intel-launches-ai-for-workforce-education-program-for-800000-students-in-community-colleges/",
+      "originalUrl": "https://iblnews.org/intel-launches-ai-for-workforce-education-program-for-800000-students-in-community-colleges/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://iblnews.org/wp-content/uploads/2021/08/Intel-AI-Colleges-2.jpg",
+          "width": 860,
+          "height": 505,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://iblnews.org/intel-launches-ai-for-workforce-education-program-for-800000-students-in-community-colleges/amp/",
+      "cdnAmpWebUrl": "https://iblnews-org.cdn.ampproject.org/c/s/iblnews.org/intel-launches-ai-for-workforce-education-program-for-800000-students-in-community-colleges/amp/",
+      "publishedDateTime": "2021-08-20T19:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBL News",
+        "domain": "iblnews.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Education"
       ]
     },
     {
@@ -674,7 +813,7 @@
       "originalUrl": "https://www.openpr.com/news/2362368/artificial-intelligence-ai-in-drug-discovery-market-latest",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -906,21 +1045,21 @@
       ]
     },
     {
-      "path": "_news/2021-08-20-meet-grace-the-robot-nurse-that-covid-created.md",
-      "title": "Meet Grace, the robot nurse that COVID created",
-      "excerpt": "Meet Grace. She's a robot designed to ease the workload of nurses and front-line workers.She’s the creation of the same company that built Sophia, a robot granted citizenship by",
+      "path": "_news/2021-08-20-implantable-ai-system-developed-for-early-detection-and-treatment-of-illnesses.md",
+      "title": "Implantable AI system developed for early detection and treatment of illnesses",
+      "excerpt": "Artificial intelligence (AI) will fundamentally change medicine and healthcare: Diagnostic patient data, e.g. from ECG, EEG or X-ray images, can be analyzed with the help of machine learning, so that diseases can be detected at a very early stage based on subtle changes.",
       "sourceUrl": null,
-      "webUrl": "https://www.ajc.com/pulse/meet-grace-the-robot-nurse-that-covid-created/JT55K5RIZRCCBCT4JWVES4DXRE/",
-      "originalUrl": "https://www.ajc.com/pulse/meet-grace-the-robot-nurse-that-covid-created/JT55K5RIZRCCBCT4JWVES4DXRE/",
+      "webUrl": "https://medicalxpress.com/news/2021-08-implantable-ai-early-treatment-illnesses.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-08-implantable-ai-early-treatment-illnesses.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 73,
       "tags": null,
       "images": [
         {
-          "url": "https://www.ajc.com/resizer/pOESF5YZ-GwT3z4otLueCQYhSX4=/1200x630/d1fegwn2wjh0cs.cloudfront.net/08-19-2021/t_9328b74d675644a187be2357285eed8f_name_fe9f02760a224939b7270c4da778e758.jpeg",
-          "width": 1200,
-          "height": 630,
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/researchers-develop-an.jpg",
+          "width": 1333,
+          "height": 1000,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -928,13 +1067,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.ajc.com/pulse/meet-grace-the-robot-nurse-that-covid-created/JT55K5RIZRCCBCT4JWVES4DXRE/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-ajc-com.cdn.ampproject.org/c/s/www.ajc.com/pulse/meet-grace-the-robot-nurse-that-covid-created/JT55K5RIZRCCBCT4JWVES4DXRE/?outputType=amp",
-      "publishedDateTime": "2021-08-20T05:31:00-07:00",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-08-implantable-ai-early-treatment-illnesses.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-08-implantable-ai-early-treatment-illnesses.amp",
+      "publishedDateTime": "2021-08-20T05:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Atlanta Journal-Constitution",
-        "domain": "ajc.com",
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -944,9 +1083,7 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
+        "AI"
       ]
     },
     {
@@ -1053,153 +1190,6 @@
         "AI",
         "AI in Autos",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-the-huge-market-failure-of-ai-and-the-sequence-of-events-that-led-us-to-it-part-3.md",
-      "title": "The Huge Market Failure Of AI And The Sequence Of Events That Led Us To It (Part 3)",
-      "excerpt": "In the previous posts in this series, I described why AI models that are trained in a controlled lab setting tend to fail miserably once deployed in a real-world production environment. I also explained why AI solutions must be significantly more rugged,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/20/the-huge-market-failure-of-ai-and-the-sequence-of-events-that-led-us-to-it-part-3/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/20/the-huge-market-failure-of-ai-and-the-sequence-of-events-that-led-us-to-it-part-3/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6042363121cbb7d95b1f446f%2F0x0.jpg",
-          "width": 820,
-          "height": 546,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/20/the-huge-market-failure-of-ai-and-the-sequence-of-events-that-led-us-to-it-part-3/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/20/the-huge-market-failure-of-ai-and-the-sequence-of-events-that-led-us-to-it-part-3/amp/",
-      "publishedDateTime": "2021-08-20T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-digital-education-company-numerade-raises-26m-for-ai.md",
-      "title": "Digital Education Company Numerade Raises $26M for AI",
-      "excerpt": "The Los Angeles-based, venture-backed ed-tech startup will use the funds to build out artificial intelligence for a tutoring program, as well as its library of virtual lessons that have been used by millions worldwide.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/education/higher-ed/digital-education-company-numerade-raises-26m-for-ai",
-      "originalUrl": "https://www.govtech.com/education/higher-ed/digital-education-company-numerade-raises-26m-for-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/0f4aa74/2147483647/strip/true/crop/940x490+0+69/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F9d%2F1a%2F8221c2aac7823fec923972d30d68%2Fshutterstock-458330614.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/education/higher-ed/digital-education-company-numerade-raises-26m-for-ai?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/digital-education-company-numerade-raises-26m-for-ai?_amp=true",
-      "publishedDateTime": "2021-08-20T02:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-andrew-hawkins-of-the-verge-on-the-highlights-from-teslas-ai-day.md",
-      "title": "Andrew Hawkins of The Verge on the highlights from Tesla's AI Day",
-      "excerpt": "Andrew Hawkins, Senior Transportation Reporter at The Verge, joins Worldwide Exchange to discuss Tesla's AI Day event and the announcement of a humanoid Tesla robot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/video/2021/08/20/andrew-hawkins-of-the-verge-on-the-highlights-from-teslas-ai-day.html",
-      "originalUrl": "https://www.cnbc.com/video/2021/08/20/andrew-hawkins-of-the-verge-on-the-highlights-from-teslas-ai-day.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106930909-16294568745ED4-WEX-082021-Hawkins.jpg?v=1629456873",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-20T01:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

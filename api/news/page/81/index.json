@@ -2,6 +2,266 @@
   "page": 81,
   "value": [
     {
+      "path": "_news/2021-06-24-ai-in-government-ai-policy-panel-with-the-gsa-nsf-nasa-and-microsoft.md",
+      "title": "AI in Government: AI Policy Panel with the GSA, NSF, NASA and Microsoft",
+      "excerpt": "Special Featured Guest Speakers for the July AI in Government 'AI Policy Panel': Moderator: Justin Worrilow: Director of Data & AI, Federal Civilian at Microsoft Featured Guest Panelists: Bryan",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/calendar-event/ai-government-ai-policy-panel-gsa-nsf-nasa-microsoft/",
+      "originalUrl": "https://www.geekwire.com/calendar-event/ai-government-ai-policy-panel-gsa-nsf-nasa-microsoft/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/06/July-2021-AI-in-Gov-AI-Policy-Panel-Graphic.png",
+          "width": 600,
+          "height": 335,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-23T10:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-24-using-machine-learning-to-build-maps-that-give-smarter-driving-advice.md",
+      "title": "Using machine learning to build maps that give smarter driving advice",
+      "excerpt": "Mapping services built for the developed world fail in fast-growing regions. The solution could be an AI-based routing system fed by real-time vehicle data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2021/06/23/1026653/using-machine-learning-to-build-maps-that-give-smarter-driving-advice/",
+      "originalUrl": "https://www.technologyreview.com/2021/06/23/1026653/using-machine-learning-to-build-maps-that-give-smarter-driving-advice/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/05/Stanojevic-Episode-Page-Header.png?w=1920",
+          "width": 1920,
+          "height": 1005,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2021/06/23/1026653/using-machine-learning-to-build-maps-that-give-smarter-driving-advice/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/06/23/1026653/using-machine-learning-to-build-maps-that-give-smarter-driving-advice/amp/",
+      "publishedDateTime": "2021-06-23T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-cognitivescale-and-ascendum-to-accelerate-trusted-ai-deployments-for-healthcare-fintech-and-ecommerce.md",
+      "title": "CognitiveScale and Ascendum To Accelerate Trusted AI Deployments for Healthcare, Fintech and eCommerce",
+      "excerpt": "CognitiveScale will provide its trusted AI software while Ascendum will provide the services and certified ... IBM Watson, M12 (Microsoft Ventures), and USAA. To learn more, visit ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.retaildive.com/press-release/20210623-cognitivescale-and-ascendum-to-accelerate-trusted-ai-deployments-for-health/",
+      "originalUrl": "https://www.retaildive.com/press-release/20210623-cognitivescale-and-ascendum-to-accelerate-trusted-ai-deployments-for-health/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-23T09:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Retail Dive",
+        "domain": "retaildive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-anyvision-ai-facial-recognition-software-available-on-ambarella-chips.md",
+      "title": "AnyVision AI facial recognition software available on Ambarella chips",
+      "excerpt": "The software will help extract actionable data from video feeds for biometric identification capabilities such as facial recognition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.biometricupdate.com/202106/anyvision-ai-facial-recognition-software-available-on-ambarella-chips",
+      "originalUrl": "https://www.biometricupdate.com/202106/anyvision-ai-facial-recognition-software-available-on-ambarella-chips",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/05/25183040/cctv-security-systems.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-23T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-ecs-demonstrates-seven-years-of-excellence-as-aws-managed-service-provider.md",
+      "title": "ECS Demonstrates Seven Years of Excellence as AWS Managed Service Provider",
+      "excerpt": "ECS, a leader in cloud, cybersecurity, digital transformation, engineering, and Amazon Web Services (AWS) solutions has been named an AWS Managed Service Provider (MSP) Partner for the seventh ear in a row,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-ecs-demonstrates-seven-years-excellence-as-aws-managed-/2021/06/23/9396484.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-ecs-demonstrates-seven-years-excellence-as-aws-managed-/2021/06/23/9396484.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-23T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-internal-whistleblowers-might-just-blow-the-lid-off-some-quite-dicey-ai-self-driving-cars.md",
+      "title": "Internal Whistleblowers Might Just Blow The Lid Off Some Quite Dicey AI Self-Driving Cars",
+      "excerpt": "You can expect that there will be whistleblowers about self-driving cars, something that might seem surprising and altogether unexpected, but it is going to happen nonetheless. Here's why.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/23/internal-whistleblowers-might-just-blow-the-lid-off-some-quite-dicey-ai-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/23/internal-whistleblowers-might-just-blow-the-lid-off-some-quite-dicey-ai-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60cd37770b24e71b5d37d80b%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/23/internal-whistleblowers-might-just-blow-the-lid-off-some-quite-dicey-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/23/internal-whistleblowers-might-just-blow-the-lid-off-some-quite-dicey-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2021-06-23T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-imaginary-and-wiselywise-partner-for-artificial-intelligence-training.md",
       "title": "IMAGINARY and WiselyWise partner for Artificial Intelligence Training",
       "excerpt": "Artificial Intelligence is impacting society in multiple ways and requires new Skills to manage the impact IMAGINARY an award winning non profit from Germany and WiselyWise a leading Global EdTech from Singapore today announced their partnership",
@@ -863,274 +1123,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-tyan-to-bring-ai-and-hpc-optimized-server-platforms-at-isc-2021.md",
-      "title": "TYAN to Bring AI and HPC Optimized Server Platforms at ISC 2021",
-      "excerpt": "TYAN exhibits its latest AI and HPC server platforms for data centers and enterprises at ISC21 Digital from June 24th to July 2nd",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210623005008/en/TYAN-to-Bring-AI-and-HPC-Optimized-Server-Platforms-at-ISC-2021",
-      "originalUrl": "https://www.businesswire.com/news/home/20210623005008/en/TYAN-to-Bring-AI-and-HPC-Optimized-Server-Platforms-at-ISC-2021",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-23T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash.md",
-      "title": "DeepMind scientist calls for ethical AI as Google faces ongoing backlash",
-      "excerpt": "At the Lesbians Who Tech Pride Summit, DeepMind's Raia Hadsell discussed the duty of researchers to develop AI responsibly.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/22/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash/",
-      "originalUrl": "https://venturebeat.com/2021/06/22/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/AI.GettyImages-817338718.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/22/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/22/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash/amp/",
-      "publishedDateTime": "2021-06-22T23:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-over-20-civil-rights-groups-demand-amazon-divest-surveillance-technology-end-relationships-with-police.md",
-      "title": "Over 20 civil rights groups demand Amazon divest surveillance technology, end relationships with police",
-      "excerpt": "Amazon's Rekognition tool has received scrutiny from activists for several years for misidentifying minority individuals as police suspects. Amazon Web Services – the company's cloud-computing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxbusiness.com/politics/20-civil-rights-groups-amazon-surveillance-police",
-      "originalUrl": "https://www.foxbusiness.com/politics/20-civil-rights-groups-amazon-surveillance-police",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://amp.spot.im/loader.png",
-          "width": 375,
-          "height": 815,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxbusiness.com/politics/20-civil-rights-groups-amazon-surveillance-police.amp",
-      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/politics/20-civil-rights-groups-amazon-surveillance-police.amp",
-      "publishedDateTime": "2021-06-22T22:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox Business",
-        "domain": "foxbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-deepmind-wants-to-use-its-ai-to-cure-rare-diseases.md",
-      "title": "DeepMind wants to use its AI to cure rare diseases",
-      "excerpt": "DeepMind solved one of biology's biggest challenges. Now it's working on using its AI to find drugs to target rare diseases",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.co.uk/article/deepmind-alphafold-protein-diseases?mbid=social_twitter",
-      "originalUrl": "https://www.wired.co.uk/article/deepmind-alphafold-protein-diseases?mbid=social_twitter",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.co.uk/photos/60d22392cbf316665cadeb09/16:9/w_1280,c_limit/GettyImages-1199508481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-22T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired UK",
-        "domain": "wired.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-salesforce-expands-partnership-with-aws.md",
-      "title": "Salesforce Expands Partnership with AWS",
-      "excerpt": "AWS and Salesforce are helping developers build customer apps connecting data and workflows across their platforms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=147639",
-      "originalUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=147639",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dzceab466r34n.cloudfront.net/Images/IssueImages/138905-0721_SuperchargingCC_480x610-ORG.png",
-          "width": 480,
-          "height": 610,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-22T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Destination CRM",
-        "domain": "destinationcrm.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-self-driving-startup-weride-deepens-ties-with-nissan-raises-310-mln.md",
-      "title": "Self-driving startup WeRide deepens ties with Nissan, raises $310 mln",
-      "excerpt": "WeRide, a China-based autonomous driving startup, said on Wednesday that it would deepen development with Nissan Motor (7201.T) on autonomous driving technology for the China market as it raised $310 million at a $3.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/world/china/self-driving-startup-weride-deepens-ties-with-nissan-raises-310-mln-2021-06-23/",
-      "originalUrl": "https://www.reuters.com/world/china/self-driving-startup-weride-deepens-ties-with-nissan-raises-310-mln-2021-06-23/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/PQEZhlnyJcMI6mHQvEbGTKewuZo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QAA7N6S7OFLDNPSGWINOQW3PWY.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-22T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

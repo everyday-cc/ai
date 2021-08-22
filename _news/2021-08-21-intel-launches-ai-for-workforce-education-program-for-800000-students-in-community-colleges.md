@@ -9,8 +9,8 @@ ampWebUrl: "https://iblnews.org/intel-launches-ai-for-workforce-education-progra
 cdnAmpWebUrl: "https://iblnews-org.cdn.ampproject.org/c/s/iblnews.org/intel-launches-ai-for-workforce-education-program-for-800000-students-in-community-colleges/amp/"
 type: article
 quality: 65
-heat: -1
-published: false
+heat: 85
+published: true
 
 provider:
   name: IBL News
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel works with community colleges to address AI skills gap"
-    excerpt: "US have partnered with Intel to teach students artificial intelligence. The company hopes to reach underserved communities."
-    publishedDateTime: 2021-08-17T21:08:00Z
-    webUrl: "https://www.techrepublic.com/article/intel-works-with-community-colleges-to-address-ai-skills-gap/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/intel-works-with-community-colleges-to-address-ai-skills-gap/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/intel-works-with-community-colleges-to-address-ai-skills-gap/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 87
-    images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2021/08/17/f9c42acf-638f-415a-9474-c78835cc146c/thumbnail/1200x675/6b32c1f9ecea1fc88804a63fe96f1f3c/20210812-aiprogram-karen.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "LSC : Lone Star College, Intel Team Up To Offer Artificial Intelligence Education"
     excerpt: "The demand for artificial intelligence (AI) skills is rapidly growing and developing a skilled workforce will be critical for the U.S. t"
     publishedDateTime: 2021-08-19T19:19:00Z
@@ -58,33 +42,21 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Intel’s GPU ambition comes into fruition with Arc; Aims to tackle DLSS and FSR with XeSS"
-    excerpt: "Intel has officially unveiled its brand new GPU division called Intel Arc that will be in charge of developing GPUs for laptops and desktops."
-    publishedDateTime: 2021-08-20T09:39:00Z
-    webUrl: "https://www.tech-critter.com/intel-arc-gpu-xess-technology/"
+  - title: "Artificial Intelligence Market Is Booming Worldwide | IBM, Intel, Nuance Communications, IFLYTEK"
+    excerpt: "The Artificial Intelligence Market research report includes an in-sight study of the key Global Artificial Intelligence Market prominent players along with the company profiles and planning adopted by them."
+    publishedDateTime: 2021-08-19T05:15:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-market-is-booming-worldwide-ibm-intel-nuance-communications-iflytek/"
+    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-market-is-booming-worldwide-ibm-intel-nuance-communications-iflytek/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-market-is-booming-worldwide-ibm-intel-nuance-communications-iflytek/?amp=1"
     type: article
     provider:
-      name: tech-critter.com
-      domain: tech-critter.com
-    quality: 45
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 44
     images:
-      - url: "https://i2.wp.com/www.tech-critter.com/wp-content/uploads/2021/08/image003.jpg"
-        width: 1300
-        height: 731
-        isCached: true
-  - title: "Intel debuts XeSS AI upscaling technology to rival DLSS and FSR, compatible with all GPUs"
-    excerpt: "Known as Intel XeSS (Xe Super Sampling: a reference to the Xe architecture in their new graphics cards) and just like AMD the technology will be open source to all, meaning it will work on any GPU regardless of brand like Nvidia,"
-    publishedDateTime: 2021-08-21T10:30:00Z
-    webUrl: "https://www.game-debate.com/news/31134/intel-debuts-xess-ai-upscaling-technology-to-rival-dlss-and-fsr-compatible-with-all-gpus"
-    type: article
-    provider:
-      name: Game-Debate
-      domain: game-debate.com
-    quality: 45
-    images:
-      - url: "https://media.game-debate.com/images/news/31134/intel-debuts-xess-ai-upscaling-technology-to-rival-dlss-and-fsr-compatible-with-all-gpus.jpg"
-        width: 1350
-        height: 450
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/Global-Artificial-Intelligence-Market-Including-Key-Players-Market-Share.jpg"
+        width: 600
+        height: 400
         isCached: true
 
 secured: "5g2NnUBheI/awJmOqvRzlsDdu2439t6SmRg4ge19EqnOUyRL/W6KbYMZ9oHPGpO28+TuoW5rB8vs7WP8H0iY7Vgdnku/tZTl+JtrQaqjbrEamtrJ00vbVr/v5n3pu/AxPnU8Om6QCLqi7NyNVT2SBXr5msDaCeCtwimZTOSw33OcvR2jKL6bD49LtWErRqS0EMkBBjRTLJBB2929/F/SUIRBkq2Qc2KsGK+GLYLaIjqyGA7LWDd2/C0eMOoFmSrSvuNUpEz3XQJGwSDy+MNE3lCK0vCSnyBm2ie0x5FjYkPFlx98XOcU5AMhYs4pslgK+Uj103d7wC1zufT3/9lrMkmS9uhn9JMOQC/LyWSTZXQ2r0Tv8mZ5ZcmTY8csQcj4s6Yz/AoHIghfW3wlqPVLyI8LGRUGEGEtEX86ZTPHqhv2GiSBybaQxQoLDtqWtZcQrsWQI4DszYAYaZBiF8zxW22JQqIvyC4QQzZdID4bJ6wgISqsOgvnfJ6rZ4JIBoBiPNpvLou8P6G6N5Y28mqLAQ==;okqZigQXc41lWysZ+mmSHQ=="

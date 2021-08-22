@@ -85,17 +85,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Fashion Market to See Huge Growth by 2026 | Google, AWS, Microsoft, Facebook"
-    excerpt: "The latest study released on the Global AI in Fashion Market by AMA Research evaluates market size, trend, and forecast to 2026. The AI in Fashion market study covers significant research data and proofs to be a handy resource document for managers,"
-    publishedDateTime: 2021-08-17T21:33:00Z
-    webUrl: "https://manometcurrent.com/ai-in-fashion-market-to-see-huge-growth-by-2026-google-aws-microsoft-facebook/"
-    ampWebUrl: "https://manometcurrent.com/ai-in-fashion-market-to-see-huge-growth-by-2026-google-aws-microsoft-facebook/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/ai-in-fashion-market-to-see-huge-growth-by-2026-google-aws-microsoft-facebook/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 67
   - title: "Deep Learning System Market Demand, Size, Share, Scope & Forecast To 2027"
     excerpt: "The global deep learning system market size is expected to reach USD 93.34 Billion at a steady CAGR of 39.1% in 2028, according to latest analysis by Emergen Research. The deep learning system market is witnessing increased growth due to improvement in computing power and reducing hardware cost."
     publishedDateTime: 2021-08-18T10:16:00Z

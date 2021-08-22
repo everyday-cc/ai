@@ -42,17 +42,6 @@ related:
         width: 599
         height: 400
         isCached: true
-  - title: "C3.ai, Inc. (AI) Dips More Than Broader Markets: What You Should Know"
-    excerpt: "C 3.ai, Inc. (AI) closed the most recent trading day at $45.94, moving -1.46% from the previous trading session. This change lagged the S&P 500's daily loss of 0.71%. Coming into today, shares of the company had lost 8."
-    publishedDateTime: 2021-08-17T21:45:00Z
-    webUrl: "https://www.nasdaq.com/articles/c3.ai-inc.-ai-dips-more-than-broader-markets%3A-what-you-should-know-2021-08-17"
-    ampWebUrl: "https://www.nasdaq.com/articles/c3.ai-inc.-ai-dips-more-than-broader-markets%3A-what-you-should-know-2021-08-17?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/c3.ai-inc.-ai-dips-more-than-broader-markets%3A-what-you-should-know-2021-08-17?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 67
   - title: "The Artistic Side of Artificial Intelligence (AI)"
     excerpt: "Move over selfie, artificial intelligence (AI) might just be creating your world-class portrait. Meet Patrick Tresset, a London-based artist. His art practice follows two main paths. On one hand, Tresset presents theatrical installations in which robotic agents are actors."
     publishedDateTime: 2021-08-21T03:03:00Z

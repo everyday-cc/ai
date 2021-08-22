@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/08/19/companies-betting-on-data-must-val
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/19/companies-betting-on-data-must-value-people-as-much-as-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1024
     height: 768
     isCached: true
-
-related:
-  - title: "A warning on artificial intelligence"
-    excerpt: "Artificial intelligence has insinuated its way into our daily lives, whether we are aware. From opening our smartphones with facial recognition, to travel and commuting assistance, to personalizing our feeds on social media,"
-    publishedDateTime: 2021-08-17T21:40:00Z
-    webUrl: "https://www.startribune.com/a-warning-on-artificial-intelligence/600088703/"
-    type: article
-    provider:
-      name: StarTribune
-      domain: startribune.com
-    quality: 37
-    images:
-      - url: "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1629214656"
-        width: 1680
-        height: 876
-        isCached: true
 
 secured: "oQQpzioZ4TuXUDRRXaualt91UuoZSsZNVKSBsZcOFJVue8j6NdU71sTk7e5j5MxKSmgGw/o/uEOUszrFo52oCCZfstq9WySit2dgQxh4PxT//JAT4czL0tQLf07qsEY7i200c5HTUu03k3k5o6abDFBQysmosSb1KPtSc8mVfcY+rKL+KqwQyetkCkzaE2QWxf/FVV/Khe8FfK1MKPFFvA46un4ymYZtVMHRJ+2y0fFaC9qkuRCd7YGbuhvLZ4A6ESazjozIuY6+OzY65UYp0f6owwMTq5bxcSSm8P3DSo2WpFLxg3ayoXDxnU1oPrs8ZUF0+/Sow9xu2Vpebh1Jq+j+uwgx32ju09FfJ2C7/xASGJzRFoMWH979Z/YtaG0eeFyvdqp0ueWpY58JtkUKyHN5xfmeTqhyGb409PCNyULhF2g5uqiB6sAysoB2vnMKSJ7CT/XUdJoFfNVf37ah+LJcOrB7zQPt33ilI9+77NzUGk2UwLfvJTBUuxXW3D2wQXcuhhITmKUadVt0cePj8g==;oigcaCWONf1OHoiIwUBX/Q=="
 ---

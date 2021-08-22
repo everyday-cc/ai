@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-06-17-tractable-hits-1-billion-valuation-by-using-ai-to-see-auto-damage-as-computer-vision-matures.md",
+      "title": "Tractable hits $1 billion valuation by using AI to 'see' auto damage, as computer vision matures",
+      "excerpt": "Tractable uses artificial intelligence to help insurers assess car damage and estimate repair costs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/computer-vision-startup-tractable-1-billion-valuation-2021-6",
+      "originalUrl": "https://www.businessinsider.com/computer-vision-startup-tractable-1-billion-valuation-2021-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6082c37e4becb800190f6c58?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-17T03:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-17-tractable-becomes-worlds-first-computer-vision-unicorn-for-financial-services.md",
       "title": "Tractable becomes world's first computer vision unicorn for financial services",
       "excerpt": "The round doubles the total raised by Tractable from $55M to $115M and values the company at $1B – making it the world's first computer vision 'unicorn' for financial services. When drivers get into an accident,",

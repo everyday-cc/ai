@@ -19,20 +19,24 @@ topics:
   - AI
 
 related:
-  - title: "CACI Announces ‘Competing Revolutions in Military Affairs: Artificial Intelligence, Machine Learning, and Information Age Conflict’ Symposium"
-    excerpt: "CACI International Inc ( NYSE: CACI) announced today that registration is now open for the 14th symposium in the Asymmetric Threat Symposium series on national security challenges, titled “Competing Revolutions in Military Affairs: Artificial Intelligence,"
-    publishedDateTime: 2021-08-19T15:02:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-military-affairs-artificial-intelligence-924284f0d4774c54954f1bc67ea461b3"
+  - title: "Artificial Intelligence Technology Solutions Announces Details of Strategic Relationship with Ghost Robotics Corporation"
+    excerpt: "Integrating our QUGVs into their offering will certainly open doors and bring new opportunities for both companies” -Artificial Intelligence Technology Solutions ... it has signed an agreement with Ghost Robotics Corporation (\"Ghost\"), outlining the ..."
+    publishedDateTime: 2021-08-20T12:43:00Z
+    webUrl: "https://www.roboticstomorrow.com/news/2021/08/20/artificial-intelligence-technology-solutions-announces-details-of-strategic-relationship-with-ghost-robotics-corporation/17357/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 34
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 41
+  - title: "Artificial Intelligence Technology Solutions Announces Details of Strategic Relationship with Ghost Robotics Corporation"
+    excerpt: "Forward-looking statements involve risks and uncertainties that could cause actual results to differ materially from those expressed or implied by the statements, including, but not limited to, the following: the ability of Artificial Intelligence ..."
+    publishedDateTime: 2021-08-19T13:08:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-technology-solutions-announces-details-strategic-relatio-/2021/08/19/9434301.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 39
 
 secured: "uoHw25TrY0DRNSGN1tJbWHZVaADdykek6OJl0THXsTWq6K35SliHrZ2OIHZmriob9QCEDdDMkb9Nn7vmuIhELu9RwY9oQs1RmsPlBn3tTBEMDjsr5U8rXqDaa8brqToowUjJyoevoALRlg19dJrGwMOqgZJkIxXJJCw6CbpmuRk0tm3WEw8oVXr7rGPQ7qlfNRid1pgPow/rZhv7C8bJxyfiTF0lRMVNIk/iUWieD0pSXsbX7jdi6jUq8cRxmCQid+u3KC60L0xwPyAVRxPholdEGX6B9W9QTl5T9hI/z/Ot5lRqffi8dVyob+hNJSgk98dy/VUj4PeMfORh7/yfKou92vV5HG/W88ZzQHIbvug=;C8Vi4Zt3jap0GcId/ZkaNg=="
 ---

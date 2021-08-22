@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel works with community colleges to address AI skills gap"
-    excerpt: "US have partnered with Intel to teach students artificial intelligence. The company hopes to reach underserved communities."
-    publishedDateTime: 2021-08-17T21:08:00Z
-    webUrl: "https://www.techrepublic.com/article/intel-works-with-community-colleges-to-address-ai-skills-gap/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/intel-works-with-community-colleges-to-address-ai-skills-gap/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/intel-works-with-community-colleges-to-address-ai-skills-gap/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 87
-    images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2021/08/17/f9c42acf-638f-415a-9474-c78835cc146c/thumbnail/1200x675/6b32c1f9ecea1fc88804a63fe96f1f3c/20210812-aiprogram-karen.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Intel Launches AI for Workforce Education Program for 800,000 Students in Community Colleges"
     excerpt: "Intel (Nasdaq: INTC) announced an expansion of its AI for Workforce Program to 18 community colleges across 11 U.S. states, with a total of 800,000 students. The company plans to expand to 50 more community and vocational colleges in 2022."
     publishedDateTime: 2021-08-21T02:00:00Z
@@ -57,33 +41,21 @@ related:
         width: 860
         height: 505
         isCached: true
-  - title: "Intel’s GPU ambition comes into fruition with Arc; Aims to tackle DLSS and FSR with XeSS"
-    excerpt: "Intel has officially unveiled its brand new GPU division called Intel Arc that will be in charge of developing GPUs for laptops and desktops."
-    publishedDateTime: 2021-08-20T09:39:00Z
-    webUrl: "https://www.tech-critter.com/intel-arc-gpu-xess-technology/"
+  - title: "Artificial Intelligence Market Is Booming Worldwide | IBM, Intel, Nuance Communications, IFLYTEK"
+    excerpt: "The Artificial Intelligence Market research report includes an in-sight study of the key Global Artificial Intelligence Market prominent players along with the company profiles and planning adopted by them."
+    publishedDateTime: 2021-08-19T05:15:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-market-is-booming-worldwide-ibm-intel-nuance-communications-iflytek/"
+    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-market-is-booming-worldwide-ibm-intel-nuance-communications-iflytek/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-market-is-booming-worldwide-ibm-intel-nuance-communications-iflytek/?amp=1"
     type: article
     provider:
-      name: tech-critter.com
-      domain: tech-critter.com
-    quality: 45
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 44
     images:
-      - url: "https://i2.wp.com/www.tech-critter.com/wp-content/uploads/2021/08/image003.jpg"
-        width: 1300
-        height: 731
-        isCached: true
-  - title: "Intel debuts XeSS AI upscaling technology to rival DLSS and FSR, compatible with all GPUs"
-    excerpt: "Known as Intel XeSS (Xe Super Sampling: a reference to the Xe architecture in their new graphics cards) and just like AMD the technology will be open source to all, meaning it will work on any GPU regardless of brand like Nvidia,"
-    publishedDateTime: 2021-08-21T10:30:00Z
-    webUrl: "https://www.game-debate.com/news/31134/intel-debuts-xess-ai-upscaling-technology-to-rival-dlss-and-fsr-compatible-with-all-gpus"
-    type: article
-    provider:
-      name: Game-Debate
-      domain: game-debate.com
-    quality: 45
-    images:
-      - url: "https://media.game-debate.com/images/news/31134/intel-debuts-xess-ai-upscaling-technology-to-rival-dlss-and-fsr-compatible-with-all-gpus.jpg"
-        width: 1350
-        height: 450
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/Global-Artificial-Intelligence-Market-Including-Key-Players-Market-Share.jpg"
+        width: 600
+        height: 400
         isCached: true
 
 secured: "/hlEKTEQr2BDC+K5p4AHvp75lC2lYZGoSm21U9/q+1qTQiEfrZBzUnqDUsnfhUqwQrykckpPmktWy/Bs7wTGFtgT/+eC4OQMwGvjBVW4BV2SREtgKf2lADukfHTAICnRlrHhgYbgvjuRy0RkEEBS/i+6o0YEju6Jan4v4b1C0Lt3bSQk8j/+IJdPccW7l7x6bbtVhvAQ0Spiqos19J8YHw+qMcSMHXNw0ZIg2G+yGG5tKLNIjl+y4xghj46X7kbL0/1Xg6LuPc5u+91/R9qQNADSjOCj1rtu+nnK7UDmj6hlTwYkGvtXragLkFcQKsOriNuLoD01iYTOwej8u19JCtMGmyCN9Djq+5hPmdCdSMk=;iMQdjxd0yeqcmuVZRFOJ8Q=="

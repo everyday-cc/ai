@@ -25,51 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Intel works with community colleges to address AI skills gap"
-    excerpt: "US have partnered with Intel to teach students artificial intelligence. The company hopes to reach underserved communities."
-    publishedDateTime: 2021-08-17T21:08:00Z
-    webUrl: "https://www.techrepublic.com/article/intel-works-with-community-colleges-to-address-ai-skills-gap/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/intel-works-with-community-colleges-to-address-ai-skills-gap/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/intel-works-with-community-colleges-to-address-ai-skills-gap/"
+  - title: "Intel XeSS is Alchemist's answer to DLSS and FSR, and can work on anyone's GPU"
+    excerpt: "Intel has announced that its upcoming lineup of gaming graphics cards, now known as Intel Alchemist, will support a frame rate boosting technology called (XeSS). That bit you might have known already,"
+    publishedDateTime: 2021-08-19T13:01:00Z
+    webUrl: "https://www.pcgamer.com/intel-xess-xe-super-sampling/"
+    ampWebUrl: "https://www.pcgamer.com/amp/intel-xess-xe-super-sampling/"
+    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/intel-xess-xe-super-sampling/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 87
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 55
     images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2021/08/17/f9c42acf-638f-415a-9474-c78835cc146c/thumbnail/1200x675/6b32c1f9ecea1fc88804a63fe96f1f3c/20210812-aiprogram-karen.jpg"
+      - url: "https://cdn.mos.cms.futurecdn.net/8fgPWdA2DDMJtR4gfRM8ef-1200-80.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Intel Launches AI for Workforce Education Program for 800,000 Students in Community Colleges"
-    excerpt: "Intel (Nasdaq: INTC) announced an expansion of its AI for Workforce Program to 18 community colleges across 11 U.S. states, with a total of 800,000 students. The company plans to expand to 50 more community and vocational colleges in 2022."
-    publishedDateTime: 2021-08-21T02:00:00Z
-    webUrl: "https://iblnews.org/intel-launches-ai-for-workforce-education-program-for-800000-students-in-community-colleges/"
-    ampWebUrl: "https://iblnews.org/intel-launches-ai-for-workforce-education-program-for-800000-students-in-community-colleges/amp/"
-    cdnAmpWebUrl: "https://iblnews-org.cdn.ampproject.org/c/s/iblnews.org/intel-launches-ai-for-workforce-education-program-for-800000-students-in-community-colleges/amp/"
-    type: article
-    provider:
-      name: IBL News
-      domain: iblnews.org
-    quality: 65
-    images:
-      - url: "https://iblnews.org/wp-content/uploads/2021/08/Intel-AI-Colleges-2.jpg"
-        width: 860
-        height: 505
-        isCached: true
-  - title: "LSC : Lone Star College, Intel Team Up To Offer Artificial Intelligence Education"
-    excerpt: "The demand for artificial intelligence (AI) skills is rapidly growing and developing a skilled workforce will be critical for the U.S. t"
-    publishedDateTime: 2021-08-19T19:19:00Z
-    webUrl: "https://patch.com/texas/pasadena-tx/lsc-lone-star-college-intel-team-offer-artificial-intelligence-education"
-    type: article
-    provider:
-      name: Patch
-      domain: patch.com
-    quality: 49
-    images:
-      - url: "https://patch.com/img/cdn/assets/layout/logo-patch-800x600.png"
-        width: 800
-        height: 600
         isCached: true
   - title: "Intel’s GPU ambition comes into fruition with Arc; Aims to tackle DLSS and FSR with XeSS"
     excerpt: "Intel has officially unveiled its brand new GPU division called Intel Arc that will be in charge of developing GPUs for laptops and desktops."

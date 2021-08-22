@@ -85,17 +85,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Fashion Market to See Huge Growth by 2026 | Google, AWS, Microsoft, Facebook"
-    excerpt: "The latest study released on the Global AI in Fashion Market by AMA Research evaluates market size, trend, and forecast to 2026. The AI in Fashion market study covers significant research data and proofs to be a handy resource document for managers,"
-    publishedDateTime: 2021-08-17T21:33:00Z
-    webUrl: "https://manometcurrent.com/ai-in-fashion-market-to-see-huge-growth-by-2026-google-aws-microsoft-facebook/"
-    ampWebUrl: "https://manometcurrent.com/ai-in-fashion-market-to-see-huge-growth-by-2026-google-aws-microsoft-facebook/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/ai-in-fashion-market-to-see-huge-growth-by-2026-google-aws-microsoft-facebook/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 67
   - title: "Radiotherapy Market Maintains Steady Pace of Growth- Projected to reach USD 7.7 billion by 2027"
     excerpt: "A recent study conducted by the strategic consulting and market research firm BlueWeave Consulting revealed that the global radiotherapy market was worth USD 5.7 billion in the year 2020. The market is estimated to grow at a CAGR of 4."
     publishedDateTime: 2021-08-19T09:14:00Z
@@ -309,6 +298,6 @@ related:
       domain: reportsnreports.com
     quality: 0
 
-secured: "13q28X3uNgZdmBcGUXTbZH+opBAHoOl9DLiEZw2oGFRrCee48JPIfjpHnLyCGpf5DT8dD0nyK50SprFi5BvEDieGUNFWGX7ttAhdGh/EfF6kJ12fO5RelQ9MgtAdq652po70tsW1TgOf4Mv2khsf9oEcEceGJE8VZtlDtfxLjrTfLoT/Yn69ueR6EwiQq7CkdmeldaZXmOwtQgLdQOZ5A3tWbyP0kGyyHLgm2HEyJGaFIK8Eegw8mBBjXr+7lHTPlG6QzT9tr16sGUQGP+J0chq6auXVMKnDHtWc52wBOinqZJq45chthJfu6RMcHMD1t2JGds+FJKuTak593jIpPiNHF/6CcwpI7DqJTtx/PUU=;FsOEOP+juq0bF0QXOx2yHw=="
+secured: "M0Ckgp/TtnQcLvE6PJTxaApbKihQV7ZBIAdulARfSS3WnPPGozDms8uRYQ74+hiOmlLN4+7AlsLtfZwygG0/F71H6Auju3YTfaKKBgs2kuqepL6aYx3tzq8059jeFb3r69VV8bAOnRS8a/1sR8GHO/RYiGrdM8EBDUEnnOyk0+MO6lubSmMTlyIPo9bcA3W0OKlSNVb4mGkcpQbvv3Kw+xkOvprIdcWCaUHrwuUk6NcdPXN3OfIsCFjfJJMWuRSqU6gUMrm5N+8ydUySCAGmzfAuX8Kt6p1eMWGEYZ44FxYzDS/7BtVJobYlrhIoYk6JORK8PQX6FBgoKIj8CfLgwKsBKJ1c45ldazzeo66CmFmCuBt2EwIt21La+Y644IHTc+uzAiL2sXuEAmvca/QZSLvq7oLvvlv1pHZCgpTvjge9u5LdgDureb7bVTbDz3DlTtnOap/SSuyoXhgBpqAlHL9vNYnllv2fFlI4UpdRzC1qZoG9HKFp1WY0CRLdM6sX8hv0JkjCS51gO4i55g53LA==;AliZUj1K4KtGmc4/qLITaQ=="
 ---
 
