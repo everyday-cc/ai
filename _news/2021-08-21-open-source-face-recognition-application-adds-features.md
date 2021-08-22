@@ -41,22 +41,6 @@ related:
         width: 750
         height: 350
         isCached: true
-  - title: "Google adds facial expression recognition to Android Accessibility Suite beta version"
-    excerpt: "A team at XDA Developers has discovered that Google has added facial expression recognition to the beta version of the Android Accessibility Suite, which came with the beta version of Android 12. The new feature is called collectively Camera Switches."
-    publishedDateTime: 2021-08-17T14:00:00Z
-    webUrl: "https://techxplore.com/news/2021-08-google-facial-recognition-android-accessibility.html"
-    ampWebUrl: "https://techxplore.com/news/2021-08-google-facial-recognition-android-accessibility.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-google-facial-recognition-android-accessibility.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 39
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/android-phone-2.jpg"
-        width: 2880
-        height: 1920
-        isCached: true
   - title: "Effective and Robust Physical-World Attacks on Deep Learning Face Recognition Systems"
     excerpt: "Deep neural networks (DNNs) have been increasingly used in face recognition (FR) systems. Recent studies, however, show that DNNs are vulnerable to adversarial examples, which potentially mislead DNN-based FR systems in the physical world."
     publishedDateTime: 2021-08-21T17:12:00Z

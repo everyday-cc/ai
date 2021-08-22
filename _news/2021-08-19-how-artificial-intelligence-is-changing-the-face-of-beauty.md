@@ -54,6 +54,20 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "How AI is Revolutionizing the Freight Industry"
+    excerpt: "In this contributed article, Oleg Yanchyk, CIO of Sleek Technologies, discusses how AI is shaking up the logistics space and what could lay on the horizon. From making business intelligence decisions more agile to ensuring data is clean and ready to be analyzed,"
+    publishedDateTime: 2021-08-20T13:00:00Z
+    webUrl: "https://insidebigdata.com/2021/08/20/how-ai-is-revolutionizing-the-freight-industry/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 37
+    images:
+      - url: "https://insidebigdata.com/wp-content/uploads/2018/09/artificial-intelligence-3382507_640.jpg"
+        width: 640
+        height: 426
+        isCached: true
 
 secured: "oMtBKbiTeVitc7SfFFsMJ1teezjCGLO3ScKHYSyS//gBmCwqY8N8MtN0f1C+rXEpJ14ZS1V7HsO0Pxn03+O0W4bKd6OmQ5RP0PAtdX949BAVUUg5p+bvVEnKkTd+FFZ/Pt9/gXRJy1Pz3jHuSf4wMcLoCqDDduJ/l3nbZQki7F4EWFAtls8BD/owYANScJP7xyDF5D/6YUBCNKleEEEiPJpwowb+PoDnnsNs/AudbiPMMat6TMRqNSu2bT684JT8cu3rN1r1b+x+T/Tezb3n3eaQlN8Fd0T2t1bx711yoWB7UqAPizHWmZXje2KGFbo5jASZ/+YiNVxwAgfZCV/6OvxzCMQ/z875ukn03FwWg1kSIfbk3QJinsbH/0pbt/mpwro1IKq6RjC27M726X6/2+yZ89RuSqrQOoNE3bKjuz8L/MNe9LAXD6moEYB0AssHcOmJAAjC6fmiIBoUvV9AuEg0a18JDeaM48KQoZnaotyq64tzls3GSi57+z36gA2R8GZjM2OP9tNt2RLMlxWxRg==;OL8iKGpzDrfuETaWt3z/8w=="
 ---

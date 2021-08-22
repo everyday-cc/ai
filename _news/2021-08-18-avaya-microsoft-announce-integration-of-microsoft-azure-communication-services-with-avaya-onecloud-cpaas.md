@@ -9,8 +9,8 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/GxwQD71ZJBNMlPVo"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/GxwQD71ZJBNMlPVo"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: ITWeb
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Avaya integrates Microsoft Azure capabilities into its OneCloud CPaaS"
-    excerpt: "Communications technology firm Avaya (AVYA) has announced the integration of Microsoft Azure (MSFT) voice, video, chat and SMS capabilities into its OneCloud Communications Platform"
-    publishedDateTime: 2021-08-17T13:25:00Z
-    webUrl: "https://seekingalpha.com/news/3731423-avaya-integrates-microsoft-azure-capabilities-into-its-onecloud-cpaas"
-    ampWebUrl: "https://seekingalpha.com/amp/news/3731423-avaya-integrates-microsoft-azure-capabilities-into-its-onecloud-cpaas"
-    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3731423-avaya-integrates-microsoft-azure-capabilities-into-its-onecloud-cpaas"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 74
-    images:
-      - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
-        width: 1200
-        height: 1200
-        isCached: true
   - title: "Integration of Microsoft Azure Communication Services with Avaya OneCloud CPaaS"
     excerpt: "Avaya has announced a strategic relationship with Microsoft to create a powerful set of joint cloud communications solutions to define the future of customer and employee experience.  Benefitting from the complementary strengths of both companies,"
     publishedDateTime: 2021-08-17T15:47:00Z
@@ -56,20 +40,6 @@ related:
       - url: "https://www.totaltele.com/res/image/tech%20stuff/the%20score%20board.jpg"
         width: 500
         height: 500
-        isCached: true
-  - title: "Microsoft unwraps top secret cloud"
-    excerpt: "Microsoft announced its top secret, air-gapped Azure cloud has received authorization to operate and are 'generally available' for national security workloads."
-    publishedDateTime: 2021-08-17T20:06:00Z
-    webUrl: "https://gcn.com/articles/2021/08/17/microsoft-top-secret-cloud.aspx"
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
-    quality: 39
-    images:
-      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Cloud/topsecret_cloud.jpg"
-        width: 760
-        height: 368
         isCached: true
   - title: "Avaya and Microsoft Announce Integration of Microsoft Azure Communication Services with Avaya OneCloud CPaaS"
     excerpt: "Avaya announced a strategic relationship with Microsoft to create a powerful set of joint cloud communications solutions to define the future of customer and em"

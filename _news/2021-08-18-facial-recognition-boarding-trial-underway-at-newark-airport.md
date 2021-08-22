@@ -9,7 +9,7 @@ ampWebUrl: "https://simpleflying.com/newark-airport-facial-recognition/amp/"
 cdnAmpWebUrl: "https://simpleflying-com.cdn.ampproject.org/c/s/simpleflying.com/newark-airport-facial-recognition/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://media.nbcnewyork.com/2019/09/newark-airport-generic-aerials-file-FEB-2017-00011624_WNBC_0000000205.jpg?quality=85&strip=all&fit=1200%2C675"
         width: 1200
         height: 675
-        isCached: true
-  - title: "The great misunderstanding at the core of facial recognition"
-    excerpt: "Numerous authors have sketched out the social, political, and ethical implications of facial recognition technology. These important critiques highlight the consequences of false positive identifications,"
-    publishedDateTime: 2021-08-17T14:00:00Z
-    webUrl: "https://www.fastcompany.com/90666477/facial-recognition-misunderstanding"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 39
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2021/08/p-1-facial-recognition-misunderstanding.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "7ML29w5dVUlcZVRoC07WH0pfKmiA5iENgj2phByTzlvrSwMpb8zYJ4ecYmjDXvEm7MmK8aK0oraRkntOS5yDR5WBJ8neEiAxMhMCpvGcLh4aiyWJQC0E8gIAJ86717E9hVEVvGEt88D5iyBJ6uu9ayUnrrc9ZZcBJlO8dFKDp8JXoeUT4pi1tQjfcOKwNM4TO9MMxhJRud5cXTZuwkaS5pG/3c1b2WeUPlwV4s/dt2iEc3stoxECvkIuDLWhTISP1pBXa7vhwHjwYE7D1KegmbuJhQsvvvNHYvdN825v6SDa5aH/zATHySb4gyynI3j+yg1JbxbZYoFdFkrR0uNCcuKx0tP5hUR1Ba86dVoiq22M4/e9IwWSETf0I4V5XnvzgA097WvYMoYG4JoocpKCa9EFXre3BfWleHGGBjV5CrhB8hkVNZXlglIrunMJS7vTMgRBgGrAkPcrCxBuVQb/CWTFXXHFOR/beUd9EXtLhbPOWwegHV2NnVseETUXmkLrDa7B3aTdDTCXJnBTYIT72g==;CWAEWBGVY+GUj76QgpmOpg=="

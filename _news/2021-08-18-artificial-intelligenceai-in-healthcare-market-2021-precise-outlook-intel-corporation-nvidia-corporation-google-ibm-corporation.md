@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2359203/artificial-intelligence-ai-in-hea
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2359203/artificial-intelligence-ai-in-healthcare-market-2021-precise"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -19,22 +19,6 @@ provider:
 topics:
   - AI
   - AI in Healthcare
-
-related:
-  - title: "Intel’s Habana starts to chip away at Nvidia in cloud with AWS deal"
-    excerpt: "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading on FintechZoom"
-    publishedDateTime: 2021-08-17T13:52:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_nvidia-stock/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal-2/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 56
-    images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/m02d20201202t2i1543204037rLYNXMPEGB115Rw800.jpeg"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "TxWw97BH2FiHZU3AtRjm8N8SK/OfYLe/pMC+Ni6mKWLenKtVm3sM8IrlzOoxRs9fVrkUH8K4uDNrdd53ahH/OiSuMRlZuUN+6b617KEknjoNOEK8X8B5t8WX+SiJ2jzfZfmONpwzCWpWJr0D/8ePopkvgrQCzyMvHoTDf2NH3rHON3/AXgJmJTmbJhIX3LOjgT8pXLStP6yNVqzoV3PcZhZYCtNGu7AB34u+fc5S4ourBBcrr7npprQrXIoTC8oZy8rtdNj8ajIWtE4Yh73TaqWPwcX1tIr1gha2ImOK7T/Fh6X4xq1oOCQtQ2rPCb4DVkqMEb1S00Kx7n5GFFd+yyEulBtEHreDmwfE+uMLla0=;NMu/CpqenNLJxFiqA44U0g=="
 ---

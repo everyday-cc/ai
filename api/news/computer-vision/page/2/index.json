@@ -1157,6 +1157,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-02-hoth-therapeutics-initiates-preclinical-study-of-ht-alz-for-alzheimers-disease.md",
+      "title": "Hoth Therapeutics Initiates Preclinical Study of HT-ALZ for Alzheimer's Disease",
+      "excerpt": "To evaluate other forms of memory, we will also determine if chronic HT-ALZ treatment influences non-spatial memory using a novel object recognition and novel object location task. These tests ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-19930013.html",
+      "originalUrl": "https://www.lelezard.com/en/news-19930013.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/health.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-02T05:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-02-researchers-use-ai-to-look-for-alien-civilisations.md",
       "title": "Researchers use AI to look for alien civilisations",
       "excerpt": "The team will use a network of mid-sized, high-resolution telescopes and detector arrays with suitable cameras and computer systems as part of their research to find alien civilisations.",
@@ -1283,40 +1326,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-hoth-therapeutics-initiates-preclinical-study-of-ht-alz-for-alzheimers-disease.md",
-      "title": "Hoth Therapeutics Initiates Preclinical Study of HT-ALZ for Alzheimer's Disease",
-      "excerpt": "To evaluate other forms of memory, we will also determine if chronic HT-ALZ treatment influences non-spatial memory using a novel object recognition and novel object location task. These tests ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/08/n22272652/hoth-therapeutics-initiates-preclinical-study-of-ht-alz-for-alzheimers-disease",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/08/n22272652/hoth-therapeutics-initiates-preclinical-study-of-ht-alz-for-alzheimers-disease",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/22272652",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22272652",
-      "publishedDateTime": "2021-08-02T01:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

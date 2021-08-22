@@ -61,20 +61,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 19
-  - title: "Live: How will AI shape our life and future? Live: How will AI shape our life and future? Live: How will AI shape our life and future?"
-    excerpt: "The Virtual Baidu World Conference 2021 is underway, demonstrating the firm's latest breakthroughs in artificial intelligence (AI) and its applications in everyday life."
-    publishedDateTime: 2021-08-17T14:46:00Z
-    webUrl: "https://news.cgtn.com/news/2021-08-17/Live-How-will-AI-shape-our-life-and-future--12NUnudX3RC/index.html"
-    type: article
-    provider:
-      name: CGTN
-      domain: cgtn.com
-    quality: 7
-    images:
-      - url: "https://news.cgtn.com/news/2021-08-17/Live-How-will-AI-shape-our-life-and-future--12NUnudX3RC/img/78775740fe314289a8d82da1ea45d507/78775740fe314289a8d82da1ea45d507-1920.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "H309iHS36U67WEVGavYfeGyf6fW+3uLGstH37KJ75Pu3TkciO/GyuDavInUkwiIytyNEw38cQRoRmjmyGagkM0lZzAVYyTtnJdWEd6lmQ261blrFyP9JpmtqrhrskeoRLqzkjOrzCxkSM/qxV0fUpvHuSCNurg7Phh55oM0bcJvnzH7lUwwbZH1p6gkG2GWhSqG+okC/pPXYMsVSfmkZTsk3rKea0gn7J1w3G2FeFviYVGl+kEhgzxYgOQ+lSgA2TpTVbc/UAkhqCbJetikg1gNUTpctodlJ91gJ0QjKeFZqQkIJOgcwFIPpDu1cIGjzQ7r66w7FnaWlHdS5LJTOAegDQbTAFldRqN0ohtDyoBBaMrnjJvLn84aOi2OO+DHL375XYMN7bBnzZF3ago/n5yPgfTbrHakniqEBKcuZUSPctKmkd/bxcA+N23smz0j22lMCsxEhCSdoUVUwV+BQnFcj5hM6RiFopvsj9wXCTVabSxIMm8t2jPXSTTlZZJfMsMyYZNTau3wCyX2t1HAVCw==;GM+yt/lvYDPxI1kbr21xxA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://stockhouse.com/news/newswire/2021/08/19/a-canadian-based-f
 webUrl: "https://stockhouse.com/news/newswire/2021/08/19/a-canadian-based-fintech-company-to-expand-globally-with-world-class-ai"
 type: article
 quality: 13
-heat: -1
+heat: 13
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - AI in Finance
   - AI
-
-related:
-  - title: "Marrone Bio to collaborate with Canadian AI company"
-    excerpt: "Marrone Bio will use AI and machine learning from Terramera to improve existing crop treatments and speed new products to market."
-    publishedDateTime: 2021-08-17T14:24:00Z
-    webUrl: "https://www.bizjournals.com/sacramento/news/2021/08/17/marrone-to-collaborate-with-terramera.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
 secured: "ab8iEKe1cdYhgaOsTZ58ox9YBG9k7tiTx7IHhLZiHG0E0BJHV/XiZ1/TjYU0GMx6dD0lIVHikuzYYLKbWiOh6DSLf2k6BLI7iT3LjEYBdAXNY2B/DBMN0CFfAJ2u2Jh+0uR+g/K94xPVlpbKcWJI6EzSMgs2G1hLa0GLcy5YEXqPoxrl/X+NYmAAAIVd2qFd6B/XiltImCCKdAYfohJHa89ouVFxfM3qxPigT/Nu5IJtEf6gTKir7L52wJOU+53xZSjKMk5Cl2TGlZ4RgeJ75pEXL3UdXNQ7OOYOUrIT9H0KPM+bimoqdddy2KCGa1RTYHmI1RyC4UEkHS0mCfPLMG+mP9sRoH1tSeOPQfREylaIcnGxjtUbDbC6l8+hjQ9ckep4WpJSGNTPjaLurw/Uina6R1KiemRSdsAOWsqV4+zDjzHmzRnVM2luDQC7DFj/+9QMyktgX3LsoTaWCo+97DoUPqlbCsGVo5sGEEGARgAm501ltOKeUdcmNMDG5NC/ubjxMd0W1ZJ2ld0aDt6GUQ==;3kLh3IkH2WXB1EP4y+SNNg=="
 ---

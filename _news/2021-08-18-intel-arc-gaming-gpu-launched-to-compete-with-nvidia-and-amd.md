@@ -85,20 +85,6 @@ related:
         width: 1440
         height: 1080
         isCached: true
-  - title: "Intel Introduces A New PC Gaming GPU Called Intel Arc, Set To Rival Nvidia"
-    excerpt: "Intel is ready to boost its game in the gaming market by introducing an upcoming gaming GPU known as the Intel Arc. This new Arc brand is said to cover both hardware and software powering Intel’s high-end discrete GPUs."
-    publishedDateTime: 2021-08-17T14:37:00Z
-    webUrl: "https://www.techjuice.pk/intel-introduces-a-new-pc-gaming-gpu-called-intel-arc-set-to-rival-nvidia/"
-    type: article
-    provider:
-      name: techjuice.pk
-      domain: techjuice.pk
-    quality: 37
-    images:
-      - url: "https://cdn.techjuice.pk/wp-content/uploads/2021/08/intelarc.jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "reLnLybg+GAV2Bk4JEq9xZVPAU2xIry1jIUDHpNvg2W/t1L33+hYQoUi0GmRtKiFeTo5B+mqFTo1MmoLwibo4xYG/bceFpbsMDwj9uBotreGQ3L60JkZioh9X3SLnaxfWjCfHVASpVGO0h+CfW4WHtUTVStlJT/bj7A/HELi7+xnUZbQhbV4dN2I3XckyAXWsX735Z9SeCWn+QBLFcmP+wRzDLlJRaJq4/0ih/3A8K+fU5k3KTUQrk6pW4fd3QthenUn9eD9+wBq61NqdwDBV80qVQSFDJO1qt7PqIOyABRyIVQNzD+uM3L3MRNO3nxXMlbLd1hq4R0TG0vUUfYGcFbHmvE9LQRKHR86gkOrxUeqHYfhlZY5bvY1cExSz8KQqLmTFYz6P8LtL6MiXmRR11xnVXR442itigvVhQKBzkDVj+wXCjARHa1IN9p0Hg27fCCoFRqJRxxmAzexZZkDBQjH3BcF/su/IMC/r2tGwXkSvvWgBQO7JHkr4igy7A0irQBnJCh9ZftPmhTpME0Rfw==;RYWDaF8flm/2EcqFbCznjg=="
 ---

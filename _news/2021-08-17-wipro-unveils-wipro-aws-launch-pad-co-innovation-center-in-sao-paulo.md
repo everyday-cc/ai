@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehansindia.com/amp/business/wipro-unveils-wipro-aws-la
 cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/business/wipro-unveils-wipro-aws-launch-pad-co-innovation-center-in-so-paulo-702070"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Hans India
@@ -41,15 +41,6 @@ related:
         width: 350
         height: 350
         isCached: true
-  - title: "Wipro to announce Wipro AWS Launch Pad Co-Innovation Space"
-    excerpt: "Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO), a leading global-information technology, consulting, and business-process services company, has unveiled the Wipro AWS Launch Pad coinnovation center in São Paulo."
-    publishedDateTime: 2021-08-17T14:20:00Z
-    webUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=297414"
-    type: article
-    provider:
-      name: Equity Bulls
-      domain: equitybulls.com
-    quality: 19
 
 secured: "NuQIk5Gv7AtQhUMt+rzNeQ/2LGEevTFs2VjkL9dgJ0lgKLATSzVVZUdMo+tQoOZVlraeypmZY6yJgJ8hjGfDeaOZcdZPkJ0LqBKn5BU770yck+WTNXtG72Uh+SkAL8Hk4TkjFq1xU3/W9J8yNxg1o+920W5/34heI0AsKT2TlT/uULqJe2+EZXk8NBShmOXEMlXMgDMh0qQRploM5s+z9xjb+RQlPivS/IXRiLC1ZR0Ed2NpCIZkTO6aKF7REx6qty9hENAO1JC4Y2fvpv3Pk3B4wNrtaCpL4ZqwB9PVyRMbIiMNUnBzjaCJDmrmofKosXfS4F3PYoH3oJZ31NMzVF5NltFqOzHkjycCmmbhwgvh34xpDvcpUlhRLllIYkuJhaXpdUczLyL1RFQn4zHJrvOAGhaDV9jSn8U0drhSBxqga1GHQwNCXpC0hmdIPLmGjWWoMqOxd287XMccifDE3XFZK0hXl3xwH+DF+i7Fq4ZZ+Z69YCX/+ghsIrodXXfnJB14B0Zkiw5xQSbN0ExTpg==;kAmHWDBucLRxFTRKYP+PwQ=="
 ---

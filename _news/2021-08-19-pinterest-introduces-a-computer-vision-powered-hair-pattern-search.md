@@ -7,7 +7,7 @@ originalUrl: "https://uk.pcmag.com/social-media/135146/pinterest-introduces-a-co
 webUrl: "https://uk.pcmag.com/social-media/135146/pinterest-introduces-a-computer-vision-powered-hair-pattern-search"
 type: article
 quality: 84
-heat: 84
+heat: 85
 published: true
 
 provider:

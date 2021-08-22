@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcworld.com/article/3629402/intels-arc-gaming-gpu-price-
 cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3629402/intels-arc-gaming-gpu-price-specs-and-availability.amp.html"
 type: article
 quality: 104
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -88,20 +88,6 @@ related:
       - url: "https://www.noypigeeks.com/wp-content/uploads/2021/08/intel-arc-gpu-noypigeeks.jpg"
         width: 900
         height: 506
-        isCached: true
-  - title: "Intel Introduces A New PC Gaming GPU Called Intel Arc, Set To Rival Nvidia"
-    excerpt: "Intel is ready to boost its game in the gaming market by introducing an upcoming gaming GPU known as the Intel Arc. This new Arc brand is said to cover both hardware and software powering Intel’s high-end discrete GPUs."
-    publishedDateTime: 2021-08-17T14:37:00Z
-    webUrl: "https://www.techjuice.pk/intel-introduces-a-new-pc-gaming-gpu-called-intel-arc-set-to-rival-nvidia/"
-    type: article
-    provider:
-      name: techjuice.pk
-      domain: techjuice.pk
-    quality: 37
-    images:
-      - url: "https://cdn.techjuice.pk/wp-content/uploads/2021/08/intelarc.jpeg"
-        width: 1200
-        height: 600
         isCached: true
 
 secured: "GGAgJNH7wBPAHAjRKpdhd2PyIg3wj/ofHNfYbi/ghhBugxP5KZ7pelQrcmawofu+chlGxVXJ0XUcJEGWCG3OC5naB4NISGtugDTMBwnLv9vrNu+2TI+clgoYbzP3SuA66M7o7QsfXQvfZrrRhK2EwmtwC6vGG7ku8DzWBeq1NqRZbbc1OVQ5KRkIRWcaMBw3fIDPBaQ8GMyHcchRS82L5Dy+Hi05OXgYpa1aq8o8eNBi0gKgbQXWCUm+1zXNEmt/CABuazsk1rf1SF/Or3Fv6jJRyMr07GIdtYpIVHqMdcih7207/M+m3XEiGL5atRSEldyMowYIGyQ+NcYwTnhQbgi58OsP4Ha+bgYyxoviDJ8Z+IF69g0JHvEg48TVlFN3vPzTxiSnfqUDZdZbrtJJs8WoQAv7PRxkYsp13Q4DXUbGds7vwkpWgiQvB03sR8gfcr/qz7I2qgF7tDaQkuxxm3oETCXRg4KS1pmUinXdIxNsMmOvyZzDZB48ZJ3g9hsRqz/h3V0EKsf+pnMMz9mUQg==;Q7imlq40tjTLBbhl+Ex7iw=="

@@ -71,20 +71,6 @@ related:
         width: 768
         height: 385
         isCached: true
-  - title: "Patterns for multi-account, hub-and-spoke Amazon SageMaker model registry"
-    excerpt: "Data science workflows have to pass multiple stages as they progress from the experimentation to production pipeline. A common approach involves separate accounts dedicated to different phases of the AI/ML workflow (experimentation, development, and production). In addition, issues related to data access"
-    publishedDateTime: 2021-08-17T14:51:20Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/patterns-for-multi-account-hub-and-spoke-amazon-sagemaker-model-registry/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 88
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/03/ML-3798-image003.jpg"
-        width: 621
-        height: 369
-        isCached: true
   - title: "Create Amazon SageMaker projects using third-party source control and Jenkins"
     excerpt: "Launched at AWS re:Invent 2020, Amazon SageMaker Pipelines is the first purpose-built, easy-to-use continuous integration and continuous delivery (CI/CD) service for machine learning (ML). With Pipelines, you can create, automate, and manage end-to-end ML workflows at scale. You can integrate Pipelines"
     publishedDateTime: 2021-08-17T16:43:10Z

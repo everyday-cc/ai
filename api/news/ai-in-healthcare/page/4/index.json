@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-07-07-special-report-chinas-gene-giant-harvests-data-from-millions-of-women.md",
+      "title": "SPECIAL REPORT-China's gene giant harvests data from millions of women",
+      "excerpt": "A Chinese gene company selling prenatal tests around the world developed them in collaboration with the country's military and is using them to collect genetic data from millions of women for sweeping research on the traits of populations,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/special-report-chinas-gene-giant-harvests-data-from-millions-of-women-2021-07-07",
+      "originalUrl": "https://www.nasdaq.com/articles/special-report-chinas-gene-giant-harvests-data-from-millions-of-women-2021-07-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/special-report-chinas-gene-giant-harvests-data-from-millions-of-women-2021-07-07?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/special-report-chinas-gene-giant-harvests-data-from-millions-of-women-2021-07-07?amp",
+      "publishedDateTime": "2021-07-07T05:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-07-australian-shares-rise-on-healthcare-tech-boost-challenger-shines.md",
       "title": "Australian shares rise on healthcare, tech boost; Challenger shines",
       "excerpt": "Australian shares rose on Wednesday, lifted by the healthcare and technology sectors, while Challenger Ltd jumped after two U.S. companies bought a stake in the investment manager.",
@@ -1241,41 +1275,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-investing-in-ai-healthcare-analysts-offer-2-stocks-to-buy.md",
-      "title": "Investing in AI Healthcare; Analysts Offer 2 Stocks to Buy",
-      "excerpt": "It’s estimated that AI as a whole will boost the global economy by more than $15 trillion by the year 2030, and a significant piece of that will emerge in the healthcare sector. By 2026, the midpoint of that forecast,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/investing-in-ai-healthcare-analysts-offer-2-stocks-to-buy-2021-06-23",
-      "originalUrl": "https://www.nasdaq.com/articles/investing-in-ai-healthcare-analysts-offer-2-stocks-to-buy-2021-06-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/investing-in-ai-healthcare-analysts-offer-2-stocks-to-buy-2021-06-23?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/investing-in-ai-healthcare-analysts-offer-2-stocks-to-buy-2021-06-23?amp",
-      "publishedDateTime": "2021-06-23T06:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI",
         "AI in Healthcare"
       ]

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2021/08/18/operational
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2021/08/18/operationalizing-ai-ethics-no-longer-an-option-but-an-imperative/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1503704344/sequencesgrid/h6vrwdypijqgsop7xwa0.jpg"
         width: 696
         height: 274
-        isCached: true
-  - title: "Machine Learning Operationalization Software Market Projected to Grow at a Steady Pace During 2021-2027 Covid-19 Analysis | KNIME, Seldon"
-    excerpt: "To continue with the reviews and details provided in this innovative Machine Learning Operationalization Software market report it also aims at providing advanced data concerning to Machine Learning Operationalization Software market global status market trends analysis segment size growth share"
-    publishedDateTime: 2021-08-17T13:21:00Z
-    webUrl: "https://www.openpr.com/news/2357813/machine-learning-operationalization-software-market"
-    ampWebUrl: "https://www.openpr.com/amp/2357813/machine-learning-operationalization-software-market"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2357813/machine-learning-operationalization-software-market"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 26
-    images:
-      - url: "https://cdn.openpr.com/U/8/U817243339_g.jpg"
-        width: 780
-        height: 470
         isCached: true
 
 secured: "6Qokk/vKEH09wjJ+zUnQ7tlMnhoB9niDJ/K3DdwJp0B77GAShRmL58ataFAkTL43h0BBsGQumhFnFTFA19Qk16qtkquzloodZ9rxaIcJRRQmZusC/gnXoJUgGksY8pihLRk1lLMXjDaqJpc3otNrPFebIlWVZ1+1Y5drmg54FkILUfsuvIP4wuYuZ4v/CZw9SbJFjS4HywBXrpnyoG8nFkW1leip4UsequVYEm9mEz0DQ7SFUm/7gtx9e/uQ8NA4LrSoZx7dhCMBP5FTVDN6x+NaPX/3qm+vi59X3k1K21Wl8qmNbXX6Q+BYRRR0CVuVp7OfruFAT39MnjJzXGg+5K+UAnLaXPCES9Eg2TZnRT3RfQjyXooJTOILfw84sbyMwtH4Xgx8WRvQ/HM7GVcSb+fSDkuJeC96Ut/uzs7E+Lbwq4K5a/M3J8nhAXL38mEJyBsaAJZ1jyplaK5Jlh3ZArwRUZYenmMf8UPSyUice850I1xaIh5iI5w0jsGd2F2XQDCveoeikKsmy8sTFFKBJw==;6ezZ48ZCU9KKI7xsoSnSOQ=="

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wealthdaily.com/amp/articles/innovating-with-artificial-
 cdnAmpWebUrl: "https://www-wealthdaily-com.cdn.ampproject.org/c/s/www.wealthdaily.com/amp/articles/innovating-with-artificial-intelligence/99838"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 119
+published: true
 
 provider:
   name: Wealth Daily
@@ -27,33 +27,93 @@ images:
     isCached: true
 
 related:
-  - title: "When your teacher is an AI avatar"
-    excerpt: "Natalie Monbiot, head of strategy at Hour One, explains to Tonya Hall how digital avatars could expand the reach of online education."
-    publishedDateTime: 2021-08-17T14:16:00Z
-    webUrl: "https://www.zdnet.com/video/when-your-teacher-is-an-ai-avatar/"
+  - title: "CCM Best Practices Survey Results – AI Users vs. Non-AI Users"
+    excerpt: "Macrosoft conducted a Customer Communications Management CCM best practices survey 584 people participated in the 21 question on line survey We believe this question is not only a bell weather of companies that are or are not on the leading"
+    publishedDateTime: 2021-08-17T15:03:00Z
+    webUrl: "https://www.openpr.com/news/2357959/ccm-best-practices-survey-results-ai-users-vs-non-ai-users"
+    ampWebUrl: "https://www.openpr.com/amp/2357959/ccm-best-practices-survey-results-ai-users-vs-non-ai-users"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2357959/ccm-best-practices-survey-results-ai-users-vs-non-ai-users"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
+      name: openpr.com
+      domain: openpr.com
+    quality: 57
     images:
-      - url: "https://www.zdnet.com/a/hub/i/r/2021/08/17/7a1c3acf-bd9b-49cf-b428-a124026eb375/thumbnail/770x578/cf74f2a944f82fd6bc4128ea1210553f/thumb.jpg"
-        width: 770
-        height: 578
+      - url: "https://cdn.openpr.com/U/8/U817555542_g.jpg"
+        width: 800
+        height: 420
         isCached: true
-  - title: "Noodle.ai is now an AWS Advanced Technology Partner"
-    excerpt: "and Amazon SageMaker, to provide enterprise customers with a predictable, agile, and scalable supply chain. At the center of this offering is Noodle.ai's Flow Operations product suite, which consists of five applications that use advanced artificial ..."
-    publishedDateTime: 2021-08-17T18:51:00Z
-    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=148475"
+  - title: "Novel AI blood testing technology can identify lung cancers with high accuracy"
+    excerpt: "A novel artificial intelligence blood testing technology developed by researchers at the Johns Hopkins Kimmel Cancer Center was found to detect over 90% of lung cancers in samples from nearly 800 individuals with and without cancer."
+    publishedDateTime: 2021-08-20T13:47:00Z
+    webUrl: "https://medicalxpress.com/news/2021-08-ai-blood-technology-lung-cancers.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-08-ai-blood-technology-lung-cancers.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-08-ai-blood-technology-lung-cancers.amp"
     type: article
     provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 54
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 53
     images:
-      - url: "https://dzceab466r34n.cloudfront.net/KMWorld/TemplateImages/KMW21_Sub-Cover-Image.gif"
-        width: 772
-        height: 594
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/novel-ai-blood-testing.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "List of Major Companies with AI Patents to Know About in 2021"
+    excerpt: "Many big companies with AI patents such as IBM, Microsoft, Google, Samsung, and Siemens have been dominant in making it to the list of the top AI patents companies coming up with innovations using AI."
+    publishedDateTime: 2021-08-18T15:30:00Z
+    webUrl: "https://www.analyticsinsight.net/list-of-major-companies-with-ai-patents-to-know-about-in-2021/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/List-of-Major-Companies-with-AI-Patents-to-Know-About-in-2021.jpg"
+        width: 900
+        height: 500
+        isCached: true
+  - title: "National Grid ESO sharpens solar forecasts with AI"
+    excerpt: "National Grid Electricity System Operator (ESO) has teamed up with start-up Open Climate Fix (OCF) to use artificial intelligence to improve the way the grid forecasts solar generation. The new innovation project will see the ESO work with OCF,"
+    publishedDateTime: 2021-08-19T08:03:00Z
+    webUrl: "https://renews.biz/71706/national-grid-eso-sharpens-solar-forecasts-with-ai/"
+    type: article
+    provider:
+      name: reNEWS
+      domain: renews.biz
+    quality: 39
+    images:
+      - url: "https://renews.biz/media/21368/credit-national-grid.jpeg?width=640"
+        width: 640
+        height: 366
+        isCached: true
+  - title: "Demonstrating the Power of AI for Food & Beverage Innovation, Upcoming Webinar Hosted by Xtalks"
+    excerpt: "Artificial Intelligence (AI) is becoming necessary for food and beverage manufacturers to meet ever-changing demands and stay ahead in an increasingly competitive environment. In"
+    publishedDateTime: 2021-08-20T12:30:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_food_beverages/demonstrating-the-power-of-ai-for-food-beverage-innovation-upcoming-webinar-hosted-by-xtalks/article_8775912f-a6b6-53ab-b303-4d4af620be8c.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 27
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Demonstrating the Power of AI for Food & Beverage Innovation, Upcoming Webinar Hosted by Xtalks"
+    excerpt: "Artificial Intelligence (AI) is becoming necessary for food and beverage manufacturers to meet ever-changing demands and stay ahead in an increasingly competitive environment. In their last webinar, VIsit SparkCognition discussed why now is the"
+    publishedDateTime: 2021-08-20T22:53:00Z
+    webUrl: "https://www.lelezard.com/en/news-19961775.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 27
+    images:
+      - url: "https://www.lelezard.com/img/theme/lezard2.png"
+        width: 500
+        height: 414
         isCached: true
 
 secured: "V2xcGDTeq9rO2xNTyq3zKdc2LXnxze6RX6UzvD9/jqrSMxSfq9Yb0+y3au9rJkQN6vmSFJkIlaUpsdtcHXsHhcMdblpEd4kVTVlZUOWvPmduRnsEQFvCJf9iq2jRmZG9UAuYWEibvAg5ExengINPHnPWVg8ci1IKAElxH9MmU++GbEWl6PtrJm5uETLGsB2QPpigBbfIc86IETz3c4fHcd8E3nfxdZbnZbBfUF9zC4EjCqbm77zoxyW+a1Z4jfR/PUjKeEffN9aBIqpIOuaVkopzeT4AA18zUrERkSxcpzwkhcOuvlucvIxYgZ7CbPaxNsTjSCgOV1qDlM1VEjiNe3SLFAqkxXo9bXKxJzYDjbrk7wvdojRCiamP/5spuBTX/fB/wVZy8G0VJ/XY0aEaoYt8pVCifhxVQMBEdUA6kZgE1AeilwnMHrZ/H6MKkbxudECcMfR40ZthFPA347fu3vd1rgq0BNfr/s02d8cAdVddk61WsvZaS+UD6PHVrFYxXCoxqMX62DEdNhe38y3vZQ==;4qw8qYt7l8worm/ToGEbnQ=="

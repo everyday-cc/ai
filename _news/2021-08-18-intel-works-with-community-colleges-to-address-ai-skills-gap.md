@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/intel-works-with-com
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/intel-works-with-community-colleges-to-address-ai-skills-gap/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "The AI skills gap: Intel works to bridge it with community colleges"
-    excerpt: "Adults of all ages can learn artificial intelligence skills to address the need for AI-trained workers. Share. Contact . Related"
-    publishedDateTime: 2021-08-17T14:37:00Z
-    webUrl: "https://www.techrepublic.com/videos/the-ai-skills-gap-intel-works-to-bridge-it-with-community-colleges/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 67
-    images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2021/08/17/f9c42acf-638f-415a-9474-c78835cc146c/thumbnail/770x578/cc1c1018ad2b6b80aba72874b8e304da/20210812-aiprogram-karen.jpg"
-        width: 770
-        height: 578
-        isCached: true
   - title: "Intel Launches AI for Workforce Education Program for 800,000 Students in Community Colleges"
     excerpt: "Intel (Nasdaq: INTC) announced an expansion of its AI for Workforce Program to 18 community colleges across 11 U.S. states, with a total of 800,000 students. The company plans to expand to 50 more community and vocational colleges in 2022."
     publishedDateTime: 2021-08-21T02:00:00Z

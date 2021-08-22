@@ -2,6 +2,273 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2021-08-01-azure-machine-learning-service.md",
+      "title": "AZURE MACHINE LEARNING SERVICE",
+      "excerpt": "Accenture will have all of its consultants in the next two years adopt the new model of data-focused storytelling that is built on data, machine learning models and visualisation for specific sectors and industries. This is a time of deep reflection for ...",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/topic/Azure-Machine-Learning-Service",
+      "originalUrl": "https://economictimes.indiatimes.com/topic/Azure-Machine-Learning-Service",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.etimg.com/thumb/height-270,width-360,imgsize-,msid-85288177/.jpg",
+          "width": 360,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/topic/Azure-Machine-Learning-Service/amp",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/topic/Azure-Machine-Learning-Service/amp",
+      "publishedDateTime": "2021-07-31T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-08-01-underwater-crawling-soft-robot-stays-in-shape.md",
+      "title": "Underwater Crawling Soft Robot Stays In Shape",
+      "excerpt": "When you think of robots that were modeled after animals, a brittle star is probably not the first species that comes to mind. Still ... The robot’s control board is sending and receiving ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2020/04/23/underwater-crawling-soft-robot-stays-in-shape/",
+      "originalUrl": "https://hackaday.com/2020/04/23/underwater-crawling-soft-robot-stays-in-shape/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2020/04/PATRICK.png",
+          "width": 792,
+          "height": 446,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-31T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-01-new-scientific-database-could-revolutionise-the-way-diseases-are-treated.md",
+      "title": "New scientific database ‘could revolutionise the way diseases are treated’",
+      "excerpt": "Researchers from Google-owned artificial intelligence (AI) lab DeepMind, and European Bioinformatics Institute (EMBL), have launched a database featuring 20,000 structures for the complete set of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.irishexaminer.com/business/technology/arid-40350164.html",
+      "originalUrl": "https://www.irishexaminer.com/business/technology/arid-40350164.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.irishexaminer.com/cms_media/module_img/5172/2586074_1_googlediscover_b496f191-177f-435c-a336-3455e39209a9.jpg.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.irishexaminer.com/business/technology/arid-40350164.html?type=amp",
+      "cdnAmpWebUrl": "https://www-irishexaminer-com.cdn.ampproject.org/c/s/www.irishexaminer.com/business/technology/arid-40350164.html?type=amp",
+      "publishedDateTime": "2021-07-31T14:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Irish Examiner",
+        "domain": "irishexaminer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-31-ai-vendors-must-offer-more-solutions-for-niche-use-cases.md",
+      "title": "AI vendors must offer more solutions for niche use cases",
+      "excerpt": "Generic AI models can't deliver the kind of accuracy we need for widespread adoption. We need more tailored solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/31/ai-vendors-must-offer-more-solutions-for-niche-use-cases/",
+      "originalUrl": "https://venturebeat.com/2021/07/31/ai-vendors-must-offer-more-solutions-for-niche-use-cases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/GettyImages-617375080.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/31/ai-vendors-must-offer-more-solutions-for-niche-use-cases/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/31/ai-vendors-must-offer-more-solutions-for-niche-use-cases/amp/",
+      "publishedDateTime": "2021-07-31T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-31-researchers-aim-to-help-protect-us-navy-divers-using-ai-systems.md",
+      "title": "Researchers aim to help protect US Navy divers using AI systems",
+      "excerpt": "A group of researchers, including scientists from the University of Illinois Chicago, were given $725,000 from the US Office of Naval Research to develop an AI system to help protect divers from",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/researchers-aim-to-help-protect-us-navy-divers-using-ai-systems-31684737/",
+      "originalUrl": "https://www.slashgear.com/researchers-aim-to-help-protect-us-navy-divers-using-ai-systems-31684737/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/researchers-aim-to-help-protect-us-navy-divers-using-ai-systems-31684737/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/researchers-aim-to-help-protect-us-navy-divers-using-ai-systems-31684737/amp/",
+      "publishedDateTime": "2021-07-31T06:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-31-artificial-intelligence-wants-you-and-your-job.md",
+      "title": "Artificial Intelligence Wants You and Your Job",
+      "excerpt": "The artificial intelligence (AI) behind the soothing voice telling us where to turn has replaced passenger-seat navigators, maps, even traffic updates on the radio. How on earth did we survive before this technology arrived in our lives?",
+      "sourceUrl": null,
+      "webUrl": "https://www.fairobserver.com/region/north_america/john-feffer-artificial-intelligence-ai-news-technology-tech-world-news-32892/",
+      "originalUrl": "https://www.fairobserver.com/region/north_america/john-feffer-artificial-intelligence-ai-news-technology-tech-world-news-32892/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fairobserver.com/wp-content/uploads/2021/07/Artificial-intelligence-news-1.jpg",
+          "width": 1800,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fairobserver.com/region/north_america/john-feffer-artificial-intelligence-ai-news-technology-tech-world-news-32892/amp/",
+      "cdnAmpWebUrl": "https://www-fairobserver-com.cdn.ampproject.org/c/s/www.fairobserver.com/region/north_america/john-feffer-artificial-intelligence-ai-news-technology-tech-world-news-32892/amp/",
+      "publishedDateTime": "2021-07-31T04:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fair Observer",
+        "domain": "fairobserver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-07-31-deep-learning-in-healthcare-market.md",
       "title": "Deep Learning in Healthcare Market",
       "excerpt": "A new intelligence report released by HTF MI with title \"Global Deep Learning in Healthcare Market Survey & Outlook\" is designed covering micro level of analysis by Insurers and key business ...",
@@ -890,300 +1157,6 @@
         "Facebook AI",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-how-to-approach-ai-more-responsibly-according-to-a-top-ai-ethicist.md",
-      "title": "How to approach AI more responsibly, according to a top AI ethicist",
-      "excerpt": "A conversation with DataRobot's Haniyeh Mahmoudian, a winner of VentureBeat’s Women in AI responsibility and ethics award.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/30/how-to-approach-ai-more-responsibly-according-to-a-top-ai-ethicist/",
-      "originalUrl": "https://venturebeat.com/2021/07/30/how-to-approach-ai-more-responsibly-according-to-a-top-ai-ethicist/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/Women-in-AI-Awards.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/30/how-to-approach-ai-more-responsibly-according-to-a-top-ai-ethicist/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/30/how-to-approach-ai-more-responsibly-according-to-a-top-ai-ethicist/amp/",
-      "publishedDateTime": "2021-07-30T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-moengage-raises-325m-to-inject-customer-engagement-with-ai.md",
-      "title": "MoEngage raises $32.5M to inject customer engagement with AI",
-      "excerpt": "MoEngage, an AI customer engagement platform based in San Francisco, California, today announced that it raised $32.5 million led by Multiples Private Equity with participation from Eight RoadsVentures,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/30/moengage-raises-32-5m-to-inject-customer-engagement-with-ai/",
-      "originalUrl": "https://venturebeat.com/2021/07/30/moengage-raises-32-5m-to-inject-customer-engagement-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/06/pinpoint-big-data.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 803,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/30/moengage-raises-32-5m-to-inject-customer-engagement-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/30/moengage-raises-32-5m-to-inject-customer-engagement-with-ai/amp/",
-      "publishedDateTime": "2021-07-30T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-sa-first-to-award-patent-recognising-artificial-intelligence-as-inventor.md",
-      "title": "SA first to award patent recognising artificial intelligence as inventor",
-      "excerpt": "An artificial intelligence has invented a food container with a practical adaption for the transfer of heat into and out of the container.",
-      "sourceUrl": null,
-      "webUrl": "https://www.timeslive.co.za/news/south-africa/2021-07-30-sa-first-to-award-patent-recognising-artificial-intelligence-as-inventor/",
-      "originalUrl": "https://www.timeslive.co.za/news/south-africa/2021-07-30-sa-first-to-award-patent-recognising-artificial-intelligence-as-inventor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/CS1UTZk59JN31DyaVgUuAi6XLPrzfb_ppy-GcAyEjcetYRarjZc_cwAS1LmVVSMOWcJETzDKnK3oizDBZyBtLb5AtpVORRbL=s1000",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timeslive.co.za/amp/news/south-africa/2021-07-30-sa-first-to-award-patent-recognising-artificial-intelligence-as-inventor/",
-      "cdnAmpWebUrl": "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/news/south-africa/2021-07-30-sa-first-to-award-patent-recognising-artificial-intelligence-as-inventor/",
-      "publishedDateTime": "2021-07-30T07:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Times LIVE",
-        "domain": "timeslive.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-ai-eye-podcast-ibms-ai-powered-the-weather-company-named-most-accurate-provider-globally-alteryx-achieves-elite-technology-partner-status.md",
-      "title": "AI Eye Podcast - IBM’s AI-Powered The Weather Company Named “Most Accurate Provider Globally,” Alteryx Achieves Elite Technology Partner Status In Snowflake Partnership ...",
-      "excerpt": "Stock News, podcasts - AI, Biotech, Cannabis ... Sheri Bachstein, CEO of The Weather Company and GM of IBM Watson Advertising, said: \"A forecast is most helpful when it comes from a recognized ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/instablog/776842-investorideas-com/5621430-ai-eye-podcast-ibm-s-ai-powered-weather-company-named-accurate-provider-globally-alteryx",
-      "originalUrl": "https://seekingalpha.com/instablog/776842-investorideas-com/5621430-ai-eye-podcast-ibm-s-ai-powered-weather-company-named-accurate-provider-globally-alteryx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/uploads/2021/7/30/776842-1627667637181148.jpg",
-          "width": 387,
-          "height": 365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/instablog/776842-investorideas-com/5621430-ai-eye-podcast-ibm-s-ai-powered-weather-company-named-accurate-provider-globally-alteryx",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/instablog/776842-investorideas-com/5621430-ai-eye-podcast-ibm-s-ai-powered-weather-company-named-accurate-provider-globally-alteryx",
-      "publishedDateTime": "2021-07-30T06:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-healthcare-artificial-intelligence-market-future-scope-demands-and-projected-industry-growths-to-2026.md",
-      "title": "Healthcare Artificial Intelligence Market Future Scope, Demands and Projected Industry Growths to 2026",
-      "excerpt": "The healthcare artificial intelligence market is anticipated to witness significant growth over the coming time period owing to increasing use of technology across numerous medical application verticals such as drug discovery,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-future-scope-demands-and-projected-industry-growths-to-2026-2021-07-30",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-future-scope-demands-and-projected-industry-growths-to-2026-2021-07-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-30T06:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-aws-neptune-update-machine-learning-data-science-and-the-future-of-graph-databases.md",
-      "title": "AWS Neptune update: Machine learning, data science, and the future of graph databases",
-      "excerpt": "Neptune ML is powered by Amazon SageMaker and the open source Deep Graph Library (DGL), to which Amazon contributes. GNNs is a relatively new branch of Deep Learning, with the interesting feature ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/aws-neptune-update-machine-learning-data-science-and-the-future-of-graph-databases/",
-      "originalUrl": "https://www.zdnet.com/article/aws-neptune-update-machine-learning-data-science-and-the-future-of-graph-databases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/07/14/dab15c07-8cf8-4f40-9413-97eff4356f4f/awsneptunearchitecture.png",
-          "width": 1435,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aws-neptune-update-machine-learning-data-science-and-the-future-of-graph-databases/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-neptune-update-machine-learning-data-science-and-the-future-of-graph-databases/",
-      "publishedDateTime": "2021-07-30T05:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

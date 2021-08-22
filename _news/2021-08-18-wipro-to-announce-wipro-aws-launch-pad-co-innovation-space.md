@@ -41,15 +41,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Wipro to announce Wipro AWS Launch Pad Co-Innovation Space"
-    excerpt: "Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO), a leading global-information technology, consulting, and business-process services company, has unveiled the Wipro AWS Launch Pad coinnovation center in São Paulo."
-    publishedDateTime: 2021-08-17T14:20:00Z
-    webUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=297414"
-    type: article
-    provider:
-      name: Equity Bulls
-      domain: equitybulls.com
-    quality: 19
 
 secured: "+R8IF3h6r3apYNW8DDvI6FN48G8NJyOqWtcu7ApcFVNgpDGULQXKo2hB2abSz/26QlkLAgVChAsxf5BIAkkaQUbnqnq/gnFwRuw4gQxeyaaarS4Li+PnHlSsqW83cwHKiiXnKrFtn+FxKuG54r/2EkErScVPNElGsE97NbMYc2jvykk7HQqXOcBTaVP+1tJqObHB79rV9tC+RdOuKI5GM7PmV1J8deK4C3iTDxil5+EOKGtLqZpgFcdI0+XIImBrTiTdVg3wr+Kep2RvZ/IOKItAsOtKlKKSD7XHuEZhqbkgOrwnxmbl5jlUPN4KNCbWElLDaXyW7vqtNO1EGjYgahd7u2wVZdBcKtMVe8NDLzs=;qN/tWX+OEh0KARqhPKBOHw=="
 ---

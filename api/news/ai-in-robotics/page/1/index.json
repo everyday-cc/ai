@@ -10,7 +10,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/4-robotics-stocks-to-watch-this-week-2021-08-21",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 96,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -22,6 +22,49 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-21-us-woman-becomes-a-superwoman-for-afghan-all-girl-robotics-team-rescues-10.md",
+      "title": "US woman becomes a superwoman for Afghan all-girl robotics team, rescues 10",
+      "excerpt": "The team, consisting of young women ageing from 16 to 18 years, was scared as the Taliban took control and they were on the mind of the US woman, who previously met them in 2019.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/trending/trending-globally/mother-of-11-allyson-reneau-becomes-a-superwoman-for-afghan-womens-robotics-team-7462846/",
+      "originalUrl": "https://indianexpress.com/article/trending/trending-globally/mother-of-11-allyson-reneau-becomes-a-superwoman-for-afghan-womens-robotics-team-7462846/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2021/08/allyson.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/trending/trending-globally/mother-of-11-allyson-reneau-becomes-a-superwoman-for-afghan-womens-robotics-team-7462846/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/trending/trending-globally/mother-of-11-allyson-reneau-becomes-a-superwoman-for-afghan-womens-robotics-team-7462846/lite/",
+      "publishedDateTime": "2021-08-20T20:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -194,7 +237,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/diamond-age-raises-8-million-seed-round-to-advance-robotics-and-3d-printing-for-affordable-home-construction-1030746267",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 80,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1347,50 +1390,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-vw-aims-to-increase-output-by-30-at-its-north-american-plants-with-better-software-ai-and-robotics.md",
-      "title": "VW Aims To Increase Output By 30% At Its North American Plants With Better Software, AI, And Robotics",
-      "excerpt": "VW believes better robots and industrial machines that can be updated will make factories much more efficient.",
-      "sourceUrl": null,
-      "webUrl": "https://www.carscoops.com/2021/08/vw-aims-to-increase-output-by-30-at-its-north-american-plants-with-better-software-ai-and-robotics/",
-      "originalUrl": "https://www.carscoops.com/2021/08/vw-aims-to-increase-output-by-30-at-its-north-american-plants-with-better-software-ai-and-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.carscoops.com/wp-content/uploads/2021/08/VW-AI-and-Robotics-Push-2-1024x555.jpg",
-          "width": 1024,
-          "height": 555,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.carscoops.com/2021/08/vw-aims-to-increase-output-by-30-at-its-north-american-plants-with-better-software-ai-and-robotics/amp/",
-      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/08/vw-aims-to-increase-output-by-30-at-its-north-american-plants-with-better-software-ai-and-robotics/amp/",
-      "publishedDateTime": "2021-08-11T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Carscoops",
-        "domain": "carscoops.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

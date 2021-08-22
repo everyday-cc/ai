@@ -2,6 +2,152 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-20-waymos-autonomous-vehicles-have-clocked-20-million-miles-on-public-roads.md",
+      "title": "Waymo's autonomous vehicles have clocked 20 million miles on public roads",
+      "excerpt": "Waymo has been testing its vehicles in San Francisco since 2009 and it ramped up its efforts in the city earlier this year. Its vehicles now clock north of 100,000 miles on SF's roads every week. Between narrow streets,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/waymo-autonomous-vehicles-update-san-francisco-193934150.html",
+      "originalUrl": "https://www.engadget.com/waymo-autonomous-vehicles-update-san-francisco-193934150.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-08/2229add0-0124-11ec-bfdd-21d53ef207c7",
+          "width": 2048,
+          "height": 1152,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-19T19:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-08-20-baidu-pushing-to-expand-robotaxi-to-30-chinese-cities-by-2023-2024.md",
+      "title": "Baidu Pushing to Expand Robotaxi to 30 Chinese cities by 2023-2024",
+      "excerpt": "Baidu plans to expand its robotaxi ride-hailing services across 30 cities in China in two to three years to serve a wider range of users. Robin Li, founder of",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextbigfuture.com/2021/08/baidu-pushing-to-expand-robotaxi-to-30-chinese-cities-by-2023-2024.html",
+      "originalUrl": "https://www.nextbigfuture.com/2021/08/baidu-pushing-to-expand-robotaxi-to-30-chinese-cities-by-2023-2024.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nextbigfuture.s3.amazonaws.com/uploads/2021/08/Screen-Shot-2021-08-19-at-2.32.36-PM.jpg",
+          "width": 1952,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextbigfuture.com/2021/08/baidu-pushing-to-expand-robotaxi-to-30-chinese-cities-by-2023-2024.html",
+      "cdnAmpWebUrl": "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/08/baidu-pushing-to-expand-robotaxi-to-30-chinese-cities-by-2023-2024.html",
+      "publishedDateTime": "2021-08-19T14:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NextBigFuture",
+        "domain": "nextbigfuture.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-20-top-gun-star-lost-his-voice-to-cancer-he-used-ai-to-bring-it-back.md",
+      "title": "'Top Gun' star lost his voice to cancer. He used AI to bring it back.",
+      "excerpt": "Actor Val Kilmer lost his voice in 2015 due to complications to throat cancer. For his new documentary \"Val,\" Kilmer sought out a company to create a synthetic version of his voice using audio deepfake technology to be used as a voiceover.",
+      "sourceUrl": null,
+      "webUrl": "https://edition.cnn.com/videos/business/2021/08/19/val-kilmer-ai-voice-js-orig.cnn-business/video/playlists/business-news/",
+      "originalUrl": "https://edition.cnn.com/videos/business/2021/08/19/val-kilmer-ai-voice-js-orig.cnn-business/video/playlists/business-news/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210721144935-val-kilmer-documentary-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2021/08/19/val-kilmer-ai-voice-js-orig.cnn-business",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/08/19/val-kilmer-ai-voice-js-orig.cnn-business",
+      "publishedDateTime": "2021-08-19T14:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-20-companies-betting-on-data-must-value-people-as-much-as-ai.md",
       "title": "Companies betting on data must value people as much as AI",
       "excerpt": "The truth is, we are still early when it comes to data transformation. The success of tech giants that put data at the core of their business models set off a spark that is only starting to take off.",
@@ -406,7 +552,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/diamond-age-raises-8-million-seed-round-to-advance-robotics-and-3d-printing-for-affordable-home-construction-1030746267",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 80,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -657,7 +803,7 @@
       "originalUrl": "https://www.pcworld.com/article/3629402/intels-arc-gaming-gpu-price-specs-and-availability.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -941,7 +1087,7 @@
       "originalUrl": "https://uk.pcmag.com/social-media/135146/pinterest-introduces-a-computer-vision-powered-hair-pattern-search",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -1079,154 +1225,6 @@
         "AI Hardware",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-machine-learning-transforming-the-lending-industry.md",
-      "title": "Machine learning: Transforming the lending industry",
-      "excerpt": "Machine learning algorithms are capable of delving into petabytes of data to comprehend the specific needs of individual customers",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/machine-learning-transforming-lending-industry/",
-      "originalUrl": "https://www.dqindia.com/machine-learning-transforming-lending-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2021/07/machine-learning-5290464_640.jpg",
-          "width": 850,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/machine-learning-transforming-lending-industry/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/machine-learning-transforming-lending-industry/amp/",
-      "publishedDateTime": "2021-08-19T01:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-seeking-global-recognition-taliban-take-a-new-approach-making-nice.md",
-      "title": "Seeking Global Recognition, Taliban Take a New Approach: Making Nice",
-      "excerpt": "The group’s head-spinning claims of moderation follow a common playbook for rebel-held governments, with mixed lessons for Afghanistan’s future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/08/19/world/asia/taliban-foreign-recognition.html",
-      "originalUrl": "https://www.nytimes.com/2021/08/19/world/asia/taliban-foreign-recognition.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/08/18/world/18int-afghan2/18int-afghan2-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/08/19/world/asia/taliban-foreign-recognition.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/19/world/asia/taliban-foreign-recognition.amp.html",
-      "publishedDateTime": "2021-08-19T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-waymo-begins-work-on-dedicated-texas-hub-for-self-driving-trucks.md",
-      "title": "Waymo begins work on dedicated Texas hub for self-driving trucks",
-      "excerpt": "Alphabet-owned Waymo is looking to gain a strong foothold in the nascent autonomous freight industry, today announcing plans to build a dedicated hub for its self-driving trucks in the state of Texas.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/automotive/waymo-dedicated-texas-hub-self-driving-trucks/",
-      "originalUrl": "https://newatlas.com/automotive/waymo-dedicated-texas-hub-self-driving-trucks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/6981b2a/2147483647/strip/true/crop/1620x1080+150+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F54%2Fb3%2Faf7f948749be8c11427aabf027e8%2Fryder-waymo.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/automotive/waymo-dedicated-texas-hub-self-driving-trucks/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/waymo-dedicated-texas-hub-self-driving-trucks/?amp=true",
-      "publishedDateTime": "2021-08-18T23:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

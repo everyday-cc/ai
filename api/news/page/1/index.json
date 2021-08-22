@@ -113,7 +113,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/4-robotics-stocks-to-watch-this-week-2021-08-21",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 96,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -241,6 +241,92 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-21-call-center-ai-market-to-witness-huge-growth-by-2028-ibm-google-microsoft.md",
+      "title": "Call Center AI Market to Witness Huge Growth by 2028 | IBM , Google , Microsoft",
+      "excerpt": "Announced Call Center AI study with 200+ market data Tables and Figures spread through Pages and easy to understand detailed TOC on “Call Center AI. Call Center AI industry Report allows you to get different methods for maximizing your profit.",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/call-center-ai-market-to-witness-huge-growth-by-2028-ibm-google-microsoft/",
+      "originalUrl": "https://manometcurrent.com/call-center-ai-market-to-witness-huge-growth-by-2028-ibm-google-microsoft/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manometcurrent.com/wp-content/uploads/2021/08/Internet-of-Things-Insurance-Market-390x220.png",
+          "width": 390,
+          "height": 220,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/call-center-ai-market-to-witness-huge-growth-by-2028-ibm-google-microsoft/?amp=1",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/call-center-ai-market-to-witness-huge-growth-by-2028-ibm-google-microsoft/?amp=1",
+      "publishedDateTime": "2021-08-21T00:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-21-us-woman-becomes-a-superwoman-for-afghan-all-girl-robotics-team-rescues-10.md",
+      "title": "US woman becomes a superwoman for Afghan all-girl robotics team, rescues 10",
+      "excerpt": "The team, consisting of young women ageing from 16 to 18 years, was scared as the Taliban took control and they were on the mind of the US woman, who previously met them in 2019.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/trending/trending-globally/mother-of-11-allyson-reneau-becomes-a-superwoman-for-afghan-womens-robotics-team-7462846/",
+      "originalUrl": "https://indianexpress.com/article/trending/trending-globally/mother-of-11-allyson-reneau-becomes-a-superwoman-for-afghan-womens-robotics-team-7462846/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2021/08/allyson.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/trending/trending-globally/mother-of-11-allyson-reneau-becomes-a-superwoman-for-afghan-womens-robotics-team-7462846/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/trending/trending-globally/mother-of-11-allyson-reneau-becomes-a-superwoman-for-afghan-womens-robotics-team-7462846/lite/",
+      "publishedDateTime": "2021-08-20T20:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -1080,21 +1166,21 @@
       ]
     },
     {
-      "path": "_news/2021-08-20-waymos-autonomous-vehicles-have-clocked-20-million-miles-on-public-roads.md",
-      "title": "Waymo's autonomous vehicles have clocked 20 million miles on public roads",
-      "excerpt": "Waymo has been testing its vehicles in San Francisco since 2009 and it ramped up its efforts in the city earlier this year. Its vehicles now clock north of 100,000 miles on SF's roads every week. Between narrow streets,",
+      "path": "_news/2021-08-20-aws-deepracer-robomaker-image.md",
+      "title": "AWS DeepRacer Robomaker Image",
+      "excerpt": "AVX is available on most Intel Core processors from the second generation on - running DeepRacer on an older processor really does not make sense; hence we do not have pre-built images without this instruction set. AVX2 is available on more modern Intel ...",
       "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/waymo-autonomous-vehicles-update-san-francisco-193934150.html",
-      "originalUrl": "https://www.engadget.com/waymo-autonomous-vehicles-update-san-francisco-193934150.html",
+      "webUrl": "https://github.com/aws-deepracer-community/deepracer-simapp/blob/master/README.md",
+      "originalUrl": "https://github.com/aws-deepracer-community/deepracer-simapp/blob/master/README.md",
       "featuredContent": null,
       "highlight": null,
-      "heat": 168,
+      "heat": 71,
       "tags": null,
       "images": [
         {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-08/2229add0-0124-11ec-bfdd-21d53ef207c7",
-          "width": 2048,
-          "height": 1152,
+          "url": "https://opengraph.githubassets.com/8974c5509d5b27c060e4a5c74d508fdf14e2b3b8566b937df0d97c131812003a/aws-deepracer-community/deepracer-simapp",
+          "width": 1200,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1104,63 +1190,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T19:42:00-07:00",
+      "publishedDateTime": "2021-08-19T21:51:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-baidu-pushing-to-expand-robotaxi-to-30-chinese-cities-by-2023-2024.md",
-      "title": "Baidu Pushing to Expand Robotaxi to 30 Chinese cities by 2023-2024",
-      "excerpt": "Baidu plans to expand its robotaxi ride-hailing services across 30 cities in China in two to three years to serve a wider range of users. Robin Li, founder of",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextbigfuture.com/2021/08/baidu-pushing-to-expand-robotaxi-to-30-chinese-cities-by-2023-2024.html",
-      "originalUrl": "https://www.nextbigfuture.com/2021/08/baidu-pushing-to-expand-robotaxi-to-30-chinese-cities-by-2023-2024.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nextbigfuture.s3.amazonaws.com/uploads/2021/08/Screen-Shot-2021-08-19-at-2.32.36-PM.jpg",
-          "width": 1952,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextbigfuture.com/2021/08/baidu-pushing-to-expand-robotaxi-to-30-chinese-cities-by-2023-2024.html",
-      "cdnAmpWebUrl": "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/08/baidu-pushing-to-expand-robotaxi-to-30-chinese-cities-by-2023-2024.html",
-      "publishedDateTime": "2021-08-19T14:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NextBigFuture",
-        "domain": "nextbigfuture.com",
+        "name": "GitHub",
+        "domain": "github.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1170,59 +1204,9 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-top-gun-star-lost-his-voice-to-cancer-he-used-ai-to-bring-it-back.md",
-      "title": "'Top Gun' star lost his voice to cancer. He used AI to bring it back.",
-      "excerpt": "Actor Val Kilmer lost his voice in 2015 due to complications to throat cancer. For his new documentary \"Val,\" Kilmer sought out a company to create a synthetic version of his voice using audio deepfake technology to be used as a voiceover.",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/videos/business/2021/08/19/val-kilmer-ai-voice-js-orig.cnn-business/video/playlists/business-news/",
-      "originalUrl": "https://edition.cnn.com/videos/business/2021/08/19/val-kilmer-ai-voice-js-orig.cnn-business/video/playlists/business-news/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210721144935-val-kilmer-documentary-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2021/08/19/val-kilmer-ai-voice-js-orig.cnn-business",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/08/19/val-kilmer-ai-voice-js-orig.cnn-business",
-      "publishedDateTime": "2021-08-19T14:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
+        "AWS AI",
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

@@ -20,53 +20,101 @@ topics:
   - AI
 
 related:
-  - title: "AI in Medical Imaging Diagnosis Market Is Booming Worldwide | GE Healthcare, IBM Watson Health, Philips Healthcare"
-    excerpt: "Our report will be revised to address COVID-19 pre-Post pandemic effects on the Global AI in Medical Imaging Diagnosis Market. Click to get Global AI in Medical Imaging Diagnosis Market Research Free Sample PDF Copy Here Before Purchase @: jcmarketresearch."
-    publishedDateTime: 2021-08-17T15:20:00Z
-    webUrl: "https://manometcurrent.com/ai-in-medical-imaging-diagnosis-market-is-booming-worldwide-ge-healthcare-ibm-watson-health-philips-healthcare/"
-    ampWebUrl: "https://manometcurrent.com/ai-in-medical-imaging-diagnosis-market-is-booming-worldwide-ge-healthcare-ibm-watson-health-philips-healthcare/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/ai-in-medical-imaging-diagnosis-market-is-booming-worldwide-ge-healthcare-ibm-watson-health-philips-healthcare/?amp=1"
+  - title: "Call Center AI Market to Witness Huge Growth by 2028 | IBM , Google , Microsoft"
+    excerpt: "Announced Call Center AI study with 200+ market data Tables and Figures spread through Pages and easy to understand detailed TOC on “Call Center AI. Call Center AI industry Report allows you to get different methods for maximizing your profit."
+    publishedDateTime: 2021-08-21T07:52:00Z
+    webUrl: "https://manometcurrent.com/call-center-ai-market-to-witness-huge-growth-by-2028-ibm-google-microsoft/"
+    ampWebUrl: "https://manometcurrent.com/call-center-ai-market-to-witness-huge-growth-by-2028-ibm-google-microsoft/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/call-center-ai-market-to-witness-huge-growth-by-2028-ibm-google-microsoft/?amp=1"
     type: article
     provider:
       name: manometcurrent.com
       domain: manometcurrent.com
-    quality: 69
+    quality: 70
     images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/global-silicone-swimming-caps-market-390x220.png"
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/Internet-of-Things-Insurance-Market-390x220.png"
         width: 390
         height: 220
         isCached: true
-  - title: "Artificial Intelligence Based Medical Device Market May Set Epic Growth Story | NVIDIA, Medtronic, GE Healthcare"
-    excerpt: "Worldwide Artificial Intelligence Based Medical Device Market In depth Research Report 2021 Forecast to 2026 is latest research study released by HTF MI evaluating the market risk side analysis highlighting opportunities and leveraged with strategic and tactical decision making support"
-    publishedDateTime: 2021-08-19T12:48:00Z
-    webUrl: "https://www.openpr.com/news/2360701/artificial-intelligence-based-medical-device-market-may-set"
-    ampWebUrl: "https://www.openpr.com/amp/2360701/artificial-intelligence-based-medical-device-market-may-set"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2360701/artificial-intelligence-based-medical-device-market-may-set"
+  - title: "Artificial Intelligence(AI) in Retail Market Latest Advancement and Business Outlook 2021 - 2027: IBM, Microsoft, Nvidia, Amazon Web Services"
+    excerpt: "Market Insights Reports released a new study on 2021 2027 Artificial Intelligence AI in Retail Market with 100 data Tables Pie Chat Graphs Figures spread through Pages and easy to understand detailed analysis The Global Artificial Intelligence AI in Retail"
+    publishedDateTime: 2021-08-18T18:39:00Z
+    webUrl: "https://www.openpr.com/news/2359634/artificial-intelligence-ai-in-retail-market-latest"
+    ampWebUrl: "https://www.openpr.com/amp/2359634/artificial-intelligence-ai-in-retail-market-latest"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2359634/artificial-intelligence-ai-in-retail-market-latest"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 53
-    images:
-      - url: "https://cdn.openpr.com/U/8/U819997887_g.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Artificial Intelligence Market Is Booming Worldwide | IBM, Intel, Nuance Communications, IFLYTEK"
-    excerpt: "The Artificial Intelligence Market research report includes an in-sight study of the key Global Artificial Intelligence Market prominent players along with the company profiles and planning adopted by them."
-    publishedDateTime: 2021-08-19T05:15:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-market-is-booming-worldwide-ibm-intel-nuance-communications-iflytek/"
-    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-market-is-booming-worldwide-ibm-intel-nuance-communications-iflytek/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-market-is-booming-worldwide-ibm-intel-nuance-communications-iflytek/?amp=1"
+    quality: 51
+  - title: "Speech Recognition Software Market – increasing demand with Industry Professionals: IBM, Microsoft, Nuance Communications"
+    excerpt: "Announced Speech Recognition Software study with 200+ market data Tables and Figures spread through Pages and easy to understand detailed TOC on “Speech Recognition Software. Speech Recognition Software industry Report allows you to get different methods for maximizing your profit."
+    publishedDateTime: 2021-08-21T18:18:00Z
+    webUrl: "https://manometcurrent.com/speech-recognition-software-market-increasing-demand-with-industry-professionals-ibm-microsoft-nuance-communications/"
+    ampWebUrl: "https://manometcurrent.com/speech-recognition-software-market-increasing-demand-with-industry-professionals-ibm-microsoft-nuance-communications/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/speech-recognition-software-market-increasing-demand-with-industry-professionals-ibm-microsoft-nuance-communications/?amp=1"
     type: article
     provider:
       name: manometcurrent.com
       domain: manometcurrent.com
-    quality: 44
+    quality: 51
     images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/Global-Artificial-Intelligence-Market-Including-Key-Players-Market-Share.jpg"
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/Autonomous-Vehicles-Market-390x220.jpeg"
+        width: 390
+        height: 220
+        isCached: true
+  - title: "Machine Learning as a Service (MLaaS) Market 2021 to Witness Stunning Growth-Microsoft Corporation, IBM Corporation, Google LLC"
+    excerpt: "Market Research Report 2021-2026 published by Market Insights Reports is a significant source of keen information for business specialists. It furnishes the Machine Learning as a Service (MLaaS) business outline with development investigation and historical and futuristic cost analysis,"
+    publishedDateTime: 2021-08-17T16:47:00Z
+    webUrl: "https://www.openpr.com/news/2358161/machine-learning-as-a-service-mlaas-market-2021-to-witness"
+    ampWebUrl: "https://www.openpr.com/amp/2358161/machine-learning-as-a-service-mlaas-market-2021-to-witness"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2358161/machine-learning-as-a-service-mlaas-market-2021-to-witness"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 43
+  - title: "Cloud Natural Language Processing Market to Witness Massive Growth by Microsoft, Facebook, Google"
+    excerpt: "This press release was orginally distributed by SBWire Edison, NJ — (SBWIRE) — 08/18/2021 — The latest study released on the Global Cloud Natural Language Processing Market by AMA Research evaluates market size,"
+    publishedDateTime: 2021-08-18T13:57:00Z
+    webUrl: "https://www.digitaljournal.com/pr/cloud-natural-language-processing-market-to-witness-massive-growth-by-microsoft-facebook-google"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 43
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/Portugal-Wildfire-AFP-1K-01-e1629214093515-600x337.jpg"
         width: 600
-        height: 400
+        height: 337
+        isCached: true
+  - title: "Microsoft unwraps top secret cloud"
+    excerpt: "Microsoft announced its top secret, air-gapped Azure cloud has received authorization to operate and are 'generally available' for national security workloads."
+    publishedDateTime: 2021-08-17T20:06:00Z
+    webUrl: "https://gcn.com/articles/2021/08/17/microsoft-top-secret-cloud.aspx"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 39
+    images:
+      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Cloud/topsecret_cloud.jpg"
+        width: 760
+        height: 368
+        isCached: true
+  - title: "Neural Network Software Market to Witness Huge Growth by 2026: Google, Neurala, IBM"
+    excerpt: "This press release was orginally distributed by SBWire Edison, NJ — (SBWIRE) — 08/18/2021 — The latest study released on the Global Neural Network Software Market by AMA Research evaluates market size,"
+    publishedDateTime: 2021-08-19T03:28:00Z
+    webUrl: "https://www.digitaljournal.com/pr/neural-network-software-market-to-witness-huge-growth-by-2026-google-neurala-ibm"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 33
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/Mask-Covid-Pandemic-AFP-1K-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "6Z08Tv7vX2JAVcxAIOKPRHE56RWJ5aNG3yeVcPK/VkZOKoUkhSX4AiCksd7Fns2o2C4f8eKAVclGU/8HXXmlVpnUF1WOeoeKVapewE9r127Wx4Or24i85/XdlkvtrefIs5j+ipcqT1q1z2F+797VaJENj3GBrwKaBUD8DeG4HI34Xis5Dh0GCiw2CXvGVFnF9B9YqJKbj9u2h3XG46lpNP24QsXwTF3BNRs3E+YI4zplHOJYCDSs4GNKJ3YL6rZnNoh5pSiV/s6jXmInA5DWS1sdsuOOJ51Ju9OmA0sri8+AV7R1eWOi57EO1N+CZm5IO67W4NSiZ8Umy/bzf/ox+xA+H4BnhObOm4uRQQ9wf1o=;EM/67hkT7fr2WmoerF9NWQ=="

@@ -71,20 +71,6 @@ related:
         width: 768
         height: 385
         isCached: true
-  - title: "Patterns for multi-account, hub-and-spoke Amazon SageMaker model registry"
-    excerpt: "Data science workflows have to pass multiple stages as they progress from the experimentation to production pipeline. A common approach involves separate accounts dedicated to different phases of the AI/ML workflow (experimentation, development, and production). In addition, issues related to data access"
-    publishedDateTime: 2021-08-17T14:51:20Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/patterns-for-multi-account-hub-and-spoke-amazon-sagemaker-model-registry/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 88
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/03/ML-3798-image003.jpg"
-        width: 621
-        height: 369
-        isCached: true
   - title: "Migrate your work to an Amazon SageMaker notebook instance with Amazon Linux 2"
     excerpt: "Amazon SageMaker notebook instances now support Amazon Linux 2, so you can now create a new Amazon SageMaker notebook instance to start developing your machine learning (ML) models with the latest updates. An obvious question is: what do I need to do to migrate my work from an existing notebook instance"
     publishedDateTime: 2021-08-18T22:36:58Z

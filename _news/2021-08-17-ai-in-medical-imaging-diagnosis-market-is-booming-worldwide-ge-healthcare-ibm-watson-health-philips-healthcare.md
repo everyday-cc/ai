@@ -9,7 +9,7 @@ ampWebUrl: "https://manometcurrent.com/ai-in-medical-imaging-diagnosis-market-is
 cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/ai-in-medical-imaging-diagnosis-market-is-booming-worldwide-ge-healthcare-ibm-watson-health-philips-healthcare/?amp=1"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -60,17 +60,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "AI Recruitment Market is Booming Worldwide with Google, IBM, Oracle"
-    excerpt: "Advance Market Analytics published a new research publication on AI Recruitment Market Insights to 2026 with 232 pages and enriched with self explained Tables and charts in presentable format In the Study you will find new evolving Trends Drivers Restraints"
-    publishedDateTime: 2021-08-18T19:43:00Z
-    webUrl: "https://www.openpr.com/news/2359662/ai-recruitment-market-is-booming-worldwide-with-google-ibm"
-    ampWebUrl: "https://www.openpr.com/amp/2359662/ai-recruitment-market-is-booming-worldwide-with-google-ibm"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2359662/ai-recruitment-market-is-booming-worldwide-with-google-ibm"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 37
 
 secured: "mhX0XkCTe2Cyv/Kh++8iXvi35JTkIjcRZonDRsYMh9LJgdMylNaZTSKC9b/CXydq12Vpk7qYx2RVNYlR6G9pyOhNka8fOK4Hw1LcOp3UYjlPuvpxpy0N6rLTIuCNirAkG3DW86KOuqpEMshHrWe8XXZVJ4cB0UrZeidungLEWb8thOJ/T4RpnARKprW1OV3zFLz1aAOMrnCQYJ5JiSyqdGCo1bKwdRrd41uAXmVRa+gwop704ZGw8HxfQHZjOdChYkn1cQeRTwh9Lokspa+gu612jNf25GLl+P3eRFwxa5chZTxtvS7w/q2hT0uBs8tGLXuCgxtXsoodaZKU0tTyXA00WEw6TguadAo6JPp9wYcRXr2Ip4MCCtPWYm7QZs/oCSM9NhNAvkJyoazAkAJ0niuDKfBmGsOu2g0f6NsPHB0kT7BI3h/rshYUNP1ayggUOTDr5pUoCLvnDkp5e927lr7aucKkksU4XnJ1ehrGzB0Fj0Av395AhiAlb1gTrJxOfkXwWfLWV/z4euXmXew9mw==;UydOJwbStZcKd2dHp/9jsg=="
 ---

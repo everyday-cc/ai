@@ -68,6 +68,15 @@ related:
         width: 512
         height: 288
         isCached: true
+  - title: "How AI-powered tech landed man in jail with scant evidence"
+    excerpt: "Michael Williams’ wife pleaded with him to remember their fishing trips with the grandchildren, how he used to braid her hair, anything to jar him back to his world outside the concrete walls of Cook County Jail."
+    publishedDateTime: 2021-08-22T07:09:00Z
+    webUrl: "https://columbiabasinherald.com/news/2021/aug/22/how-ai-powered-tech-landed-man-in-jail-with-2/"
+    type: article
+    provider:
+      name: Columbia Basin Herald
+      domain: columbiabasinherald.com
+    quality: 17
 
 secured: "gBJt0+evznu+o6sbNafbTwMj5ro8ZFZ7qzIYfSQs4Sh+bqMbpQWgE/DK0n9svL7Xy7Ipti6hdi2TIvbylW4TawFdxGoaOQN7DMFhj5X/f7YDrqAjsHxyqoWtuXWZM++yYJP0KiDl8HJSgwqTxojrew3ZrE5pfTKO861n4FmbFNIVl1H3uZELutg0aK4vQZ7FYgxcO/jU4D0CqJuvu8I7YgrQMG5zb4T32FWh1vhZjA2Stc1gUebctJxduW84JX+epeViwEqLZOU6XTfdak8v2csTYLkVdkzD99elK6Kz4YmEm1BBbyX+JqG+e3fsyMrZl4HhCdXqQ6O4SlnRU+9kf2W00FtkuugCXZK3gr6+1yk=;84a/jt241suzli4hum/cEQ=="
 ---

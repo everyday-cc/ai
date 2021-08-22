@@ -61,20 +61,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "Live: How will AI shape our life and future? Live: How will AI shape our life and future? Live: How will AI shape our life and future?"
-    excerpt: "The Virtual Baidu World Conference 2021 is underway, demonstrating the firm's latest breakthroughs in artificial intelligence (AI) and its applications in everyday life."
-    publishedDateTime: 2021-08-17T14:46:00Z
-    webUrl: "https://news.cgtn.com/news/2021-08-17/Live-How-will-AI-shape-our-life-and-future--12NUnudX3RC/index.html"
-    type: article
-    provider:
-      name: CGTN
-      domain: cgtn.com
-    quality: 7
-    images:
-      - url: "https://news.cgtn.com/news/2021-08-17/Live-How-will-AI-shape-our-life-and-future--12NUnudX3RC/img/78775740fe314289a8d82da1ea45d507/78775740fe314289a8d82da1ea45d507-1920.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "gXaWq/aFyAvyoIH0zK+210J8r5+f/GmkxBmUNddxj0BU1HQENsMe4dO2nosbk2d2hoP1KCjRm3iBixOZ9Xnh0Lt9SHjmKPVo9hoCylom5C42TEnHO8vYJ880pM9uk5+Y7EhXEzpSP8VcPm/szGpEkWA9JjLDY+haL40WQQzesXkIv2XcR7v6SnWs+qMhq4TE+QjUzADM8tNbuOfrEhaYh66lwj04SC5k/LCrmxTnIIOwWo+6a8Kc8y3mxobrMlw5GQV0MLg+8J+zU0KjieH1ZuEJuEf1TUxosk27qhZyaAfVxjmKv6KAsTWuPOlFvyI7BQl2eCZAow3D9xDVdF16eTuOK5usal0Ls+4QN0VoifyrcENpN/UYeu43VI+Dmj32I4DOvJ+LcsqFNpqZEY3Q2tBJwjSkxG6UcWAKDSxKTyEnRCND+aoGwmWAQ0BqO6QqETmaGxvYC147zzNJsxQX8LSaJZtGpczXXFDDOZcSXTZKVSgYDueEyjNF7DhE9f3Ghil1Wzu/JiP1JODNR4CkgQ==;RVVPl9wgBFoYhfGWnH8X+g=="
 ---

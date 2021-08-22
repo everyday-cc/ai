@@ -19,91 +19,59 @@ topics:
   - AI
 
 related:
-  - title: "AI-powered travel tech platform Hopper raises $175M"
-    excerpt: "Hopper, the AI-powered predictive airfare and hotel rate platform, has raised $170 million in a series G round of funding."
-    publishedDateTime: 2021-08-17T13:08:00Z
-    webUrl: "https://venturebeat.com/2021/08/17/ai-powered-travel-tech-platform-hopper-raises-175m/"
-    ampWebUrl: "https://venturebeat.com/2021/08/17/ai-powered-travel-tech-platform-hopper-raises-175m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/17/ai-powered-travel-tech-platform-hopper-raises-175m/amp/"
+  - title: "FinTech SPAC Activity Heats Up"
+    excerpt: "In that filing, TG Venture said technologies under consideration for business combinations will include AI, blockchain and other advances. The filing notes, “FinTech is disruptive to our life every day. The power dynamics in the payments industry are ..."
+    publishedDateTime: 2021-08-20T15:15:00Z
+    webUrl: "https://www.pymnts.com/news/ipo/2021/fintech-spac-activity-heats-up/"
+    ampWebUrl: "https://www.pymnts.com/news/ipo/2021/fintech-spac-activity-heats-up/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/ipo/2021/fintech-spac-activity-heats-up/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/08/Hopper-Cofounders-Joost-Ouwerkerk-Frederic-Lalonde..jpg?w=1200&strip=all"
-        width: 1200
-        height: 614
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/08/IPO-SPAC-FinTech-457x274.jpg"
+        width: 457
+        height: 274
         isCached: true
-  - title: "AI-powered design platform Uizard picks up $15M"
-    excerpt: "Uizard, an AI-powered mobile app and desktop software design platform, has raised $15 million in venture capital financing."
-    publishedDateTime: 2021-08-18T12:00:00Z
-    webUrl: "https://venturebeat.com/2021/08/18/ai-powered-design-platform-uizard-picks-up-15m/"
-    ampWebUrl: "https://venturebeat.com/2021/08/18/ai-powered-design-platform-uizard-picks-up-15m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/18/ai-powered-design-platform-uizard-picks-up-15m/amp/"
+  - title: "4 Ways the Fintech Industry is Detecting and Preventing Frauds"
+    excerpt: "Digitization in the fintech industry is giving rise to financial fraud. It is essential to detect potential frauds and prevent them before any loss to the customer or the organization. Fremont, CA: Like all the industries,"
+    publishedDateTime: 2021-08-20T00:00:00Z
+    webUrl: "https://www.cioapplications.com/news/4-ways-the-fintech-industry-is-detecting-and-preventing-frauds-nid-8322.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 24
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-947663966-e1621956778415.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://www.cioapplications.com/uploaded_images/magazine_img/itqtp300400.jpg"
+        width: 300
+        height: 400
         isCached: true
-  - title: "ClosedLoop.ai Raises $34M to Expand Healthcare Data Science Platform"
-    excerpt: "ClosedLoop.ai., an Austin, TX-based healthcare data science platform, today announced it has raised $34 million in Series B funding."
-    publishedDateTime: 2021-08-17T20:38:00Z
-    webUrl: "https://hitconsultant.net/2021/08/17/closedloop-healthcare-data-science-funding/"
+  - title: "Top Fintech Trends Transforming Peoples Lives"
+    excerpt: "AI and ML have managed to retain their top positions in the FinTech trend for a long time. They have fuelled the rapid growth and development of new technologies in the FinTech industry. FREMONT, CA: The fintech industry is growing rapidly, and it is ..."
+    publishedDateTime: 2021-08-20T12:40:00Z
+    webUrl: "https://www.cioapplications.com/news/top-fintech-trends-transforming-peoples-lives-nid-8324.html"
     type: article
     provider:
-      name: HIT Consultant
-      domain: hitconsultant.net
-    quality: 56
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 24
     images:
-      - url: "https://mk0hitconsultan2lp7c.kinstacdn.com/wp-content/uploads/2021/08/ClosedLoop.png"
-        width: 906
-        height: 569
+      - url: "https://www.cioapplications.com/uploaded_images/magazine_img/itqtp300400.jpg"
+        width: 300
+        height: 400
         isCached: true
-  - title: "HR tech Startup Hiration raises Rs 21 cr; to offer AI-powered career platform for job seekers"
-    excerpt: "Hiration, an AI-powered career platform which helps professionals create high-impact resumes and find their dream job, has raised Rs 21 crore ($3 million) from Prime Venture Partners, Venture Highway and Y Combinator."
-    publishedDateTime: 2021-08-19T10:01:00Z
-    webUrl: "https://www.freepressjournal.in/business/hr-tech-startup-hiration-raises-rs-21-cr-to-offer-ai-powered-career-platform-for-job-seekers"
-    ampWebUrl: "https://www.freepressjournal.in/amp/business/hr-tech-startup-hiration-raises-rs-21-cr-to-offer-ai-powered-career-platform-for-job-seekers"
-    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/hr-tech-startup-hiration-raises-rs-21-cr-to-offer-ai-powered-career-platform-for-job-seekers"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 46
-    images:
-      - url: "https://images.assettype.com/freepressjournal/2020-10/e414dc5d-24a0-42a9-87a6-1f8de88c1cbd/2016_11_18T091019Z_1_LYNXeMPECAH0GF_RTROPTP_3_INDIA_MODI_CORRUPTION3qw.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Pngme raises $15m for financial data infrastructure platform"
-    excerpt: "Pngme, a San Francisco-based firm that builds data infrastructure and out-of-the box machine learning capabilities for financial institutions and fintechs across sub-Saharan Africa, has raised $15 million in a Series A funding round led by Octopus Ventures."
-    publishedDateTime: 2021-08-17T23:25:00Z
-    webUrl: "https://www.finextra.com/newsarticle/38667/pngme-raises-15m-for-financial-data-infrastructure-platform"
+  - title: "Celebrating fintech’s role at the heart of the new normal"
+    excerpt: "Innovate Finance has launched a new forum to explore the potential of fintech to create a more inclusive and sustainable world. What good timing - fintech has performed impressively amidst the pandemic and will have a crucial role to play as restrictions are lifted and we settle  into our ‘new normal’."
+    publishedDateTime: 2021-08-21T04:38:00Z
+    webUrl: "https://www.finextra.com/blogposting/20765/celebrating-fintechs-role-at-the-heart-of-the-new-normal"
     type: article
     provider:
       name: Finextra
       domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/900fintech-africa.jpg"
-        width: 480
-        height: 270
-        isCached: true
-  - title: "Hiration Raises $3M to Offer its Affordable, AI-powered Resume-Building Platform to Job Seekers All Over The World"
-    excerpt: "Today Hiration, the platform that offers world class resources that makes it easy for qualified candidates to create the perfect resumes and find their dream role, announced it has raised $3M in seed funding from Prime Venture Partners,"
-    publishedDateTime: 2021-08-19T21:56:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-hiration-raises-3m-offer-its-affordable-ai-powered-/2021/08/19/9434545.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+    quality: 4
 
 secured: "QOXM+19bQAalDmAjGyHRaZGdW0/Fk8noCqcAwVESdqJAvgQk5jPlGqdyO0cJ3IHeF6t6yAEXI4Z/B7VPNytT8j5JFgeHf2AOZxSWb4FXtHOKmKqoLNWllM75Q6c9PTtri/j5lQ/IyvpTJIA7Geb8INKIdViaQ9PgDG+r/LahD2GqFdSuq3StqtDrBZXIsFlrMDn0GDEm3JdNUdEEWzXTD/QVKWDpF4HgeuVAJy6Kkf2v2Mk6u8ktZqGnC/Xtp3xWevwNXmP3NPOBzEz1PnCGlPup8WEhMKvjlbdSnfcLCU4kmili2Vy6+9+ywqqvqQuzRLo4wGdSApm01yMJSxLAWKoOgxZP7scNdT7pj6wctFg=;6v98hwDSfJx1yp1czS9yOg=="
 ---
