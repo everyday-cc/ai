@@ -17,7 +17,7 @@
       "twitter": {
         "username": "LexFridman",
         "url": "https://twitter.com/LexFridman",
-        "followers": 754827
+        "followers": 754988
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=wZH_N7cAAAAJ",
@@ -41,7 +41,7 @@
         "Machine Learning",
         "AI in Autos"
       ],
-      "heat": 485,
+      "heat": 466,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/956331551435960322/OaqR8pAB_400x400.jpg",
@@ -67,7 +67,7 @@
       "twitter": {
         "username": "AndrewYNg",
         "url": "https://twitter.com/AndrewYNg",
-        "followers": 606515
+        "followers": 606535
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/andrewyng/"
@@ -102,7 +102,7 @@
         "AI",
         "Machine Learning"
       ],
-      "heat": 337,
+      "heat": 310,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_400x400.jpg",
@@ -128,7 +128,7 @@
       "twitter": {
         "username": "ylecun",
         "url": "https://twitter.com/ylecun",
-        "followers": 271273
+        "followers": 271287
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=WLN3QrAAAAAJ",
@@ -148,13 +148,63 @@
         "Computer Vision",
         "AI in Robotics"
       ],
-      "heat": 322,
+      "heat": 301,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/2387565623/7gew8nz1z7ik1ch148so_400x400.jpeg",
           "width": 400,
           "height": 400,
           "title": "Yann LeCun",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/alex-smola.md",
+      "title": "Alex Smola",
+      "excerpt": "Director for machine learning at Amazon Web Services, building exciting machine learning tools for data scientists, computer vision, NLP, deep learning and beyond.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/alex-smola/index.json",
+      "webUrl": "https://everyday.cc/ai/people/alex-smola/",
+      "type": "profile",
+      "name": "Alex Smola",
+      "bio": "Director for machine learning at Amazon Web Services, building exciting machine learning tools for data scientists, computer vision, NLP, deep learning and beyond.",
+      "location": "Palo Alto, CA",
+      "website": "http://alex.smola.org/",
+      "twitter": {
+        "username": "smolix",
+        "url": "https://twitter.com/smolix",
+        "followers": 17628
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=Tb0ZrYwAAAAJ",
+        "citations": 147376
+      },
+      "affiliation": {
+        "path": "",
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ],
+      "heat": 273,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1168185464420892672/nxFMdN95_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Alex Smola",
           "isCached": true
         }
       ],
@@ -174,7 +224,7 @@
       "twitter": {
         "username": "drfeifei",
         "url": "https://twitter.com/drfeifei",
-        "followers": 387184
+        "followers": 387198
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=rDfyQnIAAAAJ",
@@ -208,7 +258,7 @@
         "Computer Vision",
         "AI in Healthcare"
       ],
-      "heat": 291,
+      "heat": 257,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/841385099799085056/R1iX4QGX_400x400.jpg",
@@ -233,7 +283,7 @@
       "twitter": {
         "username": "demishassabis",
         "url": "https://twitter.com/demishassabis",
-        "followers": 235727
+        "followers": 235740
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=dYpPMQEAAAAJ",
@@ -248,7 +298,7 @@
         "AI",
         "Machine Learning"
       ],
-      "heat": 274,
+      "heat": 253,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/691700243809718272/z7XZUARB_400x400.jpg",
@@ -272,7 +322,7 @@
       "twitter": {
         "username": "geoffreyhinton",
         "url": "https://twitter.com/geoffreyhinton",
-        "followers": 124694
+        "followers": 124703
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=JicYPdAAAAAJ",
@@ -290,13 +340,67 @@
         "AI",
         "Machine Learning"
       ],
-      "heat": 260,
+      "heat": 235,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1084213316963057664/fQGCUSt0_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Geoffrey Hinton",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/jeff-dean.md",
+      "title": "Jeff Dean",
+      "excerpt": "Senior Fellow & SVP, Google AI (Research and Health).  Co-designer/implementor of software systems like @TensorFlow, MapReduce, BigTable, Spanner, ..",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/jeff-dean/index.json",
+      "webUrl": "https://everyday.cc/ai/people/jeff-dean/",
+      "type": "profile",
+      "name": "Jeff Dean",
+      "bio": "Senior Fellow & SVP, Google AI (Research and Health).  Co-designer/implementor of software systems like @TensorFlow, MapReduce, BigTable, Spanner, ..",
+      "website": "https://t.co/ajoSG5g4Rn",
+      "twitter": {
+        "username": "jeffdean",
+        "url": "https://twitter.com/jeffdean",
+        "followers": 194065
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=NMS69lQAAAAJ",
+        "citations": 187238
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Google",
+        "domain": "google.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/google.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          },
+          {
+            "url": "/assets/images/organizations/google.com-400x400.jpg",
+            "width": 400,
+            "height": 400,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 235,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/935325968280907776/AcBo6zJc_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Jeff Dean",
           "isCached": true
         }
       ],
@@ -350,7 +454,7 @@
             "AI",
             "Machine Learning"
           ],
-          "heat": 260,
+          "heat": 235,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1084213316963057664/fQGCUSt0_400x400.jpg",
@@ -374,7 +478,7 @@
             "Computer Vision",
             "AI in Robotics"
           ],
-          "heat": 322,
+          "heat": 301,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/2387565623/7gew8nz1z7ik1ch148so_400x400.jpeg",
@@ -387,7 +491,7 @@
         }
       ],
       "size": 3,
-      "heat": 260,
+      "heat": 235,
       "images": [
         {
           "url": "https://scholar.google.com/citations?view_op=view_photo&user=kukA0LcAAAAJ&citpid=3",
@@ -395,60 +499,6 @@
           "height": 128,
           "title": "Yoshua Bengio",
           "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/jeff-dean.md",
-      "title": "Jeff Dean",
-      "excerpt": "Senior Fellow & SVP, Google AI (Research and Health).  Co-designer/implementor of software systems like @TensorFlow, MapReduce, BigTable, Spanner, ..",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/jeff-dean/index.json",
-      "webUrl": "https://everyday.cc/ai/people/jeff-dean/",
-      "type": "profile",
-      "name": "Jeff Dean",
-      "bio": "Senior Fellow & SVP, Google AI (Research and Health).  Co-designer/implementor of software systems like @TensorFlow, MapReduce, BigTable, Spanner, ..",
-      "website": "https://t.co/ajoSG5g4Rn",
-      "twitter": {
-        "username": "jeffdean",
-        "url": "https://twitter.com/jeffdean",
-        "followers": 194065
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=NMS69lQAAAAJ",
-        "citations": 187238
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Google",
-        "domain": "google.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/google.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          },
-          {
-            "url": "/assets/images/organizations/google.com-400x400.jpg",
-            "width": 400,
-            "height": 400,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 232,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/935325968280907776/AcBo6zJc_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Jeff Dean",
-          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -467,7 +517,7 @@
       "twitter": {
         "username": "soumithchintala",
         "url": "https://twitter.com/soumithchintala",
-        "followers": 89832
+        "followers": 89833
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/soumith"
@@ -483,7 +533,7 @@
         "Facebook AI",
         "PyTorch"
       ],
-      "heat": 199,
+      "heat": 197,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/959995586689691648/DAFep10r_400x400.jpg",
@@ -509,7 +559,7 @@
       "twitter": {
         "username": "chrmanning",
         "url": "https://twitter.com/chrmanning",
-        "followers": 82881
+        "followers": 82884
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=1zmDOdwAAAAJ",
@@ -539,7 +589,7 @@
         "Natural Language Processing",
         "Machine Learning"
       ],
-      "heat": 198,
+      "heat": 175,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/512256295542333440/8Jo4w8kV_400x400.jpeg",
@@ -563,7 +613,7 @@
       "twitter": {
         "username": "ilyasut",
         "url": "https://twitter.com/ilyasut",
-        "followers": 67238
+        "followers": 67237
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=x04W_mMAAAAJ",
@@ -581,184 +631,13 @@
         "AI",
         "Machine Learning"
       ],
-      "heat": 193,
+      "heat": 162,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1425684733753626624/q521TgTG_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Ilya Sutskever",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/kai-fu-lee.md",
-      "title": "Kai-Fu Lee",
-      "excerpt": "Kai-Fu Lee is a Taiwanese-born American computer scientist, businessman, and writer. He is currently based in Beijing, China. Lee developed the world's first speaker-independent, continuous speech recognition system as his Ph.D. thesis at Carnegie Mellon. ",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/kai-fu-lee/index.json",
-      "webUrl": "https://everyday.cc/ai/people/kai-fu-lee/",
-      "type": "profile",
-      "name": "Kai-Fu Lee",
-      "bio": "Kai-Fu Lee is a Taiwanese-born American computer scientist, businessman, and writer. He is currently based in Beijing, China. Lee developed the world's first speaker-independent, continuous speech recognition system as his Ph.D. thesis at Carnegie Mellon. ",
-      "location": "Beijing, China",
-      "website": "https://t.co/1QmLHUi5s4",
-      "twitter": {
-        "username": "kaifulee",
-        "url": "https://twitter.com/kaifulee",
-        "followers": 1522967
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=lm2nBYkAAAAJ",
-        "citations": 17683
-      },
-      "weibo": {
-        "url": "https://www.weibo.com/kaifulee",
-        "followers": 51934864
-      },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Kai-Fu_Lee"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Sinovation Ventures",
-        "domain": "sinovationventures.com"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 147,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1016438132844032001/d6QB0d6c_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Kai-Fu Lee",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/nando-de-freitas.md",
-      "title": "Nando de Freitas",
-      "excerpt": "Nando de Freitas is a Professor of Computer Science at the University of Oxford. He is also a Fellow of Linacre College, Oxford. De Freitas is noted as an authority in the field of machine learning, and in particular in the subfields of neural networks, Bayesian inference and Bayesian optimization, and deep learning.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/nando-de-freitas/index.json",
-      "webUrl": "https://everyday.cc/ai/people/nando-de-freitas/",
-      "type": "profile",
-      "name": "Nando de Freitas",
-      "bio": "Nando de Freitas is a Professor of Computer Science at the University of Oxford. He is also a Fellow of Linacre College, Oxford. De Freitas is noted as an authority in the field of machine learning, and in particular in the subfields of neural networks, Bayesian inference and Bayesian optimization, and deep learning.",
-      "location": "London, England",
-      "website": "https://t.co/uy8OBWPHze",
-      "twitter": {
-        "username": "NandoDF",
-        "url": "https://twitter.com/NandoDF",
-        "followers": 84819
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=nzEluBwAAAAJ",
-        "citations": 44337
-      },
-      "affiliation": {
-        "path": "",
-        "name": "google.com - Homepage",
-        "domain": "google.com - Homepage"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 133,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1338407584370462720/WVbG5sqw_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Nando de Freitas",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/kyle-cranmer.md",
-      "title": "Kyle Cranmer",
-      "excerpt": "Particle physics, LHC, stats/ML/AI, collaborative & open science. Executive Director Moore-Sloan Data Science Environment at NYU.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/kyle-cranmer/index.json",
-      "webUrl": "https://everyday.cc/ai/people/kyle-cranmer/",
-      "type": "profile",
-      "name": "Kyle Cranmer",
-      "bio": "Particle physics, LHC, stats/ML/AI, collaborative & open science. Executive Director Moore-Sloan Data Science Environment at NYU.",
-      "location": "New York",
-      "website": "https://t.co/OiHC3bfPoX",
-      "twitter": {
-        "username": "KyleCranmer",
-        "url": "https://twitter.com/KyleCranmer",
-        "followers": 11037
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=EZjSxgwAAAAJ",
-        "citations": 171068
-      },
-      "affiliation": {
-        "path": "",
-        "name": "nyu.edu",
-        "domain": "nyu.edu"
-      },
-      "topics": [
-        "AI",
-        "Math for AI",
-        "Machine Learning"
-      ],
-      "heat": 118,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/378800000065241474/e47527eed661a899d666329eb2774477_400x400.jpeg",
-          "width": 400,
-          "height": 400,
-          "title": "Kyle Cranmer",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/bernhard-scholkopf.md",
-      "title": "Bernhard Schölkopf",
-      "excerpt": "Director, Max Planck Institute for Intelligent Systems; and Distinguished Amazon Scholar",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/bernhard-scholkopf/index.json",
-      "webUrl": "https://everyday.cc/ai/people/bernhard-scholkopf/",
-      "type": "profile",
-      "name": "Bernhard Schölkopf",
-      "bio": "Director, Max Planck Institute for Intelligent Systems; and Distinguished Amazon Scholar",
-      "twitter": {
-        "username": "bschoelkopf",
-        "url": "https://twitter.com/bschoelkopf",
-        "followers": 7529
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=DZ-fHPgAAAAJ",
-        "citations": 175450
-      },
-      "affiliation": {
-        "path": "",
-        "name": "tuebingen.mpg.de",
-        "domain": "tuebingen.mpg.de"
-      },
-      "topics": [
-        "AI",
-        "Math for AI",
-        "Machine Learning"
-      ],
-      "heat": 108,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/660352760513216512/XZCp8ZWc_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Bernhard Schölkopf",
           "isCached": true
         }
       ],
@@ -789,7 +668,7 @@
         "Machine Learning",
         "TensorFlow"
       ],
-      "heat": 104,
+      "heat": 153,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1288330700752482304/BfXxtH9Q_400x400.jpg",
@@ -802,50 +681,41 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/alex-smola.md",
-      "title": "Alex Smola",
-      "excerpt": "Director for machine learning at Amazon Web Services, building exciting machine learning tools for data scientists, computer vision, NLP, deep learning and beyond.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/alex-smola/index.json",
-      "webUrl": "https://everyday.cc/ai/people/alex-smola/",
+      "path": "_people/nando-de-freitas.md",
+      "title": "Nando de Freitas",
+      "excerpt": "Nando de Freitas is a Professor of Computer Science at the University of Oxford. He is also a Fellow of Linacre College, Oxford. De Freitas is noted as an authority in the field of machine learning, and in particular in the subfields of neural networks, Bayesian inference and Bayesian optimization, and deep learning.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/nando-de-freitas/index.json",
+      "webUrl": "https://everyday.cc/ai/people/nando-de-freitas/",
       "type": "profile",
-      "name": "Alex Smola",
-      "bio": "Director for machine learning at Amazon Web Services, building exciting machine learning tools for data scientists, computer vision, NLP, deep learning and beyond.",
-      "location": "Palo Alto, CA",
-      "website": "http://alex.smola.org/",
+      "name": "Nando de Freitas",
+      "bio": "Nando de Freitas is a Professor of Computer Science at the University of Oxford. He is also a Fellow of Linacre College, Oxford. De Freitas is noted as an authority in the field of machine learning, and in particular in the subfields of neural networks, Bayesian inference and Bayesian optimization, and deep learning.",
+      "location": "London, England",
+      "website": "https://t.co/uy8OBWPHze",
       "twitter": {
-        "username": "smolix",
-        "url": "https://twitter.com/smolix",
-        "followers": 17622
+        "username": "NandoDF",
+        "url": "https://twitter.com/NandoDF",
+        "followers": 84822
       },
       "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=Tb0ZrYwAAAAJ",
-        "citations": 147376
+        "url": "https://scholar.google.com/citations?user=nzEluBwAAAAJ",
+        "citations": 44337
       },
       "affiliation": {
         "path": "",
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "google.com - Homepage",
+        "domain": "google.com - Homepage"
       },
       "topics": [
         "AI",
-        "AWS AI",
         "Machine Learning"
       ],
-      "heat": 96,
+      "heat": 115,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1168185464420892672/nxFMdN95_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1338407584370462720/WVbG5sqw_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Alex Smola",
+          "title": "Nando de Freitas",
           "isCached": true
         }
       ],
@@ -883,7 +753,7 @@
         "AI",
         "Machine Learning"
       ],
-      "heat": 87,
+      "heat": 77,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1196070309943627778/4C6ssaJN_400x400.jpg",
@@ -896,78 +766,191 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/alexandr-wang.md",
-      "title": "Alexandr Wang",
-      "excerpt": "Founder and CEO at Scale AI - a data platform for AI.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/alexandr-wang/index.json",
-      "webUrl": "https://everyday.cc/ai/people/alexandr-wang/",
+      "path": "_people/bernhard-scholkopf.md",
+      "title": "Bernhard Schölkopf",
+      "excerpt": "Director, Max Planck Institute for Intelligent Systems; and Distinguished Amazon Scholar",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/bernhard-scholkopf/index.json",
+      "webUrl": "https://everyday.cc/ai/people/bernhard-scholkopf/",
       "type": "profile",
-      "name": "Alexandr Wang",
-      "bio": "Founder and CEO at Scale AI - a data platform for AI.",
-      "location": "San Francisco, CA",
-      "website": "https://scale.com/",
+      "name": "Bernhard Schölkopf",
+      "bio": "Director, Max Planck Institute for Intelligent Systems; and Distinguished Amazon Scholar",
       "twitter": {
-        "username": "alexandr_wang",
-        "url": "https://twitter.com/alexandr_wang",
-        "followers": 14547
+        "username": "bschoelkopf",
+        "url": "https://twitter.com/bschoelkopf",
+        "followers": 7529
       },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/alexandrwang/"
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=DZ-fHPgAAAAJ",
+        "citations": 175450
       },
       "affiliation": {
         "path": "",
-        "name": "Scale",
-        "domain": "scale.com"
+        "name": "tuebingen.mpg.de",
+        "domain": "tuebingen.mpg.de"
       },
       "topics": [
         "AI",
-        "Machine Learning",
-        "Computer Vision",
-        "AI in Autos"
+        "Math for AI",
+        "Machine Learning"
       ],
-      "heat": 82,
+      "heat": 71,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1423304335463702539/f3yoJGnp_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/660352760513216512/XZCp8ZWc_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Alexandr Wang",
+          "title": "Bernhard Schölkopf",
           "isCached": true
         }
       ],
       "content": "\r\n"
     },
     {
-      "path": "_people/andrew-moore.md",
-      "title": "Andrew Moore",
-      "excerpt": "Vice President, Google and head of Google Cloud AI. I love Algorithms, Systems, Machine Learning, AI.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/andrew-moore/index.json",
-      "webUrl": "https://everyday.cc/ai/people/andrew-moore/",
+      "path": "_people/christopher-m-bishop.md",
+      "title": "Christopher M. Bishop",
+      "excerpt": "Laboratory Director at Microsoft Research Cambridge @MSFTResearchCam",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/christopher-m-bishop/index.json",
+      "webUrl": "https://everyday.cc/ai/people/christopher-m-bishop/",
       "type": "profile",
-      "name": "Andrew Moore",
-      "bio": "Vice President, Google and head of Google Cloud AI. I love Algorithms, Systems, Machine Learning, AI.",
-      "location": "Pittsburgh, PA",
-      "website": "http://www.cs.cmu.edu/~awm/",
+      "name": "Christopher M. Bishop",
+      "bio": "Laboratory Director at Microsoft Research Cambridge @MSFTResearchCam",
+      "location": "Cambridge, England",
+      "website": "https://t.co/qaAoprog1k",
       "twitter": {
-        "username": "awmcmu",
-        "url": "https://twitter.com/awmcmu",
-        "followers": 6081
+        "username": "chrisbishopmsft",
+        "url": "https://twitter.com/chrisbishopmsft",
+        "followers": 5570
       },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/andrew-moore-016b751"
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=gsr-K3ADUvAC",
+        "citations": 128664
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
       "topics": [
         "AI",
-        "Google AI",
         "Machine Learning"
       ],
       "heat": 57,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/626157691828875264/tDZ-TLBp_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/750274527016386560/D8Z1_kgh_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Andrew Moore",
+          "title": "Christopher M. Bishop",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/kyle-cranmer.md",
+      "title": "Kyle Cranmer",
+      "excerpt": "Particle physics, LHC, stats/ML/AI, collaborative & open science. Executive Director Moore-Sloan Data Science Environment at NYU.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/kyle-cranmer/index.json",
+      "webUrl": "https://everyday.cc/ai/people/kyle-cranmer/",
+      "type": "profile",
+      "name": "Kyle Cranmer",
+      "bio": "Particle physics, LHC, stats/ML/AI, collaborative & open science. Executive Director Moore-Sloan Data Science Environment at NYU.",
+      "location": "New York",
+      "website": "https://t.co/OiHC3bfPoX",
+      "twitter": {
+        "username": "KyleCranmer",
+        "url": "https://twitter.com/KyleCranmer",
+        "followers": 11037
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=EZjSxgwAAAAJ",
+        "citations": 171068
+      },
+      "affiliation": {
+        "path": "",
+        "name": "nyu.edu",
+        "domain": "nyu.edu"
+      },
+      "topics": [
+        "AI",
+        "Math for AI",
+        "Machine Learning"
+      ],
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/378800000065241474/e47527eed661a899d666329eb2774477_400x400.jpeg",
+          "width": 400,
+          "height": 400,
+          "title": "Kyle Cranmer",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/rajat-monga.md",
+      "title": "Rajat Monga",
+      "excerpt": "Sr. Director/Distinguished Engineer. Leading #TensorFlow at Google.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/rajat-monga/index.json",
+      "webUrl": "https://everyday.cc/ai/people/rajat-monga/",
+      "type": "profile",
+      "name": "Rajat Monga",
+      "bio": "Sr. Director/Distinguished Engineer. Leading #TensorFlow at Google.",
+      "location": "San Francisco Bay Area",
+      "website": "https://research.google/people/RajatMonga/",
+      "twitter": {
+        "username": "rajatmonga",
+        "url": "https://twitter.com/rajatmonga",
+        "followers": 14217
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/rajatmonga/"
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=W8yZCNsAAAAJ",
+        "citations": 41185
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Google",
+        "domain": "google.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/google.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          },
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/google.com-400x400.jpg",
+            "width": 400,
+            "height": 400,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "AI",
+        "Google AI",
+        "Machine Learning",
+        "TensorFlow"
+      ],
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/732267151277481984/gMRijPzT_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Rajat Monga",
           "isCached": true
         }
       ],
@@ -1004,55 +987,6 @@
           "height": 121,
           "title": "Anil K. Jain",
           "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/christopher-m-bishop.md",
-      "title": "Christopher M. Bishop",
-      "excerpt": "Laboratory Director at Microsoft Research Cambridge @MSFTResearchCam",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/christopher-m-bishop/index.json",
-      "webUrl": "https://everyday.cc/ai/people/christopher-m-bishop/",
-      "type": "profile",
-      "name": "Christopher M. Bishop",
-      "bio": "Laboratory Director at Microsoft Research Cambridge @MSFTResearchCam",
-      "location": "Cambridge, England",
-      "website": "https://t.co/qaAoprog1k",
-      "twitter": {
-        "username": "chrisbishopmsft",
-        "url": "https://twitter.com/chrisbishopmsft",
-        "followers": 5569
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=gsr-K3ADUvAC",
-        "citations": 128664
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/750274527016386560/D8Z1_kgh_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Christopher M. Bishop",
-          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -1248,6 +1182,47 @@
       "content": "\r\n"
     },
     {
+      "path": "_people/javier-m-duarte.md",
+      "title": "Javier M. Duarte",
+      "excerpt": "particle physics assistant prof at @UCSanDiego on the @CMSExperiment",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/javier-m-duarte/index.json",
+      "webUrl": "https://everyday.cc/ai/people/javier-m-duarte/",
+      "type": "profile",
+      "name": "Javier M. Duarte",
+      "bio": "particle physics assistant prof at @UCSanDiego on the @CMSExperiment",
+      "location": "San Diego, CA",
+      "website": "https://t.co/Z06UY9gVRv",
+      "twitter": {
+        "username": "jmgduarte",
+        "url": "https://twitter.com/jmgduarte",
+        "followers": 312
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=GTtW9H0AAAAJ",
+        "citations": 144662
+      },
+      "affiliation": {
+        "path": "",
+        "name": "fnal.gov",
+        "domain": "fnal.gov"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1561586632/backpackshort_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Javier M. Duarte",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_people/jitendra-malik.md",
       "title": "Jitendra Malik",
       "excerpt": "Professor of EECS, UC Berkeley. Jitendra is known for his research in computer vision.",
@@ -1360,6 +1335,54 @@
           "height": 84,
           "title": "Josh Cogan",
           "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/kai-fu-lee.md",
+      "title": "Kai-Fu Lee",
+      "excerpt": "Kai-Fu Lee is a Taiwanese-born American computer scientist, businessman, and writer. He is currently based in Beijing, China. Lee developed the world's first speaker-independent, continuous speech recognition system as his Ph.D. thesis at Carnegie Mellon. ",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/kai-fu-lee/index.json",
+      "webUrl": "https://everyday.cc/ai/people/kai-fu-lee/",
+      "type": "profile",
+      "name": "Kai-Fu Lee",
+      "bio": "Kai-Fu Lee is a Taiwanese-born American computer scientist, businessman, and writer. He is currently based in Beijing, China. Lee developed the world's first speaker-independent, continuous speech recognition system as his Ph.D. thesis at Carnegie Mellon. ",
+      "location": "Beijing, China",
+      "website": "https://t.co/1QmLHUi5s4",
+      "twitter": {
+        "username": "kaifulee",
+        "url": "https://twitter.com/kaifulee",
+        "followers": 1522973
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=lm2nBYkAAAAJ",
+        "citations": 17683
+      },
+      "weibo": {
+        "url": "https://www.weibo.com/kaifulee",
+        "followers": 51934864
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Kai-Fu_Lee"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Sinovation Ventures",
+        "domain": "sinovationventures.com"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1016438132844032001/d6QB0d6c_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Kai-Fu Lee",
+          "isCached": true
         }
       ],
       "content": "\r\n"
