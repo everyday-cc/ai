@@ -71,6 +71,20 @@ related:
         width: 566
         height: 400
         isCached: true
+  - title: "IBM unveils on-chip AI accelerator for fraud detection"
+    excerpt: "IBM has unveiled its long-awaited 'Telum' chip, built with AI inference acceleration that will allow for fraud detection while a transaction is occurring. The new processor was showcased at the annual Hot Chips conference with the first Telum-based system planned for 2022."
+    publishedDateTime: 2021-08-23T09:35:00Z
+    webUrl: "https://www.cloudpro.co.uk/business-intelligence/9212/ibm-unveils-on-chip-ai-accelerator-for-fraud-detection"
+    type: article
+    provider:
+      name: Cloud Pro
+      domain: cloudpro.co.uk
+    quality: 54
+    images:
+      - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2021/08/ibm.jpeg"
+        width: 1920
+        height: 1170
+        isCached: true
   - title: "IBM unveils Telum Processor chip with AI capacity to detect fraud"
     excerpt: "IBM has unveiled its upcoming new 7nm EUV chip, the IBM Telum Processor, designed to address fraud in real time. The processor contains a chip system for AI inferencing while a transaction is taking place."
     publishedDateTime: 2021-08-23T07:18:00Z

@@ -41,21 +41,21 @@ related:
         width: 640
         height: 425
         isCached: true
-  - title: "'Massive invasion of privacy': Hamden lawmakers seek to ban government use of facial recognition technology"
-    excerpt: "Police Department officials have said the agency presently does not use any such technology but previously engaged in a free trial of facial recognition software. Passing an ordinance “is the right thing to do as the technology becomes more pervasive in terms of its use by government,"
-    publishedDateTime: 2021-08-18T15:59:00Z
-    webUrl: "https://www.nhregister.com/news/article/Massive-invasion-of-privacy-Hamden-16394681.php"
-    ampWebUrl: "https://www.nhregister.com/news/amp/Massive-invasion-of-privacy-Hamden-16394681.php"
-    cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/Massive-invasion-of-privacy-Hamden-16394681.php"
+  - title: "Civil liberties groups demand government bans facial recognition cameras"
+    excerpt: "Police and Home Office are accused of bypassing parliament over guidance allowing officers, local councils and enforcement agencies to use facial recognition across England and Wales in defiance of court rulings against invasive filming."
+    publishedDateTime: 2021-08-23T09:27:00Z
+    webUrl: "https://news.sky.com/story/civil-liberties-groups-demand-government-bans-facial-recognition-cameras-12388513"
+    ampWebUrl: "https://news.sky.com/story/amp/civil-liberties-groups-demand-government-bans-facial-recognition-cameras-12388513"
+    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/civil-liberties-groups-demand-government-bans-facial-recognition-cameras-12388513"
     type: article
     provider:
-      name: New Haven Register
-      domain: nhregister.com
-    quality: 43
+      name: Sky
+      domain: sky.com
+    quality: 58
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://e3.365dm.com/21/08/1600x900/skynews-facial-recognition-camera_5487585.jpg?20210823094951"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Civil liberties groups demand ban on facial recognition technology"
     excerpt: "A group of civil society bodies has called on the Government to ban facial recognition cameras, while accusing police and the Home Office of bypassing Parliament over guidance for the use of the technology."

@@ -7,7 +7,7 @@ originalUrl: "https://www.sixteen-nine.net/2021/08/19/intel-winding-down-its-rea
 webUrl: "https://www.sixteen-nine.net/2021/08/19/intel-winding-down-its-realsense-computer-vision-business-report/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel Shutters Its RealSense Arm, Departs the Computer Vision Market"
-    excerpt: "Intel's six-year foray into depth-sensing and object-tracking computer vision systems comes to an end this week."
-    publishedDateTime: 2021-08-18T16:05:00Z
-    webUrl: "https://www.hackster.io/news/intel-shutters-its-realsense-arm-departs-the-computer-vision-market-221c7aaf02d7"
-    type: article
-    provider:
-      name: Hackster
-      domain: hackster.io
-    quality: 39
-    images:
-      - url: "https://hackster.imgix.net/uploads/attachments/1337246/_YtRzx93hOu.blob?auto=compress%2Cformat&w=600&h=450&fit=min"
-        width: 517
-        height: 388
-        isCached: true
   - title: "Why Intel wound down its RealSense computer vision tech unit"
     excerpt: "Intel CEO Pat Gelsinger said he decided to wind down the chipmaker’s RealSense computer vision division because it did not fit in with the company’s six core businesses, which include the new foundry,"
     publishedDateTime: 2021-08-20T01:31:00Z

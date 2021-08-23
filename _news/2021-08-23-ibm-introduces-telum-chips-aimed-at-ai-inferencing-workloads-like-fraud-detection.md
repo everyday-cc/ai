@@ -60,6 +60,20 @@ related:
         width: 566
         height: 400
         isCached: true
+  - title: "IBM unveils on-chip AI accelerator for fraud detection"
+    excerpt: "IBM has unveiled its long-awaited 'Telum' chip, built with AI inference acceleration that will allow for fraud detection while a transaction is occurring. The new processor was showcased at the annual Hot Chips conference with the first Telum-based system planned for 2022."
+    publishedDateTime: 2021-08-23T09:35:00Z
+    webUrl: "https://www.cloudpro.co.uk/business-intelligence/9212/ibm-unveils-on-chip-ai-accelerator-for-fraud-detection"
+    type: article
+    provider:
+      name: Cloud Pro
+      domain: cloudpro.co.uk
+    quality: 54
+    images:
+      - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2021/08/ibm.jpeg"
+        width: 1920
+        height: 1170
+        isCached: true
   - title: "Intel unveils details of 100B-transistor AI chip and Alder Lake hybrid processor"
     excerpt: "Intel is looking to take on Nvidia Corp. in the AI silicon market with Ponte Vecchio, which the company describes as its most complex system-on-chip or SOC to date. Ponte Vecchio features some 100 ..."
     publishedDateTime: 2021-08-19T18:06:00Z

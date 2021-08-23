@@ -41,17 +41,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Global Healthcare Artificial Intelligence (AI) Market Report Forecast to 2027"
-    excerpt: "IBM Watson Health Healthcare Artificial Intelligence (AI) technology is expected to change the way people communicate around the world. The Healthcare Artificial Intelligence (AI) technology study ..."
-    publishedDateTime: 2021-08-18T16:09:00Z
-    webUrl: "https://www.openpr.com/news/2359516/global-healthcare-artificial-intelligence-ai-market-report"
-    ampWebUrl: "https://www.openpr.com/amp/2359516/global-healthcare-artificial-intelligence-ai-market-report"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2359516/global-healthcare-artificial-intelligence-ai-market-report"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 68
   - title: "China AI in Healthcare Market Emerging Trend, Top Companies, Industry Demand and Regional Analysis by 2025"
     excerpt: "China s AI in healthcare market is estimated to grow significantly at a CAGR of 52 8 during the forecast period China s market has both medium and long term potential due to its large market size aging population fluctuating"
     publishedDateTime: 2021-08-23T07:24:00Z

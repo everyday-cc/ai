@@ -7,7 +7,7 @@ originalUrl: "https://www.eetindia.co.in/qualcomm-boosts-drone-utility-with-5g-a
 webUrl: "https://www.eetindia.co.in/qualcomm-boosts-drone-utility-with-5g-and-ai-enabled-drone-platform/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Qualcomm unleashes first 5G AI drone on the world"
-    excerpt: "Building on its Mars helicopter technology, Qualcomm has announced its world-first 5G AI drone platform, with an early Verizon tie-up."
-    publishedDateTime: 2021-08-18T16:45:00Z
-    webUrl: "https://www.lightreading.com/aiautomation/qualcomm-unleashes-first-5g-ai-drone-on-world/d/d-id/771573"
-    type: article
-    provider:
-      name: Light Reading
-      domain: lightreading.com
-    quality: 39
-    images:
-      - url: "https://img.lightreading.com/2021/08/771573/8044.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Qualcomm unveils 5G and AI-enabled drone platform"
     excerpt: "Qualcomm Technologies has unveiled a drone platform and reference design to offer both 5G and AI-capabilities, the Qualcomm Flight RB5 5G Platform."
     publishedDateTime: 2021-08-19T02:23:00Z

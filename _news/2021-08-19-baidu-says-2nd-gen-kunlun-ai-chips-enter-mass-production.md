@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2FJ0GK"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2FJ0GK"
 type: article
 quality: 104
-heat: 214
+heat: 204
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://www.carscoops.com/wp-content/uploads/2021/08/Baidu-Robocara-1024x555.jpg"
         width: 1024
         height: 555
-        isCached: true
-  - title: "Baidu Announces Upgraded Baidu Brain 7.0 and Mass Production of 2nd Generation Kunlun AI Chip"
-    excerpt: "Baidu today showcased its strengths in artificial intelligence technology with the launch of Baidu Brain 7.0, the start of mass production of its 2 nd generation Kunlun AI chip, Kunlun II, and the demonstration of industrial applications using Baidu AI Cloud."
-    publishedDateTime: 2021-08-18T15:40:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/baidu-announces-upgraded-baidu-brain-7-0-and-mass-production-of-2nd-generation-kunlun-ai-chip-1030742673"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 73
-    images:
-      - url: "https://mma.prnewswire.com/media/1597327/Image1.jpg"
-        width: 400
-        height: 225
         isCached: true
   - title: "Baidu's Kunlun II AI chips enter mass production"
     excerpt: "Chinese tech giant Baidu has begun mass-producing its second generation of Kunlun artificial intelligence chips, used in its cloud data centers and smart electric vehicles. Baidu spun the Kunlun chip business out into an independent company earlier this year,"

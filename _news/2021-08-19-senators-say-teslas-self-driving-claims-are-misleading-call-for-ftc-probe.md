@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Dem Senators Ask FTC to Probe Tesla Over 'Misleading' Self-Driving Claims"
-    excerpt: "US Senators Richard Blumenthal and Edward Markey are concerned Tesla is overhyping the company's self-driving technologies and thus putting Tesla owners at risk."
-    publishedDateTime: 2021-08-18T15:36:00Z
-    webUrl: "https://www.pcmag.com/news/dem-senators-ask-ftc-to-probe-tesla-over-misleading-self-driving-claims"
-    ampWebUrl: "https://www.pcmag.com/news/dem-senators-ask-ftc-to-probe-tesla-over-misleading-self-driving-claims?amp=true"
-    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/dem-senators-ask-ftc-to-probe-tesla-over-misleading-self-driving-claims?amp=true"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 103
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/03Bc9fh4ZHWjHuDp1ukh4oG-1.1629298473.fit_lim.size_1200x630.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Tesla aims to launch Full Self-Driving Computer 2 with Cybertruck next year"
     excerpt: "Tesla plans to launch a new Full Self-Driving computer with Cybertruck electric pickup truck next year. The updated self-driving hardware should also include new cameras. Tesla’s self-driving ..."
     publishedDateTime: 2021-08-20T16:02:00Z
@@ -107,20 +91,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "U.S. senators urge FTC to probe Tesla over self-driving claims"
-    excerpt: "Two U.S. senators on Wednesday pressed the Federal Trade Commission (FTC) to probe Tesla (TSLA.O), saying the company has misled consumers and endangered the public by marketing its driving automation systems as fully self-driving."
-    publishedDateTime: 2021-08-18T15:19:00Z
-    webUrl: "https://www.reuters.com/article/tesla-autopilot-ftc/corrected-us-senators-urge-ftc-to-probe-tesla-over-self-driving-claims-idUSL4N2PO3YZ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-    images:
-      - url: "https://www.reuters.com/resizer/bjG2wzYs69PPGKUQaSbIqLB-3G4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UVOPVOGYAFKMZFQHYFY36WRXL4.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Lawmakers Target Tesla's Autopilot and Self-Driving Claims"
     excerpt: "Two U.S. Senators are urging the Federal Trade Commission to investigate whether Tesla Inc. uses deceptive marketing practices by labeling its driver-assistance systems “Autopilot” and “Full Self-Driving."
     publishedDateTime: 2021-08-19T14:28:00Z
@@ -150,22 +120,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/05/tesla-gettyimages.jpg?w=1024"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Senators call for consumer watchdog probe into Tesla’s self-driving claims"
-    excerpt: "Top Democratic senators are calling on the Federal Trade Commission to launch an investigation into marketing practices at Tesla, days after the National Highway Traffic Safety Administration opened a probe into the car maker’s Autopilot driverless technology."
-    publishedDateTime: 2021-08-18T16:51:00Z
-    webUrl: "https://www.ft.com/content/8c19749a-b911-4008-a352-da97ed9eeeaf"
-    ampWebUrl: "https://amp.ft.com/content/8c19749a-b911-4008-a352-da97ed9eeeaf"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/8c19749a-b911-4008-a352-da97ed9eeeaf"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 72
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1deefcf8-eb75-4197-9c45-b1e78439086b.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
         isCached: true
   - title: "Tesla’s Self-Driving Advertising Called Out As Misleading To Consumers"
     excerpt: "Two senators have requested the FTC open an investigation into Tesla's self-driving technology advertising, claiming it is \"misleading\" consumers."

@@ -1065,6 +1065,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Everything That Happened At Tesla AI Day"
+    excerpt: "As anticipated, Tesla’s AI Day incorporated company engineers explaining the upcoming Tesla tech while focusing on attracting and recruiting the brightest to join Tesla’s AI team. “There’s a tremendous amount of work to make it work,"
+    publishedDateTime: 2021-08-23T09:30:00Z
+    webUrl: "https://analyticsindiamag.com/everything-that-happened-at-tesla-ai-day/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/TeslaDay_AIM.jpg"
+        width: 1050
+        height: 590
+        isCached: true
   - title: "Tesla unveils a humanoid robot powered by its vehicle A.I called the Tesla Bot"
     excerpt: "While no physical robot has been shown off yet, Elon Musk unveiled a new humanoid robot called the Tesla Bot. According to Musk, the purpose of this robot is to eliminate dangerous, repetitive, and boring tasks and it uses the same artificial intelligence and autopilot cameras that Tesla uses in their vehicles."
     publishedDateTime: 2021-08-20T14:31:00Z

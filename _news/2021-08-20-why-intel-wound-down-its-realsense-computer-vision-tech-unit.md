@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel Shutters Its RealSense Arm, Departs the Computer Vision Market"
-    excerpt: "Intel's six-year foray into depth-sensing and object-tracking computer vision systems comes to an end this week."
-    publishedDateTime: 2021-08-18T16:05:00Z
-    webUrl: "https://www.hackster.io/news/intel-shutters-its-realsense-arm-departs-the-computer-vision-market-221c7aaf02d7"
-    type: article
-    provider:
-      name: Hackster
-      domain: hackster.io
-    quality: 39
-    images:
-      - url: "https://hackster.imgix.net/uploads/attachments/1337246/_YtRzx93hOu.blob?auto=compress%2Cformat&w=600&h=450&fit=min"
-        width: 517
-        height: 388
-        isCached: true
   - title: "Intel Winding Down Its RealSense Computer Vision Business: Report"
     excerpt: "Via CRN The long-running IT publication CRN is reporting that Intel is “winding down” its RealSense computer vision business, meaning its depth sensor cameras are ... Read more"
     publishedDateTime: 2021-08-19T13:50:00Z

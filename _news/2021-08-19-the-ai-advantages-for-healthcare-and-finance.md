@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/sponsor/beyond-limits/the-ai-advantages-for
 webUrl: "https://techcrunch.com/sponsor/beyond-limits/the-ai-advantages-for-healthcare-and-finance/"
 type: article
 quality: 101
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -30,17 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Healthcare Artificial Intelligence (AI) Market Report Forecast to 2027"
-    excerpt: "IBM Watson Health Healthcare Artificial Intelligence (AI) technology is expected to change the way people communicate around the world. The Healthcare Artificial Intelligence (AI) technology study ..."
-    publishedDateTime: 2021-08-18T16:09:00Z
-    webUrl: "https://www.openpr.com/news/2359516/global-healthcare-artificial-intelligence-ai-market-report"
-    ampWebUrl: "https://www.openpr.com/amp/2359516/global-healthcare-artificial-intelligence-ai-market-report"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2359516/global-healthcare-artificial-intelligence-ai-market-report"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 68
   - title: "From health care to infrastructure, how AI is changing the world for the better"
     excerpt: "New advances and creative applications are harnessing the power of AI to offer solutions to a host of social issues to enable new leaps in human development."
     publishedDateTime: 2021-08-20T14:50:00Z

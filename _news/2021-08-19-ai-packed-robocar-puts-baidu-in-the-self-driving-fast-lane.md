@@ -73,20 +73,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Baidu unveils 1st fully autonomous robocar prototype"
-    excerpt: "Chinese internet search giant Baidu Inc. unveiled on Wednesday its first L5 self-driving robocar prototype with no steering wheel, and an upgraded autonomous driving service platform named Luobo Kuaipao,"
-    publishedDateTime: 2021-08-18T16:34:00Z
-    webUrl: "https://news.cgtn.com/news/2021-08-18/Baidu-unveils-1st-fully-autonomous-robocar-prototype-12PNjBNq1JS/index.html"
-    type: article
-    provider:
-      name: CGTN
-      domain: cgtn.com
-    quality: 39
-    images:
-      - url: "https://news.cgtn.com/news/2021-08-18/Baidu-unveils-1st-fully-autonomous-robocar-prototype-12PNjBNq1JS/img/cfd10806cf6c465d934a9f01b2e3e114/cfd10806cf6c465d934a9f01b2e3e114-1920.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Baidu claims it has created Level 5 robocar"
     excerpt: "BEIJING: Baidu, the Chinese technology giant behind the country's search engine, has just announced a level 5 SAE autonomous car thanks to a new chip. Behind this potential success is an ambitious open source platform called Apollo."
     publishedDateTime: 2021-08-20T08:57:00Z

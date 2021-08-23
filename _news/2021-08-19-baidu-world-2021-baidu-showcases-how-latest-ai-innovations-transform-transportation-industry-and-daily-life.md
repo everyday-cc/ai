@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Baidu World 2021: Baidu Showcases How Latest AI Innovations Transform Transportation, Industry and Daily Life"
-    excerpt: "Today, Baidu demonstrated how its latest AI innovations will transform and improve transportation, industry and daily life at its annual flagship technology conference, Baidu World 2021. From a robocar reveal and a rebranded robotaxi mobile platform to Xiaodu's first smart TV and the 2 nd generation Kunlun AI chip,"
-    publishedDateTime: 2021-08-18T15:58:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-baidu-world-2021-baidu-showcases-how-latest-ai-/2021/08/18/9433548.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 20
-    images:
-      - url: "https://mma.prnewswire.com/media/1597362/Image1.jpg"
-        width: 400
-        height: 266
-        isCached: true
 
 secured: "sUWNWOOC9+rFg8fUTIuWEE9UAK7DwPzdxeasfypyHfbGL6ePRXpeUO1UFsRwYbPFxS/WvNKZUOK2tSqbQyAFSRsUZ6ik2CX92DC+v9aaMI8ry+VEYjE484WUYQhWbXFvY8Zl4UmlEKda9edOoh93QFAqy61SL+XQE4QML3NWfpnOu9BdZMJ0mwkBA1GRjhVzhAvKtDhlJatb/Fu+wFzECXwSS+UI4F+aQxbBxq2o1GxguqpvCHhw+2+xWI8rQg7PqnuW+42R0A8E+db7WWoU2L3vbhd4X3QAPF0lVCnKMroBVETfPV9/MFHYxZIsrtuLatngFR3KKa4L2fkD2wG6xn2iVNBZ2jxXFcu/jX65J2zCDgeUD8wGjXHofQtuStTsB9OZZJw3BavlKF3IlZIkVAoH7MtJjUjOO/JAZEcEMGoWRLyGhNPu+5gNHYyxH7JvdICHlnHp8fSBxf23ICZRiHsoHGYIwJA0bc7Jppb/Tu87ktuR8ydKr946bv8mFlgAlQ8h+sJmBFVEntH00UHX6Q==;jzSr3vrrJYjhekeL+/GzsQ=="
 ---

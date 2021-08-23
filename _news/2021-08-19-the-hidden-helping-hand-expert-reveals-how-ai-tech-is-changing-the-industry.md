@@ -55,6 +55,20 @@ related:
         width: 1920
         height: 1013
         isCached: true
+  - title: "The next phase of AI is generative"
+    excerpt: "In it's next act, AI will transform from an augmentative technology to a more direct generator of products and data, according to Gartner's 2021 Hype Cycle."
+    publishedDateTime: 2021-08-23T08:02:00Z
+    webUrl: "https://www.ciodive.com/news/gartner-hype-cycle-2021-generative-AI/605338/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 39
+    images:
+      - url: "https://www.ciodive.com/user_media/cache/c5/be/c5bebcd82b9d946423290834d57755de.jpg"
+        width: 770
+        height: 364
+        isCached: true
   - title: "The hidden helping hand: expert from Croesus reveals how AI tech is already changing the industry"
     excerpt: "There’s an obvious reason for this – most physical locations were closed, so organizations had to fall back on online support – but it becomes especially interesting to note this is just a taster of an AI-centric revolution currently changing the world of finance."
     publishedDateTime: 2021-08-19T15:31:00Z

@@ -41,6 +41,66 @@ related:
         width: 730
         height: 395
         isCached: true
+  - title: "WPP acquires agency specialising in artificial intelligence"
+    excerpt: "Combining machine learning and optimisation, Satalia builds technologies \"that help clients transform their business strategies and radically"
+    publishedDateTime: 2021-08-23T08:10:00Z
+    webUrl: "https://www.proactiveinvestors.co.uk/companies/news/958336/wpp-acquires-agency-specialising-in-artificial-intelligence-958336.html?SNAPI"
+    ampWebUrl: "https://www.proactiveinvestors.co.uk/companies/amp/news/958336"
+    cdnAmpWebUrl: "https://www-proactiveinvestors-co-uk.cdn.ampproject.org/c/s/www.proactiveinvestors.co.uk/companies/amp/news/958336"
+    type: article
+    provider:
+      name: Proactive Investors
+      domain: proactiveinvestors.co.uk
+    quality: 57
+    images:
+      - url: "https://www.proactiveinvestors.co.uk//thumbs/upload/News/Image/2021_08/1200z740_1629706468_2020-11-20-14-55-35_ac6d23e161ea039615fc6200b6c8b803.jpg"
+        width: 1200
+        height: 740
+        isCached: true
+  - title: "WPP acquires AI company"
+    excerpt: "Advertising and communications business WPP has acquired Satalia, a technology company focused on artificial intelligence (AI), for an undisclosed sum."
+    publishedDateTime: 2021-08-23T09:38:00Z
+    webUrl: "https://www.research-live.com/article/news/wpp-acquires-ai-company/id/5088212"
+    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5088212&name=wpp-acquires-ai-company"
+    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5088212&name=wpp-acquires-ai-company"
+    type: article
+    provider:
+      name: research
+      domain: research-live.com
+    quality: 57
+    images:
+      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
+        width: 1000
+        height: 581
+        isCached: true
+  - title: "WPP acquires AI technology company Satalia"
+    excerpt: "The latest acquisition of Satalia is aligned with WPP’s accelerated growth strategy and focused M&A approach and more."
+    publishedDateTime: 2021-08-23T07:35:00Z
+    webUrl: "https://www.socialsamosa.com/2021/08/wpp-acquires-ai-technology-company-satalia/"
+    type: article
+    provider:
+      name: Social Samosa
+      domain: socialsamosa.com
+    quality: 39
+    images:
+      - url: "https://www.socialsamosa.com/wp-content/uploads/2021/08/WPP-satalia.jpg"
+        width: 800
+        height: 418
+        isCached: true
+  - title: "WPP acquires Satalia for efficiency-increasing AI tech"
+    excerpt: "WPP’s accelerated growth strategy shows no sign of slowing, with the addition of artificial intelligence (AI) technology company Satalia for an undisclosed sum to modernize its sprawling empire."
+    publishedDateTime: 2021-08-23T09:06:00Z
+    webUrl: "https://www.thedrum.com/news/2021/08/23/wpp-acquires-satalia-efficiency-increasing-ai-tech"
+    type: article
+    provider:
+      name: The Drum
+      domain: thedrum.com
+    quality: 39
+    images:
+      - url: "https://media-assets-04.thedrum.com/cache/images/thedrum-prod/s3-news-tmp-10557-satalia--default--1280.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "TOP NEWS: WPP buys AI firm Satalia to grow machine learning offering"
     excerpt: "FTSE 100-listed WPP PLC has bought artificial intelligence technology company Satalia for an undisclosed sum, the ad agency said on Monday. Founded by Chief Executive Daniel Hulme in 2008, AI specialist Satalia counts clients including BT Group PLC,"
     publishedDateTime: 2021-08-23T07:19:00Z
@@ -51,6 +111,6 @@ related:
       domain: lse.co.uk
     quality: 38
 
-secured: "M5VYp50RuE5ahyh7TGvvNzKaGaBROPfxIlUxx4l05IOimbeCbQ1vAMYjLolV+c5BXPr+kJS0iF9CT2gnLw7tI7wFjf2t0HKIvHOMqldCIVwPVd0W/yGfbwmWn+M1xtm7kNsXIpgyoK1rbXu2AeI0JwA89bFN45jHxk2AuXOlK1c0OaFT851r58o1KCCDwxM4qGmA23Pr/LfYNuNAqUswTzFIX+XmuCdVD+fBz0dbxc8qmT2OwLQNj3IAyiQB/U40VecCQEPqtDkpO543itj2Q0476noeFkIvfozejMU3sXygJJyEGmRrqA7RRGxnC5L8SaCtX1pWUNdyD218UgUA/4XlhU6vKYqFRFvkwaU5m0w=;EteWigIgnpzSZtK00XenuA=="
+secured: "1vBFesN97EVlyKEt7kFhdj3qybkxHLtGyehqa+AVCfFbvR8RxFIZ8I5ZwDYb2RRyZm74IaONmf6+MXNVEWUMJFXRjzSMDFR4PYqMmDdNLxlnm6rlN2I7EzIx/ze11tsaaq8zgh+/V2EllZKP9BESsVJoDB80HgjQhUXVW0QgyN6fCv4gTEPrr9ZH8V1aBYLLrP4GSOt0MqejDsrj6QSCWt1enh7Cq/z6qdN7UFfBgMBsmwpjDmArDXb0w6cXz+zrPvQp98xcos/u/IHwH/aJIMiVWobsZlAhsQ1hHoigScv8KVQG4DzntiBx4enAyJ+nz8e0YJUnvwByfmwlkIA5FmIu+BbkyLGPwO7GnDkb8Z/3/dyI3x5qRAncNuGZQscabta9nUlf/i9E7COWo7IsCpBvBRSy3QYZjZcBm3ayfRmPvDJgKxOCbS3lquLLXM6x9YiaN/LS8TA7lpjDe3y2FSae4Jll6du3DPslR1DSxiw0Q7YUhyv6HkJ+29srpL68AhfiE4+PeTgG+ntJ3jYdAw==;pknghJVmPcvblfRbvj/sLw=="
 ---
 

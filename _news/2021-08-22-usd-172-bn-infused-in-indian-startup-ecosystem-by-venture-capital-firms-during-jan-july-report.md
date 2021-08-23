@@ -72,6 +72,20 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "7 Best Artificial Intelligence Companies Hiring in India Right Now"
+    excerpt: "Since artificial intelligence is high on demand at present, many artificial intelligence companies are looking to hire artificial intelligence professionals in their teams. Here are the best artificial intelligence companies hiring in India right now."
+    publishedDateTime: 2021-08-23T09:00:00Z
+    webUrl: "https://www.analyticsinsight.net/7-best-artificial-intelligence-companies-hiring-in-india-right-now/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 37
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Artificial-Intelligence-Companies.jpg"
+        width: 900
+        height: 500
+        isCached: true
   - title: "USD 17.2 bn infused in Indian startup ecosystem by venture capital firms during Jan-July: Report"
     excerpt: "Venture capital firms infused a total of USD 17.2 billion investment into the Indian startup ecosystem during January-July 2021, according to data released by the Indian Private Equity and Venture Capital Association (IVCA) and Venture Intelligence (VI)."
     publishedDateTime: 2021-08-23T04:07:00Z

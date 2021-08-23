@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/davidsilver/2021/08/19/mobility-takes
 webUrl: "https://www.forbes.com/sites/davidsilver/2021/08/19/mobility-takes-center-stage-at-baidu-world-2021/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 52
-    images:
-      - url: "https://mma.prnewswire.com/media/1597362/Image1.jpg"
-        width: 400
-        height: 266
-        isCached: true
-  - title: "Baidu World 2021: Baidu Showcases How Latest AI Innovations Transform Transportation, Industry and Daily Life"
-    excerpt: "Today, Baidu demonstrated how its latest AI innovations will transform and improve transportation, industry and daily life at its annual flagship technology conference, Baidu World 2021. From a robocar reveal and a rebranded robotaxi mobile platform to Xiaodu's first smart TV and the 2 nd generation Kunlun AI chip,"
-    publishedDateTime: 2021-08-18T15:58:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-baidu-world-2021-baidu-showcases-how-latest-ai-/2021/08/18/9433548.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 20
     images:
       - url: "https://mma.prnewswire.com/media/1597362/Image1.jpg"
         width: 400

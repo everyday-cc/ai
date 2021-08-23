@@ -58,20 +58,6 @@ related:
         width: 1024
         height: 555
         isCached: true
-  - title: "Baidu Announces Upgraded Baidu Brain 7.0 and Mass Production of 2nd Generation Kunlun AI Chip"
-    excerpt: "Baidu today showcased its strengths in artificial intelligence technology with the launch of Baidu Brain 7.0, the start of mass production of its 2 nd generation Kunlun AI chip, Kunlun II, and the demonstration of industrial applications using Baidu AI Cloud."
-    publishedDateTime: 2021-08-18T15:40:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/baidu-announces-upgraded-baidu-brain-7-0-and-mass-production-of-2nd-generation-kunlun-ai-chip-1030742673"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 73
-    images:
-      - url: "https://mma.prnewswire.com/media/1597327/Image1.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Google Rival Baidu Has Made an AI Chip for Autonomous Driving and More"
     excerpt: "Baidu has unveiled its latest Kunlun II chip at the Baidu World Conference. It is claimed to be two to three times faster than its predecessor, but what is more important here is that the unit is an artificial intelligence chip that can also be used for autonomous cars."
     publishedDateTime: 2021-08-19T16:38:00Z

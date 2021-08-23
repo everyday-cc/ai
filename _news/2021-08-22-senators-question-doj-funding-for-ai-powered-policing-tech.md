@@ -36,20 +36,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Caution is needed in use of artificial intelligence for lending"
-    excerpt: "Artificial intelligence has insinuated its way into our daily lives, whether we are aware or not. From opening our smartphones with facial recognition, to travel and commuting assistance, to personali"
-    publishedDateTime: 2021-08-18T16:00:00Z
-    webUrl: "https://www.sentinelsource.com/opinion/op-ed/caution-is-needed-in-use-of-artificial-intelligence-for-lending/article_7fa8558c-6018-5d7d-8fc0-110838bc2041.html"
-    type: article
-    provider:
-      name: The Keene Sentinel
-      domain: sentinelsource.com
-    quality: 37
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/sentinelsource.com/content/tncms/custom/image/94f334aa-d43b-11eb-b5e9-4f39ce134ddd.jpg"
-        width: 1200
-        height: 480
-        isCached: true
   - title: "Esports Technologies Files Patent for Artificial Intelligence-Powered Real-Time Odds Modeling & Simulation System"
     excerpt: "Esports Technologies, Inc. (Nasdaq: EBET), a leading global provider of advanced esports wagering products and technology, announced today that it has filed a provisional patent application for a technology that uses artificial intelligence to generate odds models for use in a betting algorithm for esports tournaments and various stages of a tournament."
     publishedDateTime: 2021-08-19T12:37:00Z

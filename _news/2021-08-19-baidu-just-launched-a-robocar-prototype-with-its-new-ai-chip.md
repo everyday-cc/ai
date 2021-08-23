@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.interestingengineering.com/baidu-just-launched-a-robocar
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/baidu-just-launched-a-robocar-prototype-with-its-new-ai-chip"
 type: article
 quality: 76
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-08/2308_baidu_-seo.jpeg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Baidu unveils 1st fully autonomous robocar prototype"
-    excerpt: "Chinese internet search giant Baidu Inc. unveiled on Wednesday its first L5 self-driving robocar prototype with no steering wheel, and an upgraded autonomous driving service platform named Luobo Kuaipao,"
-    publishedDateTime: 2021-08-18T16:34:00Z
-    webUrl: "https://news.cgtn.com/news/2021-08-18/Baidu-unveils-1st-fully-autonomous-robocar-prototype-12PNjBNq1JS/index.html"
-    type: article
-    provider:
-      name: CGTN
-      domain: cgtn.com
-    quality: 39
-    images:
-      - url: "https://news.cgtn.com/news/2021-08-18/Baidu-unveils-1st-fully-autonomous-robocar-prototype-12PNjBNq1JS/img/cfd10806cf6c465d934a9f01b2e3e114/cfd10806cf6c465d934a9f01b2e3e114-1920.jpeg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "AI-packed 'robocar' puts Baidu in the self-driving fast lane"
     excerpt: "\"We believe that cars of the future will be robocars,\" Baidu CEO and Chairman Robin Li told an online audience. The car's artificial intelligence capabilities allow it to drive as the user sees fit, according to the company."

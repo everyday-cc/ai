@@ -41,6 +41,22 @@ related:
         width: 640
         height: 425
         isCached: true
+  - title: "Civil liberties groups demand government bans facial recognition cameras"
+    excerpt: "Police and Home Office are accused of bypassing parliament over guidance allowing officers, local councils and enforcement agencies to use facial recognition across England and Wales in defiance of court rulings against invasive filming."
+    publishedDateTime: 2021-08-23T09:27:00Z
+    webUrl: "https://news.sky.com/story/civil-liberties-groups-demand-government-bans-facial-recognition-cameras-12388513"
+    ampWebUrl: "https://news.sky.com/story/amp/civil-liberties-groups-demand-government-bans-facial-recognition-cameras-12388513"
+    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/civil-liberties-groups-demand-government-bans-facial-recognition-cameras-12388513"
+    type: article
+    provider:
+      name: Sky
+      domain: sky.com
+    quality: 58
+    images:
+      - url: "https://e3.365dm.com/21/08/1600x900/skynews-facial-recognition-camera_5487585.jpg?20210823094951"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "PI and 30 CSOs unite against use of live facial recognition technology"
     excerpt: "PI, together with 30 national and international civil society organisations (CSOs), release an open letter calling on Parliament and relevant stakeholders to halt and ban the use of live facial recognition technology (LFRT) by the police and private companies."
     publishedDateTime: 2021-08-22T21:02:00Z
@@ -54,22 +70,6 @@ related:
       - url: "https://www.privacyinternational.org/sites/default/files/styles/teaser_large_x1/public/2021-07/etienne-girardet-CxTCcjUo2hM-unsplash2.png?itok=GcWDwORh"
         width: 525
         height: 295
-        isCached: true
-  - title: "'Massive invasion of privacy': Hamden lawmakers seek to ban government use of facial recognition technology"
-    excerpt: "Police Department officials have said the agency presently does not use any such technology but previously engaged in a free trial of facial recognition software. Passing an ordinance “is the right thing to do as the technology becomes more pervasive in terms of its use by government,"
-    publishedDateTime: 2021-08-18T15:59:00Z
-    webUrl: "https://www.nhregister.com/news/article/Massive-invasion-of-privacy-Hamden-16394681.php"
-    ampWebUrl: "https://www.nhregister.com/news/amp/Massive-invasion-of-privacy-Hamden-16394681.php"
-    cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/Massive-invasion-of-privacy-Hamden-16394681.php"
-    type: article
-    provider:
-      name: New Haven Register
-      domain: nhregister.com
-    quality: 43
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
         isCached: true
   - title: "New UK live facial recognition code proposed has potential for adverse effects"
     excerpt: "The proposed code states that any use of live facial recognition should quickly delete any unused biometric data collected."
@@ -100,6 +100,6 @@ related:
         height: 1066
         isCached: true
 
-secured: "aU/VS6wpJkMtQwmFOpz2QJshQxjglEWjBr2NJY3UVyhSI1swgMN5DgkeGKvj33TdkD5lnN8ScuhZJnuSTcIHbz8g+7eMsnyJdeQDHG60hydbDAv1XgIbXnGDeszB4OT+qgXfZshhAeuFFPlLKWUkD+7/fo0tzKYD2AxysY1dbxEGxIHP98fD+pgMisHPgynF9Hkjy3KQtyUlWPlnD82km5bC1k/jNq1zc88YNBpvcn4rK0kvdHL/ocP70KTihIyxpFiPAHmrOrn+hKWoLhuUclY5P6LzA1wZ1GYFUxMO5M6rF++bCRUm67WZQcgJ7Obrm9LQyWdSqVjhGsH6tsiF+3PeO8lj1fyzlzFT3OIxrVs=;S2TtjQ9F7++4n5M347Aayg=="
+secured: "aaoUs8qm4XunmSZLW/LrPIQwqRQY4tO8nH0gczi2pgwYxBU1naqKGJB6xqbM3ILpN09s85D9lKKBsj+9Frae2EQcrDxtNVF5zkNpoYtcEYSBCIjmeVlnL6hhmlQ36N3hMdy/GSqxQFkmLvYEtkYCakcGpU5ViWm9nR2iZzjqZ2eSvBv83DnB4pfNn5eYM9FUCZt/01W/qeNZhhPRXO/6xUIJqHS6gGwlS16y+cY8nqAxTW1RV+mboDivQGpH29Sk9UNO7sv+pNMYlUFnqkPGrIE0OqP5IHLLw8MktbGNk9pnDIrCAs3S3wS0HzELkllIlwrb/05Yz/cfPNxuJck3BwB23HAqILXwnkZRuqLSU7T8wsNAvC8Q1MDhp7AybVJfAIvlmqLAAO1mKnkm+ZN09plWfBGVCz3xAp7Y/OnAnjOUc+45eeWK0O0zVRaWNNpbPZ24ju/KImodIlKKz3SM4xTMu71BmOfjM2MWOddZZOxpCY4xOe489T1J4wApsNhVL3Ccl6JhKeBdVfF0/blVpg==;aAYVi9I9+1Gxzpv+r4o/0A=="
 ---
 

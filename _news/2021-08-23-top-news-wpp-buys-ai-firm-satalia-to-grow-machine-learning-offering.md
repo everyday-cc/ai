@@ -37,6 +37,52 @@ related:
         width: 730
         height: 395
         isCached: true
+  - title: "WPP acquires agency specialising in artificial intelligence"
+    excerpt: "Combining machine learning and optimisation, Satalia builds technologies \"that help clients transform their business strategies and radically"
+    publishedDateTime: 2021-08-23T08:10:00Z
+    webUrl: "https://www.proactiveinvestors.co.uk/companies/news/958336/wpp-acquires-agency-specialising-in-artificial-intelligence-958336.html?SNAPI"
+    ampWebUrl: "https://www.proactiveinvestors.co.uk/companies/amp/news/958336"
+    cdnAmpWebUrl: "https://www-proactiveinvestors-co-uk.cdn.ampproject.org/c/s/www.proactiveinvestors.co.uk/companies/amp/news/958336"
+    type: article
+    provider:
+      name: Proactive Investors
+      domain: proactiveinvestors.co.uk
+    quality: 57
+    images:
+      - url: "https://www.proactiveinvestors.co.uk//thumbs/upload/News/Image/2021_08/1200z740_1629706468_2020-11-20-14-55-35_ac6d23e161ea039615fc6200b6c8b803.jpg"
+        width: 1200
+        height: 740
+        isCached: true
+  - title: "WPP acquires AI company"
+    excerpt: "Advertising and communications business WPP has acquired Satalia, a technology company focused on artificial intelligence (AI), for an undisclosed sum."
+    publishedDateTime: 2021-08-23T09:38:00Z
+    webUrl: "https://www.research-live.com/article/news/wpp-acquires-ai-company/id/5088212"
+    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5088212&name=wpp-acquires-ai-company"
+    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5088212&name=wpp-acquires-ai-company"
+    type: article
+    provider:
+      name: research
+      domain: research-live.com
+    quality: 57
+    images:
+      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
+        width: 1000
+        height: 581
+        isCached: true
+  - title: "WPP acquires AI technology company Satalia"
+    excerpt: "The latest acquisition of Satalia is aligned with WPP’s accelerated growth strategy and focused M&A approach and more."
+    publishedDateTime: 2021-08-23T07:35:00Z
+    webUrl: "https://www.socialsamosa.com/2021/08/wpp-acquires-ai-technology-company-satalia/"
+    type: article
+    provider:
+      name: Social Samosa
+      domain: socialsamosa.com
+    quality: 39
+    images:
+      - url: "https://www.socialsamosa.com/wp-content/uploads/2021/08/WPP-satalia.jpg"
+        width: 800
+        height: 418
+        isCached: true
   - title: "WPP acquires leading AI technology company Satalia"
     excerpt: "WPP is a creative transformation company. We use the power of creativity to build better futures for our people, clients and communities."
     publishedDateTime: 2021-08-23T07:30:00Z
@@ -50,6 +96,20 @@ related:
       - url: "https://www.wpp.com/-/media/project/wpp/images/news/stalia-pr.jpg?width=900&height=506"
         width: 900
         height: 506
+        isCached: true
+  - title: "WPP acquires Satalia for efficiency-increasing AI tech"
+    excerpt: "WPP’s accelerated growth strategy shows no sign of slowing, with the addition of artificial intelligence (AI) technology company Satalia for an undisclosed sum to modernize its sprawling empire."
+    publishedDateTime: 2021-08-23T09:06:00Z
+    webUrl: "https://www.thedrum.com/news/2021/08/23/wpp-acquires-satalia-efficiency-increasing-ai-tech"
+    type: article
+    provider:
+      name: The Drum
+      domain: thedrum.com
+    quality: 39
+    images:
+      - url: "https://media-assets-04.thedrum.com/cache/images/thedrum-prod/s3-news-tmp-10557-satalia--default--1280.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "aCahH70S1i7Rz/3uFgejDonlZxyNM1tk+aCxxzStQzl5MaJsAZ8GkhQ/OhmmrF+ucBt88LjXCfasVVy/lwGZFmw+8uX1nrl7YbzzPryuj5KcVBVmxodpgftQ8H6q9n7/W0l5UjE2EV7uVPgPDvORnxzokw6+xjILvwtpAw8bp3HjT0HQ0Yv8ew642gw5RY8FTtsxRQn95Onq/5NBGnSFmkCzjSjaoSxC1NKmtxiz0EkWzCUih4pVTnLuqyPvY8y1JiReL0vdhGtkcRQr0V/+iJIO9xfNSw2J8Xc1thLC80fUW4j950+Z+lZ1R7UcSdNtOAU3LwjcRxjgzaPChAEabJ98dL4uxCueUXocMi8oBtA=;R54iHsCpqQ5lJH9MdmmSWA=="

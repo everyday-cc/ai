@@ -1066,6 +1066,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Everything That Happened At Tesla AI Day"
+    excerpt: "As anticipated, Tesla’s AI Day incorporated company engineers explaining the upcoming Tesla tech while focusing on attracting and recruiting the brightest to join Tesla’s AI team. “There’s a tremendous amount of work to make it work,"
+    publishedDateTime: 2021-08-23T09:30:00Z
+    webUrl: "https://analyticsindiamag.com/everything-that-happened-at-tesla-ai-day/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/TeslaDay_AIM.jpg"
+        width: 1050
+        height: 590
+        isCached: true
   - title: "Elon Musk Insists You Can 'Most Likely' Overpower This Humanoid Robot Built to Replace You"
     excerpt: "So says Elon Musk, who just unveiled a humanoid robot built to replace you, sorry relieve you, at your job. The Tesla Bot, a surprise reveal at the end of Tesla's AI Day on Thursday, is a bipedal automaton that is designed to take over \"dangerous,"
     publishedDateTime: 2021-08-20T15:32:00Z
