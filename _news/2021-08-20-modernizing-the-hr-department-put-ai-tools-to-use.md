@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benefitspro.com/2021/08/20/modernizing-the-hr-department
 cdnAmpWebUrl: "https://www-benefitspro-com.cdn.ampproject.org/c/s/www.benefitspro.com/2021/08/20/modernizing-the-hr-department-put-ai-tools-to-use/?amp=1"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Benefits Pro
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI will change the future of creative departments"
-    excerpt: "Founder of Creative Content Works and Creative Director of GENIE, the creative industry’s first automated talent agent, argues that AI will soon be at the heart of all agency creative departments."
-    publishedDateTime: 2021-08-20T15:40:00Z
-    webUrl: "https://shots.net/news/view/how-ai-will-change-the-future-of-creative-departments"
-    type: article
-    provider:
-      name: shots
-      domain: shots.net
-    quality: 37
-    images:
-      - url: "https://d17mj1ha1c2g57.cloudfront.net/v1/-C6dcn573KZqYETpJdtXKv1o2GQ/1200x630%23/80/shotsmag/production/clips/1fb9c825-3439-4cbe-aff4-052b534ed913/gettyimages-1312032125.jpg?v=1&quality=70&format=jpeg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Senators question Justice Department funding for AI-powered policing tech"
     excerpt: "A Democratic senator said the U.S. Justice Department needs to look into whether the algorithm-powered police technologies it funds contribute to racial bias in law enforcement."
     publishedDateTime: 2021-08-20T23:34:00Z

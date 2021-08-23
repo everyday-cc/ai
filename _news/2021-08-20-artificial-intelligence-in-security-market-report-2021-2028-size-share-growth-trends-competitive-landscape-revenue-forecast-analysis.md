@@ -235,19 +235,19 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 29
-  - title: "AI Infrastructure Sales Size 2021 by Product, Revenue, price, Industry Share, Growth Opportunity and Forecast to 2026 Research Report by MSR"
-    excerpt: "AI Infrastructure Sales Size 2021 by Product, Revenue, Price, Industry Share, Growth Opportunity and Forecast to 2026 Research Report by MSR"
-    publishedDateTime: 2021-08-19T03:27:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_amd/ai-infrastructure-sales-size-2021-by-product-revenue-price-industry-share-growth-opportunity-and-forecast-to-2026-research-report-by-msr/"
+  - title: "Artificial Intelligence Market Analysis, Post COVID-19 Scenario And Leading Players Updates By Forecast 2020-2027"
+    excerpt: "The Artificial Intelligence Market is expected to exceed more than US$ 191 Billion by 2024 at a CAGR of 37% in the given forecast period. The Artificial Intelligence Market is segmented on the lines of its technology,"
+    publishedDateTime: 2021-08-19T19:11:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-market-analysis-post-covid-19-scenario-and-leading-players-updates-by-forecast-2020-2027"
     type: article
     provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 21
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 20
     images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/1629343638_img-6.png"
-        width: 500
-        height: 300
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/California-Wildfires-AFP-1K-02-1-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
   - title: "Cognitive Computing Market Size Analysis, DROT, PEST, Porter’s, Region & Country Forecast Till 2027 | Reports and Data"
     excerpt: "The global cognitive computing market is forecast to reach USD 475.24 Billion by 2026, according to a new report by Reports and Data. The cognitive computing technology derives the answers and works like the human brains."
@@ -292,20 +292,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 19
-  - title: "Artificial Intelligence Market Analysis, Post COVID-19 Scenario And Leading Players Updates By Forecast 2020-2027"
-    excerpt: "The Artificial Intelligence Market is expected to exceed more than US$ 191 Billion by 2024 at a CAGR of 37% in the given forecast period. The Artificial Intelligence Market is segmented on the lines of its technology,"
-    publishedDateTime: 2021-08-19T19:11:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-market-analysis-post-covid-19-scenario-and-leading-players-updates-by-forecast-2020-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 18
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/California-Wildfires-AFP-1K-02-1-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "UK AI in Image Recognition Market Size, Share, Analysis, Applications, Growth Insight, Trends, Leaders, Services and Future Forecast - 2025"
     excerpt: "UK AI in image recognition market is estimated to grow significantly at a CAGR of 28 4 during the forecast period UK is the third largest economy in Europe after Germany and France majorly owing to its trading power and"
     publishedDateTime: 2021-08-23T07:47:00Z

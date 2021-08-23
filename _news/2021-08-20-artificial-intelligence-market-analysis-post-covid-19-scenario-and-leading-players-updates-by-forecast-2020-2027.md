@@ -6,7 +6,7 @@ publishedDateTime: 2021-08-19T19:11:00Z
 originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-market-analysis-post-covid-19-scenario-and-leading-players-updates-by-forecast-2020-2027"
 webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-market-analysis-post-covid-19-scenario-and-leading-players-updates-by-forecast-2020-2027"
 type: article
-quality: 18
+quality: 20
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/California-Wildfires-AFP-1K-02-1-600x337.jpg"
@@ -235,20 +236,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 29
-  - title: "AI Infrastructure Sales Size 2021 by Product, Revenue, price, Industry Share, Growth Opportunity and Forecast to 2026 Research Report by MSR"
-    excerpt: "AI Infrastructure Sales Size 2021 by Product, Revenue, Price, Industry Share, Growth Opportunity and Forecast to 2026 Research Report by MSR"
-    publishedDateTime: 2021-08-19T03:27:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_amd/ai-infrastructure-sales-size-2021-by-product-revenue-price-industry-share-growth-opportunity-and-forecast-to-2026-research-report-by-msr/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 21
-    images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/1629343638_img-6.png"
-        width: 500
-        height: 300
-        isCached: true
   - title: "Cognitive Computing Market Size Analysis, DROT, PEST, Porter’s, Region & Country Forecast Till 2027 | Reports and Data"
     excerpt: "The global cognitive computing market is forecast to reach USD 475.24 Billion by 2026, according to a new report by Reports and Data. The cognitive computing technology derives the answers and works like the human brains."
     publishedDateTime: 2021-08-20T05:02:00Z
@@ -318,6 +305,6 @@ related:
       domain: openpr.com
     quality: 5
 
-secured: "ur3TEkrXSW90u5u5GjNzhGINkxo0BvOoRjB1wdTE6vDvYmh+Xt7qCVdV5vwp7+n+h6tw900DI3tqAXsTz2tfkgji5aK/GDduxn91zLD3Bo1ys5cN59EvnK5qoEICCdAIr8qiAGL17IGRMDfDOk4D59Nb7jde9a0QVhIUEF4d/q87LZr2bsr4HIq20LiRKlZoXPSK6lyaoguNsahgPHR5uizjrFKHoG4FFlkLasCB8EL2IwsnbCt7OiEMBvFug6H8bt3lChXjjYXR9rzDk/XNJklCWCXtKU0L4JEqDvj28pxavEUuqP2Og96cRNN8JRKuS6EFsAQLdNa7bA6rfS5nYwmYEvomxhLJJZIOTGwOX+8=;a0pV6lsKtkw/NtF1cJ2DYA=="
+secured: "QnMqYp/VQdkJKyN9mbUrHlf9DzbIQkABBMs74aQfCrX9ucW0NXPs7NW45iS2Q/YJehwVYiPcAQHMKbrgdHZi/8kofVqAtcei/NOeDqWpI7gqr7+mrWc9TK/V5nzMIXsiaD8orT6sVzIV+ddzp+rX2v6efL1/rnSrIx/7O/VkRSpkvUmnNxVVP1O+D3oqma6U201/7nIkFN4kB4h8sZO6N3Nt46/6urAiLqhAu1qayVW9nDNiXF4/p9o34FCPwVIqUoIxQ3taYfELWOd3J5OIx16YY8S/NgjowSqONSPB1rZiqBG8M+zsWiV2lvFHRi6hv+R6fePB9rQR2kxecth7daOS49HO7ZwxNU2DqpWjeeAfMOWziKN/IH1ZbOK4qhDz0bZAkwE6LTVBtXiAjWHoyJHBlDmf3UAFZlFc/hLKgxPEsQVhQ/08JK/v1Vfeqfov6ss+9V1jnOHfDZ1an9izf1Bl/45vuLC/0DAdsu1GBcDudzUXBrMW3PI6mLLDSTxhsnPuzRcdGRYHMHIPizVTIA==;rAKIjTHTSPs+JkWzX6hbYQ=="
 ---
 

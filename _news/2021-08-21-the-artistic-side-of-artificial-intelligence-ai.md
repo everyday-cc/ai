@@ -55,6 +55,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "The Role of Artificial Intelligence (AI) in the Global Agriculture Market 2021 - ResearchAndMarkets.com"
+    excerpt: "ResearchAndMarkets.com The \"Global Artificial Intelligence (AI) Market in Agriculture Industry Market 2021-2025\" report has been added to ResearchAndMarkets.com's offering. The artificial intelligence (AI) market in the agriculture industry is poised to grow by $458."
+    publishedDateTime: 2021-08-23T10:15:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210823005465/the-role-of-artificial-intelligence-ai-in-the-global-agriculture-market-2021-researchandmarketscom"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 16
 
 secured: "xbXCcRC/ob0663HXpa2T8reBUKBGtP71Up8/f59qdhIauRoyugrmzaTgZab1fm6wNze6SSM3L+AWL88k0RT/Dlzgle/3z9NZPopLtO1YhBGkf0nVSyj2f/4zvPTRPeuUTE2jemEu64I+VFMUlYUUYBwVdGk7flsEBbRxON5uoWTdHUxmirj0psArtR0lnVOeTZXxYjYwW1O0UWDAaiSKAIVXM7zVxKCcquvyRs4LcMEPzKD/9znVVK3+f36QrckI0mMFFDEz5wVbUqYX0sov5gg9UC227HVqz0HOPd3g7C1sQ7ZSuaTgbKGaeezI1AqvqmhyiFCnVhP52LqPPhXZOtF6Lu6RnTVvhpIi9raTE0iD8D5d7WRTjzWEOZctsUzdIvuCPk8xipyKAYKjzDraqcO/U5TVuo4426bJ82wAi3Ymbe8EN8ZrWrlEYpvbrkNOBuSUHlIHgOmwDWcikinMDKKNNQyA6O/m2rBAXvBfSgqZPX0xeny0OQPUcmv8HZDnFl2RV+fKJBxlkUq+qdFoJA==;YdEeqgLuHXB+yJRm8AxQGA=="
 ---

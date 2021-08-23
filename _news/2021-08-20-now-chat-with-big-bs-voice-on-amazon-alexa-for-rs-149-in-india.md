@@ -121,20 +121,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Amazon Echo adds Amitabh Bachchan's voice"
-    excerpt: "Puneesh Kumar, country leader for Alexa, Amazon India, said, \"At Amazon and Alexa, we consistently innovate on behalf of our customers and building the Amitabh Bachchan celebrity voice experience with one of India’s most iconic voices has been a labour of love."
-    publishedDateTime: 2021-08-19T04:37:00Z
-    webUrl: "https://www.campaignindia.in/article/amazon-echo-adds-amitabh-bachchans-voice/471931"
-    type: article
-    provider:
-      name: Campaign India
-      domain: campaignindia.in
-    quality: 24
-    images:
-      - url: "https://cdn.i.haymarketmedia.asia/?n=campaign-india%2fcontent%2f20210819044036_alexa.jpg&h=630&w=1200&q=75&v=20170226&c=1"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Amazon brings Amitabh Bachchan’s voice to Alexa"
     excerpt: "Amazon on Thursday said megastar Amitabh Bachchan’s voice will now be available on Alexa that will allow users to ask for music, set alarms and even get weather updates in Bachchan’s signature style."
     publishedDateTime: 2021-08-20T05:39:00Z

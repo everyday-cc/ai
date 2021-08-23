@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/byoni
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/byonic-ai-redefines-the-future-of-digital-marketing/article_e491bbca-e1fc-5eb5-84f6-ae831601a89f.html"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Music of the Future: Listen to These Songs Made by Artificial Intelligence"
-    excerpt: "Artificial Intelligence is taking over the music industry. These AI songs are a blend of human and AI technologies like machine learning."
-    publishedDateTime: 2021-08-19T04:21:00Z
-    webUrl: "https://www.analyticsinsight.net/music-of-the-future-listen-to-these-songs-made-by-artificial-intelligence/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 35
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Artificial-intelligence-5.jpg"
-        width: 900
-        height: 500
-        isCached: true
 
 secured: "6E1p7V7Lsgg+OUacX8IDWoa/RsGKlhFvUuu184ZF7rinwz+Co4Z2khm9Lmv/wPtb6+MCwpynQ7NWYemDIXPljxJEDXu0eN96++tn6e9BMZroe96EIbNWjrHhfVHy/oqu3KqVRCj6xvmf/82CQpC70L9jzk0aUXznm+OJ79UkdXTMJekbaWYGxz+hOzrzrR0hW0gyttZL20VUDxwxfLF2TxC+q+7/HMD2n0WnUs6zAYGqBsY50oiNTafNPjIybqp8oFRo0ou+AB5u9zZFBXNuUGT0xWbIzHoLksbgBOLl1KDI+8Ojxl31DbH2XcvBML9hKkBJomkBbRU81/eNn1pAsYVQfohz+iFcZ+j8FNtaSms=;lVyoTFwvkEFGfqyWpARrzQ=="
 ---

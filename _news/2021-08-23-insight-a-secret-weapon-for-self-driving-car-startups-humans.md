@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/insight-a-secret-weapon-for-self-dri
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/insight-a-secret-weapon-for-self-driving-car-startups%3A-humans-2021-08-23?amp"
 type: article
 quality: 54
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: Nasdaq
@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "A secret weapon for self-driving car startups: Humans"
+    excerpt: "Self-driving startups like Cruise and Pony.ai have begun testing their driverless cars in some parts of California in the past year, with an additional feature: Human operators."
+    publishedDateTime: 2021-08-23T16:36:00Z
+    webUrl: "https://www.reuters.com/business/autos-transportation/secret-weapon-self-driving-car-startups-humans-2021-08-23/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 54
+    images:
+      - url: "https://www.reuters.com/resizer/jdx_SBKHpamXIFpgNPetMNtT-oE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YZTF4GYIYNIVJJBTUP3X3KH4B4.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Film's star is self-driving car by Cruise to build trust"
     excerpt: "The car, one of 200 used for testing by the GM unit, stars in a short film meant to earn consumers' trust and educate them about the technology."
     publishedDateTime: 2021-08-21T08:00:00Z

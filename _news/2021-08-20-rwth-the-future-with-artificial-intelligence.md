@@ -9,8 +9,8 @@ ampWebUrl: "https://indiaeducationdiary.in/rwth-the-future-with-artificial-intel
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/rwth-the-future-with-artificial-intelligence/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: India Education Diary
@@ -43,15 +43,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "The future of AI takes shape"
-    excerpt: "OpenAI has also shown how AI can help programmers build the software of the future, releasing Codex, a machine learning tool that translates your text, for what you want your program to do, into code."
-    publishedDateTime: 2021-08-20T16:06:00Z
-    webUrl: "https://www.ft.com/content/ccf3fcf2-f5ec-4fbc-bc86-a56a9b41ec7c"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 19
 
 secured: "RlpsNJsHEM+LF1hn06Pd8WjyJFA/Ytyte+/Ky7T5IJDIQmcN7c8cQPGsL8XzXl0VjJM76Rc3o1ZJ2qUeG1hc/8ec0SGnhYNu5xhILfZSVs0j7R6teVjtB2YGz9O6Pf+RhViBUVJhx9HN+EKqFOSW67xmjZXgf3LMYdN9UBFENLtUW7n4PwNWWYGApIh7CaPQltgykRwoadaVWrIHWAd427zzQjJRwJpHlhNnQ2J0LB4YS4I6r1xwX0351CeN/LYd1Ku8hf3sdzoubgBqCwMhTHaJI75mkVFFOGT8tOfMvg2/3DXYh13fAgBFGNEdOVAeHTy7u3T3C3nOrEoC3G1CHTMGq2Jg1L+f4VHnoQApmb2GchZKGMDTKmU0dvjzojcJ6wx02u5La0dfi4MOwS1H7yNb+tC0IN5V4PxoUcsBtEKuyfbMelm6e+XgDdhJCAAWmxVchbAcxFG/Jc7xY4niq2+P0xaxT9dv3XXpoHn+O6yeKb87z5PDz7PgvLBGAEsAmjYVuIHUXiMQHeqRR3uWAw==;NK45TsBcc9OLhYOo3UhmBw=="
 ---

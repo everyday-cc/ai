@@ -9,7 +9,7 @@ ampWebUrl: "https://manometcurrent.com/call-center-ai-market-to-witness-huge-gro
 cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/call-center-ai-market-to-witness-huge-growth-by-2028-ibm-google-microsoft/?amp=1"
 type: article
 quality: 70
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -53,20 +53,6 @@ related:
       - url: "https://manometcurrent.com/wp-content/uploads/2021/08/Autonomous-Vehicles-Market-390x220.jpeg"
         width: 390
         height: 220
-        isCached: true
-  - title: "Neural Network Software Market to Witness Huge Growth by 2026: Google, Neurala, IBM"
-    excerpt: "This press release was orginally distributed by SBWire Edison, NJ — (SBWIRE) — 08/18/2021 — The latest study released on the Global Neural Network Software Market by AMA Research evaluates market size,"
-    publishedDateTime: 2021-08-19T03:28:00Z
-    webUrl: "https://www.digitaljournal.com/pr/neural-network-software-market-to-witness-huge-growth-by-2026-google-neurala-ibm"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 33
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/Mask-Covid-Pandemic-AFP-1K-600x337.jpg"
-        width: 600
-        height: 337
         isCached: true
 
 secured: "1+TzpTZ/qOULf1DfBYDDe44Y52kUAYS0AvWBNLAAjsmGEorhXYwElTCRtPXq1LrvVdscCKbVzw4BJNQjiIJuVscK4ugNJDd/dB4ZGrlWXJQYqJBBDlJYqarypCLbSFzE/5DPnSbwXE6APrIxc2gFZXPyn2+5u6ySDUUCqImSkugFzJIOezH2lf3bPd6Xa8kw931NHVU5fKa8G0Xa3sVnIjuuw6LCgKiK/5ivvbH2KoF1Qg3ZyEyQEg5twLLfB+hINXmH8e9jmRLl2dNhbA6NFn+ilw9lSmnCGpVai1IcqowyTvAN7/ICyOvnNmunlElBe6277Im+m1Bqrd8+EQM84FtO6tm0Hv0Tr7y9YeF/VIw=;DwghAQyAYBQY+TnL14smuw=="

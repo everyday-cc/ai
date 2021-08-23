@@ -85,7 +85,7 @@ related:
     provider:
       name: Metal
       domain: metal.com
-    quality: 66
+    quality: 68
   - title: "Tesla self-driving tech could be offered to other automakers"
     excerpt: "According to a media report, Elon Musk is open to the idea of sharing Tesla's full self-driving technology with other automakers.As per reports, Musk stated that he is open to allowing other car companies"
     publishedDateTime: 2021-08-23T11:01:00Z

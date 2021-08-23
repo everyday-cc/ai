@@ -97,7 +97,7 @@ related:
     provider:
       name: Metal
       domain: metal.com
-    quality: 66
+    quality: 68
   - title: "Tesla Could Allow Other Automakers To Utilize Its Self-Driving Technology"
     excerpt: "This could lower the cost for automakers to develop their own self-driving technologies, leading to more vehicles on the road with autonomous driving features."
     publishedDateTime: 2021-08-22T23:09:00Z

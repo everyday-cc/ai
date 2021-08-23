@@ -55,6 +55,22 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Today in Payments Around the World: Accelerating Egyptian AI and Cybersecurity Startups, Paysafe Acquires German Platform"
+    excerpt: "Today in payments around the world, Paysafe buys Germany's viafintech, Arab Bank debuts AB Accelerators in Egypt and HSBC introduces mobile payments in Qatar."
+    publishedDateTime: 2021-08-23T20:43:00Z
+    webUrl: "https://www.pymnts.com/news/international/2021/today-in-payments-around-the-world-accelerating-egyptian-ai-and-cybersecurity-startups-paysafe-acquires-german-platform/"
+    ampWebUrl: "https://www.pymnts.com/news/international/2021/today-in-payments-around-the-world-accelerating-egyptian-ai-and-cybersecurity-startups-paysafe-acquires-german-platform/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/international/2021/today-in-payments-around-the-world-accelerating-egyptian-ai-and-cybersecurity-startups-paysafe-acquires-german-platform/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 34
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/08/HBSC-Qatar-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "A Canadian-based Fintech Company to Expand Globally With World-class AI Technology"
     excerpt: "As such, Peak Fintech Group announced on August 16 that it will be acquiring Cubeler, an analytics and AI company located in the heart of Montreal. Peak Fintech to acquire Cubeler In a press release, it was revealed that Peak Fintech will acquire 100 per ..."
     publishedDateTime: 2021-08-19T13:00:00Z

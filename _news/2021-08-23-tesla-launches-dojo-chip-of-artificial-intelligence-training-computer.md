@@ -6,7 +6,7 @@ publishedDateTime: 2021-08-22T23:57:00Z
 originalUrl: "https://news.metal.com/newscontent/101575471/Tesla-launches-DOJO-chip-of-artificial-intelligence-training-computer/"
 webUrl: "https://news.metal.com/newscontent/101575471/Tesla-launches-DOJO-chip-of-artificial-intelligence-training-computer/"
 type: article
-quality: 66
+quality: 68
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - AI in Autos
   - AI
   - AI Hardware
+  - Machine Learning
 
 related:
   - title: "Tesla aims to launch Full Self-Driving Computer 2 with Cybertruck"

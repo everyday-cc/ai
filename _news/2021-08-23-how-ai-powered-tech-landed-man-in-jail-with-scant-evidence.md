@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI-Powered Tech Landed a Man in Jail With Scant Evidence"
-    excerpt: "Michael Williams’ wife pleaded with him to remember their fishing trips with the grandchildren, how he used to braid her hair, anything to jar him back to his world outside the concrete walls of Cook County Jail."
-    publishedDateTime: 2021-08-19T04:05:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-08-19/how-ai-powered-tech-landed-man-in-jail-with-scant-evidence"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHqdz8muF3jc/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "How AI-powered tech landed man in jail with scant evidence"
     excerpt: "Williams was jailed last August, accused of killing a young man from the neighborhood who asked him for a ride during a night of unrest over police brutality in May. But the key evidence against Williams didn’t come from an eyewitness or an informant;"
     publishedDateTime: 2021-08-20T08:37:00Z
@@ -55,22 +41,6 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
-        isCached: true
-  - title: "This Man Spent Nearly A Year In Prison Over Faulty AI-Based Evidence"
-    excerpt: "With this, we should ask since when was judging humanity replaced by an algorithm alone when life hangs in the balance?"
-    publishedDateTime: 2021-08-22T18:10:00Z
-    webUrl: "https://hothardware.com/news/man-jailed-over-ai-powered-gunshot-detection"
-    ampWebUrl: "https://amp.hothardware.com/news/man-jailed-over-ai-powered-gunshot-detection"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/man-jailed-over-ai-powered-gunshot-detection"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 57
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/56048/content/man-wrongly-convicted-on-ai-evidence.jpg"
-        width: 708
-        height: 409
         isCached: true
   - title: "How AI-powered tech landed man in jail with scant evidence"
     excerpt: "Michael Williams’ wife pleaded with him to remember their fishing trips with the grandchildren, how he used to braid her hair, anything to jar him back to his world outside the concrete walls of Cook County Jail."
@@ -110,6 +80,6 @@ related:
       domain: columbiabasinherald.com
     quality: 17
 
-secured: "HSUbmnfJ/DLoJWwq5sNfxth9SZPbp8RO8YeyIhdrPeiWi8NNw9G027dIENzGQFiLUerNalRg9F8B/6zdb9miOkL5PIREycTu11ZjLv1K14+qdFHpFI8R8A1Uy05miJBmiaeahB7keYgMmw7fCkTtljA/q+jiwcOSiQOnWJhEt6PXf+fA/05+SZPFWf4BHvly8/8p5Ow6UcqIU2EGQh4/4nbduYlepJVYdyABlHnaa+qiUtZCYGUEFdKD001iwg5ApVAfdYu2u0ZtqHFMKgoNHEc+sB+EcIdLrp/pTIFfmRXwG6ZCylzy8mnGJpot6db+1Ddv2yPfw4V9R+wEryUwq5Stghdj8U/RfGiMxJLiVvY=;GPgzC4xO2Q9C9YiXsEXKHQ=="
+secured: "ESk6u4JkcZhQT5QAwyIX4Vlb1wrswpXcvP5F4xXuKoS7gknvBpMdvGxPu/xUNWI3JO3G2tp7DndpNAO4F33cH8BPCiXHbIK7bidf1cisAGp6QSODiDIhJWSh1zFjIygPPv5ZllxRmW/qLdm6pFNFpf3cyA+GqHqVe62Wt9nu8QvRqm+UphjxDdRwCc/cAe/xRWPnwxp4FPsuIkh/O68BuweklrhFT1Ko0n4UkaAlMYa5iq4qoRcvea/54qag3wNSPwDuB0cjVYD5+wJTJkncy9dHTkgP0LHxUS6nV69jmpE8l0M4jAU9SxQh3IkWUemL9TvZeJwszHgpvMkV3xIyWKxCHYgbqqM+wrCJEJ0ONk3lBxqWuzuxOAZDtADqqV9oAe8pVSGcCFap9sy5SEI2/GO77VBktCEUQd34e9Q2GvkXxIxnA+kDVbiFkXYv/dozpdgXOtdRGaBzkET+xBOOPPfQhNgaaMKuU3HeU7StLXF236/TfCrWjUXprMyibd5cDAHDXJIPN7hYC7XrRMGvkA==;wsbLnIUsQ2myEsQZA8V11Q=="
 ---
 

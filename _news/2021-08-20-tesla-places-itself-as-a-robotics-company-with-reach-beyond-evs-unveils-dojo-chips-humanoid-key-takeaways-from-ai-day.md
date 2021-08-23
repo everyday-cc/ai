@@ -294,6 +294,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 101
+  - title: "Elon Musk Calls Tesla'a Full Self Driving Beta Technology 'Not Great' in a Tweet"
+    excerpt: "Tesla CEO Elon Musk said on Twitter that the company's Full Self Driving Beta technology is 'not great' and admits that the AI team is working on it."
+    publishedDateTime: 2021-08-23T21:50:00Z
+    webUrl: "https://www.newsweek.com/elon-musk-calls-tesla-full-self-driving-beta-technology-not-great-tweets-1622282"
+    ampWebUrl: "https://www.newsweek.com/elon-musk-calls-tesla-full-self-driving-beta-technology-not-great-tweets-1622282?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/elon-musk-calls-tesla-full-self-driving-beta-technology-not-great-tweets-1622282?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 99
+    images:
+      - url: "https://d.newsweek.com/en/full/1877963/2021-tesla-model-y.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "Elon Musk says Tesla's AI bots will hopefully be sent to Mars to work in inhospitable environments"
     excerpt: "Tesla CEO Elon Musk on Friday said his company's humanoid robots, Tesla Bot, would someday be able to work on Mars."
     publishedDateTime: 2021-08-21T09:35:00Z
