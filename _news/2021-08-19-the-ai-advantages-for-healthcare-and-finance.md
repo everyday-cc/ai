@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/sponsor/beyond-limits/the-ai-advantages-for
 webUrl: "https://techcrunch.com/sponsor/beyond-limits/the-ai-advantages-for-healthcare-and-finance/"
 type: article
 quality: 101
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -57,6 +57,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "China AI in Healthcare Market Emerging Trend, Top Companies, Industry Demand and Regional Analysis by 2025"
+    excerpt: "China s AI in healthcare market is estimated to grow significantly at a CAGR of 52 8 during the forecast period China s market has both medium and long term potential due to its large market size aging population fluctuating"
+    publishedDateTime: 2021-08-23T07:24:00Z
+    webUrl: "https://www.openpr.com/news/2363109/china-ai-in-healthcare-market-emerging-trend-top-companies"
+    ampWebUrl: "https://www.openpr.com/amp/2363109/china-ai-in-healthcare-market-emerging-trend-top-companies"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2363109/china-ai-in-healthcare-market-emerging-trend-top-companies"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 36
 
 secured: "6KiXKhzVP6tOots0x60uQ2LGx9hLmePXhIPQfng4V7kE85/AatJ7eSVdqmJq4pvtM3/sppFIatYNjesJzTnTvM3DThU68i1s3RbBUtRm41DKlLRwTsprAnXBC/jbSLd08E8BDXR4wKM8k/dWZo7OIkz/vGlX0qy7pvjZsAm5cG+kAN6dSrM1wBJ2v/c3S6E8exnBnW89Gsx4kTkAHrbhmbjIOcvCRhXB7hG1T+/aTaj+LfQuxaL0kwd+JHTzgvnd3BYs9+IylpElHR9snfMJ9Mfh8eIH5deWAcvBTWoZTPYGA2fiRGC9OKgsKngNT21LmxJfayDSCqXi5mMozGtowXBunrh6KGmy+ykSYvVxGkkXsTcmoWI8ewa3xCAGbnL+D6Wx4wLc9sute9fL7Hz4mTi3Svtjez270Xe0z7XGOTyIsRYJBoShXQ1kuxRFvv0yPZrWLzB+Hz9Agk+ekRYIVpussNN4BxZfZqYQmVC5X1f2APR7dsTu4F/6cTiXfmVJzGnd00qsoN5UkgwjqZ3I/A==;v2Gz69qp6DjFrUzn4XtBdA=="
 ---

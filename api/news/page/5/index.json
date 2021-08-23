@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-08-18-ai-powered-design-platform-uizard-picks-up-15m.md",
+      "title": "AI-powered design platform Uizard picks up $15M",
+      "excerpt": "Uizard, an AI-powered mobile app and desktop software design platform, has raised $15 million in venture capital financing.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/18/ai-powered-design-platform-uizard-picks-up-15m/",
+      "originalUrl": "https://venturebeat.com/2021/08/18/ai-powered-design-platform-uizard-picks-up-15m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-947663966-e1621956778415.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/18/ai-powered-design-platform-uizard-picks-up-15m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/18/ai-powered-design-platform-uizard-picks-up-15m/amp/",
+      "publishedDateTime": "2021-08-18T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-18-edgeq-samples-soc-for-5g-and-ai-inference-engines.md",
       "title": "EdgeQ samples SoC for 5G and AI inference engines",
       "excerpt": "EdgeQ is sampling a system-on-chip for 5G networks that reduces costs by running AI inference engines at the edge.",
@@ -709,10 +760,10 @@
     {
       "path": "_news/2021-08-18-noodleai-is-now-an-aws-advanced-technology-partner.md",
       "title": "Noodle.ai is now an AWS Advanced Technology Partner",
-      "excerpt": "and Amazon SageMaker, to provide enterprise customers with a predictable, agile, and scalable supply chain. At the center of this offering is Noodle.ai's Flow Operations product suite, which consists of five applications that use advanced artificial ...",
+      "excerpt": "Noodle.ai is tackling the industry's toughest demand, inventory, and production challenges, leveraging AWS's infrastructure",
       "sourceUrl": null,
-      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=148475",
-      "originalUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=148475",
+      "webUrl": "https://www.kmworld.com/Articles/News/News/Noodle.ai-is-now-an-AWS-Advanced-Technology-Partner-148475.aspx",
+      "originalUrl": "https://www.kmworld.com/Articles/News/News/Noodle.ai-is-now-an-AWS-Advanced-Technology-Partner-148475.aspx",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -731,7 +782,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-17T11:51:00-07:00",
+      "publishedDateTime": "2021-08-17T12:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "KMWorld Magazine",
@@ -1125,50 +1176,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-ai-in-medical-imaging-diagnosis-market-is-booming-worldwide-ge-healthcare-ibm-watson-health-philips-healthcare.md",
-      "title": "AI in Medical Imaging Diagnosis Market Is Booming Worldwide | GE Healthcare, IBM Watson Health, Philips Healthcare",
-      "excerpt": "Our report will be revised to address COVID-19 pre-Post pandemic effects on the Global AI in Medical Imaging Diagnosis Market. Click to get Global AI in Medical Imaging Diagnosis Market Research Free Sample PDF Copy Here Before Purchase @: jcmarketresearch.",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/ai-in-medical-imaging-diagnosis-market-is-booming-worldwide-ge-healthcare-ibm-watson-health-philips-healthcare/",
-      "originalUrl": "https://manometcurrent.com/ai-in-medical-imaging-diagnosis-market-is-booming-worldwide-ge-healthcare-ibm-watson-health-philips-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/08/global-silicone-swimming-caps-market-390x220.png",
-          "width": 390,
-          "height": 220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/ai-in-medical-imaging-diagnosis-market-is-booming-worldwide-ge-healthcare-ibm-watson-health-philips-healthcare/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/ai-in-medical-imaging-diagnosis-market-is-booming-worldwide-ge-healthcare-ibm-watson-health-philips-healthcare/?amp=1",
-      "publishedDateTime": "2021-08-17T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

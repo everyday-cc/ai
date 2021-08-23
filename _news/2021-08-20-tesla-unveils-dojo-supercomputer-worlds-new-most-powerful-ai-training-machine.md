@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/08/20/tesla-dojo-supercomputer-worlds-new-m
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/20/tesla-dojo-supercomputer-worlds-new-most-powerful-ai-training-machine/amp/"
 type: article
 quality: 102
-heat: 142
+heat: 152
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Could Tesla Mass Produce Dojo AI Cloud Systems"
+    excerpt: "Tesla revealed its Exapod Dojo supercomputer made from 10 cabinets of servers. Each rack has 6 tiles with 9 Petaflops in each tile. Each cabinet is 100"
+    publishedDateTime: 2021-08-23T06:38:00Z
+    webUrl: "https://www.nextbigfuture.com/2021/08/could-tesla-mass-produce-dojo-ai-cloud-systems.html"
+    ampWebUrl: "https://www.nextbigfuture.com/2021/08/could-tesla-mass-produce-dojo-ai-cloud-systems.html"
+    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/08/could-tesla-mass-produce-dojo-ai-cloud-systems.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 74
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/08/Screen-Shot-2021-08-19-at-7.36.59-PM.jpg"
+        width: 1566
+        height: 1280
+        isCached: true
   - title: "Tesla AI Dojo Training as a Service Could Compete with Amazon and Google Cloud"
     excerpt: "Home » Artificial intelligence » Tesla AI Dojo Training as a Service Could Compete with Amazon and Google Cloud Lex Fridman has a very successful podcast but he has been an AI researcher for 6+ years."
     publishedDateTime: 2021-08-22T21:53:00Z

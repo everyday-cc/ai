@@ -379,7 +379,7 @@
     {
       "path": "_news/2021-08-09-rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts.md",
       "title": "RBL Bank selects AWS to Accelerate Artificial Intelligence Efforts",
-      "excerpt": "Other use cases already being tested within the Operations division include using services like Amazon Rekognition and Amazon Textract to automatically extract and match customer signatures and ...",
+      "excerpt": "RBL Bank, has chosen Amazon Web Services (AWS), an Amazon.com company, as its preferred cloud provider to strengthen its AI-powered banking solutions and drive digital transformation at the Bank, adding significant value to the Bank’s innovative offerings,",
       "sourceUrl": null,
       "webUrl": "https://www.indiainfoline.com/article/news-sector-banking-financials/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900334_1.html",
       "originalUrl": "https://www.indiainfoline.com/article/news-sector-banking-financials/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900334_1.html",
@@ -999,22 +999,31 @@
       "title": "Wavicle Data Solutions Establishes Dedicated AWS Solutions Practice",
       "excerpt": "video and image solutions using Amazon Rekognition, and audio solutions using Amazon Transcribe. PII Compliance: In order to maintain the privacy of customer data, the Wavicle team provides ...",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/08/p22276802/wavicle-data-solutions-establishes-dedicated-aws-solutions-practice",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/08/p22276802/wavicle-data-solutions-establishes-dedicated-aws-solutions-practice",
+      "webUrl": "https://www.lelezard.com/en/news-19930559.html",
+      "originalUrl": "https://www.lelezard.com/en/news-19930559.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/22276802",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22276802",
-      "publishedDateTime": "2021-08-02T04:00:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-02T08:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
         "images": null,
         "publishers": null,
         "authors": null

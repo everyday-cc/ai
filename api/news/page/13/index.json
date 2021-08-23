@@ -2,6 +2,100 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-08-11-artificial-intelligence-classifies-brain-tumors-with-single-mri-scan.md",
+      "title": "Artificial Intelligence Classifies Brain Tumors With Single MRI Scan",
+      "excerpt": "A team of researchers at Washington University School of Medicine have developed a deep learning model that is capable of classifying a brain tumor as one of six common types using a single 3D MRI scan,",
+      "sourceUrl": null,
+      "webUrl": "https://scitechdaily.com/artificial-intelligence-classifies-brain-tumors-with-single-mri-scan/",
+      "originalUrl": "https://scitechdaily.com/artificial-intelligence-classifies-brain-tumors-with-single-mri-scan/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/Deep-Learning-Model-Classifies-Brain-Tumors-Single-MRI-Scan-777x849.jpg",
+          "width": 777,
+          "height": 849,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://scitechdaily.com/artificial-intelligence-classifies-brain-tumors-with-single-mri-scan/amp/",
+      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-classifies-brain-tumors-with-single-mri-scan/amp/",
+      "publishedDateTime": "2021-08-11T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-writesonic-leans-on-ai-to-produce-winning-copy-when-you-dont-have-the-time-to-write.md",
+      "title": "Writesonic leans on AI to produce winning copy when you don’t have the time to write",
+      "excerpt": "Sponsored Deals Instead of sinking all that time and money into your business writing projects, Writesonic was created to handle those tasks intelligently.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/11/writesonic-leans-on-ai-to-produce-winning-copy-when-you-dont-have-the-time-to-write/",
+      "originalUrl": "https://venturebeat.com/2021/08/11/writesonic-leans-on-ai-to-produce-winning-copy-when-you-dont-have-the-time-to-write/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/sale_205218_article_image.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/11/writesonic-leans-on-ai-to-produce-winning-copy-when-you-dont-have-the-time-to-write/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/11/writesonic-leans-on-ai-to-produce-winning-copy-when-you-dont-have-the-time-to-write/amp/",
+      "publishedDateTime": "2021-08-11T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-11-this-intriguing-new-platform-lets-you-translate-your-words-into-code.md",
       "title": "This intriguing new platform lets you translate your words into code",
       "excerpt": "Notably, Codex powers GitHub Copilot, a new tool launched in June and currently under preview that assists programmers by making relevant suggestions as they write code inside development environments like Microsoft’s Visual Studio Code.",
@@ -1113,87 +1207,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-global-artificial-intelligence-applications-for-smart-cities-market-swot-analysiskey-indicatorsforecast-2027-amazon-rekognition-c3ai.md",
-      "title": "Global Artificial Intelligence Applications for Smart Cities Market SWOT Analysis,Key Indicators,Forecast 2027 : Amazon (Rekognition), C3.ai",
-      "excerpt": "MR Accuracy Reports reports provide extensive Artificial Intelligence Applications for Smart Cities assessments with considering the importance and projections and provide detailed, strategic life choice data identification and effective to provide a ...",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/global-artificial-intelligence-applications-for-smart-cities-market-swot-analysiskey-indicatorsforecast-2027-amazon-rekognition-c3-ai/",
-      "originalUrl": "https://manometcurrent.com/global-artificial-intelligence-applications-for-smart-cities-market-swot-analysiskey-indicatorsforecast-2027-amazon-rekognition-c3-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/global-artificial-intelligence-applications-for-smart-cities-market-swot-analysiskey-indicatorsforecast-2027-amazon-rekognition-c3-ai/",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/global-artificial-intelligence-applications-for-smart-cities-market-swot-analysiskey-indicatorsforecast-2027-amazon-rekognition-c3-ai/",
-      "publishedDateTime": "2021-08-10T22:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-massive-growth-of-machine-learning-in-healthcare-market-by-2027-oracle-intel-corporation-ibm-corporation-amazon-web-services.md",
-      "title": "Massive Growth of Machine Learning in Healthcare Market by 2027 | Oracle, Intel Corporation, IBM Corporation, Amazon Web Services",
-      "excerpt": "Machine learning can also help healthcare organizations meet growing medical demands, improve operations and lower costs. At the bedside, machine learning innovation can help healthcare practitioners detect and treat disease more efficiently and with more ...",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/massive-growth-of-machine-learning-in-healthcare-market-by-2027-oracle-intel-corporation-ibm-corporation-amazon-web-services/",
-      "originalUrl": "https://manometcurrent.com/massive-growth-of-machine-learning-in-healthcare-market-by-2027-oracle-intel-corporation-ibm-corporation-amazon-web-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/08/Machine-Learning-in-Healthcare.jpg",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/massive-growth-of-machine-learning-in-healthcare-market-by-2027-oracle-intel-corporation-ibm-corporation-amazon-web-services/",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/massive-growth-of-machine-learning-in-healthcare-market-by-2027-oracle-intel-corporation-ibm-corporation-amazon-web-services/",
-      "publishedDateTime": "2021-08-10T21:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare",
-        "AWS AI",
-        "AI in Finance"
       ]
     }
   ],

@@ -195,17 +195,6 @@ related:
         width: 500
         height: 300
         isCached: true
-  - title: "AI in Finance Market Technology, Recent Trends, Future Growth Analysis Forecasts 2027| IBM Corporation, Intel Corporation, Comply Advantage"
-    excerpt: "Artificial intelligence improves outcomes by employing approaches derived from human intellect but applied at a scale that is not human Fintech firms have been transformed in recent years as a result of the computational arms race Furthermore data and near"
-    publishedDateTime: 2021-08-18T13:26:00Z
-    webUrl: "https://www.openpr.com/news/2359272/ai-in-finance-market-technology-recent-trends-future-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2359272/ai-in-finance-market-technology-recent-trends-future-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2359272/ai-in-finance-market-technology-recent-trends-future-growth"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 20
   - title: "Cognitive Computing Market Size Analysis, DROT, PEST, Porter’s, Region & Country Forecast Till 2027 | Reports and Data"
     excerpt: "The global cognitive computing market is forecast to reach USD 475.24 Billion by 2026, according to a new report by Reports and Data. The cognitive computing technology derives the answers and works like the human brains."
     publishedDateTime: 2021-08-20T05:02:00Z
@@ -252,6 +241,17 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "US AI in Image Recognition Market Analysis By Industry Size, Share, Revenue Growth and Demand Forecast To 2025"
+    excerpt: "The US AI in image recognition market is estimated to grow significantly at a CAGR of more than 28 during the forecast period The factors that are contributing significantly to the market growth investments in R D high expenditure on"
+    publishedDateTime: 2021-08-23T07:51:00Z
+    webUrl: "https://www.openpr.com/news/2363163/us-ai-in-image-recognition-market-analysis-by-industry-size"
+    ampWebUrl: "https://www.openpr.com/amp/2363163/us-ai-in-image-recognition-market-analysis-by-industry-size"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2363163/us-ai-in-image-recognition-market-analysis-by-industry-size"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 19
   - title: "Artificial Intelligence in Drug Discovery Market Competitive Landscape Forecasts to 2027: Global Industry Growth, Share, Size, Trends"
     excerpt: "According to Reports and Data, the Artificial Intelligence in Drug Discovery Market was valued at USD 253.8 million in 2019 and is expected to reach USD 2,127.9 million by the year 2027, at a CAGR of 31."
     publishedDateTime: 2021-08-18T18:16:00Z
@@ -263,15 +263,17 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 8
-  - title: "Global Big Data & Machine Learning in Telecom Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
-    excerpt: "Pages Report] Check for Discount on Global Big Data & Machine Learning in Telecom Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Big Data & Machine Learning in Telecom market report"
-    publishedDateTime: 2021-08-18T14:05:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4784199-global-big-data-machine-learning-in-telecom-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
+  - title: "UK AI in Image Recognition Market Size, Share, Analysis, Applications, Growth Insight, Trends, Leaders, Services and Future Forecast - 2025"
+    excerpt: "UK AI in image recognition market is estimated to grow significantly at a CAGR of 28 4 during the forecast period UK is the third largest economy in Europe after Germany and France majorly owing to its trading power and"
+    publishedDateTime: 2021-08-23T07:47:00Z
+    webUrl: "https://www.openpr.com/news/2363154/uk-ai-in-image-recognition-market-size-share-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2363154/uk-ai-in-image-recognition-market-size-share-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2363154/uk-ai-in-image-recognition-market-size-share-analysis"
     type: article
     provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 0
+      name: openpr.com
+      domain: openpr.com
+    quality: 5
 
 secured: "osNaWA1qul9oDgyp/hksVw9kEdAWZdLv6+2dxw8C0n2Y4foUkBKsRKLfHFjGtyEYRpqnrQOTKoTyv4kiTg8DhWqcKwOTyMVnOqdOWjE9+dqGDW/QERoojOhaRMVqsBPP+E85N97jT9NhORt7vHqnfVZ9CYB5HLkES5+eZD1wuvU7dQpbl2QacrXYiDH9v1+reyqAanIOUb2J8CUMClIyrd630KLeAdeAZyBl4YiiScX9i5h3rDIzKUmMPsmUwevpCMOiHf7v/h6BP9ahTVhl1K9vLt+xs7avdVit7ydJnWAkn+eRyDMkDOVu0mBWOrb8TOfwvb74BeftkgvS1UTk0NNvWiMUkBVuVBucqAGltP8=;CMAnoLbAAs/QkgwoItnE/g=="
 ---

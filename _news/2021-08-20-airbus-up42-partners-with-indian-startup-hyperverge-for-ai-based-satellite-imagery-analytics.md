@@ -38,20 +38,6 @@ related:
         width: 1000
         height: 596
         isCached: true
-  - title: "Airbus’ UP42 Partners with Indian Startup HyperVerge for AI-based Satellite Imagery Analytics"
-    excerpt: "This is the 11th successful partnership industrialized by Airbus Bizlab in India and the second partnership between HyperVerge and an Airbus entity."
-    publishedDateTime: 2021-08-18T13:10:00Z
-    webUrl: "https://gisuser.com/2021/08/airbus-up42-partners-with-indian-startup-hyperverge-for-ai-based-satellite-imagery-analytics/"
-    type: article
-    provider:
-      name: gisuser.com
-      domain: gisuser.com
-    quality: 26
-    images:
-      - url: "https://gisuser.com/wp-content/uploads/2019/01/GEOjobs1-1.png"
-        width: 300
-        height: 250
-        isCached: true
   - title: "Airbus’ UP42 partners with Indian startup HyperVerge for AI-based satellite imagery analytics"
     excerpt: "BERLIN, Germany, August 18, 2021 – UP42, a geospatial developer platform and marketplace wholly owned by Airbus, has partnered with Indian startup HyperVerge Inc. to offer satellite imagery services using Artificial Intelligence (AI)-based change ..."
     publishedDateTime: 2021-08-19T06:25:00Z

@@ -2,6 +2,109 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-08-04-intels-ai-degree-program-expands-to-18-additional-community-colleges-in-11-states.md",
+      "title": "Intel's AI degree program expands to 18 additional community colleges in 11 states",
+      "excerpt": "Following an online pilot in the fall of 2020 with Maricopa County Community College District, Intel is expanding its AI for Workforce Program to include 18 additional schools across 11 states..",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/intel-ai-for-workforce-2021-expansion-130027058.html",
+      "originalUrl": "https://www.engadget.com/intel-ai-for-workforce-2021-expansion-130027058.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-08/799696a0-f3be-11eb-8ffb-43a39e47ee85",
+          "width": 1600,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-04T07:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-can-an-ai-be-an-inventor-new-legal-judgments-say-yes.md",
+      "title": "Can An AI Be An Inventor? New Legal Judgments Say Yes.",
+      "excerpt": "Two landmark cases in the ongoing legal battle to establish an artificial intelligence system as an inventor came down in favor of the team trying to make this possible.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anthonytrippe/2021/08/04/can-an-ai-be-an-inventor-new-legal-judgments-say-yes/",
+      "originalUrl": "https://www.forbes.com/sites/anthonytrippe/2021/08/04/can-an-ai-be-an-inventor-new-legal-judgments-say-yes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610aa3b553adde69aa700bd3%2F0x0.jpg",
+          "width": 1200,
+          "height": 772,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anthonytrippe/2021/08/04/can-an-ai-be-an-inventor-new-legal-judgments-say-yes/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anthonytrippe/2021/08/04/can-an-ai-be-an-inventor-new-legal-judgments-say-yes/amp/",
+      "publishedDateTime": "2021-08-04T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-04-load-external-tfrecord-with-tfds.md",
       "title": "Load external tfrecord with TFDS",
       "excerpt": "For TFDS to be able to decode the tf.train.Example proto, you need to provide the tfds.features sturcture matching your specs. For example: features = tfds.features.FeaturesDict({ 'image': tfds.features.Image(shape=(256, 256, 3)), 'label': tfds.features ...",
@@ -1047,101 +1150,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-underwater-robot-laying-cables-crossed-the-rotterdam-maasmond-to-connect-dutch-offshore-wind-farm.md",
-      "title": "Underwater robot laying cables crossed the Rotterdam Maasmond to connect Dutch offshore wind farm",
-      "excerpt": "TenneT is developing the Hollandse Kust (zuid) offshore grid for the connection of new wind farms. Four offshore cables will be buried in the North Sea bed. For the first ten kilometres of the offshore cable route,",
-      "sourceUrl": null,
-      "webUrl": "https://www.windtech-international.com/projects-and-contracts/underwater-robot-laying-cables-crossed-the-rotterdam-maasmond-to-connect-dutch-offshore-wind-farm",
-      "originalUrl": "https://www.windtech-international.com/projects-and-contracts/underwater-robot-laying-cables-crossed-the-rotterdam-maasmond-to-connect-dutch-offshore-wind-farm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.windtech-international.com/images/stories/Features/2021Features/JulAug2021Images/Fischer-Block-Fig-1.jpg",
-          "width": 450,
-          "height": 255,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-04T00:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windtech International",
-        "domain": "windtech-international.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-intel-dell-technologies-make-acquiring-ai-skills-more-accessible.md",
-      "title": "Intel & Dell Technologies Make Acquiring AI Skills More Accessible",
-      "excerpt": "The World Economic Forum says that AI could create 97 million new jobs by 2025, with roles like data analysts and scientists, AI and machine learning specialists, and big data specialists.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/carolinamilanesi/2021/08/04/intel--dell-technologies-make-acquiring-ai-skills-more-accessible/",
-      "originalUrl": "https://www.forbes.com/sites/carolinamilanesi/2021/08/04/intel--dell-technologies-make-acquiring-ai-skills-more-accessible/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610a23dc66dff1948f194ad4%2F0x0.jpg",
-          "width": 1200,
-          "height": 712,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/carolinamilanesi/2021/08/04/intel--dell-technologies-make-acquiring-ai-skills-more-accessible/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolinamilanesi/2021/08/04/intel--dell-technologies-make-acquiring-ai-skills-more-accessible/amp/",
-      "publishedDateTime": "2021-08-03T22:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

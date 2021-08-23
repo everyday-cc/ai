@@ -71,6 +71,20 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Civil liberties groups demand ban on facial recognition technology"
+    excerpt: "A group of civil society bodies has called on the Government to ban facial recognition cameras, while accusing police and the Home Office of bypassing Parliament over guidance for the use of the technology."
+    publishedDateTime: 2021-08-23T05:30:00Z
+    webUrl: "https://www.expressandstar.com/news/uk-news/2021/08/23/civil-liberties-groups-demand-ban-on-facial-recognition-technology/"
+    type: article
+    provider:
+      name: Express & Star
+      domain: expressandstar.com
+    quality: 39
+    images:
+      - url: "https://www.expressandstar.com/resizer/xJDC2R7UeVoGkYGoAEtY8Fw9bYs=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/ZBXSOCFXBBCNXH76KLV5XKIG7I.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "New UK live facial recognition code proposed has potential for adverse effects"
     excerpt: "The proposed code states that any use of live facial recognition should quickly delete any unused biometric data collected."
     publishedDateTime: 2021-08-19T20:02:00Z
@@ -86,6 +100,6 @@ related:
         height: 1109
         isCached: true
 
-secured: "2rc8Z4+BNVS8ybqNMzfp30JQQBP6FgdrGUjqJjflAgtwaGRflm6BAutNdNHtv6zw46+fmAd1Xsf+bH1Q53zV5tZmKwVkhSKLNcRz4M20+jMg1yNPcgfGH6bqH0hwNpEIAlMu6Q2z7KezGypw82YaaX5AGXwawVG6Rg+IzKQgLrbYX1IQNlTdsPmFr/7KW7ZdhPfCcPNR6+0oiR+JmXNF5h68695TqqRr+h5SZJTy7BbopBA4Y1Atz0LKA+xt+UPoM/mjPt4VKsfQB4trlINCr78R+DCu+3awncxqs5o2km7q0TdXeAWl5VzO7foN8ipBP+MMY87K9++R0809luuyarpSsoCIgAbFCWp1y65kbEE=;17OqglLhMEAJH38yZC4g8A=="
+secured: "loYMd6yd4vVrnqS8MdwqO8T2uRbHjCdLiFyISTmp8EIhUO9Y8qBaXaYMx1MNJLOeyTFOJ73a+Co6C1IqYThelbO+0SFQH9CPNK/oMFqTo92AgsUB7GUsp4yP6ui69c1RKGmCblWLSjn9wESLFzA38bkE9KyPbkfOrte2PfraXunZ9SOO7sJcDFdcHJaTUBSYH5HLFWvs7fr1aUk3DafOT5fJZpMG0u5Yt++ctyyg5zEH18scnSulI6tGfxY4Fj5/Ci8poEmYj+UJMzagGGFmha1QAmu9kwoEUWjD4UK9vjGbcTiOUFbHmVBfcWEvhWLxOUtm4nZB3u07tNAd67ONJ4ZJd6AN0zx2m0CU0sH8QMyHp9D16E26+9AswwPkL9KOz4dbL8TlCoJ/e+mw6OfTC49BLrydYn7xfldKSW9nlxeHiTuFrKfG5emKnNzUIh0YUKZI3DHw0Yur2bnCmoQX1qjmgK8OXmEMOEMxiEI/t2KWEOCShGmkkVYtA70qGzkLcfc5PRdiDmowJQCsTVW8xw==;vspWFSGK3deJJEOGvcAVAg=="
 ---
 

@@ -10,7 +10,7 @@
       "originalUrl": "https://manometcurrent.com/call-center-ai-market-to-witness-huge-growth-by-2028-ibm-google-microsoft/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 130,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -53,7 +53,7 @@
       "originalUrl": "https://www.datanami.com/2021/08/20/consumer_analytics_using_nlp_and_ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -241,15 +241,15 @@
       "title": "This App Urges Gen Z to Talk It Out Privately, Not Overshare on Social Media",
       "excerpt": "Mental health apps abound, but with evrmore, the idea is to receive support from the app's cocktail of AI, machine learning, and natural language processing rather than the dopamine drip of social media validation.",
       "sourceUrl": null,
-      "webUrl": "https://uk.pcmag.com/mobile-apps/135115/this-app-urges-gen-z-to-talk-it-out-privately-not-overshare-on-social-media",
-      "originalUrl": "https://uk.pcmag.com/mobile-apps/135115/this-app-urges-gen-z-to-talk-it-out-privately-not-overshare-on-social-media",
+      "webUrl": "https://au.pcmag.com/mobile-apps/88863/this-app-urges-gen-z-to-talk-it-out-privately-not-overshare-on-social-media",
+      "originalUrl": "https://au.pcmag.com/mobile-apps/88863/this-app-urges-gen-z-to-talk-it-out-privately-not-overshare-on-social-media",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/t/this-app-u/this-app-urges-gen-z-to-talk-it-out-privately-not-overshare_paxf.1200.jpg",
+          "url": "https://sm.pcmag.com/t/pcmag_au/news/t/this-app-u/this-app-urges-gen-z-to-talk-it-out-privately-not-overshare_w247.1200.jpg",
           "width": 1200,
           "height": 675,
           "title": null,
@@ -422,10 +422,10 @@
     {
       "path": "_news/2021-08-17-medius-squashes-invoice-lead-times-with-efficient-ai-tech.md",
       "title": "Medius squashes invoice lead times with efficient AI tech",
-      "excerpt": "Utilizing Microsoft Azure Machine Learning and Artificial Intelligence (AI), with a user-friendly interface, Medius has developed an e-invoicing solution that captures and converts data dynamically, and dramatically reduces processing time to mere moments.",
+      "excerpt": "Medius, a leading provider of spend management solutions, is transforming its customer's electronic invoice management",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/medius-squashes-invoice-lead-times-with-efficient-ai-tech-1030736974",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/medius-squashes-invoice-lead-times-with-efficient-ai-tech-1030736974",
+      "webUrl": "https://www.benzinga.com/pressreleases/21/08/n22528768/medius-squashes-invoice-lead-times-with-efficient-ai-tech",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/08/n22528768/medius-squashes-invoice-lead-times-with-efficient-ai-tech",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -433,23 +433,14 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-17T02:25:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/22528768",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22528768",
+      "publishedDateTime": "2021-08-17T00:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

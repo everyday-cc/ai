@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Chinese search engine Baidu launches a US dollar bond, despite crackdown"
-    excerpt: "Baidu Inc, a Chinese internet behemoth, is approaching financial markets with a two-tranche, US dollar sustainability bond, which"
-    publishedDateTime: 2021-08-18T14:00:00Z
-    webUrl: "https://techstory.in/chinese-search-engine-baidu-launches-a-us-dollar-bond-despite-crackdown/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 38
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2016/04/Baidu.jpg"
-        width: 1199
-        height: 798
-        isCached: true
 
 secured: "mvx6tY0CF78hzTBM7YkshQkh5tBJwK743wXH5XwuHwCF4qBZz8d1gPNx2AO/1ODnyxb7Cfv91L2vAHYHGy7EePik+bzszryDThkfwv44DZcRn5zQbP7+D8Rwz4S76x6RxHQ3YBb7hw068K8+HhP4CJLmkwGlt406YGnsBwUR3k3G8i2zqUXGzTZEA0dweU1zTmR45ZyT3iZmpWBC41e4digCPAIn799vTMphyptg+YZ0k5uQr+P0kAmGCRrIj5Yq/oVsC/mEbgow/1KIS56fME5OG9Yk3z1N2B+k64D6bnCIm4R4k+/K7LYa9pp28zY3ieZJlVzbs5rSp0W/aP4/gnjEEiqMjCJ1UqW7h9oy42pqfM1fjK5WMUBXmVTqvhofCz62KgBjRMEYlRDLTG8SXi1JIg9DCI4vwdHV0Zx9n7JK7MKgcDOg06m1M5WjpJOM1z2e16DhddkBdlDL4i1XtiNg7kzxOy+g/FdZNKzu+2ADhYFkyLaCIzBDY6R7mC4SxUTS2It7lOYybvtWPmGcFg==;WdF5kEx31j2hNt7O2BmtRw=="
 ---

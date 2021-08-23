@@ -52,6 +52,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "China AI in Healthcare Market Emerging Trend, Top Companies, Industry Demand and Regional Analysis by 2025"
+    excerpt: "China s AI in healthcare market is estimated to grow significantly at a CAGR of 52 8 during the forecast period China s market has both medium and long term potential due to its large market size aging population fluctuating"
+    publishedDateTime: 2021-08-23T07:24:00Z
+    webUrl: "https://www.openpr.com/news/2363109/china-ai-in-healthcare-market-emerging-trend-top-companies"
+    ampWebUrl: "https://www.openpr.com/amp/2363109/china-ai-in-healthcare-market-emerging-trend-top-companies"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2363109/china-ai-in-healthcare-market-emerging-trend-top-companies"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 36
 
 secured: "eWi9Xfcdk1b+auVaz4ODomet12d1/PoV3De73QofTKKdZuozKX6ySTjHUSIKNfGdFFmKJWbfosWgMa5HSfz8RU6/tJLxKowTwjoZZdG6Sltp5TZ40qrAScdf88WUasbr+rGWpHpiM+JemgfvG8JAqVRrnmiZMuNYh3COyroWNs9r7uT/gy2uR37B1R8wzCF6ZFlfkolh1shlDOGXtLcduwxp5o3XF1WgqmrWXFkvHmsTAMWbJayT4sXBx2ldoHlNMcRSZ5jlj/GXgXeFxbWL2D/mZHIkkQsGAKz1BYsCze4WP+/CR6CUjuoLWpywuEZi0DK7NNuVEKmZhuzWJconrBWrRov998BxqhCyNIxjGyk=;KcGBAwwsKyeNxAZWzt5wQA=="
 ---

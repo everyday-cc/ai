@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-23-wpp-acquires-ai-tech-firm-satalia.md",
+      "title": "WPP acquires AI-tech firm Satalia",
+      "excerpt": "WPP today announces that it has acquired Satalia, a technology company offering market-leading AI solutions for clients. Satalia is a global leader in enterprise AI and one of the UK’s fastest-growing tech companies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.exchange4media.com/announcements-news/wpp-acquires-ai-tech-firm-satalia-115180.html",
+      "originalUrl": "https://www.exchange4media.com/announcements-news/wpp-acquires-ai-tech-firm-satalia-115180.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.exchange4media.com/news-photo/115180-114480-112500-WPP-logo.jpg",
+          "width": 730,
+          "height": 395,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.exchange4media.com/amp/announcements-news/wpp-acquires-ai-tech-firm-satalia-115180.html",
+      "cdnAmpWebUrl": "https://www-exchange4media-com.cdn.ampproject.org/c/s/www.exchange4media.com/amp/announcements-news/wpp-acquires-ai-tech-firm-satalia-115180.html",
+      "publishedDateTime": "2021-08-22T23:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Exchange 4 Media",
+        "domain": "exchange4media.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-23-airrobo-debuted-its-first-robot-vacuum-cleaner-on-amazon-and-aliexpress-simplify-your-life.md",
       "title": "AIRROBO Debuted its First Robot Vacuum Cleaner on Amazon and AliExpress - Simplify Your Life",
       "excerpt": "Supported by expertise in AI field for over 10 years, AIRROBO launches the strongest robot vacuum cleanerHONG KONG, Aug. 23, 2021 /PRNewswire/ --",
@@ -105,7 +148,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/ibm-unveils-on-chip-accelerated-artificial-intelligence-processor-1030750970",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -350,7 +393,7 @@
       "originalUrl": "https://www.livemint.com/technology/tech-news/ai-set-to-steer-indian-cars-in-new-direction-11629652014913.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -650,7 +693,7 @@
       "originalUrl": "https://www.fool.com/investing/2021/08/21/3-artificial-intelligence-stocks-to-buy-right-now/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -689,7 +732,9 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AWS AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -841,7 +886,7 @@
       "originalUrl": "https://manometcurrent.com/call-center-ai-market-to-witness-huge-growth-by-2028-ibm-google-microsoft/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 130,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -1138,48 +1183,6 @@
         "name": "ABC",
         "domain": "abcnews.go.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-21-beingai-unveils-human-like-ai-character-named-zbee.md",
-      "title": "BeingAI unveils human-like AI character named Zbee",
-      "excerpt": "BeingAI is creating virtual beings with artificial intelligence. And its first AI being is a virtual character named Zbee.",
-      "sourceUrl": null,
-      "webUrl": "https://beingai.com/zbee/",
-      "originalUrl": "https://venturebeat.com/2021/08/20/beingai-unveils-human-like-ai-character-named-zbee/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-20T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/web-stories/tesla-aims-to-launch-full-self-drivi
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/web-stories/tesla-aims-to-launch-full-self-driving-computer-2-with-cybertruck-next-year/"
 type: article
 quality: 104
-heat: 244
+heat: 234
 published: true
 
 provider:
@@ -202,20 +202,6 @@ related:
       - url: "https://www.carscoops.com/wp-content/uploads/2021/08/2021-Tesla-Model-S-1-1024x555.jpg"
         width: 1024
         height: 555
-        isCached: true
-  - title: "Senators urge FTC to probe Tesla over self-driving claims"
-    excerpt: "Two senators say company has misled consumers and endangered the public by marketing its driving automation systems as fully self-driving."
-    publishedDateTime: 2021-08-18T14:54:00Z
-    webUrl: "https://www.autonews.com/regulation-safety/senators-urge-ftc-probe-tesla-over-self-driving-claims"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 54
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/304220409.jpg"
-        width: 800
-        height: 600
         isCached: true
   - title: "Senators Urges FTC to Further Investigate Tesla's Self-Driving Claims"
     excerpt: "Senators Ed Markey and Richard Blumenthal have reportedly called on the Federal Trade Commission to investigate Elon Musk ‘s electric vehicles company over its “misleading advertising and marketing” of the Autopilot and Full Self-Driving Systems."

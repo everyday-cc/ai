@@ -205,17 +205,6 @@ related:
         width: 500
         height: 300
         isCached: true
-  - title: "AI in Finance Market Technology, Recent Trends, Future Growth Analysis Forecasts 2027| IBM Corporation, Intel Corporation, Comply Advantage"
-    excerpt: "Artificial intelligence improves outcomes by employing approaches derived from human intellect but applied at a scale that is not human Fintech firms have been transformed in recent years as a result of the computational arms race Furthermore data and near"
-    publishedDateTime: 2021-08-18T13:26:00Z
-    webUrl: "https://www.openpr.com/news/2359272/ai-in-finance-market-technology-recent-trends-future-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2359272/ai-in-finance-market-technology-recent-trends-future-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2359272/ai-in-finance-market-technology-recent-trends-future-growth"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 20
   - title: "Cognitive Computing Market Size Analysis, DROT, PEST, Porter’s, Region & Country Forecast Till 2027 | Reports and Data"
     excerpt: "The global cognitive computing market is forecast to reach USD 475.24 Billion by 2026, according to a new report by Reports and Data. The cognitive computing technology derives the answers and works like the human brains."
     publishedDateTime: 2021-08-20T05:02:00Z
@@ -262,15 +251,28 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Global Big Data & Machine Learning in Telecom Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
-    excerpt: "Pages Report] Check for Discount on Global Big Data & Machine Learning in Telecom Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Big Data & Machine Learning in Telecom market report"
-    publishedDateTime: 2021-08-18T14:05:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4784199-global-big-data-machine-learning-in-telecom-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
+  - title: "US AI in Image Recognition Market Analysis By Industry Size, Share, Revenue Growth and Demand Forecast To 2025"
+    excerpt: "The US AI in image recognition market is estimated to grow significantly at a CAGR of more than 28 during the forecast period The factors that are contributing significantly to the market growth investments in R D high expenditure on"
+    publishedDateTime: 2021-08-23T07:51:00Z
+    webUrl: "https://www.openpr.com/news/2363163/us-ai-in-image-recognition-market-analysis-by-industry-size"
+    ampWebUrl: "https://www.openpr.com/amp/2363163/us-ai-in-image-recognition-market-analysis-by-industry-size"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2363163/us-ai-in-image-recognition-market-analysis-by-industry-size"
     type: article
     provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 0
+      name: openpr.com
+      domain: openpr.com
+    quality: 19
+  - title: "UK AI in Image Recognition Market Size, Share, Analysis, Applications, Growth Insight, Trends, Leaders, Services and Future Forecast - 2025"
+    excerpt: "UK AI in image recognition market is estimated to grow significantly at a CAGR of 28 4 during the forecast period UK is the third largest economy in Europe after Germany and France majorly owing to its trading power and"
+    publishedDateTime: 2021-08-23T07:47:00Z
+    webUrl: "https://www.openpr.com/news/2363154/uk-ai-in-image-recognition-market-size-share-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2363154/uk-ai-in-image-recognition-market-size-share-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2363154/uk-ai-in-image-recognition-market-size-share-analysis"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 5
 
 secured: "c5LyZjQVdAVQSRwU8HJy8I7bMi2DjwW0AuEr76tceAl82P5UuJfgvOG4DUu5t1ipxeQMAv/W37mUPReLkIoH3tMqyW+3sx7jzlwcP9idAMFAnD8NcounkAyQnuPCol6Z5scFUHDYP7Si4MRyABar5nk9nbJy4k+RWkYK1sBK9KiL5nOe9BmdOCXoMT01CsvrNrimBm2mrg0BvutuvhjLcGaAHNY8TmJ/25EmRBSxcmp/agaRlLB5coPAGw4vIMwbAL508i8xZWVlow+bNfW9J9XEtNvwmqQYOrt9SFAIHoYyCZKJhx2cQmDLnMAnCEKFDNajRBvhl0jnmTYghQUL3lJERfB+uPgZ9jaHi7EDdYk=;ra8Rl/CTeFmHBkYXUVXiiw=="
 ---

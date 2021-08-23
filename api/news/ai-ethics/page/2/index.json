@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-28-joint-artificial-intelligence-center-to-pilot-a-responsible-ai-procurement-process.md",
+      "title": "Joint Artificial Intelligence Center to Pilot a Responsible AI Procurement Process",
+      "excerpt": "The Department of Defense Joint Artificial Intelligence Center (JAIC) is continuing to operationalize Responsible Artificial Intelligence with the announcement of a pilot of a",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/joint-artificial-intelligence-center-to-pilot-a-responsible-ai-procurement-process/article_26b0df77-1536-5495-8b8b-5cee70537fd1.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/joint-artificial-intelligence-center-to-pilot-a-responsible-ai-procurement-process/article_26b0df77-1536-5495-8b8b-5cee70537fd1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/63/863fad68-d192-5735-ade4-f6c611f698ec/610156312c5e1.image.jpg?resize=1064%2C630",
+          "width": 1064,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-28T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-28-politico-ai-decoded-algorithmic-transparency-germany-on-facial-recognition-ethical-deep-fakes.md",
       "title": "POLITICO AI: Decoded: Algorithmic transparency — Germany on facial recognition — Ethical deep fakes?",
       "excerpt": "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know.",
@@ -1388,58 +1431,6 @@
         "name": "Computer Weekly",
         "domain": "computerweekly.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-ai-ethics-expert-half-of-companies-using-ai-overestimate-their-level-of-maturity.md",
-      "title": "AI ethics expert: 'Half of companies using AI overestimate their level of maturity'",
-      "excerpt": "Tonya Hall talks to Steven Mills, Chief AI Ethics Officer at Boston Consulting Group, about AI maturity, how to achieve it, and what sectors are doing it better.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/video/ai-ethics-expert-half-of-companies-using-ai-overestimate-their-level-of-maturity/",
-      "originalUrl": "https://www.zdnet.com/video/ai-ethics-expert-half-of-companies-using-ai-overestimate-their-level-of-maturity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/r/2021/07/08/004ab5df-34cd-4e32-b44c-d5bc873bd6d6/thumbnail/770x578/3430a058ca1561df98e83ca32c85a50d/thumb.jpg",
-          "width": 770,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-08T06:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

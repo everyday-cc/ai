@@ -9,7 +9,7 @@ ampWebUrl: "https://manometcurrent.com/call-center-ai-market-to-witness-huge-gro
 cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/call-center-ai-market-to-witness-huge-growth-by-2028-ibm-google-microsoft/?amp=1"
 type: article
 quality: 70
-heat: 130
+heat: 120
 published: true
 
 provider:
@@ -64,20 +64,6 @@ related:
       - url: "https://manometcurrent.com/wp-content/uploads/2021/08/Autonomous-Vehicles-Market-390x220.jpeg"
         width: 390
         height: 220
-        isCached: true
-  - title: "Cloud Natural Language Processing Market to Witness Massive Growth by Microsoft, Facebook, Google"
-    excerpt: "This press release was orginally distributed by SBWire Edison, NJ — (SBWIRE) — 08/18/2021 — The latest study released on the Global Cloud Natural Language Processing Market by AMA Research evaluates market size,"
-    publishedDateTime: 2021-08-18T13:57:00Z
-    webUrl: "https://www.digitaljournal.com/pr/cloud-natural-language-processing-market-to-witness-massive-growth-by-microsoft-facebook-google"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 43
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/Portugal-Wildfire-AFP-1K-01-e1629214093515-600x337.jpg"
-        width: 600
-        height: 337
         isCached: true
   - title: "AI Recruitment Market is Booming Worldwide with Google, IBM, Oracle"
     excerpt: "Advance Market Analytics published a new research publication on AI Recruitment Market Insights to 2026 with 232 pages and enriched with self explained Tables and charts in presentable format In the Study you will find new evolving Trends Drivers Restraints"

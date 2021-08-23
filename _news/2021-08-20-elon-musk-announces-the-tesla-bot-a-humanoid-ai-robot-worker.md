@@ -128,22 +128,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "What to expect from Tesla’s AI day event"
-    excerpt: "It’s been nearly two years since Tesla’s first “Autonomy Day” event, at which CEO Elon Musk made numerous lofty predictions about the future of autonomous vehicles, including his infamous claim that the company would have “one million robotaxis on the road” by the end of 2020."
-    publishedDateTime: 2021-08-18T14:00:00Z
-    webUrl: "https://www.theverge.com/2021/8/18/22627101/tesla-event-ai-day-rumors-elon-musk-what-to-expect"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2021/8/18/22627101/tesla-event-ai-day-rumors-elon-musk-what-to-expect"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/8/18/22627101/tesla-event-ai-day-rumors-elon-musk-what-to-expect"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 108
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/6uz3Juf-UxS1whmCVmJrEE9PFCg=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69741387/acastro_180524_1777_tesla_0003.0.jpg"
-        width: 1400
-        height: 933
-        isCached: true
   - title: "Elon Musk Announces Tesla's New Humanoid Robots"
     excerpt: "Elon Musk announced Thursday night that his company, Tesla, is creating a humanoid robot. He anticipates ... \"It's basically going to start dealing with work that is boring, repetitive and dangerous,\" he said during Tesla’s AI Day. He added, \"What ..."
     publishedDateTime: 2021-08-20T16:53:00Z

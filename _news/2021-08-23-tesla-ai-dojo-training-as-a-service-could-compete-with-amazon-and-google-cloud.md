@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Could Tesla Mass Produce Dojo AI Cloud Systems"
+    excerpt: "Tesla revealed its Exapod Dojo supercomputer made from 10 cabinets of servers. Each rack has 6 tiles with 9 Petaflops in each tile. Each cabinet is 100"
+    publishedDateTime: 2021-08-23T06:38:00Z
+    webUrl: "https://www.nextbigfuture.com/2021/08/could-tesla-mass-produce-dojo-ai-cloud-systems.html"
+    ampWebUrl: "https://www.nextbigfuture.com/2021/08/could-tesla-mass-produce-dojo-ai-cloud-systems.html"
+    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/08/could-tesla-mass-produce-dojo-ai-cloud-systems.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 74
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/08/Screen-Shot-2021-08-19-at-7.36.59-PM.jpg"
+        width: 1566
+        height: 1280
+        isCached: true
   - title: "Tesla details Dojo supercomputer, reveals Dojo D1 chip and training tile module"
     excerpt: "Tesla CEO Elon Musk has periodically tweeted about Dojo, a ‘neural network exaflop supercomputer,’ but has shared few details up to this point. During its AI Day event this week, the electric car and energy company revealed its in-house D1 chip that will power the system and a ‘training tile’ module."
     publishedDateTime: 2021-08-20T19:27:00Z

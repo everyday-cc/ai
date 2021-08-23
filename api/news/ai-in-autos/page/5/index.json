@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-07-17-robot-training-on-famous-highland-estate-will-make-driverless-vehicles-more-reliable.md",
+      "title": "Robot ‘training’ on famous Highland estate will make driverless vehicles more reliable",
+      "excerpt": "The project will help make driverless vehicles of the future more reliable ... engineers and students dedicated to researching robotics, artificial intelligence, systems engineering, and other related fields. A crash scene for the new James Bond movie ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pressandjournal.co.uk/fp/business/3300568/robots-learn-off-road-driving-skills-on-ardverikie-estate/",
+      "originalUrl": "https://www.pressandjournal.co.uk/fp/business/3300568/robots-learn-off-road-driving-skills-on-ardverikie-estate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pressandjournal.co.uk/wp-content/uploads/sites/2/2021/07/ORI_Scotland-3.jpg_39621277-scaled-e1625854534304.jpg",
+          "width": 2457,
+          "height": 1472,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pressandjournal.co.uk/fp/business/3300568/robots-learn-off-road-driving-skills-on-ardverikie-estate/amp/",
+      "cdnAmpWebUrl": "https://www-pressandjournal-co-uk.cdn.ampproject.org/c/s/www.pressandjournal.co.uk/fp/business/3300568/robots-learn-off-road-driving-skills-on-ardverikie-estate/amp/",
+      "publishedDateTime": "2021-07-16T22:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Press and Journal",
+        "domain": "pressandjournal.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-07-16-sense-photonics-sees-flash-lidar-as-best-path-to-full-self-driving-tech.md",
       "title": "Sense Photonics Sees Flash LiDAR As Best Path To Full Self-Driving Tech",
       "excerpt": "Sense Photonics is on a mission to make LiDAR, the core of self-driving technology, more affordable and less obtrusive. And it is leveraging two elements of the iPhone 12 to get there. Today, most autonomous vehicles in test fleets have a cumbersome ...",
@@ -1329,58 +1373,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-ceo-robin-li-fast-tracks-smart-ev-development-to-harness-baidus-ai-tech-and-mount-a-challenge-to-tesla.md",
-      "title": "CEO Robin Li fast-tracks smart EV development to harness Baidu’s AI tech and mount a challenge to Tesla",
-      "excerpt": "The tech giant is hoping to harness its AI tech as it builds an EV presence, in a market where electrification and digitalisation are redrawing the landscape.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/business/companies/article/3140367/ceo-robin-li-fast-tracks-smart-ev-development-harness-baidus-ai",
-      "originalUrl": "https://www.scmp.com/business/companies/article/3140367/ceo-robin-li-fast-tracks-smart-ev-development-harness-baidus-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/07/08/3caa1c62-dfd7-11eb-9efd-49da69ae692d_image_hires_193455.jpg?itok=z9_SvD0x&v=1625744102",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/business/companies/article/3140367/ceo-robin-li-fast-tracks-smart-ev-development-harness-baidus-ai",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/companies/article/3140367/ceo-robin-li-fast-tracks-smart-ev-development-harness-baidus-ai",
-      "publishedDateTime": "2021-07-08T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

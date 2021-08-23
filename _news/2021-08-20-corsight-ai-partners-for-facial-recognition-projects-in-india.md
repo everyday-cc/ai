@@ -73,6 +73,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "USD 17.2 bn infused in Indian startup ecosystem by venture capital firms during Jan-July: Report"
+    excerpt: "Venture capital firms infused a total of USD 17.2 billion investment into the Indian startup ecosystem during January-July 2021, according to data released by the Indian Private Equity and Venture Capital Association (IVCA) and Venture Intelligence (VI)."
+    publishedDateTime: 2021-08-23T04:07:00Z
+    webUrl: "https://mybigplunge.com/startups/funding-news/usd-17-2-bn-infused-in-indian-startup-ecosystem-by-venture-capital-firms-during-jan-july-report/"
+    type: article
+    provider:
+      name: mybigplunge.com
+      domain: mybigplunge.com
+    quality: 9
+    images:
+      - url: "https://mybigplunge.com/wp-content/uploads/2021/08/USD-17.2-bn-infused-in-Indian-startup-ecosystem-by-venture-capital-firms-during-Jan-July-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "YiQZzKIb9LyIZCFuhIPhq1xsJyfyCtJpXT2XPziFeB0yYDd7LZrNYuojxzICHpTwfoUbzfuEeP+alckr7iMVGpfQH2THHe+biR2KjkvAwd/tof/uFqYhnV2irgJLWLrAYPqjU54V8esm3Ul8z0JD3H+b/tKaN009AlqykOGvn1ziNNcwuILoHmgssL+vzqpjyxNF62E129Gcvpfha6qpQthyk/F1nMtGEIZ1XZG1gS8Y/trIZ6dOO3iRUG62wKWFFmR8x2PHv5WYs4oayKQyTaicxX+KhKlDTl7k0kLgg2zeT6+Z4+/fe/ll6Y0DJP2XLeKFnpsdVVvAPUyszeQC+NXzuL1X1CQQ0yaEcy2N9j4Yh3iBcMqnlT8L3rB/OhtoQDQajt2rpH8+rAQq3lwaPArL8fW3BgMDSJoYjTcwwE9bVPhY5U5GOYK0ZMi/noyWzzB866UN7EWLy++UluZ7ZjMp2E8aDRwpKDKLdpYnfqeshx9KYP7EjN/HerixxbkJbeUT52WRo1Fqhv7bxPmjMw==;eYs7zqeNt352vudWPvmCIQ=="
 ---

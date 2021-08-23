@@ -2,6 +2,93 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2021-07-07-ethics-part-of-curriculum-as-singapore-inks-ai-training-partnership-with-google-cloud.md",
+      "title": "Ethics part of curriculum as Singapore inks AI training partnership with Google Cloud",
+      "excerpt": "Participants of Singapore's artificial intelligence (AI) apprenticeship scheme have to go through training that includes ethics and governance, so they are aware of potential issues involving data bias. AI Singapore (AISG), which manages the apprenticeship ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ethics-part-of-curriculum-as-singapore-inks-ai-training-partnership-with-google-cloud/",
+      "originalUrl": "https://www.zdnet.com/article/ethics-part-of-curriculum-as-singapore-inks-ai-training-partnership-with-google-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ethics-part-of-curriculum-as-singapore-inks-ai-training-partnership-with-google-cloud/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ethics-part-of-curriculum-as-singapore-inks-ai-training-partnership-with-google-cloud/",
+      "publishedDateTime": "2021-07-06T19:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-07-australian-shares-rise-on-healthcare-tech-boost-challenger-shines.md",
+      "title": "Australian shares rise on healthcare, tech boost; Challenger shines",
+      "excerpt": "Australian shares rose on Wednesday, lifted by the healthcare and technology sectors, while Challenger Ltd jumped after two U.S. companies bought a stake in the investment manager.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/australia-stocks-midday-idUSL3N2OJ04L",
+      "originalUrl": "https://www.reuters.com/article/australia-stocks-midday-idUSL3N2OJ04L",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL3N2OJ04L",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL3N2OJ04L",
+      "publishedDateTime": "2021-07-06T17:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-07-artificial-intelligence-isnt-as-smart-as-it-thinks.md",
       "title": "Artificial intelligence isn’t as smart as it thinks",
       "excerpt": "Digital personal assistants, software that can trounce board game champions, algorithms serving up customized online advertising — wherever you turn, artificial intelligence appears to be taking over the world. But look past the self-driving cars and ...",
@@ -1057,83 +1144,6 @@
       "topics": [
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-vinbrain-wins-acm-sigai-industry-award-2021-for-excellence-in-artificial-intelligence.md",
-      "title": "VinBrain wins ACM SIGAI Industry Award 2021 for Excellence in Artificial Intelligence",
-      "excerpt": "The 2021 ACM SIGAI Industry Award for Excellence in Artificial Intelligence is granted to DrAid TM - the AI-powered Assistant product for Radiologists developed by VinBrain (a subsidiary of Vingroup in Vietnam).",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/07/06/9403270.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/07/06/9403270.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-06T05:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-tencent-deploys-facial-recognition-to-detect-minors-gaming-at-night.md",
-      "title": "Tencent Deploys Facial Recognition to Detect Minors Gaming at Night",
-      "excerpt": "China’s gaming giant Tencent Games has launched one of the most-talked about — and controversial — means to curb excessive play time among children and teenagers so far: a time-sensitive facial recognition system. Starting Tuesday, the gaming ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sixthtone.com/news/1007915/tencent-deploys-facial-recognition-to-detect-minors-gaming-at-night-",
-      "originalUrl": "https://www.sixthtone.com/news/1007915/tencent-deploys-facial-recognition-to-detect-minors-gaming-at-night-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 419,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://image5.sixthtone.com/image/5/41/132.jpg",
-          "width": 2000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-06T04:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sixth Tone",
-        "domain": "sixthtone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

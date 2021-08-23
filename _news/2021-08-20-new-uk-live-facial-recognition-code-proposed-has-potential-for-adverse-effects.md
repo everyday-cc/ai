@@ -72,6 +72,20 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Civil liberties groups demand ban on facial recognition technology"
+    excerpt: "A group of civil society bodies has called on the Government to ban facial recognition cameras, while accusing police and the Home Office of bypassing Parliament over guidance for the use of the technology."
+    publishedDateTime: 2021-08-23T05:30:00Z
+    webUrl: "https://www.expressandstar.com/news/uk-news/2021/08/23/civil-liberties-groups-demand-ban-on-facial-recognition-technology/"
+    type: article
+    provider:
+      name: Express & Star
+      domain: expressandstar.com
+    quality: 39
+    images:
+      - url: "https://www.expressandstar.com/resizer/xJDC2R7UeVoGkYGoAEtY8Fw9bYs=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/ZBXSOCFXBBCNXH76KLV5XKIG7I.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "The use of facial recognition technology for policing in Delhi: An empirical study of potential religion-based discrimination"
     excerpt: "The use of new technology like facial recognition by police in India raises questions of efficiency, surveillance, and discrimination."
     publishedDateTime: 2021-08-23T05:25:00Z

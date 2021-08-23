@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-14-baidu-rolls-out-paid-driverless-taxi-service-in-beijing.md",
+      "title": "Baidu rolls out paid driverless taxi service in Beijing",
+      "excerpt": "BEIJING (AP) — Chinese tech giant Baidu rolled out its paid driverless taxi service on Sunday ... Kelly Wang and her husband, who both work in the artificial intelligence industry, said they had a smooth riding experience. “I would recommend people ...",
+      "sourceUrl": null,
+      "webUrl": "https://accesswdun.com/article/2021/5/1001811",
+      "originalUrl": "https://accesswdun.com/article/2021/5/1001811",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://binaryapi.ap.org/dacbbcc8fdee407a886411a4b2db2efc/preview.jpg",
+          "width": 512,
+          "height": 341,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-13T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Access WDUN",
+        "domain": "accesswdun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-13-you-dont-need-tea-leaves-to-read-where-policy-wants-capital-week-in-review.md",
       "title": "You Don’t Need Tea Leaves To Read Where Policy Wants Capital, Week In Review",
       "excerpt": "Baidu reported strong earnings growth Thursday ... new growth sectors such as industrial Internet, V2X autonomous driving and monetization of city government. Thus, we will not be surprised ...",
@@ -417,50 +460,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-10-5-best-artificial-intelligence-stocks-to-invest-in-right-now.md",
-      "title": "5 Best Artificial Intelligence Stocks To Invest In Right Now",
-      "excerpt": "Xnora.ai specializes in putting artificial intelligence on devices ... conviction in Alphabet‘s ‘moonshot’ bets (such as Waymo), substantial success in which would likely be required ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/?singlepage=1",
-      "originalUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/?singlepage=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/06120633/Artificial-Intelligence-piqsels.com-id-jcurz.jpg",
-          "width": 1920,
-          "height": 1044,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-10T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-10-asia-pacific-artificial-intelligence-market-2021-industry-growth-market-growth-share-and-forecast-2026.md",
       "title": "Asia Pacific Artificial Intelligence Market 2021: Industry Growth, Market Growth, Share and Forecast 2026",
       "excerpt": "Industry Trends, Share, Growth, Opportunity and Forecast 2021-2026,” the market is expecting to continue its robust growth during the forecast period (2021-2026). The report provides a detailed analysis of the market by Type,",
@@ -490,6 +489,49 @@
       "provider": {
         "name": "manometcurrent.com",
         "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-5-best-artificial-intelligence-stocks-to-invest-in-right-now.md",
+      "title": "5 Best Artificial Intelligence Stocks To Invest In Right Now",
+      "excerpt": "Xnora.ai specializes in putting artificial intelligence on devices ... conviction in Alphabet‘s ‘moonshot’ bets (such as Waymo), substantial success in which would likely be required ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/?singlepage=1",
+      "originalUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/?singlepage=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/06120633/Artificial-Intelligence-piqsels.com-id-jcurz.jpg",
+          "width": 1920,
+          "height": 1044,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-10T02:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insider Monkey",
+        "domain": "insidermonkey.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1285,60 +1327,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-tesla-teases-future-products-using-artificial-intelligence-not-related-to-its-electric-vehicle-fleet.md",
-      "title": "Tesla teases future products using artificial intelligence not related to its electric vehicle fleet",
-      "excerpt": "In the invite to its AI Day, Tesla is teasing the use of artificial intelligence beyond its electric vehicle fleet. What do you think they’re talking about? As we have reported over the last week, Tesla is preparing for its upcoming AI Day on August 19.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/08/04/tesla-teases-future-products-using-artificial-intelligence/",
-      "originalUrl": "https://electrek.co/2021/08/04/tesla-teases-future-products-using-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-robot-snake-charger.gif?w=1000",
-          "width": 1000,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/08/04/tesla-teases-future-products-using-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/04/tesla-teases-future-products-using-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-08-04T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics",
-        "Machine Learning"
       ]
     }
   ],

@@ -43,34 +43,6 @@ related:
         width: 768
         height: 385
         isCached: true
-  - title: "Secure multi-account model deployment with Amazon SageMaker: Part 1"
-    excerpt: "Amazon SageMaker Studio is a web-based, integrated development environment (IDE) for machine learning (ML) that lets you build, train, debug, deploy, and monitor your ML models. Although Studio provides all the tools you need to take your models from experimentation to production, you need a robust and"
-    publishedDateTime: 2021-08-18T13:37:08Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/part-1-secure-multi-account-model-deployment-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/20/ML-4613-image001-879x630.png"
-        width: 879
-        height: 630
-        isCached: true
-  - title: "Secure multi-account model deployment with Amazon SageMaker: Part 2"
-    excerpt: "In Part 1 of this series of posts, we offered step-by-step guidance for using Amazon SageMaker, SageMaker projects and Amazon SageMaker Pipelines, and AWS services such as Amazon Virtual Private Cloud (Amazon VPC), AWS CloudFormation, AWS Key Management Service (AWS KMS), and AWS Identity and Access"
-    publishedDateTime: 2021-08-18T13:41:13Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/part-2-secure-multi-account-model-deployment-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
-        width: 768
-        height: 385
-        isCached: true
 
 secured: "OOLvJvieSdKRuuqfM8sUYbK6spkkDdNJSxTet6T6DNuLKe9bUCOaVCvMovrk8qHhWlBEgct2yD9ZeEbTQBJnlH3fZKZhomlu6jf1a1sRZUgxLsj60Aqb85WsLnEPxX5wf1l21aJh5ygaadMYypvegYN6wAHzPMwgA2p3GaSZJ5gbZq9q6DskWh0FNbH/5h8rHExg198sdkWueVxK5M1O4LB5qKo/t6Y4eV+zivuYaq/nQiol5+9U8cWEgh5aHp5X5KGnZo71OElnXNyHppnifCKc6TCIeMYdjX7ryj3u/PxXNVTVn58tuluXJuBy7vPb+HQp7Gzj11Unz/Dfsz0ycpwe8kAEwkD9JZSWimiDNQ0=;++bsryCbgQF90VdltNqzGA=="
 ---

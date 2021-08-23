@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-23-wpp-acquires-ai-tech-firm-satalia.md",
+      "title": "WPP acquires AI-tech firm Satalia",
+      "excerpt": "WPP today announces that it has acquired Satalia, a technology company offering market-leading AI solutions for clients. Satalia is a global leader in enterprise AI and one of the UK’s fastest-growing tech companies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.exchange4media.com/announcements-news/wpp-acquires-ai-tech-firm-satalia-115180.html",
+      "originalUrl": "https://www.exchange4media.com/announcements-news/wpp-acquires-ai-tech-firm-satalia-115180.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.exchange4media.com/news-photo/115180-114480-112500-WPP-logo.jpg",
+          "width": 730,
+          "height": 395,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.exchange4media.com/amp/announcements-news/wpp-acquires-ai-tech-firm-satalia-115180.html",
+      "cdnAmpWebUrl": "https://www-exchange4media-com.cdn.ampproject.org/c/s/www.exchange4media.com/amp/announcements-news/wpp-acquires-ai-tech-firm-satalia-115180.html",
+      "publishedDateTime": "2021-08-22T23:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Exchange 4 Media",
+        "domain": "exchange4media.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-21-intel-launches-ai-for-workforce-education-program-for-800000-students-in-community-colleges.md",
       "title": "Intel Launches AI for Workforce Education Program for 800,000 Students in Community Colleges",
       "excerpt": "Intel (Nasdaq: INTC) announced an expansion of its AI for Workforce Program to 18 community colleges across 11 U.S. states, with a total of 800,000 students. The company plans to expand to 50 more community and vocational colleges in 2022.",
@@ -1453,49 +1496,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-joint-artificial-intelligence-center-to-pilot-a-responsible-ai-procurement-process.md",
-      "title": "Joint Artificial Intelligence Center to Pilot a Responsible AI Procurement Process",
-      "excerpt": "The Department of Defense Joint Artificial Intelligence Center (JAIC) is continuing to operationalize Responsible Artificial Intelligence with the announcement of a pilot of a",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/joint-artificial-intelligence-center-to-pilot-a-responsible-ai-procurement-process/article_26b0df77-1536-5495-8b8b-5cee70537fd1.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/joint-artificial-intelligence-center-to-pilot-a-responsible-ai-procurement-process/article_26b0df77-1536-5495-8b8b-5cee70537fd1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/63/863fad68-d192-5735-ade4-f6c611f698ec/610156312c5e1.image.jpg?resize=1064%2C630",
-          "width": 1064,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-28T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/pressreleases/21/08/n22609665/frontline-system
 ampWebUrl: "https://www.benzinga.com/amp/content/22609665"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22609665"
 type: article
-quality: 15
-heat: 15
+quality: 17
+heat: 17
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Microsoft AI
 
 secured: "lq97ip+g8gsnCze4fFbVmNWBRJtPh30lvnBrWnjmMpP5oBpsF3a7KUbWDginn4r3jw9Ag1AtZgRrbODqBMxVg9ruG8DQGPn7qM1piCZtYIPiSnmnPUXrPR2sbLiXX7MpT7ByQ0xSARQggoLPt7XndmMNxqwcY9FrgnxS0WcpkBA33WrClV27f7jMWdzTQoYVlAzjsNU1OTJc1yQwhz+1LN1KimKQLUEOZlkykJiSgn3XFysTaV740P0i52K83IVE5nWq90mgAMDNdX8Euvj01OONSmExtktmyfY9ZtMw1ITjbtoBB36jd0CMHh4TQshBgNpSX3tlC5ulXC3Os1rBltlHO8hCHluzrfVqEfdgvBg=;NiJgluSrtXyrNVRrEy3CQg=="
 ---

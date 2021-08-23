@@ -108,7 +108,7 @@
       "originalUrl": "https://electrek.co/web-stories/tesla-aims-to-launch-full-self-driving-computer-2-with-cybertruck-next-year/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 244,
+      "heat": 234,
       "tags": null,
       "images": [
         {
@@ -160,7 +160,7 @@
       "originalUrl": "https://electrek.co/2021/08/20/tesla-dojo-supercomputer-worlds-new-most-powerful-ai-training-machine/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 142,
+      "heat": 152,
       "tags": null,
       "images": [
         {
@@ -266,7 +266,7 @@
       "originalUrl": "https://www.cnet.com/news/elon-musk-unveils-tesla-bot-a-humanoid-robot-utilizing-vehicle-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1011,
+      "heat": 1001,
       "tags": null,
       "images": [
         {
@@ -467,7 +467,7 @@
       "originalUrl": "https://www.nextbigfuture.com/2021/08/baidu-pushing-to-expand-robotaxi-to-30-chinese-cities-by-2023-2024.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -1190,6 +1190,50 @@
       ]
     },
     {
+      "path": "_news/2021-08-17-farm-tech-startup-iron-ox-hires-david-silver-the-companys-first-director-of-robotics-as-company-prepares-for-hypergrowth.md",
+      "title": "Farm Tech Startup Iron Ox Hires David Silver, The Company's First Director of Robotics, as Company Prepares for Hypergrowth",
+      "excerpt": "Building the bench Silver was most recently a Tech Lead & Manager at Waymo, the self-driving ... with deep expertise in robotics and artificial intelligence, and a vision to solve global ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/farm-tech-startup-iron-ox-hires-david-silver-the-companys-first-director-of-robotics-as-company-prepares-for-hypergrowth-301341687.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/farm-tech-startup-iron-ox-hires-david-silver-the-companys-first-director-of-robotics-as-company-prepares-for-hypergrowth-301341687.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1530162/IRON_OX_logo.jpg?p=facebook",
+          "width": 1500,
+          "height": 784,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-16T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-08-16-will-project-dojo-be-the-central-focus-of-teslas-tsla-ai-day.md",
       "title": "Will Project Dojo be the Central Focus of Tesla's (TSLA) AI Day?",
       "excerpt": "The AI Day is expected to shed light on new information about the development progress with respect to Tesla’s much touted Full Self-Driving (FSD) suite. Full Self-Driving builds on Tesla’s advanced driver-assistance system known as Autopilot,",
@@ -1393,49 +1437,6 @@
       "provider": {
         "name": "Automotive News",
         "domain": "autonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-14-baidu-rolls-out-paid-driverless-taxi-service-in-beijing.md",
-      "title": "Baidu rolls out paid driverless taxi service in Beijing",
-      "excerpt": "BEIJING (AP) — Chinese tech giant Baidu rolled out its paid driverless taxi service on Sunday ... Kelly Wang and her husband, who both work in the artificial intelligence industry, said they had a smooth riding experience. “I would recommend people ...",
-      "sourceUrl": null,
-      "webUrl": "https://accesswdun.com/article/2021/5/1001811",
-      "originalUrl": "https://accesswdun.com/article/2021/5/1001811",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://binaryapi.ap.org/dacbbcc8fdee407a886411a4b2db2efc/preview.jpg",
-          "width": 512,
-          "height": 341,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-13T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Access WDUN",
-        "domain": "accesswdun.com",
         "images": null,
         "publishers": null,
         "authors": null

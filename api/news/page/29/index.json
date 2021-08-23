@@ -2,6 +2,92 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2021-07-31-platform-teaches-nonexperts-to-use-machine-learning.md",
+      "title": "Platform Teaches Nonexperts to Use Machine Learning",
+      "excerpt": "Research from Cornell explores how to help nonexperts use machine-learning algorithms to better enable industries beyond the computing field to harness the power of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://cacm.acm.org/careers/254437-platform-teaches-nonexperts-to-use-machine-learning/fulltext",
+      "originalUrl": "https://cacm.acm.org/careers/254437-platform-teaches-nonexperts-to-use-machine-learning/fulltext",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-30T14:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "acm.org",
+        "domain": "acm.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-31-ai-weekly-ai-adoption-is-driving-cloud-growth.md",
+      "title": "AI Weekly: AI adoption is driving cloud growth",
+      "excerpt": "As enterprises embrace AI technologies, they're increasingly turning to the cloud to meet key infrastructural needs.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/30/ai-weekly-ai-adoption-is-driving-cloud-growth/",
+      "originalUrl": "https://venturebeat.com/2021/07/30/ai-weekly-ai-adoption-is-driving-cloud-growth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/cloud.money_.GettyImages-627546267-e1623705801154.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/30/ai-weekly-ai-adoption-is-driving-cloud-growth/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/30/ai-weekly-ai-adoption-is-driving-cloud-growth/amp/",
+      "publishedDateTime": "2021-07-30T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-31-spanish-dpa-fines-supermarket-chain-2520000-eur-for-unlawful-use-of-facial-recognition-system.md",
       "title": "Spanish DPA Fines Supermarket Chain 2,520,000 EUR for Unlawful Use of Facial Recognition System",
       "excerpt": "On July 27, 2021, the Spanish Data Protection Authority (the “AEPD”) imposed a €2,520,000 fine on Spanish supermarket chain Mercadona, S.A. for unlawful use of a facial recognition sy",
@@ -1098,93 +1184,6 @@
       "topics": [
         "AI",
         "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-amazon-neptune-update-machine-learning-data-science-and-the-future-of-graph-databases.md",
-      "title": "Amazon Neptune update: Machine learning, data science, and the future of graph databases",
-      "excerpt": "Amazon Neptune just added another query language, openCypher, to its arsenal. That may not sound like a big deal in and of itself, but coupled with updates in machine learning and data science features,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/aws-neptune-update-machine-learning-data-science-and-the-future-of-graph-databases/",
-      "originalUrl": "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/aws-neptune-update-machine-learning-data-science-and-the-future-of-graph-databases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/07/14/dab15c07-8cf8-4f40-9413-97eff4356f4f/awsneptunearchitecture.png",
-          "width": 1435,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/aws-neptune-update-machine-learning-data-science-and-the-future-of-graph-databases/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/aws-neptune-update-machine-learning-data-science-and-the-future-of-graph-databases/",
-      "publishedDateTime": "2021-07-29T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-definity-adds-deep-learning-ai-models-to-detect-digital-asset-market-anomalies.md",
-      "title": "DeFinity adds deep-learning AI models to detect digital asset market anomalies",
-      "excerpt": "DeFinity, a DeFi marketplace for fiat foreign exchange, tokenised currencies, and central bank digital currencies (CBDC), partners with",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/07/n22241200/definity-adds-deep-learning-ai-models-to-detect-digital-asset-market-anomalies",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/07/n22241200/definity-adds-deep-learning-ai-models-to-detect-digital-asset-market-anomalies",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/22241200",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22241200",
-      "publishedDateTime": "2021-07-29T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

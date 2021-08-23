@@ -2,6 +2,100 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-08-15-time-for-responsible-artificial-intelligence.md",
+      "title": "Time for responsible Artificial Intelligence",
+      "excerpt": "Amazon, in 2018, closed down an AI-based recruiting tool after the e-commerce major figured the tool was biased against women",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/business/time-for-responsible-artificial-intelligence-701630",
+      "originalUrl": "https://www.thehansindia.com/business/time-for-responsible-artificial-intelligence-701630",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2021/08/14/1102015-artificial-intelligence.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/business/time-for-responsible-artificial-intelligence-701630",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/business/time-for-responsible-artificial-intelligence-701630",
+      "publishedDateTime": "2021-08-14T11:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-14-brain-computer-interfaces-are-making-big-progress-this-year.md",
+      "title": "Brain-computer interfaces are making big progress this year",
+      "excerpt": "Eight months in, 2021 has already become a record year in brain-computer interface (BCI) funding, tripling the $97 million raised in 2019.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/14/brain-computer-interfaces-are-making-big-progress-this-year/",
+      "originalUrl": "https://venturebeat.com/2021/08/14/brain-computer-interfaces-are-making-big-progress-this-year/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/nextMind.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/14/brain-computer-interfaces-are-making-big-progress-this-year/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/14/brain-computer-interfaces-are-making-big-progress-this-year/amp/",
+      "publishedDateTime": "2021-08-14T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-14-ai-based-medical-image-analysis-market-is-booming-worldwide-ge-healthcare-ibm-watson-health-philips-healthcare.md",
       "title": "AI-based Medical Image Analysis Market Is Booming Worldwide | GE Healthcare, IBM Watson Health, Philips Healthcare",
       "excerpt": "Top companies are: GE Healthcare, IBM Watson Health, Philips Healthcare, Samsung, Medtronic, NVIDIA, Alibaba Cloud, Sense Time, Pvmed, Neusoft, PereDoc In the global version of AI-based Medical Image Analysis report following regions and country would be ...",
@@ -1079,92 +1173,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-facial-recognition-market-to-lift-up-industry-growth-during-the-forecast-period-from-2020-2027-key-players-crossmatch-keylemon-nec-3m.md",
-      "title": "Facial Recognition Market To Lift Up Industry Growth During The Forecast Period From 2020 – 2027, Key Players – Crossmatch , Keylemon, NEC, 3M.",
-      "excerpt": "To receive a sample copy, please click here: visit @  Market by Application Emotion Recognition Attendance Tracking and Monitoring Access Control Law Enforcement Others The deadly COVID-19 outbreak has significantly slowed the growth and development of the international market industry.",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/facial-recognition-market-to-lift-up-industry-growth-during-the-forecast-period-from-2020-2027-key-players-crossmatch-keylemon-nec-3m/",
-      "originalUrl": "https://manometcurrent.com/facial-recognition-market-to-lift-up-industry-growth-during-the-forecast-period-from-2020-2027-key-players-crossmatch-keylemon-nec-3m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ksusentinel.com/wp-content/uploads/2021/05/300-x-300-pixel.jpg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/facial-recognition-market-to-lift-up-industry-growth-during-the-forecast-period-from-2020-2027-key-players-crossmatch-keylemon-nec-3m/",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/facial-recognition-market-to-lift-up-industry-growth-during-the-forecast-period-from-2020-2027-key-players-crossmatch-keylemon-nec-3m/",
-      "publishedDateTime": "2021-08-13T05:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-sigkdd-honors-groundbreaking-achievements-in-knowledge-discovery-and-data-mining.md",
-      "title": "SIGKDD Honors Groundbreaking Achievements in Knowledge Discovery and Data Mining",
-      "excerpt": "big data and artificial intelligence (AI). Ahead of the organization's annual conference on Aug. 14-18, the awards program recognizes those who have made a lasting impact in the industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-19951145.html",
-      "originalUrl": "https://www.lelezard.com/en/news-19951145.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-13T05:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

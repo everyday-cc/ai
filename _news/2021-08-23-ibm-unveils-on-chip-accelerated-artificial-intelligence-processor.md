@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-unveils-on-chi
 webUrl: "https://markets.businessinsider.com/news/stocks/ibm-unveils-on-chip-accelerated-artificial-intelligence-processor-1030750970"
 type: article
 quality: 86
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -76,7 +76,16 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "IBM unveils Telum Processor chip with AI capacity to detect fraud"
+    excerpt: "IBM has unveiled its upcoming new 7nm EUV chip, the IBM Telum Processor, designed to address fraud in real time. The processor contains a chip system for AI inferencing while a transaction is taking place."
+    publishedDateTime: 2021-08-23T07:18:00Z
+    webUrl: "https://www.telecompaper.com/news/ibm-unveils-telum-processor-chip-with-ai-capacity-to-detect-fraud--1394481"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 34
 
-secured: "688HHwm9EE9wy0rYPqpPDS7L/frFsIMmz8mC73FFsT5MQq3eYsfvh4HeAflG1kyiCidmxI4pzLKt3H6P7UMoqXdRMc4Z32Wbazw3NpnjeZUDLFfaUMEUs2xNZtuRGFrvPwa0nPZt/LiaR+wBauPkI5CGC30iORzDpwsznTjObPbPbb5WrFHzKoG0C24i34vj7QP1Q2yqlAtHcQ5l0Ob0BjXEIzM+xmfOYG0fKWSAFES9mLPBVoqNMt/DDnIQRTLS4GuJBc+R4g7lt6XfNhS2jUGNfYxu05f5J2OqjMqywrZ9ilaCbn3Gibm19zkQ2JpAI+DQzOElGkSorymbj9/vIrsJMerqvTTfOcB/VhZC2II=;dW2MpFR53vsm712ejuEVBg=="
+secured: "4L3uT3F4XkyM/eZFXk7Vd5+Ggy4+kJMWDhuLFSvRvlHleVZAh5GcEafLfKn+r4ZEKFirwgs7xWQ+bWJdDcKnW/Ubcxm4l0iamYJqTEJ2hetmrHBscBlgovx6BMYVZ3DlMXqm37Xn5/hOxa432g26qJGlf+XJheaIcvtWZ0aJ2NJvtsKBg5vvXk7Yj0UnsjZO+q7jlOjfRBRvZn/+0V77V2hSexIo21R6cAXbJ+PYDKTTvPKd0PVaFAsat6qBCTVZR6rBuaYo7btu6lyVJ3dH+f60JLdiJ24pkt/xDXA6O30o8ZvYbqJSAGauYvbrqPuuhGa1azVKsUZrrL/avQW2YVe4+adSwY+daookSXZqEIdfHH/BZdenV3gArvYbK8ttBK0OO3iT2pambyE2zhKlyV3V2sqrqkiQXobQsmZhA6rRFFjkW8Q9DMFonZptVRpt0u+FQlH0LTDQssTj5hz12YF+R89yUvEXa2luV8C/r1stNO0JTBf37feGEmWROZiKE/4136fPAV+d1syYO3Cp0A==;AvL9VpwjCkOM7HaWRyer4A=="
 ---
 

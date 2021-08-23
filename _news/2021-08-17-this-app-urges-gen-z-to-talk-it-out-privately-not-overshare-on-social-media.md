@@ -3,8 +3,8 @@ category: news
 title: "This App Urges Gen Z to Talk It Out Privately, Not Overshare on Social Media"
 excerpt: "Mental health apps abound, but with evrmore, the idea is to receive support from the app's cocktail of AI, machine learning, and natural language processing rather than the dopamine drip of social media validation."
 publishedDateTime: 2021-08-17T15:00:00Z
-originalUrl: "https://uk.pcmag.com/mobile-apps/135115/this-app-urges-gen-z-to-talk-it-out-privately-not-overshare-on-social-media"
-webUrl: "https://uk.pcmag.com/mobile-apps/135115/this-app-urges-gen-z-to-talk-it-out-privately-not-overshare-on-social-media"
+originalUrl: "https://au.pcmag.com/mobile-apps/88863/this-app-urges-gen-z-to-talk-it-out-privately-not-overshare-on-social-media"
+webUrl: "https://au.pcmag.com/mobile-apps/88863/this-app-urges-gen-z-to-talk-it-out-privately-not-overshare-on-social-media"
 type: article
 
 provider:
@@ -20,11 +20,11 @@ topics:
   - AI
 
 images:
-  - url: "https://sm.pcmag.com/t/pcmag_uk/news/t/this-app-u/this-app-urges-gen-z-to-talk-it-out-privately-not-overshare_paxf.1200.jpg"
+  - url: "https://sm.pcmag.com/t/pcmag_au/news/t/this-app-u/this-app-urges-gen-z-to-talk-it-out-privately-not-overshare_w247.1200.jpg"
     width: 1200
     height: 675
     isCached: true
 
-secured: "n7gpwHDUEUvj9cPO1rQvbOv4vJFyFnrz3mujnBh2fko96EkBUiFsUEpTJVFPUujBh/odiaRRatIPoTyDgnbJbqXzUoqcPD9d76MoPyp6T7oUqWJLwLO07QU7z65dDBcECwDTQEpFAHp2fd01DyzUlGfeE31uakkCGv+s8NctpmEiYjaxYeVwczmf90d/xbR9Z3a+qhKwFCWMD6s8rEzhbjIpIwUjmVjpWtuJQ74P11+VIO3OoC3pT4V7t0rxVV1HCJCV8dcV6fKJPcPlcYeo65CBCFEOgyDH/WDoXIdIkDdGW3gnRJK2rs/f6qPrcLKgP6+7qsCcf2Ksi/ETp78C5GofzBMGQB8+NForHcXKsq0=;vfmp9uYNzYfNBGU2vlifhg=="
+secured: "Y0guULnGESZg4/fHNsxof6Wt5HYicW1SACLLjxIdgRYdoHEX2YNqgmMgH8/F9CAGk04hLJ/TRMo8JotbV5qvXNoWs5RZ2c814TfPiPxDOxwSrQTiy0yPA0N8UB/5sUZ3tBKJgVMCh9iXKp3lZNmT89A4LblNb5OAd2gGVFK+hTBxpnjAKh+1b4GCkqZzckabZOSJjgen9LSp5k/YvmL2Lvw+kwLrtvf2A/Q+FTN9kzICQ//WcBDlyd+CxJ5iMsbY8G89K10xja3UffPAMyIFwy2NVaArDKcIpYKPuQDBFV20gaq5YzaNllFy43BnP8kf1cu8jumFo8xIDi6nZGiyWeFUo/AGjwXNuANgSlodlvQ=;yfMmhrgpOgDwNHB7XTh0wg=="
 ---
 

@@ -213,20 +213,6 @@ related:
         width: 1024
         height: 555
         isCached: true
-  - title: "Senators urge FTC to probe Tesla over self-driving claims"
-    excerpt: "Two senators say company has misled consumers and endangered the public by marketing its driving automation systems as fully self-driving."
-    publishedDateTime: 2021-08-18T14:54:00Z
-    webUrl: "https://www.autonews.com/regulation-safety/senators-urge-ftc-probe-tesla-over-self-driving-claims"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 54
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/304220409.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Senators Call for Investigation of Tesla’s Marketing Claims of its Autopilot and 'Full Self-Driving' Features"
     excerpt: "Consumer Reports shares details of a call to investigate Tesla’s marketing claims for its Autopilot and 'Full Self-Driving' Features. Two U.S. senators' letter to the Federal Trade Commission alleges that the automaker’s public statements might have led to crashes and fatalities."
     publishedDateTime: 2021-08-18T17:34:00Z

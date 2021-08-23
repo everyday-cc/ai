@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-19-amazon-rolls-out-indias-first-celebrity-voice-on-alexa-with-amitabh-bachchan.md",
+      "title": "Amazon rolls out India’s first celebrity voice on Alexa with Amitabh Bachchan",
+      "excerpt": "Amazon has rolled out India’s first celebrity voice feature on Alexa with the nation’s biggest movie star Amitabh Bachchan as the company makes a push to lure more users in the world’s second-most populated nation.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/08/18/amazon-rolls-out-indias-first-celebrity-voice-on-alexa-with-amitabh-bachchan/",
+      "originalUrl": "https://techcrunch.com/2021/08/18/amazon-rolls-out-indias-first-celebrity-voice-on-alexa-with-amitabh-bachchan/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-102146713.jpg?w=1024",
+          "width": 1024,
+          "height": 702,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/08/18/amazon-rolls-out-indias-first-celebrity-voice-on-alexa-with-amitabh-bachchan/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/18/amazon-rolls-out-indias-first-celebrity-voice-on-alexa-with-amitabh-bachchan/amp/",
+      "publishedDateTime": "2021-08-18T22:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-19-how-ai-powered-tech-landed-a-man-in-jail-with-scant-evidence.md",
       "title": "How AI-Powered Tech Landed a Man in Jail With Scant Evidence",
       "excerpt": "Michael Williams’ wife pleaded with him to remember their fishing trips with the grandchildren, how he used to braid her hair, anything to jar him back to his world outside the concrete walls of Cook County Jail.",
@@ -294,7 +346,7 @@
       "originalUrl": "https://techcrunch.com/sponsor/beyond-limits/the-ai-advantages-for-healthcare-and-finance/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -347,7 +399,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-notebook-instance-now-supports-amazon-linux-2/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1153,57 +1205,6 @@
         "Microsoft AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-08-18-ai-powered-design-platform-uizard-picks-up-15m.md",
-      "title": "AI-powered design platform Uizard picks up $15M",
-      "excerpt": "Uizard, an AI-powered mobile app and desktop software design platform, has raised $15 million in venture capital financing.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/18/ai-powered-design-platform-uizard-picks-up-15m/",
-      "originalUrl": "https://venturebeat.com/2021/08/18/ai-powered-design-platform-uizard-picks-up-15m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-947663966-e1621956778415.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/18/ai-powered-design-platform-uizard-picks-up-15m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/18/ai-powered-design-platform-uizard-picks-up-15m/amp/",
-      "publishedDateTime": "2021-08-18T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
