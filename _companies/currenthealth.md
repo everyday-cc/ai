@@ -5,7 +5,7 @@ otherNames:
   - "snap40"
 overview: "The Current Health universal patient management platform combines our FDA-cleared continuous, wireless wearable, an ecosystem of device integrations and advanced analytics to help physicians and patients make earlier decisions that avoid admission and improve health."
 type: "profile"
-heat: 41
+heat: 42
 
 website: https://www.currenthealth.com/
 
@@ -19,7 +19,7 @@ crunchbase:
 twitter:
   username: "HeyCurrent"
   url: "https://twitter.com/HeyCurrent"
-  followers: 1611
+  followers: 1610
 
 size: 11-50 employees
 yearFounded: 2015
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=gPZa-lS56Ak"
 
-secured: "7wblEOOhkAHOszkad4V23XGM5uTnBHvLl9GsBc7cEcZ7+bsb+T4bGu+DmYL2d42vEaLwblDwPd4Mw9nQU3LhPsFZeGIuyIxC7weUT9evfAuJd63Hu3aujAaOdhPSoJqR8NIbwN0nD/MDAMct/+6ePjxh5Z9dbuwFUGLkPv8eKkbgAXlRZ5yYVgeUx++XqVBEoaY5E6e93NFnYKCuNb8wHvIu/6+n+uQVLy02VGp59BAhE2VvQ0wyZueGCnlYPVbubk9UbuG1GqC6W21NUnGKAKfI/PTtvKX2ubVUewfU+FYGCGnE6wqAE+ffGwTxWHCSDar0cCXbX+iq22rq62KAWVUs+snJL0ajfiruP0w+KFbFkaOwI+2YuRGuFokqs2oFz8Ohr0qJTDXF5Vm6Htui/MO3JZReP2FwqQwQanS1a4E=;JsEFt4Hvt8EaiHcAgRQCKQ=="
+secured: "acdrgq64YxIgG1iUpe4Hm2pnABsmiU4u6NCTFh3uXPzfI1LBv4wwttEI75RiZ9oHsCOC03xGp6xhIPNG0sK5GXlIwI02VY0L1SJ1mgRFS26bE/CnZsNAIMpY6bnMRJ+sX1/uhCPwnRuNbmFcxJTldhhsdGei9We8ECGVhndDNL04tUEPAwFOEFWUEtBuFa3GvjVQLAJOTn6uVY9HD/Vu7T89Y1QBPY1+0VMBACpf5CNuQCXzkk6drXpVV7YZN1d93qwMXjPHXXmDHhwrfjJMFIdAGIN0Hdzdb8fMtocVy890sQvd3wounbr7dt6HShh1Uq6yeQU0XpBJlSjJwBQKdXWuxgafX5XYJ3qaPFu+T228ZH1AuDk3hT2/osFxfcDnOtfkWDPM+fX0Z6sSXJcd/MPtTIaFX0aPyH1NKf20BHY=;ypTlAI7/WAN2Xwrqu0aGJg=="
 ---
 
