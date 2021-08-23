@@ -39,22 +39,6 @@ related:
         width: 400
         height: 267
         isCached: true
-  - title: "IBM introduces Telum chips aimed at AI inferencing workloads like fraud detection"
-    excerpt: "Big Blue has unveiled Telum, its first chip with AI inferencing acceleration that will allow it to conduct tasks such as fraud detection while a transaction is occurring. \"The chip contains 8 processor cores with a deep super-scalar out-of-order instruction pipeline,"
-    publishedDateTime: 2021-08-23T01:48:00Z
-    webUrl: "https://www.zdnet.com/article/ibm-introduces-telum-chips-aimed-at-ai-inferencing-workloads-like-fraud-detection/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-introduces-telum-chips-aimed-at-ai-inferencing-workloads-like-fraud-detection/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-introduces-telum-chips-aimed-at-ai-inferencing-workloads-like-fraud-detection/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 82
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/08/23/c094c986-e845-4dbf-9fb3-9b7ee6d8e71c/ibm-telum.png"
-        width: 1194
-        height: 662
-        isCached: true
   - title: "IBM’s new on-chip accelerated AI processor is here. What’s its role in fraud detection?"
     excerpt: "The new chip will leverage the full power of the AI processor for AI-specific workloads, making it ideal for fraud detection, loan processing, clearing and settlement of trades, anti-money laundering."
     publishedDateTime: 2021-08-23T05:26:00Z
@@ -71,43 +55,20 @@ related:
         width: 566
         height: 400
         isCached: true
-  - title: "IBM Launches Telum, Its New AI Chip"
-    excerpt: "The new chip features a centralised design, which allows clients to leverage the full power of the AI processor for AI-specific workloads."
-    publishedDateTime: 2021-08-23T12:51:00Z
-    webUrl: "https://analyticsindiamag.com/ibm-launches-telum-its-new-ai-chip/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/IBM-Launches-Telum-Its-New-AI-Chip.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "IBM unveils on-chip AI accelerator for fraud detection"
-    excerpt: "IBM has unveiled its long-awaited 'Telum' chip, built with AI inference acceleration that will allow for fraud detection while a transaction is occurring. The new processor was showcased at the annual Hot Chips conference with the first Telum-based system planned for 2022."
-    publishedDateTime: 2021-08-23T09:35:00Z
-    webUrl: "https://www.cloudpro.co.uk/business-intelligence/9212/ibm-unveils-on-chip-ai-accelerator-for-fraud-detection"
+    excerpt: "IBM has unveiled its long-awaited ‘Telum’ chip, built with AI inference acceleration that will allow for fraud detection while a transaction is occurring. The new processor was showcased at the annual Hot Chips conference with the first Telum-based system planned for 2022."
+    publishedDateTime: 2021-08-23T13:55:00Z
+    webUrl: "https://www.techcentral.ie/ibm-unveils-on-chip-ai-accelerator-for-fraud-detection/"
     type: article
     provider:
-      name: Cloud Pro
-      domain: cloudpro.co.uk
+      name: Mozilla
+      domain: techcentral.ie
     quality: 54
     images:
-      - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2021/08/ibm.jpeg"
-        width: 1920
-        height: 1170
+      - url: "https://www.techcentral.ie/wp-content/uploads/2021/08/IBM_Telum.jpg"
+        width: 620
+        height: 349
         isCached: true
-  - title: "IBM unveils Telum Processor chip with AI capacity to detect fraud"
-    excerpt: "IBM has unveiled its upcoming new 7nm EUV chip, the IBM Telum Processor, designed to address fraud in real time. The processor contains a chip system for AI inferencing while a transaction is taking place."
-    publishedDateTime: 2021-08-23T07:18:00Z
-    webUrl: "https://www.telecompaper.com/news/ibm-unveils-telum-processor-chip-with-ai-capacity-to-detect-fraud--1394481"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 34
 
 secured: "hAtarcwqz9XgCS+WjvvGZlWDeDxYcCKjMv9k3nwjJF93vV2KX+hIctYbrHyHas87eJAQY6FLW9qzJS0DoiwCSXyYCGrSNmgQdPxOcukOM+hPP/b6xVQnDsosVPsFFPJ+h1xOkAzr9ScgEYy2SiC0UL1fWshtlGFxDIjvtRXIS18+EjqJ7fmJME2Y/otjJZLOEnMpZ7vBlU+K89Zgqbg/jJogS/qTIDIg8nFXGT3Se/p9G+wlId51hyS3d+JiS+Z6v++gSy8O8pZaXSK768bg187JRAC47YP5WruJf5YCaQAs4w97PZzSXhkXFhyfQhIQO8iw/DhfIZYeNXaK0B3YcowUJLfoCkTpx6ZCAw24LoPpYUvDeuFh0/6MENfzCddUNu/yMvTbETTEuO9U4dZeDAhP5L6QWPSjnt0LMzT6YOrrWRR566qsa6fARf8dgo8OqFx5sz3zl0lqJL+nJKc5rt9z5rvznBsgFqziglZ7OvtX+R+Y1Yw5Fuu+txsAJn4eucNWlt9lPcMpgLKCYOcI5Q==;ctJTwuJ8LrIdez8x5l94xw=="
 ---

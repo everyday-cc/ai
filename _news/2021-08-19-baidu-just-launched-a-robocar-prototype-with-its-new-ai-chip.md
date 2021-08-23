@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.interestingengineering.com/baidu-just-launched-a-robocar
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/baidu-just-launched-a-robocar-prototype-with-its-new-ai-chip"
 type: article
 quality: 76
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-08/2308_baidu_-seo.jpeg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "AI-packed 'robocar' puts Baidu in the self-driving fast lane"
-    excerpt: "\"We believe that cars of the future will be robocars,\" Baidu CEO and Chairman Robin Li told an online audience. The car's artificial intelligence capabilities allow it to drive as the user sees fit, according to the company."
-    publishedDateTime: 2021-08-18T21:07:00Z
-    webUrl: "https://asia.nikkei.com/Business/China-tech/AI-packed-robocar-puts-Baidu-in-the-self-driving-fast-lane2"
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 39
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F9%252F6%252F7%252F4%252F35964769-1-eng-GB%252F20210818N%2520Baidu%2520robocar.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-        width: 1024
-        height: 512
         isCached: true
   - title: "Baidu claims it has created Level 5 robocar"
     excerpt: "BEIJING: Baidu, the Chinese technology giant behind the country's search engine, has just announced a level 5 SAE autonomous car thanks to a new chip. Behind this potential success is an ambitious open source platform called Apollo."

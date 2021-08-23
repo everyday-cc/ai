@@ -58,6 +58,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "On The Rancorous Controversy Over Dedicating Freeway Lanes Expressly For Autonomous Vehicles Such As AI Self-Driving Cars"
+    excerpt: "Some believe we ought to setup dedicated lanes for self-driving cars, which seems sensible, though there are many arguments in opposition. See the debate here."
+    publishedDateTime: 2021-08-23T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/23/on-the-rancorous-controversy-over-dedicating-freeway-lanes-expressly-for-autonomous-vehicles-such-as-ai-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/23/on-the-rancorous-controversy-over-dedicating-freeway-lanes-expressly-for-autonomous-vehicles-such-as-ai-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/23/on-the-rancorous-controversy-over-dedicating-freeway-lanes-expressly-for-autonomous-vehicles-such-as-ai-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612173ac27df6664b906759a%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "YB2/iD0sVKIue9JnZvI87gW4zxpm2E4ccfvRBojUMcT35sKNckv+dSbc6B3OuVA+6G9t3PmiJkX3rCzEE0KjYvrtvipyRVFaElg/C/FpYqlGayxuh3r7PziOc9G/UDVRDQ7VyDqsdmZte5yzSvAEITkAJZFzwGqC5VmIQNkGqT5fsshqwc24NPa7bCD0ElGIyAQ9apklaR5yY8Ky1BIwhKeKUuHMKbQ6R/teA2YU2Lh3t6p2HFOj/5+0x1quc2mI7Z9P+pO66/Z6FdQOnjJH8SHcvpSvbOAb8JJH6YBhgI/WP5LNKuRdac/Ic60oRVzMUCfFAK42jFNIaXp5EW52dCJthm5My8sSU4RysD7fuxY+bX3eD+utlvNHXUI6ykfm1o+gh1PT/PT3K5ed5PK8HCHpraYFidUy/92/PNWJN45NMgS7KJzymc32ZAfuZ3bqGlxhVBrma+xJA/UZwNXd7OUjPXed9EoLvmW6kKB+LFI09byN8cnHw9RMXgb17dCWRa2YAn9hMGa5B/3Y1EUhEA==;9IHptN2H9PRuI+vPh4T2dQ=="
 ---

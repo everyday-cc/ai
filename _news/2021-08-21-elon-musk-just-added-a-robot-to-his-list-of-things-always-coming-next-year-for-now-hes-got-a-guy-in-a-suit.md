@@ -7,7 +7,7 @@ originalUrl: "https://localnews8.com/money/cnn-social-media-technology/2021/08/2
 webUrl: "https://localnews8.com/money/cnn-social-media-technology/2021/08/20/elon-musk-just-added-a-robot-to-his-list-of-things-always-coming-next-year-for-now-hes-got-a-guy-in-a-suit/"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 2560
     height: 1708
     isCached: true
-
-related:
-  - title: "Elon Musk adds robot to his list of things coming ‘next year’"
-    excerpt: "\"It's basically going to start dealing with work that is boring, repetitive and dangerous,\" Musk said of the Tesla robot."
-    publishedDateTime: 2021-08-20T17:59:00Z
-    webUrl: "https://nbc-2.com/features/tech/2021/08/20/elon-musk-adds-robot-to-his-list-of-things-coming-next-year/"
-    type: article
-    provider:
-      name: NBC2
-      domain: nbc-2.com
-    quality: 39
-    images:
-      - url: "https://nbc-2.com/wp-content/uploads/2021/08/Robot.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "Zm6TN1+EakNXQ0BVvantuxLO0YWPV12Ku4vpGGcHXqwYcS4VjHYCpLxQkllU792KiBR6S3WAr/5iyaRT0rc4cME1P8L5CHsV4l9wpGdMsWEMNURZ+Hd1VniMNCAC6BsTOAA7PrCMVeDBTnkLCHLlUgECS6KVdXKbmWadW2k0ErgqSqg2OqzR9A4qCogriSIPh6xtsvGSl4+et/qY9z8j3IjiWVt2hHio7go1hfG1olC6MiG4E4sHX+yzZvPvXmO2e1ee6FVSJrmGtfqzYVOh75PwBIfV1LWvIlNfsygYv+U8mWfMLQ9eb6G2pn1kZaIyFeFTS1hFmxCwtac1ndcph/iZ2xq316pmgr5ZRn4pfyJxWDffga+NdquzEeeC3FM2LqBLkmOwDJ/dVMSOkax/jrSdLEnIomi7A7mbkzCo7jGUIYDynH2u2jr+Q8uWzZQ4du2J3AM/0NTyayiHSCQsB0vWnbP9lUmMiIN2qYimXhPNIvJComaUaktE5S7hv3FY6jH0vDmdxZaQEP9ALSnzhw==;aKScJma1ymQyMLEEGFL62Q=="
 ---

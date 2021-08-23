@@ -7,7 +7,7 @@ originalUrl: "https://nbc-2.com/features/tech/2021/08/20/elon-musk-adds-robot-to
 webUrl: "https://nbc-2.com/features/tech/2021/08/20/elon-musk-adds-robot-to-his-list-of-things-coming-next-year/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,20 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk just added a robot to his list of things always coming ‘next year.’ For now he’s got a guy in a suit"
-    excerpt: "By Matt McFarland, CNN Business Elon Musk said Thursday night at Tesla’s AI Day that the company is building a humanoid robot, and will probably have a prototype next year. “It’s basically going to start dealing with work that is boring,"
-    publishedDateTime: 2021-08-20T22:40:00Z
-    webUrl: "https://localnews8.com/money/cnn-social-media-technology/2021/08/20/elon-musk-just-added-a-robot-to-his-list-of-things-always-coming-next-year-for-now-hes-got-a-guy-in-a-suit/"
+  - title: "Elon Musk is building a human-like robot: Does anyone else think this is a really bad idea?"
+    excerpt: "Yep, he's at it again. Apparently, launching a sports car into space wasn't enough. Now, he's hoping to unleash an army of labor-saving bipedal robots into our homes and businesses."
+    publishedDateTime: 2021-08-23T06:41:00Z
+    webUrl: "https://www.zdnet.com/article/elon-musk-is-building-a-human-like-robot-does-anyone-else-think-this-is-a-really-bad-idea/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/elon-musk-is-building-a-human-like-robot-does-anyone-else-think-this-is-a-really-bad-idea/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/elon-musk-is-building-a-human-like-robot-does-anyone-else-think-this-is-a-really-bad-idea/"
     type: article
     provider:
-      name: Local News 8
-      domain: localnews8.com
-    quality: 19
-    images:
-      - url: "https://localnews8.b-cdn.net/2021/08/hypatia-h_e53277f69b31148810e9707a8a3d9650-h_b97ea991d9b2817ab9b9934fbf4452f8-300-scaled.jpg"
-        width: 2560
-        height: 1708
-        isCached: true
+      name: ZDNet
+      domain: zdnet.com
+    quality: 59
 
 secured: "F3kbqogH8tzitK6S5ZR0wIssIzvodlzCFViVwUNsaIcDktM7e2uNnhRYYvNhVJhpLGbYnjuqaURbc3d6MQrgIc7FczHbgyeqXVhKiBq9z+H9hbNA9FcdEJloowz8B1UX/TqWc1+o73ECJqAQxgftq4Wq8aTethruM/R4hkpK1jxg2yfUSPo59mJ0gjPfoDozvRdSDY2tnk5dTU2wyux49rDZLWwMYkqbsf/ZCSymmhQisb/BEIz6+f+zUDttu7fEBCyz3YFZldV8qBoV70wGL4Gxw6xzQj5QcrHpMEkJCiGBdKiQVSW5T+OyWkFnA8iXnvH5y82ebMnSet4Pi4Xu9rp5kpXqrVc3g6E4HiWcHSXqV0aRbED0hm7pNsGjOJe3Nq/XUWCmCdCd+9rgT8aN9SnWBJoFzGiHCcbTw6TMHWg8wuPJRIvElEfwm6RVXnzrgt6K4sfLqvcRbkTE+FGskPPWd9m55a5OXgStb87ngZYJuEzrfghamBDkB1JqQyNmQ2SUvKUfbtLesuh8RbtKCQ==;izjTNvWlpTNifGoXPXEfTA=="
 ---

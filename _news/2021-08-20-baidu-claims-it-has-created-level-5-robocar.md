@@ -73,20 +73,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI-packed 'robocar' puts Baidu in the self-driving fast lane"
-    excerpt: "\"We believe that cars of the future will be robocars,\" Baidu CEO and Chairman Robin Li told an online audience. The car's artificial intelligence capabilities allow it to drive as the user sees fit, according to the company."
-    publishedDateTime: 2021-08-18T21:07:00Z
-    webUrl: "https://asia.nikkei.com/Business/China-tech/AI-packed-robocar-puts-Baidu-in-the-self-driving-fast-lane2"
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 39
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F9%252F6%252F7%252F4%252F35964769-1-eng-GB%252F20210818N%2520Baidu%2520robocar.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-        width: 1024
-        height: 512
-        isCached: true
 
 secured: "z4aFWx4rXWTpyIH3vLI0+lK2/e0LT3rQRczen/jhXQYnrDPibmPUTQvl3Yai/RecA92anhTfywhoE0z+DxqfM2FxCxiNJmBRxPHNi7TtMQ++9IOdOwAVr1U7RYEZbWcsuUnfNr9lduBRpVl2Dvqr5vmXt9qIvPvVA9P71f50DVDkBwv3XoitKUGGjS5D9tJDmyTq+A2PpwxsZgenei+Gp4qxXKqni18DQPnZuC0H8NlwABBzrL3CE0hJdRAoOT9TWLlLlhqIMrWvK8uVYx5CClHPoOCcbToZFa1tDQUWCizfcJ0SUxm3kKWsRw3bctI4PAlUBAWAGEteiiAB4w6zkaQ31Jwg7PYgRN2GeMVEQKtPDoi9bgiYJgGW5kND8tHs74ljBd+eC5JXIJFbwUtriTAwgbtwa/xbnIGEVikSUg4OWgF/s5nl+PBV6Ut8ELjLgfzBUEBtmtQIJJKhpZCkiXIlRLcWhc/bmDrsSR5lmQHHScapZFXHm1Bca4FEtaE7xCf4KmGGQpX7BoMVg/skjA==;ZSUSHXqaFdAD+gSvSn3F6g=="
 ---

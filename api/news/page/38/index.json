@@ -2,6 +2,180 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2021-07-26-googles-parent-alphabet-to-launch-a-new-robotics-and-ai-firm-intrinsic.md",
+      "title": "Google’s parent Alphabet to launch a new robotics and AI firm- Intrinsic",
+      "excerpt": "Intrinsic is a business of the future as it deals with advances in robotics and Artificial Intelligence. Alphabet’s Intrinsic is an attempt by Google to expand into future technology as it already is developing some advanced tech using complex machinery,",
+      "sourceUrl": null,
+      "webUrl": "https://techstory.in/googles-parent-alphabet-to-launch-a-new-robotics-and-ai-firm-intrinsic/",
+      "originalUrl": "https://techstory.in/googles-parent-alphabet-to-launch-a-new-robotics-and-ai-firm-intrinsic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techstory.in/wp-content/uploads/2021/07/intrinsic_green_purple_center.0.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-26T04:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tech",
+        "domain": "techstory.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-natural-language-processing-market-study-latest-business-outlook-and-revenue-generation-strategy-2021-2027.md",
+      "title": "Natural Language Processing Market Study Latest Business Outlook and Revenue Generation Strategy 2021-2027",
+      "excerpt": "Natural language processing (NLP) is a subfield of linguistics, computer science, and artificial intelligence concerned ... meds and therapy results from patient notes, clinical preliminary ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2337032/natural-language-processing-market-study-latest-business",
+      "originalUrl": "https://www.openpr.com/news/2337032/natural-language-processing-market-study-latest-business",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/7/U726466754_g.jpg",
+          "width": 800,
+          "height": 482,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2337032/natural-language-processing-market-study-latest-business",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2337032/natural-language-processing-market-study-latest-business",
+      "publishedDateTime": "2021-07-26T04:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-blue-hexagon-augments-aws-network-firewall-with-ai-based-cloud-native-threat-detection.md",
+      "title": "Blue Hexagon Augments AWS Network Firewall with AI-based Cloud-Native Threat Detection",
+      "excerpt": "Blue Hexagon, a leading agentless cloud-native AI security platform, announced the native integration of Blue Hexagon’s industry-leading real-time deep learning based threat detection with AWS Network Firewall for real-time protection.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/blue-hexagon-augments-aws-network-firewall-with-ai-based-cloud-native-threat-detection/",
+      "originalUrl": "https://www.financialbuzz.com/blue-hexagon-augments-aws-network-firewall-with-ai-based-cloud-native-threat-detection/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-26T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-donald-macdonald-of-ocbc-bank-automating-front-and-back-end-operations-with-ai.md",
+      "title": "Donald MacDonald of OCBC Bank: Automating front and back-end operations with AI",
+      "excerpt": "\"Another emerging opportunity we see is the rise of augmented insights where the AI is scanning business trends and portfolio data to identify insights that a human may never have noticed due to information overload\" Donald MacDonald,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/professional/blog/inside-the-sell-side-qa-with-donald-macdonald/",
+      "originalUrl": "https://www.bloomberg.com/professional/blog/inside-the-sell-side-qa-with-donald-macdonald/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bbhub.io/image/v1/convert?type=auto&url=https%3A%2F%2Fassets.bbhub.io%2Fprofessional%2Fsites%2F10%2FOCBC_DonaldMacDonald_v2.png",
+          "width": 1000,
+          "height": 1300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-26T01:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-07-26-imd-to-use-artificial-intelligence-machine-learning-for-accurate-weather-forecasts.md",
       "title": "IMD to use artificial intelligence, machine learning for accurate weather forecasts",
       "excerpt": "The IMD has formed several internal sub-groups of senior officials and meteorologists to decide on how best to use AI and ML in weather forecasts.",
@@ -967,196 +1141,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-24-ai-weekly-openais-pivot-from-robotics-acknowledges-the-power-of-simulation.md",
-      "title": "AI Weekly: OpenAI’s pivot from robotics acknowledges the power of simulation",
-      "excerpt": "OpenAI has shuttered its robotics research team. But that doesn't mean the firm won't create a system capable of controlling a machine.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/23/ai-weekly-openais-pivot-from-robotics-acknowledges-the-power-of-simulation/",
-      "originalUrl": "https://venturebeat.com/2021/07/23/ai-weekly-openais-pivot-from-robotics-acknowledges-the-power-of-simulation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/openai-e1591041162109.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/23/ai-weekly-openais-pivot-from-robotics-acknowledges-the-power-of-simulation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/23/ai-weekly-openais-pivot-from-robotics-acknowledges-the-power-of-simulation/amp/",
-      "publishedDateTime": "2021-07-23T15:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-24-usa-facial-recognition-in-use-at-major-chains-without-customer-knowledge.md",
-      "title": "USA: Facial recognition in use at major chains without customer knowledge",
-      "excerpt": "From Macy’s to Ace Hardware, facial recognition is already everywhere”, 15 July 2021. Some of the US’s most popular stores — including Macy’s and Ace Hardware — are using facial recognition on their customers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-humanrights.org/en/latest-news/united-states-facial-recognition-in-use-at-major-chains-without-customer-knowledge/",
-      "originalUrl": "https://www.business-humanrights.org/en/latest-news/united-states-facial-recognition-in-use-at-major-chains-without-customer-knowledge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.business-humanrights.org/media/images/united-nations-419885_1280.2e16d0ba.fill-788x488.jpg",
-          "width": 788,
-          "height": 488,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-23T14:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "洗護用品和肥皂",
-        "domain": "business-humanrights.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-24-with-full-self-driving-available-on-demand-be-wary-of-any-and-all-teslas.md",
-      "title": "With Full Self-Driving available on demand, be wary of any and all Teslas",
-      "excerpt": "Tesla released its Full Self-Driving advanced driving assistance mode as part of a subscription available to almost every Tesla driver in the U.S.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/tesla-full-self-driving-mode-subscription-warning",
-      "originalUrl": "https://mashable.com/article/tesla-full-self-driving-mode-subscription-warning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/05VpQKwqzrrr1dfizwOYgSv/hero-image.fill.size_1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-23T12:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-24-dazzled-by-the-sun-nasa-taps-ai-to-give-its-solar-telescope-an-eye-test.md",
-      "title": "Dazzled by the Sun, NASA taps AI to give its solar telescope an eye-test",
-      "excerpt": "Staring at the Sun is ill-advised if you want to keep your eyesight, but NASA’s solar telescopes have some sneaky ways to avoid burn-out as the space agency gleans vital information about",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/dazzled-by-the-sun-nasa-taps-ai-to-give-its-solar-telescope-an-eye-test-23683777/",
-      "originalUrl": "https://www.slashgear.com/dazzled-by-the-sun-nasa-taps-ai-to-give-its-solar-telescope-an-eye-test-23683777/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/07/nasa-sdo.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/dazzled-by-the-sun-nasa-taps-ai-to-give-its-solar-telescope-an-eye-test-23683777/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/dazzled-by-the-sun-nasa-taps-ai-to-give-its-solar-telescope-an-eye-test-23683777/amp/",
-      "publishedDateTime": "2021-07-23T12:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

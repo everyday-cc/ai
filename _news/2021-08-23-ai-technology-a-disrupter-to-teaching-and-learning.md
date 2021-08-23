@@ -38,22 +38,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Muslims more likely to be targeted by Delhi Police if facial recognition technology is used"
-    excerpt: "Any technological intervention that intensifies policing will aggravate the historical systemic bias, particularly against Muslims living in over-policed areas like Old Delhi or Nizamuddin."
-    publishedDateTime: 2021-08-18T21:18:00Z
-    webUrl: "https://theprint.in/opinion/muslims-more-likely-to-be-targeted-by-delhi-police-if-facial-recognition-technology-is-used/718092/"
-    ampWebUrl: "https://theprint.in/opinion/muslims-more-likely-to-be-targeted-by-delhi-police-if-facial-recognition-technology-is-used/718092/?amp"
-    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/opinion/muslims-more-likely-to-be-targeted-by-delhi-police-if-facial-recognition-technology-is-used/718092/?amp"
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 49
-    images:
-      - url: "https://static.theprint.in/wp-content/uploads/2020/04/Shab-e-Barat.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "uD8ix5a9gbGzPW1MRTB0ImtYRnj6HLTWCuMapRbQqzNI4tqnrCoZv3616vMnxCttZZi+zVBO3bGbgYVdm/gIg7DO11KdLNt1jvmQJ2wYK8Tne9BnbsSYxYsPdna5gXDEa+rFfz9cpce6yQV4cy2oA8RCeBaZnD9E8bYvPPzHOnMNygmCv/HnnsRtq9WRFdmRwv+rYLi/erYhA1sD1vJLvzAFOeEWemdaU3VgGYs1Mc5G9JSfpwGrm9SDJ+KGfkEdRSeHADdR6YXrHNV7oHb55IfM0vBirV7qnzBHu2/EX5E5osqv8024qrFl0/d7gbA5/EKpYaj206pHhBse6o3sS6OJ14+7iPaz8XTESnPu89I=;aDSG81YVhV3AjGlmeFJVZw=="
 ---

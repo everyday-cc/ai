@@ -2,12 +2,271 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-23-seeking-early-signals-of-dementia-in-driving-and-credit-scores.md",
+      "title": "Seeking Early Signals of Dementia in Driving and Credit Scores",
+      "excerpt": "The pathologies underlying brain decline can begin years before symptoms emerge. Can everyday behavior provide warning?",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/08/23/health/dementia-behavior-alzheimers.html",
+      "originalUrl": "https://www.nytimes.com/2021/08/23/health/dementia-behavior-alzheimers.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/08/24/science/24dementia-span/24dementia-span-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/08/23/health/dementia-behavior-alzheimers.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/23/health/dementia-behavior-alzheimers.amp.html",
+      "publishedDateTime": "2021-08-23T08:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-23-ibm-telum-a-new-chapter-in-vertically-integrated-chip-technology.md",
+      "title": "IBM Telum – A New Chapter In Vertically Integrated Chip Technology",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives deeper as At the IEEE's Hot Chips 33 conference on the 23rd August 2021, IBM presented a preview of IBM Telum, the next-generation processor for IBM z and LinuxONE systems,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/08/23/ibm-telum--a-new-chapter-in-vertically-integrated-chip-technology/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/08/23/ibm-telum--a-new-chapter-in-vertically-integrated-chip-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6123bdb050e6882f68cd58a5%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/08/23/ibm-telum--a-new-chapter-in-vertically-integrated-chip-technology/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/08/23/ibm-telum--a-new-chapter-in-vertically-integrated-chip-technology/amp/",
+      "publishedDateTime": "2021-08-23T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-23-these-researchers-are-bringing-ai-to-farmers.md",
+      "title": "These researchers are bringing AI to farmers",
+      "excerpt": "“Farmers feed the entire world — so how might we support them to be resilient and build sustainable systems that also support global food security?” It’s a question that Diana Akrong found herself asking last year. Diana is a UX researcher based in Accra, Ghana, and the founding member of Google’s Accra",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/researchers-make-sure-ai-works-for-farmers/",
+      "originalUrl": "https://blog.google/technology/ai/researchers-make-sure-ai-works-for-farmers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_RbHfBqx.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 661,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/researchers-make-sure-ai-works-for-farmers/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/researchers-make-sure-ai-works-for-farmers/amp/",
+      "publishedDateTime": "2021-08-23T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-23-legal-tech-artificial-intelligence-enabled-review.md",
+      "title": "Legal Tech: Artificial Intelligence-Enabled Review",
+      "excerpt": "Software powered by artificial intelligence (AI) already carries out multiple legal tasks today. In the future, AI will affect and own even more of these tasks. While consumer facing AI is rapidly evolving,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/23/legal-tech-artificial-intelligence-enabled-review/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/23/legal-tech-artificial-intelligence-enabled-review/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612020516d8317950137e9fc%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/23/legal-tech-artificial-intelligence-enabled-review/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/23/legal-tech-artificial-intelligence-enabled-review/amp/",
+      "publishedDateTime": "2021-08-23T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-23-why-emotion-recognition-ai-cant-reveal-how-we-feel.md",
+      "title": "Why emotion recognition AI can’t reveal how we feel",
+      "excerpt": "Thomas covers AI in all its iterations. Likes Werner Herzog films and Arsenal FC. Writer at Neural by TNW — Thomas covers AI in all its iterations. Likes Werner Herzog films and Arsenal FC. They found that people use different facial movements to communicate similar emotions.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/emotion-recognition-ai-cant-determine-how-people-feel",
+      "originalUrl": "https://thenextweb.com/news/emotion-recognition-ai-cant-determine-how-people-feel",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2FUntitled-design-12.jpg&signature=9484b0a25417f9c6eef95bb74ca53bfe",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-23T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-23-boston-dynamics-atlas-robot-failing-at-parkour-is-strangely-humbling.md",
       "title": "Boston Dynamics' Atlas robot failing at parkour is strangely humbling",
       "excerpt": "We knew the Boston Dynamics robots could dance, but this is something else. Now, the company's much loved Atlas robot has learned to bust some gnarly parkour moves, backflips and all (above), but there's a pretty sensational blooper reel to go along with it (further down).",
       "sourceUrl": null,
-      "webUrl": "https://www.pcgamer.com/au/boston-dynamics-robots-doing-parkour/",
-      "originalUrl": "https://www.pcgamer.com/au/boston-dynamics-robots-doing-parkour/",
+      "webUrl": "https://www.pcgamer.com/boston-dynamics-robots-doing-parkour/",
+      "originalUrl": "https://www.pcgamer.com/boston-dynamics-robots-doing-parkour/",
       "featuredContent": null,
       "highlight": null,
       "heat": 74,
@@ -24,8 +283,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.pcgamer.com/au/amp/boston-dynamics-robots-doing-parkour/",
-      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/au/amp/boston-dynamics-robots-doing-parkour/",
+      "ampWebUrl": "https://www.pcgamer.com/amp/boston-dynamics-robots-doing-parkour/",
+      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/boston-dynamics-robots-doing-parkour/",
       "publishedDateTime": "2021-08-23T06:26:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -694,7 +953,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/ibm-unveils-on-chip-accelerated-artificial-intelligence-processor-1030750970",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -939,7 +1198,7 @@
       "originalUrl": "https://www.livemint.com/technology/tech-news/ai-set-to-steer-indian-cars-in-new-direction-11629652014913.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -970,266 +1229,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-22-natural-language-processing-uncovers-silver-linings-in-the-covid-19-pandemic.md",
-      "title": "Natural Language Processing Uncovers Silver Linings In The Covid-19 Pandemic",
-      "excerpt": "We identified positive aspects, or silver linings, that people experienced during the Covid-19 crisis using computational natural language processing methods,” say the authors of the research led by Stanford University’s Juan Antonio Lossio-Ventura.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/traversmark/2021/08/22/natural-language-processing-uncovers-silver-linings-in-the-covid-19-pandemic/",
-      "originalUrl": "https://www.forbes.com/sites/traversmark/2021/08/22/natural-language-processing-uncovers-silver-linings-in-the-covid-19-pandemic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61211a1fc57e3ecb07d81833%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3585%26cropY1%3D136%26cropY2%3D1816",
-          "width": 1200,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/traversmark/2021/08/22/natural-language-processing-uncovers-silver-linings-in-the-covid-19-pandemic/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traversmark/2021/08/22/natural-language-processing-uncovers-silver-linings-in-the-covid-19-pandemic/amp/",
-      "publishedDateTime": "2021-08-22T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-22-australia-eyes-ai-drones-facial-recognition-tech-to-protect-wild-koalas.md",
-      "title": "Australia eyes AI, drones, facial recognition tech to protect wild koalas",
-      "excerpt": "Researchers are seeking hi-tech solutions to protect koalas against the threats of vehicle collisions and bush fires.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/news/asia/australasia/article/3145931/australia-eyes-ai-drones-facial-recognition-tech-protect-wild",
-      "originalUrl": "https://www.scmp.com/news/asia/australasia/article/3145931/australia-eyes-ai-drones-facial-recognition-tech-protect-wild",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/08/22/689d270a-0305-11ec-83d9-2f907cc4e7e5_image_hires_131045.jpg?itok=_PUW2we3&v=1629609056",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/news/asia/australasia/article/3145931/australia-eyes-ai-drones-facial-recognition-tech-protect-wild",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/asia/australasia/article/3145931/australia-eyes-ai-drones-facial-recognition-tech-protect-wild",
-      "publishedDateTime": "2021-08-22T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-22-tracking-startup-growth-rates.md",
-      "title": "Tracking startup growth rates",
-      "excerpt": "Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s inspired by what the weekday Exchange column digs into, but free, and made for your weekend reading. Want it in your inbox every Saturday?",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/08/21/tracking-startup-growth-rates/",
-      "originalUrl": "https://techcrunch.com/2021/08/21/tracking-startup-growth-rates/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/NSussman_Techcrunch_Exchange-multicolor.jpg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/08/21/tracking-startup-growth-rates/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/21/tracking-startup-growth-rates/amp/",
-      "publishedDateTime": "2021-08-21T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-21-the-ai-marketing-canvas-a-roadmap-to-implementing-artificial-intelligence-in-marketing.md",
-      "title": "The AI Marketing Canvas: A Roadmap To Implementing Artificial Intelligence In Marketing",
-      "excerpt": "Artificial intelligence (AI) is one of the hottest topics in marketing right now. Raj Venkatesan and Jim Lecinski recently published a book entitled “The AI Marketing Canvas: A Five-Stage Road Map to Implementing Artificial Intelligence in Marketing”.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/kimberlywhitler/2021/08/21/the-ai-marketing-canvas-a-roadmap-to-implementing-artificial-intelligence-in-marketing/",
-      "originalUrl": "https://www.forbes.com/sites/kimberlywhitler/2021/08/21/the-ai-marketing-canvas-a-roadmap-to-implementing-artificial-intelligence-in-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f37a46f5cc905452bdea50%2F0x0.jpg",
-          "width": 1200,
-          "height": 632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-21T09:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-08-21-3-artificial-intelligence-stocks-to-buy-right-now.md",
-      "title": "3 Artificial Intelligence Stocks to Buy Right Now",
-      "excerpt": "Artificial intelligence has already become a transformative technology. AI-powered smart speakers sit in our homes, manufacturing robots with AI work in factories, and some of our cars use AI to automatically apply the brakes or steer vehicles back into their lanes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/08/21/3-artificial-intelligence-stocks-to-buy-right-now/",
-      "originalUrl": "https://www.fool.com/investing/2021/08/21/3-artificial-intelligence-stocks-to-buy-right-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F639600%2Fgettyimages-1307905824.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/08/21/3-artificial-intelligence-stocks-to-buy-right-now/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/08/21/3-artificial-intelligence-stocks-to-buy-right-now/",
-      "publishedDateTime": "2021-08-21T08:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

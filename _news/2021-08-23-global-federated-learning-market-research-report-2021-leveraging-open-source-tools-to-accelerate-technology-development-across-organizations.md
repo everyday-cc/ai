@@ -1,0 +1,29 @@
+---
+category: news
+title: "Global Federated Learning Market Research Report 2021: Leveraging Open Source Tools to Accelerate Technology Development across Organizations and Regi"
+excerpt: "New Approach to Building AI Models\" report has been added to ResearchAndMarkets.com's offering. Federated learning is a distributed ML architecture that enables a global model to be trained using decentralized data."
+publishedDateTime: 2021-08-23T14:23:00Z
+originalUrl: "https://us.acrofan.com/detail.php?number=519914"
+webUrl: "https://us.acrofan.com/detail.php?number=519914"
+type: article
+quality: 0
+heat: 0
+published: false
+
+provider:
+  name: 아크로팬
+  domain: acrofan.com
+
+topics:
+  - Machine Learning
+  - AI
+
+images:
+  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+    width: 580
+    height: 339
+    isCached: true
+
+secured: "nWLthOKHCIKJcpzyYM1vk3cvIJmBpS/ek7oIirLsXRR5r9ERn2fSIHth0PhnxXAn/dfCpGi25uC4eDyjdF8lCmQ8o+8klewqD27mj8GsdMAqUdzWvObfMgzBW4QvqAFoOav8Kr8GIm0DQyNMkkZf/QtFWXrczQBB36sGztRevaRiTfW6wytrKP9UuKhycIWkM1PVSaifi5UtqVSMJIamGXRa6mbLxR2ciY2gU8956e2nf6yJ9NVmsV55lukpmDMC2mCtANQOU2K6LRlsRpltw9vxt2VAQfk89fdT8XqlcB3uFbU5KiE+w4gR4JbXT4JWaK4fxOZyop03Xy8+c+EO9FI3XU3u+tF9o2b0Uxm4x+Y=;RxbVRLPzW3IkxrvLTFQEJA=="
+---
+

@@ -9,7 +9,7 @@ ampWebUrl: "https://futurism.com/ai-blood-test-lung-cancer/amp"
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/ai-blood-test-lung-cancer/amp"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 600
     height: 315
     isCached: true
+
+related:
+  - title: "AI Blood Test Shown to Detect >90% of Lung Cancers Across Different Stages"
+    excerpt: "DELFI blood testing technology indirectly measures how DNA is packaged inside the nucleus by studying the size and amount of cell-free DNA in the circulation."
+    publishedDateTime: 2021-08-23T12:00:00Z
+    webUrl: "https://www.genengnews.com/news/ai-blood-test-shown-to-detect-90-of-lung-cancers-across-different-stages/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 35
+    images:
+      - url: "https://www.genengnews.com/wp-content/uploads/2018/08/Jul15_2016_Getty_94463987_LungCancer6618013724.jpg"
+        width: 500
+        height: 375
+        isCached: true
 
 secured: "M1FzjObLXBtIjGb2oyZRvzY1X1HzwPz7Ay5eTSXhFI1ObyFGuP9q7W3WANDHVNbBeL+N65MN2j6StduB+qB0u8ku3vw6kW+4ufy9mVtOeOsKP079GHPDZpbjjjCwH6uudyXqsj+I06XPsXrE5ss9bLBtpz1YfET12LHXhiyGeF5S7rsHTwUxXpKenV8FM5Cb/SmD5gcVglIAMOOh5GUQtd0duAEA+EyIrWd3Ig+e8aU7OKDZWTTtAZgNWHSOIdkTtirDrn44Pmr1xb7npxyUQqYB9+GbpuQAApOVj1MtStU5JRJLx9o3Orj52lESgfm03NU9L78fxRXxLslniFavf4XIPkWFoyKW9MMD24S5j18=;0+CzKPPrKAMznfFAuQYuhA=="
 ---

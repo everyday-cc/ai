@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-27-artificial-intelligence-predicts-the-shapes-of-molecules-to-come.md",
+      "title": "Artificial intelligence predicts the shapes of molecules to come",
+      "excerpt": "So last fall, after reading that an artificial intelligence lab in London called DeepMind had built a system that automatically predicts the shapes of enzymes and other proteins, McGeehan asked ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.baltimoresun.com/featured/ct-aud-nyt-artificial-intelligence-molecules-20210726-yiby6yp6pvhs3bdchgshe4yvs4-story.html",
+      "originalUrl": "https://www.baltimoresun.com/featured/ct-aud-nyt-artificial-intelligence-molecules-20210726-yiby6yp6pvhs3bdchgshe4yvs4-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.baltimoresun.com/resizer/aLvYYk85TKO1YHRxSofZgVTSHno=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/JA75OJOKHPEDRHNIFD3SAN6FTA.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.baltimoresun.com/featured/ct-aud-nyt-artificial-intelligence-molecules-20210726-yiby6yp6pvhs3bdchgshe4yvs4-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/featured/ct-aud-nyt-artificial-intelligence-molecules-20210726-yiby6yp6pvhs3bdchgshe4yvs4-story.html?outputType=amp",
+      "publishedDateTime": "2021-07-26T22:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Baltimore Sun",
+        "domain": "baltimoresun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-27-generally-capable-agents-emerge-from-open-ended-play.md",
       "title": "Generally capable agents emerge from open-ended play",
       "excerpt": "In new work, algorithmic advances and new training environments lead to agents which exhibit general heuristic behaviours.",
@@ -1410,51 +1453,6 @@
         "Machine Learning",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-05-artificial-intelligence-in-healthcare-intels-ai-tool-screens-patients-for-vision-loss.md",
-      "title": "Artificial Intelligence in Healthcare: Intel’s AI tool screens patients for vision loss",
-      "excerpt": "Sankara Eye Foundation and Leben Care are deploying a cloud-based AI solution Netra.AI, powered by Intel technology, to identify retinal conditions in a short span of time with the accuracy level of h",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/industry/technology/artificial-intelligence-in-healthcare-intels-ai-tool-screens-patients-for-vision-loss/2283014/",
-      "originalUrl": "https://www.financialexpress.com/industry/technology/artificial-intelligence-in-healthcare-intels-ai-tool-screens-patients-for-vision-loss/2283014/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.financialexpress.com/2021/07/1-70.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/industry/technology/artificial-intelligence-in-healthcare-intels-ai-tool-screens-patients-for-vision-loss/2283014/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/artificial-intelligence-in-healthcare-intels-ai-tool-screens-patients-for-vision-loss/2283014/lite/",
-      "publishedDateTime": "2021-07-04T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "Google AI",
-        "AI in Robotics"
       ]
     }
   ],

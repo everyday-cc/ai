@@ -3,10 +3,10 @@ category: news
 title: "Boston Dynamics' Atlas robot failing at parkour is strangely humbling"
 excerpt: "We knew the Boston Dynamics robots could dance, but this is something else. Now, the company's much loved Atlas robot has learned to bust some gnarly parkour moves, backflips and all (above), but there's a pretty sensational blooper reel to go along with it (further down)."
 publishedDateTime: 2021-08-23T13:26:00Z
-originalUrl: "https://www.pcgamer.com/au/boston-dynamics-robots-doing-parkour/"
-webUrl: "https://www.pcgamer.com/au/boston-dynamics-robots-doing-parkour/"
-ampWebUrl: "https://www.pcgamer.com/au/amp/boston-dynamics-robots-doing-parkour/"
-cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/au/amp/boston-dynamics-robots-doing-parkour/"
+originalUrl: "https://www.pcgamer.com/boston-dynamics-robots-doing-parkour/"
+webUrl: "https://www.pcgamer.com/boston-dynamics-robots-doing-parkour/"
+ampWebUrl: "https://www.pcgamer.com/amp/boston-dynamics-robots-doing-parkour/"
+cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/boston-dynamics-robots-doing-parkour/"
 type: article
 quality: 74
 heat: 74
@@ -26,6 +26,6 @@ images:
     height: 675
     isCached: true
 
-secured: "TU5xQmHpoU7u20bjfp+/+fFCo/oCrI/2KEP7jGq1kKHmM0rEa9OcqjbgpuwOaFFPdlbz//AI82MpUvOoaztDKTR9R2tl58AzWYEHcYjXTqwRUtcx2qqc5tidTxji2aWyaxNmnCp+1EKUHAa8DILVm/9al7B5uuWcJ5RN8iiEuFh00+VmN1zXSbh3e/1MkjRde+mvOFFAC/cNOhyJRMwMNYHaTx1QxW4lSPCiUhY3qWW8/M42mAUGaqVL3ce9kLPdZJnbwSuZfPMC8VfJReljocI+SvIveD/B6WhQGiZtm1Zf1dUoo0Lq3i6Tb1cZs1M1WOl6JupfgjBBW/qztQmSXhAEWfCQTr84PYx3rrz2joY=;U7T0wjT35XSOls/j+RZy4g=="
+secured: "zF12rzbW4opVsAfLJMZq13pFe0UmQZ2bfI0CpWUPI5BpurvnKuPF9hdl3V8b0z08YT1b33WW3UGZPsgYare12NZBa2jrXEdQkxyEvlPR8wBI6g7hUdlA/cnaSTjsUgv1vn+l2928ZjRZzvVoWUf8RjKrYDc0kKJb+TRd+tYOPoJunHmdiBqPXRh6ZveH0BbKrycVshZnOpy6IaWrlkGdtWuL+I8qf112zqDjV8WeYvOorlCuLa1NWi8q3W4XRZi4A5JBKzNnJ0CB5BkaTKhLwz6ScThTK/QOZnnkIPOKAWmL4N/1hqD7gwDpdamF7pmvjwPiFrb/fAIMpMPxeFEmCXY8YNV4OcGp5AI1TjIGk2Y=;ow948I9xekZ49dkxNhpOHw=="
 ---
 

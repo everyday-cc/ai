@@ -24,19 +24,6 @@ images:
     height: 420
     isCached: true
 
-related:
-  - title: "Two Senators Accuse Tesla Of Misleading Customers With Self-Driving Features, Request FTC Probe"
-    excerpt: "Senators Richard Blumenthal and Edward J. Markey have sent a letter to the Chair of the Federal Trade Commission, Lina Khan, asking the organization to investigate Tesla for what they allege are deceptive business practices."
-    publishedDateTime: 2021-08-18T21:29:00Z
-    webUrl: "https://www.carscoops.com/2021/08/two-senators-accuse-tesla-of-misleading-customers-with-self-driving-features-request-ftc-probe/"
-    ampWebUrl: "https://www.carscoops.com/2021/08/two-senators-accuse-tesla-of-misleading-customers-with-self-driving-features-request-ftc-probe/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/08/two-senators-accuse-tesla-of-misleading-customers-with-self-driving-features-request-ftc-probe/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 27
-
 secured: "/CC+isTpGlCpiKO4qMhzcqmB0p7hNoqvk8YzhqFIWGIg0nRyb5swd0q0E6HVNkQpT3T39OiUFhAYeGlEnVzwBbjnaciNvFMtJ0p23kGdYnWXpi1ZoZVsq8sh66Ijb6F3KGAlRyzPM1lfIpDkYGv44HaoCkLcXUR2YNpzxty+gD3q5onwGfPUxZsKlHdtMoeK2FPygl/ZYTqlfX0+hY8zFMPlLBrA9tV/dx9rQzHHCkHvgoIrnlndL3uKRDNFuj6NLxURelY1YH/TYxyvUT2bdunyL6+xeDToNfDR/s4JFeMpKzKC8tpoFXGN4/A5/FR7qLw93t8q+hac7/BosN/XszH5Jubtvsl4cEROelbNdz0BxQ89ramdzGzFh95U7NZfnjgXCWH2BD3NZ5DjevnWDJXS1CNwBttwQa6bvssW9JbqXfkvkhFLBke6qi6g89sZsDap8XdoddRQBS+QIn/GdrGpbaWLstEq6xvLMEfzFUGF20PKdoIIkD3/ofT7mE35lAsb0bZwExa6GN/OXv7u0A==;pedSRud4VfrOzuois9X5Ug=="
 ---
 

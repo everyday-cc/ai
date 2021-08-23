@@ -118,6 +118,22 @@ related:
         width: 800
         height: 488
         isCached: true
+  - title: "Smart Education and Learning Market Size, Key Player Revenue, SWOT, PEST & Porter’s Analysis For 2020–2027"
+    excerpt: "The global Smart Education And Learning Market is forecast to reach USD 1 047 75 Billion by 2026 according to a new report by Smart education can also be summed up as the application of smart devices"
+    publishedDateTime: 2021-08-23T15:23:00Z
+    webUrl: "https://www.openpr.com/news/2364222/smart-education-and-learning-market-size-key-player-revenue"
+    ampWebUrl: "https://www.openpr.com/amp/2364222/smart-education-and-learning-market-size-key-player-revenue"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2364222/smart-education-and-learning-market-size-key-player-revenue"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 43
+    images:
+      - url: "https://cdn.openpr.com/U/8/U823660206_g.jpg"
+        width: 750
+        height: 350
+        isCached: true
   - title: "Automatic Speech Recognition (ASR) Software Market Size, Trends, SWOT, PEST, Porter’s Analysis, For 2020–2027"
     excerpt: "The Global Automatic Speech Recognition ASR Software Market is witnessing a remarkable growth owing to an increase in the demands for the products and a tremendous shift in consumer preferences The high demand is concentrated in the European and North"
     publishedDateTime: 2021-08-19T15:35:00Z
@@ -182,6 +198,17 @@ related:
         width: 800
         height: 407
         isCached: true
+  - title: "Artificial Intelligence Market Share Forecast to Witness Considerable Growth from 2020 To 2030"
+    excerpt: "Artificial Intelligence Market Introduction Transparency Market Research delivers key insights on the global artificial intelligence market In terms of revenue the global artificial intelligence market is estimated to expand at a CAGR of 29 during the forecast period owing to"
+    publishedDateTime: 2021-08-23T14:41:00Z
+    webUrl: "https://www.openpr.com/news/2364154/artificial-intelligence-market-share-forecast-to-witness"
+    ampWebUrl: "https://www.openpr.com/amp/2364154/artificial-intelligence-market-share-forecast-to-witness"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2364154/artificial-intelligence-market-share-forecast-to-witness"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 29
   - title: "AI Infrastructure Sales Size 2021 by Product, Revenue, price, Industry Share, Growth Opportunity and Forecast to 2026 Research Report by MSR"
     excerpt: "AI Infrastructure Sales Size 2021 by Product, Revenue, Price, Industry Share, Growth Opportunity and Forecast to 2026 Research Report by MSR"
     publishedDateTime: 2021-08-19T03:27:00Z

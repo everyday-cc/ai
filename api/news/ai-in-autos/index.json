@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-23-seeking-early-signals-of-dementia-in-driving-and-credit-scores.md",
+      "title": "Seeking Early Signals of Dementia in Driving and Credit Scores",
+      "excerpt": "The pathologies underlying brain decline can begin years before symptoms emerge. Can everyday behavior provide warning?",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/08/23/health/dementia-behavior-alzheimers.html",
+      "originalUrl": "https://www.nytimes.com/2021/08/23/health/dementia-behavior-alzheimers.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/08/24/science/24dementia-span/24dementia-span-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/08/23/health/dementia-behavior-alzheimers.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/23/health/dementia-behavior-alzheimers.amp.html",
+      "publishedDateTime": "2021-08-23T08:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-23-the-station-birds-improving-scooter-nomics-breaking-down-tesla-ai-day-and-the-nuro-ec-1.md",
       "title": "The Station: Bird’s improving scooter-nomics, breaking down Tesla AI day and the Nuro EC-1",
       "excerpt": "The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every weekend in your inbox. Hello readers: Welcome to The Station, your central hub for all past,",
@@ -319,7 +371,7 @@
       "originalUrl": "https://www.cnet.com/news/elon-musk-unveils-tesla-bot-a-humanoid-robot-utilizing-vehicle-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1001,
+      "heat": 991,
       "tags": null,
       "images": [
         {
@@ -615,7 +667,7 @@
       "originalUrl": "https://interestingengineering.com/baidu-just-launched-a-robocar-prototype-with-its-new-ai-chip",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -659,7 +711,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/19/city-leaders-heres-why-urban-tourism-could-skyrocket-due-to-ai-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -860,7 +912,7 @@
       "originalUrl": "https://newatlas.com/automotive/waymo-dedicated-texas-hub-self-driving-trucks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1423,49 +1475,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-15-gridlock-solutions-envisioned-with-driverless-cars-flying-taxis-and-delivery-drones.md",
-      "title": "Gridlock solutions envisioned with driverless cars, flying taxis and delivery drones",
-      "excerpt": "“The challenge is that AV and AI [artificial intelligence] is complicated to implement in urban environments,” said Bernard Schmidt of the authority’s AV division. “There is human bias in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.miamiherald.com/news/local/community/miami-dade/article237643954.html",
-      "originalUrl": "https://www.miamiherald.com/news/local/community/miami-dade/article237643954.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/d8c13d6b-7856-494e-9971-e37ddc10c652/c3add766-c8dc-42cf-9b32-f380f6083365/1280x720/match/image.jpg",
-          "width": 1080,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.miamiherald.com/news/local/community/miami-dade/article237643954.html",
-      "cdnAmpWebUrl": "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/local/community/miami-dade/article237643954.html",
-      "publishedDateTime": "2021-08-15T05:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Miami Herald",
-        "domain": "miamiherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

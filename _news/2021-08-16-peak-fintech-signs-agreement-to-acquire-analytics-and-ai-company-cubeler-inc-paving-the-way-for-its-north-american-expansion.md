@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Peak Fintech Signs Agreement to Acquire Analytics and AI Company Cubeler Inc., Paving the Way for Its North American Expansion"
-excerpt: "PRNewswire/ - Peak Fintech Group Inc. (CSE: PKK) (OTCQX: PKKFF) ('Peak' or the 'Company'), an innovative Fintech service"
-publishedDateTime: 2021-08-16T14:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/peak-fintech-signs-agreement-to-acquire-analytics-and-ai-company-cubeler-inc-paving-the-way-for-its-north-american-expansion-1030734030"
-webUrl: "https://markets.businessinsider.com/news/stocks/peak-fintech-signs-agreement-to-acquire-analytics-and-ai-company-cubeler-inc-paving-the-way-for-its-north-american-expansion-1030734030"
+excerpt: "CNW Telbec/ - Peak Fintech Group Inc. (CSE: PKK) (OTCQX: PKKFF) ('Peak' or the 'Company'), an innovative Fintech service"
+publishedDateTime: 2021-08-16T12:17:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/peak-fintech-signs-agreement-to-acquire-analytics-and-ai-company-cubeler-inc-paving-the-way-for-its-north-american-expansion-1030734071"
+webUrl: "https://markets.businessinsider.com/news/stocks/peak-fintech-signs-agreement-to-acquire-analytics-and-ai-company-cubeler-inc-paving-the-way-for-its-north-american-expansion-1030734071"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 235
     isCached: true
 
-secured: "nvd7seefyCW6WTh51DOe8WDNNkDIVN3dOEVukAGTYJfV6nM1iPWrF6nx2tUg3ol1Fh3AisEsRBoe5T0gdWtc4+uaFu3JgKCLyBc7nAkclMkD5B67SeEQTEF97CW4P8aQRWcQhDNtpS2Dq+JAveXS32SbUHx0HwFkpVuhipTBg5yqtar9KymOJjun5aZQYHqcKavy8x1wUSZpKo1mZiuxspNngtfJQB9zxlmXSKkR00VwaqWaICIGywPCb4Kg2B/Hn91O56LVO2ofGFkDEKFG+lMBWsyy3F0uNAE8PDkf60FXUAU8IabDnnImRbuRkcVfnAogO2+6tHtpySvmsMHNadn7xmAHhs1ks9vqdkNMSUs=;XjEc2LsFhyIYEViUFu5RxQ=="
+secured: "+LxemEkwVCahmLObGoFnwVpzpokawY54R/0N4uvJBkv/aC265xacfi918cqeqh/xLHsGsXDvxLfBrrUeCglAY/s8Wg6KzxgRItoYp9QnXpL1M4DSq6iREXQRF31e6ciV0FPDrjDd7ruSBIjJkafkMVIkUw/jntQ/OVwPzUeln0ju5s57wE21mT3gpkMKD2WR7iY93Y3ww67tGZieICJp08ZfzAXn48nsAhCTBsSnLpbnGSPto2GwlZ6AUXTh452JJP3ZF5azBjSJ+QGSiAZ59AAWNGTD+e54iwL6/q/x1O7cBrhm0LmMF0ez6gu6lnGVZ66ng2ag/iInyHO8agaygR2vdRbnW/7z0+eUjCCDh0U=;O1Gfzfv2kM/pUUEI5qIpJQ=="
 ---
 

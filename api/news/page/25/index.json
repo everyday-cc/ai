@@ -2,6 +2,172 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-08-04-hong-leong-bank-seeks-digital-disruptors-across-southeast-asia-to-find-esg-focused-innovative-solutions-for-banking-and-financial-services.md",
+      "title": "Hong Leong Bank Seeks Digital Disruptors Across Southeast Asia to Find ESG-Focused Innovative Solutions for Banking and Financial Services",
+      "excerpt": "Hong Leong Bank (\"HLB\" or the \"Bank\") is calling all budding disruptors to join its 'Can You Hack It' Virtual Hackathon ASEAN Edition 2021 to co-create Innovative solutions focused on ESG. This virtual hackathon themed 'Environmental,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-hong-leong-bank-seeks-digital-disruptors-across-southeast-/2021/08/04/9424444.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-hong-leong-bank-seeks-digital-disruptors-across-southeast-/2021/08/04/9424444.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-momentum-builds-in-ai-analytics-platforms-and-robotics.md",
+      "title": "Momentum builds in AI analytics platforms and robotics",
+      "excerpt": "Funding in AI and robotics technologies is spiralling – covering everything from AI analytics platforms to autonomous sites and self-driving trucks",
+      "sourceUrl": null,
+      "webUrl": "https://constructionglobal.com/digital-construction/momentum-builds-ai-analytics-platforms-and-robotics?page=48",
+      "originalUrl": "https://constructionglobal.com/digital-construction/momentum-builds-ai-analytics-platforms-and-robotics?page=48",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://constructionglobal.com/sites/default/files/styles/og_image/public/image/GettyImages-1275786906_0.jpg.png?itok=NssVRdFF",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Construction Global",
+        "domain": "constructionglobal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-object-detection-with-tensorflow.md",
+      "title": "Object Detection, With TensorFlow",
+      "excerpt": "One of the tools that can be put to work in object recognition is an open source library called TensorFlow, which [Evan] aka [Edje Electronics] has put to work for exactly this purpose.",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2018/07/31/object-detection-with-tensorflow/",
+      "originalUrl": "https://hackaday.com/2018/07/31/object-detection-with-tensorflow/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2018/07/main3.png",
+          "width": 877,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-secure-an-azure-machine-learning-training-environment-with-virtual-networks.md",
+      "title": "Secure an Azure Machine Learning training environment with virtual networks",
+      "excerpt": "In this article, you learn how to secure training environments with a virtual network in Azure Machine Learning. [!TIP] This article is part of a series on securing an Azure Machine Learning workflow. See the other articles in this series: Read the Network ...",
+      "sourceUrl": null,
+      "webUrl": "https://github.com/MicrosoftDocs/azure-docs/blob/master/articles/machine-learning/how-to-secure-training-vnet.md",
+      "originalUrl": "https://github.com/MicrosoftDocs/azure-docs/blob/master/articles/machine-learning/how-to-secure-training-vnet.md",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://opengraph.githubassets.com/d945cee83f1595d265b7e6ee275e50885eb7b99925589b4b493f0b30b2ff23e5/MicrosoftDocs/azure-docs",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GitHub",
+        "domain": "github.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-08-04-ebay-roborocks-smart-e4-robot-vacuummop-returns-to-low-of-150-refurb-orig-300.md",
       "title": "eBay – Roborock’s smart E4 Robot Vacuum/Mop returns to low of $150 (Refurb, Orig. $300)",
       "excerpt": "Roborock’s official eBay storefront is offering its E4 Robot Vacuum + Mop for $149.99 shipped in refurbished condition. Today’s deal knocks a full 50% off its normal going rate and is a match for the lowest price that we’ve tracked.",
@@ -946,204 +1112,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-hootsuite-acquires-conversational-ai-startup-heyday.md",
-      "title": "Hootsuite acquires conversational AI startup Heyday",
-      "excerpt": "Hootsuite has acquired customer messaging platform Heyday for $60 million. A pioneer in social media management, Hootsuite helps businesses schedule posts across multiple social networks in just a few clicks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/marketing-comms/social-media/360462/hootsuite-acquires-conversational-ai-startup-heyday",
-      "originalUrl": "https://www.itpro.co.uk/marketing-comms/social-media/360462/hootsuite-acquires-conversational-ai-startup-heyday",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1628004380/itpro/shutterstock_hootsuite_splash_screen.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/marketing-comms/social-media/360462/hootsuite-acquires-conversational-ai-startup-heyday?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/marketing-comms/social-media/360462/hootsuite-acquires-conversational-ai-startup-heyday?amp",
-      "publishedDateTime": "2021-08-03T08:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-local-motors-selects-alwaysai-as-its-computer-vision-partner-for-automated-accessibility-features-and-enhanced-customer-experience-on-olli-20.md",
-      "title": "Local Motors selects alwaysAI® as its Computer Vision partner for automated accessibility features and enhanced customer experience on Olli 2.0",
-      "excerpt": "Local Motors and computer vision platform leader, alwaysAI®, have announced a strategic partnership to bring advanced computer vision applications to Olli 2.0, Local",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/local-motors-selects-alwaysai-as-its-computer-vision-partner-for-automated-accessibility-features-and-enhanced/article_549d137d-1f91-5f9a-92ad-6429b0b9e61d.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/local-motors-selects-alwaysai-as-its-computer-vision-partner-for-automated-accessibility-features-and-enhanced/article_549d137d-1f91-5f9a-92ad-6429b0b9e61d.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/6a/46afc4f1-7540-5287-830b-94b83d6fd9d5/61095afc11485.image.jpg?resize=945%2C630",
-          "width": 945,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-03T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-traceable-ai-releases-the-industrys-first-free-api-security-solution.md",
-      "title": "Traceable AI releases the industry's first free API security solution",
-      "excerpt": "Traceable AI, the leader in API security protection, today announced the introduction of the industry's first free API security solution. Unique in its offering, Traceable's free API security solution enables developers and security operations teams to get started improving the API security of their applications without the need for budgetary approval.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/traceable-ai-releases-the-industry-s-first-free-api-security-solution-1030684022",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/traceable-ai-releases-the-industry-s-first-free-api-security-solution-1030684022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1437019/5f0036d9594ffa9bb64d2462_traceable_vertical_lightbg_2x_Logo.jpg",
-          "width": 400,
-          "height": 244,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-03T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-what-a-career-in-ai-has-to-offer-in-the-2020s.md",
-      "title": "What a career in AI has to offer in the 2020s",
-      "excerpt": "It found that 39% of people thought the path to AI careers was unclear, and one in eight (12%) had no idea about it. Women were more likely than men to lack clarity, as were younger people and undergraduate students versus those studying for master’s and PhDs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/360393/what-a-career-in-ai-has-to-offer-in-the-2020s",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/360393/what-a-career-in-ai-has-to-offer-in-the-2020s",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1627471083/AI_artificial_intelligence_concept.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/360393/what-a-career-in-ai-has-to-offer-in-the-2020s?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/360393/what-a-career-in-ai-has-to-offer-in-the-2020s?amp",
-      "publishedDateTime": "2021-08-03T07:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

@@ -1,18 +1,18 @@
 ---
 category: news
 title: "WPP Acquires Leading AI Technology Company Satalia"
-excerpt: "WPP (NYSE: WPP) today announces that it has acquired Satalia, a technology company offering market-leading AI solutions for clients. Satalia is a glob"
-publishedDateTime: 2021-08-23T12:30:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210823005340/en/WPP-Acquires-Leading-AI-Technology-Company-Satalia"
-webUrl: "https://www.businesswire.com/news/home/20210823005340/en/WPP-Acquires-Leading-AI-Technology-Company-Satalia"
+excerpt: "WPP (NYSE: WPP) today announces that it has acquired Satalia, a technology company offering market-leading AI solutions for clients. Satalia is a global leader in enterprise AI and one of the UK's fastest-growing tech companies,"
+publishedDateTime: 2021-08-23T12:36:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-wpp-acquires-leading-ai-technology-company-satalia-/2021/08/23/9435355.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-wpp-acquires-leading-ai-technology-company-satalia-/2021/08/23/9435355.htm"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Ethics
@@ -133,6 +133,6 @@ related:
       domain: lse.co.uk
     quality: 38
 
-secured: "3q1mVOEOdjfEI+iW4L3oeWpb0cMXAumTJIabVV2DruRdQvxntPsZouqIUpM92j/nz0hywDhtraj7UthRT6T8RW9rvHgA5WwXRrQuypkrO3L/qda9LmRaMgPJvzHRIh+KgNY9egQ1rEZChaPwWjFcXs74v+sJmI/ZcwL+RiDkG5iiy2kupM7t6e9f4NQbHSCyT+mzly/cfjWCK3RsE0tVTcF4AMWDEfwHwLVS4dIIZluzNuqwCoz00KMNgPUdfVtXqzula9ml8U5f7qAhWiSQWI9cgYsxd0MW1dXTwJlpFYVkXT/Bw+ZnoAgR8Hffki3k9C4cfnQIkqEVozjyKmuUxSVvXu3Yhc82m/NiKtzSFEI=;D4kDSJ69xJBEobTfqS2p7Q=="
+secured: "vCTtutKNpM/VSrh3ItmG2AhDrMbMKbVgmFpawgdGatpemsb3Ft3vLQuATmopmlEBgmRPsAC4R0okdmhfFHSo9ymw9JxML6TfxEAk9dQK6lMhATbnly/bIX3rbDV8j0EjiUeRkI/IJTQIamWNKRe9BVSvoAIyz6YFiecR42+1U2OSz0FAOA939iyGfdsy4gDp7DF43zV5lwUUmwcIRHvhTLtKCO/doL5pMoA7Mi+7MGvEociGQUe221Qmykj5D7KhT2tfCI7lAfIv/HQQ+sxPkampqGy2xs7PhwOp1AQeSPsxTGKE/QvhKtHz6HhM4KEORJPBPjx+UDyAqNlAsdYbfUvvFB1bxN1Ixq3Osmgk9hA=;mobCMWE/fhLb70Rngi9+KQ=="
 ---
 

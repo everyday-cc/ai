@@ -125,15 +125,15 @@ related:
       domain: lse.co.uk
     quality: 38
   - title: "WPP Acquires Leading AI Technology Company Satalia"
-    excerpt: "WPP (NYSE: WPP) today announces that it has acquired Satalia, a technology company offering market-leading AI solutions for clients. Satalia is a glob"
-    publishedDateTime: 2021-08-23T12:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210823005340/en/WPP-Acquires-Leading-AI-Technology-Company-Satalia"
+    excerpt: "WPP (NYSE: WPP) today announces that it has acquired Satalia, a technology company offering market-leading AI solutions for clients. Satalia is a global leader in enterprise AI and one of the UK's fastest-growing tech companies,"
+    publishedDateTime: 2021-08-23T12:36:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-wpp-acquires-leading-ai-technology-company-satalia-/2021/08/23/9435355.htm"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 19
 
-secured: "m8+JpVl8zAIhz2D+pSt3QE5fCc0OLO/R44Tg7x6elDw4oo6czXBoF8qD/2CsSCvSIPdSduHs0MxgHzxogJqxqkKnvlfwzm7fv+RD4GxwMqmjQQH01MrXIVc1dSdjPo0YEOcq9KF2jyDykEqsoOfn3drqDfOJJ99KvKhHDTDtKfpHRAyfQM6TRLVTVmLwWBZdRVY7iaNHNhQvWl87y4DZParqa7YnxItrsSjxxF0OIXRb3UO0GaE8fEFkA4yV2wqUeFCBLKzjXs6dhTp4e9H9AZ5njIKCpStPtlD79+7o/Ma/q+en6CyG0Hub15HZ+k6YD2JiySjn1kXwYsnvvm19ryOWlJsyRKL2qWAbaCebrf8=;FeBoRlLhC+tTleAgkrYAJg=="
+secured: "c8Jo2OzgRLPlj/5asTQLuj3unYUaajSD/DUve14m9nKsubRfn1Wwb8fp3P1MtyXLGfamQZ7aB65JxLW555B9WpSiIZ5cxlLwG0VjRldPS8+w0wQrfH2J3s4ZSot3R9uO7cdBmLtAYO72MDaFbh8RfqBdlguBbiwsr0Pv8i6A4PpFP1I5veZyFnx7I5cKxrDLPUZgmfhxj0//9sDxMk1zutuJT3nYRGypuLWRdEz2TfVPJEwlU2D2dHyLGMI2zIBptMpwLgGBzwXt19niN3wO103rCPNzEU+QnnvnkjbBAMRywDV0+XvkEh7gYXLHQift9Ylv2K+TWKN3PGd7HagSJK0VYEqEVuPU0OKq37UxUrdcawsqJPbTdNuLlL/KMiVL2397LnOs4rES36jMY5IdhHX8UieT21Va79MElSnQEnkIsssnb5N3WCsgOhnBXWHFB9CEgN+U6oidL24oPtKnW1q3OAbdSAc07FUO59VejbhlvyNBZ/afhYI89SLjj6hCCnaps1GMGye6kMFofeSeYw==;2eRrPUjVlcixyXD7TjyfPQ=="
 ---
 

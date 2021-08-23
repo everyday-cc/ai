@@ -2,6 +2,195 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-08-17-deep-6-ai-announces-release-of-trial-recommender.md",
+      "title": "Deep 6 AI Announces Release of Trial Recommender",
+      "excerpt": "Deep 6 AI today announced the addition of Trial Recommender to its industry-leading artificial intelligence (AI)-driven clinical trial acceleration platform. Addressing a major gap in traditional patient recruitment,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-health-bbc477d60e474a5aa011a0d5bbf54fd1",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-health-bbc477d60e474a5aa011a0d5bbf54fd1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-17T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-happify-health-and-higi-partner-to-create-an-ai-driven-patient-engagement-ecosystem-that-makes-value-based-healthcare-accessible-worldwide.md",
+      "title": "Happify Health and Higi Partner to Create an AI-Driven Patient-Engagement Ecosystem that Makes Value-Based Healthcare Accessible Worldwide",
+      "excerpt": "Higi and Happify Health announced plans to build a connected patient ecosystem that uses Happify Health’s AI and digital therapeutics to deliver personalized care through Higi’s omni-channel distribution network.",
+      "sourceUrl": null,
+      "webUrl": "https://www.valdostadailytimes.com/news/business/happify-health-and-higi-partner-to-create-an-ai-driven-patient-engagement-ecosystem-that-makes/article_8a8bd147-d013-51c7-91b0-810767a7f648.html",
+      "originalUrl": "https://www.valdostadailytimes.com/news/business/happify-health-and-higi-partner-to-create-an-ai-driven-patient-engagement-ecosystem-that-makes/article_8a8bd147-d013-51c7-91b0-810767a7f648.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg",
+          "width": 640,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-17T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Valdosta Daily Times",
+        "domain": "valdostadailytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-chinese-ai-start-up-sensetime-hires-hsbc-as-it-pursues-us2-billion-hong-kong-ipo.md",
+      "title": "Chinese AI start-up SenseTime hires HSBC as it pursues US$2 billion Hong Kong IPO",
+      "excerpt": "Hong Kong that could raise at least US$2 billion, according to a person familiar with the matter. software, has also tapped China International Capital Corp (CICC) for the offering and could file paperwork for a Hong Kong listing in the next few weeks,",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/business/banking-finance/article/3145370/chinese-ai-start-sensetime-hires-hsbc-it-pursues-us2",
+      "originalUrl": "https://www.scmp.com/business/banking-finance/article/3145370/chinese-ai-start-sensetime-hires-hsbc-it-pursues-us2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 222,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/08/17/ae232f2c-ff40-11eb-83d9-2f907cc4e7e5_image_hires_193233.jpg?itok=2PNWLYvV&v=1629199963",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/business/banking-finance/article/3145370/chinese-ai-start-sensetime-hires-hsbc-it-pursues-us2",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/banking-finance/article/3145370/chinese-ai-start-sensetime-hires-hsbc-it-pursues-us2",
+      "publishedDateTime": "2021-08-17T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-this-startup-just-raised-8-million-to-connect-people-to-virtual-support-groups.md",
+      "title": "This Startup Just Raised $8 Million To Connect People To Virtual Support Groups",
+      "excerpt": "The company created an app that provides online support groups to help people struggling with mental and physical health challenges. By using AI technology, Circles asks users a series of questions to match individuals in groups with people that are going through similar issues in life such as divorce,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jairhilburn/2021/08/17/this-startup-just-raised-8-million-to-connect-people-to-virtual-support-groups/",
+      "originalUrl": "https://www.forbes.com/sites/jairhilburn/2021/08/17/this-startup-just-raised-8-million-to-connect-people-to-virtual-support-groups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611ae4a907a8e5a82637481d%2F0x0.jpg",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jairhilburn/2021/08/17/this-startup-just-raised-8-million-to-connect-people-to-virtual-support-groups/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jairhilburn/2021/08/17/this-startup-just-raised-8-million-to-connect-people-to-virtual-support-groups/amp/",
+      "publishedDateTime": "2021-08-17T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-17-your-smart-city-is-boring-how-to-preserve-its-soul-when-the-ai-sensors-move-in.md",
       "title": "Your Smart City Is Boring: How to Preserve Its Soul When the AI Sensors Move In",
       "excerpt": "AI-based smart cities can help keep residents safe, but they risk turning unpredictable, vibrant urban spaces into boring landscapes of sensors and push notifications. Smart city researcher Annelien Smets wants to prevent that.",
@@ -988,195 +1177,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-china-ev-maker-warns-terms-like-self-driving-may-mislead-people.md",
-      "title": "China EV Maker Warns Terms Like Self Driving May Mislead People",
-      "excerpt": "The Chief Executive Officer of Chinese electric-car maker Li Auto Inc. has said the industry should limit using the terms autonomous and self driving, considering no automobile today is truly capable of that and its common usage is becoming misleading for consumers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-08-17/china-ev-maker-warns-terms-like-self-driving-may-mislead-people",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-08-17/china-ev-maker-warns-terms-like-self-driving-may-mislead-people",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4mJTad9d9rA/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-16T23:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-at-2473-cagr-3d-sensor-market-size-share-is-expected-to-exhibit-us-722175-million-by-2025.md",
-      "title": "At 24.73% CAGR, 3D Sensor Market Size, Share is Expected to Exhibit US$ 7221.75 Million by 2025",
-      "excerpt": "Global 3D Sensor Market is valued at USD 1537.61 Million in 2018 and expected to reach USD 7221.75 Million by 2025 with the CAGR of 24.73% over the forecast period. Get Sample Report:@  3D sensors enable a machine to understand the size shape and distance of an object within its field of view.",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/at-24-73-cagr-3d-sensor-market-size-share-is-expected-to-exhibit-us-7221-75-million-by-2025/",
-      "originalUrl": "https://manometcurrent.com/at-24-73-cagr-3d-sensor-market-size-share-is-expected-to-exhibit-us-7221-75-million-by-2025/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/08/global-separators-monitoring-systems-market-390x220.png",
-          "width": 390,
-          "height": 220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/at-24-73-cagr-3d-sensor-market-size-share-is-expected-to-exhibit-us-7221-75-million-by-2025/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/at-24-73-cagr-3d-sensor-market-size-share-is-expected-to-exhibit-us-7221-75-million-by-2025/?amp=1",
-      "publishedDateTime": "2021-08-16T22:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-knee-replacement-robot-does-custom-implants.md",
-      "title": "Knee replacement robot does custom implants",
-      "excerpt": "Personalized medicine is transforming treatment, but joint replacement is still a largely off-the-shelf affair. A startup combining artificial intelligence, robotics, and 3D printing wants to change that,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/knee-replacement-robot-does-custom-implants/",
-      "originalUrl": "https://www.zdnet.com/article/knee-replacement-robot-does-custom-implants/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/08/17/3affa5e0-7748-4ba8-8069-cda35717b3e0/knee-replacement-monogram.jpg",
-          "width": 1559,
-          "height": 991,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/knee-replacement-robot-does-custom-implants/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/knee-replacement-robot-does-custom-implants/",
-      "publishedDateTime": "2021-08-16T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-iim-ahmedabad-launches-new-centre-for-data-science-and-artificial-intelligence.md",
-      "title": "IIM-Ahmedabad launches new centre for data science and artificial intelligence",
-      "excerpt": "The centre will also take up challenging consulting projects of considerable practical importance in collaboration with industry players.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/education/iim-ahmedabad-launches-new-centre-for-data-science-and-artificial-intelligence-7456342/",
-      "originalUrl": "https://indianexpress.com/article/education/iim-ahmedabad-launches-new-centre-for-data-science-and-artificial-intelligence-7456342/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2020/12/IIM-Ahmedabad.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/education/iim-ahmedabad-launches-new-centre-for-data-science-and-artificial-intelligence-7456342/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/education/iim-ahmedabad-launches-new-centre-for-data-science-and-artificial-intelligence-7456342/lite/",
-      "publishedDateTime": "2021-08-16T20:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

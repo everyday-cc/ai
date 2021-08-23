@@ -7,7 +7,7 @@ originalUrl: "https://www.ept.ca/2021/08/open-source-face-recognition-applicatio
 webUrl: "https://www.ept.ca/2021/08/open-source-face-recognition-application-adds-features/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 300
     height: 400
     isCached: true
+
+related:
+  - title: "Why emotion recognition AI can’t reveal how we feel"
+    excerpt: "Thomas covers AI in all its iterations. Likes Werner Herzog films and Arsenal FC. Writer at Neural by TNW — Thomas covers AI in all its iterations. Likes Werner Herzog films and Arsenal FC. They found that people use different facial movements to communicate similar emotions."
+    publishedDateTime: 2021-08-23T14:30:00Z
+    webUrl: "https://thenextweb.com/news/emotion-recognition-ai-cant-determine-how-people-feel"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 69
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2FUntitled-design-12.jpg&signature=9484b0a25417f9c6eef95bb74ca53bfe"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "qKsX5fRddXTwYEQNmoYEhdOOLO1H1WpFEogcq1+YlibCxbj9HaPcffcSbgnFyVNZAkn1K2v6yyIACsuUKbQX0ulqKQc88F2HGqnS1xAAAP0R8KGFhtFglUh0PWCMAmEPDkXw3BF+Dby7C3qJvoTJRuKtr82/bvGtAZsXVBaYEkBbtshpVVA/gkpq2sNcDC+//1wGUH92y7iKe5+Ha49Qv4rHdT3qJVFgtfFpniYMu1VcN1jw1GcV/KZV6d3t//zZKZWj4F/zLamMdNG7rHlhs6+ETDQh+4ZRNAms8qiEeZXzNEL4EDbuaEsbUvIeJFkf39ZcwlswfZaJSz1NxNc6Rp4fXdDf6kPoFC5P8ARN1Bs=;2NaNJkgI92m2k3cQhRSmrQ=="
 ---

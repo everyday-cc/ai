@@ -73,15 +73,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "VVDN Technologies joins NVIDIA Partner Network to expand opportunities for advanced AI-Enabled Camera & Vision Applications"
-    excerpt: "VVDN Technologies, a premier electronic product engineering and manufacturing company, announced that it has joined the NVIDIA Partner Network (NPN) as a provider of AI-enabled computer vision solutions powered by the NVIDIA Jetson edge AI platform."
-    publishedDateTime: 2021-08-18T22:45:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20210818/3805015.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
 
 secured: "QT5EAi0tazjHtV3Y/HypinAwOL5A6SFw9gf5yxBtxHX/JjfuIk1lNA9EVgQbSdc+41x9UNnLLGIvYSYB7it6dj2xAZyPdPO9LAnhtUiIdL99u6lI4EcbORdCueuC6GMWRwtBomo0fb3IXwgT4ZlzJyxhVKPJ9tzLDg46mi2XR52YGur+/ZYnk25Otp7BDPXLWgnTI8pA1EZ8tfZsi0YVs0Y5RLniNGnzjfSlMmgQFyvuHeaKu4pf/mBmhpBPAZ0fxQNJZ+wxQjD3raRJl1vQxJyfltdLmsSZLye9glZ+vDd4MRtUMNMvbhPkEVOjjPUik7PeXykGFOc3LAaIsHrRUV9wodJlc6vTzgL4Fb9whJAXg6A6DvgQeDLz5vYJqoWDz0HzW1niPwnXieV5XdkrXhkW3A5kEqRzJMSbxQUszV/HrF0Mgf66KqMrRnQDRXqt5OD5seNCbN5QcTOl8+lMs5VK2fKqBoM8LP4RyMkUH68tKxCh2+k4K33NYFVM/5fDmbV1V1duawbq98AYkYZOTg==;L2+cN7VkEycnWfw9u6o6tw=="
 ---

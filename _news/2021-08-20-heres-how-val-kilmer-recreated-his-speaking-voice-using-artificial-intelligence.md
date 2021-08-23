@@ -7,7 +7,7 @@ originalUrl: "https://www.cheatsheet.com/entertainment/val-kilmer-recreated-spea
 webUrl: "https://www.cheatsheet.com/entertainment/val-kilmer-recreated-speaking-voice-using-artificial-intelligence.html/"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 1200
     height: 878
     isCached: true
+
+related:
+  - title: "How AI is used in remote hiring"
+    excerpt: "Hiring and recruitment are no different. Companies are increasingly leveraging AI to make every step on the recruitment journey smarter and more effective. One very impactful derivative of this technology is the advent of emotion AI,"
+    publishedDateTime: 2021-08-23T15:12:00Z
+    webUrl: "https://bloncampus.thehindubusinessline.com/b-learn/how-ai-is-used-in-remote-hiring/article36062276.ece"
+    ampWebUrl: "https://bloncampus.thehindubusinessline.com/b-learn/how-ai-is-used-in-remote-hiring/article36062276.ece/amp/"
+    cdnAmpWebUrl: "https://bloncampus-thehindubusinessline-com.cdn.ampproject.org/c/s/bloncampus.thehindubusinessline.com/b-learn/how-ai-is-used-in-remote-hiring/article36062276.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 57
+    images:
+      - url: "https://bloncampus.thehindubusinessline.com/b-learn/article36062275.ece/ALTERNATES/LANDSCAPE_615/blocAIRecruitmentHiring"
+        width: 615
+        height: 384
+        isCached: true
 
 secured: "eb2SmOgiUGsiVVjo5Ll5L3pGNojaOivGJC5O0WPSTCZPkllbnF3wZC9LKwRSgLdYlzMMUVjVAZLyJXaxtey5l2s0K6h2UJl5f8yS+9j+YOSJolXMwae/oZDnT6JyEY4aX5F0NDkP6cymhpGVsZKqP74YuH27OzN+pUmWpX3a/tOpafcH8X4GIPIWfQwY6L8Y9sIY+lXYO2wT0KCgYucKWhJ9O957qrIMNk+J3cWowZdJcj7BIgPNoEaZlJsOYhNAb01nmhbTX8rQKwg7bJT9EvW2A4vjA3jZxoTTwMn6JvRvA/7ef2qWZIP9yaJTS0tHrARlAXs8co7SfD/QmiCNzc3oHfBWgalp7uYCoV2pzEjO6vSsN0Zjhh9Tx8vucqI34gSmfe1EmIplxqw7Yy8J4cdvcrutcXtuaofPrYF+pb5JsQuhisACDP9clqPs41UuLxuLIVaOiwzrfObHDmfWe3J7aUXbNKxfPtp+pbWepS/i7ex5y2wNLpkyUnbzRfZ1ATv81SY0FO8a7IK+m1Chwg==;C/QktFe6CB6hgWect5wCig=="
 ---

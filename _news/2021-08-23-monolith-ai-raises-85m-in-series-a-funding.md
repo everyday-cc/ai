@@ -1,0 +1,53 @@
+---
+category: news
+title: "Monolith AI Raises £8.5M in Series A Funding"
+excerpt: "Monolith AI, a UK AI engineering software company, raised £8.5M in Series A funding. The round was led by Insight Partners with participation from existing investors Pentech and Touchstone, Alejandro Agag,"
+publishedDateTime: 2021-08-23T14:38:00Z
+originalUrl: "https://www.finsmes.com/2021/08/monolith-ai-raises-8-5m-in-series-a-funding.html"
+webUrl: "https://www.finsmes.com/2021/08/monolith-ai-raises-8-5m-in-series-a-funding.html"
+type: article
+quality: 37
+heat: -1
+published: false
+
+provider:
+  name: finsmes.com
+  domain: finsmes.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://www.finsmes.com/wp-content/uploads/2021/08/2021-Aug-F1-Dashboard-v1.1-1.png"
+    width: 1250
+    height: 768
+    isCached: true
+
+related:
+  - title: "Cresta Welcomes Google Contact Center AI Co-Founder As Market Reaches $26B in Spending"
+    excerpt: "Cresta, the Real-Time Expertise AI provider to the enterprise, today announced the addition of seasoned technologist Ping Wu to its team as vice president of engineering and product. In this role, Wu will bring industry-leading experience building artificial intelligence solutions to the company as it enables Fortune 500 customers from Intuit to Cox Communications to transform contact centers from cost centers into value centers."
+    publishedDateTime: 2021-08-23T15:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/cresta-welcomes-google-contact-center-ai-co-founder-as-market-reaches-26b-in-spending-1030752772"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 41
+  - title: "Improving Creative Quality Could Save Brands Millions in Media Spend, According to CreativeX Research"
+    excerpt: "CreativeX, an AI-powered technology company that enables brands to measure the impact of creative decisions, today released a landmark industry report, \"Insights From"
+    publishedDateTime: 2021-08-23T12:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/improving-creative-quality-could-save-brands-millions-in-media-spend-according-to-creativex-research/article_6938f5e8-5d24-56ae-b602-11a32ea88dd7.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 9
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+
+secured: "/nv0xrSY0djpjZ40RydjdoL0uDwEqrQJj6BN2hy4tkHKlETkfLC5eeDKkTHQZ2GFgSZb1GH9/K1/mCTxpKuoS3gVPzzOYkMvx2/gNgJ1ja09HPvefFJNN29kU/R1hkoJ+5z1R1aptp2mRRINTcsBTVrITljkp7ChGMuUcGlYmt2iD0pR8YkL7XF1eqarxbwsljkpKKcvwpfoHW/Ae+fh4ZHn+aHvzVFf8LWf4Qh+awkRZkEnpuRfWB74IpppQf33t185WRGkYeDIaiEA7HmoCSchBxTC3G0kHMaevbT5QwY6MojIPkzco/F6cW9Gh2YckKX52OKsssplTTWaTB9lsxP+hGvr53UIiUk5M75dK/E=;GtaVygbCMF9C8TJyOVJWiQ=="
+---
+

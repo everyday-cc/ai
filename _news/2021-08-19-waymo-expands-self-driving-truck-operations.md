@@ -55,15 +55,6 @@ related:
         width: 1129
         height: 635
         isCached: true
-  - title: "Waymo building Dallas-Fort Worth hub for hundreds of self-driving trucks"
-    excerpt: "Waymo, the Mountain View-based autonomous truck spinoff of Alphabet Inc., said on Wednesday that it is working on a dedicated trucking hub that covers nine acres in Lancaster, Texas. The site will be able to accommodate hundreds of vehicles and hundreds of personnel,"
-    publishedDateTime: 2021-08-18T21:57:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/08/18/waymo-building-texas-self-driving-truck-hub.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 18
 
 secured: "uJhSeh1XSziPKVs5aciUdOEuaWfYZzBZLucgGi5Nse7vHuRKhGnA4iy/84IHnXy4LFitI/FwaVPaQ6pchSN17KholFjSkEt1NjOgsdjHoZyohtkqROBWCxL8Ugk5JLqW3IGcWWKH/nzrJNWAS7Q0QI190PNKpZx3o/rhOSoBI1dxAPRPa0e6uTVyPc9oiG6b/mXwC63IjRQ6e7yP2yhJDm1x5KaxIzQOuKKXfcSiq2kencp9LdEBs4H1BgDb/RQ5UN4ifQod1V7ZC/hVxihvwJmIX+ZPDwHq2VcV3f5D6KxxAt6uujrRifxXc62gB84zh9VFN7w7j4c4H+fYTYCS09Ewi40UQZ9uvhqYgOUfmmRBBNAIzS5bpJ2XO/wd01Ar//V+vKswC4+mO81ajaOBmaxKj8/cyCSiNWjdpFFzGeCrpMWTV3FBYkz6CMPvnfgGuWbVHavIHYon64PKLB6E3lGuDEly8+zWErb2tcoh8yfZx2za7EbFVU9IGLXTjcxbclD0mk2AQcP0psN9feSaEQ==;nDvd9IdXzsHYrABQiH/6Kw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/automotive/waymo-dedicated-texas-hub-self-drivi
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/waymo-dedicated-texas-hub-self-driving-trucks/?amp=true"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -59,15 +59,6 @@ related:
         width: 752
         height: 423
         isCached: true
-  - title: "Waymo building Dallas-Fort Worth hub for hundreds of self-driving trucks"
-    excerpt: "Waymo, the Mountain View-based autonomous truck spinoff of Alphabet Inc., said on Wednesday that it is working on a dedicated trucking hub that covers nine acres in Lancaster, Texas. The site will be able to accommodate hundreds of vehicles and hundreds of personnel,"
-    publishedDateTime: 2021-08-18T21:57:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/08/18/waymo-building-texas-self-driving-truck-hub.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 18
 
 secured: "aDs0cZBT0iaervhgqmwRP80vu6ke70FP0Sd7zkMO+ui6GEFa3Cc06m228OYyWbxxV0L3EDWBOO0+TfiqZQG0bi2TJ7xhauSNeuyEct4iTd7/m8Zvniq7LRhe71pURty+cBr86DT+pGO3ueVI1wt+xW1pSS53bsBfs902Fc5VrKmdL78v+7A1e3Fz+nohsPeS31HcfeRfuRY5f+Qg32mO/35+5xhoeDO0sEyT0EJs27OrxqC6sIRjmAYZ8S8EOlvlfg6Q8I6CNE7fuE/x7oy7ldxTT8tH1ge/aZQWcvW7syIyezh35O8MaTZBisSjS3eKUbrE9W5blr+m3VMeiMh8lWBqgrsLq8daT+QD24OElB8FURrwjyJaGe84j8oA48nakn6MICeiN74/CtLH38luYfR51qGeY7p9f3roCXBROblxf8s057EjGE/XoogPeYPxTfH6C3oR/UfbDHRoPGn1mundNmy9CRpt1TeePHbmut9tdrTEUBepa0KP0xzapwgopMWdok3Gvyp7MJRWlIaeTQ==;ro49i4Qtg70ZTiNFCWOIiA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://mashable.com/video/how-to-disrupt-surveillance-facial-reco
 webUrl: "https://mashable.com/video/how-to-disrupt-surveillance-facial-recognition-tech"
 type: article
 quality: 66
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Muslims more likely to be targeted by Delhi Police if facial recognition technology is used"
-    excerpt: "Any technological intervention that intensifies policing will aggravate the historical systemic bias, particularly against Muslims living in over-policed areas like Old Delhi or Nizamuddin."
-    publishedDateTime: 2021-08-18T21:18:00Z
-    webUrl: "https://theprint.in/opinion/muslims-more-likely-to-be-targeted-by-delhi-police-if-facial-recognition-technology-is-used/718092/"
-    ampWebUrl: "https://theprint.in/opinion/muslims-more-likely-to-be-targeted-by-delhi-police-if-facial-recognition-technology-is-used/718092/?amp"
-    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/opinion/muslims-more-likely-to-be-targeted-by-delhi-police-if-facial-recognition-technology-is-used/718092/?amp"
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 49
-    images:
-      - url: "https://static.theprint.in/wp-content/uploads/2020/04/Shab-e-Barat.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "AI Technology: A Disrupter to Teaching and Learning"
     excerpt: "The COVID-19 pandemic has changed the game in education globally, with the adoption of e- learning no longer an option but a matter of survival for all educational institutions."
     publishedDateTime: 2021-08-22T23:13:00Z

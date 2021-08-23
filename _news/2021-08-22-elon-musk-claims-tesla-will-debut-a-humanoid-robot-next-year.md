@@ -730,17 +730,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Ahead of Tesla’s ‘AI Day’, Baidu unveils its next-gen AI chip"
-    excerpt: "Ahead of Tesla's 'AI Day', China's largest search engine company Baidu has unveiled its next-generation AI chip for autonomous vehicles."
-    publishedDateTime: 2021-08-18T21:47:00Z
-    webUrl: "https://themarketherald.com.au/ahead-of-teslas-ai-day-baidu-unveils-its-next-gen-ai-chip-2021-08-19/"
-    ampWebUrl: "https://themarketherald.com.au/ahead-of-teslas-ai-day-baidu-unveils-its-next-gen-ai-chip-2021-08-19/amp/"
-    cdnAmpWebUrl: "https://themarketherald-com-au.cdn.ampproject.org/c/s/themarketherald.com.au/ahead-of-teslas-ai-day-baidu-unveils-its-next-gen-ai-chip-2021-08-19/amp/"
-    type: article
-    provider:
-      name: The Market Herald
-      domain: themarketherald.com.au
-    quality: 71
   - title: "Elon Musk claims Tesla will debut a humanoid robot next year"
     excerpt: "Elon Musk showed off his latest project Thursday night: a sleek white and shiny humanoid robot, sized a bit smaller than the average man, engineered to perform \"dangerous, repetitive, boring\" tasks – sometime in the future."
     publishedDateTime: 2021-08-20T05:09:00Z

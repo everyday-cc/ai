@@ -2,6 +2,212 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2021-07-14-cape-analytics-raises-44m-to-automate-property-inspections-with-ai.md",
+      "title": "Cape Analytics raises $44M to automate property inspections with AI",
+      "excerpt": "Cape Analytics, a company meshing AI with aerial imagery to power property insurance inspections, has raised $44 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/14/cape-analytics-raises-44m-to-automate-property-inspections-with-ai/",
+      "originalUrl": "https://venturebeat.com/2021/07/14/cape-analytics-raises-44m-to-automate-property-inspections-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/ddd-e1626271091314.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/14/cape-analytics-raises-44m-to-automate-property-inspections-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/14/cape-analytics-raises-44m-to-automate-property-inspections-with-ai/amp/",
+      "publishedDateTime": "2021-07-14T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-microsoft-azure-receives-new-features-and-enhanced-migration-services.md",
+      "title": "Microsoft Azure receives new features and enhanced migration services",
+      "excerpt": "Microsoft announced a host of enhanced products across Azure, including the Azure Migration and Modernization Program.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/14/microsoft-azure-receives-new-features-and-enhanced-migration-services/",
+      "originalUrl": "https://venturebeat.com/2021/07/14/microsoft-azure-receives-new-features-and-enhanced-migration-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/14/microsoft-azure-receives-new-features-and-enhanced-migration-services/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/14/microsoft-azure-receives-new-features-and-enhanced-migration-services/amp/",
+      "publishedDateTime": "2021-07-14T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-superficial-radiation-therapy-system-market-artificial-intelligence-to-drive-more-opportunities.md",
+      "title": "Superficial Radiation Therapy System Market | Artificial Intelligence to Drive More Opportunities",
+      "excerpt": "Jul 14, 2021 (MARKITWIRED via COMTEX) -- Major superficial radiation therapy system market players are leveraging patient and healthcare professional bias towards minimally invasive therapies for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/superficial-radiation-therapy-system-market-artificial-intelligence-to-drive-more-opportunities-2021-07-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/superficial-radiation-therapy-system-market-artificial-intelligence-to-drive-more-opportunities-2021-07-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-14T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-google-ceo-still-insists-ai-revolution-bigger-than-invention-of-fire.md",
+      "title": "Google CEO Still Insists AI Revolution Bigger Than Invention of Fire",
+      "excerpt": "The artificial intelligence revolution is poised to be more “profound” than the invention of electricity, the internet, and even fire, according to Google CEO Sundar Pichai, who made the comments to BBC media editor Amol Rajan in a podcast interview that first went live on Sunday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2018/02/01/google-ceo-sundar-pichai-ai-is-more-important-than-fire-electricity.html",
+      "originalUrl": "https://gizmodo.com/google-ceo-still-insists-ai-revolution-bigger-than-inve-1847288454",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 207,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/103991584-RTSQQJD.jpg?v=1529452147",
+          "width": 3500,
+          "height": 2425,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2018/02/01/google-ceo-sundar-pichai-ai-is-more-important-than-fire-electricity.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/02/01/google-ceo-sundar-pichai-ai-is-more-important-than-fire-electricity.html",
+      "publishedDateTime": "2021-07-14T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-14-tmu-moradabad-collaborates-with-nvidia-to-establish-a-centre-of-excellence-for-ai-research.md",
       "title": "TMU Moradabad collaborates with NVIDIA to establish a Centre of Excellence for AI Research",
       "excerpt": "Moradabad, and NVIDIA Corporation have signed on a collaborative memorandum to bring artificial intelligence (AI) and deep learning (DL) to a new generation of students and developers. In order to achieve this joint goal,",
@@ -951,188 +1157,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-seedtags-computer-vision-capabilities-boost-olympics-brand-sponsorships-within-digital-environment.md",
-      "title": "Seedtag’s Computer Vision Capabilities Boost Olympics Brand Sponsorships Within Digital Environment",
-      "excerpt": "Seedtag, the leader in Contextual advertising in EMEA and LATAM, has today announced that it has developed specific computer vision capabilities to detect sports and help advertisers harness the power of visual media throughout the Tokyo 2020 Olympic Games.",
-      "sourceUrl": null,
-      "webUrl": "https://www.exchangewire.com/blog/2021/07/13/seedtags-computer-vision-capabilities-boost-olympics-brand-sponsorships-within-digital-environment/?amp",
-      "originalUrl": "https://www.exchangewire.com/blog/2021/07/13/seedtags-computer-vision-capabilities-boost-olympics-brand-sponsorships-within-digital-environment/?amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.exchangewire.com/wp-content/uploads/2021/04/seedtag-logo-2021.png",
-          "width": 271,
-          "height": 271,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.exchangewire.com/blog/2021/07/13/seedtags-computer-vision-capabilities-boost-olympics-brand-sponsorships-within-digital-environment/?amp",
-      "cdnAmpWebUrl": "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2021/07/13/seedtags-computer-vision-capabilities-boost-olympics-brand-sponsorships-within-digital-environment/?amp",
-      "publishedDateTime": "2021-07-13T16:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "exchangewire.com",
-        "domain": "exchangewire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-secdef-austin-commits-us-to-responsible-ai.md",
-      "title": "SecDef Austin Commits US To ‘Responsible AI’",
-      "excerpt": "\"AI is going to change many things about military operations, but nothing is going to change America’s commitment to the laws of war and the principles of our democracy,\" the Defense Secretary said.",
-      "sourceUrl": null,
-      "webUrl": "https://breakingdefense.com/2021/07/secdef-austin-commits-us-to-responsible-ai/",
-      "originalUrl": "https://breakingdefense.com/2021/07/secdef-austin-commits-us-to-responsible-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sites.breakingmedia.com/uploads/sites/3/2021/07/SecDef-Austin-speaks-on-Artificial-Intelligence.png.jpeg.png",
-          "width": 1346,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://breakingdefense.com/2021/07/secdef-austin-commits-us-to-responsible-ai/amp/",
-      "cdnAmpWebUrl": "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2021/07/secdef-austin-commits-us-to-responsible-ai/amp/",
-      "publishedDateTime": "2021-07-13T14:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Breaking Defense",
-        "domain": "breakingdefense.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-festo-advances-robot-programming-with-ai.md",
-      "title": "Festo advances robot programming with AI",
-      "excerpt": "Festo partners with several international companies and universities to develop FLAIROP - Federated Learning for Robot Picking",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/festo-advances-robot-programming-with-ai/",
-      "originalUrl": "https://www.therobotreport.com/festo-advances-robot-programming-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2021/07/festo-featured-web.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-13T14:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-saic-motor-says-it-will-put-robotaxis-capable-of-l4-self-driving-on-roads-in-china-this-year.md",
-      "title": "SAIC Motor says it will put Robotaxis capable of L4 self-driving on roads in China this year",
-      "excerpt": "Chinese automotive design and manufacturing company SAIC Motor says it will launch 40 to 60 Robotaxis capable of Level 4 self-driving throughout Shanghai and Suzhou before the end of 2021. The bold statement was made by Zu Sijie,",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/07/13/saic-motor-says-it-will-put-robotaxis-capable-of-l4-self-driving-on-roads-in-china-this-year/",
-      "originalUrl": "https://electrek.co/2021/07/13/saic-motor-says-it-will-put-robotaxis-capable-of-l4-self-driving-on-roads-in-china-this-year/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/07/SAIC-Motor-Robotaxi-Mystery.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/07/13/saic-motor-says-it-will-put-robotaxis-capable-of-l4-self-driving-on-roads-in-china-this-year/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/07/13/saic-motor-says-it-will-put-robotaxis-capable-of-l4-self-driving-on-roads-in-china-this-year/amp/",
-      "publishedDateTime": "2021-07-13T14:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
