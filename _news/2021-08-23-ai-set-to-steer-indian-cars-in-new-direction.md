@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/technology/tech-news/ai-set-to-steer-indian
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/ai-set-to-steer-indian-cars-in-new-direction/amp-11629652014913.html"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -39,22 +39,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
         width: 1050
         height: 591
-        isCached: true
-  - title: "Mate Labs, Indian AI startup, to digitally transform Luminous Power Technologies' Supply Chain"
-    excerpt: "Luminous Power Technologies, India's market leader in power backup and home electricals, today selected Mate Labs' flagship product Mateverse to strengthen its supply chain against a"
-    publishedDateTime: 2021-08-18T12:30:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/mate-labs-indian-ai-startup-to-digitally-transform-luminous-power-technologies-supply-chain-121081801069_1.html"
-    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/mate-labs-indian-ai-startup-to-digitally-transform-luminous-power-technologies-supply-chain-121081801069_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/mate-labs-indian-ai-startup-to-digitally-transform-luminous-power-technologies-supply-chain-121081801069_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 45
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-08/18/full/20210818145820.jpg"
-        width: 600
-        height: 450
         isCached: true
   - title: "Mate Labs, Indian AI startup, to digitally transform Luminous Power Technologies' Supply Chain"
     excerpt: "Mateverse is a full-scale AI and ML-based forecasting platform that can dynamically predict end-customer demands while avoiding inefficiencies caused by supply and demand misalignment across business"

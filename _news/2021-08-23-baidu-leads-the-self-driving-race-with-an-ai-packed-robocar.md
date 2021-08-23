@@ -8,7 +8,7 @@ webUrl: "https://techwireasia.com/2021/08/baidu-leads-the-self-driving-race-with
 ampWebUrl: "https://techwireasia.com/amp/2021/08/baidu-leads-the-self-driving-race-with-an-ai-packed-robocar/"
 cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/08/baidu-leads-the-self-driving-race-with-an-ai-packed-robocar/"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI in Autos
 
 images:
   - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/08/000_1BR36V-450x300.jpg"
@@ -102,6 +103,6 @@ related:
         height: 500
         isCached: true
 
-secured: "hUjtIVfmZ57WbNZ/0Rw4oh9l6WjfLw/mknA/jsRuhS6kvZquuDfyYWID0U/SCXepoMUmUl4hwi63XFEvo0e80Ci2QUkXfLSj1j5qe/alCfhz9tQeTap+0mm2siBoxKo4k+xOLgUEIRP1ZDolgAfTiHsHcG9TYP193kyzKV+kbXIw+RV8cWGzaFtCmjUZZCy5GEm/x0Hw5Im7MzSb4b2xUiR5ZigN6dbE/PI3oVnSpDX6RTCOyXh5Lr9LADY/haTSzs5Z/UFeV/PhyFsWoHNSSceSRpoWd3h0YFNLillSG6J1Oz1NiSM5R7fzMwZ4E0VI6lwQbVBrav8HgetLRMilM22S65Mc0nWQIKZykWZXJfM=;PsKc+rZaxdrU3ioc9PEyuA=="
+secured: "N9e5KlqUzcoxdadZg7EJeVvqmBMGawpr7202UsIaqqU9oQZcTJe0PAkUnu3iozP4+OPZs0pMCSEe8z0OAwZaF9lTpZN0OX6sxSl+DQABs2u1QOmlXrx9+Oe19BJEunhvMfsmEPaHJtxvFeo2HP/3nRY1BQXY3UPqxb6RMPMwwC/XC2t9CrYs00yrpaKJ2OlnIE75n9yhdhCFKCMBUu7phHU2R69CMGduA4wpEdJ29ND70Snv0K1j8bxzU/1/SHtsM0NmBRAKSw0ufQ7GVzTkwIP1VYx+JOuaAFnGTlh9SFjpHBhMhydQbR1xMlQs5eY/LAsmBkPOlDMDYp8Twpp/HaZBwp4qxOlLktqbXRJodupEsk9+r4syTHt4l0pxdovSv8wTvqiPJT+Ysli/AJzzpDNmPG4GhW32rVomWXcPhxiqwxSTA3BZWuhxyeoI4QXRbzE/3m4jtwFW4VMijvZFJP8b2dY83v1zOuCuiGQOOMnOHAyFCAA6cIXntyIgVrsRwGTQFBf0HNyuPFFXBTRW2A==;Zgfh/B6EeiFVLA5GvvAzXQ=="
 ---
 

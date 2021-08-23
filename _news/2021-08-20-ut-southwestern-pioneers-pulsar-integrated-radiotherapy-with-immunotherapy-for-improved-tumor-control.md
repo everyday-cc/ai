@@ -1,27 +1,27 @@
 ---
 category: news
 title: "UT Southwestern pioneers PULSAR-integrated radiotherapy with immunotherapy for improved tumor control"
-excerpt: "DALLAS – Aug. 20, 2021 – Artificial intelligence, along with a $71-million expansion of Radiation Oncology services, is allowing UT Southwestern Medical Center cancer physicians to pioneer a new PULSAR radiation-therapy strategy that improves tumor ..."
-publishedDateTime: 2021-08-20T13:40:00Z
-originalUrl: "https://www.utsouthwestern.edu/newsroom/articles/year-2021/pulsar-integrated-radiotherapy.html"
-webUrl: "https://www.utsouthwestern.edu/newsroom/articles/year-2021/pulsar-integrated-radiotherapy.html"
+excerpt: "Artificial intelligence, along with a $71-million expansion of Radiation Oncology services, is allowing UT Southwestern Medical Center cancer physicians to pioneer a new PULSAR radiation-therapy strategy that improves tumor control compared with traditional daily therapy."
+publishedDateTime: 2021-08-20T00:00:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/926055"
+webUrl: "https://www.eurekalert.org/news-releases/926055"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: UT Southwestern Medical Center
-  domain: utsouthwestern.edu
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.utsouthwestern.edu/asset/11df8adb-48df-41dc-999b-cc800a62a59b/pulsar-thumbv2.jpg"
-    width: 1000
-    height: 1000
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/f5e3fc51-c302-43d0-a53d-c058ccad2dc6/Rendition/low-res/Content/Public"
+    width: 700
+    height: 355
     isCached: true
 
 related:
@@ -51,6 +51,6 @@ related:
       domain: sciencedaily.com
     quality: 46
 
-secured: "6d+ytoLShWbNgyg4zfWX4gq0rWsMTpQ45ahoRrzK/PZx7TbOKudA74/gGJfyAscwC4qWzXwSysI0Mxlm8IuXXjEklXKhRVVwFFIUprJLCBLVAh6RNZ/f0GgPGgzXxaeXwCk/NzpxeT0xcUjCprECrSVtk8yL4cKBOLprxmjt7gXxO2MBh4tRsvtzqWo6l0escpKDiQxWgAiE5b8fA/RFx3vBdPdXSMKeqAi78qhnMX1q3U44l23KPo5rtNZpTQExtThxjjMjjYSQrmXENNJMNFM4NtyOfCHBLM720fXZbmUIhhEvll+CTVV6Sj591bPozT2BPldB1NYNKvg4lDcjZHG8/TaeMZGm77V0gk7U+JHZwHShDXSHs7715FLa1NtiLbKZP3M/jTu+MwSTuAU8DINvoC6cqEFKahwJVfH2DOxFqV4KjVUmtcqrg4VnQBAJLNTXM/JYoS2Cs55GRhRK2jVrJvQt2j0B7SCLN5OIwahUS5vuQlM+QtvWp2hiG2ysWWJIjT228M5sLwJNIs8lkw==;bGFbZ7itOpwaSAraU4qtcw=="
+secured: "l6hWYwzRcRFg9flP3HtauvNSQrv61WxElbkHDc5+bl4RYQI4HLNOf5FijWaJaoDE7h6jGLgzhIxo3myX52KcFDnShSgRg9SJff3izDSyHvO7SaXHL5BAaDDIYDa5wdec6zyGIrKQsJOQy5oupB2D9L49g56+aWGFVtu+qm3uAYgBJA7ixLMI4BGPQtpMdv+WWcQ64MqKmAaEihrM9vqV+0nJgF0bVXfk6wt4ZOvZA+LYX6DMUeJJ8viGzWHDa1K0imXRak8CAEzMaunQsWubUgBVMZM7HhGP/0jLbY3LDCQx4l2U94GQVfQR4/bWDUH6Z9hajHOWx6a87mz5BU+2RqCybY30Cm6h8Z9D9heJMDM=;i73h5asnVw6f/lZsAjyXQg=="
 ---
 

@@ -51,7 +51,7 @@ related:
     provider:
       name: techwireasia.com
       domain: techwireasia.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/08/000_1BR36V-450x300.jpg"
         width: 450

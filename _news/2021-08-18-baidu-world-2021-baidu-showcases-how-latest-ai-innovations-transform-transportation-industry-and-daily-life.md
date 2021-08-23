@@ -53,20 +53,6 @@ related:
         width: 400
         height: 266
         isCached: true
-  - title: "Baidu Announces Autonomous Driving Milestones at Baidu World 2021"
-    excerpt: "Baidu held its annual flagship technology conference, Baidu World 2021, where Co-founder and CEO Robin Li unveiled his vision"
-    publishedDateTime: 2021-08-18T12:36:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/baidu-announces-autonomous-driving-milestones-at-baidu-world-2021-301357959.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1597211/Baidu_Co_founder_CEO_Robin_Li_CCTV_host_Beining_Sa_sit.jpg?p=facebook"
-        width: 1270
-        height: 665
-        isCached: true
 
 secured: "1AEQLHKR/WgHEGHW7DNiDtDK5kFqDCsy4jzD5M0tg2IyGy3gFZOPODliLxQHG1XCnL5FyLw1T1LeOMstrwPNaSguLsAGD+CJ0Z9EUxv6aubwJLLVO1+/CWpr53mNpisY9q+r5VUw1Hl6I2Ju7XTR+cO/za+KEiQ8UwjcBbs5fO6thQnmktJPZjuWzCMSkGbs7mrGX+76KrobJpeUFQovXMsxOsa3tn1STlsFdbKw8tow1a1qPu18qAgaokoW0x7MdPRpRmYxiZNo10ip0eQVcPaPe5O6MdvKFOxAgOCKvtb2SRPJzSGQFphHrUtUSVSZKheUfgYRwI+J5EIaLo0be3YhCMtaaHq4siFpyqzoGW8=;+DFmgeSnSDKQel+h0QUlOA=="
 ---

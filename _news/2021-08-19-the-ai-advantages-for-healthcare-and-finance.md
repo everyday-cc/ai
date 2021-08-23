@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/sponsor/beyond-limits/the-ai-advantages-for
 webUrl: "https://techcrunch.com/sponsor/beyond-limits/the-ai-advantages-for-healthcare-and-finance/"
 type: article
 quality: 101
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 68
-  - title: "ClosedLoop.ai Raises $34M Series B to Usher in AI-enabled Healthcare"
-    excerpt: "ClosedLoop.ai, healthcare’s data science platform, today announced a $34 million Series B financing. The investment"
-    publishedDateTime: 2021-08-18T12:53:00Z
-    webUrl: "https://www.enterpriseai.news/2021/08/18/closedloop-ai-raises-34m-series-b-to-usher-in-ai-enabled-healthcare-and-tackle-trillion-dollar-healthcare-problem/"
-    type: article
-    provider:
-      name: enterpriseai
-      domain: enterpriseai.news
-    quality: 56
-    images:
-      - url: "https://www.enterpriseai.news/wp-content/uploads/2019/03/EAI2-01-fb.png"
-        width: 1598
-        height: 840
-        isCached: true
   - title: "From health care to infrastructure, how AI is changing the world for the better"
     excerpt: "New advances and creative applications are harnessing the power of AI to offer solutions to a host of social issues to enable new leaps in human development."
     publishedDateTime: 2021-08-20T14:50:00Z

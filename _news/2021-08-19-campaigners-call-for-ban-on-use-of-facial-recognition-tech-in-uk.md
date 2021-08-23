@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/campaigners-call-ban-use-facial-recognition-t
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/campaigners-call-ban-use-facial-recognition-tech-uk?amp"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -70,6 +70,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/11151135/biometric-identification-facial-recognition.jpg"
         width: 1600
         height: 1109
+        isCached: true
+  - title: "The use of facial recognition technology for policing in Delhi: An empirical study of potential religion-based discrimination"
+    excerpt: "The use of new technology like facial recognition by police in India raises questions of efficiency, surveillance, and discrimination."
+    publishedDateTime: 2021-08-23T05:25:00Z
+    webUrl: "https://www.medianama.com/2021/08/223-facial-recognition-technology-policing-delhi/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 12
+    images:
+      - url: "https://www.medianama.com/wp-content/uploads/2020/10/flat-3252983_1280.png.png"
+        width: 1280
+        height: 1066
         isCached: true
 
 secured: "/WSy6iYs35/beFGARnWFG4KUNxzOUwEY/CCYdvCkXnOdfltBsHDcKgMtRTY6ewVBzNML9Apq4j/mOAZ7iii9AOK5eaoc5HG+86Up6vcNn/HvcSc4jgIQ6i7hh3OhPhNXmu2p9RV9lE75viLjW0rGfiFYtT+xKwdXmFlfdiz72lDGX12A/s/CMTIk0so5p1T5ldydiBE4c1gaLNtMIHG/2A0rv2bQOjXikbcEe20DTbVlC8sk/jPkuNtWqEfTFECcWc0NaE17bNlcGAbV9UWrGTpVnCtCIrdg91j1B0WJ8xfyCleBSJiy+WOmJLBTEK619J0BH4OXz1tgwc6pL12N3vdfyvGy7WRTMIw2wO1UcAcmQLjRbA7B+r0L9mrMj01PqXeFKTwSifuGwTJoC/ktRP/4ciRFjmym7sBRHNt+IewT+Fu2io4t2F3zr8D1KlvdnNx0Xr6hRUGBYdr2mDqerIZCSmJjsuyGMyZYC8mo8+O7nd1Dsrql5njTCLZaAaACFndGZ6sQMz9RQIc/W73jbw==;L5DojNNF54YVhHdFMt5CMQ=="

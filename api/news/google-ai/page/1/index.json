@@ -520,20 +520,20 @@
     },
     {
       "path": "_news/2021-08-08-trouble-at-googles-deepmind-and-tech-workers-not-going-back-to-the-office.md",
-      "title": "Trouble at Google's DeepMind and tech workers not going back to the office",
-      "excerpt": "Hello, and welcome to this week's edition of the Insider Tech newsletter, where we break down the biggest news in tech, including: This week: Trouble at Google's DeepMind Insider learned that an ...",
+      "title": "Trouble at Google’s DeepMind and tech workers not going back to the office",
+      "excerpt": "In this week's edition of the Insider Tech newsletter we look at an investigation of a Google VP, tech workers saying no to the office, and more.",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trouble-at-googles-deepmind-tech-workers-refuse-the-office-2021-8",
-      "originalUrl": "https://www.businessinsider.com/trouble-at-googles-deepmind-tech-workers-refuse-the-office-2021-8",
+      "webUrl": "https://businessinsider.mx/trouble-at-googles-deepmind-tech-workers-refuse-the-office-2021-8/",
+      "originalUrl": "https://businessinsider.mx/trouble-at-googles-deepmind-tech-workers-refuse-the-office-2021-8/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/610c60112a24d0001861fc02?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
+          "url": "https://i.insider.com/610c60112a24d0001861fc02?format=jpeg",
+          "width": 1280,
+          "height": 640,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -541,23 +541,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trouble-at-googles-deepmind-tech-workers-refuse-the-office-2021-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trouble-at-googles-deepmind-tech-workers-refuse-the-office-2021-8?amp",
-      "publishedDateTime": "2021-08-07T16:43:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-08T06:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "businessinsider",
+        "domain": "businessinsider.mx",
+        "images": null,
         "publishers": null,
         "authors": null
       },

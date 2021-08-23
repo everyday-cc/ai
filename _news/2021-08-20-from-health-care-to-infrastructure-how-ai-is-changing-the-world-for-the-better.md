@@ -52,20 +52,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 68
-  - title: "ClosedLoop.ai Raises $34M Series B to Usher in AI-enabled Healthcare"
-    excerpt: "ClosedLoop.ai, healthcare’s data science platform, today announced a $34 million Series B financing. The investment"
-    publishedDateTime: 2021-08-18T12:53:00Z
-    webUrl: "https://www.enterpriseai.news/2021/08/18/closedloop-ai-raises-34m-series-b-to-usher-in-ai-enabled-healthcare-and-tackle-trillion-dollar-healthcare-problem/"
-    type: article
-    provider:
-      name: enterpriseai
-      domain: enterpriseai.news
-    quality: 56
-    images:
-      - url: "https://www.enterpriseai.news/wp-content/uploads/2019/03/EAI2-01-fb.png"
-        width: 1598
-        height: 840
-        isCached: true
 
 secured: "G2BcXl1adevouYHWWSnHqRCK9cwuJbrRsKVb2XQcn0OzPiKilJTznDbaXXZbfzfxjua/lgJgUtkyrITpHBP5ntkAqJnbp2ilDGXvWXUZFcHUL24M25qg1+Fa+CGc3iqcQ2P/XQUTXY2qz3QMJYZHfdPR4QHruQusp++4tqeWG9rgsjZncjsnyx6OYAsLz3YMQybiMdPQrxzAXXDQGe1GeIGDLv1Bv7BtBf/jfeGCxc/KfRSXMi9nsvnzu96QIWAXXwEoApkQ5hBrML1mw/TauN9Lc5z8GSydBUnIreSSV4ETtdiUTAryAQvI2bj2ZMjXPMr3+fnxYBesZTx4/Lu8OdzvtWrX3BUqJtOTJh4rpiXpmrAQQcAEV/f3H87l2Obq3D6sCzKZpJTmwe/PVIZFI96EihV0ic1OvowE7JS69r6KU55duQ2K2h9+alW3Jh8HbaO8PXWqjxdXQVKsrrnPuxdnT5lfCIAgnhW/hp2dsrJBuijHlIRxVd2ZzI6rLq6QyIQWIy3vYgDo15tK/l9IRQ==;BukX+yjIH1Fo9L8lyvTJ+w=="
 ---

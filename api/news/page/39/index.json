@@ -2,6 +2,274 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2021-07-23-is-your-ai-ethical-three-ways-to-bake-impact-into-your-business-model.md",
+      "title": "Is Your AI Ethical? Three Ways To Bake Impact Into Your Business Model",
+      "excerpt": "By taking the necessary steps to establish standard practices for its creation and implementation now, we can ensure AI is developed safely and used for good for years to come.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/07/23/is-your-ai-ethical-three-ways-to-bake-impact-into-your-business-model/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/07/23/is-your-ai-ethical-three-ways-to-bake-impact-into-your-business-model/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e307158096349ee8effd21%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/07/23/is-your-ai-ethical-three-ways-to-bake-impact-into-your-business-model/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/07/23/is-your-ai-ethical-three-ways-to-bake-impact-into-your-business-model/amp/",
+      "publishedDateTime": "2021-07-23T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-07-23-training-platform-for-robots-eyes-global-expansion-after-23m-fundraise.md",
+      "title": "Training platform for robots eyes global expansion after £2.3m fundraise",
+      "excerpt": "A start-up with a platform that trains robots to recognise images has completed a £2.3m funding round to help it build its team in Yorkshire and expand sales of its product worldwide. The investment in Sheffield-based Mindtech Global was led by npif – Mercia Equity Finance,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thebusinessdesk.com/yorkshire/news/2078892-training-platform-for-robots-eyes-global-expansion-after-2.3m-fundraise",
+      "originalUrl": "https://www.thebusinessdesk.com/yorkshire/news/2078892-training-platform-for-robots-eyes-global-expansion-after-2.3m-fundraise",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thebusinessdesk.com/_files/images/jul_21/Mindtech_Chameleon_LostChild.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-23T03:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The UK",
+        "domain": "thebusinessdesk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-23-artificial-intelligence-firms-shield-ai-heron-systems-join-forces.md",
+      "title": "Artificial intelligence firms Shield AI, Heron Systems join forces",
+      "excerpt": "Shield AI announced on 22 July that it has acquired Heron Systems, bringing together two US software companies that are developing artificial intelligence (AI)",
+      "sourceUrl": null,
+      "webUrl": "https://www.janes.com/defence-news/news-detail/artificial-intelligence-firms-shield-ai-heron-systems-join-forces",
+      "originalUrl": "https://www.janes.com/defence-news/news-detail/artificial-intelligence-firms-shield-ai-heron-systems-join-forces",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.janes.com/images/default-source/news-images/bsp_2315-jdin-13209.jpg?sfvrsn=60068c86_2",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.janes.com/amp/artificial-intelligence-firms-shield-ai-heron-systems-join-forces/ZnlJK3dHVU9mZ28xajRJVkc5dVI5VFp1cVMwPQ2",
+      "cdnAmpWebUrl": "https://www-janes-com.cdn.ampproject.org/c/s/www.janes.com/amp/artificial-intelligence-firms-shield-ai-heron-systems-join-forces/ZnlJK3dHVU9mZ28xajRJVkc5dVI5VFp1cVMwPQ2",
+      "publishedDateTime": "2021-07-23T03:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Jane's Information Group",
+        "domain": "janes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-23-ai-governance-market-predictions-with-covid-19-analysis-key-players-ibm-google-facebook-aws.md",
+      "title": "Ai Governance Market Predictions With Covid-19 Analysis, Key Players – IBM, Google, Facebook, AWS.",
+      "excerpt": "To avail Sample Copy of report, visit @  Key Companies Operating in this Market IBM Google Facebook AWS Microsoft Salesforce.com SAP FICO 2021.AI ZestFinance SAS Institute Pymetrics H2O.AI integrate.ai Market by Application BFSI Healthcare and Life Sciences Government and Defense Retail and Car This report is wide in concept and content right from Ai Governance market In addition to CAGR,",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/ai-governance-market-predictions-with-covid-19-analysis-key-players-ibm-google-facebook-aws/",
+      "originalUrl": "https://manometcurrent.com/ai-governance-market-predictions-with-covid-19-analysis-key-players-ibm-google-facebook-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ksusentinel.com/wp-content/uploads/2021/05/300-x-300-pixel.jpg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-23T01:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-23-robotics-ai-why-the-uk-must-stage-a-skills-intervention.md",
+      "title": "Robotics & AI - why the UK must stage a skills intervention",
+      "excerpt": "A new white paper on plugging the robotics and AI skills gap in the UK is published, but what’s really needed is a complete change of attitude.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/robotics-ai-why-uk-must-stage-skills-intervention",
+      "originalUrl": "https://diginomica.com/robotics-ai-why-uk-must-stage-skills-intervention",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2021-07/D844DC4C-8A53-464F-932D-D27E444308F0.jpeg",
+          "width": 640,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/robotics-ai-why-uk-must-stage-skills-intervention?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/robotics-ai-why-uk-must-stage-skills-intervention?amp",
+      "publishedDateTime": "2021-07-23T01:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-07-23-robotics-and-ai-are-speeding-up-our-nuclear-clean-up-mission.md",
+      "title": "Robotics and AI are speeding up our nuclear clean up mission",
+      "excerpt": "West Cumbria is delivering the future of nuclear robotics and artificial intelligence technology. Every day the company in charge of the nationally important mission of decommissioning and cleaning up the UK’s largest nuclear site – Sellafield in West Cumbria - is facing new challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politicshome.com/members/article/robotics-ai-speed-up-nuclear-clean-up-mission",
+      "originalUrl": "https://www.politicshome.com/members/article/robotics-ai-speed-up-nuclear-clean-up-mission",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/dyw8mv3b0/image/upload/q_85,w_1200,h_1200,c_limit/v1/news/2021_07/DRONE_960X640_JAN21_002_xegibn.jpg",
+          "width": 1200,
+          "height": 642,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-23T00:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PoliticsHome",
+        "domain": "politicshome.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-23-marketing-ai-plenty-of-use-cases-but-were-just-getting-started.md",
       "title": "Marketing AI – plenty of use cases, but we’re just getting started",
       "excerpt": "Roetzer’s Institute, in partnership with Drift, a provider of conversational AI solutions, recently published 2021 The State of Marketing AI. It’s a survey that looked at how marketing AI is in use today,",
@@ -908,281 +1176,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-waymo-to-open-offices-in-pittsburgh-an-av-tech-hub.md",
-      "title": "Waymo to open offices in Pittsburgh, an AV tech hub",
-      "excerpt": "Waymo, Google’s former self-driving car project that’s now an independent business unit under Alphabet, is expanding its presence in the eastern U.S. The company said Thursday it would be opening offices in Pittsburgh,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/22/waymo-to-open-offices-in-pittsburgh-an-av-tech-hub/",
-      "originalUrl": "https://techcrunch.com/2021/07/22/waymo-to-open-offices-in-pittsburgh-an-av-tech-hub/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/11/waymo.jpg?w=799",
-          "width": 799,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/07/22/waymo-to-open-offices-in-pittsburgh-an-av-tech-hub/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/22/waymo-to-open-offices-in-pittsburgh-an-av-tech-hub/amp/",
-      "publishedDateTime": "2021-07-22T11:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-explore-microsoft-cloud-for-healthcare-and-more-at-aug-9-13-himss21-event.md",
-      "title": "Explore Microsoft Cloud for Healthcare and more at Aug. 9-13 HIMSS21 event",
-      "excerpt": "As a sponsor of HIMSS Digital 2021, within a best-in-class digital environment, we're tailoring digital first experiences with the convenience you need, as healthcare's brightest innovators across the globe-to explore new ideas,",
-      "sourceUrl": null,
-      "webUrl": "https://www.publicnow.com/view/B26AD8DBBC29355F236E9BA44C55F775FB864496",
-      "originalUrl": "https://www.publicnow.com/view/B26AD8DBBC29355F236E9BA44C55F775FB864496",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-22T11:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "publicnow.com",
-        "domain": "publicnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-3-tech-stocks-using-artificial-intelligence-to-unlock-growth.md",
-      "title": "3 Tech Stocks Using Artificial Intelligence to Unlock Growth",
-      "excerpt": "Artificial intelligence is spreading across almost every industry in the world and helping businesses to build scale that was previously never thought possible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/07/22/3-tech-stocks-using-ai-to-unlock-growth/",
-      "originalUrl": "https://www.fool.com/investing/2021/07/22/3-tech-stocks-using-ai-to-unlock-growth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F634063%2Fa-person-in-a-car-signing-a-digital-tablet.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/07/22/3-tech-stocks-using-ai-to-unlock-growth/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/07/22/3-tech-stocks-using-ai-to-unlock-growth/",
-      "publishedDateTime": "2021-07-22T10:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-diverse-ai-teams-are-key-to-reducing-bias.md",
-      "title": "Diverse AI teams are key to reducing bias",
-      "excerpt": "But if you are on the receiving end of a decision [that] is being used by AI, that can be disastrous,” Huma Abidi, senior director of AI SW products and engineering at Intel, said during a ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/22/diverse-ai-teams-are-key-to-reducing-bias/",
-      "originalUrl": "https://venturebeat.com/2021/07/22/diverse-ai-teams-are-key-to-reducing-bias/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/bipoc.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 604,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/22/diverse-ai-teams-are-key-to-reducing-bias/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/22/diverse-ai-teams-are-key-to-reducing-bias/amp/",
-      "publishedDateTime": "2021-07-22T10:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-study-wearable-camera-reduces-collision-risk-in-blind-visually-impaired.md",
-      "title": "Study: Wearable camera reduces collision risk in blind, visually impaired",
-      "excerpt": "July 22 (UPI) --A wearable computer vision device may help reduce collisions and other accidents in the blind and visually impaired, a study published Thursday by JAMA Ophthalmology found.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Health_News/2021/07/22/blindness-wearable-device-accidents-study/8601626962178/",
-      "originalUrl": "https://www.upi.com/Health_News/2021/07/22/blindness-wearable-device-accidents-study/8601626962178/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/i/8601626962178/2021/1/16269638014390/v1.5/Study-Wearable-camera-reduces-collision-risk-in-blind-visually-impaired.jpg",
-          "width": 800,
-          "height": 531,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Health_News/2021/07/22/blindness-wearable-device-accidents-study/8601626962178/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Health_News/2021/07/22/blindness-wearable-device-accidents-study/8601626962178/",
-      "publishedDateTime": "2021-07-22T10:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-tag-archives-listening-to-inner-voice.md",
-      "title": "Tag Archives: Listening to Inner Voice",
-      "excerpt": "The first thing that I signed up for after getting my second Moderna vaccine was a self-defense workshop for women held outdoors in a public park. While I’ve missed going to the gym and seeing friends play live music, my mind has been on the other ways in which life has changed during the pandemic. My nervous system has been on high alert since the Atlanta spa shootings in March. Concerned friends suggested that I take a class with a women-led dojo that quietly organized a self-defense class based on local demand and word of mouth. For the past four months, the media has been dominated by images of Asian women, who look like me, under constant attack. We are bludgeoned by hammers, stabbed at bus stops, beaten on the street, punched in the face. Here in Seattle’s Chinatown-International District, a local Japanese high school teacher’s face was bashed beyond recognition by an assailant using rocks hidden inside a sock. When I got to my class, our instructor, or cefu, said that 80% of attacks are enacted by someone the victim knows. She said the chances of being attacked with a weapon are also relatively low — it’s those assaults that make it into the news, skewing public perception. I took this information in, thinking of the cell phone and security camera video footage that seems to pop up on my Twitter feed at least once a week, documenting horrible crimes against Asian women. I resisted the urge to raise my hand in protest.",
-      "sourceUrl": null,
-      "webUrl": "https://southseattleemerald.com/tag/listening-to-inner-voice/",
-      "originalUrl": "https://southseattleemerald.com/tag/listening-to-inner-voice/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/southseattleemerald.com/wp-content/uploads/2020/04/1484590_408127306007964_9075529672973271797_n.png?fit=360%2C360&ssl=1",
-          "width": 360,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://southseattleemerald.com/tag/listening-to-inner-voice/?amp",
-      "cdnAmpWebUrl": "https://southseattleemerald-com.cdn.ampproject.org/c/s/southseattleemerald.com/tag/listening-to-inner-voice/?amp",
-      "publishedDateTime": "2021-07-22T09:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South Seattle Emerald",
-        "domain": "southseattleemerald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

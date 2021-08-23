@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/tesla-to-hold-ai-day-amid-new-scrut
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTgyOTAyNjIzNTMwMTMyODk5/210803aiday.jpg"
         width: 620
         height: 349
+        isCached: true
+  - title: "Tesla AI Day: EV-maker shows improved self-driving tech for Autopilot"
+    excerpt: "Tesla's self-driving technology has recently come under regulatory spotlight. Tesla is working on a purely vision-based system, using eight vehicle-mounted cameras to process a real-time three-dimensional vector space to guide navigation."
+    publishedDateTime: 2021-08-20T17:51:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/news/tesla-ai-day-ev-maker-shows-improved-self-driving-tech-for-autopilot-41629439031382.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/news/tesla-ai-day-ev-maker-shows-improved-self-driving-tech-for-autopilot/amp-41629439031382.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/tesla-ai-day-ev-maker-shows-improved-self-driving-tech-for-autopilot/amp-41629439031382.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 74
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2021/08/20/600x338/AFP_9L8894_1629439212600_1629439224395.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "4v+n0FZJEwTKQDYd5WqFCsaEgqjsMCjS1tP/VPyZreq+HIY351B4Q6fw3LqRY38MkiEkJ2WaOM5Irr7Ned49SRJw59GW/xQ6LoZeixXWBOR1TNm8u40iLFy5KBkHrTLIuz0RpoL6Q7yMKFb0BAgHWkjeIwWvXlYD097mxe4hLJWFWQSW7DW/OnMXZeccPk5+Bmtqa5uF4C+aLAN7O54usfGnkkjOaXeK8Hhe4yXaRhlCye1HpVpzgAShi2sGpc7X/d6dh4E87psHVGdkFTt8RjawNYH5V1JdL+45hALn9UL+I8UpSwj/jlIU4qYr4kJkDpO8A0YYiVD9JcuvSJ9nLv7OIrqNeYCshf/2Qlp9p7O5TAOmLEDh25caZ2Kl9f5ikc1KcF5NWIcLIeJdVF22znCh2SkUtwNU1eQz5qDKP2TbYOsBDkLxOnzsAwmg81wtKcGy0gxho+2EuJD0Z9yPkNWDF8IFgUeWKTnPIGyM8yhlGIMkNnIlDjoZwIbV8FVKYS+joANm5fo+J5esJN92XQ==;ujYo+fDNT3pRUwhwmT+jZA=="

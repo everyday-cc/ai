@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Democrats ask FTC to investigate Tesla's self-driving claims"
-    excerpt: "Two Democratic senators asked the Federal Trade Commission to investigate Tesla over the company’s advertising of its Autopilot and Full Self-Driving technology. The letter comes one day after the National Highway Traffic Safety Administration opened a formal investigation into Tesla’s Autopilot system."
-    publishedDateTime: 2021-08-18T11:57:00Z
-    webUrl: "https://www.cnbc.com/2021/08/18/democrats-ask-ftc-to-investigate-teslas-self-driving-claims.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/08/18/democrats-ask-ftc-to-investigate-teslas-self-driving-claims.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/08/18/democrats-ask-ftc-to-investigate-teslas-self-driving-claims.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 204
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/104670924-GettyImages-492682160-autonomous-car.jpg?v=1629294162"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Tesla aims to launch Full Self-Driving Computer 2 with Cybertruck"
     excerpt: "Tesla plans to launch a new Full Self-Driving computer with Cybertruck electric pickup truck next year. The updated self-driving hardware should also include new cameras. Tesla’s self-driving hardware has been a point of controversy."
     publishedDateTime: 2021-08-20T18:30:00Z
@@ -165,22 +149,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Tesla AI Day: EV-maker shows improved self-driving tech for Autopilot"
-    excerpt: "Tesla's self-driving technology has recently come under regulatory spotlight. Tesla is working on a purely vision-based system, using eight vehicle-mounted cameras to process a real-time three-dimensional vector space to guide navigation."
-    publishedDateTime: 2021-08-20T17:51:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/tesla-ai-day-ev-maker-shows-improved-self-driving-tech-for-autopilot-41629439031382.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/news/tesla-ai-day-ev-maker-shows-improved-self-driving-tech-for-autopilot/amp-41629439031382.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/tesla-ai-day-ev-maker-shows-improved-self-driving-tech-for-autopilot/amp-41629439031382.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 74
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2021/08/20/600x338/AFP_9L8894_1629439212600_1629439224395.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Senators call for consumer watchdog probe into Tesla’s self-driving claims"
     excerpt: "Top Democratic senators are calling on the Federal Trade Commission to launch an investigation into marketing practices at Tesla, days after the National Highway Traffic Safety Administration opened a probe into the car maker’s Autopilot driverless technology."
     publishedDateTime: 2021-08-18T16:51:00Z
@@ -212,38 +180,6 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/senator-markey.jpg?quality=90&strip=all&w=1024"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Senators call for investigation into Tesla’s marketing of self-driving vehicle features"
-    excerpt: "Two Democratic senators have sent a letter to the Federal Trade Commission (FTC) asking for an investigation into Tesla’s marketing of its Autopilot and Fu"
-    publishedDateTime: 2021-08-18T16:34:00Z
-    webUrl: "https://www.consumeraffairs.com/news/senators-call-for-investigation-into-teslas-marketing-of-self-driving-vehicle-features-081821.html"
-    ampWebUrl: "https://www.consumeraffairs.com/amp/news/senators-call-for-investigation-into-teslas-marketing-of-self-driving-vehicle-features-081821.html"
-    cdnAmpWebUrl: "https://www-consumeraffairs-com.cdn.ampproject.org/c/s/www.consumeraffairs.com/amp/news/senators-call-for-investigation-into-teslas-marketing-of-self-driving-vehicle-features-081821.html"
-    type: article
-    provider:
-      name: ConsumerAffairs
-      domain: consumeraffairs.com
-    quality: 68
-    images:
-      - url: "https://media.consumeraffairs.com/files/news/Tesla_company_concept_bankkgraphy_Getty_Images.jpg"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "Senators call for FTC probe of Tesla 'Full Self-Driving' overstatements"
-    excerpt: "Two U.S. senators are pushing back against Tesla's marketing of its driver assistance systems, claiming that the company's name for them misleads the public."
-    publishedDateTime: 2021-08-18T12:10:00Z
-    webUrl: "https://www.autoblog.com/2021/08/18/tesla-full-self-driving-senators-push-back/"
-    ampWebUrl: "https://www.autoblog.com/amp/2021/08/18/tesla-full-self-driving-senators-push-back/"
-    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2021/08/18/tesla-full-self-driving-senators-push-back/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 59
-    images:
-      - url: "https://o.aolcdn.com/images/dims3/GLOB/crop/3500x1969+0+1089/resize/800x450!/format/jpg/quality/85/https://s.yimg.com/os/creatr-images/2020-07/cf97fb80-c042-11ea-9e9f-4a1b9cbf4857"
-        width: 800
-        height: 450
         isCached: true
   - title: "Tesla’s Self-Driving Advertising Called Out As Misleading To Consumers"
     excerpt: "Two senators have requested the FTC open an investigation into Tesla's self-driving technology advertising, claiming it is \"misleading\" consumers."
@@ -277,20 +213,6 @@ related:
         width: 1024
         height: 555
         isCached: true
-  - title: "U.S. Senators Urge FTC to Investigate Tesla About Self-Driving Claims"
-    excerpt: "Tesla could not get more bad news about Autopilot and FSD. If it was not enough to have NHTSA investigating why its cars crash so much against parked emergency vehicles, now the Senate Democrats Richard Blumenthal and Edward Markey also went after the company."
-    publishedDateTime: 2021-08-18T11:33:00Z
-    webUrl: "https://www.autoevolution.com/news/us-senators-urge-ftc-to-investigate-tesla-about-self-driving-claims-167555.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 54
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/us-senators-urge-ftc-to-investigate-tesla-about-self-driving-claims-167555-7.jpg"
-        width: 728
-        height: 300
-        isCached: true
   - title: "Senators Urges FTC to Further Investigate Tesla's Self-Driving Claims"
     excerpt: "Senators Ed Markey and Richard Blumenthal have reportedly called on the Federal Trade Commission to investigate Elon Musk ‘s electric vehicles company over its “misleading advertising and marketing” of the Autopilot and Full Self-Driving Systems."
     publishedDateTime: 2021-08-19T08:51:00Z
@@ -318,45 +240,6 @@ related:
       - url: "https://article.images.consumerreports.org/image/upload/v1629313351/prod/content/dam/CRO-Images-2021/Cars/08Aug/CR-Cars-InlineHero-Tesla-Model-S-plaid-r-8-21"
         width: 1199
         height: 674
-        isCached: true
-  - title: "Tesla: American senators pressing FTC to investigate EV carmaker over alleged misleading self-driving claims"
-    excerpt: "Tesla should be investigated by the U.S. Federal Trade Commission now. At least two senators said on Wednesday, Aug. 18, that Elon Musks company may have misled buyers with the companys automated driving"
-    publishedDateTime: 2021-08-19T06:36:00Z
-    webUrl: "https://www.econotimes.com/Tesla-American-senators-pressing-FTC-to-investigate-EV-carmaker-over-alleged-misleading-self-driving-claims-1615381"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 35
-    images:
-      - url: "https://s1.econotimes.com/assets/uploads/20210819d898dbc0e5536ceb0_th_1024x0.jpeg"
-        width: 640
-        height: 420
-        isCached: true
-  - title: "Two Senators Accuse Tesla Of Misleading Customers With Self-Driving Features, Request FTC Probe"
-    excerpt: "Senators Richard Blumenthal and Edward J. Markey have sent a letter to the Chair of the Federal Trade Commission, Lina Khan, asking the organization to investigate Tesla for what they allege are deceptive business practices."
-    publishedDateTime: 2021-08-18T21:29:00Z
-    webUrl: "https://www.carscoops.com/2021/08/two-senators-accuse-tesla-of-misleading-customers-with-self-driving-features-request-ftc-probe/"
-    ampWebUrl: "https://www.carscoops.com/2021/08/two-senators-accuse-tesla-of-misleading-customers-with-self-driving-features-request-ftc-probe/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/08/two-senators-accuse-tesla-of-misleading-customers-with-self-driving-features-request-ftc-probe/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 27
-  - title: "Markey & Blumenthal Call For FTC Investigation Into Tesla's Misleading Advertising of Driving Automation Systems"
-    excerpt: "Markey  (D-Mass.) and Richard Blumenthal (D-Conn.), members of the Senate Commerce, Science, and Transportation Committee, voiced serious concerns about Tesla’s misleading advertising and marketing of its Autopilot and Full-Self Driving (FSD) features to consumers,"
-    publishedDateTime: 2021-08-18T15:49:00Z
-    webUrl: "https://www.markey.senate.gov/news/press-releases/markey-and-blumenthal-call-for-ftc-investigation-into-teslas-misleading-advertising-of-driving-automation-systems"
-    type: article
-    provider:
-      name: US Senate
-      domain: senate.gov
-    quality: 18
-    images:
-      - url: "https://www.markey.senate.gov/assets/images/sharelogo.png"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "NygicIsOfMG1luJ0vu/k1geqkd3Fqyv6GLyH4sct23xufS/l+ZBzi+WCjz6k0PyCl4qXqC0hPDzaTG0fHVrOZurEd3DD9+7Ldkkkvlm1VbyqcOJiNPuNB3FabumYxwSuTDsQ26h7p015NDK1E97PHsLFydoYJNvQoUwPC0KlbqjsDWT+Q9Hf9eaAfeJIANUxaKYzwJD3IzLXNkrP+MhITCPECEUTcpbR4E723TWAp3FSn5W6LHCNnKHCI18BPgWwbpbZv9B+NddCFc7JRbCSdSJUzCATjKiYTdbqJrPTqi8s+8MHObQcNnsTZVfKxJD7IQrhNkoj21uF6nYmvGX7ULE6sZQRAu3/IyXI8Y+ueJsTLyV5cGU0BERIOnBaSql3/103oUsFIcuy8c1G78G3OhwH+WyM0VKizZSt0zP4eNT45QJE+qBItFhmLpSnHcNGmWSUhjKdZqFYeJa2cPd8OAsOYB6QR8DWYEuixTs+1aUHlb8Nc/iymnhF7YSO3SW2AEInTzftxTes2IDlruTCQw==;tvhmyWnvBgT2RjbAfuDHXA=="

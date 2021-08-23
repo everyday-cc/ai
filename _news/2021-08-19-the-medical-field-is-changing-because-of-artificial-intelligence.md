@@ -7,7 +7,7 @@ originalUrl: "https://dataconomy.com/2021/08/medical-field-changing-artificial-i
 webUrl: "https://dataconomy.com/2021/08/medical-field-changing-artificial-intelligence/"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Is Changing The Face Of Tech In Sports"
+    excerpt: "Automation and AI are at the forefront of driving numerous industries in the pandemic-hit world. While things are slowly getting back to normalcy, they would never be the same. As a matter of fact, the pandemic unleashed the true potential of Artificial Intelligence,"
+    publishedDateTime: 2021-08-23T05:00:00Z
+    webUrl: "https://www.gizbot.com/internet/features/artificial-intelligence-changing-face-of-tech-in-sports-076273.html"
+    ampWebUrl: "https://www.gizbot.com/amphtml/internet/features/artificial-intelligence-changing-face-of-tech-in-sports-076273.html"
+    cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/internet/features/artificial-intelligence-changing-face-of-tech-in-sports-076273.html"
+    type: article
+    provider:
+      name: GIZBOT
+      domain: gizbot.com
+    quality: 59
+    images:
+      - url: "https://www.gizbot.com/img/2021/08/5-1629548019.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "The hidden helping hand: expert reveals how AI tech is changing the industry"
     excerpt: "There’s an obvious reason for this – most physical locations were closed, so organizations had to fall back on online support – but it becomes especially interesting to note this is just a taster of an AI-centric revolution currently changing the world of finance."
     publishedDateTime: 2021-08-19T15:31:00Z
@@ -35,6 +51,20 @@ related:
       name: wealthprofessional.ca
       domain: wealthprofessional.ca
     quality: 36
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/ca/155/0382_637649839418762625.png"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "The hidden helping hand: expert from Croesus reveals how AI tech is already changing the industry"
+    excerpt: "There’s an obvious reason for this – most physical locations were closed, so organizations had to fall back on online support – but it becomes especially interesting to note this is just a taster of an AI-centric revolution currently changing the world of finance."
+    publishedDateTime: 2021-08-19T15:31:00Z
+    webUrl: "https://www.wealthprofessional.ca/investments/wealth-technology/the-hidden-helping-hand-expert-from-croesus-reveals-how-ai-tech-is-already-changing-the-industry/359051"
+    type: article
+    provider:
+      name: wealthprofessional.ca
+      domain: wealthprofessional.ca
+    quality: 26
     images:
       - url: "https://cdn-res.keymedia.com/cms/images/ca/155/0382_637649839418762625.png"
         width: 1000

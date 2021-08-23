@@ -63,6 +63,22 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "Tesla AI Day: EV-maker shows improved self-driving tech for Autopilot"
+    excerpt: "Tesla's self-driving technology has recently come under regulatory spotlight. Tesla is working on a purely vision-based system, using eight vehicle-mounted cameras to process a real-time three-dimensional vector space to guide navigation."
+    publishedDateTime: 2021-08-20T17:51:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/news/tesla-ai-day-ev-maker-shows-improved-self-driving-tech-for-autopilot-41629439031382.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/news/tesla-ai-day-ev-maker-shows-improved-self-driving-tech-for-autopilot/amp-41629439031382.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/tesla-ai-day-ev-maker-shows-improved-self-driving-tech-for-autopilot/amp-41629439031382.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 74
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2021/08/20/600x338/AFP_9L8894_1629439212600_1629439224395.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "VYK52FMRgN3k4rM0Mnp1LZ4N6RiVHrtFre/wFbdvvxuSDJ6k5bAbqP72oZ7aDhRmOvJUH3Uerh5WhyAB45duoFFLhcDwVVuTnRUkcsFrgBAbR7p5OFhwVm4xJuCl9+O9tgyomwZIbe0oUiA2DUueTbjU+8zb+TtYiaycXPFblClu28fiiXejm0w6hZ/FqpQ1jbIgDYRmLGcR/8tvW2MmyDTp1qURXw0fAxtnj6gG4gI3qGmS16G9sOtDIu7JIcwJCFzl3TkGv/LBidCKgo6BzMAbnd7m8dXlE/RFBWWoDX5MSdGR03aHpiyAoiCIY3wPlWubTeqv/gwU2mO1WoeaA6IWzA2GMJD9ObIL2HOG8dL+yZS68XeXQ22nSeAg0P0pyVntHnl9gaiXf8ZFwRHx1BCEFFWEvOBHVU3dJk8pSgt0SiMt+v7rHkGwQ0kGHndcFHv9AXQ5KaF2r5f2mAIEWvR0S7xtSZCviGQiUDzW6ukPlVaIJOE76QgsH13FwEc2BgIELtOD2zDWuOf6iR82gQ==;7LD9HxKtjtTEP24O4giMAw=="
 ---

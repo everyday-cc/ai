@@ -56,22 +56,6 @@ related:
         width: 1050
         height: 591
         isCached: true
-  - title: "Mate Labs, Indian AI startup, to digitally transform Luminous Power Technologies' Supply Chain"
-    excerpt: "Luminous Power Technologies, India's market leader in power backup and home electricals, today selected Mate Labs' flagship product Mateverse to strengthen its supply chain against a"
-    publishedDateTime: 2021-08-18T12:30:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/mate-labs-indian-ai-startup-to-digitally-transform-luminous-power-technologies-supply-chain-121081801069_1.html"
-    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/mate-labs-indian-ai-startup-to-digitally-transform-luminous-power-technologies-supply-chain-121081801069_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/mate-labs-indian-ai-startup-to-digitally-transform-luminous-power-technologies-supply-chain-121081801069_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 45
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-08/18/full/20210818145820.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "USD 17.2 bn infused in Indian startup ecosystem by venture capital firms during Jan-July: Report"
     excerpt: "SoftBank Corp led the charts with approximately USD 3.5 billion worth of investments in the past three years, followed by Tiger Global, Temasek, Sequoia Capital and Prosus Ventures, the report noted."
     publishedDateTime: 2021-08-22T09:42:00Z

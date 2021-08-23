@@ -64,20 +64,6 @@ related:
       name: IEEE
       domain: ieee.org
     quality: 29
-  - title: "ICStation's $5 SU-10A Packs an On-Board Unisound US516P6 for Offline Voice Recognition Work"
-    excerpt: "ICStation has begun selling a $5 module designed to add voice control to projects without the need for a network connection, building on the Unisound US516P6 microcontroller: the SU-10A. Designed for solder-free installation to speakers,"
-    publishedDateTime: 2021-08-18T12:29:00Z
-    webUrl: "https://www.hackster.io/news/icstation-s-5-su-10a-packs-an-on-board-unisound-us516p6-for-offline-voice-recognition-work-680799a416e7"
-    type: article
-    provider:
-      name: Hackster
-      domain: hackster.io
-    quality: 14
-    images:
-      - url: "https://hackster.imgix.net/uploads/attachments/1336905/_M6eNCQ4wFX.blob?auto=compress%2Cformat&w=600&h=450&fit=min"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Andes Technology and Cyberon Collaborate to Provide Edge-Computing Voice Recognition Solution on DSP-capable RISC-V Processors"
     excerpt: "Cyberon and Andes Technology announced their collaboration on the edge-computing voice recognition solution, Cyberon DSpotter, by exploring Andes DSP-capable RISC-V CPU cores such as the popular D25F and comprehensive software development environment to provide a cost-effective,"
     publishedDateTime: 2021-08-19T11:30:00Z
