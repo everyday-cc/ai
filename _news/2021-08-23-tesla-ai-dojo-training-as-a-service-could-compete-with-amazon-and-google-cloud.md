@@ -1,23 +1,31 @@
 ---
 category: news
-title: "Tesla's insane new Dojo D1 AI chip, a full transcript of its unveiling"
-excerpt: "This chip is manufactured on 7nm ... To sum it all, this is what it will be: it will be the fastest AI training computer -- 4x the performance at the same cost, 1.3x better performance-per-watt -- that is energy-saving, and 5x smaller footprint."
-publishedDateTime: 2021-08-20T10:42:00Z
-originalUrl: "https://www.tweaktown.com/news/81229/teslas-insane-new-dojo-d1-ai-chip-full-transcript-of-its-unveiling/index.html"
-webUrl: "https://www.tweaktown.com/news/81229/teslas-insane-new-dojo-d1-ai-chip-full-transcript-of-its-unveiling/index.html"
+title: "Tesla AI Dojo Training as a Service Could Compete with Amazon and Google Cloud"
+excerpt: "Home » Artificial intelligence » Tesla AI Dojo Training as a Service Could Compete with Amazon and Google Cloud Lex Fridman has a very successful podcast but he has been an AI researcher for 6+ years."
+publishedDateTime: 2021-08-22T21:53:00Z
+originalUrl: "https://www.nextbigfuture.com/2021/08/tesla-ai-dojo-training-as-a-service-could-compete-with-amazon-and-google-cloud.html"
+webUrl: "https://www.nextbigfuture.com/2021/08/tesla-ai-dojo-training-as-a-service-could-compete-with-amazon-and-google-cloud.html"
+ampWebUrl: "https://www.nextbigfuture.com/2021/08/tesla-ai-dojo-training-as-a-service-could-compete-with-amazon-and-google-cloud.html"
+cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/08/tesla-ai-dojo-training-as-a-service-could-compete-with-amazon-and-google-cloud.html"
 type: article
-quality: 51
+quality: 72
 heat: -1
 published: false
 
 provider:
-  name: TweakTown
-  domain: tweaktown.com
+  name: NextBigFuture
+  domain: nextbigfuture.com
 
 topics:
-  - AI Hardware
+  - AI in Robotics
   - AI
   - AI in Autos
+
+images:
+  - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/08/Screen-Shot-2021-08-22-at-2.23.19-PM.jpg"
+    width: 1802
+    height: 1322
+    isCached: true
 
 related:
   - title: "Tesla unveils Dojo supercomputer: world’s new most powerful AI training machine"
@@ -35,22 +43,6 @@ related:
       - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Dojo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Tesla AI Dojo Training as a Service Could Compete with Amazon and Google Cloud"
-    excerpt: "Home » Artificial intelligence » Tesla AI Dojo Training as a Service Could Compete with Amazon and Google Cloud Lex Fridman has a very successful podcast but he has been an AI researcher for 6+ years."
-    publishedDateTime: 2021-08-22T21:53:00Z
-    webUrl: "https://www.nextbigfuture.com/2021/08/tesla-ai-dojo-training-as-a-service-could-compete-with-amazon-and-google-cloud.html"
-    ampWebUrl: "https://www.nextbigfuture.com/2021/08/tesla-ai-dojo-training-as-a-service-could-compete-with-amazon-and-google-cloud.html"
-    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/08/tesla-ai-dojo-training-as-a-service-could-compete-with-amazon-and-google-cloud.html"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 72
-    images:
-      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/08/Screen-Shot-2021-08-22-at-2.23.19-PM.jpg"
-        width: 1802
-        height: 1322
         isCached: true
   - title: "Tesla details Dojo supercomputer, reveals Dojo D1 chip and training tile module"
     excerpt: "Tesla CEO Elon Musk has periodically tweeted about Dojo, a ‘neural network exaflop supercomputer,’ but has shared few details up to this point. During its AI Day event this week, the electric car and energy company revealed its in-house D1 chip that will power the system and a ‘training tile’ module."
@@ -80,7 +72,16 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tesla's insane new Dojo D1 AI chip, a full transcript of its unveiling"
+    excerpt: "This chip is manufactured on 7nm ... To sum it all, this is what it will be: it will be the fastest AI training computer -- 4x the performance at the same cost, 1.3x better performance-per-watt -- that is energy-saving, and 5x smaller footprint."
+    publishedDateTime: 2021-08-20T10:42:00Z
+    webUrl: "https://www.tweaktown.com/news/81229/teslas-insane-new-dojo-d1-ai-chip-full-transcript-of-its-unveiling/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 51
 
-secured: "UKpGKXWdFhPUI2mxVT9GRaIunSJRhnFvl4HJ1mrxnj6Z1qYmHzN1iW3WQNgO12cmLhcPGf7182xMxRiZQfCtEDSi/kRqwHFFNiEGWhUpIeyp4jKXHmumS8Ai+Z2FLuxvR/X868Kt9GTxPIzk91tdf2E5L7Lvhgf116Gd9go8fOK0pDV3T74nw5DP0yBtUC0iPOyLRDGj5jOR7X4BKFY12rA1Q73Nm/U0a4EQbnQLCFRZrK3pfPINd23WDFt+VpYeXOvO9MuXBrOg8dAY+ZbdRqnsBUm1s33Ba+D8qP2mhPEBwUb4ZwQjFQA0kPSMWlJXOSxSrhb2ui+uccWKezqXF6lcoWBti9x+/jPm3I6+NPA=;zKzscAUH07z/kDL/vNc4sg=="
+secured: "JYmX6HJYrxeCKRFyFoyK1KirU1NNt1vK2z0sWLxq06ZuJ3IvD4cqx5aDe+h2kS/PNIw/kb/ywFw/6jaWC/ZtvpW2ZJiTZotr58/+IBLXAsVxYya3eE5/mfzwts4+LdKDdv+d/+jyFXvCddJ8bMMPcDh181RCGAHqyGKIbbcpDEIh+oIa1JJksXNXBp4b3t3JBiangg0JQS9k7ikH9ztnwCENaK0VJgBlvTHH+oawOiyJ+8CoaAsl00q8lcFgiCJLgezmm6MiwzAgiMU+0sP/Jn78b0Zpmsd/i0lmuayCBlI9vjewpDeJRu3NxfK3hBRsgeQ47zzkBR532lWJAd364tZtgw0uIGDsS6bV6728noc=;5/sb9Pd5ZskWgotM3CerJQ=="
 ---
 

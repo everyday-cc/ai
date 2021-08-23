@@ -9,7 +9,7 @@ ampWebUrl: "https://syncedreview.com/2021/08/18/deepmind-podracer-tpu-based-rl-f
 cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/08/18/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-85/amp/"
 type: article
 quality: 72
-heat: 75
+heat: 74
 published: true
 
 provider:

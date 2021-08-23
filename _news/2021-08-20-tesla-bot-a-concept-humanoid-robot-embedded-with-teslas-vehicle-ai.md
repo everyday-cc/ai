@@ -3,10 +3,10 @@ category: news
 title: "Tesla Bot: A concept humanoid robot embedded with Tesla's vehicle AI"
 excerpt: "At Tesla AI Day, the company's CEO Elon Musk unveiled a concept humanoid robot that will be powered by the AI currently embedded within Tesla's autonomous vehicles. Aptly named the Tesla Bot, details about the concept robot were limited,"
 publishedDateTime: 2021-08-20T02:15:00Z
-originalUrl: "https://www.zdnet.com/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
-webUrl: "https://www.zdnet.com/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
+originalUrl: "https://www.zdnet.com/index.php/category/2248/7/index.php/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
+webUrl: "https://www.zdnet.com/index.php/category/2248/7/index.php/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2248/7/index.php/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2248/7/index.php/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
 type: article
 quality: 121
 heat: -1
@@ -21,9 +21,9 @@ provider:
       height: 50
 
 topics:
-  - AI in Robotics
   - AI
   - AI in Autos
+  - AI in Robotics
 
 images:
   - url: "https://www.zdnet.com/a/hub/i/2021/08/20/c53f20ad-f148-4044-a3eb-0929d3675012/tesla.png"
@@ -1231,6 +1231,6 @@ related:
         height: 445
         isCached: true
 
-secured: "/tIX9QRF581MkXBcDll7dptbGdXZtEZF/N9hG/00U81jiKZHM8XLhOaBIqMKBBm0RpHpzsLO0TKpoMRJqfI1aW3R/1bfNGthOTN+f3TyF4fI9gX4sf6j5d3MjVOQ89K5j4Xu8c6EL7UZKsDbvZk3vVQ0KK2BQPBIUG0fxFt+r92UmT8WFAq3XzJgW8RdOnkpdbqx4JJyqN+Kjg3VnOPEKJgo9NTi50p9bfAIcStNwrxNBpT1hMPyN0SCl1797Rv1UCdZTcyIHAI7iTFgOlCEDZWY25iRUTx1pxoJGH0aLHTEzNSOl5bLNZB/QqBN9zQvNsss+XciyRZI3gS9BTQ094AmZWf/62UnTsbI7hzHhYU=;2yj1RXQoKACqr8RGUqdlqA=="
+secured: "Ip8ioixmJ+fJuQI/QyiagqtZ1vkro3dtmjXIMHZ1LPpWvq6URormOS4IGon4JTxVTpyJn8EHlECzPeDT4CnkQjmnTVr7sKrmxt6NQoclk4O+qXMJCyotkSZSNWhHFGH/FaceI0zsaTBOsPPr7whoVqepbEhm3bWuj4OWnoa0zyVyWDd4eM5g0E7LYe4N0JUC1Vy6HMoRE7HzuFTlB9DRzNyLTYpkDqmsu5kTqFNm2zQjIJqvJdpJvLnY4Vejj7wZs4oIT84PdsIJEbwwa71kErO5IgJ4XBIC7B231RWET3YesXv2fDWPro+RIEi0e3KN1T7oQdKPMSHCvwzH+IMtsNR/kUarzVQK2vnF/Nj8XTI=;9gv7WfZg6uS29WjLU2H6OQ=="
 ---
 

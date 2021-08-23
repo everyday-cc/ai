@@ -60,22 +60,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Artificial Intelligence in Aviation Market to Develop New Growth Story | NVIDIA, Intel, IBM"
-    excerpt: "Latest business intelligence report released on Global Artificial Intelligence in Aviation Market, covers different industry elements and growth inclinations that helps in predicting market forecast."
-    publishedDateTime: 2021-08-18T06:39:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-in-aviation-market-to-develop-new-growth-story-nvidia-intel-ibm/"
-    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-aviation-market-to-develop-new-growth-story-nvidia-intel-ibm/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-aviation-market-to-develop-new-growth-story-nvidia-intel-ibm/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 47
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/A-84-390x220.jpg"
-        width: 390
-        height: 220
-        isCached: true
   - title: "AI Exosphere Joins NVIDIA Inception to Bring New AI Assistant to Market"
     excerpt: "\"After being invited to the NVIDIA Inception program and hearing all the excellent work and support, NVIDIA is doing; we knew this was the best fit for our startup,\" said Sal Peer, CEO of AI Exosphere. NVIDIA Inception helps startups during critical stages ..."
     publishedDateTime: 2021-08-19T12:38:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-not
 webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-notebook-instance-now-supports-amazon-linux-2/"
 type: article
 quality: 89
-heat: 119
+heat: 120
 published: true
 
 provider:

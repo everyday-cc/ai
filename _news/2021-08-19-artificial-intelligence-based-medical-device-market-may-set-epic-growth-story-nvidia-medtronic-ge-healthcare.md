@@ -43,22 +43,6 @@ related:
         width: 620
         height: 326
         isCached: true
-  - title: "Artificial Intelligence in Aviation Market to Develop New Growth Story | NVIDIA, Intel, IBM"
-    excerpt: "Latest business intelligence report released on Global Artificial Intelligence in Aviation Market, covers different industry elements and growth inclinations that helps in predicting market forecast."
-    publishedDateTime: 2021-08-18T06:39:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-in-aviation-market-to-develop-new-growth-story-nvidia-intel-ibm/"
-    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-aviation-market-to-develop-new-growth-story-nvidia-intel-ibm/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-aviation-market-to-develop-new-growth-story-nvidia-intel-ibm/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 47
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/A-84-390x220.jpg"
-        width: 390
-        height: 220
-        isCached: true
   - title: "VVDN Technologies Joins NVIDIA Partner Network for Advanced AI-Enabled Camera, Vision Applications"
     excerpt: "With pre-trained AI models, developer SDKs and support for cloud-native technologies across the full Jetson lineup. Gurugram: VVDN Technologies announced that it has joined the NVIDIA Partner Network (NPN) as a provider of AI-enabled computer vision ..."
     publishedDateTime: 2021-08-19T06:55:00Z

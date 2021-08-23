@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Senators Urges FTC to Further Investigate Tesla's Self-Driving Claims"
-excerpt: "Senators Ed Markey and Richard Blumenthal have reportedly called on the Federal Trade Commission to investigate Elon Musk ‘s electric vehicles company over its “misleading advertising and marketing” of the Autopilot and Full Self-Driving Systems."
-publishedDateTime: 2021-08-19T08:51:00Z
-originalUrl: "https://hypebeast.com/2021/8/tesla-self-driving-claims-ftc-investigation-news"
-webUrl: "https://hypebeast.com/2021/8/tesla-self-driving-claims-ftc-investigation-news"
+title: "Tesla Could Allow Other Automakers To Utilize Its Self-Driving Technology"
+excerpt: "This could lower the cost for automakers to develop their own self-driving technologies, leading to more vehicles on the road with autonomous driving features."
+publishedDateTime: 2021-08-22T23:09:00Z
+originalUrl: "https://www.carscoops.com/2021/08/tesla-could-allow-other-automakers-to-utilize-its-self-driving-technology/"
+webUrl: "https://www.carscoops.com/2021/08/tesla-could-allow-other-automakers-to-utilize-its-self-driving-technology/"
+ampWebUrl: "https://www.carscoops.com/2021/08/tesla-could-allow-other-automakers-to-utilize-its-self-driving-technology/amp/"
+cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/08/tesla-could-allow-other-automakers-to-utilize-its-self-driving-technology/amp/"
 type: article
-quality: 54
+quality: 58
 heat: -1
 published: false
 
 provider:
-  name: Hypebeast
-  domain: hypebeast.com
+  name: Carscoops
+  domain: carscoops.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F08%2Ftesla-self-driving-claims-ftc-investigation-news-tw.jpg?w=960&cbr=1&q=90&fit=max"
-    width: 960
-    height: 480
+  - url: "https://www.carscoops.com/wp-content/uploads/2021/08/2021-Tesla-Model-S-1-1024x555.jpg"
+    width: 1024
+    height: 555
     isCached: true
 
 related:
@@ -261,22 +263,6 @@ related:
         width: 1024
         height: 707
         isCached: true
-  - title: "Tesla Could Allow Other Automakers To Utilize Its Self-Driving Technology"
-    excerpt: "This could lower the cost for automakers to develop their own self-driving technologies, leading to more vehicles on the road with autonomous driving features."
-    publishedDateTime: 2021-08-22T23:09:00Z
-    webUrl: "https://www.carscoops.com/2021/08/tesla-could-allow-other-automakers-to-utilize-its-self-driving-technology/"
-    ampWebUrl: "https://www.carscoops.com/2021/08/tesla-could-allow-other-automakers-to-utilize-its-self-driving-technology/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/08/tesla-could-allow-other-automakers-to-utilize-its-self-driving-technology/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 58
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2021/08/2021-Tesla-Model-S-1-1024x555.jpg"
-        width: 1024
-        height: 555
-        isCached: true
   - title: "Senators urge FTC to probe Tesla over self-driving claims"
     excerpt: "Two senators say company has misled consumers and endangered the public by marketing its driving automation systems as fully self-driving."
     publishedDateTime: 2021-08-18T14:54:00Z
@@ -304,6 +290,20 @@ related:
       - url: "https://s1.cdn.autoevolution.com/images/news/us-senators-urge-ftc-to-investigate-tesla-about-self-driving-claims-167555-7.jpg"
         width: 728
         height: 300
+        isCached: true
+  - title: "Senators Urges FTC to Further Investigate Tesla's Self-Driving Claims"
+    excerpt: "Senators Ed Markey and Richard Blumenthal have reportedly called on the Federal Trade Commission to investigate Elon Musk ‘s electric vehicles company over its “misleading advertising and marketing” of the Autopilot and Full Self-Driving Systems."
+    publishedDateTime: 2021-08-19T08:51:00Z
+    webUrl: "https://hypebeast.com/2021/8/tesla-self-driving-claims-ftc-investigation-news"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 54
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F08%2Ftesla-self-driving-claims-ftc-investigation-news-tw.jpg?w=960&cbr=1&q=90&fit=max"
+        width: 960
+        height: 480
         isCached: true
   - title: "Senators Call for Investigation of Tesla’s Marketing Claims of its Autopilot and 'Full Self-Driving' Features"
     excerpt: "Consumer Reports shares details of a call to investigate Tesla’s marketing claims for its Autopilot and 'Full Self-Driving' Features. Two U.S. senators' letter to the Federal Trade Commission alleges that the automaker’s public statements might have led to crashes and fatalities."
@@ -359,6 +359,6 @@ related:
         height: 630
         isCached: true
 
-secured: "hsVYw8iFkX7Q1k+Xxr78vPwmwB83JU6QiJXChjrQ65/IvalmFFROqDJcu8GGd59sH/QVxCRMFendExSEUoWWL78t+epT8J/LtPQzJPUCCF9L/eaG/RrjwLeuJXoD7TYDYojIvoKazj6tOQNPnnqQ37vJfl/KH9aPMQRwRMRBKQVRG+52yYA5hg02GtstSJRPItsrslZIikSCeaNJhTZ+93zoB2nGNIcPsgMnc82/jhV04jQDb0HJrgDX0iXgFXZE8yJBfHi6q8hXb8YiI1Sd95CriIFby/QA4qCM8VK4HG9/4CJJ9eqUw1q0oxQSquYXHy0V/UHb3f8BVj/ZuadBoitc0yN9rdnPJcIaEb3xQmEMMuiI8UlT+Fo0nsGR28ni99pJDCqNdsqIkpx72vEZO+W39Wo9mmqF6DOw7NelIc/kWrCuSQoaQoziwtdSvKlnRKsXSV5T9+SiCwtQlYxMyxj42/43qhOe998+2+XwgPMSq6DZG/Fmmy6S+T2EzmtiizVHiH6txyNsHwE4sI2xKQ==;tQGtfL731TAzEEzPus8fNA=="
+secured: "nWJv5WBM9IuhPjaSJnLkhPKoD2t81vOYwTabVwkzr08Iv5qkF9F0g8iLEA9r2HO0QB+wwC/WCll+NuFeHdR1Bg2Jt7xVC/BWUns7LFaoDOfNx+X2Sx2aGDXf7zK1IdzXHeDyo4CB/uEQ6fQjjvQy/bPi/YJt8kSoqenPIIZvVzDxdssCKNmj6/LyZ3ed581aSo7Lvndz+C3GX5yhUItTjIPRFiyZbr6nfa9IbyVNinwb1rTciXxwnvaxImWDDszDPjuxbLYvH1Erv9advtDO9QHFEilGaQc7CAcQsPw0C6Qc0eKG77vzW7Q8/G5cqT7OaPxwE0zAieCd34efcDAmI62MxBk1Xm3jj6nniqAhUPk=;wYrjXmOZBacstqQdNZMuQQ=="
 ---
 

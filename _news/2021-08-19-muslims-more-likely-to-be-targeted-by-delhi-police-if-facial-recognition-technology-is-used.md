@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI Technology: A Disrupter to Teaching and Learning"
+    excerpt: "The COVID-19 pandemic has changed the game in education globally, with the adoption of e- learning no longer an option but a matter of survival for all educational institutions."
+    publishedDateTime: 2021-08-22T23:13:00Z
+    webUrl: "https://www.khmertimeskh.com/50920973/ai-technology-a-disrupter-to-teaching-and-learning/"
+    type: article
+    provider:
+      name: Khmer Times
+      domain: khmertimeskh.com
+    quality: 37
+    images:
+      - url: "https://www.khmertimeskh.com/wp-content/uploads/2021/08/Op-Ed-Monday-Page-9-2.jpg"
+        width: 750
+        height: 440
+        isCached: true
 
 secured: "fGv496r4E6PEFHf4loYkSKhV216G5dLtdybK4VyqAeoCzsqSRUXscTe5AsPBOjrBD+5LwLGa5Ol+9S1P5qLhjHoprEn6IGru66JN7Ut29JgzOrtnhYu1VbNQeYyr9LQPWAygPHFvqh/71LI68bdE8eyjjb/k84u0I/mYg9n7tSj5B75RVnZLhTTsM9sclWbpfrhNA84VizIBP81C8KMuScYuaW3lCKLAtsMpyDrP2BnGQRFbcE1XZWU/OKVGDAlA2kodk+uP9/1gNZxHChNpstb7+OiDDXF+oW3wHUsj9P76wtPiZ5DdaAqsjzMdewBcpanOY0I2vujkJVEQjcAcpZ2uTnGED58yZJgA88ZKevsFKglxiEaK9czPXvsSEa+BccK1eLoy4SbyyyvdYvmf+uYmTU+GmWcBPqUElHFF2v7nrYY6gg0fhnWrXba7ijR6+h3/OQtLGriXwqqW91TfukfwmQ8PqN36FygBQiFwO8GmkrHLFO9rZaEOvpP3qBb24j2qinLtc35fV/azpyISlg==;rDzt+16+iCWPOWEhGjlNHA=="
 ---

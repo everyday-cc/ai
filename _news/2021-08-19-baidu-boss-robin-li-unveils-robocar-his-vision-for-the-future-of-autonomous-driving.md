@@ -9,7 +9,7 @@ ampWebUrl: "https://www.asiaone.com/digital/baidu-boss-robin-li-unveils-robocar-
 cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/digital/baidu-boss-robin-li-unveils-robocar-his-vision-future-autonomous-driving?amp"
 type: article
 quality: 51
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "https://s19538.pcdn.co/wp-content/uploads/2021/08/Baidu-exterior-1000x563.jpg"
         width: 1000
         height: 563
-        isCached: true
-  - title: "Baidu Apollo unveils autonomous vehicle with no steering wheel or pedals"
-    excerpt: "Baidu has been conducting R&D on autonomous vehicles since 2013. It established Apollo in 2017. Baidu holds 2,900 patents in the field, and its self-driving cars have covered 12 million km in tests and passenger services."
-    publishedDateTime: 2021-08-18T05:48:00Z
-    webUrl: "https://kr-asia.com/baidu-apollo-unveils-autonomous-vehicle-with-no-steering-wheel-or-pedals"
-    type: article
-    provider:
-      name: kr-asia
-      domain: kr-asia.com
-    quality: 38
-    images:
-      - url: "https://console.kr-asia.com/wp-content/uploads/2021/08/baidu_apollo_new_robot_car-scaled.jpg"
-        width: 2560
-        height: 1706
         isCached: true
   - title: "China's Baidu Unveils a Level-5 Robocar With No Steering Wheel & Gull-Wing Doors That ‘Moves, Communicates & Learns'"
     excerpt: "China’s tech giant Baidu Inc held its annual flagship \"Baidu World 2021\" conference on Wednesday and once again revealed some of its advanced work on AI and autonomous driving. Among the highlights, Baidu Co-founder and CEO Robin Li unveiled his vision for mobility of the future in the form of a futuristic “robocar” designed to make autonomous vehicles more accessible to the broader public."

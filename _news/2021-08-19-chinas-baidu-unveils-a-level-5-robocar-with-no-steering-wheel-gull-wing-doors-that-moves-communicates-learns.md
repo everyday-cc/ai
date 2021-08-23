@@ -69,20 +69,6 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "Baidu Apollo unveils autonomous vehicle with no steering wheel or pedals"
-    excerpt: "Baidu has been conducting R&D on autonomous vehicles since 2013. It established Apollo in 2017. Baidu holds 2,900 patents in the field, and its self-driving cars have covered 12 million km in tests and passenger services."
-    publishedDateTime: 2021-08-18T05:48:00Z
-    webUrl: "https://kr-asia.com/baidu-apollo-unveils-autonomous-vehicle-with-no-steering-wheel-or-pedals"
-    type: article
-    provider:
-      name: kr-asia
-      domain: kr-asia.com
-    quality: 38
-    images:
-      - url: "https://console.kr-asia.com/wp-content/uploads/2021/08/baidu_apollo_new_robot_car-scaled.jpg"
-        width: 2560
-        height: 1706
-        isCached: true
 
 secured: "htjtRf6sb6xflbiCe01B43Z4dKCsoar6AjTlePQwXl329Lmb18nFXepLhd5nWX7Ce2Z2mia7OZLO6Hs/lM/Ip1gW1YONVauLRjpoWYE6PSchCm5HAd7BIlWoj1LgfSEOoYRi90VZFwQ4COoepkaVTd7yltcFyqQMt0kp+hS7SEMTofXmELqQmmvLZXMkr/3ImthzeDuiz1NipCPUMt8QbK5eW/lBXdt8QeiSbd6TtEPr/DPHrlv+XcyYnD1PR3wbU6zUND6akQmpK6D3SpMqUB5rSiXhCbzfpRkWzAzEmay/S7jrrSrxh1MYjvOT+Rm5hxYqPzD8uWp2SsM4q9XEXrNUH/6paIA9WKoinRS5j6TeRMgGE03jaxJSBEovml75tl3boyY9IeaEUn4WJkEIzKuM4nvimu/di7IEtLCaH5Fueefi6tuRYJszFyfkOv1KDj2KVR6iBi4m6fnB5dcler+sQ90DGhMUvPJ4nGd9w0DS1iCWIzCXD5y6kksjGmhp6yVWKonHt601Ck/ATh7TfQ==;WGl1i0zg62QqYPD88DbbZg=="
 ---

@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla AI Dojo Training as a Service Could Compete with Amazon and Google Cloud"
+    excerpt: "Home » Artificial intelligence » Tesla AI Dojo Training as a Service Could Compete with Amazon and Google Cloud Lex Fridman has a very successful podcast but he has been an AI researcher for 6+ years."
+    publishedDateTime: 2021-08-22T21:53:00Z
+    webUrl: "https://www.nextbigfuture.com/2021/08/tesla-ai-dojo-training-as-a-service-could-compete-with-amazon-and-google-cloud.html"
+    ampWebUrl: "https://www.nextbigfuture.com/2021/08/tesla-ai-dojo-training-as-a-service-could-compete-with-amazon-and-google-cloud.html"
+    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/08/tesla-ai-dojo-training-as-a-service-could-compete-with-amazon-and-google-cloud.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 72
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/08/Screen-Shot-2021-08-22-at-2.23.19-PM.jpg"
+        width: 1802
+        height: 1322
+        isCached: true
   - title: "Tesla details Dojo supercomputer, reveals Dojo D1 chip and training tile module"
     excerpt: "Tesla CEO Elon Musk has periodically tweeted about Dojo, a ‘neural network exaflop supercomputer,’ but has shared few details up to this point. During its AI Day event this week, the electric car and energy company revealed its in-house D1 chip that will power the system and a ‘training tile’ module."
     publishedDateTime: 2021-08-20T19:27:00Z

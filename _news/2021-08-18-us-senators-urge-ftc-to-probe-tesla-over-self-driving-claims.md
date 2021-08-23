@@ -251,6 +251,22 @@ related:
         width: 1024
         height: 707
         isCached: true
+  - title: "Tesla Could Allow Other Automakers To Utilize Its Self-Driving Technology"
+    excerpt: "This could lower the cost for automakers to develop their own self-driving technologies, leading to more vehicles on the road with autonomous driving features."
+    publishedDateTime: 2021-08-22T23:09:00Z
+    webUrl: "https://www.carscoops.com/2021/08/tesla-could-allow-other-automakers-to-utilize-its-self-driving-technology/"
+    ampWebUrl: "https://www.carscoops.com/2021/08/tesla-could-allow-other-automakers-to-utilize-its-self-driving-technology/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/08/tesla-could-allow-other-automakers-to-utilize-its-self-driving-technology/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 58
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2021/08/2021-Tesla-Model-S-1-1024x555.jpg"
+        width: 1024
+        height: 555
+        isCached: true
   - title: "Senators urge FTC to probe Tesla over self-driving claims"
     excerpt: "Two senators say company has misled consumers and endangered the public by marketing its driving automation systems as fully self-driving."
     publishedDateTime: 2021-08-18T14:54:00Z
