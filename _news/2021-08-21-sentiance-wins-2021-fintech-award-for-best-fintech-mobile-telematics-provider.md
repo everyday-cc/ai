@@ -39,6 +39,20 @@ related:
         width: 400
         height: 230
         isCached: true
+  - title: "Top Programming Languages for Finance in Fintech"
+    excerpt: "This article explores some of the top programming languages for finance in fintech to power companies. Programming language is essential for efficient financial services. Multiple programming languages for finance are suitable for different fintech companies."
+    publishedDateTime: 2021-08-23T11:06:00Z
+    webUrl: "https://www.analyticsinsight.net/top-programming-languages-for-finance-in-fintech/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Top-Programming-Languages-for-Finance-in-Fintech.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "WQ7751+dcA4XOXlu+oeJRo4iQV0NaYtpiyeUVVUX3WyDRpPpykAjQAImtb+Eqm1cujXRLHFnO+B4rvWLVpQesDyxZBd7bcj8DWvGpp0RKUFsPyO2SJY/MDIU3X5qZ/3ndVwaFwEXUXk4F/V9pywoTmkI6Rl9Wh016hXdXPqELHkmEjHke2PkHAE8QWHLrzbOXb5eEnmwoe6CcVm1C4Rev2ZjZkF50FL3ypRrSz2fh1WpsVPMzVhGk9hzNYXbGcY7H2KXPE2o94KI71jqPV6eflzH0TM3EI9klsSysUNY1OuY1lhbkRsI6P8Vb1oITDdMhB+y0QZyI6zs+QXaZ7Nhu4vJnSX6G8E1nPK/ss4PnxknoBatIsZFGGGz2TTKGmuwoReIraHB/dkrGaBcmwOkw2a6UKPsDzFBsiHdGUUq3puVwjTxPig7+LMGLvWTeo7wfyfBtCBblMWv8yeGvtB1i9Tf1Yvznd8uWN8ntlhoz3bLLuJ3+w3Ske3bPQh4k+ASY72GipcvrA1laioVMt9uVA==;iq9vSMXl8L5Gnd5APpgGrg=="
 ---

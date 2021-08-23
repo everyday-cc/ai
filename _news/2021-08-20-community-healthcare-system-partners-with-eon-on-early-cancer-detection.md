@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nwitimes.com/business/local/community-healthcare-system-
 cdnAmpWebUrl: "https://www-nwitimes-com.cdn.ampproject.org/c/s/www.nwitimes.com/business/local/community-healthcare-system-partners-with-eon-on-early-cancer-detection/article_9923b1fd-82ba-5056-a76d-ac2042259d8f.amp.html"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 620
     height: 431
     isCached: true
-
-related:
-  - title: "J&J partners with AI startup to identify early lung cancer cases"
-    excerpt: "A Johnson & Johnson division focused on developing tools to combat lung cancer is partnering with a clinical decision-support startup that recently achieved regulatory clearance for an early detection tool, the companies announced Wednesday. The Lung ..."
-    publishedDateTime: 2021-08-18T17:25:00Z
-    webUrl: "https://www.modernhealthcare.com/information-technology/jj-partners-ai-startup-identify-early-lung-cancer-cases"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 37
-    images:
-      - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/Artifical%20intelligence_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "knetDw1OgU+osSIOjvUyIpgWkIsvtomEc/aRV17bwfEmmecaDd4Hhp0433jx6BFdkpetyghNn1KQifgAW6x1KRXshaf1jEfMbCaldSSZcDTWCMacrEDXrK1FDo9hLN9cQlLUxr7J4/VnKGlbVN7UXYZ3+9HbXOrR60fcK57AtmFlJaM4pnlCg6PuLVAnXbZUpOEQFR1f/ev+aH2mn5BBow4Bi4AMfD6wjrWnWVTeyextsXNfScfmjW7DJvbT613uu9SWYHH4TVhKj9kEOLJ5yU4nfR1ysR3xJZc6IaMwT/qWL4xyXMl0GLLgB0HUS1jhjgKTxS8KnvmcgLs6EbjOrXYYOmvDZq6+Yq5Qoayg2bbwboVj4bx7nLXj/OpvP57PWiEhg+r230hTpkRuyvWc5Hn43aOExNrcFqT+gj1UXhd11ZOJ3jZTAWShjaE1iHrxct47JHu3G6RxBYY5J7ETyKOrKrTuR/NBLKHShbqwxKdy5dvLMv4W7E1CTpDQQds3BJpz9VjXJKubhzNYfjZpRw==;3XbRc1ZQvQSCVw31Tb7bJg=="
 ---

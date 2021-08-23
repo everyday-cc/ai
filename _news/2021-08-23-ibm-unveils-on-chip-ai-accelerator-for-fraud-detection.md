@@ -2,26 +2,32 @@
 category: news
 title: "IBM unveils on-chip AI accelerator for fraud detection"
 excerpt: "IBM has unveiled its long-awaited 'Telum' chip, built with AI inference acceleration that will allow for fraud detection while a transaction is occurring. The new processor was showcased at the annual Hot Chips conference with the first Telum-based system planned for 2022."
-publishedDateTime: 2021-08-23T09:35:00Z
-originalUrl: "https://www.cloudpro.co.uk/business-intelligence/9212/ibm-unveils-on-chip-ai-accelerator-for-fraud-detection"
-webUrl: "https://www.cloudpro.co.uk/business-intelligence/9212/ibm-unveils-on-chip-ai-accelerator-for-fraud-detection"
+publishedDateTime: 2021-08-23T09:32:00Z
+originalUrl: "https://www.itpro.co.uk/server-storage/high-performance-computing-hpc/360650/ibm-telum-ai-chip-fraud-detection-official"
+webUrl: "https://www.itpro.co.uk/server-storage/high-performance-computing-hpc/360650/ibm-telum-ai-chip-fraud-detection-official"
+ampWebUrl: "https://www.itpro.co.uk/server-storage/high-performance-computing-hpc/360650/ibm-telum-ai-chip-fraud-detection-official?amp"
+cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/server-storage/high-performance-computing-hpc/360650/ibm-telum-ai-chip-fraud-detection-official?amp"
 type: article
-quality: 54
-heat: -1
-published: false
+quality: 104
+heat: 154
+published: true
 
 provider:
-  name: Cloud Pro
-  domain: cloudpro.co.uk
+  name: IT Pro
+  domain: itpro.co.uk
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2021/08/ibm.jpeg"
-    width: 1920
-    height: 1170
+  - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1629710362/itpro/_IBMPressOffice.jpg"
+    width: 1260
+    height: 710
     isCached: true
 
 related:
@@ -71,19 +77,19 @@ related:
         width: 566
         height: 400
         isCached: true
-  - title: "Intel unveils details of 100B-transistor AI chip and Alder Lake hybrid processor"
-    excerpt: "Intel is looking to take on Nvidia Corp. in the AI silicon market with Ponte Vecchio, which the company describes as its most complex system-on-chip or SOC to date. Ponte Vecchio features some 100 ..."
-    publishedDateTime: 2021-08-19T18:06:00Z
-    webUrl: "https://siliconangle.com/2021/08/19/intel-debuts-100b-transistor-ai-chip-alder-lake-hybrid-processor/"
+  - title: "IBM's new Telum chips will help infer enterprise workload, detect fraud, and more"
+    excerpt: "IBM has introduced its new Telum processor at the annual Hot Chips conference. The processor is IBM's first one that can do on-chip acceleration for AI inferencing during a transaction."
+    publishedDateTime: 2021-08-23T03:54:00Z
+    webUrl: "https://www.neowin.net/news/ibms-new-telum-chips-will-help-infer-enterprise-workload-detect-fraud-and-more/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 49
+      name: Neowin
+      domain: neowin.net
+    quality: 64
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/intel.png"
-        width: 800
-        height: 450
+      - url: "https://cdn.neow.in/news/images/uploaded/2021/08/1629702919_ibm_z_chip_03_story.jpg"
+        width: 760
+        height: 506
         isCached: true
   - title: "IBM unveils Telum Processor chip with AI capacity to detect fraud"
     excerpt: "IBM has unveiled its upcoming new 7nm EUV chip, the IBM Telum Processor, designed to address fraud in real time. The processor contains a chip system for AI inferencing while a transaction is taking place."
@@ -95,6 +101,6 @@ related:
       domain: telecompaper.com
     quality: 34
 
-secured: "6YHQ2BaU1+Y761q25+NCexxampxFl2EErlPc6h5GFCii41tbpu4z2MQ7sAAhPtes1dZIAwvfpyM4TamjaNmPX5qx7pL6sATrQGD7rSupL2vf+QytyrtTSpXEb9QDyDOB7kAdbWdq/ZALHZS/6coR2d1oE18OLI+KbZKgmdu9R2v4UTsphG0G+OCkJ5InWrVWqMS7pzwDEUfD0l5Ig9AiMh8jx0JtlwESgeDxQNCDXs0XOmgDebw5BQw6lX2a29JGhlQWrJTVObNySqZ0RlEFzyQtw0iBhsTjhpF0UwmnOWhoP8zEw2tTw9pg4W49I/xOIIbv1DOmyvtzWKj+46DWq9icL9XUXayEKW2y+v6sv3Y=;0JI+FkqD/z/1YgSBcH7xkQ=="
+secured: "EFnRsypjlKjbb5t9DyBud//XNPGzIVIHHnJd2OmItxiYO/U0vrrtTwkP/r2gCRP/B05W6hShkTTGVXOBOORGpyMeevisdC4svsYDgC9qeozhbobOU1RRRzLL89kFQtj7rlau5EUnSgQd0XwI2PdoFzxlxYny7zb/I8fCfjw/yVBqF/xswnT0ETbnhRv6L9f7jYEXlardQ76tWTbjIjx2ILNUqBPhitm54Yq6J/aarNA3VMBbr2IP0m49dJ94R21fB8hkNEZWrYzgfZ4gwuXCUt1c49r0Wc/f/rlqrGbI7P6DUkjPdxo+fxRrU9ncYjoXu9c7pBYgbR2KgY6jsJR0rjM/DKugyCVwwfjfPbOaivc=;Yir0eyQTb41X+5t+EGQ/RA=="
 ---
 

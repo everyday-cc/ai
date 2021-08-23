@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "UK Government Accused Of Sneaking Through New Live Facial Recognition Rules"
+    excerpt: "More than 30 civil liberties groups are accusing the UK Home Office and police of bypassing Parliament to introduce live facial recognition technology (LFRT)."
+    publishedDateTime: 2021-08-23T11:22:00Z
+    webUrl: "https://www.forbes.com/sites/emmawoollacott/2021/08/23/uk-government-accused-of-sneaking-through-new-live-facial-recognition-rules/"
+    ampWebUrl: "https://www.forbes.com/sites/emmawoollacott/2021/08/23/uk-government-accused-of-sneaking-through-new-live-facial-recognition-rules/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2021/08/23/uk-government-accused-of-sneaking-through-new-live-facial-recognition-rules/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6123848325385b2b21e3c8cd%2F0x0.jpg"
+        width: 1200
+        height: 754
+        isCached: true
   - title: "Campaigners call for ban on use of facial recognition tech in UK"
     excerpt: "Human rights group Liberty has called on the UK to ban the use of facial recognition software by police forces and private companies, as the British Government updates its guidance on the use of the surveillance technologies."
     publishedDateTime: 2021-08-19T11:58:00Z
@@ -71,6 +87,22 @@ related:
         width: 525
         height: 295
         isCached: true
+  - title: "Emotion Detection And Recognition Market"
+    excerpt: "The global Emotion Detection And Recognition Market is forecast to reach USD 148 11 Billion by 2026 according to a new report by With the rising number of smart homes increasing demand for personal health and industry"
+    publishedDateTime: 2021-08-20T05:14:00Z
+    webUrl: "https://www.openpr.com/news/2361364/emotion-detection-and-recognition-market-segments-key-vendors"
+    ampWebUrl: "https://www.openpr.com/amp/2361364/emotion-detection-and-recognition-market-segments-key-vendors"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2361364/emotion-detection-and-recognition-market-segments-key-vendors"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 44
+    images:
+      - url: "https://cdn.openpr.com/U/8/U820923146_g.jpg"
+        width: 750
+        height: 350
+        isCached: true
   - title: "Civil liberties groups demand ban on facial recognition technology"
     excerpt: "A group of civil society bodies has called on the Government to ban facial recognition cameras, while accusing police and the Home Office of bypassing Parliament over guidance for the use of the technology."
     publishedDateTime: 2021-08-23T05:30:00Z
@@ -98,6 +130,22 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/11151135/biometric-identification-facial-recognition.jpg"
         width: 1600
         height: 1109
+        isCached: true
+  - title: "Civil liberties groups say facial recognition cameras should be BANNED as they accuse ministers of quietly approving their use despite court rulings against invasive filming"
+    excerpt: "Thirty-one organisations including Amnesty International have posted a letter alleging guidance allowing facial recognition across England and Wales has been given in defiance of court rulings."
+    publishedDateTime: 2021-08-23T09:59:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-9918055/Civil-liberties-groups-demand-ban-facial-recognition-technology.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-9918055/amp/Civil-liberties-groups-demand-ban-facial-recognition-technology.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9918055/amp/Civil-liberties-groups-demand-ban-facial-recognition-technology.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 23
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/08/23/10/46991959-0-image-a-2_1629711354901.jpg"
+        width: 636
+        height: 382
         isCached: true
 
 secured: "loYMd6yd4vVrnqS8MdwqO8T2uRbHjCdLiFyISTmp8EIhUO9Y8qBaXaYMx1MNJLOeyTFOJ73a+Co6C1IqYThelbO+0SFQH9CPNK/oMFqTo92AgsUB7GUsp4yP6ui69c1RKGmCblWLSjn9wESLFzA38bkE9KyPbkfOrte2PfraXunZ9SOO7sJcDFdcHJaTUBSYH5HLFWvs7fr1aUk3DafOT5fJZpMG0u5Yt++ctyyg5zEH18scnSulI6tGfxY4Fj5/Ci8poEmYj+UJMzagGGFmha1QAmu9kwoEUWjD4UK9vjGbcTiOUFbHmVBfcWEvhWLxOUtm4nZB3u07tNAd67ONJ4ZJd6AN0zx2m0CU0sH8QMyHp9D16E26+9AswwPkL9KOz4dbL8TlCoJ/e+mw6OfTC49BLrydYn7xfldKSW9nlxeHiTuFrKfG5emKnNzUIh0YUKZI3DHw0Yur2bnCmoQX1qjmgK8OXmEMOEMxiEI/t2KWEOCShGmkkVYtA70qGzkLcfc5PRdiDmowJQCsTVW8xw==;vspWFSGK3deJJEOGvcAVAg=="

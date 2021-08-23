@@ -7,7 +7,7 @@ originalUrl: "https://www.cmswire.com/customer-experience/4-ways-conversational-
 webUrl: "https://www.interactions.com/conversational-ai/"
 type: article
 quality: 139
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "How artificial intelligence is changing the face of beauty"
-    excerpt: "From fragrance to skincare, AI is helping us to make smarter beauty choices Finding a new-season foundation or signature scent has long required a stroll through the beauty aisles of our favourite department stores."
-    publishedDateTime: 2021-08-18T17:30:00Z
-    webUrl: "https://www.telegraph.co.uk/beauty/news/artificial-intelligence-changing-face-beauty/"
-    ampWebUrl: "https://www.telegraph.co.uk/beauty/news/artificial-intelligence-changing-face-beauty/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/beauty/news/artificial-intelligence-changing-face-beauty/amp/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 57
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/beauty/2021/08/18/Visuels-connectivite-ROSE_0_trans_NvBQzQNjv4BqLUm2LqZ7QfPrWh62iB90NVTmGTZwRSZcqbDiPNar8DA.jpg"
-        width: 828
-        height: 517
-        isCached: true
   - title: "How AI is Revolutionizing the Freight Industry"
     excerpt: "In this contributed article, Oleg Yanchyk, CIO of Sleek Technologies, discusses how AI is shaking up the logistics space and what could lay on the horizon. From making business intelligence decisions more agile to ensuring data is clean and ready to be analyzed,"
     publishedDateTime: 2021-08-20T13:00:00Z

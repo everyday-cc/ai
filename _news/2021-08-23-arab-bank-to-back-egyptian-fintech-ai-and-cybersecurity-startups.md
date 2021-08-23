@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/startups/2021/arab-bank-back-egyptian-fintech
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/startups/2021/arab-bank-back-egyptian-fintech-artificial-intelligence-cybersecurity-startups/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://cdn.wamda.com/feature-images/5f6a17f5130b65a.jpeg"
         width: 1280
         height: 853
+        isCached: true
+  - title: "Arab Bank launches FinTech AB accelerator in Egypt"
+    excerpt: "Arab Bank has recently launched its FinTech-focused corporate accelerator programme “AB Accelerator” in Egypt, following its successful launch in Jordan back in 2018. The launch of this programme in Egypt comes as part of the bank’s strategic efforts to foster and support innovation in the FinTech sector towards offering responsive and agile banking solutions in line with the evolving needs and expectations of clients across different segments."
+    publishedDateTime: 2021-08-23T11:17:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/arab-bank-launches-fintech-ab-accelerator-in-egypt/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
+    images:
+      - url: "https://mk0ibsintelligek4gm6.kinstacdn.com/wp-content/uploads/2020/09/India-FinTech-300x300.jpg"
+        width: 300
+        height: 300
         isCached: true
   - title: "A Canadian-based Fintech Company to Expand Globally With World-class AI Technology"
     excerpt: "As such, Peak Fintech Group announced on August 16 that it will be acquiring Cubeler, an analytics and AI company located in the heart of Montreal. Peak Fintech to acquire Cubeler In a press release, it was revealed that Peak Fintech will acquire 100 per ..."

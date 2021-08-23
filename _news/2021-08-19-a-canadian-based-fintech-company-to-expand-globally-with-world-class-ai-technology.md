@@ -49,6 +49,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Arab Bank launches FinTech AB accelerator in Egypt"
+    excerpt: "Arab Bank has recently launched its FinTech-focused corporate accelerator programme “AB Accelerator” in Egypt, following its successful launch in Jordan back in 2018. The launch of this programme in Egypt comes as part of the bank’s strategic efforts to foster and support innovation in the FinTech sector towards offering responsive and agile banking solutions in line with the evolving needs and expectations of clients across different segments."
+    publishedDateTime: 2021-08-23T11:17:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/arab-bank-launches-fintech-ab-accelerator-in-egypt/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
+    images:
+      - url: "https://mk0ibsintelligek4gm6.kinstacdn.com/wp-content/uploads/2020/09/India-FinTech-300x300.jpg"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "ab8iEKe1cdYhgaOsTZ58ox9YBG9k7tiTx7IHhLZiHG0E0BJHV/XiZ1/TjYU0GMx6dD0lIVHikuzYYLKbWiOh6DSLf2k6BLI7iT3LjEYBdAXNY2B/DBMN0CFfAJ2u2Jh+0uR+g/K94xPVlpbKcWJI6EzSMgs2G1hLa0GLcy5YEXqPoxrl/X+NYmAAAIVd2qFd6B/XiltImCCKdAYfohJHa89ouVFxfM3qxPigT/Nu5IJtEf6gTKir7L52wJOU+53xZSjKMk5Cl2TGlZ4RgeJ75pEXL3UdXNQ7OOYOUrIT9H0KPM+bimoqdddy2KCGa1RTYHmI1RyC4UEkHS0mCfPLMG+mP9sRoH1tSeOPQfREylaIcnGxjtUbDbC6l8+hjQ9ckep4WpJSGNTPjaLurw/Uina6R1KiemRSdsAOWsqV4+zDjzHmzRnVM2luDQC7DFj/+9QMyktgX3LsoTaWCo+97DoUPqlbCsGVo5sGEEGARgAm501ltOKeUdcmNMDG5NC/ubjxMd0W1ZJ2ld0aDt6GUQ==;3kLh3IkH2WXB1EP4y+SNNg=="
 ---

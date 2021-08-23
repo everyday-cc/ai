@@ -29,19 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu World 2021: Baidu Showcases How Latest AI Innovations Transform Transportation, Industry and Daily Life"
-    excerpt: "Today, Baidu demonstrated how its latest AI innovations will transform and improve transportation, industry and daily life at its annual flagship technology conference, Baidu World 2021. From a robocar reveal and a rebranded robotaxi mobile platform to Xiaodu's first smart TV and the 2 nd generation Kunlun AI chip,"
-    publishedDateTime: 2021-08-18T17:52:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/baidu-world-2021-baidu-showcases-how-latest-ai-innovations-transform-transportation-industry-and-daily-life-1030742878"
+  - title: "Baidu Announces Autonomous Driving Milestones at Baidu World 2021"
+    excerpt: "and be self-learning,” said Robin Li, Co-founder and CEO of Baidu, as he unveiled his vision for autonomous vehicles of the future – a robocar with L5 autonomous driving capabilities. Li envisions that intelligent vehicles of the future will be more ..."
+    publishedDateTime: 2021-08-19T06:18:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-626b012d795fd9eb6ec87effb77d2ee4"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 52
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
     images:
-      - url: "https://mma.prnewswire.com/media/1597362/Image1.jpg"
-        width: 400
-        height: 266
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "WM0t2HTrJOQG2aQ2tN0v9Z8QuUJ+cjtlyLIXDKQjWMEGfLSRLxKUW0sFNYRd/2r4baTDgJdvIHvV0sKGx3s7eoA54FlQAodXFVGFUiqIStSmMnzZmqb8f4ftCEdxYXMShQO35uhrsYiGFW6PVvTrCP27xQwrTXjP+/YUm3mJ86XOwiEfkLhs8Fg0wLKjhNXWZZV5s2tVbEY7HELk2nkKsR1cFbaCOmxW4cB1HPRq7HB90xRstKJbhQLUHaHV/aU5Sl+6XWcUPz3/Jsjhoy305UbJcG4qylSzBVCbvs9vKG+yzRmD5k0QMHnQOBDexfGpTGf2al+RcI4cbWTCs1TCsiyMYMLiU8StHWmhuxAGn7qb/LBVJIUBzr/wHRBSQSmaxNdx78k/UOkSDfXmngmXVZwfICDlRLtUQAizZMmEIGeV6uFVv+pFKfLyFB00HfveK5mw9SSQW5tY3NvK2pM938p1tOwIMOAN/Sl7USM2WEBF3sNxXH6Jla1yhy0zhLPrlRZUsutT6FQHr5y+405LCw==;1dVzKa6TzEkxYZXVR03cAg=="

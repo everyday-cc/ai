@@ -277,22 +277,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 101
-  - title: "Elon Musk’s Plan To Tout Tesla AI Comes As Tougher Scrutiny Of The Company Looms"
-    excerpt: "The company's AI Day takes place as NHTSA probes its Autopilot feature and as two Senators call for a Federal Trade Commission investigation of how Tesla promotes Autopilot and Full Self Driving."
-    publishedDateTime: 2021-08-18T18:53:00Z
-    webUrl: "https://www.forbes.com/sites/alanohnsman/2021/08/18/elon-musks-plan-to-tout-tesla-ai-comes-as-tougher-scrutiny-of-the-company-looms/"
-    ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2021/08/18/elon-musks-plan-to-tout-tesla-ai-comes-as-tougher-scrutiny-of-the-company-looms/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2021/08/18/elon-musks-plan-to-tout-tesla-ai-comes-as-tougher-scrutiny-of-the-company-looms/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 99
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611d5044bebdc296608d0853%2F0x0.jpg"
-        width: 1200
-        height: 849
-        isCached: true
   - title: "Tesla Places Itself As A Robotics Company With Reach Beyond EVs, Unveils Dojo Chips, Humanoid: Key Takeaways From AI Day"
     excerpt: "The maximum running speed of the robot is 5 mph, which as per Musk makes it safe. The entrepreneur has in the past expressed concerns about artificial intelligence and thus the Bot is designed at a “mechanical level” in such a way that “you can run ..."
     publishedDateTime: 2021-08-20T15:00:00Z

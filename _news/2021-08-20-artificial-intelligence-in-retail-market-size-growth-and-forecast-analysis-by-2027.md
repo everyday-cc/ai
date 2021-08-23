@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-size-growth-and-forecast-analysis-by-2027-2021-08-19"
 type: article
 quality: 76
-heat: 246
+heat: 236
 published: true
 
 provider:
@@ -255,17 +255,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 19
-  - title: "Artificial Intelligence in Drug Discovery Market Competitive Landscape Forecasts to 2027: Global Industry Growth, Share, Size, Trends"
-    excerpt: "According to Reports and Data, the Artificial Intelligence in Drug Discovery Market was valued at USD 253.8 million in 2019 and is expected to reach USD 2,127.9 million by the year 2027, at a CAGR of 31."
-    publishedDateTime: 2021-08-18T18:16:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-in-drug-discovery-market-competitive-landscape-forecasts-to-2027-global-industry-growth-share-size-trends/"
-    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-drug-discovery-market-competitive-landscape-forecasts-to-2027-global-industry-growth-share-size-trends/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-drug-discovery-market-competitive-landscape-forecasts-to-2027-global-industry-growth-share-size-trends/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 8
   - title: "UK AI in Image Recognition Market Size, Share, Analysis, Applications, Growth Insight, Trends, Leaders, Services and Future Forecast - 2025"
     excerpt: "UK AI in image recognition market is estimated to grow significantly at a CAGR of 28 4 during the forecast period UK is the third largest economy in Europe after Germany and France majorly owing to its trading power and"
     publishedDateTime: 2021-08-23T07:47:00Z

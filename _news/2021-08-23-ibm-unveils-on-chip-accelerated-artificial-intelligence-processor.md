@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-unveils-on-chi
 webUrl: "https://markets.businessinsider.com/news/stocks/ibm-unveils-on-chip-accelerated-artificial-intelligence-processor-1030750970"
 type: article
 quality: 86
-heat: 136
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "IBM unveils on-chip AI accelerator for fraud detection"
+    excerpt: "IBM has unveiled its long-awaited 'Telum' chip, built with AI inference acceleration that will allow for fraud detection while a transaction is occurring. The new processor was showcased at the annual Hot Chips conference with the first Telum-based system planned for 2022."
+    publishedDateTime: 2021-08-23T09:32:00Z
+    webUrl: "https://www.itpro.co.uk/server-storage/high-performance-computing-hpc/360650/ibm-telum-ai-chip-fraud-detection-official"
+    ampWebUrl: "https://www.itpro.co.uk/server-storage/high-performance-computing-hpc/360650/ibm-telum-ai-chip-fraud-detection-official?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/server-storage/high-performance-computing-hpc/360650/ibm-telum-ai-chip-fraud-detection-official?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 104
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1629710362/itpro/_IBMPressOffice.jpg"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "IBM introduces Telum chips aimed at AI inferencing workloads like fraud detection"
     excerpt: "Big Blue has unveiled Telum, its first chip with AI inferencing acceleration that will allow it to conduct tasks such as fraud detection while a transaction is occurring. \"The chip contains 8 processor cores with a deep super-scalar out-of-order instruction pipeline,"
     publishedDateTime: 2021-08-23T01:48:00Z
@@ -62,33 +78,19 @@ related:
         width: 566
         height: 400
         isCached: true
-  - title: "IBM unveils on-chip AI accelerator for fraud detection"
-    excerpt: "IBM has unveiled its long-awaited 'Telum' chip, built with AI inference acceleration that will allow for fraud detection while a transaction is occurring. The new processor was showcased at the annual Hot Chips conference with the first Telum-based system planned for 2022."
-    publishedDateTime: 2021-08-23T09:35:00Z
-    webUrl: "https://www.cloudpro.co.uk/business-intelligence/9212/ibm-unveils-on-chip-ai-accelerator-for-fraud-detection"
+  - title: "IBM's new Telum chips will help infer enterprise workload, detect fraud, and more"
+    excerpt: "IBM has introduced its new Telum processor at the annual Hot Chips conference. The processor is IBM's first one that can do on-chip acceleration for AI inferencing during a transaction."
+    publishedDateTime: 2021-08-23T03:54:00Z
+    webUrl: "https://www.neowin.net/news/ibms-new-telum-chips-will-help-infer-enterprise-workload-detect-fraud-and-more/"
     type: article
     provider:
-      name: Cloud Pro
-      domain: cloudpro.co.uk
-    quality: 54
+      name: Neowin
+      domain: neowin.net
+    quality: 64
     images:
-      - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2021/08/ibm.jpeg"
-        width: 1920
-        height: 1170
-        isCached: true
-  - title: "Intel unveils details of 100B-transistor AI chip and Alder Lake hybrid processor"
-    excerpt: "Intel is looking to take on Nvidia Corp. in the AI silicon market with Ponte Vecchio, which the company describes as its most complex system-on-chip or SOC to date. Ponte Vecchio features some 100 ..."
-    publishedDateTime: 2021-08-19T18:06:00Z
-    webUrl: "https://siliconangle.com/2021/08/19/intel-debuts-100b-transistor-ai-chip-alder-lake-hybrid-processor/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 49
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/intel.png"
-        width: 800
-        height: 450
+      - url: "https://cdn.neow.in/news/images/uploaded/2021/08/1629702919_ibm_z_chip_03_story.jpg"
+        width: 760
+        height: 506
         isCached: true
   - title: "IBM unveils Telum Processor chip with AI capacity to detect fraud"
     excerpt: "IBM has unveiled its upcoming new 7nm EUV chip, the IBM Telum Processor, designed to address fraud in real time. The processor contains a chip system for AI inferencing while a transaction is taking place."

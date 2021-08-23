@@ -55,17 +55,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 59
-  - title: "Artificial Intelligence(AI) in Retail Market Latest Advancement and Business Outlook 2021 - 2027: IBM, Microsoft, Nvidia, Amazon Web Services"
-    excerpt: "Market Insights Reports released a new study on 2021 2027 Artificial Intelligence AI in Retail Market with 100 data Tables Pie Chat Graphs Figures spread through Pages and easy to understand detailed analysis The Global Artificial Intelligence AI in Retail"
-    publishedDateTime: 2021-08-18T18:39:00Z
-    webUrl: "https://www.openpr.com/news/2359634/artificial-intelligence-ai-in-retail-market-latest"
-    ampWebUrl: "https://www.openpr.com/amp/2359634/artificial-intelligence-ai-in-retail-market-latest"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2359634/artificial-intelligence-ai-in-retail-market-latest"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 51
   - title: "AI Recruitment Market is Booming Worldwide with Google, IBM, Oracle"
     excerpt: "Advance Market Analytics published a new research publication on AI Recruitment Market Insights to 2026 with 232 pages and enriched with self explained Tables and charts in presentable format In the Study you will find new evolving Trends Drivers Restraints"
     publishedDateTime: 2021-08-18T19:43:00Z

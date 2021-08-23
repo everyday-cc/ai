@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AWS AI
 
 images:
   - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/162310-oggrgqfjba-1627905189.jpg"

@@ -125,21 +125,21 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Tesla’s Self-Driving Advertising Called Out As Misleading To Consumers"
-    excerpt: "Two senators have requested the FTC open an investigation into Tesla's self-driving technology advertising, claiming it is \"misleading\" consumers."
-    publishedDateTime: 2021-08-18T18:53:00Z
-    webUrl: "https://www.ibtimes.com/teslas-self-driving-advertising-called-out-misleading-consumers-3276343"
-    ampWebUrl: "https://www.ibtimes.com/teslas-self-driving-advertising-called-out-misleading-consumers-3276343?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/teslas-self-driving-advertising-called-out-misleading-consumers-3276343?amp=1"
+  - title: "Tesla self-driving tech could be offered to other automakers"
+    excerpt: "According to a media report, Elon Musk is open to the idea of sharing Tesla's full self-driving technology with other automakers.As per reports, Musk stated that he is open to allowing other car companies"
+    publishedDateTime: 2021-08-23T11:01:00Z
+    webUrl: "https://www.team-bhp.com/news/tesla-self-driving-tech-could-be-offered-other-automakers"
+    ampWebUrl: "https://www.team-bhp.com/news/tesla-self-driving-tech-could-be-offered-other-automakers?amp"
+    cdnAmpWebUrl: "https://www-team--bhp-com.cdn.ampproject.org/c/s/www.team-bhp.com/news/tesla-self-driving-tech-could-be-offered-other-automakers?amp"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
+      name: Team-BHP.com
+      domain: team-bhp.com
     quality: 59
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/11/13/tesla-would-be-the-first-foreign-car-company.jpg"
-        width: 1024
-        height: 707
+      - url: "https://www.team-bhp.com/sites/default/files/styles/amp_high_res/public/tesla-model-s-1_4.jpg"
+        width: 1280
+        height: 960
         isCached: true
   - title: "Tesla Could Allow Other Automakers To Utilize Its Self-Driving Technology"
     excerpt: "This could lower the cost for automakers to develop their own self-driving technologies, leading to more vehicles on the road with autonomous driving features."
@@ -170,20 +170,6 @@ related:
       - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F08%2Ftesla-self-driving-claims-ftc-investigation-news-tw.jpg?w=960&cbr=1&q=90&fit=max"
         width: 960
         height: 480
-        isCached: true
-  - title: "Senators Call for Investigation of Tesla’s Marketing Claims of its Autopilot and 'Full Self-Driving' Features"
-    excerpt: "Consumer Reports shares details of a call to investigate Tesla’s marketing claims for its Autopilot and 'Full Self-Driving' Features. Two U.S. senators' letter to the Federal Trade Commission alleges that the automaker’s public statements might have led to crashes and fatalities."
-    publishedDateTime: 2021-08-18T17:34:00Z
-    webUrl: "https://www.consumerreports.org/advertising-claims/call-to-investigate-tesla-marketing-claims-autopilot-fsd-a1181594362/"
-    type: article
-    provider:
-      name: Consumer Reports
-      domain: consumerreports.org
-    quality: 52
-    images:
-      - url: "https://article.images.consumerreports.org/image/upload/v1629313351/prod/content/dam/CRO-Images-2021/Cars/08Aug/CR-Cars-InlineHero-Tesla-Model-S-plaid-r-8-21"
-        width: 1199
-        height: 674
         isCached: true
 
 secured: "ycjW3qr2+vgI9UZATr3DKZ4taMlkDc00a78PyNxkXTdK2QvBEVOMKXw2+1TTg2jlT9dZ5B302nExSgIniGPAauLqMr1RZoaYa78jzLM8dQUIF0Ibwbcrmhg4xwjITKN2wwsk1hs+GyWYs7iyEOEw+susHdWJ0Q7GUYIvB1L6Oall3nC6Vq+jgnGeYKhe1MNwP6xviWfRQ3yT9oGlxTrQmAziqnUHbUtICP9+Ew222hdwxdaquKUHdk9y8+/Vo08ZX776UiMDpeytFl/1d0/0dO0aL9FmPScud4sDih1ZZGqd4DYqCPWTtWcMOxEO/OG4A3+NJHGCZEJ5asBPJIyre6lqbSkKQI5xfYp3TgOyGDKiCHB7A/3M/9ORpfAKnYgA+BZ8+ZdHsnRmOlfviWwJ56O3sqfeIrkjB2ieFeO+Ec8EFLtIRaqTyHP7tXPvESYWNvU3styCfpw596pjQkotP36bl6Ll/7EeZgw/vRM5kxWDh/2jaGwzbB99CW98X45203v9CxOLV58q8KlUnA6Qog==;gJLlhflgqyz4xr8NEpYvKA=="

@@ -101,6 +101,20 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "Wunderman Thompson Acquires Leading AI-focused Tech Company Satalia"
+    excerpt: "Global growth partner Wunderman Thompson has today acquired Satalia, one of the leading and most exciting companies offering AI solutions for businesses across industries such as retail, grocery, telecommunications and consultancy."
+    publishedDateTime: 2021-08-23T11:20:00Z
+    webUrl: "https://investlithuania.com/news/wunderman-thompson-acquires-leading-ai-focused-tech-company-satalia/"
+    type: article
+    provider:
+      name: Invest Lithuania
+      domain: investlithuania.com
+    quality: 39
+    images:
+      - url: "https://investlithuania.com/wp-content/uploads/Satalia_WPP_variantas_iliutracijai_abstract37274.png"
+        width: 640
+        height: 426
+        isCached: true
   - title: "TOP NEWS: WPP buys AI firm Satalia to grow machine learning offering"
     excerpt: "FTSE 100-listed WPP PLC has bought artificial intelligence technology company Satalia for an undisclosed sum, the ad agency said on Monday. Founded by Chief Executive Daniel Hulme in 2008, AI specialist Satalia counts clients including BT Group PLC,"
     publishedDateTime: 2021-08-23T07:19:00Z
@@ -111,6 +125,6 @@ related:
       domain: lse.co.uk
     quality: 38
 
-secured: "ayqeHCkHiBU2S8GnpZjlf4tVSKngsCzuW3K80Z5bqtsC3AmEoCRsCHc3qLOxPw3TRhBIEJhJg16XdGt4hfuoppera3Ezz799XVBnic4PkiClHLWOTqWHR/4C85TOY250LpPi+vnbkEDLb7STAdIOvCPJDyQMhJBufFL6RGxdDL+BOiJwnTiX1DCMsyRTaLMjBguOkaHfk5m//uEhdB+npQA1Tq/98F+jf+3TmYNC58scGODPcN/P0q1BP8sGKs5Nj40Lobw5Bi6N8ZBiVxhkkPrCOj+04ZP0W1zWTudjbQ7idEKBTG+Bs7YwJ0wu6cYuPeRnjtzdxl+FTONOJ0CcnPocUqtULIGPiVUtf1kdNko=;KWDId77/0gfX60TBJKpDkQ=="
+secured: "Cn6WCrHomRiYntfaVidR1QhJ1ZbFA5JN0kW+orc49u1SpAoADI7fVEVRLiZEo+xGlZq80YWZaKzdQiPYvuXrmwKLHoErqqNE3jWcWczDedWmaDp2tmGjUOisti81hJ4/q0UXjCsEX6BwKgr6lTzcbDzNTz0eghzvS06cZd/RILSfU8zLymNPujBEf4Clie8Fz0M+w8LpztU8NGgjyUPbN1jUZ7LpkYCq3qrwU128Tluk7iDdGn1HMfVXj79ZWu4x07PpxJPRIxxxvEQMv5jb0Z2CH+a4/iT2MxU7vDC06bQbDah8iZvZhI7fFLEADjMVCY6LHCu0iSBE+MW5/D06YunvK3BtMwDmL4uWp7v3V+RHgf/QY2d8fyRdEzT270W9rUnVQma3QT/QBtjqP5qOkwVq7Bcv5ZDOKi6BNg7qu7p1SZyXGGSmBGLZjR05KAHSMHmzsaee+bjETb+xFwpIoehYH1u22YsNMAReNNFfIbluy+uTrbipHH8Tpbv4Wi+yprLJR1tr2wPG3yT2jtECKg==;pBkxP+MuSoCL18wpwkhvJA=="
 ---
 

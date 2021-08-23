@@ -9,7 +9,7 @@ ampWebUrl: "https://auto.hindustantimes.com/auto/cars/mg-astor-to-come-with-a-pe
 cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/mg-astor-to-come-with-a-personal-ai-assistant-all-that-you-should-know/amp-41629609001381.html"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "MG Motor unveils Astor with personal AI tool"
-    excerpt: "MG Motor India on Wednesday unveiled its upcoming mid-size SUV ‘Astor’ that will come with a personal artificial intelligence (AI) assistant and level 2 autonomous driving technology. Astor, which the company plans to launch near the festive season,"
-    publishedDateTime: 2021-08-18T17:17:00Z
-    webUrl: "https://www.thehindu.com/business/mg-motor-unveils-astor-with-personal-ai-tool/article35986763.ece"
-    ampWebUrl: "https://www.thehindu.com/business/mg-motor-unveils-astor-with-personal-ai-tool/article35986763.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/mg-motor-unveils-astor-with-personal-ai-tool/article35986763.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
-    images:
-      - url: "https://www.thehindu.com/business/5cac35/article35986762.ece/ALTERNATES/LANDSCAPE_615/MG-Astor"
-        width: 615
-        height: 384
-        isCached: true
   - title: "MG Could Offer The Hector With The Same ADAS And AI As The Astor"
     excerpt: "It will also get a personal AI assistant in the form of a robot head-type device that turns to the person talking. The Hector could get these features in the near future since the more affordable Astor will be offered with them."
     publishedDateTime: 2021-08-23T09:35:00Z

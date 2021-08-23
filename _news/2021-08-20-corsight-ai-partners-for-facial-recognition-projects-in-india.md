@@ -65,7 +65,7 @@ related:
     provider:
       name: Analytics Insight
       domain: analyticsinsight.net
-    quality: 37
+    quality: 39
     images:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Artificial-Intelligence-Companies.jpg"
         width: 900

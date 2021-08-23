@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/08/19/world/asia/taliban-foreign-recogn
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/19/world/asia/taliban-foreign-recognition.amp.html"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1050
     height: 550
     isCached: true
+
+related:
+  - title: "Taliban captured US facial recognition and eye-scan database, reports say"
+    excerpt: "A key database of the biometric information of Afghan allies who assisted U.S. and coalition forces may now be in the hands of Taliban militants who are seeking revenge. On Tuesday, the Intercept reported,"
+    publishedDateTime: 2021-08-19T20:05:00Z
+    webUrl: "https://americanmilitarynews.com/2021/08/taliban-captured-us-facial-recognition-and-eye-scan-database-reports-say/"
+    type: article
+    provider:
+      name: American Military News
+      domain: americanmilitarynews.com
+    quality: 38
+    images:
+      - url: "https://americanmilitarynews.com/wp-content/uploads/1-about-amn.png"
+        width: 800
+        height: 500
+        isCached: true
 
 secured: "1kNnAtJr4+38T+ses8yXFtwr6BLAMuc8Mk7ctp7HpW5bUfjrYnmtJsglEv7F9ycead7sId/DGT/qpfMPDtffb5RNnMKDyxPJB4oA8+P7AFB1KsMOPhWd14nKOfpASjI1+jpXyh/0bK5K2Mv7DsOJw81hFa3apDjzDbgKMQOCVtajHHoqnouZlbjcktbHFb7dBZxpV+65aSRGOckYxCIudbIPUH3wFCngJmDtt/bUjFUrrwufltNOJ4cZRijY2P0N+wxDsZf/pCa5ob7PhZ+E/zGNOH1KKwfsMkDB+au9CgV+cU5KdXnn0vz+bZWAa7Sxu/QuU0Cmbzy73hle/7WzRjny2D1EJZhNVo6dK4BY/lM=;1CzA3yPJ0ofWpCwL8z/lpg=="
 ---

@@ -137,21 +137,21 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Tesla’s Self-Driving Advertising Called Out As Misleading To Consumers"
-    excerpt: "Two senators have requested the FTC open an investigation into Tesla's self-driving technology advertising, claiming it is \"misleading\" consumers."
-    publishedDateTime: 2021-08-18T18:53:00Z
-    webUrl: "https://www.ibtimes.com/teslas-self-driving-advertising-called-out-misleading-consumers-3276343"
-    ampWebUrl: "https://www.ibtimes.com/teslas-self-driving-advertising-called-out-misleading-consumers-3276343?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/teslas-self-driving-advertising-called-out-misleading-consumers-3276343?amp=1"
+  - title: "Tesla self-driving tech could be offered to other automakers"
+    excerpt: "According to a media report, Elon Musk is open to the idea of sharing Tesla's full self-driving technology with other automakers.As per reports, Musk stated that he is open to allowing other car companies"
+    publishedDateTime: 2021-08-23T11:01:00Z
+    webUrl: "https://www.team-bhp.com/news/tesla-self-driving-tech-could-be-offered-other-automakers"
+    ampWebUrl: "https://www.team-bhp.com/news/tesla-self-driving-tech-could-be-offered-other-automakers?amp"
+    cdnAmpWebUrl: "https://www-team--bhp-com.cdn.ampproject.org/c/s/www.team-bhp.com/news/tesla-self-driving-tech-could-be-offered-other-automakers?amp"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
+      name: Team-BHP.com
+      domain: team-bhp.com
     quality: 59
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/11/13/tesla-would-be-the-first-foreign-car-company.jpg"
-        width: 1024
-        height: 707
+      - url: "https://www.team-bhp.com/sites/default/files/styles/amp_high_res/public/tesla-model-s-1_4.jpg"
+        width: 1280
+        height: 960
         isCached: true
   - title: "Senators Urges FTC to Further Investigate Tesla's Self-Driving Claims"
     excerpt: "Senators Ed Markey and Richard Blumenthal have reportedly called on the Federal Trade Commission to investigate Elon Musk ‘s electric vehicles company over its “misleading advertising and marketing” of the Autopilot and Full Self-Driving Systems."
@@ -166,20 +166,6 @@ related:
       - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F08%2Ftesla-self-driving-claims-ftc-investigation-news-tw.jpg?w=960&cbr=1&q=90&fit=max"
         width: 960
         height: 480
-        isCached: true
-  - title: "Senators Call for Investigation of Tesla’s Marketing Claims of its Autopilot and 'Full Self-Driving' Features"
-    excerpt: "Consumer Reports shares details of a call to investigate Tesla’s marketing claims for its Autopilot and 'Full Self-Driving' Features. Two U.S. senators' letter to the Federal Trade Commission alleges that the automaker’s public statements might have led to crashes and fatalities."
-    publishedDateTime: 2021-08-18T17:34:00Z
-    webUrl: "https://www.consumerreports.org/advertising-claims/call-to-investigate-tesla-marketing-claims-autopilot-fsd-a1181594362/"
-    type: article
-    provider:
-      name: Consumer Reports
-      domain: consumerreports.org
-    quality: 52
-    images:
-      - url: "https://article.images.consumerreports.org/image/upload/v1629313351/prod/content/dam/CRO-Images-2021/Cars/08Aug/CR-Cars-InlineHero-Tesla-Model-S-plaid-r-8-21"
-        width: 1199
-        height: 674
         isCached: true
 
 secured: "/vusDsrcva7nv3Pk7pCp3CG7Ga3LWil5sT2pUzpKiZegoXIvqhIE7Kn4sCmgQV0G+PO5pWaragn1d84+m1uqn8m0Qr3Ar2QsyzpPvvXqvwnZVOExb9+xST7xs/7ACBGIdeI0J/C9WT3MLtSeZQVcwuvJES7bG3/Y5MgVhzoeUpp+x6Wz3e3zar7okqvRt/pHUo/YYK5Fd7VxJSBiDvZOBZCCfow7Uqu33TU3YSoypTXyLPk8o9xu5piuU3mmA1h7d4/+DL/LXoOu4PqnxGy1k7MTQaCskS6iheZAGHF07ABKjI/NmrLlxZpW/Hy36jejl9Qiz692ZdtAhPpPI+OD95cUyTxcViUMS8CxrMjxJfKPy0UdcWELQLyasrnmH6OXSQ7vb/6K2dujeZnj1KY+wGulfJsinMaCl8i0tngHIPUEnrHslJBY/lkgFs3B/bD66CxSgnNo58PAFr0nDEAtxeCsczpw0mcVGBh7TDhM2+8Co4jZMQqtMjA7KEB6LLkK1IQxoFK2OipVqYPN3EMlAg==;AV/Umwh5F3AL7q3eni0JuA=="

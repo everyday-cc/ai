@@ -39,17 +39,6 @@ related:
         width: 390
         height: 220
         isCached: true
-  - title: "Artificial Intelligence(AI) in Retail Market Latest Advancement and Business Outlook 2021 - 2027: IBM, Microsoft, Nvidia, Amazon Web Services"
-    excerpt: "Market Insights Reports released a new study on 2021 2027 Artificial Intelligence AI in Retail Market with 100 data Tables Pie Chat Graphs Figures spread through Pages and easy to understand detailed analysis The Global Artificial Intelligence AI in Retail"
-    publishedDateTime: 2021-08-18T18:39:00Z
-    webUrl: "https://www.openpr.com/news/2359634/artificial-intelligence-ai-in-retail-market-latest"
-    ampWebUrl: "https://www.openpr.com/amp/2359634/artificial-intelligence-ai-in-retail-market-latest"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2359634/artificial-intelligence-ai-in-retail-market-latest"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 51
   - title: "Speech Recognition Software Market – increasing demand with Industry Professionals: IBM, Microsoft, Nuance Communications"
     excerpt: "Announced Speech Recognition Software study with 200+ market data Tables and Figures spread through Pages and easy to understand detailed TOC on “Speech Recognition Software. Speech Recognition Software industry Report allows you to get different methods for maximizing your profit."
     publishedDateTime: 2021-08-21T18:18:00Z

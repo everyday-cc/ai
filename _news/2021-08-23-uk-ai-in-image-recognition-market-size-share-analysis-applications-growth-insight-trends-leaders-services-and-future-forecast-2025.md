@@ -262,17 +262,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 19
-  - title: "Artificial Intelligence in Drug Discovery Market Competitive Landscape Forecasts to 2027: Global Industry Growth, Share, Size, Trends"
-    excerpt: "According to Reports and Data, the Artificial Intelligence in Drug Discovery Market was valued at USD 253.8 million in 2019 and is expected to reach USD 2,127.9 million by the year 2027, at a CAGR of 31."
-    publishedDateTime: 2021-08-18T18:16:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-in-drug-discovery-market-competitive-landscape-forecasts-to-2027-global-industry-growth-share-size-trends/"
-    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-drug-discovery-market-competitive-landscape-forecasts-to-2027-global-industry-growth-share-size-trends/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-drug-discovery-market-competitive-landscape-forecasts-to-2027-global-industry-growth-share-size-trends/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 8
 
 secured: "BdmhrOw2ZNnGQ2D5kbLhvko7JEwSr04o/Y2ybWs+OxGcqAaC3IJo4GvtuVFapmUptq+WMrgvP9ZkAq7YPFUdz4r7iOSFBmXiN9tb3m1P0o1otPT+QWOj0D9ottU0MIaoJN/JmsMQXCOWvHQDHzlX/FCJ7JNjfQl97XuSLklZJRdkYPPfIbXVWTzMhZozCwZBZIu226h+LCEY8s3ZaazeNpXd+uPR2seAEU94hUhSoLKr1tlEQnWToIZKZMhwZ4+c9IiRYE2b057gWhDVhuaWSCF6o362No7ey4tDzKMoE1+gv4NwjOxhpZ+1hEY7/KgDHouDrLRSwDn0eVJRSgDH6N7T1nyTtTAsL1cIuvqDZ7E=;dNJlcDJZYBNKcewJkLXGFQ=="
 ---
