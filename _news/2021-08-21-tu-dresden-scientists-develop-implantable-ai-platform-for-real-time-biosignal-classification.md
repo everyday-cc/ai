@@ -43,6 +43,20 @@ related:
         width: 1333
         height: 1000
         isCached: true
+  - title: "Implantable AI Developed for Early Detection and Treatment of Disease"
+    excerpt: "Study demonstrated the use of an approach for real-time classification of healthy and diseased bio-signals based on a biocompatible artificial intelligence chip."
+    publishedDateTime: 2021-08-23T12:00:00Z
+    webUrl: "https://www.genengnews.com/artificial-intelligence/implantable-ai-developed-for-early-detection-and-treatment-of-disease/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 39
+    images:
+      - url: "https://www.genengnews.com/wp-content/uploads/2021/08/GettyImages-523791776-scaled.jpg"
+        width: 2560
+        height: 1719
+        isCached: true
   - title: "Using artificial intelligence for early detection and treatment of illnesses: TU Dresden researchers develop an implantable AI system"
     excerpt: "Artificial intelligence (AI) will fundamentally change medicine and healthcare: Diagnostic patient data, e.g. from ECG, EEG or X-ray images, can be analyzed with the help of machine learning, so that diseases can be detected at a very early stage based on subtle changes."
     publishedDateTime: 2021-08-20T19:08:00Z

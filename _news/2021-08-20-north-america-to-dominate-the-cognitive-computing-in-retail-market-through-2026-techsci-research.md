@@ -45,6 +45,22 @@ related:
         width: 450
         height: 300
         isCached: true
+  - title: "Precision Medicine Market to Reach USD 125.67 Billion by 2026 | TechSci Research"
+    excerpt: "Increasing advancements in cancer biology and myriad benefits offered by precision medicines to drive the global precision medicine market According to TechSci Research report Global Precision Medicine Market By Products Services Precision Medicine Platforms Precision Medicine Tools Precision Medicine Services"
+    publishedDateTime: 2021-08-23T12:33:00Z
+    webUrl: "https://www.openpr.com/news/2363885/precision-medicine-market-to-reach-usd-125-67-billion-by-2026"
+    ampWebUrl: "https://www.openpr.com/amp/2363885/precision-medicine-market-to-reach-usd-125-67-billion-by-2026"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2363885/precision-medicine-market-to-reach-usd-125-67-billion-by-2026"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 39
+    images:
+      - url: "https://cdn.openpr.com/U/8/U823887337_g.jpg"
+        width: 400
+        height: 300
+        isCached: true
 
 secured: "BvzOOBC71G40MvMkKakO9X1+hxMt+LiNXGKhD100OSAd4oVbuQG9vJQ4FL+r54TuI/vPMcEmkGCvx4ffqi21YL+mqUWUgNrdAlA3A9A6EYIf1C3oRxlQG+3tGdYfY3RhnIa4Nu79L7qnz6VI+rCZjZjBP6YW5a6F0OxLRFcNaaLm6oHIDoS1168PCP/r2rrOh8WNk5mY0l0xkLSv1KsM5AQNxvaUa1uFgnkR1VU1lQmBU7pVhzyV4/NUzLmQDkLd8pA8u3/tBPvmzHFeP7NV/Cp8E0qMyoneP2qFb54kC/VHIEQNnAAG5x8POeteFozDQgWPVXQKK1k1er727usnagz7C/38COObS/q9Bnj6j71ZOC+iSsMHS4uPFmsWQXufTUhUwE3HHK5SA0vZBBEdJaJrsZw86m7AIjSSj9r+f5WcnVtEAsEboTFxoiPAtC3g/x81vond/cnUR5kr+hZajAyXsh7htroaxr2PiRQCt0NK6MvNifylT3f0S8IOXQuWxDer0AHUUz5FL8f2JzzzDA==;TGb6Tz59TDUibs1Dy71K9A=="
 ---

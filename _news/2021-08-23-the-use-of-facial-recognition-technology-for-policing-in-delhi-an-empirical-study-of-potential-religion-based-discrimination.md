@@ -103,6 +103,20 @@ related:
         width: 750
         height: 350
         isCached: true
+  - title: "Civil liberties groups call for facial recognition ban"
+    excerpt: "A coalition of groups advocating civil liberties has demanded an outright ban on the use of live facial recognition technology (LFRT), while accusing the Home Office and law enforcement of bypassing Parliament over guidance for its use."
+    publishedDateTime: 2021-08-23T12:32:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2021/08/civil-liberties-groups-call-for-facial-recognition-ban/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 39
+    images:
+      - url: "https://eandt.theiet.org/media/5303/dreamstime_xxl_98532532.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=131920284040000000"
+        width: 1200
+        height: 450
+        isCached: true
   - title: "Civil liberties groups demand ban on facial recognition technology"
     excerpt: "A group of civil society bodies has called on the Government to ban facial recognition cameras, while accusing police and the Home Office of bypassing Parliament over guidance for the use of the technology."
     publishedDateTime: 2021-08-23T05:30:00Z

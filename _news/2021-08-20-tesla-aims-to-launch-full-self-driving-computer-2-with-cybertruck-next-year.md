@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla’s claims about Autopilot and Full Self-Driving are under scrutiny as senators pressure FTC"
-    excerpt: "Two senators are pressuring the Federal Trade Commission (FTC) to investigate Tesla’s claims about Autopilot and the Full Self-Driving (FSD) package. Richard Blumenthal and Ed Markey, two senators representing the Democratic Party,"
-    publishedDateTime: 2021-08-18T20:18:00Z
-    webUrl: "https://electrek.co/2021/08/18/tesla-claims-autopilot-full-self-driving-are-under-scrutiny-senators-pressure-ftc/"
-    ampWebUrl: "https://electrek.co/2021/08/18/tesla-claims-autopilot-full-self-driving-are-under-scrutiny-senators-pressure-ftc/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/18/tesla-claims-autopilot-full-self-driving-are-under-scrutiny-senators-pressure-ftc/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 91
-    images:
-      - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2019/12/Tesla-Self-driving-visualization.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla Sells ‘Full Self-Driving,’ but What Is It Really?"
     excerpt: "Over the years, Tesla owners have paid as much as $10,000 for the package, called Full Self-Driving. F.S.D., which can be purchased as an extra on Tesla cars, is a collection of services that add to Tesla’s Autopilot, the driver-assistance technology ..."
     publishedDateTime: 2021-08-20T15:29:00Z
@@ -93,38 +77,15 @@ related:
         width: 2000
         height: 1125
         isCached: true
-  - title: "Two senators urge the FTC to investigate Tesla over “Full Self-Driving” statements"
-    excerpt: "Two Democratic senators have asked the new chair of the Federal Trade Commission to investigate Tesla’s statements about the autonomous capabilities of its Autopilot and Full Self-Driving systems. The senators,"
-    publishedDateTime: 2021-08-18T20:51:00Z
-    webUrl: "https://techcrunch.com/2021/08/18/two-senators-urge-the-ftc-to-investigate-tesla-over-full-self-driving-statements/"
-    ampWebUrl: "https://techcrunch.com/2021/08/18/two-senators-urge-the-ftc-to-investigate-tesla-over-full-self-driving-statements/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/18/two-senators-urge-the-ftc-to-investigate-tesla-over-full-self-driving-statements/amp/"
+  - title: "Tesla launches DOJO chip of artificial intelligence training computer"
+    excerpt: "Tesla launches artificial intelligence training computer DOJO chip] on 20 August, Tesla officially launched his artificial intelligence training computer DOJO chip. It is understood that Musk first mentioned DOJO,"
+    publishedDateTime: 2021-08-22T23:57:00Z
+    webUrl: "https://news.metal.com/newscontent/101575471/Tesla-launches-DOJO-chip-of-artificial-intelligence-training-computer/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 83
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/05/tesla-gettyimages.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Senators say Tesla’s ‘self-driving’ claims are misleading, call for FTC probe"
-    excerpt: "Driving” features is misleading to consumers and should be investigated by the Federal Trade Commission, two US senators said Wednesday."
-    publishedDateTime: 2021-08-18T20:19:00Z
-    webUrl: "https://nypost.com/2021/08/18/senators-say-teslas-self-driving-claims-are-misleading/"
-    ampWebUrl: "https://nypost.com/2021/08/18/senators-say-teslas-self-driving-claims-are-misleading/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/18/senators-say-teslas-self-driving-claims-are-misleading/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 71
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/senator-markey.jpg?quality=90&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
+      name: Metal
+      domain: metal.com
+    quality: 66
   - title: "Tesla self-driving tech could be offered to other automakers"
     excerpt: "According to a media report, Elon Musk is open to the idea of sharing Tesla's full self-driving technology with other automakers.As per reports, Musk stated that he is open to allowing other car companies"
     publishedDateTime: 2021-08-23T11:01:00Z

@@ -25,6 +25,19 @@ images:
     height: 477
     isCached: true
 
+related:
+  - title: "Tesla says it is building a ‘friendly’ robot that will perform menial tasks, won’t fight back"
+    excerpt: "Tesla says it plans to build a humanoid robot to perform basic tasks, such as wrenching on cars or making grocery runs. It's part of the company's broader ambitions in automation, which include building its own computer chip."
+    publishedDateTime: 2021-08-23T13:00:00Z
+    webUrl: "https://www.seattletimes.com/business/tesla-says-it-is-building-a-friendly-robot-that-will-perform-menial-tasks-wont-fight-back/"
+    ampWebUrl: "https://www.seattletimes.com/business/tesla-says-it-is-building-a-friendly-robot-that-will-perform-menial-tasks-wont-fight-back/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/tesla-says-it-is-building-a-friendly-robot-that-will-perform-menial-tasks-wont-fight-back/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 45
+
 secured: "MJ428FKAllyd64CQBxtmitiDXgXYSf2LG/CAVQzWcpxLiDJsdrU82B3ZaPnVvDSItAjGN7d53Jl9wnqdmMYfD52oOKgYKLbLsMa2Ig4pz8EVs/U4YUX27IZvgO6ABedn+qz2IiVlTZK4MKUfqOG3vH1jzUSJ7FnGNb479+fEc5zY4SB0gEdrk9sijWAfXT817rrxJAg1aglCaXm5k0qgHbtYT70SVo82eWhcFGaKpCMkw8KhTrnoxd6T4a3lmeOGhnn2quECs1uh4KbLeBANiWc0NZgcBFDtxAhNDNO7NImpPwMy9Q+ZDo2XGvomezios2gGDltyBIWglsKlv3o7iR8gqyysd6A5toaLZHQMhiBO86/HFDxCNQw42Em8qu7MccTWMd6kAW5V+Zw+Hsn8OWJ7IXKAFKUAPcEDeJSEZ1Bx1Vtj6MypWoSEiDZZS7/5B73hmssQmRkREqA9nA4NMHkwjxPxtIixoz/YYaxfdlL0X1EkKbH1uxszqCEkgs+bbywQhbCQ2aG+7JfmvhOeHg==;TpLrk3g80GTxWTcoibNYFw=="
 ---
 

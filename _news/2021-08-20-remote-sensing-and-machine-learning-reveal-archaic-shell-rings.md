@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2021-08-remote-machine-reveal-archaic-shell.am
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-08-remote-machine-reveal-archaic-shell.amp"
 type: article
 quality: 74
-heat: 86
+heat: 84
 published: true
 
 provider:

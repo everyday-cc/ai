@@ -105,6 +105,20 @@ related:
         width: 750
         height: 350
         isCached: true
+  - title: "Civil liberties groups call for facial recognition ban"
+    excerpt: "A coalition of groups advocating civil liberties has demanded an outright ban on the use of live facial recognition technology (LFRT), while accusing the Home Office and law enforcement of bypassing Parliament over guidance for its use."
+    publishedDateTime: 2021-08-23T12:32:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2021/08/civil-liberties-groups-call-for-facial-recognition-ban/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 39
+    images:
+      - url: "https://eandt.theiet.org/media/5303/dreamstime_xxl_98532532.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=131920284040000000"
+        width: 1200
+        height: 450
+        isCached: true
   - title: "Civil liberties groups demand ban on facial recognition technology"
     excerpt: "A group of civil society bodies has called on the Government to ban facial recognition cameras, while accusing police and the Home Office of bypassing Parliament over guidance for the use of the technology."
     publishedDateTime: 2021-08-23T05:30:00Z
@@ -148,6 +162,6 @@ related:
         height: 1066
         isCached: true
 
-secured: "jF8Qt7767hvip/vKYYtABcb6rH7MMNbrsCFIpeec9RiBjgrtWr6IGsXR8otPtoSV95Fvq17mzfGimsLIHLqeDkxqSFoWdPrwbH2Ovx08Ta7FQPflmpZ6Yh0MP3Vfk7m8bZOQv7ZmGYPjAiEamfpSaEX/4b4VZBW7fjUy76Obvo4kmEgTyVGCWZrftrx/srCZm/3Dp2f39gTGCNXjN9pfU0haK2VKXA0cCA/fLdcrScai5bn2JwKQdAj3Om2B0mOIEdwLJz1a1Na/CsoE92uqtOfQuSrJy9UmN5TC2PRwWHQwEWbZOzQ9iz+v5YamEfG1rvxHSPbULJHY0j6TXTD0PdPWw/85GmSuIOejR/9Tv6w=;wX9yRtWgBiI9IfufpQnwgQ=="
+secured: "+GFl+a9UVFEfoyj3ilYykXa7g89kDYbI++ZDioWcTypWd2+V2bEZlW8SlhipxwjVaqvcM/2mhqoR+xRHTyVcICISbJaw/OD0vyMYNbe4tf9OAfmAkvDzmUbXupJ+BOqnYidi3CbEfjDi2C5J/HQQUdHG8Cr/YZ+I7GOU0MxWhREAdnQfJNKqYcEov9kFlzp9Wf5uOC697CBUPXlXwypCACmBGVBtyzEh5vOAQwXfEntALoymuQgcNpd9ZDEhwFya3+LpLgLsXT9gfd6NBv0xqmivySle44EuP9rxa4bFjuTiKRNCDzlJI21ApOSkoteP6wJrJZGM7IvScPzNGK7PsyCQeVqKw0GMZHaEWJZeKsgfWf8NaEzyITEbSuBGPch0wABDQYAPC/V34HkQA/i5BVy3uLrBzCg6C8V1Y/uEphfO8NfZvmU6qG8RQb8lCojmbdgswVbVLN5Blhcul4b7AgiOP1VPiJNyiJoWyzPLg+Q68szEaxy7XMCsuypdN9I44rinpUPX1Kt6s0ikW1Nf3w==;m3PT9MZCjd19KaxzOG4RHg=="
 ---
 

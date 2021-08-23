@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/emmawoollacott/2021/08/23/uk-government
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2021/08/23/uk-government-accused-of-sneaking-through-new-live-facial-recognition-rules/amp/"
 type: article
 quality: 87
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -93,6 +93,20 @@ related:
         width: 750
         height: 350
         isCached: true
+  - title: "Civil liberties groups call for facial recognition ban"
+    excerpt: "A coalition of groups advocating civil liberties has demanded an outright ban on the use of live facial recognition technology (LFRT), while accusing the Home Office and law enforcement of bypassing Parliament over guidance for its use."
+    publishedDateTime: 2021-08-23T12:32:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2021/08/civil-liberties-groups-call-for-facial-recognition-ban/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 39
+    images:
+      - url: "https://eandt.theiet.org/media/5303/dreamstime_xxl_98532532.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=131920284040000000"
+        width: 1200
+        height: 450
+        isCached: true
   - title: "Civil liberties groups demand ban on facial recognition technology"
     excerpt: "A group of civil society bodies has called on the Government to ban facial recognition cameras, while accusing police and the Home Office of bypassing Parliament over guidance for the use of the technology."
     publishedDateTime: 2021-08-23T05:30:00Z
@@ -152,6 +166,6 @@ related:
         height: 1066
         isCached: true
 
-secured: "cpLQTFqLS1mzgedzargydMh1QU0SAceSAxrgRCqvZ6DXg5tD2pzNh+F1PRlTZbDeAC4V2LAyTSkQaDWJsdPd3eAzLNOFb78XR5oJ2YUuYPbCFSXmfrcDoL4WNCwtwzyzVDpicFem6DfA2Fg+urvg/PFHgtHk9bwq7pc3XBWlLcpZ1KPQyR907lQJNj+J0qlWIHiJQe9j8VBaa+L/X2F9YYfjCqL+YPw53CfpDdQOGvcc6BzKxL232p5FqdNTanYDcpQW0KXYLahJPIivXA0esBB4Ww+T0HE4wFzIqzjtlYGA3q4KDi+l3Q9FqnBeM31taAGW45PWsgSmUgG7bxkBDUofkkeyDZZz5s6LOewd9rY=;k6atHlxpKbZKImtx0Kh1tw=="
+secured: "goyYtWxjkOFHstMilJv7I1AQkJiw9T7vhuv0BIcpIK7yKYZ4H/wedB/pT6S6w1rbUk8uqUO1jD74GVEqxrFBt2D2/tIGWNI/N5R0ZdkvHd8XoQc7TdqtCZE6nYxPsKjqcfk4/+GCeZRN5NJwUcJIk+hWrSi0rugHE9E1Qs6SpA+cHu/YNxegKATeU0tq9B+02tgNHjlVAkao3ec+TzllLfgyKJeGAw921BPOzTT1ay+jcC9BTRxiKbesCMekavEEw5bolmlo4QFgjXBbuEjyE6Se9mc9jBQvHlL7gGnTdoOJWRi77rU6yvSkeirfqdIXrz/vuG+2pe0ePx4MXVyksZ4pzD3X/ooAjGgloNVFcxih4oE8R9QFs6eOUINtYihRpmrZc2lNtDGGn890pLPdkzgA55dS9ThDUJzeLZLSRMjOidP8hxYaXDvULjqmixqSW16N9BhAVIlzbpIVwevu/ghibZ+4dD5Da+cqJfjPwYh05O2P1KIEtF7KeQn+hD+s8jIw6xGDhLmGWpS6GUwDRg==;Ze5xVtiJZVNcIhT+IFlyIw=="
 ---
 

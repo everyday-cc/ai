@@ -9,7 +9,7 @@ ampWebUrl: "https://www.asiaone.com/digital/baidu-boss-robin-li-unveils-robocar-
 cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/digital/baidu-boss-robin-li-unveils-robocar-his-vision-future-autonomous-driving?amp"
 type: article
 quality: 51
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "https://s19538.pcdn.co/wp-content/uploads/2021/08/Baidu-exterior-1000x563.jpg"
         width: 1000
         height: 563
-        isCached: true
-  - title: "China's Baidu Unveils a Level-5 Robocar With No Steering Wheel & Gull-Wing Doors That ‘Moves, Communicates & Learns'"
-    excerpt: "China’s tech giant Baidu Inc held its annual flagship \"Baidu World 2021\" conference on Wednesday and once again revealed some of its advanced work on AI and autonomous driving. Among the highlights, Baidu Co-founder and CEO Robin Li unveiled his vision for mobility of the future in the form of a futuristic “robocar” designed to make autonomous vehicles more accessible to the broader public."
-    publishedDateTime: 2021-08-18T20:45:00Z
-    webUrl: "https://www.futurecar.com/4813/China’s-Baidu-Unveils-a-Level-5-Robocar-With-No-Steering-Wheel-&-Gull-Wing-Doors-That-‘Moves-Communicates-&-Learns’"
-    type: article
-    provider:
-      name: futurecar
-      domain: futurecar.com
-    quality: 16
-    images:
-      - url: "https://img.futurecar.com/202108/18/l_611d70362ab4d.jpeg"
-        width: 800
-        height: 507
         isCached: true
 
 secured: "+NTMIb6vsuBu4yxsq+NaxV97MGwzfjkZ7r/AuVFwrjQS+Heep8Q+mwzakagEB+tMwoA1a/QLr7buofWe83TBLZGi0TytuuLvfefCA3k5HgypaGXo+/Qa0dr4jwVa/fu1/e83QMWDSzhGLlKNdkbAiRI+7D3Uvw6ovdowvVOa3h1jjITGhYxmMtUNKwmdgw3RNPjQ0tqp0CFFfRKZDvR+CFdmkmgl7C4JWVkmuLIRcKpvvWIFUJ09JVIdCA4YoxjPPt5pKpfYSLwnWNoOr9WS15swRShAfOoN4h9DRiTz/Cb/a7UOHO0XoB7qoyf1EyORH8nMdS2yG2GshGRbk1H0vJDjvs1M2wSTqP/xeNRRiZKp0LiWNQ4cBRg0IEKs/ySz4wEiDfj1I3nJKOdWsUAh0eCmBo5ALhLgcLQRpdccszzBF43z9/XiSsjI2xTWLVFH+RK4iLpwmbxOCzSAL4Tp6uaGcHuOnUFCM0fDnlZI0JYzLP6lBDJAiqCWdKFrMaysvjuHu7H1THLYkAPMVPmAGA==;WAmq5wUMag+7LIhMkD4aiA=="

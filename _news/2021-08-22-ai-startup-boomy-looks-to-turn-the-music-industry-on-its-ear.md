@@ -7,8 +7,8 @@ originalUrl: "https://www.engadget.com/ai-music-startup-boomy-looks-to-turn-the-
 webUrl: "https://www.engadget.com/ai-music-startup-boomy-looks-to-turn-the-record-industry-on-its-ear-190037786.html"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: Engadget
@@ -28,15 +28,22 @@ images:
     isCached: true
 
 related:
-  - title: "Recently-launched Plano startup aims to inject AI into the oil and gas industry"
-    excerpt: "Texas has long been known as a leader in oil and gas, and a local startup is looking to update the industry through artificial intelligence. Launched earlier this year, Plano-based Brane is developing software that will help predict where the next profitable well is located,"
-    publishedDateTime: 2021-08-19T21:55:00Z
-    webUrl: "https://www.bizjournals.com/dallas/inno/stories/news/2021/08/19/brane-paul-carlisle.html"
+  - title: "Virtual dressing room startup Revery.ai applying computer vision to the fashion industry"
+    excerpt: "Revery.ai is developing a tool that leverages computer vision and artificial intelligence to create a better online dressing room experience."
+    publishedDateTime: 2021-08-23T12:30:00Z
+    webUrl: "https://techcrunch.com/2021/08/23/virtual-dressing-room-startup-revery-ai-applying-computer-vision-to-the-fashion-industry/"
+    ampWebUrl: "https://techcrunch.com/2021/08/23/virtual-dressing-room-startup-revery-ai-applying-computer-vision-to-the-fashion-industry/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/23/virtual-dressing-room-startup-revery-ai-applying-computer-vision-to-the-fashion-industry/amp/"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 13
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 95
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/08/GettyImages-969952548.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "h0Ald+mBojaczGEcOIOM+cyaJcQAcNu9KauBNaY6RoepA7sdKZ2pdUqMIBdLDp3plStRJhFYymM1BiCro8ds8kvsZ9+mcsuNvgW0u9OXdEC140DfiUCJYGcqQ5A71RFzv1z8qBRnsmdY3IvU08DKnnSah1lYZ6iTgeBNI4l5W+/Ke3nqrhHwNSeIQD7aktR+r09AL5r7hzeXl07uA2t4RSjynRGJosIj5Jo6CbHaHRB9inbcgE0ZLWzCO1uvRVO4e8qXHbtq0jKZ/6BYzXFJrxZmlrn5lv0gk35SiL9WrNeYM2LFiYjY9XdKk6HEfL2uOiQzMIPCwkc6/THTC42X2v9O+omX7UjqlCboDJqVgwyxqVm48/JFQjxu9Sy/N7RH77eFn/5jrjn/kUq2ADC6OaIJphZw53DBm5qWn0G07KWGshYa/PcxEVIB1FbPUOTUXy1r2Atx8/6ITY6TPKGoF+h2VJ7r0I/eeCNc0thvPZQSmncPTIcV/b+CBledDQMmlow9TDnqqDSk8Qd99lGFww==;SW7OtulWiMt/5T2RH9QOLA=="
 ---

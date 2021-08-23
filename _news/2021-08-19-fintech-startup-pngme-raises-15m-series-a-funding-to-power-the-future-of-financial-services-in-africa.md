@@ -39,20 +39,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "African languages to get more bespoke scientific terms"
-    excerpt: "Many words common to science have never been written in African languages. Now, researchers from across Africa are changing that."
-    publishedDateTime: 2021-08-18T19:28:00Z
-    webUrl: "https://www.nature.com/articles/d41586-021-02218-x"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 24
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-02218-x/d41586-021-02218-x_19578984.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "8jyPMvnmPD4tPgM/GGWGey3de+ikSTu6Ng0U2QI+/s9aLH1V7tnRy/7YWlYO28+7nkepKplaYkS3h0htyW33ftunh5wvAbPV8D0bP+hB58g2eL3uptLt9fBO7N4ddmCtZlX3Vwr+fp0lJNxCwZCbhLO2OMGvsBpdLT/Tslu6GNwst+06VQE5eWfdcDvmCLyWkENQlckQq046pBXVQQDJB0TKrHhikpEIpAjDA7aN5y6/Y85o3Kv+Ekpli++vlfTdflDYzReKB9etJlvxkNXiF5sw5/tUPZ2tIzE+PDnoKHCcdLGiLLSEaBRC+0P85+q+LcnXuaOgWHHY4IEj3zJqHTY75kBCwUFmOROJSg68snwPzY4jaU74tPHSFsE1lpmbL9OZHK8Yb66s+yeCw/SNXW/rtIYbw6g7fupQJt5hO0fLjLXWfOJRTYA+YKEuEwXHi1/MhAiem9b4y7NITAX8kZ4QT4JnImb1/Mh6rVQ6ZgiWBaaZWznA2e0kv7WlHhKFVS6fB6w4K1bemjC/hBqgvg==;pGv6wbLaUPCLrYQxaAh1tw=="
 ---

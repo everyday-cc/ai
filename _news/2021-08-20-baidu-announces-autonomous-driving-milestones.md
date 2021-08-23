@@ -55,20 +55,6 @@ related:
         width: 1270
         height: 846
         isCached: true
-  - title: "China's Baidu Unveils a Level-5 Robocar With No Steering Wheel & Gull-Wing Doors That ‘Moves, Communicates & Learns'"
-    excerpt: "China’s tech giant Baidu Inc held its annual flagship \"Baidu World 2021\" conference on Wednesday and once again revealed some of its advanced work on AI and autonomous driving. Among the highlights, Baidu Co-founder and CEO Robin Li unveiled his vision for mobility of the future in the form of a futuristic “robocar” designed to make autonomous vehicles more accessible to the broader public."
-    publishedDateTime: 2021-08-18T20:45:00Z
-    webUrl: "https://www.futurecar.com/4813/China’s-Baidu-Unveils-a-Level-5-Robocar-With-No-Steering-Wheel-&-Gull-Wing-Doors-That-‘Moves-Communicates-&-Learns’"
-    type: article
-    provider:
-      name: futurecar
-      domain: futurecar.com
-    quality: 16
-    images:
-      - url: "https://img.futurecar.com/202108/18/l_611d70362ab4d.jpeg"
-        width: 800
-        height: 507
-        isCached: true
 
 secured: "cdpCdiFza08j8HF+jmyuQRgBxc9qdijMRXQZq1RbD90cmJu5gTDnJri/dO2HX96vpwXy2/b0fS+y32qdBCpgtoBCaZqMtnIxkgUOWUQehv3SYUMfR3HEJLez+flUillKVHu3oIQshPWQrbUFxM5DRROO2bd4UMRjfO0sRYmszodJ8kGzUN3rk/AfjEb8geSvK9jVTMEviSb+J32crH3MENO7a68u5yus2dWo4jfJ3zbn4w0ePcbfnsbUtBesDW0DTFDCJuNYlfi24u6YBQokrsAgt+WR7pP1nmGX64bvwinSU5/8z0OxKqc8z/2eT8sRok8hgG+ENtc40govkTyTkKfaLiEbB5SA9NviK6Fo3xvtLIOqtSNrdmxKyV1xkcDy2ERDe0S+LLiEOiSLZYYd6HYoEE7zpzut0heRbTahY/WM8WQldoB9FMw+YwDQ6kzhrbSSxkPYn8eTm0c+bdnVsZf0jyh3RgCrGXs2biMai+vjpe3mptNqn3apz9evcJkZDgsMI4taHnBRQzMMBBsJ7g==;+MX6WAneonOXISgkkHa+wA=="
 ---

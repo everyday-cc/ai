@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2FJ0GK"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2FJ0GK"
 type: article
 quality: 104
-heat: 194
+heat: 184
 published: true
 
 provider:
@@ -102,20 +102,6 @@ related:
       - url: "https://fintechzoom.com/wp-content/uploads/2021/08/RYPZAKZXTBPZFPVVEKT4DR5U44.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Baidu Brain 7.0 AI Platform Announced; Baidu Kunlun II AI Chips Now in Mass Production"
-    excerpt: "The latest version of Baidu’s open AI platform, Baidu Brain 7.0, has been launched by the Chinese technology company, which also announced that its Kunlun"
-    publishedDateTime: 2021-08-18T20:48:00Z
-    webUrl: "https://www.enterpriseai.news/2021/08/18/baidu-brain-7-0-ai-platform-announced-baidu-kunlun-ii-ai-chips-now-in-mass-production/"
-    type: article
-    provider:
-      name: enterpriseai
-      domain: enterpriseai.news
-    quality: 48
-    images:
-      - url: "https://www.enterpriseai.news/wp-content/uploads/2021/08/Baidu-logo-shutterstock-363519476_600x.jpg"
-        width: 600
-        height: 400
         isCached: true
   - title: "Baidu World 2021: Level 5 autonomous car and mass production of its AI chip announced"
     excerpt: "During the Baidu World 2021 held on August 18, the Chinese technology giant unveiled its prototype autonomous vehicle. According to the firm, the car would have an autonomy of level 5 SAE, the highest level that exists."

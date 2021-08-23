@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in computer vision Market Share, Growth Strategies, Geographical Analysis and Forecast By 2027"
-    excerpt: "Global \"AI in computer vision Market\" 2021 report presents an exclusive analysis of market size, revenue, production, consumption, gross margin, and price. The report offers elaborative data of leading market players analysis and key factors that will affect the industry growth."
-    publishedDateTime: 2021-08-18T19:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-share-growth-strategies-geographical-analysis-and-forecast-by-2027-2021-08-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 71
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence-based Security Market to Witness Notable Growth by 2027"
     excerpt: "It covers how this COVID-19 pandemic affected each and every industry of the world. This Artificial Intelligence-based Security market report further proceeds with covering market trends, competitive analysis, growth factors, market size, forecast and ..."
     publishedDateTime: 2021-08-19T10:10:00Z
@@ -87,6 +73,22 @@ related:
       - url: "https://manometcurrent.com/wp-content/uploads/2021/08/OEM-Factory-Workout-Clothes-Fitness-Yoga-Wear-Women-Sports-Wear-Gym-Wear-390x220.jpg"
         width: 390
         height: 220
+        isCached: true
+  - title: "Artificial Intelligence in the Education Sector Market Size, Key Players Analysis and Forecast To 2028"
+    excerpt: "The new report titled Global Artificial Intelligence in the Education Sector Market published by Emergen Research is a vivid presentation of the global Artificial Intelligence in the Education Sector market with utmost focus on the forecast market size share value"
+    publishedDateTime: 2021-08-23T13:05:00Z
+    webUrl: "https://www.openpr.com/news/2363772/artificial-intelligence-in-the-education-sector-market-size"
+    ampWebUrl: "https://www.openpr.com/amp/2363772/artificial-intelligence-in-the-education-sector-market-size"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2363772/artificial-intelligence-in-the-education-sector-market-size"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 58
+    images:
+      - url: "https://cdn.openpr.com/U/8/U823931376_g.jpg"
+        width: 700
+        height: 393
         isCached: true
   - title: "Artificial Intelligence in Oil and Gas Is Set To Experience Innovative Growth By 2027"
     excerpt: "A new research report from the document repository of ResearchMoz offers detailed study of the Global Artificial Intelligence in Oil and Gas Market. The study presented in the report intends to help companies in the development or modification of their business expansion strategies using important information pertaining to the global Artificial Intelligence in Oil and Gas market."

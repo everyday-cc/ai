@@ -35,21 +35,19 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "From health care to infrastructure, how AI is changing the world for the better"
-    excerpt: "New advances and creative applications are harnessing the power of AI to offer solutions to a host of social issues to enable new leaps in human development."
-    publishedDateTime: 2021-08-20T14:50:00Z
-    webUrl: "https://www.technologyreview.com/2021/08/20/1032358/from-health-care-to-infrastructure-how-ai-is-changing-the-world-for-the-better/"
-    ampWebUrl: "https://www.technologyreview.com/2021/08/20/1032358/from-health-care-to-infrastructure-how-ai-is-changing-the-world-for-the-better/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/08/20/1032358/from-health-care-to-infrastructure-how-ai-is-changing-the-world-for-the-better/amp/"
+  - title: "5 Dutch AI companies transforming finance, healthcare and agriculture"
+    excerpt: "AI in the Netherlands is booming: A Techleap.nl 2021 report found that 10% of all registered AI start-ups worldwide are based in the Netherlands. The nation has the highest density of AI start-ups per capita in Europe. In addtion, there are a number of ..."
+    publishedDateTime: 2021-08-23T00:59:00Z
+    webUrl: "https://www.computerworld.com/article/3630648/5-dutch-ai-companies-transforming-finance-healthcare-and-agriculture.html"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 55
+      name: Computerworld
+      domain: computerworld.com
+    quality: 71
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/08/Baidu_CDSS_1200_675.jpg?w=1200"
+      - url: "https://images.idgesg.net/images/article/2021/06/artificial_intelligence_automation_digital_brain_thinkstock_875595818-100749926-orig-100893865-large.jpg?auto=webp"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
 
 secured: "/TfFvWxGeYJbYLfKx5sNLIR0Z/zHZ0e4rxGUqbkAR321qDy58F7+VJfi1gpaeXaiOXDAUyToHZhxZfBKRiDuho9Un/FFofbkFnQsWqLNyvif/wNiMUl17RNHIXJyQm/AtqEd+MGS7TAOZcRieKImoZ1CsfydueeHL+N2OvOjYvlDZhc2EId7Lfky528geSLYHDqsdI9baZ/G0tT0qRp6MyvKnRM/GhfM2X9+3vZ7qVnvuPvEo/K6NrJBySp0Vcg/byAqDinZc/rF6ejGGhs/Y5B2v1qicBKVEMvgJT1kgrBHh+lxseRv9SvVtL4QI6ywwrFjh3YSlLIKx9HRsYmcGzqvZTT/WI1erVDW6YphmKs=;t2Ch+hNuSv1Rd56MyxHBtw=="

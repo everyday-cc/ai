@@ -27,31 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "The AI advantages for healthcare and finance"
-    excerpt: "By Evan Schuman When senior executives at two of the world’s most highly-regulated verticals—healthcare and finance—explore ways of improving operations, boosting margins and delivering it all with a strong ROI,"
-    publishedDateTime: 2021-08-18T23:08:00Z
-    webUrl: "https://techcrunch.com/sponsor/beyond-limits/the-ai-advantages-for-healthcare-and-finance/"
+  - title: "The Other F Word: How Robot Developers Can Do Better By Embracing Failure"
+    excerpt: "With new applications for smart robots being created daily across every industry, and increasing interest in automation from executives at companies of every size, this is a great time to participate in the next wave of the digitization of labor."
+    publishedDateTime: 2021-08-23T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/23/the-other-f-word-how-robot-developers-can-do-better-by-embracing-failure/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/23/the-other-f-word-how-robot-developers-can-do-better-by-embracing-failure/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/23/the-other-f-word-how-robot-developers-can-do-better-by-embracing-failure/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 101
+      name: Forbes
+      domain: forbes.com
+    quality: 103
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1244301434.jpg?w=600"
-        width: 600
-        height: 400
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611fc9da22fe8826dc226780%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3419%26cropY1%3D956%26cropY2%3D3419"
+        width: 1200
+        height: 864
         isCached: true
-  - title: "China AI in Healthcare Market Emerging Trend, Top Companies, Industry Demand and Regional Analysis by 2025"
-    excerpt: "China s AI in healthcare market is estimated to grow significantly at a CAGR of 52 8 during the forecast period China s market has both medium and long term potential due to its large market size aging population fluctuating"
-    publishedDateTime: 2021-08-23T07:24:00Z
-    webUrl: "https://www.openpr.com/news/2363109/china-ai-in-healthcare-market-emerging-trend-top-companies"
-    ampWebUrl: "https://www.openpr.com/amp/2363109/china-ai-in-healthcare-market-emerging-trend-top-companies"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2363109/china-ai-in-healthcare-market-emerging-trend-top-companies"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 36
 
 secured: "G2BcXl1adevouYHWWSnHqRCK9cwuJbrRsKVb2XQcn0OzPiKilJTznDbaXXZbfzfxjua/lgJgUtkyrITpHBP5ntkAqJnbp2ilDGXvWXUZFcHUL24M25qg1+Fa+CGc3iqcQ2P/XQUTXY2qz3QMJYZHfdPR4QHruQusp++4tqeWG9rgsjZncjsnyx6OYAsLz3YMQybiMdPQrxzAXXDQGe1GeIGDLv1Bv7BtBf/jfeGCxc/KfRSXMi9nsvnzu96QIWAXXwEoApkQ5hBrML1mw/TauN9Lc5z8GSydBUnIreSSV4ETtdiUTAryAQvI2bj2ZMjXPMr3+fnxYBesZTx4/Lu8OdzvtWrX3BUqJtOTJh4rpiXpmrAQQcAEV/f3H87l2Obq3D6sCzKZpJTmwe/PVIZFI96EihV0ic1OvowE7JS69r6KU55duQ2K2h9+alW3Jh8HbaO8PXWqjxdXQVKsrrnPuxdnT5lfCIAgnhW/hp2dsrJBuijHlIRxVd2ZzI6rLq6QyIQWIy3vYgDo15tK/l9IRQ==;BukX+yjIH1Fo9L8lyvTJ+w=="
 ---

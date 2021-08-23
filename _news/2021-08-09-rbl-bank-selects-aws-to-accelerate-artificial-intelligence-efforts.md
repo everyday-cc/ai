@@ -1,21 +1,29 @@
 ---
 category: news
 title: "RBL Bank selects AWS to Accelerate Artificial Intelligence Efforts"
-excerpt: "RBL Bank, has chosen Amazon Web Services (AWS), an Amazon.com company, as its preferred cloud provider to strengthen its AI-powered banking solutions and drive digital transformation at the Bank, addi"
-publishedDateTime: 2021-08-09T15:56:00Z
-originalUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=295695"
-webUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=295695"
+excerpt: "Other use cases already being tested within the Operations division include using services like Amazon Rekognition and Amazon Textract to automatically extract and match customer signatures and ..."
+publishedDateTime: 2021-08-09T08:09:00Z
+originalUrl: "https://www.indiainfoline.com/article/news-sector-banking-financials/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900334_1.html"
+webUrl: "https://www.indiainfoline.com/article/news-sector-banking-financials/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900334_1.html"
+ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-banking-financials/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900334_1.html"
+cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-banking-financials/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900334_1.html"
 type: article
 
 provider:
-  name: Equity Bulls
-  domain: equitybulls.com
+  name: India Infoline
+  domain: indiainfoline.com
 
 topics:
   - AWS AI
   - AI
   - AI in Finance
 
-secured: "jFHGlkgWSTwb+JR9eaoeCKzI2nOMqGjjNnOjZ7hieQhg9lgSdLU42u9HY9KRZfE69WOb740fzfat1uW3XiT+iiTcsL7jphqTGaJIN0boczDQfTegOZDx4gmwsb2e0d6QtlhPp/S2x5K1pePIyJPgr5BZG8EDyMs+CtcKqLPPdzaj60r94dwKC1DYoa1dz5lErIsTA0o77AvOJRT2jzPhkpLDO9caN0Htvw22LbasUQUkrNJ8SpFxprRTxsH5oKRAniC3IhD57Tiw4ZSK/f5KRm/inXDuz9iFyxyTBBBE1SWKNathaYnlOsvWqq1rPAv+NuzTuqSEI3+9bMICbnQKlQVVleBzrkZa8nRrlwrwnL8=;NGvun8QDjAI4b+x3dhwrvw=="
+images:
+  - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
+    width: 350
+    height: 233
+    isCached: true
+
+secured: "c/MyH0vzBWg8mBxOHIMu3hDUDB49XWXuB/Qh5gPcj8rz7Nlghni2eCAe7SQNnx6jdG5fmCJ7Qap2E+zcySXP4exJAk1lFJTWSeJoZq0K1GsPKDOwjImwlHSPzyjgUQQf2tLa+v8ghNdrPmwQ6RLt9NW8Dv3t3Gsjz6YDVb5N1T98sBXrT29ua49hxHLIiWgLChX6es3MHd/uYKw3WSjFhs1Gbs49221sJLap1Vwm5NY73kKct695SjtzjnaIG5HnqpTdxHSrjbAErw20on01ou89NPpn3HdIg1882MktqaetnVKENDvWKydM3aJerbxNLVyEkxUjchT0/+ZFmo4w50Ks7ldirYNSea2YvE42zDM=;xseYl68xUEq9aN68As2zvA=="
 ---
 

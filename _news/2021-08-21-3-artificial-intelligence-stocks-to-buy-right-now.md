@@ -8,8 +8,8 @@ webUrl: "https://www.fool.com/investing/2021/08/21/3-artificial-intelligence-sto
 ampWebUrl: "https://www.fool.com/amp/investing/2021/08/21/3-artificial-intelligence-stocks-to-buy-right-now/"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/08/21/3-artificial-intelligence-stocks-to-buy-right-now/"
 type: article
-quality: 89
-heat: 99
+quality: 91
+heat: 101
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F639600%2Fgettyimages-1307905824.jpg&w=1200&op=resize"
@@ -43,6 +44,6 @@ related:
       domain: nasdaq.com
     quality: 69
 
-secured: "HWreCUEVtjL3FQ9z5cCLsfgRP7zyTfculW+WwFsCwiq0AiXZCz0c72zJgG7DKEKbzdpKF7BUvKTU5jzNz0qtpTj8P8HDEVOXCQXsh7M7J58sbymDRNpy6lDWKdC7tqXKX+cy4tqqCP7lmYwJt81M97EXtdLDBNEEt/BoMPQ9okrfGuMsyXnch2h+awUU9bEZGURUTYeXj2/FkUpUC8dcKdA+99VGgTAxZrk0sGBJsRxDmzsET9CfB4vussY/1k9jiWR0K8vyM7uFhR5l48hrFvPmO2NZ6zhlRqVcZfHtZ5KEKdlLTfHxccjlcVEbxITJvbWxRx8sdQ4KJYfhNfjYnoljVS1EojIPPruoFW1Dbbk=;HfhOm6XRmx6RR6iDJrHBRQ=="
+secured: "yPdM07cmdJlPwo+eVZ7G2TqWrdJ2wFhGSVWUT4zjjuqgB3hDJy/thofD7ywJnI2PuSCvXr8rtZb0/gB22dQUjeJMIk3mSwtZak0xUPma0vT8PKeNVHCgJH3sbbYU4enbLzG+NCQ4e8V7FoTWHuSj/iNFag38TBSU8t1d8DZCZuWYj0By11BEpgSLXk/qnu0SI09AkKQVjC4X5plXK+/IFS9emrKqX68lcTIhmwstSQJXM2PTqP9th/Ks69aU11g6SJNaxng+hTDwh6pMB+bS1A+M+wMG+Er0M6f/+Fh8vDsyjPbedA23X/Q7TA2Xo+sXCZBmYWOk2Evwzj/vDtw5TsbnPiRh+xRNcKXKWf4K55TFnV+od3CuhpkiSoGRkCzeWuMqc2LmU/bXqE/AizJfxcvBynQ+kN2Vs7E0fJpvJj4Ojvj6FWU5WX8xOGCkyenE2nQix2aKTqRQ+KszJwQw8KVQpW/2xCO9BJagfDoSa9azr/KVNpgT+aib3J0LpdU0Cirt8URI8OVEOVgJHqdbMw==;gIaGPh9G97w5+OiFu083VA=="
 ---
 

@@ -1,28 +1,22 @@
 ---
 category: news
-title: "WPP acquires leading AI technology company Satalia"
-excerpt: "WPP is a creative transformation company. We use the power of creativity to build better futures for our people, clients and communities."
-publishedDateTime: 2021-08-23T07:30:00Z
-originalUrl: "https://www.wpp.com/news/2021/08/wpp-acquires-leading-ai-technology-company-satalia"
-webUrl: "https://www.wpp.com/news/2021/08/wpp-acquires-leading-ai-technology-company-satalia"
+title: "WPP Acquires Leading AI Technology Company Satalia"
+excerpt: "WPP (NYSE: WPP) today announces that it has acquired Satalia, a technology company offering market-leading AI solutions for clients. Satalia is a glob"
+publishedDateTime: 2021-08-23T12:30:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210823005340/en/WPP-Acquires-Leading-AI-Technology-Company-Satalia"
+webUrl: "https://www.businesswire.com/news/home/20210823005340/en/WPP-Acquires-Leading-AI-Technology-Company-Satalia"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: WPP
-  domain: wpp.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI Ethics
   - AI
-
-images:
-  - url: "https://www.wpp.com/-/media/project/wpp/images/news/stalia-pr.jpg?width=900&height=506"
-    width: 900
-    height: 506
-    isCached: true
 
 related:
   - title: "WPP acquires AI-tech firm Satalia"
@@ -72,6 +66,20 @@ related:
       - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
         width: 1000
         height: 581
+        isCached: true
+  - title: "Communications giant acquires AI technology company in digital ramp up"
+    excerpt: "London headquartered communications multi-national WPP has announced that it has acquired Satalia, an AI technology company for an undisclosed sum. Satalia… | London | Digital | Technology | Technolog"
+    publishedDateTime: 2021-08-23T13:06:00Z
+    webUrl: "https://bdaily.co.uk/articles/2021/08/23/communications-giant-acquires-ai-technology-company-in-digital-ramp-up"
+    type: article
+    provider:
+      name: Bdaily Business Network
+      domain: bdaily.co.uk
+    quality: 39
+    images:
+      - url: "https://bdaily.co.uk/images/uploads/Yd1iOp5VdToWzLaqtAmpnnGyYqGNIRwcS3LZj3su.jpeg?w=940&h=430&fm=jpg&fit=crop-36-2&s=a5dc5d2d0486f936cb6a607ac0c09053"
+        width: 940
+        height: 430
         isCached: true
   - title: "WPP acquires AI technology company Satalia"
     excerpt: "The latest acquisition of Satalia is aligned with WPP’s accelerated growth strategy and focused M&A approach and more."
@@ -125,6 +133,6 @@ related:
       domain: lse.co.uk
     quality: 38
 
-secured: "1vBFesN97EVlyKEt7kFhdj3qybkxHLtGyehqa+AVCfFbvR8RxFIZ8I5ZwDYb2RRyZm74IaONmf6+MXNVEWUMJFXRjzSMDFR4PYqMmDdNLxlnm6rlN2I7EzIx/ze11tsaaq8zgh+/V2EllZKP9BESsVJoDB80HgjQhUXVW0QgyN6fCv4gTEPrr9ZH8V1aBYLLrP4GSOt0MqejDsrj6QSCWt1enh7Cq/z6qdN7UFfBgMBsmwpjDmArDXb0w6cXz+zrPvQp98xcos/u/IHwH/aJIMiVWobsZlAhsQ1hHoigScv8KVQG4DzntiBx4enAyJ+nz8e0YJUnvwByfmwlkIA5FmIu+BbkyLGPwO7GnDkb8Z/3/dyI3x5qRAncNuGZQscabta9nUlf/i9E7COWo7IsCpBvBRSy3QYZjZcBm3ayfRmPvDJgKxOCbS3lquLLXM6x9YiaN/LS8TA7lpjDe3y2FSae4Jll6du3DPslR1DSxiw0Q7YUhyv6HkJ+29srpL68AhfiE4+PeTgG+ntJ3jYdAw==;pknghJVmPcvblfRbvj/sLw=="
+secured: "3q1mVOEOdjfEI+iW4L3oeWpb0cMXAumTJIabVV2DruRdQvxntPsZouqIUpM92j/nz0hywDhtraj7UthRT6T8RW9rvHgA5WwXRrQuypkrO3L/qda9LmRaMgPJvzHRIh+KgNY9egQ1rEZChaPwWjFcXs74v+sJmI/ZcwL+RiDkG5iiy2kupM7t6e9f4NQbHSCyT+mzly/cfjWCK3RsE0tVTcF4AMWDEfwHwLVS4dIIZluzNuqwCoz00KMNgPUdfVtXqzula9ml8U5f7qAhWiSQWI9cgYsxd0MW1dXTwJlpFYVkXT/Bw+ZnoAgR8Hffki3k9C4cfnQIkqEVozjyKmuUxSVvXu3Yhc82m/NiKtzSFEI=;D4kDSJ69xJBEobTfqS2p7Q=="
 ---
 

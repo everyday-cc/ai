@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Synopsys design software uses AI to make chips more power efficient"
-excerpt: "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading on FintechZoom"
-publishedDateTime: 2021-08-23T11:28:00Z
-originalUrl: "https://fintechzoom.com/fintech_news_nvidia-stock/synopsys-design-software-uses-ai-to-make-chips-more-power-efficient/"
-webUrl: "https://fintechzoom.com/fintech_news_nvidia-stock/synopsys-design-software-uses-ai-to-make-chips-more-power-efficient/"
+excerpt: "Major chip firms like Intel Corp or Nvidia Corp can spend two years and hundreds of millions of dollars to perfect their designs."
+publishedDateTime: 2021-08-23T11:56:00Z
+originalUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/synopsys-design-software-uses-ai-to-make-chips-more-power-efficient/85561655"
+webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/synopsys-design-software-uses-ai-to-make-chips-more-power-efficient/85561655"
+ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/synopsys-design-software-uses-ai-to-make-chips-more-power-efficient/85561655"
+cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/synopsys-design-software-uses-ai-to-make-chips-more-power-efficient/85561655"
 type: article
-quality: 39
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: fintechzoom
-  domain: fintechzoom.com
+  name: India Times
+  domain: indiatimes.com
 
 topics:
-  - AI in Finance
+  - AI Hardware
   - AI
 
 images:
-  - url: "https://fintechzoom.com/wp-content/uploads/2021/08/1629718101_reuters-default.png"
-    width: 1200
-    height: 628
+  - url: "https://etimg.etb2bimg.com/thumb/msid-85561655,imgsize-12122,width-800,height-434,overlay-etcio/synopsys-design-software-uses-ai-to-make-chips-more-power-efficient.jpg"
+    width: 800
+    height: 434
     isCached: true
 
 related:
@@ -42,6 +44,6 @@ related:
         height: 662
         isCached: true
 
-secured: "Q0mXDOUT1wfuKi1JM60IKfk/VoO91GJnprsNz55ZOsMbR0VOusu7YvePpfHzJfuVsxxb9wPsEePJFa4o7d1IPVXli/C0z/XLIZqmdWgbLJJM8u7csq7OJ8xfsX3Som3orTuvBI/0CapmQRdD+2PgDRxgh6wsc9o9KWmC8p4HcNMtwmnAiXVYw3snRQfWrLJykeZC6DT6Qjk2/GWAdmt8PSUKpa23KSpT35AUGTesHXNAZXAOOMPMHrCRLPzLFUmkKbhZEvDnmpPeLToF1ek2WPPZxKNdQP787y5NHayxz6zRTHwdf3Dd3qgN/X2M5GYaLVghzyppoKgsyZzKz3vEEZYNLClKdIYZpM9JbPscLCw=;29Grk4ZPZ1r89sKXQCCSbQ=="
+secured: "/gbJXmXcogk3yRi6RylBul2regB1sH3l1Q67Rf9Iw2MMbBMZEBypA4GuwfhyZ74m5i6NilElMwJV/WIH2My94BfwGMTorh+0V8gadAykQ7JI7I8QetalIqHgxeAdZwvXAvrzMqNMvFpCUFQV9kGBtaB+bftjJxa/rx8vqubR7jnOiXi2CVhxjEV/nWPIR9EcBNLR3O1Dgtpl0edVXYMlaWrNAA34+ilvJLVytqm5pSZONJ/fWU8kSmnZun3dCUGeiWEpA89iuoV2MmlYAhOj30AMqBa0WUMuncSO9BGnRnpyJcKLLlaPLjFfePrpuNkepJavwTakiByFvindFeKP543+PYiMSPlL7NNOyoWeUJw=;rBfCMufNg4IkJ/X+ViOhRA=="
 ---
 

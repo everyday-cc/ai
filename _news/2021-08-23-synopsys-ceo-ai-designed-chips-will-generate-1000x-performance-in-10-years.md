@@ -32,20 +32,22 @@ images:
 
 related:
   - title: "Synopsys design software uses AI to make chips more power efficient"
-    excerpt: "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading on FintechZoom"
-    publishedDateTime: 2021-08-23T11:28:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_nvidia-stock/synopsys-design-software-uses-ai-to-make-chips-more-power-efficient/"
+    excerpt: "Major chip firms like Intel Corp or Nvidia Corp can spend two years and hundreds of millions of dollars to perfect their designs."
+    publishedDateTime: 2021-08-23T11:56:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/synopsys-design-software-uses-ai-to-make-chips-more-power-efficient/85561655"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/synopsys-design-software-uses-ai-to-make-chips-more-power-efficient/85561655"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/synopsys-design-software-uses-ai-to-make-chips-more-power-efficient/85561655"
     type: article
     provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 39
+      name: India Times
+      domain: indiatimes.com
+    quality: 74
     images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/1629718101_reuters-default.png"
-        width: 1200
-        height: 628
+      - url: "https://etimg.etb2bimg.com/thumb/msid-85561655,imgsize-12122,width-800,height-434,overlay-etcio/synopsys-design-software-uses-ai-to-make-chips-more-power-efficient.jpg"
+        width: 800
+        height: 434
         isCached: true
 
-secured: "x4p1weW4zv+YGAlErQi5TLWWeIH152pHZVSkA/peaRjtZwriQ60tRdu2zVLx3D+3npculraBSxpehdwNbcBvuVa40SFqBauO7Mk8+zXeRTtLO6jGz0Osmz4fp8MSUvjyBGYUIJ0ob0xHZZRBcxe9wG/jdXYgf0V/3NHvFcUT/sJN8CgK0jVnbPLvr3+bE7UPIp7N5Gc0LyKjqQ11U7vuavFXpfa9MWBYoxP6mPVW8k219kQMrnU/HX+k8oYCvQwr895JcIS4U5GxPf7nlDwehbL7c+NMBgXpgoeN4zhQFPs/hyVP9t71HH2IX2C4IxwUuXOfM3GMouZOqZE2QEbsbSuYv0GI4njQ4nyh4rUQuzA=;g0NGniosVYFbq8AV/O94+Q=="
+secured: "zW+MNq1v2X1VuvynRYu3jBVNVBxr60HSnadH/pwTC2ct8RjkI1CCj/81De6IJXV5JqKq2cK8609y7hdHjpNKUTDH6JetGiJhlpO6G0pzlprbwpji13eoL0+Aa2nA2MHGQeGlbokkgPqo8wa1qL5QYh4xmFjFfSKfxUzhhTqGiypG2OKk0/dYwWaopcv9G5Ey2Cektyo20rXQE5PhUNfl0kBC45dmWoRMDGCU0r3jttuPCoVqGtGsa7TAjJQ/UOIMhtNwBBC6bJNRwnY/coQtvPIR9krL/3PzVmXnG4faZhPNC7pMa15O5C+8MKEpSYsZ78h4iKXRMZpb8A4CiIyQLvwECtMF3B/Ee/SQ2lYP/3/HFcrRFbaSDd+IEpJgXW82z5qPG9ChHH2ycQQI1Vq6tdXSirhamZC0rtBUczPPW9gS9ASirryjVf/R/z4j38vMwWyBIFk5gT6uAnwxyiRB7RG0ZItbe8FRlv6dIjdRbkkuYN+inmCWP2EnPI4uCnJB2wUPRkjwuGyrP/s2BFmsCQ==;wcXKOU1R0csH+lUkX2laQg=="
 ---
 

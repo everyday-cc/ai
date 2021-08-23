@@ -9,8 +9,8 @@ ampWebUrl: "https://www.openpr.com/amp/2361395/north-america-is-expected-to-domi
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2361395/north-america-is-expected-to-dominate-the-ai-in-physical-security"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: openpr.com
@@ -41,6 +41,22 @@ related:
     quality: 49
     images:
       - url: "https://cdn.openpr.com/U/8/U820880368_g.jpg"
+        width: 400
+        height: 300
+        isCached: true
+  - title: "Precision Medicine Market to Reach USD 125.67 Billion by 2026 | TechSci Research"
+    excerpt: "Increasing advancements in cancer biology and myriad benefits offered by precision medicines to drive the global precision medicine market According to TechSci Research report Global Precision Medicine Market By Products Services Precision Medicine Platforms Precision Medicine Tools Precision Medicine Services"
+    publishedDateTime: 2021-08-23T12:33:00Z
+    webUrl: "https://www.openpr.com/news/2363885/precision-medicine-market-to-reach-usd-125-67-billion-by-2026"
+    ampWebUrl: "https://www.openpr.com/amp/2363885/precision-medicine-market-to-reach-usd-125-67-billion-by-2026"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2363885/precision-medicine-market-to-reach-usd-125-67-billion-by-2026"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 39
+    images:
+      - url: "https://cdn.openpr.com/U/8/U823887337_g.jpg"
         width: 400
         height: 300
         isCached: true

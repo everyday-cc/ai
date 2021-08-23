@@ -57,6 +57,20 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Implantable AI Developed for Early Detection and Treatment of Disease"
+    excerpt: "Study demonstrated the use of an approach for real-time classification of healthy and diseased bio-signals based on a biocompatible artificial intelligence chip."
+    publishedDateTime: 2021-08-23T12:00:00Z
+    webUrl: "https://www.genengnews.com/artificial-intelligence/implantable-ai-developed-for-early-detection-and-treatment-of-disease/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 39
+    images:
+      - url: "https://www.genengnews.com/wp-content/uploads/2021/08/GettyImages-523791776-scaled.jpg"
+        width: 2560
+        height: 1719
+        isCached: true
 
 secured: "6IyLuoCFolz2FmLWqyB3V5RD6i3+ob7lTywoSQPeHgsNEiCeZGR7y1Zr+SkCMG5pz2r+tdkoRVGr/TnYZypH1XknY0IepQY2Aa12WbIBTHayNt7yptyItIEmeo6qDwzDMApOBk26K2gpMSOMyJ+wj6xCJrFmhKK/4g7zFdATuS7evEY56VyfpoNUMpRtRQN2nAJi3xZs5lcAom8DxZJKAKSvLDuq4T8KbBl55iX2O7XtxEro+ZUBAnuxb0aiuSw4e3b2GhkDCPKJ5JdAcFRSEDstANnXkX4CWM1DyBbAyR3t98S1yiG+s6DcUooM7Tew7FSWBle/4HniqBmtgI6zu57BxWHxVtwvgDCfjwsvf/42VKWFTxh8KkMxEftFDdJvf8gHXesfN0iPKRrsfOTr4z/LAItUnDwgmtIexiQQy+Wl8hZwNW1Uwu8OZWNx2t5P0OO+Gs+37pCYumgHZrOWe9N2ZNU6h6XgAt1Ww0hVEcTXcDk3YEqa8vGJLOStBdQBBC158cWVZndRq8vt9Qur+A==;Ld5jKbgWgc9IEr2y3NUkYQ=="
 ---

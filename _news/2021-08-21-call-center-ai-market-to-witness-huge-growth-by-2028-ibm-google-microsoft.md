@@ -9,7 +9,7 @@ ampWebUrl: "https://manometcurrent.com/call-center-ai-market-to-witness-huge-gro
 cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/call-center-ai-market-to-witness-huge-growth-by-2028-ibm-google-microsoft/?amp=1"
 type: article
 quality: 70
-heat: 110
+heat: 100
 published: true
 
 provider:
@@ -54,17 +54,6 @@ related:
         width: 390
         height: 220
         isCached: true
-  - title: "AI Recruitment Market is Booming Worldwide with Google, IBM, Oracle"
-    excerpt: "Advance Market Analytics published a new research publication on AI Recruitment Market Insights to 2026 with 232 pages and enriched with self explained Tables and charts in presentable format In the Study you will find new evolving Trends Drivers Restraints"
-    publishedDateTime: 2021-08-18T19:43:00Z
-    webUrl: "https://www.openpr.com/news/2359662/ai-recruitment-market-is-booming-worldwide-with-google-ibm"
-    ampWebUrl: "https://www.openpr.com/amp/2359662/ai-recruitment-market-is-booming-worldwide-with-google-ibm"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2359662/ai-recruitment-market-is-booming-worldwide-with-google-ibm"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 37
   - title: "Neural Network Software Market to Witness Huge Growth by 2026: Google, Neurala, IBM"
     excerpt: "This press release was orginally distributed by SBWire Edison, NJ — (SBWIRE) — 08/18/2021 — The latest study released on the Global Neural Network Software Market by AMA Research evaluates market size,"
     publishedDateTime: 2021-08-19T03:28:00Z
