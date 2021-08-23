@@ -7,7 +7,7 @@ originalUrl: "https://www.autoevolution.com/news/aurora-releases-framework-to-te
 webUrl: "https://www.autoevolution.com/news/aurora-releases-framework-to-test-the-safety-of-self-driving-cars-and-trucks-167761.html"
 type: article
 quality: 21
-heat: -1
+heat: 21
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1680
     height: 920
     isCached: true
-
-related:
-  - title: "Cruise film stars self-driving car to build trust"
-    excerpt: "The car, one of 200 used for testing by the GM unit, stars in a short film meant to earn consumers' trust and educate them about the technology."
-    publishedDateTime: 2021-08-22T11:15:00Z
-    webUrl: "https://www.autonews.com/mobility-report/cruise-film-stars-self-driving-car-build-trust"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/4POPPY-MAIN_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "xDIR5nsZ+GF5PiPLExjdPo/+D1kM8gDL9CKhlmjT9qw7nCfjGsgOl/KzkYy0Sr6rIlxFELl1W9AX1MWGI3c/xh9F9Fc6iG6JgVuc/RF0Rhj//158dA6kJGXZsDG2lIGGtb2xzpwB/dAn+9hX+QwHyNkrtgKpiKecUR3jRhL1dOOy7/JdJMxDD25KV0UyuWwgi50swiWQypRSo57VbBhgeesu0fmrRlH5Z6nq6+jL+RK3eHyuhvy7Mm63VvAKTOe4v6lUkAOR4TBUnXV8GyyKLi3K+GFeB5OreLxPMrTbfXSXHbC8dTnYLwN8WwleYHknZJd3vRNtZmRFVFiWdE7zBVRvsuaBQbasOjLNauD0u2HBJXxIlUe++XA91X4cXuVij9qvdEEN3bZ5YxdpK2UIZOfxoBw9hSUVqt5jClE9cO0cCsxOd61P76pdzdD9QhFuCd83KoFNsluoNQIPIUcM/lwqCm3Nr6i3+aclVSjwCAnngb3TaIh+mYqnLKjw6mNcZLN9NoC/NOFWwgedzZ1opA==;CSphtBSXdcc+GmILG+yw9w=="
 ---

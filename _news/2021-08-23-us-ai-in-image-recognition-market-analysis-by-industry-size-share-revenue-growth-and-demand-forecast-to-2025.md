@@ -177,6 +177,17 @@ related:
         width: 750
         height: 350
         isCached: true
+  - title: "China AI in Healthcare Market Emerging Trend, Top Companies, Industry Demand and Regional Analysis by 2025"
+    excerpt: "China s AI in healthcare market is estimated to grow significantly at a CAGR of 52 8 during the forecast period China s market has both medium and long term potential due to its large market size aging population fluctuating"
+    publishedDateTime: 2021-08-23T07:24:00Z
+    webUrl: "https://www.openpr.com/news/2363109/china-ai-in-healthcare-market-emerging-trend-top-companies"
+    ampWebUrl: "https://www.openpr.com/amp/2363109/china-ai-in-healthcare-market-emerging-trend-top-companies"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2363109/china-ai-in-healthcare-market-emerging-trend-top-companies"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 36
   - title: "Artificial Intelligence Plus Internet of Things (AIOT) Market Analysis by Trends, Technological Advancement, Forecast till 2027 & COVID-19 Effect"
     excerpt: "This Artificial Intelligence Plus Internet of Things AIOT market analysis looks at the global market s current state and projected expansion from 2021 to 2027 It includes a summary of marketing research methodology as well as commercial potential In this"
     publishedDateTime: 2021-08-19T10:11:00Z

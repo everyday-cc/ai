@@ -25,19 +25,44 @@ images:
     isCached: true
 
 related:
-  - title: "Free Trial Class on Artificial Intelligence and Python Coding - Singapore"
-    excerpt: "Unlock your child's true potential by introducing them early to growing technologies like Artificial Intelligence and Python programming. We would like to welcome your child to attend our Free Virtual Trial Class “Learn AI and Python Programming."
-    publishedDateTime: 2021-08-21T13:42:00Z
-    webUrl: "https://www.eventbrite.sg/e/free-trial-class-on-artificial-intelligence-and-python-coding-singapore-tickets-166648860227"
+  - title: "INSIGHT-A secret weapon for self-driving car startups: Humans"
+    excerpt: "Self-driving startups like Cruise and Pony.ai have begun testing their driverless cars in some parts of California in the past year, with an additional feature: Human operators. FREMONT, Calif., Aug 23 (Reuters) - Self-driving startups like Cruise and Pony."
+    publishedDateTime: 2021-08-23T10:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/insight-a-secret-weapon-for-self-driving-car-startups%3A-humans-2021-08-23"
+    ampWebUrl: "https://www.nasdaq.com/articles/insight-a-secret-weapon-for-self-driving-car-startups%3A-humans-2021-08-23?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/insight-a-secret-weapon-for-self-driving-car-startups%3A-humans-2021-08-23?amp"
     type: article
     provider:
-      name: Eventbrite
-      domain: eventbrite.sg
-    quality: 36
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
+  - title: "Film's star is self-driving car by Cruise to build trust"
+    excerpt: "The car, one of 200 used for testing by the GM unit, stars in a short film meant to earn consumers' trust and educate them about the technology."
+    publishedDateTime: 2021-08-21T08:00:00Z
+    webUrl: "https://www.autonews.com/mobility-report/films-star-self-driving-car-cruise-build-trust"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
     images:
-      - url: "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F144094949%2F528315723547%2F1%2Foriginal.20210810-115436?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=8364225f94eef3324a0e299b831ffa2d"
-        width: 1000
-        height: 500
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/4POPPY-MAIN_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Cruise film stars self-driving car to build trust"
+    excerpt: "The car, one of 200 used for testing by the GM unit, stars in a short film meant to earn consumers' trust and educate them about the technology."
+    publishedDateTime: 2021-08-22T11:15:00Z
+    webUrl: "https://www.autonews.com/mobility-report/cruise-film-stars-self-driving-car-build-trust"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/4POPPY-MAIN_i.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "nC/J8YTL6PHiQHBwQ2jZtd3dsWUpMjDvPZ4BCTQKgNBGYxQdDr3DDOzItS2RD75dK+9++WyvQ7GeC+AnPzVaSHFhDBFBSg7QboKEkinHQHwBOnEwiLehLXkGByTU1nGZeX9p4lufP6GODyR5MIZWp1YWnz9xGKGbj5VIe0x278aqiicXtp2EfRIpBlqNyWlrQzmHW0PV8jpLu8fmeqSueUoLSV2Sd6uRmYahBPz26jhIpqyYoDxE3m93QZEw+A+sjbuU+keSXmIgBxym6KWNE3lpYS0PLhlydw7EV/n4s0LFGYNmETJoUIrdlQl9x4dKHgcMNd56uPPV4tYr2KJQ0Imy+pFAS9e1/Vyy7Qr96K432xCyfiM+WzkHAyLQa5RqnSIsfUhpSWJtjaKrEEHDctxxiF8m1fp+nOAxPlHF1hG7njAkRc9+SeSpmV7RvDvGGUpDsHgcVDcCOtiEg8IpuwQqBqPlqrbBIMrzB24qRlVX4HHhzCaeTSt03/bovK1QusK+DxyOsoGiYZFPbRgPmQ==;ZgCVsQbMM7scnxPZ3oXpbw=="

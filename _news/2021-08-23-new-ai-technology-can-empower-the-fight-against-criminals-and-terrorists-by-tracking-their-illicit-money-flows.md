@@ -6,8 +6,8 @@ publishedDateTime: 2021-08-23T14:23:00Z
 originalUrl: "https://taxjustice.net/press/new-ai-technology-can-empower-the-fight-against-criminals-and-terrorists-by-tracking-their-illicit-money-flows/"
 webUrl: "https://taxjustice.net/press/new-ai-technology-can-empower-the-fight-against-criminals-and-terrorists-by-tracking-their-illicit-money-flows/"
 type: article
-quality: 19
-heat: 19
+quality: 21
+heat: 21
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://taxjustice.net/wp-content/uploads/2021/02/newspaper-scaled.jpg"
@@ -24,6 +25,6 @@ images:
     height: 1707
     isCached: true
 
-secured: "rb/jX9rMgEloU3Q5EASi6Zdelw4jDDg5qvaB/qOKKPYVJqbCoBeob27C+EL9TuiXzd23NWHp8HilDgPIqx7LePa+PZeUdRa1NtvbYkr1eTl1clsLRNGd8nhccDBHCEVQxWM2UF/0NWbpTzUGhMN0amukn80OJfqz8XorVe/9dm5wXKjGwbgWiumzmakj6c6tcnXpxOT7h+Xq1ZTLRjMBhqfRY+I7uEuPvN0hToL9j2XZPThKdUCcitTNJD30Oo5wRbps1CTiY3y9eYGJ0tcvRn73CVPDrxL+WJ/VdnIRDrUXlh3Yy/N44EnsK6KLyIa1W3ffF64YKc7fuBBa3wE/JX6DfoL/XTN/NgRzht0KNys=;xzxjBMvBJS/aO1jClhWpsw=="
+secured: "1jgCf6wSeFwLv5ufq8yHT9GBR4uUIdvkjwDA+vmbeGWjl61ipfUd8T25cWPpkiVA9CI0NRKHUfgb6v0gE+KlmPUZM3hsGA9U9QUbSdiYMaLrXxiTCc3t0t+ujkiFC0AVcaGDEBWbaNQXqTHV4arQye0cY+ICE7MAdfVrpZGySUHLg37deV7vRhwXVTfpHYXDjWaIsNme890P6AL6okKt4T0B7H2MqJircX9mUWVTz78UAiS47OuCp9dVM3t7OBLlbW+5fy3dHPpDtZN5CKyASOWtAof/ECxQ/fAAPCuD3iDPfZoDlg+bXvhHSpQwLauOERnzsy/Oy1iasE8N2lSebdISQgnw5f3UH593PUEr7MgaaXYGZlIiQNWAg8nihswwdkoEfHLWBaARkPsaL8tr9ROoSmRN9vDOPAaBJu44en4DCBR2dcsl5+ifB5bHRuJCk9Nrbl6fkaoXNOzi/rSHGedQP9pfM+tuUrkXSJIBXDrDPagH3PdnmIIkXM3WSUAuN21ApYdAZ4aFHXP+NTuVHA==;kgoED+sPoC3MdhhVaIwztA=="
 ---
 

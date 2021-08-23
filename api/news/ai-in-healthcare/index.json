@@ -10,7 +10,7 @@
       "originalUrl": "https://www.gizbot.com/internet/features/artificial-intelligence-changing-face-of-tech-in-sports-076273.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -42,59 +42,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-ibm-unveils-on-chip-accelerated-artificial-intelligence-processor.md",
-      "title": "IBM Unveils On-Chip Accelerated Artificial Intelligence Processor",
-      "excerpt": "At the annual Hot Chips conference, IBM (NYSE: IBM) today unveiled details of the upcoming new IBM Telum Processor, designed to bring deep learning inference to enterprise workloads to help address fraud in real-time.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ibm-unveils-on-chip-accelerated-artificial-intelligence-processor-1030750970",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ibm-unveils-on-chip-accelerated-artificial-intelligence-processor-1030750970",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1599074/IBM_Z_CHIP_03.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-22T21:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Hardware"
       ]
     },
     {
@@ -149,6 +96,50 @@
         "AI",
         "AI in Autos",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-08-23-5-dutch-ai-companies-transforming-finance-healthcare-and-agriculture.md",
+      "title": "5 Dutch AI companies transforming finance, healthcare and agriculture",
+      "excerpt": "AI in the Netherlands is booming: A Techleap.nl 2021 report found that 10% of all registered AI start-ups worldwide are based in the Netherlands. The nation has the highest density of AI start-ups per capita in Europe. In addtion, there are a number of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3630648/5-dutch-ai-companies-transforming-finance-healthcare-and-agriculture.html",
+      "originalUrl": "https://www.computerworld.com/article/3630648/5-dutch-ai-companies-transforming-finance-healthcare-and-agriculture.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2021/06/artificial_intelligence_automation_digital_brain_thinkstock_875595818-100749926-orig-100893865-large.jpg?auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-22T17:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Finance"
       ]
     },
     {

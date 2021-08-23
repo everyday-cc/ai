@@ -32,21 +32,16 @@ images:
 
 related:
   - title: "Synopsys design software uses AI to make chips more power efficient"
-    excerpt: "Major chip firms like Intel Corp or Nvidia Corp can spend two years and hundreds of millions of dollars to perfect their designs."
-    publishedDateTime: 2021-08-23T11:56:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/synopsys-design-software-uses-ai-to-make-chips-more-power-efficient/85561655"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/synopsys-design-software-uses-ai-to-make-chips-more-power-efficient/85561655"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/synopsys-design-software-uses-ai-to-make-chips-more-power-efficient/85561655"
+    excerpt: "Synopsys Inc SNPS.O said on Monday one of its customers used artificial intelligence software to get a 26% gain in the power efficiency of a computer chip, a leap that usually has to wait for a new generation of chip manufacturing technology."
+    publishedDateTime: 2021-08-23T10:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/synopsys-design-software-uses-ai-to-make-chips-more-power-efficient-2021-08-23"
+    ampWebUrl: "https://www.nasdaq.com/articles/synopsys-design-software-uses-ai-to-make-chips-more-power-efficient-2021-08-23?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/synopsys-design-software-uses-ai-to-make-chips-more-power-efficient-2021-08-23?amp"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-85561655,imgsize-12122,width-800,height-434,overlay-etcio/synopsys-design-software-uses-ai-to-make-chips-more-power-efficient.jpg"
-        width: 800
-        height: 434
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 84
 
 secured: "zW+MNq1v2X1VuvynRYu3jBVNVBxr60HSnadH/pwTC2ct8RjkI1CCj/81De6IJXV5JqKq2cK8609y7hdHjpNKUTDH6JetGiJhlpO6G0pzlprbwpji13eoL0+Aa2nA2MHGQeGlbokkgPqo8wa1qL5QYh4xmFjFfSKfxUzhhTqGiypG2OKk0/dYwWaopcv9G5Ey2Cektyo20rXQE5PhUNfl0kBC45dmWoRMDGCU0r3jttuPCoVqGtGsa7TAjJQ/UOIMhtNwBBC6bJNRwnY/coQtvPIR9krL/3PzVmXnG4faZhPNC7pMa15O5C+8MKEpSYsZ78h4iKXRMZpb8A4CiIyQLvwECtMF3B/Ee/SQ2lYP/3/HFcrRFbaSDd+IEpJgXW82z5qPG9ChHH2ycQQI1Vq6tdXSirhamZC0rtBUczPPW9gS9ASirryjVf/R/z4j38vMwWyBIFk5gT6uAnwxyiRB7RG0ZItbe8FRlv6dIjdRbkkuYN+inmCWP2EnPI4uCnJB2wUPRkjwuGyrP/s2BFmsCQ==;wcXKOU1R0csH+lUkX2laQg=="
 ---

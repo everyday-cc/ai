@@ -9,7 +9,7 @@ ampWebUrl: "https://www.governing.com/work/could-ai-help-remove-bias-from-govern
 cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/work/could-ai-help-remove-bias-from-government-hiring-processes?_amp=true"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 840
     height: 438
     isCached: true
+
+related:
+  - title: "How Can Artificial Intelligence Reinforce Existing Human Biases?"
+    excerpt: "By definition, artificial intelligence (AI) is meant to replicate the working mechanism of the human brain for optimizing organizational activities."
+    publishedDateTime: 2021-08-23T16:37:00Z
+    webUrl: "https://www.bbntimes.com/technology/how-can-artificial-intelligence-reinforce-existing-human-biases"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 41
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/How_Can_Artificial_Intelligence_Reinforce_Existing_Human_Biases.jpg"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "UR8MnAX8uVOWfk1jbE2R7pq1F9OPI7O9AVN2kHg5UfrjrQ3CMQ2ckK3TLHmg3RrHgObiC+3pwTdcRMQuS9V32Dm7O7aynyxFzaVRb2kxIBU0WlHmzhqsun2Lz6cBZnQ2PxlNKq6E63aST/1LrkCvYlG/e+lgYbQJlSod/6Y0qNnnxSd09phLjC0dY/JXkQZ/+PqCtZD3LNkUFpSXYLtVicRxyGQ/GUxeGm1b6WJm3JwgZPqHj120vRlASiI1VMMJGwBY0FmClQmUkwdxThSFK83oRE3HAqxqmpZZG5Hx5zrtV25ZMPOjgQs6rjdWd4Mz2m1Lsa9yoHe0A5xXyos0lBV53M/YWoUNjcvgyEqUqSw=;jXbo9fiXSU4bJpEHFKlbSw=="
 ---

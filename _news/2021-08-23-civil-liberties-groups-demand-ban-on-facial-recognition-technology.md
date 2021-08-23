@@ -2,26 +2,26 @@
 category: news
 title: "Civil liberties groups demand ban on facial recognition technology"
 excerpt: "A group of civil society bodies has called on the Government to ban facial recognition cameras, while accusing police and the Home Office of bypassing Parliament over guidance for the use of the technology."
-publishedDateTime: 2021-08-23T05:30:00Z
-originalUrl: "https://www.expressandstar.com/news/uk-news/2021/08/23/civil-liberties-groups-demand-ban-on-facial-recognition-technology/"
-webUrl: "https://www.expressandstar.com/news/uk-news/2021/08/23/civil-liberties-groups-demand-ban-on-facial-recognition-technology/"
+publishedDateTime: 2021-08-23T16:45:00Z
+originalUrl: "https://www.irishnews.com/magazine/technology/2021/08/23/news/civil-liberties-groups-demand-ban-on-facial-recognition-technology-2425128/"
+webUrl: "https://www.irishnews.com/magazine/technology/2021/08/23/news/civil-liberties-groups-demand-ban-on-facial-recognition-technology-2425128/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Express & Star
-  domain: expressandstar.com
+  name: The Irish News
+  domain: irishnews.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.expressandstar.com/resizer/xJDC2R7UeVoGkYGoAEtY8Fw9bYs=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/ZBXSOCFXBBCNXH76KLV5XKIG7I.jpg"
-    width: 1200
-    height: 900
+  - url: "https://image.assets.pressassociation.io/v2/image/production/d6e4131765fe04e05c81ba7daa1efc67Y29udGVudHNlYXJjaGFwaSwxNjI5NzgyNjgx/2.61056894.jpg?w=640"
+    width: 640
+    height: 434
     isCached: true
 
 related:
@@ -103,6 +103,20 @@ related:
         width: 750
         height: 350
         isCached: true
+  - title: "Civil liberties groups demand total ban on facial recognition technology"
+    excerpt: "Amnesty International, Liberty and Privacy International join more than 30 organisations warning that the police, Home Office, and councils are misusing the intrusive technology"
+    publishedDateTime: 2021-08-23T17:08:00Z
+    webUrl: "https://morningstaronline.co.uk/article/b/civil-liberties-groups-demand-total-ban-on-facial-recognition-technology"
+    type: article
+    provider:
+      name: Morning Star
+      domain: morningstaronline.co.uk
+    quality: 40
+    images:
+      - url: "https://morningstaronline.co.uk/sites/default/files/face%20police.jpg"
+        width: 1185
+        height: 585
+        isCached: true
   - title: "Civil liberties groups call for facial recognition ban"
     excerpt: "A coalition of groups advocating civil liberties has demanded an outright ban on the use of live facial recognition technology (LFRT), while accusing the Home Office and law enforcement of bypassing Parliament over guidance for its use."
     publishedDateTime: 2021-08-23T12:32:00Z
@@ -162,6 +176,6 @@ related:
         height: 1066
         isCached: true
 
-secured: "aaoUs8qm4XunmSZLW/LrPIQwqRQY4tO8nH0gczi2pgwYxBU1naqKGJB6xqbM3ILpN09s85D9lKKBsj+9Frae2EQcrDxtNVF5zkNpoYtcEYSBCIjmeVlnL6hhmlQ36N3hMdy/GSqxQFkmLvYEtkYCakcGpU5ViWm9nR2iZzjqZ2eSvBv83DnB4pfNn5eYM9FUCZt/01W/qeNZhhPRXO/6xUIJqHS6gGwlS16y+cY8nqAxTW1RV+mboDivQGpH29Sk9UNO7sv+pNMYlUFnqkPGrIE0OqP5IHLLw8MktbGNk9pnDIrCAs3S3wS0HzELkllIlwrb/05Yz/cfPNxuJck3BwB23HAqILXwnkZRuqLSU7T8wsNAvC8Q1MDhp7AybVJfAIvlmqLAAO1mKnkm+ZN09plWfBGVCz3xAp7Y/OnAnjOUc+45eeWK0O0zVRaWNNpbPZ24ju/KImodIlKKz3SM4xTMu71BmOfjM2MWOddZZOxpCY4xOe489T1J4wApsNhVL3Ccl6JhKeBdVfF0/blVpg==;aAYVi9I9+1Gxzpv+r4o/0A=="
+secured: "Zg/WYVSFPSRXWq2jueQwK0/y4trr41TtE1DV6RorA7oS3KANd5PExNSzYTtqsUtvb9vCRc6/m9PhzHucY+hwCU2/gCKoQDtv3aXwVY9cdT8uQZLNPdi/KABqfrSWfOQE98DmWcHfuzKEpsIBFFFF8Mgd+Zdz+f+AshxtngQFxpe8HfqV6/Y4pnR/D2tcHP0G2HzSfuaDP9n+axf+18dNar172AnYgTPe2k5EX36R5KnZlSFkYzZNkE2tgzlypUwucJJE7mWi6Xf6My73P1lTRiW885ChXkVrmIAl+Jrc21w2o8bwLjX8T2gOOEqeDi5IDNnJZqBvlb7H81yYLB1Fp5EtPf9KpylsYGzj/eWa79U=;oQaMTAZ6w7P44/QkdSF3Rw=="
 ---
 

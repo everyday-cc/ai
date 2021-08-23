@@ -664,6 +664,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Massive AI Project Will Supercharge Tesla Stock"
+    excerpt: "Tesla (TSLA) is on the verge of a game-changing breakthrough in machine learning yet the only thing people are talking about is its plan for a stupid humanoid robot. Executives at the electric vehicle company on Thursday held an artificial intelligence day."
+    publishedDateTime: 2021-08-23T17:16:00Z
+    webUrl: "https://www.thestreet.com/tech/news/teslajdm082321"
+    ampWebUrl: "https://www.thestreet.com/tech/.amp/news/teslajdm082321"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/tech/.amp/news/teslajdm082321"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 76
+    images:
+      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTgzMzU1MDk2MTg3MjgyODUw/tesla-fsd-beta-elon-musk-1280x720.jpg"
+        width: 620
+        height: 349
+        isCached: true
   - title: "Elon Musk unveils Tesla robot that will do the work humans don't want to"
     excerpt: "Tesla revealed details about some of the artificial intelligence upgrades being deployed to power their vehicles’ self-driving system. To close out the event, Musk revealed the company is developing a robot that runs on the same artificial intelligence technology as its fleet of autonomous vehicles."
     publishedDateTime: 2021-08-20T17:40:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://indiaeducationdiary.in/rwth-the-future-with-artificial-intel
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/rwth-the-future-with-artificial-intelligence/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: India Education Diary
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI is Pivotal the Future of the Autonomous Shipping"
+    excerpt: "The shipping industry is responsible for around 90% of the world’s trade distribution, carrying the likes of machinery, motors,"
+    publishedDateTime: 2021-08-23T17:27:00Z
+    webUrl: "https://www.marinelink.com/news/ai-pivotal-future-autonomous-shipping-490075"
+    ampWebUrl: "https://www.marinelink.com/amp/news/ai-pivotal-future-autonomous-shipping-490075"
+    cdnAmpWebUrl: "https://www-marinelink-com.cdn.ampproject.org/c/s/www.marinelink.com/amp/news/ai-pivotal-future-autonomous-shipping-490075"
+    type: article
+    provider:
+      name: Marine Link
+      domain: marinelink.com
+    quality: 57
+    images:
+      - url: "https://images.marinelink.com/images/maritime/w800h600pad/quardia-adobe-stock-125369.jpeg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "The future of AI takes shape"
     excerpt: "OpenAI has also shown how AI can help programmers build the software of the future, releasing Codex, a machine learning tool that translates your text, for what you want your program to do, into code."
     publishedDateTime: 2021-08-20T16:06:00Z

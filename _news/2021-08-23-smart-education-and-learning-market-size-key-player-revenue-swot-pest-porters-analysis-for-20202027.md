@@ -168,6 +168,17 @@ related:
         width: 750
         height: 350
         isCached: true
+  - title: "China AI in Healthcare Market Emerging Trend, Top Companies, Industry Demand and Regional Analysis by 2025"
+    excerpt: "China s AI in healthcare market is estimated to grow significantly at a CAGR of 52 8 during the forecast period China s market has both medium and long term potential due to its large market size aging population fluctuating"
+    publishedDateTime: 2021-08-23T07:24:00Z
+    webUrl: "https://www.openpr.com/news/2363109/china-ai-in-healthcare-market-emerging-trend-top-companies"
+    ampWebUrl: "https://www.openpr.com/amp/2363109/china-ai-in-healthcare-market-emerging-trend-top-companies"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2363109/china-ai-in-healthcare-market-emerging-trend-top-companies"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 36
   - title: "Artificial Intelligence Plus Internet of Things (AIOT) Market Analysis by Trends, Technological Advancement, Forecast till 2027 & COVID-19 Effect"
     excerpt: "This Artificial Intelligence Plus Internet of Things AIOT market analysis looks at the global market s current state and projected expansion from 2021 to 2027 It includes a summary of marketing research methodology as well as commercial potential In this"
     publishedDateTime: 2021-08-19T10:11:00Z
@@ -294,6 +305,6 @@ related:
       domain: openpr.com
     quality: 5
 
-secured: "1bdCRzqX+F5Lz9ys+tLK2Bt6L+Yco2QigSzuTIhcjsltuuedi71yQclTlLT6A6BocJ/TRX57NLBr3nkpWnN7yielM0JpRE9gbCGtqLPKeXozkcXjN2Wffoq4si8wM/AWBNFEFGuMWTVO8N3UJTH4oPeDv+zM0Oy3A/xgtWZp8ICHoJfA+PavVqxD1skS1urGHsJ9TT6UbZaGLwLRnvlVff9PS7q5JNjVgcfFabDgU67BFX9E/TuQjKQFFpWMd2JQUPvfERpdm9PgTkDiKorCd6zWG8ZMaLjIpcqMU7DwpBQ7P5lzqx3tVc7pz7r6Xcu+rShX6/nh7DUfzwzhNM3Ch4hzy7r2/V3DwdX7Xfnb6nA=;Kb4OsuMMtAeA/6TRpdEbbQ=="
+secured: "QvCmvx7s934L4YL8HCDeTXt+MebuteFqE+2b2ACi0DV75XEbMBuSyX3abpY0hOJBRor+MYxl/ltNypyGN7bgM54HwojVMAQ9veFthlFoB2tSaUu8739fXVqJ9WphZwLbd1mA2ZzWHtZQpnoVM49xdCfOROQaSW9OHyhiQ9Z/8WkacRc0TlHjnjVUWeUPQbTJiFUM7rN3qQBTDNS/1Vj+gIWZ+9ARY6+EjZC46yVM6NAW6NRaLE/6GkMHsTtHxST4exW+TxQwEJWVnFg9qgZsxJxtGyxcAvUXhUw/6vDCJFGQSr0HXFeFGeF7vXKP2iOVSu1qqDfbwnWIKpO30vmtmwadptqccEuSmMiFJn0TJK65Pub97YtrQtyn+pF8/9/elQXvLtAGlcTaKRjH+Vn0PyEk1bQfqRE2NhUjtBSajsjt6ok2/gVFHNVfnDPyEAZ5sNqgBPDbOepLYDe/CzT+/uv6Q8mYlYQL8kuxXLWovV+hnt4y5jQLoV/bC8T4DewgrnOTMyHOKYa9ft7/huyrXA==;LM+bLXS9rMm6eMQ+qj583w=="
 ---
 

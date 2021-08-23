@@ -670,6 +670,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Massive AI Project Will Supercharge Tesla Stock"
+    excerpt: "Tesla (TSLA) is on the verge of a game-changing breakthrough in machine learning yet the only thing people are talking about is its plan for a stupid humanoid robot. Executives at the electric vehicle company on Thursday held an artificial intelligence day."
+    publishedDateTime: 2021-08-23T17:16:00Z
+    webUrl: "https://www.thestreet.com/tech/news/teslajdm082321"
+    ampWebUrl: "https://www.thestreet.com/tech/.amp/news/teslajdm082321"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/tech/.amp/news/teslajdm082321"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 76
+    images:
+      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTgzMzU1MDk2MTg3MjgyODUw/tesla-fsd-beta-elon-musk-1280x720.jpg"
+        width: 620
+        height: 349
+        isCached: true
   - title: "Get Ready To Meet Tesla’s Humanoid Bot Powered By Vehicle AI"
     excerpt: "Tesla’s AI Day event included a surprise announcement about an upcoming humanoid bot powered by the car’s autonomous fleet technology."
     publishedDateTime: 2021-08-20T16:31:00Z

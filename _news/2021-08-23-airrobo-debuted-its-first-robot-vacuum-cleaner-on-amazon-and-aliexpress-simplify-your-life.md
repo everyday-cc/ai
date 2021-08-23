@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/airrobo-debuted-it
 webUrl: "https://markets.businessinsider.com/news/stocks/airrobo-debuted-its-first-robot-vacuum-cleaner-on-amazon-and-aliexpress-simplify-your-life-1030751335"
 type: article
 quality: 73
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 400
     height: 225
     isCached: true
-
-related:
-  - title: "AIRROBO Debuted its First Robot Vacuum Cleaner on Amazon and AliExpress - Simplify Your Life"
-    excerpt: "AIRROBO, the smart home appliance brand, debuted its first robot vacuum cleaner on Amazon and AliExpress in August. The new smart appliance, AIRROBO P10 is now available online in Japan, Canada and Russia."
-    publishedDateTime: 2021-08-19T00:00:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-airrobo-debuted-its-first-robot-vacuum-cleaner-amazon-/2021/08/19/9434687.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 43
-    images:
-      - url: "https://mma.prnewswire.com/media/1595798/AIRROBO1.jpg"
-        width: 400
-        height: 225
-        isCached: true
 
 secured: "CgC8aDRh3gLDFXfbfiN/4pXwoIlKioRCRn5Np1QH5xZkEL5JUZQij9caSth9cfDMc2uVzpiwG67Qfuy7NlTwZ0qS9Tg0BDz7RTxTF4pyox+dG5Gh8s03GTkfjGsRQp6XYdwChu2LGJfRWDyKw761sjdtg8rqqBpY8tWeviFhc2few24EKlqxy98l5NaLL6Xe5s0DbF852b7UTrwoh3LabWQKsG3kz/fWdNpboNz+JTKEd7fNQiDTnrRVUGoiYFxONAgmHcRUUeSIrbBHxHZx9aa+SrnUdGiBLPJXG29TLk/i2tJTEfyHFcgVOFBcHFfnnobWEzOw9VxQI/l5DjQXeuZO7R4UznwCmoq0A9HoOb2BvwpsoO+lmjndzw7S1ZK7cQR+lPM5wLdwBh881KunHPf5WuZexYfKffB0y0zUIPx6PDVsHWXHXt3hvrH68CaMF8CSuz5StK51AW8zRCNtoaIVK7RiKVWbj0HqTp82AzwPmQtJv8iba8H9OjPl78wkLAD48hzCiXCkEf/aymRH8Q==;kHQ/9kTc8IBDdZyjBPV5wQ=="
 ---

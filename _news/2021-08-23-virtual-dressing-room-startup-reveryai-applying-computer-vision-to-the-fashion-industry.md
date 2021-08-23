@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/08/23/virtual-dressing-room-startup-reve
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/23/virtual-dressing-room-startup-revery-ai-applying-computer-vision-to-the-fashion-industry/amp/"
 type: article
 quality: 95
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-08/89af2c20-01e5-11ec-be3c-7957cb2328c7"
         width: 5120
         height: 2880
+        isCached: true
+  - title: "How AI is Revolutionizing the Freight Industry"
+    excerpt: "In this contributed article, Oleg Yanchyk, CIO of Sleek Technologies, discusses how AI is shaking up the logistics space and what could lay on the horizon. From making business intelligence decisions more agile to ensuring data is clean and ready to be analyzed,"
+    publishedDateTime: 2021-08-20T13:00:00Z
+    webUrl: "https://insidebigdata.com/2021/08/20/how-ai-is-revolutionizing-the-freight-industry/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 37
+    images:
+      - url: "https://insidebigdata.com/wp-content/uploads/2018/09/artificial-intelligence-3382507_640.jpg"
+        width: 640
+        height: 426
         isCached: true
 
 secured: "wukUX1N/0gm4u5jagHSqESg/cKUoZ0ZfuaXPFvSpS80pgE2Cqx6TpdcDaAURXdr+2f9jxjljpNsl1YQlDmAOsw6c65l73TNbPSSprrO7phdXkDmidBrAWCH6cuxa/T8Bn5ZAzq63RAGg1DpPuRS1mCcx/eC7aUMWF85FA11sEKqlulKJyLf1wgrOFAQYSBZ8q8viwEwg6T8Sqn3gKdDaio4o8Lc8autbM8onkyXyOxakJbc7ahwPSmYC90dqNyo13eoApaWGopPZxQCYQyqOJImbus1LZm9+d8lGGUPHWvpN5qpapBiZYhyil3SeN4snH3RJZn8lUz+AIKQAb0j3BNKB0PLJjRbbTAy8S/uBp68TJ7y/BRzt9dc06zKHGEFx5AWbetn8s0V94mKvax8SYiZ8YWbf99toYWNVIa5lDoavpNfKExZ5wneWTY/IXw8SZ3/+6Z6iBNKDM4Z6q3ChXF6VnuPBTq3f/5aLjHFk+WVdTDWmCKM/aqOYe5YYqWqfXY1hTwYt3eM+inTvbf/pEg==;3EoqCvtaM/Y+xggLIAAPaA=="

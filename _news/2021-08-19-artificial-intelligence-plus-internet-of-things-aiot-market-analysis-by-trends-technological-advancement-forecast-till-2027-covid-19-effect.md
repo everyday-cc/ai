@@ -182,6 +182,17 @@ related:
         width: 750
         height: 350
         isCached: true
+  - title: "China AI in Healthcare Market Emerging Trend, Top Companies, Industry Demand and Regional Analysis by 2025"
+    excerpt: "China s AI in healthcare market is estimated to grow significantly at a CAGR of 52 8 during the forecast period China s market has both medium and long term potential due to its large market size aging population fluctuating"
+    publishedDateTime: 2021-08-23T07:24:00Z
+    webUrl: "https://www.openpr.com/news/2363109/china-ai-in-healthcare-market-emerging-trend-top-companies"
+    ampWebUrl: "https://www.openpr.com/amp/2363109/china-ai-in-healthcare-market-emerging-trend-top-companies"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2363109/china-ai-in-healthcare-market-emerging-trend-top-companies"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 36
   - title: "Far-field Speech Recognition Market Analysis and Upcoming Trend by 2027| Synaptics, Texas Instruments, Andrea Electronics"
     excerpt: "LOS ANGELES UNITED STATE The report on the global Far field Speech Recognition market is comprehensively prepared with main focus on the competitive landscape geographical growth segmentation and market dynamics including drivers restraints and opportunities It sheds light on key"
     publishedDateTime: 2021-08-22T13:22:00Z

@@ -1,30 +1,24 @@
 ---
 category: news
 title: "Synopsys design software uses AI to make chips more power efficient"
-excerpt: "Major chip firms like Intel Corp or Nvidia Corp can spend two years and hundreds of millions of dollars to perfect their designs."
-publishedDateTime: 2021-08-23T11:56:00Z
-originalUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/synopsys-design-software-uses-ai-to-make-chips-more-power-efficient/85561655"
-webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/synopsys-design-software-uses-ai-to-make-chips-more-power-efficient/85561655"
-ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/synopsys-design-software-uses-ai-to-make-chips-more-power-efficient/85561655"
-cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/synopsys-design-software-uses-ai-to-make-chips-more-power-efficient/85561655"
+excerpt: "Synopsys Inc SNPS.O said on Monday one of its customers used artificial intelligence software to get a 26% gain in the power efficiency of a computer chip, a leap that usually has to wait for a new generation of chip manufacturing technology."
+publishedDateTime: 2021-08-23T10:00:00Z
+originalUrl: "https://www.nasdaq.com/articles/synopsys-design-software-uses-ai-to-make-chips-more-power-efficient-2021-08-23"
+webUrl: "https://www.nasdaq.com/articles/synopsys-design-software-uses-ai-to-make-chips-more-power-efficient-2021-08-23"
+ampWebUrl: "https://www.nasdaq.com/articles/synopsys-design-software-uses-ai-to-make-chips-more-power-efficient-2021-08-23?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/synopsys-design-software-uses-ai-to-make-chips-more-power-efficient-2021-08-23?amp"
 type: article
-quality: 74
+quality: 84
 heat: -1
 published: false
 
 provider:
-  name: India Times
-  domain: indiatimes.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-85561655,imgsize-12122,width-800,height-434,overlay-etcio/synopsys-design-software-uses-ai-to-make-chips-more-power-efficient.jpg"
-    width: 800
-    height: 434
-    isCached: true
 
 related:
   - title: "Synopsys CEO: AI-designed chips will generate 1,000X performance in 10 years"
@@ -44,6 +38,6 @@ related:
         height: 662
         isCached: true
 
-secured: "SZhpmREFmw3am7sCICLw2xVv/9WkwdRRTwJpqcUvxYddUtVnP1ZxbYh/6eE86ldSofmrZZD1ki1kufAFxUm3Fr3t7YkmKe5ZTK70+IBuBDTy4UYCzsrji/wYfD4fXlzPIWjHAS93LX2cVioxh1gI1Baizs0G0Ny4CiHjygufhqtUnLDPS3cNQzgQP23RUKKxLMSX3UMqlqyR1azrsljShlghqUZSe00/FfjMZdJp/SCxcHqxTvkdSx5sY07xdVjKYUFnwxIW65II9c/L1O8myMY55bEe6p8GBi6675dYvt/m6dUBbQmiCbqZCKGKUMsv5tvzYyLPyf6aqwqbDDusXWJiIQFE6UFdLvesdD36iDI=;W0A/FdMO6HJhQ1l7w0/Wpg=="
+secured: "n46BZND6XWmFn1rpCErLpqVV2f6UXyOgDANg0dSU+4y8GeKG4jRYEZIl35wq3bwyUXafsVQEWqLEMgB3ZX20CrpjXf7JYw6NX5fDPaZ55JQhPqshlXHYWxS9Dvq0JnRAqm4XtQ++tNBHs4EXJub6Re934Ty03BIoGthvbF996SZdSYJeoO+FvHl/++2UHLrdyAf74yyQ/c2MbW/m6aXhImHLNRGrFxwP1rPSW/kRlNYmoDxxGm++U6ghHhpga6nrVoMXdXDMJ5R0hLwPLeKgq410pWImp2LCQ2ftgMTEEHZeqBwm4HUNFyiO6zG5jpNQZUfd5oynYQewE2eGahiVR7GLIYNqrE066c9MK6spFMk=;QCU5pOiExpiMXUnk/zjohg=="
 ---
 
