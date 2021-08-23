@@ -41,6 +41,22 @@ related:
         width: 744
         height: 419
         isCached: true
+  - title: "Baidu reveals its maximally autonomous ‘robocar’"
+    excerpt: "Baidu, the Chinese technology giant behind the country’s search engine, has just announced a level 5 SAE autonomous car thanks to a new chip. Behind this potential success is an ambitious open source platform called Apollo."
+    publishedDateTime: 2021-08-23T00:58:00Z
+    webUrl: "https://www.malaymail.com/news/drive/2021/08/23/baidu-reveals-its-maximally-autonomous-robocar/1999707"
+    ampWebUrl: "https://www.malaymail.com/amp/news/drive/2021/08/23/baidu-reveals-its-maximally-autonomous-robocar/1999707"
+    cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/drive/2021/08/23/baidu-reveals-its-maximally-autonomous-robocar/1999707"
+    type: article
+    provider:
+      name: malaymail
+      domain: malaymail.com
+    quality: 59
+    images:
+      - url: "https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-08/2308_baidu_-seo.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Baidu unveils 1st fully autonomous robocar prototype"
     excerpt: "Chinese internet search giant Baidu Inc. unveiled on Wednesday its first L5 self-driving robocar prototype with no steering wheel, and an upgraded autonomous driving service platform named Luobo Kuaipao,"
     publishedDateTime: 2021-08-18T16:34:00Z
@@ -54,20 +70,6 @@ related:
       - url: "https://news.cgtn.com/news/2021-08-18/Baidu-unveils-1st-fully-autonomous-robocar-prototype-12PNjBNq1JS/img/cfd10806cf6c465d934a9f01b2e3e114/cfd10806cf6c465d934a9f01b2e3e114-1920.jpeg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Baidu unveils 1st fully autonomous robocar"
-    excerpt: "Chinese internet search giant Baidu Inc unveiled on Wednesday its first L5 self-driving robocar with no steering wheel, and an upgraded autonomous driving service platform named Luobo Kuaipao, in a bid to speed up the commercialization of autonomous driving technology."
-    publishedDateTime: 2021-08-18T07:48:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202108/18/WS611cbb6aa310efa1bd6699a8.html"
-    type: article
-    provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 39
-    images:
-      - url: "http://img2.chinadaily.com.cn/images/202108/18/611cbb6aa310efa1e3b6af68.jpeg"
-        width: 685
-        height: 456
         isCached: true
   - title: "Baidu claims it has created Level 5 robocar"
     excerpt: "BEIJING: Baidu, the Chinese technology giant behind the country's search engine, has just announced a level 5 SAE autonomous car thanks to a new chip. Behind this potential success is an ambitious open source platform called Apollo."

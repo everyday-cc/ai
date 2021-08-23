@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2FJ0GK"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2FJ0GK"
 type: article
 quality: 104
-heat: 234
+heat: 224
 published: true
 
 provider:
@@ -118,20 +118,6 @@ related:
       - url: "https://images.hgmsites.net/lrg/baidu-self-driving-car-concept_100803533_l.jpg"
         width: 1024
         height: 682
-        isCached: true
-  - title: "China’s Baidu says 2nd-gen Kunlun AI chips enter mass production"
-    excerpt: "Chinese tech giant Baidu said on Wednesday it had begun mass-producing second-generation Kunlun artificial intelligence (AI) chips, as it races to become a key player in the chip industry which Beijing is trying to strengthen."
-    publishedDateTime: 2021-08-18T08:46:00Z
-    webUrl: "https://www.dealstreetasia.com/stories/baidu-ai-chips-256357/"
-    type: article
-    provider:
-      name: dealstreetasia
-      domain: dealstreetasia.com
-    quality: 54
-    images:
-      - url: "https://dealstreetwebsite.s3.amazonaws.com/uploads/2018/04/baidu-1.jpg"
-        width: 976
-        height: 551
         isCached: true
   - title: "Baidu says 2nd-gen Kunlun AI chips enter mass production"
     excerpt: "BEIJING, Aug 18 (Reuters) – Chinese tech giant Baidu said on Wednesday it had begun mass-producing second-generation Kunlun artificial intelligence (AI) chips, as it races to become a key player in the chip industry which Beijing is trying to strengthen."

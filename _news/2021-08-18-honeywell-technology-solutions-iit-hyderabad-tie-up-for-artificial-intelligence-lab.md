@@ -58,22 +58,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "IIT Hyderabad and Honeywell Enter into Agreement to Establish Artificial Intelligence Lab at the Institute"
-    excerpt: "The Artificial Intelligence (AI) lab at IIT Hyderabad was inaugurated by Dharmendra Pradhan, minister for education, skill development and entrepreneurship"
-    publishedDateTime: 2021-08-18T08:25:00Z
-    webUrl: "https://www.dqindia.com/iit-hyderabad-honeywell-enter-agreement-establish-artificial-intelligence-lab-institute/"
-    ampWebUrl: "https://www.dqindia.com/iit-hyderabad-honeywell-enter-agreement-establish-artificial-intelligence-lab-institute/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-hyderabad-honeywell-enter-agreement-establish-artificial-intelligence-lab-institute/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 39
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/08/HONEYWELL-ESTABLISHES-ARTIFICIAL-INTELLIGENCE-AI-RESEARCH-CENTER-AT-IIT-HYDERABAD-INDIA-2.jpeg"
-        width: 850
-        height: 400
-        isCached: true
   - title: "Dharmendra Pradhan inaugurates Centre for Research & Innovation in Artificial Intelligence set up at IIT-Hyderabad"
     excerpt: "Union Education Minister Dharmendra Pradhan has virtually inaugurated the Centre for Research and Innovation in Artificial Intelligence set up at the Indian Institute of Technology-Hyderabad (IIT-H) on Wednesday morning."
     publishedDateTime: 2021-08-18T14:07:00Z

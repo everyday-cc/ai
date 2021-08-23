@@ -92,20 +92,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Global Healthcare Machine Vision System Market (2021 to 2028) - by Product Type, Type, and Application - ResearchAndMarkets.com"
-    excerpt: "The “Global Healthcare Machine Vision System Market by Product Type, Type, and Application: Opportunity Analysis and Industry Forecast, 2021-2028” report has been added to ResearchAndMarkets.com’s offering."
-    publishedDateTime: 2021-08-18T08:56:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-cb70dfea047c43779c03e2fd1c672af2"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 11
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "RNSo7M/K1+q7pDIdLA04lnRGw3k13ElDRiX1lvGknYT0K5wxnz8EsgIHAaS2z3Hdd0AohvoVgilUp0cswJ3XMWu46xw76lvPz9cWPXbI5ASBycv6J9GBd0LEs0UJcZFY91pK+4laJKqncVk1Kp6p/HX3F9bDgcaSKXoB+R/qQX5pcPaZKVj5qxyOFMAnHp4/NILca9RbKnV36fOO9NYB6dGLb33K86thZ3ZKXPSSLbatM5z1qIdBIxBh67HWokrEmWjvv13YKB6kXX4RemoIpBKizrceYpCOl5zCAphPsrKKSTOqtn0YAF006rCNupUhpnKJzTOMyKj+Ivd5RT4rTzc0DeNWZC7VhyLV9Ps2GaqiNCCoMk4KK4IpE6xrgDzY2SdD19UM8P2qvF+GLL4LhFqGVxqlaZUN+roUczEU3V57y13t+Few6UvHJmMEU1TXbnD3f9w3m8LaEtuDOf+PL6oGB9oHBr/jNVlq2jOiimdz/ZePkTq5HcoiHdw+QhyeB7lgHDY/bok/N6O1o5TclQ==;CNMjHt6Vu/TLD/QR/NeXFg=="
 ---

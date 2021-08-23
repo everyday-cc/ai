@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Financial Data Platform Pngme Raises $15 Million"
-    excerpt: "Pngme, a San Francisco-based financial data platform, announced yesterday that it has secured $15 million in Series A funding."
-    publishedDateTime: 2021-08-18T08:34:00Z
-    webUrl: "https://www.financemagnates.com/fintech/news/financial-data-platform-pngme-raises-15-million/"
-    ampWebUrl: "https://www.financemagnates.com/fintech/news/financial-data-platform-pngme-raises-15-million/amp/"
-    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/news/financial-data-platform-pngme-raises-15-million/amp/"
-    type: article
-    provider:
-      name: Finance Magnates
-      domain: financemagnates.com
-    quality: 59
-    images:
-      - url: "https://www.financemagnates.com/wp-content/uploads/2021/05/StoneX-Logo.jpg"
-        width: 424
-        height: 211
-        isCached: true
   - title: "Africa: the fintech Pngme raises $15 million to continue its development on the African continent"
     excerpt: "PNGme, an African fintech that leverages AI to facilitate the collection and analysis of banking data PNGme is a US-based fintech with a presence in Nigeria as well as Kenya. It is developing a financial data infrastructure as well as a machine learning ..."
     publishedDateTime: 2021-08-19T09:34:00Z
@@ -54,6 +38,20 @@ related:
       - url: "https://www.actuia.com/wp-content/uploads/2021/08/PNGme.jpg"
         width: 800
         height: 400
+        isCached: true
+  - title: "African languages to get more bespoke scientific terms"
+    excerpt: "Many words common to science have never been written in African languages. Now, researchers from across Africa are changing that."
+    publishedDateTime: 2021-08-18T19:28:00Z
+    webUrl: "https://www.nature.com/articles/d41586-021-02218-x"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 24
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-02218-x/d41586-021-02218-x_19578984.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "8jyPMvnmPD4tPgM/GGWGey3de+ikSTu6Ng0U2QI+/s9aLH1V7tnRy/7YWlYO28+7nkepKplaYkS3h0htyW33ftunh5wvAbPV8D0bP+hB58g2eL3uptLt9fBO7N4ddmCtZlX3Vwr+fp0lJNxCwZCbhLO2OMGvsBpdLT/Tslu6GNwst+06VQE5eWfdcDvmCLyWkENQlckQq046pBXVQQDJB0TKrHhikpEIpAjDA7aN5y6/Y85o3Kv+Ekpli++vlfTdflDYzReKB9etJlvxkNXiF5sw5/tUPZ2tIzE+PDnoKHCcdLGiLLSEaBRC+0P85+q+LcnXuaOgWHHY4IEj3zJqHTY75kBCwUFmOROJSg68snwPzY4jaU74tPHSFsE1lpmbL9OZHK8Yb66s+yeCw/SNXW/rtIYbw6g7fupQJt5hO0fLjLXWfOJRTYA+YKEuEwXHi1/MhAiem9b4y7NITAX8kZ4QT4JnImb1/Mh6rVQ6ZgiWBaaZWznA2e0kv7WlHhKFVS6fB6w4K1bemjC/hBqgvg==;pGv6wbLaUPCLrYQxaAh1tw=="

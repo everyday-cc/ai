@@ -41,19 +41,21 @@ related:
         width: 744
         height: 419
         isCached: true
-  - title: "Baidu unveils 1st fully autonomous robocar"
-    excerpt: "Chinese internet search giant Baidu Inc unveiled on Wednesday its first L5 self-driving robocar with no steering wheel, and an upgraded autonomous driving service platform named Luobo Kuaipao, in a bid to speed up the commercialization of autonomous driving technology."
-    publishedDateTime: 2021-08-18T07:48:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202108/18/WS611cbb6aa310efa1bd6699a8.html"
+  - title: "Baidu reveals its maximally autonomous ‘robocar’"
+    excerpt: "Baidu, the Chinese technology giant behind the country’s search engine, has just announced a level 5 SAE autonomous car thanks to a new chip. Behind this potential success is an ambitious open source platform called Apollo."
+    publishedDateTime: 2021-08-23T00:58:00Z
+    webUrl: "https://www.malaymail.com/news/drive/2021/08/23/baidu-reveals-its-maximally-autonomous-robocar/1999707"
+    ampWebUrl: "https://www.malaymail.com/amp/news/drive/2021/08/23/baidu-reveals-its-maximally-autonomous-robocar/1999707"
+    cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/drive/2021/08/23/baidu-reveals-its-maximally-autonomous-robocar/1999707"
     type: article
     provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 39
+      name: malaymail
+      domain: malaymail.com
+    quality: 59
     images:
-      - url: "http://img2.chinadaily.com.cn/images/202108/18/611cbb6aa310efa1e3b6af68.jpeg"
-        width: 685
-        height: 456
+      - url: "https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-08/2308_baidu_-seo.jpeg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "AI-packed 'robocar' puts Baidu in the self-driving fast lane"
     excerpt: "\"We believe that cars of the future will be robocars,\" Baidu CEO and Chairman Robin Li told an online audience. The car's artificial intelligence capabilities allow it to drive as the user sees fit, according to the company."

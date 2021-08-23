@@ -7,7 +7,7 @@ originalUrl: "https://www.actuia.com/english/africa-the-fintech-pngme-raises-15-
 webUrl: "https://www.actuia.com/english/africa-the-fintech-pngme-raises-15-million-to-continue-its-development-on-the-african-continent/"
 type: article
 quality: 26
-heat: -1
+heat: 26
 published: false
 
 provider:
@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Financial Data Platform Pngme Raises $15 Million"
-    excerpt: "Pngme, a San Francisco-based financial data platform, announced yesterday that it has secured $15 million in Series A funding."
-    publishedDateTime: 2021-08-18T08:34:00Z
-    webUrl: "https://www.financemagnates.com/fintech/news/financial-data-platform-pngme-raises-15-million/"
-    ampWebUrl: "https://www.financemagnates.com/fintech/news/financial-data-platform-pngme-raises-15-million/amp/"
-    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/news/financial-data-platform-pngme-raises-15-million/amp/"
+  - title: "African languages to get more bespoke scientific terms"
+    excerpt: "Many words common to science have never been written in African languages. Now, researchers from across Africa are changing that."
+    publishedDateTime: 2021-08-18T19:28:00Z
+    webUrl: "https://www.nature.com/articles/d41586-021-02218-x"
     type: article
     provider:
-      name: Finance Magnates
-      domain: financemagnates.com
-    quality: 59
+      name: Nature
+      domain: nature.com
+    quality: 24
     images:
-      - url: "https://www.financemagnates.com/wp-content/uploads/2021/05/StoneX-Logo.jpg"
-        width: 424
-        height: 211
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-02218-x/d41586-021-02218-x_19578984.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Fintech startup Pngme raises $15m Series A funding to power the future of financial services in Africa"
     excerpt: "Fintech startup Pngme raised $15 million in Series A funding as the company sets out to grow its financial data infrastructure and machine learning-as-a-service platform for financial institutions and fintechs across sub-Saharan Africa."

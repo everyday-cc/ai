@@ -41,6 +41,17 @@ related:
         width: 390
         height: 220
         isCached: true
+  - title: "Deep Learning Market to Witness Huge Growth by 2027 - Amazon Web Services (AWS), Google, IBM, Intel, Micron Technology, Microsoft"
+    excerpt: "The Deep Learning Market report is a compilation of first hand information qualitative and quantitative assessment by industry analysts inputs from industry experts and industry participants across the value chain The report provides in depth analysis of parent market trends"
+    publishedDateTime: 2021-08-19T11:46:00Z
+    webUrl: "https://www.openpr.com/news/2360426/deep-learning-market-to-witness-huge-growth-by-2027-amazon-web"
+    ampWebUrl: "https://www.openpr.com/amp/2360426/deep-learning-market-to-witness-huge-growth-by-2027-amazon-web"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2360426/deep-learning-market-to-witness-huge-growth-by-2027-amazon-web"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 59
   - title: "Artificial Intelligence(AI) in Retail Market Latest Advancement and Business Outlook 2021 - 2027: IBM, Microsoft, Nvidia, Amazon Web Services"
     excerpt: "Market Insights Reports released a new study on 2021 2027 Artificial Intelligence AI in Retail Market with 100 data Tables Pie Chat Graphs Figures spread through Pages and easy to understand detailed analysis The Global Artificial Intelligence AI in Retail"
     publishedDateTime: 2021-08-18T18:39:00Z

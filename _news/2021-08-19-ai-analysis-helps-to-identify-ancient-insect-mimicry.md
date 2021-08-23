@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2021-08-ai-analysis-ancient-insect-mimicry.amp
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-08-ai-analysis-ancient-insect-mimicry.amp"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 500
     height: 364
     isCached: true
-
-related:
-  - title: "AI is here to augment us"
-    excerpt: "Amidst the hype around artificial intelligence (AI) and machine learning (ML), it is easy for businesses to fall into the trap that technology is a panacea to solve complex business problems. The truth is more nuanced,"
-    publishedDateTime: 2021-08-22T14:48:00Z
-    webUrl: "https://gadget.co.za/ai-is-here-to-augment-us/"
-    type: article
-    provider:
-      name: gadget.co.za
-      domain: gadget.co.za
-    quality: 37
-    images:
-      - url: "https://i2.wp.com/gadget.co.za/wp-content/uploads/2019/05/action-artificial-intelligence-device-595804-scaled.jpg?resize=1000%2C600&#038;ssl=1"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "A88tLlvHDV5+S+zsjLgPpwOyFpgpN6cjx/E4708JlrcU/rsCLmkLnFYxak0vZLvqA8HnC0zN/uxE53atTlWSUMrwm46xLPMm8uFxg+OxjcXBPOyEg913YXGjSy4j+dx948+epcgIqaC/lnngakQaMdRHztjetEClZl1H+vDE7YJ6IZ6+NEPQufVy7h2f9yZXNZ1GaBk6YEf48EXKJaNSiTyrssqy2GbqEiE8VnRBV5FwwsqYM3P2JJaomogFuGRDauOb1Jbf80TQMQlqn9coPZz0DmDgg5rrWWiSzCdjxsgVYPFnCpc1rbd8tQo0yjeiyKb8gd8J6RhCYWbwddKr9Jk2uZkTsY9c3IabFO2BwzER9ceCau2Wh6vxakZG3LQwErr2+5n8SG5Skfv55101Npwquq8dIRDNKRVYwGko5CEg8yGU0LB2lqR3WRP3Sml1fsppRIku6/A0k4QlGcryXiMdYaBFVGz2Ki1eDi0yZpSWAoYqp7SzlHl6EwlTB+pGWANoVhGU1J67S9hpKdljSw==;n8MmV5g9jAUMD2X3DkxYRA=="
 ---

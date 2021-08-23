@@ -102,20 +102,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Luminous Power Technologies To Digitally Transform its Supply Chain With Indian AI Start-up Mate Labs"
-    excerpt: "Luminous Power Technologies selected Mate Labs’ flagship product Mateverse to strengthen its supply chain against a potential Covid third wave. Mateverse is a full-scale AI and ML-based forecasting pl"
-    publishedDateTime: 2021-08-18T08:42:00Z
-    webUrl: "https://www.smechannels.com/luminous-power-technologies-to-digitally-transform-its-supply-chain-with-indian-ai-start-up-mate-labs/"
-    type: article
-    provider:
-      name: NETGEAR
-      domain: smechannels.com
-    quality: 22
-    images:
-      - url: "https://i2.wp.com/www.smechannels.com/wp-content/uploads/2021/08/Mate-Labs.png?fit=610%2C380&ssl=1"
-        width: 610
-        height: 380
-        isCached: true
 
 secured: "DkxNSPBo9nkG14l+YKX2B3BDxPIw++F+DFqRZMER7xl52igvxUbNgVLNhsQ1K/AMQAdRx71HcfqmeoHAddZW3bW5B3wDFsdnVQB/qBLfNbTXQjMI1PpkCJWe8vGiS19CsQaaTJsQiIUMYNT0n6WvLWizYBFrGjxMg93yVQCJ0y35WYMUgqVYNkaj334Nv02in/WrxIuRHY2X+BQ7AIcwhrHuYFGWf3xRowEIT2hHzruvgbqKOMjduLP+H6yTYmtRKxbKDJ2yi2mLU/cycfxyCWYAdXRiDkvlYDHHWyAawwRkHWLbp1B7Shq01TNckNJWtGO+K9RcvQvWcxchyfvEscMjQIY6OR1XxNjinyNLc7s=;MLaaOVB5dIt6mUjG9InWpg=="
 ---

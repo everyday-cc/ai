@@ -129,20 +129,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "China’s Baidu says 2nd-gen Kunlun AI chips enter mass production"
-    excerpt: "Chinese tech giant Baidu said on Wednesday it had begun mass-producing second-generation Kunlun artificial intelligence (AI) chips, as it races to become a key player in the chip industry which Beijing is trying to strengthen."
-    publishedDateTime: 2021-08-18T08:46:00Z
-    webUrl: "https://www.dealstreetasia.com/stories/baidu-ai-chips-256357/"
-    type: article
-    provider:
-      name: dealstreetasia
-      domain: dealstreetasia.com
-    quality: 54
-    images:
-      - url: "https://dealstreetwebsite.s3.amazonaws.com/uploads/2018/04/baidu-1.jpg"
-        width: 976
-        height: 551
-        isCached: true
   - title: "Baidu Brain 7.0 AI Platform Announced; Baidu Kunlun II AI Chips Now in Mass Production"
     excerpt: "The latest version of Baidu’s open AI platform, Baidu Brain 7.0, has been launched by the Chinese technology company, which also announced that its Kunlun"
     publishedDateTime: 2021-08-18T20:48:00Z

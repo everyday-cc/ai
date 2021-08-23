@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/technology/tech-news/ai-set-to-steer-indian
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/ai-set-to-steer-indian-cars-in-new-direction/amp-11629652014913.html"
 type: article
 quality: 57
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -102,21 +102,7 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Luminous Power Technologies To Digitally Transform its Supply Chain With Indian AI Start-up Mate Labs"
-    excerpt: "Luminous Power Technologies selected Mate Labs’ flagship product Mateverse to strengthen its supply chain against a potential Covid third wave. Mateverse is a full-scale AI and ML-based forecasting pl"
-    publishedDateTime: 2021-08-18T08:42:00Z
-    webUrl: "https://www.smechannels.com/luminous-power-technologies-to-digitally-transform-its-supply-chain-with-indian-ai-start-up-mate-labs/"
-    type: article
-    provider:
-      name: NETGEAR
-      domain: smechannels.com
-    quality: 22
-    images:
-      - url: "https://i2.wp.com/www.smechannels.com/wp-content/uploads/2021/08/Mate-Labs.png?fit=610%2C380&ssl=1"
-        width: 610
-        height: 380
-        isCached: true
 
-secured: "kv4mR4SF/wUFrh8iDWJwx9WSThUd8qNlimgSYwIpCEhHuwYC/8V6v1nQb+6WRQfhjoEGZ3g3lUysS2s0dkdcVL8T8nuRx2IrBzBANMfc7qzvcRooAo6WmrAGgfsVK1QcO5DSoDVe6+PGrt6ad3Q1dpBWW57ARNpLQTocDT/JuUMU5nmxGiRRpNOqCsRq9kqompbX7XJ7yTm/xRTj2jnCeSC7k7R+tGjqbPRhKbpe9nPYkBrAYl7UmkoJzCtghxnasbXHBnkTezNyc90TKz+u+Bq2OSRsCpGGvxdIU6Yr1DlOdlVUDHP1bj+zKXWEoNeDwuxXQdcmNnctcm1SRRV1k6S1UP044UXylKNPGaDr1Wo=;zvBpuAqkaSJRbqzQCvKV5Q=="
+secured: "KXlRd7hYRriYkYCSTDVHDqv1fDaFFRmqOQtLcBKb3ZhCYiVBI0iYTb5Mu18qa5AWv7BEOQ+bBcQzsj1JagW/nUCyk7HRdXa6HDbIgi+sxDoiY9GsKx5V5MGSUTFyzhhp0EHFedPqmkywqPnld6gDZYzTCajhpK6D2NbUgJH+yYGFXXKs1LT0KfzpXl3Cl3xNycowKgSQxhJJj9MqVtf9yrUbO3ZEdaWbtbjj51TyGOKl09ksh3bAd4hkA/BKG99d2mS3rIzFs6jSr9SCwQWaxHVHdZYGyhTvzMZ1OQj+ihh2dU8rE6Or1kok8T+tPnmds3koSevz3nARDbAdXRvJ1qyVhMmqA4vGhb+mif8zWVwzxW71W61hV+cwWKP0TQruK5mUlkEAdfRG1Vvc75tJiVY+0rnnk3dN+zi/2Z7zdSDriUYkljX2DtRrbY+SM2TvAT7IJjULKPIigjAagjad91V7X0olxzE6lIad/I/fC5kZxEbRw00IwhzMzzGleLL2n3C19oeo8FDFSk5lo/yNcg==;oXeDGf3qnbYS8SfUxdXYyQ=="
 ---
 

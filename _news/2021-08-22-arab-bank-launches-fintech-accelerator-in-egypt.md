@@ -25,60 +25,32 @@ images:
     isCached: true
 
 related:
-  - title: "FinTech SPAC Activity Heats Up"
-    excerpt: "In that filing, TG Venture said technologies under consideration for business combinations will include AI, blockchain and other advances. The filing notes, “FinTech is disruptive to our life every day. The power dynamics in the payments industry are ..."
-    publishedDateTime: 2021-08-20T15:15:00Z
-    webUrl: "https://www.pymnts.com/news/ipo/2021/fintech-spac-activity-heats-up/"
-    ampWebUrl: "https://www.pymnts.com/news/ipo/2021/fintech-spac-activity-heats-up/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/ipo/2021/fintech-spac-activity-heats-up/amp/"
+  - title: "Arab Bank To Back Egyptian FinTech, AI And Cybersecurity Startups"
+    excerpt: "Arab Bank has launched an Egypt branch of its FinTech, artificial intelligence (AI) and cybersecurity accelerator that focuses on early-state startups."
+    publishedDateTime: 2021-08-22T23:23:00Z
+    webUrl: "https://www.pymnts.com/startups/2021/arab-bank-back-egyptian-fintech-artificial-intelligence-cybersecurity-startups/"
+    ampWebUrl: "https://www.pymnts.com/startups/2021/arab-bank-back-egyptian-fintech-artificial-intelligence-cybersecurity-startups/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/startups/2021/arab-bank-back-egyptian-fintech-artificial-intelligence-cybersecurity-startups/amp/"
     type: article
     provider:
       name: pymnts.com
       domain: pymnts.com
-    quality: 44
+    quality: 74
     images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/08/IPO-SPAC-FinTech-457x274.jpg"
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/08/Egypt-Arab-Bank-startups-accelerator-457x274.jpg"
         width: 457
         height: 274
         isCached: true
-  - title: "4 Ways the Fintech Industry is Detecting and Preventing Frauds"
-    excerpt: "Digitization in the fintech industry is giving rise to financial fraud. It is essential to detect potential frauds and prevent them before any loss to the customer or the organization. Fremont, CA: Like all the industries,"
-    publishedDateTime: 2021-08-20T00:00:00Z
-    webUrl: "https://www.cioapplications.com/news/4-ways-the-fintech-industry-is-detecting-and-preventing-frauds-nid-8322.html"
+  - title: "A Canadian-based Fintech Company to Expand Globally With World-class AI Technology"
+    excerpt: "As such, Peak Fintech Group announced on August 16 that it will be acquiring Cubeler, an analytics and AI company located in the heart of Montreal. Peak Fintech to acquire Cubeler In a press release, it was revealed that Peak Fintech will acquire 100 per ..."
+    publishedDateTime: 2021-08-19T13:00:00Z
+    webUrl: "https://stockhouse.com/news/newswire/2021/08/19/a-canadian-based-fintech-company-to-expand-globally-with-world-class-ai"
     type: article
     provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 24
-    images:
-      - url: "https://www.cioapplications.com/uploaded_images/magazine_img/itqtp300400.jpg"
-        width: 300
-        height: 400
-        isCached: true
-  - title: "Top Fintech Trends Transforming Peoples Lives"
-    excerpt: "AI and ML have managed to retain their top positions in the FinTech trend for a long time. They have fuelled the rapid growth and development of new technologies in the FinTech industry. FREMONT, CA: The fintech industry is growing rapidly, and it is ..."
-    publishedDateTime: 2021-08-20T12:40:00Z
-    webUrl: "https://www.cioapplications.com/news/top-fintech-trends-transforming-peoples-lives-nid-8324.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 24
-    images:
-      - url: "https://www.cioapplications.com/uploaded_images/magazine_img/itqtp300400.jpg"
-        width: 300
-        height: 400
-        isCached: true
-  - title: "Celebrating fintech’s role at the heart of the new normal"
-    excerpt: "Innovate Finance has launched a new forum to explore the potential of fintech to create a more inclusive and sustainable world. What good timing - fintech has performed impressively amidst the pandemic and will have a crucial role to play as restrictions are lifted and we settle  into our ‘new normal’."
-    publishedDateTime: 2021-08-21T04:38:00Z
-    webUrl: "https://www.finextra.com/blogposting/20765/celebrating-fintechs-role-at-the-heart-of-the-new-normal"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 13
 
-secured: "hpXHSIPMrgk7lwxI5qqpdT+iSU8Q85slvwBJLgDyhIeUnVK/lH5G6zevQ4uKcGaQEuZhVDRz6bIwU3NX5l2OdcVOAbEEJNtGXCgaHP4qZKS89dDJH3vjRKcHa2EZV8/gyMmJExN/g2OBRRpbtkCYh1KxR4Qre/X+TcNUh4/0LHmkDZ3dedRAzrRKhrz8DNTiQOhAtEOr/Gi76muxYY2m3+4xF/Rjk4iZAZ/G4cGgvu6bH3xgfbxvykTEF/I0r6hxbfg8v6hK1jshm76XVz4CFP0H6ggNk6UVE1/Kg9RY+uKcGK2675rhOOiSxC3hk2/pAHrhYBjK9OZ6CNRTbTucngpf+7og9M2LqxVBgjxScZg=;siJRux/JKvxmKJfIctRJMA=="
+secured: "L11/w6R3U2JPguWlOgx1J5FNp/zkgUJA3FNooH/GNK9scem5wI+gTdbLfWuhboz6jOTph5E7eOBJIndHAptHrCjAhH3gVzDD4YU9MAZk5EfzP2+j4obXG5cN25d46WiDd8gJrie7vASo84REjXgZWXyiycmf+zWRKbFtbsm1qzRq7c90Wuv46HFSIA3HF+pR4rpfkgX+T0/GKzs+rpVpULwMoD+L+nJkTPxw3hG9+U5HlDnUJOng+KqcilkZZLhvUClZL/zHlkvNfLky/NT5mjc5BjKFCkG/+96atLp68ynwoqES0FqYAQ9gAKM087Nzb/N/u815hk9EcZd4kod8lTd2GDr0632eKQu5TKfezM8NA6ukY7B+2DhKQ8Rdevkpmm5+CX5kLlH2NRMY/q6mKzBSTiI8qqNvJDFvnqiONkkFLOrJGEAKQ/odzzqs1mMn6OU9cMQQxUOFnYS2ZbkmnPtwip7JH5iEBrm4/7TNg6XD0L/RhbP8c+zAVqfwO5pDQPtQeV036Oed9mEbejyl/g==;nMcqKO2lyfAigeyDVhc9gQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.deccanchronicle.com/amp/business/companies/180821/honeyw
 cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/business/companies/180821/honeywell-iit-hyderabad-tie-up-for-artificial-intelligence-lab.html"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -57,22 +57,6 @@ related:
       - url: "https://images.assettype.com/freepressjournal/2020-08/9554071a-079c-4e10-9a40-4779953e541e/artificial_intelligence_4550606_1920.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
         width: 1200
         height: 620
-        isCached: true
-  - title: "IIT Hyderabad and Honeywell Enter into Agreement to Establish Artificial Intelligence Lab at the Institute"
-    excerpt: "The Artificial Intelligence (AI) lab at IIT Hyderabad was inaugurated by Dharmendra Pradhan, minister for education, skill development and entrepreneurship"
-    publishedDateTime: 2021-08-18T08:25:00Z
-    webUrl: "https://www.dqindia.com/iit-hyderabad-honeywell-enter-agreement-establish-artificial-intelligence-lab-institute/"
-    ampWebUrl: "https://www.dqindia.com/iit-hyderabad-honeywell-enter-agreement-establish-artificial-intelligence-lab-institute/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-hyderabad-honeywell-enter-agreement-establish-artificial-intelligence-lab-institute/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 39
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/08/HONEYWELL-ESTABLISHES-ARTIFICIAL-INTELLIGENCE-AI-RESEARCH-CENTER-AT-IIT-HYDERABAD-INDIA-2.jpeg"
-        width: 850
-        height: 400
         isCached: true
   - title: "Dharmendra Pradhan inaugurates Centre for Research & Innovation in Artificial Intelligence set up at IIT-Hyderabad"
     excerpt: "Union Education Minister Dharmendra Pradhan has virtually inaugurated the Centre for Research and Innovation in Artificial Intelligence set up at the Indian Institute of Technology-Hyderabad (IIT-H) on Wednesday morning."

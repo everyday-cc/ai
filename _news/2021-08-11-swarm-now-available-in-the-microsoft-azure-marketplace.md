@@ -1,20 +1,20 @@
 ---
 category: news
 title: "SWARM Now Available in the Microsoft Azure Marketplace"
-excerpt: "SWARM Engineering, a leader in food supply chain optimization, today announced its availability in the Microsoft Azure Marketplace, an"
-publishedDateTime: 2021-08-11T12:33:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/swarm-now-available-in-the-microsoft-azure-marketplace-301352247.html"
-webUrl: "https://www.prnewswire.com/news-releases/swarm-now-available-in-the-microsoft-azure-marketplace-301352247.html"
+excerpt: "SWARM Engineering, a leader in food supply chain optimization, today announced its availability in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure."
+publishedDateTime: 2021-08-11T12:38:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/08/11/9428580.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/08/11/9428580.htm"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "8tchXGBXC29jrIyOjNKNnXf3eK5cddhU3uS2+KPiVRM7cOmKMwlbCETQ1kthqI0RvWMgnuDlg+yUwpLCRMvxBQDlYOyOrJA1nUUVjZ7+Mox/0Yu1ghZkJ30wm6RFppFS1gxdVpkY0LDqYom9gf5Yq4NMhDRB4ORdoAdnRkAmmsnB0OK7/IG+MmnNHfkple/iKnDMUaxFKit/OJRQJMeSoM5w+cOj9t128DNuoW+oW+PTg5TVsgpOG5vnrV3mWy2J8tuoGa2L0gx3jhLB+1XBxBB9Rbu5ddOjvGIqcIsXYjNLKxnIzorvkbNjqjBrAjyuLza3zdCRE0289nWJh7cUdPLQupeSyYngNA1iQp/PJ6s=;XhmPQ6RkQt/Mq34rCnOVdg=="
+secured: "WraqqkTwOIxELzwT5pISa0DlKcYOUWpp0eiZkRYO7i2IvcU8zBt6AjIKbOHQsAHNyiEVB2T5W7czI/P6q8li+zJV7opTINM6ikTHUrB+E9AiogAvm50yG+0yxXurv+i5CuR67+i2sXLJZYaKxzMJ5QGaYt6TNCnwyhH2mYVd7tmKWM5PGp47fwgo/PlGOulS6T7Kq0NdqIA27jnSBOoL2rDhk/VOUiY38RiNME3GSeMevcnK2ioxNtD002qldJo8QcGJum3dIGJ9++oQGIlcJPlhVkzNtfy8Q6dHns/hwCXncq+N/698PyQuMWf07iZ/0wI8cN+htOB1vED8On7hXCmqhdSRCR3Qzq4I90DOcX8=;36ckDlXtWo7ExTOnH84bxw=="
 ---
 

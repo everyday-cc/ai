@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-size-growth-and-forecast-analysis-by-2027-2021-08-19"
 type: article
 quality: 76
-heat: 266
+heat: 256
 published: true
 
 provider:
@@ -199,22 +199,6 @@ related:
       - url: "https://cdn.openpr.com/U/8/U822123836_g.jpg"
         width: 800
         height: 407
-        isCached: true
-  - title: "Artificial Intelligence in Energy Market Recent Trends, Future Growth, Industry Analysis, Outlook, Insights, Share and Forecasts Report 2028"
-    excerpt: "The global Artificial Intelligence in energy market is expected to reach a market size of USD 20.83 Billion at a steady CAGR of 23.6% in 2028, according to latest analysis by Emergen Research. This steady revenue growth can be attributed to increasing need to obtain operational efficiency to meet energy requirements."
-    publishedDateTime: 2021-08-18T08:24:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-in-energy-market-recent-trends-future-growth-industry-analysis-outlook-insights-share-and-forecasts-report-2028/"
-    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-energy-market-recent-trends-future-growth-industry-analysis-outlook-insights-share-and-forecasts-report-2028/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-energy-market-recent-trends-future-growth-industry-analysis-outlook-insights-share-and-forecasts-report-2028/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 24
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/shutterstock_1859475574-11-390x220.jpg"
-        width: 390
-        height: 220
         isCached: true
   - title: "AI Infrastructure Sales Size 2021 by Product, Revenue, price, Industry Share, Growth Opportunity and Forecast to 2026 Research Report by MSR"
     excerpt: "AI Infrastructure Sales Size 2021 by Product, Revenue, Price, Industry Share, Growth Opportunity and Forecast to 2026 Research Report by MSR"

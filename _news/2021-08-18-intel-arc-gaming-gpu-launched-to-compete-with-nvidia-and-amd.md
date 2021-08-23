@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Behold Alchemist! This is Intel’s first gaming GPU."
-    excerpt: "Intel has been working to enter the high-end graphics card market to compete with Nvidia and AMD, and today those efforts get a name: Intel Arc. The earliest Arc products will be released in the first quarter of 2022 and will be based on a GPU codenamed Alchemist."
-    publishedDateTime: 2021-08-18T07:27:00Z
-    webUrl: "https://t3me.com/en/news/behold-alchemist-this-is-intels-first-gaming-gpu/"
-    type: article
-    provider:
-      name: t3me.com
-      domain: t3me.com
-    quality: 39
-    images:
-      - url: "https://t3me.com/en/wp-content/uploads/sites/2/2021/08/intel-arc-logo-4x3-1.png"
-        width: 1440
-        height: 1080
-        isCached: true
 
 secured: "reLnLybg+GAV2Bk4JEq9xZVPAU2xIry1jIUDHpNvg2W/t1L33+hYQoUi0GmRtKiFeTo5B+mqFTo1MmoLwibo4xYG/bceFpbsMDwj9uBotreGQ3L60JkZioh9X3SLnaxfWjCfHVASpVGO0h+CfW4WHtUTVStlJT/bj7A/HELi7+xnUZbQhbV4dN2I3XckyAXWsX735Z9SeCWn+QBLFcmP+wRzDLlJRaJq4/0ih/3A8K+fU5k3KTUQrk6pW4fd3QthenUn9eD9+wBq61NqdwDBV80qVQSFDJO1qt7PqIOyABRyIVQNzD+uM3L3MRNO3nxXMlbLd1hq4R0TG0vUUfYGcFbHmvE9LQRKHR86gkOrxUeqHYfhlZY5bvY1cExSz8KQqLmTFYz6P8LtL6MiXmRR11xnVXR442itigvVhQKBzkDVj+wXCjARHa1IN9p0Hg27fCCoFRqJRxxmAzexZZkDBQjH3BcF/su/IMC/r2tGwXkSvvWgBQO7JHkr4igy7A0irQBnJCh9ZftPmhTpME0Rfw==;RYWDaF8flm/2EcqFbCznjg=="
 ---

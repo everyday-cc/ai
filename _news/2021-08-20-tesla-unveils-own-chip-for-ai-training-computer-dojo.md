@@ -1,25 +1,31 @@
 ---
 category: news
 title: "Tesla unveils own chip for AI training computer Dojo"
-excerpt: "Tesla Inc TSLA.O on Thursday unveiled its own computer chips to train its automated driving system. Tesla CEO Elon Musk a few years ago asked Tesla engineer \"to design a superfast training computer and that's how we started Project Dojo,"
-publishedDateTime: 2021-08-20T01:54:00Z
-originalUrl: "https://www.nasdaq.com/articles/tesla-unveils-own-chip-for-ai-training-computer-dojo-2021-08-20"
-webUrl: "https://www.nasdaq.com/articles/tesla-unveils-own-chip-for-ai-training-computer-dojo-2021-08-20"
-ampWebUrl: "https://www.nasdaq.com/articles/tesla-unveils-own-chip-for-ai-training-computer-dojo-2021-08-20?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tesla-unveils-own-chip-for-ai-training-computer-dojo-2021-08-20?amp"
+excerpt: "\"at-above-post addthis_tool\" data-url=\" California (Reuters) – Tesla Inc on Thursday unveiled its own computer chips to train its automated driving system. Tesla CEO Elon Musk a few years ago asked Tesla engineer “to design a superfast training computer and that’s how we started Project Dojo,"
+publishedDateTime: 2021-08-20T02:30:00Z
+originalUrl: "https://www.metro.us/tesla-unveils-own-chip/"
+webUrl: "https://www.metro.us/tesla-unveils-own-chip/"
+ampWebUrl: "https://www.metro.us/tesla-unveils-own-chip/amp/"
+cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/tesla-unveils-own-chip/amp/"
 type: article
-quality: 101
+quality: 91
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Metro US
+  domain: metro.us
 
 topics:
   - AI Hardware
   - AI
   - AI in Autos
+
+images:
+  - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEH7J0NE-BASEIMAGE.jpg"
+    width: 800
+    height: 534
+    isCached: true
 
 related:
   - title: "Elon Musk unveils Tesla Bot, a humanoid robot that uses vehicle AI"
@@ -89,9 +95,9 @@ related:
   - title: "Tesla Bot: A concept humanoid robot embedded with Tesla's vehicle AI"
     excerpt: "At Tesla AI Day, the company's CEO Elon Musk unveiled a concept humanoid robot that will be powered by the AI currently embedded within Tesla's autonomous vehicles. Aptly named the Tesla Bot, details about the concept robot were limited,"
     publishedDateTime: 2021-08-20T02:15:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2248/7/index.php/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2248/7/index.php/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2248/7/index.php/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
+    webUrl: "https://www.zdnet.com/index.php/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
+    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
     type: article
     provider:
       name: ZDNet
@@ -1226,6 +1232,6 @@ related:
         height: 445
         isCached: true
 
-secured: "WemtcDeVt4aGaB4WCJ/s2KtSi2WntticMFJGFh84fJ9o6d9zLJ/YV8nyfVYvHWs6gan3EwAE8DeVDaRAoIKyuULc3Faoczqe8s0audw4gCEhSovKyva4ScbYqTqXNgQL+YXyl4tMo9UzDBxz82H5lMoxBqIBqucd398iG19/u2dFETzX994ZlZCx+C6PXCo24tiwwf5geLXP4DWr8suD1AP5IU4lIfJWnkYbKSTtfWbQ9Y+Jk9U7gWE222bqyo4dR0G8FAQZbrZKBnUqoVQynn9DCPyl2cT5gCvuMKdpS05Ph0w9N9jR3D2AETQzCGo1flsci/4tepw4flmTRXDTX3LREDR5LE/JxKS8hRiz0Xvs/Vqpl/nlPa4MufvQ/PXLU9wTjkMunS2n64OS5IvSB+18M00vP1gI+ofuAD8j1D/A/N0vSfvs0cmHO8voj+LcOeU5ZduDiEydFK24qNqu10qJmnNNmffl6CGnjP26Ox0cgUsdPZh/EYK/JcJbxraRMwVaJd5zP5G2AyRyoSU2Og==;tEgC/2YLp59suzy5AChR0A=="
+secured: "qC1KAadxma0H0GCcSwA+VD8XX9zW7/xTRGGAeVu76R0zOF2TpFoRU2mmH2MzvNu7UFQc3XX3HBgkXMfvK7roeUylexPyJSvbPvanwxFQk2XkOii44/im9z+5ZbeARH4NWrx3sKNhQYt6caIKtuNo7c7+phvCGuWthG/vu33VV2vFz8rfEktQvvBW0tH1bUvLSbe/bcgeqpKDCH9dDRud+zaO9PcCmcHtUYn+RJqJvOToeKVKJnoCzDrLsnIhuXjgsPvC8VUxiCGKTmj72zoXhOVZOuJxlSty4o+7gfwVuLeVr4LrX4CBylsnoCBvRAuWspukBYaNaaEiq6lb0GxXGDbjTOidQIscroJdy1+4K9w=;sPj7gfoBk7SPvak/Teb9jQ=="
 ---
 

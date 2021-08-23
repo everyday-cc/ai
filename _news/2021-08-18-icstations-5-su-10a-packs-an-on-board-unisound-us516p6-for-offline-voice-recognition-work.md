@@ -78,20 +78,6 @@ related:
         width: 900
         height: 472
         isCached: true
-  - title: "Global Healthcare Machine Vision System Market (2021 to 2028) - by Product Type, Type, and Application - ResearchAndMarkets.com"
-    excerpt: "The “Global Healthcare Machine Vision System Market by Product Type, Type, and Application: Opportunity Analysis and Industry Forecast, 2021-2028” report has been added to ResearchAndMarkets.com’s offering."
-    publishedDateTime: 2021-08-18T08:56:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-cb70dfea047c43779c03e2fd1c672af2"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 11
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Andes Technology and Cyberon Collaborate to Provide Edge-Computing Voice Recognition Solution on DSP-capable RISC-V Processors"
     excerpt: "Cyberon and Andes Technology announced their collaboration on the edge-computing voice recognition solution, Cyberon DSpotter, by exploring Andes DSP-capable RISC-V CPU cores such as the popular D25F and comprehensive software development environment to provide a cost-effective,"
     publishedDateTime: 2021-08-19T11:30:00Z
