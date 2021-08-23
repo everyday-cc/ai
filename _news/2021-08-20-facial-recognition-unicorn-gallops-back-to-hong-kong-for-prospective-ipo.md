@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202108/facial-recognition-unicorn-
 webUrl: "https://www.biometricupdate.com/202108/facial-recognition-unicorn-gallops-back-to-hong-kong-for-prospective-ipo"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1024
     height: 537
     isCached: true
-
-related:
-  - title: "AI Firm Yitu Said to Mull Hong Kong IPO After Shanghai Plan Halt"
-    excerpt: "Chinese artificial intelligence company Yitu Technology is considering an initial public offering in Hong Kong after a tightening regulatory scrutiny stalled an earlier attempt to list in Shanghai, people familiar with the matter said."
-    publishedDateTime: 2021-08-19T02:35:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-08-19/ai-firm-yitu-said-to-mull-hong-kong-ipo-after-shanghai-plan-halt"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioSo1Zz2K1CQ/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "6mRn0YvJeDAdKLjHE34dipkSXw0NPtBBlRuobtv/IPTiT3lQets+9mODc9RzrtyFq68pDGNU0l2fAyHSG6b89EJj/cTbRVR2QnTwQgejW8QaAno7o3KM4o2phRZ4eooIvD4+eQ95zAQVxan6F6tjW5Ln6I//ZdBjA19cF/sMzpKcUCzZFSvV+DbswEFIw306OoO5f1rBdKsowq7eZNedoBEf8Kb5dvmN/ZWF8kklDtlL06WKmQc+LcvTf32IyyAtzUmIC7mLZn6cssLdTRcXwfown+L6ASoqjfU3NajMmo8xPpZmUfoxzn9GkFBEMxIdPqF3bGk0pSyB49b2mVY4hYW/PQQfcJupmNBMmrA8Hdn1pbOulA9q1Z2p2T+rx2Lj+JCfGgaTAhKu4Wr/0RDMKtLuwSS90EeBiH9axjWdUkQ7EAllbJD5Ymxc79yLqhEKdeFWsvZu96lxvABLl+rWBPWnqR+mQi6WBsuTD7/Y9+dZTY4IRP0xWbqGtW0nypI86ssYBuUr9JPq87wC/huFYw==;Wr/s2btmS5OotFIp42WZSw=="
 ---

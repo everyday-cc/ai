@@ -48,6 +48,20 @@ related:
         width: 1250
         height: 768
         isCached: true
+  - title: "The EU’s Recently Proposed Artificial Intelligence Act Goes Too Far"
+    excerpt: "The European Union is now considering what could become the world’s first comprehensive legislation on artificial intelligence (AI). The aim is to promote European leadership in emerging technology. The proposed regulation seeks to limit government involvement in surveillance,"
+    publishedDateTime: 2021-08-23T16:59:00Z
+    webUrl: "https://cei.org/opeds_articles/the-eus-recently-proposed-artificial-intelligence-act-goes-too-far/"
+    type: article
+    provider:
+      name: Cei.org
+      domain: cei.org
+    quality: 37
+    images:
+      - url: "https://cei.org/wp-content/uploads/2021/08/GettyImages-1221519788-1200x628.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "f43he7vIOgiCJZpzfI3zhHyTUhFUuI5opVusR+goU2DA6BQevaUtpn7nzNhALxXHG3sP+RRXxlWRkPrVmIgmyybpzdqKmarsU8iP11n0hJHgnaYqjczgrBqkaMg7RRiijIA99iqzoLmZfq82AbmaCRc7Dt/trB+H1DmGRBKWyUU9USib0QYEuzkE9jKIQBBNuMpE8xFsS6v2dWaVDn6UPuL3sl7++6Z80a8xs9zL/j8Qomr28G5WJsSplYnno+hdrpTOQz/X2dJ+51TNapHL2mlICbUOZ/iLW41YSAeL7DcyqXi8MoJiYNBOMZZewIQ8cZ3rV1RmhHKYK8KmXisg7Pg0JBORiFNjMnD0B/gK+54=;0wKHWZCCyy96/64dglHnbw=="
 ---

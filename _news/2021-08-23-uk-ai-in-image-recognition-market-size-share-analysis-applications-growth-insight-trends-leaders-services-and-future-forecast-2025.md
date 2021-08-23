@@ -302,6 +302,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 19
+  - title: "Artificial Intelligence Market Analysis, Post COVID-19 Scenario And Leading Players Updates By Forecast 2020-2027"
+    excerpt: "The Artificial Intelligence Market is expected to exceed more than US$ 191 Billion by 2024 at a CAGR of 37% in the given forecast period. The Artificial Intelligence Market is segmented on the lines of its technology,"
+    publishedDateTime: 2021-08-19T19:11:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-market-analysis-post-covid-19-scenario-and-leading-players-updates-by-forecast-2020-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 18
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/California-Wildfires-AFP-1K-02-1-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "BdmhrOw2ZNnGQ2D5kbLhvko7JEwSr04o/Y2ybWs+OxGcqAaC3IJo4GvtuVFapmUptq+WMrgvP9ZkAq7YPFUdz4r7iOSFBmXiN9tb3m1P0o1otPT+QWOj0D9ottU0MIaoJN/JmsMQXCOWvHQDHzlX/FCJ7JNjfQl97XuSLklZJRdkYPPfIbXVWTzMhZozCwZBZIu226h+LCEY8s3ZaazeNpXd+uPR2seAEU94hUhSoLKr1tlEQnWToIZKZMhwZ4+c9IiRYE2b057gWhDVhuaWSCF6o362No7ey4tDzKMoE1+gv4NwjOxhpZ+1hEY7/KgDHouDrLRSwDn0eVJRSgDH6N7T1nyTtTAsL1cIuvqDZ7E=;dNJlcDJZYBNKcewJkLXGFQ=="
 ---

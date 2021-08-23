@@ -1,22 +1,24 @@
 ---
 category: news
 title: "Medius squashes invoice lead times with efficient AI tech"
-excerpt: "Medius, a leading provider of spend management solutions, is transforming its customer's electronic invoice management"
-publishedDateTime: 2021-08-17T07:25:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/08/n22528768/medius-squashes-invoice-lead-times-with-efficient-ai-tech"
-webUrl: "https://www.benzinga.com/pressreleases/21/08/n22528768/medius-squashes-invoice-lead-times-with-efficient-ai-tech"
-ampWebUrl: "https://www.benzinga.com/amp/content/22528768"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22528768"
+excerpt: "Utilizing Microsoft Azure Machine Learning and Artificial Intelligence (AI), with a user-friendly interface, Medius has developed an e-invoicing solution that captures and converts data dynamically, and dramatically reduces processing time to mere moments."
+publishedDateTime: 2021-08-17T09:25:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/medius-squashes-invoice-lead-times-with-efficient-ai-tech-1030736974"
+webUrl: "https://markets.businessinsider.com/news/stocks/medius-squashes-invoice-lead-times-with-efficient-ai-tech-1030736974"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "+F5gCbBG21xfgQ5jut12l6g6n6hQAXgAWmCQC+t9ISBESd87HyZxQNsK43do096tG81Og0/+NTGUA62kyvYrqBdgF9aLwPrpiE3dXBOVf5Ht8JqoHzMw8UFrO7pRBS5Icz7uI6mU8wzj0eJM2p4IOtnYK9PNHQka3IKmTTGXKzHlhcXwxwerxxG+d8fusKTV+BXPXP3mEciy1g7iQw+K8wQf4vWHuDWGT78+2oqaHkgh/8D8eW/2ilIjb3ETYEcPrm4js1o6QLnMtjObuhTbZs2zn/QIQHo7WvPIOYTW3kWeDF2WhLU+kxYc1OtYOX+IAERtMQp26/bfq7dzYyV7uY2tjrnF1OEzifFCUz9+0SE=;Wc83NLz9PSBIci5oCz09gQ=="
+secured: "1TclzugQZCkKldatVG+cqyz30rcGrX0yvPYu4FTsLAXpr/Dl52l+fB/8+DW4GFKBiQZxCi/jLhVeueP4HhwSm9tbHQzeRaW9faySgMeyKTQLnY2WhHwrt2DQXAs2QOLMqjZ0pTQaITqB4XLJJbR2EtNQ/w7dokFfNhchjQYpzv92ORTRYhyg0EpSpPVZ7QzmE6QMD+g0u/Qna2Fqy4fcmy9OEdSD95R7Qzm8EbuPDRf9NmUZh9m/FmRu1nKI6J6iFCQWcZ4QD/Uz9/B1s2kazOqZ5nixVWjgjTqIYhD3ufUF+wSa5lOWMhMq9XTCi0xfwrd5T9rwxbwwcM4EJFSHxDxvR1U9ZSRXRl6LlqQQJHI=;6+HGMK/L1tUTuhjHeWx9fg=="
 ---
 

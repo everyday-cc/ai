@@ -51,6 +51,22 @@ related:
         width: 1194
         height: 662
         isCached: true
+  - title: "IBM releases details on its Telum Processor, which includes an on-chip AI accelerator"
+    excerpt: "IBM's latest processor, the Telum Processor, is anticipated by the company to have applications in banking, finance, retail, healthcare, and more, due to \"on-chip accelerated AI.\""
+    publishedDateTime: 2021-08-23T17:57:00Z
+    webUrl: "https://www.wraltechwire.com/2021/08/23/ibm-releases-details-on-its-telum-processor-which-includes-an-on-chip-ai-accelerator/"
+    ampWebUrl: "https://www.wraltechwire.com/2021/08/23/ibm-releases-details-on-its-telum-processor-which-includes-an-on-chip-ai-accelerator/?amp=1"
+    cdnAmpWebUrl: "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/08/23/ibm-releases-details-on-its-telum-processor-which-includes-an-on-chip-ai-accelerator/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 67
+    images:
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2021/08/IBM_Tellus_Processor.png"
+        width: 828
+        height: 466
+        isCached: true
   - title: "IBM's new Telum chips will help infer enterprise workload, detect fraud, and more"
     excerpt: "IBM has introduced its new Telum processor at the annual Hot Chips conference. The processor is IBM's first one that can do on-chip acceleration for AI inferencing during a transaction."
     publishedDateTime: 2021-08-23T03:54:00Z

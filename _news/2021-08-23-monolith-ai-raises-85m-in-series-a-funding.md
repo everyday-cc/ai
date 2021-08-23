@@ -33,6 +33,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 41
+  - title: "The EU’s Recently Proposed Artificial Intelligence Act Goes Too Far"
+    excerpt: "The European Union is now considering what could become the world’s first comprehensive legislation on artificial intelligence (AI). The aim is to promote European leadership in emerging technology. The proposed regulation seeks to limit government involvement in surveillance,"
+    publishedDateTime: 2021-08-23T16:59:00Z
+    webUrl: "https://cei.org/opeds_articles/the-eus-recently-proposed-artificial-intelligence-act-goes-too-far/"
+    type: article
+    provider:
+      name: Cei.org
+      domain: cei.org
+    quality: 37
+    images:
+      - url: "https://cei.org/wp-content/uploads/2021/08/GettyImages-1221519788-1200x628.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Improving Creative Quality Could Save Brands Millions in Media Spend, According to CreativeX Research"
     excerpt: "CreativeX, an AI-powered technology company that enables brands to measure the impact of creative decisions, today released a landmark industry report, \"Insights From"
     publishedDateTime: 2021-08-23T12:00:00Z

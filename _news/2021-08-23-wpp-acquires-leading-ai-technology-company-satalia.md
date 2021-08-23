@@ -132,6 +132,15 @@ related:
       name: London South East
       domain: lse.co.uk
     quality: 38
+  - title: "WPP Buys B2B-based AI Tech Firm Satalia"
+    excerpt: "WPP today announced that it has acquired Satalia, which has expertise in applying AI across the logistics and supply chain. Terms of the deal have not been disclosed. Founded in 2008 by CEO and AI specialist Daniel Hulme (pictured),"
+    publishedDateTime: 2021-08-23T19:08:00Z
+    webUrl: "https://www.mrweb.com/drno/news31973.htm"
+    type: article
+    provider:
+      name: MrWeb
+      domain: mrweb.com
+    quality: 19
 
 secured: "Od8U2y3BQKWrjhwHszpcgz2ENbzEG3aV2nDeTzlEng3wh343UBE3OD9bkI6Foe543n+lossqRXKzcXcqyn15VqzRK0FjzqFsjmEVWNpzeBqdvp1DIsJq3LyZYMSNSyhDXz0jrBnLI0S4ti0vKFIXVWodgqlsw5Fce5yWYECAwHrnMJBxoJNoAVy4RrPJyiLPyjgDTJa1lndHpgoNR63aw214Bk91GAZl1czKT1LZkmNQt7a9XAcJmg6DPR6MHDlfByz9DF8zi+f9ZR8Gm5blcrwfEXyym8WYXJ11o1k7YIcUz8TTUrycIdVdqdGLafZa1WqId1Y7pvb4T4JEeENpzUbSJG+NWr9GH/XozuiO99g=;lxmjsnxI9y/WQWV2p5SVWQ=="
 ---

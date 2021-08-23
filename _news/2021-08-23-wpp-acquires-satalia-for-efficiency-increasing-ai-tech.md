@@ -133,6 +133,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 19
+  - title: "WPP Buys B2B-based AI Tech Firm Satalia"
+    excerpt: "WPP today announced that it has acquired Satalia, which has expertise in applying AI across the logistics and supply chain. Terms of the deal have not been disclosed. Founded in 2008 by CEO and AI specialist Daniel Hulme (pictured),"
+    publishedDateTime: 2021-08-23T19:08:00Z
+    webUrl: "https://www.mrweb.com/drno/news31973.htm"
+    type: article
+    provider:
+      name: MrWeb
+      domain: mrweb.com
+    quality: 19
 
 secured: "Cn6WCrHomRiYntfaVidR1QhJ1ZbFA5JN0kW+orc49u1SpAoADI7fVEVRLiZEo+xGlZq80YWZaKzdQiPYvuXrmwKLHoErqqNE3jWcWczDedWmaDp2tmGjUOisti81hJ4/q0UXjCsEX6BwKgr6lTzcbDzNTz0eghzvS06cZd/RILSfU8zLymNPujBEf4Clie8Fz0M+w8LpztU8NGgjyUPbN1jUZ7LpkYCq3qrwU128Tluk7iDdGn1HMfVXj79ZWu4x07PpxJPRIxxxvEQMv5jb0Z2CH+a4/iT2MxU7vDC06bQbDah8iZvZhI7fFLEADjMVCY6LHCu0iSBE+MW5/D06YunvK3BtMwDmL4uWp7v3V+RHgf/QY2d8fyRdEzT270W9rUnVQma3QT/QBtjqP5qOkwVq7Bcv5ZDOKi6BNg7qu7p1SZyXGGSmBGLZjR05KAHSMHmzsaee+bjETb+xFwpIoehYH1u22YsNMAReNNFfIbluy+uTrbipHH8Tpbv4Wi+yprLJR1tr2wPG3yT2jtECKg==;pBkxP+MuSoCL18wpwkhvJA=="
 ---

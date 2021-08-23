@@ -7,7 +7,7 @@ originalUrl: "https://www.just-auto.com/news/baidu-unveils-level-5-self-driving-
 webUrl: "https://www.just-auto.com/news/baidu-unveils-level-5-self-driving-vehicle/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu boss Robin Li unveils 'robocar', his vision for the future of autonomous driving"
-    excerpt: "“Baidu has an edge in developing self-driving cars [because of] its Apollo platform,” said Peter Chen, an engineer with car components company ZF TRW in Shanghai. “The industry is keen to know to what extent its models can turn out to be autonomous."
-    publishedDateTime: 2021-08-19T02:29:00Z
-    webUrl: "https://www.asiaone.com/digital/baidu-boss-robin-li-unveils-robocar-his-vision-future-autonomous-driving"
-    ampWebUrl: "https://www.asiaone.com/digital/baidu-boss-robin-li-unveils-robocar-his-vision-future-autonomous-driving?amp"
-    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/digital/baidu-boss-robin-li-unveils-robocar-his-vision-future-autonomous-driving?amp"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 51
-    images:
-      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Aug2021/20210819_robin_twitter.jpg?itok=wDNm1WtL"
-        width: 763
-        height: 509
-        isCached: true
   - title: "Baidu Announces Autonomous Driving Milestones"
     excerpt: "Baidu CEO unveils vision for mobility of the future – a robocar that moves, communicates and learns; Launches new robotaxi mobile platform. Baidu this week held its annual flagship technology conference,"
     publishedDateTime: 2021-08-19T19:20:00Z

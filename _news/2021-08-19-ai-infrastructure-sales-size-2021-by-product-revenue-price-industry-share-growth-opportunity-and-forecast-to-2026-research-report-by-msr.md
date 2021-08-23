@@ -293,6 +293,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 19
+  - title: "Artificial Intelligence Market Analysis, Post COVID-19 Scenario And Leading Players Updates By Forecast 2020-2027"
+    excerpt: "The Artificial Intelligence Market is expected to exceed more than US$ 191 Billion by 2024 at a CAGR of 37% in the given forecast period. The Artificial Intelligence Market is segmented on the lines of its technology,"
+    publishedDateTime: 2021-08-19T19:11:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-market-analysis-post-covid-19-scenario-and-leading-players-updates-by-forecast-2020-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 18
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/California-Wildfires-AFP-1K-02-1-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "UK AI in Image Recognition Market Size, Share, Analysis, Applications, Growth Insight, Trends, Leaders, Services and Future Forecast - 2025"
     excerpt: "UK AI in image recognition market is estimated to grow significantly at a CAGR of 28 4 during the forecast period UK is the third largest economy in Europe after Germany and France majorly owing to its trading power and"
     publishedDateTime: 2021-08-23T07:47:00Z

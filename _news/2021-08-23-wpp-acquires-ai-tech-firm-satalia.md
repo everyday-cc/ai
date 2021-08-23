@@ -9,7 +9,7 @@ ampWebUrl: "https://www.exchange4media.com/amp/announcements-news/wpp-acquires-a
 cdnAmpWebUrl: "https://www-exchange4media-com.cdn.ampproject.org/c/s/www.exchange4media.com/amp/announcements-news/wpp-acquires-ai-tech-firm-satalia-115180.html"
 type: article
 quality: 59
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -132,6 +132,15 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
+    quality: 19
+  - title: "WPP Buys B2B-based AI Tech Firm Satalia"
+    excerpt: "WPP today announced that it has acquired Satalia, which has expertise in applying AI across the logistics and supply chain. Terms of the deal have not been disclosed. Founded in 2008 by CEO and AI specialist Daniel Hulme (pictured),"
+    publishedDateTime: 2021-08-23T19:08:00Z
+    webUrl: "https://www.mrweb.com/drno/news31973.htm"
+    type: article
+    provider:
+      name: MrWeb
+      domain: mrweb.com
     quality: 19
 
 secured: "0zKeW79K48QzoMAL5AH9105+Ut+y/cCi56mxdvQBFo8HqAb/EMUF3RHbCi2SPwgxKq9b1AYsnuQzhLuFVpJTfR5BobO5FABCvsaEQmaWrswiXgPz88+V3Dla9haXeXM3wpmj+wgYkvoyWY1QUCVvmGE3vsj2YCSp++5YXQgK0fh1G/flotx4uMhAvb6mGhLK4hh330Zc/VV31jPkd+49ZLG3PSNEoOTREQbgAQFqLZv4E+VMBf0Yg3sxTIdOgy0Db4F/lEEwUeVKIZAPijiJkpdkMMBedkjeAoYfNNDV0N7kJCcaltF8zXH36WwvSXpMojUMFlMzRLN+c0RuRtc5SP9CJP+ezeN9rqO/CLJEXGuZr3rLMjqlEyox3PsK387WR9Y7ZGTfzhCvuFJ0z6XqNqZBdehgGJfedFaLBMuxVV7O6ybQKGxaYErkf1vlhDECGb/mlKPnewOsJVj9Tm9EMYkeZP9wXJ+4Kxs+TBwNLmCR0HuhvGZGC5N/Rz/q27Ze82RKeXdB074fG8pZqmAObQ==;GN/DSvI8SJv896CXgGD0sQ=="
