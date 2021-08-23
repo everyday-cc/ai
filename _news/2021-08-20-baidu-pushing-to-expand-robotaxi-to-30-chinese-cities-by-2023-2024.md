@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextbigfuture.com/2021/08/baidu-pushing-to-expand-robota
 cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/08/baidu-pushing-to-expand-robotaxi-to-30-chinese-cities-by-2023-2024.html"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -68,20 +68,6 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2016/04/Baidu.jpg"
         width: 1199
         height: 798
-        isCached: true
-  - title: "Baidu Launches Robotaxi App as Chinese Internet Giant Takes Ridehailing to Next Level"
-    excerpt: "Chinese internet giant Baidu has released an upgraded version of its driverless car mobility platform, building on the fleet of robotaxis that it has been running on a trial basis for the last two years,"
-    publishedDateTime: 2021-08-18T10:19:00Z
-    webUrl: "https://www.yicaiglobal.com/news/baidu-launches-robotaxi-app-as-chinese-internet-giant-takes-ridehailing-to-next-level"
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 32
-    images:
-      - url: "http://img.yicaiglobal.com/cdn/news/baidu-launches-robotaxi-app-as-chinese-internet-giant-takes-ridehailing-to-next-level/15569727868633088.jpg"
-        width: 720
-        height: 480
         isCached: true
 
 secured: "7eISxdcckiru698iZfQ5DzIFaGSueq8r0hIdcFo38ZXlqF1oucoHYaz5RVQun9LzCJ4b6/wRvMfoaU+QFNlaE/YSjnxZsoeyldh3r3LPN42Ex4IQMauxxrb2FpO8Z3mcZSckYXSBrvT4/O1Y14o+L5GXAxTHyR8yl/TREc1P07lilmWAnoboqA31vCL9v9sWBzcoL1w1opuDOQiCj6uGu6YnT5X5aaA1Cb3x5bfteDku5cUh+nByY++7gZBLja4+1FSlId/RJ0pODEc8JfQsSwzY5cM6/DKILJELXFc6IQUVKjxqIY+va5E7/ephdzTFO5HQYs/Pj+M6+P1bZ4v583VjqcDpE34H60/b9XvHAUzhfBSKH0Br4ux/MLnbCM7L0esB3JX6jFDKcNruIjquXDYHhp90upl4fzVrYYnBixlGAY1WKdKvGiiADOHjz/OnOkG6uaRzBjc1ctdyvBew9QwpbW7xOid3Y+5KQmKDS2aTShWvI7pbLYBgP4NEI8i1AFNyo9qlwin8inlirqmigQ==;fTt8i9OCZEVPE70RZig+4w=="

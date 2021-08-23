@@ -7,7 +7,7 @@ originalUrl: "https://www.lightreading.com/aiautomation/qualcomm-unleashes-first
 webUrl: "https://www.lightreading.com/aiautomation/qualcomm-unleashes-first-5g-ai-drone-on-world/d/d-id/771573"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Qualcomm AI-powered UAV 5G drone can capture 8K video and more"
-    excerpt: "Qualcomm has introduced the world's first 5G and artificial intelligence enabled drone platform in the form of the Qualcomm Flight RB5 5G"
-    publishedDateTime: 2021-08-18T09:39:00Z
-    webUrl: "https://www.geeky-gadgets.com/qualcomm-5g-drone-18-08-2021/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 41
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/08/Qualcomm-AI-powered-UAV-5G-drone.jpg"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Qualcomm Boosts Drone Utility with 5G and AI-enabled Drone Platform"
     excerpt: "New Qualcomm solution features heterogeneous, low-power computing and camera systems with AI, plus long-range connectivity such as 5G, and Wi-Fi 6."
     publishedDateTime: 2021-08-19T01:09:00Z

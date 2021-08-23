@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/campaigners-call-ban-use-facial-recognition-t
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/campaigners-call-ban-use-facial-recognition-tech-uk?amp"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -71,17 +71,6 @@ related:
         width: 1600
         height: 1109
         isCached: true
-  - title: "UK government criticised for proposed facial-recognition guidance"
-    excerpt: "The government is updating its “surveillance camera code of practice” for the first time since it was implemented in 2013, but privacy campaigners have criticised the proposed updates for not doing enough to mitigate abuses of facial-recognition technology."
-    publishedDateTime: 2021-08-18T11:00:00Z
-    webUrl: "https://www.computerweekly.com/news/252505503/UK-government-criticised-for-proposed-facial-recognition-guidance"
-    ampWebUrl: "https://www.computerweekly.com/news/252505503/UK-government-criticised-for-proposed-facial-recognition-guidance?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252505503/UK-government-criticised-for-proposed-facial-recognition-guidance?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 24
 
 secured: "/WSy6iYs35/beFGARnWFG4KUNxzOUwEY/CCYdvCkXnOdfltBsHDcKgMtRTY6ewVBzNML9Apq4j/mOAZ7iii9AOK5eaoc5HG+86Up6vcNn/HvcSc4jgIQ6i7hh3OhPhNXmu2p9RV9lE75viLjW0rGfiFYtT+xKwdXmFlfdiz72lDGX12A/s/CMTIk0so5p1T5ldydiBE4c1gaLNtMIHG/2A0rv2bQOjXikbcEe20DTbVlC8sk/jPkuNtWqEfTFECcWc0NaE17bNlcGAbV9UWrGTpVnCtCIrdg91j1B0WJ8xfyCleBSJiy+WOmJLBTEK619J0BH4OXz1tgwc6pL12N3vdfyvGy7WRTMIw2wO1UcAcmQLjRbA7B+r0L9mrMj01PqXeFKTwSifuGwTJoC/ktRP/4ciRFjmym7sBRHNt+IewT+Fu2io4t2F3zr8D1KlvdnNx0Xr6hRUGBYdr2mDqerIZCSmJjsuyGMyZYC8mo8+O7nd1Dsrql5njTCLZaAaACFndGZ6sQMz9RQIc/W73jbw==;L5DojNNF54YVhHdFMt5CMQ=="
 ---

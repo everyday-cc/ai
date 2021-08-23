@@ -61,22 +61,6 @@ related:
         width: 1024
         height: 555
         isCached: true
-  - title: "Baidu says it has begun mass production of 2nd-gen Kunlun AI chips"
-    excerpt: "Chinese tech giant Baidu said on Wednesday it had begun mass-producing second-generation Kunlun artificial intelligence (AI) chips, as it races to become a key player in the chip industry which Beijing is trying to strengthen."
-    publishedDateTime: 2021-08-18T09:32:00Z
-    webUrl: "https://www.gadgetsnow.com/tech-news/baidu-says-it-has-begun-mass-production-of-2nd-gen-kunlun-ai-chips/articleshow/85425603.cms"
-    ampWebUrl: "https://www.gadgetsnow.com/tech-news/baidu-says-it-has-begun-mass-production-of-2nd-gen-kunlun-ai-chips/amp_articleshow/85425603.cms"
-    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/baidu-says-it-has-begun-mass-production-of-2nd-gen-kunlun-ai-chips/amp_articleshow/85425603.cms"
-    type: article
-    provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 74
-    images:
-      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-85425603,imgsize-9644,width-800/85425603.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Baidu's Kunlun II AI chips enter mass production"
     excerpt: "Chinese tech giant Baidu has begun mass-producing its second generation of Kunlun artificial intelligence chips, used in its cloud data centers and smart electric vehicles. Baidu spun the Kunlun chip business out into an independent company earlier this year,"
     publishedDateTime: 2021-08-19T11:50:00Z

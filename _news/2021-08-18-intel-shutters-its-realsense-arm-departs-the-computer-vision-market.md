@@ -7,7 +7,7 @@ originalUrl: "https://www.hackster.io/news/intel-shutters-its-realsense-arm-depa
 webUrl: "https://www.hackster.io/news/intel-shutters-its-realsense-arm-departs-the-computer-vision-market-221c7aaf02d7"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel Says Good-Bye To Its AI-Powered RealSense Cameras"
-    excerpt: "Intel’s RealSense cameras were originally designed for touch-free interactions but pivoted to specifically facial recognition in January. Today, Intel confirmed that"
-    publishedDateTime: 2021-08-18T10:39:00Z
-    webUrl: "https://techbooky.com/intel-says-good-bye-to-its-ai-powered-realsense-cameras/"
-    ampWebUrl: "https://techbooky.com/intel-says-good-bye-to-its-ai-powered-realsense-cameras/?amp=1"
-    cdnAmpWebUrl: "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/intel-says-good-bye-to-its-ai-powered-realsense-cameras/?amp=1"
-    type: article
-    provider:
-      name: techbooky.com
-      domain: techbooky.com
-    quality: 59
-    images:
-      - url: "https://techbooky.com/wp-content/uploads/2021/08/D435-Depth-Camera-with-Mount-1130x636-1.jpg"
-        width: 1130
-        height: 636
-        isCached: true
   - title: "Intel Winding Down Its RealSense Computer Vision Business: Report"
     excerpt: "Via CRN The long-running IT publication CRN is reporting that Intel is “winding down” its RealSense computer vision business, meaning its depth sensor cameras are ... Read more"
     publishedDateTime: 2021-08-19T13:50:00Z

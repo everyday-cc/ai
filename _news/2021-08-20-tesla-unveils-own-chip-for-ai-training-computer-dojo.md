@@ -1,31 +1,25 @@
 ---
 category: news
 title: "Tesla unveils own chip for AI training computer Dojo"
-excerpt: "\"at-above-post addthis_tool\" data-url=\" California (Reuters) – Tesla Inc on Thursday unveiled its own computer chips to train its automated driving system. Tesla CEO Elon Musk a few years ago asked Tesla engineer “to design a superfast training computer and that’s how we started Project Dojo,"
-publishedDateTime: 2021-08-20T02:30:00Z
-originalUrl: "https://www.metro.us/tesla-unveils-own-chip/"
-webUrl: "https://www.metro.us/tesla-unveils-own-chip/"
-ampWebUrl: "https://www.metro.us/tesla-unveils-own-chip/amp/"
-cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/tesla-unveils-own-chip/amp/"
+excerpt: "Tesla Inc TSLA.O on Thursday unveiled its own computer chips to train its automated driving system. Tesla CEO Elon Musk a few years ago asked Tesla engineer \"to design a superfast training computer and that's how we started Project Dojo,"
+publishedDateTime: 2021-08-20T01:54:00Z
+originalUrl: "https://www.nasdaq.com/articles/tesla-unveils-own-chip-for-ai-training-computer-dojo-2021-08-20"
+webUrl: "https://www.nasdaq.com/articles/tesla-unveils-own-chip-for-ai-training-computer-dojo-2021-08-20"
+ampWebUrl: "https://www.nasdaq.com/articles/tesla-unveils-own-chip-for-ai-training-computer-dojo-2021-08-20?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tesla-unveils-own-chip-for-ai-training-computer-dojo-2021-08-20?amp"
 type: article
-quality: 91
+quality: 101
 heat: -1
 published: false
 
 provider:
-  name: Metro US
-  domain: metro.us
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI Hardware
   - AI
   - AI in Autos
-
-images:
-  - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEH7J0NE-BASEIMAGE.jpg"
-    width: 800
-    height: 534
-    isCached: true
 
 related:
   - title: "Elon Musk unveils Tesla Bot, a humanoid robot that uses vehicle AI"
@@ -95,9 +89,9 @@ related:
   - title: "Tesla Bot: A concept humanoid robot embedded with Tesla's vehicle AI"
     excerpt: "At Tesla AI Day, the company's CEO Elon Musk unveiled a concept humanoid robot that will be powered by the AI currently embedded within Tesla's autonomous vehicles. Aptly named the Tesla Bot, details about the concept robot were limited,"
     publishedDateTime: 2021-08-20T02:15:00Z
-    webUrl: "https://www.zdnet.com/index.php/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
-    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
+    webUrl: "https://www.zdnet.com/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
     type: article
     provider:
       name: ZDNet
@@ -1232,6 +1226,6 @@ related:
         height: 445
         isCached: true
 
-secured: "qC1KAadxma0H0GCcSwA+VD8XX9zW7/xTRGGAeVu76R0zOF2TpFoRU2mmH2MzvNu7UFQc3XX3HBgkXMfvK7roeUylexPyJSvbPvanwxFQk2XkOii44/im9z+5ZbeARH4NWrx3sKNhQYt6caIKtuNo7c7+phvCGuWthG/vu33VV2vFz8rfEktQvvBW0tH1bUvLSbe/bcgeqpKDCH9dDRud+zaO9PcCmcHtUYn+RJqJvOToeKVKJnoCzDrLsnIhuXjgsPvC8VUxiCGKTmj72zoXhOVZOuJxlSty4o+7gfwVuLeVr4LrX4CBylsnoCBvRAuWspukBYaNaaEiq6lb0GxXGDbjTOidQIscroJdy1+4K9w=;sPj7gfoBk7SPvak/Teb9jQ=="
+secured: "Q3awy7rS5X//43A+RWimKVH+Erk79jEude6mxiMVwwsG0kz7K3QjnWW+12NZNxWwMS/FW7pgxGqyN1sGlTVqz4yM/67U4/Sfeo0FeW0/s9mxeXZhOXp4QRilBACN9sa8GxXNceHdgnKOn2hHKE3ASZfuouzebzZeo7EehLce63SGSaYnyM6A9afQB3E40dVrhl1usz2Yn0NoWitbTfky4cjbEZsj4mpjqkL3qTsimw702qevpfmT8h0DdKALC3lLH29ZI1RZzk276adlSMxw2v1Ufa1r3V8ubw/LsrVw3/zaLWqDnyvfTkRAdsm3rUHefElbJHw0nznQsZGijPBwukyXgNc5ENYHEwusJy0RLgNxyHprY3HDDK5RhdrjOPqQyi9KumRYkh5QBM+Lfkm4oeCQTXmF0xxnAgy+J0XdQVZYueowOoB6H17+n95+J7ThyVHmCdw/e3pC5Cp8jE/2SWZQort7kdJByyCq3ME3ETEodXdiQIhBUkAzMVucAjfzq5OvhE0fouGa/zS6S0ATGA==;J+nx9240/8I5mNE1lYLlDA=="
 ---
 

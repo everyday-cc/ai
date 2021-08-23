@@ -59,20 +59,6 @@ related:
         width: 700
         height: 466
         isCached: true
-  - title: "Tesla AI Day Doubles as Showcase to Recruit and Flaunt Future"
-    excerpt: "Welcome to the Hyperdrive daily briefing, decoding the revolution reshaping the auto world, from EVs to self-driving cars and beyond."
-    publishedDateTime: 2021-08-18T10:40:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2021-08-18/tesla-ai-day-doubles-as-showcase-to-recruit-and-flaunt-future"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 86
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iuGj712Psngg/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "eQbw4pX1q19O7y1jYWHKT6JmiTEMq83EQEQ4UN4n3Qr5ymNIjT1ZrWVVXwIvn+OZ9sII67sVqq1F4roQgeEM/dSDF2RrxNtx9kcYvKlCf9FJjg1wPBoQT3f9m3Yu0/9FPaGNBAOGoojp5QVCO4tWQMApQM4f8FxIQ05BOwYcca71noIbzXnE+ffydMSBcQk0AHEnYFe+LWwcGZVk9DvNMBCl5mv00jMcfwRWucYw10Z+lx0MkijECi7nuOqrgQ31jIGYpDVNKtdiMTahFUkZi8cQPMk9aDpmkCXJy0lmozkevTh4G976or3yiJYOdGDy5Lnl4z0SEb7M7RlZvaokaGdYXPNe+jeYzKOgmAN3p2KxAXERyZLPV2R58IxKXIKli+PW2kOwialinDYj/YUW/0LyO0ehU0HjqYOxBi1eKCAbUGe/y5gYq5e6UEK4MUAr+4Lb+/NErNk12sImYmbxkI0/y9Sh40YCptS6Huo4kJCd4AxxzS3MeqgXv/QdQZu7mbQoo8bnMJXgMhRjm+rdvA==;cHIPcRgZesJlph3FOHnvyw=="
 ---

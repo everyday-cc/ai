@@ -3,13 +3,13 @@ category: news
 title: "3 Artificial Intelligence Stocks to Buy Right Now"
 excerpt: "But tech companies are still just getting started with AI, which means that there's still plenty of opportunities for investors to benefit from artificial intelligence for years to come. If you're looking for some top artificial intelligence stocks to buy right now,"
 publishedDateTime: 2021-08-21T11:58:00Z
-originalUrl: "https://www.nasdaq.com/articles/3-artificial-intelligence-stocks-to-buy-right-now-2021-08-21?time=1629546902"
-webUrl: "https://www.nasdaq.com/articles/3-artificial-intelligence-stocks-to-buy-right-now-2021-08-21?time=1629546902"
+originalUrl: "https://www.nasdaq.com/articles/3-artificial-intelligence-stocks-to-buy-right-now-2021-08-21"
+webUrl: "https://www.nasdaq.com/articles/3-artificial-intelligence-stocks-to-buy-right-now-2021-08-21"
 ampWebUrl: "https://www.nasdaq.com/articles/3-artificial-intelligence-stocks-to-buy-right-now-2021-08-21?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-artificial-intelligence-stocks-to-buy-right-now-2021-08-21?amp"
 type: article
-quality: 67
-heat: 67
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -17,8 +17,9 @@ provider:
   domain: nasdaq.com
 
 topics:
+  - AWS AI
   - AI
 
-secured: "MAGHl2hUmdrzXmJxOzKTXp13MA2vaEWgllEyVl7ACFohUGnkdFS3Nl0PuHnDPPvH1V/jVk+8FMqNDsK2m3c8vMZJleuR5Xw4Njc7InRBLV9UKws1RkUXJPiIcJjCfyrVUbhLmUjjKWLns6tQL0g0sTFbWCeTnh4ZZ+oYJXnWFSUlrQrQu0mOGjxK0dk2Ck9ouOzAcGEU5goL+ZOBgPedYIgcWN8hJIV0EK25D4pEPHtOja2Krm+MwWfeKl020Uz4aAuR33c4id+1JWkmJ1vpAfsnhRVoaz1fw+VhH4MxxZbybaBfeeIMS1I/dMDtEWbwr/l6B9BJw19GlXoo02W+tfpKC1XvIOuBX2rs1VdAsaI=;neMCZfJ/6CWJqpANyyVcFA=="
+secured: "cAlWy4kstRYXVbt3+WpXQ3x5phGD9ZRH4vamtno1CoQtyr+j4SdjsTpAifHFquY8c21ESPwcR3tX4vWMonId2kx6yNEf5alTorn1BeYOHk+XqN8cU3L1Q4DPWM1pFLOD7PRk3CiQZ56ZX/k4MJShBYDdQM985UstHs0iu6a34FFMWhPKwOVC9IxZ9l1vEYWX9kymoJGACzl7QyvQEjHLw0/ENNT0y5QiliecDbqHNp3tUB9p7iEW2VYGyNk8HtBZkXAqkXqme1lCEo2+MHv6ilCPZQafSl+rpU63I+0L789Jf6NstyioSDNgTA5fha7T8tomUvcvYqsp1GWPDjK/3CdM/GwPJFGTiMpksPcq1aY=;Ydb7LmC77mFFJ84bnGuvkg=="
 ---
 

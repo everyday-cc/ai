@@ -3,10 +3,10 @@ category: news
 title: "Tesla Bot: A concept humanoid robot embedded with Tesla's vehicle AI"
 excerpt: "At Tesla AI Day, the company's CEO Elon Musk unveiled a concept humanoid robot that will be powered by the AI currently embedded within Tesla's autonomous vehicles. Aptly named the Tesla Bot, details about the concept robot were limited,"
 publishedDateTime: 2021-08-20T02:15:00Z
-originalUrl: "https://www.zdnet.com/index.php/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
-webUrl: "https://www.zdnet.com/index.php/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
-ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
+originalUrl: "https://www.zdnet.com/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
+webUrl: "https://www.zdnet.com/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
 type: article
 quality: 121
 heat: -1
@@ -21,9 +21,9 @@ provider:
       height: 50
 
 topics:
+  - AI in Robotics
   - AI
   - AI in Autos
-  - AI in Robotics
 
 images:
   - url: "https://www.zdnet.com/a/hub/i/2021/08/20/c53f20ad-f148-4044-a3eb-0929d3675012/tesla.png"
@@ -286,6 +286,17 @@ related:
         width: 2790
         height: 1569
         isCached: true
+  - title: "Tesla unveils own chip for AI training computer Dojo"
+    excerpt: "Tesla Inc TSLA.O on Thursday unveiled its own computer chips to train its automated driving system. Tesla CEO Elon Musk a few years ago asked Tesla engineer \"to design a superfast training computer and that's how we started Project Dojo,"
+    publishedDateTime: 2021-08-20T01:54:00Z
+    webUrl: "https://www.nasdaq.com/articles/tesla-unveils-own-chip-for-ai-training-computer-dojo-2021-08-20"
+    ampWebUrl: "https://www.nasdaq.com/articles/tesla-unveils-own-chip-for-ai-training-computer-dojo-2021-08-20?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tesla-unveils-own-chip-for-ai-training-computer-dojo-2021-08-20?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 101
   - title: "Elon Musk’s Plan To Tout Tesla AI Comes As Tougher Scrutiny Of The Company Looms"
     excerpt: "The company's AI Day takes place as NHTSA probes its Autopilot feature and as two Senators call for a Federal Trade Commission investigation of how Tesla promotes Autopilot and Full Self Driving."
     publishedDateTime: 2021-08-18T18:53:00Z
@@ -349,22 +360,6 @@ related:
       - url: "https://images.newscientist.com/wp-content/uploads/2021/08/20140258/pri195510988.jpg?width=600"
         width: 600
         height: 400
-        isCached: true
-  - title: "Tesla unveils own chip for AI training computer Dojo"
-    excerpt: "\"at-above-post addthis_tool\" data-url=\" California (Reuters) – Tesla Inc on Thursday unveiled its own computer chips to train its automated driving system. Tesla CEO Elon Musk a few years ago asked Tesla engineer “to design a superfast training computer and that’s how we started Project Dojo,"
-    publishedDateTime: 2021-08-20T02:30:00Z
-    webUrl: "https://www.metro.us/tesla-unveils-own-chip/"
-    ampWebUrl: "https://www.metro.us/tesla-unveils-own-chip/amp/"
-    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/tesla-unveils-own-chip/amp/"
-    type: article
-    provider:
-      name: Metro US
-      domain: metro.us
-    quality: 91
-    images:
-      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEH7J0NE-BASEIMAGE.jpg"
-        width: 800
-        height: 534
         isCached: true
   - title: "Tesla Has Unveiled A New Chip For Training AI Models Inside Its Data Centers"
     excerpt: "Tesla announced a custom-made chip for training artificial intelligence networks in data centres. Shown at the carmaker’s Livestreaming AI Day, the work shows that the company is engaged in vertical integration."
@@ -1236,6 +1231,6 @@ related:
         height: 445
         isCached: true
 
-secured: "iMkpnId8dKDuWqByC6DDzpoK2R+X6ojopDC5GgCK4jF5HcMVDW6h4HSOwpJPGoXQy5JfUosbUpyCYVshv80NB7MABL7Xw7NQs5k8KFvJMqjXf01VdjV3iL9rBAbBeiMCzBHpIv73+3z81rotg86OSmkuj24x1LM0AHzOix6fpuxmhoUyf3/iiMfzXgY2NWLaDhCpl7zY55qlHBDWvHn9PzlfmNitDMNi5SuGYugQ1On1/f1T5eAzMaSBYVZMne0G7TyM5l2qFnAVkgw7uBPZTUvbntKY/+ZeV92/wChGk7fcvjavLO4fMQ3aq2rKPH3Hn70uNbpBp0RaIaU56iMsBSxskgxop1u1LSOTXINo/PY=;63/nyqGCmGmYlVoxFQmtVg=="
+secured: "1+x9hXNFnqy/6CfaqYqO0DNKgDbMbz4sou9XL3rYW39+YDL3dhpS6jOaWXsUhEctWtIx+SRwqtmwj1MlhwdobBod9cgzv7uoaiexRK5pSZ4hP9f6XrhvtK7/ipDWq/SO4osJoB0hKbvYojptmoljXhugyiYWgVaHJGwdc6doBONH6KPUp/2F1l8VeAEnFzdP27FRzi7i5SI3nGMsYR2Vsid0K60+6lsWFgtTKfDRPmomKVTW6tWpdYYdrRoBlpOzv64H7o98OF6Pibw6sxOOXJJQPkceD68BzfviAnX68TU90ByQ2+IkMqlNnheqglUf1arsRBZTwapgyD1aVEBIUOPOejSLcjw0sxeWunVnn2Y=;mQVGTkFQpzy8xx3aZ3YmPg=="
 ---
 

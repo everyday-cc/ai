@@ -72,17 +72,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "UK government criticised for proposed facial-recognition guidance"
-    excerpt: "The government is updating its “surveillance camera code of practice” for the first time since it was implemented in 2013, but privacy campaigners have criticised the proposed updates for not doing enough to mitigate abuses of facial-recognition technology."
-    publishedDateTime: 2021-08-18T11:00:00Z
-    webUrl: "https://www.computerweekly.com/news/252505503/UK-government-criticised-for-proposed-facial-recognition-guidance"
-    ampWebUrl: "https://www.computerweekly.com/news/252505503/UK-government-criticised-for-proposed-facial-recognition-guidance?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252505503/UK-government-criticised-for-proposed-facial-recognition-guidance?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 24
 
 secured: "CVtl4QPD21GViHSqt1SJqr0VBu9iG0lm87vuRkaxZ2iWltXDChuEcR7Je4YULM5FDIDacnUIoOM9uNj5HjGWgLH9XX8r/rzmFJd5fXjRdH24v2A+KYYwVzMY/5kpyq1/P4Gh2fNA+EjaqltUJSlHIBVTC3tF4DpLvEvEUk3uVW9TMsqQpWBP+/IIV9O5EutgMzzavBQctcHEgHXfjQeqcherMO3T2L7iM5tnz9AVZMJTFfFZl52QM5kkV6TzxShR1rSxJ1MzE2F0FPmFP94o247pnAxow1JGOnHQaahaOWfyqZ4mCujF9DB1KVSa8c4275H/5Wc/cAlWWI8Jln0GRB9QRU+JKO8f4dnVh38Cer3672SqZKi20cxcfDSnFcCu03OSy64t3zwHwTEJm6bsl3c3YlWYSYmHlVDqbFd9MCW6c+qFaz1jE3O2uT0Jj9jxR1meiTEdt839b+ouK6oR1ycbCpTJxbJlMBJNtpYDG6a8Qa2YCoTDcr5R0xHNoQd+94CvF06iSRiJ+y8i/myLHQ==;llE40JdEcz+iSiOGFN4sMw=="
 ---

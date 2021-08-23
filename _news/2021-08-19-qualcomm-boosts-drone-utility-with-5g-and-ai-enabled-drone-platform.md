@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Qualcomm AI-powered UAV 5G drone can capture 8K video and more"
-    excerpt: "Qualcomm has introduced the world's first 5G and artificial intelligence enabled drone platform in the form of the Qualcomm Flight RB5 5G"
-    publishedDateTime: 2021-08-18T09:39:00Z
-    webUrl: "https://www.geeky-gadgets.com/qualcomm-5g-drone-18-08-2021/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 41
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/08/Qualcomm-AI-powered-UAV-5G-drone.jpg"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Qualcomm unleashes first 5G AI drone on the world"
     excerpt: "Building on its Mars helicopter technology, Qualcomm has announced its world-first 5G AI drone platform, with an early Verizon tie-up."
     publishedDateTime: 2021-08-18T16:45:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.futurecar.com/4811/Tesla-challenger-XPeng-to-Double-it
 webUrl: "https://www.futurecar.com/4811/Tesla-challenger-XPeng-to-Double-its-Manufacturing-Capacity-in-China-to-Meet-Growing-Demand"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -26,29 +26,20 @@ images:
     isCached: true
 
 related:
-  - title: "A Tesla manufacturing chief turned VC reveals what he looks for in self-driving and mobility startups and founders"
-    excerpt: "Venture capitalist Greg Reichow is a partner at early-stage firm Eclipse Ventures, which invests is just 10 or so startups each year."
-    publishedDateTime: 2021-08-18T09:25:00Z
-    webUrl: "https://www.businessinsider.com/what-tesla-exec-vc-greg-reichow-eclipse-looks-startups-founders-2021-8"
+  - title: "Self-driving vehicle challenge in SW China tests cars in actual scenarios"
+    excerpt: "Leading car manufacturers research institutes college teams and individual participants are taking part in a self-driving vehi"
+    publishedDateTime: 2021-08-21T17:25:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/270809733/self-driving-vehicle-challenge-in-sw-china-tests-cars-in-actual-scenarios"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 23
     images:
-      - url: "https://i.insider.com/611c0b60c040ad0018cebe0a?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
+        width: 630
+        height: 420
         isCached: true
-  - title: "Tesla sells ‘Full Self-Driving,’ but what is it really?"
-    excerpt: "Editor's note: This story is available as a result of a content partnership with The New York Times. Subscribers will see stories like this every day on our website (and in our daily emails) as an added value to your subscription. As U.S. investigators ..."
-    publishedDateTime: 2021-08-20T21:35:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2021/08/20/nyt-tesla-what-is-full-self-driving.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "1xQzTuGg6KUnbMdEBc1vM/0wzvyPb7c56On+kLnECcf8TAOVgivpim+i4+2tpddNNCOYa+7PBAgl3cW4PUPXPvrLGmBa7qSqT0i6USphfBONLwcd//jP0xKMqnr5n0ceP8LOX4sOcAqzgQfOruAruhJ54QbRr9rWkej+rA4XvX9mg0POAceRRuve0jKrkcNP1DiDlb0l1p/bup5Sb0mF8mX5ZOp14+peKqWcRod3MC6Ju+qcLU7liwlqKTUtrhaLSBQHJGbRzWD98FfIAdsQLrGPVRWlCsH6ISgC7y5sZ7lipkTGG3zLTCOmBT0lzqQ3jGQsB6go//2DCoN22XyDKoWxKzKaaPg+0QEld3aQfIKFWke0gvSXuYpfOqcAhvgEf2GqUtHwq+a0sd6pqrMIIdJgypEwRTyLoyTXDiMOndDPV10JyqbAEQ6xuAiz9Ufc7yRDZ7n0TSuCQk0YpSfFqg6Murn3hrBZejTCTM5lVXvvS8A19ytsoVQ0SNfqiu3nNHLMI57f6ByOcUORrDh98w==;qJpNsr22WvVDzM8OaLv3JA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/tesla-to-hold-ai-day-amid-new-scrut
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430"
 type: article
 quality: 104
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://images.wsj.net/im-387828?width=700&height=466"
         width: 700
         height: 466
-        isCached: true
-  - title: "Tesla AI Day Doubles as Showcase to Recruit and Flaunt Future"
-    excerpt: "Welcome to the Hyperdrive daily briefing, decoding the revolution reshaping the auto world, from EVs to self-driving cars and beyond."
-    publishedDateTime: 2021-08-18T10:40:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2021-08-18/tesla-ai-day-doubles-as-showcase-to-recruit-and-flaunt-future"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 86
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iuGj712Psngg/v0/1200x800.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Tesla AI Day: How to Watch and Live Updates"
     excerpt: "How to Watch AI Day. Elon Musk announced via Twitter that AI day will be streamed for the public and press to view. The event is following a recent announcement of a NHTSA investi"

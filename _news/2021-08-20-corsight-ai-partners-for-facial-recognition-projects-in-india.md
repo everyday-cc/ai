@@ -73,20 +73,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Mate Labs, Indian AI startup, to digitally transform"
-    excerpt: "Luminous Power Technologies India market leader in power backup and home electricals today selected Mate Labs flagship product Mateverse to strengthen its"
-    publishedDateTime: 2021-08-18T10:05:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/270771898/mate-labs-indian-ai-startup-to-digitally-transform"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 37
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1629280810.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "USD 17.2 bn infused in Indian startup ecosystem by venture capital firms during Jan-July: Report"
     excerpt: "SoftBank Corp led the charts with approximately USD 3.5 billion worth of investments in the past three years, followed by Tiger Global, Temasek, Sequoia Capital and Prosus Ventures, the report noted."
     publishedDateTime: 2021-08-22T09:42:00Z

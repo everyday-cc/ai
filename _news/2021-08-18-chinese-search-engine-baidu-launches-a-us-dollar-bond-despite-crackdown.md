@@ -69,20 +69,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Baidu Launches Robotaxi App as Chinese Internet Giant Takes Ridehailing to Next Level"
-    excerpt: "Chinese internet giant Baidu has released an upgraded version of its driverless car mobility platform, building on the fleet of robotaxis that it has been running on a trial basis for the last two years,"
-    publishedDateTime: 2021-08-18T10:19:00Z
-    webUrl: "https://www.yicaiglobal.com/news/baidu-launches-robotaxi-app-as-chinese-internet-giant-takes-ridehailing-to-next-level"
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 32
-    images:
-      - url: "http://img.yicaiglobal.com/cdn/news/baidu-launches-robotaxi-app-as-chinese-internet-giant-takes-ridehailing-to-next-level/15569727868633088.jpg"
-        width: 720
-        height: 480
-        isCached: true
 
 secured: "rukDJPXJ8aYudylU+6ErpyqP2RN8ic7D2Qg2QikqUSQjIr6wbwDdbNlrCO3jJKKqMbfUL7NRro7QxpT2p1EPyFINfJ6rdqNqMhavffqNCtHGzGz1nK5I2ezCou6GORRAM+hqNixXCOz/So9xoS+yP6um+K0sBy/dAusaFEoo23cPtb+pQwHsWzav5L/4EI/mFi/7kQf2OlHEPQYSW6TpRwjFg6ivLKctU1v1c4ADyBbDgOpYybqqTWMKjNWr8OUmRe5kwa/t9769MM7wcwU0Gv2Z8PbgugiVLDWJP+qcSRY47ELihElOgj5mi+cuxcHR6JVbdMB1yJXzsMFWvBMqRIKbCPewvbciDxQ6SlCTd872woXrHSCPTDQvMaSap5HG9c7Crhmqnuh2MlEK45BXwWpFbmwQygMcImqWTw3CqHgRU68+7dgFPNk0XLqsNPFqcQMWol/r/KVRJNo9TdciGzdLExcVegIta4MX88xW1Il+UR8qTeUuN1wFtHKVpaMuQZyRGI/n+esJmt7OOmGIKQ==;9iF0/04fZybiX9N0I9Lyxw=="
 ---

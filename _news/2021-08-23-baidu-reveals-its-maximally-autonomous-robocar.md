@@ -43,6 +43,22 @@ related:
         width: 744
         height: 419
         isCached: true
+  - title: "Baidu leads the self-driving race with an AI-packed ‘robocar’"
+    excerpt: "Baidu has focused on diversifying its business beyond advertising to artificial intelligence and driverless cars. Back in May this year, a commercial driverless taxi service was launched in China by the country’s biggest search engine player,"
+    publishedDateTime: 2021-08-23T02:50:00Z
+    webUrl: "https://techwireasia.com/2021/08/baidu-leads-the-self-driving-race-with-an-ai-packed-robocar/"
+    ampWebUrl: "https://techwireasia.com/amp/2021/08/baidu-leads-the-self-driving-race-with-an-ai-packed-robocar/"
+    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/08/baidu-leads-the-self-driving-race-with-an-ai-packed-robocar/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 59
+    images:
+      - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/08/000_1BR36V-450x300.jpg"
+        width: 450
+        height: 300
+        isCached: true
   - title: "Baidu unveils 1st fully autonomous robocar prototype"
     excerpt: "Chinese internet search giant Baidu Inc. unveiled on Wednesday its first L5 self-driving robocar prototype with no steering wheel, and an upgraded autonomous driving service platform named Luobo Kuaipao,"
     publishedDateTime: 2021-08-18T16:34:00Z
@@ -86,6 +102,6 @@ related:
         height: 500
         isCached: true
 
-secured: "f1GgyniyvGFz75cdEGvVh8rf5BSKwz8tEBM7QnhnTxdgZSil8VVhUaUIsokYk8xTltNjwyz4hLm4sIpTla8sPyiVPJXHyXl7qO5hbOmcmAKw7cbLqIomx14JgWJR4d54mmHtChs1OEXi0O961tOK2Lz0+Ztem37zYKWz7Bz+hm9m/l8csYRLeoDq5WFf6wNUWUsgdbfhBBVd1WMS646I69bc0Sj7Ci+V0p0LbINvASSa+MI2etX3Lx9c63OFgUWSHJ+4FCEfxr71CkQAUehNB9S5kjTt8ghqYVUD0mrqm8TMbFuMrKKJTiHunqEp8h6voaY67WQbO7qsXApzBMF/ONQpvYKeY5Ba3b7SqcirC7w=;21ibgyg89hlC2DrIIqVgNQ=="
+secured: "2p3iZ/fHvK04T14jAqqRiyWJUBMYR1i+7fBQuVHcMjrg4B+uBOE55jxaCBZymFQl6xVClVHIyIeC96gbm+DskoNIyEjztCq/2DA/JubNM25pFDoHXTD7To4NHRsreanK0BssgW5WWi5mLil90CS9svkukov1Hbhl8FessRRPscn9n78s248uFVTmdEJnX6twP7ZfnwUkNlaoWi9A3IumWCP68V8uNh0PC/PxVwgEGhS7qiv2QO8vT+F/W41R9+Ry2i1PbR6STyjvh5DqOWedOan1CzbPyedKtrkrwE37WlcUdFTiPLHS3sjjApypcfFUxDbZeKe5hyUhyFqcWKdTuhaZhR79lcSSYwoWGP4imsXrCXr5pbqrc4mznl7cSkvQoz2iH1NVOjK4fFCpxDoOzE7/J+9B67Dm2iala4AKE7FRcTPJlbA25q2392ihyTbABmjQ/Tjt6XayZrdh2x3EULxvF/P0ipVG9TMg78PzrZFGtcK06qPzfxSHxfFYp4uIpQVf5JOXqayZKQTp6+QfKA==;HcDL9EgLT6n3BCDGwJ68oA=="
 ---
 

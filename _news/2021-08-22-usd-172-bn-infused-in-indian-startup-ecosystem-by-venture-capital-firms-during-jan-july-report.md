@@ -88,20 +88,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Mate Labs, Indian AI startup, to digitally transform"
-    excerpt: "Luminous Power Technologies India market leader in power backup and home electricals today selected Mate Labs flagship product Mateverse to strengthen its"
-    publishedDateTime: 2021-08-18T10:05:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/270771898/mate-labs-indian-ai-startup-to-digitally-transform"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 37
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1629280810.jpg"
-        width: 630
-        height: 420
-        isCached: true
 
 secured: "DkxNSPBo9nkG14l+YKX2B3BDxPIw++F+DFqRZMER7xl52igvxUbNgVLNhsQ1K/AMQAdRx71HcfqmeoHAddZW3bW5B3wDFsdnVQB/qBLfNbTXQjMI1PpkCJWe8vGiS19CsQaaTJsQiIUMYNT0n6WvLWizYBFrGjxMg93yVQCJ0y35WYMUgqVYNkaj334Nv02in/WrxIuRHY2X+BQ7AIcwhrHuYFGWf3xRowEIT2hHzruvgbqKOMjduLP+H6yTYmtRKxbKDJ2yi2mLU/cycfxyCWYAdXRiDkvlYDHHWyAawwRkHWLbp1B7Shq01TNckNJWtGO+K9RcvQvWcxchyfvEscMjQIY6OR1XxNjinyNLc7s=;MLaaOVB5dIt6mUjG9InWpg=="
 ---
