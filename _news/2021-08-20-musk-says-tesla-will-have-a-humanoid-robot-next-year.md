@@ -76,38 +76,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Elon Musk reveals 'Tesla Bot', a humanoid robot utilizing Tesla AI"
-    excerpt: "Tesla . Speaking at Tesla's AI Day, founder Elon Musk revealed the Tesla Bot, a humanoid robot running on artificial intelligence used by Tesla's autonomous vehicles. \"It makes se"
-    publishedDateTime: 2021-08-20T02:16:00Z
-    webUrl: "https://www.cnet.com/news/elon-musk-reveals-tesla-bot-a-humanoid-robot-utilizing-tesla-ai/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/elon-musk-reveals-tesla-bot-a-humanoid-robot-utilizing-tesla-ai/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/elon-musk-reveals-tesla-bot-a-humanoid-robot-utilizing-tesla-ai/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 121
-    images:
-      - url: "https://www.cnet.com/a/img/jetI8eIc6sjGpCz4QvcCpNQMlb0=/213x0:1037x691/1200x630/center/top/2021/08/20/c7483157-7676-4005-9899-b6c229715f8f/teslarobot1.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Tesla Bot: A concept humanoid robot embedded with Tesla's vehicle AI"
-    excerpt: "At Tesla AI Day, the company's CEO Elon Musk unveiled a concept humanoid robot that will be powered by the AI currently embedded within Tesla's autonomous vehicles. Aptly named the Tesla Bot, details about the concept robot were limited,"
-    publishedDateTime: 2021-08-20T02:15:00Z
-    webUrl: "https://www.zdnet.com/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tesla-bot-a-concept-humanoid-robot-embedded-with-teslas-vehicle-ai/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 121
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/08/20/c53f20ad-f148-4044-a3eb-0929d3675012/tesla.png"
-        width: 1390
-        height: 856
-        isCached: true
   - title: "Elon Musk unveils plans for humanoid robot that uses Tesla’s artificial intelligence"
     excerpt: "Tesla Inc. showcased its artificial-intelligence systems on Thursday amid renewed criticism for Autopilot, its most-talked-about AI-based system, as"
     publishedDateTime: 2021-08-20T03:06:00Z
@@ -155,22 +123,6 @@ related:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/1629473007-GettyImages-1234764434.jpg?width=600&crop=16:9"
         width: 600
         height: 338
-        isCached: true
-  - title: "Elon Musk says Tesla is working on humanoid robots"
-    excerpt: "Tesla CEO Elon Musk says his company is working on a humanoid robot and that it will build a prototype “sometime next year.” The humanoid robot will leverage Tesla’s experience with automated machines in its factories,"
-    publishedDateTime: 2021-08-20T02:23:00Z
-    webUrl: "https://www.theverge.com/2021/8/19/22633514/tesla-robot-prototype-elon-musk-humanoid-ai-day"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2021/8/19/22633514/tesla-robot-prototype-elon-musk-humanoid-ai-day"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/8/19/22633514/tesla-robot-prototype-elon-musk-humanoid-ai-day"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 106
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/OF-uREy2YlBbDjVYbZdcPKd1Cgw=/0x0:1290x746/1400x933/filters:focal(542x270:748x476):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69751137/Screen_Shot_2021_08_19_at_9.06.39_PM.0.png"
-        width: 1290
-        height: 746
         isCached: true
   - title: "Elon Musk says Tesla will produce humanoid robot to help build cars"
     excerpt: "The \"Tesla Bot\" is a natural step because the company's vehicles are \"like semi-sentient robots on wheels,\" the CEO said."
@@ -250,17 +202,6 @@ related:
         width: 2790
         height: 1569
         isCached: true
-  - title: "Tesla unveils own chip for AI training computer Dojo"
-    excerpt: "Tesla Inc TSLA.O on Thursday unveiled its own computer chips to train its automated driving system. Tesla CEO Elon Musk a few years ago asked Tesla engineer \"to design a superfast training computer and that's how we started Project Dojo,"
-    publishedDateTime: 2021-08-20T01:54:00Z
-    webUrl: "https://www.nasdaq.com/articles/tesla-unveils-own-chip-for-ai-training-computer-dojo-2021-08-20"
-    ampWebUrl: "https://www.nasdaq.com/articles/tesla-unveils-own-chip-for-ai-training-computer-dojo-2021-08-20?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tesla-unveils-own-chip-for-ai-training-computer-dojo-2021-08-20?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 101
   - title: "Elon Musk Calls Tesla'a Full Self Driving Beta Technology 'Not Great' in a Tweet"
     excerpt: "Tesla CEO Elon Musk said on Twitter that the company's Full Self Driving Beta technology is 'not great' and admits that the AI team is working on it."
     publishedDateTime: 2021-08-23T21:50:00Z
@@ -415,22 +356,6 @@ related:
       - url: "https://inteng-storage.s3.amazonaws.com/img/iea/94w5VrvDOo/sizes/tesla-bot_resize_md.jpg"
         width: 744
         height: 389
-        isCached: true
-  - title: "Tesla AI Day Part 1"
-    excerpt: "The Tesla AI Day presentation is starting. Elon has started out by asking for people who want to solve real world AI at the hardware or software level to apply to Tesla. Andrej Karpathy, the director of artificial intelligence and Autopilot Vision at Tesla,"
-    publishedDateTime: 2021-08-20T02:25:00Z
-    webUrl: "https://www.nextbigfuture.com/2021/08/tesla-ai-day.html"
-    ampWebUrl: "https://www.nextbigfuture.com/2021/08/tesla-ai-day.html"
-    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/08/tesla-ai-day.html"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 76
-    images:
-      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/08/Screen-Shot-2021-08-19-at-5.46.09-PM-1024x606.jpg"
-        width: 1024
-        height: 606
         isCached: true
   - title: "Tesla Bot Division Will Be the Most Successful Robot Company"
     excerpt: "Here is why Tesla Bot has an assured level of success. The Tesla robots do not have to exceed the level of Boston Dynamic robots for agility to win. Boston Dynamics was founded in 1992 and has recently started making about $50 million a year in revenue."

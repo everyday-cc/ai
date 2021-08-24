@@ -1,31 +1,29 @@
 ---
 category: news
 title: "Self-driving electric vans and buses arrive in UK"
-excerpt: "Arrival’s Banbury R&D centre is ­producing buses for FirstGroup ready for a trial in the next ­quarter and service in the spring of 2022"
-publishedDateTime: 2021-08-23T06:55:00Z
-originalUrl: "https://bmmagazine.co.uk/news/self-driving-electric-vans-and-buses-arrive-in-uk/"
-webUrl: "https://bmmagazine.co.uk/news/self-driving-electric-vans-and-buses-arrive-in-uk/"
-ampWebUrl: "https://bmmagazine.co.uk/news/self-driving-electric-vans-and-buses-arrive-in-uk/?amp"
-cdnAmpWebUrl: "https://bmmagazine-co-uk.cdn.ampproject.org/c/s/bmmagazine.co.uk/news/self-driving-electric-vans-and-buses-arrive-in-uk/?amp"
+excerpt: "As business winds down at a delivery van depot in Bristol, vehicles head to cleaning bays and electric ones go to the recharging bay as the fleet parks up"
+publishedDateTime: 2021-08-22T23:01:00Z
+originalUrl: "https://www.thetimes.co.uk/article/self-driving-electric-vans-and-buses-arrive-in-uk-7ztqcscl6"
+webUrl: "https://www.thetimes.co.uk/article/self-driving-electric-vans-and-buses-arrive-in-uk-7ztqcscl6"
 type: article
-quality: 44
-heat: 44
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: Business Matters
-  domain: bmmagazine.co.uk
+  name: The Times
+  domain: thetimes.co.uk
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bmmagazine.co.uk/wp-content/uploads/2021/08/Self-driving-bus-scaled.jpg"
-    width: 850
-    height: 478
+  - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F00c5c222-0364-11ec-a644-d92df3a28bb3.jpg?crop=4398%2C2474%2C0%2C229&resize=685"
+    width: 685
+    height: 385
     isCached: true
 
-secured: "0kWBuyFOVhu8UveaW84gjif/SU1NfKjEG166e7skLiquNkOzPTdYR0xC2Xij1QnGjvJUNtf49wrh0FyIcgo351IDJQTnnUP8uwKGplHCPMe5sRBDVOEmg4yxvjouIGU1Wy6urrltmx+JEYy3ufvKgeeNYbWk2+btTgAmC2he9D7jAtLcnuyYWne548iuHdYUtfQ2z/mEBaV/Gl8po1zW8dvDHXdNQOF/zKX7ahC4WwFX5AL/CTB5M6k12SyTtWHV69/mqe9K10us4SOYLw0bzUiBsBmSnXfU+1gEICcBYivuwJsUMgI4kg68XODlJVYzGfqphy1dvtlzH9KEtP7bfBMB/EImF02T4hCsc455g+k=;9UIx9sq1Uj5m76Ci4uC8Cw=="
+secured: "k8rpWFEdELbcgnVlhoiX7NHlRrG7CgnGhFwKxTrLTI6/DCwx7CwX0GCffXizOdMlA85Hg9YbLueEUaubf0pBPIUCEY5DxyW8AhAREm8AMVzgdIzkpw6XnCdqHIk7MiIKIPA0eg0i/4sOR3EXnySp8Df8U018faCcKbiHkF00yGmniFnAB+UoEqWVIDzTm/kdHEtVaM1BjjnaiX0uQrOvJjofnFbZsesy9lQj5ppxuvfefHFh+hyWwl6WPb5iCW5s0OyrFNE0HXYUgjwkPBVy47HdcMi5k5QFrA27vLJU6VNp1dX9HKNgo/5Vxypi6fd9u4DEu2Z0hVqNqJ5CWJ2gB73Nd1Wt+V5O+b22U8kMibA=;h9r174b8la/abyGmLNwHIw=="
 ---
 

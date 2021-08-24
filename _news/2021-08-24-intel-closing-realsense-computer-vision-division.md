@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202108/intel-closing-realsense-com
 webUrl: "https://www.biometricupdate.com/202108/intel-closing-realsense-computer-vision-division"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     height: 667
     isCached: true
 
-related:
-  - title: "Why Intel wound down its RealSense computer vision tech unit"
-    excerpt: "Intel CEO Pat Gelsinger said he decided to wind down the chipmaker’s RealSense computer vision division because it did not fit in with the company’s six core businesses, which include the new foundry,"
-    publishedDateTime: 2021-08-20T01:31:00Z
-    webUrl: "https://www.crn.com.au/news/why-intel-wound-down-its-realsense-computer-vision-tech-unit-568829"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 39
-    images:
-      - url: "https://i.nextmedia.com.au/News/20210820123046_0_0_0_0_70__News_Pat_Gelsinger1.jpg"
-        width: 965
-        height: 545
-        isCached: true
-
-secured: "9slztKAa4e2/Ep+DZUWFoLQCShcPWXhKFkreh+LHkjY6GcolY82dYD1DsZh70VhAHwP5pTUh1LTC20usBrjE+RIlHcUCHqr5TvkebtyAZh65dsHKHz4prkx1rrj10+F7JxzdexnfDAnJlXgKzclyUMxts1HaiAFwTe4Xo8WMpkwj+ddHefz32pxmhKKVRc7HatGSrpHiLSLXFuSNpmZM19mCULiRfz5N09zLai8wUKX9KgdVJXfVp+6Bj4IHIv+mxvCGmjEEk4bGX8DC+2/ps2JZFGPMJlvelyUV1Gj8hHq8ClvrLJwtuJaHVg4HaiGSn1Hwn+1dVAaXvAx8066EICvQeSfDx3oryQtnaNPm4hU=;QFLo1qp3rHa4wgmR7CYDCQ=="
+secured: "zCyXWOIDjPeJOpKV5khOy1b8rr6VaB+F2NIL3cIYe+cXovFeKqRim28qbtLGgYIHvgRFNo5Lns8nqOLnOZDOX8TgVXUhRyfQtaItJGT6VZWwG4/b4GAs6Y+aZa9WaeO2sSDITZDMkVxlX90vF7csX2gRAW/UYktZD5CzjfoArQVo7tX+hcJKvXN4FM894hIBXisgxcwDKEwcEK4SX0KFX/bSmt+M8e9mCkPx6l0V4iw+FQEPbdqmZaii5hcWHPLMK7f453yqqVsCZmaWxSBbucM1PnSjtwOysYGaCD0jpEhkFZVdA+wx3V02qfFk3GmFshyJIR5isMtDLrUwKcpR7u6ZdI7eUdgI+7EUe30LDakQKvwnol/TbuQ8vK9jW290zEFTOJEw9+KkA2kiF6knZE1SEemTL0pdZVg9Zt9vhvXFISox9dk1sYaqZNR6Awp5wZtBTpNFRpZ/tIpp3Z2m0w14PuapzJe2fwKuRCKPMJn/dEKAbLTB545dWWeB16tjMlCRa9sVnAYuwatfrVjUhA==;WaFp4dTHtAFnHENQ2qvtZw=="
 ---
 

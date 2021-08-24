@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/video/2021/08/20/andrew-hawkins-of-the-verge-
 webUrl: "https://www.cnbc.com/video/2021/08/20/andrew-hawkins-of-the-verge-on-the-highlights-from-teslas-ai-day.html"
 type: article
 quality: 84
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -54,22 +54,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 84
-  - title: "Tesla AI Day: How to Watch and Live Updates"
-    excerpt: "How to Watch AI Day. Elon Musk announced via Twitter that AI day will be streamed for the public and press to view. The event is following a recent announcement of a NHTSA investi"
-    publishedDateTime: 2021-08-20T01:12:00Z
-    webUrl: "https://www.thestreet.com/tesla/news/how-to-watch-tesla-ai-day"
-    ampWebUrl: "https://www.thestreet.com/tesla/.amp/news/how-to-watch-tesla-ai-day"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/tesla/.amp/news/how-to-watch-tesla-ai-day"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 74
-    images:
-      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTgyOTAyNjIzNTMwMTMyODk5/210803aiday.jpg"
-        width: 620
-        height: 349
-        isCached: true
 
 secured: "0oiHBDT7QqdGsGKRWgBqAP4nk/FnQ5JgsuLyvRcnX/rgG/sUAbQ1WAS91ikwvI9YEsbpwRJhIbFCa7XzbXGzSBHnHckUBk/upLXxryegcX6ZibW9SGhKCcSDt3BCao9xwtukfwzWfWuS/8O88usyBmW4dZYoJ0gB5cPqArdLEBYtPU4DnBwHkD+wHMux37y3amtKWJQLugj1vzoS3ODbGgSQgfAX5LxqxAjpKEwP5OAkbSAYRNgk2C1FI52CLLp9NKzDR3Y+cFvGkUoV2jAAy5i3OBk45rLqLjrFoJ1e21kLpb2NpJgCQEaelf+M4iqCIWsBRaCWPVUiAI6fUIMrxG+CDxwxQQFzEDCME3fa70irr0c99c2OOfRyWUD9DHS+mFCV4AHKfaByVWrDMUOE3rd/BxY/cIlPojC65kF0NEFdExovJfrWY4ZMqtMhb9r64NM7WIGKRLd4bnUwtc4vlKY3WiLk1RUrNAZnbWXxWa+BMVvtNiIFtroFvOiriAnPW+eq3q1VCZ+0qJW8bek/LA==;oxE4pDvK5WcnaMtQRQK+Dw=="
 ---

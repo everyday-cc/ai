@@ -42,6 +42,20 @@ related:
         width: 3200
         height: 1800
         isCached: true
+  - title: "Samsung to bring in-memory processing to standard DIMMs and mobile memory"
+    excerpt: "In-memory processing to speed applications like machine learning to be embedded in DIMMs and LPDDR5 memory formats."
+    publishedDateTime: 2021-08-24T11:07:00Z
+    webUrl: "https://blocksandfiles.com/2021/08/24/samsung-to-bring-in-memory-processing-to-standard-dimms-and-mobile-memory/"
+    type: article
+    provider:
+      name: blocksandfiles
+      domain: blocksandfiles.com
+    quality: 23
+    images:
+      - url: "https://blocksandfiles.com/wp-content/uploads/2021/02/SAmsung-HBM-PIM.jpg"
+        width: 950
+        height: 474
+        isCached: true
 
 secured: "0QaSZ1wDrXNixXS0+OwmGv2NWmjxwFznXOHb6Om+Rhz3k7ITdNELYB+WlwMdbn+yXTDTau9jtdX/WOmBw042B8bbnfAlrAOSJhXisnQoDSfNrU+mTrZnb5UdGeGXtgTnpI8YS92et4UVj34dmA9nAHouXJK1vd+9oyFnDgHxv8ejQ8BjtvOfaO1zggEcB7RVCMRhtqVVM+oPG7L9MmMk6cGd6dyhRv0cLBx5EsYd+FcaLJW42MNP0WENAW0KUlvR50/cw49edQSJFjDGvuqOoeCPFmNKG5JykI0vU0KuF3p2mZoXaM/U54wfdkd2YTXQR/UAdac8Aj1Iz3/Gk6yrlztxBf/amJIXV5bLFX7iEQc=;NLIPxnqY07p41May8ubZ6g=="
 ---

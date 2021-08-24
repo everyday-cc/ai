@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Uncrashable cars: Luminar CEO ‘seeing results’ in development of self-driving AI"
-    excerpt: "Thanks to lidar laser technology and a partnership with Volvo, Luminar Technologies is seeing promising results in the development of uncrashable, self-driving vehicles. Russell explained that the Swedish automaker will be standardizing Luminar technology ..."
-    publishedDateTime: 2021-08-20T02:57:00Z
-    webUrl: "https://www.foxbusiness.com/technology/uncrashable-cars-luminar-ceo-seeing-results-in-development-of-self-driving-ai"
-    ampWebUrl: "https://www.foxbusiness.com/technology/uncrashable-cars-luminar-ceo-seeing-results-in-development-of-self-driving-ai.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/uncrashable-cars-luminar-ceo-seeing-results-in-development-of-self-driving-ai.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 54
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/fdbaa316-de0c-47a5-bd7c-b24af9c898c5/06b7e4f9-1b98-4f9d-9345-56d743fc28f4/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "China data rules to squeeze overseas development of self-driving tech"
     excerpt: "China's new rules on the handling of automotive data will take effect Oct. 1 and build a barrier against foreign companies from accessing driving records and onboard images, a move that will hamper their own efforts to advance self-driving technology."
     publishedDateTime: 2021-08-21T16:26:00Z
