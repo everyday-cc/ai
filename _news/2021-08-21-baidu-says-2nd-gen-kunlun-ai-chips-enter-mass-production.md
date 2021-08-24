@@ -103,6 +103,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Baidu’s AI voice assistant Xiaodu closes funding at $5.1 billion valuation"
+    excerpt: "Chinese tech giant Baidu Inc said on Tuesday its artificial intelligence (AI) voice assistant Xiaodu Technology has closed Series B financing at a $5.1 billion valuation. This comes in the midst of a regulatory crackdown on the tech industry by the Chinese authorities that has led to an upheaval in many sectors including"
+    publishedDateTime: 2021-08-24T11:09:00Z
+    webUrl: "https://www.metro.us/baidus-ai-voice-assistant/"
+    ampWebUrl: "https://www.metro.us/baidus-ai-voice-assistant/amp/"
+    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/baidus-ai-voice-assistant/amp/"
+    type: article
+    provider:
+      name: Metro US
+      domain: metro.us
+    quality: 55
+    images:
+      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEH7N0FF-BASEIMAGE.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Baidu World 2021: Level 5 autonomous car and mass production of its AI chip announced"
     excerpt: "During the Baidu World 2021 held on August 18, the Chinese technology giant unveiled its prototype autonomous vehicle. According to the firm, the car would have an autonomy of level 5 SAE, the highest level that exists."
     publishedDateTime: 2021-08-20T13:54:00Z

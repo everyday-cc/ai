@@ -55,6 +55,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Why the feds are investigating Tesla's Autopilot and what that means for the future of self-driving cars"
+    excerpt: "It’s hard to miss the flashing lights of fire engines, ambulances and police cars ahead of you as you’re driving down the road. But in at least 11 cases in the past three and a half years, Tesla’s Autopilot advanced driver-assistance system did just that."
+    publishedDateTime: 2021-08-23T17:03:00Z
+    webUrl: "https://www.chron.com/news/article/Why-the-feds-are-investigating-Tesla-s-Autopilot-16405074.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Why-the-feds-are-investigating-Tesla-s-Autopilot-16405074.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Why-the-feds-are-investigating-Tesla-s-Autopilot-16405074.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 42
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
 
 secured: "gfnnB7lAbnvtHIAF+I+2ZQg16cwsCayDUIvhaiCD9C9uJpbDw7f/qGXvFcrBzlwnfZNotEzgraFNTx8slKHsrJSORkXZIkjq1GtkF2h0amfqj4HldruyuECGisefp5Cc8cKVciC6uXV1T9pRMWD1YpoCCf+aqR0b1yWOGnLeU+Fsu6GZN9W0bKAS3vkyE/Ili66JgV8e25vj10yhWRUGdMY2lnba7JAZDjBK2PdccvXvw2Aq1GsDG0/2vfeg2RKcqBEAlS6/Mtkw0f0YK6mLam5rCtVY6uFsAYDB0StjYR0Eh1eUlOJENFooocmvfaMvUChC4ezgfkriuYegf+HcNlahh+qqgXjkE8PmIF7FDBhUIBr4XOCsi3TG9Ynei1p3eWYcZSZnA4qgwnFibicsGzfAfn2i+Nx4FUK7G5bkxR1ATzAIgp4KbfgjwhHp/6gVRmsSOCvhSZ4e7S0IGjhpTuytqnK9fYwV62pvCDQVmT/Ik8hghlFb6tLksw8vwLEXKWtBrSRLGV/ek5vo6Q64FA==;BKXO3wEVN5TERwNNjmt62A=="
 ---

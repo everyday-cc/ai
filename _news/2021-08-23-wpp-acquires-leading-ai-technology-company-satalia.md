@@ -1,18 +1,18 @@
 ---
 category: news
 title: "WPP Acquires Leading AI Technology Company Satalia"
-excerpt: "WPP (NYSE: WPP) today announces that it has acquired Satalia, a technology company offering market-leading AI solutions for clients. Satalia is a glob"
-publishedDateTime: 2021-08-23T16:30:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210823005340/en/WPP-Acquires-Leading-AI-Technology-Company-Satalia"
-webUrl: "https://www.businesswire.com/news/home/20210823005340/en/WPP-Acquires-Leading-AI-Technology-Company-Satalia"
+excerpt: "WPP (NYSE: WPP) today announces that it has acquired Satalia, a technology company offering market-leading AI solutions for clients. Satalia is a global leader in enterprise AI and one of the UK's fastest-growing tech companies,"
+publishedDateTime: 2021-08-23T12:36:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-wpp-acquires-leading-ai-technology-company-satalia-/2021/08/23/9435355.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-wpp-acquires-leading-ai-technology-company-satalia-/2021/08/23/9435355.htm"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Ethics
@@ -186,6 +186,6 @@ related:
       domain: mrweb.com
     quality: 19
 
-secured: "H4P89n857WQjaHFA+HxWp9ikpWOm2Ie5bj56wHpIgmkZ+pArpRit7eSwdYJDi1jhksZBxDfL3nGNZxyMk8qEbN9NJ4G1tYNKWQ9gpY1N+dVCVDuLykdvGIHNaq1o9tc+7MSVhXWejYXcYFzIFXR30ZxO4D4fKWkt97e7TLB4XJLy38OaDS0m3PMgVuxaZcl4PF1nlZ5A0JvXNH2XlyUU4efTlAd7n6Z5i7/1Gf+9CjhBi57ka9jKcHdAHflzwRiHQQKarjv3v1l0LBeGP08a9eZ1bT3M5EgUpWfjhWuV/PWl2u0tM21S1BFh76zsxPtpOxWJ63coBdL8VoCENQ8ihm9P4l1bbGsNeYatMtMV83s=;RQA98vQcTyIVB9oeTVA5Fw=="
+secured: "5MCx2zUNeIsK1lmUOq4hN3BNsECAq6Qz9Ii5bK36W6zxUXstfOZJxvbBjVVpsMU0AgvuIlgWb5Oa4TAujIQjq0yihE/FGPvCsbS8S0K1ZcWuEZ//BZSmP6355TEx0OnmMepOqfh27JG5TcoxlB7umHyIMB3COpABEmL7oyKOdU1y5cHv3I9034AFBX067/weO933b1ViidnolETFXhXj9L1gTue9KIZcs9WjmZsu9BnudqwBwzLLUn6153iKeLPdEWm5n6OPRf9v3yN2mWXmO2/3jORo+3E1J6luPh3QXZBpVFk3BgF8Wso27wmnxaBLnbMoMDys3zt0T+XRKhUi/R1/+RTx7+1Hes98h1Hexgc=;1Tgu7Qg1mjWwg0Tw8LEYcg=="
 ---
 

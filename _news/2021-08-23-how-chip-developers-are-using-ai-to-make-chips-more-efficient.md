@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/how-chip-developer
 webUrl: "https://markets.businessinsider.com/news/stocks/how-chip-developers-are-using-ai-to-make-chips-more-efficient-1030752905"
 type: article
 quality: 84
-heat: 85
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -27,6 +27,24 @@ images:
     width: 1024
     height: 768
     isCached: true
+
+related:
+  - title: "Looking Beyond Automation And Efficiency: AI For Social Good"
+    excerpt: "What's often missing from the AI dialogue is a crucial component of AI and its future: the social good that it can (and has) done."
+    publishedDateTime: 2021-08-24T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/08/24/looking-beyond-automation-and-efficiency-ai-for-social-good/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/08/24/looking-beyond-automation-and-efficiency-ai-for-social-good/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/08/24/looking-beyond-automation-and-efficiency-ai-for-social-good/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6076f18320d68a60ca2eb02c%2F0x0.jpg"
+        width: 1200
+        height: 839
+        isCached: true
 
 secured: "F1NediEz54ktj+l/tPcBT9hV9D6EEh7ufpBUUEZ+MfLSnBQXqb4ogxT37r+cAhdBEFSD88ipDffAMSyjCdAQh66s7fciKomt7vnOzjsLWNebqVWpHtXFzQVvM860x6nWiLbII3XCx23qqgq342TaLMnfC4RzCONJtUElXQ2Ul5r2igsdcFxhiPz7w+MPyqcsTmVgsLQ5tgfeY1GT0CG6SGx6lg3T/sWkohUYeX3A81Pdf45DTcNzMF8w3Wn0ObI9wRM0kRTnbCM8nI7Y7jBP+z9ygUO67FD8u+ZOO1vW6JNJxyiiq0t7syXJ/3FQYuk+3YRx+3Qm8sXWafCgJkGTLGMy7OqjEmzTqZ9fbokZFpewVd2cf0zpLnCBe9Pz0+Fa6NwMnDnuIIVGSAmyTu8ZxQeMllb24UW57ZlIaW9eM+0EIsF2Eu04l/2euyNFuiHfQ4YvQtHP2wSFKM6KgJ0NrNz69LgIxWO8NmRHELv1/Wt4hQF2HbBNde8hyFfCm3wRsyHBVtXyJqpSF+4xl2Itew==;Nek3YsbkbxAzrbE9BXHmFQ=="
 ---

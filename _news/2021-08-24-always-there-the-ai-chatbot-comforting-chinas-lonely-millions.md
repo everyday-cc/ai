@@ -1,29 +1,30 @@
 ---
 category: news
 title: "'Always there': the AI chatbot comforting China's lonely millions"
-excerpt: "Instead, Melissa breaks up the isolation of urban life with a virtual chatbot created by XiaoIce, a cutting-edge artificial intelligence system designed to create emotional bonds with its 660 million users worldwide."
-publishedDateTime: 2021-08-24T07:39:00Z
-originalUrl: "https://gulfnews.com/technology/always-there-the-ai-chatbot-comforting-chinas-lonely-millions-1.1629786246255"
-webUrl: "https://gulfnews.com/technology/always-there-the-ai-chatbot-comforting-chinas-lonely-millions-1.1629786246255"
-ampWebUrl: "https://gulfnews.com/amp/technology/always-there-the-ai-chatbot-comforting-chinas-lonely-millions-1.1629786246255"
-cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/technology/always-there-the-ai-chatbot-comforting-chinas-lonely-millions-1.1629786246255"
+excerpt: "After a painful break-up from a cheating ex, Beijing-based human resources manager Melissa was introduced to someone new by a friend late last year."
+publishedDateTime: 2021-08-24T07:48:00Z
+originalUrl: "https://techxplore.com/news/2021-08-ai-chatbot-comforting-china-lonely.html"
+webUrl: "https://techxplore.com/news/2021-08-ai-chatbot-comforting-china-lonely.html"
+ampWebUrl: "https://techxplore.com/news/2021-08-ai-chatbot-comforting-china-lonely.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-ai-chatbot-comforting-china-lonely.amp"
 type: article
-quality: 59
-heat: 99
+quality: 61
+heat: 101
 published: true
 
 provider:
-  name: Gulf News
-  domain: gulfnews.com
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
-  - AI Ethics
+  - AI in Healthcare
   - AI
+  - AI Ethics
 
 images:
-  - url: "https://imagevars.gulfnews.com/2021/08/24/20210824-melissa_17b770f16c0_medium.jpg"
-    width: 540
-    height: 405
+  - url: "https://scx2.b-cdn.net/gfx/news/2021/xiaoice-has-pioneered.jpg"
+    width: 1024
+    height: 681
     isCached: true
 
 related:
@@ -88,6 +89,6 @@ related:
         height: 250
         isCached: true
 
-secured: "JXtA9TVjtOtCRZdqyBSZwMppP0YKlHwrpr7G2urorGxw2jK2xkEjx9Boy0HOULYciRTDvYA0Lm3Kob5wuBJpuXCLcfoS6Nz0g2cu7OYmFQnVzq7rL4kLasslsZ+IdDLCKqE3yt1uop4WBoaJIpYIk/rn2ZcZINdDefMJLPAZtodSopwOcrh9gp6MEAumoAhFPfkiyIgEJG5+UOZN2dSsc0WpwKGjWyZlOweZVK9iI+Nb4Y4bQ243nQFaS6Egg3Zdp04K/HvAKYB7zfCbHVFUDg6agykVlLPReEImB+WpWBBdKWCPQRVYV6vJEgqvO+YOcXBYNHHun/Q337H1NyXPzrpUuoD+eE/Gv+Yk1e3MQug=;QUN4+Wx5IGxQjWguz0S2Sw=="
+secured: "0TxTXSB4gvw5QprFdDTVJJM4aovAGicVx9tKpxFG0wOE2od4bu+PwgzK8X7TJ7nXgHWbww5eD5CDZuIBivtFc+GJlpNQ0kZBlCgIrOP0LSNWfOeX0va/jx10CH9E03NbM6SS7xWOJblJlPR4av3m6cYOsupnF8JtlJMDU4bDAeZEk7NQtRgHzXLeMh7RME28ud3TQrlmUb7IEkm0Q+6VAcZ+TLbHHuThgc4NSxBIxMDuMEEQKrZ25tS++dvFJ7yRNGwqx8gm4SRbxV9qoo/e/OQh3avjeVEsV/ccBXuBZEo6LpAeW2jjjqtTfgSms93a8tVqqStPNIMktNU902e01SNQXrwOj6Lkqu8N5EVh2ds=;FRsOAiZKfgzKjXlui3loZw=="
 ---
 

@@ -1,0 +1,81 @@
+---
+category: news
+title: "Harnessing Conversational Voice AI In The E-Commerce Industry"
+excerpt: "Brands are looking to leverage conversational voice AI to automate large-scale conversations for better cost savings, greater customer experience and higher sales revenue."
+publishedDateTime: 2021-08-24T11:45:00Z
+originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/24/harnessing-conversational-voice-ai-in-the-e-commerce-industry/"
+webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/24/harnessing-conversational-voice-ai-in-the-e-commerce-industry/"
+ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/24/harnessing-conversational-voice-ai-in-the-e-commerce-industry/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/24/harnessing-conversational-voice-ai-in-the-e-commerce-industry/amp/"
+type: article
+quality: 89
+heat: -1
+published: false
+
+provider:
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Natural Language Processing
+  - AI
+
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6093fd55351bd3c313dd77be%2F0x0.jpg"
+    width: 1200
+    height: 800
+    isCached: true
+
+related:
+  - title: "Virtual dressing room startup Revery.ai applying computer vision to the fashion industry"
+    excerpt: "Revery.ai is developing a tool that leverages computer vision and artificial intelligence to create a better online dressing room experience."
+    publishedDateTime: 2021-08-23T12:30:00Z
+    webUrl: "https://techcrunch.com/2021/08/23/virtual-dressing-room-startup-revery-ai-applying-computer-vision-to-the-fashion-industry/"
+    ampWebUrl: "https://techcrunch.com/2021/08/23/virtual-dressing-room-startup-revery-ai-applying-computer-vision-to-the-fashion-industry/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/23/virtual-dressing-room-startup-revery-ai-applying-computer-vision-to-the-fashion-industry/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 95
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/08/GettyImages-969952548.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "AI startup Boomy looks to turn the music industry on its ear"
+    excerpt: "AI-based music making startup Boomy offers amatuer and professional musicians alike an easy means of generating new tunes (and new royalty revenue streams).."
+    publishedDateTime: 2021-08-22T16:42:00Z
+    webUrl: "https://www.engadget.com/ai-music-startup-boomy-looks-to-turn-the-record-industry-on-its-ear-190037786.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 67
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-08/89af2c20-01e5-11ec-be3c-7957cb2328c7"
+        width: 5120
+        height: 2880
+        isCached: true
+  - title: "How AI is Revolutionizing the Freight Industry"
+    excerpt: "In this contributed article, Oleg Yanchyk, CIO of Sleek Technologies, discusses how AI is shaking up the logistics space and what could lay on the horizon. From making business intelligence decisions more agile to ensuring data is clean and ready to be analyzed,"
+    publishedDateTime: 2021-08-20T13:00:00Z
+    webUrl: "https://insidebigdata.com/2021/08/20/how-ai-is-revolutionizing-the-freight-industry/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 37
+    images:
+      - url: "https://insidebigdata.com/wp-content/uploads/2018/09/artificial-intelligence-3382507_640.jpg"
+        width: 640
+        height: 426
+        isCached: true
+
+secured: "9g8ciscXLnpno3T473Vhi4B9Y+41zcDP0niAB7Fq7KPjEM5Kxckb9ysIrielEooHd9yMTXc4eXuauoCRh9/xokgFTdIAABN/cQ/WQdRw1o1xp5fkMJrEcHu6gn7CDCy4aVzp3tYaaglVCXdJUYvmCONjm+i2ouuZ7olPurX6DZ5dGvTJQ5rBLGECmqH7FdcMnABSSDZ+7Lglujt/Y6jLIKT2BF8ZMlXDQ3woyz8utc5IW7kpmCpkhFFBduClrVIzRJp99am1tXHianHkJkaOFPQnLoenJ5CqrLzpJXQhbDQ5YuYnPCRsSWUcdV8HWEIqhVv5AxFGEQmnUQYZkhVBdCzrrsItt8O8VUkRtatveCA=;LxAK5xAct+4rTtVE6EoYoQ=="
+---
+

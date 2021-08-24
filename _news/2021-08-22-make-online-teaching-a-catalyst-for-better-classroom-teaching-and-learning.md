@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Remote sensing and machine learning reveal Archaic shell rings"
-    excerpt: "Deep in the dense coastal forests and marshes of the American Southeast lie shell rings and shell mounds left by Indigenous people 3,000 to 5,000 years ago. Now an international team of researchers, using deep machine learning to assess remote sensing data,"
-    publishedDateTime: 2021-08-19T19:00:00Z
-    webUrl: "https://phys.org/news/2021-08-remote-machine-reveal-archaic-shell.html"
-    ampWebUrl: "https://phys.org/news/2021-08-remote-machine-reveal-archaic-shell.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-08-remote-machine-reveal-archaic-shell.amp"
+  - title: "Machine learning links material composition and performance in catalysts"
+    excerpt: "In a finding that could help pave the way toward cleaner fuels and a more sustainable chemical industry, researchers at the University of Michigan have used machine learning to predict how the compositions of metal alloys and metal oxides affect their electronic structures."
+    publishedDateTime: 2021-08-23T16:36:00Z
+    webUrl: "https://phys.org/news/2021-08-machine-links-material-composition-catalysts.html"
+    ampWebUrl: "https://phys.org/news/2021-08-machine-links-material-composition-catalysts.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-08-machine-links-material-composition-catalysts.amp"
     type: article
     provider:
       name: Phys.org
       domain: phys.org
-    quality: 74
+    quality: 58
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/remote-sensing-and-mac.jpg"
-        width: 992
-        height: 554
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/machine-learning-links.jpg"
+        width: 375
+        height: 375
         isCached: true
 
 secured: "REvXR29vnDRhnOAgVk+6UA7Ak+0QLkTegP4SYRRHlvyOoRD5zKn6FvgwnoGk9S1gFgmeO0sS4hRwAvXXBrLT8T6zabrGEh1EVRw8FwxGaoicUwTKAxoGtiBYE9cdqzPu7bQdzjoCcVql4A7ylQEuVHuTf7v9NOQIJFXTMsHye3MaFqXbZW5GGd2KoRvBl2XObNKqqF2y6OH7lVlblQV5rjk/GO3Dfwru3x9x1UcORvS3ED/6E3LzIAe1Gstv97NXnnho9FkGWGBfsIoCMW1v7cDdumXakDVYQigZtECKHtRnoZtSpprha8FZ48Pb9y+tFQFrkKKFGbrrJ/9tDYzXloCjtiUx0hfqEiYvY52y/h/u+AFgXSoRub3yGGReuw4RsXC0mcAG9vXIZRv0W3YXqOyyaItU5arIWbfev3qO25NKYmLA++BGuhrnUjTOvYkneFeemKjKulb8roEurBsM8zYrNdkQ38Oqy8XchDMdQ9YL0PUhBB7VD3n+yieVtNiHmZW9OZ1qra6jzeGufvQE2Q==;AvVk6c2YzMuYOFUKrVe4eA=="

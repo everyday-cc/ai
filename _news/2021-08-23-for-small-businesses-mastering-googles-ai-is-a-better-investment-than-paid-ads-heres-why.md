@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/08/22/for-small-busines
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/08/22/for-small-businesses-mastering-googles-ai-is-a-better-investment-than-paid-adsheres-why/amp/"
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://i2.wp.com/gadget.co.za/wp-content/uploads/2019/05/action-artificial-intelligence-device-595804-scaled.jpg?resize=1000%2C600&#038;ssl=1"
         width: 1000
         height: 600
+        isCached: true
+  - title: "Feed uses AI for social advertising on small budgets"
+    excerpt: "UK-based startup Feed wants to help marketers on smaller budgets, including music artists and labels, get more out of their Facebook and Instagram advertising. The company says that once connected to these social profiles it “figures out which of your posts get the best response,"
+    publishedDateTime: 2021-08-24T10:30:00Z
+    webUrl: "https://musically.com/2021/08/24/feed-ai-social-advertising/"
+    type: article
+    provider:
+      name: Music Ally
+      domain: musically.com
+    quality: 37
+    images:
+      - url: "https://musically.com/wp-content/uploads/2021/08/feed.jpg"
+        width: 1500
+        height: 500
         isCached: true
 
 secured: "Cunr0TapsZqdkycVQjuNn6fMb27gjhq3XohyNfhLd4HZyK/DAUzf+acqseVFTTeXkL033q7g3kFdIIOgvLPf2vbzMcP7IvXTgxww9Oe0+ZcSwvfTupAJtXn4pVBabWGhwlBTl/Og2M9yEbTpHUvBfbxn7kaqgKf0yHCsNNvGAmqxfwtLtLg/2zRjNTHTyN1DmIBXhNG5AHLxstQYJEAyXAlLiU+BdeYL0YC0HPLl/XpdU4wlWLqlLu080yd2epOUP+IN2+S+9LZRu1mE5oBd7YjFq/ZbhsC9MEtE29OU/cX6fOv+x29NJ7MHYJyngTCeUdbIzPA+oZsMP14y6An0KPeT9zrghbG2QZVUsUn/8nl+IRq3X6Mhb/+rz3gJge4XMD2v69XfeiuzrF9lV5Fkm11obhFYY/m+UuFpgSiK0cVcQOY3ykNN9xExqaq5TEGFgccvVIihJfp95BRY824fp38tAdD8iCedmvvmMArCp1N0rTNGixFDQ9NCZCZc1cxPzjvYe/51mD5MFke31mFAqg==;ExlXvyjXBZleQhQOWLZDlA=="

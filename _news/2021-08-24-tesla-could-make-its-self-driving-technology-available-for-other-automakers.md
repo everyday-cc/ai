@@ -52,6 +52,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
+  - title: "Why the feds are investigating Tesla's Autopilot and what that means for the future of self-driving cars"
+    excerpt: "It’s hard to miss the flashing lights of fire engines, ambulances and police cars ahead of you as you’re driving down the road. But in at least 11 cases in the past three and a half years, Tesla’s Autopilot advanced driver-assistance system did just that."
+    publishedDateTime: 2021-08-23T17:03:00Z
+    webUrl: "https://www.chron.com/news/article/Why-the-feds-are-investigating-Tesla-s-Autopilot-16405074.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Why-the-feds-are-investigating-Tesla-s-Autopilot-16405074.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Why-the-feds-are-investigating-Tesla-s-Autopilot-16405074.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 42
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
 
 secured: "gCS26ivNNIHIOZgsQRHoNbK6C+AyIXc0toL+PyvC8e/C5068WICvIrx28gh4TBNWO2Zh0Lm1LyDmrTV7HWNexm4QnJBJ0hCbiq4epJdR5Q/uTh0/tqOrtBzSK8OlMkLY/G3mlG9ls12yP//9hl0BI43v6iiuMOqegE/0LYMfeiYGWvVUxGW80j9tZUwFp6gPqVqMYfuGNq6ClEQAVSFvBIxazRBAeEC1lhXIlDoLFvfc9uyZTmoJk+F94T0/yqg8LpScly+qYLkrQ0f9QpRgTE6obHcuEz2rXYai8iH1eNWPH7ljNQhKelPlLkYSwE3EcSEApXeBSyQl8JVQ71JgGJ/TSvrvZY61+7IPakrwCTcTS2jZew2svBiy5zeSOhFeuWGq2fP61Axx+J81Cwx7lB8QGm0gG2BN9se92XblxtJS893Fk3HmjQPlVNsGRzO0szLqxJ0oFewoXMZAvAg7ukKxXJ7UWbmegtC80Ni7rvK8/47dW2llnD3EBhWY+L/d3ZlwQCxMa8TUVmoe1+movA==;oaOC898t10tgGK8u32WoAw=="
 ---

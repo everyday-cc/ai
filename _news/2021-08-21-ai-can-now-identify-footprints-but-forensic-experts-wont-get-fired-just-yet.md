@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/ai-identify-footprints-but-forensic-ex
 webUrl: "https://thenextweb.com/news/ai-identify-footprints-but-forensic-experts-wont-get-fired-syndication"
 type: article
 quality: 63
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI Can Now Detect Your Race Using X-Rays, Experts Don’t Know How Yet"
+    excerpt: "Advertisement Millions are being spent on developing AI software that could translate various medical scans in the expectation that it will one day identify things doctors tend to miss out on. According to a new report,"
+    publishedDateTime: 2021-08-24T09:44:00Z
+    webUrl: "https://wonderfulengineering.com/ai-can-now-detect-your-race-using-x-rays-experts-dont-know-how-yet/"
+    ampWebUrl: "https://wonderfulengineering.com/ai-can-now-detect-your-race-using-x-rays-experts-dont-know-how-yet/amp/"
+    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/ai-can-now-detect-your-race-using-x-rays-experts-dont-know-how-yet/amp/"
+    type: article
+    provider:
+      name: Wonderful Engineering
+      domain: wonderfulengineering.com
+    quality: 59
+    images:
+      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/08/Biz_xray_GettyImages-155601937.jpg"
+        width: 2400
+        height: 1800
+        isCached: true
   - title: "We trained AI to recognise footprints, but it won't replace forensic experts yet"
     excerpt: "We rely on experts all the time. If you need financial advice, you ask an expert. If you are sick, you visit a doctor, and as a juror you may listen to an expert witness. In the future, however, artificial"
     publishedDateTime: 2021-08-22T01:44:00Z

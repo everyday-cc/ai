@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sify.com/news/next-therapy-for-covid-maybe-be-at-your-lo
 cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/next-therapy-for-covid-maybe-be-at-your-local-pharmacy-news-international-viugkeiacdhij.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "Good news! Next therapy for Covid maybe be at your local pharmacy"
+    excerpt: "Several drugs that are already in use for other purposes, including one dietary supplement, have shown to block or reduce infection by SARS-CoV2, the virus causing Covid-19, in cells, researchers have found."
+    publishedDateTime: 2021-08-22T01:30:00Z
+    webUrl: "https://www.orissapost.com/good-news-next-therapy-for-covid-maybe-be-at-your-local-pharmacy/"
+    ampWebUrl: "https://www.orissapost.com/good-news-next-therapy-for-covid-maybe-be-at-your-local-pharmacy/"
+    cdnAmpWebUrl: "https://www-orissapost-com.cdn.ampproject.org/c/s/www.orissapost.com/good-news-next-therapy-for-covid-maybe-be-at-your-local-pharmacy/"
+    type: article
+    provider:
+      name: orissapost.com
+      domain: orissapost.com
+    quality: 59
+    images:
+      - url: "https://www.orissapost.com/wp-content/uploads/2021/01/Medicines.jpg"
+        width: 710
+        height: 421
+        isCached: true
   - title: "Next therapy for Covid maybe be at your local pharmacy"
     excerpt: "Several drugs that are already in use for other purposes, including one dietary supplement, have shown to block or reduc"
     publishedDateTime: 2021-08-21T06:00:00Z

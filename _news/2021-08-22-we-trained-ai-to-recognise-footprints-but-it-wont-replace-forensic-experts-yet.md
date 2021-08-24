@@ -38,6 +38,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "AI Can Now Detect Your Race Using X-Rays, Experts Don’t Know How Yet"
+    excerpt: "Advertisement Millions are being spent on developing AI software that could translate various medical scans in the expectation that it will one day identify things doctors tend to miss out on. According to a new report,"
+    publishedDateTime: 2021-08-24T09:44:00Z
+    webUrl: "https://wonderfulengineering.com/ai-can-now-detect-your-race-using-x-rays-experts-dont-know-how-yet/"
+    ampWebUrl: "https://wonderfulengineering.com/ai-can-now-detect-your-race-using-x-rays-experts-dont-know-how-yet/amp/"
+    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/ai-can-now-detect-your-race-using-x-rays-experts-dont-know-how-yet/amp/"
+    type: article
+    provider:
+      name: Wonderful Engineering
+      domain: wonderfulengineering.com
+    quality: 59
+    images:
+      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/08/Biz_xray_GettyImages-155601937.jpg"
+        width: 2400
+        height: 1800
+        isCached: true
 
 secured: "qza8KavxiCClNmQKrHrpnoluyb56P/86xN9bHUyDzpIstDDuaoq8VamjIsfXmsTKWyuCeifomWrP/l/AYsL2+n2PBbx8tLCejirk9VeqhxmlgYtQnzQUoh+DyH9CoLfpGYQ5ahiP7S+wDAoLRLzNke4zNJIn+GRsi9ct49/iKALk9thsOSJxKTcLVUBZCu7cI0rfhxSt/Ffe5iEbwgxJ4QtFeW11x/qykzu5tOQxbrmaIEHB5Wb6l0Qt4uJsynj9IVWfypo+sy8TzHBO6xI+ADYSgQxie1A71Lz537TTwkfKmk0eBI0qUNLz8VGloWYH2aL8qnHVxLXYE0MjPMHYs/75sEC8Kvt34GILCwWcNTfW6jDDaElnODsGVjVTF19Z7lMNs/R6EJaqH1FJnB4jch6sdfIzQXgeohJHJKa3J1IeFxohzk8QtY5wGwubSulELpXOIOBdGKwvAnCqPB0pCdnlP/g6ooulP14Pbn3lRoEKULlUtXk119UgL7f7v4+11rf9reZtJ8BgEWFDdd2G4A==;DH3McW0M3eL36oYyxxfQZQ=="
 ---

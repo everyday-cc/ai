@@ -9,7 +9,7 @@ ampWebUrl: "https://auto.hindustantimes.com/auto/news/tesla-ai-day-ev-maker-show
 cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/tesla-ai-day-ev-maker-shows-improved-self-driving-tech-for-autopilot/amp-41629439031382.html"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -52,6 +52,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
+  - title: "Why the feds are investigating Tesla's Autopilot and what that means for the future of self-driving cars"
+    excerpt: "It’s hard to miss the flashing lights of fire engines, ambulances and police cars ahead of you as you’re driving down the road. But in at least 11 cases in the past three and a half years, Tesla’s Autopilot advanced driver-assistance system did just that."
+    publishedDateTime: 2021-08-23T17:03:00Z
+    webUrl: "https://www.chron.com/news/article/Why-the-feds-are-investigating-Tesla-s-Autopilot-16405074.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Why-the-feds-are-investigating-Tesla-s-Autopilot-16405074.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Why-the-feds-are-investigating-Tesla-s-Autopilot-16405074.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 42
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
 
 secured: "GGGMJXUbBR8mTUew/fgl702p1dfeLURW72BlaPHww8zBxCrNLSvo42SSI9fFWnmGBz8HFf5MFgRLRI/UoBXWDvN65JpP7E2s9KWcVBRc/yQGw5DZVEvgWgrlQYg7M7tShMvOEGSqWA2Yyb51RvD08wUY501F5Fxs/96ZZM98papIWcpZrCx2QBntXD03HIKDUHWzG0F6Bk/G/HF0nnsqqLTPtokzjl3w7t5nWVUdRJm2iKXM9KUVScX549CJ41wdlmWellqtIzYCBdrujoCiIfIAPSygzZMTYuH6ksdQcy62S5yG9uPLzBdbEJ3maQMsm15voArmMn7hv0QZcDpkMdP0kQ/SaIXQiKRWwkFX6ds=;VMZAQnMedMehc0EcXluO0A=="
 ---

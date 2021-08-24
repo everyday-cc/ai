@@ -26,20 +26,20 @@ images:
 
 related:
   - title: "'Always there': the AI chatbot comforting China's lonely millions"
-    excerpt: "Instead, Melissa breaks up the isolation of urban life with a virtual chatbot created by XiaoIce, a cutting-edge artificial intelligence system designed to create emotional bonds with its 660 million users worldwide."
-    publishedDateTime: 2021-08-24T07:39:00Z
-    webUrl: "https://gulfnews.com/technology/always-there-the-ai-chatbot-comforting-chinas-lonely-millions-1.1629786246255"
-    ampWebUrl: "https://gulfnews.com/amp/technology/always-there-the-ai-chatbot-comforting-chinas-lonely-millions-1.1629786246255"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/technology/always-there-the-ai-chatbot-comforting-chinas-lonely-millions-1.1629786246255"
+    excerpt: "After a painful break-up from a cheating ex, Beijing-based human resources manager Melissa was introduced to someone new by a friend late last year."
+    publishedDateTime: 2021-08-24T07:48:00Z
+    webUrl: "https://techxplore.com/news/2021-08-ai-chatbot-comforting-china-lonely.html"
+    ampWebUrl: "https://techxplore.com/news/2021-08-ai-chatbot-comforting-china-lonely.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-ai-chatbot-comforting-china-lonely.amp"
     type: article
     provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 59
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 61
     images:
-      - url: "https://imagevars.gulfnews.com/2021/08/24/20210824-melissa_17b770f16c0_medium.jpg"
-        width: 540
-        height: 405
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/xiaoice-has-pioneered.jpg"
+        width: 1024
+        height: 681
         isCached: true
   - title: "BPCL launches AI-enabled chatbot Urja"
     excerpt: "With the objective of making BPCL’s customer interface comprehensive and integrated digitally, Urja, the chabot is now available on the company website for any queries for both B2B & B2C"

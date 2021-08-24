@@ -2,9 +2,9 @@
 category: news
 title: "Yamaha field robots to predict harvest yield in wine grapes"
 excerpt: "Australian company The Yield and technology giant Yamaha Motor Co. will start a trial with robots later this year in the vineyards of Australian wine company Treasury Wine Estates. Yamaha’s robots are to optimise wine grape yield prediction."
-publishedDateTime: 2021-08-23T07:30:00Z
-originalUrl: "https://www.futurefarming.com/Machinery/Articles/2021/8/Yamaha-field-robots-to-predict-harvest-yield-in-wine-grapes-779766E/?intcmp=related-content"
-webUrl: "https://www.futurefarming.com/Machinery/Articles/2021/8/Yamaha-field-robots-to-predict-harvest-yield-in-wine-grapes-779766E/?intcmp=related-content"
+publishedDateTime: 2021-08-23T09:00:00Z
+originalUrl: "https://www.futurefarming.com/tech-in-focus/field-robots/yamaha-field-robots-to-predict-harvest-yield-in-wine-grapes/"
+webUrl: "https://www.futurefarming.com/tech-in-focus/field-robots/yamaha-field-robots-to-predict-harvest-yield-in-wine-grapes/"
 type: article
 quality: 39
 heat: 39
@@ -19,11 +19,11 @@ topics:
   - AI
 
 images:
-  - url: "https://www.futurefarming.com/PageFiles/2626/inzetten/002_271_IMG_TheYieldRosHarvey.jpg"
+  - url: "https://www.futurefarming.com/app/uploads/2021/08/IMG_TheYieldrobot2.jpg"
     width: 1080
-    height: 1619
+    height: 721
     isCached: true
 
-secured: "VYuKZxZOQxlKQ6vS4uAmoE2//RvzjRYEeGI5JSaDJmPIHeKs8wQsTl2LZpYK16lndOQTQ96N6tQ4bouEqaMzcHDX/J332goOA5J/sX2TKe/pJ1O28Wz+v497hYFPPK05I+rp4WAAwzh3HJ51Ef6NDnR+SxxOuNvByINA9q9iV6wekuvGneav3nOGoeCgQ5K6WgIJ3SyMTFLVdWMQ/hedPczfBKMhUgGNNGbuxuKyN+H9IONe1siYrA7JH7B9C1LrBG436M9TXrgOxFIP89FVzJaUaMVPg2hx/1dLM7eI7LaTYAxjD093c430rQaOzfyseaWAT0kRHKlgB4L3OE/X3IaM3Fj8GKblWGX5x6ZR1U4=;31Bz4IIugSXKzV2QJXwYsw=="
+secured: "t7irZAZ37m6AAkFm+OyAgX/m32m9eqRZbsxzYgnN+MXEesHwmaf8hW7bat0UGznVqXlPYAks4BUZMg5jSSwy7i6v6yBeJVYjFXgd/g0tkfFgYlXP4eM8R9NaCKtVBw/tdKydWuJyhx/OkO5y3eREZSG8myF7SUMxGEX5JnVLbP+00RlZdsqohHoqVoMMpd/BdTSZnKjocPpl3kSBf72eXHeQxt8LcNc+4S/LXIVqtR8grxV+AYAERI64LAcJKeY92uSCxiUHoGVRBlDfbRoYK7ftasH2sMnM1qA7RO7LgFoYS8ZvANWELGnnbkdUTY7H+2+9tslHXmozgy0hNAAUQe0G3uviTxG7JSd1eQaMCDQ=;9ZElphci5PTzZxtVyxMVAw=="
 ---
 

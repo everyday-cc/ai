@@ -90,6 +90,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Baidu’s AI voice assistant Xiaodu closes funding at $5.1 billion valuation"
+    excerpt: "Chinese tech giant Baidu Inc said on Tuesday its artificial intelligence (AI) voice assistant Xiaodu Technology has closed Series B financing at a $5.1 billion valuation. This comes in the midst of a regulatory crackdown on the tech industry by the Chinese authorities that has led to an upheaval in many sectors including"
+    publishedDateTime: 2021-08-24T11:09:00Z
+    webUrl: "https://www.metro.us/baidus-ai-voice-assistant/"
+    ampWebUrl: "https://www.metro.us/baidus-ai-voice-assistant/amp/"
+    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/baidus-ai-voice-assistant/amp/"
+    type: article
+    provider:
+      name: Metro US
+      domain: metro.us
+    quality: 55
+    images:
+      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEH7N0FF-BASEIMAGE.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Baidu says 2nd-gen Kunlun AI chips enter mass production"
     excerpt: "BEIJING, Aug 18 (Reuters) – Chinese tech giant Baidu said on Wednesday it had begun mass-producing second-generation Kunlun artificial intelligence (AI) chips, as it races to become a key player in the chip industry which Beijing is trying to strengthen."
     publishedDateTime: 2021-08-21T11:53:00Z

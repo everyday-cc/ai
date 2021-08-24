@@ -55,16 +55,19 @@ related:
         height: 872
         isCached: true
   - title: "The Role of Artificial Intelligence (AI) in the Global Agriculture Market 2021 - ResearchAndMarkets.com"
-    excerpt: "Market in Agriculture Industry Market 2021-2025\" report has been added to ResearchAndMarkets.com's offering. The"
-    publishedDateTime: 2021-08-23T15:15:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/08/b22619012/the-role-of-artificial-intelligence-ai-in-the-global-agriculture-market-2021-researchandmarkets-co"
-    ampWebUrl: "https://www.benzinga.com/amp/content/22619012"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22619012"
+    excerpt: "Market in Agriculture Industry Market 2021-2025” report has been added to ResearchAndMarkets.com’s offering. The artificial intelligence (AI) market in the agriculture industry is poised to grow by $458."
+    publishedDateTime: 2021-08-23T15:16:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-science-agriculture-artificial-intelligence-e006f4c80d694418bfd5b2b93e113947"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: Associated Press
+      domain: apnews.com
     quality: 36
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "UADuE6aiG/msyT+uJi8Rg08xUgKhVjRHhXfR+1m2Ov7SlPUtVUlQ+kerzp5bSAx57GwPQPVB7kzq/F5ZlMHyYCF22yZl6Bv0l9l08pNpbUCENlV/FXSaR5qPCRrXB2WiEPc09pDhQmRFhDeey8oUD5JcnV8CCP8UuV19AYvCAv7HBqxTLD9RgEdhzUGJ7VoTemcR7yTngMSpOeB7P36mA4LVmwt22OZRzlRYfiBhHlTGp2rxh8+/JIbmrJ0ERjOia1i3g8PKSNKvg4eig1n2/pl/OhTV+wL6foSHVtRE343XlVYn0UTf8iEmPgObBgMwkiFLq3OH5S0c6FDBFxq6c3kXHLw5DuoonJCLEYoEIZQ=;svoUnh36VC9TjKSOt4aYfQ=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://bloncampus.thehindubusinessline.com/b-learn/how-ai-is-used-i
 cdnAmpWebUrl: "https://bloncampus-thehindubusinessline-com.cdn.ampproject.org/c/s/bloncampus.thehindubusinessline.com/b-learn/how-ai-is-used-in-remote-hiring/article36062276.ece/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Business Line
@@ -41,20 +41,6 @@ related:
       - url: "https://static.toiimg.com/thumb/85581209.cms?resizemode=4&width=400"
         width: 400
         height: 300
-        isCached: true
-  - title: "Here’s How Val Kilmer Recreated His Speaking Voice Using Artificial Intelligence"
-    excerpt: "Val Kilmer lost his voice during his battle with throat cancer, but now he's recreated his speaking voice in an special way."
-    publishedDateTime: 2021-08-19T17:40:00Z
-    webUrl: "https://www.cheatsheet.com/entertainment/val-kilmer-recreated-speaking-voice-using-artificial-intelligence.html/"
-    type: article
-    provider:
-      name: The Cheat Sheet
-      domain: cheatsheet.com
-    quality: 32
-    images:
-      - url: "https://www.cheatsheet.com/wp-content/uploads/2021/08/Val-Kilmer-at-the-United-Nations-headquarters-1200x878.jpg"
-        width: 1200
-        height: 878
         isCached: true
 
 secured: "YBE7nVP2eLARjyiTdbbs9D5NSD6NAEwVMV3mqvYplcoBv7RVdKBMeJ2NI6V/S59EuqtVXOsA0gAoOdP+NLF2K1f2pKRSJdf/4l9GQ1yW1R8VHNsjK50IlMoLpLgwyivDZeNStyP/pJ/7tUMQLPN8TGwiK4nTa0WJi9vDX5pA3i/5RjTSjXH6JhOTPuycG0AY4VFqtBSYT1iawjGKNHyt8zg90RDZpzd2p3eJvkwyaP3WAr6OYZwTZzSJtmDnQiqWtxv22o51jX6amYQJbbsofpuGdg+P6u3aIDkEG7SHsbs4dViSlVR18K1BdJlYQPCE+f7tgnssISEWo/s4ojD7s/vD7qV1FsaCel7GL5GGvK4=;ztpMcE5Xnj/OLy0I9iHrAg=="

@@ -27,20 +27,20 @@ images:
 
 related:
   - title: "'Always there': the AI chatbot comforting China's lonely millions"
-    excerpt: "Instead, Melissa breaks up the isolation of urban life with a virtual chatbot created by XiaoIce, a cutting-edge artificial intelligence system designed to create emotional bonds with its 660 million users worldwide."
-    publishedDateTime: 2021-08-24T07:39:00Z
-    webUrl: "https://gulfnews.com/technology/always-there-the-ai-chatbot-comforting-chinas-lonely-millions-1.1629786246255"
-    ampWebUrl: "https://gulfnews.com/amp/technology/always-there-the-ai-chatbot-comforting-chinas-lonely-millions-1.1629786246255"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/technology/always-there-the-ai-chatbot-comforting-chinas-lonely-millions-1.1629786246255"
+    excerpt: "After a painful break-up from a cheating ex, Beijing-based human resources manager Melissa was introduced to someone new by a friend late last year."
+    publishedDateTime: 2021-08-24T07:48:00Z
+    webUrl: "https://techxplore.com/news/2021-08-ai-chatbot-comforting-china-lonely.html"
+    ampWebUrl: "https://techxplore.com/news/2021-08-ai-chatbot-comforting-china-lonely.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-ai-chatbot-comforting-china-lonely.amp"
     type: article
     provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 59
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 61
     images:
-      - url: "https://imagevars.gulfnews.com/2021/08/24/20210824-melissa_17b770f16c0_medium.jpg"
-        width: 540
-        height: 405
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/xiaoice-has-pioneered.jpg"
+        width: 1024
+        height: 681
         isCached: true
   - title: "BPCL launches AI-enabled chatbot Urja"
     excerpt: "With the objective of making BPCL’s customer interface comprehensive and integrated digitally, Urja, the chabot is now available on the company website for any queries for both B2B & B2C"
@@ -89,6 +89,6 @@ related:
         height: 250
         isCached: true
 
-secured: "gUTR1GxBowfUXNY2AC8sRr9Ale+0xz9zlwCBkYNS+POf4uI3k8PNMsax4BbKK2ma+Gh9aKcYSCa5m0dUAA+ctHLEEBgfd/mZNF/VVFn6LLQfc/i+xUAzCxbTpb/69LznECNYuVJYvkVGSFOJpkzYjb60u7glDufL1cu1dkW87U+htvqLx5eWmWuI4NwS/OcUI8rD0ns5z522f4CMAg2pC7dpoNlddgiD+nPAI1j0K+dICYJjfVOPF4KiYI6M/r4+XFKXitkBJkM9SH6rGP6iLXF6AebIZ6lMDOgi8oRD70QQmfUVWjRb6vfZTQ80nshs3NQDcMBt63Kl8tf4KIGG5xBjsLKEL/PQATu1Nj31mmU=;0KegsywMKnM28vF3KKKKbA=="
+secured: "2aBYx5VnityGW8Z3Jv/u/kqW1qj8qOTwVGcXXHzNTaSWgZSfgJRanvbAd/w2egxBIDGBcCLb6ea1/ofsNPIyfjO3HsEIJOPQsQ61VXL5ipH7405tp4p0WDShQ1H6aMARSpAllo7zOSlaTXm/dFfc7vWU6Tbdr+DdOmWl9TmPR4tNtoP39//xTTfH2sy043Glia8GRChQgSXcXqV+kzN1TJ5Z/8jamuJQzklmstn9yeq7vH3PuyHScj2UuwmNb3pMtB+ai2LnOkCz/dQL6mv4yB5x24TkTdCdVcu1RsLfIlOLuRaoz9DWBC8nIUhdyB2ujSeSDVzf8frjjTAGLE1vFOq3KuEuMB4JhWbiXEd/4+P7tMv06NEZg7+puRzYFKA1/bAFeRn8P9aKJtBN09SEbSXH0Y4h5tn3fdddyvLyjuI+/sTJ6R9PNjlBfKfuTKu5svRGyPRCo7YaehJr4wfrHfbO8qCXkdV1eG/SXnYfbSqwskUjmByv0fMmVpE7cVD83W6CJ1V8VH1RLwqeIbEDnQ==;X64jE2+djz2mV4q/g3g5nQ=="
 ---
 

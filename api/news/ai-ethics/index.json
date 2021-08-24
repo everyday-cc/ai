@@ -4,19 +4,19 @@
     {
       "path": "_news/2021-08-24-always-there-the-ai-chatbot-comforting-chinas-lonely-millions.md",
       "title": "'Always there': the AI chatbot comforting China's lonely millions",
-      "excerpt": "Instead, Melissa breaks up the isolation of urban life with a virtual chatbot created by XiaoIce, a cutting-edge artificial intelligence system designed to create emotional bonds with its 660 million users worldwide.",
+      "excerpt": "After a painful break-up from a cheating ex, Beijing-based human resources manager Melissa was introduced to someone new by a friend late last year.",
       "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/technology/always-there-the-ai-chatbot-comforting-chinas-lonely-millions-1.1629786246255",
-      "originalUrl": "https://gulfnews.com/technology/always-there-the-ai-chatbot-comforting-chinas-lonely-millions-1.1629786246255",
+      "webUrl": "https://techxplore.com/news/2021-08-ai-chatbot-comforting-china-lonely.html",
+      "originalUrl": "https://techxplore.com/news/2021-08-ai-chatbot-comforting-china-lonely.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 101,
       "tags": null,
       "images": [
         {
-          "url": "https://imagevars.gulfnews.com/2021/08/24/20210824-melissa_17b770f16c0_medium.jpg",
-          "width": 540,
-          "height": 405,
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/xiaoice-has-pioneered.jpg",
+          "width": 1024,
+          "height": 681,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://gulfnews.com/amp/technology/always-there-the-ai-chatbot-comforting-chinas-lonely-millions-1.1629786246255",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/technology/always-there-the-ai-chatbot-comforting-chinas-lonely-millions-1.1629786246255",
-      "publishedDateTime": "2021-08-24T00:39:00-07:00",
+      "ampWebUrl": "https://techxplore.com/news/2021-08-ai-chatbot-comforting-china-lonely.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-ai-chatbot-comforting-china-lonely.amp",
+      "publishedDateTime": "2021-08-24T00:48:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,8 +40,9 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
-        "AI"
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
       ]
     },
     {
