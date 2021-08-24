@@ -84,6 +84,20 @@ related:
         width: 645
         height: 350
         isCached: true
+  - title: "AI Day 2021 to bring together world’s top-notch AI experts and researchers"
+    excerpt: "Empowering Innovations, organized by VinAI Research (the tech arm of Vingroup) will be held on August 27, 2021, aiming to unlock solutions to developing artificial intelligence in Vietnam. The event anticipates up to 2,"
+    publishedDateTime: 2021-08-24T01:43:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=520149"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 35
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
+        isCached: true
   - title: "“AI Day 2021” to bring together world’s top-notch AI experts and researchers"
     excerpt: "HANOI, VIETNAM - Media OutReach - 23 August 2021 - The online event AI Day 2021 – Empowering Innovations, organized by VinAI Research (the tech arm of Vingroup) will be held on August 27, 2021, aiming to unlock solutions to developing artificial intelligence in Vietnam."
     publishedDateTime: 2021-08-23T13:05:00Z

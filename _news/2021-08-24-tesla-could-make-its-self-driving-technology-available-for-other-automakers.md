@@ -9,7 +9,7 @@ ampWebUrl: "https://auto.hindustantimes.com/auto/news/tesla-could-make-its-self-
 cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/tesla-could-make-its-self-driving-technology-available-for-other-automakers/amp-41629697069079.html"
 type: article
 quality: 72
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 600
     height: 338
     isCached: true
+
+related:
+  - title: "Behind the Feds’ tesla Investigation, and the Future of Self-Driving Cars"
+    excerpt: "The probe covers 765,000 Tesla cars – that’s virtually every car the company has made in the last seven years. The investigation will put pressure on Tesla to reevaluate the technologies the company uses in Autopilot and could influence the future of driver-assistance systems and autonomous vehicles."
+    publishedDateTime: 2021-08-24T01:00:00Z
+    webUrl: "https://flaglerlive.com/167187/behind-the-feds-tesla-investigation/"
+    type: article
+    provider:
+      name: Flagler Live
+      domain: flaglerlive.com
+    quality: 38
+    images:
+      - url: "https://flaglerlive.com/wp-content/uploads/tesla.jpg"
+        width: 1000
+        height: 657
+        isCached: true
 
 secured: "gCS26ivNNIHIOZgsQRHoNbK6C+AyIXc0toL+PyvC8e/C5068WICvIrx28gh4TBNWO2Zh0Lm1LyDmrTV7HWNexm4QnJBJ0hCbiq4epJdR5Q/uTh0/tqOrtBzSK8OlMkLY/G3mlG9ls12yP//9hl0BI43v6iiuMOqegE/0LYMfeiYGWvVUxGW80j9tZUwFp6gPqVqMYfuGNq6ClEQAVSFvBIxazRBAeEC1lhXIlDoLFvfc9uyZTmoJk+F94T0/yqg8LpScly+qYLkrQ0f9QpRgTE6obHcuEz2rXYai8iH1eNWPH7ljNQhKelPlLkYSwE3EcSEApXeBSyQl8JVQ71JgGJ/TSvrvZY61+7IPakrwCTcTS2jZew2svBiy5zeSOhFeuWGq2fP61Axx+J81Cwx7lB8QGm0gG2BN9se92XblxtJS893Fk3HmjQPlVNsGRzO0szLqxJ0oFewoXMZAvAg7ukKxXJ7UWbmegtC80Ni7rvK8/47dW2llnD3EBhWY+L/d3ZlwQCxMa8TUVmoe1+movA==;oaOC898t10tgGK8u32WoAw=="
 ---

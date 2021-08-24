@@ -2,30 +2,24 @@
 category: news
 title: "Elon Musk says Tesla is building a humanoid robot for ‘boring, repetitive and dangerous’ work"
 excerpt: "Elon Musk said Thursday night at Tesla’s AI Day that the company is building a humanoid robot, and will probably have a prototype next"
-publishedDateTime: 2021-08-20T11:49:00Z
-originalUrl: "https://whdh.com/news/elon-musk-says-tesla-is-building-a-humanoid-robot-for-boring-repetitive-and-dangerous-work/"
-webUrl: "https://whdh.com/news/elon-musk-says-tesla-is-building-a-humanoid-robot-for-boring-repetitive-and-dangerous-work/"
-ampWebUrl: "https://whdh.com/news/elon-musk-says-tesla-is-building-a-humanoid-robot-for-boring-repetitive-and-dangerous-work/amp/"
-cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/elon-musk-says-tesla-is-building-a-humanoid-robot-for-boring-repetitive-and-dangerous-work/amp/"
+publishedDateTime: 2021-08-20T10:50:00Z
+originalUrl: "https://wsvn.com/news/us-world/elon-musk-says-tesla-is-building-a-humanoid-robot-for-boring-repetitive-and-dangerous-work/"
+webUrl: "https://wsvn.com/news/us-world/elon-musk-says-tesla-is-building-a-humanoid-robot-for-boring-repetitive-and-dangerous-work/"
+ampWebUrl: "https://wsvn.com/news/us-world/elon-musk-says-tesla-is-building-a-humanoid-robot-for-boring-repetitive-and-dangerous-work/amp/"
+cdnAmpWebUrl: "https://wsvn-com.cdn.ampproject.org/c/s/wsvn.com/news/us-world/elon-musk-says-tesla-is-building-a-humanoid-robot-for-boring-repetitive-and-dangerous-work/amp/"
 type: article
-quality: 65
+quality: 45
 heat: -1
 published: false
 
 provider:
-  name: WHDH
-  domain: whdh.com
+  name: 7News Miami
+  domain: wsvn.com
 
 topics:
   - AI in Robotics
   - AI
   - AI in Autos
-
-images:
-  - url: "https://whdh.com/wp-content/uploads/sites/3/2021/08/hypatia-h_5f674fbb74773d0b1a5da54f0814323e-h_b97ea991d9b2817ab9b9934fbf4452f8.jpg?quality=60&strip=color&w=1024"
-    width: 1024
-    height: 576
-    isCached: true
 
 related:
   - title: "Elon Musk unveils Tesla Bot, a humanoid robot that uses vehicle AI"
@@ -251,6 +245,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611fdf470f5f95efd0682f84%2F0x0.jpg"
         width: 1200
         height: 851
+        isCached: true
+  - title: "2 Big Revelations From Tesla's AI Day Event"
+    excerpt: "Tesla management says it will extend its AI expertise to autonomous humanoid robots. Last Thursday, Tesla (NASDAQ:TSLA) hosted its AI Day event. Elon Musk has branded these presentations as a recruiting opportunity,"
+    publishedDateTime: 2021-08-23T18:21:00Z
+    webUrl: "https://www.fool.com/investing/2021/08/23/2-big-revelations-from-tesla-ai-day-event/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2021/08/23/2-big-revelations-from-tesla-ai-day-event/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/08/23/2-big-revelations-from-tesla-ai-day-event/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 104
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F640331%2F0x0-bardessono_napa_raw-43-hdr-1-3.jpg&w=1200&op=resize"
+        width: 1200
+        height: 800
         isCached: true
   - title: "No one knows when Tesla Bot will arrive. Here are robots you can experience now"
     excerpt: "Tesla CEO Elon Musk spun up his attention machine Thursday, pulling the wraps off a humanoid robot that uses artificial intelligence to take over mundane tasks for people. The Tesla Bot will sport autopilot cameras and an information display instead of a face."
@@ -1230,6 +1240,6 @@ related:
         height: 445
         isCached: true
 
-secured: "AhnYOtiU0vTXdQERcNNWPv/R+encdbnSoJSN2JPdgItR1sGJ012pKKbAAUa8UoHrhY/6OiEUsSJ7daFxamDkiEVzrLYsNC6St+GdjhqLZxaDF5oLLzPBP+XZCtKsAQl3A9MCy5id5W1RtYaRwEreCkdZ5m2PCKcROGer3kHLdzHK4ch6WKdBAkgulKiZRWXMZkBMSJOu9Qljz5xLEV59zLu3u0TVw9Xw+yC8ZBwzFrSgnGTkVTPlp6NtDJ2Oy07pFyNxdpMA+RlgHE2MvJ7qqzKXc3DJElDg1RxywOWKuUrh1+4wun/qijLogXILrceeAHQfy6YIhLW5ZFD85p21Ls5pW7AT3QFrbtiQhpsdqVE54MDvpQP8kWUbFkP1sXh8b63Zy2376v+ysaB5HEYKcaggp+O3Tw3Lxotr6ZHrK4DFz1RvaWppflmxJmyzHgm4UXtE0BSNwj43m6lWutZ+eZ3Bwn7dEeKwDWQ+GBg1ebRNYz6NtyUMjni4nvCJoiCF7rYXhYXjlyso92X2D1Qv+Q==;hcz8Z4c84fnl2xXVxaLGHw=="
+secured: "kiI69remaNU77ypQFPC+IDBFBvUmK5MBqECTOozCoyxP3x2KSZ9T680tIassZBQihIzhxh6Kz/VU4JUVRwujoh91A0/k9zQutd07B4jtSlCGrMJ/pXlZ0kFxPmCPHY37h7V2A9EnQDU6EoPKNp5ctvFwUDwnd3jQPetDHqLJNJiQSvhkpFdf9+vIeX+R7ie6nbYh+cvIsXU19Zgf1FsGNp/WHCigHG/f+t5lUPAJl2M/tuvmzc3t4FJeLd9elUC1htcjYEfpgpz7STEO6caUxI01OhaEFqdUjGljaVle8ea59fHWoM4HTqv+bpfuZ8yWSK0UW7wzihjs+82A53SKVIlzGagqLdfEI25XY3OzTc/hk2/wEXuiZxen25hPtAugku0nmFFysoy0wvCl3WvJd7ua9+PpA5SGdvGOE9Idcz96hvDcAcWRyOM1H48NyKAyYYRqGBlePbSGq9USb1jE736EjTMEjKy6KtjUZ6iytarXo5P6FYlWVraNJnviQB3msGqXsdrpP0r8QvME/qIkcQ==;M24n70aQCH4Xw97rYQ8sLg=="
 ---
 

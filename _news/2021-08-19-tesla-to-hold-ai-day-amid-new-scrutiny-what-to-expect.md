@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/tesla-to-hold-ai-day-amid-new-scrut
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -47,6 +47,17 @@ related:
         width: 700
         height: 466
         isCached: true
+  - title: "Key Takeaways From Much-Awaited Tesla (TSLA) AI Day Event"
+    excerpt: "Tesla’s TSLA highly anticipated Artificial Intelligence (AI) day event was live-streamed on the company’s official YouTube channel on Aug 19. At the flashy event, the electric car maker made several key announcements in the areas of computing,"
+    publishedDateTime: 2021-08-23T12:57:00Z
+    webUrl: "https://www.nasdaq.com/articles/key-takeaways-from-much-awaited-tesla-tsla-ai-day-event-2021-08-23"
+    ampWebUrl: "https://www.nasdaq.com/articles/key-takeaways-from-much-awaited-tesla-tsla-ai-day-event-2021-08-23?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/key-takeaways-from-much-awaited-tesla-tsla-ai-day-event-2021-08-23?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 84
   - title: "Tesla AI Day: How to Watch and Live Updates"
     excerpt: "How to Watch AI Day. Elon Musk announced via Twitter that AI day will be streamed for the public and press to view. The event is following a recent announcement of a NHTSA investi"
     publishedDateTime: 2021-08-20T01:12:00Z

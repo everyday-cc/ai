@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/08/23/ibm-adds-ai-accel
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/08/23/ibm-adds-ai-accelerator-on-next-generation-z-cpu/amp/"
 type: article
 quality: 89
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -116,6 +116,20 @@ related:
       - url: "https://www.fstech.co.uk/fst/images/f864b3ea592e1198f21a5b1ca22bdc9a.jpg"
         width: 1693
         height: 829
+        isCached: true
+  - title: "IBM Unveils On-Chip Accelerated AI Processor"
+    excerpt: "IBM unveiled details of the upcoming new IBM Telum Processor, designed to bring deep learning inference to enterprise workloads"
+    publishedDateTime: 2021-08-24T01:45:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/20593-ibm-unveils-on-chip-accelerated-ai-processor"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 54
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/f77372562623ffbc4fc486e55ae06035.jpg?t=20210824_014348"
+        width: 752
+        height: 408
         isCached: true
   - title: "The next phase of AI is generative"
     excerpt: "In it's next act, AI will transform from an augmentative technology to a more direct generator of products and data, according to Gartner's 2021 Hype Cycle."

@@ -54,15 +54,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Baidu announces mass production of 2nd generation Kunlun AI chip"
-    excerpt: "Baidu announced the start of mass production of its second-generation Kunlun AI chip, Kunlun II, and also demonstrated industrial applications using Baidu AI Cloud at Baidu World 2021, its annual flagship technology conference."
-    publishedDateTime: 2021-08-19T07:23:00Z
-    webUrl: "https://www.telecompaper.com/news/baidu-announces-mass-production-of-2nd-generation-kunlun-ai-chip--1394202"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 34
   - title: "Baidu Announces Baidu Brain 7.0 and Production of 2nd Gen Kunlun AI Chip"
     excerpt: "Baidu today showcased its artificial intelligence technology with the launch of Baidu Brain 7.0, the start of mass production of its 2nd generation Kunlun AI chip, Kunlun II, and the demonstration of industrial applications using Baidu AI Cloud."
     publishedDateTime: 2021-08-19T13:30:00Z

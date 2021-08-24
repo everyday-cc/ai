@@ -7,7 +7,7 @@ originalUrl: "https://www.wealthprofessional.ca/investments/wealth-technology/a-
 webUrl: "https://www.wealthprofessional.ca/investments/wealth-technology/a-deep-dive-into-deep-learning-croesus-puts-the-spotlight-on-amazing-ai-innovations/359050"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1000
     height: 600
     isCached: true
-
-related:
-  - title: "Machine learning: Transforming the lending industry"
-    excerpt: "Machine learning algorithms are capable of delving into petabytes of data to comprehend the specific needs of individual customers"
-    publishedDateTime: 2021-08-19T08:54:00Z
-    webUrl: "https://www.dqindia.com/machine-learning-transforming-lending-industry/"
-    ampWebUrl: "https://www.dqindia.com/machine-learning-transforming-lending-industry/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/machine-learning-transforming-lending-industry/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 61
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/07/machine-learning-5290464_640.jpg"
-        width: 850
-        height: 400
-        isCached: true
 
 secured: "DrtSkiLxVD0GHKw9u3dD2PtIt/QOYZwkzkv6so17FkEJBsaM4ha0BZU8Dn//m/oiMBrlMDq48Z5vvnX7fpwkkZH35G63PJnK4GpDnDPObBM7EE2IIl3s/p5x/1Lc7Ytv9L0RjRUtKNDFpmXD1CZHdjEb9pN7ovSyj7YXz2dN4bKzynC9CZla3duPu5FBFxckJMdEdgsnRXxsuYKdhGatO1Z/WPujItCqzg4RkngyT2xxlCiVT0/ttJZslfMySxvLL99FziPuQG9ZVrlFGp8HqLc17wsLEan4IT6ivisk50l2vHqZEfLPYs0WZ+kpEojdt8m0hGKQGMI98/maKUnxt1A1NSFMr9+3j1jULTrsAcwRe/0i3YIfU4H/X7J1IPDi8ewmEJAA/RDhn+dgmCPMyhO/uazZJbkrSckvQGqcp1wabWO/nN9xxuKM2H1RJKGH/QjTPCfanNKgAgN2995E7WS+5RY4w3w8seBmhIjGKXpRQnsKZYq74zMMbP0QIRJyaZJ2/ONXFTnXGoec/ODtGw==;HqrwGVUSILXXvYf8eQr0QQ=="
 ---

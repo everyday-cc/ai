@@ -1,18 +1,20 @@
 ---
 category: news
 title: "The Role of Artificial Intelligence (AI) in the Global Agriculture Market 2021 - ResearchAndMarkets.com"
-excerpt: "ResearchAndMarkets.com The \"Global Artificial Intelligence (AI) Market in Agriculture Industry Market 2021-2025\" report has been added to ResearchAndMarkets.com's offering. The artificial intelligence (AI) market in the agriculture industry is poised to grow by $458."
-publishedDateTime: 2021-08-23T10:15:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210823005465/the-role-of-artificial-intelligence-ai-in-the-global-agriculture-market-2021-researchandmarketscom"
-webUrl: "https://www.morningstar.com/news/business-wire/20210823005465/the-role-of-artificial-intelligence-ai-in-the-global-agriculture-market-2021-researchandmarketscom"
+excerpt: "Market in Agriculture Industry Market 2021-2025\" report has been added to ResearchAndMarkets.com's offering. The"
+publishedDateTime: 2021-08-23T15:15:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/08/b22619012/the-role-of-artificial-intelligence-ai-in-the-global-agriculture-market-2021-researchandmarkets-co"
+webUrl: "https://www.benzinga.com/pressreleases/21/08/b22619012/the-role-of-artificial-intelligence-ai-in-the-global-agriculture-market-2021-researchandmarkets-co"
+ampWebUrl: "https://www.benzinga.com/amp/content/22619012"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22619012"
 type: article
-quality: 16
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
@@ -63,6 +65,6 @@ related:
         height: 533
         isCached: true
 
-secured: "ikbH7+qdQ+fIOXy3aMBsBf80WQckosQ+WELmhzSzGtctOdJiK7eHg8hlYVlh+AUY8BQs++et3jnziY5EdpwliOUxZNzQOeC+jiM9JdOlM3M1qtv+1SjXm7oPOzuSSoFrfHDchRLU9bviCIffAD8QcpOD/gmCja3xzb2DeaFV2FiPBFfbU8J4wPXuFDj3cfyymJQS7Hb1B7/O37udBD1AhBvF/SwafXQ+ZWT26vzTWM0XobC/X4t9ZTuNUjVvVSzeTqUrxvmjPVTVZXX1iSh8Jnh0TL4RikGld84m+aK+qne0eacsRZKnbFZg5wgypKJTHZS3rs+iNQ3YXCpHgvMbnzAlT3/cCm/C/Mzfl/x0Vf4=;gtpi/XJSr1t/gznrNkgA4A=="
+secured: "pP2W7OdnIxtMNVujOfMDpk6k06Y9EOYbbCVzi58FI9VuHKZpk0z/UlCosSIXr6iVBb0mb1hLWaskjqusPr+iD/LArmUDFOZNZElHDAuNjzLPyPcfAWrNNk+PxzPsmwnWxBLX9DNtQFJ4+VbXxDYrqO702cKQGsJgqubszsc7/NMcDqPwgSXagt8uOjV4UOT/ZYXJDzaIO60gQ9UNUOb89DjgGYhJ6OzigjBGhVwz/zqZUbnOTwoO4cUSAX2vjt6vxbAT+GEmKV9nBEDl0RW0CAbeku/oc+RhgmkJOsTyXCRYtAb0AcVGWExO3wXhxPFY9JlJOP5qeWi3hoVFo9txkBC2KYXoUJB8vbEca/p23DY=;trfhUV6GwafXACiyduS2rA=="
 ---
 

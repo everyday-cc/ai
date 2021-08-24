@@ -250,6 +250,22 @@ related:
         width: 1200
         height: 851
         isCached: true
+  - title: "2 Big Revelations From Tesla's AI Day Event"
+    excerpt: "Tesla management says it will extend its AI expertise to autonomous humanoid robots. Last Thursday, Tesla (NASDAQ:TSLA) hosted its AI Day event. Elon Musk has branded these presentations as a recruiting opportunity,"
+    publishedDateTime: 2021-08-23T18:21:00Z
+    webUrl: "https://www.fool.com/investing/2021/08/23/2-big-revelations-from-tesla-ai-day-event/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2021/08/23/2-big-revelations-from-tesla-ai-day-event/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/08/23/2-big-revelations-from-tesla-ai-day-event/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 104
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F640331%2F0x0-bardessono_napa_raw-43-hdr-1-3.jpg&w=1200&op=resize"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "No one knows when Tesla Bot will arrive. Here are robots you can experience now"
     excerpt: "Tesla CEO Elon Musk spun up his attention machine Thursday, pulling the wraps off a humanoid robot that uses artificial intelligence to take over mundane tasks for people. The Tesla Bot will sport autopilot cameras and an information display instead of a face."
     publishedDateTime: 2021-08-21T00:37:00Z
@@ -877,22 +893,6 @@ related:
         width: 708
         height: 444
         isCached: true
-  - title: "Elon Musk says Tesla is building a humanoid robot for ‘boring, repetitive and dangerous’ work"
-    excerpt: "Elon Musk said Thursday night at Tesla’s AI Day that the company is building a humanoid robot, and will probably have a prototype next"
-    publishedDateTime: 2021-08-20T11:49:00Z
-    webUrl: "https://whdh.com/news/elon-musk-says-tesla-is-building-a-humanoid-robot-for-boring-repetitive-and-dangerous-work/"
-    ampWebUrl: "https://whdh.com/news/elon-musk-says-tesla-is-building-a-humanoid-robot-for-boring-repetitive-and-dangerous-work/amp/"
-    cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/elon-musk-says-tesla-is-building-a-humanoid-robot-for-boring-repetitive-and-dangerous-work/amp/"
-    type: article
-    provider:
-      name: WHDH
-      domain: whdh.com
-    quality: 65
-    images:
-      - url: "https://whdh.com/wp-content/uploads/sites/3/2021/08/hypatia-h_5f674fbb74773d0b1a5da54f0814323e-h_b97ea991d9b2817ab9b9934fbf4452f8.jpg?quality=60&strip=color&w=1024"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Elon Musk unveils humanoid robot to take over ‘boring’ work"
     excerpt: "The ‘Tesla Bot,’ a prototype of which should be available next year, is designed to eliminate “dangerous, repetitive and boring tasks,” like bending over to pick something up, or go to the store"
     publishedDateTime: 2021-08-20T16:13:00Z
@@ -1143,6 +1143,17 @@ related:
         width: 1240
         height: 700
         isCached: true
+  - title: "Elon Musk says Tesla is building a humanoid robot for ‘boring, repetitive and dangerous’ work"
+    excerpt: "Elon Musk said Thursday night at Tesla’s AI Day that the company is building a humanoid robot, and will probably have a prototype next"
+    publishedDateTime: 2021-08-20T10:50:00Z
+    webUrl: "https://wsvn.com/news/us-world/elon-musk-says-tesla-is-building-a-humanoid-robot-for-boring-repetitive-and-dangerous-work/"
+    ampWebUrl: "https://wsvn.com/news/us-world/elon-musk-says-tesla-is-building-a-humanoid-robot-for-boring-repetitive-and-dangerous-work/amp/"
+    cdnAmpWebUrl: "https://wsvn-com.cdn.ampproject.org/c/s/wsvn.com/news/us-world/elon-musk-says-tesla-is-building-a-humanoid-robot-for-boring-repetitive-and-dangerous-work/amp/"
+    type: article
+    provider:
+      name: 7News Miami
+      domain: wsvn.com
+    quality: 45
   - title: "Elon Musk says Tesla is building a humanoid robot for 'boring, repetitive and dangerous' work"
     excerpt: "Elon Musk said Thursday night at Tesla's AI Day that the company is building a humanoid robot, and will probably have a prototype next year."
     publishedDateTime: 2021-08-20T19:29:00Z

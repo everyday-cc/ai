@@ -43,22 +43,6 @@ related:
         width: 650
         height: 488
         isCached: true
-  - title: "Chat with Big B's voice on Amazon Alexa for Rs 149"
-    excerpt: "Amazon on Thursday said it has made India's first celebrity voice feature on Alexa available with the legendary Amitabh Bachchan, and the users in India can add his amazing voice to their"
-    publishedDateTime: 2021-08-19T07:20:00Z
-    webUrl: "https://www.thehansindia.com/technology/tech-news/chat-with-big-bs-voice-on-amazon-alexa-for-rs-149-702383"
-    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/chat-with-big-bs-voice-on-amazon-alexa-for-rs-149-702383"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/chat-with-big-bs-voice-on-amazon-alexa-for-rs-149-702383"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 44
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2021/08/19/1102936-alexa.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Alexa users can now add Amitabh Bachchan's voice feature on their device"
     excerpt: "speech recognition, neural text-to-speech and more,\" Amazon India's country leader for Alexa Puneesh Kumar said."
     publishedDateTime: 2021-08-19T09:41:00Z

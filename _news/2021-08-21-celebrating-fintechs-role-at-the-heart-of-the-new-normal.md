@@ -19,6 +19,17 @@ topics:
   - AI
 
 related:
+  - title: "ETF Industry Vet Sharon French Joins Fintech Platform, TIFIN"
+    excerpt: "In a move that underscores the increasing importance of distribution in the ETF industry, financial industry veteran Sharon French recently joined emerging ETF and mutual fund platform TIFIN. TIFIN is a fintech platform designed to assist asset managers with their digital distribution strategy via artificial intelligence and machine learning software."
+    publishedDateTime: 2021-08-23T21:28:00Z
+    webUrl: "https://www.nasdaq.com/articles/etf-industry-vet-sharon-french-joins-fintech-platform-tifin-2021-08-23"
+    ampWebUrl: "https://www.nasdaq.com/articles/etf-industry-vet-sharon-french-joins-fintech-platform-tifin-2021-08-23?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/etf-industry-vet-sharon-french-joins-fintech-platform-tifin-2021-08-23?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "FinTech SPAC Activity Heats Up"
     excerpt: "In that filing, TG Venture said technologies under consideration for business combinations will include AI, blockchain and other advances. The filing notes, “FinTech is disruptive to our life every day. The power dynamics in the payments industry are ..."
     publishedDateTime: 2021-08-20T15:15:00Z
@@ -34,6 +45,20 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/08/IPO-SPAC-FinTech-457x274.jpg"
         width: 457
         height: 274
+        isCached: true
+  - title: "Top Programming Languages for Finance in Fintech"
+    excerpt: "This article explores some of the top programming languages for finance in fintech to power companies. Programming language is essential for efficient financial services. Multiple programming languages for finance are suitable for different fintech companies."
+    publishedDateTime: 2021-08-23T11:06:00Z
+    webUrl: "https://www.analyticsinsight.net/top-programming-languages-for-finance-in-fintech/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Top-Programming-Languages-for-Finance-in-Fintech.jpg"
+        width: 900
+        height: 500
         isCached: true
   - title: "4 Ways the Fintech Industry is Detecting and Preventing Frauds"
     excerpt: "Digitization in the fintech industry is giving rise to financial fraud. It is essential to detect potential frauds and prevent them before any loss to the customer or the organization. Fremont, CA: Like all the industries,"

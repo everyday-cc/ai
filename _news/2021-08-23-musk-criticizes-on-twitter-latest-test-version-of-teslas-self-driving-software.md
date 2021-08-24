@@ -122,20 +122,6 @@ related:
         width: 1024
         height: 555
         isCached: true
-  - title: "Senators Urges FTC to Further Investigate Tesla's Self-Driving Claims"
-    excerpt: "Senators Ed Markey and Richard Blumenthal have reportedly called on the Federal Trade Commission to investigate Elon Musk ‘s electric vehicles company over its “misleading advertising and marketing” of the Autopilot and Full Self-Driving Systems."
-    publishedDateTime: 2021-08-19T08:51:00Z
-    webUrl: "https://hypebeast.com/2021/8/tesla-self-driving-claims-ftc-investigation-news"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 54
-    images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F08%2Ftesla-self-driving-claims-ftc-investigation-news-tw.jpg?w=960&cbr=1&q=90&fit=max"
-        width: 960
-        height: 480
-        isCached: true
 
 secured: "IP2U+DXmba5FpHsRreNnosNY0Jk7T7W97tlA6nwUlMIBKubS/q2cUwbHzYRXVYSbnXIEv8JEEDajUCOtKaBysM4yAIBz8xioc3zllhqALAsGzjSUnC3Nx/WKKkzumJ8AtA7mKNQlDwpsdxhiObOp9sc9IyF4wHyJxNQUC3iJEkbECARZXKQkKbKN6o2G7Kfr4THyyKlCi0/ztofRZsGSPXjlfddt8TFO0uC70fVaQ85IdRzuc32ULbfT5j3I28enLYBhHf0RJ4GpHxUuJpqK4EL5dqwgouUGb2FEYFP9iG2BwdGUfShbC8z7w19vJdybzuWd7sxyj+MnqL97Dk8hMK0E7Thl4FPyhJkvDRL7XX0=;MW86jAsU/ucMcdS9BByg8Q=="
 ---

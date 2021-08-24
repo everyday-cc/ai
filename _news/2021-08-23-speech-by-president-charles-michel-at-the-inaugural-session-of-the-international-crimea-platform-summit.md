@@ -2,9 +2,9 @@
 category: news
 title: "Speech by President Charles Michel at the inaugural session of the International Crimea Platform Summit"
 excerpt: "European Council President Charles Michel delivered a speech during the inaugural session of the International Crimean Platform Summit, on 23 August 2021, in Kyiv."
-publishedDateTime: 2021-08-23T10:00:00Z
-originalUrl: "https://www.consilium.europa.eu/sv/press/press-releases/2021/08/23/speech-by-president-charles-michel-at-the-inaugural-session-of-the-international-crimea-platform-summit/"
-webUrl: "https://www.consilium.europa.eu/sv/press/press-releases/2021/08/23/speech-by-president-charles-michel-at-the-inaugural-session-of-the-international-crimea-platform-summit/"
+publishedDateTime: 2021-08-23T11:15:00Z
+originalUrl: "https://www.consilium.europa.eu/hr/press/press-releases/2021/08/23/speech-by-president-charles-michel-at-the-inaugural-session-of-the-international-crimea-platform-summit/"
+webUrl: "https://www.consilium.europa.eu/hr/press/press-releases/2021/08/23/speech-by-president-charles-michel-at-the-inaugural-session-of-the-international-crimea-platform-summit/"
 type: article
 quality: 8
 heat: 8
@@ -24,6 +24,6 @@ images:
     height: 1080
     isCached: true
 
-secured: "5tTMCtDa9w8MPIy4uAU4uA+AtbFbHinPcDk/R72/nP29veIMfOvCg4F6eqtygA9iCiBC1g2C9UENykD66Eolgoi0XeMqO0p/gAupgr7a/9vY6vqcbBl1r5AshfNxL9xGnjT8ajKklr8wa7YxtP6/wU/N+V2X1sfaQ76Y+2uV2fHD9SdVSXKNEFNSGdlqK5HC8G9VtfvKhQY5k41wxVP1mHTcdvp97PgbfKxf89V78bPM4evmY+76mo68e+AJWFSxn8af+zP6Gbi0enUGy2fFvHXCSgti9puz8j8Hvptc+4Bro4SD8U3+Ey+iDrcc5ljQrDarK3uNKOvIut8E7eXljDPeaZuOw1AcffE2Ibmea0w=;qmIjAzNXMHzv3q5ZHqDQ1A=="
+secured: "lUCj0FXXF6VEJK9jNATOG7ZXT9rq3XTz2eLYjASEa5o8ncRpliDinrwRmf0Z29XvzURzZ5bqwS2cSM9c8E389zLPBTD1ga7LD1NYFPDIC9HKtfRWpY6oVwFUhP7mDCywNDZMKoVBxUeymZtX3G2VeO8BwdWB0i+Ut9iGPYqkN33lBY52gdciwZjVsesH8HNvAwYLUeA5nsFWnE0VarUaatVB4elZ5mYZuDazmj8xEXEMWAB7YvX+CsPdhrDQUL9T9uERkT9vURooPNpCDZKjdrPfSOgDp6CJyTfCL5o0k94zhunDaXn5nP8rdZrf2PUmXl6XauwY96ViUQBcwRQe6Xlz/jmk6Si8kKYchDlvjLY=;hy5GcCGe2UMdjyKPD0xUEw=="
 ---
 

@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://www.gannett-cdn.com/presto/2021/08/04/NCOD/f8584ae5-73ca-4947-b1ff-c4431981e482-BIZ-CPT-AI-BANKING-MCT.jpg?auto=webp&crop=2708,1524,x0,y600&format=pjpg&width=1200"

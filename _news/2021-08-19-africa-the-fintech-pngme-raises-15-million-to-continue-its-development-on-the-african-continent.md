@@ -24,22 +24,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "Fintech startup Pngme raises $15m Series A funding to power the future of financial services in Africa"
-    excerpt: "Fintech startup Pngme raised $15 million in Series A funding as the company sets out to grow its financial data infrastructure and machine learning-as-a-service platform for financial institutions and fintechs across sub-Saharan Africa."
-    publishedDateTime: 2021-08-19T08:27:00Z
-    webUrl: "https://africabusinesscommunities.com/tech/tech-news/fintech-startup-pngme-raises-15m-series-a-funding-to-power-the-future-of-financial-services-in-africa/"
-    type: article
-    provider:
-      name: africabusinesscommunities.com
-      domain: africabusinesscommunities.com
-    quality: 23
-    images:
-      - url: "https://adserver.20nine.nl/www/delivery/avw.php?zoneid=30&n=5f0197a"
-        width: 336
-        height: 280
-        isCached: true
-
 secured: "Duxy27JRDwtJin68LK1otNb7LsRUVzwSss/hpE6kJcfqwT6WZOeDDe2SPfYHM50vlz5tbJuNnmijPOT+EawvBBYFdL1gX+05Xq0Vc7dhgIkx0JKSaQ657Zjn8DxQ54di6dIrgoprOU0OXdHg93WkPQGoRR+McdwTu3speDXYgFrziikplAzZqAK7dcPUHI+3OvGRqSFa9P0VE1xrJdKOzZ0tFMYBfRsyaz5OVD17nu4qywHkLt4RxEnsTvS5NM6pAODsYZ8E8qy16p0MA5NVtQn7w5goSBs97HebNZ5JnG4KjGd8dE+ov6cBtW6/3TyotFPQ9k8NXpdlY5HUrM75rHY3+kTn3ILoFpGe31SBVPW8LvWpB835bjvff1yhWKOx1FuFUrXIwAl4oIdzlYULOfd6BGDjfSkZrKzC5UFmsGZ9HnW55GGaqeWpFue9SaLXylrnPdaN8Ygt/ZgAFaXgF99tyDL5XLfX0PdE+dwfCVizExONnMbd+9yr5ZB080g2IgS0Vrwn7EQ0cvzkkST3Yw==;BoS3L5bDznoh0THhavWs6Q=="
 ---
 

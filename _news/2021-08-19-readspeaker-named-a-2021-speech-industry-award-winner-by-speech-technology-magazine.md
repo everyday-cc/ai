@@ -1,28 +1,22 @@
 ---
 category: news
 title: "ReadSpeaker Named a 2021 Speech Industry Award Winner by Speech Technology Magazine"
-excerpt: "ReadSpeaker, the most trusted, independent digital voice partner for global businesses, today announced that it was named a Speech Technology Magazine’s 2021 Speech Industry Award winner. ReadSpeaker was selected as a result of the company’s ongoing commitment to delivering industry-leading text-to-speech (TTS) solutions,"
-publishedDateTime: 2021-08-19T13:02:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-0695b677a7544b35bd94132602da90e9"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-0695b677a7544b35bd94132602da90e9"
+excerpt: "ReadSpeaker, the most trusted, independent digital voice partner for global businesses, today announced that it was named a Speech Technology Magazine's 2021 Speech Industry Award winner. ReadSpeaker was selected as a result of the company's ongoing commitment to delivering industry-leading text-to-speech (TTS) solutions,"
+publishedDateTime: 2021-08-19T13:05:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-readspeaker-named-2021-speech-industry-award-winner-speech-/2021/08/19/9434285.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-readspeaker-named-2021-speech-industry-award-winner-speech-/2021/08/19/9434285.htm"
 type: article
-quality: 18
-heat: 18
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "ReadSpeaker Named a 2021 Speech Industry Award Winner by Speech Technology Magazine"
@@ -35,6 +29,6 @@ related:
       domain: financialbuzz.com
     quality: 0
 
-secured: "n0E+mCH08h0tPraHSpBytevTGCRx6SzDAm7aZj9p04xLqM8kKOVm/LP23Nomg5Nf6KaMD7PL7SVtJzYsmj3j+NE50PlYQvr7mLs8gI+On8UR8ZuSJ2Ubswuyap8gUZLYsth7k/57yharlZstQFI72mdhZMbQxe9vNl7rNLJSBHCDiGmyfHZQEJd6fscxNuULBELXSrf++nxt67LN6wJDa9QBISf4tFMa44bk5vLKyj648t42ma0c6zylgnwUSFhES4Q0mWeXdF9DyRPZ11zVWyC6xDHJjz85Ybe+UG9KTeGO1MGfpZlSxCUovWCyiTjdHiH0PmkwDUNYxzRgALOn/4MIiFMvj4UktrAv3b/TRrA=;93l76jPtdBPMEGGZg3LsdQ=="
+secured: "20EEidjhczIByJrFmLCdTzr/z9cVIsD30N/7jQIe9vUC/rOMldeSnF98qdS201R4P5Mpcgr88v8LJqokCxkvM/SF+Yg48E+lkSF2MpaHuIBuMCk2RNedZVCctbIxe7JSyZ5MybkbEFUp8ARm8ioqsrfBu3aUu1aF9Bg7/e/GVJyTlM9VXSHeJkN9Ry9R17ikmw3+MMzDrotl0lF7h3dTAn4ZSs1PZRBlkp/KdtthG5ISeu4YxpwL6MYwUc1kwH9EcB8fYtj1zj+kaSSeSC3YGvx/wz29ZcD5Hh3z1AZbgF473tnCHYhZluVePzXzjA6NTID1evWbwFACKTMHW+4U6gpFT+xtRo9FpoukhaKUFXY=;sibjUU1+k6broc7F1bHH6A=="
 ---
 
