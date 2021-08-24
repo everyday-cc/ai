@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/startups/2021/arab-bank-back-egyptian-fintech
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/startups/2021/arab-bank-back-egyptian-fintech-artificial-intelligence-cybersecurity-startups/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -70,6 +70,20 @@ related:
       - url: "https://mk0ibsintelligek4gm6.kinstacdn.com/wp-content/uploads/2020/09/India-FinTech-300x300.jpg"
         width: 300
         height: 300
+        isCached: true
+  - title: "Threat hunting cybersecurity startup Hunters raises $30M to drive innovation"
+    excerpt: "Threat hunting cybersecurity startup Hunters today announced that it has raised $30 million in new funding to increase its headcount, drive innovation, enhance customer satisfaction, increase market reach and support partner expansion."
+    publishedDateTime: 2021-08-24T13:00:00Z
+    webUrl: "https://siliconangle.com/2021/08/24/threat-hunting-cybersecurity-startup-hunters-raises-30m-drive-innovation/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/hunters.png"
+        width: 803
+        height: 554
         isCached: true
   - title: "Today in Payments Around the World: Accelerating Egyptian AI and Cybersecurity Startups, Paysafe Acquires German Platform"
     excerpt: "Today in payments around the world, Paysafe buys Germany's viafintech, Arab Bank debuts AB Accelerators in Egypt and HSBC introduces mobile payments in Qatar."

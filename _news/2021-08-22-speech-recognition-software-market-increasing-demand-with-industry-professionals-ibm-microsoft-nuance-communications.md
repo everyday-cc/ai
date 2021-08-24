@@ -58,6 +58,17 @@ related:
         width: 700
         height: 875
         isCached: true
+  - title: "Artificial Intelligence Market Share Forecast to Witness Considerable Growth from 2020 To 2030"
+    excerpt: "Artificial Intelligence Market Introduction Transparency Market Research delivers key insights on the global artificial intelligence market In terms of revenue the global artificial intelligence market is estimated to expand at a CAGR of 29 during the forecast period owing to"
+    publishedDateTime: 2021-08-23T14:41:00Z
+    webUrl: "https://www.openpr.com/news/2364154/artificial-intelligence-market-share-forecast-to-witness"
+    ampWebUrl: "https://www.openpr.com/amp/2364154/artificial-intelligence-market-share-forecast-to-witness"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2364154/artificial-intelligence-market-share-forecast-to-witness"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 29
   - title: "Data Warehouse as a Service Market Growing at a CAGR 22.3% | Key Player Microsoft, Google, Oracle, Snowflake, Micro Focus | Fintech Zoom"
     excerpt: "Snowflake Inc. provides cloud-based data platform in the United States and internationally. The company's platform enables customers to consolidate data into a"
     publishedDateTime: 2021-08-24T06:51:00Z

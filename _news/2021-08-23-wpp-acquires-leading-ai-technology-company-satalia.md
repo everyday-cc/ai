@@ -1,22 +1,28 @@
 ---
 category: news
-title: "WPP Acquires Leading AI Technology Company Satalia"
-excerpt: "WPP (NYSE: WPP) today announces that it has acquired Satalia, a technology company offering market-leading AI solutions for clients. Satalia is a global leader in enterprise AI and one of the UK's fastest-growing tech companies,"
-publishedDateTime: 2021-08-23T12:36:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-wpp-acquires-leading-ai-technology-company-satalia-/2021/08/23/9435355.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-wpp-acquires-leading-ai-technology-company-satalia-/2021/08/23/9435355.htm"
+title: "WPP acquires leading AI technology company Satalia"
+excerpt: "WPP is a creative transformation company. We use the power of creativity to build better futures for our people, clients and communities."
+publishedDateTime: 2021-08-23T07:30:00Z
+originalUrl: "https://www.wpp.com/news/2021/08/wpp-acquires-leading-ai-technology-company-satalia"
+webUrl: "https://www.wpp.com/news/2021/08/wpp-acquires-leading-ai-technology-company-satalia"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WPP
+  domain: wpp.com
 
 topics:
   - AI Ethics
   - AI
+
+images:
+  - url: "https://www.wpp.com/-/media/project/wpp/images/news/stalia-pr.jpg?width=900&height=506"
+    width: 900
+    height: 506
+    isCached: true
 
 related:
   - title: "WPP acquires AI-tech firm Satalia"
@@ -66,22 +72,6 @@ related:
       - url: "https://www.proactiveinvestors.co.uk//thumbs/upload/News/Image/2021_08/1200z740_1629706468_2020-11-20-14-55-35_ac6d23e161ea039615fc6200b6c8b803.jpg"
         width: 1200
         height: 740
-        isCached: true
-  - title: "WPP acquires AI company"
-    excerpt: "Advertising and communications business WPP has acquired Satalia, a technology company focused on artificial intelligence (AI), for an undisclosed sum."
-    publishedDateTime: 2021-08-23T09:38:00Z
-    webUrl: "https://www.research-live.com/article/news/wpp-acquires-ai-company/id/5088212"
-    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5088212&name=wpp-acquires-ai-company"
-    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5088212&name=wpp-acquires-ai-company"
-    type: article
-    provider:
-      name: research
-      domain: research-live.com
-    quality: 57
-    images:
-      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
-        width: 1000
-        height: 581
         isCached: true
   - title: "Communications giant acquires AI technology company in digital ramp up"
     excerpt: "London headquartered communications multi-national WPP has announced that it has acquired Satalia, an AI technology company for an undisclosed sum. Satalia… | London | Digital | Technology | Technolog"
@@ -186,6 +176,6 @@ related:
       domain: mrweb.com
     quality: 19
 
-secured: "5MCx2zUNeIsK1lmUOq4hN3BNsECAq6Qz9Ii5bK36W6zxUXstfOZJxvbBjVVpsMU0AgvuIlgWb5Oa4TAujIQjq0yihE/FGPvCsbS8S0K1ZcWuEZ//BZSmP6355TEx0OnmMepOqfh27JG5TcoxlB7umHyIMB3COpABEmL7oyKOdU1y5cHv3I9034AFBX067/weO933b1ViidnolETFXhXj9L1gTue9KIZcs9WjmZsu9BnudqwBwzLLUn6153iKeLPdEWm5n6OPRf9v3yN2mWXmO2/3jORo+3E1J6luPh3QXZBpVFk3BgF8Wso27wmnxaBLnbMoMDys3zt0T+XRKhUi/R1/+RTx7+1Hes98h1Hexgc=;1Tgu7Qg1mjWwg0Tw8LEYcg=="
+secured: "LFTstyGpffqeu0BP98fcVPaSy02vRIazA+xizXDrpog9bFqWKGdIoBFyXi9wtuE3QUp+4Emn1C/+mfqNJw3P+bkTgXVkLA9N2JDlmwnB/ugIpC+elTDD3iM3x6NMCnqn1XhqyERcIAPTndeHEfaGLhLM1V//3HiHDLbwZJvANMMO5G0EOVPGpFTAFOWRCNnQJAguZE8YR4hYJEBnECqQABitQ6OWhrCVEIohXsd1N+h73FUoONu+bRPHkkgevfCqIsqCrOE2IRzvjGLXEeZcBj+xaZD21DGBYdtiqkDeRASHy6vwhOc91iKZui03DLzII3JNw1OZk7NncAm3h4+7vHf/cFjxPC57+37SeRO/aZI=;z7bLq5BffA+zgVjJpsNK4g=="
 ---
 

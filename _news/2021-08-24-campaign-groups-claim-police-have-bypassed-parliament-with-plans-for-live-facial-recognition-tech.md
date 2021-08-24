@@ -129,20 +129,6 @@ related:
         width: 640
         height: 434
         isCached: true
-  - title: "New UK live facial recognition code proposed has potential for adverse effects"
-    excerpt: "The proposed code states that any use of live facial recognition should quickly delete any unused biometric data collected."
-    publishedDateTime: 2021-08-19T20:02:00Z
-    webUrl: "https://www.biometricupdate.com/202108/new-uk-live-facial-recognition-code-proposed-has-potential-for-adverse-effects"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 37
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/11151135/biometric-identification-facial-recognition.jpg"
-        width: 1600
-        height: 1109
-        isCached: true
   - title: "Civil liberties groups say facial recognition cameras should be BANNED as they accuse ministers of quietly approving their use despite court rulings against invasive filming"
     excerpt: "Thirty-one organisations including Amnesty International have posted a letter alleging guidance allowing facial recognition across England and Wales has been given in defiance of court rulings."
     publishedDateTime: 2021-08-23T09:59:00Z

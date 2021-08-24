@@ -198,22 +198,6 @@ related:
         width: 4000
         height: 2666
         isCached: true
-  - title: "Tesla to Spotlight Artificial Intelligence Work Amid Scrutiny of Autopilot"
-    excerpt: "Elon Musk is slated to host an event Thursday evening to drum up interest in the electric-vehicle maker and its AI efforts at a time its driver-assistance system is under investigation."
-    publishedDateTime: 2021-08-19T20:33:00Z
-    webUrl: "https://www.wsj.com/articles/tesla-ai-day-2021-11629408749?mod=lead_feature_below_a_pos1"
-    ampWebUrl: "https://www.wsj.com/amp/articles/tesla-ai-day-2021-11629408749"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tesla-ai-day-2021-11629408749"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 104
-    images:
-      - url: "https://images.wsj.net/im-387188/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "AI Day Showcases The Breadth Of Tesla’s Ambition"
     excerpt: "Tesla AI Day 2021 featured executives presenting the full range of the company’s AI efforts, from computer vision to planning and controls to data infrastructure to automotive super computers to data center supercomputers."
     publishedDateTime: 2021-08-20T17:57:00Z
@@ -906,6 +890,22 @@ related:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/6c993e1/2147483647/strip/true/crop/1000x521+0+83/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fb4%2Fab%2F03ac32bd487fac26ef4cc011d643%2Fshutterstock-1985005055.jpg"
         width: 840
         height: 438
+        isCached: true
+  - title: "Elon Musk admits Tesla’s new self-driving software ‘not great’"
+    excerpt: "Tesla CEO Elon Musk admitted that the company’s driver-assistance software is “actually not great,” a week after federal regulators launched an investigation into Tesla’s Autopilot"
+    publishedDateTime: 2021-08-24T13:42:00Z
+    webUrl: "https://nypost.com/2021/08/24/elon-musk-admits-teslas-self-driving-software-not-great/"
+    ampWebUrl: "https://nypost.com/2021/08/24/elon-musk-admits-teslas-self-driving-software-not-great/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/24/elon-musk-admits-teslas-self-driving-software-not-great/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 59
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/tesla-musk.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Elon Musk says Tesla's self-driving software update is 'not great'"
     excerpt: "Tesla CEO Elon Musk said on Monday said that the electric-car maker was working on improving the much-awaited update to its self-driving software \"as fast as possible.\""

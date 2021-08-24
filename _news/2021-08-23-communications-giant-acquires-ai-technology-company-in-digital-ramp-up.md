@@ -73,22 +73,6 @@ related:
         width: 1200
         height: 740
         isCached: true
-  - title: "WPP acquires AI company"
-    excerpt: "Advertising and communications business WPP has acquired Satalia, a technology company focused on artificial intelligence (AI), for an undisclosed sum."
-    publishedDateTime: 2021-08-23T09:38:00Z
-    webUrl: "https://www.research-live.com/article/news/wpp-acquires-ai-company/id/5088212"
-    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5088212&name=wpp-acquires-ai-company"
-    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5088212&name=wpp-acquires-ai-company"
-    type: article
-    provider:
-      name: research
-      domain: research-live.com
-    quality: 57
-    images:
-      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
-        width: 1000
-        height: 581
-        isCached: true
   - title: "WPP acquires AI technology company Satalia"
     excerpt: "The latest acquisition of Satalia is aligned with WPP’s accelerated growth strategy and focused M&A approach and more."
     publishedDateTime: 2021-08-23T07:35:00Z
@@ -102,6 +86,20 @@ related:
       - url: "https://www.socialsamosa.com/wp-content/uploads/2021/08/WPP-satalia.jpg"
         width: 800
         height: 418
+        isCached: true
+  - title: "WPP acquires leading AI technology company Satalia"
+    excerpt: "WPP is a creative transformation company. We use the power of creativity to build better futures for our people, clients and communities."
+    publishedDateTime: 2021-08-23T07:30:00Z
+    webUrl: "https://www.wpp.com/news/2021/08/wpp-acquires-leading-ai-technology-company-satalia"
+    type: article
+    provider:
+      name: WPP
+      domain: wpp.com
+    quality: 39
+    images:
+      - url: "https://www.wpp.com/-/media/project/wpp/images/news/stalia-pr.jpg?width=900&height=506"
+        width: 900
+        height: 506
         isCached: true
   - title: "WPP acquires Satalia for efficiency-increasing AI tech"
     excerpt: "WPP’s accelerated growth strategy shows no sign of slowing, with the addition of artificial intelligence (AI) technology company Satalia for an undisclosed sum to modernize its sprawling empire."
@@ -168,15 +166,6 @@ related:
         width: 1201
         height: 681
         isCached: true
-  - title: "WPP Acquires Leading AI Technology Company Satalia"
-    excerpt: "WPP (NYSE: WPP) today announces that it has acquired Satalia, a technology company offering market-leading AI solutions for clients. Satalia is a global leader in enterprise AI and one of the UK's fastest-growing tech companies,"
-    publishedDateTime: 2021-08-23T12:36:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-wpp-acquires-leading-ai-technology-company-satalia-/2021/08/23/9435355.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
   - title: "WPP Buys B2B-based AI Tech Firm Satalia"
     excerpt: "WPP today announced that it has acquired Satalia, which has expertise in applying AI across the logistics and supply chain. Terms of the deal have not been disclosed. Founded in 2008 by CEO and AI specialist Daniel Hulme (pictured),"
     publishedDateTime: 2021-08-23T19:08:00Z

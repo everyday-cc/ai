@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/08/23/ibm-telum--a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/08/23/ibm-telum--a-new-chapter-in-vertically-integrated-chip-technology/amp/"
 type: article
 quality: 89
-heat: 159
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -31,6 +31,52 @@ images:
     isCached: true
 
 related:
+  - title: "IBM's new Telum Processor is the company's first with an on-chip AI accelerator"
+    excerpt: "The microprocessor contains 8 processor cores and is designed to process sensitive data in hybrid cloud deployments, according to the company."
+    publishedDateTime: 2021-08-24T13:31:00Z
+    webUrl: "https://www.techrepublic.com/article/ibms-new-telum-processor-is-the-companys-first-with-an-on-chip-ai-accelerator/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ibms-new-telum-processor-is-the-companys-first-with-an-on-chip-ai-accelerator/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibms-new-telum-processor-is-the-companys-first-with-an-on-chip-ai-accelerator/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 100
+    images:
+      - url: "https://www.techrepublic.com/a/hub/i/r/2021/05/26/62bd29f4-6524-4130-a98a-ca1e8d04a017/resize/1200x/4a60cac1d090cbcebe96fbddee66c09c/gettyimages-32.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "IBM Adds AI Accelerator On Next Generation Z CPU"
+    excerpt: "And with the next generation IBM Z processor, these applications will be able to run accelerated Artificial Intelligence (AI) processing directly on the platform, providing real-time analytic insights and enhanced security."
+    publishedDateTime: 2021-08-23T17:30:00Z
+    webUrl: "https://www.forbes.com/sites/karlfreund/2021/08/23/ibm-adds-ai-accelerator-on-next-generation-z-cpu/"
+    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/08/23/ibm-adds-ai-accelerator-on-next-generation-z-cpu/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/08/23/ibm-adds-ai-accelerator-on-next-generation-z-cpu/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6112e827fe30adf90f83d757%2F0x0.jpg"
+        width: 1200
+        height: 648
+        isCached: true
+  - title: "IBM Unveils On-Chip Accelerated Artificial Intelligence Processor"
+    excerpt: "At the annual Hot Chips conference, IBM (NYSE: IBM) today unveiled details of the upcoming new IBM Telum Processor, designed to bring deep learning inference to enterprise workloads to help address fraud in real-time."
+    publishedDateTime: 2021-08-23T04:21:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-unveils-on-chip-accelerated-artificial-intelligence-processor-1030750970"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 86
+    images:
+      - url: "https://mma.prnewswire.com/media/1599074/IBM_Z_CHIP_03.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "IBM introduces Telum chips aimed at AI inferencing workloads like fraud detection"
     excerpt: "Big Blue has unveiled Telum, its first chip with AI inferencing acceleration that will allow it to conduct tasks such as fraud detection while a transaction is occurring. \"The chip contains 8 processor cores with a deep super-scalar out-of-order instruction pipeline,"
     publishedDateTime: 2021-08-23T01:48:00Z
@@ -46,6 +92,22 @@ related:
       - url: "https://www.zdnet.com/a/hub/i/2021/08/23/c094c986-e845-4dbf-9fb3-9b7ee6d8e71c/ibm-telum.png"
         width: 1194
         height: 662
+        isCached: true
+  - title: "Attacking fraud: On-chip AI accelerator boosts new IBM processor"
+    excerpt: "IBM's latest processor, the Telum Processor, is anticipated by the company to have applications in banking, finance, retail, healthcare, and more, due to \"on-chip accelerated AI.\""
+    publishedDateTime: 2021-08-24T11:47:00Z
+    webUrl: "https://www.wraltechwire.com/2021/08/24/attacking-fraud-on-chip-ai-accelerator-boosts-new-ibm-processor/"
+    ampWebUrl: "https://www.wraltechwire.com/2021/08/24/attacking-fraud-on-chip-ai-accelerator-boosts-new-ibm-processor/"
+    cdnAmpWebUrl: "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/08/24/attacking-fraud-on-chip-ai-accelerator-boosts-new-ibm-processor/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 74
+    images:
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2021/08/IBM_Tellus_Processor.png"
+        width: 828
+        height: 466
         isCached: true
   - title: "IBM releases details on its Telum Processor, which includes an on-chip AI accelerator"
     excerpt: "IBM's latest processor, the Telum Processor, is anticipated by the company to have applications in banking, finance, retail, healthcare, and more, due to \"on-chip accelerated AI.\""
@@ -63,6 +125,22 @@ related:
         width: 828
         height: 466
         isCached: true
+  - title: "IBM’s new on-chip accelerated AI processor is here. What’s its role in fraud detection?"
+    excerpt: "The new chip will leverage the full power of the AI processor for AI-specific workloads, making it ideal for fraud detection, loan processing, clearing and settlement of trades, anti-money laundering."
+    publishedDateTime: 2021-08-23T05:26:00Z
+    webUrl: "https://www.dqindia.com/ibms-new-chip-accelerated-ai-processor/"
+    ampWebUrl: "https://www.dqindia.com/ibms-new-chip-accelerated-ai-processor/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ibms-new-chip-accelerated-ai-processor/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 66
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2019/11/processor-583695_960_720.jpg"
+        width: 566
+        height: 400
+        isCached: true
   - title: "IBM's new Telum chips will help infer enterprise workload, detect fraud, and more"
     excerpt: "IBM has introduced its new Telum processor at the annual Hot Chips conference. The processor is IBM's first one that can do on-chip acceleration for AI inferencing during a transaction."
     publishedDateTime: 2021-08-23T03:54:00Z
@@ -77,6 +155,20 @@ related:
         width: 760
         height: 506
         isCached: true
+  - title: "Next-Gen IBM Mainframes Will Have On-Chip AI Accelerators"
+    excerpt: "The new chip design is meant to enable AI inference on the mainframe for things like real-time fraud detection, faster trade settlement, and more."
+    publishedDateTime: 2021-08-23T17:08:00Z
+    webUrl: "https://www.datacenterknowledge.com/machine-learning/next-gen-ibm-mainframes-will-have-chip-ai-accelerators"
+    type: article
+    provider:
+      name: Data Center Knowledge
+      domain: datacenterknowledge.com
+    quality: 56
+    images:
+      - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/ibm%20telum%20mainframe%20chip.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "IBM Launches Telum, Its New AI Chip"
     excerpt: "The new chip features a centralised design, which allows clients to leverage the full power of the AI processor for AI-specific workloads."
     publishedDateTime: 2021-08-23T12:51:00Z
@@ -90,6 +182,76 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/IBM-Launches-Telum-Its-New-AI-Chip.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "IBM unveils on-chip accelerated AI processor"
+    excerpt: "Hot Chips conference, IBM unveiled details of the upcoming new IBM Telum Processor, designed to bring deep learning inference to enterprise"
+    publishedDateTime: 2021-08-23T16:09:00Z
+    webUrl: "https://www.plant.ca/general/ibm-unveils-on-chip-accelerated-ai-processor-222544/"
+    type: article
+    provider:
+      name: plant.ca
+      domain: plant.ca
+    quality: 54
+    images:
+      - url: "https://www.plant.ca/wp-content/uploads/2021/08/image001-1.jpg"
+        width: 936
+        height: 570
+        isCached: true
+  - title: "IBM unveils on-chip AI accelerator for fraud detection"
+    excerpt: "IBM has unveiled its long-awaited ‘Telum’ chip, built with AI inference acceleration that will allow for fraud detection while a transaction is occurring. The new processor was showcased at the annual Hot Chips conference with the first Telum-based system planned for 2022."
+    publishedDateTime: 2021-08-23T13:55:00Z
+    webUrl: "https://www.techcentral.ie/ibm-unveils-on-chip-ai-accelerator-for-fraud-detection/"
+    type: article
+    provider:
+      name: Mozilla
+      domain: techcentral.ie
+    quality: 54
+    images:
+      - url: "https://www.techcentral.ie/wp-content/uploads/2021/08/IBM_Telum.jpg"
+        width: 620
+        height: 349
+        isCached: true
+  - title: "IBM releases new AI fraud prevention chip"
+    excerpt: "IBM is set to launch a new chip, named Telum, which it said includes ‘AI inferencing acceleration’ that could help stop fraud.<br /> <br /> The tech giant said that complex fraud detection often cannot be completed in real-time due to latency."
+    publishedDateTime: 2021-08-23T17:29:00Z
+    webUrl: "https://www.fstech.co.uk/fst/IBM_Releases_New_AI_Fraud_Prevention_Chip.php?src=ilaw"
+    type: article
+    provider:
+      name: fstech.co.uk
+      domain: fstech.co.uk
+    quality: 54
+    images:
+      - url: "https://www.fstech.co.uk/fst/images/f864b3ea592e1198f21a5b1ca22bdc9a.jpg"
+        width: 1693
+        height: 829
+        isCached: true
+  - title: "IBM unveils AI processor chip to help financiers deal with fraud"
+    excerpt: "The AI processor chip is expected to help businesses move towards a fraud prevention posture from a fraud detection posture."
+    publishedDateTime: 2021-08-24T13:42:00Z
+    webUrl: "https://techhq.com/2021/08/ai-processor-chip/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 54
+    images:
+      - url: "https://cdn.techhq.com/wp-content/uploads/2021/08/IBM-Z-CHIP_-Image-01.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "IBM Unveils On-Chip Accelerated AI Processor"
+    excerpt: "IBM unveiled details of its new Telum Processor which is designed to bring deep learning inference to enterprise workloads to help address fraud in real-time. Introduced at the annual Hot Chips conference,"
+    publishedDateTime: 2021-08-24T13:27:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/IBM-Unveils-On-Chip-Accelerated-AI-Processor-148560.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 54
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "IBM’s Upcoming Z Series Chip Gains On-Chip AI Acceleration and New Name: Telum"
     excerpt: "In a major refresh of its next-generation Z Series chips, IBM is adding on-chip AI acceleration capabilities to allow enterprise customers to perform deep"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/emmawoollacott/2021/08/23/uk-government
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2021/08/23/uk-government-accused-of-sneaking-through-new-live-facial-recognition-rules/amp/"
 type: article
 quality: 87
-heat: 177
+heat: 167
 published: true
 
 provider:
@@ -118,20 +118,6 @@ related:
       - url: "https://image.assets.pressassociation.io/v2/image/production/d6e4131765fe04e05c81ba7daa1efc67Y29udGVudHNlYXJjaGFwaSwxNjI5NzgyNjgx/2.61056894.jpg?w=640"
         width: 640
         height: 434
-        isCached: true
-  - title: "New UK live facial recognition code proposed has potential for adverse effects"
-    excerpt: "The proposed code states that any use of live facial recognition should quickly delete any unused biometric data collected."
-    publishedDateTime: 2021-08-19T20:02:00Z
-    webUrl: "https://www.biometricupdate.com/202108/new-uk-live-facial-recognition-code-proposed-has-potential-for-adverse-effects"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 37
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/11151135/biometric-identification-facial-recognition.jpg"
-        width: 1600
-        height: 1109
         isCached: true
   - title: "Campaign groups claim police have bypassed Parliament with plans for live facial-recognition tech"
     excerpt: "Civil society groups have called for a ban on the use of life facial recognition technology amid claims that the government and the police are introducing intrusive surveillance measures without parliamentary scrutiny."

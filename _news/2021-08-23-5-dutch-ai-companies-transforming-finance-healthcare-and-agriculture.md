@@ -7,7 +7,7 @@ originalUrl: "https://www.computerworld.com/article/3630648/5-dutch-ai-companies
 webUrl: "https://www.computerworld.com/article/3630648/5-dutch-ai-companies-transforming-finance-healthcare-and-agriculture.html"
 type: article
 quality: 71
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -24,6 +24,19 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "China AI in Healthcare Market Emerging Trend, Top Companies, Industry Demand and Regional Analysis by 2025"
+    excerpt: "China s AI in healthcare market is estimated to grow significantly at a CAGR of 52 8 during the forecast period China s market has both medium and long term potential due to its large market size aging population fluctuating"
+    publishedDateTime: 2021-08-23T07:24:00Z
+    webUrl: "https://www.openpr.com/news/2363109/china-ai-in-healthcare-market-emerging-trend-top-companies"
+    ampWebUrl: "https://www.openpr.com/amp/2363109/china-ai-in-healthcare-market-emerging-trend-top-companies"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2363109/china-ai-in-healthcare-market-emerging-trend-top-companies"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 36
 
 secured: "4v8gnaYV6XxPPk/4RdPem5Fqz13CTbcFgO5Gvb64qZNCPPDJG34YfYP/46cTQHMq9PbtcjSjoxb9lHW0zZZ+RxrCE/UVkIrvjocHlWB51L1iPzu0vJMaLyYYedvEg7vTvhGL31s3A0yYSswbUleTuYf4Xv2TZsjgOpYcaKfGXu9fU4dMx9TwCo3p8vooajSJoGjOO4pHbX9T1BRUfYfw+3zGcr53U7DRuoCCXfjTSI9y9WkM1kaFD6QmYHbUP4lqCISAMdeQolTDsf9YTOsthbFWEo/T2wymyHKF0sixsHDiald+zc4TBYjVef8fh5bBGBULE5Ovn8nt++JhEmR8wWHUPN7E7f7IYE3FCAm3GBBEiYY1VCttOMWeultRNsucY1ODuU/3ar0NQXeo05ZhvqhOVCRIYp76eytSleabzOvDisYHKh/aI4VpXPrl1iqi/COtkFYQuMZSSSWrwswO/Af8xJJTT9fvtuIdhdTk0gjgb+fNaNEh9pqV839C9A5qGboUOIqZcQOnEF0SYSzCAg==;SgVy8kRW3FJRZI49KuvjcQ=="
 ---

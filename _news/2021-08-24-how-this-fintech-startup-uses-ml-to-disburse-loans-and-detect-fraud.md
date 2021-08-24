@@ -95,6 +95,20 @@ related:
         width: 300
         height: 400
         isCached: true
+  - title: "Ubiquity Names Peg Johnson to Lead Growing Fintech Business"
+    excerpt: "Payments Veteran Joins BPO to Integrate Suite of Services for Challenger Banks and Fintechs NEW YORK, NY / ACCESSWIRE / August 24, 2021 / Ubiquity, a multinational business process outsourcer and one of the fastest-growing private companies in the United States,"
+    publishedDateTime: 2021-08-24T13:31:00Z
+    webUrl: "https://apnews.com/press-release/accesswire/technology-business-4954c970f7037da925d81e217472ee4e"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Celebrating fintech’s role at the heart of the new normal"
     excerpt: "Innovate Finance has launched a new forum to explore the potential of fintech to create a more inclusive and sustainable world. What good timing - fintech has performed impressively amidst the pandemic and will have a crucial role to play as restrictions are lifted and we settle  into our ‘new normal’."
     publishedDateTime: 2021-08-21T04:38:00Z

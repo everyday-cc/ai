@@ -87,6 +87,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Threat hunting cybersecurity startup Hunters raises $30M to drive innovation"
+    excerpt: "Threat hunting cybersecurity startup Hunters today announced that it has raised $30 million in new funding to increase its headcount, drive innovation, enhance customer satisfaction, increase market reach and support partner expansion."
+    publishedDateTime: 2021-08-24T13:00:00Z
+    webUrl: "https://siliconangle.com/2021/08/24/threat-hunting-cybersecurity-startup-hunters-raises-30m-drive-innovation/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/hunters.png"
+        width: 803
+        height: 554
+        isCached: true
 
 secured: "5LqpLiuYvjmcoADIE0BDqhgb+0Mei5FWIV5ZEb32yB5/oCyUJW+qU/dwKHMYQd5EikeIp1/imQYwzrvmXC6aX6HDjHoymGaq4elNbNjMolsfI7LwIrbXZl5m0jj31cYnYWAyPX1gm2hwC1TA/kmGEPoNHcD16Ibu3U32eYZeiRhv+LtWQn32A8l36QJFypmB4UZFGB6E/sw8bB7tp7aWd+4BEqXuPB3FBOdUsTSmeVXh5j4aGw8KkBmNfQDNmDNgqnsfdD44ne/09EwWvEVqSPQHM87nzTG3TI2eX72LCJ+iY4YtrWvJdZsVqhec4/HhNqwHH4w39i5WDYGTPN38jimZAOZA+9ro8GRf2DfM7sosV/CpOBxDuwmMhs2WkVJ65R7yo0hchSAMYnkim9oilPNxPI4OCtq81vekNpJj0qJ2Cs3SP/axsKdYtO3/ncTm6mes99r4PZnb9AKZWpXLVMOO26kKNk58JEWr2FxSpQA0BYIvWhc2f1xqh8wtfCAybJ8+sSFcHzV109vSVaUq2A==;NvpOkOnfH5udA3BtyD9kXg=="
 ---

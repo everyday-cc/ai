@@ -40,6 +40,22 @@ related:
         width: 599
         height: 400
         isCached: true
+  - title: "Artificial Intelligence (AI) in Modern Warfare Market Evolving Technology and Growth Outlook 2021-2026"
+    excerpt: "MarketInsightsReports recently published a research report called Artificial Intelligence AI in Modern Warfare Market Primary and secondary research methods were used to construct this report The Analysis was derived using history and predictions The report includes an in depth study"
+    publishedDateTime: 2021-08-24T13:01:00Z
+    webUrl: "https://www.openpr.com/news/2365480/artificial-intelligence-ai-in-modern-warfare-market-evolving"
+    ampWebUrl: "https://www.openpr.com/amp/2365480/artificial-intelligence-ai-in-modern-warfare-market-evolving"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2365480/artificial-intelligence-ai-in-modern-warfare-market-evolving"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 58
+    images:
+      - url: "https://cdn.openpr.com/U/8/U824571901_g.jpg"
+        width: 800
+        height: 449
+        isCached: true
   - title: "The Artistic Side of Artificial Intelligence (AI)"
     excerpt: "Move over selfie, artificial intelligence (AI) might just be creating your world-class portrait. Meet Patrick Tresset, a London-based artist. His art practice follows two main paths. On one hand, Tresset presents theatrical installations in which robotic agents are actors."
     publishedDateTime: 2021-08-21T03:03:00Z

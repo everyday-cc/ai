@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Taliban captured US facial recognition and eye-scan database, reports say"
-    excerpt: "A key database of the biometric information of Afghan allies who assisted U.S. and coalition forces may now be in the hands of Taliban militants who are seeking revenge. On Tuesday, the Intercept reported,"
-    publishedDateTime: 2021-08-19T20:05:00Z
-    webUrl: "https://americanmilitarynews.com/2021/08/taliban-captured-us-facial-recognition-and-eye-scan-database-reports-say/"
-    type: article
-    provider:
-      name: American Military News
-      domain: americanmilitarynews.com
-    quality: 38
-    images:
-      - url: "https://americanmilitarynews.com/wp-content/uploads/1-about-amn.png"
-        width: 800
-        height: 500
-        isCached: true
   - title: "Taliban took Afghanistan but face cash squeeze"
     excerpt: "The Taliban face a frontal challenge in cementing control of Afghanistan: Money. Despite their dominant military blitz over the past week, the Taliban lack access to billions of dollars from their central bank and the International Monetary Fund that would keep the country running during a turbulent shakeup."
     publishedDateTime: 2021-08-21T06:14:00Z

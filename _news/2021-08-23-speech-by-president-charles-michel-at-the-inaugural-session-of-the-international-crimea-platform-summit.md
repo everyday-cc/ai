@@ -2,9 +2,9 @@
 category: news
 title: "Speech by President Charles Michel at the inaugural session of the International Crimea Platform Summit"
 excerpt: "European Council President Charles Michel delivered a speech during the inaugural session of the International Crimean Platform Summit, on 23 August 2021, in Kyiv."
-publishedDateTime: 2021-08-23T11:15:00Z
-originalUrl: "https://www.consilium.europa.eu/hr/press/press-releases/2021/08/23/speech-by-president-charles-michel-at-the-inaugural-session-of-the-international-crimea-platform-summit/"
-webUrl: "https://www.consilium.europa.eu/hr/press/press-releases/2021/08/23/speech-by-president-charles-michel-at-the-inaugural-session-of-the-international-crimea-platform-summit/"
+publishedDateTime: 2021-08-23T10:00:00Z
+originalUrl: "https://www.consilium.europa.eu/da/press/press-releases/2021/08/23/speech-by-president-charles-michel-at-the-inaugural-session-of-the-international-crimea-platform-summit/"
+webUrl: "https://www.consilium.europa.eu/da/press/press-releases/2021/08/23/speech-by-president-charles-michel-at-the-inaugural-session-of-the-international-crimea-platform-summit/"
 type: article
 quality: 8
 heat: 8
@@ -24,6 +24,6 @@ images:
     height: 1080
     isCached: true
 
-secured: "gfVHfT5/jBMi2veQ88KJxWCy+G7+0ShywIW/UkXBz7rwqfkBo+Sdavmx0RjP25vH2/6ykzevEIzWgvWPtNrI1DLYBmdT7HTAYiF6IuN4l42DQMJ59Lcc3IQRU/poac1vmyr0QjHdf2jw9z8kE3TN2knLaHk71ipJsF8M3iRQeFsTlq/tcwnC2gDQz4uRDu4TCDIStLVXyaLycxluhoQ5E7RX0QwJlWlyxPUvZGiUaZyN5h7DVYDKwOGMspE1CcAa/N4WgFAL3MkLHQEN6DW0t8kzA4JelfrZL6MwlX6+MBdZqo9tFQrVPtcvvHIXCfHo0xYynqLfVAQCXR7UdmaZqdpIyluVYrO728rCmAGqvp0a83OlveZUUZftn2v8278dP3wGOFz2hXlynLSkqa40tBpNA4m/NqPKcv/B7U00mDTwMdbSMDomCGbT52NoWJyPeB17goq4m5rkIn9ZcFnMZKN8jEhwHcqixB+zC3X9JYUbP0R/Qj1bF/EI9kK/RFDWJQggPmLt8OyPSCS/ZgRXHA==;I3odX/DnhnbU0oImviJvag=="
+secured: "cWMiH6YA9SyVHtg8V0K1XvbyEa03PQP2PkropH2zSbqgHS+IevACINrB2sri2vehKZTmi0nxdV2A4AbgaKgCY1wsiPF3ZND1qbTFkQUYrejmcNtxDTNaeFXaXy8wlyE6R5HDo9HgxdtPonrXApSAD7199qwfGQN26OWfcKJ1Ba4VFpmbuE4Di+olU6p1M6UCbedzTQPaYCKEn6RMQIMwHeV7lkpNmaajlAXQ2I5ewujpQur93kCGQ0Q40z6n0VxkUzvPYZ8+FnDGExGnEaMeuLNMO6ggVzbUlFY6qekxntWUQgfmYthmOF0hkRyl7yxJOYj1og/fxXgbSBuSR56Cw1u0ZLQO2N0gv7s6GGmYfn8=;DVGDOQSe+lupeQe/vWZPMQ=="
 ---
 

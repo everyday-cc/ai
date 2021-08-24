@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/08/24/loo
 ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/08/24/looking-beyond-automation-and-efficiency-ai-for-social-good/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/08/24/looking-beyond-automation-and-efficiency-ai-for-social-good/amp/"
 type: article
-quality: 87
-heat: 97
+quality: 89
+heat: 99
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6076f18320d68a60ca2eb02c%2F0x0.jpg"
@@ -45,6 +46,6 @@ related:
         height: 768
         isCached: true
 
-secured: "bq6D7HkoXrT6vZAXfYgw949h/yHU4o696pkMeUjFUaoZlShBsw+Nuhjegy3xcLz7FuPJ5ueaV3AksV6isX8MbSQO1kVTv+7jsb5iRWMCxY5pa6GseuVLX3LK9yZTYjyhVhLxO6BBlO40J5NRusjTGfXnDx02lw49e9HmP/CS5B4Vy7w1xJJSnfHbgth7qXX2zQHh4M5T6LAoKJhwxxt2Bwx0iLDpNZ+uAgFaVL2IfC6PPvmVSiFp34EGuZI2FeatWSl+u60vceeXfpUXLne5NTmQPdPf8zRNnHikAUC32xHPfrloW9KoeV40Yyv9v2l5m00392EqU23LMZDZ/EvqnsD2YMezQQRFxYWS7K+hzEc=;zh0LJ+BwyxOA2aeNc/JThw=="
+secured: "rURb/L6EEVKiW2DBvqqJgw6y5So3Ctb/xTDnXhAxvJJfXIdhZhnT0Q/TMTyUyKv6qIo8trPyiodRR0bqhA712oAIf37ICbFh2aAckTfKh8B/gzHMMhIB+HqW/oKgmwO/2fD9+ZfQSAnZVG1K6cWmXe+wFbdjix0y+TulVO85m27AT4xPPcLvgTzOEb95ojqqKRhsl/h5yQ8+rYRPjSkyAb4ZJJimVm2pK598suj9BY5B8aKVtdLkPOkP082+YDKSRV1xsYpFk5U2Ii9YUF4SGsPCr+N8TcRM9TAKDIKeljkbeDDvW4FzOEC/5tRI/eyN1nNmsPrWLK8KgGxgZqyNkFxocwjDXuiKfpDTqAgMJPFGqMPnVNtmGrIzPTw3us9QLGvNv6bOopH972lQUUuFLljxzUeZyrPZhNbu4oHUGQPiDjw1yN8eLmkk8NMRGp55FgS3+hQ+NdPNlGfxAi7w5nVnsz6JZQIBRsYiUnY6Zja4/ZLJG706Cjyp83llllWnawraUg+wUNbz42f4pTAOUA==;elQ9D1Z45LaFkwazuq60sA=="
 ---
 

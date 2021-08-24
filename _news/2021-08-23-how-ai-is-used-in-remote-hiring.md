@@ -9,7 +9,7 @@ ampWebUrl: "https://bloncampus.thehindubusinessline.com/b-learn/how-ai-is-used-i
 cdnAmpWebUrl: "https://bloncampus-thehindubusinessline-com.cdn.ampproject.org/c/s/bloncampus.thehindubusinessline.com/b-learn/how-ai-is-used-in-remote-hiring/article36062276.ece/amp/"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,21 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Every move you make, Artificial Intelligence is watching you"
-    excerpt: "The traffic police has taken steps to use advanced video analytics technology to detect common traffic violations such as jumping red signals or the stop line, driving recklessly, not wearing seat belt or helmet and talking over phone while driving etc."
-    publishedDateTime: 2021-08-24T00:36:00Z
-    webUrl: "https://bangaloremirror.indiatimes.com/bangalore/others/every-move-you-make-artificial-intelligence-is-watching-you/articleshow/85581172.cms"
-    ampWebUrl: "https://bangaloremirror.indiatimes.com/bangalore/others/every-move-you-make-artificial-intelligence-is-watching-you/amp_articleshow/85581172.cms"
-    cdnAmpWebUrl: "https://bangaloremirror-indiatimes-com.cdn.ampproject.org/c/s/bangaloremirror.indiatimes.com/bangalore/others/every-move-you-make-artificial-intelligence-is-watching-you/amp_articleshow/85581172.cms"
+  - title: "How AI is speeding up our search for climate change solutions"
+    excerpt: "Tonya Hall interviews Dr. Solomon Assefa, vice president at IBM Research, about how AI and quantum computing help us in the search of more efficient batteries."
+    publishedDateTime: 2021-08-24T13:39:00Z
+    webUrl: "https://www.zdnet.com/video/how-ai-is-speeding-up-our-search-for-climate-change-solutions/"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 57
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
     images:
-      - url: "https://static.toiimg.com/thumb/85581209.cms?resizemode=4&width=400"
-        width: 400
-        height: 300
+      - url: "https://www.zdnet.com/a/hub/i/r/2021/08/24/7c12fada-447e-46f3-8629-7d2a8f684eef/thumbnail/770x578/d7b0e415b342fd3362590950b87a0f72/thumb.jpg"
+        width: 770
+        height: 578
         isCached: true
 
 secured: "YBE7nVP2eLARjyiTdbbs9D5NSD6NAEwVMV3mqvYplcoBv7RVdKBMeJ2NI6V/S59EuqtVXOsA0gAoOdP+NLF2K1f2pKRSJdf/4l9GQ1yW1R8VHNsjK50IlMoLpLgwyivDZeNStyP/pJ/7tUMQLPN8TGwiK4nTa0WJi9vDX5pA3i/5RjTSjXH6JhOTPuycG0AY4VFqtBSYT1iawjGKNHyt8zg90RDZpzd2p3eJvkwyaP3WAr6OYZwTZzSJtmDnQiqWtxv22o51jX6amYQJbbsofpuGdg+P6u3aIDkEG7SHsbs4dViSlVR18K1BdJlYQPCE+f7tgnssISEWo/s4ojD7s/vD7qV1FsaCel7GL5GGvK4=;ztpMcE5Xnj/OLy0I9iHrAg=="
