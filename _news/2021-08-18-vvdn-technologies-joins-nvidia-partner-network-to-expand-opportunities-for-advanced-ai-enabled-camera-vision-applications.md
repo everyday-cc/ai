@@ -2,9 +2,9 @@
 category: news
 title: "VVDN Technologies Joins NVIDIA Partner Network to Expand Opportunities for Advanced AI-Enabled Camera & Vision Applications"
 excerpt: "VVDN Technologies, a premier electronic product engineering and manufacturing company, announced that it has joined the NVIDIA Partner Network (NPN) as a provider of AI-enabled computer vision solutions powered by the NVIDIA Jetson edge AI platform."
-publishedDateTime: 2021-08-18T03:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/vvdn-technologies-joins-nvidia-partner-network-to-expand-opportunities-for-advanced-ai-enabled-camera-vision-applications-1030740143"
-webUrl: "https://markets.businessinsider.com/news/stocks/vvdn-technologies-joins-nvidia-partner-network-to-expand-opportunities-for-advanced-ai-enabled-camera-vision-applications-1030740143"
+publishedDateTime: 2021-08-18T01:18:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/vvdn-technologies-joins-nvidia-partner-network-to-expand-opportunities-for-advanced-ai-enabled-camera-vision-applications-1030741069"
+webUrl: "https://markets.businessinsider.com/news/stocks/vvdn-technologies-joins-nvidia-partner-network-to-expand-opportunities-for-advanced-ai-enabled-camera-vision-applications-1030741069"
 type: article
 
 provider:
@@ -16,9 +16,9 @@ provider:
       height: 50
 
 topics:
-  - AI Hardware
+  - Computer Vision
   - AI
 
-secured: "tY5yJYH2zy//AX1yJXBrlDbAIpB/4pHgYg00MIxVMJYVQNaFSaXjxt60qm0jd0fMb1R9bwp9CdzlmeiQlOvpZ5i/nVcwrPjvy99kKwSWtVJAGXR09O3cmQDEVFIA2ZgvFZeTTq6FNW3vf0Cx7hp6ylXrv1BGcq04Wwira8Zs85ZsWuqpXo0lm4xf4B2O58c8WdLRAh0y4wl48wve88gGICZ1xaHzRBps4OLrNlD5DJ27bmcBqBO3lJbDnRAdYqeJZPk9H2BZ06c9ZecOVevujPqvqNK0wJlrSoHJJW6xaFw57+7C48WV++twkZyZq822Ln5GUhDXtRKF6Rqv2wFWQ0a9PZT19kVB5qwOhOmQK7j5GR4gf4YQRPo0DBahwU3ZtUCM2W6hYTTtC4A/9cAa2qNvcrMLnidiumRoaPjWAZq/URU2q5lOobeRMob4JTTsFxJJvKHwJZaMHos7K9PXXbvVW+gDq/YofQ0LeeYX2RBVo79ShYx+sIP3V3WVZ9kTYH638By92OpVt0MqoNuSMw==;GU3FNV3uyGp02snr2XdGJA=="
+secured: "r2VzO1jyI+LTPJOKo5SEOpD6MltlbFIMbGiBvV6G4n931arloEO8x+Vjj3xu3Kbl5NPCMkB4g3/k0U0t/G83SAjrUkCiop52Vg2HZXr+NBzcIQeLPeWSriMbJV0gnlGK2nMEub4VlyDHpg8hW3sCpUb6XHf1/aosqMKVX4AAESFtevFp5o/U0RDuuuxuohsuoOBxXiALSplcIUEAsbVH1Ao6RxIuzt9yrqkhW1zU3mNnc00w4Sa8rPWoT3li4WuAawrIaMh0OYpIvR+8r2mq80uT+L01Q4ISnzVxb8dKwJY7lsj/lvA67UpTIZQ/6SN8aIkXaO6qI1k8Nb6LK0hxhfqItayHrmkWetcbH/LCZ5KxKpXhcq6nyXE1CPXBCPa3pb2074HTPaKJ8uBfGiQwo1hHinTqiooGrauLhDUCT4R5M8xsww+4QtpMUDp8NUco0dGB/MkBTHTdwTtrvg0u8Guxmf3EEzgqqTshXwmOdHlMWGn1dW9xI2p7D8p/YNJ5Qo/9zOmb007D3mYpEjC19Q==;HIbZONyl5yXrEb816l3OIg=="
 ---
 

@@ -417,20 +417,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 86
-  - title: "What investors need to know about Tesla's AI day"
-    excerpt: "CNBC's 'Squawk Box' team discusses Tesla's valuation ahead of its artifical intelligence day with Gene Munster of Loup Ventures and Gordon Johnson, GLJ Research CEO and founder."
-    publishedDateTime: 2021-08-19T11:58:00Z
-    webUrl: "https://www.cnbc.com/video/2021/08/19/what-investors-need-to-know-about-teslas-ai-day.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 84
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106930296-16293722741629372269-18143738765-1080pnbcnews.jpg?v=1629372273"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Elon Musk Is Building A Humanoid Robot So People Won’t Have To Do ‘Boring’ And ‘Repetitive’ Tasks"
     excerpt: "It's called Tesla Bot. The humanoid robot, internally code-named Optimus, runs on the same artificial intelligence used by Tesla's autonomous vehicles. The prototype may be available next year \"but not right now because this robot doesn't work,"
     publishedDateTime: 2021-08-20T16:11:00Z

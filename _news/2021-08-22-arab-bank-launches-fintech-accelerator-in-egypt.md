@@ -87,15 +87,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "A Canadian-based Fintech Company to Expand Globally With World-class AI Technology"
-    excerpt: "As such, Peak Fintech Group announced on August 16 that it will be acquiring Cubeler, an analytics and AI company located in the heart of Montreal. Peak Fintech to acquire Cubeler In a press release, it was revealed that Peak Fintech will acquire 100 per ..."
-    publishedDateTime: 2021-08-19T13:00:00Z
-    webUrl: "https://stockhouse.com/news/newswire/2021/08/19/a-canadian-based-fintech-company-to-expand-globally-with-world-class-ai"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 13
 
 secured: "nJZlsdMAeesIKQT0IYUDDAxW+C3jwwxytOTES459YEBVWn65jrqSCWzMfOEnaaCgUYYTS0GFJ7Ligt5l7PvzX+UK8YM5tTyYzViqtQ4fuP5npNcgAIwA+KDLbJyhh3FvlqJsLhoYWPq8fxK2V39qTQsNjsQdE6dp8TPer5kXPjK9HatxGAWk9iFl7/zcF91ox0dQiVIamQ9fxhWGjJ2goe7/9MZWO7CaDAHECwxUwYaWtZ4wS1GqANXEqs9woganDecn39XtS2Nxn+gd4eyBAqMm0iZK0aP4VF0qo2GCSF76aRXhRsDi5fWCj7OhicOLFJsMEcmmKQhHpW0tlpHJujK8lRCWdL0RaODPVYu76whn9ESkxUwwDdQJ+4YWBCTfypDx8osaZCsaRbWkIt9h56AodpL/YSizeOTTxkhxo45YmNAOsAcq4BrBiKRqUIIxrfAs/Enxh2WUb++vM9cKRfXs7GNT5i/Hfe4ho7/4zIk0eByKuyOGZD/2igqIVHpebUhu0+xP0WF6pjNrwX/RKg==;BSX1Hvdx+WlU8h0cJvXxiQ=="
 ---

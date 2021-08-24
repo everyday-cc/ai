@@ -7,7 +7,7 @@ originalUrl: "https://www.tech-critter.com/intel-arc-gpu-xess-technology/"
 webUrl: "https://www.tech-critter.com/intel-arc-gpu-xess-technology/"
 type: article
 quality: 45
-heat: -1
+heat: 45
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel XeSS is Alchemist's answer to DLSS and FSR, and can work on anyone's GPU"
-    excerpt: "Intel has announced that its upcoming lineup of gaming graphics cards, now known as Intel Alchemist, will support a frame rate boosting technology called (XeSS). That bit you might have known already,"
-    publishedDateTime: 2021-08-19T13:01:00Z
-    webUrl: "https://www.pcgamer.com/intel-xess-xe-super-sampling/"
-    ampWebUrl: "https://www.pcgamer.com/amp/intel-xess-xe-super-sampling/"
-    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/intel-xess-xe-super-sampling/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 55
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/8fgPWdA2DDMJtR4gfRM8ef-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Intel debuts XeSS AI upscaling technology to rival DLSS and FSR, compatible with all GPUs"
     excerpt: "Known as Intel XeSS (Xe Super Sampling: a reference to the Xe architecture in their new graphics cards) and just like AMD the technology will be open source to all, meaning it will work on any GPU regardless of brand like Nvidia,"
     publishedDateTime: 2021-08-21T10:30:00Z

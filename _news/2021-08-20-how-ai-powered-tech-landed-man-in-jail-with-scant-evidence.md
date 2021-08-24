@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chron.com/news/amp/How-AI-powered-Tech-Landed-Man-In-Jai
 cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/How-AI-powered-Tech-Landed-Man-In-Jail-With-Scant-16396942.php"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
-        isCached: true
-  - title: "How AI-powered tech landed man in jail with scant evidence"
-    excerpt: "Michael Williams’ wife pleaded with him to remember their fishing trips with the grandchildren, how he used to braid her hair, anything to jar him back to his world outside the concrete walls of Cook County Jail."
-    publishedDateTime: 2021-08-19T12:20:00Z
-    webUrl: "https://apnews.com/7e3345485aa668c97606d4b54f9b6220"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/30b09fd23d1745e2b89cf69c5e676ec9/3000.jpeg"
-        width: 3000
-        height: 2000
         isCached: true
   - title: "How AI-powered tech landed man in jail with scant evidence"
     excerpt: "An Associated Press investigation has identified a number of serious flaws in using ShotSpotter as evidentiary support for prosecutors."

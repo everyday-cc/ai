@@ -36,15 +36,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Esports Technologies Files Patent for Artificial Intelligence-Powered Real-Time Odds Modeling & Simulation System"
-    excerpt: "Esports Technologies, Inc. (Nasdaq: EBET), a leading global provider of advanced esports wagering products and technology, announced today that it has filed a provisional patent application for a technology that uses artificial intelligence to generate odds models for use in a betting algorithm for esports tournaments and various stages of a tournament."
-    publishedDateTime: 2021-08-19T12:37:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/esports-technologies-files-patent-for-artificial-intelligence-powered-real-time-odds-modeling-simulation-system-1030745602"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 26
 
 secured: "BamqgTo+cqL8vb78WG14APLoa05NaiIUaPMBoNDknomTwDFDQoiPxxbf90SdNJ1j/z1K8YtQbT53mcU61TZl4Cbl5p+xx65O1q728FalTm1yLFlr9a/GUTMqdgZ89zQfjle5YOJDB1opJpIFX4cRw6xgVJRj3ndZlq9xMebzuqCu6hkgsfi1K/4BMu7kSQ2SuaQdrmfoonSoM9ebJT53Q1jMGUWT9LdJn5/8KSs6RIDKYEBDSzW3bIzbuEyDbLclJoYO9KmIaDB2sy1VLSL6mfOVeoj0pMjJS1EObnrZVrmAHtpZrLUQcB8SRwkPv0jAFy+PH9X5c6F662sAJkAug714kCC3e8wZBqJL+ZkbtzTlU5VeIQP/xGLrhnCSe+ni8Tb5t2OesxXWvCAOWX81JwPWbbe9/8PCbsKwhjiO9L3DdI7vEUbdjf7nGQs6BWMBlEBHSvLx3WSQnAofYpE/SJlIQvusCYs0fWWJvLth4zN8kQrf4jbhwIceBxNPT5M+piMjHX8Xqv/uOTqBcmOskg==;rCFLq78CpJNpMXwMsuOtTA=="
 ---

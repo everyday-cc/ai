@@ -9,8 +9,8 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/senators-question-doj-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/senators-question-doj-funding-ai-powered-policing-tech-79565344"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: ABC
@@ -37,15 +37,6 @@ related:
       name: Merced Sun-Star
       domain: mercedsunstar.com
     quality: 37
-  - title: "Esports Technologies Files Patent for Artificial Intelligence-Powered Real-Time Odds Modeling & Simulation System"
-    excerpt: "Esports Technologies, Inc. (Nasdaq: EBET), a leading global provider of advanced esports wagering products and technology, announced today that it has filed a provisional patent application for a technology that uses artificial intelligence to generate odds models for use in a betting algorithm for esports tournaments and various stages of a tournament."
-    publishedDateTime: 2021-08-19T12:37:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/esports-technologies-files-patent-for-artificial-intelligence-powered-real-time-odds-modeling-simulation-system-1030745602"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 26
 
 secured: "Gtzc+is1MZnC9CrqItw1RrQhXEGZ3MFaaOKUmj3qrVY9IFmoGleP533PlXZMJDA1VKHZlWGNOZH5jOIvmV0JSU+HJc5UXcVSGEZfLsufcOE5fW4+eCaZI+i7k9vDCJQV1/AABO2HNPubKK1FMJ8+QMqlwmE4OZU+eNMNHivLsMBsmBqHA5O7AFgDqwpfZGYClMwJ8KtDH3q4ISnVEbDIdf6ej+p4d9psSX6e1bpNVKfmSsAUxTJDKQTXBSLqKGcTJHERJiSQh5JXomB+3XCr4jHVxpoEbMNP0B/rqvZhvixl2OEdx7onRmK+7lXd8CP9iOlPwVRI+x5x+29gQbuZJUJnuKj3E4Nl//tBcEnAkh9myRiJEsbSZ4m4QSEQK3m3+b6bFuULHvWvaW5g7dm5bUjmj8oxPKSKP0N/b+gWpOVCsjj0CScYhFp9K/kY5Ma8MBBePBcKhE/4RWmq5RWb1kTU84kXget4tsJ/Ffro5AVn99Mo1mvAYymjKA4CEZRm5TpXgzWmx1mLS5KPVBPVdQ==;6wacYtjf8qxpOh47BoEUOg=="
 ---

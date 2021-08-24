@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/emmawoollacott/2021/08/23/uk-government
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2021/08/23/uk-government-accused-of-sneaking-through-new-live-facial-recognition-rules/amp/"
 type: article
 quality: 87
-heat: 187
+heat: 167
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Campaigners call for ban on use of facial recognition tech in UK"
-    excerpt: "Human rights group Liberty has called on the UK to ban the use of facial recognition software by police forces and private companies, as the British Government updates its guidance on the use of the surveillance technologies."
-    publishedDateTime: 2021-08-19T11:58:00Z
-    webUrl: "https://diginomica.com/campaigners-call-ban-use-facial-recognition-tech-uk"
-    ampWebUrl: "https://diginomica.com/campaigners-call-ban-use-facial-recognition-tech-uk?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/campaigners-call-ban-use-facial-recognition-tech-uk?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 74
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2021-08/76522589-0B01-4323-9BBC-AA85BA5ABD9A.jpeg"
-        width: 640
-        height: 425
-        isCached: true
   - title: "Civil liberties groups demand government bans facial recognition cameras"
     excerpt: "Police and Home Office are accused of bypassing parliament over guidance allowing officers, local councils and enforcement agencies to use facial recognition across England and Wales in defiance of court rulings against invasive filming."
     publishedDateTime: 2021-08-23T09:27:00Z
@@ -164,20 +148,6 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2021/08/23/10/46991959-0-image-a-2_1629711354901.jpg"
         width: 636
         height: 382
-        isCached: true
-  - title: "The use of facial recognition technology for policing in Delhi: An empirical study of potential religion-based discrimination"
-    excerpt: "The use of new technology like facial recognition by police in India raises questions of efficiency, surveillance, and discrimination."
-    publishedDateTime: 2021-08-23T05:25:00Z
-    webUrl: "https://www.medianama.com/2021/08/223-facial-recognition-technology-policing-delhi/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 12
-    images:
-      - url: "https://www.medianama.com/wp-content/uploads/2020/10/flat-3252983_1280.png.png"
-        width: 1280
-        height: 1066
         isCached: true
 
 secured: "goyYtWxjkOFHstMilJv7I1AQkJiw9T7vhuv0BIcpIK7yKYZ4H/wedB/pT6S6w1rbUk8uqUO1jD74GVEqxrFBt2D2/tIGWNI/N5R0ZdkvHd8XoQc7TdqtCZE6nYxPsKjqcfk4/+GCeZRN5NJwUcJIk+hWrSi0rugHE9E1Qs6SpA+cHu/YNxegKATeU0tq9B+02tgNHjlVAkao3ec+TzllLfgyKJeGAw921BPOzTT1ay+jcC9BTRxiKbesCMekavEEw5bolmlo4QFgjXBbuEjyE6Se9mc9jBQvHlL7gGnTdoOJWRi77rU6yvSkeirfqdIXrz/vuG+2pe0ePx4MXVyksZ4pzD3X/ooAjGgloNVFcxih4oE8R9QFs6eOUINtYihRpmrZc2lNtDGGn890pLPdkzgA55dS9ThDUJzeLZLSRMjOidP8hxYaXDvULjqmixqSW16N9BhAVIlzbpIVwevu/ghibZ+4dD5Da+cqJfjPwYh05O2P1KIEtF7KeQn+hD+s8jIw6xGDhLmGWpS6GUwDRg==;Ze5xVtiJZVNcIhT+IFlyIw=="

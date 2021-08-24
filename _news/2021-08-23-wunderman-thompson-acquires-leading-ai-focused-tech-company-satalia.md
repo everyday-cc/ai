@@ -131,6 +131,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "WPP acquires AI company Satalia"
+    excerpt: "As part of the merger, Satalia will join Wunderman Thompson Commerce and lead AI strategy across all WPP agencies"
+    publishedDateTime: 2021-08-24T04:17:00Z
+    webUrl: "https://www.campaignindia.in/article/wpp-acquires-ai-company-satalia/472019"
+    type: article
+    provider:
+      name: Campaign India
+      domain: campaignindia.in
+    quality: 39
+    images:
+      - url: "https://cdn.i.haymarketmedia.asia/?n=campaign-india%2fcontent%2fsatalia.jpg&h=630&w=1200&q=75&v=20170226&c=1"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "TOP NEWS: WPP buys AI firm Satalia to grow machine learning offering"
     excerpt: "FTSE 100-listed WPP PLC has bought artificial intelligence technology company Satalia for an undisclosed sum, the ad agency said on Monday. Founded by Chief Executive Daniel Hulme in 2008, AI specialist Satalia counts clients including BT Group PLC,"
     publishedDateTime: 2021-08-23T07:19:00Z

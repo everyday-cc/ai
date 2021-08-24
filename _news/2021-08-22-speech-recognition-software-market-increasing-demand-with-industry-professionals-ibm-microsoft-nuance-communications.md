@@ -44,17 +44,6 @@ related:
         width: 390
         height: 220
         isCached: true
-  - title: "Deep Learning Market to Witness Huge Growth by 2027 - Amazon Web Services (AWS), Google, IBM, Intel, Micron Technology, Microsoft"
-    excerpt: "The Deep Learning Market report is a compilation of first hand information qualitative and quantitative assessment by industry analysts inputs from industry experts and industry participants across the value chain The report provides in depth analysis of parent market trends"
-    publishedDateTime: 2021-08-19T11:46:00Z
-    webUrl: "https://www.openpr.com/news/2360426/deep-learning-market-to-witness-huge-growth-by-2027-amazon-web"
-    ampWebUrl: "https://www.openpr.com/amp/2360426/deep-learning-market-to-witness-huge-growth-by-2027-amazon-web"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2360426/deep-learning-market-to-witness-huge-growth-by-2027-amazon-web"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 59
   - title: "Microsoft's AI Mudede Versus the Real Mudede"
     excerpt: "Last week, the technologist side of Boudinot did something monstrous with an AI presently owned by Microsoft, GPT-3. This program, developed by OpenAI, is described as \"an autoregressive language [machine] that uses deep learning to produce human-like text."
     publishedDateTime: 2021-08-23T22:42:00Z

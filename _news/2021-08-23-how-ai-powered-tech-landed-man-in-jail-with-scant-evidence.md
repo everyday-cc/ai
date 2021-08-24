@@ -43,20 +43,6 @@ related:
         height: 336
         isCached: true
   - title: "How AI-powered tech landed man in jail with scant evidence"
-    excerpt: "Michael Williams’ wife pleaded with him to remember their fishing trips with the grandchildren, how he used to braid her hair, anything to jar him back to his world outside the concrete walls of Cook County Jail."
-    publishedDateTime: 2021-08-19T12:20:00Z
-    webUrl: "https://apnews.com/7e3345485aa668c97606d4b54f9b6220"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/30b09fd23d1745e2b89cf69c5e676ec9/3000.jpeg"
-        width: 3000
-        height: 2000
-        isCached: true
-  - title: "How AI-powered tech landed man in jail with scant evidence"
     excerpt: "An Associated Press investigation has identified a number of serious flaws in using ShotSpotter as evidentiary support for prosecutors."
     publishedDateTime: 2021-08-21T14:00:00Z
     webUrl: "https://www.stltoday.com/news/national/crime-and-courts/how-ai-powered-tech-landed-man-in-jail-with-scant-evidence/article_30dcdb48-e395-5092-933d-0ddd1c589c53.html"

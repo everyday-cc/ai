@@ -7,8 +7,8 @@ originalUrl: "https://www.autoevolution.com/news/google-rival-baidu-has-made-an-
 webUrl: "https://www.autoevolution.com/news/google-rival-baidu-has-made-an-ai-chip-for-autonomous-driving-and-more-167674.html"
 type: article
 quality: 56
-heat: -1
-published: false
+heat: 86
+published: true
 
 provider:
   name: autoevolution.com
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu's Kunlun II AI chips enter mass production"
-    excerpt: "Chinese tech giant Baidu has begun mass-producing its second generation of Kunlun artificial intelligence chips, used in its cloud data centers and smart electric vehicles. Baidu spun the Kunlun chip business out into an independent company earlier this year,"
-    publishedDateTime: 2021-08-19T11:50:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/baidus-kunlun-ii-ai-chips-enter-mass-production/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 56
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Baidu_headquarters.2e16d0ba.fill-1200x630.jpg"
-        width: 400
-        height: 211
-        isCached: true
   - title: "Baidu says 2nd-gen Kunlun AI chips enter mass production"
     excerpt: "BEIJING, Aug 18 (Reuters) – Chinese tech giant Baidu said on Wednesday it had begun mass-producing second-generation Kunlun artificial intelligence (AI) chips, as it races to become a key player in the chip industry which Beijing is trying to strengthen."
     publishedDateTime: 2021-08-21T11:53:00Z
@@ -53,6 +39,20 @@ related:
       - url: "https://fintechzoom.com/wp-content/uploads/2021/08/RYPZAKZXTBPZFPVVEKT4DR5U44.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Baidu Announces Autonomous Driving Milestones"
+    excerpt: "Baidu CEO unveils vision for mobility of the future – a robocar that moves, communicates and learns; Launches new robotaxi mobile platform. Baidu this week held its annual flagship technology conference,"
+    publishedDateTime: 2021-08-19T19:20:00Z
+    webUrl: "https://www.aftermarketnews.com/baidu-announces-autonomous-driving-milestones-at-baidu-world-2021/"
+    type: article
+    provider:
+      name: After Market News
+      domain: aftermarketnews.com
+    quality: 39
+    images:
+      - url: "https://s19538.pcdn.co/wp-content/uploads/2021/08/Baidu-exterior-1000x563.jpg"
+        width: 1000
+        height: 563
         isCached: true
   - title: "Baidu Announces Baidu Brain 7.0 and Production of 2nd Gen Kunlun AI Chip"
     excerpt: "Baidu today showcased its artificial intelligence technology with the launch of Baidu Brain 7.0, the start of mass production of its 2nd generation Kunlun AI chip, Kunlun II, and the demonstration of industrial applications using Baidu AI Cloud."

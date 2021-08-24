@@ -7,7 +7,7 @@ originalUrl: "https://mobileidworld.com/baidus-autonomous-vehicle-vision-feature
 webUrl: "https://mobileidworld.com/baidus-autonomous-vehicle-vision-features-biometric-tech-081908/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu Announces Autonomous Driving Milestones"
-    excerpt: "Baidu CEO unveils vision for mobility of the future – a robocar that moves, communicates and learns; Launches new robotaxi mobile platform. Baidu this week held its annual flagship technology conference,"
-    publishedDateTime: 2021-08-19T19:20:00Z
-    webUrl: "https://www.aftermarketnews.com/baidu-announces-autonomous-driving-milestones-at-baidu-world-2021/"
+  - title: "Iris and face biometrics on the rise for access control worldwide"
+    excerpt: "Two separate market studies have highlighted the emerging relevance of iris biometrics for access control applications worldwide."
+    publishedDateTime: 2021-08-23T21:07:00Z
+    webUrl: "https://www.biometricupdate.com/202108/iris-and-face-biometrics-on-the-rise-for-access-control-worldwide"
     type: article
     provider:
-      name: After Market News
-      domain: aftermarketnews.com
-    quality: 39
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
     images:
-      - url: "https://s19538.pcdn.co/wp-content/uploads/2021/08/Baidu-exterior-1000x563.jpg"
-        width: 1000
-        height: 563
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09161443/iris-and-face-biometrics.jpg"
+        width: 1720
+        height: 1032
         isCached: true
 
 secured: "MZkTynLQP1xwWeHkiLVj7EE64Z33B1tYeCv4hXhbopOUPDGqljpbz8L9gj0Bb5fQ0T7RbcPj5nAYxJirMQmk+sUKk0NdXiuo2Ba1iYJguI3I3PetfehfkMFWle4fltGfuNCsjTdWwFqyWV+J7JcyqPVZE3dFgSZekUuu+U4NlWCUU0C3+VBHhnrhuRkGkPyk4UlWUKXt2JvB2ntvnToR2dU1pS/K5IES8Gsr+IuXpJb3uPq+QIbQ1LR19dGDEh27eAKIHdtLA2RBBVlb1PFoG6YqNcDx9JMlAKvEgCKoeQOL+vMWpHvIWyzavkFC7kTGYoa8il/TF7V5inBdwBfuprU/ItiKNsmM/fHwlv1hxlySyFHv/TNcFeQIyLAS1wE3P24P8NO3MqXMC71B2QdVFUrcIAWp0UggdvureqYvSFeGqdwMl9htfCs914aO2EjPP8vm34lAX6NZgC0oXfdu+wR/6qOOWJaeXh8x70OPx06Ep89V6H7tKEP3bq2yTN5/hIg6/BssRWBKs1hJQs5DEw==;ufx85AA9Ukt9JS7s/yHnWg=="

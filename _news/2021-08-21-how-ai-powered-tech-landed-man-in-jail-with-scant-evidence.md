@@ -58,20 +58,6 @@ related:
         isCached: true
   - title: "How AI-powered tech landed man in jail with scant evidence"
     excerpt: "Michael Williams’ wife pleaded with him to remember their fishing trips with the grandchildren, how he used to braid her hair, anything to jar him back to his world outside the concrete walls of Cook County Jail."
-    publishedDateTime: 2021-08-19T12:20:00Z
-    webUrl: "https://apnews.com/7e3345485aa668c97606d4b54f9b6220"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/30b09fd23d1745e2b89cf69c5e676ec9/3000.jpeg"
-        width: 3000
-        height: 2000
-        isCached: true
-  - title: "How AI-powered tech landed man in jail with scant evidence"
-    excerpt: "Michael Williams’ wife pleaded with him to remember their fishing trips with the grandchildren, how he used to braid her hair, anything to jar him back to his world outside the concrete walls of Cook County Jail."
     publishedDateTime: 2021-08-22T07:09:00Z
     webUrl: "https://columbiabasinherald.com/news/2021/aug/22/how-ai-powered-tech-landed-man-in-jail-with-2/"
     type: article

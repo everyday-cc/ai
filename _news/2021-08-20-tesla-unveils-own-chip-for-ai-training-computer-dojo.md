@@ -399,20 +399,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 86
-  - title: "What investors need to know about Tesla's AI day"
-    excerpt: "CNBC's 'Squawk Box' team discusses Tesla's valuation ahead of its artifical intelligence day with Gene Munster of Loup Ventures and Gordon Johnson, GLJ Research CEO and founder."
-    publishedDateTime: 2021-08-19T11:58:00Z
-    webUrl: "https://www.cnbc.com/video/2021/08/19/what-investors-need-to-know-about-teslas-ai-day.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 84
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106930296-16293722741629372269-18143738765-1080pnbcnews.jpg?v=1629372273"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Tesla's 'AI Day' reveals new AI-learning server, Dojo, and Tesla Bot"
     excerpt: "Tesla's AI Day event showcased how Tesla is using AI and neural networks to improve self-driving technology, solar power generation and storage, and even powering a humanoid robot called Tesla Bot."
     publishedDateTime: 2021-08-20T08:04:00Z

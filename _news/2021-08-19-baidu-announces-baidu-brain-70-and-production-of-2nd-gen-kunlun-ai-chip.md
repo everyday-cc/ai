@@ -19,20 +19,6 @@ topics:
   - AI Hardware
 
 related:
-  - title: "Baidu's Kunlun II AI chips enter mass production"
-    excerpt: "Chinese tech giant Baidu has begun mass-producing its second generation of Kunlun artificial intelligence chips, used in its cloud data centers and smart electric vehicles. Baidu spun the Kunlun chip business out into an independent company earlier this year,"
-    publishedDateTime: 2021-08-19T11:50:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/baidus-kunlun-ii-ai-chips-enter-mass-production/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 56
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Baidu_headquarters.2e16d0ba.fill-1200x630.jpg"
-        width: 400
-        height: 211
-        isCached: true
   - title: "Google Rival Baidu Has Made an AI Chip for Autonomous Driving and More"
     excerpt: "Baidu has unveiled its latest Kunlun II chip at the Baidu World Conference. It is claimed to be two to three times faster than its predecessor, but what is more important here is that the unit is an artificial intelligence chip that can also be used for autonomous cars."
     publishedDateTime: 2021-08-19T16:38:00Z
@@ -60,6 +46,20 @@ related:
       - url: "https://fintechzoom.com/wp-content/uploads/2021/08/RYPZAKZXTBPZFPVVEKT4DR5U44.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Baidu Announces Autonomous Driving Milestones"
+    excerpt: "Baidu CEO unveils vision for mobility of the future – a robocar that moves, communicates and learns; Launches new robotaxi mobile platform. Baidu this week held its annual flagship technology conference,"
+    publishedDateTime: 2021-08-19T19:20:00Z
+    webUrl: "https://www.aftermarketnews.com/baidu-announces-autonomous-driving-milestones-at-baidu-world-2021/"
+    type: article
+    provider:
+      name: After Market News
+      domain: aftermarketnews.com
+    quality: 39
+    images:
+      - url: "https://s19538.pcdn.co/wp-content/uploads/2021/08/Baidu-exterior-1000x563.jpg"
+        width: 1000
+        height: 563
         isCached: true
 
 secured: "K2e2dgFgfAN6QbBtTA4DCOVhlYhpgApIPOWq9zzCM0tg6adzZFunYAotGQn8k9skkvRi2vAtJChz/ez5k9cevkJtmXcYLYjJWy0/RysjvjChn66KF6mrlLOYLPIEUkEf9SL6MMxbc8iahrxhfcck/uH7pVfI1Ozv8Tc02Iv9LVFY09Zb4GvdYto46ztRQzxt54clPN4s9/ilVvqDkRB1mDnFrnjEGzT0ht/MokA6qH90dk2Oh2hwzMq9yyp/5evLnYA4yK57ZGkldDJEL32+/QtF3Kt1Hu5BKS6HywXzxJhURSLRSrQc+BKinKP7KN1bYCpINZ89irMQ4pZawk+E5VCLINi3LMSaZZcSxjUYFyg=;pxe7rrY4bmdTB7xPrvf3IQ=="

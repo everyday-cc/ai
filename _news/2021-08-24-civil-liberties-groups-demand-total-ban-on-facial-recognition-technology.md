@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 754
         isCached: true
-  - title: "Campaigners call for ban on use of facial recognition tech in UK"
-    excerpt: "Human rights group Liberty has called on the UK to ban the use of facial recognition software by police forces and private companies, as the British Government updates its guidance on the use of the surveillance technologies."
-    publishedDateTime: 2021-08-19T11:58:00Z
-    webUrl: "https://diginomica.com/campaigners-call-ban-use-facial-recognition-tech-uk"
-    ampWebUrl: "https://diginomica.com/campaigners-call-ban-use-facial-recognition-tech-uk?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/campaigners-call-ban-use-facial-recognition-tech-uk?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 74
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2021-08/76522589-0B01-4323-9BBC-AA85BA5ABD9A.jpeg"
-        width: 640
-        height: 425
-        isCached: true
   - title: "Civil liberties groups demand government bans facial recognition cameras"
     excerpt: "Police and Home Office are accused of bypassing parliament over guidance allowing officers, local councils and enforcement agencies to use facial recognition across England and Wales in defiance of court rulings against invasive filming."
     publishedDateTime: 2021-08-23T09:27:00Z
@@ -161,20 +145,6 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2021/08/23/10/46991959-0-image-a-2_1629711354901.jpg"
         width: 636
         height: 382
-        isCached: true
-  - title: "The use of facial recognition technology for policing in Delhi: An empirical study of potential religion-based discrimination"
-    excerpt: "The use of new technology like facial recognition by police in India raises questions of efficiency, surveillance, and discrimination."
-    publishedDateTime: 2021-08-23T05:25:00Z
-    webUrl: "https://www.medianama.com/2021/08/223-facial-recognition-technology-policing-delhi/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 12
-    images:
-      - url: "https://www.medianama.com/wp-content/uploads/2020/10/flat-3252983_1280.png.png"
-        width: 1280
-        height: 1066
         isCached: true
 
 secured: "V4r+TJChZW3EFGqRF26+aBWjevo+rN8tblCozi605F0UtZ9FVkoWMsNS9ht2PMWQvc9u5bHdpIw3HLY+X9VTxajGheybuMgdrs50DMn0qZCladNcblseWr9V+FNGEJPJ71tYAvax2wuwVdmlQWJf+WAVgD+aqQNYVmcVD5AILMIiGDX3Mj619dphF43gbfUQQUZ9RUZRi4bpBGbJ0UXuBcyoLx1Slpdyes6hgvbQ1dDXpMGYAPoas0ATJ9GmedkgLwYX4aqzjTXTfnZ1VzPFRTGcbGWu1C3qhjpk3vVleIbwfOpns4BaR2uhOM79+h7InDhL+tfSPLMhzyLjfFtZB1c2FS99CQS4y4GizEEe3jXAdgQOFjzXtsIWOKUmybwySXtxArm9GJFbeehVJng72/EoFnh9yMPv3turftFXEek6sohivg4z7Z/QFSIfjL2kxQh9lTpmHhTrBZQhe3nH8niW3ce80NAN86mF+EJeYP1aPxWf1Kinl+rqIVNLZRSFtS/oP7qizhvhDlztbMQWBA==;H3Dbvboqf60nL7A3MACVrQ=="

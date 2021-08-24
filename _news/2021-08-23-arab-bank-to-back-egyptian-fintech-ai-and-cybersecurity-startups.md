@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/startups/2021/arab-bank-back-egyptian-fintech
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/startups/2021/arab-bank-back-egyptian-fintech-artificial-intelligence-cybersecurity-startups/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -87,15 +87,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "A Canadian-based Fintech Company to Expand Globally With World-class AI Technology"
-    excerpt: "As such, Peak Fintech Group announced on August 16 that it will be acquiring Cubeler, an analytics and AI company located in the heart of Montreal. Peak Fintech to acquire Cubeler In a press release, it was revealed that Peak Fintech will acquire 100 per ..."
-    publishedDateTime: 2021-08-19T13:00:00Z
-    webUrl: "https://stockhouse.com/news/newswire/2021/08/19/a-canadian-based-fintech-company-to-expand-globally-with-world-class-ai"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 13
 
 secured: "cB6wJTqDSpJVKZ7qo6obxBHf7s81zaYyWlUenrDElRAAOvQckpfFLy3vcCjzYOIjGSsPWVzGt57SisKWWTtQ7pIWTxj87qlMhxbggH4zzNhg1Yi5b1THtyqkmqa4auHGddDPENNmSn+KNKAPVU+rF6Jd3yBw+srk+ainJg/Sq7XcBq8ynMBwQrISF01JrAIZTx7hWviFN/1nv1qR/MIJVoAabzR3/O++SlvgoE1Y7ATUYyw29i7BnQl15ZpZewpUfv4yFxqrhuR0LWqRWsTD0pFL/6s4DmELMJ5sWoYxqLobHZPu7rUyH/oJI0oh6DRX8eU/JgPDn9i8rJjl8o3+TC41TROWjqiqQH3ue/j++Fk8N5xIo6j+tEI7tOVj4WuClPM01/lq77RAYdNxaRqHtvWRE1miIqRrWCE+rOPdS81OJb426AsWbreNZimv8wJEybk8lAOG9Lg9Ym2Hc9sOEYEstq6vOkw7yi20fj2TV6if48kT6S9HzYJKfcUzg6RuNA/6mRb+mtjdsxmnAIUMZQ==;jPaiFbCB9Y7W7s1hfOg+7w=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.pcworld.com/article/3630515/the-full-nerd-ep-188-intel
 webUrl: "https://www.pcworld.com/article/3630515/the-full-nerd-ep-188-intels-12th-gen-alder-lake-and-arc-gpu.html"
 type: article
 quality: 69
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,24 +27,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Intel's Arc gaming GPU: Price, specs and availability"
-    excerpt: "Intel Arc GPUs will face off against AMD and Nvidia rivals with hardware ray tracing and other key features. Read all about them here."
-    publishedDateTime: 2021-08-19T13:00:00Z
-    webUrl: "https://www.pcworld.com/article/3629402/intels-arc-gaming-gpu-price-specs-and-availability.html"
-    ampWebUrl: "https://www.pcworld.com/article/3629402/intels-arc-gaming-gpu-price-specs-and-availability.amp.html"
-    cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3629402/intels-arc-gaming-gpu-price-specs-and-availability.amp.html"
-    type: article
-    provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 104
-    images:
-      - url: "https://images.idgesg.net/images/article/2019/03/intel-xe-gpu-tease-100791559-large.jpg?auto=webp"
-        width: 1199
-        height: 662
-        isCached: true
 
 secured: "HLZ3V8XVXJSBtznL1060YUOiuV651klhiIfsbyS/NDQAyJBtsccqFhJDGxouWX+yplQnpF8Co9+JkYf7TDfbiC0DFRyi1gIWW5khGgtXHsfAM3AKZPPxEVhMKRkyrXyIitsprxZ3RN+Dizu8BFFsLsIbwzgtZekWkLwLdKmcjlFT/iIFhoT4ubTa44PWL8yo27cdbqN3kpjyeuxwof3XBfDfaiekuPveGx0OqXNzw2owqVeWkcgXcdnQzbvDSXXr9prag0sO0oE4B+WxOaYQm9pO7s/zJYdVHb+oNSMcDqneGqESFjWX+QcAd3C9rssvGmwZw7dJ/Upn1d7r5fkI0ZK+CX8fQKSG3OQxgsf6S1j/CU3q6cnNORBbWPwBKG/wkGGXp3wZr3aLGJiMiiZrMsMbNC55Akg5VgsKCaiKFKh9IMFgik0rcnNztrafQcVnmOsU1dVr+rdPa44Ui3N8BbyoZCILTzpmnzAAYL51xGZIpJg5UsO5ahdSZ1Zy6nH31SfiyggWC+iD7qlNEWqlyw==;is5OPcE0p86ad0tVzYKiwA=="
 ---

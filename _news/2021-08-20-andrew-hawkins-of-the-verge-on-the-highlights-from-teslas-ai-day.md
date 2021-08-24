@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/video/2021/08/20/andrew-hawkins-of-the-verge-
 webUrl: "https://www.cnbc.com/video/2021/08/20/andrew-hawkins-of-the-verge-on-the-highlights-from-teslas-ai-day.html"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -43,6 +43,17 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Key Takeaways From Much-Awaited Tesla (TSLA) AI Day Event"
+    excerpt: "Tesla’s TSLA highly anticipated Artificial Intelligence (AI) day event was live-streamed on the company’s official YouTube channel on Aug 19. At the flashy event, the electric car maker made several key announcements in the areas of computing,"
+    publishedDateTime: 2021-08-23T12:57:00Z
+    webUrl: "https://www.nasdaq.com/articles/key-takeaways-from-much-awaited-tesla-tsla-ai-day-event-2021-08-23"
+    ampWebUrl: "https://www.nasdaq.com/articles/key-takeaways-from-much-awaited-tesla-tsla-ai-day-event-2021-08-23?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/key-takeaways-from-much-awaited-tesla-tsla-ai-day-event-2021-08-23?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 84
 
 secured: "0oiHBDT7QqdGsGKRWgBqAP4nk/FnQ5JgsuLyvRcnX/rgG/sUAbQ1WAS91ikwvI9YEsbpwRJhIbFCa7XzbXGzSBHnHckUBk/upLXxryegcX6ZibW9SGhKCcSDt3BCao9xwtukfwzWfWuS/8O88usyBmW4dZYoJ0gB5cPqArdLEBYtPU4DnBwHkD+wHMux37y3amtKWJQLugj1vzoS3ODbGgSQgfAX5LxqxAjpKEwP5OAkbSAYRNgk2C1FI52CLLp9NKzDR3Y+cFvGkUoV2jAAy5i3OBk45rLqLjrFoJ1e21kLpb2NpJgCQEaelf+M4iqCIWsBRaCWPVUiAI6fUIMrxG+CDxwxQQFzEDCME3fa70irr0c99c2OOfRyWUD9DHS+mFCV4AHKfaByVWrDMUOE3rd/BxY/cIlPojC65kF0NEFdExovJfrWY4ZMqtMhb9r64NM7WIGKRLd4bnUwtc4vlKY3WiLk1RUrNAZnbWXxWa+BMVvtNiIFtroFvOiriAnPW+eq3q1VCZ+0qJW8bek/LA==;oxE4pDvK5WcnaMtQRQK+Dw=="
 ---

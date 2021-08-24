@@ -415,20 +415,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 86
-  - title: "What investors need to know about Tesla's AI day"
-    excerpt: "CNBC's 'Squawk Box' team discusses Tesla's valuation ahead of its artifical intelligence day with Gene Munster of Loup Ventures and Gordon Johnson, GLJ Research CEO and founder."
-    publishedDateTime: 2021-08-19T11:58:00Z
-    webUrl: "https://www.cnbc.com/video/2021/08/19/what-investors-need-to-know-about-teslas-ai-day.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 84
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106930296-16293722741629372269-18143738765-1080pnbcnews.jpg?v=1629372273"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Tesla's 'AI Day' reveals new AI-learning server, Dojo, and Tesla Bot"
     excerpt: "Tesla's AI Day event showcased how Tesla is using AI and neural networks to improve self-driving technology, solar power generation and storage, and even powering a humanoid robot called Tesla Bot."
     publishedDateTime: 2021-08-20T08:04:00Z
@@ -1256,6 +1242,6 @@ related:
         height: 445
         isCached: true
 
-secured: "lmyV6KYPbY63FbA2N2pIu/HYrV3Db5k9xZDPAxeBnAe0our9tKnS7HTVZM2D6wuISZriQJX4siNTU3nDn45lteIqhr/RpYw+9cUMXVwlpIKBdAzajbncvCp5ay7+4TSopJIMY//LMxbA3Yl6XZaP6uqLCFSooqVtSGnLY278A6L7dAU/Jz8gRmbWHqSPctP/9G8tQ/rev/LhzWpIcMyFZHK1mnCifcHd38aXmouNooCpTAMKyqfLy6yYaMmQOleDarzPAZE+smASaMkR5nekrbyLD+DfwiugHTnhOhMuw9OBV+D7btO8HjxUdzzJPH7qZy57vbeAa8PK04CAL+8Do6JyCyIAZMcT1xQ8iLj04eA=;BC0KlCdopzPZA21R6jPCNg=="
+secured: "MLrLr0F7q+llrqeVfJK5Lrbz8HINxUz6OiIAtDFDo3StYPkhQSeLabmBofcXSxNjWzfiWA0ZxFz2//INL67yioi9nEXKAV6vjZh6eyizgAiOB2fyFDoLCmut+LE4CF5spiNCOsZ/xRvQXP3U4W41SffIuoh7fKiAjjDZxchz4LjKjmQeqvdck694qw5AfqHfTiU3UH5jsEsdAs7hORl1GuT5eBUaxXaHA+OKMH/wskisR2Rp6K+VWy9eqdJEpTlepVE3FZ/MDKV1VeKjdmc+fa7e84uStBdtvUEDsMRwPFy1VZbreB4jK83PpSPYAftkry5f6mJCCqZrHxSLBB6dsig6wlw+tmdqP8yWUwTLudfwvx+i7sQA4h2eWivXhOvRLs7c70pZJYU6jxEY2tcrD2IOpj8qreYbyfoD8ZZfSyNb5yh7s4QJKGWl0vYm40wT4RVrOBukpN80qaMF4YKg8Nq1Ny4audl/GNPZCpRL26ymZGTnOFxs7jfZC+N9sogvDUFRI/ydAvbGSo5BWHFhBg==;LSkjVRFT4nmJeptI2ODPvQ=="
 ---
 

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel XeSS is Alchemist's answer to DLSS and FSR, and can work on anyone's GPU"
-    excerpt: "Intel has announced that its upcoming lineup of gaming graphics cards, now known as Intel Alchemist, will support a frame rate boosting technology called (XeSS). That bit you might have known already,"
-    publishedDateTime: 2021-08-19T13:01:00Z
-    webUrl: "https://www.pcgamer.com/intel-xess-xe-super-sampling/"
-    ampWebUrl: "https://www.pcgamer.com/amp/intel-xess-xe-super-sampling/"
-    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/intel-xess-xe-super-sampling/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 55
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/8fgPWdA2DDMJtR4gfRM8ef-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Intel’s GPU ambition comes into fruition with Arc; Aims to tackle DLSS and FSR with XeSS"
     excerpt: "Intel has officially unveiled its brand new GPU division called Intel Arc that will be in charge of developing GPUs for laptops and desktops."
     publishedDateTime: 2021-08-20T09:39:00Z
