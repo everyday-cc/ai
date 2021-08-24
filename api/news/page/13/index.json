@@ -2,6 +2,187 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-08-12-uk-regtech-shield-introduces-alert-transparency-capabilities-by-leveraging-ai-nlp.md",
+      "title": "UK Regtech Shield Introduces Alert Transparency Capabilities by Leveraging AI, NLP",
+      "excerpt": "UK Regtech firm Shield has introduced Alert Transparency Capabilities by leveraging AI and natural language processing or NLP.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2021/08/179061-uk-regtech-shield-introduces-alert-transparency-capabilities-by-leveraging-ai-nlp/",
+      "originalUrl": "https://www.crowdfundinsider.com/2021/08/179061-uk-regtech-shield-introduces-alert-transparency-capabilities-by-leveraging-ai-nlp/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/09/Regtech-in-the-UK-300x222.jpg",
+          "width": 300,
+          "height": 222,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2021/08/179061-uk-regtech-shield-introduces-alert-transparency-capabilities-by-leveraging-ai-nlp/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/08/179061-uk-regtech-shield-introduces-alert-transparency-capabilities-by-leveraging-ai-nlp/amp/",
+      "publishedDateTime": "2021-08-12T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-14-tech-specialties-that-may-soon-be-obsolete.md",
+      "title": "14 Tech Specialties That May Soon Be Obsolete",
+      "excerpt": "The tech industry evolves rapidly, so knowing what skills the industry needs right now—and what skills may soon be obsolete—improves a budding tech professional’s options.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/12/14-tech-specialties-that-may-soon-be-obsolete/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/12/14-tech-specialties-that-may-soon-be-obsolete/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6114367789fc7b23d586cb13%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/12/14-tech-specialties-that-may-soon-be-obsolete/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/12/14-tech-specialties-that-may-soon-be-obsolete/amp/",
+      "publishedDateTime": "2021-08-12T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-il-makiage-acquires-leading-israeli-computer-vision-startup-voyage81.md",
+      "title": "IL MAKIAGE Acquires Leading Israeli Computer Vision Startup Voyage81",
+      "excerpt": "IL MAKIAGE, the fastest growing beauty company in the U.S., today announces the acquisition of Voyage81, a deep-tech AI-based computational imaging startup. IL MAKIAGE’s acquisition of Voyage81 will enable the company to use Voyage81’s patented hyperspectral imaging systems to further enhance the company’s machine learning capabilities and aligns with IL MAKIAGE’s commitment to continue innovating and revolutionizing the beauty and wellness industries at-large.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-middle-east-business-israel-6ff56fede6dd48878405d62b70391e57",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-middle-east-business-israel-6ff56fede6dd48878405d62b70391e57",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-12T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-jll-to-acquire-artificial-intelligence-leader-skyline-ai.md",
+      "title": "JLL to Acquire Artificial Intelligence Leader Skyline AI",
+      "excerpt": "The acquisition will allow JLL clients to “better predict future property values, improve cost savings, identify promising investment opportunities and make critical business decisions.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.globest.com/2021/08/12/jll-to-acquire-artificial-intelligence-leader-skyline-ai/",
+      "originalUrl": "https://www.globest.com/2021/08/12/jll-to-acquire-artificial-intelligence-leader-skyline-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.globest.com/contrib/content/uploads/sites/304/2021/01/deal-making-resize.jpg",
+          "width": 621,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.globest.com/2021/08/12/jll-to-acquire-artificial-intelligence-leader-skyline-ai/?amp=1",
+      "cdnAmpWebUrl": "https://www-globest-com.cdn.ampproject.org/c/s/www.globest.com/2021/08/12/jll-to-acquire-artificial-intelligence-leader-skyline-ai/?amp=1",
+      "publishedDateTime": "2021-08-12T04:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GlobeSt.com",
+        "domain": "globest.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-12-you-told-us-you-arent-too-enthusiastic-about-your-phones-ai-camera-modes.md",
       "title": "You told us: You aren't too enthusiastic about your phone's AI camera modes",
       "excerpt": "Most Android Authority readers and followers are not very enthusiastic about AI modes on their phone's camera.",
@@ -957,195 +1138,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-hackathon-in-mexico-helps-find-missing-people-through-artificial-intelligence.md",
-      "title": "Hackathon in Mexico helps find missing people through Artificial Intelligence",
-      "excerpt": "The collection of data and the correct analysis of the same is essential to be able to locate people. With Artificial Intelligence this task could become easier.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/379978",
-      "originalUrl": "https://www.entrepreneur.com/article/379978",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1628697987-personas1.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/379978",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/379978",
-      "publishedDateTime": "2021-08-11T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-congestion-free-roads-might-be-a-self-driving-car-pipe-dream.md",
-      "title": "Congestion-Free Roads Might Be A Self-Driving Car Pipe Dream",
-      "excerpt": "Could self-driving cars make a difference and potentially ease or even eliminate such congestion? There are various pundits that keep touting the aspect that there will never be congested traffic after the advent of self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/11/congestion-free-roads-might-be-a-self-driving-car-pipe-dream/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/11/congestion-free-roads-might-be-a-self-driving-car-pipe-dream/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1053993990%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/11/congestion-free-roads-might-be-a-self-driving-car-pipe-dream/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/11/congestion-free-roads-might-be-a-self-driving-car-pipe-dream/amp/",
-      "publishedDateTime": "2021-08-11T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-arm-institute-virtual-summit-tackles-robotics-for-pandemics-and-beyond.md",
-      "title": "ARM Institute virtual summit tackles robotics for pandemics and beyond",
-      "excerpt": "The ARM Institute opened registration for the ARM Exchange Technical Summit: Robotic Solutions for Pandemics & Beyond.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/arm-institute-virtual-summit-tackles-robotics-for-pandemics-beyond/",
-      "originalUrl": "https://www.therobotreport.com/arm-institute-virtual-summit-tackles-robotics-for-pandemics-beyond/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2021/08/arm-institute-summit-pandemic.jpg",
-          "width": 1000,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-11T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-how-etsy-crafts-aiml-cost-optimization-balance.md",
-      "title": "How Etsy Crafts AI/ML Cost, Optimization Balance",
-      "excerpt": "Much has changed at online retail giant, Etsy, since 2015 when we talked to the company’s senior VP of technical operations about their adherence to their",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2021/08/11/how-etsy-crafts-ai-ml-cost-innovation-balance/",
-      "originalUrl": "https://www.nextplatform.com/2021/08/11/how-etsy-crafts-ai-ml-cost-innovation-balance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/shutterstock_1456290809.jpg",
-          "width": 1300,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2021/08/11/how-etsy-crafts-ai-ml-cost-innovation-balance/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/08/11/how-etsy-crafts-ai-ml-cost-innovation-balance/amp/",
-      "publishedDateTime": "2021-08-11T08:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

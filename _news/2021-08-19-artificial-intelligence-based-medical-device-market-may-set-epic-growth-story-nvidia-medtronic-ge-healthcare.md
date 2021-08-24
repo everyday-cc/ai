@@ -43,22 +43,6 @@ related:
         width: 620
         height: 326
         isCached: true
-  - title: "VVDN Technologies Joins NVIDIA Partner Network for Advanced AI-Enabled Camera, Vision Applications"
-    excerpt: "With pre-trained AI models, developer SDKs and support for cloud-native technologies across the full Jetson lineup. Gurugram: VVDN Technologies announced that it has joined the NVIDIA Partner Network (NPN) as a provider of AI-enabled computer vision ..."
-    publishedDateTime: 2021-08-19T06:55:00Z
-    webUrl: "https://www.india.com/business/vvdn-technologies-joins-nvidia-partner-network-for-advanced-ai-enabled-camera-vision-applications-4898886/"
-    ampWebUrl: "https://www.india.com/business/vvdn-technologies-joins-nvidia-partner-network-for-advanced-ai-enabled-camera-vision-applications-4898886/amp/"
-    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/business/vvdn-technologies-joins-nvidia-partner-network-for-advanced-ai-enabled-camera-vision-applications-4898886/amp/"
-    type: article
-    provider:
-      name: India.com
-      domain: india.com
-    quality: 47
-    images:
-      - url: "https://s3.india.com/wp-content/uploads/2021/08/AI-Artificial-Intelligence-Image.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "AI Exosphere Joins NVIDIA Inception to Bring New AI Assistant to Market"
     excerpt: "\"After being invited to the NVIDIA Inception program and hearing all the excellent work and support, NVIDIA is doing; we knew this was the best fit for our startup,\" said Sal Peer, CEO of AI Exosphere. NVIDIA Inception helps startups during critical stages ..."
     publishedDateTime: 2021-08-19T12:38:00Z

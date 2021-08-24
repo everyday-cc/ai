@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/business/companies/article/3145739/sensetime-pa
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/companies/article/3145739/sensetime-parlays-academic-bona-fides-worlds-largest-platform"
 type: article
 quality: 79
-heat: 81
+heat: 79
 published: true
 
 provider:

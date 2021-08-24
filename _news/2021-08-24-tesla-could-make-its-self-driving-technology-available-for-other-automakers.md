@@ -9,7 +9,7 @@ ampWebUrl: "https://auto.hindustantimes.com/auto/news/tesla-could-make-its-self-
 cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/tesla-could-make-its-self-driving-technology-available-for-other-automakers/amp-41629697069079.html"
 type: article
 quality: 72
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 600
     height: 338
     isCached: true
-
-related:
-  - title: "Tesla: American senators pressing FTC to investigate EV carmaker over alleged misleading self-driving claims"
-    excerpt: "Tesla should be investigated by the U.S. Federal Trade Commission now. At least two senators said on Wednesday, Aug. 18, that Elon Musks company may have misled buyers with the companys automated driving"
-    publishedDateTime: 2021-08-19T06:36:00Z
-    webUrl: "https://www.econotimes.com/Tesla-American-senators-pressing-FTC-to-investigate-EV-carmaker-over-alleged-misleading-self-driving-claims-1615381"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 35
-    images:
-      - url: "https://s1.econotimes.com/assets/uploads/20210819d898dbc0e5536ceb0_th_1024x0.jpeg"
-        width: 640
-        height: 420
-        isCached: true
 
 secured: "gCS26ivNNIHIOZgsQRHoNbK6C+AyIXc0toL+PyvC8e/C5068WICvIrx28gh4TBNWO2Zh0Lm1LyDmrTV7HWNexm4QnJBJ0hCbiq4epJdR5Q/uTh0/tqOrtBzSK8OlMkLY/G3mlG9ls12yP//9hl0BI43v6iiuMOqegE/0LYMfeiYGWvVUxGW80j9tZUwFp6gPqVqMYfuGNq6ClEQAVSFvBIxazRBAeEC1lhXIlDoLFvfc9uyZTmoJk+F94T0/yqg8LpScly+qYLkrQ0f9QpRgTE6obHcuEz2rXYai8iH1eNWPH7ljNQhKelPlLkYSwE3EcSEApXeBSyQl8JVQ71JgGJ/TSvrvZY61+7IPakrwCTcTS2jZew2svBiy5zeSOhFeuWGq2fP61Axx+J81Cwx7lB8QGm0gG2BN9se92XblxtJS893Fk3HmjQPlVNsGRzO0szLqxJ0oFewoXMZAvAg7ukKxXJ7UWbmegtC80Ni7rvK8/47dW2llnD3EBhWY+L/d3ZlwQCxMa8TUVmoe1+movA==;oaOC898t10tgGK8u32WoAw=="
 ---

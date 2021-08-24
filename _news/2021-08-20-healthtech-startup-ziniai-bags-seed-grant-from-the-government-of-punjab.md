@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/380793"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/380793"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Healthtech startup Zini.ai bags Seed grant from Punjab govt"
-    excerpt: "Zini.ai, an AI-powered multilingual virtual physician, a flagship product by Grainpad Pvt Ltd, was selected for the Startup Punjab Seed grant award. Zini.ai was shortlisted from a cohort of 15 startups that were further shortlisted from more than 150 companies from across the country."
-    publishedDateTime: 2021-08-19T06:36:00Z
-    webUrl: "https://www.freepressjournal.in/business/healthtech-startup-ziniai-bags-seed-grant-from-punjab-govt"
-    ampWebUrl: "https://www.freepressjournal.in/amp/business/healthtech-startup-ziniai-bags-seed-grant-from-punjab-govt"
-    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/healthtech-startup-ziniai-bags-seed-grant-from-punjab-govt"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 57
-    images:
-      - url: "https://images.assettype.com/freepressjournal/2021-08/1ce11fe0-6421-47e3-9cba-e7883a077253/Dr_Rohit_Sharma_CEO_and_Founder_Grainpad_Zini.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 1833
-        isCached: true
   - title: "Healthtech startup Zini.ai Bags Seed Grant From The Govt of Punjab"
     excerpt: "Zini.ai was shortlisted from a cohort of 15 startups that were further shortlisted from more than 150 companies across the country."
     publishedDateTime: 2021-08-20T07:02:00Z

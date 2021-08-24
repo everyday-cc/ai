@@ -9,7 +9,7 @@ ampWebUrl: "https://iblnews.org/intel-launches-ai-for-workforce-education-progra
 cdnAmpWebUrl: "https://iblnews-org.cdn.ampproject.org/c/s/iblnews.org/intel-launches-ai-for-workforce-education-program-for-800000-students-in-community-colleges/amp/"
 type: article
 quality: 65
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -41,22 +41,6 @@ related:
       - url: "https://patch.com/img/cdn/assets/layout/logo-patch-800x600.png"
         width: 800
         height: 600
-        isCached: true
-  - title: "Artificial Intelligence Market Is Booming Worldwide | IBM, Intel, Nuance Communications, IFLYTEK"
-    excerpt: "The Artificial Intelligence Market research report includes an in-sight study of the key Global Artificial Intelligence Market prominent players along with the company profiles and planning adopted by them."
-    publishedDateTime: 2021-08-19T05:15:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-market-is-booming-worldwide-ibm-intel-nuance-communications-iflytek/"
-    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-market-is-booming-worldwide-ibm-intel-nuance-communications-iflytek/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-market-is-booming-worldwide-ibm-intel-nuance-communications-iflytek/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 44
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/Global-Artificial-Intelligence-Market-Including-Key-Players-Market-Share.jpg"
-        width: 600
-        height: 400
         isCached: true
 
 secured: "5g2NnUBheI/awJmOqvRzlsDdu2439t6SmRg4ge19EqnOUyRL/W6KbYMZ9oHPGpO28+TuoW5rB8vs7WP8H0iY7Vgdnku/tZTl+JtrQaqjbrEamtrJ00vbVr/v5n3pu/AxPnU8Om6QCLqi7NyNVT2SBXr5msDaCeCtwimZTOSw33OcvR2jKL6bD49LtWErRqS0EMkBBjRTLJBB2929/F/SUIRBkq2Qc2KsGK+GLYLaIjqyGA7LWDd2/C0eMOoFmSrSvuNUpEz3XQJGwSDy+MNE3lCK0vCSnyBm2ie0x5FjYkPFlx98XOcU5AMhYs4pslgK+Uj103d7wC1zufT3/9lrMkmS9uhn9JMOQC/LyWSTZXQ2r0Tv8mZ5ZcmTY8csQcj4s6Yz/AoHIghfW3wlqPVLyI8LGRUGEGEtEX86ZTPHqhv2GiSBybaQxQoLDtqWtZcQrsWQI4DszYAYaZBiF8zxW22JQqIvyC4QQzZdID4bJ6wgISqsOgvnfJ6rZ4JIBoBiPNpvLou8P6G6N5Y28mqLAQ==;okqZigQXc41lWysZ+mmSHQ=="

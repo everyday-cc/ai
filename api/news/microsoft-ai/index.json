@@ -10,7 +10,7 @@
       "originalUrl": "https://manometcurrent.com/call-center-ai-market-to-witness-huge-growth-by-2028-ibm-google-microsoft/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -40,50 +40,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-consumer-analytics-using-nlp-and-ai-in-the-hpc-cloud.md",
-      "title": "Consumer Analytics Using NLP and AI in the HPC Cloud",
-      "excerpt": "Customers and shoppers have benefited greatly from advances in Internet connectivity in recent years. Rapidly growing e-commerce firms have yielded actual",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/2021/08/20/consumer_analytics_using_nlp_and_ai/",
-      "originalUrl": "https://www.datanami.com/2021/08/20/consumer_analytics_using_nlp_and_ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/smiley_face_emoji_shutterstock_-pixelliebe.jpg",
-          "width": 1000,
-          "height": 596,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-20T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI",
         "Microsoft AI"
       ]
@@ -555,6 +511,50 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-metinvest-achieves-blast-furnace-efficiency-with-machine-learning.md",
+      "title": "Metinvest Achieves Blast-Furnace Efficiency with Machine Learning",
+      "excerpt": "Ukraine-headquartered Metinvest, looking to improve the efficiency of its blast furnaces by reducing fuel consumption by controlling the silicon content in its iron, has started a pilot project with Azure Data Factory and Azure Machine Learning and having seen its efficiency improve against benchmarks set by industry leaders,",
+      "sourceUrl": null,
+      "webUrl": "https://www.steelguru.com/steel/metinvest-achieves-blast-furnace-efficiency-with-machine-learning",
+      "originalUrl": "https://www.steelguru.com/steel/metinvest-achieves-blast-furnace-efficiency-with-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gumlet.assettype.com/steelguru%2F2021-08%2Fbf7a65a3-0f97-40be-871a-42658d642cc5%2FMachine_Learning.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+          "width": 1192,
+          "height": 880,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.steelguru.com/amp/story/steel/metinvest-achieves-blast-furnace-efficiency-with-machine-learning",
+      "cdnAmpWebUrl": "https://www-steelguru-com.cdn.ampproject.org/c/s/www.steelguru.com/amp/story/steel/metinvest-achieves-blast-furnace-efficiency-with-machine-learning",
+      "publishedDateTime": "2021-08-16T20:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Steel News",
+        "domain": "steelguru.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
       ]
     },
     {

@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/autos-transportation/secret-weapo
 webUrl: "https://www.reuters.com/business/autos-transportation/secret-weapon-self-driving-car-startups-humans-2021-08-23/"
 type: article
 quality: 54
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -40,6 +40,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "Humans are a secret weapon for self-driving car startups"
+    excerpt: "Waymo now plans to start commercial autonomous vehicle operations in San Francisco with safety drivers initially."
+    publishedDateTime: 2021-08-23T23:50:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/cars/humans-are-a-secret-weapon-for-self-driving-car-startups-41629720852043.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/cars/humans-are-a-secret-weapon-for-self-driving-car-startups/amp-41629720852043.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/humans-are-a-secret-weapon-for-self-driving-car-startups/amp-41629720852043.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 44
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2021/08/23/600x338/mary-barra_c8eff84c-50d2-11e7-88ef-5a5d74cf2589_1629721137550.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Film's star is self-driving car by Cruise to build trust"
     excerpt: "The car, one of 200 used for testing by the GM unit, stars in a short film meant to earn consumers' trust and educate them about the technology."
     publishedDateTime: 2021-08-21T08:00:00Z
@@ -83,6 +99,6 @@ related:
         height: 568
         isCached: true
 
-secured: "vDufZGoWE1Hk9iDQa+ABnrIhCl78GYzAzQ5MPWQ/cHERHFOhMD7OMb+MA5Jbi5tFh68ZMXjpFY8dqAubmqLrgW8Xhpvl6dESlQWtDSDNRmdai5NwDxwA5Gz9FBKC27HJP4CxQWG4hQKQqItoOcPs+O35+nalyDR4jmZCMI6ezk4ZPUbChjPbx+GM8z4KBax3uLvdJLeb/RMAbfAS2xMGD25TdVpKoTNjN/6onLWvbEj6juVKMRVp4nHatXH6NNctU2dWp5BQi9UJZWrt19Dn7cxBTZZmmBh9u7TATKvC/8NfEJ0A7I7YLFFVn011a/Qvs66BJUqMo4dBDq/902ZD4JDjBcmX9kBg9QdNodVvHSY=;mHs6y6mgar/pwdTgTcjOcg=="
+secured: "qSf2w1osZ0AdRtJZhIgLXEaf8nmIP4ms1ow+QwbYbB//FvWNzs04msqZZcrbKdoDUSe6LsQsbAh0zl0aASUFJYhl1rk6uW2gg3AKg5L7I53f6ZGe34HA31ndAoGKGk699Yks19v/5ifeeRJLFtePza/5OGxNDlwSTjMJL61wJbKfCDvpwEracx7gJteH+vNuL/7wMcjwuB2GFh/Ft84EXsNFCVyGoV8XHmliUItCft38K/KXCnnBuYyrZP84jXaY4mqjYO60pu5NG1kERtX1zZ5zOaGa55PwCDyevJskoFDtVcTueYdagai4P1Eqkbu+hoz+mLKpaNhNbUF0DOuzAZm3X2n9xA8sf8BkKiDKJ0KkIHEioVbyrfKi0gHWlXtbH9XGh+KjZuUu5UjXuhySUE3h7SdexDg+PBH/gOkdnoGAOeNcmZG80N5aWwJ9k1ToWUfBDEpzRSX+DaxeT0oLIWV/bOqEfl7c2wJBjlfwrQWXJe/yWp/GI8OcmzxgxF9m1bTrg7PaTG65tZQ5QJizDg==;UNh/EXJwWZi8xauT3nIrGg=="
 ---
 

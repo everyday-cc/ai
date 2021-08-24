@@ -9,7 +9,7 @@ ampWebUrl: "https://thetechportal.com/2021/08/19/amitabh-bachchan-joins-amazon-a
 cdnAmpWebUrl: "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/2021/08/19/amitabh-bachchan-joins-amazon-alexa-as-its-first-indian-celebrity-voice/?amp"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon rolls out India’s first celebrity voice on Alexa with Amitabh Bachchan"
-    excerpt: "Amazon has rolled out India’s first celebrity voice feature on Alexa with the nation’s biggest movie star Amitabh Bachchan as the company makes a push to lure more users in the world’s second-most populated nation."
-    publishedDateTime: 2021-08-19T05:19:00Z
-    webUrl: "https://techcrunch.com/2021/08/18/amazon-rolls-out-indias-first-celebrity-voice-on-alexa-with-amitabh-bachchan/"
-    ampWebUrl: "https://techcrunch.com/2021/08/18/amazon-rolls-out-indias-first-celebrity-voice-on-alexa-with-amitabh-bachchan/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/18/amazon-rolls-out-indias-first-celebrity-voice-on-alexa-with-amitabh-bachchan/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 71
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-102146713.jpg?w=1024"
-        width: 1024
-        height: 702
-        isCached: true
   - title: "Chat with Big B's voice on Amazon Alexa for Rs 149"
     excerpt: "Amazon on Thursday said it has made India's first celebrity voice feature on Alexa available with the legendary Amitabh Bachchan, and the users in India can add his amazing voice to their"
     publishedDateTime: 2021-08-19T07:20:00Z

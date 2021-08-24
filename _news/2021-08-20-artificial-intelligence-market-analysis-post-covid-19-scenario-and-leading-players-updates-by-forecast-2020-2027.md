@@ -6,7 +6,7 @@ publishedDateTime: 2021-08-19T19:11:00Z
 originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-market-analysis-post-covid-19-scenario-and-leading-players-updates-by-forecast-2020-2027"
 webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-market-analysis-post-covid-19-scenario-and-leading-players-updates-by-forecast-2020-2027"
 type: article
-quality: 20
+quality: 22
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - Natural Language Processing
   - AI
   - AI in Healthcare
+  - AI in Robotics
 
 images:
   - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/California-Wildfires-AFP-1K-02-1-600x337.jpg"

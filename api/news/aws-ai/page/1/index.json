@@ -333,6 +333,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-17-noodleai-joins-aws-partner-network-to-build-supply-chain-resiliency-for-cpg-customers.md",
+      "title": "Noodle.ai Joins AWS Partner Network to Build Supply Chain Resiliency for CPG Customers",
+      "excerpt": "Noodle.ai, the leading provider of Flow Operations (FlowOps) software, today announced it has become an Amazon Web Services (AWS) Advanced Technology Partner to drive scale and efficiency for the supply chains of global consumer packaged goods (CPG) companies.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/noodle-ai-joins-aws-partner-network-to-build-supply-chain-resiliency-for-cpg-customers-1030737980",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/noodle-ai-joins-aws-partner-network-to-build-supply-chain-resiliency-for-cpg-customers-1030737980",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-17T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-16-machine-learning-at-the-edge-with-aws-outposts-and-amazon-sagemaker.md",
       "title": "Machine Learning at the Edge with AWS Outposts and Amazon SageMaker",
       "excerpt": "As customers continue to come up with new use-cases for machine learning, data gravity is as important as ever. Where latency and network connectivity is not an issue, generating data in one location (such as a manufacturing facility) and sending it to the cloud for inference is acceptable for some use-cases.",
@@ -948,33 +991,24 @@
     {
       "path": "_news/2021-08-11-virtana-announces-expanded-advanced-technology-partnership-with-amazon-web-services-aws.md",
       "title": "Virtana Announces Expanded Advanced Technology Partnership with Amazon Web Services (AWS)",
-      "excerpt": "Virtana, the AIOps observability company for hybrid cloud, today announced its expanded offering of Virtana Platform on Amazon Web",
+      "excerpt": "Virtana, the AIOps observability company for hybrid cloud, today announced its expanded offering of Virtana Platform on Amazon Web Services (AWS) Marketplace. Offering end user customers a unified SaaS platform on Marketplace,",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/virtana-announces-expanded-advanced-technology-partnership-with-amazon-web-services-aws-301352724.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/virtana-announces-expanded-advanced-technology-partnership-with-amazon-web-services-aws-301352724.html",
+      "webUrl": "https://www.tmcnet.com/usubmit/-virtana-announces-expanded-advanced-technology-partnership-with-amazon-/2021/08/11/9428699.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-virtana-announces-expanded-advanced-technology-partnership-with-amazon-/2021/08/11/9428699.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1245497/Virtana__Logo.jpg?p=facebook",
-          "width": 864,
-          "height": 452,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-11T06:02:00-07:00",
+      "publishedDateTime": "2021-08-11T06:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1277,6 +1311,50 @@
       ]
     },
     {
+      "path": "_news/2021-08-10-5-best-artificial-intelligence-stocks-to-invest-in-right-now.md",
+      "title": "5 Best Artificial Intelligence Stocks To Invest In Right Now",
+      "excerpt": "Xnora.ai specializes in putting artificial intelligence on devices ... conviction in Alphabet‘s ‘moonshot’ bets (such as Waymo), substantial success in which would likely be required ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/?singlepage=1",
+      "originalUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/?singlepage=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/06120633/Artificial-Intelligence-piqsels.com-id-jcurz.jpg",
+          "width": 1920,
+          "height": 1044,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-10T02:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insider Monkey",
+        "domain": "insidermonkey.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-10-ai-image-recognition-market-outlook-pricing-strategy-industry-latest-news-top-company-analysis-and-regional-outlook-2026.md",
       "title": "AI Image Recognition Market Outlook, Pricing Strategy, Industry Latest News, Top Company Analysis and Regional Outlook 2026",
       "excerpt": "The Global AI Image Recognition Market Report Gives an in-depth analysis on industry development patterns, drivers, restraints, structure, scope, various trends, opportunities, challenges, market risk,",
@@ -1308,76 +1386,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-global-cloud-computing-market-revenue-business-strategies-trend-analysis-development-forecast-2027aws-salesforce-rackspace-vmware-spa.md",
-      "title": "Global Cloud Computing Market Revenue, Business Strategies ,Trend Analysis Development Forecast 2027|AWS, Salesforce, Rackspace, VMware, SPA",
-      "excerpt": "Global Cloud Computing Market was valued at USD 275.22 billion in 2019 which is expected to reach USD 625.45 billion by 2027 at a CAGR 18.8%. The recent report titled Cloud Computing Market Size, Status and Forecast 2021-2027” provided by Qualiket Research,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/global-cloud-computing-market-revenue-business-strategies-trend-analysis-development-forecast-2027aws-salesforce-rackspace-vmware-spa/",
-      "originalUrl": "https://manometcurrent.com/global-cloud-computing-market-revenue-business-strategies-trend-analysis-development-forecast-2027aws-salesforce-rackspace-vmware-spa/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/global-cloud-computing-market-revenue-business-strategies-trend-analysis-development-forecast-2027aws-salesforce-rackspace-vmware-spa/",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/global-cloud-computing-market-revenue-business-strategies-trend-analysis-development-forecast-2027aws-salesforce-rackspace-vmware-spa/",
-      "publishedDateTime": "2021-08-10T00:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-ai-in-fashion-market-size-share-growth-trends-top-companies-outlook-and-forecast-by-2028-microsoft-ibm-google-aws-sap-facebook.md",
-      "title": "AI in Fashion Market Size, Share, Growth Trends, Top Companies, Outlook and Forecast by 2028 | Microsoft , Ibm , Google , Aws , Sap , Facebook",
-      "excerpt": "New Jersey, USA, – The report provides exclusive research of global AI in Fashion based on our honest, accurate and completes analysis of the market to help you grow your business. This is a high-quality market research and analysis of AI in Fashion reports that provide strong research with market players to get to know the hidden growth opportunities of the competitive landscape in growth segments and more.",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/ai-in-fashion-market-size-share-growth-trends-top-companies-outlook-and-forecast-by-2028-microsoft-ibm-google-aws-sap-facebook/",
-      "originalUrl": "https://manometcurrent.com/ai-in-fashion-market-size-share-growth-trends-top-companies-outlook-and-forecast-by-2028-microsoft-ibm-google-aws-sap-facebook/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/ai-in-fashion-market-size-share-growth-trends-top-companies-outlook-and-forecast-by-2028-microsoft-ibm-google-aws-sap-facebook/",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/ai-in-fashion-market-size-share-growth-trends-top-companies-outlook-and-forecast-by-2028-microsoft-ibm-google-aws-sap-facebook/",
-      "publishedDateTime": "2021-08-09T18:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AWS AI",
-        "Microsoft AI"
       ]
     }
   ],

@@ -62,7 +62,7 @@
       "originalUrl": "https://www.scmp.com/business/companies/article/3145739/sensetime-parlays-academic-bona-fides-worlds-largest-platform",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -106,50 +106,6 @@
         "Computer Vision",
         "Machine Learning",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-consumer-analytics-using-nlp-and-ai-in-the-hpc-cloud.md",
-      "title": "Consumer Analytics Using NLP and AI in the HPC Cloud",
-      "excerpt": "Customers and shoppers have benefited greatly from advances in Internet connectivity in recent years. Rapidly growing e-commerce firms have yielded actual",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/2021/08/20/consumer_analytics_using_nlp_and_ai/",
-      "originalUrl": "https://www.datanami.com/2021/08/20/consumer_analytics_using_nlp_and_ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/smiley_face_emoji_shutterstock_-pixelliebe.jpg",
-          "width": 1000,
-          "height": 596,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-20T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
       ]
     },
     {
@@ -246,6 +202,50 @@
         "Natural Language Processing",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-baidus-kunlun-ii-ai-chips-enter-mass-production.md",
+      "title": "Baidu's Kunlun II AI chips enter mass production",
+      "excerpt": "Chinese tech giant Baidu has begun mass-producing its second generation of Kunlun artificial intelligence chips, used in its cloud data centers and smart electric vehicles. Baidu spun the Kunlun chip business out into an independent company earlier this year,",
+      "sourceUrl": null,
+      "webUrl": "https://www.datacenterdynamics.com/en/news/baidus-kunlun-ii-ai-chips-enter-mass-production/",
+      "originalUrl": "https://www.datacenterdynamics.com/en/news/baidus-kunlun-ii-ai-chips-enter-mass-production/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.datacenterdynamics.com/media/images/Baidu_headquarters.2e16d0ba.fill-1200x630.jpg",
+          "width": 400,
+          "height": 211,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-19T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Datacenter Dynamics",
+        "domain": "datacenterdynamics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -1093,6 +1093,40 @@
       ]
     },
     {
+      "path": "_news/2021-08-09-graph-based-natural-language-processing-and-information-retrieval.md",
+      "title": "Graph-based Natural Language Processing and Information Retrieval",
+      "excerpt": "Graph theory and the fields of natural language processing and information retrieval are well-studied disciplines. Traditionally, these areas have been perceived as distinct, with different algorithms, different applications and different potential end-users.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/vg/academic/subjects/computer-science/artificial-intelligence-and-natural-language-processing/graph-based-natural-language-processing-and-information-retrieval",
+      "originalUrl": "https://www.cambridge.org/vg/academic/subjects/computer-science/artificial-intelligence-and-natural-language-processing/graph-based-natural-language-processing-and-information-retrieval",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-09T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-09-aicte-to-offer-management-non-technical-courses-in-regional-languages-too.md",
       "title": "AICTE to Offer Management, Non-Technical Courses in Regional Languages Too",
       "excerpt": "Soon after announcing that 14 colleges across India will be offering BTech courses in their mother tongue, now the central government is planning to offer management and several non-tech courses in regional languages too.",
@@ -1387,50 +1421,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-global-vehicle-speech-recognition-system-market-2021-major-segments-driving-factors-sales-volumes-competition-analysis-and-swot-analysis-to.md",
-      "title": "Global Vehicle Speech Recognition System Market 2021 Major Segments, Driving Factors, Sales Volumes, Competition Analysis and SWOT Analysis to 2027",
-      "excerpt": "A new report titled Global Vehicle Speech Recognition System Market Research Report 2021-2027 has been added by Market Research Place",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/270596618/global-vehicle-speech-recognition-system-market-2021-major-segments-driving-factors-sales-volumes-competition-analysis-and-swot-analysis-to-2027",
-      "originalUrl": "https://www.bignewsnetwork.com/news/270596618/global-vehicle-speech-recognition-system-market-2021-major-segments-driving-factors-sales-volumes-competition-analysis-and-swot-analysis-to-2027",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bignewsnetwork.com/cus1628762997753.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-05T19:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

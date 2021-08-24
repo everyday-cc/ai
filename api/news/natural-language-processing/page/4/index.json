@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-07-15-feeding-the-machine-we-give-an-ai-some-headlines-and-see-what-it-does.md",
+      "title": "Feeding the machine: We give an AI some headlines and see what it does",
+      "excerpt": "Initially, I saw two possible approaches to training an algorithm to get a probability of any given headline's success: Binary classification: We simply determine what the probability is of the headline falling into the \"win\" or \"lose\" column based on previous winners and losers.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2021/07/feeding-the-machine-we-give-an-ai-some-headlines-and-see-what-it-does/",
+      "originalUrl": "https://arstechnica.com/information-technology/2021/07/feeding-the-machine-we-give-an-ai-some-headlines-and-see-what-it-does/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/Machine-Learning-Feature-2-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-expertai-announces-winners-of-sentiment-opinion-mining-hackathon.md",
       "title": "Expert.ai Announces Winners of Sentiment & Opinion Mining Hackathon",
       "excerpt": "BOSTON, July 15, 2021 /PRNewswire/ -- Expert.ai announced today the winners of the \"Sentiment & Opinion Mining Natural Language API ... retrieval and machine translation, to make sure user ...",
@@ -1323,49 +1376,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-bytedance-selling-tiktok-ai-to-companies-including-in-india.md",
-      "title": "ByteDance selling TikTok AI to companies including in India",
-      "excerpt": "Beat Analytics Ibeat 1 Year HTTPS To track article's statistics China-based ByteDance which is the parent company of TikTok, has reportedly started selling the AI technology of the short video-making app to other companies,",
-      "sourceUrl": null,
-      "webUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/bytedance-selling-tiktok-ai-to-companies-including-in-india/84165212",
-      "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/bytedance-selling-tiktok-ai-to-companies-including-in-india/84165212",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-84165212,imgsize-488272,width-800,height-434,overlay-etbrandequity/bytedance-selling-tiktok-ai-to-companies-including-in-india.jpg",
-          "width": 800,
-          "height": 434,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://brandequity.economictimes.indiatimes.com/amp/news/digital/bytedance-selling-tiktok-ai-to-companies-including-in-india/84165212",
-      "cdnAmpWebUrl": "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/bytedance-selling-tiktok-ai-to-companies-including-in-india/84165212",
-      "publishedDateTime": "2021-07-06T00:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

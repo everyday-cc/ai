@@ -56,22 +56,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "VVDN Technologies Joins NVIDIA Partner Network for Advanced AI-Enabled Camera, Vision Applications"
-    excerpt: "With pre-trained AI models, developer SDKs and support for cloud-native technologies across the full Jetson lineup. Gurugram: VVDN Technologies announced that it has joined the NVIDIA Partner Network (NPN) as a provider of AI-enabled computer vision ..."
-    publishedDateTime: 2021-08-19T06:55:00Z
-    webUrl: "https://www.india.com/business/vvdn-technologies-joins-nvidia-partner-network-for-advanced-ai-enabled-camera-vision-applications-4898886/"
-    ampWebUrl: "https://www.india.com/business/vvdn-technologies-joins-nvidia-partner-network-for-advanced-ai-enabled-camera-vision-applications-4898886/amp/"
-    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/business/vvdn-technologies-joins-nvidia-partner-network-for-advanced-ai-enabled-camera-vision-applications-4898886/amp/"
-    type: article
-    provider:
-      name: India.com
-      domain: india.com
-    quality: 47
-    images:
-      - url: "https://s3.india.com/wp-content/uploads/2021/08/AI-Artificial-Intelligence-Image.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "aT0E2Nn+lFDBpN1J3DkBG+KT4UqOpksFZ18yYubTYQIsQCWoCKH6mq+WR+y8xlbPEnk0UrHbjWj5fYSViJw/lkbG/uX+TU2eszeKZ1albUdp1Q4HtPOKHzIcZPrZNebuswHC7CQ04qXly90/RP3KTvSYEZd5NMoTP5kj+W4DObu32uMtSagJSZmBF73XKgVW4lb5pELSkoPKnnBKQR5yf8bFXm9Z9oGuqJbkWJo0wldSS5bXy0lXzjLjulv29pwSADBZ5TbwgqMM+U60fBwBXblezlQ4wmdM1ziloAOdpEOUO7Ov0KqDOiae1qEZQ3GerLB5Ecl3WmFfiFM/ZoOI4ZOtipBSISAQzi15CAryLb4=;rZxAGd1IFP7m9F18WIf5xg=="
 ---

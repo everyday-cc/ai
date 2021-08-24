@@ -42,6 +42,22 @@ related:
         width: 730
         height: 395
         isCached: true
+  - title: "WPP acquires AI-technology company Satalia"
+    excerpt: "WPP has announced the acquisition of Satalia, a technology company offering AI solutions for clients. The full announcement is below.The announcement:Satalia is a global leader in enterprise AI and one of the UK’s fastest-growing tech companies,"
+    publishedDateTime: 2021-08-23T22:14:00Z
+    webUrl: "https://mumbrella.com.au/wpp-acquires-ai-technology-company-satalia-699700"
+    ampWebUrl: "https://mumbrella.com.au/wpp-acquires-ai-technology-company-satalia-699700/amp"
+    cdnAmpWebUrl: "https://mumbrella-com-au.cdn.ampproject.org/c/s/mumbrella.com.au/wpp-acquires-ai-technology-company-satalia-699700/amp"
+    type: article
+    provider:
+      name: Mumbrella
+      domain: mumbrella.com.au
+    quality: 59
+    images:
+      - url: "https://mumbrella.com.au/wp-content/uploads/2021/08/WPP-1.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "WPP acquires AI company"
     excerpt: "Advertising and communications business WPP has acquired Satalia, a technology company focused on artificial intelligence (AI), for an undisclosed sum."
     publishedDateTime: 2021-08-23T09:38:00Z

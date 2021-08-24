@@ -7,7 +7,7 @@ originalUrl: "https://www.supplychainquarterly.com/articles/5310-ryder-and-waymo
 webUrl: "https://www.supplychainquarterly.com/articles/5310-ryder-and-waymo-agree-to-build-maintenance-network-for-self-driving-trucks"
 type: article
 quality: 52
-heat: -1
+heat: 62
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Waymo begins work on dedicated Texas hub for self-driving trucks"
-    excerpt: "Alphabet-owned Waymo is looking to gain a strong foothold in the nascent autonomous freight industry, today announcing plans to build a dedicated hub for its self-driving trucks in the state of Texas."
-    publishedDateTime: 2021-08-19T06:51:00Z
-    webUrl: "https://newatlas.com/automotive/waymo-dedicated-texas-hub-self-driving-trucks/"
-    ampWebUrl: "https://newatlas.com/automotive/waymo-dedicated-texas-hub-self-driving-trucks/?amp=true"
-    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/waymo-dedicated-texas-hub-self-driving-trucks/?amp=true"
-    type: article
-    provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 89
-    images:
-      - url: "https://assets.newatlas.com/dims4/default/6981b2a/2147483647/strip/true/crop/1620x1080+150+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F54%2Fb3%2Faf7f948749be8c11427aabf027e8%2Fryder-waymo.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Waymo expands self-driving truck operations"
     excerpt: "The 9 acre hub will be built from the ground up for Waymo Via and its autonomous driving operations. The facility will be the primary operations center for Waymo’s self-driving trucking business in Texas and will be able to accommodate hundreds of trucks ..."
     publishedDateTime: 2021-08-19T12:36:00Z

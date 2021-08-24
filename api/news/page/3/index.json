@@ -2,50 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-08-20-consumer-analytics-using-nlp-and-ai-in-the-hpc-cloud.md",
-      "title": "Consumer Analytics Using NLP and AI in the HPC Cloud",
-      "excerpt": "Customers and shoppers have benefited greatly from advances in Internet connectivity in recent years. Rapidly growing e-commerce firms have yielded actual",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/2021/08/20/consumer_analytics_using_nlp_and_ai/",
-      "originalUrl": "https://www.datanami.com/2021/08/20/consumer_analytics_using_nlp_and_ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/smiley_face_emoji_shutterstock_-pixelliebe.jpg",
-          "width": 1000,
-          "height": 596,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-20T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-20-tesla-unveils-dojo-supercomputer-worlds-new-most-powerful-ai-training-machine.md",
       "title": "Tesla unveils Dojo supercomputer: world’s new most powerful AI training machine",
       "excerpt": "At its AI Day, Tesla unveiled its Dojo supercomputer technology while flexing its growing in-house chip design talent. The automaker claims to have developed the fastest AI training machine in the ...",
@@ -253,7 +209,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/20/how-modern-ai-enabled-automation-unlocks-full-human-potential/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -641,7 +597,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/380793",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -1020,58 +976,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-20-mobility-takes-center-stage-at-baidu-world-2021.md",
-      "title": "Mobility Takes Center Stage At Baidu World 2021",
-      "excerpt": "Baidu World 2021 showed how central autonomous mobility is to the Chinese Internet giant. The company, which operates the most popular search engine in China, has dedicated immense resources toward next-generation transportation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidsilver/2021/08/19/mobility-takes-center-stage-at-baidu-world-2021/",
-      "originalUrl": "https://www.forbes.com/sites/davidsilver/2021/08/19/mobility-takes-center-stage-at-baidu-world-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611eab814517746083c7870b%2F0x0.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T12:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-20-artificial-intelligence-in-retail-market-size-growth-and-forecast-analysis-by-2027.md",
       "title": "Artificial Intelligence in Retail Market Size, Growth and Forecast Analysis By 2027",
       "excerpt": "A recent research report on the Global \"Artificial Intelligence in Retail Market\" presents a complete overview",
@@ -1131,7 +1035,7 @@
       "originalUrl": "https://phys.org/news/2021-08-remote-machine-reveal-archaic-shell.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -1174,7 +1078,7 @@
       "originalUrl": "https://www.thestreet.com/tech/news/nvdajdm081921",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -1204,6 +1108,101 @@
         "news"
       ],
       "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-08-20-amazon-taps-its-socialbot-challenge-to-boost-conversational-ai.md",
+      "title": "Amazon taps its SocialBot challenge to boost conversational AI",
+      "excerpt": "Amazon announced the winners of its annual Alexa Prize SocialBot Grand Challenge, which ​​promotes research into coherence, context awareness, fluency of re",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/19/amazon-taps-its-socialbot-challenge-to-boost-conversational-ai/",
+      "originalUrl": "https://venturebeat.com/2021/08/19/amazon-taps-its-socialbot-challenge-to-boost-conversational-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1150572105-e1629315992557.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/19/amazon-taps-its-socialbot-challenge-to-boost-conversational-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/19/amazon-taps-its-socialbot-challenge-to-boost-conversational-ai/amp/",
+      "publishedDateTime": "2021-08-19T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-baidu-just-launched-a-robocar-prototype-with-its-new-ai-chip.md",
+      "title": "Baidu Just Launched a \"Robocar\" Prototype With Its New AI Chip",
+      "excerpt": "Chinese tech giant Baidu just unveiled its new artificial ... one of the world's biggest tech firms by focusing on AI and self-driving solutions. Baidu said the new chip, which uses 7 nm process ...",
+      "sourceUrl": null,
+      "webUrl": "https://interestingengineering.com/baidu-just-launched-a-robocar-prototype-with-its-new-ai-chip",
+      "originalUrl": "https://interestingengineering.com/baidu-just-launched-a-robocar-prototype-with-its-new-ai-chip",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/V0OyWrKL6Q/sizes/baidu_resize_md.jpeg",
+          "width": 744,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.interestingengineering.com/baidu-just-launched-a-robocar-prototype-with-its-new-ai-chip",
+      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/baidu-just-launched-a-robocar-prototype-with-its-new-ai-chip",
+      "publishedDateTime": "2021-08-19T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI",
         "AI Hardware"
       ]

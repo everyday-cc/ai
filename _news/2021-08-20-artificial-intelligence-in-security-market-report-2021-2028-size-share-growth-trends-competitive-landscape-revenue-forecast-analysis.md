@@ -243,7 +243,7 @@ related:
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 20
+    quality: 22
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/California-Wildfires-AFP-1K-02-1-600x337.jpg"
         width: 600

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.interestingengineering.com/baidu-just-launched-a-robocar
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/baidu-just-launched-a-robocar-prototype-with-its-new-ai-chip"
 type: article
 quality: 76
-heat: 106
+heat: 136
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Baidu Unveils Robocar And Its Second-Generation AI Chip In China"
+    excerpt: "Chinese internet and AI behemoth Baidu has unveiled its second-generation artificial intelligence chip alongside a host of other important pieces of technology related to the automotive industry, including a ‘robocar’."
+    publishedDateTime: 2021-08-20T09:56:00Z
+    webUrl: "https://www.carscoops.com/2021/08/baidu-unveils-robocar-and-its-second-generation-ai-chip-in-china/"
+    ampWebUrl: "https://www.carscoops.com/2021/08/baidu-unveils-robocar-and-its-second-generation-ai-chip-in-china/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/08/baidu-unveils-robocar-and-its-second-generation-ai-chip-in-china/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 76
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2021/08/Baidu-Robocara-1024x555.jpg"
+        width: 1024
+        height: 555
+        isCached: true
   - title: "Baidu leads the self-driving race with an AI-packed ‘robocar’"
     excerpt: "Baidu has focused on diversifying its business beyond advertising to artificial intelligence and driverless cars. Back in May this year, a commercial driverless taxi service was launched in China by the country’s biggest search engine player,"
     publishedDateTime: 2021-08-23T02:50:00Z
@@ -59,6 +75,34 @@ related:
       - url: "https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-08/2308_baidu_-seo.jpeg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Baidu shows off robotaxi concept and second-generation AI computer chip"
+    excerpt: "Baidu says it is ready to move from technical verification to large-scale commercial operation of self-driving cars."
+    publishedDateTime: 2021-08-20T14:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1133304_baidu-shows-off-robotaxi-concept-and-second-generation-ai-computer-chip"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 56
+    images:
+      - url: "https://images.hgmsites.net/lrg/baidu-self-driving-car-concept_100803533_l.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Baidu World 2021: Level 5 autonomous car and mass production of its AI chip announced"
+    excerpt: "During the Baidu World 2021 held on August 18, the Chinese technology giant unveiled its prototype autonomous vehicle. According to the firm, the car would have an autonomy of level 5 SAE, the highest level that exists."
+    publishedDateTime: 2021-08-20T13:54:00Z
+    webUrl: "https://www.actuia.com/english/baidu-world-2021-level-5-autonomous-car-and-mass-production-of-its-ai-chip-announced/"
+    type: article
+    provider:
+      name: Actu IA
+      domain: actuia.com
+    quality: 47
+    images:
+      - url: "https://www.actuia.com/wp-content/uploads/2021/08/Puce-et-Voiture-Autonome.jpg"
+        width: 800
+        height: 400
         isCached: true
   - title: "Baidu claims it has created Level 5 robocar"
     excerpt: "BEIJING: Baidu, the Chinese technology giant behind the country's search engine, has just announced a level 5 SAE autonomous car thanks to a new chip. Behind this potential success is an ambitious open source platform called Apollo."

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/23/synopsys-ceo-ai-designed-chips-wi
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/23/synopsys-ceo-ai-designed-chips-will-generate-1000x-performance-in-10-years/amp/"
 type: article
 quality: 101
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 84
+  - title: "Synopsys design software uses AI to make chips more power efficient"
+    excerpt: "Synopsys Inc said on Monday one of its customers used artificial intelligence software to get a 26per cent gain in the power efficiency of a computer chip, a leap that usually has to wait for a new generation of chip manufacturing technology."
+    publishedDateTime: 2021-08-23T22:09:00Z
+    webUrl: "https://www.channelnewsasia.com/business/synopsys-design-software-uses-ai-make-chips-more-power-efficient-2130786"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 54
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_338%2Cw_600/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=OKRpQAP1"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "zW+MNq1v2X1VuvynRYu3jBVNVBxr60HSnadH/pwTC2ct8RjkI1CCj/81De6IJXV5JqKq2cK8609y7hdHjpNKUTDH6JetGiJhlpO6G0pzlprbwpji13eoL0+Aa2nA2MHGQeGlbokkgPqo8wa1qL5QYh4xmFjFfSKfxUzhhTqGiypG2OKk0/dYwWaopcv9G5Ey2Cektyo20rXQE5PhUNfl0kBC45dmWoRMDGCU0r3jttuPCoVqGtGsa7TAjJQ/UOIMhtNwBBC6bJNRwnY/coQtvPIR9krL/3PzVmXnG4faZhPNC7pMa15O5C+8MKEpSYsZ78h4iKXRMZpb8A4CiIyQLvwECtMF3B/Ee/SQ2lYP/3/HFcrRFbaSDd+IEpJgXW82z5qPG9ChHH2ycQQI1Vq6tdXSirhamZC0rtBUczPPW9gS9ASirryjVf/R/z4j38vMwWyBIFk5gT6uAnwxyiRB7RG0ZItbe8FRlv6dIjdRbkkuYN+inmCWP2EnPI4uCnJB2wUPRkjwuGyrP/s2BFmsCQ==;wcXKOU1R0csH+lUkX2laQg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/4-robotics-stocks-to-watch-this-week
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-robotics-stocks-to-watch-this-week-2021-08-21?amp"
 type: article
 quality: 84
-heat: 87
+heat: 84
 published: true
 
 provider:

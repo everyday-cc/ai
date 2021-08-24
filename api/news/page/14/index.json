@@ -2,6 +2,195 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-08-11-hackathon-in-mexico-helps-find-missing-people-through-artificial-intelligence.md",
+      "title": "Hackathon in Mexico helps find missing people through Artificial Intelligence",
+      "excerpt": "The collection of data and the correct analysis of the same is essential to be able to locate people. With Artificial Intelligence this task could become easier.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/379978",
+      "originalUrl": "https://www.entrepreneur.com/article/379978",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1628697987-personas1.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/379978",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/379978",
+      "publishedDateTime": "2021-08-11T09:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-congestion-free-roads-might-be-a-self-driving-car-pipe-dream.md",
+      "title": "Congestion-Free Roads Might Be A Self-Driving Car Pipe Dream",
+      "excerpt": "Could self-driving cars make a difference and potentially ease or even eliminate such congestion? There are various pundits that keep touting the aspect that there will never be congested traffic after the advent of self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/11/congestion-free-roads-might-be-a-self-driving-car-pipe-dream/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/11/congestion-free-roads-might-be-a-self-driving-car-pipe-dream/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1053993990%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/11/congestion-free-roads-might-be-a-self-driving-car-pipe-dream/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/11/congestion-free-roads-might-be-a-self-driving-car-pipe-dream/amp/",
+      "publishedDateTime": "2021-08-11T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-arm-institute-virtual-summit-tackles-robotics-for-pandemics-and-beyond.md",
+      "title": "ARM Institute virtual summit tackles robotics for pandemics and beyond",
+      "excerpt": "The ARM Institute opened registration for the ARM Exchange Technical Summit: Robotic Solutions for Pandemics & Beyond.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/arm-institute-virtual-summit-tackles-robotics-for-pandemics-beyond/",
+      "originalUrl": "https://www.therobotreport.com/arm-institute-virtual-summit-tackles-robotics-for-pandemics-beyond/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2021/08/arm-institute-summit-pandemic.jpg",
+          "width": 1000,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-11T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-how-etsy-crafts-aiml-cost-optimization-balance.md",
+      "title": "How Etsy Crafts AI/ML Cost, Optimization Balance",
+      "excerpt": "Much has changed at online retail giant, Etsy, since 2015 when we talked to the company’s senior VP of technical operations about their adherence to their",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2021/08/11/how-etsy-crafts-ai-ml-cost-innovation-balance/",
+      "originalUrl": "https://www.nextplatform.com/2021/08/11/how-etsy-crafts-ai-ml-cost-innovation-balance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/shutterstock_1456290809.jpg",
+          "width": 1300,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2021/08/11/how-etsy-crafts-ai-ml-cost-innovation-balance/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/08/11/how-etsy-crafts-ai-ml-cost-innovation-balance/amp/",
+      "publishedDateTime": "2021-08-11T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-08-11-how-computer-vision-works-and-why-its-plagued-by-bias.md",
       "title": "How computer vision works — and why it’s plagued by bias",
       "excerpt": "Computer vision explained. We break down how AI computer vision works, its rise, applications, bias, and challenges.",
@@ -122,49 +311,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-11-deep-learning-model-classifies-brain-tumors-with-single-mri-scan.md",
-      "title": "Deep learning model classifies brain tumors with single MRI scan",
-      "excerpt": "A team of researchers at Washington University School of Medicine have developed a deep learning model that is capable of classifying a brain tumor as one of six common types using a single 3D MRI scan,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-08-deep-brain-tumors-mri-scan.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-08-deep-brain-tumors-mri-scan.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/deep-learning-model-cl.jpg",
-          "width": 1721,
-          "height": 1881,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-08-deep-brain-tumors-mri-scan.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-08-deep-brain-tumors-mri-scan.amp",
-      "publishedDateTime": "2021-08-11T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-11-artificial-intelligence-ai-in-healthcare-market-latest-trends-demand-and-advancement-2021-to-2028.md",
       "title": "Artificial Intelligence (AI) in Healthcare Market Latest Trends, Demand and Advancement 2021 to 2028",
       "excerpt": "According to our new research study on \"Artificial Intelligence (AI) in Healthcare Market Forecast to 2027 - COVID-19",
@@ -215,6 +361,49 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-deep-learning-model-classifies-brain-tumors-with-single-mri-scan.md",
+      "title": "Deep learning model classifies brain tumors with single MRI scan",
+      "excerpt": "A team of researchers at Washington University School of Medicine have developed a deep learning model that is capable of classifying a brain tumor as one of six common types using a single 3D MRI scan,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/924825",
+      "originalUrl": "https://www.eurekalert.org/news-releases/924825",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/fe06826f-37f6-4b29-a4c8-078a2fdd00f5/Rendition/thumbnail/Content/Public",
+          "width": 274,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-11T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -485,33 +674,24 @@
     {
       "path": "_news/2021-08-11-virtana-announces-expanded-advanced-technology-partnership-with-amazon-web-services-aws.md",
       "title": "Virtana Announces Expanded Advanced Technology Partnership with Amazon Web Services (AWS)",
-      "excerpt": "Virtana, the AIOps observability company for hybrid cloud, today announced its expanded offering of Virtana Platform on Amazon Web",
+      "excerpt": "Virtana, the AIOps observability company for hybrid cloud, today announced its expanded offering of Virtana Platform on Amazon Web Services (AWS) Marketplace. Offering end user customers a unified SaaS platform on Marketplace,",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/virtana-announces-expanded-advanced-technology-partnership-with-amazon-web-services-aws-301352724.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/virtana-announces-expanded-advanced-technology-partnership-with-amazon-web-services-aws-301352724.html",
+      "webUrl": "https://www.tmcnet.com/usubmit/-virtana-announces-expanded-advanced-technology-partnership-with-amazon-/2021/08/11/9428699.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-virtana-announces-expanded-advanced-technology-partnership-with-amazon-/2021/08/11/9428699.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1245497/Virtana__Logo.jpg?p=facebook",
-          "width": 864,
-          "height": 452,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-11T06:02:00-07:00",
+      "publishedDateTime": "2021-08-11T06:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -963,213 +1143,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-how-the-pandemic-has-shifted-attitudes-to-the-artificial-intelligence-of-things-and-the-smart-home.md",
-      "title": "How The Pandemic Has Shifted Attitudes To The 'Artificial Intelligence Of Things' And The Smart Home",
-      "excerpt": "The pandemic has wreaked havoc across the world, and everyone is now realizing that, unfortunately, Covid-19 is here to stay. As we begin to accept this fact, we are now looking to adapt the way we live and interact with the world around us.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/11/how-the-pandemic-has-shifted-attitudes-to-the-artificial-intelligence-of-things-and-the-smart-home/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/11/how-the-pandemic-has-shifted-attitudes-to-the-artificial-intelligence-of-things-and-the-smart-home/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f63642f1d09c31654e76aaf%2F0x0.jpg",
-          "width": 1200,
-          "height": 836,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/11/how-the-pandemic-has-shifted-attitudes-to-the-artificial-intelligence-of-things-and-the-smart-home/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/11/how-the-pandemic-has-shifted-attitudes-to-the-artificial-intelligence-of-things-and-the-smart-home/amp/",
-      "publishedDateTime": "2021-08-11T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-jll-moves-to-acquire-artificial-intelligence-startup-skyline-ai.md",
-      "title": "JLL Moves to Acquire Artificial Intelligence Startup Skyline AI",
-      "excerpt": "The real-estate and investment management services firm known as JLL said it plans to use New York-based Skyline AI’s technology to help clients predict future property values, identify new investment opportunities and decide when to raise rent,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/jll-moves-to-acquire-artificial-intelligence-startup-skyline-ai-11628685900",
-      "originalUrl": "https://www.wsj.com/articles/jll-moves-to-acquire-artificial-intelligence-startup-skyline-ai-11628685900",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-383438/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/jll-moves-to-acquire-artificial-intelligence-startup-skyline-ai-11628685900",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/jll-moves-to-acquire-artificial-intelligence-startup-skyline-ai-11628685900",
-      "publishedDateTime": "2021-08-11T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-unlocking-the-transformational-potential-of-the-cloud.md",
-      "title": "Unlocking The Transformational Potential Of The Cloud",
-      "excerpt": "As we’ve seen with printers, by connecting fleets of devices and enabling them with cloud technology, we can find tangible solutions to longstanding industry challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/11/unlocking-the-transformational-potential-of-the-cloud/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/11/unlocking-the-transformational-potential-of-the-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1200275499%2F0x0.jpg",
-          "width": 1200,
-          "height": 803,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/11/unlocking-the-transformational-potential-of-the-cloud/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/11/unlocking-the-transformational-potential-of-the-cloud/amp/",
-      "publishedDateTime": "2021-08-11T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-oracle-tweaks-mysql-and-boosts-storage-engine.md",
-      "title": "Oracle tweaks MySQL and boosts storage engine",
-      "excerpt": "Oracle has announced a free upgrade to its MySQL HeatWave service which it says promises to make life easier for clients, while at the same time improving performance and stability. The upgrade comes in the form of MySQL Autopilot,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/oracle-tweaks-mysql-and-boosts-storage-engine",
-      "originalUrl": "https://www.techradar.com/news/oracle-tweaks-mysql-and-boosts-storage-engine",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/UhpgU7eT2dhfTc52jvyvM-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/oracle-tweaks-mysql-and-boosts-storage-engine",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/oracle-tweaks-mysql-and-boosts-storage-engine",
-      "publishedDateTime": "2021-08-11T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

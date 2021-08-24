@@ -14,6 +14,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AWS AI
 
 images:
   - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/06120633/Artificial-Intelligence-piqsels.com-id-jcurz.jpg"
@@ -21,6 +22,6 @@ images:
     height: 1044
     isCached: true
 
-secured: "Qlf3IkQml7RYElW+uOo34Xj88oMdQkHTTtGK6PlsNQWUWzXS86nz3n7wrTBIGl8Mz0CeXYJofDRbQY1Mf2AoliXrvtczeFXp3HDtTM0j5v5YIkHzcaAr2KjgmSXmqNqZtHc4Gd+7UXv9+ju+Z4b7kQtVHj57k3jxiefzcq2fy4xFK/JMxHRcrZnpLSVFxupFHOPx1uP8dTghknSP3kiFTGUvcSgPB6uPXM2Y89VMT1Sn63UAIUtiq2VlHK6kXpfjz+bsl1B/RpeYcPJIdKwq0DVIw3GghAOEy6qKJIk/lqVta3Z4KcdavG4iVvdEW3MOV01x4L84s89zbFW0Xv64hHM/zUQTdFZWsHSuF3E4UtM=;EWCW7uIvXsQLNTxZy3PfbQ=="
+secured: "wrCpMJoBoWmSh4EW2qRbesAEcNlRdwv23N1PEPdVnqQ8pHYwqghazGujln3Et7AbBFNMO9845kNYwVM/z4EBTv6pN8MEIBR1oKs3a4N/Grc4OyyNC0+5d+I9DJ1t0ladzmvQrTjYg4TmwW2RqdOtiJCJLd7mkc8ZR5IpePqa1IogErtxaR+8UkaYJuflsh8kN9PnY6AkCvQJ13E8gBmvsqO5q+/aGmtppYv9XPm2hjLPgbOVs3/oeLeoKlI/9KeQRWrQT28LKc3tz5kr1fPYStOhK9rIf4UGjPlCbkQHNaSyT0K8m6I+q4N1PZp913p35GiJlX49rwA7RSM6pPZi9PSXC0JzRA9LE3ibMs/y534=;6Vpx3QFcH3Xb3871jEaOOg=="
 ---
 

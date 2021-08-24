@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Waymo begins work on dedicated Texas hub for self-driving trucks"
-    excerpt: "Alphabet-owned Waymo is looking to gain a strong foothold in the nascent autonomous freight industry, today announcing plans to build a dedicated hub for its self-driving trucks in the state of Texas."
-    publishedDateTime: 2021-08-19T06:51:00Z
-    webUrl: "https://newatlas.com/automotive/waymo-dedicated-texas-hub-self-driving-trucks/"
-    ampWebUrl: "https://newatlas.com/automotive/waymo-dedicated-texas-hub-self-driving-trucks/?amp=true"
-    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/waymo-dedicated-texas-hub-self-driving-trucks/?amp=true"
-    type: article
-    provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 89
-    images:
-      - url: "https://assets.newatlas.com/dims4/default/6981b2a/2147483647/strip/true/crop/1620x1080+150+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F54%2Fb3%2Faf7f948749be8c11427aabf027e8%2Fryder-waymo.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Ryder and Waymo agree to build maintenance network for self-driving trucks"
     excerpt: "The companies’ goal is to maximize vehicle up-time and ensure the reliability required to scale operations nationwide, Miami-based Ryder said. According to Waymo Via—Waymo’s trucking and local delivery unit—the move was necessary to serve its growing fleet and geographical footprint."
     publishedDateTime: 2021-08-19T18:58:00Z

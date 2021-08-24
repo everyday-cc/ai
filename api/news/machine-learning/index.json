@@ -62,7 +62,7 @@
       "originalUrl": "https://www.scmp.com/business/companies/article/3145739/sensetime-parlays-academic-bona-fides-worlds-largest-platform",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -117,7 +117,7 @@
       "originalUrl": "https://phys.org/news/2021-08-remote-machine-reveal-archaic-shell.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -543,6 +543,50 @@
       ]
     },
     {
+      "path": "_news/2021-08-17-metinvest-achieves-blast-furnace-efficiency-with-machine-learning.md",
+      "title": "Metinvest Achieves Blast-Furnace Efficiency with Machine Learning",
+      "excerpt": "Ukraine-headquartered Metinvest, looking to improve the efficiency of its blast furnaces by reducing fuel consumption by controlling the silicon content in its iron, has started a pilot project with Azure Data Factory and Azure Machine Learning and having seen its efficiency improve against benchmarks set by industry leaders,",
+      "sourceUrl": null,
+      "webUrl": "https://www.steelguru.com/steel/metinvest-achieves-blast-furnace-efficiency-with-machine-learning",
+      "originalUrl": "https://www.steelguru.com/steel/metinvest-achieves-blast-furnace-efficiency-with-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gumlet.assettype.com/steelguru%2F2021-08%2Fbf7a65a3-0f97-40be-871a-42658d642cc5%2FMachine_Learning.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+          "width": 1192,
+          "height": 880,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.steelguru.com/amp/story/steel/metinvest-achieves-blast-furnace-efficiency-with-machine-learning",
+      "cdnAmpWebUrl": "https://www-steelguru-com.cdn.ampproject.org/c/s/www.steelguru.com/amp/story/steel/metinvest-achieves-blast-furnace-efficiency-with-machine-learning",
+      "publishedDateTime": "2021-08-16T20:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Steel News",
+        "domain": "steelguru.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-08-17-trainocate-recognised-as-1-microsoft-learning-partner-worldwide.md",
       "title": "Trainocate recognised as #1 Microsoft Learning Partner worldwide",
       "excerpt": "Trainocate Holdings, Asia's largest IT and human capability development training provider, has been recognised as the 2021 Microsoft Learning Partner of the Year; the first Asian company to earn the title.",
@@ -593,6 +637,50 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-patent-issued-for-using-machine-learning-to-classify-insurance-card-information-uspto-11074656.md",
+      "title": "Patent Issued for Using machine learning to classify insurance card information (USPTO 11074656)",
+      "excerpt": "As a result, many consumers enroll in insurance plans that are not the most appropriate for their medical needs and financial budget ... method for applying machine-learning algorithms to ...",
+      "sourceUrl": null,
+      "webUrl": "https://insurancenewsnet.com/oarticle/patent-issued-for-using-machine-learning-to-classify-insurance-card-information-uspto-11074656",
+      "originalUrl": "https://insurancenewsnet.com/oarticle/patent-issued-for-using-machine-learning-to-classify-insurance-card-information-uspto-11074656",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insurancenewsnet.com/wp-content/uploads/2021/04/inn-og-default.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insurancenewsnet.com",
+        "domain": "insurancenewsnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1154,6 +1242,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-13-colorado-standardized-test-scores-reveal-deep-learning-loss-from-pandemic-creates-a-sense-of-urgency.md",
+      "title": "Colorado Standardized Test Scores Reveal Deep Learning Loss From Pandemic: ‘Creates A Sense Of Urgency’",
+      "excerpt": "It's been no secret that students have fallen behind during the constraints of the pandemic, but state standardized test score data paints a clearer picture of just how severe that learning loss may have been.",
+      "sourceUrl": null,
+      "webUrl": "https://denver.cbslocal.com/2021/08/13/covid-standardized-test-scores-learning-loss/",
+      "originalUrl": "https://denver.cbslocal.com/2021/08/13/covid-standardized-test-scores-learning-loss/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://denver.cbslocal.com/wp-content/uploads/sites/15909806/2021/08/STATE-TESTING-DATA-5PKG.transfer_frame_1349.jpeg?w=420",
+          "width": 420,
+          "height": 236,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://denver.cbslocal.com/2021/08/13/covid-standardized-test-scores-learning-loss/?amp",
+      "cdnAmpWebUrl": "https://denver-cbslocal-com.cdn.ampproject.org/c/s/denver.cbslocal.com/2021/08/13/covid-standardized-test-scores-learning-loss/?amp",
+      "publishedDateTime": "2021-08-13T05:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS Local",
+        "domain": "cbslocal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-13-global-neural-network-software-market-2021-industry-analysis-by-top-leading-player-key-regions-and-future-demand-forecast-upto-2028.md",
       "title": "Global Neural Network Software Market 2021 Industry Analysis by Top Leading Player, Key Regions and Future Demand, Forecast upto 2028",
       "excerpt": "The Research Corporation has released a new Neural Network Software Market Report 2021 comes with the exclusive trade analysis of development components, patterns, flows, and sizes. The Neural Network Software report also calculates current and past market values to forecast potential market management through the forecast amount between 2021- 2028.",
@@ -1229,153 +1360,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-colorado-standardized-test-scores-reveal-deep-learning-loss-from-pandemic-creates-a-sense-of-urgency.md",
-      "title": "Colorado Standardized Test Scores Reveal Deep Learning Loss From Pandemic: 'Creates A Sense Of Urgency'",
-      "excerpt": "Anecdotally, it's been no secret that students have fallen behind during the constraints of the pandemic, but state standardized test score data released Thursday paints a clearer picture of just how severe that learning loss may have been.",
-      "sourceUrl": null,
-      "webUrl": "https://denver.cbslocal.com/video/5889845-colorado-standardized-test-scores-reveal-deep-learning-loss-from-pandemic-creates-a-sense-of-urgency/",
-      "originalUrl": "https://denver.cbslocal.com/video/5889845-colorado-standardized-test-scores-reveal-deep-learning-loss-from-pandemic-creates-a-sense-of-urgency/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m101675-ucdn.mp.lura.live/anv-iupl/009/F9A/009F9AB942A2855B3F41AC1DFA566BBC.jpg?Expires=1724112000&KeyName=mcpkey1&Signature=l215Oij6xA6M7Pf6wfjYfuPMWqE",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://denver.cbslocal.com/video/5889845-colorado-standardized-test-scores-reveal-deep-learning-loss-from-pandemic-creates-a-sense-of-urgency/?amp",
-      "cdnAmpWebUrl": "https://denver-cbslocal-com.cdn.ampproject.org/c/s/denver.cbslocal.com/video/5889845-colorado-standardized-test-scores-reveal-deep-learning-loss-from-pandemic-creates-a-sense-of-urgency/?amp",
-      "publishedDateTime": "2021-08-12T16:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS Local",
-        "domain": "cbslocal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-machine-learning-as-a-service-market-prominent-players-updates-business-analysis-revenue-expectation-till-2025.md",
-      "title": "Machine Learning as a Service Market Prominent Players Updates, Business Analysis, Revenue Expectation till 2025",
-      "excerpt": "Competitive Landscape and Machine Learning as a Service Market Share Analysis: Machine Learning as a Service Market to reach USD 16.13 billion by 2025. Machine Learning as a Service Market valued approximately USD 0.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-prominent-players-updates-business-analysis-revenue-expectation-till-2025-2021-08-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-prominent-players-updates-business-analysis-revenue-expectation-till-2025-2021-08-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-12T12:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-why-machine-learning-models-fail.md",
-      "title": "Why machine learning models fail",
-      "excerpt": "Machine learning and data science are important tools in the tech industry. However, if they are used improperly, they may create more problems than they solve.",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/ai/why-machine-learning-models-fail/",
-      "originalUrl": "https://sdtimes.com/ai/why-machine-learning-models-fail/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2021/08/8-11-machine-learning-fail.jpeg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-12T09:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

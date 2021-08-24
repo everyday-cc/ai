@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/news/asia/australasia/article/3145931/australia
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/asia/australasia/article/3145931/australia-eyes-ai-drones-facial-recognition-tech-protect-wild"
 type: article
 quality: 103
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "WPP Branches Into AI Tech With Satalia Acquisition"
+    excerpt: "WPP announced that it has acquired Satalia, a technology company offering marketleading AI solutions for clients."
+    publishedDateTime: 2021-08-23T22:16:00Z
+    webUrl: "https://www.bandt.com.au/wpp-branches-into-ai-tech-with-satalia-acquisition/"
+    type: article
+    provider:
+      name: B and T
+      domain: bandt.com.au
+    quality: 39
+    images:
+      - url: "https://www.bandt.com.au/information/uploads/2021/08/dr-daniel-hume.jpg"
+        width: 500
+        height: 500
+        isCached: true
 
 secured: "+XnUynXCJu0GHlKAnWEbqPhnQ4a/6Ohu5rX8Ebg1p4TY7K5aCyN+muwjgTLN9ALfxtA0BbWQH8N+MinsxHd7rd8MQ/7IcuRCx8VRXAHLZqqOkLDCcIR+eQz1+TU5X4UKGrzsPt7PRZNJglhWd2lakFzquFJehodxrJ8ityEfuhkaOtkOi+Rdp15t7vrmMACTiMl10kUd0HU4m+w5SWLelPXlbrWI61aR70UaJ5ICPBUDL5uNYyqz7L1l60J62mYQxIR8imENpt79SsoRbmCeI9TVuBLrfG+64EcdIh4k9EghscB9queIsVYmG4GH1pKPow9MOGLXY9IK0+fTG2vGWQSfgKOBaHDb3DqWwyTqgLPRsv60/zTzE/6c1QVVxW4IYlR/FEdajpGhY99rgsE04M4kq1JQLxTQkSVe/+rKsFxKCT326k8LfwiQizXGMpwOEsFJpATRAuSYS4izj6FEGtqvGAH4OaguMPLiJQ432X8wM1CB6Gm2nRKk3hCobvW6jtFo+dt7ecoMH4OGSRbzLA==;Rh9IB+SDTcJx5SW9U/D4og=="
 ---

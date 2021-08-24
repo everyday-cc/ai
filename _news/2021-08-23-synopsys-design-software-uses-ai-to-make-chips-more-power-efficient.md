@@ -53,6 +53,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Synopsys design software uses AI to make chips more power efficient"
+    excerpt: "Synopsys Inc said on Monday one of its customers used artificial intelligence software to get a 26per cent gain in the power efficiency of a computer chip, a leap that usually has to wait for a new generation of chip manufacturing technology."
+    publishedDateTime: 2021-08-23T22:09:00Z
+    webUrl: "https://www.channelnewsasia.com/business/synopsys-design-software-uses-ai-make-chips-more-power-efficient-2130786"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 54
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_338%2Cw_600/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=OKRpQAP1"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "n46BZND6XWmFn1rpCErLpqVV2f6UXyOgDANg0dSU+4y8GeKG4jRYEZIl35wq3bwyUXafsVQEWqLEMgB3ZX20CrpjXf7JYw6NX5fDPaZ55JQhPqshlXHYWxS9Dvq0JnRAqm4XtQ++tNBHs4EXJub6Re934Ty03BIoGthvbF996SZdSYJeoO+FvHl/++2UHLrdyAf74yyQ/c2MbW/m6aXhImHLNRGrFxwP1rPSW/kRlNYmoDxxGm++U6ghHhpga6nrVoMXdXDMJ5R0hLwPLeKgq410pWImp2LCQ2ftgMTEEHZeqBwm4HUNFyiO6zG5jpNQZUfd5oynYQewE2eGahiVR7GLIYNqrE066c9MK6spFMk=;QCU5pOiExpiMXUnk/zjohg=="
 ---

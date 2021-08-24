@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon rolls out India’s first celebrity voice on Alexa with Amitabh Bachchan"
-    excerpt: "Amazon has rolled out India’s first celebrity voice feature on Alexa with the nation’s biggest movie star Amitabh Bachchan as the company makes a push to lure more users in the world’s second-most populated nation."
-    publishedDateTime: 2021-08-19T05:19:00Z
-    webUrl: "https://techcrunch.com/2021/08/18/amazon-rolls-out-indias-first-celebrity-voice-on-alexa-with-amitabh-bachchan/"
-    ampWebUrl: "https://techcrunch.com/2021/08/18/amazon-rolls-out-indias-first-celebrity-voice-on-alexa-with-amitabh-bachchan/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/18/amazon-rolls-out-indias-first-celebrity-voice-on-alexa-with-amitabh-bachchan/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 71
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-102146713.jpg?w=1024"
-        width: 1024
-        height: 702
-        isCached: true
   - title: "Amitabh Bachchan joins Amazon Alexa as its first Indian celebrity voice"
     excerpt: "After “Avengers” star Samuel L. Jackson, Amazon now brings us Amitabh Bachchan on Alexa, Amazon's own virtual assistant."
     publishedDateTime: 2021-08-19T09:13:00Z

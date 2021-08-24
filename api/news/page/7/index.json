@@ -330,6 +330,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-17-noodleai-joins-aws-partner-network-to-build-supply-chain-resiliency-for-cpg-customers.md",
+      "title": "Noodle.ai Joins AWS Partner Network to Build Supply Chain Resiliency for CPG Customers",
+      "excerpt": "Noodle.ai, the leading provider of Flow Operations (FlowOps) software, today announced it has become an Amazon Web Services (AWS) Advanced Technology Partner to drive scale and efficiency for the supply chains of global consumer packaged goods (CPG) companies.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/noodle-ai-joins-aws-partner-network-to-build-supply-chain-resiliency-for-cpg-customers-1030737980",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/noodle-ai-joins-aws-partner-network-to-build-supply-chain-resiliency-for-cpg-customers-1030737980",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-17T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-17-avaya-integrates-microsoft-azure-capabilities-into-its-onecloud-cpaas.md",
       "title": "Avaya integrates Microsoft Azure capabilities into its OneCloud CPaaS",
       "excerpt": "Communications technology firm Avaya (AVYA) has announced the integration of Microsoft Azure (MSFT) voice, video, chat and SMS capabilities into its OneCloud Communications Platform",
@@ -369,6 +412,40 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-deep-6-ai-announces-release-of-trial-recommender.md",
+      "title": "Deep 6 AI Announces Release of Trial Recommender",
+      "excerpt": "Deep 6 AI today announced the addition of Trial Recommender to its industry-leading artificial intelligence (AI)-driven clinical trial acceleration platform. Addressing a major gap in traditional patient recruitment,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-deep-6-ai-announces-release-trial-recommender-/2021/08/17/9432271.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-deep-6-ai-announces-release-trial-recommender-/2021/08/17/9432271.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-17T06:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -478,49 +555,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-17-deep-6-ai-announces-release-of-trial-recommender.md",
-      "title": "Deep 6 AI Announces Release of Trial Recommender",
-      "excerpt": "Deep 6 AI today announced the addition of Trial Recommender to its industry-leading artificial intelligence (AI)-driven clinical trial acceleration platform. Addressing a major gap in traditional patient recruitment,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-health-bbc477d60e474a5aa011a0d5bbf54fd1",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-health-bbc477d60e474a5aa011a0d5bbf54fd1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-17T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-17-happify-health-and-higi-partner-to-create-an-ai-driven-patient-engagement-ecosystem-that-makes-value-based-healthcare-accessible-worldwide.md",
       "title": "Happify Health and Higi Partner to Create an AI-Driven Patient-Engagement Ecosystem that Makes Value-Based Healthcare Accessible Worldwide",
       "excerpt": "Higi and Happify Health announced plans to build a connected patient ecosystem that uses Happify Health’s AI and digital therapeutics to deliver personalized care through Higi’s omni-channel distribution network.",
@@ -612,6 +646,40 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-convoy-announces-power-only-freight-service-for-private-fleets.md",
+      "title": "Convoy Announces Power-Only Freight Service for Private Fleets",
+      "excerpt": "Convoy, the nation’s most efficient digital freight network, has launched a new power-only service as part of its Convoy Go program, providing private fleets with nationwide capacity to haul their preloaded and empty dry van trailers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/convoy-announces-power-only-freight-service-for-private-fleets/",
+      "originalUrl": "https://www.financialbuzz.com/convoy-announces-power-only-freight-service-for-private-fleets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-17T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI"
       ]
     },
@@ -1096,109 +1164,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-african-fintech-pngme-raises-15m-for-its-financial-data-infrastructure-platform.md",
-      "title": "African fintech Pngme raises $15M for its financial data infrastructure platform",
-      "excerpt": "Unbundling financial data through APIs and driving data-driven insights with value-add products in Africa keeps getting more exciting as major players continue to raise more money for scale. Less than a year after its $3 million seed round,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/08/17/african-fintech-pngme-raises-15m-for-its-financial-data-infrastructure-platform/",
-      "originalUrl": "https://techcrunch.com/2021/08/17/african-fintech-pngme-raises-15m-for-its-financial-data-infrastructure-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/08/85237365-BCDC-4C78-B42B-91B00D15C6C0.jpeg?w=887",
-          "width": 887,
-          "height": 508,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/08/17/african-fintech-pngme-raises-15m-for-its-financial-data-infrastructure-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/17/african-fintech-pngme-raises-15m-for-its-financial-data-infrastructure-platform/amp/",
-      "publishedDateTime": "2021-08-17T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-moloco-raises-150m-series-c-led-by-tiger-global-at-a-15b-valuation.md",
-      "title": "MOLOCO raises $150M Series C led by Tiger Global at a $1.5B valuation",
-      "excerpt": "MOLOCO, an adtech startup that uses machine learning to build mobile campaigns, announced today it has raised $150 million in new Series C funding led by Tiger Global Management, taking its valuation to $1.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/08/17/moloco-raises-150m-series-c-led-by-tiger-global-at-a-1-5b-valuation/",
-      "originalUrl": "https://techcrunch.com/2021/08/17/moloco-raises-150m-series-c-led-by-tiger-global-at-a-1-5b-valuation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 237,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1271131179.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/08/17/moloco-raises-150m-series-c-led-by-tiger-global-at-a-1-5b-valuation/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/17/moloco-raises-150m-series-c-led-by-tiger-global-at-a-1-5b-valuation/amp/",
-      "publishedDateTime": "2021-08-17T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

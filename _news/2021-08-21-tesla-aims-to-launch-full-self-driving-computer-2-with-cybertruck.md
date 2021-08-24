@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/web-stories/tesla-aims-to-launch-full-self-drivi
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/web-stories/tesla-aims-to-launch-full-self-driving-computer-2-with-cybertruck-next-year/"
 type: article
 quality: 104
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -132,6 +132,15 @@ related:
         width: 960
         height: 480
         isCached: true
+  - title: "Musk criticizes on Twitter latest test version of Tesla's self-driving software"
+    excerpt: "Chief Executive Elon Musk panned the most recent test version of the company's self-driving software, but said that Tesla employees are \"rallying to improve (it) as fast as possible.\" Musk tweeted late Monday that the latest \"beta\" version of Full Self Driving,"
+    publishedDateTime: 2021-08-23T16:18:00Z
+    webUrl: "https://www.morningstar.com/news/marketwatch/20210823369/musk-criticizes-on-twitter-latest-test-version-of-teslas-self-driving-software"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 15
 
 secured: "3xirX9rljfjWj0IyuYHFmtpusR1nzf64eyNoJxnG4BV/gHPmZc7mxDs2P2V2PPQCedmcrTMpkm1UwJFPJz+V6dkyOoYsvVgGDMf7NRW5LBnowz1mx9kUb4JAnxbYYi47TOQaqL4QBQ9omyLoFPZI9yzrO76gi6GgkkvB02YPiHy/e0vDndhXUGc30GmFu4280cE/m+sAeG4F0gR14kk/dCFgzoMVO+8rhUlI9wZUh5UquXnzN5y6zJEidSx7JoVTfbgY34Uyt698+jeg/iv5lQLm2Sfthmcnkq1frheupSmbcOyLR0GRHQ07bTiFptB1nA3s44bDnqocVBpFyh7Sy4+D3Xdk9t9Ll5PsYzg3zipIL/DMy5QLLTRoLV4pJ2JdplLoVmLdaX89YE5Ljg+CzzY8Tg4p9/wfKe/GG27RU3JHOe2YlYmRI1kkZVxAc2vUKVlcF9uaycB/e7iLzcNTzA0pKYeqjDK0L27NUrScFwibcE8E3bvmAhmRYE6DJotFYJPR3P1oICWbVIIqI+0L8g==;4HZsDS4KOr+PCI2ydpG7lw=="
 ---

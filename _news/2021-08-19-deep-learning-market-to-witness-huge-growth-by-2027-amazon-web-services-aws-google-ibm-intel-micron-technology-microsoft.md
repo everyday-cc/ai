@@ -39,6 +39,20 @@ related:
         width: 390
         height: 220
         isCached: true
+  - title: "Microsoft's AI Mudede Versus the Real Mudede"
+    excerpt: "Last week, the technologist side of Boudinot did something monstrous with an AI presently owned by Microsoft, GPT-3. This program, developed by OpenAI, is described as \"an autoregressive language [machine] that uses deep learning to produce human-like text."
+    publishedDateTime: 2021-08-23T22:42:00Z
+    webUrl: "https://www.thestranger.com/slog/2021/08/23/60660743/microsofts-ai-mudede-versus-the-real-mudede"
+    type: article
+    provider:
+      name: The Stranger
+      domain: thestranger.com
+    quality: 54
+    images:
+      - url: "https://media2.fdncms.com/stranger/imager/u/large/60663519/1629754829-img_20210102_180202_568_1_.jpg"
+        width: 700
+        height: 875
+        isCached: true
   - title: "Speech Recognition Software Market – increasing demand with Industry Professionals: IBM, Microsoft, Nuance Communications"
     excerpt: "Announced Speech Recognition Software study with 200+ market data Tables and Figures spread through Pages and easy to understand detailed TOC on “Speech Recognition Software. Speech Recognition Software industry Report allows you to get different methods for maximizing your profit."
     publishedDateTime: 2021-08-21T18:18:00Z

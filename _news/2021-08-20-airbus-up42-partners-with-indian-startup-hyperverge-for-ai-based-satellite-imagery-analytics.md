@@ -38,20 +38,6 @@ related:
         width: 1000
         height: 596
         isCached: true
-  - title: "Airbus’ UP42 partners with Indian startup HyperVerge for AI-based satellite imagery analytics"
-    excerpt: "BERLIN, Germany, August 18, 2021 – UP42, a geospatial developer platform and marketplace wholly owned by Airbus, has partnered with Indian startup HyperVerge Inc. to offer satellite imagery services using Artificial Intelligence (AI)-based change ..."
-    publishedDateTime: 2021-08-19T06:25:00Z
-    webUrl: "https://www.mynewsdesk.com/up42/pressreleases/airbus-up42-partners-with-indian-startup-hyperverge-for-ai-based-satellite-imagery-analytics-3121264"
-    type: article
-    provider:
-      name: mynewsdesk.com
-      domain: mynewsdesk.com
-    quality: 26
-    images:
-      - url: "https://resources.mynewsdesk.com/image/upload/c_fill,h_628,q_auto:good,w_1200/fl5lrkgo0tpf7ws3pmhz.jpg"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "Me/jblCvD1fcyA5GhlXk5vc+hbWp9dLXxQkGo7dpWH10BBerbh1/l9lxpczs9iyWOaUW3R8ZIPlcISBMgO7DEvJ67P+GUBPAO/fWqrXeo4AYQJWZAIQ8mGLfXGtIhnLzqpXRrrIMZg9y0NBzHqzF8ZYJCMj1e80tID0Zl/aeVtKekMetcSWDyD8by0U28iciI2VBC3UlIGJ1X7Y7Zyg7y231AwQzIQoISZjBvYNJgzgY0Fi1xqZCLbr48tw2aVsROCPajHW7bqAPC1KBYllvHZkqxVvOYJCfDwRGOntn01yj8Y2gzY+4SEuoCk6T+T5JsnzWvtjo+WhiKpzTitUxmsez6ZuR5kJdSMjAChUQdOM=;q27ptSiQWCPtmaDI3Y6djA=="
 ---

@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Virtana Announces Expanded Advanced Technology Partnership with Amazon Web Services (AWS)"
-excerpt: "Virtana, the AIOps observability company for hybrid cloud, today announced its expanded offering of Virtana Platform on Amazon Web"
-publishedDateTime: 2021-08-11T13:02:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/virtana-announces-expanded-advanced-technology-partnership-with-amazon-web-services-aws-301352724.html"
-webUrl: "https://www.prnewswire.com/news-releases/virtana-announces-expanded-advanced-technology-partnership-with-amazon-web-services-aws-301352724.html"
+excerpt: "Virtana, the AIOps observability company for hybrid cloud, today announced its expanded offering of Virtana Platform on Amazon Web Services (AWS) Marketplace. Offering end user customers a unified SaaS platform on Marketplace,"
+publishedDateTime: 2021-08-11T13:05:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-virtana-announces-expanded-advanced-technology-partnership-with-amazon-/2021/08/11/9428699.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-virtana-announces-expanded-advanced-technology-partnership-with-amazon-/2021/08/11/9428699.htm"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1245497/Virtana__Logo.jpg?p=facebook"
-    width: 864
-    height: 452
-    isCached: true
-
-secured: "Tq4mGrze6iOKfeMfD1yPddsdHAPQzI9c9DtVkrW9KUmCTGC3fFutKfClCY/OtWQaGSLgQ6HftjPsKagU8FVF16HZ26Du+wrcfk9v49ER5T5N85r/gxgiHybeq2/aPx6Uo2IiZPFyo1tpMD4jKYQWXWfNCq1GMuL/RLsm0ZBCvOrpHwsqOubJnNWAuDCd1LBT3a2R8ECMDXwb517Axw7+UaNhazkVqN6uHohKv7ct7kudS6iogd9Lho2pUxBMbG33waGB6nTBK9PdFxVqXnCcKmk+3iwBUlxqzSklDuUclJR0Fp+WSZ1bTFAdFykU/rgtZPBB0Y0ewoiSkPqc83Qpz5GTUwjODQprDiWfJoPlOJw=;042H+Ka5v+MzF1xImwyi9g=="
+secured: "q7NmEgi+tExBaJlQQiDtqlEccJ0kIGunR7mHtiQ0kflFeXQ5lMDijxKLWX7RfwtJZ0dyWMRgXEx1LleEGf9N9xVWrH0IurjoPnWOrUP1VhpF/pMGTveHczjjqEKakUdi5YMzYwSq6WRt3TBJ/WvGWmwYY83C+KOP1o/vRyXX4/xmMvkiSt3zkL4tDtMe61O5ofVM7b7zCicXm7Lrn0WQhM3IFBdMjUEwShBUtk00CVqD1pwTrsJzGbtyF0og6jiTnpZLbkUpVg0xsBalVuquazilQfqfuT5kB5UG+HtLzEphfbLAZ856+cRKTG4WP+AjUsUM3y9+uQ40fmIeCmGN1x/xBmprrJDBwlwoUi01nN8=;NQ3qPGrZZLbKeWvM+fh7/A=="
 ---
 
