@@ -63,20 +63,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Lawmakers Target Tesla's Autopilot and Self-Driving Claims"
-    excerpt: "Two U.S. Senators are urging the Federal Trade Commission to investigate whether Tesla Inc. uses deceptive marketing practices by labeling its driver-assistance systems “Autopilot” and “Full Self-Driving."
-    publishedDateTime: 2021-08-19T14:28:00Z
-    webUrl: "https://www.bloomberg.com/news/videos/2021-08-19/lawmakers-target-tesla-s-autopilot-and-self-driving-claims-video"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 84
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iik2TiWFxOik/v5/-1x-1.jpg"
-        width: 2000
-        height: 1125
-        isCached: true
   - title: "Tesla launches DOJO chip of artificial intelligence training computer"
     excerpt: "Tesla launches artificial intelligence training computer DOJO chip] on 20 August, Tesla officially launched his artificial intelligence training computer DOJO chip. It is understood that Musk first mentioned DOJO,"
     publishedDateTime: 2021-08-22T23:57:00Z

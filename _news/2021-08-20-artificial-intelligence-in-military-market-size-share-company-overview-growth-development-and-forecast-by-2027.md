@@ -58,22 +58,6 @@ related:
         width: 700
         height: 393
         isCached: true
-  - title: "Artificial Intelligence in Oil and Gas Is Set To Experience Innovative Growth By 2027"
-    excerpt: "A new research report from the document repository of ResearchMoz offers detailed study of the Global Artificial Intelligence in Oil and Gas Market. The study presented in the report intends to help companies in the development or modification of their business expansion strategies using important information pertaining to the global Artificial Intelligence in Oil and Gas market."
-    publishedDateTime: 2021-08-19T15:04:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-in-oil-and-gas-is-set-to-experience-innovative-growth-by-2027/"
-    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-oil-and-gas-is-set-to-experience-innovative-growth-by-2027/"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-oil-and-gas-is-set-to-experience-innovative-growth-by-2027/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 50
-    images:
-      - url: "https://i.ibb.co/hgd8dJh/Researchmoz-us-378.jpg"
-        width: 632
-        height: 369
-        isCached: true
   - title: "Computer Vision Software Market 2021-2030 By Strategic Imperatives for Success and Growth Analysis"
     excerpt: "A new informative report titled as Global Computer Vision Software Market Report 2021 by Key Players Types Applications Countries Market Size Forecast to 2030 has recently published by Absolute Markets Insights to its huge database which helps to shape the"
     publishedDateTime: 2021-08-21T10:07:00Z
@@ -89,6 +73,22 @@ related:
       - url: "https://cdn.openpr.com/U/8/U821791923_g.jpg"
         width: 800
         height: 488
+        isCached: true
+  - title: "Voice Assistant Shopping Market - Forecast to 2026"
+    excerpt: "According to a new market research report published by Global Market Estimates the Voice Assistant Shopping Market will grow with a CAGR value of around 50 percent over the forecast period Browse TOC on Global Voice Assistant Shopping Market Forecast"
+    publishedDateTime: 2021-08-24T07:11:00Z
+    webUrl: "https://www.openpr.com/news/2364652/voice-assistant-shopping-market-forecast-to-2026"
+    ampWebUrl: "https://www.openpr.com/amp/2364652/voice-assistant-shopping-market-forecast-to-2026"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2364652/voice-assistant-shopping-market-forecast-to-2026"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 44
+    images:
+      - url: "https://cdn.openpr.com/U/8/U824425762_g.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "Smart Education and Learning Market Size, Key Player Revenue, SWOT, PEST & Porter’s Analysis For 2020–2027"
     excerpt: "The global Smart Education And Learning Market is forecast to reach USD 1 047 75 Billion by 2026 according to a new report by Smart education can also be summed up as the application of smart devices"

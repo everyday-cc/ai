@@ -102,7 +102,7 @@ related:
   - title: "“AI Day 2021” to bring together world’s top-notch AI experts and researchers"
     excerpt: "HANOI, VIETNAM - Media OutReach - 23 August 2021 - The online event AI Day 2021 – Empowering Innovations, organized by VinAI Research (the tech arm of Vingroup) will be held on August 27, 2021, aiming to unlock solutions to developing artificial intelligence in Vietnam."
     publishedDateTime: 2021-08-23T13:05:00Z
-    webUrl: "https://apnews.com/press-release/news-direct-corporation/technology-science-8b97c3b660e4dd25b125d0b321115ab7"
+    webUrl: "https://apnews.com/press-release/NewsDirectCorporation/technology-science-8b97c3b660e4dd25b125d0b321115ab7"
     type: article
     provider:
       name: Associated Press

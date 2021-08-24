@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/23/how-ai-will-reshape-software-deve
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/23/how-ai-will-reshape-software-development/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 108
 published: true
 
 provider:

@@ -1,18 +1,18 @@
 ---
 category: news
 title: "WPP Acquires Leading AI Technology Company Satalia"
-excerpt: "WPP (NYSE: WPP) today announces that it has acquired Satalia, a technology company offering market-leading AI solutions for clients. Satalia is a global leader in enterprise AI and one of the UK's fastest-growing tech companies,"
-publishedDateTime: 2021-08-23T12:36:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-wpp-acquires-leading-ai-technology-company-satalia-/2021/08/23/9435355.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-wpp-acquires-leading-ai-technology-company-satalia-/2021/08/23/9435355.htm"
+excerpt: "WPP (NYSE: WPP) today announces that it has acquired Satalia, a technology company offering market-leading AI solutions for clients. Satalia is a glob"
+publishedDateTime: 2021-08-23T16:30:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210823005340/en/WPP-Acquires-Leading-AI-Technology-Company-Satalia"
+webUrl: "https://www.businesswire.com/news/home/20210823005340/en/WPP-Acquires-Leading-AI-Technology-Company-Satalia"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI Ethics
@@ -186,6 +186,6 @@ related:
       domain: mrweb.com
     quality: 19
 
-secured: "StlzEDYKGSPJ4OA0+x93h8eKY6MvVv6EcoRjNAxLhRvVdt4oLzdHYMLOn7Mdloe5kCGTH75gqsTjjwt4WzalLpBsVXWSXDSEjZkjs0kedYt9cByAFchQoG41hwvPCDuhpnT+JnmauOwfA6YZxieKEXfK5u5TM3nzDg5u/UjQPGuJeidM5xb1+APNk2eh+YH8/yRAzJhsEgjrE6Avsm450DO7z9bNjVlulXP7l7MIgI/4bGSUsJhijkx3wkZvFMAS90K4pcmEPKIhnTJnLWa36OlLbnPOWiXOggjYDId36ebUpwexykS3298FdUcdpAoqIkvQDMtceet+Mio2280R/iVfF00I8TXkxjHI4ZgaGCI=;xl53biman1UoL1nljblbFw=="
+secured: "H4P89n857WQjaHFA+HxWp9ikpWOm2Ie5bj56wHpIgmkZ+pArpRit7eSwdYJDi1jhksZBxDfL3nGNZxyMk8qEbN9NJ4G1tYNKWQ9gpY1N+dVCVDuLykdvGIHNaq1o9tc+7MSVhXWejYXcYFzIFXR30ZxO4D4fKWkt97e7TLB4XJLy38OaDS0m3PMgVuxaZcl4PF1nlZ5A0JvXNH2XlyUU4efTlAd7n6Z5i7/1Gf+9CjhBi57ka9jKcHdAHflzwRiHQQKarjv3v1l0LBeGP08a9eZ1bT3M5EgUpWfjhWuV/PWl2u0tM21S1BFh76zsxPtpOxWJ63coBdL8VoCENQ8ihm9P4l1bbGsNeYatMtMV83s=;RQA98vQcTyIVB9oeTVA5Fw=="
 ---
 

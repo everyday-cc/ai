@@ -169,13 +169,13 @@ related:
         height: 681
         isCached: true
   - title: "WPP Acquires Leading AI Technology Company Satalia"
-    excerpt: "WPP (NYSE: WPP) today announces that it has acquired Satalia, a technology company offering market-leading AI solutions for clients. Satalia is a global leader in enterprise AI and one of the UK's fastest-growing tech companies,"
-    publishedDateTime: 2021-08-23T12:36:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-wpp-acquires-leading-ai-technology-company-satalia-/2021/08/23/9435355.htm"
+    excerpt: "WPP (NYSE: WPP) today announces that it has acquired Satalia, a technology company offering market-leading AI solutions for clients. Satalia is a glob"
+    publishedDateTime: 2021-08-23T16:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210823005340/en/WPP-Acquires-Leading-AI-Technology-Company-Satalia"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 19
   - title: "WPP Buys B2B-based AI Tech Firm Satalia"
     excerpt: "WPP today announced that it has acquired Satalia, which has expertise in applying AI across the logistics and supply chain. Terms of the deal have not been disclosed. Founded in 2008 by CEO and AI specialist Daniel Hulme (pictured),"
@@ -187,6 +187,6 @@ related:
       domain: mrweb.com
     quality: 19
 
-secured: "7U4n9UCowjU4faLfvq9QzX+XyA9Qk0S4pEAJUoi/zEnLINx2G1daVvRYxZiRTXKyXtvP8AfnUDkbCKyMQQBSAWO/mBgnsJX8M15ci2PVupBDwcVd0ZMFA+bt57wVd0IwzBR4gjV0+k7kXqyi3AKWAqpcQq+PlOeD18fWIGNhoRulgoX5j+hC3Uo+cmA3bp+rP3qaefawOFU14lqaEB9JsMIYWd6j2Ham7R/Vd2lVr55GuacKpmyfriqcitQs1Rtp2OysxM75kDyD0LrdVNRHJs/+RkvmefgotMwArsZm20AQCpd7wFvveU8loFFN+SlJ8lTz290pGyIWevfH6xsIez8sd7UchxoEAwRvVGDlels=;eIjYOnTFq9uzClKA8xsJkw=="
+secured: "vxYliyrWPqRMnd3LzImbiTze2ry99N9ceqlX4DI6ybk+xEoom31lI4NvS0lA/owWTLt6nn2c105IvJc+ybQow9+ArML1rUSyuwsJlX9BPYX3tqhgmtssyIQJ4f16DmPyctyCJceurj7r0yZTmbXTJHxPbFsK3C0lP1EADrnmCdRSS7HJOvbdOg0J9zgVSeSW/NFs1kobdrVj9CC1gIOYcoCtva3zHHTz+yfkpno3DQ1G/HHaL/ZmH6DwBm3Gy6U/CZq1900TSyy/mJgRs3W70/D0QkfVei0GlcBhoR3ZDCeYiAftp/PRWnma8ZjoOKuOGTuJ0nChZzj+TY2rEwp5X//AZ9oQZxf8n5KgY3dbqfYD34LWQYbKOKbRNxNLlRVn3grGXaWQATzMb/n6qJapSwILlELSdEnvJo9VWg0psV2CF52jR68CG6dlhEjloVwr4vOltYVJbE0tUuCuJaHjhES2V4TYyh61K9I9DOWletlnt/qIYwVAvMqh3KXSpwRrXB40d/ufOKkhpjNfnDWpbg==;MTsFz9AdtGvngNUzEJxm4Q=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://manometcurrent.com/call-center-ai-market-to-witness-huge-gro
 cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/call-center-ai-market-to-witness-huge-growth-by-2028-ibm-google-microsoft/?amp=1"
 type: article
 quality: 70
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://manometcurrent.com/wp-content/uploads/2021/08/Autonomous-Vehicles-Market-390x220.jpeg"
         width: 390
         height: 220
+        isCached: true
+  - title: "Data Warehouse as a Service Market Growing at a CAGR 22.3% | Key Player Microsoft, Google, Oracle, Snowflake, Micro Focus | Fintech Zoom"
+    excerpt: "Snowflake Inc. provides cloud-based data platform in the United States and internationally. The company's platform enables customers to consolidate data into a"
+    publishedDateTime: 2021-08-24T06:51:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_nyse-snow/data-warehouse-as-a-service-market-growing-at-a-cagr-22-3-key-player-microsoft-google-oracle-snowflake-micro-focus-fintech-zoom/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 8
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/06/Richard-Lowe1.jpg"
+        width: 746
+        height: 938
         isCached: true
 
 secured: "1+TzpTZ/qOULf1DfBYDDe44Y52kUAYS0AvWBNLAAjsmGEorhXYwElTCRtPXq1LrvVdscCKbVzw4BJNQjiIJuVscK4ugNJDd/dB4ZGrlWXJQYqJBBDlJYqarypCLbSFzE/5DPnSbwXE6APrIxc2gFZXPyn2+5u6ySDUUCqImSkugFzJIOezH2lf3bPd6Xa8kw931NHVU5fKa8G0Xa3sVnIjuuw6LCgKiK/5ivvbH2KoF1Qg3ZyEyQEg5twLLfB+hINXmH8e9jmRLl2dNhbA6NFn+ilw9lSmnCGpVai1IcqowyTvAN7/ICyOvnNmunlElBe6277Im+m1Bqrd8+EQM84FtO6tm0Hv0Tr7y9YeF/VIw=;DwghAQyAYBQY+TnL14smuw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/google-offers-free-online-course-machine-lea
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/google-offers-free-online-course-machine-learning-check-important-details/amp/"
 type: article
 quality: 71
-heat: 71
+heat: 72
 published: true
 
 provider:
@@ -26,6 +26,6 @@ images:
     height: 400
     isCached: true
 
-secured: "Y3zKLh+LvIDUsCCmGiGjFjd2673+qnzMhGJ6zE37xa4adh54PBdI6AtkQE71jitLTRvBhxENwRtCL1QOSEoSeqGfq0klQPeOu9DolsWQTzDaA2VeU/rtpTLDe4cj+DmlndrVxVCWVvPO0uZht+Z9wHtTKN8LGyhNI0CIMlZSukD4rhtYxqJVaxaFuS+D2ioPK9hMmX26Hkq0bWTzOfTbOCsUOEChiuruSr0raJk8pCeweEXGyQrXeK2IHmi4rU1kvYNvk6BhaGJ9sWaV/H9EBUeu6qXYGiWsWwoHTp0XfYr03yMbKan+D1M/p0Svu72r1WRrwSM+DqaOnl7z33iqBRVuYQFFGDnUXg4qlQ8wmiQ=;9TABHnR0NBm3pOr2/PT+PA=="
+secured: "iXeMF1CuYMKRsuBjB4ks8JJdeb9OjvZzaGjm71nmGJAbXD8CDASXzovUYFBmfJ+9+FqO0gE1IT1ZjBIJIAaATLiVkguVBxoj9Wo+F71Rm47FVIJyHsPtVCXe/Uf8gqhKnU75yFecZc4TpTXzLNS2bn4ygo4ViKWFWNih74aRZCHZEmo8bTC4X3ht/kXkUfSF+Hr8w13+bhwEkwMtGze8BLuiQ/AWY4LLVrnRQEYRX/CGGe0Z2PqtjgSYOmAFzIMscmY3Y6vp3YKK4HNUxB/3hkpVKrFVm8RoTd9I2DZdBeVz5WcLlHkEJt+nDaTMQvyVAJoSYNF/t+vQl1lIi5nIuvGs4ZXqKKKRuAVyRxCyPjUoijQFu2mtmm7fAISabE2prwgrquJHeLuJcLUGH22iSfjF1N9CBtyCzIOKHcYT0qrgk0fKmRVQWFyQzsfzt4kBGUd+Traf+k++6NYR7+sNKbyuzHqN553xAKJKUdpLEmFGBe2YbUsevhfEZ7hit5SNiFvicI6T9Vn8WiZblMah3g==;xrqrWA2fCCj48Z5Ek5rhmQ=="
 ---
 

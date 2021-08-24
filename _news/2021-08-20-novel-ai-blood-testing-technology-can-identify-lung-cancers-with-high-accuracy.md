@@ -26,21 +26,35 @@ images:
     isCached: true
 
 related:
-  - title: "AI in video: How technology can level-up content"
-    excerpt: "Amir Jirbandey, growth lead at Papercup, discusses why localisation is key to increasing international reach, and how the company's work with dubbing Sky News content has been crucial to expanding to"
-    publishedDateTime: 2021-08-19T13:33:00Z
-    webUrl: "https://www.tvbeurope.com/live-production/ai-in-video-how-technology-can-level-up-content"
-    ampWebUrl: "https://www.tvbeurope.com/live-production/ai-in-video-how-technology-can-level-up-content?amp"
-    cdnAmpWebUrl: "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/live-production/ai-in-video-how-technology-can-level-up-content?amp"
+  - title: "AI Blood Test Can Spot Lung Cancers With 90 Percent Accuracy"
+    excerpt: "The tool was able to detect roughly 90 percent of cancer cases out of 800 individuals that were screened for lung cancer. The researchers are hoping that improved screening and detection technologies could allow more cases of lung cancer to be spotted earlier,"
+    publishedDateTime: 2021-08-21T02:41:00Z
+    webUrl: "https://futurism.com/neoscope/ai-blood-test-lung-cancer"
+    ampWebUrl: "https://futurism.com/ai-blood-test-lung-cancer/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/ai-blood-test-lung-cancer/amp"
     type: article
     provider:
-      name: tvbeurope.com
-      domain: tvbeurope.com
-    quality: 59
+      name: Futurism
+      domain: futurism.com
+    quality: 57
     images:
-      - url: "https://www.tvbeurope.com/wp-content/uploads/2019/01/Sky-News-office.jpg"
-        width: 5568
-        height: 3712
+      - url: "https://wp-assets.futurism.com/2021/08/cancer-detection-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "AI Blood Test Shown to Detect >90% of Lung Cancers Across Different Stages"
+    excerpt: "DELFI blood testing technology indirectly measures how DNA is packaged inside the nucleus by studying the size and amount of cell-free DNA in the circulation."
+    publishedDateTime: 2021-08-23T12:00:00Z
+    webUrl: "https://www.genengnews.com/news/ai-blood-test-shown-to-detect-90-of-lung-cancers-across-different-stages/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 35
+    images:
+      - url: "https://www.genengnews.com/wp-content/uploads/2018/08/Jul15_2016_Getty_94463987_LungCancer6618013724.jpg"
+        width: 500
+        height: 375
         isCached: true
 
 secured: "fILByYTH1Df9OWj+ZXb7pMzD+tTLeDAvkLcTTa5CbgmyoX6WOQMZtRSdhwXQmSQjw4UnnSjDqOopv1v/kxSn3TrNYP6vpRueebFa8pgzsef/OYqGk4V2x7rFJbupcQrqxg1rFNDrq2l0krADFNqLivVIEIwYhWuvLFRZXOfZPisIlXIl9JTEEgBdEO9/Mcq7SZZQke9/w7IGRysMOmAmYO3ou1ziKZudhq5HwjakCIRX3ZWdZXkWR3wAItxmxDBgGc82o0E7vQxpkk82wWYZ8aOxbTh5lwdYTzDQg0PfKPKHIRd+TGfbgtmYCNg+ptuIqnN2djbo0Apd98r7rW/YXSur+/9NR+D40JNJWDlorrc=;qbAk7KexKInhY3jbzXbwmQ=="

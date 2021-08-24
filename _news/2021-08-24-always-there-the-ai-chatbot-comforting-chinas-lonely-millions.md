@@ -1,27 +1,29 @@
 ---
 category: news
 title: "'Always there': the AI chatbot comforting China's lonely millions"
-excerpt: "XiaoIce has pioneered a cutting-edge artificial intelligence system designed to create emotional bonds with its 660 million users worldwide - Copyright AFP WANG ZHAOLaurie CHENAfter a painful break-up from a cheating ex,"
-publishedDateTime: 2021-08-24T03:06:00Z
-originalUrl: "https://www.digitaljournal.com/world/always-there-the-ai-chatbot-comforting-chinas-lonely-millions/article"
-webUrl: "https://www.digitaljournal.com/world/always-there-the-ai-chatbot-comforting-chinas-lonely-millions/article"
+excerpt: "After a painful break-up from a cheating ex, Beijing-based human resources manager Melissa was introduced to someone new by a friend late last year."
+publishedDateTime: 2021-08-24T07:48:00Z
+originalUrl: "https://techxplore.com/news/2021-08-ai-chatbot-comforting-china-lonely.html"
+webUrl: "https://techxplore.com/news/2021-08-ai-chatbot-comforting-china-lonely.html"
+ampWebUrl: "https://techxplore.com/news/2021-08-ai-chatbot-comforting-china-lonely.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-ai-chatbot-comforting-china-lonely.amp"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 59
+heat: 89
+published: true
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/e67e507526e3f324952f99d0b37d3a0a81610842.jpg"
-    width: 768
-    height: 510
+  - url: "https://scx2.b-cdn.net/gfx/news/2021/xiaoice-has-pioneered.jpg"
+    width: 1024
+    height: 681
     isCached: true
 
 related:
@@ -41,7 +43,37 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "'Always There': The AI Chatbot Providing a Shoulder to China's Lonely Millions"
+    excerpt: "Originally a side project from developing Microsoft's Cortana chatbot, XiaoIce now accounts for 60 percent of global human-AI interactions by volume."
+    publishedDateTime: 2021-08-24T06:20:00Z
+    webUrl: "https://www.news18.com/news/buzz/always-there-the-ai-chatbot-providing-a-shoulder-to-chinas-lonely-millions-4120385.html"
+    ampWebUrl: "https://www.news18.com/amp/news/buzz/always-there-the-ai-chatbot-providing-a-shoulder-to-chinas-lonely-millions-4120385.html"
+    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/buzz/always-there-the-ai-chatbot-providing-a-shoulder-to-chinas-lonely-millions-4120385.html"
+    type: article
+    provider:
+      name: CNN-News18
+      domain: news18.com
+    quality: 57
+    images:
+      - url: "https://images.news18.com/ibnlive/uploads/2021/08/ai-chatbot-162978597616x9.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "‘Always there’: The AI chatbox comforting China’s lonely millions"
+    excerpt: "BEIJING: After a painful break-up from a cheating ex, Beijing-based human resources manager Melissa was introduced to someone new by a friend late"
+    publishedDateTime: 2021-08-24T04:56:00Z
+    webUrl: "https://www.thesundaily.my/world/always-there-the-ai-chatbox-comforting-china-s-lonely-millions-EB8245464"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesundaily.my
+    quality: 39
+    images:
+      - url: "https://www.thesundaily.my/binrepository/480x320/0c57/480d250/none/11808/UJXY/china-computers-social-internet-000321_1857084_20210824125004.jpg"
+        width: 480
+        height: 250
+        isCached: true
 
-secured: "3pdIuR7/HImQ0beZZMyM+4PNjFs3/buuB/vMCFGwkgt9cNGEk06vPsZhd5EMnxIRl8KS1koG8ecls/g6PdeNLCvZ0ov1M2sx9DAcNkEvFOC34TuOLHkCBEpX+C2/hySG4NbMlIafe0qaFgTO6/39q8xKEmRtkOkigWXbAoQL3MbxraViADE5ukOn4w8ob/0dNbdfWjxA9yR4Su39yLjQSUjBnWPNVnFcNdWWJP2ICHglWbl4W7/2AugPPFeosk6BGJP7wkLf1fFLdMrnmsQs6Md3pCoyrgX3gYUc63svhSatuybDa3gbJpjh/i5APWbSSDebJB2Bs9OW1AqsOEMgNWyarptUcmw06WZN1LarNDgktPkodRmQJNff7ERF8/4Tshgk2SzMhrMrmIjJm93aF5gWstQAUrcfbFAosYFnojmQP6tWzqxgL9B7A9NyzwnWZBA1V1CEaQbcCI9GFvinY33mg3ZqVU5im4MKZWtN48VvIb6DCtHZ6blDz0c1AMH+Vgkw0gy7bZpg7dLmv0tCWw==;+w7DwlBuO7+8RcXtchCI2A=="
+secured: "ogq2JTq9C4KXProf/5JYmwCmyVE0iajs+yqxWwY574lsE6eEMBokd9fg7R0Ta1n9pot1DnNOMq4PdAXlvl946eNi/UQfPD05djZR943qXVBr1Zf6TEETVdbt7iCKyPhVFCPDm47ct327luN/YfHiFgSeUHW1n56kpEHnxjJrQdqmSJqExfmjLPgQMh2cNtbk28TfIAZ+FBHB5njLlsnOrLP0JgwxiFh3p/4npa4MrooW7Cvvx0NwzoeseEouvqK2U799xjZqFmiQ1fFHNQ9IrNJreTTAiymlY1mxaNmiCc0je7F7A/9jMPmzGWn+H2SidUMsXCCVW/Hddjqj8hvV1sHT1WNCLEeotbQCzIm3KU8=;U5twEYYgn2ObJl1bSfuV6Q=="
 ---
 

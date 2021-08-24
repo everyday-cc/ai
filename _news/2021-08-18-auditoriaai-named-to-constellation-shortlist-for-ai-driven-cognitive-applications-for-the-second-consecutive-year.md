@@ -1,45 +1,20 @@
 ---
 category: news
 title: "Auditoria.AI Named to Constellation ShortList for AI-Driven Cognitive Applications for the Second Consecutive Year"
-excerpt: "Exclusive List Solidifies Auditoria’s Transformative Approach to Cognitive Automation. SANTA CLARA, CA / ACCESSWIRE / August 18, 2021 / AUDITORIA.AI, a pioneer in AI-driven auto"
-publishedDateTime: 2021-08-18T13:01:00Z
-originalUrl: "https://apnews.com/press-release/accesswire/technology-business-fc2f302c0629473e2c0b88fc3dc0c316"
-webUrl: "https://apnews.com/press-release/accesswire/technology-business-fc2f302c0629473e2c0b88fc3dc0c316"
+excerpt: "Exclusive List Solidifies Auditoria's Transformative Approach to Cognitive Automation SANTA ... Products and services named to the Constellation ShortList meet the threshold criteria for this ..."
+publishedDateTime: 2021-08-18T15:08:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2021-08/53714771-auditoria-ai-named-to-constellation-shortlist-for-ai-driven-cognitive-applications-for-the-second-consecutive-year-200.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2021-08/53714771-auditoria-ai-named-to-constellation-shortlist-for-ai-driven-cognitive-applications-for-the-second-consecutive-year-200.htm"
 type: article
-quality: 17
-heat: -1
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-related:
-  - title: "Auditoria.AI Named to Constellation ShortList for AI-Driven Cognitive ..."
-    excerpt: "SANTA CLARA, CA / ACCESSWIRE / August 18, 2021 / AUDITORIA.AI, a pioneer in AI-driven automation solutions for corporate finance teams, today announced it was named to the Constellation ShortList™ for AI-Driven Cognitive Applications in Q3 2021."
-    publishedDateTime: 2021-08-18T13:01:00Z
-    webUrl: "https://www.pr-inside.com/auditoria-ai-named-to-constellation-shortlist-for-ai-driven-cognitive-r4843691.htm"
-    type: article
-    provider:
-      name: PR-Inside
-      domain: pr-inside.com
-    quality: 38
-    images:
-      - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
-        width: 1200
-        height: 628
-        isCached: true
-
-secured: "IsPDOatDITGNUDLJYOpvkwrnXKkMa92SQNscYP4NfHmvzk3UCslEuBVBKEQWnbQT6KXTYjB5qoxT39W/odBBi0GWTsnT2gunwWWNKeKfGvMYvf7GLov5RT9JvZ4n3BLhaRwl73MdZsdPmOqFGtLw2hpzR0wZVSjAbZVkxxhhgl2adlOWj1lE8AqaLklgpnYIb9JnYVa6oDONXsN5daIGLE21OrcIh0KHnnQ3/gnqy3U/+R0na+eo5RSEfWhiAHOz59JmiRwYiy9FwVeFyU8Z1Arzlk+R2u4SLnTmmyJwNdlhBIetBbRT1jqpUNtGGAusBxA0YFDMRLr6FPFvrUHyuYX9vx2t+AY/8/L2iY6VgOU=;n+d1yQu9ad1GHp70wM+cjQ=="
+secured: "1rDGYYS+PuZeSzg9ymdhBizz5xmQKrC0PWsnmfKmX8xWxoWIJLBEC4V7CWid9SeYZseyx6ePQVKZoHlD51WB4PWlKeTyEVJ43t0psPdLXnGP7+8759A/Qb1Ov+1i/Gl1PK0m9HLVtUXFwybRupifcXSZ+G/+t8f6OjDxVyFc/gBogvs/YND9+bmKepwqd26vwuyXoQLkw8vt6Jl0NrBziqc6DC4ftmCxWvUFaQs138sHmq85kQxhzEcEp2ArxhmOontg1Aq6QUGHyMl/g5gr0HXPPLfxt95Pi7qavjXRWYhiKdbIm9U8ohfi2ynTdkDeJtd5WeBzFKQ6sGCHmy29mrx9Iwuevc/sdGAtilHdZP0=;B81adgb5R/iAe3SKJSg5Rw=="
 ---
 

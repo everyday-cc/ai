@@ -53,15 +53,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Baidu Announces Baidu Brain 7.0 and Production of 2nd Gen Kunlun AI Chip"
-    excerpt: "Baidu today showcased its artificial intelligence technology with the launch of Baidu Brain 7.0, the start of mass production of its 2nd generation Kunlun AI chip, Kunlun II, and the demonstration of industrial applications using Baidu AI Cloud."
-    publishedDateTime: 2021-08-19T13:30:00Z
-    webUrl: "https://insidehpc.com/2021/08/baidu-announces-baidu-brain-7-0-and-production-of-2nd-gen-kunlun-ai-chip/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 33
 
 secured: "cdpCdiFza08j8HF+jmyuQRgBxc9qdijMRXQZq1RbD90cmJu5gTDnJri/dO2HX96vpwXy2/b0fS+y32qdBCpgtoBCaZqMtnIxkgUOWUQehv3SYUMfR3HEJLez+flUillKVHu3oIQshPWQrbUFxM5DRROO2bd4UMRjfO0sRYmszodJ8kGzUN3rk/AfjEb8geSvK9jVTMEviSb+J32crH3MENO7a68u5yus2dWo4jfJ3zbn4w0ePcbfnsbUtBesDW0DTFDCJuNYlfi24u6YBQokrsAgt+WR7pP1nmGX64bvwinSU5/8z0OxKqc8z/2eT8sRok8hgG+ENtc40govkTyTkKfaLiEbB5SA9NviK6Fo3xvtLIOqtSNrdmxKyV1xkcDy2ERDe0S+LLiEOiSLZYYd6HYoEE7zpzut0heRbTahY/WM8WQldoB9FMw+YwDQ6kzhrbSSxkPYn8eTm0c+bdnVsZf0jyh3RgCrGXs2biMai+vjpe3mptNqn3apz9evcJkZDgsMI4taHnBRQzMMBBsJ7g==;+MX6WAneonOXISgkkHa+wA=="
 ---

@@ -57,6 +57,20 @@ related:
         width: 390
         height: 220
         isCached: true
+  - title: "Data Warehouse as a Service Market Growing at a CAGR 22.3% | Key Player Microsoft, Google, Oracle, Snowflake, Micro Focus | Fintech Zoom"
+    excerpt: "Snowflake Inc. provides cloud-based data platform in the United States and internationally. The company's platform enables customers to consolidate data into a"
+    publishedDateTime: 2021-08-24T06:51:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_nyse-snow/data-warehouse-as-a-service-market-growing-at-a-cagr-22-3-key-player-microsoft-google-oracle-snowflake-micro-focus-fintech-zoom/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 8
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/06/Richard-Lowe1.jpg"
+        width: 746
+        height: 938
+        isCached: true
 
 secured: "ggfEvkD7Q9zgSFD7jrPY3NgDW6Pcx7Eb28YAL0Y+rKrpKHgc7XeuagnGJFlwr5dDzbicgrSmLPp/tItR40AEfDnXWkluakYEbAyegz2xF1kiu/RAX8kZr2CnZoPSOW1OGrMRfL4okt0mHEk+xRtpEDFn3GkuZxCAB+s2/5NGtbJfc7fPGA753lfdHomT1WhcNVnNaAoEAezbg1s7TqPCdg7IRvCq3uuUbPwoMRVk4Jw0FRSdJYUAUHhB6OqwYoJ+sOckW4biNgHJyiw6T0/jnH6POUxFIjwmUvXj8KMSGdGB2XIj/HeIbzyySdQggZ0P1ViQM/OAxe/jXaf2TgyrPsaCT8plD27vbcSQzxMc4NZhpsgzGZp5C6YanM8ZaxYKYVmZsEHinefJCqPu2/W8kplwvWeo4PcZExx1r3kUQrmAIANg04HDJ6CpoPvztIX1Wj9NmnvXspwef1WVDNVjZq60W53mexp9aTaTqTIea9WbHmXdoABZZFNy52hPzmtsm8Lec+w2cNNp2+Lgph2PdA==;Is85FARErFGZ2laVvm0MsA=="
 ---

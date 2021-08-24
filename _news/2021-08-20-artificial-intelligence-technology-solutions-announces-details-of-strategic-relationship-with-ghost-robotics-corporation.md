@@ -20,15 +20,6 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Artificial Intelligence Technology Solutions Announces Details of Strategic Relationship with Ghost Robotics Corporation"
-    excerpt: "Forward-looking statements involve risks and uncertainties that could cause actual results to differ materially from those expressed or implied by the statements, including, but not limited to, the following: the ability of Artificial Intelligence ..."
-    publishedDateTime: 2021-08-19T13:08:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-technology-solutions-announces-details-strategic-relatio-/2021/08/19/9434301.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 39
   - title: "CACI Announces Competing Revolutions in Military Affairs: Artificial Intelligence, Machine Learning, and Information Age Conflict Symposium"
     excerpt: "Cutting across all these technologies is the need for digital modernization, including artificial intelligence and machine learning (AI/ML). Without AI/ML, no nation will be able to successfully compete economically, politically, or militarily in an ..."
     publishedDateTime: 2021-08-20T09:10:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/companies/news/bpcl-launches-ai-enabled-cha
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/bpcl-launches-ai-enabled-chatbot-urja/amp-11629439490779.html"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -27,18 +27,50 @@ images:
 
 related:
   - title: "'Always there': the AI chatbot comforting China's lonely millions"
-    excerpt: "XiaoIce has pioneered a cutting-edge artificial intelligence system designed to create emotional bonds with its 660 million users worldwide - Copyright AFP WANG ZHAOLaurie CHENAfter a painful break-up from a cheating ex,"
-    publishedDateTime: 2021-08-24T03:06:00Z
-    webUrl: "https://www.digitaljournal.com/world/always-there-the-ai-chatbot-comforting-chinas-lonely-millions/article"
+    excerpt: "After a painful break-up from a cheating ex, Beijing-based human resources manager Melissa was introduced to someone new by a friend late last year."
+    publishedDateTime: 2021-08-24T07:48:00Z
+    webUrl: "https://techxplore.com/news/2021-08-ai-chatbot-comforting-china-lonely.html"
+    ampWebUrl: "https://techxplore.com/news/2021-08-ai-chatbot-comforting-china-lonely.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-ai-chatbot-comforting-china-lonely.amp"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/xiaoice-has-pioneered.jpg"
+        width: 1024
+        height: 681
+        isCached: true
+  - title: "'Always There': The AI Chatbot Providing a Shoulder to China's Lonely Millions"
+    excerpt: "Originally a side project from developing Microsoft's Cortana chatbot, XiaoIce now accounts for 60 percent of global human-AI interactions by volume."
+    publishedDateTime: 2021-08-24T06:20:00Z
+    webUrl: "https://www.news18.com/news/buzz/always-there-the-ai-chatbot-providing-a-shoulder-to-chinas-lonely-millions-4120385.html"
+    ampWebUrl: "https://www.news18.com/amp/news/buzz/always-there-the-ai-chatbot-providing-a-shoulder-to-chinas-lonely-millions-4120385.html"
+    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/buzz/always-there-the-ai-chatbot-providing-a-shoulder-to-chinas-lonely-millions-4120385.html"
+    type: article
+    provider:
+      name: CNN-News18
+      domain: news18.com
+    quality: 57
+    images:
+      - url: "https://images.news18.com/ibnlive/uploads/2021/08/ai-chatbot-162978597616x9.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "‘Always there’: The AI chatbox comforting China’s lonely millions"
+    excerpt: "BEIJING: After a painful break-up from a cheating ex, Beijing-based human resources manager Melissa was introduced to someone new by a friend late"
+    publishedDateTime: 2021-08-24T04:56:00Z
+    webUrl: "https://www.thesundaily.my/world/always-there-the-ai-chatbox-comforting-china-s-lonely-millions-EB8245464"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesundaily.my
     quality: 39
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/e67e507526e3f324952f99d0b37d3a0a81610842.jpg"
-        width: 768
-        height: 510
+      - url: "https://www.thesundaily.my/binrepository/480x320/0c57/480d250/none/11808/UJXY/china-computers-social-internet-000321_1857084_20210824125004.jpg"
+        width: 480
+        height: 250
         isCached: true
 
 secured: "1TBi/bVtmT4wDTbUCGldRlOmRwUdzMcVQnjoskDwyQJ++zzuytTnjUlti7ITxZPYA/0iPP1YbVKbGitQio22riAncniGlaFhNFYkO2h1fk2wX1smfuP3SspgRedHGe2yXLCQ0thiqPAuNcsoDdc2s/X8V1P/wYhLIzNzxKuFjJiDtDDHAg/azQfvrketilsgmbBruZGM5ciw0Q6uwma+R0fNfsziYBvBs7XodR93zs1KhAx9BOwdoIuWPdS3HIwyM1uGMol+RyJZcj7suGbR5lqBNRCFjvzXHG+BBRJCivbzK9GzkXjnjtKIgSwXLCxvwT5ZbVypFyLfIoPXO4ylVMcLR+gIzMknlpJE8baMUTI=;t4yHtTdD5Vm6eH+obMYAqg=="

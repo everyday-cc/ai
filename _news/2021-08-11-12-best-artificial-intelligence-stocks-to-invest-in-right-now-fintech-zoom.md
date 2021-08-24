@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - AI in Autos
 
 images:
   - url: "https://fintechzoom.com/wp-content/uploads/2021/08/robot-2301646_1280.jpg"

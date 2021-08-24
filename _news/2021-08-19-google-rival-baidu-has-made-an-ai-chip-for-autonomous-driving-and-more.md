@@ -7,7 +7,7 @@ originalUrl: "https://www.autoevolution.com/news/google-rival-baidu-has-made-an-
 webUrl: "https://www.autoevolution.com/news/google-rival-baidu-has-made-an-ai-chip-for-autonomous-driving-and-more-167674.html"
 type: article
 quality: 56
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -54,15 +54,6 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "Baidu Announces Baidu Brain 7.0 and Production of 2nd Gen Kunlun AI Chip"
-    excerpt: "Baidu today showcased its artificial intelligence technology with the launch of Baidu Brain 7.0, the start of mass production of its 2nd generation Kunlun AI chip, Kunlun II, and the demonstration of industrial applications using Baidu AI Cloud."
-    publishedDateTime: 2021-08-19T13:30:00Z
-    webUrl: "https://insidehpc.com/2021/08/baidu-announces-baidu-brain-7-0-and-production-of-2nd-gen-kunlun-ai-chip/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 33
 
 secured: "MH7HThuWJqwY5DR1isryGm0vQJ6p+Ceb7e9UMFOZXYaDkmGzqL6lW51nGbO9HT3T1K6zPGtR5xAQ+vHd8pejehwcWiKMCjyJmPfVtiI7JUNkFyEbnH4ZGzAeEN1Aey4mPOnh8u+at2lqMwCnXl1y85ElCvY4HL9p6MmOaIaLPI49B611VWbN2p6qDbB5xQ2L0aaByJHQr+6aSyo1JIYJXiJcAUmA9Gt3VITdDhYllLI1lZfstuqnlTPrkKJey9on09s1ab7V9jzLI9lQuT0adQTKb4BnBJ9MLcSnx68ZtVA9oX2oDo54kO/4Lkj7SciUi8VLx5Keh24g/alC+GjJkAmg4JjjHwI3eGhqxgzbe/nJ3m+d+NbmyHb4ij4/w1IBija3quiIMGZ5MwKiEq0YyJqmTyZ3F0Wjfdx9qsdfJI+Hu6qShua9h1rY6FvHrd2T6An3NPJqHWVCnwryCwEK/GZYyo0E7YrH8bTHSAYDCumCW5MtO4tkQsqfxKI1pu5xfkL8mN6W3et+vhRVTKe8Mg==;ke6t6EeeqUo2R5h/Fc9qDQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bostonherald.com/2021/08/23/editorial-caution-needed-in-
 cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/08/23/editorial-caution-needed-in-use-of-ai-for-lending/amp/"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 1024
     height: 683
     isCached: true
-
-related:
-  - title: "Intel Editorial: Intel Advances Architecture for Data Center, HPC-AI and Client Computing"
-    excerpt: "The following is an opinion editorial from Raja Koduri, senior vice president and general manager of the Accelerated ( News - Alert) Computing Systems and Graphics Group at Intel Corporation. This press release features multimedia."
-    publishedDateTime: 2021-08-19T13:09:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-intel-editorial-intel-advances-architecture-data-center-hpc-/2021/08/19/9434297.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 10
 
 secured: "SwgMzeDSRyv9F+7uiFiI+YePE/2+qBvnttWLhLxBx0aqrcK5vJEE/ya+lhSxkVboL6CpskgtWiE1H6AQ+Vwc3dquX/E0AMXfTcDsJXFHIXFoAGhwsjPbr4KhwHvZ8Uno3RzGVcdPoNaa/dzrf13Jy90kaK3v7Aq/hemX8ZSsEMAIqdhWWbScqFzAr18Vjohn/Jst7/ZzD8JsrdlSnd2/HkiWzP+aVkU3l54w7eaUucr38RjpCc4GyrMauXvWnPGpsHfwdP/s5Ht7L/dkNbE2RDwr9KLVmY3ZBWnzqOioOjsY9X59R0FONGJqlj/eh6YDqwxYITdCaoEOZ1mrnjhXANxYsjp5QpjAKy4zAonJC2g=;NZ335wReMtSbScM+zakPQg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/how-chip-developer
 webUrl: "https://markets.businessinsider.com/news/stocks/how-chip-developers-are-using-ai-to-make-chips-more-efficient-1030752905"
 type: article
 quality: 84
-heat: 84
+heat: 85
 published: true
 
 provider:

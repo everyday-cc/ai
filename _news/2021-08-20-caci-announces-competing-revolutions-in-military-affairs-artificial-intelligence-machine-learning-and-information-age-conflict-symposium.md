@@ -28,15 +28,6 @@ related:
       name: Robotics Tomorrow
       domain: roboticstomorrow.com
     quality: 41
-  - title: "Artificial Intelligence Technology Solutions Announces Details of Strategic Relationship with Ghost Robotics Corporation"
-    excerpt: "Forward-looking statements involve risks and uncertainties that could cause actual results to differ materially from those expressed or implied by the statements, including, but not limited to, the following: the ability of Artificial Intelligence ..."
-    publishedDateTime: 2021-08-19T13:08:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-technology-solutions-announces-details-strategic-relatio-/2021/08/19/9434301.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 39
 
 secured: "uoHw25TrY0DRNSGN1tJbWHZVaADdykek6OJl0THXsTWq6K35SliHrZ2OIHZmriob9QCEDdDMkb9Nn7vmuIhELu9RwY9oQs1RmsPlBn3tTBEMDjsr5U8rXqDaa8brqToowUjJyoevoALRlg19dJrGwMOqgZJkIxXJJCw6CbpmuRk0tm3WEw8oVXr7rGPQ7qlfNRid1pgPow/rZhv7C8bJxyfiTF0lRMVNIk/iUWieD0pSXsbX7jdi6jUq8cRxmCQid+u3KC60L0xwPyAVRxPholdEGX6B9W9QTl5T9hI/z/Ot5lRqffi8dVyob+hNJSgk98dy/VUj4PeMfORh7/yfKou92vV5HG/W88ZzQHIbvug=;C8Vi4Zt3jap0GcId/ZkaNg=="
 ---

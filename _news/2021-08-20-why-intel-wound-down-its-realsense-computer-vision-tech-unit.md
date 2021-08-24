@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com.au/news/why-intel-wound-down-its-realsense-com
 webUrl: "https://www.crn.com.au/news/why-intel-wound-down-its-realsense-computer-vision-tech-unit-568829"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 965
     height: 545
     isCached: true
-
-related:
-  - title: "Intel Winding Down Its RealSense Computer Vision Business: Report"
-    excerpt: "Via CRN The long-running IT publication CRN is reporting that Intel is “winding down” its RealSense computer vision business, meaning its depth sensor cameras are ... Read more"
-    publishedDateTime: 2021-08-19T13:50:00Z
-    webUrl: "https://www.sixteen-nine.net/2021/08/19/intel-winding-down-its-realsense-computer-vision-business-report/"
-    type: article
-    provider:
-      name: Sixteen:Nine
-      domain: sixteen-nine.net
-    quality: 39
-    images:
-      - url: "https://www.sixteen-nine.net/wp-content/uploads/2021/08/d455-intel-realsense.jpeg"
-        width: 960
-        height: 340
-        isCached: true
 
 secured: "g7RPYqtmds1PpZr4NEQS5Z/ggJHpezvq+CiDbVuPT32W4IcAu4LHQk3dAZojA44NJxBi9RxJbsBZfjBS0MohXfX7K4IKznzCRSRf9wh044LUUdQV63oqM2DSxLwXzg7A0C9vsMRkhQYL4/N6XYmoDDECOs6w0UPb3iywQ0w5G/w2JzWkOtDNxwbQiC0Tqgdc/V9vaiCypaaATKLo4s+OyR4Ksrk68sEt3EHI50ZYNuBgZ5kB7ihJCo11aZFp7BzzhwbIyvBPd2PSYvNz6wq9b2yL6u0j1LbTDGeKkhbitoLMR8NbWUBYnjiemS5cQst2Xl4vtYM13Cd03oNecAFr5jrUQYyirL35MkoKZFAhjpXCtlBXlNW8CxgKi20t+oRzssYym1GqpsAWd2sZdhUQatrWSTBsPcxFvXhyL6E/4Ub1/qFzVZjWPc/AxHntjjInpIbDJiYJHTHpOlS74fUaysckOr2S979yuvOYKvF3o1Ms54Os0Rc4e728WZvl8wAnyf1FMWTUVOwjG4GgSje4JQ==;zeSgrQ9xIL9oE5IumKJ8DQ=="
 ---
