@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/tesla-to-hold-ai-day-amid-new-scrut
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 72
     images:
       - url: "https://images.barrons.com/im-388173/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Tesla’s AI Day Made Self- Driving Technology Harder to Grasp. What Investors Need to Know."
+    excerpt: "Companies are racing to build autonomous vehicles, but judging who has the best systems has become nearly impossible for ordinary people."
+    publishedDateTime: 2021-08-24T08:30:00Z
+    webUrl: "https://www.barrons.com/articles/tesla-ai-autonomous-vehicle-technology-51629756011"
+    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-ai-autonomous-vehicle-technology-51629756011"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-ai-autonomous-vehicle-technology-51629756011"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 64
+    images:
+      - url: "https://images.barrons.com/im-389712/social"
         width: 1280
         height: 640
         isCached: true

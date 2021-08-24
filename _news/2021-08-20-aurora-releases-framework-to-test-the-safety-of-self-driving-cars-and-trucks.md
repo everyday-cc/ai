@@ -25,19 +25,67 @@ images:
     isCached: true
 
 related:
-  - title: "Behind the Feds’ tesla Investigation, and the Future of Self-Driving Cars"
-    excerpt: "The probe covers 765,000 Tesla cars – that’s virtually every car the company has made in the last seven years. The investigation will put pressure on Tesla to reevaluate the technologies the company uses in Autopilot and could influence the future of driver-assistance systems and autonomous vehicles."
-    publishedDateTime: 2021-08-24T01:00:00Z
-    webUrl: "https://flaglerlive.com/167187/behind-the-feds-tesla-investigation/"
+  - title: "Angst And Worries That Forbidden Knowledge Could Be Revealed By Developing AI Self-Driving Cars"
+    excerpt: "Asking whether forbidden knowledge might be hidden within efforts to create AI systems, and particularly in the case of developing self-driving cars."
+    publishedDateTime: 2021-08-21T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/21/angst-and-worries-that-forbidden-knowledge-could-be-revealed-by-developing-ai-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/21/angst-and-worries-that-forbidden-knowledge-could-be-revealed-by-developing-ai-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/21/angst-and-worries-that-forbidden-knowledge-could-be-revealed-by-developing-ai-self-driving-cars/amp/"
     type: article
     provider:
-      name: Flagler Live
-      domain: flaglerlive.com
-    quality: 38
+      name: Forbes
+      domain: forbes.com
+    quality: 77
     images:
-      - url: "https://flaglerlive.com/wp-content/uploads/tesla.jpg"
-        width: 1000
-        height: 657
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60aea6e9c265b9c305b6d333%2F0x0.jpg%3FcropX1%3D471%26cropX2%3D3180%26cropY1%3D8%26cropY2%3D1531"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "On The Rancorous Controversy Over Dedicating Freeway Lanes Expressly For Autonomous Vehicles Such As AI Self-Driving Cars"
+    excerpt: "Some believe we ought to setup dedicated lanes for self-driving cars, which seems sensible, though there are many arguments in opposition. See the debate here."
+    publishedDateTime: 2021-08-23T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/23/on-the-rancorous-controversy-over-dedicating-freeway-lanes-expressly-for-autonomous-vehicles-such-as-ai-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/23/on-the-rancorous-controversy-over-dedicating-freeway-lanes-expressly-for-autonomous-vehicles-such-as-ai-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/23/on-the-rancorous-controversy-over-dedicating-freeway-lanes-expressly-for-autonomous-vehicles-such-as-ai-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612173ac27df6664b906759a%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Uncrashable cars: Luminar CEO ‘seeing results’ in development of self-driving AI"
+    excerpt: "Thanks to lidar laser technology and a partnership with Volvo, Luminar Technologies is seeing promising results in the development of uncrashable, self-driving vehicles. Russell explained that the Swedish automaker will be standardizing Luminar technology ..."
+    publishedDateTime: 2021-08-20T02:57:00Z
+    webUrl: "https://www.foxbusiness.com/technology/uncrashable-cars-luminar-ceo-seeing-results-in-development-of-self-driving-ai"
+    ampWebUrl: "https://www.foxbusiness.com/technology/uncrashable-cars-luminar-ceo-seeing-results-in-development-of-self-driving-ai.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/uncrashable-cars-luminar-ceo-seeing-results-in-development-of-self-driving-ai.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 54
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/fdbaa316-de0c-47a5-bd7c-b24af9c898c5/06b7e4f9-1b98-4f9d-9345-56d743fc28f4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "China data rules to squeeze overseas development of self-driving tech"
+    excerpt: "China's new rules on the handling of automotive data will take effect Oct. 1 and build a barrier against foreign companies from accessing driving records and onboard images, a move that will hamper their own efforts to advance self-driving technology."
+    publishedDateTime: 2021-08-21T16:26:00Z
+    webUrl: "https://asia.nikkei.com/Business/Automobiles/China-data-rules-to-squeeze-overseas-development-of-self-driving-tech"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 24
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F9%252F1%252F1%252F7%252F36017119-3-eng-GB%252FCropped-16295409212021-05-21T000000Z_1601373438_RC24KN9YF6V3_RTRMADP_3_TESLA-CHINA.JPG?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
         isCached: true
 
 secured: "xDIR5nsZ+GF5PiPLExjdPo/+D1kM8gDL9CKhlmjT9qw7nCfjGsgOl/KzkYy0Sr6rIlxFELl1W9AX1MWGI3c/xh9F9Fc6iG6JgVuc/RF0Rhj//158dA6kJGXZsDG2lIGGtb2xzpwB/dAn+9hX+QwHyNkrtgKpiKecUR3jRhL1dOOy7/JdJMxDD25KV0UyuWwgi50swiWQypRSo57VbBhgeesu0fmrRlH5Z6nq6+jL+RK3eHyuhvy7Mm63VvAKTOe4v6lUkAOR4TBUnXV8GyyKLi3K+GFeB5OreLxPMrTbfXSXHbC8dTnYLwN8WwleYHknZJd3vRNtZmRFVFiWdE7zBVRvsuaBQbasOjLNauD0u2HBJXxIlUe++XA91X4cXuVij9qvdEEN3bZ5YxdpK2UIZOfxoBw9hSUVqt5jClE9cO0cCsxOd61P76pdzdD9QhFuCd83KoFNsluoNQIPIUcM/lwqCm3Nr6i3+aclVSjwCAnngb3TaIh+mYqnLKjw6mNcZLN9NoC/NOFWwgedzZ1opA==;CSphtBSXdcc+GmILG+yw9w=="

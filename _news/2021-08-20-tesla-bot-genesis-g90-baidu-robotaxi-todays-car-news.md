@@ -7,7 +7,7 @@ originalUrl: "https://www.motorauthority.com/news/1133305_tesla-bot-genesis-g90-
 webUrl: "https://www.motorauthority.com/news/1133305_tesla-bot-genesis-g90-baidu-robotaxi-today-s-car-news"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1920
     height: 1174
     isCached: true
-
-related:
-  - title: "Baidu Pushing to Expand Robotaxi to 30 Chinese cities by 2023-2024"
-    excerpt: "Baidu plans to expand its robotaxi ride-hailing services across 30 cities in China in two to three years to serve a wider range of users. Robin Li, founder of"
-    publishedDateTime: 2021-08-19T21:36:00Z
-    webUrl: "https://www.nextbigfuture.com/2021/08/baidu-pushing-to-expand-robotaxi-to-30-chinese-cities-by-2023-2024.html"
-    ampWebUrl: "https://www.nextbigfuture.com/2021/08/baidu-pushing-to-expand-robotaxi-to-30-chinese-cities-by-2023-2024.html"
-    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/08/baidu-pushing-to-expand-robotaxi-to-30-chinese-cities-by-2023-2024.html"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 59
-    images:
-      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/08/Screen-Shot-2021-08-19-at-2.32.36-PM.jpg"
-        width: 1952
-        height: 840
-        isCached: true
 
 secured: "mvx6tY0CF78hzTBM7YkshQkh5tBJwK743wXH5XwuHwCF4qBZz8d1gPNx2AO/1ODnyxb7Cfv91L2vAHYHGy7EePik+bzszryDThkfwv44DZcRn5zQbP7+D8Rwz4S76x6RxHQ3YBb7hw068K8+HhP4CJLmkwGlt406YGnsBwUR3k3G8i2zqUXGzTZEA0dweU1zTmR45ZyT3iZmpWBC41e4digCPAIn799vTMphyptg+YZ0k5uQr+P0kAmGCRrIj5Yq/oVsC/mEbgow/1KIS56fME5OG9Yk3z1N2B+k64D6bnCIm4R4k+/K7LYa9pp28zY3ieZJlVzbs5rSp0W/aP4/gnjEEiqMjCJ1UqW7h9oy42pqfM1fjK5WMUBXmVTqvhofCz62KgBjRMEYlRDLTG8SXi1JIg9DCI4vwdHV0Zx9n7JK7MKgcDOg06m1M5WjpJOM1z2e16DhddkBdlDL4i1XtiNg7kzxOy+g/FdZNKzu+2ADhYFkyLaCIzBDY6R7mC4SxUTS2It7lOYybvtWPmGcFg==;WdF5kEx31j2hNt7O2BmtRw=="
 ---

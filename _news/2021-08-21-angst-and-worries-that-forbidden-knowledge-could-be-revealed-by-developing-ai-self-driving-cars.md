@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/21/angst-and-worries
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/21/angst-and-worries-that-forbidden-knowledge-could-be-revealed-by-developing-ai-self-driving-cars/amp/"
 type: article
 quality: 77
-heat: -1
-published: false
+heat: 117
+published: true
 
 provider:
   name: Forbes
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "City Leaders: Here’s Why Urban Tourism Could Skyrocket Due To AI Self-Driving Cars"
-    excerpt: "Tourism is significant to the economic wellbeing of cities, and we might see a boon in urban tourism due to the advent of AI-based true self-driving cars."
-    publishedDateTime: 2021-08-19T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/19/city-leaders-heres-why-urban-tourism-could-skyrocket-due-to-ai-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/19/city-leaders-heres-why-urban-tourism-could-skyrocket-due-to-ai-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/19/city-leaders-heres-why-urban-tourism-could-skyrocket-due-to-ai-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 83
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611c144d2530a533d7e1f280%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1534%26cropY1%3D29%26cropY2%3D892"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "On The Rancorous Controversy Over Dedicating Freeway Lanes Expressly For Autonomous Vehicles Such As AI Self-Driving Cars"
     excerpt: "Some believe we ought to setup dedicated lanes for self-driving cars, which seems sensible, though there are many arguments in opposition. See the debate here."
     publishedDateTime: 2021-08-23T15:30:00Z
@@ -63,21 +47,49 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Artificial Intelligence in cars: A timely boost to driving experience"
-    excerpt: "Artificial intelligence (AI) is a wide-range branch of computer science concerned with building smart machines capable of performing tasks that typically require human intelligence. Presently, AI can be seen anywhere whether it's your cellphone,"
-    publishedDateTime: 2021-08-20T07:52:00Z
-    webUrl: "https://www.cityspidey.com/news/14469/artificial-intelligence-in-cars-a-timely-boost-to-driving-experience"
-    ampWebUrl: "https://www.cityspidey.com/amp/news/14469/artificial-intelligence-in-cars-a-timely-boost-to-driving-experience"
-    cdnAmpWebUrl: "https://www-cityspidey-com.cdn.ampproject.org/c/s/www.cityspidey.com/amp/news/14469/artificial-intelligence-in-cars-a-timely-boost-to-driving-experience"
+  - title: "Uncrashable cars: Luminar CEO ‘seeing results’ in development of self-driving AI"
+    excerpt: "Thanks to lidar laser technology and a partnership with Volvo, Luminar Technologies is seeing promising results in the development of uncrashable, self-driving vehicles. Russell explained that the Swedish automaker will be standardizing Luminar technology ..."
+    publishedDateTime: 2021-08-20T02:57:00Z
+    webUrl: "https://www.foxbusiness.com/technology/uncrashable-cars-luminar-ceo-seeing-results-in-development-of-self-driving-ai"
+    ampWebUrl: "https://www.foxbusiness.com/technology/uncrashable-cars-luminar-ceo-seeing-results-in-development-of-self-driving-ai.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/uncrashable-cars-luminar-ceo-seeing-results-in-development-of-self-driving-ai.amp"
     type: article
     provider:
-      name: cityspidey
-      domain: cityspidey.com
-    quality: 57
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 54
     images:
-      - url: "https://cityspideynews.s3.amazonaws.com/uploads/spidey/202108/artificial-intelligence-in-cars-1629444886.jpg"
-        width: 1170
-        height: 580
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/fdbaa316-de0c-47a5-bd7c-b24af9c898c5/06b7e4f9-1b98-4f9d-9345-56d743fc28f4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "China data rules to squeeze overseas development of self-driving tech"
+    excerpt: "China's new rules on the handling of automotive data will take effect Oct. 1 and build a barrier against foreign companies from accessing driving records and onboard images, a move that will hamper their own efforts to advance self-driving technology."
+    publishedDateTime: 2021-08-21T16:26:00Z
+    webUrl: "https://asia.nikkei.com/Business/Automobiles/China-data-rules-to-squeeze-overseas-development-of-self-driving-tech"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 24
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F9%252F1%252F1%252F7%252F36017119-3-eng-GB%252FCropped-16295409212021-05-21T000000Z_1601373438_RC24KN9YF6V3_RTRMADP_3_TESLA-CHINA.JPG?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "Aurora Releases Framework to Test the Safety of Self-driving Cars and Trucks"
+    excerpt: "In their view, the tool will allow developers to gauge the efficiency of their self-driving vehicles in various situations. The term \"tool\" is a simplified explanation of what Aurora has released, which is a Safety Case Framework. The latter is developed ..."
+    publishedDateTime: 2021-08-20T15:57:00Z
+    webUrl: "https://www.autoevolution.com/news/aurora-releases-framework-to-test-the-safety-of-self-driving-cars-and-trucks-167761.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 21
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/aurora-releases-framework-to-test-the-safety-of-self-driving-cars-and-trucks-167761_1.jpg"
+        width: 1680
+        height: 920
         isCached: true
 
 secured: "JJqzyoUy2rsgPGrp9Aw4pF+M/QhGBFD+x+xhbzPx76FY1X+rwGrZH8ro8LHowSAEDC6iXJ+rosJLUtYxaVwcaEMUunFGWfJ5WAMxHHcrTdwil0PBAU3dIHf41XJPnQY/Zwk07X9JA0EBfcltlXMOhHe4m+jfxPzckn6Iyr9B0FQBCkyNnlIy+roGWx1jEsxhUn3ZX5JtkMt27b1JRv/8JeQbWU02dYQSAUP6uwlnlZ3cL2PGppAGjvQV6mDFyDbDCknI6oCjkk6UaJKpZLrwUxyN/EjhAP720RlpTT6f1sC7lI5SVTah4ZtwyhMgcXUcAjPdEW3+OHtWmriut0G+antrDTEkOANUzHeuqDugl7QznCA0PEbP1ZTlSNygU6Yn95cEYrzQRKvBzry8cFZRZIPfhK8DxgYx1HVtT8606m0EAWhWBaAVltlPdVLN1qCn3zvTCPsarHSHw9Uanc2DbG1OJxFUejMNV+og8xyiM5zRgoLnqh0oO5bxqagSjon1ikBtm6QzTRnxvOYZxKSljg==;N2nerSYw8q8siEiclrMHKg=="

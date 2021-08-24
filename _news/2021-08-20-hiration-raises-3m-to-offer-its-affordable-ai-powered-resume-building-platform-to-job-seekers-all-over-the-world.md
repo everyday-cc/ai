@@ -18,24 +18,20 @@ topics:
   - AI
 
 related:
-  - title: "Diamond Age Raises $8 Million Seed Round to Advance Robotics and 3D Printing for Affordable Home Construction"
-    excerpt: "Diamond Age, a full stack robotics startup that is automating new home construction to make home ownership more affordable, raised an $8 million seed round led by Prime Movers Lab and Alpaca VC. Additional investors include Dolby Family Ventures,"
-    publishedDateTime: 2021-08-19T16:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/diamond-age-raises-8-million-seed-round-to-advance-robotics-and-3d-printing-for-affordable-home-construction-1030746267"
+  - title: "Shelf.io raises $52.5M for its AI-powered enterprise knowledge platform"
+    excerpt: "Startup Shelf.io today announced that it has raised $52.5 million in funding after quadrupling sales of its enterprise knowledge management platform over the preceding year. Shelf.io, officially Gemshelf Inc."
+    publishedDateTime: 2021-08-23T19:26:00Z
+    webUrl: "https://siliconangle.com/2021/08/23/shelf-io-raises-52-5m-ai-powered-enterprise-knowledge-platform/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 60
-  - title: "Diamond Age Raises $8 Million Seed Round to Advance Robotics and 3D Printing for Affordable Home Construction"
-    excerpt: "Using 3D printing and robotics technology, Diamond Age is building a suite of 26 end-of-arm robotic tools to offset 55% of the manual labor required to build a new home, reducing the construction cycle time from about 9 months to 30 days."
-    publishedDateTime: 2021-08-19T17:26:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-diamond-age-raises-8-million-seed-round-advance-/2021/08/19/9434380.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 30
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/unsplash-3.png"
+        width: 1091
+        height: 634
+        isCached: true
 
 secured: "SaxEtOrD39lSqUQZBqsc5GC30y63+xHyI/geoEY25intzC3tlOYT+a8+YK4oRS5GclW4ZLe5fHZe9n48vYkpHoWnVs3CtuUj5mbT2MYcqri5dkVXToOQJoMU6ZLI/P2prKBdDpyBd/ZYHhI1AEU45r3R1Bi1WutLjBOoSXhnnz93qKNSp8VmBLyekt2cBKmjPrySrVxsnrB76KkGdFTxALfiXqP/DkbTIh5OOkhHX7f7gFIYiucHCM2sBBLJFg3oU5psOAZKBhvw9vdi6w7S9yzgFl40oKk74B/SO6Gwqcb8aVRb7h6Rqa7XQPo0NE86a/AzHFJtEp9yG1eqHQhsVFXJDQ5VTGrsP324H3NGqZI=;m5DMTIxBy8hIs8mtkXhrUQ=="
 ---

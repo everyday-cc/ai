@@ -58,6 +58,22 @@ related:
         width: 700
         height: 393
         isCached: true
+  - title: "AI Enabled E-Commerce Solutions Market - Forecast to 2026"
+    excerpt: "According to a new market research report published by Global Market Estimates the AI Enabled E Commerce Solutions Market will grow with a CAGR value of around 40 percent over the forecast period Browse TOC on Global AI Enabled E"
+    publishedDateTime: 2021-08-24T09:28:00Z
+    webUrl: "https://www.openpr.com/news/2364893/ai-enabled-e-commerce-solutions-market-forecast-to-2026"
+    ampWebUrl: "https://www.openpr.com/amp/2364893/ai-enabled-e-commerce-solutions-market-forecast-to-2026"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2364893/ai-enabled-e-commerce-solutions-market-forecast-to-2026"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 57
+    images:
+      - url: "https://cdn.openpr.com/U/8/U824327631_g.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Computer Vision Software Market 2021-2030 By Strategic Imperatives for Success and Growth Analysis"
     excerpt: "A new informative report titled as Global Computer Vision Software Market Report 2021 by Key Players Types Applications Countries Market Size Forecast to 2030 has recently published by Absolute Markets Insights to its huge database which helps to shape the"
     publishedDateTime: 2021-08-21T10:07:00Z
@@ -103,22 +119,6 @@ related:
     quality: 43
     images:
       - url: "https://cdn.openpr.com/U/8/U823660206_g.jpg"
-        width: 750
-        height: 350
-        isCached: true
-  - title: "Automatic Speech Recognition (ASR) Software Market Size, Trends, SWOT, PEST, Porter’s Analysis, For 2020–2027"
-    excerpt: "The Global Automatic Speech Recognition ASR Software Market is witnessing a remarkable growth owing to an increase in the demands for the products and a tremendous shift in consumer preferences The high demand is concentrated in the European and North"
-    publishedDateTime: 2021-08-19T15:35:00Z
-    webUrl: "https://www.openpr.com/news/2360987/automatic-speech-recognition-asr-software-market-size"
-    ampWebUrl: "https://www.openpr.com/amp/2360987/automatic-speech-recognition-asr-software-market-size"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2360987/automatic-speech-recognition-asr-software-market-size"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 40
-    images:
-      - url: "https://cdn.openpr.com/U/8/U819579667_g.jpg"
         width: 750
         height: 350
         isCached: true

@@ -26,20 +26,20 @@ images:
 
 related:
   - title: "'Always there': the AI chatbot comforting China's lonely millions"
-    excerpt: "After a painful break-up from a cheating ex, Beijing-based human resources manager Melissa was introduced to someone new by a friend late last year."
-    publishedDateTime: 2021-08-24T07:48:00Z
-    webUrl: "https://techxplore.com/news/2021-08-ai-chatbot-comforting-china-lonely.html"
-    ampWebUrl: "https://techxplore.com/news/2021-08-ai-chatbot-comforting-china-lonely.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-ai-chatbot-comforting-china-lonely.amp"
+    excerpt: "Instead, Melissa breaks up the isolation of urban life with a virtual chatbot created by XiaoIce, a cutting-edge artificial intelligence system designed to create emotional bonds with its 660 million users worldwide."
+    publishedDateTime: 2021-08-24T07:39:00Z
+    webUrl: "https://gulfnews.com/technology/always-there-the-ai-chatbot-comforting-chinas-lonely-millions-1.1629786246255"
+    ampWebUrl: "https://gulfnews.com/amp/technology/always-there-the-ai-chatbot-comforting-chinas-lonely-millions-1.1629786246255"
+    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/technology/always-there-the-ai-chatbot-comforting-chinas-lonely-millions-1.1629786246255"
     type: article
     provider:
-      name: techxplore.com
-      domain: techxplore.com
+      name: Gulf News
+      domain: gulfnews.com
     quality: 59
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/xiaoice-has-pioneered.jpg"
-        width: 1024
-        height: 681
+      - url: "https://imagevars.gulfnews.com/2021/08/24/20210824-melissa_17b770f16c0_medium.jpg"
+        width: 540
+        height: 405
         isCached: true
   - title: "BPCL launches AI-enabled chatbot Urja"
     excerpt: "With the objective of making BPCL’s customer interface comprehensive and integrated digitally, Urja, the chabot is now available on the company website for any queries for both B2B & B2C"
@@ -73,7 +73,21 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "AI chatbot comforting China's lonely millions"
+    excerpt: "Originally a side project from developing Microsoft's Cortana chatbot, XiaoIce now accounts for 60 percent of global human-AI interactions by volume."
+    publishedDateTime: 2021-08-24T08:45:00Z
+    webUrl: "https://www.enca.com/news/always-there-ai-chatbot-comforting-chinas-lonely-millions"
+    type: article
+    provider:
+      name: eNCA
+      domain: enca.com
+    quality: 41
+    images:
+      - url: "https://www.enca.com/sites/default/files/styles/facebook/public/afp/2021-08/doc-9KW7NW-%40photo1.jpg?h=426933fc&itok=eLePxnD5"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "h6uJVY5fh4TjiY8PMtC9RpUYjljRDUYW17uBq8unyN29R319iIjTTxCVpgyORmMfwq4bhO6oxyZ3nnqdMOZ2QKy+kuaUqm76FHxuaLAJ45kOcFcHoJHVqzuxJs3QUkyzT9NywMokdlVcdrfu7hPdMTqyBkDW1opZw996lI65wzlMEgV+5XRKvUNXHeLiXzPM0O6dyjFNbiuzrWgFY+n4kQ3LJdQQg6ie6iSeXJyR+fLyqbpuw9ZAi6BCMkjzl6UbgSkp1Xgc+YNTX8V7X6zMA89Hj6mvmJgni6J1QqXv+3E8pIX/8daF3GNJmnFnM0IUhF3sBvJrkJ2pg23OIrXXSG38VTsEMxUDZLRlpzTt1Qc=;+8lxtDuonPQHBd3/qnByww=="
+secured: "kCugJ33dzghBfbF4Vyi4+uFhbqeF/Bnn6m2Z5OjlMTcwwrPfxl8TQPRM5tRxjJXIO3JsV2z/r/KLCIVaXsWNV6Y9CppyzdXvXGP/VVhS7tGeCYdRlIZ0cTE3wQTrCl3Mz/mzQHMgdOCqmH2y2NbP8nzJZ9jcVZ24N2LdV6daB99aww1ucPK13h5hINKzM7NP3OBuWAIJy9yN1qdoa7glPWinUX57p+1x2fgnVnrQ8SlNZf/z7ufdN6u38GBOk2RwrZUX5e2YsveOcxCr5VDECxHfIfus95FMWIOKYh+nXowKU9uuP74hpA82/kSlUJkljkfAw72lYPK6OCJsWR0DZH23QH9yYYHliDxv5DZ6CsMasDmDdEEzCXi+BCAK3lTJ9pDE506L7DssmiTxf3UZ2Jmg/cPwSeh1LFqkZwwiJpQcEHR/hrPGg+uWI2fVUOHlJtjykfFziaa/eCSaNPOKmU8KSonUOVqHgrrHLUvhrVOv6LxYnB4uEWdt7ZsEOQRPZZSHtgBc+0hn7KdAHB5hRw==;NqBbEgXZ4ZJK6Jb/UOHsBg=="
 ---
 

@@ -145,6 +145,20 @@ related:
         width: 1600
         height: 1109
         isCached: true
+  - title: "Campaign groups claim police have bypassed Parliament with plans for live facial-recognition tech"
+    excerpt: "Civil society groups have called for a ban on the use of life facial recognition technology amid claims that the government and the police are introducing intrusive surveillance measures without parliamentary scrutiny."
+    publishedDateTime: 2021-08-24T05:15:00Z
+    webUrl: "https://www.computerweekly.com/news/252505711/Campaign-groups-claim-police-have-bypassed-Parliament-with-plans-for-live-facial-recognition-tech"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 26
+    images:
+      - url: "https://cdn.ttgtmedia.com/visuals/German/article/CCTV-facial-recognition-2-adobe.jpg"
+        width: 1200
+        height: 400
+        isCached: true
 
 secured: "+GFl+a9UVFEfoyj3ilYykXa7g89kDYbI++ZDioWcTypWd2+V2bEZlW8SlhipxwjVaqvcM/2mhqoR+xRHTyVcICISbJaw/OD0vyMYNbe4tf9OAfmAkvDzmUbXupJ+BOqnYidi3CbEfjDi2C5J/HQQUdHG8Cr/YZ+I7GOU0MxWhREAdnQfJNKqYcEov9kFlzp9Wf5uOC697CBUPXlXwypCACmBGVBtyzEh5vOAQwXfEntALoymuQgcNpd9ZDEhwFya3+LpLgLsXT9gfd6NBv0xqmivySle44EuP9rxa4bFjuTiKRNCDzlJI21ApOSkoteP6wJrJZGM7IvScPzNGK7PsyCQeVqKw0GMZHaEWJZeKsgfWf8NaEzyITEbSuBGPch0wABDQYAPC/V34HkQA/i5BVy3uLrBzCg6C8V1Y/uEphfO8NfZvmU6qG8RQb8lCojmbdgswVbVLN5Blhcul4b7AgiOP1VPiJNyiJoWyzPLg+Q68szEaxy7XMCsuypdN9I44rinpUPX1Kt6s0ikW1Nf3w==;m3PT9MZCjd19KaxzOG4RHg=="
 ---

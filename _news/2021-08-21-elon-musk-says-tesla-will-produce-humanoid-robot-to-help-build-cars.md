@@ -188,22 +188,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "How to watch Tesla’s AI day event"
-    excerpt: "Today is Tesla’s AI Day, a sequel of sorts to the company’s Autonomy Day event held in 2019. The event, which will be held at Tesla’s headquarters in Palo Alto, CA, will be livestreamed for the public starting at 5PM PT / 8PM ET (though the event may ..."
-    publishedDateTime: 2021-08-19T15:39:00Z
-    webUrl: "https://www.theverge.com/2021/8/19/22632384/tesla-event-watch-ai-day-elon-musk-start-time-live-stream"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2021/8/19/22632384/tesla-event-watch-ai-day-elon-musk-start-time-live-stream"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/8/19/22632384/tesla-event-watch-ai-day-elon-musk-start-time-live-stream"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 104
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/euC9eBc4MhSWfWm4BHGu0ALNmJk=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69747879/acastro_180524_1777_tesla_0001.0.jpg"
-        width: 1400
-        height: 933
-        isCached: true
   - title: "Tesla to Spotlight Artificial Intelligence Work Amid Scrutiny of Autopilot"
     excerpt: "Elon Musk is slated to host an event Thursday evening to drum up interest in the electric-vehicle maker and its AI efforts at a time its driver-assistance system is under investigation."
     publishedDateTime: 2021-08-19T20:33:00Z
@@ -479,22 +463,6 @@ related:
       - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/08/Screen-Shot-2021-08-19-at-5.46.09-PM-1024x606.jpg"
         width: 1024
         height: 606
-        isCached: true
-  - title: "Tesla AI Day Preview"
-    excerpt: "Tesla’s AI day is Thursday August 19, scheduled to start at 8 PM EST at Tesla headquarters in Palo Alto, California. The goal of the event is to essentially persuade robotics and AI experts to come work at Tesla,"
-    publishedDateTime: 2021-08-19T17:00:00Z
-    webUrl: "https://cheddar.com/media/tesla-ai-day-preview"
-    ampWebUrl: "https://cheddar.com/media/tesla-ai-day-preview.amp"
-    cdnAmpWebUrl: "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/tesla-ai-day-preview.amp"
-    type: article
-    provider:
-      name: Cheddar
-      domain: cheddar.com
-    quality: 76
-    images:
-      - url: "https://img.chdrstatic.com/media/794aafcd-9b3d-4b8b-89e1-1afefb5e498f.jpg?width=1200&source=backend&auto=webp"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Tesla Bot Division Will Be the Most Successful Robot Company"
     excerpt: "Here is why Tesla Bot has an assured level of success. The Tesla robots do not have to exceed the level of Boston Dynamic robots for agility to win. Boston Dynamics was founded in 1992 and has recently started making about $50 million a year in revenue."

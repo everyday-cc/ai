@@ -52,6 +52,20 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "How This Fintech Startup Uses ML To Disburse Loans And Detect Fraud"
+    excerpt: "Kissht uses machine learning-based statistical models to predict customers’ ability to repay loans and detect frauds."
+    publishedDateTime: 2021-08-24T09:30:00Z
+    webUrl: "https://analyticsindiamag.com/how-this-fintech-startup-uses-ml-to-disburse-loans-and-detect-fraud/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 41
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/Untitled-5-copy-1.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "4 Ways the Fintech Industry is Detecting and Preventing Frauds"
     excerpt: "Digitization in the fintech industry is giving rise to financial fraud. It is essential to detect potential frauds and prevent them before any loss to the customer or the organization. Fremont, CA: Like all the industries,"
     publishedDateTime: 2021-08-20T00:00:00Z

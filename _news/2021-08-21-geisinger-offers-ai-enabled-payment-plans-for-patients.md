@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Geisinger ups payment adherence 23% with AI-backed payment solution"
-    excerpt: "Geisinger is partnering with fintech startup PayZen to launch an artificial intelligence-backed financing solution for patients. Any patient who has an out-of-pocket cost of more than $250 is eligible to create a personalized payment plan,"
-    publishedDateTime: 2021-08-19T16:04:00Z
-    webUrl: "https://www.beckershospitalreview.com/digital-transformation/geisinger-ups-payment-adherence-23-with-ai-backed-payment-solution.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 39
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/digital-transformation/3.jpg"
-        width: 400
-        height: 300
-        isCached: true
   - title: "Geisinger Unveils AI-Backed, Customizable Approach to Medical Billing"
     excerpt: "The new offering in partnership with fintech startup, PayZen marks Geisinger as the first large health system in the country to deploy an AI-backed financing solution to create customized billing ..."
     publishedDateTime: 2021-08-20T09:50:00Z

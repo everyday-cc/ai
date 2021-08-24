@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cityspidey.com/amp/news/14469/artificial-intelligence-in
 cdnAmpWebUrl: "https://www-cityspidey-com.cdn.ampproject.org/c/s/www.cityspidey.com/amp/news/14469/artificial-intelligence-in-cars-a-timely-boost-to-driving-experience"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -24,56 +24,6 @@ images:
     width: 1170
     height: 580
     isCached: true
-
-related:
-  - title: "City Leaders: Here’s Why Urban Tourism Could Skyrocket Due To AI Self-Driving Cars"
-    excerpt: "Tourism is significant to the economic wellbeing of cities, and we might see a boon in urban tourism due to the advent of AI-based true self-driving cars."
-    publishedDateTime: 2021-08-19T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/19/city-leaders-heres-why-urban-tourism-could-skyrocket-due-to-ai-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/19/city-leaders-heres-why-urban-tourism-could-skyrocket-due-to-ai-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/19/city-leaders-heres-why-urban-tourism-could-skyrocket-due-to-ai-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 83
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611c144d2530a533d7e1f280%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1534%26cropY1%3D29%26cropY2%3D892"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Angst And Worries That Forbidden Knowledge Could Be Revealed By Developing AI Self-Driving Cars"
-    excerpt: "Asking whether forbidden knowledge might be hidden within efforts to create AI systems, and particularly in the case of developing self-driving cars."
-    publishedDateTime: 2021-08-21T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/21/angst-and-worries-that-forbidden-knowledge-could-be-revealed-by-developing-ai-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/21/angst-and-worries-that-forbidden-knowledge-could-be-revealed-by-developing-ai-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/21/angst-and-worries-that-forbidden-knowledge-could-be-revealed-by-developing-ai-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 77
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60aea6e9c265b9c305b6d333%2F0x0.jpg%3FcropX1%3D471%26cropX2%3D3180%26cropY1%3D8%26cropY2%3D1531"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "On The Rancorous Controversy Over Dedicating Freeway Lanes Expressly For Autonomous Vehicles Such As AI Self-Driving Cars"
-    excerpt: "Some believe we ought to setup dedicated lanes for self-driving cars, which seems sensible, though there are many arguments in opposition. See the debate here."
-    publishedDateTime: 2021-08-23T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/23/on-the-rancorous-controversy-over-dedicating-freeway-lanes-expressly-for-autonomous-vehicles-such-as-ai-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/23/on-the-rancorous-controversy-over-dedicating-freeway-lanes-expressly-for-autonomous-vehicles-such-as-ai-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/23/on-the-rancorous-controversy-over-dedicating-freeway-lanes-expressly-for-autonomous-vehicles-such-as-ai-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612173ac27df6664b906759a%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "YB2/iD0sVKIue9JnZvI87gW4zxpm2E4ccfvRBojUMcT35sKNckv+dSbc6B3OuVA+6G9t3PmiJkX3rCzEE0KjYvrtvipyRVFaElg/C/FpYqlGayxuh3r7PziOc9G/UDVRDQ7VyDqsdmZte5yzSvAEITkAJZFzwGqC5VmIQNkGqT5fsshqwc24NPa7bCD0ElGIyAQ9apklaR5yY8Ky1BIwhKeKUuHMKbQ6R/teA2YU2Lh3t6p2HFOj/5+0x1quc2mI7Z9P+pO66/Z6FdQOnjJH8SHcvpSvbOAb8JJH6YBhgI/WP5LNKuRdac/Ic60oRVzMUCfFAK42jFNIaXp5EW52dCJthm5My8sSU4RysD7fuxY+bX3eD+utlvNHXUI6ykfm1o+gh1PT/PT3K5ed5PK8HCHpraYFidUy/92/PNWJN45NMgS7KJzymc32ZAfuZ3bqGlxhVBrma+xJA/UZwNXd7OUjPXed9EoLvmW6kKB+LFI09byN8cnHw9RMXgb17dCWRa2YAn9hMGa5B/3Y1EUhEA==;9IHptN2H9PRuI+vPh4T2dQ=="
 ---

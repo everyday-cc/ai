@@ -19,21 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Venture Catalysts invests in Altor, a startup building IoT and AI-enabled smart helmets"
-    excerpt: "The startup will utilize the funding to strengthen its core team, increase the footprint and fulfil current orders."
-    publishedDateTime: 2021-08-19T16:15:00Z
-    webUrl: "https://www.dqindia.com/venture-catalysts-invests-altor-startup-building-iot-ai-enabled-smart-helmets/"
-    ampWebUrl: "https://www.dqindia.com/venture-catalysts-invests-altor-startup-building-iot-ai-enabled-smart-helmets/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/venture-catalysts-invests-altor-startup-building-iot-ai-enabled-smart-helmets/amp/"
+  - title: "London AI startup secures funding to propel US expansion"
+    excerpt: "A London venture capital firm has announced its investment into a legal AI startup for financial services. QVentures has announced its… | Law | London | Finance | Technology | Fintech | Technology | I"
+    publishedDateTime: 2021-08-20T10:05:00Z
+    webUrl: "https://bdaily.co.uk/articles/2021/08/20/london-ai-startup-secures-funding-to-propel-us-expansion"
     type: article
     provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 49
+      name: Bdaily Business Network
+      domain: bdaily.co.uk
+    quality: 37
     images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2016/12/fund.jpg"
-        width: 327
-        height: 235
+      - url: "https://bdaily.co.uk/images/uploads/2TxWEB8awR35HFVLfWnJmbvXtt3YYU2mjvxT8o8D.jpeg?w=940&h=430&fm=jpg&fit=crop-48-42&s=bd229f8fb0486cb5909412d51a173323"
+        width: 940
+        height: 430
         isCached: true
   - title: "QVentures invests in Semeris, a LegalTech AI startup for Financial Services"
     excerpt: "QVentures has announced their latest fund investment into Semeris, a legal AI startup that builds contract analysis products for the financial sector."

@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu Just Launched a \"Robocar\" Prototype With Its New AI Chip"
-    excerpt: "Chinese tech giant Baidu just unveiled its new artificial ... one of the world's biggest tech firms by focusing on AI and self-driving solutions. Baidu said the new chip, which uses 7 nm process ..."
-    publishedDateTime: 2021-08-19T16:56:00Z
-    webUrl: "https://interestingengineering.com/baidu-just-launched-a-robocar-prototype-with-its-new-ai-chip"
-    ampWebUrl: "https://amp.interestingengineering.com/baidu-just-launched-a-robocar-prototype-with-its-new-ai-chip"
-    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/baidu-just-launched-a-robocar-prototype-with-its-new-ai-chip"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 76
-    images:
-      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/V0OyWrKL6Q/sizes/baidu_resize_md.jpeg"
-        width: 744
-        height: 419
-        isCached: true
   - title: "Baidu Unveils Robocar And Its Second-Generation AI Chip In China"
     excerpt: "Chinese internet and AI behemoth Baidu has unveiled its second-generation artificial intelligence chip alongside a host of other important pieces of technology related to the automotive industry, including a ‘robocar’."
     publishedDateTime: 2021-08-20T09:56:00Z
@@ -75,6 +59,22 @@ related:
         width: 450
         height: 300
         isCached: true
+  - title: "Baidu Pushing to Expand Robotaxi to 30 Chinese cities by 2023-2024"
+    excerpt: "Baidu plans to expand its robotaxi ride-hailing services across 30 cities in China in two to three years to serve a wider range of users. Robin Li, founder of"
+    publishedDateTime: 2021-08-19T21:36:00Z
+    webUrl: "https://www.nextbigfuture.com/2021/08/baidu-pushing-to-expand-robotaxi-to-30-chinese-cities-by-2023-2024.html"
+    ampWebUrl: "https://www.nextbigfuture.com/2021/08/baidu-pushing-to-expand-robotaxi-to-30-chinese-cities-by-2023-2024.html"
+    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/08/baidu-pushing-to-expand-robotaxi-to-30-chinese-cities-by-2023-2024.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 59
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/08/Screen-Shot-2021-08-19-at-2.32.36-PM.jpg"
+        width: 1952
+        height: 840
+        isCached: true
   - title: "Baidu shows off robotaxi concept and second-generation AI computer chip"
     excerpt: "Baidu says it is ready to move from technical verification to large-scale commercial operation of self-driving cars."
     publishedDateTime: 2021-08-20T14:00:00Z
@@ -88,6 +88,20 @@ related:
       - url: "https://images.hgmsites.net/lrg/baidu-self-driving-car-concept_100803533_l.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Baidu says 2nd-gen Kunlun AI chips enter mass production"
+    excerpt: "BEIJING, Aug 18 (Reuters) – Chinese tech giant Baidu said on Wednesday it had begun mass-producing second-generation Kunlun artificial intelligence (AI) chips, as it races to become a key player in the chip industry which Beijing is trying to strengthen."
+    publishedDateTime: 2021-08-21T11:53:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_nvidia-stock/baidu-says-2nd-gen-kunlun-ai-chips-enter-mass-production-2/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 54
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/RYPZAKZXTBPZFPVVEKT4DR5U44.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Baidu World 2021: Level 5 autonomous car and mass production of its AI chip announced"
     excerpt: "During the Baidu World 2021 held on August 18, the Chinese technology giant unveiled its prototype autonomous vehicle. According to the firm, the car would have an autonomy of level 5 SAE, the highest level that exists."

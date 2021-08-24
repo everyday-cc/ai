@@ -1,27 +1,23 @@
 ---
 category: news
 title: "The Role of Artificial Intelligence (AI) in the Global Agriculture Market 2021 - ResearchAndMarkets.com"
-excerpt: "Market in Agriculture Industry Market 2021-2025” report has been added to ResearchAndMarkets.com’s offering. The artificial intelligence (AI) market in the agriculture industry is poised to grow by $458."
-publishedDateTime: 2021-08-23T15:16:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-science-agriculture-artificial-intelligence-e006f4c80d694418bfd5b2b93e113947"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-science-agriculture-artificial-intelligence-e006f4c80d694418bfd5b2b93e113947"
+excerpt: "Market in Agriculture Industry Market 2021-2025\" report has been added to ResearchAndMarkets.com's offering. The"
+publishedDateTime: 2021-08-23T15:15:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/08/b22619012/the-role-of-artificial-intelligence-ai-in-the-global-agriculture-market-2021-researchandmarkets-co"
+webUrl: "https://www.benzinga.com/pressreleases/21/08/b22619012/the-role-of-artificial-intelligence-ai-in-the-global-agriculture-market-2021-researchandmarkets-co"
+ampWebUrl: "https://www.benzinga.com/amp/content/22619012"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22619012"
 type: article
 quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Artificial Intelligence (AI) in Drug Discovery Market"
@@ -69,6 +65,6 @@ related:
         height: 533
         isCached: true
 
-secured: "KfkRheqhfZPJiy2zfDa8IjyQ4HYmHLkU3uK35h0d63kdsIYUFAH9QBocuFrUcwu8ZZs25XKpjJg6lotcICZ8Idj6cNtJMIY5XgWyfV/rOv7a/9fBXH0XJ4Id5pa6FFPtG+ZigirCVhe7/jKAQ28XOFfXQbqXVpwdAmR2mi+GhzH/l0u2yVW1xAMcWYDL+VdC9fKjdrRdCN0Xr2/KmZY42KpDkvDHPqOj/vb+D5piOWe3vwEcUy8mSQjxki3Cpch2G1kXffAYcRcosCiU2qOAQ/wEhYCM7MZpoyt8vKTUG8fnkUGrrtNgxAMG1wNi0WH+s2r27jeMFPYsqU/qj22VKmZkc0fKqZz5KujPR5HBKco=;tjGV361aOATqLYC8stzB5Q=="
+secured: "YoGOYavZXJtahTZPxwGSZUAfLM9xc6fYhfPoSuNoQf+7/62uKeIgimbxoE9MJvZn5ZqjNjyiyBZpWJxTd4ykAUgsryv/X+8RfwVqeMBj+TadWqcQctwUjziWMVUOq1YMwWaYbygFFFOjV25puJk8MuNC8bXeC8vhTuDT32KDM8OalKPmO9oi+nlRw7ebU6oMCOCrXMoNGwNXg96d9qZiwSeowS9cEDVTGjso4jIpfm9wDvCL+8FWkgcMVZcs+unRzCBtvbALqSB0TJ8wWEg18jQOSmHdXXm2jx0gzRCEWDAGRSOle+6v5CcHdtCAu0v+toKQnPYvlF3ehF3AruZJtHS+dAWYhA3J4HtsH6az2SM=;nIucK1JNzExbXvJpZFtDUA=="
 ---
 
