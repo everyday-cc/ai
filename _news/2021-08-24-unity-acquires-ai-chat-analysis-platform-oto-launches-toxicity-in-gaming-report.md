@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/24/unity-acquires-ai-chat-analysis-p
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/24/unity-acquires-ai-chat-analysis-platform-oto-launches-toxicity-in-gaming-report/amp/"
 type: article
 quality: 82
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
         width: 1000
         height: 581
         isCached: true
-  - title: "Fetch.ai launches platform for AI-generated collaborative NFT art"
-    excerpt: "“Fetch.ai’s NFT platform is unique in that the true ... We are holding our third cloud startup showcase on Sept. 22. Click here to join the free and open Startup Showcase event."
-    publishedDateTime: 2021-08-24T13:00:00Z
-    webUrl: "https://siliconangle.com/2021/08/24/fetch-ai-launches-nft-platform-ai-generated-collaborative-art/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/fetch-ai-nft-art-examples.jpg"
-        width: 700
-        height: 394
-        isCached: true
   - title: "Upmethod Launches AI Platform for Aspiring Actors That Scores and Give Feedback on Acting Skills"
     excerpt: "Upmethod has just announced the launch of its Artificial Intelligence powered platform that tests an individual’s acting skills and teaches aspiring actors how to"
     publishedDateTime: 2021-08-20T22:35:00Z
@@ -72,6 +58,6 @@ related:
       domain: benzinga.com
     quality: 24
 
-secured: "rIFoGZ2BIWMJWZln9nN7ocS7oDfYD+bnDzIhkzeUzL0hrm8uYj6tlmbbX/o/Ngp0quglNlyOUtJC6bDu5e1trcU9e6j5OMnsRFe4+qEO9SRGDywM/QbTLF5DTJYhmCB/ljz16AUXLQRhNKqJbaXbBqd8lKq00uqsH9T/HlpkFgGsmJFRq5nUr2KtnRSoDLM7akM/bA1kTPJEpnwHXsLOvMwCbCfPGWsDjjR+WB8lMyfLMbCQ3umuS5KDCL5dksKOtE7YzRAIRcquD2YwuznJTtWIdJ6GIVnRa7kBaref+NyvJPZnNJsb2zCJRa9kFh+xhqMOUozIkhS78i/BFaFFgnIJhdXOnZfaOQhMW2kuZAs=;0jR1Vo+yL8+2p9+uIsvkxA=="
+secured: "34/JbXqjonk+x0YOFLcB3g21MwuPngCVh17lqeWUH/TH+mUGyhHfZvTHpCkURhXRPsHIFEjhYCiFRhdQFizonkCL5c4Bgh1XN4acYWN7ul+WRichZtGeFlcS+idx5FrNJeRTn34MuVg35JDOwZmFCKY71c777rmkwACcXA07oLGrME2kiS9hTlmRPtGZi0+92NjeJIyVRKXuUMBFc4RBTyuzJ7BFwglgTwlohEBbKAuKzTJI7/3pDMaJuEtcENs91sT2evky244M/aFMVPCLNMfoRWHsPbqXTE6cSetUFrBgmGrGJXyCyNkP6n5cWWNhBgG3JJ4/l+HW9E1QPPOR2F3FVTirUTQizkpJ4JLWJBUi6JzSSyA3sw51OrHOxg50xHrsq4yLtpFAVOvNXuNFAOG4krtHT7LlLZrQjA/QBtsAcs/3r/6JlHyeNqb2+kxgInSPbBRJYzTvRT0GeT5iPglgVncFlyJIod4TnkBz/CmdYJJ8ySkeldUMZ8nvTFUBjc9KviVyVGqTHJoY8XVLwQ==;xMb6p+K/lEqLZNViYXMwvw=="
 ---
 

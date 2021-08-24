@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/google-offers-free-online-course-machine-lea
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/google-offers-free-online-course-machine-learning-check-important-details/amp/"
 type: article
 quality: 71
-heat: 73
+heat: 74
 published: true
 
 provider:

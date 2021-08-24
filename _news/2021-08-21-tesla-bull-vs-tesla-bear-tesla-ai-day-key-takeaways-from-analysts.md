@@ -54,6 +54,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 84
+  - title: "Tesla AI Day: How to Watch and Live Updates"
+    excerpt: "How to Watch AI Day. Elon Musk announced via Twitter that AI day will be streamed for the public and press to view. The event is following a recent announcement of a NHTSA investi"
+    publishedDateTime: 2021-08-20T01:12:00Z
+    webUrl: "https://www.thestreet.com/tesla/news/how-to-watch-tesla-ai-day"
+    ampWebUrl: "https://www.thestreet.com/tesla/.amp/news/how-to-watch-tesla-ai-day"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/tesla/.amp/news/how-to-watch-tesla-ai-day"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 74
+    images:
+      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTgyOTAyNjIzNTMwMTMyODk5/210803aiday.jpg"
+        width: 620
+        height: 349
+        isCached: true
 
 secured: "0ImZrXayoPAfk1bpK1S8Dyxfpp4FuqtUHiWdzh7cKrky+qbiYMebcGCZX+yLAgIPTjeN1evM/ahE1spw1EutDkAmDNid7aByB9UUWi67SEjagXv1Wa6G2K0qP8m5mYEjrLl844ex4qpxBXBFTV8p0rEV/oo8Iq/vwrIPxSjfQFLJEIFph40dtEjGxF8G8w39pVlI1jniJf8jcZp31EA+ZU/Wky3r3YqZft1KFA9l6BN6RrleGOTxAmayogSF5JpIihVjDv97uhtpV76esrHfkBjFVEMJbLWTlQcukdw/KQQUN6348FZEE/zcqj2l4g2UU0oAS82ijMHBTcietGn+2gjI0c07QnLu8GR39TAjW7sBEePTXvCCYdnndAA6zu+Tm5gPwTQSDyo8IEx/cXZcRl5rS92l0nZokpR4hIK0ysWyz8uD5f3JkQQLyLiI2WLdOP85+u9bqVM1RdjZRsPG/zTv/Tp0TUhUmBL/s0jUrDq9LfDgPGkSgftBVghok+xl3JPst1kloWP2LnDAf4CuNw==;qTk0tdvpYHSGJrQk9AeqHw=="
 ---

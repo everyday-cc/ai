@@ -87,6 +87,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI chatbot comforts China’s lonely millions"
+    excerpt: "After a painful break-up from a cheating ex, Beijing-based human resources manager Melissa was introduced to someone new by a friend late last year. He replies to her messages at all hours of the day,"
+    publishedDateTime: 2021-08-24T14:10:00Z
+    webUrl: "https://phnompenhpost.com/lifestyle/ai-chatbot-comforts-chinas-lonely-millions"
+    type: article
+    provider:
+      name: The Phnom Penh Post
+      domain: phnompenhpost.com
+    quality: 39
+    images:
+      - url: "https://www.phnompenhpost.com/sites/default/files/field/image/melissa_uses_her_mobile_phone_to_message_her_virtual_boyfriend_-_a_chatbot_created_by_xiaoice_-_in_beijing._afp.jpg"
+        width: 990
+        height: 660
+        isCached: true
 
 secured: "kCugJ33dzghBfbF4Vyi4+uFhbqeF/Bnn6m2Z5OjlMTcwwrPfxl8TQPRM5tRxjJXIO3JsV2z/r/KLCIVaXsWNV6Y9CppyzdXvXGP/VVhS7tGeCYdRlIZ0cTE3wQTrCl3Mz/mzQHMgdOCqmH2y2NbP8nzJZ9jcVZ24N2LdV6daB99aww1ucPK13h5hINKzM7NP3OBuWAIJy9yN1qdoa7glPWinUX57p+1x2fgnVnrQ8SlNZf/z7ufdN6u38GBOk2RwrZUX5e2YsveOcxCr5VDECxHfIfus95FMWIOKYh+nXowKU9uuP74hpA82/kSlUJkljkfAw72lYPK6OCJsWR0DZH23QH9yYYHliDxv5DZ6CsMasDmDdEEzCXi+BCAK3lTJ9pDE506L7DssmiTxf3UZ2Jmg/cPwSeh1LFqkZwwiJpQcEHR/hrPGg+uWI2fVUOHlJtjykfFziaa/eCSaNPOKmU8KSonUOVqHgrrHLUvhrVOv6LxYnB4uEWdt7ZsEOQRPZZSHtgBc+0hn7KdAHB5hRw==;NqBbEgXZ4ZJK6Jb/UOHsBg=="
 ---

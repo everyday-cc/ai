@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 736
         isCached: true
-  - title: "Fetch.ai launches platform for AI-generated collaborative NFT art"
-    excerpt: "“Fetch.ai’s NFT platform is unique in that the true ... We are holding our third cloud startup showcase on Sept. 22. Click here to join the free and open Startup Showcase event."
-    publishedDateTime: 2021-08-24T13:00:00Z
-    webUrl: "https://siliconangle.com/2021/08/24/fetch-ai-launches-nft-platform-ai-generated-collaborative-art/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/fetch-ai-nft-art-examples.jpg"
-        width: 700
-        height: 394
-        isCached: true
   - title: "Upmethod Launches AI Platform for Aspiring Actors That Scores and Give Feedback on Acting Skills"
     excerpt: "Upmethod has just announced the launch of its Artificial Intelligence powered platform that tests an individual’s acting skills and teaches aspiring actors how to"
     publishedDateTime: 2021-08-20T22:35:00Z

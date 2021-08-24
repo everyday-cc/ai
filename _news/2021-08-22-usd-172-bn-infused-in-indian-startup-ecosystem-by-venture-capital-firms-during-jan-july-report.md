@@ -42,20 +42,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Corsight AI partners for facial recognition projects in India"
-    excerpt: "Corsight AI CEO Rob Watts has praised the partnership and hopes it will help them engage better with customers to achieve greater value results."
-    publishedDateTime: 2021-08-19T21:57:00Z
-    webUrl: "https://www.biometricupdate.com/202108/corsight-ai-partners-for-facial-recognition-projects-in-india"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 54
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
-        width: 1050
-        height: 591
-        isCached: true
   - title: "7 Best Artificial Intelligence Companies Hiring in India Right Now"
     excerpt: "Since artificial intelligence is high on demand at present, many artificial intelligence companies are looking to hire artificial intelligence professionals in their teams. Here are the best artificial intelligence companies hiring in India right now."
     publishedDateTime: 2021-08-23T09:00:00Z

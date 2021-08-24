@@ -52,20 +52,6 @@ related:
         width: 1000
         height: 581
         isCached: true
-  - title: "Fetch.ai launches platform for AI-generated collaborative NFT art"
-    excerpt: "“Fetch.ai’s NFT platform is unique in that the true ... We are holding our third cloud startup showcase on Sept. 22. Click here to join the free and open Startup Showcase event."
-    publishedDateTime: 2021-08-24T13:00:00Z
-    webUrl: "https://siliconangle.com/2021/08/24/fetch-ai-launches-nft-platform-ai-generated-collaborative-art/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/fetch-ai-nft-art-examples.jpg"
-        width: 700
-        height: 394
-        isCached: true
 
 secured: "nxrIUp1xh+LwZBSMINJlWjbIUNjKEqxtkdBsUbPnVJkVra/Ytm9eUZVafbDuRlmBgx/hzXRpEZe3Hnhzq8kVs0ayidzaoOz+tKcPS9g1lpvDuOe6hPc0vLUDsdo97ueKGdkOLM17uQ9zVv2hN9X7V6KTn7hR5fB0Q9NpgR9dYJcQb49/THbHIc6b3AAi33+1HYHXhTYoYmapok2OLb+p9PQFogU9PLf8VcVX9zeynI+bpV0ZY+ZPH7C3ckE9kRxIyA8YBtD3wVEPkeRZMKNqp3Fe3vNxZq6mC9s7/i5gs42Tb1YBepSpjXKtADNwsjNrWmk7NuP03dznzDm52vlSkrKaDEPm/fEUvRsALddyFzUG8eu0Nm8iTflcfQXAHye8mKBPyztaeImPblaRJ7k6G3qhqMyC3fk3nM+Tj3HTYE/vOzAUx1fk1TNMQpXsbvYKJ2AsastosxQGPukzpvv5+bXqC0eQya1qXcFuUnyjQvJ7f3vVZ5bNr1Du3MoU4yQUDCOWa+/ZiouWV3nbWYVLcw==;S73A1IeY6L0o8kp8x4Hu3Q=="
 ---

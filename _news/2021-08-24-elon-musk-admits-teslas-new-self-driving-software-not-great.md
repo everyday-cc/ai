@@ -171,22 +171,6 @@ related:
         width: 1290
         height: 746
         isCached: true
-  - title: "Tesla to Spotlight Artificial Intelligence Work Amid Scrutiny"
-    excerpt: "Elon Musk is expected to spotlight Tesla Inc.’s work on artificial intelligence as the company faces increased federal scrutiny of a key application of that technology: its driver-assistance system known as Autopilot. Tesla on Thursday evening is slated ..."
-    publishedDateTime: 2021-08-19T22:30:00Z
-    webUrl: "https://www.wsj.com/articles/tesla-ai-day-2021-11629408749"
-    ampWebUrl: "https://www.wsj.com/amp/articles/tesla-ai-day-2021-11629408749"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tesla-ai-day-2021-11629408749"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 106
-    images:
-      - url: "https://images.wsj.net/im-387188/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Elon Musk says Tesla will produce humanoid robot to help build cars"
     excerpt: "The \"Tesla Bot\" is a natural step because the company's vehicles are \"like semi-sentient robots on wheels,\" the CEO said."
     publishedDateTime: 2021-08-21T00:04:00Z
@@ -896,6 +880,22 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "Elon Musk Admits That Tesla's Full Self-Driving Beta Kind Of Sucks"
+    excerpt: "All of which is to say that Elon Musk is a Twitter user, and a pretty earnest one at that. When he’s not sharing silly memes, he’s frequently interacting with Tesla fans, detractors or just regular Twitter users."
+    publishedDateTime: 2021-08-24T14:19:00Z
+    webUrl: "https://jalopnik.com/elon-musk-admits-that-teslas-full-self-driving-beta-kin-1847545967"
+    ampWebUrl: "https://jalopnik.com/elon-musk-admits-that-teslas-full-self-driving-beta-kin-1847545967/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/elon-musk-admits-that-teslas-full-self-driving-beta-kin-1847545967/amp"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 59
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/506b2ab92309f57eaa0241dd2b42cadd.jpg"
+        width: 800
+        height: 449
+        isCached: true
   - title: "Elon Musk says Tesla's self-driving software update is 'not great'"
     excerpt: "Tesla CEO Elon Musk said on Monday said that the electric-car maker was working on improving the much-awaited update to its self-driving software \"as fast as possible.\""
     publishedDateTime: 2021-08-24T02:45:00Z
@@ -1210,6 +1210,6 @@ related:
         height: 445
         isCached: true
 
-secured: "PjV+5poDvubN/rS/dsw0NEKIIlLhCBRU3fM7sqXJqe1F8I8RBNqJDnYouHlTDjf3e7JIK5jxkc5Mx/vBhjojIBU/f1G2VL40nH/hfY1ST+iBwkjK1hJdV6FeWHwuLsgOhtPe/1Np1ZoA+EcLEHDXZLSlu6PP9827KE5tK5J8fRDWAtxrgl8VuQsiwhi+898lxE8Coaiq1AnQrlRxZTyO2uTj4ljCh9HBNc0xIPpzPn1cuuXDvnv+7JRBohpPDIvuDh6aVS8F9bpqsuG/w/mZz3XMXQdtsuSDhAccndwPKZ9/MFU40YrARgbva0/IFCwVK7WpSk+aigBlal0sP8bk8J8WnfPoM+CBE0UT8dCNt/A=;8H7FSsNpXByTHsoxjH+Iyw=="
+secured: "ww95m18/LV1aWvn+YnqBuQWx6e0DrsRmhl5in/It0/4OBDRefdjhZ4Ofdz7bPDwHRS25WN+O3kBF4+8uVFDdlyrx16pv2fvHaJCi8p6D3RDqmJGd8jXcByA8IsBMrRplBgDi5ug5nj0pz1rXw8ewJIRSova36SC0ES96wrVQuZ0F4udTNNcU889g3fHiWSMjFxxJBSZd+J3A0YgYVolFmfzMPicyyxUv7A6Ibkk8Lffa7UWi6Eq8CzMYi+7vEqN6Qj1QI6s0uyA4iAX47/URqP4eVKRVSAZqtMU+1bmRK4dBprXzKJwxY17p2aOjs4KFS2mrIn7IX7lyViAx/UM8ruGN4lFZQQ4F1lUKoHvnEXSm7VU6bMZ66Fr1o8a3URS8hSHXEHko7CNdgbVtbpvPohYS4YPImgslvGpBKvAsakzlzvr+W3aqTF2c5s3YgDhSANKiNrXDrMECod52ODit1fO0Qte4HiFOZiCfeZy/rY4Ft58Eo0MK/U6uSLYRlN7MsNo0co2iT0C+WNeWObqFTA==;JN0Nxh991eNZhaOvH/wbmQ=="
 ---
 

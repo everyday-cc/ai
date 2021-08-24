@@ -58,22 +58,6 @@ related:
         width: 450
         height: 300
         isCached: true
-  - title: "Baidu Pushing to Expand Robotaxi to 30 Chinese cities by 2023-2024"
-    excerpt: "Baidu plans to expand its robotaxi ride-hailing services across 30 cities in China in two to three years to serve a wider range of users. Robin Li, founder of"
-    publishedDateTime: 2021-08-19T21:36:00Z
-    webUrl: "https://www.nextbigfuture.com/2021/08/baidu-pushing-to-expand-robotaxi-to-30-chinese-cities-by-2023-2024.html"
-    ampWebUrl: "https://www.nextbigfuture.com/2021/08/baidu-pushing-to-expand-robotaxi-to-30-chinese-cities-by-2023-2024.html"
-    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/08/baidu-pushing-to-expand-robotaxi-to-30-chinese-cities-by-2023-2024.html"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 59
-    images:
-      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/08/Screen-Shot-2021-08-19-at-2.32.36-PM.jpg"
-        width: 1952
-        height: 840
-        isCached: true
   - title: "Baidu reveals its maximally autonomous ‘robocar’"
     excerpt: "Baidu, the Chinese technology giant behind the country’s search engine, has just announced a level 5 SAE autonomous car thanks to a new chip. Behind this potential success is an ambitious open source platform called Apollo."
     publishedDateTime: 2021-08-23T00:58:00Z

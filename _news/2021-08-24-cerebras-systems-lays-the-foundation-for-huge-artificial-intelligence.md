@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/08/24/cerebras-systems-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/08/24/cerebras-systems-creates-huge-artificial-intelligence/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 101
 published: true
 
 provider:

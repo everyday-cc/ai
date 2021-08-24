@@ -42,6 +42,20 @@ related:
         width: 722
         height: 362
         isCached: true
+  - title: "Putting The Fun Back Into Software Testing With AI"
+    excerpt: "This work is rarely described as fun, so let's automate it. Is automation the answer to making testing fun again?"
+    publishedDateTime: 2021-08-24T15:00:00Z
+    webUrl: "https://thenewstack.io/putting-the-fun-back-into-software-testing-with-ai/"
+    type: article
+    provider:
+      name: thenewstack.io
+      domain: thenewstack.io
+    quality: 39
+    images:
+      - url: "https://cdn.thenewstack.io/media/2021/08/5819ae1e-ferris-wheel-731194_1280.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "p1HB/+f4l5p2fDs4UxRAP3fqSJ8qD6g/3kWi0zdZQ7RrYx/M6ypgIOSqSuJDHr3yXcPCqqLveEKS2QYwvRcL9MZFRtcXc3cOQZCe4TG34DuI7BABIyn5Rt0yJ5QsbffrrhtNf1gxh9pQRGOSoCaXR4n79mDnq+TeAReOpMVxRi2Sl54iBwLmnL6URfCBCxJZ+NBP5iSo7PgKNtYV0oFHtzQZWrAnBjGCOKCNnxSbMtPcriXr3gqdPWEsB5fcC21ucCjw6m9H0hDA5B3a+YKCUJfZBcZ4tzYVpjIiBFu8HAezb25r0617jAsoweD5Z9jqoti1jMeA+tnKgwHFiQ9IBeG1V/X9kKx8Sx7dTp4u2CgZ3DoywZMhPpcbyJBXQu7zh3OnMFfZcb0eaLo4xHU8/3CkG+fa+nncyYJjOas1mjF0QY1+JyAlDqgFqZM4mEV5/mgP2R5pCXq0YLsCtTCRPcy+WjAiRnzlzsnQ8xcDHOoH/9eA0UXbrL4cK73qkqogv5JSCBdEqDCasNhnCNTsKA==;SYlvLyDM0XQTP4cSd2fv6g=="
 ---
