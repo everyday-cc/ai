@@ -1,27 +1,27 @@
 ---
 category: news
 title: "A $28.4 Billion Global Opportunity for Cognitive Analytics by 2026 - New Research from StrategyR"
-excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Cognitive Analytics - Global Market Trajectory & Analytics\"."
-publishedDateTime: 2021-08-24T15:47:00Z
-originalUrl: "https://www.lelezard.com/en/news-19966145.html"
-webUrl: "https://www.lelezard.com/en/news-19966145.html"
+excerpt: "A new market study published b Inc., (GIA) the premier market research company, today released its report titled \"Cognitive Analytics"
+publishedDateTime: 2021-08-24T15:40:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/a-28-4-billion-global-opportunity-for-cognitive-analytics-by-2026---new-research/article_f3667170-a840-525d-b39e-70f58b7ce4e2.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/a-28-4-billion-global-opportunity-for-cognitive-analytics-by-2026---new-research/article_f3667170-a840-525d-b39e-70f58b7ce4e2.html"
 type: article
 quality: 11
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/7/ca/7ca68c5b-9b95-5222-b3e6-dc6506bc6976/61251435c0d9d.image.jpg?resize=931%2C630"
+    width: 931
+    height: 630
     isCached: true
 
 related:
@@ -96,6 +96,6 @@ related:
         height: 480
         isCached: true
 
-secured: "yH5gUi1x3jUK1z9nP6sw0rlFxVc5FOI21rf/8fH4dzNIKMgVwuRwsdqKULC5RE7Htn5jxUPQ7qaiaTdZpHFVbekanxLpMlToA/k2Ui5bhZalApmBkuayO0p/Qb/YsQoyFJSONDzD+1lCcf3L+3I9ZaQ56VmYKg+FnPBuUlvGqhpYyXo5MxoONDLjuEuxVoMN5XQDg0aWmvlDqjzm0WXonKrmMLkHp+EN80on3DXy88FtQQqCE1zTuuT2MR+YW0FcgTPWwHwhJq5q9L5NFGV3Rgtn3csn70Ew3gvGPW5kH3QEQRjlmN3ESUt8TSD2vScSbY0Xt1gSYNLb3KwA8GpXYL3QQIfqD5SVNr0eIGlRvrw=;WE8j0XWGB98u05yt81aFBw=="
+secured: "j/ezVM0YWZ+PIll8NAaSL/4YnHrqQNqNDK/9wSVQ/owH78NVNiSBmGlRvmGa03lRY8dKNzj/18+tTz52hqiuSP10GE1YSifftJWkjvD5EKmlGop8kPKXDJ0V7cB3uuJFV3sOa/yfzUXP8T3/ZrAc+XvZg5F2AagpIhnoI7y0kU4fOiJtVEx7GVus1Ck65MAFXsaqX4Zro/llP4IzfBDuxB4yk9AKp9IZX6xsWRf4ARmsUb8DQcd3EiQwzBWbz14IisvYM+xGhY+TTkEOKGGhVoLy+TBhokitt5AmszcK21upxrAtYQIaQiES/tlviH3AuOaud6U1V6wkRHiRPpAhfqWACnyTW/PTBDaPIiAFwlI=;OYXqhoJu5gEt7fSX4eIrOQ=="
 ---
 

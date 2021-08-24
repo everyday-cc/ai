@@ -2,6 +2,180 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2021-07-06-aiims-raipur-organizes-seminar-on-artificial-intelligence-in-healthcare.md",
+      "title": "AIIMS Raipur organizes seminar on Artificial Intelligence in healthcare",
+      "excerpt": "Professor Nitin M Nagarkar, AIIMS Raipur director, termed Artificial Intelligence (AI) as a transformative technology for medical professionals, as well as a collaborative area for IT and",
+      "sourceUrl": null,
+      "webUrl": "https://medicaldialogues.in/news/health/hospital-diagnostics/aiims-raipur-organizes-seminar-on-artificial-intelligence-in-healthcare-79439",
+      "originalUrl": "https://medicaldialogues.in/news/health/hospital-diagnostics/aiims-raipur-organizes-seminar-on-artificial-intelligence-in-healthcare-79439",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://medicaldialogues.in/h-upload/2020/12/02/143273-124747-aiims-raipur.jpg",
+          "width": 1500,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicaldialogues.in/amp/news/health/hospital-diagnostics/aiims-raipur-organizes-seminar-on-artificial-intelligence-in-healthcare-79439",
+      "cdnAmpWebUrl": "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/news/health/hospital-diagnostics/aiims-raipur-organizes-seminar-on-artificial-intelligence-in-healthcare-79439",
+      "publishedDateTime": "2021-07-05T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily",
+        "domain": "medicaldialogues.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-06-houston-space-startup-tapped-for-aws-space-accelerator-onenexus-environmental-must-contend-with-upstream-apathy.md",
+      "title": "Houston space startup tapped for AWS Space Accelerator | OneNexus Environmental must contend with upstream apathy",
+      "excerpt": "Houston startup selected to Amazon Web Services Space Accelerator. Houston-based aerospace technology firm Cognitive Space was selected to participate in the new Amazon Web Servic",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/houston/inno/newsletter/24373854?limit=20&skip=0",
+      "originalUrl": "https://www.bizjournals.com/houston/inno/newsletter/24373854?limit=20&skip=0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-05T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-06-deepminds-scientist-sparks-fresh-debate-over-ai-ethics.md",
+      "title": "DeepMind’s Scientist Sparks Fresh Debate Over AI Ethics",
+      "excerpt": "Raia Hadsell, a researcher at DeepMind, appeared in a virtual tech summit to shed light on the ethics in the field of artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/deepminds-scientist-sparks-fresh-debate-over-ai-ethics/",
+      "originalUrl": "https://analyticsindiamag.com/deepminds-scientist-sparks-fresh-debate-over-ai-ethics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/07/deepmind.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-05T20:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-06-ibm-watsons-new-cognitive-services-windows-10-rollout-and-the.md",
+      "title": "IBM Watson’s new cognitive services, Windows 10 rollout, and the…",
+      "excerpt": "IBM is introducing new cognitive services for IBM Watson ... patents and documents across a variety of languages. How Microsoft will rollout Windows 10 With Windows 10 coming at the end of ...",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/ai/ibm-watsons-new-cognitive-services-windows-10-rollout-and-the-hacking-teams-hack-attack-sd-times-news-digest-july-6-2015/",
+      "originalUrl": "https://sdtimes.com/ai/ibm-watsons-new-cognitive-services-windows-10-rollout-and-the-hacking-teams-hack-attack-sd-times-news-digest-july-6-2015/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2015/07/Screen-Shot-2015-07-06-at-12.56.13-PM.png",
+          "width": 888,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-06-scientists-take-mind-controlled-robot-for-a-stroll-video.md",
       "title": "Scientists take mind-controlled robot for a stroll (video)",
       "excerpt": "What if you could control a robot -- wait, don't answer yet -- with your mind? Pretty great, right? That's what the Virtual Embodiment and Robotic Re-embodiment (VERE) group is working on ...",
@@ -991,190 +1165,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-05-bytedance-selling-tiktok-ai-to-companies-including-in-india.md",
-      "title": "ByteDance selling TikTok AI to companies including in India",
-      "excerpt": "iBeat Analytics Ibeat 1 Year HTTPS To track article's statistics New Delhi: China-based ByteDance which is the parent company of TikTok, has reportedly started selling the AI technology of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://telecom.economictimes.indiatimes.com/news/bytedance-selling-tiktok-ai-to-companies-including-in-india/84134593",
-      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/bytedance-selling-tiktok-ai-to-companies-including-in-india/84134593",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-84134593,imgsize-488272,width-800,height-434,overlay-ettelecom/bytedance-selling-tiktok-ai-to-companies-including-in-india.jpg",
-          "width": 800,
-          "height": 434,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/bytedance-selling-tiktok-ai-to-companies-including-in-india/84134593",
-      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/bytedance-selling-tiktok-ai-to-companies-including-in-india/84134593",
-      "publishedDateTime": "2021-07-04T23:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "telecom.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-05-analysis-racist-facial-recognition-sparks-ethical-concerns-in-russia.md",
-      "title": "Analysis-'Racist' facial recognition sparks ethical concerns in Russia",
-      "excerpt": "From scanning residents’ faces to let them into their building to spotting police suspects in a crowd, the rise of facial recognition is accompanied by a growing chorus of concern about unethical uses of the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/uk-russia-tech-race/analysis-racist-facial-recognition-sparks-ethical-concerns-in-russia-idUSKCN2EB0BC",
-      "originalUrl": "https://www.reuters.com/article/uk-russia-tech-race/analysis-racist-facial-recognition-sparks-ethical-concerns-in-russia-idUSKCN2EB0BC",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN2EB0BC",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2EB0BC",
-      "publishedDateTime": "2021-07-04T21:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-05-ai-driven-robots-are-here-for-good.md",
-      "title": "AI-Driven Robots Are Here For Good",
-      "excerpt": "AI, algorithms and technological applications are accelerating into new realms. With the proper implementation of ethics, diversity, and inclusive design - humans stand to benefit significantly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/07/04/ai-driven-robots-are-here-for-good/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/07/04/ai-driven-robots-are-here-for-good/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e279184db784a0c94473f6%2F0x0.jpg",
-          "width": 1200,
-          "height": 702,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/07/04/ai-driven-robots-are-here-for-good/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/07/04/ai-driven-robots-are-here-for-good/amp/",
-      "publishedDateTime": "2021-07-04T20:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-05-racist-facial-recognition-sparks-ethical-concerns-in-russia.md",
-      "title": "'Racist' facial recognition sparks ethical concerns in Russia",
-      "excerpt": "From scanning residents' faces to let them into their building to spotting police suspects in a crowd, the rise of facial recognition is accompanied by a growing chorus of concern about unethical ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.trust.org/item/20210705014850-6gwm1",
-      "originalUrl": "https://news.trust.org/item/20210705014850-6gwm1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d8zcwdvc14g2e.cloudfront.net/contentAsset/image/ebe712df-e91b-4162-847c-c65997db30c5/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100",
-          "width": 1100,
-          "height": 733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-04T20:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Thomson Reuters Foundation",
-        "domain": "trust.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

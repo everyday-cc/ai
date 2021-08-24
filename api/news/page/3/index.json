@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-23-synopsys-ceo-ai-designed-chips-will-generate-1000x-performance-in-10-years.md",
+      "title": "Synopsys CEO: AI-designed chips will generate 1,000X performance in 10 years",
+      "excerpt": "AI-designed chips are producing could lead to 1,000 times better performance for chips in the next decade, says Synopsys CEO Aart de Geus.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/23/synopsys-ceo-ai-designed-chips-will-generate-1000x-performance-in-10-years/",
+      "originalUrl": "https://venturebeat.com/2021/08/23/synopsys-ceo-ai-designed-chips-will-generate-1000x-performance-in-10-years/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/syn-2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 662,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/23/synopsys-ceo-ai-designed-chips-will-generate-1000x-performance-in-10-years/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/23/synopsys-ceo-ai-designed-chips-will-generate-1000x-performance-in-10-years/amp/",
+      "publishedDateTime": "2021-08-23T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-23-elon-musk-is-building-a-human-like-robot-does-anyone-else-think-this-is-a-really-bad-idea.md",
       "title": "Elon Musk is building a human-like robot: Does anyone else think this is a really bad idea?",
       "excerpt": "Yep, he's at it again. Apparently, launching a sports car into space wasn't enough. Now, he's hoping to unleash an army of labor-saving bipedal robots into our homes and businesses.",
@@ -1121,49 +1173,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-21-tesla-ai-day-ev-maker-shows-improved-self-driving-tech-for-autopilot.md",
-      "title": "Tesla AI Day: EV-maker shows improved self-driving tech for Autopilot",
-      "excerpt": "Tesla's self-driving technology has recently come under regulatory spotlight. Tesla is working on a purely vision-based system, using eight vehicle-mounted cameras to process a real-time three-dimensional vector space to guide navigation.",
-      "sourceUrl": null,
-      "webUrl": "https://auto.hindustantimes.com/auto/news/tesla-ai-day-ev-maker-shows-improved-self-driving-tech-for-autopilot-41629439031382.html",
-      "originalUrl": "https://auto.hindustantimes.com/auto/news/tesla-ai-day-ev-maker-shows-improved-self-driving-tech-for-autopilot-41629439031382.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/auto/img/2021/08/20/600x338/AFP_9L8894_1629439212600_1629439224395.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://auto.hindustantimes.com/auto/news/tesla-ai-day-ev-maker-shows-improved-self-driving-tech-for-autopilot/amp-41629439031382.html",
-      "cdnAmpWebUrl": "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/tesla-ai-day-ev-maker-shows-improved-self-driving-tech-for-autopilot/amp-41629439031382.html",
-      "publishedDateTime": "2021-08-20T10:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-08-19-baidu-says-2nd-gen-kunlun-ai-chips-enter-mass-production.md",
+      "title": "Baidu says 2nd-gen Kunlun AI chips enter mass production",
+      "excerpt": "BEIJING, Aug 18 (Reuters) - Chinese tech giant Baidu said on Wednesday it had begun mass-producing second-generation Kunlun artificial intelligence (AI) chips, as it races to become a key player in the chip industry which Beijing is trying to strengthen.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-baidu-semiconductors/baidu-says-2nd-gen-kunlun-ai-chips-enter-mass-production-idUSKBN2FJ0GK",
+      "originalUrl": "https://www.reuters.com/article/us-baidu-semiconductors/baidu-says-2nd-gen-kunlun-ai-chips-enter-mass-production-idUSKBN2FJ0GK",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210818&t=2&i=1572224486&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH7H07S",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2FJ0GK",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2FJ0GK",
+      "publishedDateTime": "2021-08-18T22:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-19-amazon-rolls-out-indias-first-celebrity-voice-on-alexa-with-amitabh-bachchan.md",
       "title": "Amazon rolls out India’s first celebrity voice on Alexa with Amitabh Bachchan",
       "excerpt": "Amazon has rolled out India’s first celebrity voice feature on Alexa with the nation’s biggest movie star Amitabh Bachchan as the company makes a push to lure more users in the world’s second-most populated nation.",
@@ -101,6 +153,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-baidu-robocar-signals-next-stage-of-auto-tech.md",
+      "title": "Baidu robocar signals next stage of auto tech",
+      "excerpt": "Robin Li (right), co-founder and CEO of Baidu, experiences the interior of a self-driving robocar. [Photo provided to China Daily] Chinese internet search giant Baidu Inc on Wednesday unveiled its first level 5 self-driving robocar with no steering wheel ...",
+      "sourceUrl": null,
+      "webUrl": "https://global.chinadaily.com.cn/a/202108/19/WS611db208a310efa1bd669b7b.html",
+      "originalUrl": "https://global.chinadaily.com.cn/a/202108/19/WS611db208a310efa1bd669b7b.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img2.chinadaily.com.cn/images/202108/19/611db208a310efa1e3b6c550.jpeg",
+          "width": 711,
+          "height": 473,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-18T19:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "China Daily",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -238,49 +333,6 @@
       "provider": {
         "name": "Asia One",
         "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-baidu-robocar-signals-next-stage-of-auto-tech.md",
-      "title": "Baidu robocar signals next stage of auto tech",
-      "excerpt": "Chinese internet search giant Baidu Inc on Wednesday unveiled its first level 5 self-driving robocar with no steering wheel, and an upgraded autonomous driving service platform named Luobo Kuaipao, in a bid to speed up the process of making the autonomous driving technology commercially viable.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202108/19/WS611db208a310efa1bd669b7b.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202108/19/WS611db208a310efa1bd669b7b.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img2.chinadaily.com.cn/images/202108/19/611db208a310efa1e3b6c550.jpeg",
-          "width": 711,
-          "height": 473,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-18T18:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "China Daily",
-        "domain": "chinadaily.com.cn",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1137,40 +1189,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-18-auditoriaai-named-to-constellation-shortlist-for-ai-driven-cognitive-applications-for-the-second-consecutive-year.md",
-      "title": "Auditoria.AI Named to Constellation ShortList for AI-Driven Cognitive Applications for the Second Consecutive Year",
-      "excerpt": "Exclusive List Solidifies Auditoria's Transformative Approach to Cognitive Automation SANTA ... Products and services named to the Constellation ShortList meet the threshold criteria for this ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2021-08/53714771-auditoria-ai-named-to-constellation-shortlist-for-ai-driven-cognitive-applications-for-the-second-consecutive-year-200.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2021-08/53714771-auditoria-ai-named-to-constellation-shortlist-for-ai-driven-cognitive-applications-for-the-second-consecutive-year-200.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-18T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2363772/artificial-intelligence-in-the-ed
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2363772/artificial-intelligence-in-the-education-sector-market-size"
 type: article
 quality: 58
-heat: 148
+heat: 138
 published: true
 
 provider:
@@ -104,22 +104,6 @@ related:
     quality: 43
     images:
       - url: "https://cdn.openpr.com/U/8/U823660206_g.jpg"
-        width: 750
-        height: 350
-        isCached: true
-  - title: "Cognitive Computing Market Size Analysis, DROT, PEST, Porter’s, Region & Country Forecast Till 2027 | Reports and Data"
-    excerpt: "The global cognitive computing market is forecast to reach USD 475.24 Billion by 2026, according to a new report by Reports and Data. The cognitive computing technology derives the answers and works like the human brains."
-    publishedDateTime: 2021-08-20T05:02:00Z
-    webUrl: "https://manometcurrent.com/cognitive-computing-market-size-analysis-drot-pest-porters-region-country-forecast-till-2027-reports-and-data/"
-    ampWebUrl: "https://manometcurrent.com/cognitive-computing-market-size-analysis-drot-pest-porters-region-country-forecast-till-2027-reports-and-data/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/cognitive-computing-market-size-analysis-drot-pest-porters-region-country-forecast-till-2027-reports-and-data/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 20
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/14-77.jpg"
         width: 750
         height: 350
         isCached: true

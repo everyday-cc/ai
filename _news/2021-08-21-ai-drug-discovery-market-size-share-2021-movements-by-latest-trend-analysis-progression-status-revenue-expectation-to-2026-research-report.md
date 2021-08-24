@@ -122,22 +122,6 @@ related:
         width: 750
         height: 350
         isCached: true
-  - title: "Cognitive Computing Market Size Analysis, DROT, PEST, Porter’s, Region & Country Forecast Till 2027 | Reports and Data"
-    excerpt: "The global cognitive computing market is forecast to reach USD 475.24 Billion by 2026, according to a new report by Reports and Data. The cognitive computing technology derives the answers and works like the human brains."
-    publishedDateTime: 2021-08-20T05:02:00Z
-    webUrl: "https://manometcurrent.com/cognitive-computing-market-size-analysis-drot-pest-porters-region-country-forecast-till-2027-reports-and-data/"
-    ampWebUrl: "https://manometcurrent.com/cognitive-computing-market-size-analysis-drot-pest-porters-region-country-forecast-till-2027-reports-and-data/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/cognitive-computing-market-size-analysis-drot-pest-porters-region-country-forecast-till-2027-reports-and-data/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 20
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/14-77.jpg"
-        width: 750
-        height: 350
-        isCached: true
   - title: "US AI in Image Recognition Market Analysis By Industry Size, Share, Revenue Growth and Demand Forecast To 2025"
     excerpt: "The US AI in image recognition market is estimated to grow significantly at a CAGR of more than 28 during the forecast period The factors that are contributing significantly to the market growth investments in R D high expenditure on"
     publishedDateTime: 2021-08-23T07:51:00Z

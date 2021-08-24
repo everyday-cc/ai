@@ -54,18 +54,18 @@ related:
         height: 480
         isCached: true
   - title: "A $28.4 Billion Global Opportunity for Cognitive Analytics by 2026 - New Research from StrategyR"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Cognitive Analytics - Global Market Trajectory & Analytics\"."
-    publishedDateTime: 2021-08-24T15:47:00Z
-    webUrl: "https://www.lelezard.com/en/news-19966145.html"
+    excerpt: "A new market study published b Inc., (GIA) the premier market research company, today released its report titled \"Cognitive Analytics"
+    publishedDateTime: 2021-08-24T15:40:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/a-28-4-billion-global-opportunity-for-cognitive-analytics-by-2026---new-research/article_f3667170-a840-525d-b39e-70f58b7ce4e2.html"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 11
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/7/ca/7ca68c5b-9b95-5222-b3e6-dc6506bc6976/61251435c0d9d.image.jpg?resize=931%2C630"
+        width: 931
+        height: 630
         isCached: true
   - title: "United States Automotive Voice Recognition Systems Market Report 2021 - Forecast to 2026 - ResearchAndMarkets.com"
     excerpt: "The “Automotive Voice Recognition Systems Market Research Report by Deployment, by State - United States Forecast to 2026 - Cumulative Impact of COVID-19” report has been added to ResearchAndMarkets.com’s offering."

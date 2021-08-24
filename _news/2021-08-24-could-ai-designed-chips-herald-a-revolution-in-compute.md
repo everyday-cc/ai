@@ -9,7 +9,7 @@ ampWebUrl: "https://www.deccanherald.com/amp/business/technology/could-ai-design
 cdnAmpWebUrl: "https://www-deccanherald-com.cdn.ampproject.org/c/s/www.deccanherald.com/amp/business/technology/could-ai-designed-chips-herald-a-revolution-in-compute-1022986.html"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1254
     height: 836
     isCached: true
+
+related:
+  - title: "AI ROI: Computer Vision"
+    excerpt: "Now, with the latest advancements in computer vision technology, AI is bringing new ROI opportunities to an even wider range of industries and use-cases. This white paper offers an in-depth examination of computer vision and the ROI opportunities that ..."
+    publishedDateTime: 2021-08-24T19:14:00Z
+    webUrl: "https://www.computerworld.com/resources/223309/ai-roi-computer-vision"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 54
+    images:
+      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "btSHlDB63j2O5WTm7zA74yTCHxpkY8scBTWvcuL83vMlG2EyGEHhJ6jUoJrhpnjdysUBmXABQuCmhqSNU+/wVyr6/5UMtHmtlxsjZQfMccpInDyLi6dlbOl96PXdf1p5lTtwg16PyQO72LM2zltZ/T2TU0JRq2XMvLwlSi9+FJOlnbelPhM8zqk90ZUaKfk+86czqRtAYazlRWe5PMc3mKT016V9EQzIa0Mjp2y+/6Xoe+/Mvxbl+/bSqON0+CXE9BKy2MXdmquLxDqkPPyXOrMRTR7Fkf5iocrYF2zapo0zIPbW/Po834s+R/k3pJwYMTHAb2wwShsu/GH3A4yeIoJcfXdvUirrUv0KeyJUamHClf8XHhCoIeoDwPRX6XgEM3MBFjxHryRUNfrWh4kkMZe/HC9iy1vxSFGA/gzO+YC0QEzBymnAXfOgSrCoZIcriCjOXu6iASms0grOdx1uxhfy10rN9mFQl+loOXQUs8yKMfLVDHE7VtuRzvmy8Wp25e5JL/dkKPCyOfGk1UGYrA==;UfIQIygV1jUYyPbQq1fyNg=="
 ---

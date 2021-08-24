@@ -102,6 +102,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "The Impact of Fintech on Central Bank Governance"
+    excerpt: "Fintech presents unique opportunities for central banks ... new data analytics (artificial intelligence [AI] and machine learning), and cloud computing, along with a wider spread of mobile access and increased internet speed and bandwidth."
+    publishedDateTime: 2021-08-24T14:00:00Z
+    webUrl: "https://www.imf.org/en/Publications/fintech-notes/Issues/2021/08/24/The-Impact-of-Fintech-on-Central-Bank-Governance-463625"
+    type: article
+    provider:
+      name: International Monetary Fund
+      domain: imf.org
+    quality: 19
 
 secured: "4JBC0pQXq7evaV68qKI7Mzz9Hya9JqanjA/1ec1rRaLEaPXjZhzHPu8EL6N/AfzVGm91CCl9aKQkZVs0Eriye60efuvQ0LTLcgTPbxD3QQRtbSPPEtytX7dR+xfcEYGOvhmIrb0LX50ZasFgTkwC0kwXQO00qG+vXCTI2U+bGSKFMjzQuxONTTOz71kOz/HM2f3rXM84bkx2u4tIDAKXVUlBiuoo8U+1c38ydqHg5zu2B6I0daVUg96jA+SDgatDDw5aR4kXkKKb0rpiZPPAzWhuFXkB8MvqwiizwN4nW+RyErHDp4/XJtjuEeOTzlk0QzQ0knyGbCpmCSEbC0yavh5n1UMXkAclkotF9Jy3rGQuO/Rfz0Q++0X2AvjduANJNKg9Ux1R4kJYYLw1OZNdae1hVOKMDRxWaGzgDbe6kP46towwb1F8hREj67ncCml2i58yF/SwsmDN760RvSsGNErzbAsngiBG0JRUbtPUdne0mthr0lKVE2TiVHOtxynkeQcisDX5A2/JVy8btl8mGA==;tNFvw+jJ0ybG9cn+5cd5Eg=="
 ---

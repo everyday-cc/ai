@@ -1,27 +1,27 @@
 ---
 category: news
 title: "IBM Unveils On-Chip Accelerated AI Processor"
-excerpt: "IBM unveiled details of its new Telum Processor which is designed to bring deep learning inference to enterprise workloads to help address fraud in real-time. Introduced at the annual Hot Chips conference,"
-publishedDateTime: 2021-08-24T13:27:00Z
-originalUrl: "https://www.dbta.com/Editorial/News-Flashes/IBM-Unveils-On-Chip-Accelerated-AI-Processor-148560.aspx"
-webUrl: "https://www.dbta.com/Editorial/News-Flashes/IBM-Unveils-On-Chip-Accelerated-AI-Processor-148560.aspx"
+excerpt: "IBM unveiled details of the upcoming new IBM Telum Processor, designed to bring deep learning inference to enterprise workloads"
+publishedDateTime: 2021-08-24T01:45:00Z
+originalUrl: "https://www.thefastmode.com/technology-solutions/20593-ibm-unveils-on-chip-accelerated-ai-processor"
+webUrl: "https://www.thefastmode.com/technology-solutions/20593-ibm-unveils-on-chip-accelerated-ai-processor"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: dbta.com
-  domain: dbta.com
+  name: Deep
+  domain: thefastmode.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://www.dbta.com/images/social-logo-2019.png"
-    width: 1200
-    height: 630
+  - url: "https://www.thefastmode.com/media/k2/items/src/f77372562623ffbc4fc486e55ae06035.jpg?t=20210824_014348"
+    width: 752
+    height: 408
     isCached: true
 
 related:
@@ -314,6 +314,6 @@ related:
       domain: telecompaper.com
     quality: 34
 
-secured: "VYwQW7mWew8TlfSAJBAsAtbkH7CmSJ5DP+U60UUipJm9Zr0lJD8pKx8+hp/aEXPziaUThKbY0VMYuQ+O1H3PO33HTikwfohdr9fip96zqGA7AjtLp02UKoAMTUpgnZ2R5vTO+p2Yn+84p89Pk9Lzlqu1kYwe9QVGmGj1G8db3DKdGUd739AQ/FSoSkKjH3ry7jG29a1XdfFBSlAKg4m65U4J/u/bNNrNaVGI/8ohyuUINzSe18sg8io3G6xU1LwnW4zE2HNWxalLrzCoT9vW551gUXOMCjHoOa2zV9WirqCJbLjm6+EO7XsV3P8pmMyVd9s9mHxRalQNZOkdrPABLLVgaxLgJhEshuzutyzkQa4=;0KfbNvfVASRqK0lUpYep6Q=="
+secured: "WzME2xEkHMb9OiFPZnd7KLbLqp451BQubnfkUOa5XKk9RRaCuZAFZ+arOh8xXGuKtmQLcocLuV7i5dtZigqyReeM8BlYfbZNZQjnLfD66GKggw3cV+UeP3mIj0P/q9ScHFJfMRV7hhQ0fwhxiQOU6GeZi493m8ooeAzwoqleTaEz0Pn1BMLhbl8SGtUtXHpZe7Mevj6yL0vzeuZ4ZR8xS9VFTWjoj8C5bTYs50B3LyFvBHS0rG8vVMTvtdYdpCzu24Lh71t3LWaYnCwkNJid2ra0MWHkfayDQJwuRPCVhZd++iuwvUz4FXBusHZ4rs7mcF+33Ll7lpenn15Hi99VJIePMT7GO4eSOZk5wZoe6y0=;DakY9bFtu2vvxL19WgB3iw=="
 ---
 

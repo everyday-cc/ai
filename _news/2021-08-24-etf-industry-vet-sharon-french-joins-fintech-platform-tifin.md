@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/etf-industry-vet-sharon-french-joins
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/etf-industry-vet-sharon-french-joins-fintech-platform-tifin-2021-08-23?amp"
 type: article
 quality: 56
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -94,6 +94,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "The Impact of Fintech on Central Bank Governance"
+    excerpt: "Fintech presents unique opportunities for central banks ... new data analytics (artificial intelligence [AI] and machine learning), and cloud computing, along with a wider spread of mobile access and increased internet speed and bandwidth."
+    publishedDateTime: 2021-08-24T14:00:00Z
+    webUrl: "https://www.imf.org/en/Publications/fintech-notes/Issues/2021/08/24/The-Impact-of-Fintech-on-Central-Bank-Governance-463625"
+    type: article
+    provider:
+      name: International Monetary Fund
+      domain: imf.org
+    quality: 19
   - title: "Celebrating fintech’s role at the heart of the new normal"
     excerpt: "Innovate Finance has launched a new forum to explore the potential of fintech to create a more inclusive and sustainable world. What good timing - fintech has performed impressively amidst the pandemic and will have a crucial role to play as restrictions are lifted and we settle  into our ‘new normal’."
     publishedDateTime: 2021-08-21T04:38:00Z

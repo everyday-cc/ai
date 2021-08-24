@@ -2,6 +2,57 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-08-17-data-observability-startup-monte-carlo-raises-60m.md",
+      "title": "Data observability startup Monte Carlo raises $60M",
+      "excerpt": "Monte Carlo, a startup leveraging AI to power its data observability tech, has raised $60 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/17/data-observability-startup-monte-carlo-raises-60m/",
+      "originalUrl": "https://venturebeat.com/2021/08/17/data-observability-startup-monte-carlo-raises-60m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/AI-e1628527067120.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/17/data-observability-startup-monte-carlo-raises-60m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/17/data-observability-startup-monte-carlo-raises-60m/amp/",
+      "publishedDateTime": "2021-08-17T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-17-industry-expo-to-feature-seven-well-tech-trends-to-make-your-home-healthier.md",
       "title": "Industry Expo To Feature Seven Well-Tech Trends to Make Your Home Healthier",
       "excerpt": "Ian Bryant, CEDIA’s director of strategic partnerships, dates the industry’s heightened interest in “well-tech,” (also called well tech and welltech to describe technology created to support wellness),",
@@ -580,49 +631,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-17-medius-squashes-invoice-lead-times-with-efficient-ai-tech.md",
-      "title": "Medius squashes invoice lead times with efficient AI tech",
-      "excerpt": "Utilizing Microsoft Azure Machine Learning and Artificial Intelligence (AI), with a user-friendly interface, Medius has developed an e-invoicing solution that captures and converts data dynamically, and dramatically reduces processing time to mere moments.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/medius-squashes-invoice-lead-times-with-efficient-ai-tech-1030736974",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/medius-squashes-invoice-lead-times-with-efficient-ai-tech-1030736974",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-17T02:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-17-if-youre-using-ai-you-need-to-think-about-ethics.md",
       "title": "If you're using AI, you need to think about ethics",
       "excerpt": "Shahram Ebadollahi, chief data & AI officer at Novartis, explains why robust frameworks should always underpin the use of new technology",
@@ -757,6 +765,40 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-medius-squashes-invoice-lead-times-with-efficient-ai-tech.md",
+      "title": "Medius squashes invoice lead times with efficient AI tech",
+      "excerpt": "Medius, a leading provider of spend management solutions, is transforming its customer's electronic invoice management",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/08/n22528768/medius-squashes-invoice-lead-times-with-efficient-ai-tech",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/08/n22528768/medius-squashes-invoice-lead-times-with-efficient-ai-tech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/22528768",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22528768",
+      "publishedDateTime": "2021-08-17T00:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -1148,50 +1190,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-patent-issued-for-using-machine-learning-to-classify-insurance-card-information-uspto-11074656.md",
-      "title": "Patent Issued for Using machine learning to classify insurance card information (USPTO 11074656)",
-      "excerpt": "As a result, many consumers enroll in insurance plans that are not the most appropriate for their medical needs and financial budget ... method for applying machine-learning algorithms to ...",
-      "sourceUrl": null,
-      "webUrl": "https://insurancenewsnet.com/oarticle/patent-issued-for-using-machine-learning-to-classify-insurance-card-information-uspto-11074656",
-      "originalUrl": "https://insurancenewsnet.com/oarticle/patent-issued-for-using-machine-learning-to-classify-insurance-card-information-uspto-11074656",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insurancenewsnet.com/wp-content/uploads/2021/04/inn-og-default.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-16T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insurancenewsnet.com",
-        "domain": "insurancenewsnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

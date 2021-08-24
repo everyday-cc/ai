@@ -7,7 +7,7 @@ originalUrl: "https://www.lelezard.com/en/news-19966330.html"
 webUrl: "https://www.lelezard.com/en/news-19966330.html"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -27,19 +27,14 @@ images:
 
 related:
   - title: "eSentire Achieves AWS Level 1 Managed Security Service Provider Competency Status"
-    excerpt: "(GLOBE NEWSWIRE) -- eSentire, recognized globally as the Authority in Managed Detection and Response (MDR), announced today that it has achieved Amazon Web Services (AWS) Level 1 Managed Security Service Provider (MSSP) Competency status."
-    publishedDateTime: 2021-08-24T17:33:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-12571e98f7ec23c0ebd3c4de0a0279ec"
+    excerpt: "Leveraging patented machine learning and artificial intelligence models, Atlas ingests over 20M signals ... “eSentire is proud to be one of the first AWS Partners to achieve AWS Level 1 MSSP Competency status. We are dedicated to helping businesses ..."
+    publishedDateTime: 2021-08-24T19:22:00Z
+    webUrl: "https://www.morningstar.com/news/globe-newswire/8314382/esentire-achieves-aws-level-1-managed-security-service-provider-competency-status"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 51
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 31
 
 secured: "7Iq/E5rCc1WCafZfdsIm7JMIiSvH4AY2JdnuRwXU8I5nmGiVqLol6oXiHB95CyMOeWJsyNUOcoJ36Xr30R4M3BWEbMdZHngz325KMiDisnrHOov02/k7ni9941Dp9KlwjHjg0G9q8CwbV8TW1+gZ5xFzFJVJBWI0CngdMdoiR56rznuo5wCRROem0qSuh9NHiqAa1+rieIhfBQjejGPV/40ryGII7GqZJ+HZBqzYlSovbDcaqZdOukxX3Ijh59Oj//NbF72SQv+81wJjvgLw5Qt9X5O9eowN6xGzxNtgrZbDViC1RcNxQmeYoVN6r7MHuXX9gwHLetT/Ffx1kNP12jiznMv+BBLeCmtb/QCcizI=;MwZV+oBG6ySZODNUo6hKMg=="
 ---

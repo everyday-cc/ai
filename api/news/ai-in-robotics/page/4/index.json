@@ -2,6 +2,102 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-07-30-edtech-startup-sp-robotic-works-raises-3-mn-from-mount-judi-growth-fund-others.md",
+      "title": "Edtech Startup SP Robotic Works Raises $3 Mn From Mount Judi Growth Fund, Others",
+      "excerpt": "SP Robotic Works has raised $3 Mn in Series A funding. With this round, the edtech startup has raised a total of $4 Mn in investment.",
+      "sourceUrl": null,
+      "webUrl": "https://inc42.com/buzz/sp-robotic-works-raises-3-mn-from-mount-judi-growth-fund-others/",
+      "originalUrl": "https://inc42.com/buzz/sp-robotic-works-raises-3-mn-from-mount-judi-growth-fund-others/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inc42.com/wp-content/uploads/2021/07/Untitled-design-9.png",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inc42.com/buzz/sp-robotic-works-raises-3-mn-from-mount-judi-growth-fund-others/amp/",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/sp-robotic-works-raises-3-mn-from-mount-judi-growth-fund-others/amp/",
+      "publishedDateTime": "2021-07-30T02:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42.com",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-30-what-the-us-can-learn-from-europes-approach-to-artificial-intelligence.md",
+      "title": "What the U.S. Can Learn From Europe’s Approach to Artificial Intelligence",
+      "excerpt": "Americans have good reason to be skeptical of artificial intelligence. Tesla crashes have dented the dream of self-driving cars. Mysterious algorithms predict job applicants’ performance based on little more than video interviews.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/07/30/opinion/artificial-intelligence-european-union.html",
+      "originalUrl": "https://www.nytimes.com/2021/07/30/opinion/artificial-intelligence-european-union.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/07/30/opinion/30PasqualeMalgieri/30PasqualeMalgieri-facebookJumbo-v3.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/07/30/opinion/artificial-intelligence-european-union.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/30/opinion/artificial-intelligence-european-union.amp.html",
+      "publishedDateTime": "2021-07-30T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-07-30-are-there-robot-proof-jobs.md",
       "title": "Are There Robot-proof Jobs?",
       "excerpt": "Robots work well in perfectly controlled environments, such as factories and warehouses, and not in ad hoc environments like your aunt Sue’s attic. Forest rangers and electricians are a couple of jobs like this that come to mind, but there are many more.",
@@ -1303,102 +1399,6 @@
         "name": "PoliticsHome",
         "domain": "politicshome.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-people-suck-so-a-robot-with-microsoft-ai-has-to-pick-up-cigarette-butts.md",
-      "title": "People suck, so a robot with Microsoft AI has to pick up cigarette butts",
-      "excerpt": "A robot that utilizes Microsoft AI is being used to clean up beaches. It uses machine learning to identify cigarette butts in the sand and then picks up the waste.",
-      "sourceUrl": null,
-      "webUrl": "https://www.windowscentral.com/people-suck-so-robot-microsoft-ai-has-pick-cigarette-butts",
-      "originalUrl": "https://www.windowscentral.com/people-suck-so-robot-microsoft-ai-has-pick-cigarette-butts",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 190,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/07/cigarette-robot-project-bb-4-3_0.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.windowscentral.com/people-suck-so-robot-microsoft-ai-has-pick-cigarette-butts?amp",
-      "cdnAmpWebUrl": "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/people-suck-so-robot-microsoft-ai-has-pick-cigarette-butts?amp",
-      "publishedDateTime": "2021-07-22T04:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central",
-        "domain": "windowscentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-ai-based-surgical-robots-market-size-to-register-16-cagr-during-2021-2027.md",
-      "title": "AI-based Surgical Robots Market Size to Register 16% CAGR During 2021-2027",
-      "excerpt": "Selbyville, Delaware, Global AI-based Surgical Robots Market size to reach USD 13.2 billion by 2027 and is valued approximately USD 4.7 billion in 2020 and is anticipated to grow with a healthy growth rate of more than 16% over the forecast period 2021-2027.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-based-surgical-robots-market-size-to-register-16-cagr-during-2021-2027-2021-07-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-based-surgical-robots-market-size-to-register-16-cagr-during-2021-2027-2021-07-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-22T01:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
