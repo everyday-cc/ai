@@ -35,7 +35,7 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 54
+    quality: 56
   - title: "FinTech SPAC Activity Heats Up"
     excerpt: "In that filing, TG Venture said technologies under consideration for business combinations will include AI, blockchain and other advances. The filing notes, “FinTech is disruptive to our life every day. The power dynamics in the payments industry are ..."
     publishedDateTime: 2021-08-20T15:15:00Z

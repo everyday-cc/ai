@@ -37,7 +37,7 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 54
+    quality: 56
   - title: "Top Programming Languages for Finance in Fintech"
     excerpt: "This article explores some of the top programming languages for finance in fintech to power companies. Programming language is essential for efficient financial services. Multiple programming languages for finance are suitable for different fintech companies."
     publishedDateTime: 2021-08-23T11:06:00Z

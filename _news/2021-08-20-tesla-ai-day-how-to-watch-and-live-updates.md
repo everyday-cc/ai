@@ -59,6 +59,22 @@ related:
         width: 700
         height: 466
         isCached: true
+  - title: "Watch Tesla AI Day and follow the important news coming out of it"
+    excerpt: "PM ET (5:00 PM PT) if Tesla is on time, which is a big ‘if’. We are also going to link to all the headline-worthy news coming out of the event. Over the last few years, Tesla started holding events, not really to unveil"
+    publishedDateTime: 2021-08-19T21:49:00Z
+    webUrl: "https://electrek.co/2021/08/19/watch-tesla-ai-day-livestream-important-news/"
+    ampWebUrl: "https://electrek.co/2021/08/19/watch-tesla-ai-day-livestream-important-news/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/19/watch-tesla-ai-day-livestream-important-news/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 104
+    images:
+      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-AI-Day.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Key Takeaways From Much-Awaited Tesla (TSLA) AI Day Event"
     excerpt: "Tesla’s TSLA highly anticipated Artificial Intelligence (AI) day event was live-streamed on the company’s official YouTube channel on Aug 19. At the flashy event, the electric car maker made several key announcements in the areas of computing,"
     publishedDateTime: 2021-08-23T12:57:00Z
@@ -85,6 +101,22 @@ related:
       - url: "https://images.hindustantimes.com/auto/img/2021/08/20/600x338/AFP_9L8894_1629439212600_1629439224395.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "Tesla AI Day Is About To Start. Here’s Some Key Things You Can Expect to Learn."
+    excerpt: "Investors want to learn more about Tesla’s competitive position on AI-technology versus other car makers, and they may be hoping that CEO Elon Musk has a surprise or two up his sleeve as well. Technology Tesla (ticker: TSLA) has a vertically integrated ..."
+    publishedDateTime: 2021-08-19T21:36:00Z
+    webUrl: "https://www.barrons.com/articles/tesla-ai-day-is-about-to-start-heres-some-key-things-you-can-expect-to-learn-51629408985"
+    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-ai-day-is-about-to-start-heres-some-key-things-you-can-expect-to-learn-51629408985"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-ai-day-is-about-to-start-heres-some-key-things-you-can-expect-to-learn-51629408985"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 72
+    images:
+      - url: "https://images.barrons.com/im-388173/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "eQbw4pX1q19O7y1jYWHKT6JmiTEMq83EQEQ4UN4n3Qr5ymNIjT1ZrWVVXwIvn+OZ9sII67sVqq1F4roQgeEM/dSDF2RrxNtx9kcYvKlCf9FJjg1wPBoQT3f9m3Yu0/9FPaGNBAOGoojp5QVCO4tWQMApQM4f8FxIQ05BOwYcca71noIbzXnE+ffydMSBcQk0AHEnYFe+LWwcGZVk9DvNMBCl5mv00jMcfwRWucYw10Z+lx0MkijECi7nuOqrgQ31jIGYpDVNKtdiMTahFUkZi8cQPMk9aDpmkCXJy0lmozkevTh4G976or3yiJYOdGDy5Lnl4z0SEb7M7RlZvaokaGdYXPNe+jeYzKOgmAN3p2KxAXERyZLPV2R58IxKXIKli+PW2kOwialinDYj/YUW/0LyO0ehU0HjqYOxBi1eKCAbUGe/y5gYq5e6UEK4MUAr+4Lb+/NErNk12sImYmbxkI0/y9Sh40YCptS6Huo4kJCd4AxxzS3MeqgXv/QdQZu7mbQoo8bnMJXgMhRjm+rdvA==;cHIPcRgZesJlph3FOHnvyw=="

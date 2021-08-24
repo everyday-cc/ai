@@ -42,38 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence-based Security Market to Witness Notable Growth by 2027"
-    excerpt: "It covers how this COVID-19 pandemic affected each and every industry of the world. This Artificial Intelligence-based Security market report further proceeds with covering market trends, competitive analysis, growth factors, market size, forecast and ..."
-    publishedDateTime: 2021-08-19T10:10:00Z
-    webUrl: "https://www.openpr.com/news/2360272/artificial-intelligence-based-security-market-to-witness"
-    ampWebUrl: "https://www.openpr.com/amp/2360272/artificial-intelligence-based-security-market-to-witness"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2360272/artificial-intelligence-based-security-market-to-witness"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 70
-    images:
-      - url: "https://cdn.openpr.com/U/8/U819264200_g.jpg"
-        width: 600
-        height: 300
-        isCached: true
-  - title: "Radiotherapy Market Maintains Steady Pace of Growth- Projected to reach USD 7.7 billion by 2027"
-    excerpt: "A recent study conducted by the strategic consulting and market research firm BlueWeave Consulting revealed that the global radiotherapy market was worth USD 5.7 billion in the year 2020. The market is estimated to grow at a CAGR of 4."
-    publishedDateTime: 2021-08-19T09:14:00Z
-    webUrl: "https://manometcurrent.com/radiotherapy-market-maintains-steady-pace-of-growth-projected-to-reach-usd-7-7-billion-by-2027/"
-    ampWebUrl: "https://manometcurrent.com/radiotherapy-market-maintains-steady-pace-of-growth-projected-to-reach-usd-7-7-billion-by-2027/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/radiotherapy-market-maintains-steady-pace-of-growth-projected-to-reach-usd-7-7-billion-by-2027/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 62
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/OEM-Factory-Workout-Clothes-Fitness-Yoga-Wear-Women-Sports-Wear-Gym-Wear-390x220.jpg"
-        width: 390
-        height: 220
-        isCached: true
   - title: "Artificial Intelligence in the Education Sector Market Size, Key Players Analysis and Forecast To 2028"
     excerpt: "The new report titled Global Artificial Intelligence in the Education Sector Market published by Emergen Research is a vivid presentation of the global Artificial Intelligence in the Education Sector market with utmost focus on the forecast market size share value"
     publishedDateTime: 2021-08-23T13:05:00Z
@@ -179,22 +147,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 36
-  - title: "Artificial Intelligence Plus Internet of Things (AIOT) Market Analysis by Trends, Technological Advancement, Forecast till 2027 & COVID-19 Effect"
-    excerpt: "This Artificial Intelligence Plus Internet of Things AIOT market analysis looks at the global market s current state and projected expansion from 2021 to 2027 It includes a summary of marketing research methodology as well as commercial potential In this"
-    publishedDateTime: 2021-08-19T10:11:00Z
-    webUrl: "https://www.openpr.com/news/2360270/artificial-intelligence-plus-internet-of-things-aiot-market"
-    ampWebUrl: "https://www.openpr.com/amp/2360270/artificial-intelligence-plus-internet-of-things-aiot-market"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2360270/artificial-intelligence-plus-internet-of-things-aiot-market"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 35
-    images:
-      - url: "https://cdn.openpr.com/U/8/U819795651_g.jpg"
-        width: 780
-        height: 470
-        isCached: true
   - title: "Far-field Speech Recognition Market Analysis and Upcoming Trend by 2027| Synaptics, Texas Instruments, Andrea Electronics"
     excerpt: "LOS ANGELES UNITED STATE The report on the global Far field Speech Recognition market is comprehensively prepared with main focus on the competitive landscape geographical growth segmentation and market dynamics including drivers restraints and opportunities It sheds light on key"
     publishedDateTime: 2021-08-22T13:22:00Z

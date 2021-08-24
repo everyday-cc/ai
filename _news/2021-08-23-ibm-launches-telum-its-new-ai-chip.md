@@ -87,6 +87,20 @@ related:
         width: 760
         height: 506
         isCached: true
+  - title: "IBM’s Upcoming Z Series Chip Gains On-Chip AI Acceleration and New Name: Telum"
+    excerpt: "In a major refresh of its next-generation Z Series chips, IBM is adding on-chip AI acceleration capabilities to allow enterprise customers to perform deep"
+    publishedDateTime: 2021-08-23T04:09:00Z
+    webUrl: "https://www.enterpriseai.news/2021/08/22/ibms-upcoming-z-series-chip-gains-on-chip-ai-acceleration-and-new-name-telum/"
+    type: article
+    provider:
+      name: enterpriseai
+      domain: enterpriseai.news
+    quality: 50
+    images:
+      - url: "https://www.enterpriseai.news/wp-content/uploads/2021/08/IBM-Telum-Processor_Macro-Blue-Light-600x.png"
+        width: 600
+        height: 337
+        isCached: true
   - title: "IBM’s new Telum processor accelerates AI inference on-chip to detect fraud in real-time"
     excerpt: "Hot Chips event today that’s able to perform deep learning inference on enterprise workloads in real-time to address fraud. The new Telum chip is said to be IBM’s first processor that features on-chip acceleration for artificial intelligence inferencing while transaction are taking place."
     publishedDateTime: 2021-08-24T00:24:00Z

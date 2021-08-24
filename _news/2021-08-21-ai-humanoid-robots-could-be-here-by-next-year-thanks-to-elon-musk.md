@@ -957,6 +957,22 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "Elon Musk says Tesla's self-driving software update is 'not great'"
+    excerpt: "Tesla CEO Elon Musk said on Monday said that the electric-car maker was working on improving the much-awaited update to its self-driving software \"as fast as possible.\""
+    publishedDateTime: 2021-08-24T02:45:00Z
+    webUrl: "https://www.foxbusiness.com/technology/elon-musk-tesla-self-driving-software-update-not-great"
+    ampWebUrl: "https://www.foxbusiness.com/technology/elon-musk-tesla-self-driving-software-update-not-great.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/elon-musk-tesla-self-driving-software-update-not-great.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 59
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/95caffd0-8849-41ef-87c2-87cc53146448/d1e30ead-8dc3-46a0-acbe-e92df8713a74/1280x720/match/image.jpg?pubId=854081161001"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Elon Musk Says Tesla's Robot Will Make Physical Work A 'Choice'"
     excerpt: "After dominating the electric vehicle market and throwing his hat into the billionaire space race, Tesla boss Elon Musk announced the latest frontier he's aiming to conquer: humanoid robots. The irascible entrepreneur said Thursday he would have an initial prototype of an androgynous \"Tesla Bot\" by next year."
     publishedDateTime: 2021-08-20T07:51:00Z

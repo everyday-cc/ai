@@ -946,6 +946,22 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "Elon Musk says Tesla's self-driving software update is 'not great'"
+    excerpt: "Tesla CEO Elon Musk said on Monday said that the electric-car maker was working on improving the much-awaited update to its self-driving software \"as fast as possible.\""
+    publishedDateTime: 2021-08-24T02:45:00Z
+    webUrl: "https://www.foxbusiness.com/technology/elon-musk-tesla-self-driving-software-update-not-great"
+    ampWebUrl: "https://www.foxbusiness.com/technology/elon-musk-tesla-self-driving-software-update-not-great.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/elon-musk-tesla-self-driving-software-update-not-great.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 59
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/95caffd0-8849-41ef-87c2-87cc53146448/d1e30ead-8dc3-46a0-acbe-e92df8713a74/1280x720/match/image.jpg?pubId=854081161001"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "AI humanoid robots could be here by next year, thanks to Elon Musk"
     excerpt: "Tesla CEO Elon Musk is back to making national headlines again after unveiling the “Tesla Bot,” otherwise known as the brand’s AI humanoid robot, during the brand’s AI event on Thursday. The robot will use much of the same tech that is found in ..."
     publishedDateTime: 2021-08-21T00:56:00Z

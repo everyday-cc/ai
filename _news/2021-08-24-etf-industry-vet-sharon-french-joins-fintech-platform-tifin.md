@@ -8,8 +8,8 @@ webUrl: "https://www.nasdaq.com/articles/etf-industry-vet-sharon-french-joins-fi
 ampWebUrl: "https://www.nasdaq.com/articles/etf-industry-vet-sharon-french-joins-fintech-platform-tifin-2021-08-23?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/etf-industry-vet-sharon-french-joins-fintech-platform-tifin-2021-08-23?amp"
 type: article
-quality: 54
-heat: 104
+quality: 56
+heat: 106
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Finance
 
 related:
   - title: "FinTech SPAC Activity Heats Up"

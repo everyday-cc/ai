@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Taliban captured US facial recognition and eye-scan database, reports say"
-    excerpt: "A key database of the biometric information of Afghan allies who assisted U.S. and coalition forces may now be in the hands of Taliban militants who are seeking revenge. On Tuesday, the Intercept reported,"
-    publishedDateTime: 2021-08-19T20:05:00Z
-    webUrl: "https://americanmilitarynews.com/2021/08/taliban-captured-us-facial-recognition-and-eye-scan-database-reports-say/"
+  - title: "SA govt trials home quarantine app with facial recognition, GPS tracking"
+    excerpt: "The South Australian government is set to trial a smartphone app that uses facial recognition and geolocation to confirm a person’s location during home quarantine. The government will trial the app known as Home Quarantine SA with 50 residents who are required to undertake 14 days of quarantine on return from interstate locations this week."
+    publishedDateTime: 2021-08-24T01:41:00Z
+    webUrl: "https://www.itnews.com.au/news/sa-govt-trials-home-quarantine-app-with-facial-recognition-gps-tracking-568979"
     type: article
     provider:
-      name: American Military News
-      domain: americanmilitarynews.com
+      name: IT News For Australia Business
+      domain: itnews.com.au
     quality: 38
     images:
-      - url: "https://americanmilitarynews.com/wp-content/uploads/1-about-amn.png"
-        width: 800
-        height: 500
+      - url: "https://i.nextmedia.com.au/News/facial_biometric_identity.jpg"
+        width: 1254
+        height: 836
         isCached: true
 
-secured: "GCa/jN+EyTuUloBJ2z9HeogZIsLZjL/YMR7ZZ1eIDo+a+hjHLhCNTNOYW+UCRuwRnSnio3UA09mMzmthhdkDllblBiMvllCcXwfNLwlA0c3z/fUGrhDMg2RyuB0LCjVP3O7Aur0OF45tPhqrD802l2kHsrbn2DTtc5CqBOs3Bz754jSyUK8VhTkUHfp7QGSV+0aG08sOfbOENQwXhj5HAQFzqNYT1H6iKjsaGLuNhUJvmq9pn3WJvMzPWtt/nkjGy8GxqRW4BVs6Aj3uwgywtm8TkDYE99ErThu9TzCr3ifaergvwwijwYvdSaX/YaHsYn7Spg1ro4XHSVgwyB8lyoOKyoZ3aZbXqNiKxCMneo4=;SIPxMxfAt/gfxRDrJ9l6Lg=="
+secured: "zyfjbAQBg+Qkh9QDiMt4NKoDVhaPqIhkb6t7/QWTBCBEXT10IHNWsGkf0d1WPLFjZO7y0OXSCAlfzSkcXK8Yy3hVCId86eEsJ6Fm8YONB1NB6mqdJK5So1NByLx4SbyOlv3Ln6Kogxhirkr0egfyJ4mBaIuVvvNHJCInRiEJEbe9t78+Kh1W2EIKDUDeWW+UdC5yOjQzAtoBvIVMOsY/Ho7qCZbxLYA4pHfjjSGIR69Nrv0HHwv+RKhmrshXCMKxBHh5MdCo9VsS17vTjNimoeodnvCAUqsjxIDQeewSxms/Ct9XyiN/KLpQROKg0biG0n/iB8oPGu1/J3bb70Mc+Sye7tRwde93FpbcxiiUpRFViB1BBgLpw+DojDA8+0Q4ncnWClT1hNcdgfsq0YbS9693tkmfENhjDgL+QNPpGcPgnIzVNndwXPRuQqtP6iOxR0tHGKOHfpjs6ZvmP/G2uYz2YDSDNUkSxijr3FUsGWgPsqbaKm2+1EZfaS+lLjHhnrKt2BunKcCDv1uw1lavbg==;vOWJP4UuVud3ZtyJXgrJxg=="
 ---
 

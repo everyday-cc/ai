@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/startups/2021/arab-bank-back-egyptian-fintech
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/startups/2021/arab-bank-back-egyptian-fintech-artificial-intelligence-cybersecurity-startups/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Fintech-focused Corporate Accelerator Program Launched in Egypt by Arab Bank"
+    excerpt: "Fintech-focused corporate accelerator program launched in Egypt by Arab Bank. Initiative will support adoption of modern financial services."
+    publishedDateTime: 2021-08-24T02:37:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/08/179462-fintech-focused-corporate-accelerator-program-launched-in-egypt-by-arab-bank/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/08/179462-fintech-focused-corporate-accelerator-program-launched-in-egypt-by-arab-bank/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/08/179462-fintech-focused-corporate-accelerator-program-launched-in-egypt-by-arab-bank/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 56
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/06/Abu-Simbel-Temples-Egypt-aussieactive-unsplash-300x219.jpg"
+        width: 300
+        height: 219
+        isCached: true
   - title: "Arab Bank launches fintech accelerator in Egypt"
     excerpt: "Arab Bank has launched the AB Accelerator in Egypt, a fintech-focused corporate acceleration programme. The accelerator, which"
     publishedDateTime: 2021-08-22T09:15:00Z

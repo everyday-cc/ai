@@ -140,14 +140,28 @@ related:
       name: London South East
       domain: lse.co.uk
     quality: 38
-  - title: "WPP Acquires Leading AI Technology Company Satalia"
-    excerpt: "WPP (NYSE: WPP) today announces that it has acquired Satalia, a technology company offering market-leading AI solutions for clients. Satalia is a glob"
-    publishedDateTime: 2021-08-23T16:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210823005340/en/WPP-Acquires-Leading-AI-Technology-Company-Satalia"
+  - title: "WPP Acquires AI Tech Company Satalia – Names Daniel Hulme Chief AI Officer"
+    excerpt: "WPP has acquired AI tech company acquired Satalia, whose clients include BT, DFS, DS Smith, PwC, Gigaclear, Tesco, and Unilever. Funded by CEO Dr. Daniel Hulme in 2008, Satalia combines learning and optimization,"
+    publishedDateTime: 2021-08-24T02:41:00Z
+    webUrl: "https://www.brandinginasia.com/wpp-acquires-ai-tech-company-satalia-names-daniel-hulme-chief-ai-officer/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: Jury
+      domain: brandinginasia.com
+    quality: 35
+    images:
+      - url: "https://www.brandinginasia.com/wp-content/uploads/2021/08/Satalia-WPP.jpg"
+        width: 1201
+        height: 681
+        isCached: true
+  - title: "WPP Acquires Leading AI Technology Company Satalia"
+    excerpt: "WPP (NYSE: WPP) today announces that it has acquired Satalia, a technology company offering market-leading AI solutions for clients. Satalia is a global leader in enterprise AI and one of the UK's fastest-growing tech companies,"
+    publishedDateTime: 2021-08-23T12:36:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-wpp-acquires-leading-ai-technology-company-satalia-/2021/08/23/9435355.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 19
   - title: "WPP Buys B2B-based AI Tech Firm Satalia"
     excerpt: "WPP today announced that it has acquired Satalia, which has expertise in applying AI across the logistics and supply chain. Terms of the deal have not been disclosed. Founded in 2008 by CEO and AI specialist Daniel Hulme (pictured),"

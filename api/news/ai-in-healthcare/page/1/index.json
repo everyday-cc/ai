@@ -481,22 +481,31 @@
       "title": "Deep 6 AI Announces Release of Trial Recommender",
       "excerpt": "Deep 6 AI today announced the addition of Trial Recommender to its industry-leading artificial intelligence (AI)-driven clinical trial acceleration platform. Addressing a major gap in traditional patient recruitment,",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-deep-6-ai-announces-release-trial-recommender-/2021/08/17/9432271.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-deep-6-ai-announces-release-trial-recommender-/2021/08/17/9432271.htm",
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-health-bbc477d60e474a5aa011a0d5bbf54fd1",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-health-bbc477d60e474a5aa011a0d5bbf54fd1",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-17T06:17:00-07:00",
+      "publishedDateTime": "2021-08-17T06:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -55,22 +55,6 @@ related:
         width: 1050
         height: 591
         isCached: true
-  - title: "Mate Labs, Indian AI startup, to digitally transform Luminous Power Technologies' Supply Chain"
-    excerpt: "Mateverse is a full-scale AI and ML-based forecasting platform that can dynamically predict end-customer demands while avoiding inefficiencies caused by supply and demand misalignment across business"
-    publishedDateTime: 2021-08-19T09:41:00Z
-    webUrl: "https://www.timesnownews.com/technology-science/article/mate-labs-indian-ai-startup-to-digitally-transform-luminous-power-technologies-supply-chain/801116"
-    ampWebUrl: "https://www.timesnownews.com/amp/technology-science/article/mate-labs-indian-ai-startup-to-digitally-transform-luminous-power-technologies-supply-chain/801116"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/technology-science/article/mate-labs-indian-ai-startup-to-digitally-transform-luminous-power-technologies-supply-chain/801116"
-    type: article
-    provider:
-      name: timesnownews.com
-      domain: timesnownews.com
-    quality: 45
-    images:
-      - url: "https://imgk.timesnownews.com/story/Mate_Labs_Mateverse2021081809214520210818092816.jpg?tr=w-400,h-300,fo-auto"
-        width: 400
-        height: 300
-        isCached: true
   - title: "USD 17.2 bn infused in Indian startup ecosystem by venture capital firms during Jan-July: Report"
     excerpt: "SoftBank Corp led the charts with approximately USD 3.5 billion worth of investments in the past three years, followed by Tiger Global, Temasek, Sequoia Capital and Prosus Ventures, the report noted."
     publishedDateTime: 2021-08-22T09:42:00Z

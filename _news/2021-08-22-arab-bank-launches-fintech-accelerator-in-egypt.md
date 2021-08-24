@@ -41,6 +41,22 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Fintech-focused Corporate Accelerator Program Launched in Egypt by Arab Bank"
+    excerpt: "Fintech-focused corporate accelerator program launched in Egypt by Arab Bank. Initiative will support adoption of modern financial services."
+    publishedDateTime: 2021-08-24T02:37:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/08/179462-fintech-focused-corporate-accelerator-program-launched-in-egypt-by-arab-bank/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/08/179462-fintech-focused-corporate-accelerator-program-launched-in-egypt-by-arab-bank/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/08/179462-fintech-focused-corporate-accelerator-program-launched-in-egypt-by-arab-bank/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 56
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/06/Abu-Simbel-Temples-Egypt-aussieactive-unsplash-300x219.jpg"
+        width: 300
+        height: 219
+        isCached: true
   - title: "Arab Bank launches FinTech AB accelerator in Egypt"
     excerpt: "Arab Bank has recently launched its FinTech-focused corporate accelerator programme “AB Accelerator” in Egypt, following its successful launch in Jordan back in 2018. The launch of this programme in Egypt comes as part of the bank’s strategic efforts to foster and support innovation in the FinTech sector towards offering responsive and agile banking solutions in line with the evolving needs and expectations of clients across different segments."
     publishedDateTime: 2021-08-23T11:17:00Z

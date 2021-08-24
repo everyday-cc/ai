@@ -7,7 +7,7 @@ originalUrl: "https://www.aftermarketnews.com/baidu-announces-autonomous-driving
 webUrl: "https://www.aftermarketnews.com/baidu-announces-autonomous-driving-milestones-at-baidu-world-2021/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu unveils Level 5 self-driving vehicle"
-    excerpt: "Chinese technology company Baidu Inc has unveiled its first Level 5 (L5) fully autonomous driving vehicle this week at the...Read"
-    publishedDateTime: 2021-08-19T10:45:00Z
-    webUrl: "https://www.just-auto.com/news/baidu-unveils-level-5-self-driving-vehicle/"
+  - title: "Baidu’s Autonomous Vehicle Vision Features Biometric Tech"
+    excerpt: "Baidu Co-founder and CEO Robin Li shared a bold vision for the future of transportation at the company’s Baidu World 2021 conference"
+    publishedDateTime: 2021-08-19T20:37:00Z
+    webUrl: "https://mobileidworld.com/baidus-autonomous-vehicle-vision-features-biometric-tech-081908/"
     type: article
     provider:
-      name: Just Auto
-      domain: just-auto.com
+      name: Mobile ID News
+      domain: mobileidworld.com
     quality: 39
     images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/08/Baidu_Co_founder_CEO_Robin_Li_CCTV_host_Beining_Sa_sit.jpg"
-        width: 1270
-        height: 846
+      - url: "https://mobileidworld.com/wp-content/uploads/Car-at-the-end-of-the-road.jpg"
+        width: 800
+        height: 477
         isCached: true
 
 secured: "cdpCdiFza08j8HF+jmyuQRgBxc9qdijMRXQZq1RbD90cmJu5gTDnJri/dO2HX96vpwXy2/b0fS+y32qdBCpgtoBCaZqMtnIxkgUOWUQehv3SYUMfR3HEJLez+flUillKVHu3oIQshPWQrbUFxM5DRROO2bd4UMRjfO0sRYmszodJ8kGzUN3rk/AfjEb8geSvK9jVTMEviSb+J32crH3MENO7a68u5yus2dWo4jfJ3zbn4w0ePcbfnsbUtBesDW0DTFDCJuNYlfi24u6YBQokrsAgt+WR7pP1nmGX64bvwinSU5/8z0OxKqc8z/2eT8sRok8hgG+ENtc40govkTyTkKfaLiEbB5SA9NviK6Fo3xvtLIOqtSNrdmxKyV1xkcDy2ERDe0S+LLiEOiSLZYYd6HYoEE7zpzut0heRbTahY/WM8WQldoB9FMw+YwDQ6kzhrbSSxkPYn8eTm0c+bdnVsZf0jyh3RgCrGXs2biMai+vjpe3mptNqn3apz9evcJkZDgsMI4taHnBRQzMMBBsJ7g==;+MX6WAneonOXISgkkHa+wA=="

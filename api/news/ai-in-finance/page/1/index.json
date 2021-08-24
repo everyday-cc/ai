@@ -2,6 +2,41 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-24-etf-industry-vet-sharon-french-joins-fintech-platform-tifin.md",
+      "title": "ETF Industry Vet Sharon French Joins Fintech Platform, TIFIN",
+      "excerpt": "In a move that underscores the increasing importance of distribution in the ETF industry, financial industry veteran Sharon French recently joined emerging ETF and mutual fund platform TIFIN. TIFIN is a fintech platform designed to assist asset managers with their digital distribution strategy via artificial intelligence and machine learning software.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/etf-industry-vet-sharon-french-joins-fintech-platform-tifin-2021-08-23",
+      "originalUrl": "https://www.nasdaq.com/articles/etf-industry-vet-sharon-french-joins-fintech-platform-tifin-2021-08-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/etf-industry-vet-sharon-french-joins-fintech-platform-tifin-2021-08-23?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/etf-industry-vet-sharon-french-joins-fintech-platform-tifin-2021-08-23?amp",
+      "publishedDateTime": "2021-08-23T14:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-08-23-rbl-bank-partners-with-amazon-web-services-aws-to-enhance-its-ai-powered-banking-solutions.md",
       "title": "RBL Bank Partners With Amazon Web Services (AWS) To Enhance Its AI-Powered Banking Solutions",
       "excerpt": "RBL Bank has collaborated with Amazon Web Services (AWS), an Amazon.com corporation, as its ideal cloud vendor to enhance its AI-powered banking services and digital transformation. According to the bank this move will add significant value to its innovative offerings,",
@@ -141,7 +176,7 @@
       "originalUrl": "https://www.pymnts.com/startups/2021/arab-bank-back-egyptian-fintech-artificial-intelligence-cybersecurity-startups/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1316,49 +1351,6 @@
         "AI Ethics",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-facteus-joins-snowflake-partner-network-helps-financial-services-organizations-safely-migrate-sensitive-data-to-the-snowflake-data-cloud.md",
-      "title": "Facteus Joins Snowflake Partner Network; Helps Financial Services Organizations Safely Migrate Sensitive Data to the Snowflake Data Cloud",
-      "excerpt": "Facteus, a leading provider of technology and services to safely unlock actionable insights within sensitive data, today announced it is now part of the Snowflake Partner Network, focusing on enabling financial services organizations to safely access the scale,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-data-privacy-409fbb695c9145818439ee8d8af8cc6d",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-data-privacy-409fbb695c9145818439ee8d8af8cc6d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-09T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],
