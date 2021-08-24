@@ -2,6 +2,273 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2021-07-23-scientist-computer-vision-the-hague.md",
+      "title": "Scientist Computer Vision | The Hague",
+      "excerpt": "How do you want to contribute to tomorrow's world? How big can your impact be? Come and work at TNO and envision it. The selection process comprises two interview rounds. In a final meeting we will discuss the terms of employment and your tailored benefits ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tno.nl/en/career/vacancies/scientist-computer-vision-the-hague/vacid-a0s6700001npmjzean/",
+      "originalUrl": "https://www.tno.nl/en/career/vacancies/scientist-computer-vision-the-hague/vacid-a0s6700001npmjzean/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tno.nl/images/social-share-logo.jpg",
+          "width": 500,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-23T06:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TNO",
+        "domain": "www.tno.nl",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-23-wipro-recognized-as-2021-microsoft-modernizing-applications-partner-of-the-year-seite-2.md",
+      "title": "Wipro Recognized as 2021 Microsoft Modernizing Applications Partner of the Year - Seite 2",
+      "excerpt": "About Wipro Limited. Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO) is a leading global information technology, consulting and business process services company. We harness th",
+      "sourceUrl": null,
+      "webUrl": "https://www.wallstreet-online.de/nachricht/14193279-wipro-recognized-as-2021-microsoft-modernizing-applications-partner-of-the-year/2",
+      "originalUrl": "https://www.wallstreet-online.de/nachricht/14193279-wipro-recognized-as-2021-microsoft-modernizing-applications-partner-of-the-year/2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wallstreet-online.de/_amp/nachricht/14193279-wipro-recognized-as-2021-microsoft-modernizing-applications-partner-of-the-year",
+      "cdnAmpWebUrl": "https://www-wallstreet--online-de.cdn.ampproject.org/c/s/www.wallstreet-online.de/_amp/nachricht/14193279-wipro-recognized-as-2021-microsoft-modernizing-applications-partner-of-the-year",
+      "publishedDateTime": "2021-07-23T05:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "wallstreet online",
+        "domain": "wallstreet-online.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-23-all-symbols-in-tensorflow-recommenders.md",
+      "title": "All symbols in TensorFlow Recommenders",
+      "excerpt": "[{ \"type\": \"thumb-down\", \"id\": \"missingTheInformationINeed\", \"label\":\"Falta la información que necesito\" },{ \"type\": \"thumb-down\", \"id\": \"tooComplicatedTooManySteps ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/recommenders/api_docs/python/tfrs/all_symbols?hl=es-419&skip_cache=true",
+      "originalUrl": "https://www.tensorflow.org/recommenders/api_docs/python/tfrs/all_symbols?hl=es-419&skip_cache=true",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/site-assets/images/project-logos/tensorflow-recommenders-logo-social.png?hl=es-419&skip_cache=true",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-23T05:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2021-07-23-is-your-ai-ethical-three-ways-to-bake-impact-into-your-business-model.md",
+      "title": "Is Your AI Ethical? Three Ways To Bake Impact Into Your Business Model",
+      "excerpt": "By taking the necessary steps to establish standard practices for its creation and implementation now, we can ensure AI is developed safely and used for good for years to come.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/07/23/is-your-ai-ethical-three-ways-to-bake-impact-into-your-business-model/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/07/23/is-your-ai-ethical-three-ways-to-bake-impact-into-your-business-model/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e307158096349ee8effd21%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/07/23/is-your-ai-ethical-three-ways-to-bake-impact-into-your-business-model/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/07/23/is-your-ai-ethical-three-ways-to-bake-impact-into-your-business-model/amp/",
+      "publishedDateTime": "2021-07-23T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-07-23-training-platform-for-robots-eyes-global-expansion-after-23m-fundraise.md",
+      "title": "Training platform for robots eyes global expansion after £2.3m fundraise",
+      "excerpt": "A start-up with a platform that trains robots to recognise images has completed a £2.3m funding round to help it build its team in Yorkshire and expand sales of its product worldwide. The investment in Sheffield-based Mindtech Global was led by npif – Mercia Equity Finance,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thebusinessdesk.com/yorkshire/news/2078892-training-platform-for-robots-eyes-global-expansion-after-2.3m-fundraise",
+      "originalUrl": "https://www.thebusinessdesk.com/yorkshire/news/2078892-training-platform-for-robots-eyes-global-expansion-after-2.3m-fundraise",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thebusinessdesk.com/_files/images/jul_21/Mindtech_Chameleon_LostChild.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-23T03:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The UK",
+        "domain": "thebusinessdesk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-23-artificial-intelligence-firms-shield-ai-heron-systems-join-forces.md",
+      "title": "Artificial intelligence firms Shield AI, Heron Systems join forces",
+      "excerpt": "Shield AI announced on 22 July that it has acquired Heron Systems, bringing together two US software companies that are developing artificial intelligence (AI)",
+      "sourceUrl": null,
+      "webUrl": "https://www.janes.com/defence-news/news-detail/artificial-intelligence-firms-shield-ai-heron-systems-join-forces",
+      "originalUrl": "https://www.janes.com/defence-news/news-detail/artificial-intelligence-firms-shield-ai-heron-systems-join-forces",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.janes.com/images/default-source/news-images/bsp_2315-jdin-13209.jpg?sfvrsn=60068c86_2",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.janes.com/amp/artificial-intelligence-firms-shield-ai-heron-systems-join-forces/ZnlJK3dHVU9mZ28xajRJVkc5dVI5VFp1cVMwPQ2",
+      "cdnAmpWebUrl": "https://www-janes-com.cdn.ampproject.org/c/s/www.janes.com/amp/artificial-intelligence-firms-shield-ai-heron-systems-join-forces/ZnlJK3dHVU9mZ28xajRJVkc5dVI5VFp1cVMwPQ2",
+      "publishedDateTime": "2021-07-23T03:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Jane's Information Group",
+        "domain": "janes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-23-ai-governance-market-predictions-with-covid-19-analysis-key-players-ibm-google-facebook-aws.md",
       "title": "Ai Governance Market Predictions With Covid-19 Analysis, Key Players – IBM, Google, Facebook, AWS.",
       "excerpt": "To avail Sample Copy of report, visit @  Key Companies Operating in this Market IBM Google Facebook AWS Microsoft Salesforce.com SAP FICO 2021.AI ZestFinance SAS Institute Pymetrics H2O.AI integrate.ai Market by Application BFSI Healthcare and Life Sciences Government and Defense Retail and Car This report is wide in concept and content right from Ai Governance market In addition to CAGR,",
@@ -892,291 +1159,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-vochi-raises-additional-24-million-for-its-computer-vision-powered-video-editing-app.md",
-      "title": "VOCHI raises additional $2.4 million for its computer vision-powered video editing app",
-      "excerpt": "VOCHI, a Belarus-based startup behind a clever computer vision-based video editing app used by online creators, has raised an additional $2.4 million in a “late-seed” round that follows the company’s initial $1.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/22/vochi-raises-additional-2-4-million-for-its-computer-vision-powered-video-editing-app/",
-      "originalUrl": "https://techcrunch.com/2021/07/22/vochi-raises-additional-2-4-million-for-its-computer-vision-powered-video-editing-app/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/07/VOCHI-team.jpeg?w=1000",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/07/22/vochi-raises-additional-2-4-million-for-its-computer-vision-powered-video-editing-app/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/22/vochi-raises-additional-2-4-million-for-its-computer-vision-powered-video-editing-app/amp/",
-      "publishedDateTime": "2021-07-22T12:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-oneplus-nord-2-unveiled-with-dimensity-1200-ai-50mp-camera-and-more.md",
-      "title": "OnePlus Nord 2 unveiled with Dimensity 1200 AI, 50MP camera and more",
-      "excerpt": "OnePlus has announced the OnePlus Nord 2 with Dimensity 1200 AI SoC, 50MP camera with OIS, and 65W fast-charging.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizchina.com/2021/07/22/oneplus-nord-2-unveiled-with-dimensity-1200-ai-50mp-camera-and-more/",
-      "originalUrl": "https://www.gizchina.com/2021/07/22/oneplus-nord-2-unveiled-with-dimensity-1200-ai-50mp-camera-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizchina.com/wp-content/uploads/images/2021/07/OnePlus-NOrd2-2-1-1024x576.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizchina.com/2021/07/22/oneplus-nord-2-unveiled-with-dimensity-1200-ai-50mp-camera-and-more/amp/",
-      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/07/22/oneplus-nord-2-unveiled-with-dimensity-1200-ai-50mp-camera-and-more/amp/",
-      "publishedDateTime": "2021-07-22T11:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GizChina",
-        "domain": "gizchina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-deepmind-creates-transformative-map-of-human-proteins-drawn-by-artificial-intelligence.md",
-      "title": "DeepMind creates ‘transformative’ map of human proteins drawn by artificial intelligence",
-      "excerpt": "AI research lab DeepMind has created the most comprehensive map of human proteins to date using artificial intelligence. The company, a subsidiary of Google-parent Alphabet, is releasing the data ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/7/22/22586578/deepmind-alphafold-ai-protein-folding-human-proteome-released-for-free",
-      "originalUrl": "https://www.theverge.com/2021/7/22/22586578/deepmind-alphafold-ai-protein-folding-human-proteome-released-for-free",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/FCzoEFavxHNtxLa16PQcFVi_oUc=/0x0:2130x1420/1400x933/filters:focal(895x540:1235x880):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69617097/VRG_ILLO_1777_AK_body_data.0.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/7/22/22586578/deepmind-alphafold-ai-protein-folding-human-proteome-released-for-free",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/7/22/22586578/deepmind-alphafold-ai-protein-folding-human-proteome-released-for-free",
-      "publishedDateTime": "2021-07-22T11:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-waymo-to-open-offices-in-pittsburgh-an-av-tech-hub.md",
-      "title": "Waymo to open offices in Pittsburgh, an AV tech hub",
-      "excerpt": "Waymo, Google’s former self-driving car project that’s now an independent business unit under Alphabet, is expanding its presence in the eastern U.S. The company said Thursday it would be opening offices in Pittsburgh,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/22/waymo-to-open-offices-in-pittsburgh-an-av-tech-hub/",
-      "originalUrl": "https://techcrunch.com/2021/07/22/waymo-to-open-offices-in-pittsburgh-an-av-tech-hub/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/11/waymo.jpg?w=799",
-          "width": 799,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/07/22/waymo-to-open-offices-in-pittsburgh-an-av-tech-hub/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/22/waymo-to-open-offices-in-pittsburgh-an-av-tech-hub/amp/",
-      "publishedDateTime": "2021-07-22T11:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-explore-microsoft-cloud-for-healthcare-and-more-at-aug-9-13-himss21-event.md",
-      "title": "Explore Microsoft Cloud for Healthcare and more at Aug. 9-13 HIMSS21 event",
-      "excerpt": "As a sponsor of HIMSS Digital 2021, within a best-in-class digital environment, we're tailoring digital first experiences with the convenience you need, as healthcare's brightest innovators across the globe-to explore new ideas,",
-      "sourceUrl": null,
-      "webUrl": "https://www.publicnow.com/view/B26AD8DBBC29355F236E9BA44C55F775FB864496",
-      "originalUrl": "https://www.publicnow.com/view/B26AD8DBBC29355F236E9BA44C55F775FB864496",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-22T11:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "publicnow.com",
-        "domain": "publicnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-3-tech-stocks-using-artificial-intelligence-to-unlock-growth.md",
-      "title": "3 Tech Stocks Using Artificial Intelligence to Unlock Growth",
-      "excerpt": "Artificial intelligence is spreading across almost every industry in the world and helping businesses to build scale that was previously never thought possible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/07/22/3-tech-stocks-using-ai-to-unlock-growth/",
-      "originalUrl": "https://www.fool.com/investing/2021/07/22/3-tech-stocks-using-ai-to-unlock-growth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F634063%2Fa-person-in-a-car-signing-a-digital-tablet.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/07/22/3-tech-stocks-using-ai-to-unlock-growth/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/07/22/3-tech-stocks-using-ai-to-unlock-growth/",
-      "publishedDateTime": "2021-07-22T10:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

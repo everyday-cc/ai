@@ -2,6 +2,143 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-08-19-ai-firm-yitu-said-to-mull-hong-kong-ipo-after-shanghai-plan-halt.md",
+      "title": "AI Firm Yitu Said to Mull Hong Kong IPO After Shanghai Plan Halt",
+      "excerpt": "Chinese artificial intelligence company Yitu Technology is considering an initial public offering in Hong Kong after a tightening regulatory scrutiny stalled an earlier attempt to list in Shanghai, people familiar with the matter said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-08-19/ai-firm-yitu-said-to-mull-hong-kong-ipo-after-shanghai-plan-halt",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-08-19/ai-firm-yitu-said-to-mull-hong-kong-ipo-after-shanghai-plan-halt",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioSo1Zz2K1CQ/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-18T19:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-baidu-boss-robin-li-unveils-robocar-his-vision-for-the-future-of-autonomous-driving.md",
+      "title": "Baidu boss Robin Li unveils 'robocar', his vision for the future of autonomous driving",
+      "excerpt": "“Baidu has an edge in developing self-driving cars [because of] its Apollo platform,” said Peter Chen, an engineer with car components company ZF TRW in Shanghai. “The industry is keen to know to what extent its models can turn out to be autonomous.",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/digital/baidu-boss-robin-li-unveils-robocar-his-vision-future-autonomous-driving",
+      "originalUrl": "https://www.asiaone.com/digital/baidu-boss-robin-li-unveils-robocar-his-vision-future-autonomous-driving",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Aug2021/20210819_robin_twitter.jpg?itok=wDNm1WtL",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/digital/baidu-boss-robin-li-unveils-robocar-his-vision-future-autonomous-driving?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/digital/baidu-boss-robin-li-unveils-robocar-his-vision-future-autonomous-driving?amp",
+      "publishedDateTime": "2021-08-18T19:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-baidu-robocar-signals-next-stage-of-auto-tech.md",
+      "title": "Baidu robocar signals next stage of auto tech",
+      "excerpt": "Chinese internet search giant Baidu Inc on Wednesday unveiled its first level 5 self-driving robocar with no steering wheel, and an upgraded autonomous driving service platform named Luobo Kuaipao, in a bid to speed up the process of making the autonomous driving technology commercially viable.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chinadaily.com.cn/a/202108/19/WS611db208a310efa1bd669b7b.html",
+      "originalUrl": "https://www.chinadaily.com.cn/a/202108/19/WS611db208a310efa1bd669b7b.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://img2.chinadaily.com.cn/images/202108/19/611db208a310efa1e3b6c550.jpeg",
+          "width": 711,
+          "height": 473,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-18T18:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "China Daily",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-19-musks-ai-day-confronts-tough-questions-about-teslas-technology.md",
       "title": "Musk's 'AI Day' confronts tough questions about Tesla's technology",
       "excerpt": "Tesla CEO Musk is expected to reveal more about Tesla's \"Dojo\" computing system on Thursday, which he has said would process vast amounts of video data it obtains from Tesla vehicles on the road.",
@@ -1033,143 +1170,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-18-humanoid-robots-are-getting-terrifyingly-nimble-and-now-they-can-see-obstacles-in-their-way.md",
-      "title": "Humanoid robots are getting terrifyingly nimble — and now they can see obstacles in their way",
-      "excerpt": "Watch the humanoid robots from Boston Dynamics perform an unbelievable parkour routine in the latest video from the infamous robotics group.",
-      "sourceUrl": null,
-      "webUrl": "https://www.youtube.com/watch?v=tF4DML7FIWk&feature=youtu.be",
-      "originalUrl": "https://www.businessinsider.com/boston-dynamics-humanoid-robots-are-getting-terrifyingly-nimble-2021-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/tF4DML7FIWk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-18T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-18-honeywell-iit-hyderabad-tie-up-for-artificial-intelligence-lab.md",
-      "title": "Honeywell, IIT-Hyderabad tie up for Artificial Intelligence lab",
-      "excerpt": "HTS and IIT-Hyderabad would together do research on technologies that solve problems of the future with AI as the major focus area",
-      "sourceUrl": null,
-      "webUrl": "https://www.deccanchronicle.com/business/companies/180821/honeywell-iit-hyderabad-tie-up-for-artificial-intelligence-lab.html",
-      "originalUrl": "https://www.deccanchronicle.com/business/companies/180821/honeywell-iit-hyderabad-tie-up-for-artificial-intelligence-lab.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-7dcvics2q243c25fc6las4r8p6-20210818182700.Medi.jpeg",
-          "width": 800,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.deccanchronicle.com/amp/business/companies/180821/honeywell-iit-hyderabad-tie-up-for-artificial-intelligence-lab.html",
-      "cdnAmpWebUrl": "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/business/companies/180821/honeywell-iit-hyderabad-tie-up-for-artificial-intelligence-lab.html",
-      "publishedDateTime": "2021-08-18T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deccan Chronicle",
-        "domain": "deccanchronicle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-18-azure-government-top-secret-now-available-for-us-national-security-missions.md",
-      "title": "Azure Government Top Secret now available for US national security missions",
-      "excerpt": "Microsoft recently announced that cloud-based service Azure Government Top Secret is now going to aid national security missions in the US.",
-      "sourceUrl": null,
-      "webUrl": "https://news.thewindowsclub.com/azure-government-top-secret-now-available-106117/",
-      "originalUrl": "https://news.thewindowsclub.com/azure-government-top-secret-now-available-106117/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.thewindowsclub.com/wp-content/uploads/2021/08/azure-govt-top-secret.jpg",
-          "width": 700,
-          "height": 395,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://news.thewindowsclub.com/azure-government-top-secret-now-available-106117/?amp",
-      "cdnAmpWebUrl": "https://news-thewindowsclub-com.cdn.ampproject.org/c/s/news.thewindowsclub.com/azure-government-top-secret-now-available-106117/?amp",
-      "publishedDateTime": "2021-08-18T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TWCN Tech News",
-        "domain": "thewindowsclub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

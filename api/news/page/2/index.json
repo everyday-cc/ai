@@ -2,6 +2,195 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-24-etf-industry-vet-sharon-french-joins-fintech-platform-tifin.md",
+      "title": "ETF Industry Vet Sharon French Joins Fintech Platform, TIFIN",
+      "excerpt": "In a move that underscores the increasing importance of distribution in the ETF industry, financial industry veteran Sharon French recently joined emerging ETF and mutual fund platform TIFIN. TIFIN is a fintech platform designed to assist asset managers with their digital distribution strategy via artificial intelligence and machine learning software.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/etf-industry-vet-sharon-french-joins-fintech-platform-tifin-2021-08-23",
+      "originalUrl": "https://www.nasdaq.com/articles/etf-industry-vet-sharon-french-joins-fintech-platform-tifin-2021-08-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/etf-industry-vet-sharon-french-joins-fintech-platform-tifin-2021-08-23?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/etf-industry-vet-sharon-french-joins-fintech-platform-tifin-2021-08-23?amp",
+      "publishedDateTime": "2021-08-23T14:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-how-ai-will-reshape-software-development.md",
+      "title": "How AI will reshape software development",
+      "excerpt": "The first area to face a new AI-driven operating paradigm may be the one that created AI in the first place: software development.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/23/how-ai-will-reshape-software-development/",
+      "originalUrl": "https://venturebeat.com/2021/08/23/how-ai-will-reshape-software-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-855686630-e1629739858292.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/23/how-ai-will-reshape-software-development/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/23/how-ai-will-reshape-software-development/amp/",
+      "publishedDateTime": "2021-08-23T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-the-dos-and-donts-of-machine-learning-research.md",
+      "title": "The dos and don’ts of machine learning research",
+      "excerpt": "The Transform Technology Summits start October 13th with Low-Code/No Code: Enabling Enterprise Agility. Register now! Machine learning is becoming an important tool in many industries and fields of science.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/23/the-dos-and-donts-of-machine-learning-research/",
+      "originalUrl": "https://venturebeat.com/2021/08/23/the-dos-and-donts-of-machine-learning-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/machine-learning-challenges.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/23/the-dos-and-donts-of-machine-learning-research/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/23/the-dos-and-donts-of-machine-learning-research/amp/",
+      "publishedDateTime": "2021-08-23T11:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-kapacityio-is-using-ai-to-drive-energy-and-emissions-savings-for-real-estate.md",
+      "title": "Kapacity.io is using AI to drive energy and emissions savings for real estate",
+      "excerpt": "Y Combinator-backed Kapacity.io is on a mission to accelerate the decarbonization of buildings by using AI-generated efficiency savings to encourage electrification of commercial real estate — wooing buildings away from reliance on fossil fuels to power their heating and cooling needs.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/08/23/kapacity-io-is-using-ai-to-drive-energy-and-emissions-savings-for-real-estate/",
+      "originalUrl": "https://techcrunch.com/2021/08/23/kapacity-io-is-using-ai-to-drive-energy-and-emissions-savings-for-real-estate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/Kapacity_founders.jpeg?w=1024",
+          "width": 1024,
+          "height": 714,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/08/23/kapacity-io-is-using-ai-to-drive-energy-and-emissions-savings-for-real-estate/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/23/kapacity-io-is-using-ai-to-drive-energy-and-emissions-savings-for-real-estate/amp/",
+      "publishedDateTime": "2021-08-23T11:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-23-teslas-blackface-robot-promoting-slavery-as-fantasy.md",
       "title": "Tesla’s Blackface Robot: Promoting Slavery as Fantasy?",
       "excerpt": "An infamous blackface performance by Tesla indicates to me the company is promoting a fantasy of robots that invokes a discussion of slavery. What do you see here? Does the fashion statement of a white men dressed all in black seem odd,",
@@ -1029,199 +1218,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-tesla-is-developing-a-robot-if-combined-with-neuralink-it-may-have-revolutionary-healthcare-applications.md",
-      "title": "Tesla Is Developing A Robot. If Combined With Neuralink, It May Have Revolutionary Healthcare Applications",
-      "excerpt": "Last week, during Tesla’s much anticipated “AI Day,” an event meant to showcase the company’s revolutionary strides in artificial intelligence technology, Musk announced the next frontier for the company: developing the Tesla Bot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/saibala/2021/08/22/tesla-is-developing-a-robot-if-combined-with-neuralink-it-may-have-revolutionary-healthcare-applications/",
-      "originalUrl": "https://www.forbes.com/sites/saibala/2021/08/22/tesla-is-developing-a-robot-if-combined-with-neuralink-it-may-have-revolutionary-healthcare-applications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61230c3d88806ceaeee3c8cd%2F0x0.jpg",
-          "width": 1200,
-          "height": 857,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/saibala/2021/08/22/tesla-is-developing-a-robot-if-combined-with-neuralink-it-may-have-revolutionary-healthcare-applications/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2021/08/22/tesla-is-developing-a-robot-if-combined-with-neuralink-it-may-have-revolutionary-healthcare-applications/amp/",
-      "publishedDateTime": "2021-08-22T19:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-5-dutch-ai-companies-transforming-finance-healthcare-and-agriculture.md",
-      "title": "5 Dutch AI companies transforming finance, healthcare and agriculture",
-      "excerpt": "AI in the Netherlands is booming: A Techleap.nl 2021 report found that 10% of all registered AI start-ups worldwide are based in the Netherlands. The nation has the highest density of AI start-ups per capita in Europe. In addtion, there are a number of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3630648/5-dutch-ai-companies-transforming-finance-healthcare-and-agriculture.html",
-      "originalUrl": "https://www.computerworld.com/article/3630648/5-dutch-ai-companies-transforming-finance-healthcare-and-agriculture.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2021/06/artificial_intelligence_automation_digital_brain_thinkstock_875595818-100749926-orig-100893865-large.jpg?auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-22T17:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-for-small-businesses-mastering-googles-ai-is-a-better-investment-than-paid-ads-heres-why.md",
-      "title": "For Small Businesses, Mastering Google’s AI Is A Better Investment Than Paid Ads - Here’s Why",
-      "excerpt": "When users find exactly what they’re looking for on Google, they have a good experience - websites that help users have a good experience get rewarded with higher rankings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/08/22/for-small-businesses-mastering-googles-ai-is-a-better-investment-than-paid-adsheres-why/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/08/22/for-small-businesses-mastering-googles-ai-is-a-better-investment-than-paid-adsheres-why/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6122f08e296d0f917cc29d26%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1311%26cropY1%3D573%26cropY2%3D1311",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/08/22/for-small-businesses-mastering-googles-ai-is-a-better-investment-than-paid-adsheres-why/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/08/22/for-small-businesses-mastering-googles-ai-is-a-better-investment-than-paid-adsheres-why/amp/",
-      "publishedDateTime": "2021-08-22T17:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-future-tesla-ai-cloud-vs-amazon-aws-google-cloud-alibaba.md",
-      "title": "Future Tesla AI Cloud Vs Amazon AWS, Google Cloud, Alibaba",
-      "excerpt": "Home » Artificial intelligence » Future Tesla AI Cloud Vs Amazon AWS, Google Cloud, Alibaba The Amazon AWS Global Infrastructure is built for performance. AWS Regions offer low latency, low packet loss,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextbigfuture.com/2021/08/future-tesla-ai-cloud-vs-amazon-aws-google-cloud-alibaba.html",
-      "originalUrl": "https://www.nextbigfuture.com/2021/08/future-tesla-ai-cloud-vs-amazon-aws-google-cloud-alibaba.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nextbigfuture.s3.amazonaws.com/uploads/2021/08/Screen-Shot-2021-08-19-at-7.39.33-PM-1024x571.jpg",
-          "width": 1024,
-          "height": 571,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextbigfuture.com/2021/08/future-tesla-ai-cloud-vs-amazon-aws-google-cloud-alibaba.html",
-      "cdnAmpWebUrl": "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/08/future-tesla-ai-cloud-vs-amazon-aws-google-cloud-alibaba.html",
-      "publishedDateTime": "2021-08-22T17:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NextBigFuture",
-        "domain": "nextbigfuture.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AWS AI"
       ]
     }
   ],

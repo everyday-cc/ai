@@ -2,6 +2,308 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-08-09-voice-ai-technology-is-more-advanced-than-you-might-think.md",
+      "title": "Voice AI Technology Is More Advanced Than You Might Think",
+      "excerpt": "The average person has yet to interact with the next generation of voice AI tools, but what this technology is capable of has the potential to change the world as we know it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/08/08/voice-ai-technology-is-more-advanced-than-you-might-think/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/08/08/voice-ai-technology-is-more-advanced-than-you-might-think/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61103c5cfe089cdecf419c52%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5158%26cropY1%3D262%26cropY2%3D3163",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/08/08/voice-ai-technology-is-more-advanced-than-you-might-think/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/08/08/voice-ai-technology-is-more-advanced-than-you-might-think/amp/",
+      "publishedDateTime": "2021-08-08T13:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-08-ai-bias-is-prevalent-but-preventable-heres-how-to-root-it-out.md",
+      "title": "AI bias is prevalent but preventable — here’s how to root it out",
+      "excerpt": "A number of framework and toolkit resources are available to help you identify and mitigate bias in your AI applications.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/08/ai-bias-is-prevalent-but-preventable-heres-how-to-root-it-out/",
+      "originalUrl": "https://venturebeat.com/2021/08/08/ai-bias-is-prevalent-but-preventable-heres-how-to-root-it-out/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/05/mobile-devices-emitting-data-in-a-crowd-of-people-picture-id522636128-1.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/08/ai-bias-is-prevalent-but-preventable-heres-how-to-root-it-out/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/08/ai-bias-is-prevalent-but-preventable-heres-how-to-root-it-out/amp/",
+      "publishedDateTime": "2021-08-08T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-08-what-to-expect-from-teslas-ai-day-scheduled-for-aug-19.md",
+      "title": "What to Expect From Tesla's AI Day Scheduled for Aug. 19",
+      "excerpt": "Tesla, Inc. (NASDAQ: TSLA) is scheduled to host its AI Day Aug.19, and the EV maker began sending invites for the event last week.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/what-to-expect-from-tesla-s-ai-day-scheduled-for-aug-19-1030704372",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/what-to-expect-from-tesla-s-ai-day-scheduled-for-aug-19-1030704372",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/tesla_29.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-08T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-08-08-employers-are-waging-a-war-over-work-from-home-wfh-is-winning.md",
+      "title": "Employers are waging a war over work from home. WFH is winning.",
+      "excerpt": "Welcome to Insider Weekly, where we run through the top stories of the past week. First up, employees are winning the war to WFH.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/top-business-stories-employees-winning-in-war-over-wfh-2021-8",
+      "originalUrl": "https://www.businessinsider.com/top-business-stories-employees-winning-in-war-over-wfh-2021-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/61098bfb372268001a59751c?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/top-business-stories-employees-winning-in-war-over-wfh-2021-8?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/top-business-stories-employees-winning-in-war-over-wfh-2021-8?amp",
+      "publishedDateTime": "2021-08-08T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-08-trouble-at-googles-deepmind-and-tech-workers-not-going-back-to-the-office.md",
+      "title": "Trouble at Google’s DeepMind and tech workers not going back to the office",
+      "excerpt": "In this week's edition of the Insider Tech newsletter we look at an investigation of a Google VP, tech workers saying no to the office, and more.",
+      "sourceUrl": null,
+      "webUrl": "https://businessinsider.mx/trouble-at-googles-deepmind-tech-workers-refuse-the-office-2021-8/",
+      "originalUrl": "https://businessinsider.mx/trouble-at-googles-deepmind-tech-workers-refuse-the-office-2021-8/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/610c60112a24d0001861fc02?format=jpeg",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-08T06:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businessinsider",
+        "domain": "businessinsider.mx",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-08-3-ai-stocks-to-buy-and-hold-for-the-next-decade.md",
+      "title": "3 AI Stocks to Buy and Hold for the Next Decade",
+      "excerpt": "Waymo vehicles have been driving the streets ... As its customer processes get more complex, artificial intelligence will be a critical component to make all of this smart technology work together.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/08/08/3-ai-stocks-to-buy-and-hold-for-the-next-decade/",
+      "originalUrl": "https://www.fool.com/investing/2021/08/08/3-ai-stocks-to-buy-and-hold-for-the-next-decade/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F637762%2Fgettyimages-cloud-computing-server-room.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/08/08/3-ai-stocks-to-buy-and-hold-for-the-next-decade/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/08/08/3-ai-stocks-to-buy-and-hold-for-the-next-decade/",
+      "publishedDateTime": "2021-08-08T05:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-08-your-nvidia-rtx-gpu-doesnt-just-play-games-it-helps-you-make-them-too.md",
       "title": "Your Nvidia RTX GPU doesn’t just play games – it helps you make them too",
       "excerpt": "If you’re not very familiar with PC building or components then you might not realize that Nvidia has other lines of graphics cards that are created for things outside of running demanding titles like Microsoft Flight Simulator,",
@@ -832,290 +1134,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-07-3-top-artificial-intelligence-stocks-to-buy-in-august.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy in August",
-      "excerpt": "Artificial intelligence systems have become a critical ingredient in the tech sector's recipe for growth, with applications that help boost the capabilities of everything from search engines to autonomous vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/08/06/3-top-artificial-intelligence-stocks-buy-in-august/",
-      "originalUrl": "https://www.fool.com/investing/2021/08/06/3-top-artificial-intelligence-stocks-buy-in-august/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.ycharts.com/charts/6c579929ba394e7a4b04230f9c838787.png",
-          "width": 720,
-          "height": 433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/08/06/3-top-artificial-intelligence-stocks-buy-in-august/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/08/06/3-top-artificial-intelligence-stocks-buy-in-august/",
-      "publishedDateTime": "2021-08-06T12:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-07-modelling-perception-with-artificial-neural-networks.md",
-      "title": "Modelling Perception with Artificial Neural Networks",
-      "excerpt": "The drive behind this change has been the increasing availability of neural network models. With contributions from experts in the field, this book provides a complete survey of artificial neural networks. The book opens with two broad, introductory level ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/do/academic/subjects/life-sciences/neuroscience/modelling-perception-artificial-neural-networks?format=HB&isbn=9780521763950",
-      "originalUrl": "https://www.cambridge.org/do/academic/subjects/life-sciences/neuroscience/modelling-perception-artificial-neural-networks?format=HB&isbn=9780521763950",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-06T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-07-facial-recognition-market-business-intelligence-report-and-financial-insights.md",
-      "title": "Facial Recognition Market Business Intelligence Report and Financial Insights",
-      "excerpt": "The post-COVID 19 global Facial Recognition Market size is expected to grow from USD XX billion in 2020 to USD 8.5 billion",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-business-intelligence-report-and-financial-insights-2021-08-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-business-intelligence-report-and-financial-insights-2021-08-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-06T12:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-07-senpaigg-wants-to-be-your-ai-powered-video-game-coach.md",
-      "title": "SenpAI.GG wants to be your AI-powered video game coach",
-      "excerpt": "With most popular modern video games, there’s a huge gap between being a good player and a great one. A casual player might be able to hold their own against other casual players, only for a random pro to wander by and chew through everyone like they’re somehow playing with a different",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/08/06/senpai-gg-wants-to-be-your-ai-powered-video-game-coach/",
-      "originalUrl": "https://techcrunch.com/2021/08/06/senpai-gg-wants-to-be-your-ai-powered-video-game-coach/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/08/Valorant.jpg?w=1024",
-          "width": 1024,
-          "height": 559,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/08/06/senpai-gg-wants-to-be-your-ai-powered-video-game-coach/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/06/senpai-gg-wants-to-be-your-ai-powered-video-game-coach/amp/",
-      "publishedDateTime": "2021-08-06T12:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-make-your-audio-and-video-files-searchable-using-amazon-transcribe-and-amazon-kendra.md",
-      "title": "Make your audio and video files searchable using Amazon Transcribe and Amazon Kendra",
-      "excerpt": "The demand for audio and video media content is growing at an unprecedented rate. Organizations are using media to engage with their audiences like never before. Product documentation is increasingly published in video form, and podcasts are increasingly produced in place of blog posts. The recent explosion",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/make-your-audio-and-video-files-searchable-using-amazon-transcribe-and-amazon-kendra/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/make-your-audio-and-video-files-searchable-using-amazon-transcribe-and-amazon-kendra/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/06/ML-4364-image001.png",
-          "width": 903,
-          "height": 571,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-06T12:06:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-08-07-vatican-killer-robots-pose-threat-to-innocent-civilians.md",
-      "title": "Vatican: ‘Killer robots’ pose threat to innocent civilians",
-      "excerpt": "The use of \"killer robots\" and other lethal autonomous weapons systems violate international treaties because innocent civilians could be erroneously targeted, the Vatican said during a U.N. meeting in Geneva.",
-      "sourceUrl": null,
-      "webUrl": "https://cruxnow.com/vatican/2021/08/vatican-killer-robots-pose-threat-to-innocent-civilians/",
-      "originalUrl": "https://cruxnow.com/vatican/2021/08/vatican-killer-robots-pose-threat-to-innocent-civilians/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cruxnow.com/wp-content/uploads/2021/08/20210806T0845-VATICAN-AUTONOMOUS-WEAPONS-1505954-scaled.jpg",
-          "width": 2560,
-          "height": 1777,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cruxnow.com/vatican/2021/08/vatican-killer-robots-pose-threat-to-innocent-civilians/amp/",
-      "cdnAmpWebUrl": "https://cruxnow-com.cdn.ampproject.org/c/s/cruxnow.com/vatican/2021/08/vatican-killer-robots-pose-threat-to-innocent-civilians/amp/",
-      "publishedDateTime": "2021-08-06T11:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crux",
-        "domain": "cruxnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

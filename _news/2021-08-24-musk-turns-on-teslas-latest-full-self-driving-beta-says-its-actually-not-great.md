@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/cars/2021/08/musk-turns-on-teslas-latest-f
 webUrl: "https://arstechnica.com/cars/2021/08/musk-turns-on-teslas-latest-full-self-driving-beta-says-its-actually-not-great/"
 type: article
 quality: 63
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Musk says Tesla's self-driving software update 'not great'"
+    excerpt: "The automaker has recently faced scrutiny from U.S. safety regulators because of accidents linked to its driver assistant system."
+    publishedDateTime: 2021-08-24T10:20:00Z
+    webUrl: "https://europe.autonews.com/automakers/musk-says-teslas-self-driving-software-update-not-great"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 39
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Tesla%20Autopilot%20web.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Tesla sells ‘Full Self-Driving,’ but what is it really?"
     excerpt: "Editor's note: This story is available as a result of a content partnership with The New York Times. Subscribers will see stories like this every day on our website (and in our daily emails) as an added value to your subscription. As U.S. investigators ..."
     publishedDateTime: 2021-08-20T21:35:00Z
@@ -55,6 +69,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "qx+DVPBHbOuebFczR6zpzIv5FvLKjcIirKfscGFyRzNj3KKjW/2V+8Brw6A7e1f/IS4twXLAZhRLWsYSSqb0dUK2q6J7mI7CcGW7Mvtib/E9QVVp8s3hoY+rdvrDy3tQsfIbgPK+2ZvDsReWmyOSeVrHe0r4Ch2Q3Gz7eDAWpQ4GBMZmZfirQMpqjM6ocFJVojGDB+KrGrSP/7Sv+OlcxIIo1S0jWA2QLVvKW/012KK+2huEb0beD7Khc3dI8vo48GrPL2y8Csy+93hYzf+aA8uzeUmRu3OScA3uas60IMT73qOKM6sP9cFH2fmFm5SY5Osf6fn1B9cCO3tVI+yGXv+ehYUttyvnRPpdiFWOr30=;d7B2ww32NoGxdhC8sTo7uQ=="
+secured: "lkdJVSwdgYoifoxkUaorWTBOvrEBRjnH/PKQsCv/VadSsK8fFA0A+qpyuiW9P6RHVYxNehX0BPP+QtMxvf+t6V2fo5sy7B5e/mlpPja/ybNnkW+4a7d9QLDc6RbbibalJ4tbBHLM7ZkgXT/YacRMS5gRju70wi6BkOZtWk8w8ZN0Gnvb3kbnTHN8Wowempmw6o+JOML+gc8rl1s8cdoDzp49AnUHcNi3esIzpKXcl8eOyZ7dkUU7/iglSlHtIzShrTPnEW5KodrU7HsMpBv6rr9EYf/gEPUaXxPk6jBeV9iSghdswGCKjFVPnaHfXSVBTP3P+7fotcgyT2GzJzZJgOLl9uP2h8SlIrVVc7kqt/YF1oT58NaWMPBaWSaNqmJ4WW03C92KpvQI1AB9vQ2JHBI/exHrgHK3xgQGl1ISHB4nN9DyReqv+B1bHBl3j4rNoFIsNALkpLzlebiKMGGSf0FFZSAyxVTI/ljGD2pXHdfr3SAK4Z7hdf0RXdtTmDMn7feIFcO9prZOTlKBipxNLw==;1RC27ZOz+hfwNzomCk+BtA=="
 ---
 

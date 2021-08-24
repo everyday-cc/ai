@@ -2,6 +2,143 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-08-18-humanoid-robots-are-getting-terrifyingly-nimble-and-now-they-can-see-obstacles-in-their-way.md",
+      "title": "Humanoid robots are getting terrifyingly nimble — and now they can see obstacles in their way",
+      "excerpt": "Watch the humanoid robots from Boston Dynamics perform an unbelievable parkour routine in the latest video from the infamous robotics group.",
+      "sourceUrl": null,
+      "webUrl": "https://www.youtube.com/watch?v=tF4DML7FIWk&feature=youtu.be",
+      "originalUrl": "https://www.businessinsider.com/boston-dynamics-humanoid-robots-are-getting-terrifyingly-nimble-2021-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tF4DML7FIWk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-18T06:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-18-honeywell-iit-hyderabad-tie-up-for-artificial-intelligence-lab.md",
+      "title": "Honeywell, IIT-Hyderabad tie up for Artificial Intelligence lab",
+      "excerpt": "HTS and IIT-Hyderabad would together do research on technologies that solve problems of the future with AI as the major focus area",
+      "sourceUrl": null,
+      "webUrl": "https://www.deccanchronicle.com/business/companies/180821/honeywell-iit-hyderabad-tie-up-for-artificial-intelligence-lab.html",
+      "originalUrl": "https://www.deccanchronicle.com/business/companies/180821/honeywell-iit-hyderabad-tie-up-for-artificial-intelligence-lab.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-7dcvics2q243c25fc6las4r8p6-20210818182700.Medi.jpeg",
+          "width": 800,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.deccanchronicle.com/amp/business/companies/180821/honeywell-iit-hyderabad-tie-up-for-artificial-intelligence-lab.html",
+      "cdnAmpWebUrl": "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/business/companies/180821/honeywell-iit-hyderabad-tie-up-for-artificial-intelligence-lab.html",
+      "publishedDateTime": "2021-08-18T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deccan Chronicle",
+        "domain": "deccanchronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-18-azure-government-top-secret-now-available-for-us-national-security-missions.md",
+      "title": "Azure Government Top Secret now available for US national security missions",
+      "excerpt": "Microsoft recently announced that cloud-based service Azure Government Top Secret is now going to aid national security missions in the US.",
+      "sourceUrl": null,
+      "webUrl": "https://news.thewindowsclub.com/azure-government-top-secret-now-available-106117/",
+      "originalUrl": "https://news.thewindowsclub.com/azure-government-top-secret-now-available-106117/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.thewindowsclub.com/wp-content/uploads/2021/08/azure-govt-top-secret.jpg",
+          "width": 700,
+          "height": 395,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://news.thewindowsclub.com/azure-government-top-secret-now-available-106117/?amp",
+      "cdnAmpWebUrl": "https://news-thewindowsclub-com.cdn.ampproject.org/c/s/news.thewindowsclub.com/azure-government-top-secret-now-available-106117/?amp",
+      "publishedDateTime": "2021-08-18T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TWCN Tech News",
+        "domain": "thewindowsclub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-08-18-ai-powered-design-platform-uizard-picks-up-15m.md",
       "title": "AI-powered design platform Uizard picks up $15M",
       "excerpt": "Uizard, an AI-powered mobile app and desktop software design platform, has raised $15 million in venture capital financing.",
@@ -1022,152 +1159,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-18-intel-teases-reveal-of-arcs-ai-powered-dlss-super-sampling-alternative-this-week.md",
-      "title": "Intel teases reveal of Arc's AI-powered DLSS Super Sampling alternative this week",
-      "excerpt": "Intel appears ready to announce its new AI-powered super sampling GPU technology later this week in a direct challenge to Nvidia's DLSS dominance in the PC gaming market. Anton Kaplanyan, Intel's VP of Graphics Research,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/nz/news/intel-teases-reveal-of-arcs-ai-powered-dlss-super-sampling-alternative-this-week",
-      "originalUrl": "https://www.techradar.com/nz/news/intel-teases-reveal-of-arcs-ai-powered-dlss-super-sampling-alternative-this-week",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/Zz5WnbkRM7bZ9mGtE7sGZG-1200-80.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/nz/amp/news/intel-teases-reveal-of-arcs-ai-powered-dlss-super-sampling-alternative-this-week",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/intel-teases-reveal-of-arcs-ai-powered-dlss-super-sampling-alternative-this-week",
-      "publishedDateTime": "2021-08-17T10:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-closedloopai-nets-34m-in-series-b-funding-round.md",
-      "title": "ClosedLoop.ai Nets $34M In Series B Funding Round",
-      "excerpt": "ClosedLoop.ai., a healthcare platform powered by artificial intelligence, on Tuesday (Aug. 17) announced it has raised $34 million in Series B funding.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/investment-tracker/2021/closedloop-ai-nets-34m-series-b-funding-round/",
-      "originalUrl": "https://www.pymnts.com/news/investment-tracker/2021/closedloop-ai-nets-34m-series-b-funding-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/08/healthcare-telehealth-5G-JPMorgan-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/investment-tracker/2021/closedloop-ai-nets-34m-series-b-funding-round/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/closedloop-ai-nets-34m-series-b-funding-round/amp/",
-      "publishedDateTime": "2021-08-17T09:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-use-block-kit-when-integrating-amazon-lex-bots-with-slack.md",
-      "title": "Use Block Kit when integrating Amazon Lex bots with Slack",
-      "excerpt": "If you’re integrating your Amazon Lex chatbots with Slack, chances are you’ll come across Block Kit. Block Kit is a UI framework for Slack apps. Like response cards, Block Kit can help simplify interactions with your users. It offers flexibility to format your bot messages with blocks, buttons, check",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-block-kit-when-integrating-amazon-lex-bots-with-slack/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-block-kit-when-integrating-amazon-lex-bots-with-slack/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/04/ML-2976-image001.jpg",
-          "width": 795,
-          "height": 389,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-17T08:48:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

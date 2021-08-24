@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/20/how-modern
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/20/how-modern-ai-enabled-automation-unlocks-full-human-potential/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "AI/Human Augmentation: How AI & Humans Can Work Together"
+    excerpt: "Many predictions to the outcome of the humans and artificial intelligence take an either/or approach. Skynet is determined to end the human race in The Terminator. In The Matrix, the machines have learned to farm humans for battery power."
+    publishedDateTime: 2021-08-24T16:15:00Z
+    webUrl: "https://www.bmc.com/blogs/ai-human-augmentation/"
+    type: article
+    provider:
+      name: BMC Software
+      domain: bmc.com
+    quality: 37
+    images:
+      - url: "https://s7280.pcdn.co/wp-content/uploads/2021/08/challenges-of-ai.png"
+        width: 573
+        height: 494
+        isCached: true
 
 secured: "GiN/GqDzdkiUdYkcVQzuqriBBq7sQ7hPFdB0SXbchNIIW5x9EsbB8OGTyahcmIqI05XezvGdfVwY1r0+VFT5zcLJNej5UGyONxV2wO3eQ+X9lt1xq3kEouwOUFurYXujNRAto652bOpHlilSTzw1xjnD9GB6USvg4YYJZzHnQVY0IzByrnvYIWMMcXiKLp8/XXBwQULCQB2yu8PWcxcPm5ECPVQn/F+jFB7qlnbGYyfjIWAIX4yBdCJR1Jsk94UtYrysURC6KdrpwOzdE9HkO/fDfeojQxXyjP5pLaKBtWHMTydPRBaPNgcNIJRrU0Xu1imKYxHOiNybOsTChqbVe+SSP9cklISNXW7i1gg8+IeAT61+xpl44oHLf4XUmbJcCBY5zjjWCh1qeY9rD++Gr+QIcZgyhkHfnZdE+b8n/aeMqL3m9OQJWePX0uRcAaLRq07nG7nNcVnbuIs8JG5AwBk4jAgrw7ZtH/wrS4FaHoFc/IFOvmdOKadyGUwSaTbMXGGbrFaj9AISagLFPeGiYg==;0p3RJdSmXwv58WUI/hphLQ=="
 ---

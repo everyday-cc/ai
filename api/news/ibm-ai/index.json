@@ -90,6 +90,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-13-ai-architectures-must-change.md",
+      "title": "AI Architectures Must Change",
+      "excerpt": "Today, AI is the focus of many researchers ... “In 1997 we had Deep Blue beating Kasperov, in 2011, IBM Watson playing Jeopardy, and in 2016, Alpha Go went against Lee Sedol and won. Those are great achievements. But the question is, at what cost?",
+      "sourceUrl": null,
+      "webUrl": "https://semiengineering.com/ai-architectures-must-change/",
+      "originalUrl": "https://semiengineering.com/ai-architectures-must-change/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://semiengineering.com/wp-content/uploads/2018/08/BB_Picture1_Architectures_for_AI.png",
+          "width": 974,
+          "height": 543,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Semiconductor Engineering",
+        "domain": "semiengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-12-edcast-announces-new-myguide-features-using-ibm-cloud-and-watson-technologies-to-power-its-intelligent-digital-adoption-solution.md",
       "title": "EdCast Announces New MyGuide Features Using IBM Cloud and Watson Technologies to Power its Intelligent Digital Adoption Solution",
       "excerpt": "EdCast announced today that its digital adoption platform, MyGuide by EdCast, has now launched new self-serve support features utilizing the advanced AI capabilities of IBM Watson to bring future-ready conversational capabilities to enterprises.",
@@ -1287,58 +1330,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-ai-success-in-the-supply-chain-depends-on-human-augmentation.md",
-      "title": "AI Success In The Supply Chain Depends On Human Augmentation",
-      "excerpt": "It is only through human augmentation and understanding how everything works together that AI success in the supply chain will happen.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/paulnoble/2021/07/13/ai-success-in-the-supply-chain-depends-on-human-augmentation/",
-      "originalUrl": "https://www.forbes.com/sites/paulnoble/2021/07/13/ai-success-in-the-supply-chain-depends-on-human-augmentation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60edae973c02fcc76f59d7ab%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1271%26cropY1%3D1%26cropY2%3D716",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/paulnoble/2021/07/13/ai-success-in-the-supply-chain-depends-on-human-augmentation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulnoble/2021/07/13/ai-success-in-the-supply-chain-depends-on-human-augmentation/amp/",
-      "publishedDateTime": "2021-07-13T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

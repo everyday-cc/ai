@@ -2,17 +2,17 @@
 category: news
 title: "Financial Service versus Fraud – the Battle Continues"
 excerpt: "Where there is money and people, cyber crime isn’t usually far behind, and this was exacerbated in 2020 when financial institutions (FIs) were knocked sideways by the pandemic. Business processes were significantly disrupted by office closures and the need to adapt back-end IT systems,"
-publishedDateTime: 2021-08-24T15:51:00Z
-originalUrl: "https://www.inforisktoday.com/blogs/financial-service-versus-fraud-battle-continues-p-3095"
-webUrl: "https://www.inforisktoday.com/blogs/financial-service-versus-fraud-battle-continues-p-3095"
+publishedDateTime: 2021-08-24T15:35:00Z
+originalUrl: "https://www.govinfosecurity.com/blogs/financial-service-versus-fraud-battle-continues-p-3095"
+webUrl: "https://www.govinfosecurity.com/blogs/financial-service-versus-fraud-battle-continues-p-3095"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: Info Risk Today
-  domain: inforisktoday.com
+  name: HHS
+  domain: govinfosecurity.com
 
 topics:
   - AI in Finance
@@ -24,6 +24,6 @@ images:
     height: 520
     isCached: true
 
-secured: "tsMpbTpYFJDCzhDVcUDpGniaDVA+Wo5DL6cgIilibyMGAbX5XGspfxLLJVCYL7eoJ4abWxazecCzGc55xtAFIXYjQSj9pxnd3Cj3MbhFXVQf2QWmZEt05yOWFqWT4CyBPD5kfsbk9U2MOimUlzq4ztMDPOB6vtby3IoGUO7fYUpsFE9GE/tmOxLTUerKRTYBwTRnb11oFoSNQQ5H+wR9kofsdPGsXtJeojXbIZ3qvOIzDMoHqH3ExmyymQ25JOS95Le8w+0aLudqAlhiLJF+JC6dcFYFvfhWFDS7MRZzSgqqNhVsFTQZt9dgHd9IGNJDkEm+8X+2e6mm8urz927UcF9Qni5hLyqFoHM3/yTdPvo=;uTp8qHOkBCehcxh9eXXCJA=="
+secured: "so0BiEnhu5+K3rVXvqML6Et+NWL3vwj0pzUVHwslPENkzcwyOApdDvLLDOe0GYTBWyEdpPFrBSRO54baNAhSw+a75jLl3OGyWOFmhquZiGQwaNSf0oVa73gfzpme+UhdOD71TMMboGI6rZb0XpwaKRFH+QC2Pyd4VbEuEwbceDEJQKE7znBWDgEVftzrpegL+wVOkbfE/66bGcUCqRRYkk0gMPzR587UpoLtcMWCK4Frr0pBvmudxnZkyKlUrcRmYhObfbT+TPk5l4vG3+BNnDiRj69a2+3IeZyOfQilwnnC5n2pPRgxMrEdzn9+Upvvg+ci+Zpx7fXHo/fIXp4T2rdrHIaxX9qJ3wV9l+NCdyE=;Co6BZg7lbOup67UtYsS/5A=="
 ---
 

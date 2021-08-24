@@ -10,7 +10,7 @@
       "originalUrl": "https://arstechnica.com/cars/2021/08/musk-turns-on-teslas-latest-full-self-driving-beta-says-its-actually-not-great/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -405,7 +405,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/21/angst-and-worries-that-forbidden-knowledge-could-be-revealed-by-developing-ai-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -445,7 +445,8 @@
       ],
       "topics": [
         "AI",
-        "AI in Autos"
+        "AI in Autos",
+        "AI Ethics"
       ]
     },
     {
@@ -509,7 +510,7 @@
       "originalUrl": "https://auto.hindustantimes.com/auto/news/tesla-ai-day-ev-maker-shows-improved-self-driving-tech-for-autopilot-41629439031382.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -701,7 +702,7 @@
       "originalUrl": "https://www.cnet.com/news/elon-musk-unveils-tesla-bot-a-humanoid-robot-utilizing-vehicle-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1001,
+      "heat": 1021,
       "tags": null,
       "images": [
         {

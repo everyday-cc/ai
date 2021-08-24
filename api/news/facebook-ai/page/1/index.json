@@ -88,6 +88,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-13-abacusai-announces-the-worlds-first-enterprise-scale-real-time-mlops-and-dlops-platform.md",
+      "title": "Abacus.AI announces the world’s first enterprise scale real-time MLOps and DLOps platform",
+      "excerpt": "Abacus.AI is the world’s first enterprise scale end-to-end real-time MLOps and DLOps platform. Customers can stream real-time events, such as clickstream data, social media interactions, online purchases,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-science-f38ffb2a6fb08ebdb8a8241689bf0e09",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-science-f38ffb2a6fb08ebdb8a8241689bf0e09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-13T09:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-10-china-overtakes-us-in-ai-research.md",
       "title": "China overtakes US in AI research",
       "excerpt": "China topped the U.S. for the first time in terms of the number of times an academic article on AI is cited by others, a measure of the quality of a study. Until recently, the U.S. had been far ahead of other countries in AI research.",
@@ -1324,59 +1367,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-03-a-global-smart-city-competition-highlights-chinas-rise-in-ai.md",
-      "title": "A Global Smart-City Competition Highlights China’s Rise in AI",
-      "excerpt": "Chinese entrants swept all five categories, featuring technologies to improve civic life. But the advances could also be tools for surveillance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/global-smart-city-competition-highlights-china-rise-ai/",
-      "originalUrl": "https://www.wired.com/story/global-smart-city-competition-highlights-china-rise-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/60df60a8fd0513edb15af4a3/master/pass/Business-Smart-City-Competition-1032667470.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/global-smart-city-competition-highlights-china-rise-ai/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/global-smart-city-competition-highlights-china-rise-ai/amp",
-      "publishedDateTime": "2021-07-03T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Facebook AI"
       ]
     }
   ],

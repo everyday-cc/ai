@@ -7,7 +7,7 @@ originalUrl: "https://www.fierceelectronics.com/electronics/energy-giant-aramco-
 webUrl: "https://www.fierceelectronics.com/electronics/energy-giant-aramco-picks-edge-based-computer-vision-from-foghorn-for-better-monitoring"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     height: 682
     isCached: true
 
-secured: "sHtp17lZ3kLDt1/gkidsgziEkB6WJxRyyatHrA6VUimfDATDx4WOE1l29oIGTV/4V9wrLOukG5vOaYHS48PfEwT05XR0ULhDrnp9MbrEEk3BuZSwhunj5xIRI3bPYjzzghch/7YNPI6G6SuzsOYMS4dMoOVcrx127P166SebVWMGM8w5S0ILEforVLgt6/3En99b2NaNDB0hvhvsrkC4yjPnr3178wlNqmPHMF4dAKKpOSBbpNfl9m1jQxHE8yJ8xJaiwVsdHuxvMcb+Bmgyc7vN1YsSgMrrUjAt7cVqhFFNgpDUWyEi2L8MEBkT+82PJG+yZpMeVn3P6bkd0Z6l2vC580u++QChT6e4TxlK6tM=;pIFFSPhDrNWP3SXN/b49Rg=="
+related:
+  - title: "Aramco deploys computer vision with FogHorn Edge AI"
+    excerpt: "FogHorn announced that Aramco, one of the world’s leading integrated energy and chemicals companies, has deployed edge-powered computer vision solutions built on the FogHorn Lightning™ Edge AI platform at multiple sites to enhance safety,"
+    publishedDateTime: 2021-08-24T16:07:00Z
+    webUrl: "https://www.hydrocarbonprocessing.com/news/2021/08/aramco-deploys-computer-vision-with-foghorn-edge-ai"
+    type: article
+    provider:
+      name: Hydrocarbon Processing
+      domain: hydrocarbonprocessing.com
+    quality: 54
+    images:
+      - url: "https://www.hydrocarbonprocessing.com/media/12548/shutterstock_1295930458.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "QyIh3pTGx2CKGvaGaOIYXs+vkwldcUqoFzVj+muWD9kzlHxB2KIdsbC6l5umc38pLhBj62mDjNiCt8jil1yEY7BC61z12In+JhBfaGjvGgXIuCXbqHdb9vJhZ/0jy+ZqNSPD0KLCakRE+goE3UYbyv9VFGgLVEPFT532rAY1vOYK8ON688ciFOrR940IZh0aMbz7KOHRswvTdZebJxSuLVNCD8ZXHxKvM/9Tg2K9HbmvW5gfAeU/IEgjLq7YffJyK0vDuUN5Zds1aJ6j2nlabAHpV+/Z3U+jLiG/vR5OsIOCt4mv4aPjO7B7Q44Df6QtlJ2nPavpj9CQN8ivAL3jYtDg3GJTggsDoY9a22eqAfDxTA9JuiJ9i+2CnnteWoXx4HiDLtyy+YBdzdC96Sfm6TQxov4l9zVNzyjXcrWPjwvAX/bENHCWPOlL7EshezA9/gq6FD9et1kOJMU7MaK3mjIOkBjXw3uEo+bndlVydGqn1LkPVkCXb1pyv1ei1f9k4Ml9uc5+ze6Yulp5M+SZuw==;Aw+OViZjT+jdNEUoXLceXw=="
 ---
 

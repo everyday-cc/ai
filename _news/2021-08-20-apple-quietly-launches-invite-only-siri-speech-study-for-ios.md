@@ -57,6 +57,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "‘Siri Speech Study’ app to improve Apple speech recognition"
+    excerpt: "Speech pattern recognition and voice-based computing have proliferated in recent years, yet virtual assistants can often still misunderstand types of speech."
+    publishedDateTime: 2021-08-24T16:05:00Z
+    webUrl: "https://www.biometricupdate.com/202108/siri-speech-study-app-to-improve-apple-speech-recognition"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg"
+        width: 900
+        height: 499
+        isCached: true
 
 secured: "HKCN+HxeHmiYtJr/ZyRgjGrsnlUO/n9vhe6laZi3soqVZcp7WFptmMrwSACIkEoFshNh1n43ydfpVku+8yoqfQ7Ajokwu+UD5nS2XSbJJZjYNwCuldKyWHQ0WDXrygfOxVZXdlQZK8wLM+EZ/V0X/rqvQSAWWjhzr7YbkDjkBqVqNWAKZ12C214+edCcCn1CB7c+i6qyaaLBY54jJExfNMN1QgrUMRqrISW6xtTBLOzbaHthhTOq1C3vHdMvnHafRLWc8dpTEkBt9D90gvcLSqHTH0bl1kb/egb68kjj9+HhY1v9cv2QkqTfjvzwrk5ey1wBvEiQnT709A3h1Io5LBmG826B3ZG1UuS1cm/3Rgy7GSA1dht1whxCygrIKgsr/3AypqxsocljOZ5dnxsKEUXuwNceokq7dJlb2RA+YIRn4axVB0z5tsp6YM3mwGaDrHYs1sx+0q2eMIukP2sSU/dEVTcQnKh2y3CYKYKmyFK2roo/BzA+Cv0SVTIXZZjGCNw5ctQeoPtrsH9vfBPs1A==;GK06dJ3iVjttyf0So7A8bQ=="
 ---

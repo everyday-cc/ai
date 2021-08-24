@@ -2,6 +2,283 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2021-07-17-heres-what-you-need-to-know-about-singapores-food-delivery-robots.md",
+      "title": "Here's what you need to know about Singapore's food delivery robots",
+      "excerpt": "Singaporeans flocked to food delivery after it was announced that dining-in was prohibited during Circuit Breaker. Today, despite being allowed to dine-in at restaurants in larger groups, the habit of ordering food online and having it delivered",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/digital/heres-what-you-need-know-about-singapores-food-delivery-robots",
+      "originalUrl": "https://www.asiaone.com/digital/heres-what-you-need-know-about-singapores-food-delivery-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jul2021/20210716_robot_unsplash.jpg?itok=EtsShVVZ",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/digital/heres-what-you-need-know-about-singapores-food-delivery-robots?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/digital/heres-what-you-need-know-about-singapores-food-delivery-robots?amp",
+      "publishedDateTime": "2021-07-17T02:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-17-robot-training-on-famous-highland-estate-will-make-driverless-vehicles-more-reliable.md",
+      "title": "Robot ‘training’ on famous Highland estate will make driverless vehicles more reliable",
+      "excerpt": "The project will help make driverless vehicles of the future more reliable ... engineers and students dedicated to researching robotics, artificial intelligence, systems engineering, and other related fields. A crash scene for the new James Bond movie ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pressandjournal.co.uk/fp/business/3300568/robots-learn-off-road-driving-skills-on-ardverikie-estate/",
+      "originalUrl": "https://www.pressandjournal.co.uk/fp/business/3300568/robots-learn-off-road-driving-skills-on-ardverikie-estate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pressandjournal.co.uk/wp-content/uploads/sites/2/2021/07/ORI_Scotland-3.jpg_39621277-scaled-e1625854534304.jpg",
+          "width": 2457,
+          "height": 1472,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pressandjournal.co.uk/fp/business/3300568/robots-learn-off-road-driving-skills-on-ardverikie-estate/amp/",
+      "cdnAmpWebUrl": "https://www-pressandjournal-co-uk.cdn.ampproject.org/c/s/www.pressandjournal.co.uk/fp/business/3300568/robots-learn-off-road-driving-skills-on-ardverikie-estate/amp/",
+      "publishedDateTime": "2021-07-16T22:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Press and Journal",
+        "domain": "pressandjournal.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-07-17-six-essential-artificial-intelligence-capabilities-leveraged-by-the-digital-giants.md",
+      "title": "Six essential artificial intelligence capabilities leveraged by the digital giants",
+      "excerpt": "Digital giants dominate the cloud and ecommerce markets, and part of the reason for their dominance is artificial intelligence and advanced analytics. The good news is that mainstream enterprises can learn from their experiences and employ cutting-edge technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/article/what-it-takes-to-bring-artificial-intelligence-into-the-enterprise/",
+      "originalUrl": "https://www.zdnet.com/index.php/article/what-it-takes-to-bring-artificial-intelligence-into-the-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/07/17/aa4d6e42-243c-4cc6-809e-4f5ac23e4f9a/building-6th-ave-nyc-photo-by-joe-mckendrick.jpg",
+          "width": 960,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/article/what-it-takes-to-bring-artificial-intelligence-into-the-enterprise/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/what-it-takes-to-bring-artificial-intelligence-into-the-enterprise/",
+      "publishedDateTime": "2021-07-16T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-17-paralyzed-man-communicates-through-brain-waves-in-groundbreaking-demo.md",
+      "title": "Paralyzed man communicates through brain waves in groundbreaking demo",
+      "excerpt": "In recent years, experiments with mind-controlled prosthetics have allowed paralyzed people to shake hands or take a drink using a robotic arm -- they imagine moving and those brain signals are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.khou.com/article/news/nation-world/paralyzed-man-communicates-through-brain-waves/507-812dc6db-0adb-4143-b6ef-f205054c893b",
+      "originalUrl": "https://www.khou.com/article/news/nation-world/paralyzed-man-communicates-through-brain-waves/507-812dc6db-0adb-4143-b6ef-f205054c893b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.khou.com/assets/CCT/images/b19a5c2d-2f27-42c1-ac0c-3d74a0b4c87a/b19a5c2d-2f27-42c1-ac0c-3d74a0b4c87a_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.khou.com/amp/article/news/nation-world/paralyzed-man-communicates-through-brain-waves/507-812dc6db-0adb-4143-b6ef-f205054c893b",
+      "cdnAmpWebUrl": "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/paralyzed-man-communicates-through-brain-waves/507-812dc6db-0adb-4143-b6ef-f205054c893b",
+      "publishedDateTime": "2021-07-16T20:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KHOU 11",
+        "domain": "khou.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-17-ai-and-financial-processes-balancing-risk-and-reward.md",
+      "title": "AI and financial processes: Balancing risk and reward",
+      "excerpt": "When merging AI and financial processes, the smart money lies in mitigating risk while focusing on that sweet monetary reward.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/16/ai-and-financial-processes-balancing-risk-and-reward/",
+      "originalUrl": "https://venturebeat.com/2021/07/16/ai-and-financial-processes-balancing-risk-and-reward/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/05/mobile-app-monetization.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/16/ai-and-financial-processes-balancing-risk-and-reward/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/16/ai-and-financial-processes-balancing-risk-and-reward/amp/",
+      "publishedDateTime": "2021-07-16T16:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-17-facial-recognition-creates-risks-for-trans-individuals-others.md",
+      "title": "Facial Recognition Creates Risks for Trans Individuals, Others",
+      "excerpt": "As more government entities look to adopt facial recognition, concerns have been raised about its potential risks and how the technology might have disproportionate impacts for transgender and nonbinary individuals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/products/facial-recognition-creates-risks-for-trans-individuals-others",
+      "originalUrl": "https://www.govtech.com/products/facial-recognition-creates-risks-for-trans-individuals-others",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/4b0c0fb/2147483647/strip/true/crop/3840x2002+0+158/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F8b%2Ff0%2Fd7d5d49246228a0d733bfc67324b%2Fshutterstock-1651644193.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/products/facial-recognition-creates-risks-for-trans-individuals-others?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/facial-recognition-creates-risks-for-trans-individuals-others?_amp=true",
+      "publishedDateTime": "2021-07-16T16:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-07-17-ai-weekly-can-ai-predict-labor-market-trends.md",
       "title": "AI Weekly: Can AI predict labor market trends?",
       "excerpt": "Some firms claim to use AI to predict labor market trends. To what extent is this possible? Can bias creep in?",
@@ -941,275 +1218,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-why-we-need-engineers-who-study-ethics-as-much-as-math.md",
-      "title": "Why we need engineers who study ethics as much as math",
-      "excerpt": "The recent apartment building collapse in Miami, Florida, is a tragic reminder of the huge impacts engineering can have on our lives. Disasters such as this force engineers to reflect on their practice and perhaps fundamentally change their approach.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-07-ethics-math.html",
-      "originalUrl": "https://techxplore.com/news/2021-07-ethics-math.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/why-we-need-engineers-1.jpg",
-          "width": 2880,
-          "height": 1921,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-07-ethics-math.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-ethics-math.amp",
-      "publishedDateTime": "2021-07-16T06:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-why-fintech-struggles-to-combat-the-15-trillion-trade-finance-gap.md",
-      "title": "Why FinTech Struggles To Combat The $1.5 Trillion Trade Finance Gap",
-      "excerpt": "GUUD discusses why trade finance FinTech has been unable to put a dent in the trade finance gap or ease friction for banks and nonbank financiers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/b2b-payments/2021/guud-trade-finance-friction-fraud-fintech/",
-      "originalUrl": "https://www.pymnts.com/news/b2b-payments/2021/guud-trade-finance-friction-fraud-fintech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/05/investments-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/b2b-payments/2021/guud-trade-finance-friction-fraud-fintech/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/guud-trade-finance-friction-fraud-fintech/amp/",
-      "publishedDateTime": "2021-07-16T05:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-private-cloud-iaas-offers-secure-and-compliant-modernization-for-financial-services-firms.md",
-      "title": "Private Cloud IaaS Offers Secure and Compliant Modernization for Financial Services Firms",
-      "excerpt": "Network news, trend analysis, product testing and the industry’s most important blogs, all collected at the most popular network watering hole on the Internet | Network World",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/resources/221608/private-cloud-iaas-offers-secure-and-compliant-modernization-for-financial-services-firms",
-      "originalUrl": "https://www.networkworld.com/resources/221608/private-cloud-iaas-offers-secure-and-compliant-modernization-for-financial-services-firms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idge.staticworld.net/nww/nww_logo_300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-16T05:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-in-pursuit-of-a-career-in-healthcare-she-became-an-engineer.md",
-      "title": "In Pursuit of a Career in Healthcare, She Became an Engineer",
-      "excerpt": "From Connecticut, Gabriella Lanouette builds algorithms used by ophthalmologists in developing countries around the world",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/in-pursuit-of-a-career-in-healthcare-she-became-an-engineer-11626442200?mod=business_minor_pos1",
-      "originalUrl": "https://www.wsj.com/articles/in-pursuit-of-a-career-in-healthcare-she-became-an-engineer-11626442200?mod=business_minor_pos1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-368920/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/in-pursuit-of-a-career-in-healthcare-she-became-an-engineer-11626442200",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/in-pursuit-of-a-career-in-healthcare-she-became-an-engineer-11626442200",
-      "publishedDateTime": "2021-07-16T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-deep-learning-courses-for-nlp-market.md",
-      "title": "Deep Learning Courses for NLP Market",
-      "excerpt": "Global Deep Learning Courses for NLP Market is latest research study released by HTF MI evaluating the market risk side analysis, highlighting opportunities and leveraged with strategic and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2330419/deep-learning-courses-for-nlp-market-is-thriving-worldwide",
-      "originalUrl": "https://www.openpr.com/news/2330419/deep-learning-courses-for-nlp-market-is-thriving-worldwide",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/7/U716847626_g.jpg",
-          "width": 800,
-          "height": 334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2330419/deep-learning-courses-for-nlp-market-is-thriving-worldwide",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2330419/deep-learning-courses-for-nlp-market-is-thriving-worldwide",
-      "publishedDateTime": "2021-07-16T05:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-worldwide-robotics-industry-to-2025-co-bots-drives-robotics-market.md",
-      "title": "Worldwide Robotics Industry to 2025 - Co-Bots Drives Robotics Market",
-      "excerpt": "The \"Global Robotics Market (Industrial and Service Robotics) and Volume, Impact of COVID-19, Key Players Analysis - Forecast to",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/07/n22015462/worldwide-robotics-industry-to-2025-co-bots-drives-robotics-market",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/07/n22015462/worldwide-robotics-industry-to-2025-co-bots-drives-robotics-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155831/Options-Trades-Feb-3-2021-5.png",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/22015462",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22015462",
-      "publishedDateTime": "2021-07-16T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

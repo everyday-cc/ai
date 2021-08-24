@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Esperanto Launches AI Accelerator With Over 1000 RISC-V Cores"
+    excerpt: "Accelerating ML Recommendation with over a thousand RISC-V Processors, the Esperanto ET-SoC-1 is the highest performance commercial RISC-V chip to date."
+    publishedDateTime: 2021-08-24T16:00:00Z
+    webUrl: "https://www.forbes.com/sites/karlfreund/2021/08/24/esperanto-launches-with-1000-core-risc-v-ai-accelerator/"
+    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/08/24/esperanto-launches-with-1000-core-risc-v-ai-accelerator/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/08/24/esperanto-launches-with-1000-core-risc-v-ai-accelerator/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611fd70be384d73d2f2ce2ad%2F0x0.jpg"
+        width: 1200
+        height: 689
+        isCached: true
   - title: "IBM Adds AI Accelerator On Next Generation Z CPU"
     excerpt: "And with the next generation IBM Z processor, these applications will be able to run accelerated Artificial Intelligence (AI) processing directly on the platform, providing real-time analytic insights and enhanced security."
     publishedDateTime: 2021-08-23T17:30:00Z
@@ -263,6 +279,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "IBM unveils Telum, its on-chip accelerated artificial intelligence processor"
+    excerpt: "It's the first processor that has the ability to detect a fraud while a transaction is taking place, and not after it has happened"
+    publishedDateTime: 2021-08-24T17:17:00Z
+    webUrl: "https://www.itp.net/emergent-tech/99652-ibm-unveils-telum-its-on-chip-accelerated-artificial-intelligence-processor"
+    ampWebUrl: "https://www.itp.net/emergent-tech/99652-ibm-unveils-telum-its-on-chip-accelerated-artificial-intelligence-processor?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/emergent-tech/99652-ibm-unveils-telum-its-on-chip-accelerated-artificial-intelligence-processor?amp"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 51
   - title: "IBM’s Upcoming Z Series Chip Gains On-Chip AI Acceleration and New Name: Telum"
     excerpt: "In a major refresh of its next-generation Z Series chips, IBM is adding on-chip AI acceleration capabilities to allow enterprise customers to perform deep"
     publishedDateTime: 2021-08-23T04:09:00Z

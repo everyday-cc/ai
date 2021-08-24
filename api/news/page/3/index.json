@@ -2,6 +2,199 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-23-tesla-is-developing-a-robot-if-combined-with-neuralink-it-may-have-revolutionary-healthcare-applications.md",
+      "title": "Tesla Is Developing A Robot. If Combined With Neuralink, It May Have Revolutionary Healthcare Applications",
+      "excerpt": "Last week, during Tesla’s much anticipated “AI Day,” an event meant to showcase the company’s revolutionary strides in artificial intelligence technology, Musk announced the next frontier for the company: developing the Tesla Bot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/saibala/2021/08/22/tesla-is-developing-a-robot-if-combined-with-neuralink-it-may-have-revolutionary-healthcare-applications/",
+      "originalUrl": "https://www.forbes.com/sites/saibala/2021/08/22/tesla-is-developing-a-robot-if-combined-with-neuralink-it-may-have-revolutionary-healthcare-applications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61230c3d88806ceaeee3c8cd%2F0x0.jpg",
+          "width": 1200,
+          "height": 857,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/saibala/2021/08/22/tesla-is-developing-a-robot-if-combined-with-neuralink-it-may-have-revolutionary-healthcare-applications/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2021/08/22/tesla-is-developing-a-robot-if-combined-with-neuralink-it-may-have-revolutionary-healthcare-applications/amp/",
+      "publishedDateTime": "2021-08-22T19:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-08-23-5-dutch-ai-companies-transforming-finance-healthcare-and-agriculture.md",
+      "title": "5 Dutch AI companies transforming finance, healthcare and agriculture",
+      "excerpt": "AI in the Netherlands is booming: A Techleap.nl 2021 report found that 10% of all registered AI start-ups worldwide are based in the Netherlands. The nation has the highest density of AI start-ups per capita in Europe. In addtion, there are a number of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3630648/5-dutch-ai-companies-transforming-finance-healthcare-and-agriculture.html",
+      "originalUrl": "https://www.computerworld.com/article/3630648/5-dutch-ai-companies-transforming-finance-healthcare-and-agriculture.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2021/06/artificial_intelligence_automation_digital_brain_thinkstock_875595818-100749926-orig-100893865-large.jpg?auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-22T17:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-08-23-for-small-businesses-mastering-googles-ai-is-a-better-investment-than-paid-ads-heres-why.md",
+      "title": "For Small Businesses, Mastering Google’s AI Is A Better Investment Than Paid Ads - Here’s Why",
+      "excerpt": "When users find exactly what they’re looking for on Google, they have a good experience - websites that help users have a good experience get rewarded with higher rankings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/08/22/for-small-businesses-mastering-googles-ai-is-a-better-investment-than-paid-adsheres-why/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/08/22/for-small-businesses-mastering-googles-ai-is-a-better-investment-than-paid-adsheres-why/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6122f08e296d0f917cc29d26%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1311%26cropY1%3D573%26cropY2%3D1311",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/08/22/for-small-businesses-mastering-googles-ai-is-a-better-investment-than-paid-adsheres-why/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/08/22/for-small-businesses-mastering-googles-ai-is-a-better-investment-than-paid-adsheres-why/amp/",
+      "publishedDateTime": "2021-08-22T17:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-23-future-tesla-ai-cloud-vs-amazon-aws-google-cloud-alibaba.md",
+      "title": "Future Tesla AI Cloud Vs Amazon AWS, Google Cloud, Alibaba",
+      "excerpt": "Home » Artificial intelligence » Future Tesla AI Cloud Vs Amazon AWS, Google Cloud, Alibaba The Amazon AWS Global Infrastructure is built for performance. AWS Regions offer low latency, low packet loss,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextbigfuture.com/2021/08/future-tesla-ai-cloud-vs-amazon-aws-google-cloud-alibaba.html",
+      "originalUrl": "https://www.nextbigfuture.com/2021/08/future-tesla-ai-cloud-vs-amazon-aws-google-cloud-alibaba.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nextbigfuture.s3.amazonaws.com/uploads/2021/08/Screen-Shot-2021-08-19-at-7.39.33-PM-1024x571.jpg",
+          "width": 1024,
+          "height": 571,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextbigfuture.com/2021/08/future-tesla-ai-cloud-vs-amazon-aws-google-cloud-alibaba.html",
+      "cdnAmpWebUrl": "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/08/future-tesla-ai-cloud-vs-amazon-aws-google-cloud-alibaba.html",
+      "publishedDateTime": "2021-08-22T17:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NextBigFuture",
+        "domain": "nextbigfuture.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-23-arab-bank-to-back-egyptian-fintech-ai-and-cybersecurity-startups.md",
       "title": "Arab Bank To Back Egyptian FinTech, AI And Cybersecurity Startups",
       "excerpt": "Arab Bank has launched an Egypt branch of its FinTech, artificial intelligence (AI) and cybersecurity accelerator that focuses on early-state startups.",
@@ -345,7 +538,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/21/angst-and-worries-that-forbidden-knowledge-could-be-revealed-by-developing-ai-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -385,7 +578,8 @@
       ],
       "topics": [
         "AI",
-        "AI in Autos"
+        "AI in Autos",
+        "AI Ethics"
       ]
     },
     {
@@ -615,49 +809,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-21-new-pulsar-radiation-therapy-strategy-achieves-better-tumor-control.md",
-      "title": "New PULSAR radiation-therapy strategy achieves better tumor control",
-      "excerpt": "Artificial intelligence, along with a $71-million expansion of Radiation Oncology services, is allowing UT Southwestern Medical Center cancer physicians to pioneer a new PULSAR radiation-therapy strategy that improves tumor control compared with traditional daily therapy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20210820/New-PULSAR-radiation-therapy-strategy-achieves-better-tumor-control.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20210820/New-PULSAR-radiation-therapy-strategy-achieves-better-tumor-control.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Radiotherapy-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20210820/New-PULSAR-radiation-therapy-strategy-achieves-better-tumor-control.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210820/New-PULSAR-radiation-therapy-strategy-achieves-better-tumor-control.aspx",
-      "publishedDateTime": "2021-08-20T20:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-21-ai-blood-test-can-spot-lung-cancers-with-90-percent-accuracy.md",
       "title": "AI Blood Test Can Spot Lung Cancers With 90 Percent Accuracy",
       "excerpt": "The tool was able to detect roughly 90 percent of cancer cases out of 800 individuals that were screened for lung cancer. The researchers are hoping that improved screening and detection technologies could allow more cases of lung cancer to be spotted earlier,",
@@ -666,7 +817,7 @@
       "originalUrl": "https://futurism.com/neoscope/ai-blood-test-lung-cancer",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -853,7 +1004,7 @@
       "originalUrl": "https://auto.hindustantimes.com/auto/news/tesla-ai-day-ev-maker-shows-improved-self-driving-tech-for-autopilot-41629439031382.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1032,151 +1183,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-cardiomatics-bags-32m-for-its-ecg-reading-ai.md",
-      "title": "Cardiomatics bags $3.2M for its ECG-reading AI",
-      "excerpt": "Poland-based healthtech AI startup Cardiomatics has announced a $3.2M seed raise to expand use of its electrocardiogram (ECG) reading automation technology. The round is led by Central and Eastern European VC Kaya,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/08/20/cardiomatics-bags-3-2m-for-its-ecg-reading-ai/",
-      "originalUrl": "https://techcrunch.com/2021/08/20/cardiomatics-bags-3-2m-for-its-ecg-reading-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2017/04/gettyimages-548000499.jpg?w=1024",
-          "width": 1024,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/08/20/cardiomatics-bags-3-2m-for-its-ecg-reading-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/20/cardiomatics-bags-3-2m-for-its-ecg-reading-ai/amp/",
-      "publishedDateTime": "2021-08-20T06:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-how-modern-ai-enabled-automation-unlocks-full-human-potential.md",
-      "title": "How Modern AI-Enabled Automation Unlocks Full Human Potential",
-      "excerpt": "Baba Nadimpalli is the CEO and Founder of SKAEL Inc., the automation platform that superpowers your workforce with digital employees. Since the Industrial Revolution, alarmists have warned the newest technologies will eliminate the need for humans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/20/how-modern-ai-enabled-automation-unlocks-full-human-potential/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/20/how-modern-ai-enabled-automation-unlocks-full-human-potential/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60785e15222a08d6623c4b8d%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/20/how-modern-ai-enabled-automation-unlocks-full-human-potential/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/20/how-modern-ai-enabled-automation-unlocks-full-human-potential/amp/",
-      "publishedDateTime": "2021-08-20T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-rwth-the-future-with-artificial-intelligence.md",
-      "title": "RWTH: The future with artificial intelligence",
-      "excerpt": "Aachen City Hall How do we encounter artificial intelligence in our everyday lives? At home, on the street, while shopping? And how will AI shape our everyday life in the future? Through self-driving cars or in medical care? And where are the limits?",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/rwth-the-future-with-artificial-intelligence/",
-      "originalUrl": "https://indiaeducationdiary.in/rwth-the-future-with-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/12/rwth-aachen-university-1.png",
-          "width": 722,
-          "height": 362,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/rwth-the-future-with-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/rwth-the-future-with-artificial-intelligence/",
-      "publishedDateTime": "2021-08-20T05:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

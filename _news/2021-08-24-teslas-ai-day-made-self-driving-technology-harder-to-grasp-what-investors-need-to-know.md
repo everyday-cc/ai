@@ -59,25 +59,16 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Musk Says Tesla's Self-Driving Software Update 'Not Great'"
-    excerpt: "Tesla Inc's Chief Executive Elon Musk said on Monday said that the electric-car maker was working on improving the much-awaited update to its self-driving software \"as fast as possible.\" The billionaire entrepreneur tweeted  that the Full Self-Driving Beta version 9."
-    publishedDateTime: 2021-08-23T21:40:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2021-08-23/musk-says-teslas-self-driving-software-update-not-great"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
   - title: "Why the feds are investigating Tesla's Autopilot and what that means for the future of self-driving cars"
     excerpt: "It’s hard to miss the flashing lights of fire engines, ambulances and police cars ahead of you as you’re driving down the road. But in at least 11 cases in the past three and a half years, Tesla’s Autopilot advanced driver-assistance system did just that."
-    publishedDateTime: 2021-08-23T17:03:00Z
-    webUrl: "https://www.chron.com/news/article/Why-the-feds-are-investigating-Tesla-s-Autopilot-16405074.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Why-the-feds-are-investigating-Tesla-s-Autopilot-16405074.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Why-the-feds-are-investigating-Tesla-s-Autopilot-16405074.php"
+    publishedDateTime: 2021-08-23T19:03:00Z
+    webUrl: "https://www.seattlepi.com/news/article/Why-the-feds-are-investigating-Tesla-s-Autopilot-16405074.php"
+    ampWebUrl: "https://www.seattlepi.com/news/amp/Why-the-feds-are-investigating-Tesla-s-Autopilot-16405074.php"
+    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Why-the-feds-are-investigating-Tesla-s-Autopilot-16405074.php"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: seattlepi.com
+      domain: seattlepi.com
     quality: 42
     images:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"

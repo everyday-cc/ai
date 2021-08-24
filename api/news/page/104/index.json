@@ -2,21 +2,21 @@
   "page": 104,
   "value": [
     {
-      "path": "_news/2021-04-30-china-publishes-draft-security-standard-on-facial-recognition.md",
-      "title": "China Publishes Draft Security Standard on Facial Recognition",
-      "excerpt": "On April 23, 2021, the National Information Security Standardization Technical Committee of China published a draft standard (in Chinese) on Security Requirements of Facial Recognition Data",
+      "path": "_news/2019-10-19-to-antarctica-and-beyond.md",
+      "title": "To Antarctica and beyond",
+      "excerpt": "There’s a third less oxygen than at sea level, impairing brain function ... body-composition changes in prolonged periods of low sun exposure and reduced physical activity.",
       "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/china-publishes-draft-security-standard-facial-recognition",
-      "originalUrl": "https://www.natlawreview.com/article/china-publishes-draft-security-standard-facial-recognition",
+      "webUrl": "https://www.sciencenews.org/article/technology-brain-activity-read-change-thoughts-privacy-ethics",
+      "originalUrl": "https://edition.cnn.com/interactive/2019/10/world/antarctica-and-beyond-scn/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
-          "width": 1426,
-          "height": 808,
+          "url": "https://www.sciencenews.org/wp-content/uploads/2021/02/021321_LS_brain-kavli_feat_1440.jpg",
+          "width": 1440,
+          "height": 810,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/china-publishes-draft-security-standard-facial-recognition?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/china-publishes-draft-security-standard-facial-recognition?amp",
-      "publishedDateTime": "2021-04-29T10:28:00-07:00",
+      "ampWebUrl": "https://www.sciencenews.org/article/technology-brain-activity-read-change-thoughts-privacy-ethics/amp",
+      "cdnAmpWebUrl": "https://www-sciencenews-org.cdn.ampproject.org/c/s/www.sciencenews.org/article/technology-brain-activity-read-change-thoughts-privacy-ethics/amp",
+      "publishedDateTime": "2019-10-18T18:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,9 +49,58 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2017-02-11-saffron-technology-how-intels-cognitive-computing-acquisition-thrives-on-chaos.md",
+      "title": "Saffron Technology: How Intel's cognitive computing acquisition thrives on chaos",
+      "excerpt": "Gayle Sheppard, CEO of Saffron Technology, outlines the company's history, explains how it fits into Intel's AI portfolio ... to the top IT professionals, all in an ad-free experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ibm-ceo-arvind-krishna-on-watson-ai-enterprise-future-plans-2021-5",
+      "originalUrl": "https://www.techrepublic.com/article/saffron-technology-how-intels-cognitive-computing-acquisition-thrives-on-chaos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/609ae0ed342837001822cd17?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2017-02-10T09:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/etf-industry-vet-sharon-french-joins
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/etf-industry-vet-sharon-french-joins-fintech-platform-tifin-2021-08-23?amp"
 type: article
 quality: 56
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -65,20 +65,6 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Top-Programming-Languages-for-Finance-in-Fintech.jpg"
         width: 900
         height: 500
-        isCached: true
-  - title: "4 Ways the Fintech Industry is Detecting and Preventing Frauds"
-    excerpt: "Digitization in the fintech industry is giving rise to financial fraud. It is essential to detect potential frauds and prevent them before any loss to the customer or the organization. Fremont, CA: Like all the industries,"
-    publishedDateTime: 2021-08-20T00:00:00Z
-    webUrl: "https://www.cioapplications.com/news/4-ways-the-fintech-industry-is-detecting-and-preventing-frauds-nid-8322.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 24
-    images:
-      - url: "https://www.cioapplications.com/uploaded_images/magazine_img/itqtp300400.jpg"
-        width: 300
-        height: 400
         isCached: true
   - title: "Top Fintech Trends Transforming Peoples Lives"
     excerpt: "AI and ML have managed to retain their top positions in the FinTech trend for a long time. They have fuelled the rapid growth and development of new technologies in the FinTech industry. FREMONT, CA: The fintech industry is growing rapidly, and it is ..."

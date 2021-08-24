@@ -15,9 +15,9 @@ provider:
   domain: apnews.com
 
 topics:
-  - Machine Learning
-  - AI
   - AI Hardware
+  - AI
+  - Machine Learning
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
@@ -25,6 +25,6 @@ images:
     height: 450
     isCached: true
 
-secured: "N1oDIZBkmUfnFmJdNcoD/0RPnawxcyoJ0sCA0MAjy3rZMOnsQLWDngGwi1SuB6M0RsFsUrkt2qXueo8Dd9qYjGaX1I4i9///PA+OXs3wvguCs3ZAtxIOOTcM7lux2RO7uaWtzs1iSKOAxfcM+nu5r9zGNge9fX4vhN8bN+VmRgK4ak021fvS2KrDCg7g6OE3rovO+CR9yZehU+gJo2Z7Fv3ly34dMUjrx20xOqhaopuNMvRnejPprTAvdxYXRHfr9klP6Pwi9LxCvR/Ex8hDgRlerd85EB4WkvqN8xMQykSuHtHoJpi5bjv61hFEdCMHfOfuYqsZEBffILjh1FTH+ZFpUnVG2gbLqdQhMVOWzMg=;8NupNuhIhRCqAliUAl/gzQ=="
+secured: "TK5YhkG8WmiAugyW5kJmQxESPlea+kdgd4IHzUXbK3ms63Y2S8w19Sw8BPpC4RxOAAfhv+PvOJz4hJuYK/x2dL7vb8AUX1q0ouyw43V7dC2ylXcwNOCoxJ7WfTT690eFgACln/7MO1oei6wBjYMnkROZxwBB+if4h9Sndn1FQWJMENCMc/GPC/A7TJCO2mc5h3Wabm3IdtfqQDW8r6UE7qCyVlHxTX/ulWuERqyNp9oFk43OfIp6YGBZ6lo5e85X101gLtAUYJvpEnNgih3H5zjT2RGBfKgbUN0NtMgBohaOroJjHYZk0UUJQAIRYVcdBDzdLQU3Sa7lSMBTeUc7N7SgLDiqlEBaR97IKqR9FMY=;2SSQt8HeCqdaeH64i4mcLQ=="
 ---
 

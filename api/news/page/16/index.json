@@ -2,6 +2,274 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-08-11-audi-unveils-the-skysphere-a-futuristic-sinister-looking-ev-roadster-concept-car-in-new-direction-for-automaker.md",
+      "title": "Audi unveils the Skysphere: A futuristic, sinister-looking EV roadster concept car in new direction for automaker",
+      "excerpt": "The roadster concept can change sizes based on driving modes and boasts a digital cockpit with a retractable steering wheel that can stow away.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/08/10/audi-skysphere-new-ev-concept-convertible-reveals-new-direction-for-automaker.html",
+      "originalUrl": "https://www.cnbc.com/2021/08/10/audi-skysphere-new-ev-concept-convertible-reveals-new-direction-for-automaker.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106924533-1628598021502Audi_skysphere_concept_PB21_16.jpg?v=1628598991",
+          "width": 1080,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/08/10/audi-skysphere-new-ev-concept-convertible-reveals-new-direction-for-automaker.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/08/10/audi-skysphere-new-ev-concept-convertible-reveals-new-direction-for-automaker.html",
+      "publishedDateTime": "2021-08-11T05:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-artificial-intelligence-ai-in-fintech-market.md",
+      "title": "Artificial Intelligence (AI) in Fintech Market",
+      "excerpt": "Artificial Intelligence (AI) in Fintech Market Size 2021 by Product Sales, Revenue, Price, Market Share, Growth Opportunity and Forecast to 2027 Research Report I Top key players-IBM Corporation Intel Corporation ComplyAdvantage.",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/artificial-intelligence-ai-in-fintech-market-size-2021-by-product-sales-revenue-price-market-share-growth-opportunity-and-forecast-to-2027-research-report-i-top-key-players-ibm-corporation-int/",
+      "originalUrl": "https://manometcurrent.com/artificial-intelligence-ai-in-fintech-market-size-2021-by-product-sales-revenue-price-market-share-growth-opportunity-and-forecast-to-2027-research-report-i-top-key-players-ibm-corporation-int/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/artificial-intelligence-ai-in-fintech-market-size-2021-by-product-sales-revenue-price-market-share-growth-opportunity-and-forecast-to-2027-research-report-i-top-key-players-ibm-corporation-int/",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-in-fintech-market-size-2021-by-product-sales-revenue-price-market-share-growth-opportunity-and-forecast-to-2027-research-report-i-top-key-players-ibm-corporation-int/",
+      "publishedDateTime": "2021-08-11T05:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-swarm-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "SWARM Now Available in the Microsoft Azure Marketplace",
+      "excerpt": "SWARM Engineering, a leader in food supply chain optimization, today announced its availability in the Microsoft Azure Marketplace, an",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/swarm-now-available-in-the-microsoft-azure-marketplace-301352247.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/swarm-now-available-in-the-microsoft-azure-marketplace-301352247.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-11T05:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-sybil-is-a-solar-powered-tensorflow-lite-equipped-smart-gardening-robot.md",
+      "title": "Sybil Is a Solar-Powered, TensorFlow Lite-Equipped Smart Gardening Robot",
+      "excerpt": "Building on an AWS DeepRacer prototype, the Sybil includes stereo cameras and a LiDAR sensor with mapping, planting, and weeding support.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hackster.io/news/sybil-is-a-solar-powered-tensorflow-lite-equipped-smart-gardening-robot-87eac62a4467",
+      "originalUrl": "https://www.hackster.io/news/sybil-is-a-solar-powered-tensorflow-lite-equipped-smart-gardening-robot-87eac62a4467",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackster.imgix.net/uploads/attachments/1334406/_LUAJFz5r9k.blob?auto=compress%2Cformat&w=600&h=450&fit=min",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-11T05:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackster",
+        "domain": "hackster.io",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Robotics",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-backlash-grows-against-decision-to-grant-patent-to-ai-system.md",
+      "title": "Backlash grows against decision to grant patent to AI system",
+      "excerpt": "A recently granted South African patent seems fairly mundane, but, he inventor is not a human being – it is an AI system named DABUS.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/backlash-against-grant-patent-to-ai-system-syndication",
+      "originalUrl": "https://thenextweb.com/news/backlash-against-grant-patent-to-ai-system-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2Fcyber-4062449_1280-e1622729428242.jpg&signature=6b3a71a408d4023c116fbff2889165f5",
+          "width": 1220,
+          "height": 610,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-11T05:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-unlocking-the-power-of-predictive-analytics-with-ai.md",
+      "title": "Unlocking The Power Of Predictive Analytics With AI",
+      "excerpt": "In fact, nearly half of supply chain leaders increased spending on innovative technologies and systems during the pandemic — including predictive analytics. Predictive analytics uses statistical algorithms combined with internal and external data to forecast future trends,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/11/unlocking-the-power-of-predictive-analytics-with-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/11/unlocking-the-power-of-predictive-analytics-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611287b7f70ffd1ba160f24b%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/11/unlocking-the-power-of-predictive-analytics-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/11/unlocking-the-power-of-predictive-analytics-with-ai/amp/",
+      "publishedDateTime": "2021-08-11T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-11-ai21-labs-trains-a-massive-language-model-to-rival-openais-gpt-3.md",
       "title": "AI21 Labs trains a massive language model to rival OpenAI’s GPT-3",
       "excerpt": "AI21 Labs, a Tel Aviv, Israel-based startup, has trained a massive English-language model it claims is superior to GPT-3 in some ways.",
@@ -929,283 +1197,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-global-face-recognition-systems-market.md",
-      "title": "Global Face Recognition Systems Market",
-      "excerpt": "The overall Face Recognition Systems market is uncommonly ferocious To keep up their position and drive the market improvement industry players are persistently improving and searching for market expansion logically through progressions thing dispatches solidifications and acquisitions sagacious portfolio and",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2351661/global-face-recognition-systems-market-size-growth",
-      "originalUrl": "https://www.openpr.com/news/2351661/global-face-recognition-systems-market-size-growth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/8/U810466440_g.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2351661/global-face-recognition-systems-market-size-growth",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2351661/global-face-recognition-systems-market-size-growth",
-      "publishedDateTime": "2021-08-10T13:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-the-best-robot-vacuums-for-hardwood-floors.md",
-      "title": "The best robot vacuums for hardwood floors",
-      "excerpt": "Robot vacuums are a great match for hardwood flooring, but some models do better than others. These are the best robovacs and smart features for your hardwood.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/home/best-robot-vacuum-for-hardwood-floors/",
-      "originalUrl": "https://www.digitaltrends.com/home/best-robot-vacuum-for-hardwood-floors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/eufy-robovac-1-1.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/home/best-robot-vacuum-for-hardwood-floors/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/best-robot-vacuum-for-hardwood-floors/?amp",
-      "publishedDateTime": "2021-08-10T13:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-xiaomi-cyberdog-is-an-unexpectedly-affordable-open-source-robot-puppy.md",
-      "title": "Xiaomi CyberDog is an unexpectedly affordable open-source robot puppy",
-      "excerpt": "Xiaomi is getting in on the robot business, with the new Xiaomi CyberDog revealed to take on Boston Dynamics but at a fraction of the cost. Announced today alongside the Xiaomi Mix 4 smartphone,",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/xiaomi-cyberdog-is-an-unexpectedly-affordable-open-source-robot-puppy-10686041/",
-      "originalUrl": "https://www.slashgear.com/xiaomi-cyberdog-is-an-unexpectedly-affordable-open-source-robot-puppy-10686041/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/08/CyberDog_06.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/xiaomi-cyberdog-is-an-unexpectedly-affordable-open-source-robot-puppy-10686041/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/xiaomi-cyberdog-is-an-unexpectedly-affordable-open-source-robot-puppy-10686041/amp/",
-      "publishedDateTime": "2021-08-10T12:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-modelling-perception-with-artificial-neural-networks.md",
-      "title": "Modelling Perception with Artificial Neural Networks",
-      "excerpt": "The drive behind this change has been the increasing availability of neural network models. With contributions from experts in the field, this book provides a complete survey of artificial neural networks. The book opens with two broad, introductory level ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/pt/academic/subjects/life-sciences/neuroscience/modelling-perception-artificial-neural-networks?format=HB&isbn=9780521763950",
-      "originalUrl": "https://www.cambridge.org/pt/academic/subjects/life-sciences/neuroscience/modelling-perception-artificial-neural-networks?format=HB&isbn=9780521763950",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-10T12:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-oracle-accelerates-mysql-heatwave-queries-with-machine-learning.md",
-      "title": "Oracle accelerates MySQL HeatWave queries with machine learning",
-      "excerpt": "MySQL Autopilot uses advanced machine learning techniques to accelerate HeatWave query performance and scalability in Oracle Cloud’s MySQL Database Service.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3628343/oracle-accelerates-mysql-heatwave-queries-with-machine-learning.html",
-      "originalUrl": "https://www.infoworld.com/article/3628343/oracle-accelerates-mysql-heatwave-queries-with-machine-learning.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2016/10/speed-164063_12801-100689806-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3628343/oracle-accelerates-mysql-heatwave-queries-with-machine-learning.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3628343/oracle-accelerates-mysql-heatwave-queries-with-machine-learning.amp.html",
-      "publishedDateTime": "2021-08-10T12:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-microsoft-introduces-ransomware-detection-to-ai-powered-azure-sentinel-management-tool.md",
-      "title": "Microsoft Introduces Ransomware Detection To AI-Powered Azure Sentinel Management Tool",
-      "excerpt": "Azure Sentinel is an AI-assisted tool that analyzes copious amounts of data to detect and investigate threats on-premises and in the cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/microsoft-introduces-ransomware-detection-azure-sentinel",
-      "originalUrl": "https://hothardware.com/news/microsoft-introduces-ransomware-detection-azure-sentinel",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/55949/content/microsoft-introduces-ransomware-detection-azure-sentinel.jpg",
-          "width": 708,
-          "height": 399,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/microsoft-introduces-ransomware-detection-azure-sentinel",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/microsoft-introduces-ransomware-detection-azure-sentinel",
-      "publishedDateTime": "2021-08-10T11:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

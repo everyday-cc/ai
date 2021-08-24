@@ -43,6 +43,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "‘Siri Speech Study’ app to improve Apple speech recognition"
+    excerpt: "Speech pattern recognition and voice-based computing have proliferated in recent years, yet virtual assistants can often still misunderstand types of speech."
+    publishedDateTime: 2021-08-24T16:05:00Z
+    webUrl: "https://www.biometricupdate.com/202108/siri-speech-study-app-to-improve-apple-speech-recognition"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg"
+        width: 900
+        height: 499
+        isCached: true
   - title: "Apple quietly launches invite-only Siri Speech Study for iOS"
     excerpt: "Apple has launched a research program called the \"Siri Speech Study,\" an app in the App Store for the collection of speech data to improve the digital assistant."
     publishedDateTime: 2021-08-20T12:59:00Z

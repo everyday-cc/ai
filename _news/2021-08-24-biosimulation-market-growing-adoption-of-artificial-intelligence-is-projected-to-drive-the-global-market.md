@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Integration of AI in Product Engineering Upgrades, Development to Drive Global Product Engineering Services Market - TMR Insights"
-    excerpt: "Advantages of AI to automate and simplify the process of manufacturing and developing products to offer substantial potential in improving product engineering services - Prospects of integration of host of functionalities,"
-    publishedDateTime: 2021-08-23T14:33:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-integration-ai-product-engineering-upgrades-development-drive-global-/2021/08/23/9435490.htm"
+  - title: "Global Virtual Reality Headset Market Is Expected To Grow Due To Wide Adoption Of Artificial Intelligence In VR Headsets"
+    excerpt: "A wide range of applications of virtual reality in the automotive and military sectors are significantly driving the growth of the global virtual reality headset market. Also, there is a significant spike in demand for gaming consoles."
+    publishedDateTime: 2021-08-24T14:45:00Z
+    webUrl: "https://galusaustralis.com/2021/08/24/global-virtual-reality-headset-market-is-expected-to-grow-due-to-wide-adoption-of-artificial-intelligence-in-vr-headsets/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 8
+      name: galusaustralis.com
+      domain: galusaustralis.com
+    quality: 14
     images:
-      - url: "https://mma.prnewswire.com/media/1085206/Transparency_Market_Research_Logo.jpg "
-        width: 400
-        height: 267
+      - url: "https://galusaustralis.com/wp-content/uploads/2021/08/virtual-reality-headset-market-814x500.jpg"
+        width: 814
+        height: 500
         isCached: true
 
 secured: "ZmWeCTRxzgwukaSKjTwU+H0xyOfJ4mqBn+YhW+X9nEKO264ZzvWOeUCuxUUTUOKVin0RTT8gSw/y7/GkcWkj1Cg9ZXHZfTNLdw+c5/ftqM363ycLvZMrx3WGmtEMThLFMLyFRaEH9pfzXVr37COOR/gWQXtceOp/p+9GkXzrMbgmunejkivmHZPzjrh2AWoZziMRSR9f79YK/SBgSDilzjezAjzvMevsp1EnZM2/LBoYU1USuhAtVs8Y00Fhw/Zr5MQrFOqJLEjHtc0iUHbWtsp64weG1E+B+xukAxGvU6OnOZp6K5wo7bNMBdK8MRp6kB9xKlRnySiCMW3wMxUzZWV6CcgHtXlk5ASSiwjc2u2YSBMc1dufLzvzfdarggckXKGvVF8MmS2llWNxz/TuD7AVwomzGf4bVYb/zxVpODWcweoHJLPXTsWVuzPipmpD4h4aTMtpPSKU9BkfA3Nqc4bq6aCp0qIpjzAOeF38kaDVsoxgrS75NRTWbOR4vhS8HXKjLZ1uc7qNLcO/3stT6w==;Mvht6R9RokgIfH2/4opxuQ=="

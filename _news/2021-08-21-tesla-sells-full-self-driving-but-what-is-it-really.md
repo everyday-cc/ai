@@ -49,6 +49,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Musk says Tesla's self-driving software update 'not great'"
+    excerpt: "The automaker has recently faced scrutiny from U.S. safety regulators because of accidents linked to its driver assistant system."
+    publishedDateTime: 2021-08-24T10:20:00Z
+    webUrl: "https://europe.autonews.com/automakers/musk-says-teslas-self-driving-software-update-not-great"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 39
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Tesla%20Autopilot%20web.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "cy/yWXhr11tsEiV5ZuzGPY3d5CvA06F+guKq+/8Mi5dVqBaIPHZzxxjlR/wJB3k+qKeU8g/sBAmhgi+cXtK3yU5PXT8Yg5uveE64+Thbh20z6KVFHO2gHmySuNY1kfdppPK/95I+dESjI7CFPCcjuzV88+7yza/vRC9cuGFZYOVqfoG/dszkEQV6i0czYasz/r5wT42iXC3JUeukRPUVTxWw3AB1sQCFpc+w5EH6b4TA5pkWKmcslYBkVTC0zN0wToDxsUJLHCKVlEaEto8CAEVqAaw9R0DQ+1Ufx+PmHKGainVX9VEPB3DShOTfVaJlnhiwuiFXoWe1kYp1OBHIcymDEp9czTXLwPzQKbK1BsIc8e0Hxrt+d8cNaNe5ANfUpH60tusg9fccM3gKt+y5PYOBPw6Qw6WWgO9uGFw8qVQwMhv9c51HZkwvq9+D5ZPKIMQe9CQ9M0zyZPpi5vfZzI/HFgNKoWB2KZRgdV5xWWw+1onoDyfx/W/OWZaWCkkg04JgJl9sFygf4hIrvI4vNg==;Guu1/JLAw9sLjIW36dv3GA=="
 ---

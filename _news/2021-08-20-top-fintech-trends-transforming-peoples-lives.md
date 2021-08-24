@@ -80,20 +80,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "4 Ways the Fintech Industry is Detecting and Preventing Frauds"
-    excerpt: "Digitization in the fintech industry is giving rise to financial fraud. It is essential to detect potential frauds and prevent them before any loss to the customer or the organization. Fremont, CA: Like all the industries,"
-    publishedDateTime: 2021-08-20T00:00:00Z
-    webUrl: "https://www.cioapplications.com/news/4-ways-the-fintech-industry-is-detecting-and-preventing-frauds-nid-8322.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 24
-    images:
-      - url: "https://www.cioapplications.com/uploaded_images/magazine_img/itqtp300400.jpg"
-        width: 300
-        height: 400
-        isCached: true
   - title: "Ubiquity Names Peg Johnson to Lead Growing Fintech Business"
     excerpt: "Payments Veteran Joins BPO to Integrate Suite of Services for Challenger Banks and Fintechs NEW YORK, NY / ACCESSWIRE / August 24, 2021 / Ubiquity, a multinational business process outsourcer and one of the fastest-growing private companies in the United States,"
     publishedDateTime: 2021-08-24T13:31:00Z

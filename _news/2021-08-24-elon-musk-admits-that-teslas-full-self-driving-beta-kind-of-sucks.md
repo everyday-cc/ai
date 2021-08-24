@@ -308,21 +308,21 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Tesla is building an AI humanoid robot called Optimus, says Elon Musk"
-    excerpt: "Tesla will branch out from building electric, self-driving cars to produce humanoid robots designed to “eliminate dangerous, repetitive, boring tasks”, says the company's founder Elon Musk"
-    publishedDateTime: 2021-08-20T00:00:00Z
-    webUrl: "https://www.newscientist.com/article/2287792-tesla-is-building-an-ai-humanoid-robot-called-optimus-says-elon-musk/"
-    ampWebUrl: "https://www.newscientist.com/article/2287792-tesla-is-building-an-ai-humanoid-robot-called-optimus-says-elon-musk/amp/"
-    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2287792-tesla-is-building-an-ai-humanoid-robot-called-optimus-says-elon-musk/amp/"
+  - title: "Elon Musk says Tesla's latest beta self-driving software is ‘not great’"
+    excerpt: "Musk's critical tweet on Monday came just days after he touted Tesla's prowess with autonomous systems and components for them at an event called Tesla AI Day."
+    publishedDateTime: 2021-08-24T14:46:00Z
+    webUrl: "https://www.cnbc.com/2021/08/23/elon-musk-says-tesla-fsd-beta-9point2-software-is-not-great.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/08/23/elon-musk-says-tesla-fsd-beta-9point2-software-is-not-great.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/08/23/elon-musk-says-tesla-fsd-beta-9point2-software-is-not-great.html"
     type: article
     provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 91
+      name: CNBC
+      domain: cnbc.com
+    quality: 89
     images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2021/08/20140258/pri195510988.jpg?width=600"
-        width: 600
-        height: 400
+      - url: "https://image.cnbcfm.com/api/v1/image/106926722-16288599482021-08-13t130517z_209345700_rc2b4p9pcfbm_rtrmadp_0_tesla-germany.jpeg?v=1628859989"
+        width: 3500
+        height: 2575
         isCached: true
   - title: "Tesla Has Unveiled A New Chip For Training AI Models Inside Its Data Centers"
     excerpt: "Tesla announced a custom-made chip for training artificial intelligence networks in data centres. Shown at the carmaker’s Livestreaming AI Day, the work shows that the company is engaged in vertical integration."
@@ -912,6 +912,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Tesla CEO Elon Musk says latest self-driving update ‘not great’"
+    excerpt: "Tesla has lately been under the scanner from the governments of US and China for its autopilot or self-driving technology..Tesla sells its advanced driver assistant features such as lane changing and automated parking under the name Full Self-Driving (FSD)."
+    publishedDateTime: 2021-08-24T17:20:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/news/tesla-ceo-elon-musk-says-latest-self-driving-update-not-great-41629776618271.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/news/tesla-ceo-elon-musk-says-latest-self-driving-update-not-great/amp-41629776618271.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/tesla-ceo-elon-musk-says-latest-self-driving-update-not-great/amp-41629776618271.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 59
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2021/08/24/600x338/AFP_9L8894_1629439212600_1629777640413.jpg"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Elon Musk Says Tesla's FSD Beta 9.2 Self-Driving Software Is ‘Not Great’"
+    excerpt: "Tesla - Get Report CEO Elon Musk admits that the company’s beta self-driving software is ‘not great.’ On Monday, Musk tweeted saying that Full Self-Driving (FSD) Beta 9.2 is"
+    publishedDateTime: 2021-08-24T15:32:00Z
+    webUrl: "https://www.thestreet.com/latest-news/musk-tesla-fsd-beta-self-driving-software-not-great"
+    ampWebUrl: "https://www.thestreet.com/.amp/latest-news/musk-tesla-fsd-beta-self-driving-software-not-great"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/latest-news/musk-tesla-fsd-beta-self-driving-software-not-great"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 58
+    images:
+      - url: "https://www.thestreet.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTgzMjgyNDUwMzA1MTMxNTU4/tesla.jpg"
+        width: 620
+        height: 349
+        isCached: true
   - title: "AI humanoid robots could be here by next year, thanks to Elon Musk"
     excerpt: "Tesla CEO Elon Musk is back to making national headlines again after unveiling the “Tesla Bot,” otherwise known as the brand’s AI humanoid robot, during the brand’s AI event on Thursday. The robot will use much of the same tech that is found in ..."
     publishedDateTime: 2021-08-21T00:56:00Z
@@ -1210,6 +1242,6 @@ related:
         height: 445
         isCached: true
 
-secured: "CgJoH/2isL9m34sI56e1DJQiQD2xCg28bR0CcgWubG+5D+uamz0+JJOmyWLjO651cCuFEe3XeMyxX1bLZlrAXqOUrw7LCKOcnyG8m2NW5c8QLpK0z8X0uOv+KcOCTlBENI2kckUHHaNcSbgYTBCMbXTXmkBB2SVjW2vwzkARecGz1KlpZUB53VziZRZjKJnzGv2l6vekcQ2yHS9/4DWvOecEUQ907ljcNtbuyS6XrdvuSB3/cBEJ6Pjk2ghMi4HFPYy3QUM0P2yDMT9mW6+/8sVTlPpF4RRS5x0b9Wz/EUXAi8naJod5j21H2m8dDdMJVVb29G0BLSDCq9Tl8zANn5hNci3chs6Q5l/oiroKW0M=;/aoyEv3Oi+NxBMxagRueOQ=="
+secured: "dUSG6vKQcbkFLythf1w6nReY6SpA3TWNBR0hkuKuMqCqVVvOAKV7CJoXN6s6fl2moIMOkfN2WthDwCEl2BWTPwk116WE44+LmCUVu/d1Qy5ufbZ6UvP6aEFwGkSw4O2HDRfliISU4zN6VwlKEFhxihdSpJfGglDyk4vN6+8kT++3dpVvLkPZmBXSoRspi6Gg2jrZZLBnNVrHSy6g+sze//AbCz2utqr0KVybsHrUVoCvv5l1Qt9Fbd4Wy//gqAHgOEHS0PiIP2LLsWBKIRvWxAv5AiVWtDu9S4U5/oI+rkSPNUcj0sJlx+qZgjI/8hcbJon8gNlHuiaIDMP3cqvhwhFkun5N64T3PMZBhzSn6EsJaNeltQbBAp341JrlIR7DL0A8G2mNRxn5OBhqShH1dqRlpLK+Dd3GV8yd4S8aNfk8C6WTcGfQidHyuwODPPkxtTCOyAGh02pydBxDPa7swoAKu1xhrL6vKRJpECvUgBi305OBOPJTfvc/7TfwbqPISaEw18aC6VujsjE0UFxMXA==;6lE5zHbmbVjVAPX/X4ArAw=="
 ---
 

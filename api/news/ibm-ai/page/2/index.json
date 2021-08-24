@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-13-ai-success-in-the-supply-chain-depends-on-human-augmentation.md",
+      "title": "AI Success In The Supply Chain Depends On Human Augmentation",
+      "excerpt": "It is only through human augmentation and understanding how everything works together that AI success in the supply chain will happen.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/paulnoble/2021/07/13/ai-success-in-the-supply-chain-depends-on-human-augmentation/",
+      "originalUrl": "https://www.forbes.com/sites/paulnoble/2021/07/13/ai-success-in-the-supply-chain-depends-on-human-augmentation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60edae973c02fcc76f59d7ab%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1271%26cropY1%3D1%26cropY2%3D716",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/paulnoble/2021/07/13/ai-success-in-the-supply-chain-depends-on-human-augmentation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulnoble/2021/07/13/ai-success-in-the-supply-chain-depends-on-human-augmentation/amp/",
+      "publishedDateTime": "2021-07-13T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-12-ibm-launches-first-ai-incubator-for-social-impact.md",
       "title": "IBM launches first AI incubator for social impact",
       "excerpt": "We are proud to announce the launch of IBM’s first AI incubator for social impact organizations, empowering nonprofit organizations to explore and use high-impact data science and AI projects to advance their mission. The incubator, which will run from September 20 through December 10 2021, offers selected",
@@ -1278,49 +1330,6 @@
         "IBM AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-ibm-completes-turbonomic-acquisition.md",
-      "title": "IBM Completes Turbonomic Acquisition",
-      "excerpt": "IBM (IBM) has completed the acquisition of Turbonomic, affirming its focus on building an ecosystem of business partners. The acquisition is expected to",
-      "sourceUrl": null,
-      "webUrl": "https://www.smarteranalyst.com/yahoo/ibm-completes-turbonomic-acquisition/",
-      "originalUrl": "https://www.smarteranalyst.com/yahoo/ibm-completes-turbonomic-acquisition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.smarteranalyst.com/wp-content/uploads/2021/02/shutterstock_779236312.jpg",
-          "width": 1000,
-          "height": 653,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.smarteranalyst.com/yahoo/ibm-completes-turbonomic-acquisition/amp/",
-      "cdnAmpWebUrl": "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/yahoo/ibm-completes-turbonomic-acquisition/amp/",
-      "publishedDateTime": "2021-06-18T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Smarter Analyst",
-        "domain": "smarteranalyst.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

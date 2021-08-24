@@ -2,6 +2,281 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-08-05-key-metrics-for-monitoring-amazon-efs.md",
+      "title": "Key metrics for monitoring Amazon EFS",
+      "excerpt": "A file system must have an access point in order for Lambda functions to connect to it. Other clients—EC2 instances, ECS tasks, EKS pods, and SageMaker notebooks—can mount a file system without using an access point if the file system policy will allow ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.datadoghq.com/blog/amazon-efs-metrics/",
+      "originalUrl": "https://www.datadoghq.com/blog/amazon-efs-metrics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgix.datadoghq.com/img/blog/amazon-efs-metrics/amazon_efs_longform_part-1.png?fit=crop&w=1200&h=630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-04T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Datadog",
+        "domain": "datadoghq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-neural-network-detects-protein-peptide-binding-sites-to-kick-start-peptide-drug-discovery.md",
+      "title": "Neural network detects protein-peptide binding sites to kick-start peptide drug discovery",
+      "excerpt": "Two Skoltech researchers have presented a highly efficient neural network model that uses data on the structure of proteins to predict which of their parts interact with other biological molecules called peptides.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/924544",
+      "originalUrl": "https://www.eurekalert.org/news-releases/924544",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/a2ca0d1b-fda2-4b32-98d9-01fd8aa9a5b5/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 311,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-04T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-the-pentagon-is-using-ai-to-predict-events-days-into-the-future.md",
+      "title": "The Pentagon is using AI to predict events days into the future",
+      "excerpt": "Before we talk about the US military using big data and artificial intelligence to try to predict future events, we might as well address the elephant -- or rather the notoriously small-statured but undeniably charismatic actor -- in the room.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/the-pentagon-is-using-ai-to-predict-events-days-into-the-future/",
+      "originalUrl": "https://www.cnet.com/news/the-pentagon-is-using-ai-to-predict-events-days-into-the-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/AS85k6X7nbbOhJOkXkV7N59q-aQ=/1200x630/2021/08/03/25f8c78a-6b58-49ba-a00d-5e92705e81ba/210713-f-zd999-001.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/the-pentagon-is-using-ai-to-predict-events-days-into-the-future/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/the-pentagon-is-using-ai-to-predict-events-days-into-the-future/",
+      "publishedDateTime": "2021-08-04T16:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-hootsuite-acquires-heyday-a-conversational-ai-company-for-48-million.md",
+      "title": "Hootsuite Acquires Heyday, a Conversational AI Company, for $48 Million",
+      "excerpt": "The social-media marketing platform bought Heyday because companies have expanded their use of social media beyond marketing to include commerce and one-on-one messaging, Hootsuite’s CEO said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/hootsuite-acquires-heyday-a-conversational-ai-company-for-48-million-11628123818",
+      "originalUrl": "https://www.wsj.com/articles/hootsuite-acquires-heyday-a-conversational-ai-company-for-48-million-11628123818",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-380494/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/hootsuite-acquires-heyday-a-conversational-ai-company-for-48-million-11628123818",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/hootsuite-acquires-heyday-a-conversational-ai-company-for-48-million-11628123818",
+      "publishedDateTime": "2021-08-04T16:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-ai-powered-finance-startup-zeni-notches-34m-series-b-funding.md",
+      "title": "AI-Powered Finance Startup Zeni Notches $34M Series B Funding",
+      "excerpt": "Zeni raised $34 million in a Series B funding after seeing a 550 percent revenue growth year-over-year, driven by referrals and organic growth.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/b2b-payments/2021/ai-powered-finance-startup-zeni-notches-34m-series-b-funding/",
+      "originalUrl": "https://www.pymnts.com/news/b2b-payments/2021/ai-powered-finance-startup-zeni-notches-34m-series-b-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/08/shutterstock_344934203-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/b2b-payments/2021/ai-powered-finance-startup-zeni-notches-34m-series-b-funding/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/ai-powered-finance-startup-zeni-notches-34m-series-b-funding/amp/",
+      "publishedDateTime": "2021-08-04T16:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-the-answer-to-australias-national-security-needs-robot-tanks.md",
+      "title": "The Answer To Australia's National Security Needs? Robot Tanks",
+      "excerpt": "Greater reliance on autonomous systems and unmanned platforms makes a great deal of sense, given the small size of our military,” says Malcolm Davis, a senior analyst at the Australian Strategic Policy Institute.",
+      "sourceUrl": null,
+      "webUrl": "https://nationalinterest.org/blog/reboot/answer-australias-national-security-needs-robot-tanks-191217",
+      "originalUrl": "https://nationalinterest.org/blog/reboot/answer-australias-national-security-needs-robot-tanks-191217",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nationalinterest.org/sites/default/files/main_images/23607818975_fae8f8a6d6_o%20%281%29.jpg",
+          "width": 1200,
+          "height": 778,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-04T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Interest",
+        "domain": "nationalinterest.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-08-05-prompt-based-learning-can-make-language-models-more-capable.md",
       "title": "Prompt-based learning can make language models more capable",
       "excerpt": "Supervised learning, where AI models are trained on input data annotated for a particular output until they can detect the underlying relationships between the inputs and outputs, plays a major role in natural language processing (NLP).",
@@ -908,280 +1183,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-intels-ai-degree-program-expands-to-18-additional-community-colleges-in-11-states.md",
-      "title": "Intel's AI degree program expands to 18 additional community colleges in 11 states",
-      "excerpt": "Following an online pilot in the fall of 2020 with Maricopa County Community College District, Intel is expanding its AI for Workforce Program to include 18 additional schools across 11 states..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/intel-ai-for-workforce-2021-expansion-130027058.html",
-      "originalUrl": "https://www.engadget.com/intel-ai-for-workforce-2021-expansion-130027058.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-08/799696a0-f3be-11eb-8ffb-43a39e47ee85",
-          "width": 1600,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-04T07:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-can-an-ai-be-an-inventor-new-legal-judgments-say-yes.md",
-      "title": "Can An AI Be An Inventor? New Legal Judgments Say Yes.",
-      "excerpt": "Two landmark cases in the ongoing legal battle to establish an artificial intelligence system as an inventor came down in favor of the team trying to make this possible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anthonytrippe/2021/08/04/can-an-ai-be-an-inventor-new-legal-judgments-say-yes/",
-      "originalUrl": "https://www.forbes.com/sites/anthonytrippe/2021/08/04/can-an-ai-be-an-inventor-new-legal-judgments-say-yes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610aa3b553adde69aa700bd3%2F0x0.jpg",
-          "width": 1200,
-          "height": 772,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anthonytrippe/2021/08/04/can-an-ai-be-an-inventor-new-legal-judgments-say-yes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anthonytrippe/2021/08/04/can-an-ai-be-an-inventor-new-legal-judgments-say-yes/amp/",
-      "publishedDateTime": "2021-08-04T07:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-load-external-tfrecord-with-tfds.md",
-      "title": "Load external tfrecord with TFDS",
-      "excerpt": "For TFDS to be able to decode the tf.train.Example proto, you need to provide the tfds.features sturcture matching your specs. For example: features = tfds.features.FeaturesDict({ 'image': tfds.features.Image(shape=(256, 256, 3)), 'label': tfds.features ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/datasets/external_tfrecord?hl=sk",
-      "originalUrl": "https://www.tensorflow.org/datasets/external_tfrecord?hl=sk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=sk",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-04T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-fintech-stampli-launches-new-partner-program-for-ap-automation.md",
-      "title": "Fintech Stampli Launches New Partner Program for AP Automation",
-      "excerpt": "Stampli, a leader in AI-driven Accounts Payable (AP) automation, is introducing a new partner program for accounting firms, bookkeeping services, resellers, consultants, and ERP providers to expand their offerings with Stampli’s award-winning AP automation and payments software.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-6ce6650633234769a031d84c4b32890c",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-6ce6650633234769a031d84c4b32890c",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-04T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-hiring-the-right-personality-matters-and-ai-can-help.md",
-      "title": "Hiring the Right Personality Matters, and AI Can Help",
-      "excerpt": "It's important to find the right employees in order for your business to succeed. Here's how AI can help you find the perfect match.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/378658",
-      "originalUrl": "https://www.entrepreneur.com/article/378658",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/378658",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/378658",
-      "publishedDateTime": "2021-08-04T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-apptek-achieves-top-ranking-at-the-international-workshop-in-spoken-language-translations-iwslt-2021-evaluation-campaign.md",
-      "title": "AppTek Achieves Top Ranking at the International Workshop in Spoken Language Translation's (IWSLT) 2021 Evaluation Campaign",
-      "excerpt": "AppTek is a global leader in artificial intelligence (AI) and machine learning (ML) technologies for automatic speech recognition (ASR), neural machine translation (NMT), and natural language ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/apptek-achieves-top-ranking-at-the-international-workshop-in-spoken-language-translations-iwslt-2021-evaluation-campaign-301347962.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/apptek-achieves-top-ranking-at-the-international-workshop-in-spoken-language-translations-iwslt-2021-evaluation-campaign-301347962.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-04T05:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

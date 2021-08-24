@@ -42,6 +42,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Using Artificial Intelligence Blood Testing to Detect Lung Cancer"
+    excerpt: "Johns Hopkins Kimmel Cancer Center researchers developed novel artificial intelligence blood testing technology to detect lung cancer in patients. The test approach, called DELFI (DNA evaluation of fragments for early interception),"
+    publishedDateTime: 2021-08-24T17:00:00Z
+    webUrl: "https://healthitanalytics.com/news/using-artificial-intelligence-blood-testing-to-detect-lung-cancer"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 37
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-912319336.jpg"
+        width: 690
+        height: 400
+        isCached: true
   - title: "AI Blood Test Shown to Detect >90% of Lung Cancers Across Different Stages"
     excerpt: "DELFI blood testing technology indirectly measures how DNA is packaged inside the nucleus by studying the size and amount of cell-free DNA in the circulation."
     publishedDateTime: 2021-08-23T12:00:00Z

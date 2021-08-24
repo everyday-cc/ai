@@ -1,93 +1,70 @@
 ---
 category: news
-title: "Musk Says Tesla's Self-Driving Software Update 'Not Great'"
-excerpt: "Tesla Inc's Chief Executive Elon Musk said on Monday said that the electric-car maker was working on improving the much-awaited update to its self-driving software \"as fast as possible.\" The billionaire entrepreneur tweeted  that the Full Self-Driving Beta version 9."
-publishedDateTime: 2021-08-23T21:40:00Z
-originalUrl: "https://money.usnews.com/investing/news/articles/2021-08-23/musk-says-teslas-self-driving-software-update-not-great"
-webUrl: "https://money.usnews.com/investing/news/articles/2021-08-23/musk-says-teslas-self-driving-software-update-not-great"
+title: "Musk says Tesla's self-driving software update 'not great'"
+excerpt: "The automaker has recently faced scrutiny from U.S. safety regulators because of accidents linked to its driver assistant system."
+publishedDateTime: 2021-08-24T10:20:00Z
+originalUrl: "https://europe.autonews.com/automakers/musk-says-teslas-self-driving-software-update-not-great"
+webUrl: "https://europe.autonews.com/automakers/musk-says-teslas-self-driving-software-update-not-great"
 type: article
-quality: 49
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Automotive News
+  domain: autonews.com
 
 topics:
   - AI in Autos
   - AI
 
-related:
-  - title: "Tesla AI Day: EV-maker shows improved self-driving tech for Autopilot"
-    excerpt: "Tesla's self-driving technology has recently come under regulatory spotlight. Tesla is working on a purely vision-based system, using eight vehicle-mounted cameras to process a real-time three-dimensional vector space to guide navigation."
-    publishedDateTime: 2021-08-20T17:51:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/tesla-ai-day-ev-maker-shows-improved-self-driving-tech-for-autopilot-41629439031382.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/news/tesla-ai-day-ev-maker-shows-improved-self-driving-tech-for-autopilot/amp-41629439031382.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/tesla-ai-day-ev-maker-shows-improved-self-driving-tech-for-autopilot/amp-41629439031382.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 74
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2021/08/20/600x338/AFP_9L8894_1629439212600_1629439224395.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Tesla could make its self-driving technology available for other automakers"
-    excerpt: "Electric vehicle major Tesla has revealed that it might make the company's self-driving technology available for other automakers, reports Autocar. Tesla has revealed this plan during its AI Day last week."
-    publishedDateTime: 2021-08-23T17:27:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/tesla-could-make-its-self-driving-technology-available-for-other-automakers-41629697069079.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/news/tesla-could-make-its-self-driving-technology-available-for-other-automakers/amp-41629697069079.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/tesla-could-make-its-self-driving-technology-available-for-other-automakers/amp-41629697069079.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 72
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2021/08/23/600x338/2021-04-26T224048Z_1_LYNXMPEH3P1EV_RTROPTP_3_TESLA-RESULTS-OPTIONS_1619508003846_1629698081742.JPG"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Tesla’s AI Day Made Self- Driving Technology Harder to Grasp. What Investors Need to Know."
-    excerpt: "Companies are racing to build autonomous vehicles, but judging who has the best systems has become nearly impossible for ordinary people."
-    publishedDateTime: 2021-08-24T08:30:00Z
-    webUrl: "https://www.barrons.com/articles/tesla-ai-autonomous-vehicle-technology-51629756011"
-    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-ai-autonomous-vehicle-technology-51629756011"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-ai-autonomous-vehicle-technology-51629756011"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 64
-    images:
-      - url: "https://images.barrons.com/im-389712/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Why the feds are investigating Tesla's Autopilot and what that means for the future of self-driving cars"
-    excerpt: "It’s hard to miss the flashing lights of fire engines, ambulances and police cars ahead of you as you’re driving down the road. But in at least 11 cases in the past three and a half years, Tesla’s Autopilot advanced driver-assistance system did just that."
-    publishedDateTime: 2021-08-23T17:03:00Z
-    webUrl: "https://www.chron.com/news/article/Why-the-feds-are-investigating-Tesla-s-Autopilot-16405074.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Why-the-feds-are-investigating-Tesla-s-Autopilot-16405074.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Why-the-feds-are-investigating-Tesla-s-Autopilot-16405074.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 42
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
+images:
+  - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Tesla%20Autopilot%20web.jpg"
+    width: 800
+    height: 600
+    isCached: true
 
-secured: "gfnnB7lAbnvtHIAF+I+2ZQg16cwsCayDUIvhaiCD9C9uJpbDw7f/qGXvFcrBzlwnfZNotEzgraFNTx8slKHsrJSORkXZIkjq1GtkF2h0amfqj4HldruyuECGisefp5Cc8cKVciC6uXV1T9pRMWD1YpoCCf+aqR0b1yWOGnLeU+Fsu6GZN9W0bKAS3vkyE/Ili66JgV8e25vj10yhWRUGdMY2lnba7JAZDjBK2PdccvXvw2Aq1GsDG0/2vfeg2RKcqBEAlS6/Mtkw0f0YK6mLam5rCtVY6uFsAYDB0StjYR0Eh1eUlOJENFooocmvfaMvUChC4ezgfkriuYegf+HcNlahh+qqgXjkE8PmIF7FDBhUIBr4XOCsi3TG9Ynei1p3eWYcZSZnA4qgwnFibicsGzfAfn2i+Nx4FUK7G5bkxR1ATzAIgp4KbfgjwhHp/6gVRmsSOCvhSZ4e7S0IGjhpTuytqnK9fYwV62pvCDQVmT/Ik8hghlFb6tLksw8vwLEXKWtBrSRLGV/ek5vo6Q64FA==;BKXO3wEVN5TERwNNjmt62A=="
+related:
+  - title: "Musk turns on Tesla’s latest Full Self-Driving beta, says it’s “actually not great”"
+    excerpt: "If you haven’t been impressed with what you’ve seen of Tesla’s latest Full Self-Driving beta, version 9.2, you’re not alone. CEO Elon Musk agrees. “FSD Beta 9.2 is actually not great imo ..."
+    publishedDateTime: 2021-08-24T15:56:00Z
+    webUrl: "https://arstechnica.com/cars/2021/08/musk-turns-on-teslas-latest-full-self-driving-beta-says-its-actually-not-great/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 63
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2018/05/GettyImages-855377492-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
+  - title: "Musk: Latest self-driving software isn't great"
+    excerpt: "Tesla Inc.'s CEO Elon Musk stated that the company's latest test version of its self-driving software, FSD Beta 9.2, isn't actually \"great.\" In a statement on Twitter, Musk was"
+    publishedDateTime: 2021-08-23T23:12:00Z
+    webUrl: "https://www.teletrader.com/musk-latest-self-driving-software-isn-t-great/news/details/56246526"
+    ampWebUrl: "https://www.teletrader.com/amp/news/details/56246526"
+    cdnAmpWebUrl: "https://www-teletrader-com.cdn.ampproject.org/c/s/www.teletrader.com/amp/news/details/56246526"
+    type: article
+    provider:
+      name: teletrader.com
+      domain: teletrader.com
+    quality: 44
+    images:
+      - url: "https://cdn.ttweb.net/News/images/226694.jpg?preset=w800_q70"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Tesla sells ‘Full Self-Driving,’ but what is it really?"
+    excerpt: "Editor's note: This story is available as a result of a content partnership with The New York Times. Subscribers will see stories like this every day on our website (and in our daily emails) as an added value to your subscription. As U.S. investigators ..."
+    publishedDateTime: 2021-08-20T21:35:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2021/08/20/nyt-tesla-what-is-full-self-driving.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
+
+secured: "mrzfgw1hx5HKiLXqHiQ/V0Llijfk2BQMv7/cPnYAMl30E01F1/ybAhVHcC8qzalgvJhqQNUEI/qhCL/tBl4uSu8PMjfnaocl/SS22G+q/7Gag28PRqWpXNapPIsoHGOzLFGf1mTaimgD8FuiMEYmyIYQdi93W2ka6tU0O9fZl/ThxpXZzPss2DmoCZ+5UIB14Y+bADXFlDlSG/4/ApG+qpirzU1dRfQ7csfNCUE1aKSBuXwO33FxQ46tHqheUcUks7kpyddmoFqfloZaErTEeJWNdEaFnBkDFe/5Yk2Q3JiwhFlrwO6zn3L6FEqHNY+CFleHwRYyMcs4b7qQr46j5t4n5t/KLaWotJWo2wK5B/8=;VMcTBGiKi38sER67W9fK8w=="
 ---
 

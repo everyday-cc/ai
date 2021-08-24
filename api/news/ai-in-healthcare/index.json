@@ -242,49 +242,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-21-new-pulsar-radiation-therapy-strategy-achieves-better-tumor-control.md",
-      "title": "New PULSAR radiation-therapy strategy achieves better tumor control",
-      "excerpt": "Artificial intelligence, along with a $71-million expansion of Radiation Oncology services, is allowing UT Southwestern Medical Center cancer physicians to pioneer a new PULSAR radiation-therapy strategy that improves tumor control compared with traditional daily therapy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20210820/New-PULSAR-radiation-therapy-strategy-achieves-better-tumor-control.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20210820/New-PULSAR-radiation-therapy-strategy-achieves-better-tumor-control.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Radiotherapy-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20210820/New-PULSAR-radiation-therapy-strategy-achieves-better-tumor-control.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210820/New-PULSAR-radiation-therapy-strategy-achieves-better-tumor-control.aspx",
-      "publishedDateTime": "2021-08-20T20:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-20-artificial-intelligence-ai-in-drug-discovery-market.md",
       "title": "Artificial Intelligence (AI) in Drug Discovery Market",
       "excerpt": "Growth of Pharmaceutical Companies and Cloud Based Services Artificial intelligence (AI) in drug discovery market also provides you with detailed market analysis for every country growth in healthcare expenditure for capital equipment’s, installed base ...",
@@ -1366,6 +1323,49 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-artificial-intelligence-unlocks-extreme-weather-mysteries.md",
+      "title": "Artificial intelligence unlocks extreme weather mysteries",
+      "excerpt": "From lake-draining drought in California to bridge-breaking floods in China, extreme weather is wreaking havoc. Preparing for weather extremes in a changing climate remains a challenge, however, because their causes are complex and their response to global warming is often not well understood.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-08-artificial-intelligence-extreme-weather-mysteries.html",
+      "originalUrl": "https://phys.org/news/2021-08-artificial-intelligence-extreme-weather-mysteries.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/researchers-use-artifi.jpg",
+          "width": 1453,
+          "height": 1500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-08-artificial-intelligence-extreme-weather-mysteries.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-08-artificial-intelligence-extreme-weather-mysteries.amp",
+      "publishedDateTime": "2021-08-10T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

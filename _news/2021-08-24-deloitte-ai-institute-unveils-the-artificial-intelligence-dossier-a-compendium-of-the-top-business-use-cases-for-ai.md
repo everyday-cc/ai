@@ -1,27 +1,22 @@
 ---
 category: news
 title: "Deloitte AI Institute Unveils the Artificial Intelligence Dossier, a Compendium of the Top Business Use Cases for AI"
-excerpt: "TheDeloitte AI Institute™ today unveiled a new report that examines the most compelling business use cases for artificial intelligence (A"
-publishedDateTime: 2021-08-24T12:39:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/deloitte-ai-institute-unveils-the-artificial-intelligence-dossier-a-compendium-of-the-top-business-use-cases-for-ai-1030754873"
-webUrl: "https://markets.businessinsider.com/news/stocks/deloitte-ai-institute-unveils-the-artificial-intelligence-dossier-a-compendium-of-the-top-business-use-cases-for-ai-1030754873"
+excerpt: "The Deloitte AI Institute ™ today unveiled a new report that examines the most compelling business use cases for artificial intelligence (AI) across six major industries. The report, \" The AI Dossier ,"
+publishedDateTime: 2021-08-24T12:41:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-deloitte-ai-institute-unveils-artificial-intelligence-dossier-compendium-/2021/08/24/9436123.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-deloitte-ai-institute-unveils-artificial-intelligence-dossier-compendium-/2021/08/24/9436123.htm"
 type: article
-quality: 41
-heat: 41
+quality: 9
+heat: 9
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
-  - AI in Healthcare
 
-secured: "0CxKVTm0KDD2L/qGQABK1wjZIRMbzeqdW1vzcCaRoUg3BGtMoNk6LXKH0yMBrSIVFCXas8wMXaUxjgHYtFh1hXlaAfFjiE4ig2NYeqdiBE5ruwOK4XTvuM/C7ZW+dMH+bxPQx8G19YvMKVq1ou2O88wHASWVaUD9C+IK46ZRBUpv5KZgeFXsari79OQkfNcELvZXL6xRABea39c0mQC80Qaq72IpoCDQBm8ciqzyHKpjus5PLgmBCyTXHETC9LGhB9Zqn2XYJoA56IZj1gpzjAaoIodYRhNFoocfI6IZnmOuh8N1v/LY9usCXjvCQc7fVGbrAMktaC08HT3PLtSQSz/3vtbBT1wz0XEq7ALHIWs84uxPU8D7unQchs5EacKhAFhihDWy9Bdaf0BZvzgbjlqZpk+jXB39hIWB8zW/CCHz2QefaEU/qDRAxVe2PeLlMTFHrmoYCKCxfVZDEpkHexlx6xX2YRSTCEB8pp85XFfLtCcGyQx1WoXQgI0qLdGUILj/RDtjByeME3y5ri8sYw==;ajhJICdTe62ybk2XhkX8Jw=="
+secured: "jtU0dAWKPDkFvcjYSKob3X9+Q1trfDzi0EtA8odHkJrTGNSuxIUZtD5HDNG6A+xD04vsnS4RtG6N2EmX+VrPkzEc4jBPccAy0a+yxgEtg0xSmMGrkIPNlJ1meSg4rcmu5/uk53YHhprs3dxDmQrq6S1jjspFOgmyxB0a5cRMCtgLfeM6xa1F5AoujKBpjOSbmoN6hY6In5DRNkejd3Id2EkO+xHThGbiUFN65I92Xu0XvBm1Lvqehw7xonl+TrBHlIigd9x7EC0n2RKIE53DY8TxzCumcPt8e2Na8kZ9FIYyq3sjGkfuA2kvqBnHtbJstFoGvu214DHQScvhgpJhnsu6gW53rOEuJPrUrETvLaOd93+ApPY5XcI7dmpfEoeMtmtAZzh0G7TULCG2N4lp6p1ahfhPJQyGoeRhlJirruGUM/R5meNindE2mnOOKppFGzBfUhaXNEAutuEubYpdMfY75coP50SziCg6QAS2uQYuUjtX/T2I+9X7H3RkyNOqYrjvyc4HXTUrItXTws03qw==;O+mwbP+qgJ2npoTqu+WOJg=="
 ---
 
