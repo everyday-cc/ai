@@ -2,6 +2,147 @@
   "page": 83,
   "value": [
     {
+      "path": "_news/2021-06-27-security-robots-expand-across-us-with-few-tangible-results.md",
+      "title": "Security Robots Expand Across US, With Few Tangible Results",
+      "excerpt": "A prominent security robot company has cited little public evidence or specific, detailed examples of crimes that have been thwarted by its machines.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnewyork.com/news/national-international/security-robots-expand-across-few-tangible-results/3127219/",
+      "originalUrl": "https://www.nbcnewyork.com/news/national-international/security-robots-expand-across-few-tangible-results/3127219/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nbcnewyork.com/2021/06/062721-GettyImages-688223544.jpeg?quality=85&strip=all&crop=0px%2C181px%2C3200px%2C1800px&resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnewyork.com/news/national-international/security-robots-expand-across-few-tangible-results/3127219/?amp",
+      "cdnAmpWebUrl": "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/security-robots-expand-across-few-tangible-results/3127219/?amp",
+      "publishedDateTime": "2021-06-27T04:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC New York",
+        "domain": "nbcnewyork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-06-27-deepmind-agi-paper-adds-urgency-to-ethical-ai.md",
+      "title": "DeepMind AGI paper adds urgency to ethical AI",
+      "excerpt": "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/deepmind-agi-paper-adds-urgency-to-ethical-ai-10278063",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/deepmind-agi-paper-adds-urgency-to-ethical-ai-10278063",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-27T02:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-06-27-pytorch-gains-momentum-with-push-from-facebook-and-microsoft.md",
+      "title": "PyTorch Gains Momentum With Push From Facebook And Microsoft",
+      "excerpt": "Thanks to Facebook and Microsoft, PyTorch is on its way to becoming the preferred framework for building sophisticated AI models for the cloud, desktop and mobile.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2021/06/27/pytorch-gains-momentum-with-push-from-facebook-and-microsoft/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2021/06/27/pytorch-gains-momentum-with-push-from-facebook-and-microsoft/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d815da0c030140b46c2abd%2F0x0.jpg",
+          "width": 1000,
+          "height": 525,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2021/06/27/pytorch-gains-momentum-with-push-from-facebook-and-microsoft/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/06/27/pytorch-gains-momentum-with-push-from-facebook-and-microsoft/amp/",
+      "publishedDateTime": "2021-06-26T23:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-27-alat-by-wema-charting-roadmap-for-digital-banks-fintech.md",
       "title": "ALAT by Wema: Charting roadmap for digital banks, fintech",
       "excerpt": "However, what young people have today that we didn’t have before is the abundance of choice fueled by the rapid penetration of the Internet and digital technology. These two factors have introduced new dimensions to how we do business and make money.",
@@ -1057,156 +1198,6 @@
         "Computer Vision",
         "Google AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-webinar-recording-now-online-how-to-employ-automated-machine-learning-to-predict-the-best-quality-potato-chipcrisp.md",
-      "title": "Webinar recording now online: ‘How to employ Automated Machine Learning to Predict the Best Quality Potato Chip/Crisp’",
-      "excerpt": "This webinar ran successfully on June 24th. JADBio’s Automated Machine Learning (AutoML) platform was applied to predict potatoes’ susceptibility to bruising and also its potential for coloration",
-      "sourceUrl": null,
-      "webUrl": "https://www.potatonewstoday.com/2021/06/25/webinar-recording-now-online-how-to-employ-automated-machine-learning-to-predict-the-best-quality-potato-chip-crisp/",
-      "originalUrl": "https://www.potatonewstoday.com/2021/06/25/webinar-recording-now-online-how-to-employ-automated-machine-learning-to-predict-the-best-quality-potato-chip-crisp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.potatonewstoday.com/wp-content/uploads/2021/06/JADBio-Binary-Classification-better-chip-1.jpg?fit=813%2C530&#038;ssl=1",
-          "width": 813,
-          "height": 530,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-25T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "potatonewstoday",
-        "domain": "potatonewstoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-ag-tech-is-working-to-improve-farming-with-the-help-of-ai-iot-computer-vision-and-more.md",
-      "title": "Ag tech is working to improve farming with the help of AI, IoT, computer vision and more",
-      "excerpt": "These leading technologies will play pivotal roles in transforming farming practices to help feed a growing world population.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ag-tech-is-working-to-improve-farming-with-the-help-of-ai-iot-computer-vision-and-more/",
-      "originalUrl": "https://www.techrepublic.com/article/ag-tech-is-working-to-improve-farming-with-the-help-of-ai-iot-computer-vision-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/06/25/22b8a7b9-529b-4243-92a0-490a432fb750/resize/1200x/1bdbc397c8c1c5c174bbf20591edd38e/smart-farming.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ag-tech-is-working-to-improve-farming-with-the-help-of-ai-iot-computer-vision-and-more/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ag-tech-is-working-to-improve-farming-with-the-help-of-ai-iot-computer-vision-and-more/",
-      "publishedDateTime": "2021-06-25T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-samsungs-latest-robot-vac-uses-ai-to-recognize-small-obstacles.md",
-      "title": "Samsung's latest robot vac uses AI to recognize small obstacles",
-      "excerpt": "Samsung is claiming a few world firsts with its latest robot vacuum cleaner, which was originally launched at CES 2021 back in January. The Jet Bot AI+ is said to be the first to feature an active stereo-type 3D sensor for object detection,",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/around-the-home/samsung-jet-bot-ai-plus-robot-vacuum/",
-      "originalUrl": "https://newatlas.com/around-the-home/samsung-jet-bot-ai-plus-robot-vacuum/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/be45152/2147483647/strip/true/crop/1278x852+81+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fed%2F5e%2F43687cec49afa9f0bc54c1faee0b%2F03.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/around-the-home/samsung-jet-bot-ai-plus-robot-vacuum/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/around-the-home/samsung-jet-bot-ai-plus-robot-vacuum/?amp=true",
-      "publishedDateTime": "2021-06-25T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

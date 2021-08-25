@@ -1,22 +1,24 @@
 ---
 category: news
 title: "Medius squashes invoice lead times with efficient AI tech"
-excerpt: "Medius, a leading provider of spend management solutions, is transforming its customer's electronic invoice management"
-publishedDateTime: 2021-08-17T07:25:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/08/n22528768/medius-squashes-invoice-lead-times-with-efficient-ai-tech"
-webUrl: "https://www.benzinga.com/pressreleases/21/08/n22528768/medius-squashes-invoice-lead-times-with-efficient-ai-tech"
-ampWebUrl: "https://www.benzinga.com/amp/content/22528768"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22528768"
+excerpt: "Experts talk about Medius' state-of-the-art data capture software that uses clever AI to extract invoice data automatically. STOCKHOLM,"
+publishedDateTime: 2021-08-17T07:42:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/medius-squashes-invoice-lead-times-with-efficient-ai-tech-1030736976"
+webUrl: "https://markets.businessinsider.com/news/stocks/medius-squashes-invoice-lead-times-with-efficient-ai-tech-1030736976"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "4kHU2+bs1xvA3db4A5IgO/WRoLLgSxAIPp2W5+bRpi7k1yTqUwtw5NWdBUFJwnhEzpXCdULxlgZ76xMEecOBjJI3/nghbO/9e8npRs9+TjofaiF9Bp92RRhOObr4hattqWtUdCa5vjaas36oVKEoTfNac8ncwr1BwZbyRROwijBp/lWTtAjLQQZn+8M/hELYtOwiPnZazCslYIAovJhWMNtdlq2ayqPHUUlACet4YkEX6MERiXus2YBwI4rVdyXbNAmpsTVuWWCKIp2msQai2DyvMBPSGrOjrModDEiISk2c5zpSVL/DcpJbtGs/u2x1TeTTnxwfA7q2FYHGpYTgQvGRVTYe2u6XlNOVgDX2ngU=;ma8wtc08xXnkr12X16kQ/A=="
+secured: "JJM6K6XIFx9HuCeeZhMZ3tsy6DgP1RR609PvwpDjvz3Rg6nB28GVaGwjYqby7ICz3259MSzOHH0/nph+rY0zqrGCxg0hKXZxZfERXdertDwD3twO1bxmpIutda1aOobKowrBt/DMD1VhnLfH4hSdFiKQofEkDx/FmNZ43QhO1mfC2aJV7sCA2GNm8ZDwCnt1BoCk9NBv97AoRAqRwQLup3SeWp2QdQdnf8BjVDULUQNbDbZDHNMzBEXk5RJsDjd5qiFj7YdVpPyZ1Dyk+6iRnPDrvBeWNeT/g6KNluLJQTxNjv1F8ckXr+EoFoQmQLdQ1De4pi7AOpMGssBJzCObDfOwMQMi7bsnDLKloiwezfg=;GV9nXswsTxKqG4IRqonIwg=="
 ---
 

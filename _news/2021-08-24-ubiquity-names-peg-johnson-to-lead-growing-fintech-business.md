@@ -73,15 +73,6 @@ related:
       name: International Monetary Fund
       domain: imf.org
     quality: 19
-  - title: "Celebrating fintech’s role at the heart of the new normal"
-    excerpt: "Innovate Finance has launched a new forum to explore the potential of fintech to create a more inclusive and sustainable world. What good timing - fintech has performed impressively amidst the pandemic and will have a crucial role to play as restrictions are lifted and we settle  into our ‘new normal’."
-    publishedDateTime: 2021-08-21T04:38:00Z
-    webUrl: "https://www.finextra.com/blogposting/20765/celebrating-fintechs-role-at-the-heart-of-the-new-normal"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
 
 secured: "qzrjnC1h6t2D6gWdivRp/RIDY6EgIoYwHOTfioaEi1ke1JStSoz+x08Qv93nqqAWlZKddU7g0ioYdeZ2D1X6Pg66DMGAFmZq0T4I1uZVxrahBtNbI7IrELYfA0Bxt69fbZrkX4O/JlyJb4vMR7VPV3RiKnnVC0od1kLFv6GeChZUE0NcbaTn7E1iryokTDauLkcG7VGlgwX946Fljd3ZBDn5RvU7hKygvX8qG0Q2Rcq3Hy3eMQ93p5D6i7Ma+ZnG4e0PZeEYRGMeJwXq/ue1Vjjn/FFCXhGXZSpwpX+Ckh7Nmbfh9VneiL4G6nKh43kZks6k2o4SfSILHz3F4JRwAJ2PTu/jgPBS88x5p3SD7YQ=;9SuLgAN6ES0+u6ETlUB8ag=="
 ---

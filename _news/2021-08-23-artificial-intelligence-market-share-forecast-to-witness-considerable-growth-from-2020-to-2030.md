@@ -52,6 +52,22 @@ related:
         width: 800
         height: 449
         isCached: true
+  - title: "Valued to be $9.3 Billion by 2026, Artificial Intelligence (AI) in Accounting Slated for Robust Growth Worldwide"
+    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its"
+    publishedDateTime: 2021-08-25T15:55:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/08/n22659416/valued-to-be-9-3-billion-by-2026-artificial-intelligence-ai-in-accounting-slated-for-robust-growth"
+    ampWebUrl: "https://www.benzinga.com/amp/content/22659416"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22659416"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 53
+    images:
+      - url: "https://mma.prnewswire.com/media/1600638/GIA_Artificial_Intelligence_Accounting.jpg"
+        width: 400
+        height: 367
+        isCached: true
   - title: "Computer Vision Software Market 2021-2030 By Strategic Imperatives for Success and Growth Analysis"
     excerpt: "A new informative report titled as Global Computer Vision Software Market Report 2021 by Key Players Types Applications Countries Market Size Forecast to 2030 has recently published by Absolute Markets Insights to its huge database which helps to shape the"
     publishedDateTime: 2021-08-21T10:07:00Z
@@ -83,20 +99,6 @@ related:
       - url: "https://cdn.openpr.com/U/8/U825208148_g.jpg"
         width: 700
         height: 393
-        isCached: true
-  - title: "Valued to be $9.3 Billion by 2026, Artificial Intelligence (AI) in Accounting Slated for Robust Growth Worldwide"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Accounting - Global Market Trajectory & Analytics\"."
-    publishedDateTime: 2021-08-25T16:34:00Z
-    webUrl: "https://www.lelezard.com/en/news-19968265.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 33
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
-        width: 421
-        height: 421
         isCached: true
   - title: "US AI in Image Recognition Market Analysis By Industry Size, Share, Revenue Growth and Demand Forecast To 2025"
     excerpt: "The US AI in image recognition market is estimated to grow significantly at a CAGR of more than 28 during the forecast period The factors that are contributing significantly to the market growth investments in R D high expenditure on"

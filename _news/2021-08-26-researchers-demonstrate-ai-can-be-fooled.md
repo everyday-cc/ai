@@ -44,9 +44,9 @@ related:
   - title: "UniSA researchers develop AI facial recognition tech to monitor premature babies"
     excerpt: "University of South Australia boasts the AI-based system it has developed to remotely monitor the vital signs of babies rival the accuracy of ECG."
     publishedDateTime: 2021-08-25T08:17:00Z
-    webUrl: "https://www.zdnet.com/article/unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies/"
+    webUrl: "https://www.zdnet.com/index.php/recent/index.php/article/unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies/"
+    ampWebUrl: "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies/"
     type: article
     provider:
       name: ZDNet
@@ -114,6 +114,6 @@ related:
         height: 450
         isCached: true
 
-secured: "uEOY1XGpFHHevTDBHehXHBvEe1kfnBwiPy4/ExCzPstQcNThCFpYXsdEtaWCeqDzIFBD47VcFVkOkmTvYNPF1oRgkIVB6EFUIE2v6ZtGtgF5fyKqOnETruD0Vi+0LbVD/2Rg1vILxAJ36KE6Q+c/OrFOWyH0KEk8PapAapKyni0/IVCEYJIp0hb3zyS4levMi67dVIucQ3Q6slyUeMmzYHXyuQWvwCBtN1AwDbQaNuegZBsRYETEuYvn73tyGV+Sfq8e6TCbcx8P2aydjvhhMhkxxNmsQoJRB6QtwWyvHxTaiCFbM0Ez3wu2mXFdINSunSUa2yOv7DMPlfrgzpGxMgIxNU/Ci6iIz0qVVLDTHoo=;iMqvvrGrnXgjqDnmtZ8zvQ=="
+secured: "10I3t73BoTgKE8+p/QnkWuvI8JPGGC6TOI2wI9zmpOp5e8FiaoMEBd9XfQKEUUDzXb73Snf0boQT532CJaQlBsldXXpYxmChGxjASGW6fV/WSOyjz2YhNSjzlNCo0nppggN3IVXAhqbk2mbnq7clUuBj1Nottate+Ww5mD8xzDnKRS/pqfSSx3Kctn3oKV47C/UPDRzV0fFrQzJaWbWtQ7GA4UrhCjUlDrxNnfRWvxHL7gDjRhWxOpfnbpS2aKelKf9WAT0owPxoQsUbnNvqJ1isp1j6KXB4Yb0RTzLkUMGS+NnQy98Ne7mCETnDf2nbkBCbQwB2j5PcnfuVfNGaPRd47XbJDhO7igeYO693XblE7VhYmeRbo7meDjTBHgjUGuoAG+A1jtGX6hxSiIAN2l9Vhc/9dSt8nT5mbgGNtL+x4/evnMqdzC6zkDR/LowLBomC3bGn55jTBZ0vlpHdV3+uuJRI9rzfFFjEFmL1qQP+cmQz3zCValRFYo9RjWXtKnPRma/CoNhTrlLrnXWerA==;L1hftGM7d746IbjgLO8hTQ=="
 ---
 

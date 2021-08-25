@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Valued to be $9.3 Billion by 2026, Artificial Intelligence (AI) in Accounting Slated for Robust Growth Worldwide"
-excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Accounting - Global Market Trajectory & Analytics\"."
-publishedDateTime: 2021-08-25T16:34:00Z
-originalUrl: "https://www.lelezard.com/en/news-19968265.html"
-webUrl: "https://www.lelezard.com/en/news-19968265.html"
+excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its"
+publishedDateTime: 2021-08-25T15:55:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/08/n22659416/valued-to-be-9-3-billion-by-2026-artificial-intelligence-ai-in-accounting-slated-for-robust-growth"
+webUrl: "https://www.benzinga.com/pressreleases/21/08/n22659416/valued-to-be-9-3-billion-by-2026-artificial-intelligence-ai-in-accounting-slated-for-robust-growth"
+ampWebUrl: "https://www.benzinga.com/amp/content/22659416"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22659416"
 type: article
-quality: 33
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
-    width: 421
-    height: 421
+  - url: "https://mma.prnewswire.com/media/1600638/GIA_Artificial_Intelligence_Accounting.jpg"
+    width: 400
+    height: 367
     isCached: true
 
 related:
@@ -143,6 +145,6 @@ related:
       domain: openpr.com
     quality: 3
 
-secured: "OAHJtcswwcmVl9L71lSqDIT8lxbqu9iDeyi5gpiqNEuEiSh/DXCfdfLkOv6EpB7899BfAlEbdDd6wOlBzWbGSFlJIAN+i3IGVffRxdurbwIsFxvolY+c3fXfqP6bmykDyS/pHk0e/+WPjZy5yhVM9mRBBTG1nFJApv8fvNxWtO43CZzkmpuJFxlzO4tMxW9PjWhahNu4tAARwcFZaYcWDQHTsxJm24QdfVvtL5nMbHDD+nKLN105Aa8h0gkjVbOPqUkPhNwxh7zCXrkzU9tCiBsnHWYnwqBtUJqqi5tg5ql/XlH0LNi4tISnInX4DcPE5jUvxfrtHUtce8Ch7GzHQYgpwT3enAoDIjCeQpRbX5hjetDCFYEpVUghkhln8988bqH1kcSANY1v3j64J6m2qYKYOvDKxFFg1AiGPk/G9DqofJ0Kvtw19dyZFCyvfKymT9B3qsZUQDRSvxOe3jmQUIdrYkkdBGZqjGLC9FN2fj5MIYmIldj9a62rv9qUGZdZLWL2b614LTVv5B8VJEp+zQ==;P6UXwBMJx+6S1WHEZVQmHA=="
+secured: "09KG39XCQkvvvpCeF588IfYr3Gxh9eFDODARkJnGcw2voACwdrTVucC44/6wmbI282vCjqAx9Le3wRetIIdFIGy+5UC/+ZI22l5S/bv/2Ev8Vf801HzPHkkx3+KbGCGVaHRPs+30zMMm7iVnroSUrwSIyfulBnG2LFGBs+3lyroSLRWI4Ug28dHYaTBO7LqG6P3guLSaB3KCGwYOxBc2oTO/eZW3g2zQ/6bCZrNi7N72riBitPLinWV/u0ZdLkMXqWBUkO5ARDcnCweD6Ut7HqSM/tBLSMy8XV8lDGG3j6qMF9js676Z+kLWrMDlgc4ejVZ3fhUBNGS3lc8MBJAlpOLpWSFPty8KUyIxyvvZFJg=;cTEK00Qfnqu9g1CKaAU1UQ=="
 ---
 

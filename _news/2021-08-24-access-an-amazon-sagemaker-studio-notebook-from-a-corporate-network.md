@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/access-an-amazon-sag
 webUrl: "https://aws.amazon.com/blogs/machine-learning/access-an-amazon-sagemaker-studio-notebook-from-a-corporate-network/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1260
     height: 481
     isCached: true
+
+related:
+  - title: "Use a SageMaker Pipeline Lambda step for lightweight model deployments"
+    excerpt: "With Amazon SageMaker Pipelines, you can create, automate, and manage end-to-end machine learning (ML) workflows at scale. SageMaker Projects build on SageMaker Pipelines by providing several MLOps templates that automate model building and deployment pipelines using continuous integration and continuous"
+    publishedDateTime: 2021-08-25T20:03:27Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/use-a-sagemaker-pipeline-lambda-step-for-lightweight-model-deployments/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/17/ML-5156-image005_resized.png"
+        width: 1000
+        height: 357
+        isCached: true
 
 secured: "V3SZuH1aCPAgzcwnM0eYIr2303CUt9dYqa7hT45HAK5n+8OdMXLxgI9uNiYnd7KCEzMARVGa8tbzKb8O5YR2vg9d1xsWbALUcZHzviPwdw4ZJpKhRPZEp6gMBF5HwiEdQ3h6kLppuht5yAGdQBUIBM77+DLEequuiupPKZTimCa3E9ldLtNIl1kgFZTcZ4Xy2LqYEEmTD47J6tqYLZAqAFc8P1T5ySZpcJX12hljyQJun4AFMM4/wN9FMZfw6XGzqaIF0p/rWvKQnFoHASSIUDamZRspK1IQ8Ou6ZxtEgSRgtFYlRhkIknK8hMWAsxTmxHnYwne5KQSe/jr83E8AU1fMvYBLZ64mYUws+FLUj38=;dmXJUAfBjMRbRHe5KZEVEQ=="
 ---

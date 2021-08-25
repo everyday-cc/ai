@@ -50,6 +50,20 @@ related:
         width: 320
         height: 214
         isCached: true
+  - title: "San Diego AI startup corrals $210M for drone technology used by military"
+    excerpt: "Shield's artificial intelligence-enabled drones have been used in actual Middle East conflict zones by the U.S. military for the past three years, according to the company."
+    publishedDateTime: 2021-08-25T20:18:00Z
+    webUrl: "https://www.stripes.com/theaters/us/2021-08-25/san-diego-ai-startup-corrals-millions-drone-technology-military-2663992.html"
+    type: article
+    provider:
+      name: Stars and Stripes
+      domain: stripes.com
+    quality: 36
+    images:
+      - url: "https://www.stripes.com/theaters/asia_pacific/673404.jpg/alternates/LANDSCAPE_480/An%20MQ-4C%20Triton%20surveillance%20drone%20taxis%20at%20Anders"
+        width: 480
+        height: 299
+        isCached: true
 
 secured: "t9fVb36KC1Mel2PTvvlSPNpLG96Rx6eWDHCC8q1Hwl32jHpiHPSOpcuLS28brD5uZ9oLqSR8hwMwYPCApRmhesh10rfTY0OhBLTTOdQrqE9qT8VWnkPFrT+CgbwXQjLjTH3XtZgzMN2K8wYn4Va5QcMRqzmp2KC7va5/s5zQR7mOwuoOT9NXj8s3JhrxtjF21Qr/FckcjBQUXTGq6+KtZstTekujtKMEZdUxItwWi8FB8ePpWGuH1tL73Arp85tTnjvkA7APBJweXsxstOEawaz2/Eqvfqs11ct8FSLaXedJcA1AvfC8bqu6eYJY5GLe8XHvJ34YjlGsns5p0PYWI1eIOm0Eu+iJIz9z9AswZwM=;imeHheX0eQyODuhB31MDCg=="
 ---

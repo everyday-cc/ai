@@ -96,6 +96,20 @@ related:
         width: 1500
         height: 1124
         isCached: true
+  - title: "Nvidia launches AI enterprise suite"
+    excerpt: "Nvidia believes it can build a “significant” business with the new Nvidia AI Enterprise software suite it’s launching on VMware’s vSphere virtualization platform as part of an exclusive agreement. Made generally available on Tuesday,"
+    publishedDateTime: 2021-08-25T19:24:00Z
+    webUrl: "https://www.crn.com.au/news/nvidia-launches-ai-enterprise-suite-569072"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 41
+    images:
+      - url: "https://i.nextmedia.com.au/News/20210826062328_AI_brain.jpg"
+        width: 1395
+        height: 751
+        isCached: true
   - title: "Global Availability of NVIDIA AI Enterprise Makes AI Accessible for Every Industry"
     excerpt: "NVIDIA today announced the availability of NVIDIA AI Enterprise, a comprehensive software suite of AI tools and frameworks that enables the hundreds of thousands of companies running VMware vSphere to virtualize AI workloads on NVIDIA-Certified Systems ™."
     publishedDateTime: 2021-08-24T13:04:00Z

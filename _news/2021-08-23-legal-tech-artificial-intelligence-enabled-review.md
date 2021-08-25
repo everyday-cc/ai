@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/23/legal-tech
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/23/legal-tech-artificial-intelligence-enabled-review/amp/"
 type: article
 quality: 87
-heat: 89
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 801
     isCached: true
+
+related:
+  - title: "Facial recognition tech: Not just for IDing criminals"
+    excerpt: "A GAO survey of 24 agencies found facial recognition technology has been primarily used for digital access, law enforcement or cyber and physical security, but some agencies are researching new applications."
+    publishedDateTime: 2021-08-25T21:09:00Z
+    webUrl: "https://gcn.com/articles/2021/08/25/gao-facial-recognition.aspx"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 41
+    images:
+      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Cyber/Biometrics/faceprintaccess.png"
+        width: 760
+        height: 368
+        isCached: true
 
 secured: "qkVA6ZXBzjCTH5KQAJahoHJfwA25KT/iUJytaB72mILrLVgwPnsYlEj1l0Q6yfejlb2K1rcCugxWBAlYi3t0hzkkesNGWb5vAOUmE7I92pdtLUw2EE7YX1txS/wKNWCpEhTa696PjLK2wckNL/gHX2lTB478MAsftUsxTDxyXbfja0275CXcDVVt2mHVHxeX88RO3obLtdOTdVLxyRxS6dnCbd1R2z5Axm4Pg9dKmv2t8sLjjFk1FGhtOHR6hrmkR2ETeeRFcXEgihgWx7oKXfJWzH+gLpFWxsdKLucmE1okyPzs3wi474S1eka1PxvlIHjhyuJxoL0Uq/ErWaHWs3ydkdGRXBjNEtmCGayRhX2qr0AjSYuDTOkraAFYnRnUDaPSUmKFRqBDWXBpvTz7udydZjkoTk+4m0AJSBjyBv15MSOqMWRW+X1j/VC4ZW6lHbooIJc5BQmRrv0drO39bHJ7a6wWXJ4cG7Bk0OdD3ujo9XhmA/JkmnjWExNq01zJt2Za3X6Ql+P3tqwMNC71og==;ZCm2g8CVBadBly2AIeU/AQ=="
 ---

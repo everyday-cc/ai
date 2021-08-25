@@ -57,6 +57,22 @@ related:
         width: 800
         height: 449
         isCached: true
+  - title: "Valued to be $9.3 Billion by 2026, Artificial Intelligence (AI) in Accounting Slated for Robust Growth Worldwide"
+    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its"
+    publishedDateTime: 2021-08-25T15:55:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/08/n22659416/valued-to-be-9-3-billion-by-2026-artificial-intelligence-ai-in-accounting-slated-for-robust-growth"
+    ampWebUrl: "https://www.benzinga.com/amp/content/22659416"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22659416"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 53
+    images:
+      - url: "https://mma.prnewswire.com/media/1600638/GIA_Artificial_Intelligence_Accounting.jpg"
+        width: 400
+        height: 367
+        isCached: true
   - title: "Artificial Intelligence (AI) in Food and Beverage Market Size 2021 Demand, Global Trend, News, Business Growth, Top Key Players"
     excerpt: "The new report titled Global Artificial Intelligence AI in Food and Beverage Market published by Emergen Research is a vivid presentation of the global Artificial Intelligence AI in Food and Beverage market with utmost focus on the forecast market size"
     publishedDateTime: 2021-08-25T12:51:00Z
@@ -72,20 +88,6 @@ related:
       - url: "https://cdn.openpr.com/U/8/U825208148_g.jpg"
         width: 700
         height: 393
-        isCached: true
-  - title: "Valued to be $9.3 Billion by 2026, Artificial Intelligence (AI) in Accounting Slated for Robust Growth Worldwide"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Accounting - Global Market Trajectory & Analytics\"."
-    publishedDateTime: 2021-08-25T16:34:00Z
-    webUrl: "https://www.lelezard.com/en/news-19968265.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 33
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
-        width: 421
-        height: 421
         isCached: true
   - title: "Artificial Intelligence Market Share Forecast to Witness Considerable Growth from 2020 To 2030"
     excerpt: "Artificial Intelligence Market Introduction Transparency Market Research delivers key insights on the global artificial intelligence market In terms of revenue the global artificial intelligence market is estimated to expand at a CAGR of 29 during the forecast period owing to"

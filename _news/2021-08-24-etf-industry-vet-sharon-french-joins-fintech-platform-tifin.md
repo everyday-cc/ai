@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/etf-industry-vet-sharon-french-joins
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/etf-industry-vet-sharon-french-joins-fintech-platform-tifin-2021-08-23?amp"
 type: article
 quality: 56
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -73,15 +73,6 @@ related:
       name: International Monetary Fund
       domain: imf.org
     quality: 19
-  - title: "Celebrating fintech’s role at the heart of the new normal"
-    excerpt: "Innovate Finance has launched a new forum to explore the potential of fintech to create a more inclusive and sustainable world. What good timing - fintech has performed impressively amidst the pandemic and will have a crucial role to play as restrictions are lifted and we settle  into our ‘new normal’."
-    publishedDateTime: 2021-08-21T04:38:00Z
-    webUrl: "https://www.finextra.com/blogposting/20765/celebrating-fintechs-role-at-the-heart-of-the-new-normal"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
 
 secured: "R1ErVRIzs7zYrSViq9KgteQ9XqsfBWb+M2XoMOyHc7WcFM4jIBt7d4zZgjJPLxVf9rq1lI8HHfjiX+D70ppR+cHEVylgSWA/TfvEqNcDvsfnfbBxu7bdS04fiLlFnnXozccMW9lIeSrooefD+YKHmIq/vSjZYx4bLfRCTCSuLHEDgBW83NUCz4FOaMrTmiPhJun0mFJbnZk+0GnRbwEc8449d8QBRIV2LmRXxsO5E4wR6HtdrWjtK2w1H/fJ1gIDixsuLdTBCIgUeCi03CJ+IFQJ8qpTf0KA05v3TTiwCnDqElf072yqRWKWmv8shL21jKjSRk8UjtCTznviP0JISoxyGmzBzOaS7NFuEHzksWVXJum1kehD/PO6U9DeXAARX/RJpnOEYA18yKjD9uC+NEEth877K3K8umS2O6uGUYCqHyfUhB/CBEdEMM5aXYS/7Nqr/AFWundHokai97vL5Run5jtIkb/pykBWU65HMD+WXYeabcWBG7RAoHuGXaq8d51cJwfsrRu9M76+i9KEbA==;qtdJMiTQxqBrGhxgXRfFIA=="
 ---

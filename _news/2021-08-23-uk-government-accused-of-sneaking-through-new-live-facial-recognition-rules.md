@@ -105,6 +105,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Federal government to expand use of facial recognition despite growing concerns"
+    excerpt: "Ten federal agencies — the departments of Agriculture, Commerce, Defense, Homeland Security, Health and Human Services, Interior, Justice, State, Treasury, and Veterans Affairs — told the Government Accountability Office that they intend to grow their facial recognition capabilities by 2023,"
+    publishedDateTime: 2021-08-25T21:55:00Z
+    webUrl: "https://www.stripes.com/theaters/us/2021-08-25/federal-government-expand-use-facial-recognition-gao-report-2664035.html"
+    type: article
+    provider:
+      name: Stars and Stripes
+      domain: stripes.com
+    quality: 37
+    images:
+      - url: "https://www.stripes.com/theaters/us/1gaagz-Capitol-Police-officers-stand-at-an-entry-point-th/alternates/LANDSCAPE_480/Capitol%20Police%20officers%20stand%20at%20an%20entry%20point%20th"
+        width: 480
+        height: 299
+        isCached: true
 
 secured: "goyYtWxjkOFHstMilJv7I1AQkJiw9T7vhuv0BIcpIK7yKYZ4H/wedB/pT6S6w1rbUk8uqUO1jD74GVEqxrFBt2D2/tIGWNI/N5R0ZdkvHd8XoQc7TdqtCZE6nYxPsKjqcfk4/+GCeZRN5NJwUcJIk+hWrSi0rugHE9E1Qs6SpA+cHu/YNxegKATeU0tq9B+02tgNHjlVAkao3ec+TzllLfgyKJeGAw921BPOzTT1ay+jcC9BTRxiKbesCMekavEEw5bolmlo4QFgjXBbuEjyE6Se9mc9jBQvHlL7gGnTdoOJWRi77rU6yvSkeirfqdIXrz/vuG+2pe0ePx4MXVyksZ4pzD3X/ooAjGgloNVFcxih4oE8R9QFs6eOUINtYihRpmrZc2lNtDGGn890pLPdkzgA55dS9ThDUJzeLZLSRMjOidP8hxYaXDvULjqmixqSW16N9BhAVIlzbpIVwevu/ghibZ+4dD5Da+cqJfjPwYh05O2P1KIEtF7KeQn+hD+s8jIw6xGDhLmGWpS6GUwDRg==;Ze5xVtiJZVNcIhT+IFlyIw=="
 ---

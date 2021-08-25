@@ -18,6 +18,20 @@ topics:
   - AI
 
 related:
+  - title: "Start-Ups in Telemedicine, AI to get special incentives: Dr Jitendra"
+    excerpt: "Government will soon launch a Special Incentives scheme to support 75 Start-Ups in areas of Telemedicine, Artificial Intelligence (AI) and Digital Health to coincide with the ‘Azadi ka Amrit Mahotsav’ being celebrated from 15th of August this year."
+    publishedDateTime: 2021-08-25T20:40:00Z
+    webUrl: "https://www.dailyexcelsior.com/start-ups-in-telemedicine-ai-to-get-special-incentives-dr-jitendra-2/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 37
+    images:
+      - url: "https://www.dailyexcelsior.com/wp-content/uploads/2021/08/K-4.jpg"
+        width: 1200
+        height: 536
+        isCached: true
   - title: "Govt to offer special incentives to support 75 Start-ups in ares of telemedicine, digital health & AI"
     excerpt: "Govt will soon launch a Special Incentives scheme to support 75 Start-Ups in areas of Telemedicine, Digital Health & Artificial Intelligence."
     publishedDateTime: 2021-08-25T13:52:00Z

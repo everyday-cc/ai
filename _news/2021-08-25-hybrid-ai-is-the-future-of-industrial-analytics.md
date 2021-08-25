@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/25/hybrid-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/25/hybrid-ai-is-the-future-of-industrial-analytics/amp/"
 type: article
 quality: 91
-heat: 161
+heat: 171
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
         width: 300
         height: 300
+        isCached: true
+  - title: "Automation Innovation: From AI and Analytics to Machine Learning and Robotics, Supply Chains Will Never be the Same Again"
+    excerpt: "A combination of intensifying customer demands and massively disruptive events such as the COVID-19 pandemic is pushing suppliers, manufacturers, distributors and retailers to embrace innovation at an unprecedented pace."
+    publishedDateTime: 2021-08-25T21:23:00Z
+    webUrl: "https://www.supplychainbrain.com/articles/33642-surviving-in-the-age-of-permanent-supply-chain-disruption-part-2-automation-innovation"
+    type: article
+    provider:
+      name: Supply Chain
+      domain: supplychainbrain.com
+    quality: 61
+    images:
+      - url: "https://www.supplychainbrain.com/ext/resources/0-videos/Gartner-2021/Gartner-webinar.jpg?height=635&t=1629927938&width=1200"
+        width: 800
+        height: 555
         isCached: true
   - title: "AI is Pivotal the Future of the Autonomous Shipping"
     excerpt: "The shipping industry is responsible for around 90% of the world’s trade distribution, carrying the likes of machinery, motors,"

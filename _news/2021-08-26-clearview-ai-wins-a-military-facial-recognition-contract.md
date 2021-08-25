@@ -101,7 +101,21 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Federal government to expand use of facial recognition despite growing concerns"
+    excerpt: "Ten federal agencies — the departments of Agriculture, Commerce, Defense, Homeland Security, Health and Human Services, Interior, Justice, State, Treasury, and Veterans Affairs — told the Government Accountability Office that they intend to grow their facial recognition capabilities by 2023,"
+    publishedDateTime: 2021-08-25T21:55:00Z
+    webUrl: "https://www.stripes.com/theaters/us/2021-08-25/federal-government-expand-use-facial-recognition-gao-report-2664035.html"
+    type: article
+    provider:
+      name: Stars and Stripes
+      domain: stripes.com
+    quality: 37
+    images:
+      - url: "https://www.stripes.com/theaters/us/1gaagz-Capitol-Police-officers-stand-at-an-entry-point-th/alternates/LANDSCAPE_480/Capitol%20Police%20officers%20stand%20at%20an%20entry%20point%20th"
+        width: 480
+        height: 299
+        isCached: true
 
-secured: "GVXjcbXL9UkVNZTFW1GO1IpjWhkEZ0M3Euks8U5Q160LMHbadxtIQN9G8LRrEkAdKuQSbda3zpZ5YXgr4W11c7TicM+WSyNCsPKENFpt5MV7R/LtzQEl30wob5qLF6s6rp6IJlbYLJ4WlyqTWCGhS2rY01kWCaiqBnspVzV1xDGb6b/2oa8fpVFm+G1sNVHNBVqXOPva3++LEaCGlCDJrgJ/hL63HXTXIkKnnD/Bd8SJUnnqN2J4c1VUu712lLVzhmoRINqo0sa+OktMCsl5Ac3bObYpWmqHh/6lKaWSqx6u266PhS2Q9zZB2kFfQOyHDLYuLGRELsChPIKb5/cIuWCuLvzrSJ7piKL+T1lEEL8=;Nk62Dr/tUYKdBRr3Lf1VJA=="
+secured: "lfOFUcBLc/xqQaI1NYT8ZHkqTh0qjXzriyVryKna4DtDAxQfj+pp+GphYM07mV7XC3suDDocECXp/7lcah3p2WXzN3Gl6kH70HTW5B6y87ZhFqhLppK+9/1Q/smLoicIDXm6Q5D+ed7Xpft+WrZm5rDn3M3nwmQKjK9tghaSJVZXZms/nHjer3R2c8QCbAetOaMiZe/9xKrvHXogmn70DgYJmiLyJ1kqu0FMOKuJpjl7eYrt8GGR+orxMhe3XUnLAMyeVSnW5J1Gs9xE5sRLxDKCazqkmUek1J/MczlBdDtBehBFk5otX5daJkWuunsjPY7JLyDuzQZ5NbOTNV+bPhCoOEahCWsYJ3nkO5rWAFceD7uJe1GADMMF9YOQSTqIfXEoytNJeYz5wv+mOdrSA0sRkEvu1j1T4Ds/Dfg0G7B78XqGapUWbFcBtAU5RQbgH2AyCsjpCNWh8K05MDUi4L/6t5ApCBtfPopLUmO5zxR3gQ3FTtMtPoU8OHPGFsEOnxtZGGDcN0xl7HJBsZT1BA==;xq1sG7hKamg9raxGWOxsLg=="
 ---
 
