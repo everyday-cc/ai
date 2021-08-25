@@ -20,6 +20,38 @@ topics:
   - Natural Language Processing
 
 related:
+  - title: "Cerebras’ CS-2 brain-scale chip can power AI models with 120 trillion parameters"
+    excerpt: "Cerebras said its CS-2 processor is a \"brain-scale\" chip that can power AI models with more than 120 trillion parameters."
+    publishedDateTime: 2021-08-24T19:00:00Z
+    webUrl: "https://venturebeat.com/2021/08/24/cerebras-cs-2-brain-scale-chip-can-power-ai-models-with-120-trillion-parameters/"
+    ampWebUrl: "https://venturebeat.com/2021/08/24/cerebras-cs-2-brain-scale-chip-can-power-ai-models-with-120-trillion-parameters/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/24/cerebras-cs-2-brain-scale-chip-can-power-ai-models-with-120-trillion-parameters/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 99
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/04/cerebras-main.jpg?w=1200&strip=all"
+        width: 1200
+        height: 668
+        isCached: true
+  - title: "Cerebras Systems Lays The Foundation For Huge Artificial Intelligence"
+    excerpt: "Cerebras extends CS-2 system and software to train a 120-Trillion-parameter model on the way to brain-scale AI."
+    publishedDateTime: 2021-08-24T07:30:00Z
+    webUrl: "https://www.forbes.com/sites/karlfreund/2021/08/24/cerebras-systems-creates-huge-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/08/24/cerebras-systems-creates-huge-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/08/24/cerebras-systems-creates-huge-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611eaab4a8a155b120682f84%2F0x0.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Cerebras prepares for the era of 120 trillion-parameter neural networks"
     excerpt: "In the past year, what had been the world's largest neural net as measured by neural weights, OpenAI's GPT-3 natural language processing program, with 175 billion weights, was eclipsed by Google's 1.6-trillion-parameter model, the Switch Transformer."
     publishedDateTime: 2021-08-25T00:33:00Z
@@ -35,6 +67,20 @@ related:
       - url: "https://www.zdnet.com/a/hub/i/2021/08/24/a9840569-346e-4256-83d9-a981a1f2c01d/hc2021-cerebras-embargoed-8-24-slide-10.jpg"
         width: 960
         height: 540
+        isCached: true
+  - title: "Cerebras Systems Lays The Foundation For Huge Artificial Intelligence"
+    excerpt: "Cerebras extends CS-2 system and software to train a 120-Trillion-parameter model on the way to brain-scale AI."
+    publishedDateTime: 2021-08-24T20:06:00Z
+    webUrl: "https://www.forbes.com/sites/karlfreund/2021/08/24/cerebras-systems-lays-the-foundation-for-huge-artificial-intelligence/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 69
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611eaab4a8a155b120682f84%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2004%26cropY1%3D0%26cropY2%3D1128"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "1OTCi/Z6qyrtAl0dEHu5AB64S45lUc7/5NfMVS1HdwusBCm+F74luWOggQdweGwFo2zeBpPzz6ygmQ8ttLRpi/HhmMQoNAFnws+ez3Krn32jjN2B2b7wSAlUGxFqXSVGKDjG4NC6Ym5EhU6XzQFSOvDQJ7sQwpSRk8QTqPnHbDXd7BttXrWe8ZNE9gEnJp7s9XrsdtZ2Gt562gndfPq8ZeSw0Jh4FBtIThEG8uW8IgyObcaQUs5c8Y771e0wRa6Obf9V2RZu0mMN7ZSLFzLEQxQDvjO9Ye59wBDJBl/vUvxBuvyT8i5NF09NvxVtolfPR41semNoLbfgTp2D8wMGKYX5WosM86gDqECfCdXpmJ43ajP+ll1xqI+6onV1eATUkC/43ztThDGgJwyi7u+nUfBbOrBtS2/aQ5VKWcFn5JJRjitaV5fJbw+1WVY9gVZkXwqOA3xKd5V5efqF8SUW7r2aID8OJrjUD0NSt6hvf8SXgJlEurbrsYbWEa4s83MiWIYwXAAxLMpdUCs09qGzYw==;y+6cvXYdOE+JwzM+dS2g0A=="

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.gizbot.com/amphtml/internet/features/artificial-intellig
 cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/internet/features/artificial-intelligence-changing-face-of-tech-in-sports-076273.html"
 type: article
 quality: 59
-heat: 59
-published: false
+heat: 89
+published: true
 
 provider:
   name: GIZBOT
@@ -25,6 +25,52 @@ images:
     width: 600
     height: 337
     isCached: true
+
+related:
+  - title: "AI is Pivotal the Future of the Autonomous Shipping"
+    excerpt: "The shipping industry is responsible for around 90% of the world’s trade distribution, carrying the likes of machinery, motors,"
+    publishedDateTime: 2021-08-23T17:27:00Z
+    webUrl: "https://www.marinelink.com/news/ai-pivotal-future-autonomous-shipping-490075"
+    ampWebUrl: "https://www.marinelink.com/amp/news/ai-pivotal-future-autonomous-shipping-490075"
+    cdnAmpWebUrl: "https://www-marinelink-com.cdn.ampproject.org/c/s/www.marinelink.com/amp/news/ai-pivotal-future-autonomous-shipping-490075"
+    type: article
+    provider:
+      name: Marine Link
+      domain: marinelink.com
+    quality: 57
+    images:
+      - url: "https://images.marinelink.com/images/maritime/w800h600pad/quardia-adobe-stock-125369.jpeg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "The next phase of AI is generative"
+    excerpt: "In it's next act, AI will transform from an augmentative technology to a more direct generator of products and data, according to Gartner's 2021 Hype Cycle."
+    publishedDateTime: 2021-08-23T08:02:00Z
+    webUrl: "https://www.ciodive.com/news/gartner-hype-cycle-2021-generative-AI/605338/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 39
+    images:
+      - url: "https://www.ciodive.com/user_media/cache/c5/be/c5bebcd82b9d946423290834d57755de.jpg"
+        width: 770
+        height: 364
+        isCached: true
+  - title: "Putting The Fun Back Into Software Testing With AI"
+    excerpt: "This work is rarely described as fun, so let's automate it. Is automation the answer to making testing fun again?"
+    publishedDateTime: 2021-08-24T15:00:00Z
+    webUrl: "https://thenewstack.io/putting-the-fun-back-into-software-testing-with-ai/"
+    type: article
+    provider:
+      name: thenewstack.io
+      domain: thenewstack.io
+    quality: 39
+    images:
+      - url: "https://cdn.thenewstack.io/media/2021/08/5819ae1e-ferris-wheel-731194_1280.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "mGTduUtOEzEYCxUWyh9bPl2kZ7m1F5ygtVhJQ4yJtpuauBCcfLfaNmLw+xt4oss+1WBynMkawi4KpnidOwyOZPBSn5dgd3ZYguGy589hnJie1xq8R6IvCHx5TZLP7Xms7yOpHvUzLBUACaNXbvxuwcmX18p4uHkQC4ThfVYC3gSdiXY2g+5WYH2DIvKYHQVr49tWrLJc0l9RgHqc9QWNSTVeXjfQaBVVCx8WqlJSY5SnWy3cwKwu6FBys269pWz/W/qzISliHk/6C0YxwUxTOAldzqn/DCZ052w1z0MkLoTm612XCxB+3E8VTS6S3BSQ2qQSv8D99l2s7ivQXcSCkKFPooq4PaTXcNmOK3L3y5WnzUeQqVPKRQguE0c5yHtv9LFT01EdTZpGmddPk93MWFBDF/kIRTQg96r5QBsuEro99EsG+rpJBb3g7FyrzkxSwY51eNrpUqCmvb+JLVUQGRDmcTz9XIzKhzcoiHVAiTbWrqLEha6oFJzFKwAzrIAv6Di9BNzzefdpxU0NO8qG2A==;DUm/BR0Mcf/9jlYwkEKBRA=="
 ---

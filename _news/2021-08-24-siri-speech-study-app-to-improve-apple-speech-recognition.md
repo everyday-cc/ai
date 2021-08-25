@@ -57,20 +57,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Apple quietly launches invite-only Siri Speech Study for iOS"
-    excerpt: "Apple has launched a research program called the \"Siri Speech Study,\" an app in the App Store for the collection of speech data to improve the digital assistant."
-    publishedDateTime: 2021-08-20T12:59:00Z
-    webUrl: "https://appleinsider.com/articles/21/08/20/apple-quietly-launches-invite-only-siri-speech-study-for-ios"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 24
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/43896-85398-41133-79617-Siri-xl-xl.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "LaKXbGu6etkxumDwzFMTKBFQn7SWjnJbud1uRR2w/oz1DPFU5nF8JUoa1B2YVJaH1Lv6yeetZ38YqVaoKlkST8jdHlCS82POkKIvPlfNXXMPnpL9GJUGNYHfvxfwmIetHFZ48pmFHZmPBVSJfqK0Y5c1iDMDp/7uVEdPeqB4tC7hFoe6eYmsaYf2LF0xSJM1jbDrpyoBuhqsMIhWueNdrS99187gFAh/I8ujY0UiEcq0vRQXPYVudDkdUzvDTaq1eLTCS22jzUF5UAnTRLIUk6M+t7BcChI0cLPuL0Etx97LKTKv4ibAysNxScX2ZOI7PKJmprEhr655PYo1f4ZqzzXt6aReLD+bjToVxGNTaf8fRBqg5l4Af2lU16XYbnBB+Xo1P7ORCp39aqVBPGFDkp/9C3bgvJKESIqNkjt8ahfjJdbS2HsV0fYZIKTNpSJZ8v4FMk72Rgz0BL0DXxahnMPLFUNmsUAe+Q9zd8VsSgx/QOKKrd5CPpFlrzMIVaijixCMhHww2vJPhiklst8qwA==;l9ubUZOSDqjxIcL84tzcZA=="
 ---

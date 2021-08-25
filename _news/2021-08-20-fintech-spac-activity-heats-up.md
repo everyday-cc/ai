@@ -52,19 +52,19 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "Top Fintech Trends Transforming Peoples Lives"
-    excerpt: "AI and ML have managed to retain their top positions in the FinTech trend for a long time. They have fuelled the rapid growth and development of new technologies in the FinTech industry. FREMONT, CA: The fintech industry is growing rapidly, and it is ..."
-    publishedDateTime: 2021-08-20T12:40:00Z
-    webUrl: "https://www.cioapplications.com/news/top-fintech-trends-transforming-peoples-lives-nid-8324.html"
+  - title: "Fintech to transform digital banking in Qatar"
+    excerpt: "Fintech, which provides opportunities for economic diversification, will transform the digital banking experience in Qatar, an official has said yesterday at the Qatar Fintech Summit."
+    publishedDateTime: 2021-08-25T05:19:00Z
+    webUrl: "https://thepeninsulaqatar.com/article/25/08/2021/Fintech-to-transform-digital-banking-in-Qatar"
     type: article
     provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 24
+      name: The Peninsula
+      domain: thepeninsulaqatar.com
+    quality: 39
     images:
-      - url: "https://www.cioapplications.com/uploaded_images/magazine_img/itqtp300400.jpg"
-        width: 300
-        height: 400
+      - url: "https://thepeninsulaqatar.com/uploads/2021/08/25/post_main_cover/ded4f5bd964be331388b1cebf2ba37087b73f38a.jpg"
+        width: 473
+        height: 355
         isCached: true
   - title: "Ubiquity Names Peg Johnson to Lead Growing Fintech Business"
     excerpt: "Payments Veteran Joins BPO to Integrate Suite of Services for Challenger Banks and Fintechs NEW YORK, NY / ACCESSWIRE / August 24, 2021 / Ubiquity, a multinational business process outsourcer and one of the fastest-growing private companies in the United States,"

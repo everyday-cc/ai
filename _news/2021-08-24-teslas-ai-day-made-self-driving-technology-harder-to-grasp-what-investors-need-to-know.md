@@ -27,6 +27,154 @@ images:
     isCached: true
 
 related:
+  - title: "2 Big Revelations From Tesla's AI Day Event"
+    excerpt: "Tesla management says it will extend its AI expertise to autonomous humanoid robots. Last Thursday, Tesla (NASDAQ:TSLA) hosted its AI Day event. Elon Musk has branded these presentations as a recruiting opportunity,"
+    publishedDateTime: 2021-08-23T18:21:00Z
+    webUrl: "https://www.fool.com/investing/2021/08/23/2-big-revelations-from-tesla-ai-day-event/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2021/08/23/2-big-revelations-from-tesla-ai-day-event/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/08/23/2-big-revelations-from-tesla-ai-day-event/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 104
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F640331%2F0x0-bardessono_napa_raw-43-hdr-1-3.jpg&w=1200&op=resize"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Tesla Places Itself As A Robotics Company With Reach Beyond EVs, Unveils Dojo Chips, Humanoid: Key Takeaways From AI Day"
+    excerpt: "The maximum running speed of the robot is 5 mph, which as per Musk makes it safe. The entrepreneur has in the past expressed concerns about artificial intelligence and thus the Bot is designed at a “mechanical level” in such a way that “you can run ..."
+    publishedDateTime: 2021-08-20T15:00:00Z
+    webUrl: "https://www.benzinga.com/news/21/08/22590542/tesla-places-itself-as-a-robotics-company-with-reach-beyond-evs-unveils-dojo-chips-humanoid-key-take"
+    ampWebUrl: "https://www.benzinga.com/amp/content/22590542"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22590542"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 98
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/screen_shot_2021-08-20_at_4.16.51_pm.png"
+        width: 2720
+        height: 1584
+        isCached: true
+  - title: "The Station: Bird’s improving scooter-nomics, breaking down Tesla AI day and the Nuro EC-1"
+    excerpt: "The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every weekend in your inbox. Hello readers: Welcome to The Station, your central hub for all past,"
+    publishedDateTime: 2021-08-23T11:00:00Z
+    webUrl: "https://techcrunch.com/2021/08/23/the-station-birds-improving-scooter-nomics-and-breaking-down-tesla-ai-day/"
+    ampWebUrl: "https://techcrunch.com/2021/08/23/the-station-birds-improving-scooter-nomics-and-breaking-down-tesla-ai-day/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/23/the-station-birds-improving-scooter-nomics-and-breaking-down-tesla-ai-day/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 96
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/08/1894129364-NSussman_Techcrunch_Nuro-FINAL_full-L.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Future Tesla AI Cloud Vs Amazon AWS, Google Cloud, Alibaba"
+    excerpt: "Home » Artificial intelligence » Future Tesla AI Cloud Vs Amazon AWS, Google Cloud, Alibaba The Amazon AWS Global Infrastructure is built for performance. AWS Regions offer low latency, low packet loss,"
+    publishedDateTime: 2021-08-23T00:02:00Z
+    webUrl: "https://www.nextbigfuture.com/2021/08/future-tesla-ai-cloud-vs-amazon-aws-google-cloud-alibaba.html"
+    ampWebUrl: "https://www.nextbigfuture.com/2021/08/future-tesla-ai-cloud-vs-amazon-aws-google-cloud-alibaba.html"
+    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/08/future-tesla-ai-cloud-vs-amazon-aws-google-cloud-alibaba.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 91
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/08/Screen-Shot-2021-08-19-at-7.39.33-PM-1024x571.jpg"
+        width: 1024
+        height: 571
+        isCached: true
+  - title: "Tesla Has Unveiled A New Chip For Training AI Models Inside Its Data Centers"
+    excerpt: "Tesla announced a custom-made chip for training artificial intelligence networks in data centres. Shown at the carmaker’s Livestreaming AI Day, the work shows that the company is engaged in vertical integration."
+    publishedDateTime: 2021-08-21T12:01:00Z
+    webUrl: "https://wonderfulengineering.com/tesla-has-unveiled-a-new-chip-for-training-ai-models-inside-its-data-centers/"
+    ampWebUrl: "https://wonderfulengineering.com/tesla-has-unveiled-a-new-chip-for-training-ai-models-inside-its-data-centers/amp/"
+    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/tesla-has-unveiled-a-new-chip-for-training-ai-models-inside-its-data-centers/amp/"
+    type: article
+    provider:
+      name: Wonderful Engineering
+      domain: wonderfulengineering.com
+    quality: 88
+    images:
+      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/08/NVidia-GPU-Packaging.jpg"
+        width: 872
+        height: 872
+        isCached: true
+  - title: "Why Tesla Stock Is Up After AI Day"
+    excerpt: "Wedbush didn't change its \"outperform\" rating on Tesla stock this morning in response to the company's plan to build its own D1 computer chips to run its Dojo supercomputer ... But hey, in at least one respect, AI Day was a success: It generated headlines ..."
+    publishedDateTime: 2021-08-20T15:41:00Z
+    webUrl: "https://www.nasdaq.com/articles/why-tesla-stock-is-up-after-ai-day-2021-08-20"
+    ampWebUrl: "https://www.nasdaq.com/articles/why-tesla-stock-is-up-after-ai-day-2021-08-20?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-tesla-stock-is-up-after-ai-day-2021-08-20?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 86
+  - title: "Tesla Bull Vs. Tesla Bear: Tesla AI Day Key Takeaways From Analysts"
+    excerpt: "Tesla Inc (NASDAQ: TSLA) explained various AI technology, seemingly for recruiting purposes, during its AI Day on Thursday."
+    publishedDateTime: 2021-08-20T18:08:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/tesla-bull-vs-tesla-bear-tesla-ai-day-key-takeaways-from-analysts-1030749493"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/0x0-model3_13_0.jpg"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "Key Takeaways From Much-Awaited Tesla (TSLA) AI Day Event"
+    excerpt: "Tesla’s TSLA highly anticipated Artificial Intelligence (AI) day event was live-streamed on the company’s official YouTube channel on Aug 19. At the flashy event, the electric car maker made several key announcements in the areas of computing,"
+    publishedDateTime: 2021-08-23T12:57:00Z
+    webUrl: "https://www.nasdaq.com/articles/key-takeaways-from-much-awaited-tesla-tsla-ai-day-event-2021-08-23"
+    ampWebUrl: "https://www.nasdaq.com/articles/key-takeaways-from-much-awaited-tesla-tsla-ai-day-event-2021-08-23?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/key-takeaways-from-much-awaited-tesla-tsla-ai-day-event-2021-08-23?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 84
+  - title: "James Douma Interviewed About Tesla Bot and AI Day"
+    excerpt: "James Douma was interviewed by Dave Lee about Tesla AI Day. James is an AI expert and notes how Tesla has done significant re-architecting and is charting new"
+    publishedDateTime: 2021-08-21T18:18:00Z
+    webUrl: "https://www.nextbigfuture.com/2021/08/james-douma-interviewed-about-tesla-bot-and-ai-day.html"
+    ampWebUrl: "https://www.nextbigfuture.com/2021/08/james-douma-interviewed-about-tesla-bot-and-ai-day.html"
+    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/08/james-douma-interviewed-about-tesla-bot-and-ai-day.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 76
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/08/Screen-Shot-2021-08-19-at-7.36.59-PM.jpg"
+        width: 1566
+        height: 1280
+        isCached: true
+  - title: "Massive AI Project Will Supercharge Tesla Stock"
+    excerpt: "Tesla (TSLA) is on the verge of a game-changing breakthrough in machine learning yet the only thing people are talking about is its plan for a stupid humanoid robot. Executives at the electric vehicle company on Thursday held an artificial intelligence day."
+    publishedDateTime: 2021-08-23T17:16:00Z
+    webUrl: "https://www.thestreet.com/tech/news/teslajdm082321"
+    ampWebUrl: "https://www.thestreet.com/tech/.amp/news/teslajdm082321"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/tech/.amp/news/teslajdm082321"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 76
+    images:
+      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTgzMzU1MDk2MTg3MjgyODUw/tesla-fsd-beta-elon-musk-1280x720.jpg"
+        width: 620
+        height: 349
+        isCached: true
   - title: "Tesla AI Day: EV-maker shows improved self-driving tech for Autopilot"
     excerpt: "Tesla's self-driving technology has recently come under regulatory spotlight. Tesla is working on a purely vision-based system, using eight vehicle-mounted cameras to process a real-time three-dimensional vector space to guide navigation."
     publishedDateTime: 2021-08-20T17:51:00Z
@@ -43,37 +191,35 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Tesla could make its self-driving technology available for other automakers"
-    excerpt: "Electric vehicle major Tesla has revealed that it might make the company's self-driving technology available for other automakers, reports Autocar. Tesla has revealed this plan during its AI Day last week."
-    publishedDateTime: 2021-08-23T17:27:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/tesla-could-make-its-self-driving-technology-available-for-other-automakers-41629697069079.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/news/tesla-could-make-its-self-driving-technology-available-for-other-automakers/amp-41629697069079.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/tesla-could-make-its-self-driving-technology-available-for-other-automakers/amp-41629697069079.html"
+  - title: "Could Tesla Mass Produce Dojo AI Cloud Systems"
+    excerpt: "Tesla revealed its Exapod Dojo supercomputer made from 10 cabinets of servers. Each rack has 6 tiles with 9 Petaflops in each tile. Each cabinet is 100"
+    publishedDateTime: 2021-08-23T06:38:00Z
+    webUrl: "https://www.nextbigfuture.com/2021/08/could-tesla-mass-produce-dojo-ai-cloud-systems.html"
+    ampWebUrl: "https://www.nextbigfuture.com/2021/08/could-tesla-mass-produce-dojo-ai-cloud-systems.html"
+    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/08/could-tesla-mass-produce-dojo-ai-cloud-systems.html"
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 72
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 74
     images:
-      - url: "https://images.hindustantimes.com/auto/img/2021/08/23/600x338/2021-04-26T224048Z_1_LYNXMPEH3P1EV_RTROPTP_3_TESLA-RESULTS-OPTIONS_1619508003846_1629698081742.JPG"
-        width: 600
-        height: 338
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/08/Screen-Shot-2021-08-19-at-7.36.59-PM.jpg"
+        width: 1566
+        height: 1280
         isCached: true
-  - title: "Why the feds are investigating Tesla's Autopilot and what that means for the future of self-driving cars"
-    excerpt: "It’s hard to miss the flashing lights of fire engines, ambulances and police cars ahead of you as you’re driving down the road. But in at least 11 cases in the past three and a half years, Tesla’s Autopilot advanced driver-assistance system did just that."
-    publishedDateTime: 2021-08-23T19:03:00Z
-    webUrl: "https://www.seattlepi.com/news/article/Why-the-feds-are-investigating-Tesla-s-Autopilot-16405074.php"
-    ampWebUrl: "https://www.seattlepi.com/news/amp/Why-the-feds-are-investigating-Tesla-s-Autopilot-16405074.php"
-    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Why-the-feds-are-investigating-Tesla-s-Autopilot-16405074.php"
+  - title: "Is the ‘D1’ AI chip speeding Tesla towards full autonomy?"
+    excerpt: "Tesla on its AI day, unveiled a custom chip for training artificial intelligence networks in data centers The D1 chip is part of Tesla’s Dojo"
+    publishedDateTime: 2021-08-24T11:33:00Z
+    webUrl: "https://techhq.com/2021/08/is-the-d1-ai-chip-speeding-tesla-towards-full-autonomy/"
     type: article
     provider:
-      name: seattlepi.com
-      domain: seattlepi.com
-    quality: 42
+      name: TechHQ
+      domain: techhq.com
+    quality: 71
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://cdn2.techhq.com/wp-content/uploads/2021/08/Tesla-AI-Day-2021-15-1200x675-1.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "1QAM7SBamGuP5bKqI9Ko/BL+UxIasA1ODWU/aRkVJ5kW6D2w+HG+xbFEGexCO19DZIBSrO9gsrv8nTrrhk1NjUgoAjrEAbfF+MTwASVnqExfjXEoI2ois711OahZDhziAphJmbsoG9o+Sh6/phJ1rC7M551Sq2pJykSnhTuNYTxSbY+3epJGxMJwG0wuR2T3Fy7Scq1zQTSFRuO3U/AITg33E4RxDOyv8eqQflTqxV4imxqfjQFRY5M3G0FfKXtfmxihPSsTVA787QuL7F523k2gq4wd2mhiCUggg7509VB/pJmaFoQYkPBvYEazLx1lO4hpmijpUZDTlQCLfgtcSrry+UYNlUTBmssaysMYwhHQcz9H+wwD9XbltLmy/0cictJy82pYZa30zFfmhk4I/MH9NKhGfjDC2MHJx4cNgSlRH8Uva2qZao22BMYxHPiNZCp0tPFxiBmvLpFWChMnQIzm5lRaB2/O+v6GzHAQ5/CdmCbxwSynDSnr4VopStAt+WIdCCQuxdz+b33/ARBWyw==;y5RAeBfPRdcoHIdvahkasg=="

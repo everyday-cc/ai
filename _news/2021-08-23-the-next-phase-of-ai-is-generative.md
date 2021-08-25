@@ -25,83 +25,51 @@ images:
     isCached: true
 
 related:
-  - title: "This massive AI chip has the compute power of a human brain"
-    excerpt: "Cerebras Systems says that it its Cerebras CS-2 AI system is now capable of the equivalent compute power of the human brain."
-    publishedDateTime: 2021-08-24T19:33:00Z
-    webUrl: "https://www.pcworld.com/article/3630379/this-massive-ai-chip-has-the-compute-power-of-a-human-brain.html"
-    ampWebUrl: "https://www.pcworld.com/article/3630379/this-massive-ai-chip-has-the-compute-power-of-a-human-brain.amp.html"
-    cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3630379/this-massive-ai-chip-has-the-compute-power-of-a-human-brain.amp.html"
+  - title: "Artificial Intelligence Is Changing The Face Of Tech In Sports"
+    excerpt: "Automation and AI are at the forefront of driving numerous industries in the pandemic-hit world. While things are slowly getting back to normalcy, they would never be the same. As a matter of fact, the pandemic unleashed the true potential of Artificial Intelligence,"
+    publishedDateTime: 2021-08-23T05:00:00Z
+    webUrl: "https://www.gizbot.com/internet/features/artificial-intelligence-changing-face-of-tech-in-sports-076273.html"
+    ampWebUrl: "https://www.gizbot.com/amphtml/internet/features/artificial-intelligence-changing-face-of-tech-in-sports-076273.html"
+    cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/internet/features/artificial-intelligence-changing-face-of-tech-in-sports-076273.html"
     type: article
     provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 106
+      name: GIZBOT
+      domain: gizbot.com
+    quality: 59
     images:
-      - url: "https://images.idgesg.net/images/article/2019/08/cerebras-1-100808712-large.jpg?auto=webp"
-        width: 1199
-        height: 776
+      - url: "https://www.gizbot.com/img/2021/08/5-1629548019.jpg"
+        width: 600
+        height: 337
         isCached: true
-  - title: "Hot Chips Concludes An Amazing Lineup of AI Chip Companies."
-    excerpt: "I can deal with it: some technology is just beyond my pay grade. My masters in CS is decades old, and the deep technology underneath blindingly fast AI chips is often beyond my comprehension. But when I saw the lineup of companies presenting at this years ..."
-    publishedDateTime: 2021-08-24T23:03:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2021/08/24/and--thats-a-wrap-hot-chips-concludes-an-amazing-lineup-of-ai-chip-announcements/"
-    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/08/24/and--thats-a-wrap-hot-chips-concludes-an-amazing-lineup-of-ai-chip-announcements/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/08/24/and--thats-a-wrap-hot-chips-concludes-an-amazing-lineup-of-ai-chip-announcements/amp/"
+  - title: "AI is Pivotal the Future of the Autonomous Shipping"
+    excerpt: "The shipping industry is responsible for around 90% of the world’s trade distribution, carrying the likes of machinery, motors,"
+    publishedDateTime: 2021-08-23T17:27:00Z
+    webUrl: "https://www.marinelink.com/news/ai-pivotal-future-autonomous-shipping-490075"
+    ampWebUrl: "https://www.marinelink.com/amp/news/ai-pivotal-future-autonomous-shipping-490075"
+    cdnAmpWebUrl: "https://www-marinelink-com.cdn.ampproject.org/c/s/www.marinelink.com/amp/news/ai-pivotal-future-autonomous-shipping-490075"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
+      name: Marine Link
+      domain: marinelink.com
+    quality: 57
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611d8d46a45079d06316ca62%2F0x0.jpg"
+      - url: "https://images.marinelink.com/images/maritime/w800h600pad/quardia-adobe-stock-125369.jpeg"
         width: 800
-        height: 503
+        height: 450
         isCached: true
-  - title: "Cerebras’ CS-2 brain-scale chip can power AI models with 120 trillion parameters"
-    excerpt: "Cerebras said its CS-2 processor is a \"brain-scale\" chip that can power AI models with more than 120 trillion parameters."
-    publishedDateTime: 2021-08-24T19:00:00Z
-    webUrl: "https://venturebeat.com/2021/08/24/cerebras-cs-2-brain-scale-chip-can-power-ai-models-with-120-trillion-parameters/"
-    ampWebUrl: "https://venturebeat.com/2021/08/24/cerebras-cs-2-brain-scale-chip-can-power-ai-models-with-120-trillion-parameters/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/24/cerebras-cs-2-brain-scale-chip-can-power-ai-models-with-120-trillion-parameters/amp/"
+  - title: "Putting The Fun Back Into Software Testing With AI"
+    excerpt: "This work is rarely described as fun, so let's automate it. Is automation the answer to making testing fun again?"
+    publishedDateTime: 2021-08-24T15:00:00Z
+    webUrl: "https://thenewstack.io/putting-the-fun-back-into-software-testing-with-ai/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 99
+      name: thenewstack.io
+      domain: thenewstack.io
+    quality: 39
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/04/cerebras-main.jpg?w=1200&strip=all"
-        width: 1200
-        height: 668
-        isCached: true
-  - title: "Cerebras Systems Lays The Foundation For Huge Artificial Intelligence"
-    excerpt: "Cerebras extends CS-2 system and software to train a 120-Trillion-parameter model on the way to brain-scale AI."
-    publishedDateTime: 2021-08-24T07:30:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2021/08/24/cerebras-systems-creates-huge-artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/08/24/cerebras-systems-creates-huge-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/08/24/cerebras-systems-creates-huge-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611eaab4a8a155b120682f84%2F0x0.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Cerebras Systems Lays The Foundation For Huge Artificial Intelligence"
-    excerpt: "Cerebras extends CS-2 system and software to train a 120-Trillion-parameter model on the way to brain-scale AI."
-    publishedDateTime: 2021-08-24T20:06:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2021/08/24/cerebras-systems-lays-the-foundation-for-huge-artificial-intelligence/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611eaab4a8a155b120682f84%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2004%26cropY1%3D0%26cropY2%3D1128"
-        width: 1200
-        height: 675
+      - url: "https://cdn.thenewstack.io/media/2021/08/5819ae1e-ferris-wheel-731194_1280.jpg"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "ogpTRHMvBlWGHhvQOZOgjWoIYZxgRgJ7rS+gJpvmFbHPLS3vzvU0SKlm2D4OI82NHTwvJA1C2802GwZRwessKAEGNqH6ucpwyQ8OJkjwieHnR+bIxALaMZ4zVa0vnh4iDEr64MA8++7WHohZsY+jmtw4H3YivvfJiw6Z6U5g1En/Yvv/lZczDtbQ9tJ3rGq31Q2fvDrbLT7UBqG7znZrfhsl0OacWsJkrfcha2jggZxVoh40a8Rmst/sEz6mlrpCpFXajPbH7tfBzd9eNhAnL5iutGF1GwwLBS4+0d8BjbdjQFNVjSMYD0My1Dlxk09l+ZUWsjc2xKnhU0cwbDJHMrnW8J0DXBsDSrBcCh/a1J8=;QMxoZz2TMwu8SwbrnviAgg=="

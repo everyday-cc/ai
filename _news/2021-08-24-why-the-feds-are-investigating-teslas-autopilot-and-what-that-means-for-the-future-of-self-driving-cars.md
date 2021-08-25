@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla AI Day: EV-maker shows improved self-driving tech for Autopilot"
-    excerpt: "Tesla's self-driving technology has recently come under regulatory spotlight. Tesla is working on a purely vision-based system, using eight vehicle-mounted cameras to process a real-time three-dimensional vector space to guide navigation."
-    publishedDateTime: 2021-08-20T17:51:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/tesla-ai-day-ev-maker-shows-improved-self-driving-tech-for-autopilot-41629439031382.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/news/tesla-ai-day-ev-maker-shows-improved-self-driving-tech-for-autopilot/amp-41629439031382.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/tesla-ai-day-ev-maker-shows-improved-self-driving-tech-for-autopilot/amp-41629439031382.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 74
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2021/08/20/600x338/AFP_9L8894_1629439212600_1629439224395.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Tesla could make its self-driving technology available for other automakers"
     excerpt: "Electric vehicle major Tesla has revealed that it might make the company's self-driving technology available for other automakers, reports Autocar. Tesla has revealed this plan during its AI Day last week."
     publishedDateTime: 2021-08-23T17:27:00Z
@@ -59,21 +43,35 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Tesla’s AI Day Made Self- Driving Technology Harder to Grasp. What Investors Need to Know."
-    excerpt: "Companies are racing to build autonomous vehicles, but judging who has the best systems has become nearly impossible for ordinary people."
-    publishedDateTime: 2021-08-24T08:30:00Z
-    webUrl: "https://www.barrons.com/articles/tesla-ai-autonomous-vehicle-technology-51629756011"
-    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-ai-autonomous-vehicle-technology-51629756011"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-ai-autonomous-vehicle-technology-51629756011"
+  - title: "Will Tesla share its self-driving system with other manufacturers?"
+    excerpt: "Tesla isn't against licensing its autonomous driving technology 'Autopilot'. But it remains to be seen with whom such an agreement would be, and at what price"
+    publishedDateTime: 2021-08-25T05:27:00Z
+    webUrl: "https://www.forbesindia.com/article/forbes-lifes/will-tesla-share-its-selfdriving-system-with-other-manufacturers/69985/1"
+    ampWebUrl: "https://www.forbesindia.com/amp/article/forbes-lifes/will-tesla-share-its-selfdriving-system-with-other-manufacturers/69985/1"
+    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/forbes-lifes/will-tesla-share-its-selfdriving-system-with-other-manufacturers/69985/1"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 64
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 59
     images:
-      - url: "https://images.barrons.com/im-389712/social"
-        width: 1280
-        height: 640
+      - url: "https://www.forbesindia.com/media/images/2021/Aug/img_166385_selfdrivingsystem.jpg"
+        width: 900
+        height: 600
+        isCached: true
+  - title: "Behind the Feds’ tesla Investigation, and the Future of Self-Driving Cars"
+    excerpt: "The probe covers 765,000 Tesla cars – that’s virtually every car the company has made in the last seven years. The investigation will put pressure on Tesla to reevaluate the technologies the company uses in Autopilot and could influence the future of driver-assistance systems and autonomous vehicles."
+    publishedDateTime: 2021-08-24T01:00:00Z
+    webUrl: "https://flaglerlive.com/167187/behind-the-feds-tesla-investigation/"
+    type: article
+    provider:
+      name: Flagler Live
+      domain: flaglerlive.com
+    quality: 38
+    images:
+      - url: "https://flaglerlive.com/wp-content/uploads/tesla.jpg"
+        width: 1000
+        height: 657
         isCached: true
 
 secured: "IBb/nUsjwIrbDTom/NYrPr+nz2sCJyzOrxI5E8qRRcTQyzYSpJEPsh0Bhek8YcsWxZ2uozMwkWIuWprilwvNsh8YFCX6saEwBORHIloilop3+N2PtS8YjkB6haWv2vtIjQT1NUxNRXeiARfBWKaIRrYTPPnTrCRp/PBFL+Fre7PljI+NoS+ZIlHjq1r572gPKJdkUiZItfmyGGp8UgaWhuOLo+wYnmFdooTDxxrOzLCD0oiESkaterEvDd2Ry9HfBf6CBKAcLTscBxpZrdDykTEfoPqA5dl4nyDVjEOs2y55JUHo7FSwmEQb00sVqiiOhP4WXzTcyxjfQb1yFEQuJVAyvWN0G45tPOkWqwuJnEs=;+vt15x+Y0Av20kPfT5f1Ww=="

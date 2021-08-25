@@ -29,38 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "This massive AI chip has the compute power of a human brain"
-    excerpt: "Cerebras Systems says that it its Cerebras CS-2 AI system is now capable of the equivalent compute power of the human brain."
-    publishedDateTime: 2021-08-24T19:33:00Z
-    webUrl: "https://www.pcworld.com/article/3630379/this-massive-ai-chip-has-the-compute-power-of-a-human-brain.html"
-    ampWebUrl: "https://www.pcworld.com/article/3630379/this-massive-ai-chip-has-the-compute-power-of-a-human-brain.amp.html"
-    cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3630379/this-massive-ai-chip-has-the-compute-power-of-a-human-brain.amp.html"
-    type: article
-    provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 106
-    images:
-      - url: "https://images.idgesg.net/images/article/2019/08/cerebras-1-100808712-large.jpg?auto=webp"
-        width: 1199
-        height: 776
-        isCached: true
-  - title: "Hot Chips Concludes An Amazing Lineup of AI Chip Companies."
-    excerpt: "I can deal with it: some technology is just beyond my pay grade. My masters in CS is decades old, and the deep technology underneath blindingly fast AI chips is often beyond my comprehension. But when I saw the lineup of companies presenting at this years ..."
-    publishedDateTime: 2021-08-24T23:03:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2021/08/24/and--thats-a-wrap-hot-chips-concludes-an-amazing-lineup-of-ai-chip-announcements/"
-    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/08/24/and--thats-a-wrap-hot-chips-concludes-an-amazing-lineup-of-ai-chip-announcements/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/08/24/and--thats-a-wrap-hot-chips-concludes-an-amazing-lineup-of-ai-chip-announcements/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611d8d46a45079d06316ca62%2F0x0.jpg"
-        width: 800
-        height: 503
-        isCached: true
   - title: "Cerebras’ CS-2 brain-scale chip can power AI models with 120 trillion parameters"
     excerpt: "Cerebras said its CS-2 processor is a \"brain-scale\" chip that can power AI models with more than 120 trillion parameters."
     publishedDateTime: 2021-08-24T19:00:00Z
@@ -93,20 +61,31 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The next phase of AI is generative"
-    excerpt: "In it's next act, AI will transform from an augmentative technology to a more direct generator of products and data, according to Gartner's 2021 Hype Cycle."
-    publishedDateTime: 2021-08-23T08:02:00Z
-    webUrl: "https://www.ciodive.com/news/gartner-hype-cycle-2021-generative-AI/605338/"
+  - title: "Cerebras prepares for the era of 120 trillion-parameter neural networks"
+    excerpt: "In the past year, what had been the world's largest neural net as measured by neural weights, OpenAI's GPT-3 natural language processing program, with 175 billion weights, was eclipsed by Google's 1.6-trillion-parameter model, the Switch Transformer."
+    publishedDateTime: 2021-08-25T00:33:00Z
+    webUrl: "https://www.zdnet.com/index.php/recent/index.php/article/cerebras-prepares-for-the-era-of-120-trillion-parameter-neural-networks/"
+    ampWebUrl: "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/cerebras-prepares-for-the-era-of-120-trillion-parameter-neural-networks/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/cerebras-prepares-for-the-era-of-120-trillion-parameter-neural-networks/"
     type: article
     provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 39
+      name: ZDNet
+      domain: zdnet.com
+    quality: 74
     images:
-      - url: "https://www.ciodive.com/user_media/cache/c5/be/c5bebcd82b9d946423290834d57755de.jpg"
-        width: 770
-        height: 364
+      - url: "https://www.zdnet.com/a/hub/i/2021/08/24/a9840569-346e-4256-83d9-a981a1f2c01d/hc2021-cerebras-embargoed-8-24-slide-10.jpg"
+        width: 960
+        height: 540
         isCached: true
+  - title: "Cerebras Systems Announces World’s First Brain-Scale Artificial Intelligence Solution"
+    excerpt: "Cerebras Systems, the pioneer in innovative compute solutions for Artificial Intelligence (AI), today unveiled the world’s first brain-scale AI solution. The human brain contains on the order of 100 trillion synapses."
+    publishedDateTime: 2021-08-24T23:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210824005644/en/Cerebras-Systems-Announces-World’s-First-Brain-Scale-Artificial-Intelligence-Solution"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 29
 
 secured: "bKhP4Q4fL4T4gqW3SCcYGjp9ZYISnR/+aHvmjOQt+2ZhGn2Qshr6uUPeAqHNsieJB/dl9WhWgO9YZ/K/0riarP5VfsGF/XZb4aRUQtS6vk3+vQx6NXAmsmLIoj1WbbPrnCsKpXkTQfp4O8gW8W6sLnhofLMrS87uzmNpCOojMh/44aUXXZXIdz1skItEd8LgyIQEzXk1CBBxkLkTBOlAxekrNTweXxIydFN+htNIzb4t8Ko4LGFKxE/vV5/XduT8GOzXkgthlYhd+ToNo4Z2gppr+UXAzAUYNWK5r8Ws4Lmz4rWkyaJRDhUEEP+dHkNfP20FpNud3osD0PEKDeXzOrpdg6nzdcV1HEhUCvn63AIL1e/ilx+VGYW0nHEQZybzDn5w+WkAZ7ZjePwcO3fjbLg5mcstgRljigM5IX4i/67SElgEXIwWBZRTS32Yb0Dewp0UIGagO3BRHG8OtMKL5qaV5byUpENvx/ODEK61yjy5wL1COnNBeRo5r2Hg9ALtJ9SYqijHa0fNgjOwqBrW3w==;puoeEJ0ww1xqjBYUIaKv9g=="
 ---

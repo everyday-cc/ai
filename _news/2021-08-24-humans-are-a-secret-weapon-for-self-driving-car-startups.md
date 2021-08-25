@@ -84,6 +84,20 @@ related:
       name: CBS Local
       domain: cbslocal.com
     quality: 50
+  - title: "Waymo Rolls Out Self-Driving Taxi Service in San Francisco"
+    excerpt: "Waymo, previously known as the “Google Self-Driving Car Project,” has rolled out its autonomous taxi service in San Francisco. The company has been testing out autonomous driving in San Francisco for over 12 years and began offering rides to its Bay-area employees earlier this year."
+    publishedDateTime: 2021-08-25T03:25:00Z
+    webUrl: "https://hypebeast.com/2021/8/waymo-autonomous-taxi-test-service-san-francisco"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 39
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F08%2Fwaymo-autonomous-taxi-test-service-san-francisco-tw.jpg?w=960&cbr=1&q=90&fit=max"
+        width: 960
+        height: 480
+        isCached: true
 
 secured: "ZxdqQUzvs+tEH+Nf0Hu5nan4uhvlFaf3xHV6NzAMLU+7szypetA/0NBnUISD4pu3uxpT6EsttDGG8BbHZBMZAu9qBx4x6hqlsQlVBEScoRf1IX+olieBpcJAuBemCcgjqRdDg+eXPrKgo3FYw0UB2x6yaHNcVAXJC0comsttibksUCXiczmZAAqKhhOOHuSS4sIXLE4czXM+uscEWgjuCCM7WP8c3vxIjb38cF4bycyyC5QUF4k3x+bu8jEZ3Ic0+5T2Kh1p49N4+yIMkv3IyoK34zw8vGNEYSAwwPbmq9fCT60AqDSw0RSOqFOvgXk0pA8I/7l898B4g6D9OP0qwKhyE6Hw/P13nhSrH/G1WIw=;pVbFE7VRehjbPaLxYWX1dA=="
 ---

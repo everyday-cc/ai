@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/cars/watch-san-franciscans-take-a-ride
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/watch-san-franciscans-take-a-ride-in-waymos-autonomous-car/?amp"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -88,7 +88,21 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Waymo Rolls Out Self-Driving Taxi Service in San Francisco"
+    excerpt: "Waymo, previously known as the “Google Self-Driving Car Project,” has rolled out its autonomous taxi service in San Francisco. The company has been testing out autonomous driving in San Francisco for over 12 years and began offering rides to its Bay-area employees earlier this year."
+    publishedDateTime: 2021-08-25T03:25:00Z
+    webUrl: "https://hypebeast.com/2021/8/waymo-autonomous-taxi-test-service-san-francisco"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 39
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F08%2Fwaymo-autonomous-taxi-test-service-san-francisco-tw.jpg?w=960&cbr=1&q=90&fit=max"
+        width: 960
+        height: 480
+        isCached: true
 
-secured: "T2DQHG+kPrn6IYBKApbH/7lH6BIX/XahaBNHL21ogUS5Bjy59h6LbUJ/CMm5fcpbZuMLzRoeUSFAGnsdELondaEaIHmMZWHYmBkBzThgOjMcb1kBTMNV1h7cANa0ba7Azg5f3vPeBF2eYBDkkRSVwAMPzuu4vSB5n16EHTMQnOtUJLXgdvUL7GHB0r6bKztWKFIXBETT7U4pZZHGxc0eDvCQylST3WNIF2a8VGMl8i1vLhqAogQDyvc6JJx532ORMJx1YcXwuO6exy4AFyfSsHbobCYxRRhxSEiozWk599dtDOEytBUv6fg+cHWF/wLnWSnGgyvmX7l3jOjA7xSmNdnwEx3r7WIpmyEeSOunLz0=;bIBNi/I6U7qDxnYRtq0spg=="
+secured: "FYWs571JiBHmld/5v62jpndz5RwMiTJVOBs5sQvTrBQPPQ9ZTow+ZDvVBEHNhB551EtqWUPOWoo0hGozNt7l+k+Zfy/Pi/ZUnh7mqIYcyiVBPIgJ6DQr2YfSdBTDKSuzpSrHbAfrPSfFiy2FPDR71JMfCWf66Dkbrfc/TKF8ODPvQ3Cv4R7eQywIt0Pj2nfhBEMTNtzKYoFq9pV7W8hOt5/kxz99Mb/mY/A2CB+TUxzunVvFzFg+roOEQKVO0FJ0mHv3063bI+UUQxestKWJsIPhbJYLhGKuMsQ116I7EXZQbSEyHbJ3ppeGMRTOhxhSj0MbPTz9qs54vjzM0Q3Em3Avb9FQKtW9uQgxgyZ+Q0RYdiDd5Rus9Ex81ZHXuVClE8IHUcOvGocDWEhuUMMAW3eoh13YffUXUMVFfpUTtcufXXzvnfF2wFK1OzL14i3Kza4oYLTj1vXeHLuLCD+bRXskFeknLCwDpdk7AdLdtKq+nw9Reh4byQe1NxBq9ZEFNjlzqvuvU2FV1pbkpTVArQ==;faPpBSauRZX3FEdU+xsxhQ=="
 ---
 

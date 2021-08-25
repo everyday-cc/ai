@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Implantable AI system developed for early detection and treatment of illnesses"
-    excerpt: "Artificial intelligence (AI) will fundamentally change medicine and healthcare: Diagnostic patient data, e.g. from ECG, EEG or X-ray images, can be analyzed with the help of machine learning, so that diseases can be detected at a very early stage based on subtle changes."
-    publishedDateTime: 2021-08-20T12:33:00Z
-    webUrl: "https://medicalxpress.com/news/2021-08-implantable-ai-early-treatment-illnesses.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-08-implantable-ai-early-treatment-illnesses.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-08-implantable-ai-early-treatment-illnesses.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 53
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/researchers-develop-an.jpg"
-        width: 1333
-        height: 1000
-        isCached: true
   - title: "TU Dresden scientists develop implantable AI platform for real-time biosignal classification"
     excerpt: "Artificial intelligence (AI) will fundamentally change medicine and healthcare: Diagnostic patient data, e.g. from ECG, EEG or X-ray images, can be analyzed with the help of machine learning, so that diseases can be detected at a very early stage based on subtle changes."
     publishedDateTime: 2021-08-21T00:48:00Z

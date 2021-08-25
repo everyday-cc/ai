@@ -72,22 +72,6 @@ related:
       name: Metal
       domain: metal.com
     quality: 68
-  - title: "Tesla self-driving tech could be offered to other automakers"
-    excerpt: "According to a media report, Elon Musk is open to the idea of sharing Tesla's full self-driving technology with other automakers.As per reports, Musk stated that he is open to allowing other car companies"
-    publishedDateTime: 2021-08-23T11:01:00Z
-    webUrl: "https://www.team-bhp.com/news/tesla-self-driving-tech-could-be-offered-other-automakers"
-    ampWebUrl: "https://www.team-bhp.com/news/tesla-self-driving-tech-could-be-offered-other-automakers?amp"
-    cdnAmpWebUrl: "https://www-team--bhp-com.cdn.ampproject.org/c/s/www.team-bhp.com/news/tesla-self-driving-tech-could-be-offered-other-automakers?amp"
-    type: article
-    provider:
-      name: Team-BHP.com
-      domain: team-bhp.com
-    quality: 59
-    images:
-      - url: "https://www.team-bhp.com/sites/default/files/styles/amp_high_res/public/tesla-model-s-1_4.jpg"
-        width: 1280
-        height: 960
-        isCached: true
   - title: "Tesla Could Allow Other Automakers To Utilize Its Self-Driving Technology"
     excerpt: "This could lower the cost for automakers to develop their own self-driving technologies, leading to more vehicles on the road with autonomous driving features."
     publishedDateTime: 2021-08-22T23:09:00Z
@@ -104,15 +88,6 @@ related:
         width: 1024
         height: 555
         isCached: true
-  - title: "Musk criticizes on Twitter latest test version of Tesla's self-driving software"
-    excerpt: "Chief Executive Elon Musk panned the most recent test version of the company's self-driving software, but said that Tesla employees are \"rallying to improve (it) as fast as possible.\" Musk tweeted late Monday that the latest \"beta\" version of Full Self Driving,"
-    publishedDateTime: 2021-08-23T16:18:00Z
-    webUrl: "https://www.morningstar.com/news/marketwatch/20210823369/musk-criticizes-on-twitter-latest-test-version-of-teslas-self-driving-software"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 15
 
 secured: "enGTl3Tzr2hFGunbNHFHacFLggLYIbCJMAnXPQrBnhMERzNBXnXToJ+0Ojis+dLlOEHqoy9Mr+VsdapFXdIvanRwYTPc8hXnbhq+2n9vYpjrtPzoVyo2fAZ4xOWIalTrVGtdhPPi/3CXV2/OU6FjF5TW4gmIbY0jkIz+x5VPSP6+4q/y+kPJLGCZ2bXSmesiafrsiIF7lHc7C7Iezv/dU/QviVJc3wLXkki5eH2Z13T3x1bB6CDKKlH/nEebXDzzWlmSZV/RdPGrSIAsT/Pyj19MwO1nuhaeUJxYt+wXM7AAX6I1ggbc+0wqEz2rQgvN7xPKdFIzLIjg7g6sVH38Hwvw+xHI/Q72qjBIpyAXBhtBRWpBJSlvwUXSMylI9p6huQnkPat65bUoYcP1slabO3nVPYIYZsMdBz7cbnvgk8RFy9B+7iZzwgyN+hheA+SwIykV4oEfTpgKEyY0NDtoADnUS5nPgd2OqpJ9W0fCRxs0OMlvaAPy1SoKb3i4ggSi4gEAv0e74XqGeXq3TJdD6Q==;FmUygHJLNu8L78IFdEsCGw=="
 ---

@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk unveils Tesla Bot, a humanoid robot that uses vehicle AI"
-    excerpt: "Tesla . Speaking at Tesla's AI Day, founder Elon Musk revealed the Tesla Bot, a humanoid robot running on artificial intelligence used by Tesla's autonomous vehicles. \"It makes se"
-    publishedDateTime: 2021-08-20T12:00:00Z
-    webUrl: "https://www.cnet.com/news/elon-musk-unveils-tesla-bot-a-humanoid-robot-utilizing-vehicle-ai/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/elon-musk-unveils-tesla-bot-a-humanoid-robot-utilizing-vehicle-ai/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/elon-musk-unveils-tesla-bot-a-humanoid-robot-utilizing-vehicle-ai/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 221
-    images:
-      - url: "https://www.cnet.com/a/img/0tB5Yft65f5KpvdwRPsXWM6PBuE=/0x0:1248x655/1200x630/center/top/2021/08/20/c7483157-7676-4005-9899-b6c229715f8f/teslarobot1.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Elon Musk Announces Tesla's New Humanoid Robots"
     excerpt: "Elon Musk announced Thursday night that his company, Tesla, is creating a humanoid robot. He anticipates ... \"It's basically going to start dealing with work that is boring, repetitive and dangerous,\" he said during Tesla’s AI Day. He added, \"What ..."
     publishedDateTime: 2021-08-20T16:53:00Z
@@ -76,6 +60,22 @@ related:
         width: 4000
         height: 2666
         isCached: true
+  - title: "Tesla Is Developing A Robot. If Combined With Neuralink, It May Have Revolutionary Healthcare Applications"
+    excerpt: "Last week, during Tesla’s much anticipated “AI Day,” an event meant to showcase the company’s revolutionary strides in artificial intelligence technology, Musk announced the next frontier for the company: developing the Tesla Bot."
+    publishedDateTime: 2021-08-23T02:55:00Z
+    webUrl: "https://www.forbes.com/sites/saibala/2021/08/22/tesla-is-developing-a-robot-if-combined-with-neuralink-it-may-have-revolutionary-healthcare-applications/"
+    ampWebUrl: "https://www.forbes.com/sites/saibala/2021/08/22/tesla-is-developing-a-robot-if-combined-with-neuralink-it-may-have-revolutionary-healthcare-applications/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2021/08/22/tesla-is-developing-a-robot-if-combined-with-neuralink-it-may-have-revolutionary-healthcare-applications/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 105
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61230c3d88806ceaeee3c8cd%2F0x0.jpg"
+        width: 1200
+        height: 857
+        isCached: true
   - title: "AI Day Showcases The Breadth Of Tesla’s Ambition"
     excerpt: "Tesla AI Day 2021 featured executives presenting the full range of the company’s AI efforts, from computer vision to planning and controls to data infrastructure to automotive super computers to data center supercomputers."
     publishedDateTime: 2021-08-20T17:57:00Z
@@ -91,22 +91,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611fdf470f5f95efd0682f84%2F0x0.jpg"
         width: 1200
         height: 851
-        isCached: true
-  - title: "2 Big Revelations From Tesla's AI Day Event"
-    excerpt: "Tesla management says it will extend its AI expertise to autonomous humanoid robots. Last Thursday, Tesla (NASDAQ:TSLA) hosted its AI Day event. Elon Musk has branded these presentations as a recruiting opportunity,"
-    publishedDateTime: 2021-08-23T18:21:00Z
-    webUrl: "https://www.fool.com/investing/2021/08/23/2-big-revelations-from-tesla-ai-day-event/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2021/08/23/2-big-revelations-from-tesla-ai-day-event/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/08/23/2-big-revelations-from-tesla-ai-day-event/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 104
-    images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F640331%2F0x0-bardessono_napa_raw-43-hdr-1-3.jpg&w=1200&op=resize"
-        width: 1200
-        height: 800
         isCached: true
   - title: "No one knows when Tesla Bot will arrive. Here are robots you can experience now"
     excerpt: "Tesla CEO Elon Musk spun up his attention machine Thursday, pulling the wraps off a humanoid robot that uses artificial intelligence to take over mundane tasks for people. The Tesla Bot will sport autopilot cameras and an information display instead of a face."
@@ -154,22 +138,6 @@ related:
         width: 3000
         height: 2000
         isCached: true
-  - title: "Tesla Places Itself As A Robotics Company With Reach Beyond EVs, Unveils Dojo Chips, Humanoid: Key Takeaways From AI Day"
-    excerpt: "The maximum running speed of the robot is 5 mph, which as per Musk makes it safe. The entrepreneur has in the past expressed concerns about artificial intelligence and thus the Bot is designed at a “mechanical level” in such a way that “you can run ..."
-    publishedDateTime: 2021-08-20T15:00:00Z
-    webUrl: "https://www.benzinga.com/news/21/08/22590542/tesla-places-itself-as-a-robotics-company-with-reach-beyond-evs-unveils-dojo-chips-humanoid-key-take"
-    ampWebUrl: "https://www.benzinga.com/amp/content/22590542"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22590542"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 98
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/screen_shot_2021-08-20_at_4.16.51_pm.png"
-        width: 2720
-        height: 1584
-        isCached: true
   - title: "Elon Musk says Tesla's AI bots will hopefully be sent to Mars to work in inhospitable environments"
     excerpt: "Tesla CEO Elon Musk on Friday said his company's humanoid robots, Tesla Bot, would someday be able to work on Mars."
     publishedDateTime: 2021-08-21T09:35:00Z
@@ -202,33 +170,6 @@ related:
         width: 3500
         height: 2575
         isCached: true
-  - title: "Tesla Has Unveiled A New Chip For Training AI Models Inside Its Data Centers"
-    excerpt: "Tesla announced a custom-made chip for training artificial intelligence networks in data centres. Shown at the carmaker’s Livestreaming AI Day, the work shows that the company is engaged in vertical integration."
-    publishedDateTime: 2021-08-21T12:01:00Z
-    webUrl: "https://wonderfulengineering.com/tesla-has-unveiled-a-new-chip-for-training-ai-models-inside-its-data-centers/"
-    ampWebUrl: "https://wonderfulengineering.com/tesla-has-unveiled-a-new-chip-for-training-ai-models-inside-its-data-centers/amp/"
-    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/tesla-has-unveiled-a-new-chip-for-training-ai-models-inside-its-data-centers/amp/"
-    type: article
-    provider:
-      name: Wonderful Engineering
-      domain: wonderfulengineering.com
-    quality: 88
-    images:
-      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/08/NVidia-GPU-Packaging.jpg"
-        width: 872
-        height: 872
-        isCached: true
-  - title: "Why Tesla Stock Is Up After AI Day"
-    excerpt: "Wedbush didn't change its \"outperform\" rating on Tesla stock this morning in response to the company's plan to build its own D1 computer chips to run its Dojo supercomputer ... But hey, in at least one respect, AI Day was a success: It generated headlines ..."
-    publishedDateTime: 2021-08-20T15:41:00Z
-    webUrl: "https://www.nasdaq.com/articles/why-tesla-stock-is-up-after-ai-day-2021-08-20"
-    ampWebUrl: "https://www.nasdaq.com/articles/why-tesla-stock-is-up-after-ai-day-2021-08-20?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-tesla-stock-is-up-after-ai-day-2021-08-20?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 86
   - title: "Elon Musk is not impressed by Tesla’s current Full Self-Driving build, but likes the next one"
     excerpt: "Elon Musk said that Tesla’s current Full Self-Driving Beta build is “not great,” but he is currently testing the next build coming to beta testers, and he is impressed by that one."
     publishedDateTime: 2021-08-24T17:12:00Z
@@ -389,22 +330,6 @@ related:
         width: 768
         height: 474
         isCached: true
-  - title: "James Douma Interviewed About Tesla Bot and AI Day"
-    excerpt: "James Douma was interviewed by Dave Lee about Tesla AI Day. James is an AI expert and notes how Tesla has done significant re-architecting and is charting new"
-    publishedDateTime: 2021-08-21T18:18:00Z
-    webUrl: "https://www.nextbigfuture.com/2021/08/james-douma-interviewed-about-tesla-bot-and-ai-day.html"
-    ampWebUrl: "https://www.nextbigfuture.com/2021/08/james-douma-interviewed-about-tesla-bot-and-ai-day.html"
-    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/08/james-douma-interviewed-about-tesla-bot-and-ai-day.html"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 76
-    images:
-      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/08/Screen-Shot-2021-08-19-at-7.36.59-PM.jpg"
-        width: 1566
-        height: 1280
-        isCached: true
   - title: "Tesla is building a humanoid robot based on self-driving technology"
     excerpt: "Tesla boss Elon Musk says his electric vehicle company is building a humanoid robot. The South African tech entrepreneur revealed the news at Tesla’s ‘AI Day’, which was largely a presentation about the firm’s self-driving vehicle technology."
     publishedDateTime: 2021-08-22T08:00:00Z
@@ -437,22 +362,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Massive AI Project Will Supercharge Tesla Stock"
-    excerpt: "Tesla (TSLA) is on the verge of a game-changing breakthrough in machine learning yet the only thing people are talking about is its plan for a stupid humanoid robot. Executives at the electric vehicle company on Thursday held an artificial intelligence day."
-    publishedDateTime: 2021-08-23T17:16:00Z
-    webUrl: "https://www.thestreet.com/tech/news/teslajdm082321"
-    ampWebUrl: "https://www.thestreet.com/tech/.amp/news/teslajdm082321"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/tech/.amp/news/teslajdm082321"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 76
-    images:
-      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTgzMzU1MDk2MTg3MjgyODUw/tesla-fsd-beta-elon-musk-1280x720.jpg"
-        width: 620
-        height: 349
-        isCached: true
   - title: "Elon Musk unveils Tesla robot that will do the work humans don't want to"
     excerpt: "Tesla revealed details about some of the artificial intelligence upgrades being deployed to power their vehicles’ self-driving system. To close out the event, Musk revealed the company is developing a robot that runs on the same artificial intelligence technology as its fleet of autonomous vehicles."
     publishedDateTime: 2021-08-20T17:40:00Z
@@ -484,20 +393,6 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/08/robotics-1-457x305.jpeg"
         width: 457
         height: 305
-        isCached: true
-  - title: "Tesla unveils chip to train AI models"
-    excerpt: "Tesla has unveiled its own computer chips that will train its automated driving system. Revealed during the automaker’s AI Day event, Tesla’s custom chip will show the firm's continuing pursuit of vertical integration, according to senior director of ..."
-    publishedDateTime: 2021-08-20T11:28:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2021/08/tesla-unveils-chip-to-train-ai-models-and-plans-to-launch-humanoid-robot-prototype/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 71
-    images:
-      - url: "https://eandt.theiet.org/media/16585/dreamstime_xxl_52439329.jpg?crop=0,0,0,0.5078125&cropmode=percentage&width=1200&height=450&rnd=132739338070000000"
-        width: 1200
-        height: 450
         isCached: true
   - title: "Musk Shows Self-Driving Progress, Humanoid Robot at Tesla AI Day"
     excerpt: "Tesla Inc. used its inaugural AI Day to showcase improvements in its self-driving capability -- which has come under a regulatory spotlight -- and unveiled plans for a life-like robot that Elon Musk says will take the drudgery out of everyday life."
@@ -606,6 +501,33 @@ related:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/6c993e1/2147483647/strip/true/crop/1000x521+0+83/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fb4%2Fab%2F03ac32bd487fac26ef4cc011d643%2Fshutterstock-1985005055.jpg"
         width: 840
         height: 438
+        isCached: true
+  - title: "Elon Musk is building a human-like robot: Does anyone else think this is a really bad idea?"
+    excerpt: "Yep, he's at it again. Apparently, launching a sports car into space wasn't enough. Now, he's hoping to unleash an army of labor-saving bipedal robots into our homes and businesses."
+    publishedDateTime: 2021-08-23T06:41:00Z
+    webUrl: "https://www.zdnet.com/article/elon-musk-is-building-a-human-like-robot-does-anyone-else-think-this-is-a-really-bad-idea/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/elon-musk-is-building-a-human-like-robot-does-anyone-else-think-this-is-a-really-bad-idea/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/elon-musk-is-building-a-human-like-robot-does-anyone-else-think-this-is-a-really-bad-idea/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 59
+  - title: "Tesla self-driving tech could be offered to other automakers"
+    excerpt: "According to a media report, Elon Musk is open to the idea of sharing Tesla's full self-driving technology with other automakers.As per reports, Musk stated that he is open to allowing other car companies"
+    publishedDateTime: 2021-08-23T11:01:00Z
+    webUrl: "https://www.team-bhp.com/news/tesla-self-driving-tech-could-be-offered-other-automakers"
+    ampWebUrl: "https://www.team-bhp.com/news/tesla-self-driving-tech-could-be-offered-other-automakers?amp"
+    cdnAmpWebUrl: "https://www-team--bhp-com.cdn.ampproject.org/c/s/www.team-bhp.com/news/tesla-self-driving-tech-could-be-offered-other-automakers?amp"
+    type: article
+    provider:
+      name: Team-BHP.com
+      domain: team-bhp.com
+    quality: 59
+    images:
+      - url: "https://www.team-bhp.com/sites/default/files/styles/amp_high_res/public/tesla-model-s-1_4.jpg"
+        width: 1280
+        height: 960
         isCached: true
   - title: "Elon Musk admits Tesla’s new self-driving software ‘not great’"
     excerpt: "Tesla CEO Elon Musk admitted that the company’s driver-assistance software is “actually not great,” a week after federal regulators launched an investigation into Tesla’s Autopilot"
@@ -817,36 +739,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Elon Musk says Tesla building humanoid robot for ‘boring, repetitive and dangerous’ work"
-    excerpt: "Elon Musk said Thursday night at Tesla’s AI Day that the company is building a humanoid robot, and will probably have a prototype next year. “It’s basically going to start dealing with work that is boring,"
-    publishedDateTime: 2021-08-20T12:02:00Z
-    webUrl: "https://www.wishtv.com/news/elon-musk-says-tesla-building-humanoid-robot-for-boring-repetitive-and-dangerous-work/"
-    type: article
-    provider:
-      name: WISHTV8
-      domain: wishtv.com
-    quality: 47
-    images:
-      - url: "https://www.wishtv.com/wp-content/uploads/2021/08/Tesla-robot-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Elon Musk once criticized AI calling it threat to humanity, now developing humanoid bot [details]"
-    excerpt: "Elon Musk, the South African billionaire and one of the biggest visionary in the modern world had several times warned that artificial intelligence (AI) will overtake humans very soon, and such an uprising could spell an end to the human race."
-    publishedDateTime: 2021-08-22T13:21:00Z
-    webUrl: "https://www.ibtimes.co.in/elon-musk-once-criticized-ai-calling-it-threat-humanity-now-developing-humanoid-bot-details-839981"
-    ampWebUrl: "https://amp.ibtimes.co.in/elon-musk-once-criticized-ai-calling-it-threat-humanity-now-developing-humanoid-bot-details-839981"
-    cdnAmpWebUrl: "https://amp-ibtimes-co-in.cdn.ampproject.org/c/s/amp.ibtimes.co.in/elon-musk-once-criticized-ai-calling-it-threat-humanity-now-developing-humanoid-bot-details-839981"
-    type: article
-    provider:
-      name: IBTimes India
-      domain: ibtimes.co.in
-    quality: 46
-    images:
-      - url: "https://data1.ibtimes.co.in/en/full/764609/humanoid-robot.jpg?w=570&h=304"
-        width: 570
-        height: 304
-        isCached: true
   - title: "Tesla to build robot to eliminate ‘dangerous, repetitive and boring tasks’, says Elon Musk"
     excerpt: "Tesla used its inaugural AI Day to showcase improvements in its self-driving capability – which has come under a regulatory spotlight in the US – and unveiled plans for a life-like robot that Elon Musk says will take the drudgery out of everyday life."
     publishedDateTime: 2021-08-22T01:30:00Z
@@ -889,6 +781,20 @@ related:
         width: 2048
         height: 1366
         isCached: true
+  - title: "Tesla will build a human-like robot to help drivers with “dangerous and repetitive tasks” (video)"
+    excerpt: "The Tesla Bot prototype, announced during the company’s Artificial Intelligence (AI) Day, will be unveiled next year. Tesla CEO Elon Musk announced Thursday that the company plans next year to release a humanoid robot called the Tesla Bot that will run ..."
+    publishedDateTime: 2021-08-20T16:23:00Z
+    webUrl: "https://amicohoops.net/tesla-will-build-a-human-like-robot-to-help-drivers-with-dangerous-and-repetitive-tasks-video/"
+    type: article
+    provider:
+      name: Amico Hoops
+      domain: amicohoops.net
+    quality: 43
+    images:
+      - url: "https://amicohoops.net/wp-content/uploads/2021/08/T-Mobile-confirms-it-was-the-target-of-a-cyber-attack-707x442.jpg"
+        width: 707
+        height: 442
+        isCached: true
   - title: "Elon Musk announced that the Tesla Bot, a humanoid robot with AI, is coming out in 2022 and has already been showered with memes!"
     excerpt: "Day, Elon Musk announced that in 2022 they will present the prototype of the humanoid robot Tesla Bot. Of course, netizens responded as they know best: with memes.  This Thursday, Elon Musk announced that his electric vehicle company is working on creating a humanoid robot ."
     publishedDateTime: 2021-08-21T14:25:00Z
@@ -917,6 +823,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Elon Musk adds robot to his list of things coming ‘next year’"
+    excerpt: "\"It's basically going to start dealing with work that is boring, repetitive and dangerous,\" Musk said of the Tesla robot."
+    publishedDateTime: 2021-08-20T17:59:00Z
+    webUrl: "https://nbc-2.com/features/tech/2021/08/20/elon-musk-adds-robot-to-his-list-of-things-coming-next-year/"
+    type: article
+    provider:
+      name: NBC2
+      domain: nbc-2.com
+    quality: 39
+    images:
+      - url: "https://nbc-2.com/wp-content/uploads/2021/08/Robot.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Elon Musk plans to design humanoid robot to help with everyday chores"
     excerpt: "\"It's basically going to start dealing with work that is boring, repetitive and dangerous,\" Musk said of the Tesla robot."
     publishedDateTime: 2021-08-20T17:59:00Z
@@ -942,6 +862,20 @@ related:
       name: Futurism
       domain: futurism.com
     quality: 39
+  - title: "Machina Sapiens vs. Human Sapiens: Why Is Elon Musk After Humanoid Robots Despite Fearing the Dark Side of Artificial Intelligence?"
+    excerpt: "The Tesla CEO knows deep inside that we are still far away from a super artificial intelligence takeover that's why his company is working on humanoid robots."
+    publishedDateTime: 2021-08-21T13:09:00Z
+    webUrl: "https://www.bbntimes.com/technology/machina-sapiens-vs-human-sapiens-why-is-elon-musk-after-humanoid-robots-despite-fearing-the-dark-side-of-artificial-intelligence"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 26
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/Why_Is_Elon_Musk_After_Humanoid_Robots_While_Being_Deeply_Scared_of_AIs_Dark_Side.jpg"
+        width: 1200
+        height: 599
+        isCached: true
   - title: "Elon Musk's Next Big Thing, ‘Humanoid Robots' Powered by the Same AI Used for its Self-Driving Vehicles"
     excerpt: "Last night during a live streamed event called “AI Day”, Tesla Chief Executive Elon Musk teased the “Tesla Bot”, a realistic humanoid robot that would be powered by the same types of AI systems that Tesla uses for its Autopilot and Full Self-Driving (FSD) feature in its cars."
     publishedDateTime: 2021-08-20T18:25:00Z
@@ -956,6 +890,29 @@ related:
         width: 800
         height: 445
         isCached: true
+  - title: "Elon Musk just added a robot to his list of things always coming ‘next year.’ For now he’s got a guy in a suit"
+    excerpt: "By Matt McFarland, CNN Business Elon Musk said Thursday night at Tesla’s AI Day that the company is building a humanoid robot, and will probably have a prototype next year. “It’s basically going to start dealing with work that is boring,"
+    publishedDateTime: 2021-08-20T22:40:00Z
+    webUrl: "https://localnews8.com/money/cnn-social-media-technology/2021/08/20/elon-musk-just-added-a-robot-to-his-list-of-things-always-coming-next-year-for-now-hes-got-a-guy-in-a-suit/"
+    type: article
+    provider:
+      name: Local News 8
+      domain: localnews8.com
+    quality: 19
+    images:
+      - url: "https://localnews8.b-cdn.net/2021/08/hypatia-h_e53277f69b31148810e9707a8a3d9650-h_b97ea991d9b2817ab9b9934fbf4452f8-300-scaled.jpg"
+        width: 2560
+        height: 1708
+        isCached: true
+  - title: "Musk criticizes on Twitter latest test version of Tesla's self-driving software"
+    excerpt: "Chief Executive Elon Musk panned the most recent test version of the company's self-driving software, but said that Tesla employees are \"rallying to improve (it) as fast as possible.\" Musk tweeted late Monday that the latest \"beta\" version of Full Self Driving,"
+    publishedDateTime: 2021-08-23T16:18:00Z
+    webUrl: "https://www.morningstar.com/news/marketwatch/20210823369/musk-criticizes-on-twitter-latest-test-version-of-teslas-self-driving-software"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 15
 
 secured: "Q8xVbzpxYgkwznMF+oGuwqvBJg+U4QvnWXyDYm70ox3bq5q4ZLmz183yVXYM8ekuOLhKp/nGuMI8sw3BQrs49ArWNyc683QDaVitpJxCzC0lWUD1E3us5TaICzZllKVehFsYFjewTdMhOB+hTVO493aeuUXmcCsF+CI9iGJOXETVkkEJeb75C7L2N0L40YVZjjBn74DUDI+MsX1Kxgw/2vT8wBrPE3kh7DNLIw5xurIsoLcnsjg1uVzodBSesLPuoEeBoSxJPhuQO/ULWtK792lXkKWHVUO8tDm0UfTSAI+STlE3s+upjaPjxP3dwFVAHdTxb48sWtYepZjqRxEpYyls4UlIMjgDGPQd+Jx5o1T5HlBp0yCIIOw3BSwCzFKRagB7ri925z0Ukd11ScbDoE/0Q6j2yWOsvhosclDwEc4pSLFI2wkwpsGVHzGxqhA8Zl36Y5fJNKTQwGxUrvqC3mZDoTaYnTgRrrSVYsko4INazhx7+WHVyDctab8MXU/AeeOXYf5NXizzQEMwHcLI/g==;PrNftdwmdg1gIq1kvnos/g=="
 ---

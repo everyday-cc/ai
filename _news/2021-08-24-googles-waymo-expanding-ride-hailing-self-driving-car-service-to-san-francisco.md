@@ -83,6 +83,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Waymo Rolls Out Self-Driving Taxi Service in San Francisco"
+    excerpt: "Waymo, previously known as the “Google Self-Driving Car Project,” has rolled out its autonomous taxi service in San Francisco. The company has been testing out autonomous driving in San Francisco for over 12 years and began offering rides to its Bay-area employees earlier this year."
+    publishedDateTime: 2021-08-25T03:25:00Z
+    webUrl: "https://hypebeast.com/2021/8/waymo-autonomous-taxi-test-service-san-francisco"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 39
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F08%2Fwaymo-autonomous-taxi-test-service-san-francisco-tw.jpg?w=960&cbr=1&q=90&fit=max"
+        width: 960
+        height: 480
+        isCached: true
 
 secured: "vg/yjxQ7VMkjsYpG2LyiKlKW7dF7rki5vHk8beWqQJFXmZOGW/ogQG6Yj2jZpYgr4wtC4LmCPo8D7h9yBod8A/IhGNqh4wQummCG+vKqk5wzR0F6m5Zwl0r4e3MCO8pmvoGM6uJcHiH2F+U76BfQDlEXEalUUQjbfkpWDO0NYApgfZBUjsFZKRA8rK7D9ktAXxv8wy8xGGQVp9lLuOqI+DBsl2XUGLtnjz1MRePVDh6cyx+PSsPPHBjJJb1GUBZSOYmEiR4TRsmROwvIUmkqg3KzZCCSkYXG4oRo/tRGRkpMQgEBMrUVkxlNc95FWuN9glDdETMatsSA/wB11ep+h8RUNZxqcpNM72qS8kMa4V3y7k9/zXgar++ErEUDqMpehPdsDSgNhxAcy7vPmt8k5hb28+EnB6lWC9Exw0y8Q6WnTSqoGGdhFJTwoo3F84TSueMRO5xhlJUKbQx98spnHFbR1+MBKl9rAf6mFiJs4KVweXsiDi61p9wD+fU41ewiyAehABKTFdXsiC71tVvNPw==;Gw2yN33wPwkTjTnlWuQNWg=="
 ---
