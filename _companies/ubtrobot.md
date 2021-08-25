@@ -2,7 +2,7 @@
 name: "UBTech Robotics"
 overview: "UBTECH Robotics is the global leader in intelligent humanoid robots. The company’s interactive robots serve the public, accelerate STEM education for children and assist &amp; entertain in the home. Integrating UBTECH robots into our daily lives enhances how we live, work, learn, and play. To be part of the UBTECH robot generation, visit www.ubtrobot.com and follow UBTECH Robotics on Facebook, Twitter, Instagram, and YouTube."
 type: "profile"
-heat: 130
+heat: 105
 
 website: https://ubtrobot.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "ubtechrobotics"
   url: "https://twitter.com/ubtechrobotics"
-  followers: 83126
+  followers: 83127
 
 size: 501-1,000 employees
 yearFounded: 2012
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=gOpQlk8afzs"
 
-secured: "J3ItBUg4i4MSL8MSkmVgeL9WMY/RoREjnOQ9ylbcZNfYSpcBa7gD2YB9fay90UERu6FtsOHt2K95lZZ0e4psSh/HdcJUNGDgKkGpWCSWbX7MyzJCYFaEAHXpIGu2opYHndl65fhGtOS4ZVaYu036lJ8w8hBFfJ2MZLmY4O474016cObxCyEdlH/oRuwA8htuCGL/hg74yPN/fKJFutMD8z8b7xC+lsoOwqjvvvD4Et40qbAKCtjHd1nnLaDywygiG2gMf1Xbo8d2dWpcye+cAhen4Q0Hwm2JijDm1i4d5P7odkBmrG4vbhRWRlrdc8/WVJdNUj86TWIjQMPb1yF1ExB4FVsl9DUhQd5v5vCNGeD84bSDeKKZ9sXBW6iZiJtzdTC66U1w1tWsSZ0Vx5xjb5Oc9xuFhFfnLkXf8P9tTfE=;aQ2QeVqzXx7p7DcsbJRO2A=="
+secured: "WTn+C0s65G1D1+T4UXtlNZ363pQDQjWZPE6IlAlxjXOhabTjlrEiLWm22uKvHFKXRUAp2sywyGupMZaKzhjKOf9KuNnTERJwH9rxCxYaXgZ46ptnsP/PhTaloHaUuJtBTNYSalml28TS6/xDsuQm/y3RlSOvcvn7qD+OGhyhROyHtpdCUtQi/DRJrZN5ln+CyqeqQFELV7RNAyaFOQ4Md1JUs354qG6EVRK8CShwiL3GaaNq7E1SwmpszCl3i4NHacoPvGtZaciLUtdF1H6NGN5lTbrcsEYQe+3zQ0gOJzhcaWAouaYiG5RDq9s7wKpaXb1Mnay36Lbwkox5KI21tL2jQV4zUwCjl7Ol9ZJUpnpve5XnpFY+sfJihJmhCjlWkBRuCiLZkuLLl3j6/nCbl7Emulddyx7KmUl4m2899WU=;qQ1eekjjas34IToLfpd9bg=="
 ---
 

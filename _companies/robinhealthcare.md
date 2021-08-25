@@ -2,7 +2,7 @@
 name: "Robin Healthcare"
 overview: "Robin Healthcare is an innovative healthcare partner that combines the power of artificial intelligence (AI), voice recognition, and domestic virtual medical scribes and care coordinators to solve healthcare biggest challenges and inefficiencies."
 type: "profile"
-heat: 57
+heat: 50
 
 website: https://www.robinhealthcare.com
 
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=OeJ_m-PYEJ8"
 
-secured: "0Uf8GDJRwXr0+QV/Dp6JynGXdaAphJKdXeGGYO4h+rdXgCxsfC2cfzfbBo8HRfCaq1gHg+2Tj7fVADTmF76Qw0os6l5aDTupQB0Cn7xHkSv4ck5+NO5nxbUEloxoI+NGfG3CTHxaMJOqpUUQvu3NX/70uBwjb2c038G7vtzA7uaP1ds2EQKWHWVI43ng+mqikaq8drl8kJ0I9dQnNfcnWSWh/Uo9+3tOzhrg4C5fmHN6Tlnl0K5QU/QI6kusqSpkwFS8B0+frIsHOIEvHNOpDSTPnS5APLAjVhGHdQuaO/dY5traekegzTH+RmYn/kuYHgqaCnFVSpxae8QF24ySgd9Gt/bf3VKqvHMMvHk5fJogLKHX1ZMFdD+Ys6N11u1bofImuyhc1rtT3heBHCZEig==;adr5Hnz1G2O3GhIUyAxu9w=="
+secured: "/frv02k/JFk6OrMSj2BCtK9cDdZVqXoBInGS7y+b7VZX0P1Xjxl59qNdkN65zhZuHRun28UnDonkZqu+K5ytEyY4B9n3qjEYqDWvWu+8O3LNua+w2eEvAMKe3zjhWstWX2yGFO1JeIRrXp/uZ/E0YYGml0vFwH0WQ13jwD7a7ZFiB+j3x7yL7H/59FatRIm7XjQ2UXyNFGOCKCSQJSozAqMmFrrLn//6Xdm0Hbff5WD/sENQOkmeMSr51OJU5xYOY5Nd+Xd7MpqGdcXsPmRLxxBfE/SN8WNZrZaD+osmHKn2wJifYq2TmEUTRni9/H2NsKVshQZnzgyaVgFtXU/B3NniHNWKVRwR0spUJxRYNa0nuUq85NyWCh828V6KtLMxMu3tXQvGlVjlHi5Qab9pfQ==;HAuep5TSGosqnlIWbnzEFg=="
 ---
 

@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "benevolent_ai"
   url: "https://twitter.com/benevolent_ai"
-  followers: 7014
+  followers: 7013
 
 size: 51-200 employees
 yearFounded: 2013
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=qtkZt5u1XE8"
 
-secured: "/Z8j5fpDEwbFRe0U2EzmwGJ+P1HF/eHyRFdNkQXXqbB662nNmW+6yTtxyym/DzK8crZaDt0mVPRiddfiMx/JBIb0GxXuRMuA8XHnan7lEkRJww2zCZ/9msBj8e0lRqaM3Abqm8V7R9NI/JfGpREsjEiA++wvnvUCFF+tZiCbfs3VUF3gO28PCccPWkjFYtDGQEww5jqmLH+12MxozCwEuGbylMS6nb7Cs8PVPbUfxJa0bpYySkk8shb2jlDsHrpB58dCEP0/iT8ksTzOl868qIyNcb0f1Zc4tPlGPRtOpzsqg6Duaww87UUvN29afpBj9xPwRWnCuQWt15rDrqR209X7CyB392YsVU0j2OIGPSZBCwoL/Iiq/dx164HpfoS8Q47B+xf9Mc+JAlQAOFA8mnh1ZHmHMLJxj4thC6DPGg8=;jLk+8f+SmdfrT6TRHZXZGg=="
+secured: "ooj3Ms+6fn3XpHUZqSk1zMFTCBafXh9PMDoEszPnfkuOfHE49T0GjgRHRJvXBKP1nNKb+N62hgf4bEcP3a4Tsco0/9eGe9BM88lSHaVJiQBPUepCmLRvxBOU9CuSp0GGWq9RlhQYoV7R4QA6U9erPqjveuGcjqDKmiyhCc9E1pNbFKjnRkk9fSFj3FoD5EWp4CZ85snQJEwsBR5LfyzKU5kGIFt7gCZg8JMMCQdldxqq+DgMSU+LppCByLRP6B0C06BrpTs8xpyGqFj2+iLVfCcb5fdUv7jVtIO4r52P+AhQWmvZdqVXfoULhFQfV/N4NpA6HXVP/lU+0jzXAipumUNk5hLhIFWKtBocjHlpE+cCFbX1fdWK+1G49rOoSuT/8rc47HSyDdhbhbF6G5/LMNR3Mv5IdOzkcoxzeYheCqY=;7l0lNWXb37DNDhWfxih/6Q=="
 ---
 
