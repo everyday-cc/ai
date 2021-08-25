@@ -69,6 +69,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Tesla's Full Self-Driving system 'not great,' admits Musk"
+    excerpt: "Tesla CEO Elon Musk has admitted that the Full Self-Driving system is not that great, adding that the company is trying for a"
+    publishedDateTime: 2021-08-25T07:06:00Z
+    webUrl: "https://www.glamsham.com/world/technology/teslas-full-self-driving-system-not-great-admits-musk"
+    ampWebUrl: "https://www.glamsham.com/world/technology/teslas-full-self-driving-system-not-great-admits-musk/amp"
+    cdnAmpWebUrl: "https://www-glamsham-com.cdn.ampproject.org/c/s/www.glamsham.com/world/technology/teslas-full-self-driving-system-not-great-admits-musk/amp"
+    type: article
+    provider:
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 59
+    images:
+      - url: "https://www.glamsham.com/wp-content/uploads/2021/08/5715ef8ba8bbb92159b39551d2e804fc.jpg"
+        width: 400
+        height: 266
+        isCached: true
   - title: "Tesla Could Allow Other Automakers To Utilize Its Self-Driving Technology"
     excerpt: "This could lower the cost for automakers to develop their own self-driving technologies, leading to more vehicles on the road with autonomous driving features."
     publishedDateTime: 2021-08-22T23:09:00Z

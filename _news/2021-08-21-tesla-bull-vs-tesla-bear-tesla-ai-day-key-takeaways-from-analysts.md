@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Tesla Places Itself As A Robotics Company With Reach Beyond EVs, Unveils Dojo Chips, Humanoid: Key Takeaways From AI Day"
-    excerpt: "The maximum running speed of the robot is 5 mph, which as per Musk makes it safe. The entrepreneur has in the past expressed concerns about artificial intelligence and thus the Bot is designed at a “mechanical level” in such a way that “you can run ..."
-    publishedDateTime: 2021-08-20T15:00:00Z
-    webUrl: "https://www.benzinga.com/news/21/08/22590542/tesla-places-itself-as-a-robotics-company-with-reach-beyond-evs-unveils-dojo-chips-humanoid-key-take"
-    ampWebUrl: "https://www.benzinga.com/amp/content/22590542"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22590542"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 98
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/screen_shot_2021-08-20_at_4.16.51_pm.png"
-        width: 2720
-        height: 1584
-        isCached: true
   - title: "The Station: Bird’s improving scooter-nomics, breaking down Tesla AI day and the Nuro EC-1"
     excerpt: "The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every weekend in your inbox. Hello readers: Welcome to The Station, your central hub for all past,"
     publishedDateTime: 2021-08-23T11:00:00Z

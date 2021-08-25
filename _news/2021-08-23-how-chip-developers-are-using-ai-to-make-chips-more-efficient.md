@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 839
         isCached: true
+  - title: "Energy-Efficient AI Chips For Diagnostics"
+    excerpt: "Researchers developed energy-efficient AI chips for diagnosing a common cardiac condition called atrial fibrillation."
+    publishedDateTime: 2021-08-25T06:49:00Z
+    webUrl: "https://www.electronicsforu.com/tech-zone/processor-tech/energy-efficient-ai-chips-for-diagnostics"
+    ampWebUrl: "https://www.electronicsforu.com/tech-zone/processor-tech/energy-efficient-ai-chips-for-diagnostics/amp"
+    cdnAmpWebUrl: "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/tech-zone/processor-tech/energy-efficient-ai-chips-for-diagnostics/amp"
+    type: article
+    provider:
+      name: Electronics For You
+      domain: electronicsforu.com
+    quality: 74
+    images:
+      - url: "https://www.electronicsforu.com/wp-contents/uploads/2021/08/iis-itwm-energy-efficient-ai-chips-for-atrial-fibrillation-detection-pic-2.jpg"
+        width: 640
+        height: 426
+        isCached: true
 
 secured: "F1NediEz54ktj+l/tPcBT9hV9D6EEh7ufpBUUEZ+MfLSnBQXqb4ogxT37r+cAhdBEFSD88ipDffAMSyjCdAQh66s7fciKomt7vnOzjsLWNebqVWpHtXFzQVvM860x6nWiLbII3XCx23qqgq342TaLMnfC4RzCONJtUElXQ2Ul5r2igsdcFxhiPz7w+MPyqcsTmVgsLQ5tgfeY1GT0CG6SGx6lg3T/sWkohUYeX3A81Pdf45DTcNzMF8w3Wn0ObI9wRM0kRTnbCM8nI7Y7jBP+z9ygUO67FD8u+ZOO1vW6JNJxyiiq0t7syXJ/3FQYuk+3YRx+3Qm8sXWafCgJkGTLGMy7OqjEmzTqZ9fbokZFpewVd2cf0zpLnCBe9Pz0+Fa6NwMnDnuIIVGSAmyTu8ZxQeMllb24UW57ZlIaW9eM+0EIsF2Eu04l/2euyNFuiHfQ4YvQtHP2wSFKM6KgJ0NrNz69LgIxWO8NmRHELv1/Wt4hQF2HbBNde8hyFfCm3wRsyHBVtXyJqpSF+4xl2Itew==;Nek3YsbkbxAzrbE9BXHmFQ=="
 ---

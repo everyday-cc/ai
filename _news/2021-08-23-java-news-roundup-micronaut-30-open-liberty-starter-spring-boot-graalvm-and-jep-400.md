@@ -2,9 +2,9 @@
 category: news
 title: "Java News Roundup: Micronaut 3.0, Open Liberty Starter, Spring Boot, GraalVM, and JEP 400"
 excerpt: "Topics discussed include deep learning, edge deployment of machine learning algorithms, commercial robot platforms, GPU and CUDA programming, natural language processing and GPT-3, MLOps, and AutoML."
-publishedDateTime: 2021-08-23T05:51:00Z
-originalUrl: "https://www.infoq.com/news/2021/08/java-news-roundup-aug16-2021/?topicPageSponsorship=f37f0e1c-3e50-421c-8e97-fdabbe3fbfe0&itm_source=presentations_about_Devops&itm_medium=link&itm_campaign=Devops"
-webUrl: "https://www.infoq.com/news/2021/08/java-news-roundup-aug16-2021/?topicPageSponsorship=f37f0e1c-3e50-421c-8e97-fdabbe3fbfe0&itm_source=presentations_about_Devops&itm_medium=link&itm_campaign=Devops"
+publishedDateTime: 2021-08-23T05:45:00Z
+originalUrl: "https://www.infoq.com/news/2021/08/java-news-roundup-aug16-2021/"
+webUrl: "https://www.infoq.com/news/2021/08/java-news-roundup-aug16-2021/"
 type: article
 quality: 15
 heat: 15
@@ -24,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "Cpvnx4aAmZTbU5fNG/t0iuCXV7lWmwefwQnW59TIwfrs63AFIh9qAWvvyi21AEusJejC7WRW2TMlAUYjwS+IZPDhDVPsR3K6Geqsow+VesskO2mY7MF+/DZ8k7ag60q0wVOqZEO3t8AvSFSmnNIvFoZXLmIxLu2APxbvuwC+GOzkNZKSRa3oTlyV11JR0l8dEF+JTXDc2+buzpJmwZ0qT7bakaqWkGWpx63sUszs0wo8agk0lGphkeDq+iku3SCC+V45e24rfk80M18XQFgCAvwy/Q0D0YT9SWmoGpy3AaPpRFoEIqAGcJSKO3kN3+WbQ/ENMZyW2feF5SFelrycngMxiRfvpuBwrLytD0nIHNw=;BC+LSYiCM4sBdYBhbI/r/A=="
+secured: "L/7vGPqLU4S+7OUoiltJu71Dn2WSL/4BXxl2iPG5cN0sz47yqcWNW7tjDp05+xVt26GR7j3OGWVFokVbZkr8TlHT7aIiRGjnMRZ8dTNQw7JRZco7eRkUm58lGllwZrazIchj6P/1TaaawaDysFATt/NZi9ITbK5yrswBwxqj/iL1JMfFqv2rj4ELstlPJH+i8ZxF8JFVd+1IYFtf4DT3H1wEKC6vtYUxGDBFD8gNNXeoSxbGBVVKHvbkMS6Va/DDuLM1lu3eYLMWnmIDJTQo5qEat0Znf/xnhlljxy0XoxkUfBq82OG5xUic8yE1Di6LY8JLz2PeBI4HQPlnC+fQYs7lSGLJwuCVwjQCPqEu1F0=;nWPRIm8KPjbZ7GvlIIcExg=="
 ---
 

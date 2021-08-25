@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/08/24/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/08/24/looking-beyond-automation-and-efficiency-ai-for-social-good/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/abtech_1510.png"
         width: 1024
         height: 768
+        isCached: true
+  - title: "Energy-Efficient AI Chips For Diagnostics"
+    excerpt: "Researchers developed energy-efficient AI chips for diagnosing a common cardiac condition called atrial fibrillation."
+    publishedDateTime: 2021-08-25T06:49:00Z
+    webUrl: "https://www.electronicsforu.com/tech-zone/processor-tech/energy-efficient-ai-chips-for-diagnostics"
+    ampWebUrl: "https://www.electronicsforu.com/tech-zone/processor-tech/energy-efficient-ai-chips-for-diagnostics/amp"
+    cdnAmpWebUrl: "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/tech-zone/processor-tech/energy-efficient-ai-chips-for-diagnostics/amp"
+    type: article
+    provider:
+      name: Electronics For You
+      domain: electronicsforu.com
+    quality: 74
+    images:
+      - url: "https://www.electronicsforu.com/wp-contents/uploads/2021/08/iis-itwm-energy-efficient-ai-chips-for-atrial-fibrillation-detection-pic-2.jpg"
+        width: 640
+        height: 426
         isCached: true
 
 secured: "rURb/L6EEVKiW2DBvqqJgw6y5So3Ctb/xTDnXhAxvJJfXIdhZhnT0Q/TMTyUyKv6qIo8trPyiodRR0bqhA712oAIf37ICbFh2aAckTfKh8B/gzHMMhIB+HqW/oKgmwO/2fD9+ZfQSAnZVG1K6cWmXe+wFbdjix0y+TulVO85m27AT4xPPcLvgTzOEb95ojqqKRhsl/h5yQ8+rYRPjSkyAb4ZJJimVm2pK598suj9BY5B8aKVtdLkPOkP082+YDKSRV1xsYpFk5U2Ii9YUF4SGsPCr+N8TcRM9TAKDIKeljkbeDDvW4FzOEC/5tRI/eyN1nNmsPrWLK8KgGxgZqyNkFxocwjDXuiKfpDTqAgMJPFGqMPnVNtmGrIzPTw3us9QLGvNv6bOopH972lQUUuFLljxzUeZyrPZhNbu4oHUGQPiDjw1yN8eLmkk8NMRGp55FgS3+hQ+NdPNlGfxAi7w5nVnsz6JZQIBRsYiUnY6Zja4/ZLJG706Cjyp83llllWnawraUg+wUNbz42f4pTAOUA==;elQ9D1Z45LaFkwazuq60sA=="

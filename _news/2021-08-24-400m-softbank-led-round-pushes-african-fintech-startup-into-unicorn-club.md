@@ -56,7 +56,7 @@ related:
   - title: "Pngme, Raises $15M Series A to Power the Future of Financial Services in Africa"
     excerpt: "Pngme, the financial data infrastructure and machine learning-as-a-service platform, has raised a further $15 million in Series A funding as it sets out to grow its financial data platform. The round was led by Octopus Ventures and comes less than a year after its $3 million seed round."
     publishedDateTime: 2021-08-24T13:51:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-financial-services-2a0bc10896feb1b6d9e0741acbf22110"
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-financial-services-2a0bc10896feb1b6d9e0741acbf22110"
     type: article
     provider:
       name: Associated Press

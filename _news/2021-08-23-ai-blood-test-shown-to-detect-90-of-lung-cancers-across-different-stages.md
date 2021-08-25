@@ -40,22 +40,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Novel AI blood testing technology can identify lung cancers with high accuracy"
-    excerpt: "A novel artificial intelligence blood testing technology developed by researchers at the Johns Hopkins Kimmel Cancer Center was found to detect over 90% of lung cancers in samples from nearly 800 individuals with and without cancer."
-    publishedDateTime: 2021-08-20T13:47:00Z
-    webUrl: "https://medicalxpress.com/news/2021-08-ai-blood-technology-lung-cancers.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-08-ai-blood-technology-lung-cancers.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-08-ai-blood-technology-lung-cancers.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 53
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/novel-ai-blood-testing.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Using Artificial Intelligence Blood Testing to Detect Lung Cancer"
     excerpt: "Johns Hopkins Kimmel Cancer Center researchers developed novel artificial intelligence blood testing technology to detect lung cancer in patients. The test approach, called DELFI (DNA evaluation of fragments for early interception),"
     publishedDateTime: 2021-08-24T17:00:00Z

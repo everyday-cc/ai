@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/23/the-other-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/23/the-other-f-word-how-robot-developers-can-do-better-by-embracing-failure/amp/"
 type: article
 quality: 103
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 864
     isCached: true
-
-related:
-  - title: "From health care to infrastructure, how AI is changing the world for the better"
-    excerpt: "New advances and creative applications are harnessing the power of AI to offer solutions to a host of social issues to enable new leaps in human development."
-    publishedDateTime: 2021-08-20T14:50:00Z
-    webUrl: "https://www.technologyreview.com/2021/08/20/1032358/from-health-care-to-infrastructure-how-ai-is-changing-the-world-for-the-better/"
-    ampWebUrl: "https://www.technologyreview.com/2021/08/20/1032358/from-health-care-to-infrastructure-how-ai-is-changing-the-world-for-the-better/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/08/20/1032358/from-health-care-to-infrastructure-how-ai-is-changing-the-world-for-the-better/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 55
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/08/Baidu_CDSS_1200_675.jpg?w=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "dhVIJ6N2/C0agAjXfALwJOrUr7XoEixrg1lLdh0iD/ewve3ENj0W8/H/cTak2POapSYqLIlQdrc05xddRPxAiEusRUQ9wUWTdnyPnTkcVSC5ENhIu/v2ouogiNTF4Y/o0VqiFvMtwqsEe9w5YVIT/Myez+XUNUrlTioEYbt3CfFYaHHIlMAfCVt6OQo+BKBMylMSiFXJqECqA9pAAe3qw9Gntshjhn3120X/PmbqA5FoYgJyveDkfv4z02rt3XmJFuFrYpSAwU+ggolZ3Ta7zNjaATd0M3Fe5yJlBlUsX1GtZD+hYoQcG74Xt2rU6v7BBB4U/VExmSPmPvcX1Av6eog85AuEmk1p8VIPWOj15muiBHxietYGp2Dn3GP3ASvhip/GSr6S4//ISBgdic0RE+lxcjjEJ0oIuYnWR24krX5SVSdCYNq5ZRPxcCmWOvK3nRH76DEgSB2pXIcowp2xl6+8vMD5Ov/iHdGkAABBQOYrbtM62Z1skV/mFfxXHPTn2QGjIMjiJV2VP+ivyLy0eg==;qaoFnlmd1pU88mRGCFA+DQ=="
 ---

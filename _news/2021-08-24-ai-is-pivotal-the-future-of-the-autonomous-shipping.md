@@ -42,20 +42,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "The next phase of AI is generative"
-    excerpt: "In it's next act, AI will transform from an augmentative technology to a more direct generator of products and data, according to Gartner's 2021 Hype Cycle."
-    publishedDateTime: 2021-08-23T08:02:00Z
-    webUrl: "https://www.ciodive.com/news/gartner-hype-cycle-2021-generative-AI/605338/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 39
-    images:
-      - url: "https://www.ciodive.com/user_media/cache/c5/be/c5bebcd82b9d946423290834d57755de.jpg"
-        width: 770
-        height: 364
-        isCached: true
   - title: "Putting The Fun Back Into Software Testing With AI"
     excerpt: "This work is rarely described as fun, so let's automate it. Is automation the answer to making testing fun again?"
     publishedDateTime: 2021-08-24T15:00:00Z

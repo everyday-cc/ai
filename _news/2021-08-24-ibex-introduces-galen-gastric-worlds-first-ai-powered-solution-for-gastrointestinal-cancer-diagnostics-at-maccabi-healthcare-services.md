@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Ibex Introduces Galen Gastric, World's First AI-powered Solution for Gastrointestinal Cancer Diagnostics, at Maccabi Healthcare Services"
-excerpt: "Ibex Medical Analytics, the pioneer in artificial intelligence (AI)-based cancer diagnostics, and KSM, the Research and Innovation Center of Maccabi Healthcare Services, Israel's leading HMO, today announced the deployment of Galen ™ Gastric at Maccabi's pathology institute,"
-publishedDateTime: 2021-08-24T11:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-ibex-introduces-galen-gastric-worlds-first-ai-powered-/2021/08/24/9435903.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-ibex-introduces-galen-gastric-worlds-first-ai-powered-/2021/08/24/9435903.htm"
+excerpt: "Ibex Medical Analytics, the pioneer in artificial intelligence (AI)-based cancer diagnostics, and KSM, the Research and Innovation Center of Maccabi Healthcare Services,"
+publishedDateTime: 2021-08-24T11:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/ibex-introduces-galen-gastric-worlds-first-ai-powered-solution-for-gastrointestinal-cancer-diagnostics-at-maccabi/article_ecfd3b07-d093-58d5-aba1-14f67f60f56a.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/ibex-introduces-galen-gastric-worlds-first-ai-powered-solution-for-gastrointestinal-cancer-diagnostics-at-maccabi/article_ecfd3b07-d093-58d5-aba1-14f67f60f56a.html"
 type: article
 quality: 21
 heat: 21
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1599901/Ibex_Medical_Analytics_Galen_Gastric.jpg"
-    width: 400
-    height: 225
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/45/a459ff1d-9941-5796-8793-8e4c3ab6df84/6124d17469b5b.image.jpg?resize=1120%2C630"
+    width: 1120
+    height: 630
     isCached: true
 
-secured: "GzWioLx+WlUTr6TbWevv6cNU6PtZql3Am1TeK2P8p87xP2jvr8O38Mt7LDdbbvRbqRdsTgjCILTi4AyR12JFkyyW/033M1XAA523oBBdqPm1vnh+VhapUzQfwlTmrKYQ7yc0ZAPaY3tLeIkrip5aJH9cu97K1Py++NBkpmcjf0cOuEOkn4cuV4GE6XYN2kTInugN9/lbjtznhAXUVWwQoG78V2/wcf8uc8U8DILWO7p54Cm+yymGYgiYZFSq8b5tklfHnou05U060mbuiPC7EkFzzvj2KnNxk+hxk+WvUGbYE0fAbEp4CaN23pGU0pUC0NcMAmYAIpUbZ0V0kWA0t0svZ+DgfR0MfhwT5oXyWg5H1kXCtTLa9nntE4wXPZ9og0SBIdJN3CjkbfkFftVZopbDr/xgdhYkuKd7CQETtKT28iPCjPqYt9Ysfyp8DOJHQhQH7Ko3z0+J9s2Ncb5X1bCvEjAnRNbnOtkNxZC1Q216CsPinIkDW1yk1OjJ8rr85InE3SuMiLEKaPA1BuUh8Q==;8dmRmk8Ow5bJ3xASag7CrQ=="
+secured: "mVxg8XKzfbhyk7XvoxbtWvR/WKPigxV9FJUewxGxRDUqXxp0xh1j5EQyyglqix8oemFY6ZNKDVJW37NOtCOOwe2ITRGsTJBP+2TctLnSBVY5fYz/lUQuejFC7HCtpdkDx37gvoio9JsksKuG07Sfgkcp0Xd/Iuz119SgzcFCAM/+d0m6XUfLr/W+yjOpWPyELZyId+kKlHCmC3cm/Dzl/5G8iTJWPut32nPdnxHPpVYgVxsOz0hDNX97IM9YEadUdKiR6Mx25srRUZby59iIHzvBPKi3eQz/2YpX6FJ1GR11ErJWPVIESGB39R3mH4lH9tYxoZHkqzHTI17d7F2ksb3n9mLuPxcP5XORtKia9Mc=;587aXzAfbztn5SOnSPBeWw=="
 ---
 

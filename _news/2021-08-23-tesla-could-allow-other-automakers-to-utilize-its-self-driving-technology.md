@@ -84,6 +84,22 @@ related:
       name: Metal
       domain: metal.com
     quality: 68
+  - title: "Tesla's Full Self-Driving system 'not great,' admits Musk"
+    excerpt: "Tesla CEO Elon Musk has admitted that the Full Self-Driving system is not that great, adding that the company is trying for a"
+    publishedDateTime: 2021-08-25T07:06:00Z
+    webUrl: "https://www.glamsham.com/world/technology/teslas-full-self-driving-system-not-great-admits-musk"
+    ampWebUrl: "https://www.glamsham.com/world/technology/teslas-full-self-driving-system-not-great-admits-musk/amp"
+    cdnAmpWebUrl: "https://www-glamsham-com.cdn.ampproject.org/c/s/www.glamsham.com/world/technology/teslas-full-self-driving-system-not-great-admits-musk/amp"
+    type: article
+    provider:
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 59
+    images:
+      - url: "https://www.glamsham.com/wp-content/uploads/2021/08/5715ef8ba8bbb92159b39551d2e804fc.jpg"
+        width: 400
+        height: 266
+        isCached: true
 
 secured: "/vusDsrcva7nv3Pk7pCp3CG7Ga3LWil5sT2pUzpKiZegoXIvqhIE7Kn4sCmgQV0G+PO5pWaragn1d84+m1uqn8m0Qr3Ar2QsyzpPvvXqvwnZVOExb9+xST7xs/7ACBGIdeI0J/C9WT3MLtSeZQVcwuvJES7bG3/Y5MgVhzoeUpp+x6Wz3e3zar7okqvRt/pHUo/YYK5Fd7VxJSBiDvZOBZCCfow7Uqu33TU3YSoypTXyLPk8o9xu5piuU3mmA1h7d4/+DL/LXoOu4PqnxGy1k7MTQaCskS6iheZAGHF07ABKjI/NmrLlxZpW/Hy36jejl9Qiz692ZdtAhPpPI+OD95cUyTxcViUMS8CxrMjxJfKPy0UdcWELQLyasrnmH6OXSQ7vb/6K2dujeZnj1KY+wGulfJsinMaCl8i0tngHIPUEnrHslJBY/lkgFs3B/bD66CxSgnNo58PAFr0nDEAtxeCsczpw0mcVGBh7TDhM2+8Co4jZMQqtMjA7KEB6LLkK1IQxoFK2OipVqYPN3EMlAg==;AV/Umwh5F3AL7q3eni0JuA=="
 ---

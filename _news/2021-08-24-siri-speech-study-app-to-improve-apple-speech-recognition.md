@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apple has launched a new Siri Speech Study"
-    excerpt: "Apple has started a new Siri Speech Study. A new iOS app will help researchers make the product better. Apple says the program is invite-only. A new invite-only Siri study will let participants help improve Apple's virtual assistant."
-    publishedDateTime: 2021-08-20T13:15:00Z
-    webUrl: "https://www.imore.com/apple-has-launched-new-siri-speech-study"
-    ampWebUrl: "https://www.imore.com/apple-has-launched-new-siri-speech-study?amp"
-    cdnAmpWebUrl: "https://www-imore-com.cdn.ampproject.org/c/s/www.imore.com/apple-has-launched-new-siri-speech-study?amp"
-    type: article
-    provider:
-      name: iMore
-      domain: imore.com
-    quality: 44
-    images:
-      - url: "https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/10/ios-14-compact-ui-siri.jpg"
-        width: 800
-        height: 466
-        isCached: true
   - title: "Mysterious ‘Siri Speech Study’ App Shows up in App Store | What Is It?"
     excerpt: "A new but hidden app has been discovered on the App Store that appears to be part of a project by Apple geared toward improving Siri, but exactly how it"
     publishedDateTime: 2021-08-20T18:56:00Z

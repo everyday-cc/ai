@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/agritech-robotics-startup-tartansense-raises
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/agritech-robotics-startup-tartansense-raises-5mn-series-round/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 149
 published: true
 
 provider:
@@ -27,6 +27,64 @@ images:
     isCached: true
 
 related:
+  - title: "Agritech Robotics Startup TartanSense Raises $5 Million In Series A"
+    excerpt: "This funding round brings the total funds raised by the company to $7 million, after raising a $2 million seed round in March 2019."
+    publishedDateTime: 2021-08-25T05:58:00Z
+    webUrl: "https://analyticsindiamag.com/agritech-robotics-startup-tartansense-raises-5-million-in-series-a/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 69
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/Agritech-Robotics-Startup-TartanSense-Raises-5-Million-In-Series-A.jpg"
+        width: 2000
+        height: 1335
+        isCached: true
+  - title: "Agritech Robotics Startup TartanSense Raises $5 Mn in Series A from FMC, Omnivore, Blume Ventures"
+    excerpt: "TartanSense Team Agritech robotics startup TartanSense announced today that it has raised USD 5million in Series A funding. The round was"
+    publishedDateTime: 2021-08-25T05:36:00Z
+    webUrl: "https://www.indianweb2.com/2021/08/agritech-robotics-startup-tartansense.html"
+    type: article
+    provider:
+      name: indianweb2.com
+      domain: indianweb2.com
+    quality: 56
+    images:
+      - url: "https://1.bp.blogspot.com/-CRkJ-R5mbWw/YSXWFqzBrtI/AAAAAAAAEks/uzzoOlHE-HIpIKfXDZ4GN0tH3Rc9RaR8gCLcBGAsYHQ/s16000/tartansense%2Bteam%2Bpic.jpg"
+        width: 2000
+        height: 1335
+        isCached: true
+  - title: "Agritech startup TartanSense raises $5 million from FMC, Omnivore and Blume Ventures"
+    excerpt: "TartanSense builds small agricultural robots, equipped with AI-assisted computer vision, to help small farms reduce their expenditures and improve their incomes."
+    publishedDateTime: 2021-08-25T06:21:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/funding/agritech-startup-tartansense-raises-5-million-from-fmc-omnivore-and-blume-ventures/articleshow/85616740.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/funding/agritech-startup-tartansense-raises-5-million-from-fmc-omnivore-and-blume-ventures/amp_articleshow/85616740.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/agritech-startup-tartansense-raises-5-million-from-fmc-omnivore-and-blume-ventures/amp_articleshow/85616740.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 52
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-158204,msid-85616785/agritech.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "Agritech Startup TartanSense Raises $5Mn Led By FMC Ventures, Others"
+    excerpt: "Agritech robotics startup TartanSense has raised $5 Mn in Series A funding. The round was led by FMC Ventures and Omnivore, with participation from existing investor Blume Ventures."
+    publishedDateTime: 2021-08-25T06:44:00Z
+    webUrl: "https://inc42.com/buzz/agritech-startup-tartansense-raises-5mn-led-by-fmc-ventures-others/"
+    type: article
+    provider:
+      name: inc42.com
+      domain: inc42.com
+    quality: 39
+    images:
+      - url: "https://inc42.com/wp-content/uploads/2021/08/tartan-s-min.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Foodtech Startup Ai Palette Raises Funds Led By pi Ventures, Exfinity Venture"
     excerpt: "Foodtech startup Ai Palette has raised  $4.4 Mn in Series A round co-led by pi Ventures and Exfinity Venture Partners."
     publishedDateTime: 2021-08-25T05:32:00Z
@@ -53,6 +111,6 @@ related:
         height: 600
         isCached: true
 
-secured: "fl8OOThQ8sess6D68iQ2Ut9kK80FbQQhlHnbOFFvxjuVFQtQzKIVyxtPwmn+MvR9gA/PcBiLnKohIBk5QBsin5+bwFLEoKgnI2F1HHkUNO4lgkX/E3h/k+tmd7ofpXbO3wR6euz4ier+ThmX6i0vhtn90CS1nVFwkbU0TASSAO2MiNiB3TBrfHvoZ9r6961tlNV3qz6W0PQ8XYf5NWsLreb3qBGIPT/er5Akc13IVMPmlkZSYmP9XO7Jlq89obV1RSQVEo2LiPeDEMe6Ks4Jpld/JVStbzJ7MPB0LfG+icYtnvkHJCvvEymeWHXwhS1auQmoZfu4+P/EfSz0hTbyVIbFKLbLKg17YL/iOw2onlI=;q2/la/criE9mcS/iBNycgw=="
+secured: "NV482+OAvvRZu5R1dpV/pHk8JjKRGlM9GVM4qQJQR7w3TsitGR6uqvXoNKavpZcvOvVDruLj9uigTMpVwz9r5gc0DnxjyDUXopcC4JI3jQIyMnwMDfoW+v4NKdXtkiEcuemVOT7xIz2Q401V7FNf+zRc2uDkOnFahHuBep14YPocI8rZJZEJrLO49k2gr40heV8+ds/1S2b/U89bK9m3epSjuhbyaT5LCMPL9HjWTer1eKuvUMz9AqC/JvejeZX/rBJWnew86ehDyYxn3oYLcTjH29jEdQJ2Wckkz4Cr2P8Szx89ZEkiyAmxXcTfKlrOO+47L36D9mc2ercQCbH0LYaOi+Y8F6XXiSeFTyOzfP03txMYLRb0ic16GEZEUIeY4fndM1YqscY/jTi6pFaes2pfhmv923aNoNn5TykywFu+YcHyrPE421cKJXnBfHZwM8U4m7xiRWhxFbX+sZ+v7Mw36901++x/x7KpxcO0WNaCzIV6SGFj7gLUoOQOtzE7UxebLQq97D2NWTKS8hhMSA==;GoSX+o+r0KNDRAHcWrKZTA=="
 ---
 

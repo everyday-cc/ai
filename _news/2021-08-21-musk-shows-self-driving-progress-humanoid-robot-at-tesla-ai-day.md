@@ -106,20 +106,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Tesla is working on an AI-powered humanoid robot"
-    excerpt: "Tesla is building a humanoid robot simply called the Tesla Bot, Elon Musk has revealed at the automaker's (and, perhaps, soon-to-be-robotmaker's) AI Day event. It's intended to be friendly, he said, and be slow and weak enough that you can outrun and overpower it — you know,"
-    publishedDateTime: 2021-08-20T14:23:00Z
-    webUrl: "https://www.engadget.com/tesla-bot-humanoid-robot-033635103.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 101
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-08/6bb3c8d0-0162-11ec-b9ff-880869fe088f"
-        width: 2790
-        height: 1569
-        isCached: true
   - title: "Elon Musk Calls Tesla'a Full Self Driving Beta Technology 'Not Great' in a Tweet"
     excerpt: "Tesla CEO Elon Musk said on Twitter that the company's Full Self Driving Beta technology is 'not great' and admits that the AI team is working on it."
     publishedDateTime: 2021-08-23T21:50:00Z
@@ -406,22 +392,6 @@ related:
         width: 630
         height: 630
         isCached: true
-  - title: "Elon Musk doubles down on artificial intelligence at Tesla amid scrutiny of autopilot"
-    excerpt: "Elon Musk doubled down on Tesla Inc.’s embrace of artificial intelligence after a week of intensifying scrutiny of the advanced driver-assistance features sold by the electric-vehicle maker. Mr. Musk,"
-    publishedDateTime: 2021-08-20T14:26:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/elon-musk-doubles-down-on-artificial-intelligence-at-tesla-amid-scrutiny-of-autopilot-11629440003179.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/elon-musk-doubles-down-on-artificial-intelligence-at-tesla-amid-scrutiny-of-autopilot/amp-11629440003179.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/elon-musk-doubles-down-on-artificial-intelligence-at-tesla-amid-scrutiny-of-autopilot/amp-11629440003179.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 69
-    images:
-      - url: "https://images.livemint.com/img/2021/08/20/600x338/AFP_9FL4HW_1628918669201_1629440309019.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Elon Musk Says Tesla Wants To Build A Humanoid Robot That Could Replace Human Workers"
     excerpt: "Advertisement Robots replacing humans as the workforce is no more a fantasy. The Tesla supremo Elon Musk revealed at Tesla AI Day that besides developing electric cars and solar power, they are now working on building a humanoid that is soon to replace humans."
     publishedDateTime: 2021-08-20T17:39:00Z
@@ -453,22 +423,6 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2021/08/bot_list.png?w=863&#038;h=443"
         width: 863
         height: 443
-        isCached: true
-  - title: "Tesla Bot Goal to Automate Labor"
-    excerpt: "Tesla needs robots to install solar power. Mining, garbage collection and iron working is dangerous. Tesla needs to mine more materials for their batteries and cars. Steel working is needed for Tesla cars."
-    publishedDateTime: 2021-08-20T13:59:00Z
-    webUrl: "https://www.nextbigfuture.com/2021/08/tesla-bot-goal-to-automate-labor.html"
-    ampWebUrl: "https://www.nextbigfuture.com/2021/08/tesla-bot-goal-to-automate-labor.html"
-    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/08/tesla-bot-goal-to-automate-labor.html"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 59
-    images:
-      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/08/Screen-Shot-2021-08-19-at-7.47.13-PM.jpg"
-        width: 1920
-        height: 1150
         isCached: true
   - title: "Elon Musk unveils humanoid robot to take over ‘boring’ work"
     excerpt: "The ‘Tesla Bot,’ a prototype of which should be available next year, is designed to eliminate “dangerous, repetitive and boring tasks,” like bending over to pick something up, or go to the store"
@@ -709,20 +663,6 @@ related:
         width: 1050
         height: 590
         isCached: true
-  - title: "Tesla unveils a humanoid robot powered by its vehicle A.I called the Tesla Bot"
-    excerpt: "While no physical robot has been shown off yet, Elon Musk unveiled a new humanoid robot called the Tesla Bot. According to Musk, the purpose of this robot is to eliminate dangerous, repetitive, and boring tasks and it uses the same artificial intelligence and autopilot cameras that Tesla uses in their vehicles."
-    publishedDateTime: 2021-08-20T14:31:00Z
-    webUrl: "https://barrie360.com/tesla-unveils-a-humanoid-robot-powered-by-its-vehicle-a-i-called-the-tesla-bot/"
-    type: article
-    provider:
-      name: barrie360
-      domain: barrie360.com
-    quality: 52
-    images:
-      - url: "https://barrie360.com/wp-content/uploads/2021/08/Tesla-Bot.png"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "Elon Musk Insists You Can 'Most Likely' Overpower This Humanoid Robot Built to Replace You"
     excerpt: "So says Elon Musk, who just unveiled a humanoid robot built to replace you, sorry relieve you, at your job. The Tesla Bot, a surprise reveal at the end of Tesla's AI Day on Thursday, is a bipedal automaton that is designed to take over \"dangerous,"
     publishedDateTime: 2021-08-20T15:32:00Z
@@ -766,20 +706,6 @@ related:
       - url: "https://WRCB.images.worldnow.com/images/21245164_G.jpg?lastEditedDate=1629447655000"
         width: 3473
         height: 1953
-        isCached: true
-  - title: "Tesla Bot: What is Elon Musk's humanoid robot revealed at Tesla artificial intelligence event? When is Tesla Bot coming out?"
-    excerpt: "On Thursday 19 August, electric vehicle producer Tesla outlined its next steps in its artificial intelligence (AI ... with the 5ft 8in humanoid robot stealing the show at Tesla AI Day 2021. Elon Musk - Tesla 'most likely' to accept Bitcoin again following ..."
-    publishedDateTime: 2021-08-20T14:25:00Z
-    webUrl: "https://www.scotsman.com/lifestyle/tech/tesla-bot-what-is-elon-musks-humanoid-robot-revealed-at-tesla-artificial-intelligence-event-when-is-tesla-bot-coming-out-3351667"
-    type: article
-    provider:
-      name: The Scotsman
-      domain: scotsman.com
-    quality: 44
-    images:
-      - url: "https://www.scotsman.com/webimg/b25lY21zOjU4OGQ0ZjliLTlhMDAtNDMwNi05NGI5LWRhMTc1M2YxYTUwZDo4YmYzZjRjYi1mZjZhLTQ0M2YtOGZkMS04N2RiZTI5M2Y5MDk=.jpg?width=2048&enable=upscale"
-        width: 2048
-        height: 1366
         isCached: true
   - title: "Tesla will build a human-like robot to help drivers with “dangerous and repetitive tasks” (video)"
     excerpt: "The Tesla Bot prototype, announced during the company’s Artificial Intelligence (AI) Day, will be unveiled next year. Tesla CEO Elon Musk announced Thursday that the company plans next year to release a humanoid robot called the Tesla Bot that will run ..."

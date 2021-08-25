@@ -7,7 +7,7 @@ originalUrl: "https://ia.acs.org.au/article/2021/sa-trials-facial-recognition-fo
 webUrl: "https://ia.acs.org.au/article/2021/sa-trials-facial-recognition-for-home-quarantine.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "SA govt trials home quarantine app with facial recognition, GPS tracking"
-    excerpt: "The South Australian government is set to trial a smartphone app that uses facial recognition and geolocation to confirm a person’s location during home quarantine. The government will trial the app known as Home Quarantine SA with 50 residents who are required to undertake 14 days of quarantine on return from interstate locations this week."
-    publishedDateTime: 2021-08-24T01:41:00Z
-    webUrl: "https://www.itnews.com.au/news/sa-govt-trials-home-quarantine-app-with-facial-recognition-gps-tracking-568979"
+  - title: "Facial recognition to care for prem babies"
+    excerpt: "University of South Australia researchers have successfully developed a world-first camera system to monitor the vital signs of premature babies."
+    publishedDateTime: 2021-08-25T05:32:00Z
+    webUrl: "https://thewest.com.au/news/health/facial-recognition-to-care-for-prem-babies-c-3777249"
+    ampWebUrl: "https://thewest.com.au/news/health/facial-recognition-to-care-for-prem-babies-c-3777249.amp"
+    cdnAmpWebUrl: "https://thewest-com-au.cdn.ampproject.org/c/s/thewest.com.au/news/health/facial-recognition-to-care-for-prem-babies-c-3777249.amp"
     type: article
     provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 38
+      name: The West Australian
+      domain: thewest.com.au
+    quality: 59
     images:
-      - url: "https://i.nextmedia.com.au/News/facial_biometric_identity.jpg"
-        width: 1254
-        height: 836
+      - url: "https://images.thewest.com.au/publication/C-3777249/ad21f7545de75e229ac117fd2463ea06a59c1a2a-16x9-x0y0w1280h720.jpg?imwidth=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Researchers develop computer vision system that can detect babies’ faces while monitoring their vital signs"
+    excerpt: "University of South Australia researchers have developed a computer vision system that can automatically detect a tiny baby’s face in a hospital bed and remotely monitor its vital signs from a ..."
+    publishedDateTime: 2021-08-25T02:04:00Z
+    webUrl: "https://itwire.com/health/researchers-develop-computer-vision-system-that-can-detect-babies’-faces-while-monitoring-their-vital-signs.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 21
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/d6e9a99bcc506a7f9bc937a9775af303_M.jpg"
+        width: 375
+        height: 272
         isCached: true
 
 secured: "zyfjbAQBg+Qkh9QDiMt4NKoDVhaPqIhkb6t7/QWTBCBEXT10IHNWsGkf0d1WPLFjZO7y0OXSCAlfzSkcXK8Yy3hVCId86eEsJ6Fm8YONB1NB6mqdJK5So1NByLx4SbyOlv3Ln6Kogxhirkr0egfyJ4mBaIuVvvNHJCInRiEJEbe9t78+Kh1W2EIKDUDeWW+UdC5yOjQzAtoBvIVMOsY/Ho7qCZbxLYA4pHfjjSGIR69Nrv0HHwv+RKhmrshXCMKxBHh5MdCo9VsS17vTjNimoeodnvCAUqsjxIDQeewSxms/Ct9XyiN/KLpQROKg0biG0n/iB8oPGu1/J3bb70Mc+Sye7tRwde93FpbcxiiUpRFViB1BBgLpw+DojDA8+0Q4ncnWClT1hNcdgfsq0YbS9693tkmfENhjDgL+QNPpGcPgnIzVNndwXPRuQqtP6iOxR0tHGKOHfpjs6ZvmP/G2uYz2YDSDNUkSxijr3FUsGWgPsqbaKm2+1EZfaS+lLjHhnrKt2BunKcCDv1uw1lavbg==;vOWJP4UuVud3ZtyJXgrJxg=="

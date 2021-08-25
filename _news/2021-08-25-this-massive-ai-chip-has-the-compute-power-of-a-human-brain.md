@@ -2,17 +2,23 @@
 category: news
 title: "This massive AI chip has the compute power of a human brain"
 excerpt: "Cerebras Systems says that it its Cerebras CS-2 AI system is now capable of the equivalent compute power of the human brain."
-publishedDateTime: 2021-08-25T05:26:00Z
-originalUrl: "https://www.arnnet.com.au/article/690773/massive-ai-chip-has-compute-power-human-brain/"
-webUrl: "https://www.arnnet.com.au/article/690773/massive-ai-chip-has-compute-power-human-brain/"
+publishedDateTime: 2021-08-24T19:33:00Z
+originalUrl: "https://www.pcworld.com/article/3630379/this-massive-ai-chip-has-the-compute-power-of-a-human-brain.html"
+webUrl: "https://www.pcworld.com/article/3630379/this-massive-ai-chip-has-the-compute-power-of-a-human-brain.html"
+ampWebUrl: "https://www.pcworld.com/article/3630379/this-massive-ai-chip-has-the-compute-power-of-a-human-brain.amp.html"
+cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3630379/this-massive-ai-chip-has-the-compute-power-of-a-human-brain.amp.html"
 type: article
-quality: 56
-heat: -1
-published: false
+quality: 106
+heat: 156
+published: true
 
 provider:
-  name: ARN
-  domain: arnnet.com.au
+  name: PC World
+  domain: pcworld.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
@@ -20,9 +26,9 @@ topics:
   - AI Hardware
 
 images:
-  - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/cerebras-1-100808712-orig.jpgautowebp"
-    width: 800
-    height: 517
+  - url: "https://images.idgesg.net/images/article/2019/08/cerebras-1-100808712-large.jpg?auto=webp"
+    width: 1199
+    height: 776
     isCached: true
 
 related:
@@ -42,65 +48,67 @@ related:
         width: 800
         height: 503
         isCached: true
-  - title: "Synopsys CEO’s Opening Keynote At Hot Chips Outlines Future Vision Of AI-Driven Chip Design"
-    excerpt: "Synopsys’ latest AI-driven design tools have moved beyond assisting with place-and-route, to now aiding in some aspects of architectural design and software interactions."
-    publishedDateTime: 2021-08-24T22:36:00Z
-    webUrl: "https://www.forbes.com/sites/marcochiappetta/2021/08/24/synopsys-ceos-opening-keynote-at-hot-chips-outlines-future-vision-of-ai-driven-chip-design/"
+  - title: "Cerebras’ CS-2 brain-scale chip can power AI models with 120 trillion parameters"
+    excerpt: "Cerebras said its CS-2 processor is a \"brain-scale\" chip that can power AI models with more than 120 trillion parameters."
+    publishedDateTime: 2021-08-24T19:00:00Z
+    webUrl: "https://venturebeat.com/2021/08/24/cerebras-cs-2-brain-scale-chip-can-power-ai-models-with-120-trillion-parameters/"
+    ampWebUrl: "https://venturebeat.com/2021/08/24/cerebras-cs-2-brain-scale-chip-can-power-ai-models-with-120-trillion-parameters/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/24/cerebras-cs-2-brain-scale-chip-can-power-ai-models-with-120-trillion-parameters/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 99
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/04/cerebras-main.jpg?w=1200&strip=all"
+        width: 1200
+        height: 668
+        isCached: true
+  - title: "Cerebras Systems Lays The Foundation For Huge Artificial Intelligence"
+    excerpt: "Cerebras extends CS-2 system and software to train a 120-Trillion-parameter model on the way to brain-scale AI."
+    publishedDateTime: 2021-08-24T07:30:00Z
+    webUrl: "https://www.forbes.com/sites/karlfreund/2021/08/24/cerebras-systems-creates-huge-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/08/24/cerebras-systems-creates-huge-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/08/24/cerebras-systems-creates-huge-artificial-intelligence/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 74
+    quality: 89
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6125726db3f93198be757638%2F0x0.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611eaab4a8a155b120682f84%2F0x0.jpg"
         width: 1200
-        height: 753
+        height: 675
         isCached: true
-  - title: "WPP acquires AI company"
-    excerpt: "Advertising and communications business WPP has acquired Satalia, a technology company focused on artificial intelligence (AI), for an undisclosed sum."
-    publishedDateTime: 2021-08-23T09:38:00Z
-    webUrl: "https://www.research-live.com/article/news/wpp-acquires-ai-company/id/5088212"
-    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5088212&name=wpp-acquires-ai-company"
-    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5088212&name=wpp-acquires-ai-company"
+  - title: "Cerebras Systems Lays The Foundation For Huge Artificial Intelligence"
+    excerpt: "Cerebras extends CS-2 system and software to train a 120-Trillion-parameter model on the way to brain-scale AI."
+    publishedDateTime: 2021-08-24T20:06:00Z
+    webUrl: "https://www.forbes.com/sites/karlfreund/2021/08/24/cerebras-systems-lays-the-foundation-for-huge-artificial-intelligence/"
     type: article
     provider:
-      name: research
-      domain: research-live.com
-    quality: 57
+      name: Forbes
+      domain: forbes.com
+    quality: 69
     images:
-      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
-        width: 1000
-        height: 581
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611eaab4a8a155b120682f84%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2004%26cropY1%3D0%26cropY2%3D1128"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "The AI Arms Race: Why are American Companies Helping China?"
-    excerpt: "The CCP’s Data Security Law comes into effect on the first day of September, and with it, more control of critical research and information."
-    publishedDateTime: 2021-08-23T20:12:00Z
-    webUrl: "https://www.theamericanconservative.com/articles/the-ai-arms-race-why-are-american-companies-helping-china/"
+  - title: "The next phase of AI is generative"
+    excerpt: "In it's next act, AI will transform from an augmentative technology to a more direct generator of products and data, according to Gartner's 2021 Hype Cycle."
+    publishedDateTime: 2021-08-23T08:02:00Z
+    webUrl: "https://www.ciodive.com/news/gartner-hype-cycle-2021-generative-AI/605338/"
     type: article
     provider:
-      name: The American Conservative
-      domain: theamericanconservative.com
+      name: CIO Dive
+      domain: ciodive.com
     quality: 39
     images:
-      - url: "https://www.theamericanconservative.com/wp-content/uploads/2021/08/shutterstock_1706639491.jpg"
-        width: 1108
-        height: 700
-        isCached: true
-  - title: "Ami-Chan, the doll with artificial intelligence that accompanies the elderly in confinement"
-    excerpt: "That is why the Takara Tomy company developed a doll with artificial intelligence to reduce the isolation of older adults. Christened Ami-Chan , the doll was designed as a little (robotic) granddaughter."
-    publishedDateTime: 2021-08-21T01:33:00Z
-    webUrl: "https://www.stamfordadvocate.com/business/article/Ami-Chan-the-doll-with-artificial-intelligence-16401546.php"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 29
-    images:
-      - url: "https://s.hdnux.com/photos/01/21/42/74/21376797/3/rawImage.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://www.ciodive.com/user_media/cache/c5/be/c5bebcd82b9d946423290834d57755de.jpg"
+        width: 770
+        height: 364
         isCached: true
 
-secured: "ZaaFVEMpA34jn7gQuE1HIsemGI/zfKZFPrY0t3KqgDl2iQVN/l7F/rexd7EnkUF+KmZPJ/2dgBfqyyp9A9+Ln6rS6MXL75HHkelfHZbynzWg8c+1eIWVFH40VjsAvbS15gaJwoT+M0n4tvLC1MYNYxM53s9WP62jgIP0BL2uy/jJU91qZYnybrOdhCj4zEAskIV6oaOZzacTMPGcz4sQRvojx0NLuXRT7cQRRlvspbssZkkPmUkwLS5lt5rqEcq1AWnBlIFWPnsG2RSvn+68zUCqJjIegh2ThmJkSOguP6EpsL6aVIPMHrXZvlSdcSmpQXBvPB08kSjJmT/F1j8SwO44dp07DtKUzRg2pfcdLNY=;G/TozS5EaM8mEgPVyVngrA=="
+secured: "fyEX95eSD8pzQH4MC+jHFEXrETjkmB1EYWCx30rCm7iEs+cVejkiA1i3HX4dLdzAE4ZVRcLX+PWpj+lOUkugre/U+O+3bDM0BfNqJOuW8JIXrj5yJcV89AzAC9KS2ZeKprQ6etp/Rm4poy5kIQsUTayl0DVo0SsNNMUo5lmRay0HPCFtk+8lvK5XQNh7aI7G3K4V0wdWgHPikJ8T8V1qKaf17IAwVOHk7c4VNpLi2KOaAlie4PGt1vHmlCHOGEaR+Vx9Y7DerWSDuc5ImyNx847YYgG2e+/ZxEbZLVQNslC1o4EJYhi4D48rWdnev5pPcvekEDK/ATxFdfJfX7uo0Ui4791AEi08PyZoutGRt9g=;GdEHq74Knpd7H0hctfJLPg=="
 ---
 
