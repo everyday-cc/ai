@@ -41,20 +41,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Using artificial intelligence for early detection and treatment of illnesses: TU Dresden researchers develop an implantable AI system"
-    excerpt: "Artificial intelligence (AI) will fundamentally change medicine and healthcare: Diagnostic patient data, e.g. from ECG, EEG or X-ray images, can be analyzed with the help of machine learning, so that diseases can be detected at a very early stage based on subtle changes."
-    publishedDateTime: 2021-08-20T19:08:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/926023"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 23
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/442580a8-a32d-4096-af14-276506c68176/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 225
-        isCached: true
 
 secured: "CP4mRZ4AGEDlZ06V0B6XEXBQWUkZW3NAZjW3xJirXHJYQlMyn1yY5YRaxW5CHMiXwT5hmUrlAiamxs2345jIv7njgw3fe1Erx/LL89NfYuaPv6cXDRPSKMNkiDpqJNhssw8UMBLKzEKzutdtfi0CbAhuaTxuJ6qpE3bwETJjSM3apl9Zey6HWWgnOAnbaGuuaynOfggTl7SNsnCe89HOJpuYdnI8E0ISBhipra6ILN+vTp1togTeSRK9p1Se8Mvpo3Tt1eGvd3fm+XEpzXMPg+LrLk+TQsv+b5QNR/79Tn9/1QAxfPV60MW/sSCezZHhgeKhNnBcoqg23WDZ2068tVW0OZVT9xJuudQfkgDChWHmDDoXdpcZ9r4bT1REWXJyk1l9gNF5Br2KN02EQrSA3j+J72jByu0hTQTOustZUtR8KX/hnBpZ3T8CuWwx3kFzZKy98eqxFsdkzwgT3O+ckjK47iJuBE/WETpEjPL8Nko+nahLS08Ts+Zt+CmHUWjx7JVS7aeto3nXfyaMxPhZ3g==;PhigWwo9e4ZG1vKNXwI2YQ=="
 ---

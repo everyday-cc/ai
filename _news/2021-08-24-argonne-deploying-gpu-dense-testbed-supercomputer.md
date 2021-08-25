@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nextplatform.com/2021/08/24/argonne-deploying-gpu-dense-
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/08/24/argonne-deploying-gpu-dense-testbed-supercomputer/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Next Platform
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Argonne Deploying GPU-Dense Testbed Supercomputer"
+    excerpt: "If not for delays, the long-awaited Aurora supercomputer at Argonne National Lab would likely just be coming online. However, with Sapphire Rapids pushed"
+    publishedDateTime: 2021-08-25T12:35:00Z
+    webUrl: "https://www.nextplatform.com/2021/08/25/argonne-deploying-gpu-dense-testbed-supercomputer/"
+    ampWebUrl: "https://www.nextplatform.com/2021/08/25/argonne-deploying-gpu-dense-testbed-supercomputer/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/08/25/argonne-deploying-gpu-dense-testbed-supercomputer/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 59
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/nvidia-ampere-ga102-gpu-die-shot.jpg"
+        width: 704
+        height: 808
+        isCached: true
   - title: "NVIDIA and HPE to Deliver 2,240-GPU Polaris Supercomputer for Argonne"
     excerpt: "NVIDIA and Argonne National Laboratory this morning announced Polaris, a GPU-based supercomputer, with 2,2240 NVIDIA A100 Tensor Core GPUs delivering 1.4 exaflops of theoretical AI performance and about 44 petaflops of peak double-precision performance."
     publishedDateTime: 2021-08-25T11:28:00Z

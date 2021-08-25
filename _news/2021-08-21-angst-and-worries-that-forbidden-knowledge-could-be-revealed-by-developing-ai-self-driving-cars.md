@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/21/angst-and-worries
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/21/angst-and-worries-that-forbidden-knowledge-could-be-revealed-by-developing-ai-self-driving-cars/amp/"
 type: article
 quality: 79
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -47,22 +47,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612173ac27df6664b906759a%2F0x0.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Tesla self-driving tech could be offered to other automakers"
-    excerpt: "According to a media report, Elon Musk is open to the idea of sharing Tesla's full self-driving technology with other automakers.As per reports, Musk stated that he is open to allowing other car companies"
-    publishedDateTime: 2021-08-23T11:01:00Z
-    webUrl: "https://www.team-bhp.com/news/tesla-self-driving-tech-could-be-offered-other-automakers"
-    ampWebUrl: "https://www.team-bhp.com/news/tesla-self-driving-tech-could-be-offered-other-automakers?amp"
-    cdnAmpWebUrl: "https://www-team--bhp-com.cdn.ampproject.org/c/s/www.team-bhp.com/news/tesla-self-driving-tech-could-be-offered-other-automakers?amp"
-    type: article
-    provider:
-      name: Team-BHP.com
-      domain: team-bhp.com
-    quality: 59
-    images:
-      - url: "https://www.team-bhp.com/sites/default/files/styles/amp_high_res/public/tesla-model-s-1_4.jpg"
-        width: 1280
-        height: 960
         isCached: true
   - title: "China data rules to squeeze overseas development of self-driving tech"
     excerpt: "China's new rules on the handling of automotive data will take effect Oct. 1 and build a barrier against foreign companies from accessing driving records and onboard images, a move that will hamper their own efforts to advance self-driving technology."

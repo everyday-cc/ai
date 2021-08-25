@@ -7,7 +7,7 @@ originalUrl: "https://www.wrcbtv.com/story/44568655/ai-copywriting-does-it-work-
 webUrl: "https://www.wrcbtv.com/story/44568655/ai-copywriting-does-it-work-we-tested-7-of-the-top-softwares-so-you-dont-have-to-with-samples-from-each"
 type: article
 quality: 22
-heat: 22
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1800
     height: 990
     isCached: true
+
+related:
+  - title: "Putting The Fun Back Into Software Testing With AI"
+    excerpt: "This work is rarely described as fun, so let's automate it. Is automation the answer to making testing fun again?"
+    publishedDateTime: 2021-08-24T15:00:00Z
+    webUrl: "https://thenewstack.io/putting-the-fun-back-into-software-testing-with-ai/"
+    type: article
+    provider:
+      name: thenewstack.io
+      domain: thenewstack.io
+    quality: 39
+    images:
+      - url: "https://cdn.thenewstack.io/media/2021/08/5819ae1e-ferris-wheel-731194_1280.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "mS+lHLDgX18zkO2W/OJyDosoVYwjIuRzvp9P2EYFdHTQ0IzK4uePXuwMg6gpiYuBNmYAHBEtFHWpXb5CLcDEROL1Cp3UsuGKEBui8MovPUfrsuxNyxQsPAeaZ8E8kAbGbWSBi9NgqH8bwizbzaJMsfASRBeQgoAn9+QROWI1LzkhGuTdU68g1ZMa3wAX8DzISi7ogBXbsdeNCjJwT0jjH7zbAc9wTfM3uoePEJ1FOirdfyfweU4SWFBSn8hv9syNP3lLq9p7yvY7G7g+okC2qkCLg7xWaYnFP/P1bFl9Xgno70aeQed3ZXLE79KbG0DgSq5QZDjb7TLQA0mE91Xe1zRruIcQ34P4uaQAGVOz3jg7RD7gaIKvrSQpbGGw1n3ABNl5UJk8Ac0KmbsnZN6lSG5Jn/3ZmkhKPPs/1DIhoApOKd/SkSRqQnWlbZJBrz6GKrEvdUbMrq4B8mJuAhIFqckNM05el7qGnsC7xdb7yoHHpxO6H238u0VWY1bHPlrtgqlnjxj8pBO6Y4+IZiUXjg==;fmzjtZq/Ggrqw8Tiqk3xlA=="
 ---

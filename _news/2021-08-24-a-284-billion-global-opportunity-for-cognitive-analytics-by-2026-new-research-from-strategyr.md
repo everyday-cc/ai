@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/a-28-
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/a-28-4-billion-global-opportunity-for-cognitive-analytics-by-2026---new-research/article_f3667170-a840-525d-b39e-70f58b7ce4e2.html"
 type: article
 quality: 11
-heat: 11
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,75 @@ images:
     isCached: true
 
 related:
+  - title: "Hybrid AI Is The Future Of Industrial Analytics"
+    excerpt: "Industrial DataOps is the starting point to solving one of the key challenges of industrial digitalization: enabling hybrid AI solutions at scale."
+    publishedDateTime: 2021-08-25T13:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/25/hybrid-ai-is-the-future-of-industrial-analytics/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/25/hybrid-ai-is-the-future-of-industrial-analytics/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/25/hybrid-ai-is-the-future-of-industrial-analytics/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612561eaa3ca9a4aee49f148%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "AI-Powered Video Analytics Make Cities More Livable"
+    excerpt: "Find out how AI-based video analytics are changing everything, and the importance of high accuracy in an AI-based vision system like Uncanny Vision."
+    publishedDateTime: 2021-08-24T16:30:00Z
+    webUrl: "https://www.infoworld.com/resources/223285/ai-powered-video-analytics-make-cities-more-livable"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 67
+    images:
+      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "AI is Pivotal the Future of the Autonomous Shipping"
+    excerpt: "The shipping industry is responsible for around 90% of the world’s trade distribution, carrying the likes of machinery, motors,"
+    publishedDateTime: 2021-08-23T17:27:00Z
+    webUrl: "https://www.marinelink.com/news/ai-pivotal-future-autonomous-shipping-490075"
+    ampWebUrl: "https://www.marinelink.com/amp/news/ai-pivotal-future-autonomous-shipping-490075"
+    cdnAmpWebUrl: "https://www-marinelink-com.cdn.ampproject.org/c/s/www.marinelink.com/amp/news/ai-pivotal-future-autonomous-shipping-490075"
+    type: article
+    provider:
+      name: Marine Link
+      domain: marinelink.com
+    quality: 57
+    images:
+      - url: "https://images.marinelink.com/images/maritime/w800h600pad/quardia-adobe-stock-125369.jpeg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Singapore fashion analytics firm acquires Malaysia AI startup in $20m deal"
+    excerpt: "The acquisition of Supahands would help Omnilytics fill a gap in its existing tech offerings for retail firms."
+    publishedDateTime: 2021-08-25T04:17:00Z
+    webUrl: "https://www.techinasia.com/singapore-fashion-analytics-firm-omnilytics-acquires-malaysia-ai-startup-supahands-20m-deal?comments=true"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 45
+  - title: "Covera Health Raises $25M in Series C Financing to Fuel Growth of Its Healthcare Quality Analytics Platform"
+    excerpt: "Covera Health, the leading quality analytics company focused on improving patient care by reducing medical errors, today announced its Series C financing. The $25M funding was led by global venture capital and private equity firm Insight Partners with participation from existing investors including Equity Group Investments."
+    publishedDateTime: 2021-08-23T13:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-08ae26b203374af0810bc483579064cd"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 36
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "A $28.4 Billion Global Opportunity for Cognitive Analytics by 2026 - New Research from StrategyR"
     excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Cognitive Analytics - Global Market Trajectory & Analytics\"."
     publishedDateTime: 2021-08-24T17:05:00Z
@@ -39,34 +108,15 @@ related:
         width: 400
         height: 271
         isCached: true
-  - title: "United States Automotive Voice Recognition Systems Market Report 2021 - Forecast to 2026 - ResearchAndMarkets.com"
-    excerpt: "The “Automotive Voice Recognition Systems Market Research Report by Deployment, by State - United States Forecast to 2026 - Cumulative Impact of COVID-19” report has been added to ResearchAndMarkets.com’s offering."
-    publishedDateTime: 2021-08-24T14:32:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-united-states-voice-recognition-020d4caabfe8456fbe7b0856bbb2bf8f"
+  - title: "Bodo.ai Raises $14 million Series A to Revolutionize Simplicity, Performance and Scale for Data Analytics and Machine Learning"
+    excerpt: "Bodo.ai, the extreme-performance parallel compute platform for data workloads, today announced it has raised $14 million in Series A funding led by Dell (News - Alert) Technologies Capital, with participation from Uncorrelated Ventures,"
+    publishedDateTime: 2021-08-25T13:15:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-bodoai-raises-14-million-series-to-revolutionize-simplicity-/2021/08/25/9437232.htm"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 3
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "With Market Size Valued at $151.6 Billion by 2026, it`s a Healthy Outlook for the Global Cognitive Computing Market"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Cognitive Computing - Global Market Trajectory & Analytics\"."
-    publishedDateTime: 2021-08-24T15:45:00Z
-    webUrl: "https://www.lelezard.com/en/news-19966123.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 2
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 8
 
 secured: "3W1BrWKTS4xx897l5yVgC36EZ34GJzBnDnOzPnc0bc/3UeF4SggCEc6vxwotqHBjJPl6IjeJR7H2vIPxfdEde/j3deXD47fuNb5Nwje/d3xqVTHuby7rrPlu9jFB5e6nCXFfj0O2tROcgTfLge7QmQinLDsXZjnS9lw0OYf9P78w5TgHhxc6ckd48RTFY1zGswfN0auI/RTvEw/pSjveQPspQ/3+HY0euUwutY0lM/HmNWSAAa2bph5bqpsn48zu6LSIlHi7pgWIpTmdyrKOeV+COl0L734j3mvZ7X5QwalCLv4+WYGYcV5UD3LISnWZDFdpe2Gb6PvpQ18tqXTpZxmt9ZS3av802FKZnn7/czvrFSkepEfofuNmwFZ6jTwbSYeoZoRdgb4ngl6gdml9+uKRuWQFD1G7di9DZhhajk6XHu5m3/3krFGd0bxPIdKF+DBdqbzrjfUHfYXcGimx7VuJMz5ovnzmsXIpYM0V56CDUMKEW5skjL5gbHYm5ob4xRbwN6CqwtuwS+U944JFnw==;txivL4n3p3D06sL+jKBXEA=="
 ---

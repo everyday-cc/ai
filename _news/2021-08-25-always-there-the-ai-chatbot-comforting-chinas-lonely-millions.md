@@ -1,27 +1,28 @@
 ---
 category: news
-title: "'Always there': The AI chatbot comforting China's lonely millions"
-excerpt: "After a painful break-up from a cheating ex, Beijing-based human resources manager Melissa was introduced to someone new by a friend last year."
-publishedDateTime: 2021-08-25T01:40:00Z
-originalUrl: "https://www.japantimes.co.jp/news/2021/08/25/asia-pacific/social-issues-asia-pacific/chinese-app-artificial-intelligence/"
-webUrl: "https://www.japantimes.co.jp/news/2021/08/25/asia-pacific/social-issues-asia-pacific/chinese-app-artificial-intelligence/"
+title: "'Always there': the AI chatbot comforting China's lonely millions"
+excerpt: "After a painful break-up from a cheating ex, Melissa was introduced to someone new. He is perfect boyfriend material, maybe - but he's not real."
+publishedDateTime: 2021-08-25T12:39:00Z
+originalUrl: "https://www.iol.co.za/news/world/always-there-the-ai-chatbot-comforting-chinas-lonely-millions-f4e5b057-b95d-4fa5-8aba-b9b1d6ac5ed3"
+webUrl: "https://www.iol.co.za/news/world/always-there-the-ai-chatbot-comforting-chinas-lonely-millions-f4e5b057-b95d-4fa5-8aba-b9b1d6ac5ed3"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
 provider:
-  name: The Japan Times
-  domain: japantimes.co.jp
+  name: IOL News
+  domain: iol.co.za
 
 topics:
   - AI Ethics
   - AI
+  - AI in Healthcare
 
 images:
-  - url: "https://cdn-japantimes.com/wp-content/uploads/2021/08/np_file_108044-870x489.jpeg"
-    width: 870
-    height: 489
+  - url: "https://image-prod.iol.co.za/resize/610x61000/?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/ef3c70a9-d6f7-5207-a661-e9bd3952a445&operation=CROP&offset=0x0&resize=6048x4024"
+    width: 610
+    height: 406
     isCached: true
 
 related:
@@ -125,6 +126,6 @@ related:
       domain: i24news.tv
     quality: 16
 
-secured: "YqI349zaIYUVm6s10W9EMm9W/dkYTcC0nPkB35pVMse+E0uytO9GvziWGNED0c1jHqk413tRmd5WCxeBP06yQjr2QKxSgpu3yPimusrfH9btI4zP6gx82UKgWOTc9sUt0g6IRTaBZuj+POTXQsBSp4jGliNHd6OQ3AAxUlNYjVccQ1GudipgaeV5fhB6fXKZ0MAj4dLmJy0OKcv7YCRIdX7QA583pSAUSjvkPvNMZjklZCGIubbePlSxnkuLpXlbH58dZ883HYS0lkyftmo73bWWf9ndcVVjMCTmuD5b3bv8cP3we1VPrFkyxbFQEIhmacAPOPRagdBMNXMWwqDuV0GuYo4p+haWiFga++xdsQ0=;gOKjPkIjgZleoZo1vzqTgQ=="
+secured: "upX0IthTthlUjGfzAdIni7zRvMFzdXyIm0o+mNUqLX13A4tOIM0pHD2IIQB9MiLhZh7vnzoneIAuwkMik6/RJoielk/B3JtNVAGD/yjgrkwwcXKKV2mSegFjcbDm1kwNhRI3rQ06VhUmAZWIcYIQRlMXjtL/Hg7wg7YV0iEpdCnP9JVBfDP5UonIVN6Vw4qPArlYcZyBLcOC+gD6EWTUaARU++rSZSnaj14R84WvfH7PIWf+GpQjyrZtWug+RXatUMAkFxcDtJJYYNd57AymZgx+mT7goNqar1AcOUQb0ifBPruYPxyaiXUr8a4Wi2dGP09ZP9R0OBYCSgc05SGMHWIKjBHPbmA+wLTIV9EQ/L0=;txEeiHab6mTaC5GS5V4A2Q=="
 ---
 

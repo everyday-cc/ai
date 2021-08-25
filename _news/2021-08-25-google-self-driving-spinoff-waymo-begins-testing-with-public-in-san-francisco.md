@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Waymo opens self-driving car testing to some San Francisco residents"
+    excerpt: "Alphabet-owned Waymo is asking San Francisco residents to help test its self-driving cars in the city it hopes will be its second market."
+    publishedDateTime: 2021-08-24T16:43:28Z
+    webUrl: "https://www.cnbc.com/2021/08/24/waymo-opens-self-driving-car-testing-to-some-san-francisco-residents.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/08/24/waymo-opens-self-driving-car-testing-to-some-san-francisco-residents.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/08/24/waymo-opens-self-driving-car-testing-to-some-san-francisco-residents.html"
+    type: article
+    provider:
+      name: com/2021/08/24/waymo-opens-self-driving-car-testing-to-some-san-francisco-residents.html
+      domain: com/2021/08/24/waymo-opens-self-driving-car-testing-to-some-san-francisco-residents.html
+    quality: 159
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/105242041-GettyImages-938757682.jpg?v=1532563631"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Watch San Franciscans take a ride in Waymo’s self-driving car"
     excerpt: "Autonomous-car specialist is expanding its trial ridesharing service to regular folks in San Francisco as part of a new research program."
     publishedDateTime: 2021-08-25T03:00:00Z
@@ -72,21 +88,19 @@ related:
       name: CBS Local
       domain: cbslocal.com
     quality: 50
-  - title: "Humans are a secret weapon for self-driving car startups"
-    excerpt: "Waymo now plans to start commercial autonomous vehicle operations in San Francisco with safety drivers initially."
-    publishedDateTime: 2021-08-23T23:50:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/cars/humans-are-a-secret-weapon-for-self-driving-car-startups-41629720852043.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/cars/humans-are-a-secret-weapon-for-self-driving-car-startups/amp-41629720852043.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/humans-are-a-secret-weapon-for-self-driving-car-startups/amp-41629720852043.html"
+  - title: "Training Self-Driving Cars for $1 An Hour"
+    excerpt: "Every day for over four years, Ramses woke up in his home in Barquisimeto, Venezuela, turned on his computer, and began labeling images that will help make self-driving cars ubiquitous one day. Through a microtasking platform called Remotasks,"
+    publishedDateTime: 2021-08-25T12:59:00Z
+    webUrl: "https://www.predictiveanalyticsworld.com/machinelearningtimes/training-self-driving-cars-for-1-an-hour/12250/"
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 44
+      name: Predictive Analytics World
+      domain: predictiveanalyticsworld.com
+    quality: 39
     images:
-      - url: "https://images.hindustantimes.com/auto/img/2021/08/23/600x338/mary-barra_c8eff84c-50d2-11e7-88ef-5a5d74cf2589_1629721137550.jpg"
-        width: 600
-        height: 338
+      - url: "https://www.predictiveanalyticsworld.com/machinelearningtimes/wp-content/uploads/2021/05/MSDS_270x270_LM.gif"
+        width: 270
+        height: 270
         isCached: true
   - title: "Waymo Rolls Out Self-Driving Taxi Service in San Francisco"
     excerpt: "Waymo, previously known as the “Google Self-Driving Car Project,” has rolled out its autonomous taxi service in San Francisco. The company has been testing out autonomous driving in San Francisco for over 12 years and began offering rides to its Bay-area employees earlier this year."
@@ -116,6 +130,15 @@ related:
         width: 1920
         height: 1099
         isCached: true
+  - title: "Video: Waymo begins self-driving rides in San Francisco"
+    excerpt: "Waymo, the autonomous driving division of Google, has started its Trusted Tester program in San Francisco. The program will invite the local population to get rides from Waymo to help better identify the issues involved with autonomous driving as well as discover what consumers want from self-driving ride-hailing services."
+    publishedDateTime: 2021-08-25T12:06:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17102/video-waymo-begins-self-driving-rides-in-san-francisco"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 19
 
 secured: "pX9f6paiHMuYb4orFtMCJTSaKwPKYjrB3QW7FTHaRwz3YhXLlMPJxDcoOHiIJTq8aYIa0LMuEY1vP9GhXnw3qaH9BWujlWJW53c1f66x7LplgnVcyJMai1WHu3/EFv2Ji23/JnCfyNqIUSt2Zwkw9KcixhE8klR+Z8y1jEg4EL/Uzy0/IYxCcH0Wo0lyKdAzeIYimBsouv8hjxKJOTrqSkgY9AESS1230cloEN+ttnVMutklStV12i6WXCsIwSvfrNwNemkzjNze30PhyYeo9C5TZPa+gToNACv7deHu6k384HgAQs1Z3YsVWExdorjimU8pe23hq+NhPXZu5wkIJ/k4obOP7UmNYO7MzP8Zpuu6d3GsnIGNWFmnBJV09r1mxRb3qSk3JOfBaKt1ZVL7iN0mHRWmvLN4+yT28gZIMD1VN25rUGqteMt/EbPWNr8bIamfExHEmtf5uc1klljokVNlGDOIyCw/ab+SO8AB0iBQ+502DcRFhIavEOg4BsIdz/j4XjmH2Ld+T3mRYRMCfg==;hyWMSSpb7beR5T7gjOzoqQ=="
 ---

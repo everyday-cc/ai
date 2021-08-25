@@ -74,6 +74,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "'Always there': the AI chatbot comforting China's lonely millions"
+    excerpt: "After a painful break-up from a cheating ex, Melissa was introduced to someone new. He is perfect boyfriend material, maybe - but he's not real."
+    publishedDateTime: 2021-08-25T12:39:00Z
+    webUrl: "https://www.iol.co.za/news/world/always-there-the-ai-chatbot-comforting-chinas-lonely-millions-f4e5b057-b95d-4fa5-8aba-b9b1d6ac5ed3"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 41
+    images:
+      - url: "https://image-prod.iol.co.za/resize/610x61000/?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/ef3c70a9-d6f7-5207-a661-e9bd3952a445&operation=CROP&offset=0x0&resize=6048x4024"
+        width: 610
+        height: 406
+        isCached: true
   - title: "AI chatbot comforts China’s lonely millions"
     excerpt: "After a painful break-up from a cheating ex, Beijing-based human resources manager Melissa was introduced to someone new by a friend late last year. He replies to her messages at all hours of the day,"
     publishedDateTime: 2021-08-24T14:10:00Z
@@ -101,20 +115,6 @@ related:
       - url: "https://www.thesundaily.my/binrepository/480x320/0c57/480d250/none/11808/UJXY/china-computers-social-internet-000321_1857084_20210824125004.jpg"
         width: 480
         height: 250
-        isCached: true
-  - title: "'Always there': The AI chatbot comforting China's lonely millions"
-    excerpt: "After a painful break-up from a cheating ex, Beijing-based human resources manager Melissa was introduced to someone new by a friend last year."
-    publishedDateTime: 2021-08-25T01:40:00Z
-    webUrl: "https://www.japantimes.co.jp/news/2021/08/25/asia-pacific/social-issues-asia-pacific/chinese-app-artificial-intelligence/"
-    type: article
-    provider:
-      name: The Japan Times
-      domain: japantimes.co.jp
-    quality: 39
-    images:
-      - url: "https://cdn-japantimes.com/wp-content/uploads/2021/08/np_file_108044-870x489.jpeg"
-        width: 870
-        height: 489
         isCached: true
   - title: "Artificial intelligence chatbots providing companionship to millions in China"
     excerpt: "Loneliness, once considered mostly a plight of the elderly, is impacting millions isolated by Covid - Click the link for more details."

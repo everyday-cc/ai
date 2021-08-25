@@ -91,6 +91,22 @@ related:
         width: 800
         height: 488
         isCached: true
+  - title: "Artificial Intelligence (AI) in Food and Beverage Market Size 2021 Demand, Global Trend, News, Business Growth, Top Key Players"
+    excerpt: "The new report titled Global Artificial Intelligence AI in Food and Beverage Market published by Emergen Research is a vivid presentation of the global Artificial Intelligence AI in Food and Beverage market with utmost focus on the forecast market size"
+    publishedDateTime: 2021-08-25T12:51:00Z
+    webUrl: "https://www.openpr.com/news/2367537/artificial-intelligence-ai-in-food-and-beverage-market-size"
+    ampWebUrl: "https://www.openpr.com/amp/2367537/artificial-intelligence-ai-in-food-and-beverage-market-size"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2367537/artificial-intelligence-ai-in-food-and-beverage-market-size"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 44
+    images:
+      - url: "https://cdn.openpr.com/U/8/U825208148_g.jpg"
+        width: 700
+        height: 393
+        isCached: true
   - title: "Smart Education and Learning Market Size, Key Player Revenue, SWOT, PEST & Porter’s Analysis For 2020–2027"
     excerpt: "The global Smart Education And Learning Market is forecast to reach USD 1 047 75 Billion by 2026 according to a new report by Smart education can also be summed up as the application of smart devices"
     publishedDateTime: 2021-08-23T15:23:00Z

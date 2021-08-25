@@ -99,6 +99,22 @@ related:
         width: 2000
         height: 1335
         isCached: true
+  - title: "Agritech startup TartanSense raises $5 mn from FMC, Omnivore and Blume Ventures"
+    excerpt: "Agritech robotics startup TartanSense on Wednesday said it has raised USD 5 million (around Rs 37 crore) from investors for business expansion and growth. The company said in a statement that the Series A funding round was led by FMC Ventures and Omnivore,"
+    publishedDateTime: 2021-08-25T12:22:00Z
+    webUrl: "https://www.cnbctv18.com/startup/agritech-startup-tartansense-raises-5-mn-from-fmc-omnivore-and-blume-ventures-10492291.htm"
+    ampWebUrl: "https://www.cnbctv18.com/startup/agritech-startup-tartansense-raises-5-mn-from-fmc-omnivore-and-blume-ventures-10492291.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/startup/agritech-startup-tartansense-raises-5-mn-from-fmc-omnivore-and-blume-ventures-10492291.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 55
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2021/08/startup_funding3-1019x573.jpg"
+        width: 1019
+        height: 573
+        isCached: true
   - title: "Agritech startup TartanSense raises $5 million from FMC, Omnivore and Blume Ventures"
     excerpt: "TartanSense builds small agricultural robots, equipped with AI-assisted computer vision, to help small farms reduce their expenditures and improve their incomes."
     publishedDateTime: 2021-08-25T06:21:00Z

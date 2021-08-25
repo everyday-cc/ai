@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcworld.com/article/3630379/this-massive-ai-chip-has-the
 cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3630379/this-massive-ai-chip-has-the-compute-power-of-a-human-brain.amp.html"
 type: article
 quality: 106
-heat: 156
+heat: 176
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611d8d46a45079d06316ca62%2F0x0.jpg"
         width: 800
         height: 503
+        isCached: true
+  - title: "The world’s largest chip is creating AI networks larger than the human brain"
+    excerpt: "Cerebras Systems, maker of the world’s largest chip, has lifted the lid on new architecture capable of supporting AI models that outscale the human brain. The current largest AI models (such as Switch Transformer from Google) are built on circa 1 trillion parameters,"
+    publishedDateTime: 2021-08-25T13:36:00Z
+    webUrl: "https://www.techradar.com/in/news/the-worlds-largest-chip-is-creating-ai-networks-larger-than-the-human-brain"
+    ampWebUrl: "https://www.techradar.com/in/amp/news/the-worlds-largest-chip-is-creating-ai-networks-larger-than-the-human-brain"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/the-worlds-largest-chip-is-creating-ai-networks-larger-than-the-human-brain"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 101
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/7GP79ZaR9WEwx5QnSBo5Eh-1200-80.jpg"
+        width: 970
+        height: 545
         isCached: true
   - title: "Cerebras’ CS-2 brain-scale chip can power AI models with 120 trillion parameters"
     excerpt: "Cerebras said its CS-2 processor is a \"brain-scale\" chip that can power AI models with more than 120 trillion parameters."
@@ -93,6 +109,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611eaab4a8a155b120682f84%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2004%26cropY1%3D0%26cropY2%3D1128"
         width: 1200
         height: 675
+        isCached: true
+  - title: "BeingAI Has Unveiled a Human-Like AI"
+    excerpt: "BeingAI is giving birth to a highly sophisticated AI being, named 'Zbee'! And it's designed to function across multiple platforms in real-time."
+    publishedDateTime: 2021-08-23T18:40:00Z
+    webUrl: "https://interestingengineering.com/beingai-unveiled-human-like-ai"
+    ampWebUrl: "https://amp.interestingengineering.com/beingai-unveiled-human-like-ai"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/beingai-unveiled-human-like-ai"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 57
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/lV6DbjM1Ox/sizes/beingai-unveiled-human-like-ai_resize_md.jpg"
+        width: 744
+        height: 419
         isCached: true
   - title: "The next phase of AI is generative"
     excerpt: "In it's next act, AI will transform from an augmentative technology to a more direct generator of products and data, according to Gartner's 2021 Hype Cycle."

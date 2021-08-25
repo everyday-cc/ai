@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/researchers-make-sure-ai-works-for
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/researchers-make-sure-ai-works-for-farmers/amp/"
 type: article
 quality: 109
-heat: 180
+heat: 170
 published: true
 
 provider:
@@ -34,9 +34,9 @@ related:
   - title: "UniSA researchers develop AI facial recognition tech to monitor premature babies"
     excerpt: "University of South Australia boasts the AI-based system it has developed to remotely monitor the vital signs of babies rival the accuracy of ECG."
     publishedDateTime: 2021-08-25T08:17:00Z
-    webUrl: "https://www.zdnet.com/index.php/article/unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies/"
-    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies/"
+    webUrl: "https://www.zdnet.com/article/unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies/"
     type: article
     provider:
       name: ZDNet
@@ -62,20 +62,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/08/The-Self-Assembling-brain-1.jpg?w=1200&strip=all"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Researchers Highlight Promise of AI in Diagnosing, Managing NAFLD"
-    excerpt: "Artificial intelligence (AI) and its subsets may play a key role in ... As there are limited options for NAFLD drug therapy, the authors said, AI could identify patient response, particularly by taking into account their genomics and environmental exposures."
-    publishedDateTime: 2021-08-20T19:35:00Z
-    webUrl: "https://www.ajmc.com/view/researchers-highlight-promise-of-ai-in-diagnosing-managing-nafld"
-    type: article
-    provider:
-      name: The American Journal of Managed Care
-      domain: ajmc.com
-    quality: 39
-    images:
-      - url: "https://cdn.sanity.io/images/0vv8moc6/ajmc/e1ec648dc06d633466058f03102964b60f8a93ef-4500x3000.jpg?fit=crop&auto=format"
-        width: 4500
-        height: 3000
         isCached: true
   - title: "Artificial intelligence researchers receive Federal funding"
     excerpt: "Control Engineering - The Ohio State University is now the home base of two federally-funded institutes dedicated to advancing artificial intelligence (AI) research. The U.S."

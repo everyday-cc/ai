@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-business
 webUrl: "https://apnews.com/press-release/business-wire/technology-business-united-states-voice-recognition-020d4caabfe8456fbe7b0856bbb2bf8f"
 type: article
 quality: 3
-heat: -1
+heat: 3
 published: false
 
 provider:
@@ -25,47 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "A $28.4 Billion Global Opportunity for Cognitive Analytics by 2026 - New Research from StrategyR"
-    excerpt: "A new market study published b Inc., (GIA) the premier market research company, today released its report titled \"Cognitive Analytics"
-    publishedDateTime: 2021-08-24T15:40:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/a-28-4-billion-global-opportunity-for-cognitive-analytics-by-2026---new-research/article_f3667170-a840-525d-b39e-70f58b7ce4e2.html"
+  - title: "Global Federated Learning Market Research Report 2021: Leveraging Open Source Tools to Accelerate Technology Development across Organizations and Regi"
+    excerpt: "New Approach to Building AI Models\" report has been added to ResearchAndMarkets.com's offering. Federated learning is a distributed ML architecture that enables a global model to be trained using decentralized data."
+    publishedDateTime: 2021-08-23T14:23:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=519914"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 11
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/7/ca/7ca68c5b-9b95-5222-b3e6-dc6506bc6976/61251435c0d9d.image.jpg?resize=931%2C630"
-        width: 931
-        height: 630
-        isCached: true
-  - title: "A $28.4 Billion Global Opportunity for Cognitive Analytics by 2026 - New Research from StrategyR"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Cognitive Analytics - Global Market Trajectory & Analytics\"."
-    publishedDateTime: 2021-08-24T17:05:00Z
-    webUrl: "https://www.mobilitytechzone.com/lte/news/2021/08/24/9436561.htm"
-    type: article
-    provider:
-      name: Mobility Techzone
-      domain: mobilitytechzone.com
-    quality: 11
-    images:
-      - url: "https://mma.prnewswire.com/media/1599563/MCP11132.jpg"
-        width: 400
-        height: 271
-        isCached: true
-  - title: "With Market Size Valued at $151.6 Billion by 2026, it`s a Healthy Outlook for the Global Cognitive Computing Market"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Cognitive Computing - Global Market Trajectory & Analytics\"."
-    publishedDateTime: 2021-08-24T15:45:00Z
-    webUrl: "https://www.lelezard.com/en/news-19966123.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 2
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "KtunR7sMzWoH8dQSqjuTwC7czK0g9bx4Vx732g9kkclqaRgBwV2NN2IY57F0usKaH9du0OA/ELkxaBsr+FepgqG9YwY8Yd3O+YX5yY369mqetVzGnZNZj7brOJS7ip0zxCMvyjUJ5HRlNfbBzjzqwXSDfHKc3lWZpsSXykHjNPMOiuGJcqtQTrPi0gSgg7eVrCU3YDlnKULHKmP4Uucwxy6rCEAM+D8OA46EUgFX8PaLfhS7zo2xksZgzN/oUo4cQ+qhXYxYdO0JqahI9CaKzWiteXW48+d7cqv9s0Fs/Z5gtIP1JGHUJx8VNsfVFk5TaN5Tp46TIthfNGIFwMUFqxLWxN6k4HNSfWHplKX4xMo=;UzwR/pnkt1/JH9pbELuU5g=="

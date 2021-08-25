@@ -3,14 +3,11 @@ category: news
 title: "Oracle tweaks MySQL and boosts storage engine"
 excerpt: "Oracle has announced a free upgrade to its MySQL HeatWave service which it says promises to make life easier for clients, while at the same time improving performance and stability. The upgrade comes in the form of MySQL Autopilot,"
 publishedDateTime: 2021-08-11T11:01:00Z
-originalUrl: "https://www.techradar.com/news/oracle-tweaks-mysql-and-boosts-storage-engine"
-webUrl: "https://www.techradar.com/news/oracle-tweaks-mysql-and-boosts-storage-engine"
-ampWebUrl: "https://www.techradar.com/amp/news/oracle-tweaks-mysql-and-boosts-storage-engine"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/oracle-tweaks-mysql-and-boosts-storage-engine"
+originalUrl: "https://www.techradar.com/au/news/oracle-tweaks-mysql-and-boosts-storage-engine"
+webUrl: "https://www.techradar.com/au/news/oracle-tweaks-mysql-and-boosts-storage-engine"
+ampWebUrl: "https://www.techradar.com/au/amp/news/oracle-tweaks-mysql-and-boosts-storage-engine"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/oracle-tweaks-mysql-and-boosts-storage-engine"
 type: article
-quality: 74
-heat: 84
-published: true
 
 provider:
   name: TechRadar
@@ -30,22 +27,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "Oracle Announces MySQL Autopilot To Improve The Performance & Scalability Of MySQL HeatWave Service"
-    excerpt: "Oracle announced the availability of MySQL Autopilot — a new component of MySQL HeatWave service in Oracle Cloud Infrastructure"
-    publishedDateTime: 2021-08-12T10:48:00Z
-    webUrl: "https://analyticsindiamag.com/oracle-announces-mysql-autopilot-to-improve-the-performance-scalability-of-mysql-heatwave-service/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 10
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/Oracle.jpeg"
-        width: 675
-        height: 371
-        isCached: true
-
-secured: "PhqVbCluF2kgvh9JKX3ReFC0cX86JwwEt08pXczpRmZHhEy9/spScKaHDxJD9GV9p6+UwrPKUljzB+BtPU2Y9TgHk7Rl7ciOy4a/vT/Z+m7aeNJBdq9n1pz8dWrF+vvXzKT7KSn7mXtZ9GjdYmBdJHQbYbXgO9RmIjw/jjRmfDSTzTcM5m+4lo8450Wl9gd+3bSAKzMxJGjaGwDlDbbPyzjWPlYXLuMjjooY1WOgCpLGWMCOX3+UB6CbC2zKss1P2tLJUlWe/bgOPMsxoNGTWPFUgclFMQMl04MIVg3yf5YxF7r8r9dDSZp3b48QvHy9n4eSS8VP8mMzPaerC6IGmoAsuZjxOA/kE6oHJxL/I42lQG4nvAAhsNJeP5g/rOibzn9F5ZcqTiEe6DTIK7t61r0GnVBddRoDGg5StR0sCGQxwoJSt45qG1Ow2DxGf2lm401WYZiinX2+MYeDrj+NZTwZDtfRxUEM8lEN3fZ8uE5/PvIi8HTIPHpXBm6m76Gtk2guII0I5VjrDjlb2krZ0A==;hIbtg71Rg50+mWI15WvgcA=="
+secured: "4XOl0SwN4FEzzhMoCMuw1xa1IIZskTM0ZLAH2TylDKSJAjp41MBEnX2pCcYFIHjDjdIeTPFyTmjGc6gTGuer/MqxRjAt3Jg2KzoKfGfo2jOM4932yWIIceg+tx7YrDN47H8uSo5Sb333dxzo5adiPw7NVGDjr3kI6HC/KqbtffT+ex+7c4wLxAdiPLGR0/VI1fFk4ytYglyLxfrGEDx/Afwu0/KWDZ12lX11vEnR0khv9OXa0b1fW2CwUXeb3rYTH8Lft7U6cUxlAwtsiAvjQBnBijXBwp12b9YCc0tjod5M1eqHxykAgpcdjE6kv2fS188bW4mlQwl0g5bzlek3Jz8Ru4tPWoFX59718rR/cqw=;BxTBihOHYGK55WZ3aMmZkA=="
 ---
 

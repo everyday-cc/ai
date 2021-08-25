@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Tesla self-driving tech could be offered to other automakers"
-    excerpt: "According to a media report, Elon Musk is open to the idea of sharing Tesla's full self-driving technology with other automakers.As per reports, Musk stated that he is open to allowing other car companies"
-    publishedDateTime: 2021-08-23T11:01:00Z
-    webUrl: "https://www.team-bhp.com/news/tesla-self-driving-tech-could-be-offered-other-automakers"
-    ampWebUrl: "https://www.team-bhp.com/news/tesla-self-driving-tech-could-be-offered-other-automakers?amp"
-    cdnAmpWebUrl: "https://www-team--bhp-com.cdn.ampproject.org/c/s/www.team-bhp.com/news/tesla-self-driving-tech-could-be-offered-other-automakers?amp"
-    type: article
-    provider:
-      name: Team-BHP.com
-      domain: team-bhp.com
-    quality: 59
-    images:
-      - url: "https://www.team-bhp.com/sites/default/files/styles/amp_high_res/public/tesla-model-s-1_4.jpg"
-        width: 1280
-        height: 960
-        isCached: true
 
 secured: "ihV7pVU5qRrFtjCVxKvC+9TY87AdsJk6H8l6hqS/t7v7Q3qqb/x9m7nbTFwgWftX+HKyKPQCjagJMnNg5ickW6N8lp0NZuRj8Nhu4+f5CEW6+m6DF6Lc9yOmmnlj0slJ872nklpOoG9CPwSQbyEPsvn+7j8cA3N29uXtfdm/hVgfrLXh5HoBWPG2+Dzks4votJUm7MlbacQlBG/2wAhWCKxFoIm/9/JX/iC1KIm1G6C9c5yO9U+dGdEpeVdhwaeQjcW1AHPXvLt9cXehGiyFr0hVodaQ1ICKSx8Voi3nyM1Ufag1/SVqtPJRMO9GiMFeHmXsO5r1g4Xu4vOY2TTHiuPBt0VyxxgKY4JfTYm+bzU=;xU+cb0xDGNg+IK9JTdx9xw=="
 ---

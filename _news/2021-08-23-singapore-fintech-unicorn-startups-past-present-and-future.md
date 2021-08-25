@@ -50,6 +50,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "Humans are a secret weapon for self-driving car startups"
+    excerpt: "Waymo now plans to start commercial autonomous vehicle operations in San Francisco with safety drivers initially."
+    publishedDateTime: 2021-08-23T23:50:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/cars/humans-are-a-secret-weapon-for-self-driving-car-startups-41629720852043.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/cars/humans-are-a-secret-weapon-for-self-driving-car-startups/amp-41629720852043.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/humans-are-a-secret-weapon-for-self-driving-car-startups/amp-41629720852043.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 44
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2021/08/23/600x338/mary-barra_c8eff84c-50d2-11e7-88ef-5a5d74cf2589_1629721137550.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Film's star is self-driving car by Cruise to build trust"
     excerpt: "The car, one of 200 used for testing by the GM unit, stars in a short film meant to earn consumers' trust and educate them about the technology."
     publishedDateTime: 2021-08-21T08:00:00Z

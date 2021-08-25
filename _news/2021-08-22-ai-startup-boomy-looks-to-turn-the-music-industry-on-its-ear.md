@@ -60,6 +60,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The AI Revolution Is Happening Now"
+    excerpt: "From autonomous vehicles to robotic process automation, AI has developed roots and grown offshoots throughout."
+    publishedDateTime: 2021-08-25T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/25/the-ai-revolution-is-happening-now/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/25/the-ai-revolution-is-happening-now/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/25/the-ai-revolution-is-happening-now/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61255f32be270fc06d801dba%2F0x0.jpg"
+        width: 1200
+        height: 660
+        isCached: true
 
 secured: "h0Ald+mBojaczGEcOIOM+cyaJcQAcNu9KauBNaY6RoepA7sdKZ2pdUqMIBdLDp3plStRJhFYymM1BiCro8ds8kvsZ9+mcsuNvgW0u9OXdEC140DfiUCJYGcqQ5A71RFzv1z8qBRnsmdY3IvU08DKnnSah1lYZ6iTgeBNI4l5W+/Ke3nqrhHwNSeIQD7aktR+r09AL5r7hzeXl07uA2t4RSjynRGJosIj5Jo6CbHaHRB9inbcgE0ZLWzCO1uvRVO4e8qXHbtq0jKZ/6BYzXFJrxZmlrn5lv0gk35SiL9WrNeYM2LFiYjY9XdKk6HEfL2uOiQzMIPCwkc6/THTC42X2v9O+omX7UjqlCboDJqVgwyxqVm48/JFQjxu9Sy/N7RH77eFn/5jrjn/kUq2ADC6OaIJphZw53DBm5qWn0G07KWGshYa/PcxEVIB1FbPUOTUXy1r2Atx8/6ITY6TPKGoF+h2VJ7r0I/eeCNc0thvPZQSmncPTIcV/b+CBledDQMmlow9TDnqqDSk8Qd99lGFww==;SW7OtulWiMt/5T2RH9QOLA=="
 ---

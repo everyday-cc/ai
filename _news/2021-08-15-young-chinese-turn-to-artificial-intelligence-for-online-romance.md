@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI Ethics
 
 images:
   - url: "https://cdn.vietreader.com/uploads/posts/2021-08/world_young-chinese-turn-to-artificial-intelligence-for-online-romance-2.jpg"
@@ -90,6 +91,6 @@ related:
       domain: techinasia.com
     quality: 34
 
-secured: "XdQf+siOVtkWSfvqlarUgOilC1v34Mc2M/dwjpbowfJ0/Zqq18PVZ6UXVdrG92paOZIfOWNTrbTvF5PKZ0bqrrjXHdhX1dxyQItw5MApBx4BlCh+mW7dZQ4Ni5d2ZdcXZ4iLpTE0Th6HKj6U26y2YHdlnj2oPi89YoDHahY5m+7hYL2nyvXfPBzMrjKnwTP3Z9ZGT9r3jiiUIbtWwpTpHI5vNOTt3/ETBXFI3n5REfm8ASYi5N32EMi/OtRZB3DdXSADCS+ltfS84DmNJH3Ag3NVOEj5Mxv1Y5SSLbwyWk2sSsmpUOxaPWkqxxSnOjrDiFNbUiawwnZB9V47JG9YL/Izx0vIBUI8m/tv8rKN1CY=;T3ABn0Jr1x1jHrM9FknlCQ=="
+secured: "oH93i4vw/ZLIt3DII7J4/PtE8fdIpI2Z3rnJQEm4v85yM4MT+v+IwqyZDUjzwkQYPYTlAFMWrKmrSu3ViOSIXWanMFLm8Iyflj338B7rvvFXOexD4drjiqMn8rrrLqokA+/2gPuGv/BlGClXa3dlyUiv4C8V5i78JK3gU18jUb9juoa4js6lqj883x7nuMHtbhkGfbqLRywiXrLWzP7qfZ5QCUDNKMh7Q6gCgZK5jhvn8S/JYj2Cb4hleCapOAKsh5HX6wxfDtgO+0GATABGRBwrXsR80bE9fvMwjYTIW0S1pezMX6hETRQSEW9PA7An8V9KT4WMEIyEl5XHe/OplE4UtP1o87iy+ShcsRhPV6+pA4V9lIkZlv18hGGhURVnpoDnFPJsKoFHeCrfcjNbNellkdd9oYoOofb3ZU+MaOAEfEnZz0k1TqgwE5yrJtCYN8tNopYT8V7EBe5v7DIK0EmUbQTusFgD0e/OQp32jn/t0ajMMKS950RxyImYk8F9tD5fjt3yWTh9XFcMclVmow==;FrEBzHODOxMKv3B5Un7lNg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/08/23/the-po
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/08/23/the-possibilities-of-ai-in-2030-transformation-across-dimensions/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 900
     isCached: true
+
+related:
+  - title: "Otter.ai aims to transform meetings with transcription"
+    excerpt: "The tool will quietly join all meetings, transcribe all of the discussion, create a set of minutes, and share this with everyone."
+    publishedDateTime: 2021-08-25T13:00:00Z
+    webUrl: "https://venturebeat.com/2021/08/25/otter-ai-aims-to-transform-meetings-with-transcription/"
+    ampWebUrl: "https://venturebeat.com/2021/08/25/otter-ai-aims-to-transform-meetings-with-transcription/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/25/otter-ai-aims-to-transform-meetings-with-transcription/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/05/Otter-Assistant.png?w=1200&strip=all"
+        width: 1200
+        height: 668
+        isCached: true
 
 secured: "l2pFD2p5676SkkO5bZSh343UzLbf09E1WFXZi/ZBKgt8dUxDLE+fuClCOjXO8kq2Ow5MuxN0tbFWuN6VQXZWPJ2VMm3LTVlakF2bdMvsN0DThdgM3Hpccub155XeYaCZLrhhc/b707kcRrKT+2NaFfeDyWX+xIeuJBPaDo/GmTyR2NVAwvHNFdBDc27YJCNrmcg+6yVES9TGzbTQKBuyZa0IKixCMDOfIAYLdifycTGFso/Zk0Ue7ZEwihbX0z9kiGk92xqPwbI7rnDleqmbOh1eZlRuel29NeHCjhLTZG72Cxrvs6VgmBK1bKM3ujzqq0nuXKAm3jbm6B6vtUlpTxPUpXhsOOXIF7WbD7aK4iadY77OQD2G6IQL+IMvtXf9r78GWmoq25Ku3SNxdI4eninEK6MTdXisJaStx5TftnU8Xt1b9QtDOUtHyBcmiOHsdeFCjiqRILYAvvc4QFrm6vpkdiLbTzkilSSJhLR11wS2GjyBriWY6dcu07H/Wap/bzD6umEasBTd0yNpDYhjbQ==;PHyczkXROSyyVlZBQulN9g=="
 ---

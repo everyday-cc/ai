@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "eCapture Launches Smallest Form Factor 3D Stereo Depth Sensing Camera for Robotics and Object Tracking"
+    excerpt: "SANTA CLARA, Calif., Aug. 24, 2021 – eCapture, a brand focused on developing technology for the growing computer vision market, has introduced the"
+    publishedDateTime: 2021-08-24T14:33:00Z
+    webUrl: "https://www.enterpriseai.news/2021/08/24/ecapture-launches-smallest-form-factor-3d-stereo-depth-sensing-camera-for-robotics-and-object-tracking/"
+    type: article
+    provider:
+      name: enterpriseai
+      domain: enterpriseai.news
+    quality: 40
+    images:
+      - url: "https://www.enterpriseai.news/wp-content/uploads/2021/08/G53-Camera-300x300.png"
+        width: 300
+        height: 300
+        isCached: true
   - title: "eCapture Launches Smallest Form Factor 3D Stereo Depth Sensing Camera ..."
     excerpt: "SANTA CLARA, CA / ACCESSWIRE / August 23, 2021 / eCapture, a brand focused on developing technology for the growing computer vision market, today is introducing the smallest form factor stereoscopic 3D depth sensing camera."
     publishedDateTime: 2021-08-23T15:00:00Z

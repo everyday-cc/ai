@@ -41,7 +41,23 @@ related:
         width: 704
         height: 808
         isCached: true
+  - title: "Argonne Deploying GPU-Dense Testbed Supercomputer"
+    excerpt: "If not for delays, the long-awaited Aurora supercomputer at Argonne National Lab would likely just be coming online. However, with Sapphire Rapids pushed"
+    publishedDateTime: 2021-08-25T12:35:00Z
+    webUrl: "https://www.nextplatform.com/2021/08/25/argonne-deploying-gpu-dense-testbed-supercomputer/"
+    ampWebUrl: "https://www.nextplatform.com/2021/08/25/argonne-deploying-gpu-dense-testbed-supercomputer/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/08/25/argonne-deploying-gpu-dense-testbed-supercomputer/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 59
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/nvidia-ampere-ga102-gpu-die-shot.jpg"
+        width: 704
+        height: 808
+        isCached: true
 
-secured: "NPu2YNZpj02o/YX7fsgs7PYtGnXzKmla4gm6dpaF2Fnx4HNOdmzY+j73BQQZt+3W6jc+s1KZVv8peioQCHuv8QiyMjeys0QNuvz2u6jQAMJ5UcdXcZqypvJtWNSCIl3AfphTswgxXGQCyWLT7fEQTvZIE/Vfq0Mw+Xy2f3SFfDy72N6LBstiQQNrHPYinvpxYs1GG107eqetUiGT41BjT1Zhffzj4ZGxq1t8sNsa/SljDmqf3k+Lt8NnEhYRmlPjrG1BMYGJFHi4bNipFmRuum/jU7Q7Jul/6nQRRGYWXxXi0lyEfvfKyXRcqEodVNn+tBn34eQnXF12r2F5laU9YD4O2lhp9IpJzO26NYYwfR4=;LpcTQq4iwebG41Agd/72FA=="
+secured: "eZEsxyqGtSdgvIrg1HFyn9s69vmgT1ot/JOpRVMojWvB91v6Hfpe2ESccWTp/nRHhvubmEkqkh8q8dDdtoD4FAmPV/TL+7Vz3CIYxq4IBoYcuySC49NIIDGP8AEH2yn8vUqWktqF9ox2cIF+JNKojTFlQm3mDncfgXycM3lH4LVZZqrp6BKIScInNyV/4UGiF8U/Rwzncw8uOf5iLEdB/grk0YvOagKfs/i+99y4r3fvgl3bYY94gsX268akRI3tf4z1plaB0kWzm+73C965Q46qqBYvOo6YM0uEnKwsGVMEb7iUs+kbIY6biU4/2pX3042Upl6FEokOcSOmfOMIVxZGWhloyPEu0pqZ8eMeLpoMwu4Z4wFsb+98ZASiN+3qG9xTTnEx6WLA4dBCQtek17Qb5OAjvMOEQgwx8J9E9V/YT9AkvSDh54iFFy6Yq9m84qjWZnZ/VQy3nRsVwOJ8NZpazgbejGBB6wsMqq/jRwhamhO7Dvz6qiTL224zqhSb6ncNSdNRWUVeyzr1jZ1gPg==;wO4a4TNoKsh7cf8blUrsxQ=="
 ---
 

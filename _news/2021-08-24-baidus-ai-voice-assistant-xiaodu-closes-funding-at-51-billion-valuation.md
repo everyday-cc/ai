@@ -9,8 +9,8 @@ ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-08-24/baidus-ai
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-08-24/baidus-ai-voice-assistant-xiaodu-closes-funding-at-51-billion-valuation?context=amp"
 type: article
 quality: 67
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: U.S. News & World Report
@@ -25,17 +25,17 @@ topics:
   - AI
 
 related:
-  - title: "Baidu says 2nd-gen Kunlun AI chips enter mass production"
-    excerpt: "BEIJING, Aug 18 (Reuters) – Chinese tech giant Baidu said on Wednesday it had begun mass-producing second-generation Kunlun artificial intelligence (AI) chips, as it races to become a key player in the chip industry which Beijing is trying to strengthen."
-    publishedDateTime: 2021-08-21T11:53:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_nvidia-stock/baidu-says-2nd-gen-kunlun-ai-chips-enter-mass-production-2/"
+  - title: "Baidu's AI voice assistant Xiaodu closes funding at $5.1 bln valuation"
+    excerpt: "Chinese tech giant Baidu Inc (9888.HK) said on Tuesday its artificial intelligence (AI) voice assistant Xiaodu Technology has closed Series B financing at a $5.1 billion valuation."
+    publishedDateTime: 2021-08-24T10:08:00Z
+    webUrl: "https://www.reuters.com/technology/baidus-ai-voice-assistant-xiaodu-closes-funding-51-bln-valuation-2021-08-24/"
     type: article
     provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 54
+      name: Reuters
+      domain: reuters.com
+    quality: 167
     images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/RYPZAKZXTBPZFPVVEKT4DR5U44.jpg"
+      - url: "https://www.reuters.com/resizer/rq8m88P7hJlC56k45Ywc844Ve7U=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/655WP46C6BOUPP74MRQOESNVDE.jpg"
         width: 1200
         height: 628
         isCached: true

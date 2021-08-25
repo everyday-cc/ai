@@ -22,6 +22,22 @@ topics:
   - AI
 
 related:
+  - title: "Hybrid AI Is The Future Of Industrial Analytics"
+    excerpt: "Industrial DataOps is the starting point to solving one of the key challenges of industrial digitalization: enabling hybrid AI solutions at scale."
+    publishedDateTime: 2021-08-25T13:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/25/hybrid-ai-is-the-future-of-industrial-analytics/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/25/hybrid-ai-is-the-future-of-industrial-analytics/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/25/hybrid-ai-is-the-future-of-industrial-analytics/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612561eaa3ca9a4aee49f148%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AI-Powered Video Analytics Make Cities More Livable"
     excerpt: "Find out how AI-based video analytics are changing everything, and the importance of high accuracy in an AI-based vision system like Uncanny Vision."
     publishedDateTime: 2021-08-24T16:30:00Z
@@ -36,6 +52,73 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "AI is Pivotal the Future of the Autonomous Shipping"
+    excerpt: "The shipping industry is responsible for around 90% of the world’s trade distribution, carrying the likes of machinery, motors,"
+    publishedDateTime: 2021-08-23T17:27:00Z
+    webUrl: "https://www.marinelink.com/news/ai-pivotal-future-autonomous-shipping-490075"
+    ampWebUrl: "https://www.marinelink.com/amp/news/ai-pivotal-future-autonomous-shipping-490075"
+    cdnAmpWebUrl: "https://www-marinelink-com.cdn.ampproject.org/c/s/www.marinelink.com/amp/news/ai-pivotal-future-autonomous-shipping-490075"
+    type: article
+    provider:
+      name: Marine Link
+      domain: marinelink.com
+    quality: 57
+    images:
+      - url: "https://images.marinelink.com/images/maritime/w800h600pad/quardia-adobe-stock-125369.jpeg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Covera Health Raises $25M in Series C Financing to Fuel Growth of Its Healthcare Quality Analytics Platform"
+    excerpt: "Covera Health, the leading quality analytics company focused on improving patient care by reducing medical errors, today announced its Series C financing. The $25M funding was led by global venture capital and private equity firm Insight Partners with participation from existing investors including Equity Group Investments."
+    publishedDateTime: 2021-08-23T13:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-08ae26b203374af0810bc483579064cd"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 36
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "A $28.4 Billion Global Opportunity for Cognitive Analytics by 2026 - New Research from StrategyR"
+    excerpt: "A new market study published b Inc., (GIA) the premier market research company, today released its report titled \"Cognitive Analytics"
+    publishedDateTime: 2021-08-24T15:40:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/a-28-4-billion-global-opportunity-for-cognitive-analytics-by-2026---new-research/article_f3667170-a840-525d-b39e-70f58b7ce4e2.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 11
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/7/ca/7ca68c5b-9b95-5222-b3e6-dc6506bc6976/61251435c0d9d.image.jpg?resize=931%2C630"
+        width: 931
+        height: 630
+        isCached: true
+  - title: "A $28.4 Billion Global Opportunity for Cognitive Analytics by 2026 - New Research from StrategyR"
+    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Cognitive Analytics - Global Market Trajectory & Analytics\"."
+    publishedDateTime: 2021-08-24T17:05:00Z
+    webUrl: "https://www.mobilitytechzone.com/lte/news/2021/08/24/9436561.htm"
+    type: article
+    provider:
+      name: Mobility Techzone
+      domain: mobilitytechzone.com
+    quality: 11
+    images:
+      - url: "https://mma.prnewswire.com/media/1599563/MCP11132.jpg"
+        width: 400
+        height: 271
+        isCached: true
+  - title: "Bodo.ai Raises $14 million Series A to Revolutionize Simplicity, Performance and Scale for Data Analytics and Machine Learning"
+    excerpt: "Bodo.ai, the extreme-performance parallel compute platform for data workloads, today announced it has raised $14 million in Series A funding led by Dell (News - Alert) Technologies Capital, with participation from Uncorrelated Ventures,"
+    publishedDateTime: 2021-08-25T13:15:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-bodoai-raises-14-million-series-to-revolutionize-simplicity-/2021/08/25/9437232.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 8
 
 secured: "7B2hFEtDqXshjXYzv3yFjqtgkS8bZ8+6AXt+PV4u0DJ5GHc0/BVEfpqiCgpkH1H8mEB8TRh9ApclharN3IGcMN+NysvfNpjFYsyEuzEat/+RqeSdUrA/bEL52hiuM3swRqlMiyhxedTQTqeuJuXxKjUkqlQPlKeEVQ74YQnijP2uqGjJxA59ULbD6IZ6DaOs7vvfMzXFh6Ox276vNTtPV+Lv0YLNCX0rbnw2dqi1G+JdQvYc3mA9/4NyVjMBQAQozQrNYXfxFxi7tSCtE/eGf7EYiQy3cTKpQKQrLPY7/zvBaS/CFWrwWkRsmvJuDNNbIhOcQopznt04shRDH2nzOhXeQ01FTllemYw73CZmxR3+0VcGFkC/JqAGHflUnBYy9yqf6SIF7ko7JPE9Dc6d3lTlpSKK0N6kSjkJeM8QKJuMWmB4tIZuvVKZOcFndL2fjBKFaQ8yVwNkZP/Su9/Aq86SMGRzmvmsfhbfJGjaSW5gMAbn4tJj/36iZxANazjP9xgVMtrI1/pqb03izECDjg==;XmwT7lYCRnUCIqKNKUBUNw=="
 ---
