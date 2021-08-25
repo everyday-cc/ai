@@ -2,6 +2,93 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-24-always-there-the-ai-chatbot-comforting-chinas-lonely-millions.md",
+      "title": "'Always there': the AI chatbot comforting China's lonely millions",
+      "excerpt": "After a painful break-up from a cheating ex, Beijing-based human resources manager Melissa was introduced to someone new by a friend late last year.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-08-ai-chatbot-comforting-china-lonely.html",
+      "originalUrl": "https://techxplore.com/news/2021-08-ai-chatbot-comforting-china-lonely.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/xiaoice-has-pioneered.jpg",
+          "width": 1024,
+          "height": 681,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-08-ai-chatbot-comforting-china-lonely.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-ai-chatbot-comforting-china-lonely.amp",
+      "publishedDateTime": "2021-08-24T00:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-ocado-appoints-ai-and-machine-learning-expert-as-non-executive-director.md",
+      "title": "Ocado appoints AI and machine learning expert as non-executive director",
+      "excerpt": "Online supermarket Ocado has appointed Nadia Shouraboura as a non-executive director. Due to take up her role on 1 September, she will also be a member of the nomination committee. A leader in the field of machine learning and robotics,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theretailbulletin.com/food-and-drink/ocado-appoints-ai-and-machine-learning-expert-as-non-executive-director-24-08-2021/",
+      "originalUrl": "https://www.theretailbulletin.com/food-and-drink/ocado-appoints-ai-and-machine-learning-expert-as-non-executive-director-24-08-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theretailbulletin.com/wp-content/uploads/2020/09/Ocado-MS.jpg",
+          "width": 700,
+          "height": 466,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theretailbulletin.com/food-and-drink/ocado-appoints-ai-and-machine-learning-expert-as-non-executive-director-24-08-2021/amp/",
+      "cdnAmpWebUrl": "https://www-theretailbulletin-com.cdn.ampproject.org/c/s/www.theretailbulletin.com/food-and-drink/ocado-appoints-ai-and-machine-learning-expert-as-non-executive-director-24-08-2021/amp/",
+      "publishedDateTime": "2021-08-24T00:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Retail Bulletin",
+        "domain": "theretailbulletin.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-24-samsung-unveils-advanced-ai-memory-chips.md",
       "title": "Samsung unveils advanced AI memory chips",
       "excerpt": "By Baek Byung-yeul Samsung Electronics is extending its technology leadership in the memory chip sector, as the chip titan has unveiled new memory chips featuring artificial intel",
@@ -226,7 +313,7 @@
       "originalUrl": "https://venturebeat.com/2021/08/23/how-ai-will-reshape-software-development/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -424,7 +511,7 @@
       "originalUrl": "https://www.reuters.com/business/autos-transportation/secret-weapon-self-driving-car-startups-humans-2021-08-23/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -528,7 +615,7 @@
       "originalUrl": "https://blog.google/technology/ai/researchers-make-sure-ai-works-for-farmers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 170,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -580,7 +667,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/23/legal-tech-artificial-intelligence-enabled-review/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -726,7 +813,7 @@
       "originalUrl": "https://www.digitaltrends.com/computing/ai-leading-chip-design-revolution/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1104,111 +1191,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-uk-government-accused-of-sneaking-through-new-live-facial-recognition-rules.md",
-      "title": "UK Government Accused Of Sneaking Through New Live Facial Recognition Rules",
-      "excerpt": "More than 30 civil liberties groups are accusing the UK Home Office and police of bypassing Parliament to introduce live facial recognition technology (LFRT).",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/emmawoollacott/2021/08/23/uk-government-accused-of-sneaking-through-new-live-facial-recognition-rules/",
-      "originalUrl": "https://www.forbes.com/sites/emmawoollacott/2021/08/23/uk-government-accused-of-sneaking-through-new-live-facial-recognition-rules/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6123848325385b2b21e3c8cd%2F0x0.jpg",
-          "width": 1200,
-          "height": 754,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/emmawoollacott/2021/08/23/uk-government-accused-of-sneaking-through-new-live-facial-recognition-rules/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2021/08/23/uk-government-accused-of-sneaking-through-new-live-facial-recognition-rules/amp/",
-      "publishedDateTime": "2021-08-23T04:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-the-station-birds-improving-scooter-nomics-breaking-down-tesla-ai-day-and-the-nuro-ec-1.md",
-      "title": "The Station: Bird’s improving scooter-nomics, breaking down Tesla AI day and the Nuro EC-1",
-      "excerpt": "The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every weekend in your inbox. Hello readers: Welcome to The Station, your central hub for all past,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/08/23/the-station-birds-improving-scooter-nomics-and-breaking-down-tesla-ai-day/",
-      "originalUrl": "https://techcrunch.com/2021/08/23/the-station-birds-improving-scooter-nomics-and-breaking-down-tesla-ai-day/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/08/1894129364-NSussman_Techcrunch_Nuro-FINAL_full-L.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/08/23/the-station-birds-improving-scooter-nomics-and-breaking-down-tesla-ai-day/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/23/the-station-birds-improving-scooter-nomics-and-breaking-down-tesla-ai-day/amp/",
-      "publishedDateTime": "2021-08-23T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI Hardware"
       ]
     }
   ],

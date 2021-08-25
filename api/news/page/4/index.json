@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-21-tesla-aims-to-launch-full-self-driving-computer-2-with-cybertruck.md",
+      "title": "Tesla aims to launch Full Self-Driving Computer 2 with Cybertruck",
+      "excerpt": "Tesla plans to launch a new Full Self-Driving computer with Cybertruck electric pickup truck next year. The updated self-driving hardware should also include new cameras. Tesla’s self-driving hardware has been a point of controversy.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/web-stories/tesla-aims-to-launch-full-self-driving-computer-2-with-cybertruck-next-year/",
+      "originalUrl": "https://electrek.co/web-stories/tesla-aims-to-launch-full-self-driving-computer-2-with-cybertruck-next-year/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/e-gs-thumb-22.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/web-stories/tesla-aims-to-launch-full-self-driving-computer-2-with-cybertruck-next-year/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/web-stories/tesla-aims-to-launch-full-self-driving-computer-2-with-cybertruck-next-year/",
+      "publishedDateTime": "2021-08-20T11:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-21-tesla-ai-day-ev-maker-shows-improved-self-driving-tech-for-autopilot.md",
       "title": "Tesla AI Day: EV-maker shows improved self-driving tech for Autopilot",
       "excerpt": "Tesla's self-driving technology has recently come under regulatory spotlight. Tesla is working on a purely vision-based system, using eight vehicle-mounted cameras to process a real-time three-dimensional vector space to guide navigation.",
@@ -865,6 +917,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-20-ai-in-fintech-market-analysis-revenue-share-company-profiles-launches-forecast-till-2027.md",
+      "title": "AI in Fintech Market Analysis, Revenue Share, Company Profiles, Launches, & Forecast Till 2027",
+      "excerpt": "The global AI in Fintech Market is forecast to reach USD 26.77 Billion by 2026, according to a new report by Reports and Data. The AI in fintech incorporates computational power and deep learning algorithms to the financial technology.",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/ai-in-fintech-market-analysis-revenue-share-company-profiles-launches-forecast-till-2027/",
+      "originalUrl": "https://manometcurrent.com/ai-in-fintech-market-analysis-revenue-share-company-profiles-launches-forecast-till-2027/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manometcurrent.com/wp-content/uploads/2021/08/2-84.jpg",
+          "width": 1000,
+          "height": 466,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/ai-in-fintech-market-analysis-revenue-share-company-profiles-launches-forecast-till-2027/?amp=1",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/ai-in-fintech-market-analysis-revenue-share-company-profiles-launches-forecast-till-2027/?amp=1",
+      "publishedDateTime": "2021-08-19T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-20-intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor.md",
       "title": "Intel architect Koduri says every chip will be a neural net processor",
       "excerpt": "The processing of neural networks for artificial intelligence is becoming a main part of the workload of every kind of chip, according to chip giant Intel, which on Thursday unveiled details of forthcoming processors during its annual \"Architecture Day ...",
@@ -1098,108 +1193,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-companies-betting-on-data-must-value-people-as-much-as-ai.md",
-      "title": "Companies betting on data must value people as much as AI",
-      "excerpt": "The truth is, we are still early when it comes to data transformation. The success of tech giants that put data at the core of their business models set off a spark that is only starting to take off.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/08/19/companies-betting-on-data-must-value-people-as-much-as-ai/",
-      "originalUrl": "https://techcrunch.com/2021/08/19/companies-betting-on-data-must-value-people-as-much-as-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-626953732.jpg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/08/19/companies-betting-on-data-must-value-people-as-much-as-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/19/companies-betting-on-data-must-value-people-as-much-as-ai/amp/",
-      "publishedDateTime": "2021-08-19T14:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-artificial-intelligence-in-retail-market-size-growth-and-forecast-analysis-by-2027.md",
-      "title": "Artificial Intelligence in Retail Market Size, Growth and Forecast Analysis By 2027",
-      "excerpt": "A recent research report on the Global \"Artificial Intelligence in Retail Market\" presents a complete overview",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-size-growth-and-forecast-analysis-by-2027-2021-08-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-size-growth-and-forecast-analysis-by-2027-2021-08-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 236,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T12:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

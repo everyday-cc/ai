@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2361483/north-america-to-dominate-the-cog
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2361483/north-america-to-dominate-the-cognitive-computing-in-retail"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "North America is expected to dominate the AI in Physical Security Market to through 2026 – TechSci Research"
-    excerpt: "Ongoing technological advancements and the surge in use of the internet protocol based camera is expected to drive the demand for global AI in physical security market in forecast period According to TechSci Research report Global AI in Physical Security"
-    publishedDateTime: 2021-08-20T06:15:00Z
-    webUrl: "https://www.openpr.com/news/2361395/north-america-is-expected-to-dominate-the-ai-in-physical-security"
-    ampWebUrl: "https://www.openpr.com/amp/2361395/north-america-is-expected-to-dominate-the-ai-in-physical-security"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2361395/north-america-is-expected-to-dominate-the-ai-in-physical-security"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 58
-    images:
-      - url: "https://cdn.openpr.com/U/8/U820806123_g.jpg"
-        width: 450
-        height: 300
-        isCached: true
   - title: "Precision Medicine Market to Reach USD 125.67 Billion by 2026 | TechSci Research"
     excerpt: "Increasing advancements in cancer biology and myriad benefits offered by precision medicines to drive the global precision medicine market According to TechSci Research report Global Precision Medicine Market By Products Services Precision Medicine Platforms Precision Medicine Tools Precision Medicine Services"
     publishedDateTime: 2021-08-23T12:33:00Z

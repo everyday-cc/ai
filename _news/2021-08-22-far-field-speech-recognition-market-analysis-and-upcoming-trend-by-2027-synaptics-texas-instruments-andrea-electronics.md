@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2362861/far-field-speech-recognition-mark
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2362861/far-field-speech-recognition-market-analysis-and-upcoming"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Neural Network Software Market Competitive Landscape, Growth Factors, Revenue Analysis, 2020–2027 | Reports and Data"
-    excerpt: "Going ahead, the Neural Network Software market report precisely evaluates the gross profits, revenue shares, sales volume, manufacturing costs, and individual growth rate, and financial positions of the leading market contenders."
-    publishedDateTime: 2021-08-20T05:05:00Z
-    webUrl: "https://manometcurrent.com/neural-network-software-market-competitive-landscape-growth-factors-revenue-analysis-2020-2027-reports-and-data/"
-    ampWebUrl: "https://manometcurrent.com/neural-network-software-market-competitive-landscape-growth-factors-revenue-analysis-2020-2027-reports-and-data/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/neural-network-software-market-competitive-landscape-growth-factors-revenue-analysis-2020-2027-reports-and-data/?amp=1"
+  - title: "A $28.4 Billion Global Opportunity for Cognitive Analytics by 2026 - New Research from StrategyR"
+    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Cognitive Analytics - Global Market Trajectory & Analytics\"."
+    publishedDateTime: 2021-08-24T17:05:00Z
+    webUrl: "https://www.mobilitytechzone.com/lte/news/2021/08/24/9436561.htm"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 36
+      name: Mobility Techzone
+      domain: mobilitytechzone.com
+    quality: 11
     images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/11-53.jpg"
-        width: 750
-        height: 350
+      - url: "https://mma.prnewswire.com/media/1599563/MCP11132.jpg"
+        width: 400
+        height: 271
         isCached: true
 
 secured: "M0Ckgp/TtnQcLvE6PJTxaApbKihQV7ZBIAdulARfSS3WnPPGozDms8uRYQ74+hiOmlLN4+7AlsLtfZwygG0/F71H6Auju3YTfaKKBgs2kuqepL6aYx3tzq8059jeFb3r69VV8bAOnRS8a/1sR8GHO/RYiGrdM8EBDUEnnOyk0+MO6lubSmMTlyIPo9bcA3W0OKlSNVb4mGkcpQbvv3Kw+xkOvprIdcWCaUHrwuUk6NcdPXN3OfIsCFjfJJMWuRSqU6gUMrm5N+8ydUySCAGmzfAuX8Kt6p1eMWGEYZ44FxYzDS/7BtVJobYlrhIoYk6JORK8PQX6FBgoKIj8CfLgwKsBKJ1c45ldazzeo66CmFmCuBt2EwIt21La+Y644IHTc+uzAiL2sXuEAmvca/QZSLvq7oLvvlv1pHZCgpTvjge9u5LdgDureb7bVTbDz3DlTtnOap/SSuyoXhgBpqAlHL9vNYnllv2fFlI4UpdRzC1qZoG9HKFp1WY0CRLdM6sX8hv0JkjCS51gO4i55g53LA==;AliZUj1K4KtGmc4/qLITaQ=="

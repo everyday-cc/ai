@@ -23,22 +23,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "EQ Inc. Reports Second Quarter Financial Results"
-    excerpt: "EQ Inc. (\"EQ Works\" or the \"Company\"), a leader in geospatial data and artificial intelligence driven software, announced its financial results today, for the second quarter ended June 30,"
-    publishedDateTime: 2021-08-20T05:49:00Z
-    webUrl: "https://www.lelezard.com/en/news-19961239.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 24
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
-        width: 421
-        height: 421
-        isCached: true
-
 secured: "+7wObXpieSmPDfXGwLYqfstpuSUlezOLMhwV4VmrpUhCyNrBckDJXB8dPmreGGOl43AtgGhnsJkH6MQxBFqUVIO9/2YQckJsuurjTzjPRDlgBxrRSJ7nEhQyQfXNV6trK1BjYvg6ekX6gPNW2NRywBwbPN9sp4qLeZIa64eAE2UzyrzRM0yLAM84dXjaa0l7Jzxk4oQPe4TCByZX1xbVEpp/0/RpwPP4Z2qjxVhP7ZAj/MmSkzEsNeIIyy59XOOZ64fAog0EhKwKUeidG9DWslNbUzjoy9aAQfLQ0sQoLH5d50RW/R7aI0ERJpUpTR4X4ncuAzSb5KohyrIlh2go8V937/6krJmEOjR600al47o=;KAfVXlQPDsKGACftoJKbyw=="
 ---
 

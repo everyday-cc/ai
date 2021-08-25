@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/researchers-make-sure-ai-works-for
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/researchers-make-sure-ai-works-for-farmers/amp/"
 type: article
 quality: 109
-heat: 170
+heat: 169
 published: true
 
 provider:

@@ -1,23 +1,29 @@
 ---
 category: news
 title: "eSentire Achieves AWS Level 1 Managed Security Service Provider Competency Status"
-excerpt: "Leveraging patented machine learning and artificial intelligence models, Atlas ingests over 20M signals ... “eSentire is proud to be one of the first AWS Partners to achieve AWS Level 1 MSSP Competency status. We are dedicated to helping businesses ..."
-publishedDateTime: 2021-08-24T19:22:00Z
-originalUrl: "https://www.morningstar.com/news/globe-newswire/8314382/esentire-achieves-aws-level-1-managed-security-service-provider-competency-status"
-webUrl: "https://www.morningstar.com/news/globe-newswire/8314382/esentire-achieves-aws-level-1-managed-security-service-provider-competency-status"
+excerpt: "(GLOBE NEWSWIRE) -- eSentire, recognized globally as the Authority in Managed Detection and Response (MDR), announced today that it has achieved Amazon Web Services (AWS) Level 1 Managed Security Service Provider (MSSP) Competency status."
+publishedDateTime: 2021-08-24T17:33:00Z
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-12571e98f7ec23c0ebd3c4de0a0279ec"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-12571e98f7ec23c0ebd3c4de0a0279ec"
 type: article
-quality: 31
-heat: -1
+quality: 51
+heat: 61
 published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
   - AI in Security
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Alert Logic Achieves AWS Level 1 Managed Security Service Provider Competency Status"
@@ -35,6 +41,6 @@ related:
         height: 480
         isCached: true
 
-secured: "k4bL5w0nZY/K/UFfhTZWHAo8Pp1TeHgV+VKP8s7cLQ4MZuq/66eeAkKbHJl7EZso9kV63E9yGsuM6B3kfEVwSk8xXcCml8P9XxmG8MprtXfGmhmmQU88WJ4TJypuJ6g9DDXDcT+OCT0OkV9/mUErHuYn21r7BmSM3E90kWLgfin0CKq6aHh+R2+sflv4ePiIYMjeANE2tdzlNbQYXUOZiG8gkPIh0t1ydFS2RV5wfyT3y6jbvvvdYf8rTfMLHxevqPzT/oqOFLaozoIGgj4hp4uBwCHA8dl4w6OrirMXtYg1OUy623cqjsrM4CSngXxugiXaOu2zsfaqe4ibnCc5oN/FszmCa4dXw/10Mvk4aoU=;o0VNIduTvl5vUgRMHCi0BA=="
+secured: "UjcWcjcYk9RjaoYFu9qAF1iybd5nCZwbLloRZLnuTs7EYAtJV2hiS/RTrnGZg0t3irVLPU2OjtKpxHnsb1DPnux74tIjIWKAZRbXMdxOYHMd3vvBPvl2IdOs7fkkeEmcjaaoqdob3RwB67TCO75bBMic+jR9SaOkBeqS4BtDaqx+tOizSfNN36aTSFbBZxG6FrsLkbjJi+VCe/JgvG+KHVYGe02K4rYVOHeTnrwEw+7mnJ1VeblDjug8Zf1bpncW1K10P1d8mBtSwoH+3Fv125YqJ1NfEqiIrMraTa/0jy30HkHcQ2Pad6in8cTAMEdnOYbHwpyYjvQmS7Dzs1Nr9Fyi2l741pjl9AiIb9ZhZ0k=;//fTLHv/YyACCql+KASTUQ=="
 ---
 

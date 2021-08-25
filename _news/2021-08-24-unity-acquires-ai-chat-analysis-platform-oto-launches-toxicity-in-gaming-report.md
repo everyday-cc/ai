@@ -30,21 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "WPP acquires AI company"
-    excerpt: "Advertising and communications business WPP has acquired Satalia, a technology company focused on artificial intelligence (AI), for an undisclosed sum."
-    publishedDateTime: 2021-08-23T09:38:00Z
-    webUrl: "https://www.research-live.com/article/news/wpp-acquires-ai-company/id/5088212"
-    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5088212&name=wpp-acquires-ai-company"
-    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5088212&name=wpp-acquires-ai-company"
+  - title: "Fetch.ai launches platform for AI-generated collaborative NFT art"
+    excerpt: "“Fetch.ai’s NFT platform is unique in that the true ... We are holding our third cloud startup showcase on Sept. 22. Click here to join the free and open Startup Showcase event."
+    publishedDateTime: 2021-08-24T13:00:00Z
+    webUrl: "https://siliconangle.com/2021/08/24/fetch-ai-launches-nft-platform-ai-generated-collaborative-art/"
     type: article
     provider:
-      name: research
-      domain: research-live.com
-    quality: 57
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
     images:
-      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
-        width: 1000
-        height: 581
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/fetch-ai-nft-art-examples.jpg"
+        width: 700
+        height: 394
         isCached: true
   - title: "Upmethod Launches AI Platform for Aspiring Actors That Scores and Give Feedback on Acting Skills"
     excerpt: "Upmethod has just announced the launch of its Artificial Intelligence powered platform that tests an individual’s acting skills and teaches aspiring actors how to"

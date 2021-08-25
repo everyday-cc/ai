@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-25-hot-chips-concludes-an-amazing-lineup-of-ai-chip-companies.md",
+      "title": "Hot Chips Concludes An Amazing Lineup of AI Chip Companies.",
+      "excerpt": "I can deal with it: some technology is just beyond my pay grade. My masters in CS is decades old, and the deep technology underneath blindingly fast AI chips is often beyond my comprehension. But when I saw the lineup of companies presenting at this years ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/08/24/and--thats-a-wrap-hot-chips-concludes-an-amazing-lineup-of-ai-chip-announcements/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/08/24/and--thats-a-wrap-hot-chips-concludes-an-amazing-lineup-of-ai-chip-announcements/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611d8d46a45079d06316ca62%2F0x0.jpg",
+          "width": 800,
+          "height": 503,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/08/24/and--thats-a-wrap-hot-chips-concludes-an-amazing-lineup-of-ai-chip-announcements/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/08/24/and--thats-a-wrap-hot-chips-concludes-an-amazing-lineup-of-ai-chip-announcements/amp/",
+      "publishedDateTime": "2021-08-24T16:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-intel-arc-gpu-drivers-will-include-built-in-overclocking-tools.md",
+      "title": "Intel Arc GPU drivers will include built-in overclocking tools",
+      "excerpt": "Intel plans to release gaming-oriented Xe HPG \"Alchemist\" GPUs in Q1 2022. The Intel Arc brand was announced this month with upcoming GPUs that will span",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/90925-intel-arc-gpu-drivers-include-built-overclocking-tools.html",
+      "originalUrl": "https://www.techspot.com/news/90925-intel-arc-gpu-drivers-include-built-overclocking-tools.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/08/2021-08-24-image-26.jpg",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/90925-intel-arc-gpu-drivers-include-built-overclocking-tools.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/90925-intel-arc-gpu-drivers-include-built-overclocking-tools.html",
+      "publishedDateTime": "2021-08-24T13:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-24-access-an-amazon-sagemaker-studio-notebook-from-a-corporate-network.md",
       "title": "Access an Amazon SageMaker Studio notebook from a corporate network",
       "excerpt": "Amazon SageMaker Studio is the first fully integrated development environment (IDE) for machine learning. It provides a single, web-based visual interface where you can perform all ML development steps required to build, train, and deploy models. You can quickly upload data, create new notebooks, train",
@@ -51,6 +155,58 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-cerebras-cs-2-brain-scale-chip-can-power-ai-models-with-120-trillion-parameters.md",
+      "title": "Cerebras’ CS-2 brain-scale chip can power AI models with 120 trillion parameters",
+      "excerpt": "Cerebras said its CS-2 processor is a \"brain-scale\" chip that can power AI models with more than 120 trillion parameters.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/24/cerebras-cs-2-brain-scale-chip-can-power-ai-models-with-120-trillion-parameters/",
+      "originalUrl": "https://venturebeat.com/2021/08/24/cerebras-cs-2-brain-scale-chip-can-power-ai-models-with-120-trillion-parameters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/cerebras-main.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/24/cerebras-cs-2-brain-scale-chip-can-power-ai-models-with-120-trillion-parameters/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/24/cerebras-cs-2-brain-scale-chip-can-power-ai-models-with-120-trillion-parameters/amp/",
+      "publishedDateTime": "2021-08-24T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -414,58 +570,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-24-nvidia-now-offers-a-comprehensive-platform-for-enterprise-ai.md",
-      "title": "NVIDIA Now Offers A Comprehensive Platform For Enterprise AI",
-      "excerpt": "NVIDIA has released the full spectrum of AI tools for the Enterprise, extending its reach and confounding competitors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/08/24/nvidia-now-offers-a-comprehensive-platform-for-enterprise-ai/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/08/24/nvidia-now-offers-a-comprehensive-platform-for-enterprise-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611d7504522a9187778d0853%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/08/24/nvidia-now-offers-a-comprehensive-platform-for-enterprise-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/08/24/nvidia-now-offers-a-comprehensive-platform-for-enterprise-ai/amp/",
-      "publishedDateTime": "2021-08-24T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2021-08-24-onsolve-wins-security-todays-2021-new-product-of-the-year-award-for-artificial-intelligence.md",
       "title": "OnSolve Wins Security Today's 2021 New Product of the Year Award for Artificial Intelligence",
       "excerpt": "OnSolve, a leading critical event management provider for enterprises, SMB organizations, and government entities, today announced that it has been awarded Security Today's 2021 New Product of the Year Award in the Artificial Intelligence category.",
@@ -723,7 +827,7 @@
       "originalUrl": "https://www.techrepublic.com/article/ibms-new-telum-processor-is-the-companys-first-with-an-on-chip-ai-accelerator/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 300,
+      "heat": 310,
       "tags": null,
       "images": [
         {
@@ -764,6 +868,58 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-nvidia-launches-ai-enterprise-in-general-availability.md",
+      "title": "Nvidia launches AI Enterprise in general availability",
+      "excerpt": "Nvidia's newly launched AI Enterprise managed service includes a suite of software tools designed to accelerate machine learning workloads.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/24/nvidia-launches-ai-enterprise-in-general-availability/",
+      "originalUrl": "https://venturebeat.com/2021/08/24/nvidia-launches-ai-enterprise-in-general-availability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/GettyImages-1208744151.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/24/nvidia-launches-ai-enterprise-in-general-availability/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/24/nvidia-launches-ai-enterprise-in-general-availability/amp/",
+      "publishedDateTime": "2021-08-24T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
       ]
     },
     {
@@ -1098,145 +1254,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-always-there-the-ai-chatbot-comforting-chinas-lonely-millions.md",
-      "title": "'Always there': the AI chatbot comforting China's lonely millions",
-      "excerpt": "After a painful break-up from a cheating ex, Beijing-based human resources manager Melissa was introduced to someone new by a friend late last year.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-08-ai-chatbot-comforting-china-lonely.html",
-      "originalUrl": "https://techxplore.com/news/2021-08-ai-chatbot-comforting-china-lonely.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/xiaoice-has-pioneered.jpg",
-          "width": 1024,
-          "height": 681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-08-ai-chatbot-comforting-china-lonely.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-ai-chatbot-comforting-china-lonely.amp",
-      "publishedDateTime": "2021-08-24T00:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-cerebras-systems-lays-the-foundation-for-huge-artificial-intelligence.md",
-      "title": "Cerebras Systems Lays The Foundation For Huge Artificial Intelligence",
-      "excerpt": "Cerebras extends CS-2 system and software to train a 120-Trillion-parameter model on the way to brain-scale AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/08/24/cerebras-systems-creates-huge-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/08/24/cerebras-systems-creates-huge-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611eaab4a8a155b120682f84%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/08/24/cerebras-systems-creates-huge-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/08/24/cerebras-systems-creates-huge-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-08-24T00:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-ocado-appoints-ai-and-machine-learning-expert-as-non-executive-director.md",
-      "title": "Ocado appoints AI and machine learning expert as non-executive director",
-      "excerpt": "Online supermarket Ocado has appointed Nadia Shouraboura as a non-executive director. Due to take up her role on 1 September, she will also be a member of the nomination committee. A leader in the field of machine learning and robotics,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theretailbulletin.com/food-and-drink/ocado-appoints-ai-and-machine-learning-expert-as-non-executive-director-24-08-2021/",
-      "originalUrl": "https://www.theretailbulletin.com/food-and-drink/ocado-appoints-ai-and-machine-learning-expert-as-non-executive-director-24-08-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.theretailbulletin.com/wp-content/uploads/2020/09/Ocado-MS.jpg",
-          "width": 700,
-          "height": 466,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theretailbulletin.com/food-and-drink/ocado-appoints-ai-and-machine-learning-expert-as-non-executive-director-24-08-2021/amp/",
-      "cdnAmpWebUrl": "https://www-theretailbulletin-com.cdn.ampproject.org/c/s/www.theretailbulletin.com/food-and-drink/ocado-appoints-ai-and-machine-learning-expert-as-non-executive-director-24-08-2021/amp/",
-      "publishedDateTime": "2021-08-24T00:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Retail Bulletin",
-        "domain": "theretailbulletin.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

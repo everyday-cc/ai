@@ -144,49 +144,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-22-good-news-next-therapy-for-covid-maybe-be-at-your-local-pharmacy.md",
-      "title": "Good news! Next therapy for Covid maybe be at your local pharmacy",
-      "excerpt": "Several drugs that are already in use for other purposes, including one dietary supplement, have shown to block or reduce infection by SARS-CoV2, the virus causing Covid-19, in cells, researchers have found.",
-      "sourceUrl": null,
-      "webUrl": "https://www.orissapost.com/good-news-next-therapy-for-covid-maybe-be-at-your-local-pharmacy/",
-      "originalUrl": "https://www.orissapost.com/good-news-next-therapy-for-covid-maybe-be-at-your-local-pharmacy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.orissapost.com/wp-content/uploads/2021/01/Medicines.jpg",
-          "width": 710,
-          "height": 421,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.orissapost.com/good-news-next-therapy-for-covid-maybe-be-at-your-local-pharmacy/",
-      "cdnAmpWebUrl": "https://www-orissapost-com.cdn.ampproject.org/c/s/www.orissapost.com/good-news-next-therapy-for-covid-maybe-be-at-your-local-pharmacy/",
-      "publishedDateTime": "2021-08-21T18:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "orissapost.com",
-        "domain": "orissapost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-21-sensetime-parlays-academic-bona-fides-into-worlds-largest-platform-for-artificial-intelligence-facial-recognition-image-processing.md",
       "title": "SenseTime parlays academic bona fides into world’s largest platform for artificial intelligence, facial recognition, image processing",
       "excerpt": "China’s AI industry may triple to 453.26 billion yuan in value by 2025 from last year, while a broader AI-driven industry may be as large as 1.66 trillion yuan, which underscores the strategic importance of the field in the Made in China 2025 industrial master plan.",
@@ -1366,6 +1323,49 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-new-technology-paves-way-towards-personalized-antibiotic-therapy.md",
+      "title": "New technology paves way towards personalized antibiotic therapy",
+      "excerpt": "Researchers have developed a method for monitoring bacterial responses to antibiotics in health-care settings that opens the door to personalized antibiotic therapy for patients. Using microwave sensing technology researchers have developed a low-cost,",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2021/08/210809144123.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2021/08/210809144123.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-09T13:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     }
   ],

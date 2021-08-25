@@ -53,20 +53,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "A $28.4 Billion Global Opportunity for Cognitive Analytics by 2026 - New Research from StrategyR"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Cognitive Analytics - Global Market Trajectory & Analytics\"."
-    publishedDateTime: 2021-08-24T17:05:00Z
-    webUrl: "https://www.mobilitytechzone.com/lte/news/2021/08/24/9436561.htm"
-    type: article
-    provider:
-      name: Mobility Techzone
-      domain: mobilitytechzone.com
-    quality: 11
-    images:
-      - url: "https://mma.prnewswire.com/media/1599563/MCP11132.jpg"
-        width: 400
-        height: 271
-        isCached: true
   - title: "United States Automotive Voice Recognition Systems Market Report 2021 - Forecast to 2026 - ResearchAndMarkets.com"
     excerpt: "The “Automotive Voice Recognition Systems Market Research Report by Deployment, by State - United States Forecast to 2026 - Cumulative Impact of COVID-19” report has been added to ResearchAndMarkets.com’s offering."
     publishedDateTime: 2021-08-24T14:32:00Z
@@ -96,6 +82,6 @@ related:
         height: 480
         isCached: true
 
-secured: "j/ezVM0YWZ+PIll8NAaSL/4YnHrqQNqNDK/9wSVQ/owH78NVNiSBmGlRvmGa03lRY8dKNzj/18+tTz52hqiuSP10GE1YSifftJWkjvD5EKmlGop8kPKXDJ0V7cB3uuJFV3sOa/yfzUXP8T3/ZrAc+XvZg5F2AagpIhnoI7y0kU4fOiJtVEx7GVus1Ck65MAFXsaqX4Zro/llP4IzfBDuxB4yk9AKp9IZX6xsWRf4ARmsUb8DQcd3EiQwzBWbz14IisvYM+xGhY+TTkEOKGGhVoLy+TBhokitt5AmszcK21upxrAtYQIaQiES/tlviH3AuOaud6U1V6wkRHiRPpAhfqWACnyTW/PTBDaPIiAFwlI=;OYXqhoJu5gEt7fSX4eIrOQ=="
+secured: "3W1BrWKTS4xx897l5yVgC36EZ34GJzBnDnOzPnc0bc/3UeF4SggCEc6vxwotqHBjJPl6IjeJR7H2vIPxfdEde/j3deXD47fuNb5Nwje/d3xqVTHuby7rrPlu9jFB5e6nCXFfj0O2tROcgTfLge7QmQinLDsXZjnS9lw0OYf9P78w5TgHhxc6ckd48RTFY1zGswfN0auI/RTvEw/pSjveQPspQ/3+HY0euUwutY0lM/HmNWSAAa2bph5bqpsn48zu6LSIlHi7pgWIpTmdyrKOeV+COl0L734j3mvZ7X5QwalCLv4+WYGYcV5UD3LISnWZDFdpe2Gb6PvpQ18tqXTpZxmt9ZS3av802FKZnn7/czvrFSkepEfofuNmwFZ6jTwbSYeoZoRdgb4ngl6gdml9+uKRuWQFD1G7di9DZhhajk6XHu5m3/3krFGd0bxPIdKF+DBdqbzrjfUHfYXcGimx7VuJMz5ovnzmsXIpYM0V56CDUMKEW5skjL5gbHYm5ob4xRbwN6CqwtuwS+U944JFnw==;txivL4n3p3D06sL+jKBXEA=="
 ---
 

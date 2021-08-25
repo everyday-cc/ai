@@ -305,6 +305,20 @@ related:
         width: 1920
         height: 1170
         isCached: true
+  - title: "New IBM Telum Processors Show AI Investment ‘Down At The Silicon Level’"
+    excerpt: "IBM unveils new Telum processors, which bring AI down to the chip level amid growing demand by businesses for data- and compute-intensive processes."
+    publishedDateTime: 2021-08-24T21:09:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/new-ibm-telum-processors-show-ai-investment-down-at-the-silicon-level-"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 39
+    images:
+      - url: "https://www.crn.com/resources/0268-11f7e811e4f2-5b419af4f9f5-1000/ibm-campus-1.jpg"
+        width: 1500
+        height: 1126
+        isCached: true
   - title: "IBM unveils Telum Processor chip with AI capacity to detect fraud"
     excerpt: "IBM has unveiled its upcoming new 7nm EUV chip, the IBM Telum Processor, designed to address fraud in real time. The processor contains a chip system for AI inferencing while a transaction is taking place."
     publishedDateTime: 2021-08-23T07:18:00Z

@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/08/20/ai-weekly-ai-research-still-has-a-re
 ampWebUrl: "https://venturebeat.com/2021/08/20/ai-weekly-ai-research-still-has-a-reproducibility-problem/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/20/ai-weekly-ai-research-still-has-a-reproducibility-problem/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?fit=800%2C414&strip=all"

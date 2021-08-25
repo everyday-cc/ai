@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-08-24-nvidia-now-offers-a-comprehensive-platform-for-enterprise-ai.md",
-      "title": "NVIDIA Now Offers A Comprehensive Platform For Enterprise AI",
-      "excerpt": "NVIDIA has released the full spectrum of AI tools for the Enterprise, extending its reach and confounding competitors.",
+      "path": "_news/2021-08-25-hot-chips-concludes-an-amazing-lineup-of-ai-chip-companies.md",
+      "title": "Hot Chips Concludes An Amazing Lineup of AI Chip Companies.",
+      "excerpt": "I can deal with it: some technology is just beyond my pay grade. My masters in CS is decades old, and the deep technology underneath blindingly fast AI chips is often beyond my comprehension. But when I saw the lineup of companies presenting at this years ...",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/08/24/nvidia-now-offers-a-comprehensive-platform-for-enterprise-ai/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/08/24/nvidia-now-offers-a-comprehensive-platform-for-enterprise-ai/",
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/08/24/and--thats-a-wrap-hot-chips-concludes-an-amazing-lineup-of-ai-chip-announcements/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/08/24/and--thats-a-wrap-hot-chips-concludes-an-amazing-lineup-of-ai-chip-announcements/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 134,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611d7504522a9187778d0853%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611d8d46a45079d06316ca62%2F0x0.jpg",
+          "width": 800,
+          "height": 503,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,9 +24,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/08/24/nvidia-now-offers-a-comprehensive-platform-for-enterprise-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/08/24/nvidia-now-offers-a-comprehensive-platform-for-enterprise-ai/amp/",
-      "publishedDateTime": "2021-08-24T08:00:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/08/24/and--thats-a-wrap-hot-chips-concludes-an-amazing-lineup-of-ai-chip-announcements/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/08/24/and--thats-a-wrap-hot-chips-concludes-an-amazing-lineup-of-ai-chip-announcements/amp/",
+      "publishedDateTime": "2021-08-24T16:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -49,8 +49,112 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI Hardware"
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-intel-arc-gpu-drivers-will-include-built-in-overclocking-tools.md",
+      "title": "Intel Arc GPU drivers will include built-in overclocking tools",
+      "excerpt": "Intel plans to release gaming-oriented Xe HPG \"Alchemist\" GPUs in Q1 2022. The Intel Arc brand was announced this month with upcoming GPUs that will span",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/90925-intel-arc-gpu-drivers-include-built-overclocking-tools.html",
+      "originalUrl": "https://www.techspot.com/news/90925-intel-arc-gpu-drivers-include-built-overclocking-tools.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/08/2021-08-24-image-26.jpg",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/90925-intel-arc-gpu-drivers-include-built-overclocking-tools.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/90925-intel-arc-gpu-drivers-include-built-overclocking-tools.html",
+      "publishedDateTime": "2021-08-24T13:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-cerebras-cs-2-brain-scale-chip-can-power-ai-models-with-120-trillion-parameters.md",
+      "title": "Cerebras’ CS-2 brain-scale chip can power AI models with 120 trillion parameters",
+      "excerpt": "Cerebras said its CS-2 processor is a \"brain-scale\" chip that can power AI models with more than 120 trillion parameters.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/24/cerebras-cs-2-brain-scale-chip-can-power-ai-models-with-120-trillion-parameters/",
+      "originalUrl": "https://venturebeat.com/2021/08/24/cerebras-cs-2-brain-scale-chip-can-power-ai-models-with-120-trillion-parameters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/cerebras-main.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/24/cerebras-cs-2-brain-scale-chip-can-power-ai-models-with-120-trillion-parameters/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/24/cerebras-cs-2-brain-scale-chip-can-power-ai-models-with-120-trillion-parameters/amp/",
+      "publishedDateTime": "2021-08-24T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -62,7 +166,7 @@
       "originalUrl": "https://www.techrepublic.com/article/ibms-new-telum-processor-is-the-companys-first-with-an-on-chip-ai-accelerator/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 300,
+      "heat": 310,
       "tags": null,
       "images": [
         {
@@ -244,7 +348,7 @@
       "originalUrl": "https://www.digitaltrends.com/computing/ai-leading-chip-design-revolution/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1350,93 +1454,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-16-will-project-dojo-be-the-central-focus-of-teslas-tsla-ai-day.md",
-      "title": "Will Project Dojo be the Central Focus of Tesla's (TSLA) AI Day?",
-      "excerpt": "The AI Day is expected to shed light on new information about the development progress with respect to Tesla’s much touted Full Self-Driving (FSD) suite. Full Self-Driving builds on Tesla’s advanced driver-assistance system known as Autopilot,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/will-project-dojo-be-the-central-focus-of-teslas-tsla-ai-day-2021-08-16",
-      "originalUrl": "https://www.nasdaq.com/articles/will-project-dojo-be-the-central-focus-of-teslas-tsla-ai-day-2021-08-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/will-project-dojo-be-the-central-focus-of-teslas-tsla-ai-day-2021-08-16?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/will-project-dojo-be-the-central-focus-of-teslas-tsla-ai-day-2021-08-16?amp",
-      "publishedDateTime": "2021-08-16T08:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-15-samsung-joins-google-and-nvidia-in-using-ai-to-design-chips.md",
-      "title": "Samsung Joins Google and Nvidia in Using AI to Design Chips",
-      "excerpt": "Samsung has reportedly started using artificial intelligence features in the Synopsys chip design tool for upcoming processors.",
-      "sourceUrl": null,
-      "webUrl": "https://uk.pcmag.com/processors/135086/samsung-joins-google-and-nvidia-in-using-ai-to-design-chips",
-      "originalUrl": "https://uk.pcmag.com/processors/135086/samsung-joins-google-and-nvidia-in-using-ai-to-design-chips",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/s/samsung-jo/samsung-joins-google-and-nvidia-in-using-ai-to-design-chips_neg5.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-15T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

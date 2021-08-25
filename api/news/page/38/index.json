@@ -2,6 +2,92 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2021-07-27-the-10-biggest-iot-news-stories-of-2021-so-far.md",
+      "title": "The 10 Biggest IoT News Stories Of 2021 (So Far)",
+      "excerpt": "Azure Percept works automatically with Azure AI, Azure Cognitive Services, Azure Machine Learning and Azure Live Video Analytics, and it’s integrated with Azure IoT services. Microsoft says that Percept can help customers use pre-built Azure AI models for object detection,",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/slide-shows/internet-of-things/the-10-biggest-iot-news-stories-of-2021-so-far-/8",
+      "originalUrl": "https://www.crn.com/slide-shows/internet-of-things/the-10-biggest-iot-news-stories-of-2021-so-far-/8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crn.com/resources/0267-11d584f4b2e8-61c054ae501a-1000/networking-city-edge-iot.jpg",
+          "width": 1500,
+          "height": 1124,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-27T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-27-covariant-raises-80m-to-universal-ai-for-robotic-manipulation.md",
+      "title": "Covariant raises $80M to ‘universal AI’ for robotic manipulation",
+      "excerpt": "Covariant raised $80 million for its \"universal AI\" for robotic manipulation. The company has now raised $147 million in just two years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/covariant-raises-80m-universal-ai-robotic-manipulation/",
+      "originalUrl": "https://www.therobotreport.com/covariant-raises-80m-universal-ai-robotic-manipulation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2021/07/covariant-pick-and-place-ai.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-27T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-27-employment-for-adults-with-severe-disabilities.md",
       "title": "Employment For Adults With Severe Disabilities",
       "excerpt": "Last week's \"60 Minutes\" report, like most media reports on employment for adults with disabilities, gives little attention to the severely impacted--those with little language or severe cognitive deficits.",
@@ -1068,100 +1154,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-german-startup-aleph-alpha-raises-27m-series-a-round-to-build-europes-openai.md",
-      "title": "German startup Aleph Alpha raises $27M Series A round to build ‘Europe’s OpenAI’",
-      "excerpt": "With Microsoft now being an investor in OpenAI the field now more open for new insurgents into the open-source AI arena. Now a German company hopes to take on the next AI mantle and produce something akin to the success of the GPT-3 AI model.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/27/german-startup-aleph-alpha-raises-27m-series-a-round-to-build-europes-openai/",
-      "originalUrl": "https://techcrunch.com/2021/07/27/german-startup-aleph-alpha-raises-27m-series-a-round-to-build-europes-openai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/07/JonasAndrulis_AlephAlpha-1.jpg?w=900",
-          "width": 900,
-          "height": 543,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/07/27/german-startup-aleph-alpha-raises-27m-series-a-round-to-build-europes-openai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/27/german-startup-aleph-alpha-raises-27m-series-a-round-to-build-europes-openai/amp/",
-      "publishedDateTime": "2021-07-27T00:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-artificial-intelligence-predicts-the-shapes-of-molecules-to-come.md",
-      "title": "Artificial intelligence predicts the shapes of molecules to come",
-      "excerpt": "So last fall, after reading that an artificial intelligence lab in London called DeepMind had built a system that automatically predicts the shapes of enzymes and other proteins, McGeehan asked ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.baltimoresun.com/featured/ct-aud-nyt-artificial-intelligence-molecules-20210726-yiby6yp6pvhs3bdchgshe4yvs4-story.html",
-      "originalUrl": "https://www.baltimoresun.com/featured/ct-aud-nyt-artificial-intelligence-molecules-20210726-yiby6yp6pvhs3bdchgshe4yvs4-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.baltimoresun.com/resizer/aLvYYk85TKO1YHRxSofZgVTSHno=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/JA75OJOKHPEDRHNIFD3SAN6FTA.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.baltimoresun.com/featured/ct-aud-nyt-artificial-intelligence-molecules-20210726-yiby6yp6pvhs3bdchgshe4yvs4-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/featured/ct-aud-nyt-artificial-intelligence-molecules-20210726-yiby6yp6pvhs3bdchgshe4yvs4-story.html?outputType=amp",
-      "publishedDateTime": "2021-07-26T22:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Baltimore Sun",
-        "domain": "baltimoresun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

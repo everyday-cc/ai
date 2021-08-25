@@ -211,6 +211,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-20-ai-in-fintech-market-analysis-revenue-share-company-profiles-launches-forecast-till-2027.md",
+      "title": "AI in Fintech Market Analysis, Revenue Share, Company Profiles, Launches, & Forecast Till 2027",
+      "excerpt": "The global AI in Fintech Market is forecast to reach USD 26.77 Billion by 2026, according to a new report by Reports and Data. The AI in fintech incorporates computational power and deep learning algorithms to the financial technology.",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/ai-in-fintech-market-analysis-revenue-share-company-profiles-launches-forecast-till-2027/",
+      "originalUrl": "https://manometcurrent.com/ai-in-fintech-market-analysis-revenue-share-company-profiles-launches-forecast-till-2027/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manometcurrent.com/wp-content/uploads/2021/08/2-84.jpg",
+          "width": 1000,
+          "height": 466,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/ai-in-fintech-market-analysis-revenue-share-company-profiles-launches-forecast-till-2027/?amp=1",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/ai-in-fintech-market-analysis-revenue-share-company-profiles-launches-forecast-till-2027/?amp=1",
+      "publishedDateTime": "2021-08-19T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-19-machine-learning-transforming-the-lending-industry.md",
       "title": "Machine learning: Transforming the lending industry",
       "excerpt": "Machine learning algorithms are capable of delving into petabytes of data to comprehend the specific needs of individual customers",
@@ -1289,49 +1332,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-united-arab-bank-announces-participation-in-nationwide-sca-fintech-megathon-2021.md",
-      "title": "United Arab Bank Announces Participation In Nationwide Sca Fintech Megathon 2021",
-      "excerpt": "United Arab Bank announced its participation in a first of its kind nation-wide Fintech Megathon, SCA Fintech Megathon 2021, launched by Emirates Securi",
-      "sourceUrl": null,
-      "webUrl": "https://www.albawaba.com/business/pr/united-arab-bank-announces-participation-nationwide-sca-fintech-megathon-2021-1441918",
-      "originalUrl": "https://www.albawaba.com/business/pr/united-arab-bank-announces-participation-nationwide-sca-fintech-megathon-2021-1441918",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2021-08/United%20Arab%20Bank.jpg?itok=edIZxQCb",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/united-arab-bank-announces-participation-nationwide-sca-fintech-megathon-2021-1441918",
-      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/united-arab-bank-announces-participation-nationwide-sca-fintech-megathon-2021-1441918",
-      "publishedDateTime": "2021-08-09T21:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

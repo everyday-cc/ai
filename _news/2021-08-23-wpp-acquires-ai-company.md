@@ -26,33 +26,50 @@ images:
     isCached: true
 
 related:
-  - title: "Unity acquires AI chat analysis platform OTO, launches toxicity in gaming report"
-    excerpt: "Unity Technologies has acquired OTO to use AI to analyze online multiplayer gaming conversations for possible toxic behavior."
-    publishedDateTime: 2021-08-24T12:00:00Z
-    webUrl: "https://venturebeat.com/2021/08/24/unity-acquires-ai-chat-analysis-platform-oto-launches-toxicity-in-gaming-report/"
-    ampWebUrl: "https://venturebeat.com/2021/08/24/unity-acquires-ai-chat-analysis-platform-oto-launches-toxicity-in-gaming-report/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/24/unity-acquires-ai-chat-analysis-platform-oto-launches-toxicity-in-gaming-report/amp/"
+  - title: "Hot Chips Concludes An Amazing Lineup of AI Chip Companies."
+    excerpt: "I can deal with it: some technology is just beyond my pay grade. My masters in CS is decades old, and the deep technology underneath blindingly fast AI chips is often beyond my comprehension. But when I saw the lineup of companies presenting at this years ..."
+    publishedDateTime: 2021-08-24T23:03:00Z
+    webUrl: "https://www.forbes.com/sites/karlfreund/2021/08/24/and--thats-a-wrap-hot-chips-concludes-an-amazing-lineup-of-ai-chip-announcements/"
+    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/08/24/and--thats-a-wrap-hot-chips-concludes-an-amazing-lineup-of-ai-chip-announcements/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/08/24/and--thats-a-wrap-hot-chips-concludes-an-amazing-lineup-of-ai-chip-announcements/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 82
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/08/oto.jpg?w=1200&strip=all"
-        width: 1200
-        height: 736
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611d8d46a45079d06316ca62%2F0x0.jpg"
+        width: 800
+        height: 503
         isCached: true
-  - title: "Upmethod Launches AI Platform for Aspiring Actors That Scores and Give Feedback on Acting Skills"
-    excerpt: "Upmethod has just announced the launch of its Artificial Intelligence powered platform that tests an individual’s acting skills and teaches aspiring actors how to"
-    publishedDateTime: 2021-08-20T22:35:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/08/ab22604126/upmethod-launches-ai-platform-for-aspiring-actors-that-scores-and-give-feedback-on-acting-skills"
-    ampWebUrl: "https://www.benzinga.com/amp/content/22604126"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22604126"
+  - title: "The AI Arms Race: Why are American Companies Helping China?"
+    excerpt: "The CCP’s Data Security Law comes into effect on the first day of September, and with it, more control of critical research and information."
+    publishedDateTime: 2021-08-23T20:12:00Z
+    webUrl: "https://www.theamericanconservative.com/articles/the-ai-arms-race-why-are-american-companies-helping-china/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 24
+      name: The American Conservative
+      domain: theamericanconservative.com
+    quality: 39
+    images:
+      - url: "https://www.theamericanconservative.com/wp-content/uploads/2021/08/shutterstock_1706639491.jpg"
+        width: 1108
+        height: 700
+        isCached: true
+  - title: "Ami-Chan, the doll with artificial intelligence that accompanies the elderly in confinement"
+    excerpt: "That is why the Takara Tomy company developed a doll with artificial intelligence to reduce the isolation of older adults. Christened Ami-Chan , the doll was designed as a little (robotic) granddaughter."
+    publishedDateTime: 2021-08-21T01:33:00Z
+    webUrl: "https://www.stamfordadvocate.com/business/article/Ami-Chan-the-doll-with-artificial-intelligence-16401546.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 29
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/42/74/21376797/3/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "de9RY4hI1jrPsnQYg2ul1wzKb3Jz/xZGwbQZY+0de3IkWGLwn3yHpf5FgprVHwLomWg402bVPsK3TeIc8aEIUMra0ULD82s3pratdhwjdO26K46gG2DojKIm8w22X4/Ldm1KimBnyDTkI0QYHWnZxf8JIGBimPKlgPsfz1wTxmB4lGLhlZwHHnQjzdgotiAZEIl7KqKSd8uB2GAn0RAGvFVCc3jHUtrk70jmDhUhZqf65o47oHLoykyRB4KWaOsFo2Wq0F/YIqDql8k9rWafGQtfnR+dOqk9MsSpvdTtV8BojeEC1seYkMRleRjpqFot7qzaS8KP/9jF0lRpIiHhGLEGFdzQg1i/pPhiwBAQ8AA=;rT8ZsUQo4Y3Iswu1oglHSA=="
 ---

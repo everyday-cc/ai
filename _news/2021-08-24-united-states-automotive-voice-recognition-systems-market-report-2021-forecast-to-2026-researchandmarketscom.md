@@ -67,20 +67,6 @@ related:
         width: 931
         height: 630
         isCached: true
-  - title: "A $28.4 Billion Global Opportunity for Cognitive Analytics by 2026 - New Research from StrategyR"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Cognitive Analytics - Global Market Trajectory & Analytics\"."
-    publishedDateTime: 2021-08-24T17:05:00Z
-    webUrl: "https://www.mobilitytechzone.com/lte/news/2021/08/24/9436561.htm"
-    type: article
-    provider:
-      name: Mobility Techzone
-      domain: mobilitytechzone.com
-    quality: 11
-    images:
-      - url: "https://mma.prnewswire.com/media/1599563/MCP11132.jpg"
-        width: 400
-        height: 271
-        isCached: true
   - title: "With Market Size Valued at $151.6 Billion by 2026, it`s a Healthy Outlook for the Global Cognitive Computing Market"
     excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Cognitive Computing - Global Market Trajectory & Analytics\"."
     publishedDateTime: 2021-08-24T15:45:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/technology/tech-news/ai-set-to-steer-indian
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/ai-set-to-steer-indian-cars-in-new-direction/amp-11629652014913.html"
 type: article
 quality: 57
-heat: 90
+heat: 87
 published: true
 
 provider:

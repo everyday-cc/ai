@@ -38,22 +38,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Elon Musk announces the Tesla Bot, a humanoid, AI robot worker"
-    excerpt: "At Tesla's AI Day presentation, Elon Musk has revealed that the company is working on its own AI-driven humanoid robot. According to Musk, the Tesla Bot is designed to \"navigate through a world built for humans,"
-    publishedDateTime: 2021-08-20T06:32:00Z
-    webUrl: "https://newatlas.com/robotics/tesla-bot-robot/"
-    ampWebUrl: "https://newatlas.com/robotics/tesla-bot-robot/?amp=true"
-    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/tesla-bot-robot/?amp=true"
-    type: article
-    provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 121
-    images:
-      - url: "https://assets.newatlas.com/dims4/default/b34567a/2147483647/strip/true/crop/2160x1440+200+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F2d%2F7c%2F6e3aa60347e1915e39749af64e77%2Fscreen-shot-2021-08-20-at-2.12.34%20pm%20%282%29.png"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Elon Musk Announces Tesla's New Humanoid Robots"
     excerpt: "Elon Musk announced Thursday night that his company, Tesla, is creating a humanoid robot. He anticipates ... \"It's basically going to start dealing with work that is boring, repetitive and dangerous,\" he said during Tesla’s AI Day. He added, \"What ..."
     publishedDateTime: 2021-08-20T16:53:00Z
@@ -243,6 +227,22 @@ related:
       - url: "https://inteng-storage.s3.amazonaws.com/img/iea/zDOZKyd0Gk/sizes/tesla-project-dojo-d1-chip-tile_resize_md.jpg"
         width: 744
         height: 389
+        isCached: true
+  - title: "Elon Musk is not impressed by Tesla’s current Full Self-Driving build, but likes the next one"
+    excerpt: "Elon Musk said that Tesla’s current Full Self-Driving Beta build is “not great,” but he is currently testing the next build coming to beta testers, and he is impressed by that one."
+    publishedDateTime: 2021-08-24T17:12:00Z
+    webUrl: "https://electrek.co/2021/08/24/elon-musk-not-impressed-tesla-current-full-self-driving-build/"
+    ampWebUrl: "https://electrek.co/2021/08/24/elon-musk-not-impressed-tesla-current-full-self-driving-build/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/24/elon-musk-not-impressed-tesla-current-full-self-driving-build/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 78
+    images:
+      - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2021/07/Tesla-FSD-Beta-v9-driving-visuzalization.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Elon Musk Is Building A Humanoid Robot So People Won’t Have To Do ‘Boring’ And ‘Repetitive’ Tasks"
     excerpt: "It's called Tesla Bot. The humanoid robot, internally code-named Optimus, runs on the same artificial intelligence used by Tesla's autonomous vehicles. The prototype may be available next year \"but not right now because this robot doesn't work,"
@@ -530,17 +530,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Elon Musk claims Tesla will debut a humanoid robot next year"
-    excerpt: "Elon Musk showed off his latest project Thursday night: a sleek white and shiny humanoid robot, sized a bit smaller than the average man, engineered to perform \"dangerous, repetitive, boring\" tasks – sometime in the future."
-    publishedDateTime: 2021-08-20T05:09:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/elon-musk-claims-tesla-will-debut-a-humanoid-robot-next-year/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/elon-musk-claims-tesla-will-debut-a-humanoid-robot-next-year/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/elon-musk-claims-tesla-will-debut-a-humanoid-robot-next-year/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 71
   - title: "Tesla Bot: AI-controlled humanoid robot revealed"
     excerpt: "Tesla plans to use its self-driving system to control humanoid robots capable of handling dangerous or menial tasks."
     publishedDateTime: 2021-08-20T07:45:00Z
@@ -1072,6 +1061,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Elon Musk Admits That Tesla’s Full Self-Driving Is “Not Great”"
+    excerpt: "But I guess I’ve been spoiled by watching what Tesla has been doing with the Full Self Driving (FSD) Beta. That is really impressive.” The video also caught the attention of Tesla CEO Elon Musk, who — surprisingly — downplayed Tesla’s progress."
+    publishedDateTime: 2021-08-24T23:51:00Z
+    webUrl: "https://futurism.com/elon-musk-tesla-full-self-driving-not-great"
+    ampWebUrl: "https://futurism.com/elon-musk-tesla-full-self-driving-not-great/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/elon-musk-tesla-full-self-driving-not-great/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 39
   - title: "Elon Musk's Next Big Thing, ‘Humanoid Robots' Powered by the Same AI Used for its Self-Driving Vehicles"
     excerpt: "Last night during a live streamed event called “AI Day”, Tesla Chief Executive Elon Musk teased the “Tesla Bot”, a realistic humanoid robot that would be powered by the same types of AI systems that Tesla uses for its Autopilot and Full Self-Driving (FSD) feature in its cars."
     publishedDateTime: 2021-08-20T18:25:00Z

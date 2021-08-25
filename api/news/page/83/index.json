@@ -2,6 +2,111 @@
   "page": 83,
   "value": [
     {
+      "path": "_news/2021-06-25-the-future-of-mobility-5-transportation-technologies-to-watch-out-for.md",
+      "title": "The future of mobility: 5 transportation technologies to watch out for",
+      "excerpt": "From autonomous vehicles to flying taxis, the future of mobility and transportation is set to change dramatically in the next few decades. Here's a preview",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/cars/future-of-mobility-transportation-trends/",
+      "originalUrl": "https://www.digitaltrends.com/cars/future-of-mobility-transportation-trends/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/volocopter2.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/cars/future-of-mobility-transportation-trends/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/future-of-mobility-transportation-trends/?amp",
+      "publishedDateTime": "2021-06-24T16:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-24-how-daniel-wellingtons-customer-service-department-saved-99-on-translation-costs-with-amazon-translate.md",
+      "title": "How Daniel Wellington’s customer service department saved 99% on translation costs with Amazon Translate",
+      "excerpt": "This post is co-authored by Lezgin Bakircioglu, Innovation and Security Manager at Daniel Wellington. In their own words, “Daniel Wellington (DW) is a Swedish fashion brand founded in 2011. Since its inception, it has sold over 11 million watches and established itself as one of the fastest-growing and",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-daniel-wellingtons-customer-service-department-saved-99-on-translation-costs-with-amazon-translate/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-daniel-wellingtons-customer-service-department-saved-99-on-translation-costs-with-amazon-translate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/09/3451-Architecture.jpg",
+          "width": 800,
+          "height": 354,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-24T15:58:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-06-25-is-machine-learning-the-key-to-unlocking-gen-z-engagement-a-discussion-with-jonathan-jadali-of-ascend.md",
       "title": "Is Machine Learning The Key To Unlocking Gen Z Engagement? A Discussion With Jonathan Jadali Of Ascend",
       "excerpt": "The jury is still out on what makes Gen Z’ers tick, but while the research is still ongoing there is much evidence to suggest that a marketing strategy utilizing machine learning is exponentially more effective with the next generation.",
@@ -1071,101 +1176,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-bmw-i-ventures-invests-in-autonomous-truck-technology-company-kodiak-robotics.md",
-      "title": "BMW i Ventures invests in autonomous truck technology company Kodiak Robotics",
-      "excerpt": "BMW’s Silicon Valley-based venture capital arm is investing in Kodiak Robotics, a company that develops autonomous trucking technology.  Kodiak will use the funds to build out a safety case for its self-driving tech stack so it can more quickly commercialize.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/24/bmw-i-ventures-invests-in-autonomous-truck-technology-company-kodiak-robotics/",
-      "originalUrl": "https://techcrunch.com/2021/06/24/bmw-i-ventures-invests-in-autonomous-truck-technology-company-kodiak-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/Kodiak-Final-10-small.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/24/bmw-i-ventures-invests-in-autonomous-truck-technology-company-kodiak-robotics/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/24/bmw-i-ventures-invests-in-autonomous-truck-technology-company-kodiak-robotics/amp/",
-      "publishedDateTime": "2021-06-24T05:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-pitney-bowes-to-deploy-ambi-robotics-ai-powered-robots-in-us-to-support-global-ecommerce-network.md",
-      "title": "Pitney Bowes to Deploy Ambi Robotics AI-Powered Robots in US to Support Global Ecommerce Network",
-      "excerpt": "Pitney Bowes Inc., a global technology company providing commerce solutions that power billions of transactions in the areas of ecommerce, shipping, mailing, and financial services, today announced plans to deploy AmbiSort robots,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/ap/ap-business/pitney-bowes-to-deploy-ambi-robotics-ai-powered-robots-in-us-to-support-global-ecommerce/article_c4486991-c52a-5cba-bff2-cd9d8993a47e.html",
-      "originalUrl": "https://www.wfmz.com/news/ap/ap-business/pitney-bowes-to-deploy-ambi-robotics-ai-powered-robots-in-us-to-support-global-ecommerce/article_c4486991-c52a-5cba-bff2-cd9d8993a47e.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/1/09/109d77c8-a482-585a-9b1e-617b0cd75580/60d482491c452.image.jpg?resize=1055%2C630",
-          "width": 1055,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-24T05:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

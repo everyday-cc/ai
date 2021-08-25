@@ -2,6 +2,102 @@
   "page": 89,
   "value": [
     {
+      "path": "_news/2021-06-22-databricks-cofounders-next-act-shining-a-ray-on-serverless-autoscaling.md",
+      "title": "Databricks cofounder’s next act: Shining a Ray on serverless autoscaling",
+      "excerpt": "After helping shepherd Spark to surmount the data bottleneck, UC Berkeley’s Ion Stoica is helping unleash Ray, an emerging open source project to get over the compute bottleneck for scaling machine learning models into production.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/databricks-cofounders-next-act-shining-a-ray-on-compute-autoscaling/",
+      "originalUrl": "https://www.zdnet.com/article/databricks-cofounders-next-act-shining-a-ray-on-compute-autoscaling/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/06/22/5db419aa-0477-47dc-a3ca-4444b6b838aa/sun-rays.jpg",
+          "width": 1600,
+          "height": 1069,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/databricks-cofounders-next-act-shining-a-ray-on-compute-autoscaling/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/databricks-cofounders-next-act-shining-a-ray-on-compute-autoscaling/",
+      "publishedDateTime": "2021-06-21T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-22-bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure.md",
+      "title": "BHP Shifts Data Centers to Cloud with AWS & Microsoft Azure",
+      "excerpt": "Data Center Dynamics reported that mining giant BHP has signed cloud deals with Amazon Web Services and Microsoft Azure. AWS will provide data analytics and machine learning capabilities, while Azure will host the company's core global applications portfolio,",
+      "sourceUrl": null,
+      "webUrl": "https://www.steelguru.com/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure",
+      "originalUrl": "https://www.steelguru.com/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gumlet.assettype.com/steelguru%2F2021-06%2Fcf9f8e8f-3a2a-4869-a50b-26912a626ef1%2FCloud_Data_Centers.png?w=1200&auto=format%2Ccompress&ogImage=true",
+          "width": 1200,
+          "height": 849,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.steelguru.com/amp/story/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure",
+      "cdnAmpWebUrl": "https://www-steelguru-com.cdn.ampproject.org/c/s/www.steelguru.com/amp/story/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure",
+      "publishedDateTime": "2021-06-21T21:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Steel News",
+        "domain": "steelguru.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-22-new-machine-learning-methods-could-improve-environmental-predictions.md",
       "title": "New machine learning methods could improve environmental predictions",
       "excerpt": "Algorithm is 'taught' rules of the physical world to help researchers make better predictions Machine learning algorithms do a lot for us every day--send unwanted email to our spam folder, warn us if our car is about to back into something,",
@@ -1018,92 +1114,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-ping-an-makes-breakthrough-in-artificial-intelligence-driven-drug-research.md",
-      "title": "Ping An Makes Breakthrough in Artificial Intelligence-Driven Drug Research",
-      "excerpt": "Research by Ping An Healthcare Technology Research Institute and Tsinghua University has led to a promising deep learning framework for drug discovery, announced, Ltd. (hereafter \" Ping An \" or the \"Group\",",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ping-an-makes-breakthrough-in-artificial-intelligence-driven-drug-research-1030538808",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ping-an-makes-breakthrough-in-artificial-intelligence-driven-drug-research-1030538808",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-21T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-dataiku-launches-in-aws-marketplace.md",
-      "title": "Dataiku Launches In AWS Marketplace",
-      "excerpt": "Dataiku, a leading AI and machine learning platform, announced today that it is available in AWS Marketplace, a digital catalog with thousands of software listings from independent software vendors that make it easy to find,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/dataiku-launches-in-aws-marketplace/article_0ea8f9d2-e442-5453-8b5d-d571717f1198.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/dataiku-launches-in-aws-marketplace/article_0ea8f9d2-e442-5453-8b5d-d571717f1198.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/e/a9/ea9078e3-dc71-5ef7-a5ae-2b94869bc713/60d09204bafc4.image.jpg?resize=1200%2C628",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-21T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

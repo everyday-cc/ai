@@ -61,21 +61,19 @@ related:
         width: 525
         height: 295
         isCached: true
-  - title: "Emotion Detection And Recognition Market"
-    excerpt: "The global Emotion Detection And Recognition Market is forecast to reach USD 148 11 Billion by 2026 according to a new report by With the rising number of smart homes increasing demand for personal health and industry"
-    publishedDateTime: 2021-08-20T05:14:00Z
-    webUrl: "https://www.openpr.com/news/2361364/emotion-detection-and-recognition-market-segments-key-vendors"
-    ampWebUrl: "https://www.openpr.com/amp/2361364/emotion-detection-and-recognition-market-segments-key-vendors"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2361364/emotion-detection-and-recognition-market-segments-key-vendors"
+  - title: "Calls against use of live facial recognition tech in Britain grow, Parliament petitioned"
+    excerpt: "The use of Live Facial Recognition Technology in the United Kingdom, as well as plans for new deployment rules, is facing increasingly stiff scrutiny."
+    publishedDateTime: 2021-08-24T19:12:00Z
+    webUrl: "https://www.biometricupdate.com/202108/calls-against-use-of-live-facial-recognition-tech-in-britain-grow-parliament-petitioned"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 44
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 45
     images:
-      - url: "https://cdn.openpr.com/U/8/U820923146_g.jpg"
-        width: 750
-        height: 350
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/11151135/biometric-identification-facial-recognition.jpg"
+        width: 1600
+        height: 1109
         isCached: true
   - title: "Civil liberties groups demand total ban on facial recognition technology"
     excerpt: "Amnesty International, Liberty and Privacy International join more than 30 organisations warning that the police, Home Office, and councils are misusing the intrusive technology"

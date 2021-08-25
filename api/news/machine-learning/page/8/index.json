@@ -2,58 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2021-07-06-pioneers-of-deep-learning-ai-think-its-future-is-gonna-be-lit.md",
-      "title": "Pioneers of deep learning AI think its future is gonna be lit",
-      "excerpt": "Yoshua Bengio, Geoffrey Hinton, and Yann LeCun, explain the current challenges of deep learning and what the future might hold",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/pioneers-deep-learning-future-lit-syndication",
-      "originalUrl": "https://thenextweb.com/news/pioneers-deep-learning-future-lit-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2F1Yoshua-Bengio-Geoffrey-Hinton-Yann-LeCun-deep-learning.jpg&signature=85a3577f4fff3f0407c4111620ca1ebd",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-05T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-05-microsofts-project-alexandria-parses-documents-using-unsupervised-learning.md",
       "title": "Microsoft’s Project Alexandria parses documents using unsupervised learning",
       "excerpt": "Microsoft's Project Alexandria, which uses unsupervised learning to parse documents, powers the company's Viva Topics product.",
@@ -1348,6 +1296,50 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-25-webinar-recording-now-online-how-to-employ-automated-machine-learning-to-predict-the-best-quality-potato-chipcrisp.md",
+      "title": "Webinar recording now online: ‘How to employ Automated Machine Learning to Predict the Best Quality Potato Chip/Crisp’",
+      "excerpt": "This webinar ran successfully on June 24th. JADBio’s Automated Machine Learning (AutoML) platform was applied to predict potatoes’ susceptibility to bruising and also its potential for coloration",
+      "sourceUrl": null,
+      "webUrl": "https://www.potatonewstoday.com/2021/06/25/webinar-recording-now-online-how-to-employ-automated-machine-learning-to-predict-the-best-quality-potato-chip-crisp/",
+      "originalUrl": "https://www.potatonewstoday.com/2021/06/25/webinar-recording-now-online-how-to-employ-automated-machine-learning-to-predict-the-best-quality-potato-chip-crisp/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.potatonewstoday.com/wp-content/uploads/2021/06/JADBio-Binary-Classification-better-chip-1.jpg?fit=813%2C530&#038;ssl=1",
+          "width": 813,
+          "height": 530,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-25T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "potatonewstoday",
+        "domain": "potatonewstoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
       ]
     }
   ],

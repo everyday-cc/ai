@@ -304,6 +304,20 @@ related:
         width: 1920
         height: 1170
         isCached: true
+  - title: "New IBM Telum Processors Show AI Investment ‘Down At The Silicon Level’"
+    excerpt: "IBM unveils new Telum processors, which bring AI down to the chip level amid growing demand by businesses for data- and compute-intensive processes."
+    publishedDateTime: 2021-08-24T21:09:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/new-ibm-telum-processors-show-ai-investment-down-at-the-silicon-level-"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 39
+    images:
+      - url: "https://www.crn.com/resources/0268-11f7e811e4f2-5b419af4f9f5-1000/ibm-campus-1.jpg"
+        width: 1500
+        height: 1126
+        isCached: true
   - title: "IBM unveils Telum Processor chip with AI capacity to detect fraud"
     excerpt: "IBM has unveiled its upcoming new 7nm EUV chip, the IBM Telum Processor, designed to address fraud in real time. The processor contains a chip system for AI inferencing while a transaction is taking place."
     publishedDateTime: 2021-08-23T07:18:00Z
@@ -314,6 +328,6 @@ related:
       domain: telecompaper.com
     quality: 34
 
-secured: "WzME2xEkHMb9OiFPZnd7KLbLqp451BQubnfkUOa5XKk9RRaCuZAFZ+arOh8xXGuKtmQLcocLuV7i5dtZigqyReeM8BlYfbZNZQjnLfD66GKggw3cV+UeP3mIj0P/q9ScHFJfMRV7hhQ0fwhxiQOU6GeZi493m8ooeAzwoqleTaEz0Pn1BMLhbl8SGtUtXHpZe7Mevj6yL0vzeuZ4ZR8xS9VFTWjoj8C5bTYs50B3LyFvBHS0rG8vVMTvtdYdpCzu24Lh71t3LWaYnCwkNJid2ra0MWHkfayDQJwuRPCVhZd++iuwvUz4FXBusHZ4rs7mcF+33Ll7lpenn15Hi99VJIePMT7GO4eSOZk5wZoe6y0=;DakY9bFtu2vvxL19WgB3iw=="
+secured: "wyYzMrbovRio9e0JsoA2QGa6B1iIbLuykPK0lmkeRbPydBBEm+nGjNNctth03ic5+KF6R3400Ihh0MdcIoIKOe43H2xgh7ff+pEYQ+G3oMgGaJ4DaztSA/sat4SUIRRG4yZzSuC40Vycrs8AszZBmSkqUtfWKeFLxQKs0znJsq/iWmxqwiGKkV2YCxA4YepLgUvE85WKqtCP33Fv5syY9HkIJjupY902kmsFKhRaGYIqnWsnLptEF23weJhyRaUoMSACeeHN1b87xyxK6BS5Wn31kqX4jBe/gpzKQJiP+UDcNw13ftu5rgpqLnGzS/uYXIq8ZGmdmrhS5kJ3ZTfFcM3s3QekoIx1Ch/dD1g9w7RzO0dKJbSKD4NYnGSlsDDUlMW0Cwsdjto1fJcn4KalP0d/iOd16XZjp1NeN0REQGmUi/gyGrDChj9+kU835dEBbodozniXIRk2BnsxfPr+I7o3qvhQ3Axi+qeVGqvG9NHUDCOWKv0RWME8IRLU45aObOx2GKE9MOrjNjGJ4WVbwA==;3aHEzqEm7zSgbAmJzSd5lA=="
 ---
 

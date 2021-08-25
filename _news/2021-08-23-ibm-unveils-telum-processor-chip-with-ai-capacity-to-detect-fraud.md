@@ -312,6 +312,20 @@ related:
         width: 1920
         height: 1170
         isCached: true
+  - title: "New IBM Telum Processors Show AI Investment ‘Down At The Silicon Level’"
+    excerpt: "IBM unveils new Telum processors, which bring AI down to the chip level amid growing demand by businesses for data- and compute-intensive processes."
+    publishedDateTime: 2021-08-24T21:09:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/new-ibm-telum-processors-show-ai-investment-down-at-the-silicon-level-"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 39
+    images:
+      - url: "https://www.crn.com/resources/0268-11f7e811e4f2-5b419af4f9f5-1000/ibm-campus-1.jpg"
+        width: 1500
+        height: 1126
+        isCached: true
 
 secured: "hAS6bPwBZDVketkEmZ0CZPG0ZeefryeRHqpz5afnQaKjdUAfk6e5RSfbn3RrVpHJVkepC6XpoH6bO+PajlFHRT7tG9TZlGGbOUbAG2nH+kVIYovAvQ01p1OfI9c8ZN+W473JrYoX/WH7iELcjLEVIDoYkh89c2y+zKeldHNjJDJJS8MRFYrVcdaCMb4hRumRuWCDzkXgWRDrvLZJCHLpUav+jlN1keRSIf2SziidrybJdGICd8QSf4GmZSYv1nYI59BmLN4NrlVPQe+rN5V68H5opSD/9mX0k2KJrlnv+iIUoOZdQOLpIpdRlVdB4w4j9DrJ4KL8F2JpWdzfcIv3N39II3eGRxudj0zF2bwijDs=;bSoxmrsFuJgoyHnDPqLXxA=="
 ---
