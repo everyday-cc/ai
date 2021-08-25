@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/381136"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/381136"
 type: article
 quality: 82
-heat: 122
+heat: 132
 published: true
 
 provider:
@@ -69,6 +69,20 @@ related:
     images:
       - url: "https://mybigplunge.com/wp-content/uploads/2021/08/abc-1000x600.jpg"
         width: 1000
+        height: 600
+        isCached: true
+  - title: "Y Combinator leads $125K round in AI startup Synth"
+    excerpt: "AI-based knowledge platform Synth AI labs Inc., has raised $125k in its new round led by Silicon Valley-based Y-Combinator."
+    publishedDateTime: 2021-08-24T14:23:00Z
+    webUrl: "https://entrackr.com/2021/08/y-combinator-leads-125k-round-in-ai-startup-synth/"
+    type: article
+    provider:
+      name: entrackr
+      domain: entrackr.com
+    quality: 37
+    images:
+      - url: "https://entrackr.com/wp-content/uploads/2021/08/synth.jpg"
+        width: 1200
         height: 600
         isCached: true
   - title: "Senators question Justice Department funding for AI-powered policing tech"

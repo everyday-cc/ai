@@ -38,20 +38,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 56
-  - title: "How This Fintech Startup Uses ML To Disburse Loans And Detect Fraud"
-    excerpt: "Kissht uses machine learning-based statistical models to predict customers’ ability to repay loans and detect frauds."
-    publishedDateTime: 2021-08-24T09:30:00Z
-    webUrl: "https://analyticsindiamag.com/how-this-fintech-startup-uses-ml-to-disburse-loans-and-detect-fraud/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 41
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/Untitled-5-copy-1.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Top Programming Languages for Finance in Fintech"
     excerpt: "This article explores some of the top programming languages for finance in fintech to power companies. Programming language is essential for efficient financial services. Multiple programming languages for finance are suitable for different fintech companies."
     publishedDateTime: 2021-08-23T11:06:00Z

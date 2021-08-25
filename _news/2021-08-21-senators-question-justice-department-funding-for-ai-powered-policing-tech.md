@@ -81,6 +81,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Y Combinator leads $125K round in AI startup Synth"
+    excerpt: "AI-based knowledge platform Synth AI labs Inc., has raised $125k in its new round led by Silicon Valley-based Y-Combinator."
+    publishedDateTime: 2021-08-24T14:23:00Z
+    webUrl: "https://entrackr.com/2021/08/y-combinator-leads-125k-round-in-ai-startup-synth/"
+    type: article
+    provider:
+      name: entrackr
+      domain: entrackr.com
+    quality: 37
+    images:
+      - url: "https://entrackr.com/wp-content/uploads/2021/08/synth.jpg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "Z9S3QEcbLrnFcs2aMP9KytWA39jSX/rWhNKgwQOShgl7FHSxq3fBG7ABwO4BecNsApcyUEHJbyxsiQhthK0TNmfAhDXhQLxIbEGaOPNpmMG0IUUl4TBNgP3Lbt8HNP2ieXuAy2+bzS6q8GUkhelANkF/W8ZhwEJZSrXjPQnksROfrVmknQWoQA/z9u4BUIbtiHAzEfXk4d4HvC9v36Qx0wbei81MxrBk8gsIcECBlyVWR0CXk+jD23EIISdbiwN0ZT0J8NEjlXM5sQYn3GZpdACj5KkjYxl63jnR1PJKE+6ccJdOSZpv4+NFRTyeaeDltagoVmX4hxGE/Wwze3caG8ECh7ACO1VbSnrPABGpdtg=;CFefL3NJHntPD2up4/GXeA=="
 ---

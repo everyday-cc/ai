@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/emmawoollacott/2021/08/23/uk-government
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2021/08/23/uk-government-accused-of-sneaking-through-new-live-facial-recognition-rules/amp/"
 type: article
 quality: 87
-heat: 167
+heat: 187
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
         width: 525
         height: 295
         isCached: true
+  - title: "US government agencies plan to increase their use of facial recognition technology"
+    excerpt: "A new survey shows the controversial systems are poised to play an even bigger role in federal business. A 90-page report published Tuesday by the US Government Accountability Office (GAO) details how federal agencies currently use, and plan to expand ..."
+    publishedDateTime: 2021-08-25T00:37:00Z
+    webUrl: "https://www.technologyreview.com/2021/08/24/1032967/us-government-agencies-plan-to-increase-their-use-of-facial-recognition-technology/"
+    ampWebUrl: "https://www.technologyreview.com/2021/08/24/1032967/us-government-agencies-plan-to-increase-their-use-of-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/08/24/1032967/us-government-agencies-plan-to-increase-their-use-of-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 53
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/08/AP_20176661952737.jpg?w=2247"
+        width: 2247
+        height: 1498
+        isCached: true
   - title: "Calls against use of live facial recognition tech in Britain grow, Parliament petitioned"
     excerpt: "The use of Live Facial Recognition Technology in the United Kingdom, as well as plans for new deployment rules, is facing increasingly stiff scrutiny."
     publishedDateTime: 2021-08-24T19:12:00Z
@@ -74,6 +90,22 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/11151135/biometric-identification-facial-recognition.jpg"
         width: 1600
         height: 1109
+        isCached: true
+  - title: "ECU student earns national recognition for breaking down bitcoin market"
+    excerpt: "\"I completely understand it,\" Clemente said. \"I’ve taken two finance classes, and you know, I don’t even have any hair on my face. So, you know I completely get that.\" But he's focused on seeing how far cryptocurrency could take him in the years to come."
+    publishedDateTime: 2021-08-24T23:30:00Z
+    webUrl: "https://www.wral.com/ecu-student-earns-national-recognition-for-breaking-down-bitcoin-market/19841178/"
+    ampWebUrl: "https://www.wral.com/ecu-student-earns-national-recognition-for-breaking-down-bitcoin-market/19841178/?version=amp"
+    cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/ecu-student-earns-national-recognition-for-breaking-down-bitcoin-market/19841178/?version=amp"
+    type: article
+    provider:
+      name: WRAL
+      domain: wral.com
+    quality: 44
+    images:
+      - url: "https://wwwcache.wral.com/asset/news/local/2021/08/24/19841213/keenanUSE-DMID1-5rzf0d6a7-1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Civil liberties groups demand total ban on facial recognition technology"
     excerpt: "Amnesty International, Liberty and Privacy International join more than 30 organisations warning that the police, Home Office, and councils are misusing the intrusive technology"

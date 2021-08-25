@@ -9,7 +9,7 @@ ampWebUrl: "https://www.carscoops.com/2021/08/baidu-unveils-robocar-and-its-seco
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/08/baidu-unveils-robocar-and-its-second-generation-ai-chip-in-china/amp/"
 type: article
 quality: 76
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -101,20 +101,6 @@ related:
       - url: "https://www.actuia.com/wp-content/uploads/2021/08/Puce-et-Voiture-Autonome.jpg"
         width: 800
         height: 400
-        isCached: true
-  - title: "Baidu claims it has created Level 5 robocar"
-    excerpt: "BEIJING: Baidu, the Chinese technology giant behind the country's search engine, has just announced a level 5 SAE autonomous car thanks to a new chip. Behind this potential success is an ambitious open source platform called Apollo."
-    publishedDateTime: 2021-08-20T08:57:00Z
-    webUrl: "https://www.carsifu.my/news/baidu-claims-it-has-created-level-5-robocar"
-    type: article
-    provider:
-      name: CarSifu
-      domain: carsifu.my
-    quality: 39
-    images:
-      - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2021/08/robocar_baidu.e80f1105302.original1.jpeg"
-        width: 800
-        height: 500
         isCached: true
 
 secured: "ymXcGJIw7cGxarJMoQeBnHVHgEKgLwN3gNHvGHjNNn2h2iPtM1qh2xYkyfY6XeX31Qzp/clVOmY57dwoMNYI0+F3DXmeRpwxNR1go7DCIZoXfPok742dyi3ZcVHjL5iV7NySKCEUEBnWc86eb3HOlp5tv5az8R9nGmznK/GBOI+5HQrgmIiqam9B6YlHPOBezuEOZaEigvtUeHnG3y11AXgOqDyNHCVQbwOnNjQ6JK0rXWZzTzWohM5aBm6OZm6k5KSI1zHP+xCCqhQ19m193h35SaNUpLzW2DqP5lOuwHH3VckLI6Ik3XNtqDYw/CdTbDOm8O/ATdq9ODp33yETRNFkfBkyFiPagOrWfDyqeJFP6hSHp0Rmvqh+QqGhIzNl43IeIeiAJQb7gbqvQkgNmaI9plaC1pm2jFHn3VkHTlJSgyi4/sz5gWmfIAwjh1xUaCC2c3CXhRUx/580uGr9NooV5E3Qhnhc2xLEGtY8XWChy/LKr/MY5iu9yu5AQ6gVibk6DoaN1oY4/cuQ9X0fBg==;3ihutID8bRAzBZ7yU+oX6g=="

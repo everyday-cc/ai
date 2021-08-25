@@ -102,20 +102,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Baidu claims it has created Level 5 robocar"
-    excerpt: "BEIJING: Baidu, the Chinese technology giant behind the country's search engine, has just announced a level 5 SAE autonomous car thanks to a new chip. Behind this potential success is an ambitious open source platform called Apollo."
-    publishedDateTime: 2021-08-20T08:57:00Z
-    webUrl: "https://www.carsifu.my/news/baidu-claims-it-has-created-level-5-robocar"
-    type: article
-    provider:
-      name: CarSifu
-      domain: carsifu.my
-    quality: 39
-    images:
-      - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2021/08/robocar_baidu.e80f1105302.original1.jpeg"
-        width: 800
-        height: 500
-        isCached: true
 
 secured: "N9e5KlqUzcoxdadZg7EJeVvqmBMGawpr7202UsIaqqU9oQZcTJe0PAkUnu3iozP4+OPZs0pMCSEe8z0OAwZaF9lTpZN0OX6sxSl+DQABs2u1QOmlXrx9+Oe19BJEunhvMfsmEPaHJtxvFeo2HP/3nRY1BQXY3UPqxb6RMPMwwC/XC2t9CrYs00yrpaKJ2OlnIE75n9yhdhCFKCMBUu7phHU2R69CMGduA4wpEdJ29ND70Snv0K1j8bxzU/1/SHtsM0NmBRAKSw0ufQ7GVzTkwIP1VYx+JOuaAFnGTlh9SFjpHBhMhydQbR1xMlQs5eY/LAsmBkPOlDMDYp8Twpp/HaZBwp4qxOlLktqbXRJodupEsk9+r4syTHt4l0pxdovSv8wTvqiPJT+Ysli/AJzzpDNmPG4GhW32rVomWXcPhxiqwxSTA3BZWuhxyeoI4QXRbzE/3m4jtwFW4VMijvZFJP8b2dY83v1zOuCuiGQOOMnOHAyFCAA6cIXntyIgVrsRwGTQFBf0HNyuPFFXBTRW2A==;Zgfh/B6EeiFVLA5GvvAzXQ=="
 ---

@@ -266,18 +266,18 @@ related:
         height: 1667
         isCached: true
   - title: "IBM Unveils On-Chip Accelerated AI Processor"
-    excerpt: "IBM unveiled details of the upcoming new IBM Telum Processor, designed to bring deep learning inference to enterprise workloads"
-    publishedDateTime: 2021-08-24T01:45:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/20593-ibm-unveils-on-chip-accelerated-ai-processor"
+    excerpt: "IBM unveiled details of its new Telum Processor which is designed to bring deep learning inference to enterprise workloads to help address fraud in real-time. Introduced at the annual Hot Chips conference,"
+    publishedDateTime: 2021-08-24T13:27:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/IBM-Unveils-On-Chip-Accelerated-AI-Processor-148560.aspx"
     type: article
     provider:
-      name: Deep
-      domain: thefastmode.com
+      name: dbta.com
+      domain: dbta.com
     quality: 54
     images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/f77372562623ffbc4fc486e55ae06035.jpg?t=20210824_014348"
-        width: 752
-        height: 408
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "IBM unveils Telum, its on-chip accelerated artificial intelligence processor"
     excerpt: "It's the first processor that has the ability to detect a fraud while a transaction is taking place, and not after it has happened"

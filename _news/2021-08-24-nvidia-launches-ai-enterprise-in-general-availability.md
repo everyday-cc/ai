@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/24/nvidia-launches-ai-enterprise-in-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/24/nvidia-launches-ai-enterprise-in-general-availability/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -63,6 +63,15 @@ related:
         width: 2048
         height: 1006
         isCached: true
+  - title: "Global Availability of NVIDIA AI Enterprise Makes AI Accessible for Every Industry"
+    excerpt: "“As AI applications become critical ... the same tools they use to manage large-scale data centers and hybrid clouds. Subscription licenses start at $2,000 per CPU socket for one year and include Business Standard Support (five days a week, nine hours ..."
+    publishedDateTime: 2021-08-24T23:17:00Z
+    webUrl: "https://www.nasdaq.com/press-release/global-availability-of-nvidia-ai-enterprise-makes-ai-accessible-for-every-industry"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 41
   - title: "Nvidia’s partnership with VMware aims to enable AI across enterprise for every workload"
     excerpt: "Nvidia Corp.’s year-long collaboration with VMware Inc. is finally bearing fruit with today’s general launch of the new Nvidia AI Enterprise platform, a suite of artificial intelligence tools and frameworks that make it possible to virtualize AI workloads and run them on Nvidia-certified server systems."
     publishedDateTime: 2021-08-24T13:54:00Z

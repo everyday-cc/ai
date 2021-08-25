@@ -44,17 +44,6 @@ related:
         width: 1200
         height: 562
         isCached: true
-  - title: "Upcoming Therapy for COVID-19 Maybe be at Local Pharmacy"
-    excerpt: "Various drugs that are already in use for other conditions, including one dietary supplement, have shown to block or reduce infection by SARS-CoV2, the virus causing COVID-19."
-    publishedDateTime: 2021-08-20T07:46:00Z
-    webUrl: "https://www.medindia.net/news/upcoming-therapy-for-covid-19-maybe-be-at-local-pharmacy-202863-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/upcoming-therapy-for-covid-19-maybe-be-at-local-pharmacy-202863-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/upcoming-therapy-for-covid-19-maybe-be-at-local-pharmacy-202863-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 39
 
 secured: "U7WYNRmYTfURJ/oHDzx8WUNVHXlk3vfk/kW1+IXTC5PgaKsDp0EfLhXRYe8hA3lWpwuXrfn0HEd19ht57tCtd1zx3fQYlqQxTIw50Cdn1J+lDO0eFPE+WodvlljzJpHakwJL4pF4Fu3tktX0b8sCCMdwt55/vLfgCzRPFg/w1GyAStpBX394wpRLR9UuCoxak2sndBPTJlU6jRjXWXkgdVjE1XcqCtix7rHZ3sv/iAHbFXdv7GV0slcb8Rj0oWbkvBb/M4D8/PpouSUpvkuPgFIXPiPhAMa+xuIbfxLSn7d+JhdzobAn7rMcv9DM1JLx1aXoiI+PQjb3UfTFGC6NDrcfkCcCG10IlRRu2MkL62s=;s4uSu2S4JR6h49eR+TWmQQ=="
 ---

@@ -1,27 +1,27 @@
 ---
 category: news
 title: "IBM Unveils On-Chip Accelerated AI Processor"
-excerpt: "IBM unveiled details of the upcoming new IBM Telum Processor, designed to bring deep learning inference to enterprise workloads"
-publishedDateTime: 2021-08-24T01:45:00Z
-originalUrl: "https://www.thefastmode.com/technology-solutions/20593-ibm-unveils-on-chip-accelerated-ai-processor"
-webUrl: "https://www.thefastmode.com/technology-solutions/20593-ibm-unveils-on-chip-accelerated-ai-processor"
+excerpt: "IBM unveiled details of its new Telum Processor which is designed to bring deep learning inference to enterprise workloads to help address fraud in real-time. Introduced at the annual Hot Chips conference,"
+publishedDateTime: 2021-08-24T13:27:00Z
+originalUrl: "https://www.dbta.com/Editorial/News-Flashes/IBM-Unveils-On-Chip-Accelerated-AI-Processor-148560.aspx"
+webUrl: "https://www.dbta.com/Editorial/News-Flashes/IBM-Unveils-On-Chip-Accelerated-AI-Processor-148560.aspx"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Deep
-  domain: thefastmode.com
+  name: dbta.com
+  domain: dbta.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://www.thefastmode.com/media/k2/items/src/f77372562623ffbc4fc486e55ae06035.jpg?t=20210824_014348"
-    width: 752
-    height: 408
+  - url: "https://www.dbta.com/images/social-logo-2019.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -328,6 +328,6 @@ related:
       domain: telecompaper.com
     quality: 34
 
-secured: "wyYzMrbovRio9e0JsoA2QGa6B1iIbLuykPK0lmkeRbPydBBEm+nGjNNctth03ic5+KF6R3400Ihh0MdcIoIKOe43H2xgh7ff+pEYQ+G3oMgGaJ4DaztSA/sat4SUIRRG4yZzSuC40Vycrs8AszZBmSkqUtfWKeFLxQKs0znJsq/iWmxqwiGKkV2YCxA4YepLgUvE85WKqtCP33Fv5syY9HkIJjupY902kmsFKhRaGYIqnWsnLptEF23weJhyRaUoMSACeeHN1b87xyxK6BS5Wn31kqX4jBe/gpzKQJiP+UDcNw13ftu5rgpqLnGzS/uYXIq8ZGmdmrhS5kJ3ZTfFcM3s3QekoIx1Ch/dD1g9w7RzO0dKJbSKD4NYnGSlsDDUlMW0Cwsdjto1fJcn4KalP0d/iOd16XZjp1NeN0REQGmUi/gyGrDChj9+kU835dEBbodozniXIRk2BnsxfPr+I7o3qvhQ3Axi+qeVGqvG9NHUDCOWKv0RWME8IRLU45aObOx2GKE9MOrjNjGJ4WVbwA==;3aHEzqEm7zSgbAmJzSd5lA=="
+secured: "YlMaeAJPwr3JN6IL8lpxrYnjAv1myhCIZwbNEdAJsomqq1migZKOv65dFDCwnFtaQJQ150rRqJDzmA8lQlLTF8RHCo3uUV+bqvIfTACn5JK43JWxJ2Bnivsfo7jDcB4ixLIclQFOyd8qWGnIucCH5F2E7MYo4vO612uwJoC7caCh4VTaeWy/AmnJsENC4ajQAdKWXFNRqLRO6GYw0iIsMZbgoPe04foq4RXN1UYXjmiA/wHPWGsjSq8Ple0aZ9jShTRKGb8jAwN64G2QC+a9SlOrNpph3ftN4TrDGLuLlaq4UbJWe2v/WCjGe7ZYRrdRO92XKiVfkgcoWq6uR9MsJigk+WyQmNx3LcFpHVMuTao=;01Lo5tekjXn+ag4+/eID+w=="
 ---
 

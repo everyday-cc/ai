@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Musk says Tesla's self-driving software update 'not great'"
+    excerpt: "Tesla Inc CEO Elon Musk walks next to a screen showing an image of Tesla Model 3 car during an opening ceremony for Tesla China-made Model Y program in Shanghai, China January 7, 2020. REU"
+    publishedDateTime: 2021-08-24T09:55:00Z
+    webUrl: "https://www.reuters.com/news/picture/musk-says-teslas-self-driving-software-u-idUSKBN2FO1XW"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210824&t=2&i=1572780142&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH7M0YJ"
+        width: 810
+        height: 540
+        isCached: true
   - title: "Musk turns on Tesla’s latest Full Self-Driving beta, says it’s “actually not great”"
     excerpt: "If you haven’t been impressed with what you’ve seen of Tesla’s latest Full Self-Driving beta, version 9.2, you’re not alone. CEO Elon Musk agrees. “FSD Beta 9.2 is actually not great imo ..."
     publishedDateTime: 2021-08-24T15:56:00Z
@@ -40,20 +54,6 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2018/05/GettyImages-855377492-760x380.jpg"
         width: 760
         height: 380
-        isCached: true
-  - title: "Musk says Tesla's self-driving software update 'not great'"
-    excerpt: "The automaker has recently faced scrutiny from U.S. safety regulators because of accidents linked to its driver assistant system."
-    publishedDateTime: 2021-08-24T10:20:00Z
-    webUrl: "https://europe.autonews.com/automakers/musk-says-teslas-self-driving-software-update-not-great"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 39
-    images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Tesla%20Autopilot%20web.jpg"
-        width: 800
-        height: 600
         isCached: true
   - title: "Tesla sells ‘Full Self-Driving,’ but what is it really?"
     excerpt: "Editor's note: This story is available as a result of a content partnership with The New York Times. Subscribers will see stories like this every day on our website (and in our daily emails) as an added value to your subscription. As U.S. investigators ..."

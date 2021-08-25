@@ -227,22 +227,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 86
-  - title: "Tesla's 'AI Day' reveals new AI-learning server, Dojo, and Tesla Bot"
-    excerpt: "Tesla's AI Day event showcased how Tesla is using AI and neural networks to improve self-driving technology, solar power generation and storage, and even powering a humanoid robot called Tesla Bot."
-    publishedDateTime: 2021-08-20T08:04:00Z
-    webUrl: "https://interestingengineering.com/teslas-ai-day-reveals-new-ai-learning-server-dojo-and-tesla-bot"
-    ampWebUrl: "https://amp.interestingengineering.com/teslas-ai-day-reveals-new-ai-learning-server-dojo-and-tesla-bot"
-    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/teslas-ai-day-reveals-new-ai-learning-server-dojo-and-tesla-bot"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 78
-    images:
-      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/zDOZKyd0Gk/sizes/tesla-project-dojo-d1-chip-tile_resize_md.jpg"
-        width: 744
-        height: 389
-        isCached: true
   - title: "Elon Musk is not impressed by Tesla’s current Full Self-Driving build, but likes the next one"
     excerpt: "Elon Musk said that Tesla’s current Full Self-Driving Beta build is “not great,” but he is currently testing the next build coming to beta testers, and he is impressed by that one."
     publishedDateTime: 2021-08-24T17:12:00Z
@@ -274,22 +258,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611fd23961324e1f6e42b14b%2F0x0.jpg"
         width: 1200
         height: 729
-        isCached: true
-  - title: "Elon Musk says Tesla wants to build a robot to replace human workers"
-    excerpt: "Elon Musk just announced during Tesla's AI Day event that Tesla is planning on building a humanoid robot that he believes will one day replace human workers. Here's everything we know about it."
-    publishedDateTime: 2021-08-20T07:28:00Z
-    webUrl: "https://interestingengineering.com/elon-musk-says-tesla-wants-to-build-a-robot-to-replace-human-workers"
-    ampWebUrl: "https://amp.interestingengineering.com/elon-musk-says-tesla-wants-to-build-a-robot-to-replace-human-workers"
-    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/elon-musk-says-tesla-wants-to-build-a-robot-to-replace-human-workers"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 76
-    images:
-      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/94w5VrvDOo/sizes/tesla-bot_resize_md.jpg"
-        width: 744
-        height: 389
         isCached: true
   - title: "Musk Says Tesla Will Have a Humanoid Robot Next Year"
     excerpt: "Tesla showcases its artificial intelligence at an investor event starting around 8 p.m. eastern time. Expect to hear about the company's computing technology, autonomous driving features and vehicle safety."
@@ -531,34 +499,6 @@ related:
         width: 457
         height: 305
         isCached: true
-  - title: "Musk shows self-driving progress, humanoid robot at Tesla AI Day"
-    excerpt: "Tesla used its inaugural AI Day to showcase improvements in its self-driving capability -- which has come under a regulatory spotlight -- and unveiled plans for a life-like robot that Elon Musk says will take the drudgery out of everyday life."
-    publishedDateTime: 2021-08-20T08:22:00Z
-    webUrl: "https://europe.autonews.com/automakers/musk-shows-self-driving-progress-humanoid-robot-tesla-ai-day"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 73
-    images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Tesla%20during%20testing%20Bloomberg.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Tesla Bot: AI-controlled humanoid robot revealed"
-    excerpt: "Tesla plans to use its self-driving system to control humanoid robots capable of handling dangerous or menial tasks."
-    publishedDateTime: 2021-08-20T07:45:00Z
-    webUrl: "https://www.motorauthority.com/news/1133301_tesla-bot-ai-controlled-humanoid-robot-revealed"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 71
-    images:
-      - url: "https://images.hgmsites.net/lrg/tesla-bot_100803509_l.jpg"
-        width: 1024
-        height: 589
-        isCached: true
   - title: "Tesla unveils chip to train AI models"
     excerpt: "Tesla has unveiled its own computer chips that will train its automated driving system. Revealed during the automaker’s AI Day event, Tesla’s custom chip will show the firm's continuing pursuit of vertical integration, according to senior director of ..."
     publishedDateTime: 2021-08-20T11:28:00Z
@@ -632,22 +572,6 @@ related:
       - url: "https://wonderfulengineering.com/wp-content/uploads/2021/08/tesla-bot_resize_md.jpg"
         width: 744
         height: 389
-        isCached: true
-  - title: "Elon Musk Says Tesla Bot Humanoid Robot Is Coming In 2022, Downplays Skynet-Style Uprising"
-    excerpt: "The Tesla Bot is currently in the concept phase at Tesla, and Musk stated that a working prototype would arrive sometime in 2022."
-    publishedDateTime: 2021-08-20T08:37:00Z
-    webUrl: "https://hothardware.com/news/elon-musk-says-tesla-bot-humanoid-robot-is-coming-in-2022"
-    ampWebUrl: "https://amp.hothardware.com/news/elon-musk-says-tesla-bot-humanoid-robot-is-coming-in-2022"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/elon-musk-says-tesla-bot-humanoid-robot-is-coming-in-2022"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 68
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/56030/content/tesla_bot_hero.jpg"
-        width: 708
-        height: 444
         isCached: true
   - title: "Elon Musk unveils humanoid robot to take over ‘boring’ work"
     excerpt: "The ‘Tesla Bot,’ a prototype of which should be available next year, is designed to eliminate “dangerous, repetitive and boring tasks,” like bending over to pick something up, or go to the store"
@@ -792,34 +716,6 @@ related:
       - url: "https://www.thestreet.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTgzMjgyNDUwMzA1MTMxNTU4/tesla.jpg"
         width: 620
         height: 349
-        isCached: true
-  - title: "Elon Musk Says Tesla's Robot Will Make Physical Work A 'Choice'"
-    excerpt: "After dominating the electric vehicle market and throwing his hat into the billionaire space race, Tesla boss Elon Musk announced the latest frontier he's aiming to conquer: humanoid robots. The irascible entrepreneur said Thursday he would have an initial prototype of an androgynous \"Tesla Bot\" by next year."
-    publishedDateTime: 2021-08-20T07:51:00Z
-    webUrl: "https://www.ibtimes.com/elon-musk-says-teslas-robot-will-make-physical-work-choice-3277728"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 56
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/08/20/tesla-ceo-elon-musk-says-the-company-will.jpg"
-        width: 1024
-        height: 753
-        isCached: true
-  - title: "Oh, Great: Elon Musk Wants Tesla To Build Humanoid Robots Now"
-    excerpt: "Musk hopes to have a prototype of a ’Tesla Bot’ in the next year, and a section on the company’s website is looking for engineering help."
-    publishedDateTime: 2021-08-20T08:49:00Z
-    webUrl: "https://uproxx.com/viral/elon-musk-tesla-robots-reaction/"
-    type: article
-    provider:
-      name: Uproxx
-      domain: uproxx.com
-    quality: 56
-    images:
-      - url: "https://uproxx.com/wp-content/uploads/2021/08/teslabot710.jpg?w=710"
-        width: 710
-        height: 394
         isCached: true
   - title: "Elon Musk Announces Tesla's New Humanoid Robots"
     excerpt: "Elon Musk announced Thursday night that his company, Tesla, is creating a humanoid robot. He anticipates a prototype to roll out in 2022. He did not mention a price point or where he’ll make the robot -- which will have a screen full of “useful information” where a human face would be -- available for purchase."

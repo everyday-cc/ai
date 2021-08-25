@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Musk says Tesla's self-driving software update 'not great'"
+    excerpt: "Tesla Inc CEO Elon Musk walks next to a screen showing an image of Tesla Model 3 car during an opening ceremony for Tesla China-made Model Y program in Shanghai, China January 7, 2020. REU"
+    publishedDateTime: 2021-08-24T09:55:00Z
+    webUrl: "https://www.reuters.com/news/picture/musk-says-teslas-self-driving-software-u-idUSKBN2FO1XW"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210824&t=2&i=1572780142&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH7M0YJ"
+        width: 810
+        height: 540
+        isCached: true
   - title: "Musk turns on Tesla’s latest Full Self-Driving beta, says it’s “actually not great”"
     excerpt: "If you haven’t been impressed with what you’ve seen of Tesla’s latest Full Self-Driving beta, version 9.2, you’re not alone. CEO Elon Musk agrees. “FSD Beta 9.2 is actually not great imo ..."
     publishedDateTime: 2021-08-24T15:56:00Z
@@ -48,20 +62,6 @@ related:
       - url: "https://cdn.ttweb.net/News/images/226694.jpg?preset=w800_q70"
         width: 800
         height: 450
-        isCached: true
-  - title: "Musk says Tesla's self-driving software update 'not great'"
-    excerpt: "The automaker has recently faced scrutiny from U.S. safety regulators because of accidents linked to its driver assistant system."
-    publishedDateTime: 2021-08-24T10:20:00Z
-    webUrl: "https://europe.autonews.com/automakers/musk-says-teslas-self-driving-software-update-not-great"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 39
-    images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Tesla%20Autopilot%20web.jpg"
-        width: 800
-        height: 600
         isCached: true
 
 secured: "cy/yWXhr11tsEiV5ZuzGPY3d5CvA06F+guKq+/8Mi5dVqBaIPHZzxxjlR/wJB3k+qKeU8g/sBAmhgi+cXtK3yU5PXT8Yg5uveE64+Thbh20z6KVFHO2gHmySuNY1kfdppPK/95I+dESjI7CFPCcjuzV88+7yza/vRC9cuGFZYOVqfoG/dszkEQV6i0czYasz/r5wT42iXC3JUeukRPUVTxWw3AB1sQCFpc+w5EH6b4TA5pkWKmcslYBkVTC0zN0wToDxsUJLHCKVlEaEto8CAEVqAaw9R0DQ+1Ufx+PmHKGainVX9VEPB3DShOTfVaJlnhiwuiFXoWe1kYp1OBHIcymDEp9czTXLwPzQKbK1BsIc8e0Hxrt+d8cNaNe5ANfUpH60tusg9fccM3gKt+y5PYOBPw6Qw6WWgO9uGFw8qVQwMhv9c51HZkwvq9+D5ZPKIMQe9CQ9M0zyZPpi5vfZzI/HFgNKoWB2KZRgdV5xWWw+1onoDyfx/W/OWZaWCkkg04JgJl9sFygf4hIrvI4vNg==;Guu1/JLAw9sLjIW36dv3GA=="

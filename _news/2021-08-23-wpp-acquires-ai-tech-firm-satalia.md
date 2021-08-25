@@ -9,7 +9,7 @@ ampWebUrl: "https://www.exchange4media.com/amp/announcements-news/wpp-acquires-a
 cdnAmpWebUrl: "https://www-exchange4media-com.cdn.ampproject.org/c/s/www.exchange4media.com/amp/announcements-news/wpp-acquires-ai-tech-firm-satalia-115180.html"
 type: article
 quality: 59
-heat: 170
+heat: 169
 published: true
 
 provider:

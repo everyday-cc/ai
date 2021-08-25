@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/tesla-bull-vs-tesl
 webUrl: "https://markets.businessinsider.com/news/stocks/tesla-bull-vs-tesla-bear-tesla-ai-day-key-takeaways-from-analysts-1030749493"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: Business Insider
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Andrew Hawkins of The Verge on the highlights from Tesla's AI Day"
-    excerpt: "Andrew Hawkins, Senior Transportation Reporter at The Verge, joins Worldwide Exchange to discuss Tesla's AI Day event and the announcement of a humanoid Tesla robot."
-    publishedDateTime: 2021-08-20T08:54:00Z
-    webUrl: "https://www.cnbc.com/video/2021/08/20/andrew-hawkins-of-the-verge-on-the-highlights-from-teslas-ai-day.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 84
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106930909-16294568745ED4-WEX-082021-Hawkins.jpg?v=1629456873"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Key Takeaways From Much-Awaited Tesla (TSLA) AI Day Event"
     excerpt: "Tesla’s TSLA highly anticipated Artificial Intelligence (AI) day event was live-streamed on the company’s official YouTube channel on Aug 19. At the flashy event, the electric car maker made several key announcements in the areas of computing,"
     publishedDateTime: 2021-08-23T12:57:00Z

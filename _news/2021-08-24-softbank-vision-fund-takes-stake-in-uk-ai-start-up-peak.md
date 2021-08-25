@@ -7,7 +7,7 @@ originalUrl: "https://www.manxradio.com/news/uk-business/softbank-vision-fund-ta
 webUrl: "https://www.manxradio.com/news/uk-business/softbank-vision-fund-takes-stake-in-uk-ai-start-up-peak/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,17 +22,6 @@ images:
     width: 640
     height: 380
     isCached: true
-
-related:
-  - title: "$400m SoftBank-led round pushes African fintech startup into unicorn club"
-    excerpt: "African payments platform OPay has claimed the unicorn title after banking US$400 million in a series C funding round led by SoftBank Vision Fund 2. With the fundraise, OPay’s valuation now stands at US$2 billion."
-    publishedDateTime: 2021-08-24T05:57:00Z
-    webUrl: "https://www.techinasia.com/softbankled-400m-puts-african-fintech-startup-unicorn-club"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 48
 
 secured: "doFKrilKd9RNSo37ZkjfuL8KzIb5qkdGfe37IwSWs5+8ibgz1HJXAHGfmOhnSMARks/u9RAfO+MGksfpMsNLYbMz9vCW1w3901EJ4/StHIMo3e3rDzpKSwDJlZB9smf6zqxMAsl7c5oBmHD5wtr7S5q6LreDVpnkZjcurzxpgQNl5j16qMxX8F4on4iuJDxmiAdqwNh38uV/1nKdaFhsFAK16wE5Ws2tGVi9dhWLeNP9BcFBd3NwsDyPyVJf2/Knpup0Mv1rz7O60dTla5bYArEQeBQHmzeStz1z+hr+u72yxoxFZKRu413GuIHe64JFa9PNOd4I6ri0NA1c6iqcj0kcDZrdYIqZsB/UCSzWc0M9LvprOqFm+mludgXT5TFTHFoXtVHULjTI8zJkgaiY6DFu6so4C2P5IMgH9hm4LKF/TQbrzuWeryKIwkwqUrTobf9BBfu3++Yt772PTjNZj4I+yh6sYIJBqDPkwjb9oy2yT4+i/iJKpxNkRYGdy1gnspD/Uk1xE4t9Rr9+e5pU2A==;X5JGcoPtZbmlOF0oNjjPwQ=="
 ---

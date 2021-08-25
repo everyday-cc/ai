@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/computing/ai-leading-chip-design-revol
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/ai-leading-chip-design-revolution/?amp"
 type: article
 quality: 86
-heat: 87
+heat: 86
 published: true
 
 provider:

@@ -74,6 +74,15 @@ related:
         height: 1006
         isCached: true
   - title: "Global Availability of NVIDIA AI Enterprise Makes AI Accessible for Every Industry"
+    excerpt: "“As AI applications become critical ... the same tools they use to manage large-scale data centers and hybrid clouds. Subscription licenses start at $2,000 per CPU socket for one year and include Business Standard Support (five days a week, nine hours ..."
+    publishedDateTime: 2021-08-24T23:17:00Z
+    webUrl: "https://www.nasdaq.com/press-release/global-availability-of-nvidia-ai-enterprise-makes-ai-accessible-for-every-industry"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 41
+  - title: "Global Availability of NVIDIA AI Enterprise Makes AI Accessible for Every Industry"
     excerpt: "NVIDIA today announced the availability of NVIDIA AI Enterprise, a comprehensive software suite of AI tools and frameworks that enables the hundreds of thousands of companies running VMware vSphere to virtualize AI workloads on NVIDIA-Certified Systems ™."
     publishedDateTime: 2021-08-24T13:04:00Z
     webUrl: "https://www.tmcnet.com/usubmit/-global-availability-nvidia-ai-enterprise-makes-ai-accessible-/2021/08/24/9436210.htm"

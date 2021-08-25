@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Musk says Tesla's self-driving software update 'not great'"
-excerpt: "The automaker has recently faced scrutiny from U.S. safety regulators because of accidents linked to its driver assistant system."
-publishedDateTime: 2021-08-24T10:20:00Z
-originalUrl: "https://europe.autonews.com/automakers/musk-says-teslas-self-driving-software-update-not-great"
-webUrl: "https://europe.autonews.com/automakers/musk-says-teslas-self-driving-software-update-not-great"
+excerpt: "Tesla Inc CEO Elon Musk walks next to a screen showing an image of Tesla Model 3 car during an opening ceremony for Tesla China-made Model Y program in Shanghai, China January 7, 2020. REU"
+publishedDateTime: 2021-08-24T09:55:00Z
+originalUrl: "https://www.reuters.com/news/picture/musk-says-teslas-self-driving-software-u-idUSKBN2FO1XW"
+webUrl: "https://www.reuters.com/news/picture/musk-says-teslas-self-driving-software-u-idUSKBN2FO1XW"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 69
+heat: 99
+published: true
 
 provider:
-  name: Automotive News
-  domain: autonews.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Tesla%20Autopilot%20web.jpg"
-    width: 800
-    height: 600
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210824&t=2&i=1572780142&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH7M0YJ"
+    width: 810
+    height: 540
     isCached: true
 
 related:
@@ -65,6 +69,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "mrzfgw1hx5HKiLXqHiQ/V0Llijfk2BQMv7/cPnYAMl30E01F1/ybAhVHcC8qzalgvJhqQNUEI/qhCL/tBl4uSu8PMjfnaocl/SS22G+q/7Gag28PRqWpXNapPIsoHGOzLFGf1mTaimgD8FuiMEYmyIYQdi93W2ka6tU0O9fZl/ThxpXZzPss2DmoCZ+5UIB14Y+bADXFlDlSG/4/ApG+qpirzU1dRfQ7csfNCUE1aKSBuXwO33FxQ46tHqheUcUks7kpyddmoFqfloZaErTEeJWNdEaFnBkDFe/5Yk2Q3JiwhFlrwO6zn3L6FEqHNY+CFleHwRYyMcs4b7qQr46j5t4n5t/KLaWotJWo2wK5B/8=;VMcTBGiKi38sER67W9fK8w=="
+secured: "m3XWUcW5D6KT5429rwIO8/exWmIqmNqilWSfej5Wju++BQfnESYOAmyxrQIqWtdq+OiMSIt4yQl0DVZ5gKgwQRS8Y0QwmxChiXhjepb/wcxC9C+FQY26PGbhEXGH56k2wa4AIqBpzXa/Jc6u1BGsgFY36S7RM4VdjV+6chCejqW6HexhEiY5FMcxyU4zpmm7bq3641QlQOhTUa28bnb15uYkUm4Q+JEwbUsYun9BuG1FVtaI0Ti7sd3cJTQsHlV/6zookEk/vbzD5exX1DmPtQ3HTtpy06H3BoDcg/Cfn8XcbuGf3jzYaesRYvtWJXjwsFb2V0KbGLvkHTpd7QUDYIX27J0W8fBiz/6PbJnI8MI=;Gs/wI01VktJpa3wL9rP+9g=="
 ---
 
