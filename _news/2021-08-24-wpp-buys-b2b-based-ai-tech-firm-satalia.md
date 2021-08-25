@@ -81,6 +81,20 @@ related:
         width: 940
         height: 430
         isCached: true
+  - title: "WPP Acquires AI Specialist Satalia, Aligns It With WT Commerce"
+    excerpt: "AI ethics, partnerships, talent and products. Satalia employs more than 80 people across multiple markets in Europe and will become part of Wunderman Thompson Commerce. It will also act as a hub of AI expertise for all WPP agencies. The UK-based company ..."
+    publishedDateTime: 2021-08-23T04:00:00Z
+    webUrl: "https://www.mediapost.com/publications/article/366177/wpp-acquires-ai-specialist-satalia-aligns-it-with.html"
+    type: article
+    provider:
+      name: MediaPost
+      domain: mediapost.com
+    quality: 39
+    images:
+      - url: "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2021/08/23/stalia-pr_ljicWrQ.jpg"
+        width: 600
+        height: 375
+        isCached: true
   - title: "WPP acquires AI technology company Satalia"
     excerpt: "The latest acquisition of Satalia is aligned with WPP’s accelerated growth strategy and focused M&A approach and more."
     publishedDateTime: 2021-08-23T07:35:00Z

@@ -80,20 +80,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Senators question Justice Department funding for AI-powered policing tech"
-    excerpt: "A Democratic senator said the U.S. Justice Department needs to look into whether the algorithm-powered police technologies it funds contribute to racial bias in law enforcement."
-    publishedDateTime: 2021-08-20T23:34:00Z
-    webUrl: "https://www.pressdemocrat.com/article/news/senators-question-justice-department-funding-for-ai-powered-policing-tech/"
-    type: article
-    provider:
-      name: Santa Rosa Press Democrat
-      domain: pressdemocrat.com
-    quality: 36
-    images:
-      - url: "https://imengine.prod.srp.navigacloud.com?uuid=790cf399-8bda-5632-813a-c981052a5d82&type=primary&q=72&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "BamqgTo+cqL8vb78WG14APLoa05NaiIUaPMBoNDknomTwDFDQoiPxxbf90SdNJ1j/z1K8YtQbT53mcU61TZl4Cbl5p+xx65O1q728FalTm1yLFlr9a/GUTMqdgZ89zQfjle5YOJDB1opJpIFX4cRw6xgVJRj3ndZlq9xMebzuqCu6hkgsfi1K/4BMu7kSQ2SuaQdrmfoonSoM9ebJT53Q1jMGUWT9LdJn5/8KSs6RIDKYEBDSzW3bIzbuEyDbLclJoYO9KmIaDB2sy1VLSL6mfOVeoj0pMjJS1EObnrZVrmAHtpZrLUQcB8SRwkPv0jAFy+PH9X5c6F662sAJkAug714kCC3e8wZBqJL+ZkbtzTlU5VeIQP/xGLrhnCSe+ni8Tb5t2OesxXWvCAOWX81JwPWbbe9/8PCbsKwhjiO9L3DdI7vEUbdjf7nGQs6BWMBlEBHSvLx3WSQnAofYpE/SJlIQvusCYs0fWWJvLth4zN8kQrf4jbhwIceBxNPT5M+piMjHX8Xqv/uOTqBcmOskg==;rCFLq78CpJNpMXwMsuOtTA=="
 ---

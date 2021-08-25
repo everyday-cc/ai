@@ -90,22 +90,6 @@ related:
         width: 750
         height: 350
         isCached: true
-  - title: "Computer Vision Software Market 2021-2030 By Strategic Imperatives for Success and Growth Analysis"
-    excerpt: "A new informative report titled as Global Computer Vision Software Market Report 2021 by Key Players Types Applications Countries Market Size Forecast to 2030 has recently published by Absolute Markets Insights to its huge database which helps to shape the"
-    publishedDateTime: 2021-08-21T10:07:00Z
-    webUrl: "https://www.openpr.com/news/2362641/computer-vision-software-market-2021-2030-by-strategic"
-    ampWebUrl: "https://www.openpr.com/amp/2362641/computer-vision-software-market-2021-2030-by-strategic"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2362641/computer-vision-software-market-2021-2030-by-strategic"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 45
-    images:
-      - url: "https://cdn.openpr.com/U/8/U821791923_g.jpg"
-        width: 800
-        height: 488
-        isCached: true
   - title: "Voice Assistant Shopping Market - Forecast to 2026"
     excerpt: "According to a new market research report published by Global Market Estimates the Voice Assistant Shopping Market will grow with a CAGR value of around 50 percent over the forecast period Browse TOC on Global Voice Assistant Shopping Market Forecast"
     publishedDateTime: 2021-08-24T07:11:00Z
@@ -121,22 +105,6 @@ related:
       - url: "https://cdn.openpr.com/U/8/U824425762_g.jpg"
         width: 400
         height: 400
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Food and Beverage Market Size 2021 Demand, Global Trend, News, Business Growth, Top Key Players"
-    excerpt: "The new report titled Global Artificial Intelligence AI in Food and Beverage Market published by Emergen Research is a vivid presentation of the global Artificial Intelligence AI in Food and Beverage market with utmost focus on the forecast market size"
-    publishedDateTime: 2021-08-25T12:51:00Z
-    webUrl: "https://www.openpr.com/news/2367537/artificial-intelligence-ai-in-food-and-beverage-market-size"
-    ampWebUrl: "https://www.openpr.com/amp/2367537/artificial-intelligence-ai-in-food-and-beverage-market-size"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2367537/artificial-intelligence-ai-in-food-and-beverage-market-size"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 44
-    images:
-      - url: "https://cdn.openpr.com/U/8/U825208148_g.jpg"
-        width: 700
-        height: 393
         isCached: true
   - title: "AI Drug Discovery Market Size & Share, 2021 Movements by Latest Trend Analysis, Progression Status, Revenue Expectation to 2026, Research Report"
     excerpt: "AI Drug Discovery Market is fueled by various factors, according to a detailed assessment explained in the report. This study shows how important in-depth analysis should be, and how it greatly affects the quality of information provided to the readers."
@@ -154,39 +122,6 @@ related:
         width: 612
         height: 408
         isCached: true
-  - title: "US AI in Image Recognition Market Analysis By Industry Size, Share, Revenue Growth and Demand Forecast To 2025"
-    excerpt: "The US AI in image recognition market is estimated to grow significantly at a CAGR of more than 28 during the forecast period The factors that are contributing significantly to the market growth investments in R D high expenditure on"
-    publishedDateTime: 2021-08-23T07:51:00Z
-    webUrl: "https://www.openpr.com/news/2363163/us-ai-in-image-recognition-market-analysis-by-industry-size"
-    ampWebUrl: "https://www.openpr.com/amp/2363163/us-ai-in-image-recognition-market-analysis-by-industry-size"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2363163/us-ai-in-image-recognition-market-analysis-by-industry-size"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 19
-  - title: "UK AI in Image Recognition Market Size, Share, Analysis, Applications, Growth Insight, Trends, Leaders, Services and Future Forecast - 2025"
-    excerpt: "UK AI in image recognition market is estimated to grow significantly at a CAGR of 28 4 during the forecast period UK is the third largest economy in Europe after Germany and France majorly owing to its trading power and"
-    publishedDateTime: 2021-08-23T07:47:00Z
-    webUrl: "https://www.openpr.com/news/2363154/uk-ai-in-image-recognition-market-size-share-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2363154/uk-ai-in-image-recognition-market-size-share-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2363154/uk-ai-in-image-recognition-market-size-share-analysis"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 5
-  - title: "Deep Learning in Manufacturing Market 2021 Growth Analysis, Opportunities, Trends, Developments and Forecast to 2027 - NVIDIA (US), Intel (US)"
-    excerpt: "The Global Deep Learning in Manufacturing market report from Market Intelligence Data aims to facilitate in depth information of the marketplace s definition potential and scope The document is prepared after enormous studies and analysis through experts It consists of"
-    publishedDateTime: 2021-08-25T06:45:00Z
-    webUrl: "https://www.openpr.com/news/2366422/deep-learning-in-manufacturing-market-2021-growth-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2366422/deep-learning-in-manufacturing-market-2021-growth-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2366422/deep-learning-in-manufacturing-market-2021-growth-analysis"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 3
 
 secured: "QvCmvx7s934L4YL8HCDeTXt+MebuteFqE+2b2ACi0DV75XEbMBuSyX3abpY0hOJBRor+MYxl/ltNypyGN7bgM54HwojVMAQ9veFthlFoB2tSaUu8739fXVqJ9WphZwLbd1mA2ZzWHtZQpnoVM49xdCfOROQaSW9OHyhiQ9Z/8WkacRc0TlHjnjVUWeUPQbTJiFUM7rN3qQBTDNS/1Vj+gIWZ+9ARY6+EjZC46yVM6NAW6NRaLE/6GkMHsTtHxST4exW+TxQwEJWVnFg9qgZsxJxtGyxcAvUXhUw/6vDCJFGQSr0HXFeFGeF7vXKP2iOVSu1qqDfbwnWIKpO30vmtmwadptqccEuSmMiFJn0TJK65Pub97YtrQtyn+pF8/9/elQXvLtAGlcTaKRjH+Vn0PyEk1bQfqRE2NhUjtBSajsjt6ok2/gVFHNVfnDPyEAZ5sNqgBPDbOepLYDe/CzT+/uv6Q8mYlYQL8kuxXLWovV+hnt4y5jQLoV/bC8T4DewgrnOTMyHOKYa9ft7/huyrXA==;LM+bLXS9rMm6eMQ+qj583w=="
 ---

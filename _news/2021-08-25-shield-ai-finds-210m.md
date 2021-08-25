@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "San Diego AI Startup Nets $210M for Drones Used by Military"
+    excerpt: "San Diego's Shield AI, an artificial intelligence startup that powers small military surveillance drones, said Tuesday that it has raised $210 million in a late-stage round of venture capital funding."
+    publishedDateTime: 2021-08-25T17:10:00Z
+    webUrl: "https://www.govtech.com/news/san-diego-ai-startup-nets-210m-for-drones-used-by-military"
+    ampWebUrl: "https://www.govtech.com/news/san-diego-ai-startup-nets-210m-for-drones-used-by-military?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/news/san-diego-ai-startup-nets-210m-for-drones-used-by-military?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 57
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/b599dcc/2147483647/strip/true/crop/940x490+0+70/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F79%2Fae%2F50de67582c1be9152bf3e423c6b6%2Fdrones.jpg"
+        width: 840
+        height: 438
+        isCached: true
   - title: "Rare Defense unicorn: San Diego AI startup corrals $210M for drone technology used by military"
     excerpt: "Latest funding round gives Shield AI, co-founded by a former Navy Seal who served in Afghanistan, a valuation over $1 billion."
     publishedDateTime: 2021-08-25T01:44:00Z

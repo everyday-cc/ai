@@ -56,22 +56,6 @@ related:
         width: 3825
         height: 1528
         isCached: true
-  - title: "What AI researchers can learn from the self-assembling brain"
-    excerpt: "One idea that hasn’t gotten enough attention from the AI community is how the brain creates itself, argues Peter Robin Hiesinger."
-    publishedDateTime: 2021-08-20T23:40:00Z
-    webUrl: "https://venturebeat.com/2021/08/20/what-ai-researchers-can-learn-from-the-self-assembling-brain/"
-    ampWebUrl: "https://venturebeat.com/2021/08/20/what-ai-researchers-can-learn-from-the-self-assembling-brain/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/20/what-ai-researchers-can-learn-from-the-self-assembling-brain/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/08/The-Self-Assembling-brain-1.jpg?w=1200&strip=all"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Artificial intelligence researchers receive Federal funding"
     excerpt: "Control Engineering - The Ohio State University is now the home base of two federally-funded institutes dedicated to advancing artificial intelligence (AI) research. The U.S."
     publishedDateTime: 2021-08-23T14:11:00Z
@@ -85,6 +69,20 @@ related:
       - url: "https://www.controleng.com/wp-content/uploads/sites/2/2021/08/CTLx_WEB_IMG_Cybersecurity_Code.jpg"
         width: 645
         height: 350
+        isCached: true
+  - title: "Researchers Demonstrate AI Can Be Fooled"
+    excerpt: "The artificial intelligence systems used by image recognition tools, such as those that certain connected cars use to identify street signs, can be tricked to make"
+    publishedDateTime: 2021-08-25T17:39:00Z
+    webUrl: "https://www.databreachtoday.com/researchers-demonstrate-ai-be-fooled-a-17366"
+    type: article
+    provider:
+      name: DataBreachToday
+      domain: databreachtoday.com
+    quality: 39
+    images:
+      - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/researchers-demonstrate-ai-be-fooled-showcase_image-10-a-17366.jpg"
+        width: 860
+        height: 520
         isCached: true
   - title: "AI Day 2021 to bring together world’s top-notch AI experts and researchers"
     excerpt: "Empowering Innovations, organized by VinAI Research (the tech arm of Vingroup) will be held on August 27, 2021, aiming to unlock solutions to developing artificial intelligence in Vietnam. The event anticipates up to 2,"

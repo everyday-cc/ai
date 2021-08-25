@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-16-mobilicom-launches-world-first-ai-based-360-cybersecurity-suite-for-drones-robotics.md",
+      "title": "Mobilicom launches world-first AI-based 360° Cybersecurity Suite for drones, robotics",
+      "excerpt": "First-ever AI-based 360° drone cybersecurity system that can detect, prevent, and respond to multiple cyber threats in real-time without requiring an operator• Designed specifically for industrial and commercial drones,",
+      "sourceUrl": null,
+      "webUrl": "https://www.suasnews.com/2021/08/mobilicom-launches-world-first-ai-based-360-cybersecurity-suite-for-drones-robotics/",
+      "originalUrl": "https://www.suasnews.com/2021/08/mobilicom-launches-world-first-ai-based-360-cybersecurity-suite-for-drones-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.suasnews.com/wp-content/uploads/2018/11/skyhopper-gcs.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-16T00:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SUAS News",
+        "domain": "suasnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-08-15-young-chinese-turn-to-artificial-intelligence-for-online-romance.md",
       "title": "Young Chinese Turn to Artificial Intelligence for Online Romance",
       "excerpt": "Xiaoice is the most eligible bachelorette in China. Despite having millions of boyfriends, she is always open to new suitors.She also happens to be an artificial intelligence-driven chat bot.A conversation between Milly Zhang and her AI boyfriend,",
@@ -1301,41 +1344,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-why-we-need-a-new-ethical-standard-for-the-development-and-use-of-robots.md",
-      "title": "Why we need a new ethical standard for the development and use of robots",
-      "excerpt": "In robotics, peak hubris is the common movie plot: human creates AI-powered robot, human loses control of AI-powered ... building robots with net good in mind. Some robotics are now even ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/blog/Data-Matters/Why-we-need-a-new-ethical-standard-for-the-development-and-use-of-robots",
-      "originalUrl": "https://www.computerweekly.com/blog/Data-Matters/Why-we-need-a-new-ethical-standard-for-the-development-and-use-of-robots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/blog/Data-Matters/Why-we-need-a-new-ethical-standard-for-the-development-and-use-of-robots?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/blog/Data-Matters/Why-we-need-a-new-ethical-standard-for-the-development-and-use-of-robots?amp=1",
-      "publishedDateTime": "2021-08-09T05:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

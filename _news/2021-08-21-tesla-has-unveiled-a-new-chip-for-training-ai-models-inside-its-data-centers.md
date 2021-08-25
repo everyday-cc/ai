@@ -60,6 +60,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Elon Musk says Tesla's AI bots will hopefully be sent to Mars to work in inhospitable environments"
+    excerpt: "Tesla CEO Elon Musk on Friday said his company's humanoid robots, Tesla Bot, would someday be able to work on Mars."
+    publishedDateTime: 2021-08-21T09:35:00Z
+    webUrl: "https://www.businessinsider.com/telsa-bots-expected-work-mars-elon-musk-artificial-intelligence-2021-8"
+    ampWebUrl: "https://www.businessinsider.com/telsa-bots-expected-work-mars-elon-musk-artificial-intelligence-2021-8?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/telsa-bots-expected-work-mars-elon-musk-artificial-intelligence-2021-8?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 92
+    images:
+      - url: "https://i.insider.com/6120b010de5f560019e82b78?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Future Tesla AI Cloud Vs Amazon AWS, Google Cloud, Alibaba"
     excerpt: "Home » Artificial intelligence » Future Tesla AI Cloud Vs Amazon AWS, Google Cloud, Alibaba The Amazon AWS Global Infrastructure is built for performance. AWS Regions offer low latency, low packet loss,"
     publishedDateTime: 2021-08-23T00:02:00Z
@@ -87,6 +103,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 84
+  - title: "Top Four Highlights of Elon Musk’s Tesla AI Day"
+    excerpt: "Elon Musk wants Tesla to be perceived as “much more than an electric car company.” On Tesla AI Day, the CEO described Tesla as a company with “deep AI activity in hardware on the inference level and on the training level” that can be used down the line for applications beyond self-driving cars."
+    publishedDateTime: 2021-08-21T11:00:00Z
+    webUrl: "https://techbooky.com/top-four-highlights-of-elon-musks-tesla-ai-day/"
+    ampWebUrl: "https://techbooky.com/top-four-highlights-of-elon-musks-tesla-ai-day/?amp=1"
+    cdnAmpWebUrl: "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/top-four-highlights-of-elon-musks-tesla-ai-day/?amp=1"
+    type: article
+    provider:
+      name: techbooky.com
+      domain: techbooky.com
+    quality: 76
+    images:
+      - url: "https://techbooky.com/wp-content/uploads/2021/08/Screen-Shot-2021-08-20-at-2.15.17-pm.png"
+        width: 768
+        height: 474
+        isCached: true
   - title: "James Douma Interviewed About Tesla Bot and AI Day"
     excerpt: "James Douma was interviewed by Dave Lee about Tesla AI Day. James is an AI expert and notes how Tesla has done significant re-architecting and is charting new"
     publishedDateTime: 2021-08-21T18:18:00Z
@@ -102,6 +134,22 @@ related:
       - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/08/Screen-Shot-2021-08-19-at-7.36.59-PM.jpg"
         width: 1566
         height: 1280
+        isCached: true
+  - title: "Tesla reveals new plan to build robots"
+    excerpt: "Tesla is now working on human-like robots. According to the company's website, the robots would be used for tasks that are considered \"unsafe, repetitive or boring.\" For the project, Tesla said it's searching for mechanical,"
+    publishedDateTime: 2021-08-21T19:54:00Z
+    webUrl: "https://www.wtkr.com/news/national/tesla-reveals-new-robot"
+    ampWebUrl: "https://www.wtkr.com/news/national/tesla-reveals-new-robot?_amp=true"
+    cdnAmpWebUrl: "https://www-wtkr-com.cdn.ampproject.org/c/s/www.wtkr.com/news/national/tesla-reveals-new-robot?_amp=true"
+    type: article
+    provider:
+      name: WTKR.com
+      domain: wtkr.com
+    quality: 76
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/1878d93/2147483647/strip/true/crop/5530x3111+0+125/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fcb%2Fa6%2F68804c7e4693a0e226ff5daf731f%2Fap21207771303544.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Massive AI Project Will Supercharge Tesla Stock"
     excerpt: "Tesla (TSLA) is on the verge of a game-changing breakthrough in machine learning yet the only thing people are talking about is its plan for a stupid humanoid robot. Executives at the electric vehicle company on Thursday held an artificial intelligence day."
@@ -162,6 +210,20 @@ related:
       - url: "https://cdn.betakit.com/wp-content/uploads/2019/04/franck-v-740564-unsplash-1-e1555351354855.jpg"
         width: 1200
         height: 801
+        isCached: true
+  - title: "Tesla Bot, a Humanoid Robot that Leverages Vehicle Artificial Intelligence"
+    excerpt: "Tesla has said that it plans to create a Humanoid Robot that can do basic tasks. As part of the presentation, a person dressed as the machine performed Robotics motions and then danced onstage. Musk soon emphasized that the dancer was not a true Robot."
+    publishedDateTime: 2021-08-25T13:30:00Z
+    webUrl: "https://www.analyticsinsight.net/tesla-bot-a-humanoid-robot-that-leverages-vehicle-artificial-intelligence/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 69
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Tesla-Bot-a-humanoid-robot-that-leverages-vehicle-Artificial-Intelligence.jpg"
+        width: 900
+        height: 500
         isCached: true
   - title: "Tesla launches DOJO chip of artificial intelligence training computer"
     excerpt: "Tesla launches artificial intelligence training computer DOJO chip] on 20 August, Tesla officially launched his artificial intelligence training computer DOJO chip. It is understood that Musk first mentioned DOJO,"

@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/trending/trending-globally/mother-
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/trending/trending-globally/mother-of-11-allyson-reneau-becomes-a-superwoman-for-afghan-womens-robotics-team-7462846/lite/"
 type: article
 quality: 72
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1200
     height: 667
     isCached: true
-
-related:
-  - title: "US Woman Rescues Afghan Girls Robotic Team, Emerges As Hero During Afghan Crisis"
-    excerpt: "Allyson Reneau, the woman who rescued the female robotics student from Afghanistan, now captured by the Taliban, is popularly being called \"superwoman\". Afghan Women Education Under Taliban"
-    publishedDateTime: 2021-08-20T23:40:00Z
-    webUrl: "https://www.shethepeople.tv/news/allyson-reneau-rescues-afghan-female-children-emerging-as-a-war-hero-during-afghan-crisis/"
-    ampWebUrl: "https://www.shethepeople.tv/news/allyson-reneau-rescues-afghan-female-children-emerging-as-a-war-hero-during-afghan-crisis/amp/"
-    cdnAmpWebUrl: "https://www-shethepeople-tv.cdn.ampproject.org/c/s/www.shethepeople.tv/news/allyson-reneau-rescues-afghan-female-children-emerging-as-a-war-hero-during-afghan-crisis/amp/"
-    type: article
-    provider:
-      name: Domestic
-      domain: shethepeople.tv
-    quality: 54
-    images:
-      - url: "https://www.shethepeople.tv/wp-content/uploads/2021/08/allyson1.jpg"
-        width: 600
-        height: 400
-        isCached: true
 
 secured: "wMweBKY2OyZMneFSTXk//Srmt76DiW9mHdKTcbLoadOKcurtwFHXOPZqZMhmZretw0ZGnvK8XsHHAS4+FH9HDe4dI7p1ZkxPCVrrzQ5aTMJgtTwOTLS6IkjxgOMekxdyAu9jNSX2OWsDXU2Q/FTI8pO2qKVEo/+jX81bHzCRH58aWVEnwhQTI7S1MJHDg1KZy3tcH2BN/7x8trjAJNs7SvGyxjOdtMpeH1EiuVrYNA+Mpnr7dvta8qNH9DmMos2A+g+iborQhHbuXoEkhNJ5I1zd4ku49bS+Ak7a4L4ArPPMuuQQPl493Xv+5IOCNtblcYrIzIKLq4Ap0JQrEVR6zDUQ5fEgWukRi8T0zu0JJjs6XwNxOlcXbBPCW/0E+lbesXHd00gSF8GcWFhnYclzbaF16gbnyqPqrM5YBPn6CnAsJO2HPTABZFyW+vrGkh+dk2yKG1pfmOHz0VW1+jnA4KDE6kc95iySl+lgZ3uaYxHci6vLgSu8MgDn7nSQSpd8scsu/ajKUVNVDCdjJPHL1w==;Tzdcs7aur3a3D7HBrgEe3g=="
 ---

@@ -38,6 +38,20 @@ related:
         width: 485
         height: 297
         isCached: true
+  - title: "THE PARABLE OF THE ALIEN AI AND HOW THE HUMANS WON THE WAR"
+    excerpt: "THE PARABLE OF THE ALIEN AI AND HOW THE HUMANS WON THE WAR Article by Kerry Cassidy, Project Camelot So they link you up to the Borg by way of the nano in the VAXES and TESTS…the reality is the Borg is studying"
+    publishedDateTime: 2021-08-25T15:58:00Z
+    webUrl: "https://projectcamelotportal.com/2021/08/25/the-parable-of-the-alien-ai-and-how-the-humans-won-the-war/"
+    type: article
+    provider:
+      name: PROJECT CAMELOT
+      domain: projectcamelotportal.com
+    quality: 37
+    images:
+      - url: "https://projectcamelotportal.com/wp-content/uploads/the-parable-of-the-alien-ai-and.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "+DZLoab95I9TxpNeoK+VND4TEqWitxIEyI4YJ17493jv1+9B0ngTbOH97dqvvaqYazj/oXx1nx8eEef6QaKLltgOFaIRu7wB6EIOboB0sqUvLj1zKMghn8zf5Ge5YltkhNneGcsHxkwSsjfQ9CP9mPdg9YrPqlH7VsUSmaWZLBpK1uT5741LLbKD7fCbRY4xQycLRYjd2rn4G03seSqoHl4AwO82LCPORwvy8Nll/RJLu3+upPZOAec3L6q70vd3bcWQLosdyySDXEDbDlrlag6FOC9OPgrUo6yE1nbon24WqaXZtAiP6NnvP7cSRSGBxeS5jV0scMoIbiCJ71qFXrxY0oSSAdSg4yj1S9GNRRvlEg0P2YaVK8XJ1m7PLViEI1piRcJniCxmuFM/Orz9L1wfdAjY8a2Iv2za0IrNP5tt6r6IFmbTvAtvlPH9EUgUNmPanwGFbUkyfbVCWsjkCtRvlwDuNA6eGnRepragr6blkkgdj6Cs/NIYKK8kmfArF3r1d1Y/Aa6BW/V166KceA==;ascFbrPQ9PLXZQ/Ev1xKkA=="
 ---

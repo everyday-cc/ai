@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2363772/artificial-intelligence-in-the-ed
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2363772/artificial-intelligence-in-the-education-sector-market-size"
 type: article
 quality: 58
-heat: 168
+heat: 118
 published: true
 
 provider:
@@ -73,22 +73,6 @@ related:
         width: 750
         height: 350
         isCached: true
-  - title: "Computer Vision Software Market 2021-2030 By Strategic Imperatives for Success and Growth Analysis"
-    excerpt: "A new informative report titled as Global Computer Vision Software Market Report 2021 by Key Players Types Applications Countries Market Size Forecast to 2030 has recently published by Absolute Markets Insights to its huge database which helps to shape the"
-    publishedDateTime: 2021-08-21T10:07:00Z
-    webUrl: "https://www.openpr.com/news/2362641/computer-vision-software-market-2021-2030-by-strategic"
-    ampWebUrl: "https://www.openpr.com/amp/2362641/computer-vision-software-market-2021-2030-by-strategic"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2362641/computer-vision-software-market-2021-2030-by-strategic"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 45
-    images:
-      - url: "https://cdn.openpr.com/U/8/U821791923_g.jpg"
-        width: 800
-        height: 488
-        isCached: true
   - title: "Voice Assistant Shopping Market - Forecast to 2026"
     excerpt: "According to a new market research report published by Global Market Estimates the Voice Assistant Shopping Market will grow with a CAGR value of around 50 percent over the forecast period Browse TOC on Global Voice Assistant Shopping Market Forecast"
     publishedDateTime: 2021-08-24T07:11:00Z
@@ -104,22 +88,6 @@ related:
       - url: "https://cdn.openpr.com/U/8/U824425762_g.jpg"
         width: 400
         height: 400
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Food and Beverage Market Size 2021 Demand, Global Trend, News, Business Growth, Top Key Players"
-    excerpt: "The new report titled Global Artificial Intelligence AI in Food and Beverage Market published by Emergen Research is a vivid presentation of the global Artificial Intelligence AI in Food and Beverage market with utmost focus on the forecast market size"
-    publishedDateTime: 2021-08-25T12:51:00Z
-    webUrl: "https://www.openpr.com/news/2367537/artificial-intelligence-ai-in-food-and-beverage-market-size"
-    ampWebUrl: "https://www.openpr.com/amp/2367537/artificial-intelligence-ai-in-food-and-beverage-market-size"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2367537/artificial-intelligence-ai-in-food-and-beverage-market-size"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 44
-    images:
-      - url: "https://cdn.openpr.com/U/8/U825208148_g.jpg"
-        width: 700
-        height: 393
         isCached: true
   - title: "Smart Education and Learning Market Size, Key Player Revenue, SWOT, PEST & Porter’s Analysis For 2020–2027"
     excerpt: "The global Smart Education And Learning Market is forecast to reach USD 1 047 75 Billion by 2026 according to a new report by Smart education can also be summed up as the application of smart devices"
@@ -153,39 +121,6 @@ related:
         width: 612
         height: 408
         isCached: true
-  - title: "US AI in Image Recognition Market Analysis By Industry Size, Share, Revenue Growth and Demand Forecast To 2025"
-    excerpt: "The US AI in image recognition market is estimated to grow significantly at a CAGR of more than 28 during the forecast period The factors that are contributing significantly to the market growth investments in R D high expenditure on"
-    publishedDateTime: 2021-08-23T07:51:00Z
-    webUrl: "https://www.openpr.com/news/2363163/us-ai-in-image-recognition-market-analysis-by-industry-size"
-    ampWebUrl: "https://www.openpr.com/amp/2363163/us-ai-in-image-recognition-market-analysis-by-industry-size"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2363163/us-ai-in-image-recognition-market-analysis-by-industry-size"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 19
-  - title: "UK AI in Image Recognition Market Size, Share, Analysis, Applications, Growth Insight, Trends, Leaders, Services and Future Forecast - 2025"
-    excerpt: "UK AI in image recognition market is estimated to grow significantly at a CAGR of 28 4 during the forecast period UK is the third largest economy in Europe after Germany and France majorly owing to its trading power and"
-    publishedDateTime: 2021-08-23T07:47:00Z
-    webUrl: "https://www.openpr.com/news/2363154/uk-ai-in-image-recognition-market-size-share-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2363154/uk-ai-in-image-recognition-market-size-share-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2363154/uk-ai-in-image-recognition-market-size-share-analysis"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 5
-  - title: "Deep Learning in Manufacturing Market 2021 Growth Analysis, Opportunities, Trends, Developments and Forecast to 2027 - NVIDIA (US), Intel (US)"
-    excerpt: "The Global Deep Learning in Manufacturing market report from Market Intelligence Data aims to facilitate in depth information of the marketplace s definition potential and scope The document is prepared after enormous studies and analysis through experts It consists of"
-    publishedDateTime: 2021-08-25T06:45:00Z
-    webUrl: "https://www.openpr.com/news/2366422/deep-learning-in-manufacturing-market-2021-growth-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2366422/deep-learning-in-manufacturing-market-2021-growth-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2366422/deep-learning-in-manufacturing-market-2021-growth-analysis"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 3
 
 secured: "0invI7+QOm5QnW9SUuvIzyxUf+Dero/py8oA3Eht1FiF2vnea0uFI0KNjFjAhHleczUzJhFFCHSCJIdxlYJ1IoiUZQPZhv0n64hl00zxkB5alpAZpdtjWi3SO2dYIPGBLVqZhOcpXCbvRdP4otHf3RSJjLSGBCyUnzD8Plu1QxZw4Cns/37mC3d1uDK1I3rrZyVajQIgORd+ykgKxJWfkY3gt2Jv49Z6jXITZmVOuin3P3rvVs+i63ZaBabythTc1tZqsRH5Edb424chzyjmRSIzo69/DTHahSajKLCtxKGo9y9xxHYQDd18337ID0oG15U4766Xaq5C0Vaw4O8vBaUS357aJYzqsO7HpoYvaR1EXpnR+iIARP6HhqAulZ34VFLPHZIsRYe9ua+0qWqwzq7QQMNdSevT+aQ1KLY9Fo6zF1T+p1xD/zHo+kj1h0fviiiAwhkoECIGHJ0oUGKwfWE53/aMcBg2t5mmvfYfhgV9Fc6DsrvQqrxBbkmDdCztbZDqRbzipsCDWfW6eqJgMw==;1Rg2n2qwOUySGWBSAcK32g=="
 ---

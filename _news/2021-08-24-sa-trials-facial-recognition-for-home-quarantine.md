@@ -41,6 +41,48 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Civil liberties groups demand total ban on facial recognition technology"
+    excerpt: "Amnesty International, Liberty and Privacy International join more than 30 organisations warning that the police, Home Office, and councils are misusing the intrusive technology"
+    publishedDateTime: 2021-08-23T17:08:00Z
+    webUrl: "https://morningstaronline.co.uk/article/b/civil-liberties-groups-demand-total-ban-on-facial-recognition-technology"
+    type: article
+    provider:
+      name: Morning Star
+      domain: morningstaronline.co.uk
+    quality: 40
+    images:
+      - url: "https://morningstaronline.co.uk/sites/default/files/face%20police.jpg"
+        width: 1185
+        height: 585
+        isCached: true
+  - title: "Civil liberties groups call for facial recognition ban"
+    excerpt: "A coalition of groups advocating civil liberties has demanded an outright ban on the use of live facial recognition technology (LFRT), while accusing the Home Office and law enforcement of bypassing Parliament over guidance for its use."
+    publishedDateTime: 2021-08-23T12:32:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2021/08/civil-liberties-groups-call-for-facial-recognition-ban/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 39
+    images:
+      - url: "https://eandt.theiet.org/media/5303/dreamstime_xxl_98532532.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=131920284040000000"
+        width: 1200
+        height: 450
+        isCached: true
+  - title: "Civil liberties groups demand ban on facial recognition technology"
+    excerpt: "A group of civil society bodies has called on the Government to ban facial recognition cameras, while accusing police and the Home Office of bypassing Parliament over guidance for the use of the technology."
+    publishedDateTime: 2021-08-23T16:45:00Z
+    webUrl: "https://www.irishnews.com/magazine/technology/2021/08/23/news/civil-liberties-groups-demand-ban-on-facial-recognition-technology-2425128/"
+    type: article
+    provider:
+      name: The Irish News
+      domain: irishnews.com
+    quality: 39
+    images:
+      - url: "https://image.assets.pressassociation.io/v2/image/production/d6e4131765fe04e05c81ba7daa1efc67Y29udGVudHNlYXJjaGFwaSwxNjI5NzgyNjgx/2.61056894.jpg?w=640"
+        width: 640
+        height: 434
+        isCached: true
   - title: "Researchers develop computer vision system that can detect babies’ faces while monitoring their vital signs"
     excerpt: "University of South Australia researchers have developed a computer vision system that can automatically detect a tiny baby’s face in a hospital bed and remotely monitor its vital signs from a ..."
     publishedDateTime: 2021-08-25T02:04:00Z

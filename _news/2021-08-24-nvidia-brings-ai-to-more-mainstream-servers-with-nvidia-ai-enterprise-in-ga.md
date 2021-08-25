@@ -72,6 +72,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 41
+  - title: "Nvidia Launches AI Enterprise Suite In Exclusive Pact With VMware"
+    excerpt: "Nvidia believes it can build a “significant” business with the new Nvidia AI Enterprise software suite it’s exclusively launching on VMware vSphere."
+    publishedDateTime: 2021-08-25T15:59:00Z
+    webUrl: "https://www.crn.com/news/virtualization/nvidia-launches-ai-enterprise-suite-in-exclusive-pact-with-vmware"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 41
+    images:
+      - url: "https://www.crn.com/resources/026c-1315a57ab4f8-914bd40921f0-1000/nvidia-ai-enterprise-image.jpg"
+        width: 1500
+        height: 1124
+        isCached: true
   - title: "Nvidia’s partnership with VMware aims to enable AI across enterprise for every workload"
     excerpt: "Nvidia Corp.’s year-long collaboration with VMware Inc. is finally bearing fruit with today’s general launch of the new Nvidia AI Enterprise platform, a suite of artificial intelligence tools and frameworks that make it possible to virtualize AI workloads and run them on Nvidia-certified server systems."
     publishedDateTime: 2021-08-24T13:54:00Z

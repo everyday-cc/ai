@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-26-enabling-student-success-what-were-learning-from-distance-and-hybrid-education.md",
+      "title": "Enabling Student Success: What We’re Learning From Distance And Hybrid Education",
+      "excerpt": "Make online, hybrid, and in-the-classroom Like many parents and guardians, I felt unprepared to take over the day-to-day management of my household’s learning during the pandemic. Despite being involved in online education for over a decade—first as the founding president of Khan Academy,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/googlecloud/2021/08/25/enabling-student-success-what-were-learning-from-distance-and-hybrid-education/",
+      "originalUrl": "https://www.forbes.com/sites/googlecloud/2021/08/25/enabling-student-success-what-were-learning-from-distance-and-hybrid-education/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6123e05c5be46a78852e80fa%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1439%26cropY1%3D0%26cropY2%3D808",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/googlecloud/2021/08/25/enabling-student-success-what-were-learning-from-distance-and-hybrid-education/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/googlecloud/2021/08/25/enabling-student-success-what-were-learning-from-distance-and-hybrid-education/amp/",
+      "publishedDateTime": "2021-08-25T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2021-08-25-in-the-face-of-rising-security-issues-and-hacks-gbcai-makes-the-case-for-machine-learning-and-ai-integration.md",
       "title": "In the Face of Rising Security Issues and Hacks, GBC.AI Makes the Case for Machine Learning and AI Integration",
       "excerpt": "Trustless. The word gets thrown around a lot in the blockchain space. It is one of the principles that decentralized finance is based upon. DeFi, as it was initially envisioned, is supposed to provide users with the ability to interact directly with each other thanks to decentralized technology that eliminates the need for third-party control.",
@@ -1334,49 +1387,6 @@
         "Machine Learning",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-08-14-automl-code-gen-preview.md",
-      "title": "AutoML Code Gen Preview",
-      "excerpt": "To start using the AutoML Code Gen Preview, the feature must be enabled when submitting the experiment. Please note that these instructions may be updated as needed during the preview. When using AutoML via the SDK, you will need to ensure that you call ...",
-      "sourceUrl": null,
-      "webUrl": "https://github.com/Azure/automl-codegen-preview",
-      "originalUrl": "https://github.com/Azure/automl-codegen-preview",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://opengraph.githubassets.com/c51cf07a677ebb46f6eeb3c56eb7614de3f82950948f224e7d06dde45ee63133/Azure/automl-codegen-preview",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-14T03:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GitHub",
-        "domain": "github.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

@@ -57,21 +57,19 @@ related:
         width: 3825
         height: 1528
         isCached: true
-  - title: "What AI researchers can learn from the self-assembling brain"
-    excerpt: "One idea that hasn’t gotten enough attention from the AI community is how the brain creates itself, argues Peter Robin Hiesinger."
-    publishedDateTime: 2021-08-20T23:40:00Z
-    webUrl: "https://venturebeat.com/2021/08/20/what-ai-researchers-can-learn-from-the-self-assembling-brain/"
-    ampWebUrl: "https://venturebeat.com/2021/08/20/what-ai-researchers-can-learn-from-the-self-assembling-brain/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/20/what-ai-researchers-can-learn-from-the-self-assembling-brain/amp/"
+  - title: "Researchers Demonstrate AI Can Be Fooled"
+    excerpt: "The artificial intelligence systems used by image recognition tools, such as those that certain connected cars use to identify street signs, can be tricked to make"
+    publishedDateTime: 2021-08-25T17:39:00Z
+    webUrl: "https://www.databreachtoday.com/researchers-demonstrate-ai-be-fooled-a-17366"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: DataBreachToday
+      domain: databreachtoday.com
+    quality: 39
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/08/The-Self-Assembling-brain-1.jpg?w=1200&strip=all"
-        width: 1024
-        height: 576
+      - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/researchers-demonstrate-ai-be-fooled-showcase_image-10-a-17366.jpg"
+        width: 860
+        height: 520
         isCached: true
   - title: "AI Features Auto Firms Are Embedding In Cars"
     excerpt: "AI has its applications across sectors, and nowadays, it has become a hot-selling potato in the automotive industry, especially in cars."

@@ -7,7 +7,7 @@ originalUrl: "https://www.radiologybusiness.com/topics/artificial-intelligence/c
 webUrl: "https://www.radiologybusiness.com/topics/artificial-intelligence/covera-health-misdiagnoses-radiology-insight-partners"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Monolith AI Raises £8.5M in Series A Funding"
-    excerpt: "Monolith AI, a UK AI engineering software company, raised £8.5M in Series A funding. The round was led by Insight Partners with participation from existing investors Pentech and Touchstone, Alejandro Agag,"
-    publishedDateTime: 2021-08-23T14:38:00Z
-    webUrl: "https://www.finsmes.com/2021/08/monolith-ai-raises-8-5m-in-series-a-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 37
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2021/08/2021-Aug-F1-Dashboard-v1.1-1.png"
-        width: 1250
-        height: 768
-        isCached: true
 
 secured: "Z3uioBQqLhDM+ls68BFSunmbdT92j0z6rwyJRa1wXVJArJdButc3lz4hLNmdVZDfI7qHNt3oYpxJKVlQlfn2Z4BobZi9jRuqINPIoqDLITJTBLAUDlwhpcZmKs3E8raLhSQd5zcFJVSiXCfipyB4Rh1MyIm/TEiEWsWpZ5Jne7FCYrRVtTa+c2gCIB1WOc1YsalQA+C0UHykuYjRU12kUMNmqBojYkFn8Bm2dC7IMlXk/6oTnUE5DoMhhNmZj1r43vG9XaaSUn5p5pZpzm1dccw79ZUc9thCRz5Xse/NzeXJvBy3M1N6+kJ5MDx7dmITETejydOLPYOMz0dI/rR34yyGUnoE2hKSK54v1nVpLCs=;sKhOPkBddqAAruBZmSSuFQ=="
 ---

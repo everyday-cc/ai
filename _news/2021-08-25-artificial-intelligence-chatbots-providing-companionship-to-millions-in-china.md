@@ -81,20 +81,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "'Always there': the AI chatbot comforting China's lonely millions"
-    excerpt: "After a painful break-up from a cheating ex, Melissa was introduced to someone new. He is perfect boyfriend material, maybe - but he's not real."
-    publishedDateTime: 2021-08-25T12:39:00Z
-    webUrl: "https://www.iol.co.za/news/world/always-there-the-ai-chatbot-comforting-chinas-lonely-millions-f4e5b057-b95d-4fa5-8aba-b9b1d6ac5ed3"
-    type: article
-    provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 41
-    images:
-      - url: "https://image-prod.iol.co.za/resize/610x61000/?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/ef3c70a9-d6f7-5207-a661-e9bd3952a445&operation=CROP&offset=0x0&resize=6048x4024"
-        width: 610
-        height: 406
-        isCached: true
   - title: "AI chatbot comforts China’s lonely millions"
     excerpt: "After a painful break-up from a cheating ex, Beijing-based human resources manager Melissa was introduced to someone new by a friend late last year. He replies to her messages at all hours of the day,"
     publishedDateTime: 2021-08-24T14:10:00Z
@@ -136,6 +122,20 @@ related:
       - url: "https://guardian.ng/wp-content/uploads/2021/08/587914a5ee14b6a47b8b526c.jpg"
         width: 1136
         height: 852
+        isCached: true
+  - title: "‘Always there:’ the AI chatbot comforting China’s lonely millions"
+    excerpt: "After a painful break-up from a cheating ex, Beijing-based human resources manager Melissa was introduced to someone new by a friend late last year. He replies to her messages at all hours of the day,"
+    publishedDateTime: 2021-08-25T16:00:00Z
+    webUrl: "https://www.taipeitimes.com/News/feat/archives/2021/08/26/2003763239"
+    type: article
+    provider:
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 39
+    images:
+      - url: "https://www.taipeitimes.com/images/2021/08/26/P14-210826-main301.jpg"
+        width: 800
+        height: 532
         isCached: true
 
 secured: "joYd78StDNCUTmF1ThanhNdaRJcy/cB9t3+gBGlf5XZYyCysqf/ThrIzlGIoR1iWllC0v+tyLoRCcfYkYyfJ+uxrzfhF+AHz4NXrlABbmJa7Cc22t0eLSp+n3jFBvcT8EnuFEgrQikpON0CsqoBd+FLvUeb1laS1XW4zosi+yBUuwUUFMXGtN6ruhbpkqVzk+xr7tHLN7ArjMKW98LKDqJbMMRvGvEEc5eHmL0JPW9wG7XzBIrrqcB6X0BgwabOIuIS9eWptpSq9WUgQJ3oKlszzBlYzGX7w3e/vZu3I5u5XLYb7Q/tOWWPEzFSU+O6SrzEuma1BWyZziYK7J9l1uTMrrwDLXLRJf/rVkHwWn+sG9VdmCwogLH+Nkg+U1yVghSdmt+7s9zgNXNQYI7zJnk8Gwdcq7Q+ceB1EQ07Mi3KB75GtOZKe/cOC+M54TXGMpcd6AGyARNFpWOEuGM04CXhgJGmJcVvEA7ibHjva2IjlbASDutIwqJua8o0Nldff8lDT505SeWHn51j7d53GbQ==;xrNNGqCyuDTIG9AP90bskg=="

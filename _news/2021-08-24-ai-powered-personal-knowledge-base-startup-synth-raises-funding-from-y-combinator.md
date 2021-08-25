@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/381136"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/381136"
 type: article
 quality: 82
-heat: 132
+heat: 122
 published: true
 
 provider:
@@ -84,20 +84,6 @@ related:
       - url: "https://entrackr.com/wp-content/uploads/2021/08/synth.jpg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Senators question Justice Department funding for AI-powered policing tech"
-    excerpt: "A Democratic senator said the U.S. Justice Department needs to look into whether the algorithm-powered police technologies it funds contribute to racial bias in law enforcement."
-    publishedDateTime: 2021-08-20T23:34:00Z
-    webUrl: "https://www.pressdemocrat.com/article/news/senators-question-justice-department-funding-for-ai-powered-policing-tech/"
-    type: article
-    provider:
-      name: Santa Rosa Press Democrat
-      domain: pressdemocrat.com
-    quality: 36
-    images:
-      - url: "https://imengine.prod.srp.navigacloud.com?uuid=790cf399-8bda-5632-813a-c981052a5d82&type=primary&q=72&width=1200"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "9HjMxBk4Q36/uyRtriTbfKVHfuWCtQoEw0XqrX7pIzJ+YzeDMYXiBSxEff372fWdhj2CBiIJ6prdGlJAxJeuD793caNq7A0d4MoerH9q/PuAHYdFXuGyrAEyfaFK+NW+NG5TWS9KlX3BYOBmBvKratr415sInU8HQmzXxSXW6xIhbKsuqRT4Rd7TOmaXU+h+wYKcBFgd17Se9azwxyxuMYoFp3sVnQ7m9GGWtLOnUHp1ZtHfKrl+rp/IXSohFkJYU8fC2G70HS1o7iTJUWokqPGj2MI8V2tdey+bMYL2GIiQCeqdHp433H/ISbREQb1bBU7sGnv8CyKQDW7MEZYu4L89wng/vYtHRwbIQzdyptJyQDBHoH+GtmAXZXE3zVVzAfso6ggyK7TBfdwGqdRYQoyl0J4riM6nV8ZJOrDg3/T99iECl63DiRlRFiqkvkqf3dn0qnE85Dhd/QhO0quExBHtMbnpUaGbp866dqD2tvJf3xERw9Z2RdJ91UZ8VMtMs+VPtKNTgRS4cVwve7VSPQ==;kROPwtJlwGUGLPuu3LSrqw=="

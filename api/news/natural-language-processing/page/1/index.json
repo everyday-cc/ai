@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-25-speech-to-text-software-free-vs-paid-apps-whats-the-difference.md",
+      "title": "Speech to text software: free vs paid apps - what's the difference?",
+      "excerpt": "Looking for the best speech to text software? The best place to start your search is by deciding whether you’re willing to pay for an app or not. There are plenty of free options on the market for anyone looking for a one-off voice to text task.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/speech-to-text-software-free-vs-paid-apps-whats-the-difference/",
+      "originalUrl": "https://www.techradar.com/news/speech-to-text-software-free-vs-paid-apps-whats-the-difference/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/thNbgEHPbMCLXu5jDXUXJL-1200-80.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/speech-to-text-software-free-vs-paid-apps-whats-the-difference",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/speech-to-text-software-free-vs-paid-apps-whats-the-difference",
+      "publishedDateTime": "2021-08-25T09:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-25-why-conversational-ai-is-so-much-more-than-a-chatbot.md",
       "title": "Why Conversational AI Is So Much More Than a Chatbot",
       "excerpt": "When people think of conversational AI, their first thought is often the chatbots that one encounters on many enterprise websites. While they would not be wrong, as that is one example of conversational AI,",
@@ -53,7 +105,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/25/hybrid-ai-is-the-future-of-industrial-analytics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 161,
       "tags": null,
       "images": [
         {
@@ -93,7 +145,8 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -1178,6 +1231,40 @@
       ]
     },
     {
+      "path": "_news/2021-08-11-natural-language-processing-nlp-market-2021-industry-analysis-size-share-growth-trends-and-forecast-to-2027.md",
+      "title": "Natural Language Processing (NLP) Market 2021, Industry Analysis, Size, Share, Growth, Trends and Forecast to 2027",
+      "excerpt": "This global study of the Natural Language Processing (NLP) market offers an overview of the existing market trends, drivers, restrictions, and metrics and also offers a viewpoint for important segments. The report also tracks product and services demand ...",
+      "sourceUrl": null,
+      "webUrl": "https://ipsnews.net/business/2021/08/11/natural-language-processing-nlp-market-2021-industry-analysis-size-share-growth-trends-and-forecast-to-2027/",
+      "originalUrl": "https://ipsnews.net/business/2021/08/11/natural-language-processing-nlp-market-2021-industry-analysis-size-share-growth-trends-and-forecast-to-2027/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-11T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inter Press Service",
+        "domain": "ipsnews.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-11-this-intriguing-new-platform-lets-you-translate-your-words-into-code.md",
       "title": "This intriguing new platform lets you translate your words into code",
       "excerpt": "Notably, Codex powers GitHub Copilot, a new tool launched in June and currently under preview that assists programmers by making relevant suggestions as they write code inside development environments like Microsoft’s Visual Studio Code.",
@@ -1332,92 +1419,6 @@
         "Natural Language Processing",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-leveraging-conversational-ai-to-improve-itops.md",
-      "title": "Leveraging Conversational AI to Improve ITOps",
-      "excerpt": "This imitation of human interactions is made possible by its underlying technologies — machine learning, more specifically, Natural Language Processing (NLP). Conversational AI can recognize speech input and text input and translate the same across ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itbusinessedge.com/it-management/leveraging-conversational-ai-to-improve-itops/",
-      "originalUrl": "https://www.itbusinessedge.com/it-management/leveraging-conversational-ai-to-improve-itops/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itbusinessedge.com/wp-content/uploads/2021/08/Leveraging-Conversational-AI-to-Improve-ITOps.jpeg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-09T14:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Business Edge",
-        "domain": "itbusinessedge.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-student-researcher-urges-natural-language-processing-research-focus-on-signed-languages.md",
-      "title": "Student researcher urges natural language processing research focus on signed languages",
-      "excerpt": "Advancements in natural language processing (NLP) enable computers to understand what humans say and help people communicate through tools like machine translation, voice-controlled assistants and chatbots.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-08-student-urges-natural-language-focus.html",
-      "originalUrl": "https://techxplore.com/news/2021-08-student-urges-natural-language-focus.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/sign-language.jpg",
-          "width": 1920,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-08-student-urges-natural-language-focus.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-student-urges-natural-language-focus.amp",
-      "publishedDateTime": "2021-08-09T13:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

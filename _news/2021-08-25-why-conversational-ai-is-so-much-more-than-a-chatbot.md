@@ -73,20 +73,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "'Always there': the AI chatbot comforting China's lonely millions"
-    excerpt: "After a painful break-up from a cheating ex, Melissa was introduced to someone new. He is perfect boyfriend material, maybe - but he's not real."
-    publishedDateTime: 2021-08-25T12:39:00Z
-    webUrl: "https://www.iol.co.za/news/world/always-there-the-ai-chatbot-comforting-chinas-lonely-millions-f4e5b057-b95d-4fa5-8aba-b9b1d6ac5ed3"
-    type: article
-    provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 41
-    images:
-      - url: "https://image-prod.iol.co.za/resize/610x61000/?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/ef3c70a9-d6f7-5207-a661-e9bd3952a445&operation=CROP&offset=0x0&resize=6048x4024"
-        width: 610
-        height: 406
-        isCached: true
   - title: "AI chatbot comforts China’s lonely millions"
     excerpt: "After a painful break-up from a cheating ex, Beijing-based human resources manager Melissa was introduced to someone new by a friend late last year. He replies to her messages at all hours of the day,"
     publishedDateTime: 2021-08-24T14:10:00Z
@@ -129,6 +115,20 @@ related:
         width: 1136
         height: 852
         isCached: true
+  - title: "‘Always there:’ the AI chatbot comforting China’s lonely millions"
+    excerpt: "After a painful break-up from a cheating ex, Beijing-based human resources manager Melissa was introduced to someone new by a friend late last year. He replies to her messages at all hours of the day,"
+    publishedDateTime: 2021-08-25T16:00:00Z
+    webUrl: "https://www.taipeitimes.com/News/feat/archives/2021/08/26/2003763239"
+    type: article
+    provider:
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 39
+    images:
+      - url: "https://www.taipeitimes.com/images/2021/08/26/P14-210826-main301.jpg"
+        width: 800
+        height: 532
+        isCached: true
   - title: "Artificial intelligence chatbots providing companionship to millions in China"
     excerpt: "Loneliness, once considered mostly a plight of the elderly, is impacting millions isolated by Covid - Click the link for more details."
     publishedDateTime: 2021-08-25T06:46:00Z
@@ -139,6 +139,6 @@ related:
       domain: i24news.tv
     quality: 16
 
-secured: "gSBP8LSgyzypridgcYeR3kKXNvrFBy0QIx+IuBkQcF0Jfn3D0lU2DFPqgxP+DSQtqWY/dZw7YFiip6Y7snEu9TCOHd2A62sY+JUgB5zk/QLT3aAMpaZAGadszdtzPZ6hEBIeVK3uY789nbMFY74irx+TQJuaRBRERNWSD8tuEsOkSBx8GP/2Tk0EDrMONo6/loZBHh39sEvh20tfB98g+xhVPVcSdyPKq7PDwpMtDNwkPjBMJSAg++Atr91st+UjQOizBz9R0JsAqjvbI62LWxdaFPPXjwtsSSoFXlo7ZLy34Tb+oa19ecBONy3hqJJYbeTxGLC802znEtXdtqKq2D+OWXnXdZuMxMi74yeDNk8=;MXKxOfzQri7s0YibDKNMzQ=="
+secured: "S386lszRFMUlgLGp+8cPAmMWkrYYG8qHDAR5qHYpF7H651SSK5lAnXYBknx7Msdah/H4g1G/15QiXwg9qeQrBeEDXlrdoR7DYSAilkUpdM5OuZach2FWohvyAdEo9+DqkI/ACgvsa4RnEUWEFJK/YamXsKOvDYw5IHdHUD/J1/M5u9E233as9OXbe8pFG4quN1wRCEQ+P8GpxRjd5/odMTBGEkGY+UsCP6lqu/2myeqpatdyg9mxn4aHKHUY9Tw5Ii37JaPOY+syXCg5/Af/bHtEqx5fnLAGjt/XkiYLqfRCwMQxlwalj7ampmPaF6t6JoCmxV6NBRhknsqQO/XHG5k/HRwJdCJfAdxk9uP91i/u4jTOwrLVP1IzSd+5YOpwuZKxSqKTudiAHWgzfqOIC8nlgczSQWqqipKLiSASVGq2117oOwtBz2C6vhy+O3J6xOyZ0kdYWLybx6RLjhIUBX2ZEFgNcKfkayPmIutTIdI+qYzPSzrCsl2i/skOg6OJBd1EvUWDVevxpPrBi6+DIw==;NIKkbi/T/XtJis9LDHXiOQ=="
 ---
 

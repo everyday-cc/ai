@@ -25,37 +25,44 @@ images:
     isCached: true
 
 related:
-  - title: "Argonne Deploying GPU-Dense Testbed Supercomputer"
-    excerpt: "If not for delays, the long-awaited Aurora supercomputer at Argonne National Lab would likely just be coming online. However, with Sapphire Rapids pushed"
-    publishedDateTime: 2021-08-24T12:29:00Z
-    webUrl: "https://www.nextplatform.com/2021/08/24/argonne-deploying-gpu-dense-testbed-supercomputer/"
-    ampWebUrl: "https://www.nextplatform.com/2021/08/24/argonne-deploying-gpu-dense-testbed-supercomputer/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/08/24/argonne-deploying-gpu-dense-testbed-supercomputer/amp/"
+  - title: "NVIDIA Crammed 2,240 GPUs Into Polaris Supercomputer To Power Massive AI Workloads"
+    excerpt: "The US Department of Energy's Argonne National Laboratory is much more fortunate, having procured a whopping 2,240 NVIDIA A100 Tensor Core GPUs (based on Ampere) for its Polaris supercomputer to \"supercharge researcher and discovery."
+    publishedDateTime: 2021-08-25T17:24:00Z
+    webUrl: "https://hothardware.com/news/nvidia-2240-gpus-polaris-supercomputer-ai-workloads"
+    ampWebUrl: "https://amp.hothardware.com/news/nvidia-2240-gpus-polaris-supercomputer-ai-workloads"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-2240-gpus-polaris-supercomputer-ai-workloads"
     type: article
     provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 59
+      name: HotHardware
+      domain: hothardware.com
+    quality: 68
     images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/nvidia-ampere-ga102-gpu-die-shot.jpg"
-        width: 704
-        height: 808
+      - url: "https://images.hothardware.com/contentimages/newsitem/56074/content/small_polaris_supercomputer.jpg"
+        width: 708
+        height: 400
         isCached: true
-  - title: "Argonne Deploying GPU-Dense Testbed Supercomputer"
-    excerpt: "If not for delays, the long-awaited Aurora supercomputer at Argonne National Lab would likely just be coming online. However, with Sapphire Rapids pushed"
-    publishedDateTime: 2021-08-25T12:35:00Z
-    webUrl: "https://www.nextplatform.com/2021/08/25/argonne-deploying-gpu-dense-testbed-supercomputer/"
-    ampWebUrl: "https://www.nextplatform.com/2021/08/25/argonne-deploying-gpu-dense-testbed-supercomputer/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/08/25/argonne-deploying-gpu-dense-testbed-supercomputer/amp/"
+  - title: "NVIDIA Turbocharges Extreme-Scale AI for Argonne National Laboratory’s Polaris Supercomputer"
+    excerpt: "The largest GPU-based supercomputer at the U.S. Department of Energy’ s Argonne National Laboratory will run on NVIDIA’ s accelerated computing platform, the company announced today.. “The era of exascale AI will enable scientific breakthroughs with massive scale to bring incredible benefits for society,"
+    publishedDateTime: 2021-08-25T11:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/nvidia-turbocharges-extreme-scale-ai-for-argonne-national-laboratorys-polaris"
     type: article
     provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 59
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 38
+  - title: "Nvidia-powered Polaris supercomputer to usher in a new era of ‘exascale’ AI"
+    excerpt: "The Polaris supercomputer (pictured) is said to be the DOE’s largest graphics processing unit-based machine so far. It’ll be hosted at the Argonne Leadership Computing Facility, where it will aid research and discovery with extreme scale for user’s algorithms and science,"
+    publishedDateTime: 2021-08-25T10:00:00Z
+    webUrl: "https://siliconangle.com/2021/08/25/nvidia-powered-polaris-supercomputer-usher-new-era-exascale-ai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
     images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/nvidia-ampere-ga102-gpu-die-shot.jpg"
-        width: 704
-        height: 808
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/Image-ACLF_Polaris_Rendering_1600x900_R1.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "eZEsxyqGtSdgvIrg1HFyn9s69vmgT1ot/JOpRVMojWvB91v6Hfpe2ESccWTp/nRHhvubmEkqkh8q8dDdtoD4FAmPV/TL+7Vz3CIYxq4IBoYcuySC49NIIDGP8AEH2yn8vUqWktqF9ox2cIF+JNKojTFlQm3mDncfgXycM3lH4LVZZqrp6BKIScInNyV/4UGiF8U/Rwzncw8uOf5iLEdB/grk0YvOagKfs/i+99y4r3fvgl3bYY94gsX268akRI3tf4z1plaB0kWzm+73C965Q46qqBYvOo6YM0uEnKwsGVMEb7iUs+kbIY6biU4/2pX3042Upl6FEokOcSOmfOMIVxZGWhloyPEu0pqZ8eMeLpoMwu4Z4wFsb+98ZASiN+3qG9xTTnEx6WLA4dBCQtek17Qb5OAjvMOEQgwx8J9E9V/YT9AkvSDh54iFFy6Yq9m84qjWZnZ/VQy3nRsVwOJ8NZpazgbejGBB6wsMqq/jRwhamhO7Dvz6qiTL224zqhSb6ncNSdNRWUVeyzr1jZ1gPg==;wO4a4TNoKsh7cf8blUrsxQ=="

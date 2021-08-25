@@ -59,6 +59,20 @@ related:
         width: 1500
         height: 1000
         isCached: true
+  - title: "Waymo expands to San Francisco with public self-driving test"
+    excerpt: "Waymo is finally thinking about expanding. The Alphabet self-driving car division has been running an impressive self-driving ride-hailing service for almost a year now, but only in a small suburb outside of Phoenix,"
+    publishedDateTime: 2021-08-25T16:55:00Z
+    webUrl: "https://arstechnica.com/gadgets/2021/08/waymo-expands-to-san-francisco-with-public-self-driving-test/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 69
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/08/SF-760x380.png"
+        width: 760
+        height: 380
+        isCached: true
   - title: "Google self-driving spinoff Waymo begins testing with public in San Francisco"
     excerpt: "Alphabet Inc's Waymo has started taking a few San Franciscans on rides in its self-driving sport utility vehicles and hopes to open the robotaxis to anyone in the city in less than the three years it took to launch in its only other market."
     publishedDateTime: 2021-08-24T23:09:00Z
@@ -152,6 +166,6 @@ related:
       domain: globalspec.com
     quality: 19
 
-secured: "sVvcz0frzO1/4fp/vXlnZ4z/iCSZDQhp9ShsC00XeksVphRAeJM39I1YuZsX0UMeNnySd1jGYwc2FMC/ko+jORXf7QMSv2+KOo2aVarlvJkLDGWn3yaR16//qeoGH1Jk694U9P2P9BhQgNNaziQ7WfzgfrQblPS8FnL3RXGWvxtUu2QyQzFRrGxliOWORIyg8BaL7GOkEaMfNi3ym3KdzEliupoBtU4r0bemNZHCE/ggNPz/+D9lmmrtcuQqaPSKIWHEvPjkJX1v2od7ZRvcUOBczMm/NCkjibT9QteLtkYC8hNnItI/dfjuhW8MvtQLdxt500l/vDp/VCwxsEG4n1sOwQnDRgissEg/1j44N3Y=;mqK1D1/uk9mljQFcVt4rqQ=="
+secured: "Tru2YH/sEUQJqlJshkJv8yvYzaHSViPFwSCc/NSGwy69ayYrHLGoWMa+nHQrJihJqdyr8mOKas4LOt4K7kMegy6gL74TQfbiDkWvxAMXed33jEGxszbjk5IYdRM2ZJhs9aaPQRg+efcm2lyoKlcI4uJ7sWyYEGHpQRd/DNyslaxj86pfZhNsYAnC1BiJpoTEvJXTdul3TR9bLdMoLqsrm8/HGuaCvBfQqcSZ5Zlz3ghk2pd+/qFdQy+CtUpl2Sypl65usfjq/LunSB0hqsCvuqjfXp8KcmqsOXM2j3sXUK7Ktooa1MnzhVoO0FStF0m9fP3N+l2/TMu3iKxOk7cNhb+X+M2hnuq10dVAf8Ifv57NSmw1vSkBeBJx0epIO89NNUH0IvrrKJVJ+kMphBJlSfo8uTHCo5uubXinXptZaExoiJif02HUUiEKjdn+0mI9yI1iaQXO9aEuRfkuhsmCxrReIoQckU5ah3WZlryrdAOlvgph7+r+pYl5eDXlBCwrlC0TtM9rmrsg9FczHXFMDQ==;WCxQPO5Fk7e59XhIPymPxQ=="
 ---
 

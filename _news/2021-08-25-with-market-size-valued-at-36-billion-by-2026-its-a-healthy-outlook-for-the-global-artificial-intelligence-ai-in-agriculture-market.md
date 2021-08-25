@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Modern Warfare Market Evolving Technology and Growth Outlook 2021-2026"
-    excerpt: "MarketInsightsReports recently published a research report called Artificial Intelligence AI in Modern Warfare Market Primary and secondary research methods were used to construct this report The Analysis was derived using history and predictions The report includes an in depth study"
-    publishedDateTime: 2021-08-24T13:01:00Z
-    webUrl: "https://www.openpr.com/news/2365480/artificial-intelligence-ai-in-modern-warfare-market-evolving"
-    ampWebUrl: "https://www.openpr.com/amp/2365480/artificial-intelligence-ai-in-modern-warfare-market-evolving"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2365480/artificial-intelligence-ai-in-modern-warfare-market-evolving"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 58
-    images:
-      - url: "https://cdn.openpr.com/U/8/U824571901_g.jpg"
-        width: 800
-        height: 449
-        isCached: true
   - title: "The Role of Artificial Intelligence (AI) in the Global Agriculture Market 2021 - ResearchAndMarkets.com"
     excerpt: "Market in Agriculture Industry Market 2021-2025” report has been added to ResearchAndMarkets.com’s offering. The artificial intelligence (AI) market in the agriculture industry is poised to grow by $458."
     publishedDateTime: 2021-08-23T15:16:00Z
@@ -55,17 +39,34 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Aerospace Artificial Intelligence Market size, share, growth report explores industry trends & analysis 2026"
-    excerpt: "This research report by Report Ocean identifies consumer needs and aims to satisfy them more efficiently effectively and accurately than the competition This report about the Aerospace Artificial Intelligence Market is exceptional because it is easy to understand contains excellent"
-    publishedDateTime: 2021-08-25T06:23:00Z
-    webUrl: "https://www.openpr.com/news/2366382/aerospace-artificial-intelligence-market-size-share-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2366382/aerospace-artificial-intelligence-market-size-share-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2366382/aerospace-artificial-intelligence-market-size-share-growth"
+  - title: "United States Automotive Voice Recognition Systems Market Report 2021 - Forecast to 2026 - ResearchAndMarkets.com"
+    excerpt: "The “Automotive Voice Recognition Systems Market Research Report by Deployment, by State - United States Forecast to 2026 - Cumulative Impact of COVID-19” report has been added to ResearchAndMarkets.com’s offering."
+    publishedDateTime: 2021-08-24T14:32:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-united-states-voice-recognition-020d4caabfe8456fbe7b0856bbb2bf8f"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 18
+      name: Associated Press
+      domain: apnews.com
+    quality: 3
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Global Federated Learning Market Research Report 2021: Leveraging Open Source Tools to Accelerate Technology Development across Organizations and Regi"
+    excerpt: "New Approach to Building AI Models\" report has been added to ResearchAndMarkets.com's offering. Federated learning is a distributed ML architecture that enables a global model to be trained using decentralized data."
+    publishedDateTime: 2021-08-23T14:23:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=519914"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "ONCgBFFcQOxJdJfOLXan/L++6akpB/m7e/7CHa7hUaRhgXyhY33I8r7rIvdXjTEp0cCodC323Kb0pelrDolXDHNdja7M7KEJPKGmiLUW5x75+aZJo0zUNssChLV7udXdJSt7ufhkqkFtHUg//p0dL0f/auFB7r6gg2EDEqcd9O8nwHD9ABoLP17yFkKE4HcbGvwfRIXjUju9fwYYm6aoqUqAo2FLD24hPjGPZmkZIlKQtq0NA4mpDsXLyxnQjglBrlLNWrPBBFxyrtcemlBhHrboziynUIua8ZqkOmBqI08BnIJbU/CJ2gUvKvNLlkh3HamDa5V3X7RgZkw1vcvZfhy+U4LewgSK8rJFgffBJRw=;/IoNFXFmxkrXjPxivQEvvw=="
 ---

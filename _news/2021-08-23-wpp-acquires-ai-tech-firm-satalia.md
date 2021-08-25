@@ -9,7 +9,7 @@ ampWebUrl: "https://www.exchange4media.com/amp/announcements-news/wpp-acquires-a
 cdnAmpWebUrl: "https://www-exchange4media-com.cdn.ampproject.org/c/s/www.exchange4media.com/amp/announcements-news/wpp-acquires-ai-tech-firm-satalia-115180.html"
 type: article
 quality: 59
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://bdaily.co.uk/images/uploads/Yd1iOp5VdToWzLaqtAmpnnGyYqGNIRwcS3LZj3su.jpeg?w=940&h=430&fm=jpg&fit=crop-36-2&s=a5dc5d2d0486f936cb6a607ac0c09053"
         width: 940
         height: 430
+        isCached: true
+  - title: "WPP Acquires AI Specialist Satalia, Aligns It With WT Commerce"
+    excerpt: "AI ethics, partnerships, talent and products. Satalia employs more than 80 people across multiple markets in Europe and will become part of Wunderman Thompson Commerce. It will also act as a hub of AI expertise for all WPP agencies. The UK-based company ..."
+    publishedDateTime: 2021-08-23T04:00:00Z
+    webUrl: "https://www.mediapost.com/publications/article/366177/wpp-acquires-ai-specialist-satalia-aligns-it-with.html"
+    type: article
+    provider:
+      name: MediaPost
+      domain: mediapost.com
+    quality: 39
+    images:
+      - url: "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2021/08/23/stalia-pr_ljicWrQ.jpg"
+        width: 600
+        height: 375
         isCached: true
   - title: "WPP acquires AI technology company Satalia"
     excerpt: "The latest acquisition of Satalia is aligned with WPP’s accelerated growth strategy and focused M&A approach and more."

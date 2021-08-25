@@ -54,6 +54,20 @@ related:
         width: 1500
         height: 500
         isCached: true
+  - title: "Space – Intriguing and Inventive Robot Designs that prove artificial intelligence is here to stay + make the world a better place!"
+    excerpt: "Artificial Intelligence has catapulted in recent years, and the advancements being made in this field make me feel as if it won’t be long before we have robots walking amongst us all the time! There was a point in time when the only forms of robots that ..."
+    publishedDateTime: 2021-08-25T01:52:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_space/space-intriguing-and-inventive-robot-designs-that-prove-artificial-intelligence-is-here-to-stay-make-the-world-a-better-place/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 24
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/robots_AI_hero.jpg"
+        width: 1280
+        height: 850
+        isCached: true
 
 secured: "XDSzPYNwAX0RQikqk7fU2Z/BhjZ0LQ05T+st/ItPOlwPikXK+LrGa8ZEFbH7L4z4WRwtRXIpcDWRKjQ6vOEMq+PdInXZjB15W/JX6ulnNoNzZWLUOY3Rnl3Vl3yrYTJRdFOQs3TETb2Ci50XYYlS1yuLnecaT1KmidyY1NmULaeX5DX/bPJj50viFgoXqHx0xly0aS98dgUNa7HueFvEz3aiYrATeUVvJNnopfxjP9QCN1CVEHyAzYnG++zN5xdkBWItdUW7zb31wxDvxPccp+sDn/oHOoWwMaTypgm83oL+6gUEwpb+Wu6g9ERLjoq2F+2g+O5YyvwuxAKrXrVp3ElMs51dnXF0HNT3DkuMrg4=;t/6S27rqDVOB8qybwEoZFQ=="
 ---

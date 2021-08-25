@@ -77,6 +77,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Waymo expands to San Francisco with public self-driving test"
+    excerpt: "Waymo is finally thinking about expanding. The Alphabet self-driving car division has been running an impressive self-driving ride-hailing service for almost a year now, but only in a small suburb outside of Phoenix,"
+    publishedDateTime: 2021-08-25T16:55:00Z
+    webUrl: "https://arstechnica.com/gadgets/2021/08/waymo-expands-to-san-francisco-with-public-self-driving-test/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 69
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/08/SF-760x380.png"
+        width: 760
+        height: 380
+        isCached: true
   - title: "San Francisco residents test Waymo's self-driving car"
     excerpt: "Waymo announced Tuesday that some San Francisco residents will be able to test some of their self-driving cars in its second market."
     publishedDateTime: 2021-08-24T18:12:00Z

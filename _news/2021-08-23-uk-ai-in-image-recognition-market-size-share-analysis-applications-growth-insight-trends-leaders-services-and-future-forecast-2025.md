@@ -21,67 +21,35 @@ topics:
   - Computer Vision
 
 related:
-  - title: "Artificial Intelligence in the Education Sector Market Size, Key Players Analysis and Forecast To 2028"
-    excerpt: "The new report titled Global Artificial Intelligence in the Education Sector Market published by Emergen Research is a vivid presentation of the global Artificial Intelligence in the Education Sector market with utmost focus on the forecast market size share value"
-    publishedDateTime: 2021-08-23T13:05:00Z
-    webUrl: "https://www.openpr.com/news/2363772/artificial-intelligence-in-the-education-sector-market-size"
-    ampWebUrl: "https://www.openpr.com/amp/2363772/artificial-intelligence-in-the-education-sector-market-size"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2363772/artificial-intelligence-in-the-education-sector-market-size"
+  - title: "Artificial Intelligence (AI) in Retail Market Growth, Share, Size, Trends, Top Companies and Forecast By 2027"
+    excerpt: "Artificial Intelligence (AI) in Retail Market forecast by regions, type and application, with sales and revenue, from 2021 to 2027. Artificial Intelligence (AI) in Retail Market Share, COVID-19 impact ,"
+    publishedDateTime: 2021-08-23T19:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-growth-share-size-trends-top-companies-and-forecast-by-2027-2021-08-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Modern Warfare Market Evolving Technology and Growth Outlook 2021-2026"
+    excerpt: "MarketInsightsReports recently published a research report called Artificial Intelligence AI in Modern Warfare Market Primary and secondary research methods were used to construct this report The Analysis was derived using history and predictions The report includes an in depth study"
+    publishedDateTime: 2021-08-24T13:01:00Z
+    webUrl: "https://www.openpr.com/news/2365480/artificial-intelligence-ai-in-modern-warfare-market-evolving"
+    ampWebUrl: "https://www.openpr.com/amp/2365480/artificial-intelligence-ai-in-modern-warfare-market-evolving"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2365480/artificial-intelligence-ai-in-modern-warfare-market-evolving"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
     quality: 58
     images:
-      - url: "https://cdn.openpr.com/U/8/U823931376_g.jpg"
-        width: 700
-        height: 393
-        isCached: true
-  - title: "AI Enabled E-Commerce Solutions Market - Forecast to 2026"
-    excerpt: "According to a new market research report published by Global Market Estimates the AI Enabled E Commerce Solutions Market will grow with a CAGR value of around 40 percent over the forecast period Browse TOC on Global AI Enabled E"
-    publishedDateTime: 2021-08-24T09:28:00Z
-    webUrl: "https://www.openpr.com/news/2364893/ai-enabled-e-commerce-solutions-market-forecast-to-2026"
-    ampWebUrl: "https://www.openpr.com/amp/2364893/ai-enabled-e-commerce-solutions-market-forecast-to-2026"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2364893/ai-enabled-e-commerce-solutions-market-forecast-to-2026"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 57
-    images:
-      - url: "https://cdn.openpr.com/U/8/U824327631_g.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "GPU as a Service Market - Growth Analysis, Industry Size, Market Opportunities and Future Estimations"
-    excerpt: "Global GPU as a service market to register a double-digit CAGR over 2019-2025 Robust advancements in technology have led to a rise in the deployment of IT-based solutions, impelling GPU as a service market size."
-    publishedDateTime: 2021-08-23T09:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/gpu-as-a-service-market---growth-analysis-industry-size-market-opportunities-and-future-estimations-2021-08-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Computer Vision System Market Size, Product Launch, Major Companies, Revenue Analysis, Till 2028"
-    excerpt: "The Global Computer Vision System market is forecast to reach USD 25 69 Billion by 2028 according to a new report by The Computer Vision System market is witnessing continuous growth in the recent year that has"
-    publishedDateTime: 2021-08-24T15:29:00Z
-    webUrl: "https://www.openpr.com/news/2365987/computer-vision-system-market-size-product-launch-major"
-    ampWebUrl: "https://www.openpr.com/amp/2365987/computer-vision-system-market-size-product-launch-major"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2365987/computer-vision-system-market-size-product-launch-major"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 46
-    images:
-      - url: "https://cdn.openpr.com/U/8/U824532333_g.jpg"
-        width: 750
-        height: 350
+      - url: "https://cdn.openpr.com/U/8/U824571901_g.jpg"
+        width: 800
+        height: 449
         isCached: true
   - title: "Computer Vision Software Market 2021-2030 By Strategic Imperatives for Success and Growth Analysis"
     excerpt: "A new informative report titled as Global Computer Vision Software Market Report 2021 by Key Players Types Applications Countries Market Size Forecast to 2030 has recently published by Absolute Markets Insights to its huge database which helps to shape the"
@@ -99,22 +67,6 @@ related:
         width: 800
         height: 488
         isCached: true
-  - title: "Voice Assistant Shopping Market - Forecast to 2026"
-    excerpt: "According to a new market research report published by Global Market Estimates the Voice Assistant Shopping Market will grow with a CAGR value of around 50 percent over the forecast period Browse TOC on Global Voice Assistant Shopping Market Forecast"
-    publishedDateTime: 2021-08-24T07:11:00Z
-    webUrl: "https://www.openpr.com/news/2364652/voice-assistant-shopping-market-forecast-to-2026"
-    ampWebUrl: "https://www.openpr.com/amp/2364652/voice-assistant-shopping-market-forecast-to-2026"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2364652/voice-assistant-shopping-market-forecast-to-2026"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 44
-    images:
-      - url: "https://cdn.openpr.com/U/8/U824425762_g.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Artificial Intelligence (AI) in Food and Beverage Market Size 2021 Demand, Global Trend, News, Business Growth, Top Key Players"
     excerpt: "The new report titled Global Artificial Intelligence AI in Food and Beverage Market published by Emergen Research is a vivid presentation of the global Artificial Intelligence AI in Food and Beverage market with utmost focus on the forecast market size"
     publishedDateTime: 2021-08-25T12:51:00Z
@@ -131,38 +83,31 @@ related:
         width: 700
         height: 393
         isCached: true
-  - title: "Smart Education and Learning Market Size, Key Player Revenue, SWOT, PEST & Porter’s Analysis For 2020–2027"
-    excerpt: "The global Smart Education And Learning Market is forecast to reach USD 1 047 75 Billion by 2026 according to a new report by Smart education can also be summed up as the application of smart devices"
-    publishedDateTime: 2021-08-23T15:23:00Z
-    webUrl: "https://www.openpr.com/news/2364222/smart-education-and-learning-market-size-key-player-revenue"
-    ampWebUrl: "https://www.openpr.com/amp/2364222/smart-education-and-learning-market-size-key-player-revenue"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2364222/smart-education-and-learning-market-size-key-player-revenue"
+  - title: "Valued to be $9.3 Billion by 2026, Artificial Intelligence (AI) in Accounting Slated for Robust Growth Worldwide"
+    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Accounting - Global Market Trajectory & Analytics\"."
+    publishedDateTime: 2021-08-25T16:34:00Z
+    webUrl: "https://www.lelezard.com/en/news-19968265.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 33
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
+        width: 421
+        height: 421
+        isCached: true
+  - title: "Artificial Intelligence Market Share Forecast to Witness Considerable Growth from 2020 To 2030"
+    excerpt: "Artificial Intelligence Market Introduction Transparency Market Research delivers key insights on the global artificial intelligence market In terms of revenue the global artificial intelligence market is estimated to expand at a CAGR of 29 during the forecast period owing to"
+    publishedDateTime: 2021-08-23T14:41:00Z
+    webUrl: "https://www.openpr.com/news/2364154/artificial-intelligence-market-share-forecast-to-witness"
+    ampWebUrl: "https://www.openpr.com/amp/2364154/artificial-intelligence-market-share-forecast-to-witness"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2364154/artificial-intelligence-market-share-forecast-to-witness"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 43
-    images:
-      - url: "https://cdn.openpr.com/U/8/U823660206_g.jpg"
-        width: 750
-        height: 350
-        isCached: true
-  - title: "AI Drug Discovery Market Size & Share, 2021 Movements by Latest Trend Analysis, Progression Status, Revenue Expectation to 2026, Research Report"
-    excerpt: "AI Drug Discovery Market is fueled by various factors, according to a detailed assessment explained in the report. This study shows how important in-depth analysis should be, and how it greatly affects the quality of information provided to the readers."
-    publishedDateTime: 2021-08-21T03:36:00Z
-    webUrl: "https://manometcurrent.com/ai-drug-discovery-market-size-share-2021-movements-by-latest-trend-analysis-progression-status-revenue-expectation-to-2026-research-report/"
-    ampWebUrl: "https://manometcurrent.com/ai-drug-discovery-market-size-share-2021-movements-by-latest-trend-analysis-progression-status-revenue-expectation-to-2026-research-report/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/ai-drug-discovery-market-size-share-2021-movements-by-latest-trend-analysis-progression-status-revenue-expectation-to-2026-research-report/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 20
-    images:
-      - url: "https://i.ibb.co/YtnWRfq/Researchmoz-493.png"
-        width: 612
-        height: 408
-        isCached: true
+    quality: 29
   - title: "US AI in Image Recognition Market Analysis By Industry Size, Share, Revenue Growth and Demand Forecast To 2025"
     excerpt: "The US AI in image recognition market is estimated to grow significantly at a CAGR of more than 28 during the forecast period The factors that are contributing significantly to the market growth investments in R D high expenditure on"
     publishedDateTime: 2021-08-23T07:51:00Z
@@ -174,6 +119,17 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 19
+  - title: "Aerospace Artificial Intelligence Market size, share, growth report explores industry trends & analysis 2026"
+    excerpt: "This research report by Report Ocean identifies consumer needs and aims to satisfy them more efficiently effectively and accurately than the competition This report about the Aerospace Artificial Intelligence Market is exceptional because it is easy to understand contains excellent"
+    publishedDateTime: 2021-08-25T06:23:00Z
+    webUrl: "https://www.openpr.com/news/2366382/aerospace-artificial-intelligence-market-size-share-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2366382/aerospace-artificial-intelligence-market-size-share-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2366382/aerospace-artificial-intelligence-market-size-share-growth"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 18
   - title: "Deep Learning in Manufacturing Market 2021 Growth Analysis, Opportunities, Trends, Developments and Forecast to 2027 - NVIDIA (US), Intel (US)"
     excerpt: "The Global Deep Learning in Manufacturing market report from Market Intelligence Data aims to facilitate in depth information of the marketplace s definition potential and scope The document is prepared after enormous studies and analysis through experts It consists of"
     publishedDateTime: 2021-08-25T06:45:00Z

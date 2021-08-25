@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/08/22/for-small-busines
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/08/22/for-small-businesses-mastering-googles-ai-is-a-better-investment-than-paid-adsheres-why/amp/"
 type: article
 quality: 76
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://musically.com/wp-content/uploads/2021/08/feed.jpg"
         width: 1500
         height: 500
+        isCached: true
+  - title: "Space – Intriguing and Inventive Robot Designs that prove artificial intelligence is here to stay + make the world a better place!"
+    excerpt: "Artificial Intelligence has catapulted in recent years, and the advancements being made in this field make me feel as if it won’t be long before we have robots walking amongst us all the time! There was a point in time when the only forms of robots that ..."
+    publishedDateTime: 2021-08-25T01:52:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_space/space-intriguing-and-inventive-robot-designs-that-prove-artificial-intelligence-is-here-to-stay-make-the-world-a-better-place/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 24
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/robots_AI_hero.jpg"
+        width: 1280
+        height: 850
         isCached: true
 
 secured: "Cunr0TapsZqdkycVQjuNn6fMb27gjhq3XohyNfhLd4HZyK/DAUzf+acqseVFTTeXkL033q7g3kFdIIOgvLPf2vbzMcP7IvXTgxww9Oe0+ZcSwvfTupAJtXn4pVBabWGhwlBTl/Og2M9yEbTpHUvBfbxn7kaqgKf0yHCsNNvGAmqxfwtLtLg/2zRjNTHTyN1DmIBXhNG5AHLxstQYJEAyXAlLiU+BdeYL0YC0HPLl/XpdU4wlWLqlLu080yd2epOUP+IN2+S+9LZRu1mE5oBd7YjFq/ZbhsC9MEtE29OU/cX6fOv+x29NJ7MHYJyngTCeUdbIzPA+oZsMP14y6An0KPeT9zrghbG2QZVUsUn/8nl+IRq3X6Mhb/+rz3gJge4XMD2v69XfeiuzrF9lV5Fkm11obhFYY/m+UuFpgSiK0cVcQOY3ykNN9xExqaq5TEGFgccvVIihJfp95BRY824fp38tAdD8iCedmvvmMArCp1N0rTNGixFDQ9NCZCZc1cxPzjvYe/51mD5MFke31mFAqg==;ExlXvyjXBZleQhQOWLZDlA=="

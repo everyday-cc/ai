@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sandiegouniontribune.com/business/technology/story/2021-
 cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/technology/story/2021-08-24/rare-defense-unicorn-san-diego-ai-startup-corrals-210m-for-drone-technology-used-by-military?_amp=true"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "San Diego AI Startup Nets $210M for Drones Used by Military"
+    excerpt: "San Diego's Shield AI, an artificial intelligence startup that powers small military surveillance drones, said Tuesday that it has raised $210 million in a late-stage round of venture capital funding."
+    publishedDateTime: 2021-08-25T17:10:00Z
+    webUrl: "https://www.govtech.com/news/san-diego-ai-startup-nets-210m-for-drones-used-by-military"
+    ampWebUrl: "https://www.govtech.com/news/san-diego-ai-startup-nets-210m-for-drones-used-by-military?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/news/san-diego-ai-startup-nets-210m-for-drones-used-by-military?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 57
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/b599dcc/2147483647/strip/true/crop/940x490+0+70/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F79%2Fae%2F50de67582c1be9152bf3e423c6b6%2Fdrones.jpg"
+        width: 840
+        height: 438
+        isCached: true
   - title: "Shield AI Finds $210M"
     excerpt: "San Diego-based Shield AI, a startup developing AI and self driving technologies for aircraft, has raised $210M in a Series D investment round, according to the company. The funding was led by Disruptive,"
     publishedDateTime: 2021-08-25T13:46:00Z
