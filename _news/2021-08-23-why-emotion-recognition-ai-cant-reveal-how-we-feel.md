@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/emotion-recognition-ai-cant-determine-
 webUrl: "https://thenextweb.com/news/emotion-recognition-ai-cant-determine-how-people-feel"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://www.ept.ca/wp-content/uploads/2020/08/EPT_Aug2021_ISSUU_COV-ml-300x400.jpg"
         width: 300
         height: 400
+        isCached: true
+  - title: "New Study from StrategyR Highlights a $137.2 Billion Global Market for Emotion Detection and Recognition by 2026"
+    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Emotion Detection and Recognition - Global Market Trajectory & Analytics\"."
+    publishedDateTime: 2021-08-25T15:09:00Z
+    webUrl: "https://www.lelezard.com/en/news-19968125.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 3
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "+0yr1YKtxV1zMoUmuA+j9x2Mj+Umyr4nuwqBp3nWf4qMpUbQSTX1BPtTQm7G2b1buvvS6St8OzE7woesc6AWf/1N0/WBx63JxdS82nf/5M8J0j6j5puCkI6Vv/d0KKfJxZGBUoU7rpem/cg6UrJCDZ66VcsHDGh+Wwd+t1gNbcxQV0oV+moEfAKlD+9LlMnxO5L0JnDxi8LTSGSQpCViw2gmEjMG2gDhjgUf9IWoDlYALXWlU2A+Bm6ZOlqwkkLjNir6Uqab5m4TxeG020EeQ/7wSGGfNpyNU4cfIuFSnf/5S8FOzKIImmKFm9naoCwQzvxBO/YcnGu6cwugksqtynHQuIWW7/FmkPCdRDQsnz9v6hMtehHW4JeeSZ6hUofakEiwHg/tUjUv8gWqN3oTqku8NIjLEfHYI0qfLXmvSqHfLq1yqecNSzIX7bq5zoyiXuGl47/iuCgP5VDIMkdnTVPWyI4fyp5hffEicVnsZuCC7+gQFtVMudD8c6ORWwGpORS/jDl2QMADUnBKSLKgNA==;30QfXeo2IvwjTJyJA2PsTQ=="

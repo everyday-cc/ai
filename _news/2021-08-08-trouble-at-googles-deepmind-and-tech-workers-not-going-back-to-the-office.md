@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Trouble at Google’s DeepMind and tech workers not going back to the office"
-excerpt: "In this week's edition of the Insider Tech newsletter we look at an investigation of a Google VP, tech workers saying no to the office, and more."
-publishedDateTime: 2021-08-08T13:22:00Z
-originalUrl: "https://businessinsider.mx/trouble-at-googles-deepmind-tech-workers-refuse-the-office-2021-8/"
-webUrl: "https://businessinsider.mx/trouble-at-googles-deepmind-tech-workers-refuse-the-office-2021-8/"
+title: "Trouble at Google's DeepMind and tech workers not going back to the office"
+excerpt: "When startup Workato reopened its Mountain View office on June 15, no one showed up, even though workers had overwhelmingly said in a survey they wanted to come back. The company had to create ..."
+publishedDateTime: 2021-08-07T21:29:00Z
+originalUrl: "https://www.businessinsider.in/tech/news/trouble-at-googles-deepmind-and-tech-workers-not-going-back-to-the-office/articleshow/85131782.cms"
+webUrl: "https://www.businessinsider.in/tech/news/trouble-at-googles-deepmind-and-tech-workers-not-going-back-to-the-office/articleshow/85131782.cms"
+ampWebUrl: "https://www.businessinsider.in/tech/news/trouble-at-googles-deepmind-and-tech-workers-not-going-back-to-the-office/amp_articleshow/85131782.cms"
+cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/trouble-at-googles-deepmind-and-tech-workers-not-going-back-to-the-office/amp_articleshow/85131782.cms"
 type: article
 
 provider:
-  name: businessinsider
-  domain: businessinsider.mx
+  name: Business Insider India
+  domain: businessinsider.in
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://i.insider.com/610c60112a24d0001861fc02?format=jpeg"
-    width: 1280
-    height: 640
+  - url: "https://www.businessinsider.in/photo/85131648/Master.jpg"
+    width: 1588
+    height: 793
     isCached: true
 
-secured: "kut7208BAymV6doWzX1Hq5ucmd932cjFYIX9wT1tSTkY6lz92pqlA5ESefvRWAE6zKSHiWkvJttlee97ldYghBkCUgv/+d9yZ8069/vEUfig055SFIXgQr5TGHeIC5/LnzR5Uzwl9SH5n6wgrmzwlOcr0eFLPuA9cpBw9fuHdRY7x9mW09aOVN0Gz/AWgMr2eq42CNIUaKQvV7eCIANsIsQNymL2AQ/i3xlOzuAYBBiQsR3j1m043ZvKTOgJjddQvi7urpMNdCcGgDSzkOT/XLotKnpAfcWBzvwBF3KHzlaOs+eAhVvr8m7Lu6NZZq8XKHunTo7NDCQ39eXGSHBgoXR7z6SIjX4/8thgHvjN/M9VUT/qU+reZ8dXsWIYmQURzdhPRDzW/DBOaMVbsQg5HEs3hz3tcOR06m4TlGU69p4NEfWy/oqk7uOEP1GvhVMEsr1S16N4MtZUGlNGBiBMdU0gXXlmh16VQq1SM+Tj/13+s+5PxM6Sb8CGH6GL10RfhnFGfB2ZKmJL602v6YBrqw==;jC8KK8Ee4QEifrfJjWVLew=="
+secured: "G8UF9G8fU+thQ4QhRNgidu+YXRV3jFmuOj4hMx6fx6PjWg3P1FwxeAWcB9s2rJQbPXjekMVXJf28JSc/I1GkT4G18ta7dzf4KcKmasvKdxVyfeTzd8KkKykuDDUywFwKCGQ6h6wRGCaoGpGmMLHnkqXzsXxtIh2YXG6z9UUXPHDeeH7VUM12VL18suNVRSrmV5s9wE0LRFnV0ehurK7aGkziOIZJUPSnxbK2yN/5SQOw3v/CR75uAnBEDzwsKk+UAve9zYr48uLCFe7qOuj/PWse6T7ZgglNKHSQCyR3v2umRBT9YYDc+FeS8R8uDXy62W573cXqZwBrRUgD9pvIxIHsTGJ0/FOD9uDMK+8VwUM=;5yp1r2scpd0cCHvSpuR/0g=="
 ---
 

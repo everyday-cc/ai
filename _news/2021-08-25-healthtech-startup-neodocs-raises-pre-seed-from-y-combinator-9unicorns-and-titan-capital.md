@@ -47,22 +47,6 @@ related:
         height: 338
         isCached: true
   - title: "Senators question DOJ funding for AI-powered policing tech"
-    excerpt: "Some Capitol Hill Democrats and civil rights advocates are concerned about how police and prosecutors increasingly use algorithm-powered technologies that may amplify racial bias"
-    publishedDateTime: 2021-08-20T22:50:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/senators-question-doj-funding-ai-powered-policing-tech-79565344"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/senators-question-doj-funding-ai-powered-policing-tech-79565344"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/senators-question-doj-funding-ai-powered-policing-tech-79565344"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 57
-    images:
-      - url: "https://s.abcnews.com/images/US/210723_vod_75yroldtasedCO_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Senators question DOJ funding for AI-powered policing tech"
     excerpt: "Some Capitol Hill Democrats and civil rights advocates are concerned about how police and prosecutors increasingly use algorithm-powered technologies that may amplify racial bias."
     publishedDateTime: 2021-08-21T22:24:00Z
     webUrl: "https://www.mercedsunstar.com/news/business/article253638763.html"

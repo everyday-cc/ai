@@ -43,20 +43,6 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "The Full Nerd ep. 188: Intel's 12th-gen Alder Lake and Arc GPU"
-    excerpt: "You can read more about Alder Lake in Mark Hachman's story. The Full Nerd gang also talks about Intel's new Arc GPU, which breaks cover with hardware ray tracing support and AI-based upsampling to compete with Nvidia's DLSS 2.0. For more details ..."
-    publishedDateTime: 2021-08-20T21:53:00Z
-    webUrl: "https://www.pcworld.com/article/3630515/the-full-nerd-ep-188-intels-12th-gen-alder-lake-and-arc-gpu.html"
-    type: article
-    provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 69
-    images:
-      - url: "https://images.idgesg.net/images/article/2021/08/tfn21_188_tfnep188_v1-100900097-large.3x2.jpg?auto=webp"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Intel is building up its Xe-HPG GPU drivers to take on AMD and Nvidia at their own game"
     excerpt: "After Intel announced its upcoming Xe-HPG discrete GPUs, now branded Arc, updates have been coming in thick and fast. The latest swathe, outlined in a recent Intel Medium roundup post, details some juicy developments to its 'graphics story,"
     publishedDateTime: 2021-08-25T11:02:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/tiriasresearch/2021/08/24/esperanto-d
 webUrl: "https://www.forbes.com/sites/tiriasresearch/2021/08/24/esperanto-delivers-massive-ai-processing-with-less-than-20w-for-data-center-inference-workloads/"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 435
     height: 353
     isCached: true
+
+related:
+  - title: "Esperanto Technologies Unveils Energy-Efficient RISC-V-Based Machine Learning Accelerator Chip at Hot Chips 33 Conference"
+    excerpt: "Esperanto’s ML inference accelerator features over a thousand RISC-V custom processor cores for industry-leading performance per watt."
+    publishedDateTime: 2021-08-24T19:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210824005243/en/Esperanto-Technologies-Unveils-Energy-Efficient-RISC-V-Based-Machine-Learning-Accelerator-Chip-at-Hot-Chips-33-Conference"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 11
 
 secured: "y8/cwM3hao5ry4SMvaTGB7dKWcohacED7+LwwmTnF5HD8Pq7TyflH6ZLBBSsoSSpHrKsfjUJ0rMqQLf84u1U0/2Tyfm+7Vt1QAIXyEackDwNGQfSUgP1KgxWw9vYWGI8PG2B2zeyptdK7HSnJaaNmg+ck+kHTwSed1y6eARGqI/1WZ0WX6k3dkx7vbSSCvy7CMM9yXWztbe+sfXAuLAV088oSTgmX8VusBs51x5/4Rxp3Axs5TZozAMD/AuRcqoG9llPZW9IFhIE7G0uk4D5n5c4cfqacMPx072RCDL5uxuU4iuCuEEOv5K2L5ItFteBXiDvzWHfSFIg/c8/CV/tPyphUEfcsuGCHm280iUQl1snHw6vooG19/5wdma/ad38OLafK7NkCwR8gLTW1gwtmx4ofdPwzZ6Q9SYtuhkPbJg4EQo1ti4p33OcQGGDYaUQeW3le4pahVzF8J9bF2+f0MZInhCBy6chcZyCKhcMtJee4eRSjuuB3NpMVSo8dSb2gVCIyT0eEBSNiFmnjVDvmg==;jiBshf/fhmGWKnbocrUhxQ=="
 ---

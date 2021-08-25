@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dqindia.com/agritech-robotics-startup-tartansense-raises
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/agritech-robotics-startup-tartansense-raises-5mn-series-round/amp/"
 type: article
 quality: 89
-heat: 179
-published: true
+heat: -1
+published: false
 
 provider:
   name: Dataquest
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Agritech Robotics Startup TartanSense Raises $5 Mn In Series A Round"
+    excerpt: "The company builds small agricultural robots, equipped with AI-assisted computer vision, to help small farms reduce their expenditures and improve their incomes"
+    publishedDateTime: 2021-08-25T10:07:00Z
+    webUrl: "https://www.entrepreneur.com/article/381428"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/381428"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/381428"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 119
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1629886004-tartansenseteampic.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Agritech Robotics Startup TartanSense Raises $5 Million In Series A"
     excerpt: "This funding round brings the total funds raised by the company to $7 million, after raising a $2 million seed round in March 2019."
     publishedDateTime: 2021-08-25T05:58:00Z
@@ -131,17 +147,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Foodtech Startup Ai Palette Raises Funds Led By pi Ventures, Exfinity Venture"
-    excerpt: "Foodtech startup Ai Palette has raised  $4.4 Mn in Series A round co-led by pi Ventures and Exfinity Venture Partners."
-    publishedDateTime: 2021-08-25T05:32:00Z
-    webUrl: "https://inc42.com/buzz/foodtech-startup-ai-palette-raises-funds-led-by-pi-ventures-exfinity-venture/"
-    ampWebUrl: "https://inc42.com/buzz/foodtech-startup-ai-palette-raises-funds-led-by-pi-ventures-exfinity-venture/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/foodtech-startup-ai-palette-raises-funds-led-by-pi-ventures-exfinity-venture/amp/"
-    type: article
-    provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 34
   - title: "Agritech startup TartanSense raises USD 5 mn from FMC, Omnivore and Blume Ventures"
     excerpt: "Agritech robotics startup TartanSense on Wednesday said it has raised USD 5 million (around Rs 37 crore) from investors for business expansion and growth. The company said in a statement that the Series A funding round was led by FMC Ventures and Omnivore,"
     publishedDateTime: 2021-08-25T05:49:00Z

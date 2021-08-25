@@ -7,7 +7,7 @@ originalUrl: "https://www.lelezard.com/en/news-19967345.html"
 webUrl: "https://www.lelezard.com/en/news-19967345.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,33 +25,63 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese Chipmaker Houmo.AI Bags USD46.3 Million in Pre-A Fundraiser"
-    excerpt: "Huomo.Ai, a Chinese computing chipmaker, said it has secures CNY300 million (USD46.3 million) in a pre-A financing round. The fundraiser was led by Qiming Venture Partners. Existing shareholder Matrix Partners China and other investors such as MSA Capital and Zhongguancun Development Qihang,"
-    publishedDateTime: 2021-08-24T09:31:00Z
-    webUrl: "https://www.yicaiglobal.com/news/chinese-chipmaker-houmoai-bags-usd463-million-in-pre-a-fundraiser-"
+  - title: "Involve.ai boosts AI-driven customer data platform with $16M"
+    excerpt: "Involve.ai, a startup using AI to bolster customer success, announced that it raised $16 million in venture capital."
+    publishedDateTime: 2021-08-25T15:25:00Z
+    webUrl: "https://venturebeat.com/2021/08/25/involve-ai-boosts-ai-driven-customer-data-platform-with-16m/"
+    ampWebUrl: "https://venturebeat.com/2021/08/25/involve-ai-boosts-ai-driven-customer-data-platform-with-16m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/25/involve-ai-boosts-ai-driven-customer-data-platform-with-16m/amp/"
     type: article
     provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/02/big_data.jpg?fit=800%2C450&strip=all"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "7 Ways You Can Use AI to Drive Customer Loyalty"
+    excerpt: "At the most fundamental level, AI solutions free up employees to focus on tasks that need a human touch. And we’re talking roomfuls. From there, it’s a hop, skip, and a jump (performed best by people for now!"
+    publishedDateTime: 2021-08-24T05:26:00Z
+    webUrl: "https://customerthink.com/7-ways-you-can-use-ai-to-drive-customer-loyalty/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
     quality: 37
     images:
-      - url: "http://img.yicaiglobal.com/cdn/news/chinese-chipmaker-houmoai-bags-usd463-million-in-pre-a-fundraiser-/15704892382380032.jpg"
-        width: 720
-        height: 480
+      - url: "https://customerthink.com/wp-content/uploads/ThinkstockPhotos-166139079-ctmedia.jpg"
+        width: 1788
+        height: 1677
         isCached: true
-  - title: "Startup aiming to root out misdiagnoses in radiology raises $25M in new funding"
-    excerpt: "A New York-based startup aiming to root out misdiagnoses in radiology has raised $25 million in new funding, leaders announced Monday. Covera Health said the Series C financing comes by way of private equity firm Insight Partners,"
-    publishedDateTime: 2021-08-24T06:12:00Z
-    webUrl: "https://www.radiologybusiness.com/topics/artificial-intelligence/covera-health-misdiagnoses-radiology-insight-partners"
+  - title: "Fetch.ai launches platform for AI-generated collaborative NFT art"
+    excerpt: "“Fetch.ai’s NFT platform is unique in that the true ... We are holding our third cloud startup showcase on Sept. 22. Click here to join the free and open Startup Showcase event."
+    publishedDateTime: 2021-08-24T13:00:00Z
+    webUrl: "https://siliconangle.com/2021/08/24/fetch-ai-launches-nft-platform-ai-generated-collaborative-art/"
     type: article
     provider:
-      name: Radiology Business
-      domain: radiologybusiness.com
-    quality: 33
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
     images:
-      - url: "https://www.radiologybusiness.com/sites/default/files/styles/facebook/public/assets/articles/Dollar.jpg?itok=P_wAx_2z"
-        width: 1200
-        height: 630
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/fetch-ai-nft-art-examples.jpg"
+        width: 700
+        height: 394
+        isCached: true
+  - title: "How Dream Sports Uses Artificial Intelligence"
+    excerpt: "Our fan engagement product FanCode uses AI and ML backend framework to provide a personalised user experience to sports fans."
+    publishedDateTime: 2021-08-25T11:30:00Z
+    webUrl: "https://analyticsindiamag.com/how-dream-sports-uses-artificial-intelligence/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/How-Dream-Sports-Uses-Artificial-Intelligence-.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "tKiRj0x0L3ldyTi+rz7+EYqFt/m+H2+G4Xpwbd3au5BMWmy5g7nWYKI0zUr1vbdCzLEapXiTDaZBq/FHpabmfN3Sm2FgzW+X6rlqlndCFKnSCUQoZHnvcyxM3ClLPpytlnWvBnJcaqoABP0AeCPAlPG9RwkfZcVZbSYRqqxZoTg1ybil0Ole4q7vS61sW1xALRIYaHF5wSlyJyc8Q/qt92NGQa5dUvtww0YcraDNmhR8BYpFcFfM/psixnQXUATxoS0tfPUF6L5L2GM3e+NU34Pfyb34/Q2GknQdEA+DqB7fyICrj94CF/FkuxOn8aBES/M9nRGUXPsaDa7pvW3zkI3u+0STtsMg68kzN4jHe28=;WEsOrgr+7BYNgQiLEq+SYw=="

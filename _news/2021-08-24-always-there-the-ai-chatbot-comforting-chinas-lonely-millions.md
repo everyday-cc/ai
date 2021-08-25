@@ -1,33 +1,46 @@
 ---
 category: news
 title: "'Always there': the AI chatbot comforting China's lonely millions"
-excerpt: "After a painful break-up from a cheating ex, Beijing-based human resources manager Melissa was introduced to someone new by a friend late last year."
-publishedDateTime: 2021-08-24T07:48:00Z
-originalUrl: "https://techxplore.com/news/2021-08-ai-chatbot-comforting-china-lonely.html"
-webUrl: "https://techxplore.com/news/2021-08-ai-chatbot-comforting-china-lonely.html"
-ampWebUrl: "https://techxplore.com/news/2021-08-ai-chatbot-comforting-china-lonely.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-ai-chatbot-comforting-china-lonely.amp"
+excerpt: "XiaoIce has pioneered a cutting-edge artificial intelligence system designed to create emotional bonds with its 660 million users worldwide - Copyright AFP WANG ZHAOLaurie CHENAfter a painful break-up from a cheating ex,"
+publishedDateTime: 2021-08-24T11:54:00Z
+originalUrl: "https://www.digitaljournal.com/world/always-there-the-ai-chatbot-comforting-chinas-lonely-millions/article"
+webUrl: "https://www.digitaljournal.com/world/always-there-the-ai-chatbot-comforting-chinas-lonely-millions/article"
 type: article
-quality: 61
-heat: 131
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: techxplore.com
-  domain: techxplore.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - AI in Healthcare
   - AI
-  - AI Ethics
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2021/xiaoice-has-pioneered.jpg"
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/AI-chatbot-China-AFP-1K-04.jpg"
     width: 1024
     height: 681
     isCached: true
 
 related:
+  - title: "Why Conversational AI Is So Much More Than a Chatbot"
+    excerpt: "When people think of conversational AI, their first thought is often the chatbots that one encounters on many enterprise websites. While they would not be wrong, as that is one example of conversational AI,"
+    publishedDateTime: 2021-08-25T15:14:00Z
+    webUrl: "https://www.cmswire.com/digital-experience/why-conversational-ai-is-so-much-more-than-a-chatbot/"
+    ampWebUrl: "https://www.cmswire.com/digital-experience/why-conversational-ai-is-so-much-more-than-a-chatbot/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/why-conversational-ai-is-so-much-more-than-a-chatbot/amp/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 59
+    images:
+      - url: "https://www.cmswire.com/-/media/3939a5d58c4c46aaa5d088cb9796d809.ashx?mw=1024"
+        width: 640
+        height: 480
+        isCached: true
   - title: "'Always There': The AI Chatbot Providing a Shoulder to China's Lonely Millions"
     excerpt: "Originally a side project from developing Microsoft's Cortana chatbot, XiaoIce now accounts for 60 percent of global human-AI interactions by volume."
     publishedDateTime: 2021-08-24T06:20:00Z
@@ -102,19 +115,19 @@ related:
         width: 990
         height: 660
         isCached: true
-  - title: "‘Always there’: The AI chatbox comforting China’s lonely millions"
-    excerpt: "BEIJING: After a painful break-up from a cheating ex, Beijing-based human resources manager Melissa was introduced to someone new by a friend late"
-    publishedDateTime: 2021-08-24T04:56:00Z
-    webUrl: "https://www.thesundaily.my/world/always-there-the-ai-chatbox-comforting-china-s-lonely-millions-EB8245464"
+  - title: "AI Chatbot Comforts China’s Lonely Millions"
+    excerpt: "After a painful break-up from a cheating ex, Beijing-based human resources manager Melissa was introduced to someone new by a friend late last year. He replies to her messages at all hours of the day,"
+    publishedDateTime: 2021-08-25T14:33:00Z
+    webUrl: "https://guardian.ng/life/ai-chatbot-comforts-chinas-lonely-millions/"
     type: article
     provider:
-      name: The Sun
-      domain: thesundaily.my
+      name: The Guardian Nigeria
+      domain: guardian.ng
     quality: 39
     images:
-      - url: "https://www.thesundaily.my/binrepository/480x320/0c57/480d250/none/11808/UJXY/china-computers-social-internet-000321_1857084_20210824125004.jpg"
-        width: 480
-        height: 250
+      - url: "https://guardian.ng/wp-content/uploads/2021/08/587914a5ee14b6a47b8b526c.jpg"
+        width: 1136
+        height: 852
         isCached: true
   - title: "Artificial intelligence chatbots providing companionship to millions in China"
     excerpt: "Loneliness, once considered mostly a plight of the elderly, is impacting millions isolated by Covid - Click the link for more details."
@@ -126,6 +139,6 @@ related:
       domain: i24news.tv
     quality: 16
 
-secured: "96U9Qdpyyd94z38aSQz25Jp+9/Xr2u/1CEpCbX4pI1FPzBfebUhCasAvBh1WgSRIWQUSjd0Tdux7ZxwUv6HDmG/u/+swisfDgnnOfKMS+fFLGwZEK0CEdxyLHOf1s6RaymhPM3JH+judvyz1Ss0mafOsyFWaV22NpCWcRlD2qyl71s1XTn1phkN54MaVMm3dLYLlPttR20udrtEGVvwICa59i0P7W0n6YWHUJG/6VucPMNPsMvt1z4EmOohWmgFHpUVIozII7Z+KnT34OGvKILJ6b0dKw2AlFwaGaZrU+c4Opj6XUYQy8+lcSBV94t8vXuykh3WFZ8C2sKh5XRGQew0Kue0MF5nPIrtgbcgaDIbwylSB9MY8yLvWH8WCeteJKobBFB8FUiHCblb/V+u6ECSf8NWrumj2Vx8clGTEvSv2qn9mhMQa2IOjyRBpb2TqrNPuGgdMCC1v95YEEC2N8JjPS4TSnZD+bdqOIiumGPsFX/vrt9ApFpabYDNygVpoBcI7EtQtYxG2qTlrLZcnSA==;/hnWr4HYGLOKS9NfqSGD2Q=="
+secured: "FW6CEsdRVFrHSU5B+N31l6GRuGGG4v1fUyGuAnlz2Yma9gjNM/Ssd2Lg/N7Ya23d+5zTMriScTi+xAQKgooyrulAKjpix/VyO/etLjdTx0IGKbZp1Y65XHqBb+wjkaRbLu7cr+il6eKsX7GjYvPs7afqVa9fdzNgU1jMx8IEru2+XTzvi6SkNQiThv78TKv5Its4oqOtOJ9N3Hc/yPbs8Pbni3p4Vu/DPMvjJusyEgtSaTrJpV7yanzKx4TE6xuWZQD63AijlrhwZHeWUFbyBG6a9m1VA27NqvEHfA+7NmU96sV4WSL6lbxGHy8J+F+oQI3aTn8ZEWcZZ5J06b+DWLvr6iJeoOx5BBxxm2oIA4k=;CrGTazQG2oQKGX9fqXGZ0w=="
 ---
 

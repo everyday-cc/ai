@@ -291,15 +291,6 @@ related:
       name: Futurism
       domain: futurism.com
     quality: 39
-  - title: "Tesla sells ‘Full Self-Driving,’ but what is it really?"
-    excerpt: "Editor's note: This story is available as a result of a content partnership with The New York Times. Subscribers will see stories like this every day on our website (and in our daily emails) as an added value to your subscription. As U.S. investigators ..."
-    publishedDateTime: 2021-08-20T21:35:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2021/08/20/nyt-tesla-what-is-full-self-driving.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
   - title: "Musk criticizes on Twitter latest test version of Tesla's self-driving software"
     excerpt: "Chief Executive Elon Musk panned the most recent test version of the company's self-driving software, but said that Tesla employees are \"rallying to improve (it) as fast as possible.\" Musk tweeted late Monday that the latest \"beta\" version of Full Self Driving,"
     publishedDateTime: 2021-08-23T16:18:00Z

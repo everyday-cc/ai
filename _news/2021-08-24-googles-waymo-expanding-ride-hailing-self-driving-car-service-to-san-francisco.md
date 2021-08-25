@@ -53,6 +53,22 @@ related:
         width: 1500
         height: 1000
         isCached: true
+  - title: "Waymo Expands Self-Driving Operations. What It Means for Tesla."
+    excerpt: "Truly self-driving cars are on American roads. And they don’t come from Tesla. Consumers—and investors—just need to know where to look. Waymo, Alphabet’s (ticker: GOOG) venture into self-driving cars,"
+    publishedDateTime: 2021-08-25T15:21:00Z
+    webUrl: "https://www.barrons.com/articles/waymo-alphabet-self-driving-cars-san-francisco-51629904722"
+    ampWebUrl: "https://www.barrons.com/amp/articles/waymo-alphabet-self-driving-cars-san-francisco-51629904722"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/waymo-alphabet-self-driving-cars-san-francisco-51629904722"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 74
+    images:
+      - url: "https://images.barrons.com/im-391008/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Google self-driving spinoff Waymo begins testing with public in San Francisco"
     excerpt: "Alphabet Inc's Waymo has started taking a few San Franciscans on rides in its self-driving sport utility vehicles and hopes to open the robotaxis to anyone in the city in less than the three years it took to launch in its only other market."
     publishedDateTime: 2021-08-24T23:09:00Z

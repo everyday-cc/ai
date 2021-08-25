@@ -298,15 +298,6 @@ related:
       name: Futurism
       domain: futurism.com
     quality: 39
-  - title: "Tesla sells ‘Full Self-Driving,’ but what is it really?"
-    excerpt: "Editor's note: This story is available as a result of a content partnership with The New York Times. Subscribers will see stories like this every day on our website (and in our daily emails) as an added value to your subscription. As U.S. investigators ..."
-    publishedDateTime: 2021-08-20T21:35:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2021/08/20/nyt-tesla-what-is-full-self-driving.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "IP2U+DXmba5FpHsRreNnosNY0Jk7T7W97tlA6nwUlMIBKubS/q2cUwbHzYRXVYSbnXIEv8JEEDajUCOtKaBysM4yAIBz8xioc3zllhqALAsGzjSUnC3Nx/WKKkzumJ8AtA7mKNQlDwpsdxhiObOp9sc9IyF4wHyJxNQUC3iJEkbECARZXKQkKbKN6o2G7Kfr4THyyKlCi0/ztofRZsGSPXjlfddt8TFO0uC70fVaQ85IdRzuc32ULbfT5j3I28enLYBhHf0RJ4GpHxUuJpqK4EL5dqwgouUGb2FEYFP9iG2BwdGUfShbC8z7w19vJdybzuWd7sxyj+MnqL97Dk8hMK0E7Thl4FPyhJkvDRL7XX0=;MW86jAsU/ucMcdS9BByg8Q=="
 ---

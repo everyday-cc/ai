@@ -58,6 +58,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "GPU as a Service Market - Growth Analysis, Industry Size, Market Opportunities and Future Estimations"
+    excerpt: "Global GPU as a service market to register a double-digit CAGR over 2019-2025 Robust advancements in technology have led to a rise in the deployment of IT-based solutions, impelling GPU as a service market size."
+    publishedDateTime: 2021-08-23T09:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/gpu-as-a-service-market---growth-analysis-industry-size-market-opportunities-and-future-estimations-2021-08-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Computer Vision System Market Size, Product Launch, Major Companies, Revenue Analysis, Till 2028"
     excerpt: "The Global Computer Vision System market is forecast to reach USD 25 69 Billion by 2028 according to a new report by The Computer Vision System market is witnessing continuous growth in the recent year that has"
     publishedDateTime: 2021-08-24T15:29:00Z
@@ -172,6 +186,6 @@ related:
       domain: openpr.com
     quality: 3
 
-secured: "EOt9IfyDnXO8ztHwju4f+EBEzgnJSNxI1TwpkOQu/cHh9Eyxjy2RBl7LMRayLDImzCq6BaH32lrlxnD62SzIgfsR1sFto5lKzrxB3aTfExpxL9Z27s7XI1gn0/trEn1DcUekHL3PwafDDSh3jsSkRjDY0zZ6jn8Cozmrwz56EovKBd0UaVYMRJ5rCFMtQyDSkDtQitKz22hUYV4cGTXglUvMrdPm0FkDMuh+3SjT0njVAnXdXQ1o8dmnU3IahuNb/9MhqGPfvMfu5m+D8e2AYchHBo4ijkYlL7JHw2YEuL9TFbO8sJBqUbmgUifkGGBDs4aj6GNGpaPxHmbN60LPl4R6n6ZUzISQcJhj9/WKnSo=;mbUoJfa3dnlEyL+lv7W+kA=="
+secured: "WKRnq4NlmGH0pc+0ydQ/90rHs1LhjvVHaybZvcwL5w0NsjXFVrHGFU7grFCmRYSw0zBjaTi+RCbpUFKzYL45wypXhRT78nfjHn05VKQPgbtLkZtq2eOaLer9gbFkuOYaTBiDspOezykUxYNM47Y8vz4ZLJbGFIU3kgCrOVjTeS9EAfgS/1XbtEbIUbuRtM5ciwkRN1tSWmxvfRdSlPxvK6X6AFZtEyZtjTMC2tD3cEWzIiFMzqAzP4fLH38iqG5UreWNxdj88zRdv54Amd27xAxJ1j8sWyTQNjAHy3Erni1lVnytOpKzgiX+u3+G/V+/cXDAEtTGPmlnKG7VeYHEzahTgX60euQptIOCksD6yv0LU/e58BDVztaeUQ/v/TVIce3dHwxaItN7RJbjRcfkRYMi2GI26J53vdT1VMuVnpIoVShSf+Ih9k4klu+Bj32ROW8+cCEG0ZD3Ex74v62iqJWITNWidc/YqDfdTAjwuwQ54eMeMOe83zaJuQrHrHSR2GIOgE6DJwZ/f6YLlbSm3w==;6TzgYp4NmhWZwpuANodAPA=="
 ---
 

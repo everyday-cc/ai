@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2363772/artificial-intelligence-in-the-ed
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2363772/artificial-intelligence-in-the-education-sector-market-size"
 type: article
 quality: 58
-heat: 158
+heat: 168
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://cdn.openpr.com/U/8/U824327631_g.jpg"
         width: 400
         height: 400
+        isCached: true
+  - title: "GPU as a Service Market - Growth Analysis, Industry Size, Market Opportunities and Future Estimations"
+    excerpt: "Global GPU as a service market to register a double-digit CAGR over 2019-2025 Robust advancements in technology have led to a rise in the deployment of IT-based solutions, impelling GPU as a service market size."
+    publishedDateTime: 2021-08-23T09:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/gpu-as-a-service-market---growth-analysis-industry-size-market-opportunities-and-future-estimations-2021-08-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Computer Vision System Market Size, Product Launch, Major Companies, Revenue Analysis, Till 2028"
     excerpt: "The Global Computer Vision System market is forecast to reach USD 25 69 Billion by 2028 according to a new report by The Computer Vision System market is witnessing continuous growth in the recent year that has"

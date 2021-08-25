@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Agritech Robotics Startup TartanSense Raises $5 Mn In Series A Round"
+    excerpt: "The company builds small agricultural robots, equipped with AI-assisted computer vision, to help small farms reduce their expenditures and improve their incomes"
+    publishedDateTime: 2021-08-25T10:07:00Z
+    webUrl: "https://www.entrepreneur.com/article/381428"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/381428"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/381428"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 119
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1629886004-tartansenseteampic.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Agritech robotics startup TartanSense raises $5mn in Series A round"
     excerpt: "TartanSense builds small agricultural robots, equipped with AI-assisted computer vision, to help small farms reduce their expenditures and improve their incomes."
     publishedDateTime: 2021-08-25T05:10:00Z
@@ -145,17 +161,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Foodtech Startup Ai Palette Raises Funds Led By pi Ventures, Exfinity Venture"
-    excerpt: "Foodtech startup Ai Palette has raised  $4.4 Mn in Series A round co-led by pi Ventures and Exfinity Venture Partners."
-    publishedDateTime: 2021-08-25T05:32:00Z
-    webUrl: "https://inc42.com/buzz/foodtech-startup-ai-palette-raises-funds-led-by-pi-ventures-exfinity-venture/"
-    ampWebUrl: "https://inc42.com/buzz/foodtech-startup-ai-palette-raises-funds-led-by-pi-ventures-exfinity-venture/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/foodtech-startup-ai-palette-raises-funds-led-by-pi-ventures-exfinity-venture/amp/"
-    type: article
-    provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 34
 
 secured: "flaSZ4x1ybhaeNjpsbN4bn9dOJ12drvMyDt88Ehxz6NI9dYcwd05a42d70dCUxzpZLNj22KQ+PCPqNaxekcpylz/kERCH9rgAm8SPzEGJpRXpS9NioEcgv8w62V2bYdyugZ0AWxPsPmyK/Ne0ZRNKyg9Ir5I85I9uEMaMaeujmnSMDywZopYx8j0iELDUxSaLbxGBrr8UZAqRrMjplUxawZBZz+lcFw0aiGun98JB18QF748JR5OdQz6eCcCnTk4WlnCXuXJEgtq+G+gNirYTw2BQa97zZKRBTGFQs3Lg1oTKqN2G25WNUIXKVfhN9yKmGso/anhYiOpc47NzdzXf0G2oiovJh9nCwRQDlBWM6I=;zshmDiA8BxhrAk8Vs1glQg=="
 ---

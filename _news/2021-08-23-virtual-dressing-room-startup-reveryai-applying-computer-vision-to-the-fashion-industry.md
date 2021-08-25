@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/08/23/virtual-dressing-room-startup-reve
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/23/virtual-dressing-room-startup-revery-ai-applying-computer-vision-to-the-fashion-industry/amp/"
 type: article
 quality: 95
-heat: 125
+heat: 135
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-08/89af2c20-01e5-11ec-be3c-7957cb2328c7"
         width: 5120
         height: 2880
+        isCached: true
+  - title: "Level AI Launches With $15 Million in Funding to Make the Most of Every Customer Interaction"
+    excerpt: "Level AI publicly launched to modernize customer service. The company, founded by former Amazon Alexa product leader Ashish Nagar, has developed proprietary technology and conversational artificial intelligence to uniquely help organizations work with customers to solve any issues in real time and elevate the customer’s overall experience."
+    publishedDateTime: 2021-08-25T14:21:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-9e2f5f410a9945b8ae1b5c13282e431d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 26
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "wukUX1N/0gm4u5jagHSqESg/cKUoZ0ZfuaXPFvSpS80pgE2Cqx6TpdcDaAURXdr+2f9jxjljpNsl1YQlDmAOsw6c65l73TNbPSSprrO7phdXkDmidBrAWCH6cuxa/T8Bn5ZAzq63RAGg1DpPuRS1mCcx/eC7aUMWF85FA11sEKqlulKJyLf1wgrOFAQYSBZ8q8viwEwg6T8Sqn3gKdDaio4o8Lc8autbM8onkyXyOxakJbc7ahwPSmYC90dqNyo13eoApaWGopPZxQCYQyqOJImbus1LZm9+d8lGGUPHWvpN5qpapBiZYhyil3SeN4snH3RJZn8lUz+AIKQAb0j3BNKB0PLJjRbbTAy8S/uBp68TJ7y/BRzt9dc06zKHGEFx5AWbetn8s0V94mKvax8SYiZ8YWbf99toYWNVIa5lDoavpNfKExZ5wneWTY/IXw8SZ3/+6Z6iBNKDM4Z6q3ChXF6VnuPBTq3f/5aLjHFk+WVdTDWmCKM/aqOYe5YYqWqfXY1hTwYt3eM+inTvbf/pEg==;3EoqCvtaM/Y+xggLIAAPaA=="

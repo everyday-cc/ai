@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-08-25-agritech-robotics-startup-tartansense-raises-5mn-in-series-a-round.md",
-      "title": "Agritech robotics startup TartanSense raises $5mn in Series A round",
-      "excerpt": "TartanSense builds small agricultural robots, equipped with AI-assisted computer vision, to help small farms reduce their expenditures and improve their incomes.",
+      "path": "_news/2021-08-25-agritech-robotics-startup-tartansense-raises-5-mn-in-series-a-round.md",
+      "title": "Agritech Robotics Startup TartanSense Raises $5 Mn In Series A Round",
+      "excerpt": "The company builds small agricultural robots, equipped with AI-assisted computer vision, to help small farms reduce their expenditures and improve their incomes",
       "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/agritech-robotics-startup-tartansense-raises-5mn-series-round/",
-      "originalUrl": "https://www.dqindia.com/agritech-robotics-startup-tartansense-raises-5mn-series-round/",
+      "webUrl": "https://www.entrepreneur.com/article/381428",
+      "originalUrl": "https://www.entrepreneur.com/article/381428",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 209,
       "tags": null,
       "images": [
         {
-          "url": "https://www.dqindia.com/wp-content/uploads/2016/02/funding-India.jpg",
-          "width": 950,
-          "height": 534,
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1629886004-tartansenseteampic.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/agritech-robotics-startup-tartansense-raises-5mn-series-round/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/agritech-robotics-startup-tartansense-raises-5mn-series-round/amp/",
-      "publishedDateTime": "2021-08-24T22:10:00-07:00",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/381428",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/381428",
+      "publishedDateTime": "2021-08-25T03:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

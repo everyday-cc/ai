@@ -24,49 +24,64 @@ images:
     isCached: true
 
 related:
-  - title: "Unity acquires AI chat analysis platform OTO, launches toxicity in gaming report"
-    excerpt: "Unity Technologies has acquired OTO to use AI to analyze online multiplayer gaming conversations for possible toxic behavior."
-    publishedDateTime: 2021-08-24T12:00:00Z
-    webUrl: "https://venturebeat.com/2021/08/24/unity-acquires-ai-chat-analysis-platform-oto-launches-toxicity-in-gaming-report/"
-    ampWebUrl: "https://venturebeat.com/2021/08/24/unity-acquires-ai-chat-analysis-platform-oto-launches-toxicity-in-gaming-report/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/24/unity-acquires-ai-chat-analysis-platform-oto-launches-toxicity-in-gaming-report/amp/"
+  - title: "Involve.ai boosts AI-driven customer data platform with $16M"
+    excerpt: "Involve.ai, a startup using AI to bolster customer success, announced that it raised $16 million in venture capital."
+    publishedDateTime: 2021-08-25T15:25:00Z
+    webUrl: "https://venturebeat.com/2021/08/25/involve-ai-boosts-ai-driven-customer-data-platform-with-16m/"
+    ampWebUrl: "https://venturebeat.com/2021/08/25/involve-ai-boosts-ai-driven-customer-data-platform-with-16m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/25/involve-ai-boosts-ai-driven-customer-data-platform-with-16m/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 82
+    quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/08/oto.jpg?w=1200&strip=all"
-        width: 1200
-        height: 736
+      - url: "https://venturebeat.com/wp-content/uploads/2020/02/big_data.jpg?fit=800%2C450&strip=all"
+        width: 800
+        height: 450
         isCached: true
-  - title: "WPP acquires AI company"
-    excerpt: "Advertising and communications business WPP has acquired Satalia, a technology company focused on artificial intelligence (AI), for an undisclosed sum."
-    publishedDateTime: 2021-08-23T09:38:00Z
-    webUrl: "https://www.research-live.com/article/news/wpp-acquires-ai-company/id/5088212"
-    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5088212&name=wpp-acquires-ai-company"
-    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5088212&name=wpp-acquires-ai-company"
+  - title: "involve.ai Raises $16 Million in Series A Funding"
+    excerpt: "Series A financing round led by Sapphire Ventures, with participation from existing investors Bonfire Ventures, Greycroft, Launch Capital, BDMI and new"
+    publishedDateTime: 2021-08-25T12:08:00Z
+    webUrl: "https://www.lelezard.com/en/news-19967345.html"
     type: article
     provider:
-      name: research
-      domain: research-live.com
-    quality: 57
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 39
     images:
-      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
-        width: 1000
-        height: 581
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
-  - title: "Upmethod Launches AI Platform for Aspiring Actors That Scores and Give Feedback on Acting Skills"
-    excerpt: "Upmethod has just announced the launch of its Artificial Intelligence powered platform that tests an individual’s acting skills and teaches aspiring actors how to"
-    publishedDateTime: 2021-08-20T22:35:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/08/ab22604126/upmethod-launches-ai-platform-for-aspiring-actors-that-scores-and-give-feedback-on-acting-skills"
-    ampWebUrl: "https://www.benzinga.com/amp/content/22604126"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22604126"
+  - title: "7 Ways You Can Use AI to Drive Customer Loyalty"
+    excerpt: "At the most fundamental level, AI solutions free up employees to focus on tasks that need a human touch. And we’re talking roomfuls. From there, it’s a hop, skip, and a jump (performed best by people for now!"
+    publishedDateTime: 2021-08-24T05:26:00Z
+    webUrl: "https://customerthink.com/7-ways-you-can-use-ai-to-drive-customer-loyalty/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 24
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 37
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/ThinkstockPhotos-166139079-ctmedia.jpg"
+        width: 1788
+        height: 1677
+        isCached: true
+  - title: "How Dream Sports Uses Artificial Intelligence"
+    excerpt: "Our fan engagement product FanCode uses AI and ML backend framework to provide a personalised user experience to sports fans."
+    publishedDateTime: 2021-08-25T11:30:00Z
+    webUrl: "https://analyticsindiamag.com/how-dream-sports-uses-artificial-intelligence/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/How-Dream-Sports-Uses-Artificial-Intelligence-.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "e4CsJtT5OhoE3zMzMFVvomw2YoLK8HaZA6tIQRH6+74rhT3FVtr0Mw5kW/CCF9ctaDh9LxVwu8GgHr8i2w+9LG8Nm3oZnu2ws/XEm3jzCwkxiSsWYlFusO3/mAuKOTwScEFXbAs+fadFWjAMXKq3/lGhEn59bSnbxcIGfDNZyiGWI/Ht9GUs6+b1RlX7ne7AaNi4PH883/GYtEhrk/DB2TwGixM/Rcf9EOtq5ME5ZOuVRJn1IltLLLWrsbyW8OA/dz8aWy4ZlS+Ehh0qwG0pBAIA3sKkTYo4T/NceJltPjxx8f8MQLXgQTJNxR6i0mNXg8iPifout19TvEj8FPO8mQ+quVnGET7QhLweqZdf6pNqqcqJP07+rFuCNYxAqfIw9ldDTIEoSK1Oh15fcfoCCtKaXGG8wWxpNqQhynsrVmYnr/ePAb0SXrJuIwgypAO4Wz+oGeNufFx+Phf4VuQdP/NoqgIpTgDqCTDKyS09YW3SN41PzfFFgXhpkK5kMZ6EI11wxVISBAx94JA28pLTNA==;qvES/On8Ru5LHlHS7u+OPg=="
 ---

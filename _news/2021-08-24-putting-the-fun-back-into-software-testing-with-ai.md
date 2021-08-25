@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "AI vs. AI: Gearing Up for Battle With Deep Learning"
+    excerpt: "AI has been widely integrated into our everyday lives — ranging from domestic appliances to medical equipment — but the power of AI makes it extremely appealing to threat actors, and the recent emergence of adversarial AI proves it."
+    publishedDateTime: 2021-08-25T13:00:00Z
+    webUrl: "https://www.darkreading.com/attacks-breaches/ai-vs-ai-gearing-up-for-battle-with-deep-learning"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 34
   - title: "AI Copywriting: Does It Work? We Tested 7 Of The Top Softwares So You Don’t Have To (With Samples From Each)"
     excerpt: "I’m open to the idea that AI writing software could produce short-form content rather well. I also know from first-hand experience that writing and SEO software is often super helpful for polishing final drafts."
     publishedDateTime: 2021-08-21T09:52:00Z

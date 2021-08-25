@@ -40,6 +40,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "AI vs. AI: Gearing Up for Battle With Deep Learning"
+    excerpt: "AI has been widely integrated into our everyday lives — ranging from domestic appliances to medical equipment — but the power of AI makes it extremely appealing to threat actors, and the recent emergence of adversarial AI proves it."
+    publishedDateTime: 2021-08-25T13:00:00Z
+    webUrl: "https://www.darkreading.com/attacks-breaches/ai-vs-ai-gearing-up-for-battle-with-deep-learning"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 34
 
 secured: "mS+lHLDgX18zkO2W/OJyDosoVYwjIuRzvp9P2EYFdHTQ0IzK4uePXuwMg6gpiYuBNmYAHBEtFHWpXb5CLcDEROL1Cp3UsuGKEBui8MovPUfrsuxNyxQsPAeaZ8E8kAbGbWSBi9NgqH8bwizbzaJMsfASRBeQgoAn9+QROWI1LzkhGuTdU68g1ZMa3wAX8DzISi7ogBXbsdeNCjJwT0jjH7zbAc9wTfM3uoePEJ1FOirdfyfweU4SWFBSn8hv9syNP3lLq9p7yvY7G7g+okC2qkCLg7xWaYnFP/P1bFl9Xgno70aeQed3ZXLE79KbG0DgSq5QZDjb7TLQA0mE91Xe1zRruIcQ34P4uaQAGVOz3jg7RD7gaIKvrSQpbGGw1n3ABNl5UJk8Ac0KmbsnZN6lSG5Jn/3ZmkhKPPs/1DIhoApOKd/SkSRqQnWlbZJBrz6GKrEvdUbMrq4B8mJuAhIFqckNM05el7qGnsC7xdb7yoHHpxO6H238u0VWY1bHPlrtgqlnjxj8pBO6Y4+IZiUXjg==;fmzjtZq/Ggrqw8Tiqk3xlA=="
 ---

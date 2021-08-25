@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Serious Concerns That AI Self-Driving Cars Cybersecurity Will Be A Hacker Leak Like An Open Sieve"
+    excerpt: "The importance of considering the numerous cybersecurity holes likely to be present in AI self-driving cars and seriously seeking to plug them up."
+    publishedDateTime: 2021-08-25T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/25/serious-concerns-that-ai-self-driving-cars-cybersecurity-will-be-a-hacker-leak-like-an-open-sieve/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/25/serious-concerns-that-ai-self-driving-cars-cybersecurity-will-be-a-hacker-leak-like-an-open-sieve/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/25/serious-concerns-that-ai-self-driving-cars-cybersecurity-will-be-a-hacker-leak-like-an-open-sieve/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 76
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60bea15c41ff6d82b797b825%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "China data rules to squeeze overseas development of self-driving tech"
     excerpt: "China's new rules on the handling of automotive data will take effect Oct. 1 and build a barrier against foreign companies from accessing driving records and onboard images, a move that will hamper their own efforts to advance self-driving technology."
     publishedDateTime: 2021-08-21T16:26:00Z
