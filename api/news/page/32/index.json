@@ -2,6 +2,257 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-08-02-csras-cloud-migration-experience-moving-mission-critical-applications-to-aws-govcloud-us.md",
+      "title": "CSRA's Cloud Migration Experience: Moving Mission-Critical Applications to AWS GovCloud (US)",
+      "excerpt": "\"We were given a very aggressive timeline of just four months to get everything up and running,\" Bergen says. \"During that time we had to go from having nothing to having all of our applications replicated so we could support our 15,000 employees.",
+      "sourceUrl": null,
+      "webUrl": "https://fcw.com/articles/2021/08/03/ai-hsgac-workforce-bill.aspx",
+      "originalUrl": "https://gcn.com/pages/native/amazon-csra-q3-2016.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fcw.com/-/media/GIG/EDIT_SHARED/AI_Automation/aigovernment.png",
+          "width": 760,
+          "height": 368,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GCN",
+        "domain": "gcn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-02-edge-impulse-eon-tuner.md",
+      "title": "Edge Impulse EON Tuner",
+      "excerpt": "If you have worked machine learning to classify sounds or images, you know selecting right neural network architecture can often be very daunting. You need to follow ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.hackster.io/mithun-das/edge-impulse-eon-tuner-7e2088",
+      "originalUrl": "https://www.hackster.io/mithun-das/edge-impulse-eon-tuner-7e2088",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackster.imgix.net/uploads/attachments/1331358/_yjf0xHDORB.blob?auto=compress&w=1600&h=1200&fit=min&fm=jpg",
+          "width": 1225,
+          "height": 919,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackster",
+        "domain": "hackster.io",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-02-europe-artificial-intelligence-market-2021-industry-trends-share-size-demand-and-future-scope.md",
+      "title": "Europe Artificial Intelligence Market 2021: Industry Trends, Share, Size, Demand and Future Scope",
+      "excerpt": "Artificial intelligence (AI) refers to a segment ... to further bolster the demand for AI in drones, robots, and self-driving cars, over the forecasted period. If you need specific information ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/europe-artificial-intelligence-market-2021-industry-trends-share-size-demand-and-future-scope-2021-08-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/europe-artificial-intelligence-market-2021-industry-trends-share-size-demand-and-future-scope-2021-08-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-02-us-lawmakers-call-for-investigation-into-use-and-abuse-of-face-recognition-tech.md",
+      "title": "U.S. lawmakers call for investigation into use and abuse of face recognition tech",
+      "excerpt": "It’s unclear, for example, which agencies have acquired Amazon’s facial recognition technology, known as Rekognition; the company’s client page only identifies one local law enforcement agency by name. The lawmakers further asked the GAO to evaluate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.hcinnovationgroup.com/home/article/13010504/us-lawmakers-call-for-investigation-into-use-and-abuse-of-face-recognition-tech",
+      "originalUrl": "https://www.hcinnovationgroup.com/home/article/13010504/us-lawmakers-call-for-investigation-into-use-and-abuse-of-face-recognition-tech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "hcinnovationgroup",
+        "domain": "hcinnovationgroup.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-08-02-why-artificial-intelligence-isnt-intelligent.md",
+      "title": "Why Artificial Intelligence Isn't Intelligent",
+      "excerpt": "A funny thing happens among engineers and researchers who build artificial intelligence (AI) once they attain a deep level of expertise in their field. Some of them—especially those who understand what actual,",
+      "sourceUrl": null,
+      "webUrl": "https://cacm.acm.org/opinion/articles/254486-why-artificial-intelligence-isnt-intelligent/fulltext",
+      "originalUrl": "https://cacm.acm.org/opinion/articles/254486-why-artificial-intelligence-isnt-intelligent/fulltext",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "acm.org",
+        "domain": "acm.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-08-02-wipro-has-earned-the-kubernetes-on-microsoft-azure-advanced-specialization.md",
+      "title": "Wipro Has Earned the Kubernetes on Microsoft Azure Advanced Specialization",
+      "excerpt": "Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO), a leading global information technology, consulting and business process services company, today announced that it has earned the Kubernetes on Microsoft Azure advanced specialization,",
+      "sourceUrl": null,
+      "webUrl": "https://www.pressreleasepoint.com/wipro-has-earned-kubernetes-microsoft-azure-advanced-specialization",
+      "originalUrl": "https://www.pressreleasepoint.com/wipro-has-earned-kubernetes-microsoft-azure-advanced-specialization",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pressreleasepoint.com/sites/all/modules/press_release/social-media-icons/fbpage.png",
+          "width": 256,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KLAS Press Release",
+        "domain": "pressreleasepoint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-02-orlando-renews-facial-rekognition-pilot-program.md",
       "title": "Orlando Renews Facial “Rekognition” Pilot Program",
       "excerpt": "But there’s one part of Amazon’s business that is very interested in seeing your face out and about in public. Amazon Rekognition is a facial recognition system. And Orlando’s police department is one of two in the country helping Amazon beta-test ...",
@@ -898,273 +1149,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-07-31-platform-teaches-nonexperts-to-use-machine-learning.md",
-      "title": "Platform Teaches Nonexperts to Use Machine Learning",
-      "excerpt": "Research from Cornell explores how to help nonexperts use machine-learning algorithms to better enable industries beyond the computing field to harness the power of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://cacm.acm.org/careers/254437-platform-teaches-nonexperts-to-use-machine-learning/fulltext",
-      "originalUrl": "https://cacm.acm.org/careers/254437-platform-teaches-nonexperts-to-use-machine-learning/fulltext",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-30T14:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "acm.org",
-        "domain": "acm.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-31-ai-weekly-ai-adoption-is-driving-cloud-growth.md",
-      "title": "AI Weekly: AI adoption is driving cloud growth",
-      "excerpt": "As enterprises embrace AI technologies, they're increasingly turning to the cloud to meet key infrastructural needs.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/30/ai-weekly-ai-adoption-is-driving-cloud-growth/",
-      "originalUrl": "https://venturebeat.com/2021/07/30/ai-weekly-ai-adoption-is-driving-cloud-growth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/cloud.money_.GettyImages-627546267-e1623705801154.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/30/ai-weekly-ai-adoption-is-driving-cloud-growth/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/30/ai-weekly-ai-adoption-is-driving-cloud-growth/amp/",
-      "publishedDateTime": "2021-07-30T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-31-spanish-dpa-fines-supermarket-chain-2520000-eur-for-unlawful-use-of-facial-recognition-system.md",
-      "title": "Spanish DPA Fines Supermarket Chain 2,520,000 EUR for Unlawful Use of Facial Recognition System",
-      "excerpt": "On July 27, 2021, the Spanish Data Protection Authority (the “AEPD”) imposed a €2,520,000 fine on Spanish supermarket chain Mercadona, S.A. for unlawful use of a facial recognition sy",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/spanish-dpa-fines-supermarket-chain-2520000-eur-unlawful-use-facial-recognition",
-      "originalUrl": "https://www.natlawreview.com/article/spanish-dpa-fines-supermarket-chain-2520000-eur-unlawful-use-facial-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
-          "width": 1426,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/spanish-dpa-fines-supermarket-chain-2520000-eur-unlawful-use-facial-recognition?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/spanish-dpa-fines-supermarket-chain-2520000-eur-unlawful-use-facial-recognition?amp",
-      "publishedDateTime": "2021-07-30T13:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-31-elon-musks-old-pals-invest-in-neuralink-to-fund-testing-brain-chips-in-humans.md",
-      "title": "Elon Musk’s Old Pals Invest in Neuralink to Fund Testing Brain Chips in Humans",
-      "excerpt": "Elon Musk has rounded up his old friends from PayPal and Open AI days to fund his brain-computer interface startup Neuralink’s next phase of experiments to test implantable brain chips in humans and take the company’s first product to market.",
-      "sourceUrl": null,
-      "webUrl": "https://observer.com/2021/07/elon-musk-neuralink-raise-fund-peter-thiel-brain-chip-human-test/",
-      "originalUrl": "https://observer.com/2021/07/elon-musk-neuralink-raise-fund-peter-thiel-brain-chip-human-test/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://observer.com/wp-content/uploads/sites/2/2021/07/GettyImages-491588398-e1627667664725.jpeg?quality=80&#038;strip",
-          "width": 3461,
-          "height": 2344,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://observer.com/2021/07/elon-musk-neuralink-raise-fund-peter-thiel-brain-chip-human-test/amp/",
-      "cdnAmpWebUrl": "https://observer-com.cdn.ampproject.org/c/s/observer.com/2021/07/elon-musk-neuralink-raise-fund-peter-thiel-brain-chip-human-test/amp/",
-      "publishedDateTime": "2021-07-30T12:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Observer",
-        "domain": "observer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-31-new-law-leaves-facial-recognition-debate-unsettled.md",
-      "title": "New law leaves facial recognition debate unsettled",
-      "excerpt": "President Biden’s nominee for U.S. attorney and advocates who voiced privacy concerns are pitching a state commission on a bill that would regulate government use of facial recognition",
-      "sourceUrl": null,
-      "webUrl": "https://www.wwlp.com/news/massachusetts/new-law-leaves-facial-recognition-debate-unsettled/",
-      "originalUrl": "https://www.wwlp.com/news/massachusetts/new-law-leaves-facial-recognition-debate-unsettled/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wwlp.com/wp-content/uploads/sites/26/2018/05/NC_facialrecognition0523_1920x1080_1527103738342_43280524_ver1.0.jpg?w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wwlp.com/news/massachusetts/new-law-leaves-facial-recognition-debate-unsettled/amp/",
-      "cdnAmpWebUrl": "https://www-wwlp-com.cdn.ampproject.org/c/s/www.wwlp.com/news/massachusetts/new-law-leaves-facial-recognition-debate-unsettled/amp/",
-      "publishedDateTime": "2021-07-30T12:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WWLP",
-        "domain": "wwlp.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-31-keys-to-personalizing-ai-for-sales.md",
-      "title": "Keys to personalizing AI for sales",
-      "excerpt": "With its broad access to data, AI can create a personalized customer experience at a much greater scale than that of a human sales team.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/30/keys-to-personalizing-ai-for-sales/",
-      "originalUrl": "https://venturebeat.com/2021/07/30/keys-to-personalizing-ai-for-sales/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/enterprise-e1627412579683.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/30/keys-to-personalizing-ai-for-sales/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/30/keys-to-personalizing-ai-for-sales/amp/",
-      "publishedDateTime": "2021-07-30T12:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

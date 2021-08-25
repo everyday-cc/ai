@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-06-14-transperfect-life-sciences-unveils-ai-powered-tmf-automation-with-trial-interactive-102.md",
+      "title": "TransPerfect Life Sciences Unveils AI-Powered TMF Automation with Trial Interactive 10.2",
+      "excerpt": "TransPerfect Life Sciences, a leading provider of services and technologies to support global clinical trials and product development for the biopharmaceutical industry, today announced its release of version 10.",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210614ny10332/transperfect-life-sciences-unveils-ai-powered-tmf-automation-with-trial-interactive-102",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210614ny10332/transperfect-life-sciences-unveils-ai-powered-tmf-automation-with-trial-interactive-102",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/635525/TransPerfect_Life_Sciences_Logo.jpg",
+          "width": 400,
+          "height": 307,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-14T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-13-heres-how-ai-can-determine-the-taste-of-coffee-beans.md",
       "title": "Here’s How AI Can Determine The Taste Of Coffee Beans",
       "excerpt": "This Colombian startup is using artificial intelligence to taste coffee and gives producers, farmers and roasters new insight into how to grow, harvest and optimize flavor.",

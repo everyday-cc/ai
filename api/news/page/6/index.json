@@ -2,6 +2,292 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-08-19-intel-takes-the-lid-off-its-biggest-chip-designs-for-the-coming-years.md",
+      "title": "Intel takes the lid off its biggest chip designs for the coming years",
+      "excerpt": "Intel's top chip architects touted the designs at Intel Architecture Day 2021 in the hopes of instilling confidence in its leadership.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/19/intel-takes-the-lid-off-its-biggest-chip-designs-for-the-coming-years/",
+      "originalUrl": "https://venturebeat.com/2021/08/19/intel-takes-the-lid-off-its-biggest-chip-designs-for-the-coming-years/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/intel-arch.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 754,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/19/intel-takes-the-lid-off-its-biggest-chip-designs-for-the-coming-years/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/19/intel-takes-the-lid-off-its-biggest-chip-designs-for-the-coming-years/amp/",
+      "publishedDateTime": "2021-08-19T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-intels-arc-gaming-gpu-price-specs-and-availability.md",
+      "title": "Intel's Arc gaming GPU: Price, specs and availability",
+      "excerpt": "Intel Arc GPUs will face off against AMD and Nvidia rivals with hardware ray tracing and other key features. Read all about them here.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcworld.com/article/3629402/intels-arc-gaming-gpu-price-specs-and-availability.html",
+      "originalUrl": "https://www.pcworld.com/article/3629402/intels-arc-gaming-gpu-price-specs-and-availability.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/03/intel-xe-gpu-tease-100791559-large.jpg?auto=webp",
+          "width": 1199,
+          "height": 662,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcworld.com/article/3629402/intels-arc-gaming-gpu-price-specs-and-availability.amp.html",
+      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3629402/intels-arc-gaming-gpu-price-specs-and-availability.amp.html",
+      "publishedDateTime": "2021-08-19T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect.md",
+      "title": "Tesla to Hold AI Day Amid New Scrutiny: What to Expect",
+      "excerpt": "The world’s most valuable car maker is holding an event to promote its use of artificial intelligence, just as federal regulators this week announced a new investigation into the company’s Autopilot d",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430?mod=hp_lista_pos3",
+      "originalUrl": "https://www.wsj.com/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430?mod=hp_lista_pos3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-387824?width=700&height=557",
+          "width": 700,
+          "height": 557,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430",
+      "publishedDateTime": "2021-08-19T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-how-this-technologist-is-using-beauty-as-a-tool-to-disrupt-facial-recognition.md",
+      "title": "How this technologist is using beauty as a tool to disrupt facial recognition",
+      "excerpt": "The biggest stories of the day delivered to your inbox. By signing up to the Mashable newsletter you agree to receive electronic communications from Mashable that may sometimes include ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/video/how-to-disrupt-surveillance-facial-recognition-tech",
+      "originalUrl": "https://mashable.com/video/how-to-disrupt-surveillance-facial-recognition-tech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/videos/00qvEiMeRxzCYbNV2ojrTjw/hero-image.fill.size_1200x675.v1628003112.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-19T05:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-baidus-kunlun-ii-ai-chips-enter-mass-production.md",
+      "title": "Baidu's Kunlun II AI chips enter mass production",
+      "excerpt": "Chinese tech giant Baidu has begun mass-producing its second generation of Kunlun artificial intelligence chips, used in its cloud data centers and smart electric vehicles. Baidu spun the Kunlun chip business out into an independent company earlier this year,",
+      "sourceUrl": null,
+      "webUrl": "https://www.datacenterdynamics.com/en/news/baidus-kunlun-ii-ai-chips-enter-mass-production/",
+      "originalUrl": "https://www.datacenterdynamics.com/en/news/baidus-kunlun-ii-ai-chips-enter-mass-production/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.datacenterdynamics.com/media/images/Baidu_headquarters.2e16d0ba.fill-1200x630.jpg",
+          "width": 400,
+          "height": 211,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-19T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Datacenter Dynamics",
+        "domain": "datacenterdynamics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-meet-the-designer-who-makes-high-tech-nail-art-and-fights-facial-recognition-with-flowers.md",
+      "title": "Meet the designer who makes high-tech nail art and fights facial recognition with flowers",
+      "excerpt": "She also strategically applies makeup to combat facial recognition software. Based in North Carolina, McDonald is the co-founder of Blink Blink Creative Circuit Kits, which makes gender inclusive ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/joselyn-mcdonald-interview",
+      "originalUrl": "https://mashable.com/article/joselyn-mcdonald-interview",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/05DJAH5r01nPj2qk8Bpg729/hero-image.fill.size_1200x675.v1628106617.png",
+          "width": 1199,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-19T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-19-call-center-automation-startup-balto-secures-37m.md",
       "title": "Call center automation startup Balto secures $37M",
       "excerpt": "Balto, a call center automation startup based in St. Louis, has raised $37 million in series B funding for its agent coaching AI.",
@@ -927,272 +1213,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-newark-nj-airport-tests-facial-recognition-for-boarding.md",
-      "title": "Newark, N.J., Airport Tests Facial Recognition for Boarding",
-      "excerpt": "The Newark Liberty International Airport is using facial recognition to verify passengers for boarding at a single gate in a new pilot program. The goal is to make boarding a smoother process.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/products/newark-n-j-airport-tests-facial-recognition-for-boarding",
-      "originalUrl": "https://www.govtech.com/products/newark-n-j-airport-tests-facial-recognition-for-boarding",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/4b0c0fb/2147483647/strip/true/crop/3840x2002+0+158/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F8b%2Ff0%2Fd7d5d49246228a0d733bfc67324b%2Fshutterstock-1651644193.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/products/newark-n-j-airport-tests-facial-recognition-for-boarding?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/newark-n-j-airport-tests-facial-recognition-for-boarding?_amp=true",
-      "publishedDateTime": "2021-08-18T15:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-is-ai-coming-for-your-dev-job-or-not-a-tale-of-two-surveys.md",
-      "title": "Is AI Coming for Your Dev Job or Not? A Tale of Two Surveys",
-      "excerpt": "The long-simmering issue was revisited following the recent unveiling of GitHub Copilot, an advanced AI system that acts like a \"pair programmer\" by suggesting whole-line code completions and much more.",
-      "sourceUrl": null,
-      "webUrl": "https://visualstudiomagazine.com/Articles/2021/08/18/robot-jobs.aspx?p=1",
-      "originalUrl": "https://visualstudiomagazine.com/Articles/2021/08/18/robot-jobs.aspx?p=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/IntroImages2016/0516red_RedView.jpg",
-          "width": 647,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-18T14:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Visual Studio Magazine",
-        "domain": "visualstudiomagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-national-ai-research-resource-task-force-seeks-more-diverse-public-responses.md",
-      "title": "National AI Research Resource Task Force seeks more ‘diverse’ public responses",
-      "excerpt": "The task force designing a blueprint for a National Artificial Intelligence Research Resource extended the deadline to publicly comment on its work by a month to elicit more diverse responses. A few expected respondents asked for more time,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fedscoop.com/nairr-public-comment-extension/",
-      "originalUrl": "https://www.fedscoop.com/nairr-public-comment-extension/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/sng-global-web-assets/logo/Favicon_FS.png",
-          "width": 629,
-          "height": 607,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-18T13:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FedScoop",
-        "domain": "fedscoop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-mdbootstrap-70-of-web-developers-support-social-benefits-to-ease-ai-transformation.md",
-      "title": "MDBootstrap: 70% of web developers support social benefits to ease AI transformation",
-      "excerpt": "Most developers recognize the danger that AI poses for web development jobs. Most of them agreed that AI transformation is likely to be a cause of widespread unemployment in the i",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/18/mdbootstrap-70-of-web-developers-support-social-benefits-to-ease-ai-transformation/",
-      "originalUrl": "https://venturebeat.com/2021/08/18/mdbootstrap-70-of-web-developers-support-social-benefits-to-ease-ai-transformation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/robot-2301646-e1628227212251.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/18/mdbootstrap-70-of-web-developers-support-social-benefits-to-ease-ai-transformation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/18/mdbootstrap-70-of-web-developers-support-social-benefits-to-ease-ai-transformation/amp/",
-      "publishedDateTime": "2021-08-18T12:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-african-languages-to-get-more-bespoke-scientific-terms.md",
-      "title": "African languages to get more bespoke scientific terms",
-      "excerpt": "Many words common to science have never been written in African languages. Now, researchers from across Africa are changing that.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/d41586-021-02218-x",
-      "originalUrl": "https://www.nature.com/articles/d41586-021-02218-x",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-021-02218-x/d41586-021-02218-x_19578984.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-18T12:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-artificial-intelligence-ai-robots-market-to-set-phenomenal-growth-from-2021-to-2026-abb-alphabet-amazon-asustek-computer-blue-frog-robotics.md",
-      "title": "Artificial Intelligence (AI) Robots Market to Set Phenomenal Growth from 2021 to 2026 | ABB, Alphabet, Amazon, Asustek Computer, Blue Frog Robotics",
-      "excerpt": "Robots Market was valued USD xxxx unit in 2020 and is expected to reach USD xxxx Unit by the year 2025, growing at a CAGR of xx% globally. Global  (AI) Robots Market Overview: Global  (AI) Robots Market Report 2020 comes with the extensive industry analysis of development components,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/artificial-intelligence-ai-robots-market-to-set-phenomenal-growth-from-2021-to-2026-abb-alphabet-amazon-asustek-computer-blue-frog-robotics/",
-      "originalUrl": "https://manometcurrent.com/artificial-intelligence-ai-robots-market-to-set-phenomenal-growth-from-2021-to-2026-abb-alphabet-amazon-asustek-computer-blue-frog-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/08/PR-01-Automotive-and-Transport-27.jpg",
-          "width": 640,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/artificial-intelligence-ai-robots-market-to-set-phenomenal-growth-from-2021-to-2026-abb-alphabet-amazon-asustek-computer-blue-frog-robotics/",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-robots-market-to-set-phenomenal-growth-from-2021-to-2026-abb-alphabet-amazon-asustek-computer-blue-frog-robotics/",
-      "publishedDateTime": "2021-08-18T12:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

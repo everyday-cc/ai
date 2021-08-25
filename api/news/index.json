@@ -2,6 +2,152 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-25-alethea-ai-raises-16m-in-private-token-sale-for-intelligent-nfts-for-the-metaverse.md",
+      "title": "Alethea AI raises $16M in private token sale for intelligent NFTs for the metaverse",
+      "excerpt": "Alethea AI, creator of the \"intelligent NFTs,\" or iNFTs, has raised $16 million in a private token sale to a group of investors.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/24/alethea-ai-raises-16m-in-private-token-sale-for-intelligent-nfts-for-the-metaverse/",
+      "originalUrl": "https://venturebeat.com/2021/08/24/alethea-ai-raises-16m-in-private-token-sale-for-intelligent-nfts-for-the-metaverse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/06/alice.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 645,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/24/alethea-ai-raises-16m-in-private-token-sale-for-intelligent-nfts-for-the-metaverse/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/24/alethea-ai-raises-16m-in-private-token-sale-for-intelligent-nfts-for-the-metaverse/amp/",
+      "publishedDateTime": "2021-08-24T20:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-watch-san-franciscans-take-a-ride-in-waymos-self-driving-car.md",
+      "title": "Watch San Franciscans take a ride in Waymo’s self-driving car",
+      "excerpt": "Autonomous-car specialist is expanding its trial ridesharing service to regular folks in San Francisco as part of a new research program.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/cars/watch-san-franciscans-take-a-ride-in-waymos-autonomous-car/",
+      "originalUrl": "https://www.digitaltrends.com/cars/watch-san-franciscans-take-a-ride-in-waymos-autonomous-car/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/dsc_0570.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/cars/watch-san-franciscans-take-a-ride-in-waymos-autonomous-car/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/watch-san-franciscans-take-a-ride-in-waymos-autonomous-car/?amp",
+      "publishedDateTime": "2021-08-24T20:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-artificial-intelligence-ai-chips-market-may-set-new-growth-story-qualcomm-mythic-amd.md",
+      "title": "Artificial Intelligence (Ai) Chips Market May Set New Growth Story | Qualcomm, Mythic, AMD",
+      "excerpt": "The Latest research study released by HTF MI Worldwide Artificial Intelligence Ai Chips Market with 100 pages of analysis on business Strategy taken up by key and emerging industry players and delivers know how of the current market development landscape",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2366189/artificial-intelligence-ai-chips-market-may-set-new-growth",
+      "originalUrl": "https://www.openpr.com/news/2366189/artificial-intelligence-ai-chips-market-may-set-new-growth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/8/U825941161_g.jpg",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2366189/artificial-intelligence-ai-chips-market-may-set-new-growth",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2366189/artificial-intelligence-ai-chips-market-may-set-new-growth",
+      "publishedDateTime": "2021-08-24T19:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-25-cerebras-prepares-for-the-era-of-120-trillion-parameter-neural-networks.md",
       "title": "Cerebras prepares for the era of 120 trillion-parameter neural networks",
       "excerpt": "In the past year, what had been the world's largest neural net as measured by neural weights, OpenAI's GPT-3 natural language processing program, with 175 billion weights, was eclipsed by Google's 1.6-trillion-parameter model, the Switch Transformer.",
@@ -207,7 +353,7 @@
       "originalUrl": "https://www.techspot.com/news/90925-intel-arc-gpu-drivers-include-built-overclocking-tools.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -312,7 +458,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/access-an-amazon-sagemaker-studio-notebook-from-a-corporate-network/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -660,6 +806,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-mynd-integrated-solutions-acquires-artificial-intelligence-platform-move78c.md",
+      "title": "Mynd Integrated Solutions acquires Artificial Intelligence Platform Move78(c)",
+      "excerpt": "Mynd Integrated Solutions, one of the leading Finance & Accounting (F & A) and HR outsourcing partners for businesses, awarded by NASSCOM in the AI & ML category, has acquired Move78(c)[?] platform fr",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/content/press-releases-ani/mynd-integrated-solutions-acquires-artificial-intelligence-platform-move78-c-121082401358_1.html",
+      "originalUrl": "https://www.business-standard.com/content/press-releases-ani/mynd-integrated-solutions-acquires-artificial-intelligence-platform-move78-c-121082401358_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-08/24/full/20210824204718.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/content-amp/press-releases-ani/mynd-integrated-solutions-acquires-artificial-intelligence-platform-move78-c-121082401358_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/mynd-integrated-solutions-acquires-artificial-intelligence-platform-move78-c-121082401358_1.html",
+      "publishedDateTime": "2021-08-24T08:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -1066,195 +1255,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-autonomous-vehicles-the-good-versus-the-bad.md",
-      "title": "Autonomous Vehicles: The Good Versus The Bad",
-      "excerpt": "A study by North Carolina State University suggests that with regulated use, deployment of autonomous vehicles can be more useful than harmful.",
-      "sourceUrl": null,
-      "webUrl": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0256224",
-      "originalUrl": "https://analyticsindiamag.com/autonomous-vehicles-the-good-versus-the-bad/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://journals.plos.org/plosone/article/figure/image?size=inline&id=10.1371/journal.pone.0256224.g002",
-          "width": 320,
-          "height": 217,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-24T05:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-unity-acquires-ai-chat-analysis-platform-oto-launches-toxicity-in-gaming-report.md",
-      "title": "Unity acquires AI chat analysis platform OTO, launches toxicity in gaming report",
-      "excerpt": "Unity Technologies has acquired OTO to use AI to analyze online multiplayer gaming conversations for possible toxic behavior.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/24/unity-acquires-ai-chat-analysis-platform-oto-launches-toxicity-in-gaming-report/",
-      "originalUrl": "https://venturebeat.com/2021/08/24/unity-acquires-ai-chat-analysis-platform-oto-launches-toxicity-in-gaming-report/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/oto.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 736,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/24/unity-acquires-ai-chat-analysis-platform-oto-launches-toxicity-in-gaming-report/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/24/unity-acquires-ai-chat-analysis-platform-oto-launches-toxicity-in-gaming-report/amp/",
-      "publishedDateTime": "2021-08-24T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-is-the-d1-ai-chip-speeding-tesla-towards-full-autonomy.md",
-      "title": "Is the ‘D1’ AI chip speeding Tesla towards full autonomy?",
-      "excerpt": "Tesla on its AI day, unveiled a custom chip for training artificial intelligence networks in data centers The D1 chip is part of Tesla’s Dojo",
-      "sourceUrl": null,
-      "webUrl": "https://techhq.com/2021/08/is-the-d1-ai-chip-speeding-tesla-towards-full-autonomy/",
-      "originalUrl": "https://techhq.com/2021/08/is-the-d1-ai-chip-speeding-tesla-towards-full-autonomy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.techhq.com/wp-content/uploads/2021/08/Tesla-AI-Day-2021-15-1200x675-1.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-24T04:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechHQ",
-        "domain": "techhq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-looking-beyond-automation-and-efficiency-ai-for-social-good.md",
-      "title": "Looking Beyond Automation And Efficiency: AI For Social Good",
-      "excerpt": "What's often missing from the AI dialogue is a crucial component of AI and its future: the social good that it can (and has) done.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/08/24/looking-beyond-automation-and-efficiency-ai-for-social-good/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/08/24/looking-beyond-automation-and-efficiency-ai-for-social-good/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6076f18320d68a60ca2eb02c%2F0x0.jpg",
-          "width": 1200,
-          "height": 839,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/08/24/looking-beyond-automation-and-efficiency-ai-for-social-good/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/08/24/looking-beyond-automation-and-efficiency-ai-for-social-good/amp/",
-      "publishedDateTime": "2021-08-24T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

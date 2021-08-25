@@ -2,6 +2,195 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-24-autonomous-vehicles-the-good-versus-the-bad.md",
+      "title": "Autonomous Vehicles: The Good Versus The Bad",
+      "excerpt": "A study by North Carolina State University suggests that with regulated use, deployment of autonomous vehicles can be more useful than harmful.",
+      "sourceUrl": null,
+      "webUrl": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0256224",
+      "originalUrl": "https://analyticsindiamag.com/autonomous-vehicles-the-good-versus-the-bad/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://journals.plos.org/plosone/article/figure/image?size=inline&id=10.1371/journal.pone.0256224.g002",
+          "width": 320,
+          "height": 217,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-24T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-unity-acquires-ai-chat-analysis-platform-oto-launches-toxicity-in-gaming-report.md",
+      "title": "Unity acquires AI chat analysis platform OTO, launches toxicity in gaming report",
+      "excerpt": "Unity Technologies has acquired OTO to use AI to analyze online multiplayer gaming conversations for possible toxic behavior.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/24/unity-acquires-ai-chat-analysis-platform-oto-launches-toxicity-in-gaming-report/",
+      "originalUrl": "https://venturebeat.com/2021/08/24/unity-acquires-ai-chat-analysis-platform-oto-launches-toxicity-in-gaming-report/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/oto.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 736,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/24/unity-acquires-ai-chat-analysis-platform-oto-launches-toxicity-in-gaming-report/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/24/unity-acquires-ai-chat-analysis-platform-oto-launches-toxicity-in-gaming-report/amp/",
+      "publishedDateTime": "2021-08-24T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-is-the-d1-ai-chip-speeding-tesla-towards-full-autonomy.md",
+      "title": "Is the ‘D1’ AI chip speeding Tesla towards full autonomy?",
+      "excerpt": "Tesla on its AI day, unveiled a custom chip for training artificial intelligence networks in data centers The D1 chip is part of Tesla’s Dojo",
+      "sourceUrl": null,
+      "webUrl": "https://techhq.com/2021/08/is-the-d1-ai-chip-speeding-tesla-towards-full-autonomy/",
+      "originalUrl": "https://techhq.com/2021/08/is-the-d1-ai-chip-speeding-tesla-towards-full-autonomy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.techhq.com/wp-content/uploads/2021/08/Tesla-AI-Day-2021-15-1200x675-1.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-24T04:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechHQ",
+        "domain": "techhq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-looking-beyond-automation-and-efficiency-ai-for-social-good.md",
+      "title": "Looking Beyond Automation And Efficiency: AI For Social Good",
+      "excerpt": "What's often missing from the AI dialogue is a crucial component of AI and its future: the social good that it can (and has) done.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/08/24/looking-beyond-automation-and-efficiency-ai-for-social-good/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/08/24/looking-beyond-automation-and-efficiency-ai-for-social-good/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6076f18320d68a60ca2eb02c%2F0x0.jpg",
+          "width": 1200,
+          "height": 839,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/08/24/looking-beyond-automation-and-efficiency-ai-for-social-good/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/08/24/looking-beyond-automation-and-efficiency-ai-for-social-good/amp/",
+      "publishedDateTime": "2021-08-24T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-08-24-ai-powered-personal-knowledge-base-startup-synth-raises-funding-from-y-combinator.md",
       "title": "AI-powered Personal Knowledge Base Startup Synth Raises Funding From Y Combinator",
       "excerpt": "Synth is an app that captures all the relevant information you consume - text, audio, video in 1-click and makes it easy to search and retrieve the information you want and use it anywhere",
@@ -49,6 +238,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-baidus-ai-voice-assistant-xiaodu-closes-funding-at-51-billion-valuation.md",
+      "title": "Baidu's AI Voice Assistant Xiaodu Closes Funding at $5.1 Billion Valuation",
+      "excerpt": "Chinese tech giant Baidu Inc said on Tuesday its artificial intelligence (AI) voice assistant Xiaodu Technology has closed Series B financing at a $5.1 billion valuation. This comes in the midst of a regulatory crackdown on the tech industry by the Chinese authorities that has led to an upheaval in many sectors including as e-commerce,",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2021-08-24/baidus-ai-voice-assistant-xiaodu-closes-funding-at-51-billion-valuation",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-08-24/baidus-ai-voice-assistant-xiaodu-closes-funding-at-51-billion-valuation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2021-08-24/baidus-ai-voice-assistant-xiaodu-closes-funding-at-51-billion-valuation?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-08-24/baidus-ai-voice-assistant-xiaodu-closes-funding-at-51-billion-valuation?context=amp",
+      "publishedDateTime": "2021-08-24T04:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -156,7 +388,7 @@
       "originalUrl": "https://techxplore.com/news/2021-08-ai-chatbot-comforting-china-lonely.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -657,7 +889,7 @@
       "originalUrl": "https://www.reuters.com/business/autos-transportation/secret-weapon-self-driving-car-startups-humans-2021-08-23/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -947,240 +1179,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-ai-is-leading-a-chip-design-revolution-and-its-only-just-getting-started.md",
-      "title": "A.I. is leading a chip design revolution, and it’s only just getting started",
-      "excerpt": "An expansion of a tool from software company Synopsys can automate the entire chip design process, and it could revolutionize the industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/ai-leading-chip-design-revolution/",
-      "originalUrl": "https://www.digitaltrends.com/computing/ai-leading-chip-design-revolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/cpu-computer-chip.jpg",
-          "width": 2000,
-          "height": 1335,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/ai-leading-chip-design-revolution/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/ai-leading-chip-design-revolution/?amp",
-      "publishedDateTime": "2021-08-23T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-artificial-intelligence-in-the-education-sector-market-size-key-players-analysis-and-forecast-to-2028.md",
-      "title": "Artificial Intelligence in the Education Sector Market Size, Key Players Analysis and Forecast To 2028",
-      "excerpt": "The new report titled Global Artificial Intelligence in the Education Sector Market published by Emergen Research is a vivid presentation of the global Artificial Intelligence in the Education Sector market with utmost focus on the forecast market size share value",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2363772/artificial-intelligence-in-the-education-sector-market-size",
-      "originalUrl": "https://www.openpr.com/news/2363772/artificial-intelligence-in-the-education-sector-market-size",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/8/U823931376_g.jpg",
-          "width": 700,
-          "height": 393,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2363772/artificial-intelligence-in-the-education-sector-market-size",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2363772/artificial-intelligence-in-the-education-sector-market-size",
-      "publishedDateTime": "2021-08-23T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-the-possibilities-of-ai-in-2030-transformation-across-dimensions.md",
-      "title": "The Possibilities Of AI In 2030: Transformation Across Dimensions",
-      "excerpt": "The decade will truly belong to those who understand the importance of data, algorithms and computational architectures and can use the transformations in these spaces in truly effective ways.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/08/23/the-possibilities-of-ai-in-2030-transformation-across-dimensions/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/08/23/the-possibilities-of-ai-in-2030-transformation-across-dimensions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611ffbd688a933e24c37e9fe%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/08/23/the-possibilities-of-ai-in-2030-transformation-across-dimensions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/08/23/the-possibilities-of-ai-in-2030-transformation-across-dimensions/amp/",
-      "publishedDateTime": "2021-08-23T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-rbl-bank-partners-with-amazon-web-services-aws-to-enhance-its-ai-powered-banking-solutions.md",
-      "title": "RBL Bank Partners With Amazon Web Services (AWS) To Enhance Its AI-Powered Banking Solutions",
-      "excerpt": "RBL Bank has collaborated with Amazon Web Services (AWS), an Amazon.com corporation, as its ideal cloud vendor to enhance its AI-powered banking services and digital transformation. According to the bank this move will add significant value to its innovative offerings,",
-      "sourceUrl": null,
-      "webUrl": "https://www.goodreturns.in/news/rbl-bank-partners-with-amazon-web-services-aws-to-enhance-its-ai-powered-banking-solutions-1221062.html",
-      "originalUrl": "https://www.goodreturns.in/news/rbl-bank-partners-with-amazon-web-services-aws-to-enhance-its-ai-powered-banking-solutions-1221062.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.goodreturns.in/img/400x40/2019/08/rblbanklogo-1565584941.jpeg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.goodreturns.in/amphtml/news/rbl-bank-partners-with-amazon-web-services-aws-to-enhance-its-ai-powered-banking-solutions-1221062.html",
-      "cdnAmpWebUrl": "https://www-goodreturns-in.cdn.ampproject.org/c/s/www.goodreturns.in/amphtml/news/rbl-bank-partners-with-amazon-web-services-aws-to-enhance-its-ai-powered-banking-solutions-1221062.html",
-      "publishedDateTime": "2021-08-23T05:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Goodreturns",
-        "domain": "goodreturns.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-how-hybrid-cloud-ai-boost-innovation-in-africas-banking-sector.md",
-      "title": "How Hybrid Cloud & AI Boost Innovation in Africa’s Banking Sector",
-      "excerpt": "The banking sector was no different, digital transformation and adoption are the foundation of banks’ priorities as the use of digital channels and customer self-service continue to grow at a rapid pace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itnewsafrica.com/2021/08/how-hybrid-cloud-ai-boost-innovation-in-africas-banking-sector/",
-      "originalUrl": "https://www.itnewsafrica.com/2021/08/how-hybrid-cloud-ai-boost-innovation-in-africas-banking-sector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itnewsafrica.com/wp-content/uploads/2020/05/Digital-Transformation.jpg",
-          "width": 800,
-          "height": 520,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itnewsafrica.com/2021/08/how-hybrid-cloud-ai-boost-innovation-in-africas-banking-sector/?amp",
-      "cdnAmpWebUrl": "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2021/08/how-hybrid-cloud-ai-boost-innovation-in-africas-banking-sector/?amp",
-      "publishedDateTime": "2021-08-23T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT News Africa",
-        "domain": "itnewsafrica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

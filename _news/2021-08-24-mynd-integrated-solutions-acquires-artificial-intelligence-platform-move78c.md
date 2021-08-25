@@ -9,8 +9,8 @@ ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/myn
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/mynd-integrated-solutions-acquires-artificial-intelligence-platform-move78-c-121082401358_1.html"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Business Standard
@@ -41,6 +41,15 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Mynd Integrated Solutions acquires Artificial Intelligence Platform Move78(c)"
+    excerpt: "The amalgamation of Move78 (c) [?] platform and its team with Mynd's technology division will stay ahead of the curve and bring a host of new-age digital transformation opportunities and SSC solutions to Mynd's existing & prospective clientele under one roof."
+    publishedDateTime: 2021-08-25T03:45:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20210824/3808270.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 16
 
 secured: "3IgFokTYm3xh31paHB4CAcDldgVjuFMOFhhYITx+FqTirUy5T1WiObhmvURRa45sG01B2f2xTDWMFJwTFgcFNzayO0MrDRp1TWeZPvFauzjO8aTglmNpK0Au7JXH0qarbuK8KtgMsrOAXnYB9AxuzE8WrDVjH87uYR/uO8Xz+vFqXs3fsAfZNcqssdliAtC+Cjfqm3u55h6KWqNcqewZ4C2E4L0Z8zwBDBUNKPEeXAGbWDppkJhCYckLU/UAlScYQiEUUQrcI8H89z7ff5wHAYQSVsDYvGhHWQRFZa86YfuegMVRzPInen0BESw7/heC1zTH1dLMfgnHH6e6KR9ZYs5Uc9+JhvsMoz1JWGp6JsHr+CfZa3jK21ClgTSBGGWzem5oDioM8hWlidpNWm8AQ1PdiJ/Sh96wsLgcWOYxkv7q74bebO8KgyaLQMHEJz72bNdOphelycrPqjeceaTbpg02i6KOZAz4vLzcqfh1QXwAhNgv6Po+ZHYkQj3YpfYP7Kj0h7R62o45Bn/qystLjw==;KYN4HL5eFaGZrAcFBfqMQQ=="
 ---

@@ -88,15 +88,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Tesla's insane new Dojo D1 AI chip, a full transcript of its unveiling"
-    excerpt: "This chip is manufactured on 7nm ... To sum it all, this is what it will be: it will be the fastest AI training computer -- 4x the performance at the same cost, 1.3x better performance-per-watt -- that is energy-saving, and 5x smaller footprint."
-    publishedDateTime: 2021-08-20T10:42:00Z
-    webUrl: "https://www.tweaktown.com/news/81229/teslas-insane-new-dojo-d1-ai-chip-full-transcript-of-its-unveiling/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 51
 
 secured: "sp6ZLfWSKjEQWDHjrBmeZJo8dyxDM7J8Ao/mBn899Z5J2Vg3H8HDuXJbAvndRcitIbKi640zTiVgiqVJTFM16zY9KtNHN20/CjlAiFYD/rrEiTd69Bnp3RB4mP/+rTpEhZQ/MlXiKxdQrbpBsoI/dUmaXSMBUSANDHcrjk9TUUIVcjxM27RthI0qIv5jnCRI1YfQGHpSCTG+M2u5J/Lr2aL5wjCmQ58hJPETH/a1qJHlFYfLXIwwt2RwJTIWYIS9hK3avQWCZCGRc6bLX4fBg0HTMesYGXeUF5YgFUB+RWiL3EtUpKCFKkjNxLZxdOuxgUu79ev0h2yMtCMZ/GPMyqZZrD4d3zvfW0oqej0oBM2+TSvnuL6uYwmrIkJ+0X48JE3KKKZpFvtJRElqthG7d1fRsC1c4zMm1RBLp2O1rjuUTzmMHI973iSVZDd8czJUTi9UwdhUSWKrJk16L5M2v43CMF8DaVBK+xAVa0qfk08BkVIraaFakrxPJgXoOA3gHEm9cGsDzXRVBhd62S0Itw==;vdnXMWiMBWf95YXnvYFV1A=="
 ---

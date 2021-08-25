@@ -2,6 +2,294 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-21-the-ai-marketing-canvas-a-roadmap-to-implementing-artificial-intelligence-in-marketing.md",
+      "title": "The AI Marketing Canvas: A Roadmap To Implementing Artificial Intelligence In Marketing",
+      "excerpt": "Artificial intelligence (AI) is one of the hottest topics in marketing right now. Raj Venkatesan and Jim Lecinski recently published a book entitled “The AI Marketing Canvas: A Five-Stage Road Map to Implementing Artificial Intelligence in Marketing”.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/kimberlywhitler/2021/08/21/the-ai-marketing-canvas-a-roadmap-to-implementing-artificial-intelligence-in-marketing/",
+      "originalUrl": "https://www.forbes.com/sites/kimberlywhitler/2021/08/21/the-ai-marketing-canvas-a-roadmap-to-implementing-artificial-intelligence-in-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f37a46f5cc905452bdea50%2F0x0.jpg",
+          "width": 1200,
+          "height": 632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-21T09:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-08-21-angst-and-worries-that-forbidden-knowledge-could-be-revealed-by-developing-ai-self-driving-cars.md",
+      "title": "Angst And Worries That Forbidden Knowledge Could Be Revealed By Developing AI Self-Driving Cars",
+      "excerpt": "Asking whether forbidden knowledge might be hidden within efforts to create AI systems, and particularly in the case of developing self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/21/angst-and-worries-that-forbidden-knowledge-could-be-revealed-by-developing-ai-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/21/angst-and-worries-that-forbidden-knowledge-could-be-revealed-by-developing-ai-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60aea6e9c265b9c305b6d333%2F0x0.jpg%3FcropX1%3D471%26cropX2%3D3180%26cropY1%3D8%26cropY2%3D1531",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/21/angst-and-worries-that-forbidden-knowledge-could-be-revealed-by-developing-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/21/angst-and-worries-that-forbidden-knowledge-could-be-revealed-by-developing-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2021-08-21T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-08-21-4-robotics-stocks-to-watch-this-week.md",
+      "title": "4 Robotics Stocks To Watch This Week",
+      "excerpt": "Check Out These Top Robotics Stock Amid The Increasing Interest In Automation. Robotic stocks often elicit a sense of excitement among investors. To a certain extent, investing in",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/4-robotics-stocks-to-watch-this-week-2021-08-21",
+      "originalUrl": "https://www.nasdaq.com/articles/4-robotics-stocks-to-watch-this-week-2021-08-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/4-robotics-stocks-to-watch-this-week-2021-08-21?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-robotics-stocks-to-watch-this-week-2021-08-21?amp",
+      "publishedDateTime": "2021-08-21T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-21-sensetime-parlays-academic-bona-fides-into-worlds-largest-platform-for-artificial-intelligence-facial-recognition-image-processing.md",
+      "title": "SenseTime parlays academic bona fides into world’s largest platform for artificial intelligence, facial recognition, image processing",
+      "excerpt": "China’s AI industry may triple to 453.26 billion yuan in value by 2025 from last year, while a broader AI-driven industry may be as large as 1.66 trillion yuan, which underscores the strategic importance of the field in the Made in China 2025 industrial master plan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/business/companies/article/3145739/sensetime-parlays-academic-bona-fides-worlds-largest-platform",
+      "originalUrl": "https://www.scmp.com/business/companies/article/3145739/sensetime-parlays-academic-bona-fides-worlds-largest-platform",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/08/21/e986ee0c-0187-11ec-83d9-2f907cc4e7e5_image_hires_151711.jpg?itok=PxNg6vKn&v=1629530249",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/business/companies/article/3145739/sensetime-parlays-academic-bona-fides-worlds-largest-platform",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/companies/article/3145739/sensetime-parlays-academic-bona-fides-worlds-largest-platform",
+      "publishedDateTime": "2021-08-21T03:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Computer Vision",
+        "Machine Learning",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-08-21-ai-can-now-identify-footprints-but-forensic-experts-wont-get-fired-just-yet.md",
+      "title": "AI can now identify footprints — but forensic experts won’t get fired just yet",
+      "excerpt": "We found AI was better at assessing footprints than general forensic scientists, but not better than specific footprint experts.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/ai-identify-footprints-but-forensic-experts-wont-get-fired-syndication",
+      "originalUrl": "https://thenextweb.com/news/ai-identify-footprints-but-forensic-experts-wont-get-fired-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2Ffootrpints.png&signature=479b4a5a4ecd55f12624e99786d977e3",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-21T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-21-call-center-ai-market-to-witness-huge-growth-by-2028-ibm-google-microsoft.md",
+      "title": "Call Center AI Market to Witness Huge Growth by 2028 | IBM , Google , Microsoft",
+      "excerpt": "Announced Call Center AI study with 200+ market data Tables and Figures spread through Pages and easy to understand detailed TOC on “Call Center AI. Call Center AI industry Report allows you to get different methods for maximizing your profit.",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/call-center-ai-market-to-witness-huge-growth-by-2028-ibm-google-microsoft/",
+      "originalUrl": "https://manometcurrent.com/call-center-ai-market-to-witness-huge-growth-by-2028-ibm-google-microsoft/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manometcurrent.com/wp-content/uploads/2021/08/Internet-of-Things-Insurance-Market-390x220.png",
+          "width": 390,
+          "height": 220,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/call-center-ai-market-to-witness-huge-growth-by-2028-ibm-google-microsoft/?amp=1",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/call-center-ai-market-to-witness-huge-growth-by-2028-ibm-google-microsoft/?amp=1",
+      "publishedDateTime": "2021-08-21T00:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-21-us-woman-becomes-a-superwoman-for-afghan-all-girl-robotics-team-rescues-10.md",
       "title": "US woman becomes a superwoman for Afghan all-girl robotics team, rescues 10",
       "excerpt": "The team, consisting of young women ageing from 16 to 18 years, was scared as the Taliban took control and they were on the mind of the US woman, who previously met them in 2019.",
@@ -336,7 +624,7 @@
       "originalUrl": "https://electrek.co/2021/08/20/tesla-dojo-supercomputer-worlds-new-most-powerful-ai-training-machine/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 152,
+      "heat": 142,
       "tags": null,
       "images": [
         {
@@ -724,7 +1012,7 @@
       "originalUrl": "https://www.cnet.com/news/elon-musk-unveils-tesla-bot-a-humanoid-robot-utilizing-vehicle-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 851,
+      "heat": 831,
       "tags": null,
       "images": [
         {
@@ -905,289 +1193,6 @@
       "topics": [
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-andrew-hawkins-of-the-verge-on-the-highlights-from-teslas-ai-day.md",
-      "title": "Andrew Hawkins of The Verge on the highlights from Tesla's AI Day",
-      "excerpt": "Andrew Hawkins, Senior Transportation Reporter at The Verge, joins Worldwide Exchange to discuss Tesla's AI Day event and the announcement of a humanoid Tesla robot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/video/2021/08/20/andrew-hawkins-of-the-verge-on-the-highlights-from-teslas-ai-day.html",
-      "originalUrl": "https://www.cnbc.com/video/2021/08/20/andrew-hawkins-of-the-verge-on-the-highlights-from-teslas-ai-day.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106930909-16294568745ED4-WEX-082021-Hawkins.jpg?v=1629456873",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-20T01:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-how-ai-powered-tech-landed-man-in-jail-with-scant-evidence.md",
-      "title": "How AI-powered tech landed man in jail with scant evidence",
-      "excerpt": "Williams was jailed last August, accused of killing a young man from the neighborhood who asked him for a ride during a night of unrest over police brutality in May. But the key evidence against Williams didn’t come from an eyewitness or an informant;",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/news/article/How-AI-powered-Tech-Landed-Man-In-Jail-With-Scant-16396942.php",
-      "originalUrl": "https://www.chron.com/news/article/How-AI-powered-Tech-Landed-Man-In-Jail-With-Scant-16396942.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chron.com/news/amp/How-AI-powered-Tech-Landed-Man-In-Jail-With-Scant-16396942.php",
-      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/How-AI-powered-Tech-Landed-Man-In-Jail-With-Scant-16396942.php",
-      "publishedDateTime": "2021-08-20T01:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-healthtech-startup-ziniai-bags-seed-grant-from-the-government-of-punjab.md",
-      "title": "Healthtech Startup Zini.ai Bags Seed Grant From The Government Of Punjab",
-      "excerpt": "The startups selected for the grant will have access to mentors, networking opportunities, interactions with Invest Punjab and other stakeholders",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/380793",
-      "originalUrl": "https://www.entrepreneur.com/article/380793",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1629446524-Zini-PunjabSeedGrant002v11.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/380793",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/380793",
-      "publishedDateTime": "2021-08-20T01:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-north-america-is-expected-to-dominate-the-ai-in-physical-security-market-to-through-2026-techsci-research.md",
-      "title": "North America is expected to dominate the AI in Physical Security Market to through 2026 – TechSci Research",
-      "excerpt": "Ongoing technological advancements and the surge in use of the internet protocol based camera is expected to drive the demand for global AI in physical security market in forecast period According to TechSci Research report Global AI in Physical Security",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2361395/north-america-is-expected-to-dominate-the-ai-in-physical-security",
-      "originalUrl": "https://www.openpr.com/news/2361395/north-america-is-expected-to-dominate-the-ai-in-physical-security",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/8/U820806123_g.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2361395/north-america-is-expected-to-dominate-the-ai-in-physical-security",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2361395/north-america-is-expected-to-dominate-the-ai-in-physical-security",
-      "publishedDateTime": "2021-08-19T23:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-chinese-ai-unicorn-eyes-ipo-southeast-asia-expansion-after-200-million-funding-round.md",
-      "title": "Chinese AI Unicorn Eyes IPO, Southeast Asia Expansion After $200 Million Funding Round",
-      "excerpt": "After a recent funding round from top Chinese venture capital firms, Shenzhen-based AI startup SmartMore has big plans to go public and expand across Southeast Asia, starting with Singapore.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rubyleung/2021/08/20/chinese-ai-unicorn-eyes-ipo-southeast-asia-expansion-after-200-million-funding-round/",
-      "originalUrl": "https://www.forbes.com/sites/rubyleung/2021/08/20/chinese-ai-unicorn-eyes-ipo-southeast-asia-expansion-after-200-million-funding-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611f358e094e8aec6f42b14b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D849%26cropY1%3D0%26cropY2%3D478",
-          "width": 849,
-          "height": 478,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rubyleung/2021/08/20/chinese-ai-unicorn-eyes-ipo-southeast-asia-expansion-after-200-million-funding-round/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rubyleung/2021/08/20/chinese-ai-unicorn-eyes-ipo-southeast-asia-expansion-after-200-million-funding-round/amp/",
-      "publishedDateTime": "2021-08-19T22:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-ai-in-fintech-market-analysis-revenue-share-company-profiles-launches-forecast-till-2027.md",
-      "title": "AI in Fintech Market Analysis, Revenue Share, Company Profiles, Launches, & Forecast Till 2027",
-      "excerpt": "The global AI in Fintech Market is forecast to reach USD 26.77 Billion by 2026, according to a new report by Reports and Data. The AI in fintech incorporates computational power and deep learning algorithms to the financial technology.",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/ai-in-fintech-market-analysis-revenue-share-company-profiles-launches-forecast-till-2027/",
-      "originalUrl": "https://manometcurrent.com/ai-in-fintech-market-analysis-revenue-share-company-profiles-launches-forecast-till-2027/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/08/2-84.jpg",
-          "width": 1000,
-          "height": 466,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/ai-in-fintech-market-analysis-revenue-share-company-profiles-launches-forecast-till-2027/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/ai-in-fintech-market-analysis-revenue-share-company-profiles-launches-forecast-till-2027/?amp=1",
-      "publishedDateTime": "2021-08-19T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

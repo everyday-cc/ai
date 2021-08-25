@@ -2,6 +2,102 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-09-there-is-increasingly-mounting-ai-technical-debt-that-is-going-to-inevitably-sink-some-self-driving-cars.md",
+      "title": "There Is Increasingly Mounting AI Technical Debt That Is Going To Inevitably Sink Some Self-Driving Cars",
+      "excerpt": "One unspoken aspect of today's AI systems is the incurring of software technical debt, which also pertains to the development of AI-based self-driving cars. Here's the scoop.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/09/there-is-increasingly-mounting-ai-technical-debt-that-is-going-to-inevitably-sink-some-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/09/there-is-increasingly-mounting-ai-technical-debt-that-is-going-to-inevitably-sink-some-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610dc9312d9670da5ca5a586%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3618%26cropY1%3D308%26cropY2%3D2344",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/09/there-is-increasingly-mounting-ai-technical-debt-that-is-going-to-inevitably-sink-some-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/09/there-is-increasingly-mounting-ai-technical-debt-that-is-going-to-inevitably-sink-some-self-driving-cars/amp/",
+      "publishedDateTime": "2021-08-09T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-09-tesla-fames-robot-run-etf-added-snapchat-zoom-and-this-wallstreetbets-favorite-stock-in-july.md",
+      "title": "Tesla Fame's Robot-Run ETF Added Snapchat, Zoom And This WallStreetBets-Favorite Stock In July",
+      "excerpt": "The Qraft AI-Enhanced US Large Cap Momentum ETF (NYSE:AMOM), an exchange-traded fund driven by artificial intelligence, has acquired stakes in Reddit-favorite stock Advanced Micro Devices Inc. (NASDAQ:AMD),",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/trading-ideas/long-ideas/21/08/22393375/tesla-fames-robot-run-etf-added-snapchat-zoom-and-this-wallstreetbets-favorite-stock-in-",
+      "originalUrl": "https://www.benzinga.com/trading-ideas/long-ideas/21/08/22393375/tesla-fames-robot-run-etf-added-snapchat-zoom-and-this-wallstreetbets-favorite-stock-in-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/files/images/story/2012/souvik-banerjee-pqxlyuqex4c-unsplash_2.jpg",
+          "width": 6000,
+          "height": 4000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/22393375",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22393375",
+      "publishedDateTime": "2021-08-09T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-08-09-artificial-intelligence-and-the-law.md",
       "title": "Artificial Intelligence and the Law",
       "excerpt": "Self-driving vehicles may be safer than human drivers ... Ryan Abbott brings a unique and sometimes controversial perspective to artificial intelligence as a physician, attorney, and eminent academic, but manages to present the subject in an accessible ...",
@@ -1246,102 +1342,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-beijing-permits-self-driving-vehicle-testing-on-expressways.md",
-      "title": "Beijing permits self-driving vehicle testing on expressways",
-      "excerpt": "Driverless cars will soon take to expressways for testing in the Chinese capital Beijing, as the municipal authority has approved the gradual",
-      "sourceUrl": null,
-      "webUrl": "https://www.macaubusiness.com/beijing-permits-self-driving-vehicle-testing-on-expressways/",
-      "originalUrl": "https://www.macaubusiness.com/beijing-permits-self-driving-vehicle-testing-on-expressways/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://macaubusiness.s3.ap-southeast-1.amazonaws.com/2021/07/ArtMacao_MGMLionParty_MacauBusiness_Still-pop-up-banner_800x480.jpg",
-          "width": 800,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-30T02:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Macau Business",
-        "domain": "macaubusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-what-the-us-can-learn-from-europes-approach-to-artificial-intelligence.md",
-      "title": "What the U.S. Can Learn From Europe’s Approach to Artificial Intelligence",
-      "excerpt": "Americans have good reason to be skeptical of artificial intelligence. Tesla crashes have dented the dream of self-driving cars. Mysterious algorithms predict job applicants’ performance based on little more than video interviews.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/07/30/opinion/artificial-intelligence-european-union.html",
-      "originalUrl": "https://www.nytimes.com/2021/07/30/opinion/artificial-intelligence-european-union.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/07/30/opinion/30PasqualeMalgieri/30PasqualeMalgieri-facebookJumbo-v3.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/07/30/opinion/artificial-intelligence-european-union.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/30/opinion/artificial-intelligence-european-union.amp.html",
-      "publishedDateTime": "2021-07-30T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

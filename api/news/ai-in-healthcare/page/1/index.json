@@ -10,7 +10,7 @@
       "originalUrl": "https://techxplore.com/news/2021-08-ai-chatbot-comforting-china-lonely.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -610,19 +610,19 @@
     {
       "path": "_news/2021-08-16-global-artificial-intelligence-market-report-2021-to-2030-covid-19-growth-and-change-researchandmarketscom.md",
       "title": "Global Artificial Intelligence Market Report (2021 to 2030) - COVID-19 Growth and Change - ResearchAndMarkets.com",
-      "excerpt": "COVID-19 Growth and Change to 2030\" report has been added to ResearchAndMarkets.com's offering. This report provides strategists, marketers and senior management with the critical information they need to assess the global artificial intelligence market.",
+      "excerpt": "COVID-19 Growth and Change to 2030” report has been added to ResearchAndMarkets.com’s offering. This report provides strategists, marketers and senior management with the critical information they need to assess the global artificial intelligence market.",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/08/b22509856/global-artificial-intelligence-market-report-2021-to-2030-covid-19-growth-and-change-researchandma",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/08/b22509856/global-artificial-intelligence-market-report-2021-to-2030-covid-19-growth-and-change-researchandma",
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-health-coronavirus-pandemic-artificial-intelligence-45b91cdf2c7842bd8d72db1edf75620c",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-health-coronavirus-pandemic-artificial-intelligence-45b91cdf2c7842bd8d72db1edf75620c",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png",
-          "width": 1200,
-          "height": 600,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -630,13 +630,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/22509856",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22509856",
-      "publishedDateTime": "2021-08-16T06:02:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-16T06:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -653,19 +653,19 @@
     {
       "path": "_news/2021-08-16-jon-peddie-research-announces-its-latest-whitepaper-for-sony-electronics-inc-the-rise-and-benefits-of-companion-robots.md",
       "title": "Jon Peddie Research Announces its Latest Whitepaper for Sony Electronics Inc.: The Rise and Benefits of Companion Robots",
-      "excerpt": "Jon Peddie Research (JPR), the industry's research and consulting firm for graphics and multimedia, announced a new whitepaper regarding the benefits of companion robots, including the Sony Aibo dog.",
+      "excerpt": "Jon Peddie Research (JPR), the industry’s research and consulting firm for graphics and multimedia, announced a new whitepaper regarding the benefits of companion robots, including the Sony Aibo dog.",
       "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/jon-peddie-research-announces-its-latest-whitepaper-for-sony-electronics-inc-the-rise-and-benefits/article_df231d87-5ae0-580a-87c3-7fd099241713.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/jon-peddie-research-announces-its-latest-whitepaper-for-sony-electronics-inc-the-rise-and-benefits/article_df231d87-5ae0-580a-87c3-7fd099241713.html",
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-bd09f555f10d41e4aa3915bd70d153b5",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-bd09f555f10d41e4aa3915bd70d153b5",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -678,8 +678,8 @@
       "publishedDateTime": "2021-08-16T04:56:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

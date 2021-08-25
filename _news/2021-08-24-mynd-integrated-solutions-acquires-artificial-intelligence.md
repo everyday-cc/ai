@@ -41,6 +41,15 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Mynd Integrated Solutions acquires Artificial Intelligence Platform Move78(c)"
+    excerpt: "The amalgamation of Move78 (c) [?] platform and its team with Mynd's technology division will stay ahead of the curve and bring a host of new-age digital transformation opportunities and SSC solutions to Mynd's existing & prospective clientele under one roof."
+    publishedDateTime: 2021-08-25T03:45:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20210824/3808270.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 16
 
 secured: "bpj3Z3ye7egphTUHiRcMaN7iJ1PLX2mZrVKyfxNDIl458XwSWd14BAmw3DJRt5TduIjESaiKv+WyXzunyBF9eaj4koUXjiLte83K9yr+/LqOQ8utmfAsYLS1tKCvLbNxm8uKA+q9aBcggAgoxXaPLzrjswpdFByeJGtf/Gh1wKSbpgSBvi+YTrI4shvWSb5xzwYtg1c2fGrDYeQCvzhRum788AOQdLu14UgFlovX2l4+a5jqjrEaP4cHqMxS5mX6NDgia3I16LIZ3O1gU1YjQBxsVA0+P4G6+2iXFN0xgPc3ibBIskoVexyt/fe/G3cjqGrqLersardU74nPvuO03bi2OqsgwDrGi5zbwLpuE+8aZsLqQh1AvCRJJ7V3l8bfiXAiWr6oyDQ1HRp0TdO+E6qr15Npz4Iepb2Hpyq2ekEDLbU32Pa6qX/JTBSGZmprVJ8Sxv5FmtNlPhvA7eSqXBmcZLVxLIwQdhtd5oznjgGGt+epVFxu9hHBQNdZhcmlFYqxL82VflVVAt2a2kQwSg==;99r1SYANB+eqNgHPkxBI2Q=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.motorauthority.com/news/1133305_tesla-bot-genesis-g90-
 webUrl: "https://www.motorauthority.com/news/1133305_tesla-bot-genesis-g90-baidu-robotaxi-today-s-car-news"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1920
     height: 1174
     isCached: true
+
+related:
+  - title: "Baidu shows off robotaxi concept and second-generation AI computer chip"
+    excerpt: "Baidu says it is ready to move from technical verification to large-scale commercial operation of self-driving cars."
+    publishedDateTime: 2021-08-20T14:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1133304_baidu-shows-off-robotaxi-concept-and-second-generation-ai-computer-chip"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 56
+    images:
+      - url: "https://images.hgmsites.net/lrg/baidu-self-driving-car-concept_100803533_l.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "mvx6tY0CF78hzTBM7YkshQkh5tBJwK743wXH5XwuHwCF4qBZz8d1gPNx2AO/1ODnyxb7Cfv91L2vAHYHGy7EePik+bzszryDThkfwv44DZcRn5zQbP7+D8Rwz4S76x6RxHQ3YBb7hw068K8+HhP4CJLmkwGlt406YGnsBwUR3k3G8i2zqUXGzTZEA0dweU1zTmR45ZyT3iZmpWBC41e4digCPAIn799vTMphyptg+YZ0k5uQr+P0kAmGCRrIj5Yq/oVsC/mEbgow/1KIS56fME5OG9Yk3z1N2B+k64D6bnCIm4R4k+/K7LYa9pp28zY3ieZJlVzbs5rSp0W/aP4/gnjEEiqMjCJ1UqW7h9oy42pqfM1fjK5WMUBXmVTqvhofCz62KgBjRMEYlRDLTG8SXi1JIg9DCI4vwdHV0Zx9n7JK7MKgcDOg06m1M5WjpJOM1z2e16DhddkBdlDL4i1XtiNg7kzxOy+g/FdZNKzu+2ADhYFkyLaCIzBDY6R7mC4SxUTS2It7lOYybvtWPmGcFg==;WdF5kEx31j2hNt7O2BmtRw=="
 ---

@@ -2,6 +2,275 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-08-09-foundations-of-trustworthy-ai-guiding-the-workforce.md",
+      "title": "Foundations of trustworthy AI: Guiding the workforce",
+      "excerpt": "As an organization expands its use of AI, its teams should build individual AI solutions that are trustworthy from the start. This requires guiding the workforce so that everyone involved in creating the solutions understands the tenets of trustworthy AI, knows how to apply them, and makes them an integrated",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/08/trustworthy-ai-guiding-workforce/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/08/trustworthy-ai-guiding-workforce/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/08/blog_guide-workforce_2000x1000.jpg",
+          "width": 2000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-09T06:00:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-09-why-we-need-a-new-ethical-standard-for-the-development-and-use-of-robots.md",
+      "title": "Why we need a new ethical standard for the development and use of robots",
+      "excerpt": "In robotics, peak hubris is the common movie plot: human creates AI-powered robot, human loses control of AI-powered ... building robots with net good in mind. Some robotics are now even ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/blog/Data-Matters/Why-we-need-a-new-ethical-standard-for-the-development-and-use-of-robots",
+      "originalUrl": "https://www.computerweekly.com/blog/Data-Matters/Why-we-need-a-new-ethical-standard-for-the-development-and-use-of-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/blog/Data-Matters/Why-we-need-a-new-ethical-standard-for-the-development-and-use-of-robots?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/blog/Data-Matters/Why-we-need-a-new-ethical-standard-for-the-development-and-use-of-robots?amp=1",
+      "publishedDateTime": "2021-08-09T05:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-08-09-googles-verily-opens-israel-rd-center-will-partner-with-hospitals-on-ai-in-healthcare.md",
+      "title": "Google’s Verily Opens Israel R&D Center, Will Partner With Hospitals On AI In Healthcare",
+      "excerpt": "The Verily center will focus on early research with Israel's Shaare Zedek hospital using an AI system to help detect colorectal cancer.",
+      "sourceUrl": null,
+      "webUrl": "https://nocamels.com/2021/08/google-verily-israel-rd-center-ai-healthcare/",
+      "originalUrl": "https://nocamels.com/2021/08/google-verily-israel-rd-center-ai-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/08/google-sign-alex-dudar-unsplash.jpg",
+          "width": 1915,
+          "height": 1133,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-09T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NoCamels - Israeli Innovation News",
+        "domain": "nocamels.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-09-seachange-enables-a-fully-migrated-cloud-video-delivery-platform-with-unique-analytics-and-engagement-services-on-amazon-web-services.md",
+      "title": "SeaChange Enables a Fully Migrated Cloud Video Delivery Platform with Unique Analytics and Engagement Services on Amazon Web Services",
+      "excerpt": "Now, with Amazon SageMaker, SeaChange customers will be able to easily deploy ML use cases like predictive maintenance, computer vision and predicting customer behaviors. \"SeaChange's StreamVid ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/seachange-enables-a-fully-migrated-cloud-video-delivery-platform-with-unique-analytics-and-engagement-services-on-amazon-web-services-1030708388",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/seachange-enables-a-fully-migrated-cloud-video-delivery-platform-with-unique-analytics-and-engagement-services-on-amazon-web-services-1030708388",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-09T05:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-09-rbl-bank-selects-aws-as-preferred-cloud-provider.md",
+      "title": "RBL Bank selects AWS as preferred cloud provider",
+      "excerpt": "Other use cases already being tested within the Operations division include usingservices like Amazon Rekognition and Amazon Textract to automatically extract and match customer signatures and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiainfoline.com/article/capital-market-corporate-news/rbl-bank-selects-aws-as-preferred-cloud-provider-121080900272_1.html",
+      "originalUrl": "https://www.indiainfoline.com/article/capital-market-corporate-news/rbl-bank-selects-aws-as-preferred-cloud-provider-121080900272_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg",
+          "width": 350,
+          "height": 233,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.indiainfoline.com/article-amp/capital-market-corporate-news/rbl-bank-selects-aws-as-preferred-cloud-provider-121080900272_1.html",
+      "cdnAmpWebUrl": "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/capital-market-corporate-news/rbl-bank-selects-aws-as-preferred-cloud-provider-121080900272_1.html",
+      "publishedDateTime": "2021-08-09T05:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Infoline",
+        "domain": "indiainfoline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-08-09-russias-robot-fighter-apparently-isnt-very-robotic.md",
+      "title": "Russia’s Robot Fighter Apparently Isn’t Very Robotic",
+      "excerpt": "In the race to develop robotic fighter jets, it might look like Russia is pulling ahead of the United States. But appearances can be deceiving. Russia’s first few robot fighters ... probably won’t be very robotic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidaxe/2021/08/09/russias-robot-fighter-apparently-isnt-very-robotic/",
+      "originalUrl": "https://www.forbes.com/sites/davidaxe/2021/08/09/russias-robot-fighter-apparently-isnt-very-robotic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61106b25e970047366f7c323%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1200%26cropY1%3D72%26cropY2%3D747",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidaxe/2021/08/09/russias-robot-fighter-apparently-isnt-very-robotic/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidaxe/2021/08/09/russias-robot-fighter-apparently-isnt-very-robotic/amp/",
+      "publishedDateTime": "2021-08-09T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-09-pizza-hut-is-building-an-ai-that-it-says-will-recommend-food-to-you-based-on-your-local-weather.md",
       "title": "Pizza Hut is building an AI that it says will recommend food to you based on your local weather",
       "excerpt": "Pizza Hut is developing an in-house AI, rather than buy off-the-shelf programs, that knows what customers might want to order, its data chief said.",
@@ -867,291 +1136,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-08-what-to-expect-from-teslas-ai-day-scheduled-for-aug-19.md",
-      "title": "What to Expect From Tesla's AI Day Scheduled for Aug. 19",
-      "excerpt": "Tesla, Inc. (NASDAQ: TSLA) is scheduled to host its AI Day Aug.19, and the EV maker began sending invites for the event last week.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/what-to-expect-from-tesla-s-ai-day-scheduled-for-aug-19-1030704372",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/what-to-expect-from-tesla-s-ai-day-scheduled-for-aug-19-1030704372",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/tesla_29.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-08T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-08-employers-are-waging-a-war-over-work-from-home-wfh-is-winning.md",
-      "title": "Employers are waging a war over work from home. WFH is winning.",
-      "excerpt": "Welcome to Insider Weekly, where we run through the top stories of the past week. First up, employees are winning the war to WFH.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/top-business-stories-employees-winning-in-war-over-wfh-2021-8",
-      "originalUrl": "https://www.businessinsider.com/top-business-stories-employees-winning-in-war-over-wfh-2021-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/61098bfb372268001a59751c?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/top-business-stories-employees-winning-in-war-over-wfh-2021-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/top-business-stories-employees-winning-in-war-over-wfh-2021-8?amp",
-      "publishedDateTime": "2021-08-08T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-08-trouble-at-googles-deepmind-and-tech-workers-not-going-back-to-the-office.md",
-      "title": "Trouble at Google’s DeepMind and tech workers not going back to the office",
-      "excerpt": "In this week's edition of the Insider Tech newsletter we look at an investigation of a Google VP, tech workers saying no to the office, and more.",
-      "sourceUrl": null,
-      "webUrl": "https://businessinsider.mx/trouble-at-googles-deepmind-tech-workers-refuse-the-office-2021-8/",
-      "originalUrl": "https://businessinsider.mx/trouble-at-googles-deepmind-tech-workers-refuse-the-office-2021-8/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/610c60112a24d0001861fc02?format=jpeg",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-08T06:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "businessinsider",
-        "domain": "businessinsider.mx",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-08-3-ai-stocks-to-buy-and-hold-for-the-next-decade.md",
-      "title": "3 AI Stocks to Buy and Hold for the Next Decade",
-      "excerpt": "Waymo vehicles have been driving the streets ... As its customer processes get more complex, artificial intelligence will be a critical component to make all of this smart technology work together.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/08/08/3-ai-stocks-to-buy-and-hold-for-the-next-decade/",
-      "originalUrl": "https://www.fool.com/investing/2021/08/08/3-ai-stocks-to-buy-and-hold-for-the-next-decade/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F637762%2Fgettyimages-cloud-computing-server-room.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/08/08/3-ai-stocks-to-buy-and-hold-for-the-next-decade/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/08/08/3-ai-stocks-to-buy-and-hold-for-the-next-decade/",
-      "publishedDateTime": "2021-08-08T05:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-08-your-nvidia-rtx-gpu-doesnt-just-play-games-it-helps-you-make-them-too.md",
-      "title": "Your Nvidia RTX GPU doesn’t just play games – it helps you make them too",
-      "excerpt": "If you’re not very familiar with PC building or components then you might not realize that Nvidia has other lines of graphics cards that are created for things outside of running demanding titles like Microsoft Flight Simulator,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/your-nvidia-rtx-gpu-doesnt-just-play-games-it-helps-you-make-them-too",
-      "originalUrl": "https://www.techradar.com/news/your-nvidia-rtx-gpu-doesnt-just-play-games-it-helps-you-make-them-too",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/bc6EGtACsoiAR8mvfJ8dxX-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/your-nvidia-rtx-gpu-doesnt-just-play-games-it-helps-you-make-them-too",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/your-nvidia-rtx-gpu-doesnt-just-play-games-it-helps-you-make-them-too",
-      "publishedDateTime": "2021-08-08T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-08-3-unstoppable-stocks-that-are-beating-warren-buffett-so-far-this-year.md",
-      "title": "3 Unstoppable Stocks That Are Beating Warren Buffett So Far This Year",
-      "excerpt": "There are quite a few stocks that are easily outgaining Berkshire and aren't among the conglomerate's holdings. Here are three unstoppable stocks that are beating Buffett so far this year. Image source:.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-unstoppable-stocks-that-are-beating-warren-buffett-so-far-this-year-2021-08-08",
-      "originalUrl": "https://www.nasdaq.com/articles/3-unstoppable-stocks-that-are-beating-warren-buffett-so-far-this-year-2021-08-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/3-unstoppable-stocks-that-are-beating-warren-buffett-so-far-this-year-2021-08-08?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-unstoppable-stocks-that-are-beating-warren-buffett-so-far-this-year-2021-08-08?amp",
-      "publishedDateTime": "2021-08-08T03:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

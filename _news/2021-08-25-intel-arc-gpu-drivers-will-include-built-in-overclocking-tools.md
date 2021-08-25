@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/90925-intel-arc-gpu-drivers-includ
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/90925-intel-arc-gpu-drivers-include-built-overclocking-tools.html"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/ponte-vecchio-bridge-scaled.jpg"
         width: 2560
         height: 1734
-        isCached: true
-  - title: "Intel’s GPU ambition comes into fruition with Arc; Aims to tackle DLSS and FSR with XeSS"
-    excerpt: "Intel has officially unveiled its brand new GPU division called Intel Arc that will be in charge of developing GPUs for laptops and desktops."
-    publishedDateTime: 2021-08-20T09:39:00Z
-    webUrl: "https://www.tech-critter.com/intel-arc-gpu-xess-technology/"
-    type: article
-    provider:
-      name: tech-critter.com
-      domain: tech-critter.com
-    quality: 45
-    images:
-      - url: "https://i2.wp.com/www.tech-critter.com/wp-content/uploads/2021/08/image003.jpg"
-        width: 1300
-        height: 731
         isCached: true
 
 secured: "esSkSV0DI97EO2MpXc/LE7pSI+tObDrmLb5NeTwLvKjDMSMAAgHuKBxzRxvBsW/ZV/oAA23SwXwzWNr535lZYZlLqRDsdq11hdGLC1kkOo6FIhGBxY2712FGfVwLO1/HlJ1780vwwGeG8pOLUXCjipiZugNi/qBGoipCdVxzsTJiUy4L5G54Mr2EpsHvjb3g6v0pztHkxUZyb/bjYfJb0vPwgLiAghy6fG/+ZCSnF5xhIxGOw37+XvScjdPZpYVIerESQcwIA2GsyPI5DVk3dfkkazcrh3AD78JPJIrzhHrocyXkrQLg2cPv/bhsAZLwMCgsHaSeZlan2SFoJW6s6FGeU071o5Q1DZgObt0Bwf4=;DlNTqMbn1P3YVubwod0kuQ=="

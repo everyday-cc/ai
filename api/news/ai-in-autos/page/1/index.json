@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-25-watch-san-franciscans-take-a-ride-in-waymos-self-driving-car.md",
+      "title": "Watch San Franciscans take a ride in Waymo’s self-driving car",
+      "excerpt": "Autonomous-car specialist is expanding its trial ridesharing service to regular folks in San Francisco as part of a new research program.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/cars/watch-san-franciscans-take-a-ride-in-waymos-autonomous-car/",
+      "originalUrl": "https://www.digitaltrends.com/cars/watch-san-franciscans-take-a-ride-in-waymos-autonomous-car/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/dsc_0570.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/cars/watch-san-franciscans-take-a-ride-in-waymos-autonomous-car/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/watch-san-franciscans-take-a-ride-in-waymos-autonomous-car/?amp",
+      "publishedDateTime": "2021-08-24T20:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-24-is-the-d1-ai-chip-speeding-tesla-towards-full-autonomy.md",
       "title": "Is the ‘D1’ AI chip speeding Tesla towards full autonomy?",
       "excerpt": "Tesla on its AI day, unveiled a custom chip for training artificial intelligence networks in data centers The D1 chip is part of Tesla’s Dojo",
@@ -150,7 +202,7 @@
       "originalUrl": "https://www.reuters.com/business/autos-transportation/secret-weapon-self-driving-car-startups-humans-2021-08-23/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -350,6 +402,50 @@
         "AI",
         "AI in Autos",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-08-23-baidu-leads-the-self-driving-race-with-an-ai-packed-robocar.md",
+      "title": "Baidu leads the self-driving race with an AI-packed ‘robocar’",
+      "excerpt": "Baidu has focused on diversifying its business beyond advertising to artificial intelligence and driverless cars. Back in May this year, a commercial driverless taxi service was launched in China by the country’s biggest search engine player,",
+      "sourceUrl": null,
+      "webUrl": "https://techwireasia.com/2021/08/baidu-leads-the-self-driving-race-with-an-ai-packed-robocar/",
+      "originalUrl": "https://techwireasia.com/2021/08/baidu-leads-the-self-driving-race-with-an-ai-packed-robocar/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.techwireasia.com/wp-content/uploads/2021/08/000_1BR36V-450x300.jpg",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techwireasia.com/amp/2021/08/baidu-leads-the-self-driving-race-with-an-ai-packed-robocar/",
+      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/08/baidu-leads-the-self-driving-race-with-an-ai-packed-robocar/",
+      "publishedDateTime": "2021-08-22T19:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techwireasia.com",
+        "domain": "techwireasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -605,7 +701,7 @@
       "originalUrl": "https://electrek.co/2021/08/20/tesla-dojo-supercomputer-worlds-new-most-powerful-ai-training-machine/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 152,
+      "heat": 142,
       "tags": null,
       "images": [
         {
@@ -754,7 +850,7 @@
       "originalUrl": "https://www.cnet.com/news/elon-musk-unveils-tesla-bot-a-humanoid-robot-utilizing-vehicle-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 851,
+      "heat": 831,
       "tags": null,
       "images": [
         {
@@ -1371,92 +1467,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-baidu-robocar-signals-next-stage-of-auto-tech.md",
-      "title": "Baidu robocar signals next stage of auto tech",
-      "excerpt": "Robin Li (right), co-founder and CEO of Baidu, experiences the interior of a self-driving robocar. [Photo provided to China Daily] Chinese internet search giant Baidu Inc on Wednesday unveiled its first level 5 self-driving robocar with no steering wheel ...",
-      "sourceUrl": null,
-      "webUrl": "https://global.chinadaily.com.cn/a/202108/19/WS611db208a310efa1bd669b7b.html",
-      "originalUrl": "https://global.chinadaily.com.cn/a/202108/19/WS611db208a310efa1bd669b7b.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img2.chinadaily.com.cn/images/202108/19/611db208a310efa1e3b6c550.jpeg",
-          "width": 711,
-          "height": 473,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-18T19:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "China Daily",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-baidu-boss-robin-li-unveils-robocar-his-vision-for-the-future-of-autonomous-driving.md",
-      "title": "Baidu boss Robin Li unveils 'robocar', his vision for the future of autonomous driving",
-      "excerpt": "“Baidu has an edge in developing self-driving cars [because of] its Apollo platform,” said Peter Chen, an engineer with car components company ZF TRW in Shanghai. “The industry is keen to know to what extent its models can turn out to be autonomous.",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/digital/baidu-boss-robin-li-unveils-robocar-his-vision-future-autonomous-driving",
-      "originalUrl": "https://www.asiaone.com/digital/baidu-boss-robin-li-unveils-robocar-his-vision-future-autonomous-driving",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Aug2021/20210819_robin_twitter.jpg?itok=wDNm1WtL",
-          "width": 763,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.asiaone.com/digital/baidu-boss-robin-li-unveils-robocar-his-vision-future-autonomous-driving?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/digital/baidu-boss-robin-li-unveils-robocar-his-vision-future-autonomous-driving?amp",
-      "publishedDateTime": "2021-08-18T19:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

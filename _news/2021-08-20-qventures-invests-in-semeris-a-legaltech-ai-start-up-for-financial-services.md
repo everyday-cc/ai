@@ -19,19 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "London AI startup secures funding to propel US expansion"
-    excerpt: "A London venture capital firm has announced its investment into a legal AI startup for financial services. QVentures has announced its… | Law | London | Finance | Technology | Fintech | Technology | I"
-    publishedDateTime: 2021-08-20T10:05:00Z
-    webUrl: "https://bdaily.co.uk/articles/2021/08/20/london-ai-startup-secures-funding-to-propel-us-expansion"
+  - title: "Israeli PropTech startup upgrades real estate investment insights for JLL clients"
+    excerpt: "The Israeli PropTech startup's ML models aim to help commercial real-estate investors maximize their assets. JLL turns from investor to owner within 3 years."
+    publishedDateTime: 2021-08-22T14:46:00Z
+    webUrl: "https://www.geektime.com/real-estate-giant-jll-acquires-israeli-startup-skyline-ai/"
+    ampWebUrl: "https://www.geektime.com/real-estate-giant-jll-acquires-israeli-startup-skyline-ai/amp/"
+    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/real-estate-giant-jll-acquires-israeli-startup-skyline-ai/amp/"
     type: article
     provider:
-      name: Bdaily Business Network
-      domain: bdaily.co.uk
+      name: Geektime
+      domain: geektime.com
     quality: 37
     images:
-      - url: "https://bdaily.co.uk/images/uploads/2TxWEB8awR35HFVLfWnJmbvXtt3YYU2mjvxT8o8D.jpeg?w=940&h=430&fm=jpg&fit=crop-48-42&s=bd229f8fb0486cb5909412d51a173323"
-        width: 940
-        height: 430
+      - url: "https://www.geektime.com/content/images/2021/08/Skyline-AI-Dashboard-2-1628681537-2048x1402.png"
+        width: 2048
+        height: 1402
         isCached: true
   - title: "QVentures invests in Semeris, a LegalTech AI startup for Financial Services"
     excerpt: "QVentures has announced their latest fund investment into Semeris, a legal AI startup that builds contract analysis products for the financial sector."

@@ -2,6 +2,272 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-08-19-newark-nj-airport-tests-facial-recognition-for-boarding.md",
+      "title": "Newark, N.J., Airport Tests Facial Recognition for Boarding",
+      "excerpt": "The Newark Liberty International Airport is using facial recognition to verify passengers for boarding at a single gate in a new pilot program. The goal is to make boarding a smoother process.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/products/newark-n-j-airport-tests-facial-recognition-for-boarding",
+      "originalUrl": "https://www.govtech.com/products/newark-n-j-airport-tests-facial-recognition-for-boarding",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/4b0c0fb/2147483647/strip/true/crop/3840x2002+0+158/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F8b%2Ff0%2Fd7d5d49246228a0d733bfc67324b%2Fshutterstock-1651644193.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/products/newark-n-j-airport-tests-facial-recognition-for-boarding?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/newark-n-j-airport-tests-facial-recognition-for-boarding?_amp=true",
+      "publishedDateTime": "2021-08-18T15:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-is-ai-coming-for-your-dev-job-or-not-a-tale-of-two-surveys.md",
+      "title": "Is AI Coming for Your Dev Job or Not? A Tale of Two Surveys",
+      "excerpt": "The long-simmering issue was revisited following the recent unveiling of GitHub Copilot, an advanced AI system that acts like a \"pair programmer\" by suggesting whole-line code completions and much more.",
+      "sourceUrl": null,
+      "webUrl": "https://visualstudiomagazine.com/Articles/2021/08/18/robot-jobs.aspx?p=1",
+      "originalUrl": "https://visualstudiomagazine.com/Articles/2021/08/18/robot-jobs.aspx?p=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/IntroImages2016/0516red_RedView.jpg",
+          "width": 647,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-18T14:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Visual Studio Magazine",
+        "domain": "visualstudiomagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-national-ai-research-resource-task-force-seeks-more-diverse-public-responses.md",
+      "title": "National AI Research Resource Task Force seeks more ‘diverse’ public responses",
+      "excerpt": "The task force designing a blueprint for a National Artificial Intelligence Research Resource extended the deadline to publicly comment on its work by a month to elicit more diverse responses. A few expected respondents asked for more time,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fedscoop.com/nairr-public-comment-extension/",
+      "originalUrl": "https://www.fedscoop.com/nairr-public-comment-extension/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/sng-global-web-assets/logo/Favicon_FS.png",
+          "width": 629,
+          "height": 607,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-18T13:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FedScoop",
+        "domain": "fedscoop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-mdbootstrap-70-of-web-developers-support-social-benefits-to-ease-ai-transformation.md",
+      "title": "MDBootstrap: 70% of web developers support social benefits to ease AI transformation",
+      "excerpt": "Most developers recognize the danger that AI poses for web development jobs. Most of them agreed that AI transformation is likely to be a cause of widespread unemployment in the i",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/18/mdbootstrap-70-of-web-developers-support-social-benefits-to-ease-ai-transformation/",
+      "originalUrl": "https://venturebeat.com/2021/08/18/mdbootstrap-70-of-web-developers-support-social-benefits-to-ease-ai-transformation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/robot-2301646-e1628227212251.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/18/mdbootstrap-70-of-web-developers-support-social-benefits-to-ease-ai-transformation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/18/mdbootstrap-70-of-web-developers-support-social-benefits-to-ease-ai-transformation/amp/",
+      "publishedDateTime": "2021-08-18T12:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-african-languages-to-get-more-bespoke-scientific-terms.md",
+      "title": "African languages to get more bespoke scientific terms",
+      "excerpt": "Many words common to science have never been written in African languages. Now, researchers from across Africa are changing that.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/d41586-021-02218-x",
+      "originalUrl": "https://www.nature.com/articles/d41586-021-02218-x",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-021-02218-x/d41586-021-02218-x_19578984.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-18T12:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-artificial-intelligence-ai-robots-market-to-set-phenomenal-growth-from-2021-to-2026-abb-alphabet-amazon-asustek-computer-blue-frog-robotics.md",
+      "title": "Artificial Intelligence (AI) Robots Market to Set Phenomenal Growth from 2021 to 2026 | ABB, Alphabet, Amazon, Asustek Computer, Blue Frog Robotics",
+      "excerpt": "Robots Market was valued USD xxxx unit in 2020 and is expected to reach USD xxxx Unit by the year 2025, growing at a CAGR of xx% globally. Global  (AI) Robots Market Overview: Global  (AI) Robots Market Report 2020 comes with the extensive industry analysis of development components,",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/artificial-intelligence-ai-robots-market-to-set-phenomenal-growth-from-2021-to-2026-abb-alphabet-amazon-asustek-computer-blue-frog-robotics/",
+      "originalUrl": "https://manometcurrent.com/artificial-intelligence-ai-robots-market-to-set-phenomenal-growth-from-2021-to-2026-abb-alphabet-amazon-asustek-computer-blue-frog-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manometcurrent.com/wp-content/uploads/2021/08/PR-01-Automotive-and-Transport-27.jpg",
+          "width": 640,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/artificial-intelligence-ai-robots-market-to-set-phenomenal-growth-from-2021-to-2026-abb-alphabet-amazon-asustek-computer-blue-frog-robotics/",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-robots-market-to-set-phenomenal-growth-from-2021-to-2026-abb-alphabet-amazon-asustek-computer-blue-frog-robotics/",
+      "publishedDateTime": "2021-08-18T12:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-19-the-taliban-may-have-seized-biometric-data-that-can-id-us-allies-in-afghanistan.md",
       "title": "The Taliban may have seized biometric data that can ID US allies in Afghanistan",
       "excerpt": "The US military created a vast database of biometric data — one report suggests it had a goal of 25 million entries — as part of its effort to track terrorists in Afghanistan. Now that the US has withdrawn from the country,",
@@ -391,40 +657,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-18-auditoriaai-named-to-constellation-shortlist-for-ai-driven-cognitive-applications-for-the-second-consecutive-year.md",
-      "title": "Auditoria.AI Named to Constellation ShortList for AI-Driven Cognitive Applications for the Second Consecutive Year",
-      "excerpt": "Exclusive List Solidifies Auditoria's Transformative Approach to Cognitive Automation SANTA ... Products and services named to the Constellation ShortList meet the threshold criteria for this ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2021-08/53714771-auditoria-ai-named-to-constellation-shortlist-for-ai-driven-cognitive-applications-for-the-second-consecutive-year-200.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2021-08/53714771-auditoria-ai-named-to-constellation-shortlist-for-ai-driven-cognitive-applications-for-the-second-consecutive-year-200.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-18T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-18-mexico-seeks-to-reinvent-itself-through-artificial-intelligence.md",
       "title": "Mexico seeks to reinvent itself through Artificial Intelligence",
       "excerpt": "The pandemic accelerated the digital transformation process in Mexico and more and more companies are reinventing themselves through Artificial Intelligence to maintain their profitability.",
@@ -626,6 +858,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-18-auditoriaai-named-to-constellation-shortlist-for-ai-driven-cognitive-applications-for-the-second-consecutive-year.md",
+      "title": "Auditoria.AI Named to Constellation ShortList for AI-Driven Cognitive Applications for the Second Consecutive Year",
+      "excerpt": "Exclusive List Solidifies Auditoria’s Transformative Approach to Cognitive Automation. SANTA CLARA, CA / ACCESSWIRE / August 18, 2021 / AUDITORIA.AI, a pioneer in AI-driven auto",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/accesswire/technology-business-fc2f302c0629473e2c0b88fc3dc0c316",
+      "originalUrl": "https://apnews.com/press-release/accesswire/technology-business-fc2f302c0629473e2c0b88fc3dc0c316",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-18T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -911,281 +1186,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-18-insurance-verification-startup-trustlayer-lands-151m.md",
-      "title": "Insurance verification startup TrustLayer lands $15.1M",
-      "excerpt": "TrustLayer, a startup developing AI and automation technologies to quickly verify insurance, has raised $15.1 million in capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/18/insurance-verification-startup-trustlayer-lands-15-1m/",
-      "originalUrl": "https://venturebeat.com/2021/08/18/insurance-verification-startup-trustlayer-lands-15-1m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/Business-Intelligence.GettyImages-1023848048-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 661,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/18/insurance-verification-startup-trustlayer-lands-15-1m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/18/insurance-verification-startup-trustlayer-lands-15-1m/amp/",
-      "publishedDateTime": "2021-08-18T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-18-keep-an-eye-on-your-home-from-afar-with-this-affordable-ai-powered-security-camera.md",
-      "title": "Keep an eye on your home from afar with this affordable AI-powered security camera",
-      "excerpt": "TL;DR: Keep your home safe with this Blurams Home Pro Indoor Security Camera, available for $37.99 as of Aug. 18. Whether you’re finally leaving your house more often or casually retreating back inside after your brief stint out in the world,",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/aug-18-blurams-home-pro-indoor-security-camera",
-      "originalUrl": "https://mashable.com/article/aug-18-blurams-home-pro-indoor-security-camera",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/01n9QyMq4CuPX28iwGE46Mr/hero-image.fill.size_1200x675.v1629277507.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-18T02:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-08-18-financial-data-platform-pngme-raises-15-million.md",
-      "title": "Financial Data Platform Pngme Raises $15 Million",
-      "excerpt": "Pngme, a San Francisco-based financial data platform, announced yesterday that it has secured $15 million in Series A funding.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financemagnates.com/fintech/news/financial-data-platform-pngme-raises-15-million/",
-      "originalUrl": "https://www.financemagnates.com/fintech/news/financial-data-platform-pngme-raises-15-million/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financemagnates.com/wp-content/uploads/2021/05/StoneX-Logo.jpg",
-          "width": 424,
-          "height": 211,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financemagnates.com/fintech/news/financial-data-platform-pngme-raises-15-million/amp/",
-      "cdnAmpWebUrl": "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/news/financial-data-platform-pngme-raises-15-million/amp/",
-      "publishedDateTime": "2021-08-18T01:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finance Magnates",
-        "domain": "financemagnates.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-18-this-new-ai-system-can-translate-natural-language-to-computer-code.md",
-      "title": "This New AI System Can Translate Natural Language To Computer Code",
-      "excerpt": "Advertisement Do you feel like you have an amazing idea for an application but don’t know how to code? Thanks to an artificial intelligence research company named OpenAI, it’s now possible to translate natural English language into programming code!",
-      "sourceUrl": null,
-      "webUrl": "https://wonderfulengineering.com/this-new-ai-system-can-translate-natural-language-to-computer-code/",
-      "originalUrl": "https://wonderfulengineering.com/this-new-ai-system-can-translate-natural-language-to-computer-code/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wonderfulengineering.com/wp-content/uploads/2021/08/2020_10largeimg_1328966816.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wonderfulengineering.com/this-new-ai-system-can-translate-natural-language-to-computer-code/amp/",
-      "cdnAmpWebUrl": "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/this-new-ai-system-can-translate-natural-language-to-computer-code/amp/",
-      "publishedDateTime": "2021-08-18T01:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wonderful Engineering",
-        "domain": "wonderfulengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-18-baidu-unveils-concept-autonomous-robocar.md",
-      "title": "Baidu unveils concept autonomous 'Robocar'",
-      "excerpt": "Along with unveiling a new autonomous vehicle, Baidu also announced it has started mass producing its AI chip, the Kunlun II.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/baidu-unveils-concept-autonomous-robocar/",
-      "originalUrl": "https://www.zdnet.com/article/baidu-unveils-concept-autonomous-robocar/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/08/18/97007714-bc06-4b94-816a-9a85a0427308/e9clrpivoag-sz.jpg",
-          "width": 2477,
-          "height": 1509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/baidu-unveils-concept-autonomous-robocar/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/baidu-unveils-concept-autonomous-robocar/",
-      "publishedDateTime": "2021-08-17T20:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-18-artificial-intelligence-for-automotive-applications-market-may-set-epic-growth-story-with-audi-bmw-aimotive.md",
-      "title": "Artificial Intelligence For Automotive Applications Market May Set Epic Growth Story with Audi, BMW, AImotive",
-      "excerpt": "The Latest research study released by HTF MI Worldwide Artificial Intelligence For Automotive Applications Market with 100 pages of analysis on business Strategy taken up by key and emerging industry players and delivers know how of the current market development",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2358326/artificial-intelligence-for-automotive-applications-market",
-      "originalUrl": "https://www.openpr.com/news/2358326/artificial-intelligence-for-automotive-applications-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/8/U818559952_g.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2358326/artificial-intelligence-for-automotive-applications-market",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2358326/artificial-intelligence-for-automotive-applications-market",
-      "publishedDateTime": "2021-08-17T19:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

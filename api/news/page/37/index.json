@@ -2,6 +2,298 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2021-07-28-how-an-avalanche-of-data-led-to-new-trends-in-ai-software-modernization-approaches.md",
+      "title": "How An Avalanche Of Data Led To New Trends In AI Software Modernization Approaches",
+      "excerpt": "In recent years, companies’ growing focus on big data has led to increased digitalization demands. The avalanche of data has forced businesses to reconsider software modernization approaches. With that in mind,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/28/how-an-avalanche-of-data-led-to-new-trends-in-ai-software-modernization-approaches/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/28/how-an-avalanche-of-data-led-to-new-trends-in-ai-software-modernization-approaches/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe33d661ff84a5b5e2d9ed9%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/28/how-an-avalanche-of-data-led-to-new-trends-in-ai-software-modernization-approaches/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/28/how-an-avalanche-of-data-led-to-new-trends-in-ai-software-modernization-approaches/amp/",
+      "publishedDateTime": "2021-07-28T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-how-to-build-a-perfect-ai-team.md",
+      "title": "How To Build A Perfect AI Team",
+      "excerpt": "From e-commerce and healthcare to travel and finance, AI has made its way to just about every type of industry. In fact, the adoption rate of AI has increased by more than 270%, according to Gartner,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/28/how-to-build-a-perfect-ai-team/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/28/how-to-build-a-perfect-ai-team/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61000ac31db10658736bb6eb%2F0x0.jpg%3FcropX1%3D150%26cropX2%3D2910%26cropY1%3D0%26cropY2%3D1552",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/28/how-to-build-a-perfect-ai-team/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/28/how-to-build-a-perfect-ai-team/amp/",
+      "publishedDateTime": "2021-07-28T04:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-fitness-startup-insane-ai-raises-873000-in-seed-round-led-by-pi-ventures.md",
+      "title": "Fitness Startup Insane AI Raises $873,000 In Seed Round Led By pi Ventures",
+      "excerpt": "The company plans to utilize the current round to invest in product development and innovation, strengthen its tech team and accelerate growth in the international market",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/378615",
+      "originalUrl": "https://www.entrepreneur.com/article/378615",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1627470253-L-RSourabhAgrawalJayeshHannurkarandAnuragMundhadav1.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/378615",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/378615",
+      "publishedDateTime": "2021-07-28T04:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-the-entertainment-industry-must-lead-the-green-ai-revolution.md",
+      "title": "The Entertainment Industry Must Lead The Green AI Revolution",
+      "excerpt": "Ricky Ray Butler is CEO of BEN, an entertainment AI company that places brands into influencer, streaming, TV, music and film content. As everything in our lives — including entertainment — turns digital,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/07/28/the-entertainment-industry-must-lead-the-green-ai-revolution/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/07/28/the-entertainment-industry-must-lead-the-green-ai-revolution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61003126fd51ef8bdbc13220%2F0x0.jpg",
+          "width": 1200,
+          "height": 813,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/07/28/the-entertainment-industry-must-lead-the-green-ai-revolution/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2021/07/28/the-entertainment-industry-must-lead-the-green-ai-revolution/amp/",
+      "publishedDateTime": "2021-07-28T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-design-for-responsible-ai-with-microsofts-hax.md",
+      "title": "Design for responsible AI with Microsoft’s HAX",
+      "excerpt": "At the heart of HAX is a set of guidelines built from 18 best practices that you can use to guide interactions between users and your systems. They’re presente",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3626696/design-for-responsible-ai-with-microsoft-hax.html",
+      "originalUrl": "https://www.infoworld.com/article/3626696/design-for-responsible-ai-with-microsoft-hax.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-28T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-politico-ai-decoded-algorithmic-transparency-germany-on-facial-recognition-ethical-deep-fakes.md",
+      "title": "POLITICO AI: Decoded: Algorithmic transparency — Germany on facial recognition — Ethical deep fakes?",
+      "excerpt": "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-algorithmic-transparency-germany-on-facial-recognition-ethical-deep-fakes/",
+      "originalUrl": "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-algorithmic-transparency-germany-on-facial-recognition-ethical-deep-fakes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/wp-content/uploads/2021/04/01/AI-Decoded.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-algorithmic-transparency-germany-on-facial-recognition-ethical-deep-fakes/amp/",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-algorithmic-transparency-germany-on-facial-recognition-ethical-deep-fakes/amp/",
+      "publishedDateTime": "2021-07-28T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "POLITICO",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Computer Vision",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-07-28-how-fintech-can-harness-the-power-of-aws-aiml.md",
       "title": "How Fintech can harness the power of AWS AI/ML",
       "excerpt": "Arun Kumar Lokanatha, AI/ ML Specialist Solutions Architect, AISPL, will discuss different AWS services, such as Amazon Textract, Amazon Rekognition, Amazon Comprehend, Amazon Sagemaker and Amazon ...",
@@ -837,295 +1129,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-ambi-robotics-releases-ambikit-a-new-kitting-robot-system.md",
-      "title": "Ambi Robotics releases Ambikit, a new kitting robot system",
-      "excerpt": "Ambi Robotics introduces AmbiKit, a new AI-driven kitting applications that leverages vision and robots to pick items from bulk into kits.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/ambi-robotics-releases-ambikit-a-new-kitting-robot-system/",
-      "originalUrl": "https://www.therobotreport.com/ambi-robotics-releases-ambikit-a-new-kitting-robot-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2021/07/ambikit-featured-web.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-27T16:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-ibm-upgrades-its-big-iron-os-for-better-cloud-security-and-ai-support.md",
-      "title": "IBM upgrades its Big Iron OS for better cloud, security, and AI support",
-      "excerpt": "IBM continues to fine-tune its mainframe to keep it attractive to enterprise users interested in keeping the Big Iron in their cloud and AI-application development plans. The company released a new version of the mainframe operating system— z/OS V2.",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/3626486/ibm-upgrades-its-big-iron-os-for-better-cloud-security-and-ai-support.html",
-      "originalUrl": "https://www.networkworld.com/article/3626486/ibm-upgrades-its-big-iron-os-for-better-cloud-security-and-ai-support.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2015/08/thinkstockphotos-528443527-100610461-large.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/3626486/ibm-upgrades-its-big-iron-os-for-better-cloud-security-and-ai-support.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3626486/ibm-upgrades-its-big-iron-os-for-better-cloud-security-and-ai-support.amp.html",
-      "publishedDateTime": "2021-07-27T15:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Security",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-can-you-teach-ai-common-sense.md",
-      "title": "Can you teach AI common sense?",
-      "excerpt": "While advanced artificial intelligence learning models can do complicated functions, we have yet to teach AI common sense.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/27/can-you-teach-ai-common-sense/",
-      "originalUrl": "https://venturebeat.com/2021/07/27/can-you-teach-ai-common-sense/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/AI-e1627397746652.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/27/can-you-teach-ai-common-sense/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/27/can-you-teach-ai-common-sense/amp/",
-      "publishedDateTime": "2021-07-27T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-botkeeper-partners-with-vicai-to-evolve-accounting-automation.md",
-      "title": "Botkeeper Partners with Vic.ai to Evolve Accounting Automation",
-      "excerpt": "Integrating Vic.ai into the Botkeeper Operating System provides accountants with enhanced autonomous invoice processing and real-time insights. The combination of Botkeeper and Vic.ai will bring the largest source of data together in a progressively smarter platform,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/botkeeper-partners-with-vic-ai-to-evolve-accounting-automation-1030652345",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/botkeeper-partners-with-vic-ai-to-evolve-accounting-automation-1030652345",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1581808/Vic_Ai__type__Color.jpg",
-          "width": 400,
-          "height": 273,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-27T13:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-qualcomm-stakes-beachhead-in-artificial-intelligence-with-foxconn-gloria-ai-edge-box.md",
-      "title": "Qualcomm Stakes Beachhead In Artificial Intelligence With Foxconn Gloria AI Edge Box",
-      "excerpt": "Powered by Qualcomm’s Cloud AI 100 solution, the system is design to support up to 24 high-definition cameras for video analytics applications like traffic analysis, security monitoring and smart retail spaces.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davealtavilla/2021/07/27/qualcomm-stakes-beachhead-in-artificial-intelligence-with-foxconn-gloria-ai-edge-box/",
-      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2021/07/27/qualcomm-stakes-beachhead-in-artificial-intelligence-with-foxconn-gloria-ai-edge-box/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6100677707201bbe17a32370%2F0x0.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2021/07/27/qualcomm-stakes-beachhead-in-artificial-intelligence-with-foxconn-gloria-ai-edge-box/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2021/07/27/qualcomm-stakes-beachhead-in-artificial-intelligence-with-foxconn-gloria-ai-edge-box/amp/",
-      "publishedDateTime": "2021-07-27T13:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-maines-facial-recognition-law-shows-bipartisan-support-for-protecting-privacy.md",
-      "title": "Maine’s Facial Recognition Law Shows Bipartisan Support for Protecting Privacy",
-      "excerpt": "Now it's up to Congress to pass legislation that will protect all people in the United States from invasive surveillance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aclu.org/news/privacy-technology/maines-facial-recognition-law-shows-bipartisan-support-for-protecting-privacy/",
-      "originalUrl": "https://www.aclu.org/news/privacy-technology/maines-facial-recognition-law-shows-bipartisan-support-for-protecting-privacy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.aclu.org/news/images/share/default_fb_share.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-27T12:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Aclu.org",
-        "domain": "aclu.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

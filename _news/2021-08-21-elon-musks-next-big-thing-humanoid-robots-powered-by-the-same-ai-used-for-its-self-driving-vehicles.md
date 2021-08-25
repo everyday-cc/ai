@@ -290,22 +290,6 @@ related:
         width: 1024
         height: 623
         isCached: true
-  - title: "Tesla robots: Musk wants alternative to humans for ‘boring’ work"
-    excerpt: "Elon Musk said Thursday night at Tesla's AI Day that the company is building a humanoid robot, and will probably have a prototype next year. Check out what he had to say."
-    publishedDateTime: 2021-08-20T10:27:00Z
-    webUrl: "https://www.wraltechwire.com/2021/08/20/tesla-robots-musk-wants-alternative-to-humans-for-boring-work/"
-    ampWebUrl: "https://www.wraltechwire.com/2021/08/20/tesla-robots-musk-wants-alternative-to-humans-for-boring-work/?amp=1"
-    cdnAmpWebUrl: "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/08/20/tesla-robots-musk-wants-alternative-to-humans-for-boring-work/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 76
-    images:
-      - url: "https://www.wraltechwire.com/wp-content/uploads/2019/06/robots-manufacturing-jobs.jpg"
-        width: 960
-        height: 540
-        isCached: true
   - title: "Elon Musk reveals Tesla is building a humanoid robot"
     excerpt: "Elon Musk revealed on Thursday that Tesla is building a humanoid robot and aims to have a prototype ready by 2022. During the company's AI Day, Musk said that the ... that Tesla has sold in the U.S. since the start of the 2014 model year."
     publishedDateTime: 2021-08-20T19:44:00Z
@@ -890,17 +874,6 @@ related:
         width: 1240
         height: 700
         isCached: true
-  - title: "Elon Musk says Tesla is building a humanoid robot for ‘boring, repetitive and dangerous’ work"
-    excerpt: "Elon Musk said Thursday night at Tesla’s AI Day that the company is building a humanoid robot, and will probably have a prototype next"
-    publishedDateTime: 2021-08-20T10:50:00Z
-    webUrl: "https://wsvn.com/news/us-world/elon-musk-says-tesla-is-building-a-humanoid-robot-for-boring-repetitive-and-dangerous-work/"
-    ampWebUrl: "https://wsvn.com/news/us-world/elon-musk-says-tesla-is-building-a-humanoid-robot-for-boring-repetitive-and-dangerous-work/amp/"
-    cdnAmpWebUrl: "https://wsvn-com.cdn.ampproject.org/c/s/wsvn.com/news/us-world/elon-musk-says-tesla-is-building-a-humanoid-robot-for-boring-repetitive-and-dangerous-work/amp/"
-    type: article
-    provider:
-      name: 7News Miami
-      domain: wsvn.com
-    quality: 45
   - title: "Elon Musk says Tesla is building a humanoid robot for 'boring, repetitive and dangerous' work"
     excerpt: "Elon Musk said Thursday night at Tesla's AI Day that the company is building a humanoid robot, and will probably have a prototype next year."
     publishedDateTime: 2021-08-20T19:29:00Z

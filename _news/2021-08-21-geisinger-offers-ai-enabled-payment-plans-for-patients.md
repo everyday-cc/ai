@@ -7,7 +7,7 @@ originalUrl: "https://www.modernhealthcare.com/finance/geisinger-offers-ai-enabl
 webUrl: "https://www.modernhealthcare.com/finance/geisinger-offers-ai-enabled-payment-plans-patients"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Geisinger Unveils AI-Backed, Customizable Approach to Medical Billing"
-    excerpt: "The new offering in partnership with fintech startup, PayZen marks Geisinger as the first large health system in the country to deploy an AI-backed financing solution to create customized billing ..."
-    publishedDateTime: 2021-08-20T09:50:00Z
-    webUrl: "https://hitconsultant.net/2021/08/20/geisinger-zero-interest-payment-patients/"
-    type: article
-    provider:
-      name: HIT Consultant
-      domain: hitconsultant.net
-    quality: 39
-    images:
-      - url: "https://mk0hitconsultan2lp7c.kinstacdn.com/wp-content/uploads/2020/04/Geisinger.jpg"
-        width: 460
-        height: 306
-        isCached: true
   - title: "Geisinger rolls out AI-backed payment plans for out-of-pocket medical expenses"
     excerpt: "Geisinger is teaming up with fintech startup PayZen to offer a new artificial-intelligence-backed medical billing tool that aims to make care more affordable for patients."
     publishedDateTime: 2021-08-24T19:20:00Z

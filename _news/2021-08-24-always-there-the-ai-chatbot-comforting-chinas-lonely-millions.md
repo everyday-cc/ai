@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-08-ai-chatbot-comforting-china-lone
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-ai-chatbot-comforting-china-lonely.amp"
 type: article
 quality: 61
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -101,6 +101,20 @@ related:
       - url: "https://www.thesundaily.my/binrepository/480x320/0c57/480d250/none/11808/UJXY/china-computers-social-internet-000321_1857084_20210824125004.jpg"
         width: 480
         height: 250
+        isCached: true
+  - title: "'Always there': The AI chatbot comforting China's lonely millions"
+    excerpt: "After a painful break-up from a cheating ex, Beijing-based human resources manager Melissa was introduced to someone new by a friend last year."
+    publishedDateTime: 2021-08-25T01:40:00Z
+    webUrl: "https://www.japantimes.co.jp/news/2021/08/25/asia-pacific/social-issues-asia-pacific/chinese-app-artificial-intelligence/"
+    type: article
+    provider:
+      name: The Japan Times
+      domain: japantimes.co.jp
+    quality: 39
+    images:
+      - url: "https://cdn-japantimes.com/wp-content/uploads/2021/08/np_file_108044-870x489.jpeg"
+        width: 870
+        height: 489
         isCached: true
 
 secured: "96U9Qdpyyd94z38aSQz25Jp+9/Xr2u/1CEpCbX4pI1FPzBfebUhCasAvBh1WgSRIWQUSjd0Tdux7ZxwUv6HDmG/u/+swisfDgnnOfKMS+fFLGwZEK0CEdxyLHOf1s6RaymhPM3JH+judvyz1Ss0mafOsyFWaV22NpCWcRlD2qyl71s1XTn1phkN54MaVMm3dLYLlPttR20udrtEGVvwICa59i0P7W0n6YWHUJG/6VucPMNPsMvt1z4EmOohWmgFHpUVIozII7Z+KnT34OGvKILJ6b0dKw2AlFwaGaZrU+c4Opj6XUYQy8+lcSBV94t8vXuykh3WFZ8C2sKh5XRGQew0Kue0MF5nPIrtgbcgaDIbwylSB9MY8yLvWH8WCeteJKobBFB8FUiHCblb/V+u6ECSf8NWrumj2Vx8clGTEvSv2qn9mhMQa2IOjyRBpb2TqrNPuGgdMCC1v95YEEC2N8JjPS4TSnZD+bdqOIiumGPsFX/vrt9ApFpabYDNygVpoBcI7EtQtYxG2qTlrLZcnSA==;/hnWr4HYGLOKS9NfqSGD2Q=="

@@ -102,6 +102,20 @@ related:
         width: 480
         height: 250
         isCached: true
+  - title: "'Always there': The AI chatbot comforting China's lonely millions"
+    excerpt: "After a painful break-up from a cheating ex, Beijing-based human resources manager Melissa was introduced to someone new by a friend last year."
+    publishedDateTime: 2021-08-25T01:40:00Z
+    webUrl: "https://www.japantimes.co.jp/news/2021/08/25/asia-pacific/social-issues-asia-pacific/chinese-app-artificial-intelligence/"
+    type: article
+    provider:
+      name: The Japan Times
+      domain: japantimes.co.jp
+    quality: 39
+    images:
+      - url: "https://cdn-japantimes.com/wp-content/uploads/2021/08/np_file_108044-870x489.jpeg"
+        width: 870
+        height: 489
+        isCached: true
 
 secured: "zgSXbKr6dwY7WLmIkEws36J3UHEzGaKJP/tL+M04/pNG1KOLuqiMb4SU+hMDonHIIMA527lLIfYK/cj59F9iZYRL8LmbM/BZkozllbHSzyRsIF9Ar3cHA1WeyKcjjZ0OCn9Zkn8BpML/KojQcb0r95gvdSAM2PjIsQSdQaIvLtPUhacgq+D0Tu9v8qcTpj19n5q0Ko7mMiOyJtRR2FTM5xaJF4ldD80FJgRFW4PCDw4Pi3m3xjXbXgDUqz/Qie6L3Y9cQ5MSwVa2w3wSOddCz5rb5q0gMxXZU3jUVHlUHDFfb5IPKBtI0iT4LZ29i+to3AcUBClBfQotcvGnrvQbVIJ6QENyJaYcxq3tTDIZh2UTTWrCppvsXUi5lo5YgPGy3llsfCglEn3H7+wdW9X4p9DIwIkRHlqtqIqRGZCBvqDBd9CiNNE1IZHpsIWbfKw1jxT0tPcpNiiEcfA7Ve1CzdXZhRVG9r80s9ILvHjt9Bxpv1DE4VbQiC/pj6dRHOd1FzUeb/wJM1B950WmVrLMMA==;ZwgBhozs7RXCb3a/Kfjovg=="
 ---

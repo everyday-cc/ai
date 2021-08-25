@@ -2,6 +2,240 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-23-ai-is-leading-a-chip-design-revolution-and-its-only-just-getting-started.md",
+      "title": "A.I. is leading a chip design revolution, and it’s only just getting started",
+      "excerpt": "An expansion of a tool from software company Synopsys can automate the entire chip design process, and it could revolutionize the industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/ai-leading-chip-design-revolution/",
+      "originalUrl": "https://www.digitaltrends.com/computing/ai-leading-chip-design-revolution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/cpu-computer-chip.jpg",
+          "width": 2000,
+          "height": 1335,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/ai-leading-chip-design-revolution/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/ai-leading-chip-design-revolution/?amp",
+      "publishedDateTime": "2021-08-23T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-23-artificial-intelligence-in-the-education-sector-market-size-key-players-analysis-and-forecast-to-2028.md",
+      "title": "Artificial Intelligence in the Education Sector Market Size, Key Players Analysis and Forecast To 2028",
+      "excerpt": "The new report titled Global Artificial Intelligence in the Education Sector Market published by Emergen Research is a vivid presentation of the global Artificial Intelligence in the Education Sector market with utmost focus on the forecast market size share value",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2363772/artificial-intelligence-in-the-education-sector-market-size",
+      "originalUrl": "https://www.openpr.com/news/2363772/artificial-intelligence-in-the-education-sector-market-size",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/8/U823931376_g.jpg",
+          "width": 700,
+          "height": 393,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2363772/artificial-intelligence-in-the-education-sector-market-size",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2363772/artificial-intelligence-in-the-education-sector-market-size",
+      "publishedDateTime": "2021-08-23T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2021-08-23-the-possibilities-of-ai-in-2030-transformation-across-dimensions.md",
+      "title": "The Possibilities Of AI In 2030: Transformation Across Dimensions",
+      "excerpt": "The decade will truly belong to those who understand the importance of data, algorithms and computational architectures and can use the transformations in these spaces in truly effective ways.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/08/23/the-possibilities-of-ai-in-2030-transformation-across-dimensions/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/08/23/the-possibilities-of-ai-in-2030-transformation-across-dimensions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611ffbd688a933e24c37e9fe%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/08/23/the-possibilities-of-ai-in-2030-transformation-across-dimensions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/08/23/the-possibilities-of-ai-in-2030-transformation-across-dimensions/amp/",
+      "publishedDateTime": "2021-08-23T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-23-rbl-bank-partners-with-amazon-web-services-aws-to-enhance-its-ai-powered-banking-solutions.md",
+      "title": "RBL Bank Partners With Amazon Web Services (AWS) To Enhance Its AI-Powered Banking Solutions",
+      "excerpt": "RBL Bank has collaborated with Amazon Web Services (AWS), an Amazon.com corporation, as its ideal cloud vendor to enhance its AI-powered banking services and digital transformation. According to the bank this move will add significant value to its innovative offerings,",
+      "sourceUrl": null,
+      "webUrl": "https://www.goodreturns.in/news/rbl-bank-partners-with-amazon-web-services-aws-to-enhance-its-ai-powered-banking-solutions-1221062.html",
+      "originalUrl": "https://www.goodreturns.in/news/rbl-bank-partners-with-amazon-web-services-aws-to-enhance-its-ai-powered-banking-solutions-1221062.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.goodreturns.in/img/400x40/2019/08/rblbanklogo-1565584941.jpeg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.goodreturns.in/amphtml/news/rbl-bank-partners-with-amazon-web-services-aws-to-enhance-its-ai-powered-banking-solutions-1221062.html",
+      "cdnAmpWebUrl": "https://www-goodreturns-in.cdn.ampproject.org/c/s/www.goodreturns.in/amphtml/news/rbl-bank-partners-with-amazon-web-services-aws-to-enhance-its-ai-powered-banking-solutions-1221062.html",
+      "publishedDateTime": "2021-08-23T05:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Goodreturns",
+        "domain": "goodreturns.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-08-23-how-hybrid-cloud-ai-boost-innovation-in-africas-banking-sector.md",
+      "title": "How Hybrid Cloud & AI Boost Innovation in Africa’s Banking Sector",
+      "excerpt": "The banking sector was no different, digital transformation and adoption are the foundation of banks’ priorities as the use of digital channels and customer self-service continue to grow at a rapid pace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itnewsafrica.com/2021/08/how-hybrid-cloud-ai-boost-innovation-in-africas-banking-sector/",
+      "originalUrl": "https://www.itnewsafrica.com/2021/08/how-hybrid-cloud-ai-boost-innovation-in-africas-banking-sector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itnewsafrica.com/wp-content/uploads/2020/05/Digital-Transformation.jpg",
+          "width": 800,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itnewsafrica.com/2021/08/how-hybrid-cloud-ai-boost-innovation-in-africas-banking-sector/?amp",
+      "cdnAmpWebUrl": "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2021/08/how-hybrid-cloud-ai-boost-innovation-in-africas-banking-sector/?amp",
+      "publishedDateTime": "2021-08-23T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT News Africa",
+        "domain": "itnewsafrica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-23-the-other-f-word-how-robot-developers-can-do-better-by-embracing-failure.md",
       "title": "The Other F Word: How Robot Developers Can Do Better By Embracing Failure",
       "excerpt": "With new applications for smart robots being created daily across every industry, and increasing interest in automation from executives at companies of every size, this is a great time to participate in the next wave of the digitization of labor.",
@@ -548,6 +782,50 @@
       ]
     },
     {
+      "path": "_news/2021-08-23-baidu-leads-the-self-driving-race-with-an-ai-packed-robocar.md",
+      "title": "Baidu leads the self-driving race with an AI-packed ‘robocar’",
+      "excerpt": "Baidu has focused on diversifying its business beyond advertising to artificial intelligence and driverless cars. Back in May this year, a commercial driverless taxi service was launched in China by the country’s biggest search engine player,",
+      "sourceUrl": null,
+      "webUrl": "https://techwireasia.com/2021/08/baidu-leads-the-self-driving-race-with-an-ai-packed-robocar/",
+      "originalUrl": "https://techwireasia.com/2021/08/baidu-leads-the-self-driving-race-with-an-ai-packed-robocar/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.techwireasia.com/wp-content/uploads/2021/08/000_1BR36V-450x300.jpg",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techwireasia.com/amp/2021/08/baidu-leads-the-self-driving-race-with-an-ai-packed-robocar/",
+      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/08/baidu-leads-the-self-driving-race-with-an-ai-packed-robocar/",
+      "publishedDateTime": "2021-08-22T19:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techwireasia.com",
+        "domain": "techwireasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-08-23-5-dutch-ai-companies-transforming-finance-healthcare-and-agriculture.md",
       "title": "5 Dutch AI companies transforming finance, healthcare and agriculture",
       "excerpt": "AI in the Netherlands is booming: A Techleap.nl 2021 report found that 10% of all registered AI start-ups worldwide are based in the Netherlands. The nation has the highest density of AI start-ups per capita in Europe. In addtion, there are a number of ...",
@@ -924,294 +1202,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-21-the-ai-marketing-canvas-a-roadmap-to-implementing-artificial-intelligence-in-marketing.md",
-      "title": "The AI Marketing Canvas: A Roadmap To Implementing Artificial Intelligence In Marketing",
-      "excerpt": "Artificial intelligence (AI) is one of the hottest topics in marketing right now. Raj Venkatesan and Jim Lecinski recently published a book entitled “The AI Marketing Canvas: A Five-Stage Road Map to Implementing Artificial Intelligence in Marketing”.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/kimberlywhitler/2021/08/21/the-ai-marketing-canvas-a-roadmap-to-implementing-artificial-intelligence-in-marketing/",
-      "originalUrl": "https://www.forbes.com/sites/kimberlywhitler/2021/08/21/the-ai-marketing-canvas-a-roadmap-to-implementing-artificial-intelligence-in-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f37a46f5cc905452bdea50%2F0x0.jpg",
-          "width": 1200,
-          "height": 632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-21T09:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-08-21-angst-and-worries-that-forbidden-knowledge-could-be-revealed-by-developing-ai-self-driving-cars.md",
-      "title": "Angst And Worries That Forbidden Knowledge Could Be Revealed By Developing AI Self-Driving Cars",
-      "excerpt": "Asking whether forbidden knowledge might be hidden within efforts to create AI systems, and particularly in the case of developing self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/21/angst-and-worries-that-forbidden-knowledge-could-be-revealed-by-developing-ai-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/21/angst-and-worries-that-forbidden-knowledge-could-be-revealed-by-developing-ai-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60aea6e9c265b9c305b6d333%2F0x0.jpg%3FcropX1%3D471%26cropX2%3D3180%26cropY1%3D8%26cropY2%3D1531",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/21/angst-and-worries-that-forbidden-knowledge-could-be-revealed-by-developing-ai-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/21/angst-and-worries-that-forbidden-knowledge-could-be-revealed-by-developing-ai-self-driving-cars/amp/",
-      "publishedDateTime": "2021-08-21T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-21-4-robotics-stocks-to-watch-this-week.md",
-      "title": "4 Robotics Stocks To Watch This Week",
-      "excerpt": "Check Out These Top Robotics Stock Amid The Increasing Interest In Automation. Robotic stocks often elicit a sense of excitement among investors. To a certain extent, investing in",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/4-robotics-stocks-to-watch-this-week-2021-08-21",
-      "originalUrl": "https://www.nasdaq.com/articles/4-robotics-stocks-to-watch-this-week-2021-08-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/4-robotics-stocks-to-watch-this-week-2021-08-21?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-robotics-stocks-to-watch-this-week-2021-08-21?amp",
-      "publishedDateTime": "2021-08-21T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-21-sensetime-parlays-academic-bona-fides-into-worlds-largest-platform-for-artificial-intelligence-facial-recognition-image-processing.md",
-      "title": "SenseTime parlays academic bona fides into world’s largest platform for artificial intelligence, facial recognition, image processing",
-      "excerpt": "China’s AI industry may triple to 453.26 billion yuan in value by 2025 from last year, while a broader AI-driven industry may be as large as 1.66 trillion yuan, which underscores the strategic importance of the field in the Made in China 2025 industrial master plan.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/business/companies/article/3145739/sensetime-parlays-academic-bona-fides-worlds-largest-platform",
-      "originalUrl": "https://www.scmp.com/business/companies/article/3145739/sensetime-parlays-academic-bona-fides-worlds-largest-platform",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/08/21/e986ee0c-0187-11ec-83d9-2f907cc4e7e5_image_hires_151711.jpg?itok=PxNg6vKn&v=1629530249",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/business/companies/article/3145739/sensetime-parlays-academic-bona-fides-worlds-largest-platform",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/companies/article/3145739/sensetime-parlays-academic-bona-fides-worlds-largest-platform",
-      "publishedDateTime": "2021-08-21T03:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Computer Vision",
-        "Machine Learning",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-08-21-ai-can-now-identify-footprints-but-forensic-experts-wont-get-fired-just-yet.md",
-      "title": "AI can now identify footprints — but forensic experts won’t get fired just yet",
-      "excerpt": "We found AI was better at assessing footprints than general forensic scientists, but not better than specific footprint experts.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/ai-identify-footprints-but-forensic-experts-wont-get-fired-syndication",
-      "originalUrl": "https://thenextweb.com/news/ai-identify-footprints-but-forensic-experts-wont-get-fired-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2Ffootrpints.png&signature=479b4a5a4ecd55f12624e99786d977e3",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-21T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-21-call-center-ai-market-to-witness-huge-growth-by-2028-ibm-google-microsoft.md",
-      "title": "Call Center AI Market to Witness Huge Growth by 2028 | IBM , Google , Microsoft",
-      "excerpt": "Announced Call Center AI study with 200+ market data Tables and Figures spread through Pages and easy to understand detailed TOC on “Call Center AI. Call Center AI industry Report allows you to get different methods for maximizing your profit.",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/call-center-ai-market-to-witness-huge-growth-by-2028-ibm-google-microsoft/",
-      "originalUrl": "https://manometcurrent.com/call-center-ai-market-to-witness-huge-growth-by-2028-ibm-google-microsoft/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/08/Internet-of-Things-Insurance-Market-390x220.png",
-          "width": 390,
-          "height": 220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/call-center-ai-market-to-witness-huge-growth-by-2028-ibm-google-microsoft/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/call-center-ai-market-to-witness-huge-growth-by-2028-ibm-google-microsoft/?amp=1",
-      "publishedDateTime": "2021-08-21T00:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],
