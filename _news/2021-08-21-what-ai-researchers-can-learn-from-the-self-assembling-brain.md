@@ -46,6 +46,22 @@ related:
         width: 1300
         height: 661
         isCached: true
+  - title: "UniSA researchers develop AI facial recognition tech to monitor premature babies"
+    excerpt: "University of South Australia boasts the AI-based system it has developed to remotely monitor the vital signs of babies rival the accuracy of ECG."
+    publishedDateTime: 2021-08-25T08:17:00Z
+    webUrl: "https://www.zdnet.com/index.php/article/unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies/"
+    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 99
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/08/25/32645fe4-b490-47ff-b6fb-afe88e18ae83/jimaging-07-00122-g004.jpg"
+        width: 3825
+        height: 1528
+        isCached: true
   - title: "Researchers Highlight Promise of AI in Diagnosing, Managing NAFLD"
     excerpt: "Artificial intelligence (AI) and its subsets may play a key role in ... As there are limited options for NAFLD drug therapy, the authors said, AI could identify patient response, particularly by taking into account their genomics and environmental exposures."
     publishedDateTime: 2021-08-20T19:35:00Z

@@ -2,20 +2,28 @@
 category: news
 title: "RBL Bank selects AWS to Accelerate Artificial Intelligence Efforts"
 excerpt: "Other use cases already being tested within the Operations division include using services like Amazon Rekognition and Amazon Textract to automatically extract and match customer signatures and ..."
-publishedDateTime: 2021-08-09T08:57:00Z
-originalUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=295695"
-webUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=295695"
+publishedDateTime: 2021-08-09T08:09:00Z
+originalUrl: "https://www.indiainfoline.com/article/news-sector-banking-financials/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900334_1.html"
+webUrl: "https://www.indiainfoline.com/article/news-sector-banking-financials/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900334_1.html"
+ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-banking-financials/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900334_1.html"
+cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-banking-financials/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900334_1.html"
 type: article
 
 provider:
-  name: Equity Bulls
-  domain: equitybulls.com
+  name: India Infoline
+  domain: indiainfoline.com
 
 topics:
   - AWS AI
   - AI
   - AI in Finance
 
-secured: "2Cjy173uYB4znE0WtnwXkCoMcKEL10byTLHGOpmTqAHzEw9mV2p68CGqHeZWKesGmNIF7gMCRndxDERQks5hB8g6joUaJRO9unyGqaT1hR5zyOzP6cbNrgsMps92BbCNsL3D3DZvHCizS90QAxKlgtZuUXT+Nc7wShG2bpLwceuCFw/bvZ1ZWJvZM9yfPv7ZSfbraxp8mKJz7ROEN+oEKJYFW34a0oz9/IrA1ENx3btZY771VSvKhwHXBpxv8hSo0TPmpYbA8YiroaDPSTTELcY/kdrEx7ZSNi6djhn63RySUChRSaTcZHeI+pWRx4oWNdqmd/7Jk/pv4iWH6yDpePIkKy+qLR8Gpm+BRXmDFC0=;gxQRQsthFxjtG0y5maIB2g=="
+images:
+  - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
+    width: 350
+    height: 233
+    isCached: true
+
+secured: "1MmDJZoSVoDOeFZuaFDm6oFw2vMMu8sWiu8xJPpzqD1aoEKH/HEoE3o5M5iurO6VureNXEGavhdQpQx9Zf+qFt6B1MrQ8/G1L5j0TPfq/yzc0BLTmSdj4SJ1qeldXUpqJa9p1qxua5cTkuXHA8Qmc9TPW5NsI3h3/Fr0ggJrruH7J1iezTGu/rf/PM8/Hna9JjF6wOcvAfWBAFXaSkZm/w1kJpaq2HSWwkNiL01sxqD1W3l0gi+sZ2E35LatobVa4w6knNlrfzuCS8+Ayw33XXF9/mkKRWdGoICv4/Mb70rBEiMDxtH105eRi8VZWYE6y7FGlkL/DtdWr2RSLJ7+D6zYYmrOwt4LsAmBqmPLj0I=;A8k2w8QqnxYRH2gyzgcqSw=="
 ---
 

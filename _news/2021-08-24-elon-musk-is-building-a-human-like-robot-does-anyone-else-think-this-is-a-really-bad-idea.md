@@ -36,20 +36,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 59
-  - title: "Elon Musk adds robot to his list of things coming ‘next year’"
-    excerpt: "\"It's basically going to start dealing with work that is boring, repetitive and dangerous,\" Musk said of the Tesla robot."
-    publishedDateTime: 2021-08-20T17:59:00Z
-    webUrl: "https://nbc-2.com/features/tech/2021/08/20/elon-musk-adds-robot-to-his-list-of-things-coming-next-year/"
-    type: article
-    provider:
-      name: NBC2
-      domain: nbc-2.com
-    quality: 39
-    images:
-      - url: "https://nbc-2.com/wp-content/uploads/2021/08/Robot.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "GWqUcIBbSL1UXDrz+AM5ixXU1ESQdSxawEQJtq5fpCtwLUC0jmB+Rtwamv2aUZxHh3yoFjddjaPXRJdAgRtsL9GN/gzG9fCBmkuy0yfHxvlVHiA5Es2jRdT5H/vDejtQCuvnPE8whpJlYiIMg7dKgzPP2ch/fhm+9eMaqq4GcibtVrfcU8aDkOAPDlZxd79PFTbIF5n/foVDwPBOXNcqOPZ5Pb0DBqqqYCTJEFTZ2toTlCaA3bwSzozU3TXGrDgZ0qKJGMaUz52mxc6fMFXY919fC0pB/tzEebp4PiLq53yVABcHm63Sy29qffLJrXlL/72SbaFlsJ19fO3T8qlQcVWutbgE4HiDfrl9wMr7xahCi0qprfrUeGEqX+ENJq9OXUBTEwc12W4EGjF/WcW/7d3XgW76LkCq4zC7nXfnLRNARieWc/wI6yIB6KEs1v3VjShd82RKY4ipnVD4uIjzGrQzaVeQ7xUXuOx+Sjd2ONd+a/7XS5PT+ZkzpiGjp72BL0giRl08FQto/w8QopduLw==;y1oWebz/YDf14c+ydzsIIQ=="
 ---

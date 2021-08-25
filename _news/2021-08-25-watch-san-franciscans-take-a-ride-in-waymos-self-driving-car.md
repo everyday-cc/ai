@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/cars/watch-san-franciscans-take-a-ride
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/watch-san-franciscans-take-a-ride-in-waymos-autonomous-car/?amp"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -101,6 +101,20 @@ related:
       - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F08%2Fwaymo-autonomous-taxi-test-service-san-francisco-tw.jpg?w=960&cbr=1&q=90&fit=max"
         width: 960
         height: 480
+        isCached: true
+  - title: "Waymo self-driving cars start ride service in San Francisco"
+    excerpt: "After successfully offering rides to passengers for the past couple of years in Phoenix, Arizona, Waymo has now expanded its Waymo One self-driving taxi service to the busy streets of San Francisco, California."
+    publishedDateTime: 2021-08-25T11:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1133352_waymo-self-driving-cars-start-ride-service-in-san-francisco"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 39
+    images:
+      - url: "https://images.hgmsites.net/hug/waymo-self-driving-car-prototype-in-san-francisco-california_100803730_h.jpg"
+        width: 1920
+        height: 1099
         isCached: true
 
 secured: "FYWs571JiBHmld/5v62jpndz5RwMiTJVOBs5sQvTrBQPPQ9ZTow+ZDvVBEHNhB551EtqWUPOWoo0hGozNt7l+k+Zfy/Pi/ZUnh7mqIYcyiVBPIgJ6DQr2YfSdBTDKSuzpSrHbAfrPSfFiy2FPDR71JMfCWf66Dkbrfc/TKF8ODPvQ3Cv4R7eQywIt0Pj2nfhBEMTNtzKYoFq9pV7W8hOt5/kxz99Mb/mY/A2CB+TUxzunVvFzFg+roOEQKVO0FJ0mHv3063bI+UUQxestKWJsIPhbJYLhGKuMsQ116I7EXZQbSEyHbJ3ppeGMRTOhxhSj0MbPTz9qs54vjzM0Q3Em3Avb9FQKtW9uQgxgyZ+Q0RYdiDd5Rus9Ex81ZHXuVClE8IHUcOvGocDWEhuUMMAW3eoh13YffUXUMVFfpUTtcufXXzvnfF2wFK1OzL14i3Kza4oYLTj1vXeHLuLCD+bRXskFeknLCwDpdk7AdLdtKq+nw9Reh4byQe1NxBq9ZEFNjlzqvuvU2FV1pbkpTVArQ==;faPpBSauRZX3FEdU+xsxhQ=="

@@ -36,6 +36,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Healthtech Startup Neodocs Raises Pre-Seed From Y Combinator, 9Unicorns And Titan Capital"
+    excerpt: "The AI-based platform will be utilizing the proceeds from the fundraise to strengthen its core technology framework, increase presence and expand its team."
+    publishedDateTime: 2021-08-25T10:33:00Z
+    webUrl: "https://www.entrepreneur.com/article/381433"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/381433"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/381433"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 78
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1629887559-Neodocfoundersv1.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Senators question DOJ funding for AI-powered policing tech"
     excerpt: "Some Capitol Hill Democrats and civil rights advocates are concerned about how police and prosecutors increasingly use algorithm-powered technologies that may amplify racial bias"
     publishedDateTime: 2021-08-20T22:50:00Z

@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Intel is building up its Xe-HPG GPU drivers to take on AMD and Nvidia at their own game"
+    excerpt: "After Intel announced its upcoming Xe-HPG discrete GPUs, now branded Arc, updates have been coming in thick and fast. The latest swathe, outlined in a recent Intel Medium roundup post, details some juicy developments to its 'graphics story,"
+    publishedDateTime: 2021-08-25T11:02:00Z
+    webUrl: "https://www.pcgamer.com/uk/intel-xe-hpg-arc-gpu-overclocking-game-capture/"
+    ampWebUrl: "https://www.pcgamer.com/uk/amp/intel-xe-hpg-arc-gpu-overclocking-game-capture/"
+    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/uk/amp/intel-xe-hpg-arc-gpu-overclocking-game-capture/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 51
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/Ko363QoWJwVpy2adp7bgWT-1200-80.jpg"
+        width: 1200
+        height: 676
+        isCached: true
 
 secured: "d5XmHGmR5fKgged85g7Z8STdjPR9JqtEteCkepoilj++MIlMwJVrtDhrInT7aQW5WOgSFlex7rjjiB5Z+PjAnQdiCK7YQcXKUHxLJYyWEn4thGYIWU3QyuPJ7DL1zJ/XyIwu4+mxQ+LLmxAikqZ1o8LNZdYTw6/eA2J3e3++abG8XgwAtcXntCMYW+nLDWOsKwemqLRVOVowlKEgELQ3T438AuG1f0EKHjiWgYZTRj8BB01HEzxI8Dq85dN7uLZHp4Gsa4fE9nLfl1/it1YsWE8HSGQhVe+9xGbWAuC1rAfkJLpMADjq4nZg4BJh5vjVOt1xsEl04oC243Oe/396ubvDTXps2hRKexhRQYIjoSJ6oUGkdAbKJZ7SYVc90qZeOfI5MXmU38LwuxtA6uH0Nb8IVAPKkukfZDcGMfbB3WOZIZmLiNqSKkcpEIQ+awieFDS0DS4z4HF9+sy45Dmce7cGuCjMHNr0iP2wXZ1weQ7ABDSJcavupI9UZrr7mxLkMJTt36zkcMtCIUAKnvlNLA==;QO45zmkhfhS8BQ0CFzjpjA=="
 ---

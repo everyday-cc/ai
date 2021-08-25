@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "BPCL launches AI-enabled chatbot Urja"
-    excerpt: "With the objective of making BPCL’s customer interface comprehensive and integrated digitally, Urja, the chabot is now available on the company website for any queries for both B2B & B2C"
-    publishedDateTime: 2021-08-20T17:45:00Z
-    webUrl: "https://www.livemint.com/companies/news/bpcl-launches-ai-enabled-chatbot-urja-11629439490779.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/bpcl-launches-ai-enabled-chatbot-urja/amp-11629439490779.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/bpcl-launches-ai-enabled-chatbot-urja/amp-11629439490779.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 57
-    images:
-      - url: "https://images.livemint.com/img/2021/08/20/600x338/d56b0d84-2a70-11eb-a978-708e052e967f_1605835106052_1605835154992_1629439682369.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "'Always There': The AI Chatbot Providing a Shoulder to China's Lonely Millions"
     excerpt: "Originally a side project from developing Microsoft's Cortana chatbot, XiaoIce now accounts for 60 percent of global human-AI interactions by volume."
     publishedDateTime: 2021-08-24T06:20:00Z
@@ -132,6 +116,15 @@ related:
         width: 870
         height: 489
         isCached: true
+  - title: "Artificial intelligence chatbots providing companionship to millions in China"
+    excerpt: "Loneliness, once considered mostly a plight of the elderly, is impacting millions isolated by Covid - Click the link for more details."
+    publishedDateTime: 2021-08-25T06:46:00Z
+    webUrl: "https://www.i24news.tv/en/news/technology/1629873607-artificial-intelligence-chatbots-providing-companionship-to-millions-in-china"
+    type: article
+    provider:
+      name: i24NEWS
+      domain: i24news.tv
+    quality: 16
 
 secured: "96U9Qdpyyd94z38aSQz25Jp+9/Xr2u/1CEpCbX4pI1FPzBfebUhCasAvBh1WgSRIWQUSjd0Tdux7ZxwUv6HDmG/u/+swisfDgnnOfKMS+fFLGwZEK0CEdxyLHOf1s6RaymhPM3JH+judvyz1Ss0mafOsyFWaV22NpCWcRlD2qyl71s1XTn1phkN54MaVMm3dLYLlPttR20udrtEGVvwICa59i0P7W0n6YWHUJG/6VucPMNPsMvt1z4EmOohWmgFHpUVIozII7Z+KnT34OGvKILJ6b0dKw2AlFwaGaZrU+c4Opj6XUYQy8+lcSBV94t8vXuykh3WFZ8C2sKh5XRGQew0Kue0MF5nPIrtgbcgaDIbwylSB9MY8yLvWH8WCeteJKobBFB8FUiHCblb/V+u6ECSf8NWrumj2Vx8clGTEvSv2qn9mhMQa2IOjyRBpb2TqrNPuGgdMCC1v95YEEC2N8JjPS4TSnZD+bdqOIiumGPsFX/vrt9ApFpabYDNygVpoBcI7EtQtYxG2qTlrLZcnSA==;/hnWr4HYGLOKS9NfqSGD2Q=="
 ---

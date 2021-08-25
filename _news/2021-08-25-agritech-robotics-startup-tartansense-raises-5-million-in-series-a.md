@@ -41,6 +41,36 @@ related:
         width: 950
         height: 534
         isCached: true
+  - title: "Blume Ventures-backed agritech robotics startup TartanSense raises $5 Mn"
+    excerpt: "TartanSense, an AI-powered robotics solutions provider empowering small farm holders, has raised $5 million in its Series A round"
+    publishedDateTime: 2021-08-25T08:41:00Z
+    webUrl: "https://entrackr.com/2021/08/blume-ventures-backed-agritech-robotics-startup-tartansense-raises-5-mn/"
+    type: article
+    provider:
+      name: entrackr
+      domain: entrackr.com
+    quality: 68
+    images:
+      - url: "https://entrackr.com/wp-content/uploads/2021/08/Tartan-Sense.jpg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Agritech startup TartanSense raises $5 mn from FMC, Omnivore"
+    excerpt: "TartanSense builds small agricultural robots, equipped with AI-assisted computer vision, to help small farms reduce their expenditures"
+    publishedDateTime: 2021-08-25T11:20:00Z
+    webUrl: "https://www.thestatesman.com/world/agritech-startup-tartansense-raises-5-mn-fmc-omnivore-1502998745.html"
+    ampWebUrl: "https://www.thestatesman.com/world/agritech-startup-tartansense-raises-5-mn-fmc-omnivore-1502998745.html/amp"
+    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/world/agritech-startup-tartansense-raises-5-mn-fmc-omnivore-1502998745.html/amp"
+    type: article
+    provider:
+      name: The Statesman
+      domain: thestatesman.com
+    quality: 59
+    images:
+      - url: "https://www.thestatesman.com/wp-content/uploads/2021/08/TartanSense-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Agritech Robotics Startup TartanSense Raises $5 Mn in Series A from FMC, Omnivore, Blume Ventures"
     excerpt: "TartanSense Team Agritech robotics startup TartanSense announced today that it has raised USD 5million in Series A funding. The round was"
     publishedDateTime: 2021-08-25T05:36:00Z

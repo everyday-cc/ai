@@ -27,37 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla aims to launch Full Self-Driving Computer 2 with Cybertruck"
-    excerpt: "Tesla plans to launch a new Full Self-Driving computer with Cybertruck electric pickup truck next year. The updated self-driving hardware should also include new cameras. Tesla’s self-driving hardware has been a point of controversy."
-    publishedDateTime: 2021-08-20T18:30:00Z
-    webUrl: "https://electrek.co/web-stories/tesla-aims-to-launch-full-self-driving-computer-2-with-cybertruck-next-year/"
-    ampWebUrl: "https://electrek.co/web-stories/tesla-aims-to-launch-full-self-driving-computer-2-with-cybertruck-next-year/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/web-stories/tesla-aims-to-launch-full-self-driving-computer-2-with-cybertruck-next-year/"
+  - title: "Tesla could make its self-driving technology available for other automakers"
+    excerpt: "Electric vehicle major Tesla has revealed that it might make the company's self-driving technology available for other automakers, reports Autocar. Tesla has revealed this plan during its AI Day last week."
+    publishedDateTime: 2021-08-23T17:27:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/news/tesla-could-make-its-self-driving-technology-available-for-other-automakers-41629697069079.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/news/tesla-could-make-its-self-driving-technology-available-for-other-automakers/amp-41629697069079.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/tesla-could-make-its-self-driving-technology-available-for-other-automakers/amp-41629697069079.html"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 104
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 72
     images:
-      - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/e-gs-thumb-22.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
+      - url: "https://images.hindustantimes.com/auto/img/2021/08/23/600x338/2021-04-26T224048Z_1_LYNXMPEH3P1EV_RTROPTP_3_TESLA-RESULTS-OPTIONS_1619508003846_1629698081742.JPG"
+        width: 600
+        height: 338
         isCached: true
-  - title: "Tesla self-driving tech could be offered to other automakers"
-    excerpt: "According to a media report, Elon Musk is open to the idea of sharing Tesla's full self-driving technology with other automakers.As per reports, Musk stated that he is open to allowing other car companies"
-    publishedDateTime: 2021-08-23T11:01:00Z
-    webUrl: "https://www.team-bhp.com/news/tesla-self-driving-tech-could-be-offered-other-automakers"
-    ampWebUrl: "https://www.team-bhp.com/news/tesla-self-driving-tech-could-be-offered-other-automakers?amp"
-    cdnAmpWebUrl: "https://www-team--bhp-com.cdn.ampproject.org/c/s/www.team-bhp.com/news/tesla-self-driving-tech-could-be-offered-other-automakers?amp"
+  - title: "Will Tesla share its self-driving system with other manufacturers?"
+    excerpt: "Tesla isn't against licensing its autonomous driving technology 'Autopilot'. But it remains to be seen with whom such an agreement would be, and at what price"
+    publishedDateTime: 2021-08-25T05:27:00Z
+    webUrl: "https://www.forbesindia.com/article/forbes-lifes/will-tesla-share-its-selfdriving-system-with-other-manufacturers/69985/1"
+    ampWebUrl: "https://www.forbesindia.com/amp/article/forbes-lifes/will-tesla-share-its-selfdriving-system-with-other-manufacturers/69985/1"
+    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/forbes-lifes/will-tesla-share-its-selfdriving-system-with-other-manufacturers/69985/1"
     type: article
     provider:
-      name: Team-BHP.com
-      domain: team-bhp.com
+      name: Forbes India
+      domain: forbesindia.com
     quality: 59
     images:
-      - url: "https://www.team-bhp.com/sites/default/files/styles/amp_high_res/public/tesla-model-s-1_4.jpg"
-        width: 1280
-        height: 960
+      - url: "https://www.forbesindia.com/media/images/2021/Aug/img_166385_selfdrivingsystem.jpg"
+        width: 900
+        height: 600
         isCached: true
   - title: "Tesla Could Allow Other Automakers To Utilize Its Self-Driving Technology"
     excerpt: "This could lower the cost for automakers to develop their own self-driving technologies, leading to more vehicles on the road with autonomous driving features."
@@ -75,6 +75,45 @@ related:
         width: 1024
         height: 555
         isCached: true
+  - title: "Why the feds are investigating Tesla's Autopilot and what that means for the future of self-driving cars"
+    excerpt: "It’s hard to miss the flashing lights of fire engines, ambulances and police cars ahead of you as you’re driving down the road. But in at least 11 cases in the past three and a half years, Tesla’s Autopilot advanced driver-assistance system did just that."
+    publishedDateTime: 2021-08-23T19:03:00Z
+    webUrl: "https://www.seattlepi.com/news/article/Why-the-feds-are-investigating-Tesla-s-Autopilot-16405074.php"
+    ampWebUrl: "https://www.seattlepi.com/news/amp/Why-the-feds-are-investigating-Tesla-s-Autopilot-16405074.php"
+    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Why-the-feds-are-investigating-Tesla-s-Autopilot-16405074.php"
+    type: article
+    provider:
+      name: seattlepi.com
+      domain: seattlepi.com
+    quality: 42
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Behind the Feds’ tesla Investigation, and the Future of Self-Driving Cars"
+    excerpt: "The probe covers 765,000 Tesla cars – that’s virtually every car the company has made in the last seven years. The investigation will put pressure on Tesla to reevaluate the technologies the company uses in Autopilot and could influence the future of driver-assistance systems and autonomous vehicles."
+    publishedDateTime: 2021-08-24T01:00:00Z
+    webUrl: "https://flaglerlive.com/167187/behind-the-feds-tesla-investigation/"
+    type: article
+    provider:
+      name: Flagler Live
+      domain: flaglerlive.com
+    quality: 38
+    images:
+      - url: "https://flaglerlive.com/wp-content/uploads/tesla.jpg"
+        width: 1000
+        height: 657
+        isCached: true
+  - title: "Musk criticizes on Twitter latest test version of Tesla's self-driving software"
+    excerpt: "Chief Executive Elon Musk panned the most recent test version of the company's self-driving software, but said that Tesla employees are \"rallying to improve (it) as fast as possible.\" Musk tweeted late Monday that the latest \"beta\" version of Full Self Driving,"
+    publishedDateTime: 2021-08-23T16:18:00Z
+    webUrl: "https://www.morningstar.com/news/marketwatch/20210823369/musk-criticizes-on-twitter-latest-test-version-of-teslas-self-driving-software"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 15
 
 secured: "j7dsVC4gub41BnLdbvZ7V5bZLdY3f9G+0BEsGuIdB9uaUGpHTN083lNNcsyyadQDdNzxo2O0a8kZL1qISoPeOqs1mWAlDBp6r+eKm1TqM6PQXeE7AK3Ox84Texh4amuGpTw9ugn27cL75QltGuBMdzHHJQpQX/UMjgzs2ZkM1mJJV/TnmLEmY4S5fl1ODgT41uL9KlARtAjnpp3/I4xYK/CP5Jt0wUtcBUAycej6GmFSkSDzYdnD+r0uHAFQu5f9am0kkgz2Yzm3vqMA0HY29wvS6a5q4pfFgGb1eEL4zx1RRr5SLJ7llu9LT4UoE4gnyJR2w9S4Q9Bi6CBwi+uBrOfSzyysQCxZSe8fothNvsU=;DTdP1WqV/zvrqXO7VkOtAw=="
 ---

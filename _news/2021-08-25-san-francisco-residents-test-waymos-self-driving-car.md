@@ -98,6 +98,20 @@ related:
         width: 960
         height: 480
         isCached: true
+  - title: "Waymo self-driving cars start ride service in San Francisco"
+    excerpt: "After successfully offering rides to passengers for the past couple of years in Phoenix, Arizona, Waymo has now expanded its Waymo One self-driving taxi service to the busy streets of San Francisco, California."
+    publishedDateTime: 2021-08-25T11:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1133352_waymo-self-driving-cars-start-ride-service-in-san-francisco"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 39
+    images:
+      - url: "https://images.hgmsites.net/hug/waymo-self-driving-car-prototype-in-san-francisco-california_100803730_h.jpg"
+        width: 1920
+        height: 1099
+        isCached: true
 
 secured: "b/qEuUi9uPuke1TwNsuP49Aks8GOMTjfzAXDxZO0YaEn5Wou9uKQc0gDQVMcRKpfmaM4ZTP808XZImrlkZFsN+jaVrULax4DeG5rjxZRQN6XHZSQQXN5Pow67+0Kcp7fPlOsIFZXhCfLc+6XfaGSnTkvZJTi11bG5Fzk4v4py7bVM/8kdMGi/nRuATyYiiE19fNFBb9chHHXxp3o3pogzASX68aqkGeCWGGA4IwKR8xrUkwr1IFtdogepU1EIumVRmZUPICJDQD9PR/58oFPdfkaHVKLXN3sDQgjZ5+bt9hI4NGd5jv9KUaXf7b6Ph2BLLwyj4wyOR4ExuwDhwyjI7vieFTlCBKeVJlUEwsUNAOwDuGLrXEEbva1GW0fL3mZohvlviO5S6Kh3Kor8BA7RdrAqkwkqkgup1SXOUZsVZW1+cLNk5/iSBBwfIKax0lk1tXO5gbEQWuO6k8CZLF/RlUl3S7G4iaNo4azCwYaV+kR33Uvv2jMq+w1TbbVw3gJ55hBRgd1VGf0CLcK6Lrcvg==;nZYb21cq9v8z3XWB3qsywA=="
 ---

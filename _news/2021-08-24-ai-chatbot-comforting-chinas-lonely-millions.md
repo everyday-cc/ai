@@ -42,22 +42,6 @@ related:
         width: 1024
         height: 681
         isCached: true
-  - title: "BPCL launches AI-enabled chatbot Urja"
-    excerpt: "With the objective of making BPCL’s customer interface comprehensive and integrated digitally, Urja, the chabot is now available on the company website for any queries for both B2B & B2C"
-    publishedDateTime: 2021-08-20T17:45:00Z
-    webUrl: "https://www.livemint.com/companies/news/bpcl-launches-ai-enabled-chatbot-urja-11629439490779.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/bpcl-launches-ai-enabled-chatbot-urja/amp-11629439490779.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/bpcl-launches-ai-enabled-chatbot-urja/amp-11629439490779.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 57
-    images:
-      - url: "https://images.livemint.com/img/2021/08/20/600x338/d56b0d84-2a70-11eb-a978-708e052e967f_1605835106052_1605835154992_1629439682369.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "'Always There': The AI Chatbot Providing a Shoulder to China's Lonely Millions"
     excerpt: "Originally a side project from developing Microsoft's Cortana chatbot, XiaoIce now accounts for 60 percent of global human-AI interactions by volume."
     publishedDateTime: 2021-08-24T06:20:00Z
@@ -132,6 +116,15 @@ related:
         width: 870
         height: 489
         isCached: true
+  - title: "Artificial intelligence chatbots providing companionship to millions in China"
+    excerpt: "Loneliness, once considered mostly a plight of the elderly, is impacting millions isolated by Covid - Click the link for more details."
+    publishedDateTime: 2021-08-25T06:46:00Z
+    webUrl: "https://www.i24news.tv/en/news/technology/1629873607-artificial-intelligence-chatbots-providing-companionship-to-millions-in-china"
+    type: article
+    provider:
+      name: i24NEWS
+      domain: i24news.tv
+    quality: 16
 
 secured: "2aBYx5VnityGW8Z3Jv/u/kqW1qj8qOTwVGcXXHzNTaSWgZSfgJRanvbAd/w2egxBIDGBcCLb6ea1/ofsNPIyfjO3HsEIJOPQsQ61VXL5ipH7405tp4p0WDShQ1H6aMARSpAllo7zOSlaTXm/dFfc7vWU6Tbdr+DdOmWl9TmPR4tNtoP39//xTTfH2sy043Glia8GRChQgSXcXqV+kzN1TJ5Z/8jamuJQzklmstn9yeq7vH3PuyHScj2UuwmNb3pMtB+ai2LnOkCz/dQL6mv4yB5x24TkTdCdVcu1RsLfIlOLuRaoz9DWBC8nIUhdyB2ujSeSDVzf8frjjTAGLE1vFOq3KuEuMB4JhWbiXEd/4+P7tMv06NEZg7+puRzYFKA1/bAFeRn8P9aKJtBN09SEbSXH0Y4h5tn3fdddyvLyjuI+/sTJ6R9PNjlBfKfuTKu5svRGyPRCo7YaehJr4wfrHfbO8qCXkdV1eG/SXnYfbSqwskUjmByv0fMmVpE7cVD83W6CJ1V8VH1RLwqeIbEDnQ==;X64jE2+djz2mV4q/g3g5nQ=="
 ---

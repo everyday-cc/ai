@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/90925-intel-arc-gpu-drivers-includ
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/90925-intel-arc-gpu-drivers-include-built-overclocking-tools.html"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
       - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/ponte-vecchio-bridge-scaled.jpg"
         width: 2560
         height: 1734
+        isCached: true
+  - title: "Intel is building up its Xe-HPG GPU drivers to take on AMD and Nvidia at their own game"
+    excerpt: "After Intel announced its upcoming Xe-HPG discrete GPUs, now branded Arc, updates have been coming in thick and fast. The latest swathe, outlined in a recent Intel Medium roundup post, details some juicy developments to its 'graphics story,"
+    publishedDateTime: 2021-08-25T11:02:00Z
+    webUrl: "https://www.pcgamer.com/uk/intel-xe-hpg-arc-gpu-overclocking-game-capture/"
+    ampWebUrl: "https://www.pcgamer.com/uk/amp/intel-xe-hpg-arc-gpu-overclocking-game-capture/"
+    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/uk/amp/intel-xe-hpg-arc-gpu-overclocking-game-capture/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 51
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/Ko363QoWJwVpy2adp7bgWT-1200-80.jpg"
+        width: 1200
+        height: 676
         isCached: true
 
 secured: "esSkSV0DI97EO2MpXc/LE7pSI+tObDrmLb5NeTwLvKjDMSMAAgHuKBxzRxvBsW/ZV/oAA23SwXwzWNr535lZYZlLqRDsdq11hdGLC1kkOo6FIhGBxY2712FGfVwLO1/HlJ1780vwwGeG8pOLUXCjipiZugNi/qBGoipCdVxzsTJiUy4L5G54Mr2EpsHvjb3g6v0pztHkxUZyb/bjYfJb0vPwgLiAghy6fG/+ZCSnF5xhIxGOw37+XvScjdPZpYVIerESQcwIA2GsyPI5DVk3dfkkazcrh3AD78JPJIrzhHrocyXkrQLg2cPv/bhsAZLwMCgsHaSeZlan2SFoJW6s6FGeU071o5Q1DZgObt0Bwf4=;DlNTqMbn1P3YVubwod0kuQ=="

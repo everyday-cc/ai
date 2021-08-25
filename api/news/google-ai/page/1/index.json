@@ -10,7 +10,7 @@
       "originalUrl": "https://blog.google/technology/ai/researchers-make-sure-ai-works-for-farmers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 170,
+      "heat": 180,
       "tags": null,
       "images": [
         {
@@ -624,20 +624,20 @@
     },
     {
       "path": "_news/2021-08-08-trouble-at-googles-deepmind-and-tech-workers-not-going-back-to-the-office.md",
-      "title": "Trouble at Google's DeepMind and tech workers not going back to the office",
-      "excerpt": "When startup Workato reopened its Mountain View office on June 15, no one showed up, even though workers had overwhelmingly said in a survey they wanted to come back. The company had to create ...",
+      "title": "Trouble at Google’s DeepMind and tech workers not going back to the office",
+      "excerpt": "In this week's edition of the Insider Tech newsletter we look at an investigation of a Google VP, tech workers saying no to the office, and more.",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.in/tech/news/trouble-at-googles-deepmind-and-tech-workers-not-going-back-to-the-office/articleshow/85131782.cms",
-      "originalUrl": "https://www.businessinsider.in/tech/news/trouble-at-googles-deepmind-and-tech-workers-not-going-back-to-the-office/articleshow/85131782.cms",
+      "webUrl": "https://businessinsider.mx/trouble-at-googles-deepmind-tech-workers-refuse-the-office-2021-8/",
+      "originalUrl": "https://businessinsider.mx/trouble-at-googles-deepmind-tech-workers-refuse-the-office-2021-8/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.businessinsider.in/photo/85131648/Master.jpg",
-          "width": 1588,
-          "height": 793,
+          "url": "https://i.insider.com/610c60112a24d0001861fc02?format=jpeg",
+          "width": 1280,
+          "height": 640,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -645,13 +645,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.in/tech/news/trouble-at-googles-deepmind-and-tech-workers-not-going-back-to-the-office/amp_articleshow/85131782.cms",
-      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/trouble-at-googles-deepmind-and-tech-workers-not-going-back-to-the-office/amp_articleshow/85131782.cms",
-      "publishedDateTime": "2021-08-07T14:29:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-08T06:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
+        "name": "businessinsider",
+        "domain": "businessinsider.mx",
         "images": null,
         "publishers": null,
         "authors": null

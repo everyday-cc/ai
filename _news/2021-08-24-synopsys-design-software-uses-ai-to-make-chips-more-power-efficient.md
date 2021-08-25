@@ -82,6 +82,20 @@ related:
         width: 1200
         height: 753
         isCached: true
+  - title: "Synopsys outlines vision of AI driven chip design"
+    excerpt: "Traditional design approaches limit interaction to successive steps in a largely linear workflow. Synopsys said a more holistic approach using AI driven chip design can offer design time and performance improvements."
+    publishedDateTime: 2021-08-25T10:00:00Z
+    webUrl: "https://www.embedded.com/synopsys-outlines-vision-of-ai-driven-chip-design/"
+    type: article
+    provider:
+      name: Embedded
+      domain: embedded.com
+    quality: 54
+    images:
+      - url: "https://www.embedded.com/wp-content/uploads/2021/08/ai_chip_design-source-Synopsys.jpg"
+        width: 1000
+        height: 750
+        isCached: true
 
 secured: "AMGUHstfDwMtOkSJCA6tp6+rPWJMsAKSbIRiQYAz0jOv8xWqKp/+qsVtpk0e0bg6aonVu3kupQoV04TC96eayXhxzDGrMB83SuuA5dlipKhz2PxavjBgoD83QLf/FJsjQSzUamyDamv22NeMs9KC/Yo0clyDrMxa2iAOAbztXh9FEmkTm62XJJGVOKfuZ4lvAt/2W0wE1i+LGRD9KQIvXcTvcm3TxztNIayxSj+o89+X18TTK0sp1JgUs0kzXRNcZ/n+P206VS/iiGNOrRTR/F5UviC5VnJF29JhxyZFEW/uyib0iqWSXmMVZRy4oz1yHdAgEl/KULi0nL2YCl8pkekMc5h7zTka5lWcWHVz1+Q=;8Wc3hfjsAmeC+zZxIYuZsg=="
 ---
