@@ -24,35 +24,42 @@ images:
     isCached: true
 
 related:
-  - title: "AI Blood Test Can Spot Lung Cancers With 90 Percent Accuracy"
-    excerpt: "The tool was able to detect roughly 90 percent of cancer cases out of 800 individuals that were screened for lung cancer. The researchers are hoping that improved screening and detection technologies could allow more cases of lung cancer to be spotted earlier,"
-    publishedDateTime: 2021-08-21T02:41:00Z
-    webUrl: "https://futurism.com/neoscope/ai-blood-test-lung-cancer"
-    ampWebUrl: "https://futurism.com/ai-blood-test-lung-cancer/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/ai-blood-test-lung-cancer/amp"
+  - title: "Putting The Fun Back Into Software Testing With AI"
+    excerpt: "This work is rarely described as fun, so let's automate it. Is automation the answer to making testing fun again?"
+    publishedDateTime: 2021-08-24T15:00:00Z
+    webUrl: "https://thenewstack.io/putting-the-fun-back-into-software-testing-with-ai/"
     type: article
     provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 57
+      name: thenewstack.io
+      domain: thenewstack.io
+    quality: 39
     images:
-      - url: "https://wp-assets.futurism.com/2021/08/cancer-detection-600x315.jpg"
-        width: 600
-        height: 315
+      - url: "https://cdn.thenewstack.io/media/2021/08/5819ae1e-ferris-wheel-731194_1280.jpg"
+        width: 1280
+        height: 853
         isCached: true
-  - title: "AI Blood Test Shown to Detect >90% of Lung Cancers Across Different Stages"
-    excerpt: "DELFI blood testing technology indirectly measures how DNA is packaged inside the nucleus by studying the size and amount of cell-free DNA in the circulation."
-    publishedDateTime: 2021-08-23T12:00:00Z
-    webUrl: "https://www.genengnews.com/news/ai-blood-test-shown-to-detect-90-of-lung-cancers-across-different-stages/"
+  - title: "AI vs. AI: Gearing Up for Battle With Deep Learning"
+    excerpt: "AI has been widely integrated into our everyday lives — ranging from domestic appliances to medical equipment — but the power of AI makes it extremely appealing to threat actors, and the recent emergence of adversarial AI proves it."
+    publishedDateTime: 2021-08-25T13:00:00Z
+    webUrl: "https://www.darkreading.com/attacks-breaches/ai-vs-ai-gearing-up-for-battle-with-deep-learning"
     type: article
     provider:
-      name: GEN
-      domain: genengnews.com
-    quality: 35
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 34
+  - title: "AI Copywriting: Does It Work? We Tested 7 Of The Top Softwares So You Don’t Have To (With Samples From Each)"
+    excerpt: "I’m open to the idea that AI writing software could produce short-form content rather well. I also know from first-hand experience that writing and SEO software is often super helpful for polishing final drafts."
+    publishedDateTime: 2021-08-21T09:52:00Z
+    webUrl: "https://www.wrcbtv.com/story/44568655/ai-copywriting-does-it-work-we-tested-7-of-the-top-softwares-so-you-dont-have-to-with-samples-from-each"
+    type: article
+    provider:
+      name: WRCB
+      domain: wrcbtv.com
+    quality: 22
     images:
-      - url: "https://www.genengnews.com/wp-content/uploads/2018/08/Jul15_2016_Getty_94463987_LungCancer6618013724.jpg"
-        width: 500
-        height: 375
+      - url: "https://CNTSYNCONT.images.worldnow.com/images/21247876_G.jpg"
+        width: 1800
+        height: 990
         isCached: true
 
 secured: "/JKv2BRIEXK7fcNkI2k0PCWc3Hb8BnIyJfx+oZvFH+EaAjtzXdR0HZCwcPbMmlFFKdAbUqGXuzZxo7kc0S7H6TEQvhPJXRGUXx8cLmYzcfuPgoiKCBdqVmD0577yEp1p3AMfZJ8BoIn9fyaHtyV0lED4/wOojDVYnneVI4n/fazuZbHUCYSpE8u4O/mdz3rviKV9Wj7qM9cmw6rrzOW67ALs3MQW0SfdsQ3wbRRfo4QHCy1wtp8u2JYoYY175cC+ORIF8gfQOPKI1cRi7VQxNWr3BVBzw2B4l/KKDSWPl4SC4qmcjvdVY15tqgGbGLqfjrdSxlxqh4+w2ApBWTAzA1lBddUnkOAz9OE3WrWtx75SR6V5Wjy9PsBhCB501LcGTLjkhaPEX8zVnR37wNyXLgpJe2L0bzgANryYxglTOgEz89hJ9EZdTU2noA9ptLPfGo0TMRN5WtoGzwX6KNP4b5Ri1GDRn9FvFIVYKIfAwrg2/qJDBj9g4Ah7HH4jsxJ6KlvVKd7vU73IrELkm5OGGA==;JGs2nNDSftJlQvK45zJwXA=="

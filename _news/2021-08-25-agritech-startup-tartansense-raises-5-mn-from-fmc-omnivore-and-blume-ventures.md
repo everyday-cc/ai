@@ -161,6 +161,15 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Agritech startup TartanSense raises USD 5 mn from FMC, Omnivore and Blume Ventures"
+    excerpt: "Agritech robotics startup TartanSense on Wednesday said it has raised USD 5 million (around Rs 37 crore) from investors for business"
+    publishedDateTime: 2021-08-25T18:46:00Z
+    webUrl: "https://www.dailyexcelsior.com/agritech-startup-tartansense-raises-usd-5-mn-from-fmc-omnivore-and-blume-ventures/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 13
 
 secured: "RcaNz/+DivgFRG2ZePmYeHe5mUERE4zSIsj7N7dhB7l/4hze/nMVmz2UoglZvo5Zy80ln+hKkxIagQ5zAzTM9lEfO7QnZ1DX1RziSgujPAgu2xOKw9UNYW0WY8qW2S3nUZJmXCchCCpZesCFM9781kkIlqVCAJ8XdKkEjOrzBgw+k9WwrihlCFLn/1oMJBj0eScJUfVTukamKw/CVOCiwFROUKVDfIJHH6m8Rq2EmuSYF0i1vBAl1srfEzBZ2UbQyOVxjoMk3IxdxmpHl7YLYaTOk3vUBTHg05RsKDJgoef3YqT0Cm5R0b8Ft+F7MHSNcfr6qkW5n0xhy8VrPoRuf/dqVgQGuGQlZFSgbpjCz/A=;wl8Y4sFbgxisU2o8W7Tcuw=="
 ---

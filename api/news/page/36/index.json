@@ -2,6 +2,74 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2021-07-29-skoltech-method-helps-train-computer-vision-algorithms-on-limited-data.md",
+      "title": "Skoltech Method Helps Train Computer Vision Algorithms on Limited Data",
+      "excerpt": "Researchers have developed a technique to help computer vision algorithms more accurately process satellite imagery of the Earth, even when trained on limited data.",
+      "sourceUrl": null,
+      "webUrl": "https://cacm.acm.org/news/254410-skoltech-method-helps-train-computer-vision-algorithms-on-limited-data/fulltext",
+      "originalUrl": "https://cacm.acm.org/news/254410-skoltech-method-helps-train-computer-vision-algorithms-on-limited-data/fulltext",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-29T09:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "acm.org",
+        "domain": "acm.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-29-repay-provides-integrated-payment-processing-for-provana-customers.md",
+      "title": "REPAY Provides Integrated Payment Processing for Provana Customers",
+      "excerpt": "The integration automates processes and increases control of payment methods on Provana’s repayment platform ATLANTA-- ( BUSINESS WIRE )-- Repay Holdings Corporation (NASDAQ: RPAY) (\"REPAY\"), a leading provider of vertically-integrated payment solutions,",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210729005325/en/REPAY-Provides-Integrated-Payment-Processing-for-Provana-Customers",
+      "originalUrl": "https://www.businesswire.com/news/home/20210729005325/en/REPAY-Provides-Integrated-Payment-Processing-for-Provana-Customers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-29T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-29-ncsu-unc-create-artificial-intelligence-institute-with-20m-federal-grant.md",
       "title": "NCSU, UNC create artificial intelligence institute with $20M federal grant",
       "excerpt": "UNC-Chapel Hill and North Carolina State are launching an initiative aiming to utilize artificial intelligence as an educational tool with $20 million in funding from the National Science Foundation.",
@@ -1046,101 +1114,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-cognitive-computing-market-by-top-leading-key-players-growth-opportunities-share-trends-outlook-and-forecast-to-2021-2030.md",
-      "title": "Cognitive Computing Market by Top Leading Key Players, Growth Opportunities, Share, Trends, Outlook and Forecast to 2021-2030",
-      "excerpt": "Additionally, exports of ICT services increased from ... the presence of key providers operating in the cognitive computing market place such as Microsoft, IBM, and Google. Also, these companies ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cognitive-computing-market-by-top-leading-key-players-growth-opportunities-share-trends-outlook-and-forecast-to-2021-2030-2021-07-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-computing-market-by-top-leading-key-players-growth-opportunities-share-trends-outlook-and-forecast-to-2021-2030-2021-07-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-29T01:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-voice-controlled-multimodal-ai-solution.md",
-      "title": "Voice-controlled multimodal AI solution",
-      "excerpt": "This joint solution features always-on functionality with quick voice-triggered activation from standby mode to perform object recognition, facial recognition, and other vision-based tasks that are critical functions in security cameras and other systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newelectronics.co.uk/electronics-news/voice-controlled-multimodal-ai-solution/239245/",
-      "originalUrl": "https://www.newelectronics.co.uk/electronics-news/voice-controlled-multimodal-ai-solution/239245/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.newelectronics.co.uk/article-images/239245/rene.jpg?width=375&height=250&scale=canvas",
-          "width": 375,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-29T01:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Electronics",
-        "domain": "newelectronics.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

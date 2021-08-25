@@ -2,6 +2,100 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-25-ai-palette-raises-44m-to-help-companies-react-faster-to-consumer-trends.md",
+      "title": "Ai Palette raises $4.4M to help companies react faster to consumer trends",
+      "excerpt": "Developing new packaged foods and consumer goods can take a couple years as companies research, prototype and test products. In a society that runs on social media, however, people expect to see trends land on store shelves much more quickly.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/08/24/ai-palette-raises-4-4m-to-help-companies-react-faster-to-consumer-trends/",
+      "originalUrl": "https://techcrunch.com/2021/08/24/ai-palette-raises-4-4m-to-help-companies-react-faster-to-consumer-trends/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/aipalette_foresightengine.png?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/08/24/ai-palette-raises-4-4m-to-help-companies-react-faster-to-consumer-trends/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/24/ai-palette-raises-4-4m-to-help-companies-react-faster-to-consumer-trends/amp/",
+      "publishedDateTime": "2021-08-24T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-us-based-fintech-pngme-raises-15m-to-expand-services-across-africa.md",
+      "title": "US-Based FinTech Pngme Raises $15M To Expand Services Across Africa",
+      "excerpt": "Financial data infrastructure and machine learning-as-a-service platform Pngme has raised $15 million in Series A funding.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/investment-tracker/2021/us-based-fintech-pngme-raises-15m-to-expand-services-across-africa/",
+      "originalUrl": "https://www.pymnts.com/news/investment-tracker/2021/us-based-fintech-pngme-raises-15m-to-expand-services-across-africa/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/08/pngme-financial-app-457x274.png",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/investment-tracker/2021/us-based-fintech-pngme-raises-15m-to-expand-services-across-africa/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/us-based-fintech-pngme-raises-15m-to-expand-services-across-africa/amp/",
+      "publishedDateTime": "2021-08-24T14:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-25-digital-locker-app-movies-anywhere-adds-ai-powered-lists-to-organize-your-library.md",
       "title": "Digital locker app Movies Anywhere adds AI-powered lists to organize your library",
       "excerpt": "Movies Anywhere, an app that allows you to centralize your digital movie collection from across services, is rolling out a new feature that will help you make better sense of your growing library. The company today introduced an AI-powered feature called “My Lists,",
@@ -165,7 +259,7 @@
       "originalUrl": "https://www.pcworld.com/article/3630379/this-massive-ai-chip-has-the-compute-power-of-a-human-brain.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 176,
+      "heat": 186,
       "tags": null,
       "images": [
         {
@@ -957,7 +1051,7 @@
       "originalUrl": "https://www.techrepublic.com/article/ibms-new-telum-processor-is-the-companys-first-with-an-on-chip-ai-accelerator/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 310,
+      "heat": 320,
       "tags": null,
       "images": [
         {
@@ -1144,109 +1238,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-unity-acquires-ai-chat-analysis-platform-oto-launches-toxicity-in-gaming-report.md",
-      "title": "Unity acquires AI chat analysis platform OTO, launches toxicity in gaming report",
-      "excerpt": "Unity Technologies has acquired OTO to use AI to analyze online multiplayer gaming conversations for possible toxic behavior.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/24/unity-acquires-ai-chat-analysis-platform-oto-launches-toxicity-in-gaming-report/",
-      "originalUrl": "https://venturebeat.com/2021/08/24/unity-acquires-ai-chat-analysis-platform-oto-launches-toxicity-in-gaming-report/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/oto.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 736,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/24/unity-acquires-ai-chat-analysis-platform-oto-launches-toxicity-in-gaming-report/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/24/unity-acquires-ai-chat-analysis-platform-oto-launches-toxicity-in-gaming-report/amp/",
-      "publishedDateTime": "2021-08-24T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-looking-beyond-automation-and-efficiency-ai-for-social-good.md",
-      "title": "Looking Beyond Automation And Efficiency: AI For Social Good",
-      "excerpt": "What's often missing from the AI dialogue is a crucial component of AI and its future: the social good that it can (and has) done.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/08/24/looking-beyond-automation-and-efficiency-ai-for-social-good/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/08/24/looking-beyond-automation-and-efficiency-ai-for-social-good/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6076f18320d68a60ca2eb02c%2F0x0.jpg",
-          "width": 1200,
-          "height": 839,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/08/24/looking-beyond-automation-and-efficiency-ai-for-social-good/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/08/24/looking-beyond-automation-and-efficiency-ai-for-social-good/amp/",
-      "publishedDateTime": "2021-08-24T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

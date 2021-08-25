@@ -3,8 +3,8 @@ category: news
 title: "Singapore fashion analytics firm acquires Malaysia AI startup in $20m deal"
 excerpt: "The acquisition of Supahands would help Omnilytics fill a gap in its existing tech offerings for retail firms."
 publishedDateTime: 2021-08-25T04:17:00Z
-originalUrl: "https://www.techinasia.com/singapore-fashion-analytics-firm-omnilytics-acquires-malaysia-ai-startup-supahands-20m-deal?comments=true"
-webUrl: "https://www.techinasia.com/singapore-fashion-analytics-firm-omnilytics-acquires-malaysia-ai-startup-supahands-20m-deal?comments=true"
+originalUrl: "https://www.techinasia.com/singapore-crypto-startup-unicorn-2-years/next"
+webUrl: "https://www.techinasia.com/singapore-crypto-startup-unicorn-2-years/next"
 type: article
 quality: 45
 heat: -1
@@ -120,6 +120,6 @@ related:
       domain: tmcnet.com
     quality: 8
 
-secured: "7B2hFEtDqXshjXYzv3yFjqtgkS8bZ8+6AXt+PV4u0DJ5GHc0/BVEfpqiCgpkH1H8mEB8TRh9ApclharN3IGcMN+NysvfNpjFYsyEuzEat/+RqeSdUrA/bEL52hiuM3swRqlMiyhxedTQTqeuJuXxKjUkqlQPlKeEVQ74YQnijP2uqGjJxA59ULbD6IZ6DaOs7vvfMzXFh6Ox276vNTtPV+Lv0YLNCX0rbnw2dqi1G+JdQvYc3mA9/4NyVjMBQAQozQrNYXfxFxi7tSCtE/eGf7EYiQy3cTKpQKQrLPY7/zvBaS/CFWrwWkRsmvJuDNNbIhOcQopznt04shRDH2nzOhXeQ01FTllemYw73CZmxR3+0VcGFkC/JqAGHflUnBYy9yqf6SIF7ko7JPE9Dc6d3lTlpSKK0N6kSjkJeM8QKJuMWmB4tIZuvVKZOcFndL2fjBKFaQ8yVwNkZP/Su9/Aq86SMGRzmvmsfhbfJGjaSW5gMAbn4tJj/36iZxANazjP9xgVMtrI1/pqb03izECDjg==;XmwT7lYCRnUCIqKNKUBUNw=="
+secured: "0HGrmV2vQvXbdRXjR9tmnZ61vyTNVaBwdLUszZRhsy/pg4vaoJ0ENIHMzHoVEH/iExP6V1y6XJTAiQ5ppvFpHxTlqwlgXky+xqPFYpEMUK/lKTWImZQk40PH8BQxMcN2B5GyczWl8YkniBnJUOS6TFVKWgHlBTOpmWRQ+onCPLIrkHwWnoOFVi/z8emQ8Zz7zeLby3IYJTO31jDaNDGdIvyP1HJYwyti5o/C7ahlJnrQu/QhQlr/CT7i/9gCkidwhKVwqZ5drAhtaltpPal++zBnsiFxJPNvmM0otUoDPWyved0AcAfSdQit6YBbTnRMZ+wAtOzLBqbqJbvtz87IKfjs4EeAOuuJ89a+iKOAYqCLBSRBcGxOqu6DO4zlOXFnSRHBYuY4kqfNzYsjv0wBkcKi9HD3dEFPAG0TQ1+fIp2JfQ0o2g17Q6ig6zh6E5Mdp/SYNO8QdjmYuS/GjKw/xCpMygzkmTDQ24OahX35c1UDRr6JrNJU8IYYYzjUtxFM3ButT2wZQb/VRVHt4nLjdA==;cxOCOaxPwSVlEmlx7MiVmA=="
 ---
 

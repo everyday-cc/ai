@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/autos-transportation/musk-says-te
 webUrl: "https://www.reuters.com/business/autos-transportation/musk-says-teslas-self-driving-software-update-not-great-2021-08-23/"
 type: article
 quality: 169
-heat: 349
+heat: 359
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
       - url: "https://images.hindustantimes.com/auto/img/2021/08/23/600x338/2021-04-26T224048Z_1_LYNXMPEH3P1EV_RTROPTP_3_TESLA-RESULTS-OPTIONS_1619508003846_1629698081742.JPG"
         width: 600
         height: 338
+        isCached: true
+  - title: "Elon Musk Admits Tesla’s Full Self Driving Beta Is “Actually Not That Great”"
+    excerpt: "Musk was replying on Twitter to video where industry expert says Tesla’s FSD looks more promising than Ford’s BlueCruise."
+    publishedDateTime: 2021-08-25T18:28:00Z
+    webUrl: "https://www.carscoops.com/2021/08/elon-musk-admits-teslas-full-self-driving-beta-is-actually-not-that-great/"
+    ampWebUrl: "https://www.carscoops.com/2021/08/elon-musk-admits-teslas-full-self-driving-beta-is-actually-not-that-great/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/08/elon-musk-admits-teslas-full-self-driving-beta-is-actually-not-that-great/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 71
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2020/05/Tesla-Autopilot-report-00-1024x555.jpg"
+        width: 1024
+        height: 555
         isCached: true
   - title: "Musk turns on Tesla’s latest Full Self-Driving beta, says it’s “actually not great”"
     excerpt: "If you haven’t been impressed with what you’ve seen of Tesla’s latest Full Self-Driving beta, version 9.2, you’re not alone. CEO Elon Musk agrees. “FSD Beta 9.2 is actually not great imo ..."
@@ -304,6 +320,6 @@ related:
       domain: morningstar.com
     quality: 15
 
-secured: "l+OhgWNVRdfZQJ1DSjuafO+U/gEC9ASGaxpeznF/KVx+B8antHVqceZmMh2ggil0uNTWqWcwMsLW/0Acge0Wq5yCPe8Pv/DDKdW6G34QElVfyN+s9U9zP2xs+1ATfVBR/4xeK/VhcyaHrKnL2kv35n3EfaaMd3WAVxcgvHIp1yDi7XUz/aAliFKwKg+b7PTha5pkD1/fgUM/1uEWJ+BIjhA+RvkPolN3fqy0wTRIpEV2juHXBSPCsRN/SDJWfWDYNdQePzfI3zzFM71y9ou5yhKw10EQVV0TtvylMIbg4DFp5ReYzaWudOnW0l0JdWrEXSxuVJeDF1j5fFURzho1k5yWLbnKe5q1fOFSl+wHw6w=;2ELpcmgcTl3xCOHKT6nFDQ=="
+secured: "FeGo45sNu2PmRJ3LblAtjHsYp2Yt3W6zTWJZdf0TJfRyU8nZbEmPwXa4V6uHfrIDBqjvr/P0UZo8vBM/PUqiW6g3ROXN93QWxSMSJghIrNjCneuRpomk6drxKN7Ybd6TAKVg2UZiT75dZh4AqX2gZUknoebZz75sTcHcQwaUcap7pNZHEchfJrq+8CTqBFXhtWh9OOOLbK2OzHtyoN8xF2Y9bcHIruNQxLyUjCOnxBq2tLK4Pl5QGMysp3rS60Q22Vc6fm0HkskdLjUD19tdtxsbCSkvr7MrQvFc+PWIRmzM4RuYBkEHO2V6k4bdUL1vYOVrDiKVJvCig9pXMG317Dj0g859QU19RYe2Rre+JsmFqfYquRxrYcuBiwaUaEKQ1tAyazGIFbeYB+3Dd0hEwVBsI9n92JeCb8cP84QbNB5IFJKuAvhpiRahoXPRozG2xaCb43qYulzLBHnve6H62xyANlYPIZH0mLHo0tBWcU/2HpVfT8MTk5ooieG3F2hjyhAkjZQ1x5vil3hEjn4czjeQ0FVBSGXwxEnFmmED7NE=;GBQCihy2EaV22ZtIRxD+qA=="
 ---
 

@@ -275,6 +275,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "IBM Unveils Chip for Accelerating AI Inference Engines"
+    excerpt: "The IBM Telum Processor is the company’s first chip capable of providing that acceleration capability while transactions are processing."
+    publishedDateTime: 2021-08-25T18:23:00Z
+    webUrl: "https://www.itbusinessedge.com/development/ibm-unveils-chip-for-accelerating-ai-inference-engines/"
+    type: article
+    provider:
+      name: IT Business Edge
+      domain: itbusinessedge.com
+    quality: 54
+    images:
+      - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/06/IBM-sues-GlobalFoundries.jpg"
+        width: 600
+        height: 422
+        isCached: true
   - title: "IBM’s Upcoming Z Series Chip Gains On-Chip AI Acceleration and New Name: Telum"
     excerpt: "In a major refresh of its next-generation Z Series chips, IBM is adding on-chip AI acceleration capabilities to allow enterprise customers to perform deep"
     publishedDateTime: 2021-08-23T04:09:00Z

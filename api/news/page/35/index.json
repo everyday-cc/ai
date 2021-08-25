@@ -2,6 +2,100 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2021-07-30-how-no-code-ai-is-changing-business.md",
+      "title": "How No-Code AI Is Changing Business",
+      "excerpt": "According to a 2017 survey by Deloitte, 47% of businesses complained of difficulties integrating AI projects into their current systems. Meanwhile, 40% noted cost as a significant inhibiting factor. And 37% said managers simply don’t have enough expertise to implement AI successfully,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/07/30/how-no-code-ai-is-changing-business/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/07/30/how-no-code-ai-is-changing-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6102d80d24b51bc4f80ee929%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/07/30/how-no-code-ai-is-changing-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/07/30/how-no-code-ai-is-changing-business/amp/",
+      "publishedDateTime": "2021-07-30T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-30-rolex-rings-ipo-subscribed-1406-times-on-final-day-qib-portion-booked-664-times.md",
+      "title": "Rolex Rings IPO subscribed 14.06 times on final day, QIB portion booked 6.64 times",
+      "excerpt": "Investors have put in bids for 7.99 crore equity shares against offer size of 56.85 lakh equity shares, the subscription data available on exchanges showed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/ac06c97d-b0a1-49a1-a88d-f270687aaa92",
+      "originalUrl": "https://www.msn.com/en-in/money/topstories/rolex-rings-ipo-subscribed-1406-times-on-final-day-qib-portion-booked-664-times/ar-AAMJpbr",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0e03860d-6d33-4d12-a2cc-d402d9f8c10c.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/ac06c97d-b0a1-49a1-a88d-f270687aaa92",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/ac06c97d-b0a1-49a1-a88d-f270687aaa92",
+      "publishedDateTime": "2021-07-30T04:36:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ft.com/content/ac06c97d-b0a1-49a1-a88d-f270687aaa92",
+        "domain": "ft.com/content/ac06c97d-b0a1-49a1-a88d-f270687aaa92",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-30-five-steps-to-using-ai-technology-to-solve-the-dei-talent-equation.md",
       "title": "Five Steps To Using AI Technology To Solve The DE&I Talent Equation",
       "excerpt": "The significance of DE&I was discovered by corporations more than two decades ago. So, why aren’t we seeing major improvements in this space?",
@@ -1064,74 +1158,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-skoltech-method-helps-train-computer-vision-algorithms-on-limited-data.md",
-      "title": "Skoltech Method Helps Train Computer Vision Algorithms on Limited Data",
-      "excerpt": "Researchers have developed a technique to help computer vision algorithms more accurately process satellite imagery of the Earth, even when trained on limited data.",
-      "sourceUrl": null,
-      "webUrl": "https://cacm.acm.org/news/254410-skoltech-method-helps-train-computer-vision-algorithms-on-limited-data/fulltext",
-      "originalUrl": "https://cacm.acm.org/news/254410-skoltech-method-helps-train-computer-vision-algorithms-on-limited-data/fulltext",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-29T09:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "acm.org",
-        "domain": "acm.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-repay-provides-integrated-payment-processing-for-provana-customers.md",
-      "title": "REPAY Provides Integrated Payment Processing for Provana Customers",
-      "excerpt": "The integration automates processes and increases control of payment methods on Provana’s repayment platform ATLANTA-- ( BUSINESS WIRE )-- Repay Holdings Corporation (NASDAQ: RPAY) (\"REPAY\"), a leading provider of vertically-integrated payment solutions,",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210729005325/en/REPAY-Provides-Integrated-Payment-Processing-for-Provana-Customers",
-      "originalUrl": "https://www.businesswire.com/news/home/20210729005325/en/REPAY-Provides-Integrated-Payment-Processing-for-Provana-Customers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-29T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

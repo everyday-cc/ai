@@ -9,7 +9,7 @@ ampWebUrl: "https://thewest.com.au/news/health/facial-recognition-to-care-for-pr
 cdnAmpWebUrl: "https://thewest-com-au.cdn.ampproject.org/c/s/thewest.com.au/news/health/facial-recognition-to-care-for-prem-babies-c-3777249.amp"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -82,6 +82,20 @@ related:
       - url: "https://ia.acs.org.au/content/dam/ia/article/images/2021/facial%20recognition%20app.jpg"
         width: 789
         height: 444
+        isCached: true
+  - title: "DoD, DHS vet facial recognition tools for reliability in effort to build trust"
+    excerpt: "But first, both agencies are taking steps to vet the security and reliability of the facial recognition tools they’re using, in order to build public trust in these tools and address concerns from Congress."
+    publishedDateTime: 2021-08-25T14:28:00Z
+    webUrl: "https://federalnewsnetwork.com/technology-main/2021/08/dod-dhs-vet-facial-recognition-tools-for-reliability-in-push-to-build-trust/"
+    type: article
+    provider:
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 35
+    images:
+      - url: "https://federalnewsnetwork.com/wp-content/uploads/2019/05/Facial_Recognition_Backlash_78584.jpg"
+        width: 1648
+        height: 1080
         isCached: true
   - title: "Researchers develop computer vision system that can detect babies’ faces while monitoring their vital signs"
     excerpt: "University of South Australia researchers have developed a computer vision system that can automatically detect a tiny baby’s face in a hospital bed and remotely monitor its vital signs from a ..."

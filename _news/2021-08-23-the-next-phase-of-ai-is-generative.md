@@ -135,6 +135,20 @@ related:
         width: 744
         height: 419
         isCached: true
+  - title: "Edge AI: The Future of Artificial Intelligence and Edge Computing"
+    excerpt: "Edge AI processes algorithms locally on devices on the edge of a local network. Here is how it is transforming computing."
+    publishedDateTime: 2021-08-25T18:17:00Z
+    webUrl: "https://www.itbusinessedge.com/data-center/developments-edge-ai/"
+    type: article
+    provider:
+      name: IT Business Edge
+      domain: itbusinessedge.com
+    quality: 52
+    images:
+      - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/08/Edge-AI_-The-Future-of-AI-and-Edge-Computing.jpeg"
+        width: 600
+        height: 314
+        isCached: true
 
 secured: "ogpTRHMvBlWGHhvQOZOgjWoIYZxgRgJ7rS+gJpvmFbHPLS3vzvU0SKlm2D4OI82NHTwvJA1C2802GwZRwessKAEGNqH6ucpwyQ8OJkjwieHnR+bIxALaMZ4zVa0vnh4iDEr64MA8++7WHohZsY+jmtw4H3YivvfJiw6Z6U5g1En/Yvv/lZczDtbQ9tJ3rGq31Q2fvDrbLT7UBqG7znZrfhsl0OacWsJkrfcha2jggZxVoh40a8Rmst/sEz6mlrpCpFXajPbH7tfBzd9eNhAnL5iutGF1GwwLBS4+0d8BjbdjQFNVjSMYD0My1Dlxk09l+ZUWsjc2xKnhU0cwbDJHMrnW8J0DXBsDSrBcCh/a1J8=;QMxoZz2TMwu8SwbrnviAgg=="
 ---

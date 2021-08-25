@@ -40,6 +40,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Using Artificial Intelligence Blood Testing to Detect Lung Cancer"
+    excerpt: "Johns Hopkins Kimmel Cancer Center researchers developed novel artificial intelligence blood testing technology to detect lung cancer in patients. The test approach, called DELFI (DNA evaluation of fragments for early interception),"
+    publishedDateTime: 2021-08-24T17:00:00Z
+    webUrl: "https://healthitanalytics.com/news/using-artificial-intelligence-blood-testing-to-detect-lung-cancer"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 37
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-912319336.jpg"
+        width: 690
+        height: 400
+        isCached: true
   - title: "AI vs. AI: Gearing Up for Battle With Deep Learning"
     excerpt: "AI has been widely integrated into our everyday lives — ranging from domestic appliances to medical equipment — but the power of AI makes it extremely appealing to threat actors, and the recent emergence of adversarial AI proves it."
     publishedDateTime: 2021-08-25T13:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/25/involve-ai-boosts-ai-driven-custo
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/25/involve-ai-boosts-ai-driven-customer-data-platform-with-16m/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -85,6 +85,20 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/How-Dream-Sports-Uses-Artificial-Intelligence-.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Involve.ai raises $16M to boost companies’ customer retention rates with AI"
+    excerpt: "Involve.ai Inc., a startup using artificial intelligence to help enterprises improve their customer retention rates, today announced that it has closed a $16 million funding round led by Sapphire Ventures."
+    publishedDateTime: 2021-08-25T19:08:00Z
+    webUrl: "https://siliconangle.com/2021/08/25/involve-ai-raises-16m-boost-companies-customer-retention-rates-ai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 35
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/unsplash-4.png"
+        width: 800
+        height: 459
         isCached: true
 
 secured: "o7gQg5uU5kM21ixBYx8zK7wYKDyQpNj29cWfvWUng6Wih8FJ2eXFH1uVyaSuaCsqSavVpwXEcRlnp+0hLSR/0J3N1dFjGd3nWE9FO6TOeaK8t5ztNkGbT/15FLNRbQu19yz3yZLUyPkpZCDtnnccQFQ/QbSekmkj/z4JV5HRz0dYpR4D8T6iG2n7dY1y8fD1s/H2r3IUx0TL9f1k4eCBqVLQD5NbQotQ7rl4cYsV2mR83tNkR8EeJXjXgZpw6r4vgGknWAnKFO8T5kjRVCft/5KrU58Zmu+KpmaR/p1LvT7n6ZGrkMJMJIYjLHbNZ99rYEJ1Ntus0dIOqofl49shJv0TJ/N4czfP7QZSgTKemL+KxCUmydxhq/tKVcxA2ZurovFijeaCsLH9aTskWPQKDbTehGDpuvn5TY1eOxeEEAnDIWKpRHEwPJzT2aq2hQH3mBRgBRbY6trxR1WKpJ2NISAJiB4ceGBvXxtWI5b1tEaOeUvcyVZRcdnw7PLZjO/EBan4eIr5xV4/QISorEev+Q==;eDNRnzQtwT1mbEjsS9R3hQ=="

@@ -97,6 +97,20 @@ related:
         width: 789
         height: 444
         isCached: true
+  - title: "DoD, DHS vet facial recognition tools for reliability in effort to build trust"
+    excerpt: "But first, both agencies are taking steps to vet the security and reliability of the facial recognition tools they’re using, in order to build public trust in these tools and address concerns from Congress."
+    publishedDateTime: 2021-08-25T14:28:00Z
+    webUrl: "https://federalnewsnetwork.com/technology-main/2021/08/dod-dhs-vet-facial-recognition-tools-for-reliability-in-push-to-build-trust/"
+    type: article
+    provider:
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 35
+    images:
+      - url: "https://federalnewsnetwork.com/wp-content/uploads/2019/05/Facial_Recognition_Backlash_78584.jpg"
+        width: 1648
+        height: 1080
+        isCached: true
 
 secured: "JCJTYEn18Bm2ipGegwuKviPmHjp9BKVAJeKklQoTaKCuLrlIjm6U8YJOxKjrauumQuRax4p1tHDbMkaTwt5WsYuBGSvoelISlqOpVn5UkMx+FxujmVvuPGSHHf9nwGMgxxyxI+bt/3HUo/hH3T2Y0clbS83ze5rGoFjHpy70bThLkw0JrWqZ1MiWxlT2TiJ+t6pY5rUao94C24SVARGFGL7B2k5/Oz2jO6bdbU1ptfkoxV+5S3SoxhQI+BzMHl7T4DVa1sjGZ8yteL47ZdmSdh3ho5KmLkK3R9x9i8YBVkyg9IIARhRXucGLp3lndLP3KkPVLtugWrTT4zbCU0LnoeKR9BRLAG0q5f1Ac8H0PNYKlVT6adMpQX8xCcPCfNjxIqsD54IXryTovkuz9RdtedcYxC4uXVWSqy8I/0LJfWA4XpYXJEn4Lzz2D235l19RxRpRHQLhFSBrCiowu1JxT6Tj9fQReb6/afacuqrZ4oe1Swgc9suFbY1yguUo18s5BDZvkaqO1F0zSqBNYzbIKg==;g4PaPXRuJzaKHtuIKw59pg=="
 ---

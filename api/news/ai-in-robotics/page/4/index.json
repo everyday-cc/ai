@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-03-three-ways-to-ensure-collaborative-robot-success.md",
+      "title": "Three ways to ensure collaborative robot success",
+      "excerpt": "Power and force limiting devices work with restrictions on payload and speed to control force. For example, cobot devices from one robotic manufacturer vary in ... workspace with collaborative technology in mind from the beginning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.controleng.com/articles/three-ways-to-ensure-collaborative-robot-success/",
+      "originalUrl": "https://www.controleng.com/articles/three-ways-to-ensure-collaborative-robot-success/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.controleng.com/wp-content/uploads/sites/2/2021/08/CTL2108_MAG2_F4_ApplyingCobots-AMT-Fig3-Slider.jpg",
+          "width": 645,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-02T22:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Control Engineering",
+        "domain": "controleng.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-02-nvidia-is-tracking-more-than-8500-ai-startups-with-60b-in-funding.md",
       "title": "Nvidia is tracking more than 8,500 AI startups with $60B in funding",
       "excerpt": "Nvidia is tracking more than 8,500 AI startups through its Inception AI startup program. Those companies have raised more than $60 billion.",
@@ -1355,59 +1398,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-24-ai-weekly-openais-pivot-from-robotics-acknowledges-the-power-of-simulation.md",
-      "title": "AI Weekly: OpenAI’s pivot from robotics acknowledges the power of simulation",
-      "excerpt": "OpenAI has shuttered its robotics research team. But that doesn't mean the firm won't create a system capable of controlling a machine.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/23/ai-weekly-openais-pivot-from-robotics-acknowledges-the-power-of-simulation/",
-      "originalUrl": "https://venturebeat.com/2021/07/23/ai-weekly-openais-pivot-from-robotics-acknowledges-the-power-of-simulation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/openai-e1591041162109.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/23/ai-weekly-openais-pivot-from-robotics-acknowledges-the-power-of-simulation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/23/ai-weekly-openais-pivot-from-robotics-acknowledges-the-power-of-simulation/amp/",
-      "publishedDateTime": "2021-07-23T15:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

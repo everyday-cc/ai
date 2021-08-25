@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-14-the-real-threat-from-artificial-intelligence-basic-science.md",
+      "title": "The real threat from artificial intelligence – basic science",
+      "excerpt": "The reader has already understood the astronomical impact artificial intelligence (AI) has on businesses and governments, forcing large economies to make strategic plans for the technology. What not everyone understands yet are the real risks posed by the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/08/14/the-real-threat-from-artificial-intelligence-basic-science/",
+      "originalUrl": "https://ksusentinel.com/2021/08/14/the-real-threat-from-artificial-intelligence-basic-science/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ksusentinel.com/wp-content/uploads/2021/08/inteligencia-artificial-web-780x470.jpg",
+          "width": 780,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-14T03:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-08-14-automl-code-gen-preview.md",
       "title": "AutoML Code Gen Preview",
       "excerpt": "To start using the AutoML Code Gen Preview, the feature must be enabled when submitting the experiment. Please note that these instructions may be updated as needed during the preview. When using AutoML via the SDK, you will need to ensure that you call ...",
@@ -1293,49 +1337,6 @@
       "featuredContent": null,
       "highlight": null,
       "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-10T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-truera-open-sources-trulens-neural-network-explainability-for-ml-models.md",
-      "title": "TruEra Open Sources TruLens, Neural Network Explainability for ML Models",
-      "excerpt": "TruEra, which provides the first suite of AI Quality solutions announced today the availability of TruLens, an open source explainability software tool for machine learning models that are based on neural networks.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-5c65312592de01bb60aac3975ece9d1d",
-      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-5c65312592de01bb60aac3975ece9d1d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
       "tags": null,
       "images": [
         {

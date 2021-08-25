@@ -2,17 +2,17 @@
 category: news
 title: "Researchers Demonstrate AI Can Be Fooled"
 excerpt: "The artificial intelligence systems used by image recognition tools, such as those that certain connected cars use to identify street signs, can be tricked to make"
-publishedDateTime: 2021-08-25T17:39:00Z
-originalUrl: "https://www.databreachtoday.com/researchers-demonstrate-ai-be-fooled-a-17366"
-webUrl: "https://www.databreachtoday.com/researchers-demonstrate-ai-be-fooled-a-17366"
+publishedDateTime: 2021-08-25T17:38:00Z
+originalUrl: "https://www.inforisktoday.com/researchers-demonstrate-ai-be-fooled-a-17366"
+webUrl: "https://www.inforisktoday.com/researchers-demonstrate-ai-be-fooled-a-17366"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: DataBreachToday
-  domain: databreachtoday.com
+  name: Info Risk Today
+  domain: inforisktoday.com
 
 topics:
   - Computer Vision
@@ -114,6 +114,6 @@ related:
         height: 450
         isCached: true
 
-secured: "jCaj0Tag8Jy9duvRljuE5W93PnMyz1ahz4tYmUsD3///VIkWP9ZfY47LxpqkcXgrhe74vVolYT89ZXaOeR0EeTm4mpY/2YY5MLgYvmsAwhnTuutrfnpmrojp0rk8rkzDnDjqoaef4Wnt83McNZVXrEWV+okrxVrEOgK80n/uSaEhu1t+GRDRs4pYWLoXEBVy99pD+jmlV+bs2yQuyYcO13VPwldZGWJF4pz8Ow3wizpsQS7WsmRHEUidDX+O1wne0aD0AKMLu1dN9hXrAp8z0U3y/dFq0MFHPENVMVDdYqVFyjAe0S8x2F/aPu9HOFg+0AYu8JA1Vv0phpeRtbyXPR5K1ZbP2wSTWfpwq3dqjCg=;f273GTCsDOjjYWAwIbDs0w=="
+secured: "uEOY1XGpFHHevTDBHehXHBvEe1kfnBwiPy4/ExCzPstQcNThCFpYXsdEtaWCeqDzIFBD47VcFVkOkmTvYNPF1oRgkIVB6EFUIE2v6ZtGtgF5fyKqOnETruD0Vi+0LbVD/2Rg1vILxAJ36KE6Q+c/OrFOWyH0KEk8PapAapKyni0/IVCEYJIp0hb3zyS4levMi67dVIucQ3Q6slyUeMmzYHXyuQWvwCBtN1AwDbQaNuegZBsRYETEuYvn73tyGV+Sfq8e6TCbcx8P2aydjvhhMhkxxNmsQoJRB6QtwWyvHxTaiCFbM0Ez3wu2mXFdINSunSUa2yOv7DMPlfrgzpGxMgIxNU/Ci6iIz0qVVLDTHoo=;iMqvvrGrnXgjqDnmtZ8zvQ=="
 ---
 

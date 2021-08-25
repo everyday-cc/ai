@@ -2,6 +2,101 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2021-08-04-ai-fueled-app-natural-offers-new-interface-for-consumer-transactions.md",
+      "title": "AI-fueled app Natural offers new interface for consumer transactions",
+      "excerpt": "A new app aims to bring more benefits of AI and machine learning to machine learning to consumes more directly, starting with a range of streamlined transactions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-fueled-app-natural-offers-new-interface-for-consumer-transactions/",
+      "originalUrl": "https://www.zdnet.com/article/ai-fueled-app-natural-offers-new-interface-for-consumer-transactions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/08/04/7f0aa6fa-f79b-453d-9b19-93e2e01c3b94/natural-1.png",
+          "width": 1600,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-fueled-app-natural-offers-new-interface-for-consumer-transactions/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-fueled-app-natural-offers-new-interface-for-consumer-transactions/",
+      "publishedDateTime": "2021-08-04T03:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-ai-used-to-unlock-secrets-of-ancient-texts.md",
+      "title": "AI Used To Unlock Secrets of Ancient Texts",
+      "excerpt": "To preserve historical accounts of humanity, texts have been kept safely stored away in libraries and monasteries all over the world. A large amount of this material has never been read. Now, researchers are developing an artificial neural network to read complex ancient handwriting based on human perception to improve capabilities of deep learning transcription.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/tn/news/ai-used-to-unlock-secrets-of-ancient-texts-351652",
+      "originalUrl": "https://www.technologynetworks.com/tn/news/ai-used-to-unlock-secrets-of-ancient-texts-351652",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/ai-used-to-unlock-secrets-of-ancient-texts-351652.jpg?v=11356441",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologynetworks.com/informatics/news/amp/ai-used-to-unlock-secrets-of-ancient-texts-351652",
+      "cdnAmpWebUrl": "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/news/amp/ai-used-to-unlock-secrets-of-ancient-texts-351652",
+      "publishedDateTime": "2021-08-04T03:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks.com",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-04-global-ai-in-computer-vision-market-anticipated-to-experience-constant-growth-during-2020-2026.md",
       "title": "Global AI In Computer Vision Market anticipated to experience constant growth during 2020-2026",
       "excerpt": "The research report titled “Global AI In Computer Vision Market anticipated to experience constant growth during 2020-2026” and published by “Zion Market Research” is an in-depth and dedicated scrutiny of the existing stats of the global AI In Computer Vision Market entailing the numerous facets pertinent to statistics and growth of the business.",
@@ -1048,110 +1143,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-extend-amazon-sagemaker-pipelines-to-include-custom-steps-using-callback-steps.md",
-      "title": "Extend Amazon SageMaker Pipelines to include custom steps using callback steps",
-      "excerpt": "Launched at AWS re:Invent 2020, Amazon SageMaker Pipelines is the first purpose-built, easy-to-use continuous integration and continuous delivery (CI/CD) service for machine learning (ML). With Pipelines, you can create, automate, and manage end-to-end ML workflows at scale. You can extend your pipelines",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/extend-amazon-sagemaker-pipelines-to-include-custom-steps-using-callback-steps/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/extend-amazon-sagemaker-pipelines-to-include-custom-steps-using-callback-steps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/30/ML-4059-image001-805x630.png",
-          "width": 805,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-03T11:44:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-enhancing-customer-service-experiences-using-conversational-ai-power-your-contact-center-with-amazon-lex-and-genesys-cloud.md",
-      "title": "Enhancing customer service experiences using Conversational AI: Power your contact center with Amazon Lex and Genesys Cloud",
-      "excerpt": "Customers expect personalized contact center experiences. They want easy access to customer support and quick resolution of their issues. Delighting callers with a quick and easy interaction remains central to the customer experience (CX) strategy for support organizations. Enterprises often deploy omni-channel",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/enhancing-customer-service-experiences-using-conversational-ai-power-your-contact-center-with-amazon-lex-and-genesys-cloud/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/enhancing-customer-service-experiences-using-conversational-ai-power-your-contact-center-with-amazon-lex-and-genesys-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/02/lex-genesys-1.gif",
-          "width": 800,
-          "height": 445,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-03T11:32:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

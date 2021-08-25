@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 754
         isCached: true
+  - title: "Clearview AI wins a military facial recognition contract"
+    excerpt: "Documents revealing that a criminal investigation unit of the U.S. Army is using Clearview AI's facial recognition subscription service have been published."
+    publishedDateTime: 2021-08-25T19:10:00Z
+    webUrl: "https://www.biometricupdate.com/202108/clearview-ai-wins-a-military-facial-recognition-contract"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 54
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
+        width: 1800
+        height: 734
+        isCached: true
   - title: "US government agencies plan to increase their use of facial recognition technology"
     excerpt: "A new survey shows the controversial systems are poised to play an even bigger role in federal business. A 90-page report published Tuesday by the US Government Accountability Office (GAO) details how federal agencies currently use, and plan to expand ..."
     publishedDateTime: 2021-08-25T00:37:00Z
@@ -73,7 +87,21 @@ related:
         width: 2247
         height: 1498
         isCached: true
+  - title: "GAO counts facial recognition R&D at 10 agencies"
+    excerpt: "At least 10 U.S. government agencies are undertaking research and development work into facial recognition technology, according to a new report by the Governmental Accountability Office. The new study,"
+    publishedDateTime: 2021-08-25T18:47:00Z
+    webUrl: "https://www.fedscoop.com/gao-counts-facial-recognition-rd-at-10-agencies/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 39
+    images:
+      - url: "https://s3.amazonaws.com/sng-global-web-assets/logo/Favicon_FS.png"
+        width: 629
+        height: 607
+        isCached: true
 
-secured: "y+Ks8ZvsGHMH+0obEV/svvt4xQpOnLk+H27LHNF/K1mqhbQFL1shdxbE5lL3CuvxvaitelaBa3+6oxirogHPjGSRweoGE6OIpNbhPJNp0HhmI9Hp/ZV8YDdNm7m4oi7JYjEvfC6C2lelcTqGg6TGMod1sOoEM5GDEvABQg9EKLsdsy09uyzywWmiboMpeYULEIHAZUqxuv1WvtEDvtwBOEJsFKL2qE77gRiwiTIvwN7Er1jVEkeXwndauHxJcS8F9d8ymcI6Hl1HNEn7lBspjcm/WkQTW2VcpyRs2nL+9x2osbo47RUZhO8KrzBLn41wFeHD/qXmXqtSKp+3ipWgC8YDv837v5qTUW/q4K0Z69w=;aHfNMMvLaGCiLNtB96yWTA=="
+secured: "pa7bOArSSse2HthrRxuvFriNXvNokDWx0HwA6ywQm/FbHPzqRAC5QKU9q8nNnloRNhXR2GdnD2JhdWEDCppVGp2eB6dSLrLX5Wzp7GH2IPxKUyYo0sAA8TaiD3vceVg/XYy1MlL4FAKQ7OUm1ijDm3l3tfK9UiHtzu9tfkmwcEmM+WLQUGlOt8+BjUEDR9OoUFgfGbGUtzxsFxNkz5/3fxPAieO0Mb017AGBWuCKauAVK8dsWiOiv/Cv3U7FGYTxYQnAiYupmvu7SHIfTfasus+qyZUlrVO90Wb0+ghiYu2S1sdrYMcUXAmh66EUThUkRiW9B7qKfto34i7nSrsxKqwJoR1yCEkZg8egKbkezd31hIbfnjf1NtX02Dl2eowKq4B7F3sJcQa0IWfpdhSHhcUsGkKQyGJnG3hCKqIkHRqOK9mKCFB8ZxYZiMrGPMLXkYjjid8KfEAM+1VYW4nORnu0iNh7nrsI1s/r+Y73vmTimdLXlGojLaFCSdJY/ICBkSg9IO7b2fAVM3iFaA89vA==;tadd7Flp5C+T+VPcpRHx0g=="
 ---
 

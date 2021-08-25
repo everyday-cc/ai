@@ -106,6 +106,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Elon Musk Admits Tesla’s Full Self Driving Beta Is “Actually Not That Great”"
+    excerpt: "Musk was replying on Twitter to video where industry expert says Tesla’s FSD looks more promising than Ford’s BlueCruise."
+    publishedDateTime: 2021-08-25T18:28:00Z
+    webUrl: "https://www.carscoops.com/2021/08/elon-musk-admits-teslas-full-self-driving-beta-is-actually-not-that-great/"
+    ampWebUrl: "https://www.carscoops.com/2021/08/elon-musk-admits-teslas-full-self-driving-beta-is-actually-not-that-great/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/08/elon-musk-admits-teslas-full-self-driving-beta-is-actually-not-that-great/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 71
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2020/05/Tesla-Autopilot-report-00-1024x555.jpg"
+        width: 1024
+        height: 555
+        isCached: true
   - title: "Musk turns on Tesla’s latest Full Self-Driving beta, says it’s “actually not great”"
     excerpt: "If you haven’t been impressed with what you’ve seen of Tesla’s latest Full Self-Driving beta, version 9.2, you’re not alone. CEO Elon Musk agrees. “FSD Beta 9.2 is actually not great imo ..."
     publishedDateTime: 2021-08-24T15:56:00Z

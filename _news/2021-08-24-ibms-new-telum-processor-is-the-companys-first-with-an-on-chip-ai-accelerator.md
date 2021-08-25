@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ibms-new-telum-proce
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibms-new-telum-processor-is-the-companys-first-with-an-on-chip-ai-accelerator/"
 type: article
 quality: 100
-heat: 310
+heat: 320
 published: true
 
 provider:
@@ -268,6 +268,20 @@ related:
       - url: "https://www.dbta.com/images/social-logo-2019.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "IBM Unveils Chip for Accelerating AI Inference Engines"
+    excerpt: "The IBM Telum Processor is the company’s first chip capable of providing that acceleration capability while transactions are processing."
+    publishedDateTime: 2021-08-25T18:23:00Z
+    webUrl: "https://www.itbusinessedge.com/development/ibm-unveils-chip-for-accelerating-ai-inference-engines/"
+    type: article
+    provider:
+      name: IT Business Edge
+      domain: itbusinessedge.com
+    quality: 54
+    images:
+      - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/06/IBM-sues-GlobalFoundries.jpg"
+        width: 600
+        height: 422
         isCached: true
   - title: "IBM unveils Telum, its on-chip accelerated artificial intelligence processor"
     excerpt: "It's the first processor that has the ability to detect a fraud while a transaction is taking place, and not after it has happened"

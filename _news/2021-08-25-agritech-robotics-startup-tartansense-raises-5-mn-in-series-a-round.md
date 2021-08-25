@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/381428"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/381428"
 type: article
 quality: 119
-heat: 209
+heat: 219
 published: true
 
 provider:
@@ -165,6 +165,15 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Agritech startup TartanSense raises USD 5 mn from FMC, Omnivore and Blume Ventures"
+    excerpt: "Agritech robotics startup TartanSense on Wednesday said it has raised USD 5 million (around Rs 37 crore) from investors for business"
+    publishedDateTime: 2021-08-25T18:46:00Z
+    webUrl: "https://www.dailyexcelsior.com/agritech-startup-tartansense-raises-usd-5-mn-from-fmc-omnivore-and-blume-ventures/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 13
 
 secured: "iiZvUhrtizhRol8U4gcjCwuXn0Bd1LwSeYWxktozQv8mMr+noEZ3tjpOY1pHJYqdPBcDj2l2S6yoBgGbjbboQSh2R45meEYJ5EVA7dEthnkO8RU69xPJ8oyiTuQXii2ZRsbrqheKNbDxB6cnMzfjGMRBtZcfu8N8Did6aOYO/PEBOknceebkdJhFE78HzvYlsXnqEmPRP8O0xmMJtEIQM5SJMYSBWVWaIO3LAJ9XX9KdcWQo0P/h7FV5f5ZhNJsgtriz3EKkj1En8ckv9VzcfiM51u7Y/DELP/lICNxKG+ctJ0Jf0yhkfTih2s+SZqj42Y4Nx/x+lsLPRt/WKXGqYxumzl9uQRNiht+iXXl9p4w=;zMI2jIx4VLrZyPUNvvzDQQ=="
 ---

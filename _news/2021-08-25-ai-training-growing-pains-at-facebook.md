@@ -8,8 +8,8 @@ webUrl: "https://www.nextplatform.com/2021/08/25/ai-training-growing-pains-at-fa
 ampWebUrl: "https://www.nextplatform.com/2021/08/25/ai-training-growing-pains-at-facebook/amp/"
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/08/25/ai-training-growing-pains-at-facebook/amp/"
 type: article
-quality: 63
-heat: 63
+quality: 65
+heat: 65
 published: false
 
 provider:
@@ -21,6 +21,7 @@ topics:
   - AI
   - AI Hardware
   - Computer Vision
+  - Machine Learning
 
 images:
   - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/ab_datacenter-racks-woman.jpg"

@@ -63,7 +63,7 @@ related:
   - title: "Singapore fashion analytics firm acquires Malaysia AI startup in $20m deal"
     excerpt: "The acquisition of Supahands would help Omnilytics fill a gap in its existing tech offerings for retail firms."
     publishedDateTime: 2021-08-25T04:17:00Z
-    webUrl: "https://www.techinasia.com/singapore-fashion-analytics-firm-omnilytics-acquires-malaysia-ai-startup-supahands-20m-deal?comments=true"
+    webUrl: "https://www.techinasia.com/singapore-crypto-startup-unicorn-2-years/next"
     type: article
     provider:
       name: Techinasia

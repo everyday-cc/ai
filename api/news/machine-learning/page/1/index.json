@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-26-avalo-uses-machine-learning-to-accelerate-the-adaptation-of-crops-to-climate-change.md",
+      "title": "Avalo uses machine learning to accelerate the adaptation of crops to climate change",
+      "excerpt": "Climate change is affecting farming all over the world, and solutions are seldom simple. But if you could plant crops that resisted the heat, cold, or drought instead of moving a thousand miles away,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/08/25/avalo-uses-machine-learning-to-accelerate-the-adaptation-of-crops-to-climate-change/",
+      "originalUrl": "https://techcrunch.com/2021/08/25/avalo-uses-machine-learning-to-accelerate-the-adaptation-of-crops-to-climate-change/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/avalo-plants.jpg?w=1024",
+          "width": 1024,
+          "height": 572,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/08/25/avalo-uses-machine-learning-to-accelerate-the-adaptation-of-crops-to-climate-change/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/25/avalo-uses-machine-learning-to-accelerate-the-adaptation-of-crops-to-climate-change/amp/",
+      "publishedDateTime": "2021-08-25T12:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-26-enabling-student-success-what-were-learning-from-distance-and-hybrid-education.md",
       "title": "Enabling Student Success: What We’re Learning From Distance And Hybrid Education",
       "excerpt": "Make online, hybrid, and in-the-classroom Like many parents and guardians, I felt unprepared to take over the day-to-day management of my household’s learning during the pandemic. Despite being involved in online education for over a decade—first as the founding president of Khan Academy,",
@@ -1343,50 +1395,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-14-the-real-threat-from-artificial-intelligence-basic-science.md",
-      "title": "The real threat from artificial intelligence – basic science",
-      "excerpt": "The reader has already understood the astronomical impact artificial intelligence (AI) has on businesses and governments, forcing large economies to make strategic plans for the technology. What not everyone understands yet are the real risks posed by the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/08/14/the-real-threat-from-artificial-intelligence-basic-science/",
-      "originalUrl": "https://ksusentinel.com/2021/08/14/the-real-threat-from-artificial-intelligence-basic-science/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ksusentinel.com/wp-content/uploads/2021/08/inteligencia-artificial-web-780x470.jpg",
-          "width": 780,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-14T03:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

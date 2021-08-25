@@ -33,6 +33,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Using Artificial Intelligence Blood Testing to Detect Lung Cancer"
+    excerpt: "Johns Hopkins Kimmel Cancer Center researchers developed novel artificial intelligence blood testing technology to detect lung cancer in patients. The test approach, called DELFI (DNA evaluation of fragments for early interception),"
+    publishedDateTime: 2021-08-24T17:00:00Z
+    webUrl: "https://healthitanalytics.com/news/using-artificial-intelligence-blood-testing-to-detect-lung-cancer"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 37
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-912319336.jpg"
+        width: 690
+        height: 400
+        isCached: true
   - title: "AI Copywriting: Does It Work? We Tested 7 Of The Top Softwares So You Don’t Have To (With Samples From Each)"
     excerpt: "I’m open to the idea that AI writing software could produce short-form content rather well. I also know from first-hand experience that writing and SEO software is often super helpful for polishing final drafts."
     publishedDateTime: 2021-08-21T09:52:00Z

@@ -2,6 +2,111 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2021-07-24-alphabet-to-launch-robotics-firm-intrinsic-under-its-other-bets-unit.md",
+      "title": "Alphabet to launch robotics firm Intrinsic under its other bets unit",
+      "excerpt": "its new robotics software and artificial intelligence project, under the Google parent's segment that houses futuristic businesses such as Verily and Waymo. To expand beyond its main search and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/alphabet-launch-robotics-firm-intrinsic-under-its-other-bets-unit-2021-07-23/",
+      "originalUrl": "https://www.reuters.com/technology/alphabet-launch-robotics-firm-intrinsic-under-its-other-bets-unit-2021-07-23/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/RkqwUqV_pSTg-8Gt3pKHghTeZuQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/L2DMPV6O5NJERDO3F7MHS7QIA4.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-23T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-07-24-alphabet-tackles-industrial-robot-software-market.md",
+      "title": "Alphabet tackles industrial robot software market",
+      "excerpt": "Google 's parent company Alphabet has launched a new company called Intrinsic to make industrial robots easier to program. Originally a project within Google's X research group, Intrinsic has graduated as an independent company within Alphabet.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/business-strategy/automation/360345/alphabet-tackles-industrial-robot-software-market",
+      "originalUrl": "https://www.itpro.co.uk/business-strategy/automation/360345/alphabet-tackles-industrial-robot-software-market",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1620312937/itpro/2021/05/shutterstock_manufacturing_robot_AI.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/business-strategy/automation/360345/alphabet-tackles-industrial-robot-software-market?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/automation/360345/alphabet-tackles-industrial-robot-software-market?amp",
+      "publishedDateTime": "2021-07-23T10:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-24-tesla-full-self-driving-explained-its-capabilities-cost-and-puzzling-over-promise.md",
       "title": "Tesla Full Self-Driving explained: Its capabilities, cost and puzzling over-promise",
       "excerpt": "Perhaps the most overly optimistic technology in all of the auto industry is Tesla's Full Self-Driving package. No car for sale to the general public can do what that name says. Here's what it really does and how to get it on your Tesla.",
@@ -1064,110 +1169,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-google-acquires-pittpatt-wants-to-know-you-on-a-face-to-face-basis.md",
-      "title": "Google acquires PittPatt, wants to know you on a face-to-face basis",
-      "excerpt": "Founded by a trio of PhD's from Carnegie Mellon University, this three-man strong outfit specializes in the sort of object recognition software you've come to know as \"tagging.\" Is this a reversal ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/2011-07-23-google-acquires-pittpatt-wants-to-know-you-on-a-face-to-face-ba.html",
-      "originalUrl": "https://www.engadget.com/2011-07-23-google-acquires-pittpatt-wants-to-know-you-on-a-face-to-face-ba.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/4NFoGsW4IuYsBjIObnF6uA--~B/aD0yOTc7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/www.engadget.com/media/2011/07/pittpatt-google.jpg",
-          "width": 600,
-          "height": 297,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/2011-07-23-google-acquires-pittpatt-wants-to-know-you-on-a-face-to-face-ba.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2011-07-23-google-acquires-pittpatt-wants-to-know-you-on-a-face-to-face-ba.html",
-      "publishedDateTime": "2021-07-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-simplify-patient-care-with-a-custom-voice-assistant-using-amazon-lex-v2.md",
-      "title": "Simplify patient care with a custom voice assistant using Amazon Lex V2",
-      "excerpt": "For the past few decades, physician burnout has been a challenge in the healthcare industry. Although patient interaction and diagnosis are critical aspects of a physician’s job, administrative tasks are equally taxing and time-consuming. Physicians and clinicians must keep a detailed medical record",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/simplify-patient-care-with-a-custom-voice-assistant-using-amazon-lex-v2/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/simplify-patient-care-with-a-custom-voice-assistant-using-amazon-lex-v2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/09/ML1957-image001.png",
-          "width": 964,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-22T16:19:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

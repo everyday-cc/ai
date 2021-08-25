@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-26-joondalup-supports-push-to-become-centre-for-artificial-intelligence-and-robotics.md",
+      "title": "Joondalup supports push to become centre for artificial intelligence and robotics",
+      "excerpt": "A major Perth council wants to become Australia’s first urban centre for artificial intelligence and robotics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.perthnow.com.au/local-news/perthnow-joondalup/pn-council-joon-robotics-c-3759113",
+      "originalUrl": "https://www.perthnow.com.au/local-news/perthnow-joondalup/pn-council-joon-robotics-c-3759113",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.perthnow.com.au/publication/C-3759113/76e2e6c6694853bac73137e934cad47d6de4a2db-16x9-x0y198w2756h1550.jpg?imwidth=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.perthnow.com.au/local-news/perthnow-joondalup/pn-council-joon-robotics-c-3759113.amp",
+      "cdnAmpWebUrl": "https://www-perthnow-com-au.cdn.ampproject.org/c/s/www.perthnow.com.au/local-news/perthnow-joondalup/pn-council-joon-robotics-c-3759113.amp",
+      "publishedDateTime": "2021-08-25T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Perth Now",
+        "domain": "perthnow.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-08-25-tesla-starts-hiring-roboticists-for-its-tesla-bot-humanoid-robot-project.md",
       "title": "Tesla starts hiring roboticists for its ‘Tesla Bot’ humanoid robot project",
       "excerpt": "Tesla has started to hire roboticists to build its recently announced ‘Tesla Bot’, a humanoid robot to become a new vehicle for its AI technology. When Elon Musk explained the rationale behind Tesla Bot,",
@@ -106,7 +150,7 @@
       "originalUrl": "https://www.reuters.com/business/autos-transportation/musk-says-teslas-self-driving-software-update-not-great-2021-08-23/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 349,
+      "heat": 359,
       "tags": null,
       "images": [
         {
@@ -1434,58 +1478,6 @@
         "AI Hardware",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-waymo-begins-work-on-dedicated-texas-hub-for-self-driving-trucks.md",
-      "title": "Waymo begins work on dedicated Texas hub for self-driving trucks",
-      "excerpt": "Alphabet-owned Waymo is looking to gain a strong foothold in the nascent autonomous freight industry, today announcing plans to build a dedicated hub for its self-driving trucks in the state of Texas.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/automotive/waymo-dedicated-texas-hub-self-driving-trucks/",
-      "originalUrl": "https://newatlas.com/automotive/waymo-dedicated-texas-hub-self-driving-trucks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/6981b2a/2147483647/strip/true/crop/1620x1080+150+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F54%2Fb3%2Faf7f948749be8c11427aabf027e8%2Fryder-waymo.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/automotive/waymo-dedicated-texas-hub-self-driving-trucks/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/waymo-dedicated-texas-hub-self-driving-trucks/?amp=true",
-      "publishedDateTime": "2021-08-18T23:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],
