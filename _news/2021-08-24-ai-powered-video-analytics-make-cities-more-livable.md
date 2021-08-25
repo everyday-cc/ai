@@ -7,7 +7,7 @@ originalUrl: "https://www.infoworld.com/resources/223285/ai-powered-video-analyt
 webUrl: "https://www.infoworld.com/resources/223285/ai-powered-video-analytics-make-cities-more-livable"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Consumer Analytics Using NLP and AI in the HPC Cloud"
-    excerpt: "Customers and shoppers have benefited greatly from advances in Internet connectivity in recent years. Rapidly growing e-commerce firms have yielded actual"
-    publishedDateTime: 2021-08-20T16:25:00Z
-    webUrl: "https://www.datanami.com/2021/08/20/consumer_analytics_using_nlp_and_ai/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 56
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/smiley_face_emoji_shutterstock_-pixelliebe.jpg"
-        width: 1000
-        height: 596
-        isCached: true
   - title: "Singapore fashion analytics firm acquires Malaysia AI startup in $20m deal"
     excerpt: "The acquisition of Supahands would help Omnilytics fill a gap in its existing tech offerings for retail firms."
     publishedDateTime: 2021-08-25T04:17:00Z

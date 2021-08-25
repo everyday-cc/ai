@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Delhi police’s facial recognition tech could make Muslims likelier targets"
+    excerpt: "A key factor that makes the religious group vulnerable is the uneven distribution of police stations across the city, shows research."
+    publishedDateTime: 2021-08-25T08:00:00Z
+    webUrl: "https://scroll.in/article/1003602/delhi-polices-facial-recognition-tech-could-make-muslims-likelier-targets"
+    ampWebUrl: "https://amp.scroll.in/article/1003602/delhi-polices-facial-recognition-tech-could-make-muslims-likelier-targets"
+    cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/1003602/delhi-polices-facial-recognition-tech-could-make-muslims-likelier-targets"
+    type: article
+    provider:
+      name: Scroll
+      domain: scroll.in
+    quality: 57
+    images:
+      - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/163173-nwiyikzixj-1629793683.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "loYMd6yd4vVrnqS8MdwqO8T2uRbHjCdLiFyISTmp8EIhUO9Y8qBaXaYMx1MNJLOeyTFOJ73a+Co6C1IqYThelbO+0SFQH9CPNK/oMFqTo92AgsUB7GUsp4yP6ui69c1RKGmCblWLSjn9wESLFzA38bkE9KyPbkfOrte2PfraXunZ9SOO7sJcDFdcHJaTUBSYH5HLFWvs7fr1aUk3DafOT5fJZpMG0u5Yt++ctyyg5zEH18scnSulI6tGfxY4Fj5/Ci8poEmYj+UJMzagGGFmha1QAmu9kwoEUWjD4UK9vjGbcTiOUFbHmVBfcWEvhWLxOUtm4nZB3u07tNAd67ONJ4ZJd6AN0zx2m0CU0sH8QMyHp9D16E26+9AswwPkL9KOz4dbL8TlCoJ/e+mw6OfTC49BLrydYn7xfldKSW9nlxeHiTuFrKfG5emKnNzUIh0YUKZI3DHw0Yur2bnCmoQX1qjmgK8OXmEMOEMxiEI/t2KWEOCShGmkkVYtA70qGzkLcfc5PRdiDmowJQCsTVW8xw==;vspWFSGK3deJJEOGvcAVAg=="
 ---

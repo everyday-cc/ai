@@ -40,15 +40,6 @@ related:
         width: 920
         height: 700
         isCached: true
-  - title: "QVentures Invests in Semeris, A LegalTech AI Start-Up for Financial Services"
-    excerpt: "QVentures has announced their latest fund investment into Semeris, a legal AI startup that builds contract analysis products for the financial sector. Designed to help financial services companies review,"
-    publishedDateTime: 2021-08-20T16:24:00Z
-    webUrl: "https://www.legalitprofessionals.com/global-news/12633-qventures-invests-in-semeris-a-legaltech-ai-start-up-for-financial-services"
-    type: article
-    provider:
-      name: legalitprofessionals.com
-      domain: legalitprofessionals.com
-    quality: 16
 
 secured: "364IF0/x4BwviiADfVp4r0Rt75j0WZKwwfWiq49XUMPLdALhrF0+fgGzDqAXtGcK+Eiqy3KEAlDQP1CuwQ7hCxO7FvUkSh05BanI35T35KqTZDy/bKQKaAnmKm5XhiFSPttdamavHGksfI24v+LyINX23D4b7XWOX6dPJevmA4GvUwaFgV/AqqQi/Yi8l+D6dBr5Kml5hAx/D6tD8DqOng+4woKErtCsJq0X118PDzSbxevGm9j+wL41zfGRPqNKr2gympwOkCLpvKnA8Tcb5VUfe1+bxmUvEHVHyqYrMcPWXObcZpymPJirJfeCb/ayfoXnJCy/lAvMyIFweFlOiuZbqeNNudtmRh/mIbDoS2ymAIMYFOCzUPN0I8+BVDmhpDsKbHOW5pA2AIbk6xAO3EbaSqvb8CvCjG+VZxC6UOSkPXaiszrDFM+QWFJmhJKokGLVGk2W10p3/HUmLx4HWZEChyUvb7Jfca7G5o5VJyEjtwioK+A/ss/GUz+dPzyYmS89HjDzWJBsLim85i6GEA==;tXcO6cAeg/IjFXIimz+fvQ=="
 ---

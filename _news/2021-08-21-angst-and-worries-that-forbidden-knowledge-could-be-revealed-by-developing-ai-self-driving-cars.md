@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/21/angst-and-worries
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/21/angst-and-worries-that-forbidden-knowledge-could-be-revealed-by-developing-ai-self-driving-cars/amp/"
 type: article
 quality: 79
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F9%252F1%252F1%252F7%252F36017119-3-eng-GB%252FCropped-16295409212021-05-21T000000Z_1601373438_RC24KN9YF6V3_RTRMADP_3_TESLA-CHINA.JPG?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
         width: 1024
         height: 512
-        isCached: true
-  - title: "Aurora Releases Framework to Test the Safety of Self-driving Cars and Trucks"
-    excerpt: "In their view, the tool will allow developers to gauge the efficiency of their self-driving vehicles in various situations. The term \"tool\" is a simplified explanation of what Aurora has released, which is a Safety Case Framework. The latter is developed ..."
-    publishedDateTime: 2021-08-20T15:57:00Z
-    webUrl: "https://www.autoevolution.com/news/aurora-releases-framework-to-test-the-safety-of-self-driving-cars-and-trucks-167761.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 21
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/aurora-releases-framework-to-test-the-safety-of-self-driving-cars-and-trucks-167761_1.jpg"
-        width: 1680
-        height: 920
         isCached: true
 
 secured: "JJqzyoUy2rsgPGrp9Aw4pF+M/QhGBFD+x+xhbzPx76FY1X+rwGrZH8ro8LHowSAEDC6iXJ+rosJLUtYxaVwcaEMUunFGWfJ5WAMxHHcrTdwil0PBAU3dIHf41XJPnQY/Zwk07X9JA0EBfcltlXMOhHe4m+jfxPzckn6Iyr9B0FQBCkyNnlIy+roGWx1jEsxhUn3ZX5JtkMt27b1JRv/8JeQbWU02dYQSAUP6uwlnlZ3cL2PGppAGjvQV6mDFyDbDCknI6oCjkk6UaJKpZLrwUxyN/EjhAP720RlpTT6f1sC7lI5SVTah4ZtwyhMgcXUcAjPdEW3+OHtWmriut0G+antrDTEkOANUzHeuqDugl7QznCA0PEbP1ZTlSNygU6Yn95cEYrzQRKvBzry8cFZRZIPfhK8DxgYx1HVtT8606m0EAWhWBaAVltlPdVLN1qCn3zvTCPsarHSHw9Uanc2DbG1OJxFUejMNV+og8xyiM5zRgoLnqh0oO5bxqagSjon1ikBtm6QzTRnxvOYZxKSljg==;N2nerSYw8q8siEiclrMHKg=="

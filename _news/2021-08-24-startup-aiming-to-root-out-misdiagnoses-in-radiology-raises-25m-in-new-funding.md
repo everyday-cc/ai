@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Monolith AI Raises £8.5M in Series A Funding"
+    excerpt: "Monolith AI, a UK AI engineering software company, raised £8.5M in Series A funding. The round was led by Insight Partners with participation from existing investors Pentech and Touchstone, Alejandro Agag,"
+    publishedDateTime: 2021-08-23T14:38:00Z
+    webUrl: "https://www.finsmes.com/2021/08/monolith-ai-raises-8-5m-in-series-a-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 37
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2021/08/2021-Aug-F1-Dashboard-v1.1-1.png"
+        width: 1250
+        height: 768
+        isCached: true
   - title: "Covera Health Raises $25M in Series C Financing to Fuel Growth of Its Healthcare Quality Analytics Platform"
     excerpt: "Covera Health, the leading quality analytics company focused on improving patient care by reducing medical errors, today announced its Series C financing. The $25M funding was led by global venture capital and private equity firm Insight Partners with participation from existing investors including Equity Group Investments."
     publishedDateTime: 2021-08-23T13:02:00Z

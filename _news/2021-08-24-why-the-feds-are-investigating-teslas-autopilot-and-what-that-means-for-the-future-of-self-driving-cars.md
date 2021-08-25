@@ -44,34 +44,20 @@ related:
         height: 338
         isCached: true
   - title: "Will Tesla share its self-driving system with other manufacturers?"
-    excerpt: "Tesla isn't against licensing its autonomous driving technology 'Autopilot'. But it remains to be seen with whom such an agreement would be, and at what price"
-    publishedDateTime: 2021-08-25T05:27:00Z
-    webUrl: "https://www.forbesindia.com/article/forbes-lifes/will-tesla-share-its-selfdriving-system-with-other-manufacturers/69985/1"
-    ampWebUrl: "https://www.forbesindia.com/amp/article/forbes-lifes/will-tesla-share-its-selfdriving-system-with-other-manufacturers/69985/1"
-    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/forbes-lifes/will-tesla-share-its-selfdriving-system-with-other-manufacturers/69985/1"
+    excerpt: "Newcomers to the market could very well turn to Tesla and their technology, which now has a significant track record."
+    publishedDateTime: 2021-08-25T09:46:00Z
+    webUrl: "https://www.astroawani.com/berita-dunia/will-tesla-share-its-self-driving-system-other-manufacturers-315998"
+    ampWebUrl: "https://www.astroawani.com/berita-dunia/will-tesla-share-its-self-driving-system-other-manufacturers-315998?amp=1"
+    cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/berita-dunia/will-tesla-share-its-self-driving-system-other-manufacturers-315998?amp=1"
     type: article
     provider:
-      name: Forbes India
-      domain: forbesindia.com
+      name: Astro Awani
+      domain: astroawani.com
     quality: 59
     images:
-      - url: "https://www.forbesindia.com/media/images/2021/Aug/img_166385_selfdrivingsystem.jpg"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "Behind the Feds’ tesla Investigation, and the Future of Self-Driving Cars"
-    excerpt: "The probe covers 765,000 Tesla cars – that’s virtually every car the company has made in the last seven years. The investigation will put pressure on Tesla to reevaluate the technologies the company uses in Autopilot and could influence the future of driver-assistance systems and autonomous vehicles."
-    publishedDateTime: 2021-08-24T01:00:00Z
-    webUrl: "https://flaglerlive.com/167187/behind-the-feds-tesla-investigation/"
-    type: article
-    provider:
-      name: Flagler Live
-      domain: flaglerlive.com
-    quality: 38
-    images:
-      - url: "https://flaglerlive.com/wp-content/uploads/tesla.jpg"
-        width: 1000
-        height: 657
+      - url: "https://img.astroawani.com/2021-08/81629873606_TESLA.jpg"
+        width: 590
+        height: 400
         isCached: true
 
 secured: "IBb/nUsjwIrbDTom/NYrPr+nz2sCJyzOrxI5E8qRRcTQyzYSpJEPsh0Bhek8YcsWxZ2uozMwkWIuWprilwvNsh8YFCX6saEwBORHIloilop3+N2PtS8YjkB6haWv2vtIjQT1NUxNRXeiARfBWKaIRrYTPPnTrCRp/PBFL+Fre7PljI+NoS+ZIlHjq1r572gPKJdkUiZItfmyGGp8UgaWhuOLo+wYnmFdooTDxxrOzLCD0oiESkaterEvDd2Ry9HfBf6CBKAcLTscBxpZrdDykTEfoPqA5dl4nyDVjEOs2y55JUHo7FSwmEQb00sVqiiOhP4WXzTcyxjfQb1yFEQuJVAyvWN0G45tPOkWqwuJnEs=;+vt15x+Y0Av20kPfT5f1Ww=="

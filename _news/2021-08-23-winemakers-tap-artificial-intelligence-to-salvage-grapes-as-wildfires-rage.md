@@ -3,8 +3,8 @@ category: news
 title: "Winemakers Tap Artificial Intelligence to Salvage Grapes as Wildfires Rage"
 excerpt: "California winemakers are using artificial intelligence developed by a software startup to help salvage grapes damaged by smoke from the state’s massive wildfires."
 publishedDateTime: 2021-08-23T08:30:00Z
-originalUrl: "https://www.wsj.com/articles/winemakers-tap-artificial-intelligence-to-salvage-grapes-as-wildfires-rage-11629711005?mod=hp_featst_pos4"
-webUrl: "https://www.wsj.com/articles/winemakers-tap-artificial-intelligence-to-salvage-grapes-as-wildfires-rage-11629711005?mod=hp_featst_pos4"
+originalUrl: "https://www.wsj.com/articles/winemakers-tap-artificial-intelligence-to-salvage-grapes-as-wildfires-rage-11629711005"
+webUrl: "https://www.wsj.com/articles/winemakers-tap-artificial-intelligence-to-salvage-grapes-as-wildfires-rage-11629711005"
 type: article
 quality: 65
 heat: 65
@@ -27,6 +27,6 @@ images:
     height: 640
     isCached: true
 
-secured: "kgHCIa+zhiNTM6I14uuCO/9Ul8f+rbBK1nw/aO96SEXjUkawhTJVsk1f/Vxtv1kj6S4VZpwDJD3suzHKmycsaIJP8562ubky1LDLIvp9SzbxwUnOFmLg7Etcpr7PzvwHXOs9onWCux/znt4uiM8DvtSYYQSdqug3Jwf6YzBfBMFiIUdVXzUHm6VdTWnCRP3UyMKGEz0pd79Ay/fmS4VUUWbQkquazW7YR05lxR6qRjiB2cCswxZnF2ZW09l7P8JusWk3Rye7a2PJAju2stfebcHmpa1ZO7AtPOtG5nYMPRMkzEP/DVN7nxA1d2zuN7P0wcjGAQKRnedMlVDpJEY3TE5v9faHeo6Tnt+U5oIuv+o=;D5rS3/Zriw/23sIfNqBUOQ=="
+secured: "8vVDRvGXhnfuwScwn9D0zK3RHU0TIDliEc+ZwT8Ls6UWgLON6GSsbMuJsOGg0hdZAJtf+yUqQslk5daClN/e5TTlhEpZ/oLYEcO7egiHak+LRK1U1zjeLL/H0T9T2AwBC2dWf8sI+wbI/jFqROmy6jGMezLtkzGyxX72xLKtyggr8HFYby25aGF4ko2Jouz0ypUnaYLv7zj/KmXWOzz43txbal2CscfX9rT+1T3s/3Agq86xtEZcqmBo/0LMdEwVNVIKvit/UvTEmTLChZRQnKKKSbCa6ln0szmhGb/ocGe38sibMvfzOaPn/rTOS0ZTJbhRgdwKUYPCnquJ7711Lzel/NGJK2pcszXj1HJF00I=;oXkGLnoBQK/XBgWlAMwfmA=="
 ---
 

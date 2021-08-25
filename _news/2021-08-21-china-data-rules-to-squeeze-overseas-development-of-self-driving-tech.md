@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Aurora Releases Framework to Test the Safety of Self-driving Cars and Trucks"
-    excerpt: "In their view, the tool will allow developers to gauge the efficiency of their self-driving vehicles in various situations. The term \"tool\" is a simplified explanation of what Aurora has released, which is a Safety Case Framework. The latter is developed ..."
-    publishedDateTime: 2021-08-20T15:57:00Z
-    webUrl: "https://www.autoevolution.com/news/aurora-releases-framework-to-test-the-safety-of-self-driving-cars-and-trucks-167761.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 21
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/aurora-releases-framework-to-test-the-safety-of-self-driving-cars-and-trucks-167761_1.jpg"
-        width: 1680
-        height: 920
-        isCached: true
 
 secured: "ihV7pVU5qRrFtjCVxKvC+9TY87AdsJk6H8l6hqS/t7v7Q3qqb/x9m7nbTFwgWftX+HKyKPQCjagJMnNg5ickW6N8lp0NZuRj8Nhu4+f5CEW6+m6DF6Lc9yOmmnlj0slJ872nklpOoG9CPwSQbyEPsvn+7j8cA3N29uXtfdm/hVgfrLXh5HoBWPG2+Dzks4votJUm7MlbacQlBG/2wAhWCKxFoIm/9/JX/iC1KIm1G6C9c5yO9U+dGdEpeVdhwaeQjcW1AHPXvLt9cXehGiyFr0hVodaQ1ICKSx8Voi3nyM1Ufag1/SVqtPJRMO9GiMFeHmXsO5r1g4Xu4vOY2TTHiuPBt0VyxxgKY4JfTYm+bzU=;xU+cb0xDGNg+IK9JTdx9xw=="
 ---

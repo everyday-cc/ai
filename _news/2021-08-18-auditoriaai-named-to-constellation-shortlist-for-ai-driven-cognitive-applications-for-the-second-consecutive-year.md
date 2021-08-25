@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Auditoria.AI Named to Constellation ShortList for AI-Driven Cognitive Applications for the Second Consecutive Year"
-excerpt: "Exclusive List Solidifies Auditoria's Transformative Approach to Cognitive Automation SANTA ... Products and services named to the Constellation ShortList meet the threshold criteria for this ..."
-publishedDateTime: 2021-08-18T15:08:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2021-08/53714771-auditoria-ai-named-to-constellation-shortlist-for-ai-driven-cognitive-applications-for-the-second-consecutive-year-200.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2021-08/53714771-auditoria-ai-named-to-constellation-shortlist-for-ai-driven-cognitive-applications-for-the-second-consecutive-year-200.htm"
+excerpt: "Exclusive List Solidifies Auditoria’s Transformative Approach to Cognitive Automation. SANTA CLARA, CA / ACCESSWIRE / August 18, 2021 / AUDITORIA.AI, a pioneer in AI-driven auto"
+publishedDateTime: 2021-08-18T13:01:00Z
+originalUrl: "https://apnews.com/press-release/accesswire/technology-business-fc2f302c0629473e2c0b88fc3dc0c316"
+webUrl: "https://apnews.com/press-release/accesswire/technology-business-fc2f302c0629473e2c0b88fc3dc0c316"
 type: article
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "7GZBug3mVKwTsyPgEFdbNyMZNTKlXc6F4ss/cociTXch6XNowCvR/TvLmgav+jd4GwTcKZmtuxXBdJPp5FuwUmI9AFl79XJaYsvOQ1RGcgCn7T7M3c486QmqVPpUcOnppvoEwWnhxvivt7uNCLL3DhvAQenMQGevj14q0iVrawjvh+pAuIG2pKvmbdrchpmQrUPm7f3gpkzyM/Q97fsOUIf8fNHQafBk282QW3+Maw/SZaHq7xMoyusV+FKGqmL6i9GRgw6jL08Xvu66U1nMBf/M2alYV0y6dzR/n8oCnqfZIojCDmncRzohy8DkewiokQ69zH1EpkaOBX9XBVgKBhAEQE+ElyO9Dt4xAZ43HFw=;Zm/QwCbKQ2Z/wfn/fiHNIQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "iJ1yms/UWQ3412qObhRdzRWZokUaP8BPJdrt5iJBeDvPQs4ste5aJxvk9Xpk5k9kUaBnKfMHpUZZHZQ21Use5oJotcmsK60ijMiY7JrVcFJZivOgzg8DstSR2fDZ2gGRv0k2cPYF6Zw75EJAZJPusMpud43y56x057tbu52wfNSKRbe1Z13h3kJ/IkTRpeAm2ZdQePZ4j+pabhovGh38s49xhiUaRYLQvv+yvlOT4/UXsPyZaS1101epuLHpFfXAryxcRUqu3uONEalIkqdmlHV5Ws/UwORM5oNPArGhVfzNfnzn4L3K/1yXlU+tO1PCDLy9N7GJ03HpGz5LnNJVfIvB1vFRoe1r3VcttGeLSuM=;GgCwddUhAFjhKrWw/GR1JQ=="
 ---
 

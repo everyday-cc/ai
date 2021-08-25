@@ -9,7 +9,7 @@ ampWebUrl: "https://qz.com/india/2050652/delhi-polices-use-of-facial-recognition
 cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/india/2050652/delhi-polices-use-of-facial-recognition-could-hurt-muslims-more/amp/"
 type: article
 quality: 90
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Delhi police’s facial recognition tech could make Muslims likelier targets"
+    excerpt: "A key factor that makes the religious group vulnerable is the uneven distribution of police stations across the city, shows research."
+    publishedDateTime: 2021-08-25T08:00:00Z
+    webUrl: "https://scroll.in/article/1003602/delhi-polices-facial-recognition-tech-could-make-muslims-likelier-targets"
+    ampWebUrl: "https://amp.scroll.in/article/1003602/delhi-polices-facial-recognition-tech-could-make-muslims-likelier-targets"
+    cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/1003602/delhi-polices-facial-recognition-tech-could-make-muslims-likelier-targets"
+    type: article
+    provider:
+      name: Scroll
+      domain: scroll.in
+    quality: 57
+    images:
+      - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/163173-nwiyikzixj-1629793683.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "The use of facial recognition technology for policing in Delhi: An empirical study of potential religion-based discrimination"
     excerpt: "The use of new technology like facial recognition by police in India raises questions of efficiency, surveillance, and discrimination."
     publishedDateTime: 2021-08-23T05:25:00Z

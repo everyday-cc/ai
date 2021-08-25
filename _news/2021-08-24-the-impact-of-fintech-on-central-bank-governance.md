@@ -30,22 +30,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 56
-  - title: "FinTech SPAC Activity Heats Up"
-    excerpt: "In that filing, TG Venture said technologies under consideration for business combinations will include AI, blockchain and other advances. The filing notes, “FinTech is disruptive to our life every day. The power dynamics in the payments industry are ..."
-    publishedDateTime: 2021-08-20T15:15:00Z
-    webUrl: "https://www.pymnts.com/news/ipo/2021/fintech-spac-activity-heats-up/"
-    ampWebUrl: "https://www.pymnts.com/news/ipo/2021/fintech-spac-activity-heats-up/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/ipo/2021/fintech-spac-activity-heats-up/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/08/IPO-SPAC-FinTech-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "Top Programming Languages for Finance in Fintech"
     excerpt: "This article explores some of the top programming languages for finance in fintech to power companies. Programming language is essential for efficient financial services. Multiple programming languages for finance are suitable for different fintech companies."
     publishedDateTime: 2021-08-23T11:06:00Z

@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI Day Showcases The Breadth Of Tesla’s Ambition"
+    excerpt: "Tesla AI Day 2021 featured executives presenting the full range of the company’s AI efforts, from computer vision to planning and controls to data infrastructure to automotive super computers to data center supercomputers."
+    publishedDateTime: 2021-08-20T17:57:00Z
+    webUrl: "https://www.forbes.com/sites/davidsilver/2021/08/20/ai-day-showcases-the-breadth-of-teslas-ambition/"
+    ampWebUrl: "https://www.forbes.com/sites/davidsilver/2021/08/20/ai-day-showcases-the-breadth-of-teslas-ambition/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidsilver/2021/08/20/ai-day-showcases-the-breadth-of-teslas-ambition/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611fdf470f5f95efd0682f84%2F0x0.jpg"
+        width: 1200
+        height: 851
+        isCached: true
   - title: "2 Big Revelations From Tesla's AI Day Event"
     excerpt: "Tesla management says it will extend its AI expertise to autonomous humanoid robots. Last Thursday, Tesla (NASDAQ:TSLA) hosted its AI Day event. Elon Musk has branded these presentations as a recruiting opportunity,"
     publishedDateTime: 2021-08-23T18:21:00Z
@@ -60,33 +76,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Tesla Has Unveiled A New Chip For Training AI Models Inside Its Data Centers"
-    excerpt: "Tesla announced a custom-made chip for training artificial intelligence networks in data centres. Shown at the carmaker’s Livestreaming AI Day, the work shows that the company is engaged in vertical integration."
-    publishedDateTime: 2021-08-21T12:01:00Z
-    webUrl: "https://wonderfulengineering.com/tesla-has-unveiled-a-new-chip-for-training-ai-models-inside-its-data-centers/"
-    ampWebUrl: "https://wonderfulengineering.com/tesla-has-unveiled-a-new-chip-for-training-ai-models-inside-its-data-centers/amp/"
-    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/tesla-has-unveiled-a-new-chip-for-training-ai-models-inside-its-data-centers/amp/"
-    type: article
-    provider:
-      name: Wonderful Engineering
-      domain: wonderfulengineering.com
-    quality: 88
-    images:
-      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/08/NVidia-GPU-Packaging.jpg"
-        width: 872
-        height: 872
-        isCached: true
-  - title: "Why Tesla Stock Is Up After AI Day"
-    excerpt: "Wedbush didn't change its \"outperform\" rating on Tesla stock this morning in response to the company's plan to build its own D1 computer chips to run its Dojo supercomputer ... But hey, in at least one respect, AI Day was a success: It generated headlines ..."
-    publishedDateTime: 2021-08-20T15:41:00Z
-    webUrl: "https://www.nasdaq.com/articles/why-tesla-stock-is-up-after-ai-day-2021-08-20"
-    ampWebUrl: "https://www.nasdaq.com/articles/why-tesla-stock-is-up-after-ai-day-2021-08-20?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-tesla-stock-is-up-after-ai-day-2021-08-20?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 86
   - title: "Tesla Bull Vs. Tesla Bear: Tesla AI Day Key Takeaways From Analysts"
     excerpt: "Tesla Inc (NASDAQ: TSLA) explained various AI technology, seemingly for recruiting purposes, during its AI Day on Thursday."
     publishedDateTime: 2021-08-20T18:08:00Z
@@ -176,6 +165,22 @@ related:
         width: 1566
         height: 1280
         isCached: true
+  - title: "Tesla AI Dojo Training as a Service Could Compete with Amazon and Google Cloud"
+    excerpt: "Home » Artificial intelligence » Tesla AI Dojo Training as a Service Could Compete with Amazon and Google Cloud Lex Fridman has a very successful podcast but he has been an AI researcher for 6+ years."
+    publishedDateTime: 2021-08-22T21:53:00Z
+    webUrl: "https://www.nextbigfuture.com/2021/08/tesla-ai-dojo-training-as-a-service-could-compete-with-amazon-and-google-cloud.html"
+    ampWebUrl: "https://www.nextbigfuture.com/2021/08/tesla-ai-dojo-training-as-a-service-could-compete-with-amazon-and-google-cloud.html"
+    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/08/tesla-ai-dojo-training-as-a-service-could-compete-with-amazon-and-google-cloud.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 72
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/08/Screen-Shot-2021-08-22-at-2.23.19-PM.jpg"
+        width: 1802
+        height: 1322
+        isCached: true
   - title: "Is the ‘D1’ AI chip speeding Tesla towards full autonomy?"
     excerpt: "Tesla on its AI day, unveiled a custom chip for training artificial intelligence networks in data centers The D1 chip is part of Tesla’s Dojo"
     publishedDateTime: 2021-08-24T11:33:00Z
@@ -190,6 +195,29 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "A|I: The AI Times – Tesla promised a robot"
+    excerpt: "With more and more AI built on top of a few powerful models, bias and other flaws can rapidly spread. Careful review in an academic environment could help. Wisedocs’ CEO and founder Connor Atchison told BetaKit the startup recently changed its name to ..."
+    publishedDateTime: 2021-08-25T09:31:00Z
+    webUrl: "https://betakit.com/ai-the-ai-times-tesla-promised-a-robot/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 71
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2019/04/franck-v-740564-unsplash-1-e1555351354855.jpg"
+        width: 1200
+        height: 801
+        isCached: true
+  - title: "Tesla launches DOJO chip of artificial intelligence training computer"
+    excerpt: "Tesla launches artificial intelligence training computer DOJO chip] on 20 August, Tesla officially launched his artificial intelligence training computer DOJO chip. It is understood that Musk first mentioned DOJO,"
+    publishedDateTime: 2021-08-22T23:57:00Z
+    webUrl: "https://news.metal.com/newscontent/101575471/Tesla-launches-DOJO-chip-of-artificial-intelligence-training-computer/"
+    type: article
+    provider:
+      name: Metal
+      domain: metal.com
+    quality: 68
   - title: "Tesla’s AI Day Made Self- Driving Technology Harder to Grasp. What Investors Need to Know."
     excerpt: "Companies are racing to build autonomous vehicles, but judging who has the best systems has become nearly impossible for ordinary people."
     publishedDateTime: 2021-08-24T08:30:00Z
@@ -206,6 +234,57 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Tesla’s Dojo Supercomputer Is The World’s Most Powerful AI Training Machine"
+    excerpt: "Tesla's Dojo supercomputer is the world's most powerful AI training machine. Here are all the details on this."
+    publishedDateTime: 2021-08-20T19:13:00Z
+    webUrl: "https://www.redmondpie.com/teslas-dojo-supercomputer-is-the-worlds-most-powerful-ai-training-machine/"
+    type: article
+    provider:
+      name: Redmond Pie
+      domain: redmondpie.com
+    quality: 54
+    images:
+      - url: "https://cdn.redmondpie.com/wp-content/uploads/2021/08/tesla-chip-1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Everything That Happened At Tesla AI Day"
+    excerpt: "As anticipated, Tesla’s AI Day incorporated company engineers explaining the upcoming Tesla tech while focusing on attracting and recruiting the brightest to join Tesla’s AI team. “There’s a tremendous amount of work to make it work,"
+    publishedDateTime: 2021-08-23T09:30:00Z
+    webUrl: "https://analyticsindiamag.com/everything-that-happened-at-tesla-ai-day/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/TeslaDay_AIM.jpg"
+        width: 1050
+        height: 590
+        isCached: true
+  - title: "Behind the Feds’ tesla Investigation, and the Future of Self-Driving Cars"
+    excerpt: "The probe covers 765,000 Tesla cars – that’s virtually every car the company has made in the last seven years. The investigation will put pressure on Tesla to reevaluate the technologies the company uses in Autopilot and could influence the future of driver-assistance systems and autonomous vehicles."
+    publishedDateTime: 2021-08-24T01:00:00Z
+    webUrl: "https://flaglerlive.com/167187/behind-the-feds-tesla-investigation/"
+    type: article
+    provider:
+      name: Flagler Live
+      domain: flaglerlive.com
+    quality: 38
+    images:
+      - url: "https://flaglerlive.com/wp-content/uploads/tesla.jpg"
+        width: 1000
+        height: 657
+        isCached: true
+  - title: "Musk criticizes on Twitter latest test version of Tesla's self-driving software"
+    excerpt: "Chief Executive Elon Musk panned the most recent test version of the company's self-driving software, but said that Tesla employees are \"rallying to improve (it) as fast as possible.\" Musk tweeted late Monday that the latest \"beta\" version of Full Self Driving,"
+    publishedDateTime: 2021-08-23T16:18:00Z
+    webUrl: "https://www.morningstar.com/news/marketwatch/20210823369/musk-criticizes-on-twitter-latest-test-version-of-teslas-self-driving-software"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 15
 
 secured: "8VVYLCK6XMlqmWyjVWuvf/NMFEjnOD2pfMZSv/PKPy+J/+OLVuHgnen5An8rj+BPZjpJBqgS7q0zvdQpfW6ebodau4m4+BtlvCY/1lW9u/1On9rg4ODtkeDrWTHwjvwN79yUEBzOvhUqCyzH2ERZq7fH2ZCoEXNwgC4KIhxOKFu6QlkUpHCEnbiJ7G/oOLjCJ6gLg9icF3i0uWcB9FnTwK7z/bkmSG8diDj543dEaUptxDxQj3k7ue97DKRo94+oEfC8M3su971lb1Nxm6nUAnb8KrFa6LSeKnAKefmGWxzWvQ1k/9o/KNn44eWIyue+fTzugqfVIjLDlbDSmqPu/HA9GmnbGKjBLEoLeNZECjmBeRkeFPyfeBBWhRzzgrfwvkMJrzhJ096u9NBgwMpHj+7kIf7pR8UJM2GHAn7h+NBVggX8LtdD/AzwHAz2cYNuESeATmB2Vqs7Hd9M/QfElS/BjCFxyZAOHmIY4rsJxCHmRNsqXfWvUTDPPAj/oH5yP4AXqyDQjhydb5oCXFfAJQ==;SK29OYtDuXcZYTjJ94gYig=="
 ---

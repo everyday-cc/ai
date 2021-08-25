@@ -36,20 +36,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Consumer Analytics Using NLP and AI in the HPC Cloud"
-    excerpt: "Customers and shoppers have benefited greatly from advances in Internet connectivity in recent years. Rapidly growing e-commerce firms have yielded actual"
-    publishedDateTime: 2021-08-20T16:25:00Z
-    webUrl: "https://www.datanami.com/2021/08/20/consumer_analytics_using_nlp_and_ai/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 56
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/smiley_face_emoji_shutterstock_-pixelliebe.jpg"
-        width: 1000
-        height: 596
-        isCached: true
 
 secured: "7B2hFEtDqXshjXYzv3yFjqtgkS8bZ8+6AXt+PV4u0DJ5GHc0/BVEfpqiCgpkH1H8mEB8TRh9ApclharN3IGcMN+NysvfNpjFYsyEuzEat/+RqeSdUrA/bEL52hiuM3swRqlMiyhxedTQTqeuJuXxKjUkqlQPlKeEVQ74YQnijP2uqGjJxA59ULbD6IZ6DaOs7vvfMzXFh6Ox276vNTtPV+Lv0YLNCX0rbnw2dqi1G+JdQvYc3mA9/4NyVjMBQAQozQrNYXfxFxi7tSCtE/eGf7EYiQy3cTKpQKQrLPY7/zvBaS/CFWrwWkRsmvJuDNNbIhOcQopznt04shRDH2nzOhXeQ01FTllemYw73CZmxR3+0VcGFkC/JqAGHflUnBYy9yqf6SIF7ko7JPE9Dc6d3lTlpSKK0N6kSjkJeM8QKJuMWmB4tIZuvVKZOcFndL2fjBKFaQ8yVwNkZP/Su9/Aq86SMGRzmvmsfhbfJGjaSW5gMAbn4tJj/36iZxANazjP9xgVMtrI1/pqb03izECDjg==;XmwT7lYCRnUCIqKNKUBUNw=="
 ---

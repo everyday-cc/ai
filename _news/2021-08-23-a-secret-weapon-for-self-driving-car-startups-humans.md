@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/autos-transportation/secret-weapo
 webUrl: "https://www.reuters.com/business/autos-transportation/secret-weapon-self-driving-car-startups-humans-2021-08-23/"
 type: article
 quality: 54
-heat: 96
+heat: 97
 published: true
 
 provider:

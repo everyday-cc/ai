@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-08-ai-chatbot-comforting-china-lone
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-ai-chatbot-comforting-china-lonely.amp"
 type: article
 quality: 61
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -59,6 +59,22 @@ related:
       - url: "https://images.news18.com/ibnlive/uploads/2021/08/ai-chatbot-162978597616x9.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "XiaoIce is the AI chatbot that millions of lonely Chinese are turning to for comfort"
+    excerpt: "On the WeChat super-app, it lets users build a virtual girlfriend or boyfriend and interact with them via texts, voice and photo messages."
+    publishedDateTime: 2021-08-25T08:23:00Z
+    webUrl: "https://www.firstpost.com/tech/news-analysis/xiaoice-is-the-ai-chatbot-that-millions-of-lonely-chinese-are-turning-to-for-comfort-9910921.html"
+    ampWebUrl: "https://www.firstpost.com/tech/news-analysis/xiaoice-is-the-ai-chatbot-that-millions-of-lonely-chinese-are-turning-to-for-comfort-9910921.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/xiaoice-is-the-ai-chatbot-that-millions-of-lonely-chinese-are-turning-to-for-comfort-9910921.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 52
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2021/08/alex-knight-2EJCSULRwC8-unsplash-1.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "AI chatbot comforting China's lonely millions"
     excerpt: "Originally a side project from developing Microsoft's Cortana chatbot, XiaoIce now accounts for 60 percent of global human-AI interactions by volume."
