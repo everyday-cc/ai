@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Study: Indiana manufacturers ready to learn, implement data and artificial intelligence"
+    excerpt: "A quarter of Indiana’s economic output is based in manufacturing, and the transition to becoming data-driven and using artificial intelligence holds the possibility for broad economic impact among manufacturers,"
+    publishedDateTime: 2021-08-26T19:50:00Z
+    webUrl: "https://www.purdue.edu/newsroom/releases/2021/Q3/study-indiana-manufacturers-ready-to-learn,-implement-data-and-artificial-intelligence.html"
+    type: article
+    provider:
+      name: Purdue University
+      domain: purdue.edu
+    quality: 29
+    images:
+      - url: "https://www.purdue.edu/uns/images/2021/data-aiOG.jpg"
+        width: 800
+        height: 400
+        isCached: true
   - title: "USD 17.2 bn infused in Indian startup ecosystem by venture capital firms during Jan-July: Report"
     excerpt: "Venture capital firms infused a total of USD 17.2 billion investment into the Indian startup ecosystem during January-July 2021, according to data released by the Indian Private Equity and Venture Capital Association (IVCA) and Venture Intelligence (VI)."
     publishedDateTime: 2021-08-23T04:07:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/tiriasresearch/2021/08/24/esperanto-d
 webUrl: "https://www.forbes.com/sites/tiriasresearch/2021/08/24/esperanto-delivers-massive-ai-processing-with-less-than-20w-for-data-center-inference-workloads/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Forbes
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI Accelerator Chip with 1000 RISC-V Cores Shakes Up Data Center Inference"
+    excerpt: "As the need for AI and data center processing keeps rising, a new AI accelerator has risen to the challenge. After years of development, Esperanto has announced its ET-SoC-1 ML inference chip."
+    publishedDateTime: 2021-08-26T17:00:00Z
+    webUrl: "https://www.allaboutcircuits.com/news/ai-accelerator-chip-with-1000-risc-v-cores-shakes-up-data-center-inference/"
+    type: article
+    provider:
+      name: All About Circuits
+      domain: allaboutcircuits.com
+    quality: 52
+    images:
+      - url: "https://www.allaboutcircuits.com/uploads/thumbnails/esperanto_ai_1000_risc_v_cores.jpg"
+        width: 700
+        height: 300
+        isCached: true
   - title: "Esperanto Technologies Unveils Energy-Efficient RISC-V-Based Machine Learning Accelerator Chip at Hot Chips 33 Conference"
     excerpt: "Esperanto’s ML inference accelerator features over a thousand RISC-V custom processor cores for industry-leading performance per watt."
     publishedDateTime: 2021-08-24T19:30:00Z

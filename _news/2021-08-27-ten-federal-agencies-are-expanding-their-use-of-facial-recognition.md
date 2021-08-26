@@ -122,19 +122,16 @@ related:
         height: 800
         isCached: true
   - title: "Federal government to expand use of facial recognition despite growing concerns"
-    excerpt: "Ten federal agencies — the departments of Agriculture, Commerce, Defense, Homeland Security, Health and Human Services, Interior, Justice, State, Treasury, and Veterans Affairs — told the Government Accountability Office that they intend to grow their facial recognition capabilities by 2023,"
-    publishedDateTime: 2021-08-25T21:55:00Z
-    webUrl: "https://www.stripes.com/theaters/us/2021-08-25/federal-government-expand-use-facial-recognition-gao-report-2664035.html"
+    excerpt: "The GAO said several federal agencies, including the Justice Department, the Air Force and Immigration and Customs Enforcement, reported that they had used facial recognition software from Clearview AI,"
+    publishedDateTime: 2021-08-26T06:52:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/federal-government-to-expand-use-of-facial-recognition-despite-growing-concerns/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/federal-government-to-expand-use-of-facial-recognition-despite-growing-concerns/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/federal-government-to-expand-use-of-facial-recognition-despite-growing-concerns/?amp=1"
     type: article
     provider:
-      name: Stars and Stripes
-      domain: stripes.com
+      name: Seattle Times
+      domain: seattletimes.com
     quality: 35
-    images:
-      - url: "https://www.stripes.com/theaters/us/1gaagz-Capitol-Police-officers-stand-at-an-entry-point-th/alternates/LANDSCAPE_480/Capitol%20Police%20officers%20stand%20at%20an%20entry%20point%20th"
-        width: 480
-        height: 299
-        isCached: true
   - title: "Software log shows Dutch police used controversial facial recognition software"
     excerpt: "A leaked software log from the debated facial recognition software Clearview AI showed that Dutch police officers used the program to identify suspects, RD reported. In April 2020, Minister of Justice Ferd Grapperhaus denied that Dutch authorities used the software."
     publishedDateTime: 2021-08-26T14:55:00Z
@@ -150,6 +147,6 @@ related:
         height: 462
         isCached: true
 
-secured: "3hKrM2xy25yCEkCOSvsB7wroswVtz+lHn4t+9LcIlZDAAgbHDJsr7qHdhYcmb3YflLkiHKk6+RF7YQqqgeJu3aBjziNZsiIOJRyeYaXXjTGhUfswOE3sh/YgWOrV8hyAY2X1UMdalfWeYqAeqw8gmX9cTfW1UzLoJ8+rUBxhMW3fu14s8ZtZI+A+ei1gx3/cTD6d3Wku9O0rHYWFjd5fcL4VcDRbmSCBiFYoP5jIEgyxS+tGxQyeLyy2ppJyTxdAxqLMYehQ/jkUItyL48mMgwytnB5sFuMwgVxmWaiTbXMIfX/c+tTxGWC8b4VtQRr+2AwpFGHHiWh5X1ZSjdFV/ME2zHhXzhSx/XkbixnLTIk=;iUhIzOSMl7+8Gj1iWYx9zg=="
+secured: "ldFZv5otpDqsRTavruK2p+mHyy/S6D98FuoruKa6+YopcUfkOXxGrGG8792l/FkTUEAnt6cHWV/96ZBZVvrLGmdXB/WYWcyUNKHhybR3rMXiuI2mhEkm+wVuVONguSpKRF8i97oI+en7B3JqYE4MxzhfsxMu79ax3iKxXmYUlisyn3GjplACc2n+OGqVaamH6lKi0O/aU5yeDMV1YsfxKh8MUr9pUKzINAhDR546M6bsbLehCP1PhOrpJftxmQWileudUIhGA13u51kGVTmw0HYOQVrqSPS87+McR/NJIXVOxi2JEQW8Tkbhn1P15hSwk4N4MlPBklMo0Ttjo5vA+A6Zi940onuXuD5MPvBpJM5HbF5rCDDjC9PfFw7R0ak3gnZm1fzuPYJ8TrUxJTJGCwI3PYC+1qYo1NY3tuVVDGFeR03ay14oqr/1ausW0wFSd2cxBiNW4AA/ulU9yVJw9fn+XMae2cV9ZyCZF0hWh7zNUx+ihkZ3TgMRRCow80e/ecRyTjZORJkiBKsDELraYQ==;OcT3a1XqElGmJ0+GZrtGMQ=="
 ---
 

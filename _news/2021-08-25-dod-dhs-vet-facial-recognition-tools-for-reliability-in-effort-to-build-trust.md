@@ -97,6 +97,20 @@ related:
         width: 789
         height: 444
         isCached: true
+  - title: "Facial Recognition Tech Use Increasing Among Federal Agencies"
+    excerpt: "Use cases included criminal investigations, building security and access to digital assets like smartphones and security agency websites."
+    publishedDateTime: 2021-08-26T19:00:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2021/08/facial-recognition-tech-use-increasing-among-federal-agencies/184884/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 39
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2021/08/26/authentication_by_facial_recognition_biometric_security_system_picture_id1216416251/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Researchers develop computer vision system that can detect babies’ faces while monitoring their vital signs"
     excerpt: "University of South Australia researchers have developed a computer vision system that can automatically detect a tiny baby’s face in a hospital bed and remotely monitor its vital signs from a ..."
     publishedDateTime: 2021-08-25T02:04:00Z

@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Federal agencies plan to expand use of facial recognition technology"
+    excerpt: "At least 10 federal agencies will use facial recognition devices in the next few years, the Government Accountability Office said."
+    publishedDateTime: 2021-08-26T17:26:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/08/26/facial-recognition-technology-federal-government/9701629997438/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/08/26/facial-recognition-technology-federal-government/9701629997438/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/08/26/facial-recognition-technology-federal-government/9701629997438/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 59
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi_com/9701629997438/2021/1/e30981875b6529604732f53d58b86540/v1.5/Federal-agencies-plan-to-expand-use-of-facial-recognition-technology.jpg"
+        width: 800
+        height: 532
+        isCached: true
   - title: "WPP Branches Into AI Tech With Satalia Acquisition"
     excerpt: "WPP announced that it has acquired Satalia, a technology company offering marketleading AI solutions for clients."
     publishedDateTime: 2021-08-23T22:16:00Z

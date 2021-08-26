@@ -2,6 +2,281 @@
   "page": 84,
   "value": [
     {
+      "path": "_news/2021-06-28-big-techs-car-obsession-is-all-about-taking-eyes-off-the-road.md",
+      "title": "Big Tech’s car obsession is all about taking eyes off the road",
+      "excerpt": "Giants from Huawei Technologies to Baidu have pledged to plow almost $19 billion into electric and self-driving vehicle ventures this year alone. Smartphone giant Xiaomi and even Apple’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/business/technology/big-techs-car-obsession-is-all-about-taking-eyes-off-the-road/",
+      "originalUrl": "https://www.seattletimes.com/business/technology/big-techs-car-obsession-is-all-about-taking-eyes-off-the-road/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.seattletimes.com/business/technology/big-techs-car-obsession-is-all-about-taking-eyes-off-the-road/?amp=1",
+      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/big-techs-car-obsession-is-all-about-taking-eyes-off-the-road/?amp=1",
+      "publishedDateTime": "2021-06-28T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-28-meet-the-new-standard-in-risk-management.md",
+      "title": "Meet the new standard in risk management",
+      "excerpt": "Legacy assessment based third-party risk management (TPRM) practices have struggled for years to keep pace with business needs. During the COVID-19 crisis, these shortcomings became even more acute. Companies faced additional unanticipated challenges involving the rapid onboarding of new service providers,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/06/new-standard-in-risk-management/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/06/new-standard-in-risk-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/06/OpenPages-and-Supply-Wisdom.png",
+          "width": 2000,
+          "height": 1006,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-28T06:00:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-28-eyetech-digital-systems-recognized-by-siia-as-best-artificial-intelligence-solution-in-healthcare.md",
+      "title": "EyeTech Digital Systems Recognized by SIIA as Best Artificial Intelligence Solution in Healthcare",
+      "excerpt": "EyeTech Digital Systems ′ EyeOn platform has been named the 2021 Best Artificial Intelligence Solution in Healthcare as part of the annual SIIA CODiE Awards. The CODiE Awards recognize companies producing the most innovative business technology products across the country and around the world.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/artificial-intelligence-technology-90889e6221b2aed7f789007e4c6a8ae6",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/artificial-intelligence-technology-90889e6221b2aed7f789007e4c6a8ae6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-28T05:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-28-how-to-get-your-employees-to-quickly-embrace-a-digital-platform.md",
+      "title": "How To Get Your Employees To Quickly Embrace A Digital Platform",
+      "excerpt": "Clearly, now more than ever, digital transformation must take hold in many industries. It is especially important when companies must find ways to do more work with far fewer resources. Starting Your Digital Transformation Journey Digital transformation truly \"takes a village.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/28/how-to-get-your-employees-to-quickly-embrace-a-digital-platform/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/28/how-to-get-your-employees-to-quickly-embrace-a-digital-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d5f1ae42bc6c32ef95e8b3%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/28/how-to-get-your-employees-to-quickly-embrace-a-digital-platform/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/28/how-to-get-your-employees-to-quickly-embrace-a-digital-platform/amp/",
+      "publishedDateTime": "2021-06-28T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-28-jet-bot-ai-robotic-vacuum-cleaner-has-a-3d-active-stereo-type-sensor-and-ai.md",
+      "title": "Jet Bot AI+ robotic vacuum cleaner has a 3D active stereo-type sensor and AI",
+      "excerpt": "During CES 2021, back in January, Samsung Electronics announced a new robotic vacuum cleaner with some interesting features called the Jet Bot AI+. Samsung has now confirmed the global launch of",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/jet-bot-ai-robotic-vacuum-cleaner-has-a-3d-active-stereo-type-sensor-and-ai-28680192/",
+      "originalUrl": "https://www.slashgear.com/jet-bot-ai-robotic-vacuum-cleaner-has-a-3d-active-stereo-type-sensor-and-ai-28680192/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/06/samsung-vacuum.jpg",
+          "width": 1280,
+          "height": 825,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/jet-bot-ai-robotic-vacuum-cleaner-has-a-3d-active-stereo-type-sensor-and-ai-28680192/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/jet-bot-ai-robotic-vacuum-cleaner-has-a-3d-active-stereo-type-sensor-and-ai-28680192/amp/",
+      "publishedDateTime": "2021-06-28T04:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-06-28-cognitive-assessment-market-growing-trends-and-technology-forecast-2021-2026-verasci-neurocog-trials-lumos-labs-cogstate.md",
+      "title": "Cognitive Assessment Market Growing Trends and Technology Forecast 2021-2026 | VeraSci NeuroCog Trials, Lumos Labs, Cogstate",
+      "excerpt": "Services, Hardware & Software is the main type for Cognitive Assessment, with a 49.40% revenue market share. and 18+ countries across the globe along with insights on emerging & major players.",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2315295/cognitive-assessment-market-growing-trends-and-technology",
+      "originalUrl": "https://www.openpr.com/news/2315295/cognitive-assessment-market-growing-trends-and-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/6/U628365823_g.jpg",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2315295/cognitive-assessment-market-growing-trends-and-technology",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2315295/cognitive-assessment-market-growing-trends-and-technology",
+      "publishedDateTime": "2021-06-28T04:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-28-new-intel-xpu-innovations-target-hpc-and-ai.md",
       "title": "New Intel XPU Innovations Target HPC and AI",
       "excerpt": "The next generation of Intel Xeon Scalable processors (code-named “Sapphire Rapids”) will integrate High Bandwidth Memory (HBM). Intel’s X e -HPC-based Ponte Vecchio GPU has powered-on, is in system validation,",
@@ -804,284 +1079,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-27-apples-car-obsession-is-all-about-taking-eyes-off-the-road.md",
-      "title": "Apple’s car obsession is all about taking eyes off the road",
-      "excerpt": "At first glance, the forays Apple Inc., Google and other technology giants are making into the world of cars don’t appear to be particularly lucrative.",
-      "sourceUrl": null,
-      "webUrl": "https://www.columbian.com/news/2021/jun/27/apples-car-obsession-is-all-about-taking-eyes-off-the-road/",
-      "originalUrl": "https://www.columbian.com/news/2021/jun/27/apples-car-obsession-is-all-about-taking-eyes-off-the-road/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pcdn.columbian.com/wp-content/themes/columbian2/static/img/og/default.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-27T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Columbian",
-        "domain": "columbian.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-27-medical-ai-confronts-pesky-problem-people.md",
-      "title": "Medical AI Confronts Pesky Problem: People",
-      "excerpt": "A statistical measure called “area under the curve” told Mayo Clinic researchers their new artificial intelligence (AI) tool was terrific. Then their doctors threw them a curve ball.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/michaelmillenson/2021/06/27/medical-ai-confronts-pesky-problem-people/",
-      "originalUrl": "https://www.forbes.com/sites/michaelmillenson/2021/06/27/medical-ai-confronts-pesky-problem-people/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d7a592de975428d6de383c%2F0x0.jpg",
-          "width": 1200,
-          "height": 861,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/michaelmillenson/2021/06/27/medical-ai-confronts-pesky-problem-people/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelmillenson/2021/06/27/medical-ai-confronts-pesky-problem-people/amp/",
-      "publishedDateTime": "2021-06-27T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-27-security-robots-expand-across-us-with-few-tangible-results.md",
-      "title": "Security Robots Expand Across US, With Few Tangible Results",
-      "excerpt": "A prominent security robot company has cited little public evidence or specific, detailed examples of crimes that have been thwarted by its machines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnewyork.com/news/national-international/security-robots-expand-across-few-tangible-results/3127219/",
-      "originalUrl": "https://www.nbcnewyork.com/news/national-international/security-robots-expand-across-few-tangible-results/3127219/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nbcnewyork.com/2021/06/062721-GettyImages-688223544.jpeg?quality=85&strip=all&crop=0px%2C181px%2C3200px%2C1800px&resize=1200%2C675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnewyork.com/news/national-international/security-robots-expand-across-few-tangible-results/3127219/?amp",
-      "cdnAmpWebUrl": "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/security-robots-expand-across-few-tangible-results/3127219/?amp",
-      "publishedDateTime": "2021-06-27T04:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC New York",
-        "domain": "nbcnewyork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-06-27-deepmind-agi-paper-adds-urgency-to-ethical-ai.md",
-      "title": "DeepMind AGI paper adds urgency to ethical AI",
-      "excerpt": "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/deepmind-agi-paper-adds-urgency-to-ethical-ai-10278063",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/deepmind-agi-paper-adds-urgency-to-ethical-ai-10278063",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-27T02:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-27-pytorch-gains-momentum-with-push-from-facebook-and-microsoft.md",
-      "title": "PyTorch Gains Momentum With Push From Facebook And Microsoft",
-      "excerpt": "Thanks to Facebook and Microsoft, PyTorch is on its way to becoming the preferred framework for building sophisticated AI models for the cloud, desktop and mobile.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2021/06/27/pytorch-gains-momentum-with-push-from-facebook-and-microsoft/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2021/06/27/pytorch-gains-momentum-with-push-from-facebook-and-microsoft/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d815da0c030140b46c2abd%2F0x0.jpg",
-          "width": 1000,
-          "height": 525,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2021/06/27/pytorch-gains-momentum-with-push-from-facebook-and-microsoft/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/06/27/pytorch-gains-momentum-with-push-from-facebook-and-microsoft/amp/",
-      "publishedDateTime": "2021-06-26T23:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-27-alat-by-wema-charting-roadmap-for-digital-banks-fintech.md",
-      "title": "ALAT by Wema: Charting roadmap for digital banks, fintech",
-      "excerpt": "However, what young people have today that we didn’t have before is the abundance of choice fueled by the rapid penetration of the Internet and digital technology. These two factors have introduced new dimensions to how we do business and make money.",
-      "sourceUrl": null,
-      "webUrl": "https://punchng.com/alat-by-wema-charting-roadmap-for-digital-banks-fintech/",
-      "originalUrl": "https://punchng.com/alat-by-wema-charting-roadmap-for-digital-banks-fintech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.punchng.com/wp-content/uploads/2018/09/14183622/20180707-DSC_0079new.jpg",
-          "width": 800,
-          "height": 482,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://punchng.com/alat-by-wema-charting-roadmap-for-digital-banks-fintech/?amp",
-      "cdnAmpWebUrl": "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/alat-by-wema-charting-roadmap-for-digital-banks-fintech/?amp",
-      "publishedDateTime": "2021-06-26T17:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Punch Newspapers",
-        "domain": "punchng.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

@@ -84,6 +84,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Study: Indiana manufacturers ready to learn, implement data and artificial intelligence"
+    excerpt: "A quarter of Indiana’s economic output is based in manufacturing, and the transition to becoming data-driven and using artificial intelligence holds the possibility for broad economic impact among manufacturers,"
+    publishedDateTime: 2021-08-26T19:50:00Z
+    webUrl: "https://www.purdue.edu/newsroom/releases/2021/Q3/study-indiana-manufacturers-ready-to-learn,-implement-data-and-artificial-intelligence.html"
+    type: article
+    provider:
+      name: Purdue University
+      domain: purdue.edu
+    quality: 29
+    images:
+      - url: "https://www.purdue.edu/uns/images/2021/data-aiOG.jpg"
+        width: 800
+        height: 400
+        isCached: true
 
 secured: "d91btdZALa1o0g9fhkeIeBFpgWCFQmDejRuC31D5fcE7BC9scWntau4OobcJb0/m6+4uUbfdKaKk6zUEkIGaNdF6kNsTlQUIDQTxun3orXVAYk0lgrqrbuFgrR/3+msz/D/BGkLTkGbE4XfJ6R9ySubbGbquTgL5605ZoCLcxa0XE9fSPuAjKofJOUeY02LZP0fniWYFw7z2koVNwDE22X8ZUVbVsKDeX7oyZ7m71wxBGO3vgK+7/b+yKL5rmRtk2+pP876Idspc8u0Zu7+W0O516q6us3kDGUJ8Uj+iHWpzax9pUVvHjd4jALuVf4CuJmy5leTY+lHMruRL0D6xu2vXOgeK2A4L94csLV7scKU=;0Z+LYVpR9gHCA1XcYmj99g=="
 ---

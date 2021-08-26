@@ -1,28 +1,22 @@
 ---
 category: news
-title: "Speech and Voice Recognition Market worth $22.0 billion by 2026 - Exclusive Report by MarketsandMarkets™"
-excerpt: "According to the new market research report \"Speech and Voice Recognition Market with COVID-19 Impact Analysis by Delivery Method,"
-publishedDateTime: 2021-08-26T13:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/speech-and-voice-recognition-market-worth-22-0-billion-by-2026--exclusive-report-by-marketsandmarkets-301363483.html"
-webUrl: "https://www.prnewswire.com/news-releases/speech-and-voice-recognition-market-worth-22-0-billion-by-2026--exclusive-report-by-marketsandmarkets-301363483.html"
+title: "Speech and Voice Recognition Market worth $22.0 billion by 2026 - Exclusive Report by MarketsandMarkets"
+excerpt: "According to the new market research report \"Speech and Voice Recognition Market with COVID-19 Impact Analysis by Delivery Method, Deployment Mode (On"
+publishedDateTime: 2021-08-26T15:40:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2021-08/53783702-speech-and-voice-recognition-market-worth-dollar-22-0-billion-by-2026-exclusive-report-by-marketsandmarkets-008.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2021-08/53783702-speech-and-voice-recognition-market-worth-dollar-22-0-billion-by-2026-exclusive-report-by-marketsandmarkets-008.htm"
 type: article
-quality: 7
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
-    width: 666
-    height: 350
-    isCached: true
 
 related:
   - title: "Get Entire Details about Artificial Intelligence System Market By 2025"
@@ -98,6 +92,6 @@ related:
         height: 339
         isCached: true
 
-secured: "8HLBCtUn81t6kFIVSTL9BRBNHVGoUTi1JvWm0PVGqPZutUk+V63SMkkZCBEpckBoaOXvdS11t9lzJI36LIclIf8U7IQXvm2V1+IvjfLVZQ+mAoi67iBCeyNu9pu5nzBOJstZCK6dZS6yz3a0PA9Jfp6JydfXL7vQrrPTpLulG6OaetjOthVqSbY4122VOhMZ5uMSGwyFXy+w5P3Te4w//ldKinP1H3TIxDDkrAuMQsB1ZsBmqYkOXhuIn8hsE8Ag3LtHf/1M5/Vuc54/d7+89b1i6xl5hsNLvmtBwkYnrg2yA018FUbJgKQlr9Rj5VNvW64HhYFabORwZh1q4EC2R/8uyeqTGn2EdG5TAj80JN4=;Qj0jZGxo2dSABOv2B83Z6A=="
+secured: "oKJSZVwwrFeqoC17HnTm8MQ4WbqiSoTTqQpjdYGzKNn+SbmnL4RkpsJxnIOSfxWvEADaeXfIi6O0ZjQ2S2+u8j8KnJkDKnnpr+mw8FWFy2HlVK0yFi4h7pv4r2Kxw/+v9cfHLrOvLO05O4pKNqb1xIzRRLkuA8lQUoiJc5NevsU8D71fe/Shx1yY6cCzJ8IMMJdzZTcBFbu6DSVr0GjEK1B6K7zGPbQiYLBF0xBB+wiC29ucsuhmB7oHqDIbax6mfDH0YE4iXTv/kGu87AXW7MOCFyHA2M80xWHhh5wI9NjCE8k6duwxLuCwDXhppspASZCpO9VPv8jDSRETZnhKyxO4WpXPy83YwWz9AizGrWQ=;MpqVgACRZwnHcSPa0DY3Dw=="
 ---
 

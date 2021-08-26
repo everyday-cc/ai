@@ -1,24 +1,28 @@
 ---
 category: news
 title: "AI-Powered Video Analytics Make Cities More Livable"
-excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
-publishedDateTime: 2021-08-23T21:00:00Z
-originalUrl: "https://www.computerworld.com/resources/223285/ai-powered-video-analytics-make-cities-more-livable"
-webUrl: "https://www.computerworld.com/resources/223285/ai-powered-video-analytics-make-cities-more-livable"
+excerpt: "Find out how AI-based video analytics are changing everything, and the importance of high accuracy in an AI-based vision system like Uncanny Vision."
+publishedDateTime: 2021-08-24T16:30:00Z
+originalUrl: "https://www.infoworld.com/resources/223285/ai-powered-video-analytics-make-cities-more-livable"
+webUrl: "https://www.infoworld.com/resources/223285/ai-powered-video-analytics-make-cities-more-livable"
 type: article
-quality: 37
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: Computerworld
-  domain: computerworld.com
+  name: InfoWorld
+  domain: infoworld.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+  - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
     width: 300
     height: 300
     isCached: true
@@ -201,6 +205,6 @@ related:
         height: 271
         isCached: true
 
-secured: "lV/b/5R2vHkUjIu0mmlifS2UQe/i1u9tlD87L+HKV4/PVTS9KJXL/9pRn+hdy3siHKwbaYQq6OBlmyzPSalwhGd/j2/kpVIYsCZLMxAl9vfIWcruo7xP6W6zDGIUEA3EdtaStxl8SFlTsZTrFM5x9O2NvuokCDnnNaRmIS/iFxKtvUYIYV5DwJqr80KUMHGinw383FsgpOIHagwVqTfsqNz2Dumg2PNcQESBlhJAucOw1W/2IdKVhaGp8UWNpUhEyk/b6F4Q51959wLJj0dP0JjY2Tv/l/q1OdipX3Ede1JtPftzoP1mE7cNrgDiF/s4IZFEYZyT3LrN9cLIB9dZAqgFzzgBupLtE4JrimOmRyw=;1Yuh+5YyH7+NAKhd8WNBCg=="
+secured: "VhR1fVi5jEUEbrfN93EVfTYFpopYkUItUPAj/1iFlU/XkeApBG/SfMm0wPAxDyea7OlemNzX8slfCQ6YNz3jxjtbVAZBeg5aO72jKkAcCIaLFjF0lPM8xOCfJdSeB+LLQ/GxWHX+7eXGVGbUWYWvP9GbK0XFxgoKltLYSrAW7NplRXQIe0LpZnz4Jcj9RXQ5bUpkmWCsKysxmY4vkXuKYNdPEAXOZ9Qw3hO01WEHqdMW/y719anDAZBe6Bsn/QHVVLgjRZRzKkL7kJcl6BhqlkZ1kSHTL1D+D0ADrVgXv/7y028ADyWoy4uZTsxu6VJXPfWi5Y26GJ/ILctYo+H6qCxghXv+acyp8GJk7OlCwII=;adB41ZFlTIjlVlAar2HvIQ=="
 ---
 

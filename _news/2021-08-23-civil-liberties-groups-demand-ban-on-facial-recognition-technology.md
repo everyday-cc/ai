@@ -83,6 +83,20 @@ related:
         width: 789
         height: 444
         isCached: true
+  - title: "Facial Recognition Tech Use Increasing Among Federal Agencies"
+    excerpt: "Use cases included criminal investigations, building security and access to digital assets like smartphones and security agency websites."
+    publishedDateTime: 2021-08-26T19:00:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2021/08/facial-recognition-tech-use-increasing-among-federal-agencies/184884/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 39
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2021/08/26/authentication_by_facial_recognition_biometric_security_system_picture_id1216416251/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "DoD, DHS vet facial recognition tools for reliability in effort to build trust"
     excerpt: "But first, both agencies are taking steps to vet the security and reliability of the facial recognition tools they’re using, in order to build public trust in these tools and address concerns from Congress."
     publishedDateTime: 2021-08-25T14:28:00Z

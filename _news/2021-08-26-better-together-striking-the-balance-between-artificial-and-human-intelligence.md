@@ -8,9 +8,9 @@ webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/08/26/bet
 ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/08/26/better-together-striking-the-balance-between-artificial-and-human-intelligence/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/08/26/better-together-striking-the-balance-between-artificial-and-human-intelligence/amp/"
 type: article
-quality: 68
-heat: 68
-published: false
+quality: 70
+heat: 70
+published: true
 
 provider:
   name: Forbes
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6049320a6efcb28d45029f3c%2F0x0.jpg"
@@ -29,6 +30,6 @@ images:
     height: 900
     isCached: true
 
-secured: "L7/ID2nWNd2RON5MKtFDahvDHP9p5pCXgqsZ4b5BBExnh4onAcOgIPGLlhNunhTM3862c4dWqRbgRFw+J+63X2MNPQSpl3ZxOcVbTXsAmu/PzoKS7lUZhAWJODB6xQ3basPR+teV6TFTT1QTYFjytYEMO6TFCHGk//QvQEzBCJ6Q5cD6Sf90T6nBzOaVfEVVNYnIu0UX7xDoguB6cLzqW2fyZAHXXoJdQBZJpeG98hacvLjblYlq8CJ5RXeCdf6jeRZVdpekowAuhcT5blsPuEabiWfznr4lDCy9yKsTeVajKeZfrClYlkpMdS2afBYBclQBwmKNfCo1e4D9J/ujIeaFlBB8l3E3q85zshe6W1A=;K1iazNMOrTAw2bh8DGxa0Q=="
+secured: "cp7GkhbyaGRx9pslldytxcAdh4KJSzOVZbpX4VEuvgKQEYkWDwYGn2fO4Tz3g6axET6+ddZoaBeDVMli0msXvdaWPo0rcVfe4S4vLpkpngVk7S2mBcr1gMEHQ1HW5gCqYOQNPF9xh89PGLULoQDOkYSWLun46Ei2PRHDXUpyS3M3W9Z1Rar/T9/0LpFJgQgIwuPPetGho0OTkSe9v0cHmoZqWiTq4831ggjCEosC+g+bhW04gQ0FE9+HfqAVkqKALMxwof2FrF8lbhLZqXuwhxDWp9mo0ipIVoUY873qy2AqkS3qgOgZtVrlWeGIdCA8fGH/iRUWaDSeeP9HxaIaSWavuRW1FWOn6Fxduf+Yw+8jC1x5yQHQGsuxWK/VsYNxj2EaZgIL9NLbWtdvmadqe2bNKRPejVMBlZcoezYKJJ5M9pX5K0vfiIVCSnIKjAzQ9o7PXyYdns6GEF+yFa0csoyF2hE9G309QKW55PiLKVAQsAUKVloqA0mRwzzmUISkHxbl7ekvG522akUsOXKH/Q==;n8uxUN5PJ9dV0ulpT9X7HQ=="
 ---
 

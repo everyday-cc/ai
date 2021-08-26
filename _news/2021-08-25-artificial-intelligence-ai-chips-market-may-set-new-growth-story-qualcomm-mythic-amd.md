@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2366189/artificial-intelligence-ai-chips-
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2366189/artificial-intelligence-ai-chips-market-may-set-new-growth"
 type: article
 quality: 79
-heat: 91
+heat: 89
 published: true
 
 provider:

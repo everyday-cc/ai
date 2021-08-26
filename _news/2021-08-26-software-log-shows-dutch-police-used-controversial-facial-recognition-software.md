@@ -132,19 +132,16 @@ related:
         height: 800
         isCached: true
   - title: "Federal government to expand use of facial recognition despite growing concerns"
-    excerpt: "Ten federal agencies — the departments of Agriculture, Commerce, Defense, Homeland Security, Health and Human Services, Interior, Justice, State, Treasury, and Veterans Affairs — told the Government Accountability Office that they intend to grow their facial recognition capabilities by 2023,"
-    publishedDateTime: 2021-08-25T21:55:00Z
-    webUrl: "https://www.stripes.com/theaters/us/2021-08-25/federal-government-expand-use-facial-recognition-gao-report-2664035.html"
+    excerpt: "The GAO said several federal agencies, including the Justice Department, the Air Force and Immigration and Customs Enforcement, reported that they had used facial recognition software from Clearview AI,"
+    publishedDateTime: 2021-08-26T06:52:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/federal-government-to-expand-use-of-facial-recognition-despite-growing-concerns/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/federal-government-to-expand-use-of-facial-recognition-despite-growing-concerns/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/federal-government-to-expand-use-of-facial-recognition-despite-growing-concerns/?amp=1"
     type: article
     provider:
-      name: Stars and Stripes
-      domain: stripes.com
+      name: Seattle Times
+      domain: seattletimes.com
     quality: 35
-    images:
-      - url: "https://www.stripes.com/theaters/us/1gaagz-Capitol-Police-officers-stand-at-an-entry-point-th/alternates/LANDSCAPE_480/Capitol%20Police%20officers%20stand%20at%20an%20entry%20point%20th"
-        width: 480
-        height: 299
-        isCached: true
 
 secured: "O65653wjXXyT39c1ZaJNrnZhk6MDvG8cvSlk4R3036PxzleCozGyOlQgXioQdtSbwG4kCexklHzBooWhD7NfOCF/qbNBHHDxtVjJSia3I751oK9aVa/RnzUR8gZP6tEZXWNU9yYX9cegj0CBWcwf6EgZe+zVUca3yaWrV4piLJ5ldr2AEX5PpOWCqIez6OOFRQe3oLd7AU6zG3DaFTQE7FfLEoUBRCvkXOCBqFwkENEsCacH6Kou2nQwVTSmc/WfbWPHhm5E1SphfD671KOPZUcV4rNoN5KSqbGOjfb23o+FmpQrSrdTRxUXT7Qmebs7DONYnwDl5mMHwEz9WFlwv15SPWjLdKx77kQlhOYRyns=;i+gCwCQILTSVhIU8AquiOA=="
 ---

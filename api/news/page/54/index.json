@@ -2,6 +2,302 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2021-07-19-building-mlgui-user-interfaces-for-machine-learning-applications.md",
+      "title": "Building MLGUI, user interfaces for machine learning applications",
+      "excerpt": "In this interview, KPMG's Philip Vollet talks about why building user interfaces is necessary to unlock AI's true potential.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/19/building-mlgui-user-interfaces-for-machine-learning-applications/",
+      "originalUrl": "https://venturebeat.com/2021/07/19/building-mlgui-user-interfaces-for-machine-learning-applications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/kelly-sikkema-gcHFXsdcmJE-unsplash.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/19/building-mlgui-user-interfaces-for-machine-learning-applications/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/19/building-mlgui-user-interfaces-for-machine-learning-applications/amp/",
+      "publishedDateTime": "2021-07-19T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-07-19-machine-learning-in-finance-market-2021-rising-future-estimations-and-key-countries-by-2031.md",
+      "title": "Machine Learning In Finance Market 2021 Rising Future Estimations and Key Countries by 2031",
+      "excerpt": "Market.us has to return up with a brand new report specifically Global Machine Learning in Finance Market standing and Outlook (2022-2031) that focuses on current trade updates, providing exclusive and analytical information through the span of 10 years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-in-finance-market-2021-rising-future-estimations-and-key-countries-by-2031-2021-07-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-finance-market-2021-rising-future-estimations-and-key-countries-by-2031-2021-07-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-19T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-07-19-scaling-ai-and-data-science-10-smart-ways-to-move-from-pilot-to-production.md",
+      "title": "Scaling AI and data science – 10 smart ways to move from pilot to production",
+      "excerpt": "Taking steps that help overcome bottlenecks in data and data scientists is key to extracting value from AI investments.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/19/scaling-ai-and-data-science-10-smart-ways-to-move-from-pilot-to-production/",
+      "originalUrl": "https://venturebeat.com/2021/07/19/scaling-ai-and-data-science-10-smart-ways-to-move-from-pilot-to-production/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/Picture1.jpg?w=1200&strip=all",
+          "width": 936,
+          "height": 526,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/19/scaling-ai-and-data-science-10-smart-ways-to-move-from-pilot-to-production/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/19/scaling-ai-and-data-science-10-smart-ways-to-move-from-pilot-to-production/amp/",
+      "publishedDateTime": "2021-07-19T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-19-research-breakthrough-artificial-intelligence-ai-can-now-use-its-imagination.md",
+      "title": "Research Breakthrough: Artificial Intelligence (AI) Can Now Use Its Imagination",
+      "excerpt": "Researchers at the University of Southern California (USC)  are helping the use of Artificial Intelligence (AI) imagine what has not",
+      "sourceUrl": null,
+      "webUrl": "https://techbooky.com/ai-that-can-imagine/",
+      "originalUrl": "https://techbooky.com/ai-that-can-imagine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbooky.com/wp-content/uploads/2021/07/444090C5-86E3-4A93-9928-5383E9896D53.jpeg",
+          "width": 1028,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbooky.com/ai-that-can-imagine/?amp=1",
+      "cdnAmpWebUrl": "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/ai-that-can-imagine/?amp=1",
+      "publishedDateTime": "2021-07-19T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techbooky.com",
+        "domain": "techbooky.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-19-as-ai-becomes-more-ever-capable-will-it-end-up-helping-or-hindering-the-hackers.md",
+      "title": "As AI Becomes More Ever Capable, Will It End Up Helping, Or Hindering, The Hackers?",
+      "excerpt": "Unfortunately, there are innumerable bugs in today’s software systems, many of which are ‘zero-day exploits’ i.e. bugs that can be used by hackers but are not yet known by the software’s users or vendors,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/edstacey/2021/07/19/as-ai-becomes-more-ever-capable-will-it-end-up-helping-or-hindering-the-hackers/",
+      "originalUrl": "https://www.forbes.com/sites/edstacey/2021/07/19/as-ai-becomes-more-ever-capable-will-it-end-up-helping-or-hindering-the-hackers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f5624a3c3314c08a092d1a%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1920%26cropY1%3D97%26cropY2%3D1177",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/edstacey/2021/07/19/as-ai-becomes-more-ever-capable-will-it-end-up-helping-or-hindering-the-hackers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edstacey/2021/07/19/as-ai-becomes-more-ever-capable-will-it-end-up-helping-or-hindering-the-hackers/amp/",
+      "publishedDateTime": "2021-07-19T03:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-19-aws-computer-vision-getting-started-with-gluoncv.md",
+      "title": "AWS Computer Vision: Getting Started with GluonCV",
+      "excerpt": "This course covers AWS services and frameworks including Amazon Rekognition, Amazon SageMaker, Amazon SageMaker GroundTruth, and Amazon SageMaker Neo, AWS Deep Learning AMIs via Amazon EC2 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/education/skillbuilder/aws-computer-vision:-getting-started-with-gluoncv-0_YQnnzljYEemyFQpXjI_3ng",
+      "originalUrl": "https://www.usnews.com/education/skillbuilder/aws-computer-vision:-getting-started-with-gluoncv-0_YQnnzljYEemyFQpXjI_3ng",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-19T03:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-07-19-aws-developer-building-on-aws.md",
       "title": "AWS Developer: Building on AWS",
       "excerpt": "You will use Amazon Rekognition to analyze images and video. Collected data will be managed using the Amazon Relational Database Service (RDS). You will refactor your application along the way ...",
@@ -888,300 +1184,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-mimecasts-new-ai-tools-protect-against-the-sneakiest-phishing-attacks.md",
-      "title": "Mimecast’s new AI tools protect against the sneakiest phishing attacks",
-      "excerpt": "Mimecast launched Mimecast CyberGraph this week, which uses machine learning to detect and prevent cyber attacks over email.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/18/mimecasts-new-ai-tools-protect-against-the-sneakiest-phishing-attacks/",
-      "originalUrl": "https://venturebeat.com/2021/07/18/mimecasts-new-ai-tools-protect-against-the-sneakiest-phishing-attacks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1164097820-e1626476204378.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/18/mimecasts-new-ai-tools-protect-against-the-sneakiest-phishing-attacks/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/18/mimecasts-new-ai-tools-protect-against-the-sneakiest-phishing-attacks/amp/",
-      "publishedDateTime": "2021-07-18T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-18-why-90-of-machine-learning-models-never-hit-the-market.md",
-      "title": "Why 90% of machine learning models never hit the market",
-      "excerpt": "Most companies lack leadership support, effective communication between teams, and accessible data necessary to build great machine learning models.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/why-most-machine-learning-models-never-hit-market-syndication",
-      "originalUrl": "https://thenextweb.com/news/why-most-machine-learning-models-never-hit-market-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image?fit=1280%2C720&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2Fbroken-2591910_1920-broken-computer-machine-learning-failure.jpg&signature=4f88f4e52f4b88f3b883a3a699df254e",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-18T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-18-why-machine-programming-should-be-the-next-technology-you-invest-in.md",
-      "title": "Why machine programming should be the next technology you invest in",
-      "excerpt": "Watch now. An emerging breed of tools are using machine learning and other methods to automate parts of the software development process. GitHub, for example, launched such a tool last month that ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/18/why-machine-programming-should-be-the-next-technology-you-invest-in/",
-      "originalUrl": "https://venturebeat.com/2021/07/18/why-machine-programming-should-be-the-next-technology-you-invest-in/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/GettyImages-505117919.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/18/why-machine-programming-should-be-the-next-technology-you-invest-in/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/18/why-machine-programming-should-be-the-next-technology-you-invest-in/amp/",
-      "publishedDateTime": "2021-07-18T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-18-snowflake-stock-even-as-covid-eases-cloud-computing-and-aws-keep-flying-high.md",
-      "title": "Snowflake Stock – Even as COVID eases, cloud computing and AWS keep flying high",
-      "excerpt": "Snowflake Inc. provides cloud-based data platform in the United States and internationally. The company's platform enables customers to consolidate data into a",
-      "sourceUrl": null,
-      "webUrl": "https://fintechzoom.com/fintech_news_nyse-snow/snowflake-stock-even-as-covid-eases-cloud-computing-and-aws-keep-flying-high/",
-      "originalUrl": "https://fintechzoom.com/fintech_news_nyse-snow/snowflake-stock-even-as-covid-eases-cloud-computing-and-aws-keep-flying-high/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fintechzoom.com/wp-content/uploads/2021/07/superman-cloud-1-1024x680-1.jpeg",
-          "width": 1019,
-          "height": 581,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-18T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fintechzoom",
-        "domain": "fintechzoom.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-18-natural-language-understanding-tough-for-neural-networks.md",
-      "title": "Natural language understanding tough for neural networks",
-      "excerpt": "The shortcomings of natural language understanding can make or break your AI and neural machine learning strategy. Here's how to deal.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/18/natural-language-understanding-tough-for-neural-networks/",
-      "originalUrl": "https://venturebeat.com/2021/07/18/natural-language-understanding-tough-for-neural-networks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/nlp.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/18/natural-language-understanding-tough-for-neural-networks/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/18/natural-language-understanding-tough-for-neural-networks/amp/",
-      "publishedDateTime": "2021-07-18T03:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-18-self-driving-startup-aurora-to-go-public-raise-2-billion-through-spac-merger.md",
-      "title": "Self-Driving Startup Aurora To Go Public, Raise $2 Billion Through SPAC Merger",
-      "excerpt": "Aurora’s deal with Reinvent Technology Partners Y is expected to value the company at $11 billion and should close in the second half of 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://www.carscoops.com/2021/07/self-driving-startup-aurora-to-go-public-raise-2-billion-through-spac-merger/",
-      "originalUrl": "https://www.carscoops.com/2021/07/self-driving-startup-aurora-to-go-public-raise-2-billion-through-spac-merger/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.carscoops.com/wp-content/uploads/2021/02/Toyota-Aurora-Denso-a-1024x555.jpg",
-          "width": 1024,
-          "height": 555,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.carscoops.com/2021/07/self-driving-startup-aurora-to-go-public-raise-2-billion-through-spac-merger/amp/",
-      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/07/self-driving-startup-aurora-to-go-public-raise-2-billion-through-spac-merger/amp/",
-      "publishedDateTime": "2021-07-18T00:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Carscoops",
-        "domain": "carscoops.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

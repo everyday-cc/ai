@@ -194,7 +194,7 @@
       "originalUrl": "https://www.openpr.com/news/2366189/artificial-intelligence-ai-chips-market-may-set-new-growth",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -417,6 +417,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-esperanto-delivers-massive-ai-processing-with-less-than-20w-for-data-center-inference-workloads.md",
+      "title": "Esperanto Delivers Massive AI Processing With Less Than 20W For Data Center Inference Workloads",
+      "excerpt": "The 7nm ET-SoC-1 features 1,088 64-bit in-order cores with vector units referred to as ET-Minions and four high-performance 64-bit out-of-order RISC-V cores referred to as ET-Maxions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2021/08/24/esperanto-delivers-massive-ai-processing-with-less-than-20w-for-data-center-inference-workloads/",
+      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2021/08/24/esperanto-delivers-massive-ai-processing-with-less-than-20w-for-data-center-inference-workloads/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6125286faeafbcc6b6801db8%2F0x0.jpg",
+          "width": 435,
+          "height": 353,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-24T10:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1393,58 +1445,6 @@
         "name": "FedScoop",
         "domain": "fedscoop.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-18-edgeq-samples-soc-for-5g-and-ai-inference-engines.md",
-      "title": "EdgeQ samples SoC for 5G and AI inference engines",
-      "excerpt": "EdgeQ is sampling a system-on-chip for 5G networks that reduces costs by running AI inference engines at the edge.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/18/edgeq-samples-soc-for-5g-and-ai-inference-engines/",
-      "originalUrl": "https://venturebeat.com/2021/08/18/edgeq-samples-soc-for-5g-and-ai-inference-engines/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/EdgeQ.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/18/edgeq-samples-soc-for-5g-and-ai-inference-engines/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/18/edgeq-samples-soc-for-5g-and-ai-inference-engines/amp/",
-      "publishedDateTime": "2021-08-18T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

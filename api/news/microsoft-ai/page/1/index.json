@@ -472,49 +472,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-17-avaya-and-microsoft-announce-integration-of-microsoft-azure-communication-services-with-avaya-onecloud-cpaas.md",
-      "title": "Avaya and Microsoft Announce Integration of Microsoft Azure Communication Services with Avaya OneCloud CPaaS",
-      "excerpt": "Avaya announced a strategic relationship with Microsoft to create a powerful set of joint cloud communications solutions to define the future of customer and em",
-      "sourceUrl": null,
-      "webUrl": "https://technuter.com/breaking-news/avaya-and-microsoft-announce-integration-of-microsoft-azure-communication-services-with-avaya-onecloud-cpaas.html",
-      "originalUrl": "https://technuter.com/breaking-news/avaya-and-microsoft-announce-integration-of-microsoft-azure-communication-services-with-avaya-onecloud-cpaas.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://technuter.com/wp-content/uploads/2020/04/Avaya.jpg",
-          "width": 340,
-          "height": 296,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-17T08:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technuter.com",
-        "domain": "technuter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-17-this-app-urges-gen-z-to-talk-it-out-privately-not-overshare-on-social-media.md",
       "title": "This App Urges Gen Z to Talk It Out Privately, Not Overshare on Social Media",
       "excerpt": "Mental health apps abound, but with evrmore, the idea is to receive support from the app's cocktail of AI, machine learning, and natural language processing rather than the dopamine drip of social media validation.",
@@ -651,6 +608,40 @@
         "Microsoft AI",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-avaya-and-microsoft-announce-integration-of-microsoft-azure-communication-services-with-avaya-onecloud-cpaas.md",
+      "title": "Avaya and Microsoft Announce Integration of Microsoft Azure Communication Services with Avaya OneCloud CPaaS",
+      "excerpt": "Benefiting from the complementary strengths of both companies, the joint solutions include Avaya’s award-winning 1 Avaya OneCloud CPaaS (Communications Platform as a Service) now integrated with voice,",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/avaya-and-microsoft-announce-integration-of-microsoft-azure-communication-services-with-avaya-onecloud-cpaas/",
+      "originalUrl": "https://www.financialbuzz.com/avaya-and-microsoft-announce-integration-of-microsoft-azure-communication-services-with-avaya-onecloud-cpaas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-17T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -940,6 +931,49 @@
         "Microsoft AI",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-08-16-cognitive-solution-market-is-booming-worldwide-with-microsoft-cisco-amazon-ibm.md",
+      "title": "Cognitive Solution Market is Booming Worldwide with Microsoft, Cisco, Amazon, IBM",
+      "excerpt": "and the changing investment structure of the Worldwide Cognitive Solution Market. Some of the key players profiled in the study are Microsoft, Cisco, Amazon.com, IBM & HPE. Get free access to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/cognitive-solution-market-is-booming-worldwide-with-microsoft-cisco-amazon-ibm",
+      "originalUrl": "https://www.digitaljournal.com/pr/cognitive-solution-market-is-booming-worldwide-with-microsoft-cisco-amazon-ibm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/08/War-on-Terror-America-AFP1K-06-e1629952460917-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-16T07:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1302,41 +1336,6 @@
       "provider": {
         "name": "SharePoint",
         "domain": "sharepointeurope.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-machine-learning-solution-architect.md",
-      "title": "Machine Learning Solution Architect",
-      "excerpt": "We are looking for a Machine Learning Solution Architect with expertise in automated machine learning solutions and experience with various MLOps systems, and main ML platforms including Amazon AWS, Azure Machine Learning and GCP. The aim is to first ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.upwork.com/freelance-jobs/apply/Machine-Learning-Solution-Architect_~01cd0ee73f96e64bc3/",
-      "originalUrl": "https://www.upwork.com/freelance-jobs/apply/Machine-Learning-Solution-Architect_~01cd0ee73f96e64bc3/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-10T13:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Upwork",
-        "domain": "upwork.com",
         "images": null,
         "publishers": null,
         "authors": null

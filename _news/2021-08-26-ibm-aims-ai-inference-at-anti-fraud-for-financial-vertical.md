@@ -6,8 +6,8 @@ publishedDateTime: 2021-08-26T16:52:00Z
 originalUrl: "https://www.fierceelectronics.com/electronics/ibm-aims-ai-inference-at-anti-fraud-financial-vertical"
 webUrl: "https://www.fierceelectronics.com/electronics/ibm-aims-ai-inference-at-anti-fraud-financial-vertical"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://qtxasset.com/fierceelectronics/1629997179/IBM%20Telum%20Processor_2.jpg?aPIomlo33uke.19hcfWJcF9cC5kl02wF"
@@ -24,6 +25,6 @@ images:
     height: 1667
     isCached: true
 
-secured: "os2AEPsOSoEe/DneqGly6SCODCGVtiAR1TCISa/jEpTh70EEebd3HTwxjX/y3++n1CH98IJhDKCJXKbk3qFvzP23s99U0p2Mh2hBAdPIoHGsMYQrQmohrpRXlhgI/j86b7yMFxsroMPEF85tvbYbLl9PS+lhYv/3AlJfEQc/fp9+SJ2u7u+7KiG41+rJAAowhibxJqYb5sCbiXg9kIHoSLE7g3s99rCEhacjlmqYN+kf5a82IK2ow//H0xA81qRYlxHw0TapDkatiB6OcoHQmvmQjmCR3RyFBnhJmFUDxEWKoVfyy0VPWh1t0XNkrpNCO0a0SeZObPJB5halAgsgIm2b+ERnoCeySeNUuhQ2DEY=;0QSl9SkOWownhIjUsJ/hbg=="
+secured: "phxQgsJIADHLbwpi5BrXhMj6XsDoCEsrvDSXr+vihWcLs4DWyflH+qaNEF1w3OqR4fR2r8mMU0vrzP5ld2cl4n/+1OGGNlSpACi8bvU90KBH6fLWbdulJLQtimlce0X1dlNSKm6lJDdG0ZoIg+raNS+aXRT7PO3Kl+IK5RSvukRBZJG4E/Itco4558R2HtodSKD6ukDF8ysi14Z4wWkUZlJ0CJuM/1D8gFxwsh/ll3G4rE3fhczNBJs2v2rrAXPEE6MJGpg+2P0CoTqvv2MFMVOcTHV+YkTszXykXuqyjr2ZhBLzks+MMZwgPn3nfgX2i1qJGlY8rXsgTGEHltf3H8FTwWxWnNsEWFiP+0oUBiRN7VTzhbj0juzxF0K+F1KU8Gdyq2np5fVnnbZILbLO7xEjmypdNTrMHwSys70vXBJqDSSXboFyW0eAl+jxNOFet2zUQtqMy051JDm0wsSj1DQY/gImH20ekCLTXXCqNRecLE9aCUrABZOGbfxS2mQd2hWbu2CYHls+hYHlxYN7Cg==;EfZK/nnRyaWgwQCo8b1zPQ=="
 ---
 

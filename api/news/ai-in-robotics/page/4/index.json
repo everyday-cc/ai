@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-04-mexican-artificial-intelligence-startups-with-a-global-profile.md",
+      "title": "Mexican Artificial Intelligence startups with a global profile",
+      "excerpt": "Kueski, Intellion, Kuona Analytics, Pro Indie Music, BrandMe, Homie, Bayonet, and SoldAI are transforming the way we work with Big Data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/379314",
+      "originalUrl": "https://www.entrepreneur.com/article/379314",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1628027484-startups.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/379314",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/379314",
+      "publishedDateTime": "2021-08-04T02:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-08-04-underwater-robot-laying-cables-crossed-the-rotterdam-maasmond-to-connect-dutch-offshore-wind-farm.md",
       "title": "Underwater robot laying cables crossed the Rotterdam Maasmond to connect Dutch offshore wind farm",
       "excerpt": "TenneT is developing the Hollandse Kust (zuid) offshore grid for the connection of new wind farms. Four offshore cables will be buried in the North Sea bed. For the first ten kilometres of the offshore cable route,",
@@ -1290,58 +1342,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-enterprise-ai-development-platform-datarobot-raises-270m-acquires-algorithmia.md",
-      "title": "Enterprise AI development platform DataRobot raises $270M, acquires Algorithmia",
-      "excerpt": "DataRobot, an AI management and deployment platform aimed at the enterprise, has raised $270 million at a $6.3 billion post-money valuation.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/27/enterprise-ai-development-platform-datarobot-raises-270m-acquires-algorithmia/",
-      "originalUrl": "https://venturebeat.com/2021/07/27/enterprise-ai-development-platform-datarobot-raises-270m-acquires-algorithmia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/02/DataRobot-Boston-team--e1605298779900.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/27/enterprise-ai-development-platform-datarobot-raises-270m-acquires-algorithmia/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/27/enterprise-ai-development-platform-datarobot-raises-270m-acquires-algorithmia/amp/",
-      "publishedDateTime": "2021-07-27T06:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

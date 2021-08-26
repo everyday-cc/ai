@@ -41,6 +41,17 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "Deep Learning in Machine Vision Market Report Covers Future Trends With Research 2021-2027"
+    excerpt: "Deep learning technology is seeing many appealing advancements in several machine learning sectors, involving the reinforcement learning, natural language processing (NLP), ML frameworks (Pytorch and TensorFlow),"
+    publishedDateTime: 2021-08-26T16:32:00Z
+    webUrl: "https://www.globalbankingandfinance.com/deep-learning-in-machine-vision-market-report-covers-future-trends-with-research-2021-2027/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/deep-learning-in-machine-vision-market-report-covers-future-trends-with-research-2021-2027/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/deep-learning-in-machine-vision-market-report-covers-future-trends-with-research-2021-2027/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 31
   - title: "Global Cognitive Media Market to Reach $2.9 Billion by 2026"
     excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Cognitive Media - Global Market Trajectory & Analytics\". The report presents fresh perspectives"
     publishedDateTime: 2021-08-24T14:09:00Z
