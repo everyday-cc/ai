@@ -298,11 +298,11 @@
       "twitter": {
         "username": "KyleCranmer",
         "url": "https://twitter.com/KyleCranmer",
-        "followers": 11042
+        "followers": 11044
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=EZjSxgwAAAAJ",
-        "citations": 171368
+        "citations": 171653
       },
       "affiliation": {
         "path": "",
@@ -378,7 +378,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=DZ-fHPgAAAAJ",
-        "citations": 175654
+        "citations": 175690
       },
       "affiliation": {
         "path": "",
@@ -423,7 +423,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=u3u16tgAAAAJ",
-        "citations": 9120
+        "citations": 9128
       },
       "affiliation": {
         "path": "",
@@ -460,7 +460,7 @@
       "twitter": {
         "username": "noramayc",
         "url": "https://twitter.com/noramayc",
-        "followers": 17470
+        "followers": 17471
       },
       "topics": [
         "AI"
@@ -498,7 +498,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=KvPSD8EAAAAJ",
-        "citations": 267250
+        "citations": 267484
       },
       "affiliation": {
         "path": "",
@@ -539,7 +539,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=-hmxit8AAAAJ",
-        "citations": 43141
+        "citations": 43149
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Oren_Etzioni"
@@ -576,7 +576,7 @@
       "bio": "Andrew Zisserman FRS is a British computer scientist and a professor at the University of Oxford, and a researcher in computer vision. As of 2014 he is affiliated with DeepMind.",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=UZ5wscMAAAAJ",
-        "citations": 266866
+        "citations": 266864
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Andrew_Zisserman"
@@ -613,7 +613,7 @@
       "bio": "Michigan State University",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=g-_ZXGsAAAAJ",
-        "citations": 228321
+        "citations": 228325
       },
       "affiliation": {
         "path": "",
@@ -648,7 +648,7 @@
       "bio": "Professor of Computer Science, National Chiao Tung University",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=_0PCbyUAAAAJ",
-        "citations": 159803
+        "citations": 159898
       },
       "affiliation": {
         "path": "",
@@ -684,7 +684,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=910z20QAAAAJ",
-        "citations": 49342
+        "citations": 49343
       },
       "wikipedia": {
         "url": "http://en.wikipedia.org/wiki/Daniela_L._Rus"
@@ -817,7 +817,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=4mF2FgcAAAAJ",
-        "citations": 326253
+        "citations": 326478
       },
       "affiliation": {
         "path": "",
@@ -851,7 +851,7 @@
       "bio": "National Research University Higher School of Economics",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=vbLFLLEAAAAJ",
-        "citations": 145316
+        "citations": 145359
       },
       "affiliation": {
         "path": "",
@@ -965,7 +965,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=GTtW9H0AAAAJ",
-        "citations": 145112
+        "citations": 145212
       },
       "affiliation": {
         "path": "",
@@ -999,7 +999,7 @@
       "bio": "Professor of EECS, UC Berkeley. Jitendra is known for his research in computer vision.",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=oY9R5YQAAAAJ",
-        "citations": 213917
+        "citations": 213899
       },
       "affiliation": {
         "path": "",
@@ -1094,7 +1094,7 @@
       "bio": "PhD Physics, Stanford University",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=_EPCKe0AAAAJ",
-        "citations": 200368
+        "citations": 200515
       },
       "affiliation": {
         "path": "",
