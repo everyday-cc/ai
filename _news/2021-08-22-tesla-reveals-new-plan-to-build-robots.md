@@ -87,22 +87,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 84
-  - title: "James Douma Interviewed About Tesla Bot and AI Day"
-    excerpt: "James Douma was interviewed by Dave Lee about Tesla AI Day. James is an AI expert and notes how Tesla has done significant re-architecting and is charting new"
-    publishedDateTime: 2021-08-21T18:18:00Z
-    webUrl: "https://www.nextbigfuture.com/2021/08/james-douma-interviewed-about-tesla-bot-and-ai-day.html"
-    ampWebUrl: "https://www.nextbigfuture.com/2021/08/james-douma-interviewed-about-tesla-bot-and-ai-day.html"
-    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/08/james-douma-interviewed-about-tesla-bot-and-ai-day.html"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 76
-    images:
-      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/08/Screen-Shot-2021-08-19-at-7.36.59-PM.jpg"
-        width: 1566
-        height: 1280
-        isCached: true
   - title: "Massive AI Project Will Supercharge Tesla Stock"
     excerpt: "Tesla (TSLA) is on the verge of a game-changing breakthrough in machine learning yet the only thing people are talking about is its plan for a stupid humanoid robot. Executives at the electric vehicle company on Thursday held an artificial intelligence day."
     publishedDateTime: 2021-08-23T17:16:00Z

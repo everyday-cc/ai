@@ -33,7 +33,7 @@ related:
     provider:
       name: SiliconRepublic
       domain: siliconrepublic.com
-    quality: 71
+    quality: 73
     images:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/08/AdobeStock_448737185.jpeg"
         width: 800

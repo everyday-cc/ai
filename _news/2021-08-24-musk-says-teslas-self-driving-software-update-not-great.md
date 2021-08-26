@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/autos-transportation/musk-says-te
 webUrl: "https://www.reuters.com/business/autos-transportation/musk-says-teslas-self-driving-software-update-not-great-2021-08-23/"
 type: article
 quality: 169
-heat: 369
+heat: 379
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
       - url: "https://www.irishexaminer.com/cms_media/module_img/5229/2614661_1_googlediscover_047003fb-2870-4752-a495-e722e2ff407a.jpg.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Tesla's Full Self Driving system 'not great,' admits Musk"
+    excerpt: "Tesla CEO Elon Musk has admitted that the Full Self-Driving system is not that great, adding that the company is trying for a single tech platform for both highway and city streets to make"
+    publishedDateTime: 2021-08-26T10:39:00Z
+    webUrl: "https://www.sentinelassam.com/international/teslas-full-self-driving-system-not-great-admits-musk-551968"
+    ampWebUrl: "https://www.sentinelassam.com/amp/international/teslas-full-self-driving-system-not-great-admits-musk-551968"
+    cdnAmpWebUrl: "https://www-sentinelassam-com.cdn.ampproject.org/c/s/www.sentinelassam.com/amp/international/teslas-full-self-driving-system-not-great-admits-musk-551968"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: sentinelassam.com
+    quality: 74
+    images:
+      - url: "https://assets.sentinelassam.com/h-upload/2021/08/26/250768-elon-musk.jpg"
+        width: 1200
+        height: 900
         isCached: true
   - title: "Tesla could make its self-driving technology available for other automakers"
     excerpt: "Electric vehicle major Tesla has revealed that it might make the company's self-driving technology available for other automakers, reports Autocar. Tesla has revealed this plan during its AI Day last week."

@@ -85,22 +85,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 84
-  - title: "James Douma Interviewed About Tesla Bot and AI Day"
-    excerpt: "James Douma was interviewed by Dave Lee about Tesla AI Day. James is an AI expert and notes how Tesla has done significant re-architecting and is charting new"
-    publishedDateTime: 2021-08-21T18:18:00Z
-    webUrl: "https://www.nextbigfuture.com/2021/08/james-douma-interviewed-about-tesla-bot-and-ai-day.html"
-    ampWebUrl: "https://www.nextbigfuture.com/2021/08/james-douma-interviewed-about-tesla-bot-and-ai-day.html"
-    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/08/james-douma-interviewed-about-tesla-bot-and-ai-day.html"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 76
-    images:
-      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/08/Screen-Shot-2021-08-19-at-7.36.59-PM.jpg"
-        width: 1566
-        height: 1280
-        isCached: true
   - title: "Tesla reveals new plan to build robots"
     excerpt: "Tesla is now working on human-like robots. According to the company's website, the robots would be used for tasks that are considered \"unsafe, repetitive or boring.\" For the project, Tesla said it's searching for mechanical,"
     publishedDateTime: 2021-08-21T19:54:00Z

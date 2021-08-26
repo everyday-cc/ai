@@ -43,6 +43,22 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Five top tips for ensuring your conversational AI project is a hit"
+    excerpt: "Let’s look first at where conversational AI can make a difference. There are three main forms of communication in every organization where conversational AI can dramatically cha"
+    publishedDateTime: 2021-08-26T10:00:00Z
+    webUrl: "https://www.itproportal.com/features/five-top-tips-for-ensuring-your-conversational-ai-project-is-a-hit/"
+    ampWebUrl: "https://www.itproportal.com/amp/features/five-top-tips-for-ensuring-your-conversational-ai-project-is-a-hit/"
+    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/five-top-tips-for-ensuring-your-conversational-ai-project-is-a-hit/"
+    type: article
+    provider:
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 59
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/ghbHs8vktkp6zcrYVRGQ2d-1200-80.jpg"
+        width: 970
+        height: 545
+        isCached: true
   - title: "'Always There': The AI Chatbot Providing a Shoulder to China's Lonely Millions"
     excerpt: "Originally a side project from developing Microsoft's Cortana chatbot, XiaoIce now accounts for 60 percent of global human-AI interactions by volume."
     publishedDateTime: 2021-08-24T06:20:00Z

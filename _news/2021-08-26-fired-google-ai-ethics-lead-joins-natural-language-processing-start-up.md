@@ -6,8 +6,8 @@ publishedDateTime: 2021-08-26T09:01:00Z
 originalUrl: "https://www.siliconrepublic.com/start-ups/margaret-mitchell-hugging-face-google-ai-ethics"
 webUrl: "https://www.siliconrepublic.com/start-ups/margaret-mitchell-hugging-face-google-ai-ethics"
 type: article
-quality: 71
-heat: 81
+quality: 73
+heat: 83
 published: true
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI
   - Natural Language Processing
   - AI Ethics
+  - Facebook AI
 
 images:
   - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/08/AdobeStock_448737185.jpeg"
@@ -41,6 +42,6 @@ related:
         height: 630
         isCached: true
 
-secured: "1U2O/Sirqe/++2j8mkEy4F0oEYLcX0I2ESTaI/iWJqq+RmzlLeQywMPR+9RsZuZ0k5kP/0dBLfBy1RC7NHZH+/3GHwGwnhG73KelXnZkBbsFEQ2N5UOZnqKlsRRdqeCgP4mDbv2PT8vGuU7oF6zCG151QnewVy87+u6oAJHxQctLdVKb7Aih8yUzi4m5KzGdxuBDuKFnN71Kq2qnMB48J02mHbyuqFuJ1hnFk5DOMakrdbdAowJn0IVB75c0kFmV4r+qZm8U75p2CAAfhU06h4UXJpvIViABI4nqcXkvkxhlZnfgvLXZSU1KnYnYqIBAmLyyGTDBCX2U0LYPzuICxdxJO0zPQponV7NtX0clLUU=;yTX7kW6wmgJuuk0ESzM57A=="
+secured: "3lgwnvKCXE76W647AGc/F0CGZJ5ta7NZVSVdouS9N46O6VDod1tgfTpY/Mf2QKJm0qjhHrQLOb0FIzjYHVgh6L8/C+GLCBoOVOySG9ltNeqwAxg3rden3bziV1z6vJzG/jnu6KgGWDUbL8b0xsbIpo9W8syWnJxMFSLqFwSqoJ1Jt2orXYNwa+SbmouLOWr5SXccLMgQticO7tBVnLV/nGheJsKP06pv1/ox6B98IxFJEh/9H1w3ErdC9BdtvhSClyH20BD62wNQoZHUN/UZVxrosNvLfsB7niuZnMRZBTzoqHeKRGGvA638wfIiDiQ5buXseIEcN6b8vsyqNjDS9ICmu6f2zcDs+LKJftsbgZ/FHOG46cKfTdGWZiyLEdwBsTux4EnV04lbputDQXlNj+lW1Rk6tblBiYukbqfqAQtY8+qsoDlBVyMay4usjLXkFwXBu+R2RfESuGL7ygU4CfXGojH2YwWC29lrCxGvl4bmRkrpY1pvJG6+zLlHPPWSlsfs0P6l5cYshEa0ylLLWA==;Q+BLXiJO4J7dLfW3XaZkjw=="
 ---
 
