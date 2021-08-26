@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/emotion-recognition-ai-cant-determine-
 webUrl: "https://thenextweb.com/news/emotion-recognition-ai-cant-determine-how-people-feel"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Open source face recognition application adds features"
-    excerpt: "Exadel, a software engineering company that delivers digital platforms, products and applications, announced updates to CompreFace, an open source face recognition application. Since its launch in November 2020,"
-    publishedDateTime: 2021-08-21T11:11:00Z
-    webUrl: "https://www.ept.ca/2021/08/open-source-face-recognition-application-adds-features/"
-    type: article
-    provider:
-      name: EPT
-      domain: www.ept.ca
-    quality: 39
-    images:
-      - url: "https://www.ept.ca/wp-content/uploads/2020/08/EPT_Aug2021_ISSUU_COV-ml-300x400.jpg"
-        width: 300
-        height: 400
-        isCached: true
   - title: "New Study from StrategyR Highlights a $137.2 Billion Global Market for Emotion Detection and Recognition by 2026"
     excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Emotion Detection and Recognition - Global Market Trajectory & Analytics\"."
     publishedDateTime: 2021-08-25T15:09:00Z

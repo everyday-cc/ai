@@ -9,7 +9,7 @@ ampWebUrl: "https://thewest.com.au/news/health/facial-recognition-to-care-for-pr
 cdnAmpWebUrl: "https://thewest-com-au.cdn.ampproject.org/c/s/thewest.com.au/news/health/facial-recognition-to-care-for-prem-babies-c-3777249.amp"
 type: article
 quality: 59
-heat: 120
+heat: 119
 published: true
 
 provider:

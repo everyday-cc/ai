@@ -73,22 +73,6 @@ related:
         width: 1024
         height: 571
         isCached: true
-  - title: "Tesla Has Unveiled A New Chip For Training AI Models Inside Its Data Centers"
-    excerpt: "Tesla announced a custom-made chip for training artificial intelligence networks in data centres. Shown at the carmaker’s Livestreaming AI Day, the work shows that the company is engaged in vertical integration."
-    publishedDateTime: 2021-08-21T12:01:00Z
-    webUrl: "https://wonderfulengineering.com/tesla-has-unveiled-a-new-chip-for-training-ai-models-inside-its-data-centers/"
-    ampWebUrl: "https://wonderfulengineering.com/tesla-has-unveiled-a-new-chip-for-training-ai-models-inside-its-data-centers/amp/"
-    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/tesla-has-unveiled-a-new-chip-for-training-ai-models-inside-its-data-centers/amp/"
-    type: article
-    provider:
-      name: Wonderful Engineering
-      domain: wonderfulengineering.com
-    quality: 88
-    images:
-      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/08/NVidia-GPU-Packaging.jpg"
-        width: 872
-        height: 872
-        isCached: true
   - title: "Key Takeaways From Much-Awaited Tesla (TSLA) AI Day Event"
     excerpt: "Tesla’s TSLA highly anticipated Artificial Intelligence (AI) day event was live-streamed on the company’s official YouTube channel on Aug 19. At the flashy event, the electric car maker made several key announcements in the areas of computing,"
     publishedDateTime: 2021-08-23T12:57:00Z

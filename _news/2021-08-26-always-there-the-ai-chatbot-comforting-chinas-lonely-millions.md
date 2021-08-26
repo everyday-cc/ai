@@ -1,27 +1,27 @@
 ---
 category: news
-title: "AI Chatbot Comforts China’s Lonely Millions"
-excerpt: "After a painful break-up from a cheating ex, Beijing-based human resources manager Melissa was introduced to someone new by a friend late last year. He replies to her messages at all hours of the day,"
-publishedDateTime: 2021-08-25T14:33:00Z
-originalUrl: "https://guardian.ng/life/ai-chatbot-comforts-chinas-lonely-millions/"
-webUrl: "https://guardian.ng/life/ai-chatbot-comforts-chinas-lonely-millions/"
+title: "'Always there': the AI chatbot comforting China's lonely millions"
+excerpt: "After a painful break-up from a cheating ex, Beijing-based human resources manager Melissa was introduced to someone new by a friend late last year."
+publishedDateTime: 2021-08-26T04:54:00Z
+originalUrl: "https://www.sinchew.com.my/pad/con/content_2536342.html"
+webUrl: "https://www.sinchew.com.my/pad/con/content_2536342.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Guardian Nigeria
-  domain: guardian.ng
+  name: 星洲网
+  domain: sinchew.com.my
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://guardian.ng/wp-content/uploads/2021/08/587914a5ee14b6a47b8b526c.jpg"
-    width: 1136
-    height: 852
+  - url: "https://cdnpuc.sinchew.com.my/pad/pic/2021-08/26/t2_(51X32X568X330)d19b40e7-1a5a-4d82-99fa-e87985c17c8f366d8817-6151-454b-a415-c083e4c28a48.png"
+    width: 749
+    height: 432
     isCached: true
 
 related:
@@ -115,6 +115,20 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "AI Chatbot Comforts China’s Lonely Millions"
+    excerpt: "After a painful break-up from a cheating ex, Beijing-based human resources manager Melissa was introduced to someone new by a friend late last year. He replies to her messages at all hours of the day,"
+    publishedDateTime: 2021-08-25T14:33:00Z
+    webUrl: "https://guardian.ng/life/ai-chatbot-comforts-chinas-lonely-millions/"
+    type: article
+    provider:
+      name: The Guardian Nigeria
+      domain: guardian.ng
+    quality: 39
+    images:
+      - url: "https://guardian.ng/wp-content/uploads/2021/08/587914a5ee14b6a47b8b526c.jpg"
+        width: 1136
+        height: 852
+        isCached: true
   - title: "‘Always there:’ the AI chatbot comforting China’s lonely millions"
     excerpt: "After a painful break-up from a cheating ex, Beijing-based human resources manager Melissa was introduced to someone new by a friend late last year. He replies to her messages at all hours of the day,"
     publishedDateTime: 2021-08-25T16:00:00Z
@@ -129,20 +143,6 @@ related:
         width: 800
         height: 532
         isCached: true
-  - title: "'Always there': the AI chatbot comforting China's lonely millions"
-    excerpt: "After a painful break-up from a cheating ex, Beijing-based human resources manager Melissa was introduced to someone new by a friend late last year."
-    publishedDateTime: 2021-08-26T04:54:00Z
-    webUrl: "https://www.sinchew.com.my/pad/con/content_2536342.html"
-    type: article
-    provider:
-      name: 星洲网
-      domain: sinchew.com.my
-    quality: 39
-    images:
-      - url: "https://cdnpuc.sinchew.com.my/pad/pic/2021-08/26/t2_(51X32X568X330)d19b40e7-1a5a-4d82-99fa-e87985c17c8f366d8817-6151-454b-a415-c083e4c28a48.png"
-        width: 749
-        height: 432
-        isCached: true
   - title: "Artificial intelligence chatbots providing companionship to millions in China"
     excerpt: "Loneliness, once considered mostly a plight of the elderly, is impacting millions isolated by Covid - Click the link for more details."
     publishedDateTime: 2021-08-25T06:46:00Z
@@ -153,6 +153,6 @@ related:
       domain: i24news.tv
     quality: 16
 
-secured: "+6GRA+DfQgWHdwvEnwZJfSA46ONJi9hjVeIR+NhiGPNI5Mi6XysBI+DW2j+wlNl2hhQ4WyElLuEUXWcSzHJ5IXyxdWUuzytdrYf8VwUS9PI8JMRDrwe3GZUtVrSzpmghXCjgnROFj7C7OxKMU+YrDcKiopTJim8SCOtjvz0nswU3ekDmp2TFpSFLXq04sGGRiJ5hTSFa6znPOJCuZQiLuoiiEJ88K/J90NIYVnUEjSZkVM/4pBYvtLqf2th+1k0Na+beYqhbqF/PfeADo+/LIoz8fF1GUlrT0wHaWmdE5tuRyek7/vs1Xi/pgvNlShYBBUtB0EIda2Dzxx6jQTg/tjrjTi24qZAPsp2epwQEC+U=;NhF/fpWzJejT8OawmqcDCg=="
+secured: "MQJ2vlOHkBX6XQFp/W+rn2YC0VITSQ1m3aWx/TXL+Z64IaId1otycQ6stLlMSaBS0pKrXB6RvjBuu3N8ZY7/t8Vfh3qRf7W+TTTAyBrVrdrA7pLIR8ZmEQc+woADikzl4kf/V/fmfQgOCZKKS0U+ZNxuwZGzO4aPJGY/xMFRANm7OKOcNAHtAH5knoHv8A9AjY391hLYBvSRP8hN+1zyYcNdd3ngE5AKVsUGjc0f/8MmaBahU9ka0K0HRhxX3OLiFhPi1du1dMJpaDdEC4vDnfphH2Kds+C9V94C/jJXeaHivS1WmbiP/l/WwHVhDkXruUOuMRMpnEoa87nlszKnyBhlg2GeD6t1iLOfyV6sbpc=;bGuk26M4CMGg+yhXXbUWKA=="
 ---
 

@@ -41,6 +41,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "The robots are coming"
+    excerpt: "Elon envisions his robots replacing much of human physical labor. And if that comes to pass, then he suggests that Universal Basic Income will be needed. He believes that the increased efficiency"
+    publishedDateTime: 2021-08-26T00:15:00Z
+    webUrl: "https://www.redbluffdailynews.com/2021/08/25/the-robots-are-coming/"
+    type: article
+    provider:
+      name: Red Bluff Daily News
+      domain: redbluffdailynews.com
+    quality: 39
+    images:
+      - url: "https://www.redbluffdailynews.com/wp-content/uploads/2018/05/red-bluff-daily-news-site-icon-1.png"
+        width: 450
+        height: 235
+        isCached: true
 
 secured: "BbMdh6BimgMVALy9mqVVYDCN048W46nRthozZJbcQ353YEuxJyJ1q3b3lNTAFOEoaoxVvAD4U3mWQgCacS8M+UShpTbIeHc5SZsiIgViLp6uDI2zE2Sz/8MaYQ2h1eRsIf/kUtqQVD3GzSkLyqz5X7gnlGUOqtx3W9YDMrTuFDqc1NwzoqbS6BJYou+VwpQ0jFjNLxqHqxHXfAUjgabTn3OutqdNsoaxFo0zelcH4Q0+dHsOQQoZaWSGSjRvEIY8V7QEOovT7tFx0z7mxuRfknuFbRW5Se5py3KjSTk1ucdrvv3FGVpcTAYmdJb1Wb8qTdk7tcDffhfVpYnUEZAiT22nwlFfV3ZDAFkVTY9a8iBe34ZknDXHCBzeEeVqJUCt/61Y3IWWCHULSXvmylWroBA5QedCc4hrKFCVA26jbReJodnz7eQhLK6Npm9jh+KRYltA0ZJGtM/pajo1g0i2VHkAqlFjigZzpRy8r36YD+bnc7W35UuS17YzppvBoNSjL+OGtH97jwEo97BYg0LOhA==;w80G5CKBihNh1FWgh6JwkQ=="
 ---

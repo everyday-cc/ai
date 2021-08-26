@@ -1,32 +1,46 @@
 ---
 category: news
-title: "Arab Bank To Back Egyptian FinTech, AI And Cybersecurity Startups"
-excerpt: "Arab Bank has launched an Egypt branch of its FinTech, artificial intelligence (AI) and cybersecurity accelerator that focuses on early-state startups."
-publishedDateTime: 2021-08-22T23:23:00Z
-originalUrl: "https://www.pymnts.com/startups/2021/arab-bank-back-egyptian-fintech-artificial-intelligence-cybersecurity-startups/"
-webUrl: "https://www.pymnts.com/startups/2021/arab-bank-back-egyptian-fintech-artificial-intelligence-cybersecurity-startups/"
-ampWebUrl: "https://www.pymnts.com/startups/2021/arab-bank-back-egyptian-fintech-artificial-intelligence-cybersecurity-startups/amp/"
-cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/startups/2021/arab-bank-back-egyptian-fintech-artificial-intelligence-cybersecurity-startups/amp/"
+title: "GIZ and Fintech Egypt to Launch Free Summer School Webinar Series"
+excerpt: "The series will cover cybersecurity, AI and machine learning, open banking, regtech, and blockchain. The international development wing of the German government, GIZ, is partnering with tech ecosystem platform Fintech Egypt to co-launch the GIZ Finance Summer School,"
+publishedDateTime: 2021-08-26T04:47:00Z
+originalUrl: "https://cairoscene.com/Business/GIZ-and-Fintech-Egypt-to-Launch-Free-Summer-School-Webinar-Series"
+webUrl: "https://cairoscene.com/Business/GIZ-and-Fintech-Egypt-to-Launch-Free-Summer-School-Webinar-Series"
 type: article
-quality: 74
-heat: 134
-published: true
+quality: 24
+heat: -1
+published: false
 
 provider:
-  name: pymnts.com
-  domain: pymnts.com
+  name: CairoScene.com
+  domain: cairoscene.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/08/Egypt-Arab-Bank-startups-accelerator-457x274.jpg"
-    width: 457
-    height: 274
+  - url: "https://cairoscene.com:443/Content/Admin/Uploads/Articles/ArticlesMainPhoto/1130514/4e77e402-de61-46aa-a5c6-316a6c1686df.jpg"
+    width: 800
+    height: 491
     isCached: true
 
 related:
+  - title: "Arab Bank To Back Egyptian FinTech, AI And Cybersecurity Startups"
+    excerpt: "Arab Bank has launched an Egypt branch of its FinTech, artificial intelligence (AI) and cybersecurity accelerator that focuses on early-state startups."
+    publishedDateTime: 2021-08-22T23:23:00Z
+    webUrl: "https://www.pymnts.com/startups/2021/arab-bank-back-egyptian-fintech-artificial-intelligence-cybersecurity-startups/"
+    ampWebUrl: "https://www.pymnts.com/startups/2021/arab-bank-back-egyptian-fintech-artificial-intelligence-cybersecurity-startups/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/startups/2021/arab-bank-back-egyptian-fintech-artificial-intelligence-cybersecurity-startups/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 74
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/08/Egypt-Arab-Bank-startups-accelerator-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Fintech-focused Corporate Accelerator Program Launched in Egypt by Arab Bank"
     excerpt: "Fintech-focused corporate accelerator program launched in Egypt by Arab Bank. Initiative will support adoption of modern financial services."
     publishedDateTime: 2021-08-24T02:37:00Z
@@ -101,21 +115,7 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "GIZ and Fintech Egypt to Launch Free Summer School Webinar Series"
-    excerpt: "The series will cover cybersecurity, AI and machine learning, open banking, regtech, and blockchain. The international development wing of the German government, GIZ, is partnering with tech ecosystem platform Fintech Egypt to co-launch the GIZ Finance Summer School,"
-    publishedDateTime: 2021-08-26T04:47:00Z
-    webUrl: "https://cairoscene.com/Business/GIZ-and-Fintech-Egypt-to-Launch-Free-Summer-School-Webinar-Series"
-    type: article
-    provider:
-      name: CairoScene.com
-      domain: cairoscene.com
-    quality: 24
-    images:
-      - url: "https://cairoscene.com:443/Content/Admin/Uploads/Articles/ArticlesMainPhoto/1130514/4e77e402-de61-46aa-a5c6-316a6c1686df.jpg"
-        width: 800
-        height: 491
-        isCached: true
 
-secured: "cB6wJTqDSpJVKZ7qo6obxBHf7s81zaYyWlUenrDElRAAOvQckpfFLy3vcCjzYOIjGSsPWVzGt57SisKWWTtQ7pIWTxj87qlMhxbggH4zzNhg1Yi5b1THtyqkmqa4auHGddDPENNmSn+KNKAPVU+rF6Jd3yBw+srk+ainJg/Sq7XcBq8ynMBwQrISF01JrAIZTx7hWviFN/1nv1qR/MIJVoAabzR3/O++SlvgoE1Y7ATUYyw29i7BnQl15ZpZewpUfv4yFxqrhuR0LWqRWsTD0pFL/6s4DmELMJ5sWoYxqLobHZPu7rUyH/oJI0oh6DRX8eU/JgPDn9i8rJjl8o3+TC41TROWjqiqQH3ue/j++Fk8N5xIo6j+tEI7tOVj4WuClPM01/lq77RAYdNxaRqHtvWRE1miIqRrWCE+rOPdS81OJb426AsWbreNZimv8wJEybk8lAOG9Lg9Ym2Hc9sOEYEstq6vOkw7yi20fj2TV6if48kT6S9HzYJKfcUzg6RuNA/6mRb+mtjdsxmnAIUMZQ==;jPaiFbCB9Y7W7s1hfOg+7w=="
+secured: "cLrsxQkBFOtuo8xRUXF4VdH2TsWYY5CbLGWiNTHkNFc55Nr+3Af2mRKzjZnwCS3rla01dfw8uW+GHvAklfj8Iw7lGsRo4eJfpYD5KeOygfd9jrUvvIhAKe3Z040OQn+YhvBYqvHLr7JewMvbqG2DW/T0suEteU2Yi2JAK71fZbtn063BMriFicqWq8QvgaZASVd0clJvKGcjJuRIBiNEQe5mospHgqA6oO/1GEVIWdgqkhHklT4uX+24XeCPQKYFJ3cV4jWUuZKsjL/vr2vICMIgumeEUZJUf187AsY/Js/u01s9CVn6D++oEc5D6WEzCiQ0Th9h4edBAmDknb1RwIhhK/UPib9GqBU+dO1d8uY=;P8gPdr9rb+5TraVGScpRdA=="
 ---
 

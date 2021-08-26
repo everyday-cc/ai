@@ -137,6 +137,20 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "'Always there': the AI chatbot comforting China's lonely millions"
+    excerpt: "After a painful break-up from a cheating ex, Beijing-based human resources manager Melissa was introduced to someone new by a friend late last year."
+    publishedDateTime: 2021-08-26T04:54:00Z
+    webUrl: "https://www.sinchew.com.my/pad/con/content_2536342.html"
+    type: article
+    provider:
+      name: 星洲网
+      domain: sinchew.com.my
+    quality: 39
+    images:
+      - url: "https://cdnpuc.sinchew.com.my/pad/pic/2021-08/26/t2_(51X32X568X330)d19b40e7-1a5a-4d82-99fa-e87985c17c8f366d8817-6151-454b-a415-c083e4c28a48.png"
+        width: 749
+        height: 432
+        isCached: true
 
 secured: "joYd78StDNCUTmF1ThanhNdaRJcy/cB9t3+gBGlf5XZYyCysqf/ThrIzlGIoR1iWllC0v+tyLoRCcfYkYyfJ+uxrzfhF+AHz4NXrlABbmJa7Cc22t0eLSp+n3jFBvcT8EnuFEgrQikpON0CsqoBd+FLvUeb1laS1XW4zosi+yBUuwUUFMXGtN6ruhbpkqVzk+xr7tHLN7ArjMKW98LKDqJbMMRvGvEEc5eHmL0JPW9wG7XzBIrrqcB6X0BgwabOIuIS9eWptpSq9WUgQJ3oKlszzBlYzGX7w3e/vZu3I5u5XLYb7Q/tOWWPEzFSU+O6SrzEuma1BWyZziYK7J9l1uTMrrwDLXLRJf/rVkHwWn+sG9VdmCwogLH+Nkg+U1yVghSdmt+7s9zgNXNQYI7zJnk8Gwdcq7Q+ceB1EQ07Mi3KB75GtOZKe/cOC+M54TXGMpcd6AGyARNFpWOEuGM04CXhgJGmJcVvEA7ibHjva2IjlbASDutIwqJua8o0Nldff8lDT505SeWHn51j7d53GbQ==;xrNNGqCyuDTIG9AP90bskg=="
 ---

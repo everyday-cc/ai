@@ -59,6 +59,20 @@ related:
         width: 1539
         height: 962
         isCached: true
+  - title: "Civil society groups urge UK to ban live facial recognition technology"
+    excerpt: "Thirty-one UK and European-based civil society organizations have issued a letter to the UK Parliament calling for a ban on the use of live facial recognition technology (LFRT) by police and private"
+    publishedDateTime: 2021-08-26T00:34:00Z
+    webUrl: "https://www.jurist.org/news/2021/08/civil-society-groups-urge-uk-to-ban-live-facial-recognition-technology/"
+    type: article
+    provider:
+      name: Jurist
+      domain: jurist.org
+    quality: 39
+    images:
+      - url: "https://www.jurist.org/news/wp-content/uploads/sites/4/2021/08/Facial-Recognition.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Campaign groups claim police have bypassed Parliament with plans for live facial-recognition tech"
     excerpt: "Civil society groups have called for a ban on the use of life facial recognition technology amid claims that the government and the police are introducing intrusive surveillance measures without parliamentary scrutiny."
     publishedDateTime: 2021-08-24T05:15:00Z

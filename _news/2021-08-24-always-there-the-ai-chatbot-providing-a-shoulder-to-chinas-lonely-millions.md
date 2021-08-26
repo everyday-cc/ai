@@ -130,6 +130,20 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "'Always there': the AI chatbot comforting China's lonely millions"
+    excerpt: "After a painful break-up from a cheating ex, Beijing-based human resources manager Melissa was introduced to someone new by a friend late last year."
+    publishedDateTime: 2021-08-26T04:54:00Z
+    webUrl: "https://www.sinchew.com.my/pad/con/content_2536342.html"
+    type: article
+    provider:
+      name: 星洲网
+      domain: sinchew.com.my
+    quality: 39
+    images:
+      - url: "https://cdnpuc.sinchew.com.my/pad/pic/2021-08/26/t2_(51X32X568X330)d19b40e7-1a5a-4d82-99fa-e87985c17c8f366d8817-6151-454b-a415-c083e4c28a48.png"
+        width: 749
+        height: 432
+        isCached: true
   - title: "Artificial intelligence chatbots providing companionship to millions in China"
     excerpt: "Loneliness, once considered mostly a plight of the elderly, is impacting millions isolated by Covid - Click the link for more details."
     publishedDateTime: 2021-08-25T06:46:00Z

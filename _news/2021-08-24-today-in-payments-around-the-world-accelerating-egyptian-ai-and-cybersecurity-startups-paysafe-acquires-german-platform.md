@@ -101,6 +101,20 @@ related:
         width: 803
         height: 554
         isCached: true
+  - title: "GIZ and Fintech Egypt to Launch Free Summer School Webinar Series"
+    excerpt: "The series will cover cybersecurity, AI and machine learning, open banking, regtech, and blockchain. The international development wing of the German government, GIZ, is partnering with tech ecosystem platform Fintech Egypt to co-launch the GIZ Finance Summer School,"
+    publishedDateTime: 2021-08-26T04:47:00Z
+    webUrl: "https://cairoscene.com/Business/GIZ-and-Fintech-Egypt-to-Launch-Free-Summer-School-Webinar-Series"
+    type: article
+    provider:
+      name: CairoScene.com
+      domain: cairoscene.com
+    quality: 24
+    images:
+      - url: "https://cairoscene.com:443/Content/Admin/Uploads/Articles/ArticlesMainPhoto/1130514/4e77e402-de61-46aa-a5c6-316a6c1686df.jpg"
+        width: 800
+        height: 491
+        isCached: true
 
 secured: "5LqpLiuYvjmcoADIE0BDqhgb+0Mei5FWIV5ZEb32yB5/oCyUJW+qU/dwKHMYQd5EikeIp1/imQYwzrvmXC6aX6HDjHoymGaq4elNbNjMolsfI7LwIrbXZl5m0jj31cYnYWAyPX1gm2hwC1TA/kmGEPoNHcD16Ibu3U32eYZeiRhv+LtWQn32A8l36QJFypmB4UZFGB6E/sw8bB7tp7aWd+4BEqXuPB3FBOdUsTSmeVXh5j4aGw8KkBmNfQDNmDNgqnsfdD44ne/09EwWvEVqSPQHM87nzTG3TI2eX72LCJ+iY4YtrWvJdZsVqhec4/HhNqwHH4w39i5WDYGTPN38jimZAOZA+9ro8GRf2DfM7sosV/CpOBxDuwmMhs2WkVJ65R7yo0hchSAMYnkim9oilPNxPI4OCtq81vekNpJj0qJ2Cs3SP/axsKdYtO3/ncTm6mes99r4PZnb9AKZWpXLVMOO26kKNk58JEWr2FxSpQA0BYIvWhc2f1xqh8wtfCAybJ8+sSFcHzV109vSVaUq2A==;NvpOkOnfH5udA3BtyD9kXg=="
 ---
