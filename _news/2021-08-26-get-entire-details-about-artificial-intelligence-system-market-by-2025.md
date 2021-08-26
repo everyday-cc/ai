@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2369435/get-entire-details-about-artifici
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2369435/get-entire-details-about-artificial-intelligence-system-market"
 type: article
 quality: 72
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       - url: "https://cdn.bignewsnetwork.com/cus1629864454666.jpg"
         width: 630
         height: 420
+        isCached: true
+  - title: "Global Industry Analysts Predicts the World Artificial Intelligence (AI) in Marketing Market to Reach $50.1 Billion by 2026"
+    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Marketing - Global Market Trajectory & Analytics\"."
+    publishedDateTime: 2021-08-26T17:12:00Z
+    webUrl: "https://www.lelezard.com/en/news-19970273.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 47
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
+        width: 421
+        height: 421
         isCached: true
   - title: "Global AI-based Clinical Trials Solution Provider Market (2021 to 2028) - Size, Share & Trends Analysis Report - ResearchAndMarkets.com"
     excerpt: "The global AI-based clinical trials solution provider market size is expected to reach USD 5.2 billion by 2028 and is expected to expand at a CAGR of 21.7% over the forecast period. Unlearn.AI, Inc. Antidote Technologies,"

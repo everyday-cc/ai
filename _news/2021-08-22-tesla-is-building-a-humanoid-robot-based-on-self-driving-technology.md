@@ -132,20 +132,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Elon Musk announced that the Tesla Bot, a humanoid robot with AI, is coming out in 2022 and has already been showered with memes!"
-    excerpt: "Day, Elon Musk announced that in 2022 they will present the prototype of the humanoid robot Tesla Bot. Of course, netizens responded as they know best: with memes.  This Thursday, Elon Musk announced that his electric vehicle company is working on creating a humanoid robot ."
-    publishedDateTime: 2021-08-22T00:29:00Z
-    webUrl: "https://www.stamfordadvocate.com/business/article/Elon-Musk-announced-that-the-Tesla-Bot-a-16401310.php"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 42
-    images:
-      - url: "https://s.hdnux.com/photos/01/21/42/66/21376445/3/rawImage.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
 
 secured: "kpZBICHFjT9RvdJUXteu0f6QiQD0IiZCmW1w1lLusFhsA2Bg3fT7NdeWn9g24LpZ0B5m7TcKvyQdVVaDnVm3kxKlPNYOMTigcxTUOT+qm97CmRkxMOIMjT4J78tHw101Th/y+lun8HxZuCw6e9t9FoCI8OrjJaLyqW/VtTs3IW0fRCW6hlO1IA7Ht4RtMKfbn53HjQPn1pKLMUPopDH5f8JN1F5FEV4QIE9UKu6D1S4H5xwqlDYhrRBY5DfaktvR5cy3+IbLyFPAsZmc55KF/O0HNBCBSHBcao1J43S2vYRa8zMr6t3WVB1MuD/1NoEIG95ciwfPfDgxirOHwACItoA1ZPVwn1ueW2Q0i4yXCHw=;WKH/UM+jmdSYzyf+elPiUA=="
 ---

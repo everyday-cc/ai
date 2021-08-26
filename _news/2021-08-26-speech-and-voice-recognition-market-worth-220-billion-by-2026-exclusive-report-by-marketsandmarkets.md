@@ -49,6 +49,20 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Global Industry Analysts Predicts the World Artificial Intelligence (AI) in Marketing Market to Reach $50.1 Billion by 2026"
+    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Marketing - Global Market Trajectory & Analytics\"."
+    publishedDateTime: 2021-08-26T17:12:00Z
+    webUrl: "https://www.lelezard.com/en/news-19970273.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 47
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
+        width: 421
+        height: 421
+        isCached: true
   - title: "Global AI-based Clinical Trials Solution Provider Market (2021 to 2028) - Size, Share & Trends Analysis Report - ResearchAndMarkets.com"
     excerpt: "The global AI-based clinical trials solution provider market size is expected to reach USD 5.2 billion by 2028 and is expected to expand at a CAGR of 21.7% over the forecast period. Unlearn.AI, Inc. Antidote Technologies,"
     publishedDateTime: 2021-08-26T13:30:00Z
@@ -64,6 +78,6 @@ related:
         height: 339
         isCached: true
 
-secured: "o0sR4LfC97K3JmfOov5gyIKL+DgsBOFu/iKoJ/M1AXYiiOpPwq8/czo9mEy6PBPfohd1WQNwDIf4GH8V+TqNuMmpZaeq7ELu9EMdBzyBii3fO5CyuTAMYuwjF8qrUW7GAv2MUk1gBZZG0FSdP5qiVraCarqPK6jakdVG0R9STEqWnyF+SILMi5wI9GcSHqRLplG9BVFuFibTsghPf/B+GNSzVnCTd/YDZV7RDthVlMHmLnqWNoiDLDiqBYQDr6KfVqFfyoAxenjIQ7tHpSTGIwoeIWgckp/cwW432SpmtFPcKGA+bgsCRRyKpg+i7+uwf4Lflsp/uZy7AWcGge23d2QiK4jPEAc40TTXKfYvrz4=;910icXTaruoBdAwMRUH+lg=="
+secured: "dxsrIqqPR/RmO36pWernd9PWfNqfvC1d+lXP+Ec7GlfGluUNHg0++FU1ExlP6QHXb7+Rm6Vax+RoSHFfev/Ene3I4IecJB7OtKplHSoPkfYoxprWjkW+PLJsJQJh0AcLLHbvzcnpTXN8oRBGFo/2UHGuwnm71JbvedQ3/HdCvihYPg5UgML+H2nYs8IsIilKdeXsAzs376p68grLq/wQynAtQmL3EazkASIohOC1ETMrlerhAjES9SAVYP4w4k+C9L4+f1wCS+cRltXX8oNw6RoXWylmc0WHqY9arNIO/H2OhjX7ysEi/4Hn0pAI1x382bFdFSJzciA/Lt/BIczwu17NgerV7NPxHVIpHJJKGZ0=;m633lzZgxzYgr540bQpzDA=="
 ---
 

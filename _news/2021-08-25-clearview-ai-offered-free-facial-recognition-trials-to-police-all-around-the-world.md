@@ -9,7 +9,7 @@ ampWebUrl: "https://www.buzzfeednews.com/amphtml/ryanmac/clearview-ai-internatio
 cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/ryanmac/clearview-ai-international-search-table"
 type: article
 quality: 98
-heat: 159
+heat: 158
 published: true
 
 provider:
@@ -117,6 +117,6 @@ related:
       domain: seattletimes.com
     quality: 37
 
-secured: "j9ovH0IjdTLaFL1ShxCjI++3gaavpco5LMtNHdNCtTkOFU8TSqv+El+RuSgk7ZTeWyPgiGXOPH3wDMZ1GY6KtbJAK7lrT+CF8CxdBkrZtHGsHyUMX8plStTFsHPNkmK4FvnIu7Y6It5JXKeLhv5ZIPIJOpmOh6hhENaG14OwE2d8TdpA+BVRBaVlitMbUiG8ck2ocElZlAgftQCU3sHDhYh1YnvzxyMpDI26C9a3UV9FpDepDSJspemLKQQCNI4MXJx8/C+XatVyvm3s355EbMD8gnZyflMADGfy2RrD4lY/9PU/RbVNhf48gc8MRO1GiIySXr3XgJHmApzwNZa2SHPWZ7YqYauLuo1/XzZAwXM=;9yyQ/D1kvtIpVXlAUhun0Q=="
+secured: "+RMfJM1SImzrIOxvtwOwnkZ3B/bZTO8lOaq/BwQVenV8N0OU8eH8rlG4nNSQabRnownYOQjwUeCNS/4Dt/UgR6f8thkVOM6JYin48I7gvk6bujDNkZn1t1DMxSMFXQCtZEmBN7pyOJx6i3lEsbD9DaO9s2f5qUPYjUPY+1Uopzj5ARZLKm34Gc3U5ZYBeeu8c+RNkmFjqNHmUDwOpANNgA84Py3lxC3XG6mOEXNeM+n+yGQY/E3cGDQtOcCuhmpcONrxI94G4K1GZQNlCzTZgTTKwmVjInKQ/kl+j+tC8lvqc+9A8JKZF04APmiWHI2qE3xICMNBgAoBgaiOS44I/9iAnfUkkDZcYhh7Mo+Wmp9wRsWTqE49jwRg7FqngnLeevcbluU/HqyG3FY4TEl31Et665oXr+dHT2F3xDZGRvQo3HTS2wpSWjNuc7B/8GtijnrHVJSLIgKUuxmH1lFSlGWnKmDADtwbikNNEx5yVYuFAs4i4bT5E8tOK7/NLvgefMdnSt3qJkX67L6kkRqLJw==;8DGqDyTFU322Ayfm4MpykA=="
 ---
 

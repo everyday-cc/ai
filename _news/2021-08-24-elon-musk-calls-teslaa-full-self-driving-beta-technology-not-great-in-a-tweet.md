@@ -342,6 +342,20 @@ related:
       name: Futurism
       domain: futurism.com
     quality: 39
+  - title: "Why the feds are investigating Tesla’s Autopilot and what that means for the future of self-driving cars"
+    excerpt: "Tesla’s Autopilot uses cameras, radar and ultrasonic sensors to support two major features: Traffic-Aware Cruise Control and Autosteer."
+    publishedDateTime: 2021-08-26T14:22:00Z
+    webUrl: "https://www.minnpost.com/other-nonprofit-media/2021/08/why-the-feds-are-investigating-teslas-autopilot-and-what-that-means-for-the-future-of-self-driving-cars/"
+    type: article
+    provider:
+      name: MinnPost
+      domain: minnpost.com
+    quality: 22
+    images:
+      - url: "https://www.minnpost.com/wp-content/uploads/2021/08/TeslaCrash640.jpg"
+        width: 640
+        height: 450
+        isCached: true
   - title: "Musk criticizes on Twitter latest test version of Tesla's self-driving software"
     excerpt: "Chief Executive Elon Musk panned the most recent test version of the company's self-driving software, but said that Tesla employees are \"rallying to improve (it) as fast as possible.\" Musk tweeted late Monday that the latest \"beta\" version of Full Self Driving,"
     publishedDateTime: 2021-08-23T16:18:00Z

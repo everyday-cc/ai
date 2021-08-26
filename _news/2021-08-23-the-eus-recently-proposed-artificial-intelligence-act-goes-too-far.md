@@ -33,20 +33,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 41
-  - title: "Monolith AI Raises £8.5M in Series A Funding"
-    excerpt: "Monolith AI, a UK AI engineering software company, raised £8.5M in Series A funding. The round was led by Insight Partners with participation from existing investors Pentech and Touchstone, Alejandro Agag,"
-    publishedDateTime: 2021-08-23T14:38:00Z
-    webUrl: "https://www.finsmes.com/2021/08/monolith-ai-raises-8-5m-in-series-a-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 37
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2021/08/2021-Aug-F1-Dashboard-v1.1-1.png"
-        width: 1250
-        height: 768
-        isCached: true
   - title: "Improving Creative Quality Could Save Brands Millions in Media Spend, According to CreativeX Research"
     excerpt: "CreativeX, an AI-powered technology company that enables brands to measure the impact of creative decisions, today released a landmark industry report, \"Insights From"
     publishedDateTime: 2021-08-23T12:00:00Z

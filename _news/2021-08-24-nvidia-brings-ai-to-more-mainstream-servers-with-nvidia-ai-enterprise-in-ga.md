@@ -114,6 +114,20 @@ related:
         width: 640
         height: 426
         isCached: true
+  - title: "NVIDIA Makes Case for Training AI Models On-Premises"
+    excerpt: "The NVIDIA Enterprise platform is designed to be deployed on instances of VMware deployed on servers that have been certified by NVIDIA."
+    publishedDateTime: 2021-08-26T13:47:00Z
+    webUrl: "https://www.itbusinessedge.com/data-center/nvidia-training-ai-models-on-premises/"
+    type: article
+    provider:
+      name: IT Business Edge
+      domain: itbusinessedge.com
+    quality: 37
+    images:
+      - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/08/NVIDIA-AI-Enterprise.jpeg"
+        width: 600
+        height: 295
+        isCached: true
   - title: "Dell touts VxRail and GPU combo for Nvidia’s AI Enterprise suite"
     excerpt: "Dell's HCI platform is certified for accelerating workloads with Nvidia’s newly available AI Enterprise software suite."
     publishedDateTime: 2021-08-25T14:35:00Z

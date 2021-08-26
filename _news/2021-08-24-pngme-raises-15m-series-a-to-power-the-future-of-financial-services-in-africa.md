@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Pngme, Raises $15M Series A to Power the Future of Financial Services in Africa"
-excerpt: "Pngme, the financial data infrastructure and machine learning-as-a-service platform, has raised a further $15 million in Series A funding as it sets out to grow its financial data platform. The round was led by Octopus Ventures and comes less than a year after its $3 million seed round."
-publishedDateTime: 2021-08-24T13:51:00Z
-originalUrl: "https://apnews.com/press-release/PRNewswire/technology-business-financial-services-2a0bc10896feb1b6d9e0741acbf22110"
-webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-financial-services-2a0bc10896feb1b6d9e0741acbf22110"
+excerpt: "Pngme, the financial data infrastructure and machine learning-as-a-service platform, has raised a further $15 million in Series A funding as"
+publishedDateTime: 2021-08-24T08:00:00Z
+originalUrl: "https://www.prnewswire.co.uk/news-releases/pngme-raises-15m-series-a-to-power-the-future-of-financial-services-in-africa-831661357.html"
+webUrl: "https://www.prnewswire.co.uk/news-releases/pngme-raises-15m-series-a-to-power-the-future-of-financial-services-in-africa-831661357.html"
 type: article
-quality: 35
+quality: 15
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.co.uk
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "US-Based FinTech Pngme Raises $15M To Expand Services Across Africa"
@@ -65,6 +59,6 @@ related:
         height: 900
         isCached: true
 
-secured: "cPrgStA3vXYLNoezH9BQnMvga8iYotTC/1ZWKabfQhaauSY+rYzkGJ4ZlY2183EPvZRFxfbA5zcAIlYsOfeoj1npEFb3DLWhGaUiAIpmeKZxkG8+22Tk6aYkKUj17b+Rbe97654n/Q/XBGbMOcHFunCYUjpCI+ouPuJWmjGV/adQycEjIKuNOR7n0QBJhWWiCWPrDsWLLrYUnYke4o56Ziauz0v7WQSszjx2MdojgNM9rYRcDfMjfAV/Ykc5apGXlDPlkNPSs+qYLZO0HVGeM9X27DYs8LwyTzS4UXreh+gfdfTRkR3SEFbOWuz3Symh1f5LuD+5vMHZgFUzmVlaGC2CB0Vvvujq+7+jBBvnvZY=;gAh/4XDwG0Mhq1i+JFbrXA=="
+secured: "V9YPqbzoplBCXbm9Fzk4N6XD6DdQuz/Lf7tzSv9EQjXKGyvtA7Rq7gGJoce9zqPgCDp1cK5aprZnyY+DdJ95NNjgSxr5kWbWJ6CcjetjLzADI7Yzg+glM3VTO9ADzSlWXH6q2AsPtz32StJnygriXyucM68/BrC22acUvpodhESU9JgBDqwYyiOApEgVV0d505HRkUZZYtrEpyZwXUw7pLhHKKUAECLiEG7j9RZ6DFX/Hxozdkm4Znj6wCa+liMAruQBz6KzwQ8uHJBkI1yX3y+zMnbyxqh1JwO2MWjJiWbfe1TentHEqw4inHGHEhboHHgqTELUBiiWCu0oDC1QxbgnB3IdjxuzQr5UTK6Z0jk=;eWfzjUjVWi/mjPo3WAnC2Q=="
 ---
 

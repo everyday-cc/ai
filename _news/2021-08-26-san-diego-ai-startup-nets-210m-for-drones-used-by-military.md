@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/news/san-diego-ai-startup-nets-210m-for-dron
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/news/san-diego-ai-startup-nets-210m-for-drones-used-by-military?_amp=true"
 type: article
 quality: 57
-heat: 78
+heat: 77
 published: true
 
 provider:

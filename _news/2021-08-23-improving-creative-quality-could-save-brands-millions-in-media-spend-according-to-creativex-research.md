@@ -34,20 +34,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 41
-  - title: "Monolith AI Raises £8.5M in Series A Funding"
-    excerpt: "Monolith AI, a UK AI engineering software company, raised £8.5M in Series A funding. The round was led by Insight Partners with participation from existing investors Pentech and Touchstone, Alejandro Agag,"
-    publishedDateTime: 2021-08-23T14:38:00Z
-    webUrl: "https://www.finsmes.com/2021/08/monolith-ai-raises-8-5m-in-series-a-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 37
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2021/08/2021-Aug-F1-Dashboard-v1.1-1.png"
-        width: 1250
-        height: 768
-        isCached: true
   - title: "The EU’s Recently Proposed Artificial Intelligence Act Goes Too Far"
     excerpt: "The European Union is now considering what could become the world’s first comprehensive legislation on artificial intelligence (AI). The aim is to promote European leadership in emerging technology. The proposed regulation seeks to limit government involvement in surveillance,"
     publishedDateTime: 2021-08-23T16:59:00Z

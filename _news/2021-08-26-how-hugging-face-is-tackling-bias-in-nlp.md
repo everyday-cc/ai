@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/25/how-hugging-face-is-tackling-bias
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/25/how-hugging-face-is-tackling-bias-in-nlp/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 91
 published: true
 
 provider:

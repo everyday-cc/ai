@@ -8,9 +8,9 @@ webUrl: "https://www.entrepreneur.com/article/381743"
 ampWebUrl: "https://www.entrepreneur.com/amphtml/381743"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/381743"
 type: article
-quality: 87
-heat: -1
-published: false
+quality: 89
+heat: 139
+published: true
 
 provider:
   name: Entrepreneur
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://assets.entrepreneur.com/content/3x2/2000/1629955538-Untitleddesign7.jpg?width=600&crop=16:9"
@@ -46,61 +47,63 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "involve.ai Raises $16 Million in Series A Funding"
-    excerpt: "Series A financing round led by Sapphire Ventures, with participation from existing investors Bonfire Ventures, Greycroft, Launch Capital, BDMI and new"
-    publishedDateTime: 2021-08-25T12:08:00Z
-    webUrl: "https://www.lelezard.com/en/news-19967345.html"
+  - title: "Level AI lands $13M Series A to build conversational intelligence for customer service"
+    excerpt: "Level AI, an early stage startup from a former member of the Alexa product team, wants to help companies process customer service calls faster by understanding the interactions they’re having with customers in real time."
+    publishedDateTime: 2021-08-25T13:44:00Z
+    webUrl: "https://techcrunch.com/2021/08/25/level-ai-lands-13m-series-a-to-build-conversational-intelligence-for-customer-service/"
+    ampWebUrl: "https://techcrunch.com/2021/08/25/level-ai-lands-13m-series-a-to-build-conversational-intelligence-for-customer-service/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/25/level-ai-lands-13m-series-a-to-build-conversational-intelligence-for-customer-service/amp/"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 39
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 79
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1240334968.jpg?w=1024"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "7 Ways You Can Use AI to Drive Customer Loyalty"
-    excerpt: "At the most fundamental level, AI solutions free up employees to focus on tasks that need a human touch. And we’re talking roomfuls. From there, it’s a hop, skip, and a jump (performed best by people for now!"
-    publishedDateTime: 2021-08-24T05:26:00Z
-    webUrl: "https://customerthink.com/7-ways-you-can-use-ai-to-drive-customer-loyalty/"
+  - title: "5 Dutch AI companies transforming finance, healthcare and agriculture"
+    excerpt: "AI in the Netherlands is booming: A Techleap.nl 2021 report found that 10% of all registered AI start-ups worldwide are based in the Netherlands. The nation has the highest density of AI start-ups per capita in Europe. In addtion, there are a number of ..."
+    publishedDateTime: 2021-08-23T00:59:00Z
+    webUrl: "https://www.computerworld.com/article/3630648/5-dutch-ai-companies-transforming-finance-healthcare-and-agriculture.html"
     type: article
     provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 37
+      name: Computerworld
+      domain: computerworld.com
+    quality: 71
     images:
-      - url: "https://customerthink.com/wp-content/uploads/ThinkstockPhotos-166139079-ctmedia.jpg"
-        width: 1788
-        height: 1677
+      - url: "https://images.idgesg.net/images/article/2021/06/artificial_intelligence_automation_digital_brain_thinkstock_875595818-100749926-orig-100893865-large.jpg?auto=webp"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "How Dream Sports Uses Artificial Intelligence"
-    excerpt: "Our fan engagement product FanCode uses AI and ML backend framework to provide a personalised user experience to sports fans."
-    publishedDateTime: 2021-08-25T11:30:00Z
-    webUrl: "https://analyticsindiamag.com/how-dream-sports-uses-artificial-intelligence/"
+  - title: "How Does Indian Railways Leverage Artificial Intelligence to Boost Customer Experience?"
+    excerpt: "This article explores how Indian Railways leverage Artificial Intelligence to boost customer experience across India. AI models and data analytics tools are helping to incorporate Artificial Intelligence in Indian Railways."
+    publishedDateTime: 2021-08-25T07:24:00Z
+    webUrl: "https://www.analyticsinsight.net/how-does-indian-railways-leverage-artificial-intelligence-to-boost-customer-experience/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 44
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/How-Dream-Sports-Uses-Artificial-Intelligence-.jpg"
-        width: 1600
-        height: 900
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Indian-Railways-Leverage-Artificial-Intelligence-to-Boost-Customer-Experience.jpg"
+        width: 900
+        height: 500
         isCached: true
-  - title: "Involve.ai raises $16M to boost companies’ customer retention rates with AI"
-    excerpt: "Involve.ai Inc., a startup using artificial intelligence to help enterprises improve their customer retention rates, today announced that it has closed a $16 million funding round led by Sapphire Ventures."
-    publishedDateTime: 2021-08-25T19:08:00Z
-    webUrl: "https://siliconangle.com/2021/08/25/involve-ai-raises-16m-boost-companies-customer-retention-rates-ai/"
+  - title: "Nutrition and tech experts bring carb-coding power to the masses with AI startup"
+    excerpt: "A team of esteemed data scientists and performance nutritionists have joined forces to create a personalised nutrition app which brings the newly discovered power of ‘carb coding’ from the worl of elite sports,"
+    publishedDateTime: 2021-08-23T16:07:00Z
+    webUrl: "https://www.foodnavigator.com/Article/2021/08/23/Nutrition-and-tech-experts-bring-carb-coding-power-to-the-masses-with-AI-startup"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 35
+      name: FoodNavigator
+      domain: foodnavigator.com
+    quality: 34
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/unsplash-4.png"
-        width: 800
-        height: 459
+      - url: "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/nutraingredients.com/article/2021/08/23/nutrition-and-tech-experts-bring-carb-coding-power-to-the-masses-with-ai-startup/12748881-3-eng-GB/Nutrition-and-tech-experts-bring-carb-coding-power-to-the-masses-with-AI-startup.jpg"
+        width: 1290
+        height: 1065
         isCached: true
 
 secured: "tNHOVgUhbL3Ob+L/Lv3kUVA8C0QlvQKhLwCI5UNNdXG9aBerztAsXshVBNj6u5WjAZtTIri/lqjnzP1K1uv2Bm8KpuozX7AcgGEAlcwHgucA+IEjZ/rOmPeiRLhwBcug7o4mFQvx7kZnZcN8YcfRtZBZNt9Tk9aw0E4jke9ab47RB4ZEVoyPW0BjioslkYsYdbZ4TOeScFmUlntMzyYnWo3cGDR7hZNqJYcK5uVJ4VaiW1s27n/vgRXON9aceZ7RT62Rw59Lo6fmXTilSHhrdaQSq8TMp9XA6HqLGMcKpJB0M8UhmuTQyNUUisG2Mdh1txRCZoYrZLtTyTlVUVsRWzyJRqTzdfG9fA9qqLpG5x1VYR6m478/uF+Wsf6cyJoBIII4w1GuPRQDotImFLqS++VitY8jatczU5/jQnjCsC8YW5SP9RGuq0O+9+gQ0nVrGGbVOywZr8rJjKqNvyhdv/aMIW/WnwEXLG7DMkYMVOepErIEM714gjoWR0uFxBXoaaT3j793Q85Gbam6/0d57Q==;aY0+YK8lW1xw2g+Vx202Mw=="

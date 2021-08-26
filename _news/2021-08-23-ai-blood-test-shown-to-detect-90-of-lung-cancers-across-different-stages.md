@@ -38,20 +38,6 @@ related:
         width: 690
         height: 400
         isCached: true
-  - title: "Nutrition and tech experts bring carb-coding power to the masses with AI startup"
-    excerpt: "A team of esteemed data scientists and performance nutritionists have joined forces to create a personalised nutrition app which brings the newly discovered power of ‘carb coding’ from the worl of elite sports,"
-    publishedDateTime: 2021-08-23T16:07:00Z
-    webUrl: "https://www.foodnavigator.com/Article/2021/08/23/Nutrition-and-tech-experts-bring-carb-coding-power-to-the-masses-with-AI-startup"
-    type: article
-    provider:
-      name: FoodNavigator
-      domain: foodnavigator.com
-    quality: 34
-    images:
-      - url: "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/nutraingredients.com/article/2021/08/23/nutrition-and-tech-experts-bring-carb-coding-power-to-the-masses-with-ai-startup/12748881-3-eng-GB/Nutrition-and-tech-experts-bring-carb-coding-power-to-the-masses-with-AI-startup.jpg"
-        width: 1290
-        height: 1065
-        isCached: true
 
 secured: "ZS1hlRA9e9s94G0XwjwZTgfu5qOPa4uVUSzGePs+8MjrPEkFL27/et5FmCf+Ux6/+lHpiWLakxTEkN2Psw6O8nVTHYc6XAhFjJS03XUyqUDtl+KvL/HX6bsaX5zlqLpcT7iApTBqo8iPset0d0kGEVVYUFtDvtWWgFdR2oaafhWnbzPcIx0+2ZT5c/naOkZRmn83LsAloBj/6P2LcLO2dSINIAaL9KDH8drVJtWJ6BEEN/KRf85vrlyjLcheS+BxAK/8c+Eng1hL3aYUuFxMafByO1HDf8/wphha41GiZ9UGOAwG5yBW/PBo7zBaiBFJfYyz6l+9OE7yBaKgqEU8pTce9aRUnLqxFxe+R7jT+To=;eEkm9HZmk4e4jU8OXr13jQ=="
 ---

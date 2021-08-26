@@ -40,20 +40,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "How Does Indian Railways Leverage Artificial Intelligence to Boost Customer Experience?"
-    excerpt: "This article explores how Indian Railways leverage Artificial Intelligence to boost customer experience across India. AI models and data analytics tools are helping to incorporate Artificial Intelligence in Indian Railways."
-    publishedDateTime: 2021-08-25T07:24:00Z
-    webUrl: "https://www.analyticsinsight.net/how-does-indian-railways-leverage-artificial-intelligence-to-boost-customer-experience/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 44
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Indian-Railways-Leverage-Artificial-Intelligence-to-Boost-Customer-Experience.jpg"
-        width: 900
-        height: 500
-        isCached: true
   - title: "7 Best Artificial Intelligence Companies Hiring in India Right Now"
     excerpt: "Since artificial intelligence is high on demand at present, many artificial intelligence companies are looking to hire artificial intelligence professionals in their teams. Here are the best artificial intelligence companies hiring in India right now."
     publishedDateTime: 2021-08-23T09:00:00Z

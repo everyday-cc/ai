@@ -1,27 +1,26 @@
 ---
 category: news
 title: "Valued to be $4.4 Billion by 2026, Artificial Intelligence (AI) in Call Center Slated for Robust Growth Worldwide"
-excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Call Center - Global Market Trajectory & Analytics\"."
-publishedDateTime: 2021-08-26T14:40:00Z
-originalUrl: "https://www.mobilitytechzone.com/lte/news/2021/08/26/9437856.htm"
-webUrl: "https://www.mobilitytechzone.com/lte/news/2021/08/26/9437856.htm"
+excerpt: "A new market study published b Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence"
+publishedDateTime: 2021-08-26T11:55:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/valued-to-be-4-4-billion-by-2026-artificial-intelligence-ai-in-call-center-slated/article_6ad8aeb3-3803-55b1-b7e1-82aa882d4641.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/valued-to-be-4-4-billion-by-2026-artificial-intelligence-ai-in-call-center-slated/article_6ad8aeb3-3803-55b1-b7e1-82aa882d4641.html"
 type: article
-quality: 33
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Mobility Techzone
-  domain: mobilitytechzone.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - AWS AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1601532/MCP21174.jpg"
-    width: 400
-    height: 252
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/67/b675ab39-fa82-585c-8140-701a506ea2c6/6127835a26ba2.image.jpg?resize=1001%2C630"
+    width: 1001
+    height: 630
     isCached: true
 
 related:
@@ -87,6 +86,17 @@ related:
         width: 700
         height: 393
         isCached: true
+  - title: "China AI in Healthcare Market Emerging Trend, Top Companies, Industry Demand and Regional Analysis by 2025"
+    excerpt: "China s AI in healthcare market is estimated to grow significantly at a CAGR of 52 8 during the forecast period China s market has both medium and long term potential due to its large market size aging population fluctuating"
+    publishedDateTime: 2021-08-23T07:24:00Z
+    webUrl: "https://www.openpr.com/news/2363109/china-ai-in-healthcare-market-emerging-trend-top-companies"
+    ampWebUrl: "https://www.openpr.com/amp/2363109/china-ai-in-healthcare-market-emerging-trend-top-companies"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2363109/china-ai-in-healthcare-market-emerging-trend-top-companies"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 36
   - title: "Artificial Intelligence Market Share Forecast to Witness Considerable Growth from 2020 To 2030"
     excerpt: "Artificial Intelligence Market Introduction Transparency Market Research delivers key insights on the global artificial intelligence market In terms of revenue the global artificial intelligence market is estimated to expand at a CAGR of 29 during the forecast period owing to"
     publishedDateTime: 2021-08-23T14:41:00Z
@@ -154,6 +164,6 @@ related:
       domain: openpr.com
     quality: 3
 
-secured: "TfsVWZt6ensPJDC4IFNd/Z+rf2WX1RFSdAeVwjf2l6Qwj2rSM1/TXCB/7wwIxqlT6Cd9Za412Ug2Yr10OLPHjPeWBGXMwUcMSKC97qP7BC/GiCh6UH80iC/k7Jf0h63E/feHyFHG91KJgPfjoYo1l7tqyLE42xid0HLHgabTfn7qGRlUrlxywLHeG50Ea7/X6hhquw2lCeuvtCDM1Y8HCny2JQpdyL5r+2WRa9f4EEx+Q6gu+L7v2eihDl3UEjvim5G7+/mKbg0r+ZF4nrRWfJ7/wYAnQ34uhYPgmziZIqjVgEBHyLFA0jwSYp6l2GWrZc+3XKh6X0mnvq7k9YuT92y/l+ImWsdKFnWzd78vTdo=;uYkehUuCT7LPu9ci8dJsCw=="
+secured: "uZ0HxrQOU/PkUecgtjCKW2uOf6AAMZgqS67IB2LO2nemFKsvpsCy1auryLXPfM5Mr2yN6dQ+MXuZB1Td1p3toTs/yp2mbCinQIeUducfG9eXcqA4eHibHRFtpugzUMzG/FH9R/CLxWTCdXrQg1rtGuZ3eVO8ufr+KObSxwJHwSeRjZ30CkU2dIsb+KkUuJNusWYF4mvg43e2mvv2VV8e3H9Vx3yqfXVE/b5BBono0NBATIriZa0hHK9UHd8rKNgAY9UI4fsg1ObE1Fx3Zvg7laM3cszr2IKRMdhmODs3Pk4VRbd17DZZ4ubZmkngaRuMYuujwM3Ihwwwswn3zIb32iARPlxZOBF/NHn1QyguBQw=;27ukP6S/BVbacWkUv0Fnbw=="
 ---
 
