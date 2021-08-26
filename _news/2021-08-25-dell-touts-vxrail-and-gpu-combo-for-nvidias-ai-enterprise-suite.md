@@ -104,6 +104,20 @@ related:
         width: 1395
         height: 751
         isCached: true
+  - title: "Nvidia, VMware Push AI Out to the Enterprise"
+    excerpt: "With the release of AI Enterprise 1.0, Nvidia is bringing AI training and inferencing into the reach of enterprises' own data centers."
+    publishedDateTime: 2021-08-26T11:00:00Z
+    webUrl: "https://thenewstack.io/nvidia-vmware-push-ai-out-to-the-enterprise/"
+    type: article
+    provider:
+      name: thenewstack.io
+      domain: thenewstack.io
+    quality: 39
+    images:
+      - url: "https://cdn.thenewstack.io/media/2021/08/c783c87a-curve-1209392_640.jpg"
+        width: 640
+        height: 426
+        isCached: true
   - title: "Nvidia’s partnership with VMware aims to enable AI across enterprise for every workload"
     excerpt: "Nvidia Corp.’s year-long collaboration with VMware Inc. is finally bearing fruit with today’s general launch of the new Nvidia AI Enterprise platform, a suite of artificial intelligence tools and frameworks that make it possible to virtualize AI workloads and run them on Nvidia-certified server systems."
     publishedDateTime: 2021-08-24T13:54:00Z

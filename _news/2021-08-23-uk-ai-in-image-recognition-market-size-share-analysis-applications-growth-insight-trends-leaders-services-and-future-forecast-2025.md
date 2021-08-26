@@ -83,6 +83,20 @@ related:
         width: 700
         height: 393
         isCached: true
+  - title: "Valued to be $4.4 Billion by 2026, Artificial Intelligence (AI) in Call Center Slated for Robust Growth Worldwide"
+    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Call Center - Global Market Trajectory & Analytics\"."
+    publishedDateTime: 2021-08-26T12:17:00Z
+    webUrl: "https://www.lelezard.com/en/news-19969433.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 33
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Artificial Intelligence Market Share Forecast to Witness Considerable Growth from 2020 To 2030"
     excerpt: "Artificial Intelligence Market Introduction Transparency Market Research delivers key insights on the global artificial intelligence market In terms of revenue the global artificial intelligence market is estimated to expand at a CAGR of 29 during the forecast period owing to"
     publishedDateTime: 2021-08-23T14:41:00Z

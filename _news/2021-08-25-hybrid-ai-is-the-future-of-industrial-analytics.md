@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/25/hybrid-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/25/hybrid-ai-is-the-future-of-industrial-analytics/amp/"
 type: article
 quality: 91
-heat: 202
+heat: 222
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Edge AI: The Future of Artificial Intelligence and Edge Computing"
+    excerpt: "Edge AI processes algorithms locally on devices on the edge of a local network. Here is how it is transforming computing."
+    publishedDateTime: 2021-08-25T18:17:00Z
+    webUrl: "https://www.itbusinessedge.com/data-center/developments-edge-ai/"
+    type: article
+    provider:
+      name: IT Business Edge
+      domain: itbusinessedge.com
+    quality: 52
+    images:
+      - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/08/Edge-AI_-The-Future-of-AI-and-Edge-Computing.jpeg"
+        width: 600
+        height: 314
+        isCached: true
   - title: "Bodo.ai Raises $14 million Series A Funding for Data Analytics and Machine Learning"
     excerpt: "Bodo.ai, an extreme-performance parallel compute platform for data workloads, today announced it has raised $14 million in"
     publishedDateTime: 2021-08-25T21:49:00Z
@@ -108,6 +122,20 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 45
+  - title: "Artificial Intelligence as the core of logistics operation"
+    excerpt: "With that phrase, Álvaro Echeverría, co-founder and CEO of SimpliRoute, recalls the need that shaped the idea of creating an AI virtual assistant to optimize its logistics platform. The startup is dedicated to optimizing routes for dispatch vehicles."
+    publishedDateTime: 2021-08-26T11:16:00Z
+    webUrl: "https://www.mysanantonio.com/business/article/Artificial-Intelligence-as-the-core-of-logistics-16412350.php"
+    type: article
+    provider:
+      name: My San Antonio
+      domain: mysanantonio.com
+    quality: 37
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/47/10/21393968/3/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Covera Health Raises $25M in Series C Financing to Fuel Growth of Its Healthcare Quality Analytics Platform"
     excerpt: "Covera Health, the leading quality analytics company focused on improving patient care by reducing medical errors, today announced its Series C financing. The $25M funding was led by global venture capital and private equity firm Insight Partners with participation from existing investors including Equity Group Investments."
     publishedDateTime: 2021-08-23T13:02:00Z

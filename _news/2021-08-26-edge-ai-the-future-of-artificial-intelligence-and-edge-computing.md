@@ -24,129 +24,181 @@ images:
     isCached: true
 
 related:
-  - title: "This massive AI chip has the compute power of a human brain"
-    excerpt: "Cerebras Systems says that it its Cerebras CS-2 AI system is now capable of the equivalent compute power of the human brain."
-    publishedDateTime: 2021-08-24T19:33:00Z
-    webUrl: "https://www.pcworld.com/article/3630379/this-massive-ai-chip-has-the-compute-power-of-a-human-brain.html"
-    ampWebUrl: "https://www.pcworld.com/article/3630379/this-massive-ai-chip-has-the-compute-power-of-a-human-brain.amp.html"
-    cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3630379/this-massive-ai-chip-has-the-compute-power-of-a-human-brain.amp.html"
-    type: article
-    provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 106
-    images:
-      - url: "https://images.idgesg.net/images/article/2019/08/cerebras-1-100808712-large.jpg?auto=webp"
-        width: 1199
-        height: 776
-        isCached: true
-  - title: "Hot Chips Concludes An Amazing Lineup of AI Chip Companies."
-    excerpt: "I can deal with it: some technology is just beyond my pay grade. My masters in CS is decades old, and the deep technology underneath blindingly fast AI chips is often beyond my comprehension. But when I saw the lineup of companies presenting at this years ..."
-    publishedDateTime: 2021-08-24T23:03:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2021/08/24/and--thats-a-wrap-hot-chips-concludes-an-amazing-lineup-of-ai-chip-announcements/"
-    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/08/24/and--thats-a-wrap-hot-chips-concludes-an-amazing-lineup-of-ai-chip-announcements/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/08/24/and--thats-a-wrap-hot-chips-concludes-an-amazing-lineup-of-ai-chip-announcements/amp/"
+  - title: "Hybrid AI Is The Future Of Industrial Analytics"
+    excerpt: "Industrial DataOps is the starting point to solving one of the key challenges of industrial digitalization: enabling hybrid AI solutions at scale."
+    publishedDateTime: 2021-08-25T13:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/25/hybrid-ai-is-the-future-of-industrial-analytics/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/25/hybrid-ai-is-the-future-of-industrial-analytics/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/25/hybrid-ai-is-the-future-of-industrial-analytics/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 104
+    quality: 91
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611d8d46a45079d06316ca62%2F0x0.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612561eaa3ca9a4aee49f148%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "AI-Powered Video Analytics Make Cities More Livable"
+    excerpt: "Find out how AI-based video analytics are changing everything, and the importance of high accuracy in an AI-based vision system like Uncanny Vision."
+    publishedDateTime: 2021-08-24T16:30:00Z
+    webUrl: "https://www.infoworld.com/resources/223285/ai-powered-video-analytics-make-cities-more-livable"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 67
+    images:
+      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Automation Innovation: From AI and Analytics to Machine Learning and Robotics, Supply Chains Will Never be the Same Again"
+    excerpt: "A combination of intensifying customer demands and massively disruptive events such as the COVID-19 pandemic is pushing suppliers, manufacturers, distributors and retailers to embrace innovation at an unprecedented pace."
+    publishedDateTime: 2021-08-25T21:23:00Z
+    webUrl: "https://www.supplychainbrain.com/articles/33642-surviving-in-the-age-of-permanent-supply-chain-disruption-part-2-automation-innovation"
+    type: article
+    provider:
+      name: Supply Chain
+      domain: supplychainbrain.com
+    quality: 61
+    images:
+      - url: "https://www.supplychainbrain.com/ext/resources/0-videos/Gartner-2021/Gartner-webinar.jpg?height=635&t=1629927938&width=1200"
         width: 800
-        height: 503
+        height: 555
         isCached: true
-  - title: "The world’s largest chip is creating AI networks larger than the human brain"
-    excerpt: "Cerebras Systems, maker of the world’s largest chip, has lifted the lid on new architecture capable of supporting AI models that outscale the human brain. The current largest AI models (such as Switch Transformer from Google) are built on circa 1 trillion parameters,"
-    publishedDateTime: 2021-08-25T13:36:00Z
-    webUrl: "https://www.techradar.com/in/news/the-worlds-largest-chip-is-creating-ai-networks-larger-than-the-human-brain"
-    ampWebUrl: "https://www.techradar.com/in/amp/news/the-worlds-largest-chip-is-creating-ai-networks-larger-than-the-human-brain"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/the-worlds-largest-chip-is-creating-ai-networks-larger-than-the-human-brain"
+  - title: "AI is Pivotal the Future of the Autonomous Shipping"
+    excerpt: "The shipping industry is responsible for around 90% of the world’s trade distribution, carrying the likes of machinery, motors,"
+    publishedDateTime: 2021-08-23T17:27:00Z
+    webUrl: "https://www.marinelink.com/news/ai-pivotal-future-autonomous-shipping-490075"
+    ampWebUrl: "https://www.marinelink.com/amp/news/ai-pivotal-future-autonomous-shipping-490075"
+    cdnAmpWebUrl: "https://www-marinelink-com.cdn.ampproject.org/c/s/www.marinelink.com/amp/news/ai-pivotal-future-autonomous-shipping-490075"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 101
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/7GP79ZaR9WEwx5QnSBo5Eh-1200-80.jpg"
-        width: 970
-        height: 545
-        isCached: true
-  - title: "Cerebras’ CS-2 brain-scale chip can power AI models with 120 trillion parameters"
-    excerpt: "Cerebras said its CS-2 processor is a \"brain-scale\" chip that can power AI models with more than 120 trillion parameters."
-    publishedDateTime: 2021-08-24T19:00:00Z
-    webUrl: "https://venturebeat.com/2021/08/24/cerebras-cs-2-brain-scale-chip-can-power-ai-models-with-120-trillion-parameters/"
-    ampWebUrl: "https://venturebeat.com/2021/08/24/cerebras-cs-2-brain-scale-chip-can-power-ai-models-with-120-trillion-parameters/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/24/cerebras-cs-2-brain-scale-chip-can-power-ai-models-with-120-trillion-parameters/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 99
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/04/cerebras-main.jpg?w=1200&strip=all"
-        width: 1200
-        height: 668
-        isCached: true
-  - title: "Cerebras Systems Lays The Foundation For Huge Artificial Intelligence"
-    excerpt: "Cerebras extends CS-2 system and software to train a 120-Trillion-parameter model on the way to brain-scale AI."
-    publishedDateTime: 2021-08-24T07:30:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2021/08/24/cerebras-systems-creates-huge-artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/08/24/cerebras-systems-creates-huge-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/08/24/cerebras-systems-creates-huge-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611eaab4a8a155b120682f84%2F0x0.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Cerebras Systems Lays The Foundation For Huge Artificial Intelligence"
-    excerpt: "Cerebras extends CS-2 system and software to train a 120-Trillion-parameter model on the way to brain-scale AI."
-    publishedDateTime: 2021-08-24T20:06:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2021/08/24/cerebras-systems-lays-the-foundation-for-huge-artificial-intelligence/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611eaab4a8a155b120682f84%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2004%26cropY1%3D0%26cropY2%3D1128"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "BeingAI Has Unveiled a Human-Like AI"
-    excerpt: "BeingAI is giving birth to a highly sophisticated AI being, named 'Zbee'! And it's designed to function across multiple platforms in real-time."
-    publishedDateTime: 2021-08-23T18:40:00Z
-    webUrl: "https://interestingengineering.com/beingai-unveiled-human-like-ai"
-    ampWebUrl: "https://amp.interestingengineering.com/beingai-unveiled-human-like-ai"
-    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/beingai-unveiled-human-like-ai"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
+      name: Marine Link
+      domain: marinelink.com
     quality: 57
     images:
-      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/lV6DbjM1Ox/sizes/beingai-unveiled-human-like-ai_resize_md.jpg"
-        width: 744
-        height: 419
+      - url: "https://images.marinelink.com/images/maritime/w800h600pad/quardia-adobe-stock-125369.jpeg"
+        width: 800
+        height: 450
         isCached: true
-  - title: "The next phase of AI is generative"
-    excerpt: "In it's next act, AI will transform from an augmentative technology to a more direct generator of products and data, according to Gartner's 2021 Hype Cycle."
-    publishedDateTime: 2021-08-23T08:02:00Z
-    webUrl: "https://www.ciodive.com/news/gartner-hype-cycle-2021-generative-AI/605338/"
+  - title: "Bodo.ai Raises $14 million Series A Funding for Data Analytics and Machine Learning"
+    excerpt: "Bodo.ai, an extreme-performance parallel compute platform for data workloads, today announced it has raised $14 million in"
+    publishedDateTime: 2021-08-25T21:49:00Z
+    webUrl: "https://www.enterpriseai.news/2021/08/25/bodo-ai-raises-14-million-series-a-funding-for-data-analytics-and-machine-learning/"
     type: article
     provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 39
+      name: enterpriseai
+      domain: enterpriseai.news
+    quality: 50
     images:
-      - url: "https://www.ciodive.com/user_media/cache/c5/be/c5bebcd82b9d946423290834d57755de.jpg"
-        width: 770
-        height: 364
+      - url: "https://www.enterpriseai.news/wp-content/uploads/2019/03/EAI2-01-fb.png"
+        width: 1598
+        height: 840
+        isCached: true
+  - title: "Singapore fashion analytics firm acquires Malaysia AI startup in $20m deal"
+    excerpt: "The acquisition of Supahands would help Omnilytics fill a gap in its existing tech offerings for retail firms."
+    publishedDateTime: 2021-08-25T04:17:00Z
+    webUrl: "https://www.techinasia.com/singapore-crypto-startup-unicorn-2-years/next"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 45
+  - title: "Singapore fashion analytics firm acquires Malaysia AI startup in $20m deal"
+    excerpt: "“Accelerating the adoption of AI is at the heart of our business at Supahands, having witnessed firsthand the tangible benefits that AI and machine learning can bring to our clients as they strengthen the different pillars of their business from ..."
+    publishedDateTime: 2021-08-26T02:27:00Z
+    webUrl: "https://www.techinasia.com/singapore-fashion-analytics-firm-omnilytics-acquires-malaysia-ai-startup-supahands-20m-deal?ref=recommender-703423"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 45
+  - title: "Artificial Intelligence as the core of logistics operation"
+    excerpt: "With that phrase, Álvaro Echeverría, co-founder and CEO of SimpliRoute, recalls the need that shaped the idea of creating an AI virtual assistant to optimize its logistics platform. The startup is dedicated to optimizing routes for dispatch vehicles."
+    publishedDateTime: 2021-08-26T11:16:00Z
+    webUrl: "https://www.mysanantonio.com/business/article/Artificial-Intelligence-as-the-core-of-logistics-16412350.php"
+    type: article
+    provider:
+      name: My San Antonio
+      domain: mysanantonio.com
+    quality: 37
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/47/10/21393968/3/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Covera Health Raises $25M in Series C Financing to Fuel Growth of Its Healthcare Quality Analytics Platform"
+    excerpt: "Covera Health, the leading quality analytics company focused on improving patient care by reducing medical errors, today announced its Series C financing. The $25M funding was led by global venture capital and private equity firm Insight Partners with participation from existing investors including Equity Group Investments."
+    publishedDateTime: 2021-08-23T13:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-08ae26b203374af0810bc483579064cd"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 36
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Airbus’ UP42 Partners with Indian Startup for AI-based Satellite Imagery Analytics"
+    excerpt: "UP42, a geospatial developer platform and marketplace wholly owned by Airbus, has partnered with Indian startup HyperVerge to offer satellite"
+    publishedDateTime: 2021-08-23T00:00:00Z
+    webUrl: "https://www.gim-international.com/content/news/airbus-up42-partners-with-indian-startup-for-ai-based-satellite-imagery-analytics"
+    type: article
+    provider:
+      name: GIM International
+      domain: gim-international.com
+    quality: 31
+    images:
+      - url: "https://www.gim-international.com/cache/4/0/1/3/2/40132ecf9648caf939a3ab8ef4af2e00deb6f24d.png"
+        width: 680
+        height: 408
+        isCached: true
+  - title: "Bodo.ai Raises $14 million Series A to Revolutionize Simplicity, Performance and Scale for Data Analytics and Machine Learning"
+    excerpt: "Bodo.ai, the extreme-performance parallel compute platform for data workloads, today announced it has raised $14 million in Series A funding led by Dell Technologies Capital, with participation from Uncorrelated Ventures,"
+    publishedDateTime: 2021-08-25T13:06:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-science-44ab0387cf224592b1a36bf1293d9533"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 28
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "A $28.4 Billion Global Opportunity for Cognitive Analytics by 2026 - New Research from StrategyR"
+    excerpt: "A new market study published b Inc., (GIA) the premier market research company, today released its report titled \"Cognitive Analytics"
+    publishedDateTime: 2021-08-24T15:40:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/a-28-4-billion-global-opportunity-for-cognitive-analytics-by-2026---new-research/article_f3667170-a840-525d-b39e-70f58b7ce4e2.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 11
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/7/ca/7ca68c5b-9b95-5222-b3e6-dc6506bc6976/61251435c0d9d.image.jpg?resize=931%2C630"
+        width: 931
+        height: 630
+        isCached: true
+  - title: "A $28.4 Billion Global Opportunity for Cognitive Analytics by 2026 - New Research from StrategyR"
+    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Cognitive Analytics - Global Market Trajectory & Analytics\"."
+    publishedDateTime: 2021-08-24T17:05:00Z
+    webUrl: "https://www.mobilitytechzone.com/lte/news/2021/08/24/9436561.htm"
+    type: article
+    provider:
+      name: Mobility Techzone
+      domain: mobilitytechzone.com
+    quality: 11
+    images:
+      - url: "https://mma.prnewswire.com/media/1599563/MCP11132.jpg"
+        width: 400
+        height: 271
         isCached: true
 
 secured: "Mh+PIl0qEWcwSTDHQjIJ9tFNm//cmWllPK7xWiil1RJhTZw9OsvJhJPPMFD8/M+Lffoi6PD4Es42IdFhMkrZmjiqzROs+T86k0H36YaXwnXHWwNR3eT5QXn+wliUtbJUyjM1DyKo6e1X3El/dTOdRSvLAhbmTR2u/4/Az8CgkOd9iA/3veVs5U9dY/tv3fcd6FvaRGCIepF8P5DWOQrhOcirzvmG25oOtCHYA2FVHPpx4tbw1xITDU9wVkYSxxL5lwg/AFXN+Giify0N/IiD7le8QdBe6c+DBI5X9QrjrmvckAKxSHqMEEBdV1TgsuY76B/VcEhSanTkAMmFXLZ//PygdNcuEyD1Bk80tAvcUuR4dT5OQzJkVbm4YiI9m5MIJIRPCKBkjGzKWPc3VQBdZi9+G5rARRLz1k3Bw17ym11pQDC0Q3hWxODRTTk7tjD7M+Witfdx4+OTJS+mdvLw7x1V3DOLAXUGMGaDMAH0Nn87cAYdCPnS1ulPFW/Wb/U+0gj9IWGtOI4UvzHx3fLnsg==;xKxpde8ZOFR9pPqFkEMM5A=="

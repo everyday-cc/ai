@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/08/24/alethea-ai-raises-16m-in-private-tok
 ampWebUrl: "https://venturebeat.com/2021/08/24/alethea-ai-raises-16m-in-private-token-sale-for-intelligent-nfts-for-the-metaverse/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/24/alethea-ai-raises-16m-in-private-token-sale-for-intelligent-nfts-for-the-metaverse/amp/"
 type: article
-quality: 81
-heat: 84
+quality: 181
+heat: 184
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 645
     isCached: true
 
-secured: "prv7kwD7U9VxSLbfgWc5QpRIeMQgz/QdGN9OMbYnNxrd0p6r5h68gBTfQ/NnWb8YF7IoHO0TWElhYZ9lMToTV2zt+Xx7qWW2UKdy2DOZgMq/Gl/RTl25eb0oWVhIJdUHrUenQZiASOwZ2dSL8l8jtdqtPD6HfNywPfLn/nBPdQb6iPYE47cEwGDKBtj7v2b16c0dg1c0Axxol9EGrTXnvQpKFs+KNnXJ2qig9fF3CAOac4OoMBQWygcYms7U+X0RcbqxY4v6j/xK6yht3/HEyHKf3LkJirLeM2uXZAwSDZOQxRP0cgxa5Yn2uja7m9hE+ONhHanp6AuQWYcbRr5F0+7SOc3kzdd9eZPEB9wJfzs25rSnDjgqlq6dMGpDS9aOrmP7eldmkBorSN5CSV0GO4xS9cGX3P7tscXurXgdbfypPMKt0gzW8bOWpJFUN/IvHSHRw1QA1LBkwIZTVpEkhkwJGc0gaOc1H/9H6+AHMRV14a0YI7/EGo0bCmFdqgqhUNjcD2yRNMbiQGustAwjZg==;z5+jET2c47fdPvbMUt8VRQ=="
+secured: "9sPrXRPtJrQUVZ60PMgx5f9DvK59D5/ebhhVjUga8NNWk3dhqhNdNVqyUNgw0B9UUL3SsuFayRl51zUHzlAd6oLn6duSx6xe2GIGw21OhcPV0SwGc3/pyGc2I1rgM2u3PMRny6Zkym7c3WZ6dTPzmG7bdx+scJNIcQT11uz5jp1F84xtM2AIMZQ930ofN/Zvcd9+fuRcoAzVdiWjDbIvxc2RGVTfQuQpVlmypcDbpWTOtAjo2x/nuRECZCmckW8SztXayQaRL22WzQTBNBA9T0PiyKMp47JM4YFKkJ/f4j9RvR88PupernhrPfJHJXXuwP6kBJsMgLGEHOKkUjlMKv6+YTFxKq0uqA01rS+4bRwDwGdNIkYeQEy+E4Ig3HQ/MaygbsGkjN9+gmN0eEvjxF5Uyx+wff+4cfX8/IhsDKd8cfAy5BWfdWk3qiKOtyHfxvGTusHiX1MmXGcqCzA7vrOqKRhM2D5ccXH4ADok8eID1J2WSi7jCrvYJBSQ0c7wcDUb5PRZn9Jp4kZ0lD0CJA2HTPUokP517+Og+Qzq0bs=;v5Yrh/nnnE8VzCcRn6ryGQ=="
 ---
 

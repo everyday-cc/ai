@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/24/nvidia-launches-ai-enterprise-in-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/24/nvidia-launches-ai-enterprise-in-general-availability/amp/"
 type: article
 quality: 89
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -99,6 +99,20 @@ related:
       - url: "https://i.nextmedia.com.au/News/20210826062328_AI_brain.jpg"
         width: 1395
         height: 751
+        isCached: true
+  - title: "Nvidia, VMware Push AI Out to the Enterprise"
+    excerpt: "With the release of AI Enterprise 1.0, Nvidia is bringing AI training and inferencing into the reach of enterprises' own data centers."
+    publishedDateTime: 2021-08-26T11:00:00Z
+    webUrl: "https://thenewstack.io/nvidia-vmware-push-ai-out-to-the-enterprise/"
+    type: article
+    provider:
+      name: thenewstack.io
+      domain: thenewstack.io
+    quality: 39
+    images:
+      - url: "https://cdn.thenewstack.io/media/2021/08/c783c87a-curve-1209392_640.jpg"
+        width: 640
+        height: 426
         isCached: true
   - title: "Dell touts VxRail and GPU combo for Nvidia’s AI Enterprise suite"
     excerpt: "Dell's HCI platform is certified for accelerating workloads with Nvidia’s newly available AI Enterprise software suite."

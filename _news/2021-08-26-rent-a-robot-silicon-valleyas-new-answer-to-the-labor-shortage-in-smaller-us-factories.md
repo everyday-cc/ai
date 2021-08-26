@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Rent-a-robot: Silicon Valley’s new answer to the labor shortage in smaller U.S. factories"
+    excerpt: "Silicon Valley has a new pitch to persuade small companies to automate: rent-a-robot. Better technology and the need to pay higher wages to humans have produced a surge in sales of robots to big companies all across America."
+    publishedDateTime: 2021-08-26T10:14:00Z
+    webUrl: "https://www.metro.us/rent-a-robot-silicon-valleys-new/"
+    ampWebUrl: "https://www.metro.us/rent-a-robot-silicon-valleys-new/amp/"
+    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/rent-a-robot-silicon-valleys-new/amp/"
+    type: article
+    provider:
+      name: Metro US
+      domain: metro.us
+    quality: 50
+    images:
+      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2021binary_LYNXMPEH7P0CY-BASEIMAGE.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Factbox-Investors Are Betting on Rent-A-Robot Startups in Silicon Valley"
     excerpt: "Silicon Valley has a new pitch for small U.S. manufacturers struggling with hiring workers but wary of the high costs of high tech: rent-a-robot. Much of the initial risk and cost are taken on by the robot companies."
     publishedDateTime: 2021-08-26T10:27:00Z
@@ -34,6 +50,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 48
+  - title: "Rent-a-robot: Silicon Valley’s new answer to the labour shortage in smaller US factories"
+    excerpt: "Silicon Valley has a new pitch to persuade small companies to automate: rent-a-robot. Better technology and the need to pay higher wages to humans have produced a surge in sales of robots to big companies all across America."
+    publishedDateTime: 2021-08-26T11:55:00Z
+    webUrl: "https://www.channelnewsasia.com/business/rent-robot-silicon-valleys-new-answer-labour-shortage-smaller-us-factories-2137457"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 30
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s---lhSRLjt--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_338%2Cw_600/v1/one-cms/core/2021-08-26t101348z_1_lynxmpeh7p0d2_rtroptp_3_usa-robots-manufacturing.jpg?itok=4S77uP2D"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "UmzQza7LQZZlK6uw5rGeQ/3mo4ONqi0BJMWVeXLTCzTg0ZSlicq7CDsKAnvE/JuEcaUUI7YokX1ziAkKwB4M6Ad1DWzrC956rqIWgwlNek1xFG29AHLlmAmmeBRCNeckRu1ofToMv00XpfSSXvxmhpwnAbGygRTBy1FuUcgRCJraW/iDeEiScqITPus5zg9EmROdbrnbo/SFsTNlZ9QU8lMPe9Qs5kkhOByBS1n2y5Sl0wUNODJvLaCAMTgboyS3e4ylt7CdVds7EaxPK7WMjt6bt50HJWrp2GlYsyoOthMzW0arb93bHg/QE583VrCpv8qAVxVvCzIGaWkzwvgPNi9gYK8aNC+udP4pgyV64do=;K3IaYIctUVqynUd3DrjJxg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/news/san-diego-ai-startup-nets-210m-for-dron
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/news/san-diego-ai-startup-nets-210m-for-drones-used-by-military?_amp=true"
 type: article
 quality: 57
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Rare Defense unicorn: San Diego AI startup corrals $210M for drone technology used by military"
-    excerpt: "Latest funding round gives Shield AI, co-founded by a former Navy Seal who served in Afghanistan, a valuation over $1 billion."
-    publishedDateTime: 2021-08-25T01:44:00Z
-    webUrl: "https://www.sandiegouniontribune.com/business/technology/story/2021-08-24/rare-defense-unicorn-san-diego-ai-startup-corrals-210m-for-drone-technology-used-by-military"
-    ampWebUrl: "https://www.sandiegouniontribune.com/business/technology/story/2021-08-24/rare-defense-unicorn-san-diego-ai-startup-corrals-210m-for-drone-technology-used-by-military?_amp=true"
-    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/technology/story/2021-08-24/rare-defense-unicorn-san-diego-ai-startup-corrals-210m-for-drone-technology-used-by-military?_amp=true"
-    type: article
-    provider:
-      name: San Diego Union-Tribune
-      domain: sandiegouniontribune.com
-    quality: 45
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/e6a0973/2147483647/strip/true/crop/3251x2174+169+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F3a%2Ff0%2F3784d917440fb42292a048478372%2Fqualcomm-drone-platform.jpg"
-        width: 320
-        height: 214
-        isCached: true
   - title: "San Diego AI startup corrals $210M for drone technology used by military"
     excerpt: "Shield's artificial intelligence-enabled drones have been used in actual Middle East conflict zones by the U.S. military for the past three years, according to the company."
     publishedDateTime: 2021-08-25T20:18:00Z

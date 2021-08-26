@@ -97,22 +97,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla is building a humanoid robot based on self-driving technology"
-    excerpt: "Tesla boss Elon Musk says his electric vehicle company is building a humanoid robot. The South African tech entrepreneur revealed the news at Tesla’s ‘AI Day’, which was largely a presentation about the firm’s self-driving vehicle technology."
-    publishedDateTime: 2021-08-22T08:00:00Z
-    webUrl: "https://www.irishexaminer.com/motoring/arid-40363796.html"
-    ampWebUrl: "https://www.irishexaminer.com/motoring/arid-40363796.html?type=amp"
-    cdnAmpWebUrl: "https://www-irishexaminer-com.cdn.ampproject.org/c/s/www.irishexaminer.com/motoring/arid-40363796.html?type=amp"
-    type: article
-    provider:
-      name: Irish Examiner
-      domain: irishexaminer.com
-    quality: 76
-    images:
-      - url: "https://www.irishexaminer.com/cms_media/module_img/5229/2614661_1_googlediscover_047003fb-2870-4752-a495-e722e2ff407a.jpg.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Tesla's Full Self Driving system 'not great,' admits Musk"
     excerpt: "Tesla CEO Elon Musk has admitted that the Full Self-Driving system is not that great, adding that the company is trying for a single tech platform for both highway and city streets to make"
     publishedDateTime: 2021-08-26T10:39:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/08/24/waymo-opens-self-driving-car-tes
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/08/24/waymo-opens-self-driving-car-testing-to-some-san-francisco-residents.html"
 type: article
 quality: 159
-heat: 269
+heat: 279
 published: true
 
 provider:
@@ -151,6 +151,20 @@ related:
       name: Motor Authority
       domain: motorauthority.com
     quality: 39
+    images:
+      - url: "https://images.hgmsites.net/hug/waymo-self-driving-car-prototype-in-san-francisco-california_100803730_h.jpg"
+        width: 1920
+        height: 1099
+        isCached: true
+  - title: "Waymo's self-driving Jaguar I-Pace electric cars are ready for passengers"
+    excerpt: "San Francisco riders will have a self-driving electric car do the driving—although an \"autonomous specialist\" will be onboard."
+    publishedDateTime: 2021-08-26T12:00:00Z
+    webUrl: "https://www.greencarreports.com/news/1133368_waymo-s-self-driving-jaguar-i-pace-electric-cars-are-ready-for-passengers"
+    type: article
+    provider:
+      name: Green Car Reports
+      domain: greencarreports.com
+    quality: 38
     images:
       - url: "https://images.hgmsites.net/hug/waymo-self-driving-car-prototype-in-san-francisco-california_100803730_h.jpg"
         width: 1920

@@ -36,11 +36,25 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 82
+    quality: 182
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2021/08/oto.jpg?w=1200&strip=all"
         width: 1200
         height: 736
+        isCached: true
+  - title: "Fetch.ai launches platform for AI-generated collaborative NFT art"
+    excerpt: "“Fetch.ai’s NFT platform is unique in that the true ... We are holding our third cloud startup showcase on Sept. 22. Click here to join the free and open Startup Showcase event."
+    publishedDateTime: 2021-08-24T13:00:00Z
+    webUrl: "https://siliconangle.com/2021/08/24/fetch-ai-launches-nft-platform-ai-generated-collaborative-art/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/fetch-ai-nft-art-examples.jpg"
+        width: 700
+        height: 394
         isCached: true
 
 secured: "de9RY4hI1jrPsnQYg2ul1wzKb3Jz/xZGwbQZY+0de3IkWGLwn3yHpf5FgprVHwLomWg402bVPsK3TeIc8aEIUMra0ULD82s3pratdhwjdO26K46gG2DojKIm8w22X4/Ldm1KimBnyDTkI0QYHWnZxf8JIGBimPKlgPsfz1wTxmB4lGLhlZwHHnQjzdgotiAZEIl7KqKSd8uB2GAn0RAGvFVCc3jHUtrk70jmDhUhZqf65o47oHLoykyRB4KWaOsFo2Wq0F/YIqDql8k9rWafGQtfnR+dOqk9MsSpvdTtV8BojeEC1seYkMRleRjpqFot7qzaS8KP/9jF0lRpIiHhGLEGFdzQg1i/pPhiwBAQ8AA=;rT8ZsUQo4Y3Iswu1oglHSA=="

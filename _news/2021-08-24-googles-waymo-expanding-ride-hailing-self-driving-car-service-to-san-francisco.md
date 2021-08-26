@@ -155,6 +155,20 @@ related:
         width: 1920
         height: 1099
         isCached: true
+  - title: "Waymo's self-driving Jaguar I-Pace electric cars are ready for passengers"
+    excerpt: "San Francisco riders will have a self-driving electric car do the driving—although an \"autonomous specialist\" will be onboard."
+    publishedDateTime: 2021-08-26T12:00:00Z
+    webUrl: "https://www.greencarreports.com/news/1133368_waymo-s-self-driving-jaguar-i-pace-electric-cars-are-ready-for-passengers"
+    type: article
+    provider:
+      name: Green Car Reports
+      domain: greencarreports.com
+    quality: 38
+    images:
+      - url: "https://images.hgmsites.net/hug/waymo-self-driving-car-prototype-in-san-francisco-california_100803730_h.jpg"
+        width: 1920
+        height: 1099
+        isCached: true
   - title: "Waymo is Now Picking Up Riders in its Self-Driving Robotaxis in San Francisco"
     excerpt: "Alphabet’s autonomous driving division Waymo, which spun out of Google’s self-driving car project, has launched its commercial robotaxi service in San Francisco for a select group of early testers. The company was approved to begin picking up passengers in its driverless vehicles for the first time in the city after extensively testing its technology using safety drivers behind the wheel."
     publishedDateTime: 2021-08-24T17:00:00Z

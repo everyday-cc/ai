@@ -7,7 +7,7 @@ originalUrl: "https://www.bmc.com/blogs/ai-human-augmentation/"
 webUrl: "https://www.bmc.com/blogs/ai-human-augmentation/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Beware Artificial Intelligence and its desire to be human!"
-    excerpt: "Most patent laws around the world make it clear that in order to apply for a patent the inventor must be a human and not a machine."
-    publishedDateTime: 2021-08-23T09:26:00Z
-    webUrl: "https://www.thelawyer.com/knowledge-bank/white-paper/beware-artificial-intelligence-and-its-desire-to-be-human/"
+  - title: "Opinion: How AI’s growing influence can make humans less moral"
+    excerpt: "Today, we increasingly interact with machines powered by artificial intelligence – AI-powered smart toys as well as AI-driven social media platforms that affect our preferences. Could machines be bad apples?"
+    publishedDateTime: 2021-08-24T05:05:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/08/24/opinion-how-ais-growing-influence-can-make-humans-less-moral"
     type: article
     provider:
-      name: The Lawyer
-      domain: thelawyer.com
+      name: The Star
+      domain: thestar.com.my
     quality: 37
     images:
-      - url: "https://thelawyer.imgix.net/content/uploads/2018/07/17091722/The-Lawyer_Careers_980x600-4-485x297.png"
-        width: 485
-        height: 297
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/08/24/1267138.jpeg"
+        width: 1240
+        height: 778
         isCached: true
   - title: "THE PARABLE OF THE ALIEN AI AND HOW THE HUMANS WON THE WAR"
     excerpt: "THE PARABLE OF THE ALIEN AI AND HOW THE HUMANS WON THE WAR Article by Kerry Cassidy, Project Camelot So they link you up to the Borg by way of the nano in the VAXES and TESTS…the reality is the Borg is studying"

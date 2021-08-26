@@ -84,20 +84,6 @@ related:
         width: 1788
         height: 1677
         isCached: true
-  - title: "Fetch.ai launches platform for AI-generated collaborative NFT art"
-    excerpt: "“Fetch.ai’s NFT platform is unique in that the true ... We are holding our third cloud startup showcase on Sept. 22. Click here to join the free and open Startup Showcase event."
-    publishedDateTime: 2021-08-24T13:00:00Z
-    webUrl: "https://siliconangle.com/2021/08/24/fetch-ai-launches-nft-platform-ai-generated-collaborative-art/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/fetch-ai-nft-art-examples.jpg"
-        width: 700
-        height: 394
-        isCached: true
   - title: "Involve.ai raises $16M to boost companies’ customer retention rates with AI"
     excerpt: "Involve.ai Inc., a startup using artificial intelligence to help enterprises improve their customer retention rates, today announced that it has closed a $16 million funding round led by Sapphire Ventures."
     publishedDateTime: 2021-08-25T19:08:00Z

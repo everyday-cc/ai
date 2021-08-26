@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/cerebras-prepares-for-the-era-of-120-trillion-parameter-neural-networks/"
 type: article
 quality: 91
-heat: 101
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -32,6 +32,52 @@ images:
     isCached: true
 
 related:
+  - title: "Cerebras’ CS-2 brain-scale chip can power AI models with 120 trillion parameters"
+    excerpt: "Cerebras said its CS-2 processor is a \"brain-scale\" chip that can power AI models with more than 120 trillion parameters."
+    publishedDateTime: 2021-08-24T19:00:00Z
+    webUrl: "https://venturebeat.com/2021/08/24/cerebras-cs-2-brain-scale-chip-can-power-ai-models-with-120-trillion-parameters/"
+    ampWebUrl: "https://venturebeat.com/2021/08/24/cerebras-cs-2-brain-scale-chip-can-power-ai-models-with-120-trillion-parameters/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/24/cerebras-cs-2-brain-scale-chip-can-power-ai-models-with-120-trillion-parameters/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 99
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/04/cerebras-main.jpg?w=1200&strip=all"
+        width: 1200
+        height: 668
+        isCached: true
+  - title: "Cerebras Systems Lays The Foundation For Huge Artificial Intelligence"
+    excerpt: "Cerebras extends CS-2 system and software to train a 120-Trillion-parameter model on the way to brain-scale AI."
+    publishedDateTime: 2021-08-24T07:30:00Z
+    webUrl: "https://www.forbes.com/sites/karlfreund/2021/08/24/cerebras-systems-creates-huge-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/08/24/cerebras-systems-creates-huge-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/08/24/cerebras-systems-creates-huge-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611eaab4a8a155b120682f84%2F0x0.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Cerebras Systems Lays The Foundation For Huge Artificial Intelligence"
+    excerpt: "Cerebras extends CS-2 system and software to train a 120-Trillion-parameter model on the way to brain-scale AI."
+    publishedDateTime: 2021-08-24T20:06:00Z
+    webUrl: "https://www.forbes.com/sites/karlfreund/2021/08/24/cerebras-systems-lays-the-foundation-for-huge-artificial-intelligence/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 69
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611eaab4a8a155b120682f84%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2004%26cropY1%3D0%26cropY2%3D1128"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Cerebras Systems Announces World’s First Brain-Scale Artificial Intelligence Solution"
     excerpt: "Cerebras Systems, the pioneer in innovative compute solutions for Artificial Intelligence (AI), today unveiled the world’s first brain-scale AI solution. The human brain contains on the order of 100 trillion synapses."
     publishedDateTime: 2021-08-24T23:00:00Z
@@ -41,6 +87,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 29
+  - title: "Cerebras Systems Announces World's First Brain-Scale Artificial Intelligence Solution"
+    excerpt: "Technology Breakthroughs Enable Training of 120 Trillion Parameters on Single CS-2, Clusters of up to 163 Million Cores with Near Linear Scaling, Push Button Cluster Configuration, Unprecedented Spars"
+    publishedDateTime: 2021-08-26T12:45:00Z
+    webUrl: "https://www.design-reuse.com/news/50495/cerebras-brain-scale-artificial-intelligence-solution.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 27
 
 secured: "oD8VwL9kgYXLNCN7Ot15A8PttUOTmqLSIQ55afJR94Yzsr2yBo0xMsiFTG/B7ShtQXrlhq7qBIOIAG+oSjMZ+pkDoqn5iSIVJWiyUKNiWvPk0R1fYCOvZq/Tfs8kNQkZaaBNNIF+F0VBKuaCDGT4TvwW7R/gfEibfRgCC/bpTItK75TYFxLEjNGj2XBYLit5Ucl5lCJ9xEvhJhXEcarGdxV4g5Oy7tIHBjHurElHWVcB2qMBrX1b85JQ9jiz91VJrFKXqcnEr2eJOb03eQRwUWLQNMojLMyUqWBgQLw5R/1ApguhRVobjqYTWbIhM3i7ZY28p40wQ9v7INY0ZQ8VGgqgmWMxXjcpp9VY2oGsJp36/+5J/y4+B8ZYwStKiWU59kuXDNSnLT3zPZorImCdNJUdMItOd7bQWtnfP7XP1y4phX3SNnpq8TZzMmoG/8CheU+1fRoLsFrm3gDV6Kx7YjvkUOSFb+v2/lxPq0GzwMbYCU1jDkjbyB8vwXlLa9zOkjVMUlOamM5m5I25+r2mOg==;HCqZbIzS/O/s8f70cfGGcg=="
 ---

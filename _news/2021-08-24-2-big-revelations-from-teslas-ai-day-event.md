@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/08/23/2-big-revelations-from
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/08/23/2-big-revelations-from-tesla-ai-day-event/"
 type: article
 quality: 104
-heat: 224
+heat: 184
 published: true
 
 provider:
@@ -74,38 +74,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 84
-  - title: "Tesla reveals new plan to build robots"
-    excerpt: "Tesla is now working on human-like robots. According to the company's website, the robots would be used for tasks that are considered \"unsafe, repetitive or boring.\" For the project, Tesla said it's searching for mechanical,"
-    publishedDateTime: 2021-08-21T19:54:00Z
-    webUrl: "https://www.wtkr.com/news/national/tesla-reveals-new-robot"
-    ampWebUrl: "https://www.wtkr.com/news/national/tesla-reveals-new-robot?_amp=true"
-    cdnAmpWebUrl: "https://www-wtkr-com.cdn.ampproject.org/c/s/www.wtkr.com/news/national/tesla-reveals-new-robot?_amp=true"
-    type: article
-    provider:
-      name: WTKR.com
-      domain: wtkr.com
-    quality: 76
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/1878d93/2147483647/strip/true/crop/5530x3111+0+125/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fcb%2Fa6%2F68804c7e4693a0e226ff5daf731f%2Fap21207771303544.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Massive AI Project Will Supercharge Tesla Stock"
-    excerpt: "Tesla (TSLA) is on the verge of a game-changing breakthrough in machine learning yet the only thing people are talking about is its plan for a stupid humanoid robot. Executives at the electric vehicle company on Thursday held an artificial intelligence day."
-    publishedDateTime: 2021-08-23T17:16:00Z
-    webUrl: "https://www.thestreet.com/tech/news/teslajdm082321"
-    ampWebUrl: "https://www.thestreet.com/tech/.amp/news/teslajdm082321"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/tech/.amp/news/teslajdm082321"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 76
-    images:
-      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTgzMzU1MDk2MTg3MjgyODUw/tesla-fsd-beta-elon-musk-1280x720.jpg"
-        width: 620
-        height: 349
-        isCached: true
   - title: "Could Tesla Mass Produce Dojo AI Cloud Systems"
     excerpt: "Tesla revealed its Exapod Dojo supercomputer made from 10 cabinets of servers. Each rack has 6 tiles with 9 Petaflops in each tile. Each cabinet is 100"
     publishedDateTime: 2021-08-23T06:38:00Z
@@ -135,34 +103,6 @@ related:
       - url: "https://cdn2.techhq.com/wp-content/uploads/2021/08/Tesla-AI-Day-2021-15-1200x675-1.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "A|I: The AI Times – Tesla promised a robot"
-    excerpt: "With more and more AI built on top of a few powerful models, bias and other flaws can rapidly spread. Careful review in an academic environment could help. Wisedocs’ CEO and founder Connor Atchison told BetaKit the startup recently changed its name to ..."
-    publishedDateTime: 2021-08-25T09:31:00Z
-    webUrl: "https://betakit.com/ai-the-ai-times-tesla-promised-a-robot/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 71
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2019/04/franck-v-740564-unsplash-1-e1555351354855.jpg"
-        width: 1200
-        height: 801
-        isCached: true
-  - title: "Tesla Bot, a Humanoid Robot that Leverages Vehicle Artificial Intelligence"
-    excerpt: "Tesla has said that it plans to create a Humanoid Robot that can do basic tasks. As part of the presentation, a person dressed as the machine performed Robotics motions and then danced onstage. Musk soon emphasized that the dancer was not a true Robot."
-    publishedDateTime: 2021-08-25T13:30:00Z
-    webUrl: "https://www.analyticsinsight.net/tesla-bot-a-humanoid-robot-that-leverages-vehicle-artificial-intelligence/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 69
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Tesla-Bot-a-humanoid-robot-that-leverages-vehicle-Artificial-Intelligence.jpg"
-        width: 900
-        height: 500
         isCached: true
   - title: "Tesla launches DOJO chip of artificial intelligence training computer"
     excerpt: "Tesla launches artificial intelligence training computer DOJO chip] on 20 August, Tesla officially launched his artificial intelligence training computer DOJO chip. It is understood that Musk first mentioned DOJO,"

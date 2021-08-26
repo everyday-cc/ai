@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/25/involve-ai-boosts-ai-driven-custo
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/25/involve-ai-boosts-ai-driven-customer-data-platform-with-16m/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -73,20 +73,6 @@ related:
       - url: "https://customerthink.com/wp-content/uploads/ThinkstockPhotos-166139079-ctmedia.jpg"
         width: 1788
         height: 1677
-        isCached: true
-  - title: "Fetch.ai launches platform for AI-generated collaborative NFT art"
-    excerpt: "“Fetch.ai’s NFT platform is unique in that the true ... We are holding our third cloud startup showcase on Sept. 22. Click here to join the free and open Startup Showcase event."
-    publishedDateTime: 2021-08-24T13:00:00Z
-    webUrl: "https://siliconangle.com/2021/08/24/fetch-ai-launches-nft-platform-ai-generated-collaborative-art/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/fetch-ai-nft-art-examples.jpg"
-        width: 700
-        height: 394
         isCached: true
   - title: "How Dream Sports Uses Artificial Intelligence"
     excerpt: "Our fan engagement product FanCode uses AI and ML backend framework to provide a personalised user experience to sports fans."

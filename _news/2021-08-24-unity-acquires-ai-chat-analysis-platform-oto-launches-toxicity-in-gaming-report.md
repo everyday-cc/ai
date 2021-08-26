@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/08/24/unity-acquires-ai-chat-analysis-plat
 ampWebUrl: "https://venturebeat.com/2021/08/24/unity-acquires-ai-chat-analysis-platform-oto-launches-toxicity-in-gaming-report/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/24/unity-acquires-ai-chat-analysis-platform-oto-launches-toxicity-in-gaming-report/amp/"
 type: article
-quality: 82
-heat: 92
+quality: 182
+heat: 202
 published: true
 
 provider:
@@ -46,7 +46,21 @@ related:
         width: 1000
         height: 581
         isCached: true
+  - title: "Fetch.ai launches platform for AI-generated collaborative NFT art"
+    excerpt: "“Fetch.ai’s NFT platform is unique in that the true ... We are holding our third cloud startup showcase on Sept. 22. Click here to join the free and open Startup Showcase event."
+    publishedDateTime: 2021-08-24T13:00:00Z
+    webUrl: "https://siliconangle.com/2021/08/24/fetch-ai-launches-nft-platform-ai-generated-collaborative-art/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/fetch-ai-nft-art-examples.jpg"
+        width: 700
+        height: 394
+        isCached: true
 
-secured: "34/JbXqjonk+x0YOFLcB3g21MwuPngCVh17lqeWUH/TH+mUGyhHfZvTHpCkURhXRPsHIFEjhYCiFRhdQFizonkCL5c4Bgh1XN4acYWN7ul+WRichZtGeFlcS+idx5FrNJeRTn34MuVg35JDOwZmFCKY71c777rmkwACcXA07oLGrME2kiS9hTlmRPtGZi0+92NjeJIyVRKXuUMBFc4RBTyuzJ7BFwglgTwlohEBbKAuKzTJI7/3pDMaJuEtcENs91sT2evky244M/aFMVPCLNMfoRWHsPbqXTE6cSetUFrBgmGrGJXyCyNkP6n5cWWNhBgG3JJ4/l+HW9E1QPPOR2F3FVTirUTQizkpJ4JLWJBUi6JzSSyA3sw51OrHOxg50xHrsq4yLtpFAVOvNXuNFAOG4krtHT7LlLZrQjA/QBtsAcs/3r/6JlHyeNqb2+kxgInSPbBRJYzTvRT0GeT5iPglgVncFlyJIod4TnkBz/CmdYJJ8ySkeldUMZ8nvTFUBjc9KviVyVGqTHJoY8XVLwQ==;xMb6p+K/lEqLZNViYXMwvw=="
+secured: "tjr0RuBM6Y+tDancA+iUcwLG//wglQOyencW9wqgJV6Lt9fxD+f+qODt/AV/Ds1YZ0fxx9lms5mNsD6+PD0IUY3R+8JPi7UgZ5RrnTZAsVobJ3GVC7DGh/lXZli8TRhdfQNVAL6NwPXp/rIMnub8GEi1Q5kIj0FuukDT1TPpXmV6411Fo/l4ua3VYf/G7ZC+N/DmHtDdK5wqjPupKqvnI8UIhvu8KB9PpqPIYS0W3/xHwPH5xShfUm2I35099berTV+Iv2Jjc/gfFl9vH+itkK8hu2MS6oNCDwkQz9uvbHpFS8q0ZU2YzB++Ykb6HEqHKrQffHzR5Kb6dTj8hN3SwWiKJtKfrd1XztrFBV9bAjx/tI6rm1wahexcHyfFB2uqe+CoYcnbkbtaoP9ISu0fN5PE/MV7eX2Cs4v9cjpcUHUHZ72HRjQx7ysJsz66nEMTM3hkgg5s3zHO7OCdU7q9a4Ua/b5qm2XjPWDeqbrxt7AM73OeHxksXpsz26HPV5cxXQ/NMUkL+q1oevXIye0Rzc6hSsZMCGDpECPm96ZuIWc=;npQPWSDHHnCHf+7IXTOWAQ=="
 ---
 

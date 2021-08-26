@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2368006/artificial-intelligence-ai-in-edu
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2368006/artificial-intelligence-ai-in-education-market-next-big-thing"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "New Study from StrategyR Highlights a $10.3 Billion Global Market for Artificial Intelligence (AI) in Education by 2026"
+    excerpt: "A new market study published b Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence"
+    publishedDateTime: 2021-08-26T12:15:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/new-study-from-strategyr-highlights-a-10-3-billion-global-market-for-artificial-intelligence-ai/article_d52461e0-94c2-51a1-bd20-265b4f3fb339.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 47
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/a0/0a049b04-cb81-5fa9-b6c0-751f1335ae5c/612786c6048ed.image.jpg?resize=710%2C630"
+        width: 710
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) Cars and Light Trucks Market Report Covers Future Trends with Exclusive Exploration 2021 to 2026"
     excerpt: "United States OR Portland The Artificial Intelligence AI Cars and Light Trucks Market 2021 report is a comprehensive professional and in depth research of market that delivers significant data for those who are seeking information for the Artificial Intelligence AI"
     publishedDateTime: 2021-08-26T06:37:00Z

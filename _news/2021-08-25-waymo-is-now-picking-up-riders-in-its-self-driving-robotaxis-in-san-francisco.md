@@ -170,6 +170,20 @@ related:
         width: 1920
         height: 1099
         isCached: true
+  - title: "Waymo's self-driving Jaguar I-Pace electric cars are ready for passengers"
+    excerpt: "San Francisco riders will have a self-driving electric car do the driving—although an \"autonomous specialist\" will be onboard."
+    publishedDateTime: 2021-08-26T12:00:00Z
+    webUrl: "https://www.greencarreports.com/news/1133368_waymo-s-self-driving-jaguar-i-pace-electric-cars-are-ready-for-passengers"
+    type: article
+    provider:
+      name: Green Car Reports
+      domain: greencarreports.com
+    quality: 38
+    images:
+      - url: "https://images.hgmsites.net/hug/waymo-self-driving-car-prototype-in-san-francisco-california_100803730_h.jpg"
+        width: 1920
+        height: 1099
+        isCached: true
   - title: "Video: Waymo begins self-driving rides in San Francisco"
     excerpt: "Waymo, the autonomous driving division of Google, has started its Trusted Tester program in San Francisco. The program will invite the local population to get rides from Waymo to help better identify the issues involved with autonomous driving as well as discover what consumers want from self-driving ride-hailing services."
     publishedDateTime: 2021-08-25T12:06:00Z

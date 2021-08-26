@@ -6,9 +6,9 @@ publishedDateTime: 2021-08-24T15:00:00Z
 originalUrl: "https://www.bloomberg.com/news/articles/2021-08-24/afghanistan-war-turns-u-s-military-drone-startup-shield-into-unicorn"
 webUrl: "https://www.bloomberg.com/news/articles/2021-08-24/afghanistan-war-turns-u-s-military-drone-startup-shield-into-unicorn"
 type: article
-quality: 54
-heat: 64
-published: false
+quality: 154
+heat: 174
+published: true
 
 provider:
   name: Bloomberg
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Rare Defense unicorn: San Diego AI startup corrals $210M for drone technology used by military"
+    excerpt: "Latest funding round gives Shield AI, co-founded by a former Navy Seal who served in Afghanistan, a valuation over $1 billion."
+    publishedDateTime: 2021-08-25T01:44:00Z
+    webUrl: "https://www.sandiegouniontribune.com/business/technology/story/2021-08-24/rare-defense-unicorn-san-diego-ai-startup-corrals-210m-for-drone-technology-used-by-military"
+    ampWebUrl: "https://www.sandiegouniontribune.com/business/technology/story/2021-08-24/rare-defense-unicorn-san-diego-ai-startup-corrals-210m-for-drone-technology-used-by-military?_amp=true"
+    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/technology/story/2021-08-24/rare-defense-unicorn-san-diego-ai-startup-corrals-210m-for-drone-technology-used-by-military?_amp=true"
+    type: article
+    provider:
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 45
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/e6a0973/2147483647/strip/true/crop/3251x2174+169+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F3a%2Ff0%2F3784d917440fb42292a048478372%2Fqualcomm-drone-platform.jpg"
+        width: 320
+        height: 214
+        isCached: true
   - title: "G7 to meet on Afghanistan deadline, Taliban recognition"
     excerpt: "Leaders of the Group of Seven countries were set to discuss on Tuesday whether to seek an extension to a Aug. 31 deadline for the evacuation of thousands of people trying to flee Afghanistan and whether to recognise or sanction a Taliban government."
     publishedDateTime: 2021-08-24T03:51:00Z
@@ -46,6 +62,6 @@ related:
         height: 533
         isCached: true
 
-secured: "2ecsClgbxcFfzxi036nBfizdqoDld9Jes3fnUjE0qsiufDAIDEKxNe2kUHg7QQmXJUGJxwQCFB2j7ODfAfFjnMRTAZkYoSu7vyU7CWAZ/MDdiQWhDC8ZU7qT0O6ESWdbn3ELGGGZwQsx0Yo29vNywkyii+X3C7aGSau3TFzsLE5bz7DZIFgqO8LPWwWyJYOAKbkolI0fPTzOirpU1pnljQF58fC1eWIpv7kcg8Z7iJVfGLp0TShv1kZfFgM7EqkteQG6S/Htd2zzd1IMPBzAQPemmBYzOsuqwvAcYcIblT/lj8aDGK9Y9/878h/rJabcSuFDOsYA52AY+oLH3QRC/W/LQxZ8n/ItRt07MMfUs2Q=;Wyet0YlbRvrJH/dPX1HNPQ=="
+secured: "M7O+R3rGyB85d5WeFIGSmxS8bpYZDtZBcU4wU2vEQM/kYTcSteFeUNhiLSrkDiV3eeuO8B/MrN8JA+T2B5FcYMj8guBevK2CaZ4+44G5D7HtSRXncDlq7M6xtopdU+Uxx2a4lq4mBAVD7KjBpc7uyqfrhNOIEWNO0jLTMd/gcc5ZBoz5TSHASqloeLTN6BRMesUr1+yOtCKZu0+vDSqi6uJT21r3X48NwHfZtHjp31ZV/zHNaQlP5kLl8QuwnTXyzVGBPotTc+5xIO+MoRtswQL5l12VgyxfQsk9I5pxC+N0Mo3WFxMsiQdE8L3kx7dECN5YV2xU97fSHeaLyVeuD9fjXXxFTvygnxR5uhl8xEz0oUeqcuT6F9OhOI0RYpk4gYR2ywIPkkFooVUn8w+mF23kB70qsqQYkujs5/9zwx/wV9EcrIGwGYQZeQ/yy4Pi3iJrH+fcX3ykHx1kLJQB9bx+d7HcFMsvq7+NQgwLMIZwcFmqtHbgMxKEXh2LwhtcAKIIwf//LztE95taoMMOdaHYyjSH1ry/WrD1CM85PKg=;pDZjLqnwC7081dx86cpdKQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.theamericanconservative.com/articles/the-ai-arms-race-
 webUrl: "https://www.theamericanconservative.com/articles/the-ai-arms-race-why-are-american-companies-helping-china/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,38 @@ images:
     width: 1108
     height: 700
     isCached: true
+
+related:
+  - title: "Hot Chips Concludes An Amazing Lineup of AI Chip Companies."
+    excerpt: "I can deal with it: some technology is just beyond my pay grade. My masters in CS is decades old, and the deep technology underneath blindingly fast AI chips is often beyond my comprehension. But when I saw the lineup of companies presenting at this years ..."
+    publishedDateTime: 2021-08-24T23:03:00Z
+    webUrl: "https://www.forbes.com/sites/karlfreund/2021/08/24/and--thats-a-wrap-hot-chips-concludes-an-amazing-lineup-of-ai-chip-announcements/"
+    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/08/24/and--thats-a-wrap-hot-chips-concludes-an-amazing-lineup-of-ai-chip-announcements/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/08/24/and--thats-a-wrap-hot-chips-concludes-an-amazing-lineup-of-ai-chip-announcements/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611d8d46a45079d06316ca62%2F0x0.jpg"
+        width: 800
+        height: 503
+        isCached: true
+  - title: "Synopsys CEO’s Opening Keynote At Hot Chips Outlines Future Vision Of AI-Driven Chip Design"
+    excerpt: "Synopsys’ latest AI-driven design tools have moved beyond assisting with place-and-route, to now aiding in some aspects of architectural design and software interactions."
+    publishedDateTime: 2021-08-24T22:36:00Z
+    webUrl: "https://www.forbes.com/sites/marcochiappetta/2021/08/24/synopsys-ceos-opening-keynote-at-hot-chips-outlines-future-vision-of-ai-driven-chip-design/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6125726db3f93198be757638%2F0x0.jpg"
+        width: 1200
+        height: 753
+        isCached: true
 
 secured: "hZsLDTit7EG92fGcFI79JEGeAIeeTKSYVuORE1t9m/k3dPo2Tf+wavtcjroF3kucgbwc9PM11dsKNOMEETQyaersftX6RdFYhUH+N5sIUdNa85tjcQmK7gExHoNANO5Leyx8BCI7IPzjYonfg/WmsmPOAGAxZTC1nTYiomZxEKTLIUy1ETyxWKTiHZDFl+yMdB53oMaE/zB/TtAbupBbzYsqo1r0C7NWkQDRBhht4WdDiEMnv2oDeovhoM9GrG1LT9z0ewgEIPtvPjbLSl1COBXO6xp+g1HCDPq4xc4rXmxz8XL5L10eXLgjDM3Sb5KMDK+7sbXUyTm4Xr3dYd4zHoy8GFrbOpUWlXuoszSMyGE=;2CDgMKuBu7QOMC0KFWBngA=="
 ---

@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Caris' Precision Oncology Alliance Welcomes The O'Neal Comprehensive Cancer Center at University of Alabama at Birmingham"
-excerpt: "Caris Life Sciences®, a leading innovator in molecular science and artificial intelligence focused on fulfilling the promise of precision medicine, announced today that"
-publishedDateTime: 2021-08-26T09:30:00Z
-originalUrl: "https://www.fbherald.com/news/state/caris-precision-oncology-alliance-welcomes-the-oneal-comprehensive-cancer-center-at-university-of-alabama-at/article_a3bb70ea-af2f-5156-a6a8-5c182fde54da.html"
-webUrl: "https://www.fbherald.com/news/state/caris-precision-oncology-alliance-welcomes-the-oneal-comprehensive-cancer-center-at-university-of-alabama-at/article_a3bb70ea-af2f-5156-a6a8-5c182fde54da.html"
+excerpt: "Caris Life Sciences®, a leading innovator in molecular science and artificial intelligence focused on fulfilling the promise of precision medicine, announced today that the O'Neal Comprehensive Cancer Center at the University of Alabama at Birmingham (UAB) has joined Caris' Precision Oncology Alliance™ (POA)."
+publishedDateTime: 2021-08-26T10:48:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/08/26/9437769.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/08/26/9437769.htm"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: Fort Bend Herald
-  domain: fbherald.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/fbherald.com/content/tncms/assets/v3/editorial/d/50/d502a8f9-66d4-50a8-9bf4-4756be449320/612771579a3b5.image.jpg?resize=703%2C630"
-    width: 703
-    height: 630
+  - url: "https://mma.prnewswire.com/media/830740/LARGER_CarisLifeSciences_color_square_Logo.jpg"
+    width: 400
+    height: 359
     isCached: true
 
-secured: "VAeo4G6SP4JbeHvmVPcVc2JMeQUBwIeNn3J7/w4fkIiuifpGeGcgtiFliJgLqprOmgyLsZb6NzwaAftWpUMEZMOHKtleArqm7Yi/aJ3BQLrFHeiwLe2ME/gT9tkht34nCFJSQUpWNpNt9YgGtv+15D45buhXh93xNf0//Ujg+ZlPF15YAs32siQpouPIE/6OUI9T0s0/tUM04/ii/dYPKmZPAYHk/e746GqTdGa4wLQhZ1MaGDvRQ/wRYAv6orWbB4OvlUb1lR1tZ+aBhXZbwDr3ZgHbT1C+0cCDdh4O2Qr12G1N6e1+pu4WaJtBvKlQM8FvLRCBaMUMPDdG0yiLbEpmZetK/DJ39yxZetO9vDI=;TY/g/+UZi0F9TVqgFzM28w=="
+secured: "TGWeU45H4Yrgfeaa0GCbbMa6bz2YrHggImg6QYd9BHXPih9ZiJ6hMXCpWDt+hLgXNc/W/InCUkf+Pz+VGf4jS/tXR4U/ZEgGcL7xqvoNiPAjKt/s/8atbyVe/TpfFQzSk7vhxl5f4dk5ghVS59S+lKmVYO6HVk/VGR73FIZAFVh6Ip1ZzcEgVyjf3vL2rMsjpTK9+BhDAyiWriIjVJ6ZbcXv/JOiOhOvMw8z49vlILnHTejCMgkCNWEHQhN6vPAzTSVODbbm42uGxXHvlyOWve0EXX2EYUbq/ecblNw/znl6l3Cs06i7qQZuW+7Nrhq+IqGf/7jo55XFHUfsGIivdEByCTNQ1poEznVa+Xuh5mk=;rwrHa5fg9aZBSYwl977NAQ=="
 ---
 

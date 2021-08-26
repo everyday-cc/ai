@@ -26,45 +26,36 @@ images:
     isCached: true
 
 related:
-  - title: "San Diego AI Startup Nets $210M for Drones Used by Military"
-    excerpt: "San Diego's Shield AI, an artificial intelligence startup that powers small military surveillance drones, said Tuesday that it has raised $210 million in a late-stage round of venture capital funding."
-    publishedDateTime: 2021-08-25T17:10:00Z
-    webUrl: "https://www.govtech.com/news/san-diego-ai-startup-nets-210m-for-drones-used-by-military"
-    ampWebUrl: "https://www.govtech.com/news/san-diego-ai-startup-nets-210m-for-drones-used-by-military?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/news/san-diego-ai-startup-nets-210m-for-drones-used-by-military?_amp=true"
+  - title: "A Rare Military Tech Unicorn Looks Past Afghanistan War"
+    excerpt: "Shield AI initially made drones to protect ground troops, but it has raised $210 million to expand to larger aircraft in more complicated situations."
+    publishedDateTime: 2021-08-24T15:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-08-24/afghanistan-war-turns-u-s-military-drone-startup-shield-into-unicorn"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 57
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 154
     images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/b599dcc/2147483647/strip/true/crop/940x490+0+70/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F79%2Fae%2F50de67582c1be9152bf3e423c6b6%2Fdrones.jpg"
-        width: 840
-        height: 438
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7qI4DSMYKl8/v0/1200x630.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "San Diego AI startup corrals $210M for drone technology used by military"
-    excerpt: "Shield's artificial intelligence-enabled drones have been used in actual Middle East conflict zones by the U.S. military for the past three years, according to the company."
-    publishedDateTime: 2021-08-25T20:18:00Z
-    webUrl: "https://www.stripes.com/theaters/us/2021-08-25/san-diego-ai-startup-corrals-millions-drone-technology-military-2663992.html"
+  - title: "G7 to meet on Afghanistan deadline, Taliban recognition"
+    excerpt: "Leaders of the Group of Seven countries were set to discuss on Tuesday whether to seek an extension to a Aug. 31 deadline for the evacuation of thousands of people trying to flee Afghanistan and whether to recognise or sanction a Taliban government."
+    publishedDateTime: 2021-08-24T03:51:00Z
+    webUrl: "https://www.metro.us/g7-to-meet-on/"
+    ampWebUrl: "https://www.metro.us/g7-to-meet-on/amp/"
+    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/g7-to-meet-on/amp/"
     type: article
     provider:
-      name: Stars and Stripes
-      domain: stripes.com
-    quality: 36
+      name: Metro US
+      domain: metro.us
+    quality: 44
     images:
-      - url: "https://www.stripes.com/theaters/asia_pacific/673404.jpg/alternates/LANDSCAPE_480/An%20MQ-4C%20Triton%20surveillance%20drone%20taxis%20at%20Anders"
-        width: 480
-        height: 299
+      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTopNews/tagreuters.com2021binary_LYNXMPEH7N02S-BASEIMAGE.jpg"
+        width: 800
+        height: 533
         isCached: true
-  - title: "Shield AI Finds $210M"
-    excerpt: "San Diego-based Shield AI, a startup developing AI and self driving technologies for aircraft, has raised $210M in a Series D investment round, according to the company. The funding was led by Disruptive,"
-    publishedDateTime: 2021-08-25T13:46:00Z
-    webUrl: "https://www.socaltech.com/shield_ai_finds____m/s-0081635.html"
-    type: article
-    provider:
-      name: SocalTech
-      domain: socaltech.com
-    quality: 17
 
 secured: "ZkjLKeMAIsC33f49hbptUGZl6Witv6R1eayJYJHPFYiufc+2XrgnUfjgLQ6DhAmKhx/XAz3owTXDp70V8ddojgN8ijICeLaPg2yNxClUVghPrv59hkN0tMIN9y0NMJTVujTMde0OblMvc2OduDPFbqPtYQy0XcbJLUEN7DKOVnjeFUOKvIWlKgvXFHd/JK8ruGzifDW2ZeZxfE5Df6wQOhaaiOT9KMEGgwTNNjFWFr+VU0tSSS9lTVbHil4RQQssKn8xy1PF+n4lygRxEk4hdaIeYeJsLwQwu64yw0cgjKdAWXbg4DR1rVvTTif5KpnJNK5/ph+Jio8gQ3UTr19NESEKPlJEZosKCmrvKCQ2wnC4w3US8PhVbPRubfxtFVu9GqEueYc97NEUKTGW5UNGEztsBvrNzxhGHGgrUdNkrcbSQXqeMe4GLQ13j4VxkOy+21Si5Zp657umUn3SuP2Xs/+N1N51P8tqT7yDX10hzGDPHXXLIPlD6F8Dya/iWzRO76sUAuY1OaVX1/32edm6BA==;MyHm52bw0No4Y8RTPcomDg=="
 ---

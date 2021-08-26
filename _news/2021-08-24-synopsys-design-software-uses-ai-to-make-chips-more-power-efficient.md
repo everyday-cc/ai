@@ -68,20 +68,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 84
-  - title: "Synopsys CEO’s Opening Keynote At Hot Chips Outlines Future Vision Of AI-Driven Chip Design"
-    excerpt: "Synopsys’ latest AI-driven design tools have moved beyond assisting with place-and-route, to now aiding in some aspects of architectural design and software interactions."
-    publishedDateTime: 2021-08-24T22:36:00Z
-    webUrl: "https://www.forbes.com/sites/marcochiappetta/2021/08/24/synopsys-ceos-opening-keynote-at-hot-chips-outlines-future-vision-of-ai-driven-chip-design/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6125726db3f93198be757638%2F0x0.jpg"
-        width: 1200
-        height: 753
-        isCached: true
   - title: "Synopsys outlines vision of AI driven chip design"
     excerpt: "Traditional design approaches limit interaction to successive steps in a largely linear workflow. Synopsys said a more holistic approach using AI driven chip design can offer design time and performance improvements."
     publishedDateTime: 2021-08-25T10:00:00Z

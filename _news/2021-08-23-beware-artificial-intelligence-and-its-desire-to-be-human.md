@@ -7,7 +7,7 @@ originalUrl: "https://www.thelawyer.com/knowledge-bank/white-paper/beware-artifi
 webUrl: "https://www.thelawyer.com/knowledge-bank/white-paper/beware-artificial-intelligence-and-its-desire-to-be-human/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,33 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI/Human Augmentation: How AI & Humans Can Work Together"
-    excerpt: "Many predictions to the outcome of the humans and artificial intelligence take an either/or approach. Skynet is determined to end the human race in The Terminator. In The Matrix, the machines have learned to farm humans for battery power."
-    publishedDateTime: 2021-08-24T16:15:00Z
-    webUrl: "https://www.bmc.com/blogs/ai-human-augmentation/"
+  - title: "BeingAI Has Unveiled a Human-Like AI"
+    excerpt: "BeingAI is giving birth to a highly sophisticated AI being, named 'Zbee'! And it's designed to function across multiple platforms in real-time."
+    publishedDateTime: 2021-08-23T18:40:00Z
+    webUrl: "https://interestingengineering.com/beingai-unveiled-human-like-ai"
+    ampWebUrl: "https://amp.interestingengineering.com/beingai-unveiled-human-like-ai"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/beingai-unveiled-human-like-ai"
     type: article
     provider:
-      name: BMC Software
-      domain: bmc.com
-    quality: 37
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 57
     images:
-      - url: "https://s7280.pcdn.co/wp-content/uploads/2021/08/challenges-of-ai.png"
-        width: 573
-        height: 494
-        isCached: true
-  - title: "THE PARABLE OF THE ALIEN AI AND HOW THE HUMANS WON THE WAR"
-    excerpt: "THE PARABLE OF THE ALIEN AI AND HOW THE HUMANS WON THE WAR Article by Kerry Cassidy, Project Camelot So they link you up to the Borg by way of the nano in the VAXES and TESTS…the reality is the Borg is studying"
-    publishedDateTime: 2021-08-25T15:58:00Z
-    webUrl: "https://projectcamelotportal.com/2021/08/25/the-parable-of-the-alien-ai-and-how-the-humans-won-the-war/"
-    type: article
-    provider:
-      name: PROJECT CAMELOT
-      domain: projectcamelotportal.com
-    quality: 37
-    images:
-      - url: "https://projectcamelotportal.com/wp-content/uploads/the-parable-of-the-alien-ai-and.jpg"
-        width: 1280
-        height: 720
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/lV6DbjM1Ox/sizes/beingai-unveiled-human-like-ai_resize_md.jpg"
+        width: 744
+        height: 419
         isCached: true
 
 secured: "IoMs/nnovRNUTgakk01RALcOoi4g7r0DI1vaXtvODIAlYO7OptyujcdXy50hXR3HCSSVWIZTzwJv/xhf9yB5AHBScMLnMGfe1MUvpGO9FLtnUz1BPKNRaU/uUsjlwefp5WIsiVn3wPfZAyeDlY6rL2rmwtURYHiw+p0IiGLTj13wlmvWMI4u8vxNuGl3criEr/+lDM3Bq/BuJrd+M/ZAzwNSDBAu8oyovTp75QMsFiDq3/h6VFoqpl0oXHtD1HLykQI6Pm9ukTkZJHHXb7TasUZTGMWn6Q/ZWKxDteZT7AFiPFlpyplbCZMCxpFtJN2LRHRXOTrQpmEo5uvWiUDlYgfW8Z8sCSsxHLxPo4+8G6A=;MDzjvViG8Ot5wVmT5qomkQ=="
