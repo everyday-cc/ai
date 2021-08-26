@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/25/how-new-regulation-is-driving-the
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/25/how-new-regulation-is-driving-the-ai-governance-market/amp/"
 type: article
 quality: 91
-heat: 122
+heat: 121
 published: true
 
 provider:

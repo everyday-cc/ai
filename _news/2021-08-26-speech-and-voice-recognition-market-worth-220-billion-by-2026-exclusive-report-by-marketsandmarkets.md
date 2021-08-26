@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Speech and Voice Recognition Market worth $22.0 billion by 2026 - Exclusive Report by MarketsandMarkets"
-excerpt: "According to the new market research report \"Speech and Voice Recognition Market with COVID-19 Impact Analysis by Delivery Method, Deployment Mode (On"
-publishedDateTime: 2021-08-26T15:40:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2021-08/53783702-speech-and-voice-recognition-market-worth-dollar-22-0-billion-by-2026-exclusive-report-by-marketsandmarkets-008.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2021-08/53783702-speech-and-voice-recognition-market-worth-dollar-22-0-billion-by-2026-exclusive-report-by-marketsandmarkets-008.htm"
+title: "Speech and Voice Recognition Market worth $22.0 billion by 2026 - Exclusive Report by MarketsandMarkets™"
+excerpt: "According to the new market research report \"Speech and Voice Recognition Market with COVID-19 Impact Analysis by Delivery Method,"
+publishedDateTime: 2021-08-26T13:30:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/speech-and-voice-recognition-market-worth-22-0-billion-by-2026--exclusive-report-by-marketsandmarkets-301363483.html"
+webUrl: "https://www.prnewswire.com/news-releases/speech-and-voice-recognition-market-worth-22-0-billion-by-2026--exclusive-report-by-marketsandmarkets-301363483.html"
 type: article
-quality: 0
+quality: 7
 heat: -1
 published: false
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
+    width: 666
+    height: 350
+    isCached: true
 
 related:
   - title: "Get Entire Details about Artificial Intelligence System Market By 2025"
@@ -63,6 +69,20 @@ related:
         width: 421
         height: 421
         isCached: true
+  - title: "Speech and Voice Recognition Market worth $22.0 billion by 2026 - Exclusive Report by MarketsandMarketstm"
+    excerpt: "Global Forecast to 2026\", published by MarketsandMarketstm, the Speech And Voice Recognition Market is expected to grow from USD 8.3 billion in 2021 to USD 22.0 billion by 2026; it is expected to grow at a CAGR of 21."
+    publishedDateTime: 2021-08-26T14:58:00Z
+    webUrl: "https://www.lelezard.com/en/news-19970034.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 7
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Global AI-based Clinical Trials Solution Provider Market (2021 to 2028) - Size, Share & Trends Analysis Report - ResearchAndMarkets.com"
     excerpt: "The global AI-based clinical trials solution provider market size is expected to reach USD 5.2 billion by 2028 and is expected to expand at a CAGR of 21.7% over the forecast period. Unlearn.AI, Inc. Antidote Technologies,"
     publishedDateTime: 2021-08-26T13:30:00Z
@@ -78,6 +98,6 @@ related:
         height: 339
         isCached: true
 
-secured: "dxsrIqqPR/RmO36pWernd9PWfNqfvC1d+lXP+Ec7GlfGluUNHg0++FU1ExlP6QHXb7+Rm6Vax+RoSHFfev/Ene3I4IecJB7OtKplHSoPkfYoxprWjkW+PLJsJQJh0AcLLHbvzcnpTXN8oRBGFo/2UHGuwnm71JbvedQ3/HdCvihYPg5UgML+H2nYs8IsIilKdeXsAzs376p68grLq/wQynAtQmL3EazkASIohOC1ETMrlerhAjES9SAVYP4w4k+C9L4+f1wCS+cRltXX8oNw6RoXWylmc0WHqY9arNIO/H2OhjX7ysEi/4Hn0pAI1x382bFdFSJzciA/Lt/BIczwu17NgerV7NPxHVIpHJJKGZ0=;m633lzZgxzYgr540bQpzDA=="
+secured: "8HLBCtUn81t6kFIVSTL9BRBNHVGoUTi1JvWm0PVGqPZutUk+V63SMkkZCBEpckBoaOXvdS11t9lzJI36LIclIf8U7IQXvm2V1+IvjfLVZQ+mAoi67iBCeyNu9pu5nzBOJstZCK6dZS6yz3a0PA9Jfp6JydfXL7vQrrPTpLulG6OaetjOthVqSbY4122VOhMZ5uMSGwyFXy+w5P3Te4w//ldKinP1H3TIxDDkrAuMQsB1ZsBmqYkOXhuIn8hsE8Ag3LtHf/1M5/Vuc54/d7+89b1i6xl5hsNLvmtBwkYnrg2yA018FUbJgKQlr9Rj5VNvW64HhYFabORwZh1q4EC2R/8uyeqTGn2EdG5TAj80JN4=;Qj0jZGxo2dSABOv2B83Z6A=="
 ---
 

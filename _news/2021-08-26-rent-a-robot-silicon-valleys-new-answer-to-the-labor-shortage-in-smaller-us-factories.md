@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Rent-a-robot: Silicon Valley’s new answer to the labor shortage in smaller U.S. factories"
-excerpt: "Silicon Valley has a new pitch to persuade small companies to automate: rent-a-robot. Better technology and the need to pay higher wages to humans have produced a surge in sales of robots to big"
+excerpt: "Silicon Valley has a new pitch to persuade small companies to automate: rent-a-robot. Better technology and the need to pay higher wages to humans have produced a surge in sales of robots to big companies all across America."
 publishedDateTime: 2021-08-26T10:14:00Z
-originalUrl: "https://kfgo.com/2021/08/26/rent-a-robot-silicon-valleys-new-answer-to-the-labor-shortage-in-smaller-u-s-factories/"
-webUrl: "https://kfgo.com/2021/08/26/rent-a-robot-silicon-valleys-new-answer-to-the-labor-shortage-in-smaller-u-s-factories/"
+originalUrl: "https://www.metro.us/rent-a-robot-silicon-valleys-new/"
+webUrl: "https://www.metro.us/rent-a-robot-silicon-valleys-new/"
+ampWebUrl: "https://www.metro.us/rent-a-robot-silicon-valleys-new/amp/"
+cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/rent-a-robot-silicon-valleys-new/amp/"
 type: article
-quality: 30
+quality: 50
 heat: -1
 published: false
 
 provider:
-  name: KFGO
-  domain: kfgo.com
+  name: Metro US
+  domain: metro.us
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://storage.googleapis.com/media.mwcradio.com/mimesis/2021-08/26/2021-08-26T101348Z_1_LYNXMPEH7P0D6_RTROPTP_3_USA-ROBOTS-MANUFACTURING.JPG"
+  - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2021binary_LYNXMPEH7P0CY-BASEIMAGE.jpg"
     width: 800
-    height: 600
+    height: 533
     isCached: true
 
 related:
@@ -77,6 +79,6 @@ related:
         height: 600
         isCached: true
 
-secured: "nUqKmi5TRasZExlAjdmBG6oNwwCqGu5vvy/A9A6XvZzwJKx1aJxVdbJLbydCB3+fvx2+KuByUipJyUMIUCIiM9zL36d0SFL7x/hDmJDNZrwrE2QbIBk7tLvKJQvm8rsQQyDQLaKBVUR9i/vS+Xuyd5dWqDFD9MZEN/T+pMhkcf4GUCWQELa2prjyFy+rngKkT8xXDGJhi/FbO4b5zy1iRhI4qiRTnl5hm24JyfNRLSuK3g4Kt2zSvR+TIGwp4sS4GS1kNR1MPjddhC5IBUasUnTCovUFJJMSAkAkDuveERKh9DOo1VsH3MA4cnx8yU176nzluIhVmQykYUvt6A+Ou/Da2JljEmi8RaGZ+HY2nTI=;hnG3abQV0q/jGSL52zz5nA=="
+secured: "BKJVgpl+eqfw2VQZXiyzTPjVvSfwtNQhkFp/Ll1XnYeG07W1krGYb7seaIYLXTyFht1czan3FNX91fgs3aUc+6iD0m4tA1d1Moji62yWdu1jN934HHpMOPRQvLvHDOvOjMuoSkn2lGuQz18RDRScP7ihhUxgUajVFBGsFmFST0PmUiDAg94YQG5MM291ErXFsD2zzMH6l0IZhptpeeo91p6Gwouku0MpwvvnTAceAJ8p5eDwZw3EKHibRBFmrlP17tfm/XZpXhVb/NEnN4JtpmzqUuETmLEA54I437V6cyM3oqD7SMYzqsFlu2wLrHdhXLX/Y5TMx1lGUeouZqhtPQ5QWDdB6bWhfo8bWzfLhbA=;qzo+6WxtXLUm31tVcZSpPg=="
 ---
 

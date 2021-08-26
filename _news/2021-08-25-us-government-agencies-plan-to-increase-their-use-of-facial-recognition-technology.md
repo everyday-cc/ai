@@ -43,6 +43,22 @@ related:
         width: 799
         height: 548
         isCached: true
+  - title: "Ten federal agencies are expanding their use of facial recognition"
+    excerpt: "The Government Accountability Office has revealed in a new report that 10 federal agencies are planning to expand their use of facial recognition. In a survey involving 24 federal agencies on their use of facial recognition technology,"
+    publishedDateTime: 2021-08-26T18:24:00Z
+    webUrl: "https://www.engadget.com/ten-federal-agencies-expanding-facial-recognition-070044629.html"
+    ampWebUrl: "https://www.engadget.com/amp/ten-federal-agencies-expanding-facial-recognition-070044629.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ten-federal-agencies-expanding-facial-recognition-070044629.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 89
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-08/d6385430-0632-11ec-9d54-a4ebe312b944"
+        width: 5988
+        height: 3992
+        isCached: true
   - title: "UK Government Accused Of Sneaking Through New Live Facial Recognition Rules"
     excerpt: "More than 30 civil liberties groups are accusing the UK Home Office and police of bypassing Parliament to introduce live facial recognition technology (LFRT)."
     publishedDateTime: 2021-08-23T11:22:00Z
@@ -102,16 +118,33 @@ related:
         height: 800
         isCached: true
   - title: "Federal government to expand use of facial recognition despite growing concerns"
-    excerpt: "The GAO said several federal agencies, including the Justice Department, the Air Force and Immigration and Customs Enforcement, reported that they had used facial recognition software from Clearview AI,"
-    publishedDateTime: 2021-08-26T06:52:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/federal-government-to-expand-use-of-facial-recognition-despite-growing-concerns/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/federal-government-to-expand-use-of-facial-recognition-despite-growing-concerns/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/federal-government-to-expand-use-of-facial-recognition-despite-growing-concerns/?amp=1"
+    excerpt: "Ten federal agencies — the departments of Agriculture, Commerce, Defense, Homeland Security, Health and Human Services, Interior, Justice, State, Treasury, and Veterans Affairs — told the Government Accountability Office that they intend to grow their facial recognition capabilities by 2023,"
+    publishedDateTime: 2021-08-25T21:55:00Z
+    webUrl: "https://www.stripes.com/theaters/us/2021-08-25/federal-government-expand-use-facial-recognition-gao-report-2664035.html"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 37
+      name: Stars and Stripes
+      domain: stripes.com
+    quality: 35
+    images:
+      - url: "https://www.stripes.com/theaters/us/1gaagz-Capitol-Police-officers-stand-at-an-entry-point-th/alternates/LANDSCAPE_480/Capitol%20Police%20officers%20stand%20at%20an%20entry%20point%20th"
+        width: 480
+        height: 299
+        isCached: true
+  - title: "Software log shows Dutch police used controversial facial recognition software"
+    excerpt: "A leaked software log from the debated facial recognition software Clearview AI showed that Dutch police officers used the program to identify suspects, RD reported. In April 2020, Minister of Justice Ferd Grapperhaus denied that Dutch authorities used the software."
+    publishedDateTime: 2021-08-26T14:55:00Z
+    webUrl: "https://nltimes.nl/2021/08/26/software-log-shows-dutch-police-used-controversial-facial-recognition-software"
+    type: article
+    provider:
+      name: NL Times
+      domain: nltimes.nl
+    quality: 35
+    images:
+      - url: "https://nltimes.nl/sites/nltimes.nl/files/styles/news_article_full/public/2021-03/Depositphotos_160897874_l-2015.jpg?h=56d0ca2e"
+        width: 837
+        height: 462
+        isCached: true
 
 secured: "fv9AlR6dLczS0H8unriNnLD4AkRn8FNC5DlnPo12lzugBGcnn7nWWGuU6eBJpTiuhrGpBCLdHYMvdYGFpknfYLJk9h87smMPAck/hEpwe/ruZFSMdQEPnqc7a1rNM4uJvFsFDZYRES9904f7Yi2RzgikUnpjTCA0fnCH52WCPDCmJc8KivvdD25tHi8ufVm2qPD6IZoQUC7ilKYiFS9DUaEOEsiX5J4vw+sEk7+EyF//u07sBjPHi6LUG/yDWMFsUN2YgnkqSSjYLhCWTEvtQ+qkB+YE6joAZ6IJDaJ59Lnnt2ZBtmZA0+MRIhW7HIE16ZhFuUdXWGtjP64rzJzMqEqqFhzZJwlSG8oVPcIcyzmATkAOhOUZBMzDxNx68+igRkA1HdPMrbhglTwj4czjy3lIrR4P0EIsMVstIrLAeyHpyVlxgRs3HxsaiSSRzOhzVpXpfc73+Z2NQU/wh3j7wjGaZBZV4S+CumDt+pbNV+EmbDd/Std0sEoHFMyRbah/Ndpr+gA7UKNylZeeWwUWAA==;aRTifS020dtty5HYutRwjg=="
 ---

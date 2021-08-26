@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Auditoria.AI Named to Constellation ShortList for AI-Driven Cognitive Applications for the Second Consecutive Year"
-excerpt: "SANTA CLARA, CA /  / August 18, 2021 / AUDITORIA.AI, a pioneer in AI-driven automation solutions for corporate finance teams, today announced it was named to the Constellation ShortList™ for AI-Driven Cognitive Applications in Q3 2021."
-publishedDateTime: 2021-08-18T13:18:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/270773662/auditoriaai-named-to-constellation-shortlist-for-ai-driven-cognitive-applications-for-the-second-consecutive-year"
-webUrl: "https://www.bignewsnetwork.com/news/270773662/auditoriaai-named-to-constellation-shortlist-for-ai-driven-cognitive-applications-for-the-second-consecutive-year"
+excerpt: "Exclusive List Solidifies Auditoria’s Transformative Approach to Cognitive Automation. SANTA CLARA, CA / ACCESSWIRE / August 18, 2021 / AUDITORIA.AI, a pioneer in AI-driven auto"
+publishedDateTime: 2021-08-18T13:01:00Z
+originalUrl: "https://apnews.com/press-release/accesswire/technology-business-fc2f302c0629473e2c0b88fc3dc0c316"
+webUrl: "https://apnews.com/press-release/accesswire/technology-business-fc2f302c0629473e2c0b88fc3dc0c316"
 type: article
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://cdn.bignewsnetwork.com/cus1629954857175.jpg"
-    width: 630
-    height: 420
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "CuLltaJA7eKr8w/mXis14a7xSFoWnLl+IugYHXfo9FpsCeKxzzW8t6AgYPbcDS1zGjl84v0KlJCwB2KGtiW748xDySiXMZ3I8VXm2q8Y32UPKo6hCWDj98myQ6ppgf360JNkX2Bn0zVaEMsjShTL7A9VFaxFiqj/3i6CWgcXyB6nd9utKFfj8rCoCCfLJVrPFoIXoyaxX/p67VFVKVfZO+h33WHYQpyJddS8K7sjQOawjfvLVWgiRn8l7rFGehK0O5BbRKJxKzNIDSSLO+Nj/DG4ZmDMunDKVcaM/lyRyykmmcOklygtW1qg3EwyyKM26H5r/3Yrwq55MI2ihhnY4TThHHve53a8ODKfFSe5reA=;OUOOiq5h0Jh6Nzt0uSRnFg=="
+secured: "yRXZ9yXtUmFu+DbUTbKfoa7h9YTFHLeKrjpoJcIw39vtgD+mHQzB4FL4ACvK/CIO7RiVD2chOXhwt3ZUj2/FR5GKRXRkePtzuhShqONYkPOgFRV/POs0eevkSYC2PjfrlZHODhWNvytBTBvClHe/uB5JVf83ra449mWbiqRjw+DYME7nCveAZnRLmh+Elue1sAZT/BrvLHSLI/VZzUtG5gbMH9+zeeq8e2tKyHOdJLzMbOBRys1jdMJBGqOjAtk7fKmOWVD4VDnQav7zvdJ60W/nrjKxP1uqawaPuDg+R45k2i87hpjXMMUgZEXyjh0OJTRbcEeTJUxp9jIQe5bY+xtW+Nq4Y4shoLONjequmzg=;93na0cJmJv8LlikU3n33qg=="
 ---
 

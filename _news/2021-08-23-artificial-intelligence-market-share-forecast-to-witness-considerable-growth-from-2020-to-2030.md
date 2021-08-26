@@ -96,18 +96,18 @@ related:
       domain: openpr.com
     quality: 36
   - title: "Valued to be $4.4 Billion by 2026, Artificial Intelligence (AI) in Call Center Slated for Robust Growth Worldwide"
-    excerpt: "A new market study published b Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence"
-    publishedDateTime: 2021-08-26T11:55:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/valued-to-be-4-4-billion-by-2026-artificial-intelligence-ai-in-call-center-slated/article_6ad8aeb3-3803-55b1-b7e1-82aa882d4641.html"
+    excerpt: "May 2021 Executive Pool: 133887 Companies: 367 - Players covered include Artificial Solutions; Avaamo; Avaya; AWS; Conversica; Creative Vir"
+    publishedDateTime: 2021-08-26T14:40:00Z
+    webUrl: "https://www.mobilitytechzone.com/wimax/news/2021/08/26/9437856.htm"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 31
+      name: Mobility Techzone
+      domain: mobilitytechzone.com
+    quality: 33
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/67/b675ab39-fa82-585c-8140-701a506ea2c6/6127835a26ba2.image.jpg?resize=1001%2C630"
-        width: 1001
-        height: 630
+      - url: "https://mma.prnewswire.com/media/1601532/MCP21174.jpg"
+        width: 400
+        height: 252
         isCached: true
   - title: "Deep Learning in Healthcare Market Size, Share 2020 Industry Growing Rapidly with Recent Demand, Trends, Development , Revenue by 2027"
     excerpt: "The Global Deep Learning in Healthcare Market research delves into detailed and insightful data on important variables such as regional growth segmentation and CAGR The research contains a broad overview of the industry as well as a detailed explanation with"

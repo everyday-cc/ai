@@ -30,22 +30,31 @@ images:
     isCached: true
 
 related:
-  - title: "The Possibilities Of AI In 2030: Transformation Across Dimensions"
-    excerpt: "The decade will truly belong to those who understand the importance of data, algorithms and computational architectures and can use the transformations in these spaces in truly effective ways."
-    publishedDateTime: 2021-08-23T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/08/23/the-possibilities-of-ai-in-2030-transformation-across-dimensions/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/08/23/the-possibilities-of-ai-in-2030-transformation-across-dimensions/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/08/23/the-possibilities-of-ai-in-2030-transformation-across-dimensions/amp/"
+  - title: "Otter.ai expands automatic transcription assistant to Microsoft Teams, Google Meet and Cisco Webex"
+    excerpt: "AI-powered voice transcription service Otter.ai is expanding its Otter Assistant feature for Microsoft Teams, Google Meet, and Cisco Webex. Otter.ai first released this feature for Zoom users earlier this year in May."
+    publishedDateTime: 2021-08-26T16:16:00Z
+    webUrl: "https://techcrunch.com/2021/08/26/otter-ai-expands-automatic-transcription-assistant-to-microsoft-teams-google-meet-and-cisco-webex/"
+    ampWebUrl: "https://techcrunch.com/2021/08/26/otter-ai-expands-automatic-transcription-assistant-to-microsoft-teams-google-meet-and-cisco-webex/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/26/otter-ai-expands-automatic-transcription-assistant-to-microsoft-teams-google-meet-and-cisco-webex/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 90
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611ffbd688a933e24c37e9fe%2F0x0.jpg"
-        width: 1200
-        height: 900
+      - url: "https://techcrunch.com/wp-content/uploads/2021/05/Otter-Assistant.png?w=1024"
+        width: 1024
+        height: 650
         isCached: true
+  - title: "Microsoft launches Azure Government Top Secret cloud"
+    excerpt: "Microsoft offers data analysis and AI services to government agencies through Azure’s Data Lake, Cosmos DB, HDInsight and Cognitive Services. It also provides the Kubernetes Service, Functions and App Service for containerized applications, serverless ..."
+    publishedDateTime: 2021-08-25T00:01:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_microsoft/microsoft-launches-azure-government-top-secret-cloud/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 34
 
 secured: "4f178m7KBEigJymco/PAbR+SdRXJLmEZktnG66QiLidgv1O4wS5TdfDBa67NUXX9/7LlncBfYVma2/mx9qlkbTJ6QrqhF5P0YqyFVZ6E9t+/NpYPh76/DKys2+lmZCzBT/FxyxahCVpc8zjrS+bD5Ri1Nxp1/IsoGQSclU3RF88vycZwvYG42Ikt3Pbw+XcOvx4xGoWhIeNkkFR/w+tWuhKg7ETGWgquPPphd2wiHT+DwLr7Pz5yNP12+cr4W3tRX68/V7cRMzJSRG2jjb4aGyIqX076e2tfpRwgj23gL68loCuTIgVdZiiq9378XlECd/pFjOTpKPtCkOqP/OCaox7Yv24vl5yfA0x20GiEp+ov2Kwv/eNnPuxoPERfwbBazPWob7VtC8KzRSw1h0IKFKkhqw8DrxR6dKNOkhpdPx29/kn6r78bYrRFefLHBz4KCLfLwmyCzzIEAMN9WslVyTXyEYPZFIMHB/ePBwx7BBt8l8+bLJnDfVu+i6l9os2nfFqR9KWdnBKfZ5iTXbq0MQ==;Tas6MXtRg0NG9LV2w5h62A=="
 ---

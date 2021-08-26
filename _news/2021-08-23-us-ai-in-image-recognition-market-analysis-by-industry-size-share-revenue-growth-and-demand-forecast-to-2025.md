@@ -95,18 +95,18 @@ related:
       domain: openpr.com
     quality: 36
   - title: "Valued to be $4.4 Billion by 2026, Artificial Intelligence (AI) in Call Center Slated for Robust Growth Worldwide"
-    excerpt: "A new market study published b Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence"
-    publishedDateTime: 2021-08-26T11:55:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/valued-to-be-4-4-billion-by-2026-artificial-intelligence-ai-in-call-center-slated/article_6ad8aeb3-3803-55b1-b7e1-82aa882d4641.html"
+    excerpt: "May 2021 Executive Pool: 133887 Companies: 367 - Players covered include Artificial Solutions; Avaamo; Avaya; AWS; Conversica; Creative Vir"
+    publishedDateTime: 2021-08-26T14:40:00Z
+    webUrl: "https://www.mobilitytechzone.com/wimax/news/2021/08/26/9437856.htm"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 31
+      name: Mobility Techzone
+      domain: mobilitytechzone.com
+    quality: 33
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/67/b675ab39-fa82-585c-8140-701a506ea2c6/6127835a26ba2.image.jpg?resize=1001%2C630"
-        width: 1001
-        height: 630
+      - url: "https://mma.prnewswire.com/media/1601532/MCP21174.jpg"
+        width: 400
+        height: 252
         isCached: true
   - title: "Artificial Intelligence Market Share Forecast to Witness Considerable Growth from 2020 To 2030"
     excerpt: "Artificial Intelligence Market Introduction Transparency Market Research delivers key insights on the global artificial intelligence market In terms of revenue the global artificial intelligence market is estimated to expand at a CAGR of 29 during the forecast period owing to"

@@ -1,26 +1,27 @@
 ---
 category: news
 title: "Valued to be $4.4 Billion by 2026, Artificial Intelligence (AI) in Call Center Slated for Robust Growth Worldwide"
-excerpt: "A new market study published b Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence"
-publishedDateTime: 2021-08-26T11:55:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/valued-to-be-4-4-billion-by-2026-artificial-intelligence-ai-in-call-center-slated/article_6ad8aeb3-3803-55b1-b7e1-82aa882d4641.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/valued-to-be-4-4-billion-by-2026-artificial-intelligence-ai-in-call-center-slated/article_6ad8aeb3-3803-55b1-b7e1-82aa882d4641.html"
+excerpt: "May 2021 Executive Pool: 133887 Companies: 367 - Players covered include Artificial Solutions; Avaamo; Avaya; AWS; Conversica; Creative Vir"
+publishedDateTime: 2021-08-26T14:40:00Z
+originalUrl: "https://www.mobilitytechzone.com/wimax/news/2021/08/26/9437856.htm"
+webUrl: "https://www.mobilitytechzone.com/wimax/news/2021/08/26/9437856.htm"
 type: article
-quality: 31
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Mobility Techzone
+  domain: mobilitytechzone.com
 
 topics:
+  - AWS AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/67/b675ab39-fa82-585c-8140-701a506ea2c6/6127835a26ba2.image.jpg?resize=1001%2C630"
-    width: 1001
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1601532/MCP21174.jpg"
+    width: 400
+    height: 252
     isCached: true
 
 related:
@@ -164,6 +165,6 @@ related:
       domain: openpr.com
     quality: 3
 
-secured: "uZ0HxrQOU/PkUecgtjCKW2uOf6AAMZgqS67IB2LO2nemFKsvpsCy1auryLXPfM5Mr2yN6dQ+MXuZB1Td1p3toTs/yp2mbCinQIeUducfG9eXcqA4eHibHRFtpugzUMzG/FH9R/CLxWTCdXrQg1rtGuZ3eVO8ufr+KObSxwJHwSeRjZ30CkU2dIsb+KkUuJNusWYF4mvg43e2mvv2VV8e3H9Vx3yqfXVE/b5BBono0NBATIriZa0hHK9UHd8rKNgAY9UI4fsg1ObE1Fx3Zvg7laM3cszr2IKRMdhmODs3Pk4VRbd17DZZ4ubZmkngaRuMYuujwM3Ihwwwswn3zIb32iARPlxZOBF/NHn1QyguBQw=;27ukP6S/BVbacWkUv0Fnbw=="
+secured: "n8qQa88Wt1Yu/SrTgMrORTrNA4+ikNbipmYhJ8uRKSdXQXsgh/LtWbKLHfD6AzlBh6LGLjuxNhZup7+hLm2eFSNNCWopEOQBaYyf6pHdSfVo/bVsATDTdrkrGCP8+MkQ6MtSs45witB6QYa6Nky3UQUG+cereBzWN3s+P74Fg9SAC2fpI0Np/L2IojH5b3LRxPOMG3zjQz1V5Ov+CiMlSsIBE5QRq0AofgHDVCgXYdGQYj4u0CMleUYrsO59QW5bEw/p7M2dWCYlU7j153QtPn1SbEehewXqGutZ+5c4LqSlx9Fuik0uqSNSrxDozVztJLZGMxpKCZmhsbrM0RZCJVSiwc48GTYpG60D4tAN//I=;p3GyYndXpZGuZ5tBhFNS9g=="
 ---
 

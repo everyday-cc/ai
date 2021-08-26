@@ -7,8 +7,8 @@ originalUrl: "https://apnews.com/press-release/globe-newswire/technology-busines
 webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-12571e98f7ec23c0ebd3c4de0a0279ec"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: -1
+published: false
 
 provider:
   name: Associated Press
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Atos Achieves AWS Level 1 Managed Security Service Provider Competency Status"
+    excerpt: "Atos announced today that it has achieved Amazon Web Services (AWS) Level 1 Managed Security Service Provider (MSSP) Competency status. This designation recognizes that Atos has successfully met AWS’s requirements for a baseline of managed security services to protect and monitor essential AWS resources 24/7,"
+    publishedDateTime: 2021-08-25T00:00:00Z
+    webUrl: "https://www.pressreleasepoint.com/atos-achieves-aws-level-1-managed-security-service-provider-competency-status"
+    type: article
+    provider:
+      name: KLAS Press Release
+      domain: pressreleasepoint.com
+    quality: 53
+    images:
+      - url: "https://www.pressreleasepoint.com/sites/all/modules/press_release/social-media-icons/fbpage.png"
+        width: 256
+        height: 256
+        isCached: true
   - title: "Alert Logic Achieves AWS Level 1 Managed Security Service Provider Competency Status"
     excerpt: "Alert Logic announced today that it has achieved Amazon Web Services (AWS) Level 1 Managed Security Service Provider (MSSP) Competency status. This designation recognizes that Alert Logic's MDR solution has successfully met the requirements for"
     publishedDateTime: 2021-08-24T17:22:00Z

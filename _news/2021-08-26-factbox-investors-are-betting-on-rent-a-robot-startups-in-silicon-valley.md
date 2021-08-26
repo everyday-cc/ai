@@ -38,18 +38,20 @@ related:
         height: 628
         isCached: true
   - title: "Rent-a-robot: Silicon Valley’s new answer to the labor shortage in smaller U.S. factories"
-    excerpt: "Silicon Valley has a new pitch to persuade small companies to automate: rent-a-robot. Better technology and the need to pay higher wages to humans have produced a surge in sales of robots to big"
+    excerpt: "Silicon Valley has a new pitch to persuade small companies to automate: rent-a-robot. Better technology and the need to pay higher wages to humans have produced a surge in sales of robots to big companies all across America."
     publishedDateTime: 2021-08-26T10:14:00Z
-    webUrl: "https://kfgo.com/2021/08/26/rent-a-robot-silicon-valleys-new-answer-to-the-labor-shortage-in-smaller-u-s-factories/"
+    webUrl: "https://www.metro.us/rent-a-robot-silicon-valleys-new/"
+    ampWebUrl: "https://www.metro.us/rent-a-robot-silicon-valleys-new/amp/"
+    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/rent-a-robot-silicon-valleys-new/amp/"
     type: article
     provider:
-      name: KFGO
-      domain: kfgo.com
-    quality: 30
+      name: Metro US
+      domain: metro.us
+    quality: 50
     images:
-      - url: "https://storage.googleapis.com/media.mwcradio.com/mimesis/2021-08/26/2021-08-26T101348Z_1_LYNXMPEH7P0D6_RTROPTP_3_USA-ROBOTS-MANUFACTURING.JPG"
+      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2021binary_LYNXMPEH7P0CY-BASEIMAGE.jpg"
         width: 800
-        height: 600
+        height: 533
         isCached: true
   - title: "Rent-a-robot: Silicon Valley’s new answer to the labour shortage in smaller US factories"
     excerpt: "Silicon Valley has a new pitch to persuade small companies to automate: rent-a-robot. Better technology and the need to pay higher wages to humans have produced a surge in sales of robots to big companies all across America."

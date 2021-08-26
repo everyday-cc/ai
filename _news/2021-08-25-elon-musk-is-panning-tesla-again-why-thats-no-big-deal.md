@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/tesla-stock-elon-musk-516297560
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-stock-elon-musk-51629756011"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://cdn.techhq.com/wp-content/uploads/2021/08/000_9LC7WA.jpg"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Tesla to build robot to eliminate ‘dangerous, repetitive and boring tasks’, says Elon Musk"
-    excerpt: "Tesla used its inaugural AI Day to showcase improvements in its self-driving capability – which has come under a regulatory spotlight in the US – and unveiled plans for a life-like robot that Elon Musk says will take the drudgery out of everyday life."
-    publishedDateTime: 2021-08-22T01:30:00Z
-    webUrl: "https://www.independent.ie/business/technology/news/tesla-to-build-robot-toeliminate-dangerous-repetitive-and-boring-tasks-says-elon-musk-40772558.html"
-    type: article
-    provider:
-      name: Independent.ie
-      domain: independent.ie
-    quality: 46
-    images:
-      - url: "https://www.independent.ie/business/technology/news/f1d51/40772557.ece/AUTOCROP/w1240h700/ORATION-SPACEX"
-        width: 1240
-        height: 700
         isCached: true
 
 secured: "3rRPpfO5ya3hVJ9MmqNgj/0+bZ4blqKJgjfD37kZT0nKHrlRqTwhCQ0jbmnUegcKoXVicrIGbNIhGlzHWtT9NAiWOFo5hYPL+M/6d1Y0+CxSU7sDDhBvyEnPJmLBKtv+FSLN6/Bm5mGmIy7t+qXhhNl4EjDCnunD3ixrRassHfKCXaGjDzg2FkYNwi9J0nhtej1zFtFKRwfSTSHxClKnMyGNqkX/isQKhAshRMCwxPwaz0XU+zEwk4vwErB1yN0m+Q0DxLrkhkQjdwL95JzLA6AvzhNXFsKOo300+q46o/oj34TyWxxmpvS4gmPoWumZfQxlnrCteF7ud5R3AKkjyR9c0GZHzj79SAOtJY7SBow=;4ddw5CnA+7QTfLN65z1slQ=="

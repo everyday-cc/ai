@@ -9,7 +9,7 @@ ampWebUrl: "https://www.buzzfeednews.com/amphtml/ryanmac/clearview-ai-internatio
 cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/ryanmac/clearview-ai-international-search-table"
 type: article
 quality: 98
-heat: 158
+heat: 178
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Ten federal agencies are expanding their use of facial recognition"
+    excerpt: "The Government Accountability Office has revealed in a new report that 10 federal agencies are planning to expand their use of facial recognition. In a survey involving 24 federal agencies on their use of facial recognition technology,"
+    publishedDateTime: 2021-08-26T18:24:00Z
+    webUrl: "https://www.engadget.com/ten-federal-agencies-expanding-facial-recognition-070044629.html"
+    ampWebUrl: "https://www.engadget.com/amp/ten-federal-agencies-expanding-facial-recognition-070044629.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ten-federal-agencies-expanding-facial-recognition-070044629.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 89
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-08/d6385430-0632-11ec-9d54-a4ebe312b944"
+        width: 5988
+        height: 3992
+        isCached: true
   - title: "UK Government Accused Of Sneaking Through New Live Facial Recognition Rules"
     excerpt: "More than 30 civil liberties groups are accusing the UK Home Office and police of bypassing Parliament to introduce live facial recognition technology (LFRT)."
     publishedDateTime: 2021-08-23T11:22:00Z
@@ -106,16 +122,33 @@ related:
         height: 800
         isCached: true
   - title: "Federal government to expand use of facial recognition despite growing concerns"
-    excerpt: "The GAO said several federal agencies, including the Justice Department, the Air Force and Immigration and Customs Enforcement, reported that they had used facial recognition software from Clearview AI,"
-    publishedDateTime: 2021-08-26T06:52:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/federal-government-to-expand-use-of-facial-recognition-despite-growing-concerns/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/federal-government-to-expand-use-of-facial-recognition-despite-growing-concerns/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/federal-government-to-expand-use-of-facial-recognition-despite-growing-concerns/?amp=1"
+    excerpt: "Ten federal agencies — the departments of Agriculture, Commerce, Defense, Homeland Security, Health and Human Services, Interior, Justice, State, Treasury, and Veterans Affairs — told the Government Accountability Office that they intend to grow their facial recognition capabilities by 2023,"
+    publishedDateTime: 2021-08-25T21:55:00Z
+    webUrl: "https://www.stripes.com/theaters/us/2021-08-25/federal-government-expand-use-facial-recognition-gao-report-2664035.html"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 37
+      name: Stars and Stripes
+      domain: stripes.com
+    quality: 35
+    images:
+      - url: "https://www.stripes.com/theaters/us/1gaagz-Capitol-Police-officers-stand-at-an-entry-point-th/alternates/LANDSCAPE_480/Capitol%20Police%20officers%20stand%20at%20an%20entry%20point%20th"
+        width: 480
+        height: 299
+        isCached: true
+  - title: "Software log shows Dutch police used controversial facial recognition software"
+    excerpt: "A leaked software log from the debated facial recognition software Clearview AI showed that Dutch police officers used the program to identify suspects, RD reported. In April 2020, Minister of Justice Ferd Grapperhaus denied that Dutch authorities used the software."
+    publishedDateTime: 2021-08-26T14:55:00Z
+    webUrl: "https://nltimes.nl/2021/08/26/software-log-shows-dutch-police-used-controversial-facial-recognition-software"
+    type: article
+    provider:
+      name: NL Times
+      domain: nltimes.nl
+    quality: 35
+    images:
+      - url: "https://nltimes.nl/sites/nltimes.nl/files/styles/news_article_full/public/2021-03/Depositphotos_160897874_l-2015.jpg?h=56d0ca2e"
+        width: 837
+        height: 462
+        isCached: true
 
 secured: "+RMfJM1SImzrIOxvtwOwnkZ3B/bZTO8lOaq/BwQVenV8N0OU8eH8rlG4nNSQabRnownYOQjwUeCNS/4Dt/UgR6f8thkVOM6JYin48I7gvk6bujDNkZn1t1DMxSMFXQCtZEmBN7pyOJx6i3lEsbD9DaO9s2f5qUPYjUPY+1Uopzj5ARZLKm34Gc3U5ZYBeeu8c+RNkmFjqNHmUDwOpANNgA84Py3lxC3XG6mOEXNeM+n+yGQY/E3cGDQtOcCuhmpcONrxI94G4K1GZQNlCzTZgTTKwmVjInKQ/kl+j+tC8lvqc+9A8JKZF04APmiWHI2qE3xICMNBgAoBgaiOS44I/9iAnfUkkDZcYhh7Mo+Wmp9wRsWTqE49jwRg7FqngnLeevcbluU/HqyG3FY4TEl31Et665oXr+dHT2F3xDZGRvQo3HTS2wpSWjNuc7B/8GtijnrHVJSLIgKUuxmH1lFSlGWnKmDADtwbikNNEx5yVYuFAs4i4bT5E8tOK7/NLvgefMdnSt3qJkX67L6kkRqLJw==;8DGqDyTFU322Ayfm4MpykA=="
 ---

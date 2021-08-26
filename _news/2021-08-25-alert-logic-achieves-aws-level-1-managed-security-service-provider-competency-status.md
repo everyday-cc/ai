@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Atos Achieves AWS Level 1 Managed Security Service Provider Competency Status"
+    excerpt: "Atos announced today that it has achieved Amazon Web Services (AWS) Level 1 Managed Security Service Provider (MSSP) Competency status. This designation recognizes that Atos has successfully met AWS’s requirements for a baseline of managed security services to protect and monitor essential AWS resources 24/7,"
+    publishedDateTime: 2021-08-25T00:00:00Z
+    webUrl: "https://www.pressreleasepoint.com/atos-achieves-aws-level-1-managed-security-service-provider-competency-status"
+    type: article
+    provider:
+      name: KLAS Press Release
+      domain: pressreleasepoint.com
+    quality: 53
+    images:
+      - url: "https://www.pressreleasepoint.com/sites/all/modules/press_release/social-media-icons/fbpage.png"
+        width: 256
+        height: 256
+        isCached: true
   - title: "eSentire Achieves AWS Level 1 Managed Security Service Provider Competency Status"
     excerpt: "(GLOBE NEWSWIRE) -- eSentire, recognized globally as the Authority in Managed Detection and Response (MDR), announced today that it has achieved Amazon Web Services (AWS) Level 1 Managed Security Service Provider (MSSP) Competency status."
     publishedDateTime: 2021-08-24T17:33:00Z
