@@ -9,8 +9,8 @@ ampWebUrl: "https://www.metro.us/rent-a-robot-silicon-valleys-new/amp/"
 cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/rent-a-robot-silicon-valleys-new/amp/"
 type: article
 quality: 50
-heat: 80
-published: true
+heat: -1
+published: false
 
 provider:
   name: Metro US
@@ -27,15 +27,36 @@ images:
     isCached: true
 
 related:
-  - title: "Factbox-Investors Are Betting on Rent-A-Robot Startups in Silicon Valley"
+  - title: "FACTBOX-Investors are betting on rent-a-robot startups in Silicon Valley"
     excerpt: "Silicon Valley has a new pitch for small U.S. manufacturers struggling with hiring workers but wary of the high costs of high tech: rent-a-robot. Much of the initial risk and cost are taken on by the robot companies."
-    publishedDateTime: 2021-08-26T10:27:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-08-26/factbox-investors-are-betting-on-rent-a-robot-startups-in-silicon-valley"
+    publishedDateTime: 2021-08-26T14:00:00Z
+    webUrl: "https://www.reuters.com/article/usa-robots-manufacturing-silicon/factbox-investors-are-betting-on-rent-a-robot-startups-in-silicon-valley-idUSL1N2PW1VW"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2PW1VW"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2PW1VW"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 48
+      name: Reuters
+      domain: reuters.com
+    quality: 88
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210826&t=2&i=1572988153&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH7P0DO"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Factbox: Investors are betting on rent-a-robot startups in Silicon ValleyÂ"
+    excerpt: "Silicon Valley has a new pitch for small U.S. manufacturers struggling with hiring workers but wary of the high costs of high tech: rent-a-robot. Much of the initial risk and cost are taken on by the robot companies."
+    publishedDateTime: 2021-08-26T14:29:00Z
+    webUrl: "https://www.reuters.com/business/investors-are-betting-rent-a-robot-startups-silicon-valley-2021-08-26/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=50"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Rent-a-robot: Silicon Valley’s new answer to the labour shortage in smaller US factories"
     excerpt: "Silicon Valley has a new pitch to persuade small companies to automate: rent-a-robot. Better technology and the need to pay higher wages to humans have produced a surge in sales of robots to big companies all across America."
     publishedDateTime: 2021-08-26T11:55:00Z
@@ -65,6 +86,6 @@ related:
         height: 600
         isCached: true
 
-secured: "97I2wYUMMSS3fZWVdITQNj6DC3D1aWRsOcRYmdBTPg5Y6xkXOyWbZIc4FNK87Z/ykcTsJGwNOdLoljd1ruawmATMumilDypN8UxMyOaSg+FryXWw237AAoGOXqsMJRIAyIUjxAkdN1ilJLbox38acrRbVNH2QO6o/M98H9oYZUKWcXVCNCz9x8MlO1TcIukM0Toqu7SO+4ao2itS2Lj1IvcIhI04veADgUYB1HMPDJR14Y70XTTVrSLG8fOQoJe1FstlHXv5vDpfsgOHoeMgy8fYaN0Qu9pKaRklTneOlj6N1KAlQFFjpKEtap1sWwOxrROB4eYqKBJKJuKwTbDII9zVGBjczaVpjrcnEQTzce4=;DO77cnrzPlQ56AuXhqynlw=="
+secured: "W92IDkrT+Z19hiS/qqKsuNdpY4bq6QwSJEkPvJBRLQy5BkLMFaXKhMscodEGCA3gTf5tzVVl3qFD7ekqKcjKYmZDjIbLGhrFVePOmcOXZZVCr0YkQk/p2pw3iqHruEYpCv4RtlHM7bQ0ULwrJGUVOgxmpokZDkOq8qDw7VyHSKpJOESNJF5LfO85TvJLTYWIzzEkMJBcOizzFieVDHdiTZpok94AMyEdtBsraw9MlD/VcTnQudclYzEzxgHcUuzUZkclBXG9Pgx+Ot3phwQ/SjLMAiYDHDNfF4ouk8mZsmKHfDMfDNW8lrPzZ1qrYUckuCJCmAZYA0oGsUHT8vb6cfZOYq6Iy0Vxy+3RemUXdQ/4a2F+D69Cs7y3c4WWyodG5pgWzk3Y5HGrKqNPJBAdPP9Wcc4waKxBAbTlZHEfjvXpzo1IsenuVCevXG6QucVcCSJc6BD+PYFZVwvgb2kM30GZab0m8H2yz7MS9ky+o8kbYztGYh+3u2zDCa3aX0DnnZ+hNFaEPV9WUEszCfImng==;dPnjD69QCMGlOCKmOq3wOg=="
 ---
 

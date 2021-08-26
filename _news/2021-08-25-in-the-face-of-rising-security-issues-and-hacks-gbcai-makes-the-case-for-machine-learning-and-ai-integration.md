@@ -9,7 +9,7 @@ ampWebUrl: "https://techbullion.com/in-the-face-of-rising-security-issues-and-ha
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/in-the-face-of-rising-security-issues-and-hacks-gbc-ai-makes-the-case-for-machine-learning-and-ai-integration/amp/"
 type: article
 quality: 71
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -26,24 +26,6 @@ images:
     width: 512
     height: 320
     isCached: true
-
-related:
-  - title: "Artificial Intelligence Is Changing The Face Of Tech In Sports"
-    excerpt: "Automation and AI are at the forefront of driving numerous industries in the pandemic-hit world. While things are slowly getting back to normalcy, they would never be the same. As a matter of fact, the pandemic unleashed the true potential of Artificial Intelligence,"
-    publishedDateTime: 2021-08-23T05:00:00Z
-    webUrl: "https://www.gizbot.com/internet/features/artificial-intelligence-changing-face-of-tech-in-sports-076273.html"
-    ampWebUrl: "https://www.gizbot.com/amphtml/internet/features/artificial-intelligence-changing-face-of-tech-in-sports-076273.html"
-    cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/internet/features/artificial-intelligence-changing-face-of-tech-in-sports-076273.html"
-    type: article
-    provider:
-      name: GIZBOT
-      domain: gizbot.com
-    quality: 59
-    images:
-      - url: "https://www.gizbot.com/img/2021/08/5-1629548019.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "Ige+ITf3A23H2VJsid1JFAFsEbEyuHoV45IVr8/wvN3aEdx3p4p+MA9kSZkzs4iIRWZif5CwqkZtClyLKVg7lyMd+TqzoNFBop0fYoTiW1xq0/bWKtvhYEUlquZOF2M2C2Qnvs0ZfXv2j94UVY8n1Ihf9SOusbZFGM2VQmp/RBxQot+nJL6XxxVweWeHaLxqe/sJ7bnpW/zGLY6ckuBo1j5dUFdZElFE8v3VfJqbJG11jZOSzG61tKtMcFM8NSkAIZE6lGEWnqW6wKx6fEsSnsScB3ZUp19YTLbbl6eeHJWbKUXFQKw/AOtdIvGvYLtAIRvPWnkP5XG7LRpUorr7QEssM+FWIKxjd7Ofzsuc3ezzFLZXHEvrKRDe/FMTacQIS6JQf4ccTIZwarshWh7qLaZ7HkYoSnCy1tk51liF5Y7cZnSCb4gVJxnYwdOGXzOtU5SGWw9eujusSt52Bxp30fkyZptFM7O8GvTGDCRkSNcW5rkA1bbPvJ8PsBZtvuOOc+IG0/OGez7hIFh2fkxbGw==;2Ucp/KaWWwukTBudg0tuYg=="
 ---

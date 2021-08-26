@@ -1,30 +1,22 @@
 ---
 category: news
 title: "Western Rly commissions Russian face recognition technology"
-excerpt: "According to the company, the video analytics has been installed at 30 railway stations across Gujarat and Maharashtra, including Mumbai"
-publishedDateTime: 2021-08-26T09:13:00Z
-originalUrl: "https://www.thestatesman.com/technology/western-rly-commissions-russian-face-recognition-technology-1502999173.html"
-webUrl: "https://www.thestatesman.com/technology/western-rly-commissions-russian-face-recognition-technology-1502999173.html"
-ampWebUrl: "https://www.thestatesman.com/technology/western-rly-commissions-russian-face-recognition-technology-1502999173.html/amp"
-cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/western-rly-commissions-russian-face-recognition-technology-1502999173.html/amp"
+excerpt: "Western Rly commissions Russian face recognition technology Chennai \\| 2021 6:15:06 PM IST The Western Railway, one of the busiest railway networks in In"
+publishedDateTime: 2021-08-26T14:21:00Z
+originalUrl: "https://www.netindia123.com/showdetails.asp?id=3809360&cat=Science"
+webUrl: "https://www.netindia123.com/showdetails.asp?id=3809360&cat=Science"
 type: article
-quality: 59
-heat: 69
+quality: 19
+heat: -1
 published: false
 
 provider:
-  name: The Statesman
-  domain: thestatesman.com
+  name: Net India 123
+  domain: netindia123.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://www.thestatesman.com/wp-content/uploads/2021/08/d7f2c1fcc278280702f4f0f5a320ce5d-1-1024x683.jpg"
-    width: 1024
-    height: 683
-    isCached: true
 
 related:
   - title: "Western Railways Commissions Russian Face Recognition Technology; Can Identify 50 People In A Single Frame"
@@ -42,6 +34,6 @@ related:
         height: 800
         isCached: true
 
-secured: "NIndwC0AFauAoEGRllwh32L+Arp4xRLbUU4v3iHez9red8YZNHn3w+uZkUHQPWxiFVYiCd5k9bjV/Ad7OImBcB6Q7Z6tDREkFuH+RgcaVBcebgMl3PaNlF5/i69zBAFZqRJNx6lsWToiusT+6QWXLRZ/lvSSD/X7b4eOB6CuWazULiXpr4FVt5UOUaXFkz0Jp4luuk8cGbdv5q4hpKQXRUptjMylU6mfvhjlsTInhJIlPlnsgcgnLqm0oCDbc46a2xeqr3I8sqKoAj0bvNd7mhJnCSRKPXvU7DzheGzmKf7yjXhq3+jReNX0Rwshs3k8f2piUn/qqed4K1CTxTt7C78v+jvcX50dnXBTJ44eYrk=;aMOb10eDR5XvZ6WnRI+rWA=="
+secured: "tHBRDfrH2JA8tUmnVcUicjblyQkGUa9o9ZN3nLELgAOnAfDNfpKYQsx29cryas+9MzT8JjccYD60OO43mmVyvf1AksOlbkY9iITESjR3PoV7Vc8jkUFwOfW5ITAVok5HjSwPEH/vEOGXur8FhBLgKCNbiJIq131tCzvUX8nzbruyKxfxA+KTynJ1YlvsQz43pF/0/Ks8n52U1R6NbtXjo5qk4ZsGWrZj2Yu9Ri8CP75mKkn50siJ8iRSUuHAaQWKWHP44xHXCYs7ulZ0j5VQRxtNsFwt7HY31wsm5XkRPSaDmM6e4ReqKcDrXTnJSAtE/NFlnCeK+Tj0ZnxNBJMmk1rdyzkKv/x4dxv1gPXHPDE=;0hYutjqZTXaDAu+BEjzRUA=="
 ---
 

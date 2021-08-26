@@ -7,7 +7,7 @@ originalUrl: "https://healthitanalytics.com/news/using-artificial-intelligence-b
 webUrl: "https://healthitanalytics.com/news/using-artificial-intelligence-blood-testing-to-detect-lung-cancer"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,29 +24,34 @@ images:
     isCached: true
 
 related:
-  - title: "Putting The Fun Back Into Software Testing With AI"
-    excerpt: "This work is rarely described as fun, so let's automate it. Is automation the answer to making testing fun again?"
-    publishedDateTime: 2021-08-24T15:00:00Z
-    webUrl: "https://thenewstack.io/putting-the-fun-back-into-software-testing-with-ai/"
+  - title: "AI Blood Test Shown to Detect >90% of Lung Cancers Across Different Stages"
+    excerpt: "DELFI blood testing technology indirectly measures how DNA is packaged inside the nucleus by studying the size and amount of cell-free DNA in the circulation."
+    publishedDateTime: 2021-08-23T12:00:00Z
+    webUrl: "https://www.genengnews.com/news/ai-blood-test-shown-to-detect-90-of-lung-cancers-across-different-stages/"
     type: article
     provider:
-      name: thenewstack.io
-      domain: thenewstack.io
-    quality: 39
+      name: GEN
+      domain: genengnews.com
+    quality: 35
     images:
-      - url: "https://cdn.thenewstack.io/media/2021/08/5819ae1e-ferris-wheel-731194_1280.jpg"
-        width: 1280
-        height: 853
+      - url: "https://www.genengnews.com/wp-content/uploads/2018/08/Jul15_2016_Getty_94463987_LungCancer6618013724.jpg"
+        width: 500
+        height: 375
         isCached: true
-  - title: "AI vs. AI: Gearing Up for Battle With Deep Learning"
-    excerpt: "AI has been widely integrated into our everyday lives — ranging from domestic appliances to medical equipment — but the power of AI makes it extremely appealing to threat actors, and the recent emergence of adversarial AI proves it."
-    publishedDateTime: 2021-08-25T13:00:00Z
-    webUrl: "https://www.darkreading.com/attacks-breaches/ai-vs-ai-gearing-up-for-battle-with-deep-learning"
+  - title: "Nutrition and tech experts bring carb-coding power to the masses with AI startup"
+    excerpt: "A team of esteemed data scientists and performance nutritionists have joined forces to create a personalised nutrition app which brings the newly discovered power of ‘carb coding’ from the worl of elite sports,"
+    publishedDateTime: 2021-08-23T16:07:00Z
+    webUrl: "https://www.foodnavigator.com/Article/2021/08/23/Nutrition-and-tech-experts-bring-carb-coding-power-to-the-masses-with-AI-startup"
     type: article
     provider:
-      name: Dark Reading
-      domain: darkreading.com
+      name: FoodNavigator
+      domain: foodnavigator.com
     quality: 34
+    images:
+      - url: "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/nutraingredients.com/article/2021/08/23/nutrition-and-tech-experts-bring-carb-coding-power-to-the-masses-with-ai-startup/12748881-3-eng-GB/Nutrition-and-tech-experts-bring-carb-coding-power-to-the-masses-with-AI-startup.jpg"
+        width: 1290
+        height: 1065
+        isCached: true
 
 secured: "/JKv2BRIEXK7fcNkI2k0PCWc3Hb8BnIyJfx+oZvFH+EaAjtzXdR0HZCwcPbMmlFFKdAbUqGXuzZxo7kc0S7H6TEQvhPJXRGUXx8cLmYzcfuPgoiKCBdqVmD0577yEp1p3AMfZJ8BoIn9fyaHtyV0lED4/wOojDVYnneVI4n/fazuZbHUCYSpE8u4O/mdz3rviKV9Wj7qM9cmw6rrzOW67ALs3MQW0SfdsQ3wbRRfo4QHCy1wtp8u2JYoYY175cC+ORIF8gfQOPKI1cRi7VQxNWr3BVBzw2B4l/KKDSWPl4SC4qmcjvdVY15tqgGbGLqfjrdSxlxqh4+w2ApBWTAzA1lBddUnkOAz9OE3WrWtx75SR6V5Wjy9PsBhCB501LcGTLjkhaPEX8zVnR37wNyXLgpJe2L0bzgANryYxglTOgEz89hJ9EZdTU2noA9ptLPfGo0TMRN5WtoGzwX6KNP4b5Ri1GDRn9FvFIVYKIfAwrg2/qJDBj9g4Ah7HH4jsxJ6KlvVKd7vU73IrELkm5OGGA==;JGs2nNDSftJlQvK45zJwXA=="
 ---

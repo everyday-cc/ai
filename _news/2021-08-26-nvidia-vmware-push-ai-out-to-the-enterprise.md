@@ -6,7 +6,7 @@ publishedDateTime: 2021-08-26T11:00:00Z
 originalUrl: "https://thenewstack.io/nvidia-vmware-push-ai-out-to-the-enterprise/"
 webUrl: "https://thenewstack.io/nvidia-vmware-push-ai-out-to-the-enterprise/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://cdn.thenewstack.io/media/2021/08/c783c87a-curve-1209392_640.jpg"
@@ -143,6 +144,6 @@ related:
       domain: tmcnet.com
     quality: 11
 
-secured: "yoDIf35mWrJCO6M+Y2sHBjEuvFpHdtAwlGW0X1j6xenwqsLGIGJ+CvGdaJPuMHjBZtFKlP/ExKAf+ydgeZ4gwon2DjxlfuJ3qEquqI1Tym9bPvZD6kmyWXCt69xCe8LWx1K9A6gC4p8mnXMqMKeFRuw2ow7O9hG89OoHMJh3KDZdE9XFtkR93MUnNBQvCF4CgadJu3owubiKGe0L4pdiY50KiVYzXrXC+09HlFUgTbg8aVo8FnFFcI20C6kDv7jW06HHFncC296dS152FCVyus8UG46d78QnUAJ6+pgIgirpIunuyP4ynSJSKv3c81FRdYTZem96EdFs39UF+7megjn3O3+sSbQe9D/klRVGwac=;Vtuc4XwBajg9SVtH0ycHvA=="
+secured: "4BsC4602PNJ8ut7sO1DjO62fsu4byTeZBcjmcqh6SmsfrxJxws6/6rIkfjWajnzi5bocykAa3AaW2/yTo9kMQMZS7xliB4dNyBPQwPqzRWtW1cOH/V1eR5bwtqQVFTbgRck8wBrhtjK9E7ylpm56LEhWFHX9LnubVcu5qoCWpdgSWEhsXyM76rXp/i01xJMPK8qUnQpJpeQDyJjblndhE0VTSA4B2UdOETVrb0HNZ7ZDgrvE5p5/A4i2YWS+SvzfBSGkPYmuMCJSYAhQDErdhXle4bPkRZHmKdlwLLv+jCYrEHidVqQ38/Lekstm5x2yuhXMhWZuWNl1zroy2VVYsaJ8lhEc8EPrtNEJ1CVE/KoJh1otJ1B4YCPwQZRyHjJJz5hjvB0/R5YCXeEypE2F6H3xvKgWhNvcqEjCJcKylTgGnVvgpCQ1AFTsvAX5X2aSHt/ckkh6mf659JEq1W7/bDVqx1iED8X9WfkWL62kbke3W5aSZDln4P0AaeEHtpBlzlkAW+NG0ZBfLMsmXdG7/g==;kzQAQ0AmqZQWzaF59ecxrA=="
 ---
 

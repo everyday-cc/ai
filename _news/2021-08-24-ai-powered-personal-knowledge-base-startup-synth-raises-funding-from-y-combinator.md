@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/381136"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/381136"
 type: article
 quality: 82
-heat: 122
+heat: 112
 published: true
 
 provider:
@@ -46,17 +46,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Senators question DOJ funding for AI-powered policing tech"
-    excerpt: "Some Capitol Hill Democrats and civil rights advocates are concerned about how police and prosecutors increasingly use algorithm-powered technologies that may amplify racial bias."
-    publishedDateTime: 2021-08-21T22:24:00Z
-    webUrl: "https://www.mercedsunstar.com/news/business/article253638763.html"
-    ampWebUrl: "https://amp.mercedsunstar.com/news/business/article253638763.html"
-    cdnAmpWebUrl: "https://amp-mercedsunstar-com.cdn.ampproject.org/c/s/amp.mercedsunstar.com/news/business/article253638763.html"
-    type: article
-    provider:
-      name: Merced Sun-Star
-      domain: mercedsunstar.com
-    quality: 37
   - title: "Y-Combinator backs AI powered personal knowledge base startup Synth"
     excerpt: "Silicon Valley-based startup accelerator Y Combinator has invested $125,000 in Synth, an AI startup for knowledge workers as part of the Y-Combinator’s Summer 21 batch. Synth is an app that captures all the relevant information you consume – text,"
     publishedDateTime: 2021-08-24T05:26:00Z

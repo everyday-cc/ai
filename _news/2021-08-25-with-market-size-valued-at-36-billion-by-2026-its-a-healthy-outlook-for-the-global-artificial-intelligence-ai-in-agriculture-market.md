@@ -25,61 +25,61 @@ images:
     isCached: true
 
 related:
-  - title: "The Role of Artificial Intelligence (AI) in the Global Agriculture Market 2021 - ResearchAndMarkets.com"
-    excerpt: "Market in Agriculture Industry Market 2021-2025” report has been added to ResearchAndMarkets.com’s offering. The artificial intelligence (AI) market in the agriculture industry is poised to grow by $458."
-    publishedDateTime: 2021-08-23T15:16:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-science-agriculture-artificial-intelligence-e006f4c80d694418bfd5b2b93e113947"
+  - title: "With Market Size Valued at $40 Billion by 2026, it`s a Healthy Outlook for the Global Artificial Intelligence (AI) in Healthcare Market"
+    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Healthcare - Global Market Trajectory & Analytics\"."
+    publishedDateTime: 2021-08-26T13:44:00Z
+    webUrl: "https://www.lelezard.com/en/news-19969639.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 36
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 39
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+        width: 640
+        height: 480
         isCached: true
-  - title: "C3.ai Inc. (AI) market price of $49.73 offers the impression of an exciting value play"
-    excerpt: "Let’s start up with the current stock price of C3.ai Inc. (AI), which is $49.73 to be very precise. The Stock rose vividly during the last session to $50.25 after opening rate of $47.50 while the lowest price it went was recorded $47."
-    publishedDateTime: 2021-08-25T23:43:00Z
-    webUrl: "https://investchronicle.com/2021/08/25/c3-ai-inc-ai-market-price-of-49-73-offers-the-impression-of-an-exciting-value-play/"
+  - title: "Valued to be $13.5 Billion by 2026, Artificial Intelligence (AI) in Supply Chain Slated for Robust Growth Worldwide"
+    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Supply Chain - Global Market Trajectory & Analytics\"."
+    publishedDateTime: 2021-08-26T15:43:00Z
+    webUrl: "https://www.lelezard.com/en/news-19969994.html"
     type: article
     provider:
-      name: investchronicle
-      domain: investchronicle.com
-    quality: 29
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 32
     images:
-      - url: "https://investchronicle.com/wp-content/uploads/2019/06/investchronicle-89-e1579508125875.png"
-        width: 450
-        height: 298
+      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
+        width: 421
+        height: 421
         isCached: true
-  - title: "United States Automotive Voice Recognition Systems Market Report 2021 - Forecast to 2026 - ResearchAndMarkets.com"
-    excerpt: "The “Automotive Voice Recognition Systems Market Research Report by Deployment, by State - United States Forecast to 2026 - Cumulative Impact of COVID-19” report has been added to ResearchAndMarkets.com’s offering."
-    publishedDateTime: 2021-08-24T14:32:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-united-states-voice-recognition-020d4caabfe8456fbe7b0856bbb2bf8f"
+  - title: "With Market Size Valued at $2.6 Billion by 2026, it`s a Healthy Outlook for the Global Artificial Intelligence (AI) in Drug Discovery Market"
+    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence"
+    publishedDateTime: 2021-08-26T12:10:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/with-market-size-valued-at-2-6-billion-by-2026-it-s-a-healthy-outlook/article_5d6eaa18-3270-572f-8e6f-90817cffada7.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 3
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 17
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/54/c541e310-234d-5b11-ae36-550c5cb8f770/612785f094d46.image.jpg?resize=1013%2C630"
+        width: 1013
+        height: 630
         isCached: true
-  - title: "Global Federated Learning Market Research Report 2021: Leveraging Open Source Tools to Accelerate Technology Development across Organizations and Regi"
-    excerpt: "New Approach to Building AI Models\" report has been added to ResearchAndMarkets.com's offering. Federated learning is a distributed ML architecture that enables a global model to be trained using decentralized data."
-    publishedDateTime: 2021-08-23T14:23:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=519914"
+  - title: "With Market Size Valued at $151.6 Billion by 2026, it`s a Healthy Outlook for the Global Cognitive Computing Market"
+    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Cognitive Computing - Global Market Trajectory & Analytics\"."
+    publishedDateTime: 2021-08-24T15:45:00Z
+    webUrl: "https://www.lelezard.com/en/news-19966123.html"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 2
     images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "ONCgBFFcQOxJdJfOLXan/L++6akpB/m7e/7CHa7hUaRhgXyhY33I8r7rIvdXjTEp0cCodC323Kb0pelrDolXDHNdja7M7KEJPKGmiLUW5x75+aZJo0zUNssChLV7udXdJSt7ufhkqkFtHUg//p0dL0f/auFB7r6gg2EDEqcd9O8nwHD9ABoLP17yFkKE4HcbGvwfRIXjUju9fwYYm6aoqUqAo2FLD24hPjGPZmkZIlKQtq0NA4mpDsXLyxnQjglBrlLNWrPBBFxyrtcemlBhHrboziynUIua8ZqkOmBqI08BnIJbU/CJ2gUvKvNLlkh3HamDa5V3X7RgZkw1vcvZfhy+U4LewgSK8rJFgffBJRw=;/IoNFXFmxkrXjPxivQEvvw=="

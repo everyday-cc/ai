@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cmswire.com/digital-experience/why-conversational-ai-is-
 cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/why-conversational-ai-is-so-much-more-than-a-chatbot/amp/"
 type: article
 quality: 59
-heat: 159
-published: true
+heat: -1
+published: false
 
 provider:
   name: CMS Wire
@@ -27,21 +27,53 @@ images:
     isCached: true
 
 related:
-  - title: "Five top tips for ensuring your conversational AI project is a hit"
-    excerpt: "Let’s look first at where conversational AI can make a difference. There are three main forms of communication in every organization where conversational AI can dramatically cha"
-    publishedDateTime: 2021-08-26T10:00:00Z
-    webUrl: "https://www.itproportal.com/features/five-top-tips-for-ensuring-your-conversational-ai-project-is-a-hit/"
-    ampWebUrl: "https://www.itproportal.com/amp/features/five-top-tips-for-ensuring-your-conversational-ai-project-is-a-hit/"
-    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/five-top-tips-for-ensuring-your-conversational-ai-project-is-a-hit/"
+  - title: "Bringing People Back To Life With The Power Of AI Chatbots"
+    excerpt: "Gary Fowler is a serial AI entrepreneur with 17 startups and an IPO. He is CEO and co-founder of GSDVS.com and Yva.ai. In the reality we live in, people live their lives and then leave — for good, never to cross the line and return to the world again."
+    publishedDateTime: 2021-08-26T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/08/26/bringing-people-back-to-life-with-the-power-of-ai-chatbots/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/08/26/bringing-people-back-to-life-with-the-power-of-ai-chatbots/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/08/26/bringing-people-back-to-life-with-the-power-of-ai-chatbots/amp/"
     type: article
     provider:
-      name: IT Pro Portal
-      domain: itproportal.com
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6126b209cfc56d1e7361035c%2F0x0.jpg"
+        width: 1200
+        height: 840
+        isCached: true
+  - title: "Artificial Intelligence Is Changing The Face Of Tech In Sports"
+    excerpt: "Automation and AI are at the forefront of driving numerous industries in the pandemic-hit world. While things are slowly getting back to normalcy, they would never be the same. As a matter of fact, the pandemic unleashed the true potential of Artificial Intelligence,"
+    publishedDateTime: 2021-08-23T05:00:00Z
+    webUrl: "https://www.gizbot.com/internet/features/artificial-intelligence-changing-face-of-tech-in-sports-076273.html"
+    ampWebUrl: "https://www.gizbot.com/amphtml/internet/features/artificial-intelligence-changing-face-of-tech-in-sports-076273.html"
+    cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/internet/features/artificial-intelligence-changing-face-of-tech-in-sports-076273.html"
+    type: article
+    provider:
+      name: GIZBOT
+      domain: gizbot.com
     quality: 59
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/ghbHs8vktkp6zcrYVRGQ2d-1200-80.jpg"
-        width: 970
-        height: 545
+      - url: "https://www.gizbot.com/img/2021/08/5-1629548019.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Healthcare Chatbots Market Will Expected To Spur Over The Upcoming Years"
+    excerpt: "Global Healthcare Chatbots Market Overview The global healthcare chatbots market is expected to rise remarkably owing to the rise in the usage of internet and increasing number of internet connectivity all around the world Chatbots or chart robots is a"
+    publishedDateTime: 2021-08-23T17:33:00Z
+    webUrl: "https://www.openpr.com/news/2364333/healthcare-chatbots-market-will-expected-to-spur-over"
+    ampWebUrl: "https://www.openpr.com/amp/2364333/healthcare-chatbots-market-will-expected-to-spur-over"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2364333/healthcare-chatbots-market-will-expected-to-spur-over"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 58
+    images:
+      - url: "https://cdn.openpr.com/U/8/U823163760_g.jpg"
+        width: 781
+        height: 512
         isCached: true
   - title: "'Always There': The AI Chatbot Providing a Shoulder to China's Lonely Millions"
     excerpt: "Originally a side project from developing Microsoft's Cortana chatbot, XiaoIce now accounts for 60 percent of global human-AI interactions by volume."
@@ -116,6 +148,34 @@ related:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/AI-chatbot-China-AFP-1K-04.jpg"
         width: 1024
         height: 681
+        isCached: true
+  - title: "‘Always there’: The AI chatbox comforting China’s lonely millions"
+    excerpt: "BEIJING: After a painful break-up from a cheating ex, Beijing-based human resources manager Melissa was introduced to someone new by a friend late"
+    publishedDateTime: 2021-08-24T04:56:00Z
+    webUrl: "https://www.thesundaily.my/world/always-there-the-ai-chatbox-comforting-china-s-lonely-millions-EB8245464"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesundaily.my
+    quality: 39
+    images:
+      - url: "https://www.thesundaily.my/binrepository/480x320/0c57/480d250/none/11808/UJXY/china-computers-social-internet-000321_1857084_20210824125004.jpg"
+        width: 480
+        height: 250
+        isCached: true
+  - title: "Putting The Fun Back Into Software Testing With AI"
+    excerpt: "This work is rarely described as fun, so let's automate it. Is automation the answer to making testing fun again?"
+    publishedDateTime: 2021-08-24T15:00:00Z
+    webUrl: "https://thenewstack.io/putting-the-fun-back-into-software-testing-with-ai/"
+    type: article
+    provider:
+      name: thenewstack.io
+      domain: thenewstack.io
+    quality: 39
+    images:
+      - url: "https://cdn.thenewstack.io/media/2021/08/5819ae1e-ferris-wheel-731194_1280.jpg"
+        width: 1280
+        height: 853
         isCached: true
   - title: "AI Chatbot Comforts China’s Lonely Millions"
     excerpt: "After a painful break-up from a cheating ex, Beijing-based human resources manager Melissa was introduced to someone new by a friend late last year. He replies to her messages at all hours of the day,"

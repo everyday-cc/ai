@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Factbox-Investors Are Betting on Rent-A-Robot Startups in Silicon Valley"
+title: "FACTBOX-Investors are betting on rent-a-robot startups in Silicon Valley"
 excerpt: "Silicon Valley has a new pitch for small U.S. manufacturers struggling with hiring workers but wary of the high costs of high tech: rent-a-robot. Much of the initial risk and cost are taken on by the robot companies."
-publishedDateTime: 2021-08-26T10:27:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2021-08-26/factbox-investors-are-betting-on-rent-a-robot-startups-in-silicon-valley"
-webUrl: "https://www.usnews.com/news/technology/articles/2021-08-26/factbox-investors-are-betting-on-rent-a-robot-startups-in-silicon-valley"
+publishedDateTime: 2021-08-26T14:00:00Z
+originalUrl: "https://www.reuters.com/article/usa-robots-manufacturing-silicon/factbox-investors-are-betting-on-rent-a-robot-startups-in-silicon-valley-idUSL1N2PW1VW"
+webUrl: "https://www.reuters.com/article/usa-robots-manufacturing-silicon/factbox-investors-are-betting-on-rent-a-robot-startups-in-silicon-valley-idUSL1N2PW1VW"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2PW1VW"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2PW1VW"
 type: article
-quality: 48
-heat: -1
-published: false
+quality: 88
+heat: 128
+published: true
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -22,7 +24,27 @@ topics:
   - AI in Robotics
   - AI
 
+images:
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210826&t=2&i=1572988153&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH7P0DO"
+    width: 817
+    height: 545
+    isCached: true
+
 related:
+  - title: "Factbox: Investors are betting on rent-a-robot startups in Silicon ValleyÂ"
+    excerpt: "Silicon Valley has a new pitch for small U.S. manufacturers struggling with hiring workers but wary of the high costs of high tech: rent-a-robot. Much of the initial risk and cost are taken on by the robot companies."
+    publishedDateTime: 2021-08-26T14:29:00Z
+    webUrl: "https://www.reuters.com/business/investors-are-betting-rent-a-robot-startups-silicon-valley-2021-08-26/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=50"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Rent-a-robot: Silicon Valley’s new answer to the labor shortage in smaller U.S. factories"
     excerpt: "Silicon Valley has a new pitch to persuade small companies to automate: rent-a-robot. Better technology and the need to pay higher wages to humans have produced a surge in sales of robots to big companies all across America."
     publishedDateTime: 2021-08-26T10:14:00Z
@@ -68,6 +90,6 @@ related:
         height: 600
         isCached: true
 
-secured: "CGFKVIb/Ison1i4zaxoZ7d3hZeWX+zXTniszt3/2xoA/pUtuN+mgBpBRjiMEkB6kjMWSnMHBpYP3FgHN7KLEgh+5HR1wqEd4Yeg7DVkIo4iHWhDtxTyqVK7TBPrIZ86fICSfqGZRvMZXbLjBGKRdu10wXthzKQ4aL+blXqrIVXgkBlvPRjtEtQOPg7dWLXYjAEbGStryC0dAZfwkVJXP2GAZooM78z4WWFX/i10nICipKnNVFapUTiDJjvn9R7o5705SnxzEjGaMkhVEUEtYf/kAWBFyfE+Lh2PAkocuAOn5r+feYe/wHcNxsdjy6z1HD779P60GUOm/UJ074Vfc+QGmC+r850VQNR1PxmP+D58w6gHvfauOFX5uP4H19XUWCNkGIBLk3ikOLVa1xgXQr9Xnc5zHS9/fOtZuFkUnGfxDjzFe56VVOGobkM8/Mz/ha2SDh/JaGtLqXtlxwSbC1Ly1Rn94IhD0f6M5zMLFXa5GyiI/o0xzRSlI/ZXucA6FMQB7a5fA5dTbwR1TiNY1NQ==;ucGbkrQEbcpvgpc+hKiJOQ=="
+secured: "1iJNRYGkL1UO/9znmGuPOv1XhD2YO2kKXGvw+yZQV9qFbfgsuaKfcfrI/KQ1iFOYD6QWnFMQN1UZTMO9vrd5W3Nn80uBLksTZ/8W9tzQZ8Is2OIGXR/0GwRLqwPcn9tJvpdU8ldidstpdzJlXUaRRG9/k7kDqiGhjEqjEB9LyLIvIgURtfccpWIFb+PiQJxVCx39LP51YlLQ0lGzoPIxF9YAVecDbbi+W+acRD6bWrRSDNEQnkCW5yokVYF+zfRriBLOEl868Y/zRv1ihaxVpOwH8EUJEt7R0BthJmLffcMi8Bv3cUWdj+lV+9ZP48oX9+ws9IiHbpSICm2UlNy9KiommEwuPi0aPZTRQA8KsRo=;rl4TAEb0g43veBNe00IztA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.darkreading.com/attacks-breaches/ai-vs-ai-gearing-up-f
 webUrl: "https://www.darkreading.com/attacks-breaches/ai-vs-ai-gearing-up-for-battle-with-deep-learning"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -17,36 +17,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-related:
-  - title: "Putting The Fun Back Into Software Testing With AI"
-    excerpt: "This work is rarely described as fun, so let's automate it. Is automation the answer to making testing fun again?"
-    publishedDateTime: 2021-08-24T15:00:00Z
-    webUrl: "https://thenewstack.io/putting-the-fun-back-into-software-testing-with-ai/"
-    type: article
-    provider:
-      name: thenewstack.io
-      domain: thenewstack.io
-    quality: 39
-    images:
-      - url: "https://cdn.thenewstack.io/media/2021/08/5819ae1e-ferris-wheel-731194_1280.jpg"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "Using Artificial Intelligence Blood Testing to Detect Lung Cancer"
-    excerpt: "Johns Hopkins Kimmel Cancer Center researchers developed novel artificial intelligence blood testing technology to detect lung cancer in patients. The test approach, called DELFI (DNA evaluation of fragments for early interception),"
-    publishedDateTime: 2021-08-24T17:00:00Z
-    webUrl: "https://healthitanalytics.com/news/using-artificial-intelligence-blood-testing-to-detect-lung-cancer"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 37
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-912319336.jpg"
-        width: 690
-        height: 400
-        isCached: true
 
 secured: "5AQ4jZlywMAHQRAjUEjQ7yd8Bwvv15ffxjmeNX9W6SmY/gy7/o/Iez8aelPNdMVHJrdmtPO9XIv97vaIeFb2TO3y1iO65d5c/AHkL06PL87WRuVGCFJGVA8SJ2oFxqBmbX//+XnRl+O/oh415IhTl6Nr16s4JrGNaxenT2RFWw2c46ejCmAhrusbl3ZUCujxvnDkLQMKqC4zUwAa3QU1NZ8YL1wruQnM+3daFIHCWEc58D9PZc8RhAa1j4Dn5+uTB20ZgkgoXYpOXYLrarrtSwkKjD9tNXGzdX8AsKUiM2AI5agS0W2fcPbo+xP3jRDfx+cdDlZ02Un2klTzzpLEbcHC278Fcnq7VXSZbC27nz0=;uUup5AILpfbFxQgoUa7RUQ=="
 ---

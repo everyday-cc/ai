@@ -133,12 +133,12 @@ related:
     quality: 45
   - title: "Artificial Intelligence as the core of logistics operation"
     excerpt: "With that phrase, Álvaro Echeverría, co-founder and CEO of SimpliRoute, recalls the need that shaped the idea of creating an AI virtual assistant to optimize its logistics platform. The startup is dedicated to optimizing routes for dispatch vehicles."
-    publishedDateTime: 2021-08-26T11:16:00Z
-    webUrl: "https://www.mysanantonio.com/business/article/Artificial-Intelligence-as-the-core-of-logistics-16412350.php"
+    publishedDateTime: 2021-08-26T14:40:00Z
+    webUrl: "https://www.ctpost.com/business/article/Artificial-Intelligence-as-the-core-of-logistics-16412350.php"
     type: article
     provider:
-      name: My San Antonio
-      domain: mysanantonio.com
+      name: Connecticut Post
+      domain: ctpost.com
     quality: 37
     images:
       - url: "https://s.hdnux.com/photos/01/21/47/10/21393968/3/rawImage.jpg"

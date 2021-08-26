@@ -42,6 +42,29 @@ related:
         width: 628
         height: 385
         isCached: true
+  - title: "Global AI-based Clinical Trials Solution Provider Market (2021 to 2028) - Size, Share & Trends Analysis Report - ResearchAndMarkets.com"
+    excerpt: "The global AI-based clinical trials solution provider market size is expected to reach USD 5.2 billion by 2028 and is expected to expand at a CAGR of 21.7% over the forecast period. Unlearn.AI, Inc. Antidote Technologies,"
+    publishedDateTime: 2021-08-26T13:30:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=521967"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 5
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
+  - title: "Speech and Voice Recognition Market worth $22.0 billion by 2026 - Exclusive Report by MarketsandMarkets"
+    excerpt: "According to the new market research report \"Speech and Voice Recognition Market with COVID-19 Impact Analysis by Delivery Method, Deployment Mode (On"
+    publishedDateTime: 2021-08-26T15:40:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-08/53783702-speech-and-voice-recognition-market-worth-dollar-22-0-billion-by-2026-exclusive-report-by-marketsandmarkets-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "Lmk488PsSkGdxWnVD3cMcz1yYPqPWD1gh49NgbojNTl130S4IGLauzfnj4y2Kvf5Xzsxpr/k7wTZ5ff9hXigQBEWXlq2ytmN0BUGKyabLTDnEJkV5qQrTpEIHvIyQGWvjJyXRW8S9XPrQPnRVt4BpkfoR8jKXv2cmt2Aebt8KcuOYTf9IDSuyfZijA2F6S24YJqH1/g0SWqcRknBHITDY+/2EY48phO9UQ0/G952EwOUia79b64xACLlJ+TcWxLbWdYbjoxuHUkp3SJhmSCX7XH0A7Z0UxpFHZWR4cNCbJTxzvF0VOc228hpoJC8ZP5JQGdqTJTHAaDz6Fvyl2HoqX+FL3lFb6R+nN+OisUy+XU=;VP0P4DreCqk5j4lXus0b8g=="
 ---

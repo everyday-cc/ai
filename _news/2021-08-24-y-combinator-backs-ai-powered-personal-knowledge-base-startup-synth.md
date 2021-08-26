@@ -56,17 +56,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Senators question DOJ funding for AI-powered policing tech"
-    excerpt: "Some Capitol Hill Democrats and civil rights advocates are concerned about how police and prosecutors increasingly use algorithm-powered technologies that may amplify racial bias."
-    publishedDateTime: 2021-08-21T22:24:00Z
-    webUrl: "https://www.mercedsunstar.com/news/business/article253638763.html"
-    ampWebUrl: "https://amp.mercedsunstar.com/news/business/article253638763.html"
-    cdnAmpWebUrl: "https://amp-mercedsunstar-com.cdn.ampproject.org/c/s/amp.mercedsunstar.com/news/business/article253638763.html"
-    type: article
-    provider:
-      name: Merced Sun-Star
-      domain: mercedsunstar.com
-    quality: 37
   - title: "Y Combinator leads $125K round in AI startup Synth"
     excerpt: "AI-based knowledge platform Synth AI labs Inc., has raised $125k in its new round led by Silicon Valley-based Y-Combinator."
     publishedDateTime: 2021-08-24T14:23:00Z

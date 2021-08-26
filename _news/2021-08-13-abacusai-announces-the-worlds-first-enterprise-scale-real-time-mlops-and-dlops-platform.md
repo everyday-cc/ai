@@ -1,26 +1,20 @@
 ---
 category: news
-title: "Abacus.AI announces the world’s first enterprise scale real-time MLOps and DLOps platform"
-excerpt: "Abacus.AI is the world’s first enterprise scale end-to-end real-time MLOps and DLOps platform. Customers can stream real-time events, such as clickstream data, social media interactions, online purchases,"
-publishedDateTime: 2021-08-13T16:52:00Z
-originalUrl: "https://apnews.com/press-release/PRNewswire/technology-science-f38ffb2a6fb08ebdb8a8241689bf0e09"
-webUrl: "https://apnews.com/press-release/PRNewswire/technology-science-f38ffb2a6fb08ebdb8a8241689bf0e09"
+title: "Abacus.AI announces the world's first enterprise scale real-time MLOps and DLOps platform"
+excerpt: "Abacus.AI is the world's first enterprise scale end-to-end real-time MLOps and DLOps platform. Customers can stream real-time events, such as clickstream data, social media interactions, online purchases,"
+publishedDateTime: 2021-08-13T11:51:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210813sf74962/abacusai-announces-the-worlds-first-enterprise-scale-real-time-mlops-and-dlops-platform"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210813sf74962/abacusai-announces-the-worlds-first-enterprise-scale-real-time-mlops-and-dlops-platform"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - Facebook AI
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "DPSz/BJ0FFLePDwOZkqwyJ748PwI7HErkrEUozDhMmrzTOyh+PbIJiq70MQ1CW60xVMdN7OGQtQdRdW6NXWd4hI9Hi12FFF4BdyqQ73NxFY5Tom4uUNyaRGtVEQ2c3RZeasVrGVeE9Mrll4ib6rgb50SSq2bsdBIGBjxXaUMciKQgcnE6OxWkWazH8n4nyE61S5Q9d87Rk+wNQEeUjLHWkJ0EiCpewie+zcNZK6PwcyFYVjVmUg4efhVYAi5/aXQR+3xveUrpZQX9GZ+PLSvukwU4j4+ewh3ln+7/Ci1spQvE00NN3a4esPE2TqLtj6unDjCLJCA6rruO5zsL9qIKk1GwZFTTDtDB+RSVx8DW9c=;mf4AMHrkEBpBRDhBNAguDA=="
+secured: "nmuEKKQo7mYkHBEw+ftwXk+fzS8eeVh5oECqbsmrN2sn1XMtiYAYqiiW5Odq+DbTtlYpIRtxLqRUjBmVV5cG/vFaoFG/1zZT2qq0ai+orYn42JVbLuZ2Up9vKu1KxETq2b8eV0k2bG/ispJonu33t+yNMkXnr5m4SxhkzsWzvWyz/UhpSG3oiwNKyTDecDCuKWggP/Q9mu98KZCpBeB+QcFqPWeDgY/7W9qXCUPatG1mz/kj9YNLm0GPTONVUaCkLhBz+GANV51+dGGhXvjVcgUiek0dR3FR4Il7zaCetU1q6ogADPtmuYTEzVQ/JI4Rr7HnsmDobzAzAxiLsHQ5fixkHO7ov++3wwxG4VEndvk=;2i6ZG5Je+WPwHGcDYshJMQ=="
 ---
 

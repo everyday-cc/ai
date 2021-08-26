@@ -7,7 +7,7 @@ originalUrl: "https://swarajyamag.com/insta/western-railways-commissions-russian
 webUrl: "https://swarajyamag.com/insta/western-railways-commissions-russian-face-recognition-technology-can-identify-50-people-in-a-single-frame"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -26,21 +26,14 @@ images:
 
 related:
   - title: "Western Rly commissions Russian face recognition technology"
-    excerpt: "According to the company, the video analytics has been installed at 30 railway stations across Gujarat and Maharashtra, including Mumbai"
-    publishedDateTime: 2021-08-26T09:13:00Z
-    webUrl: "https://www.thestatesman.com/technology/western-rly-commissions-russian-face-recognition-technology-1502999173.html"
-    ampWebUrl: "https://www.thestatesman.com/technology/western-rly-commissions-russian-face-recognition-technology-1502999173.html/amp"
-    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/western-rly-commissions-russian-face-recognition-technology-1502999173.html/amp"
+    excerpt: "Western Rly commissions Russian face recognition technology Chennai \\| 2021 6:15:06 PM IST The Western Railway, one of the busiest railway networks in In"
+    publishedDateTime: 2021-08-26T14:21:00Z
+    webUrl: "https://www.netindia123.com/showdetails.asp?id=3809360&cat=Science"
     type: article
     provider:
-      name: The Statesman
-      domain: thestatesman.com
-    quality: 59
-    images:
-      - url: "https://www.thestatesman.com/wp-content/uploads/2021/08/d7f2c1fcc278280702f4f0f5a320ce5d-1-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
+      name: Net India 123
+      domain: netindia123.com
+    quality: 19
 
 secured: "gkv5uob86yHtLqsQEj8E3Z6HvSeWG6VYD2XDrLmkXd8CB+FdzO6IL0Hwrz9BjAv8RHeyM/YhQ4a9fYepODVq3K7yvc/6D2gsyZowECb35nXEF0P9wJjegAfCnSUvU3E4tYKUGKXzNSSh5aFLu75G7b5Y9HxeX6Lng2BmrB5nNPMHRKQOOFxwk6seRfVKLUKWmK/F16c8qzmjug8Ym/8qtSLZOajvjK36VRmkBdPzh0YFH3hvBDFkEzCZPkW07PGrlLbGouAXi0oGbYLR6pOAT2xHSF38Dyn6hRaJkXH0qFcesgz+C0+Dk9A1URnFNBbXZY1hi7sSzYrRVUAbAJGAVd9nsAoBisQ13h4kMEfWvnc=;I8qY+7DP7Ny4jsAlz4WxEA=="
 ---

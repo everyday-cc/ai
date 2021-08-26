@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Valued to be $4.4 Billion by 2026, Artificial Intelligence (AI) in Call Center Slated for Robust Growth Worldwide"
-excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Call Center - Global Market Trajectory & Analytics\"."
-publishedDateTime: 2021-08-26T12:17:00Z
-originalUrl: "https://www.lelezard.com/en/news-19969433.html"
-webUrl: "https://www.lelezard.com/en/news-19969433.html"
+excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Call Center - Global Market Trajectory & Analytics\"."
+publishedDateTime: 2021-08-26T14:40:00Z
+originalUrl: "https://www.mobilitytechzone.com/lte/news/2021/08/26/9437856.htm"
+webUrl: "https://www.mobilitytechzone.com/lte/news/2021/08/26/9437856.htm"
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Mobility Techzone
+  domain: mobilitytechzone.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
+  - url: "https://mma.prnewswire.com/media/1601532/MCP21174.jpg"
+    width: 400
+    height: 252
     isCached: true
 
 related:
@@ -154,6 +154,6 @@ related:
       domain: openpr.com
     quality: 3
 
-secured: "lr1Q6R0cboav6NO/+aDMyis9EH50OwQkIpRUAcwlpN3k3mbvzwWh9tszZybHBA546vvJCY/27M+HAfLk8x6N+gYl11nkw76BddQRMMsZuXDhqvLZQBBxknfpSS+2w4i2T1NrBvLZ1FwcVviYbHx6pVMlrr7imVJSpbYQJu02QUeEZT/P37DEZXiQ0mhgsreUBDcq7EQ5gWRGvA1h1DGpevuk943R+aT6pqcymM4NQ5xhifoayfMSBKe63hk9zi/mYW4a0ovOBnFVsEPRn1OSZrJCASoikSrgrWgXIBGivvu3goeCToKHQZ7dzd3kM2suYKgXLbJE2U7C9Tk4szAILkvDZDA9XT6vu+h7HWINnaU=;T7RU8SFwREHHb/M7dap5eA=="
+secured: "TfsVWZt6ensPJDC4IFNd/Z+rf2WX1RFSdAeVwjf2l6Qwj2rSM1/TXCB/7wwIxqlT6Cd9Za412Ug2Yr10OLPHjPeWBGXMwUcMSKC97qP7BC/GiCh6UH80iC/k7Jf0h63E/feHyFHG91KJgPfjoYo1l7tqyLE42xid0HLHgabTfn7qGRlUrlxywLHeG50Ea7/X6hhquw2lCeuvtCDM1Y8HCny2JQpdyL5r+2WRa9f4EEx+Q6gu+L7v2eihDl3UEjvim5G7+/mKbg0r+ZF4nrRWfJ7/wYAnQ34uhYPgmziZIqjVgEBHyLFA0jwSYp6l2GWrZc+3XKh6X0mnvq7k9YuT92y/l+ImWsdKFnWzd78vTdo=;uYkehUuCT7LPu9ci8dJsCw=="
 ---
 

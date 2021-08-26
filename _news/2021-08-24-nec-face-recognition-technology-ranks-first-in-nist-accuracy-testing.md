@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/22629724"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22629724"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 610
     height: 384
     isCached: true
+
+related:
+  - title: "IBIA Dispels Myths about Face Recognition Technology"
+    excerpt: "The International Biometrics + Identity Association (IBIA) today published a white paper entitled \"Data Analysis of Facial Recognition Technology.\" The paper offers an analysis of the independent testing by the National Institute of Standards and Technology (NIST),"
+    publishedDateTime: 2021-08-26T13:44:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibia-dispels-myths-about-face-recognition-technology-1030760739"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "AjLgvdT8OTCFce4ljd1siysm53o1PA6w/oNtUEqYHcUAHznKjfBLzpZwPPjMdTQQCFlOcV/XUVlTbgPTPzu+aQuttztSMAKmtaO+RA8KRkvQFive61esHmhapeJ5bufWhh662pFutXV+MyF3BBQqceRs/+77zxET6CZb0WIo3KU9a0JHGmyTFF0Zfq8Y2U/pZMCKB1YAXwDKK6VZJz5k38fyyq1rQauRKX5ELm7hly9+PbKAvPsWqIEoeN4DKTHx4Ig6QAS/j3HuKjWvZgcypMhXkq6Jb39nxuQqXa4aiFYDkHHNtoB+gsG8AlZCzv1/h1D+8/biaKRmG2n3PeKhRIHNj74mGcApGg7Woki4mAk=;d1/yJ5K8ZqQP6/qfOV+tMg=="
 ---
