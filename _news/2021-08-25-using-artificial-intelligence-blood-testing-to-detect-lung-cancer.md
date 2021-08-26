@@ -47,20 +47,6 @@ related:
       name: Dark Reading
       domain: darkreading.com
     quality: 34
-  - title: "AI Copywriting: Does It Work? We Tested 7 Of The Top Softwares So You Don’t Have To (With Samples From Each)"
-    excerpt: "I’m open to the idea that AI writing software could produce short-form content rather well. I also know from first-hand experience that writing and SEO software is often super helpful for polishing final drafts."
-    publishedDateTime: 2021-08-21T09:52:00Z
-    webUrl: "https://www.wrcbtv.com/story/44568655/ai-copywriting-does-it-work-we-tested-7-of-the-top-softwares-so-you-dont-have-to-with-samples-from-each"
-    type: article
-    provider:
-      name: WRCB
-      domain: wrcbtv.com
-    quality: 22
-    images:
-      - url: "https://CNTSYNCONT.images.worldnow.com/images/21247876_G.jpg"
-        width: 1800
-        height: 990
-        isCached: true
 
 secured: "/JKv2BRIEXK7fcNkI2k0PCWc3Hb8BnIyJfx+oZvFH+EaAjtzXdR0HZCwcPbMmlFFKdAbUqGXuzZxo7kc0S7H6TEQvhPJXRGUXx8cLmYzcfuPgoiKCBdqVmD0577yEp1p3AMfZJ8BoIn9fyaHtyV0lED4/wOojDVYnneVI4n/fazuZbHUCYSpE8u4O/mdz3rviKV9Wj7qM9cmw6rrzOW67ALs3MQW0SfdsQ3wbRRfo4QHCy1wtp8u2JYoYY175cC+ORIF8gfQOPKI1cRi7VQxNWr3BVBzw2B4l/KKDSWPl4SC4qmcjvdVY15tqgGbGLqfjrdSxlxqh4+w2ApBWTAzA1lBddUnkOAz9OE3WrWtx75SR6V5Wjy9PsBhCB501LcGTLjkhaPEX8zVnR37wNyXLgpJe2L0bzgANryYxglTOgEz89hJ9EZdTU2noA9ptLPfGo0TMRN5WtoGzwX6KNP4b5Ri1GDRn9FvFIVYKIfAwrg2/qJDBj9g4Ah7HH4jsxJ6KlvVKd7vU73IrELkm5OGGA==;JGs2nNDSftJlQvK45zJwXA=="
 ---

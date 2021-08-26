@@ -47,20 +47,6 @@ related:
         width: 690
         height: 400
         isCached: true
-  - title: "AI Copywriting: Does It Work? We Tested 7 Of The Top Softwares So You Don’t Have To (With Samples From Each)"
-    excerpt: "I’m open to the idea that AI writing software could produce short-form content rather well. I also know from first-hand experience that writing and SEO software is often super helpful for polishing final drafts."
-    publishedDateTime: 2021-08-21T09:52:00Z
-    webUrl: "https://www.wrcbtv.com/story/44568655/ai-copywriting-does-it-work-we-tested-7-of-the-top-softwares-so-you-dont-have-to-with-samples-from-each"
-    type: article
-    provider:
-      name: WRCB
-      domain: wrcbtv.com
-    quality: 22
-    images:
-      - url: "https://CNTSYNCONT.images.worldnow.com/images/21247876_G.jpg"
-        width: 1800
-        height: 990
-        isCached: true
 
 secured: "5AQ4jZlywMAHQRAjUEjQ7yd8Bwvv15ffxjmeNX9W6SmY/gy7/o/Iez8aelPNdMVHJrdmtPO9XIv97vaIeFb2TO3y1iO65d5c/AHkL06PL87WRuVGCFJGVA8SJ2oFxqBmbX//+XnRl+O/oh415IhTl6Nr16s4JrGNaxenT2RFWw2c46ejCmAhrusbl3ZUCujxvnDkLQMKqC4zUwAa3QU1NZ8YL1wruQnM+3daFIHCWEc58D9PZc8RhAa1j4Dn5+uTB20ZgkgoXYpOXYLrarrtSwkKjD9tNXGzdX8AsKUiM2AI5agS0W2fcPbo+xP3jRDfx+cdDlZ02Un2klTzzpLEbcHC278Fcnq7VXSZbC27nz0=;uUup5AILpfbFxQgoUa7RUQ=="
 ---

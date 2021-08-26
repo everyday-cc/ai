@@ -93,6 +93,15 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 45
+  - title: "Singapore fashion analytics firm acquires Malaysia AI startup in $20m deal"
+    excerpt: "“Accelerating the adoption of AI is at the heart of our business at Supahands, having witnessed firsthand the tangible benefits that AI and machine learning can bring to our clients as they strengthen the different pillars of their business from ..."
+    publishedDateTime: 2021-08-26T02:27:00Z
+    webUrl: "https://www.techinasia.com/singapore-fashion-analytics-firm-omnilytics-acquires-malaysia-ai-startup-supahands-20m-deal?ref=recommender-703423"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 45
   - title: "Covera Health Raises $25M in Series C Financing to Fuel Growth of Its Healthcare Quality Analytics Platform"
     excerpt: "Covera Health, the leading quality analytics company focused on improving patient care by reducing medical errors, today announced its Series C financing. The $25M funding was led by global venture capital and private equity firm Insight Partners with participation from existing investors including Equity Group Investments."
     publishedDateTime: 2021-08-23T13:02:00Z

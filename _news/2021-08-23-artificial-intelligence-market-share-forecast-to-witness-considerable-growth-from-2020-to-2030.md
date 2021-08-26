@@ -68,22 +68,6 @@ related:
         width: 400
         height: 367
         isCached: true
-  - title: "Computer Vision Software Market 2021-2030 By Strategic Imperatives for Success and Growth Analysis"
-    excerpt: "A new informative report titled as Global Computer Vision Software Market Report 2021 by Key Players Types Applications Countries Market Size Forecast to 2030 has recently published by Absolute Markets Insights to its huge database which helps to shape the"
-    publishedDateTime: 2021-08-21T10:07:00Z
-    webUrl: "https://www.openpr.com/news/2362641/computer-vision-software-market-2021-2030-by-strategic"
-    ampWebUrl: "https://www.openpr.com/amp/2362641/computer-vision-software-market-2021-2030-by-strategic"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2362641/computer-vision-software-market-2021-2030-by-strategic"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 45
-    images:
-      - url: "https://cdn.openpr.com/U/8/U821791923_g.jpg"
-        width: 800
-        height: 488
-        isCached: true
   - title: "Artificial Intelligence (AI) in Food and Beverage Market Size 2021 Demand, Global Trend, News, Business Growth, Top Key Players"
     excerpt: "The new report titled Global Artificial Intelligence AI in Food and Beverage Market published by Emergen Research is a vivid presentation of the global Artificial Intelligence AI in Food and Beverage market with utmost focus on the forecast market size"
     publishedDateTime: 2021-08-25T12:51:00Z

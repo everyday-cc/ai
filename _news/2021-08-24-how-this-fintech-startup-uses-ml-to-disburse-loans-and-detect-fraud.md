@@ -52,14 +52,19 @@ related:
       domain: techinasia.com
     quality: 48
   - title: "Pngme, Raises $15M Series A to Power the Future of Financial Services in Africa"
-    excerpt: "Pngme, the financial data infrastructure and machine learning-as-a-service platform, has raised a further $15 million in Series A funding as"
-    publishedDateTime: 2021-08-24T08:00:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/pngme-raises-15m-series-a-to-power-the-future-of-financial-services-in-africa-831661357.html"
+    excerpt: "Pngme, the financial data infrastructure and machine learning-as-a-service platform, has raised a further $15 million in Series A funding as it sets out to grow its financial data platform. The round was led by Octopus Ventures and comes less than a year after its $3 million seed round."
+    publishedDateTime: 2021-08-24T13:51:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-financial-services-2a0bc10896feb1b6d9e0741acbf22110"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 15
+      name: Associated Press
+      domain: apnews.com
+    quality: 35
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "7An8nzKEZqx/+1to+x3zePYFnHycJQElM0EhSRrTCZUHFodK5z+qv4jltKJog9S7Ae7sNdbEgcZAEnvk4pg15/Z0dMtG6Mc5A7nMGWZlx3Vlfhp7FE5kGgWmbvPfdCDtFFZ3H/qQxoW1pQDv/+6Y4G8XTwHyFElviwbx3BK8V0z2K0GUFpyHb+ilJ/g9743fhOoMly/mOGHs9CjXKPqRXdXvvnueQGzVxRSaGnu37YLvnwv5TyfRKxJweS73E5Bq68wU2DmFriAZWmcN0ukk+/FNwDrlnqDfgPJU6ggyq55kpIH1KfB/LSSSHhiUbYpYPNAkgb9Mcm/TpEPlVNGSlr4RdLE3l2pO8Ru8ji+DepbGXXniBB8tP43nJantiD6mEILa4nfsKujqeHe0IA435fRn6YTDOVLaPG4unjYLh07Os05vOcxiWbO+Uw9K3NYZjM2cMsPFRwF5lNT8FT8AaAomMpysQoYbIImxVBIZW+Uoh4KuKVzDBbv01ZjDxA4uCf5TVLa8cD3WhYagTUT5OA==;hFUGsQtX7c/aAnDQ5UdpOA=="
 ---

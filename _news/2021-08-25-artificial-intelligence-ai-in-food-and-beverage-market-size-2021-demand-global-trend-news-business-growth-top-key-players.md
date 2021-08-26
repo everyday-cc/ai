@@ -72,22 +72,6 @@ related:
         width: 400
         height: 367
         isCached: true
-  - title: "Computer Vision Software Market 2021-2030 By Strategic Imperatives for Success and Growth Analysis"
-    excerpt: "A new informative report titled as Global Computer Vision Software Market Report 2021 by Key Players Types Applications Countries Market Size Forecast to 2030 has recently published by Absolute Markets Insights to its huge database which helps to shape the"
-    publishedDateTime: 2021-08-21T10:07:00Z
-    webUrl: "https://www.openpr.com/news/2362641/computer-vision-software-market-2021-2030-by-strategic"
-    ampWebUrl: "https://www.openpr.com/amp/2362641/computer-vision-software-market-2021-2030-by-strategic"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2362641/computer-vision-software-market-2021-2030-by-strategic"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 45
-    images:
-      - url: "https://cdn.openpr.com/U/8/U821791923_g.jpg"
-        width: 800
-        height: 488
-        isCached: true
   - title: "Artificial Intelligence Market Share Forecast to Witness Considerable Growth from 2020 To 2030"
     excerpt: "Artificial Intelligence Market Introduction Transparency Market Research delivers key insights on the global artificial intelligence market In terms of revenue the global artificial intelligence market is estimated to expand at a CAGR of 29 during the forecast period owing to"
     publishedDateTime: 2021-08-23T14:41:00Z

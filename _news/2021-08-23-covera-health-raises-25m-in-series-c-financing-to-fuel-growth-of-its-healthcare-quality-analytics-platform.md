@@ -108,6 +108,15 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 45
+  - title: "Singapore fashion analytics firm acquires Malaysia AI startup in $20m deal"
+    excerpt: "“Accelerating the adoption of AI is at the heart of our business at Supahands, having witnessed firsthand the tangible benefits that AI and machine learning can bring to our clients as they strengthen the different pillars of their business from ..."
+    publishedDateTime: 2021-08-26T02:27:00Z
+    webUrl: "https://www.techinasia.com/singapore-fashion-analytics-firm-omnilytics-acquires-malaysia-ai-startup-supahands-20m-deal?ref=recommender-703423"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 45
   - title: "A $28.4 Billion Global Opportunity for Cognitive Analytics by 2026 - New Research from StrategyR"
     excerpt: "A new market study published b Inc., (GIA) the premier market research company, today released its report titled \"Cognitive Analytics"
     publishedDateTime: 2021-08-24T15:40:00Z

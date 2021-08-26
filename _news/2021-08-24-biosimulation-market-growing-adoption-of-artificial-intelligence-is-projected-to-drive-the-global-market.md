@@ -19,21 +19,67 @@ topics:
   - AI
 
 related:
-  - title: "Automotive Radar Market Expectation Surges with Rising Demand and Changing Trends"
-    excerpt: "The Automotive Radar market is expected to grow from USD X.X million in 2021 to USD X.X million by 2027, at a CAGR of X.X% during the forecast period. The Automotive Radar Market report offers global outlook into Development Trends,"
-    publishedDateTime: 2021-08-24T12:10:00Z
-    webUrl: "https://manometcurrent.com/automotive-radar-market-expectation-surges-with-rising-demand-and-changing-trends/"
-    ampWebUrl: "https://manometcurrent.com/automotive-radar-market-expectation-surges-with-rising-demand-and-changing-trends/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/automotive-radar-market-expectation-surges-with-rising-demand-and-changing-trends/?amp=1"
+  - title: "How new regulation is driving the AI governance market"
+    excerpt: "In a recent KPMG report, 94% of IT decision makers said that they feel that firms need to focus more on corporate responsibility and ethics while developing AI solutions. Analysts like StrategyR ..."
+    publishedDateTime: 2021-08-26T01:13:00Z
+    webUrl: "https://venturebeat.com/2021/08/25/how-new-regulation-is-driving-the-ai-governance-market/"
+    ampWebUrl: "https://venturebeat.com/2021/08/25/how-new-regulation-is-driving-the-ai-governance-market/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/25/how-new-regulation-is-driving-the-ai-governance-market/amp/"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 39
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/Automotive-Radar-Market.jpeg"
-        width: 500
-        height: 282
+      - url: "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1288853231.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Consumers question AI-driven insurance claims review"
+    excerpt: "According to a survey by Policygenius, consumers are reluctant to trust black-box AI systems that make insurance policy decisions."
+    publishedDateTime: 2021-08-24T16:55:00Z
+    webUrl: "https://venturebeat.com/2021/08/24/consumers-question-ai-driven-insurance-claims-review/"
+    ampWebUrl: "https://venturebeat.com/2021/08/24/consumers-question-ai-driven-insurance-claims-review/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/24/consumers-question-ai-driven-insurance-claims-review/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?fit=800%2C414&strip=all"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "Every move you make, Artificial Intelligence is watching you"
+    excerpt: "The traffic police has taken steps to use advanced video analytics technology to detect common traffic violations such as jumping red signals or the stop line, driving recklessly, not wearing seat belt or helmet and talking over phone while driving etc."
+    publishedDateTime: 2021-08-24T00:36:00Z
+    webUrl: "https://bangaloremirror.indiatimes.com/bangalore/others/every-move-you-make-artificial-intelligence-is-watching-you/articleshow/85581172.cms"
+    ampWebUrl: "https://bangaloremirror.indiatimes.com/bangalore/others/every-move-you-make-artificial-intelligence-is-watching-you/amp_articleshow/85581172.cms"
+    cdnAmpWebUrl: "https://bangaloremirror-indiatimes-com.cdn.ampproject.org/c/s/bangaloremirror.indiatimes.com/bangalore/others/every-move-you-make-artificial-intelligence-is-watching-you/amp_articleshow/85581172.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://static.toiimg.com/thumb/85581209.cms?resizemode=4&width=400"
+        width: 400
+        height: 300
+        isCached: true
+  - title: "The EU-AI Regulation - Part 1: Overview and structure"
+    excerpt: "The EU plans to take a leadership position in regulating artificial intelligence. To do so, it is gradually implementing the goals it set itself in 2018."
+    publishedDateTime: 2021-08-24T10:48:00Z
+    webUrl: "https://www.fieldfisher.com/en/insights/die-eu-ki-verordnung---teil-1-uberblick-und-strukt"
+    type: article
+    provider:
+      name: Fieldfisher
+      domain: fieldfisher.com
+    quality: 37
+    images:
+      - url: "http://res-4.cloudinary.com/fieldfisher/image/upload/c_lpad,g_center,h_1080,w_1080/f_jpg,q_auto/v1/sectors/technology/tech_silhouette-woman-globe_889231052_medium_lroko9"
+        width: 1080
+        height: 1080
         isCached: true
 
 secured: "ZmWeCTRxzgwukaSKjTwU+H0xyOfJ4mqBn+YhW+X9nEKO264ZzvWOeUCuxUUTUOKVin0RTT8gSw/y7/GkcWkj1Cg9ZXHZfTNLdw+c5/ftqM363ycLvZMrx3WGmtEMThLFMLyFRaEH9pfzXVr37COOR/gWQXtceOp/p+9GkXzrMbgmunejkivmHZPzjrh2AWoZziMRSR9f79YK/SBgSDilzjezAjzvMevsp1EnZM2/LBoYU1USuhAtVs8Y00Fhw/Zr5MQrFOqJLEjHtc0iUHbWtsp64weG1E+B+xukAxGvU6OnOZp6K5wo7bNMBdK8MRp6kB9xKlRnySiCMW3wMxUzZWV6CcgHtXlk5ASSiwjc2u2YSBMc1dufLzvzfdarggckXKGvVF8MmS2llWNxz/TuD7AVwomzGf4bVYb/zxVpODWcweoHJLPXTsWVuzPipmpD4h4aTMtpPSKU9BkfA3Nqc4bq6aCp0qIpjzAOeF38kaDVsoxgrS75NRTWbOR4vhS8HXKjLZ1uc7qNLcO/3stT6w==;Mvht6R9RokgIfH2/4opxuQ=="
