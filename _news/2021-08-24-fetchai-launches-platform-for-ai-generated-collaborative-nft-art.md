@@ -40,6 +40,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "This Startup Is Transforming Customer Experience With AI"
+    excerpt: "The San Francisco-based company boasts that it helps businesses transcribe every interaction with high accuracy and coach agents while gaining full visibility into their customer service operations"
+    publishedDateTime: 2021-08-26T05:25:00Z
+    webUrl: "https://www.entrepreneur.com/article/381743"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/381743"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/381743"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 87
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1629955538-Untitleddesign7.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
   - title: "involve.ai Raises $16 Million in Series A Funding"
     excerpt: "Series A financing round led by Sapphire Ventures, with participation from existing investors Bonfire Ventures, Greycroft, Launch Capital, BDMI and new"
     publishedDateTime: 2021-08-25T12:08:00Z

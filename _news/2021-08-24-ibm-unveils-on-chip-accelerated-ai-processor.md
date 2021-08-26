@@ -1,27 +1,27 @@
 ---
 category: news
 title: "IBM Unveils On-Chip Accelerated AI Processor"
-excerpt: "IBM unveiled details of its new Telum Processor which is designed to bring deep learning inference to enterprise workloads to help address fraud in real-time. Introduced at the annual Hot Chips conference,"
-publishedDateTime: 2021-08-24T13:27:00Z
-originalUrl: "https://www.dbta.com/Editorial/News-Flashes/IBM-Unveils-On-Chip-Accelerated-AI-Processor-148560.aspx"
-webUrl: "https://www.dbta.com/Editorial/News-Flashes/IBM-Unveils-On-Chip-Accelerated-AI-Processor-148560.aspx"
+excerpt: "IBM unveiled details of the upcoming new IBM Telum Processor, designed to bring deep learning inference to enterprise workloads"
+publishedDateTime: 2021-08-24T01:45:00Z
+originalUrl: "https://www.thefastmode.com/technology-solutions/20593-ibm-unveils-on-chip-accelerated-ai-processor"
+webUrl: "https://www.thefastmode.com/technology-solutions/20593-ibm-unveils-on-chip-accelerated-ai-processor"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: dbta.com
-  domain: dbta.com
+  name: Deep
+  domain: thefastmode.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://www.dbta.com/images/social-logo-2019.png"
-    width: 1200
-    height: 630
+  - url: "https://www.thefastmode.com/media/k2/items/src/f77372562623ffbc4fc486e55ae06035.jpg?t=20210824_014348"
+    width: 752
+    height: 408
     isCached: true
 
 related:
@@ -342,6 +342,6 @@ related:
       domain: telecompaper.com
     quality: 34
 
-secured: "YlMaeAJPwr3JN6IL8lpxrYnjAv1myhCIZwbNEdAJsomqq1migZKOv65dFDCwnFtaQJQ150rRqJDzmA8lQlLTF8RHCo3uUV+bqvIfTACn5JK43JWxJ2Bnivsfo7jDcB4ixLIclQFOyd8qWGnIucCH5F2E7MYo4vO612uwJoC7caCh4VTaeWy/AmnJsENC4ajQAdKWXFNRqLRO6GYw0iIsMZbgoPe04foq4RXN1UYXjmiA/wHPWGsjSq8Ple0aZ9jShTRKGb8jAwN64G2QC+a9SlOrNpph3ftN4TrDGLuLlaq4UbJWe2v/WCjGe7ZYRrdRO92XKiVfkgcoWq6uR9MsJigk+WyQmNx3LcFpHVMuTao=;01Lo5tekjXn+ag4+/eID+w=="
+secured: "Z8pMTE3SaeoUewtKNL+m2kI9dpjmmmsWjPGGxG6wDfXLM0VGt8spufmxxqbhI9kE9H3PsABrutrHs8yF1KEuTglIN02XXQst2x05ogc7myhgCyrZeRu2CaeSkhGtB7DcbNpCSk8MfFmAcqnVczZGsCgXGFdnzcpq33mVW9rA0RWlcCHYFke6JTh0myzCbqzilQ1ZjrdKzWfEZL6mfn59zXSiaXMhcQApc3KkbZJbnhhA4rrHKNx0DFutvEwKr8wS+ixlDk1nxY87dFp51QO8RGYVUp1vlgQsJRRhN5XF1iThA6r8Nqy9a77ab9mHlF2Ed1DKPkPlR3Klc/I7mCR3taalco6jcJNFimXLw30p10I=;nlneeaxlHNEIov8SLm8xoA=="
 ---
 

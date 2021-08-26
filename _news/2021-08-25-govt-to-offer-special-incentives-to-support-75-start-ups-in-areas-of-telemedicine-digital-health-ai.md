@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "75 start-ups in Telemedicine, Digital Health, AI to get special incentives from Govt"
+    excerpt: "Government will soon launch a Special Incentives scheme to support 75 Start-Ups in areas of Telemedicine, Digital Health and Artificial Intelligence (AI) to coincide with the 'Azadi"
+    publishedDateTime: 2021-08-26T03:45:00Z
+    webUrl: "https://medicaldialogues.in/news/health/government-policies/75-start-ups-in-telemedicine-digital-health-ai-to-get-special-incentives-from-govt-81265"
+    ampWebUrl: "https://medicaldialogues.in/amp/news/health/government-policies/75-start-ups-in-telemedicine-digital-health-ai-to-get-special-incentives-from-govt-81265"
+    cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/news/health/government-policies/75-start-ups-in-telemedicine-digital-health-ai-to-get-special-incentives-from-govt-81265"
+    type: article
+    provider:
+      name: Daily
+      domain: medicaldialogues.in
+    quality: 50
+    images:
+      - url: "https://medicaldialogues.in/h-upload/2021/08/26/159469-untitled-design-3.jpg"
+        width: 1500
+        height: 960
+        isCached: true
   - title: "Start-Ups in Telemedicine, AI to get special incentives: Dr Jitendra"
     excerpt: "Government will soon launch a Special Incentives scheme to support 75 Start-Ups in areas of Telemedicine, Artificial Intelligence (AI) and Digital Health to coincide with the ‘Azadi ka Amrit Mahotsav’ being celebrated from 15th of August this year."
     publishedDateTime: 2021-08-25T20:40:00Z

@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Avaya and Microsoft Announce Integration of Microsoft Azure Communication Services with Avaya OneCloud CPaaS"
-excerpt: "Avaya announced a strategic relationship with Microsoft to create a powerful set of joint cloud communications solutions to define the future of customer and em"
-publishedDateTime: 2021-08-17T15:06:00Z
-originalUrl: "https://technuter.com/breaking-news/avaya-and-microsoft-announce-integration-of-microsoft-azure-communication-services-with-avaya-onecloud-cpaas.html"
-webUrl: "https://technuter.com/breaking-news/avaya-and-microsoft-announce-integration-of-microsoft-azure-communication-services-with-avaya-onecloud-cpaas.html"
+excerpt: "Benefiting from the complementary strengths of both companies, the joint solutions include Avaya’s award-winning 1 Avaya OneCloud CPaaS (Communications Platform as a Service) now integrated with voice,"
+publishedDateTime: 2021-08-17T12:00:00Z
+originalUrl: "https://www.financialbuzz.com/avaya-and-microsoft-announce-integration-of-microsoft-azure-communication-services-with-avaya-onecloud-cpaas/"
+webUrl: "https://www.financialbuzz.com/avaya-and-microsoft-announce-integration-of-microsoft-azure-communication-services-with-avaya-onecloud-cpaas/"
 type: article
 
 provider:
-  name: technuter.com
-  domain: technuter.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://technuter.com/wp-content/uploads/2020/04/Avaya.jpg"
-    width: 340
-    height: 296
-    isCached: true
-
-secured: "pVvRxbGFLMPVpOq5ZAX+PAakDHlAC4tKjykHWPqJceY9BzeP8qHM8F//CWr2LGVdQsnBPou/y4p7w0zbWU9zZnwvgI/I5C1EP86Qo0QMQvoUgjUamiSIisIhEYOcQ8LCuAH6PDbc2ynQvSpRyDhbEuCmVGOHFLWDnb18NDXQ+rXZraQyWbNkbAcmHJKXauytXfPB46WxMiCIBp4RFmHe1HQjtCTk5nPBCijw5hRpnTjZzJF6Y8445lk3OEAmZN6AEjZj0SL6nKBvP3A3sIbddmCLQ+EIlGGP9OhrNPUsiNpx8VZPjgrfLz6/u4laR4QdD5CM/lvJWEzSBUSeBC2D6anmRLzix6MJwabMTzknOl8=;9h9jgfOiT2bzBQOhe2Y6/g=="
+secured: "QMyyiAyVXS3quW1Yxfgr1aMlqgGmYYIM3VEXGGiY7bzLn4yw0Uev7xLamOkFzh7+tfPAJ73nPG7Srgc4J5n3Hk3Ay9HbLJX0NsAo6NOeXBKpn9WsZw0xrLBS5ZwneznMYTrOywsyOIBUH5r4lN9D8dNZIvwfbUiWhktbVLisJtFb3yk6xIjfqIL7guudUEbbzyY5AnCB9/d2Y41OS7go56txJCaVhk51ekSf7RtJNTTIYhyJpmmk9RbUD1QVLONSFXy1ajfTPzhgq9Yf1SeZKDTQCcOLS8BwSbNtavwThvztI5vxI6bcI2XXWDZg7P+pZelfnyWemmyXi+1L5VJuQJJipMaGDln/fxs3NaWwp08=;8JgnerQjZCuY4+8aJxlzvQ=="
 ---
 

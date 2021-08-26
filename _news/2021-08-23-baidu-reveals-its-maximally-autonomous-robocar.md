@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu leads the self-driving race with an AI-packed ‘robocar’"
-    excerpt: "Baidu has focused on diversifying its business beyond advertising to artificial intelligence and driverless cars. Back in May this year, a commercial driverless taxi service was launched in China by the country’s biggest search engine player,"
-    publishedDateTime: 2021-08-23T02:50:00Z
-    webUrl: "https://techwireasia.com/2021/08/baidu-leads-the-self-driving-race-with-an-ai-packed-robocar/"
-    ampWebUrl: "https://techwireasia.com/amp/2021/08/baidu-leads-the-self-driving-race-with-an-ai-packed-robocar/"
-    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/08/baidu-leads-the-self-driving-race-with-an-ai-packed-robocar/"
+  - title: "New Chip Helps Chinese Tech Brand Baidu to Make Level 5 Fully Autonomous 'Robocar'"
+    excerpt: "At the end of 2018, John Krafcik, boss of Waymo at the time (Alphabet’s autonomous car ... The production of a new second-generation Kunlun chip specialized in calculations and artificial intelligence seems to be part of the solution."
+    publishedDateTime: 2021-08-23T04:03:00Z
+    webUrl: "https://www.news18.com/news/auto/new-chip-helps-chinese-tech-brand-baidu-to-make-level-5-fully-autonomous-robocar-4115870.html"
+    ampWebUrl: "https://www.news18.com/amp/news/auto/new-chip-helps-chinese-tech-brand-baidu-to-make-level-5-fully-autonomous-robocar-4115870.html"
+    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/auto/new-chip-helps-chinese-tech-brand-baidu-to-make-level-5-fully-autonomous-robocar-4115870.html"
     type: article
     provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 61
+      name: CNN-News18
+      domain: news18.com
+    quality: 70
     images:
-      - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/08/000_1BR36V-450x300.jpg"
-        width: 450
-        height: 300
+      - url: "https://images.news18.com/ibnlive/uploads/2021/08/baidu_co_founder_ceo_robin_li_cctv_host_beining_sa_sit-162969138516x9.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "2p3iZ/fHvK04T14jAqqRiyWJUBMYR1i+7fBQuVHcMjrg4B+uBOE55jxaCBZymFQl6xVClVHIyIeC96gbm+DskoNIyEjztCq/2DA/JubNM25pFDoHXTD7To4NHRsreanK0BssgW5WWi5mLil90CS9svkukov1Hbhl8FessRRPscn9n78s248uFVTmdEJnX6twP7ZfnwUkNlaoWi9A3IumWCP68V8uNh0PC/PxVwgEGhS7qiv2QO8vT+F/W41R9+Ry2i1PbR6STyjvh5DqOWedOan1CzbPyedKtrkrwE37WlcUdFTiPLHS3sjjApypcfFUxDbZeKe5hyUhyFqcWKdTuhaZhR79lcSSYwoWGP4imsXrCXr5pbqrc4mznl7cSkvQoz2iH1NVOjK4fFCpxDoOzE7/J+9B67Dm2iala4AKE7FRcTPJlbA25q2392ihyTbABmjQ/Tjt6XayZrdh2x3EULxvF/P0ipVG9TMg78PzrZFGtcK06qPzfxSHxfFYp4uIpQVf5JOXqayZKQTp6+QfKA==;HcDL9EgLT6n3BCDGwJ68oA=="

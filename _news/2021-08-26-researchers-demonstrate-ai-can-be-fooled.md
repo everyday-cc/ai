@@ -44,9 +44,9 @@ related:
   - title: "UniSA researchers develop AI facial recognition tech to monitor premature babies"
     excerpt: "University of South Australia boasts the AI-based system it has developed to remotely monitor the vital signs of babies rival the accuracy of ECG."
     publishedDateTime: 2021-08-25T08:17:00Z
-    webUrl: "https://www.zdnet.com/article/unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies/"
+    webUrl: "https://www.zdnet.com/index.php/recent/index.php/article/unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies/"
+    ampWebUrl: "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies/"
     type: article
     provider:
       name: ZDNet

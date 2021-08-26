@@ -41,6 +41,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "This Startup Is Transforming Customer Experience With AI"
+    excerpt: "The San Francisco-based company boasts that it helps businesses transcribe every interaction with high accuracy and coach agents while gaining full visibility into their customer service operations"
+    publishedDateTime: 2021-08-26T05:25:00Z
+    webUrl: "https://www.entrepreneur.com/article/381743"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/381743"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/381743"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 87
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1629955538-Untitleddesign7.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
   - title: "7 Ways You Can Use AI to Drive Customer Loyalty"
     excerpt: "At the most fundamental level, AI solutions free up employees to focus on tasks that need a human touch. And we’re talking roomfuls. From there, it’s a hop, skip, and a jump (performed best by people for now!"
     publishedDateTime: 2021-08-24T05:26:00Z

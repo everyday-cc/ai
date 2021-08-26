@@ -7,7 +7,7 @@ originalUrl: "https://www.bloombergquint.com/business/fired-at-google-after-crit
 webUrl: "https://www.bloombergquint.com/business/fired-at-google-after-critical-work-ai-researcher-mitchell-to-join-hugging-face"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Fired Google AI ethics lead joins natural language processing start-up"
+    excerpt: "A researcher fired from Google during a tumultuous period for the company’s AI division has announced her next move in business."
+    publishedDateTime: 2021-08-26T09:01:00Z
+    webUrl: "https://www.siliconrepublic.com/start-ups/margaret-mitchell-hugging-face-google-ai-ethics"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 71
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/08/AdobeStock_448737185.jpeg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "T1LXjXVGvD4TaCVl12vuagqFemxd4vFuxwhTvMRvl8gUonJVtAakvvog5H4PLFKOEu8g4LhUhlGwuT3j8bXxS5dTwZTsSqdUZfno5gFpqpmrY6c7+O6ssG9USHAO/bf5UBt53WF1JKswUDzEnIgdapPF+m39GQkSWz+z1GPD+iBWUqGpBl/0Qh3wd5DHZjnLvbM/MTXVA7ELGZBMVb4mIsBETSBMbUqO+kJStogmvcJLafZPEcHRmVFZFvVvrn15urVPpFDXi9QT/CZI0K/vJrvtDt7M0QNmQEn+XYLYmKhbBe5trmKkiL8gometgS2I7fi4TeIKqVZjVD1K0WUGIr5ALLZT63y5udXtZ/ib0HA=;esyl6QHLdkiMmtOtUrWUTw=="
 ---

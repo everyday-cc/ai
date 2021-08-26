@@ -36,6 +36,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 56
+  - title: "Arab Bank launches fintech accelerator in Egypt"
+    excerpt: "Arab Bank has launched the AB Accelerator in Egypt, a fintech-focused corporate acceleration programme. The accelerator, which"
+    publishedDateTime: 2021-08-22T09:15:00Z
+    webUrl: "https://www.wamda.com/ar/2021/08/arab-bank-launches-fintech-accelerator-egypt"
+    type: article
+    provider:
+      name: wamda.com
+      domain: wamda.com
+    quality: 39
+    images:
+      - url: "https://cdn.wamda.com/feature-images/5f6a17f5130b65a.jpeg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Top Programming Languages for Finance in Fintech"
     excerpt: "This article explores some of the top programming languages for finance in fintech to power companies. Programming language is essential for efficient financial services. Multiple programming languages for finance are suitable for different fintech companies."
     publishedDateTime: 2021-08-23T11:06:00Z
