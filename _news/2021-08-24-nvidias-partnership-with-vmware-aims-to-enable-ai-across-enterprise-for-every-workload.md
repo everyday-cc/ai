@@ -110,6 +110,15 @@ related:
         width: 1395
         height: 751
         isCached: true
+  - title: "Dell touts VxRail and GPU combo for Nvidia’s AI Enterprise suite"
+    excerpt: "Dell's HCI platform is certified for accelerating workloads with Nvidia’s newly available AI Enterprise software suite."
+    publishedDateTime: 2021-08-25T14:35:00Z
+    webUrl: "https://blocksandfiles.com/2021/08/25/dell-touts-vxrail-and-gpu-combo-for-nvidias-ai-enterprise-suite/"
+    type: article
+    provider:
+      name: blocksandfiles
+      domain: blocksandfiles.com
+    quality: 34
   - title: "Global Availability of NVIDIA AI Enterprise Makes AI Accessible for Every Industry"
     excerpt: "NVIDIA today announced the availability of NVIDIA AI Enterprise, a comprehensive software suite of AI tools and frameworks that enables the hundreds of thousands of companies running VMware vSphere to virtualize AI workloads on NVIDIA-Certified Systems ™."
     publishedDateTime: 2021-08-24T13:04:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-teams-teachers-ge
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-teams-teachers-get-a-free-ai-tool-to-monitor-students-reading-fluency/"
 type: article
 quality: 102
-heat: 122
+heat: 132
 published: true
 
 provider:
@@ -61,6 +61,15 @@ related:
         width: 700
         height: 875
         isCached: true
+  - title: "MONITORAPP Brings Their AIWAF-VE to Microsoft Azure"
+    excerpt: "MONITORAPP, Inc., a leading cybersecurity vendor ,is not only expanding their security solutions to the cloud, but to the market as well with listings on AWS and Microsoft Azure. MONITORAPP is bringing competitive pricing and various payment options,"
+    publishedDateTime: 2021-08-25T22:21:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-monitorapp-brings-their-aiwaf-ve-microsoft-azure-/2021/08/25/9437622.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 49
 
 secured: "YonMgdQSsXDXPRTB0vjujDLNDN7oNRtiOx7q/DYwRGMtNICpsM88ZCUJ9V++j0lhgF6oB/xGqs/kQ70IOkGK992oPJGYmVqu08Ucrun8dCEC1HXIe2aAkdAV25jyG66suidk0vpNhaBc8xyGys9e1KslLGGurnvaLT4PzwtZVn7OLMlrS2RS7M1Bn2M1QYgySCWedvYi2ET4hALLFYn75igwHSDOlX1xPzNIXAFb8wfJB3UDHyXKTrL55nzyWCRbuSptAjjiNNj7Loj4bVa6DHeClRBCBBMEpgYBl4m6pwX+vMXdNwzVRqReQxpoVwZfqzxRtTPcgpRvK4nNYg5LXUiEUkk8ctqarrIPXuHKLQ0=;uRKd0ywF5vTsN0XqXCZc7A=="
 ---

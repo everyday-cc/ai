@@ -57,6 +57,15 @@ related:
         width: 390
         height: 220
         isCached: true
+  - title: "MONITORAPP Brings Their AIWAF-VE to Microsoft Azure"
+    excerpt: "MONITORAPP, Inc., a leading cybersecurity vendor ,is not only expanding their security solutions to the cloud, but to the market as well with listings on AWS and Microsoft Azure. MONITORAPP is bringing competitive pricing and various payment options,"
+    publishedDateTime: 2021-08-25T22:21:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-monitorapp-brings-their-aiwaf-ve-microsoft-azure-/2021/08/25/9437622.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 49
 
 secured: "ggfEvkD7Q9zgSFD7jrPY3NgDW6Pcx7Eb28YAL0Y+rKrpKHgc7XeuagnGJFlwr5dDzbicgrSmLPp/tItR40AEfDnXWkluakYEbAyegz2xF1kiu/RAX8kZr2CnZoPSOW1OGrMRfL4okt0mHEk+xRtpEDFn3GkuZxCAB+s2/5NGtbJfc7fPGA753lfdHomT1WhcNVnNaAoEAezbg1s7TqPCdg7IRvCq3uuUbPwoMRVk4Jw0FRSdJYUAUHhB6OqwYoJ+sOckW4biNgHJyiw6T0/jnH6POUxFIjwmUvXj8KMSGdGB2XIj/HeIbzyySdQggZ0P1ViQM/OAxe/jXaf2TgyrPsaCT8plD27vbcSQzxMc4NZhpsgzGZp5C6YanM8ZaxYKYVmZsEHinefJCqPu2/W8kplwvWeo4PcZExx1r3kUQrmAIANg04HDJ6CpoPvztIX1Wj9NmnvXspwef1WVDNVjZq60W53mexp9aTaTqTIea9WbHmXdoABZZFNy52hPzmtsm8Lec+w2cNNp2+Lgph2PdA==;Is85FARErFGZ2laVvm0MsA=="
 ---

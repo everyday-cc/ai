@@ -47,6 +47,20 @@ related:
         width: 1300
         height: 661
         isCached: true
+  - title: "Using AI to reboot brand-client relationships"
+    excerpt: "Using strategically focused AI, brands can identify what their audiences are doing when they are not engaged in a purchase or using a product or service. The secret here is understanding context."
+    publishedDateTime: 2021-08-25T22:09:00Z
+    webUrl: "https://techcrunch.com/2021/08/25/using-ai-to-reboot-brand-client-relationships/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 67
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1149685673.jpg?w=514"
+        width: 514
+        height: 400
+        isCached: true
   - title: "Artificial intelligence researchers receive Federal funding"
     excerpt: "Control Engineering - The Ohio State University is now the home base of two federally-funded institutes dedicated to advancing artificial intelligence (AI) research. The U.S."
     publishedDateTime: 2021-08-23T14:11:00Z
@@ -118,6 +132,6 @@ related:
         height: 450
         isCached: true
 
-secured: "W4SJzCSRGsPkoVFnDwM+9WCrVZ+/6ADJ3Wt5q+nSFL7w/GRzJGWrETf2kHzIqFwzoWBWuDqAXRqlfsvB83z7cFVKg3mO5tUyUpzLJvIveJqmCGq7n5Z3ZsHCmh4MWplz8UhJsjU42EHKK/gCbwADz8vYGQo0rUAAL1vXffnVtcjmeGsyXquwPlJ0COZeFN0pvNAOY8lanLvLnOkUPmZVv1pVCha5ILbkAFm4ZSrPr7G9fdtRmc1ZXl9boIhuqhrOTxYPLd6qCDY7ijshonSROPIxSGbXmt/SfqU3fK5zjGllEKIH4bstqS+3Sy2KHEeZde9brxAKLW8xHsn5vCY+BmL/bcvyIAW9s7OaHRhEr0k=;rfLENHND0CXRrBe5l/pzlA=="
+secured: "sN5VciDpolFoeHWyLB0wWg9XoxMzNUeoeecP65taOES/BVSd6UYm+9aAh2E240yg5yzVor60fNTRLpJYjQtbodQGmg/bFwjxxMYrDVh6sVmsyPTn6vqqdZh/3wbAeFrdE62Oldo8zggCWazKfxfLulFFwW+ZQerh+sjJko0UBoiXwihTXGXyitTL/0zKMoPQTae96z47FhF1IKVicua/gKNA9D65ZJ61vlleaalp3OTR47uhcFMCJ44lLkg+ukgPcaDEQBYZTf1n1IibsuLq4OnNV38OTykwR9i7//SJwbntHYFwPMgOpzNOn7I9whQRDCTYmwxp9CGp0pWOjBZUrenQE4L0yzIYqci64K3gv0U=;a1rPfeU6n6EGxBnDMCyZLw=="
 ---
 

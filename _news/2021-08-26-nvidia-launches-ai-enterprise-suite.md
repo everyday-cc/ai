@@ -97,6 +97,15 @@ related:
         width: 1500
         height: 1124
         isCached: true
+  - title: "Dell touts VxRail and GPU combo for Nvidia’s AI Enterprise suite"
+    excerpt: "Dell's HCI platform is certified for accelerating workloads with Nvidia’s newly available AI Enterprise software suite."
+    publishedDateTime: 2021-08-25T14:35:00Z
+    webUrl: "https://blocksandfiles.com/2021/08/25/dell-touts-vxrail-and-gpu-combo-for-nvidias-ai-enterprise-suite/"
+    type: article
+    provider:
+      name: blocksandfiles
+      domain: blocksandfiles.com
+    quality: 34
   - title: "Nvidia’s partnership with VMware aims to enable AI across enterprise for every workload"
     excerpt: "Nvidia Corp.’s year-long collaboration with VMware Inc. is finally bearing fruit with today’s general launch of the new Nvidia AI Enterprise platform, a suite of artificial intelligence tools and frameworks that make it possible to virtualize AI workloads and run them on Nvidia-certified server systems."
     publishedDateTime: 2021-08-24T13:54:00Z
@@ -121,6 +130,6 @@ related:
       domain: tmcnet.com
     quality: 11
 
-secured: "42rKSQycM4k4X6ljMI1/mHsZZc0ufqexofz8XlwAtHkaKM6YWIV3FcDW1FhUr+7HGiuuEF4IavObmziaZUUS+wQQouhWQ9j0LZy77IJXNYI/jf11Oo7B6F9dl1RCXDDwIXA6kmW2v7FDXj3VOYcNlgF6+vDiuVxXBj7/Dhi8vp6QCotd4uXhvhd9HX4mf+zy97y6QqqWGKhPAMnYpfuoCzwz+Z+re9LGaehAB6Yp/6Zv9XsUxa1Lb8tlDtX2a/0flBcpxktPAm+k3SQcbCQtnjYxeaEvY95ixjI8/EZsClyfXlj2N31Gxu739EvUOyfvtiD67U4543knDWsQjDJia3KV0c4NBUQlxB/xnoG25LA=;1U3EkiXfTnmToBMaJYHJow=="
+secured: "XLmL520TR4357A5TdghSnm8X4FqKqt44UUA15zscQ2hqHtJ48irP0SihYo/aXkR0INpqDOIWltFUQhb40RzNHedFlT6WQptiySqMN5Dm5EAiHtXYq/YlJ6NO0OcV34eg8Ov+cpLlFsNZXV2Cv/qfNdSEWnz9g2oWBJkKXPDQZ/foRaLBkJecx/E5xRYpn/WL1NNoNO9JJjQ/8F1x45BTFcOHkZFxvbhqtJtW/n3S5tUzETLaL2GxxE9TqfUOgALy6KDEGCjMmy9wIL0a4AbjjoQcy06mK6dGhvHNQpx93y/VV42/wF5Iz/uScOuGPB3U04WK41ZYX8WONsbewoyLRmgu9HHVmQHtLJ+1/rj9KS4G+0Rm/TJl4MAkUoo3aMUPEBBe6twg+n9OWhYJwJtqIDFGNvcMqsV8k6QIWTtMAAgvHd1w+BqEAVZxV8YhqQfJjTtkbnzStgP8TsQDDRrMnAw1rPwA0xcFKAy9Im9+BPCi/+kZD7qUsRPNgtUaMA5QFp8mqbS2/BUS9klK7N/t8Q==;v3m3oVEZe1LEH+T/Q5hIWQ=="
 ---
 

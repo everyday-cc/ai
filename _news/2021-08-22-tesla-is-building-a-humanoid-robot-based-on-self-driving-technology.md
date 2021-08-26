@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla now aims for Full Self-Driving Beta public release in ‘~4 weeks’"
+    excerpt: "Elon Musk is now saying that Tesla is aiming for the wider public release of its Full Self-Driving Beta in about 4 weeks. We are coming up on almost a year since Tesla started testing its Full Self-Driving Beta in its early access program with some customers."
+    publishedDateTime: 2021-08-25T23:37:00Z
+    webUrl: "https://electrek.co/2021/08/25/tesla-full-self-driving-beta-public-release-4-weeks/"
+    ampWebUrl: "https://electrek.co/2021/08/25/tesla-full-self-driving-beta-public-release-4-weeks/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/25/tesla-full-self-driving-beta-public-release-4-weeks/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 104
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Elon Musk Calls Tesla'a Full Self Driving Beta Technology 'Not Great' in a Tweet"
     excerpt: "Tesla CEO Elon Musk said on Twitter that the company's Full Self Driving Beta technology is 'not great' and admits that the AI team is working on it."
     publishedDateTime: 2021-08-23T21:50:00Z

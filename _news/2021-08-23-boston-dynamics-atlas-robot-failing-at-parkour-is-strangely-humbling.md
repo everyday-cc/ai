@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcgamer.com/amp/boston-dynamics-robots-doing-parkour/"
 cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/boston-dynamics-robots-doing-parkour/"
 type: article
 quality: 74
-heat: 86
+heat: 84
 published: true
 
 provider:

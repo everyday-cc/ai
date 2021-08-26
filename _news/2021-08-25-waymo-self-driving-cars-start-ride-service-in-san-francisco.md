@@ -156,6 +156,20 @@ related:
         width: 960
         height: 480
         isCached: true
+  - title: "Waymo is Now Picking Up Riders in its Self-Driving Robotaxis in San Francisco"
+    excerpt: "Alphabet’s autonomous driving division Waymo, which spun out of Google’s self-driving car project, has launched its commercial robotaxi service in San Francisco for a select group of early testers. The company was approved to begin picking up passengers in its driverless vehicles for the first time in the city after extensively testing its technology using safety drivers behind the wheel."
+    publishedDateTime: 2021-08-24T17:00:00Z
+    webUrl: "https://www.futurecar.com/4824/Waymo-is-Now-Picking-Up-Riders-in-its-Self-Driving-Robotaxis-in-San-Francisco"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 36
+    images:
+      - url: "https://img.futurecar.com/202108/24/l_61252915d0f89.jpeg"
+        width: 800
+        height: 457
+        isCached: true
   - title: "Video: Waymo begins self-driving rides in San Francisco"
     excerpt: "Waymo, the autonomous driving division of Google, has started its Trusted Tester program in San Francisco. The program will invite the local population to get rides from Waymo to help better identify the issues involved with autonomous driving as well as discover what consumers want from self-driving ride-hailing services."
     publishedDateTime: 2021-08-25T12:06:00Z

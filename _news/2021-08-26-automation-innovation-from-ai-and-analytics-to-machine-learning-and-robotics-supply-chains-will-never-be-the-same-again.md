@@ -72,6 +72,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Bodo.ai Raises $14 million Series A Funding for Data Analytics and Machine Learning"
+    excerpt: "Bodo.ai, an extreme-performance parallel compute platform for data workloads, today announced it has raised $14 million in"
+    publishedDateTime: 2021-08-25T21:49:00Z
+    webUrl: "https://www.enterpriseai.news/2021/08/25/bodo-ai-raises-14-million-series-a-funding-for-data-analytics-and-machine-learning/"
+    type: article
+    provider:
+      name: enterpriseai
+      domain: enterpriseai.news
+    quality: 50
+    images:
+      - url: "https://www.enterpriseai.news/wp-content/uploads/2019/03/EAI2-01-fb.png"
+        width: 1598
+        height: 840
+        isCached: true
   - title: "Singapore fashion analytics firm acquires Malaysia AI startup in $20m deal"
     excerpt: "The acquisition of Supahands would help Omnilytics fill a gap in its existing tech offerings for retail firms."
     publishedDateTime: 2021-08-25T04:17:00Z
@@ -133,6 +147,6 @@ related:
       domain: tmcnet.com
     quality: 8
 
-secured: "eBT//XuJYi+g3k4u2zCoN0Ne80mqBkaUGRn/HQoobzOVq/kBkXPXYam0AN3WSu1Ztx7C5A3IKl0SDKdWG84ajsndraSl4gPWR3/aF8NSj+lNSPjmOdbUwZ5tva1w03bHXyRWd44VfkChLELe2+rHKtdlWmr0S6gqk2hDnGuEsWXM7wN59IZH2An5StX/ggkGHZHExvmjv8E/QV1rwivom3g2TzRZVOHsAmMVZyCNO7CLBfQd3IHaUV6O1q+P4kq7qTyY2vsgtgkRLHbfr3e7yDI5E++aSJ6eD1r2RtndBxrzXMNVJPYm0YfEX3WHa1e26gs0zxbLQFIfqNQrs5vYex68RdUjSKvSiKZvlWJNuAE=;iXJVX5aA1ZZ5Dk77cFvapQ=="
+secured: "rsWKU601v+7mH97Qzm53lnpQ6wyLDAVmTZv+uovrDHfTnXulEAzwt59VzfiPYnx2S4TdcbHBtWfx+0vMXZMJS/Rw0n8iFvDhzfnUVqt+iU/8MGULhVBCF3LW2rWxSczw7foi1kcKKRWYqjzPUg2H6AguPPrDkTenPpQG0p3O/d1cfrvaZidGLJRURJgi1RG6Kwawlr1DdSEo30en13xWFGTKzWaAyO1KOLrAC8Et3/2tJKY8LHHyj4+CAc+wVEXJNV2zGYuiR12EeJCMRHrypqnZCWQegyRvoURY9kWUd0mNoUNgotgiTAKRz8uySToV3FCywxNoe1M2F/QTbidsCqW16FbvA+36epnm43Y+7UBjwAOK272cLQprGEdGHZsqYfBll+4qWHdIKJ1EjB0ORrks7XxVQP2QPqYCRWfZqbv77DxpZgQHWRQ0q4Kzbdi8CEGqMEwyYPnA62xr2fQN+wPAXTdMChZpJHZcDGhVYDJH3YH3zJW30e0Yd464hGmCGHKiMWFkS519suFgdo36hg==;YjvK/lzmZtRCgAyrIk5JAQ=="
 ---
 

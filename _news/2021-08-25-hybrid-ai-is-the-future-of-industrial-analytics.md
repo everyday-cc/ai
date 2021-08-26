@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/25/hybrid-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/25/hybrid-ai-is-the-future-of-industrial-analytics/amp/"
 type: article
 quality: 91
-heat: 171
+heat: 181
 published: true
 
 provider:
@@ -75,6 +75,20 @@ related:
       - url: "https://images.marinelink.com/images/maritime/w800h600pad/quardia-adobe-stock-125369.jpeg"
         width: 800
         height: 450
+        isCached: true
+  - title: "Bodo.ai Raises $14 million Series A Funding for Data Analytics and Machine Learning"
+    excerpt: "Bodo.ai, an extreme-performance parallel compute platform for data workloads, today announced it has raised $14 million in"
+    publishedDateTime: 2021-08-25T21:49:00Z
+    webUrl: "https://www.enterpriseai.news/2021/08/25/bodo-ai-raises-14-million-series-a-funding-for-data-analytics-and-machine-learning/"
+    type: article
+    provider:
+      name: enterpriseai
+      domain: enterpriseai.news
+    quality: 50
+    images:
+      - url: "https://www.enterpriseai.news/wp-content/uploads/2019/03/EAI2-01-fb.png"
+        width: 1598
+        height: 840
         isCached: true
   - title: "Singapore fashion analytics firm acquires Malaysia AI startup in $20m deal"
     excerpt: "The acquisition of Supahands would help Omnilytics fill a gap in its existing tech offerings for retail firms."

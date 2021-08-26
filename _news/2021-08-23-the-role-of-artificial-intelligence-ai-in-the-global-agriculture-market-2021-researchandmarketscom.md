@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "C3.ai Inc. (AI) market price of $49.73 offers the impression of an exciting value play"
+    excerpt: "Let’s start up with the current stock price of C3.ai Inc. (AI), which is $49.73 to be very precise. The Stock rose vividly during the last session to $50.25 after opening rate of $47.50 while the lowest price it went was recorded $47."
+    publishedDateTime: 2021-08-25T23:43:00Z
+    webUrl: "https://investchronicle.com/2021/08/25/c3-ai-inc-ai-market-price-of-49-73-offers-the-impression-of-an-exciting-value-play/"
+    type: article
+    provider:
+      name: investchronicle
+      domain: investchronicle.com
+    quality: 29
+    images:
+      - url: "https://investchronicle.com/wp-content/uploads/2019/06/investchronicle-89-e1579508125875.png"
+        width: 450
+        height: 298
+        isCached: true
   - title: "With Market Size Valued at $3.6 Billion by 2026, it`s a Healthy Outlook for the Global Artificial Intelligence (AI) in Agriculture Market"
     excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Agriculture - Global Market Trajectory & Analytics\"."
     publishedDateTime: 2021-08-25T11:52:00Z

@@ -39,6 +39,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "C3.ai Inc. (AI) market price of $49.73 offers the impression of an exciting value play"
+    excerpt: "Let’s start up with the current stock price of C3.ai Inc. (AI), which is $49.73 to be very precise. The Stock rose vividly during the last session to $50.25 after opening rate of $47.50 while the lowest price it went was recorded $47."
+    publishedDateTime: 2021-08-25T23:43:00Z
+    webUrl: "https://investchronicle.com/2021/08/25/c3-ai-inc-ai-market-price-of-49-73-offers-the-impression-of-an-exciting-value-play/"
+    type: article
+    provider:
+      name: investchronicle
+      domain: investchronicle.com
+    quality: 29
+    images:
+      - url: "https://investchronicle.com/wp-content/uploads/2019/06/investchronicle-89-e1579508125875.png"
+        width: 450
+        height: 298
+        isCached: true
   - title: "United States Automotive Voice Recognition Systems Market Report 2021 - Forecast to 2026 - ResearchAndMarkets.com"
     excerpt: "The “Automotive Voice Recognition Systems Market Research Report by Deployment, by State - United States Forecast to 2026 - Cumulative Impact of COVID-19” report has been added to ResearchAndMarkets.com’s offering."
     publishedDateTime: 2021-08-24T14:32:00Z

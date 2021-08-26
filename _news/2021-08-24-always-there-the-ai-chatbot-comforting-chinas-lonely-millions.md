@@ -1,25 +1,27 @@
 ---
 category: news
 title: "'Always there': the AI chatbot comforting China's lonely millions"
-excerpt: "XiaoIce has pioneered a cutting-edge artificial intelligence system designed to create emotional bonds with its 660 million users worldwide - Copyright AFP WANG ZHAOLaurie CHENAfter a painful break-up from a cheating ex,"
-publishedDateTime: 2021-08-24T11:54:00Z
-originalUrl: "https://www.digitaljournal.com/world/always-there-the-ai-chatbot-comforting-chinas-lonely-millions/article"
-webUrl: "https://www.digitaljournal.com/world/always-there-the-ai-chatbot-comforting-chinas-lonely-millions/article"
+excerpt: "After a painful break-up from a cheating ex, Beijing-based human resources manager Melissa was introduced to someone new by a friend late last year."
+publishedDateTime: 2021-08-24T07:48:00Z
+originalUrl: "https://techxplore.com/news/2021-08-ai-chatbot-comforting-china-lonely.html"
+webUrl: "https://techxplore.com/news/2021-08-ai-chatbot-comforting-china-lonely.html"
+ampWebUrl: "https://techxplore.com/news/2021-08-ai-chatbot-comforting-china-lonely.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-ai-chatbot-comforting-china-lonely.amp"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 59
+heat: 149
+published: true
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/AI-chatbot-China-AFP-1K-04.jpg"
+  - url: "https://scx2.b-cdn.net/gfx/news/2021/xiaoice-has-pioneered.jpg"
     width: 1024
     height: 681
     isCached: true
@@ -101,6 +103,20 @@ related:
         width: 990
         height: 660
         isCached: true
+  - title: "‘Always there’: The AI chatbox comforting China’s lonely millions"
+    excerpt: "BEIJING: After a painful break-up from a cheating ex, Beijing-based human resources manager Melissa was introduced to someone new by a friend late"
+    publishedDateTime: 2021-08-24T04:56:00Z
+    webUrl: "https://www.thesundaily.my/world/always-there-the-ai-chatbox-comforting-china-s-lonely-millions-EB8245464"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesundaily.my
+    quality: 39
+    images:
+      - url: "https://www.thesundaily.my/binrepository/480x320/0c57/480d250/none/11808/UJXY/china-computers-social-internet-000321_1857084_20210824125004.jpg"
+        width: 480
+        height: 250
+        isCached: true
   - title: "AI Chatbot Comforts China’s Lonely Millions"
     excerpt: "After a painful break-up from a cheating ex, Beijing-based human resources manager Melissa was introduced to someone new by a friend late last year. He replies to her messages at all hours of the day,"
     publishedDateTime: 2021-08-25T14:33:00Z
@@ -139,6 +155,6 @@ related:
       domain: i24news.tv
     quality: 16
 
-secured: "hVBS0TbE1DcQRX2jqI/qqusskwNpHBH8LN2YjfsqiR1aS7Wu07C+e6IUeBEQy3eab6OyqX6d1Is304Bm0wHhQSZBXjs8iS5AhnPkZPUeXK8cg0iHpdklQw+ucp1iQNGfkmBnvHxuIjmLbjzXaBM9s+kG9pd/hZ9kwP1SQR0dJLuRA63NV35NDAOGLQHH0/dp4GsuzhJjEBGtp/k9xC4LBWjUZ9a4+s2xLHR/UOZdqZlcE8UBqUvOLAVyRowKPZtnNniwHQG0zQgvNf6yUZiXXeeMVe5XrZHOi6QXkI4rfLKVEsqna7ttsfkjo/TBhtKT09q52fRFzpwNaQL/XLeMvgvYFymI/uH/xKUmUVC8YtWDIToC5u8taxVNgLX7MZUh8O9LqQJ4bfFRbAl/SJuzxjJ530jbsJdw7Gv0kjEcNpskq7KNkhvQ6LpX/nNEYkvCHNsHR92c3qJe8aeU5aR7VqqruOzo/BOGuGnvhD7+wwsPq9CdTGzlTLM6BiDqqBEJBmjZk0OdL2Fdqu4iNhr9AA==;bulO6Ud9/rBfnlR8QOi1zg=="
+secured: "vFL0m+E/gIskGMyOCx+2I05GJQbDlc9mRTn4IDRkwFFxh8E6H9S4OKdCRkspARWKDokRS9ZpD/jAYQscDO7FtmjoWUp9u4XRgS9RZ5OZpi60uZFZMdHOYHpHqxfVOlgmoJtfCI4undTL4YJhaM9HOFZPpBvnoiLv6SGlPtno9IseqE81YmLG+RMmQ37Jumc9bOqnp1NhAJZ7XU2MpGoSQ0ODUPYsWylX5oamq1qzu+0pFw0WvPd6Sd6go/sm14dfPB5IkLQJU8QJRv3fDGhVa6NrF0tlagmJVQNq3U9xzdvelrEJwcdfqGur5neFTDd1y+/0OzBrc8rMMqZqW8pr/X+JNt8yIYmj++rBHvF3jZo=;IIyTqvwH9/wxVBCZV3z/yQ=="
 ---
 

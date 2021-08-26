@@ -82,6 +82,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Bodo.ai Raises $14 million Series A Funding for Data Analytics and Machine Learning"
+    excerpt: "Bodo.ai, an extreme-performance parallel compute platform for data workloads, today announced it has raised $14 million in"
+    publishedDateTime: 2021-08-25T21:49:00Z
+    webUrl: "https://www.enterpriseai.news/2021/08/25/bodo-ai-raises-14-million-series-a-funding-for-data-analytics-and-machine-learning/"
+    type: article
+    provider:
+      name: enterpriseai
+      domain: enterpriseai.news
+    quality: 50
+    images:
+      - url: "https://www.enterpriseai.news/wp-content/uploads/2019/03/EAI2-01-fb.png"
+        width: 1598
+        height: 840
+        isCached: true
   - title: "Covera Health Raises $25M in Series C Financing to Fuel Growth of Its Healthcare Quality Analytics Platform"
     excerpt: "Covera Health, the leading quality analytics company focused on improving patient care by reducing medical errors, today announced its Series C financing. The $25M funding was led by global venture capital and private equity firm Insight Partners with participation from existing investors including Equity Group Investments."
     publishedDateTime: 2021-08-23T13:02:00Z
