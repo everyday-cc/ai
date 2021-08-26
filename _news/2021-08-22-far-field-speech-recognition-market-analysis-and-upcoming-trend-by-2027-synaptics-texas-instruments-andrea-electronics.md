@@ -43,20 +43,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Software Testing in the World of Next-Gen Technologies"
-    excerpt: "and AutoML. The introduction of next-gen technologies like AI, Big Data, Robotics and IoT have quickly redefined the way the world looks at software technology. Some of the biggest impacts of ..."
-    publishedDateTime: 2021-08-21T09:00:00Z
-    webUrl: "https://www.infoq.com/articles/testing-next-gen/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 24
-    images:
-      - url: "https://res.infoq.com/articles/testing-next-gen/en/headerimage/header+%2838%29-1629329969423.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "M0Ckgp/TtnQcLvE6PJTxaApbKihQV7ZBIAdulARfSS3WnPPGozDms8uRYQ74+hiOmlLN4+7AlsLtfZwygG0/F71H6Auju3YTfaKKBgs2kuqepL6aYx3tzq8059jeFb3r69VV8bAOnRS8a/1sR8GHO/RYiGrdM8EBDUEnnOyk0+MO6lubSmMTlyIPo9bcA3W0OKlSNVb4mGkcpQbvv3Kw+xkOvprIdcWCaUHrwuUk6NcdPXN3OfIsCFjfJJMWuRSqU6gUMrm5N+8ydUySCAGmzfAuX8Kt6p1eMWGEYZ44FxYzDS/7BtVJobYlrhIoYk6JORK8PQX6FBgoKIj8CfLgwKsBKJ1c45ldazzeo66CmFmCuBt2EwIt21La+Y644IHTc+uzAiL2sXuEAmvca/QZSLvq7oLvvlv1pHZCgpTvjge9u5LdgDureb7bVTbDz3DlTtnOap/SSuyoXhgBpqAlHL9vNYnllv2fFlI4UpdRzC1qZoG9HKFp1WY0CRLdM6sX8hv0JkjCS51gO4i55g53LA==;AliZUj1K4KtGmc4/qLITaQ=="
 ---

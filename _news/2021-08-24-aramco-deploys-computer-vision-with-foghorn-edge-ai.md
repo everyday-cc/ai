@@ -7,8 +7,8 @@ originalUrl: "https://www.hydrocarbonprocessing.com/news/2021/08/aramco-deploys-
 webUrl: "https://www.hydrocarbonprocessing.com/news/2021/08/aramco-deploys-computer-vision-with-foghorn-edge-ai"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Hydrocarbon Processing
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Aramco Deploys Computer Vision with FogHorn Edge AI to Improve Business Operations"
+    excerpt: "FogHorn, a leading developer of Edge AI software for industrial and commercial Internet of Things (IoT) solutions, today announce"
+    publishedDateTime: 2021-08-24T14:32:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-306b3da655a54c79b7778d33048b06d2"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 48
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Energy giant Aramco picks edge-based computer vision from FogHorn for better monitoring"
     excerpt: "Energy and chemical giant Aramco has deployed edge-based computer vision from FogHorn to improve safety and to monitor equipment to prevent failures, FogHorn announced Tuesday. Aramco is using the FogHorn Lightning Edge AI platform which will also provide support for future automation,"
     publishedDateTime: 2021-08-24T13:00:00Z

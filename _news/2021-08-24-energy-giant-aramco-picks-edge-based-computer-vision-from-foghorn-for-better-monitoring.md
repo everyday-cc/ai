@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Aramco Deploys Computer Vision with FogHorn Edge AI to Improve Business Operations"
+    excerpt: "FogHorn, a leading developer of Edge AI software for industrial and commercial Internet of Things (IoT) solutions, today announce"
+    publishedDateTime: 2021-08-24T14:32:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-306b3da655a54c79b7778d33048b06d2"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 48
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "QyIh3pTGx2CKGvaGaOIYXs+vkwldcUqoFzVj+muWD9kzlHxB2KIdsbC6l5umc38pLhBj62mDjNiCt8jil1yEY7BC61z12In+JhBfaGjvGgXIuCXbqHdb9vJhZ/0jy+ZqNSPD0KLCakRE+goE3UYbyv9VFGgLVEPFT532rAY1vOYK8ON688ciFOrR940IZh0aMbz7KOHRswvTdZebJxSuLVNCD8ZXHxKvM/9Tg2K9HbmvW5gfAeU/IEgjLq7YffJyK0vDuUN5Zds1aJ6j2nlabAHpV+/Z3U+jLiG/vR5OsIOCt4mv4aPjO7B7Q44Df6QtlJ2nPavpj9CQN8ivAL3jYtDg3GJTggsDoY9a22eqAfDxTA9JuiJ9i+2CnnteWoXx4HiDLtyy+YBdzdC96Sfm6TQxov4l9zVNzyjXcrWPjwvAX/bENHCWPOlL7EshezA9/gq6FD9et1kOJMU7MaK3mjIOkBjXw3uEo+bndlVydGqn1LkPVkCXb1pyv1ei1f9k4Ml9uc5+ze6Yulp5M+SZuw==;Aw+OViZjT+jdNEUoXLceXw=="
 ---

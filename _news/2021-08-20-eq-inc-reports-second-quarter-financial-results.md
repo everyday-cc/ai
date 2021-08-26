@@ -1,45 +1,26 @@
 ---
 category: news
 title: "EQ Inc. Reports Second Quarter Financial Results"
-excerpt: "EQ Inc. (\"EQ Works\" or the \"Company\"), a leader in geospatial data and artificial intelligence driven software, announced its financial results today, for the second quarter ended June 30,"
-publishedDateTime: 2021-08-20T05:49:00Z
-originalUrl: "https://www.lelezard.com/en/news-19961239.html"
-webUrl: "https://www.lelezard.com/en/news-19961239.html"
+excerpt: "Revenue increases 71% for the quarter and 74% year over year. TORONTO, ON / ACCESSWIRE / August 19, 2021 / EQ Inc. (TSXV:EQ) (“EQ Works” or the “Company”), a leader in geo"
+publishedDateTime: 2021-08-19T20:31:00Z
+originalUrl: "https://apnews.com/press-release/accesswire/technology-canada-business-health-coronavirus-pandemic-ebc568d3d0ef96c4422de13c99638903"
+webUrl: "https://apnews.com/press-release/accesswire/technology-canada-business-health-coronavirus-pandemic-ebc568d3d0ef96c4422de13c99638903"
 type: article
-quality: 24
-heat: -1
-published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
-    width: 421
-    height: 421
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-related:
-  - title: "Sprout AI Inc. Q2 Financial Report"
-    excerpt: "Sprout AI Inc. (“Sprout AI” or the “Company”) (CSE: SPRT) has filed its unaudited interim Second Quarter (Q2) Financial Statement (FS) and Management’s Discussion and Analysis (MD&A) for both Sprout AI Inc."
-    publishedDateTime: 2021-08-20T13:02:00Z
-    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-canada-business-health-coronavirus-pandemic-a25364117d439179b3a7eafcad68b95b"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-
-secured: "HpCZhJapcdhvMsZ0FlngGPfmeZgbocFpBddyB0u/sfiwauLdNK69Po6UxT4vG0viifnCQI0NlUhfSUX1E+NWNE47rQGy392uVYIOfJQyPMrxYpo2anT9lztbasXz8uH2N4QCrnwl+hCw+O1yd1hE9M1/BexEkihngthHrcmNrd1yTFKfDOGb9J8euAEegHGLeJ0MrEEFq8aO0hecMU0U3NSZkMzItEYGdG0XGoYmh380TtojX+jOJIYuPf3YUqRcMuLZHCXQCWEZiFcV0bqVI/NBvlMtr8HZKwdpAbPB6IEd8td23QX+P9LFjT0VAtwV5MY6EK+rQUjD1N1saJ6jQj3AkhxDJ6N3hbFquEc+IB8=;IX593sA+dSeQc7SCm8nUSQ=="
+secured: "hsTnRktXaXwb/uaVtGPMyvRN9+AY8MsAg9dBabznjImo5wvV2ve8MDw2irZzCSwOlp6PLTVrJutVhOzMEzsEOsw+ztZTJu2ADQuQZWhQd8q+cCkeHObXA2S9dGwbQmJbl5bXb4rFpUWRL5GwsNuViCXo7vvGERQeBVSv2bBbYo67PMtODNgRQMyL/8aLZJR2gDetdOc8+8ptO9N3dtpzHld5KpVzpDIes/mU3NYMGh1dLelg76X8i8QGe3u9V4rj2s7mN2gpTYMGMR/AQ1U2asKH99oDgOA5oz+H8HoxkhiptVZRpQBx3c+mhjivSJfiCVzRyN7SYuiz07IW/Ei1nU04WyDP+9xdVp5u2oH8Z68=;EPQp3ilWeb6CwlTLGGfCmg=="
 ---
 

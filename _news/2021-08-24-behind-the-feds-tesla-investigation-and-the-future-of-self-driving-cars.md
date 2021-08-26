@@ -26,18 +26,20 @@ images:
 
 related:
   - title: "Will Tesla share its self-driving system with other manufacturers?"
-    excerpt: "At a recent conference dedicated to artificial intelligence, Elon Musk indicated that Autopilot, Tesla’s autonomous driving technology, could at some point be distributed to other automakers, although he did not give any names (or dates) for such an eventuality."
-    publishedDateTime: 2021-08-25T08:05:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/08/25/will-tesla-share-its-self-driving-system-with-other-manufacturers"
+    excerpt: "Newcomers to the market could very well turn to Tesla and their technology, which now has a significant track record."
+    publishedDateTime: 2021-08-25T09:46:00Z
+    webUrl: "https://www.astroawani.com/berita-dunia/will-tesla-share-its-self-driving-system-other-manufacturers-315998"
+    ampWebUrl: "https://www.astroawani.com/berita-dunia/will-tesla-share-its-self-driving-system-other-manufacturers-315998?amp=1"
+    cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/berita-dunia/will-tesla-share-its-self-driving-system-other-manufacturers-315998?amp=1"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
+      name: Astro Awani
+      domain: astroawani.com
+    quality: 59
     images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/08/25/1268743.jpg"
-        width: 1240
-        height: 826
+      - url: "https://img.astroawani.com/2021-08/81629873606_TESLA.jpg"
+        width: 590
+        height: 400
         isCached: true
 
 secured: "feo2SJO/2ZTLt3vhrqniyjP4ehWO/7ph01HjfLUXeAASuerFuJS+qoslcgYlHv5epp6nErW6NlfC6c29S1DhIDavVq3HDA3gUiCzDS59goHoILg2trUehRh1GVygO1pkoAo1CrTfum6TNds812L5XMOW3RHF6yQc7k/sj8BiphYCUSb0Z4fUNXD4KgLIb+EmyW8X9XhF7N2AalF38Q9IaSRkI9U+DKibvy1PJxwPaDobJGgsSa6bGEo0wD24SCBhPF5sUPfhxCQjWRGpw2Ln+dyv9S0zqXp9YiC1+Neo7uteCcFyC1xwh0c7zOHbJS8aaC/cuIJ0s92GsYg3AsM2TrXOAKUZHllbhBXDrB5k71RU3VWcieE+GNGxb73aC9Xe1WbKl4Zrw1u89ATPx2f8ZVTmOzEygkkjOcOcuAOsICpQWSjMFJastQI9sLBbylBjk0a9g7WnGftOb4AoK+pnpRo4q67Hr51LfvzlJ45m7KFGmVzAYqhOery8NGXL0K2Ck6GOsv+v0VaVDwFae3Q9bw==;F2caeIEK/B+LDdBlBhmOgA=="

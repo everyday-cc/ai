@@ -47,9 +47,9 @@ related:
   - title: "UniSA researchers develop AI facial recognition tech to monitor premature babies"
     excerpt: "University of South Australia boasts the AI-based system it has developed to remotely monitor the vital signs of babies rival the accuracy of ECG."
     publishedDateTime: 2021-08-25T08:17:00Z
-    webUrl: "https://www.zdnet.com/index.php/recent/index.php/article/unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies/"
-    ampWebUrl: "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies/"
+    webUrl: "https://www.zdnet.com/article/unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies/"
     type: article
     provider:
       name: ZDNet
@@ -76,12 +76,12 @@ related:
         isCached: true
   - title: "Researchers Demonstrate AI Can Be Fooled"
     excerpt: "The artificial intelligence systems used by image recognition tools, such as those that certain connected cars use to identify street signs, can be tricked to make"
-    publishedDateTime: 2021-08-25T17:38:00Z
-    webUrl: "https://www.inforisktoday.com/researchers-demonstrate-ai-be-fooled-a-17366"
+    publishedDateTime: 2021-08-25T17:39:00Z
+    webUrl: "https://www.databreachtoday.com/researchers-demonstrate-ai-be-fooled-a-17366"
     type: article
     provider:
-      name: Info Risk Today
-      domain: inforisktoday.com
+      name: DataBreachToday
+      domain: databreachtoday.com
     quality: 39
     images:
       - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/researchers-demonstrate-ai-be-fooled-showcase_image-10-a-17366.jpg"
@@ -131,6 +131,6 @@ related:
         height: 450
         isCached: true
 
-secured: "rcTF/ciDyck/p9KeosGOEZuVfzAYSp2NhIGAImBU4Qe44Vz3dsgaFhTVjCgO5X4/BQRBfPiW66oqeqrTAa1tgU1ycJu7fVJnSvTG3x779xczuYHXXNyIRWgS3J+Y1qpQXtN4gx8bqp3wOBzdYN5sTOncd3H3vvu7B0D2ee1u0kyLxRpjmYbMclw3nsOLovjEnhOqndEGsIWp8bB47NfL4SP58EuDhdVoxvViSTGGTe02d/eo5uWy4g2i4SCeUIUePcmWU8xHpMyD4JtRCtSrTLvxWTBVNppD9leboy57nZz3UFL9upoA4PMIpG4bMyFGhZVS+EhckqBXeg3pcCfaN6dvZr6V6uWiywuNMdzAqLI=;HaW7DNPQ4aPeyc4ooCI9Gg=="
+secured: "oY48m7Mb8+qP64tjiQ5q5xn2Fbn4zu78ikXlkrw8OuGUR++4xngkHGRTp1rcifs2H+HbW3tjRhs0ko2+ZFx/m8RlUsO7NELM3CLDRyMy+xmXDH9KgkXIjr8liHgR51g5E8uw8P2SzeCOFFeSS+wkPHL1DgrnPZRljhL23n/eIlz1MYDNRZo8graDWRE2nPH3Vx0I2trTS/1dZUGu9bVBP9qCEtLdK7mkA1aDf2aU+Xh4rtSzMJK/7ISKtuzBvdn4vIimt9t1PDezFVHtD6p5Pg3uaTtzm6ZmJ5yOYCp8tAAET09Oio2D972A7LLibT7nyM3MFvTRXobbKu2JW3Fcqkb+mOTfeKEPFhdjFF8dZdzUZHr7Ryzmz9pSvMhIWKxxFXgj6U4+/tBFCixEY26O/SraYxRmO07lOEYKc3UQKA820/IPx6uXYzuTzx5Yk/MC7qvVQZLBWCJidJ3M84aVJNbWSeaVRx8VjWS/ZjlmJISpnaoAfvZISq3TJos4/dEYu8hsAQ7mdY0lbSLqp0KKHQ==;qugocO+pNWZvHFBSKgRuaw=="
 ---
 

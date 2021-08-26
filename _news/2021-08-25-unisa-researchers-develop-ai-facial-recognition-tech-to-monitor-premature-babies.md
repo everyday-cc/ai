@@ -3,10 +3,10 @@ category: news
 title: "UniSA researchers develop AI facial recognition tech to monitor premature babies"
 excerpt: "University of South Australia boasts the AI-based system it has developed to remotely monitor the vital signs of babies rival the accuracy of ECG."
 publishedDateTime: 2021-08-25T08:17:00Z
-originalUrl: "https://www.zdnet.com/index.php/recent/index.php/article/unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies/"
-webUrl: "https://www.zdnet.com/index.php/recent/index.php/article/unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies/"
-ampWebUrl: "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies/"
+originalUrl: "https://www.zdnet.com/article/unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies/"
+webUrl: "https://www.zdnet.com/article/unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies/"
 type: article
 quality: 99
 heat: -1
@@ -21,8 +21,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - Computer Vision
+  - AI
 
 images:
   - url: "https://www.zdnet.com/a/hub/i/2021/08/25/32645fe4-b490-47ff-b6fb-afe88e18ae83/jimaging-07-00122-g004.jpg"
@@ -77,12 +77,12 @@ related:
         isCached: true
   - title: "Researchers Demonstrate AI Can Be Fooled"
     excerpt: "The artificial intelligence systems used by image recognition tools, such as those that certain connected cars use to identify street signs, can be tricked to make"
-    publishedDateTime: 2021-08-25T17:38:00Z
-    webUrl: "https://www.inforisktoday.com/researchers-demonstrate-ai-be-fooled-a-17366"
+    publishedDateTime: 2021-08-25T17:39:00Z
+    webUrl: "https://www.databreachtoday.com/researchers-demonstrate-ai-be-fooled-a-17366"
     type: article
     provider:
-      name: Info Risk Today
-      domain: inforisktoday.com
+      name: DataBreachToday
+      domain: databreachtoday.com
     quality: 39
     images:
       - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/researchers-demonstrate-ai-be-fooled-showcase_image-10-a-17366.jpg"
@@ -132,6 +132,6 @@ related:
         height: 450
         isCached: true
 
-secured: "sN5VciDpolFoeHWyLB0wWg9XoxMzNUeoeecP65taOES/BVSd6UYm+9aAh2E240yg5yzVor60fNTRLpJYjQtbodQGmg/bFwjxxMYrDVh6sVmsyPTn6vqqdZh/3wbAeFrdE62Oldo8zggCWazKfxfLulFFwW+ZQerh+sjJko0UBoiXwihTXGXyitTL/0zKMoPQTae96z47FhF1IKVicua/gKNA9D65ZJ61vlleaalp3OTR47uhcFMCJ44lLkg+ukgPcaDEQBYZTf1n1IibsuLq4OnNV38OTykwR9i7//SJwbntHYFwPMgOpzNOn7I9whQRDCTYmwxp9CGp0pWOjBZUrenQE4L0yzIYqci64K3gv0U=;a1rPfeU6n6EGxBnDMCyZLw=="
+secured: "CEHRyatJ3YQ0xAjKviGQEhsY02VJH1eFhtnhkeyKBdmu52Zkfl44OWlDRMShjnyx58pvNMYUTP3Y/RfL0uVF7DuLIW0AI15qrhMlLj78hS2VTdJOK2NIwBE1kZ6mHKCbXIRlHNb6cMpmMVHD+cyIxCRdWE/ePoAIUG16FIFtvZOGNNGwvwqNnTY4JVHRCFiyvkS7yxcfFwpdbvzdKP9wHWbcoozKl4keH4KFNTaesivA6cawFB5bZqSvMt43WUGM2UNEmtS5Nqwe8ifYuE+yCEAo0Ni2Y1JDaxjahsFTlnR/MP4h5/+Pqmcie5/M8v2jn0+Iu8iZbH1gNZEdgviTvLKPuCAkvFQx67A//zcfdQ0=;pIRZHgNZdqx3hpkv71jATw=="
 ---
 

@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Xiaomi Buys Self-Driving Tech Startup to Propel EV Ambitions"
-excerpt: "Xiaomi Corp. will buy autonomous driving technology startup Deepmotion for about $77.4 million, sealing a deal to help further its ambitions of getting into the fast-expanding field. The company announced the acquisition after reporting better-than-expected results for the second quarter,"
-publishedDateTime: 2021-08-25T23:15:00Z
-originalUrl: "https://www.bloombergquint.com/business/xiaomi-revenue-beats-as-ceo-aims-for-top-spot-in-phone-market"
-webUrl: "https://www.bloombergquint.com/business/xiaomi-revenue-beats-as-ceo-aims-for-top-spot-in-phone-market"
+title: "Xiaomi buys self-driving tech startup to propel EV ambitions"
+excerpt: "The acquisition of four-year-old Deepmotion, which develops driver assistance software, is the latest in a series of moves Xiaomi’s making to delve deeper into a crowded field."
+publishedDateTime: 2021-08-25T23:19:00Z
+originalUrl: "https://www.autonews.com/china/xiaomi-buys-self-driving-tech-startup-propel-ev-ambitions"
+webUrl: "https://www.autonews.com/china/xiaomi-buys-self-driving-tech-startup-propel-ev-ambitions"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: BloombergQuint
-  domain: bloombergquint.com
+  name: Automotive News
+  domain: autonews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
-    width: 1200
-    height: 630
+  - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/377687826.jpg"
+    width: 800
+    height: 600
     isCached: true
 
-secured: "9jlcBOQKJKrFPNoud4/CBdfjeAaLZ3IdgUzUVYOHKfMLbqeXsUgSKAHz6mN4hLQHVin+LdbMW4N9483OHNrpO5RKa7C3M9Fs33E1TZm2e9yBaBSfaoLeevfTXf+lpllRpqCsub971lJgVSyQkLzGGLgYinLOGIDZ14gnHoE1zKtFXwTYW3FECz5pY/cCDjboPFgj5tUM/NrGaJc7X6Bg+MfmGn7U9OWGBQQhigXCNB+ezBk7pEv0e8xw+/9HHX7x3jZTdqBOsBMRM/1noZ5ltn8ZyDlj+ZlODrdtq+bPj7XH3V0YLzp7xfCl127EgoVX9fJEaHlED6CCOfkebo/jhDg6pw2nZWoc0NmOMbxly60=;QST29sTpv5Ou+5ABEIEPrA=="
+secured: "Nx7yeDgmOhKVR3UwjKNZWg1L07eIZENyTzPqmW5bec7189InVDSIfan4RlcZjV1zIcjmN0BeoT2nLu0dNQh9mm/XhaSNc0hdePMrnTH+RQ/VJZjfTXrRpLY0h36T0GxnKm+/Abx6/9hmIatybJGzCfkGB1B5GNMpWI6OyFRHQQpMhMzQOue2hVbwBNWGfF+hPlO3RM1YLVJ1aHOgUGKDtQTAPYN5uE6thFE6AI6xzlns4TMQA537OKXdXqSdDv5f2DhA17F8yyDVf4ClmYlV3JAVneH8ygRvbiiLYYo7CXm7b6/wxXrn2+8PaYBd9MmZZXdlRJEEbkwA0ShtaudxJsLAlr4Jq7AYDRXT5kC7NYM=;B+6X3fjjtl4/17HPwD733A=="
 ---
 

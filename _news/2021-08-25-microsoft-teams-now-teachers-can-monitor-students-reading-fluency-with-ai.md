@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-teams-teachers-ge
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-teams-teachers-get-a-free-ai-tool-to-monitor-students-reading-fluency/"
 type: article
 quality: 102
-heat: 132
+heat: 122
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Call Center AI Market to Witness Huge Growth by 2028 | IBM , Google , Microsoft"
-    excerpt: "Announced Call Center AI study with 200+ market data Tables and Figures spread through Pages and easy to understand detailed TOC on “Call Center AI. Call Center AI industry Report allows you to get different methods for maximizing your profit."
-    publishedDateTime: 2021-08-21T07:52:00Z
-    webUrl: "https://manometcurrent.com/call-center-ai-market-to-witness-huge-growth-by-2028-ibm-google-microsoft/"
-    ampWebUrl: "https://manometcurrent.com/call-center-ai-market-to-witness-huge-growth-by-2028-ibm-google-microsoft/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/call-center-ai-market-to-witness-huge-growth-by-2028-ibm-google-microsoft/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 70
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/Internet-of-Things-Insurance-Market-390x220.png"
-        width: 390
-        height: 220
-        isCached: true
   - title: "Microsoft's AI Mudede Versus the Real Mudede"
     excerpt: "Last week, the technologist side of Boudinot did something monstrous with an AI presently owned by Microsoft, GPT-3. This program, developed by OpenAI, is described as \"an autoregressive language [machine] that uses deep learning to produce human-like text."
     publishedDateTime: 2021-08-23T22:42:00Z

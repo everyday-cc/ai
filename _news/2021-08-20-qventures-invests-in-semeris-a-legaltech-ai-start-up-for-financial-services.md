@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Finance
 
 related:
   - title: "Israeli PropTech startup upgrades real estate investment insights for JLL clients"

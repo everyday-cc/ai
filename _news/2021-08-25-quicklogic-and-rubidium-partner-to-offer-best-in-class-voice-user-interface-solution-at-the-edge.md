@@ -1,29 +1,23 @@
 ---
 category: news
 title: "QuickLogic and Rubidium Partner to Offer Best-in-Class Voice User Interface Solution at the Edge"
-excerpt: "QuickLogic Corporation (NASDAQ: QUIK), a developer of ultra-low power multi-core voice-enabled SoCs, embedded FPGA IP, and Endpoint"
-publishedDateTime: 2021-08-25T12:07:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/quicklogic-and-rubidium-partner-to-offer-best-in-class-voice-user-interface-solution-at-the-edge-301362193.html"
-webUrl: "https://www.prnewswire.com/news-releases/quicklogic-and-rubidium-partner-to-offer-best-in-class-voice-user-interface-solution-at-the-edge-301362193.html"
+excerpt: "With the combined solution, QuickLogic and Rubidium offer developers the option of adding embedded voice interface capabilities to their end products quickly, easily, and efficiently. The voice recognition and keyword wakeup capabilities consume low computational resources and very little power and are highly responsive and reliable even in noisy and far-field conditions."
+publishedDateTime: 2021-08-25T07:07:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210825sf85665/quicklogic-and-rubidium-partner-to-offer-best-in-class-voice-user-interface-solution-at-the-edge"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210825sf85665/quicklogic-and-rubidium-partner-to-offer-best-in-class-voice-user-interface-solution-at-the-edge"
 type: article
-quality: 11
-heat: 11
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/643697/QuickLogic_Logo.jpg?p=facebook"
-    width: 1807
-    height: 949
-    isCached: true
-
-secured: "rAEmMVmU0H5dK4svOzk0DxeGmlWmbNuCoxj7nZWxPWG2bJUKioMAcGaKcaW9vHhyZVP0qVHboKki5cnjupqZy0nwVQXUDuokCN9Ro8NQx5xKEehFHiHviqe1GrM0JRALrLp2tPeMd+YZEhYV6Lq8RgJ2VOokI5iSvHGWH4JzVa755uPmRvj8mmxAmjUDXYS6aINiuWlNiRZT6mozFs8ccYYF9//OrpNszN24wEC45SkXeI5JYpBqOHO7kUjDxy5iKIsFOR+6VMlGZnljR5F+jE33Gnwf37napOKMCpz6MuIAqXccmSD7U91acmT11lB5k5igW8+r+vuuhob/Lv2x1kt8QdHSwq1iRdWVcN1S/dQ3sJB9h4CBxGM8gEGcszU5Tqpxfj3O8MhZcfpZDFKXYd78ZKop3tqwGBh/St0ESVkorhlwyGa3Hs2ah/k6FI/DLsOT2fFh4S/Vi4d8NHyh5iJzctLSmlcnyJPPnuJrsPlOUmW33mdK5RyvucpnjD85EQIzKp9sFrtQEZCTmmvxzA==;leRjgVtBcWTLl/0GozGYXQ=="
+secured: "fcJH92+Dg0R2z3yhnEULnygFiHmRd5RRD4gzL09MxDOdfH0ENaVIRYGZMgnzT/k/jYXpiQ4Eayk4i8u2FUMmG3hRxadj4QGFUtyxGoMkKkUOhsabXgEOMuFWZFXVtE4TEc5Wg5M9fGrhsyNkF1PbLJYdaNHW5IyVCs518i+tXzgThMn2K3HAiCNsxkin/WL1GVP5SjisXjhkhi9+j0GjjvitJXQajQCruwOV8ebxcpy7ICXow5xJ9bOkPS9hemCnIzWuO3s3JTLf/hp7MVp2TjH2hprtoByg0pHJf6Jnrtffxz68aUDMCkWK4+SUol8f68c3WTjfDY5eu3ElJDOea+n2+nfnmQ4iOnJ5gkZQCFk=;KRtbDfWWwFWnBhomGpcQJg=="
 ---
 
