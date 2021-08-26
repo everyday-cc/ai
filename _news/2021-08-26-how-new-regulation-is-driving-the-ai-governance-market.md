@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/08/25/how-new-regulation-is-driving-the-ai
 ampWebUrl: "https://venturebeat.com/2021/08/25/how-new-regulation-is-driving-the-ai-governance-market/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/25/how-new-regulation-is-driving-the-ai-governance-market/amp/"
 type: article
-quality: 89
-heat: 129
+quality: 91
+heat: 131
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1288853231.jpg?w=1200&strip=all"

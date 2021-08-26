@@ -93,6 +93,17 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 29
+  - title: "Deep Learning in Healthcare Market Size, Share 2020 Industry Growing Rapidly with Recent Demand, Trends, Development , Revenue by 2027"
+    excerpt: "The Global Deep Learning in Healthcare Market research delves into detailed and insightful data on important variables such as regional growth segmentation and CAGR The research contains a broad overview of the industry as well as a detailed explanation with"
+    publishedDateTime: 2021-08-26T07:31:00Z
+    webUrl: "https://www.openpr.com/news/2368510/deep-learning-in-healthcare-market-size-share-2020-industry"
+    ampWebUrl: "https://www.openpr.com/amp/2368510/deep-learning-in-healthcare-market-size-share-2020-industry"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2368510/deep-learning-in-healthcare-market-size-share-2020-industry"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 24
   - title: "US AI in Image Recognition Market Analysis By Industry Size, Share, Revenue Growth and Demand Forecast To 2025"
     excerpt: "The US AI in image recognition market is estimated to grow significantly at a CAGR of more than 28 during the forecast period The factors that are contributing significantly to the market growth investments in R D high expenditure on"
     publishedDateTime: 2021-08-23T07:51:00Z

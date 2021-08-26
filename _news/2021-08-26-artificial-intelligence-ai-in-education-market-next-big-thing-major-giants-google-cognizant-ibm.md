@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2368006/artificial-intelligence-ai-in-edu
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2368006/artificial-intelligence-ai-in-education-market-next-big-thing"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 450
     height: 300
     isCached: true
+
+related:
+  - title: "Artificial Intelligence (AI) Cars and Light Trucks Market Report Covers Future Trends with Exclusive Exploration 2021 to 2026"
+    excerpt: "United States OR Portland The Artificial Intelligence AI Cars and Light Trucks Market 2021 report is a comprehensive professional and in depth research of market that delivers significant data for those who are seeking information for the Artificial Intelligence AI"
+    publishedDateTime: 2021-08-26T06:37:00Z
+    webUrl: "https://www.openpr.com/news/2368316/artificial-intelligence-ai-cars-and-light-trucks-market"
+    ampWebUrl: "https://www.openpr.com/amp/2368316/artificial-intelligence-ai-cars-and-light-trucks-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2368316/artificial-intelligence-ai-cars-and-light-trucks-market"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 45
+    images:
+      - url: "https://cdn.openpr.com/U/8/U826841762_g.jpg"
+        width: 711
+        height: 430
+        isCached: true
 
 secured: "TGrCuj0W0QIIKUjlobVXTHHiPHP94HFlLK7pVvAB9jcI1nhUa0563brdUabha8BD9M9s+sFfYkZ2YsffETkcHE4sd4Xku8hooPoosGjuH+WRd7rT29KN/JSLvrQPIlJQlWYcFt2nb7uC83v15Uk10acAjSU0WZX35QfiZgeKn5NnEpW16aiM6SIWW2IGWnEedQpThc3XmJwJqpsLrBvhh2Q7pZZincdDApGWP6NLBIp2Uz4mys8PTekU45B00JAeyEYGpnr8rfx6nl56ACubRyF7j6ivYCqFSlGC1ElEIZIYiBYOR9wAxsNwps1IXVYgchIWcmzz7VCdnai8Rfd9Ozhe9wB4tjM/EWWtR2s1mKsanuIWEBU5QO3bNgmgGhpaku5ubRl8yn4zuQW4ma7GypYILIq31JLmVgJuqpM5tyJndFUtoiBMW9AAiuET3Hlb1/dJc4u+8CIM4ePP5ZiTkVdoVBQQV4v/ImkCreIYPvTkd8hz0NsPF6He7U3ewc+5bwPNKGiscoyL2DUJ22DIGg==;7T3pK+Xk2BywuglNMU4KUg=="
 ---

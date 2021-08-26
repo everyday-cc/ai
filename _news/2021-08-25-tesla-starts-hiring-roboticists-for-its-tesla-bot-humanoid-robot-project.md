@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/08/25/tesla-starts-hiring-roboticists-tesla
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/25/tesla-starts-hiring-roboticists-tesla-bot-humanoid-robot-project/amp/"
 type: article
 quality: 104
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -75,20 +75,6 @@ related:
       - url: "https://www.noypigeeks.com/wp-content/uploads/2021/08/Tesla-Bot-Specs.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Elon Musk announced that the Tesla Bot, a humanoid robot with AI, is coming out in 2022 and has already been showered with memes!"
-    excerpt: "Day, Elon Musk announced that in 2022 they will present the prototype of the humanoid robot Tesla Bot. Of course, netizens responded as they know best: with memes.  This Thursday, Elon Musk announced that his electric vehicle company is working on creating a humanoid robot ."
-    publishedDateTime: 2021-08-21T14:25:00Z
-    webUrl: "https://www.mysanantonio.com/business/article/Elon-Musk-announced-that-the-Tesla-Bot-a-16401310.php"
-    type: article
-    provider:
-      name: My San Antonio
-      domain: mysanantonio.com
-    quality: 42
-    images:
-      - url: "https://s.hdnux.com/photos/01/21/42/66/21376445/3/rawImage.jpg"
-        width: 2000
-        height: 1333
         isCached: true
   - title: "Elon Musk announced that the Tesla Bot, a humanoid robot with AI, is coming out in 2022 and has already been showered with memes!"
     excerpt: "Day, Elon Musk announced that in 2022 they will present the prototype of the humanoid robot Tesla Bot. Of course, netizens responded as they know best: with memes.  This Thursday, Elon Musk announced that his electric vehicle company is working on creating a humanoid robot ."

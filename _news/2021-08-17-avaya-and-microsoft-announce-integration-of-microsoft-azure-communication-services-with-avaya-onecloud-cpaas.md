@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Avaya and Microsoft Announce Integration of Microsoft Azure Communication Services with Avaya OneCloud CPaaS"
-excerpt: "Benefiting from the complementary strengths of both companies, the joint solutions include Avaya’s award-winning 1 Avaya OneCloud CPaaS (Communications Platform as a Service) now integrated with voice,"
-publishedDateTime: 2021-08-17T12:00:00Z
-originalUrl: "https://www.financialbuzz.com/avaya-and-microsoft-announce-integration-of-microsoft-azure-communication-services-with-avaya-onecloud-cpaas/"
-webUrl: "https://www.financialbuzz.com/avaya-and-microsoft-announce-integration-of-microsoft-azure-communication-services-with-avaya-onecloud-cpaas/"
+excerpt: "Avaya announced a strategic relationship with Microsoft to create a powerful set of joint cloud communications solutions to define the future of customer and em"
+publishedDateTime: 2021-08-17T15:06:00Z
+originalUrl: "https://technuter.com/breaking-news/avaya-and-microsoft-announce-integration-of-microsoft-azure-communication-services-with-avaya-onecloud-cpaas.html"
+webUrl: "https://technuter.com/breaking-news/avaya-and-microsoft-announce-integration-of-microsoft-azure-communication-services-with-avaya-onecloud-cpaas.html"
 type: article
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: technuter.com
+  domain: technuter.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "wh22tyfKVnABEA21lIn68kA0HbGSsJQZI56PJm85Zpf1xSPxpHj1wMU1TG9RcF5pJZbuZ3t/so3mVUhzBa6xdxUM8o0eBT/cGtKrn38ZtsXiBTbYd26Kas7Us/7tD0kVIgFcY0gKafItGL8DBccV7I/oB03yXcs+dRIJ4ZtD9TGdEd0N23wXTRp791cU6A8E11qfjV42OezdDHPZciUcP3fHTc5I3LQwnyJNU5esqxSho3V7EVh5Dk4dNqvPG/qXB39azivsueF0uAEEiYmXe2Xi8lKy1hdV0vShl6FB/eAUK7KQyYqaOxvyVsvn+N4v7kw9Y/lQSAa+dTe5sfCCC3MdGSHjdNLGVuMA10PwykY=;ih50kuxr3FCzYXTuEylqZw=="
+images:
+  - url: "https://technuter.com/wp-content/uploads/2020/04/Avaya.jpg"
+    width: 340
+    height: 296
+    isCached: true
+
+secured: "pVvRxbGFLMPVpOq5ZAX+PAakDHlAC4tKjykHWPqJceY9BzeP8qHM8F//CWr2LGVdQsnBPou/y4p7w0zbWU9zZnwvgI/I5C1EP86Qo0QMQvoUgjUamiSIisIhEYOcQ8LCuAH6PDbc2ynQvSpRyDhbEuCmVGOHFLWDnb18NDXQ+rXZraQyWbNkbAcmHJKXauytXfPB46WxMiCIBp4RFmHe1HQjtCTk5nPBCijw5hRpnTjZzJF6Y8445lk3OEAmZN6AEjZj0SL6nKBvP3A3sIbddmCLQ+EIlGGP9OhrNPUsiNpx8VZPjgrfLz6/u4laR4QdD5CM/lvJWEzSBUSeBC2D6anmRLzix6MJwabMTzknOl8=;9h9jgfOiT2bzBQOhe2Y6/g=="
 ---
 

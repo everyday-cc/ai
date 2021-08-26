@@ -102,19 +102,16 @@ related:
         height: 800
         isCached: true
   - title: "Federal government to expand use of facial recognition despite growing concerns"
-    excerpt: "Ten federal agencies — the departments of Agriculture, Commerce, Defense, Homeland Security, Health and Human Services, Interior, Justice, State, Treasury, and Veterans Affairs — told the Government Accountability Office that they intend to grow their facial recognition capabilities by 2023,"
-    publishedDateTime: 2021-08-25T21:55:00Z
-    webUrl: "https://www.stripes.com/theaters/us/2021-08-25/federal-government-expand-use-facial-recognition-gao-report-2664035.html"
+    excerpt: "The GAO said several federal agencies, including the Justice Department, the Air Force and Immigration and Customs Enforcement, reported that they had used facial recognition software from Clearview AI,"
+    publishedDateTime: 2021-08-26T06:52:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/federal-government-to-expand-use-of-facial-recognition-despite-growing-concerns/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/federal-government-to-expand-use-of-facial-recognition-despite-growing-concerns/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/federal-government-to-expand-use-of-facial-recognition-despite-growing-concerns/?amp=1"
     type: article
     provider:
-      name: Stars and Stripes
-      domain: stripes.com
+      name: Seattle Times
+      domain: seattletimes.com
     quality: 37
-    images:
-      - url: "https://www.stripes.com/theaters/us/1gaagz-Capitol-Police-officers-stand-at-an-entry-point-th/alternates/LANDSCAPE_480/Capitol%20Police%20officers%20stand%20at%20an%20entry%20point%20th"
-        width: 480
-        height: 299
-        isCached: true
 
 secured: "fv9AlR6dLczS0H8unriNnLD4AkRn8FNC5DlnPo12lzugBGcnn7nWWGuU6eBJpTiuhrGpBCLdHYMvdYGFpknfYLJk9h87smMPAck/hEpwe/ruZFSMdQEPnqc7a1rNM4uJvFsFDZYRES9904f7Yi2RzgikUnpjTCA0fnCH52WCPDCmJc8KivvdD25tHi8ufVm2qPD6IZoQUC7ilKYiFS9DUaEOEsiX5J4vw+sEk7+EyF//u07sBjPHi6LUG/yDWMFsUN2YgnkqSSjYLhCWTEvtQ+qkB+YE6joAZ6IJDaJ59Lnnt2ZBtmZA0+MRIhW7HIE16ZhFuUdXWGtjP64rzJzMqEqqFhzZJwlSG8oVPcIcyzmATkAOhOUZBMzDxNx68+igRkA1HdPMrbhglTwj4czjy3lIrR4P0EIsMVstIrLAeyHpyVlxgRs3HxsaiSSRzOhzVpXpfc73+Z2NQU/wh3j7wjGaZBZV4S+CumDt+pbNV+EmbDd/Std0sEoHFMyRbah/Ndpr+gA7UKNylZeeWwUWAA==;aRTifS020dtty5HYutRwjg=="
 ---

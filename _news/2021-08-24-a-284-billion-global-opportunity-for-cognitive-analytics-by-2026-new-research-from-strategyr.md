@@ -131,6 +131,34 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Airbus’ UP42 Partners with Indian Startup for AI-based Satellite Imagery Analytics"
+    excerpt: "UP42, a geospatial developer platform and marketplace wholly owned by Airbus, has partnered with Indian startup HyperVerge to offer satellite"
+    publishedDateTime: 2021-08-23T00:00:00Z
+    webUrl: "https://www.gim-international.com/content/news/airbus-up42-partners-with-indian-startup-for-ai-based-satellite-imagery-analytics"
+    type: article
+    provider:
+      name: GIM International
+      domain: gim-international.com
+    quality: 31
+    images:
+      - url: "https://www.gim-international.com/cache/4/0/1/3/2/40132ecf9648caf939a3ab8ef4af2e00deb6f24d.png"
+        width: 680
+        height: 408
+        isCached: true
+  - title: "Bodo.ai Raises $14 million Series A to Revolutionize Simplicity, Performance and Scale for Data Analytics and Machine Learning"
+    excerpt: "Bodo.ai, the extreme-performance parallel compute platform for data workloads, today announced it has raised $14 million in Series A funding led by Dell Technologies Capital, with participation from Uncorrelated Ventures,"
+    publishedDateTime: 2021-08-25T13:06:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-science-44ab0387cf224592b1a36bf1293d9533"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 26
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "A $28.4 Billion Global Opportunity for Cognitive Analytics by 2026 - New Research from StrategyR"
     excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Cognitive Analytics - Global Market Trajectory & Analytics\"."
     publishedDateTime: 2021-08-24T17:05:00Z
@@ -145,15 +173,6 @@ related:
         width: 400
         height: 271
         isCached: true
-  - title: "Bodo.ai Raises $14 million Series A to Revolutionize Simplicity, Performance and Scale for Data Analytics and Machine Learning"
-    excerpt: "Bodo.ai, the extreme-performance parallel compute platform for data workloads, today announced it has raised $14 million in Series A funding led by Dell (News - Alert) Technologies Capital, with participation from Uncorrelated Ventures,"
-    publishedDateTime: 2021-08-25T13:15:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-bodoai-raises-14-million-series-to-revolutionize-simplicity-/2021/08/25/9437232.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 8
 
 secured: "3W1BrWKTS4xx897l5yVgC36EZ34GJzBnDnOzPnc0bc/3UeF4SggCEc6vxwotqHBjJPl6IjeJR7H2vIPxfdEde/j3deXD47fuNb5Nwje/d3xqVTHuby7rrPlu9jFB5e6nCXFfj0O2tROcgTfLge7QmQinLDsXZjnS9lw0OYf9P78w5TgHhxc6ckd48RTFY1zGswfN0auI/RTvEw/pSjveQPspQ/3+HY0euUwutY0lM/HmNWSAAa2bph5bqpsn48zu6LSIlHi7pgWIpTmdyrKOeV+COl0L734j3mvZ7X5QwalCLv4+WYGYcV5UD3LISnWZDFdpe2Gb6PvpQ18tqXTpZxmt9ZS3av802FKZnn7/czvrFSkepEfofuNmwFZ6jTwbSYeoZoRdgb4ngl6gdml9+uKRuWQFD1G7di9DZhhajk6XHu5m3/3krFGd0bxPIdKF+DBdqbzrjfUHfYXcGimx7VuJMz5ovnzmsXIpYM0V56CDUMKEW5skjL5gbHYm5ob4xRbwN6CqwtuwS+U944JFnw==;txivL4n3p3D06sL+jKBXEA=="
 ---

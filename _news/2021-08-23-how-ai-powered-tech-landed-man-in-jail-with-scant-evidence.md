@@ -9,8 +9,8 @@ ampWebUrl: "https://www.chron.com/news/amp/How-AI-powered-Tech-Landed-Man-In-Jai
 cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/How-AI-powered-Tech-Landed-Man-In-Jail-With-Scant-16396942.php"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Houston Chronicle
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI-powered tech landed man in jail with scant evidence"
-    excerpt: "An Associated Press investigation has identified a number of serious flaws in using ShotSpotter as evidentiary support for prosecutors."
-    publishedDateTime: 2021-08-21T14:00:00Z
-    webUrl: "https://www.stltoday.com/news/national/crime-and-courts/how-ai-powered-tech-landed-man-in-jail-with-scant-evidence/article_30dcdb48-e395-5092-933d-0ddd1c589c53.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 37
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/0d/30dcdb48-e395-5092-933d-0ddd1c589c53/611e65f0dbfef.preview.jpg?crop=512%2C288%2C0%2C26&resize=512%2C288&order=crop%2Cresize"
-        width: 512
-        height: 288
-        isCached: true
   - title: "How AI-powered tech landed man in jail with scant evidence"
     excerpt: "Michael Williams’ wife pleaded with him to remember their fishing trips with the grandchildren, how he used to braid her hair, anything to jar him back to his world outside the concrete walls of Cook County Jail."
     publishedDateTime: 2021-08-22T07:09:00Z

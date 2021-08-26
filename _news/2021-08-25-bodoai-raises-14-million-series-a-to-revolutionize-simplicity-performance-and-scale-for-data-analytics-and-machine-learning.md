@@ -1,23 +1,28 @@
 ---
 category: news
 title: "Bodo.ai Raises $14 million Series A to Revolutionize Simplicity, Performance and Scale for Data Analytics and Machine Learning"
-excerpt: "Bodo.ai, the extreme-performance parallel compute platform for data workloads, today announced it has raised $14 million in Series A funding led by Dell (News - Alert) Technologies Capital, with participation from Uncorrelated Ventures,"
-publishedDateTime: 2021-08-25T13:15:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-bodoai-raises-14-million-series-to-revolutionize-simplicity-/2021/08/25/9437232.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-bodoai-raises-14-million-series-to-revolutionize-simplicity-/2021/08/25/9437232.htm"
+excerpt: "Bodo.ai, the extreme-performance parallel compute platform for data workloads, today announced it has raised $14 million in Series A funding led by Dell Technologies Capital, with participation from Uncorrelated Ventures,"
+publishedDateTime: 2021-08-25T13:06:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-science-44ab0387cf224592b1a36bf1293d9533"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-science-44ab0387cf224592b1a36bf1293d9533"
 type: article
-quality: 8
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI Hardware
-  - AI
   - Machine Learning
+  - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Hybrid AI Is The Future Of Industrial Analytics"
@@ -126,6 +131,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Airbus’ UP42 Partners with Indian Startup for AI-based Satellite Imagery Analytics"
+    excerpt: "UP42, a geospatial developer platform and marketplace wholly owned by Airbus, has partnered with Indian startup HyperVerge to offer satellite"
+    publishedDateTime: 2021-08-23T00:00:00Z
+    webUrl: "https://www.gim-international.com/content/news/airbus-up42-partners-with-indian-startup-for-ai-based-satellite-imagery-analytics"
+    type: article
+    provider:
+      name: GIM International
+      domain: gim-international.com
+    quality: 31
+    images:
+      - url: "https://www.gim-international.com/cache/4/0/1/3/2/40132ecf9648caf939a3ab8ef4af2e00deb6f24d.png"
+        width: 680
+        height: 408
+        isCached: true
   - title: "A $28.4 Billion Global Opportunity for Cognitive Analytics by 2026 - New Research from StrategyR"
     excerpt: "A new market study published b Inc., (GIA) the premier market research company, today released its report titled \"Cognitive Analytics"
     publishedDateTime: 2021-08-24T15:40:00Z
@@ -155,6 +174,6 @@ related:
         height: 271
         isCached: true
 
-secured: "JMuIotlfhu68hSqeb5G5C2YGQN3Istlc8yVZ4DHNKTdyG6oq4oyyxLmsnH8QkporTXn8XXnyJfdoK3NlAPOzGmMpvoIo9ukk6XxY0+2U5jBsQ1g4twouCle3fysKMOaEo2HPsAnOZ2l031EFp3t/T4S7IOpcGWgrMA4TSjUzbkbUJk4rty+jpDeugMuioJ8rCa2ndMb/RU7HwOWz1oz7e5SIyxG4SlanE7kkm+3g8zrGUP4J0ybV/O9m1qnvCGQpcq2SHT1Hohc9EuIORdE6v7J6/5eyjvqKGTrgcM39THTfvsElAFTQ7YMzGymlKAiC+pUE90wzB+6Ptrr7Z1K/lQpxKi15DDY8gAIjqx5Ubys=;Fuz/CbvnUq6p/8nDsxXeuA=="
+secured: "IsSb9G1sFS8gY10cZziCjZcLhqgI3Q3il6fbfihSAJOiiSHoBkVJHIoSBO0JyEreBCy/PHL1esZ6vBfodCvGs27G5s4GfbMyvnimfD+15HWbc48aq1j1oIR2/u4jilN4iCdBHv2sBFpikNpfvTsPF0ZIQFXh8nrytbTarf7UEiltnwDEr++rNgEL94TNINMB2yMfIRUXo3xU0w8pverZPOdxDw1gD77RKy04rs2WGItSPBLjiNqEaQgdD0ZWynnIFdxYtWDeAovtuDnK/KmXRjQf5JbJR3rDcQ6pNQPiS8XyawWebSuPJnFURDjuJDEIrSDbZHVvdGHjuXHOCl68ngx7qtbKq2sW55bbMy6iKBU=;3a9tycE/XzdHFEWeNU8HDw=="
 ---
 

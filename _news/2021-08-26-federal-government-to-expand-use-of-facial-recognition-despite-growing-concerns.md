@@ -1,29 +1,25 @@
 ---
 category: news
 title: "Federal government to expand use of facial recognition despite growing concerns"
-excerpt: "Ten federal agencies — the departments of Agriculture, Commerce, Defense, Homeland Security, Health and Human Services, Interior, Justice, State, Treasury, and Veterans Affairs — told the Government Accountability Office that they intend to grow their facial recognition capabilities by 2023,"
-publishedDateTime: 2021-08-25T21:55:00Z
-originalUrl: "https://www.stripes.com/theaters/us/2021-08-25/federal-government-expand-use-facial-recognition-gao-report-2664035.html"
-webUrl: "https://www.stripes.com/theaters/us/2021-08-25/federal-government-expand-use-facial-recognition-gao-report-2664035.html"
+excerpt: "The GAO said several federal agencies, including the Justice Department, the Air Force and Immigration and Customs Enforcement, reported that they had used facial recognition software from Clearview AI,"
+publishedDateTime: 2021-08-26T06:52:00Z
+originalUrl: "https://www.seattletimes.com/business/technology/federal-government-to-expand-use-of-facial-recognition-despite-growing-concerns/"
+webUrl: "https://www.seattletimes.com/business/technology/federal-government-to-expand-use-of-facial-recognition-despite-growing-concerns/"
+ampWebUrl: "https://www.seattletimes.com/business/technology/federal-government-to-expand-use-of-facial-recognition-despite-growing-concerns/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/federal-government-to-expand-use-of-facial-recognition-despite-growing-concerns/?amp=1"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Stars and Stripes
-  domain: stripes.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - AWS AI
   - AI
   - Computer Vision
-
-images:
-  - url: "https://www.stripes.com/theaters/us/1gaagz-Capitol-Police-officers-stand-at-an-entry-point-th/alternates/LANDSCAPE_480/Capitol%20Police%20officers%20stand%20at%20an%20entry%20point%20th"
-    width: 480
-    height: 299
-    isCached: true
 
 related:
   - title: "Clearview AI Offered Free Facial Recognition Trials To Police All Around The World"
@@ -117,6 +113,6 @@ related:
         height: 800
         isCached: true
 
-secured: "t6vppxiqJBds3plQQ+q3+0c+9n3i+nV8DFLPj1VGXC6BO4ZOiV5g9NZHU4ssUaAoxGvxjxhY3tjX3PahvUYvwb/OiELyIZis4mFdm0q1TaBoUvUjokni4YtZkDWIvxS/kI6nRMWq1PPrQakrrcA1YCcY/DglntkiKI3FvrUxNWyvMN0c/DPfQb86lMwDCNwN5WwENpCnq+KoIKA/RJB9EI6gLfYADtFznaNd1Mh0GpypebntjGyI8M4TufmHrVMbcdcTkZ5U3+MdBlQPo8PT9eXFOUbc/K2ilMUJ+52fF9KlO2JR/OMvCqXmGRoLd/vfskC9MdSwfebkYCtnmzaVrVi8vqiBHbCDce4C5Vzo+Bc=;j9NxonQc4wQ0dHENuoK3qw=="
+secured: "vHD4Gid/2rVsyl1sEF4lbL/7u9tY9PY4Oy9hQtrQONwmCUwdwMS0Lh4rxUSOOtRIiBF7sU0B308KJqituJWwb9hm3nz2PkTkGHvryC0IZb4/j/0GVs2XyJ2YZxlbXditP81uB8WT+sEtw2oEC7ddi0aBJd7RrN3lfSOTa8elW10ZszbP4NaNZONOWNP2iFQdm5K3BmhaZdUUuuyE5jGIipRS8Z4o05hLIqug4kdcBEFdT2/S/pQHi2uzvMlljoylZ0okPmycTYbAE95M9n2Jbp4Z3zSMBNduM1sz4cdqzrnw+945e43N/EGdJnCijseJtQ5Y4aZ9ho6G/MNgti6F6megqUyB9Rr/ZTXCLiYyuHR4yGtIGo9xOWJUiDS8He8yGta5GSTU+Nl6NQtMY04MpnthOiPRGXCGr4DcPfUD2idz6BHVVzmFP03KgQaERFY0Hxvumu+6tM7iv5G9a2RC3QFIgyBBqIe+a1bZuGKbXuhZHldECbTmdyUg+Q18BenqzvElFHcWxldghLBJRqoeDQ==;tZugPq7YIyqc4124QPEWMg=="
 ---
 

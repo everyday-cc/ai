@@ -18,6 +18,17 @@ topics:
   - Microsoft AI
   - AI
 
+related:
+  - title: "Microsoft launches Azure Government Top Secret cloud"
+    excerpt: "Microsoft offers data analysis and AI services to government agencies through Azure’s Data Lake, Cosmos DB, HDInsight and Cognitive Services. It also provides the Kubernetes Service, Functions and App Service for containerized applications, serverless ..."
+    publishedDateTime: 2021-08-25T00:01:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_microsoft/microsoft-launches-azure-government-top-secret-cloud/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 34
+
 secured: "UbehzEoAJetHqgBl65X0rBLgnJHNiFrcuGTZBLTDC5GZpwv7oZufjHBOE2NdXNUqr7YElnLX+GUauLe/9jo+f1e81/4xvjkffS2VE2BTOWzSEdeybTvJ8iV6Jyyko/5JYTPF0P5Qacsy+Kzi1Y8r5j1A/QMJbUK8w+uWf1H9LGb/vd66HVe6xW1LO9FHuZiBsm9utcg7DPrTf25YQEs+NqkKLlsMdSaEQXj3ZDzRNu8/RRjXx1kDWp8q8cQPyzeC5gSacuxDZrwScLCkWxxIOB7dGOabTavPlY5xZHG2hxY8/UJdQiZ1HQzAA204j19LAka6FQ7R8KrALz5Z5JvFYSQuH17wYJZxLVgZMSkxZzs=;WwiPa1STtksZiQJFpWnY+A=="
 ---
 

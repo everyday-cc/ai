@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/08/25/avalo-uses-machine-learning-to-acc
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/25/avalo-uses-machine-learning-to-accelerate-the-adaptation-of-crops-to-climate-change/amp/"
 type: article
 quality: 83
-heat: 84
+heat: 87
 published: true
 
 provider:

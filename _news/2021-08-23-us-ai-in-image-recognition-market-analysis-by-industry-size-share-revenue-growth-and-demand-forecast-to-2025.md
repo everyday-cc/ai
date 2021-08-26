@@ -94,6 +94,17 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 29
+  - title: "Deep Learning in Healthcare Market Size, Share 2020 Industry Growing Rapidly with Recent Demand, Trends, Development , Revenue by 2027"
+    excerpt: "The Global Deep Learning in Healthcare Market research delves into detailed and insightful data on important variables such as regional growth segmentation and CAGR The research contains a broad overview of the industry as well as a detailed explanation with"
+    publishedDateTime: 2021-08-26T07:31:00Z
+    webUrl: "https://www.openpr.com/news/2368510/deep-learning-in-healthcare-market-size-share-2020-industry"
+    ampWebUrl: "https://www.openpr.com/amp/2368510/deep-learning-in-healthcare-market-size-share-2020-industry"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2368510/deep-learning-in-healthcare-market-size-share-2020-industry"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 24
   - title: "Aerospace Artificial Intelligence Market size, share, growth report explores industry trends & analysis 2026"
     excerpt: "This research report by Report Ocean identifies consumer needs and aims to satisfy them more efficiently effectively and accurately than the competition This report about the Aerospace Artificial Intelligence Market is exceptional because it is easy to understand contains excellent"
     publishedDateTime: 2021-08-25T06:23:00Z

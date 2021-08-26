@@ -3,8 +3,8 @@ category: news
 title: "Level AI Launches With $15 Million in Funding to Make the Most of Every Customer Interaction"
 excerpt: "Level AI publicly launched to modernize customer service. The company, founded by former Amazon Alexa product leader Ashish Nagar, has developed proprietary technology and conversational artificial intelligence to uniquely help organizations work with customers to solve any issues in real time and elevate the customer’s overall experience."
 publishedDateTime: 2021-08-25T14:21:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-9e2f5f410a9945b8ae1b5c13282e431d"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-9e2f5f410a9945b8ae1b5c13282e431d"
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-9e2f5f410a9945b8ae1b5c13282e431d"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-9e2f5f410a9945b8ae1b5c13282e431d"
 type: article
 quality: 26
 heat: -1
@@ -87,6 +87,6 @@ related:
         height: 2880
         isCached: true
 
-secured: "dPMnixLz76a9DRYHsaHWvR2Pn/fRU6thW8w2Qj2Dh19WJBlyxW+3gxnSuyESJlZHg5YJi1pJAkrMS/4h99hD8GJDgENxux/Xl/JDfo/iea0Xgc3SRcTNJPb39btZSXBI/AmAViEf3F7M57fJx4XeipcYNal6Zd3NMBZp5ebNpLuDeyQ4FofOPomCe4Tda/tbFAouPt2YPpUm6k7l5mprV7MEjJix+jb5NGfMQY5zUO2Gj7dtxZhlSGtTEI+5N3A/HI5u78i4Xk3NP7Bey8fa/dWjjEQ9j8RCbTLGNAF1bvSXkIUaKrlztQ5sKePTvOWO/CSlwqVe2Qo2Pt0T9WmOtSCCxqBBPtnb6deZjQ53nhQ=;zCWZx9/pGTkWjj19x/7KtQ=="
+secured: "RUT8TlmX6paWp+GeJrHWksp6JUUZ0G2lbmlJfSOqyGGia4FbIBHdE3z0g79DLBt8o45ahxGNObMUf0rQZUIQNflrzApRw2YcmPbKhI7C3fiD7D3IbmdSRu26565luIs00q/+brNt9DopVxYiGO1IcYxQfloHx83fq1GAWZZXehtfSVh/Hy7qxlFG5AKE8RtzJv6nehPPx2iqpgeVqzfoOp3UljDTjWNfRyNedPINuZAm3JKiR1b9TJpVJsB1c/Rzfy78usH3Y291FiU2BmRNEj81Y20GwbOegR0I1Q5T/++bMEZXDy09qkDuM92By0ECIyTzXCTrmpTrsxIBzS8rk0VHh9Ikpmjqv2vCG+3d0hI=;zMWZOjnLfxnLkxFQ29TGXw=="
 ---
 

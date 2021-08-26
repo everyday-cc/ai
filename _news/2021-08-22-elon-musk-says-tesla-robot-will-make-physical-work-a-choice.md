@@ -7,7 +7,7 @@ originalUrl: "https://techhq.com/2021/08/elon-musk-says-tesla-robot-will-make-ph
 webUrl: "https://techhq.com/2021/08/elon-musk-says-tesla-robot-will-make-physical-work-a-choice/"
 type: article
 quality: 56
-heat: 66
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Elon Musk Is Panning Tesla Again. Why That’s No Big Deal."
+    excerpt: "Companies are racing to build autonomous vehicles, but judging who has the best systems has become nearly impossible for ordinary people."
+    publishedDateTime: 2021-08-24T19:05:00Z
+    webUrl: "https://www.barrons.com/articles/tesla-stock-elon-musk-51629756011"
+    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-stock-elon-musk-51629756011"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-stock-elon-musk-51629756011"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 74
+    images:
+      - url: "https://images.barrons.com/im-389712/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Tesla to build robot to eliminate ‘dangerous, repetitive and boring tasks’, says Elon Musk"
     excerpt: "Tesla used its inaugural AI Day to showcase improvements in its self-driving capability – which has come under a regulatory spotlight in the US – and unveiled plans for a life-like robot that Elon Musk says will take the drudgery out of everyday life."
     publishedDateTime: 2021-08-22T01:30:00Z
