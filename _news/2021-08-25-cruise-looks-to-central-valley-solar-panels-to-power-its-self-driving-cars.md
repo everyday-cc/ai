@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sfchronicle.com/california/amp/Cruise-looks-to-Central-V
 cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/california/amp/Cruise-looks-to-Central-Valley-solar-panels-to-16409623.php"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Cruise is buying solar energy from California farmers to power its electric, self-driving fleet"
+    excerpt: "Cruise, the self-driving car company under General Motors, has launched a new initiative called Farm to Fleet that will allow the company to source solar power from farms in California’s Central Valley."
+    publishedDateTime: 2021-08-26T23:08:00Z
+    webUrl: "https://techcrunch.com/2021/08/26/cruise-is-buying-solar-energy-from-california-farmers-to-power-its-electric-self-driving-fleet/"
+    ampWebUrl: "https://techcrunch.com/2021/08/26/cruise-is-buying-solar-energy-from-california-farmers-to-power-its-electric-self-driving-fleet/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/26/cruise-is-buying-solar-energy-from-california-farmers-to-power-its-electric-self-driving-fleet/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 62
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/08/cruise-solar.png?w=1024"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Cruise Looks to Solar Panels to Power Self-Driving Cars"
     excerpt: "Cruise, the San Francisco autonomous car company backed by General Motors, is launching a new initiative to support renewable energy efforts in California’s Central Valley that takes advantage of solar power."
     publishedDateTime: 2021-08-25T20:30:00Z

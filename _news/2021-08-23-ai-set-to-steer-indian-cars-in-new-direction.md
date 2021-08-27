@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/technology/tech-news/ai-set-to-steer-indian
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/ai-set-to-steer-indian-cars-in-new-direction/amp-11629652014913.html"
 type: article
 quality: 57
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -53,22 +53,6 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/B-Tech-in-Artificial-Intelligence-AI.jpg"
         width: 2240
         height: 1260
-        isCached: true
-  - title: "USD 17.2 bn infused in Indian startup ecosystem by venture capital firms during Jan-July: Report"
-    excerpt: "SoftBank Corp led the charts with approximately USD 3.5 billion worth of investments in the past three years, followed by Tiger Global, Temasek, Sequoia Capital and Prosus Ventures, the report noted."
-    publishedDateTime: 2021-08-22T09:42:00Z
-    webUrl: "https://www.financialexpress.com/industry/sme/usd-17-2-bn-infused-in-indian-startup-ecosystem-by-venture-capital-firms-during-jan-july-report/2315319/"
-    ampWebUrl: "https://www.financialexpress.com/industry/sme/usd-17-2-bn-infused-in-indian-startup-ecosystem-by-venture-capital-firms-during-jan-july-report/2315319/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/sme/usd-17-2-bn-infused-in-indian-startup-ecosystem-by-venture-capital-firms-during-jan-july-report/2315319/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 29
-    images:
-      - url: "https://images.financialexpress.com/2021/08/start-up.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Study: Indiana manufacturers ready to learn, implement data and artificial intelligence"
     excerpt: "A quarter of Indiana’s economic output is based in manufacturing, and the transition to becoming data-driven and using artificial intelligence holds the possibility for broad economic impact among manufacturers,"

@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Cruise is buying solar energy from California farmers to power its electric, self-driving fleet"
+    excerpt: "Cruise, the self-driving car company under General Motors, has launched a new initiative called Farm to Fleet that will allow the company to source solar power from farms in California’s Central Valley."
+    publishedDateTime: 2021-08-26T23:08:00Z
+    webUrl: "https://techcrunch.com/2021/08/26/cruise-is-buying-solar-energy-from-california-farmers-to-power-its-electric-self-driving-fleet/"
+    ampWebUrl: "https://techcrunch.com/2021/08/26/cruise-is-buying-solar-energy-from-california-farmers-to-power-its-electric-self-driving-fleet/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/26/cruise-is-buying-solar-energy-from-california-farmers-to-power-its-electric-self-driving-fleet/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 62
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/08/cruise-solar.png?w=1024"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Cruise looks to Central Valley solar panels to power its self-driving cars"
     excerpt: "Cruise, the San Francisco autonomous car company owned by General Motors, is launching a new initiative to support renewable energy efforts in the Central Valley. Through a program called Farm to Fleet,"
     publishedDateTime: 2021-08-25T11:00:00Z

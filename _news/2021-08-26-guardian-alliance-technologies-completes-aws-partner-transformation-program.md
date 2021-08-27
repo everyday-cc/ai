@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Guardian Alliance Technologies Completes AWS Partner Transformation Program"
-excerpt: "Guardian Alliance Technologies is proud to announce it has completed the Amazon Web Services (AWS) Partner Transformation Program"
-publishedDateTime: 2021-08-26T12:17:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/guardian-alliance-technologies-completes-aws-partner-transformation-program-301363226.html"
-webUrl: "https://www.prnewswire.com/news-releases/guardian-alliance-technologies-completes-aws-partner-transformation-program-301363226.html"
+excerpt: "Guardian Alliance Technologies is proud to announce it has completed the Amazon Web Services (AWS) Partner Transformation Program (PTP), furthering the reliability and security of the Guardian Background Investigation Software Platform."
+publishedDateTime: 2021-08-26T13:50:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-guardian-alliance-technologies-completes-aws-partner-transformation-program-/2021/08/26/9437947.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-guardian-alliance-technologies-completes-aws-partner-transformation-program-/2021/08/26/9437947.htm"
 type: article
-quality: 37
-heat: 37
+quality: 17
+heat: 17
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1276294/Guardian_Alliance_Technologies_Logo.jpg?p=facebook"
-    width: 2694
-    height: 1414
-    isCached: true
-
-secured: "rrHsCXNKp3SzXVmw2q9VKOXqQqjoLS3Yn3LNzF5PD891Ixbu+RgjZy4qA0r8QkmX9hhztT42PMDyPABLXaUfzh7U3SUJNitnmCnT7GwxAAr36S+9kTPxYdfxLLfWoiYyegdqCbG2UnU4I3VFpBapyQQ1bkTCmELm2aK5X1DGR/pta45QYEkpBpM6tGn+vzj3ZhmNtrTYdQUhnkijJZt/5ueJTEE5UigsvRXG5Hp6gdxK1uCFyZ23aq7Ev2iNM5hBh3EEKRbgTel3y5meCA8ta5RwIN6vv0msb3SDHufF/Gm6BZ6N+rcVwfrGdB6uAz0VCpob8Ml5ouEMTd/KV2ZWv493lj3fZgkzyhT2RTRuA8OBnJQyP43KyJgQnfg/lBjVRMD8sScYdWU0b3ovK3s6tssk3YyEzIXvwgHfjxl43oxdLB3FNBE4yzaA1Ln4gQaEk+M9QNmRgdqoOhWxall+DSpw9Xze5irTvC8ziLL652NaaxoV+JjgT0V2b3epPkHvuI1Hicm0fxzdR8lWmNA6GQ==;dW7nMtqNiBHF04DrywWuxQ=="
+secured: "/FOFNpf6UYstT5QEuK2xaKUe6P6P823X0v6xIosOQIhRfyI20tRjczi0/A5PFNm3kyKTEmYah6ILRho2WJknQKJFXkPDj1Md7UzGMSf5rbJOP8uXBc9Chz9VBIfe/v0Ywb5dkeYvhH8fZ5KUUjXEgO/rm6PA6aSo1eY1Lbo7+q1FfwUgtrbKlXICGyCXvNSy/WY0abvXqHO4D+IhNMNPLjFYdjCXGdo6Q7ZOsdWxVugOCBtllQ05O/k+D5UasqsEqRdiNzBRrShBzSk/e/QT9KvrH4n17TPgkKVPhD5vagcNXQZl3uZyY26y7KhzdAWZR0MGM6f/VVMF5GcpRxF4bbTF7bnMOq9hO9nczIRxBHw=;qtbIiLP2vVLbws4XJY4XeA=="
 ---
 

@@ -84,13 +84,13 @@ related:
       domain: openpr.com
     quality: 36
   - title: "Valued to be $4.4 Billion by 2026, Artificial Intelligence (AI) in Call Center Slated for Robust Growth Worldwide"
-    excerpt: "May 2021 Executive Pool: 133887 Companies: 367 - Players covered include Artificial Solutions; Avaamo; Avaya; AWS; Conversica; Creative Vir"
-    publishedDateTime: 2021-08-26T14:40:00Z
-    webUrl: "https://www.mobilitytechzone.com/wimax/news/2021/08/26/9437856.htm"
+    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Call Center - Global Market Trajectory & Analytics\"."
+    publishedDateTime: 2021-08-26T12:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-valued-be-44-billion-2026-artificial-intelligence-ai-/2021/08/26/9437856.htm"
     type: article
     provider:
-      name: Mobility Techzone
-      domain: mobilitytechzone.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 33
     images:
       - url: "https://mma.prnewswire.com/media/1601532/MCP21174.jpg"

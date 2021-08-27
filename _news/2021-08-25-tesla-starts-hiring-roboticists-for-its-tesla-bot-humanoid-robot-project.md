@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/08/25/tesla-starts-hiring-roboticists-tesla
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/25/tesla-starts-hiring-roboticists-tesla-bot-humanoid-robot-project/amp/"
 type: article
 quality: 204
-heat: 264
+heat: 254
 published: true
 
 provider:
@@ -105,20 +105,6 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Tesla-Bot-a-humanoid-robot-that-leverages-vehicle-Artificial-Intelligence.jpg"
         width: 900
         height: 500
-        isCached: true
-  - title: "Elon Musk introduces ‘Tesla Bot’ humanoid robot"
-    excerpt: "Elon Musk, the CEO of Tesla Motors, announced that his electric vehicle company is taking a big step forward in Artificial Intelligence (AI) and is about to launch a humanoid robot prototype by 2022."
-    publishedDateTime: 2021-08-22T09:33:00Z
-    webUrl: "https://www.noypigeeks.com/tech-news/tesla-bot/"
-    type: article
-    provider:
-      name: NoypiGeeks
-      domain: noypigeeks.com
-    quality: 56
-    images:
-      - url: "https://www.noypigeeks.com/wp-content/uploads/2021/08/Tesla-Bot-Specs.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "l9nZQm7qAdn6QIUSkGSQ+rS8eZ1yaJ0CQJQnyWTL1oaG11EVojWheZ9bvVclAJw+xSI1j7Z+S6gqzEglpG7byc506foTo0LWmTmKwPD85weP1f/zdyiyYSfz5udA9pb8O8me0OE87Qu9CEehi39RxeaaOdoz/rK1AhQQ4Oix7xIgmj+uqDAg5WcJDzS4SKepFtJZmly6k+wWOKu6WD2Fv31IU40IaXr8DLzqjHzOlR66j9n017ZPp9ZthJvaD6Qqfsw/fV4zSOW8OmbO/rnvDTyPCIFKvcwAZ/kMQKaVvZbm3ukP/2eAlYHOQZVsCPVm00qVKpC4JzsMBEScXpkfYTW+u+U5K4NXEU8GCxnSCqAJARVMbdBh+rg3HIRuW0MBWqzSjZz3TDHOpvQTGLIFx/hvTaNjuQldgFAQloi2RSzPapHc9rWEAz/wEPTMwejrr1zYhJ1BY4lwNmFau8JU+LEvY4CbSNQatWa3UKo2AAbecO7GCgbT9px5WiZI+6dVIjnVgDMwKH9EpOAAnvsO+FWxpU9r3lAZnxjafwGCkf4=;YHEp8Qn7dT/DSYXHqQjfkw=="

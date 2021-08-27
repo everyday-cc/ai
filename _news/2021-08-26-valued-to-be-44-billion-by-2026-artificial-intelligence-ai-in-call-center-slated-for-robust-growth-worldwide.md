@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Valued to be $4.4 Billion by 2026, Artificial Intelligence (AI) in Call Center Slated for Robust Growth Worldwide"
-excerpt: "May 2021 Executive Pool: 133887 Companies: 367 - Players covered include Artificial Solutions; Avaamo; Avaya; AWS; Conversica; Creative Vir"
-publishedDateTime: 2021-08-26T14:40:00Z
-originalUrl: "https://www.mobilitytechzone.com/wimax/news/2021/08/26/9437856.htm"
-webUrl: "https://www.mobilitytechzone.com/wimax/news/2021/08/26/9437856.htm"
+excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Call Center - Global Market Trajectory & Analytics\"."
+publishedDateTime: 2021-08-26T12:06:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-valued-be-44-billion-2026-artificial-intelligence-ai-/2021/08/26/9437856.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-valued-be-44-billion-2026-artificial-intelligence-ai-/2021/08/26/9437856.htm"
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Mobility Techzone
-  domain: mobilitytechzone.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
@@ -154,6 +154,6 @@ related:
       domain: openpr.com
     quality: 3
 
-secured: "7VUNbq/2MYA5YG8uDZooIVE69Al4gGgUexbkZ7ZpRH9+EDiMWPo598HcdiF43GHBfO2EKGpVktHv9eMO8dX9Ifmm5d0ffqLPELl4uw0PCyQN2p3a71/02Jp0/JtFolM2yEcUpcSoL7sgwUnZ+W/Ash7h96MHiJqeXXtSRlzoqD1/r6MKPfjQK/u72vE7faF/QBNTuAiowuufUkEOvYXxx8lr+OMaBfjzl5NUMwJsd5N4QkXLZZaVQiabnmPQR4t25N7cPUjHHktORzUi9/Pn/a1bqpogFLgHZv8794qghYz2v62RVs0r5V65atvuGxNyEcYfuN5NR/QRv4RvfCPhtcwYOzwVi3g44lmwWGs5gjtAycwYp1QXzG29KZig7cAM2qsdYvzEQrAQdG7xSRPDmn14WimPblmDE5Gm8zGhNbQ0I3PY+IntnxlOh/v3R2DQENiybh1/LcuHbapEXfrlajMQawrhbpQnwYyvmlWyJaWBO6g6EmBC9drwja8lpkmInc7pjIpsc2hq8AeAtTvx5w==;7sBA27WB0A2fQyCpnWHCbA=="
+secured: "1dKpPMjiOHeEXop+9YCfHxayJmpEHeWC8sYRblhgQumrNMJz6czC6faYwUMMjCWbdKHv+leWp4VwQmEwMD6K9NQnmOLbHe5TtsQ2K8qgujIISYu8xABYBRbh2wpqSCD+BQREnep1WkePiT6dhKh6/EMXqG17WkVPyyjoZRDZSaSggnXSMD8uqsfGcpvJNqBH8AgrgRwbOJB2SJJR3kC+25SakW2/PaNPLqo/O79wLWLbe2hI1rBCc5nRLd+05NsarQUljmkltYiJspDawDlFpPozDFoC31w/f1BHPioAOnJVCOEPDTat4pMr57gTdScxZ8LgD3ykAPTOvPXXzjm5CnOf6HU3vbaec7WcG5KmFYE=;CXd1HkJARayP+onoOnHg2w=="
 ---
 

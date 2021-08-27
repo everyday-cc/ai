@@ -39,6 +39,20 @@ related:
         width: 770
         height: 513
         isCached: true
+  - title: "PI.Exchange primed to democratise AI after $2 million pre-series A funding round"
+    excerpt: "\"AI and ML professionals are scarce, while existing AutoML services are still expensive to adopt,\" said funding round participant Nextrans VC director and partner Chris Seungho Chae. \"PI.Exchange ..."
+    publishedDateTime: 2021-08-25T04:56:00Z
+    webUrl: "https://itwire.com/deals/pi-exchange-primed-to-democratise-ai-after-$2-million-pre-series-a-funding-round.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 34
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/4aba7911fc72a61e7238ff7a4ce23806_M.jpg"
+        width: 375
+        height: 326
+        isCached: true
 
 secured: "tKiRj0x0L3ldyTi+rz7+EYqFt/m+H2+G4Xpwbd3au5BMWmy5g7nWYKI0zUr1vbdCzLEapXiTDaZBq/FHpabmfN3Sm2FgzW+X6rlqlndCFKnSCUQoZHnvcyxM3ClLPpytlnWvBnJcaqoABP0AeCPAlPG9RwkfZcVZbSYRqqxZoTg1ybil0Ole4q7vS61sW1xALRIYaHF5wSlyJyc8Q/qt92NGQa5dUvtww0YcraDNmhR8BYpFcFfM/psixnQXUATxoS0tfPUF6L5L2GM3e+NU34Pfyb34/Q2GknQdEA+DqB7fyICrj94CF/FkuxOn8aBES/M9nRGUXPsaDa7pvW3zkI3u+0STtsMg68kzN4jHe28=;WEsOrgr+7BYNgQiLEq+SYw=="
 ---

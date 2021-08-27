@@ -102,20 +102,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "Elon Musk introduces ‘Tesla Bot’ humanoid robot"
-    excerpt: "Elon Musk, the CEO of Tesla Motors, announced that his electric vehicle company is taking a big step forward in Artificial Intelligence (AI) and is about to launch a humanoid robot prototype by 2022."
-    publishedDateTime: 2021-08-22T09:33:00Z
-    webUrl: "https://www.noypigeeks.com/tech-news/tesla-bot/"
-    type: article
-    provider:
-      name: NoypiGeeks
-      domain: noypigeeks.com
-    quality: 56
-    images:
-      - url: "https://www.noypigeeks.com/wp-content/uploads/2021/08/Tesla-Bot-Specs.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "IGg1oFOJvo+yZ6DosCu6GXyy/u9PyFv3yrU4qyzxfIZ+e3OGE0WH1Dm4biddm6ToVKgoXhys2AmhsYo8UzrfAe3hKGF0iaXKL61tcJUrhqQ5isaoyAc2h/sK459Ne9e1U8M2ECUc2phYbGEdShrJjzmhOa1+xDqPIlCUZ7MM52/bfUFYXMxAAN+8zHkkQfSY454g/yjDno/8MXAGBh/WhQT9p/kiZ2IXa2jhoeAV01+nIziK1TqMWoMOuOQNY5btLUXsC/MXMPXC34TCv1+MoU3qC0n1oW7AQK0nTtIWi++SmbB7UXp+nGHDl2a0aAXScA1XxgkMCz0r950oxPH6tpmzd4t+8JwVQ4qz6EoWjtrT0z/+F74T8msEn1O2hRGRI/H0v6PlBfD9kysxs74CBVkqg9PcJs8bgBXp7PfIK4L5sMa0OzlXEXt+Ppyb+E0QZ9h8asaLD30E95xTlcRC80q+h+oDTNKTcI1OXmrqzjcSLogTiPtcVc85yOyqrj/7I3jKUWvvnMIgK4y9xOCoLQ==;5UZsyS1H9O5lVtIb99fn+g=="
 ---

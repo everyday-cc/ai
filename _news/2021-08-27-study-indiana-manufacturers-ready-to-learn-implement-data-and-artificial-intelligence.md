@@ -69,22 +69,6 @@ related:
         height: 1260
         isCached: true
   - title: "USD 17.2 bn infused in Indian startup ecosystem by venture capital firms during Jan-July: Report"
-    excerpt: "SoftBank Corp led the charts with approximately USD 3.5 billion worth of investments in the past three years, followed by Tiger Global, Temasek, Sequoia Capital and Prosus Ventures, the report noted."
-    publishedDateTime: 2021-08-22T09:42:00Z
-    webUrl: "https://www.financialexpress.com/industry/sme/usd-17-2-bn-infused-in-indian-startup-ecosystem-by-venture-capital-firms-during-jan-july-report/2315319/"
-    ampWebUrl: "https://www.financialexpress.com/industry/sme/usd-17-2-bn-infused-in-indian-startup-ecosystem-by-venture-capital-firms-during-jan-july-report/2315319/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/sme/usd-17-2-bn-infused-in-indian-startup-ecosystem-by-venture-capital-firms-during-jan-july-report/2315319/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 29
-    images:
-      - url: "https://images.financialexpress.com/2021/08/start-up.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "USD 17.2 bn infused in Indian startup ecosystem by venture capital firms during Jan-July: Report"
     excerpt: "Venture capital firms infused a total of USD 17.2 billion investment into the Indian startup ecosystem during January-July 2021, according to data released by the Indian Private Equity and Venture Capital Association (IVCA) and Venture Intelligence (VI)."
     publishedDateTime: 2021-08-23T04:07:00Z
     webUrl: "https://mybigplunge.com/startups/funding-news/usd-17-2-bn-infused-in-indian-startup-ecosystem-by-venture-capital-firms-during-jan-july-report/"

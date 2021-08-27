@@ -1,34 +1,26 @@
 ---
 category: news
-title: "FACTBOX-Investors are betting on rent-a-robot startups in Silicon Valley"
+title: "Factbox-Investors Are Betting on Rent-A-Robot Startups in Silicon Valley"
 excerpt: "Silicon Valley has a new pitch for small U.S. manufacturers struggling with hiring workers but wary of the high costs of high tech: rent-a-robot. Much of the initial risk and cost are taken on by the robot companies."
-publishedDateTime: 2021-08-26T14:00:00Z
-originalUrl: "https://www.reuters.com/article/usa-robots-manufacturing-silicon/factbox-investors-are-betting-on-rent-a-robot-startups-in-silicon-valley-idUSL1N2PW1VW"
-webUrl: "https://www.reuters.com/article/usa-robots-manufacturing-silicon/factbox-investors-are-betting-on-rent-a-robot-startups-in-silicon-valley-idUSL1N2PW1VW"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2PW1VW"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2PW1VW"
+publishedDateTime: 2021-08-26T10:27:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2021-08-26/factbox-investors-are-betting-on-rent-a-robot-startups-in-silicon-valley"
+webUrl: "https://www.usnews.com/news/technology/articles/2021-08-26/factbox-investors-are-betting-on-rent-a-robot-startups-in-silicon-valley"
 type: article
-quality: 88
-heat: 128
-published: true
+quality: 48
+heat: -1
+published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI in Robotics
   - AI
-
-images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210826&t=2&i=1572988153&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH7P0DO"
-    width: 817
-    height: 545
-    isCached: true
 
 related:
   - title: "Factbox-Investors are betting on rent-a-robot startups in Silicon ValleyÂ"
@@ -92,6 +84,6 @@ related:
         height: 600
         isCached: true
 
-secured: "1TXZXHaIhyMnNehFCst+p5lUshY937ftuFrKjl3LZKmqi+BUUFcrw3HiNNyYoWkmLSgzo6xGHgxYEo6p5p/U9Vl6HYcymu8Mj28JImL7ibMe/H7FaEs4/wZXJp6Xb0dxe/Q3HYTj8CTYgCrsjXZuDcMMNVjz64VWQ22oC/il6b0Okdgg4F4t/QOo+WvDlyC2bZhixrbZkn2IivtDX4YiEyj0yHQjZwudb69TuxEltzc4/mD2eqaky6wCt58SqsxjeZTDhW/VZQEUl/7MCixCQSEMIHzWKzI4zIQLhgJ0I6Hu0SaereWrAqqmSEjmKRvKIqNi+Ie/lzKKxglZ8zpd8HZBECRFJBuUTSD77eZNoRg=;J7CxD0lZNiO/z2OhlrBz9A=="
+secured: "GVjKCBKcQp7JHZi5Vqz8KXBzr/p18YkSi4CPBWpkHzFZS1o/N/KQjnUOd/DHO1GTq8n9GlEkj696KD+d0+SOcswkt/oFl0nHgQFUKxD/At3GqE4u5ppM3bnwNN/VKDNwEAbeurEzMMyd4emVtTMHTTRqRwX/O9t9wHqedCpgFscT7vVc7T6J5+yFG5ddCufhn3Tb5wGizurJjuN7vz7B3Vve03QdW+0Df+CQma7R4FQeWRgDjYbI4FJXGxFv7sqRJKuZEZx1jMy3uyoroxREK/T8CJOO+ZUfVKNpNu559ooZULfTLAWu+AVeNPCzLLUsVwyWtFqQkVWM7hK4eYBSNxjA1a3ekTZpnfzMRVrFArNBq1niXiF+gXG06aIxCHDvRLA67+WcivpwdZ5esi3ncDDEnzd8BIKKw7WppW3q2r7eWuYCfJR+1QcwBDWKKhbVb2UJstVyGDdWecxSkcxUYe8BPKWDuJasFayWh1/UWRkFMIUbQmJ2g+APnlohUNbSGsAGB4jB6AFb+/yprJAGpA==;2/khzvxCb4c0PBnnKcpM6Q=="
 ---
 

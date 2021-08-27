@@ -3,8 +3,8 @@ category: news
 title: "Sensors and AI to monitor Dorset social care patients"
 excerpt: "One hundred people in Dorset who need social care are to be monitored by artificial intelligence (AI) as part of a three-month pilot. Sensors installed in homes will track behaviour and electricity usage which the AI will analyse to spot potential health problems."
 publishedDateTime: 2021-08-24T13:35:00Z
-originalUrl: "https://www.bbc.com/news/technology-58317106?at_medium=RSS&at_campaign=KARANGA"
-webUrl: "https://www.bbc.com/news/technology-58317106?at_medium=RSS&at_campaign=KARANGA"
+originalUrl: "https://www.bbc.com/news/technology-58317106"
+webUrl: "https://www.bbc.com/news/technology-58317106"
 ampWebUrl: "https://www.bbc.com/news/technology-58317106.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-58317106.amp"
 type: article
@@ -47,6 +47,6 @@ related:
         height: 576
         isCached: true
 
-secured: "384jG2saSaqBd9frXmR9z/krFAm2NFKlrO5l5arrHTDvcFFJ1ubPQTCpV6lmXogsGTHo08hAYAUykSHTs0gHDHFjF36SBjsgZwuEEGObt0JvrTJ+aTPlCJ9m4uSueRe1rsMBETGI9pUk2LWZE6ymWClfJmOb0+TrAXe9V96dQIvOp5qFJ3lwVQCnPOCmeHKKfE/r1n/xLJCX/WcsofdiVU1THpD5VQkkk57bJzC22gJOJntxM86vmhip73JUNCP7H3nDy0I2+j7lxf19lRRdGSOS4b0aaUgNgTMQ8YaYI7joniOcPkGG/wc8YlPXEzm3CF9vavwUvNX3464vcu//DeEkJSHGvSd/gyWra5h9dwc=;AednkhbpjXEjcd5NG9Wg9A=="
+secured: "rAHLdOKHsqCZWA5ZJipr+KV+esDTJ3qMuahrxWUHcoooWuqn4rQW3FbuGY6w8G0fAb9Rxnbhak2KyaU5SfodyvqFrNM+oMZdaB4bSMkqnPsa/1dPSlTIH/Usb0AjoDtn6+3W6UU3dyyHAU9KbqPVE7nzQa6OMIwBUQojUj/b0SQd+ccUL39OUMClL15tvBUtbvoE/93eBR0chzp4D/aGUOza8pk3m7GH1mGpGhmoxgNAkk1Lu0qszdQouDIAhLzzRKO+yDAyaexS2egs34Y9fHimSRTpJwbyTpUSO6LbltJ2burYIjJcn033kInXCwwRxFJIbyvLBOi/f6A3WDrYr0KMAvWZIcIr5dJwsMtt5d0=;9Sehc1MGrPjVzEe2Dniy1Q=="
 ---
 
