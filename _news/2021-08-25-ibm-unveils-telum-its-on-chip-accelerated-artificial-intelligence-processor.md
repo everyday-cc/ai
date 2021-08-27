@@ -85,20 +85,6 @@ related:
         width: 1200
         height: 648
         isCached: true
-  - title: "IBM Unveils On-Chip Accelerated Artificial Intelligence Processor"
-    excerpt: "At the annual Hot Chips conference, IBM (NYSE: IBM) today unveiled details of the upcoming new IBM Telum Processor, designed to bring deep learning inference to enterprise workloads to help address fraud in real-time."
-    publishedDateTime: 2021-08-23T04:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-unveils-on-chip-accelerated-artificial-intelligence-processor-1030750970"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 86
-    images:
-      - url: "https://mma.prnewswire.com/media/1599074/IBM_Z_CHIP_03.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "Attacking fraud: On-chip AI accelerator boosts new IBM processor"
     excerpt: "IBM's latest processor, the Telum Processor, is anticipated by the company to have applications in banking, finance, retail, healthcare, and more, due to \"on-chip accelerated AI.\""
     publishedDateTime: 2021-08-24T11:47:00Z
@@ -146,20 +132,6 @@ related:
       - url: "https://www.dqindia.com/wp-content/uploads/2019/11/processor-583695_960_720.jpg"
         width: 566
         height: 400
-        isCached: true
-  - title: "IBM's new Telum chips will help infer enterprise workload, detect fraud, and more"
-    excerpt: "IBM has introduced its new Telum processor at the annual Hot Chips conference. The processor is IBM's first one that can do on-chip acceleration for AI inferencing during a transaction."
-    publishedDateTime: 2021-08-23T03:54:00Z
-    webUrl: "https://www.neowin.net/news/ibms-new-telum-chips-will-help-infer-enterprise-workload-detect-fraud-and-more/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 64
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2021/08/1629702919_ibm_z_chip_03_story.jpg"
-        width: 760
-        height: 506
         isCached: true
   - title: "Next-Gen IBM Mainframes Will Have On-Chip AI Accelerators"
     excerpt: "The new chip design is meant to enable AI inference on the mainframe for things like real-time fraud detection, faster trade settlement, and more."
@@ -272,20 +244,6 @@ related:
       - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/06/IBM-sues-GlobalFoundries.jpg"
         width: 600
         height: 422
-        isCached: true
-  - title: "IBM’s Upcoming Z Series Chip Gains On-Chip AI Acceleration and New Name: Telum"
-    excerpt: "In a major refresh of its next-generation Z Series chips, IBM is adding on-chip AI acceleration capabilities to allow enterprise customers to perform deep"
-    publishedDateTime: 2021-08-23T04:09:00Z
-    webUrl: "https://www.enterpriseai.news/2021/08/22/ibms-upcoming-z-series-chip-gains-on-chip-ai-acceleration-and-new-name-telum/"
-    type: article
-    provider:
-      name: enterpriseai
-      domain: enterpriseai.news
-    quality: 50
-    images:
-      - url: "https://www.enterpriseai.news/wp-content/uploads/2021/08/IBM-Telum-Processor_Macro-Blue-Light-600x.png"
-        width: 600
-        height: 337
         isCached: true
   - title: "IBM’s First CPU With On-chip AI Acceleration Detects Fraud at Lightning Speeds"
     excerpt: "Containing 22 billion transistors, IBM's new processor, Telum, features on-chip acceleration for AI inferencing. The goal: to detect fraud before a transaction is complete."

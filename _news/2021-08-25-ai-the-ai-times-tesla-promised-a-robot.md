@@ -74,6 +74,22 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "Did Tesla Just Confirm That the Robot Takeover Is Here?"
+    excerpt: "Rather, we’re investing in the small tech startup that’s developing the advanced underlying robotics and AI technology which will power this Automation Economy. We think this tiny stock could ..."
+    publishedDateTime: 2021-08-27T21:38:00Z
+    webUrl: "https://investorplace.com/moneywire/2021/08/did-tesla-just-confirm-that-the-robot-takeover-is-here-2/"
+    ampWebUrl: "https://investorplace.com/moneywire/2021/08/did-tesla-just-confirm-that-the-robot-takeover-is-here-2/amp/"
+    cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/moneywire/2021/08/did-tesla-just-confirm-that-the-robot-takeover-is-here-2/amp/"
+    type: article
+    provider:
+      name: InvestorPlace
+      domain: investorplace.com
+    quality: 76
+    images:
+      - url: "https://investorplace.com/wp-content/uploads/2020/10/robotics-stocks-ai-1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Tesla Bot, a Humanoid Robot that Leverages Vehicle Artificial Intelligence"
     excerpt: "Tesla has said that it plans to create a Humanoid Robot that can do basic tasks. As part of the presentation, a person dressed as the machine performed Robotics motions and then danced onstage. Musk soon emphasized that the dancer was not a true Robot."
     publishedDateTime: 2021-08-25T13:30:00Z

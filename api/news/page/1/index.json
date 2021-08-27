@@ -2,6 +2,214 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-28-worst-cloud-vulnerability-you-can-imagine-discovered-in-microsoft-azure.md",
+      "title": "“Worst cloud vulnerability you can imagine” discovered in Microsoft Azure",
+      "excerpt": "Cloud security vendor Wiz announced yesterday that it found a vulnerability in Microsoft Azure's, Cosmos DB, that granted read/write access for every data",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2021/08/worst-cloud-vulnerability-you-can-imagine-discovered-in-microsoft-azure/",
+      "originalUrl": "https://arstechnica.com/information-technology/2021/08/worst-cloud-vulnerability-you-can-imagine-discovered-in-microsoft-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/08/cosmos-db-logo-760x344.png",
+          "width": 760,
+          "height": 344,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-27T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-28-extra-crunch-roundup-pre-pitch-tactics-warby-parker-s-1-israels-fintech-ecosystem.md",
+      "title": "Extra Crunch roundup: Pre-pitch tactics, Warby Parker S-1, Israel’s fintech ecosystem",
+      "excerpt": "Tapping into someone else’s experience is a tried-and-true method, which is why two-time Y Combinator participant Chris Morton wrote a guest post for Extra Crunch with advice for founders hoping to be accepted by the famed accelerator.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/08/27/extra-crunch-roundup-pre-pitch-tactics-warby-parker-s-1-israels-fintech-ecosystem/",
+      "originalUrl": "https://techcrunch.com/2021/08/27/extra-crunch-roundup-pre-pitch-tactics-warby-parker-s-1-israels-fintech-ecosystem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1289393096.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/08/27/extra-crunch-roundup-pre-pitch-tactics-warby-parker-s-1-israels-fintech-ecosystem/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/27/extra-crunch-roundup-pre-pitch-tactics-warby-parker-s-1-israels-fintech-ecosystem/amp/",
+      "publishedDateTime": "2021-08-27T13:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-28-toyota-is-suspending-its-self-driving-buses-in-paralympics-village-after-one-accidentally-hit-a-visually-impaired-athlete.md",
+      "title": "Toyota is suspending its self-driving buses in Paralympics Village after one accidentally hit a visually-impaired athlete",
+      "excerpt": "The autonomous vehicles were shown off at the 2020 Tokyo Games, helping athletes travel to their events and around the Olympic village.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/toyota-suspends-self-driving-buses-after-paralympic-accident-2021-8",
+      "originalUrl": "https://www.businessinsider.com/toyota-suspends-self-driving-buses-after-paralympic-accident-2021-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6129413c9ef1e50018f87ebe?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/toyota-suspends-self-driving-buses-after-paralympic-accident-2021-8?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/toyota-suspends-self-driving-buses-after-paralympic-accident-2021-8?amp",
+      "publishedDateTime": "2021-08-27T13:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-28-15-innovative-ai-companies-driving-exponential-shifts-in-their-respective-sectors.md",
+      "title": "15 Innovative AI Companies Driving Exponential Shifts In Their Respective Sectors",
+      "excerpt": "AI-built, AI-fueled, AI-powered, AI-informed: it is pervasive. In the hands of innovators, the disruption of AI of companies worldwide trends in a positive direction, and has the potential to change the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/08/27/15-innovative-ai-companies-driving-exponential-shifts-in-their-respective-sectors/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/08/27/15-innovative-ai-companies-driving-exponential-shifts-in-their-respective-sectors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61294684ba5d5a47b5b0da5e%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/08/27/15-innovative-ai-companies-driving-exponential-shifts-in-their-respective-sectors/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/08/27/15-innovative-ai-companies-driving-exponential-shifts-in-their-respective-sectors/amp/",
+      "publishedDateTime": "2021-08-27T13:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-27-meet-aria-the-first-new-zealand-english-accented-voice-for-amazon-polly-includes-limited-te-reo-maori-support.md",
       "title": "Meet Aria, the first New Zealand English accented voice for Amazon Polly – includes limited te reo Māori support",
       "excerpt": "We are excited to announce Aria, Amazon Polly’s first New Zealand English Neural text-to-speech (NTTS) voice. Similar to other Amazon Polly voices, Aria is developed as a voice that sounds bright, natural, and upbeat. This new voice for Aotearoa (New Zealand in Māori) is uniquely Kiwi. It includes a",
@@ -606,92 +814,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-27-schnuck-markets-expanding-use-of-tally-robots-chainwide.md",
-      "title": "Schnuck Markets expanding use of Tally robots chainwide",
-      "excerpt": "Schnuck Markets Inc. is expanding its use of Tally inventory-taking robots to all of its stores chainwide. Schnuck Markets said Thursday that a multiyear, full-scale rollout now will bring Tally robots to all 111 Schnucks stores.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ksdk.com/article/news/local/business-journal/schnuck-markets-expanding-use-tally-robots-chainwide/63-19ffa56e-e84d-48dc-ac17-0652ea68460c",
-      "originalUrl": "https://www.ksdk.com/article/news/local/business-journal/schnuck-markets-expanding-use-tally-robots-chainwide/63-19ffa56e-e84d-48dc-ac17-0652ea68460c",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.ksdk.com/assets/KSDK/images/6064e977-d6b9-4a67-9b45-b73059276597/6064e977-d6b9-4a67-9b45-b73059276597_1140x641.png",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ksdk.com/amp/article/news/local/business-journal/schnuck-markets-expanding-use-tally-robots-chainwide/63-19ffa56e-e84d-48dc-ac17-0652ea68460c",
-      "cdnAmpWebUrl": "https://www-ksdk-com.cdn.ampproject.org/c/s/www.ksdk.com/amp/article/news/local/business-journal/schnuck-markets-expanding-use-tally-robots-chainwide/63-19ffa56e-e84d-48dc-ac17-0652ea68460c",
-      "publishedDateTime": "2021-08-27T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KSDK",
-        "domain": "ksdk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-visually-impaired-paralympian-hit-by-self-driving-bus-in-athletes-village.md",
-      "title": "Visually Impaired Paralympian Hit by Self-driving Bus in Athletes' Village",
-      "excerpt": "A visually impaired Paralympian was hit by a self-driving bus in the athletes' village in Tokyo, suffering head and leg injuries, Japanese media said Friday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news18.com/news/sports/visually-impaired-paralympian-hit-by-self-driving-bus-in-athletes-village-4135052.html",
-      "originalUrl": "https://www.news18.com/news/sports/visually-impaired-paralympian-hit-by-self-driving-bus-in-athletes-village-4135052.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.news18.com/ibnlive/uploads/2021/08/sports-2021-08-22t124338.136-162973365516x9.png",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news18.com/amp/news/sports/visually-impaired-paralympian-hit-by-self-driving-bus-in-athletes-village-4135052.html",
-      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/sports/visually-impaired-paralympian-hit-by-self-driving-bus-in-athletes-village-4135052.html",
-      "publishedDateTime": "2021-08-27T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN-News18",
-        "domain": "news18.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-27-good-to-know-headlines-self-driving-taxis-and-flamin-hot-cheetos-flavored-mountain-dew.md",
       "title": "‘Good to Know’ headlines: Self-driving taxis and Flamin’ Hot Cheetos flavored Mountain Dew",
       "excerpt": "NBC News' Vicky Nguyen reports on a new app that is set to offer self-driving taxis, logging into virtual meetings using A.I., and Mountain Dew’s new Flamin’ Hot Cheetos inspired drink.",
@@ -785,6 +907,58 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-ibm-announces-new-tennis-power-rankings-fantasy-tennis-teams-and-more-ahead-of-us-open.md",
+      "title": "IBM announces new tennis power rankings, fantasy tennis teams and more ahead of US Open",
+      "excerpt": "IBM unveiled a slate of new AI-powered tools on Friday centered around the US Open, which kicks off in New York City on Monday. Tennis fans will have a bevy of new match and player information available to them thanks to IBM,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/article/ibm-announces-new-tennis-power-rankings-fantasy-tennis-teams-and-more-ahead-of-us-open/",
+      "originalUrl": "https://www.zdnet.com/index.php/article/ibm-announces-new-tennis-power-rankings-fantasy-tennis-teams-and-more-ahead-of-us-open/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/08/27/b9ce487a-48ab-430b-9889-61dc0b4c6291/match-insights-example-2.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/article/ibm-announces-new-tennis-power-rankings-fantasy-tennis-teams-and-more-ahead-of-us-open/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/ibm-announces-new-tennis-power-rankings-fantasy-tennis-teams-and-more-ahead-of-us-open/",
+      "publishedDateTime": "2021-08-27T01:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
       ]
     },
     {
@@ -1062,152 +1236,6 @@
         "AI",
         "AWS AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-robotics-startup-rents-out-automated-machines-to-factories-for-as-little-as-10-an-hour.md",
-      "title": "Robotics startup rents out automated machines to factories for as little as $10 an hour",
-      "excerpt": "Companies struggling with a labor shortage and rising salaries are turning to robots for automated work and for those who can't afford a big expense, they're renting robots for as little as $10 per hour.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-9928905/FOCUS-Rent-robot-Silicon-Valley-s-new-answer-labor-shortage-smaller-U-S-factories.html",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-9928905/FOCUS-Rent-robot-Silicon-Valley-s-new-answer-labor-shortage-smaller-U-S-factories.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2021/08/26/13/47127101-0-image-a-104_1629981069153.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-9928905/amp/FOCUS-Rent-robot-Silicon-Valley-s-new-answer-labor-shortage-smaller-U-S-factories.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9928905/amp/FOCUS-Rent-robot-Silicon-Valley-s-new-answer-labor-shortage-smaller-U-S-factories.html",
-      "publishedDateTime": "2021-08-26T10:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-zendesk-acquires-customer-service-automation-startup-cleverlyai.md",
-      "title": "Zendesk acquires customer service automation startup Cleverly.ai",
-      "excerpt": "Zendesk has acquired Cleverly.ai, a service automation startup that develops AI-powered tools to solve common customer problems.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/26/zendesk-acquires-customer-service-automation-startup-cleverly-ai/",
-      "originalUrl": "https://venturebeat.com/2021/08/26/zendesk-acquires-customer-service-automation-startup-cleverly-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/03/customer-e1629996056347.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/26/zendesk-acquires-customer-service-automation-startup-cleverly-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/26/zendesk-acquires-customer-service-automation-startup-cleverly-ai/amp/",
-      "publishedDateTime": "2021-08-26T09:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-otterai-expands-automatic-transcription-assistant-to-microsoft-teams-google-meet-and-cisco-webex.md",
-      "title": "Otter.ai expands automatic transcription assistant to Microsoft Teams, Google Meet and Cisco Webex",
-      "excerpt": "AI-powered voice transcription service Otter.ai is expanding its Otter Assistant feature for Microsoft Teams, Google Meet, and Cisco Webex. Otter.ai first released this feature for Zoom users earlier this year in May.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/08/26/otter-ai-expands-automatic-transcription-assistant-to-microsoft-teams-google-meet-and-cisco-webex/",
-      "originalUrl": "https://techcrunch.com/2021/08/26/otter-ai-expands-automatic-transcription-assistant-to-microsoft-teams-google-meet-and-cisco-webex/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/05/Otter-Assistant.png?w=1024",
-          "width": 1024,
-          "height": 650,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/08/26/otter-ai-expands-automatic-transcription-assistant-to-microsoft-teams-google-meet-and-cisco-webex/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/26/otter-ai-expands-automatic-transcription-assistant-to-microsoft-teams-google-meet-and-cisco-webex/amp/",
-      "publishedDateTime": "2021-08-26T09:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

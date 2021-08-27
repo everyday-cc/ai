@@ -57,6 +57,22 @@ related:
         width: 1500
         height: 1000
         isCached: true
+  - title: "Alphabet's Waymo to stop selling lidar self-driving car sensors"
+    excerpt: "Alphabet's self-driving unit Waymo said on Thursday that it has ended a two-year effort to sell light detection and ranging (lidar) sensors to other companies."
+    publishedDateTime: 2021-08-27T13:04:00Z
+    webUrl: "https://www.cnbc.com/2021/08/27/alphabets-waymo-to-stop-selling-lidar-self-driving-car-sensors.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/08/27/alphabets-waymo-to-stop-selling-lidar-self-driving-car-sensors.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/08/27/alphabets-waymo-to-stop-selling-lidar-self-driving-car-sensors.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 89
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106934327-16300761732021-08-27t022009z_2039007649_rc2edp9zmkla_rtrmadp_0_waymo-lidar.jpeg?v=1630076244"
+        width: 3500
+        height: 2333
+        isCached: true
   - title: "Waymo Expands Self-Driving Operations. What It Means for Tesla."
     excerpt: "Truly self-driving cars are on American roads. And they don’t come from Tesla. Consumers—and investors—just need to know where to look. Waymo, Alphabet’s (ticker: GOOG) venture into self-driving cars,"
     publishedDateTime: 2021-08-25T15:21:00Z
@@ -86,20 +102,6 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/08/SF-760x380.png"
         width: 760
         height: 380
-        isCached: true
-  - title: "Alphabet's Waymo to stop selling lidar self-driving car sensors"
-    excerpt: "Alphabet Inc's self-driving unit Waymo said on Thursday that it has ended a two-year effort to sell light detection and ranging (lidar) sensors to other companies."
-    publishedDateTime: 2021-08-27T02:04:00Z
-    webUrl: "https://www.reuters.com/technology/alphabets-waymo-stop-selling-lidar-self-driving-car-sensors-sources-2021-08-27/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://www.reuters.com/resizer/icCZxD-J3v_6pHauZBSNngXG9zc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JH3ID44JRRIOTM3QAF4FV2F4OY.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Google self-driving spinoff Waymo begins testing with public in San Francisco"
     excerpt: "Alphabet Inc's Waymo has started taking a few San Franciscans on rides in its self-driving sport utility vehicles and hopes to open the robotaxis to anyone in the city in less than the three years it took to launch in its only other market."
@@ -268,6 +270,6 @@ related:
       domain: globalspec.com
     quality: 19
 
-secured: "XWzoZWRfdb84cEfpUiu3CryjkNOYiTgIC81ACv2HvdhztHks4p3O+SKYEvoXNWozMSP2kalxuvObFRCnzrymy7BBDZ9hVIFYnIx5V42/n9I/ckIGKBAqBVIFzjWSWpGOHvwrGibK6UieS3ongZm7otWBBVbwPey/7YLpDm/vU4o9ziop/9Z9Qcp7dKPWtdPIojW+N6XEQlISXcJ1VBSEzATm0Ad+SfcigwI2RyF5uXff7ZcWw6d2RNeOqzq4BEBnXI/vlrOcoJDecx47NjkhOKBS7YVFoiS3KyRBX3kzof8j+fJCKIP8rLj/9tnaBAf17/YGuOVVClUjwTuisIvYv/JsNB3dX/EUq3Vm11ZgTAQ=;XoSpKVpIhNFZvn2u+yn8gg=="
+secured: "GVlfUjBfys2wZuB5ELC6Y4dy7VdcbKVFzykPxzPT5/3MI3TUy245TdKOv+Nkv8OKxA5YHArAgSpI3r54cREkqdISLMi9nhYwVabmRlSGjtsfn0T3l3sB6Z+XOfAeZmtopnH0E6oDAuK1LnKKNRwZQpiwgA08qbs8Kf1VmdOH4rRn7h2q38bqIwz4EYrywGKVsh2I+x0iU/3xsCe8oRIb0g/N8njntKqXLjVvj9d5EEj6g9kWp4O9w4+gvsdIrTr/EIfG7b5dJlu8sWlTFeRcbP2TfrK3KGsg7ssDuKxySdmB8k0ye+x5q1FhprJbSzmC/jWZHINX9snEvplGIJYUtIMqk0F3IlOF9SiXyQUEmovHSwcP/vYbVWlhtoZHXPiFnTRXIzHKpEtDfWELbaWWeYEIew61uqq8iwcfhO+7wuThC/Ox0drr+t+yS4dX90YkS5wCOLRVhyafGGZFRNHcVsHRedBrDfzDx0R2re0daboqQXrX9BVDAOHkRtR0ezjHZwSh7xPgn2PdSdwWBRwIyQ==;eN6bPBW+6KgppnVe3dO4cw=="
 ---
 

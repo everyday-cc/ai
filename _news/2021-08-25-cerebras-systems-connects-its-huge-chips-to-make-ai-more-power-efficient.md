@@ -1,25 +1,32 @@
 ---
 category: news
-title: "Cerebras Systems Connects Its Huge Chips to Make AI More Power-Efficient"
-excerpt: "Cerebras Systems, the Silicon Valley startup making the world's largest computer chip, said on Tuesday it can now weave together almost 200 of the chips to drastically reduce the power consumed by artificial-intelligence work."
-publishedDateTime: 2021-08-24T21:22:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2021-08-24/cerebras-systems-connects-its-huge-chips-to-make-ai-more-power-efficient"
-webUrl: "https://www.usnews.com/news/technology/articles/2021-08-24/cerebras-systems-connects-its-huge-chips-to-make-ai-more-power-efficient"
+title: "Cerebras Systems connects its huge chips to make AI more power-efficient"
+excerpt: "A Cerebras Systems artificial intelligence chip is seen between a knife and fork shown for scale in this undated handout photo provided on August 24, 2021. Courtesy of Cerebras Systems/Handout via R"
+publishedDateTime: 2021-08-25T01:23:00Z
+originalUrl: "https://www.reuters.com/news/picture/cerebras-systems-connects-its-huge-chips-idUSKBN2FP1YX"
+webUrl: "https://www.reuters.com/news/picture/cerebras-systems-connects-its-huge-chips-idUSKBN2FP1YX"
 type: article
-quality: 46
+quality: 83
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
+  - AI Hardware
   - AI
+
+images:
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210824&t=2&i=1572827891&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH7N10M"
+    width: 810
+    height: 540
+    isCached: true
 
 related:
   - title: "Cerebras’ CS-2 brain-scale chip can power AI models with 120 trillion parameters"
@@ -119,6 +126,6 @@ related:
       domain: design-reuse.com
     quality: 27
 
-secured: "XKq6HD/hFk0cM/M7+mZZ+jFuxyPcnu43xYJtSAqk/QG3LtQb/x8SINlGqjgnw2oqAhigG0p2kOlx9KnAaEUdFYrcLjX0LrH4IvNQPzd4meaB+AUvvZJHakkAGnlWZPyXX3xq2ZTq5uIB+K5nakQUWjMDlt2PMoNoAYIEJdDe6sAONOOEnbHy+jNiARGDb0A/YNbtiqRFogJnjyEhObpPb95I4OU4JGCgiQfaTp/j/yuSrevSSccQyceesJdWfUGyiUnNeHUiI7WZiC1UDM90wBGtxMFzQFt/vF3TvBh7hMVKg5XPEQM0Jm7suCc0LaLScQUhHRkUGybrWgHjOsOO8iQ9PbxKdFi4PwRrf9FfF9KyYaL2irzXVIKsmYkxwwVG/MGHtL3j5u/xINMb2/LXFEF3KkY86hPNTegia2NC5OY4Z4qPdOEpsiXxuM/dVWtK1bD1X4Kh2mIcPGTkib9JlNUxNcKK7VOS27Ejh4lhVWxb5Jb97JWoxyXO1maUi3HhtJ0Y27D1tP9yzoeUy2QWhA==;FuQ2ivjXyYOPQVpohtihvA=="
+secured: "iS1BV4DU+DDJnCICQUQRYnNmg0+gxbXZw66fRFKDYji/P6ypEzXpKArwhf2hNjoN9gLrerDj+QpPxUAAiLxiu9QA683AGiC3n7IjT/0XnAysbLP+60BboBdj8qGP6V3U1r0A+bXA6OU/ViSnFk1DskG74Cz33oOsZAyDrJ0UWH2T1p66xnK/FNfwBB0mHUepQ7OcU9IfWEFWiWRzODrLlrA1rTOPblS8WfWUSyjxe3qTGdtnlX0yI2Lwwjc4kk2M3PZmLa09tKZVUyj5V5P1d+Pvs1qjutTqJQKf/nRf0hagQpem1Uddl83NngXKU13zElv53rJG4+7f3PWufzn7OqRb6A+KIv1JLZAmGWyM+XI=;zUYdI9h932CwnFv30fmScg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/08/25/tesla-starts-hiring-roboticists-tesla
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/25/tesla-starts-hiring-roboticists-tesla-bot-humanoid-robot-project/amp/"
 type: article
 quality: 204
-heat: 244
+heat: 254
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
       - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTgzMzU1MDk2MTg3MjgyODUw/tesla-fsd-beta-elon-musk-1280x720.jpg"
         width: 620
         height: 349
+        isCached: true
+  - title: "Did Tesla Just Confirm That the Robot Takeover Is Here?"
+    excerpt: "Rather, we’re investing in the small tech startup that’s developing the advanced underlying robotics and AI technology which will power this Automation Economy. We think this tiny stock could ..."
+    publishedDateTime: 2021-08-27T21:38:00Z
+    webUrl: "https://investorplace.com/moneywire/2021/08/did-tesla-just-confirm-that-the-robot-takeover-is-here-2/"
+    ampWebUrl: "https://investorplace.com/moneywire/2021/08/did-tesla-just-confirm-that-the-robot-takeover-is-here-2/amp/"
+    cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/moneywire/2021/08/did-tesla-just-confirm-that-the-robot-takeover-is-here-2/amp/"
+    type: article
+    provider:
+      name: InvestorPlace
+      domain: investorplace.com
+    quality: 76
+    images:
+      - url: "https://investorplace.com/wp-content/uploads/2020/10/robotics-stocks-ai-1600.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "A|I: The AI Times – Tesla promised a robot"
     excerpt: "With more and more AI built on top of a few powerful models, bias and other flaws can rapidly spread. Careful review in an academic environment could help. Wisedocs’ CEO and founder Connor Atchison told BetaKit the startup recently changed its name to ..."

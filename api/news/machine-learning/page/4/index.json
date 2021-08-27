@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-04-the-subscription-goldilocks-zone-is-within-reach-for-merchants-using-ai-ml.md",
+      "title": "The ‘Subscription Goldilocks Zone’ Is Within Reach For Merchants Using AI & ML",
+      "excerpt": "The subscription “Goldilocks” syndrome is something that sticky.io CEO Brian Bogosian tells PYMNTS subscription commerce companies can use AI and ML to solve.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/subscriptions/2021/the-subscription-goldilocks-zone-is-within-reach-for-merchants-using-ai-ml/",
+      "originalUrl": "https://www.pymnts.com/subscriptions/2021/the-subscription-goldilocks-zone-is-within-reach-for-merchants-using-ai-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/08/sticky.io-subscriptions-457x208.png",
+          "width": 457,
+          "height": 208,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/subscriptions/2021/the-subscription-goldilocks-zone-is-within-reach-for-merchants-using-ai-ml/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/subscriptions/2021/the-subscription-goldilocks-zone-is-within-reach-for-merchants-using-ai-ml/amp/",
+      "publishedDateTime": "2021-08-04T01:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-08-04-aiml-innovations-inc-to-webcast-live-at-virtualinvestorconferencescom-august-5th.md",
       "title": "AI/ML Innovations Inc. to Webcast Live at VirtualInvestorConferences.com August 5th",
       "excerpt": "AI/ML Innovations Inc. (CSE: AIML) (OTCQB: AIMLF) (\"AIML\" or the \"Company\"), a company committed to acquiring and advancing Artificial Intelligence/Machine Learning technologies that address urgent societal needs,",
@@ -1337,59 +1380,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-orchestrate-xgboost-ml-pipelines-with-amazon-managed-workflows-for-apache-airflow.md",
-      "title": "Orchestrate XGBoost ML Pipelines with Amazon Managed Workflows for Apache Airflow",
-      "excerpt": "The ability to scale machine learning operations (MLOps) at an enterprise is quickly becoming a competitive advantage in the modern economy. When firms started dabbling in ML, only the highest priority use cases were the focus. Businesses are now demanding more from ML practitioners: more intelligent",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/orchestrate-xgboost-ml-pipelines-with-amazon-managed-workflows-for-apache-airflow/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/orchestrate-xgboost-ml-pipelines-with-amazon-managed-workflows-for-apache-airflow/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/20/ml-4775-image007-1002x630.png",
-          "width": 1002,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-28T11:14:54-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

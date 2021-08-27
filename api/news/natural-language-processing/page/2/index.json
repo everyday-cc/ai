@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-16-data-center-gaming-segments-to-aid-nvidias-nvda-q2-earnings.md",
+      "title": "Data Center, Gaming Segments to Aid NVIDIA's (NVDA) Q2 Earnings",
+      "excerpt": "The company’s fate is tied to its gaming and data-center segments, which accounts for a bulk of NVIDIA’s revenues. The two divisions are likely to continue benefiting from stellar demand for chips used in gaming,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/data-center-gaming-segments-to-aid-nvidias-nvda-q2-earnings-2021-08-16",
+      "originalUrl": "https://www.nasdaq.com/articles/data-center-gaming-segments-to-aid-nvidias-nvda-q2-earnings-2021-08-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/data-center-gaming-segments-to-aid-nvidias-nvda-q2-earnings-2021-08-16?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/data-center-gaming-segments-to-aid-nvidias-nvda-q2-earnings-2021-08-16?amp",
+      "publishedDateTime": "2021-08-16T06:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-16-how-conversational-ai-works-and-what-it-does.md",
       "title": "How Conversational AI Works and What It Does",
       "excerpt": "Automatic Speech Recognition (ASR), Advanced Dialog management, and Machine Learning (ML), are likely to pass the Turing Test and provide a more realistic experience than traditional chatbots. Most of us have had interactions on websites with chatbots that were less than satisfactory,",
@@ -1300,58 +1334,6 @@
         "name": "TMCnet",
         "domain": "tmcnet.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-ai-fueled-app-natural-offers-new-interface-for-consumer-transactions.md",
-      "title": "AI-fueled app Natural offers new interface for consumer transactions",
-      "excerpt": "A new app aims to bring more benefits of AI and machine learning to machine learning to consumes more directly, starting with a range of streamlined transactions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-fueled-app-natural-offers-new-interface-for-consumer-transactions/",
-      "originalUrl": "https://www.zdnet.com/article/ai-fueled-app-natural-offers-new-interface-for-consumer-transactions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/08/04/7f0aa6fa-f79b-453d-9b19-93e2e01c3b94/natural-1.png",
-          "width": 1600,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-fueled-app-natural-offers-new-interface-for-consumer-transactions/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-fueled-app-natural-offers-new-interface-for-consumer-transactions/",
-      "publishedDateTime": "2021-08-04T03:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

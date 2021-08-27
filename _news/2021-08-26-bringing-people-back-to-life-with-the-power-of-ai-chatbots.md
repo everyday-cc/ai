@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/0
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/08/26/bringing-people-back-to-life-with-the-power-of-ai-chatbots/amp/"
 type: article
 quality: 87
-heat: 237
+heat: 227
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Is Changing The Face Of Tech In Sports"
-    excerpt: "Automation and AI are at the forefront of driving numerous industries in the pandemic-hit world. While things are slowly getting back to normalcy, they would never be the same. As a matter of fact, the pandemic unleashed the true potential of Artificial Intelligence,"
-    publishedDateTime: 2021-08-23T05:00:00Z
-    webUrl: "https://www.gizbot.com/internet/features/artificial-intelligence-changing-face-of-tech-in-sports-076273.html"
-    ampWebUrl: "https://www.gizbot.com/amphtml/internet/features/artificial-intelligence-changing-face-of-tech-in-sports-076273.html"
-    cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/internet/features/artificial-intelligence-changing-face-of-tech-in-sports-076273.html"
-    type: article
-    provider:
-      name: GIZBOT
-      domain: gizbot.com
-    quality: 59
-    images:
-      - url: "https://www.gizbot.com/img/2021/08/5-1629548019.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "'Always there': the AI chatbot comforting China's lonely millions"
     excerpt: "After a painful break-up from a cheating ex, Beijing-based human resources manager Melissa was introduced to someone new by a friend late last year."
     publishedDateTime: 2021-08-24T07:48:00Z

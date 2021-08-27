@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-28-extra-crunch-roundup-pre-pitch-tactics-warby-parker-s-1-israels-fintech-ecosystem.md",
+      "title": "Extra Crunch roundup: Pre-pitch tactics, Warby Parker S-1, Israel’s fintech ecosystem",
+      "excerpt": "Tapping into someone else’s experience is a tried-and-true method, which is why two-time Y Combinator participant Chris Morton wrote a guest post for Extra Crunch with advice for founders hoping to be accepted by the famed accelerator.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/08/27/extra-crunch-roundup-pre-pitch-tactics-warby-parker-s-1-israels-fintech-ecosystem/",
+      "originalUrl": "https://techcrunch.com/2021/08/27/extra-crunch-roundup-pre-pitch-tactics-warby-parker-s-1-israels-fintech-ecosystem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1289393096.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/08/27/extra-crunch-roundup-pre-pitch-tactics-warby-parker-s-1-israels-fintech-ecosystem/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/27/extra-crunch-roundup-pre-pitch-tactics-warby-parker-s-1-israels-fintech-ecosystem/amp/",
+      "publishedDateTime": "2021-08-27T13:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-27-how-to-upskill-your-team-to-tackle-ai-and-machine-learning.md",
       "title": "How to upskill your team to tackle AI and machine learning",
       "excerpt": "Levi Strauss & Co's Katia Walsh discusses her new machine learning bootcamp and the role upskilling and mentorship can play in humanizing AI.",
@@ -1304,50 +1356,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-uk-regtech-shield-introduces-alert-transparency-capabilities-by-leveraging-ai-nlp.md",
-      "title": "UK Regtech Shield Introduces Alert Transparency Capabilities by Leveraging AI, NLP",
-      "excerpt": "UK Regtech firm Shield has introduced Alert Transparency Capabilities by leveraging AI and natural language processing or NLP.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2021/08/179061-uk-regtech-shield-introduces-alert-transparency-capabilities-by-leveraging-ai-nlp/",
-      "originalUrl": "https://www.crowdfundinsider.com/2021/08/179061-uk-regtech-shield-introduces-alert-transparency-capabilities-by-leveraging-ai-nlp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/09/Regtech-in-the-UK-300x222.jpg",
-          "width": 300,
-          "height": 222,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2021/08/179061-uk-regtech-shield-introduces-alert-transparency-capabilities-by-leveraging-ai-nlp/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/08/179061-uk-regtech-shield-introduces-alert-transparency-capabilities-by-leveraging-ai-nlp/amp/",
-      "publishedDateTime": "2021-08-12T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

@@ -75,6 +75,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Cerebras Systems connects its huge chips to make AI more power-efficient"
+    excerpt: "A Cerebras Systems artificial intelligence chip is seen between a knife and fork shown for scale in this undated handout photo provided on August 24, 2021. Courtesy of Cerebras Systems/Handout via R"
+    publishedDateTime: 2021-08-25T01:23:00Z
+    webUrl: "https://www.reuters.com/news/picture/cerebras-systems-connects-its-huge-chips-idUSKBN2FP1YX"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 83
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210824&t=2&i=1572827891&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH7N10M"
+        width: 810
+        height: 540
+        isCached: true
   - title: "Cerebras Systems Lays The Foundation For Huge Artificial Intelligence"
     excerpt: "Cerebras extends CS-2 system and software to train a 120-Trillion-parameter model on the way to brain-scale AI."
     publishedDateTime: 2021-08-24T20:06:00Z
@@ -89,15 +103,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Cerebras Systems Connects Its Huge Chips to Make AI More Power-Efficient"
-    excerpt: "Cerebras Systems, the Silicon Valley startup making the world's largest computer chip, said on Tuesday it can now weave together almost 200 of the chips to drastically reduce the power consumed by artificial-intelligence work."
-    publishedDateTime: 2021-08-24T21:22:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-08-24/cerebras-systems-connects-its-huge-chips-to-make-ai-more-power-efficient"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 46
   - title: "Cerebras Systems Announces World’s First Brain-Scale Artificial Intelligence Solution"
     excerpt: "Cerebras Systems, the pioneer in innovative compute solutions for Artificial Intelligence (AI), today unveiled the world’s first brain-scale AI solution. The human brain contains on the order of 100 trillion synapses."
     publishedDateTime: 2021-08-24T23:00:00Z

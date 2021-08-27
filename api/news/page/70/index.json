@@ -2,6 +2,274 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2021-07-08-sbh-health-system-selects-electrifais-machine-learning-technology-to-transform-operations.md",
+      "title": "SBH Health System Selects ElectrifAi's Machine Learning Technology to Transform Operations",
+      "excerpt": "ElectrifAi, one of the world's leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models, announced today its collaboration with St. Barnabas Hospital, the flagship of the SBH Health System,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-sbh-health-system-selects-electrifais-machine-learning-technology-/2021/07/08/9405153.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-sbh-health-system-selects-electrifais-machine-learning-technology-/2021/07/08/9405153.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-08T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-07-08-intellimize-raises-30m-to-optimize-websites-with-ai.md",
+      "title": "Intellimize raises $30M to optimize websites with AI",
+      "excerpt": "Intellimize, a startup leveraging AI to personalize websites for unique visitors, has raised $30 million in a venture capital round.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/08/intellimize-raises-30m-to-optimize-websites-with-ai/",
+      "originalUrl": "https://venturebeat.com/2021/07/08/intellimize-raises-30m-to-optimize-websites-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/big_data.jpg?fit=800%2C450&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/08/intellimize-raises-30m-to-optimize-websites-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/08/intellimize-raises-30m-to-optimize-websites-with-ai/amp/",
+      "publishedDateTime": "2021-07-08T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-08-three-reasons-to-leverage-ai-and-ml-to-improve-the-employee-experience.md",
+      "title": "Three Reasons To Leverage AI And ML To Improve The Employee Experience",
+      "excerpt": "Here’s why I think the time is now to start leveraging AI to drive an employee experience that connects, empowers and unleashes the potential of your team: When you apply AI and ML exclusively to productivity, you miss an important piece of the puzzle.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/07/08/three-reasons-to-leverage-ai-and-ml-to-improve-the-employee-experience/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/07/08/three-reasons-to-leverage-ai-and-ml-to-improve-the-employee-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e5a6d22ffabd8616629559%2F0x0.jpg",
+          "width": 1156,
+          "height": 770,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-08T04:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-07-08-googles-supermodel-deepmind-perceiver-is-a-step-on-the-road-to-an-ai-machine-that-could-process-anything-and-everything.md",
+      "title": "Google’s Supermodel: DeepMind Perceiver is a step on the road to an AI machine that could process anything and everything",
+      "excerpt": "The Perceiver is kind-of a way-station on the way to what Google AI lead Jeff Dean has described as one model that could handle any task, and “learn” faster, with less data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/googles-supermodel-deepmind-perceiver-is-a-step-on-the-road-to-an-ai-machine-that-could-process-everything/",
+      "originalUrl": "https://www.zdnet.com/article/googles-supermodel-deepmind-perceiver-is-a-step-on-the-road-to-an-ai-machine-that-could-process-everything/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/07/08/48cd537f-701b-4c47-9c24-1e554472c85c/deepmind-2021-perceiver-on-imagenet.jpg",
+          "width": 743,
+          "height": 609,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/googles-supermodel-deepmind-perceiver-is-a-step-on-the-road-to-an-ai-machine-that-could-process-everything/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-supermodel-deepmind-perceiver-is-a-step-on-the-road-to-an-ai-machine-that-could-process-everything/",
+      "publishedDateTime": "2021-07-08T03:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-07-08-canaan-releases-self-developed-edge-ai-chip-the-kendryte-k510.md",
+      "title": "Canaan Releases Self-developed Edge AI Chip, the Kendryte K510",
+      "excerpt": "Canaan Inc. (NASDAQ: CAN) (\"Canaan\" or the \"Company\"), a leading high-performance computing solutions provider, today announced the release of the Kendryte K510 (the \"K510\"), an independently designed and developed RISC-V based edge AI chip,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-canaan-releases-self-developed-edge-ai-chip-kendryte-/2021/07/08/9405016.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-canaan-releases-self-developed-edge-ai-chip-kendryte-/2021/07/08/9405016.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-08T03:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-08-recycling-using-artificial-intelligence-and-robotics.md",
+      "title": "Recycling using artificial intelligence and robotics",
+      "excerpt": "Abhijeet Ghosh, 6th Grade, Dodgen Middle School, Marietta, Georgia, student looks to recycle waste using artificial intelligence (AI) and robotics. Abhijeet is very keen on recycling. Recycling reduces waste,",
+      "sourceUrl": null,
+      "webUrl": "https://www.worldofchemicals.com/media/recycling-using-artificial-intelligence-and-robotics/6261.html",
+      "originalUrl": "https://www.worldofchemicals.com/media/recycling-using-artificial-intelligence-and-robotics/6261.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.worldofchemicals.com/newphase/image/Elite4.png",
+          "width": 305,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-08T02:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "World Of Chemicals",
+        "domain": "worldofchemicals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-08-softbank-leads-235m-round-in-anyvisions-ai-recognition-tech.md",
       "title": "SoftBank leads $235M round in AnyVision's AI recognition tech",
       "excerpt": "The Israeli company developing AI-driven facial recognition secures mega funding to help expand into new markets.",
@@ -878,263 +1146,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-scientists-use-artificial-intelligence-to-detect-gravitational-waves.md",
-      "title": "Scientists use artificial intelligence to detect gravitational waves",
-      "excerpt": "When gravitational waves were first detected in 2015 by the advanced Laser Interferometer Gravitational-Wave Observatory (LIGO), they sent a ripple through the scientific community, as they confirmed another of Einstein's theories and marked the birth of gravitational wave astronomy.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-07-scientists-artificial-intelligence-gravitational.html",
-      "originalUrl": "https://phys.org/news/2021-07-scientists-artificial-intelligence-gravitational.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/scientists-use-artific.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-07-scientists-artificial-intelligence-gravitational.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-07-scientists-artificial-intelligence-gravitational.amp",
-      "publishedDateTime": "2021-07-07T13:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-you-can-now-apply-for-a-job-through-tiktok.md",
-      "title": "You can now apply for a job through TikTok",
-      "excerpt": "TikTok is testing a job application tool that allows its users ... and then send that video to recruiters through the app. An instructional video for the pilot program recommends applicants ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.vox.com/recode/2019/12/12/20993665/artificial-intelligence-ai-job-screen",
-      "originalUrl": "https://www.theverge.com/2021/7/7/22567220/tiktok-resumes-job-application",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/xMmd7GvB5Sbq3R_pU3scwiE3YzM=/0x0:1800x1013/1400x1050/filters:focal(745x596:1033x884):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/65882881/interview_ai_lead_art.0.jpg",
-          "width": 1400,
-          "height": 1013,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vox.com/platform/amp/recode/2019/12/12/20993665/artificial-intelligence-ai-job-screen",
-      "cdnAmpWebUrl": "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/recode/2019/12/12/20993665/artificial-intelligence-ai-job-screen",
-      "publishedDateTime": "2021-07-07T13:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-artificial-intelligence-ai-unfolds-the-new-dimension-of-social-development.md",
-      "title": "Artificial Intelligence (AI) Unfolds the New Dimension of Social Development",
-      "excerpt": "Artificial intelligence (AI) in healthcare is the discipline using data intensive computer based solutions to improve patient care and outcome. New, objective approach to assessing the reduction in apparent age after facelift surgery is now possible with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/artificial-intelligence-ai-unfolds-the-new-dimension-of-social-development-202136-1.htm",
-      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-ai-unfolds-the-new-dimension-of-social-development-202136-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/Computerized-Images.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-ai-unfolds-the-new-dimension-of-social-development-202136-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-ai-unfolds-the-new-dimension-of-social-development-202136-1.htm",
-      "publishedDateTime": "2021-07-07T11:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-bill-would-ban-facial-recognition-in-public-housing.md",
-      "title": "Bill Would Ban Facial Recognition in Public Housing",
-      "excerpt": "The proposal would also direct the Housing and Urban Development Department to conduct a comprehensive report on how the tech is used, why and its impact on tenants.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextgov.com/emerging-tech/2021/07/bill-would-ban-facial-recognition-public-housing/183131/",
-      "originalUrl": "https://www.nextgov.com/emerging-tech/2021/07/bill-would-ban-facial-recognition-public-housing/183131/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 219,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.nextgov.com/media/img/cd/2021/07/07/NGbiometrics20210707/open-graph.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-07T11:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nextgov",
-        "domain": "nextgov.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-anyvision-raises-235m-for-access-point-ai-based-physical-security.md",
-      "title": "AnyVision Raises $235M for Access Point AI-Based Physical Security",
-      "excerpt": "Access Point AI also helps with occupancy analytics ... software development kits and software onto edge-devices such as smart cameras, bodycams and chips, improving video analytics systems with respect to speed, security, affordability, flexibility ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/investment-tracker/2021/anyvision-raises-235m-for-access-point-ai-based-physical-security/",
-      "originalUrl": "https://www.pymnts.com/news/investment-tracker/2021/anyvision-raises-235m-for-access-point-ai-based-physical-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/07/anyvision-biometrics-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/investment-tracker/2021/anyvision-raises-235m-for-access-point-ai-based-physical-security/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/anyvision-raises-235m-for-access-point-ai-based-physical-security/amp/",
-      "publishedDateTime": "2021-07-07T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-anivive-announces-publication-highlighting-the-first-successful-use-of-artificial-intelligence-in-diagnosing-valley-fever-in-dogs.md",
-      "title": "Anivive Announces Publication Highlighting the First Successful Use of Artificial Intelligence in Diagnosing Valley Fever in Dogs",
-      "excerpt": "Anivive, a pet health technology company transforming the therapeutic discovery and development process, announced the publication of \"Detecting Pulmonary Coccidioidomycosis (Valley fever) with Deep Convolutional Neural Networks,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-anivive-announces-publication-highlighting-first-successful-use-artificial-/2021/07/07/9404679.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-anivive-announces-publication-highlighting-first-successful-use-artificial-/2021/07/07/9404679.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-07T10:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

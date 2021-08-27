@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/researchers-make-sure-ai-works-for
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/researchers-make-sure-ai-works-for-farmers/amp/"
 type: article
 quality: 109
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -131,6 +131,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Machine learning applications in tobacco research: a scoping review"
+    excerpt: "Objective Identify and review the body of tobacco research literature that self-identified as using machine learning (ML) in the analysis. Data sources MEDLINE, EMABSE, PubMed, CINAHL Plus, APA PsycINFO and IEEE Xplore databases were searched up to September 2020."
+    publishedDateTime: 2021-08-26T00:00:00Z
+    webUrl: "https://tobaccocontrol.bmj.com/content/early/2021/08/26/tobaccocontrol-2020-056438"
+    type: article
+    provider:
+      name: BMJ
+      domain: bmj.com
+    quality: 19
 
 secured: "gI9ssvvkRtX+iF29giIMDziC7Hqd3vnq+gxptc06MFzCKPi0kOtSWDueyGM7gkqHMxPjICj6DQ2NmvyZmFqI930Ry6cxdKpMtaU+GFJS3sXe3N9I9gnLSDqmTO7Fsmwkrg1M7D8qQRJiRmRc1sxFww8dcIr9wKADGcUvSO6SDtnI9rECScwTqsbN3msb0svC4uF5x+Uo0wOtqAeJyWAaNsbKoTKiPHkeOqyM2A9hHHAit/C5QgU7cwP663BtttvfZ/WSHkGAqjddcS4IwvG1Pb0y18RZBsoT6s/wJp1ey98ywP1cDtmN/IWhAEOFe3iUw+4iikLKl1JFBhWnRBeHb04GLrwD0sbPiI4fPXosOlU=;TQuzsmUEYgZToB7gkNtfOw=="
 ---

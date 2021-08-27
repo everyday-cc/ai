@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-14-explore-the-benefits-of-leveraging-artificial-intelligence-development.md",
+      "title": "Explore the Benefits of Leveraging Artificial Intelligence Development",
+      "excerpt": "Artificial intelligence was introduced for making human life easier. It helps in making intelligent and practical decisions for your business strategies. Quantum computing, self-driving cars and natural language processing are the recent developments that ...",
+      "sourceUrl": null,
+      "webUrl": "https://customerthink.com/explore-the-benefits-of-leveraging-artificial-intelligence-development/",
+      "originalUrl": "https://customerthink.com/explore-the-benefits-of-leveraging-artificial-intelligence-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://customerthink.com/wp-content/uploads/22-ideas-606ea9b-1.jpg",
+          "width": 725,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-13T14:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CustomerThink",
+        "domain": "customerthink.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-13-you-dont-need-tea-leaves-to-read-where-policy-wants-capital-week-in-review.md",
       "title": "You Don’t Need Tea Leaves To Read Where Policy Wants Capital, Week In Review",
       "excerpt": "Baidu reported strong earnings growth Thursday ... new growth sectors such as industrial Internet, V2X autonomous driving and monetization of city government. Thus, we will not be surprised ...",
@@ -460,6 +503,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-10-5-best-artificial-intelligence-stocks-to-invest-in-right-now.md",
+      "title": "5 Best Artificial Intelligence Stocks To Invest In Right Now",
+      "excerpt": "Alphabet Inc. (NASDAQ:GOOGL) ranks 4th on the list of 12 best artificial intelligence stocks to invest ... Alphabet‘s ‘moonshot’ bets (such as Waymo), substantial success in which would ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/2/",
+      "originalUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/06120633/Artificial-Intelligence-piqsels.com-id-jcurz.jpg",
+          "width": 1920,
+          "height": 1044,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-10T07:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insider Monkey",
+        "domain": "insidermonkey.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-10-asia-pacific-artificial-intelligence-market-2021-industry-growth-market-growth-share-and-forecast-2026.md",
       "title": "Asia Pacific Artificial Intelligence Market 2021: Industry Growth, Market Growth, Share and Forecast 2026",
       "excerpt": "Industry Trends, Share, Growth, Opportunity and Forecast 2021-2026,” the market is expecting to continue its robust growth during the forecast period (2021-2026). The report provides a detailed analysis of the market by Type,",
@@ -489,49 +575,6 @@
       "provider": {
         "name": "manometcurrent.com",
         "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-5-best-artificial-intelligence-stocks-to-invest-in-right-now.md",
-      "title": "5 Best Artificial Intelligence Stocks To Invest In Right Now",
-      "excerpt": "Xnora.ai specializes in putting artificial intelligence on devices ... conviction in Alphabet‘s ‘moonshot’ bets (such as Waymo), substantial success in which would likely be required ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/?singlepage=1",
-      "originalUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/?singlepage=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/06120633/Artificial-Intelligence-piqsels.com-id-jcurz.jpg",
-          "width": 1920,
-          "height": 1044,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-10T02:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1282,40 +1325,6 @@
       "provider": {
         "name": "Business Wire",
         "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-online-advertisement-market-to-develop-new-growth-story-baidu-facebook-google.md",
-      "title": "Online Advertisement Market to Develop New Growth Story | Baidu, Facebook, Google",
-      "excerpt": "AMA Research recently released research coverage on Global Online Advertisement Market that evaluates and provides market size, trend, and estimation to 2026. The Online Advertisement market study provides ready-to-access and self-analyzed study with significant research data proves to be a useful document for managers,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/online-advertisement-market-to-develop-new-growth-story-baidu-facebook-google/",
-      "originalUrl": "https://manometcurrent.com/online-advertisement-market-to-develop-new-growth-story-baidu-facebook-google/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/online-advertisement-market-to-develop-new-growth-story-baidu-facebook-google/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/online-advertisement-market-to-develop-new-growth-story-baidu-facebook-google/?amp=1",
-      "publishedDateTime": "2021-08-05T05:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-05-online-advertisement-market-to-develop-new-growth-story-baidu-facebook-google.md",
+      "title": "Online Advertisement Market to Develop New Growth Story | Baidu, Facebook, Google",
+      "excerpt": "AMA Research recently released research coverage on Global Online Advertisement Market that evaluates and provides market size, trend, and estimation to 2026. The Online Advertisement market study provides ready-to-access and self-analyzed study with significant research data proves to be a useful document for managers,",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/online-advertisement-market-to-develop-new-growth-story-baidu-facebook-google/",
+      "originalUrl": "https://manometcurrent.com/online-advertisement-market-to-develop-new-growth-story-baidu-facebook-google/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/online-advertisement-market-to-develop-new-growth-story-baidu-facebook-google/?amp=1",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/online-advertisement-market-to-develop-new-growth-story-baidu-facebook-google/?amp=1",
+      "publishedDateTime": "2021-08-05T05:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-05-are-investors-still-underestimating-alphabet.md",
       "title": "Are Investors Still Underestimating Alphabet?",
       "excerpt": "Here are five reasons investors might still be underestimating Alphabet. In its latest quarter (second quarter of 2021), Google Services, which houses all search, advertising, and premium consumer products,",
@@ -1310,50 +1344,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-googles-parent-alphabet-to-launch-a-new-robotics-and-ai-firm-intrinsic.md",
-      "title": "Google’s parent Alphabet to launch a new robotics and AI firm- Intrinsic",
-      "excerpt": "Intrinsic is a business of the future as it deals with advances in robotics and Artificial Intelligence. Alphabet’s Intrinsic is an attempt by Google to expand into future technology as it already is developing some advanced tech using complex machinery,",
-      "sourceUrl": null,
-      "webUrl": "https://techstory.in/googles-parent-alphabet-to-launch-a-new-robotics-and-ai-firm-intrinsic/",
-      "originalUrl": "https://techstory.in/googles-parent-alphabet-to-launch-a-new-robotics-and-ai-firm-intrinsic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techstory.in/wp-content/uploads/2021/07/intrinsic_green_purple_center.0.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-26T04:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tech",
-        "domain": "techstory.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

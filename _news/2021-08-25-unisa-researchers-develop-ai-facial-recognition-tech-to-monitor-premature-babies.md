@@ -131,6 +131,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Machine learning applications in tobacco research: a scoping review"
+    excerpt: "Objective Identify and review the body of tobacco research literature that self-identified as using machine learning (ML) in the analysis. Data sources MEDLINE, EMABSE, PubMed, CINAHL Plus, APA PsycINFO and IEEE Xplore databases were searched up to September 2020."
+    publishedDateTime: 2021-08-26T00:00:00Z
+    webUrl: "https://tobaccocontrol.bmj.com/content/early/2021/08/26/tobaccocontrol-2020-056438"
+    type: article
+    provider:
+      name: BMJ
+      domain: bmj.com
+    quality: 19
 
 secured: "vkpK+UYzf0M+dq583EZl+BJQrTBbD8ttSjclZfKPI6Dq3gwyRSPsyWhrVXVuOgiAftvpipQNCBfC+KC6rIXCmsLNeJIsDYxmT6FJOlh4UwIAvc47PBgNGgw8tbQ1MNRQMTLou2qDzcQrYVn+jjJrLpuNCE1WPDqpLTJYGaGYv3iJ+9RIdJCNGGVY6jg+HFNsSCOK5mGGirTJozvC0Ij+jb8PLTLzj6/8GQsg0rZ1R+if2DsSIMkwHrsE01E0gVHK2hBdRSp5aEOkijJBnI4T99W1AdwggHqY1c55+vSL4Uvz181rolRtoCaPfECD3SimfEf2n2Oso/zHS5I3aQWrPJqZfYyqERHOyR/jYIWUvOsGjqi3LWGd8zzNrN4BWDl0JRlBOiwk1OwxUzss2qDq6jhR8Mt/mcAs/7VTkmBuAe622f42I3qpKsZ3PpUhLUbSY0Ik7nhJLH2jXUQOqaPZUIZfpWT7pZOupx7ESFv9mNtcJfImSl6nIFYw7aaSZQirya8EgfLopb31pSj5l7LWvA==;t0sLfYlRUy2DGJggEVznOA=="
 ---

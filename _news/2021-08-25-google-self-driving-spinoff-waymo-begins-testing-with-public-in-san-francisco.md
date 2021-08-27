@@ -61,6 +61,22 @@ related:
         width: 1500
         height: 1000
         isCached: true
+  - title: "Alphabet's Waymo to stop selling lidar self-driving car sensors"
+    excerpt: "Alphabet's self-driving unit Waymo said on Thursday that it has ended a two-year effort to sell light detection and ranging (lidar) sensors to other companies."
+    publishedDateTime: 2021-08-27T13:04:00Z
+    webUrl: "https://www.cnbc.com/2021/08/27/alphabets-waymo-to-stop-selling-lidar-self-driving-car-sensors.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/08/27/alphabets-waymo-to-stop-selling-lidar-self-driving-car-sensors.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/08/27/alphabets-waymo-to-stop-selling-lidar-self-driving-car-sensors.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 89
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106934327-16300761732021-08-27t022009z_2039007649_rc2edp9zmkla_rtrmadp_0_waymo-lidar.jpeg?v=1630076244"
+        width: 3500
+        height: 2333
+        isCached: true
   - title: "Waymo Expands Self-Driving Operations. What It Means for Tesla."
     excerpt: "Truly self-driving cars are on American roads. And they don’t come from Tesla. Consumers—and investors—just need to know where to look. Waymo, Alphabet’s (ticker: GOOG) venture into self-driving cars,"
     publishedDateTime: 2021-08-25T15:21:00Z
@@ -90,20 +106,6 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/08/SF-760x380.png"
         width: 760
         height: 380
-        isCached: true
-  - title: "Alphabet's Waymo to stop selling lidar self-driving car sensors"
-    excerpt: "Alphabet Inc's self-driving unit Waymo said on Thursday that it has ended a two-year effort to sell light detection and ranging (lidar) sensors to other companies."
-    publishedDateTime: 2021-08-27T02:04:00Z
-    webUrl: "https://www.reuters.com/technology/alphabets-waymo-stop-selling-lidar-self-driving-car-sensors-sources-2021-08-27/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://www.reuters.com/resizer/icCZxD-J3v_6pHauZBSNngXG9zc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JH3ID44JRRIOTM3QAF4FV2F4OY.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "San Francisco residents test Waymo's self-driving car"
     excerpt: "Waymo announced Tuesday that some San Francisco residents will be able to test some of their self-driving cars in its second market."
