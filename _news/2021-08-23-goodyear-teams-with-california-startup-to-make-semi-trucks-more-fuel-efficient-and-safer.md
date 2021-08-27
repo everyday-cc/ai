@@ -7,7 +7,7 @@ originalUrl: "https://www.bizjournals.com/cleveland/news/2021/08/23/goodyear-tea
 webUrl: "https://www.bizjournals.com/cleveland/news/2021/08/23/goodyear-teams-with-company-with-ties-to-china.html"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -16,36 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Goodyear Partners with Self-Driving Truck Technology Firm"
-    excerpt: "Goodyear Tire & Rubber Co. has formed what it calls a strategic collaboration with Plus, a global provider of self-driving truck technology."
-    publishedDateTime: 2021-08-23T19:23:00Z
-    webUrl: "https://www.moderntiredealer.com/articles/32349-goodyear-partners-with-self-driving-truck-technology-firm"
-    type: article
-    provider:
-      name: Modern Tire Dealer
-      domain: moderntiredealer.com
-    quality: 24
-    images:
-      - url: "https://www.moderntiredealer.com/ext/resources/2021/08/05/MTD_1CV_0821.jpg?1628173365"
-        width: 300
-        height: 410
-        isCached: true
-  - title: "Goodyear collaborates with Plus on self-driving trucking tech"
-    excerpt: "Goodyear will supply a suite of services including connected tires to improve the safety for semi-trucks powered by Plus’ Level 4 self-driving technology. This will also help to reduce the carbon impact."
-    publishedDateTime: 2021-08-26T14:20:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17111/goodyear-collaborates-with-plus-on-self-driving-trucking-tech"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 24
-    images:
-      - url: "https://electronics360.globalspec.com/images/assets/111/17111/Plus_Become_Publicly_Listed-16-3e88642123.jpg"
-        width: 752
-        height: 470
-        isCached: true
 
 secured: "x63p8tJIQt+8RGjUZ7hDGx+2XSnb6vfVSD982zjEd22zEGRWjnMmgtJfGWB1RuVwyrcV0xshRymIazwYe64fiZHTyvTR3iYNCet5+GAKy4V6JMcLLf5qmR+qm2/fLqmHHdkiuKf/5wcMzCeXH46/5FyoRmxcoaVSKCSm2WTLfstaj5K+/Uk2+O1rhu+SZ6T9FAOZVYRAheuTV9E6eHyC0MCxyLVbz4VitpX5A/lICh9tcQeuXPoTLviL4W5BbyGOFJLX+2KG0bSqPs/W7Rv9Ushrak3Iar9HYr0UtU8c8LH0wuin2h4AF4X1D/RuZVdbPj3ixpBme0VM1QzbnUBQnUI6+KdvPCwcmGe1Cnfx35HMVGq5iSMHnaVyFwTF6Vo6qVgFTZMH91Aey66PJYdlemVHO2m8/ROza9/csV6E8m6wG/znoGG3jgbTGnJmH2HWSq9MwzAbRR5iGd3VS2N3TN7Pml2eCDo+CIY3bgZrcmgskfUZQoevQXc+TuoJSqjsSu/x6z63Otef7hutJjO1mA==;di1375nLT77b3e4IkJKOIg=="
 ---

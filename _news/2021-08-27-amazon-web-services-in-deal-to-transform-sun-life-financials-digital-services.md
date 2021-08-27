@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/amazon-web-services-in-deal-to-trans
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-web-services-in-deal-to-transform-sun-life-financials-digital-services-2021-08-27?amp"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -22,6 +22,20 @@ topics:
   - AWS AI
 
 related:
+  - title: "Amazon Prime – Sun Life Taps AWS as Its Long-Term Strategic Cloud Provider to Transform Digital Services"
+    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
+    publishedDateTime: 2021-08-27T07:56:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_amazon-prime/amazon-prime-sun-life-taps-aws-as-its-long-term-strategic-cloud-provider-to-transform-digital-services/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 24
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/1630051007_AWS_logo_RGB.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Sun Life Taps AWS as Its Long-Term Strategic Cloud Provider to Transform Digital Services"
     excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Sun Life (TSX: SLF) (NYSE: SLF) has selected AWS as"
     publishedDateTime: 2021-08-27T04:01:00Z

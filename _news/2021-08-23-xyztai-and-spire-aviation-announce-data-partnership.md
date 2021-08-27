@@ -40,6 +40,20 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "Sun Life signs with AWS"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Sun Life (TSX: SLF) (NYSE: SLF) has selected AWS as its long-term strategic cloud technology provider to become a cloud-first organization,"
+    publishedDateTime: 2021-08-27T14:06:00Z
+    webUrl: "https://www.finextra.com/pressarticle/89061/sun-life-signs-with-aws"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
 
 secured: "+qLvrJfRM/qRnalnFUmCn4rOEIR/II9SPcf2MGjeE+uAgFNHKctksOXHpHLjOcjZ+Ft0mQHcFoYxcJLj97WhMbX2OnoxX+mth+tHiCJx2Mye+uTlZIG7Tjto+KxtoDQD5G9giyiVRflur2XlD9QUS2arBfxBKBI2jN1O4170hAxssSeB7XnCA5TAU82Q4I85iruSSbfdwdOJ0pAsWadGmZ7dPUKF0EsrzHluF4UjaoWDBCaV+QaJzJEUvSFVmS3SKsqou8AxUiGUrPdRklyVM1sv42aZ5Ym5e9gV+mfkqGIKWG3qy92PHuWd31p6/gESHiwdWz/DvjXYtAWWsan3elUPLwkfQ4GDX4O8UgLB9Pc=;AckOBeQnXc7JqygP3cdU+w=="
 ---

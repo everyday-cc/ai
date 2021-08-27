@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Global Industry Analysts Predicts the World Cognitive Services Market to Reach $29 Billion by 2026"
-excerpt: "A new market study published b Inc., (GIA) the premier market research company, today released its report titled \"Cognitive Services"
-publishedDateTime: 2021-08-24T14:20:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/global-industry-analysts-predicts-the-world-cognitive-services-market-to-reach-29-billion-by-2026/article_9c385638-fa60-5a72-b426-af194d05e231.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/global-industry-analysts-predicts-the-world-cognitive-services-market-to-reach-29-billion-by-2026/article_9c385638-fa60-5a72-b426-af194d05e231.html"
+excerpt: "Companies: 42 - Players covered include Amazon Web Services, Inc.; Apple, Inc.; Attivio, Inc.; Baidu, Inc.; BMC Software, Inc.; Clarifai, Inc.; CognitiveScale; Expert ..."
+publishedDateTime: 2021-08-24T14:52:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-industry-analysts-predicts-the-world-cognitive-services-market-to-reach-29-billion-by-2026/article_9c385638-fa60-5a72-b426-af194d05e231.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-industry-analysts-predicts-the-world-cognitive-services-market-to-reach-29-billion-by-2026/article_9c385638-fa60-5a72-b426-af194d05e231.html"
 type: article
 quality: 25
 heat: -1
@@ -155,7 +155,7 @@ related:
   - title: "United States Automotive Voice Recognition Systems Market Report 2021 - Forecast to 2026 - ResearchAndMarkets.com"
     excerpt: "The “Automotive Voice Recognition Systems Market Research Report by Deployment, by State - United States Forecast to 2026 - Cumulative Impact of COVID-19” report has been added to ResearchAndMarkets.com’s offering."
     publishedDateTime: 2021-08-24T14:32:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-united-states-voice-recognition-020d4caabfe8456fbe7b0856bbb2bf8f"
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-united-states-voice-recognition-020d4caabfe8456fbe7b0856bbb2bf8f"
     type: article
     provider:
       name: Associated Press
@@ -195,6 +195,6 @@ related:
         height: 339
         isCached: true
 
-secured: "7glwTAjwTLsgg3rFxArU2cIGHXFo6ww7nv4aDcTbkq202qNdDsAPBgOIhskuIbpxqOPLd0VsOlcNShs1Gh/dVhYdICw4hLgQRR9+2LCp3BCK4bHxa1jJoye5iwwsz17LCGAb9reqKuwRybwkNvd1pHCzx3DGs2XiQMHVpZm5Ps4zHTlGY+9T+mH2VldlhqiYJfyNh9gKQqs0jRoBvku2BMGRNvm5SNN2+NTyyqNKz2LDiaQRaTnYGmSEruKF+7+WRp/iq10XYPpCHoVdsk2/irfeUCmlFtyGuKUPGoh4lmpmJK4094p3a1zAQ952Ctm5diqMwdMDjESLK/Jcgl1jQiALgHniKUyelYQo2KATpcU=;LkaGeECHULx9a3mWX+YK2g=="
+secured: "FlOhO0mmgwqRgvrCJ+5aifOFW5FL2eY4nF+/UkFINI6pP2s2dUHUO++OwwcN+KsPTkpuoL9RsEWWZnktsukz5vE9VCkVQYDD3N+/rYG60d/6rC2inD0XAd0fWMkLHzMneMJKiOElgktqg1nLQBph4q15R8vhEqlMrE8XlA2U4VFSV4JvgJr7RWFZQYrFGN69SVcN7gdofCj60THNrMkioKWofpAFHsmK352jx+Jh6CWTFPqepph3hw/Z57XO1Vg0DzKSnb3aeOJN2aKoBaDpYJ7Qlx5VUH+vvuY6LTe3bHZK6PY5CAt39TcSnOzCX49nmnk5jgwILxkFMHYF2fQqr2JOzRnTTYzX0DgbFigZUtE=;ZmGsOab6cZ8wxigZUqAsyA=="
 ---
 

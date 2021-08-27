@@ -77,6 +77,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Cerebras Upgrades Trillion-Transistor Chip to Train ‘Brain-Scale’ AI"
+    excerpt: "Cerebras has outlined a series of innovations that mean its latest chip can train a neural network with up to 120 trillion parameters."
+    publishedDateTime: 2021-08-27T14:16:00Z
+    webUrl: "https://singularityhub.com/2021/08/27/cerebras-upgrades-trillion-transistor-chip-to-train-brain-scale-ai/"
+    ampWebUrl: "https://singularityhub.com/2021/08/27/cerebras-upgrades-trillion-transistor-chip-to-train-brain-scale-ai/amp/"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/08/27/cerebras-upgrades-trillion-transistor-chip-to-train-brain-scale-ai/amp/"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 74
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2021/08/cerebras-chip-AI.jpg"
+        width: 1068
+        height: 601
+        isCached: true
   - title: "Cerebras Systems Connects Its Huge Chips to Make AI More Power-Efficient"
     excerpt: "Cerebras Systems, the Silicon Valley startup making the world's largest computer chip, said on Tuesday it can now weave together almost 200 of the chips to drastically reduce the power consumed by artificial-intelligence work."
     publishedDateTime: 2021-08-24T21:22:00Z

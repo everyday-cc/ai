@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Arab Bank To Back Egyptian FinTech, AI And Cybersecurity Startups"
+    excerpt: "Arab Bank has launched an Egypt branch of its FinTech, artificial intelligence (AI) and cybersecurity accelerator that focuses on early-state startups."
+    publishedDateTime: 2021-08-22T23:23:00Z
+    webUrl: "https://www.pymnts.com/startups/2021/arab-bank-back-egyptian-fintech-artificial-intelligence-cybersecurity-startups/"
+    ampWebUrl: "https://www.pymnts.com/startups/2021/arab-bank-back-egyptian-fintech-artificial-intelligence-cybersecurity-startups/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/startups/2021/arab-bank-back-egyptian-fintech-artificial-intelligence-cybersecurity-startups/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 74
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/08/Egypt-Arab-Bank-startups-accelerator-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Fintech-focused Corporate Accelerator Program Launched in Egypt by Arab Bank"
     excerpt: "Fintech-focused corporate accelerator program launched in Egypt by Arab Bank. Initiative will support adoption of modern financial services."
     publishedDateTime: 2021-08-24T02:37:00Z
@@ -41,19 +57,35 @@ related:
         width: 300
         height: 219
         isCached: true
-  - title: "F10 launches new fintech accelerator in Madrid"
-    excerpt: "F10 Spain announces seven growth-stage WealthTech and RegTech startups selected from over 150 national and international applications, joining the first cohort of its newly designed Acceleration Programs."
-    publishedDateTime: 2021-08-25T09:53:00Z
-    webUrl: "https://www.finextra.com/pressarticle/89028/f10-launches-new-fintech-accelerator-in-madrid"
+  - title: "Threat hunting cybersecurity startup Hunters raises $30M to drive innovation"
+    excerpt: "Threat hunting cybersecurity startup Hunters today announced that it has raised $30 million in new funding to increase its headcount, drive innovation, enhance customer satisfaction, increase market reach and support partner expansion."
+    publishedDateTime: 2021-08-24T13:00:00Z
+    webUrl: "https://siliconangle.com/2021/08/24/threat-hunting-cybersecurity-startup-hunters-raises-30m-drive-innovation/"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
     images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/hunters.png"
+        width: 803
+        height: 554
+        isCached: true
+  - title: "Today in Payments Around the World: Accelerating Egyptian AI and Cybersecurity Startups, Paysafe Acquires German Platform"
+    excerpt: "Today in payments around the world, Paysafe buys Germany's viafintech, Arab Bank debuts AB Accelerators in Egypt and HSBC introduces mobile payments in Qatar."
+    publishedDateTime: 2021-08-23T20:43:00Z
+    webUrl: "https://www.pymnts.com/news/international/2021/today-in-payments-around-the-world-accelerating-egyptian-ai-and-cybersecurity-startups-paysafe-acquires-german-platform/"
+    ampWebUrl: "https://www.pymnts.com/news/international/2021/today-in-payments-around-the-world-accelerating-egyptian-ai-and-cybersecurity-startups-paysafe-acquires-german-platform/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/international/2021/today-in-payments-around-the-world-accelerating-egyptian-ai-and-cybersecurity-startups-paysafe-acquires-german-platform/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 34
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/08/HBSC-Qatar-457x274.jpg"
+        width: 457
+        height: 274
         isCached: true
   - title: "GIZ and Fintech Egypt to Launch Free Summer School Webinar Series"
     excerpt: "The series will cover cybersecurity, AI and machine learning, open banking, regtech, and blockchain. The international development wing of the German government, GIZ, is partnering with tech ecosystem platform Fintech Egypt to co-launch the GIZ Finance Summer School,"
@@ -68,6 +100,20 @@ related:
       - url: "https://cairoscene.com:443/Content/Admin/Uploads/Articles/ArticlesMainPhoto/1130514/4e77e402-de61-46aa-a5c6-316a6c1686df.jpg"
         width: 800
         height: 491
+        isCached: true
+  - title: "How Instant Cybersecurity Data Intelligence Will Stop Ransomware Attacks"
+    excerpt: "Machine learning alone will not stay the course. Natural language processing and artificial intelligence will make it possible to instantly gain visibility into a business environment, detect insider threats, and evaluate the impact of emerging cyber ..."
+    publishedDateTime: 2021-08-27T01:41:00Z
+    webUrl: "https://www.thefastmode.com/expert-opinion/20640-how-instant-cybersecurity-data-intelligence-will-stop-ransomware-attacks"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 23
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/598d8ed3469b2cfabea8850e055b21e5.jpg?t=20210826_122631"
+        width: 1126
+        height: 550
         isCached: true
 
 secured: "lT/v41xeeo7FDrDNyW5CYT2hB/AoWV5zvrAeGr989JDSbF06UAAM47D6b5DyFIO469rmaGX6XVz+IJPXXiUGO8n+y7kSq6xtrhJzamVgrlxFbxLtCt26qKhtAX6MhyYouyEYDp/pP+HF+NvlttqPXF0LyhXRebEo0q7Kq9zl/jHDz7IHnHly0RfWpD+ebGLoOynwQsRQazYewAM7a8mNKXRGe2EUbpWd6s/m40L1p0TaOf9sZLbzL4JhN7BMJRa9e1Qp8rgrSPL6k3JFrl1fCXOp++h3F63DOCag3MN6hpyyI/s9wuMPP9++oHHo6v8+JB2RCLb6GbREs1P8rsSbBwLLDcMj+1rHRngNyl7/zxcgsqCqASyT+2RKxehz7UsbAKpeE4HVFkeengaSkUEPMPjH0shIa+7vOb4Zhif/EszPmy5BA1JZjAvcL8nMVmSDEx/sWbB/VnD+YTV/CLcMFmmPjEwtqFAv80kc8PxEJmza7yyPAqN+NrojVMApZschkvDrFgoqJoLjLdrGHdMwvQ==;tptbhC05J009WrhtqPhRow=="

@@ -57,22 +57,6 @@ related:
         width: 1620
         height: 1080
         isCached: true
-  - title: "Xiaomi to acquire self-driving startup Deepmotion for $77.4 mn"
-    excerpt: "Xiaomi is reportedly planning to buy an autonomous driving technology based startup called Deepmotion for $77.4 million. The deal happens as the company gears up to enter the electric vehicle market,"
-    publishedDateTime: 2021-08-27T08:47:00Z
-    webUrl: "https://www.thestatesman.com/technology/xiaomi-acquire-self-driving-startup-deepmotion-77-4-mn-1502999630.html"
-    ampWebUrl: "https://www.thestatesman.com/technology/xiaomi-acquire-self-driving-startup-deepmotion-77-4-mn-1502999630.html/amp"
-    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/xiaomi-acquire-self-driving-startup-deepmotion-77-4-mn-1502999630.html/amp"
-    type: article
-    provider:
-      name: The Statesman
-      domain: thestatesman.com
-    quality: 44
-    images:
-      - url: "https://www.thestatesman.com/wp-content/uploads/2021/08/6769e70b8ff19c22c6c12a03436dd819-1-1-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Xiaomi to acquire self-driving startup Deepmotion"
     excerpt: "The deal happens as the company gears up to enter the electric vehicle market, reports GizmoChina. Deepmotion develops driver assistance software."
     publishedDateTime: 2021-08-27T09:00:00Z
@@ -119,6 +103,15 @@ related:
         width: 728
         height: 300
         isCached: true
+  - title: "Xiaomi to acquire self-driving startup Deepmotion for $77.4 mn"
+    excerpt: "Leg-spinner Yuzvendra Chahal's maiden six-wicket for India as the hosts beat England by 75 runs in the third and final Twenty20 International"
+    publishedDateTime: 2021-08-27T15:57:00Z
+    webUrl: "https://netindia123.com/articles/showdetails.asp?id=3809846&n_date=20210827&cat=Science"
+    type: article
+    provider:
+      name: Net India 123
+      domain: netindia123.com
+    quality: 4
 
 secured: "w739U5W0zoyXNYaMpf0YYe7fUIZdsumMAzaXcxZk7J/CwV9AzKrrnH2huNpTvDKDE0fdFIWkzLtrKLrq0m7l1NQ+Z7FKsDhIbihQOcML6XvZTFxohT7UrVXzZvZDp8UR/Nl2+DTql+hHJ1+O2GCM9400ise7woZZKYsGUB+I1yOgEtRlt3w5X/pl5BFB7bsBdeK6/RIqsVew/REJieUjblYG2UCDcXASEsxsO1zxoNbuJYuEv7AoG/pbtp+dmOVk03DPzOnQcg6QZNGVJxUx1mRuFqNOkXAkfmJR+QAT2KXxIwMmrUotiiimc4rXKG23S8dB2Bg52ZhAgSs4ptiDErzsKXV0SPaQ45akF8iGaemOs4js7wSPgxCzlT4gvT9VVHXvGyEEREvXwd6HLPjtwL3Marrd230Y2I4zWvEo+AoPpXjHO2Se8uxdfwLc0N4jC0qlnjTYAdDAFHLGpahcnrcHOLcHsXHeW8Yo6YjM59oLBcePutiUfGCUuWaWNPDW9nefhO8PdNm7s6yBJEr8Hw==;Nam2Dzv9Xx2N5yo8M/Y+0Q=="
 ---

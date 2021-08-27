@@ -59,22 +59,6 @@ related:
         width: 1620
         height: 1080
         isCached: true
-  - title: "Xiaomi to acquire self-driving startup Deepmotion for $77.4 mn"
-    excerpt: "Xiaomi is reportedly planning to buy an autonomous driving technology based startup called Deepmotion for $77.4 million. The deal happens as the company gears up to enter the electric vehicle market,"
-    publishedDateTime: 2021-08-27T08:47:00Z
-    webUrl: "https://www.thestatesman.com/technology/xiaomi-acquire-self-driving-startup-deepmotion-77-4-mn-1502999630.html"
-    ampWebUrl: "https://www.thestatesman.com/technology/xiaomi-acquire-self-driving-startup-deepmotion-77-4-mn-1502999630.html/amp"
-    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/xiaomi-acquire-self-driving-startup-deepmotion-77-4-mn-1502999630.html/amp"
-    type: article
-    provider:
-      name: The Statesman
-      domain: thestatesman.com
-    quality: 44
-    images:
-      - url: "https://www.thestatesman.com/wp-content/uploads/2021/08/6769e70b8ff19c22c6c12a03436dd819-1-1-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Phone maker Xiaomi propels EV ambitions; to buy self-driving tech startup"
     excerpt: "Xiaomi has already pledged an initial investment of $10 billion over the next decade in the field of electric vehicles..The smartphone maker has started a hiring spree of 500 engineers for the EV project."
     publishedDateTime: 2021-08-26T15:58:00Z
@@ -119,6 +103,15 @@ related:
         width: 728
         height: 300
         isCached: true
+  - title: "Xiaomi to acquire self-driving startup Deepmotion for $77.4 mn"
+    excerpt: "Leg-spinner Yuzvendra Chahal's maiden six-wicket for India as the hosts beat England by 75 runs in the third and final Twenty20 International"
+    publishedDateTime: 2021-08-27T15:57:00Z
+    webUrl: "https://netindia123.com/articles/showdetails.asp?id=3809846&n_date=20210827&cat=Science"
+    type: article
+    provider:
+      name: Net India 123
+      domain: netindia123.com
+    quality: 4
 
 secured: "xvUHVoSLFactrYIANOab5S579xZXUA8Z11jUEBtXXZUsO73stYO4zQcKDOcGNz1CSdSRTmdvduWxstqlRKWzBDh5pZQP2w+9FCpLHHav5nKjIuvV4HbSp4z0wPOaENH1yEQeV54b45LZc/Z0g8ft+pkYdiSDELnzuD6zR4ZjVu3oAxyz2M9zy/1/8zUT6VzTVImYP2EBR6FPn1FpT2fAiF5QRk+gkAnNBwYKXglQ7XKRQuDRoItiCHVt9/X4qbnR8OuOFp3uyQM9jVjnP1bAEKmbEb2xeHuKcgRxeqGjADOSpgPW7MHbUhAgB2p/378b/7uM0RHhlcbQeznbt7xNO3eP2w2t0dZwjplVKqZ3N8E=;+lU26aFe8FH0IQx/k0xhbg=="
 ---

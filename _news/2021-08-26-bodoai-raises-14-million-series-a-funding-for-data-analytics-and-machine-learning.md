@@ -202,6 +202,20 @@ related:
         width: 400
         height: 271
         isCached: true
+  - title: "Coronavirus Roundup: Questions on Vaccine and Testing Programs for Feds; COVID Oversight Committee Boosts Use of Analytics and AI"
+    excerpt: "Professional organizations that represent federal managers are worried that there are still some unresolved issues with the vaccination attestation and testing process for federal employees, Federal News Network reported on Wednesday."
+    publishedDateTime: 2021-08-27T15:30:00Z
+    webUrl: "https://www.govexec.com/management/2021/08/coronavirus-roundup-questions-feds-vaccine-and-testing-programs-covid-oversight-committee-boosts-use-analytics-and-ai/184907/"
+    type: article
+    provider:
+      name: Government Executive
+      domain: govexec.com
+    quality: 8
+    images:
+      - url: "https://cdn.govexec.com/media/img/cd/2021/08/27/082721vaccine/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "nv+lgn+uk/3oMZ08W48kUqVaTi+8aGBGqdzfnJh5vdn+G4bJvOF5GH/P8UFB3NlklAE96WsWazX4hcMfp8caXgJEvhM+OEU1d887d36nYnFZE38Ybvx8K51GEg9bu7mdLiq/PFRHvKwM3O1fjMXyXpPon6RMwuCQYnMdMy5nthYJgw87DvSTmVXuRXn768rrKhQQwR7gqXBMP36n0G2oN6Mg0spoendwVjMLxyLrAjV4RDmFwpNVkTOkeUSWh+IbflgR/y+ZtK9ZcV9cXh4FRvF2cnA9AMIRVvKsAfkfPZjOo2EpjQY89GjOkNal7m6PwzDymCp0hP//dDIegLk0u2DfBlb0MtKQfSUKbsczQfw=;iyhC9ixaE/WjGbJKhBhhrQ=="
 ---

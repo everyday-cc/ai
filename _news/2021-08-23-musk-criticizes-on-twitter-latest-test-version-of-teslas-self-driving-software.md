@@ -346,6 +346,20 @@ related:
       name: Futurism
       domain: futurism.com
     quality: 39
+  - title: "Tesla's Full Self-Driving Tech 'Not Great'"
+    excerpt: "And based on comments made last year, Musk gave the impression that full self-driving was coming up fast. That’s why it was even more surprising when Musk Tweeted on Monday that Tesla’s latest full self-driving beta version 9."
+    publishedDateTime: 2021-08-27T14:42:00Z
+    webUrl: "https://www.manufacturing.net/video/video/21627305/musk-teslas-full-selfdriving-tech-not-great"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 39
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2021/08/MM_259_Thumb.6126549164c0b.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Tesla Plans To Have Its Full Self-Driving Beta Ready For Public In Four Weeks"
     excerpt: "Tesla plans to have its Full Self-Driving beta ready for the public in four weeks. Here are all the details on this."
     publishedDateTime: 2021-08-26T15:11:00Z

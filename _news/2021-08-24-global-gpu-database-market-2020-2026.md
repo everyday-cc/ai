@@ -20,6 +20,22 @@ topics:
   - AI Hardware
   - AI
 
+related:
+  - title: "Global $125+ Billion Database Management System (DBMS) Markets to 2026 with Oracle, Microsoft, IBM, SAP, Amazon AWS Dominating - ResearchAndMarkets.co"
+    excerpt: "The \"Global Database Management System (DBMS) Market Report and Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The global database management system (DBMS) market attained a value of approximately USD 63."
+    publishedDateTime: 2021-08-27T15:26:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=522548"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 16
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
+
 secured: "P7WQBer8d8M6oddy7jgc+pQ/KpqOR+nH2px6X2yquaQYR1Q4t4XY/4fCAfnMGoOAPkpFFfh227zEEY/3Pn80Q82QjSQNYVUKa6ch+59wsWhmDJtio24nwgLMpH6Cyrc77gbyLJXmPH70/FfkcNs5GuYh2NHTAvNRF94/5mFZqtbvP6KHaof3YJqtL05TH9fz+Ui58ApZ2F6BpjNSu7OZB4MbO1nnNoG+a9VCjieIVH4I/MKnf7h1Jf9g2ZOhzBWwYQQf5t6J29kGwTNvzavkyJn8L0Z90L1PfQ3Y+1aIv6VlmQgIzxyHw0UQikVwLPBykJaa/6WnEZeyNHw8gZqpLid0QL9CZowab08HbTxERbc=;joEfGuldk62UOcfWxSw41w=="
 ---
 

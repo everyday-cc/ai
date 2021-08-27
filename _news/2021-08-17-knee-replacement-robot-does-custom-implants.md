@@ -3,10 +3,10 @@ category: news
 title: "Knee replacement robot does custom implants"
 excerpt: "Personalized medicine is transforming treatment, but joint replacement is still a largely off-the-shelf affair. A startup combining artificial intelligence, robotics, and 3D printing wants to change that,"
 publishedDateTime: 2021-08-17T04:00:00Z
-originalUrl: "https://www.zdnet.com/index.php/recent/index.php/article/knee-replacement-robot-does-custom-implants/"
-webUrl: "https://www.zdnet.com/index.php/recent/index.php/article/knee-replacement-robot-does-custom-implants/"
-ampWebUrl: "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/knee-replacement-robot-does-custom-implants/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/knee-replacement-robot-does-custom-implants/"
+originalUrl: "https://www.zdnet.com/index.php/article/knee-replacement-robot-does-custom-implants/"
+webUrl: "https://www.zdnet.com/index.php/article/knee-replacement-robot-does-custom-implants/"
+ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/knee-replacement-robot-does-custom-implants/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/knee-replacement-robot-does-custom-implants/"
 type: article
 
 provider:
@@ -27,6 +27,6 @@ images:
     height: 991
     isCached: true
 
-secured: "cNx9JljMMo0C8jj4zYyKTjd2iaYoTPRtR0yw5kGbaCbK+wJ58Ofj2pSEVdtV/U4J2ImpSq1V5WMlwC+fi+BZSJw8VKyP/snmRgqXV+42rqQPa1Gju9m3EjuPuZWWGNv6LMwIxfha73N3j1UYffRxZkK4+nZKIVrU1pN87wg8HmRe/ugH/3cLFmyBtOxWwFojA3AidtQSL45J9NkHqwxB2met0QbceeOx+c67bcj9uNxSCkdvWbRaIhkZLXeCGuGZG7CTnrFW0U5MU1fjWlPV/Q4Snz4B0t2VW2TV5b7s05xzu2FPLwdFFDxMMQjmJ89mgg+Efwko0rw636iSIQKRftZ2Ifq4klouaZqW+V0i9mhh/Iuk6yYaroCneXY8NyCNMbGUdjY5jaMXEQsks/ye/gSKQSEXpWww6ecE23DA71cdQEu2oksAf9+olibe4MCtpqO+Zop+VDpDnHnVxkx8r9sGlfDAlaJ79SApX3aI4RFfJIA2okPAKJR0YTpBjEL0QiSiUWte3MEjW1W6TvByjA==;0cbZ2XI4JECirWuCaPZnLw=="
+secured: "aOOIX1FXXDfI5cjx3aoCA7rBz62btHgs2lx8eXO4ucNGnbqp2hXEhm5L7Mhr4fFRHjUBN8S4nU08iauaEKqV6jrnJ5c6+EsK3kiKeVueyH3FHHy301VZFnTeSooPd/WaNgNNN5bzw2jTygcu5JaSAqYxPZJGWXq2NEL9jyyysTLWPl4mfa0JaaBf/mOQVnyn8lx5pwsl4RNQZ3ds/Y4Cc/+w0zik5evOQP5AlQymixHcaMa4aDjeroIHEPGiAzQC/61wbo5z9XuAPzCes4/lC9OYfhSO6DHXDel1coKlgH2HXKm1wGKeMeF7WvvzWy9WabP55+8y98uYb+vAxFfmG78dabvW/ujjIuIn4AZuMIc=;1ARkaf3fxq30pvh27RmR5w=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/25/hybrid-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/25/hybrid-ai-is-the-future-of-industrial-analytics/amp/"
 type: article
 quality: 91
-heat: 223
+heat: 233
 published: true
 
 provider:
@@ -205,6 +205,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1599563/MCP11132.jpg"
         width: 400
         height: 271
+        isCached: true
+  - title: "Coronavirus Roundup: Questions on Vaccine and Testing Programs for Feds; COVID Oversight Committee Boosts Use of Analytics and AI"
+    excerpt: "Professional organizations that represent federal managers are worried that there are still some unresolved issues with the vaccination attestation and testing process for federal employees, Federal News Network reported on Wednesday."
+    publishedDateTime: 2021-08-27T15:30:00Z
+    webUrl: "https://www.govexec.com/management/2021/08/coronavirus-roundup-questions-feds-vaccine-and-testing-programs-covid-oversight-committee-boosts-use-analytics-and-ai/184907/"
+    type: article
+    provider:
+      name: Government Executive
+      domain: govexec.com
+    quality: 8
+    images:
+      - url: "https://cdn.govexec.com/media/img/cd/2021/08/27/082721vaccine/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "hMn/gUzQIZWo9hSjbgWH0rik4enVs6mN1nI20Gf2ExE1Bd6AhrWUAodSULBakvcmcczbLcxBbpfu4QUc+pkcojxHQaytNUfQh2FVvbTKK56BSas08J4UnZo5/U5h1uShGa0wLcB4oWqTssDfBmddbd6RsNx8hTzlg7QjolAcK+PvjPMmuD6bSPD9ux17Af1Wq6+P+kyhkyMrvfpNGalX3B93eRRCdUP1ntt0v8HBH03V1TRHuPteoghvnSmRdvUbLMdHEva4M+KUONdGom4ar3Od9UDZUCxQ1vCK4DNY1a5eoW1em/0QftxgYUmXjIuoyYs5BrUa15Uu6rTVmXZm3p4Ss4dsQtVlZigLdjkNXiCqCXwygzOMJZ1bzTTqn7t9VjRwv2LfI4tzhNF+Xemd9XUIbPbvDPHpFAmkDptAfvm0JdYlNS/8me3p0cHxwYSd+H+jhuUAoNwRGxHm61LqGwpgj0J4RnUYYeJP98g+j8G/Bb6fEIexZG1VAZ3nU3FuDBrqJSGD+eDrxGf430KjsQ==;nDCkT75ShDuhdLEFMYxZlw=="

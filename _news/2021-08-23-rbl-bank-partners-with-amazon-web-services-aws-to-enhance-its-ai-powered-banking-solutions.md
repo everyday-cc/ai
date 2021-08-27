@@ -9,7 +9,7 @@ ampWebUrl: "https://www.goodreturns.in/amphtml/news/rbl-bank-partners-with-amazo
 cdnAmpWebUrl: "https://www-goodreturns-in.cdn.ampproject.org/c/s/www.goodreturns.in/amphtml/news/rbl-bank-partners-with-amazon-web-services-aws-to-enhance-its-ai-powered-banking-solutions-1221062.html"
 type: article
 quality: 95
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Sun Life signs with AWS"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Sun Life (TSX: SLF) (NYSE: SLF) has selected AWS as its long-term strategic cloud technology provider to become a cloud-first organization,"
+    publishedDateTime: 2021-08-27T14:06:00Z
+    webUrl: "https://www.finextra.com/pressarticle/89061/sun-life-signs-with-aws"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
   - title: "xyzt.ai and Spire Aviation Announce Data Partnership"
     excerpt: "The pairing will offer a data visualization demo to unlock insights powered by Spire’s satellite-based global air traffic data and xyzt.ai visual analytics platform. Leuven 18 August 2021 – xyzt.ai, a Leuven-based high-tech company offering an innovative visual analytics SaaS (Software as a Service) platform for big location data,"
     publishedDateTime: 2021-08-23T13:07:00Z

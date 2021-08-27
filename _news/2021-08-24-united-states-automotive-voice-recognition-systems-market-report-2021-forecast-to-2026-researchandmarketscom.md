@@ -3,8 +3,8 @@ category: news
 title: "United States Automotive Voice Recognition Systems Market Report 2021 - Forecast to 2026 - ResearchAndMarkets.com"
 excerpt: "The “Automotive Voice Recognition Systems Market Research Report by Deployment, by State - United States Forecast to 2026 - Cumulative Impact of COVID-19” report has been added to ResearchAndMarkets.com’s offering."
 publishedDateTime: 2021-08-24T14:32:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-united-states-voice-recognition-020d4caabfe8456fbe7b0856bbb2bf8f"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-united-states-voice-recognition-020d4caabfe8456fbe7b0856bbb2bf8f"
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-united-states-voice-recognition-020d4caabfe8456fbe7b0856bbb2bf8f"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-united-states-voice-recognition-020d4caabfe8456fbe7b0856bbb2bf8f"
 type: article
 quality: 3
 heat: -1
@@ -97,9 +97,9 @@ related:
         height: 387
         isCached: true
   - title: "Global Industry Analysts Predicts the World Cognitive Services Market to Reach $29 Billion by 2026"
-    excerpt: "A new market study published b Inc., (GIA) the premier market research company, today released its report titled \"Cognitive Services"
-    publishedDateTime: 2021-08-24T14:20:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/global-industry-analysts-predicts-the-world-cognitive-services-market-to-reach-29-billion-by-2026/article_9c385638-fa60-5a72-b426-af194d05e231.html"
+    excerpt: "Companies: 42 - Players covered include Amazon Web Services, Inc.; Apple, Inc.; Attivio, Inc.; Baidu, Inc.; BMC Software, Inc.; Clarifai, Inc.; CognitiveScale; Expert ..."
+    publishedDateTime: 2021-08-24T14:52:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-industry-analysts-predicts-the-world-cognitive-services-market-to-reach-29-billion-by-2026/article_9c385638-fa60-5a72-b426-af194d05e231.html"
     type: article
     provider:
       name: WFMZ-TV
@@ -195,6 +195,6 @@ related:
         height: 339
         isCached: true
 
-secured: "KtunR7sMzWoH8dQSqjuTwC7czK0g9bx4Vx732g9kkclqaRgBwV2NN2IY57F0usKaH9du0OA/ELkxaBsr+FepgqG9YwY8Yd3O+YX5yY369mqetVzGnZNZj7brOJS7ip0zxCMvyjUJ5HRlNfbBzjzqwXSDfHKc3lWZpsSXykHjNPMOiuGJcqtQTrPi0gSgg7eVrCU3YDlnKULHKmP4Uucwxy6rCEAM+D8OA46EUgFX8PaLfhS7zo2xksZgzN/oUo4cQ+qhXYxYdO0JqahI9CaKzWiteXW48+d7cqv9s0Fs/Z5gtIP1JGHUJx8VNsfVFk5TaN5Tp46TIthfNGIFwMUFqxLWxN6k4HNSfWHplKX4xMo=;UzwR/pnkt1/JH9pbELuU5g=="
+secured: "JpRuTvUwY54Qtb5sGelBOJP7T5aaqWzKUlsSFVEvfb+0kJq6ObdZbgSkOVRO2ns2PcELNaOlR52AXjQb63zIetJ95taUlb4xs/Vn2UODyjpYXjVltpiQUB3l93IlUgcVYPTkXrIEXFn8R/2sFGkapbYwYGFC34FH1WrEtfOR3lEutCVok79j33B2j8ktkgiTVDXqJL9RXsuJuwMPD1Gc8FAsKtfnq1gN3jj7fS5P9ghr6NDdUj924qQh3iAHip/vi2ocA2k7C2gftnUBwVTAwrzsWM0xky8Rjwvec97ceTX7YA2cRrefARlH93YCL2WmbfxitX8dNdsBOzssS0aEDDL1XVO0qi8pK+7V2gcYFWc=;u/qadOOJO9Xgn9JHWuXRLw=="
 ---
 

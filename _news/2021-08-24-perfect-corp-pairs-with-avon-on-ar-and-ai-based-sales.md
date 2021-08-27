@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/retail/2021/perfect-corp-pairs-with-avon
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/perfect-corp-pairs-with-avon-on-ar-and-ai-based-sales/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 457
     height: 274
     isCached: true
+
+related:
+  - title: "Incorporating 3D artificial intelligence with AR and VR technology"
+    excerpt: "An opinion piece on Incorporating 3D artificial intelligence with AR and VR technology within the smart industry."
+    publishedDateTime: 2021-08-27T15:35:00Z
+    webUrl: "https://thearea.org/ar-news/incorporating-3d-artificial-intelligence-with-ar-and-vr-technology/"
+    type: article
+    provider:
+      name: The AREA
+      domain: thearea.org
+    quality: 39
+    images:
+      - url: "https://thearea.org/wp-content/uploads/2021/08/AREA-News-Posts-11.png"
+        width: 1080
+        height: 1080
+        isCached: true
 
 secured: "FMYHZinkGfJIovYCOKehzsLbzxtQyj2cWzW4LGhyq40pdTnbSyfEZXCWV1XVs4G0vADCnE/o8pOkhTuCQlhEoh7d70CZT2BNZigjq8aVuQ2sEAtkvCLYQY8Rfm7w9VVsHb1VVQTDC+4hkhBNKcm3QVxdVIV+FUSSzQ15Nft21EqPh8YaTw5okhYzGsUcrrz85XtQod3ghfxGAp8J+FfjGiGwIKt5UDglXtHZXZYbRpDO7uVcCP6p/WvBBK2qxgs9ZhCoYYqRKaauCia9SJFcY9RKbvretmRPTXL+kuCHxgGDNp8mC2G5ypszViQ9t/DexkrcAWSynpt8vLN5KMlIsaGM3EO35TKtN9xp7wcgoP25P2ri7gFIicPO7uLtNhtVfKSpmEg/Fq27JDxL0MGMN+8BRjxu6j5YPhJOPWldyci5Z2a8svf7kUckkWISo1aCSr/EFdLUKBXsMCgq9opFDkejdi8AH9KtKD4XYYk5J7OHZBB7mhqKK/ELgAs+FZ2R3N8Bxd4NN2Js6hl/Pi9aBQ==;gSbsF3lRs3HE/h++wj2jdQ=="
 ---

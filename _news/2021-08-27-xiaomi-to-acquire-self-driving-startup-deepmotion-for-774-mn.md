@@ -1,30 +1,22 @@
 ---
 category: news
 title: "Xiaomi to acquire self-driving startup Deepmotion for $77.4 mn"
-excerpt: "Xiaomi is reportedly planning to buy an autonomous driving technology based startup called Deepmotion for $77.4 million. The deal happens as the company gears up to enter the electric vehicle market,"
-publishedDateTime: 2021-08-27T08:47:00Z
-originalUrl: "https://www.thestatesman.com/technology/xiaomi-acquire-self-driving-startup-deepmotion-77-4-mn-1502999630.html"
-webUrl: "https://www.thestatesman.com/technology/xiaomi-acquire-self-driving-startup-deepmotion-77-4-mn-1502999630.html"
-ampWebUrl: "https://www.thestatesman.com/technology/xiaomi-acquire-self-driving-startup-deepmotion-77-4-mn-1502999630.html/amp"
-cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/xiaomi-acquire-self-driving-startup-deepmotion-77-4-mn-1502999630.html/amp"
+excerpt: "Leg-spinner Yuzvendra Chahal's maiden six-wicket for India as the hosts beat England by 75 runs in the third and final Twenty20 International"
+publishedDateTime: 2021-08-27T15:57:00Z
+originalUrl: "https://netindia123.com/articles/showdetails.asp?id=3809846&n_date=20210827&cat=Science"
+webUrl: "https://netindia123.com/articles/showdetails.asp?id=3809846&n_date=20210827&cat=Science"
 type: article
-quality: 44
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: The Statesman
-  domain: thestatesman.com
+  name: Net India 123
+  domain: netindia123.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://www.thestatesman.com/wp-content/uploads/2021/08/6769e70b8ff19c22c6c12a03436dd819-1-1-1024x683.jpg"
-    width: 1024
-    height: 683
-    isCached: true
 
 related:
   - title: "Xiaomi to acquire self-driving startup Deepmotion to enter EV market"
@@ -120,6 +112,6 @@ related:
         height: 300
         isCached: true
 
-secured: "lw64bDIdH2O3im1CfVdj0COyj12AmAzkSoJIUyYYmp6pUgCLqx6/mdRjQn19w1b/aBKKDQwFt4uw70UrX9wToH9WgQDRsai2i5mLU4XKPbZuCIemXZcmqujTSlsVyZYzZZ0U1mFFmqhK9PSPh4BZBi0SMx4dNqeHpRj0xoC3Tviy2iB35QiH4c8NP/MszQjV269TPjx0cAvtO2NQlV0EgcamWIVgCP/XwDhbek9VvXaPqpTzNKy64Nv4RUW+X7YaRWUQEy+/rQH7xa1/4tbFamddmvh66+dFhfKxvSnTNtuD9ubZ978GdTmYkfi8L01DQQHEhECPmoyqQodJfWuJyeicxCexpDK7NAqZWgKxuis=;sxCnrBEU33m08XgNHE2n9g=="
+secured: "xPCB3z6+EaQ0sR/UGxQR1w/gr+rdSiQeijBLfpz5ulgOY7f78rQAEIHISU9Zfmw1uaWhaQpA7rz+WLZS044ENY5JPyD+jx08mCme1n5sLjASrEh8P6dKqbCleyOHVI7BnD5QjAS8j65mt3HCtVGnXnKykuEYCqlpjCGgI0fs1nJ/M+TeLZOXRfmvWfdsr7yxdLumGtTQD3vo1LymDCommBtbhrKeCKrqcAZ/pW4rOpC4PxVFCqrAwN4R8hEUIxE+fy2Nh4bm3QC6gQu9Ce1WbXMrf+oCHw+CSvWNpRQggOwqsubI40CFm+bUT0q0SipQthg9/uPmc55g/Z0U701MMP7xkldoVGabfrq5nJiKX7Q=;NZipxWLZpxbRIIb2edG/bQ=="
 ---
 

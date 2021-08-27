@@ -9,8 +9,8 @@ ampWebUrl: "https://www.crowdfundinsider.com/2021/08/179462-fintech-focused-corp
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/08/179462-fintech-focused-corporate-accelerator-program-launched-in-egypt-by-arab-bank/amp/"
 type: article
 quality: 56
-heat: 86
-published: true
+heat: -1
+published: false
 
 provider:
   name: Crowdfund Insider
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Arab Bank To Back Egyptian FinTech, AI And Cybersecurity Startups"
+    excerpt: "Arab Bank has launched an Egypt branch of its FinTech, artificial intelligence (AI) and cybersecurity accelerator that focuses on early-state startups."
+    publishedDateTime: 2021-08-22T23:23:00Z
+    webUrl: "https://www.pymnts.com/startups/2021/arab-bank-back-egyptian-fintech-artificial-intelligence-cybersecurity-startups/"
+    ampWebUrl: "https://www.pymnts.com/startups/2021/arab-bank-back-egyptian-fintech-artificial-intelligence-cybersecurity-startups/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/startups/2021/arab-bank-back-egyptian-fintech-artificial-intelligence-cybersecurity-startups/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 74
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/08/Egypt-Arab-Bank-startups-accelerator-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Arab Bank launches FinTech AB accelerator in Egypt"
     excerpt: "Arab Bank has recently launched its FinTech-focused corporate accelerator programme “AB Accelerator” in Egypt, following its successful launch in Jordan back in 2018. The launch of this programme in Egypt comes as part of the bank’s strategic efforts to foster and support innovation in the FinTech sector towards offering responsive and agile banking solutions in line with the evolving needs and expectations of clients across different segments."
     publishedDateTime: 2021-08-23T11:17:00Z
@@ -41,19 +57,35 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "F10 launches new fintech accelerator in Madrid"
-    excerpt: "F10 Spain announces seven growth-stage WealthTech and RegTech startups selected from over 150 national and international applications, joining the first cohort of its newly designed Acceleration Programs."
-    publishedDateTime: 2021-08-25T09:53:00Z
-    webUrl: "https://www.finextra.com/pressarticle/89028/f10-launches-new-fintech-accelerator-in-madrid"
+  - title: "Threat hunting cybersecurity startup Hunters raises $30M to drive innovation"
+    excerpt: "Threat hunting cybersecurity startup Hunters today announced that it has raised $30 million in new funding to increase its headcount, drive innovation, enhance customer satisfaction, increase market reach and support partner expansion."
+    publishedDateTime: 2021-08-24T13:00:00Z
+    webUrl: "https://siliconangle.com/2021/08/24/threat-hunting-cybersecurity-startup-hunters-raises-30m-drive-innovation/"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
     images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/hunters.png"
+        width: 803
+        height: 554
+        isCached: true
+  - title: "Today in Payments Around the World: Accelerating Egyptian AI and Cybersecurity Startups, Paysafe Acquires German Platform"
+    excerpt: "Today in payments around the world, Paysafe buys Germany's viafintech, Arab Bank debuts AB Accelerators in Egypt and HSBC introduces mobile payments in Qatar."
+    publishedDateTime: 2021-08-23T20:43:00Z
+    webUrl: "https://www.pymnts.com/news/international/2021/today-in-payments-around-the-world-accelerating-egyptian-ai-and-cybersecurity-startups-paysafe-acquires-german-platform/"
+    ampWebUrl: "https://www.pymnts.com/news/international/2021/today-in-payments-around-the-world-accelerating-egyptian-ai-and-cybersecurity-startups-paysafe-acquires-german-platform/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/international/2021/today-in-payments-around-the-world-accelerating-egyptian-ai-and-cybersecurity-startups-paysafe-acquires-german-platform/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 34
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/08/HBSC-Qatar-457x274.jpg"
+        width: 457
+        height: 274
         isCached: true
   - title: "GIZ and Fintech Egypt to Launch Free Summer School Webinar Series"
     excerpt: "The series will cover cybersecurity, AI and machine learning, open banking, regtech, and blockchain. The international development wing of the German government, GIZ, is partnering with tech ecosystem platform Fintech Egypt to co-launch the GIZ Finance Summer School,"
@@ -68,6 +100,20 @@ related:
       - url: "https://cairoscene.com:443/Content/Admin/Uploads/Articles/ArticlesMainPhoto/1130514/4e77e402-de61-46aa-a5c6-316a6c1686df.jpg"
         width: 800
         height: 491
+        isCached: true
+  - title: "How Instant Cybersecurity Data Intelligence Will Stop Ransomware Attacks"
+    excerpt: "Machine learning alone will not stay the course. Natural language processing and artificial intelligence will make it possible to instantly gain visibility into a business environment, detect insider threats, and evaluate the impact of emerging cyber ..."
+    publishedDateTime: 2021-08-27T01:41:00Z
+    webUrl: "https://www.thefastmode.com/expert-opinion/20640-how-instant-cybersecurity-data-intelligence-will-stop-ransomware-attacks"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 23
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/598d8ed3469b2cfabea8850e055b21e5.jpg?t=20210826_122631"
+        width: 1126
+        height: 550
         isCached: true
 
 secured: "d0Rpz4uj6LaiVsaKD9MTA+ANUm4LlDHMNzNpyydCS+II0922EaJfi1AwQ3++29KaK1bd9+y42kEVeiNJVBllM837F1MfL10MjDpK2gjUyNjHun6IA5Vura5HnFNNMgO+P3f3rU3LTn+09DfO2LFVojnqRcG/q++4LgVTN5QJB88R+BErCbW7QWSKV0NFx7b5JAL+gLGJ3TYy0WPCFPLjC3/6a/dmFBjPzZoDBSfj/Dn99rqjkekW3IWUb83zLDYuYC8SRPkNzkrMiSNe0Wg3IhNGo5fiMr5xr05vmpwgfrlxGLRiA3kNMaw6/3LuvEXyNLwtUdhBqXifAzsasHoaZXHMBaCrUKHdO6Z8aoBGml9bJbCKuwfHOskYLd2moOu5VX9EhmPU2dm8jCt9Sc/vCEqwT5QG+8y6qfA7t+y6oa6MED5n8csvzFKktwOLhfzhAsNfUujp2aVIHh7O8HGUT6oNqG7PajEqaWBQpl5ek55tI9sgHE46wUZ+HWowgqmUyCBMxDmMiYGvhgSrr2aN7g==;YSB28DJ8dwJh0LycgeCFPQ=="
