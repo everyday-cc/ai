@@ -66,6 +66,20 @@ related:
         width: 1024
         height: 568
         isCached: true
+  - title: "Tartu self-driving bus trials next month"
+    excerpt: "A self-driving bus starts work in Tartu on a trial basis next week, ferrying passengers between the city center and the Estonian National Museum (ERM) on the outskirts, ETV news show 'Aktuaalne kaamera' (AK) reported."
+    publishedDateTime: 2021-08-27T11:08:00Z
+    webUrl: "https://news.err.ee/1608320036/tartu-self-driving-bus-trials-next-month"
+    type: article
+    provider:
+      name: ERR News
+      domain: news.err.ee
+    quality: 24
+    images:
+      - url: "https://s.err.ee/photo/crop/2021/08/26/1123775ha273t24.jpg"
+        width: 672
+        height: 420
+        isCached: true
 
 secured: "ZxdqQUzvs+tEH+Nf0Hu5nan4uhvlFaf3xHV6NzAMLU+7szypetA/0NBnUISD4pu3uxpT6EsttDGG8BbHZBMZAu9qBx4x6hqlsQlVBEScoRf1IX+olieBpcJAuBemCcgjqRdDg+eXPrKgo3FYw0UB2x6yaHNcVAXJC0comsttibksUCXiczmZAAqKhhOOHuSS4sIXLE4czXM+uscEWgjuCCM7WP8c3vxIjb38cF4bycyyC5QUF4k3x+bu8jEZ3Ic0+5T2Kh1p49N4+yIMkv3IyoK34zw8vGNEYSAwwPbmq9fCT60AqDSw0RSOqFOvgXk0pA8I/7l898B4g6D9OP0qwKhyE6Hw/P13nhSrH/G1WIw=;pVbFE7VRehjbPaLxYWX1dA=="
 ---

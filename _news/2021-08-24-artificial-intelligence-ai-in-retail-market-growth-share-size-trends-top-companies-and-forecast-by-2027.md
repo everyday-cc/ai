@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-growth-share-size-trends-top-companies-and-forecast-by-2027-2021-08-23"
 type: article
 quality: 63
-heat: 173
+heat: 183
 published: true
 
 provider:
@@ -91,6 +91,20 @@ related:
       - url: "https://cdn.openpr.com/U/8/U825208148_g.jpg"
         width: 700
         height: 393
+        isCached: true
+  - title: "Artificial Intelligence Chipsets Market 2021 Global Industry Size, Demand, Growth Analysis, Share, Revenue and Forecast 2026"
+    excerpt: "The global artificial intelligence (AI) chipsets market size may surpass USD 70 billion by 2026. From consumer electronics, BFSI, IT & Telecom, healthcare, media & advertising to retail, AI chipsets are playing a pivotal role in enhancing customer experience."
+    publishedDateTime: 2021-08-25T04:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-2021-global-industry-size-demand-growth-analysis-share-revenue-and-forecast-2026-2021-08-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "China AI in Healthcare Market Emerging Trend, Top Companies, Industry Demand and Regional Analysis by 2025"
     excerpt: "China s AI in healthcare market is estimated to grow significantly at a CAGR of 52 8 during the forecast period China s market has both medium and long term potential due to its large market size aging population fluctuating"

@@ -7,7 +7,7 @@ originalUrl: "https://mybigplunge.com/startups/funding-news/usd-17-2-bn-infused-
 webUrl: "https://mybigplunge.com/startups/funding-news/usd-17-2-bn-infused-in-indian-startup-ecosystem-by-venture-capital-firms-during-jan-july-report/"
 type: article
 quality: 9
-heat: -1
+heat: 9
 published: false
 
 provider:
@@ -22,66 +22,6 @@ images:
     width: 1000
     height: 600
     isCached: true
-
-related:
-  - title: "AI set to steer Indian cars in new direction"
-    excerpt: "The soon-to-be launched MG Astor will have a technology that lets the car temporarily take control of steering"
-    publishedDateTime: 2021-08-22T17:12:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/ai-set-to-steer-indian-cars-in-new-direction-11629652014913.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/ai-set-to-steer-indian-cars-in-new-direction/amp-11629652014913.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/ai-set-to-steer-indian-cars-in-new-direction/amp-11629652014913.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 57
-    images:
-      - url: "https://images.livemint.com/img/2021/08/22/600x338/43ffb346-035e-11ec-89fd-c0c117172485_1629652013154_1629652056551.jpg"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "7 Best Artificial Intelligence Companies Hiring in India Right Now"
-    excerpt: "Since artificial intelligence is high on demand at present, many artificial intelligence companies are looking to hire artificial intelligence professionals in their teams. Here are the best artificial intelligence companies hiring in India right now."
-    publishedDateTime: 2021-08-23T09:00:00Z
-    webUrl: "https://www.analyticsinsight.net/7-best-artificial-intelligence-companies-hiring-in-india-right-now/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Artificial-Intelligence-Companies.jpg"
-        width: 900
-        height: 500
-        isCached: true
-  - title: "Why Are Indian Institutes Racing To Launch B Tech in AI Courses"
-    excerpt: "Gone are the days when students fancied a computer science seat in a top tier college. Now there is a demand for specialisation. Thanks to the hype around artificial intelligence (AI), many Indian institutions are now racing to offer their own B."
-    publishedDateTime: 2021-08-26T06:30:00Z
-    webUrl: "https://analyticsindiamag.com/why-are-indian-institutes-racing-to-launch-b-tech-in-ai-courses/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/B-Tech-in-Artificial-Intelligence-AI.jpg"
-        width: 2240
-        height: 1260
-        isCached: true
-  - title: "Study: Indiana manufacturers ready to learn, implement data and artificial intelligence"
-    excerpt: "A quarter of Indiana’s economic output is based in manufacturing, and the transition to becoming data-driven and using artificial intelligence holds the possibility for broad economic impact among manufacturers,"
-    publishedDateTime: 2021-08-26T19:50:00Z
-    webUrl: "https://www.purdue.edu/newsroom/releases/2021/Q3/study-indiana-manufacturers-ready-to-learn,-implement-data-and-artificial-intelligence.html"
-    type: article
-    provider:
-      name: Purdue University
-      domain: purdue.edu
-    quality: 29
-    images:
-      - url: "https://www.purdue.edu/uns/images/2021/data-aiOG.jpg"
-        width: 800
-        height: 400
-        isCached: true
 
 secured: "d91btdZALa1o0g9fhkeIeBFpgWCFQmDejRuC31D5fcE7BC9scWntau4OobcJb0/m6+4uUbfdKaKk6zUEkIGaNdF6kNsTlQUIDQTxun3orXVAYk0lgrqrbuFgrR/3+msz/D/BGkLTkGbE4XfJ6R9ySubbGbquTgL5605ZoCLcxa0XE9fSPuAjKofJOUeY02LZP0fniWYFw7z2koVNwDE22X8ZUVbVsKDeX7oyZ7m71wxBGO3vgK+7/b+yKL5rmRtk2+pP876Idspc8u0Zu7+W0O516q6us3kDGUJ8Uj+iHWpzax9pUVvHjd4jALuVf4CuJmy5leTY+lHMruRL0D6xu2vXOgeK2A4L94csLV7scKU=;0Z+LYVpR9gHCA1XcYmj99g=="
 ---

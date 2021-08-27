@@ -67,6 +67,22 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "US government agencies plan to increase facial recognition"
+    excerpt: "The majority of US federal agencies are using some form of facial recognition technology, according to a study by the Government Accountability Office (GAO)."
+    publishedDateTime: 2021-08-27T10:45:00Z
+    webUrl: "https://www.research-live.com/article/news/us_government_agencies_plan_to_increase_facial_recognition/id/5088462"
+    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5088462&name=us-government-agencies-plan-to-increase-facial-recognition"
+    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5088462&name=us-government-agencies-plan-to-increase-facial-recognition"
+    type: article
+    provider:
+      name: research
+      domain: research-live.com
+    quality: 59
+    images:
+      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
+        width: 1000
+        height: 581
+        isCached: true
   - title: "Clearview AI wins a military facial recognition contract"
     excerpt: "Documents revealing that a criminal investigation unit of the U.S. Army is using Clearview AI's facial recognition subscription service have been published."
     publishedDateTime: 2021-08-25T19:10:00Z

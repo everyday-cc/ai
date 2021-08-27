@@ -6,8 +6,8 @@ publishedDateTime: 2021-08-25T15:15:00Z
 originalUrl: "https://www.capitalpress.com/ag_sectors/research/wsu-creates-new-ai-research-institute-for-agriculture/article_71592a58-0551-11ec-8a98-9394fdf4b832.html"
 webUrl: "https://www.capitalpress.com/ag_sectors/research/wsu-creates-new-ai-research-institute-for-agriculture/article_71592a58-0551-11ec-8a98-9394fdf4b832.html"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/capitalpress.com/content/tncms/assets/v3/editorial/6/63/663c0a12-05b7-11ec-a02e-8fc88f0f9750/61265ec363c1a.image.jpg?resize=916%2C630"

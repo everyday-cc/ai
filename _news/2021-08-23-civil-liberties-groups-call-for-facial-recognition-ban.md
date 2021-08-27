@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Free-Speech Case for Facial Recognition | Opinion"
+    excerpt: "The right to communicate anonymously is important, but most would agree it shouldn't extend to people who commit violent crimes."
+    publishedDateTime: 2021-08-27T10:00:00Z
+    webUrl: "https://www.newsweek.com/free-speech-case-facial-recognition-opinion-1623006"
+    ampWebUrl: "https://www.newsweek.com/free-speech-case-facial-recognition-opinion-1623006?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/free-speech-case-facial-recognition-opinion-1623006?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 91
+    images:
+      - url: "https://d.newsweek.com/en/full/1880796/charlottesville-rally-anniversary.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Facial recognition to care for prem babies"
     excerpt: "University of South Australia researchers have successfully developed a world-first camera system to monitor the vital signs of premature babies."
     publishedDateTime: 2021-08-25T05:32:00Z
@@ -55,6 +71,20 @@ related:
         width: 1185
         height: 585
         isCached: true
+  - title: "Can facial recognition tech be stopped?"
+    excerpt: "In recent years, facial recognition technology has been introduced into our lives in various benign ways. The ease of using it to unlock our phones, make purchases, replace passwords, and manage"
+    publishedDateTime: 2021-08-23T23:02:00Z
+    webUrl: "https://www.spectator.com.au/2021/08/can-facial-recognition-tech-be-stopped/"
+    type: article
+    provider:
+      name: spectator.com.au
+      domain: spectator.com.au
+    quality: 39
+    images:
+      - url: "https://spectatorau.imgix.net/content/uploads/2021/08/GettyImages_1316601599.jpe?auto=compress,enhance,format&crop=faces,entropy,edges&fit=crop&w=768&h=511"
+        width: 768
+        height: 511
+        isCached: true
   - title: "SA trials facial recognition for home quarantine"
     excerpt: "South Australia is trialing an app that will monitor people who are in home quarantine by checking geo-location data and scanning their faces. The trial, which began on Monday, allows around 50 South Australian residents returning from interstate to conduct their 14 days of mandatory quarantine from home."
     publishedDateTime: 2021-08-24T01:58:00Z
@@ -83,33 +113,19 @@ related:
         width: 1800
         height: 734
         isCached: true
-  - title: "DoD, DHS vet facial recognition tools for reliability in effort to build trust"
-    excerpt: "But first, both agencies are taking steps to vet the security and reliability of the facial recognition tools they’re using, in order to build public trust in these tools and address concerns from Congress."
-    publishedDateTime: 2021-08-25T14:28:00Z
-    webUrl: "https://federalnewsnetwork.com/technology-main/2021/08/dod-dhs-vet-facial-recognition-tools-for-reliability-in-push-to-build-trust/"
+  - title: "The use of facial recognition technology for policing in Delhi: An empirical study of potential religion-based discrimination"
+    excerpt: "The use of new technology like facial recognition by police in India raises questions of efficiency, surveillance, and discrimination."
+    publishedDateTime: 2021-08-23T05:25:00Z
+    webUrl: "https://www.medianama.com/2021/08/223-facial-recognition-technology-policing-delhi/"
     type: article
     provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 35
+      name: MediaNama
+      domain: medianama.com
+    quality: 12
     images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2019/05/Facial_Recognition_Backlash_78584.jpg"
-        width: 1648
-        height: 1080
-        isCached: true
-  - title: "Researchers develop computer vision system that can detect babies’ faces while monitoring their vital signs"
-    excerpt: "University of South Australia researchers have developed a computer vision system that can automatically detect a tiny baby’s face in a hospital bed and remotely monitor its vital signs from a ..."
-    publishedDateTime: 2021-08-25T02:04:00Z
-    webUrl: "https://itwire.com/health/researchers-develop-computer-vision-system-that-can-detect-babies’-faces-while-monitoring-their-vital-signs.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 21
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/d6e9a99bcc506a7f9bc937a9775af303_M.jpg"
-        width: 375
-        height: 272
+      - url: "https://www.medianama.com/wp-content/uploads/2020/10/flat-3252983_1280.png.png"
+        width: 1280
+        height: 1066
         isCached: true
 
 secured: "VTDf276x2EcZ/rkB85jD6RD1P8pe+hNfDjf4ywaYZVz5Vr/AlR/OlEiinFzplUSciq8T5KGtiF9NXzzg8DmzHFxotYeHAupSvNqNNx5R3qPfBWW6+lDqdAuqZ6ySnPRG7lACyNAvKDhBvf+EOJShVBzPcpWc2+C+nNc3RfY0sCdBl71aCGsMz/YdCzQ97hIcyLHsOxUDEhJXvrqyJINzmkJiH2SFgydTOjQwdAAnu5+dAKIfAhA3xfL/69nBqssemGtujkeEUvPcw0IPxI+d7IONyAMXoEisrC/GKzEMiDpIT2t8LBrh4ytikKEjHGBc7k/qBFIWTafujN9HRuHBD1ANcAfRbVgx0NcFYSPJ4Hs=;4C8T9yUfV7GIfjcyN0fV4Q=="

@@ -25,18 +25,18 @@ images:
 
 related:
   - title: "heliosDX Adds Artificial Intelligence to its Suite of Diagnostics Services and Solutions"
-    excerpt: "ALPHARETTA, GA / ACCESSWIRE / August 26, 2021 / RushNet, Inc (OTC PINK:RSHN), (the “Company” or “heliosDX”) is pleased to announce through its subsidiary heliosDX the investment and adoption of Artificial Intelligence (“AI”) into the diagnostic laboratory."
-    publishedDateTime: 2021-08-26T17:46:00Z
-    webUrl: "https://apnews.com/press-release/Accesswire/technology-health-coronavirus-pandemic-artificial-intelligence-6f2804f154e38a79c11c35db9df27cd3"
+    excerpt: "RushNet, Inc , (the \"Company\" or \"heliosDX\") is pleased to announce through its subsidiary heliosDX the investment and adoption of Artificial Intelligence (\"AI\") into the diagnostic laboratory."
+    publishedDateTime: 2021-08-26T22:04:00Z
+    webUrl: "https://www.lelezard.com/en/news-19970658.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 28
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 30
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
+        width: 421
+        height: 421
         isCached: true
   - title: "RushNet, Inc.: heliosDX Adds Artificial Intelligence to its Suite of Diagnostics Services and Solutions"
     excerpt: "ALPHARETTA, GA / ACCESSWIRE / August 26, 2021 / RushNet, Inc (OTC PINK:RSHN), (the \"Company\" or \"heliosDX\") is pleased to announce through its subsidiary heliosDX the investment and adoption of Artifi"

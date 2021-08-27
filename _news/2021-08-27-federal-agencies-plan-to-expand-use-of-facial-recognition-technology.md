@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 754
         isCached: true
+  - title: "US government agencies plan to increase facial recognition"
+    excerpt: "The majority of US federal agencies are using some form of facial recognition technology, according to a study by the Government Accountability Office (GAO)."
+    publishedDateTime: 2021-08-27T10:45:00Z
+    webUrl: "https://www.research-live.com/article/news/us_government_agencies_plan_to_increase_facial_recognition/id/5088462"
+    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5088462&name=us-government-agencies-plan-to-increase-facial-recognition"
+    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5088462&name=us-government-agencies-plan-to-increase-facial-recognition"
+    type: article
+    provider:
+      name: research
+      domain: research-live.com
+    quality: 59
+    images:
+      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
+        width: 1000
+        height: 581
+        isCached: true
   - title: "Clearview AI wins a military facial recognition contract"
     excerpt: "Documents revealing that a criminal investigation unit of the U.S. Army is using Clearview AI's facial recognition subscription service have been published."
     publishedDateTime: 2021-08-25T19:10:00Z
@@ -166,6 +182,6 @@ related:
       domain: infosecurity-magazine.com
     quality: 19
 
-secured: "3qiMcuELNh9N1MMXse1L6XszqrRGHtfDtEjEsBzJXGH278U/x06377NyFtf5/C4zUQ0yiAG3j53/BLyjgFnIUmzVkZBKwFNrQmwBKqSi3ZLynYrj8pGK95rAsbmXIEj8bwvZ6nUwsQu5ZTdon+j4Sd7XtZTLMbBoaiHvtgboiAN5xRSLajbRFuocqOZqkYTsyk5umP6gLa0ZAkj6X7r9C1IZRukpIVOxGas4Rnci3HxXBBwiJMcyTpQEBT/+GX9OkTBq+pFCi9F+bPnImF3lwhppH1IGSOXNRV3pEXy3W4QMXP8x7LFvn9fvELdpttIrWR0vuFzK+uMlzceU7RZ2UVTZhDKYtZYbo0V6RwFg2rg=;25fnAmd1TBoHnbV+j0i1wQ=="
+secured: "TpkhaPKqrDfz7h5znAZ3MdGSMVdzO19h21AWtRAVVZJKJ/PokG4wet5/ZYx+sVKB3GNUI3EXZ76IBpQ5dw09yOuMc5vCrFrO1ydPd5lzP5yQe5oP8QvAZebftl6bNg01RNVdwyVXF75wjHvmtp/M2vMFbPlS5D4yX8l++2yJqoTVE6RAgG2rgkq0IGYIw3xmmUBjbJEMVMalfSwRGg4dmJIHU369Wo0FHZndD3uwhiHaP05o81CeZkf842TG7nviUXL5HiVc0z8yq4hEy1PxmfF83q5v3jEFX2n+BsrSpa4gaLu0A4sxVz1nU/Je9b6fT45HD2o2T7UfO7M/Tc0MPHMeGOcm0g839CrR/UXeLyVqcFCb3haWNCYg6KIRugoEWIZLSzshxGaF7sSq3DQXl1XSxrc7gYjaQAB5jYuIWxwOQ2QNN6lDP1o9YJsZpVH1nS/7ryJrKdj8BvvIf8pNhfVgYIZgiQ2xgS9nF0B1Qomua/pUDbuLioAtNcuOLng/LrIo+MEAHE9+C2n7YZDpXA==;GG7Kp6chqmJxpGg7DZ38NA=="
 ---
 

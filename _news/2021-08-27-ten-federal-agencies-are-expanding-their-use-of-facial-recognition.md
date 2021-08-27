@@ -45,6 +45,22 @@ related:
         width: 1645
         height: 785
         isCached: true
+  - title: "Celebrity spotting: Amazon improves facial recognition for famous people"
+    excerpt: "Amazon promises its Rekognition machine-learning tech will save hours of humans tagging photos and videos of celebrities."
+    publishedDateTime: 2021-08-27T03:51:00Z
+    webUrl: "https://www.zdnet.com/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 90
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/08/27/0edfb3a5-a400-465b-86f8-f06782fe711e/amazon-rekognition-wener-vogels.jpg"
+        width: 1054
+        height: 600
+        isCached: true
   - title: "Why emotion recognition AI can’t reveal how we feel"
     excerpt: "Thomas covers AI in all its iterations. Likes Werner Herzog films and Arsenal FC. Writer at Neural by TNW — Thomas covers AI in all its iterations. Likes Werner Herzog films and Arsenal FC. They found that people use different facial movements to communicate similar emotions."
     publishedDateTime: 2021-08-23T14:30:00Z

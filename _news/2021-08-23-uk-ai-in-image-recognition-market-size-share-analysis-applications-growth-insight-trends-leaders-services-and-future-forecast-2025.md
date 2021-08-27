@@ -35,6 +35,22 @@ related:
         width: 1645
         height: 785
         isCached: true
+  - title: "Celebrity spotting: Amazon improves facial recognition for famous people"
+    excerpt: "Amazon promises its Rekognition machine-learning tech will save hours of humans tagging photos and videos of celebrities."
+    publishedDateTime: 2021-08-27T03:51:00Z
+    webUrl: "https://www.zdnet.com/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 90
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/08/27/0edfb3a5-a400-465b-86f8-f06782fe711e/amazon-rekognition-wener-vogels.jpg"
+        width: 1054
+        height: 600
+        isCached: true
   - title: "Ten federal agencies are expanding their use of facial recognition"
     excerpt: "The Government Accountability Office has revealed in a new report that 10 federal agencies are planning to expand their use of facial recognition. In a survey involving 24 federal agencies on their use of facial recognition technology,"
     publishedDateTime: 2021-08-26T18:24:00Z

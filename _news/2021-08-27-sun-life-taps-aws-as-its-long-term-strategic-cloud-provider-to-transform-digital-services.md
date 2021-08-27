@@ -6,7 +6,7 @@ publishedDateTime: 2021-08-27T04:01:00Z
 originalUrl: "https://www.businesswire.com/news/home/20210826005687/en/Sun-Life-Taps-AWS-as-Its-Long-Term-Strategic-Cloud-Provider-to-Transform-Digital-Services"
 webUrl: "https://www.businesswire.com/news/home/20210826005687/en/Sun-Life-Taps-AWS-as-Its-Long-Term-Strategic-Cloud-Provider-to-Transform-Digital-Services"
 type: article
-quality: 10
+quality: 12
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - AI in Finance
 
 related:
   - title: "Amazon Web Services In Deal To Transform Sun Life Financial's Digital Services"

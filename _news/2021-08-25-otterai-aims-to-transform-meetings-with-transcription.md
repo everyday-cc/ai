@@ -46,6 +46,22 @@ related:
         width: 1024
         height: 650
         isCached: true
+  - title: "Otter.ai expands reach of Otter Assistant for video chats"
+    excerpt: "The virtual assistant, rolled out for Zoom users in May, gains support for three more platforms: Microsoft Teams, Google Meet and Cisco Webex."
+    publishedDateTime: 2021-08-27T07:58:00Z
+    webUrl: "https://www.computerworld.com/article/3619630/otterai-expands-reach-of-otter-assistant-for-video-chats.html"
+    ampWebUrl: "https://www.computerworld.com/article/3619630/otterai-expands-reach-of-otter-assistant-for-video-chats.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3619630/otterai-expands-reach-of-otter-assistant-for-video-chats.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 57
+    images:
+      - url: "https://images.idgesg.net/images/article/2021/05/otter-assistant_2-100889453-large.jpg?auto=webp"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft launches Azure Government Top Secret cloud"
     excerpt: "Microsoft offers data analysis and AI services to government agencies through Azure’s Data Lake, Cosmos DB, HDInsight and Cognitive Services. It also provides the Kubernetes Service, Functions and App Service for containerized applications, serverless ..."
     publishedDateTime: 2021-08-25T00:01:00Z

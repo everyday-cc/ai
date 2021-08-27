@@ -32,7 +32,7 @@ related:
     provider:
       name: Capital Press
       domain: capitalpress.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://bloximages.newyork1.vip.townnews.com/capitalpress.com/content/tncms/assets/v3/editorial/6/63/663c0a12-05b7-11ec-a02e-8fc88f0f9750/61265ec363c1a.image.jpg?resize=916%2C630"
         width: 916

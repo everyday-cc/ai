@@ -89,6 +89,20 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "How Instant Cybersecurity Data Intelligence Will Stop Ransomware Attacks"
+    excerpt: "Machine learning alone will not stay the course. Natural language processing and artificial intelligence will make it possible to instantly gain visibility into a business environment, detect insider threats, and evaluate the impact of emerging cyber ..."
+    publishedDateTime: 2021-08-27T01:41:00Z
+    webUrl: "https://www.thefastmode.com/expert-opinion/20640-how-instant-cybersecurity-data-intelligence-will-stop-ransomware-attacks"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 23
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/598d8ed3469b2cfabea8850e055b21e5.jpg?t=20210826_122631"
+        width: 1126
+        height: 550
+        isCached: true
 
 secured: "cB6wJTqDSpJVKZ7qo6obxBHf7s81zaYyWlUenrDElRAAOvQckpfFLy3vcCjzYOIjGSsPWVzGt57SisKWWTtQ7pIWTxj87qlMhxbggH4zzNhg1Yi5b1THtyqkmqa4auHGddDPENNmSn+KNKAPVU+rF6Jd3yBw+srk+ainJg/Sq7XcBq8ynMBwQrISF01JrAIZTx7hWviFN/1nv1qR/MIJVoAabzR3/O++SlvgoE1Y7ATUYyw29i7BnQl15ZpZewpUfv4yFxqrhuR0LWqRWsTD0pFL/6s4DmELMJ5sWoYxqLobHZPu7rUyH/oJI0oh6DRX8eU/JgPDn9i8rJjl8o3+TC41TROWjqiqQH3ue/j++Fk8N5xIo6j+tEI7tOVj4WuClPM01/lq77RAYdNxaRqHtvWRE1miIqRrWCE+rOPdS81OJb426AsWbreNZimv8wJEybk8lAOG9Lg9Ym2Hc9sOEYEstq6vOkw7yi20fj2TV6if48kT6S9HzYJKfcUzg6RuNA/6mRb+mtjdsxmnAIUMZQ==;jPaiFbCB9Y7W7s1hfOg+7w=="
 ---

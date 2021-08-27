@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/autos-transportation/secret-weapo
 webUrl: "https://www.reuters.com/business/autos-transportation/secret-weapon-self-driving-car-startups-humans-2021-08-23/"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -69,6 +69,20 @@ related:
       - url: "https://fintechnews.sg/wp-content/uploads/2021/08/Singapore-Unicorn-Companies-Past-Present-and-Future-1024x568.jpg"
         width: 1024
         height: 568
+        isCached: true
+  - title: "Tartu self-driving bus trials next month"
+    excerpt: "A self-driving bus starts work in Tartu on a trial basis next week, ferrying passengers between the city center and the Estonian National Museum (ERM) on the outskirts, ETV news show 'Aktuaalne kaamera' (AK) reported."
+    publishedDateTime: 2021-08-27T11:08:00Z
+    webUrl: "https://news.err.ee/1608320036/tartu-self-driving-bus-trials-next-month"
+    type: article
+    provider:
+      name: ERR News
+      domain: news.err.ee
+    quality: 24
+    images:
+      - url: "https://s.err.ee/photo/crop/2021/08/26/1123775ha273t24.jpg"
+        width: 672
+        height: 420
         isCached: true
 
 secured: "qSf2w1osZ0AdRtJZhIgLXEaf8nmIP4ms1ow+QwbYbB//FvWNzs04msqZZcrbKdoDUSe6LsQsbAh0zl0aASUFJYhl1rk6uW2gg3AKg5L7I53f6ZGe34HA31ndAoGKGk699Yks19v/5ifeeRJLFtePza/5OGxNDlwSTjMJL61wJbKfCDvpwEracx7gJteH+vNuL/7wMcjwuB2GFh/Ft84EXsNFCVyGoV8XHmliUItCft38K/KXCnnBuYyrZP84jXaY4mqjYO60pu5NG1kERtX1zZ5zOaGa55PwCDyevJskoFDtVcTueYdagai4P1Eqkbu+hoz+mLKpaNhNbUF0DOuzAZm3X2n9xA8sf8BkKiDKJ0KkIHEioVbyrfKi0gHWlXtbH9XGh+KjZuUu5UjXuhySUE3h7SdexDg+PBH/gOkdnoGAOeNcmZG80N5aWwJ9k1ToWUfBDEpzRSX+DaxeT0oLIWV/bOqEfl7c2wJBjlfwrQWXJe/yWp/GI8OcmzxgxF9m1bTrg7PaTG65tZQ5QJizDg==;UNh/EXJwWZi8xauT3nIrGg=="

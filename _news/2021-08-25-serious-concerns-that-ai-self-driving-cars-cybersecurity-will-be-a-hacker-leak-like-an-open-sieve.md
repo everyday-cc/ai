@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/25/serious-concerns-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/25/serious-concerns-that-ai-self-driving-cars-cybersecurity-will-be-a-hacker-leak-like-an-open-sieve/amp/"
 type: article
 quality: 76
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -92,6 +92,20 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/08/HBSC-Qatar-457x274.jpg"
         width: 457
         height: 274
+        isCached: true
+  - title: "How Instant Cybersecurity Data Intelligence Will Stop Ransomware Attacks"
+    excerpt: "Machine learning alone will not stay the course. Natural language processing and artificial intelligence will make it possible to instantly gain visibility into a business environment, detect insider threats, and evaluate the impact of emerging cyber ..."
+    publishedDateTime: 2021-08-27T01:41:00Z
+    webUrl: "https://www.thefastmode.com/expert-opinion/20640-how-instant-cybersecurity-data-intelligence-will-stop-ransomware-attacks"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 23
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/598d8ed3469b2cfabea8850e055b21e5.jpg?t=20210826_122631"
+        width: 1126
+        height: 550
         isCached: true
 
 secured: "2n+0G/xr9MzIC9/dVM3rnE/HESN8ZxsrbTSmSKpivN2KorSmVTfC3sd/Yei6LBtEJthxxywQ8IH1ZJodvXtyp6xF79tb3pTvRIOJCcTEOtvlAhRq7iow3sosJkw8Rp07NKl3cPXPvoqh4xfkiqmQss/eHwEHl0GdT4caGucr1A2FM3UmH//iqqMuaP8zy7sH1Z+3LU+fMTcKOCMEFfBoMWwqROQgVjdwHHmG0GwvmME1G1/6ezX8Eq8wk0TGI1ZaTl1xQAqI8TyzeMn5pVxPA9T2LdL0UPSHgyU8SmmXlyQddn/Siy3z5ao6ihAXBgI3dmpStNETl4+fbhMmc/4ungDIfZLjRuZXfuoGwv4eq3VJ/Q9PHvqr00RGbJButtH/BXs5vqO5Wczfs5HDpvpcD0ol5QWOQIjAKc6br2Zx15KwNVq5gH87+wmXQ6bozwmo0+vbxNKpkByjnFCikgKkxU9+/54mTjjasAoSNbZGsPZRarPIcBbHEkYURFaHdJc9z4S3jIFifRRDhqiAGAHZ2w==;ycoqPh50uWeVM90/fENTyA=="

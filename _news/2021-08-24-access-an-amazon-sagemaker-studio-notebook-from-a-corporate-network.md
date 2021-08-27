@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/access-an-amazon-sag
 webUrl: "https://aws.amazon.com/blogs/machine-learning/access-an-amazon-sagemaker-studio-notebook-from-a-corporate-network/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/17/ML-5156-image005_resized.png"
         width: 1000
         height: 357
+        isCached: true
+  - title: "Introduction to AWS SageMaker"
+    excerpt: "AWS SageMaker is one of the most comprehensive Platform-as-a-Service ML IDEs that enables data scientists to build, train and deploy ML models by enabling the execution of customized purpose-built features that simplify the workflows remarkably."
+    publishedDateTime: 2021-08-24T13:48:00Z
+    webUrl: "https://hashnode.com/post/introduction-to-aws-sagemaker-ckspzw0nx0fn4vks12kgodwmt"
+    type: article
+    provider:
+      name: hashnode.com
+      domain: hashnode.com
+    quality: 54
+    images:
+      - url: "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1629877730118%2F24O8Knr08.png%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "V3SZuH1aCPAgzcwnM0eYIr2303CUt9dYqa7hT45HAK5n+8OdMXLxgI9uNiYnd7KCEzMARVGa8tbzKb8O5YR2vg9d1xsWbALUcZHzviPwdw4ZJpKhRPZEp6gMBF5HwiEdQ3h6kLppuht5yAGdQBUIBM77+DLEequuiupPKZTimCa3E9ldLtNIl1kgFZTcZ4Xy2LqYEEmTD47J6tqYLZAqAFc8P1T5ySZpcJX12hljyQJun4AFMM4/wN9FMZfw6XGzqaIF0p/rWvKQnFoHASSIUDamZRspK1IQ8Ou6ZxtEgSRgtFYlRhkIknK8hMWAsxTmxHnYwne5KQSe/jr83E8AU1fMvYBLZ64mYUws+FLUj38=;dmXJUAfBjMRbRHe5KZEVEQ=="
