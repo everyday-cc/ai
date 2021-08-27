@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ibms-new-telum-proce
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibms-new-telum-processor-is-the-companys-first-with-an-on-chip-ai-accelerator/"
 type: article
 quality: 100
-heat: 320
+heat: 330
 published: true
 
 provider:
@@ -307,6 +307,20 @@ related:
       - url: "https://www.enterpriseai.news/wp-content/uploads/2021/08/IBM-Telum-Processor_Macro-Blue-Light-600x.png"
         width: 600
         height: 337
+        isCached: true
+  - title: "IBM’s First CPU With On-chip AI Acceleration Detects Fraud at Lightning Speeds"
+    excerpt: "Containing 22 billion transistors, IBM's new processor, Telum, features on-chip acceleration for AI inferencing. The goal: to detect fraud before a transaction is complete."
+    publishedDateTime: 2021-08-27T16:00:00Z
+    webUrl: "https://www.allaboutcircuits.com/news/ibms-first-cpu-telum-with-on-chip-ai-acceleration-detects-fraud-lightning-speeds/"
+    type: article
+    provider:
+      name: All About Circuits
+      domain: allaboutcircuits.com
+    quality: 50
+    images:
+      - url: "https://www.allaboutcircuits.com/uploads/thumbnails/Telum.jpg"
+        width: 700
+        height: 348
         isCached: true
   - title: "IBM’s new Telum processor accelerates AI inference on-chip to detect fraud in real-time"
     excerpt: "Hot Chips event today that’s able to perform deep learning inference on enterprise workloads in real-time to address fraud. The new Telum chip is said to be IBM’s first processor that features on-chip acceleration for artificial intelligence inferencing while transaction are taking place."

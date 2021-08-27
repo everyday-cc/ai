@@ -35,6 +35,36 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Toyota halts all self-driving e-Palette vehicles after Olympic village accident"
+    excerpt: "Toyota Motor (7203.T) said on Friday it had suspended all self-driving e-Palette transportation pods at the Tokyo Paralympic Games village, a day after one of the vehicles collided with and injured a visually impaired pedestrian."
+    publishedDateTime: 2021-08-27T13:30:00Z
+    webUrl: "https://www.reuters.com/business/autos-transportation/toyota-halts-all-self-driving-e-pallete-vehicles-after-olympic-village-accident-2021-08-27/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 50
+    images:
+      - url: "https://www.reuters.com/resizer/63r8Zh-6Psu_Up_FfQ5c2zmdbWY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MTYMDEF6VFN53GRUIWFU3RHLR4.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Self-Driving Bus Hits Pedestrian at Tokyo Olympic Village"
+    excerpt: "On Thursday afternoon, one of the self-driving shuttle buses operating at the Tokyo Olympic village crashed into a Paralympian while they were crossing the street. In this case, it’s not clear that the bus was at fault."
+    publishedDateTime: 2021-08-27T16:08:00Z
+    webUrl: "https://futurism.com/the-byte/self-driving-bus-pedestrial-olympic-village"
+    ampWebUrl: "https://futurism.com/self-driving-bus-pedestrial-olympic-village/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/self-driving-bus-pedestrial-olympic-village/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 44
+    images:
+      - url: "https://wp-assets.futurism.com/2021/08/toyotabus-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Toyota halts all self-driving e-Pallete vehicles after Olympic village accident"
     excerpt: "Toyota Motor said on Friday it had suspended operations of its self-driving e-Palette transportation pods at the Paralympic Games village in Tokyo, a day after one of the vehicles collided with a visually impaired pedestrian."
     publishedDateTime: 2021-08-27T12:53:00Z
@@ -79,15 +109,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Toyota Halts All Self-Driving E-Palette Vehicles After Olympic Village Accident"
-    excerpt: "Toyota Motor said on Friday it had suspended operations of its self-driving e-Palette transportation pods at the Paralympic Games village in Tokyo, a day after one of the vehicles collided with a visually impaired pedestrian."
-    publishedDateTime: 2021-08-27T12:55:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2021-08-27/toyota-halts-all-self-driving-e-pallete-vehicles-after-olympic-village-accident"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 30
 
 secured: "hZ+TA+OZtLkQ716shsGBxjDgRftZnNwDAbUrC6niB+aeLeHA1S+FG993LW9KhPYozKsl8esxwOBDDP9Xa/jskRen9wHUwJAH5c8zJB54HmLUytUqk7kaG0JBLDfk13Lc3TLgo0VA3UyEgoaunmxA8Ijmt/v/U71mTgL/F11Bg8RQzmHoNVmf7tL5IuK9n6WvqYmMClug01nH6xXJ5ydVS5mNMrH4oQzZqpj+qZuG12dlO5xx1fQNuQRQgoQmEFCZUF4r5Hks6QRWncK+/uO/rSC8XYjRCb5kuesoqJs+JtLQZzqnPGM5WsS1/KsusnubQumTYMU99HfSzOIT1UjgPe0GN81yX5QZvQAsr/lo5zf/YURcT6NZGKdez8D6pUq/rNAfUVZFTniyjNpDZFxOCiaRrL78SlEXa25CIeLR9N+IcZu5yvreXmaDlC1XDLKh7bulJnvM0m7KUjMT8bEWnpse9NpCZfMWeaaaU2yrFmOB2WFWAH8WB9YAOQmQFgF280Xs6GxffFKV/Hfb3HGL9w==;xg8lnXU3TCaOZGTiF2u4Zg=="
 ---

@@ -88,20 +88,17 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "5 Dutch AI companies transforming finance, healthcare and agriculture"
-    excerpt: "AI in the Netherlands is booming: A Techleap.nl 2021 report found that 10% of all registered AI start-ups worldwide are based in the Netherlands. The nation has the highest density of AI start-ups per capita in Europe. In addtion, there are a number of ..."
-    publishedDateTime: 2021-08-23T00:59:00Z
-    webUrl: "https://www.computerworld.com/article/3630648/5-dutch-ai-companies-transforming-finance-healthcare-and-agriculture.html"
+  - title: "4 Ways to Sway Customers Toward AI for a Better Customer Experience"
+    excerpt: "Consumers are ambivalent about artificial intelligence. According to data collected by O’Reilly, majorities of consumers embrace AI in applications"
+    publishedDateTime: 2021-08-27T16:30:00Z
+    webUrl: "https://www.business2community.com/customer-experience/4-ways-to-sway-customers-toward-ai-for-a-better-customer-experience-02427800"
+    ampWebUrl: "https://www.business2community.com/customer-experience/4-ways-to-sway-customers-toward-ai-for-a-better-customer-experience-02427800/amp"
+    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/customer-experience/4-ways-to-sway-customers-toward-ai-for-a-better-customer-experience-02427800/amp"
     type: article
     provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 71
-    images:
-      - url: "https://images.idgesg.net/images/article/2021/06/artificial_intelligence_automation_digital_brain_thinkstock_875595818-100749926-orig-100893865-large.jpg?auto=webp"
-        width: 1200
-        height: 800
-        isCached: true
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 37
   - title: "Nutrition and tech experts bring carb-coding power to the masses with AI startup"
     excerpt: "A team of esteemed data scientists and performance nutritionists have joined forces to create a personalised nutrition app which brings the newly discovered power of ‘carb coding’ from the worl of elite sports,"
     publishedDateTime: 2021-08-23T16:07:00Z

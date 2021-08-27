@@ -1,25 +1,27 @@
 ---
 category: news
 title: "'Always there': the AI chatbot comforting China's lonely millions"
-excerpt: "XiaoIce has pioneered a cutting-edge artificial intelligence system designed to create emotional bonds with its 660 million users worldwide - Copyright AFP WANG ZHAOLaurie CHENAfter a painful break-up from a cheating ex,"
-publishedDateTime: 2021-08-24T11:54:00Z
-originalUrl: "https://www.digitaljournal.com/world/always-there-the-ai-chatbot-comforting-chinas-lonely-millions/article"
-webUrl: "https://www.digitaljournal.com/world/always-there-the-ai-chatbot-comforting-chinas-lonely-millions/article"
+excerpt: "After a painful break-up from a cheating ex, Beijing-based human resources manager Melissa was introduced to someone new by a friend late last year."
+publishedDateTime: 2021-08-24T07:48:00Z
+originalUrl: "https://techxplore.com/news/2021-08-ai-chatbot-comforting-china-lonely.html"
+webUrl: "https://techxplore.com/news/2021-08-ai-chatbot-comforting-china-lonely.html"
+ampWebUrl: "https://techxplore.com/news/2021-08-ai-chatbot-comforting-china-lonely.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-ai-chatbot-comforting-china-lonely.amp"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
-  - AI in Healthcare
+  - AI Ethics
   - AI
 
 images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/AI-chatbot-China-AFP-1K-04.jpg"
+  - url: "https://scx2.b-cdn.net/gfx/news/2021/xiaoice-has-pioneered.jpg"
     width: 1024
     height: 681
     isCached: true
@@ -243,6 +245,6 @@ related:
       domain: i24news.tv
     quality: 16
 
-secured: "I3+otPX3kyT2edKLfukH3tWsjEhcfXrkk+VXJyjNHS0Nu4jrgBTdq1JVosH8QqBj6hkYx5jZZlHJE6mWLY+RF9WLE/iTU0XFVA1MGcosIiK6KGH9OHVrLg+NJeGo2E/SX7fxr8DmwhYYZgCFPD/C0tCbwzK5Xl9menWNwZcosaryRWtPZdJJnlSsCqOKugQGQzENiYDHXItbr0aYkARH8X4mfJFmYOgI/t+Rwe+fd/zzKkqgtwt6IdeVj7PS/iFthXvqgWeh0iDqOk0PUY1QmlOl2QGZgdCp52t7hRJsQ2307apYCuvK7n7Bl0H5y0dtzZITKcoz8B4aBebRDQ9DhUKt0xgNXuHzImIHwJA2nFugLaIrLjui/SUhojPiRUESoQqfG5b7R3snD/VW/15UirUQGUamxWl5yqAwKKFKNhQ3VUNgXRhX671m3ljv3tV//xngzJEYWU1XGqQsxIEjS51HK+qUT7E2aZ0pPU7BPMwTAuXdCb1D+718ljuPXIc5eCT+r0Gdcv7zmGUteJsswQ==;acOHHnz0Dr+na+4wgDOvkw=="
+secured: "qOvSwmYGtyf4TVzDik5BN6lqJyLUEZ/8LYlsaM7BlvlChQ52/Q8ISqmGxFI1+UUrT0IhmyeNivbsRWOgOrKHeUm6u8nSPFnMLJTSY+hDrBbG2h1ljmLza+XZmYEHvORoVu10tAcVKfkMc04kt8UwcIqbefsfXYITOG6MfkLDtvCVk4UfXoEH/e+mgoeG/mdCp+VVJvXNtP/sH+41iLWn4EK+QHlZf2mvUFx19XHedLbk2pboKYzCq4DQqotuf2E5QvSNx69kkA4geY2ZtH31e3zgH4t2LrTs1eOmrqr9rlqWjLDT9kLwIXRaioZWHhs6YmvdCMRMXjmEeiDWJbyQKoNFQdKyZuLz4ATWjQJJCcg=;8fc2I8VT4SgMTy1s9xpN8g=="
 ---
 

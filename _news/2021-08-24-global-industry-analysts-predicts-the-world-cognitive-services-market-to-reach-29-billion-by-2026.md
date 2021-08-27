@@ -155,7 +155,7 @@ related:
   - title: "United States Automotive Voice Recognition Systems Market Report 2021 - Forecast to 2026 - ResearchAndMarkets.com"
     excerpt: "The “Automotive Voice Recognition Systems Market Research Report by Deployment, by State - United States Forecast to 2026 - Cumulative Impact of COVID-19” report has been added to ResearchAndMarkets.com’s offering."
     publishedDateTime: 2021-08-24T14:32:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-united-states-voice-recognition-020d4caabfe8456fbe7b0856bbb2bf8f"
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-united-states-voice-recognition-020d4caabfe8456fbe7b0856bbb2bf8f"
     type: article
     provider:
       name: Associated Press
@@ -195,6 +195,6 @@ related:
         height: 339
         isCached: true
 
-secured: "FlOhO0mmgwqRgvrCJ+5aifOFW5FL2eY4nF+/UkFINI6pP2s2dUHUO++OwwcN+KsPTkpuoL9RsEWWZnktsukz5vE9VCkVQYDD3N+/rYG60d/6rC2inD0XAd0fWMkLHzMneMJKiOElgktqg1nLQBph4q15R8vhEqlMrE8XlA2U4VFSV4JvgJr7RWFZQYrFGN69SVcN7gdofCj60THNrMkioKWofpAFHsmK352jx+Jh6CWTFPqepph3hw/Z57XO1Vg0DzKSnb3aeOJN2aKoBaDpYJ7Qlx5VUH+vvuY6LTe3bHZK6PY5CAt39TcSnOzCX49nmnk5jgwILxkFMHYF2fQqr2JOzRnTTYzX0DgbFigZUtE=;ZmGsOab6cZ8wxigZUqAsyA=="
+secured: "qYdAw7sepwTDJvFHi01SqGorDdfm3TnShxEzwPudzgzvtenrvwcaLXS5h1J+KOVKsAKltLKTBmJiWmMNOrjGcmWeMRmmle6ulxHdHrxnqNaUPQDhWphdSwyARWApP1IMcvl9/G6KX/79mxjt6iHoRu5KzXVyBa8SLjeXsZ7JAEwTZ3jzUgEUlDzshfeNyEXoclhal4Odya28M5QVqbWCFB0oqE958+yj3uznyPvtCcVtWCUtHSNMXMlp+rlEGYoatxoO43GP1/O3SQkO1fl6bUzMQRrcGdp36afabIdWYLrW4tN4TuYZMoxWJelD4VW0EFPs9JV9PXe0/gmS8GpQ2yomuvRRm6VbNn9Z4FmKhlc=;jsuaNP2Znk/QmniuteryqA=="
 ---
 

@@ -6,8 +6,8 @@ publishedDateTime: 2021-08-27T01:24:00Z
 originalUrl: "https://apnews.com/press-release/Newswire/technology-business-health-artificial-intelligence-f45c14e8ed9f21260f8c2decc17bdbc3"
 webUrl: "https://apnews.com/press-release/Newswire/technology-business-health-artificial-intelligence-f45c14e8ed9f21260f8c2decc17bdbc3"
 type: article
-quality: 10
-heat: 10
+quality: 8
+heat: 8
 published: false
 
 provider:
@@ -16,7 +16,6 @@ provider:
 
 topics:
   - AI
-  - AI in Healthcare
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
@@ -24,6 +23,6 @@ images:
     height: 450
     isCached: true
 
-secured: "eN5W/N8h9IyQVraGVkVPwR/eLELIyLV8g+t9mWaP96DYbnszDCRkFoUw985pZH6OEv7mCFn4g81bTsarqk4O4iP9QIukckS6Z8YY9c58Nn95+qmY4sB/s3twFmFxHc/tw9ljDkcq7iVagAfnLhDhvF++1ELwt2ostSYEBWueLSFKrNMyNTdxbMW2eyVoEWHE41U071bdADQsGYY862rkGzhfc9y0QdX1bP19T3F9zqd5lKH+xHrLJPcBEd53VblEkhhiWRIGDd7rM2oCsGlIP52OJgcJ8J63hpR0yaAv8HUMUkr4zy7c+aoVtgYQf+whWpNhPDPUFF+2XqcIFXjy1AOtHrV7SxjOYpB4f+b6PJI=;Qs1qjJYE+gF6bBZL8zk5sA=="
+secured: "KNmRY5ccEErI5hv7gAG9D8ZbdTFbhrmv9y7RD2y57Ux0/kZDvALikbwogKRNKc0CbS4+JQ9wLB4hab5v7GFYuHrRRHBAOuw+6d8PxVJEhZmNFl0EQkyD+K2ZbPmkwLS51mf7qX2GiHwFaBnmNSfSSl/T7sIT1DWkfw12QvzU/2bsCkoYPcSDRAdGNU6qsgQESvQ8y3YZ80ASw11G7qi0hCay0s1nyBb5g+UFi7FJfmAuCixhLVrKmo7hlY/fMO8jBuiPPitkkXG4XlOoYBdmC+XkZs+zLx71ZJr3FJ0nSmiyEDLFBuHIWChKQ/LIr6QaxTRBjo4b5encyZm9WI3qrTQ1fE3GJzn7fRCPEf7o5eU=;jfTulqzj6hqYg3vCkSKy8A=="
 ---
 

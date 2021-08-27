@@ -146,19 +146,19 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Airbus’ UP42 Partners with Indian Startup for AI-based Satellite Imagery Analytics"
-    excerpt: "UP42, a geospatial developer platform and marketplace wholly owned by Airbus, has partnered with Indian startup HyperVerge to offer satellite"
-    publishedDateTime: 2021-08-23T00:00:00Z
-    webUrl: "https://www.gim-international.com/content/news/airbus-up42-partners-with-indian-startup-for-ai-based-satellite-imagery-analytics"
+  - title: "Army Wants to Install Facial Recognition, Video Analytics at Child Development Centers"
+    excerpt: "The Army wants to use facial recognition and advanced machine learning algorithms to monitor kids at base Children Development Centers and plans to launch a pilot program at Fort Jackson in the near future."
+    publishedDateTime: 2021-08-27T17:25:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2021/08/army-wants-install-facial-recognition-video-analytics-child-development-centers/184915/"
     type: article
     provider:
-      name: GIM International
-      domain: gim-international.com
+      name: Nextgov
+      domain: nextgov.com
     quality: 31
     images:
-      - url: "https://www.gim-international.com/cache/4/0/1/3/2/40132ecf9648caf939a3ab8ef4af2e00deb6f24d.png"
-        width: 680
-        height: 408
+      - url: "https://cdn.nextgov.com/media/img/cd/2021/08/27/close_up_of_cctv_camera_over_defocused_urban_background_picture_id1214093147/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "Bodo.ai Raises $14 million Series A to Revolutionize Simplicity, Performance and Scale for Data Analytics and Machine Learning"
     excerpt: "Bodo.ai, the extreme-performance parallel compute platform for data workloads, today announced it has raised $14 million in Series A funding led by Dell Technologies Capital, with participation from Uncorrelated Ventures,"

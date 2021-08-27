@@ -81,6 +81,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) as a Service Market Size, Opportunities, Key Growth Factors, Revenue Analysis, For 2020–2027"
+    excerpt: "Global Artificial Intelligence AI as a Service Market is forecasted to grow at a rate of 45 6 from USD 1 73 Billion in 2019 to USD 34 1 Billion in 2027 according to a new report by"
+    publishedDateTime: 2021-08-27T16:24:00Z
+    webUrl: "https://www.openpr.com/news/2371713/artificial-intelligence-ai-as-a-service-market-size"
+    ampWebUrl: "https://www.openpr.com/amp/2371713/artificial-intelligence-ai-as-a-service-market-size"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2371713/artificial-intelligence-ai-as-a-service-market-size"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 47
+    images:
+      - url: "https://cdn.openpr.com/U/8/U827435198_g.jpg"
+        width: 750
+        height: 350
+        isCached: true
   - title: "Artificial Intelligence Chipsets Market 2021 Global Industry Size, Demand, Growth Analysis, Share, Revenue and Forecast 2026"
     excerpt: "The global artificial intelligence (AI) chipsets market size may surpass USD 70 billion by 2026. From consumer electronics, BFSI, IT & Telecom, healthcare, media & advertising to retail, AI chipsets are playing a pivotal role in enhancing customer experience."
     publishedDateTime: 2021-08-25T04:36:00Z
@@ -126,6 +142,22 @@ related:
       - url: "https://cdn.openpr.com/U/8/U825208148_g.jpg"
         width: 700
         height: 393
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Social Media Market Revenue, Driving Factors, Key Players, Strategies, Trends, Forecast Till 2027"
+    excerpt: "The Global Artificial intelligence AI In Social Media Market size is estimated to reach USD 4 26 Billion from USD 797 Million in 2019 exhibiting a CAGR of 24 7 through 2027 The rapid evolution of social media platforms with"
+    publishedDateTime: 2021-08-27T16:45:00Z
+    webUrl: "https://www.openpr.com/news/2371710/artificial-intelligence-ai-in-social-media-market-revenue"
+    ampWebUrl: "https://www.openpr.com/amp/2371710/artificial-intelligence-ai-in-social-media-market-revenue"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2371710/artificial-intelligence-ai-in-social-media-market-revenue"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 43
+    images:
+      - url: "https://cdn.openpr.com/U/8/U827883715_g.jpg"
+        width: 750
+        height: 350
         isCached: true
   - title: "China AI in Healthcare Market Emerging Trend, Top Companies, Industry Demand and Regional Analysis by 2025"
     excerpt: "China s AI in healthcare market is estimated to grow significantly at a CAGR of 52 8 during the forecast period China s market has both medium and long term potential due to its large market size aging population fluctuating"

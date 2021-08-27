@@ -26,6 +26,17 @@ images:
     height: 300
     isCached: true
 
+related:
+  - title: "Artificial Intelligence in Construction Market is ready for its next Big Move | Alice Technologies, Beyond Limits, Oracle, Autodesk"
+    excerpt: "The ‘ Artificial Intelligence in Construction market’ research report added by Report Ocean, is an in-depth analysis of the latest developments, market size, status, upcoming technologies, industry drivers,"
+    publishedDateTime: 2021-08-27T15:47:00Z
+    webUrl: "https://ipsnews.net/business/2021/08/27/artificial-intelligence-in-construction-market-is-ready-for-its-next-big-move-alice-technologies-beyond-limits-oracle-autodesk/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 0
+
 secured: "lILo1nVtHo2hpPeCmXT965Vmvrvo4lg0xtilRI5GBFoaNzBRVxGWJCXiXED+EqFcaksdzquwOe1bgUfGaI340r3yBlTCVZ13e5BJjLkqP+aCvsD37vAoO5NE6g8rPs4cpT1Wbhdd2DYe7Jn5poVdwbjTR/ZVoRYYommoqhsbOli3QRE1mPuMbOLEr8n0+HoxlgqdlnmqrvrKUacVCSN2L4vr0q7yGcNR+e2MhQROSW6L7lz3k+4TjMIXZ8F10lIk5u3FnNTslxPWRNlNtaLy0eJJrGSUN0AMACsx4m/mUgWMZyDa8QS4QYsEHRCzHeKhbFdNW0HCGGaakku+/p/Gl13mDjhC4dW6qpwKSXfpSCEv/QY+3v4KcOqeJgHtjyfgFoLkdCVOLtGyOQfuPs+dKaLZoJUV0x/0KPNHalbIyoj02X1FbrZrNsaHHA4iujVcd4tGva+2xs/6Iuby/1benAkl5T4F6E2JksTgssYlH3VsO9JAKvkFMiO1MNfdpy5thSMSJiMoafjBRwZgi8f0LQ==;xqz5CQ2FeCOCjkQ3xVfqxQ=="
 ---
 

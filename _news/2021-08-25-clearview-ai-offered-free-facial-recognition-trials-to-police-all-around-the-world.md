@@ -9,7 +9,7 @@ ampWebUrl: "https://www.buzzfeednews.com/amphtml/ryanmac/clearview-ai-internatio
 cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/ryanmac/clearview-ai-international-search-table"
 type: article
 quality: 98
-heat: 208
+heat: 210
 published: true
 
 provider:

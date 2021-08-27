@@ -23,6 +23,22 @@ images:
     height: 500
     isCached: true
 
+related:
+  - title: "Feed uses AI for social advertising on small budgets"
+    excerpt: "UK-based startup Feed wants to help marketers on smaller budgets, including music artists and labels, get more out of their Facebook and Instagram advertising. The company says that once connected to these social profiles it “figures out which of your posts get the best response,"
+    publishedDateTime: 2021-08-24T10:30:00Z
+    webUrl: "https://musically.com/2021/08/24/feed-ai-social-advertising/"
+    type: article
+    provider:
+      name: Music Ally
+      domain: musically.com
+    quality: 37
+    images:
+      - url: "https://musically.com/wp-content/uploads/2021/08/feed.jpg"
+        width: 1500
+        height: 500
+        isCached: true
+
 secured: "dXL96A2q+oK0VGu7erhFyLn8DdlDGVOloElo06lCJDdj1HR6frCwzNmt5/plLedTSgbMBuUgS/mkOnZcq/qYlPM3axPCSy7CpftYS693H3KIJm7cynNwC0c0FHwfU+eQBFprPC2dwM0MuRIiZAdxLRQzCX3rDxv7qJukwtTvXKl+9sNALJnXp8ZV8HBKOMsrab3cjU1tBpxvDIaF8Jh7sF36WXTQ4HgPAN01CJTp6CB2DExYGzdrozXhuZPc/IcyIDI2p8HbFmWSteaFEjRWm8JIn6M0ArqK8WiRW5l3RzAHuWgB2UXqaC3QYVW+OBnJlgRnGjCEsh1vOUmE8US8qTHJp1uq/uP8Mcae+HDeGTTW/NJ2C4IPRjQw+IVjWJ051tQr3eDMTqFJrS+vKStLmi7v+IejiqbNkzWtT5G93JvoK/hSC+5D7wx0P56rYYc3PGxOjDTgrPj2ZS8fkAgp9KOOOl+FjXA0dvWfzVq4GMj+d9UljmYwSYFj58541DFtIhyj93hvodO7U99KwNYsVQ==;nXmTAp8EuuvgQgy3dxNNNg=="
 ---
 

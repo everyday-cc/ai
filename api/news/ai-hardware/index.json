@@ -45,15 +45,15 @@
       ]
     },
     {
-      "path": "_news/2021-08-26-nvidia-crammed-2240-gpus-into-polaris-supercomputer-to-power-massive-ai-workloads.md",
-      "title": "NVIDIA Crammed 2,240 GPUs Into Polaris Supercomputer To Power Massive AI Workloads",
+      "path": "_news/2021-08-26-nvidia-powers-polaris-supercomputer-with-2240-gpus-for-massive-ai-workloads.md",
+      "title": "NVIDIA Powers Polaris Supercomputer With 2,240 GPUs For Massive AI Workloads",
       "excerpt": "The US Department of Energy's Argonne National Laboratory is much more fortunate, having procured a whopping 2,240 NVIDIA A100 Tensor Core GPUs (based on Ampere) for its Polaris supercomputer to \"supercharge researcher and discovery.",
       "sourceUrl": null,
       "webUrl": "https://hothardware.com/news/nvidia-2240-gpus-polaris-supercomputer-ai-workloads",
       "originalUrl": "https://hothardware.com/news/nvidia-2240-gpus-polaris-supercomputer-ai-workloads",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -497,7 +497,7 @@
       "originalUrl": "https://www.techrepublic.com/article/ibms-new-telum-processor-is-the-companys-first-with-an-on-chip-ai-accelerator/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 320,
+      "heat": 330,
       "tags": null,
       "images": [
         {
@@ -801,7 +801,7 @@
       "originalUrl": "https://www.news18.com/news/auto/new-chip-helps-chinese-tech-brand-baidu-to-make-level-5-fully-autonomous-robocar-4115870.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 70,
       "tags": null,
       "images": [
         {

@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "A standard for artificial intelligence in biomedicine"
+    excerpt: "An international research team with participants from several universities including the FAU has proposed a standardized registry for artificial intelligence (AI) work in biomedicine to improve the reproducibility of results and create trust in the use of AI algorithms in biomedical research and,"
+    publishedDateTime: 2021-08-27T15:52:00Z
+    webUrl: "https://techxplore.com/news/2021-08-standard-artificial-intelligence-biomedicine.html"
+    ampWebUrl: "https://techxplore.com/news/2021-08-standard-artificial-intelligence-biomedicine.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-standard-artificial-intelligence-biomedicine.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/ai.jpg"
+        width: 1920
+        height: 1638
+        isCached: true
   - title: "75 start-ups in Telemedicine, Digital Health, AI to get special incentives from Govt"
     excerpt: "Government will soon launch a Special Incentives scheme to support 75 Start-Ups in areas of Telemedicine, Digital Health and Artificial Intelligence (AI) to coincide with the 'Azadi"
     publishedDateTime: 2021-08-26T03:45:00Z

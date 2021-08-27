@@ -62,6 +62,20 @@ related:
         width: 5988
         height: 3992
         isCached: true
+  - title: "Enable scalable, highly accurate, and cost-effective video analytics with Axis Communications and Amazon Rekognition"
+    excerpt: "With the number of cameras and sensors deployed growing exponentially, companies across industries are consuming more video than ever before. Additionally, advancements in analytics have expanded potential use cases, and these devices are now used to improve business operations and intelligence. In turn,"
+    publishedDateTime: 2021-08-27T16:46:48Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/enable-scalable-highly-accurate-and-cost-effective-video-analytics-with-axis-communications-and-amazon-rekognition/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 83
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/27/Axis-Diagram.png"
+        width: 1222
+        height: 531
+        isCached: true
   - title: "Why emotion recognition AI can’t reveal how we feel"
     excerpt: "Thomas covers AI in all its iterations. Likes Werner Herzog films and Arsenal FC. Writer at Neural by TNW — Thomas covers AI in all its iterations. Likes Werner Herzog films and Arsenal FC. They found that people use different facial movements to communicate similar emotions."
     publishedDateTime: 2021-08-23T14:30:00Z
@@ -90,6 +104,20 @@ related:
         width: 640
         height: 434
         isCached: true
+  - title: "Athreon Launches Front-End Speech Recognition Solution"
+    excerpt: "Athreon, a leading business and knowledge process outsourcing company, announced today the launch of its new front-end speech recognition solution for healthcare. Athreon’s speech recognition empowers physicians to focus on patient care versus administrative,"
+    publishedDateTime: 2021-08-26T14:13:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-937261d53fe91f0a1613f00fc9d48934"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Facial Recognition Tech Use Increasing Among Federal Agencies"
     excerpt: "Use cases included criminal investigations, building security and access to digital assets like smartphones and security agency websites."
     publishedDateTime: 2021-08-26T19:00:00Z
@@ -104,15 +132,20 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Athreon Launches Front-End Speech Recognition Solution"
-    excerpt: "Athreon, a leading business and knowledge process outsourcing company, announced today the launch of its new front-end speech recognition solution for healthcare. Athreon's speech recognition empowers physicians to focus on patient care versus administrative,"
-    publishedDateTime: 2021-08-26T16:39:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-athreon-launches-front-end-speech-recognition-solution-/2021/08/26/9438228.htm"
+  - title: "US Agencies Increasing Use of Facial Recognition Tech"
+    excerpt: "At least 10 U.S. government agencies are planning to increase the use of facial recognition technologies by 2023, according to a GAO report. The growing utilization"
+    publishedDateTime: 2021-08-27T17:46:00Z
+    webUrl: "https://www.govinfosecurity.com/us-agencies-increasing-use-facial-recognition-tech-a-17393"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
+      name: HHS
+      domain: govinfosecurity.com
+    quality: 39
+    images:
+      - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/us-agencies-increasing-use-facial-recognition-tech-showcase_image-2-a-17393.jpg"
+        width: 860
+        height: 520
+        isCached: true
   - title: "Campaigners call for more recognition to mark International Day for the Remembrance of the Slave Trade and its Abolition"
     excerpt: "Leading Black history campaigners are calling for more recognition for International Slavery Remembrance Day, which is being celebrated today in the UK and internationally. The United Nations Educational,"
     publishedDateTime: 2021-08-23T19:26:00Z

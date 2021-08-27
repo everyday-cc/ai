@@ -318,6 +318,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "IBM’s First CPU With On-chip AI Acceleration Detects Fraud at Lightning Speeds"
+    excerpt: "Containing 22 billion transistors, IBM's new processor, Telum, features on-chip acceleration for AI inferencing. The goal: to detect fraud before a transaction is complete."
+    publishedDateTime: 2021-08-27T16:00:00Z
+    webUrl: "https://www.allaboutcircuits.com/news/ibms-first-cpu-telum-with-on-chip-ai-acceleration-detects-fraud-lightning-speeds/"
+    type: article
+    provider:
+      name: All About Circuits
+      domain: allaboutcircuits.com
+    quality: 50
+    images:
+      - url: "https://www.allaboutcircuits.com/uploads/thumbnails/Telum.jpg"
+        width: 700
+        height: 348
+        isCached: true
   - title: "New IBM Telum Processors Show AI Investment ‘Down At The Silicon Level’"
     excerpt: "IBM unveils new Telum processors, which bring AI down to the chip level amid growing demand by businesses for data- and compute-intensive processes."
     publishedDateTime: 2021-08-24T21:09:00Z

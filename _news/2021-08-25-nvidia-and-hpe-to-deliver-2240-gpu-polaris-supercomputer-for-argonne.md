@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "NVIDIA Powers Polaris Supercomputer With 2,240 GPUs For Massive AI Workloads"
+    excerpt: "The US Department of Energy's Argonne National Laboratory is much more fortunate, having procured a whopping 2,240 NVIDIA A100 Tensor Core GPUs (based on Ampere) for its Polaris supercomputer to \"supercharge researcher and discovery."
+    publishedDateTime: 2021-08-25T17:24:00Z
+    webUrl: "https://hothardware.com/news/nvidia-2240-gpus-polaris-supercomputer-ai-workloads"
+    ampWebUrl: "https://amp.hothardware.com/news/nvidia-2240-gpus-polaris-supercomputer-ai-workloads"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-2240-gpus-polaris-supercomputer-ai-workloads"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 71
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/56074/content/small_polaris_supercomputer.jpg"
+        width: 708
+        height: 400
+        isCached: true
   - title: "NVIDIA Crammed 2,240 GPUs Into Polaris Supercomputer To Power Massive AI Workloads"
     excerpt: "The US Department of Energy's Argonne National Laboratory is much more fortunate, having procured a whopping 2,240 NVIDIA A100 Tensor Core GPUs (based on Ampere) for its Polaris supercomputer to \"supercharge researcher and discovery."
     publishedDateTime: 2021-08-25T17:24:00Z

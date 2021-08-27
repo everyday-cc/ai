@@ -56,6 +56,22 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "'Always there': the AI chatbot comforting China's lonely millions"
+    excerpt: "After a painful break-up from a cheating ex, Beijing-based human resources manager Melissa was introduced to someone new by a friend late last year."
+    publishedDateTime: 2021-08-24T07:48:00Z
+    webUrl: "https://techxplore.com/news/2021-08-ai-chatbot-comforting-china-lonely.html"
+    ampWebUrl: "https://techxplore.com/news/2021-08-ai-chatbot-comforting-china-lonely.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-ai-chatbot-comforting-china-lonely.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/xiaoice-has-pioneered.jpg"
+        width: 1024
+        height: 681
+        isCached: true
   - title: "Why Conversational AI Is So Much More Than a Chatbot"
     excerpt: "When people think of conversational AI, their first thought is often the chatbots that one encounters on many enterprise websites. While they would not be wrong, as that is one example of conversational AI,"
     publishedDateTime: 2021-08-25T15:14:00Z
@@ -147,20 +163,6 @@ related:
       - url: "https://www.phnompenhpost.com/sites/default/files/field/image/melissa_uses_her_mobile_phone_to_message_her_virtual_boyfriend_-_a_chatbot_created_by_xiaoice_-_in_beijing._afp.jpg"
         width: 990
         height: 660
-        isCached: true
-  - title: "'Always there': the AI chatbot comforting China's lonely millions"
-    excerpt: "XiaoIce has pioneered a cutting-edge artificial intelligence system designed to create emotional bonds with its 660 million users worldwide - Copyright AFP WANG ZHAOLaurie CHENAfter a painful break-up from a cheating ex,"
-    publishedDateTime: 2021-08-24T11:54:00Z
-    webUrl: "https://www.digitaljournal.com/world/always-there-the-ai-chatbot-comforting-chinas-lonely-millions/article"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 39
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/AI-chatbot-China-AFP-1K-04.jpg"
-        width: 1024
-        height: 681
         isCached: true
   - title: "‘Always there’: The AI chatbox comforting China’s lonely millions"
     excerpt: "BEIJING: After a painful break-up from a cheating ex, Beijing-based human resources manager Melissa was introduced to someone new by a friend late"

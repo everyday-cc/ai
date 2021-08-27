@@ -1,26 +1,32 @@
 ---
 category: news
-title: "Toyota Halts All Self-Driving E-Palette Vehicles After Olympic Village Accident"
-excerpt: "Toyota Motor said on Friday it had suspended operations of its self-driving e-Palette transportation pods at the Paralympic Games village in Tokyo, a day after one of the vehicles collided with a visually impaired pedestrian."
-publishedDateTime: 2021-08-27T12:55:00Z
-originalUrl: "https://money.usnews.com/investing/news/articles/2021-08-27/toyota-halts-all-self-driving-e-pallete-vehicles-after-olympic-village-accident"
-webUrl: "https://money.usnews.com/investing/news/articles/2021-08-27/toyota-halts-all-self-driving-e-pallete-vehicles-after-olympic-village-accident"
+title: "Toyota halts all self-driving e-Palette vehicles after Olympic village accident"
+excerpt: "Toyota Motor (7203.T) said on Friday it had suspended all self-driving e-Palette transportation pods at the Tokyo Paralympic Games village, a day after one of the vehicles collided with and injured a visually impaired pedestrian."
+publishedDateTime: 2021-08-27T13:30:00Z
+originalUrl: "https://www.reuters.com/business/autos-transportation/toyota-halts-all-self-driving-e-pallete-vehicles-after-olympic-village-accident-2021-08-27/"
+webUrl: "https://www.reuters.com/business/autos-transportation/toyota-halts-all-self-driving-e-pallete-vehicles-after-olympic-village-accident-2021-08-27/"
 type: article
-quality: 30
+quality: 50
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://www.reuters.com/resizer/63r8Zh-6Psu_Up_FfQ5c2zmdbWY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MTYMDEF6VFN53GRUIWFU3RHLR4.jpg"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "Visually Impaired Paralympian Hit by Self-driving Bus in Athletes' Village"
@@ -38,6 +44,22 @@ related:
       - url: "https://images.news18.com/ibnlive/uploads/2021/08/sports-2021-08-22t124338.136-162973365516x9.png"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Self-Driving Bus Hits Pedestrian at Tokyo Olympic Village"
+    excerpt: "On Thursday afternoon, one of the self-driving shuttle buses operating at the Tokyo Olympic village crashed into a Paralympian while they were crossing the street. In this case, it’s not clear that the bus was at fault."
+    publishedDateTime: 2021-08-27T16:08:00Z
+    webUrl: "https://futurism.com/the-byte/self-driving-bus-pedestrial-olympic-village"
+    ampWebUrl: "https://futurism.com/self-driving-bus-pedestrial-olympic-village/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/self-driving-bus-pedestrial-olympic-village/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 44
+    images:
+      - url: "https://wp-assets.futurism.com/2021/08/toyotabus-600x315.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "Toyota halts all self-driving e-Pallete vehicles after Olympic village accident"
     excerpt: "Toyota Motor said on Friday it had suspended operations of its self-driving e-Palette transportation pods at the Paralympic Games village in Tokyo, a day after one of the vehicles collided with a visually impaired pedestrian."
@@ -93,6 +115,6 @@ related:
       domain: digitaljournal.com
     quality: 19
 
-secured: "/m5HuvH4KRVyYYCnuhR54Pg808u/ttAWukEIZFKo06hR2x8k2pW1iCgMoDWIKm/GU/pNayP9xhs81yAjBrf+aiOejgGbvPK8g+S7XxzkometAaQ+43RnDpL9yg0eK0JZRGGxzwBsT7Jm2FcY8b2RP2F6CtSoS40L49MmgPRWdCZjDj5gRbVd+GFjC9l+v9nXj1eL41SIK435L1ndHmDl7NLBolFQgnbIOEKcV8YRvqHxGU0Mg5c+Iudn4C2ueWJjb61Tabz4pbBUhAGxw38eVTwgpAFDJzTMUVW5liI6wMUrnkO6/9FGF3zHHMmKjTDWwaKWDgyUaOfHA8On9bJAl9NZbbZ+sTV3l3VVy+ZSnjj817sJeRROqur30f1SB70RhyyWMmR0nyweaaujXC/KmP5OpOkW7R/niV1OJY/biwZgDzHD16g/iwwmnZLkz3U/hsLiKtRud54Ft7plC7HJIuELLQqC2H+eAuPlYTTnyzOhSgmUmI6gmd5Qud9RSI3ZTG3rr+J87xshUc3VwEHUVw==;f6tHJDa2I6OXQc1WIsn9Qw=="
+secured: "6L6uphRJWpnGX7jnrjKPqeIrOjf+dlj2o3XKeiQutLL4T5FVVaiQ5Pqr2K5fthgVu/I7kvfw1sUDifkMxMf+DH7+YoERtlVzp/E2a3guh+cWXIXD2v1g0smv017NoXAp5UFvs8nQYeINMZY0KJId+yv8cDV56mPzAoDB15M32YUI1YJeoszRpNPGcXlhk6wDTG2dObROaBGBAlA2MJNvsSGT3RWdB0DYBxENHUofzmBXKTclTcH6xWMeu4pri0cwkKFBagfiM/mD4BDkkfTJLF/xqFxNC0ZkVuV9RMPjeUXGgSVtR0h0pYWhwJ3qQG+7/YqFQlIuQdhb/KmjsABSt6pxbeXcP3GY+MbKe/iM6ws=;uN/kZBOzfcczgPh0FB8W+A=="
 ---
 

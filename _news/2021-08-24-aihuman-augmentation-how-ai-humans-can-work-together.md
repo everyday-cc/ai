@@ -7,7 +7,7 @@ originalUrl: "https://www.bmc.com/blogs/ai-human-augmentation/"
 webUrl: "https://www.bmc.com/blogs/ai-human-augmentation/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,33 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Opinion: How AI’s growing influence can make humans less moral"
-    excerpt: "Today, we increasingly interact with machines powered by artificial intelligence – AI-powered smart toys as well as AI-driven social media platforms that affect our preferences. Could machines be bad apples?"
-    publishedDateTime: 2021-08-24T05:05:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/08/24/opinion-how-ais-growing-influence-can-make-humans-less-moral"
+  - title: "Expanding human-robot collaboration in manufacturing by training AI to detect human intention"
+    excerpt: "Machines and robots undoubtedly make life easier. They carry out jobs with precision and speed, and, unlike humans, they do not require breaks as they are never tired."
+    publishedDateTime: 2021-08-27T15:52:00Z
+    webUrl: "https://techxplore.com/news/2021-08-human-robot-collaboration-ai-human-intention.html"
+    ampWebUrl: "https://techxplore.com/news/2021-08-human-robot-collaboration-ai-human-intention.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-human-robot-collaboration-ai-human-intention.amp"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 37
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 63
     images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/08/24/1267138.jpeg"
-        width: 1240
-        height: 778
-        isCached: true
-  - title: "THE PARABLE OF THE ALIEN AI AND HOW THE HUMANS WON THE WAR"
-    excerpt: "THE PARABLE OF THE ALIEN AI AND HOW THE HUMANS WON THE WAR Article by Kerry Cassidy, Project Camelot So they link you up to the Borg by way of the nano in the VAXES and TESTS…the reality is the Borg is studying"
-    publishedDateTime: 2021-08-25T15:58:00Z
-    webUrl: "https://projectcamelotportal.com/2021/08/25/the-parable-of-the-alien-ai-and-how-the-humans-won-the-war/"
-    type: article
-    provider:
-      name: PROJECT CAMELOT
-      domain: projectcamelotportal.com
-    quality: 37
-    images:
-      - url: "https://projectcamelotportal.com/wp-content/uploads/the-parable-of-the-alien-ai-and.jpg"
-        width: 1280
-        height: 720
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/expanding-human-robot.jpg"
+        width: 1249
+        height: 794
         isCached: true
 
 secured: "+DZLoab95I9TxpNeoK+VND4TEqWitxIEyI4YJ17493jv1+9B0ngTbOH97dqvvaqYazj/oXx1nx8eEef6QaKLltgOFaIRu7wB6EIOboB0sqUvLj1zKMghn8zf5Ge5YltkhNneGcsHxkwSsjfQ9CP9mPdg9YrPqlH7VsUSmaWZLBpK1uT5741LLbKD7fCbRY4xQycLRYjd2rn4G03seSqoHl4AwO82LCPORwvy8Nll/RJLu3+upPZOAec3L6q70vd3bcWQLosdyySDXEDbDlrlag6FOC9OPgrUo6yE1nbon24WqaXZtAiP6NnvP7cSRSGBxeS5jV0scMoIbiCJ71qFXrxY0oSSAdSg4yj1S9GNRRvlEg0P2YaVK8XJ1m7PLViEI1piRcJniCxmuFM/Orz9L1wfdAjY8a2Iv2za0IrNP5tt6r6IFmbTvAtvlPH9EUgUNmPanwGFbUkyfbVCWsjkCtRvlwDuNA6eGnRepragr6blkkgdj6Cs/NIYKK8kmfArF3r1d1Y/Aa6BW/V166KceA==;ascFbrPQ9PLXZQ/Ev1xKkA=="

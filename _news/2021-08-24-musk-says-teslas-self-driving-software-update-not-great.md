@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/autos-transportation/musk-says-te
 webUrl: "https://www.reuters.com/business/autos-transportation/musk-says-teslas-self-driving-software-update-not-great-2021-08-23/"
 type: article
 quality: 169
-heat: 409
+heat: 399
 published: true
 
 provider:
@@ -266,22 +266,6 @@ related:
       - url: "https://thedriven.io/wp-content/uploads/2021/06/fsd-beta-tesla.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Tesla Could Allow Other Automakers To Utilize Its Self-Driving Technology"
-    excerpt: "This could lower the cost for automakers to develop their own self-driving technologies, leading to more vehicles on the road with autonomous driving features."
-    publishedDateTime: 2021-08-22T23:09:00Z
-    webUrl: "https://www.carscoops.com/2021/08/tesla-could-allow-other-automakers-to-utilize-its-self-driving-technology/"
-    ampWebUrl: "https://www.carscoops.com/2021/08/tesla-could-allow-other-automakers-to-utilize-its-self-driving-technology/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/08/tesla-could-allow-other-automakers-to-utilize-its-self-driving-technology/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 58
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2021/08/2021-Tesla-Model-S-1-1024x555.jpg"
-        width: 1024
-        height: 555
         isCached: true
   - title: "Elon Musk Says Tesla's FSD Beta 9.2 Self-Driving Software Is ‘Not Great’"
     excerpt: "Tesla - Get Report CEO Elon Musk admits that the company’s beta self-driving software is ‘not great.’ On Monday, Musk tweeted saying that Full Self-Driving (FSD) Beta 9.2 is"

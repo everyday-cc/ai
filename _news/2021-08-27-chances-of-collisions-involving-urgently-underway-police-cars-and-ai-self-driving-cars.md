@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/27/chances-of-collision
 ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/27/chances-of-collisions-involving-urgently-underway-police-cars-and-ai-self-driving-cars/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/27/chances-of-collisions-involving-urgently-underway-police-cars-and-ai-self-driving-cars/amp/"
 type: article
-quality: 79
-heat: 119
+quality: 81
+heat: 121
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60722c4f3955ebfd3665bef7%2F0x0.jpg%3FcropX1%3D237%26cropX2%3D4511%26cropY1%3D440%26cropY2%3D2845"
@@ -86,6 +87,6 @@ related:
       domain: kdvr.com
     quality: 4
 
-secured: "g9FCo/slyUAsTqgEtG+j+TXkM+0i/n46Zx+iDhDybjvkkZ4nTR2cfAAmDsF4QxShZe9hBp+D1EwT6Dr1hAeNc/muKDmIwpTgvgwbF/tCGTPofAWzm8i0MeW9cqcvWRhI6jFE4sCmVkA3HsaoBmIhCiDjr+uMzVF06CAw3C5sMLkPepYOjTksncEU+HhCZns0q+oHqbiZHKsU5onDRXgUd5VWYe3+IwcAAAjzyE6wdeXfQ4MNBEdlbtooenoevHMrAWhn3fZ9bKTu7oThDrgx+YescTgN1WhHe6tXoHHsv5WrnqOHQapipgFKqwONNPDFvFk3JFB7G1KCPoaUZy8vYmVnNlkYOGGHJYn4vFzGSsk=;QVY/qgZo9uUve7ufFXnOcA=="
+secured: "FWzyI+M93oJvbza3mABnfceAlRvv+kyTGjTNnwsqz31dG5nEg1JZmViXLiSOTzgKooGUcRwUs9/V/MaWy1TiRCJ4okNypf0nTz7zCj1L9CqhLnA9g2AvrABEe65yeoZosoGUH6RZxJpmttRhcWWmW5IMjQOztJwaGU1HGT30ZpB0XSjixwtcgqZPVTAndolY3bAfiUD9FNDKcTKllnjanXfDl43L/CCjtkv9Fz+gAF309GQcwJJ4hYQPLvqn7B82mf1JEdVwijm3VAmYCVdbhQ3qe/2Sb7jGsmEWSCH2+uEV6xlJqzSHuTyJColf+rB2hE9GQTI6ZtzOrPHXL1RSUe4sKETUG84B41d68rrEeSAPUUW9lAtQumf0Ou0G4JHvpwwgnV9JDrPISwFKLLflzxj/JUYUvKSQx4Wel88RjfRlheoBegEWPDjrnBv/r/KDU8gIVaTx7IXzR+jOweAbulaSbJsDGNQUqLPbEuIORPjta33LzuTurgDuS8ZWZF/2pqHeDRJwfItkis4iBWolyw==;KbAzf11SONbWwSjmhE/tRg=="
 ---
 
