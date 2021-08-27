@@ -28,8 +28,8 @@ images:
 related:
   - title: "How AI is speeding up our search for climate change solutions"
     excerpt: "Tonya Hall interviews Dr. Solomon Assefa, vice president at IBM Research, about how AI and quantum computing help us in the search of more efficient batteries."
-    publishedDateTime: 2021-08-24T13:39:00Z
-    webUrl: "https://www.zdnet.com/video/how-ai-is-speeding-up-our-search-for-climate-change-solutions/"
+    publishedDateTime: 2021-08-24T08:04:00Z
+    webUrl: "https://www.zdnet.com/index.php/video/how-ai-is-speeding-up-our-search-for-climate-change-solutions/"
     type: article
     provider:
       name: ZDNet

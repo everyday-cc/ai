@@ -73,6 +73,29 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Xiaomi Buys Self-Driving Company as It Accelerates Apple Car Rival Development"
+    excerpt: "The tech industry is slowly but surely pouring billions of dollars into the automotive market, with Apple, Xiaomi, and Huawei spearheading this expansion that’s expected to generate a whole new self-driving trend that would eventually attract other big names in the market too."
+    publishedDateTime: 2021-08-27T04:11:00Z
+    webUrl: "https://www.autoevolution.com/news/xiaomi-buys-self-driving-company-as-it-accelerates-apple-car-rival-development-168150.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 20
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/xiaomi-buys-self-driving-company-as-it-accelerates-apple-car-rival-development-168150-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
+  - title: "Xiaomi to acquire self-driving startup Deepmotion for $77.4 mn"
+    excerpt: "The new investment that the company is making this year will focus on building components for smart vehicles, including software platforms for self-driving cars."
+    publishedDateTime: 2021-08-27T05:47:00Z
+    webUrl: "https://www.sify.com/news/xiaomi-to-acquire-self-driving-startup-deepmotion-for-774-mn-news-education-vi1eP9jidhcbh.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 4
 
 secured: "w739U5W0zoyXNYaMpf0YYe7fUIZdsumMAzaXcxZk7J/CwV9AzKrrnH2huNpTvDKDE0fdFIWkzLtrKLrq0m7l1NQ+Z7FKsDhIbihQOcML6XvZTFxohT7UrVXzZvZDp8UR/Nl2+DTql+hHJ1+O2GCM9400ise7woZZKYsGUB+I1yOgEtRlt3w5X/pl5BFB7bsBdeK6/RIqsVew/REJieUjblYG2UCDcXASEsxsO1zxoNbuJYuEv7AoG/pbtp+dmOVk03DPzOnQcg6QZNGVJxUx1mRuFqNOkXAkfmJR+QAT2KXxIwMmrUotiiimc4rXKG23S8dB2Bg52ZhAgSs4ptiDErzsKXV0SPaQ45akF8iGaemOs4js7wSPgxCzlT4gvT9VVHXvGyEEREvXwd6HLPjtwL3Marrd230Y2I4zWvEo+AoPpXjHO2Se8uxdfwLc0N4jC0qlnjTYAdDAFHLGpahcnrcHOLcHsXHeW8Yo6YjM59oLBcePutiUfGCUuWaWNPDW9nefhO8PdNm7s6yBJEr8Hw==;Nam2Dzv9Xx2N5yo8M/Y+0Q=="
 ---

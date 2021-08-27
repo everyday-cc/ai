@@ -77,6 +77,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Alphabet's Waymo to stop selling lidar self-driving car sensors"
+    excerpt: "Alphabet Inc's self-driving unit Waymo said on Thursday that it has ended a two-year effort to sell light detection and ranging (lidar) sensors to other companies."
+    publishedDateTime: 2021-08-27T02:04:00Z
+    webUrl: "https://www.reuters.com/technology/alphabets-waymo-stop-selling-lidar-self-driving-car-sensors-sources-2021-08-27/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://www.reuters.com/resizer/icCZxD-J3v_6pHauZBSNngXG9zc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JH3ID44JRRIOTM3QAF4FV2F4OY.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Google self-driving spinoff Waymo begins testing with public in San Francisco"
     excerpt: "Alphabet Inc's Waymo has started taking a few San Franciscans on rides in its self-driving sport utility vehicles and hopes to open the robotaxis to anyone in the city in less than the three years it took to launch in its only other market."
     publishedDateTime: 2021-08-24T23:09:00Z
@@ -106,6 +120,22 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi_com/9741629827145/2021/1/9f564fe1a2df33fe5c199d118a5ded3f/v1.5/San-Francisco-residents-test-Waymos-self-driving-car.jpg"
         width: 800
         height: 535
+        isCached: true
+  - title: "Waymo launches rider testing for self-driving cars in San Francisco"
+    excerpt: "Some San Francisco residents will have a new way to get around the city. Waymo has launched rider testing of its self-driving cars. Right now, residents can sign up to become a “trusted tester” in the Waymo One app."
+    publishedDateTime: 2021-08-27T05:24:00Z
+    webUrl: "https://www.kron4.com/news/bay-area/waymo-launches-rider-testing-for-self-driving-cars-in-san-francisco/"
+    ampWebUrl: "https://www.kron4.com/news/bay-area/waymo-launches-rider-testing-for-self-driving-cars-in-san-francisco/amp/"
+    cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/bay-area/waymo-launches-rider-testing-for-self-driving-cars-in-san-francisco/amp/"
+    type: article
+    provider:
+      name: KRON4
+      domain: kron4.com
+    quality: 59
+    images:
+      - url: "https://www.kron4.com/wp-content/uploads/sites/11/2021/08/9B99F949367C44F185032B18736797B9.jpg?w=1280"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Google’s Waymo Expanding Ride-Hailing Self-Driving Car Service to San Francisco"
     excerpt: "Google’s self-driving vehicle spinoff, Waymo, announced Tuesday that it’s expanding its autonomous ride-hailing service to."

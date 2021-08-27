@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/xi
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/xiaomi-to-acquire-self-driving-startup-deepmotion-to-enter-ev-market-7470613/lite/"
 type: article
 quality: 142
-heat: 172
+heat: 192
 published: true
 
 provider:
@@ -72,6 +72,29 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Xiaomi Buys Self-Driving Company as It Accelerates Apple Car Rival Development"
+    excerpt: "The tech industry is slowly but surely pouring billions of dollars into the automotive market, with Apple, Xiaomi, and Huawei spearheading this expansion that’s expected to generate a whole new self-driving trend that would eventually attract other big names in the market too."
+    publishedDateTime: 2021-08-27T04:11:00Z
+    webUrl: "https://www.autoevolution.com/news/xiaomi-buys-self-driving-company-as-it-accelerates-apple-car-rival-development-168150.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 20
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/xiaomi-buys-self-driving-company-as-it-accelerates-apple-car-rival-development-168150-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
+  - title: "Xiaomi to acquire self-driving startup Deepmotion for $77.4 mn"
+    excerpt: "The new investment that the company is making this year will focus on building components for smart vehicles, including software platforms for self-driving cars."
+    publishedDateTime: 2021-08-27T05:47:00Z
+    webUrl: "https://www.sify.com/news/xiaomi-to-acquire-self-driving-startup-deepmotion-for-774-mn-news-education-vi1eP9jidhcbh.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 4
 
 secured: "/1EPAJvSj8G06qgFNueeLDB8E9HXgsvQHbzK4CeZ284XRD4J8wtIEnzIq75/FhDrbQfi2mdC1d1ZD6JyzpH5G2Ub7TWDOJPS76AkGK+3I7xKPB0oZQqwiQCREycrb8dlGr2yoSRcocXa2xC2a78ETqanwBfQs3926FDuzrDGkifNzw1xBgVUzE99gkS4u6kzB0+qpeOATWIwwHHi6ceRz04twk8yS4xUsygjuza/9bEfjLJ/X91KkQfTkXp7Q7C9FsnZ6bTtpqU0msdXfHqWbY+MR0qezDEuDEEgN8usg8qemWB2w6QlEgFesvVn0VfZi3laP+nKzA2B+J9fejEcDBfbeOLrz2RANOloAMMRTW4DuuZEg4qob/72Ff5+3LrDmjyQC4Qzwb41jJhzAR8WI+AeNFQEZJ3rFqEzKsq2y9rtUVg0nfHGjp0UNI36bixDcTaIPhq4a1LUQE+M0rS1P/2Votw0vm6l9mYoMW3g5Yj3eXXR+EwBRMPNyw/n7Cw1QWe5QFKmpRpZfRDGL/ufwGvbGSZUtpN1fqxPUx144NM=;6ZAKgORaZf6xjYm1M1i4lQ=="
 ---

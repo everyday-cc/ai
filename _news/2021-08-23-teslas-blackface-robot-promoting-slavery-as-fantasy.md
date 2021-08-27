@@ -60,20 +60,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "Elon Musk claims Tesla will debut a humanoid robot next year"
-    excerpt: "Elon Musk showed off his next big project: a sleek white and shiny humanoid robot, sized a bit smaller than the average man, engineered to perform “dangerous, repetitive, boring” tasks – sometime in the future."
-    publishedDateTime: 2021-08-22T13:00:00Z
-    webUrl: "https://www.newsminer.com/elon-musk-claims-tesla-will-debut-a-humanoid-robot-next-year/article_04b57798-020f-11ec-a1a6-97e3a7f545f4.html"
-    type: article
-    provider:
-      name: Fairbanks Daily News-Miner
-      domain: newsminer.com
-    quality: 71
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/newsminer.com/content/tncms/assets/v3/editorial/2/c2/2c2e14d8-020f-11ec-a4c7-dba736e7af3c/61203c36f0f09.image.jpg?crop=681%2C681%2C209%2C0&resize=630%2C630&order=crop%2Cresize"
-        width: 630
-        height: 630
-        isCached: true
   - title: "A|I: The AI Times – Tesla promised a robot"
     excerpt: "With more and more AI built on top of a few powerful models, bias and other flaws can rapidly spread. Careful review in an academic environment could help. Wisedocs’ CEO and founder Connor Atchison told BetaKit the startup recently changed its name to ..."
     publishedDateTime: 2021-08-25T09:31:00Z

@@ -73,6 +73,29 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Xiaomi Buys Self-Driving Company as It Accelerates Apple Car Rival Development"
+    excerpt: "The tech industry is slowly but surely pouring billions of dollars into the automotive market, with Apple, Xiaomi, and Huawei spearheading this expansion that’s expected to generate a whole new self-driving trend that would eventually attract other big names in the market too."
+    publishedDateTime: 2021-08-27T04:11:00Z
+    webUrl: "https://www.autoevolution.com/news/xiaomi-buys-self-driving-company-as-it-accelerates-apple-car-rival-development-168150.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 20
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/xiaomi-buys-self-driving-company-as-it-accelerates-apple-car-rival-development-168150-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
+  - title: "Xiaomi to acquire self-driving startup Deepmotion for $77.4 mn"
+    excerpt: "The new investment that the company is making this year will focus on building components for smart vehicles, including software platforms for self-driving cars."
+    publishedDateTime: 2021-08-27T05:47:00Z
+    webUrl: "https://www.sify.com/news/xiaomi-to-acquire-self-driving-startup-deepmotion-for-774-mn-news-education-vi1eP9jidhcbh.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 4
 
 secured: "CGUM4iilL7azc6KyGXn62Lr7vtS9traFMGSjGEOc9GLog+VJ3C4II1PH5flypdIdVNHayChVhShoU1HWBqtvVFsZyN+5WmqHy7gQ6RPm27p5H6X0/S7YuSeunyybKeH7D1rq7m9ytVdG5LfwoX1nFqGYczn5tdSwHGBANJ479Rw+n8oPJjXPLGzTZNQ1rpnA/oasPhR6Lkxd6I0UOCBkD6gXFPJTaB/qF9ZO87QOT4JU4/K6zhtqsQKQyt39sWtUZNTO9t0gnI0lc8Wqxef36FbIOd3COWhzg81gfqazw07WUnWyD3GWY30isV49INX2xvlb5NMdqMpS4xgqXh9L1umgpuzBs16qroL+EWOyjlY=;oY4Rb8/1yhcVzxYFrfRdmw=="
 ---

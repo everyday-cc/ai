@@ -38,34 +38,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "United States Automotive Voice Recognition Systems Market Report 2021 - Forecast to 2026 - ResearchAndMarkets.com"
-    excerpt: "The “Automotive Voice Recognition Systems Market Research Report by Deployment, by State - United States Forecast to 2026 - Cumulative Impact of COVID-19” report has been added to ResearchAndMarkets.com’s offering."
-    publishedDateTime: 2021-08-24T14:32:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-united-states-voice-recognition-020d4caabfe8456fbe7b0856bbb2bf8f"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 3
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Global Federated Learning Market Research Report 2021: Leveraging Open Source Tools to Accelerate Technology Development across Organizations and Regi"
-    excerpt: "New Approach to Building AI Models\" report has been added to ResearchAndMarkets.com's offering. Federated learning is a distributed ML architecture that enables a global model to be trained using decentralized data."
-    publishedDateTime: 2021-08-23T14:23:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=519914"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
 
 secured: "Mt0VE+osmPOQMEZMVl3UT7dxNpUtfE8AkKhMcxJOXFwVuTsA9OSFd/LnR5kM/VSFmSDLTy8pFEUH8KpcuaTHI+Jh+YztHHGfQypDc6EnFN43egZozQWRLzOJF9RLUu7h6GJ53SsVPwm3dVZNxwCFzUEFxW5Xdv7kNuMsIvoqRIuy+aCcQP4jaBUHluoSE06QsSXbYhRmyMlbnbCeBSPelnvqgHtvLOSvBto43+Koux8KhKsc3eio4YEeQmo5tthevmf5mkDGZNeAPgi4IlRgI526Xvoa7q2kxe2Tdy/ETqrl25o018Pny+XR59vi11vZy8vMEOiLVzk3r7QTYqKXeVDeihqdS5UC2jy4EFpjVcg=;aXp5vFqh+UbO5rGXE6K4Kg=="
 ---

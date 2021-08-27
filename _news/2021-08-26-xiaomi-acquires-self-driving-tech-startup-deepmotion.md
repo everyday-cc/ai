@@ -73,6 +73,29 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Xiaomi Buys Self-Driving Company as It Accelerates Apple Car Rival Development"
+    excerpt: "The tech industry is slowly but surely pouring billions of dollars into the automotive market, with Apple, Xiaomi, and Huawei spearheading this expansion that’s expected to generate a whole new self-driving trend that would eventually attract other big names in the market too."
+    publishedDateTime: 2021-08-27T04:11:00Z
+    webUrl: "https://www.autoevolution.com/news/xiaomi-buys-self-driving-company-as-it-accelerates-apple-car-rival-development-168150.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 20
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/xiaomi-buys-self-driving-company-as-it-accelerates-apple-car-rival-development-168150-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
+  - title: "Xiaomi to acquire self-driving startup Deepmotion for $77.4 mn"
+    excerpt: "The new investment that the company is making this year will focus on building components for smart vehicles, including software platforms for self-driving cars."
+    publishedDateTime: 2021-08-27T05:47:00Z
+    webUrl: "https://www.sify.com/news/xiaomi-to-acquire-self-driving-startup-deepmotion-for-774-mn-news-education-vi1eP9jidhcbh.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 4
 
 secured: "Xd5Eq36/uKoAzm/WgneVfgL2ARtBt4vOxuxRoUHZjovA+C/f6dY+lWLd7010ccQXnH7TSDT4rGXgbj2SINLwulZsGZ5MiVkxDfyDBJoC6UNWv13O2PaWUoS3fylUwHR/4Iu+Uf4lASJRDUZkdMHovlvH/LxahQ46HTV3SOF8eSWpJpZ1vImHA72a11Blrm01ln1l0yHmmn2lDXpcO2K3uQT2+f8gJrparWpZ04ycTYcWQKe33wpbkf6kGqozDI5e5doJGGw0+rxuNrus6fLP2UL7qnBcWnhtwzUEDLo5UIaCWhQ9mgozWMUIY8YnzfyaihIsjNYPIoLXYDDFGlHDidezxPm5nrQm5UhHcBQvNeDPL4p+rlfuXYFgg6IR8WmPjT9PMgmMXmAse0wf7NCBRvowrbhHZ73Dqfnln6jVrULQp4xUvJrxLtRqI54H0gp2BYaiuVgSVlmvln/9meudIGdzMQz1DQA4tmBtVZrbgupFea65BM3lrbMptvHhbWXmoEgSHlOiVFrZ8gDwjnXbOw==;ecF833Gvz1rj9R40gA3DjQ=="
 ---

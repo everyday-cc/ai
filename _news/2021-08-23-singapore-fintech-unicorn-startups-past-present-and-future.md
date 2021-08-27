@@ -66,20 +66,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Cruise film stars self-driving car to build trust"
-    excerpt: "The car, one of 200 used for testing by the GM unit, stars in a short film meant to earn consumers' trust and educate them about the technology."
-    publishedDateTime: 2021-08-22T11:15:00Z
-    webUrl: "https://www.autonews.com/mobility-report/cruise-film-stars-self-driving-car-build-trust"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/4POPPY-MAIN_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "nC/J8YTL6PHiQHBwQ2jZtd3dsWUpMjDvPZ4BCTQKgNBGYxQdDr3DDOzItS2RD75dK+9++WyvQ7GeC+AnPzVaSHFhDBFBSg7QboKEkinHQHwBOnEwiLehLXkGByTU1nGZeX9p4lufP6GODyR5MIZWp1YWnz9xGKGbj5VIe0x278aqiicXtp2EfRIpBlqNyWlrQzmHW0PV8jpLu8fmeqSueUoLSV2Sd6uRmYahBPz26jhIpqyYoDxE3m93QZEw+A+sjbuU+keSXmIgBxym6KWNE3lpYS0PLhlydw7EV/n4s0LFGYNmETJoUIrdlQl9x4dKHgcMNd56uPPV4tYr2KJQ0Imy+pFAS9e1/Vyy7Qr96K432xCyfiM+WzkHAyLQa5RqnSIsfUhpSWJtjaKrEEHDctxxiF8m1fp+nOAxPlHF1hG7njAkRc9+SeSpmV7RvDvGGUpDsHgcVDcCOtiEg8IpuwQqBqPlqrbBIMrzB24qRlVX4HHhzCaeTSt03/bovK1QusK+DxyOsoGiYZFPbRgPmQ==;ZgCVsQbMM7scnxPZ3oXpbw=="
 ---

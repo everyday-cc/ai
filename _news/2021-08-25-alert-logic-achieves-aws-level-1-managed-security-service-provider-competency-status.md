@@ -63,6 +63,15 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 31
+  - title: "Sun Life Taps AWS as Its Long-Term Strategic Cloud Provider to Transform Digital Services"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Sun Life (TSX: SLF) (NYSE: SLF) has selected AWS as"
+    publishedDateTime: 2021-08-27T04:01:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210826005687/en/Sun-Life-Taps-AWS-as-Its-Long-Term-Strategic-Cloud-Provider-to-Transform-Digital-Services"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 12
 
 secured: "7Iq/E5rCc1WCafZfdsIm7JMIiSvH4AY2JdnuRwXU8I5nmGiVqLol6oXiHB95CyMOeWJsyNUOcoJ36Xr30R4M3BWEbMdZHngz325KMiDisnrHOov02/k7ni9941Dp9KlwjHjg0G9q8CwbV8TW1+gZ5xFzFJVJBWI0CngdMdoiR56rznuo5wCRROem0qSuh9NHiqAa1+rieIhfBQjejGPV/40ryGII7GqZJ+HZBqzYlSovbDcaqZdOukxX3Ijh59Oj//NbF72SQv+81wJjvgLw5Qt9X5O9eowN6xGzxNtgrZbDViC1RcNxQmeYoVN6r7MHuXX9gwHLetT/Ffx1kNP12jiznMv+BBLeCmtb/QCcizI=;MwZV+oBG6ySZODNUo6hKMg=="
 ---

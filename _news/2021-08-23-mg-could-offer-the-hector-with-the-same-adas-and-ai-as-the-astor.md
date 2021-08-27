@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Meet the voice behind MG Astor's AI assistant"
+    excerpt: "One of the highlights of the upcoming MG Astor is the personal AI assistant. MG has now revealed the voice behind this interactive robot.The carmaker has announced that the AI assistant in the upcoming"
+    publishedDateTime: 2021-08-27T05:14:00Z
+    webUrl: "https://www.team-bhp.com/news/meet-voice-behind-mg-astors-ai-assistant"
+    ampWebUrl: "https://www.team-bhp.com/news/meet-voice-behind-mg-astors-ai-assistant?amp"
+    cdnAmpWebUrl: "https://www-team--bhp-com.cdn.ampproject.org/c/s/www.team-bhp.com/news/meet-voice-behind-mg-astors-ai-assistant?amp"
+    type: article
+    provider:
+      name: Team-BHP.com
+      domain: team-bhp.com
+    quality: 59
+    images:
+      - url: "https://www.team-bhp.com/sites/default/files/styles/amp_high_res/public/20210826_174114.jpg"
+        width: 1280
+        height: 960
+        isCached: true
   - title: "MG Astor to come with a personal AI assistant: All that you should know"
     excerpt: "MG Motor India has revealed its upcoming Astor SUV. The upcoming MG SUV will come with a host of connected and smart technology. One of these will be a personal Artificial Intelligence (AI) guided assistant."
     publishedDateTime: 2021-08-22T17:38:00Z

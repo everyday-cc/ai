@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/autos-transportation/secret-weapo
 webUrl: "https://www.reuters.com/business/autos-transportation/secret-weapon-self-driving-car-startups-humans-2021-08-23/"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       - url: "https://images.hindustantimes.com/auto/img/2021/08/23/600x338/mary-barra_c8eff84c-50d2-11e7-88ef-5a5d74cf2589_1629721137550.jpg"
         width: 600
         height: 338
-        isCached: true
-  - title: "Cruise film stars self-driving car to build trust"
-    excerpt: "The car, one of 200 used for testing by the GM unit, stars in a short film meant to earn consumers' trust and educate them about the technology."
-    publishedDateTime: 2021-08-22T11:15:00Z
-    webUrl: "https://www.autonews.com/mobility-report/cruise-film-stars-self-driving-car-build-trust"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/4POPPY-MAIN_i.jpg"
-        width: 800
-        height: 600
         isCached: true
   - title: "Singapore Fintech Unicorn Startups: Past, Present, and Future"
     excerpt: "Let’s take a look at Singapore’s unicorn companies: from the past, present, and the aspiring unicorns of the future."

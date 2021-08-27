@@ -27,22 +27,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "Growth in AI-Enabled Distributed Energy Resources Integration Market to Reach $481 Million by 2030"
-    excerpt: "AI techniques have been deployed in the energy industry for a variety of grid and market operations. A new report from Guidehouse Insights analyzes AI capabilities for enabling distributed energy resources (DER) integration,"
-    publishedDateTime: 2021-08-25T17:12:00Z
-    webUrl: "https://www.tdworld.com/smart-utility/data-analytics/article/21173397/growth-in-aienabled-distributed-energy-resources-integration-market-to-reach-481-million-by-2030"
-    type: article
-    provider:
-      name: T&D
-      domain: tdworld.com
-    quality: 25
-    images:
-      - url: "https://img.tdworld.com/files/base/ebm/tdworld/image/2021/08/16x9/GettyImages_1321274917.612679572a572.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 674
-        isCached: true
-
 secured: "ROUM8PTODByGe3eEH66V5/gHx9pXCB2vkvO5lf6tZpqNcQdVpMmrhDPDV4qBzNWaE7HcZCyu/fMqlvij43RKGKrC6HMqxQRxkYMe/Jy5tQA6j5NaMkuIygDAPqeJlE+KzG0ukgm6jzcA51jygWmeo4uOXwuQ4Qy6G3LboxEJopIQCL+uENuH8nZNG+xWX7KbFcEo3o1bzf3ZnMVkAWFjeVKpZCsxD6O/9QbAke/LRxvC2GXgBPfJkc9u61pjJbUDIMroHEgIUS1Z2qaY0OCxjbPAckrkPYJDKTD1SrrRKOR+MHzuVK0k1HbQ1OZ8BgedMU0zYtglKHjJ8DMCWAKLDxfdodNsmqKBxvEm3tm+tzWPlRANp7e9u2N+GZ9BFA5vNQ0DbCPi9HtA+e2nTLU5P7K6HhU5N04B+IOb80bSxcy4S/CS5NQflp+C92ugocg6migJMOGv0HvXUFNuhG1B1qk/e9c1ODW08HsaCa4WiH1JxUVkuBBgf9aeWCeL+eZtcM+U1aYuYXWPTYtJQJ+95g==;k18VnY9ZfbKIAu6wlzHIJA=="
 ---
 
