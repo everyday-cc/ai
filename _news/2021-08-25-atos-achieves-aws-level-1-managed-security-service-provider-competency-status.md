@@ -7,7 +7,7 @@ originalUrl: "https://www.pressreleasepoint.com/atos-achieves-aws-level-1-manage
 webUrl: "https://www.pressreleasepoint.com/atos-achieves-aws-level-1-managed-security-service-provider-competency-status"
 type: article
 quality: 53
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -63,15 +63,6 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 31
-  - title: "Sun Life Taps AWS as Its Long-Term Strategic Cloud Provider to Transform Digital Services"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Sun Life (TSX: SLF) (NYSE: SLF) has selected AWS as"
-    publishedDateTime: 2021-08-27T04:01:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210826005687/en/Sun-Life-Taps-AWS-as-Its-Long-Term-Strategic-Cloud-Provider-to-Transform-Digital-Services"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 12
 
 secured: "Lp3z8p3Fa9OZXxBvFJ1Udgn68En9ZWvhgI2hLamKG3v+RyswA+HdI/OKrWik1ddtjCju0LbhP6eFGKY863SXkdKGWtH85oKxbn6t5uc5V8cCBeUCJUAVBkVVR7FIRKoCzEpqPTlPOBNX8DLQRqQ3SMrfKiRHpJkh0LmYZfLdeqmksyCJCzk3dB4N/xUzyL3Rmr1xmYx7unoeXSncJ+7J8L44d6lOzyQLAVmM6haClJIbBoZoAUsm2rPDW2cRlshvpUhERC7eB+Mm829vdijt4EPpdsttW/vll+HNGpDQq0D/XTVlUPBZ4E6zI0r4LlWAJDg0scQNkzmdQqSPPNGj94UStDkUVrGSjqsdgOK27+U=;u1lVfUX6BXhR9NR/IWOeqQ=="
 ---

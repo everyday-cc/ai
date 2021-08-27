@@ -78,6 +78,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Cerebras Systems Connects Its Huge Chips to Make AI More Power-Efficient"
+    excerpt: "Cerebras Systems, the Silicon Valley startup making the world's largest computer chip, said on Tuesday it can now weave together almost 200 of the chips to drastically reduce the power consumed by artificial-intelligence work."
+    publishedDateTime: 2021-08-24T21:22:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-08-24/cerebras-systems-connects-its-huge-chips-to-make-ai-more-power-efficient"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 46
   - title: "Cerebras Systems Announces World’s First Brain-Scale Artificial Intelligence Solution"
     excerpt: "Cerebras Systems, the pioneer in innovative compute solutions for Artificial Intelligence (AI), today unveiled the world’s first brain-scale AI solution. The human brain contains on the order of 100 trillion synapses."
     publishedDateTime: 2021-08-24T23:00:00Z

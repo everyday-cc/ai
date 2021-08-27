@@ -6,7 +6,7 @@ publishedDateTime: 2021-08-26T13:00:00Z
 originalUrl: "https://venturebeat.com/2021/08/26/cocopie-which-optimizes-ai-for-edge-devices-raises-6m/"
 webUrl: "https://venturebeat.com/2021/08/26/cocopie-which-optimizes-ai-for-edge-devices-raises-6m/"
 type: article
-quality: 67
+quality: 69
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/11/texting.GettyImages-994454806-e1623124901126.jpg?w=1200&#038;strip=all"

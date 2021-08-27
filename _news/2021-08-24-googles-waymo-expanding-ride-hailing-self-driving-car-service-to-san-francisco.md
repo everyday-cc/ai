@@ -143,6 +143,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Waymo to stop selling lidar self-driving car sensors"
+    excerpt: "Most self-driving car firms, including Waymo, say lidars are key to achieving full autonomy. Tesla CEO Elon Musk says companies that rely on the expensive sensors are \"doomed\"."
+    publishedDateTime: 2021-08-27T07:41:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/tech-bytes/waymo-to-stop-selling-lidar-self-driving-car-sensors/articleshow/85681776.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/tech-bytes/waymo-to-stop-selling-lidar-self-driving-car-sensors/amp_articleshow/85681776.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/tech-bytes/waymo-to-stop-selling-lidar-self-driving-car-sensors/amp_articleshow/85681776.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-36846,msid-85681738/waymo-chrysler-pacifica-hybrid-self-driving-car.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Training Self-Driving Cars for $1 An Hour"
     excerpt: "Every day for over four years, Ramses woke up in his home in Barquisimeto, Venezuela, turned on his computer, and began labeling images that will help make self-driving cars ubiquitous one day. Through a microtasking platform called Remotasks,"
     publishedDateTime: 2021-08-25T12:59:00Z

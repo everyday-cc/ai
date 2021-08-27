@@ -2,6 +2,50 @@
   "page": 68,
   "value": [
     {
+      "path": "_news/2021-07-09-pentagon-document-shows-hpc-key-to-dods-post-jedi-cloud-strategy-early-co-favorites-aws-and-azure.md",
+      "title": "Pentagon Document Shows HPC Key to DoD’s Post-JEDI Cloud Strategy; Early Co-favorites: AWS and Azure",
+      "excerpt": "In its July 6 announcement, DoD said that JEDI’s single supplier approach would be replaced by multiple providers, most likely AWS and Azure – though ... Command and Control (JADC2) and the Artificial Intelligence and Data Acceleration (ADA) initiative.",
+      "sourceUrl": null,
+      "webUrl": "https://insidehpc.com/2021/07/pentagon-document-shows-hpc-key-to-dods-post-jedi-cloud-strategy-early-co-favorites-aws-and-azure/",
+      "originalUrl": "https://insidehpc.com/2021/07/pentagon-document-shows-hpc-key-to-dods-post-jedi-cloud-strategy-early-co-favorites-aws-and-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insidehpc.com/wp-content/uploads/2020/08/Department-of-Defense-DOD-seal.png",
+          "width": 600,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-09-cloudplexo-launches-aws-well-architected-alignment-tool-to-assess-cloud-environment.md",
       "title": "CloudPlexo Launches AWS Well-Architected Alignment Tool to Assess Cloud Environment",
       "excerpt": "CloudPlexo, cloud optimization and efficiency SaaS platform provider, announces the launch of its AWS Well-Architected Alignment Tool which enables cloud architects,",
@@ -1110,60 +1154,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-learn-about-machine-learning-through-the-lens-of-a-hedge-fund.md",
-      "title": "Learn About Machine Learning Through The Lens Of A Hedge Fund",
-      "excerpt": "Artificial intelligence is widely discussed in CIO conversations down to IT resourcing meetings in companies today. There is a range of topics that enterprises are involved in from research to novel applications and enterprise product usage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/garydrenik/2021/07/08/learn-about-machine-learning-through-the-lens-of-a-hedge-fund/",
-      "originalUrl": "https://www.forbes.com/sites/garydrenik/2021/07/08/learn-about-machine-learning-through-the-lens-of-a-hedge-fund/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e5c717408017304b049065%2F0x0.jpg",
-          "width": 640,
-          "height": 251,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2021/07/08/learn-about-machine-learning-through-the-lens-of-a-hedge-fund/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2021/07/08/learn-about-machine-learning-through-the-lens-of-a-hedge-fund/amp/",
-      "publishedDateTime": "2021-07-08T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI",
-        "AI in Finance"
       ]
     }
   ],

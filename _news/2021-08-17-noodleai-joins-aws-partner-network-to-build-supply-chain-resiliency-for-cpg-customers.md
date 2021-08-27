@@ -1,20 +1,24 @@
 ---
 category: news
 title: "Noodle.ai Joins AWS Partner Network to Build Supply Chain Resiliency for CPG Customers"
-excerpt: "Noodle.ai, the leading provider of Flow Operations (FlowOps) software, today announced it has become an Amazon Web Services (AWS)"
-publishedDateTime: 2021-08-17T12:05:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/noodleai-joins-aws-partner-network-to-build-supply-chain-resiliency-for-cpg-customers-301356411.html"
-webUrl: "https://www.prnewswire.com/news-releases/noodleai-joins-aws-partner-network-to-build-supply-chain-resiliency-for-cpg-customers-301356411.html"
+excerpt: "Noodle.ai, the leading provider of Flow Operations (FlowOps) software, today announced it has become an Amazon Web Services (AWS) Advanced Technology Partner to drive scale and efficiency for the supply chains of global consumer packaged goods (CPG) companies."
+publishedDateTime: 2021-08-17T14:05:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/noodle-ai-joins-aws-partner-network-to-build-supply-chain-resiliency-for-cpg-customers-1030737980"
+webUrl: "https://markets.businessinsider.com/news/stocks/noodle-ai-joins-aws-partner-network-to-build-supply-chain-resiliency-for-cpg-customers-1030737980"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
-secured: "s2MhsxaBTRgT2F7QFIChdNW0ju/GceVpawXYyNcEyap2NppsR7ufQuy+TfD0ukofhGl5nHRD8ArYf7J5Bi+LfTT3WKfqio85t6p/SpZbZBQPfgSEgbw2Esa6hJKBuhI+VvdS8jJiDUmwAUrWbcCJ3P6ztOeEoQghcKLMQrujyuxpKJlHtH58UY0WyGOZeddNdTqPlns5C3Uf5rU0ADwR9w5PKvoTnxew6zwOOVov+rmHxp1ppdu6aSdlBMkVVh4piO4PP1o1nIdqsyeULug/Y6NUcA4VNHKskReN48Hbv+iFq28ui74dvmloJxbuRh4uLPpk6jcxLQQNA+4iasZIE+6CSyo7+7JTk4U3Sd9COs0=;ZAY+SdRy0ockXH5ScUynwQ=="
+secured: "BRJwG5ZAJ8ieThIcSBl74tf9cn5t6aGcc5/bKMsQxNYV62Mte5AkkGWNBgequ/pji1CyO53JOF5j+NHDpZApqsXU/zLjDGyY2k4Klb8zGGMyMMfg1EzbH+cfL0TKGvGsqUdQMmtsEsACH0clCoHXq2oCFiE+al/zd7HI4pMOjp4Qnah9RsSmMy12bQr1RBizX9G5avfLe0/tAxUmB+BPEMhgjsd+nO5qLEg/a8EIDmAJXxQNdK3wQ/hSx8Tio0weFjnTd87mtcQQeahABjOd5ijpyuig60c+nKXlZKct4K58ylEK/i5niC8aMD3rmo3lWYWuSwfSfgGRTBnE13ML3OJD+9BAw2VE6HAj/Mqzqn4=;LRsxXCa84ZSw8zbGHzggJg=="
 ---
 

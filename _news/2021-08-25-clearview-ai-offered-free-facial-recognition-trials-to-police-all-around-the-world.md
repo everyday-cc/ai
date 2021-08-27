@@ -9,7 +9,7 @@ ampWebUrl: "https://www.buzzfeednews.com/amphtml/ryanmac/clearview-ai-internatio
 cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/ryanmac/clearview-ai-international-search-table"
 type: article
 quality: 98
-heat: 189
+heat: 198
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6123848325385b2b21e3c8cd%2F0x0.jpg"
         width: 1200
         height: 754
+        isCached: true
+  - title: "Federal agencies plan to expand use of facial recognition technology"
+    excerpt: "At least 10 federal agencies will use facial recognition devices in the next few years, the Government Accountability Office said."
+    publishedDateTime: 2021-08-26T17:26:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/08/26/facial-recognition-technology-federal-government/9701629997438/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/08/26/facial-recognition-technology-federal-government/9701629997438/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/08/26/facial-recognition-technology-federal-government/9701629997438/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 59
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi_com/9701629997438/2021/1/e30981875b6529604732f53d58b86540/v1.5/Federal-agencies-plan-to-expand-use-of-facial-recognition-technology.jpg"
+        width: 800
+        height: 532
         isCached: true
   - title: "Clearview AI wins a military facial recognition contract"
     excerpt: "Documents revealing that a criminal investigation unit of the U.S. Army is using Clearview AI's facial recognition subscription service have been published."

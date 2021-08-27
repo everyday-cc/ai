@@ -2,6 +2,50 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-08-12-deep-learning-chip-market-trend-forecast-drivers-restraints-company-profiles-and-key-players-analysis-by-2028.md",
+      "title": "Deep Learning Chip Market Trend, Forecast, Drivers, Restraints, Company Profiles and Key Players Analysis by 2028",
+      "excerpt": "The global deep learning chip market is expected to reach a market size of USD 27.75 Billion by 2028 and register a high revenue CAGR, according to latest analysis by Emergen Research. Increasing quantum computing adoption is expected to drive global deep learning chip market growth to a significant extent during the forecast period.",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/deep-learning-chip-market-trend-forecast-drivers-restraints-company-profiles-and-key-players-analysis-by-2028/",
+      "originalUrl": "https://manometcurrent.com/deep-learning-chip-market-trend-forecast-drivers-restraints-company-profiles-and-key-players-analysis-by-2028/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manometcurrent.com/wp-content/uploads/2021/08/Rotating-U-Disk-Market-390x220.jpg",
+          "width": 390,
+          "height": 220,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/deep-learning-chip-market-trend-forecast-drivers-restraints-company-profiles-and-key-players-analysis-by-2028/",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-learning-chip-market-trend-forecast-drivers-restraints-company-profiles-and-key-players-analysis-by-2028/",
+      "publishedDateTime": "2021-08-12T08:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-08-12-dalhousie-universitys-ai-robotics-team-wins-gold-in-robocup.md",
       "title": "Dalhousie University’s AI robotics team wins gold in RoboCup",
       "excerpt": "The Dalhousie University's AI robotics team, CYRUS, has become the first Canadian team to win gold in the international RoboCup competition. Team CYRUS, led by research assistant Nader Zare and PhD student Mahtab Sarvmaili,",
@@ -1074,57 +1118,6 @@
         "name": "kr-asia",
         "domain": "kr-asia.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-chinas-tech-crackdown-thwarts-ponyais-us-listing-plans-insiders-say.md",
-      "title": "China’s tech crackdown thwarts Pony.ai’s US listing plans, insiders say",
-      "excerpt": "The autonomous driving start-up’s hold on going public follows Beijing’s move to ban ride-sharing giant Didi from signing up new users soon after its IPO.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/news/world/united-states-canada/article/3144742/chinas-tech-crackdown-thwarts-ponyais-us-listing",
-      "originalUrl": "https://www.scmp.com/news/world/united-states-canada/article/3144742/chinas-tech-crackdown-thwarts-ponyais-us-listing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/08/12/8875ae8e-fadc-11eb-aa37-9736ba6f9b4b_image_hires_035937.jpg?itok=iEFkWb3Y&v=1628711988",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/news/world/united-states-canada/article/3144742/chinas-tech-crackdown-thwarts-ponyais-us-listing",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/united-states-canada/article/3144742/chinas-tech-crackdown-thwarts-ponyais-us-listing",
-      "publishedDateTime": "2021-08-11T20:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

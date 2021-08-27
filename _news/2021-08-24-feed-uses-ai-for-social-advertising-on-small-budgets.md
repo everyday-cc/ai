@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "AI is here to augment us"
-    excerpt: "Amidst the hype around artificial intelligence (AI) and machine learning (ML), it is easy for businesses to fall into the trap that technology is a panacea to solve complex business problems. The truth is more nuanced,"
-    publishedDateTime: 2021-08-22T14:48:00Z
-    webUrl: "https://gadget.co.za/ai-is-here-to-augment-us/"
-    type: article
-    provider:
-      name: gadget.co.za
-      domain: gadget.co.za
-    quality: 37
-    images:
-      - url: "https://i2.wp.com/gadget.co.za/wp-content/uploads/2019/05/action-artificial-intelligence-device-595804-scaled.jpg?resize=1000%2C600&#038;ssl=1"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Space – Intriguing and Inventive Robot Designs that prove artificial intelligence is here to stay + make the world a better place!"
     excerpt: "Artificial Intelligence has catapulted in recent years, and the advancements being made in this field make me feel as if it won’t be long before we have robots walking amongst us all the time! There was a point in time when the only forms of robots that ..."
     publishedDateTime: 2021-08-25T01:52:00Z

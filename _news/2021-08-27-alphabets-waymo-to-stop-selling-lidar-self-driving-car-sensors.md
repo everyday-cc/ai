@@ -137,6 +137,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Waymo to stop selling lidar self-driving car sensors"
+    excerpt: "Most self-driving car firms, including Waymo, say lidars are key to achieving full autonomy. Tesla CEO Elon Musk says companies that rely on the expensive sensors are \"doomed\"."
+    publishedDateTime: 2021-08-27T07:41:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/tech-bytes/waymo-to-stop-selling-lidar-self-driving-car-sensors/articleshow/85681776.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/tech-bytes/waymo-to-stop-selling-lidar-self-driving-car-sensors/amp_articleshow/85681776.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/tech-bytes/waymo-to-stop-selling-lidar-self-driving-car-sensors/amp_articleshow/85681776.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-36846,msid-85681738/waymo-chrysler-pacifica-hybrid-self-driving-car.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Google’s Waymo Expanding Ride-Hailing Self-Driving Car Service to San Francisco"
     excerpt: "Google’s self-driving vehicle spinoff, Waymo, announced Tuesday that it’s expanding its autonomous ride-hailing service to."
     publishedDateTime: 2021-08-24T11:52:00Z
@@ -228,6 +244,6 @@ related:
       domain: globalspec.com
     quality: 19
 
-secured: "kh9hVAhj0LvnNdc2NGN8AIVxJFREMjL/UHbv94WfVpaGOMbPE6Hy88BPNRk5RvMlvGBiwvScm8O9dNZjx8YL0Mf+UwtT2lIDX1FYo8dJTj6c8XD0rhwQnrtd4tVoXXe5J2exBUC76ircjXKoMB3mKZLrtwEouOGMi6OYKZ3nsxEHI2thFCTQ8w0MDLWfm9R85xRIsHzH8P8xWhhVlqJVmaM8BUaZh5wzdBPQQVP06tuawvx5l93PmAVE82fA0GKbw/3idP63lFBGJsX1wNZAeFrLJGpxYfaeMUisarRMKYdVBOsv51lLwUAlq0lPj0UU8WrLbpxdopvP5laLhdziOTR24mwxMhDdkvgSOlTiGqg=;ADCTiaFr7u7w5Uu2dMNVCg=="
+secured: "9mkQFgYZN+tzCSM3ayf2072tpw27wr2MMpPoAVrq1M9128ms6lZNxMtwJ/x2U6Iofvr8I7qHs70XPsd5330B47mb5SZc6KK213e94k8/XStLx/6ySd+OJB1j1dmzEkjmTXLejwXzhUE1nIrpvaHKqgiqtgccVbeNWeEyrm7oHoLINp8IUUsxbmZRxHBdIfyMxSbgk8Tisyh61HdtFVnq8Ze2hGS5CQgIu4R/AVHHQXbHGmf5BcHzKs4wT6Yma0mZnvGupyd1cBzBou3dMxTVqhFp5K0RINQjlkxEvOUMjzyRkimkVxp5mPc5kHAn8GGEc/CTLfsCNYYzmxOeyKCFJ0WF2JZKQpEmbn+FqCZCiXCKUNCdcF3mfvufmJ4b9GdNTgYRQHzlylKV0VNmLdM/PaOsXwnxaFpyfAo6KOrH89qcmz7pqOyb+PRUXU8Bxsu/sD/6WJHQLTqVDaY/yBz1AfDoC7Oqdp5bDbCbIIlYs6/OafJvih5KTPgxaU56MBzlwnB0h+hakHm6CmNPYU1Pdw==;6bbFZIUgTQ8+T8MAPXxRjA=="
 ---
 

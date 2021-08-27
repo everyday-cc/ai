@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/24/urbint-which-uses-ai-to-predict-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/24/urbint-which-uses-ai-to-predict-threats-to-infrastructure-nabs-60m/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 99
 published: true
 
 provider:
@@ -38,7 +38,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2020/11/texting.GettyImages-994454806-e1623124901126.jpg?w=1200&#038;strip=all"
         width: 1200

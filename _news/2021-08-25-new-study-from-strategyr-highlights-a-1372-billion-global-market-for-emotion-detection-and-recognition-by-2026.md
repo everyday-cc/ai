@@ -44,14 +44,14 @@ related:
   - title: "LSCO student receives Congressional Recognition"
     excerpt: "Lamar State College Orange student, Steven Wilkerson, received a Special Certificate of Congressional Recognition from Congressman Brian Babin’s office for completing their 2021 Summer Intern Program this summer."
     publishedDateTime: 2021-08-25T05:26:00Z
-    webUrl: "https://orangeleader.com/2021/08/25/lsco-student-receives-congressional-recognition/"
+    webUrl: "https://www.orangeleader.com/2021/08/25/lsco-student-receives-congressional-recognition/"
     type: article
     provider:
       name: The Orange Leader
       domain: orangeleader.com
     quality: 24
     images:
-      - url: "https://orangeleader.com/wp-content/uploads/sites/42/2021/08/LSCO-student-receives-Congressional-Recognition--rotated.jpg"
+      - url: "https://www.orangeleader.com/wp-content/uploads/sites/42/2021/08/LSCO-student-receives-Congressional-Recognition--rotated.jpg"
         width: 1200
         height: 1600
         isCached: true

@@ -133,6 +133,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Waymo to stop selling lidar self-driving car sensors"
+    excerpt: "Most self-driving car firms, including Waymo, say lidars are key to achieving full autonomy. Tesla CEO Elon Musk says companies that rely on the expensive sensors are \"doomed\"."
+    publishedDateTime: 2021-08-27T07:41:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/tech-bytes/waymo-to-stop-selling-lidar-self-driving-car-sensors/articleshow/85681776.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/tech-bytes/waymo-to-stop-selling-lidar-self-driving-car-sensors/amp_articleshow/85681776.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/tech-bytes/waymo-to-stop-selling-lidar-self-driving-car-sensors/amp_articleshow/85681776.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-36846,msid-85681738/waymo-chrysler-pacifica-hybrid-self-driving-car.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Google’s Waymo Expanding Ride-Hailing Self-Driving Car Service to San Francisco"
     excerpt: "Google’s self-driving vehicle spinoff, Waymo, announced Tuesday that it’s expanding its autonomous ride-hailing service to."
     publishedDateTime: 2021-08-24T11:52:00Z

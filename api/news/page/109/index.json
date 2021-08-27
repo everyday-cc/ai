@@ -1,0 +1,57 @@
+{
+  "page": 109,
+  "value": [
+    {
+      "path": "_news/2017-02-11-saffron-technology-how-intels-cognitive-computing-acquisition-thrives-on-chaos.md",
+      "title": "Saffron Technology: How Intel's cognitive computing acquisition thrives on chaos",
+      "excerpt": "Gayle Sheppard, CEO of Saffron Technology, outlines the company's history, explains how it fits into Intel's AI portfolio ... to the top IT professionals, all in an ad-free experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ibm-ceo-arvind-krishna-on-watson-ai-enterprise-future-plans-2021-5",
+      "originalUrl": "https://www.techrepublic.com/article/saffron-technology-how-intels-cognitive-computing-acquisition-thrives-on-chaos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/609ae0ed342837001822cd17?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2017-02-10T09:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    }
+  ],
+  "nextPage": null
+}

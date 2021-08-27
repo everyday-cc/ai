@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-08-23-virtual-dressing-room-startup-reveryai-applying-computer-vision-to-the-fashion-industry.md",
+      "title": "Virtual dressing room startup Revery.ai applying computer vision to the fashion industry",
+      "excerpt": "Revery.ai is developing a tool that leverages computer vision and artificial intelligence to create a better online dressing room experience.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/08/23/virtual-dressing-room-startup-revery-ai-applying-computer-vision-to-the-fashion-industry/",
+      "originalUrl": "https://techcrunch.com/2021/08/23/virtual-dressing-room-startup-revery-ai-applying-computer-vision-to-the-fashion-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/08/GettyImages-969952548.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/08/23/virtual-dressing-room-startup-revery-ai-applying-computer-vision-to-the-fashion-industry/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/23/virtual-dressing-room-startup-revery-ai-applying-computer-vision-to-the-fashion-industry/amp/",
+      "publishedDateTime": "2021-08-23T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-08-23-10-key-questions-every-company-should-ask-before-using-ai.md",
       "title": "10 Key Questions Every Company Should Ask Before Using AI",
       "excerpt": "If AI technology and machine learning (ML) were parents, deep learning (DL) would be their most successful child, the one who learns from its own mistakes and makes better decisions than the neural networks of generations before.",
@@ -208,7 +260,7 @@
       "originalUrl": "https://www.exchange4media.com/announcements-news/wpp-acquires-ai-tech-firm-satalia-115180.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -401,7 +453,7 @@
       "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/08/22/for-small-businesses-mastering-googles-ai-is-a-better-investment-than-paid-adsheres-why/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -1132,49 +1184,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-21-us-woman-becomes-a-superwoman-for-afghan-all-girl-robotics-team-rescues-10.md",
-      "title": "US woman becomes a superwoman for Afghan all-girl robotics team, rescues 10",
-      "excerpt": "The team, consisting of young women ageing from 16 to 18 years, was scared as the Taliban took control and they were on the mind of the US woman, who previously met them in 2019.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/trending/trending-globally/mother-of-11-allyson-reneau-becomes-a-superwoman-for-afghan-womens-robotics-team-7462846/",
-      "originalUrl": "https://indianexpress.com/article/trending/trending-globally/mother-of-11-allyson-reneau-becomes-a-superwoman-for-afghan-womens-robotics-team-7462846/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2021/08/allyson.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/trending/trending-globally/mother-of-11-allyson-reneau-becomes-a-superwoman-for-afghan-womens-robotics-team-7462846/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/trending/trending-globally/mother-of-11-allyson-reneau-becomes-a-superwoman-for-afghan-womens-robotics-team-7462846/lite/",
-      "publishedDateTime": "2021-08-20T20:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

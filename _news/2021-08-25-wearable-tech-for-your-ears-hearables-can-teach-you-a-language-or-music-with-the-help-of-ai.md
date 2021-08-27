@@ -26,6 +26,24 @@ images:
     height: 229
     isCached: true
 
+related:
+  - title: "Wearable tech for your ears: 'Hearables' can teach you a language or music with the help of AI"
+    excerpt: "Hearables are wireless smart micro-computers with artificial intelligence that incorporate both speakers and microphones. They fit in the ears and can connect to the internet and to other devices, and are designed to be worn daily."
+    publishedDateTime: 2021-08-26T13:08:00Z
+    webUrl: "https://techxplore.com/news/2021-08-wearable-tech-ears-hearables-language.html"
+    ampWebUrl: "https://techxplore.com/news/2021-08-wearable-tech-ears-hearables-language.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-wearable-tech-ears-hearables-language.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 47
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/wearable-tech-for-your.jpg"
+        width: 1356
+        height: 668
+        isCached: true
+
 secured: "1YPR1k6Igji9yaTqWIQILHtaVu+KVm8ILLJrZnnLJuqDDu4rt47gQB5EuJL6E3hvlvcCT9wx1H+EiKYkboBmVMYb6dal+jPvHl19m/6ycTIZjqZus70hBHS24NvbVemcgC8oGCkaj9G6pXU8YtwNgudGXcYXAdKh9TTNb6s8c3Y3kv9+wr5SyHd+9xMOLFKrBAosme/P07rluf9PiwAM8UtT4cqcZRSjReJ5jYl9M/MUzVy9oIvj0cV0iFInYPFAFjEwD5O3L6sVVUyFNsSEpT1VC7e2m9rPCIVvYdy5HG6d6XuasCpejk7ki1AleQtKAmHguDZOttwDg0uy6XSNZ5/W8dDbwTGIiBVpBSAbO0c=;YT1nAhGSk/QzhVr6++KhWA=="
 ---
 

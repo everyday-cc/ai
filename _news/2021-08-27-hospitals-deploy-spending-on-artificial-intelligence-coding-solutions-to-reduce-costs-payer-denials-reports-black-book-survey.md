@@ -1,29 +1,28 @@
 ---
 category: news
 title: "Hospitals Deploy Spending on Artificial Intelligence Coding Solutions to Reduce Costs & Payer Denials, Reports Black Book Survey"
-excerpt: "Growth in the clinical documentation market is expected to reach US$6.0B by 2023 with a 11% CAGR driven by mid-RCM artificial intelligence-supported solutions to reduce costs, manage unstructured data and check for billing and coding losses."
-publishedDateTime: 2021-08-27T01:14:00Z
-originalUrl: "https://www.digitaljournal.com/pr/hospitals-deploy-spending-on-artificial-intelligence-coding-solutions-to-reduce-costs-payer-denials-reports-black-book-survey"
-webUrl: "https://www.digitaljournal.com/pr/hospitals-deploy-spending-on-artificial-intelligence-coding-solutions-to-reduce-costs-payer-denials-reports-black-book-survey"
+excerpt: "Black Book Research surveyed 1,012 health information management executives and revealed that 58% of healthcare organizations are using artificial intelligence in one basic form or another, and 92% of them expect widespread industry implementation in the next five years,"
+publishedDateTime: 2021-08-27T01:24:00Z
+originalUrl: "https://apnews.com/press-release/Newswire/technology-business-health-artificial-intelligence-f45c14e8ed9f21260f8c2decc17bdbc3"
+webUrl: "https://apnews.com/press-release/Newswire/technology-business-health-artificial-intelligence-f45c14e8ed9f21260f8c2decc17bdbc3"
 type: article
-quality: 10
-heat: 10
+quality: 8
+heat: 8
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://cdn.newswire.com/files/x/a6/15/147cc85fc6e5a79094a84ac34412.jpg"
-    width: 512
-    height: 521
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "IaKD1DHJNcWl26m1c7mndeiuLYLz0/hkHttmXR6gCOA0kBdsXUBnMGqZwC54c5DdFog6QhaHmyg+cY4mMc1XX8mLsO4KwbQ0tvbrtxqNQqSb+ajpfkUh5Zn+RRNxYQwmKB3uPyiKUjNnY6ClEa3vMEYoA2eJRZx/bOg5HmzELYOaEkfVN+MyBQ2jLwbskWb+KeiVntSWTt/sf0N9vfD2k41Cxxh8FA00T/7pNSZzndC3GDFAsa7xbQl7UihTIhhgPmuHGaYL4VglK2DVza4sAFk+okK9oZuTI4B1BFvhYFf1gwcYITj82mVF5nt85ynm2R2cDtiqimTjfFfZgjYyZhDeX7jVHTktqiIblDqk5Lw=;eTjyJlOboCu+I4og1zS/Bg=="
+secured: "hRCt4JaN/reslBftuyDSPT1GsoRxlQVqnV5S3ei1jA35iOhNThrlPxZiU7Fr76PuYijuUlT2yq6ZI6oVWsttiVocWpmMnq/lx5YVOuD74pTp5W4yAQRt/LJLnwwM34aqUrn263HFyrOfdCZxQqFrmO3KdvGB1v0w3isWEFWIKiyYF7fq6Wk5anu00iMff85bJ+evhWw9vbzQHPwrvGb2EdihaYL1cEUqFO28Y/jJ09SiBcJJlAIr6POinpCO7/YzVFeyWPJdGaJG7CgHugr8Dvgr18cXfXi/urQY+7OWBkbSgiQSNvZbOegHRamkqsxcfvGOp81WI7IYDmDQaYwd1OYlozbRH4/myAlJuQrTGqc=;pr6g+yAE70a7EG1jT8N+kg=="
 ---
 

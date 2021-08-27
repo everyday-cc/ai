@@ -105,6 +105,17 @@ related:
         width: 750
         height: 350
         isCached: true
+  - title: "Artificial Intelligence in Law Market Size 2021 And Forecast to 2028 | Keyplayers – AIBrain, Amazon, Anki, CloudMinds"
+    excerpt: "In addition, the global Artificial Intelligence in Law Market is expected to grow at a CAGR of about XX % over the next five years, will reach XX Billion US $in 2020, XX Billion US $in 2028 Get | Download Sample Copy with TOC,"
+    publishedDateTime: 2021-08-26T21:12:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-law-market-size-2021-and-forecast-to-2028-keyplayers-aibrain-amazon-anki-cloudminds/"
+    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-law-market-size-2021-and-forecast-to-2028-keyplayers-aibrain-amazon-anki-cloudminds/"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-law-market-size-2021-and-forecast-to-2028-keyplayers-aibrain-amazon-anki-cloudminds/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 29
 
 secured: "RoP2zcBajIYbWyd6UVHy8OFE+j3nvR6xLcPqMG7quqK5AuVbu1zLxCnjsxeNEE1ln9QOdfOtebsQDbP/8FrhYZ7K4s+B7RB4zZWlPA9gmlFBzYHPOcLCNBLSSfcdKQ++SG3oOo2L3qfehf49Q4NCleioVVmw2Z1uS+UmG2jxVm5alCTxWzlFb/Ab0cnt6F/GPvieMk6F78jofHav2vt+bhBwK4z8ydY0n8tGYmdoNAOIx7Yirspa8ZuK+xnKrVLLYB3i8mGLBJvQi/OScUQ4ToGS2MUmdHPbisB4r15fgyh9Dsea8AQ6ITaduz7Rk9vBAl3dNtnqhyEJnjPbQtrlMgEva9T/m7TTUQSO4Cdgaztvr6EfzHgsGmsd/jMKj1spimO4KTHa5KKE95SgZhfmidkyuzRjGUgmhc5LOQbAxSu/bd/UeQEUO9fh4WuaTZkA5vAvLFdAWcLK0TBHQT/0lESo//wUkRTxNd5Zd4mmFBpP3oH8P8ksHd4jY59D3VKMJFoohcrmbjTO7kQ2BuBffA==;OPbPpLijDMN7QbXpMfrmtA=="
 ---

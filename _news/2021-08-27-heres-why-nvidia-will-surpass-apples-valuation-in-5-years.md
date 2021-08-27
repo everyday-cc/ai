@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bethkindig/2021/08/27/heres-why-nvidia-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2021/08/27/heres-why-nvidia-will-surpass-apples-valuation-in-5-years/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 77
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 800
     isCached: true
 
-secured: "4xio/aadSoDPDe6aUiHjhCfORqqA4rkGsQD/Qau0VTGddjeGjv7Y8zOh+ck5R9uDgoltThhd74tch3dKKBHVBLeWK1Owkq43yq5ZZv2RM8yWIJKHT5NVHjEuHE0l8+8JCldoJPEdN/lPBiodHUHyqA2kl4aaallwhQHvw9pOLfvQXcTPV7Z7sD5WBR2JC7mvXokaDwByCwnzlgFX4Ha1kBAEO97k7JQfaOpYa392SAaBcFfJWdVa+bPHkcC/Lqi/brF2+ObGsbagEwp9Y+S5SonK0dINTG/JT34LB+E8X3TRf0xOSvnH9QXFoxhuVVdJTIV9aG9AcRCUcM+xl2H25F6fPXd4OneEmpMk7eOi2rk=;4MZ2zmC9EUDNDRqUzc3mvQ=="
+secured: "n4Umo1Dj8pVAnYLX4lqmk4WCDuc+LcIwuYou/6J3jFvgufW3/RbRtbDzXViqsf3X9zP8wxpiaG+1Fi2v7KLWfbb0uHvBPIfIu2LT3khsXVbjSFvD4pSao7A/kUVaUZidGvqaef3b3zmtGATPa5+/OiKopcKq348xpGiOfBpfi7GejU1zleSoSEmV8r+DjVakYQEhl/yH7F+TPp/6KvVIhA5TL92TVYbL3Z3V2PyUxSzeXZ53R+8J6X8ExITBUH+rFRjERrJJJLq+hxjrSs4JNWx96H/v54drGm0sBlgd6OV4U24ZGYi51A+CgFKfwhSCwECgD9IrVqNo932UVn2IvAfdkU1EKiuDHfbO5tmiZ2r/MZyAGcvrFSheQWOoNEYe5yzCZBORBAIehwJz67AsTFAcDlGZ3FTZ+SGbaerCH4uJHkx3Sh3bMGynBlhWLo6aLIyXi5bMwVimWtuoTiPWSWwezrDoRx6bmfn1Ya18UN1cceerA7VBqdQO78D6NR8BCSaNFGzDT2H9L0NlmW3PIg==;zsWkdiohYkyfggwCr5lWWw=="
 ---
 

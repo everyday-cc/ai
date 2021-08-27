@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/08/22/for-small-busines
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/08/22/for-small-businesses-mastering-googles-ai-is-a-better-investment-than-paid-adsheres-why/amp/"
 type: article
 quality: 76
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI is here to augment us"
-    excerpt: "Amidst the hype around artificial intelligence (AI) and machine learning (ML), it is easy for businesses to fall into the trap that technology is a panacea to solve complex business problems. The truth is more nuanced,"
-    publishedDateTime: 2021-08-22T14:48:00Z
-    webUrl: "https://gadget.co.za/ai-is-here-to-augment-us/"
-    type: article
-    provider:
-      name: gadget.co.za
-      domain: gadget.co.za
-    quality: 37
-    images:
-      - url: "https://i2.wp.com/gadget.co.za/wp-content/uploads/2019/05/action-artificial-intelligence-device-595804-scaled.jpg?resize=1000%2C600&#038;ssl=1"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Feed uses AI for social advertising on small budgets"
     excerpt: "UK-based startup Feed wants to help marketers on smaller budgets, including music artists and labels, get more out of their Facebook and Instagram advertising. The company says that once connected to these social profiles it “figures out which of your posts get the best response,"
     publishedDateTime: 2021-08-24T10:30:00Z

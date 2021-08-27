@@ -26,24 +26,6 @@ images:
     height: 300
     isCached: true
 
-related:
-  - title: "Far-field Speech Recognition Market Analysis and Upcoming Trend by 2027| Synaptics, Texas Instruments, Andrea Electronics"
-    excerpt: "LOS ANGELES UNITED STATE The report on the global Far field Speech Recognition market is comprehensively prepared with main focus on the competitive landscape geographical growth segmentation and market dynamics including drivers restraints and opportunities It sheds light on key"
-    publishedDateTime: 2021-08-22T13:22:00Z
-    webUrl: "https://www.openpr.com/news/2362861/far-field-speech-recognition-market-analysis-and-upcoming"
-    ampWebUrl: "https://www.openpr.com/amp/2362861/far-field-speech-recognition-market-analysis-and-upcoming"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2362861/far-field-speech-recognition-market-analysis-and-upcoming"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 34
-    images:
-      - url: "https://cdn.openpr.com/U/8/U822123836_g.jpg"
-        width: 800
-        height: 407
-        isCached: true
-
 secured: "lILo1nVtHo2hpPeCmXT965Vmvrvo4lg0xtilRI5GBFoaNzBRVxGWJCXiXED+EqFcaksdzquwOe1bgUfGaI340r3yBlTCVZ13e5BJjLkqP+aCvsD37vAoO5NE6g8rPs4cpT1Wbhdd2DYe7Jn5poVdwbjTR/ZVoRYYommoqhsbOli3QRE1mPuMbOLEr8n0+HoxlgqdlnmqrvrKUacVCSN2L4vr0q7yGcNR+e2MhQROSW6L7lz3k+4TjMIXZ8F10lIk5u3FnNTslxPWRNlNtaLy0eJJrGSUN0AMACsx4m/mUgWMZyDa8QS4QYsEHRCzHeKhbFdNW0HCGGaakku+/p/Gl13mDjhC4dW6qpwKSXfpSCEv/QY+3v4KcOqeJgHtjyfgFoLkdCVOLtGyOQfuPs+dKaLZoJUV0x/0KPNHalbIyoj02X1FbrZrNsaHHA4iujVcd4tGva+2xs/6Iuby/1benAkl5T4F6E2JksTgssYlH3VsO9JAKvkFMiO1MNfdpy5thSMSJiMoafjBRwZgi8f0LQ==;xqz5CQ2FeCOCjkQ3xVfqxQ=="
 ---
 

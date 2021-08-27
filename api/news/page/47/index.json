@@ -2,6 +2,40 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2021-07-23-wipro-recognized-as-2021-microsoft-modernizing-applications-partner-of-the-year-seite-2.md",
+      "title": "Wipro Recognized as 2021 Microsoft Modernizing Applications Partner of the Year - Seite 2",
+      "excerpt": "About Wipro Limited. Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO) is a leading global information technology, consulting and business process services company. We harness th",
+      "sourceUrl": null,
+      "webUrl": "https://www.wallstreet-online.de/nachricht/14193279-wipro-recognized-as-2021-microsoft-modernizing-applications-partner-of-the-year/2",
+      "originalUrl": "https://www.wallstreet-online.de/nachricht/14193279-wipro-recognized-as-2021-microsoft-modernizing-applications-partner-of-the-year/2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wallstreet-online.de/_amp/nachricht/14193279-wipro-recognized-as-2021-microsoft-modernizing-applications-partner-of-the-year",
+      "cdnAmpWebUrl": "https://www-wallstreet--online-de.cdn.ampproject.org/c/s/www.wallstreet-online.de/_amp/nachricht/14193279-wipro-recognized-as-2021-microsoft-modernizing-applications-partner-of-the-year",
+      "publishedDateTime": "2021-07-23T05:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "wallstreet online",
+        "domain": "wallstreet-online.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-23-all-symbols-in-tensorflow-recommenders.md",
       "title": "All symbols in TensorFlow Recommenders",
       "excerpt": "[{ \"type\": \"thumb-down\", \"id\": \"missingTheInformationINeed\", \"label\":\"Falta la información que necesito\" },{ \"type\": \"thumb-down\", \"id\": \"tooComplicatedTooManySteps ...",
@@ -1134,49 +1168,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-oneplus-nord-2-unveiled-with-dimensity-1200-ai-50mp-camera-and-more.md",
-      "title": "OnePlus Nord 2 unveiled with Dimensity 1200 AI, 50MP camera and more",
-      "excerpt": "OnePlus has announced the OnePlus Nord 2 with Dimensity 1200 AI SoC, 50MP camera with OIS, and 65W fast-charging.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizchina.com/2021/07/22/oneplus-nord-2-unveiled-with-dimensity-1200-ai-50mp-camera-and-more/",
-      "originalUrl": "https://www.gizchina.com/2021/07/22/oneplus-nord-2-unveiled-with-dimensity-1200-ai-50mp-camera-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizchina.com/wp-content/uploads/images/2021/07/OnePlus-NOrd2-2-1-1024x576.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizchina.com/2021/07/22/oneplus-nord-2-unveiled-with-dimensity-1200-ai-50mp-camera-and-more/amp/",
-      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/07/22/oneplus-nord-2-unveiled-with-dimensity-1200-ai-50mp-camera-and-more/amp/",
-      "publishedDateTime": "2021-07-22T11:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GizChina",
-        "domain": "gizchina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

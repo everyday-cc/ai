@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/25/hybrid-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/25/hybrid-ai-is-the-future-of-industrial-analytics/amp/"
 type: article
 quality: 91
-heat: 223
+heat: 233
 published: true
 
 provider:
@@ -103,6 +103,20 @@ related:
       - url: "https://www.enterpriseai.news/wp-content/uploads/2019/03/EAI2-01-fb.png"
         width: 1598
         height: 840
+        isCached: true
+  - title: "Advantage Acquires Strong Analytics, Provider of AI and Machine Learning Solutions"
+    excerpt: "Advantage Solutions has acquired Strong Analytics, a provider of artificial intelligence, machine learning and data science services for leading brands in consumer goods and retail, automotive, hospitality,"
+    publishedDateTime: 2021-08-26T13:02:00Z
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-science-e5d71a7d56c78c0a9b4b06d42218e915"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 48
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Singapore fashion analytics firm acquires Malaysia AI startup in $20m deal"
     excerpt: "The acquisition of Supahands would help Omnilytics fill a gap in its existing tech offerings for retail firms."

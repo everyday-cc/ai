@@ -2,6 +2,48 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-08-17-conga-buys-ai-startup-that-helps-companies-understand-how-contracts-will-affect-revenue.md",
+      "title": "Conga buys AI startup that helps companies understand how contracts will affect revenue",
+      "excerpt": "Revenue operations company AppExtremes LLC, which does business as Conga, is boosting its contract management capabilities by acquiring a startup called Contract Wrangler Inc. for an undisclosed price.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2021/08/17/conga-buys-ai-startup-helps-companies-understand-contracts-will-impact-revenue/",
+      "originalUrl": "https://siliconangle.com/2021/08/17/conga-buys-ai-startup-helps-companies-understand-contracts-will-impact-revenue/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/writing-1149962_1920.jpg",
+          "width": 1920,
+          "height": 1281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-17T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-17-western-states-face-first-federal-water-cuts-ap-explainer.md",
       "title": "Western States Face First Federal Water Cuts: AP Explainer",
       "excerpt": "Federal officials said Monday's declaration makes clear that conditions have intensified faster than scientists predicted.",
@@ -232,6 +274,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-noodleai-joins-aws-partner-network-to-build-supply-chain-resiliency-for-cpg-customers.md",
+      "title": "Noodle.ai Joins AWS Partner Network to Build Supply Chain Resiliency for CPG Customers",
+      "excerpt": "Noodle.ai, the leading provider of Flow Operations (FlowOps) software, today announced it has become an Amazon Web Services (AWS) Advanced Technology Partner to drive scale and efficiency for the supply chains of global consumer packaged goods (CPG) companies.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/noodle-ai-joins-aws-partner-network-to-build-supply-chain-resiliency-for-cpg-customers-1030737980",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/noodle-ai-joins-aws-partner-network-to-build-supply-chain-resiliency-for-cpg-customers-1030737980",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-17T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
@@ -744,40 +829,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-17-noodleai-joins-aws-partner-network-to-build-supply-chain-resiliency-for-cpg-customers.md",
-      "title": "Noodle.ai Joins AWS Partner Network to Build Supply Chain Resiliency for CPG Customers",
-      "excerpt": "Noodle.ai, the leading provider of Flow Operations (FlowOps) software, today announced it has become an Amazon Web Services (AWS)",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/noodleai-joins-aws-partner-network-to-build-supply-chain-resiliency-for-cpg-customers-301356411.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/noodleai-joins-aws-partner-network-to-build-supply-chain-resiliency-for-cpg-customers-301356411.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-17T05:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-17-avaya-and-microsoft-announce-integration-of-microsoft-azure-communication-services-with-avaya-onecloud-cpaas.md",
       "title": "Avaya and Microsoft Announce Integration of Microsoft Azure Communication Services with Avaya OneCloud CPaaS",
       "excerpt": "Benefiting from the complementary strengths of both companies, the joint solutions include Avaya’s award-winning 1 Avaya OneCloud CPaaS (Communications Platform as a Service) now integrated with voice,",
@@ -1119,58 +1170,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-african-fintech-pngme-raises-15m-for-its-financial-data-infrastructure-platform.md",
-      "title": "African fintech Pngme raises $15M for its financial data infrastructure platform",
-      "excerpt": "Unbundling financial data through APIs and driving data-driven insights with value-add products in Africa keeps getting more exciting as major players continue to raise more money for scale. Less than a year after its $3 million seed round,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/08/17/african-fintech-pngme-raises-15m-for-its-financial-data-infrastructure-platform/",
-      "originalUrl": "https://techcrunch.com/2021/08/17/african-fintech-pngme-raises-15m-for-its-financial-data-infrastructure-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/08/85237365-BCDC-4C78-B42B-91B00D15C6C0.jpeg?w=887",
-          "width": 887,
-          "height": 508,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/08/17/african-fintech-pngme-raises-15m-for-its-financial-data-infrastructure-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/17/african-fintech-pngme-raises-15m-for-its-financial-data-infrastructure-platform/amp/",
-      "publishedDateTime": "2021-08-17T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

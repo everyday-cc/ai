@@ -2,6 +2,57 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2021-07-21-employees-want-more-ai-to-boost-productivity-study-finds.md",
+      "title": "Employees want more AI to boost productivity, study finds",
+      "excerpt": "Eighty-one percent of employees believe that AI improves their overall performance at work. As a result, more than two thirds — 68% — are calling on their employers to deploy more AI-based technologies to help them execute tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.snaplogic.com/resources/infographics/employees-want-more-ai-in-the-workplace",
+      "originalUrl": "https://venturebeat.com/2021/07/20/employees-want-more-ai-to-boost-productivity-study-finds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.snaplogic.com/wp-content/uploads/2021/07/fb_1200x630-AI.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-20T18:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-21-global-ai-based-edge-computing-chip-market-2021-growth-industry-trend-sales-revenue-size-by-regional-forecast-to-2026.md",
       "title": "Global AI based Edge Computing Chip Market 2021 Growth, Industry Trend, Sales Revenue, Size by Regional Forecast to 2026",
       "excerpt": "MarketsandResearch.biz has published the obtainability of a new report to its repository titled as, Global AI based Edge Computing Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026.",
@@ -1135,49 +1186,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-watson-as-a-warning-current-limits-and-promise-of-ai.md",
-      "title": "Watson as a Warning: Current Limits and Promise of AI",
-      "excerpt": "We can’t seem to decide whether AI will replace humanity as the dominant intellectual force or it will simply be a sideshow never reaching its promise. Is AI the technology of the future, or wil",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/Node/153737",
-      "originalUrl": "https://www.natlawreview.com/Node/153737",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
-          "width": 1426,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai?amp",
-      "publishedDateTime": "2021-07-20T10:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

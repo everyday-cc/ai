@@ -2,6 +2,41 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-27-amazon-web-services-in-deal-to-transform-sun-life-financials-digital-services.md",
+      "title": "Amazon Web Services In Deal To Transform Sun Life Financial's Digital Services",
+      "excerpt": "Amazon Web Services, Inc. or AWS, an Amazon.com, Inc. company (AMZN), announced Friday a deal with Sun Life Financial Inc. (SLF, SLF.TO) to become its long-term strategic cloud technology provider. Sun Life will use AWS's cloud technologies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/amazon-web-services-in-deal-to-transform-sun-life-financials-digital-services-2021-08-27",
+      "originalUrl": "https://www.nasdaq.com/articles/amazon-web-services-in-deal-to-transform-sun-life-financials-digital-services-2021-08-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/amazon-web-services-in-deal-to-transform-sun-life-financials-digital-services-2021-08-27?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-web-services-in-deal-to-transform-sun-life-financials-digital-services-2021-08-27?amp",
+      "publishedDateTime": "2021-08-27T00:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-26-recognize-celebrities-in-images-and-videos-using-amazon-rekognition.md",
       "title": "Recognize celebrities in images and videos using Amazon Rekognition",
       "excerpt": "The celebrity recognition feature in Amazon Rekognition automatically recognizes tens of thousands of well-known personalities in images and videos using machine learning (ML). Celebrity recognition significantly reduces the repetitive manual effort required to tag produced media content and make it",
@@ -63,7 +98,7 @@
       "originalUrl": "https://www.pressreleasepoint.com/atos-achieves-aws-level-1-managed-security-service-provider-competency-status",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -107,7 +142,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/access-an-amazon-sagemaker-studio-notebook-from-a-corporate-network/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -492,10 +527,10 @@
     {
       "path": "_news/2021-08-17-noodleai-joins-aws-partner-network-to-build-supply-chain-resiliency-for-cpg-customers.md",
       "title": "Noodle.ai Joins AWS Partner Network to Build Supply Chain Resiliency for CPG Customers",
-      "excerpt": "Noodle.ai, the leading provider of Flow Operations (FlowOps) software, today announced it has become an Amazon Web Services (AWS)",
+      "excerpt": "Noodle.ai, the leading provider of Flow Operations (FlowOps) software, today announced it has become an Amazon Web Services (AWS) Advanced Technology Partner to drive scale and efficiency for the supply chains of global consumer packaged goods (CPG) companies.",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/noodleai-joins-aws-partner-network-to-build-supply-chain-resiliency-for-cpg-customers-301356411.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/noodleai-joins-aws-partner-network-to-build-supply-chain-resiliency-for-cpg-customers-301356411.html",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/noodle-ai-joins-aws-partner-network-to-build-supply-chain-resiliency-for-cpg-customers-1030737980",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/noodle-ai-joins-aws-partner-network-to-build-supply-chain-resiliency-for-cpg-customers-1030737980",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -505,12 +540,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-17T05:05:00-07:00",
+      "publishedDateTime": "2021-08-17T07:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1338,52 +1382,6 @@
         "AWS AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-massive-growth-of-machine-learning-in-healthcare-market-by-2027-oracle-intel-corporation-ibm-corporation-amazon-web-services.md",
-      "title": "Massive Growth of Machine Learning in Healthcare Market by 2027 | Oracle, Intel Corporation, IBM Corporation, Amazon Web Services",
-      "excerpt": "Machine learning can also help healthcare organizations meet growing medical demands, improve operations and lower costs. At the bedside, machine learning innovation can help healthcare practitioners detect and treat disease more efficiently and with more ...",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/massive-growth-of-machine-learning-in-healthcare-market-by-2027-oracle-intel-corporation-ibm-corporation-amazon-web-services/",
-      "originalUrl": "https://manometcurrent.com/massive-growth-of-machine-learning-in-healthcare-market-by-2027-oracle-intel-corporation-ibm-corporation-amazon-web-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/08/Machine-Learning-in-Healthcare.jpg",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/massive-growth-of-machine-learning-in-healthcare-market-by-2027-oracle-intel-corporation-ibm-corporation-amazon-web-services/",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/massive-growth-of-machine-learning-in-healthcare-market-by-2027-oracle-intel-corporation-ibm-corporation-amazon-web-services/",
-      "publishedDateTime": "2021-08-10T21:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare",
-        "AWS AI",
-        "AI in Finance"
       ]
     }
   ],

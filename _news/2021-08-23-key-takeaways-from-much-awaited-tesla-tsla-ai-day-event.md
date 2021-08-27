@@ -69,6 +69,22 @@ related:
         width: 1024
         height: 571
         isCached: true
+  - title: "Why did Tesla’s share price dip following its AI Day reveal?"
+    excerpt: "How will the latest technologies unveiled at Tesla’s AI Day impact the Tesla share price and the autonomous vehicles market? Read our analysis."
+    publishedDateTime: 2021-08-27T07:27:00Z
+    webUrl: "https://www.cmcmarkets.com/en-gb/news-and-analysis/why-did-teslas-share-price-dip-following-its-ai-day-reveal"
+    ampWebUrl: "https://www.cmcmarkets.com/en-gb/news-and-analysis/why-did-teslas-share-price-dip-following-its-ai-day-reveal_amp"
+    cdnAmpWebUrl: "https://www-cmcmarkets-com.cdn.ampproject.org/c/s/www.cmcmarkets.com/en-gb/news-and-analysis/why-did-teslas-share-price-dip-following-its-ai-day-reveal_amp"
+    type: article
+    provider:
+      name: CMC Markets
+      domain: cmcmarkets.com
+    quality: 76
+    images:
+      - url: "https://assets.cmcmarkets.com/images/Tesla_bots_2508_medium.jpg"
+        width: 768
+        height: 576
+        isCached: true
   - title: "Could Tesla Mass Produce Dojo AI Cloud Systems"
     excerpt: "Tesla revealed its Exapod Dojo supercomputer made from 10 cabinets of servers. Each rack has 6 tiles with 9 Petaflops in each tile. Each cabinet is 100"
     publishedDateTime: 2021-08-23T06:38:00Z

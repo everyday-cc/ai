@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2363772/artificial-intelligence-in-the-ed
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2363772/artificial-intelligence-in-the-education-sector-market-size"
 type: article
 quality: 58
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -105,6 +105,17 @@ related:
         width: 750
         height: 350
         isCached: true
+  - title: "Artificial Intelligence in Law Market Size 2021 And Forecast to 2028 | Keyplayers – AIBrain, Amazon, Anki, CloudMinds"
+    excerpt: "In addition, the global Artificial Intelligence in Law Market is expected to grow at a CAGR of about XX % over the next five years, will reach XX Billion US $in 2020, XX Billion US $in 2028 Get | Download Sample Copy with TOC,"
+    publishedDateTime: 2021-08-26T21:12:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-law-market-size-2021-and-forecast-to-2028-keyplayers-aibrain-amazon-anki-cloudminds/"
+    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-law-market-size-2021-and-forecast-to-2028-keyplayers-aibrain-amazon-anki-cloudminds/"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-law-market-size-2021-and-forecast-to-2028-keyplayers-aibrain-amazon-anki-cloudminds/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 29
 
 secured: "0invI7+QOm5QnW9SUuvIzyxUf+Dero/py8oA3Eht1FiF2vnea0uFI0KNjFjAhHleczUzJhFFCHSCJIdxlYJ1IoiUZQPZhv0n64hl00zxkB5alpAZpdtjWi3SO2dYIPGBLVqZhOcpXCbvRdP4otHf3RSJjLSGBCyUnzD8Plu1QxZw4Cns/37mC3d1uDK1I3rrZyVajQIgORd+ykgKxJWfkY3gt2Jv49Z6jXITZmVOuin3P3rvVs+i63ZaBabythTc1tZqsRH5Edb424chzyjmRSIzo69/DTHahSajKLCtxKGo9y9xxHYQDd18337ID0oG15U4766Xaq5C0Vaw4O8vBaUS357aJYzqsO7HpoYvaR1EXpnR+iIARP6HhqAulZ34VFLPHZIsRYe9ua+0qWqwzq7QQMNdSevT+aQ1KLY9Fo6zF1T+p1xD/zHo+kj1h0fviiiAwhkoECIGHJ0oUGKwfWE53/aMcBg2t5mmvfYfhgV9Fc6DsrvQqrxBbkmDdCztbZDqRbzipsCDWfW6eqJgMw==;1Rg2n2qwOUySGWBSAcK32g=="
 ---

@@ -2,6 +2,41 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-27-amazon-web-services-in-deal-to-transform-sun-life-financials-digital-services.md",
+      "title": "Amazon Web Services In Deal To Transform Sun Life Financial's Digital Services",
+      "excerpt": "Amazon Web Services, Inc. or AWS, an Amazon.com, Inc. company (AMZN), announced Friday a deal with Sun Life Financial Inc. (SLF, SLF.TO) to become its long-term strategic cloud technology provider. Sun Life will use AWS's cloud technologies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/amazon-web-services-in-deal-to-transform-sun-life-financials-digital-services-2021-08-27",
+      "originalUrl": "https://www.nasdaq.com/articles/amazon-web-services-in-deal-to-transform-sun-life-financials-digital-services-2021-08-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/amazon-web-services-in-deal-to-transform-sun-life-financials-digital-services-2021-08-27?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-web-services-in-deal-to-transform-sun-life-financials-digital-services-2021-08-27?amp",
+      "publishedDateTime": "2021-08-27T00:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-27-meet-the-voice-behind-mg-astors-ai-assistant.md",
       "title": "Meet the voice behind MG Astor's AI assistant",
       "excerpt": "One of the highlights of the upcoming MG Astor is the personal AI assistant. MG has now revealed the voice behind this interactive robot.The carmaker has announced that the AI assistant in the upcoming",
@@ -53,7 +88,7 @@
       "originalUrl": "https://www.forbes.com/sites/bethkindig/2021/08/27/heres-why-nvidia-will-surpass-apples-valuation-in-5-years/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -659,7 +694,7 @@
       "originalUrl": "https://www.nextplatform.com/2021/08/26/the-ai-training-chip-tencent-has-an-eye-on/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1168,49 +1203,6 @@
         "Natural Language Processing",
         "AI Ethics",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-how-artificial-intelligence-ai-aid-medical-diagnosis.md",
-      "title": "How Artificial Intelligence (AI) Aid Medical Diagnosis",
-      "excerpt": "Artificial Intelligence is widely employed for the ... Increasing the effectiveness of decision-making Diagnostic and therapy procedures have always been difficult. The reason for this is that ...",
-      "sourceUrl": null,
-      "webUrl": "https://health.economictimes.indiatimes.com/news/health-it/how-artificial-intelligence-ai-aid-medical-diagnosis/85651655",
-      "originalUrl": "https://health.economictimes.indiatimes.com/news/health-it/how-artificial-intelligence-ai-aid-medical-diagnosis/85651655",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-85651655,imgsize-23672,width-800,height-434,overlay-ethealthworld/how-artificial-intelligence-ai-aid-medical-diagnosis.jpg",
-          "width": 800,
-          "height": 434,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://health.economictimes.indiatimes.com/amp/news/health-it/how-artificial-intelligence-ai-aid-medical-diagnosis/85651655",
-      "cdnAmpWebUrl": "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/how-artificial-intelligence-ai-aid-medical-diagnosis/85651655",
-      "publishedDateTime": "2021-08-26T01:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "health.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

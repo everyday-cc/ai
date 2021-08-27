@@ -2,6 +2,39 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-08-11-feature-us-prisons-mull-ai-to-analyze-inmate-phone-calls.md",
+      "title": "FEATURE-U.S. prisons mull AI to analyze inmate phone calls",
+      "excerpt": "DOJ asked to study feasibility of AI prisoner monitoring tech * Inmates' rights advocates fear bias, privacy issues * Software meant to head off suicides and violent crime. By D",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-tech-prison/us-prisons-mull-ai-to-analyze-inmate-phone-calls-idUSKBN2FA0OO",
+      "originalUrl": "https://news.trust.org/item/20210809090018-c8r11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2FA0OO",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2FA0OO",
+      "publishedDateTime": "2021-08-10T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Thomson Reuters Foundation",
+        "domain": "trust.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-11-cox-automotive-mobility-and-arizonas-institute-of-automated-mobility-work-to-advance-automated-vehicle-development-and-safety.md",
       "title": "Cox Automotive Mobility and Arizona's Institute of Automated Mobility Work to Advance Automated Vehicle Development and Safety",
       "excerpt": "Cox Automotive Mobility, a division of Cox Automotive committed to advancing the world's fleets to serve the next generation, will be",
@@ -1131,49 +1164,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-meet-the-killer-robots-of-modern-warfare-from-ai-powered-suicide-drones-to-machine-guns-that-choose-their-own-targets.md",
-      "title": "Meet the ‘killer robots’ of modern warfare from AI-powered suicide drones to machine guns that choose their own targets",
-      "excerpt": "AS a soldier runs from the battlefield, he’s spotted by a suicide drone loitering in the sky overhead. The killing machine dives down on its target and explodes in a kamikaze attack –",
-      "sourceUrl": null,
-      "webUrl": "https://www.thesun.co.uk/news/15787851/killer-robots-drones-ai-suicide/",
-      "originalUrl": "https://www.thesun.co.uk/news/15787851/killer-robots-drones-ai-suicide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thesun.co.uk/wp-content/uploads/2021/08/COMP-SKC-ROBOTS.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thesun.co.uk/news/15787851/killer-robots-drones-ai-suicide/amp/",
-      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/news/15787851/killer-robots-drones-ai-suicide/amp/",
-      "publishedDateTime": "2021-08-10T03:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sun",
-        "domain": "thesun.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

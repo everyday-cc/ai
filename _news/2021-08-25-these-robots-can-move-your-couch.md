@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-08-robots-couch.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-robots-couch.amp"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "In the future, you’ll share your work with robots… unless you’re a woman"
+    excerpt: "A job is an important part of how we find happiness in our lives (even if we don’t always enjoy the work). But what if the machines start doing everything for us? Helen Russell finds out if our working days are numbered."
+    publishedDateTime: 2021-08-27T03:01:00Z
+    webUrl: "https://www.sciencefocus.com/future-technology/will-we-work-in-the-future/"
+    ampWebUrl: "https://www.sciencefocus.com/future-technology/will-we-work-in-the-future/amp/"
+    cdnAmpWebUrl: "https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/future-technology/will-we-work-in-the-future/amp/"
+    type: article
+    provider:
+      name: BBC Focus
+      domain: sciencefocus.com
+    quality: 58
+    images:
+      - url: "https://images.immediate.co.uk/production/volatile/sites/4/2021/08/GettyImages-1189936980-crop-5b55bdd.jpg?quality=90&resize=960,413"
+        width: 960
+        height: 413
+        isCached: true
   - title: "Engineers Create Robots That Can Cooperatively Move Big Objects"
     excerpt: "Engineers in the Intelligent Robotics and Autonomous Systems Lab at the University of Cincinnati have developed an artificial intelligence (AI) to train robots to collaboratively move big objects. The team demonstrated the robots’ ability to move a long rod around obstacles and a narrow door in computer simulations."
     publishedDateTime: 2021-08-25T16:06:00Z

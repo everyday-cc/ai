@@ -2,6 +2,49 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2021-07-21-watson-as-a-warning-current-limits-and-promise-of-ai.md",
+      "title": "Watson as a Warning: Current Limits and Promise of AI",
+      "excerpt": "We can’t seem to decide whether AI will replace humanity as the dominant intellectual force or it will simply be a sideshow never reaching its promise. Is AI the technology of the future, or wil",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/Node/153737",
+      "originalUrl": "https://www.natlawreview.com/Node/153737",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
+          "width": 1426,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai?amp",
+      "publishedDateTime": "2021-07-20T10:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-20-toronto-ai-chip-startup-untether-gets-backing-from-intel-and-cpp-investment-board.md",
       "title": "Toronto AI chip startup Untether gets backing from Intel and CPP Investment Board",
       "excerpt": "U.S. ($159-million Canadian) investment in Untether AI Corp., a Toronto-based startup that develops high-performance chips for artificial intelligence programs. Canada Pension Plan Investment Board, Canada’s largest pension fund,",
@@ -1123,57 +1166,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-insig-ai-wins-contract-to-license-its-data-tool-to-investment-manager.md",
-      "title": "Insig AI Wins Contract to License Its Data Tool to Investment Manager",
-      "excerpt": "By Sabela Ojea Insig AI PLC said Tuesday that it has won a contract with a London-based alternative investment manager that has signed an annual license",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/insig-ai-wins-contract-to-license-its-data-tool-to-investment-manager-271626772175",
-      "originalUrl": "https://www.marketwatch.com/story/insig-ai-wins-contract-to-license-its-data-tool-to-investment-manager-271626772175",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/insig-ai-wins-contract-to-license-its-data-tool-to-investment-manager-271626772175",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/insig-ai-wins-contract-to-license-its-data-tool-to-investment-manager-271626772175",
-      "publishedDateTime": "2021-07-20T02:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

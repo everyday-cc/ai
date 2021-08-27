@@ -165,6 +165,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "WPP Branches Into AI Tech With Satalia Acquisition"
+    excerpt: "WPP announced that it has acquired Satalia, a technology company offering marketleading AI solutions for clients."
+    publishedDateTime: 2021-08-23T22:16:00Z
+    webUrl: "https://www.bandt.com.au/wpp-branches-into-ai-tech-with-satalia-acquisition/"
+    type: article
+    provider:
+      name: B and T
+      domain: bandt.com.au
+    quality: 39
+    images:
+      - url: "https://www.bandt.com.au/information/uploads/2021/08/dr-daniel-hume.jpg"
+        width: 500
+        height: 500
+        isCached: true
   - title: "TOP NEWS: WPP buys AI firm Satalia to grow machine learning offering"
     excerpt: "FTSE 100-listed WPP PLC has bought artificial intelligence technology company Satalia for an undisclosed sum, the ad agency said on Monday. Founded by Chief Executive Daniel Hulme in 2008, AI specialist Satalia counts clients including BT Group PLC,"
     publishedDateTime: 2021-08-23T07:19:00Z

@@ -1,28 +1,26 @@
 ---
 category: news
 title: "heliosDX Adds Artificial Intelligence to its Suite of Diagnostics Services and Solutions"
-excerpt: "RushNet, Inc , (the \"Company\" or \"heliosDX\") is pleased to announce through its subsidiary heliosDX the investment and adoption of Artificial Intelligence (\"AI\") into the diagnostic laboratory."
-publishedDateTime: 2021-08-26T22:04:00Z
-originalUrl: "https://www.lelezard.com/en/news-19970658.html"
-webUrl: "https://www.lelezard.com/en/news-19970658.html"
+excerpt: "ALPHARETTA, GA / ACCESSWIRE / August 26, 2021 / RushNet, Inc (OTC PINK:RSHN), (the “Company” or “heliosDX”) is pleased to announce through its subsidiary heliosDX the investment and adoption of Artificial Intelligence (“AI”) into the diagnostic laboratory."
+publishedDateTime: 2021-08-26T17:46:00Z
+originalUrl: "https://apnews.com/press-release/Accesswire/technology-health-coronavirus-pandemic-artificial-intelligence-6f2804f154e38a79c11c35db9df27cd3"
+webUrl: "https://apnews.com/press-release/Accesswire/technology-health-coronavirus-pandemic-artificial-intelligence-6f2804f154e38a79c11c35db9df27cd3"
 type: article
-quality: 32
+quality: 28
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Finance
   - AI
-  - AI in Healthcare
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
-    width: 421
-    height: 421
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -55,6 +53,6 @@ related:
         height: 1849
         isCached: true
 
-secured: "p//67qZK+w4AmlCvSfXvr7EWMdApnMeESmnQ3UIGXk78e0W5oWZq4SpET+xZdXiTpDHtsDnWVJ9D42IM5+ZDedrwOydibovCIcRnBYEUUJQUUewX8KGuCB8j3ikpwwvF+Ukc/bAtsL4I6QKSsT4nuqgbK0XYBakkt7rrEWiyvBEoWWTnDH66pvN9/f81HThIdnbNqMiY61ilGNJEPhnQXXatvtujHCNDjizRpmZIS2bDGGbKK4H5aRWNPLpVHZv3/ay5wgP7/vrqOLDHSohpD97Z1yotpdyagdUNChI+G/52i2LCHzIKjZ/EYNLpf8dxKFEAAsmTs03D0lANxHmreU6RNk9U2Z7Tgem7bpMppTI=;KEEgiUezABwMBMkJbf/QxA=="
+secured: "X8PXsHfzdZX4kl+0aFm2tv4Gar4OdhYJqSGONjo4CqVENEMZNR211HKDb5TpkMGgPUsMvCIZgZC+d9CE4M/qnGbqy+/ZcvSBjYfuRpLpvLL1DsfimdHoH/Kbu+YF+Ai5iwJTK9gycMrjUd0lFg6bWe84II6+X6JgJ34stvKjW+ejYcQss9lN135sk7M+PILI6X+8yoti7DHkNCDYWcd0DzTSTR/HVspW34WPFXtrHIKGZvqqokol5R0655f+JNIzpkAtIRsLArdoKhSUClNL4uW51pxAJ78SOMxdnR/wT0jcHKlMHI5gObRwcu1MABMZE3n4nUDJ+ZHXG0ZBZ08Yo07Y+ZbqVEqX5WbA8qaFLjM=;q3miOwwlRn5aIGrZa7Nh/w=="
 ---
 

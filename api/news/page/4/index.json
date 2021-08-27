@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-25-urbint-which-uses-ai-to-predict-threats-to-infrastructure-nabs-60m.md",
+      "title": "Urbint, which uses AI to predict threats to infrastructure, nabs $60M",
+      "excerpt": "Urbint, a startup developing AI-powered tech that can predict infrastructure failures, has raised $60 million in venture funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/24/urbint-which-uses-ai-to-predict-threats-to-infrastructure-nabs-60m/",
+      "originalUrl": "https://venturebeat.com/2021/08/24/urbint-which-uses-ai-to-predict-threats-to-infrastructure-nabs-60m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6cd663ee-b571-428e-8665-0dadb7cbc371-e1587321011520.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 597,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/24/urbint-which-uses-ai-to-predict-threats-to-infrastructure-nabs-60m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/24/urbint-which-uses-ai-to-predict-threats-to-infrastructure-nabs-60m/amp/",
+      "publishedDateTime": "2021-08-24T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-24-build-conversation-flows-with-multi-valued-slots-in-amazon-lex.md",
       "title": "Build conversation flows with multi-valued slots in Amazon Lex",
       "excerpt": "Multiple pieces of information are often required to complete a task or to process a query. For example, when talking to an insurance agent, a caller might ask, “Can you provide me quotes for home, auto, and boat?” The agent recognizes this as a list of policy types before continuing with the conversation.",
@@ -114,7 +165,7 @@
       "originalUrl": "https://www.msn.com/en-us/money/companies/waymo-opens-self-driving-car-testing-to-some-san-francisco-residents/ar-AANGX1x",
       "featuredContent": null,
       "highlight": null,
-      "heat": 299,
+      "heat": 309,
       "tags": null,
       "images": [
         {
@@ -1185,49 +1236,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-google-offers-free-online-course-on-machine-learning-check-important-details.md",
-      "title": "Google Offers Free Online Course on Machine Learning, Check Important Details",
-      "excerpt": "Google has offered a free online course on machine learning that can be completed in 15 hours featuring a series of lessons with video lecture",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/google-offers-free-online-course-machine-learning-check-important-details/",
-      "originalUrl": "https://www.dqindia.com/google-offers-free-online-course-machine-learning-check-important-details/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2021/02/Books-on-machine-learning.jpg",
-          "width": 850,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/google-offers-free-online-course-machine-learning-check-important-details/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/google-offers-free-online-course-machine-learning-check-important-details/amp/",
-      "publishedDateTime": "2021-08-23T21:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

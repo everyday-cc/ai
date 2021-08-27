@@ -86,6 +86,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 84
+  - title: "Why did Tesla’s share price dip following its AI Day reveal?"
+    excerpt: "How will the latest technologies unveiled at Tesla’s AI Day impact the Tesla share price and the autonomous vehicles market? Read our analysis."
+    publishedDateTime: 2021-08-27T07:27:00Z
+    webUrl: "https://www.cmcmarkets.com/en-gb/news-and-analysis/why-did-teslas-share-price-dip-following-its-ai-day-reveal"
+    ampWebUrl: "https://www.cmcmarkets.com/en-gb/news-and-analysis/why-did-teslas-share-price-dip-following-its-ai-day-reveal_amp"
+    cdnAmpWebUrl: "https://www-cmcmarkets-com.cdn.ampproject.org/c/s/www.cmcmarkets.com/en-gb/news-and-analysis/why-did-teslas-share-price-dip-following-its-ai-day-reveal_amp"
+    type: article
+    provider:
+      name: CMC Markets
+      domain: cmcmarkets.com
+    quality: 76
+    images:
+      - url: "https://assets.cmcmarkets.com/images/Tesla_bots_2508_medium.jpg"
+        width: 768
+        height: 576
+        isCached: true
   - title: "Is the ‘D1’ AI chip speeding Tesla towards full autonomy?"
     excerpt: "Tesla on its AI day, unveiled a custom chip for training artificial intelligence networks in data centers The D1 chip is part of Tesla’s Dojo"
     publishedDateTime: 2021-08-24T11:33:00Z
