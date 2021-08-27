@@ -159,20 +159,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Covera Health Raises $25M in Series C Financing to Fuel Growth of Its Healthcare Quality Analytics Platform"
-    excerpt: "Covera Health, the leading quality analytics company focused on improving patient care by reducing medical errors, today announced its Series C financing. The $25M funding was led by global venture capital and private equity firm Insight Partners with participation from existing investors including Equity Group Investments."
-    publishedDateTime: 2021-08-23T13:02:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-08ae26b203374af0810bc483579064cd"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 36
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Airbus’ UP42 Partners with Indian Startup for AI-based Satellite Imagery Analytics"
     excerpt: "UP42, a geospatial developer platform and marketplace wholly owned by Airbus, has partnered with Indian startup HyperVerge to offer satellite"
     publishedDateTime: 2021-08-23T00:00:00Z

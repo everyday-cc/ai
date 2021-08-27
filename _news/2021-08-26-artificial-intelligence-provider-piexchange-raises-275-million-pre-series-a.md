@@ -7,8 +7,8 @@ originalUrl: "https://www.startupdaily.net/2021/08/artificial-intelligence-provi
 webUrl: "https://www.startupdaily.net/2021/08/artificial-intelligence-provider-pi-exchange-raises-2-75-million-pre-series-a/"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: 60
+published: false
 
 provider:
   name: Startup Daily
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "involve.ai Raises $16 Million in Series A Funding"
-    excerpt: "Series A financing round led by Sapphire Ventures, with participation from existing investors Bonfire Ventures, Greycroft, Launch Capital, BDMI and new"
-    publishedDateTime: 2021-08-25T12:08:00Z
-    webUrl: "https://www.lelezard.com/en/news-19967345.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 39
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "PI.Exchange primed to democratise AI after $2 million pre-series A funding round"
     excerpt: "\"AI and ML professionals are scarce, while existing AutoML services are still expensive to adopt,\" said funding round participant Nextrans VC director and partner Chris Seungho Chae. \"PI.Exchange ..."
     publishedDateTime: 2021-08-25T04:56:00Z

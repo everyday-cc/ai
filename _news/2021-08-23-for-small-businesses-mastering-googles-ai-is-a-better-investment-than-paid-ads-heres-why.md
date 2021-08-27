@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/08/22/for-small-busines
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/08/22/for-small-businesses-mastering-googles-ai-is-a-better-investment-than-paid-adsheres-why/amp/"
 type: article
 quality: 76
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "An AI system that gives small businesses credit when they really need it"
+    excerpt: "Tonya Hall talks to Prashant Fuloria, CEO at Fundbox, about how AI financial tools can fill the gaps left by banks."
+    publishedDateTime: 2021-08-27T13:37:00Z
+    webUrl: "https://www.zdnet.com/video/an-ai-system-that-gives-small-businesses-credit-when-they-really-need-it/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 66
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/r/2021/08/27/c97d8a59-3305-40f2-b439-cfc81feaaa49/thumbnail/770x578/a50ce44915780f2ef56bf85e2b65f988/thumb.jpg"
+        width: 770
+        height: 578
+        isCached: true
   - title: "Feed uses AI for social advertising on small budgets"
     excerpt: "UK-based startup Feed wants to help marketers on smaller budgets, including music artists and labels, get more out of their Facebook and Instagram advertising. The company says that once connected to these social profiles it “figures out which of your posts get the best response,"
     publishedDateTime: 2021-08-24T10:30:00Z

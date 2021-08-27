@@ -39,20 +39,6 @@ related:
         width: 770
         height: 513
         isCached: true
-  - title: "involve.ai Raises $16 Million in Series A Funding"
-    excerpt: "Series A financing round led by Sapphire Ventures, with participation from existing investors Bonfire Ventures, Greycroft, Launch Capital, BDMI and new"
-    publishedDateTime: 2021-08-25T12:08:00Z
-    webUrl: "https://www.lelezard.com/en/news-19967345.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 39
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "jiTW8xaizx50W6RkRqZn4K2p6nL1B6+7S2Sv+fPbR2eT/cldewwOWnGVxK+GeosGiWNnkzYrF5M/C+/GfsUHyEPWi6wwlBosZ9abFNKiNOHQCsH3OZxoGy3x2EuhAfWAbXlEzD60B4tlCfCBF/e+T+h1cWXyx33efolt21KNwKpNFprTRdldCJ5Mr4qxqx2PXkCiWMXAHXGemvzZNSjeQRgKGH5v7R8tMEx1HYMO5XnssqRVLyrnzYKng3C6p3lgKAPrCetJH4BgbjJ+aZjmLXofi/FEdjf69DwS2/hB+IhVyfWGK1Py8FoRqfZbBog5luRQn+TZCAjOesxFKvcDDtPqZsb3/5ZS+7c9hHADvGk=;qd45doDpoCrD9Ma0hIXzDw=="
 ---

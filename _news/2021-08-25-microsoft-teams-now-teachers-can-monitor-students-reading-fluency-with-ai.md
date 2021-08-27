@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-teams-teachers-ge
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-teams-teachers-get-a-free-ai-tool-to-monitor-students-reading-fluency/"
 type: article
 quality: 102
-heat: 122
+heat: 132
 published: true
 
 provider:
@@ -54,6 +54,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 49
+  - title: "Otter.ai Makes Automated Meeting Notes Even Easier With Otter Assistant Now Available for Microsoft Teams, Google Meet, and Cisco Webex"
+    excerpt: "Otter.ai announced the launch of Otter Assistant for Microsoft Teams, Google Meet, and Cisco Webex for Otter Business Plan users. After an initi"
+    publishedDateTime: 2021-08-25T13:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210825005139/en/Otter.ai-Makes-Automated-Meeting-Notes-Even-Easier-With-Otter-Assistant-Now-Available-for-Microsoft-Teams-Google-Meet-and-Cisco-Webex"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 4
 
 secured: "YonMgdQSsXDXPRTB0vjujDLNDN7oNRtiOx7q/DYwRGMtNICpsM88ZCUJ9V++j0lhgF6oB/xGqs/kQ70IOkGK992oPJGYmVqu08Ucrun8dCEC1HXIe2aAkdAV25jyG66suidk0vpNhaBc8xyGys9e1KslLGGurnvaLT4PzwtZVn7OLMlrS2RS7M1Bn2M1QYgySCWedvYi2ET4hALLFYn75igwHSDOlX1xPzNIXAFb8wfJB3UDHyXKTrL55nzyWCRbuSptAjjiNNj7Loj4bVa6DHeClRBCBBMEpgYBl4m6pwX+vMXdNwzVRqReQxpoVwZfqzxRtTPcgpRvK4nNYg5LXUiEUkk8ctqarrIPXuHKLQ0=;uRKd0ywF5vTsN0XqXCZc7A=="
 ---

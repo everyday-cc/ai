@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/381428"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/381428"
 type: article
 quality: 119
-heat: 239
+heat: 229
 published: true
 
 provider:
@@ -106,22 +106,6 @@ related:
       - url: "https://www.thestatesman.com/wp-content/uploads/2021/08/TartanSense-1024x683.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Foodtech startup Ai Palette raises $4.4M Series A funding"
-    excerpt: "Foodtech startup Ai Palette that uses artificial intelligence to predict trends for F&B companies raises USD 4.4 Million in Series A funding. The funding round was led by pi Ventures and Exfinity Ventures with participation from Anthill and other ..."
-    publishedDateTime: 2021-08-26T02:30:00Z
-    webUrl: "https://www.dqindia.com/foodtech-startup-ai-palette-raises-4-4m-series-funding/"
-    ampWebUrl: "https://www.dqindia.com/foodtech-startup-ai-palette-raises-4-4m-series-funding/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/foodtech-startup-ai-palette-raises-4-4m-series-funding/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 57
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/06/funding.png"
-        width: 850
-        height: 400
         isCached: true
   - title: "Agritech Robotics Startup TartanSense Raises $5 Mn in Series A from FMC, Omnivore, Blume Ventures"
     excerpt: "TartanSense Team Agritech robotics startup TartanSense announced today that it has raised USD 5million in Series A funding. The round was"

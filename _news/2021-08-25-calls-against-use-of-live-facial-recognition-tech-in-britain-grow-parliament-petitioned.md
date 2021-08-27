@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202108/calls-against-use-of-live-f
 webUrl: "https://www.biometricupdate.com/202108/calls-against-use-of-live-facial-recognition-tech-in-britain-grow-parliament-petitioned"
 type: article
 quality: 45
-heat: -1
+heat: 45
 published: false
 
 provider:
@@ -25,33 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "PI and 30 CSOs unite against use of live facial recognition technology"
-    excerpt: "PI, together with 30 national and international civil society organisations (CSOs), release an open letter calling on Parliament and relevant stakeholders to halt and ban the use of live facial recognition technology (LFRT) by the police and private companies."
-    publishedDateTime: 2021-08-22T21:02:00Z
-    webUrl: "https://www.privacyinternational.org/advocacy/4616/pi-and-30-csos-unite-against-use-live-facial-recognition-technology"
+  - title: "Planned Expansion of Facial Recognition by US Agencies Called 'Disturbing'"
+    excerpt: "Digital rights advocates reacted harshly Thursday to a new internal U.S. government report detailing how ten federal agencies have plans to greatly expand their reliance on facial recognition in the years ahead."
+    publishedDateTime: 2021-08-26T16:53:00Z
+    webUrl: "https://www.commondreams.org/news/2021/08/26/planned-expansion-facial-recognition-us-agencies-called-disturbing"
     type: article
     provider:
-      name: Privacy International
-      domain: privacyinternational.org
-    quality: 54
-    images:
-      - url: "https://www.privacyinternational.org/sites/default/files/styles/teaser_large_x1/public/2021-07/etienne-girardet-CxTCcjUo2hM-unsplash2.png?itok=GcWDwORh"
-        width: 525
-        height: 295
-        isCached: true
-  - title: "AI Technology: A Disrupter to Teaching and Learning"
-    excerpt: "The COVID-19 pandemic has changed the game in education globally, with the adoption of e- learning no longer an option but a matter of survival for all educational institutions."
-    publishedDateTime: 2021-08-22T23:13:00Z
-    webUrl: "https://www.khmertimeskh.com/50920973/ai-technology-a-disrupter-to-teaching-and-learning/"
-    type: article
-    provider:
-      name: Khmer Times
-      domain: khmertimeskh.com
+      name: Common Dreams
+      domain: commondreams.org
     quality: 37
     images:
-      - url: "https://www.khmertimeskh.com/wp-content/uploads/2021/08/Op-Ed-Monday-Page-9-2.jpg"
-        width: 750
-        height: 440
+      - url: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2021-08/face-recognition-Getty1080200068-1300x681.jpg?h=319522b7&itok=fxTdPR8d"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "C5wj1Ug8SFMR2viaOWBrUzTiBRLAvwxi67CWtwM26n93pNAI26DlOsEC4d3aMSg6Ndp621R2W9h/mnfQQ7Du5XUfq6C8Qcxz+NpLhh5DqNvMQCVP107kRMiPRCbibAS1um98JeFPrqvYc9RQikCDkPRsWBntAoIwUSKqiQ5l3dgLcds25wKqqoZed5K5LjsYSUvdkysX4mi6C0LaM9ntseWv8ML1ybutBGAqO2x72XVxsQuwFysHTo03BgQnA5BVNQsZ2Q4dv6F0GoxJHwzZT23W1NDw7wYoSP67m1O2lhEs6JSvtNowJdZwTNRJdGUN8t+vROX9yJHacA+bYxUVRLpm8TdeEg9SE+gpDzPxYQKsUG6DWDgjt4xl3B6iV4rH0MbUuUm/L/6yrIQ/+Jb00iUElrgDmqgTxwFlkwd10wz3rAxPaCWTpjk4DG/0sS/+X6kjfBq/EX+O+gAAbHln/Fxhwo0dClc9xDj4BbTiW95fFo588xWvJRzF18ee8hbwsMH1Z2Nm7M8rjUqtIUWgQg==;+chnE1JX3AD+Ic5Az+nGYQ=="

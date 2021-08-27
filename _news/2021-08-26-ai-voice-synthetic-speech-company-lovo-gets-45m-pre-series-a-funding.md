@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/08/26/ai-voice-synthetic-speech-company-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/26/ai-voice-synthetic-speech-company-lovo-gets-4-5m-pre-series-a-funding/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1024
     height: 774
     isCached: true
-
-related:
-  - title: "Monolith AI Raises £8.5M in Series A Funding"
-    excerpt: "Monolith AI, a UK AI engineering software company, raised £8.5M in Series A funding. The round was led by Insight Partners with participation from existing investors Pentech and Touchstone, Alejandro Agag,"
-    publishedDateTime: 2021-08-23T14:38:00Z
-    webUrl: "https://www.finsmes.com/2021/08/monolith-ai-raises-8-5m-in-series-a-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 37
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2021/08/2021-Aug-F1-Dashboard-v1.1-1.png"
-        width: 1250
-        height: 768
-        isCached: true
 
 secured: "kL9McK1YZ38hS1F/tskfiL7m2mjy/SAcJi+Pgz8W4WRoR9N2wqCHv7cszuKcEg5ZnSjeCgxvJyZen2VWEeG9sVBcxF+xYBwhU26cVwbxXAmSzyodA1KBDcBUf8UODteDTGv9sFJfgNX3y3RGjDAZe6bp1wJw8rBeKgb+/xVuWqiW63fwQhyOB1INSWH7ftFjXMyK0pquxcVfJcDG8aROnKMKXE2dIlcmuTcvvIauhdumK2uRnidzhl8NMP7Lr0yeyFSv5SpJP0rYccNJfiRBOvLU/XSUMms6asTqNV07wRKaDzNbwORkZhEyCz4ORGMKO8YN8oL5bMXFhQNugcMqhLD1F9j1ZHhlKpdHAGOT43g6+wDgGUtcPT2i7wYmClM3iCtEaWG/QfFGcQEUKB+zUXEQQ58qe6l7fMs9Or/tNQICK8dUKZyg3bL8HK7Qcp7bibK9WVG6b4PZhujLB63LmZaUD48CcvquxSSJB2G1kskZIHebV5WRjSjYYqx9WiojCCBehpbmHOgsFfmfDVUj1A==;6AtGw0TdNEOZt0i9o8heAg=="
 ---

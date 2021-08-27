@@ -49,6 +49,15 @@ related:
         width: 700
         height: 875
         isCached: true
+  - title: "Otter.ai Makes Automated Meeting Notes Even Easier With Otter Assistant Now Available for Microsoft Teams, Google Meet, and Cisco Webex"
+    excerpt: "Otter.ai announced the launch of Otter Assistant for Microsoft Teams, Google Meet, and Cisco Webex for Otter Business Plan users. After an initi"
+    publishedDateTime: 2021-08-25T13:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210825005139/en/Otter.ai-Makes-Automated-Meeting-Notes-Even-Easier-With-Otter-Assistant-Now-Available-for-Microsoft-Teams-Google-Meet-and-Cisco-Webex"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 4
 
 secured: "7kYavlctGIcxznaVL7cM4lBGpB4XwuRyr7YS5M/pGFUU9Jg/ylgJ6RzsR29IcZwcfB4GzvzCxc+LNzLgP/vZeSRZwmRU0vdU2IsPuGDGhxNs75UVRmXw2D8CIZtrFOxDgbQDcrfbRwyb8dK7moqFvJX3qqQzfTEYiTz0k/EfWmo2rKCiAirbM+T3NFTExspIaCqz3vhFYCoiQI8qwo7VVVqonSTdLS7AZZGPTgp4HayuKIYpnZWbIH+NYqYDc8lk28WPEy4V5NVwj6YGNNyie0ja2XEbNMeFeznMrwJBq/92dAoncrRlU6R4NaW0424ifpasuNxNscuKt/6QPdF7k9kvkAily8r1xE3KWQvtJ3s=;4VlgJTExKqnPY8ouGp33+w=="
 ---

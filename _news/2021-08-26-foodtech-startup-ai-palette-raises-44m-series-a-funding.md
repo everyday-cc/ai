@@ -26,181 +26,76 @@ images:
     isCached: true
 
 related:
-  - title: "Agritech Robotics Startup TartanSense Raises $5 Mn In Series A Round"
-    excerpt: "The company builds small agricultural robots, equipped with AI-assisted computer vision, to help small farms reduce their expenditures and improve their incomes"
-    publishedDateTime: 2021-08-25T10:07:00Z
-    webUrl: "https://www.entrepreneur.com/article/381428"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/381428"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/381428"
+  - title: "Aumni Raises $50M in Series B Funding"
+    excerpt: "Aumni, a Salt Lake City UT-based investment analytics platform, raised $50M in Series B funding. The round was led by J.P. Morgan with participation from Pelion Venture Partners, WndrCo, Citadel Securities,"
+    publishedDateTime: 2021-08-26T13:00:00Z
+    webUrl: "https://www.finsmes.com/2021/08/aumni-raises-50m-in-series-b-funding.html"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 119
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 137
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1629886004-tartansenseteampic.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
+      - url: "https://www.finsmes.com/wp-content/uploads/2021/08/aumni.png"
+        width: 400
+        height: 400
         isCached: true
-  - title: "Agritech robotics startup TartanSense raises $5 mn in Series-A funding"
-    excerpt: "TartanSense builds small agricultural robots, equipped with AI-assisted computer vision, to help small farms prune expenses and improve incomes"
-    publishedDateTime: 2021-08-25T11:47:00Z
-    webUrl: "https://www.business-standard.com/article/companies/agritech-robotics-startup-tartansense-raises-5mn-in-series-a-funding-121082501000_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/companies/agritech-robotics-startup-tartansense-raises-5mn-in-series-a-funding-121082501000_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/agritech-robotics-startup-tartansense-raises-5mn-in-series-a-funding-121082501000_1.html"
+  - title: "involve.ai Raises $16 Million in Series A Funding"
+    excerpt: "Series A financing round led by Sapphire Ventures, with participation from existing investors Bonfire Ventures, Greycroft, Launch Capital, BDMI and new"
+    publishedDateTime: 2021-08-25T12:08:00Z
+    webUrl: "https://www.lelezard.com/en/news-19967345.html"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 89
-    images:
-      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2021-08/25/full/1629891980-9154.jpg&width=1200"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Agritech robotics startup TartanSense raises $5mn in Series A round"
-    excerpt: "TartanSense builds small agricultural robots, equipped with AI-assisted computer vision, to help small farms reduce their expenditures and improve their incomes."
-    publishedDateTime: 2021-08-25T05:10:00Z
-    webUrl: "https://www.dqindia.com/agritech-robotics-startup-tartansense-raises-5mn-series-round/"
-    ampWebUrl: "https://www.dqindia.com/agritech-robotics-startup-tartansense-raises-5mn-series-round/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/agritech-robotics-startup-tartansense-raises-5mn-series-round/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 89
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2016/02/funding-India.jpg"
-        width: 950
-        height: 534
-        isCached: true
-  - title: "Agritech Robotics Startup TartanSense Raises $5 Million In Series A"
-    excerpt: "This funding round brings the total funds raised by the company to $7 million, after raising a $2 million seed round in March 2019."
-    publishedDateTime: 2021-08-25T05:58:00Z
-    webUrl: "https://analyticsindiamag.com/agritech-robotics-startup-tartansense-raises-5-million-in-series-a/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 69
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/Agritech-Robotics-Startup-TartanSense-Raises-5-Million-In-Series-A.jpg"
-        width: 2000
-        height: 1335
-        isCached: true
-  - title: "Blume Ventures-backed agritech robotics startup TartanSense raises $5 Mn"
-    excerpt: "TartanSense, an AI-powered robotics solutions provider empowering small farm holders, has raised $5 million in its Series A round"
-    publishedDateTime: 2021-08-25T08:41:00Z
-    webUrl: "https://entrackr.com/2021/08/blume-ventures-backed-agritech-robotics-startup-tartansense-raises-5-mn/"
-    type: article
-    provider:
-      name: entrackr
-      domain: entrackr.com
-    quality: 68
-    images:
-      - url: "https://entrackr.com/wp-content/uploads/2021/08/Tartan-Sense.jpg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Agritech startup TartanSense raises $5 mn from FMC, Omnivore"
-    excerpt: "TartanSense builds small agricultural robots, equipped with AI-assisted computer vision, to help small farms reduce their expenditures"
-    publishedDateTime: 2021-08-25T11:20:00Z
-    webUrl: "https://www.thestatesman.com/world/agritech-startup-tartansense-raises-5-mn-fmc-omnivore-1502998745.html"
-    ampWebUrl: "https://www.thestatesman.com/world/agritech-startup-tartansense-raises-5-mn-fmc-omnivore-1502998745.html/amp"
-    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/world/agritech-startup-tartansense-raises-5-mn-fmc-omnivore-1502998745.html/amp"
-    type: article
-    provider:
-      name: The Statesman
-      domain: thestatesman.com
-    quality: 59
-    images:
-      - url: "https://www.thestatesman.com/wp-content/uploads/2021/08/TartanSense-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Agritech Robotics Startup TartanSense Raises $5 Mn in Series A from FMC, Omnivore, Blume Ventures"
-    excerpt: "TartanSense Team Agritech robotics startup TartanSense announced today that it has raised USD 5million in Series A funding. The round was"
-    publishedDateTime: 2021-08-25T05:36:00Z
-    webUrl: "https://www.indianweb2.com/2021/08/agritech-robotics-startup-tartansense.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 56
-    images:
-      - url: "https://1.bp.blogspot.com/-CRkJ-R5mbWw/YSXWFqzBrtI/AAAAAAAAEks/uzzoOlHE-HIpIKfXDZ4GN0tH3Rc9RaR8gCLcBGAsYHQ/s16000/tartansense%2Bteam%2Bpic.jpg"
-        width: 2000
-        height: 1335
-        isCached: true
-  - title: "Agritech startup TartanSense raises $5 mn from FMC, Omnivore and Blume Ventures"
-    excerpt: "Agritech robotics startup TartanSense on Wednesday said it has raised USD 5 million (around Rs 37 crore) from investors for business expansion and growth. The company said in a statement that the Series A funding round was led by FMC Ventures and Omnivore,"
-    publishedDateTime: 2021-08-25T12:22:00Z
-    webUrl: "https://www.cnbctv18.com/startup/agritech-startup-tartansense-raises-5-mn-from-fmc-omnivore-and-blume-ventures-10492291.htm"
-    ampWebUrl: "https://www.cnbctv18.com/startup/agritech-startup-tartansense-raises-5-mn-from-fmc-omnivore-and-blume-ventures-10492291.htm/amp"
-    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/startup/agritech-startup-tartansense-raises-5-mn-from-fmc-omnivore-and-blume-ventures-10492291.htm/amp"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 55
-    images:
-      - url: "https://images.cnbctv18.com/wp-content/uploads/2021/08/startup_funding3-1019x573.jpg"
-        width: 1019
-        height: 573
-        isCached: true
-  - title: "Agritech startup TartanSense raises $5 million from FMC, Omnivore and Blume Ventures"
-    excerpt: "TartanSense builds small agricultural robots, equipped with AI-assisted computer vision, to help small farms reduce their expenditures and improve their incomes."
-    publishedDateTime: 2021-08-25T06:21:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/funding/agritech-startup-tartansense-raises-5-million-from-fmc-omnivore-and-blume-ventures/articleshow/85616740.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/funding/agritech-startup-tartansense-raises-5-million-from-fmc-omnivore-and-blume-ventures/amp_articleshow/85616740.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/agritech-startup-tartansense-raises-5-million-from-fmc-omnivore-and-blume-ventures/amp_articleshow/85616740.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 52
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-158204,msid-85616785/agritech.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Agritech Startup TartanSense Raises $5Mn Led By FMC Ventures, Others"
-    excerpt: "Agritech robotics startup TartanSense has raised $5 Mn in Series A funding. The round was led by FMC Ventures and Omnivore, with participation from existing investor Blume Ventures."
-    publishedDateTime: 2021-08-25T06:44:00Z
-    webUrl: "https://inc42.com/buzz/agritech-startup-tartansense-raises-5mn-led-by-fmc-ventures-others/"
-    type: article
-    provider:
-      name: inc42.com
-      domain: inc42.com
+      name: Le Lézard
+      domain: lelezard.com
     quality: 39
     images:
-      - url: "https://inc42.com/wp-content/uploads/2021/08/tartan-s-min.png"
-        width: 1200
-        height: 628
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
-  - title: "Agritech startup TartanSense raises USD 5 mn from FMC, Omnivore and Blume Ventures"
-    excerpt: "Agritech robotics startup TartanSense on Wednesday said it has raised USD 5 million (around Rs 37 crore) from investors for business expansion and growth. The company said in a statement that the Series A funding round was led by FMC Ventures and Omnivore,"
-    publishedDateTime: 2021-08-25T05:49:00Z
-    webUrl: "https://mybigplunge.com/startups/agritech-startup-tartansense-raises-usd-5-mn-from-fmc-omnivore-and-blume-ventures/"
+  - title: "Monolith AI Raises £8.5M in Series A Funding"
+    excerpt: "Monolith AI, a UK AI engineering software company, raised £8.5M in Series A funding. The round was led by Insight Partners with participation from existing investors Pentech and Touchstone, Alejandro Agag,"
+    publishedDateTime: 2021-08-23T14:38:00Z
+    webUrl: "https://www.finsmes.com/2021/08/monolith-ai-raises-8-5m-in-series-a-funding.html"
     type: article
     provider:
-      name: mybigplunge.com
-      domain: mybigplunge.com
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 37
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2021/08/2021-Aug-F1-Dashboard-v1.1-1.png"
+        width: 1250
+        height: 768
+        isCached: true
+  - title: "Covera Health Raises $25M in Series C Financing to Fuel Growth of Its Healthcare Quality Analytics Platform"
+    excerpt: "Covera Health, the leading quality analytics company focused on improving patient care by reducing medical errors, today announced its Series C financing. The $25M funding was led by global venture capital and private equity firm Insight Partners with participation from existing investors including Equity Group Investments."
+    publishedDateTime: 2021-08-23T13:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-08ae26b203374af0810bc483579064cd"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 36
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Startup aiming to root out misdiagnoses in radiology raises $25M in new funding"
+    excerpt: "A New York-based startup aiming to root out misdiagnoses in radiology has raised $25 million in new funding, leaders announced Monday. Covera Health said the Series C financing comes by way of private equity firm Insight Partners,"
+    publishedDateTime: 2021-08-24T06:12:00Z
+    webUrl: "https://www.radiologybusiness.com/topics/artificial-intelligence/covera-health-misdiagnoses-radiology-insight-partners"
+    type: article
+    provider:
+      name: Radiology Business
+      domain: radiologybusiness.com
     quality: 33
     images:
-      - url: "https://mybigplunge.com/wp-content/uploads/2021/08/funding-6-1-1000x600.jpg"
-        width: 1000
-        height: 600
+      - url: "https://www.radiologybusiness.com/sites/default/files/styles/facebook/public/assets/articles/Dollar.jpg?itok=P_wAx_2z"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Agritech startup TartanSense raises USD 5 mn from FMC, Omnivore and Blume Ventures"
-    excerpt: "Agritech robotics startup TartanSense on Wednesday said it has raised USD 5 million (around Rs 37 crore) from investors for business"
-    publishedDateTime: 2021-08-25T18:46:00Z
-    webUrl: "https://www.dailyexcelsior.com/agritech-startup-tartansense-raises-usd-5-mn-from-fmc-omnivore-and-blume-ventures/"
-    type: article
-    provider:
-      name: Daily Excelsior
-      domain: dailyexcelsior.com
-    quality: 13
 
 secured: "XmvIobuTFXUyTX2qHruxBozK9NehwcCKQ1Hi7CnI5nKFANmZPFzsz8ot0uYnjXhp+Tahc7+jEcmMHA12Hcp8Kcx/ljoOHjsOCUNPxs0qs7DnXXukVj8pKWEC3zxgyaiP7JJu/bAW4aixHFUAPB8dglxUoE4EdJvFVfTzbAKcgKWEg+wsQJt976ucpGw5n0Sy/Or8oliiWdp9LwqtFjHpbdBjr3JRsNbF7zY0nV42ScPtqHhGVPn4Xaxh1i7DNdf1J6F+cLs5IFvC+XkpfyQz8Jbz4O2o/9KewdqGSRmwPIhhu/pPTFI1WiqzTJlGo7Fdm4O2r94gc+5p05NPoFS6uRz0O30SKYZ6ALw930D5v0k=;8YYz6NFei2WtcyRt0zeOHQ=="
 ---

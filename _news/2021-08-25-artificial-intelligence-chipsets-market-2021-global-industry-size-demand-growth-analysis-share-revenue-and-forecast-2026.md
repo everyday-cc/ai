@@ -6,7 +6,7 @@ publishedDateTime: 2021-08-25T04:36:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-2021-global-industry-size-demand-growth-analysis-share-revenue-and-forecast-2026-2021-08-25"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-2021-global-industry-size-demand-growth-analysis-share-revenue-and-forecast-2026-2021-08-25"
 type: article
-quality: 44
+quality: 46
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ topics:
   - AI in Autos
   - AI
   - AI in Healthcare
+  - Microsoft AI
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

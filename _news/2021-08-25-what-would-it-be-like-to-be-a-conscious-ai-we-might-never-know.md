@@ -8,8 +8,8 @@ webUrl: "https://www.technologyreview.com/2021/08/25/1032111/conscious-ai-can-ma
 ampWebUrl: "https://www.technologyreview.com/2021/08/25/1032111/conscious-ai-can-machines-think/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/08/25/1032111/conscious-ai-can-machines-think/amp/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - Facebook AI
+  - Google AI
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2021/08/SO21_TR_AI-531112094.jpg?w=3000"

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Global Industry Analysts Predicts the World Cognitive Services Market to Reach $29 Billion by 2026"
-excerpt: "Companies: 42 - Players covered include Amazon Web Services, Inc.; Apple, Inc.; Attivio, Inc.; Baidu, Inc.; BMC Software, Inc.; Clarifai, Inc.; CognitiveScale; Expert ..."
-publishedDateTime: 2021-08-24T14:52:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-industry-analysts-predicts-the-world-cognitive-services-market-to-reach-29-billion-by-2026/article_9c385638-fa60-5a72-b426-af194d05e231.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-industry-analysts-predicts-the-world-cognitive-services-market-to-reach-29-billion-by-2026/article_9c385638-fa60-5a72-b426-af194d05e231.html"
+excerpt: "A new market study published b Inc., (GIA) the premier market research company, today released its report titled \"Cognitive Services"
+publishedDateTime: 2021-08-24T14:20:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/global-industry-analysts-predicts-the-world-cognitive-services-market-to-reach-29-billion-by-2026/article_9c385638-fa60-5a72-b426-af194d05e231.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/global-industry-analysts-predicts-the-world-cognitive-services-market-to-reach-29-billion-by-2026/article_9c385638-fa60-5a72-b426-af194d05e231.html"
 type: article
 quality: 25
 heat: -1
@@ -124,6 +124,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Precision Medicine Market to Reach USD 125.67 Billion by 2026"
+    excerpt: "Increasing advancements in cancer biology and myriad benefits offered by precision medicines to drive the global precision medicine market. <br />"
+    publishedDateTime: 2021-08-27T10:33:00Z
+    webUrl: "https://menafn.com/1102685223/Precision-Medicine-Market-to-Reach-USD-12567-Billion-by-2026"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/updates/pr/2021-08/26/pr_12067_f10a3a26_image_story.jpeg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Global fintech market size to grow a CAGR of 8.5% to reach $191bn in 2028"
     excerpt: "The global fintech market size was USD 100.09 billion in 2020 and is expected to register a revenue CAGR of 8.5% to reach USD 190.80 billion during 2021 - 2028, boosted by rising demand for digitization in organizations."
     publishedDateTime: 2021-08-27T09:20:00Z
@@ -181,6 +195,6 @@ related:
         height: 339
         isCached: true
 
-secured: "e+hTmiFBu8JIemw2xCMmUpdXIWRe/3VyfjSN89HsQMXCkzvBcvXT9muSfvFRRJH1HInPUBu6GMG/GNCPRANDxq/aPOAEFSo9S29TjpRhaY0B6+sTRWMVK8McM9ppVIk5kIY4MJiYV4yB7xdBQ3KZXsM5cao4+JPMnfMCdAAhCs4D6BJNl2y6ixZHu2VjNtEXYJU46ADq4bGI0RLgobQw5ezrwe7j9j8w3Nh10dVsNhaHxNEWq/MGBWWzee9atYTIEmwD0K7JEOFRHKoPYhtaDzKab91X1o980cugj8PmaJy3lboWdRCPPEFbOtZyxRCF/i/9ZFOZgtimcaSBby14nCBjivAk/HupvIC89U5ewLs=;ORz6ZhcRK5lSWVHbQ91WFA=="
+secured: "7glwTAjwTLsgg3rFxArU2cIGHXFo6ww7nv4aDcTbkq202qNdDsAPBgOIhskuIbpxqOPLd0VsOlcNShs1Gh/dVhYdICw4hLgQRR9+2LCp3BCK4bHxa1jJoye5iwwsz17LCGAb9reqKuwRybwkNvd1pHCzx3DGs2XiQMHVpZm5Ps4zHTlGY+9T+mH2VldlhqiYJfyNh9gKQqs0jRoBvku2BMGRNvm5SNN2+NTyyqNKz2LDiaQRaTnYGmSEruKF+7+WRp/iq10XYPpCHoVdsk2/irfeUCmlFtyGuKUPGoh4lmpmJK4094p3a1zAQ952Ctm5diqMwdMDjESLK/Jcgl1jQiALgHniKUyelYQo2KATpcU=;LkaGeECHULx9a3mWX+YK2g=="
 ---
 

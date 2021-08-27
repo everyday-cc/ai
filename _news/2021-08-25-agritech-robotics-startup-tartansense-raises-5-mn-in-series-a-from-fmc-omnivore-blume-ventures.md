@@ -117,22 +117,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Foodtech startup Ai Palette raises $4.4M Series A funding"
-    excerpt: "Foodtech startup Ai Palette that uses artificial intelligence to predict trends for F&B companies raises USD 4.4 Million in Series A funding. The funding round was led by pi Ventures and Exfinity Ventures with participation from Anthill and other ..."
-    publishedDateTime: 2021-08-26T02:30:00Z
-    webUrl: "https://www.dqindia.com/foodtech-startup-ai-palette-raises-4-4m-series-funding/"
-    ampWebUrl: "https://www.dqindia.com/foodtech-startup-ai-palette-raises-4-4m-series-funding/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/foodtech-startup-ai-palette-raises-4-4m-series-funding/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 57
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/06/funding.png"
-        width: 850
-        height: 400
-        isCached: true
   - title: "Agritech startup TartanSense raises $5 mn from FMC, Omnivore and Blume Ventures"
     excerpt: "Agritech robotics startup TartanSense on Wednesday said it has raised USD 5 million (around Rs 37 crore) from investors for business expansion and growth. The company said in a statement that the Series A funding round was led by FMC Ventures and Omnivore,"
     publishedDateTime: 2021-08-25T12:22:00Z
