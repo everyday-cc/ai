@@ -51,20 +51,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Singapore Fintech Unicorn Startups: Past, Present, and Future"
-    excerpt: "Let’s take a look at Singapore’s unicorn companies: from the past, present, and the aspiring unicorns of the future."
-    publishedDateTime: 2021-08-23T01:57:00Z
-    webUrl: "https://fintechnews.sg/54600/fintech/singapore-fintech-unicorn-startups-past-present-and-future/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 24
-    images:
-      - url: "https://fintechnews.sg/wp-content/uploads/2021/08/Singapore-Unicorn-Companies-Past-Present-and-Future-1024x568.jpg"
-        width: 1024
-        height: 568
-        isCached: true
   - title: "Tartu self-driving bus trials next month"
     excerpt: "A self-driving bus starts work in Tartu on a trial basis next week, ferrying passengers between the city center and the Estonian National Museum (ERM) on the outskirts, ETV news show 'Aktuaalne kaamera' (AK) reported."
     publishedDateTime: 2021-08-27T11:08:00Z

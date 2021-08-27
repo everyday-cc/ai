@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/27/chances-of-collis
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/27/chances-of-collisions-involving-urgently-underway-police-cars-and-ai-self-driving-cars/amp/"
 type: article
 quality: 81
-heat: 121
+heat: 141
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Toyota suspends all self-driving vehicles at Paralympic Games after collision with athlete"
+    excerpt: "Toyota Motor Corporation announced the immediate halt to all e-Palette self-driving pods at the Tokyo Paralympic Games following a collision."
+    publishedDateTime: 2021-08-27T17:58:00Z
+    webUrl: "https://electrek.co/2021/08/27/toyota-suspends-all-self-driving-vehicles-at-paralympic-games-after-collision-with-athlete/"
+    ampWebUrl: "https://electrek.co/2021/08/27/toyota-suspends-all-self-driving-vehicles-at-paralympic-games-after-collision-with-athlete/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/27/toyota-suspends-all-self-driving-vehicles-at-paralympic-games-after-collision-with-athlete/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 64
+    images:
+      - url: "https://electrek.co/wp-content/uploads/sites/3/2021/08/Toyota-E-Palette.png?w=1000"
+        width: 1000
+        height: 500
+        isCached: true
   - title: "Goodyear collaborates with Plus on self-driving trucking tech"
     excerpt: "Goodyear will supply a suite of services including connected tires to improve the safety for semi-trucks powered by Plus’ Level 4 self-driving technology. This will also help to reduce the carbon impact."
     publishedDateTime: 2021-08-26T14:20:00Z
@@ -76,6 +92,20 @@ related:
       - url: "https://electronics360.globalspec.com/images/assets/111/17111/Plus_Become_Publicly_Listed-16-3e88642123.jpg"
         width: 752
         height: 470
+        isCached: true
+  - title: "Aurora debuts next-generation self-driving hardware"
+    excerpt: "Self-driving truck startup Aurora Friday announced the development of its next generation of hardware. The company is targeting a commercial debut of the hardware in pilots this year and with the launch of the company’s trucking and ride-hailing businesses to follow in 2023 and 2024,"
+    publishedDateTime: 2021-08-27T17:20:00Z
+    webUrl: "https://www.ccjdigital.com/equipment-controls/article/15114247/aurora-readies-debut-of-nextgeneration-selfdriving-hardware"
+    type: article
+    provider:
+      name: CCJ
+      domain: ccjdigital.com
+    quality: 24
+    images:
+      - url: "https://img.ccjdigital.com/files/base/randallreilly/all/image/2021/08/Peterbilt___Sienna__1_.61291a46a170d.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Will self-driving cars dominate roads?"
     excerpt: "Many companies are developing self-driving cars with the goal of making transportation a breeze for everyone, but the necessary technology still has a ways to go."

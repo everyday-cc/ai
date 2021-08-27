@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-08-potential-deep-power-networks.am
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-potential-deep-power-networks.amp"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Making Virtual Learning Real"
+    excerpt: "Universities have deployed virtual labs, educational digital twins and machine learning to innovate online education."
+    publishedDateTime: 2021-08-27T18:07:00Z
+    webUrl: "https://www.forbes.com/sites/mungchiang/2021/08/27/making-virtual-learning-real/"
+    ampWebUrl: "https://www.forbes.com/sites/mungchiang/2021/08/27/making-virtual-learning-real/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mungchiang/2021/08/27/making-virtual-learning-real/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6128e5695e7579e33ef2390e%2F0x0.jpg"
+        width: 1200
+        height: 750
+        isCached: true
   - title: "Research reveals potential of deep learning in managing power networks"
     excerpt: "Power networks worldwide are faced with increasing challenges. The fast rollout of distributed renewable generation (such as rooftop solar panels"
     publishedDateTime: 2021-08-27T14:36:00Z
@@ -41,7 +57,16 @@ related:
         width: 770
         height: 420
         isCached: true
+  - title: "Machine learning reaches mineral prospecting"
+    excerpt: "Machine learning technology is not widely used in the domestic exploration space thus far, with only specialist consultancies offering advanced machine learning-driven target generation and prospectivity mapping services. The partnership, formed in 2020 ..."
+    publishedDateTime: 2021-08-27T01:17:00Z
+    webUrl: "https://www.miningweekly.com/article/machine-learning-reaches-mineral-prospecting-2021-08-27"
+    type: article
+    provider:
+      name: Mining Weekly
+      domain: miningweekly.com
+    quality: 19
 
-secured: "a3eiTSAoXkXwMittln064kfpOhtM5o/rdQDXeL6QkSkkS0LFvzHTzSNSR21cK2Zh2tDlYYln7mIsCtigktrf8R9liY7QF9X0M/tYKqdoH68EU5vZSkhgWCsMR3i5saIw0ZeyBRYlOEpqJqzGv53x7+SHBFKmPZUdWeFrnfhPC10T7TPAPJGAcPHgnnC4g3bnJKjz4BgGq15QM6Z9grDYliLs2mgF5eDr5ikylNFObQBFJmkJ0xYZFQ/J/vxQnKKh0TGMTf+J4t7CE2zIu8HI9/gYSb0+Bb4uFZo64wBHZewi6ZfpBk8iT0bQblxfDFr17b3w694seez4AbUpBZ7btZWJ0aydBRCVxEkL/4xf5jA=;YdVdUoUswT3Z5is+sC+PLw=="
+secured: "StV80OOIIL7kVnfXyBR3/S6TsLvBQVkgMMmzi82XQtVnXnafyC1geO3dnbIGdXchrzZMC0jX1uymTVxYrHwBChG9jMx6PeuKahctxhFQFJk1Tzy8ZTR0biGuCDPoDu6NqMr/4BSslPWeNbihko/oCRbhrxh2THLTuY8+YaUkptrkoo/DSAZE4xsyMICDqlVxqNYrXTf9FgtcURhy5p/CnTKSRm7bm8osDgxt996gQ6LNExiuyBlXA2VOgpXM28wN4K6lXKhc3gZot4IKvZOvWwUjB6WhNEfLcD0HOG1j6TRdvT4WMie5oUzBPZZCopPQZLsNUHtw80YRs4GkWigM27Shb3hselGVjt4EE4k2euKlESzU5CajK1nuOzjDlG7tPeXewg4fgfmUyjTARDufy2lENFo/7y3VQFLGOMAt1ZcivNTbBSB9F9+v9DX5WZvWnIb+FEtMSjVjN75ZaBtwoxQZOSFUu/pkgxwaZcpPo9zBUH5BGT3Q7lAGS3DcFuSMy7cL6wfVqccTDDQtoQ+5mA==;OI7h5szDQbxzcz6o/bitGg=="
 ---
 

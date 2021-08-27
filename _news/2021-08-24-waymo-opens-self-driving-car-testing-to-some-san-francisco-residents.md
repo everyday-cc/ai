@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/08/24/waymo-opens-self-driving-car-tes
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/08/24/waymo-opens-self-driving-car-testing-to-some-san-francisco-residents.html"
 type: article
 quality: 159
-heat: 309
+heat: 329
 published: true
 
 provider:
@@ -202,6 +202,20 @@ related:
         width: 1920
         height: 1099
         isCached: true
+  - title: "Waymo will stop selling lidar self-driving car sensors"
+    excerpt: "SAN FRANCISCO -- Alphabet's self-driving unit Waymo said that it has ended a two-year effort to sell light detection and ranging (lidar) sensors to other companies. This is a reversal from its ..."
+    publishedDateTime: 2021-08-27T09:20:00Z
+    webUrl: "https://europe.autonews.com/suppliers/waymo-will-stop-selling-lidar-self-driving-car-sensors"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 39
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Waymo%20jag%20SF%20web%281%29.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Waymo's self-driving Jaguar I-Pace electric cars are ready for passengers"
     excerpt: "San Francisco riders will have a self-driving electric car do the driving—although an \"autonomous specialist\" will be onboard."
     publishedDateTime: 2021-08-26T12:00:00Z
@@ -229,6 +243,20 @@ related:
       - url: "https://img.futurecar.com/202108/24/l_61252915d0f89.jpeg"
         width: 800
         height: 457
+        isCached: true
+  - title: "Challenges that self-driving cars are facing"
+    excerpt: "The road to the future is a long and winding one as self-driving car companies try to get their driverless cars to go mainstream. While self-driving cars are the way of the future officials say it's just taking a little longer for the future to be fully realized."
+    publishedDateTime: 2021-08-27T18:42:00Z
+    webUrl: "https://www.wral.com/challenges-that-self-driving-cars-are-facing/19845953/"
+    type: article
+    provider:
+      name: WRAL
+      domain: wral.com
+    quality: 24
+    images:
+      - url: "https://wwwcache.wral.com/asset/news/national_world/national/2021/08/27/19845954/132237-self-driving-DMID1-5s0j0zz7n-640x480.jpg"
+        width: 640
+        height: 480
         isCached: true
   - title: "Video: Waymo begins self-driving rides in San Francisco"
     excerpt: "Waymo, the autonomous driving division of Google, has started its Trusted Tester program in San Francisco. The program will invite the local population to get rides from Waymo to help better identify the issues involved with autonomous driving as well as discover what consumers want from self-driving ride-hailing services."

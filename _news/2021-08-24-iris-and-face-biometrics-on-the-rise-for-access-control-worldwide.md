@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "CyberLink and QNAP partner on face biometrics for surveillance and security"
+    excerpt: "CyberLink and QNAP Systems have entered a new partnership to collaborate on face biometrics solutions for surveillance and security applications."
+    publishedDateTime: 2021-08-27T18:14:00Z
+    webUrl: "https://www.biometricupdate.com/202108/cyberlink-and-qnap-partner-on-face-biometrics-for-surveillance-and-security"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
+        width: 1050
+        height: 591
+        isCached: true
   - title: "EU studies ethics of biometrics in public spaces at request of parliamentary committees"
     excerpt: "The rise in use of soft biometrics alongside strong biometrics is paving the way for the mass roll-out of biometric technologies for a variety of purposes."
     publishedDateTime: 2021-08-25T20:38:00Z

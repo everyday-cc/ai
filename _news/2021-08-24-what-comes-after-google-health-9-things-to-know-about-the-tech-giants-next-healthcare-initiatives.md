@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/healthcare-information-techn
 webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/what-comes-after-google-health-9-things-to-know-about-the-tech-giant-s-next-healthcare-initiatives.html"
 type: article
 quality: 25
-heat: 25
+heat: -1
 published: false
 
 provider:
@@ -25,17 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "Google takes health app offline 2 years after acquisition: 4 things to know"
-    excerpt: "Google is shutting down Streams, a mobile app developed to help clinicians track patients' conditions, just two years after finalizing its acquisition, according to an Aug. 27 Insider report. Four things to know: Streams has been in use in a number of the U."
-    publishedDateTime: 2021-08-27T15:08:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/google-takes-health-app-offline-2-years-after-acquisition-4-things-to-know.html"
+  - title: "7 recent Big Tech partnerships in healthcare: Amazon, Google & more"
+    excerpt: "Seven recent partnerships between healthcare organizations and Big Tech companies including Amazon, Apple, Google and Microsoft: 1. Stanford's Center for Artificial Intelligence in Medicine and Imaging teamed up with Microsoft's AI for Health Program to launch a new data repository platform that will be more automated,"
+    publishedDateTime: 2021-08-27T18:42:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-transformation/7-recent-big-tech-partnerships-in-healthcare-amazon-google-more-2.html"
     type: article
     provider:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
-    quality: 22
+    quality: 39
     images:
-      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/10.jpg"
+      - url: "https://www.beckershospitalreview.com/images/channels/digital-transformation/9.jpg"
         width: 800
         height: 600
         isCached: true

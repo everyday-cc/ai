@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202108/eu-studies-ethics-of-biomet
 webUrl: "https://www.biometricupdate.com/202108/eu-studies-ethics-of-biometrics-in-public-spaces-at-request-of-parliamentary-committees"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "CyberLink and QNAP partner on face biometrics for surveillance and security"
+    excerpt: "CyberLink and QNAP Systems have entered a new partnership to collaborate on face biometrics solutions for surveillance and security applications."
+    publishedDateTime: 2021-08-27T18:14:00Z
+    webUrl: "https://www.biometricupdate.com/202108/cyberlink-and-qnap-partner-on-face-biometrics-for-surveillance-and-security"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
+        width: 1050
+        height: 591
+        isCached: true
   - title: "Iris and face biometrics on the rise for access control worldwide"
     excerpt: "Two separate market studies have highlighted the emerging relevance of iris biometrics for access control applications worldwide."
     publishedDateTime: 2021-08-23T21:07:00Z

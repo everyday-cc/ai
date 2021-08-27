@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ibms-new-telum-proce
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibms-new-telum-processor-is-the-companys-first-with-an-on-chip-ai-accelerator/"
 type: article
 quality: 100
-heat: 330
+heat: 320
 published: true
 
 provider:
@@ -92,22 +92,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1599074/IBM_Z_CHIP_03.jpg"
         width: 400
         height: 267
-        isCached: true
-  - title: "IBM introduces Telum chips aimed at AI inferencing workloads like fraud detection"
-    excerpt: "Big Blue has unveiled Telum, its first chip with AI inferencing acceleration that will allow it to conduct tasks such as fraud detection while a transaction is occurring. \"The chip contains 8 processor cores with a deep super-scalar out-of-order instruction pipeline,"
-    publishedDateTime: 2021-08-23T01:48:00Z
-    webUrl: "https://www.zdnet.com/article/ibm-introduces-telum-chips-aimed-at-ai-inferencing-workloads-like-fraud-detection/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-introduces-telum-chips-aimed-at-ai-inferencing-workloads-like-fraud-detection/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-introduces-telum-chips-aimed-at-ai-inferencing-workloads-like-fraud-detection/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 82
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/08/23/c094c986-e845-4dbf-9fb3-9b7ee6d8e71c/ibm-telum.png"
-        width: 1194
-        height: 662
         isCached: true
   - title: "Attacking fraud: On-chip AI accelerator boosts new IBM processor"
     excerpt: "IBM's latest processor, the Telum Processor, is anticipated by the company to have applications in banking, finance, retail, healthcare, and more, due to \"on-chip accelerated AI.\""

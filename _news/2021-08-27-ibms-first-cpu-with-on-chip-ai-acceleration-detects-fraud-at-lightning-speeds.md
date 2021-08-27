@@ -103,22 +103,6 @@ related:
         width: 400
         height: 267
         isCached: true
-  - title: "IBM introduces Telum chips aimed at AI inferencing workloads like fraud detection"
-    excerpt: "Big Blue has unveiled Telum, its first chip with AI inferencing acceleration that will allow it to conduct tasks such as fraud detection while a transaction is occurring. \"The chip contains 8 processor cores with a deep super-scalar out-of-order instruction pipeline,"
-    publishedDateTime: 2021-08-23T01:48:00Z
-    webUrl: "https://www.zdnet.com/article/ibm-introduces-telum-chips-aimed-at-ai-inferencing-workloads-like-fraud-detection/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-introduces-telum-chips-aimed-at-ai-inferencing-workloads-like-fraud-detection/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-introduces-telum-chips-aimed-at-ai-inferencing-workloads-like-fraud-detection/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 82
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/08/23/c094c986-e845-4dbf-9fb3-9b7ee6d8e71c/ibm-telum.png"
-        width: 1194
-        height: 662
-        isCached: true
   - title: "Attacking fraud: On-chip AI accelerator boosts new IBM processor"
     excerpt: "IBM's latest processor, the Telum Processor, is anticipated by the company to have applications in banking, finance, retail, healthcare, and more, due to \"on-chip accelerated AI.\""
     publishedDateTime: 2021-08-24T11:47:00Z
@@ -356,6 +340,6 @@ related:
       domain: telecompaper.com
     quality: 34
 
-secured: "kYz8tQ3hl0Tb77xmgkjNG3ob1EF+FcK0juj3XaM52AjAUEuaOqmPf4vMEvwSrLQ0DHc0WOsARgJoAFum/AzPLNXgkgv6mKGAJP+/+WLoNlcUrbvfbBAddI2Zn6TC/WYZ6awQHEBKJBukd0Nwp3F3CE0162Nb0trczwIPwJ7L6rwaKyPCik36xLiUexKxBIy5i5CrWNuj0mIWwKdaKeK+ROlLCe1aX2pFukqEn0219G08i217DkJ444B7zWuLlmu8Wfdwrqh8hqu+pPl1UxiLmn25h6u1aRyR1CYhc/LX4bLNEasWBOxkxBP0bmFx9B0PAA2q91FtHbBa6hJEZ/ykHx2T7NKiKHd2dHzCQziLaXo=;Dkg43YJyWwfbBZylWHvjQA=="
+secured: "7XQm1U8ybAivNcAoAovbBs+qigi/N9im8NB5jrMX7AEQJ1AY7duoaCKlwRhwPqSSDhqZsTWx0o5zidULuqnD5hWs8OcWxOGiCCy1LJkYWdoYm/WzvFWUdEsRkwy71659FC4UZt0LUOvR580mpgJRrgcFc8nTToGLg++/WgFlcGAj1bKikRJLzBkDt7dKXIBRg0mzXtgSzDmxzvJcza1h5pABcYkmb73Ad3TG7xTmWTRTXDZqXqZx7Zgf7tdL5C/0yp5IyKafs62QBpJiQ6z7AlJvh6AQlW2doRruvo0Re8nUm5SfocNCVVriinyKGWzWhfCAnDsra4U6BQ82scKbg2D9p+6o9LUDONpeL15naUIuwZfTPINW+1NYGsdEzpGfWLbGjz3HqUILsQ/orPyXct4jltdhASaxdBmwGyz6QDq5fZVSkBPDMIvJ+v8JdrHXxkvso5eA300e2A8PIi4EVbX5ta1HdfFwV4uvkakhPa+vwl0A1GoKzfeCgBbeKDKvSpWrvjWvnLQBNnwEf+5H6w==;wcpbioue/N0XcpjblJZsug=="
 ---
 

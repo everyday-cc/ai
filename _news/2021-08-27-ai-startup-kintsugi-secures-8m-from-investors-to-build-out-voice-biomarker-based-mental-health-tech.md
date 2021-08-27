@@ -6,8 +6,8 @@ publishedDateTime: 2021-08-27T16:00:00Z
 originalUrl: "https://www.fiercehealthcare.com/tech/ai-mental-health-startup-kintsugi-secures-8m-from-investors-works-to-close-mental-health-gaps"
 webUrl: "https://www.fiercehealthcare.com/tech/ai-mental-health-startup-kintsugi-secures-8m-from-investors-works-to-close-mental-health-gaps"
 type: article
-quality: 22
-heat: 22
+quality: 24
+heat: 24
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://qtxasset.com/fiercehealthcare/1629913860/GettyImages-1222623990.jpg/GettyImages-1222623990.jpg?jQKmrUzwboNt975ebd6Pg1whoKLlcXGR"

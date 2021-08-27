@@ -22,16 +22,16 @@ related:
   - title: "Intel Launches AI for Workforce Program for Students in 18 Community Colleges"
     excerpt: "Intel is announcing a major expansion of its Intel® AI for Workforce Program to help educate the next generation of U.S. technologists, engineers and inventors — and to help them land careers in their chosen fields,"
     publishedDateTime: 2021-08-27T01:45:00Z
-    webUrl: "https://www.csrwire.com/press_releases/727521-intel-launches-ai-workforce-program-students-18-community-colleges"
+    webUrl: "https://www.yahoo.com/now/intel-launches-ai-workforce-program-140107340.html"
     type: article
     provider:
       name: CSR Wire
       domain: csrwire.com
-    quality: 36
+    quality: 134
     images:
-      - url: "https://back.3blmedia.com/sites/default/files/inline-images/Intel-AI-Colleges-1.jpg.rendition.intel_.web_.1648.927.jpg"
-        width: 1280
-        height: 720
+      - url: "https://s.yimg.com/uu/api/res/1.2/KBbLN4sf9GD_tgm4GcWd0Q--~B/aD0zNjY7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/91a4aa364fb2d6461843611c01aa0c2b"
+        width: 650
+        height: 366
         isCached: true
 
 secured: "OjuIqCzjD8S+qJKbjAmUY/kQdIuuqWL2DmLxKnPxHZJs5bQAD84gxvPj1uVhR2Sdyw/UEV9KL0bVAr4Byzat9bgJaudoBbY88Qvgw5zTqBD5so7h1ULYMyjJtsWwKg6pOqaO7cZ14SkGB3Guz7ySBumcfveVA9/USB52PQP0gv8MQ5FCAKpZAmAB8ulArVrdRr3E9yQzzU8JtLRikwZgDqAb4JerpawKw68r198wwaszmInM6Wy5QZ+vw4Nud3h8O6/Y+VHoXapqHBGv6Qjh9FhNMJpV0JqbDWkD/u3e7wLSeLV05obrjY/Yn9bmf2HZlP0RpIXFUtTcWF+xE3YkZEjVqmETIlkD8JkY9l/TYlU=;XcA/F+7ljPwzD2DLyRpUkQ=="

@@ -66,20 +66,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Singapore Fintech Unicorn Startups: Past, Present, and Future"
-    excerpt: "Let’s take a look at Singapore’s unicorn companies: from the past, present, and the aspiring unicorns of the future."
-    publishedDateTime: 2021-08-23T01:57:00Z
-    webUrl: "https://fintechnews.sg/54600/fintech/singapore-fintech-unicorn-startups-past-present-and-future/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 24
-    images:
-      - url: "https://fintechnews.sg/wp-content/uploads/2021/08/Singapore-Unicorn-Companies-Past-Present-and-Future-1024x568.jpg"
-        width: 1024
-        height: 568
-        isCached: true
 
 secured: "X9zZF3H+1G+JsU2+Jq3awBU2sRSCePAK0aokIY4TrQ8wQlxpW/AxTeBFphLmIGrKJ+LGBR/ihABc9betJaoXRb9XTlMhYKEGjTXS2wIuOL3AxN1SXyNlbMleoR1lj5KJh2Zvfio7GMuixhRjng3lzlXOMyuG6qfAitlSkyWsE7tECLxNl16OEWPEpuPVGZxpcPRC1ftfPiLQXjb/ClP/5tBa5p27ar48zAWSOSLZNDc9EYAFrdw2BAZbsN2SPSsFBHenOXAexH0n9Bzd0QazTqKHuqFMVr84VqrbtPkoQHIJG+8/Vb+cMIgsZtEfmqyIQgX/j0FtO6/t76n3DHvZo33FXJj2VQdu6kuAX7Tc/kg=;LYWm2q697rHicMOTVR5+wQ=="
 ---

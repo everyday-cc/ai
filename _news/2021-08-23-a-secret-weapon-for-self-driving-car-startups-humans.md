@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/autos-transportation/secret-weapo
 webUrl: "https://www.reuters.com/business/autos-transportation/secret-weapon-self-driving-car-startups-humans-2021-08-23/"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       - url: "https://images.hindustantimes.com/auto/img/2021/08/23/600x338/mary-barra_c8eff84c-50d2-11e7-88ef-5a5d74cf2589_1629721137550.jpg"
         width: 600
         height: 338
-        isCached: true
-  - title: "Singapore Fintech Unicorn Startups: Past, Present, and Future"
-    excerpt: "Let’s take a look at Singapore’s unicorn companies: from the past, present, and the aspiring unicorns of the future."
-    publishedDateTime: 2021-08-23T01:57:00Z
-    webUrl: "https://fintechnews.sg/54600/fintech/singapore-fintech-unicorn-startups-past-present-and-future/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 24
-    images:
-      - url: "https://fintechnews.sg/wp-content/uploads/2021/08/Singapore-Unicorn-Companies-Past-Present-and-Future-1024x568.jpg"
-        width: 1024
-        height: 568
         isCached: true
   - title: "Tartu self-driving bus trials next month"
     excerpt: "A self-driving bus starts work in Tartu on a trial basis next week, ferrying passengers between the city center and the Estonian National Museum (ERM) on the outskirts, ETV news show 'Aktuaalne kaamera' (AK) reported."
