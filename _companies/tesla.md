@@ -4,7 +4,7 @@ otherNames:
   - "Tesla Motors"
 overview: "Tesla’s mission is to accelerate the world’s transition to sustainable energy through increasingly affordable electric vehicles in addition to renewable energy generation and storage. CA-based Tesla is committed to having the best-in-class in safety, performance, and reliability in all Tesla cars. There are currently over 275,000 Model S, Model X and Model 3 vehicles on the road worldwide. To achieve a sustainable energy future, Tesla also created infinitely scalable energy products: Powerwall, Powerpack and Solar Roof. As the world’s only vertically integrated energy company, Tesla continues to innovate, scale and reduce the costs of commercial and grid-scale systems, with the goal of ultimately getting us to 100% renewable energy grids."
 type: "profile"
-heat: 565
+heat: 578
 
 website: https://www.tesla.com
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "tesla"
   url: "https://twitter.com/tesla"
-  followers: 10822695
+  followers: 10822993
 
 size: 10,001+ employees
 yearFounded: 2003
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "SgYwJ++RHOIoC9PYz+W4FPXB8rQaFLEy3TNel0JalKUNPECPhyuflw4cifBV+AqPtVH4E2zYHKcSCz1j5RcA0UxBh1KYwqAQcWfghiNg8pKVldefFpWhKPgTS/Qs3dFnBK4ZgsY6dtl18c1F7O6KQfXVoFjIrGywRqIRTrbN3cLETyGxXwD7TPh+M9rAohDVbeQ1hmtzmS+2mnZLjjzpa3i/IawKXPRmIQ2rXmEho4PUOpaRpKrSalyWEoRG7OzkyMyYfAW9yAAYqR660Ku+bmKvQMMII0C2d6jC/FVSsDrMiFFqF3fN2Njs4ma24icnMxSYqPWXcmnVWPjgRw/LGQUdErcIqmZ8aRMxsNFZJYfly2UbgbsBRMOrLOsOVvMTjGTCpkZpN8fHUbZTAMnfJcKmXX46JecpiiXtrDJXoUI=;uHA12GT/TqxfpPCp70Futw=="
+secured: "fYkTSCIlLRr00lHRHHx5cqj1gsQNEOyvt4JAuvvZLtYtO+EqDv0Beih5XdqcTDCrmRQJ4TwfW9vdK1edkBgXeDyBEzdr8V7aMYugF3x1eThsgJwJywAhS2lMvzGaQJSpvgeLPXEcBX3kgiAkDkhLAjzT1fudTnytAQFyijr+vkxOD8cQjSVl+0qCuHEE+/9mt32Xb7GLQNBBYVTsutI6MKwNGsAnDGhjc5FeNN6fIJJpzsqlrDUkZqWVVT/8B/m1TIOnIr2tJ4YG1rstcth2bRl1wIgaAaa7qnXCdBuUNpy9Kg2bHjsv/TP5MQU1ct5NNPke1cQ/ZEW9EvDZB5N5H7zrj1bprIkyKos+mcafsgtXy+tSh3A3Su7xEr0G3UjekF1vvYIe/dYFbWYqv3g8w8n/nn+bK53t0YWiPU//ElY=;0aAO60ByFulRn0U83XEn8Q=="
 ---
 
