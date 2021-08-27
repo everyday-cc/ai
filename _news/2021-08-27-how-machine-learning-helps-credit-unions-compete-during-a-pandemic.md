@@ -6,8 +6,8 @@ publishedDateTime: 2021-08-27T07:00:00Z
 originalUrl: "https://www.cuinsight.com/how-machine-learning-helps-credit-unions-compete-during-a-pandemic.html"
 webUrl: "https://www.cuinsight.com/how-machine-learning-helps-credit-unions-compete-during-a-pandemic.html"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://www.cuinsight.com/wp-content/uploads/2020/11/bigstock-Futuristic-Robot-Artificial-In-351324593.jpg"
@@ -24,6 +25,6 @@ images:
     height: 500
     isCached: true
 
-secured: "bAHM43gb8PeRcK6s4kHa1iX6+bppvrT370s5jMeUZZkjxFVIjltrOQDfINM/chu9mZTyCAOG6F6eTIOLOsfp+Fr6Orvgk+j80nMJp7ZJJgY5EjMlTH4gkFofeKPXZnjZFgiPpA04TufOO74cT1rAg6umR54CCZJypgBMQjPogkxXM6SUaLl9lQvGU/WHi+7pvbeFNTxxVYXyAnNjMxUZBwLi8BqjYEzF2eQfl86pccIVICirMU86G0MyCq/774G0Go9j53DfYWht1prS0LICVDLL3i9FcYm1n91zzNVsfviIuJppDuTdqfWPxK9OZINaIp+zbDrUhYy71YRw8YwKq2OLu98dTv+HApHsyZWcZ9I=;/5lkk3wXIX5OBOXl86KyiA=="
+secured: "LTVFnZzosAIVibULgmwEFVQxhqlN2hjwJ0/nPtGZNct/QDezwXsOpVBZLLiwaTV9TV8Xrsi5cEF8ZHDhoYKTNuq3HX0+zLnrYyRHoJrSbDpTAkIVSckUF39rRpQMe0QnM+da98AbOuGyR/y/25qb2aPPYrx3JApdof6kiFBhZIUFrHxFRyb/YIH6YjWSk28AZmNRlLksb9YMftHmisfHFIxcNIlFyINFfXuNtxSgwFMwKJZKUv7v/Kptt5LOMd9X6nS9ZZFpLmI+MvnN9CXwLaS0KJ/jiwE6vZ8D5xIwHo71Rp/AAkqkGSms/ozmkui6djeOoaCQWsN5jl34YWjH0wzSmMQ70uvAbIn46Z5gwH8HTTA1GK7Ow7DM05c3DPjrZ+Yc0rA0o3dWXoGzJnjE5sIBHUdlRGi8FwNf6UE9mwntvoLsUMwLJrS5/9XfSCeKXF0kJelo4QyVAaMwrvbQyI5o0Ft0B3PsNa4zvnk0wOORQrXkx2Q8JNRy6rHJHz9UwCPEy19J/7mLNpkuxZASNQ==;G4ScXIAJwmNR71i559y0MA=="
 ---
 

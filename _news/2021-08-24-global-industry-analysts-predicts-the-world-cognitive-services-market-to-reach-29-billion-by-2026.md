@@ -124,6 +124,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Global fintech market size to grow a CAGR of 8.5% to reach $191bn in 2028"
+    excerpt: "The global fintech market size was USD 100.09 billion in 2020 and is expected to register a revenue CAGR of 8.5% to reach USD 190.80 billion during 2021 - 2028, boosted by rising demand for digitization in organizations."
+    publishedDateTime: 2021-08-27T09:20:00Z
+    webUrl: "https://www.opalesque.com/687194/Global_fintech_market_size_to_grow_a_CAGR719.html"
+    type: article
+    provider:
+      name: Opalesque
+      domain: opalesque.com
+    quality: 23
+    images:
+      - url: "https://www.opalesque.com/images/GTE-Cap-Intro-Florida-(300x250).png"
+        width: 300
+        height: 250
+        isCached: true
   - title: "United States Automotive Voice Recognition Systems Market Report 2021 - Forecast to 2026 - ResearchAndMarkets.com"
     excerpt: "The “Automotive Voice Recognition Systems Market Research Report by Deployment, by State - United States Forecast to 2026 - Cumulative Impact of COVID-19” report has been added to ResearchAndMarkets.com’s offering."
     publishedDateTime: 2021-08-24T14:32:00Z
@@ -167,6 +181,6 @@ related:
         height: 339
         isCached: true
 
-secured: "hHdbQ3FKRMqO/FlsoF8aDUdR5iQNtVUcNQCdtI8Z8S2XpoB1tyVEsV8udFSmQ1UMRQ+tynd0X6MQrCkzSuLxZl/HOZS6GWvGzdmscFeniK5le/zZgX815psr9gezvCPchy+tiFir8+JgV7LYpelgH/XZ28WaOxtCxctPMVgGK/Ie6n2WUoV5iOtDHzCeXImT+ooyzCeTisE8dwE1ZzxZm8GMZB1DhbpoERMqH2+4bn4PUNlCub/BlB4lXnKx1oV+SQ4tKil/+2v2zqyOebVUDmYowAI66mOxiWnAaiSN5wHLQplevyhlWQlu4Xbv54DXL+g/2SM0+44qS3PFSL3lOcsH8SiattIAPsIcrxc03QA=;UVLeZeZLDtX6SMLJ35WPJA=="
+secured: "Q2M5e6eu2/IB6mz5GjMR3DiorkpnmGNEe2WQ2LlQKkomYAd5NgIsn1EofhDqzkoB6PuqF/zYX18UDh9Mp+VluNtT6VRYx+MOvvcBECCg8m0Mqho0J6dHfvMn3pCiFOTlBJYyVBi3/4TE8YbrERYmuRiL9gW03hwjGagkHeukX+dNakzE5gp2z/wlWs06JPU82vw0RuHN568XcpGwWuZGxrMVoPLRJL/83mBgpvAnxyiUM7D27N6nfZfnDndWlFT65vk8YiDXjNX+v9QFFMeUp9Lbw3qRgH+rB/05OSYJaoGuwciJmp/tkV7LHIUrD9jUsZ7U5E8Lprw7Bpe9qy/gzXd+mB5VHDlvCIDABhaMw0Q=;XiKnKZPzRQjWYp/PJ7QEnQ=="
 ---
 

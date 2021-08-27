@@ -62,20 +62,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI startup Boomy looks to turn the music industry on its ear"
-    excerpt: "AI-based music making startup Boomy offers amatuer and professional musicians alike an easy means of generating new tunes (and new royalty revenue streams).."
-    publishedDateTime: 2021-08-22T16:42:00Z
-    webUrl: "https://www.engadget.com/ai-music-startup-boomy-looks-to-turn-the-record-industry-on-its-ear-190037786.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 67
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-08/89af2c20-01e5-11ec-be3c-7957cb2328c7"
-        width: 5120
-        height: 2880
-        isCached: true
   - title: "Level AI Launches With $15 Million in Funding to Make the Most of Every Customer Interaction"
     excerpt: "Level AI publicly launched to modernize customer service. The company, founded by former Amazon Alexa product leader Ashish Nagar, has developed proprietary technology and conversational artificial intelligence to uniquely help organizations work with customers to solve any issues in real time and elevate the customer’s overall experience."
     publishedDateTime: 2021-08-25T14:21:00Z

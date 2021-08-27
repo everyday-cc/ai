@@ -71,6 +71,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Rent-A-Robot: Silicon Valley’s New Answer To The Labor Shortage In Smaller U.S. Factories"
+    excerpt: "Silicon Valley has a new pitch to persuade small companies to automate: rent-a-robot. Better technology and the need to pay higher wages to humans have"
+    publishedDateTime: 2021-08-27T07:46:00Z
+    webUrl: "https://masscentral.com/rent-a-robot-silicon-valleys-new-answer-to-the-labor-shortage-in-smaller-u-s-factories/"
+    type: article
+    provider:
+      name: Attack
+      domain: masscentral.com
+    quality: 30
+    images:
+      - url: "https://i0.wp.com/masscentral.com/wp-content/uploads/2021/08/ai-robots-post.jpg?fit=600%2C400&#038;ssl=1"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "UmzQza7LQZZlK6uw5rGeQ/3mo4ONqi0BJMWVeXLTCzTg0ZSlicq7CDsKAnvE/JuEcaUUI7YokX1ziAkKwB4M6Ad1DWzrC956rqIWgwlNek1xFG29AHLlmAmmeBRCNeckRu1ofToMv00XpfSSXvxmhpwnAbGygRTBy1FuUcgRCJraW/iDeEiScqITPus5zg9EmROdbrnbo/SFsTNlZ9QU8lMPe9Qs5kkhOByBS1n2y5Sl0wUNODJvLaCAMTgboyS3e4ylt7CdVds7EaxPK7WMjt6bt50HJWrp2GlYsyoOthMzW0arb93bHg/QE583VrCpv8qAVxVvCzIGaWkzwvgPNi9gYK8aNC+udP4pgyV64do=;K3IaYIctUVqynUd3DrjJxg=="
 ---

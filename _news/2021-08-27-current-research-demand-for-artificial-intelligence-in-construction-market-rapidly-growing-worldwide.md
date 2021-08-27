@@ -1,0 +1,54 @@
+---
+category: news
+title: "Current research: Demand for Artificial Intelligence in Construction Market rapidly growing worldwide"
+excerpt: "This research report by Report Ocean identifies consumer needs and aims to satisfy them more efficiently effectively and accurately than the competition This report about the Artificial Intelligence in Construction Market is exceptional because it is easy to understand contains"
+publishedDateTime: 2021-08-27T08:47:00Z
+originalUrl: "https://www.openpr.com/news/2370492/current-research-demand-for-artificial-intelligence"
+webUrl: "https://www.openpr.com/news/2370492/current-research-demand-for-artificial-intelligence"
+ampWebUrl: "https://www.openpr.com/amp/2370492/current-research-demand-for-artificial-intelligence"
+cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2370492/current-research-demand-for-artificial-intelligence"
+type: article
+quality: 22
+heat: -1
+published: false
+
+provider:
+  name: openpr.com
+  domain: openpr.com
+
+topics:
+  - AI
+
+related:
+  - title: "The Role of Artificial Intelligence (AI) in the Global Agriculture Market 2021 - ResearchAndMarkets.com"
+    excerpt: "Market in Agriculture Industry Market 2021-2025” report has been added to ResearchAndMarkets.com’s offering. The artificial intelligence (AI) market in the agriculture industry is poised to grow by $458."
+    publishedDateTime: 2021-08-23T15:16:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-science-agriculture-artificial-intelligence-e006f4c80d694418bfd5b2b93e113947"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 36
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "C3.ai Inc. (AI) market price of $49.73 offers the impression of an exciting value play"
+    excerpt: "Let’s start up with the current stock price of C3.ai Inc. (AI), which is $49.73 to be very precise. The Stock rose vividly during the last session to $50.25 after opening rate of $47.50 while the lowest price it went was recorded $47."
+    publishedDateTime: 2021-08-25T23:43:00Z
+    webUrl: "https://investchronicle.com/2021/08/25/c3-ai-inc-ai-market-price-of-49-73-offers-the-impression-of-an-exciting-value-play/"
+    type: article
+    provider:
+      name: investchronicle
+      domain: investchronicle.com
+    quality: 29
+    images:
+      - url: "https://investchronicle.com/wp-content/uploads/2019/06/investchronicle-89-e1579508125875.png"
+        width: 450
+        height: 298
+        isCached: true
+
+secured: "zSq6lDT6ggR7K28Qh/RK8fp6bSGZwEVjnWuKBg5IUe0Zb9ltfy/yW2LBpcclIfaO/ic+wK6pUb2n1Hm6o6ALkrA1IwelS8IowV0qydVu9J+OchhSD7WagZ+xd7DaKJva9gYT6D5wxIW0DcMzi5jYae01cx5WdJXyiNEelYQi83jeVSEI0hUAO8eFbeE8TBbgWcQhh3oKGT7TIwIUHgOtgxbh2EK6cdoWwLzJKrVSQts83FN13nNkOu3K9zuP3RuHQht1fWEYQy2+NKzbMWAnj+PnCf1hrOjuS/9Gm8buAa3euK7YZH17QjyHJuTFcs2767/D7I8/cG/odlhgH/gzDOTpBNzrbuJECL55q4J2fOs=;xAqx7Ujr4FkywKIkt4FH/Q=="
+---
+

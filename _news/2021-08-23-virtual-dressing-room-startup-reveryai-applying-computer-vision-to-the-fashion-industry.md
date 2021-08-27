@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/08/23/virtual-dressing-room-startup-reve
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/23/virtual-dressing-room-startup-revery-ai-applying-computer-vision-to-the-fashion-industry/amp/"
 type: article
 quality: 95
-heat: 135
+heat: 125
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61255f32be270fc06d801dba%2F0x0.jpg"
         width: 1200
         height: 660
-        isCached: true
-  - title: "AI startup Boomy looks to turn the music industry on its ear"
-    excerpt: "AI-based music making startup Boomy offers amatuer and professional musicians alike an easy means of generating new tunes (and new royalty revenue streams).."
-    publishedDateTime: 2021-08-22T16:42:00Z
-    webUrl: "https://www.engadget.com/ai-music-startup-boomy-looks-to-turn-the-record-industry-on-its-ear-190037786.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 67
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-08/89af2c20-01e5-11ec-be3c-7957cb2328c7"
-        width: 5120
-        height: 2880
         isCached: true
   - title: "Level AI Launches With $15 Million in Funding to Make the Most of Every Customer Interaction"
     excerpt: "Level AI publicly launched to modernize customer service. The company, founded by former Amazon Alexa product leader Ashish Nagar, has developed proprietary technology and conversational artificial intelligence to uniquely help organizations work with customers to solve any issues in real time and elevate the customer’s overall experience."

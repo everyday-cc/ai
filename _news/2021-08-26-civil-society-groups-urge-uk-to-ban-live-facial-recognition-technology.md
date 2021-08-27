@@ -41,22 +41,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Facial recognition tech 'being rolled out by police without Parliament's oversight'"
-    excerpt: "In a letter, 31 bodies say the new guidance allowing cameras across England and Wales ignores court rulings against 'invasive' filming"
-    publishedDateTime: 2021-08-22T17:00:00Z
-    webUrl: "https://www.telegraph.co.uk/news/2021/08/22/facial-recognition-tech-rolled-police-without-parliaments-oversight/"
-    ampWebUrl: "https://www.telegraph.co.uk/news/2021/08/22/facial-recognition-tech-rolled-police-without-parliaments-oversight/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/news/2021/08/22/facial-recognition-tech-rolled-police-without-parliaments-oversight/amp/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 53
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/news/2021/08/22/TELEMMGLPICT000264473575_trans_NvBQzQNjv4BqZ1D5qXLlF7aq4qr3gRN2wRQ4rt5NlgtSq6qeV5s7w9A.jpeg"
-        width: 1539
-        height: 962
-        isCached: true
   - title: "Campaign groups claim police have bypassed Parliament with plans for live facial-recognition tech"
     excerpt: "Civil society groups have called for a ban on the use of life facial recognition technology amid claims that the government and the police are introducing intrusive surveillance measures without parliamentary scrutiny."
     publishedDateTime: 2021-08-24T05:15:00Z

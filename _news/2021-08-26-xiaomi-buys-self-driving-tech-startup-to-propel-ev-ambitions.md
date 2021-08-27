@@ -57,6 +57,38 @@ related:
         width: 1620
         height: 1080
         isCached: true
+  - title: "Xiaomi to acquire self-driving startup Deepmotion for $77.4 mn"
+    excerpt: "Xiaomi is reportedly planning to buy an autonomous driving technology based startup called Deepmotion for $77.4 million. The deal happens as the company gears up to enter the electric vehicle market,"
+    publishedDateTime: 2021-08-27T08:47:00Z
+    webUrl: "https://www.thestatesman.com/technology/xiaomi-acquire-self-driving-startup-deepmotion-77-4-mn-1502999630.html"
+    ampWebUrl: "https://www.thestatesman.com/technology/xiaomi-acquire-self-driving-startup-deepmotion-77-4-mn-1502999630.html/amp"
+    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/xiaomi-acquire-self-driving-startup-deepmotion-77-4-mn-1502999630.html/amp"
+    type: article
+    provider:
+      name: The Statesman
+      domain: thestatesman.com
+    quality: 44
+    images:
+      - url: "https://www.thestatesman.com/wp-content/uploads/2021/08/6769e70b8ff19c22c6c12a03436dd819-1-1-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Xiaomi to acquire self-driving startup Deepmotion"
+    excerpt: "The deal happens as the company gears up to enter the electric vehicle market, reports GizmoChina. Deepmotion develops driver assistance software."
+    publishedDateTime: 2021-08-27T09:00:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/xiaomi-to-acquire-self-driving-startup-deepmotion/articleshow/85682575.cms"
+    ampWebUrl: "https://www.gadgetsnow.com/tech-news/xiaomi-to-acquire-self-driving-startup-deepmotion/amp_articleshow/85682575.cms"
+    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/xiaomi-to-acquire-self-driving-startup-deepmotion/amp_articleshow/85682575.cms"
+    type: article
+    provider:
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 44
+    images:
+      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-85682575,imgsize-27696,width-800/85682575.jpg"
+        width: 800
+        height: 472
+        isCached: true
   - title: "Phone maker Xiaomi propels EV ambitions; to buy self-driving tech startup"
     excerpt: "Xiaomi has already pledged an initial investment of $10 billion over the next decade in the field of electric vehicles..The smartphone maker has started a hiring spree of 500 engineers for the EV project."
     publishedDateTime: 2021-08-26T15:58:00Z
@@ -87,15 +119,6 @@ related:
         width: 728
         height: 300
         isCached: true
-  - title: "Xiaomi to acquire self-driving startup Deepmotion for $77.4 mn"
-    excerpt: "The new investment that the company is making this year will focus on building components for smart vehicles, including software platforms for self-driving cars."
-    publishedDateTime: 2021-08-27T05:47:00Z
-    webUrl: "https://www.sify.com/news/xiaomi-to-acquire-self-driving-startup-deepmotion-for-774-mn-news-education-vi1eP9jidhcbh.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 4
 
 secured: "w739U5W0zoyXNYaMpf0YYe7fUIZdsumMAzaXcxZk7J/CwV9AzKrrnH2huNpTvDKDE0fdFIWkzLtrKLrq0m7l1NQ+Z7FKsDhIbihQOcML6XvZTFxohT7UrVXzZvZDp8UR/Nl2+DTql+hHJ1+O2GCM9400ise7woZZKYsGUB+I1yOgEtRlt3w5X/pl5BFB7bsBdeK6/RIqsVew/REJieUjblYG2UCDcXASEsxsO1zxoNbuJYuEv7AoG/pbtp+dmOVk03DPzOnQcg6QZNGVJxUx1mRuFqNOkXAkfmJR+QAT2KXxIwMmrUotiiimc4rXKG23S8dB2Bg52ZhAgSs4ptiDErzsKXV0SPaQ45akF8iGaemOs4js7wSPgxCzlT4gvT9VVHXvGyEEREvXwd6HLPjtwL3Marrd230Y2I4zWvEo+AoPpXjHO2Se8uxdfwLc0N4jC0qlnjTYAdDAFHLGpahcnrcHOLcHsXHeW8Yo6YjM59oLBcePutiUfGCUuWaWNPDW9nefhO8PdNm7s6yBJEr8Hw==;Nam2Dzv9Xx2N5yo8M/Y+0Q=="
 ---

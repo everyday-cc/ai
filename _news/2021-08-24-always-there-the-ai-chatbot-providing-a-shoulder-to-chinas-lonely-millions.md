@@ -220,6 +220,20 @@ related:
         width: 749
         height: 432
         isCached: true
+  - title: "Meeting the Challenge of Implementing AI"
+    excerpt: "Artificial intelligence (AI) is quickly becoming a manufacturing and mainstream technological superstar - a rare achievement indeed. Consider some recent Internet stories highlighting AI's applicability to everyday life."
+    publishedDateTime: 2021-08-25T15:58:00Z
+    webUrl: "https://www.assemblymag.com/articles/96575-meeting-the-challenge-of-implementing-ai"
+    type: article
+    provider:
+      name: Assembly Mag
+      domain: assemblymag.com
+    quality: 37
+    images:
+      - url: "https://www.assemblymag.com/ext/resources/Issues/2021/fotf/ai/leaderboard_asbFOTF21AI1.jpg?height=635&t=1629906857&width=1200"
+        width: 1170
+        height: 500
+        isCached: true
   - title: "Artificial intelligence chatbots providing companionship to millions in China"
     excerpt: "Loneliness, once considered mostly a plight of the elderly, is impacting millions isolated by Covid - Click the link for more details."
     publishedDateTime: 2021-08-25T06:46:00Z

@@ -124,6 +124,20 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Global fintech market size to grow a CAGR of 8.5% to reach $191bn in 2028"
+    excerpt: "The global fintech market size was USD 100.09 billion in 2020 and is expected to register a revenue CAGR of 8.5% to reach USD 190.80 billion during 2021 - 2028, boosted by rising demand for digitization in organizations."
+    publishedDateTime: 2021-08-27T09:20:00Z
+    webUrl: "https://www.opalesque.com/687194/Global_fintech_market_size_to_grow_a_CAGR719.html"
+    type: article
+    provider:
+      name: Opalesque
+      domain: opalesque.com
+    quality: 23
+    images:
+      - url: "https://www.opalesque.com/images/GTE-Cap-Intro-Florida-(300x250).png"
+        width: 300
+        height: 250
+        isCached: true
   - title: "United States Automotive Voice Recognition Systems Market Report 2021 - Forecast to 2026 - ResearchAndMarkets.com"
     excerpt: "The “Automotive Voice Recognition Systems Market Research Report by Deployment, by State - United States Forecast to 2026 - Cumulative Impact of COVID-19” report has been added to ResearchAndMarkets.com’s offering."
     publishedDateTime: 2021-08-24T14:32:00Z

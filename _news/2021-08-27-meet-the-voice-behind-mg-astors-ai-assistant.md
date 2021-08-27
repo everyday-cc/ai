@@ -9,7 +9,7 @@ ampWebUrl: "https://www.team-bhp.com/news/meet-voice-behind-mg-astors-ai-assista
 cdnAmpWebUrl: "https://www-team--bhp-com.cdn.ampproject.org/c/s/www.team-bhp.com/news/meet-voice-behind-mg-astors-ai-assistant?amp"
 type: article
 quality: 59
-heat: 79
+heat: 81
 published: true
 
 provider:

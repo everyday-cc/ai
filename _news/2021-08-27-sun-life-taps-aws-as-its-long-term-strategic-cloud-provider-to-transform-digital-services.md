@@ -1,23 +1,22 @@
 ---
 category: news
 title: "Sun Life Taps AWS as Its Long-Term Strategic Cloud Provider to Transform Digital Services"
-excerpt: "Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Sun Life (TSX: SLF) (NYSE: SLF) has selected AWS as its long-term strategic cloud technology provider to become a cloud-first organization,"
-publishedDateTime: 2021-08-27T07:49:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/08/27/9438548.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/08/27/9438548.htm"
+excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Sun Life (TSX: SLF) (NYSE: SLF) has selected AWS as"
+publishedDateTime: 2021-08-27T04:01:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210826005687/en/Sun-Life-Taps-AWS-as-Its-Long-Term-Strategic-Cloud-Provider-to-Transform-Digital-Services"
+webUrl: "https://www.businesswire.com/news/home/20210826005687/en/Sun-Life-Taps-AWS-as-Its-Long-Term-Strategic-Cloud-Provider-to-Transform-Digital-Services"
 type: article
-quality: 12
+quality: 10
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
-  - AI in Finance
 
 related:
   - title: "Amazon Web Services In Deal To Transform Sun Life Financial's Digital Services"
@@ -32,6 +31,6 @@ related:
       domain: nasdaq.com
     quality: 67
 
-secured: "Dr+Izmo1XwmFDchyMCpLr/9yDdvWVPba3PnEaoJGlqN+qhY2nkmClPs8NTvPYe1lSmJrqg6y+omPHYWMDhLiczZb+nBSelHYY1WA3X/FEfh1OH7I+N5ZdmTh2mblGAQu43ACgHOibuJIW9e+Ka17KJ+q3Z9A4hEtDmeQ/F+qOhPsTf3P1cx4iNrwizYVjx5F3Eh/TUbAL4sDtId54fcjSx5hZRLv/0YvZunn5C2E20O+lfX3aEUv6fTwazqsoI/yPOKNNRmBgzKBbSd4bVJOiiLMqNv8OuzucXPnbY8yjexk66wrvlPdxY0wKpOnLeWDY/XpmP/kvmv/3bWiS7hmSSw5BN42M9ThVjKRR8QEG4I=;LjdBxCVv+ThaTYYOziLBvw=="
+secured: "OXVP6F5GpllQjUbQdLr3B3otHAqs4lz4AOhkoOagwWw+1pRkyM51+ywKn8ziXslOxOqOiN1MlHV7VVKXWHurmKG7eGzrvyKR1UJK2d5L/z8kR7tVrcVZ4COeSysQUwhsyUsF0RDfkJkC/r1fYrhJtwFSx0CteavTgSiwuORfVSI2QolTx4PLllGn3D0LlZ0uDd2H5eS4hvQdaVoNRHvzDUPZfZZuyiDE/BpVjB/XkcsYHfCg1pMuHhMI0yPsRXvKepqbu1kcoeljOpn/+X3fWugyVpd/XaYLWTzdL70/k/Qxy7pn5H09wj+aW+ga1hcVNu3ZhYXt9uD6QjljNRoET0i9A4De6rLy5z+7ywH4nBg6ESGZaPUWeKnCPIpJH+TkIxn3pAFoTK/L3YkboHZ45mTNvHxNKHcSo9m7N5R5gUArKmchD/5kfneE5Trr01Wy0esxWakXW8UMd+L04w88bGUVDw1iAWwvKBhntn+AkxTKVp8Js1RMNQPy2uWzf4z0AE0c79bkydN+UiazZDNsxg==;t3vB2dtkj7zKV43N1VODTw=="
 ---
 

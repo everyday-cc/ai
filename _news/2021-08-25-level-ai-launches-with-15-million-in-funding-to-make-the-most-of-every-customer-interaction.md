@@ -72,20 +72,6 @@ related:
         width: 1200
         height: 660
         isCached: true
-  - title: "AI startup Boomy looks to turn the music industry on its ear"
-    excerpt: "AI-based music making startup Boomy offers amatuer and professional musicians alike an easy means of generating new tunes (and new royalty revenue streams).."
-    publishedDateTime: 2021-08-22T16:42:00Z
-    webUrl: "https://www.engadget.com/ai-music-startup-boomy-looks-to-turn-the-record-industry-on-its-ear-190037786.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 67
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-08/89af2c20-01e5-11ec-be3c-7957cb2328c7"
-        width: 5120
-        height: 2880
-        isCached: true
 
 secured: "RUT8TlmX6paWp+GeJrHWksp6JUUZ0G2lbmlJfSOqyGGia4FbIBHdE3z0g79DLBt8o45ahxGNObMUf0rQZUIQNflrzApRw2YcmPbKhI7C3fiD7D3IbmdSRu26565luIs00q/+brNt9DopVxYiGO1IcYxQfloHx83fq1GAWZZXehtfSVh/Hy7qxlFG5AKE8RtzJv6nehPPx2iqpgeVqzfoOp3UljDTjWNfRyNedPINuZAm3JKiR1b9TJpVJsB1c/Rzfy78usH3Y291FiU2BmRNEj81Y20GwbOegR0I1Q5T/++bMEZXDy09qkDuM92By0ECIyTzXCTrmpTrsxIBzS8rk0VHh9Ikpmjqv2vCG+3d0hI=;zMWZOjnLfxnLkxFQ29TGXw=="
 ---

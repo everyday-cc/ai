@@ -23,14 +23,14 @@ topics:
 
 related:
   - title: "Sun Life Taps AWS as Its Long-Term Strategic Cloud Provider to Transform Digital Services"
-    excerpt: "Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Sun Life (TSX: SLF) (NYSE: SLF) has selected AWS as its long-term strategic cloud technology provider to become a cloud-first organization,"
-    publishedDateTime: 2021-08-27T07:49:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/08/27/9438548.htm"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Sun Life (TSX: SLF) (NYSE: SLF) has selected AWS as"
+    publishedDateTime: 2021-08-27T04:01:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210826005687/en/Sun-Life-Taps-AWS-as-Its-Long-Term-Strategic-Cloud-Provider-to-Transform-Digital-Services"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 12
+      name: Business Wire
+      domain: businesswire.com
+    quality: 10
 
 secured: "3D/Qn8F7UUwwpOfJpejyWl7pSL3wRDkm9bFkYO173R7Ebo96r51YTVnvHTkHrb15zN9dciRZB9pBUIsushr8pT+F9oNFH+Nqt3IfcwSIDN39xK2nyzIb9wI231H6sxXvaBVkNknMfwLANLS00qfCdGuTA4wX8Cmyk5A1f6mu00Cpkz20Zs2uTC9DjfepJQyxXelUkacxBHOnZIN2t98OWBMdU5fHEOt3KO/hsKJmiOYnxrCFCdJsWra40o9mAn2fhA2LR8/t0I2obxd+JXCAHbwp1Kqk6If/i2AxIqerLlYtRkwrvr1/OQrKKqIPVG7awZeWjf6ZBjU91JYNmDxqj4vqts8PmmMY5EdhXydCSHA=;Mt6yBrSA+MCFav3mAKWQYQ=="
 ---

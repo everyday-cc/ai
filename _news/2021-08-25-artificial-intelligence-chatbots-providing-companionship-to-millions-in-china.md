@@ -227,6 +227,20 @@ related:
         width: 749
         height: 432
         isCached: true
+  - title: "Meeting the Challenge of Implementing AI"
+    excerpt: "Artificial intelligence (AI) is quickly becoming a manufacturing and mainstream technological superstar - a rare achievement indeed. Consider some recent Internet stories highlighting AI's applicability to everyday life."
+    publishedDateTime: 2021-08-25T15:58:00Z
+    webUrl: "https://www.assemblymag.com/articles/96575-meeting-the-challenge-of-implementing-ai"
+    type: article
+    provider:
+      name: Assembly Mag
+      domain: assemblymag.com
+    quality: 37
+    images:
+      - url: "https://www.assemblymag.com/ext/resources/Issues/2021/fotf/ai/leaderboard_asbFOTF21AI1.jpg?height=635&t=1629906857&width=1200"
+        width: 1170
+        height: 500
+        isCached: true
 
 secured: "joYd78StDNCUTmF1ThanhNdaRJcy/cB9t3+gBGlf5XZYyCysqf/ThrIzlGIoR1iWllC0v+tyLoRCcfYkYyfJ+uxrzfhF+AHz4NXrlABbmJa7Cc22t0eLSp+n3jFBvcT8EnuFEgrQikpON0CsqoBd+FLvUeb1laS1XW4zosi+yBUuwUUFMXGtN6ruhbpkqVzk+xr7tHLN7ArjMKW98LKDqJbMMRvGvEEc5eHmL0JPW9wG7XzBIrrqcB6X0BgwabOIuIS9eWptpSq9WUgQJ3oKlszzBlYzGX7w3e/vZu3I5u5XLYb7Q/tOWWPEzFSU+O6SrzEuma1BWyZziYK7J9l1uTMrrwDLXLRJf/rVkHwWn+sG9VdmCwogLH+Nkg+U1yVghSdmt+7s9zgNXNQYI7zJnk8Gwdcq7Q+ceB1EQ07Mi3KB75GtOZKe/cOC+M54TXGMpcd6AGyARNFpWOEuGM04CXhgJGmJcVvEA7ibHjva2IjlbASDutIwqJua8o0Nldff8lDT505SeWHn51j7d53GbQ==;xrNNGqCyuDTIG9AP90bskg=="
 ---
