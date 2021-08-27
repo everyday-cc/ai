@@ -1,34 +1,48 @@
 ---
 category: news
-title: "Factbox: Investors are betting on rent-a-robot startups in Silicon ValleyÂ"
+title: "Factbox-Investors are betting on rent-a-robot startups in Silicon ValleyÂ"
 excerpt: "Silicon Valley has a new pitch for small U.S. manufacturers struggling with hiring workers but wary of the high costs of high tech: rent-a-robot. Much of the initial risk and cost are taken on by the robot companies."
-publishedDateTime: 2021-08-26T14:29:00Z
-originalUrl: "https://www.reuters.com/business/investors-are-betting-rent-a-robot-startups-silicon-valley-2021-08-26/"
-webUrl: "https://www.reuters.com/business/investors-are-betting-rent-a-robot-startups-silicon-valley-2021-08-26/"
+publishedDateTime: 2021-08-26T10:29:00Z
+originalUrl: "https://www.metro.us/factbox-investors-are-betting-on/"
+webUrl: "https://www.metro.us/factbox-investors-are-betting-on/"
+ampWebUrl: "https://www.metro.us/factbox-investors-are-betting-on/amp/"
+cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/factbox-investors-are-betting-on/amp/"
 type: article
-quality: 67
-heat: 107
-published: true
+quality: 58
+heat: -1
+published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Metro US
+  domain: metro.us
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=50"
-    width: 1200
-    height: 628
+  - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEH7P0DO-BASEIMAGE.jpg"
+    width: 800
+    height: 533
     isCached: true
 
 related:
+  - title: "FACTBOX-Investors are betting on rent-a-robot startups in Silicon Valley"
+    excerpt: "Silicon Valley has a new pitch for small U.S. manufacturers struggling with hiring workers but wary of the high costs of high tech: rent-a-robot. Much of the initial risk and cost are taken on by the robot companies."
+    publishedDateTime: 2021-08-26T14:00:00Z
+    webUrl: "https://www.reuters.com/article/usa-robots-manufacturing-silicon/factbox-investors-are-betting-on-rent-a-robot-startups-in-silicon-valley-idUSL1N2PW1VW"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2PW1VW"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2PW1VW"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 88
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210826&t=2&i=1572988153&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH7P0DO"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Rent-a-robot: Silicon Valley’s new answer to the labor shortage in smaller U.S. factories"
     excerpt: "Silicon Valley has a new pitch to persuade small companies to automate: rent-a-robot. Better technology and the need to pay higher wages to humans have produced a surge in sales of robots to big companies all across America."
     publishedDateTime: 2021-08-26T10:14:00Z
@@ -45,15 +59,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Factbox-Investors Are Betting on Rent-A-Robot Startups in Silicon Valley"
-    excerpt: "Silicon Valley has a new pitch for small U.S. manufacturers struggling with hiring workers but wary of the high costs of high tech: rent-a-robot. Much of the initial risk and cost are taken on by the robot companies."
-    publishedDateTime: 2021-08-26T10:27:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-08-26/factbox-investors-are-betting-on-rent-a-robot-startups-in-silicon-valley"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 48
   - title: "Rent-a-robot: Silicon Valley’s new answer to the labour shortage in smaller US factories"
     excerpt: "Silicon Valley has a new pitch to persuade small companies to automate: rent-a-robot. Better technology and the need to pay higher wages to humans have produced a surge in sales of robots to big companies all across America."
     publishedDateTime: 2021-08-26T11:55:00Z
@@ -83,6 +88,6 @@ related:
         height: 600
         isCached: true
 
-secured: "nYbUUbTDJJAvxC7X6sImwWjbm0o5dBSlKVW8VB8UNkgpUWwmqyVu2YSszUWL6penbGJROhZXATRkheSkGdZ4BS/X/Wa4rLWKo5/GbYklMRbwAKlrazfDSFGPZ1SWLMqiQez7UGqZYupwC/mdFXMU5KKZloGajigeMmHqDo8vjZYPgqRzYxQdQ7rR0fKQKI+hz0jvAyD9kd0OSuN7DVbkAH/JqOqg5rbVzBXeNvFZmqYat9k0S3jVSHZalz0WivuWUbsAXF/CUOGMfcalyWb1gCExHSgkJ4VtbADXDxDZmf/h+p06xJ3OlOYbTFxwGStHsqrQvMC7zBpQoTEAk8XrB0Wstt2xKkDmXcmzxfZPals=;gPCtid6UFDjk1ms3s4BtHw=="
+secured: "/gnrDLtTxvyILwMmHb4XiTvFoYO+v7BM5uIgOQBFR0k5HTBdGm4sQvzwwTd0ncBPa7W6vUaxnB6SJmkF+qfYKCONa0U09P0rH6BPo3vRhDeSRDm7rhDXw5eCQqez5Wx3afKtGHXWu5TfYVPVYXYUwzmxRaDc1AvfM+4PgWgBUE5C8WHLI5ze3CwOE4MQcjCOL2OHCL1Lo/6XkupBBy/d9C1GuPS3Q4mxT0EotuFEdfWTPNRKxt2WJKCnSAzyfmaN0RB0+phC0SuIkkuozONCsCwucrz19nehvhiGZCEdR46ZrHmgKZqTooGA85X//9Puck2epRpGg54nu/7g6juhRfmWyywlt+fq4Ov8EzA/3i8=;413s9wrnHIF+bg1K8Wdleg=="
 ---
 

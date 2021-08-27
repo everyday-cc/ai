@@ -101,6 +101,20 @@ related:
         width: 629
         height: 607
         isCached: true
+  - title: "GAO Reports on Federal Use of Facial Recognition Tech Systems"
+    excerpt: "The Government Accountability Office (GAO) surveyed 24 Chief Financial Officers Act agencies on their use of facial recognition technology (FRT) in fiscal year 2020 and found that 18 of those agencies reported using FRT for one or several purposes."
+    publishedDateTime: 2021-08-26T10:43:00Z
+    webUrl: "https://www.executivegov.com/2021/08/gao-reports-on-federal-use-of-facial-recognition-tech-systems/"
+    type: article
+    provider:
+      name: Executive Gov
+      domain: executivegov.com
+    quality: 39
+    images:
+      - url: "https://executivegov-media.s3.amazonaws.com/2020/12/04/cf/a3/89/3f/73/fc/a7/74/facial_recognition_20201125.png"
+        width: 272
+        height: 270
+        isCached: true
   - title: "Federal government to expand use of facial recognition despite growing concerns"
     excerpt: "The GAO said several federal agencies, including the Justice Department, the Air Force and Immigration and Customs Enforcement, reported that they had used facial recognition software from Clearview AI,"
     publishedDateTime: 2021-08-26T06:52:00Z
@@ -111,7 +125,7 @@ related:
     provider:
       name: Seattle Times
       domain: seattletimes.com
-    quality: 35
+    quality: 37
   - title: "Software log shows Dutch police used controversial facial recognition software"
     excerpt: "A leaked software log from the debated facial recognition software Clearview AI showed that Dutch police officers used the program to identify suspects, RD reported. In April 2020, Minister of Justice Ferd Grapperhaus denied that Dutch authorities used the software."
     publishedDateTime: 2021-08-26T14:55:00Z
@@ -126,6 +140,15 @@ related:
         width: 837
         height: 462
         isCached: true
+  - title: "Federal Agencies Mostly Use Facial Recognition Tech for Digital Access"
+    excerpt: "The most popular uses for facial recognition technology (FRT) by federal agencies are cybersecurity and digital access, according to a new report by the United States Government Accountability Office. The GAO surveyed 24 agencies about their FRT activities ..."
+    publishedDateTime: 2021-08-26T20:35:00Z
+    webUrl: "https://www.infosecurity-magazine.com/news/how-feds-use-frt/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 19
 
 secured: "pa7bOArSSse2HthrRxuvFriNXvNokDWx0HwA6ywQm/FbHPzqRAC5QKU9q8nNnloRNhXR2GdnD2JhdWEDCppVGp2eB6dSLrLX5Wzp7GH2IPxKUyYo0sAA8TaiD3vceVg/XYy1MlL4FAKQ7OUm1ijDm3l3tfK9UiHtzu9tfkmwcEmM+WLQUGlOt8+BjUEDR9OoUFgfGbGUtzxsFxNkz5/3fxPAieO0Mb017AGBWuCKauAVK8dsWiOiv/Cv3U7FGYTxYQnAiYupmvu7SHIfTfasus+qyZUlrVO90Wb0+ghiYu2S1sdrYMcUXAmh66EUThUkRiW9B7qKfto34i7nSrsxKqwJoR1yCEkZg8egKbkezd31hIbfnjf1NtX02Dl2eowKq4B7F3sJcQa0IWfpdhSHhcUsGkKQyGJnG3hCKqIkHRqOK9mKCFB8ZxYZiMrGPMLXkYjjid8KfEAM+1VYW4nORnu0iNh7nrsI1s/r+Y73vmTimdLXlGojLaFCSdJY/ICBkSg9IO7b2fAVM3iFaA89vA==;tadd7Flp5C+T+VPcpRHx0g=="
 ---

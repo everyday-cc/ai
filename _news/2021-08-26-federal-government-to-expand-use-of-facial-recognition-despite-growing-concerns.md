@@ -8,7 +8,7 @@ webUrl: "https://www.seattletimes.com/business/technology/federal-government-to-
 ampWebUrl: "https://www.seattletimes.com/business/technology/federal-government-to-expand-use-of-facial-recognition-despite-growing-concerns/?amp=1"
 cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/federal-government-to-expand-use-of-facial-recognition-despite-growing-concerns/?amp=1"
 type: article
-quality: 35
+quality: 37
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AWS AI
 
 related:
   - title: "Clearview AI Offered Free Facial Recognition Trials To Police All Around The World"
@@ -97,6 +98,20 @@ related:
         width: 629
         height: 607
         isCached: true
+  - title: "GAO Reports on Federal Use of Facial Recognition Tech Systems"
+    excerpt: "The Government Accountability Office (GAO) surveyed 24 Chief Financial Officers Act agencies on their use of facial recognition technology (FRT) in fiscal year 2020 and found that 18 of those agencies reported using FRT for one or several purposes."
+    publishedDateTime: 2021-08-26T10:43:00Z
+    webUrl: "https://www.executivegov.com/2021/08/gao-reports-on-federal-use-of-facial-recognition-tech-systems/"
+    type: article
+    provider:
+      name: Executive Gov
+      domain: executivegov.com
+    quality: 39
+    images:
+      - url: "https://executivegov-media.s3.amazonaws.com/2020/12/04/cf/a3/89/3f/73/fc/a7/74/facial_recognition_20201125.png"
+        width: 272
+        height: 270
+        isCached: true
   - title: "UK: Live facial recognition technology should not be used in public spaces"
     excerpt: "Live Facial Recognition Technology should not be used in public spaces We, the undersigned civil society organisations, are calling on Parliament and relevant stakeholders to halt and ban the use of live facial recognition technology (LRFT) by the police and private companies entirely,"
     publishedDateTime: 2021-08-25T16:32:00Z
@@ -125,6 +140,15 @@ related:
         width: 837
         height: 462
         isCached: true
+  - title: "Federal Agencies Mostly Use Facial Recognition Tech for Digital Access"
+    excerpt: "The most popular uses for facial recognition technology (FRT) by federal agencies are cybersecurity and digital access, according to a new report by the United States Government Accountability Office. The GAO surveyed 24 agencies about their FRT activities ..."
+    publishedDateTime: 2021-08-26T20:35:00Z
+    webUrl: "https://www.infosecurity-magazine.com/news/how-feds-use-frt/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 19
 
 secured: "2kLDYml6BSZIkbrMHhZCbP+E44x9zSNf+/oXxxWsTFhObY+6Wq5OCcfT8bELMY1XRWFSFDDJ1pUsnGS2UP2jbZnw/rICaOg7VnLLW4GriVzOJbbR5Y97Z13d6JMWKp5CTWM7ZT3xk+DN7lPa56rpjR07i96tnWpg0w/PrvZQEADxQWBf3++bpeI0oobzgZnZi87fKRhsCIQp14EVtu/HqaDw47PKUjBU84MqQWB6m/+EAtSJOuAOZ7ztgDwysqDEgy9UJNa28UB8AUrZQsY6XZ/3YE6S0eX5mPzSB12xbAaOmJdB/Uv0MDEn33RpBjzF8dnOuBecYBoKtab7c8FICVbU85nOqeMd3exYP98vF63s+L/J+wxFHAG+apsGrvavQ00ES8i9pxyP/O9R5PscNPAyDz/mG+pJi+Kgk3XtPZEBi4WnuhCq6Au93Fsm48Br0f9uxw4p9FWca3BDEwHu3TqzwHcGW0kfH9KSDtY7T5ghiVND2FcJvgt+IkBBr/wwDfecHb1xUL7yGnxVACVSYw==;be+ZesibSD3bAObkWc/iuQ=="
 ---

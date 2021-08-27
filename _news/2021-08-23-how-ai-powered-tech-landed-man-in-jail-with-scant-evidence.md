@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chron.com/news/amp/How-AI-powered-Tech-Landed-Man-In-Jai
 cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/How-AI-powered-Tech-Landed-Man-In-Jail-With-Scant-16396942.php"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 600
     height: 336
     isCached: true
-
-related:
-  - title: "How AI-powered tech landed man in jail with scant evidence"
-    excerpt: "Michael Williams’ wife pleaded with him to remember their fishing trips with the grandchildren, how he used to braid her hair, anything to jar him back to his world outside the concrete walls of Cook County Jail."
-    publishedDateTime: 2021-08-22T07:09:00Z
-    webUrl: "https://columbiabasinherald.com/news/2021/aug/22/how-ai-powered-tech-landed-man-in-jail-with-2/"
-    type: article
-    provider:
-      name: Columbia Basin Herald
-      domain: columbiabasinherald.com
-    quality: 17
 
 secured: "ESk6u4JkcZhQT5QAwyIX4Vlb1wrswpXcvP5F4xXuKoS7gknvBpMdvGxPu/xUNWI3JO3G2tp7DndpNAO4F33cH8BPCiXHbIK7bidf1cisAGp6QSODiDIhJWSh1zFjIygPPv5ZllxRmW/qLdm6pFNFpf3cyA+GqHqVe62Wt9nu8QvRqm+UphjxDdRwCc/cAe/xRWPnwxp4FPsuIkh/O68BuweklrhFT1Ko0n4UkaAlMYa5iq4qoRcvea/54qag3wNSPwDuB0cjVYD5+wJTJkncy9dHTkgP0LHxUS6nV69jmpE8l0M4jAU9SxQh3IkWUemL9TvZeJwszHgpvMkV3xIyWKxCHYgbqqM+wrCJEJ0ONk3lBxqWuzuxOAZDtADqqV9oAe8pVSGcCFap9sy5SEI2/GO77VBktCEUQd34e9Q2GvkXxIxnA+kDVbiFkXYv/dozpdgXOtdRGaBzkET+xBOOPPfQhNgaaMKuU3HeU7StLXF236/TfCrWjUXprMyibd5cDAHDXJIPN7hYC7XrRMGvkA==;wsbLnIUsQ2myEsQZA8V11Q=="
 ---

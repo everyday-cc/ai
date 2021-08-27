@@ -36,20 +36,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 56
-  - title: "Arab Bank launches fintech accelerator in Egypt"
-    excerpt: "Arab Bank has launched the AB Accelerator in Egypt, a fintech-focused corporate acceleration programme. The accelerator, which"
-    publishedDateTime: 2021-08-22T09:15:00Z
-    webUrl: "https://www.wamda.com/ar/2021/08/arab-bank-launches-fintech-accelerator-egypt"
-    type: article
-    provider:
-      name: wamda.com
-      domain: wamda.com
-    quality: 39
-    images:
-      - url: "https://cdn.wamda.com/feature-images/5f6a17f5130b65a.jpeg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Fintech to transform digital banking in Qatar"
     excerpt: "Fintech, which provides opportunities for economic diversification, will transform the digital banking experience in Qatar, an official has said yesterday at the Qatar Fintech Summit."
     publishedDateTime: 2021-08-25T05:19:00Z

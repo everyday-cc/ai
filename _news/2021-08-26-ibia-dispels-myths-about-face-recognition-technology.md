@@ -2,17 +2,21 @@
 category: news
 title: "IBIA Dispels Myths about Face Recognition Technology"
 excerpt: "The International Biometrics + Identity Association (IBIA) today published a white paper entitled \"Data Analysis of Facial Recognition Technology.\" The paper offers an analysis of the independent testing by the National Institute of Standards and Technology (NIST),"
-publishedDateTime: 2021-08-26T13:34:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-ibia-dispels-myths-face-recognition-technology-/2021/08/26/9437992.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-ibia-dispels-myths-face-recognition-technology-/2021/08/26/9437992.htm"
+publishedDateTime: 2021-08-26T13:44:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ibia-dispels-myths-about-face-recognition-technology-1030760739"
+webUrl: "https://markets.businessinsider.com/news/stocks/ibia-dispels-myths-about-face-recognition-technology-1030760739"
 type: article
-quality: 19
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
@@ -36,6 +40,6 @@ related:
         height: 384
         isCached: true
 
-secured: "sSaJLPZ/I473OHJOC6VzbZl7Atjx5h7RdJbFR85wjO5ESJy9tzFCVgz7utNVdnhbox/0wLC9I+Ct9lLttdI+eWdAK2B9QXAQM3zLzoSmG72Uz0gNgt1/gmzZGGKi39b8Aq3H0aTzAT3gTfU09KP4pUTXOeGVN7gTBzgydiOn4zlH5xkdoSn+NAClpPWuWJk3JNZZlMN1h89EF6svx5/shVuG0ZV5C2NH9UsxhoAgqXAIiocHYGZWt/I3cBlfIJq/HGTIR1Hi//NgA55atEGycEq2gbvBB+PAtuITwAENYrcpJD+Fl5TH1D3yoBdXDQC1tlJQ8tmsw71VrwfhfaNPzfKRRaAngGKrQKea5FIf9K0=;f6GWH3sGkHsdsVmaATeeKw=="
+secured: "Qm4/cRfTr4PLu1jPB5fQrBwhLq3P2CSdopuT3XAdmL2oeJwPDimmg/WOGB3oXlF/T9CNusEupsXSo+FhK87BBtsSPMCmBC/7BlzzDDJmLv3vnwH7/jpbpojjYqlYRET43Ryo12PKog3yl/hhns8tCKcvk9MFRtf0WqUiPTlkd4+NBxymb7wcRzsp0g13l+OUcMUfoZvuKLeVMQPTOoGAg9EwxOWDk4Yc2WlxjmHmK8Zy28Xo72EaDrzKe/AWZWT7lPKAqALn8x+GF+csu2MFGveaYl40KQyZPW8eUBqqxXvlAq6Hcd6mVoQaIHpGNx1bAP1e64osuH2dEAS7WNbmgmZ1ZbjSZBF0DIQ4ye5n4Sk=;til7RoMM4KzEV9v1YRB2Ig=="
 ---
 

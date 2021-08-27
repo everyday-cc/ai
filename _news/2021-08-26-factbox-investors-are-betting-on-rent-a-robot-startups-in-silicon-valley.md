@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Factbox-Investors Are Betting on Rent-A-Robot Startups in Silicon Valley"
+title: "FACTBOX-Investors are betting on rent-a-robot startups in Silicon Valley"
 excerpt: "Silicon Valley has a new pitch for small U.S. manufacturers struggling with hiring workers but wary of the high costs of high tech: rent-a-robot. Much of the initial risk and cost are taken on by the robot companies."
-publishedDateTime: 2021-08-26T10:27:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2021-08-26/factbox-investors-are-betting-on-rent-a-robot-startups-in-silicon-valley"
-webUrl: "https://www.usnews.com/news/technology/articles/2021-08-26/factbox-investors-are-betting-on-rent-a-robot-startups-in-silicon-valley"
+publishedDateTime: 2021-08-26T14:00:00Z
+originalUrl: "https://www.reuters.com/article/usa-robots-manufacturing-silicon/factbox-investors-are-betting-on-rent-a-robot-startups-in-silicon-valley-idUSL1N2PW1VW"
+webUrl: "https://www.reuters.com/article/usa-robots-manufacturing-silicon/factbox-investors-are-betting-on-rent-a-robot-startups-in-silicon-valley-idUSL1N2PW1VW"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2PW1VW"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2PW1VW"
 type: article
-quality: 48
-heat: -1
-published: false
+quality: 88
+heat: 128
+published: true
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -22,20 +24,28 @@ topics:
   - AI in Robotics
   - AI
 
+images:
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210826&t=2&i=1572988153&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH7P0DO"
+    width: 817
+    height: 545
+    isCached: true
+
 related:
-  - title: "Factbox: Investors are betting on rent-a-robot startups in Silicon ValleyÂ"
+  - title: "Factbox-Investors are betting on rent-a-robot startups in Silicon ValleyÂ"
     excerpt: "Silicon Valley has a new pitch for small U.S. manufacturers struggling with hiring workers but wary of the high costs of high tech: rent-a-robot. Much of the initial risk and cost are taken on by the robot companies."
-    publishedDateTime: 2021-08-26T14:29:00Z
-    webUrl: "https://www.reuters.com/business/investors-are-betting-rent-a-robot-startups-silicon-valley-2021-08-26/"
+    publishedDateTime: 2021-08-26T10:29:00Z
+    webUrl: "https://www.metro.us/factbox-investors-are-betting-on/"
+    ampWebUrl: "https://www.metro.us/factbox-investors-are-betting-on/amp/"
+    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/factbox-investors-are-betting-on/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
+      name: Metro US
+      domain: metro.us
+    quality: 58
     images:
-      - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=50"
-        width: 1200
-        height: 628
+      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEH7P0DO-BASEIMAGE.jpg"
+        width: 800
+        height: 533
         isCached: true
   - title: "Rent-a-robot: Silicon Valley’s new answer to the labor shortage in smaller U.S. factories"
     excerpt: "Silicon Valley has a new pitch to persuade small companies to automate: rent-a-robot. Better technology and the need to pay higher wages to humans have produced a surge in sales of robots to big companies all across America."
@@ -82,6 +92,6 @@ related:
         height: 600
         isCached: true
 
-secured: "U4yWvTu2hH+bc91BEww1kD2FgMucjMtabD0UQvF7CXOBacBXkWbEqjNjPBWNDsTdxup17kojjA3+nOq0pRuTxwebWJbwG1k4FnFz6RmtRy/qdl4OizBqEXixLXwOi12ICZUknKkxDIrrhpvTHECyRwhDu/Q4FgFblg9OXTM1U/3XNQqU8gbmjETshIU6pUXR+IGqUiTihIiirwhm6kMuV06dX8ViiPiRytkcarr9fLYAahh+GXvX0Db/u9k/0LLzcXDtwiC7ALqTUO8TyttGqxbMx1CMutep1eFnOYI0DG0DeYx7iq/pp9aVmNiamCXyOn5oqQutjtHmQk0aElL0N++Pkl/eKdW8NUb5m/LR5i/ck+wDtgNuGYEZIq67AxcmTY5EUyiOuNSka/c7sh51qVabd8uMFmuOIJqupDMrHmoRh4++I4dymbJS0AZsVAdfA9pLY9y1NX1LO8NnywfjihEynHdiTaZXcvrv8T+YDdsbLohwDwIGzJD4vfc4All1L96bFcW0ECPfB8ogAimNSw==;SPYQE01ymSXGNM9erJPz8g=="
+secured: "1TXZXHaIhyMnNehFCst+p5lUshY937ftuFrKjl3LZKmqi+BUUFcrw3HiNNyYoWkmLSgzo6xGHgxYEo6p5p/U9Vl6HYcymu8Mj28JImL7ibMe/H7FaEs4/wZXJp6Xb0dxe/Q3HYTj8CTYgCrsjXZuDcMMNVjz64VWQ22oC/il6b0Okdgg4F4t/QOo+WvDlyC2bZhixrbZkn2IivtDX4YiEyj0yHQjZwudb69TuxEltzc4/mD2eqaky6wCt58SqsxjeZTDhW/VZQEUl/7MCixCQSEMIHzWKzI4zIQLhgJ0I6Hu0SaereWrAqqmSEjmKRvKIqNi+Ie/lzKKxglZ8zpd8HZBECRFJBuUTSD77eZNoRg=;J7CxD0lZNiO/z2OhlrBz9A=="
 ---
 
