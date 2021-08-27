@@ -1,29 +1,45 @@
 ---
 category: news
 title: "heliosDX Adds Artificial Intelligence to its Suite of Diagnostics Services and Solutions"
-excerpt: "ALPHARETTA, GA /  / August 26, 2021 / RushNet, Inc (OTC PINK:RSHN), (the 'Company' or 'heliosDX') is pleased to announce through its subsidiary heliosDX the investment and adoption of Artificial Intelligence ('AI') into the diagnostic laboratory."
-publishedDateTime: 2021-08-26T20:48:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/270888843/heliosdx-adds-artificial-intelligence-to-its-suite-of-diagnostics-services-and-solutions"
-webUrl: "https://www.bignewsnetwork.com/news/270888843/heliosdx-adds-artificial-intelligence-to-its-suite-of-diagnostics-services-and-solutions"
+excerpt: "RushNet, Inc , (the \"Company\" or \"heliosDX\") is pleased to announce through its subsidiary heliosDX the investment and adoption of Artificial Intelligence (\"AI\") into the diagnostic laboratory."
+publishedDateTime: 2021-08-26T22:04:00Z
+originalUrl: "https://www.lelezard.com/en/news-19970658.html"
+webUrl: "https://www.lelezard.com/en/news-19970658.html"
 type: article
 quality: 30
 heat: 30
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
-  - AI
   - AI in Finance
+  - AI
 
 images:
-  - url: "https://cdn.bignewsnetwork.com/cus1630009039233.jpg"
-    width: 630
-    height: 420
+  - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
+    width: 421
+    height: 421
     isCached: true
 
-secured: "gDi0Z9PgQcbm9tWI5EELEaw9zmBpHtFRrsVFMByEmL/wsDO/x3OiTy6GFHFld14CSS/q/pSQphzMoONzxHDSTszVNbrlvEnsA8Lp/6vy61W67+24AoImeDTZwW5Qxmjq2aG5ZvMndekAhh2s8dXJAfxuRYnZdnPA9Hog8nXsDr/pWd2ZgliX5emDsYoRpaFIZb0WgBH8WoqicZIQAV/8CeW0s43sE3l8oDFmqxvDVaOLsA2yzIaqoDgkDIiQ7ti8cP3mmMPS1NN23sXQPp3b4hmRdkoKqbsnUMBEpTxmOdm2KHCRQ5yKGhAdC1CHrIx2/OE96LWAR/dxbQJfCNFHNePPArCymjveXqJCDKCG7RQ=;mcVxAsONokIHXcs6lydqmQ=="
+related:
+  - title: "RushNet, Inc.: heliosDX Adds Artificial Intelligence to its Suite of Diagnostics Services and Solutions"
+    excerpt: "ALPHARETTA, GA / ACCESSWIRE / August 26, 2021 / RushNet, Inc (OTC PINK:RSHN), (the \"Company\" or \"heliosDX\") is pleased to announce through its subsidiary heliosDX the investment and adoption of Artifi"
+    publishedDateTime: 2021-08-26T22:04:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-08/53786207-rushnet-inc-heliosdx-adds-artificial-intelligence-to-its-suite-of-diagnostics-services-and-solutions-200.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 21
+    images:
+      - url: "https://www.accesswire.com/users/newswire/images/661576/Video-Picture-w-Logo.png"
+        width: 3102
+        height: 1849
+        isCached: true
+
+secured: "p//67qZK+w4AmlCvSfXvr7EWMdApnMeESmnQ3UIGXk78e0W5oWZq4SpET+xZdXiTpDHtsDnWVJ9D42IM5+ZDedrwOydibovCIcRnBYEUUJQUUewX8KGuCB8j3ikpwwvF+Ukc/bAtsL4I6QKSsT4nuqgbK0XYBakkt7rrEWiyvBEoWWTnDH66pvN9/f81HThIdnbNqMiY61ilGNJEPhnQXXatvtujHCNDjizRpmZIS2bDGGbKK4H5aRWNPLpVHZv3/ay5wgP7/vrqOLDHSohpD97Z1yotpdyagdUNChI+G/52i2LCHzIKjZ/EYNLpf8dxKFEAAsmTs03D0lANxHmreU6RNk9U2Z7Tgem7bpMppTI=;KEEgiUezABwMBMkJbf/QxA=="
 ---
 

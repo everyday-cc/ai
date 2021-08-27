@@ -25,19 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Why emotion recognition AI can’t reveal how we feel"
-    excerpt: "Thomas covers AI in all its iterations. Likes Werner Herzog films and Arsenal FC. Writer at Neural by TNW — Thomas covers AI in all its iterations. Likes Werner Herzog films and Arsenal FC. They found that people use different facial movements to communicate similar emotions."
-    publishedDateTime: 2021-08-23T14:30:00Z
-    webUrl: "https://thenextweb.com/news/emotion-recognition-ai-cant-determine-how-people-feel"
+  - title: "ECU student earns national recognition for breaking down bitcoin market"
+    excerpt: "\"I completely understand it,\" Clemente said. \"I’ve taken two finance classes, and you know, I don’t even have any hair on my face. So, you know I completely get that.\" But he's focused on seeing how far cryptocurrency could take him in the years to come."
+    publishedDateTime: 2021-08-24T23:30:00Z
+    webUrl: "https://www.wral.com/ecu-student-earns-national-recognition-for-breaking-down-bitcoin-market/19841178/"
+    ampWebUrl: "https://www.wral.com/ecu-student-earns-national-recognition-for-breaking-down-bitcoin-market/19841178/?version=amp"
+    cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/ecu-student-earns-national-recognition-for-breaking-down-bitcoin-market/19841178/?version=amp"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 69
+      name: WRAL
+      domain: wral.com
+    quality: 44
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2FUntitled-design-12.jpg&signature=9484b0a25417f9c6eef95bb74ca53bfe"
-        width: 1280
-        height: 640
+      - url: "https://wwwcache.wral.com/asset/news/local/2021/08/24/19841213/keenanUSE-DMID1-5rzf0d6a7-1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "LSCO student receives Congressional Recognition"
+    excerpt: "Lamar State College Orange student, Steven Wilkerson, received a Special Certificate of Congressional Recognition from Congressman Brian Babin’s office for completing their 2021 Summer Intern Program this summer."
+    publishedDateTime: 2021-08-25T05:26:00Z
+    webUrl: "https://orangeleader.com/2021/08/25/lsco-student-receives-congressional-recognition/"
+    type: article
+    provider:
+      name: The Orange Leader
+      domain: orangeleader.com
+    quality: 24
+    images:
+      - url: "https://orangeleader.com/wp-content/uploads/sites/42/2021/08/LSCO-student-receives-Congressional-Recognition--rotated.jpg"
+        width: 1200
+        height: 1600
         isCached: true
 
 secured: "JP8X/Drmhi25+jaR3Q5ISuY9hXJYcjjvvUhMzrPQejMhphlMUt5tI67AJPy+d7d6OFQf06O5k26iDbxkUYvyosBUgOyQt47Xy0PQ9jxqq559ly/gdy5K4jYx42C8n4upXTNk5/zLqIOqJ39+GTdynv3aPvKdEQAPZNGyGxh5T8vig7EH1yQSTsYv1tKCcR0FySr9kzTqb6zckQMxgiEdMKX8H4pAZLgZq4SGGqrg7+43JDS1j6R2grgpU8P7LvsM+M1CJWeQmlYdrVxBHG740z+BI0ugjC8MaI9Gk4WBTjvPFeAVhAcoae/c/3D6n4Y+XkQ1880Xm17HaH4+z/nHfAksbqyJQp46i+88YezHB58=;rdtgGy/NBiWWu5RVEVjytQ=="

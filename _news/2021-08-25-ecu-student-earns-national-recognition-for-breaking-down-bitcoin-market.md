@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 1600
         isCached: true
+  - title: "New Study from StrategyR Highlights a $137.2 Billion Global Market for Emotion Detection and Recognition by 2026"
+    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Emotion Detection and Recognition - Global Market Trajectory & Analytics\"."
+    publishedDateTime: 2021-08-25T15:09:00Z
+    webUrl: "https://www.lelezard.com/en/news-19968125.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 3
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "kPOQaNDhZ1tWT9d8Uhj1CEEduYFKVuFL1+1i7KeOXyk7biZ+67lTWK3HhKExIPb3D6ZkrbuaIUrdnf93pYWd7M4t2wSQKgcq0ETKBD2eInJo17Z47EHoNvcx7au6CGFLbr8xq0Wx+FZyYuZ3DonclZvzxujQgRUEgsA4S2yiQaj5U80BXW/u4meuZeSW/50rxglXcZTu06M7JGBdPZMjT4PujgNgLvplCqVNip3DdJ2oEyLXZz/MKyVOpH9Mfb+6rbrDlhoO1gHxbAdIfiPvBj2ZS1ZdXCC/RuFjPLZCyjBHLWzcdoolksbLo/Apr4ve+20hImF7KE9pme9LK5pY+MXw0rfdNVKQTi1FAWibxt1YmyufOjWZ/Psy3kx0Hg49uKX3SzgrykKky34UP9dSCQG+RbOZr+5e8kpLI/md/a5izYbLGBRqSwwmAtSJM8BnQ9ZtSUggPAntpk1PXVGMRp+eMANXvBkoHtAQFflmQgFSZLvCBS17/w+Ll2tViwTyPMX2dIdn5Yju3or0hKeBpw==;SMYXaAGLaUWlKJ9ko12bpg=="
 ---

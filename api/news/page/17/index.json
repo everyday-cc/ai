@@ -2,6 +2,50 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-08-13-street-mapping-startup-mapillary-scores-a-mysterious-amazon-rekognition-partnership.md",
+      "title": "Street-mapping startup Mapillary scores a mysterious Amazon Rekognition partnership",
+      "excerpt": "Mapillary, a startup on a mission to “fix” the world’s maps, partnered with Amazon’s machine vision program, Rekognition, to build street-level maps. Starting with a parking app, the Swedish company plans to build a platform that rivals Google’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehustle.co/mapillary-amazon-mapping-google/",
+      "originalUrl": "https://thehustle.co/mapillary-amazon-mapping-google/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehustle.co/wp-content/uploads/2018/09/xxx-31.jpg",
+          "width": 600,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehustle.co/mapillary-amazon-mapping-google/amp/",
+      "cdnAmpWebUrl": "https://thehustle-co.cdn.ampproject.org/c/s/thehustle.co/mapillary-amazon-mapping-google/amp/",
+      "publishedDateTime": "2021-08-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hustle",
+        "domain": "thehustle.co",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-08-13-many-americans-arent-aware-theyre-being-tracked-with-facial-recognition-while-shopping.md",
       "title": "Many Americans aren't aware they're being tracked with facial recognition while shopping",
       "excerpt": "Of those surveyed, almost half (40%) were completely unaware that retailers have begun using facial recognition technology in their stores while 60 percent said they knew this tec",
@@ -1095,57 +1139,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-artificial-intelligence-for-social-inclusion-technologies-and-necessary-steps.md",
-      "title": "Artificial Intelligence For Social Inclusion: Technologies And Necessary Steps",
-      "excerpt": "For those who develop technology, it is essential not only to think about usability but increasingly about accessibility.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/12/artificial-intelligence-for-social-inclusion-technologies-and-necessary-steps/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/12/artificial-intelligence-for-social-inclusion-technologies-and-necessary-steps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61140c2e210c118b1901925f%2F0x0.jpg",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/12/artificial-intelligence-for-social-inclusion-technologies-and-necessary-steps/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/12/artificial-intelligence-for-social-inclusion-technologies-and-necessary-steps/amp/",
-      "publishedDateTime": "2021-08-12T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

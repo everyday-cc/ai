@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-26-how-to-wrangle-data-and-manage-your-ai-pipeline.md",
+      "title": "How to wrangle data and manage your AI pipeline",
+      "excerpt": "Managing your AI and machine learning pipelines starts with data sourcing, data curation, and data annotation.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/26/how-to-wrangle-data-and-manage-your-ai-pipeline/",
+      "originalUrl": "https://venturebeat.com/2021/08/26/how-to-wrangle-data-and-manage-your-ai-pipeline/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/12/istock-636754212-e1629925759866.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/26/how-to-wrangle-data-and-manage-your-ai-pipeline/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/26/how-to-wrangle-data-and-manage-your-ai-pipeline/amp/",
+      "publishedDateTime": "2021-08-26T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-08-20-electronic-discovery-market-2021-strategic-assessments-ibm-corporation-relativity-oda-llc-accessdata-group-inc-zylab-inc.md",
       "title": "Electronic Discovery Market 2021 Strategic Assessments – IBM Corporation, Relativity ODA LLC, AccessData Group Inc., ZyLAB, Inc.",
       "excerpt": "In March 2017, IBM revealed planned on updating the discovery service of its artificial intelligence-powered platform Watson with an expansion of its eDiscovery and business research technology.",
@@ -1294,40 +1347,6 @@
       "provider": {
         "name": "The National Law Review",
         "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-what-ever-happened-to-ibms-watson.md",
-      "title": "What ever happened to IBM’s Watson?",
-      "excerpt": "IBM’s public confidence was unmistakable. Its Watson supercomputer had just trounced Ken Jennings, the best human “Jeopardy!” player ever, showcasing the power of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/technology/tech-news-technology/what-ever-happened-to-ibms-watson-7411513/",
-      "originalUrl": "https://indianexpress.com/article/technology/tech-news-technology/what-ever-happened-to-ibms-watson-7411513/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-18T23:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
         "images": null,
         "publishers": null,
         "authors": null

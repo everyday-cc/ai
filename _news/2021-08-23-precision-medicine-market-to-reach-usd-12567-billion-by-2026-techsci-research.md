@@ -38,20 +38,6 @@ related:
       name: List of Banks in Belarus
       domain: globalbankingandfinance.com
     quality: 31
-  - title: "Global Industry Analysts Predicts the World Cognitive Services Market to Reach $29 Billion by 2026"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Cognitive Services - Global Market Trajectory & Analytics\"."
-    publishedDateTime: 2021-08-24T14:25:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-global-industry-analysts-predicts-world-cognitive-services-market-/2021/08/24/9436473.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 25
-    images:
-      - url: "https://mma.prnewswire.com/media/1599580/World_Cognitive_Services_Market.jpg"
-        width: 400
-        height: 338
-        isCached: true
   - title: "Global Cognitive Media Market to Reach $2.9 Billion by 2026"
     excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Cognitive Media - Global Market Trajectory & Analytics\". The report presents fresh perspectives"
     publishedDateTime: 2021-08-24T14:09:00Z

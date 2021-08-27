@@ -2,6 +2,49 @@
   "page": 105,
   "value": [
     {
+      "path": "_news/2021-06-14-google-is-using-ai-to-design-chipsets-in-just-six-hours.md",
+      "title": "Google is using AI to design chipsets in just six hours",
+      "excerpt": "The new chips are said to be superior or comparable to those produced by humans in all key metrics including power consumption, performance and chip area.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/sci-tech/technology/google-is-using-ai-to-design-chipsets-in-just-six-hours/article34809994.ece",
+      "originalUrl": "https://www.thehindu.com/sci-tech/technology/google-is-using-ai-to-design-chipsets-in-just-six-hours/article34809994.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindu.com/sci-tech/technology/41suu1/article34810034.ece/ALTERNATES/LANDSCAPE_615/googlechip",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/google-is-using-ai-to-design-chipsets-in-just-six-hours/article34809994.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/google-is-using-ai-to-design-chipsets-in-just-six-hours/article34809994.ece/amp/",
+      "publishedDateTime": "2021-06-14T00:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-14-amazon-india-launches-ml-summer-school-to-impart-core-machine-learning-skills-to-students.md",
       "title": "Amazon India launches 'ML Summer School' to impart core machine learning skills to students",
       "excerpt": "The curriculum will cover the fundamental concepts in ML, while linking them to practical industry applications through an immersive three-day course, it added. Participants of the ML Summer School wi",
@@ -1090,58 +1133,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-ufc-263-recognition-rematches-and-revenge-on-the-line-in-arizona.md",
-      "title": "UFC 263: Recognition, rematches and revenge on the line in Arizona",
-      "excerpt": "UFC 263 looks set to deliver a spectacular night of action, with two world titles on the line in front of a capacity crowd in Glendale, Arizona.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/sport/mixed-martial-arts/57442164",
-      "originalUrl": "https://www.bbc.com/sport/mixed-martial-arts/57442164",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/640/cpsprodpb/F4AE/production/_118883626_adesanya_vettori_getty.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/sport/mixed-martial-arts/57442164.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/sport/mixed-martial-arts/57442164.amp",
-      "publishedDateTime": "2021-06-12T00:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

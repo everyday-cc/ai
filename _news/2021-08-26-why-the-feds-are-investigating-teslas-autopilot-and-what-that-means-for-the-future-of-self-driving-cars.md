@@ -352,6 +352,20 @@ related:
       name: Futurism
       domain: futurism.com
     quality: 39
+  - title: "Tesla Plans To Have Its Full Self-Driving Beta Ready For Public In Four Weeks"
+    excerpt: "Tesla plans to have its Full Self-Driving beta ready for the public in four weeks. Here are all the details on this."
+    publishedDateTime: 2021-08-26T15:11:00Z
+    webUrl: "https://www.redmondpie.com/tesla-plans-to-have-its-full-self-driving-beta-ready-for-public-in-four-weeks/"
+    type: article
+    provider:
+      name: Redmond Pie
+      domain: redmondpie.com
+    quality: 36
+    images:
+      - url: "https://cdn.redmondpie.com/wp-content/uploads/2021/07/tesla-fsd-1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Musk criticizes on Twitter latest test version of Tesla's self-driving software"
     excerpt: "Chief Executive Elon Musk panned the most recent test version of the company's self-driving software, but said that Tesla employees are \"rallying to improve (it) as fast as possible.\" Musk tweeted late Monday that the latest \"beta\" version of Full Self Driving,"
     publishedDateTime: 2021-08-23T16:18:00Z

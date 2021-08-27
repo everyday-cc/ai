@@ -41,22 +41,6 @@ related:
         width: 799
         height: 548
         isCached: true
-  - title: "Ten federal agencies are expanding their use of facial recognition"
-    excerpt: "The Government Accountability Office has revealed in a new report that 10 federal agencies are planning to expand their use of facial recognition. In a survey involving 24 federal agencies on their use of facial recognition technology,"
-    publishedDateTime: 2021-08-26T18:24:00Z
-    webUrl: "https://www.engadget.com/ten-federal-agencies-expanding-facial-recognition-070044629.html"
-    ampWebUrl: "https://www.engadget.com/amp/ten-federal-agencies-expanding-facial-recognition-070044629.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ten-federal-agencies-expanding-facial-recognition-070044629.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-08/d6385430-0632-11ec-9d54-a4ebe312b944"
-        width: 5988
-        height: 3992
-        isCached: true
   - title: "UK Government Accused Of Sneaking Through New Live Facial Recognition Rules"
     excerpt: "More than 30 civil liberties groups are accusing the UK Home Office and police of bypassing Parliament to introduce live facial recognition technology (LFRT)."
     publishedDateTime: 2021-08-23T11:22:00Z

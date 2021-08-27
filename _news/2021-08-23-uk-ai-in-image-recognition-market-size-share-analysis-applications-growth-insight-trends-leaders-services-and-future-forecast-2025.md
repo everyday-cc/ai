@@ -21,148 +21,101 @@ topics:
   - Computer Vision
 
 related:
-  - title: "Artificial Intelligence (AI) in Retail Market Growth, Share, Size, Trends, Top Companies and Forecast By 2027"
-    excerpt: "Artificial Intelligence (AI) in Retail Market forecast by regions, type and application, with sales and revenue, from 2021 to 2027. Artificial Intelligence (AI) in Retail Market Share, COVID-19 impact ,"
-    publishedDateTime: 2021-08-23T19:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-growth-share-size-trends-top-companies-and-forecast-by-2027-2021-08-23"
+  - title: "Recognize celebrities in images and videos using Amazon Rekognition"
+    excerpt: "The celebrity recognition feature in Amazon Rekognition automatically recognizes tens of thousands of well-known personalities in images and videos using machine learning (ML). Celebrity recognition significantly reduces the repetitive manual effort required to tag produced media content and make it"
+    publishedDateTime: 2021-08-26T22:13:32Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/easily-recognize-celebrities-in-images-and-videos-using-amazon-rekognition/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
+      name: AWS
+      domain: aws.amazon.com
+    quality: 106
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/26/ML-5386-IMG1.jpg"
+        width: 1645
+        height: 785
         isCached: true
-  - title: "Artificial Intelligence (AI) in Modern Warfare Market Evolving Technology and Growth Outlook 2021-2026"
-    excerpt: "MarketInsightsReports recently published a research report called Artificial Intelligence AI in Modern Warfare Market Primary and secondary research methods were used to construct this report The Analysis was derived using history and predictions The report includes an in depth study"
-    publishedDateTime: 2021-08-24T13:01:00Z
-    webUrl: "https://www.openpr.com/news/2365480/artificial-intelligence-ai-in-modern-warfare-market-evolving"
-    ampWebUrl: "https://www.openpr.com/amp/2365480/artificial-intelligence-ai-in-modern-warfare-market-evolving"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2365480/artificial-intelligence-ai-in-modern-warfare-market-evolving"
+  - title: "Ten federal agencies are expanding their use of facial recognition"
+    excerpt: "The Government Accountability Office has revealed in a new report that 10 federal agencies are planning to expand their use of facial recognition. In a survey involving 24 federal agencies on their use of facial recognition technology,"
+    publishedDateTime: 2021-08-26T18:24:00Z
+    webUrl: "https://www.engadget.com/ten-federal-agencies-expanding-facial-recognition-070044629.html"
+    ampWebUrl: "https://www.engadget.com/amp/ten-federal-agencies-expanding-facial-recognition-070044629.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ten-federal-agencies-expanding-facial-recognition-070044629.html"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 58
+      name: Engadget
+      domain: engadget.com
+    quality: 89
     images:
-      - url: "https://cdn.openpr.com/U/8/U824571901_g.jpg"
-        width: 800
-        height: 449
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-08/d6385430-0632-11ec-9d54-a4ebe312b944"
+        width: 5988
+        height: 3992
         isCached: true
-  - title: "Valued to be $9.3 Billion by 2026, Artificial Intelligence (AI) in Accounting Slated for Robust Growth Worldwide"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its"
-    publishedDateTime: 2021-08-25T15:55:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/08/n22659416/valued-to-be-9-3-billion-by-2026-artificial-intelligence-ai-in-accounting-slated-for-robust-growth"
-    ampWebUrl: "https://www.benzinga.com/amp/content/22659416"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22659416"
+  - title: "Why emotion recognition AI can’t reveal how we feel"
+    excerpt: "Thomas covers AI in all its iterations. Likes Werner Herzog films and Arsenal FC. Writer at Neural by TNW — Thomas covers AI in all its iterations. Likes Werner Herzog films and Arsenal FC. They found that people use different facial movements to communicate similar emotions."
+    publishedDateTime: 2021-08-23T14:30:00Z
+    webUrl: "https://thenextweb.com/news/emotion-recognition-ai-cant-determine-how-people-feel"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 53
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 69
     images:
-      - url: "https://mma.prnewswire.com/media/1600638/GIA_Artificial_Intelligence_Accounting.jpg"
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2FUntitled-design-12.jpg&signature=9484b0a25417f9c6eef95bb74ca53bfe"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Civil liberties groups demand ban on facial recognition technology"
+    excerpt: "A group of civil society bodies has called on the Government to ban facial recognition cameras, while accusing police and the Home Office of bypassing Parliament over guidance for the use of the technology."
+    publishedDateTime: 2021-08-23T16:45:00Z
+    webUrl: "https://www.irishnews.com/magazine/technology/2021/08/23/news/civil-liberties-groups-demand-ban-on-facial-recognition-technology-2425128/"
+    type: article
+    provider:
+      name: The Irish News
+      domain: irishnews.com
+    quality: 39
+    images:
+      - url: "https://image.assets.pressassociation.io/v2/image/production/d6e4131765fe04e05c81ba7daa1efc67Y29udGVudHNlYXJjaGFwaSwxNjI5NzgyNjgx/2.61056894.jpg?w=640"
+        width: 640
+        height: 434
+        isCached: true
+  - title: "Facial Recognition Tech Use Increasing Among Federal Agencies"
+    excerpt: "Use cases included criminal investigations, building security and access to digital assets like smartphones and security agency websites."
+    publishedDateTime: 2021-08-26T19:00:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2021/08/facial-recognition-tech-use-increasing-among-federal-agencies/184884/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 39
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2021/08/26/authentication_by_facial_recognition_biometric_security_system_picture_id1216416251/open-graph.jpg"
         width: 400
-        height: 367
+        height: 400
         isCached: true
-  - title: "Artificial Intelligence (AI) in Food and Beverage Market Size 2021 Demand, Global Trend, News, Business Growth, Top Key Players"
-    excerpt: "The new report titled Global Artificial Intelligence AI in Food and Beverage Market published by Emergen Research is a vivid presentation of the global Artificial Intelligence AI in Food and Beverage market with utmost focus on the forecast market size"
-    publishedDateTime: 2021-08-25T12:51:00Z
-    webUrl: "https://www.openpr.com/news/2367537/artificial-intelligence-ai-in-food-and-beverage-market-size"
-    ampWebUrl: "https://www.openpr.com/amp/2367537/artificial-intelligence-ai-in-food-and-beverage-market-size"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2367537/artificial-intelligence-ai-in-food-and-beverage-market-size"
+  - title: "Athreon Launches Front-End Speech Recognition Solution"
+    excerpt: "Athreon, a leading business and knowledge process outsourcing company, announced today the launch of its new front-end speech recognition solution for healthcare. Athreon's speech recognition empowers physicians to focus on patient care versus administrative,"
+    publishedDateTime: 2021-08-26T16:39:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-athreon-launches-front-end-speech-recognition-solution-/2021/08/26/9438228.htm"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 44
-    images:
-      - url: "https://cdn.openpr.com/U/8/U825208148_g.jpg"
-        width: 700
-        height: 393
-        isCached: true
-  - title: "China AI in Healthcare Market Emerging Trend, Top Companies, Industry Demand and Regional Analysis by 2025"
-    excerpt: "China s AI in healthcare market is estimated to grow significantly at a CAGR of 52 8 during the forecast period China s market has both medium and long term potential due to its large market size aging population fluctuating"
-    publishedDateTime: 2021-08-23T07:24:00Z
-    webUrl: "https://www.openpr.com/news/2363109/china-ai-in-healthcare-market-emerging-trend-top-companies"
-    ampWebUrl: "https://www.openpr.com/amp/2363109/china-ai-in-healthcare-market-emerging-trend-top-companies"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2363109/china-ai-in-healthcare-market-emerging-trend-top-companies"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 36
-  - title: "Valued to be $4.4 Billion by 2026, Artificial Intelligence (AI) in Call Center Slated for Robust Growth Worldwide"
-    excerpt: "May 2021 Executive Pool: 133887 Companies: 367 - Players covered include Artificial Solutions; Avaamo; Avaya; AWS; Conversica; Creative Vir"
-    publishedDateTime: 2021-08-26T14:40:00Z
-    webUrl: "https://www.mobilitytechzone.com/wimax/news/2021/08/26/9437856.htm"
-    type: article
-    provider:
-      name: Mobility Techzone
-      domain: mobilitytechzone.com
-    quality: 33
-    images:
-      - url: "https://mma.prnewswire.com/media/1601532/MCP21174.jpg"
-        width: 400
-        height: 252
-        isCached: true
-  - title: "Artificial Intelligence Market Share Forecast to Witness Considerable Growth from 2020 To 2030"
-    excerpt: "Artificial Intelligence Market Introduction Transparency Market Research delivers key insights on the global artificial intelligence market In terms of revenue the global artificial intelligence market is estimated to expand at a CAGR of 29 during the forecast period owing to"
-    publishedDateTime: 2021-08-23T14:41:00Z
-    webUrl: "https://www.openpr.com/news/2364154/artificial-intelligence-market-share-forecast-to-witness"
-    ampWebUrl: "https://www.openpr.com/amp/2364154/artificial-intelligence-market-share-forecast-to-witness"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2364154/artificial-intelligence-market-share-forecast-to-witness"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 29
-  - title: "Deep Learning in Healthcare Market Size, Share 2020 Industry Growing Rapidly with Recent Demand, Trends, Development , Revenue by 2027"
-    excerpt: "The Global Deep Learning in Healthcare Market research delves into detailed and insightful data on important variables such as regional growth segmentation and CAGR The research contains a broad overview of the industry as well as a detailed explanation with"
-    publishedDateTime: 2021-08-26T07:31:00Z
-    webUrl: "https://www.openpr.com/news/2368510/deep-learning-in-healthcare-market-size-share-2020-industry"
-    ampWebUrl: "https://www.openpr.com/amp/2368510/deep-learning-in-healthcare-market-size-share-2020-industry"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2368510/deep-learning-in-healthcare-market-size-share-2020-industry"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 24
-  - title: "US AI in Image Recognition Market Analysis By Industry Size, Share, Revenue Growth and Demand Forecast To 2025"
-    excerpt: "The US AI in image recognition market is estimated to grow significantly at a CAGR of more than 28 during the forecast period The factors that are contributing significantly to the market growth investments in R D high expenditure on"
-    publishedDateTime: 2021-08-23T07:51:00Z
-    webUrl: "https://www.openpr.com/news/2363163/us-ai-in-image-recognition-market-analysis-by-industry-size"
-    ampWebUrl: "https://www.openpr.com/amp/2363163/us-ai-in-image-recognition-market-analysis-by-industry-size"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2363163/us-ai-in-image-recognition-market-analysis-by-industry-size"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 19
-  - title: "Aerospace Artificial Intelligence Market size, share, growth report explores industry trends & analysis 2026"
-    excerpt: "This research report by Report Ocean identifies consumer needs and aims to satisfy them more efficiently effectively and accurately than the competition This report about the Aerospace Artificial Intelligence Market is exceptional because it is easy to understand contains excellent"
-    publishedDateTime: 2021-08-25T06:23:00Z
-    webUrl: "https://www.openpr.com/news/2366382/aerospace-artificial-intelligence-market-size-share-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2366382/aerospace-artificial-intelligence-market-size-share-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2366382/aerospace-artificial-intelligence-market-size-share-growth"
+  - title: "Campaigners call for more recognition to mark International Day for the Remembrance of the Slave Trade and its Abolition"
+    excerpt: "Leading Black history campaigners are calling for more recognition for International Slavery Remembrance Day, which is being celebrated today in the UK and internationally. The United Nations Educational,"
+    publishedDateTime: 2021-08-23T19:26:00Z
+    webUrl: "https://www.voice-online.co.uk/news/2021/08/23/campaigners-call-for-more-recognition-to-mark-international-day-for-the-remembrance-of-the-slave-trade-and-its-abolition/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 18
-  - title: "Deep Learning in Manufacturing Market 2021 Growth Analysis, Opportunities, Trends, Developments and Forecast to 2027 - NVIDIA (US), Intel (US)"
-    excerpt: "The Global Deep Learning in Manufacturing market report from Market Intelligence Data aims to facilitate in depth information of the marketplace s definition potential and scope The document is prepared after enormous studies and analysis through experts It consists of"
-    publishedDateTime: 2021-08-25T06:45:00Z
-    webUrl: "https://www.openpr.com/news/2366422/deep-learning-in-manufacturing-market-2021-growth-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2366422/deep-learning-in-manufacturing-market-2021-growth-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2366422/deep-learning-in-manufacturing-market-2021-growth-analysis"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 3
+      name: Voice Newspaper
+      domain: voice-online.co.uk
+    quality: 14
+    images:
+      - url: "https://www.voice-online.co.uk/wp-content/uploads/2021/08/IMG_20210823_183541_718-e1629741145399.jpg"
+        width: 500
+        height: 499
+        isCached: true
 
 secured: "BdmhrOw2ZNnGQ2D5kbLhvko7JEwSr04o/Y2ybWs+OxGcqAaC3IJo4GvtuVFapmUptq+WMrgvP9ZkAq7YPFUdz4r7iOSFBmXiN9tb3m1P0o1otPT+QWOj0D9ottU0MIaoJN/JmsMQXCOWvHQDHzlX/FCJ7JNjfQl97XuSLklZJRdkYPPfIbXVWTzMhZozCwZBZIu226h+LCEY8s3ZaazeNpXd+uPR2seAEU94hUhSoLKr1tlEQnWToIZKZMhwZ4+c9IiRYE2b057gWhDVhuaWSCF6o362No7ey4tDzKMoE1+gv4NwjOxhpZ+1hEY7/KgDHouDrLRSwDn0eVJRSgDH6N7T1nyTtTAsL1cIuvqDZ7E=;dNJlcDJZYBNKcewJkLXGFQ=="
 ---

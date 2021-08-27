@@ -47,22 +47,6 @@ related:
         width: 799
         height: 548
         isCached: true
-  - title: "Ten federal agencies are expanding their use of facial recognition"
-    excerpt: "The Government Accountability Office has revealed in a new report that 10 federal agencies are planning to expand their use of facial recognition. In a survey involving 24 federal agencies on their use of facial recognition technology,"
-    publishedDateTime: 2021-08-26T18:24:00Z
-    webUrl: "https://www.engadget.com/ten-federal-agencies-expanding-facial-recognition-070044629.html"
-    ampWebUrl: "https://www.engadget.com/amp/ten-federal-agencies-expanding-facial-recognition-070044629.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ten-federal-agencies-expanding-facial-recognition-070044629.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-08/d6385430-0632-11ec-9d54-a4ebe312b944"
-        width: 5988
-        height: 3992
-        isCached: true
   - title: "Clearview AI wins a military facial recognition contract"
     excerpt: "Documents revealing that a criminal investigation unit of the U.S. Army is using Clearview AI's facial recognition subscription service have been published."
     publishedDateTime: 2021-08-25T19:10:00Z

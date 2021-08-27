@@ -338,6 +338,20 @@ related:
       name: Futurism
       domain: futurism.com
     quality: 39
+  - title: "Tesla Plans To Have Its Full Self-Driving Beta Ready For Public In Four Weeks"
+    excerpt: "Tesla plans to have its Full Self-Driving beta ready for the public in four weeks. Here are all the details on this."
+    publishedDateTime: 2021-08-26T15:11:00Z
+    webUrl: "https://www.redmondpie.com/tesla-plans-to-have-its-full-self-driving-beta-ready-for-public-in-four-weeks/"
+    type: article
+    provider:
+      name: Redmond Pie
+      domain: redmondpie.com
+    quality: 36
+    images:
+      - url: "https://cdn.redmondpie.com/wp-content/uploads/2021/07/tesla-fsd-1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Why the feds are investigating Tesla’s Autopilot and what that means for the future of self-driving cars"
     excerpt: "Tesla’s Autopilot uses cameras, radar and ultrasonic sensors to support two major features: Traffic-Aware Cruise Control and Autosteer."
     publishedDateTime: 2021-08-26T14:22:00Z
@@ -362,6 +376,6 @@ related:
       domain: morningstar.com
     quality: 15
 
-secured: "0kAh8P9vCEU8AupHtKfABgMaaaqkgEmTUBNzQ1G9K+31NXlWIFOwuKUj5aNYUGY6OlsEYuZ53Wj2+I5xYqjFono/jUPIIXIp32MR5R2iMDLq8sIhriUFH/70e26guWqbQh3mmuy2/VTydFbT6bP0We3t+bQwP/ADh2HYCTbesQ/qsFFvVqwGVr212PFUUXydLy2DLOf34TeWeQnReKZw1G7u37waz0wOtfw2E0fdtxYnULtTiYf0YOrDI7++ZJQmIzN3BcJkRHiMl2VqooynEIhNONxpMg8rOKDqP1HCvwaH/RwrotV0VRi35yK9gwgRMS8jYv2sf6r4ZQEFDNvB1zwcYUTShiBFa8NQydDLVBs=;sgUQdaWFL2tp3IZxRWghBw=="
+secured: "+fjv329CmZ6xKWAvZ8643k9cwAKRMuaAKKRCDJ5YfoPffHCrt8CtwYfJh0oCs+2xATvEEtjPSFg2ydIN+fYwgUTpgZUfzAx1LEkhArgMHNcAAzz8ZUg6eYZXuskrDlAVO5CwD5DkfmCTWb4j456eOwu7IMQNyQGKlJARNfxnU2w0VhFQhgiXoGp41kkOnAKvOZAy8lAlqqgLv5QsAFDTK7M3rNCqJfByMSGpaYoqA7a5Kpw/+Y4z1zRz1Cl19p+Abb3Hs4VyYSzelsnWEghrqoWVR5I+GoyO82MPPBUEaW/pMHnLp/+wYp1+BinkxyGzSDvD2fBHM8duQMshzO2fysiTyasrcEeuNRbZwvHaCOsb4obX5Xz+LPzH311hm79mkxp9tgKOscD40u5TCA6nNfbf5s41VG/BB1nWYnYOb2wxriVmK+4s2l59q5WMAg8cRe7V/lpX62s28I9y1fTm3nlUYMiHizzb6W+w4oHTffZOF4n19mehwon8b4nE8+DoiO8nrh5F0GDH9aUh3sP0yA==;jXLysEwwbHROxIN75WU8TQ=="
 ---
 

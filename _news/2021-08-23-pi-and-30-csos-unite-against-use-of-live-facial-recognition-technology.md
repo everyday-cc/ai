@@ -7,7 +7,7 @@ originalUrl: "https://www.privacyinternational.org/advocacy/4616/pi-and-30-csos-
 webUrl: "https://www.privacyinternational.org/advocacy/4616/pi-and-30-csos-unite-against-use-live-facial-recognition-technology"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       - url: "https://www.khmertimeskh.com/wp-content/uploads/2021/08/Op-Ed-Monday-Page-9-2.jpg"
         width: 750
         height: 440
-        isCached: true
-  - title: "Campaigners call for more recognition to mark International Day for the Remembrance of the Slave Trade and its Abolition"
-    excerpt: "Leading Black history campaigners are calling for more recognition for International Slavery Remembrance Day, which is being celebrated today in the UK and internationally. The United Nations Educational,"
-    publishedDateTime: 2021-08-23T19:26:00Z
-    webUrl: "https://www.voice-online.co.uk/news/2021/08/23/campaigners-call-for-more-recognition-to-mark-international-day-for-the-remembrance-of-the-slave-trade-and-its-abolition/"
-    type: article
-    provider:
-      name: Voice Newspaper
-      domain: voice-online.co.uk
-    quality: 14
-    images:
-      - url: "https://www.voice-online.co.uk/wp-content/uploads/2021/08/IMG_20210823_183541_718-e1629741145399.jpg"
-        width: 500
-        height: 499
         isCached: true
 
 secured: "z89Vz6XCNWAVsqmjBU+KBspH/hjBtudq8s4aaW1dY8s25obI+qRKQ+Q8VSPyPlfS/8oPWS5E88dWbzRFnIvNa/eQJIVQKX/bn3deXQPEUsCbClW3CU8IN92Shyj7tt1b72ABMlvmrfG6Var7KzHOsM5QrSE3Fo+aFZINdkVycZMBvy8nLoJvDLtsMoW0Jq3j97IqWmPFCyrHmmQs95/oo+oDdqbKZThuZw4pUVTkKUWFxaCFLI+3MElK9HNEnNnkEHRBBxjcMhIHAH813Are5+6xuSZPczrrajAXbUoSCEjAJF7rA/UE4gXOMcfiGODivxaTm5v/Zo7VVXRIFfux+W7bjxJX7SNjI13DfWAlZU8=;zmC2JBIqXTw60ASYqkqbZg=="

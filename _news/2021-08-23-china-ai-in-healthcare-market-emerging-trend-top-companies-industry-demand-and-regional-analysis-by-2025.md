@@ -141,17 +141,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 18
-  - title: "UK AI in Image Recognition Market Size, Share, Analysis, Applications, Growth Insight, Trends, Leaders, Services and Future Forecast - 2025"
-    excerpt: "UK AI in image recognition market is estimated to grow significantly at a CAGR of 28 4 during the forecast period UK is the third largest economy in Europe after Germany and France majorly owing to its trading power and"
-    publishedDateTime: 2021-08-23T07:47:00Z
-    webUrl: "https://www.openpr.com/news/2363154/uk-ai-in-image-recognition-market-size-share-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2363154/uk-ai-in-image-recognition-market-size-share-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2363154/uk-ai-in-image-recognition-market-size-share-analysis"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 5
   - title: "Deep Learning in Manufacturing Market 2021 Growth Analysis, Opportunities, Trends, Developments and Forecast to 2027 - NVIDIA (US), Intel (US)"
     excerpt: "The Global Deep Learning in Manufacturing market report from Market Intelligence Data aims to facilitate in depth information of the marketplace s definition potential and scope The document is prepared after enormous studies and analysis through experts It consists of"
     publishedDateTime: 2021-08-25T06:45:00Z

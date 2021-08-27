@@ -57,6 +57,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Zendesk acquires AI automation startup Cleverly to advance customer service"
+    excerpt: "Zendesk is looking to grow its customer service capabilities, and today it announced the acquisition of early-stage artificial intelligence startup Cleverly. Financial terms of the deal are not being publicly disclosed at this time and Cleverly has not been entirely public about the size of its"
+    publishedDateTime: 2021-08-26T20:43:00Z
+    webUrl: "https://techcrunch.com/2021/08/26/zendesk-acquires-ai-automation-startup-cleverly-to-advance-customer-service/"
+    ampWebUrl: "https://techcrunch.com/2021/08/26/zendesk-acquires-ai-automation-startup-cleverly-to-advance-customer-service/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/26/zendesk-acquires-ai-automation-startup-cleverly-to-advance-customer-service/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 85
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1173385998.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Level AI lands $13M Series A to build conversational intelligence for customer service"
     excerpt: "Level AI, an early stage startup from a former member of the Alexa product team, wants to help companies process customer service calls faster by understanding the interactions they’re having with customers in real time."
     publishedDateTime: 2021-08-25T13:44:00Z

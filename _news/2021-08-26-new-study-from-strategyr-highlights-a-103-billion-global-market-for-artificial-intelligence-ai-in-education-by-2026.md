@@ -58,6 +58,20 @@ related:
         width: 711
         height: 430
         isCached: true
+  - title: "Global Artificial Intelligence (AI) in Telecommunication Market to Reach $6.5 Billion by 2026"
+    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Telecommunication - Global Market Trajectory & Analytics\"."
+    publishedDateTime: 2021-08-26T23:38:00Z
+    webUrl: "https://www.mobilitytechzone.com/lte/news/2021/08/26/9438304.htm"
+    type: article
+    provider:
+      name: Mobility Techzone
+      domain: mobilitytechzone.com
+    quality: 41
+    images:
+      - url: "https://mma.prnewswire.com/media/1601557/MCP21191.jpg"
+        width: 400
+        height: 327
+        isCached: true
 
 secured: "jfgbTTlzEycuxmqNj/g2lukBtoNvH1RRjeX2fh3bC3rzVx0wc3x/24IA9Po2Z5QX+9RDzkTpsGwlYjcPuqUsEiRLl+NEMKTuK6StUi3d3dijKhrHtLJ07lxmeQK4aIJRx1LNqwwLTEFURsIIZ1Biih5j9SS0b5GSAoa2eU3x7aI8bnQiRV+MCOViKhQgFzabUKVsd3HTUZ1reN+gTgBFbnLuxoYCs0jeDXXPhFirLDpBG6STk2WJLDVczJirmyqoLYILeUcCIn18KF/Dr3L19Y/WdWzV+r1IgqnXJv+/q9LZIDWrZKwTfbSh6jjvrGUR5C84lhOVkwPw5DqjU8Y5sWOytRz6icmBtD73xS6VoMrgZQxm5Zi3aUSbGZSpWNHmRgcM0jYHbHX95UZvUYqgLit/wYJTv2tr6JMb+RKLzV1h2QT3RQ/a7xdjs25ijrgcMMQgafz9wTwpp8TttvuAMbkU4iCD0dlEG2NgNgNjMJjv6FEGH/5HUcW0iwhSpKlTVgKPjIhFfMCucyCK7hd9yQ==;2wnhMuTUzGaGYdajWsK8XQ=="
 ---

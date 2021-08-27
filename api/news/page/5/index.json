@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-08-24-mi-mix-4-brings-a-new-gen-xiaoai-translation-with-ai-subtitles.md",
+      "title": "Mi Mix 4 brings a new-gen Xiaoai Translation with AI subtitles",
+      "excerpt": "Xiaomi launched its latest Mix smartphone, Mi Mix 4. But did you know that Xiaomi’s latest smartphones come with an upgraded Xiaoai Translation offering a live AI subtitles feature? According to a recent post on Weibo,",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/08/23/mi-mix-4-brings-a-new-gen-xiaoai-translation-with-ai-subtitles/",
+      "originalUrl": "https://www.gizmochina.com/2021/08/23/mi-mix-4-brings-a-new-gen-xiaoai-translation-with-ai-subtitles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2021/08/Xiaomi-MIX-4-all-colors.jpg",
+          "width": 800,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-23T12:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-24-2-big-revelations-from-teslas-ai-day-event.md",
       "title": "2 Big Revelations From Tesla's AI Day Event",
       "excerpt": "Tesla management says it will extend its AI expertise to autonomous humanoid robots. Last Thursday, Tesla (NASDAQ:TSLA) hosted its AI Day event. Elon Musk has branded these presentations as a recruiting opportunity,",
@@ -217,7 +269,7 @@
       "originalUrl": "https://www.reuters.com/business/autos-transportation/secret-weapon-self-driving-car-startups-humans-2021-08-23/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -464,58 +516,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-why-emotion-recognition-ai-cant-reveal-how-we-feel.md",
-      "title": "Why emotion recognition AI can’t reveal how we feel",
-      "excerpt": "Thomas covers AI in all its iterations. Likes Werner Herzog films and Arsenal FC. Writer at Neural by TNW — Thomas covers AI in all its iterations. Likes Werner Herzog films and Arsenal FC. They found that people use different facial movements to communicate similar emotions.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/emotion-recognition-ai-cant-determine-how-people-feel",
-      "originalUrl": "https://thenextweb.com/news/emotion-recognition-ai-cant-determine-how-people-feel",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2FUntitled-design-12.jpg&signature=9484b0a25417f9c6eef95bb74ca53bfe",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-23T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     },

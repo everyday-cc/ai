@@ -24,6 +24,17 @@ images:
     height: 1196
     isCached: true
 
+related:
+  - title: "Bairong Inc. Announces 2021 Interim Results with Strong Financial Growth"
+    excerpt: "With the increasing customer demand comes after market recovery, Bairong Inc. (6608.HK, the \"Company\") reported a total revenue of RMB791 million in the first half of 2021, representing a year-on-year increase of 67%."
+    publishedDateTime: 2021-08-26T22:43:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-bairong-inc-announces-2021-interim-results-with-strong-/2021/08/26/9437697.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 18
+
 secured: "Tu1lL4Rsop/8cMMjUnvLkXcIpZMjmGwHfpfD0Uz6pOsUjTADNmiDjC86M7AdWf7maTRi8KVukze0T5DXb5MF3SFhJnvuUjRfYtAuxV/kdUKncXM1AyDy+zaqJfOeySGMs0B1BRguVIPb+qeX0EjZ440qdcMEdiLbIm2se7eVwfvazWrigoblxR0cvHlYzSuMJB+e+BAS4n3ecRhb8lT0CjVHkxIOULnzrSxR8BhQ5eR7WZC/qP9QPF3tCKYcIfGvfzthqzVQI8qgzHfJeYOu+TBc1kQcMGkEbaRI7XCl0ZYZ2Qfm34wccEpa0i6sx+EF8RS8KJyxNtsgfsaCacUfWKQx+elfZcMEyDaiS/du7Sg=;8xWd5tjZ/+To1938Q16iKA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2368006/artificial-intelligence-ai-in-edu
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2368006/artificial-intelligence-ai-in-education-market-next-big-thing"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://cdn.openpr.com/U/8/U826841762_g.jpg"
         width: 711
         height: 430
+        isCached: true
+  - title: "Global Artificial Intelligence (AI) in Telecommunication Market to Reach $6.5 Billion by 2026"
+    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Telecommunication - Global Market Trajectory & Analytics\"."
+    publishedDateTime: 2021-08-26T23:38:00Z
+    webUrl: "https://www.mobilitytechzone.com/lte/news/2021/08/26/9438304.htm"
+    type: article
+    provider:
+      name: Mobility Techzone
+      domain: mobilitytechzone.com
+    quality: 41
+    images:
+      - url: "https://mma.prnewswire.com/media/1601557/MCP21191.jpg"
+        width: 400
+        height: 327
         isCached: true
 
 secured: "TGrCuj0W0QIIKUjlobVXTHHiPHP94HFlLK7pVvAB9jcI1nhUa0563brdUabha8BD9M9s+sFfYkZ2YsffETkcHE4sd4Xku8hooPoosGjuH+WRd7rT29KN/JSLvrQPIlJQlWYcFt2nb7uC83v15Uk10acAjSU0WZX35QfiZgeKn5NnEpW16aiM6SIWW2IGWnEedQpThc3XmJwJqpsLrBvhh2Q7pZZincdDApGWP6NLBIp2Uz4mys8PTekU45B00JAeyEYGpnr8rfx6nl56ACubRyF7j6ivYCqFSlGC1ElEIZIYiBYOR9wAxsNwps1IXVYgchIWcmzz7VCdnai8Rfd9Ozhe9wB4tjM/EWWtR2s1mKsanuIWEBU5QO3bNgmgGhpaku5ubRl8yn4zuQW4ma7GypYILIq31JLmVgJuqpM5tyJndFUtoiBMW9AAiuET3Hlb1/dJc4u+8CIM4ePP5ZiTkVdoVBQQV4v/ImkCreIYPvTkd8hz0NsPF6He7U3ewc+5bwPNKGiscoyL2DUJ22DIGg==;7T3pK+Xk2BywuglNMU4KUg=="

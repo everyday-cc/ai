@@ -52,20 +52,6 @@ related:
         width: 1600
         height: 1109
         isCached: true
-  - title: "Campaigners call for more recognition to mark International Day for the Remembrance of the Slave Trade and its Abolition"
-    excerpt: "Leading Black history campaigners are calling for more recognition for International Slavery Remembrance Day, which is being celebrated today in the UK and internationally. The United Nations Educational,"
-    publishedDateTime: 2021-08-23T19:26:00Z
-    webUrl: "https://www.voice-online.co.uk/news/2021/08/23/campaigners-call-for-more-recognition-to-mark-international-day-for-the-remembrance-of-the-slave-trade-and-its-abolition/"
-    type: article
-    provider:
-      name: Voice Newspaper
-      domain: voice-online.co.uk
-    quality: 14
-    images:
-      - url: "https://www.voice-online.co.uk/wp-content/uploads/2021/08/IMG_20210823_183541_718-e1629741145399.jpg"
-        width: 500
-        height: 499
-        isCached: true
 
 secured: "uD8ix5a9gbGzPW1MRTB0ImtYRnj6HLTWCuMapRbQqzNI4tqnrCoZv3616vMnxCttZZi+zVBO3bGbgYVdm/gIg7DO11KdLNt1jvmQJ2wYK8Tne9BnbsSYxYsPdna5gXDEa+rFfz9cpce6yQV4cy2oA8RCeBaZnD9E8bYvPPzHOnMNygmCv/HnnsRtq9WRFdmRwv+rYLi/erYhA1sD1vJLvzAFOeEWemdaU3VgGYs1Mc5G9JSfpwGrm9SDJ+KGfkEdRSeHADdR6YXrHNV7oHb55IfM0vBirV7qnzBHu2/EX5E5osqv8024qrFl0/d7gbA5/EKpYaj206pHhBse6o3sS6OJ14+7iPaz8XTESnPu89I=;aDSG81YVhV3AjGlmeFJVZw=="
 ---

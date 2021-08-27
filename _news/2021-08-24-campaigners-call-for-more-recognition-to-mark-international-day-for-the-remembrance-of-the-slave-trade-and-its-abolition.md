@@ -25,48 +25,98 @@ images:
     isCached: true
 
 related:
-  - title: "PI and 30 CSOs unite against use of live facial recognition technology"
-    excerpt: "PI, together with 30 national and international civil society organisations (CSOs), release an open letter calling on Parliament and relevant stakeholders to halt and ban the use of live facial recognition technology (LFRT) by the police and private companies."
-    publishedDateTime: 2021-08-22T21:02:00Z
-    webUrl: "https://www.privacyinternational.org/advocacy/4616/pi-and-30-csos-unite-against-use-live-facial-recognition-technology"
+  - title: "Recognize celebrities in images and videos using Amazon Rekognition"
+    excerpt: "The celebrity recognition feature in Amazon Rekognition automatically recognizes tens of thousands of well-known personalities in images and videos using machine learning (ML). Celebrity recognition significantly reduces the repetitive manual effort required to tag produced media content and make it"
+    publishedDateTime: 2021-08-26T22:13:32Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/easily-recognize-celebrities-in-images-and-videos-using-amazon-rekognition/"
     type: article
     provider:
-      name: Privacy International
-      domain: privacyinternational.org
-    quality: 54
+      name: AWS
+      domain: aws.amazon.com
+    quality: 106
     images:
-      - url: "https://www.privacyinternational.org/sites/default/files/styles/teaser_large_x1/public/2021-07/etienne-girardet-CxTCcjUo2hM-unsplash2.png?itok=GcWDwORh"
-        width: 525
-        height: 295
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/26/ML-5386-IMG1.jpg"
+        width: 1645
+        height: 785
         isCached: true
-  - title: "Calls against use of live facial recognition tech in Britain grow, Parliament petitioned"
-    excerpt: "The use of Live Facial Recognition Technology in the United Kingdom, as well as plans for new deployment rules, is facing increasingly stiff scrutiny."
-    publishedDateTime: 2021-08-24T19:12:00Z
-    webUrl: "https://www.biometricupdate.com/202108/calls-against-use-of-live-facial-recognition-tech-in-britain-grow-parliament-petitioned"
+  - title: "Ten federal agencies are expanding their use of facial recognition"
+    excerpt: "The Government Accountability Office has revealed in a new report that 10 federal agencies are planning to expand their use of facial recognition. In a survey involving 24 federal agencies on their use of facial recognition technology,"
+    publishedDateTime: 2021-08-26T18:24:00Z
+    webUrl: "https://www.engadget.com/ten-federal-agencies-expanding-facial-recognition-070044629.html"
+    ampWebUrl: "https://www.engadget.com/amp/ten-federal-agencies-expanding-facial-recognition-070044629.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ten-federal-agencies-expanding-facial-recognition-070044629.html"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 45
+      name: Engadget
+      domain: engadget.com
+    quality: 89
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/11151135/biometric-identification-facial-recognition.jpg"
-        width: 1600
-        height: 1109
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-08/d6385430-0632-11ec-9d54-a4ebe312b944"
+        width: 5988
+        height: 3992
         isCached: true
-  - title: "AI Technology: A Disrupter to Teaching and Learning"
-    excerpt: "The COVID-19 pandemic has changed the game in education globally, with the adoption of e- learning no longer an option but a matter of survival for all educational institutions."
-    publishedDateTime: 2021-08-22T23:13:00Z
-    webUrl: "https://www.khmertimeskh.com/50920973/ai-technology-a-disrupter-to-teaching-and-learning/"
+  - title: "Why emotion recognition AI can’t reveal how we feel"
+    excerpt: "Thomas covers AI in all its iterations. Likes Werner Herzog films and Arsenal FC. Writer at Neural by TNW — Thomas covers AI in all its iterations. Likes Werner Herzog films and Arsenal FC. They found that people use different facial movements to communicate similar emotions."
+    publishedDateTime: 2021-08-23T14:30:00Z
+    webUrl: "https://thenextweb.com/news/emotion-recognition-ai-cant-determine-how-people-feel"
     type: article
     provider:
-      name: Khmer Times
-      domain: khmertimeskh.com
-    quality: 37
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 69
     images:
-      - url: "https://www.khmertimeskh.com/wp-content/uploads/2021/08/Op-Ed-Monday-Page-9-2.jpg"
-        width: 750
-        height: 440
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2FUntitled-design-12.jpg&signature=9484b0a25417f9c6eef95bb74ca53bfe"
+        width: 1280
+        height: 640
         isCached: true
+  - title: "Civil liberties groups demand ban on facial recognition technology"
+    excerpt: "A group of civil society bodies has called on the Government to ban facial recognition cameras, while accusing police and the Home Office of bypassing Parliament over guidance for the use of the technology."
+    publishedDateTime: 2021-08-23T16:45:00Z
+    webUrl: "https://www.irishnews.com/magazine/technology/2021/08/23/news/civil-liberties-groups-demand-ban-on-facial-recognition-technology-2425128/"
+    type: article
+    provider:
+      name: The Irish News
+      domain: irishnews.com
+    quality: 39
+    images:
+      - url: "https://image.assets.pressassociation.io/v2/image/production/d6e4131765fe04e05c81ba7daa1efc67Y29udGVudHNlYXJjaGFwaSwxNjI5NzgyNjgx/2.61056894.jpg?w=640"
+        width: 640
+        height: 434
+        isCached: true
+  - title: "Facial Recognition Tech Use Increasing Among Federal Agencies"
+    excerpt: "Use cases included criminal investigations, building security and access to digital assets like smartphones and security agency websites."
+    publishedDateTime: 2021-08-26T19:00:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2021/08/facial-recognition-tech-use-increasing-among-federal-agencies/184884/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 39
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2021/08/26/authentication_by_facial_recognition_biometric_security_system_picture_id1216416251/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Athreon Launches Front-End Speech Recognition Solution"
+    excerpt: "Athreon, a leading business and knowledge process outsourcing company, announced today the launch of its new front-end speech recognition solution for healthcare. Athreon's speech recognition empowers physicians to focus on patient care versus administrative,"
+    publishedDateTime: 2021-08-26T16:39:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-athreon-launches-front-end-speech-recognition-solution-/2021/08/26/9438228.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
+  - title: "UK AI in Image Recognition Market Size, Share, Analysis, Applications, Growth Insight, Trends, Leaders, Services and Future Forecast - 2025"
+    excerpt: "UK AI in image recognition market is estimated to grow significantly at a CAGR of 28 4 during the forecast period UK is the third largest economy in Europe after Germany and France majorly owing to its trading power and"
+    publishedDateTime: 2021-08-23T07:47:00Z
+    webUrl: "https://www.openpr.com/news/2363154/uk-ai-in-image-recognition-market-size-share-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2363154/uk-ai-in-image-recognition-market-size-share-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2363154/uk-ai-in-image-recognition-market-size-share-analysis"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 5
 
 secured: "o0SmeEAHLJso1VXVVU7trbUs822ITxtouwP8XzGQmbnP8AXNuA4b4ZmyFeKMOwN3NxUlGRt/sPuo/NGOrTmqa0fEdQ1K4+j96bu6IpiV9sFptgJJGJwc+dCLY0Vtu1m+BXf0P92d98ClUVYvXeglOTKQnzfyQenXdRLgDNq8vTDV1tsTAIP+/8LyVTE8sqVhKXJpdOQSrmFu5q699bPwB6wLyJ1h/nVeqLkz4efuZvTNSvrky4zGrJByNIDNrswzYqL2dUHMdOaa4fQlY5PaN3GFiQFcev8QEA+yzmrgHN4lPjU0kSxRh3SXXxejGsxmQJODt/vQXDqHcYp+9rgIINmQsrg50ZggUKpUHQaDrFtWMERH0mIzQhLB0K+Qjwc+PTduyj9Qxwgn1wu/twQ5EB02Cdl/W+FlTJaVCu/aqkkNt46cGc1PpbL5GOeWa2M4WKJVG0yUCVnE54gYfou0Na6biaKx4MGuUrhPcIZrbgPaH5vEAKIQnjYaNMLsmhSd9rwbaHyExTo5DlUqsx1kCg==;HlP6VY4n590K8WV6nZ5a+Q=="
 ---

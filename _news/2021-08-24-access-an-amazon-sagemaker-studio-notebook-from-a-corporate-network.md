@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/access-an-amazon-sag
 webUrl: "https://aws.amazon.com/blogs/machine-learning/access-an-amazon-sagemaker-studio-notebook-from-a-corporate-network/"
 type: article
 quality: 89
-heat: 99
+heat: 100
 published: true
 
 provider:

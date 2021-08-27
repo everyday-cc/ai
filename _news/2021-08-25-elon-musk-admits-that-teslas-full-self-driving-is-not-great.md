@@ -337,6 +337,20 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Tesla Plans To Have Its Full Self-Driving Beta Ready For Public In Four Weeks"
+    excerpt: "Tesla plans to have its Full Self-Driving beta ready for the public in four weeks. Here are all the details on this."
+    publishedDateTime: 2021-08-26T15:11:00Z
+    webUrl: "https://www.redmondpie.com/tesla-plans-to-have-its-full-self-driving-beta-ready-for-public-in-four-weeks/"
+    type: article
+    provider:
+      name: Redmond Pie
+      domain: redmondpie.com
+    quality: 36
+    images:
+      - url: "https://cdn.redmondpie.com/wp-content/uploads/2021/07/tesla-fsd-1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Why the feds are investigating Tesla’s Autopilot and what that means for the future of self-driving cars"
     excerpt: "Tesla’s Autopilot uses cameras, radar and ultrasonic sensors to support two major features: Traffic-Aware Cruise Control and Autosteer."
     publishedDateTime: 2021-08-26T14:22:00Z

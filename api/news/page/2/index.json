@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-26-velodyne-lidar-announces-multi-year-sales-agreement-with-renu-robotics.md",
+      "title": "Velodyne Lidar Announces Multi-Year Sales Agreement with Renu Robotics",
+      "excerpt": "Velodyne Lidar, Inc. (Nasdaq: VLDR, VLDRW) today announced a multi-year agreement to provide its Puck™ lidar sensors to Renu Robotics, an industry leader in autonomous vegetation management systems. Renu Robotics’ Renubot,",
+      "sourceUrl": null,
+      "webUrl": "https://gisuser.com/2021/08/velodyne-lidar-announces-multi-year-sales-agreement-with-renu-robotics/",
+      "originalUrl": "https://gisuser.com/2021/08/velodyne-lidar-announces-multi-year-sales-agreement-with-renu-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gisuser.com/wp-content/uploads/2019/01/GEOjobs1-1.png",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-25T15:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gisuser.com",
+        "domain": "gisuser.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2021-08-26-even-experts-are-too-quick-to-rely-on-ai-explanations-study-finds.md",
       "title": "Even experts are too quick to rely on AI explanations, study finds",
       "excerpt": "According to a new study, even simple explanations given by AI systems are enough to mislead even experts into trusting the systems.",
@@ -210,7 +254,7 @@
       "originalUrl": "https://www.openpr.com/news/2368006/artificial-intelligence-ai-in-education-market-next-big-thing",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -594,7 +638,7 @@
       "originalUrl": "https://www.buzzfeednews.com/article/ryanmac/clearview-ai-international-search-table",
       "featuredContent": null,
       "highlight": null,
-      "heat": 178,
+      "heat": 168,
       "tags": null,
       "images": [
         {
@@ -1149,7 +1193,7 @@
       "originalUrl": "https://thewest.com.au/news/health/facial-recognition-to-care-for-prem-babies-c-3777249",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1181,58 +1225,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-microsoft-teams-now-teachers-can-monitor-students-reading-fluency-with-ai.md",
-      "title": "Microsoft Teams: Now teachers can monitor students' reading fluency with AI",
-      "excerpt": "Reading Progress will help teachers build students' confidence and reading fluency at a time when face-to-face contact is less frequent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-teams-teachers-get-a-free-ai-tool-to-monitor-students-reading-fluency/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-teams-teachers-get-a-free-ai-tool-to-monitor-students-reading-fluency/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/08/25/ff85b97e-6397-4e80-9b0e-d4c6a7f94694/teams-reading-progress.jpg",
-          "width": 770,
-          "height": 433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-teams-teachers-get-a-free-ai-tool-to-monitor-students-reading-fluency/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-teams-teachers-get-a-free-ai-tool-to-monitor-students-reading-fluency/",
-      "publishedDateTime": "2021-08-24T22:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

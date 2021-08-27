@@ -3,8 +3,8 @@ category: news
 title: "TMMI Expands Into Artificial Intelligence In Co-Development Agreement With CodeBaby, Inc."
 excerpt: "Total Multimedia - TMM, Inc. (“TMMI” or the “Company”) (OTC PNK: TMMI). Web site:  TMMI’s Co-Development agreement with virtual character pioneer, CodeBaby, Inc. will propel the Company’s growth into diverse markets through the integration of several new technologies."
 publishedDateTime: 2021-08-19T13:01:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-f15820abd6a9a1e0e2798ca46528acf3"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-f15820abd6a9a1e0e2798ca46528acf3"
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-f15820abd6a9a1e0e2798ca46528acf3"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-f15820abd6a9a1e0e2798ca46528acf3"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 450
     isCached: true
 
-secured: "5CSSaW1wDdTjTqgL1h56lU7WF/bJS+kSkuGSb4p/pWl+nNI1hI5Yvzk1Kiav0N2rtjFw2AhBUnk38Px9jOtj1OwSsKWM5bkeyJ/RUFCOQh/B6EKIX4sYr9aIDwJw0dd9IXzgGXzPGdwXQY77GZP4wqkOfy7ofAi12y49Ys2yQmiDiXStRz28KQibAfZqRolpEUEHMXUA2KWW9lDENiJnjIZplV2j3j2zckC5NrfJ1LChXQo9FOHxI2OkNNnQb1bZNUiqHDPjqhUaC+sCf7nDxApooUwoLows2Jzynb0npx9FeyKh1leuKi4U6VBcQAVow3Hk4jbgoiS+MkPiL0qhqTtJYHLys/qeiKiQvHLDYhU=;xA/LkyjFUWwr8MiFitoLaw=="
+secured: "VpE5w1Fu0UYIrPJK4SHX2Atv2UjY+h27LDkya5wzfdIv7kKq/+/tYPvrLvvo2HfwN0dNcjcte4Pcn+CbQYMWEPNwf7JJ4fvPBxjouShl5/h9AFIbDSP/9uxMPb2fzVrwHFHf5xShJV0fZmtgLk4LEAlGczeBaSZi6b4+9v/x+iumFuAq7aPHZ2+OaPBMnnndQTsO8KKncdGRliNFkN6+BTtaQ1EvcfxQ0pZEC8dvq6Hj5C8yDcGZKpcV68gaH8wFzeJ9f48FqL4iv4ZNDN/YgVsAAtjKo+O3sLZVOZQPFykmT0xeuwJVUs1aO99gALFs1fBsr8K/Ymm7c9gBd4kfIbolmI5GSTO57uRV4WcNe+4=;ewqPhQdQF+po2FWoqIkHDw=="
 ---
 

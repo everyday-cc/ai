@@ -31,121 +31,96 @@ images:
     isCached: true
 
 related:
-  - title: "Clearview AI Offered Free Facial Recognition Trials To Police All Around The World"
-    excerpt: "As of February 2020, 88 law enforcement and government-affiliated agencies in 24 countries outside the United States have tried to use controversial facial recognition technology Clearview AI, according to a BuzzFeed News investigation."
-    publishedDateTime: 2021-08-25T15:25:00Z
-    webUrl: "https://www.buzzfeednews.com/article/ryanmac/clearview-ai-international-search-table"
-    ampWebUrl: "https://www.buzzfeednews.com/amphtml/ryanmac/clearview-ai-international-search-table"
-    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/ryanmac/clearview-ai-international-search-table"
+  - title: "Recognize celebrities in images and videos using Amazon Rekognition"
+    excerpt: "The celebrity recognition feature in Amazon Rekognition automatically recognizes tens of thousands of well-known personalities in images and videos using machine learning (ML). Celebrity recognition significantly reduces the repetitive manual effort required to tag produced media content and make it"
+    publishedDateTime: 2021-08-26T22:13:32Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/easily-recognize-celebrities-in-images-and-videos-using-amazon-rekognition/"
     type: article
     provider:
-      name: BuzzFeed News
-      domain: buzzfeednews.com
-    quality: 98
+      name: AWS
+      domain: aws.amazon.com
+    quality: 106
     images:
-      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2021-07/30/15/enhanced/81bd535b1926/anigif_longform-original-4168-1627660303-22.gif?crop=799:548;0,0"
-        width: 799
-        height: 548
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/26/ML-5386-IMG1.jpg"
+        width: 1645
+        height: 785
         isCached: true
-  - title: "UK Government Accused Of Sneaking Through New Live Facial Recognition Rules"
-    excerpt: "More than 30 civil liberties groups are accusing the UK Home Office and police of bypassing Parliament to introduce live facial recognition technology (LFRT)."
-    publishedDateTime: 2021-08-23T11:22:00Z
-    webUrl: "https://www.forbes.com/sites/emmawoollacott/2021/08/23/uk-government-accused-of-sneaking-through-new-live-facial-recognition-rules/"
-    ampWebUrl: "https://www.forbes.com/sites/emmawoollacott/2021/08/23/uk-government-accused-of-sneaking-through-new-live-facial-recognition-rules/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2021/08/23/uk-government-accused-of-sneaking-through-new-live-facial-recognition-rules/amp/"
+  - title: "Why emotion recognition AI can’t reveal how we feel"
+    excerpt: "Thomas covers AI in all its iterations. Likes Werner Herzog films and Arsenal FC. Writer at Neural by TNW — Thomas covers AI in all its iterations. Likes Werner Herzog films and Arsenal FC. They found that people use different facial movements to communicate similar emotions."
+    publishedDateTime: 2021-08-23T14:30:00Z
+    webUrl: "https://thenextweb.com/news/emotion-recognition-ai-cant-determine-how-people-feel"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 69
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6123848325385b2b21e3c8cd%2F0x0.jpg"
-        width: 1200
-        height: 754
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2FUntitled-design-12.jpg&signature=9484b0a25417f9c6eef95bb74ca53bfe"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Clearview AI wins a military facial recognition contract"
-    excerpt: "Documents revealing that a criminal investigation unit of the U.S. Army is using Clearview AI's facial recognition subscription service have been published."
-    publishedDateTime: 2021-08-25T19:10:00Z
-    webUrl: "https://www.biometricupdate.com/202108/clearview-ai-wins-a-military-facial-recognition-contract"
+  - title: "Civil liberties groups demand ban on facial recognition technology"
+    excerpt: "A group of civil society bodies has called on the Government to ban facial recognition cameras, while accusing police and the Home Office of bypassing Parliament over guidance for the use of the technology."
+    publishedDateTime: 2021-08-23T16:45:00Z
+    webUrl: "https://www.irishnews.com/magazine/technology/2021/08/23/news/civil-liberties-groups-demand-ban-on-facial-recognition-technology-2425128/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 54
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
-        width: 1800
-        height: 734
-        isCached: true
-  - title: "US government agencies plan to increase their use of facial recognition technology"
-    excerpt: "A new survey shows the controversial systems are poised to play an even bigger role in federal business. A 90-page report published Tuesday by the US Government Accountability Office (GAO) details how federal agencies currently use, and plan to expand ..."
-    publishedDateTime: 2021-08-25T00:37:00Z
-    webUrl: "https://www.technologyreview.com/2021/08/24/1032967/us-government-agencies-plan-to-increase-their-use-of-facial-recognition-technology/"
-    ampWebUrl: "https://www.technologyreview.com/2021/08/24/1032967/us-government-agencies-plan-to-increase-their-use-of-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/08/24/1032967/us-government-agencies-plan-to-increase-their-use-of-facial-recognition-technology/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 53
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/08/AP_20176661952737.jpg?w=2247"
-        width: 2247
-        height: 1498
-        isCached: true
-  - title: "GAO counts facial recognition R&D at 10 agencies"
-    excerpt: "At least 10 U.S. government agencies are undertaking research and development work into facial recognition technology, according to a new report by the Governmental Accountability Office. The new study,"
-    publishedDateTime: 2021-08-25T18:47:00Z
-    webUrl: "https://www.fedscoop.com/gao-counts-facial-recognition-rd-at-10-agencies/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
+      name: The Irish News
+      domain: irishnews.com
     quality: 39
     images:
-      - url: "https://s3.amazonaws.com/sng-global-web-assets/logo/Favicon_FS.png"
-        width: 629
-        height: 607
+      - url: "https://image.assets.pressassociation.io/v2/image/production/d6e4131765fe04e05c81ba7daa1efc67Y29udGVudHNlYXJjaGFwaSwxNjI5NzgyNjgx/2.61056894.jpg?w=640"
+        width: 640
+        height: 434
         isCached: true
-  - title: "UK: Live facial recognition technology should not be used in public spaces"
-    excerpt: "Live Facial Recognition Technology should not be used in public spaces We, the undersigned civil society organisations, are calling on Parliament and relevant stakeholders to halt and ban the use of live facial recognition technology (LRFT) by the police and private companies entirely,"
-    publishedDateTime: 2021-08-25T16:32:00Z
-    webUrl: "https://www.statewatch.org/news/2021/august/uk-live-facial-recognition-technology-should-not-be-used-in-public-spaces/"
+  - title: "Facial Recognition Tech Use Increasing Among Federal Agencies"
+    excerpt: "Use cases included criminal investigations, building security and access to digital assets like smartphones and security agency websites."
+    publishedDateTime: 2021-08-26T19:00:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2021/08/facial-recognition-tech-use-increasing-among-federal-agencies/184884/"
     type: article
     provider:
-      name: Statewatch
-      domain: statewatch.org
-    quality: 37
+      name: Nextgov
+      domain: nextgov.com
+    quality: 39
     images:
-      - url: "https://www.statewatch.org/media/2681/uk-frt.jpg"
-        width: 1200
-        height: 800
+      - url: "https://cdn.nextgov.com/media/img/cd/2021/08/26/authentication_by_facial_recognition_biometric_security_system_picture_id1216416251/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
-  - title: "Federal government to expand use of facial recognition despite growing concerns"
-    excerpt: "The GAO said several federal agencies, including the Justice Department, the Air Force and Immigration and Customs Enforcement, reported that they had used facial recognition software from Clearview AI,"
-    publishedDateTime: 2021-08-26T06:52:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/federal-government-to-expand-use-of-facial-recognition-despite-growing-concerns/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/federal-government-to-expand-use-of-facial-recognition-despite-growing-concerns/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/federal-government-to-expand-use-of-facial-recognition-despite-growing-concerns/?amp=1"
+  - title: "Athreon Launches Front-End Speech Recognition Solution"
+    excerpt: "Athreon, a leading business and knowledge process outsourcing company, announced today the launch of its new front-end speech recognition solution for healthcare. Athreon's speech recognition empowers physicians to focus on patient care versus administrative,"
+    publishedDateTime: 2021-08-26T16:39:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-athreon-launches-front-end-speech-recognition-solution-/2021/08/26/9438228.htm"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 35
-  - title: "Software log shows Dutch police used controversial facial recognition software"
-    excerpt: "A leaked software log from the debated facial recognition software Clearview AI showed that Dutch police officers used the program to identify suspects, RD reported. In April 2020, Minister of Justice Ferd Grapperhaus denied that Dutch authorities used the software."
-    publishedDateTime: 2021-08-26T14:55:00Z
-    webUrl: "https://nltimes.nl/2021/08/26/software-log-shows-dutch-police-used-controversial-facial-recognition-software"
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
+  - title: "Campaigners call for more recognition to mark International Day for the Remembrance of the Slave Trade and its Abolition"
+    excerpt: "Leading Black history campaigners are calling for more recognition for International Slavery Remembrance Day, which is being celebrated today in the UK and internationally. The United Nations Educational,"
+    publishedDateTime: 2021-08-23T19:26:00Z
+    webUrl: "https://www.voice-online.co.uk/news/2021/08/23/campaigners-call-for-more-recognition-to-mark-international-day-for-the-remembrance-of-the-slave-trade-and-its-abolition/"
     type: article
     provider:
-      name: NL Times
-      domain: nltimes.nl
-    quality: 35
+      name: Voice Newspaper
+      domain: voice-online.co.uk
+    quality: 14
     images:
-      - url: "https://nltimes.nl/sites/nltimes.nl/files/styles/news_article_full/public/2021-03/Depositphotos_160897874_l-2015.jpg?h=56d0ca2e"
-        width: 837
-        height: 462
+      - url: "https://www.voice-online.co.uk/wp-content/uploads/2021/08/IMG_20210823_183541_718-e1629741145399.jpg"
+        width: 500
+        height: 499
         isCached: true
+  - title: "UK AI in Image Recognition Market Size, Share, Analysis, Applications, Growth Insight, Trends, Leaders, Services and Future Forecast - 2025"
+    excerpt: "UK AI in image recognition market is estimated to grow significantly at a CAGR of 28 4 during the forecast period UK is the third largest economy in Europe after Germany and France majorly owing to its trading power and"
+    publishedDateTime: 2021-08-23T07:47:00Z
+    webUrl: "https://www.openpr.com/news/2363154/uk-ai-in-image-recognition-market-size-share-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2363154/uk-ai-in-image-recognition-market-size-share-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2363154/uk-ai-in-image-recognition-market-size-share-analysis"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 5
 
 secured: "ldFZv5otpDqsRTavruK2p+mHyy/S6D98FuoruKa6+YopcUfkOXxGrGG8792l/FkTUEAnt6cHWV/96ZBZVvrLGmdXB/WYWcyUNKHhybR3rMXiuI2mhEkm+wVuVONguSpKRF8i97oI+en7B3JqYE4MxzhfsxMu79ax3iKxXmYUlisyn3GjplACc2n+OGqVaamH6lKi0O/aU5yeDMV1YsfxKh8MUr9pUKzINAhDR546M6bsbLehCP1PhOrpJftxmQWileudUIhGA13u51kGVTmw0HYOQVrqSPS87+McR/NJIXVOxi2JEQW8Tkbhn1P15hSwk4N4MlPBklMo0Ttjo5vA+A6Zi940onuXuD5MPvBpJM5HbF5rCDDjC9PfFw7R0ak3gnZm1fzuPYJ8TrUxJTJGCwI3PYC+1qYo1NY3tuVVDGFeR03ay14oqr/1ausW0wFSd2cxBiNW4AA/ulU9yVJw9fn+XMae2cV9ZyCZF0hWh7zNUx+ihkZ3TgMRRCow80e/ecRyTjZORJkiBKsDELraYQ==;OcT3a1XqElGmJ0+GZrtGMQ=="
 ---

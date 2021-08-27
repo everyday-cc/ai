@@ -1,28 +1,30 @@
 ---
 category: news
 title: "AI algorithm solves structural biology challenges"
-excerpt: "Stanford researchers develop machine learning methods that accurately predict the 3D shapes of drug targets and other important biological molecules, even when only limited data is available."
-publishedDateTime: 2021-08-26T21:26:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/926246"
-webUrl: "https://www.eurekalert.org/news-releases/926246"
+excerpt: "Determining the 3-D shapes of biological molecules is one of the hardest problems in modern biology and medical discovery. Companies and research institutions often spend millions of dollars to determine a molecular structure—and even such massive efforts are frequently unsuccessful."
+publishedDateTime: 2021-08-26T18:00:00Z
+originalUrl: "https://phys.org/news/2021-08-ai-algorithm-biology.html"
+webUrl: "https://phys.org/news/2021-08-ai-algorithm-biology.html"
+ampWebUrl: "https://phys.org/news/2021-08-ai-algorithm-biology.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-08-ai-algorithm-biology.amp"
 type: article
-quality: 37
-heat: 37
+quality: 57
+heat: 57
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - AI
 
 images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/f03200c0-a855-4988-b001-a2a50c8c9950/Rendition/low-res/Content/Public"
-    width: 550
-    height: 700
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/ai-algorithm-solves-st.jpg"
+    width: 2475
+    height: 3150
     isCached: true
 
-secured: "Wi1A1V7QEVF2LRWPcs9J+tApcDWUTAz/oLh4gjezLMa8RuJ4PpFxnVJWrUHDvEIEz+34++ydGfr4kLLV7dgQ+SJub0JdgsjRs0nul7nyqcipHXdObOCQe4oX5rMhEQULQjg4llayD2Pd73LOusZ7O0FVs8ovcOYQdQAGoSwgI2x5mXxzRjLjtlGwtq5m1ABy2+pRC8zKEregebgaBJIsWEVHggTr+EJ2pfETo6xFHOzfpE3awfaJ/SlUjPFphb27au+vrb6Zwoqh+6/Bjn6c+Fh1wwpMSkAEM7aPXgX1QASu75nv7inpRAhJHjzlLTh09s3NDGg0tKqnOkULq4RNDFKJuiZJC8i6GinEnhuu6vM=;eFGDltOyHrR15h9hWZJH/g=="
+secured: "O6AmPwzz/m/Yk92x2Z3oT3+TBOOIZM8vMi2VIqARZE5MNzp7Fg1HGoXO1fDqQaWjhR0u6YiN4qdQNKeFmhoYiN26RKzmfo6q6gksq5rV6eFc9UE7ZwpGKyMbmFt8cFJ9qPt0yaBfhoySlmtMD/qSU0xkurTPvt4vzksrRipcp7INdtXwLdG9teTx2yV6L+9yCdUHJMfTSOok8sRr9M2A+wSByj4Ql0ohg5hC+P8HPRes78VC2U43tmBcHfAs/zODqPkTyZeN1mQETxagbGd3Xd7ghJFZAcm1preQso46YMjxZr7GVC2LpexDGpa5RqVV59liUdcuNo51CySSOOqLAMR/dNfofdvn4NiybJl54pE=;yxOLxnM4dZlzRRfin+dA6Q=="
 ---
 

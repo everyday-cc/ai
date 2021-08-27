@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/24/alethea-ai-raises-16m-in-private-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/24/alethea-ai-raises-16m-in-private-token-sale-for-intelligent-nfts-for-the-metaverse/amp/"
 type: article
 quality: 181
-heat: 184
+heat: 181
 published: true
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/killer-robots-easier-for-ai-erase-mind
 webUrl: "https://thenextweb.com/news/killer-robots-easier-for-ai-erase-minds-steal-bodies"
 type: article
 quality: 73
-heat: 75
+heat: 73
 published: true
 
 provider:

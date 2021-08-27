@@ -2,6 +2,57 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-08-12-artificial-intelligence-for-social-inclusion-technologies-and-necessary-steps.md",
+      "title": "Artificial Intelligence For Social Inclusion: Technologies And Necessary Steps",
+      "excerpt": "For those who develop technology, it is essential not only to think about usability but increasingly about accessibility.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/12/artificial-intelligence-for-social-inclusion-technologies-and-necessary-steps/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/12/artificial-intelligence-for-social-inclusion-technologies-and-necessary-steps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61140c2e210c118b1901925f%2F0x0.jpg",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/12/artificial-intelligence-for-social-inclusion-technologies-and-necessary-steps/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/12/artificial-intelligence-for-social-inclusion-technologies-and-necessary-steps/amp/",
+      "publishedDateTime": "2021-08-12T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-12-bell-5g-powers-tiny-mile-food-delivery-robots-in-downtown-toronto.md",
       "title": "Bell 5G powers Tiny Mile food delivery robots in downtown Toronto",
       "excerpt": "Canadian AI tech start-up leveraging Bell 5G to deliver food to downtown residents MONTRÉAL,  /CNW Telbec/ - Bell today announced a",
@@ -1095,49 +1146,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-an-introduction-to-decision-tree-and-ensemble-methods.md",
-      "title": "An Introduction to Decision Tree and Ensemble Methods",
-      "excerpt": "For more details check here. Before we get into code, we would spin an Amazon SageMaker Notebook, it’s a fully managed ML compute instance running the Jupyter Notebook App. It manages creating the instance and related resources for us, we are going to ...",
-      "sourceUrl": null,
-      "webUrl": "https://opendatascience.com/an-introduction-to-decision-tree-and-ensemble-methods/",
-      "originalUrl": "https://opendatascience.com/an-introduction-to-decision-tree-and-ensemble-methods/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://opendatascience.com/wp-content/uploads/2021/08/image31.png",
-          "width": 640,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-11T12:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Open Data Science",
-        "domain": "opendatascience.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

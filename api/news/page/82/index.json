@@ -2,6 +2,49 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2021-06-29-pixelmator-pro-gains-a-crop-tool-powered-by-machine-learning-and-more.md",
+      "title": "Pixelmator Pro gains a crop tool powered by machine learning, and more",
+      "excerpt": "Pixelmator Pro has been updated with support for a new machine learning-powered crop tool and more. The new update is free for existing Pixelmator users. Pixelmator Pro has a new update in the App Store and it's one that you won't want to miss out on.",
+      "sourceUrl": null,
+      "webUrl": "https://www.imore.com/pixelmator-pro-gains-crop-tool-powered-machine-learning-and-more",
+      "originalUrl": "https://www.imore.com/pixelmator-pro-gains-crop-tool-powered-machine-learning-and-more",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/05/pixelmator-pro-on-macbook-pro.jpg",
+          "width": 800,
+          "height": 468,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.imore.com/pixelmator-pro-gains-crop-tool-powered-machine-learning-and-more?amp",
+      "cdnAmpWebUrl": "https://www-imore-com.cdn.ampproject.org/c/s/www.imore.com/pixelmator-pro-gains-crop-tool-powered-machine-learning-and-more?amp",
+      "publishedDateTime": "2021-06-29T05:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "iMore",
+        "domain": "imore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-29-diwo-awarded-six-new-patents-to-deliver-advanced-decision-intelligence-to-enterprises.md",
       "title": "diwo Awarded Six New Patents to Deliver Advanced Decision Intelligence to Enterprises",
       "excerpt": "ANN ARBOR, Mich.,  /PRNewswire/ -- diwo today announced that it was awarded six new patents in cognitive process and opportunity. These innovations are already part of the foundation of the company's artificial intelligence (AI)-based advisor for enterprise decisions,",
@@ -1142,50 +1185,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-fighting-fires-and-floods-with-robotics-ai-and-iot.md",
-      "title": "Fighting Fires and Floods with Robotics, AI, and IoT",
-      "excerpt": "In collaboration with Karen Panetta, an IEEE fellow and dean of Graduate Education at Tufts University’s School of Engineering, the department is using AI for object recognition. The goal is to be able to use a drone or robot that can locate objects in a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation/fighting-fires-and-floods-robotics-ai-and-iot",
-      "originalUrl": "https://www.designnews.com/automation/fighting-fires-and-floods-robotics-ai-and-iot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Feature_0.png",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

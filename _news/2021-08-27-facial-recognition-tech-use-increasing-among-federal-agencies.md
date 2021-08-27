@@ -25,49 +25,49 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition to care for prem babies"
-    excerpt: "University of South Australia researchers have successfully developed a world-first camera system to monitor the vital signs of premature babies."
-    publishedDateTime: 2021-08-25T05:32:00Z
-    webUrl: "https://thewest.com.au/news/health/facial-recognition-to-care-for-prem-babies-c-3777249"
-    ampWebUrl: "https://thewest.com.au/news/health/facial-recognition-to-care-for-prem-babies-c-3777249.amp"
-    cdnAmpWebUrl: "https://thewest-com-au.cdn.ampproject.org/c/s/thewest.com.au/news/health/facial-recognition-to-care-for-prem-babies-c-3777249.amp"
+  - title: "Recognize celebrities in images and videos using Amazon Rekognition"
+    excerpt: "The celebrity recognition feature in Amazon Rekognition automatically recognizes tens of thousands of well-known personalities in images and videos using machine learning (ML). Celebrity recognition significantly reduces the repetitive manual effort required to tag produced media content and make it"
+    publishedDateTime: 2021-08-26T22:13:32Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/easily-recognize-celebrities-in-images-and-videos-using-amazon-rekognition/"
     type: article
     provider:
-      name: The West Australian
-      domain: thewest.com.au
-    quality: 59
+      name: AWS
+      domain: aws.amazon.com
+    quality: 106
     images:
-      - url: "https://images.thewest.com.au/publication/C-3777249/ad21f7545de75e229ac117fd2463ea06a59c1a2a-16x9-x0y0w1280h720.jpg?imwidth=1200"
-        width: 1200
-        height: 675
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/26/ML-5386-IMG1.jpg"
+        width: 1645
+        height: 785
         isCached: true
-  - title: "Civil liberties groups demand total ban on facial recognition technology"
-    excerpt: "Amnesty International, Liberty and Privacy International join more than 30 organisations warning that the police, Home Office, and councils are misusing the intrusive technology"
-    publishedDateTime: 2021-08-23T17:08:00Z
-    webUrl: "https://morningstaronline.co.uk/article/b/civil-liberties-groups-demand-total-ban-on-facial-recognition-technology"
+  - title: "Ten federal agencies are expanding their use of facial recognition"
+    excerpt: "The Government Accountability Office has revealed in a new report that 10 federal agencies are planning to expand their use of facial recognition. In a survey involving 24 federal agencies on their use of facial recognition technology,"
+    publishedDateTime: 2021-08-26T18:24:00Z
+    webUrl: "https://www.engadget.com/ten-federal-agencies-expanding-facial-recognition-070044629.html"
+    ampWebUrl: "https://www.engadget.com/amp/ten-federal-agencies-expanding-facial-recognition-070044629.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ten-federal-agencies-expanding-facial-recognition-070044629.html"
     type: article
     provider:
-      name: Morning Star
-      domain: morningstaronline.co.uk
-    quality: 40
+      name: Engadget
+      domain: engadget.com
+    quality: 89
     images:
-      - url: "https://morningstaronline.co.uk/sites/default/files/face%20police.jpg"
-        width: 1185
-        height: 585
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-08/d6385430-0632-11ec-9d54-a4ebe312b944"
+        width: 5988
+        height: 3992
         isCached: true
-  - title: "Civil liberties groups call for facial recognition ban"
-    excerpt: "A coalition of groups advocating civil liberties has demanded an outright ban on the use of live facial recognition technology (LFRT), while accusing the Home Office and law enforcement of bypassing Parliament over guidance for its use."
-    publishedDateTime: 2021-08-23T12:32:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2021/08/civil-liberties-groups-call-for-facial-recognition-ban/"
+  - title: "Why emotion recognition AI can’t reveal how we feel"
+    excerpt: "Thomas covers AI in all its iterations. Likes Werner Herzog films and Arsenal FC. Writer at Neural by TNW — Thomas covers AI in all its iterations. Likes Werner Herzog films and Arsenal FC. They found that people use different facial movements to communicate similar emotions."
+    publishedDateTime: 2021-08-23T14:30:00Z
+    webUrl: "https://thenextweb.com/news/emotion-recognition-ai-cant-determine-how-people-feel"
     type: article
     provider:
-      name: IET
-      domain: theiet.org
-    quality: 39
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 69
     images:
-      - url: "https://eandt.theiet.org/media/5303/dreamstime_xxl_98532532.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=131920284040000000"
-        width: 1200
-        height: 450
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2FUntitled-design-12.jpg&signature=9484b0a25417f9c6eef95bb74ca53bfe"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Civil liberties groups demand ban on facial recognition technology"
     excerpt: "A group of civil society bodies has called on the Government to ban facial recognition cameras, while accusing police and the Home Office of bypassing Parliament over guidance for the use of the technology."
@@ -83,48 +83,40 @@ related:
         width: 640
         height: 434
         isCached: true
-  - title: "SA trials facial recognition for home quarantine"
-    excerpt: "South Australia is trialing an app that will monitor people who are in home quarantine by checking geo-location data and scanning their faces. The trial, which began on Monday, allows around 50 South Australian residents returning from interstate to conduct their 14 days of mandatory quarantine from home."
-    publishedDateTime: 2021-08-24T01:58:00Z
-    webUrl: "https://ia.acs.org.au/article/2021/sa-trials-facial-recognition-for-home-quarantine.html"
+  - title: "Athreon Launches Front-End Speech Recognition Solution"
+    excerpt: "Athreon, a leading business and knowledge process outsourcing company, announced today the launch of its new front-end speech recognition solution for healthcare. Athreon's speech recognition empowers physicians to focus on patient care versus administrative,"
+    publishedDateTime: 2021-08-26T16:39:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-athreon-launches-front-end-speech-recognition-solution-/2021/08/26/9438228.htm"
     type: article
     provider:
-      name: acs.org.au
-      domain: acs.org.au
-    quality: 39
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2021/facial%20recognition%20app.jpg"
-        width: 789
-        height: 444
-        isCached: true
-  - title: "DoD, DHS vet facial recognition tools for reliability in effort to build trust"
-    excerpt: "But first, both agencies are taking steps to vet the security and reliability of the facial recognition tools they’re using, in order to build public trust in these tools and address concerns from Congress."
-    publishedDateTime: 2021-08-25T14:28:00Z
-    webUrl: "https://federalnewsnetwork.com/technology-main/2021/08/dod-dhs-vet-facial-recognition-tools-for-reliability-in-push-to-build-trust/"
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
+  - title: "Campaigners call for more recognition to mark International Day for the Remembrance of the Slave Trade and its Abolition"
+    excerpt: "Leading Black history campaigners are calling for more recognition for International Slavery Remembrance Day, which is being celebrated today in the UK and internationally. The United Nations Educational,"
+    publishedDateTime: 2021-08-23T19:26:00Z
+    webUrl: "https://www.voice-online.co.uk/news/2021/08/23/campaigners-call-for-more-recognition-to-mark-international-day-for-the-remembrance-of-the-slave-trade-and-its-abolition/"
     type: article
     provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 35
+      name: Voice Newspaper
+      domain: voice-online.co.uk
+    quality: 14
     images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2019/05/Facial_Recognition_Backlash_78584.jpg"
-        width: 1648
-        height: 1080
+      - url: "https://www.voice-online.co.uk/wp-content/uploads/2021/08/IMG_20210823_183541_718-e1629741145399.jpg"
+        width: 500
+        height: 499
         isCached: true
-  - title: "Researchers develop computer vision system that can detect babies’ faces while monitoring their vital signs"
-    excerpt: "University of South Australia researchers have developed a computer vision system that can automatically detect a tiny baby’s face in a hospital bed and remotely monitor its vital signs from a ..."
-    publishedDateTime: 2021-08-25T02:04:00Z
-    webUrl: "https://itwire.com/health/researchers-develop-computer-vision-system-that-can-detect-babies’-faces-while-monitoring-their-vital-signs.html"
+  - title: "UK AI in Image Recognition Market Size, Share, Analysis, Applications, Growth Insight, Trends, Leaders, Services and Future Forecast - 2025"
+    excerpt: "UK AI in image recognition market is estimated to grow significantly at a CAGR of 28 4 during the forecast period UK is the third largest economy in Europe after Germany and France majorly owing to its trading power and"
+    publishedDateTime: 2021-08-23T07:47:00Z
+    webUrl: "https://www.openpr.com/news/2363154/uk-ai-in-image-recognition-market-size-share-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2363154/uk-ai-in-image-recognition-market-size-share-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2363154/uk-ai-in-image-recognition-market-size-share-analysis"
     type: article
     provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 21
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/d6e9a99bcc506a7f9bc937a9775af303_M.jpg"
-        width: 375
-        height: 272
-        isCached: true
+      name: openpr.com
+      domain: openpr.com
+    quality: 5
 
 secured: "JI8Jqb3I3Obeqhuw4aggHZgGAcSdLJ/h+65omfS2hbbJfgp3yNwRf0abc29RqUTI1s1IorkKKCbKux8Qo7uYO5on/jLDlWJG3f9t0dtwKLOEEjeNLCv4Ljqeyu5oOjobR3miDBmQRiiDrdzfZG2ZhGePCdqMBMq8VF7yKjWcz88TeyNSel6u23MvPNi6ziS415xdpFPk3R+ldnRmeg9almiIRRJjeBmCEBWyWx9EC7X5CfXTEiBidLmmpU1wwCJYM0FNNxFL2Drz91yqOcrOl0eZEukrw2xC0zhaIN+7I/YxojFU20HiGvl5Mek2nz+LIIy63fGKeXCCnBqE9B/0lsBwmDG0sU4S8dbGWBwM4g4=;sZdiI/uVgTfJB3e8J2GOeA=="
 ---

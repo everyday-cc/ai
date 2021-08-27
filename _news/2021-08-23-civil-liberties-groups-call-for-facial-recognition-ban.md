@@ -55,20 +55,6 @@ related:
         width: 1185
         height: 585
         isCached: true
-  - title: "Civil liberties groups demand ban on facial recognition technology"
-    excerpt: "A group of civil society bodies has called on the Government to ban facial recognition cameras, while accusing police and the Home Office of bypassing Parliament over guidance for the use of the technology."
-    publishedDateTime: 2021-08-23T16:45:00Z
-    webUrl: "https://www.irishnews.com/magazine/technology/2021/08/23/news/civil-liberties-groups-demand-ban-on-facial-recognition-technology-2425128/"
-    type: article
-    provider:
-      name: The Irish News
-      domain: irishnews.com
-    quality: 39
-    images:
-      - url: "https://image.assets.pressassociation.io/v2/image/production/d6e4131765fe04e05c81ba7daa1efc67Y29udGVudHNlYXJjaGFwaSwxNjI5NzgyNjgx/2.61056894.jpg?w=640"
-        width: 640
-        height: 434
-        isCached: true
   - title: "SA trials facial recognition for home quarantine"
     excerpt: "South Australia is trialing an app that will monitor people who are in home quarantine by checking geo-location data and scanning their faces. The trial, which began on Monday, allows around 50 South Australian residents returning from interstate to conduct their 14 days of mandatory quarantine from home."
     publishedDateTime: 2021-08-24T01:58:00Z
@@ -83,19 +69,19 @@ related:
         width: 789
         height: 444
         isCached: true
-  - title: "Facial Recognition Tech Use Increasing Among Federal Agencies"
-    excerpt: "Use cases included criminal investigations, building security and access to digital assets like smartphones and security agency websites."
-    publishedDateTime: 2021-08-26T19:00:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2021/08/facial-recognition-tech-use-increasing-among-federal-agencies/184884/"
+  - title: "US federal agencies plan to increase facial recognition use, GAO report says"
+    excerpt: "Three-quarters of U.S. federal agencies surveyed for a Government Accountability Office (GAO) report are already using facial recognition."
+    publishedDateTime: 2021-08-26T21:42:00Z
+    webUrl: "https://www.biometricupdate.com/202108/us-federal-agencies-plan-to-increase-facial-recognition-use-gao-report-says"
     type: article
     provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 39
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 38
     images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2021/08/26/authentication_by_facial_recognition_biometric_security_system_picture_id1216416251/open-graph.jpg"
-        width: 400
-        height: 400
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
+        width: 1800
+        height: 734
         isCached: true
   - title: "DoD, DHS vet facial recognition tools for reliability in effort to build trust"
     excerpt: "But first, both agencies are taking steps to vet the security and reliability of the facial recognition tools they’re using, in order to build public trust in these tools and address concerns from Congress."

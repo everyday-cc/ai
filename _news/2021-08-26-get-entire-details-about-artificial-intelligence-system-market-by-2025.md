@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2369435/get-entire-details-about-artifici
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2369435/get-entire-details-about-artificial-intelligence-system-market"
 type: article
 quality: 72
-heat: 122
+heat: 123
 published: true
 
 provider:
