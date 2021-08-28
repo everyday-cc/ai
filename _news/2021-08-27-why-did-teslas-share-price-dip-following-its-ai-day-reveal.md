@@ -44,17 +44,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Key Takeaways From Much-Awaited Tesla (TSLA) AI Day Event"
-    excerpt: "Tesla’s TSLA highly anticipated Artificial Intelligence (AI) day event was live-streamed on the company’s official YouTube channel on Aug 19. At the flashy event, the electric car maker made several key announcements in the areas of computing,"
-    publishedDateTime: 2021-08-23T12:57:00Z
-    webUrl: "https://www.nasdaq.com/articles/key-takeaways-from-much-awaited-tesla-tsla-ai-day-event-2021-08-23"
-    ampWebUrl: "https://www.nasdaq.com/articles/key-takeaways-from-much-awaited-tesla-tsla-ai-day-event-2021-08-23?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/key-takeaways-from-much-awaited-tesla-tsla-ai-day-event-2021-08-23?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 84
   - title: "Is the ‘D1’ AI chip speeding Tesla towards full autonomy?"
     excerpt: "Tesla on its AI day, unveiled a custom chip for training artificial intelligence networks in data centers The D1 chip is part of Tesla’s Dojo"
     publishedDateTime: 2021-08-24T11:33:00Z

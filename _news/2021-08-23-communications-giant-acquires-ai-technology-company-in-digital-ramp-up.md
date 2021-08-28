@@ -41,20 +41,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Wunderman Thompson Acquires Leading AI-focused Tech Company Satalia"
-    excerpt: "Global growth partner Wunderman Thompson has today acquired Satalia, one of the leading and most exciting companies offering AI solutions for businesses across industries such as retail, grocery, telecommunications and consultancy."
-    publishedDateTime: 2021-08-23T11:20:00Z
-    webUrl: "https://investlithuania.com/news/wunderman-thompson-acquires-leading-ai-focused-tech-company-satalia/"
-    type: article
-    provider:
-      name: Invest Lithuania
-      domain: investlithuania.com
-    quality: 39
-    images:
-      - url: "https://investlithuania.com/wp-content/uploads/Satalia_WPP_variantas_iliutracijai_abstract37274.png"
-        width: 640
-        height: 426
-        isCached: true
   - title: "WPP acquires AI company Satalia"
     excerpt: "As part of the merger, Satalia will join Wunderman Thompson Commerce and lead AI strategy across all WPP agencies"
     publishedDateTime: 2021-08-24T04:17:00Z

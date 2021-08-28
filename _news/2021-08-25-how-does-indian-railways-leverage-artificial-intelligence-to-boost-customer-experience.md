@@ -72,22 +72,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Level AI lands $13M Series A to build conversational intelligence for customer service"
-    excerpt: "Level AI, an early stage startup from a former member of the Alexa product team, wants to help companies process customer service calls faster by understanding the interactions they’re having with customers in real time."
-    publishedDateTime: 2021-08-25T13:44:00Z
-    webUrl: "https://techcrunch.com/2021/08/25/level-ai-lands-13m-series-a-to-build-conversational-intelligence-for-customer-service/"
-    ampWebUrl: "https://techcrunch.com/2021/08/25/level-ai-lands-13m-series-a-to-build-conversational-intelligence-for-customer-service/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/25/level-ai-lands-13m-series-a-to-build-conversational-intelligence-for-customer-service/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 79
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1240334968.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "4 Ways to Sway Customers Toward AI for a Better Customer Experience"
     excerpt: "Consumers are ambivalent about artificial intelligence. According to data collected by O’Reilly, majorities of consumers embrace AI in applications"
     publishedDateTime: 2021-08-27T16:30:00Z

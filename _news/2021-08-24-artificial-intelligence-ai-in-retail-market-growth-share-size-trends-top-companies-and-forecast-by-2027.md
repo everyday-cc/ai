@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-growth-share-size-trends-top-companies-and-forecast-by-2027-2021-08-23"
 type: article
 quality: 63
-heat: 193
+heat: 203
 published: true
 
 provider:
@@ -210,6 +210,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 3
+  - title: "Global Automotive Voice Recognition Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
+    excerpt: "6.2 North America Automotive Voice Recognition Revenue by Application (2016-2026) 6.3 North America Automotive Voice Recognition Market Size by Country 6.3.1 North America Automotive Voice Recognition Revenue by Country (2016-2026) 6.3.2 United States ..."
+    publishedDateTime: 2021-08-28T02:30:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4818187-global-automotive-voice-recognition-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
 
 secured: "hfD3t65WpoGr4ekvyS/xx5sS1U6wARtGfzPyoXh1phvcH7e/2zj96dhtuMu3xLrkVBnrhfOyznVRM8eWDN+2IiJ96BWf2dv8y3dbZgivGcaVjRTRfeDmHpB+/Q98FGwcQ/khj6bVSNPdq5Zm7jpWRDSvEINcmu/zfVHXxZGdu+QC8Dj5eHpxn6I/7H6DW8p3fbuugkmd4gcnMCI+AsphVjEVPoaWeyo1izO7te7LcOzJDGCLB45W+TcS3/6avsUkzqgU/eregf9jxNoAJ7827u6MaCn0TQHrKeoVE5x1VHTgcVd0+orFdDydQrlfgklBioknz/uGpmeup3S5eVk3YCgiG/OjIMEfcYj5usQvTs0=;DytlI8ZBWewgkE34zFCLhA=="
 ---

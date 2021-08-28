@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pcgamer.com/amp/boston-dynamics-robots-doing-parkour/"
 cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/boston-dynamics-robots-doing-parkour/"
 type: article
 quality: 74
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: PC Gamer
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Inside Boston Dynamics’ project to create humanoid robots"
+    excerpt: "Atlas is a humanoid robot that has become popular for showing unrivaled ability in jumping over obstacles, backflips, and dancing."
+    publishedDateTime: 2021-08-28T04:20:00Z
+    webUrl: "https://venturebeat.com/2021/08/27/inside-boston-dynamics-project-to-create-humanoid-robots/"
+    ampWebUrl: "https://venturebeat.com/2021/08/27/inside-boston-dynamics-project-to-create-humanoid-robots/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/27/inside-boston-dynamics-project-to-create-humanoid-robots/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/08/Boston-Dynamic-Atlas-Parkour1-e1629834411758.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Inside Boston Dynamics’ project to create humanoid robots"
     excerpt: "Boston Dynamics’ Atlas, is a humanoid robot that has become popular for showing unrivaled ability in jumping over obstacles, doing backflips, and dancing."
     publishedDateTime: 2021-08-25T09:34:00Z

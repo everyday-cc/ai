@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Inside Boston Dynamics’ project to create humanoid robots"
+    excerpt: "Atlas is a humanoid robot that has become popular for showing unrivaled ability in jumping over obstacles, backflips, and dancing."
+    publishedDateTime: 2021-08-28T04:20:00Z
+    webUrl: "https://venturebeat.com/2021/08/27/inside-boston-dynamics-project-to-create-humanoid-robots/"
+    ampWebUrl: "https://venturebeat.com/2021/08/27/inside-boston-dynamics-project-to-create-humanoid-robots/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/27/inside-boston-dynamics-project-to-create-humanoid-robots/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/08/Boston-Dynamic-Atlas-Parkour1-e1629834411758.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Boston Dynamics' Atlas robot failing at parkour is strangely humbling"
     excerpt: "We knew the Boston Dynamics robots could dance, but this is something else. Now, the company's much loved Atlas robot has learned to bust some gnarly parkour moves, backflips and all (above), but there's a pretty sensational blooper reel to go along with it (further down)."
     publishedDateTime: 2021-08-23T13:26:00Z

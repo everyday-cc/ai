@@ -56,6 +56,22 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "The AI Revolution Is Happening Now"
+    excerpt: "From autonomous vehicles to robotic process automation, AI has developed roots and grown offshoots throughout."
+    publishedDateTime: 2021-08-25T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/25/the-ai-revolution-is-happening-now/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/25/the-ai-revolution-is-happening-now/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/25/the-ai-revolution-is-happening-now/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61255f32be270fc06d801dba%2F0x0.jpg"
+        width: 1200
+        height: 660
+        isCached: true
   - title: "Biosimulation Market: Growing Adoption of Artificial Intelligence is Projected to Drive the Global Market"
     excerpt: "According to the report, the global biosimulation market was valued at US$ 1.8 Bn in 2019 and is projected to expand at a high CAGR from 2020 to 2030. Biosimulation can be defined as computer-aided mathematical simulation of biological processes,"
     publishedDateTime: 2021-08-24T14:07:00Z

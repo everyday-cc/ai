@@ -9,7 +9,7 @@ ampWebUrl: "https://www.buzzfeednews.com/amphtml/ryanmac/clearview-ai-internatio
 cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/ryanmac/clearview-ai-international-search-table"
 type: article
 quality: 98
-heat: 210
+heat: 200
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "UK Government Accused Of Sneaking Through New Live Facial Recognition Rules"
-    excerpt: "More than 30 civil liberties groups are accusing the UK Home Office and police of bypassing Parliament to introduce live facial recognition technology (LFRT)."
-    publishedDateTime: 2021-08-23T11:22:00Z
-    webUrl: "https://www.forbes.com/sites/emmawoollacott/2021/08/23/uk-government-accused-of-sneaking-through-new-live-facial-recognition-rules/"
-    ampWebUrl: "https://www.forbes.com/sites/emmawoollacott/2021/08/23/uk-government-accused-of-sneaking-through-new-live-facial-recognition-rules/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2021/08/23/uk-government-accused-of-sneaking-through-new-live-facial-recognition-rules/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6123848325385b2b21e3c8cd%2F0x0.jpg"
-        width: 1200
-        height: 754
-        isCached: true
   - title: "Federal agencies plan to expand use of facial recognition technology"
     excerpt: "At least 10 federal agencies will use facial recognition devices in the next few years, the Government Accountability Office said."
     publishedDateTime: 2021-08-26T17:26:00Z

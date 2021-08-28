@@ -42,22 +42,6 @@ related:
         width: 800
         height: 418
         isCached: true
-  - title: "Precision Medicine Market to Reach USD 125.67 Billion by 2026 | TechSci Research"
-    excerpt: "Increasing advancements in cancer biology and myriad benefits offered by precision medicines to drive the global precision medicine market According to TechSci Research report Global Precision Medicine Market By Products Services Precision Medicine Platforms Precision Medicine Tools Precision Medicine Services"
-    publishedDateTime: 2021-08-23T12:33:00Z
-    webUrl: "https://www.openpr.com/news/2363885/precision-medicine-market-to-reach-usd-125-67-billion-by-2026"
-    ampWebUrl: "https://www.openpr.com/amp/2363885/precision-medicine-market-to-reach-usd-125-67-billion-by-2026"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2363885/precision-medicine-market-to-reach-usd-125-67-billion-by-2026"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 39
-    images:
-      - url: "https://cdn.openpr.com/U/8/U823887337_g.jpg"
-        width: 400
-        height: 300
-        isCached: true
   - title: "Valued to be $28.8 Billion by 2026, Artificial Intelligence (AI) in Fintech Slated for Robust Growth Worldwide"
     excerpt: "Preview Registry Global Artificial Intelligence (AI) in Fintech Maket to Reach $28.8 Billion by 2026 The U.S. Market is Estimated at $1.5 Billion in 2021, While China is Forecast to Reach $4.2 Billion by 2026 The Artificial Intelligence (AI) in Fintech market in the U."
     publishedDateTime: 2021-08-26T16:28:00Z

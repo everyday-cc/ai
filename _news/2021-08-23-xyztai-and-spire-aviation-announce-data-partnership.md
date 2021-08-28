@@ -7,7 +7,7 @@ originalUrl: "https://www.directionsmag.com/pressrelease/10992"
 webUrl: "https://www.directionsmag.com/pressrelease/10992"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,35 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "RBL Bank Partners With Amazon Web Services (AWS) To Enhance Its AI-Powered Banking Solutions"
-    excerpt: "RBL Bank has collaborated with Amazon Web Services (AWS), an Amazon.com corporation, as its ideal cloud vendor to enhance its AI-powered banking services and digital transformation. According to the bank this move will add significant value to its innovative offerings,"
-    publishedDateTime: 2021-08-23T12:57:00Z
-    webUrl: "https://www.goodreturns.in/news/rbl-bank-partners-with-amazon-web-services-aws-to-enhance-its-ai-powered-banking-solutions-1221062.html"
-    ampWebUrl: "https://www.goodreturns.in/amphtml/news/rbl-bank-partners-with-amazon-web-services-aws-to-enhance-its-ai-powered-banking-solutions-1221062.html"
-    cdnAmpWebUrl: "https://www-goodreturns-in.cdn.ampproject.org/c/s/www.goodreturns.in/amphtml/news/rbl-bank-partners-with-amazon-web-services-aws-to-enhance-its-ai-powered-banking-solutions-1221062.html"
+  - title: "AI Clearing Announces Strategic Global Partnership With Doosan Mobility Innovation"
+    excerpt: "AI Clearing, a market leader in automated analytics for large-scale construction and infrastructure projects, today announced a global partnership with Doosan Mobility Innovation, Inc. (DMI), part of leading industrial corporation Doosan Group."
+    publishedDateTime: 2021-08-26T16:12:00Z
+    webUrl: "https://www.constructionequipmentguide.com/ai-clearing-announces-strategic-global-partnership-with-doosan-mobility-innovation/53631"
     type: article
     provider:
-      name: Goodreturns
-      domain: goodreturns.in
-    quality: 95
+      name: Construction
+      domain: constructionequipmentguide.com
+    quality: 31
     images:
-      - url: "https://www.goodreturns.in/img/400x40/2019/08/rblbanklogo-1565584941.jpeg"
-        width: 400
-        height: 300
-        isCached: true
-  - title: "Sun Life signs with AWS"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Sun Life (TSX: SLF) (NYSE: SLF) has selected AWS as its long-term strategic cloud technology provider to become a cloud-first organization,"
-    publishedDateTime: 2021-08-27T14:06:00Z
-    webUrl: "https://www.finextra.com/pressarticle/89061/sun-life-signs-with-aws"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
+      - url: "https://dmt55mxnkgbz2.cloudfront.net/900x0_s3-53631-MNSW-AI-DMI-1.jpg"
+        width: 900
+        height: 506
         isCached: true
 
 secured: "+qLvrJfRM/qRnalnFUmCn4rOEIR/II9SPcf2MGjeE+uAgFNHKctksOXHpHLjOcjZ+Ft0mQHcFoYxcJLj97WhMbX2OnoxX+mth+tHiCJx2Mye+uTlZIG7Tjto+KxtoDQD5G9giyiVRflur2XlD9QUS2arBfxBKBI2jN1O4170hAxssSeB7XnCA5TAU82Q4I85iruSSbfdwdOJ0pAsWadGmZ7dPUKF0EsrzHluF4UjaoWDBCaV+QaJzJEUvSFVmS3SKsqou8AxUiGUrPdRklyVM1sv42aZ5Ym5e9gV+mfkqGIKWG3qy92PHuWd31p6/gESHiwdWz/DvjXYtAWWsan3elUPLwkfQ4GDX4O8UgLB9Pc=;AckOBeQnXc7JqygP3cdU+w=="

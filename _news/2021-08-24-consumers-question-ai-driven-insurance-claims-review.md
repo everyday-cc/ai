@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The AI Revolution Is Happening Now"
+    excerpt: "From autonomous vehicles to robotic process automation, AI has developed roots and grown offshoots throughout."
+    publishedDateTime: 2021-08-25T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/25/the-ai-revolution-is-happening-now/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/25/the-ai-revolution-is-happening-now/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/25/the-ai-revolution-is-happening-now/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61255f32be270fc06d801dba%2F0x0.jpg"
+        width: 1200
+        height: 660
+        isCached: true
   - title: "The EU-AI Regulation - Part 1: Overview and structure"
     excerpt: "The EU plans to take a leadership position in regulating artificial intelligence. To do so, it is gradually implementing the goals it set itself in 2018."
     publishedDateTime: 2021-08-24T10:48:00Z

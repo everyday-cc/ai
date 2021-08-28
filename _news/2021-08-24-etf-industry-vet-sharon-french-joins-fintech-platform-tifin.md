@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/etf-industry-vet-sharon-french-joins
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/etf-industry-vet-sharon-french-joins-fintech-platform-tifin-2021-08-23?amp"
 type: article
 quality: 56
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -22,20 +22,6 @@ topics:
   - AI in Finance
 
 related:
-  - title: "Top Programming Languages for Finance in Fintech"
-    excerpt: "This article explores some of the top programming languages for finance in fintech to power companies. Programming language is essential for efficient financial services. Multiple programming languages for finance are suitable for different fintech companies."
-    publishedDateTime: 2021-08-23T11:06:00Z
-    webUrl: "https://www.analyticsinsight.net/top-programming-languages-for-finance-in-fintech/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Top-Programming-Languages-for-Finance-in-Fintech.jpg"
-        width: 900
-        height: 500
-        isCached: true
   - title: "Fintech to transform digital banking in Qatar"
     excerpt: "Fintech, which provides opportunities for economic diversification, will transform the digital banking experience in Qatar, an official has said yesterday at the Qatar Fintech Summit."
     publishedDateTime: 2021-08-25T05:19:00Z

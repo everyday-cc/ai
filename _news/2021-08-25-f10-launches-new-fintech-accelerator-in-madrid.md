@@ -41,20 +41,6 @@ related:
         width: 300
         height: 219
         isCached: true
-  - title: "Arab Bank launches FinTech AB accelerator in Egypt"
-    excerpt: "Arab Bank has recently launched its FinTech-focused corporate accelerator programme “AB Accelerator” in Egypt, following its successful launch in Jordan back in 2018. The launch of this programme in Egypt comes as part of the bank’s strategic efforts to foster and support innovation in the FinTech sector towards offering responsive and agile banking solutions in line with the evolving needs and expectations of clients across different segments."
-    publishedDateTime: 2021-08-23T11:17:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/arab-bank-launches-fintech-ab-accelerator-in-egypt/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 39
-    images:
-      - url: "https://mk0ibsintelligek4gm6.kinstacdn.com/wp-content/uploads/2020/09/India-FinTech-300x300.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "GIZ and Fintech Egypt to Launch Free Summer School Webinar Series"
     excerpt: "The series will cover cybersecurity, AI and machine learning, open banking, regtech, and blockchain. The international development wing of the German government, GIZ, is partnering with tech ecosystem platform Fintech Egypt to co-launch the GIZ Finance Summer School,"
     publishedDateTime: 2021-08-26T04:47:00Z

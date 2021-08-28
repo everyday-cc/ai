@@ -71,20 +71,6 @@ related:
         width: 1185
         height: 585
         isCached: true
-  - title: "Civil liberties groups call for facial recognition ban"
-    excerpt: "A coalition of groups advocating civil liberties has demanded an outright ban on the use of live facial recognition technology (LFRT), while accusing the Home Office and law enforcement of bypassing Parliament over guidance for its use."
-    publishedDateTime: 2021-08-23T12:32:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2021/08/civil-liberties-groups-call-for-facial-recognition-ban/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 39
-    images:
-      - url: "https://eandt.theiet.org/media/5303/dreamstime_xxl_98532532.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=131920284040000000"
-        width: 1200
-        height: 450
-        isCached: true
   - title: "SA trials facial recognition for home quarantine"
     excerpt: "South Australia is trialing an app that will monitor people who are in home quarantine by checking geo-location data and scanning their faces. The trial, which began on Monday, allows around 50 South Australian residents returning from interstate to conduct their 14 days of mandatory quarantine from home."
     publishedDateTime: 2021-08-24T01:58:00Z

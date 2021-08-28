@@ -43,17 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Key Takeaways From Much-Awaited Tesla (TSLA) AI Day Event"
-    excerpt: "Tesla’s TSLA highly anticipated Artificial Intelligence (AI) day event was live-streamed on the company’s official YouTube channel on Aug 19. At the flashy event, the electric car maker made several key announcements in the areas of computing,"
-    publishedDateTime: 2021-08-23T12:57:00Z
-    webUrl: "https://www.nasdaq.com/articles/key-takeaways-from-much-awaited-tesla-tsla-ai-day-event-2021-08-23"
-    ampWebUrl: "https://www.nasdaq.com/articles/key-takeaways-from-much-awaited-tesla-tsla-ai-day-event-2021-08-23?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/key-takeaways-from-much-awaited-tesla-tsla-ai-day-event-2021-08-23?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 84
   - title: "Why did Tesla’s share price dip following its AI Day reveal?"
     excerpt: "How will the latest technologies unveiled at Tesla’s AI Day impact the Tesla share price and the autonomous vehicles market? Read our analysis."
     publishedDateTime: 2021-08-27T07:27:00Z

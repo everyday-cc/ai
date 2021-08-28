@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Athreon Launches Front-End Speech Recognition Solution"
-excerpt: "Athreon, a leading business and knowledge process outsourcing company, announced today the launch of its new front-end speech recognition solution for healthcare. Athreon’s speech recognition empowers physicians to focus on patient care versus administrative,"
-publishedDateTime: 2021-08-26T14:13:00Z
-originalUrl: "https://apnews.com/press-release/PRNewswire/technology-business-937261d53fe91f0a1613f00fc9d48934"
-webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-937261d53fe91f0a1613f00fc9d48934"
+excerpt: "Athreon, a leading business and knowledge process outsourcing company, announced today the launch of its new front-end speech recognition solution for healthcare. Athreon's speech recognition empowers physicians to focus on patient care versus administrative,"
+publishedDateTime: 2021-08-26T16:39:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-athreon-launches-front-end-speech-recognition-solution-/2021/08/26/9438228.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-athreon-launches-front-end-speech-recognition-solution-/2021/08/26/9438228.htm"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Recognize celebrities in images and videos using Amazon Rekognition"
@@ -156,6 +150,6 @@ related:
         height: 499
         isCached: true
 
-secured: "ErbO+zDqw8ttUOywlxesj2UKKRVhEUceV76gDfIUTnxx05aTVicF2KZmrVC/aF7TUzi1vyis4kztvkoooQYn0cjbY2nMmtdZFfzuJ7geCK9+Ti8IR+3Vhfm66EPkp86wPg2k1p/ngclq2AGyLS2ddRlVFZhNsqbCxS5Rl7apVJ8t0Usle0pGJHz1mmyB29uVQGSJ73fYxFOlw6f6cPcvTKrRsHGtnOkFvd0nBhpw26tRJK2yKkS6svEr0/SDPPtEY+w7UZdnTL/YwCG+kOHGPz7xThEF6do12uWs2Edl2sbbjmLQ+3oWfMka8Dzj/2KEsuUBSy71flpwJMWlKP9OkpSJ7Cqv+IdEZ+WAXk06wW4=;6ThcRHMbtxsZFQSRIoQBuw=="
+secured: "kzLh1Sjd74aclH7LO2xqFGeg2bD9xEL62HM9KQHfN6tlVwFIrzxoLrS0nS9hFmxgyKoAW0WQ3+CnDQzpd+1E1VkC7onddIuo16FqN++pVCJOPw+fBO8Re/JJTMvOVRj3R2y6iiW3ppxQTsfOWjY0V6HTYgajfxydAs7s8Jsb85kU3o46vNccMtUCuiYEOQs1WudhSz0KO3QWMEyfVqdXF7tdQ0pNC76XTW7FX1FeyTR9YWSS88ukC9PlsQ4QNMwqCneAGc1ITDaBKF3ozpV1sMxOW9d7WUKDlFwZ32ksHIxSfnlHv8e2/IW1KI1KiMNgS5xcczIJPmyXWFbAzALjN+NYJbWZ1S9Tu0WFqQsfTUI=;9LbIK2ZDHqHCQNkySvtayQ=="
 ---
 

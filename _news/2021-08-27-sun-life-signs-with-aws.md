@@ -25,36 +25,40 @@ images:
     isCached: true
 
 related:
-  - title: "RBL Bank Partners With Amazon Web Services (AWS) To Enhance Its AI-Powered Banking Solutions"
-    excerpt: "RBL Bank has collaborated with Amazon Web Services (AWS), an Amazon.com corporation, as its ideal cloud vendor to enhance its AI-powered banking services and digital transformation. According to the bank this move will add significant value to its innovative offerings,"
-    publishedDateTime: 2021-08-23T12:57:00Z
-    webUrl: "https://www.goodreturns.in/news/rbl-bank-partners-with-amazon-web-services-aws-to-enhance-its-ai-powered-banking-solutions-1221062.html"
-    ampWebUrl: "https://www.goodreturns.in/amphtml/news/rbl-bank-partners-with-amazon-web-services-aws-to-enhance-its-ai-powered-banking-solutions-1221062.html"
-    cdnAmpWebUrl: "https://www-goodreturns-in.cdn.ampproject.org/c/s/www.goodreturns.in/amphtml/news/rbl-bank-partners-with-amazon-web-services-aws-to-enhance-its-ai-powered-banking-solutions-1221062.html"
+  - title: "Amazon Web Services In Deal To Transform Sun Life Financial's Digital Services"
+    excerpt: "Amazon Web Services, Inc. or AWS, an Amazon.com, Inc. company (AMZN), announced Friday a deal with Sun Life Financial Inc. (SLF, SLF.TO) to become its long-term strategic cloud technology provider. Sun Life will use AWS's cloud technologies,"
+    publishedDateTime: 2021-08-27T07:15:00Z
+    webUrl: "https://www.nasdaq.com/articles/amazon-web-services-in-deal-to-transform-sun-life-financials-digital-services-2021-08-27"
+    ampWebUrl: "https://www.nasdaq.com/articles/amazon-web-services-in-deal-to-transform-sun-life-financials-digital-services-2021-08-27?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-web-services-in-deal-to-transform-sun-life-financials-digital-services-2021-08-27?amp"
     type: article
     provider:
-      name: Goodreturns
-      domain: goodreturns.in
-    quality: 95
-    images:
-      - url: "https://www.goodreturns.in/img/400x40/2019/08/rblbanklogo-1565584941.jpeg"
-        width: 400
-        height: 300
-        isCached: true
-  - title: "xyzt.ai and Spire Aviation Announce Data Partnership"
-    excerpt: "The pairing will offer a data visualization demo to unlock insights powered by Spire’s satellite-based global air traffic data and xyzt.ai visual analytics platform. Leuven 18 August 2021 – xyzt.ai, a Leuven-based high-tech company offering an innovative visual analytics SaaS (Software as a Service) platform for big location data,"
-    publishedDateTime: 2021-08-23T13:07:00Z
-    webUrl: "https://www.directionsmag.com/pressrelease/10992"
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 67
+  - title: "Amazon Prime – Sun Life Taps AWS as Its Long-Term Strategic Cloud Provider to Transform Digital Services"
+    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
+    publishedDateTime: 2021-08-27T07:56:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_amazon-prime/amazon-prime-sun-life-taps-aws-as-its-long-term-strategic-cloud-provider-to-transform-digital-services/"
     type: article
     provider:
-      name: Directions Magazine
-      domain: directionsmag.com
-    quality: 37
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 24
     images:
-      - url: "https://dmpublisher.s3.us-west-2.amazonaws.com/2021/August/23/6/ec4b6d66-4a06-4d19-9b7e-ac27a845bdcb-sized"
-        width: 800
-        height: 471
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/1630051007_AWS_logo_RGB.jpg"
+        width: 1200
+        height: 627
         isCached: true
+  - title: "Sun Life Taps AWS as Its Long-Term Strategic Cloud Provider to Transform Digital Services"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Sun Life (TSX: SLF) (NYSE: SLF) has selected AWS as"
+    publishedDateTime: 2021-08-27T04:01:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210826005687/en/Sun-Life-Taps-AWS-as-Its-Long-Term-Strategic-Cloud-Provider-to-Transform-Digital-Services"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 12
 
 secured: "CEeHo+giu33xrncKgUiugu3LBYGPfQJdj6kySKYILEaPi3m/jXSwIVCFDoxZBk6pyPUxXnu3KLoXirtzEgVsUAaAmtdP9t3KpsPc7/mjayOkWX9yT5Inq3Jk6lVminmY8eu42+FBeIJbcRanx4dc5HTxofcKAmUJUizc8r+10pP5NSVFlp1TKARGgkXSZXvB5zTWHX0CMWzqi8dg+3o9misL7nGPquNcqfjKBYGrrkolnc9Ev/L6J28pYISxLAHv4cYnDAI9tPNGmRCZREiuK1GKnpvTw3gkxtv0kZY/PRAZZu9W+og3Eavd1krCVfa3G4oex4DRULnbYwFFx5yWluvvDGefsWTiQM4E8qx5fME=;r6rQc8xURJxchdNrt9MiCw=="
 ---

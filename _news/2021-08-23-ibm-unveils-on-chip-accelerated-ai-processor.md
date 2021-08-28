@@ -135,20 +135,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "IBM Launches Telum, Its New AI Chip"
-    excerpt: "The new chip features a centralised design, which allows clients to leverage the full power of the AI processor for AI-specific workloads."
-    publishedDateTime: 2021-08-23T12:51:00Z
-    webUrl: "https://analyticsindiamag.com/ibm-launches-telum-its-new-ai-chip/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/IBM-Launches-Telum-Its-New-AI-Chip.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "IBM unveils on-chip AI accelerator for fraud detection"
     excerpt: "IBM has unveiled its long-awaited ‘Telum’ chip, built with AI inference acceleration that will allow for fraud detection while a transaction is occurring. The new processor was showcased at the annual Hot Chips conference with the first Telum-based system planned for 2022."
     publishedDateTime: 2021-08-23T13:55:00Z

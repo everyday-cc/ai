@@ -59,6 +59,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Toyota suspends use of its self-driving buses after one accidentally hit a visually-impaired athlete in Tokyo's Paralympic Games village"
+    excerpt: "The autonomous vehicles were shown off at the 2020 Tokyo Games, helping athletes travel to their events and around the Olympic village."
+    publishedDateTime: 2021-08-27T20:24:00Z
+    webUrl: "https://www.businessinsider.com/toyota-suspends-self-driving-buses-after-paralympic-accident-2021-8"
+    ampWebUrl: "https://www.businessinsider.com/toyota-suspends-self-driving-buses-after-paralympic-accident-2021-8?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/toyota-suspends-self-driving-buses-after-paralympic-accident-2021-8?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 56
+    images:
+      - url: "https://i.insider.com/6129413c9ef1e50018f87ebe?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Toyota pauses Paralympics self-driving buses after one hits visually impaired athlete"
+    excerpt: "Japan’s Aramitsu Kitazono was left with cuts and bruises after being hit by the e-Palette vehicle at the athletes’ village"
+    publishedDateTime: 2021-08-28T02:00:00Z
+    webUrl: "https://www.theguardian.com/technology/2021/aug/28/toyota-pauses-paralympics-self-driving-buses-after-one-hits-visually-impaired-athlete"
+    ampWebUrl: "https://amp.theguardian.com/technology/2021/aug/28/toyota-pauses-paralympics-self-driving-buses-after-one-hits-visually-impaired-athlete"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/aug/28/toyota-pauses-paralympics-self-driving-buses-after-one-hits-visually-impaired-athlete"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 52
+    images:
+      - url: "https://i.guim.co.uk/img/media/76210da7aefc01c2d73d58fe68f0a10b0c18c7b0/0_184_5710_3426/master/5710.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a2c025ff647f8cd2c7d09b4c6ffea270"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Self-Driving Bus Hits Pedestrian at Tokyo Olympic Village"
     excerpt: "On Thursday afternoon, one of the self-driving shuttle buses operating at the Tokyo Olympic village crashed into a Paralympian while they were crossing the street. In this case, it’s not clear that the bus was at fault."
     publishedDateTime: 2021-08-27T16:08:00Z

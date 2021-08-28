@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ibms-new-telum-proce
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibms-new-telum-processor-is-the-companys-first-with-an-on-chip-ai-accelerator/"
 type: article
 quality: 100
-heat: 270
+heat: 260
 published: true
 
 provider:
@@ -124,20 +124,6 @@ related:
       - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/ibm%20telum%20mainframe%20chip.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "IBM Launches Telum, Its New AI Chip"
-    excerpt: "The new chip features a centralised design, which allows clients to leverage the full power of the AI processor for AI-specific workloads."
-    publishedDateTime: 2021-08-23T12:51:00Z
-    webUrl: "https://analyticsindiamag.com/ibm-launches-telum-its-new-ai-chip/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/IBM-Launches-Telum-Its-New-AI-Chip.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "IBM unveils on-chip accelerated AI processor"
     excerpt: "Hot Chips conference, IBM unveiled details of the upcoming new IBM Telum Processor, designed to bring deep learning inference to enterprise"

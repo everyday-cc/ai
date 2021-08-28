@@ -36,20 +36,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 56
-  - title: "Top Programming Languages for Finance in Fintech"
-    excerpt: "This article explores some of the top programming languages for finance in fintech to power companies. Programming language is essential for efficient financial services. Multiple programming languages for finance are suitable for different fintech companies."
-    publishedDateTime: 2021-08-23T11:06:00Z
-    webUrl: "https://www.analyticsinsight.net/top-programming-languages-for-finance-in-fintech/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Top-Programming-Languages-for-Finance-in-Fintech.jpg"
-        width: 900
-        height: 500
-        isCached: true
   - title: "Ubiquity Names Peg Johnson to Lead Growing Fintech Business"
     excerpt: "Payments Veteran Joins BPO to Integrate Suite of Services for Challenger Banks and Fintechs NEW YORK, NY / ACCESSWIRE / August 24, 2021 / Ubiquity, a multinational business process outsourcer and one of the fastest-growing private companies in the United States,"
     publishedDateTime: 2021-08-24T13:31:00Z
