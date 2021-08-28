@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "On The Rancorous Controversy Over Dedicating Freeway Lanes Expressly For Autonomous Vehicles Such As AI Self-Driving Cars"
-    excerpt: "Some believe we ought to setup dedicated lanes for self-driving cars, which seems sensible, though there are many arguments in opposition. See the debate here."
-    publishedDateTime: 2021-08-23T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/23/on-the-rancorous-controversy-over-dedicating-freeway-lanes-expressly-for-autonomous-vehicles-such-as-ai-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/23/on-the-rancorous-controversy-over-dedicating-freeway-lanes-expressly-for-autonomous-vehicles-such-as-ai-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/23/on-the-rancorous-controversy-over-dedicating-freeway-lanes-expressly-for-autonomous-vehicles-such-as-ai-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612173ac27df6664b906759a%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Toyota suspends all self-driving vehicles at Paralympic Games after collision with athlete"
     excerpt: "Toyota Motor Corporation announced the immediate halt to all e-Palette self-driving pods at the Tokyo Paralympic Games following a collision."
     publishedDateTime: 2021-08-27T17:58:00Z

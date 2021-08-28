@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/autos-transportation/musk-says-te
 webUrl: "https://www.reuters.com/business/autos-transportation/musk-says-teslas-self-driving-software-update-not-great-2021-08-23/"
 type: article
 quality: 169
-heat: 389
+heat: 379
 published: true
 
 provider:
@@ -352,15 +352,6 @@ related:
         width: 640
         height: 450
         isCached: true
-  - title: "Musk criticizes on Twitter latest test version of Tesla's self-driving software"
-    excerpt: "Chief Executive Elon Musk panned the most recent test version of the company's self-driving software, but said that Tesla employees are \"rallying to improve (it) as fast as possible.\" Musk tweeted late Monday that the latest \"beta\" version of Full Self Driving,"
-    publishedDateTime: 2021-08-23T16:18:00Z
-    webUrl: "https://www.morningstar.com/news/marketwatch/20210823369/musk-criticizes-on-twitter-latest-test-version-of-teslas-self-driving-software"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 15
 
 secured: "FeGo45sNu2PmRJ3LblAtjHsYp2Yt3W6zTWJZdf0TJfRyU8nZbEmPwXa4V6uHfrIDBqjvr/P0UZo8vBM/PUqiW6g3ROXN93QWxSMSJghIrNjCneuRpomk6drxKN7Ybd6TAKVg2UZiT75dZh4AqX2gZUknoebZz75sTcHcQwaUcap7pNZHEchfJrq+8CTqBFXhtWh9OOOLbK2OzHtyoN8xF2Y9bcHIruNQxLyUjCOnxBq2tLK4Pl5QGMysp3rS60Q22Vc6fm0HkskdLjUD19tdtxsbCSkvr7MrQvFc+PWIRmzM4RuYBkEHO2V6k4bdUL1vYOVrDiKVJvCig9pXMG317Dj0g859QU19RYe2Rre+JsmFqfYquRxrYcuBiwaUaEKQ1tAyazGIFbeYB+3Dd0hEwVBsI9n92JeCb8cP84QbNB5IFJKuAvhpiRahoXPRozG2xaCb43qYulzLBHnve6H62xyANlYPIZH0mLHo0tBWcU/2HpVfT8MTk5ooieG3F2hjyhAkjZQ1x5vil3hEjn4czjeQ0FVBSGXwxEnFmmED7NE=;GBQCihy2EaV22ZtIRxD+qA=="
 ---

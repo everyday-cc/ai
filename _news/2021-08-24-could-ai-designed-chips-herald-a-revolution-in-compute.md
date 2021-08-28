@@ -9,8 +9,8 @@ ampWebUrl: "https://www.deccanherald.com/amp/business/technology/could-ai-design
 cdnAmpWebUrl: "https://www-deccanherald-com.cdn.ampproject.org/c/s/www.deccanherald.com/amp/business/technology/could-ai-designed-chips-herald-a-revolution-in-compute-1022986.html"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: Deccan Herald
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI ROI: Computer Vision"
-    excerpt: "Computer vision is now a reality. Get immediate business value like improved quality and reduced losses from the practical AI deployment platform, Chooch AI."
-    publishedDateTime: 2021-08-23T17:00:00Z
-    webUrl: "https://www.infoworld.com/resources/223309/ai-roi-computer-vision"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 84
-    images:
-      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
-        width: 300
-        height: 300
-        isCached: true
   - title: "AI ROI: Computer Vision"
     excerpt: "Now, with the latest advancements in computer vision technology, AI is bringing new ROI opportunities to an even wider range of industries and use-cases. This white paper offers an in-depth examination of computer vision and the ROI opportunities that ..."
     publishedDateTime: 2021-08-24T19:14:00Z

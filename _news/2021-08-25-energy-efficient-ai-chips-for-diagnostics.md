@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 839
         isCached: true
-  - title: "How Chip Developers Are Using AI To Make Chips More Efficient?"
-    excerpt: "Reuters reports that one of Synopsys Inc's (NASDAQ: SNPS) customers has resorted to artificial intelligence software to increase chip power efficiency by 26%. Synopsys has started weaving AI called DSO."
-    publishedDateTime: 2021-08-23T16:08:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/how-chip-developers-are-using-ai-to-make-chips-more-efficient-1030752905"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 84
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/abtech_1510.png"
-        width: 1024
-        height: 768
-        isCached: true
 
 secured: "K1Fr7rLuRhuOnvcsQ7UtDhXYiEhVKhUEYDLyeKpRaXv9TcsdFnJc4cCCL1tqmtMTrtaOlC/kxD5V3FfSd4MRBDbjfJnpcj6wJKQrRQ9lfHFZOAjR4lPQK/8SptoGaHsV0CGr/Xjk1dzD+/0fHGnMve2kN3Rw5K1i136lmj5WHchhJYMil0ub+Ari4Fv7BtlcaHfpV4ns5ckWJAW2fdUPmHxHwo5y+4Z3u4LtbCaICv3jz6YDaB3jhwRFpWssJk0yJm2M2aJopb2Jc8OgttgUzjSPrIpTy8pE0AQF4fOloKkIwcV00g9rZhHffZrLoBo+ahW3l+/OHa5jIHitFz2bxQM+gO/jUlPk0oOhlAHVuzQ=;gtz9VukM212eEBS1Z9glnw=="
 ---

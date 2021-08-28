@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ibms-new-telum-proce
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibms-new-telum-processor-is-the-companys-first-with-an-on-chip-ai-accelerator/"
 type: article
 quality: 100
-heat: 250
+heat: 230
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM Telum – A New Chapter In Vertically Integrated Chip Technology"
-    excerpt: "Ranked Industry Analyst Patrick Moorhead dives deeper as At the IEEE's Hot Chips 33 conference on the 23rd August 2021, IBM presented a preview of IBM Telum, the next-generation processor for IBM z and LinuxONE systems,"
-    publishedDateTime: 2021-08-23T15:40:00Z
-    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/08/23/ibm-telum--a-new-chapter-in-vertically-integrated-chip-technology/"
-    ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/08/23/ibm-telum--a-new-chapter-in-vertically-integrated-chip-technology/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/08/23/ibm-telum--a-new-chapter-in-vertically-integrated-chip-technology/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6123bdb050e6882f68cd58a5%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Esperanto Launches AI Accelerator With Over 1000 RISC-V Cores"
     excerpt: "Accelerating ML Recommendation with over a thousand RISC-V Processors, the Esperanto ET-SoC-1 is the highest performance commercial RISC-V chip to date."
     publishedDateTime: 2021-08-24T16:00:00Z
@@ -124,20 +108,6 @@ related:
       - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/ibm%20telum%20mainframe%20chip.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "IBM unveils on-chip accelerated AI processor"
-    excerpt: "Hot Chips conference, IBM unveiled details of the upcoming new IBM Telum Processor, designed to bring deep learning inference to enterprise"
-    publishedDateTime: 2021-08-23T16:09:00Z
-    webUrl: "https://www.plant.ca/general/ibm-unveils-on-chip-accelerated-ai-processor-222544/"
-    type: article
-    provider:
-      name: plant.ca
-      domain: plant.ca
-    quality: 54
-    images:
-      - url: "https://www.plant.ca/wp-content/uploads/2021/08/image001-1.jpg"
-        width: 936
-        height: 570
         isCached: true
   - title: "IBM releases new AI fraud prevention chip"
     excerpt: "IBM is set to launch a new chip, named Telum, which it said includes ‘AI inferencing acceleration’ that could help stop fraud.<br /> <br /> The tech giant said that complex fraud detection often cannot be completed in real-time due to latency."

@@ -92,20 +92,6 @@ related:
         width: 5988
         height: 3992
         isCached: true
-  - title: "Civil liberties groups demand ban on facial recognition technology"
-    excerpt: "A group of civil society bodies has called on the Government to ban facial recognition cameras, while accusing police and the Home Office of bypassing Parliament over guidance for the use of the technology."
-    publishedDateTime: 2021-08-23T16:45:00Z
-    webUrl: "https://www.irishnews.com/magazine/technology/2021/08/23/news/civil-liberties-groups-demand-ban-on-facial-recognition-technology-2425128/"
-    type: article
-    provider:
-      name: The Irish News
-      domain: irishnews.com
-    quality: 39
-    images:
-      - url: "https://image.assets.pressassociation.io/v2/image/production/d6e4131765fe04e05c81ba7daa1efc67Y29udGVudHNlYXJjaGFwaSwxNjI5NzgyNjgx/2.61056894.jpg?w=640"
-        width: 640
-        height: 434
-        isCached: true
   - title: "Athreon Launches Front-End Speech Recognition Solution"
     excerpt: "Athreon, a leading business and knowledge process outsourcing company, announced today the launch of its new front-end speech recognition solution for healthcare. Athreon’s speech recognition empowers physicians to focus on patient care versus administrative,"
     publishedDateTime: 2021-08-26T14:13:00Z

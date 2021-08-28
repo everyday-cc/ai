@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/08/24/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/08/24/looking-beyond-automation-and-efficiency-ai-for-social-good/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Chip Developers Are Using AI To Make Chips More Efficient?"
-    excerpt: "Reuters reports that one of Synopsys Inc's (NASDAQ: SNPS) customers has resorted to artificial intelligence software to increase chip power efficiency by 26%. Synopsys has started weaving AI called DSO."
-    publishedDateTime: 2021-08-23T16:08:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/how-chip-developers-are-using-ai-to-make-chips-more-efficient-1030752905"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 84
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/abtech_1510.png"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Energy-Efficient AI Chips For Diagnostics"
     excerpt: "Researchers developed energy-efficient AI chips for diagnosing a common cardiac condition called atrial fibrillation."
     publishedDateTime: 2021-08-25T06:49:00Z

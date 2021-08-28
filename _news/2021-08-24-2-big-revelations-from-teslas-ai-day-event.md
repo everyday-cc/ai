@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/08/23/2-big-revelations-from
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/08/23/2-big-revelations-from-tesla-ai-day-event/"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://images.barrons.com/im-389712/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Tesla AI Day, CGI, and Broken Promises Are an Insomnia Tutorial For Advocates"
+    excerpt: "The Tesla AI Day would happen way past bedtime for me. On other occasions, I’d probably stay up and watch the entire thing hoping that something exciting would be revealed. This time, nobody expected more than an event to attract new talents to the company,"
+    publishedDateTime: 2021-08-28T06:56:00Z
+    webUrl: "https://www.autoevolution.com/news/tesla-ai-day-cgi-and-broken-promises-are-an-insomnia-tutorial-for-advocates-168243.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 51
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/tesla-ai-day-cgi-and-broken-promises-are-an-insomnia-recipe-for-advocates-168243-7.jpg"
+        width: 728
+        height: 300
         isCached: true
 
 secured: "tfYoeKcgQpzEf1+uyIBD83wUGLgw4r4N/DXOz69DYxxWZGZ2yhwb0R99MJvnu3pUrzSTenQOO/KjAwWYDzaRywamLKfb/ZTCSapFFZZuYtHdVF9kzGWUX/sfC7sWiw+0gPIhfItNwA2WBJ6hM+ty0+PIaHi7gSQkUsS9ayeiGQ0o7ukBRVF6uTazjIGP94cghXdNockbPbABmr1wi0TMqTkDuNuvchzADW1HtPZCU5gAAepl20flFQGUMl/9nEkuoFVLwG69YFHrHv/SvxsbBd6mUtkc+4yXVtIIzvX7emYLUhxLnz7N0CuAReOBIswSq1eT7EuQkWVWGzNCuhwI1WOzk+DxB/jwNrWvN+AOPTsoWWIfHm30sfm3oLEUjfXOhZwNKAvQMb/zIhJF7SYpxsJcxk1W2zbcVhRZqYEp9JmTso3My7byRQ6NSnJ5r5mPRlZxhWNfi/Lz3CCLxtAh3I4pJk6PeIDj/DHO78Hbt0yqFDWOgZHj8gHF6P3IOZYAdR+i9JmPCT3Ayg8LwMwuNw==;iaqKCRUD+TcgrQrBtUZ3Rw=="

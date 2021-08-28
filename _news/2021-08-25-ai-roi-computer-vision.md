@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI ROI: Computer Vision"
-    excerpt: "Computer vision is now a reality. Get immediate business value like improved quality and reduced losses from the practical AI deployment platform, Chooch AI."
-    publishedDateTime: 2021-08-23T17:00:00Z
-    webUrl: "https://www.infoworld.com/resources/223309/ai-roi-computer-vision"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 84
-    images:
-      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Could AI-designed chips herald a revolution in compute?"
     excerpt: "Microprocessors have come a long way from the days of the humble Intel 8008. In their nearly 50 years of existence, microprocessors have grown vastly more powerful, efficient, capable of handling even quantum computing simulations,"
     publishedDateTime: 2021-08-24T09:19:00Z

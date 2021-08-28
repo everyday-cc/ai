@@ -40,20 +40,6 @@ related:
         width: 628
         height: 385
         isCached: true
-  - title: "New Report Unveils more details aboutArtificial Intelligence in Accounting Market by 2027 | Microsoft, AWS, Xero, Intuit, Sage"
-    excerpt: "\" Artificial Intelligence in Accounting Market research is an intelligence report with meticulous efforts undertaken to study the right and valuable information. The data which ha"
-    publishedDateTime: 2021-08-23T15:18:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/270842835/new-report-unveils-more-details-aboutartificial-intelligence-in-accounting-market-by-2027--microsoft-aws-xero-intuit-sage"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 58
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1629864454666.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Global Industry Analysts Predicts the World Artificial Intelligence (AI) in Marketing Market to Reach $50.1 Billion by 2026"
     excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Marketing - Global Market Trajectory & Analytics\"."
     publishedDateTime: 2021-08-26T17:12:00Z

@@ -348,15 +348,6 @@ related:
         width: 640
         height: 450
         isCached: true
-  - title: "Musk criticizes on Twitter latest test version of Tesla's self-driving software"
-    excerpt: "Chief Executive Elon Musk panned the most recent test version of the company's self-driving software, but said that Tesla employees are \"rallying to improve (it) as fast as possible.\" Musk tweeted late Monday that the latest \"beta\" version of Full Self Driving,"
-    publishedDateTime: 2021-08-23T16:18:00Z
-    webUrl: "https://www.morningstar.com/news/marketwatch/20210823369/musk-criticizes-on-twitter-latest-test-version-of-teslas-self-driving-software"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 15
 
 secured: "NU97MEkQiAorayacYo6P4pvPJxJcuJOEYPJyJmkGfT+IipIxXI2L8kNK/RDeBA9371HeVse+CzgfK95Q9j+cBuqxWJvwbmjIS+AuZEIDfsxFeUqqN1FgneRI+VdYlIZefFZljAcrbPdO9kZEkx9624F1qTFev1GeHYfThSvc9xGZkznWm79aSxuX7YC3KZxvXzhFxv9JxhLdtTb2Hhpn3o+SGas22pmhyk+wZbapmeqsiaXQC5/YRjqElmSLw5K8F6U97XNj9R5nRDbQp3Lg3HP8TisbJiKotf2Oh69tDeTurNvwdpf9S9SERZujdb18RA+z48teZTW+86CeXeypxb946Om46k1WtcJuIWuq6xE=;P+svSUxgfHdGcCr6AYf6tw=="
 ---

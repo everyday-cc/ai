@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/toyota-suspends-self-driving-buses-a
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/toyota-suspends-self-driving-buses-after-paralympic-accident-2021-8?amp"
 type: article
 quality: 64
-heat: 164
+heat: 167
 published: true
 
 provider:

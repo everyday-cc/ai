@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2370492/current-research-demand-for-artif
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2370492/current-research-demand-for-artificial-intelligence"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -20,48 +20,15 @@ topics:
   - AI
 
 related:
-  - title: "The Role of Artificial Intelligence (AI) in the Global Agriculture Market 2021 - ResearchAndMarkets.com"
-    excerpt: "Market in Agriculture Industry Market 2021-2025” report has been added to ResearchAndMarkets.com’s offering. The artificial intelligence (AI) market in the agriculture industry is poised to grow by $458."
-    publishedDateTime: 2021-08-23T15:16:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-science-agriculture-artificial-intelligence-e006f4c80d694418bfd5b2b93e113947"
+  - title: "Machine learning applications in tobacco research: a scoping review"
+    excerpt: "Objective Identify and review the body of tobacco research literature that self-identified as using machine learning (ML) in the analysis. Data sources MEDLINE, EMABSE, PubMed, CINAHL Plus, APA PsycINFO and IEEE Xplore databases were searched up to September 2020."
+    publishedDateTime: 2021-08-26T00:00:00Z
+    webUrl: "https://tobaccocontrol.bmj.com/content/early/2021/08/26/tobaccocontrol-2020-056438"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 36
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "C3.ai Inc. (AI) market price of $49.73 offers the impression of an exciting value play"
-    excerpt: "Let’s start up with the current stock price of C3.ai Inc. (AI), which is $49.73 to be very precise. The Stock rose vividly during the last session to $50.25 after opening rate of $47.50 while the lowest price it went was recorded $47."
-    publishedDateTime: 2021-08-25T23:43:00Z
-    webUrl: "https://investchronicle.com/2021/08/25/c3-ai-inc-ai-market-price-of-49-73-offers-the-impression-of-an-exciting-value-play/"
-    type: article
-    provider:
-      name: investchronicle
-      domain: investchronicle.com
-    quality: 29
-    images:
-      - url: "https://investchronicle.com/wp-content/uploads/2019/06/investchronicle-89-e1579508125875.png"
-        width: 450
-        height: 298
-        isCached: true
-  - title: "Global $125+ Billion Database Management System (DBMS) Markets to 2026 with Oracle, Microsoft, IBM, SAP, Amazon AWS Dominating - ResearchAndMarkets.co"
-    excerpt: "The \"Global Database Management System (DBMS) Market Report and Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The global database management system (DBMS) market attained a value of approximately USD 63."
-    publishedDateTime: 2021-08-27T15:26:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=522548"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 16
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
+      name: BMJ
+      domain: bmj.com
+    quality: 19
 
 secured: "zSq6lDT6ggR7K28Qh/RK8fp6bSGZwEVjnWuKBg5IUe0Zb9ltfy/yW2LBpcclIfaO/ic+wK6pUb2n1Hm6o6ALkrA1IwelS8IowV0qydVu9J+OchhSD7WagZ+xd7DaKJva9gYT6D5wxIW0DcMzi5jYae01cx5WdJXyiNEelYQi83jeVSEI0hUAO8eFbeE8TBbgWcQhh3oKGT7TIwIUHgOtgxbh2EK6cdoWwLzJKrVSQts83FN13nNkOu3K9zuP3RuHQht1fWEYQy2+NKzbMWAnj+PnCf1hrOjuS/9Gm8buAa3euK7YZH17QjyHJuTFcs2767/D7I8/cG/odlhgH/gzDOTpBNzrbuJECL55q4J2fOs=;xAqx7Ujr4FkywKIkt4FH/Q=="
 ---

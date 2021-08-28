@@ -6,8 +6,8 @@ publishedDateTime: 2021-08-27T23:25:00Z
 originalUrl: "https://github.com/JeffWang0325/Microsoft-DAT275X-Principles-of-Machine-Learning-Python-Edition"
 webUrl: "https://github.com/JeffWang0325/Microsoft-DAT275X-Principles-of-Machine-Learning-Python-Edition"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://opengraph.githubassets.com/aafde01003f689a55d4f700bc21b21aa25f4474330d162788e0b810c9b33b9f1/JeffWang0325/Microsoft-DAT275X-Principles-of-Machine-Learning-Python-Edition"

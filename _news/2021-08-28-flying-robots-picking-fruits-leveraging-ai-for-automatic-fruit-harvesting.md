@@ -57,36 +57,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "How AI is used in remote hiring"
-    excerpt: "Hiring and recruitment are no different. Companies are increasingly leveraging AI to make every step on the recruitment journey smarter and more effective. One very impactful derivative of this technology is the advent of emotion AI,"
-    publishedDateTime: 2021-08-23T15:12:00Z
-    webUrl: "https://bloncampus.thehindubusinessline.com/b-learn/how-ai-is-used-in-remote-hiring/article36062276.ece"
-    ampWebUrl: "https://bloncampus.thehindubusinessline.com/b-learn/how-ai-is-used-in-remote-hiring/article36062276.ece/amp/"
-    cdnAmpWebUrl: "https://bloncampus-thehindubusinessline-com.cdn.ampproject.org/c/s/bloncampus.thehindubusinessline.com/b-learn/how-ai-is-used-in-remote-hiring/article36062276.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 57
-    images:
-      - url: "https://bloncampus.thehindubusinessline.com/b-learn/article36062275.ece/ALTERNATES/LANDSCAPE_615/blocAIRecruitmentHiring"
-        width: 615
-        height: 384
-        isCached: true
-  - title: "Improve machine learning performance by dropping the zeros"
-    excerpt: "KAUST researchers have found a way to significantly increase the speed of training. Large machine learning models can be trained significantly faster by observing how frequently zero results are produced in distributed machine learning that use large training datasets."
-    publishedDateTime: 2021-08-23T16:26:00Z
-    webUrl: "https://techxplore.com/news/2021-08-machine-zeros.html"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 39
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/zero.jpg"
-        width: 1920
-        height: 1357
-        isCached: true
   - title: "Big Data And AI In The 7-Step Financial Planning Process"
     excerpt: "Big data and artificial intelligence (AI) have tremendous disruptive potential in nearly every industry, and financial services is no exception. These powerful technologies are set to change the way in which plans are delivered,"
     publishedDateTime: 2021-08-26T21:05:00Z

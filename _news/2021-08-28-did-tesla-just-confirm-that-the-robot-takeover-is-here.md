@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla’s Blackface Robot: Promoting Slavery as Fantasy?"
-    excerpt: "An infamous blackface performance by Tesla indicates to me the company is promoting a fantasy of robots that invokes a discussion of slavery. What do you see here? Does the fashion statement of a white men dressed all in black seem odd,"
-    publishedDateTime: 2021-08-23T16:53:00Z
-    webUrl: "https://securityboulevard.com/2021/08/teslas-blackface-robot-promoting-slavery-as-fantasy/"
-    ampWebUrl: "https://securityboulevard.com/2021/08/teslas-blackface-robot-promoting-slavery-as-fantasy/amp/"
-    cdnAmpWebUrl: "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2021/08/teslas-blackface-robot-promoting-slavery-as-fantasy/amp/"
-    type: article
-    provider:
-      name: securityboulevard.com
-      domain: securityboulevard.com
-    quality: 76
-    images:
-      - url: "https://www.flyingpenguin.com/wp-content/uploads/2021/08/1629558893063-500x444.jpeg"
-        width: 500
-        height: 444
-        isCached: true
   - title: "Massive AI Project Will Supercharge Tesla Stock"
     excerpt: "Tesla (TSLA) is on the verge of a game-changing breakthrough in machine learning yet the only thing people are talking about is its plan for a stupid humanoid robot. Executives at the electric vehicle company on Thursday held an artificial intelligence day."
     publishedDateTime: 2021-08-23T17:16:00Z

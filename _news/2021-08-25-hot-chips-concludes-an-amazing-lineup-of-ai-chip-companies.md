@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/08/24/and--thats-a-wrap
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/08/24/and--thats-a-wrap-hot-chips-concludes-an-amazing-lineup-of-ai-chip-announcements/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6125726db3f93198be757638%2F0x0.jpg"
         width: 1200
         height: 753
+        isCached: true
+  - title: "How AI and GPT-3 is changing copywriting with companies like Copy Rocket"
+    excerpt: "It's not. If you need something to be written, whether it’s an eBook, a landing page, or a complete website, coming up with a ton of unique text can"
+    publishedDateTime: 2021-08-27T21:21:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/08/ab22704039/how-ai-and-gpt-3-is-changing-copywriting-with-companies-like-copy-rocket"
+    ampWebUrl: "https://www.benzinga.com/amp/content/22704039"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22704039"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 56
+    images:
+      - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png"
+        width: 1200
+        height: 600
         isCached: true
   - title: "The AI Arms Race: Why are American Companies Helping China?"
     excerpt: "The CCP’s Data Security Law comes into effect on the first day of September, and with it, more control of critical research and information."

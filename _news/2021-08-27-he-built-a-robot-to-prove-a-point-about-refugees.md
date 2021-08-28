@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/08/27/world/europe/afghanistan-refugee-
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/27/world/europe/afghanistan-refugee-hope.amp.html"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:

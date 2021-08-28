@@ -74,6 +74,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Tesla AI Day, CGI, and Broken Promises Are an Insomnia Tutorial For Advocates"
+    excerpt: "The Tesla AI Day would happen way past bedtime for me. On other occasions, I’d probably stay up and watch the entire thing hoping that something exciting would be revealed. This time, nobody expected more than an event to attract new talents to the company,"
+    publishedDateTime: 2021-08-28T06:56:00Z
+    webUrl: "https://www.autoevolution.com/news/tesla-ai-day-cgi-and-broken-promises-are-an-insomnia-tutorial-for-advocates-168243.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 51
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/tesla-ai-day-cgi-and-broken-promises-are-an-insomnia-recipe-for-advocates-168243-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
 
 secured: "K0DiWAAt+Iix2rBcyFlBPeou1onhzTGgg+k+nsHdRm5CyweSMtIk6gHCzPT48B0/rgjWTVOfl0Pgr/KqjufKr4i6xRNbz16TYfZcQCTsw5kCaQBoFaLeryY9vHBnSKU97+/sL1JIHa5shLvMgS0CAN/nhYZ6y+22dpjLHAu3V4SYQDKR4+am6jS04a+avvTW3hDCUueTjdoME31iDCAnCMt5KH0yqNR6n8QGjje2Zpg9TQv5RSUlgFekwUZ9Xf2ktt3Nh+pLdYHV67FfpbDOrKc+f3Z0JLchS5nuIxxEajoiuMwschSmHQUi9Qky2H41KDjW++HRp60GpkyLWKI8YkXXZxbXlSxiukeYaoiPKx4=;luYkcP6s/NSGXeEJA3ebOw=="
 ---

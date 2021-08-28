@@ -43,20 +43,6 @@ related:
         width: 628
         height: 385
         isCached: true
-  - title: "New Report Unveils more details aboutArtificial Intelligence in Accounting Market by 2027 | Microsoft, AWS, Xero, Intuit, Sage"
-    excerpt: "\" Artificial Intelligence in Accounting Market research is an intelligence report with meticulous efforts undertaken to study the right and valuable information. The data which ha"
-    publishedDateTime: 2021-08-23T15:18:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/270842835/new-report-unveils-more-details-aboutartificial-intelligence-in-accounting-market-by-2027--microsoft-aws-xero-intuit-sage"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 58
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1629864454666.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Speech and Voice Recognition Market worth $22.0 billion by 2026 - Exclusive Report by MarketsandMarketstm"
     excerpt: "Global Forecast to 2026\", published by MarketsandMarketstm, the Speech And Voice Recognition Market is expected to grow from USD 8.3 billion in 2021 to USD 22.0 billion by 2026; it is expected to grow at a CAGR of 21."
     publishedDateTime: 2021-08-26T14:58:00Z

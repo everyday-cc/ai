@@ -35,20 +35,6 @@ related:
         width: 628
         height: 385
         isCached: true
-  - title: "New Report Unveils more details aboutArtificial Intelligence in Accounting Market by 2027 | Microsoft, AWS, Xero, Intuit, Sage"
-    excerpt: "\" Artificial Intelligence in Accounting Market research is an intelligence report with meticulous efforts undertaken to study the right and valuable information. The data which ha"
-    publishedDateTime: 2021-08-23T15:18:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/270842835/new-report-unveils-more-details-aboutartificial-intelligence-in-accounting-market-by-2027--microsoft-aws-xero-intuit-sage"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 58
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1629864454666.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Global Industry Analysts Predicts the World Artificial Intelligence (AI) in Marketing Market to Reach $50.1 Billion by 2026"
     excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Marketing - Global Market Trajectory & Analytics\"."
     publishedDateTime: 2021-08-26T17:12:00Z
@@ -92,6 +78,6 @@ related:
         height: 339
         isCached: true
 
-secured: "w5ylhFndl0xPnB/o8svoJbYM6cBK2k9vRLNyJQrymq05IK7pUV471TZBxEhApwpfEVqFzOUtYC6saIzEcXKBKdwkKR6fOLhmxvWcDW35p/U/VQHrZP/C9m65svOLmT0YyeAKjzXsSnFsGRXbJ5/yCDTIO3cdsIM8wa8ZOl4DRKzZZKdZvnMODRqFwWmWpmt6ussSwiItTP2X5C3uQITQYtrn/eNDEvyXaByuPNCQoy9+PphUBQfXtw7m5XZGoRGfxg2ZnW6ulzLLq8Tt9UjJrVaqtB9AWmomUz9zVCSYKbdxYcTzK62vRmeVvwJtvYLPw2IId7VK7nuIhvhtQVLWmaZuC7B9LpzFlKmITt8cb/s=;WgSabmAIMY8U0lY8IIt64Q=="
+secured: "OuMfAISlRaKTtS2roZYphEk0WK1sil++ri0cpTh8KQSJHGITp496sOZd1OZQpIH1lTw+oxWBTvLhcBwTWxfPhT82INsl+HKyYVeRzwhZbesqPIfAfv6C+uedjlNOz8DClSzwOyzZE6ndPC9s0fOgEyBe5nEOMnR/jPXEEW9VM2ltAv6ZW1+MjRB86XhqL4s4mX4McPQf9mvzB4+3tbnawKI8Z+SGYSp2jEw2E6HfLY03c5Z5Nef7RKbtetsP7BfuTKik+UzAjCW3KXaAFAzs8uJBDMkVwH5LACdkc7G6s+q4wsC16o0dXlwctpwPffNSS4+YXipR9fssdr/EyCLBwhZOXifAZAi5JH+AzD1DMoI=;cXa6hIDPgUSXQCapc6EotA=="
 ---
 
