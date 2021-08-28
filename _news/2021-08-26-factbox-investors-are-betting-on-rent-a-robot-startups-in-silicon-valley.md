@@ -1,20 +1,20 @@
 ---
 category: news
-title: "Factbox-Investors Are Betting on Rent-A-Robot Startups in Silicon Valley"
+title: "Factbox: Investors are betting on rent-a-robot startups in Silicon Valley"
 excerpt: "Silicon Valley has a new pitch for small U.S. manufacturers struggling with hiring workers but wary of the high costs of high tech: rent-a-robot. Much of the initial risk and cost are taken on by the robot companies."
-publishedDateTime: 2021-08-26T10:27:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2021-08-26/factbox-investors-are-betting-on-rent-a-robot-startups-in-silicon-valley"
-webUrl: "https://www.usnews.com/news/technology/articles/2021-08-26/factbox-investors-are-betting-on-rent-a-robot-startups-in-silicon-valley"
+publishedDateTime: 2021-08-26T14:29:00Z
+originalUrl: "https://www.reuters.com/business/investors-are-betting-rent-a-robot-startups-silicon-valley-2021-08-26/"
+webUrl: "https://www.reuters.com/business/investors-are-betting-rent-a-robot-startups-silicon-valley-2021-08-26/"
 type: article
-quality: 48
-heat: -1
-published: false
+quality: 68
+heat: 118
+published: true
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -22,40 +22,88 @@ topics:
   - AI in Robotics
   - AI
 
+images:
+  - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=50"
+    width: 1200
+    height: 628
+    isCached: true
+
 related:
-  - title: "Robotics startup rents out automated machines to factories for as little as $10 an hour"
-    excerpt: "Companies struggling with a labor shortage and rising salaries are turning to robots for automated work and for those who can't afford a big expense, they're renting robots for as little as $10 per hour."
-    publishedDateTime: 2021-08-26T17:29:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9928905/FOCUS-Rent-robot-Silicon-Valley-s-new-answer-labor-shortage-smaller-U-S-factories.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9928905/amp/FOCUS-Rent-robot-Silicon-Valley-s-new-answer-labor-shortage-smaller-U-S-factories.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9928905/amp/FOCUS-Rent-robot-Silicon-Valley-s-new-answer-labor-shortage-smaller-U-S-factories.html"
+  - title: "Factbox-Investors are betting on rent-a-robot startups in Silicon ValleyÂ"
+    excerpt: "Silicon Valley has a new pitch for small U.S. manufacturers struggling with hiring workers but wary of the high costs of high tech: rent-a-robot. Much of the initial risk and cost are taken on by the robot companies."
+    publishedDateTime: 2021-08-26T10:29:00Z
+    webUrl: "https://www.metro.us/factbox-investors-are-betting-on/"
+    ampWebUrl: "https://www.metro.us/factbox-investors-are-betting-on/amp/"
+    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/factbox-investors-are-betting-on/amp/"
     type: article
     provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 66
+      name: Metro US
+      domain: metro.us
+    quality: 58
     images:
-      - url: "https://i.dailymail.co.uk/1s/2021/08/26/13/47127101-0-image-a-104_1629981069153.jpg"
-        width: 636
-        height: 382
+      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEH7P0DO-BASEIMAGE.jpg"
+        width: 800
+        height: 533
         isCached: true
-  - title: "'He doesn't ask for a raise': Cash-strapped factories are renting ROBOTS to take over human jobs for as little as $10 an hour because they can't afford increased wage demands"
-    excerpt: "Companies struggling with a labor shortage and rising salaries are turning to robots for automated work and for those who can't afford a big expense, they're renting robots for as little as $10 per hour."
-    publishedDateTime: 2021-08-26T17:29:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9928905/FOCUS-Rent-robot-Silicon-Valley-s-new-answer-labor-shortage-smaller-U-S-factories.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9928905/amp/FOCUS-Rent-robot-Silicon-Valley-s-new-answer-labor-shortage-smaller-U-S-factories.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9928905/amp/FOCUS-Rent-robot-Silicon-Valley-s-new-answer-labor-shortage-smaller-U-S-factories.html"
+  - title: "Rent-a-robot: Silicon Valley’s new answer to the labor shortage in smaller U.S. factories"
+    excerpt: "Silicon Valley has a new pitch to persuade small companies to automate: rent-a-robot. Better technology and the need to pay higher wages to humans have produced a surge in sales of robots to big companies all across America."
+    publishedDateTime: 2021-08-26T10:14:00Z
+    webUrl: "https://www.metro.us/rent-a-robot-silicon-valleys-new/"
+    ampWebUrl: "https://www.metro.us/rent-a-robot-silicon-valleys-new/amp/"
+    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/rent-a-robot-silicon-valleys-new/amp/"
     type: article
     provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 22
+      name: Metro US
+      domain: metro.us
+    quality: 50
     images:
-      - url: "https://i.dailymail.co.uk/1s/2021/08/26/13/47127101-0-image-a-104_1629981069153.jpg"
-        width: 636
-        height: 382
+      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2021binary_LYNXMPEH7P0CY-BASEIMAGE.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Rent-a-robot: Silicon Valley’s new answer to the labour shortage in smaller US factories"
+    excerpt: "Silicon Valley has a new pitch to persuade small companies to automate: rent-a-robot. Better technology and the need to pay higher wages to humans have produced a surge in sales of robots to big companies all across America."
+    publishedDateTime: 2021-08-26T11:55:00Z
+    webUrl: "https://www.channelnewsasia.com/business/rent-robot-silicon-valleys-new-answer-labour-shortage-smaller-us-factories-2137457"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 30
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s---lhSRLjt--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_338%2Cw_600/v1/one-cms/core/2021-08-26t101348z_1_lynxmpeh7p0d2_rtroptp_3_usa-robots-manufacturing.jpg?itok=4S77uP2D"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Rent-A-Robot: Silicon Valley’s New Answer To The Labor Shortage In Smaller U.S. Factories"
+    excerpt: "Silicon Valley has a new pitch to persuade small companies to automate: rent-a-robot. Better technology and the need to pay higher wages to humans have"
+    publishedDateTime: 2021-08-27T07:46:00Z
+    webUrl: "https://masscentral.com/rent-a-robot-silicon-valleys-new-answer-to-the-labor-shortage-in-smaller-u-s-factories/"
+    type: article
+    provider:
+      name: Attack
+      domain: masscentral.com
+    quality: 30
+    images:
+      - url: "https://i0.wp.com/masscentral.com/wp-content/uploads/2021/08/ai-robots-post.jpg?fit=600%2C400&#038;ssl=1"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Rent-a-robot: Silicon Valleyâ€™s new answer to the labor shortage in smaller U.S. factories"
+    excerpt: "Silicon Valley has a new pitch to persuade small companies to automate: rent-a-robot. Better technology and the need to pay higher wages to humans have produced a surge in sales of robots to big companies all across America."
+    publishedDateTime: 2021-08-26T10:14:00Z
+    webUrl: "https://kdal610.com/2021/08/26/rent-a-robot-silicon-valleys-new-answer-to-the-labor-shortage-in-smaller-u-s-factories/"
+    type: article
+    provider:
+      name: KDAL 610
+      domain: kdal610.com
+    quality: 29
+    images:
+      - url: "https://storage.googleapis.com/media.mwcradio.com/mimesis/2021-08/26/2021-08-26T101348Z_1_LYNXMPEH7P0D6_RTROPTP_3_USA-ROBOTS-MANUFACTURING.JPG"
+        width: 800
+        height: 600
         isCached: true
 
-secured: "vkArrHjmkOVGM0Vczw9BBJ/dsbhPSDSDaeOKr+lIyi8KGUR7pCOoBq7QGcPc7UDn7fXLNC2NLFLK2ire/nYby6Y8EEC25VrmSbcnAS1Ejwi68z0/2bUEEvZq0Gl8x5A4avYxBBztIFjEVcen/MTjg9LOsUiM1SLzCuqZh/Ls4UferLcNvzDEn6D6wcySpQqaACKwRovFiQyD6aDNRrnQc6xdGDxkx5Kcun+zfipwInKmNQ0MJQtBWBQkxqB/8zzv0cCBJb+rbU6H2duzvB2q9BAr1wpzVVT1+bzwyZkquWiXBnUQ2QEyVAUQdqTuR8ZV5tc+ymGFwWYpbSlPMrHcxAAan/ba8tqewX8L00JfuSMYPWImk5KwRE0YjHKWsOraCMkew+cfchcFXsn4UO6PrH9BTqw4aM8JkEQmQRSCvMQknO0WdEJvAD4Ly8oOidkmzUIXrjt9WG0iePsOXFvO9zcBSYHcguCmQ0NFDCvyCmGTPKnH+hX6tct6ywi4pn4K142gM4nGkMLft8ZlVWWdLw==;AiWG6H5yDXowepzURzQdzg=="
+secured: "YjxEexV26KyH3Qn0hvR8MyuPq5cC6GJlDXMrF2tApr/y5s9mAH3NKnhC5mjhmDVuoGM+F2MO5Lsv2iGzGTidl4V/TvhouURUm1lBdbHKnk/6SE3nXHx6igClA+kZN6d50QRcVRif6lcvpPnPamxZVGMTTcOKz5JRBPJnKzeCVQbZB9hNHXNmDBytUxQRXmFa2UjFGF/LaE2yQ4GIkijpC3lg2PCbM6+ZriViEZhMVXhWcKW31QndYZubKIk+kYi9x1yGTWnOvD6LJplcPqOwVMG1XtIgGVnoKSrrrCQPTn80EYOgv+yGG69J7n5lz9y4BS6XFddCim2oUKoESjv9MW6gbxE71xMXlko381oLd/c=;VEmTKKm5XlVh7Ecr+LjoJA=="
 ---
 

@@ -25,35 +25,79 @@ images:
     isCached: true
 
 related:
-  - title: "NEC Face Recognition Technology Ranks First in NIST Accuracy Testing"
-    excerpt: "Expansion of high-precision face recognition use for FinTech, Digital ID and more TOKYO, Aug 24, 2021 - () - NEC Corporation (NEC; TSE: 6701) today announced that"
-    publishedDateTime: 2021-08-24T09:01:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/08/a22629724/nec-face-recognition-technology-ranks-first-in-nist-accuracy-testing"
-    ampWebUrl: "https://www.benzinga.com/amp/content/22629724"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22629724"
+  - title: "Indian Railways installs a facial recognition system to track commuters"
+    excerpt: "Indian Railways has installed a network of nearly 500 facial recognition cameras to track millions of daily commuters, a report in the Financial Times suggested."
+    publishedDateTime: 2021-08-28T11:15:00Z
+    webUrl: "https://www.thehansindia.com/technology/tech-news/indian-railways-installs-a-facial-recognition-system-to-track-commuters-703762"
+    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/indian-railways-installs-a-facial-recognition-system-to-track-commuters-703762"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/indian-railways-installs-a-facial-recognition-system-to-track-commuters-703762"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 74
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2021/08/28/1104608-indian-railways.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "India deploys facial recognition surveilling millions of commuters"
+    excerpt: "Indian Railways, one of the world’s busiest urban rail systems, has deployed a network of almost 500 facial recognition cameras to track millions of daily commuters, as the Indian government increases its surveillance efforts."
+    publishedDateTime: 2021-08-26T17:04:00Z
+    webUrl: "https://www.ft.com/content/b5e3fdc9-2fed-45f1-beff-2944da89f6c1?shareType=nongift"
+    ampWebUrl: "https://amp.ft.com/content/b5e3fdc9-2fed-45f1-beff-2944da89f6c1"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/b5e3fdc9-2fed-45f1-beff-2944da89f6c1"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
     quality: 59
     images:
-      - url: "https://www.acnnewswire.com/topimg/Low_NECNIST.jpg"
-        width: 610
-        height: 384
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe3c15c96-a674-4114-8ec0-0fe5f1cab4f8.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
         isCached: true
-  - title: "IBIA Dispels Myths about Face Recognition Technology"
-    excerpt: "The International Biometrics + Identity Association (IBIA) today published a white paper entitled ” Data Analysis of Facial Recognition Technology.” The paper offers an analysis of the independent testing by the National Institute of Standards and Technology ( NIST),"
-    publishedDateTime: 2021-08-26T12:51:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-a8213f1964e577784f00030a4156c5b5"
+  - title: "Why Are Indian Institutes Racing To Launch B Tech in AI Courses"
+    excerpt: "Gone are the days when students fancied a computer science seat in a top tier college. Now there is a demand for specialisation. Thanks to the hype around artificial intelligence (AI), many Indian institutions are now racing to offer their own B."
+    publishedDateTime: 2021-08-26T06:30:00Z
+    webUrl: "https://analyticsindiamag.com/why-are-indian-institutes-racing-to-launch-b-tech-in-ai-courses/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
     quality: 39
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/B-Tech-in-Artificial-Intelligence-AI.jpg"
+        width: 2240
+        height: 1260
+        isCached: true
+  - title: "Augnito looks to tap growing India market for speech recognition in health"
+    excerpt: "The use of voice recognition systems based on artificial intelligence (AI) in health care is emerging in India, which offers a potentially enormous market, according to Scribetech Healthcare (India) Pvt."
+    publishedDateTime: 2021-08-27T00:00:00Z
+    webUrl: "https://www.bioworld.com/articles/510874-augnito-looks-to-tap-growing-india-market-for-speech-recognition-in-health"
+    type: article
+    provider:
+      name: BioWorld
+      domain: bioworld.com
+    quality: 37
+    images:
+      - url: "https://www.bioworld.com/ext/resources/Stock-images/Misc/voice-soundwave-analysis.png?height=635&t=1605222774&width=1200"
+        width: 847
+        height: 635
+        isCached: true
+  - title: "Western Railways Commissions Russian Face Recognition Technology; Can Identify 50 People In A Single Frame"
+    excerpt: "The Western Railway, one of the busiest railway networks in India, has commissioned 470 cameras featuring real-time face recognition technology developed by Russian company NtechLab. According to the company,"
+    publishedDateTime: 2021-08-26T07:53:00Z
+    webUrl: "https://swarajyamag.com/insta/western-railways-commissions-russian-face-recognition-technology-can-identify-50-people-in-a-single-frame"
+    type: article
+    provider:
+      name: Swarajya
+      domain: swarajyamag.com
+    quality: 36
+    images:
+      - url: "https://gumlet.assettype.com/swarajya%2F2021-08%2Fe7ebe932-7439-4513-a7b2-135a2510571e%2Fd7f2c1fcc278280702f4f0f5a320ce5d.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "kS/3q4xO61Dp8y+tcffcvotlnillnvg7qtMft9lOsIE99Dd81KN1OQqVF7/5YMVPpZ+eLpJzo1XbhbB9vuEe3Qgpy9XpVvp2eZACkhyI/PjyyMTwR8F5fsRI8GTEtFUYHSuUJwkKFWABVL729WJQcKt+9P1js0tj9+wXvRp5stsCX+dqzOTbUItDMzy03cjzxVSKIHTDKqGPY2Oi+haRDu6hZ4ZNMhXs0+nPb+8PeY6OMsIgZ7HdJnqOeJ42b20+nCZYb7WJYvW0/Ffkp8Si/UmTzBf/9w1SEBnbRY6MmWplnxV/V+xWey7b5J0Mt/pcazHd9dtUncOr8yCDCb/Bh9qIlljHXzWcaDinsaL7gX4=;yVm8TB+PddXNBX0iiL0TjQ=="

@@ -45,6 +45,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Pre-pitch tactics, Warby Parker S-1, Israel’s fintech ecosystem"
+    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
+    publishedDateTime: 2021-08-28T11:07:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_fintech-news-today/pre-pitch-tactics-warby-parker-s-1-israels-fintech-ecosystem-2/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 24
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/1630148873_0e8ec3c68817b80c8edfe9ad578258ac.jpeg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "RhsX8r6UM1dAS+boby0fF1qONGcXXfXgHWkVB6vENHqaCnyKvjo1EsUBqp+qL0rvhii6YK4D0l8/om0DNpXxmF0g3VZv/QxyvYzLYDRQzawwJsFJ4L/qvMjqwD6i/YR2E0rEPBMsrIU3Ux1OOVrRSYydg7uLOoOi8I+CHurQKHsqh3lCwKBTX6pClI+Ls6vk1LfN8MLb8A82d+PmrVOZv3PFerr50PjdjFEt8R3oGv/Q5rTbL00Aujw/wmGl2k7rUF9aX2Ow69RQdVWKvBom38hJ2060+aieVVhLyQ0Ej6A0HcDiPXI2ImOCROc+k2J1YWDGVzX8HSLArxeOPpCFvMPjf04R/jksyjSL7GcuWXXZWPuAuvmgbEbtqs2KSCwsCyMq+tvb0l23RtRl7MgeQvXiFHtjBk5rqnFS1bzY2bsWOeO74cgXNDBq3jz2asU/sUzvjZ9frmFBI7gQOTmuDQ+7GgqTpKLuLmx4TNJYpVtHKj5AZmqyvZJ3Sqp4ML52v1bdScs0VuSOJYZ4PyZnTQ==;2vtewIk7mK2HVpsiFNsIWQ=="
 ---

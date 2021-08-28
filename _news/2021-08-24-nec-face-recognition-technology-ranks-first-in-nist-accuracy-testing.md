@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/22629724"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22629724"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Benzinga.com
@@ -40,20 +40,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "Fast adoption of facial recognition technology in India likely to trigger privacy issues"
-    excerpt: "Businesses, big corporates and even government departments have adopted facial recognition technology (FRT) in India for authentication and security reasons. The COVID-19 pandemic has also led to facial recognition systems,"
-    publishedDateTime: 2021-08-28T05:16:00Z
-    webUrl: "https://mybigplunge.com/tech-plunge/technology/fast-adoption-of-facial-recognition-technology-in-india-likely-to-trigger-privacy-issues/"
-    type: article
-    provider:
-      name: mybigplunge.com
-      domain: mybigplunge.com
-    quality: 30
-    images:
-      - url: "https://mybigplunge.com/wp-content/uploads/2021/08/proxyclick-visitor-management-system-5XPUpAdcdw-unsplash-1000x600.jpg"
-        width: 1000
-        height: 600
         isCached: true
 
 secured: "AjLgvdT8OTCFce4ljd1siysm53o1PA6w/oNtUEqYHcUAHznKjfBLzpZwPPjMdTQQCFlOcV/XUVlTbgPTPzu+aQuttztSMAKmtaO+RA8KRkvQFive61esHmhapeJ5bufWhh662pFutXV+MyF3BBQqceRs/+77zxET6CZb0WIo3KU9a0JHGmyTFF0Zfq8Y2U/pZMCKB1YAXwDKK6VZJz5k38fyyq1rQauRKX5ELm7hly9+PbKAvPsWqIEoeN4DKTHx4Ig6QAS/j3HuKjWvZgcypMhXkq6Jb39nxuQqXa4aiFYDkHHNtoB+gsG8AlZCzv1/h1D+8/biaKRmG2n3PeKhRIHNj74mGcApGg7Woki4mAk=;d1/yJ5K8ZqQP6/qfOV+tMg=="

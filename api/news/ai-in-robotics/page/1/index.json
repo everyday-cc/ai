@@ -62,7 +62,7 @@
       "originalUrl": "https://techxplore.com/news/2021-08-human-robot-collaboration-ai-human-intention.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -200,7 +200,7 @@
       "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-9928905/FOCUS-Rent-robot-Silicon-Valley-s-new-answer-labor-shortage-smaller-U-S-factories.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -222,6 +222,58 @@
         "name": "Daily Mail",
         "domain": "dailymail.co.uk",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-26-factbox-investors-are-betting-on-rent-a-robot-startups-in-silicon-valley.md",
+      "title": "Factbox: Investors are betting on rent-a-robot startups in Silicon Valley",
+      "excerpt": "Silicon Valley has a new pitch for small U.S. manufacturers struggling with hiring workers but wary of the high costs of high tech: rent-a-robot. Much of the initial risk and cost are taken on by the robot companies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/investors-are-betting-rent-a-robot-startups-silicon-valley-2021-08-26/",
+      "originalUrl": "https://www.reuters.com/business/investors-are-betting-rent-a-robot-startups-silicon-valley-2021-08-26/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=50",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-26T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -392,49 +444,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-26-factbox-investors-are-betting-on-rent-a-robot-startups-in-silicon-valleya.md",
-      "title": "Factbox-Investors are betting on rent-a-robot startups in Silicon ValleyÂ",
-      "excerpt": "Silicon Valley has a new pitch for small U.S. manufacturers struggling with hiring workers but wary of the high costs of high tech: rent-a-robot. Much of the initial risk and cost are taken on by the robot companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.metro.us/factbox-investors-are-betting-on/",
-      "originalUrl": "https://www.metro.us/factbox-investors-are-betting-on/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEH7P0DO-BASEIMAGE.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.metro.us/factbox-investors-are-betting-on/amp/",
-      "cdnAmpWebUrl": "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/factbox-investors-are-betting-on/amp/",
-      "publishedDateTime": "2021-08-26T03:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metro US",
-        "domain": "metro.us",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-26-velodyne-lidar-announces-multi-year-sales-agreement-with-renu-robotics.md",
       "title": "Velodyne Lidar Announces Multi-Year Sales Agreement with Renu Robotics",
       "excerpt": "Velodyne Lidar, Inc. (Nasdaq: VLDR, VLDRW) today announced a multi-year agreement to provide its Puck™ lidar sensors to Renu Robotics, an industry leader in autonomous vegetation management systems. Renu Robotics’ Renubot,",
@@ -583,7 +592,7 @@
       "originalUrl": "https://electrek.co/2021/08/25/tesla-starts-hiring-roboticists-tesla-bot-humanoid-robot-project/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 244,
+      "heat": 234,
       "tags": null,
       "images": [
         {

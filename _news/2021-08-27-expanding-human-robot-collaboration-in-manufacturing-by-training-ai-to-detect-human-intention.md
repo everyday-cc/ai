@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-08-human-robot-collaboration-ai-hum
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-human-robot-collaboration-ai-human-intention.amp"
 type: article
 quality: 63
-heat: 73
+heat: 93
 published: true
 
 provider:
@@ -41,6 +41,29 @@ related:
         width: 573
         height: 494
         isCached: true
+  - title: "NEURAL MANUFACTURING Data: The Foundation of AI-Driven Transformation in Manufacturing"
+    excerpt: "AI, which forms the key technology backbone of manufacturing organizations, has evolved so much that it builds end-to-end intelligence in the value chains of firms. In product innovation, for example,"
+    publishedDateTime: 2021-08-25T00:00:00Z
+    webUrl: "https://www.pressreleasepoint.com/neural-manufacturing-data-foundation-ai-driven-transformation-manufacturing"
+    type: article
+    provider:
+      name: KLAS Press Release
+      domain: pressreleasepoint.com
+    quality: 31
+    images:
+      - url: "https://www.pressreleasepoint.com/sites/all/modules/press_release/social-media-icons/fbpage.png"
+        width: 256
+        height: 256
+        isCached: true
+  - title: "Seeming Human: Artificial Intelligence and Victorian Realist Character"
+    excerpt: "Their definition of intelligence went beyond solving math problems to include what we might call subjectivity: creativity, tastes and preferences, self-awareness, and learned behaviors. We have come to call this artificial intelligence (AI), a term that ..."
+    publishedDateTime: 2021-08-28T09:34:00Z
+    webUrl: "https://www.jstor.org/stable/j.ctv1wbp6zx"
+    type: article
+    provider:
+      name: JSTOR
+      domain: jstor.org
+    quality: 17
 
 secured: "zkLUw9iAHqmUdTN7fD++fvJPRRp1611F37vfteCy/rbFSYneG6BQyOj/VuuTxUypaC1B9ZQ+jHMdW9kP4ESzHgCmvWCEhQGaLIEgO/TpDRM5ZE+1+x76LLRhxe/ILLgOjPZrc7tKmpQ93tHKwy8zecujkmhnI55ujQsOyQLFQYR99XUyaurwQfwx9tfDHiYJW3JSN533xFPxAI54XTlm3TI8g+2S0q+92Pmp01HqCyeE0zGch1RUZrT3Xms67MolhU4tXTGKLc+VvaCGVTBf7tl3EqKElnkNCPTHvQaLe+lXNHhC2nKPefA2irhqoyd98TYVnz9O/96oFESPzGdSNpxv1wv0bWFonye6tQk4iunWHzoSf8actTgwoLzrz1WzKX4ZuFRErk3g4ENqMRXXsPDszaa4zBHKp7tGFzGYRW4HbOSo6e3z7rGwQBngPtrWxJWdvgtSfUx2VszCBQAf9gRXhrrkgYda44qtnCbZFHUSacHgqAhSDA++AAjK8GWexXRZ6AJyrSSRkRHXCI8blA==;XtDgMMjrLcq7AMk1BIrGXQ=="
 ---

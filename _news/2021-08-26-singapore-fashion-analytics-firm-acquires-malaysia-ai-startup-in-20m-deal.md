@@ -66,22 +66,6 @@ related:
         width: 800
         height: 555
         isCached: true
-  - title: "AI is Pivotal the Future of the Autonomous Shipping"
-    excerpt: "The shipping industry is responsible for around 90% of the world’s trade distribution, carrying the likes of machinery, motors,"
-    publishedDateTime: 2021-08-23T17:27:00Z
-    webUrl: "https://www.marinelink.com/news/ai-pivotal-future-autonomous-shipping-490075"
-    ampWebUrl: "https://www.marinelink.com/amp/news/ai-pivotal-future-autonomous-shipping-490075"
-    cdnAmpWebUrl: "https://www-marinelink-com.cdn.ampproject.org/c/s/www.marinelink.com/amp/news/ai-pivotal-future-autonomous-shipping-490075"
-    type: article
-    provider:
-      name: Marine Link
-      domain: marinelink.com
-    quality: 57
-    images:
-      - url: "https://images.marinelink.com/images/maritime/w800h600pad/quardia-adobe-stock-125369.jpeg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "How The United States Army Is Leveraging AI: Interview With Kristin Saling, Chief Analytics Officer & Acting Dir., Army People Analytics"
     excerpt: "To remain competitive, the US Army has created the Army Talent Management Task Force to address the current and future needs of the war fighter. LTC Saling shares her insights into how analytics, automation,"
     publishedDateTime: 2021-08-28T05:00:00Z

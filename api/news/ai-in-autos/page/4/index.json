@@ -2,6 +2,110 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-06-li-auto-owner-tricks-his-vehicle-into-performing-reckless-full-self-driving.md",
+      "title": "Li Auto owner tricks his vehicle into performing reckless full self-driving",
+      "excerpt": "Footage of a man recklessly driving his Li Auto ONE SUV has gone viral in China after he tricked his SUV into \"full self-driving\" mode.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/08/05/li-auto-owner-tricks-his-vehicle-into-performing-reckless-full-self-driving/",
+      "originalUrl": "https://electrek.co/2021/08/05/li-auto-owner-tricks-his-vehicle-into-performing-reckless-full-self-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Li-Auto-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/08/05/li-auto-owner-tricks-his-vehicle-into-performing-reckless-full-self-driving/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/05/li-auto-owner-tricks-his-vehicle-into-performing-reckless-full-self-driving/amp/",
+      "publishedDateTime": "2021-08-05T10:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-06-qualcomm-risks-self-driving-prang.md",
+      "title": "Qualcomm risks self-driving prang",
+      "excerpt": "Qualcomm’s (QCOM.O) excitement over self-driving may be dragging it off the financial highway. The $165 billion U.S. telecommunications technology group is offering $4.6 billion for Sweden’s Veoneer (VNE.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/breakingviews/qualcomm-risks-self-driving-prang-2021-08-05/",
+      "originalUrl": "https://www.reuters.com/breakingviews/qualcomm-risks-self-driving-prang-2021-08-05/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/BmEQhNR3h6WvY4rl0XesUwQsE4c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QPGYQUSM6BJD3ELH7ZQLK6DILI.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-05T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-05-plus-completes-driverless-level-4-semi-truck-highway-demonstration.md",
       "title": "Plus Completes Driverless Level 4 Semi Truck Highway Demonstration",
       "excerpt": "The driverless semi truck was operated using ... industry veterans who have extensive experience in high tech and artificial intelligence. Plus is developing low-cost, high-performance full ...",
@@ -1238,92 +1342,6 @@
       "provider": {
         "name": "Financial Advisor",
         "domain": "fa-mag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-teslas-199month-full-self-driving-mode-confused-the-moon-for-a-traffic-light.md",
-      "title": "Tesla’s $199/Month Full Self-Driving Mode Confused The Moon For A Traffic Light",
-      "excerpt": "Ask it to identify a traffic light, and it might click on a picture of the moon or even a Burger King sign. That’s almost exactly what Tesla’s Full Self-Driving technology did, according to a few videos uploaded online.",
-      "sourceUrl": null,
-      "webUrl": "https://designtaxi.com/news/414931/Tesla-s-199-Month-Full-Self-Driving-Mode-Confused-The-Moon-For-A-Traffic-Light/",
-      "originalUrl": "https://designtaxi.com/news/414931/Tesla-s-199-Month-Full-Self-Driving-Mode-Confused-The-Moon-For-A-Traffic-Light/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://editorial.designtaxi.com/editorial-images/news-Tesla270721/Tesla-Moon-Traffic-Light-1.jpg",
-          "width": 600,
-          "height": 398,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TAXI",
-        "domain": "designtaxi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-pittsburghs-expertise-in-self-driving-tech-attracts-waymo.md",
-      "title": "Pittsburgh’s expertise in self-driving tech attracts Waymo",
-      "excerpt": "Waymo, one of the industry’s leaders in self-driving tech, is opening an office in Pittsburgh at Bakery Square.",
-      "sourceUrl": null,
-      "webUrl": "https://nextpittsburgh.com/latest-news/pittsburghs-expertise-in-self-driving-tech-attracts-waymo/",
-      "originalUrl": "https://nextpittsburgh.com/latest-news/pittsburghs-expertise-in-self-driving-tech-attracts-waymo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nextpittsburgh-images.s3.amazonaws.com/2021/07/23162123/Screen-Shot-2021-07-23-at-4.20.21-PM-e1627071756650.png",
-          "width": 750,
-          "height": 503,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nextpittsburgh.com/latest-news/pittsburghs-expertise-in-self-driving-tech-attracts-waymo/amp/",
-      "cdnAmpWebUrl": "https://nextpittsburgh-com.cdn.ampproject.org/c/s/nextpittsburgh.com/latest-news/pittsburghs-expertise-in-self-driving-tech-attracts-waymo/amp/",
-      "publishedDateTime": "2021-07-26T11:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NEXTpittsburgh",
-        "domain": "nextpittsburgh.com",
         "images": null,
         "publishers": null,
         "authors": null

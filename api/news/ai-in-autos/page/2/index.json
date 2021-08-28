@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-20-rwth-the-future-with-artificial-intelligence.md",
+      "title": "RWTH: The future with artificial intelligence",
+      "excerpt": "Aachen City Hall How do we encounter artificial intelligence in our everyday lives? At home, on the street, while shopping? And how will AI shape our everyday life in the future? Through self-driving cars or in medical care? And where are the limits?",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/rwth-the-future-with-artificial-intelligence/",
+      "originalUrl": "https://indiaeducationdiary.in/rwth-the-future-with-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/12/rwth-aachen-university-1.png",
+          "width": 722,
+          "height": 362,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/rwth-the-future-with-artificial-intelligence/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/rwth-the-future-with-artificial-intelligence/",
+      "publishedDateTime": "2021-08-20T05:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-20-tesla-bot-reveal-sparks-tidal-wave-of-jokes-memes-as-people-make-i-robot-comparisons.md",
+      "title": "Tesla Bot Reveal Sparks Tidal Wave of Jokes, Memes as People Make 'I, Robot' Comparisons",
+      "excerpt": "Tesla Bot has been presented to the public by Elon Musk and Twitter has predictably reacted with humor and mock horror.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/tesla-bot-robot-elon-musk-asimov-memes-1621357",
+      "originalUrl": "https://www.newsweek.com/tesla-bot-robot-elon-musk-asimov-memes-1621357",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1875508/tesla-bot.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/tesla-bot-robot-elon-musk-asimov-memes-1621357?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/tesla-bot-robot-elon-musk-asimov-memes-1621357?amp=1",
+      "publishedDateTime": "2021-08-20T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-08-20-elon-musk-unveils-tesla-bot-a-humanoid-robot-that-uses-vehicle-ai.md",
       "title": "Elon Musk unveils Tesla Bot, a humanoid robot that uses vehicle AI",
       "excerpt": "Tesla . Speaking at Tesla's AI Day, founder Elon Musk revealed the Tesla Bot, a humanoid robot running on artificial intelligence used by Tesla's autonomous vehicles. \"It makes se",
@@ -1320,93 +1416,6 @@
       "provider": {
         "name": "Miami Herald",
         "domain": "miamiherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-15-getting-started-with-the-aws-deepracer-offroad-sample-project.md",
-      "title": "Getting started with the AWS DeepRacer Offroad sample project",
-      "excerpt": "The AWS DeepRacer Offroad sample project is a sample application built on top of the existing AWS DeepRacer application that adds additional capability to the AWS DeepRacer device to autonomously navigate through a path of QR codes by decoding the ...",
-      "sourceUrl": null,
-      "webUrl": "https://github.com/aws-deepracer/aws-deepracer-offroad-sample-project/blob/main/getting-started.md",
-      "originalUrl": "https://github.com/aws-deepracer/aws-deepracer-offroad-sample-project/blob/main/getting-started.md",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://opengraph.githubassets.com/2155729e54c4bf5f0daf5f0d6135b373bf5b9f812118fc22c12c966f51502308/aws-deepracer/aws-deepracer-offroad-sample-project",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-14T17:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GitHub",
-        "domain": "github.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-14-europeans-pull-together-to-lead-av-safety-push.md",
-      "title": "Europeans pull together to lead AV safety push",
-      "excerpt": "Rather than tackling autonomous vehicle safety issue individually, a number of European companies and organizations have united in a cooperative effort.",
-      "sourceUrl": null,
-      "webUrl": "https://www.autonews.com/technology/europeans-pull-together-lead-av-safety-push",
-      "originalUrl": "https://www.autonews.com/technology/europeans-pull-together-lead-av-safety-push",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3-prod.autonews.com/s3fs-public/styles/width_280/public/HUDI-01_i.jpg",
-          "width": 265,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-14T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -45,22 +45,6 @@ related:
         height: 785
         isCached: true
   - title: "Celebrity spotting: Amazon improves facial recognition for famous people"
-    excerpt: "Facial recognition AI used by police on the public remains a contentious issue, but Amazon is pressing ahead with its Rekognition technology for identifying celebrities in images and video. In May, Amazon extended its one-year ban from June 2020 on US ..."
-    publishedDateTime: 2021-08-28T04:25:00Z
-    webUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/"
-    ampWebUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 92
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/08/27/0edfb3a5-a400-465b-86f8-f06782fe711e/amazon-rekognition-wener-vogels.jpg"
-        width: 1054
-        height: 600
-        isCached: true
-  - title: "Celebrity spotting: Amazon improves facial recognition for famous people"
     excerpt: "Amazon promises its Rekognition machine-learning tech will save hours of humans tagging photos and videos of celebrities."
     publishedDateTime: 2021-08-27T03:51:00Z
     webUrl: "https://www.zdnet.com/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/"
@@ -91,6 +75,20 @@ related:
       - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-08/d6385430-0632-11ec-9d54-a4ebe312b944"
         width: 5988
         height: 3992
+        isCached: true
+  - title: "Celebrity spotting: Amazon improves facial recognition for famous people"
+    excerpt: "The service caters to media companies, and AWS says that Rekognition now \"automatically recognizes tens of thousands of well-known personalities in images and videos using machine learning (ML ... include Microsoft's Azure Face and Google's Cloud ..."
+    publishedDateTime: 2021-08-28T10:39:00Z
+    webUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 70
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/r/2021/08/27/0b1ee20f-42d7-45d1-96b2-dbb621c20c86/thumbnail/770x578/556ef2129ec59a24cf677f1dfdd98714/amazon-rekognition-bezos.jpg"
+        width: 770
+        height: 578
         isCached: true
   - title: "Athreon Launches Front-End Speech Recognition Solution"
     excerpt: "Athreon, a leading business and knowledge process outsourcing company, announced today the launch of its new front-end speech recognition solution for healthcare. Athreon’s speech recognition empowers physicians to focus on patient care versus administrative,"

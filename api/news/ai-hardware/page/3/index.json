@@ -2,6 +2,93 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-04-air-t-edge-series-rugged-software-define-radios-with-a-gpu.md",
+      "title": "AIR-T Edge Series-Rugged Software Define Radios with a GPU",
+      "excerpt": "The AIR8201 incorporates the proven technology of Artificial Intelligence Radio Transceiver (AIR-T) product line: an NVIDIA Jetson TX2i industrial-grade embedded GPU processor, an industrial grade Xilinx FPGA,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/air-t-edge-series-rugged-software-define-radios-with-a-gpu-1030689624",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/air-t-edge-series-rugged-software-define-radios-with-a-gpu-1030689624",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1587736/Deepwave_Digital_edge_series_announcement.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-04T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-artificial-intelligence-ai-chips-market-with-rising-security-issues-by-key-players-amd-nvidia-google-intel.md",
+      "title": "Artificial Intelligence (AI) Chips Market with Rising Security Issues by Key Players: AMD, NVIDIA, Google, Intel",
+      "excerpt": "Chips market research Report is an inestimable supply of perceptive information for business strategists. This Artificial Intelligence (AI) Chips Market study provides comprehensive data which enlarge the understanding,",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/artificial-intelligence-ai-chips-market-with-rising-security-issues-by-key-players-amd-nvidia-google-intel/",
+      "originalUrl": "https://manometcurrent.com/artificial-intelligence-ai-chips-market-with-rising-security-issues-by-key-players-amd-nvidia-google-intel/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/artificial-intelligence-ai-chips-market-with-rising-security-issues-by-key-players-amd-nvidia-google-intel/?amp=1",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-chips-market-with-rising-security-issues-by-key-players-amd-nvidia-google-intel/?amp=1",
+      "publishedDateTime": "2021-08-04T04:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-08-04-google-and-qualcomm-to-continue-working-together-despite-new-tensor-chip.md",
       "title": "Google and Qualcomm to continue working together despite new Tensor chip",
       "excerpt": "While neither Google nor Qualcomm, have said anything about what these partnerships will be, it's possible that Google will continue sourcing modems and other components from Qualcomm",
@@ -1321,101 +1408,6 @@
       "ampWebUrl": "https://www.gizchina.com/2021/07/24/mediatek-dimensity-1300t-gaming-chip-may-be-unveiled-on-july-26/amp/",
       "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/07/24/mediatek-dimensity-1300t-gaming-chip-may-be-unveiled-on-july-26/amp/",
       "publishedDateTime": "2021-07-24T02:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GizChina",
-        "domain": "gizchina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-24-xilinx-expands-vitis-ai-development-platform-to-support-latest-versal-acap-and-kria-som-devices.md",
-      "title": "Xilinx Expands Vitis AI Development Platform To Support Latest Versal ACAP And Kria SOM Devices",
-      "excerpt": "Since its unveiling, the Vitis AI development environment has evolved and expanded in scope to incorporate more tools, example designs, libraries and models designed to best leverage Xilinx’s varied array of compute devices,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/marcochiappetta/2021/07/23/xilinx-expands-vitis-ai-development-platform-to-support-latest-versal-acap-and-kria-som-devices/",
-      "originalUrl": "https://www.forbes.com/sites/marcochiappetta/2021/07/23/xilinx-expands-vitis-ai-development-platform-to-support-latest-versal-acap-and-kria-som-devices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60fb0fbc45d4d6d1fe8f0946%2F0x0.jpg",
-          "width": 1107,
-          "height": 813,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/marcochiappetta/2021/07/23/xilinx-expands-vitis-ai-development-platform-to-support-latest-versal-acap-and-kria-som-devices/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcochiappetta/2021/07/23/xilinx-expands-vitis-ai-development-platform-to-support-latest-versal-acap-and-kria-som-devices/amp/",
-      "publishedDateTime": "2021-07-23T11:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-oneplus-nord-2-unveiled-with-dimensity-1200-ai-50mp-camera-and-more.md",
-      "title": "OnePlus Nord 2 unveiled with Dimensity 1200 AI, 50MP camera and more",
-      "excerpt": "OnePlus has announced the OnePlus Nord 2 with Dimensity 1200 AI SoC, 50MP camera with OIS, and 65W fast-charging.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizchina.com/2021/07/22/oneplus-nord-2-unveiled-with-dimensity-1200-ai-50mp-camera-and-more/",
-      "originalUrl": "https://www.gizchina.com/2021/07/22/oneplus-nord-2-unveiled-with-dimensity-1200-ai-50mp-camera-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizchina.com/wp-content/uploads/images/2021/07/OnePlus-NOrd2-2-1-1024x576.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizchina.com/2021/07/22/oneplus-nord-2-unveiled-with-dimensity-1200-ai-50mp-camera-and-more/amp/",
-      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/07/22/oneplus-nord-2-unveiled-with-dimensity-1200-ai-50mp-camera-and-more/amp/",
-      "publishedDateTime": "2021-07-22T11:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "GizChina",

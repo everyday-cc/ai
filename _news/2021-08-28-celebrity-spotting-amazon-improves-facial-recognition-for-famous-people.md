@@ -1,14 +1,12 @@
 ---
 category: news
 title: "Celebrity spotting: Amazon improves facial recognition for famous people"
-excerpt: "Facial recognition AI used by police on the public remains a contentious issue, but Amazon is pressing ahead with its Rekognition technology for identifying celebrities in images and video. In May, Amazon extended its one-year ban from June 2020 on US ..."
-publishedDateTime: 2021-08-28T04:25:00Z
-originalUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/"
-webUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/"
-ampWebUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/"
+excerpt: "The service caters to media companies, and AWS says that Rekognition now \"automatically recognizes tens of thousands of well-known personalities in images and videos using machine learning (ML ... include Microsoft's Azure Face and Google's Cloud ..."
+publishedDateTime: 2021-08-28T10:39:00Z
+originalUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/"
+webUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/"
 type: article
-quality: 92
+quality: 70
 heat: -1
 published: false
 
@@ -21,15 +19,14 @@ provider:
       height: 50
 
 topics:
-  - AWS AI
+  - Microsoft AI
   - AI
   - Computer Vision
-  - Microsoft AI
 
 images:
-  - url: "https://www.zdnet.com/a/hub/i/2021/08/27/0edfb3a5-a400-465b-86f8-f06782fe711e/amazon-rekognition-wener-vogels.jpg"
-    width: 1054
-    height: 600
+  - url: "https://www.zdnet.com/a/hub/i/r/2021/08/27/0b1ee20f-42d7-45d1-96b2-dbb621c20c86/thumbnail/770x578/556ef2129ec59a24cf677f1dfdd98714/amazon-rekognition-bezos.jpg"
+    width: 770
+    height: 578
     isCached: true
 
 related:
@@ -150,6 +147,6 @@ related:
         height: 499
         isCached: true
 
-secured: "QZJVQApC+cXRFUiHrhyrLHJZ39YxVAtKzGpBwO/Edc38zYBjMlWlAk0zAB4hgYrxiesqLBovWQJi9QsfESQQJzrRc7QPSuG7/yVdCSUHDmrH2ki1BzZelFhgGcahNrEnohMSwEzuY5r8on9KpX9Oxmk9bFq3W5GQYtlSgawvHuqpdKLdry+8o6iZCppgPw/mt83YRt/GqyGBpUyDt2Yuc6txDgqx+71SRCsvJSaTMCWFk0DA3m/jYVTJqjI8WSWnpdRf3wsenWuaMcOYxw7K5xJPca6UQ73iLn2DxEd8iIxyVTqNwvLrfQv9axI+E+zvv41bR86kYKZzDBpbzIPzY7ntxCoalb056uoptmih8DQ=;2zZhNu8hzxygYQB4i7RKhw=="
+secured: "ja0EFPLEuNripuKSiu9+jnO9CS1F4ZeX2Pp3noHY+0nMqnNunZm1QeHhm0KjhE0C4JxnO0H8mSyDS5fgud4Tn3yw0YRAPnUh6oeF/66mH14Gz2E/AQlfTCR/7kLIufxqRNzs05Rr9Xbzr+h85/b4VsSy3YtrsMXu0Crj6PEP2lRvlpc31y3jyNO3XB6IwB+tZVeJCIqkQdrLG9BuXnOqz1wVqRq09hMbN63g81Rra+f1zI1zYZVeq/qqB47TzbmPBuiOIZmUCgGMe8LzbZascJ9S1XLLe5tN0g7pgUkEUjjmiQDENK2JLZs9x3vXGulvwClC0p5IG/R10iUNH+I4UptLB6iAGkKvOMmZHguVLKo=;fAUeK1bSZTpjruI+wSsyeQ=="
 ---
 

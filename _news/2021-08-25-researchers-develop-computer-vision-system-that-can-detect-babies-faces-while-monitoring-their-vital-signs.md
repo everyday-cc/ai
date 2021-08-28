@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Civil liberties groups demand total ban on facial recognition technology"
-    excerpt: "Amnesty International, Liberty and Privacy International join more than 30 organisations warning that the police, Home Office, and councils are misusing the intrusive technology"
-    publishedDateTime: 2021-08-23T17:08:00Z
-    webUrl: "https://morningstaronline.co.uk/article/b/civil-liberties-groups-demand-total-ban-on-facial-recognition-technology"
-    type: article
-    provider:
-      name: Morning Star
-      domain: morningstaronline.co.uk
-    quality: 40
-    images:
-      - url: "https://morningstaronline.co.uk/sites/default/files/face%20police.jpg"
-        width: 1185
-        height: 585
-        isCached: true
 
 secured: "JCJTYEn18Bm2ipGegwuKviPmHjp9BKVAJeKklQoTaKCuLrlIjm6U8YJOxKjrauumQuRax4p1tHDbMkaTwt5WsYuBGSvoelISlqOpVn5UkMx+FxujmVvuPGSHHf9nwGMgxxyxI+bt/3HUo/hH3T2Y0clbS83ze5rGoFjHpy70bThLkw0JrWqZ1MiWxlT2TiJ+t6pY5rUao94C24SVARGFGL7B2k5/Oz2jO6bdbU1ptfkoxV+5S3SoxhQI+BzMHl7T4DVa1sjGZ8yteL47ZdmSdh3ho5KmLkK3R9x9i8YBVkyg9IIARhRXucGLp3lndLP3KkPVLtugWrTT4zbCU0LnoeKR9BRLAG0q5f1Ac8H0PNYKlVT6adMpQX8xCcPCfNjxIqsD54IXryTovkuz9RdtedcYxC4uXVWSqy8I/0LJfWA4XpYXJEn4Lzz2D235l19RxRpRHQLhFSBrCiowu1JxT6Tj9fQReb6/afacuqrZ4oe1Swgc9suFbY1yguUo18s5BDZvkaqO1F0zSqBNYzbIKg==;g4PaPXRuJzaKHtuIKw59pg=="
 ---

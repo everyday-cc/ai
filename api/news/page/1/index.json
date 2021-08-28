@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-28-indian-railways-installs-a-facial-recognition-system-to-track-commuters.md",
+      "title": "Indian Railways installs a facial recognition system to track commuters",
+      "excerpt": "Indian Railways has installed a network of nearly 500 facial recognition cameras to track millions of daily commuters, a report in the Financial Times suggested.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/technology/tech-news/indian-railways-installs-a-facial-recognition-system-to-track-commuters-703762",
+      "originalUrl": "https://www.thehansindia.com/technology/tech-news/indian-railways-installs-a-facial-recognition-system-to-track-commuters-703762",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2021/08/28/1104608-indian-railways.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/technology/tech-news/indian-railways-installs-a-facial-recognition-system-to-track-commuters-703762",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/indian-railways-installs-a-facial-recognition-system-to-track-commuters-703762",
+      "publishedDateTime": "2021-08-28T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-28-self-driving-electric-cars-could-mean-the-end-of-short-haul-flights.md",
       "title": "Self-Driving Electric Cars Could Mean The End Of Short Haul Flights",
       "excerpt": "Self-driving battery-electric vehicles could drastically reduce the need for short haul flying, or even render it obsolete, and slash emissions in the process.",
@@ -166,7 +209,7 @@
       "originalUrl": "https://techcrunch.com/2021/08/27/extra-crunch-roundup-pre-pitch-tactics-warby-parker-s-1-israels-fintech-ecosystem/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -218,7 +261,7 @@
       "originalUrl": "https://www.businessinsider.com/toyota-suspends-self-driving-buses-after-paralympic-accident-2021-8",
       "featuredContent": null,
       "highlight": null,
-      "heat": 167,
+      "heat": 187,
       "tags": null,
       "images": [
         {
@@ -676,7 +719,7 @@
       "originalUrl": "https://techxplore.com/news/2021-08-human-robot-collaboration-ai-human-intention.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -1111,6 +1154,50 @@
       ]
     },
     {
+      "path": "_news/2021-08-27-why-did-teslas-share-price-dip-following-its-ai-day-reveal.md",
+      "title": "Why did Tesla’s share price dip following its AI Day reveal?",
+      "excerpt": "How will the latest technologies unveiled at Tesla’s AI Day impact the Tesla share price and the autonomous vehicles market? Read our analysis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmcmarkets.com/en-gb/news-and-analysis/why-did-teslas-share-price-dip-following-its-ai-day-reveal",
+      "originalUrl": "https://www.cmcmarkets.com/en-gb/news-and-analysis/why-did-teslas-share-price-dip-following-its-ai-day-reveal",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.cmcmarkets.com/images/Tesla_bots_2508_medium.jpg",
+          "width": 768,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmcmarkets.com/en-gb/news-and-analysis/why-did-teslas-share-price-dip-following-its-ai-day-reveal_amp",
+      "cdnAmpWebUrl": "https://www-cmcmarkets-com.cdn.ampproject.org/c/s/www.cmcmarkets.com/en-gb/news-and-analysis/why-did-teslas-share-price-dip-following-its-ai-day-reveal_amp",
+      "publishedDateTime": "2021-08-27T00:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMC Markets",
+        "domain": "cmcmarkets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-08-27-amazon-web-services-in-deal-to-transform-sun-life-financials-digital-services.md",
       "title": "Amazon Web Services In Deal To Transform Sun Life Financial's Digital Services",
       "excerpt": "Amazon Web Services, Inc. or AWS, an Amazon.com, Inc. company (AMZN), announced Friday a deal with Sun Life Financial Inc. (SLF, SLF.TO) to become its long-term strategic cloud technology provider. Sun Life will use AWS's cloud technologies,",
@@ -1143,101 +1230,6 @@
         "AI in Finance",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-heres-why-nvidia-will-surpass-apples-valuation-in-5-years.md",
-      "title": "Here’s Why Nvidia Will Surpass Apple’s Valuation In 5 Years",
-      "excerpt": "Nvidia can surpass Apple by capitalizing on the artificial intelligence economy, which will add an estimated $15 trillion to GDP. This is compared to the mobile economy that brought us gains in Apple,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bethkindig/2021/08/27/heres-why-nvidia-will-surpass-apples-valuation-in-5-years/",
-      "originalUrl": "https://www.forbes.com/sites/bethkindig/2021/08/27/heres-why-nvidia-will-surpass-apples-valuation-in-5-years/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6128578a1e2398ca70cb5238%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bethkindig/2021/08/27/heres-why-nvidia-will-surpass-apples-valuation-in-5-years/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2021/08/27/heres-why-nvidia-will-surpass-apples-valuation-in-5-years/amp/",
-      "publishedDateTime": "2021-08-26T21:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-intel-launches-ai-for-workforce-program-for-students-in-18-community-colleges.md",
-      "title": "Intel Launches AI for Workforce Program for Students in 18 Community Colleges",
-      "excerpt": "Intel is announcing a major expansion of its Intel® AI for Workforce Program to help educate the next generation of U.S. technologists, engineers and inventors — and to help them land careers in their chosen fields,",
-      "sourceUrl": null,
-      "webUrl": "https://www.yahoo.com/now/intel-launches-ai-workforce-program-140107340.html",
-      "originalUrl": "https://www.csrwire.com/press_releases/727521-intel-launches-ai-workforce-program-students-18-community-colleges",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/KBbLN4sf9GD_tgm4GcWd0Q--~B/aD0zNjY7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/91a4aa364fb2d6461843611c01aa0c2b",
-          "width": 650,
-          "height": 366,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-26T18:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CSR Wire",
-        "domain": "csrwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

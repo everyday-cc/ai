@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Massive AI Project Will Supercharge Tesla Stock"
-    excerpt: "Tesla (TSLA) is on the verge of a game-changing breakthrough in machine learning yet the only thing people are talking about is its plan for a stupid humanoid robot. Executives at the electric vehicle company on Thursday held an artificial intelligence day."
-    publishedDateTime: 2021-08-23T17:16:00Z
-    webUrl: "https://www.thestreet.com/tech/news/teslajdm082321"
-    ampWebUrl: "https://www.thestreet.com/tech/.amp/news/teslajdm082321"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/tech/.amp/news/teslajdm082321"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 76
-    images:
-      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTgzMzU1MDk2MTg3MjgyODUw/tesla-fsd-beta-elon-musk-1280x720.jpg"
-        width: 620
-        height: 349
-        isCached: true
   - title: "A|I: The AI Times – Tesla promised a robot"
     excerpt: "With more and more AI built on top of a few powerful models, bias and other flaws can rapidly spread. Careful review in an academic environment could help. Wisedocs’ CEO and founder Connor Atchison told BetaKit the startup recently changed its name to ..."
     publishedDateTime: 2021-08-25T09:31:00Z

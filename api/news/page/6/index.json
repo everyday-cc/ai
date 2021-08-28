@@ -2,6 +2,92 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-08-24-google-offers-free-online-course-on-machine-learning-check-important-details.md",
+      "title": "Google Offers Free Online Course on Machine Learning, Check Important Details",
+      "excerpt": "Google has offered a free online course on machine learning that can be completed in 15 hours featuring a series of lessons with video lecture",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/google-offers-free-online-course-machine-learning-check-important-details/",
+      "originalUrl": "https://www.dqindia.com/google-offers-free-online-course-machine-learning-check-important-details/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2021/02/Books-on-machine-learning.jpg",
+          "width": 850,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/google-offers-free-online-course-machine-learning-check-important-details/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/google-offers-free-online-course-machine-learning-check-important-details/amp/",
+      "publishedDateTime": "2021-08-23T21:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-fintech-focused-corporate-accelerator-program-launched-in-egypt-by-arab-bank.md",
+      "title": "Fintech-focused Corporate Accelerator Program Launched in Egypt by Arab Bank",
+      "excerpt": "Fintech-focused corporate accelerator program launched in Egypt by Arab Bank. Initiative will support adoption of modern financial services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2021/08/179462-fintech-focused-corporate-accelerator-program-launched-in-egypt-by-arab-bank/",
+      "originalUrl": "https://www.crowdfundinsider.com/2021/08/179462-fintech-focused-corporate-accelerator-program-launched-in-egypt-by-arab-bank/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/06/Abu-Simbel-Temples-Egypt-aussieactive-unsplash-300x219.jpg",
+          "width": 300,
+          "height": 219,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2021/08/179462-fintech-focused-corporate-accelerator-program-launched-in-egypt-by-arab-bank/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/08/179462-fintech-focused-corporate-accelerator-program-launched-in-egypt-by-arab-bank/amp/",
+      "publishedDateTime": "2021-08-23T19:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-24-sweetgreen-acquires-spyce-a-boston-based-robotic-kitchen-startup.md",
       "title": "Sweetgreen acquires Spyce, a Boston-based robotic kitchen startup",
       "excerpt": "The pandemic has accelerated Sweetgreen’s efforts to expand using technology. Spyce’s automated kitchen technology could offer a breakthrough.",
@@ -224,7 +310,7 @@
       "originalUrl": "https://www.reuters.com/business/autos-transportation/musk-says-teslas-self-driving-software-update-not-great-2021-08-23/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 379,
+      "heat": 369,
       "tags": null,
       "images": [
         {
@@ -1120,110 +1206,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-the-other-f-word-how-robot-developers-can-do-better-by-embracing-failure.md",
-      "title": "The Other F Word: How Robot Developers Can Do Better By Embracing Failure",
-      "excerpt": "With new applications for smart robots being created daily across every industry, and increasing interest in automation from executives at companies of every size, this is a great time to participate in the next wave of the digitization of labor.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/23/the-other-f-word-how-robot-developers-can-do-better-by-embracing-failure/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/23/the-other-f-word-how-robot-developers-can-do-better-by-embracing-failure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611fc9da22fe8826dc226780%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3419%26cropY1%3D956%26cropY2%3D3419",
-          "width": 1200,
-          "height": 864,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/23/the-other-f-word-how-robot-developers-can-do-better-by-embracing-failure/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/23/the-other-f-word-how-robot-developers-can-do-better-by-embracing-failure/amp/",
-      "publishedDateTime": "2021-08-23T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-virtual-dressing-room-startup-reveryai-applying-computer-vision-to-the-fashion-industry.md",
-      "title": "Virtual dressing room startup Revery.ai applying computer vision to the fashion industry",
-      "excerpt": "Revery.ai is developing a tool that leverages computer vision and artificial intelligence to create a better online dressing room experience.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/08/23/virtual-dressing-room-startup-revery-ai-applying-computer-vision-to-the-fashion-industry/",
-      "originalUrl": "https://techcrunch.com/2021/08/23/virtual-dressing-room-startup-revery-ai-applying-computer-vision-to-the-fashion-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/08/GettyImages-969952548.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/08/23/virtual-dressing-room-startup-revery-ai-applying-computer-vision-to-the-fashion-industry/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/23/virtual-dressing-room-startup-revery-ai-applying-computer-vision-to-the-fashion-industry/amp/",
-      "publishedDateTime": "2021-08-23T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

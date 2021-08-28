@@ -2,6 +2,100 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-08-24-israels-dia-gets-14m-to-expand-ai-driven-ultrasound-analysis.md",
+      "title": "Israel’s DiA gets $14M to expand AI-driven ultrasound analysis",
+      "excerpt": "Israel-based AI healthtech company, DiA Imaging Analysis, which is using deep learning and machine learning to automate analysis of ultrasound scans, has closed a $14 million Series B round of funding.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/08/24/israels-dia-gets-14m-to-expand-ai-driven-ultrasound-analysis/",
+      "originalUrl": "https://techcrunch.com/2021/08/24/israels-dia-gets-14m-to-expand-ai-driven-ultrasound-analysis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/Screenshot-2021-08-24-at-16.55.57.png?w=1024",
+          "width": 1024,
+          "height": 564,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/08/24/israels-dia-gets-14m-to-expand-ai-driven-ultrasound-analysis/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/24/israels-dia-gets-14m-to-expand-ai-driven-ultrasound-analysis/amp/",
+      "publishedDateTime": "2021-08-24T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-aramco-deploys-computer-vision-with-foghorn-edge-ai.md",
+      "title": "Aramco deploys computer vision with FogHorn Edge AI",
+      "excerpt": "FogHorn announced that Aramco, one of the world’s leading integrated energy and chemicals companies, has deployed edge-powered computer vision solutions built on the FogHorn Lightning™ Edge AI platform at multiple sites to enhance safety,",
+      "sourceUrl": null,
+      "webUrl": "https://www.hydrocarbonprocessing.com/news/2021/08/aramco-deploys-computer-vision-with-foghorn-edge-ai",
+      "originalUrl": "https://www.hydrocarbonprocessing.com/news/2021/08/aramco-deploys-computer-vision-with-foghorn-edge-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hydrocarbonprocessing.com/media/12548/shutterstock_1295930458.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-24T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hydrocarbon Processing",
+        "domain": "hydrocarbonprocessing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-24-applying-artificial-intelligence-to-paint-shop-robots.md",
       "title": "Applying Artificial Intelligence to Paint Shop Robots",
       "excerpt": "Dürr expands it use of artificial intelligence to help automotive paint shops incorporate robots into existing operations for quality and plant availability applications.",
@@ -397,7 +491,7 @@
       "originalUrl": "https://www.techrepublic.com/article/ibms-new-telum-processor-is-the-companys-first-with-an-on-chip-ai-accelerator/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 230,
+      "heat": 190,
       "tags": null,
       "images": [
         {
@@ -687,6 +781,50 @@
       "topics": [
         "Natural Language Processing",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-is-the-d1-ai-chip-speeding-tesla-towards-full-autonomy.md",
+      "title": "Is the ‘D1’ AI chip speeding Tesla towards full autonomy?",
+      "excerpt": "Tesla on its AI day, unveiled a custom chip for training artificial intelligence networks in data centers The D1 chip is part of Tesla’s Dojo",
+      "sourceUrl": null,
+      "webUrl": "https://techhq.com/2021/08/is-the-d1-ai-chip-speeding-tesla-towards-full-autonomy/",
+      "originalUrl": "https://techhq.com/2021/08/is-the-d1-ai-chip-speeding-tesla-towards-full-autonomy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.techhq.com/wp-content/uploads/2021/08/Tesla-AI-Day-2021-15-1200x675-1.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-24T04:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechHQ",
+        "domain": "techhq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -982,49 +1120,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-24-nec-face-recognition-technology-ranks-first-in-nist-accuracy-testing.md",
-      "title": "NEC Face Recognition Technology Ranks First in NIST Accuracy Testing",
-      "excerpt": "Expansion of high-precision face recognition use for FinTech, Digital ID and more TOKYO, Aug 24, 2021 - () - NEC Corporation (NEC; TSE: 6701) today announced that",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/08/a22629724/nec-face-recognition-technology-ranks-first-in-nist-accuracy-testing",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/08/a22629724/nec-face-recognition-technology-ranks-first-in-nist-accuracy-testing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.acnnewswire.com/topimg/Low_NECNIST.jpg",
-          "width": 610,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/22629724",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22629724",
-      "publishedDateTime": "2021-08-24T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-24-samsung-unveils-advanced-ai-memory-chips.md",
       "title": "Samsung unveils advanced AI memory chips",
       "excerpt": "By Baek Byung-yeul Samsung Electronics is extending its technology leadership in the memory chip sector, as the chip titan has unveiled new memory chips featuring artificial intel",
@@ -1116,92 +1211,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-google-offers-free-online-course-on-machine-learning-check-important-details.md",
-      "title": "Google Offers Free Online Course on Machine Learning, Check Important Details",
-      "excerpt": "Google has offered a free online course on machine learning that can be completed in 15 hours featuring a series of lessons with video lecture",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/google-offers-free-online-course-machine-learning-check-important-details/",
-      "originalUrl": "https://www.dqindia.com/google-offers-free-online-course-machine-learning-check-important-details/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2021/02/Books-on-machine-learning.jpg",
-          "width": 850,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/google-offers-free-online-course-machine-learning-check-important-details/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/google-offers-free-online-course-machine-learning-check-important-details/amp/",
-      "publishedDateTime": "2021-08-23T21:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-fintech-focused-corporate-accelerator-program-launched-in-egypt-by-arab-bank.md",
-      "title": "Fintech-focused Corporate Accelerator Program Launched in Egypt by Arab Bank",
-      "excerpt": "Fintech-focused corporate accelerator program launched in Egypt by Arab Bank. Initiative will support adoption of modern financial services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2021/08/179462-fintech-focused-corporate-accelerator-program-launched-in-egypt-by-arab-bank/",
-      "originalUrl": "https://www.crowdfundinsider.com/2021/08/179462-fintech-focused-corporate-accelerator-program-launched-in-egypt-by-arab-bank/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/06/Abu-Simbel-Temples-Egypt-aussieactive-unsplash-300x219.jpg",
-          "width": 300,
-          "height": 219,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2021/08/179462-fintech-focused-corporate-accelerator-program-launched-in-egypt-by-arab-bank/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/08/179462-fintech-focused-corporate-accelerator-program-launched-in-egypt-by-arab-bank/amp/",
-      "publishedDateTime": "2021-08-23T19:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

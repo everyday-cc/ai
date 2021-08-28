@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "2 Big Revelations From Tesla's AI Day Event"
-    excerpt: "Tesla management says it will extend its AI expertise to autonomous humanoid robots. Last Thursday, Tesla (NASDAQ:TSLA) hosted its AI Day event. Elon Musk has branded these presentations as a recruiting opportunity,"
-    publishedDateTime: 2021-08-23T18:21:00Z
-    webUrl: "https://www.fool.com/investing/2021/08/23/2-big-revelations-from-tesla-ai-day-event/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2021/08/23/2-big-revelations-from-tesla-ai-day-event/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/08/23/2-big-revelations-from-tesla-ai-day-event/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 104
-    images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F640331%2F0x0-bardessono_napa_raw-43-hdr-1-3.jpg&w=1200&op=resize"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Why did Tesla’s share price dip following its AI Day reveal?"
     excerpt: "How will the latest technologies unveiled at Tesla’s AI Day impact the Tesla share price and the autonomous vehicles market? Read our analysis."
     publishedDateTime: 2021-08-27T07:27:00Z
@@ -58,20 +42,6 @@ related:
       - url: "https://assets.cmcmarkets.com/images/Tesla_bots_2508_medium.jpg"
         width: 768
         height: 576
-        isCached: true
-  - title: "Is the ‘D1’ AI chip speeding Tesla towards full autonomy?"
-    excerpt: "Tesla on its AI day, unveiled a custom chip for training artificial intelligence networks in data centers The D1 chip is part of Tesla’s Dojo"
-    publishedDateTime: 2021-08-24T11:33:00Z
-    webUrl: "https://techhq.com/2021/08/is-the-d1-ai-chip-speeding-tesla-towards-full-autonomy/"
-    type: article
-    provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 71
-    images:
-      - url: "https://cdn2.techhq.com/wp-content/uploads/2021/08/Tesla-AI-Day-2021-15-1200x675-1.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Tesla AI Day, CGI, and Broken Promises Are an Insomnia Tutorial For Advocates"
     excerpt: "The Tesla AI Day would happen way past bedtime for me. On other occasions, I’d probably stay up and watch the entire thing hoping that something exciting would be revealed. This time, nobody expected more than an event to attract new talents to the company,"

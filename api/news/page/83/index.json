@@ -2,6 +2,100 @@
   "page": 83,
   "value": [
     {
+      "path": "_news/2021-06-30-ai-safety-tools-can-help-mitigate-bias-in-algorithms.md",
+      "title": "AI safety tools can help mitigate bias in algorithms",
+      "excerpt": "A range of tools are available from companies including Microsoft that are designed to address concerns arising from risky AI deployments.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/29/ai-safety-tools-can-help-mitigate-bias-in-algorithms/",
+      "originalUrl": "https://venturebeat.com/2021/06/29/ai-safety-tools-can-help-mitigate-bias-in-algorithms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/06/bigdata.jpg?w=1200&strip=all",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/29/ai-safety-tools-can-help-mitigate-bias-in-algorithms/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/29/ai-safety-tools-can-help-mitigate-bias-in-algorithms/amp/",
+      "publishedDateTime": "2021-06-29T12:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-beckers-health-it-and-cio-report-e-newsletter.md",
+      "title": "Becker's Health IT and CIO Report E-Newsletter",
+      "excerpt": "To sign up for Becker's Health IT & CIO Report E-Newsletter or any of our other E-Newsletters, click here. If you are experiencing difficulty receiving our newsletters, you may need to whitelist ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theinformation.com/articles/amazon-plans-ai-powered-cameras-to-monitor-delivery-van-drivers",
+      "originalUrl": "https://www.beckershospitalreview.com/e-weeklies/beckers-hospital-cio-report-e-weekly.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tii.imgix.net/production/articles/5284/30c281f1-8df2-4c89-92d3-549e0297a5fe.jpeg?w=1200&fm=jpg&auto=compress",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-29T12:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-microsoft-announces-the-general-availability-of-azure-nd-a100-v4-cloud-gpu-instances.md",
       "title": "Microsoft Announces the General Availability of Azure ND A100 V4 Cloud GPU Instances",
       "excerpt": "and Machine Learning (ML) workloads. The public cloud vendor released the Azure ND A100 v4 Cloud GPU in public preview as a High-Performance Computing (HPC) enabled virtual machine for AI workloads.",
@@ -1075,100 +1169,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-to-win-with-ai-focus-on-our-humanity.md",
-      "title": "To Win With AI, Focus On Our Humanity",
-      "excerpt": "Technology disruptions are not novel and have enabled humanity to evolve and progress. This one is different, though. For the first time in the history of our species, technology seems to take over the very domains where we thought humans excelled: innovation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/esmtberlin/2021/06/29/to-win-with-ai-focus-on-our-humanity/",
-      "originalUrl": "https://www.forbes.com/sites/esmtberlin/2021/06/29/to-win-with-ai-focus-on-our-humanity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60dacbfc46592b70301378cb%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1659%26cropY1%3D13%26cropY2%3D946",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/esmtberlin/2021/06/29/to-win-with-ai-focus-on-our-humanity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/esmtberlin/2021/06/29/to-win-with-ai-focus-on-our-humanity/amp/",
-      "publishedDateTime": "2021-06-29T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-getting-started-with-ai-using-ibm-watson.md",
-      "title": "Getting Started with AI using IBM Watson",
-      "excerpt": "In this course you will learn how to quickly and easily get started with Artificial Intelligence using IBM Watson. You will understand how Watson works, become familiar with its use cases and real ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/education/skillbuilder/getting-started-with-ai-using-ibm-watson-0_GdR9t4MnEem1fhKdUV_ohA",
-      "originalUrl": "https://www.usnews.com/education/skillbuilder/getting-started-with-ai-using-ibm-watson-0_GdR9t4MnEem1fhKdUV_ohA",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T04:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.lelezard.com/en/news-19969994.html"
 webUrl: "https://www.lelezard.com/en/news-19969994.html"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "With Market Size Valued at $40 Billion by 2026, it`s a Healthy Outlook for the Global Artificial Intelligence (AI) in Healthcare Market"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Healthcare - Global Market Trajectory & Analytics\"."
-    publishedDateTime: 2021-08-26T13:44:00Z
-    webUrl: "https://www.lelezard.com/en/news-19969639.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 39
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "New Study from StrategyR Highlights a $4.2 Billion Global Market for Artificial Intelligence (AI) in Social Media by 2026"
     excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Social Media - Global Market Trajectory & Analytics\"."
     publishedDateTime: 2021-08-26T17:32:00Z

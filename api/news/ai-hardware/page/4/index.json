@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-07-24-xilinx-expands-vitis-ai-development-platform-to-support-latest-versal-acap-and-kria-som-devices.md",
+      "title": "Xilinx Expands Vitis AI Development Platform To Support Latest Versal ACAP And Kria SOM Devices",
+      "excerpt": "Since its unveiling, the Vitis AI development environment has evolved and expanded in scope to incorporate more tools, example designs, libraries and models designed to best leverage Xilinx’s varied array of compute devices,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/marcochiappetta/2021/07/23/xilinx-expands-vitis-ai-development-platform-to-support-latest-versal-acap-and-kria-som-devices/",
+      "originalUrl": "https://www.forbes.com/sites/marcochiappetta/2021/07/23/xilinx-expands-vitis-ai-development-platform-to-support-latest-versal-acap-and-kria-som-devices/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60fb0fbc45d4d6d1fe8f0946%2F0x0.jpg",
+          "width": 1107,
+          "height": 813,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/marcochiappetta/2021/07/23/xilinx-expands-vitis-ai-development-platform-to-support-latest-versal-acap-and-kria-som-devices/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcochiappetta/2021/07/23/xilinx-expands-vitis-ai-development-platform-to-support-latest-versal-acap-and-kria-som-devices/amp/",
+      "publishedDateTime": "2021-07-23T11:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-23-oneplus-nord-2-unveiled-with-dimensity-1200-ai-50mp-camera-and-more.md",
+      "title": "OnePlus Nord 2 unveiled with Dimensity 1200 AI, 50MP camera and more",
+      "excerpt": "OnePlus has announced the OnePlus Nord 2 with Dimensity 1200 AI SoC, 50MP camera with OIS, and 65W fast-charging.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizchina.com/2021/07/22/oneplus-nord-2-unveiled-with-dimensity-1200-ai-50mp-camera-and-more/",
+      "originalUrl": "https://www.gizchina.com/2021/07/22/oneplus-nord-2-unveiled-with-dimensity-1200-ai-50mp-camera-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizchina.com/wp-content/uploads/images/2021/07/OnePlus-NOrd2-2-1-1024x576.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizchina.com/2021/07/22/oneplus-nord-2-unveiled-with-dimensity-1200-ai-50mp-camera-and-more/amp/",
+      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/07/22/oneplus-nord-2-unveiled-with-dimensity-1200-ai-50mp-camera-and-more/amp/",
+      "publishedDateTime": "2021-07-22T11:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GizChina",
+        "domain": "gizchina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-22-cadence-design-systems-launches-cerebrus-machine-learning-for-chip-design.md",
       "title": "Cadence Design Systems launches Cerebrus machine learning for chip design",
       "excerpt": "Cadence Design Systems is using machine learning in its Cerebrus Intelligent Chip Explorer tool for designing complex chips.",
@@ -1296,92 +1391,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-canaan-introduces-self-developed-edge-ai-chip-the-kendryte-k510.md",
-      "title": "Canaan Introduces Self-Developed Edge AI Chip, The Kendryte K510",
-      "excerpt": "Canaan Inc (NASDAQ:CAN) announced it is launching an independently designed and developed RISC-V-based edge AI chip Kendryte K510 at the 2021 World Artificial Intelligence Confere",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/canaan-introduces-self-developed-edge-ai-chip-the-kendryte-k510-1030591108",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/canaan-introduces-self-developed-edge-ai-chip-the-kendryte-k510-1030591108",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/abtech_945.png",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-08T11:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-canaan-releases-self-developed-edge-ai-chip-the-kendryte-k510.md",
-      "title": "Canaan Releases Self-developed Edge AI Chip, the Kendryte K510",
-      "excerpt": "Canaan Inc. (NASDAQ: CAN) (\"Canaan\" or the \"Company\"), a leading high-performance computing solutions provider, today announced the release of the Kendryte K510 (the \"K510\"), an independently designed and developed RISC-V based edge AI chip,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-canaan-releases-self-developed-edge-ai-chip-kendryte-/2021/07/08/9405016.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-canaan-releases-self-developed-edge-ai-chip-kendryte-/2021/07/08/9405016.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-08T03:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

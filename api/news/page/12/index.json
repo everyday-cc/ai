@@ -2,6 +2,100 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-08-18-humanoid-robots-are-getting-terrifyingly-nimble-and-now-they-can-see-obstacles-in-their-way.md",
+      "title": "Humanoid robots are getting terrifyingly nimble — and now they can see obstacles in their way",
+      "excerpt": "Watch the humanoid robots from Boston Dynamics perform an unbelievable parkour routine in the latest video from the infamous robotics group.",
+      "sourceUrl": null,
+      "webUrl": "https://www.youtube.com/watch?v=tF4DML7FIWk&feature=youtu.be",
+      "originalUrl": "https://www.businessinsider.com/boston-dynamics-humanoid-robots-are-getting-terrifyingly-nimble-2021-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tF4DML7FIWk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-18T06:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-18-auditoriaai-named-to-constellation-shortlist-for-ai-driven-cognitive-applications-for-the-second-consecutive-year.md",
+      "title": "Auditoria.AI Named to Constellation ShortList for AI-Driven Cognitive Applications for the Second Consecutive Year",
+      "excerpt": "SANTA CLARA, CA /  / August 18, 2021 / AUDITORIA.AI, a pioneer in AI-driven automation solutions for corporate finance teams, today announced it was named to the Constellation ShortList™ for AI-Driven Cognitive Applications in Q3 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bignewsnetwork.com/news/270773662/auditoriaai-named-to-constellation-shortlist-for-ai-driven-cognitive-applications-for-the-second-consecutive-year",
+      "originalUrl": "https://www.bignewsnetwork.com/news/270773662/auditoriaai-named-to-constellation-shortlist-for-ai-driven-cognitive-applications-for-the-second-consecutive-year",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.bignewsnetwork.com/cus1630009039233.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-18T06:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Big News Network.com",
+        "domain": "bignewsnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-18-honeywell-iit-hyderabad-tie-up-for-artificial-intelligence-lab.md",
       "title": "Honeywell, IIT-Hyderabad tie up for Artificial Intelligence lab",
       "excerpt": "HTS and IIT-Hyderabad would together do research on technologies that solve problems of the future with AI as the major focus area",
@@ -1057,101 +1151,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-18-innovating-with-artificial-intelligence.md",
-      "title": "Innovating With Artificial Intelligence",
-      "excerpt": "It’s been a while since I talked about artificial intelligence — mainly because those articles started to die down or I started reading the same thing over and over. Then other topics emerged within the markets and current events sort of shifted the conversation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wealthdaily.com/articles/innovating-with-artificial-intelligence/99838",
-      "originalUrl": "https://www.wealthdaily.com/articles/innovating-with-artificial-intelligence/99838",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.angelpub.com/2017/39/46975/monica-savaglia-signature-park-avenue-digest.png",
-          "width": 300,
-          "height": 228,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wealthdaily.com/amp/articles/innovating-with-artificial-intelligence/99838",
-      "cdnAmpWebUrl": "https://www-wealthdaily-com.cdn.ampproject.org/c/s/www.wealthdaily.com/amp/articles/innovating-with-artificial-intelligence/99838",
-      "publishedDateTime": "2021-08-17T11:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wealth Daily",
-        "domain": "wealthdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-08-18-accerns-no-code-ai-platform-can-speed-analytics-in-financial-services.md",
-      "title": "Accern’s No-Code AI Platform Can Speed Analytics In Financial Services",
-      "excerpt": "Accern, which has more than a library of use cases available for immediate deployment across financial services firms, says templates can reduce the need for customer data scientist-led analytics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomgroenfeldt/2021/08/17/accerns-no-code-ai-platform-can-speed-analytics-in-financial-services/",
-      "originalUrl": "https://www.forbes.com/sites/tomgroenfeldt/2021/08/17/accerns-no-code-ai-platform-can-speed-analytics-in-financial-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://secure.gravatar.com/avatar/a1949b2c32bb572c7030dac004c2af03?s=400&d=mm&r=g",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-17T10:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

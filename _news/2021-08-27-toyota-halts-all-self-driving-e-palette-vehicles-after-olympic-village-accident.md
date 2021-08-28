@@ -119,6 +119,22 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Tokyo 2020 Paralympics: Japan judo star hit by self-driving bus in Village"
+    excerpt: "Japanese judoka Aramitsu Kitazono has been forced to withdraw from his event in the judo competition at the 2020 Tokyo Paralympics after being hit by a self-driving vehicle inside the Paralympics Village."
+    publishedDateTime: 2021-08-28T11:39:00Z
+    webUrl: "https://gulfnews.com/sport/olympics/tokyo-2020-paralympics-japan-judo-star-hit-by-self-driving-bus-in-village-1.81867171"
+    ampWebUrl: "https://gulfnews.com/amp/sport/olympics/tokyo-2020-paralympics-japan-judo-star-hit-by-self-driving-bus-in-village-1.81867171"
+    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/sport/olympics/tokyo-2020-paralympics-japan-judo-star-hit-by-self-driving-bus-in-village-1.81867171"
+    type: article
+    provider:
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 42
+    images:
+      - url: "https://imagevars.gulfnews.com/2021/08/28/The-self-driving-buses-run-throughout-the-Paralympic-Village-in-Tokyo_17b8c8e3fbb_medium.jpg"
+        width: 540
+        height: 405
+        isCached: true
   - title: "Toyota halts all self-driving e-Pallete vehicles after Olympic village accident"
     excerpt: "Toyota Motor said on Friday it had suspended operations of its self-driving e-Palette transportation pods at the Paralympic Games village in Tokyo, a day after one of the vehicles collided with a visually impaired pedestrian."
     publishedDateTime: 2021-08-27T12:53:00Z
@@ -148,6 +164,22 @@ related:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--t4i1sTaH--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:afp_watermark%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_338%2Cw_600/v1/one-cms/core/caf21689a607c9126f6e20187c8fd056e7548d5d.jpg?itok=ESZVmQC2"
         width: 600
         height: 338
+        isCached: true
+  - title: "Tokyo Paralympics: Judoka Aramitsu Kitazono Withdraws After Being Hit by Self-Driving Bus in Village"
+    excerpt: "The incident took place on Thursday afternoon when the automated electric vehicle, called an e-Palette and developed by Toyota, struck Kitazono after turning right into a pedestrian crossing."
+    publishedDateTime: 2021-08-28T09:52:00Z
+    webUrl: "https://www.india.com/sports/tokyo-paralympics-japanese-judoka-aramitsu-kitazono-withdraws-after-being-hit-by-self-driving-bus-in-village-4919874/"
+    ampWebUrl: "https://www.india.com/sports/tokyo-paralympics-japanese-judoka-aramitsu-kitazono-withdraws-after-being-hit-by-self-driving-bus-in-village-4919874/amp/"
+    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/sports/tokyo-paralympics-japanese-judoka-aramitsu-kitazono-withdraws-after-being-hit-by-self-driving-bus-in-village-4919874/amp/"
+    type: article
+    provider:
+      name: India.com
+      domain: india.com
+    quality: 29
+    images:
+      - url: "https://s3.india.com/wp-content/uploads/2021/08/pjimage-2021-08-28T165052.351.jpg"
+        width: 1200
+        height: 670
         isCached: true
   - title: "Toyota suspends use of self-driving vehicle in Olympic Village after collision with Paralympic athlete"
     excerpt: "A self-driving Toyota vehicle was barely moving, but it still managed to collide with a visually-impaired athlete at the Paralympic Games, raising"

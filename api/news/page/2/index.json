@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-27-heres-why-nvidia-will-surpass-apples-valuation-in-5-years.md",
+      "title": "Here’s Why Nvidia Will Surpass Apple’s Valuation In 5 Years",
+      "excerpt": "Nvidia can surpass Apple by capitalizing on the artificial intelligence economy, which will add an estimated $15 trillion to GDP. This is compared to the mobile economy that brought us gains in Apple,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bethkindig/2021/08/27/heres-why-nvidia-will-surpass-apples-valuation-in-5-years/",
+      "originalUrl": "https://www.forbes.com/sites/bethkindig/2021/08/27/heres-why-nvidia-will-surpass-apples-valuation-in-5-years/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6128578a1e2398ca70cb5238%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bethkindig/2021/08/27/heres-why-nvidia-will-surpass-apples-valuation-in-5-years/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2021/08/27/heres-why-nvidia-will-surpass-apples-valuation-in-5-years/amp/",
+      "publishedDateTime": "2021-08-26T21:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-intel-launches-ai-for-workforce-program-for-students-in-18-community-colleges.md",
+      "title": "Intel Launches AI for Workforce Program for Students in 18 Community Colleges",
+      "excerpt": "Intel is announcing a major expansion of its Intel® AI for Workforce Program to help educate the next generation of U.S. technologists, engineers and inventors — and to help them land careers in their chosen fields,",
+      "sourceUrl": null,
+      "webUrl": "https://www.yahoo.com/now/intel-launches-ai-workforce-program-140107340.html",
+      "originalUrl": "https://www.csrwire.com/press_releases/727521-intel-launches-ai-workforce-program-students-18-community-colleges",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/KBbLN4sf9GD_tgm4GcWd0Q--~B/aD0zNjY7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/91a4aa364fb2d6461843611c01aa0c2b",
+          "width": 650,
+          "height": 366,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-26T18:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CSR Wire",
+        "domain": "csrwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-08-27-cruise-is-buying-solar-energy-from-california-farmers-to-power-its-electric-self-driving-fleet.md",
       "title": "Cruise is buying solar energy from California farmers to power its electric, self-driving fleet",
       "excerpt": "Cruise, the self-driving car company under General Motors, has launched a new initiative called Farm to Fleet that will allow the company to source solar power from farms in California’s Central Valley.",
@@ -115,7 +210,7 @@
       "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-9928905/FOCUS-Rent-robot-Silicon-Valley-s-new-answer-labor-shortage-smaller-U-S-factories.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -451,6 +546,58 @@
       ]
     },
     {
+      "path": "_news/2021-08-26-factbox-investors-are-betting-on-rent-a-robot-startups-in-silicon-valley.md",
+      "title": "Factbox: Investors are betting on rent-a-robot startups in Silicon Valley",
+      "excerpt": "Silicon Valley has a new pitch for small U.S. manufacturers struggling with hiring workers but wary of the high costs of high tech: rent-a-robot. Much of the initial risk and cost are taken on by the robot companies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/investors-are-betting-rent-a-robot-startups-silicon-valley-2021-08-26/",
+      "originalUrl": "https://www.reuters.com/business/investors-are-betting-rent-a-robot-startups-silicon-valley-2021-08-26/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=50",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-26T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-26-the-business-value-of-synthetic-media-tools.md",
       "title": "The business value of synthetic media tools",
       "excerpt": "Platforms that can create synthetic media, or likenesses and voices generated by AI, are growing as the business applications become clear.",
@@ -685,7 +832,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/08/26/bringing-people-back-to-life-with-the-power-of-ai-chatbots/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 227,
+      "heat": 217,
       "tags": null,
       "images": [
         {
@@ -926,49 +1073,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-26-factbox-investors-are-betting-on-rent-a-robot-startups-in-silicon-valleya.md",
-      "title": "Factbox-Investors are betting on rent-a-robot startups in Silicon ValleyÂ",
-      "excerpt": "Silicon Valley has a new pitch for small U.S. manufacturers struggling with hiring workers but wary of the high costs of high tech: rent-a-robot. Much of the initial risk and cost are taken on by the robot companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.metro.us/factbox-investors-are-betting-on/",
-      "originalUrl": "https://www.metro.us/factbox-investors-are-betting-on/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEH7P0DO-BASEIMAGE.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.metro.us/factbox-investors-are-betting-on/amp/",
-      "cdnAmpWebUrl": "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/factbox-investors-are-betting-on/amp/",
-      "publishedDateTime": "2021-08-26T03:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metro US",
-        "domain": "metro.us",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-26-fired-google-ai-ethics-lead-joins-natural-language-processing-start-up.md",
       "title": "Fired Google AI ethics lead joins natural language processing start-up",
       "excerpt": "A researcher fired from Google during a tumultuous period for the company’s AI division has announced her next move in business.",
@@ -1106,110 +1210,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-ai-is-slowly-outperforming-human-written-phishing-emails-and-it-is-a-cause-of-concern.md",
-      "title": "AI Is Slowly Outperforming Human-written Phishing Emails, and It Is a Cause of Concern!",
-      "excerpt": "Every day, millions of phishing emails are sent worldwide by threat actors to lure users into divulging their Personally Identifiable Information or other critical information, such as credit card credentials or bank account details.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/381741",
-      "originalUrl": "https://www.entrepreneur.com/article/381741",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1629951497-ai-phishing-emailsv12.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/381741",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/381741",
-      "publishedDateTime": "2021-08-25T21:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-taktile-makes-it-easier-to-leverage-machine-learning-in-the-financial-industry.md",
-      "title": "Taktile makes it easier to leverage machine learning in the financial industry",
-      "excerpt": "Meet Taktile, a new startup that is working on a machine learning platform for financial services companies. This isn’t the first company that wants to leverage machine learning for financial products.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/08/25/taktile-makes-it-easier-to-leverage-machine-learning-in-the-financial-industry/",
-      "originalUrl": "https://techcrunch.com/2021/08/25/taktile-makes-it-easier-to-leverage-machine-learning-in-the-financial-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/08/Taktile.jpg?w=1024",
-          "width": 1024,
-          "height": 684,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/08/25/taktile-makes-it-easier-to-leverage-machine-learning-in-the-financial-industry/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/25/taktile-makes-it-easier-to-leverage-machine-learning-in-the-financial-industry/amp/",
-      "publishedDateTime": "2021-08-25T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

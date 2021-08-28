@@ -75,22 +75,6 @@ related:
         width: 800
         height: 555
         isCached: true
-  - title: "AI is Pivotal the Future of the Autonomous Shipping"
-    excerpt: "The shipping industry is responsible for around 90% of the world’s trade distribution, carrying the likes of machinery, motors,"
-    publishedDateTime: 2021-08-23T17:27:00Z
-    webUrl: "https://www.marinelink.com/news/ai-pivotal-future-autonomous-shipping-490075"
-    ampWebUrl: "https://www.marinelink.com/amp/news/ai-pivotal-future-autonomous-shipping-490075"
-    cdnAmpWebUrl: "https://www-marinelink-com.cdn.ampproject.org/c/s/www.marinelink.com/amp/news/ai-pivotal-future-autonomous-shipping-490075"
-    type: article
-    provider:
-      name: Marine Link
-      domain: marinelink.com
-    quality: 57
-    images:
-      - url: "https://images.marinelink.com/images/maritime/w800h600pad/quardia-adobe-stock-125369.jpeg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Edge AI: The Future of Artificial Intelligence and Edge Computing"
     excerpt: "Edge AI processes algorithms locally on devices on the edge of a local network. Here is how it is transforming computing."
     publishedDateTime: 2021-08-25T18:17:00Z

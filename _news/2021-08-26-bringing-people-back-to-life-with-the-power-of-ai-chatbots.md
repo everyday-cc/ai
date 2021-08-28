@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/0
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/08/26/bringing-people-back-to-life-with-the-power-of-ai-chatbots/amp/"
 type: article
 quality: 87
-heat: 227
+heat: 217
 published: true
 
 provider:
@@ -61,22 +61,6 @@ related:
       - url: "https://www.cmswire.com/-/media/3939a5d58c4c46aaa5d088cb9796d809.ashx?mw=1024"
         width: 640
         height: 480
-        isCached: true
-  - title: "Healthcare Chatbots Market Will Expected To Spur Over The Upcoming Years"
-    excerpt: "Global Healthcare Chatbots Market Overview The global healthcare chatbots market is expected to rise remarkably owing to the rise in the usage of internet and increasing number of internet connectivity all around the world Chatbots or chart robots is a"
-    publishedDateTime: 2021-08-23T17:33:00Z
-    webUrl: "https://www.openpr.com/news/2364333/healthcare-chatbots-market-will-expected-to-spur-over"
-    ampWebUrl: "https://www.openpr.com/amp/2364333/healthcare-chatbots-market-will-expected-to-spur-over"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2364333/healthcare-chatbots-market-will-expected-to-spur-over"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 58
-    images:
-      - url: "https://cdn.openpr.com/U/8/U823163760_g.jpg"
-        width: 781
-        height: 512
         isCached: true
   - title: "'Always There': The AI Chatbot Providing a Shoulder to China's Lonely Millions"
     excerpt: "Originally a side project from developing Microsoft's Cortana chatbot, XiaoIce now accounts for 60 percent of global human-AI interactions by volume."

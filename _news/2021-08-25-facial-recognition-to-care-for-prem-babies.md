@@ -43,20 +43,6 @@ related:
         width: 3825
         height: 1528
         isCached: true
-  - title: "Civil liberties groups demand total ban on facial recognition technology"
-    excerpt: "Amnesty International, Liberty and Privacy International join more than 30 organisations warning that the police, Home Office, and councils are misusing the intrusive technology"
-    publishedDateTime: 2021-08-23T17:08:00Z
-    webUrl: "https://morningstaronline.co.uk/article/b/civil-liberties-groups-demand-total-ban-on-facial-recognition-technology"
-    type: article
-    provider:
-      name: Morning Star
-      domain: morningstaronline.co.uk
-    quality: 40
-    images:
-      - url: "https://morningstaronline.co.uk/sites/default/files/face%20police.jpg"
-        width: 1185
-        height: 585
-        isCached: true
   - title: "Researchers develop computer vision system that can detect babies’ faces while monitoring their vital signs"
     excerpt: "University of South Australia researchers have developed a computer vision system that can automatically detect a tiny baby’s face in a hospital bed and remotely monitor its vital signs from a ..."
     publishedDateTime: 2021-08-25T02:04:00Z

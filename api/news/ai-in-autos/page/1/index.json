@@ -62,7 +62,7 @@
       "originalUrl": "https://www.businessinsider.com/toyota-suspends-self-driving-buses-after-paralympic-accident-2021-8",
       "featuredContent": null,
       "highlight": null,
-      "heat": 167,
+      "heat": 187,
       "tags": null,
       "images": [
         {
@@ -198,6 +198,50 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-why-did-teslas-share-price-dip-following-its-ai-day-reveal.md",
+      "title": "Why did Tesla’s share price dip following its AI Day reveal?",
+      "excerpt": "How will the latest technologies unveiled at Tesla’s AI Day impact the Tesla share price and the autonomous vehicles market? Read our analysis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmcmarkets.com/en-gb/news-and-analysis/why-did-teslas-share-price-dip-following-its-ai-day-reveal",
+      "originalUrl": "https://www.cmcmarkets.com/en-gb/news-and-analysis/why-did-teslas-share-price-dip-following-its-ai-day-reveal",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.cmcmarkets.com/images/Tesla_bots_2508_medium.jpg",
+          "width": 768,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmcmarkets.com/en-gb/news-and-analysis/why-did-teslas-share-price-dip-following-its-ai-day-reveal_amp",
+      "cdnAmpWebUrl": "https://www-cmcmarkets-com.cdn.ampproject.org/c/s/www.cmcmarkets.com/en-gb/news-and-analysis/why-did-teslas-share-price-dip-following-its-ai-day-reveal_amp",
+      "publishedDateTime": "2021-08-27T00:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMC Markets",
+        "domain": "cmcmarkets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -410,7 +454,7 @@
       "originalUrl": "https://electrek.co/2021/08/25/tesla-starts-hiring-roboticists-tesla-bot-humanoid-robot-project/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 244,
+      "heat": 234,
       "tags": null,
       "images": [
         {
@@ -593,6 +637,50 @@
       ]
     },
     {
+      "path": "_news/2021-08-24-is-the-d1-ai-chip-speeding-tesla-towards-full-autonomy.md",
+      "title": "Is the ‘D1’ AI chip speeding Tesla towards full autonomy?",
+      "excerpt": "Tesla on its AI day, unveiled a custom chip for training artificial intelligence networks in data centers The D1 chip is part of Tesla’s Dojo",
+      "sourceUrl": null,
+      "webUrl": "https://techhq.com/2021/08/is-the-d1-ai-chip-speeding-tesla-towards-full-autonomy/",
+      "originalUrl": "https://techhq.com/2021/08/is-the-d1-ai-chip-speeding-tesla-towards-full-autonomy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.techhq.com/wp-content/uploads/2021/08/Tesla-AI-Day-2021-15-1200x675-1.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-24T04:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechHQ",
+        "domain": "techhq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-08-24-tesla-to-be-the-most-deeply-integrated-automative-company-in-the-world-with-ai-day-plans-fully-implemented-says-ark.md",
       "title": "Tesla To Be The Most 'Deeply Integrated Automative Company' In The World With AI Day Plans Fully-Implemented, Says Ark",
       "excerpt": "If Tesla Inc (NASDAQ: TSLA) manages to fully implement its AI Day agenda, it would become the most deeply integrated “automotive company” in the world, as per Ark Invest.",
@@ -654,7 +742,7 @@
       "originalUrl": "https://www.reuters.com/business/autos-transportation/musk-says-teslas-self-driving-software-update-not-great-2021-08-23/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 379,
+      "heat": 369,
       "tags": null,
       "images": [
         {
@@ -1385,102 +1473,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-rwth-the-future-with-artificial-intelligence.md",
-      "title": "RWTH: The future with artificial intelligence",
-      "excerpt": "Aachen City Hall How do we encounter artificial intelligence in our everyday lives? At home, on the street, while shopping? And how will AI shape our everyday life in the future? Through self-driving cars or in medical care? And where are the limits?",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/rwth-the-future-with-artificial-intelligence/",
-      "originalUrl": "https://indiaeducationdiary.in/rwth-the-future-with-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/12/rwth-aachen-university-1.png",
-          "width": 722,
-          "height": 362,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/rwth-the-future-with-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/rwth-the-future-with-artificial-intelligence/",
-      "publishedDateTime": "2021-08-20T05:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-tesla-bot-reveal-sparks-tidal-wave-of-jokes-memes-as-people-make-i-robot-comparisons.md",
-      "title": "Tesla Bot Reveal Sparks Tidal Wave of Jokes, Memes as People Make 'I, Robot' Comparisons",
-      "excerpt": "Tesla Bot has been presented to the public by Elon Musk and Twitter has predictably reacted with humor and mock horror.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/tesla-bot-robot-elon-musk-asimov-memes-1621357",
-      "originalUrl": "https://www.newsweek.com/tesla-bot-robot-elon-musk-asimov-memes-1621357",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1875508/tesla-bot.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/tesla-bot-robot-elon-musk-asimov-memes-1621357?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/tesla-bot-robot-elon-musk-asimov-memes-1621357?amp=1",
-      "publishedDateTime": "2021-08-20T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI",
         "AI in Autos"
       ]

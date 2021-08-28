@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-28-indian-railways-installs-a-facial-recognition-system-to-track-commuters.md",
+      "title": "Indian Railways installs a facial recognition system to track commuters",
+      "excerpt": "Indian Railways has installed a network of nearly 500 facial recognition cameras to track millions of daily commuters, a report in the Financial Times suggested.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/technology/tech-news/indian-railways-installs-a-facial-recognition-system-to-track-commuters-703762",
+      "originalUrl": "https://www.thehansindia.com/technology/tech-news/indian-railways-installs-a-facial-recognition-system-to-track-commuters-703762",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2021/08/28/1104608-indian-railways.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/technology/tech-news/indian-railways-installs-a-facial-recognition-system-to-track-commuters-703762",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/indian-railways-installs-a-facial-recognition-system-to-track-commuters-703762",
+      "publishedDateTime": "2021-08-28T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-27-the-free-speech-case-for-facial-recognition-opinion.md",
       "title": "The Free-Speech Case for Facial Recognition | Opinion",
       "excerpt": "The right to communicate anonymously is important, but most would agree it shouldn't extend to people who commit violent crimes.",
@@ -266,7 +309,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/25/hybrid-ai-is-the-future-of-industrial-analytics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 241,
+      "heat": 231,
       "tags": null,
       "images": [
         {
@@ -319,7 +362,7 @@
       "originalUrl": "https://www.zdnet.com/article/unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -497,49 +540,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-nec-face-recognition-technology-ranks-first-in-nist-accuracy-testing.md",
-      "title": "NEC Face Recognition Technology Ranks First in NIST Accuracy Testing",
-      "excerpt": "Expansion of high-precision face recognition use for FinTech, Digital ID and more TOKYO, Aug 24, 2021 - () - NEC Corporation (NEC; TSE: 6701) today announced that",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/08/a22629724/nec-face-recognition-technology-ranks-first-in-nist-accuracy-testing",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/08/a22629724/nec-face-recognition-technology-ranks-first-in-nist-accuracy-testing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.acnnewswire.com/topimg/Low_NECNIST.jpg",
-          "width": 610,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/22629724",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22629724",
-      "publishedDateTime": "2021-08-24T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

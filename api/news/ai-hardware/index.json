@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-27-why-did-teslas-share-price-dip-following-its-ai-day-reveal.md",
+      "title": "Why did Tesla’s share price dip following its AI Day reveal?",
+      "excerpt": "How will the latest technologies unveiled at Tesla’s AI Day impact the Tesla share price and the autonomous vehicles market? Read our analysis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmcmarkets.com/en-gb/news-and-analysis/why-did-teslas-share-price-dip-following-its-ai-day-reveal",
+      "originalUrl": "https://www.cmcmarkets.com/en-gb/news-and-analysis/why-did-teslas-share-price-dip-following-its-ai-day-reveal",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.cmcmarkets.com/images/Tesla_bots_2508_medium.jpg",
+          "width": 768,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmcmarkets.com/en-gb/news-and-analysis/why-did-teslas-share-price-dip-following-its-ai-day-reveal_amp",
+      "cdnAmpWebUrl": "https://www-cmcmarkets-com.cdn.ampproject.org/c/s/www.cmcmarkets.com/en-gb/news-and-analysis/why-did-teslas-share-price-dip-following-its-ai-day-reveal_amp",
+      "publishedDateTime": "2021-08-27T00:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMC Markets",
+        "domain": "cmcmarkets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-08-26-the-ai-training-chip-tencent-has-an-eye-on.md",
       "title": "The AI Training Chip Tencent Has an Eye On",
       "excerpt": "It is not news that China wants a rich, native, diverse semiconductor ecosystem to feed its largest consumers of compute. From supercomputing systems to",
@@ -497,7 +541,7 @@
       "originalUrl": "https://www.techrepublic.com/article/ibms-new-telum-processor-is-the-companys-first-with-an-on-chip-ai-accelerator/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 230,
+      "heat": 190,
       "tags": null,
       "images": [
         {
@@ -538,6 +582,50 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-is-the-d1-ai-chip-speeding-tesla-towards-full-autonomy.md",
+      "title": "Is the ‘D1’ AI chip speeding Tesla towards full autonomy?",
+      "excerpt": "Tesla on its AI day, unveiled a custom chip for training artificial intelligence networks in data centers The D1 chip is part of Tesla’s Dojo",
+      "sourceUrl": null,
+      "webUrl": "https://techhq.com/2021/08/is-the-d1-ai-chip-speeding-tesla-towards-full-autonomy/",
+      "originalUrl": "https://techhq.com/2021/08/is-the-d1-ai-chip-speeding-tesla-towards-full-autonomy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.techhq.com/wp-content/uploads/2021/08/Tesla-AI-Day-2021-15-1200x675-1.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-24T04:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechHQ",
+        "domain": "techhq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -1367,94 +1455,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-baidus-kunlun-ii-ai-chips-enter-mass-production.md",
-      "title": "Baidu's Kunlun II AI chips enter mass production",
-      "excerpt": "Chinese tech giant Baidu has begun mass-producing its second generation of Kunlun artificial intelligence chips, used in its cloud data centers and smart electric vehicles. Baidu spun the Kunlun chip business out into an independent company earlier this year,",
-      "sourceUrl": null,
-      "webUrl": "https://www.datacenterdynamics.com/en/news/baidus-kunlun-ii-ai-chips-enter-mass-production/",
-      "originalUrl": "https://www.datacenterdynamics.com/en/news/baidus-kunlun-ii-ai-chips-enter-mass-production/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.datacenterdynamics.com/media/images/Baidu_headquarters.2e16d0ba.fill-1200x630.jpg",
-          "width": 400,
-          "height": 211,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T04:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Datacenter Dynamics",
-        "domain": "datacenterdynamics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-dow-selloff-nvidia-tesla-ai-day-robinhood-5-things-you-must-know-thursday.md",
-      "title": "Dow Selloff, Nvidia, Tesla AI Day, Robinhood: 5 Things You Must Know Thursday",
-      "excerpt": "\"That said, the start of tapering necessarily chips away at the tools at the Fed ... The stock dropped 11.73% to $43.96 early Thursday. Tesla's AI Day is invite-only and is expected to begin ...",
-      "sourceUrl": null,
-      "webUrl": "https://thestreet.com/markets/5-things-you-must-know-before-market-opens-thursday-081921",
-      "originalUrl": "https://thestreet.com/markets/5-things-you-must-know-before-market-opens-thursday-081921",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestreet.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTcyMzQxNzA2MTY1OTIxNzMy/13-wells-fargo-roman-tiraspolsky--shutterstock.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp/markets/5-things-you-must-know-before-market-opens-thursday-081921",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/markets/5-things-you-must-know-before-market-opens-thursday-081921",
-      "publishedDateTime": "2021-08-19T02:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],
