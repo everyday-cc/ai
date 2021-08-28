@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/cerebras-chip-cluster-neural-networks-ai
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/cerebras-chip-cluster-neural-networks-ai/amp"
 type: article
 quality: 204
-heat: 224
+heat: 214
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://images.idgesg.net/images/article/2019/08/cerebras-1-100808712-large.jpg?auto=webp"
         width: 1199
         height: 776
-        isCached: true
-  - title: "Every move you make, Artificial Intelligence is watching you"
-    excerpt: "The traffic police has taken steps to use advanced video analytics technology to detect common traffic violations such as jumping red signals or the stop line, driving recklessly, not wearing seat belt or helmet and talking over phone while driving etc."
-    publishedDateTime: 2021-08-24T00:36:00Z
-    webUrl: "https://bangaloremirror.indiatimes.com/bangalore/others/every-move-you-make-artificial-intelligence-is-watching-you/articleshow/85581172.cms"
-    ampWebUrl: "https://bangaloremirror.indiatimes.com/bangalore/others/every-move-you-make-artificial-intelligence-is-watching-you/amp_articleshow/85581172.cms"
-    cdnAmpWebUrl: "https://bangaloremirror-indiatimes-com.cdn.ampproject.org/c/s/bangaloremirror.indiatimes.com/bangalore/others/every-move-you-make-artificial-intelligence-is-watching-you/amp_articleshow/85581172.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://static.toiimg.com/thumb/85581209.cms?resizemode=4&width=400"
-        width: 400
-        height: 300
         isCached: true
 
 secured: "MwAJA5IiNZSHw3gUXtXAUng6GZ7S3fN5/kwru3Bi8KTaduCyee69cRT5HYVukM3dS9GlglRw5P0PuwtzqJwPvG7fSlb8/HN23Fo+vo8oByvwsLQck1JOXqBQJJ0GSb8suC373sNod/iRwnzp8IVjVmIJg8f9QTSw4QnBiv4eIDvof+6GuNqqNokp+vlW7Q5aBFCwOIoxVePhYK6PzmIM5d2iFFXBue2iRVGMOhgVcInLrq7fj/uMXYA5wJmtYZmW722bqn/LPHCYu2FETEuUoy4QOkQfS0v03oItM2tChrrR43pTAU9+hNWyScPJMQgHy69bY6InpkQCH78uSMDtmt4pOUoGuDfrkJw/NKLP1RYwq9lvpEZBohCtQLZrIiw46rQxrCtfDQv6WOMeDow2rv4V1eEwP0O6Bcrf/Xu74apaGzjVpFiZaDXdYxl/wrKysMtPjKg1bTL32Lo/OyBeWtf5Pxw/Nlg1UDNKcnocXLkSH6RRDLtxFk330GK6om5BzBIh6u2E5aRWwIzzYe9dH0ar2G+LTAvRYUyiHzOcInw=;Ka5Y+VaDzgoTbazhEVVuLQ=="

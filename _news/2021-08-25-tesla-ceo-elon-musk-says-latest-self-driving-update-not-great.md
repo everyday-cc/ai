@@ -91,22 +91,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Musk: Latest self-driving software isn't great"
-    excerpt: "Tesla Inc.'s CEO Elon Musk stated that the company's latest test version of its self-driving software, FSD Beta 9.2, isn't actually \"great.\" In a statement on Twitter, Musk was"
-    publishedDateTime: 2021-08-23T23:12:00Z
-    webUrl: "https://www.teletrader.com/musk-latest-self-driving-software-isn-t-great/news/details/56246526"
-    ampWebUrl: "https://www.teletrader.com/amp/news/details/56246526"
-    cdnAmpWebUrl: "https://www-teletrader-com.cdn.ampproject.org/c/s/www.teletrader.com/amp/news/details/56246526"
-    type: article
-    provider:
-      name: teletrader.com
-      domain: teletrader.com
-    quality: 44
-    images:
-      - url: "https://cdn.ttweb.net/News/images/226694.jpg?preset=w800_q70"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Will Tesla share its self-driving system with other manufacturers?"
     excerpt: "At a recent conference dedicated to artificial intelligence, Elon Musk indicated ... and numerous partnerships forged in recent years by Waymo, the subsidiary of Alphabet (parent company of ..."
     publishedDateTime: 2021-08-25T08:08:00Z

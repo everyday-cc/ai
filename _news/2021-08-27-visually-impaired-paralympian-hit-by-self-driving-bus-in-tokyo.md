@@ -183,6 +183,20 @@ related:
         width: 800
         height: 540
         isCached: true
+  - title: "Visually Impaired Man Hit By Self-driving Bus In Paralympic Village"
+    excerpt: "A visually impaired man was hit by a self-driving bus in the Paralympic village in Tokyo, organisers said Friday, adding the accident left no \"external injury.\" The accident took place on Thursday afternoon,"
+    publishedDateTime: 2021-08-27T13:03:00Z
+    webUrl: "https://www.ibtimes.com/visually-impaired-man-hit-self-driving-bus-paralympic-village-3282495"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 39
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/08/27/self-driving-shuttle-buses-are-operating-24-7.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Toyota Halts e-Palette Self-Driving Vehicle Operations After One Hits Paralympic Athlete"
     excerpt: "Toyota is grounding all e-Palette self-driving vehicles currently operating within the athlete’s village at the Tokyo Paralympic Games. The decision follows an accident in which one of the vehicles ran into a visually impaired pedestrian on August 26."
     publishedDateTime: 2021-08-28T12:00:00Z
@@ -268,15 +282,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Visually impaired man hit by self-driving bus in Paralympic Village"
-    excerpt: "Self-driving shuttle buses are operating 24/7 in the Village - Copyright AFP Aamir QURESHIA visually impaired man was hit by a self-driving bus in the Paralympic village in Tokyo, organisers said Friday,"
-    publishedDateTime: 2021-08-27T13:06:00Z
-    webUrl: "https://www.digitaljournal.com/world/visually-impaired-man-hit-by-self-driving-bus-in-paralympic-village/article"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 19
 
 secured: "Nyi9IhIx8yl+mzVF4SLy9UMW1Hj0cukEn4nG5R356l9tkJwxlj5EwX4dA/EUVZAAeUkmy3P3YjTdqEuAvM+6RehilbVXaQMKc56WOsWa5wG+6M7xWdFx7WVGe1MM7G5HSfBim3FrWL/aWl2r8yaHsC4TLt4oPKnQVZvc9F9uLh1nPSqluDBCqbaQxGsKTI29JYUwWpB6aM9sqitLfOE6BAEZKUkpCLaep0BIP5mbP4Txbnj3fLbblMOmmr26Ehfp1/RTJQOez1N9bT7GjvefzPV1Ndg+6sNFoMCui6P8vg+a6TR9WOEDpfH2XnpKw7kEOYp2OyrexMi7+960umNYiMdTFT38FhlOEWnZSxNKk4w=;9oz+e6lM9bjRlBUXIYDz4A=="
 ---

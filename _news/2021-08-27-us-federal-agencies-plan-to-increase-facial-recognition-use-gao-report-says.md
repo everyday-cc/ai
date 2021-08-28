@@ -6,8 +6,8 @@ publishedDateTime: 2021-08-26T21:42:00Z
 originalUrl: "https://www.biometricupdate.com/202108/us-federal-agencies-plan-to-increase-facial-recognition-use-gao-report-says"
 webUrl: "https://www.gao.gov/products/gao-21-526"
 type: article
-quality: 136
-heat: 296
+quality: 138
+heat: 298
 published: true
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Computer Vision
+  - Natural Language Processing
 
 images:
   - url: "https://www.gao.gov/assets/styles/hero_l/public/extracts/c1917b8fbd51f63d6fde064a0ffb86f1/d21526-FF-Image.png?itok=U7z95JiA"
@@ -167,6 +168,20 @@ related:
         width: 2000
         height: 1500
         isCached: true
+  - title: "US Agencies Increasing Use of Facial Recognition Tech"
+    excerpt: "At least 10 U.S. government agencies are planning to increase the use of facial recognition technologies by 2023, according to a GAO report. The growing utilization"
+    publishedDateTime: 2021-08-27T17:46:00Z
+    webUrl: "https://www.govinfosecurity.com/us-agencies-increasing-use-facial-recognition-tech-a-17393"
+    type: article
+    provider:
+      name: HHS
+      domain: govinfosecurity.com
+    quality: 41
+    images:
+      - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/us-agencies-increasing-use-facial-recognition-tech-showcase_image-2-a-17393.jpg"
+        width: 860
+        height: 520
+        isCached: true
   - title: "GAO counts facial recognition R&D at 10 agencies"
     excerpt: "At least 10 U.S. government agencies are undertaking research and development work into facial recognition technology, according to a new report by the Governmental Accountability Office. The new study,"
     publishedDateTime: 2021-08-25T18:47:00Z
@@ -208,20 +223,6 @@ related:
       - url: "https://cdn.nextgov.com/media/img/cd/2021/08/26/authentication_by_facial_recognition_biometric_security_system_picture_id1216416251/open-graph.jpg"
         width: 400
         height: 400
-        isCached: true
-  - title: "US Agencies Increasing Use of Facial Recognition Tech"
-    excerpt: "At least 10 U.S. government agencies are planning to increase the use of facial recognition technologies by 2023, according to a GAO report. The growing utilization"
-    publishedDateTime: 2021-08-27T17:46:00Z
-    webUrl: "https://www.govinfosecurity.com/us-agencies-increasing-use-facial-recognition-tech-a-17393"
-    type: article
-    provider:
-      name: HHS
-      domain: govinfosecurity.com
-    quality: 39
-    images:
-      - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/us-agencies-increasing-use-facial-recognition-tech-showcase_image-2-a-17393.jpg"
-        width: 860
-        height: 520
         isCached: true
   - title: "Federal government to expand use of facial recognition despite growing concerns"
     excerpt: "The GAO said several federal agencies, including the Justice Department, the Air Force and Immigration and Customs Enforcement, reported that they had used facial recognition software from Clearview AI,"

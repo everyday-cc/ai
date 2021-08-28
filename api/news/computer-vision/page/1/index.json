@@ -106,7 +106,7 @@
       "originalUrl": "https://www.biometricupdate.com/202108/us-federal-agencies-plan-to-increase-facial-recognition-use-gao-report-says",
       "featuredContent": null,
       "highlight": null,
-      "heat": 296,
+      "heat": 298,
       "tags": null,
       "images": [
         {
@@ -137,7 +137,8 @@
       ],
       "topics": [
         "AI",
-        "Computer Vision"
+        "Computer Vision",
+        "Natural Language Processing"
       ]
     },
     {
@@ -299,7 +300,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/25/hybrid-ai-is-the-future-of-industrial-analytics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 231,
+      "heat": 221,
       "tags": null,
       "images": [
         {

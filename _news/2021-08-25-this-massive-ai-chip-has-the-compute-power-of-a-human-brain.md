@@ -48,22 +48,6 @@ related:
         width: 2250
         height: 1500
         isCached: true
-  - title: "Every move you make, Artificial Intelligence is watching you"
-    excerpt: "The traffic police has taken steps to use advanced video analytics technology to detect common traffic violations such as jumping red signals or the stop line, driving recklessly, not wearing seat belt or helmet and talking over phone while driving etc."
-    publishedDateTime: 2021-08-24T00:36:00Z
-    webUrl: "https://bangaloremirror.indiatimes.com/bangalore/others/every-move-you-make-artificial-intelligence-is-watching-you/articleshow/85581172.cms"
-    ampWebUrl: "https://bangaloremirror.indiatimes.com/bangalore/others/every-move-you-make-artificial-intelligence-is-watching-you/amp_articleshow/85581172.cms"
-    cdnAmpWebUrl: "https://bangaloremirror-indiatimes-com.cdn.ampproject.org/c/s/bangaloremirror.indiatimes.com/bangalore/others/every-move-you-make-artificial-intelligence-is-watching-you/amp_articleshow/85581172.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://static.toiimg.com/thumb/85581209.cms?resizemode=4&width=400"
-        width: 400
-        height: 300
-        isCached: true
 
 secured: "bl5OK4o76zY1ULTivUAMODCDsaS/47I6qFoWw9ZFXZI+5jS4UQYMqjVDGiweVnX1KV59s2Q8SPFfLBoQaLPpJ2kBoIk285f97gXO4bQE6YQM1JPueSu9yYgwfxw39XFEacmWDXB5cTxY3upX1ScHpxplvUGH81p7iNEZOrygHx+f6szzdJ4iJzQhEUD9sXGUuLJRvkFtLRAt3XISeDjfXQTBJuh6ruSHp5Q5esZxuCjPs2AY7JbD1gFsxLBNjdRSd3PJz6AZJ4KRk9y79cMyHadwYKYihLty40t5RSSK5twOMC5hYYhHa+tC21zSY/fmhhU2B2fCl2RWyIsakpwweLqjXEYT762ef3gP14/VwShdIjtq+z2afV8Kzv52tyJvaqwOCTd6/fSUIhKd6KlwKlAvl4Gb/BYMRrKnLzY/0F+UQ6IhAcEgph4wPc1+gAuT9qXEfzZvLluTHKc8rCaYJupQ1Cl3rBsYm66uJCt0+hL8hmkAwVCjkf080xyKEt12PiUj3T/95J5GJYvvxhJu6Q==;GJ4URSBtB6OjSiy+lt0Zzg=="
 ---

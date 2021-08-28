@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/08/23/elon-musk-says-tesla-fsd-beta-9p
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/08/23/elon-musk-says-tesla-fsd-beta-9point2-software-is-not-great.html"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -94,22 +94,6 @@ related:
       - url: "https://images.hindustantimes.com/auto/img/2021/08/24/600x338/AFP_9L8894_1629439212600_1629777640413.jpg"
         width: 600
         height: 338
-        isCached: true
-  - title: "Musk: Latest self-driving software isn't great"
-    excerpt: "Tesla Inc.'s CEO Elon Musk stated that the company's latest test version of its self-driving software, FSD Beta 9.2, isn't actually \"great.\" In a statement on Twitter, Musk was"
-    publishedDateTime: 2021-08-23T23:12:00Z
-    webUrl: "https://www.teletrader.com/musk-latest-self-driving-software-isn-t-great/news/details/56246526"
-    ampWebUrl: "https://www.teletrader.com/amp/news/details/56246526"
-    cdnAmpWebUrl: "https://www-teletrader-com.cdn.ampproject.org/c/s/www.teletrader.com/amp/news/details/56246526"
-    type: article
-    provider:
-      name: teletrader.com
-      domain: teletrader.com
-    quality: 44
-    images:
-      - url: "https://cdn.ttweb.net/News/images/226694.jpg?preset=w800_q70"
-        width: 800
-        height: 450
         isCached: true
   - title: "Will Tesla share its self-driving system with other manufacturers?"
     excerpt: "At a recent conference dedicated to artificial intelligence, Elon Musk indicated ... and numerous partnerships forged in recent years by Waymo, the subsidiary of Alphabet (parent company of ..."

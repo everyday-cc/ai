@@ -125,20 +125,6 @@ related:
         width: 700
         height: 348
         isCached: true
-  - title: "IBM’s new Telum processor accelerates AI inference on-chip to detect fraud in real-time"
-    excerpt: "Hot Chips event today that’s able to perform deep learning inference on enterprise workloads in real-time to address fraud. The new Telum chip is said to be IBM’s first processor that features on-chip acceleration for artificial intelligence inferencing while transaction are taking place."
-    publishedDateTime: 2021-08-24T00:24:00Z
-    webUrl: "https://siliconangle.com/2021/08/23/ibms-new-telum-processor-accelerates-ai-inference-chip-detect-fraud-real-time/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 46
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/IBM-Telum-Processor-Wafer-resized.jpg"
-        width: 1920
-        height: 1170
-        isCached: true
   - title: "New IBM Telum Processors Show AI Investment ‘Down At The Silicon Level’"
     excerpt: "IBM unveils new Telum processors, which bring AI down to the chip level amid growing demand by businesses for data- and compute-intensive processes."
     publishedDateTime: 2021-08-24T21:09:00Z

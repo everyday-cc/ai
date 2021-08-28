@@ -1,31 +1,27 @@
 ---
 category: news
-title: "Factbox: Investors are betting on rent-a-robot startups in Silicon Valley"
-excerpt: "Silicon Valley has a new pitch for small U.S. manufacturers struggling with hiring workers but wary of the high costs of high tech: rent-a-robot. Much of the initial risk and cost are taken on by the robot companies."
-publishedDateTime: 2021-08-26T14:29:00Z
-originalUrl: "https://www.reuters.com/business/investors-are-betting-rent-a-robot-startups-silicon-valley-2021-08-26/"
-webUrl: "https://www.reuters.com/business/investors-are-betting-rent-a-robot-startups-silicon-valley-2021-08-26/"
+title: "Factbox-Investors are betting on rent-a-robot startups in Silicon Valley"
+excerpt: "Silicon Valley has a new pitch for small U.S. manufacturers struggling with hiring workers but wary of the high costs"
+publishedDateTime: 2021-08-26T10:27:00Z
+originalUrl: "https://kelo.com/2021/08/26/factbox-investors-are-betting-on-rent-a-robot-startups-in-silicon-valley/"
+webUrl: "https://kelo.com/2021/08/26/factbox-investors-are-betting-on-rent-a-robot-startups-in-silicon-valley/"
 type: article
-quality: 68
-heat: 118
-published: true
+quality: 38
+heat: -1
+published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: KELO
+  domain: kelo.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=50"
-    width: 1200
-    height: 628
+  - url: "https://storage.googleapis.com/media.mwcradio.com/mimesis/2021-08/26/2021-08-26T102946Z_1_LYNXMPEH7P0DO_RTROPTP_3_USA-ECONOMY-ROBOTS.JPG"
+    width: 800
+    height: 533
     isCached: true
 
 related:
@@ -104,6 +100,6 @@ related:
         height: 600
         isCached: true
 
-secured: "YjxEexV26KyH3Qn0hvR8MyuPq5cC6GJlDXMrF2tApr/y5s9mAH3NKnhC5mjhmDVuoGM+F2MO5Lsv2iGzGTidl4V/TvhouURUm1lBdbHKnk/6SE3nXHx6igClA+kZN6d50QRcVRif6lcvpPnPamxZVGMTTcOKz5JRBPJnKzeCVQbZB9hNHXNmDBytUxQRXmFa2UjFGF/LaE2yQ4GIkijpC3lg2PCbM6+ZriViEZhMVXhWcKW31QndYZubKIk+kYi9x1yGTWnOvD6LJplcPqOwVMG1XtIgGVnoKSrrrCQPTn80EYOgv+yGG69J7n5lz9y4BS6XFddCim2oUKoESjv9MW6gbxE71xMXlko381oLd/c=;VEmTKKm5XlVh7Ecr+LjoJA=="
+secured: "mlvCmGVmFw8I8wnQYa35rXSCva8sls6mweB95g0HlI4rZ/XnscDYs6RFZ7vRl/9w4DIWNzeK4vO2k4r37dhhVLRqSclglqU2MDwwjLq6yrJqChvmJTzZfJBvcqJaopszhQ7FzCP12augeieZHZOF6ttJnQQVUOOR1kG06rYY5yjDI+FDvRiYUd2bJkOaikvAarAdsHrrQnEgL7hk5G72CscSOKe8BbN9JYxvyoTbt5Lpv3BeLzKDupUJVlAmbiX8mEsm+aGCh6o3iWWxSbOzlzb5dWjrgwvFR2+GxE1JLc/H/zbOdeeQZxftZx3Tj0Fbm9WSZ3ZLk29Bx9GGXyrqxi0OwoSXhliEZKBc4OyE3oI=;j0d263x6UfkSPhlM8ni8gw=="
 ---
 

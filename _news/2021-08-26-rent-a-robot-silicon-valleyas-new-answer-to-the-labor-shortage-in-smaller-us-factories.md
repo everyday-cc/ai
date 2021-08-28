@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Factbox: Investors are betting on rent-a-robot startups in Silicon Valley"
-    excerpt: "Silicon Valley has a new pitch for small U.S. manufacturers struggling with hiring workers but wary of the high costs of high tech: rent-a-robot. Much of the initial risk and cost are taken on by the robot companies."
-    publishedDateTime: 2021-08-26T14:29:00Z
-    webUrl: "https://www.reuters.com/business/investors-are-betting-rent-a-robot-startups-silicon-valley-2021-08-26/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 68
-    images:
-      - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=50"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Factbox-Investors are betting on rent-a-robot startups in Silicon ValleyÂ"
     excerpt: "Silicon Valley has a new pitch for small U.S. manufacturers struggling with hiring workers but wary of the high costs of high tech: rent-a-robot. Much of the initial risk and cost are taken on by the robot companies."
     publishedDateTime: 2021-08-26T10:29:00Z
@@ -68,6 +54,20 @@ related:
     quality: 50
     images:
       - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2021binary_LYNXMPEH7P0CY-BASEIMAGE.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Factbox-Investors are betting on rent-a-robot startups in Silicon Valley"
+    excerpt: "Silicon Valley has a new pitch for small U.S. manufacturers struggling with hiring workers but wary of the high costs"
+    publishedDateTime: 2021-08-26T10:27:00Z
+    webUrl: "https://kelo.com/2021/08/26/factbox-investors-are-betting-on-rent-a-robot-startups-in-silicon-valley/"
+    type: article
+    provider:
+      name: KELO
+      domain: kelo.com
+    quality: 38
+    images:
+      - url: "https://storage.googleapis.com/media.mwcradio.com/mimesis/2021-08/26/2021-08-26T102946Z_1_LYNXMPEH7P0DO_RTROPTP_3_USA-ECONOMY-ROBOTS.JPG"
         width: 800
         height: 533
         isCached: true
