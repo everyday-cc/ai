@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "winterlightlabs"
   url: "https://twitter.com/winterlightlabs"
-  followers: 828
+  followers: 829
 
 size: 2-10 employees
 yearFounded: 2015
@@ -46,6 +46,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "yPN8w9toUQ+UH0MRzUzCVOO+tb+zB5N3ZxAlzAUgFPIX8bTobqNFqhgFOlqI79k1ciwiMwxKKMpK6NbFfwAkxkP4va7FBb5yn1YjSuOEQFJssNDdD2IZ32jqO0COfBTkGxghvos0vdYhttlsww7P2YfsQ5Oepz1G4nOkAtd0PWfgR/z+TStWW1WICyPzE82mTUiVct0AX3ASXz/mMYD0AgevwcPVVfJeYhGAjhOxFvpm0ZSsXK1r1IzMK8Ry4524EuEUs4rqYgRSsN2POFnMACq+0CJhib26AKK40/fPpoWL2bXW5oydrjSWTe+1T2fsxwnB4+tBz7CmUQ4eaeFCg4CaP1IDVaaM5WwpeljUhN5rYdu5c+yu7DnB7sLmdZF3QciV3u31IUF+JD5JjBmALQ==;wKeoKhsp4qzW72rnR9u3Cg=="
+secured: "fgDffLwKMD2jBkJ9fZZ3ydarTFau3qDCgC7TxEa5gkuWEg84WnU/7bBahLCLzSpbenG1OcMC4bYSOUv3VEfyC8l9OIbNWQn2u5hJOsmCMVewPyIwaM7mbpc69ObcCIzmja/5ftSC3AAnPOV0ZphzWbIjs7sQg6q4znbcf3urlexwX1BuGhmXZLlqYW9EwV1qlKoJt2R7OLB5PRyiHMu24aYDqajDa87+syvW7l/AHufMZdRRHaHGyDUpGdCDGatVTvpMHWbEwOy41OlHw98yfC/RkE7OI/pgmu7UXlqNklpTIqgnZE2tKua3ooH5aEeXc8KP4FHrf8T/92Nb5MBzjkWJbkJdmRyoMt9JlEenQGTjTUj2wCKrpVJMIxnbeHBw3D1+4EntmCuAvtVTGQbvzQ==;h1TPQx96mtoW2Zo84VrAWA=="
 ---
 
