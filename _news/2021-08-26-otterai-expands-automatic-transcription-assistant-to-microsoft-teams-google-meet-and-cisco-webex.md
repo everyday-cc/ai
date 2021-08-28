@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/08/26/otter-ai-expands-automatic-transcr
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/26/otter-ai-expands-automatic-transcription-assistant-to-microsoft-teams-google-meet-and-cisco-webex/amp/"
 type: article
 quality: 90
-heat: 120
+heat: 130
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://images.idgesg.net/images/article/2021/05/otter-assistant_2-100889453-large.jpg?auto=webp"
         width: 1200
         height: 675
+        isCached: true
+  - title: "How To Crack Microsoft Azure Data Scientist Associate Certification"
+    excerpt: "How To Crack Microsoft Azure Data Scientist Associate Certification - Prepare with MachineHack mocks and test your level of preparation"
+    publishedDateTime: 2021-08-27T11:30:00Z
+    webUrl: "https://analyticsindiamag.com/how-to-crack-microsoft-azure-data-scientist-associate-certification/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/AIM-Illustration-3.jpg"
+        width: 2200
+        height: 1238
         isCached: true
   - title: "Microsoft launches Azure Government Top Secret cloud"
     excerpt: "Microsoft offers data analysis and AI services to government agencies through Azure’s Data Lake, Cosmos DB, HDInsight and Cognitive Services. It also provides the Kubernetes Service, Functions and App Service for containerized applications, serverless ..."

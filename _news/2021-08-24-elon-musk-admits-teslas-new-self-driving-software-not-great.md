@@ -167,22 +167,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "Tesla self-driving tech could be offered to other automakers"
-    excerpt: "According to a media report, Elon Musk is open to the idea of sharing Tesla's full self-driving technology with other automakers.As per reports, Musk stated that he is open to allowing other car companies"
-    publishedDateTime: 2021-08-23T11:01:00Z
-    webUrl: "https://www.team-bhp.com/news/tesla-self-driving-tech-could-be-offered-other-automakers"
-    ampWebUrl: "https://www.team-bhp.com/news/tesla-self-driving-tech-could-be-offered-other-automakers?amp"
-    cdnAmpWebUrl: "https://www-team--bhp-com.cdn.ampproject.org/c/s/www.team-bhp.com/news/tesla-self-driving-tech-could-be-offered-other-automakers?amp"
-    type: article
-    provider:
-      name: Team-BHP.com
-      domain: team-bhp.com
-    quality: 59
-    images:
-      - url: "https://www.team-bhp.com/sites/default/files/styles/amp_high_res/public/tesla-model-s-1_4.jpg"
-        width: 1280
-        height: 960
-        isCached: true
   - title: "Elon Musk Admits That Tesla's Full Self-Driving Beta Kind Of Sucks"
     excerpt: "All of which is to say that Elon Musk is a Twitter user, and a pretty earnest one at that. When he’s not sharing silly memes, he’s frequently interacting with Tesla fans, detractors or just regular Twitter users."
     publishedDateTime: 2021-08-24T14:19:00Z

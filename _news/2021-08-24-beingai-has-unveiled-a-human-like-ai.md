@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.interestingengineering.com/beingai-unveiled-human-like-a
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/beingai-unveiled-human-like-ai"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 744
     height: 419
     isCached: true
-
-related:
-  - title: "Beware Artificial Intelligence and its desire to be human!"
-    excerpt: "Most patent laws around the world make it clear that in order to apply for a patent the inventor must be a human and not a machine."
-    publishedDateTime: 2021-08-23T09:26:00Z
-    webUrl: "https://www.thelawyer.com/knowledge-bank/white-paper/beware-artificial-intelligence-and-its-desire-to-be-human/"
-    type: article
-    provider:
-      name: The Lawyer
-      domain: thelawyer.com
-    quality: 37
-    images:
-      - url: "https://thelawyer.imgix.net/content/uploads/2018/07/17091722/The-Lawyer_Careers_980x600-4-485x297.png"
-        width: 485
-        height: 297
-        isCached: true
 
 secured: "UC7g54TFLJh3OAA7p0IyU+MSuWR+59PKoc2RPf6+pvkH3mffaZqv/svdZh8r+/7OaSxmh35GmWpJAiLYVhHrVBCAD4rDBWuEYA0hSpctB84fFMke8wpG/M5dkG4Xlrq518acjAqapbni3cOY9EV8O5ubJPEEyKXgpduefXUSN+hBCXVBXDy38dCWKaJ6TeuJ5HYYmcQqCrx7OI9WA0wVialWIux6I41n56zns8nhADCsH5TxfVhOzPhxj2N6raghdv0DRNT5LerRo2o3lWm/ia2j5P+WoauTWUGGcs7ZmwZGItNRLsuWf1vobAmOf3iRBTCcAzGQ5SYr1yySHB9izWx1lNOHVdSxNgLmZeWqGt1rx7JK2xu4u8h/2NWC6hNskkmg/qb/CtTtnpT82s4x2qMf6L3xHUEDMb/18Euq0Yn7Sv9r5FjTMDyaecok9h75TlpU+2Zd5wKWW1wy0zcmNBh60wo1uRo0jFQz7ZKOshRd9Pf/fOVzilYN/ogHanr0iQ6XHbBEuRG8+JkX7/CwkA==;cORHOHfEE13xu6EseAA0DQ=="
 ---

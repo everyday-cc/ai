@@ -41,17 +41,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "INSIGHT-A secret weapon for self-driving car startups: Humans"
-    excerpt: "Self-driving startups like Cruise and Pony.ai have begun testing their driverless cars in some parts of California in the past year, with an additional feature: Human operators. FREMONT, Calif., Aug 23 (Reuters) - Self-driving startups like Cruise and Pony."
-    publishedDateTime: 2021-08-23T10:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/insight-a-secret-weapon-for-self-driving-car-startups%3A-humans-2021-08-23"
-    ampWebUrl: "https://www.nasdaq.com/articles/insight-a-secret-weapon-for-self-driving-car-startups%3A-humans-2021-08-23?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/insight-a-secret-weapon-for-self-driving-car-startups%3A-humans-2021-08-23?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "Tartu self-driving bus trials next month"
     excerpt: "A self-driving bus starts work in Tartu on a trial basis next week, ferrying passengers between the city center and the Estonian National Museum (ERM) on the outskirts, ETV news show 'Aktuaalne kaamera' (AK) reported."
     publishedDateTime: 2021-08-27T11:08:00Z

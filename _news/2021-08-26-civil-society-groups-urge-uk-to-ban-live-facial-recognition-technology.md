@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Civil liberties groups demand government bans facial recognition cameras"
-    excerpt: "Police and Home Office are accused of bypassing parliament over guidance allowing officers, local councils and enforcement agencies to use facial recognition across England and Wales in defiance of court rulings against invasive filming."
-    publishedDateTime: 2021-08-23T09:27:00Z
-    webUrl: "https://news.sky.com/story/civil-liberties-groups-demand-government-bans-facial-recognition-cameras-12388513"
-    ampWebUrl: "https://news.sky.com/story/amp/civil-liberties-groups-demand-government-bans-facial-recognition-cameras-12388513"
-    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/civil-liberties-groups-demand-government-bans-facial-recognition-cameras-12388513"
+  - title: "Calls against use of live facial recognition tech in Britain grow, Parliament petitioned"
+    excerpt: "The use of Live Facial Recognition Technology in the United Kingdom, as well as plans for new deployment rules, is facing increasingly stiff scrutiny."
+    publishedDateTime: 2021-08-24T19:12:00Z
+    webUrl: "https://www.biometricupdate.com/202108/calls-against-use-of-live-facial-recognition-tech-in-britain-grow-parliament-petitioned"
     type: article
     provider:
-      name: Sky
-      domain: sky.com
-    quality: 58
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 45
     images:
-      - url: "https://e3.365dm.com/21/08/1600x900/skynews-facial-recognition-camera_5487585.jpg?20210823094951"
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/11151135/biometric-identification-facial-recognition.jpg"
         width: 1600
-        height: 900
+        height: 1109
         isCached: true
   - title: "Campaign groups claim police have bypassed Parliament with plans for live facial-recognition tech"
     excerpt: "Civil society groups have called for a ban on the use of life facial recognition technology amid claims that the government and the police are introducing intrusive surveillance measures without parliamentary scrutiny."
@@ -54,22 +52,6 @@ related:
       - url: "https://cdn.ttgtmedia.com/visuals/German/article/CCTV-facial-recognition-2-adobe.jpg"
         width: 1200
         height: 400
-        isCached: true
-  - title: "Civil liberties groups say facial recognition cameras should be BANNED as they accuse ministers of quietly approving their use despite court rulings against invasive filming"
-    excerpt: "Thirty-one organisations including Amnesty International have posted a letter alleging guidance allowing facial recognition across England and Wales has been given in defiance of court rulings."
-    publishedDateTime: 2021-08-23T09:59:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-9918055/Civil-liberties-groups-demand-ban-facial-recognition-technology.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-9918055/amp/Civil-liberties-groups-demand-ban-facial-recognition-technology.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9918055/amp/Civil-liberties-groups-demand-ban-facial-recognition-technology.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 23
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2021/08/23/10/46991959-0-image-a-2_1629711354901.jpg"
-        width: 636
-        height: 382
         isCached: true
 
 secured: "SLxJDY/zT3Ib7yg5dNUhr6RgpyTuXIVd1qE1l5bYPs8he5Hd+Z1gYz0KIc6ruBZA1Ix01x4rIWjPgzqlUPm+v5CJEhsVCTJ3gGYPlaQTYLSnVze4bOwO5d9SUF4GYX5w7UiSytzWwjo3QuVEKhr6lMXeGRmWAoTgHofibhaVIuUzkO/pe476XEqW+NxVCTmfLUzjKWY1Y51ORlkCh6viEEw/BQLh7GgWMHBy4KMd/HpopF3Si/CgtGpA0+O5NID3y1xLa5xGUM1tjmeilxZied4fcec/kh5peuMHX5vJ3ojm/xJYc5HZpNkCDh9WZaef3MPipjvwoDWiDni7s9zEGLktUfTsE/85imYQ9fXJV1ZodO2oVJvi5EUnOOfJyBGuZoHl05SRy6Vq4/z3D/LIUicJelkZ6ntCHepSkuercOFsDe+ckdnEC4SnHuBDa3UXU9rl15PGugsby6ORBuzrlJ7VV3kpKKp2dmwbpFjRxDIk+nRVtb9cS7+InPqF0JWDXgkJRiVU6SVejfz2KPfKbQ==;Cc/AOLaK+vv15UV5gH04EA=="

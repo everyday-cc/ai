@@ -9,7 +9,7 @@ ampWebUrl: "https://mumbrella.com.au/wpp-acquires-ai-technology-company-satalia-
 cdnAmpWebUrl: "https://mumbrella-com-au.cdn.ampproject.org/c/s/mumbrella.com.au/wpp-acquires-ai-technology-company-satalia-699700/amp"
 type: article
 quality: 59
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://bdaily.co.uk/images/uploads/Yd1iOp5VdToWzLaqtAmpnnGyYqGNIRwcS3LZj3su.jpeg?w=940&h=430&fm=jpg&fit=crop-36-2&s=a5dc5d2d0486f936cb6a607ac0c09053"
         width: 940
         height: 430
-        isCached: true
-  - title: "WPP acquires Satalia for efficiency-increasing AI tech"
-    excerpt: "WPP’s accelerated growth strategy shows no sign of slowing, with the addition of artificial intelligence (AI) technology company Satalia for an undisclosed sum to modernize its sprawling empire."
-    publishedDateTime: 2021-08-23T09:06:00Z
-    webUrl: "https://www.thedrum.com/news/2021/08/23/wpp-acquires-satalia-efficiency-increasing-ai-tech"
-    type: article
-    provider:
-      name: The Drum
-      domain: thedrum.com
-    quality: 39
-    images:
-      - url: "https://media-assets-04.thedrum.com/cache/images/thedrum-prod/s3-news-tmp-10557-satalia--default--1280.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Wunderman Thompson Acquires Leading AI-focused Tech Company Satalia"
     excerpt: "Global growth partner Wunderman Thompson has today acquired Satalia, one of the leading and most exciting companies offering AI solutions for businesses across industries such as retail, grocery, telecommunications and consultancy."

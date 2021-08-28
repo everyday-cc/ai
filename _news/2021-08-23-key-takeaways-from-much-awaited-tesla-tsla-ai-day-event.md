@@ -37,22 +37,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The Station: Bird’s improving scooter-nomics, breaking down Tesla AI day and the Nuro EC-1"
-    excerpt: "The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every weekend in your inbox. Hello readers: Welcome to The Station, your central hub for all past,"
-    publishedDateTime: 2021-08-23T11:00:00Z
-    webUrl: "https://techcrunch.com/2021/08/23/the-station-birds-improving-scooter-nomics-and-breaking-down-tesla-ai-day/"
-    ampWebUrl: "https://techcrunch.com/2021/08/23/the-station-birds-improving-scooter-nomics-and-breaking-down-tesla-ai-day/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/23/the-station-birds-improving-scooter-nomics-and-breaking-down-tesla-ai-day/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 96
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/08/1894129364-NSussman_Techcrunch_Nuro-FINAL_full-L.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Why did Tesla’s share price dip following its AI Day reveal?"
     excerpt: "How will the latest technologies unveiled at Tesla’s AI Day impact the Tesla share price and the autonomous vehicles market? Read our analysis."
     publishedDateTime: 2021-08-27T07:27:00Z
@@ -98,20 +82,6 @@ related:
       - url: "https://images.barrons.com/im-389712/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Everything That Happened At Tesla AI Day"
-    excerpt: "As anticipated, Tesla’s AI Day incorporated company engineers explaining the upcoming Tesla tech while focusing on attracting and recruiting the brightest to join Tesla’s AI team. “There’s a tremendous amount of work to make it work,"
-    publishedDateTime: 2021-08-23T09:30:00Z
-    webUrl: "https://analyticsindiamag.com/everything-that-happened-at-tesla-ai-day/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/TeslaDay_AIM.jpg"
-        width: 1050
-        height: 590
         isCached: true
 
 secured: "P0878bzIxGGe6BORsPzsj5enUEwVdvYjbAl3cJ2qe2LSU4kfcFob00lRL9TXzqn6OLbe3Cbaordz0QxLnccZo7We2yhkG825u8CLHbHigWHJIzEa/tP4Kx/WCaf0YmbvrS23ASq4OylJPsymS3WWSytzSI+J/f4GlEkAxmRMHljn83lMNJ36XmgrCi5ghzuVTAM5WVik7u0cNI6DvQu+8dkjCZPtsBExjfHNW/xYprAIygPYewN8TJlBfCUe7Z/jNqnuAnpBsrKIj8lW1Yr5gMhwj9Getw3e+/vcaX7XBLV9FA05ngjT6twFiJO6S02EaoH3Xv/6L8yyHNtAQ5CTs1gJQaTdFV11pUgFBlSma9s=;ALItZJrTux71tTrVT75s1A=="

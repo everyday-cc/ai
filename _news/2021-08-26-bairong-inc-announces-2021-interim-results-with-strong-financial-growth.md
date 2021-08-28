@@ -19,8 +19,8 @@ topics:
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?916759"
-    width: 375
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?179883"
+    width: 333
     height: 250
     isCached: true
 
@@ -35,6 +35,6 @@ related:
       domain: tmcnet.com
     quality: 18
 
-secured: "FuQtoSjui7h76vYI/S4oMP6sXK8XFBJBiAQkQ+M8m0etAJKP5qds8HkxTnBB1jxmnqZdKxMl3UYtjD27Q3iDeRy2gNrqvI/RY2lzyQpxD2l0AgA5eKUPfde7s5F8zzUc42rmnxw7yNud44OUWxSr7O46F7Ynai5cKi2b6b3hKGbKwQkaoA79C5Z0b4Fbn7FiXUqA5cMQLYuCcqGQRs1UW0XmuLE2Ry3DuHCZynBHqdIE6+9IqS5uvs5N4uTXw+uxXxY++Id36oSDzQTPcrvmaJYL9RV+REVvE9kR4fTYLWuD13ToCYHRqy2i0YCpTwN5/CDl0KAdLubsX3fzUPQtUC64b71hjUgiaIuWbTECUYg=;rvjN3YtAxQi6lZTZOUMrQg=="
+secured: "TKpDcwG5YddeglfQ8miMGRoKgAORvj5tuNXlaDo/tIVYAQfTB4cYoZ59tTrliCpg+CINo+w9eRyp+rRJKFU8hYKBLk171kmu9rm0MWdicA9wUC61M6w3M0QCzmBqiRZcz7qQDB+PG1F5Ubn4/SZzZYWWVYuY19lFfWCSWIqUy+YZzmldwnXBS7lsPvbKpRFLJD4E6vPxp39B4fjZ0Fh07FIDe869rM4mlQ+Flm6Qlb65KRPe0ehZ/yav6xO2v2GL2DbClpl5ueeQaazjlfx/8oIupmkRMRnSxpqON/0ePII8ceT7ZTsfHjZkp3FCR7eNtYsWbPNHcTIjQoKiIjByVAOKuhvFXSf9gWe/fxDiZtI=;bVcwSEc9yzdnBSNX4LtUkA=="
 ---
 

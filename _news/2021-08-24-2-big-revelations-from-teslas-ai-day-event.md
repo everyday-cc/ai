@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/08/23/2-big-revelations-from
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/08/23/2-big-revelations-from-tesla-ai-day-event/"
 type: article
 quality: 104
-heat: 164
+heat: 144
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Station: Bird’s improving scooter-nomics, breaking down Tesla AI day and the Nuro EC-1"
-    excerpt: "The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every weekend in your inbox. Hello readers: Welcome to The Station, your central hub for all past,"
-    publishedDateTime: 2021-08-23T11:00:00Z
-    webUrl: "https://techcrunch.com/2021/08/23/the-station-birds-improving-scooter-nomics-and-breaking-down-tesla-ai-day/"
-    ampWebUrl: "https://techcrunch.com/2021/08/23/the-station-birds-improving-scooter-nomics-and-breaking-down-tesla-ai-day/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/23/the-station-birds-improving-scooter-nomics-and-breaking-down-tesla-ai-day/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 96
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/08/1894129364-NSussman_Techcrunch_Nuro-FINAL_full-L.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Key Takeaways From Much-Awaited Tesla (TSLA) AI Day Event"
     excerpt: "Tesla’s TSLA highly anticipated Artificial Intelligence (AI) day event was live-streamed on the company’s official YouTube channel on Aug 19. At the flashy event, the electric car maker made several key announcements in the areas of computing,"
     publishedDateTime: 2021-08-23T12:57:00Z
@@ -103,20 +87,6 @@ related:
       - url: "https://images.barrons.com/im-389712/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Everything That Happened At Tesla AI Day"
-    excerpt: "As anticipated, Tesla’s AI Day incorporated company engineers explaining the upcoming Tesla tech while focusing on attracting and recruiting the brightest to join Tesla’s AI team. “There’s a tremendous amount of work to make it work,"
-    publishedDateTime: 2021-08-23T09:30:00Z
-    webUrl: "https://analyticsindiamag.com/everything-that-happened-at-tesla-ai-day/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/TeslaDay_AIM.jpg"
-        width: 1050
-        height: 590
         isCached: true
 
 secured: "tfYoeKcgQpzEf1+uyIBD83wUGLgw4r4N/DXOz69DYxxWZGZ2yhwb0R99MJvnu3pUrzSTenQOO/KjAwWYDzaRywamLKfb/ZTCSapFFZZuYtHdVF9kzGWUX/sfC7sWiw+0gPIhfItNwA2WBJ6hM+ty0+PIaHi7gSQkUsS9ayeiGQ0o7ukBRVF6uTazjIGP94cghXdNockbPbABmr1wi0TMqTkDuNuvchzADW1HtPZCU5gAAepl20flFQGUMl/9nEkuoFVLwG69YFHrHv/SvxsbBd6mUtkc+4yXVtIIzvX7emYLUhxLnz7N0CuAReOBIswSq1eT7EuQkWVWGzNCuhwI1WOzk+DxB/jwNrWvN+AOPTsoWWIfHm30sfm3oLEUjfXOhZwNKAvQMb/zIhJF7SYpxsJcxk1W2zbcVhRZqYEp9JmTso3My7byRQ6NSnJ5r5mPRlZxhWNfi/Lz3CCLxtAh3I4pJk6PeIDj/DHO78Hbt0yqFDWOgZHj8gHF6P3IOZYAdR+i9JmPCT3Ayg8LwMwuNw==;iaqKCRUD+TcgrQrBtUZ3Rw=="

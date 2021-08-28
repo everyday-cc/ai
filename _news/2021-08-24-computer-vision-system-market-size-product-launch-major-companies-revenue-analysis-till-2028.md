@@ -59,20 +59,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "GPU as a Service Market - Growth Analysis, Industry Size, Market Opportunities and Future Estimations"
-    excerpt: "Global GPU as a service market to register a double-digit CAGR over 2019-2025 Robust advancements in technology have led to a rise in the deployment of IT-based solutions, impelling GPU as a service market size."
-    publishedDateTime: 2021-08-23T09:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/gpu-as-a-service-market---growth-analysis-industry-size-market-opportunities-and-future-estimations-2021-08-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Voice Assistant Shopping Market - Forecast to 2026"
     excerpt: "According to a new market research report published by Global Market Estimates the Voice Assistant Shopping Market will grow with a CAGR value of around 50 percent over the forecast period Browse TOC on Global Voice Assistant Shopping Market Forecast"
     publishedDateTime: 2021-08-24T07:11:00Z

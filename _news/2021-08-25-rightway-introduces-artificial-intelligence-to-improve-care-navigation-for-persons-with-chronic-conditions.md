@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Rightway Introduces Artificial Intelligence to Improve Care Navigation for Persons with Chronic Conditions"
-excerpt: "Rightway, a healthcare company revolutionizing care navigation and pharmacy benefits, today announced enhancements to its risk-scoring technology to more precisely identify “rising-risk” and “high-risk” members."
-publishedDateTime: 2021-08-25T13:37:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-health-artificial-intelligence-4c0e8ae31d87307aade6709bbdbe3a1f"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-health-artificial-intelligence-4c0e8ae31d87307aade6709bbdbe3a1f"
+excerpt: "Rightway, a healthcare company revolutionizing care navigation and pharmacy benefits, today announced enhancements to its risk-scoring technology to more precisely identify \"rising-risk\" and \"high-risk\" members."
+publishedDateTime: 2021-08-25T13:20:00Z
+originalUrl: "https://www.lelezard.com/en/news-19967778.html"
+webUrl: "https://www.lelezard.com/en/news-19967778.html"
 type: article
 quality: 21
 heat: 21
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+    width: 640
+    height: 480
     isCached: true
 
-secured: "LTKnFYr/pU3VRbBDcqIFjZTiOoV3oXRWXW47MH6P9CjXOi4IXJ9nXHwN+wgdjF4hXQ7jM/UY26keFFicTU0M3UUvaxEd+MxuGj3Mk3CL4KFrTDLAaRbRrTOAn4Zh+O6nZq7AwxNkubKPIUb5cxPHzvg1ftgKRFfusscnFY+YMczNFA3HPYmKEcrpHUkc2BBq7g1rseNQT8+u/5AsBrqoqmlP9DyBhHb3U7KEtMIKVlWLZ/4L2ibLJd9C9RE+lGZ1gTpCw4sb7gu/M55knfdF5AHAdTVyjkp9mbcbFqxPjRkU26IT23zAobBAZusgSVkv6TLz0F27y7svn9GgnKthE92GnB8qOD7DzXDmcexFvB0=;NQmTyMvx/Yi/PeJb1bwMzg=="
+secured: "gIzlkppUwEUKOUVp0lcwKhukPqQc9zrrOgQ0War3cNLnTkjYIZELBaQnIDyFtodh8rZMjNkUcVrbs+FxrhXKJDuNH5S77haQ/6jvH+jgmjM/K5KjYU5MNQulJiBUZqhx2T5rHlGi5IOU9DMdNn78HjanGkq2Dn86V8doHTBwGiDeFW0aztrgG3Hj1BSlDmkOhB4ygab5kmVIB4bAa1v425ArXmnDjvYCKhOm/HowLRNU4jZC5jHe/9/X8pSetI4d7eqnIwuWHLOQf2hOfRYzFrStEl7N94LwRI+fMT95YLXQaskNDMX4KxoceAR2B3DuD6nw3kOnD2XI7eOtmiYkvdbjI8O9bNCgX9xCK9K0iw4=;YdoMNnxDpzYui0Dw7pUjVg=="
 ---
 

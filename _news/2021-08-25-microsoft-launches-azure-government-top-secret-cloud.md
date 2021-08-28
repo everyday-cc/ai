@@ -67,6 +67,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How To Crack Microsoft Azure Data Scientist Associate Certification"
+    excerpt: "How To Crack Microsoft Azure Data Scientist Associate Certification - Prepare with MachineHack mocks and test your level of preparation"
+    publishedDateTime: 2021-08-27T11:30:00Z
+    webUrl: "https://analyticsindiamag.com/how-to-crack-microsoft-azure-data-scientist-associate-certification/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/AIM-Illustration-3.jpg"
+        width: 2200
+        height: 1238
+        isCached: true
 
 secured: "+9FGOIOTjSUz3nsosYZn2HZ+jYnpZZtw+euqNiaqrauqr+Yp0nzNwCgmTfxM416WkLMc0XwsTwuhdtsn8vBugghE8AlZhV35RW0zMlf8Zv7UzHNN3Wg8fSOSQm9Usd3cNW896O49mkNfm7lCVDooSQMG6I4tUkea+xqnXgLG8OMr6qS/jWGfOtOzh8c2mNI6lBfOP7arOAVjVCgq6mpRIoMfvTmkWfRtKv/XCeiQ94iUFeQrBZuFzEupWqX5adANeXNj53rS+f9g8WPCh+7fyLHQzYgV/Qi/gG3n9fe9mOyAh2yRAHvuCcLuMjv9oN8t2H+DCwH3euLWYyFxoga55RLVnZ/PYrHMzLV4McPJuNk=;d1Hw/39GCwlP1aVoKpULpQ=="
 ---

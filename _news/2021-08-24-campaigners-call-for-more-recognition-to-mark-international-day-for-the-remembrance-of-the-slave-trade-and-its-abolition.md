@@ -113,6 +113,20 @@ related:
         width: 640
         height: 434
         isCached: true
+  - title: "Athreon Launches Front-End Speech Recognition Solution"
+    excerpt: "Athreon, a leading business and knowledge process outsourcing company, announced today the launch of its new front-end speech recognition solution for healthcare. Athreon’s speech recognition empowers physicians to focus on patient care versus administrative,"
+    publishedDateTime: 2021-08-26T14:13:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-937261d53fe91f0a1613f00fc9d48934"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Facial Recognition Tech Use Increasing Among Federal Agencies"
     excerpt: "Use cases included criminal investigations, building security and access to digital assets like smartphones and security agency websites."
     publishedDateTime: 2021-08-26T19:00:00Z
@@ -141,15 +155,6 @@ related:
         width: 860
         height: 520
         isCached: true
-  - title: "Athreon Launches Front-End Speech Recognition Solution"
-    excerpt: "Athreon, a leading business and knowledge process outsourcing company, announced today the launch of its new front-end speech recognition solution for healthcare. Athreon's speech recognition empowers physicians to focus on patient care versus administrative,"
-    publishedDateTime: 2021-08-26T16:39:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-athreon-launches-front-end-speech-recognition-solution-/2021/08/26/9438228.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "o0SmeEAHLJso1VXVVU7trbUs822ITxtouwP8XzGQmbnP8AXNuA4b4ZmyFeKMOwN3NxUlGRt/sPuo/NGOrTmqa0fEdQ1K4+j96bu6IpiV9sFptgJJGJwc+dCLY0Vtu1m+BXf0P92d98ClUVYvXeglOTKQnzfyQenXdRLgDNq8vTDV1tsTAIP+/8LyVTE8sqVhKXJpdOQSrmFu5q699bPwB6wLyJ1h/nVeqLkz4efuZvTNSvrky4zGrJByNIDNrswzYqL2dUHMdOaa4fQlY5PaN3GFiQFcev8QEA+yzmrgHN4lPjU0kSxRh3SXXxejGsxmQJODt/vQXDqHcYp+9rgIINmQsrg50ZggUKpUHQaDrFtWMERH0mIzQhLB0K+Qjwc+PTduyj9Qxwgn1wu/twQ5EB02Cdl/W+FlTJaVCu/aqkkNt46cGc1PpbL5GOeWa2M4WKJVG0yUCVnE54gYfou0Na6biaKx4MGuUrhPcIZrbgPaH5vEAKIQnjYaNMLsmhSd9rwbaHyExTo5DlUqsx1kCg==;HlP6VY4n590K8WV6nZ5a+Q=="
 ---

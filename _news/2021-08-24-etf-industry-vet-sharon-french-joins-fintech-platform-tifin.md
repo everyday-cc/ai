@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/etf-industry-vet-sharon-french-joins
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/etf-industry-vet-sharon-french-joins-fintech-platform-tifin-2021-08-23?amp"
 type: article
 quality: 56
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -63,6 +63,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "How the Indian Diaspora Helps Fuel Fintech Innovation in the UAE"
+    excerpt: "Recent news headlines have underscored the long-standing relationship between fintechs in India and the UAE. This week, we learned that Indian payment solution provider PayMate has teamed up with both Visa and Citi to automate business payments in the UAE."
+    publishedDateTime: 2021-08-27T20:54:00Z
+    webUrl: "https://finovate.com/how-the-indian-diaspora-helps-fuel-fintech-innovation-in-the-uae/"
+    type: article
+    provider:
+      name: finovate.com
+      domain: finovate.com
+    quality: 24
+    images:
+      - url: "https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/pexels-sreenadh-tc-4038084.jpg"
+        width: 1280
+        height: 853
         isCached: true
   - title: "The Impact of Fintech on Central Bank Governance"
     excerpt: "Fintech presents unique opportunities for central banks ... new data analytics (artificial intelligence [AI] and machine learning), and cloud computing, along with a wider spread of mobile access and increased internet speed and bandwidth."

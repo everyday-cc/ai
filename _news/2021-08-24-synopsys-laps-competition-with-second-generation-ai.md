@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/08/23/synopsys-laps-the
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/08/23/synopsys-laps-the-competition-with-second-generation-ai/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 109
+published: true
 
 provider:
   name: Forbes
@@ -31,33 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Synopsys CEO: AI-designed chips will generate 1,000X performance in 10 years"
-    excerpt: "AI-designed chips are producing could lead to 1,000 times better performance for chips in the next decade, says Synopsys CEO Aart de Geus."
-    publishedDateTime: 2021-08-23T10:00:00Z
-    webUrl: "https://venturebeat.com/2021/08/23/synopsys-ceo-ai-designed-chips-will-generate-1000x-performance-in-10-years/"
-    ampWebUrl: "https://venturebeat.com/2021/08/23/synopsys-ceo-ai-designed-chips-will-generate-1000x-performance-in-10-years/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/23/synopsys-ceo-ai-designed-chips-will-generate-1000x-performance-in-10-years/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 101
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/08/syn-2.jpg?w=1200&strip=all"
-        width: 1200
-        height: 662
-        isCached: true
-  - title: "Synopsys design software uses AI to make chips more power efficient"
-    excerpt: "Synopsys Inc SNPS.O said on Monday one of its customers used artificial intelligence software to get a 26% gain in the power efficiency of a computer chip, a leap that usually has to wait for a new generation of chip manufacturing technology."
-    publishedDateTime: 2021-08-23T10:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/synopsys-design-software-uses-ai-to-make-chips-more-power-efficient-2021-08-23"
-    ampWebUrl: "https://www.nasdaq.com/articles/synopsys-design-software-uses-ai-to-make-chips-more-power-efficient-2021-08-23?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/synopsys-design-software-uses-ai-to-make-chips-more-power-efficient-2021-08-23?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 84
   - title: "Synopsys design software uses AI to make chips more power efficient"
     excerpt: "Synopsys Inc said on Monday one of its customers used artificial intelligence software to get a 26per cent gain in the power efficiency of a computer chip, a leap that usually has to wait for a new generation of chip manufacturing technology."
     publishedDateTime: 2021-08-23T22:09:00Z

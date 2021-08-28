@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/autos-transportation/musk-says-te
 webUrl: "https://www.reuters.com/business/autos-transportation/musk-says-teslas-self-driving-software-update-not-great-2021-08-23/"
 type: article
 quality: 169
-heat: 399
+heat: 389
 published: true
 
 provider:
@@ -154,22 +154,6 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2018/05/GettyImages-855377492-760x380.jpg"
         width: 760
         height: 380
-        isCached: true
-  - title: "Tesla self-driving tech could be offered to other automakers"
-    excerpt: "According to a media report, Elon Musk is open to the idea of sharing Tesla's full self-driving technology with other automakers.As per reports, Musk stated that he is open to allowing other car companies"
-    publishedDateTime: 2021-08-23T11:01:00Z
-    webUrl: "https://www.team-bhp.com/news/tesla-self-driving-tech-could-be-offered-other-automakers"
-    ampWebUrl: "https://www.team-bhp.com/news/tesla-self-driving-tech-could-be-offered-other-automakers?amp"
-    cdnAmpWebUrl: "https://www-team--bhp-com.cdn.ampproject.org/c/s/www.team-bhp.com/news/tesla-self-driving-tech-could-be-offered-other-automakers?amp"
-    type: article
-    provider:
-      name: Team-BHP.com
-      domain: team-bhp.com
-    quality: 59
-    images:
-      - url: "https://www.team-bhp.com/sites/default/files/styles/amp_high_res/public/tesla-model-s-1_4.jpg"
-        width: 1280
-        height: 960
         isCached: true
   - title: "Elon Musk admits Tesla’s new self-driving software ‘not great’"
     excerpt: "Tesla CEO Elon Musk admitted that the company’s driver-assistance software is “actually not great,” a week after federal regulators launched an investigation into Tesla’s Autopilot"

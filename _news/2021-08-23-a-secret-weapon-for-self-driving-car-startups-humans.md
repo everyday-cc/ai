@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/autos-transportation/secret-weapo
 webUrl: "https://www.reuters.com/business/autos-transportation/secret-weapon-self-driving-car-startups-humans-2021-08-23/"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "INSIGHT-A secret weapon for self-driving car startups: Humans"
-    excerpt: "Self-driving startups like Cruise and Pony.ai have begun testing their driverless cars in some parts of California in the past year, with an additional feature: Human operators. FREMONT, Calif., Aug 23 (Reuters) - Self-driving startups like Cruise and Pony."
-    publishedDateTime: 2021-08-23T10:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/insight-a-secret-weapon-for-self-driving-car-startups%3A-humans-2021-08-23"
-    ampWebUrl: "https://www.nasdaq.com/articles/insight-a-secret-weapon-for-self-driving-car-startups%3A-humans-2021-08-23?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/insight-a-secret-weapon-for-self-driving-car-startups%3A-humans-2021-08-23?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "Humans are a secret weapon for self-driving car startups"
     excerpt: "Waymo now plans to start commercial autonomous vehicle operations in San Francisco with safety drivers initially."
     publishedDateTime: 2021-08-23T23:50:00Z
