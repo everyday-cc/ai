@@ -7,7 +7,7 @@ originalUrl: "https://ia.acs.org.au/article/2021/sa-trials-facial-recognition-fo
 webUrl: "https://ia.acs.org.au/article/2021/sa-trials-facial-recognition-for-home-quarantine.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,49 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "The Free-Speech Case for Facial Recognition | Opinion"
-    excerpt: "The right to communicate anonymously is important, but most would agree it shouldn't extend to people who commit violent crimes."
-    publishedDateTime: 2021-08-27T10:00:00Z
-    webUrl: "https://www.newsweek.com/free-speech-case-facial-recognition-opinion-1623006"
-    ampWebUrl: "https://www.newsweek.com/free-speech-case-facial-recognition-opinion-1623006?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/free-speech-case-facial-recognition-opinion-1623006?amp=1"
+  - title: "SA govt trials home quarantine app with facial recognition, GPS tracking"
+    excerpt: "The South Australian government is set to trial a smartphone app that uses facial recognition and geolocation to confirm a person’s location during home quarantine. The government will trial the app known as Home Quarantine SA with 50 residents who are required to undertake 14 days of quarantine on return from interstate locations this week."
+    publishedDateTime: 2021-08-24T01:41:00Z
+    webUrl: "https://www.itnews.com.au/news/sa-govt-trials-home-quarantine-app-with-facial-recognition-gps-tracking-568979"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 91
-    images:
-      - url: "https://d.newsweek.com/en/full/1880796/charlottesville-rally-anniversary.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Can facial recognition tech be stopped?"
-    excerpt: "In recent years, facial recognition technology has been introduced into our lives in various benign ways. The ease of using it to unlock our phones, make purchases, replace passwords, and manage"
-    publishedDateTime: 2021-08-23T23:02:00Z
-    webUrl: "https://www.spectator.com.au/2021/08/can-facial-recognition-tech-be-stopped/"
-    type: article
-    provider:
-      name: spectator.com.au
-      domain: spectator.com.au
-    quality: 39
-    images:
-      - url: "https://spectatorau.imgix.net/content/uploads/2021/08/GettyImages_1316601599.jpe?auto=compress,enhance,format&crop=faces,entropy,edges&fit=crop&w=768&h=511"
-        width: 768
-        height: 511
-        isCached: true
-  - title: "US federal agencies plan to increase facial recognition use, GAO report says"
-    excerpt: "Three-quarters of U.S. federal agencies surveyed for a Government Accountability Office (GAO) report are already using facial recognition."
-    publishedDateTime: 2021-08-26T21:42:00Z
-    webUrl: "https://www.biometricupdate.com/202108/us-federal-agencies-plan-to-increase-facial-recognition-use-gao-report-says"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
+      name: IT News For Australia Business
+      domain: itnews.com.au
     quality: 38
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
-        width: 1800
-        height: 734
+      - url: "https://i.nextmedia.com.au/News/facial_biometric_identity.jpg"
+        width: 1254
+        height: 836
+        isCached: true
+  - title: "DoD, DHS vet facial recognition tools for reliability in effort to build trust"
+    excerpt: "But first, both agencies are taking steps to vet the security and reliability of the facial recognition tools they’re using, in order to build public trust in these tools and address concerns from Congress."
+    publishedDateTime: 2021-08-25T14:28:00Z
+    webUrl: "https://federalnewsnetwork.com/technology-main/2021/08/dod-dhs-vet-facial-recognition-tools-for-reliability-in-push-to-build-trust/"
+    type: article
+    provider:
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 35
+    images:
+      - url: "https://federalnewsnetwork.com/wp-content/uploads/2019/05/Facial_Recognition_Backlash_78584.jpg"
+        width: 1648
+        height: 1080
         isCached: true
 
 secured: "zyfjbAQBg+Qkh9QDiMt4NKoDVhaPqIhkb6t7/QWTBCBEXT10IHNWsGkf0d1WPLFjZO7y0OXSCAlfzSkcXK8Yy3hVCId86eEsJ6Fm8YONB1NB6mqdJK5So1NByLx4SbyOlv3Ln6Kogxhirkr0egfyJ4mBaIuVvvNHJCInRiEJEbe9t78+Kh1W2EIKDUDeWW+UdC5yOjQzAtoBvIVMOsY/Ho7qCZbxLYA4pHfjjSGIR69Nrv0HHwv+RKhmrshXCMKxBHh5MdCo9VsS17vTjNimoeodnvCAUqsjxIDQeewSxms/Ct9XyiN/KLpQROKg0biG0n/iB8oPGu1/J3bb70Mc+Sye7tRwde93FpbcxiiUpRFViB1BBgLpw+DojDA8+0Q4ncnWClT1hNcdgfsq0YbS9693tkmfENhjDgL+QNPpGcPgnIzVNndwXPRuQqtP6iOxR0tHGKOHfpjs6ZvmP/G2uYz2YDSDNUkSxijr3FUsGWgPsqbaKm2+1EZfaS+lLjHhnrKt2BunKcCDv1uw1lavbg==;vOWJP4UuVud3ZtyJXgrJxg=="

@@ -2,6 +2,94 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-26-fired-google-ai-ethics-lead-joins-natural-language-processing-start-up.md",
+      "title": "Fired Google AI ethics lead joins natural language processing start-up",
+      "excerpt": "A researcher fired from Google during a tumultuous period for the company’s AI division has announced her next move in business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.siliconrepublic.com/start-ups/margaret-mitchell-hugging-face-google-ai-ethics",
+      "originalUrl": "https://www.siliconrepublic.com/start-ups/margaret-mitchell-hugging-face-google-ai-ethics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.siliconrepublic.com/wp-content/uploads/2021/08/AdobeStock_448737185.jpeg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-26T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconRepublic",
+        "domain": "siliconrepublic.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "AI Ethics",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-26-how-artificial-intelligence-ai-aid-medical-diagnosis.md",
+      "title": "How Artificial Intelligence (AI) Aid Medical Diagnosis",
+      "excerpt": "Artificial Intelligence is widely employed for the ... Increasing the effectiveness of decision-making Diagnostic and therapy procedures have always been difficult. The reason for this is that ...",
+      "sourceUrl": null,
+      "webUrl": "https://health.economictimes.indiatimes.com/news/health-it/how-artificial-intelligence-ai-aid-medical-diagnosis/85651655",
+      "originalUrl": "https://health.economictimes.indiatimes.com/news/health-it/how-artificial-intelligence-ai-aid-medical-diagnosis/85651655",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-85651655,imgsize-23672,width-800,height-434,overlay-ethealthworld/how-artificial-intelligence-ai-aid-medical-diagnosis.jpg",
+          "width": 800,
+          "height": 434,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://health.economictimes.indiatimes.com/amp/news/health-it/how-artificial-intelligence-ai-aid-medical-diagnosis/85651655",
+      "cdnAmpWebUrl": "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/how-artificial-intelligence-ai-aid-medical-diagnosis/85651655",
+      "publishedDateTime": "2021-08-26T01:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "health.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-26-ai-is-slowly-outperforming-human-written-phishing-emails-and-it-is-a-cause-of-concern.md",
       "title": "AI Is Slowly Outperforming Human-written Phishing Emails, and It Is a Cause of Concern!",
       "excerpt": "Every day, millions of phishing emails are sent worldwide by threat actors to lure users into divulging their Personally Identifiable Information or other critical information, such as credit card credentials or bank account details.",
@@ -208,6 +296,109 @@
         "AI Ethics",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-08-26-the-sec-and-the-doj-just-charged-this-startup-founder-with-fraud-saying-he-lied-to-tiger-and-others.md",
+      "title": "The SEC and the DOJ just charged this startup founder with fraud, saying he lied to Tiger and others",
+      "excerpt": "Today, both the U.S. Department of Justice and the Securities and Exchange Commission charged Manish Lachwani, co-founder of mobile app testing company HeadSpin, with fraud. The SEC says he violated antifraud provisions,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/08/25/the-sec-and-the-doj-just-charged-this-startup-ceo-with-fraud-saying-he-lied-to-tiger-and-others/",
+      "originalUrl": "https://techcrunch.com/2021/08/25/the-sec-and-the-doj-just-charged-this-startup-ceo-with-fraud-saying-he-lied-to-tiger-and-others/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/DSC01166.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/08/25/the-sec-and-the-doj-just-charged-this-startup-ceo-with-fraud-saying-he-lied-to-tiger-and-others/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/25/the-sec-and-the-doj-just-charged-this-startup-ceo-with-fraud-saying-he-lied-to-tiger-and-others/amp/",
+      "publishedDateTime": "2021-08-25T17:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-26-tesla-now-aims-for-full-self-driving-beta-public-release-in-4-weeks.md",
+      "title": "Tesla now aims for Full Self-Driving Beta public release in ‘~4 weeks’",
+      "excerpt": "Elon Musk is now saying that Tesla is aiming for the wider public release of its Full Self-Driving Beta in about 4 weeks. We are coming up on almost a year since Tesla started testing its Full Self-Driving Beta in its early access program with some customers.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/08/25/tesla-full-self-driving-beta-public-release-4-weeks/",
+      "originalUrl": "https://electrek.co/2021/08/25/tesla-full-self-driving-beta-public-release-4-weeks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 234,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/08/25/tesla-full-self-driving-beta-public-release-4-weeks/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/25/tesla-full-self-driving-beta-public-release-4-weeks/amp/",
+      "publishedDateTime": "2021-08-25T16:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -795,7 +986,7 @@
       "originalUrl": "https://www.buzzfeednews.com/article/ryanmac/clearview-ai-international-search-table",
       "featuredContent": null,
       "highlight": null,
-      "heat": 198,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -835,6 +1026,57 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-involveai-boosts-ai-driven-customer-data-platform-with-16m.md",
+      "title": "Involve.ai boosts AI-driven customer data platform with $16M",
+      "excerpt": "Involve.ai, a startup using AI to bolster customer success, announced that it raised $16 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/25/involve-ai-boosts-ai-driven-customer-data-platform-with-16m/",
+      "originalUrl": "https://venturebeat.com/2021/08/25/involve-ai-boosts-ai-driven-customer-data-platform-with-16m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/big_data.jpg?fit=800%2C450&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/25/involve-ai-boosts-ai-driven-customer-data-platform-with-16m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/25/involve-ai-boosts-ai-driven-customer-data-platform-with-16m/amp/",
+      "publishedDateTime": "2021-08-25T08:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -981,258 +1223,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-the-worlds-largest-chip-is-creating-ai-networks-larger-than-the-human-brain.md",
-      "title": "The world’s largest chip is creating AI networks larger than the human brain",
-      "excerpt": "Cerebras Systems, maker of the world’s largest chip, has lifted the lid on new architecture capable of supporting AI models that outscale the human brain. The current largest AI models (such as Switch Transformer from Google) are built on circa 1 trillion parameters,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/in/news/the-worlds-largest-chip-is-creating-ai-networks-larger-than-the-human-brain",
-      "originalUrl": "https://www.techradar.com/in/news/the-worlds-largest-chip-is-creating-ai-networks-larger-than-the-human-brain",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/7GP79ZaR9WEwx5QnSBo5Eh-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/in/amp/news/the-worlds-largest-chip-is-creating-ai-networks-larger-than-the-human-brain",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/the-worlds-largest-chip-is-creating-ai-networks-larger-than-the-human-brain",
-      "publishedDateTime": "2021-08-25T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-bodoai-secures-14m-aims-to-make-python-better-at-handling-large-scale-data.md",
-      "title": "Bodo.ai secures $14M, aims to make Python better at handling large-scale data",
-      "excerpt": "Bodo.ai, a parallel compute platform for data workloads, is developing a compiler to make Python portable and efficient across multiple hardware platforms.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/08/25/bodo-ai-secures-14m-aims-to-make-python-better-at-handling-large-scale-data/",
-      "originalUrl": "https://techcrunch.com/2021/08/25/bodo-ai-secures-14m-aims-to-make-python-better-at-handling-large-scale-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-960937636.jpg?w=1024",
-          "width": 1024,
-          "height": 684,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/08/25/bodo-ai-secures-14m-aims-to-make-python-better-at-handling-large-scale-data/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/25/bodo-ai-secures-14m-aims-to-make-python-better-at-handling-large-scale-data/amp/",
-      "publishedDateTime": "2021-08-25T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-data-observability-startup-cribl-brings-in-200m.md",
-      "title": "Data observability startup Cribl brings in $200M",
-      "excerpt": "Data observability startup Cribl has raised $200 million in a funding round that values the company at over $1 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/25/data-observability-startup-cribl-brings-in-200m/",
-      "originalUrl": "https://venturebeat.com/2021/08/25/data-observability-startup-cribl-brings-in-200m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1013842600-e1622192416662.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/25/data-observability-startup-cribl-brings-in-200m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/25/data-observability-startup-cribl-brings-in-200m/amp/",
-      "publishedDateTime": "2021-08-25T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-in-the-face-of-rising-security-issues-and-hacks-gbcai-makes-the-case-for-machine-learning-and-ai-integration.md",
-      "title": "In the Face of Rising Security Issues and Hacks, GBC.AI Makes the Case for Machine Learning and AI Integration",
-      "excerpt": "Trustless. The word gets thrown around a lot in the blockchain space. It is one of the principles that decentralized finance is based upon. DeFi, as it was initially envisioned, is supposed to provide users with the ability to interact directly with each other thanks to decentralized technology that eliminates the need for third-party control.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/in-the-face-of-rising-security-issues-and-hacks-gbc-ai-makes-the-case-for-machine-learning-and-ai-integration/",
-      "originalUrl": "https://techbullion.com/in-the-face-of-rising-security-issues-and-hacks-gbc-ai-makes-the-case-for-machine-learning-and-ai-integration/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2021/08/Machine-Learning-and-AI-Integration.png",
-          "width": 512,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/in-the-face-of-rising-security-issues-and-hacks-gbc-ai-makes-the-case-for-machine-learning-and-ai-integration/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/in-the-face-of-rising-security-issues-and-hacks-gbc-ai-makes-the-case-for-machine-learning-and-ai-integration/amp/",
-      "publishedDateTime": "2021-08-25T05:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-tesla-starts-hiring-roboticists-for-its-tesla-bot-humanoid-robot-project.md",
-      "title": "Tesla starts hiring roboticists for its ‘Tesla Bot’ humanoid robot project",
-      "excerpt": "Tesla has started to hire roboticists to build its recently announced ‘Tesla Bot’, a humanoid robot to become a new vehicle for its AI technology. When Elon Musk explained the rationale behind Tesla Bot,",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/08/25/tesla-starts-hiring-roboticists-tesla-bot-humanoid-robot-project/",
-      "originalUrl": "https://electrek.co/2021/08/25/tesla-starts-hiring-roboticists-tesla-bot-humanoid-robot-project/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 234,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Screen-Shot-2021-08-19-at-10.17.39-PM.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/08/25/tesla-starts-hiring-roboticists-tesla-bot-humanoid-robot-project/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/25/tesla-starts-hiring-roboticists-tesla-bot-humanoid-robot-project/amp/",
-      "publishedDateTime": "2021-08-25T03:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI",
         "AI in Autos"
       ]

@@ -26,22 +26,6 @@ images:
     height: 1632
     isCached: true
 
-related:
-  - title: "Goodyear Partners with Self-Driving Truck Technology Firm"
-    excerpt: "Goodyear Tire & Rubber Co. has formed what it calls a strategic collaboration with Plus, a global provider of self-driving truck technology."
-    publishedDateTime: 2021-08-23T19:23:00Z
-    webUrl: "https://www.moderntiredealer.com/articles/32349-goodyear-partners-with-self-driving-truck-technology-firm"
-    type: article
-    provider:
-      name: Modern Tire Dealer
-      domain: moderntiredealer.com
-    quality: 24
-    images:
-      - url: "https://www.moderntiredealer.com/ext/resources/2021/08/05/MTD_1CV_0821.jpg?1628173365"
-        width: 300
-        height: 410
-        isCached: true
-
 secured: "cAQKHweg7Un4IYCjchiLoejc4Dq4RJk8UD8lOmoRTmIozZ0/rZZStbBLQYfeZsEyd9C1rPJcysmi8B5G5AXzf93l/bjq3ppD3fpFRUnRD5MTO9sB1cW5AJ+jbob899eBYq7THDFE2C5T2GJTmEYjnY/S/2Zzh+toIJDf3zBu1O0z6CtV7nkA2gO30yiOa9T5KiHjFKU5nz0XuEMOI3FSc7TqMxOBbGQWliat/q/+OI4sUzJ6bc1sb7dvHklwJOh/WeMBBcrnYVl9Lz0xjo+IsZBAG3aby/Ng9d9/3JeLJ+nkFmq7mxGaz7Zab90RujvU0LX6ySWtP4p6me8HiGw0+U7ZGK0vXirMv763gXmLKJs=;Hyrdpekf3WkFm56u3nHBFA=="
 ---
 

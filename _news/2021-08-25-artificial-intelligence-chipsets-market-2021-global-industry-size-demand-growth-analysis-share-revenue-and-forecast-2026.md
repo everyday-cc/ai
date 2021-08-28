@@ -31,52 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Retail Market Growth, Share, Size, Trends, Top Companies and Forecast By 2027"
-    excerpt: "Artificial Intelligence (AI) in Retail Market forecast by regions, type and application, with sales and revenue, from 2021 to 2027. Artificial Intelligence (AI) in Retail Market Share, COVID-19 impact ,"
-    publishedDateTime: 2021-08-23T19:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-growth-share-size-trends-top-companies-and-forecast-by-2027-2021-08-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Modern Warfare Market Evolving Technology and Growth Outlook 2021-2026"
-    excerpt: "MarketInsightsReports recently published a research report called Artificial Intelligence AI in Modern Warfare Market Primary and secondary research methods were used to construct this report The Analysis was derived using history and predictions The report includes an in depth study"
-    publishedDateTime: 2021-08-24T13:01:00Z
-    webUrl: "https://www.openpr.com/news/2365480/artificial-intelligence-ai-in-modern-warfare-market-evolving"
-    ampWebUrl: "https://www.openpr.com/amp/2365480/artificial-intelligence-ai-in-modern-warfare-market-evolving"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2365480/artificial-intelligence-ai-in-modern-warfare-market-evolving"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 58
-    images:
-      - url: "https://cdn.openpr.com/U/8/U824571901_g.jpg"
-        width: 800
-        height: 449
-        isCached: true
-  - title: "Valued to be $9.3 Billion by 2026, Artificial Intelligence (AI) in Accounting Slated for Robust Growth Worldwide"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its"
-    publishedDateTime: 2021-08-25T15:55:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/08/n22659416/valued-to-be-9-3-billion-by-2026-artificial-intelligence-ai-in-accounting-slated-for-robust-growth"
-    ampWebUrl: "https://www.benzinga.com/amp/content/22659416"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22659416"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 53
-    images:
-      - url: "https://mma.prnewswire.com/media/1600638/GIA_Artificial_Intelligence_Accounting.jpg"
-        width: 400
-        height: 367
-        isCached: true
   - title: "Cognitive Computing Market Size & Share by Sales Revenue, Demands, Growth Factors and Emerging Trends by 2028"
     excerpt: "The global “Cognitive Computing Market” is expected to rise with an impressive CAGR and generate the highest revenue"
     publishedDateTime: 2021-08-25T10:09:00Z
@@ -91,84 +45,33 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) as a Service Market Size, Opportunities, Key Growth Factors, Revenue Analysis, For 2020–2027"
-    excerpt: "Global Artificial Intelligence AI as a Service Market is forecasted to grow at a rate of 45 6 from USD 1 73 Billion in 2019 to USD 34 1 Billion in 2027 according to a new report by"
-    publishedDateTime: 2021-08-27T16:24:00Z
-    webUrl: "https://www.openpr.com/news/2371713/artificial-intelligence-ai-as-a-service-market-size"
-    ampWebUrl: "https://www.openpr.com/amp/2371713/artificial-intelligence-ai-as-a-service-market-size"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2371713/artificial-intelligence-ai-as-a-service-market-size"
+  - title: "Automotive Radar Market Expectation Surges with Rising Demand and Changing Trends"
+    excerpt: "The Automotive Radar market is expected to grow from USD X.X million in 2021 to USD X.X million by 2027, at a CAGR of X.X% during the forecast period. The Automotive Radar Market report offers global outlook into Development Trends,"
+    publishedDateTime: 2021-08-24T12:10:00Z
+    webUrl: "https://manometcurrent.com/automotive-radar-market-expectation-surges-with-rising-demand-and-changing-trends/"
+    ampWebUrl: "https://manometcurrent.com/automotive-radar-market-expectation-surges-with-rising-demand-and-changing-trends/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/automotive-radar-market-expectation-surges-with-rising-demand-and-changing-trends/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 39
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/Automotive-Radar-Market.jpeg"
+        width: 500
+        height: 282
+        isCached: true
+  - title: "Cognitive Computing Market to Grow at 49.9% CAGR between 2017 and 2025"
+    excerpt: "As a result of various technological advancements in IT sector the global cognitive market is experiencing a major growth recently finds a Transparency Market Research report A number of small players and startups are making breakthrough innovations to establish themselves"
+    publishedDateTime: 2021-08-25T12:49:00Z
+    webUrl: "https://www.openpr.com/news/2367428/cognitive-computing-market-to-grow-at-49-9-cagr-between-2017"
+    ampWebUrl: "https://www.openpr.com/amp/2367428/cognitive-computing-market-to-grow-at-49-9-cagr-between-2017"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2367428/cognitive-computing-market-to-grow-at-49-9-cagr-between-2017"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 47
-    images:
-      - url: "https://cdn.openpr.com/U/8/U827435198_g.jpg"
-        width: 750
-        height: 350
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Construction Market Size, Strategies, Competitive Landscape, Trends & Factor Analysis, 2020–2026"
-    excerpt: "Artificial intelligence can help reduce construction costs in many ways. For example, the use of virtual reality goggles and mini-robots into buildings under construction to track the work as it progresses. AI is also being used today to design the routing ..."
-    publishedDateTime: 2021-08-26T17:44:00Z
-    webUrl: "https://www.openpr.com/news/2370118/artificial-intelligence-ai-in-construction-market-size"
-    ampWebUrl: "https://www.openpr.com/amp/2370118/artificial-intelligence-ai-in-construction-market-size"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2370118/artificial-intelligence-ai-in-construction-market-size"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 45
-    images:
-      - url: "https://cdn.openpr.com/U/8/U826358438_g.jpg"
-        width: 750
-        height: 350
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Food and Beverage Market Size 2021 Demand, Global Trend, News, Business Growth, Top Key Players"
-    excerpt: "The new report titled Global Artificial Intelligence AI in Food and Beverage Market published by Emergen Research is a vivid presentation of the global Artificial Intelligence AI in Food and Beverage market with utmost focus on the forecast market size"
-    publishedDateTime: 2021-08-25T12:51:00Z
-    webUrl: "https://www.openpr.com/news/2367537/artificial-intelligence-ai-in-food-and-beverage-market-size"
-    ampWebUrl: "https://www.openpr.com/amp/2367537/artificial-intelligence-ai-in-food-and-beverage-market-size"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2367537/artificial-intelligence-ai-in-food-and-beverage-market-size"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 44
-    images:
-      - url: "https://cdn.openpr.com/U/8/U825208148_g.jpg"
-        width: 700
-        height: 393
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Social Media Market Revenue, Driving Factors, Key Players, Strategies, Trends, Forecast Till 2027"
-    excerpt: "The Global Artificial intelligence AI In Social Media Market size is estimated to reach USD 4 26 Billion from USD 797 Million in 2019 exhibiting a CAGR of 24 7 through 2027 The rapid evolution of social media platforms with"
-    publishedDateTime: 2021-08-27T16:45:00Z
-    webUrl: "https://www.openpr.com/news/2371710/artificial-intelligence-ai-in-social-media-market-revenue"
-    ampWebUrl: "https://www.openpr.com/amp/2371710/artificial-intelligence-ai-in-social-media-market-revenue"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2371710/artificial-intelligence-ai-in-social-media-market-revenue"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 43
-    images:
-      - url: "https://cdn.openpr.com/U/8/U827883715_g.jpg"
-        width: 750
-        height: 350
-        isCached: true
-  - title: "Valued to be $4.4 Billion by 2026, Artificial Intelligence (AI) in Call Center Slated for Robust Growth Worldwide"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Call Center - Global Market Trajectory & Analytics\"."
-    publishedDateTime: 2021-08-26T12:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-valued-be-44-billion-2026-artificial-intelligence-ai-/2021/08/26/9437856.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 33
-    images:
-      - url: "https://mma.prnewswire.com/media/1601532/MCP21174.jpg"
-        width: 400
-        height: 252
-        isCached: true
+    quality: 24
   - title: "Deep Learning in Healthcare Market Size, Share 2020 Industry Growing Rapidly with Recent Demand, Trends, Development , Revenue by 2027"
     excerpt: "The Global Deep Learning in Healthcare Market research delves into detailed and insightful data on important variables such as regional growth segmentation and CAGR The research contains a broad overview of the industry as well as a detailed explanation with"
     publishedDateTime: 2021-08-26T07:31:00Z
@@ -180,37 +83,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 24
-  - title: "Aerospace Artificial Intelligence Market size, share, growth report explores industry trends & analysis 2026"
-    excerpt: "This research report by Report Ocean identifies consumer needs and aims to satisfy them more efficiently effectively and accurately than the competition This report about the Aerospace Artificial Intelligence Market is exceptional because it is easy to understand contains excellent"
-    publishedDateTime: 2021-08-25T06:23:00Z
-    webUrl: "https://www.openpr.com/news/2366382/aerospace-artificial-intelligence-market-size-share-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2366382/aerospace-artificial-intelligence-market-size-share-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2366382/aerospace-artificial-intelligence-market-size-share-growth"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 18
-  - title: "Deep Learning in Manufacturing Market 2021 Growth Analysis, Opportunities, Trends, Developments and Forecast to 2027 - NVIDIA (US), Intel (US)"
-    excerpt: "The Global Deep Learning in Manufacturing market report from Market Intelligence Data aims to facilitate in depth information of the marketplace s definition potential and scope The document is prepared after enormous studies and analysis through experts It consists of"
-    publishedDateTime: 2021-08-25T06:45:00Z
-    webUrl: "https://www.openpr.com/news/2366422/deep-learning-in-manufacturing-market-2021-growth-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2366422/deep-learning-in-manufacturing-market-2021-growth-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2366422/deep-learning-in-manufacturing-market-2021-growth-analysis"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 3
-  - title: "Global Automotive Voice Recognition Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
-    excerpt: "6.2 North America Automotive Voice Recognition Revenue by Application (2016-2026) 6.3 North America Automotive Voice Recognition Market Size by Country 6.3.1 North America Automotive Voice Recognition Revenue by Country (2016-2026) 6.3.2 United States ..."
-    publishedDateTime: 2021-08-28T02:30:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4818187-global-automotive-voice-recognition-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 0
 
 secured: "HBCzXPR7F0PhxatZjQ7wHCl09a9z5Y8kWKk35J7lOeMZeNLfmQfQmLWgl+Dektf4IxT3IANj7abtnWNzBnxgNhvH9MGde2YQiGpY0yWzRmCwpop/STG9StvLofmg+OWgZZcUoj20YxhHx4+bv1yp17DtKWVpylFDt/y1A22ykdJ7OZ/e6tDW+hytfks1GMnJSnKGYZPx0V67QoiLaDYFpokX0YCfLFy7Ub7dASVtFSxtf425sQIPH6l1ixkI3urFRo6FjGe+QVdu8qrivY3G70qtB6/x/SyWabxgw8HuEyM7pqNQ4Y/II8VvbVM2iSoFjWLOzKD0uWsuo3Zd1KF16bV4DP43BH4n5v2WR/ylG7M=;6PKorTze9I0R25VnrLBW2A=="
 ---

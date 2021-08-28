@@ -9,7 +9,7 @@ ampWebUrl: "https://mumbrella.com.au/wpp-acquires-ai-technology-company-satalia-
 cdnAmpWebUrl: "https://mumbrella-com-au.cdn.ampproject.org/c/s/mumbrella.com.au/wpp-acquires-ai-technology-company-satalia-699700/amp"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -69,15 +69,6 @@ related:
         width: 1201
         height: 681
         isCached: true
-  - title: "WPP Buys B2B-based AI Tech Firm Satalia"
-    excerpt: "WPP today announced that it has acquired Satalia, which has expertise in applying AI across the logistics and supply chain. Terms of the deal have not been disclosed. Founded in 2008 by CEO and AI specialist Daniel Hulme (pictured),"
-    publishedDateTime: 2021-08-23T19:08:00Z
-    webUrl: "https://www.mrweb.com/drno/news31973.htm"
-    type: article
-    provider:
-      name: MrWeb
-      domain: mrweb.com
-    quality: 19
 
 secured: "EkWb2WxLa1k1s3EkVPo0SRCjHqUp19p34nEaDnLRUvRJ2fm1jsWx4FdnzFsKmdAbEJjJau0oTJ2INSSx8qSZE+yNXqqye16oLSwtPTpe0cbUELPoXPP/2cTCCm3aP7X3oekB1TNQw4IsZVQ9+SimM9w88GJzQM2w2J04vbmW/3i7dLVZ0vKZY1+LEKd638Un2QNCAxAUqPT3weG18pCc+C+IHFvW5uTUI/wXi4JSohCm3Nkmi+SU4YiWGxRep9VL43jXDEogF7vkEA1Oaf+LgUddDLfw0Odq/9Syywq1s4dWzjzYvjMN+8qy6ODMr4o/AnJw+T20/737PjRGrZSlsZzpiOQajpEG/bLnOFLH6OMtmvnGAn1G4bAQJYnVwHbZ8/OH8oRbtTuYsMqBqlKihKAfaHMU5YcE/ESb8p2Q/rtQNcL6tlfoaT1JN615IIv73lFoOjOLEAcQK1maybmfDyRpwh+7ueHUeH5lopv4fhmELxpRCT6Cv1xrnBz9+WX3gntsgPxoYZujWrbw9d+nRQ==;rSV3b1FyjwadbpXvt2jhDQ=="
 ---

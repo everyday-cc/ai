@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/08/24/and--thats-a-wrap
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/08/24/and--thats-a-wrap-hot-chips-concludes-an-amazing-lineup-of-ai-chip-announcements/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png"
         width: 1200
         height: 600
-        isCached: true
-  - title: "The AI Arms Race: Why are American Companies Helping China?"
-    excerpt: "The CCP’s Data Security Law comes into effect on the first day of September, and with it, more control of critical research and information."
-    publishedDateTime: 2021-08-23T20:12:00Z
-    webUrl: "https://www.theamericanconservative.com/articles/the-ai-arms-race-why-are-american-companies-helping-china/"
-    type: article
-    provider:
-      name: The American Conservative
-      domain: theamericanconservative.com
-    quality: 39
-    images:
-      - url: "https://www.theamericanconservative.com/wp-content/uploads/2021/08/shutterstock_1706639491.jpg"
-        width: 1108
-        height: 700
         isCached: true
 
 secured: "qskv1h+2HGUN5GVsa+V50c3aJ+rMJhWQRlj7blwyQUyxKT0oc6xf56bCe73JI8p0ViU7T6bWxJYWYGTkP5LbM5OOo5tdnNBO2Z36NvJptF27fSH+DQKehsk6b273SrseNRkUWg9oprRaRL2mOniM6n2j8jSb4GAdoRRU9QEwkpZWT1zfQbx49NbjNn11yJbW7t/bbw7dy8KzYPE4PrsB16YFF8hdzuWNgv4crSKzmFWBo5fANg6sjQd+dsJfogt2zh4R8di+h4mcP7VaCA9VU5K8du0c6JuqAZfk8w085Pm531O/7dhO/yIBpoEsCuWtJ0WSnMMZWtMmDrjFLFNNWynFPgXV88aNom9Y1qrsR5IF5IaTaQm2QMuxjKZdzxPUVQeXik5vNFuIc4z4SuckCbQm2W54J16sygdIGY+EX7uYqFYPoAGIklqgCvEQaPih70Q7gcE1NHlkelbmX36u7VkgCgjpaFsf0YirsVPPxAr+6L/wF+MQSs7eEtB1IighefpWESfUNhOXNJjbZj8YNA==;4x5T6ZYG8NaFMZzdd+l5fA=="

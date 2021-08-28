@@ -7,7 +7,7 @@ originalUrl: "https://www.channelnewsasia.com/business/synopsys-design-software-
 webUrl: "https://www.channelnewsasia.com/business/synopsys-design-software-uses-ai-make-chips-more-power-efficient-2130786"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Synopsys Laps Competition With Second Generation AI"
-    excerpt: "EDA Leader Synopsys achieves 28% Lower Power with AI while Samsung has first working chip designed by an Artificial Intelligence Last year, Electronic Design Automation leader Synopsys announced it had developed an AI called DSO."
-    publishedDateTime: 2021-08-23T19:30:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2021/08/23/synopsys-laps-the-competition-with-second-generation-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/08/23/synopsys-laps-the-competition-with-second-generation-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/08/23/synopsys-laps-the-competition-with-second-generation-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6122d60f85ec110a2494169e%2F0x0.jpg"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Synopsys outlines vision of AI driven chip design"
     excerpt: "Traditional design approaches limit interaction to successive steps in a largely linear workflow. Synopsys said a more holistic approach using AI driven chip design can offer design time and performance improvements."
     publishedDateTime: 2021-08-25T10:00:00Z

@@ -25,21 +25,67 @@ images:
     isCached: true
 
 related:
-  - title: "Clearview AI Offered Free Facial Recognition Trials To Police All Around The World"
-    excerpt: "As of February 2020, 88 law enforcement and government-affiliated agencies in 24 countries outside the United States have tried to use controversial facial recognition technology Clearview AI, according to a BuzzFeed News investigation."
-    publishedDateTime: 2021-08-25T15:25:00Z
-    webUrl: "https://www.buzzfeednews.com/article/ryanmac/clearview-ai-international-search-table"
-    ampWebUrl: "https://www.buzzfeednews.com/amphtml/ryanmac/clearview-ai-international-search-table"
-    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/ryanmac/clearview-ai-international-search-table"
+  - title: "US federal agencies plan to increase facial recognition use, GAO report says"
+    excerpt: "Three-quarters of U.S. federal agencies surveyed for a Government Accountability Office (GAO) report are already using facial recognition."
+    publishedDateTime: 2021-08-26T21:42:00Z
+    webUrl: "https://www.gao.gov/products/gao-21-526"
     type: article
     provider:
-      name: BuzzFeed News
-      domain: buzzfeednews.com
-    quality: 98
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 136
     images:
-      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2021-07/30/15/enhanced/81bd535b1926/anigif_longform-original-4168-1627660303-22.gif?crop=799:548;0,0"
-        width: 799
-        height: 548
+      - url: "https://www.gao.gov/assets/styles/hero_l/public/extracts/c1917b8fbd51f63d6fde064a0ffb86f1/d21526-FF-Image.png?itok=U7z95JiA"
+        width: 1400
+        height: 500
+        isCached: true
+  - title: "The Free-Speech Case for Facial Recognition | Opinion"
+    excerpt: "The right to communicate anonymously is important, but most would agree it shouldn't extend to people who commit violent crimes."
+    publishedDateTime: 2021-08-27T10:00:00Z
+    webUrl: "https://www.newsweek.com/free-speech-case-facial-recognition-opinion-1623006"
+    ampWebUrl: "https://www.newsweek.com/free-speech-case-facial-recognition-opinion-1623006?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/free-speech-case-facial-recognition-opinion-1623006?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 91
+    images:
+      - url: "https://d.newsweek.com/en/full/1880796/charlottesville-rally-anniversary.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Ten federal agencies are expanding their use of facial recognition"
+    excerpt: "The Government Accountability Office has revealed in a new report that 10 federal agencies are planning to expand their use of facial recognition. In a survey involving 24 federal agencies on their use of facial recognition technology,"
+    publishedDateTime: 2021-08-26T18:24:00Z
+    webUrl: "https://www.engadget.com/ten-federal-agencies-expanding-facial-recognition-070044629.html"
+    ampWebUrl: "https://www.engadget.com/amp/ten-federal-agencies-expanding-facial-recognition-070044629.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ten-federal-agencies-expanding-facial-recognition-070044629.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 89
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-08/d6385430-0632-11ec-9d54-a4ebe312b944"
+        width: 5988
+        height: 3992
+        isCached: true
+  - title: "Facial recognition to care for prem babies"
+    excerpt: "University of South Australia researchers have successfully developed a world-first camera system to monitor the vital signs of premature babies."
+    publishedDateTime: 2021-08-25T05:32:00Z
+    webUrl: "https://thewest.com.au/news/health/facial-recognition-to-care-for-prem-babies-c-3777249"
+    ampWebUrl: "https://thewest.com.au/news/health/facial-recognition-to-care-for-prem-babies-c-3777249.amp"
+    cdnAmpWebUrl: "https://thewest-com-au.cdn.ampproject.org/c/s/thewest.com.au/news/health/facial-recognition-to-care-for-prem-babies-c-3777249.amp"
+    type: article
+    provider:
+      name: The West Australian
+      domain: thewest.com.au
+    quality: 59
+    images:
+      - url: "https://images.thewest.com.au/publication/C-3777249/ad21f7545de75e229ac117fd2463ea06a59c1a2a-16x9-x0y0w1280h720.jpg?imwidth=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Federal agencies plan to expand use of facial recognition technology"
     excerpt: "At least 10 federal agencies will use facial recognition devices in the next few years, the Government Accountability Office said."
@@ -73,20 +119,6 @@ related:
         width: 1000
         height: 581
         isCached: true
-  - title: "Clearview AI wins a military facial recognition contract"
-    excerpt: "Documents revealing that a criminal investigation unit of the U.S. Army is using Clearview AI's facial recognition subscription service have been published."
-    publishedDateTime: 2021-08-25T19:10:00Z
-    webUrl: "https://www.biometricupdate.com/202108/clearview-ai-wins-a-military-facial-recognition-contract"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 54
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
-        width: 1800
-        height: 734
-        isCached: true
   - title: "US government agencies plan to increase their use of facial recognition technology"
     excerpt: "A new survey shows the controversial systems are poised to play an even bigger role in federal business. A 90-page report published Tuesday by the US Government Accountability Office (GAO) details how federal agencies currently use, and plan to expand ..."
     publishedDateTime: 2021-08-25T00:37:00Z
@@ -103,6 +135,52 @@ related:
         width: 2247
         height: 1498
         isCached: true
+  - title: "Scientists are using facial recognition to rapidly identify disease resistance in grapes"
+    excerpt: "Emerging AI technology is helping researchers determine how different cultivars respond to diseases, ultimately helping to breed pathogen-resistant varieties."
+    publishedDateTime: 2021-08-26T14:36:00Z
+    webUrl: "https://thecounter.org/scientists-facial-recognition-disease-resistance-grapes-ai/"
+    ampWebUrl: "https://thecounter.org/scientists-facial-recognition-disease-resistance-grapes-ai/amp/"
+    cdnAmpWebUrl: "https://thecounter-org.cdn.ampproject.org/c/s/thecounter.org/scientists-facial-recognition-disease-resistance-grapes-ai/amp/"
+    type: article
+    provider:
+      name: thecounter
+      domain: thecounter.org
+    quality: 50
+    images:
+      - url: "https://thecounter.org/wp-content/uploads/2021/08/robots-grapes-fungal-disease-august-2021-copy.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "10 federal agencies want to expand their use of facial recognition despite widespread concerns"
+    excerpt: "The federal government wants to expand the use of facial recognition technology in the future, despite widespread criticism of it."
+    publishedDateTime: 2021-08-27T20:08:00Z
+    webUrl: "https://www.dailydot.com/debug/facial-recognition-federal-government-expand-gao-report/"
+    ampWebUrl: "https://www.dailydot.com/debug/facial-recognition-federal-government-expand-gao-report/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facial-recognition-federal-government-expand-gao-report/?amp"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 47
+    images:
+      - url: "https://uploads.dailydot.com/2021/08/Federal-Government-Plans-To-Grow-Its-Use-Of-Facial-Recognition-Technology.jpg?auto=compress%2Cformat&ixlib=php-3.3.0"
+        width: 2000
+        height: 1000
+        isCached: true
+  - title: "The government is going to use facial recognition more. That’s bad."
+    excerpt: "A report from the GAO traces the use of facial-recognition tech among US government agencies. Here's what it found."
+    publishedDateTime: 2021-08-28T11:00:00Z
+    webUrl: "https://www.popsci.com/technology/gao-report-facial-recognition-federal-government/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 41
+    images:
+      - url: "https://www.popsci.com/uploads/2021/08/27/michael-daniels-yHh07IGJAJM-unsplash.jpeg"
+        width: 2000
+        height: 1500
+        isCached: true
   - title: "GAO Reports on Federal Use of Facial Recognition Tech Systems"
     excerpt: "The Government Accountability Office (GAO) surveyed 24 Chief Financial Officers Act agencies on their use of facial recognition technology (FRT) in fiscal year 2020 and found that 18 of those agencies reported using FRT for one or several purposes."
     publishedDateTime: 2021-08-26T10:43:00Z
@@ -117,19 +195,33 @@ related:
         width: 272
         height: 270
         isCached: true
-  - title: "UK: Live facial recognition technology should not be used in public spaces"
-    excerpt: "Live Facial Recognition Technology should not be used in public spaces We, the undersigned civil society organisations, are calling on Parliament and relevant stakeholders to halt and ban the use of live facial recognition technology (LRFT) by the police and private companies entirely,"
-    publishedDateTime: 2021-08-25T16:32:00Z
-    webUrl: "https://www.statewatch.org/news/2021/august/uk-live-facial-recognition-technology-should-not-be-used-in-public-spaces/"
+  - title: "Facial Recognition Tech Use Increasing Among Federal Agencies"
+    excerpt: "Use cases included criminal investigations, building security and access to digital assets like smartphones and security agency websites."
+    publishedDateTime: 2021-08-26T19:00:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2021/08/facial-recognition-tech-use-increasing-among-federal-agencies/184884/"
     type: article
     provider:
-      name: Statewatch
-      domain: statewatch.org
-    quality: 37
+      name: Nextgov
+      domain: nextgov.com
+    quality: 39
     images:
-      - url: "https://www.statewatch.org/media/2681/uk-frt.jpg"
-        width: 1200
-        height: 800
+      - url: "https://cdn.nextgov.com/media/img/cd/2021/08/26/authentication_by_facial_recognition_biometric_security_system_picture_id1216416251/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "US Agencies Increasing Use of Facial Recognition Tech"
+    excerpt: "At least 10 U.S. government agencies are planning to increase the use of facial recognition technologies by 2023, according to a GAO report. The growing utilization"
+    publishedDateTime: 2021-08-27T17:46:00Z
+    webUrl: "https://www.govinfosecurity.com/us-agencies-increasing-use-facial-recognition-tech-a-17393"
+    type: article
+    provider:
+      name: HHS
+      domain: govinfosecurity.com
+    quality: 39
+    images:
+      - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/us-agencies-increasing-use-facial-recognition-tech-showcase_image-2-a-17393.jpg"
+        width: 860
+        height: 520
         isCached: true
   - title: "Federal government to expand use of facial recognition despite growing concerns"
     excerpt: "The GAO said several federal agencies, including the Justice Department, the Air Force and Immigration and Customs Enforcement, reported that they had used facial recognition software from Clearview AI,"
@@ -142,19 +234,19 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
-  - title: "Software log shows Dutch police used controversial facial recognition software"
-    excerpt: "A leaked software log from the debated facial recognition software Clearview AI showed that Dutch police officers used the program to identify suspects, RD reported. In April 2020, Minister of Justice Ferd Grapperhaus denied that Dutch authorities used the software."
-    publishedDateTime: 2021-08-26T14:55:00Z
-    webUrl: "https://nltimes.nl/2021/08/26/software-log-shows-dutch-police-used-controversial-facial-recognition-software"
+  - title: "Planned Expansion of Facial Recognition by US Agencies Called 'Disturbing'"
+    excerpt: "Digital rights advocates reacted harshly Thursday to a new internal U.S. government report detailing how ten federal agencies have plans to greatly expand their reliance on facial recognition in the years ahead."
+    publishedDateTime: 2021-08-26T16:53:00Z
+    webUrl: "https://www.commondreams.org/news/2021/08/26/planned-expansion-facial-recognition-us-agencies-called-disturbing"
     type: article
     provider:
-      name: NL Times
-      domain: nltimes.nl
-    quality: 35
+      name: Common Dreams
+      domain: commondreams.org
+    quality: 37
     images:
-      - url: "https://nltimes.nl/sites/nltimes.nl/files/styles/news_article_full/public/2021-03/Depositphotos_160897874_l-2015.jpg?h=56d0ca2e"
-        width: 837
-        height: 462
+      - url: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2021-08/face-recognition-Getty1080200068-1300x681.jpg?h=319522b7&itok=fxTdPR8d"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Federal Agencies Mostly Use Facial Recognition Tech for Digital Access"
     excerpt: "The most popular uses for facial recognition technology (FRT) by federal agencies are cybersecurity and digital access, according to a new report by the United States Government Accountability Office. The GAO surveyed 24 agencies about their FRT activities ..."

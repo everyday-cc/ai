@@ -7,7 +7,7 @@ originalUrl: "https://www.lelezard.com/en/news-19969994.html"
 webUrl: "https://www.lelezard.com/en/news-19969994.html"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,113 @@ images:
     isCached: true
 
 related:
-  - title: "New Study from StrategyR Highlights a $4.2 Billion Global Market for Artificial Intelligence (AI) in Social Media by 2026"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Social Media - Global Market Trajectory & Analytics\"."
-    publishedDateTime: 2021-08-26T17:32:00Z
-    webUrl: "https://www.lelezard.com/en/news-19970367.html"
+  - title: "Artificial Intelligence (AI) in Modern Warfare Market Evolving Technology and Growth Outlook 2021-2026"
+    excerpt: "MarketInsightsReports recently published a research report called Artificial Intelligence AI in Modern Warfare Market Primary and secondary research methods were used to construct this report The Analysis was derived using history and predictions The report includes an in depth study"
+    publishedDateTime: 2021-08-24T13:01:00Z
+    webUrl: "https://www.openpr.com/news/2365480/artificial-intelligence-ai-in-modern-warfare-market-evolving"
+    ampWebUrl: "https://www.openpr.com/amp/2365480/artificial-intelligence-ai-in-modern-warfare-market-evolving"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2365480/artificial-intelligence-ai-in-modern-warfare-market-evolving"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 58
+    images:
+      - url: "https://cdn.openpr.com/U/8/U824571901_g.jpg"
+        width: 800
+        height: 449
+        isCached: true
+  - title: "Valued to be $9.3 Billion by 2026, Artificial Intelligence (AI) in Accounting Slated for Robust Growth Worldwide"
+    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its"
+    publishedDateTime: 2021-08-25T15:55:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/08/n22659416/valued-to-be-9-3-billion-by-2026-artificial-intelligence-ai-in-accounting-slated-for-robust-growth"
+    ampWebUrl: "https://www.benzinga.com/amp/content/22659416"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22659416"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 53
+    images:
+      - url: "https://mma.prnewswire.com/media/1600638/GIA_Artificial_Intelligence_Accounting.jpg"
+        width: 400
+        height: 367
+        isCached: true
+  - title: "Artificial Intelligence (AI) as a Service Market Size, Opportunities, Key Growth Factors, Revenue Analysis, For 2020–2027"
+    excerpt: "Global Artificial Intelligence AI as a Service Market is forecasted to grow at a rate of 45 6 from USD 1 73 Billion in 2019 to USD 34 1 Billion in 2027 according to a new report by"
+    publishedDateTime: 2021-08-27T16:24:00Z
+    webUrl: "https://www.openpr.com/news/2371713/artificial-intelligence-ai-as-a-service-market-size"
+    ampWebUrl: "https://www.openpr.com/amp/2371713/artificial-intelligence-ai-as-a-service-market-size"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2371713/artificial-intelligence-ai-as-a-service-market-size"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 47
+    images:
+      - url: "https://cdn.openpr.com/U/8/U827435198_g.jpg"
+        width: 750
+        height: 350
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Construction Market Size, Strategies, Competitive Landscape, Trends & Factor Analysis, 2020–2026"
+    excerpt: "Artificial intelligence can help reduce construction costs in many ways. For example, the use of virtual reality goggles and mini-robots into buildings under construction to track the work as it progresses. AI is also being used today to design the routing ..."
+    publishedDateTime: 2021-08-26T17:44:00Z
+    webUrl: "https://www.openpr.com/news/2370118/artificial-intelligence-ai-in-construction-market-size"
+    ampWebUrl: "https://www.openpr.com/amp/2370118/artificial-intelligence-ai-in-construction-market-size"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2370118/artificial-intelligence-ai-in-construction-market-size"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 45
+    images:
+      - url: "https://cdn.openpr.com/U/8/U826358438_g.jpg"
+        width: 750
+        height: 350
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Food and Beverage Market Size 2021 Demand, Global Trend, News, Business Growth, Top Key Players"
+    excerpt: "The new report titled Global Artificial Intelligence AI in Food and Beverage Market published by Emergen Research is a vivid presentation of the global Artificial Intelligence AI in Food and Beverage market with utmost focus on the forecast market size"
+    publishedDateTime: 2021-08-25T12:51:00Z
+    webUrl: "https://www.openpr.com/news/2367537/artificial-intelligence-ai-in-food-and-beverage-market-size"
+    ampWebUrl: "https://www.openpr.com/amp/2367537/artificial-intelligence-ai-in-food-and-beverage-market-size"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2367537/artificial-intelligence-ai-in-food-and-beverage-market-size"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 44
+    images:
+      - url: "https://cdn.openpr.com/U/8/U825208148_g.jpg"
+        width: 700
+        height: 393
+        isCached: true
+  - title: "With Market Size Valued at $40 Billion by 2026, it`s a Healthy Outlook for the Global Artificial Intelligence (AI) in Healthcare Market"
+    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Healthcare - Global Market Trajectory & Analytics\"."
+    publishedDateTime: 2021-08-26T13:44:00Z
+    webUrl: "https://www.lelezard.com/en/news-19969639.html"
     type: article
     provider:
       name: Le Lézard
       domain: lelezard.com
-    quality: 29
+    quality: 39
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
         width: 640
         height: 480
+        isCached: true
+  - title: "Valued to be $4.4 Billion by 2026, Artificial Intelligence (AI) in Call Center Slated for Robust Growth Worldwide"
+    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Call Center - Global Market Trajectory & Analytics\"."
+    publishedDateTime: 2021-08-26T12:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-valued-be-44-billion-2026-artificial-intelligence-ai-/2021/08/26/9437856.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 33
+    images:
+      - url: "https://mma.prnewswire.com/media/1601532/MCP21174.jpg"
+        width: 400
+        height: 252
         isCached: true
   - title: "With Market Size Valued at $3.6 Billion by 2026, it`s a Healthy Outlook for the Global Artificial Intelligence (AI) in Agriculture Market"
     excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Agriculture - Global Market Trajectory & Analytics\"."
@@ -53,6 +147,17 @@ related:
         width: 400
         height: 253
         isCached: true
+  - title: "Aerospace Artificial Intelligence Market size, share, growth report explores industry trends & analysis 2026"
+    excerpt: "This research report by Report Ocean identifies consumer needs and aims to satisfy them more efficiently effectively and accurately than the competition This report about the Aerospace Artificial Intelligence Market is exceptional because it is easy to understand contains excellent"
+    publishedDateTime: 2021-08-25T06:23:00Z
+    webUrl: "https://www.openpr.com/news/2366382/aerospace-artificial-intelligence-market-size-share-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2366382/aerospace-artificial-intelligence-market-size-share-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2366382/aerospace-artificial-intelligence-market-size-share-growth"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 18
   - title: "With Market Size Valued at $2.6 Billion by 2026, it`s a Healthy Outlook for the Global Artificial Intelligence (AI) in Drug Discovery Market"
     excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence"
     publishedDateTime: 2021-08-26T12:10:00Z
@@ -67,20 +172,17 @@ related:
         width: 1013
         height: 630
         isCached: true
-  - title: "With Market Size Valued at $151.6 Billion by 2026, it`s a Healthy Outlook for the Global Cognitive Computing Market"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Cognitive Computing - Global Market Trajectory & Analytics\"."
-    publishedDateTime: 2021-08-24T15:45:00Z
-    webUrl: "https://www.lelezard.com/en/news-19966123.html"
+  - title: "Deep Learning in Manufacturing Market 2021 Growth Analysis, Opportunities, Trends, Developments and Forecast to 2027 - NVIDIA (US), Intel (US)"
+    excerpt: "The Global Deep Learning in Manufacturing market report from Market Intelligence Data aims to facilitate in depth information of the marketplace s definition potential and scope The document is prepared after enormous studies and analysis through experts It consists of"
+    publishedDateTime: 2021-08-25T06:45:00Z
+    webUrl: "https://www.openpr.com/news/2366422/deep-learning-in-manufacturing-market-2021-growth-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2366422/deep-learning-in-manufacturing-market-2021-growth-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2366422/deep-learning-in-manufacturing-market-2021-growth-analysis"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 2
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
+      name: openpr.com
+      domain: openpr.com
+    quality: 3
 
 secured: "oaRo3bBQQHJf86366dcictWJdI3ElAOB+zH9jxR08omW5SeJCHqjvTj/m3PpNR9+akigNAHBio5I7OtJIuQbrjdk3+eS7+DN4t01JTaYgbBY8IpT74Z1XyAj1I4uJFj9ywdLFkmpANJQeI8XF0s486S8kr2W/ngLHIL51JZJVVAOemOXuiUBBjnVuarX8y9u1Zx7ceMu7XWt8rwxAecWopz5G1M/c6qfPMXnF3NiRAGmKr9cpHE9USSJ/TffU9bicxuSYtOsw29E4WZVgZS0s9GSo+urN+HOWGrVUvAW1eD9XC2kP0EPgAf4i2ImPoJQJVECXudAyEWgetJXzVX7KMiTSg+DJ3uz6xqquVV/m+c=;SSnUr+OJJY6AeK7dB2Wl5A=="
 ---

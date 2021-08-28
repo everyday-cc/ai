@@ -6,9 +6,9 @@ publishedDateTime: 2021-08-26T16:52:00Z
 originalUrl: "https://www.fiercebiotech.com/medtech/overjet-pockets-27m-to-bring-x-ray-reading-ai-to-more-dental-clinics"
 webUrl: "https://www.fiercebiotech.com/medtech/overjet-pockets-27m-to-bring-x-ray-reading-ai-to-more-dental-clinics"
 type: article
-quality: 37
-heat: 37
-published: false
+quality: 137
+heat: 147
+published: true
 
 provider:
   name: FierceBiotech
@@ -34,6 +34,6 @@ related:
       domain: bizjournals.com
     quality: 17
 
-secured: "/a3Kwe5TnwMNVmjlmIMW8kAt7/TpRqqC2ieGOiVrtLQKggHDfto5OjR1Mis2smKbqeE6fXOfLfbUKjlFhrhtqkH9tPNAiKg+ZqLZOF0baMt3bTNCe1mtVzvZ9s2mLYXmq0vbCFFuA2jNpLuIJvP6xm7WCn/Ly7AjfKAC7OochtSQjjjSRLt0oHhL100G7HfE1rGVeIewyGb9K+K3ezNXpMadq+Z0BSFYU/V3zXHA2hPTR2LWG23whSBH4Ug81lCadm6VuYffaEAYqimUXDy9wWhPUkFf9YrdTp49a8wSwsXLJrs81H1rnaVDRQR/Uesn/wmthhD7dmDEaZudEZ7qLoq6JyuNDhF5Dnzq8y08N3ssDIi1Hf32tj85o08EkLjNdT0EhawCiZmqGz8k2cC0aRL2tjjcqxu80o+bMDGi7zUnKF+LfNbE5FwrgJp4Ovza9lPjL/TeHjZaKRLTq6PlYNd8GZr0O7fTPiXxWLZwz7wbd4w6bhyUelipv3rumqCZOZOKAU3TVKv2p9HaZlCLUw==;BMzboNGXsr0ybPxlmuZBQg=="
+secured: "vFSX0PRM6zaRyIdqhMKiKFdGCnsaWIr+JhHsEXX8nv9JYXeN+3UJhJiRXLlf7vBMgwc8PenP6w9NzNYgIkZg5bmj2NfiPyP1e/D135GuEUqJJmmVE/foVyb1T2zWwIUejccb7n9DA94dfcSkHSrt0xz2/Civd6DsWjcoEMa+HmOTX8YmbhrlLGjQ0WhiZhn1Kb9WKqQJcrI55r0NfSUn9MK6mLdxzQIMhV2s2wfiW7r6czJVGobeydV1Cbs6oIcJyWLhaH+4frwFzpfZesHhT9pJrzQgwHGK5EpGf/QJHsuWP1Y4Y+AeInLzupD1xQq0CEPWxbJwdXbznKVKoCZqEKZItpz3olu2Tfjrd8ZY6cS9fsUcKxfzcv5oA3w1IrLZNEksNen5r3esKIhQmX8alqdpdYbvggDSJ2Hi3JfawhVRUjRQZy+sOkNftNEJCnFJ+1EDZgiRNJeqfL8a2grUfwGkSyn8Q0UKAXaRfqy78c4UD+zu2hGdYgYTMKJ/ODFHjWj8p6AyDKYnEKk9PkwwTuj4MuPaJxNJzkckac/8KSk=;gh06v3JYvqsvMcS4OefSQg=="
 ---
 

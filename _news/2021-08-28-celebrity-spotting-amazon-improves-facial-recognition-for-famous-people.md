@@ -6,7 +6,7 @@ publishedDateTime: 2021-08-28T10:39:00Z
 originalUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/"
 webUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/"
 type: article
-quality: 70
+quality: 72
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ topics:
   - Microsoft AI
   - AI
   - Computer Vision
+  - AWS AI
 
 images:
   - url: "https://www.zdnet.com/a/hub/i/r/2021/08/27/0b1ee20f-42d7-45d1-96b2-dbb621c20c86/thumbnail/770x578/556ef2129ec59a24cf677f1dfdd98714/amazon-rekognition-bezos.jpg"
@@ -60,22 +61,6 @@ related:
         width: 1054
         height: 600
         isCached: true
-  - title: "Ten federal agencies are expanding their use of facial recognition"
-    excerpt: "The Government Accountability Office has revealed in a new report that 10 federal agencies are planning to expand their use of facial recognition. In a survey involving 24 federal agencies on their use of facial recognition technology,"
-    publishedDateTime: 2021-08-26T18:24:00Z
-    webUrl: "https://www.engadget.com/ten-federal-agencies-expanding-facial-recognition-070044629.html"
-    ampWebUrl: "https://www.engadget.com/amp/ten-federal-agencies-expanding-facial-recognition-070044629.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ten-federal-agencies-expanding-facial-recognition-070044629.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-08/d6385430-0632-11ec-9d54-a4ebe312b944"
-        width: 5988
-        height: 3992
-        isCached: true
   - title: "Enable scalable, highly accurate, and cost-effective video analytics with Axis Communications and Amazon Rekognition"
     excerpt: "With the number of cameras and sensors deployed growing exponentially, companies across industries are consuming more video than ever before. Additionally, advancements in analytics have expanded potential use cases, and these devices are now used to improve business operations and intelligence. In turn,"
     publishedDateTime: 2021-08-27T16:46:48Z
@@ -91,62 +76,15 @@ related:
         height: 531
         isCached: true
   - title: "Athreon Launches Front-End Speech Recognition Solution"
-    excerpt: "Athreon, a leading business and knowledge process outsourcing company, announced today the launch of its new front-end speech recognition solution for healthcare. Athreon’s speech recognition empowers physicians to focus on patient care versus administrative,"
-    publishedDateTime: 2021-08-26T14:13:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-937261d53fe91f0a1613f00fc9d48934"
+    excerpt: "Athreon, a leading business and knowledge process outsourcing company, announced today the launch of its new front-end speech recognition solution for healthcare. Athreon's speech recognition empowers physicians to focus on patient care versus administrative,"
+    publishedDateTime: 2021-08-26T16:39:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-athreon-launches-front-end-speech-recognition-solution-/2021/08/26/9438228.htm"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Facial Recognition Tech Use Increasing Among Federal Agencies"
-    excerpt: "Use cases included criminal investigations, building security and access to digital assets like smartphones and security agency websites."
-    publishedDateTime: 2021-08-26T19:00:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2021/08/facial-recognition-tech-use-increasing-among-federal-agencies/184884/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 39
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2021/08/26/authentication_by_facial_recognition_biometric_security_system_picture_id1216416251/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "US Agencies Increasing Use of Facial Recognition Tech"
-    excerpt: "At least 10 U.S. government agencies are planning to increase the use of facial recognition technologies by 2023, according to a GAO report. The growing utilization"
-    publishedDateTime: 2021-08-27T17:46:00Z
-    webUrl: "https://www.govinfosecurity.com/us-agencies-increasing-use-facial-recognition-tech-a-17393"
-    type: article
-    provider:
-      name: HHS
-      domain: govinfosecurity.com
-    quality: 39
-    images:
-      - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/us-agencies-increasing-use-facial-recognition-tech-showcase_image-2-a-17393.jpg"
-        width: 860
-        height: 520
-        isCached: true
-  - title: "Campaigners call for more recognition to mark International Day for the Remembrance of the Slave Trade and its Abolition"
-    excerpt: "Leading Black history campaigners are calling for more recognition for International Slavery Remembrance Day, which is being celebrated today in the UK and internationally. The United Nations Educational,"
-    publishedDateTime: 2021-08-23T19:26:00Z
-    webUrl: "https://www.voice-online.co.uk/news/2021/08/23/campaigners-call-for-more-recognition-to-mark-international-day-for-the-remembrance-of-the-slave-trade-and-its-abolition/"
-    type: article
-    provider:
-      name: Voice Newspaper
-      domain: voice-online.co.uk
-    quality: 14
-    images:
-      - url: "https://www.voice-online.co.uk/wp-content/uploads/2021/08/IMG_20210823_183541_718-e1629741145399.jpg"
-        width: 500
-        height: 499
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
-secured: "ja0EFPLEuNripuKSiu9+jnO9CS1F4ZeX2Pp3noHY+0nMqnNunZm1QeHhm0KjhE0C4JxnO0H8mSyDS5fgud4Tn3yw0YRAPnUh6oeF/66mH14Gz2E/AQlfTCR/7kLIufxqRNzs05Rr9Xbzr+h85/b4VsSy3YtrsMXu0Crj6PEP2lRvlpc31y3jyNO3XB6IwB+tZVeJCIqkQdrLG9BuXnOqz1wVqRq09hMbN63g81Rra+f1zI1zYZVeq/qqB47TzbmPBuiOIZmUCgGMe8LzbZascJ9S1XLLe5tN0g7pgUkEUjjmiQDENK2JLZs9x3vXGulvwClC0p5IG/R10iUNH+I4UptLB6iAGkKvOMmZHguVLKo=;fAUeK1bSZTpjruI+wSsyeQ=="
+secured: "FXH0Cq6s+hO4Cx+3kzPgIQAnNMGjLRZ8CcsGjupzEJ3VqBcyyzf9mpsFBi8duZrJWCZxg5xxBlKyJhgrHn2X7jhCzqaKyTAGr8O9U9jUKX7UEmaw6PHiYWM7O1A63uPTM3fKyGjb/rEEyWMWOic4P3tlCbfzQFC7SSunjKdjapmnqbyyRXlijwwIPu4x8/MgfcMyhkcfiSJGgrBpOblrOcESbrL4W18TdGkJJAuvqD4nUAL7sKK4tRnmBbtmfQzMu+0XaBs97Ibddba4TKU3+nCm2YHwFj2TNNEoQfO8I+BDI2QIbfiX/GKDb3DqXospPOnxr9jYEp88Q0VP5wudGyQ9toX8ZS5s7r16azkumwFIPhguXVn6Xe+TI1GmxkoZByiHyynjvAYVf1yGwHpaULEhxZo7FXUNLuyH8ZrLXJA5LC0ClSncOxxoyShe7/zZYfJkj5hrodkKhds/fRdb4MpXqMnHwMh40d5UcmTibHImMSdR74K75Dks4mY22pOnhqVuePCX+8/xxWvuLIFR9w==;4eahgdfHRa4oedywalch9Q=="
 ---
 

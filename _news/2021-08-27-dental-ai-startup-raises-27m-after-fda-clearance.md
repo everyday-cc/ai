@@ -26,7 +26,7 @@ related:
     provider:
       name: FierceBiotech
       domain: fiercebiotech.com
-    quality: 37
+    quality: 137
     images:
       - url: "https://qtxasset.com/fiercebiotech/1629993234/overjet.jpg?qMKWWZZ89M8Co2OjWlIUBBO68Qw5SNS8"
         width: 619

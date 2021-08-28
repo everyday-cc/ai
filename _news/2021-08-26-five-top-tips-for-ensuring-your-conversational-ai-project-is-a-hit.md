@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Level AI lands $13M Series A to build conversational intelligence for customer service"
-    excerpt: "Level AI, an early stage startup from a former member of the Alexa product team, wants to help companies process customer service calls faster by understanding the interactions they’re having with customers in real time."
-    publishedDateTime: 2021-08-25T13:44:00Z
-    webUrl: "https://techcrunch.com/2021/08/25/level-ai-lands-13m-series-a-to-build-conversational-intelligence-for-customer-service/"
-    ampWebUrl: "https://techcrunch.com/2021/08/25/level-ai-lands-13m-series-a-to-build-conversational-intelligence-for-customer-service/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/25/level-ai-lands-13m-series-a-to-build-conversational-intelligence-for-customer-service/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 79
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1240334968.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Ambit Launches Conversational AI Platform in AWS Marketplace"
     excerpt: "Today, Ambit, an Auckland-based conversational artificial intelligence (AI) company, announced the availability of Ambit Edge in Amazon Web Services (AWS) Marketplace. Ambit Edge, an easy to use, intent-based, enterprise-grade digital employee that ..."
     publishedDateTime: 2021-08-26T02:19:00Z

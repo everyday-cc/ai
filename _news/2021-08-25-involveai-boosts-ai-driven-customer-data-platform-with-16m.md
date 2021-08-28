@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/08/25/involve-ai-boosts-ai-driven-custo
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/25/involve-ai-boosts-ai-driven-customer-data-platform-with-16m/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 127
+published: true
 
 provider:
   name: VentureBeat
@@ -30,51 +30,33 @@ images:
     isCached: true
 
 related:
-  - title: "This Startup Is Transforming Customer Experience With AI"
-    excerpt: "The San Francisco-based company boasts that it helps businesses transcribe every interaction with high accuracy and coach agents while gaining full visibility into their customer service operations"
-    publishedDateTime: 2021-08-26T05:25:00Z
-    webUrl: "https://www.entrepreneur.com/article/381743"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/381743"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/381743"
+  - title: "7 Ways You Can Use AI to Drive Customer Loyalty"
+    excerpt: "At the most fundamental level, AI solutions free up employees to focus on tasks that need a human touch. And we’re talking roomfuls. From there, it’s a hop, skip, and a jump (performed best by people for now!"
+    publishedDateTime: 2021-08-24T05:26:00Z
+    webUrl: "https://customerthink.com/7-ways-you-can-use-ai-to-drive-customer-loyalty/"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 89
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 37
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1629955538-Untitleddesign7.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
+      - url: "https://customerthink.com/wp-content/uploads/ThinkstockPhotos-166139079-ctmedia.jpg"
+        width: 1788
+        height: 1677
         isCached: true
-  - title: "Zendesk acquires AI automation startup Cleverly to advance customer service"
-    excerpt: "Zendesk is looking to grow its customer service capabilities, and today it announced the acquisition of early-stage artificial intelligence startup Cleverly. Financial terms of the deal are not being publicly disclosed at this time and Cleverly has not been entirely public about the size of its"
-    publishedDateTime: 2021-08-26T20:43:00Z
-    webUrl: "https://techcrunch.com/2021/08/26/zendesk-acquires-ai-automation-startup-cleverly-to-advance-customer-service/"
-    ampWebUrl: "https://techcrunch.com/2021/08/26/zendesk-acquires-ai-automation-startup-cleverly-to-advance-customer-service/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/26/zendesk-acquires-ai-automation-startup-cleverly-to-advance-customer-service/amp/"
+  - title: "How Dream Sports Uses Artificial Intelligence"
+    excerpt: "Our fan engagement product FanCode uses AI and ML backend framework to provide a personalised user experience to sports fans."
+    publishedDateTime: 2021-08-25T11:30:00Z
+    webUrl: "https://analyticsindiamag.com/how-dream-sports-uses-artificial-intelligence/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 85
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1173385998.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "How Does Indian Railways Leverage Artificial Intelligence to Boost Customer Experience?"
-    excerpt: "This article explores how Indian Railways leverage Artificial Intelligence to boost customer experience across India. AI models and data analytics tools are helping to incorporate Artificial Intelligence in Indian Railways."
-    publishedDateTime: 2021-08-25T07:24:00Z
-    webUrl: "https://www.analyticsinsight.net/how-does-indian-railways-leverage-artificial-intelligence-to-boost-customer-experience/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 44
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Indian-Railways-Leverage-Artificial-Intelligence-to-Boost-Customer-Experience.jpg"
-        width: 900
-        height: 500
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/How-Dream-Sports-Uses-Artificial-Intelligence-.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "4 Ways to Sway Customers Toward AI for a Better Customer Experience"
     excerpt: "Consumers are ambivalent about artificial intelligence. According to data collected by O’Reilly, majorities of consumers embrace AI in applications"
@@ -87,6 +69,20 @@ related:
       name: Business 2 Community
       domain: business2community.com
     quality: 37
+  - title: "Involve.ai raises $16M to boost companies’ customer retention rates with AI"
+    excerpt: "Involve.ai Inc., a startup using artificial intelligence to help enterprises improve their customer retention rates, today announced that it has closed a $16 million funding round led by Sapphire Ventures."
+    publishedDateTime: 2021-08-25T19:08:00Z
+    webUrl: "https://siliconangle.com/2021/08/25/involve-ai-raises-16m-boost-companies-customer-retention-rates-ai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 35
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/unsplash-4.png"
+        width: 800
+        height: 459
+        isCached: true
 
 secured: "o7gQg5uU5kM21ixBYx8zK7wYKDyQpNj29cWfvWUng6Wih8FJ2eXFH1uVyaSuaCsqSavVpwXEcRlnp+0hLSR/0J3N1dFjGd3nWE9FO6TOeaK8t5ztNkGbT/15FLNRbQu19yz3yZLUyPkpZCDtnnccQFQ/QbSekmkj/z4JV5HRz0dYpR4D8T6iG2n7dY1y8fD1s/H2r3IUx0TL9f1k4eCBqVLQD5NbQotQ7rl4cYsV2mR83tNkR8EeJXjXgZpw6r4vgGknWAnKFO8T5kjRVCft/5KrU58Zmu+KpmaR/p1LvT7n6ZGrkMJMJIYjLHbNZ99rYEJ1Ntus0dIOqofl49shJv0TJ/N4czfP7QZSgTKemL+KxCUmydxhq/tKVcxA2ZurovFijeaCsLH9aTskWPQKDbTehGDpuvn5TY1eOxeEEAnDIWKpRHEwPJzT2aq2hQH3mBRgBRbY6trxR1WKpJ2NISAJiB4ceGBvXxtWI5b1tEaOeUvcyVZRcdnw7PLZjO/EBan4eIr5xV4/QISorEev+Q==;eDNRnzQtwT1mbEjsS9R3hQ=="
 ---

@@ -24,65 +24,94 @@ images:
     isCached: true
 
 related:
-  - title: "This Startup Is Transforming Customer Experience With AI"
-    excerpt: "The San Francisco-based company boasts that it helps businesses transcribe every interaction with high accuracy and coach agents while gaining full visibility into their customer service operations"
-    publishedDateTime: 2021-08-26T05:25:00Z
-    webUrl: "https://www.entrepreneur.com/article/381743"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/381743"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/381743"
+  - title: "Indian Railways installs a facial recognition system to track commuters"
+    excerpt: "Indian Railways has installed a network of nearly 500 facial recognition cameras to track millions of daily commuters, a report in the Financial Times suggested."
+    publishedDateTime: 2021-08-28T11:15:00Z
+    webUrl: "https://www.thehansindia.com/technology/tech-news/indian-railways-installs-a-facial-recognition-system-to-track-commuters-703762"
+    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/indian-railways-installs-a-facial-recognition-system-to-track-commuters-703762"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/indian-railways-installs-a-facial-recognition-system-to-track-commuters-703762"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 89
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 74
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1629955538-Untitleddesign7.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
+      - url: "https://assets.thehansindia.com/h-upload/2021/08/28/1104608-indian-railways.jpg"
+        width: 1000
+        height: 600
         isCached: true
-  - title: "Involve.ai boosts AI-driven customer data platform with $16M"
-    excerpt: "Involve.ai, a startup using AI to bolster customer success, announced that it raised $16 million in venture capital."
-    publishedDateTime: 2021-08-25T15:25:00Z
-    webUrl: "https://venturebeat.com/2021/08/25/involve-ai-boosts-ai-driven-customer-data-platform-with-16m/"
-    ampWebUrl: "https://venturebeat.com/2021/08/25/involve-ai-boosts-ai-driven-customer-data-platform-with-16m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/25/involve-ai-boosts-ai-driven-customer-data-platform-with-16m/amp/"
+  - title: "India deploys facial recognition surveilling millions of commuters"
+    excerpt: "Indian Railways, one of the world’s busiest urban rail systems, has deployed a network of almost 500 facial recognition cameras to track millions of daily commuters, as the Indian government increases its surveillance efforts."
+    publishedDateTime: 2021-08-26T17:04:00Z
+    webUrl: "https://www.ft.com/content/b5e3fdc9-2fed-45f1-beff-2944da89f6c1?shareType=nongift"
+    ampWebUrl: "https://amp.ft.com/content/b5e3fdc9-2fed-45f1-beff-2944da89f6c1"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/b5e3fdc9-2fed-45f1-beff-2944da89f6c1"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: The Financial Times
+      domain: ft.com
+    quality: 59
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/02/big_data.jpg?fit=800%2C450&strip=all"
-        width: 800
-        height: 450
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe3c15c96-a674-4114-8ec0-0fe5f1cab4f8.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
         isCached: true
-  - title: "Zendesk acquires AI automation startup Cleverly to advance customer service"
-    excerpt: "Zendesk is looking to grow its customer service capabilities, and today it announced the acquisition of early-stage artificial intelligence startup Cleverly. Financial terms of the deal are not being publicly disclosed at this time and Cleverly has not been entirely public about the size of its"
-    publishedDateTime: 2021-08-26T20:43:00Z
-    webUrl: "https://techcrunch.com/2021/08/26/zendesk-acquires-ai-automation-startup-cleverly-to-advance-customer-service/"
-    ampWebUrl: "https://techcrunch.com/2021/08/26/zendesk-acquires-ai-automation-startup-cleverly-to-advance-customer-service/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/26/zendesk-acquires-ai-automation-startup-cleverly-to-advance-customer-service/amp/"
+  - title: "Why Are Indian Institutes Racing To Launch B Tech in AI Courses"
+    excerpt: "Gone are the days when students fancied a computer science seat in a top tier college. Now there is a demand for specialisation. Thanks to the hype around artificial intelligence (AI), many Indian institutions are now racing to offer their own B."
+    publishedDateTime: 2021-08-26T06:30:00Z
+    webUrl: "https://analyticsindiamag.com/why-are-indian-institutes-racing-to-launch-b-tech-in-ai-courses/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 85
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1173385998.jpg?w=1024"
-        width: 1024
-        height: 683
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/B-Tech-in-Artificial-Intelligence-AI.jpg"
+        width: 2240
+        height: 1260
         isCached: true
-  - title: "4 Ways to Sway Customers Toward AI for a Better Customer Experience"
-    excerpt: "Consumers are ambivalent about artificial intelligence. According to data collected by O’Reilly, majorities of consumers embrace AI in applications"
-    publishedDateTime: 2021-08-27T16:30:00Z
-    webUrl: "https://www.business2community.com/customer-experience/4-ways-to-sway-customers-toward-ai-for-a-better-customer-experience-02427800"
-    ampWebUrl: "https://www.business2community.com/customer-experience/4-ways-to-sway-customers-toward-ai-for-a-better-customer-experience-02427800/amp"
-    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/customer-experience/4-ways-to-sway-customers-toward-ai-for-a-better-customer-experience-02427800/amp"
+  - title: "Augnito looks to tap growing India market for speech recognition in health"
+    excerpt: "The use of voice recognition systems based on artificial intelligence (AI) in health care is emerging in India, which offers a potentially enormous market, according to Scribetech Healthcare (India) Pvt."
+    publishedDateTime: 2021-08-27T00:00:00Z
+    webUrl: "https://www.bioworld.com/articles/510874-augnito-looks-to-tap-growing-india-market-for-speech-recognition-in-health"
     type: article
     provider:
-      name: Business 2 Community
-      domain: business2community.com
+      name: BioWorld
+      domain: bioworld.com
     quality: 37
+    images:
+      - url: "https://www.bioworld.com/ext/resources/Stock-images/Misc/voice-soundwave-analysis.png?height=635&t=1605222774&width=1200"
+        width: 847
+        height: 635
+        isCached: true
+  - title: "Western Railways Commissions Russian Face Recognition Technology; Can Identify 50 People In A Single Frame"
+    excerpt: "The Western Railway, one of the busiest railway networks in India, has commissioned 470 cameras featuring real-time face recognition technology developed by Russian company NtechLab. According to the company,"
+    publishedDateTime: 2021-08-26T07:53:00Z
+    webUrl: "https://swarajyamag.com/insta/western-railways-commissions-russian-face-recognition-technology-can-identify-50-people-in-a-single-frame"
+    type: article
+    provider:
+      name: Swarajya
+      domain: swarajyamag.com
+    quality: 36
+    images:
+      - url: "https://gumlet.assettype.com/swarajya%2F2021-08%2Fe7ebe932-7439-4513-a7b2-135a2510571e%2Fd7f2c1fcc278280702f4f0f5a320ce5d.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Fast adoption of facial recognition technology in India likely to trigger privacy issues"
+    excerpt: "Businesses, big corporates and even government departments have adopted facial recognition technology (FRT) in India for authentication and security reasons. The COVID-19 pandemic has also led to facial recognition systems,"
+    publishedDateTime: 2021-08-28T05:16:00Z
+    webUrl: "https://mybigplunge.com/tech-plunge/technology/fast-adoption-of-facial-recognition-technology-in-india-likely-to-trigger-privacy-issues/"
+    type: article
+    provider:
+      name: mybigplunge.com
+      domain: mybigplunge.com
+    quality: 30
+    images:
+      - url: "https://mybigplunge.com/wp-content/uploads/2021/08/proxyclick-visitor-management-system-5XPUpAdcdw-unsplash-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "3KvP+XhLqXMMk20eNk0JncjOKpIGhI1wRc6TM2/jfqqNGKiGUd9suXwdHFFo1/jwcyLOuQS6dQINWbrph9Qj5724oLo3sMPshNqlpw1cSJhVzRWRvvGNlITPThGvBvQHT9Kn2I09PKrfBjyTgKhqC2VjgeSNlZRF8hl2a0GXBqwfQ65RuijZhgojYRBAql0Wn4BQVhXX8oP8nn182iJi13fjFY9utU6hP4mUlaVlsYZgtI3s6z7J+LLtfXxhaDQJFREqsjryZ5+SPE3cLoHD0fS9okXwYobaTbPg/afpmF3uqK905FWn4Cx5FtMrPAQjFH4kWV/ycjZeTsTtNOtmY42aajaXI70+RjE/2d0BKx2ourOtSyc3vV0LXXPbdoMxoJRmCO5vXAJlWkqCHMPzFcTRiUr8GIG9bMat3ixhW6v/ntq+LddSxzwrtxWv2HeBNyOlFwfDC1/239ZUVOoVjymOcpFQFsWdTjOsha4+hy0xYzIqs6Wfmnrz4EUGZWTpNtmduPZx9ut7H1QlvaJ2og==;lFrFGiz1cr+1bBc7k9FFSg=="
 ---

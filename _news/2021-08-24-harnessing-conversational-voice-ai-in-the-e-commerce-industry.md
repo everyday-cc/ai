@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/24/harnessing
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/24/harnessing-conversational-voice-ai-in-the-e-commerce-industry/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Level AI lands $13M Series A to build conversational intelligence for customer service"
-    excerpt: "Level AI, an early stage startup from a former member of the Alexa product team, wants to help companies process customer service calls faster by understanding the interactions they’re having with customers in real time."
-    publishedDateTime: 2021-08-25T13:44:00Z
-    webUrl: "https://techcrunch.com/2021/08/25/level-ai-lands-13m-series-a-to-build-conversational-intelligence-for-customer-service/"
-    ampWebUrl: "https://techcrunch.com/2021/08/25/level-ai-lands-13m-series-a-to-build-conversational-intelligence-for-customer-service/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/25/level-ai-lands-13m-series-a-to-build-conversational-intelligence-for-customer-service/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 79
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1240334968.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Five top tips for ensuring your conversational AI project is a hit"
     excerpt: "Let’s look first at where conversational AI can make a difference. There are three main forms of communication in every organization where conversational AI can dramatically cha"
     publishedDateTime: 2021-08-26T10:00:00Z

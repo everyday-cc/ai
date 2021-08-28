@@ -53,6 +53,20 @@ related:
         width: 1000
         height: 357
         isCached: true
+  - title: "SageMaker Endpoint Load Testing"
+    excerpt: "8089/ This document encompasses all the instructions to calibrate a SageMaker model endpoint using Locust. Also, it includes pointers to help pick the optimal strategy for auto scaling. Number of users: 1000 Hatch rate: 10 For every second, 10 users will ..."
+    publishedDateTime: 2021-08-26T04:40:00Z
+    webUrl: "https://github.com/arunprsh/SageMaker-Load-Testing"
+    type: article
+    provider:
+      name: GitHub
+      domain: github.com
+    quality: 39
+    images:
+      - url: "https://opengraph.githubassets.com/d92fe6263e36972e3d27d541f7fa58e7f4b90d2793a8fccb081af5cf791e4beb/arunprsh/SageMaker-Load-Testing"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "3sDjabXYPaMprb4MHS74GFBkHxrdDYMqAq40ui69bTCR+1q77esd9dcHBhXprl+n4WXJgw/3DedYcAQH/LvhVRGv46GvVCOwjvTMmFXlMOrDNO0dnvdq2kYGhDY+VKxQBEbB8HEyTsY6pa1gmndV7p4X5gdVsUsP6NrVs/DHCZAOgNSeBWL+C73lBUiJKo5eqm/h1cFRepYE2xkECv/onAc/8SXPAjUfjWWWu6wEiVtRWagetsW2TkUf84Dr+hmZSGnwbXx4eSfyX1r21EcJ/Pb7ZRdqPgOcUM68x7ISdjyQ7K74Gdlf1Tx3Jn6b2nbCdInpN4iyXNTcqXfBvnYThJ4vxyRLYSLAa9kjqrAgUgo=;mDfReRzc1Brb24hcZZuyQQ=="
 ---

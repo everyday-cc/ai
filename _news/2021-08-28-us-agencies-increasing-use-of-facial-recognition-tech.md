@@ -25,35 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Recognize celebrities in images and videos using Amazon Rekognition"
-    excerpt: "The celebrity recognition feature in Amazon Rekognition automatically recognizes tens of thousands of well-known personalities in images and videos using machine learning (ML). Celebrity recognition significantly reduces the repetitive manual effort required to tag produced media content and make it"
-    publishedDateTime: 2021-08-26T22:13:32Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/easily-recognize-celebrities-in-images-and-videos-using-amazon-rekognition/"
+  - title: "US federal agencies plan to increase facial recognition use, GAO report says"
+    excerpt: "Three-quarters of U.S. federal agencies surveyed for a Government Accountability Office (GAO) report are already using facial recognition."
+    publishedDateTime: 2021-08-26T21:42:00Z
+    webUrl: "https://www.gao.gov/products/gao-21-526"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 106
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 136
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/26/ML-5386-IMG1.jpg"
-        width: 1645
-        height: 785
+      - url: "https://www.gao.gov/assets/styles/hero_l/public/extracts/c1917b8fbd51f63d6fde064a0ffb86f1/d21526-FF-Image.png?itok=U7z95JiA"
+        width: 1400
+        height: 500
         isCached: true
-  - title: "Celebrity spotting: Amazon improves facial recognition for famous people"
-    excerpt: "Amazon promises its Rekognition machine-learning tech will save hours of humans tagging photos and videos of celebrities."
-    publishedDateTime: 2021-08-27T03:51:00Z
-    webUrl: "https://www.zdnet.com/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/"
+  - title: "The Free-Speech Case for Facial Recognition | Opinion"
+    excerpt: "The right to communicate anonymously is important, but most would agree it shouldn't extend to people who commit violent crimes."
+    publishedDateTime: 2021-08-27T10:00:00Z
+    webUrl: "https://www.newsweek.com/free-speech-case-facial-recognition-opinion-1623006"
+    ampWebUrl: "https://www.newsweek.com/free-speech-case-facial-recognition-opinion-1623006?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/free-speech-case-facial-recognition-opinion-1623006?amp=1"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 90
+      name: Newsweek
+      domain: newsweek.com
+    quality: 91
     images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/08/27/0edfb3a5-a400-465b-86f8-f06782fe711e/amazon-rekognition-wener-vogels.jpg"
-        width: 1054
-        height: 600
+      - url: "https://d.newsweek.com/en/full/1880796/charlottesville-rally-anniversary.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Ten federal agencies are expanding their use of facial recognition"
     excerpt: "The Government Accountability Office has revealed in a new report that 10 federal agencies are planning to expand their use of facial recognition. In a survey involving 24 federal agencies on their use of facial recognition technology,"
@@ -71,47 +71,143 @@ related:
         width: 5988
         height: 3992
         isCached: true
-  - title: "Enable scalable, highly accurate, and cost-effective video analytics with Axis Communications and Amazon Rekognition"
-    excerpt: "With the number of cameras and sensors deployed growing exponentially, companies across industries are consuming more video than ever before. Additionally, advancements in analytics have expanded potential use cases, and these devices are now used to improve business operations and intelligence. In turn,"
-    publishedDateTime: 2021-08-27T16:46:48Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/enable-scalable-highly-accurate-and-cost-effective-video-analytics-with-axis-communications-and-amazon-rekognition/"
+  - title: "Facial recognition to care for prem babies"
+    excerpt: "University of South Australia researchers have successfully developed a world-first camera system to monitor the vital signs of premature babies."
+    publishedDateTime: 2021-08-25T05:32:00Z
+    webUrl: "https://thewest.com.au/news/health/facial-recognition-to-care-for-prem-babies-c-3777249"
+    ampWebUrl: "https://thewest.com.au/news/health/facial-recognition-to-care-for-prem-babies-c-3777249.amp"
+    cdnAmpWebUrl: "https://thewest-com-au.cdn.ampproject.org/c/s/thewest.com.au/news/health/facial-recognition-to-care-for-prem-babies-c-3777249.amp"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 83
+      name: The West Australian
+      domain: thewest.com.au
+    quality: 59
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/27/Axis-Diagram.png"
-        width: 1222
-        height: 531
+      - url: "https://images.thewest.com.au/publication/C-3777249/ad21f7545de75e229ac117fd2463ea06a59c1a2a-16x9-x0y0w1280h720.jpg?imwidth=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Celebrity spotting: Amazon improves facial recognition for famous people"
-    excerpt: "The service caters to media companies, and AWS says that Rekognition now \"automatically recognizes tens of thousands of well-known personalities in images and videos using machine learning (ML ... include Microsoft's Azure Face and Google's Cloud ..."
-    publishedDateTime: 2021-08-28T10:39:00Z
-    webUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/"
+  - title: "Federal agencies plan to expand use of facial recognition technology"
+    excerpt: "At least 10 federal agencies will use facial recognition devices in the next few years, the Government Accountability Office said."
+    publishedDateTime: 2021-08-26T17:26:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/08/26/facial-recognition-technology-federal-government/9701629997438/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/08/26/facial-recognition-technology-federal-government/9701629997438/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/08/26/facial-recognition-technology-federal-government/9701629997438/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 70
+      name: UPI.com
+      domain: upi.com
+    quality: 59
     images:
-      - url: "https://www.zdnet.com/a/hub/i/r/2021/08/27/0b1ee20f-42d7-45d1-96b2-dbb621c20c86/thumbnail/770x578/556ef2129ec59a24cf677f1dfdd98714/amazon-rekognition-bezos.jpg"
-        width: 770
-        height: 578
+      - url: "https://cdnph.upi.com/sv/ph/og/upi_com/9701629997438/2021/1/e30981875b6529604732f53d58b86540/v1.5/Federal-agencies-plan-to-expand-use-of-facial-recognition-technology.jpg"
+        width: 800
+        height: 532
         isCached: true
-  - title: "Athreon Launches Front-End Speech Recognition Solution"
-    excerpt: "Athreon, a leading business and knowledge process outsourcing company, announced today the launch of its new front-end speech recognition solution for healthcare. Athreon’s speech recognition empowers physicians to focus on patient care versus administrative,"
-    publishedDateTime: 2021-08-26T14:13:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-937261d53fe91f0a1613f00fc9d48934"
+  - title: "US government agencies plan to increase facial recognition"
+    excerpt: "The majority of US federal agencies are using some form of facial recognition technology, according to a study by the Government Accountability Office (GAO)."
+    publishedDateTime: 2021-08-27T10:45:00Z
+    webUrl: "https://www.research-live.com/article/news/us_government_agencies_plan_to_increase_facial_recognition/id/5088462"
+    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5088462&name=us-government-agencies-plan-to-increase-facial-recognition"
+    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5088462&name=us-government-agencies-plan-to-increase-facial-recognition"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: research
+      domain: research-live.com
+    quality: 59
+    images:
+      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
+        width: 1000
+        height: 581
+        isCached: true
+  - title: "US government agencies plan to increase their use of facial recognition technology"
+    excerpt: "A new survey shows the controversial systems are poised to play an even bigger role in federal business. A 90-page report published Tuesday by the US Government Accountability Office (GAO) details how federal agencies currently use, and plan to expand ..."
+    publishedDateTime: 2021-08-25T00:37:00Z
+    webUrl: "https://www.technologyreview.com/2021/08/24/1032967/us-government-agencies-plan-to-increase-their-use-of-facial-recognition-technology/"
+    ampWebUrl: "https://www.technologyreview.com/2021/08/24/1032967/us-government-agencies-plan-to-increase-their-use-of-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/08/24/1032967/us-government-agencies-plan-to-increase-their-use-of-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 53
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/08/AP_20176661952737.jpg?w=2247"
+        width: 2247
+        height: 1498
+        isCached: true
+  - title: "Scientists are using facial recognition to rapidly identify disease resistance in grapes"
+    excerpt: "Emerging AI technology is helping researchers determine how different cultivars respond to diseases, ultimately helping to breed pathogen-resistant varieties."
+    publishedDateTime: 2021-08-26T14:36:00Z
+    webUrl: "https://thecounter.org/scientists-facial-recognition-disease-resistance-grapes-ai/"
+    ampWebUrl: "https://thecounter.org/scientists-facial-recognition-disease-resistance-grapes-ai/amp/"
+    cdnAmpWebUrl: "https://thecounter-org.cdn.ampproject.org/c/s/thecounter.org/scientists-facial-recognition-disease-resistance-grapes-ai/amp/"
+    type: article
+    provider:
+      name: thecounter
+      domain: thecounter.org
+    quality: 50
+    images:
+      - url: "https://thecounter.org/wp-content/uploads/2021/08/robots-grapes-fungal-disease-august-2021-copy.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "10 federal agencies want to expand their use of facial recognition despite widespread concerns"
+    excerpt: "The federal government wants to expand the use of facial recognition technology in the future, despite widespread criticism of it."
+    publishedDateTime: 2021-08-27T20:08:00Z
+    webUrl: "https://www.dailydot.com/debug/facial-recognition-federal-government-expand-gao-report/"
+    ampWebUrl: "https://www.dailydot.com/debug/facial-recognition-federal-government-expand-gao-report/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facial-recognition-federal-government-expand-gao-report/?amp"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 47
+    images:
+      - url: "https://uploads.dailydot.com/2021/08/Federal-Government-Plans-To-Grow-Its-Use-Of-Facial-Recognition-Technology.jpg?auto=compress%2Cformat&ixlib=php-3.3.0"
+        width: 2000
+        height: 1000
+        isCached: true
+  - title: "The government is going to use facial recognition more. That’s bad."
+    excerpt: "A report from the GAO traces the use of facial-recognition tech among US government agencies. Here's what it found."
+    publishedDateTime: 2021-08-28T11:00:00Z
+    webUrl: "https://www.popsci.com/technology/gao-report-facial-recognition-federal-government/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 41
+    images:
+      - url: "https://www.popsci.com/uploads/2021/08/27/michael-daniels-yHh07IGJAJM-unsplash.jpeg"
+        width: 2000
+        height: 1500
+        isCached: true
+  - title: "GAO counts facial recognition R&D at 10 agencies"
+    excerpt: "At least 10 U.S. government agencies are undertaking research and development work into facial recognition technology, according to a new report by the Governmental Accountability Office. The new study,"
+    publishedDateTime: 2021-08-25T18:47:00Z
+    webUrl: "https://www.fedscoop.com/gao-counts-facial-recognition-rd-at-10-agencies/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
     quality: 39
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://s3.amazonaws.com/sng-global-web-assets/logo/Favicon_FS.png"
+        width: 629
+        height: 607
+        isCached: true
+  - title: "GAO Reports on Federal Use of Facial Recognition Tech Systems"
+    excerpt: "The Government Accountability Office (GAO) surveyed 24 Chief Financial Officers Act agencies on their use of facial recognition technology (FRT) in fiscal year 2020 and found that 18 of those agencies reported using FRT for one or several purposes."
+    publishedDateTime: 2021-08-26T10:43:00Z
+    webUrl: "https://www.executivegov.com/2021/08/gao-reports-on-federal-use-of-facial-recognition-tech-systems/"
+    type: article
+    provider:
+      name: Executive Gov
+      domain: executivegov.com
+    quality: 39
+    images:
+      - url: "https://executivegov-media.s3.amazonaws.com/2020/12/04/cf/a3/89/3f/73/fc/a7/74/facial_recognition_20201125.png"
+        width: 272
+        height: 270
         isCached: true
   - title: "Facial Recognition Tech Use Increasing Among Federal Agencies"
     excerpt: "Use cases included criminal investigations, building security and access to digital assets like smartphones and security agency websites."
@@ -127,20 +223,40 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Campaigners call for more recognition to mark International Day for the Remembrance of the Slave Trade and its Abolition"
-    excerpt: "Leading Black history campaigners are calling for more recognition for International Slavery Remembrance Day, which is being celebrated today in the UK and internationally. The United Nations Educational,"
-    publishedDateTime: 2021-08-23T19:26:00Z
-    webUrl: "https://www.voice-online.co.uk/news/2021/08/23/campaigners-call-for-more-recognition-to-mark-international-day-for-the-remembrance-of-the-slave-trade-and-its-abolition/"
+  - title: "Federal government to expand use of facial recognition despite growing concerns"
+    excerpt: "The GAO said several federal agencies, including the Justice Department, the Air Force and Immigration and Customs Enforcement, reported that they had used facial recognition software from Clearview AI,"
+    publishedDateTime: 2021-08-26T06:52:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/federal-government-to-expand-use-of-facial-recognition-despite-growing-concerns/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/federal-government-to-expand-use-of-facial-recognition-despite-growing-concerns/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/federal-government-to-expand-use-of-facial-recognition-despite-growing-concerns/?amp=1"
     type: article
     provider:
-      name: Voice Newspaper
-      domain: voice-online.co.uk
-    quality: 14
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
+  - title: "Planned Expansion of Facial Recognition by US Agencies Called 'Disturbing'"
+    excerpt: "Digital rights advocates reacted harshly Thursday to a new internal U.S. government report detailing how ten federal agencies have plans to greatly expand their reliance on facial recognition in the years ahead."
+    publishedDateTime: 2021-08-26T16:53:00Z
+    webUrl: "https://www.commondreams.org/news/2021/08/26/planned-expansion-facial-recognition-us-agencies-called-disturbing"
+    type: article
+    provider:
+      name: Common Dreams
+      domain: commondreams.org
+    quality: 37
     images:
-      - url: "https://www.voice-online.co.uk/wp-content/uploads/2021/08/IMG_20210823_183541_718-e1629741145399.jpg"
-        width: 500
-        height: 499
+      - url: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2021-08/face-recognition-Getty1080200068-1300x681.jpg?h=319522b7&itok=fxTdPR8d"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Federal Agencies Mostly Use Facial Recognition Tech for Digital Access"
+    excerpt: "The most popular uses for facial recognition technology (FRT) by federal agencies are cybersecurity and digital access, according to a new report by the United States Government Accountability Office. The GAO surveyed 24 agencies about their FRT activities ..."
+    publishedDateTime: 2021-08-26T20:35:00Z
+    webUrl: "https://www.infosecurity-magazine.com/news/how-feds-use-frt/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 19
 
 secured: "SjWsl+nGJXPJHqvfIKgsekVJbln7L/Y4zq4W9PJWewvbe7vCWLU7dd3q+RHV6WMBAUrCptuizOQaFNa4RrSYn7ETf5YqM6MvO2GewM2FJIOqHW1Ep/O0G5yRLCeVDSDl0/oPqRaIKC5/Hph4x3gWku4nZw94VuXd1x/eFCcpyUnSWTuuedP7/QPJN5i8H1TI6L7v3Cfvbu7+ZJDjWDvuH//e46BAqiF/I84uW+szAa9mQ4UaegGMdH9TX5jPAszbrego+Br8eWgX4pCV6D0+l1kYy7KGe3kYXzVbj+T367vmI0lRxwK3IFzo3kHCLdZgt0Ljol/S7DJApM8H1JYpHJCMOGzS5uD8IYsmPGxwIEgV099ihoT1hmeSccJ+krh3DS65BXxKIXjJWcFSiXe38xaqWcCU5ImFJCPaLalkOZR9vdmE3CIR8RAmStpgFg4TyUaNDpOko+I3bNwk+MC+I32iC571qahiae1y8Lk8CRm6XFOh+IJghDv05H5KvVHDPdFWeSbThlJN8cssKt48DQ==;99Vhprt89rcjZAcehorrkQ=="
 ---

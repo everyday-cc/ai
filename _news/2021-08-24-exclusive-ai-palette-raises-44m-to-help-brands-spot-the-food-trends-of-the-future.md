@@ -40,20 +40,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Involve.ai raises $16M to boost companies’ customer retention rates with AI"
-    excerpt: "Involve.ai Inc., a startup using artificial intelligence to help enterprises improve their customer retention rates, today announced that it has closed a $16 million funding round led by Sapphire Ventures."
-    publishedDateTime: 2021-08-25T19:08:00Z
-    webUrl: "https://siliconangle.com/2021/08/25/involve-ai-raises-16m-boost-companies-customer-retention-rates-ai/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 35
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/unsplash-4.png"
-        width: 800
-        height: 459
-        isCached: true
 
 secured: "QInVt9qGS39G4K1n8HTb/RJesA2XcAIyUMA8v7UQghd+A1d25A20/xIAc14WxjwPYs6+kd4/EzsNIGlIi8WvR6w+g/Xb1P7m/+IQs8j+sDfd+x/85QQYv2JKrbpBULPW7DiRh5ItgHQ7VwLlP2KNxyBihNqgKPBnYTjzJdWUC1wgFrIn/lgX3FvchekQP/uxW3V75nEjCHEzNKwkJlGgXAKRu2ZJzp6a9QVIOoLWKRn7U5aaUQ1m0X1nrWjfmtid9MkhmwTtqb7tUtI6RZA0jOYhUawDKD4puaBkJpDf/WoPElaj6MMcC2jDLZSvlZW+vY7zRedjbtu6cbTzKJia7GnDPQQXrGmcuj3A/H8kiCY=;d4H3+CJCalqzPk//di9YnQ=="
 ---

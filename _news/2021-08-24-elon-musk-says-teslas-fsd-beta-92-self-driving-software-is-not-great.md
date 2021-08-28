@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Musk says Tesla's self-driving software update 'not great'"
-    excerpt: "Tesla Inc's Chief Executive Elon Musk said on Monday said that the electric-car maker was working on improving the much-awaited update to its self-driving software \"as fast as possible.\""
-    publishedDateTime: 2021-08-23T20:46:00Z
-    webUrl: "https://www.reuters.com/business/autos-transportation/musk-says-teslas-self-driving-software-update-not-great-2021-08-23/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 169
-    images:
-      - url: "https://www.reuters.com/resizer/oqFU64HpeP8ZKlXFpnJ9VMpS9Ds=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MJSUGPHHZRIUHCLD54FYDZ7JKQ.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla now aims for Full Self-Driving Beta public release in ‘~4 weeks’"
     excerpt: "Elon Musk is now saying that Tesla is aiming for the wider public release of its Full Self-Driving Beta in about 4 weeks. We are coming up on almost a year since Tesla started testing its Full Self-Driving Beta in its early access program with some customers."
     publishedDateTime: 2021-08-25T23:37:00Z
@@ -72,22 +58,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1877963/2021-tesla-model-y.jpg"
         width: 3000
         height: 2000
-        isCached: true
-  - title: "Elon Musk says Tesla's latest beta self-driving software is ‘not great’"
-    excerpt: "Musk's critical tweet on Monday came just days after he touted Tesla's prowess with autonomous systems and components for them at an event called Tesla AI Day."
-    publishedDateTime: 2021-08-24T14:46:00Z
-    webUrl: "https://www.cnbc.com/2021/08/23/elon-musk-says-tesla-fsd-beta-9point2-software-is-not-great.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/08/23/elon-musk-says-tesla-fsd-beta-9point2-software-is-not-great.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/08/23/elon-musk-says-tesla-fsd-beta-9point2-software-is-not-great.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 89
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106926722-16288599482021-08-13t130517z_209345700_rc2b4p9pcfbm_rtrmadp_0_tesla-germany.jpeg?v=1628859989"
-        width: 3500
-        height: 2575
         isCached: true
   - title: "Elon Musk is not impressed by Tesla’s current Full Self-Driving build, but likes the next one"
     excerpt: "Elon Musk said that Tesla’s current Full Self-Driving Beta build is “not great,” but he is currently testing the next build coming to beta testers, and he is impressed by that one."
@@ -151,22 +121,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "Elon Musk admits Tesla’s new self-driving software ‘not great’"
-    excerpt: "Tesla CEO Elon Musk admitted that the company’s driver-assistance software is “actually not great,” a week after federal regulators launched an investigation into Tesla’s Autopilot"
-    publishedDateTime: 2021-08-24T13:42:00Z
-    webUrl: "https://nypost.com/2021/08/24/elon-musk-admits-teslas-self-driving-software-not-great/"
-    ampWebUrl: "https://nypost.com/2021/08/24/elon-musk-admits-teslas-self-driving-software-not-great/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/24/elon-musk-admits-teslas-self-driving-software-not-great/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 59
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/tesla-musk.jpg?quality=90&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Elon Musk Admits That Tesla's Full Self-Driving Beta Kind Of Sucks"
     excerpt: "All of which is to say that Elon Musk is a Twitter user, and a pretty earnest one at that. When he’s not sharing silly memes, he’s frequently interacting with Tesla fans, detractors or just regular Twitter users."
     publishedDateTime: 2021-08-24T14:19:00Z
@@ -199,22 +153,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Tesla CEO Elon Musk says latest self-driving update ‘not great’"
-    excerpt: "Tesla has lately been under the scanner from the governments of US and China for its autopilot or self-driving technology..Tesla sells its advanced driver assistant features such as lane changing and automated parking under the name Full Self-Driving (FSD)."
-    publishedDateTime: 2021-08-24T17:20:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/tesla-ceo-elon-musk-says-latest-self-driving-update-not-great-41629776618271.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/news/tesla-ceo-elon-musk-says-latest-self-driving-update-not-great/amp-41629776618271.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/tesla-ceo-elon-musk-says-latest-self-driving-update-not-great/amp-41629776618271.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 59
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2021/08/24/600x338/AFP_9L8894_1629439212600_1629777640413.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Tesla's Full Self-Driving system 'not great,' admits Musk"
     excerpt: "Tesla CEO Elon Musk has admitted that the Full Self-Driving system is not that great, adding that the company is trying for a"
     publishedDateTime: 2021-08-25T07:06:00Z
@@ -246,38 +184,6 @@ related:
       - url: "https://thedriven.io/wp-content/uploads/2021/06/fsd-beta-tesla.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Musk: Latest self-driving software isn't great"
-    excerpt: "Tesla Inc.'s CEO Elon Musk stated that the company's latest test version of its self-driving software, FSD Beta 9.2, isn't actually \"great.\" In a statement on Twitter, Musk was"
-    publishedDateTime: 2021-08-23T23:12:00Z
-    webUrl: "https://www.teletrader.com/musk-latest-self-driving-software-isn-t-great/news/details/56246526"
-    ampWebUrl: "https://www.teletrader.com/amp/news/details/56246526"
-    cdnAmpWebUrl: "https://www-teletrader-com.cdn.ampproject.org/c/s/www.teletrader.com/amp/news/details/56246526"
-    type: article
-    provider:
-      name: teletrader.com
-      domain: teletrader.com
-    quality: 44
-    images:
-      - url: "https://cdn.ttweb.net/News/images/226694.jpg?preset=w800_q70"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Why the feds are investigating Tesla's Autopilot and what that means for the future of self-driving cars"
-    excerpt: "It’s hard to miss the flashing lights of fire engines, ambulances and police cars ahead of you as you’re driving down the road. But in at least 11 cases in the past three and a half years, Tesla’s Autopilot advanced driver-assistance system did just that."
-    publishedDateTime: 2021-08-23T19:03:00Z
-    webUrl: "https://www.seattlepi.com/news/article/Why-the-feds-are-investigating-Tesla-s-Autopilot-16405074.php"
-    ampWebUrl: "https://www.seattlepi.com/news/amp/Why-the-feds-are-investigating-Tesla-s-Autopilot-16405074.php"
-    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Why-the-feds-are-investigating-Tesla-s-Autopilot-16405074.php"
-    type: article
-    provider:
-      name: seattlepi.com
-      domain: seattlepi.com
-    quality: 42
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
         isCached: true
   - title: "Elon Musk Admits That Tesla’s Full Self-Driving Is “Not Great”"
     excerpt: "But I guess I’ve been spoiled by watching what Tesla has been doing with the Full Self Driving (FSD) Beta. That is really impressive.” The video also caught the attention of Tesla CEO Elon Musk, who — surprisingly — downplayed Tesla’s progress."
@@ -317,20 +223,6 @@ related:
       - url: "https://cdn.redmondpie.com/wp-content/uploads/2021/07/tesla-fsd-1200.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Why the feds are investigating Tesla’s Autopilot and what that means for the future of self-driving cars"
-    excerpt: "Tesla’s Autopilot uses cameras, radar and ultrasonic sensors to support two major features: Traffic-Aware Cruise Control and Autosteer."
-    publishedDateTime: 2021-08-26T14:22:00Z
-    webUrl: "https://www.minnpost.com/other-nonprofit-media/2021/08/why-the-feds-are-investigating-teslas-autopilot-and-what-that-means-for-the-future-of-self-driving-cars/"
-    type: article
-    provider:
-      name: MinnPost
-      domain: minnpost.com
-    quality: 22
-    images:
-      - url: "https://www.minnpost.com/wp-content/uploads/2021/08/TeslaCrash640.jpg"
-        width: 640
-        height: 450
         isCached: true
 
 secured: "F7hbvfqii3XvpU6OfUBkbJ18nVGb3ko4/EQUXu+/h4PmAkDJgvFK4aYk96yXdYCh4iGR5uh7OJ/jwDe4pLn1RIyiP7xIQ0S6ZGvUNrmm0D7cdNZXtYXSlX2zmJciJ7HIoLtjmO9N5jCYMbZuLSOuHD/4wIi6oSUWHP0vh6/FQK73T8zn1BbrPXL4OP2WKMQ5QgrkxIZ5WoeBdPf3BlFZORtmXDzKZUqA0xGWJ7NGy6IICcpVHdJmJkuy0Cygl52vcUr5KsVtKfqKR6jl3EzwCcy9jiVkt7apqu0HzbxQ4Trdc9RdKmMI7+nlzJ/96M87zeg2DZbZaQrpYNzZcqBz50aR+gWohZFjwdUt8/xmV2GN+QxYsnUaAJiou/9tS/QqvPdTCVuuWvOWweGScUdQbtrM/QQ6WA4TFl+/Mu7uc5yMbidW3iCXuSbAfeSIrxYdDnuIKSGlI3/HuSr3ewWE1GVRvFnXJg4jU6f/+90otnvVdg5txq0SkwNUtI09Culoga8olD2lWX3Q7fYEyfo/Tg==;rJU0l0yu8FUvWKJsc2qSdQ=="

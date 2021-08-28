@@ -169,6 +169,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Toyota Halts e-Palette Self-Driving Vehicle Operations After One Hits Paralympic Athlete"
+    excerpt: "Toyota is grounding all e-Palette self-driving vehicles currently operating within the athlete’s village at the Tokyo Paralympic Games. The decision follows an accident in which one of the vehicles ran into a visually impaired pedestrian on August 26."
+    publishedDateTime: 2021-08-28T12:00:00Z
+    webUrl: "https://www.carscoops.com/2021/08/toyota-halts-e-palette-self-driving-vehicle-operations-after-one-hits-paralympic-athlete/"
+    ampWebUrl: "https://www.carscoops.com/2021/08/toyota-halts-e-palette-self-driving-vehicle-operations-after-one-hits-paralympic-athlete/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/08/toyota-halts-e-palette-self-driving-vehicle-operations-after-one-hits-paralympic-athlete/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 35
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2021/08/2021-Toyota-e-palette-1-1024x555.jpg"
+        width: 1024
+        height: 555
+        isCached: true
   - title: "Toyota Halts All Self-Driving E-Palette Vehicles After Olympic Village Accident"
     excerpt: "Toyota Motor said on Friday it had suspended all self-driving e-Palette transportation pods at the Tokyo Paralympic Games village, a day after one of the vehicles collided with and injured a visually impaired pedestrian."
     publishedDateTime: 2021-08-27T14:30:00Z
@@ -194,6 +210,34 @@ related:
         width: 1024
         height: 602
         isCached: true
+  - title: "Tokyo Paralympics: Visually impaired athlete forced to withdraw after accident with self-driving shuttle bus"
+    excerpt: "Toyota has temporarily suspended its autonomous buses in the Paralympics athletes' village after one vehicle hit a visually impaired Paralympian at a pedestrian crossing. Japanese athlete Aramitsu Kitazono was forced to withdraw from Saturday's 81kg Judo ..."
+    publishedDateTime: 2021-08-28T10:17:00Z
+    webUrl: "https://www.originalfm.com/news/headlines/tokyo-paralympics-visually-impaired-athlete-forced-to-withdraw-after-accident-with-self-driving-shuttle-bus/"
+    type: article
+    provider:
+      name: Original 106
+      domain: originalfm.com
+    quality: 20
+    images:
+      - url: "https://e3.365dm.com/21/08/640x380/skynews-toyota-e-palette-driverless-vehicle_5492793.jpg?20210828092234"
+        width: 640
+        height: 380
+        isCached: true
+  - title: "Toyota halts all self-driving e-Palette vehicles after Olympic village accident"
+    excerpt: "Toyota Motor said on Friday it had suspended all self-driving e-Palette transportation pods at the Tokyo Paralympic Games village, a day after one of the vehicles collided with and injured a visually impaired pedestrian."
+    publishedDateTime: 2021-08-28T13:24:00Z
+    webUrl: "https://www.channelnewsasia.com/business/toyota-halts-all-self-driving-e-palette-vehicles-after-olympic-village-accident-2142116"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 20
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--zBI3c-oz--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_338%2Cw_600/v1/one-cms/core/2021-08-27t143048z_2_lynxmpeh7q0i5_rtroptp_3_autoshow-tokyo.jpg?itok=T5MhJ_u7"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Visually impaired man hit by self-driving bus in Paralympic Village"
     excerpt: "Self-driving shuttle buses are operating 24/7 in the Village - Copyright AFP Aamir QURESHIA visually impaired man was hit by a self-driving bus in the Paralympic village in Tokyo, organisers said Friday,"
     publishedDateTime: 2021-08-27T13:06:00Z
@@ -204,6 +248,6 @@ related:
       domain: digitaljournal.com
     quality: 19
 
-secured: "Y9j1PJa9H6RtCVCiwuPvr6W+rnilmVjP3SZXGO0TkCrWC1b8y0HuNIVSGuUVbxep6kVBliGeZoZQlTDbORrAsn2tMndgVIXbS40cKdLo4hmCvFpHZYjbzHNnD+wuU48OhphIV9JSiYcocEOKJr+sxNk6dK96OYDbE8iGt7oXT3/+2z2PK3QVgWqs/9sOW/6NHI+LZH83HJZtGoU3j3+GKT5sgrC8/tR+xvgi2RJlxTbrMS06zLXeCRR/vJToyeFDfnHknD/FGlQQj45ia6u2dOrUIMUqp2H5Qve/L4+72U9R4fQHAWmiLRgf5zlBiSDohpEzMNPnQS8C0O7A0obU872T4Jqu+pj/CMXXMHPE1I0=;LOM+fybCGiauo9KekkNKYA=="
+secured: "welRF8kzHX5V3XaHbnvVM+qgKEzcjy8Eu7qam665ONGHnCHgNgww4TJKJ8ojKoNCpuf9NcaHjpUOyLAdrkVjNaWu/9uvdI86SUZyxpdYQtixaOt9gaglS144IGADFftS/Dg+7Fu/7lIMMHrQg0RvQI+3qb9gueG7PAdm5yBMU6nKbWeW3tOqBxhY45Ia2BduSJS6ltutLtcYd9Tg/OqX7YxCN/PDdj5duym5MTI43tyeFfKzcnUJ1xRNUrc6g1oZDcT/fSMjrJgA5ZHH2VBMWcZqtqjrYHIussEVWF+TNNFYOVd5Da7JNn40l2SJczX/WZVPBZ5K11Nqazys6QgU+tKBJjwW9ykWyFoc+XVPUcJVtYwyp0WfJx7+Oth/LsCR0xApAOUSyG/RzIOBx3scK+p7RpT0zJA5b4sD1pambRTRz1qqCCx6L2cgzKcIXX6W/8hd9FjXUl8cllaDSbYIia42O9YTbKK19ciGVfg/zV0iZfgFqERIGhT49MIYK3mqQGGarUw1DDKhpjyp2kiubg==;TGNMfMrH7g6NlNQR+Z0Muw=="
 ---
 

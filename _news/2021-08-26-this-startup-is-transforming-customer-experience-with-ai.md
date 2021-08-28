@@ -9,8 +9,8 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/381743"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/381743"
 type: article
 quality: 89
-heat: 129
-published: true
+heat: -1
+published: false
 
 provider:
   name: Entrepreneur
@@ -31,63 +31,54 @@ images:
     isCached: true
 
 related:
-  - title: "Involve.ai boosts AI-driven customer data platform with $16M"
-    excerpt: "Involve.ai, a startup using AI to bolster customer success, announced that it raised $16 million in venture capital."
-    publishedDateTime: 2021-08-25T15:25:00Z
-    webUrl: "https://venturebeat.com/2021/08/25/involve-ai-boosts-ai-driven-customer-data-platform-with-16m/"
-    ampWebUrl: "https://venturebeat.com/2021/08/25/involve-ai-boosts-ai-driven-customer-data-platform-with-16m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/25/involve-ai-boosts-ai-driven-customer-data-platform-with-16m/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/02/big_data.jpg?fit=800%2C450&strip=all"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Zendesk acquires AI automation startup Cleverly to advance customer service"
     excerpt: "Zendesk is looking to grow its customer service capabilities, and today it announced the acquisition of early-stage artificial intelligence startup Cleverly. Financial terms of the deal are not being publicly disclosed at this time and Cleverly has not been entirely public about the size of its"
     publishedDateTime: 2021-08-26T20:43:00Z
-    webUrl: "https://techcrunch.com/2021/08/26/zendesk-acquires-ai-automation-startup-cleverly-to-advance-customer-service/"
+    webUrl: "https://techcrunch.com/2021/08/26/zendesk-acquires-ai-automation-startup-cleverly-to-advance-customer-service/?tpcc=ECTW2020"
     ampWebUrl: "https://techcrunch.com/2021/08/26/zendesk-acquires-ai-automation-startup-cleverly-to-advance-customer-service/amp/"
     cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/26/zendesk-acquires-ai-automation-startup-cleverly-to-advance-customer-service/amp/"
     type: article
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 85
+    quality: 185
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1173385998.jpg?w=1024"
         width: 1024
         height: 683
         isCached: true
-  - title: "How Does Indian Railways Leverage Artificial Intelligence to Boost Customer Experience?"
-    excerpt: "This article explores how Indian Railways leverage Artificial Intelligence to boost customer experience across India. AI models and data analytics tools are helping to incorporate Artificial Intelligence in Indian Railways."
-    publishedDateTime: 2021-08-25T07:24:00Z
-    webUrl: "https://www.analyticsinsight.net/how-does-indian-railways-leverage-artificial-intelligence-to-boost-customer-experience/"
+  - title: "Zendesk acquires customer service automation startup Cleverly.ai"
+    excerpt: "Zendesk has acquired Cleverly.ai, a service automation startup that develops AI-powered tools to solve common customer problems."
+    publishedDateTime: 2021-08-26T16:46:00Z
+    webUrl: "https://venturebeat.com/2021/08/26/zendesk-acquires-customer-service-automation-startup-cleverly-ai/"
+    ampWebUrl: "https://venturebeat.com/2021/08/26/zendesk-acquires-customer-service-automation-startup-cleverly-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/26/zendesk-acquires-customer-service-automation-startup-cleverly-ai/amp/"
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 44
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Indian-Railways-Leverage-Artificial-Intelligence-to-Boost-Customer-Experience.jpg"
-        width: 900
-        height: 500
+      - url: "https://venturebeat.com/wp-content/uploads/2019/03/customer-e1629996056347.jpg?fit=800%2C533&strip=all"
+        width: 800
+        height: 400
         isCached: true
-  - title: "4 Ways to Sway Customers Toward AI for a Better Customer Experience"
-    excerpt: "Consumers are ambivalent about artificial intelligence. According to data collected by O’Reilly, majorities of consumers embrace AI in applications"
-    publishedDateTime: 2021-08-27T16:30:00Z
-    webUrl: "https://www.business2community.com/customer-experience/4-ways-to-sway-customers-toward-ai-for-a-better-customer-experience-02427800"
-    ampWebUrl: "https://www.business2community.com/customer-experience/4-ways-to-sway-customers-toward-ai-for-a-better-customer-experience-02427800/amp"
-    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/customer-experience/4-ways-to-sway-customers-toward-ai-for-a-better-customer-experience-02427800/amp"
+  - title: "Level AI lands $13M Series A to build conversational intelligence for customer service"
+    excerpt: "Level AI, an early stage startup from a former member of the Alexa product team, wants to help companies process customer service calls faster by understanding the interactions they’re having with customers in real time."
+    publishedDateTime: 2021-08-25T13:44:00Z
+    webUrl: "https://techcrunch.com/2021/08/25/level-ai-lands-13m-series-a-to-build-conversational-intelligence-for-customer-service/"
+    ampWebUrl: "https://techcrunch.com/2021/08/25/level-ai-lands-13m-series-a-to-build-conversational-intelligence-for-customer-service/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/25/level-ai-lands-13m-series-a-to-build-conversational-intelligence-for-customer-service/amp/"
     type: article
     provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 37
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 79
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1240334968.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "tNHOVgUhbL3Ob+L/Lv3kUVA8C0QlvQKhLwCI5UNNdXG9aBerztAsXshVBNj6u5WjAZtTIri/lqjnzP1K1uv2Bm8KpuozX7AcgGEAlcwHgucA+IEjZ/rOmPeiRLhwBcug7o4mFQvx7kZnZcN8YcfRtZBZNt9Tk9aw0E4jke9ab47RB4ZEVoyPW0BjioslkYsYdbZ4TOeScFmUlntMzyYnWo3cGDR7hZNqJYcK5uVJ4VaiW1s27n/vgRXON9aceZ7RT62Rw59Lo6fmXTilSHhrdaQSq8TMp9XA6HqLGMcKpJB0M8UhmuTQyNUUisG2Mdh1txRCZoYrZLtTyTlVUVsRWzyJRqTzdfG9fA9qqLpG5x1VYR6m478/uF+Wsf6cyJoBIII4w1GuPRQDotImFLqS++VitY8jatczU5/jQnjCsC8YW5SP9RGuq0O+9+gQ0nVrGGbVOywZr8rJjKqNvyhdv/aMIW/WnwEXLG7DMkYMVOepErIEM714gjoWR0uFxBXoaaT3j793Q85Gbam6/0d57Q==;aY0+YK8lW1xw2g+Vx202Mw=="
 ---

@@ -10,7 +10,7 @@
       "originalUrl": "https://www.thehansindia.com/technology/tech-news/indian-railways-installs-a-facial-recognition-system-to-track-commuters-703762",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -45,59 +45,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-27-the-free-speech-case-for-facial-recognition-opinion.md",
-      "title": "The Free-Speech Case for Facial Recognition | Opinion",
-      "excerpt": "The right to communicate anonymously is important, but most would agree it shouldn't extend to people who commit violent crimes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/free-speech-case-facial-recognition-opinion-1623006",
-      "originalUrl": "https://www.newsweek.com/free-speech-case-facial-recognition-opinion-1623006",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1880796/charlottesville-rally-anniversary.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/free-speech-case-facial-recognition-opinion-1623006?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/free-speech-case-facial-recognition-opinion-1623006?amp=1",
-      "publishedDateTime": "2021-08-27T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_news/2021-08-26-recognize-celebrities-in-images-and-videos-using-amazon-rekognition.md",
       "title": "Recognize celebrities in images and videos using Amazon Rekognition",
       "excerpt": "The celebrity recognition feature in Amazon Rekognition automatically recognizes tens of thousands of well-known personalities in images and videos using machine learning (ML). Celebrity recognition significantly reduces the repetitive manual effort required to tag produced media content and make it",
@@ -106,7 +53,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/easily-recognize-celebrities-in-images-and-videos-using-amazon-rekognition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 186,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -147,6 +94,49 @@
       "topics": [
         "AI",
         "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-us-federal-agencies-plan-to-increase-facial-recognition-use-gao-report-says.md",
+      "title": "US federal agencies plan to increase facial recognition use, GAO report says",
+      "excerpt": "Three-quarters of U.S. federal agencies surveyed for a Government Accountability Office (GAO) report are already using facial recognition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gao.gov/products/gao-21-526",
+      "originalUrl": "https://www.biometricupdate.com/202108/us-federal-agencies-plan-to-increase-facial-recognition-use-gao-report-says",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 296,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gao.gov/assets/styles/hero_l/public/extracts/c1917b8fbd51f63d6fde064a0ffb86f1/d21526-FF-Image.png?itok=U7z95JiA",
+          "width": 1400,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-26T14:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
         "Computer Vision"
       ]
     },
@@ -257,7 +247,7 @@
       "originalUrl": "https://www.buzzfeednews.com/article/ryanmac/clearview-ai-international-search-table",
       "featuredContent": null,
       "highlight": null,
-      "heat": 198,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -362,7 +352,7 @@
       "originalUrl": "https://www.zdnet.com/article/unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {

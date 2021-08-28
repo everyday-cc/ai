@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 753
         isCached: true
-  - title: "The AI Arms Race: Why are American Companies Helping China?"
-    excerpt: "The CCP’s Data Security Law comes into effect on the first day of September, and with it, more control of critical research and information."
-    publishedDateTime: 2021-08-23T20:12:00Z
-    webUrl: "https://www.theamericanconservative.com/articles/the-ai-arms-race-why-are-american-companies-helping-china/"
-    type: article
-    provider:
-      name: The American Conservative
-      domain: theamericanconservative.com
-    quality: 39
-    images:
-      - url: "https://www.theamericanconservative.com/wp-content/uploads/2021/08/shutterstock_1706639491.jpg"
-        width: 1108
-        height: 700
-        isCached: true
 
 secured: "EvA5LzWEDLEJl4iW/CdJr8MQDJKpPaMQMavW9eUWG60W6AVlTjE7Q031YUU2+GwrF9TkxF8PD0jAamDHY/1rq6dikVknhL8/q3jEViZUTA3KRGbPKUtdEvh7FBPZMV9sGsV6JAInQ2Axrm2uvLRFtSFv29FBHJ0MD+9QwDKYy19Xf80RurtBZekCKBSt4QHjMZ4AjVPKU58SWzRv9SH9qy0dTf7vgcPQs2Q/Ea4pZIljVAugO2JaWMgGCYb7DQ1l7YNqD9orC5NIIh4sbXGhPy5QjNcKQs1lGw6XFH/Xw5dBb0Vix2JvwZnScbomve787BcRBYQaNxFPdhaCiQ6oceKUM+Rd2YUnv4uNkq2u8/c=;JEt/fv6GmD1fv+GDXrbHXA=="
 ---

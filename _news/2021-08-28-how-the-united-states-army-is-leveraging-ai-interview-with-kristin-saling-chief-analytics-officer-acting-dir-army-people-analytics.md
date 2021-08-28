@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/cognitiveworld/2021/08/28/how-the-united-s
 ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2021/08/28/how-the-united-states-army-is-leveraging-ai-interview-with-kristin-saling-chief-analytics-officer--acting-dir-army-people-analytics/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2021/08/28/how-the-united-states-army-is-leveraging-ai-interview-with-kristin-saling-chief-analytics-officer--acting-dir-army-people-analytics/amp/"
 type: article
-quality: 56
+quality: 58
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI Ethics
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6125197aa4e9c316e3801db8%2F0x0.jpg"

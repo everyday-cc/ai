@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-15-gridlock-solutions-envisioned-with-driverless-cars-flying-taxis-and-delivery-drones.md",
+      "title": "Gridlock solutions envisioned with driverless cars, flying taxis and delivery drones",
+      "excerpt": "“The challenge is that AV and AI [artificial intelligence] is complicated to implement in urban environments,” said Bernard Schmidt of the authority’s AV division. “There is human bias in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.miamiherald.com/news/local/community/miami-dade/article237643954.html",
+      "originalUrl": "https://www.miamiherald.com/news/local/community/miami-dade/article237643954.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/d8c13d6b-7856-494e-9971-e37ddc10c652/c3add766-c8dc-42cf-9b32-f380f6083365/1280x720/match/image.jpg",
+          "width": 1080,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.miamiherald.com/news/local/community/miami-dade/article237643954.html",
+      "cdnAmpWebUrl": "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/local/community/miami-dade/article237643954.html",
+      "publishedDateTime": "2021-08-15T05:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Miami Herald",
+        "domain": "miamiherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-15-getting-started-with-the-aws-deepracer-offroad-sample-project.md",
       "title": "Getting started with the AWS DeepRacer Offroad sample project",
       "excerpt": "The AWS DeepRacer Offroad sample project is a sample application built on top of the existing AWS DeepRacer application that adds additional capability to the AWS DeepRacer device to autonomously navigate through a path of QR codes by decoding the ...",
@@ -1274,49 +1317,6 @@
       "provider": {
         "name": "PR Newswire",
         "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-tech-moguls-declare-era-of-artificial-intelligence.md",
-      "title": "Tech moguls declare era of artificial intelligence",
-      "excerpt": "Artificial intelligence and machine learning will create computers ... The technology will spread to driverless cars and service robots in the future, the Bank of America report said. Sundar Pichai, chief executive of Alphabet Inc's Google, said he sees ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dnaindia.com/technology/report-tech-moguls-declare-era-of-artificial-intelligence-2219803",
-      "originalUrl": "https://www.dnaindia.com/technology/report-tech-moguls-declare-era-of-artificial-intelligence-2219803",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2016/06/04/467805-elon-musk-2015-business-economy-event-finance-and-economy-headshot-launch-event-talking-tesla-model-x-transportation-usa-getty-images.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DNA India",
-        "domain": "dnaindia.com",
         "images": null,
         "publishers": null,
         "authors": null
