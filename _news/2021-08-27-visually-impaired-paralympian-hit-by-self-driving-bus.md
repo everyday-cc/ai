@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Visually impaired Paralympian hit by self-driving bus"
-excerpt: "Self-driving shuttle buses are operating 24/7 in the Village - Copyright AFP Aamir QURESHIA visually impaired Paralympian was hit by a self-driving bus in the athletes’ village in Tokyo, suffering head and leg injuries,"
-publishedDateTime: 2021-08-27T11:06:00Z
-originalUrl: "https://www.digitaljournal.com/world/visually-impaired-paralympian-hit-by-self-driving-bus/article"
-webUrl: "https://www.digitaljournal.com/world/visually-impaired-paralympian-hit-by-self-driving-bus/article"
+excerpt: "A visually impaired Paralympian was hit by a self-driving bus in the athletes' village in Tokyo, suffering head and leg injuries, Japanese media said Friday. Toyota, which developed the autonomous shuttle buses used in the compound,"
+publishedDateTime: 2021-08-27T10:56:00Z
+originalUrl: "https://www.rfi.fr/en/visually-impaired-paralympian-hit-by-self-driving-bus"
+webUrl: "https://www.rfi.fr/en/visually-impaired-paralympian-hit-by-self-driving-bus"
+ampWebUrl: "https://amp.rfi.fr/en/visually-impaired-paralympian-hit-by-self-driving-bus"
+cdnAmpWebUrl: "https://amp-rfi-fr.cdn.ampproject.org/c/s/amp.rfi.fr/en/visually-impaired-paralympian-hit-by-self-driving-bus"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: RFI
+  domain: www.rfi.fr
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/Self-driving-bus-AFP-1K.jpg"
-    width: 1024
-    height: 683
+  - url: "https://s.rfi.fr/media/display/64976d54-0725-11ec-a5e3-005056bf30b7/w:1280/p:16x9/8ec1b9c2f0a98d242ed0f7c4765f0668971ddc18.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -138,6 +140,6 @@ related:
       domain: digitaljournal.com
     quality: 19
 
-secured: "7++lOHqucSfRT0qNwHw7fsGBsv1njWSXnW0FltCaNEBLrbgAKG2T1u91QHUG0cd5k2XhiMnLSWWdjIEo4lPY5zo4LyFNg3ItiOZP1c/7eVSlHL75w9JbCGhZedOAbk7MIj5lHY3ZvmGI2OIhUl9qPwW+D1m3f9q2kIN9s8Lut8r2I+pMkUJnpUAB63Wa3OiTuJVwRkTaaYXXlNChX/FDDSZJgAIVagmHsIZ6y7qPHa0uV+H1v+CoWZCNzG3r2Ggt/9BCfnruRFYZnEuwyYimKivb2ZSt5wYhG6b9zGoW7d4+rh29QXlOupnOJd2bJJC2ejYTF6BPz/h4qMIfIYMG5WSajKTII/iaO/gKD5K7ySG9VuBZOwSCgrcYkTvD5mct98bgLrDyP6pdJxmt3FrcxbaZZ73UqKXiAs0pujZU1MFJjsZUWbxP1p9l/dEx1V/jyGpnJi1kM3xxhjEl6jpBl7yO2Vxqhlsby6pzB7XCtHnkYYrSIr4jQjxM3wHl0HDpiD5i38MA9btEVDuN5HYhZA==;fN2XokJvaNirKWy/U6b9Mg=="
+secured: "2AeIVVCWt2ZOBu1zaD5AihbcjyKgEgC821f02a7Mca9A+gbl6xN3p+BZGN+mOZmMz68agEAedBI24ERjGtfhXxnI2J3+FxBjUdX/dQGp/esmw/ijUOOWXrhMtZOpPiw0GIrTTkETJToLxbo4tfU6b0vL0gljOuE+1o4mvF6cCr0s86IpubqJfzWcfcnHd0O8EFkkI8VHgqcGD0NlKTcnK7EzMK2dhTn15+wFXlG2TSQeRo5lAP4wfSGdL2U443IYroKaEl8tU2rOT3cMRPxx3T2f//D/lCgnsxLtAVpIFmlRuvUtKXgKQWZY667FC4RPibQtm1yDGzPHsKYRtlcP2otcbRGHaf3KbuCSNuEuiNk=;yRaF6vuPLEwJdSeBubNrGA=="
 ---
 

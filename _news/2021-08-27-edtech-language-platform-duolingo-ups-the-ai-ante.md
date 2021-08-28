@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/27/edtech-language-platform-duolingo
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/27/edtech-language-platform-duolingo-ups-the-ai-ante/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ibms-new-telum-proce
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibms-new-telum-processor-is-the-companys-first-with-an-on-chip-ai-accelerator/"
 type: article
 quality: 100
-heat: 280
+heat: 270
 published: true
 
 provider:
@@ -276,15 +276,6 @@ related:
         width: 1500
         height: 1126
         isCached: true
-  - title: "IBM unveils Telum Processor chip with AI capacity to detect fraud"
-    excerpt: "IBM has unveiled its upcoming new 7nm EUV chip, the IBM Telum Processor, designed to address fraud in real time. The processor contains a chip system for AI inferencing while a transaction is taking place."
-    publishedDateTime: 2021-08-23T07:18:00Z
-    webUrl: "https://www.telecompaper.com/news/ibm-unveils-telum-processor-chip-with-ai-capacity-to-detect-fraud--1394481"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 34
 
 secured: "CKzW9kNW/C7W29zGai2sSpfZcRaS8vq6CsTYgitiTAXhIVWbMJNWLFV2mC6kFNguKGbJqyGqJM6GW7GmMsWVr56lxo09o91mqR6OErzB9TZLBx1rZDiz8YnGsqEALtaudXx8YJbR93dI/8N/3ESB8jOtq1aPkEfO4Li/gH/nUMprGXMzSoIVH6GVZKMlWwMxFG6Zm0HGp7yyl+nRn6i//Skn6asQTRDCpoAWP+OIOLbsCES2mQkhV8tyS8NhRpsOKqEnRe5WWA78PDj8HjMHG+y5CUeZMcGVMbhOOBQdoBmPodt5HM1TF2TR6MjMwBfqC92W7TROkuaoWvPh7WprU0eUKJ+qa4hZXzKAcgkPGUM=;Q4+P9YZ/UDJrHGiRx5xayw=="
 ---

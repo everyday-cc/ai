@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/easily-recognize-cel
 webUrl: "https://aws.amazon.com/blogs/machine-learning/easily-recognize-celebrities-in-images-and-videos-using-amazon-rekognition/"
 type: article
 quality: 106
-heat: 206
+heat: 196
 published: true
 
 provider:
@@ -155,17 +155,6 @@ related:
         width: 500
         height: 499
         isCached: true
-  - title: "UK AI in Image Recognition Market Size, Share, Analysis, Applications, Growth Insight, Trends, Leaders, Services and Future Forecast - 2025"
-    excerpt: "UK AI in image recognition market is estimated to grow significantly at a CAGR of 28 4 during the forecast period UK is the third largest economy in Europe after Germany and France majorly owing to its trading power and"
-    publishedDateTime: 2021-08-23T07:47:00Z
-    webUrl: "https://www.openpr.com/news/2363154/uk-ai-in-image-recognition-market-size-share-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2363154/uk-ai-in-image-recognition-market-size-share-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2363154/uk-ai-in-image-recognition-market-size-share-analysis"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 5
 
 secured: "j+CXydhnvSXr/DGVWmbVGPISvGoelbrioE+BkZ3ryJqTEzwiKmW7iNmio/H/1kQUrZPKkU54r5F8QDvp0D4fq678ewTcrYTlti6rxdPptbxg75CQoyJwe9HRLMLkE19id09jBDsT5vVhkbdaiy7eOCI3jxm9qAjJcPMuVe0JuvqQ0OQpIIsIMtKz4PNRAnR++yfpDL+9e0LvjcPEPAOIADPhsA6xnGa3WZK/7vv5KXuaMuqBe1djEBztSz9ytQZZ9P8xJr/SXO4lsi0Tz3zIsJZuAvShs/oZnoJAk9hC4956W5n1ad7F8jOVWmKG1OPeq3HoYVqxfHiJbuQeZM7jq/qrn07HmpwN9wg3z8fVfdg=;nZ+L8OT2O9w20CTp+g0u3g=="
 ---

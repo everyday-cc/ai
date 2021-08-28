@@ -6,8 +6,8 @@ publishedDateTime: 2021-08-27T01:45:00Z
 originalUrl: "https://www.csrwire.com/press_releases/727521-intel-launches-ai-workforce-program-students-18-community-colleges"
 webUrl: "https://www.yahoo.com/now/intel-launches-ai-workforce-program-140107340.html"
 type: article
-quality: 134
-heat: 144
+quality: 136
+heat: 146
 published: true
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://s.yimg.com/uu/api/res/1.2/KBbLN4sf9GD_tgm4GcWd0Q--~B/aD0zNjY7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/91a4aa364fb2d6461843611c01aa0c2b"
@@ -34,6 +35,6 @@ related:
       domain: fintechzoom.com
     quality: 19
 
-secured: "T6hWGrx8cWtp7CIIMnhROcxISaG8/3dS6WxqJR9tGD7cp2gmLmXEsSutiQhIfJ0m3q0FDtGFXHbCepPz4XxL+t/lIMLJcIAVCUTW+R0mERHgPiIVpEMBSyQ3kYV4Y+N2UywDX2VqoIC30hlrydhZUwIbAMy03y2hzYfc6Puo9gJE9zdi6ghe8NZF3NlVcIY6qVc/X7O0xnmfqaJluf2q6UoYo0Hj6Kah9cPNIZeFT+0N7ZllumJAt87xwzLubCcA3jy/PYkyFZveUWwrh1n0mh9sUkoGKXUNicQsgWwMUbh9ET1n5TVquyiHl98vW4Mg+Nn5W32fNJ8WXxmzvLVTxE5Afzq7g6kuYBUeOy/tQ3Y=;QE86B74ktrY2VPVUyXYHEg=="
+secured: "BsjFh0DtbB569Bdag1Ddi/q5AA7d7v2mLAtLk71U/JiHdcMCaHiG8uhkBoRuV0+pKhyAsXE/69F+KbgM185/SkJ+RM9jJ8yHCwhsDj+i4eqfpccpux5jmSlOGegc/uORYLJldL75tkxbxu3cOEyeTeYxE6AIIcnlbFZBJjGaXnLB7qhoFJHWRWM0B6VuWlYxt8ivdA5DtLaSefKmLue4YrD3rlFcAZrpo+HMXr3bcfXAFGT+LqhmrkCn7+5pPaNM1fNoLCcqVMmGO1nzZ2o/O+/6QpW0zICFPkRusnNqQkKSFTao/+4noY6KQOdiD1yGYS6zA3+KH1FnIJ8bzwbzb8GPsMD9FUGTfN3frx147wtim0CLv7Wop9ckeLjRAiJxshaX7dF22L6GQ0kPpRqCYdfI4iHIOfVe6oNTSw7OpBYsSSIEo8lB2l4l5OrHg67keGo9znX4EsO40VgfLEiuGyjHmoPT9m5qsabTFvazmYrePnq84QeDCZyDYrPvhGUCmjsSDe/O9Gu9As1a64PirowbzBIo1o0Pb2y//007Nas=;8y2k1ntOTt7g6uRrK8mOUA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-08-24/afghanistan-war
 webUrl: "https://www.bloomberg.com/news/articles/2021-08-24/afghanistan-war-turns-u-s-military-drone-startup-shield-into-unicorn"
 type: article
 quality: 154
-heat: 175
+heat: 174
 published: true
 
 provider:

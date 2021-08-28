@@ -9,7 +9,7 @@ ampWebUrl: "https://mumbrella.com.au/wpp-acquires-ai-technology-company-satalia-
 cdnAmpWebUrl: "https://mumbrella-com-au.cdn.ampproject.org/c/s/mumbrella.com.au/wpp-acquires-ai-technology-company-satalia-699700/amp"
 type: article
 quality: 59
-heat: 169
+heat: 129
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "WPP acquires agency specialising in artificial intelligence"
-    excerpt: "Combining machine learning and optimisation, Satalia builds technologies \"that help clients transform their business strategies and radically"
-    publishedDateTime: 2021-08-23T08:10:00Z
-    webUrl: "https://www.proactiveinvestors.co.uk/companies/news/958336/wpp-acquires-agency-specialising-in-artificial-intelligence-958336.html?SNAPI"
-    ampWebUrl: "https://www.proactiveinvestors.co.uk/companies/amp/news/958336"
-    cdnAmpWebUrl: "https://www-proactiveinvestors-co-uk.cdn.ampproject.org/c/s/www.proactiveinvestors.co.uk/companies/amp/news/958336"
-    type: article
-    provider:
-      name: Proactive Investors
-      domain: proactiveinvestors.co.uk
-    quality: 57
-    images:
-      - url: "https://www.proactiveinvestors.co.uk//thumbs/upload/News/Image/2021_08/1200z740_1629706468_2020-11-20-14-55-35_ac6d23e161ea039615fc6200b6c8b803.jpg"
-        width: 1200
-        height: 740
-        isCached: true
   - title: "Communications giant acquires AI technology company in digital ramp up"
     excerpt: "London headquartered communications multi-national WPP has announced that it has acquired Satalia, an AI technology company for an undisclosed sum. Satalia… | London | Digital | Technology | Technolog"
     publishedDateTime: 2021-08-23T13:06:00Z
@@ -56,34 +40,6 @@ related:
       - url: "https://bdaily.co.uk/images/uploads/Yd1iOp5VdToWzLaqtAmpnnGyYqGNIRwcS3LZj3su.jpeg?w=940&h=430&fm=jpg&fit=crop-36-2&s=a5dc5d2d0486f936cb6a607ac0c09053"
         width: 940
         height: 430
-        isCached: true
-  - title: "WPP acquires AI technology company Satalia"
-    excerpt: "The latest acquisition of Satalia is aligned with WPP’s accelerated growth strategy and focused M&A approach and more."
-    publishedDateTime: 2021-08-23T07:35:00Z
-    webUrl: "https://www.socialsamosa.com/2021/08/wpp-acquires-ai-technology-company-satalia/"
-    type: article
-    provider:
-      name: Social Samosa
-      domain: socialsamosa.com
-    quality: 39
-    images:
-      - url: "https://www.socialsamosa.com/wp-content/uploads/2021/08/WPP-satalia.jpg"
-        width: 800
-        height: 418
-        isCached: true
-  - title: "WPP acquires leading AI technology company Satalia"
-    excerpt: "WPP is a creative transformation company. We use the power of creativity to build better futures for our people, clients and communities."
-    publishedDateTime: 2021-08-23T07:30:00Z
-    webUrl: "https://www.wpp.com/news/2021/08/wpp-acquires-leading-ai-technology-company-satalia"
-    type: article
-    provider:
-      name: WPP
-      domain: wpp.com
-    quality: 39
-    images:
-      - url: "https://www.wpp.com/-/media/project/wpp/images/news/stalia-pr.jpg?width=900&height=506"
-        width: 900
-        height: 506
         isCached: true
   - title: "WPP acquires Satalia for efficiency-increasing AI tech"
     excerpt: "WPP’s accelerated growth strategy shows no sign of slowing, with the addition of artificial intelligence (AI) technology company Satalia for an undisclosed sum to modernize its sprawling empire."
@@ -141,15 +97,6 @@ related:
         width: 500
         height: 500
         isCached: true
-  - title: "TOP NEWS: WPP buys AI firm Satalia to grow machine learning offering"
-    excerpt: "FTSE 100-listed WPP PLC has bought artificial intelligence technology company Satalia for an undisclosed sum, the ad agency said on Monday. Founded by Chief Executive Daniel Hulme in 2008, AI specialist Satalia counts clients including BT Group PLC,"
-    publishedDateTime: 2021-08-23T07:19:00Z
-    webUrl: "https://www.lse.co.uk/news/top-news-wpp-buys-ai-firm-satalia-to-grow-machine-learning-offering-eh3cu8clbih7cx9.html"
-    type: article
-    provider:
-      name: London South East
-      domain: lse.co.uk
-    quality: 38
   - title: "WPP Acquires AI Tech Company Satalia – Names Daniel Hulme Chief AI Officer"
     excerpt: "WPP has acquired AI tech company acquired Satalia, whose clients include BT, DFS, DS Smith, PwC, Gigaclear, Tesco, and Unilever. Funded by CEO Dr. Daniel Hulme in 2008, Satalia combines learning and optimization,"
     publishedDateTime: 2021-08-24T02:41:00Z

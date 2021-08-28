@@ -272,15 +272,6 @@ related:
         width: 1500
         height: 1126
         isCached: true
-  - title: "IBM unveils Telum Processor chip with AI capacity to detect fraud"
-    excerpt: "IBM has unveiled its upcoming new 7nm EUV chip, the IBM Telum Processor, designed to address fraud in real time. The processor contains a chip system for AI inferencing while a transaction is taking place."
-    publishedDateTime: 2021-08-23T07:18:00Z
-    webUrl: "https://www.telecompaper.com/news/ibm-unveils-telum-processor-chip-with-ai-capacity-to-detect-fraud--1394481"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 34
 
 secured: "Xs9TMobinIMG7uaBwZSG6XMudGPSXkQzxWc4rjU884z4l6AtnKnsPKHLZzoKRcZOYIUw78gxq6BPkAa2Q3vRdRZ4v4XyGs9ZAHYqwgs//wZhl52FZXVgsYoExT4Ynrx0nU7wvwF505CAl6PwBqnXFyEf7nmAzjJJ2zBtTrWdCZxtm/2JU9TLlwCfMQHMgT8+cWj3NgaySeaQMA0AzzvTwA4lQZ+WgTdqV25B+SpwpX4KBd1hAaJ6mx+zzoIwP//5GoowW59Ztn2ZSLVufjWtxuNGNmMjsYFaPCq2rTDwJ9tv+KPPr3eAZoc7CV3fBc/jWy/YBGeOJCybqbe0/YU0nD9L2vJkT0NNarSTLR/VuA7wPA6q7GNfl6lnSVdmNxa1hHcz0wDBrwdrG/xy+CMWeazO3DVXOYYbdzTIgyBQwsQFF96cIDWuImSeSHRjZqWWmIwtjXbRoVL4ajVhFSOJwt3aXlAfldZ3QEAqXubySpsVZ3Ipqy/5nDHHmRxtSqqv3vELRqjx7FTImLoykvHfcw==;yO1RmpMdabZIaOHJcPsYQQ=="
 ---

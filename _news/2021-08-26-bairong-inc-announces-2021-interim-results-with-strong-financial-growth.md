@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Bairong Inc. Announces 2021 Interim Results with Strong Financial Growth"
-excerpt: "With the increasing customer demand comes after market recovery, Bairong Inc. (6608.HK, the \"Company\") reported a total revenue of"
-publishedDateTime: 2021-08-26T07:27:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/bairong-inc-announces-2021-interim-results-with-strong-financial-growth-301363382.html"
-webUrl: "https://www.prnewswire.com/news-releases/bairong-inc-announces-2021-interim-results-with-strong-financial-growth-301363382.html"
+excerpt: "For example, we will further develop the AutoML technology, train more special models for the financial sector, enhance the standardization of basic structure. Also, we will improve our ability in ..."
+publishedDateTime: 2021-08-26T08:47:00Z
+originalUrl: "https://menafn.com/1102684558/Bairong-Inc-Announces-2021-Interim-Results-with-Strong-Financial-Growth?source=306"
+webUrl: "https://menafn.com/1102684558/Bairong-Inc-Announces-2021-Interim-Results-with-Strong-Financial-Growth?source=306"
 type: article
 quality: 38
 heat: 38
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1522592/WechatIMG64_Logo.jpg?p=facebook"
-    width: 2280
-    height: 1196
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?916759"
+    width: 375
+    height: 250
     isCached: true
 
 related:
@@ -35,6 +35,6 @@ related:
       domain: tmcnet.com
     quality: 18
 
-secured: "yevxzVM3oNRKjW5FpolIwDeKB/OinmOCm+fPG6M38E85nzhUL0IjLT4toBHXh/2IoE8x7Jzf/VcbEY5w7LEisomiTBcowxdlXHPYkqCpYnGVYuNabZcYzc5Bq4dg4dUn4om/iBRqW0B5a5gEoTKKo9aFHwaFllOD0i801pJJ7TS+lG5w7xXmes6LuZuqTcNBLsrgsv9rNP/6IEmsSm6mlyEsJSmPhaevq8kGMpLI9gV0cfae/eCPS7RwFnAywpl5RgQGOS6qGYDRjydUWPUWXJQ1GBM8ZR18YXX6WVYSIkk1epv3nGblcya1mmYMbOaO2o2m5E6QIjIJfdwLD0c30Nn92ECaS++HKwbQTXS1Axp+WvZttuZRg0jckmuCY2+IwKE9Yb4T5yrYj0hkMri+8cFxPb2+fgFb1foX7BjiKj7H35KuUdvuswFDyfy5GJ79nTtt/AofgOMx06qt9MrNIdbsPHwXOpWPRFHVteekfPdbEwB32D4K0Oecpc2LzMmtPAP5iTmDQDm4NlEaoJ6TOg==;ACrhu5slygQIBocj7o64GA=="
+secured: "FuQtoSjui7h76vYI/S4oMP6sXK8XFBJBiAQkQ+M8m0etAJKP5qds8HkxTnBB1jxmnqZdKxMl3UYtjD27Q3iDeRy2gNrqvI/RY2lzyQpxD2l0AgA5eKUPfde7s5F8zzUc42rmnxw7yNud44OUWxSr7O46F7Ynai5cKi2b6b3hKGbKwQkaoA79C5Z0b4Fbn7FiXUqA5cMQLYuCcqGQRs1UW0XmuLE2Ry3DuHCZynBHqdIE6+9IqS5uvs5N4uTXw+uxXxY++Id36oSDzQTPcrvmaJYL9RV+REVvE9kR4fTYLWuD13ToCYHRqy2i0YCpTwN5/CDl0KAdLubsX3fzUPQtUC64b71hjUgiaIuWbTECUYg=;rvjN3YtAxQi6lZTZOUMrQg=="
 ---
 

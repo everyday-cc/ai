@@ -155,17 +155,6 @@ related:
         width: 500
         height: 499
         isCached: true
-  - title: "UK AI in Image Recognition Market Size, Share, Analysis, Applications, Growth Insight, Trends, Leaders, Services and Future Forecast - 2025"
-    excerpt: "UK AI in image recognition market is estimated to grow significantly at a CAGR of 28 4 during the forecast period UK is the third largest economy in Europe after Germany and France majorly owing to its trading power and"
-    publishedDateTime: 2021-08-23T07:47:00Z
-    webUrl: "https://www.openpr.com/news/2363154/uk-ai-in-image-recognition-market-size-share-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2363154/uk-ai-in-image-recognition-market-size-share-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2363154/uk-ai-in-image-recognition-market-size-share-analysis"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 5
 
 secured: "pMKlwyjMOD4P33kvMV9HlUVf9103f00qYIqaKdWMhBkC6KllhzNnMM5V65X3gaY+pGX209lc2Gj8a6MaRr+sP67MAewnY6GPTuQXP9TVDddcL8iZxfks4EyR1sBslW9/QlRt+OOBcleBY2VnRllalOvyoWSysUpzKf4yuY+UaeMCdRG4f0I+PBK6Aj0MtafKA5eUzW87nvL+MssiSgnuPsIxQoouziwTzRwBtWwA2AeoSXymFrb3lSRAaZGDU0B6JLiasnNOVgm+KByTATxb4TCgPurDQJS1cRCyNL2t8uHORcRdrq8ghZjonLbWUnLQ6OAgY4tdQX1+Ypu4pfBkLWug5ypwi2wI9Wm3RDt8g9U=;hOBOPkDnm3EDqQTpv+7V6w=="
 ---

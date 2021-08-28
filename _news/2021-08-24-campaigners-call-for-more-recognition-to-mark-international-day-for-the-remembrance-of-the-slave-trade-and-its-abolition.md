@@ -150,17 +150,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
-  - title: "UK AI in Image Recognition Market Size, Share, Analysis, Applications, Growth Insight, Trends, Leaders, Services and Future Forecast - 2025"
-    excerpt: "UK AI in image recognition market is estimated to grow significantly at a CAGR of 28 4 during the forecast period UK is the third largest economy in Europe after Germany and France majorly owing to its trading power and"
-    publishedDateTime: 2021-08-23T07:47:00Z
-    webUrl: "https://www.openpr.com/news/2363154/uk-ai-in-image-recognition-market-size-share-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2363154/uk-ai-in-image-recognition-market-size-share-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2363154/uk-ai-in-image-recognition-market-size-share-analysis"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 5
 
 secured: "o0SmeEAHLJso1VXVVU7trbUs822ITxtouwP8XzGQmbnP8AXNuA4b4ZmyFeKMOwN3NxUlGRt/sPuo/NGOrTmqa0fEdQ1K4+j96bu6IpiV9sFptgJJGJwc+dCLY0Vtu1m+BXf0P92d98ClUVYvXeglOTKQnzfyQenXdRLgDNq8vTDV1tsTAIP+/8LyVTE8sqVhKXJpdOQSrmFu5q699bPwB6wLyJ1h/nVeqLkz4efuZvTNSvrky4zGrJByNIDNrswzYqL2dUHMdOaa4fQlY5PaN3GFiQFcev8QEA+yzmrgHN4lPjU0kSxRh3SXXxejGsxmQJODt/vQXDqHcYp+9rgIINmQsrg50ZggUKpUHQaDrFtWMERH0mIzQhLB0K+Qjwc+PTduyj9Qxwgn1wu/twQ5EB02Cdl/W+FlTJaVCu/aqkkNt46cGc1PpbL5GOeWa2M4WKJVG0yUCVnE54gYfou0Na6biaKx4MGuUrhPcIZrbgPaH5vEAKIQnjYaNMLsmhSd9rwbaHyExTo5DlUqsx1kCg==;HlP6VY4n590K8WV6nZ5a+Q=="
 ---

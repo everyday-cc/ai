@@ -27,7 +27,7 @@ related:
     provider:
       name: CSR Wire
       domain: csrwire.com
-    quality: 134
+    quality: 136
     images:
       - url: "https://s.yimg.com/uu/api/res/1.2/KBbLN4sf9GD_tgm4GcWd0Q--~B/aD0zNjY7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/91a4aa364fb2d6461843611c01aa0c2b"
         width: 650

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/27/how-to-upskill-your-team-to-tackl
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/27/how-to-upskill-your-team-to-tackle-ai-and-machine-learning/amp/"
 type: article
 quality: 106
-heat: 126
+heat: 127
 published: true
 
 provider:
