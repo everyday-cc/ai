@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-08-24/afghanistan-war
 webUrl: "https://www.bloomberg.com/news/articles/2021-08-24/afghanistan-war-turns-u-s-military-drone-startup-shield-into-unicorn"
 type: article
 quality: 154
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/e6a0973/2147483647/strip/true/crop/3251x2174+169+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F3a%2Ff0%2F3784d917440fb42292a048478372%2Fqualcomm-drone-platform.jpg"
         width: 320
         height: 214
-        isCached: true
-  - title: "G7 to meet on Afghanistan deadline, Taliban recognition"
-    excerpt: "Leaders of the Group of Seven countries were set to discuss on Tuesday whether to seek an extension to a Aug. 31 deadline for the evacuation of thousands of people trying to flee Afghanistan and whether to recognise or sanction a Taliban government."
-    publishedDateTime: 2021-08-24T03:51:00Z
-    webUrl: "https://www.metro.us/g7-to-meet-on/"
-    ampWebUrl: "https://www.metro.us/g7-to-meet-on/amp/"
-    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/g7-to-meet-on/amp/"
-    type: article
-    provider:
-      name: Metro US
-      domain: metro.us
-    quality: 44
-    images:
-      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTopNews/tagreuters.com2021binary_LYNXMPEH7N02S-BASEIMAGE.jpg"
-        width: 800
-        height: 533
         isCached: true
 
 secured: "M7O+R3rGyB85d5WeFIGSmxS8bpYZDtZBcU4wU2vEQM/kYTcSteFeUNhiLSrkDiV3eeuO8B/MrN8JA+T2B5FcYMj8guBevK2CaZ4+44G5D7HtSRXncDlq7M6xtopdU+Uxx2a4lq4mBAVD7KjBpc7uyqfrhNOIEWNO0jLTMd/gcc5ZBoz5TSHASqloeLTN6BRMesUr1+yOtCKZu0+vDSqi6uJT21r3X48NwHfZtHjp31ZV/zHNaQlP5kLl8QuwnTXyzVGBPotTc+5xIO+MoRtswQL5l12VgyxfQsk9I5pxC+N0Mo3WFxMsiQdE8L3kx7dECN5YV2xU97fSHeaLyVeuD9fjXXxFTvygnxR5uhl8xEz0oUeqcuT6F9OhOI0RYpk4gYR2ywIPkkFooVUn8w+mF23kB70qsqQYkujs5/9zwx/wV9EcrIGwGYQZeQ/yy4Pi3iJrH+fcX3ykHx1kLJQB9bx+d7HcFMsvq7+NQgwLMIZwcFmqtHbgMxKEXh2LwhtcAKIIwf//LztE95taoMMOdaHYyjSH1ry/WrD1CM85PKg=;pDZjLqnwC7081dx86cpdKQ=="

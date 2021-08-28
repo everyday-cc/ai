@@ -226,6 +226,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 30
+  - title: "Toyota halts use of self-driving vehicle in Olympic Village after collision with Paralympic athlete"
+    excerpt: "Toyota has been providing a specially-designed version of its battery-powered, automated \"e-Palette\" vehicles to transport athletes and staff during the Tokyo Olympics and Paralympic Games."
+    publishedDateTime: 2021-08-28T18:53:00Z
+    webUrl: "https://www.wlwt.com/article/toyota-halts-use-of-self-driving-vehicle-in-olympic-village-after-collision-with-paralympic-athlete/37418517"
+    ampWebUrl: "https://www.wlwt.com/amp/article/toyota-halts-use-of-self-driving-vehicle-in-olympic-village-after-collision-with-paralympic-athlete/37418517"
+    cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/toyota-halts-use-of-self-driving-vehicle-in-olympic-village-after-collision-with-paralympic-athlete/37418517"
+    type: article
+    provider:
+      name: WLWT
+      domain: wlwt.com
+    quality: 30
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-a0e0e4099994406cfe0dcb161ec7565a-h-e209b227e66925b2d5393382665e3467-1630170227.jpg?crop=1.00xw:0.846xh;0,0.100xh&resize=1200:*"
+        width: 1200
+        height: 677
+        isCached: true
   - title: "Tokyo Paralympics: Judoka Aramitsu Kitazono Withdraws After Being Hit by Self-Driving Bus in Village"
     excerpt: "The incident took place on Thursday afternoon when the automated electric vehicle, called an e-Palette and developed by Toyota, struck Kitazono after turning right into a pedestrian crossing."
     publishedDateTime: 2021-08-28T09:52:00Z

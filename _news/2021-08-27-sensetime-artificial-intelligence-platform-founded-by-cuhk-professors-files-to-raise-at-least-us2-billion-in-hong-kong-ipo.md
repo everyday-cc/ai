@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/business/banking-finance/article/3146708/senset
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/banking-finance/article/3146708/sensetime-artificial-intelligence-platform-founded-cuhk"
 type: article
 quality: 77
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "SenseTime, AI Startup to apply for IPO in Hong Kong"
+    excerpt: "Since then, SenseTime has published a white paper titled “Code of Ethics for AI Sustainable Development” and is collaborating with the United Nations to enhance AI ethics."
+    publishedDateTime: 2021-08-28T19:37:00Z
+    webUrl: "https://techstory.in/sensetime-ai-startup-to-go-public/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/08/5e724d8cb14ec_compress.jpg"
+        width: 792
+        height: 528
+        isCached: true
   - title: "Non-Profit Federated Learning Consortium (FLC) for Decentralized AI to Launch in Hong Kong, Receives $2M Pledge"
     excerpt: "HONG KONG, CHINA / ACCESSWIRE / August 27, 2021 / Federated Learning Consortium (FLC) is a global non-profit organization headquartered in Hong"
     publishedDateTime: 2021-08-27T03:40:00Z

@@ -25,20 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "7 recent Big Tech partnerships in healthcare: Amazon, Google & more"
-    excerpt: "Seven recent partnerships between healthcare organizations and Big Tech companies including Amazon, Apple, Google and Microsoft: 1. Stanford's Center for Artificial Intelligence in Medicine and Imaging teamed up with Microsoft's AI for Health Program to launch a new data repository platform that will be more automated,"
-    publishedDateTime: 2021-08-27T18:42:00Z
-    webUrl: "https://www.beckershospitalreview.com/digital-transformation/7-recent-big-tech-partnerships-in-healthcare-amazon-google-more-2.html"
+  - title: "Global Artificial Intelligence in Radiotech Market 2021 Latest Advancements and Business Outlook-Siemens Healthineers, GE Healthcare"
+    excerpt: "The rise in demand has resulted in increased investment throughout the world, which is a major driver of the Artificial Intelligence in Radiotech Market growth. The market’s expansion is aided by the industry’s continued focus on R&D efforts in the area of compounds."
+    publishedDateTime: 2021-08-26T15:32:00Z
+    webUrl: "https://manometcurrent.com/global-artificial-intelligence-in-radiotech-market-2021-latest-advancements-and-business-outlook-siemens-healthineers-ge-healthcare/?noamp=mobile"
+    ampWebUrl: "https://manometcurrent.com/global-artificial-intelligence-in-radiotech-market-2021-latest-advancements-and-business-outlook-siemens-healthineers-ge-healthcare/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/global-artificial-intelligence-in-radiotech-market-2021-latest-advancements-and-business-outlook-siemens-healthineers-ge-healthcare/?amp=1"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 39
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 43
     images:
-      - url: "https://www.beckershospitalreview.com/images/channels/digital-transformation/9.jpg"
-        width: 800
-        height: 600
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/Global-Free-Space-Optics-Market-Including-Key-Players-Market-Share-1-390x220.jpg"
+        width: 390
+        height: 220
         isCached: true
+  - title: "Global Artificial Intelligence in Radiotech Market 2021 Latest Advancements and Business Outlook-Siemens Healthineers, GE Healthcare"
+    excerpt: "The rise in demand has resulted in increased investment throughout the world, which is a major driver of the Artificial Intelligence in Radiotech Market growth. The market’s expansion is aided by the industry’s continued focus on R&D efforts in the ..."
+    publishedDateTime: 2021-08-27T22:14:00Z
+    webUrl: "https://manometcurrent.com/global-artificial-intelligence-in-radiotech-market-2021-latest-advancements-and-business-outlook-siemens-healthineers-ge-healthcare/"
+    ampWebUrl: "https://manometcurrent.com/global-artificial-intelligence-in-radiotech-market-2021-latest-advancements-and-business-outlook-siemens-healthineers-ge-healthcare/"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/global-artificial-intelligence-in-radiotech-market-2021-latest-advancements-and-business-outlook-siemens-healthineers-ge-healthcare/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 23
 
 secured: "7Pzndz9P+xTtUaY/Zt2KMO9g+IpSn711m7UKGf4RB83GdSHFM4GQYNzZksX1PT6pAEQxUELwJgRmRg3cSZBVZWqasgR/mMoyffaHG+BvTgLO+kRViPjVuLifFzGdPn7L7Iek8u7gn9mdIxEfQGYmJA6+MC4DBcW4q9G1m/memGygwRB2+ZFCiyUu/zn6zJvr34zbJ9ijw3dZBDhSiqbZu4zjFsqgwPtwTFLGr/sOVWV3CPy8l56FKgmNxWmMnc/h0MPvrazknTyT3Xruzu69MYvXpTqF4xuPsDuIdkB49/6j9H/dboCRJ0aduZJTonk2CPbBFxkRglcR9FaaexqDQOqydpQ/F07Nz2X6GjWRklo=;oBfGFXvgS9WbUPlTwUbzew=="
 ---

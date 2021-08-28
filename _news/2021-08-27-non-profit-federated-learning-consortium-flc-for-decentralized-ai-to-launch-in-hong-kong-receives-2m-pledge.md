@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "SenseTime, AI Startup to apply for IPO in Hong Kong"
+    excerpt: "Since then, SenseTime has published a white paper titled “Code of Ethics for AI Sustainable Development” and is collaborating with the United Nations to enhance AI ethics."
+    publishedDateTime: 2021-08-28T19:37:00Z
+    webUrl: "https://techstory.in/sensetime-ai-startup-to-go-public/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/08/5e724d8cb14ec_compress.jpg"
+        width: 792
+        height: 528
+        isCached: true
 
 secured: "nKRBkIvp9DqF9iPygVd8qsJAVcS+GhTV6/gg8bv3n/C6y3Tl9+4qgiY0p7Q+KOhOoXSnnztYaIZiSrcfVS1L+M/0WTuJ4+ZOVS+R0PRswJc2QMYzy5QFtZANjXrwlKSri6oD74wthlVGhVL+uQVTmaVLlm9cz8UGGd1f7TDsGzp/BP9bHdn9XQoW5A8tvbxMAf6fXpD85Vg+hNeEbyD8CIJ/24xzAI3URd+KBHpcLl8GoE5SWAjTnkM7qQECcI50LMWOSitdOQMdeIQUYkKbB7o5E83QcMqdDynz6tMUtP/P47eONb5+z/JiAh33Sjvft3vnCzpMiDsvnqciNeWDyeP6TyqFTeUKHh5uS33cQbs=;HpDUpCJgabBY/6aUvP8tHA=="
 ---

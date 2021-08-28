@@ -133,20 +133,6 @@ related:
         width: 990
         height: 660
         isCached: true
-  - title: "‘Always there’: The AI chatbox comforting China’s lonely millions"
-    excerpt: "BEIJING: After a painful break-up from a cheating ex, Beijing-based human resources manager Melissa was introduced to someone new by a friend late"
-    publishedDateTime: 2021-08-24T04:56:00Z
-    webUrl: "https://www.thesundaily.my/world/always-there-the-ai-chatbox-comforting-china-s-lonely-millions-EB8245464"
-    type: article
-    provider:
-      name: The Sun
-      domain: thesundaily.my
-    quality: 39
-    images:
-      - url: "https://www.thesundaily.my/binrepository/480x320/0c57/480d250/none/11808/UJXY/china-computers-social-internet-000321_1857084_20210824125004.jpg"
-        width: 480
-        height: 250
-        isCached: true
   - title: "AI Chatbot Comforts China’s Lonely Millions"
     excerpt: "After a painful break-up from a cheating ex, Beijing-based human resources manager Melissa was introduced to someone new by a friend late last year. He replies to her messages at all hours of the day,"
     publishedDateTime: 2021-08-25T14:33:00Z

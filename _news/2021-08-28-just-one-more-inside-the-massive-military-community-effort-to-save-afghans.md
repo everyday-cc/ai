@@ -2,9 +2,9 @@
 category: news
 title: "‘Just one more’: Inside the massive military community effort to save Afghans"
 excerpt: "The company also bought Scion Analytics, a software firm which does natural language processing and some machine learning and artificial intelligence, providing “a large platform to parse through large volumes of disparate data sources.” Wilson’s ..."
-publishedDateTime: 2021-08-28T13:56:00Z
-originalUrl: "https://www.defensenews.com/news/pentagon-congress/2021/08/27/just-one-more-inside-the-massive-military-community-effort-to-save-afghans/?contentFeatureId=f0fDpLOjQEen8H9&contentQuery={\"section\"%3A\"%2Fhome\"%2C\"from\"%3A5%2C\"size\"%3A10%2C\"exclude\"%3A\"%2Fnews%2Fyour-military\"}"
-webUrl: "https://www.defensenews.com/news/pentagon-congress/2021/08/27/just-one-more-inside-the-massive-military-community-effort-to-save-afghans/?contentFeatureId=f0fDpLOjQEen8H9&contentQuery={\"section\"%3A\"%2Fhome\"%2C\"from\"%3A5%2C\"size\"%3A10%2C\"exclude\"%3A\"%2Fnews%2Fyour-military\"}"
+publishedDateTime: 2021-08-28T13:53:00Z
+originalUrl: "https://www.defensenews.com/news/pentagon-congress/2021/08/27/just-one-more-inside-the-massive-military-community-effort-to-save-afghans/"
+webUrl: "https://www.defensenews.com/news/pentagon-congress/2021/08/27/just-one-more-inside-the-massive-military-community-effort-to-save-afghans/"
 type: article
 quality: 21
 heat: 21
@@ -24,6 +24,6 @@ images:
     height: 768
     isCached: true
 
-secured: "DRBCoRfYmtw5wUnL3b1vhTfbrO3jRH6Z0MJQXTgWtMDSjQYVbVY1Ux8unt5WXK+9R35JngeV6wWylOwxDImScMGaxt6wY+eAdhw82/6i/0NahaEw4iLw97xoSb6kxbenyqRkvIiOUKfouDNdG7Oat82a5+X5GU3QKg/lzEgiYobwXhwZd1V8w7w9ScwoOwAwFRrTEcYHPvRvEcLU69nfWkjzx0pdf8o1+E35+0lLl8zNbIVoPeHC+QZdnP4FroN96+u3Ppvzgi3yjMjUZMCywdFW6E1IB2WPFHfBEpID/EnijTzbPFGyNowSXxxKA5QkmDtSTiWgXSKQh1yiyQn6MXopM/kXDBib3A/QGUvrU3TeM8TTVOd0S7n34iSHpijqMlnjtuULfaiTzn+aELLHlnAetOA+/a7tUm4ssLrRZ80HCuLtJe+qPK8M+6YE4ymgw3OC5aihF4ufBpLk4PRiCzDCq921s4QkVfM7qr5xmXEUjGTQz8lZq/pbXhv5yvDSYcQjsFl9ATLB71u4k+Cymg==;xp2fWuD7SLystYOPETunsQ=="
+secured: "YcTSjLXTw78obLoMEAh4VHk3vfGhKaA7iOPeZc791pHd3BA3uoe+sh45BY8DYvq1jP8On3M+Ihb3c0U3SsbCJeeZJqbHbOSFnWfLh1YkIplH37I6jDIZCwcKI6uTlaKQgllW6N0NlFdt/Vr52WMJHVzXfduarpFqpQeWI7OVppEBNJMp+olfqqzgeaIOuOblZEfOXCDtm8TVRbB68MsZ+J5soLVDURig9Kvt32Tqwa50mLNNwWWDC/fiM7bY/vCwgDX23chhELK1autno387BnRCm+xa10XQHh+Mke4maKdkWve86QmZkt70Kr+tPD02lpt9kDGiS9d9IGpBsAfmhvBJlduR5oxw24iE74i8akA=;X7DQ6vQ+G6EMcup0vGyI4w=="
 ---
 

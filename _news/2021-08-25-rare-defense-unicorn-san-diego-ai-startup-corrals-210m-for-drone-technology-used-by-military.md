@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "G7 to meet on Afghanistan deadline, Taliban recognition"
-    excerpt: "Leaders of the Group of Seven countries were set to discuss on Tuesday whether to seek an extension to a Aug. 31 deadline for the evacuation of thousands of people trying to flee Afghanistan and whether to recognise or sanction a Taliban government."
-    publishedDateTime: 2021-08-24T03:51:00Z
-    webUrl: "https://www.metro.us/g7-to-meet-on/"
-    ampWebUrl: "https://www.metro.us/g7-to-meet-on/amp/"
-    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/g7-to-meet-on/amp/"
-    type: article
-    provider:
-      name: Metro US
-      domain: metro.us
-    quality: 44
-    images:
-      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTopNews/tagreuters.com2021binary_LYNXMPEH7N02S-BASEIMAGE.jpg"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "ZkjLKeMAIsC33f49hbptUGZl6Witv6R1eayJYJHPFYiufc+2XrgnUfjgLQ6DhAmKhx/XAz3owTXDp70V8ddojgN8ijICeLaPg2yNxClUVghPrv59hkN0tMIN9y0NMJTVujTMde0OblMvc2OduDPFbqPtYQy0XcbJLUEN7DKOVnjeFUOKvIWlKgvXFHd/JK8ruGzifDW2ZeZxfE5Df6wQOhaaiOT9KMEGgwTNNjFWFr+VU0tSSS9lTVbHil4RQQssKn8xy1PF+n4lygRxEk4hdaIeYeJsLwQwu64yw0cgjKdAWXbg4DR1rVvTTif5KpnJNK5/ph+Jio8gQ3UTr19NESEKPlJEZosKCmrvKCQ2wnC4w3US8PhVbPRubfxtFVu9GqEueYc97NEUKTGW5UNGEztsBvrNzxhGHGgrUdNkrcbSQXqeMe4GLQ13j4VxkOy+21Si5Zp657umUn3SuP2Xs/+N1N51P8tqT7yDX10hzGDPHXXLIPlD6F8Dya/iWzRO76sUAuY1OaVX1/32edm6BA==;MyHm52bw0No4Y8RTPcomDg=="
 ---

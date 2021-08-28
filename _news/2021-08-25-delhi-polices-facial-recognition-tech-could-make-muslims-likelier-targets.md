@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scroll.in/article/1003602/delhi-polices-facial-recogniti
 cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/1003602/delhi-polices-facial-recognition-tech-could-make-muslims-likelier-targets"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 600
     height: 315
     isCached: true
-
-related:
-  - title: "The use of facial recognition by the Delhi police could make systemic biases against Muslims worse"
-    excerpt: "The Delhi police have been equipping their control room vehicles with facial recognition systems, and have already made at least 42 arrests with the help of this technology."
-    publishedDateTime: 2021-08-24T04:55:00Z
-    webUrl: "https://qz.com/india/2050652/delhi-polices-use-of-facial-recognition-could-hurt-muslims-more/"
-    ampWebUrl: "https://qz.com/india/2050652/delhi-polices-use-of-facial-recognition-could-hurt-muslims-more/amp/"
-    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/india/2050652/delhi-polices-use-of-facial-recognition-could-hurt-muslims-more/amp/"
-    type: article
-    provider:
-      name: Quartz
-      domain: qz.com
-    quality: 90
-    images:
-      - url: "https://cms.qz.com/wp-content/uploads/2021/08/2014-08-14T120000Z_1489987094_GM1EA8E1EM401_RTRMADP_3_INDIA-ANNIVERSARY-1-e1629695916520.jpg?quality=75&strip=all&w=1200&h=630&crop=1"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "VC8b+ddMWWdBzlYKlp8S1rbPb2JOn86UGlK704ZceZCanCc2JrkHfBYWll/zDyPVutXZiWoRB16+CKIl0o8KOrRLrXBPc9a387M0ApD8mRFbzLZMW1KvcrPVDyi+pHF69pbY8/rsGP9oIT/mk3A8cxWc5EJsEteqvkItdBiKTjhSRkmZx1LtJVXW8JkhLe5G9yKbAJtxE5AxqtDS+k/EupiIo7QZ6y0dF2MGu3RvYeSqIzDQv4PrrMiIzFNm8v8ooliOiEFrLHn+qnwtF5C3/dZhjb9i8hvs7MtfN4WD96MgFxWz/OUeLCPi2lq7DLI9VaSwgpa0CH/khEQPxdrB/vgeOGYmmGiHa3w0WCTyQvzmZ6hPo9/slW/U8JaM/eGCWF8yMZ8v5NlE9rWsV22nw1HBLLbFUgFumXczxzg7/aRL3WiGjezdXwtdAdxw8ChDUQmVpySeNFfQv34cjn5yfxrt6OKXn7g6Ej+7JG0AIYhfuo8UuzngeGZQprHQ5rCpxNQNshckFaQSdStuL1DxeQ==;YO3bMZoR5Ri8sBDGCPcSVg=="
 ---

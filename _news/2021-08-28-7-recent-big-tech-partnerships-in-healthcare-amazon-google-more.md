@@ -24,22 +24,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "What comes after Google Health? 9 things to know about the tech giant's next healthcare initiatives"
-    excerpt: "While Google looks to reorganize its health division by moving its projects and teams across several areas of the company, the tech giant plans to continue its healthcare push and strengthen future projects."
-    publishedDateTime: 2021-08-24T15:26:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/what-comes-after-google-health-9-things-to-know-about-the-tech-giant-s-next-healthcare-initiatives.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 25
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/3.jpg"
-        width: 400
-        height: 300
-        isCached: true
-
 secured: "2oQY+dNwD184bZRz+aAQRFDNa2VVP3/cE9As5WqLBRrfnEKjM+jAhNS3NeWb8PhfIo9P5fnDYhgYUjC4nDWLeQfHQeJPj7gDYQt9fxaYJf7W5yev6lh8pyQhKnONDNhskKa3YwnF2+vLQNhHlZPwzdmeu2YMKJ91oFB2tYbncfoGx1RjNncfy5AAojdEZzfqW5gBJIJbQef2QDyZ47LxRQL68LEkOLPY1daaee5GG0r2WQqn1rldJ4AOH4VuzCtR76lZSUnqephQUdfbpuej5uAYJt+2ygeKt6HmzjhCvxh07XrqDuMFw37fps0gXDrMVVJU8vGF+jR3GT6Atu094OHeoJM2YxnDyxIcGq0kjMs=;Jm0Fpg6gwWb1eBby+DzYng=="
 ---
 

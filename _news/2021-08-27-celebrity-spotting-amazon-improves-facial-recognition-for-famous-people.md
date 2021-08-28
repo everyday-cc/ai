@@ -8,7 +8,7 @@ webUrl: "https://www.zdnet.com/article/celebrity-spotting-amazon-improves-facial
 ampWebUrl: "https://www.zdnet.com/google-amp/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/"
 type: article
-quality: 90
+quality: 92
 heat: -1
 published: false
 
@@ -24,6 +24,7 @@ topics:
   - Microsoft AI
   - AI
   - Computer Vision
+  - AWS AI
 
 images:
   - url: "https://www.zdnet.com/a/hub/i/2021/08/27/0edfb3a5-a400-465b-86f8-f06782fe711e/amazon-rekognition-wener-vogels.jpg"

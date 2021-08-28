@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/0
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/08/26/bringing-people-back-to-life-with-the-power-of-ai-chatbots/amp/"
 type: article
 quality: 87
-heat: 217
+heat: 207
 published: true
 
 provider:
@@ -121,20 +121,6 @@ related:
       - url: "https://www.phnompenhpost.com/sites/default/files/field/image/melissa_uses_her_mobile_phone_to_message_her_virtual_boyfriend_-_a_chatbot_created_by_xiaoice_-_in_beijing._afp.jpg"
         width: 990
         height: 660
-        isCached: true
-  - title: "‘Always there’: The AI chatbox comforting China’s lonely millions"
-    excerpt: "BEIJING: After a painful break-up from a cheating ex, Beijing-based human resources manager Melissa was introduced to someone new by a friend late"
-    publishedDateTime: 2021-08-24T04:56:00Z
-    webUrl: "https://www.thesundaily.my/world/always-there-the-ai-chatbox-comforting-china-s-lonely-millions-EB8245464"
-    type: article
-    provider:
-      name: The Sun
-      domain: thesundaily.my
-    quality: 39
-    images:
-      - url: "https://www.thesundaily.my/binrepository/480x320/0c57/480d250/none/11808/UJXY/china-computers-social-internet-000321_1857084_20210824125004.jpg"
-        width: 480
-        height: 250
         isCached: true
   - title: "Putting The Fun Back Into Software Testing With AI"
     excerpt: "This work is rarely described as fun, so let's automate it. Is automation the answer to making testing fun again?"
