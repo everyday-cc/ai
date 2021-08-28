@@ -49,6 +49,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 22
+  - title: "Global $125+ Billion Database Management System (DBMS) Markets to 2026 with Oracle, Microsoft, IBM, SAP, Amazon AWS Dominating - ResearchAndMarkets.co"
+    excerpt: "The \"Global Database Management System (DBMS) Market Report and Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The global database management system (DBMS) market attained a value of approximately USD 63."
+    publishedDateTime: 2021-08-27T15:26:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=522548"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 16
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "C3pZo2EnDKkiMjheTWiI9VVxVZkQ7ubiyKlWWvSMC7coSR6W780dKdyncQH2hUkA8CheZ24xZRVIifI8tUWRmUBBr1gDRYC0M6Qh/F3ib38gkYVhMfZ+6rMvnBVV5oeVeNytrBsFqOYmlEKhQLgZSwmooRImYxBIYY99DZyfr7Te+a6om7SKzszmogk1Kjk8vv/EvO9wLgSyiwIquvkjLXuekwsOhN7akPFjkEifPUmhnP3BR31YCka0rHEe4QNjb6ymwSn2JAEu2+JMbcvxcUZH0mb1RL/zwR3TQxckTJHlEtcK1wk6PxvvKS2GMDjSTI0crIsODNFljEVXDZ3Ej5g4tUvAPi9cp5V32e3u6Ag=;ljkCXtQ+m2e75A6kkZ9Fzg=="
 ---

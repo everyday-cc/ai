@@ -93,20 +93,6 @@ related:
         width: 747
         height: 630
         isCached: true
-  - title: "Growth in AI-Enabled Distributed Energy Resources Integration Market to Reach $481 Million by 2030"
-    excerpt: "AI techniques have been deployed in the energy industry for a variety of grid and market operations. A new report from Guidehouse Insights analyzes AI capabilities for enabling distributed energy resources (DER) integration,"
-    publishedDateTime: 2021-08-25T17:12:00Z
-    webUrl: "https://www.tdworld.com/smart-utility/data-analytics/article/21173397/growth-in-aienabled-distributed-energy-resources-integration-market-to-reach-481-million-by-2030"
-    type: article
-    provider:
-      name: T&D
-      domain: tdworld.com
-    quality: 25
-    images:
-      - url: "https://img.tdworld.com/files/base/ebm/tdworld/image/2021/08/16x9/GettyImages_1321274917.612679572a572.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 674
-        isCached: true
   - title: "Global Cognitive Media Market to Reach $2.9 Billion by 2026"
     excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Cognitive Media - Global Market Trajectory & Analytics\". The report presents fresh perspectives"
     publishedDateTime: 2021-08-24T14:09:00Z
@@ -148,34 +134,6 @@ related:
       - url: "https://www.opalesque.com/images/GTE-Cap-Intro-Florida-(300x250).png"
         width: 300
         height: 250
-        isCached: true
-  - title: "United States Automotive Voice Recognition Systems Market Report 2021 - Forecast to 2026 - ResearchAndMarkets.com"
-    excerpt: "The “Automotive Voice Recognition Systems Market Research Report by Deployment, by State - United States Forecast to 2026 - Cumulative Impact of COVID-19” report has been added to ResearchAndMarkets.com’s offering."
-    publishedDateTime: 2021-08-24T14:32:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-united-states-voice-recognition-020d4caabfe8456fbe7b0856bbb2bf8f"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 3
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Global Federated Learning Market Research Report 2021: Leveraging Open Source Tools to Accelerate Technology Development across Organizations and Regi"
-    excerpt: "New Approach to Building AI Models\" report has been added to ResearchAndMarkets.com's offering. Federated learning is a distributed ML architecture that enables a global model to be trained using decentralized data."
-    publishedDateTime: 2021-08-23T14:23:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=519914"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
         isCached: true
 
 secured: "fH1vubkHprhZBbWOlpUCGvJR3Aiqn/JfKNk2V91FnFgxZmTFax40F9QvVVZPMz9kcsSy+wT8+P7Am2aIzr7VKL7TjZTWBR3UleKh9r0qBQHq+7nUNXhZyJVQNnOQ1O3iJ2YVXVGjngfKFIfgogzVqlGn0WjvgUuEEydUvUn/vtZogyyGZFsGA+Gvht+0bLZEPrKoZv3SUE+OVWJmRO7kfT0OSK2xYgyi/0UVmKdfTvCI4PyzbHyn4fXSWMDkclnra6bgkfHoVgDsyn6IJReVE8ThhTABCScCjn/unmC8v4lSyC/kPama4AMWaOElwMrFcG9rSPDupi9t+1jzHnk+djXexD71jXwDs645hOeHc/Y=;3wXfJc6ohWBeU30odRjNhg=="

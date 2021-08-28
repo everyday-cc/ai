@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Athreon Launches Front-End Speech Recognition Solution"
-excerpt: "Athreon, a leading business and knowledge process outsourcing company, announced today the launch of its new front-end speech recognition solution for healthcare. Athreon's speech recognition empowers physicians to focus on patient care versus administrative,"
-publishedDateTime: 2021-08-26T16:39:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-athreon-launches-front-end-speech-recognition-solution-/2021/08/26/9438228.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-athreon-launches-front-end-speech-recognition-solution-/2021/08/26/9438228.htm"
+excerpt: "Athreon, a leading business and knowledge process outsourcing company, announced today the launch of its new front-end speech recognition solution for healthcare. Athreon’s speech recognition empowers physicians to focus on patient care versus administrative,"
+publishedDateTime: 2021-08-26T14:13:00Z
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-business-937261d53fe91f0a1613f00fc9d48934"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-937261d53fe91f0a1613f00fc9d48934"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Recognize celebrities in images and videos using Amazon Rekognition"
@@ -32,6 +38,22 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/26/ML-5386-IMG1.jpg"
         width: 1645
         height: 785
+        isCached: true
+  - title: "Celebrity spotting: Amazon improves facial recognition for famous people"
+    excerpt: "Facial recognition AI used by police on the public remains a contentious issue, but Amazon is pressing ahead with its Rekognition technology for identifying celebrities in images and video. In May, Amazon extended its one-year ban from June 2020 on US ..."
+    publishedDateTime: 2021-08-28T04:25:00Z
+    webUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/"
+    ampWebUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 92
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/08/27/0edfb3a5-a400-465b-86f8-f06782fe711e/amazon-rekognition-wener-vogels.jpg"
+        width: 1054
+        height: 600
         isCached: true
   - title: "Celebrity spotting: Amazon improves facial recognition for famous people"
     excerpt: "Amazon promises its Rekognition machine-learning tech will save hours of humans tagging photos and videos of celebrities."
@@ -78,20 +100,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/27/Axis-Diagram.png"
         width: 1222
         height: 531
-        isCached: true
-  - title: "Why emotion recognition AI can’t reveal how we feel"
-    excerpt: "Thomas covers AI in all its iterations. Likes Werner Herzog films and Arsenal FC. Writer at Neural by TNW — Thomas covers AI in all its iterations. Likes Werner Herzog films and Arsenal FC. They found that people use different facial movements to communicate similar emotions."
-    publishedDateTime: 2021-08-23T14:30:00Z
-    webUrl: "https://thenextweb.com/news/emotion-recognition-ai-cant-determine-how-people-feel"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 69
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2FUntitled-design-12.jpg&signature=9484b0a25417f9c6eef95bb74ca53bfe"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Civil liberties groups demand ban on facial recognition technology"
     excerpt: "A group of civil society bodies has called on the Government to ban facial recognition cameras, while accusing police and the Home Office of bypassing Parliament over guidance for the use of the technology."
@@ -150,6 +158,6 @@ related:
         height: 499
         isCached: true
 
-secured: "kzLh1Sjd74aclH7LO2xqFGeg2bD9xEL62HM9KQHfN6tlVwFIrzxoLrS0nS9hFmxgyKoAW0WQ3+CnDQzpd+1E1VkC7onddIuo16FqN++pVCJOPw+fBO8Re/JJTMvOVRj3R2y6iiW3ppxQTsfOWjY0V6HTYgajfxydAs7s8Jsb85kU3o46vNccMtUCuiYEOQs1WudhSz0KO3QWMEyfVqdXF7tdQ0pNC76XTW7FX1FeyTR9YWSS88ukC9PlsQ4QNMwqCneAGc1ITDaBKF3ozpV1sMxOW9d7WUKDlFwZ32ksHIxSfnlHv8e2/IW1KI1KiMNgS5xcczIJPmyXWFbAzALjN+NYJbWZ1S9Tu0WFqQsfTUI=;9LbIK2ZDHqHCQNkySvtayQ=="
+secured: "FP1jbnq5uXg/cojqkXIXIPpHVBu4Mf5RaVcn894xn45tfQWKrkWbFA0hMFUlLLX4aQF3euKAGE06HH6PKhBkn1rvoho/+sT8HnmYenlXciWuwXIp56vIHqvjkZ+W+s6b4Trvtx82OQDEhKFmIGuwZqGsFjWhWOsnh90o3n0OSpBXE5teEgdWIAhkyo8UNH0E/K9RVkDJeMKWFxH2I3YirkC2o2xWiFDH4VKjk3UqDPqxpfakGbWXQICSgv2qUjp77qXKvcnaFyCESodZUrRL5DPiQGqTLzLfkKPzaKoShD0l4aDMKad2pyvz6FkuP0bk0omaGcz+t9/Sd8YPW5Ab++NfxgfvkIW0Q/Wu9DuDBx0=;2AjyZM+TJYocGBf/fjenDQ=="
 ---
 

@@ -2,6 +2,153 @@
   "page": 106,
   "value": [
     {
+      "path": "_news/2021-06-14-stem-artificial-intelligence-robotics-and-mechatronics-high-on-education-agenda-ntim-fordjour.md",
+      "title": "STEM, Artificial Intelligence, robotics, and mechatronics high on education agenda – Ntim Fordjour",
+      "excerpt": "The Deputy Education Minister-designate, Rev John Ntim Fordjour, has reiterated the commitment of the government to invest in the learning of STEM, robotics, Artificial Intelligence Mechatronics, the Internet of Things etc. which are critical skills ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.myjoyonline.com/stem-artificial-intelligence-robotics-and-mechatronics-high-on-education-agenda-ntim-fordjour/",
+      "originalUrl": "https://www.myjoyonline.com/stem-artificial-intelligence-robotics-and-mechatronics-high-on-education-agenda-ntim-fordjour/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.myjoyonline.com/wp-content/uploads/2021/06/GH.jpeg",
+          "width": 960,
+          "height": 688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.myjoyonline.com/stem-artificial-intelligence-robotics-and-mechatronics-high-on-education-agenda-ntim-fordjour/amp/",
+      "cdnAmpWebUrl": "https://www-myjoyonline-com.cdn.ampproject.org/c/s/www.myjoyonline.com/stem-artificial-intelligence-robotics-and-mechatronics-high-on-education-agenda-ntim-fordjour/amp/",
+      "publishedDateTime": "2021-06-14T08:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MyJoyOnline",
+        "domain": "myjoyonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2021-06-14-the-station-robotaxi-apps-on-the-rise-an-ai-pioneers-new-startup-and-mobility-event-highlights.md",
+      "title": "The Station: Robotaxi apps on the rise, an AI pioneer’s new startup and mobility event highlights",
+      "excerpt": "Hello and welcome back to The Station, a weekly newsletter dedicated to all the ways people and packages move (today and in the future) from Point A to Point B. Welp, the mobility event is over and we had loads of interesting interviews and anyone with an Extra Crunch subscription can access the",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/14/the-station-robotaxi-apps-on-the-rise-an-ai-pioneers-new-startup-and-mobility-event-highlights/",
+      "originalUrl": "https://techcrunch.com/2021/06/14/the-station-robotaxi-apps-on-the-rise-an-ai-pioneers-new-startup-and-mobility-event-highlights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/Argo-MIAMI-testing-ford.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/14/the-station-robotaxi-apps-on-the-rise-an-ai-pioneers-new-startup-and-mobility-event-highlights/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/14/the-station-robotaxi-apps-on-the-rise-an-ai-pioneers-new-startup-and-mobility-event-highlights/amp/",
+      "publishedDateTime": "2021-06-14T08:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-14-heres-how-ransomware-is-going-to-fiendishly-impede-ai-self-driving-cars.md",
+      "title": "Here’s How Ransomware Is Going To Fiendishly Impede AI Self-Driving Cars",
+      "excerpt": "Ransomware is striking everywhere, and for which you can expect it to inevitably be aimed at self-driving cars, sadly so.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/14/heres-how-ransomware-is-going-to-fiendishly-impede-ai-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/14/heres-how-ransomware-is-going-to-fiendishly-impede-ai-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 148,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c1262ac06e9d217142d1ce%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5995%26cropY1%3D372%26cropY2%3D4369",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/14/heres-how-ransomware-is-going-to-fiendishly-impede-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/14/heres-how-ransomware-is-going-to-fiendishly-impede-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2021-06-14T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-14-datarobot-exec-talks-humble-ai-regulation.md",
       "title": "DataRobot exec talks ‘humble’ AI, regulation",
       "excerpt": "Ted Kwartler, vice president of trusted AI at DataRobot, says AI models need to be humble enough to enable humans to keep them relevant.",
@@ -996,126 +1143,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-13-aws-announces-the-general-availability-of-amazon-ecs-anywhere.md",
-      "title": "AWS Announces the General Availability of Amazon ECS Anywhere",
-      "excerpt": "Susie Xia discusses the video encoding system used by Netflix, and the tools and techniques used to analyze performance and to improve the system efficiency. Ann Lewis discusses how MoveOn ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2021/06/amazon-ecs-anywhere-ga/?topicPageSponsorship=f8e43c6b-66c9-48f9-a4c6-0f0e1dc93f13",
-      "originalUrl": "https://www.infoq.com/news/2021/06/amazon-ecs-anywhere-ga/?topicPageSponsorship=f8e43c6b-66c9-48f9-a4c6-0f0e1dc93f13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2021/06/amazon-ecs-anywhere-ga/en/headerimage/header+%285%29-1623417711081.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-13T07:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-13-ibm-launches-watson-assistant-for-hospitality-to-enhance-guest-engagement.md",
-      "title": "IBM launches Watson Assistant for hospitality to enhance guest engagement",
-      "excerpt": "The assistant allows hotels to either combine the technology with existing digital voice, app or chat platforms or build a new one. IBM launches Watson Assistant for hospitality to enhance guest engagement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hoteliermiddleeast.com/operations/back-of-house/engineering-it/33274-ibm-launches-watson-assistant-for-hospitality-to-enhance-guest-engagement",
-      "originalUrl": "https://www.hoteliermiddleeast.com/operations/back-of-house/engineering-it/33274-ibm-launches-watson-assistant-for-hospitality-to-enhance-guest-engagement",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-13T04:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hoteliermiddleeast.com",
-        "domain": "hoteliermiddleeast.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-13-facial-recognition-for-fish-researchers-test-technology-on-asian-carp-in-battle-to-stop-invasive-species.md",
-      "title": "Facial recognition for fish? Researchers test technology on Asian carp in battle to stop invasive species",
-      "excerpt": "There may come a day on the Illinois River when a fish swims up a chute, slides through a scanner, and, after being recognized as a feared silver",
-      "sourceUrl": null,
-      "webUrl": "https://www.nny360.com/news/nationandworld/facial-recognition-for-fish-researchers-test-technology-on-asian-carp-in-battle-to-stop-invasive/article_e29ed078-70f9-5ebb-8a0e-9c40963a463f.html",
-      "originalUrl": "https://www.nny360.com/news/nationandworld/facial-recognition-for-fish-researchers-test-technology-on-asian-carp-in-battle-to-stop-invasive/article_e29ed078-70f9-5ebb-8a0e-9c40963a463f.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/nny360.com/content/tncms/assets/v3/editorial/b/35/b355d594-4d2f-563c-b887-96d7085d3dca/60c39695e1b63.image.jpg?resize=492%2C630",
-          "width": 492,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-13T03:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NNY360",
-        "domain": "nny360.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

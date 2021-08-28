@@ -46,6 +46,22 @@ related:
         height: 785
         isCached: true
   - title: "Celebrity spotting: Amazon improves facial recognition for famous people"
+    excerpt: "Facial recognition AI used by police on the public remains a contentious issue, but Amazon is pressing ahead with its Rekognition technology for identifying celebrities in images and video. In May, Amazon extended its one-year ban from June 2020 on US ..."
+    publishedDateTime: 2021-08-28T04:25:00Z
+    webUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/"
+    ampWebUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 92
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/08/27/0edfb3a5-a400-465b-86f8-f06782fe711e/amazon-rekognition-wener-vogels.jpg"
+        width: 1054
+        height: 600
+        isCached: true
+  - title: "Celebrity spotting: Amazon improves facial recognition for famous people"
     excerpt: "Amazon promises its Rekognition machine-learning tech will save hours of humans tagging photos and videos of celebrities."
     publishedDateTime: 2021-08-27T03:51:00Z
     webUrl: "https://www.zdnet.com/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/"
@@ -75,20 +91,6 @@ related:
         width: 1222
         height: 531
         isCached: true
-  - title: "Why emotion recognition AI can’t reveal how we feel"
-    excerpt: "Thomas covers AI in all its iterations. Likes Werner Herzog films and Arsenal FC. Writer at Neural by TNW — Thomas covers AI in all its iterations. Likes Werner Herzog films and Arsenal FC. They found that people use different facial movements to communicate similar emotions."
-    publishedDateTime: 2021-08-23T14:30:00Z
-    webUrl: "https://thenextweb.com/news/emotion-recognition-ai-cant-determine-how-people-feel"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 69
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2FUntitled-design-12.jpg&signature=9484b0a25417f9c6eef95bb74ca53bfe"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Civil liberties groups demand ban on facial recognition technology"
     excerpt: "A group of civil society bodies has called on the Government to ban facial recognition cameras, while accusing police and the Home Office of bypassing Parliament over guidance for the use of the technology."
     publishedDateTime: 2021-08-23T16:45:00Z
@@ -102,6 +104,20 @@ related:
       - url: "https://image.assets.pressassociation.io/v2/image/production/d6e4131765fe04e05c81ba7daa1efc67Y29udGVudHNlYXJjaGFwaSwxNjI5NzgyNjgx/2.61056894.jpg?w=640"
         width: 640
         height: 434
+        isCached: true
+  - title: "Athreon Launches Front-End Speech Recognition Solution"
+    excerpt: "Athreon, a leading business and knowledge process outsourcing company, announced today the launch of its new front-end speech recognition solution for healthcare. Athreon’s speech recognition empowers physicians to focus on patient care versus administrative,"
+    publishedDateTime: 2021-08-26T14:13:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-937261d53fe91f0a1613f00fc9d48934"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Facial Recognition Tech Use Increasing Among Federal Agencies"
     excerpt: "Use cases included criminal investigations, building security and access to digital assets like smartphones and security agency websites."
@@ -131,15 +147,6 @@ related:
         width: 860
         height: 520
         isCached: true
-  - title: "Athreon Launches Front-End Speech Recognition Solution"
-    excerpt: "Athreon, a leading business and knowledge process outsourcing company, announced today the launch of its new front-end speech recognition solution for healthcare. Athreon's speech recognition empowers physicians to focus on patient care versus administrative,"
-    publishedDateTime: 2021-08-26T16:39:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-athreon-launches-front-end-speech-recognition-solution-/2021/08/26/9438228.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
   - title: "Campaigners call for more recognition to mark International Day for the Remembrance of the Slave Trade and its Abolition"
     excerpt: "Leading Black history campaigners are calling for more recognition for International Slavery Remembrance Day, which is being celebrated today in the UK and internationally. The United Nations Educational,"
     publishedDateTime: 2021-08-23T19:26:00Z

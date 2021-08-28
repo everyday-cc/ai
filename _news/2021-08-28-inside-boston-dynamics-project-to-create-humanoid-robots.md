@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/27/inside-boston-dynamics-project-to
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/27/inside-boston-dynamics-project-to-create-humanoid-robots/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Boston Dynamics' Atlas robot failing at parkour is strangely humbling"
-    excerpt: "We knew the Boston Dynamics robots could dance, but this is something else. Now, the company's much loved Atlas robot has learned to bust some gnarly parkour moves, backflips and all (above), but there's a pretty sensational blooper reel to go along with it (further down)."
-    publishedDateTime: 2021-08-23T13:26:00Z
-    webUrl: "https://www.pcgamer.com/boston-dynamics-robots-doing-parkour/"
-    ampWebUrl: "https://www.pcgamer.com/amp/boston-dynamics-robots-doing-parkour/"
-    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/boston-dynamics-robots-doing-parkour/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 74
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/GyB5QLSxRo98gBwSKCvTQm-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Inside Boston Dynamics’ project to create humanoid robots"
     excerpt: "Boston Dynamics’ Atlas, is a humanoid robot that has become popular for showing unrivaled ability in jumping over obstacles, doing backflips, and dancing."
     publishedDateTime: 2021-08-25T09:34:00Z
@@ -62,6 +46,6 @@ related:
         height: 640
         isCached: true
 
-secured: "kbo7RAJ5ly8inZeI/Hw+/3vJKG8DznXwHc5ecf0onIzGf4GHUlqIsDvlnElejBAkfzIunKmEfLlwaI5f8ZYcF4HH3zb85mJ18uRASCyCl1GpinwrnYGTjg7m836K7gE5CYZjUpbhpnI3DrU08BnVT/Tkh0tGAICOfuRVZlyVFvEOwf1LDbj9pHmSTJHH8T/o0vXHgZZyyKDccOzG4izKSYaCSOALjoFNru544pSIGZXKaXBn0c6h4wGIsBT7HNzpNyJI29VeShe9qZ1LIsgJTBPzXqoWomTWC1y/7YwM0aBUlU5710baZpN1WjaQNfchDnJlNMSZ477euvwo0o3f59W9yM0kIjCyxNL8kFsprY0=;V7mJS/ct4sXL+7p2ScAh+w=="
+secured: "bbF2AKfDpUF/g4KKteYorNbDOq7NL79uUdkRMG6gMqJ8jmbb2Ns85e9RNZdvxnOKUPOE0qk6GfquJG14oG5T5i47Njo85IzsHuhIMEBx/5JibjwXk/MAe1YuLnIZ3zyJ+6GO++dWVQI77PijY4t7y77G3xqJPGBljt2V3Aw5VF7XbNLjZvb4hADbneY8eH/5rbOIpjzslcK/A473bO9gACvpCPWC/81upLHeDZzAFfRHYdgmWShVWqpYYrmjQyLAUmSuGEATnqQ0h+4Bqt+rpSsEQ7EIVYN+zl3T56Up6nXIxTq72KIbPkQBXeweTkXp/ZdjnxYt7MnANPel/I/AfCl7bXPw4a2sD3AoLAMn8ak5KX5epkmdmHmWkygIXB2sRazEtpCiDm/0hRkjCqMtTszXU4vdFazX+gxeeQKKu/D6XX5V6teBE6Ompo5YZ++Yss8q28RMUkM1xviTZMRGotntf46l+VKIVAaGMdYA8z8pxJ/JqF3++NR0LgAu15P+9QCd9tZ4wcQx3J98TiVHUQ==;R8ujrJtmORxlIP6NrOnBog=="
 ---
 

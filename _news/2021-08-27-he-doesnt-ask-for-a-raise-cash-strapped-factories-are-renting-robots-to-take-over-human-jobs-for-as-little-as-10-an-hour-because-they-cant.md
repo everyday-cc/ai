@@ -43,6 +43,15 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "Factbox-Investors Are Betting on Rent-A-Robot Startups in Silicon Valley"
+    excerpt: "Silicon Valley has a new pitch for small U.S. manufacturers struggling with hiring workers but wary of the high costs of high tech: rent-a-robot. Much of the initial risk and cost are taken on by the robot companies."
+    publishedDateTime: 2021-08-26T10:27:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-08-26/factbox-investors-are-betting-on-rent-a-robot-startups-in-silicon-valley"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 48
 
 secured: "yE8ZDW8i0snpUkabcIdfUWY3FNWWEg0iyIhL5qQjMGvXSdud62ceLAJ6ovBhUwvxua8x+2QSg9z8J6qjr/JZXlp714qadyJ9V48Ezpq7SXgoeVBvBMsIotcTuWyguQt5Ad5vJkW3e/iJcAKJs2SO/sGII90xlKhcamf/1JY22zieDD/WShYzrX60sGSQabRzi2QCape+BxtyRzeYqqhbV5/Xz0BdNs8ppPQwraWDxp7aMpjFwC9rEDFs0/V/X0E82PcrTu5xoD5v8WEtWV4uv6Cax0w+5nIVkWu4KnN9510v06PhSYtTFsXot72RUYl4TyCME8tNqa4v+Hl9PphPYU+E+prw/XJ1N9+tuBLaXUWtyk/w27mD2CWf05u6J3tJobRNYkD7Aieg9WZbQsVTQMEitFBwOLiENsN0+haOeHUOYZnf73Z4Y3byJEotgLqkg4Rspw3U0+d7uXY6VWuJqnzpILBVu+RwW9nV+ame3PpHfM4rt5jsQvG4JGIJ99j0JyUvudxRseF1KKMZtUjVwQ==;h+OBDtQc4uMaPvNK86fA+A=="
 ---

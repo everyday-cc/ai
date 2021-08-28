@@ -68,34 +68,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Monolith AI Raises £8.5M in Series A Funding"
-    excerpt: "Monolith AI, a UK AI engineering software company, raised £8.5M in Series A funding. The round was led by Insight Partners with participation from existing investors Pentech and Touchstone, Alejandro Agag,"
-    publishedDateTime: 2021-08-23T14:38:00Z
-    webUrl: "https://www.finsmes.com/2021/08/monolith-ai-raises-8-5m-in-series-a-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 37
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2021/08/2021-Aug-F1-Dashboard-v1.1-1.png"
-        width: 1250
-        height: 768
-        isCached: true
-  - title: "Covera Health Raises $25M in Series C Financing to Fuel Growth of Its Healthcare Quality Analytics Platform"
-    excerpt: "Covera Health, the leading quality analytics company focused on improving patient care by reducing medical errors, today announced its Series C financing. The $25M funding was led by global venture capital and private equity firm Insight Partners with participation from existing investors including Equity Group Investments."
-    publishedDateTime: 2021-08-23T13:02:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-08ae26b203374af0810bc483579064cd"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 36
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "Z3uioBQqLhDM+ls68BFSunmbdT92j0z6rwyJRa1wXVJArJdButc3lz4hLNmdVZDfI7qHNt3oYpxJKVlQlfn2Z4BobZi9jRuqINPIoqDLITJTBLAUDlwhpcZmKs3E8raLhSQd5zcFJVSiXCfipyB4Rh1MyIm/TEiEWsWpZ5Jne7FCYrRVtTa+c2gCIB1WOc1YsalQA+C0UHykuYjRU12kUMNmqBojYkFn8Bm2dC7IMlXk/6oTnUE5DoMhhNmZj1r43vG9XaaSUn5p5pZpzm1dccw79ZUc9thCRz5Xse/NzeXJvBy3M1N6+kJ5MDx7dmITETejydOLPYOMz0dI/rR34yyGUnoE2hKSK54v1nVpLCs=;sKhOPkBddqAAruBZmSSuFQ=="
 ---

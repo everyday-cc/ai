@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-25-unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies.md",
+      "title": "UniSA researchers develop AI facial recognition tech to monitor premature babies",
+      "excerpt": "University of South Australia boasts the AI-based system it has developed to remotely monitor the vital signs of babies rival the accuracy of ECG.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies/",
+      "originalUrl": "https://www.zdnet.com/article/unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/08/25/32645fe4-b490-47ff-b6fb-afe88e18ae83/jimaging-07-00122-g004.jpg",
+          "width": 3825,
+          "height": 1528,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies/",
+      "publishedDateTime": "2021-08-25T01:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-25-microsoft-teams-now-teachers-can-monitor-students-reading-fluency-with-ai.md",
       "title": "Microsoft Teams: Now teachers can monitor students' reading fluency with AI",
       "excerpt": "Reading Progress will help teachers build students' confidence and reading fluency at a time when face-to-face contact is less frequent.",
@@ -1130,64 +1182,21 @@
       ]
     },
     {
-      "path": "_news/2021-08-24-mynd-integrated-solutions-acquires-artificial-intelligence-platform-move78c.md",
-      "title": "Mynd Integrated Solutions acquires Artificial Intelligence Platform Move78(c)",
-      "excerpt": "Mynd Integrated Solutions, one of the leading Finance & Accounting (F & A) and HR outsourcing partners for businesses, awarded by NASSCOM in the AI & ML category, has acquired Move78(c)[?] platform fr",
+      "path": "_news/2021-08-24-applying-artificial-intelligence-to-paint-shop-robots.md",
+      "title": "Applying Artificial Intelligence to Paint Shop Robots",
+      "excerpt": "Dürr expands it use of artificial intelligence to help automotive paint shops incorporate robots into existing operations for quality and plant availability applications.",
       "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/content/press-releases-ani/mynd-integrated-solutions-acquires-artificial-intelligence-platform-move78-c-121082401358_1.html",
-      "originalUrl": "https://www.business-standard.com/content/press-releases-ani/mynd-integrated-solutions-acquires-artificial-intelligence-platform-move78-c-121082401358_1.html",
+      "webUrl": "https://www.automationworld.com/analytics/article/21627143/artificial-intelligence-for-paint-shop-robots",
+      "originalUrl": "https://www.automationworld.com/analytics/article/21627143/artificial-intelligence-for-paint-shop-robots",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-08/24/full/20210824204718.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/content-amp/press-releases-ani/mynd-integrated-solutions-acquires-artificial-intelligence-platform-move78-c-121082401358_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/mynd-integrated-solutions-acquires-artificial-intelligence-platform-move78-c-121082401358_1.html",
-      "publishedDateTime": "2021-08-24T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-a-rare-military-tech-unicorn-looks-past-afghanistan-war.md",
-      "title": "A Rare Military Tech Unicorn Looks Past Afghanistan War",
-      "excerpt": "Shield AI initially made drones to protect ground troops, but it has raised $210 million to expand to larger aircraft in more complicated situations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-08-24/afghanistan-war-turns-u-s-military-drone-startup-shield-into-unicorn",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-08-24/afghanistan-war-turns-u-s-military-drone-startup-shield-into-unicorn",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7qI4DSMYKl8/v0/1200x630.jpg",
-          "width": 1200,
-          "height": 630,
+          "url": "https://img.automationworld.com/files/base/pmmi/all/image/2021/08/image004.6125130446ab6.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
+          "width": 646,
+          "height": 462,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1197,21 +1206,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-24T08:00:00-07:00",
+      "publishedDateTime": "2021-08-24T08:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Automation World",
+        "domain": "automationworld.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1220,7 +1220,7 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "AI in Robotics",
         "AI"
       ]
     }

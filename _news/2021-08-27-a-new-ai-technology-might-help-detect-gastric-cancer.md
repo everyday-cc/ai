@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lakenbrooks/2021/08/27/a-new-ai-technol
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lakenbrooks/2021/08/27/a-new-ai-technology-might-help-detect-gastric-cancer/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-912319336.jpg"
         width: 690
         height: 400
-        isCached: true
-  - title: "New AI technology can empower the fight against criminals and terrorists by tracking their illicit money flows"
-    excerpt: "The TRACE project will provide law enforcement agencies with a solution to better identify and disrupt illicit money trails"
-    publishedDateTime: 2021-08-23T14:23:00Z
-    webUrl: "https://taxjustice.net/press/new-ai-technology-can-empower-the-fight-against-criminals-and-terrorists-by-tracking-their-illicit-money-flows/"
-    type: article
-    provider:
-      name: Tax Justice Network
-      domain: taxjustice.net
-    quality: 21
-    images:
-      - url: "https://taxjustice.net/wp-content/uploads/2021/02/newspaper-scaled.jpg"
-        width: 2560
-        height: 1707
         isCached: true
 
 secured: "JJZZuEJRM0/tWAQ13VOkus4lv5iFuRowthEozcdJyf0866ofqeHo1RjLy1UiYWSU55/5R2IEg8faRLCjBQDPJWdy9ekKeD8KQvt1On0XXz2k3vNUYtoaq7K+SRW4dbya/tg4o4/hbEc6iZ+7ifz5SSfCkUPgKgoknA7fH4Y9YfAnlb47VyYLa8c0sfmLLF+nZa7ica8kR0dZqrjw+avZrwRpdyw/fpOwkFBRE2ZuepojYqa8rXFaq22lw6wG3bnSY+HouA9ip8v1mko0Taod8ABba3ck8nmldSoUBgsORzHXwP7DSf18b+gKSO9QZOPugP/TX0YUPW0DuIdVUjJ3SFDszHr66wwIiThhJ3bDXoNFCkf/cf04l8v2gKYcPL/Qmz+JSp/+Cf2Wj5Ztb70cjhf/3SH86B/y9sJ/IoYJofVkDBNiwzxjMe9Kg8VH2A6bX1e9LfNU1Lec1QbwHfWNwfHJlFdEUHLeVXl7eLEbF/a2paSGDvwLSV902zaSfUJXpYKnrWArI8e2HQoVkN9BdA==;ERazrsuw6rN8ZJr+G4oeTA=="

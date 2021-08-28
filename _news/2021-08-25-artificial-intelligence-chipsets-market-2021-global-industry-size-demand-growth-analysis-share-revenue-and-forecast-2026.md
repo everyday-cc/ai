@@ -169,17 +169,6 @@ related:
         width: 400
         height: 252
         isCached: true
-  - title: "Artificial Intelligence Market Share Forecast to Witness Considerable Growth from 2020 To 2030"
-    excerpt: "Artificial Intelligence Market Introduction Transparency Market Research delivers key insights on the global artificial intelligence market In terms of revenue the global artificial intelligence market is estimated to expand at a CAGR of 29 during the forecast period owing to"
-    publishedDateTime: 2021-08-23T14:41:00Z
-    webUrl: "https://www.openpr.com/news/2364154/artificial-intelligence-market-share-forecast-to-witness"
-    ampWebUrl: "https://www.openpr.com/amp/2364154/artificial-intelligence-market-share-forecast-to-witness"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2364154/artificial-intelligence-market-share-forecast-to-witness"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 29
   - title: "Deep Learning in Healthcare Market Size, Share 2020 Industry Growing Rapidly with Recent Demand, Trends, Development , Revenue by 2027"
     excerpt: "The Global Deep Learning in Healthcare Market research delves into detailed and insightful data on important variables such as regional growth segmentation and CAGR The research contains a broad overview of the industry as well as a detailed explanation with"
     publishedDateTime: 2021-08-26T07:31:00Z

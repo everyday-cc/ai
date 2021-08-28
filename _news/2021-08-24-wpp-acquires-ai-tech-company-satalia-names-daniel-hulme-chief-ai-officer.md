@@ -40,20 +40,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Communications giant acquires AI technology company in digital ramp up"
-    excerpt: "London headquartered communications multi-national WPP has announced that it has acquired Satalia, an AI technology company for an undisclosed sum. Satalia… | London | Digital | Technology | Technolog"
-    publishedDateTime: 2021-08-23T13:06:00Z
-    webUrl: "https://bdaily.co.uk/articles/2021/08/23/communications-giant-acquires-ai-technology-company-in-digital-ramp-up"
-    type: article
-    provider:
-      name: Bdaily Business Network
-      domain: bdaily.co.uk
-    quality: 39
-    images:
-      - url: "https://bdaily.co.uk/images/uploads/Yd1iOp5VdToWzLaqtAmpnnGyYqGNIRwcS3LZj3su.jpeg?w=940&h=430&fm=jpg&fit=crop-36-2&s=a5dc5d2d0486f936cb6a607ac0c09053"
-        width: 940
-        height: 430
-        isCached: true
   - title: "WPP acquires AI company Satalia"
     excerpt: "As part of the merger, Satalia will join Wunderman Thompson Commerce and lead AI strategy across all WPP agencies"
     publishedDateTime: 2021-08-24T04:17:00Z

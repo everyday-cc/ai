@@ -149,20 +149,6 @@ related:
         width: 936
         height: 570
         isCached: true
-  - title: "IBM unveils on-chip AI accelerator for fraud detection"
-    excerpt: "IBM has unveiled its long-awaited ‘Telum’ chip, built with AI inference acceleration that will allow for fraud detection while a transaction is occurring. The new processor was showcased at the annual Hot Chips conference with the first Telum-based system planned for 2022."
-    publishedDateTime: 2021-08-23T13:55:00Z
-    webUrl: "https://www.techcentral.ie/ibm-unveils-on-chip-ai-accelerator-for-fraud-detection/"
-    type: article
-    provider:
-      name: Mozilla
-      domain: techcentral.ie
-    quality: 54
-    images:
-      - url: "https://www.techcentral.ie/wp-content/uploads/2021/08/IBM_Telum.jpg"
-        width: 620
-        height: 349
-        isCached: true
   - title: "IBM unveils AI processor chip to help financiers deal with fraud"
     excerpt: "The AI processor chip is expected to help businesses move towards a fraud prevention posture from a fraud detection posture."
     publishedDateTime: 2021-08-24T13:42:00Z

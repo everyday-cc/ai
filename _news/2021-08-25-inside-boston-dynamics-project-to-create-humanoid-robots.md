@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Boston Dynamics' Atlas robot failing at parkour is strangely humbling"
-    excerpt: "We knew the Boston Dynamics robots could dance, but this is something else. Now, the company's much loved Atlas robot has learned to bust some gnarly parkour moves, backflips and all (above), but there's a pretty sensational blooper reel to go along with it (further down)."
-    publishedDateTime: 2021-08-23T13:26:00Z
-    webUrl: "https://www.pcgamer.com/boston-dynamics-robots-doing-parkour/"
-    ampWebUrl: "https://www.pcgamer.com/amp/boston-dynamics-robots-doing-parkour/"
-    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/boston-dynamics-robots-doing-parkour/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 74
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/GyB5QLSxRo98gBwSKCvTQm-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "PTVPGcjYcVaq+N1ICHT8xYuDcDB1z1wCYQ74vBZIHwnaxG0+NaANTX2CvuTF3dVant/QAlRChkH+lTtkpBiPyqmlLRsRnz1+vyUTspGlf3BKcpve0NB7HC+YCcYc5djEQU7rZfJD6ARpgiDmreDao5uvVrc1uXVS5tQ6f3OibirLsLk7AJxlghXjJ8rrSuPzoMT4TIpO1y75GJqaE1sLdsnI+LKpeZNhrFrXDdMsrIS9Kr+O/cKxb8ua83YuDaXHaaDG200PrxYKCzeyyJ47EO4OV63EW9Ef2hGS1lXrunCfbc4kksB+exX6gxDeGvGd5cdR6ZmShfo09y9yKJiLKsleDsKYTaaMiLt60LZY1JRDsBs5OjXVoKePjiaL4DWT5duyXh5ZymSBOUllGTAmiqhYty0pP9YBMKogmBCVJKiyEQqG+RnsX3J1tFbLeYikFG3KyHPPXyMHD/3/r91IESpia6fd0eouaClaiwRzlq06CqISfNZU3Q0P/4JfCDhd401v1wbsbwr0wt9eJ2uRzA==;+nXiapcDLgur0ajW9zvyeA=="
 ---

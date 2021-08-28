@@ -81,20 +81,6 @@ related:
         width: 747
         height: 630
         isCached: true
-  - title: "Growth in AI-Enabled Distributed Energy Resources Integration Market to Reach $481 Million by 2030"
-    excerpt: "AI techniques have been deployed in the energy industry for a variety of grid and market operations. A new report from Guidehouse Insights analyzes AI capabilities for enabling distributed energy resources (DER) integration,"
-    publishedDateTime: 2021-08-25T17:12:00Z
-    webUrl: "https://www.tdworld.com/smart-utility/data-analytics/article/21173397/growth-in-aienabled-distributed-energy-resources-integration-market-to-reach-481-million-by-2030"
-    type: article
-    provider:
-      name: T&D
-      domain: tdworld.com
-    quality: 25
-    images:
-      - url: "https://img.tdworld.com/files/base/ebm/tdworld/image/2021/08/16x9/GettyImages_1321274917.612679572a572.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 674
-        isCached: true
   - title: "Global Cognitive Media Market to Reach $2.9 Billion by 2026"
     excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Cognitive Media - Global Market Trajectory & Analytics\". The report presents fresh perspectives"
     publishedDateTime: 2021-08-24T14:09:00Z
@@ -137,20 +123,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "United States Automotive Voice Recognition Systems Market Report 2021 - Forecast to 2026 - ResearchAndMarkets.com"
-    excerpt: "The “Automotive Voice Recognition Systems Market Research Report by Deployment, by State - United States Forecast to 2026 - Cumulative Impact of COVID-19” report has been added to ResearchAndMarkets.com’s offering."
-    publishedDateTime: 2021-08-24T14:32:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-united-states-voice-recognition-020d4caabfe8456fbe7b0856bbb2bf8f"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 3
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Guidehouse Insights Report Anticipates Growth in the AI-Enabled Distributed Energy Resources Integration Market to Reach $481 Million by 2020"
     excerpt: "A new report from Guidehouse Insights analyzes AI capabilities for enabling distributed energy resources (DER) integration, including a discussion of key industry trends, applications, market drivers and barriers,"
     publishedDateTime: 2021-08-24T09:16:00Z
@@ -164,20 +136,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "Global Federated Learning Market Research Report 2021: Leveraging Open Source Tools to Accelerate Technology Development across Organizations and Regi"
-    excerpt: "New Approach to Building AI Models\" report has been added to ResearchAndMarkets.com's offering. Federated learning is a distributed ML architecture that enables a global model to be trained using decentralized data."
-    publishedDateTime: 2021-08-23T14:23:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=519914"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
         isCached: true
 
 secured: "sQJOFLWnVNt196EBiuBQBkySEkkjEMoBXezcri4TQk2LJldUMPg8tqo8Ao6A9212+Y8oQGsxDejOgG7+wcYRrfEBwaOfQPcXAxK6G1rSRrsX2kD18DW5gn7ItPL7Z9u1lyqp62z8xHaqjERgGQf5LCa+N6NDVjnNM/0jG8bYkpAw6kj68vG9CHSAnty9MCzsSyqvpECVymCPkvq/ZCwgM24X+kzjR5HcOd2PU4KiUJc3D5bbOngsXD2FMIPz6zWI5AKueIzIARauXQt3QEVT+3fNFkB+sTZ/mNT6veKUEFhhQ4z3lFnagrP5gOEcuhZg5vTb0//hG6+xUzTuE6AlkFB0MDDwy2ZNYfJhV7u4IvRPs/KjybjMSNalBrglzVECEeT8aDoQauIkDWltNpcLcxn2/Vq5q9kkYCtzy9N/KvoLJ7NCTelQhr1pAzU2Nld256t8dRz5AjgS7LdOXNP2YqMcE+EFP9HJrBoqEPro9KZkPGNyjP0PO5FLREH9jdgaixXWq56Hz4ZgZb0zPnt1uA==;ILkaDXrzIoe4THYHmCuIeg=="

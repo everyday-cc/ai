@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9928905/amp/FOCUS-Re
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9928905/amp/FOCUS-Rent-robot-Silicon-Valley-s-new-answer-labor-shortage-smaller-U-S-factories.html"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Factbox-Investors Are Betting on Rent-A-Robot Startups in Silicon Valley"
+    excerpt: "Silicon Valley has a new pitch for small U.S. manufacturers struggling with hiring workers but wary of the high costs of high tech: rent-a-robot. Much of the initial risk and cost are taken on by the robot companies."
+    publishedDateTime: 2021-08-26T10:27:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-08-26/factbox-investors-are-betting-on-rent-a-robot-startups-in-silicon-valley"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 48
   - title: "'He doesn't ask for a raise': Cash-strapped factories are renting ROBOTS to take over human jobs for as little as $10 an hour because they can't afford increased wage demands"
     excerpt: "Companies struggling with a labor shortage and rising salaries are turning to robots for automated work and for those who can't afford a big expense, they're renting robots for as little as $10 per hour."
     publishedDateTime: 2021-08-26T17:29:00Z

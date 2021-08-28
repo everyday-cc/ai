@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ibms-new-telum-proce
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibms-new-telum-processor-is-the-companys-first-with-an-on-chip-ai-accelerator/"
 type: article
 quality: 100
-heat: 260
+heat: 250
 published: true
 
 provider:
@@ -138,20 +138,6 @@ related:
       - url: "https://www.plant.ca/wp-content/uploads/2021/08/image001-1.jpg"
         width: 936
         height: 570
-        isCached: true
-  - title: "IBM unveils on-chip AI accelerator for fraud detection"
-    excerpt: "IBM has unveiled its long-awaited ‘Telum’ chip, built with AI inference acceleration that will allow for fraud detection while a transaction is occurring. The new processor was showcased at the annual Hot Chips conference with the first Telum-based system planned for 2022."
-    publishedDateTime: 2021-08-23T13:55:00Z
-    webUrl: "https://www.techcentral.ie/ibm-unveils-on-chip-ai-accelerator-for-fraud-detection/"
-    type: article
-    provider:
-      name: Mozilla
-      domain: techcentral.ie
-    quality: 54
-    images:
-      - url: "https://www.techcentral.ie/wp-content/uploads/2021/08/IBM_Telum.jpg"
-        width: 620
-        height: 349
         isCached: true
   - title: "IBM releases new AI fraud prevention chip"
     excerpt: "IBM is set to launch a new chip, named Telum, which it said includes ‘AI inferencing acceleration’ that could help stop fraud.<br /> <br /> The tech giant said that complex fraud detection often cannot be completed in real-time due to latency."

@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "The Free-Speech Case for Facial Recognition | Opinion"
-    excerpt: "The right to communicate anonymously is important, but most would agree it shouldn't extend to people who commit violent crimes."
-    publishedDateTime: 2021-08-27T10:00:00Z
-    webUrl: "https://www.newsweek.com/free-speech-case-facial-recognition-opinion-1623006"
-    ampWebUrl: "https://www.newsweek.com/free-speech-case-facial-recognition-opinion-1623006?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/free-speech-case-facial-recognition-opinion-1623006?amp=1"
+  - title: "UniSA researchers develop AI facial recognition tech to monitor premature babies"
+    excerpt: "University of South Australia boasts the AI-based system it has developed to remotely monitor the vital signs of babies rival the accuracy of ECG."
+    publishedDateTime: 2021-08-25T08:17:00Z
+    webUrl: "https://www.zdnet.com/article/unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies/"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 91
+      name: ZDNet
+      domain: zdnet.com
+    quality: 99
     images:
-      - url: "https://d.newsweek.com/en/full/1880796/charlottesville-rally-anniversary.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://www.zdnet.com/a/hub/i/2021/08/25/32645fe4-b490-47ff-b6fb-afe88e18ae83/jimaging-07-00122-g004.jpg"
+        width: 3825
+        height: 1528
         isCached: true
   - title: "Civil liberties groups demand total ban on facial recognition technology"
     excerpt: "Amnesty International, Liberty and Privacy International join more than 30 organisations warning that the police, Home Office, and councils are misusing the intrusive technology"
@@ -57,47 +57,19 @@ related:
         width: 1185
         height: 585
         isCached: true
-  - title: "Can facial recognition tech be stopped?"
-    excerpt: "In recent years, facial recognition technology has been introduced into our lives in various benign ways. The ease of using it to unlock our phones, make purchases, replace passwords, and manage"
-    publishedDateTime: 2021-08-23T23:02:00Z
-    webUrl: "https://www.spectator.com.au/2021/08/can-facial-recognition-tech-be-stopped/"
+  - title: "Researchers develop computer vision system that can detect babies’ faces while monitoring their vital signs"
+    excerpt: "University of South Australia researchers have developed a computer vision system that can automatically detect a tiny baby’s face in a hospital bed and remotely monitor its vital signs from a ..."
+    publishedDateTime: 2021-08-25T02:04:00Z
+    webUrl: "https://itwire.com/health/researchers-develop-computer-vision-system-that-can-detect-babies’-faces-while-monitoring-their-vital-signs.html"
     type: article
     provider:
-      name: spectator.com.au
-      domain: spectator.com.au
-    quality: 39
+      name: ITWire
+      domain: itwire.com
+    quality: 21
     images:
-      - url: "https://spectatorau.imgix.net/content/uploads/2021/08/GettyImages_1316601599.jpe?auto=compress,enhance,format&crop=faces,entropy,edges&fit=crop&w=768&h=511"
-        width: 768
-        height: 511
-        isCached: true
-  - title: "SA trials facial recognition for home quarantine"
-    excerpt: "South Australia is trialing an app that will monitor people who are in home quarantine by checking geo-location data and scanning their faces. The trial, which began on Monday, allows around 50 South Australian residents returning from interstate to conduct their 14 days of mandatory quarantine from home."
-    publishedDateTime: 2021-08-24T01:58:00Z
-    webUrl: "https://ia.acs.org.au/article/2021/sa-trials-facial-recognition-for-home-quarantine.html"
-    type: article
-    provider:
-      name: acs.org.au
-      domain: acs.org.au
-    quality: 39
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2021/facial%20recognition%20app.jpg"
-        width: 789
-        height: 444
-        isCached: true
-  - title: "US federal agencies plan to increase facial recognition use, GAO report says"
-    excerpt: "Three-quarters of U.S. federal agencies surveyed for a Government Accountability Office (GAO) report are already using facial recognition."
-    publishedDateTime: 2021-08-26T21:42:00Z
-    webUrl: "https://www.biometricupdate.com/202108/us-federal-agencies-plan-to-increase-facial-recognition-use-gao-report-says"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 38
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
-        width: 1800
-        height: 734
+      - url: "https://itwire.com/media/k2/items/cache/d6e9a99bcc506a7f9bc937a9775af303_M.jpg"
+        width: 375
+        height: 272
         isCached: true
 
 secured: "970+pbbAexPuwcfzX/7xRdDrfryEs6VAX+30GVWnwfC9AGT2Luq6UcZYChqyu1oyLlDcoKelqlklUMb6eds2zxZs7UmqcWQNlfG/N3IyibXmRttH/aG/axjQv24FlvSoAjcjDzEPLuQabSvCRNcoKtkxqfgQ5WLLK6DUVYGLmnw2lE3xcCi3r594fneMOHAU/yg3Mq1U5KdYuZwcke3C7SN+WT9sJEUXj9G2frTm0YIVG4PuZ/iysrh7MWnHys832UnnD5ZAC/62gt7y/X/i9Kp2ywqE99YxFNqTr9GQrkUPjMdLveH03iPcFGpKoKy3J/mjyfVjpECblF9aIBfxpL8Wv0qodcLRykA///OAAgk=;IoLl1+/gEPLeIQTZeXEScg=="

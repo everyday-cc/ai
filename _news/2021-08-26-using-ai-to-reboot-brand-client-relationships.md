@@ -28,103 +28,20 @@ images:
     isCached: true
 
 related:
-  - title: "These researchers are bringing AI to farmers"
-    excerpt: "“Farmers feed the entire world — so how might we support them to be resilient and build sustainable systems that also support global food security?” It’s a question that Diana Akrong found herself asking last year. Diana is a UX researcher based in Accra, Ghana, and the founding member of Google’s Accra"
-    publishedDateTime: 2021-08-23T15:00:00Z
-    webUrl: "https://blog.google/technology/ai/researchers-make-sure-ai-works-for-farmers/"
-    ampWebUrl: "https://blog.google/technology/ai/researchers-make-sure-ai-works-for-farmers/amp/"
-    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/researchers-make-sure-ai-works-for-farmers/amp/"
+  - title: "Applying Artificial Intelligence to Paint Shop Robots"
+    excerpt: "Dürr expands it use of artificial intelligence to help automotive paint shops incorporate robots into existing operations for quality and plant availability applications."
+    publishedDateTime: 2021-08-24T15:50:00Z
+    webUrl: "https://www.automationworld.com/analytics/article/21627143/artificial-intelligence-for-paint-shop-robots"
     type: article
     provider:
-      name: Google
-      domain: blog.google
-    quality: 109
+      name: Automation World
+      domain: automationworld.com
+    quality: 69
     images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_RbHfBqx.max-1300x1300.jpg"
-        width: 1300
-        height: 661
+      - url: "https://img.automationworld.com/files/base/pmmi/all/image/2021/08/image004.6125130446ab6.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 646
+        height: 462
         isCached: true
-  - title: "UniSA researchers develop AI facial recognition tech to monitor premature babies"
-    excerpt: "University of South Australia boasts the AI-based system it has developed to remotely monitor the vital signs of babies rival the accuracy of ECG."
-    publishedDateTime: 2021-08-25T08:17:00Z
-    webUrl: "https://www.zdnet.com/article/unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 99
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/08/25/32645fe4-b490-47ff-b6fb-afe88e18ae83/jimaging-07-00122-g004.jpg"
-        width: 3825
-        height: 1528
-        isCached: true
-  - title: "Artificial intelligence researchers receive Federal funding"
-    excerpt: "Control Engineering - The Ohio State University is now the home base of two federally-funded institutes dedicated to advancing artificial intelligence (AI) research. The U.S."
-    publishedDateTime: 2021-08-23T14:11:00Z
-    webUrl: "https://www.controleng.com/articles/artificial-intelligence-researchers-receive-federal-funding/"
-    type: article
-    provider:
-      name: Control Engineering
-      domain: controleng.com
-    quality: 39
-    images:
-      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2021/08/CTLx_WEB_IMG_Cybersecurity_Code.jpg"
-        width: 645
-        height: 350
-        isCached: true
-  - title: "Researchers Demonstrate AI Can Be Fooled"
-    excerpt: "The artificial intelligence systems used by image recognition tools, such as those that certain connected cars use to identify street signs, can be tricked to make"
-    publishedDateTime: 2021-08-25T17:39:00Z
-    webUrl: "https://www.databreachtoday.com/researchers-demonstrate-ai-be-fooled-a-17366"
-    type: article
-    provider:
-      name: DataBreachToday
-      domain: databreachtoday.com
-    quality: 39
-    images:
-      - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/researchers-demonstrate-ai-be-fooled-showcase_image-10-a-17366.jpg"
-        width: 860
-        height: 520
-        isCached: true
-  - title: "AI Day 2021 to bring together world’s top-notch AI experts and researchers"
-    excerpt: "Empowering Innovations, organized by VinAI Research (the tech arm of Vingroup) will be held on August 27, 2021, aiming to unlock solutions to developing artificial intelligence in Vietnam. The event anticipates up to 2,"
-    publishedDateTime: 2021-08-24T01:43:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=520149"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 35
-    images:
-      - url: "http://us.acrofan.com/img/noImg.jpg"
-        width: 500
-        height: 324
-        isCached: true
-  - title: "“AI Day 2021” to bring together world’s top-notch AI experts and researchers"
-    excerpt: "HANOI, VIETNAM - Media OutReach - 23 August 2021 - The online event AI Day 2021 – Empowering Innovations, organized by VinAI Research (the tech arm of Vingroup) will be held on August 27, 2021, aiming to unlock solutions to developing artificial intelligence in Vietnam."
-    publishedDateTime: 2021-08-23T13:05:00Z
-    webUrl: "https://apnews.com/press-release/NewsDirectCorporation/technology-science-8b97c3b660e4dd25b125d0b321115ab7"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 34
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Machine learning applications in tobacco research: a scoping review"
-    excerpt: "Objective Identify and review the body of tobacco research literature that self-identified as using machine learning (ML) in the analysis. Data sources MEDLINE, EMABSE, PubMed, CINAHL Plus, APA PsycINFO and IEEE Xplore databases were searched up to September 2020."
-    publishedDateTime: 2021-08-26T00:00:00Z
-    webUrl: "https://tobaccocontrol.bmj.com/content/early/2021/08/26/tobaccocontrol-2020-056438"
-    type: article
-    provider:
-      name: BMJ
-      domain: bmj.com
-    quality: 19
 
 secured: "oY48m7Mb8+qP64tjiQ5q5xn2Fbn4zu78ikXlkrw8OuGUR++4xngkHGRTp1rcifs2H+HbW3tjRhs0ko2+ZFx/m8RlUsO7NELM3CLDRyMy+xmXDH9KgkXIjr8liHgR51g5E8uw8P2SzeCOFFeSS+wkPHL1DgrnPZRljhL23n/eIlz1MYDNRZo8graDWRE2nPH3Vx0I2trTS/1dZUGu9bVBP9qCEtLdK7mkA1aDf2aU+Xh4rtSzMJK/7ISKtuzBvdn4vIimt9t1PDezFVHtD6p5Pg3uaTtzm6ZmJ5yOYCp8tAAET09Oio2D972A7LLibT7nyM3MFvTRXobbKu2JW3Fcqkb+mOTfeKEPFhdjFF8dZdzUZHr7Ryzmz9pSvMhIWKxxFXgj6U4+/tBFCixEY26O/SraYxRmO07lOEYKc3UQKA820/IPx6uXYzuTzx5Yk/MC7qvVQZLBWCJidJ3M84aVJNbWSeaVRx8VjWS/ZjlmJISpnaoAfvZISq3TJos4/dEYu8hsAQ7mdY0lbSLqp0KKHQ==;qugocO+pNWZvHFBSKgRuaw=="
 ---

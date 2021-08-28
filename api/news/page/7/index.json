@@ -2,6 +2,144 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-08-23-synopsys-ceo-ai-designed-chips-will-generate-1000x-performance-in-10-years.md",
+      "title": "Synopsys CEO: AI-designed chips will generate 1,000X performance in 10 years",
+      "excerpt": "AI-designed chips are producing could lead to 1,000 times better performance for chips in the next decade, says Synopsys CEO Aart de Geus.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/23/synopsys-ceo-ai-designed-chips-will-generate-1000x-performance-in-10-years/",
+      "originalUrl": "https://venturebeat.com/2021/08/23/synopsys-ceo-ai-designed-chips-will-generate-1000x-performance-in-10-years/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/syn-2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 662,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/23/synopsys-ceo-ai-designed-chips-will-generate-1000x-performance-in-10-years/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/23/synopsys-ceo-ai-designed-chips-will-generate-1000x-performance-in-10-years/amp/",
+      "publishedDateTime": "2021-08-23T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-23-civil-liberties-groups-demand-government-bans-facial-recognition-cameras.md",
+      "title": "Civil liberties groups demand government bans facial recognition cameras",
+      "excerpt": "Police and Home Office are accused of bypassing parliament over guidance allowing officers, local councils and enforcement agencies to use facial recognition across England and Wales in defiance of court rulings against invasive filming.",
+      "sourceUrl": null,
+      "webUrl": "https://news.sky.com/story/civil-liberties-groups-demand-government-bans-facial-recognition-cameras-12388513",
+      "originalUrl": "https://news.sky.com/story/civil-liberties-groups-demand-government-bans-facial-recognition-cameras-12388513",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://e3.365dm.com/21/08/1600x900/skynews-facial-recognition-camera_5487585.jpg?20210823094951",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://news.sky.com/story/amp/civil-liberties-groups-demand-government-bans-facial-recognition-cameras-12388513",
+      "cdnAmpWebUrl": "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/civil-liberties-groups-demand-government-bans-facial-recognition-cameras-12388513",
+      "publishedDateTime": "2021-08-23T02:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sky",
+        "domain": "sky.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-23-wpp-acquires-ai-tech-firm-satalia.md",
+      "title": "WPP acquires AI-tech firm Satalia",
+      "excerpt": "WPP today announces that it has acquired Satalia, a technology company offering market-leading AI solutions for clients. Satalia is a global leader in enterprise AI and one of the UK’s fastest-growing tech companies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.exchange4media.com/announcements-news/wpp-acquires-ai-tech-firm-satalia-115180.html",
+      "originalUrl": "https://www.exchange4media.com/announcements-news/wpp-acquires-ai-tech-firm-satalia-115180.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.exchange4media.com/news-photo/115180-114480-112500-WPP-logo.jpg",
+          "width": 730,
+          "height": 395,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.exchange4media.com/amp/announcements-news/wpp-acquires-ai-tech-firm-satalia-115180.html",
+      "cdnAmpWebUrl": "https://www-exchange4media-com.cdn.ampproject.org/c/s/www.exchange4media.com/amp/announcements-news/wpp-acquires-ai-tech-firm-satalia-115180.html",
+      "publishedDateTime": "2021-08-22T23:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Exchange 4 Media",
+        "domain": "exchange4media.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-23-airrobo-debuted-its-first-robot-vacuum-cleaner-on-amazon-and-aliexpress-simplify-your-life.md",
       "title": "AIRROBO Debuted its First Robot Vacuum Cleaner on Amazon and AliExpress - Simplify Your Life",
       "excerpt": "Supported by expertise in AI field for over 10 years, AIRROBO launches the strongest robot vacuum cleanerHONG KONG, Aug. 23, 2021 /PRNewswire/ --",
@@ -1021,143 +1159,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-21-us-woman-becomes-a-superwoman-for-afghan-all-girl-robotics-team-rescues-10.md",
-      "title": "US woman becomes a superwoman for Afghan all-girl robotics team, rescues 10",
-      "excerpt": "The team, consisting of young women ageing from 16 to 18 years, was scared as the Taliban took control and they were on the mind of the US woman, who previously met them in 2019.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/trending/trending-globally/mother-of-11-allyson-reneau-becomes-a-superwoman-for-afghan-womens-robotics-team-7462846/",
-      "originalUrl": "https://indianexpress.com/article/trending/trending-globally/mother-of-11-allyson-reneau-becomes-a-superwoman-for-afghan-womens-robotics-team-7462846/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2021/08/allyson.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/trending/trending-globally/mother-of-11-allyson-reneau-becomes-a-superwoman-for-afghan-womens-robotics-team-7462846/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/trending/trending-globally/mother-of-11-allyson-reneau-becomes-a-superwoman-for-afghan-womens-robotics-team-7462846/lite/",
-      "publishedDateTime": "2021-08-20T20:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-21-ai-blood-test-can-spot-lung-cancers-with-90-percent-accuracy.md",
-      "title": "AI Blood Test Can Spot Lung Cancers With 90 Percent Accuracy",
-      "excerpt": "The tool was able to detect roughly 90 percent of cancer cases out of 800 individuals that were screened for lung cancer. The researchers are hoping that improved screening and detection technologies could allow more cases of lung cancer to be spotted earlier,",
-      "sourceUrl": null,
-      "webUrl": "https://futurism.com/neoscope/ai-blood-test-lung-cancer",
-      "originalUrl": "https://futurism.com/neoscope/ai-blood-test-lung-cancer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp-assets.futurism.com/2021/08/cancer-detection-600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://futurism.com/ai-blood-test-lung-cancer/amp",
-      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/ai-blood-test-lung-cancer/amp",
-      "publishedDateTime": "2021-08-20T19:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-21-ai-weekly-ai-research-still-has-a-reproducibility-problem.md",
-      "title": "AI Weekly: AI research still has a reproducibility problem",
-      "excerpt": "QMIX is a popular algorithm that implements CTDE, and many research groups claim to have designed QMIX algorithms that perform well on difficult benchmarks. But a new paper claims that these algorithms’ improvements might only be the result of code optimizations or “tricks” rather than design innovations.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/20/ai-weekly-ai-research-still-has-a-reproducibility-problem/",
-      "originalUrl": "https://venturebeat.com/2021/08/20/ai-weekly-ai-research-still-has-a-reproducibility-problem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?fit=800%2C414&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/20/ai-weekly-ai-research-still-has-a-reproducibility-problem/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/20/ai-weekly-ai-research-still-has-a-reproducibility-problem/amp/",
-      "publishedDateTime": "2021-08-20T18:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

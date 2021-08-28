@@ -2,6 +2,143 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-08-21-us-woman-becomes-a-superwoman-for-afghan-all-girl-robotics-team-rescues-10.md",
+      "title": "US woman becomes a superwoman for Afghan all-girl robotics team, rescues 10",
+      "excerpt": "The team, consisting of young women ageing from 16 to 18 years, was scared as the Taliban took control and they were on the mind of the US woman, who previously met them in 2019.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/trending/trending-globally/mother-of-11-allyson-reneau-becomes-a-superwoman-for-afghan-womens-robotics-team-7462846/",
+      "originalUrl": "https://indianexpress.com/article/trending/trending-globally/mother-of-11-allyson-reneau-becomes-a-superwoman-for-afghan-womens-robotics-team-7462846/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2021/08/allyson.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/trending/trending-globally/mother-of-11-allyson-reneau-becomes-a-superwoman-for-afghan-womens-robotics-team-7462846/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/trending/trending-globally/mother-of-11-allyson-reneau-becomes-a-superwoman-for-afghan-womens-robotics-team-7462846/lite/",
+      "publishedDateTime": "2021-08-20T20:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-21-ai-blood-test-can-spot-lung-cancers-with-90-percent-accuracy.md",
+      "title": "AI Blood Test Can Spot Lung Cancers With 90 Percent Accuracy",
+      "excerpt": "The tool was able to detect roughly 90 percent of cancer cases out of 800 individuals that were screened for lung cancer. The researchers are hoping that improved screening and detection technologies could allow more cases of lung cancer to be spotted earlier,",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/neoscope/ai-blood-test-lung-cancer",
+      "originalUrl": "https://futurism.com/neoscope/ai-blood-test-lung-cancer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2021/08/cancer-detection-600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://futurism.com/ai-blood-test-lung-cancer/amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/ai-blood-test-lung-cancer/amp",
+      "publishedDateTime": "2021-08-20T19:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-21-ai-weekly-ai-research-still-has-a-reproducibility-problem.md",
+      "title": "AI Weekly: AI research still has a reproducibility problem",
+      "excerpt": "QMIX is a popular algorithm that implements CTDE, and many research groups claim to have designed QMIX algorithms that perform well on difficult benchmarks. But a new paper claims that these algorithms’ improvements might only be the result of code optimizations or “tricks” rather than design innovations.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/20/ai-weekly-ai-research-still-has-a-reproducibility-problem/",
+      "originalUrl": "https://venturebeat.com/2021/08/20/ai-weekly-ai-research-still-has-a-reproducibility-problem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?fit=800%2C414&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/20/ai-weekly-ai-research-still-has-a-reproducibility-problem/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/20/ai-weekly-ai-research-still-has-a-reproducibility-problem/amp/",
+      "publishedDateTime": "2021-08-20T18:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-21-elon-musk-says-tesla-will-produce-humanoid-robot-to-help-build-cars.md",
       "title": "Elon Musk says Tesla will produce humanoid robot to help build cars",
       "excerpt": "The \"Tesla Bot\" is a natural step because the company's vehicles are \"like semi-sentient robots on wheels,\" the CEO said.",
@@ -1046,135 +1183,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-simanalytics-receives-investment-from-kemira.md",
-      "title": "SimAnalytics Receives Investment from Kemira",
-      "excerpt": "SimAnalytics, a Finnish startup known for its advanced process harmony prediction and analysis tool, received a minority investment from Kemira, a global chemicals company",
-      "sourceUrl": null,
-      "webUrl": "https://www.finsmes.com/2021/08/simanalytics-receives-investment-from-kemira.html",
-      "originalUrl": "https://www.finsmes.com/2021/08/simanalytics-receives-investment-from-kemira.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-20T00:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "finsmes.com",
-        "domain": "finsmes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-north-america-is-expected-to-dominate-the-ai-in-physical-security-market-to-through-2026-techsci-research.md",
-      "title": "North America is expected to dominate the AI in Physical Security Market to through 2026 – TechSci Research",
-      "excerpt": "Ongoing technological advancements and the surge in use of the internet protocol based camera is expected to drive the demand for global AI in physical security market in forecast period According to TechSci Research report Global AI in Physical Security",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2361395/north-america-is-expected-to-dominate-the-ai-in-physical-security",
-      "originalUrl": "https://www.openpr.com/news/2361395/north-america-is-expected-to-dominate-the-ai-in-physical-security",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/8/U820806123_g.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2361395/north-america-is-expected-to-dominate-the-ai-in-physical-security",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2361395/north-america-is-expected-to-dominate-the-ai-in-physical-security",
-      "publishedDateTime": "2021-08-19T23:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-chinese-ai-unicorn-eyes-ipo-southeast-asia-expansion-after-200-million-funding-round.md",
-      "title": "Chinese AI Unicorn Eyes IPO, Southeast Asia Expansion After $200 Million Funding Round",
-      "excerpt": "After a recent funding round from top Chinese venture capital firms, Shenzhen-based AI startup SmartMore has big plans to go public and expand across Southeast Asia, starting with Singapore.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rubyleung/2021/08/20/chinese-ai-unicorn-eyes-ipo-southeast-asia-expansion-after-200-million-funding-round/",
-      "originalUrl": "https://www.forbes.com/sites/rubyleung/2021/08/20/chinese-ai-unicorn-eyes-ipo-southeast-asia-expansion-after-200-million-funding-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611f358e094e8aec6f42b14b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D849%26cropY1%3D0%26cropY2%3D478",
-          "width": 849,
-          "height": 478,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rubyleung/2021/08/20/chinese-ai-unicorn-eyes-ipo-southeast-asia-expansion-after-200-million-funding-round/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rubyleung/2021/08/20/chinese-ai-unicorn-eyes-ipo-southeast-asia-expansion-after-200-million-funding-round/amp/",
-      "publishedDateTime": "2021-08-19T22:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

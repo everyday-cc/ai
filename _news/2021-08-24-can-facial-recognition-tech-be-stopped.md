@@ -41,36 +41,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Facial recognition to care for prem babies"
-    excerpt: "University of South Australia researchers have successfully developed a world-first camera system to monitor the vital signs of premature babies."
-    publishedDateTime: 2021-08-25T05:32:00Z
-    webUrl: "https://thewest.com.au/news/health/facial-recognition-to-care-for-prem-babies-c-3777249"
-    ampWebUrl: "https://thewest.com.au/news/health/facial-recognition-to-care-for-prem-babies-c-3777249.amp"
-    cdnAmpWebUrl: "https://thewest-com-au.cdn.ampproject.org/c/s/thewest.com.au/news/health/facial-recognition-to-care-for-prem-babies-c-3777249.amp"
-    type: article
-    provider:
-      name: The West Australian
-      domain: thewest.com.au
-    quality: 59
-    images:
-      - url: "https://images.thewest.com.au/publication/C-3777249/ad21f7545de75e229ac117fd2463ea06a59c1a2a-16x9-x0y0w1280h720.jpg?imwidth=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Civil liberties groups demand total ban on facial recognition technology"
-    excerpt: "Amnesty International, Liberty and Privacy International join more than 30 organisations warning that the police, Home Office, and councils are misusing the intrusive technology"
-    publishedDateTime: 2021-08-23T17:08:00Z
-    webUrl: "https://morningstaronline.co.uk/article/b/civil-liberties-groups-demand-total-ban-on-facial-recognition-technology"
-    type: article
-    provider:
-      name: Morning Star
-      domain: morningstaronline.co.uk
-    quality: 40
-    images:
-      - url: "https://morningstaronline.co.uk/sites/default/files/face%20police.jpg"
-        width: 1185
-        height: 585
-        isCached: true
   - title: "SA trials facial recognition for home quarantine"
     excerpt: "South Australia is trialing an app that will monitor people who are in home quarantine by checking geo-location data and scanning their faces. The trial, which began on Monday, allows around 50 South Australian residents returning from interstate to conduct their 14 days of mandatory quarantine from home."
     publishedDateTime: 2021-08-24T01:58:00Z

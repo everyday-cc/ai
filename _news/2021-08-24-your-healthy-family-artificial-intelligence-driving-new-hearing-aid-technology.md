@@ -54,20 +54,6 @@ related:
         width: 690
         height: 400
         isCached: true
-  - title: "New AI technology can empower the fight against criminals and terrorists by tracking their illicit money flows"
-    excerpt: "The TRACE project will provide law enforcement agencies with a solution to better identify and disrupt illicit money trails"
-    publishedDateTime: 2021-08-23T14:23:00Z
-    webUrl: "https://taxjustice.net/press/new-ai-technology-can-empower-the-fight-against-criminals-and-terrorists-by-tracking-their-illicit-money-flows/"
-    type: article
-    provider:
-      name: Tax Justice Network
-      domain: taxjustice.net
-    quality: 21
-    images:
-      - url: "https://taxjustice.net/wp-content/uploads/2021/02/newspaper-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
 
 secured: "HE2QjqUxePBvAjq7wUHAPQkYrHTzeaS1oK27wT/tttdSt/ROjYKMWLhHzfeQUTIx1V8lkyYck39KTa2PBLQUF4VJTis5D32py40HLhQD52mnGHivKuK72cKzu/GnfLkEnN5EIZYuL0AdIMaFuhnwySJAqFeQFDBNs5/Kb42KQaUrZgDqFDTBQ5Ah3vD44HNQOwS3GfvINlTGhQ57si1+B8sJ1qXwC5Il5gYPjU2HHyXQUgj5+PLuALF19j0ftssmocjcNQTYRiPqdu34Eg1EbSp6Xvwrl4o2rJ2kbt0s1Qc2Yijq+G+2INt6C13hUMgEGtFPNegS2RusFy8eEKQcYN1JzdqK91HTw6Tp3USMvWGl7DAP/b4TMoULAwfo8Wq1CL24kDnN9kLKZJY6l0CnJqHDOIEEcziEjsu0FMT9tfnoJOndc4LlHSlUHK5wr51n2VyS1vbvyApJRVugmmSIjbmWyXtp34KrQ7wT2ZKXh1R13yIzWBSmewB70bjnCPWPE5YeHgrPkhAIsburzwOdsg==;ftKcnYJokROiVBs55Gg8dA=="
 ---
