@@ -37,22 +37,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Elon Musk Calls Tesla'a Full Self Driving Beta Technology 'Not Great' in a Tweet"
-    excerpt: "Tesla CEO Elon Musk said on Twitter that the company's Full Self Driving Beta technology is 'not great' and admits that the AI team is working on it."
-    publishedDateTime: 2021-08-23T21:50:00Z
-    webUrl: "https://www.newsweek.com/elon-musk-calls-tesla-full-self-driving-beta-technology-not-great-tweets-1622282"
-    ampWebUrl: "https://www.newsweek.com/elon-musk-calls-tesla-full-self-driving-beta-technology-not-great-tweets-1622282?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/elon-musk-calls-tesla-full-self-driving-beta-technology-not-great-tweets-1622282?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 99
-    images:
-      - url: "https://d.newsweek.com/en/full/1877963/2021-tesla-model-y.jpg"
-        width: 3000
-        height: 2000
-        isCached: true
   - title: "Elon Musk is not impressed by Tesla’s current Full Self-Driving build, but likes the next one"
     excerpt: "Elon Musk said that Tesla’s current Full Self-Driving Beta build is “not great,” but he is currently testing the next build coming to beta testers, and he is impressed by that one."
     publishedDateTime: 2021-08-24T17:12:00Z

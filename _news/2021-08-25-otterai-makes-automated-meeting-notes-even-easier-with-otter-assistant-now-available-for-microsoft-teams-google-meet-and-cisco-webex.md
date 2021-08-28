@@ -36,20 +36,6 @@ related:
         width: 770
         height: 433
         isCached: true
-  - title: "Microsoft's AI Mudede Versus the Real Mudede"
-    excerpt: "Last week, the technologist side of Boudinot did something monstrous with an AI presently owned by Microsoft, GPT-3. This program, developed by OpenAI, is described as \"an autoregressive language [machine] that uses deep learning to produce human-like text."
-    publishedDateTime: 2021-08-23T22:42:00Z
-    webUrl: "https://www.thestranger.com/slog/2021/08/23/60660743/microsofts-ai-mudede-versus-the-real-mudede"
-    type: article
-    provider:
-      name: The Stranger
-      domain: thestranger.com
-    quality: 54
-    images:
-      - url: "https://media2.fdncms.com/stranger/imager/u/large/60663519/1629754829-img_20210102_180202_568_1_.jpg"
-        width: 700
-        height: 875
-        isCached: true
   - title: "MONITORAPP Brings Their AIWAF-VE to Microsoft Azure"
     excerpt: "MONITORAPP, Inc., a leading cybersecurity vendor ,is not only expanding their security solutions to the cloud, but to the market as well with listings on AWS and Microsoft Azure. MONITORAPP is bringing competitive pricing and various payment options,"
     publishedDateTime: 2021-08-25T22:21:00Z

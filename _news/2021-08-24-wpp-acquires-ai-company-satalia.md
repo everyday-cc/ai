@@ -7,7 +7,7 @@ originalUrl: "https://www.campaignindia.in/article/wpp-acquires-ai-company-satal
 webUrl: "https://www.campaignindia.in/article/wpp-acquires-ai-company-satalia/472019"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,36 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "WPP acquires AI-technology company Satalia"
-    excerpt: "WPP has announced the acquisition of Satalia, a technology company offering AI solutions for clients. The full announcement is below.The announcement:Satalia is a global leader in enterprise AI and one of the UK’s fastest-growing tech companies,"
-    publishedDateTime: 2021-08-23T22:14:00Z
-    webUrl: "https://mumbrella.com.au/wpp-acquires-ai-technology-company-satalia-699700"
-    ampWebUrl: "https://mumbrella.com.au/wpp-acquires-ai-technology-company-satalia-699700/amp"
-    cdnAmpWebUrl: "https://mumbrella-com-au.cdn.ampproject.org/c/s/mumbrella.com.au/wpp-acquires-ai-technology-company-satalia-699700/amp"
-    type: article
-    provider:
-      name: Mumbrella
-      domain: mumbrella.com.au
-    quality: 59
-    images:
-      - url: "https://mumbrella.com.au/wp-content/uploads/2021/08/WPP-1.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "WPP Branches Into AI Tech With Satalia Acquisition"
-    excerpt: "WPP announced that it has acquired Satalia, a technology company offering marketleading AI solutions for clients."
-    publishedDateTime: 2021-08-23T22:16:00Z
-    webUrl: "https://www.bandt.com.au/wpp-branches-into-ai-tech-with-satalia-acquisition/"
-    type: article
-    provider:
-      name: B and T
-      domain: bandt.com.au
-    quality: 39
-    images:
-      - url: "https://www.bandt.com.au/information/uploads/2021/08/dr-daniel-hume.jpg"
-        width: 500
-        height: 500
-        isCached: true
   - title: "WPP Acquires AI Tech Company Satalia – Names Daniel Hulme Chief AI Officer"
     excerpt: "WPP has acquired AI tech company acquired Satalia, whose clients include BT, DFS, DS Smith, PwC, Gigaclear, Tesco, and Unilever. Funded by CEO Dr. Daniel Hulme in 2008, Satalia combines learning and optimization,"
     publishedDateTime: 2021-08-24T02:41:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/27/how-to-upskill-your-team-to-tackl
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/27/how-to-upskill-your-team-to-tackle-ai-and-machine-learning/amp/"
 type: article
 quality: 106
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -63,6 +63,20 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/10/Header-Brighteye-Ventures-EdTech-VC-education-Europe-2020.jpeg?w=1024"
         width: 1024
         height: 439
+        isCached: true
+  - title: "Teaching AI to Dance"
+    excerpt: "The work will culminate in a live AI dance performance with the Kennesaw State University School of Dance faculty and students. The goal is to “develop a co-creative AI that approaches expert-level participatory sensemaking in contemporary dance and train this agent to create a curated improvisational partner,"
+    publishedDateTime: 2021-08-27T04:00:00Z
+    webUrl: "https://rh.gatech.edu/news/650158/teaching-ai-dance"
+    type: article
+    provider:
+      name: Georgia Tech News Center
+      domain: gatech.edu
+    quality: 39
+    images:
+      - url: "https://rh.gatech.edu/sites/default/files/styles/740x416/public/images/mercury/brian_magerko_preferred_websized_169.jpg"
+        width: 740
+        height: 416
         isCached: true
 
 secured: "db3uLcDojZMZqA2cmg2OeCn/Gv7q2tq8Q8o03h9q7k2vG0WtqnqdjQUu5BprAsAwNmIcx024Bj6hY/jyNnCpJWSXVko14Kv8605/XjIfVK9RY+GSHX2UojBs7F56/Q5ylONDJBuNXyWPnChSC02DUdt+uewRSFi86Z/W4vxNooLio7UguM05fLsVN6w1e5Uppt+oCvI2xD3ScYhzKQqmApmiraOaezq0w+zvDLm02cAznh9J7Mj1dFwO1fwC7stulYzqyrPYzHmpnYHSmu4LZ+L+JZyh/bKN+Q7w7GoyC9i8JO2mtJnZn1mLM/BY1UXe7TqbRX+RrrxGhDA2ddXRDc7v0wJBWXdjG5UiHkePqDhLEJBcwpKzJlNV0A20Gy6wEY95YJ6Bn5BQUan4GfC0/p59GmSln1lzvC5tLXwvWxE+IMS3F4K7bp7HWjSTmadcMG/HMCqv05IEYvVsiLbsqxReBmFsc3wkiYSjnym0TOJpCZrzbdzKX13aqq8d+mJw35wFxJ3Sd3zVR3D/gvP6Zg==;/Fm99jcQzPby6cZGULkOrw=="

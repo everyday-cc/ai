@@ -39,20 +39,6 @@ related:
         width: 1050
         height: 591
         isCached: true
-  - title: "Iris and face biometrics on the rise for access control worldwide"
-    excerpt: "Two separate market studies have highlighted the emerging relevance of iris biometrics for access control applications worldwide."
-    publishedDateTime: 2021-08-23T21:07:00Z
-    webUrl: "https://www.biometricupdate.com/202108/iris-and-face-biometrics-on-the-rise-for-access-control-worldwide"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 24
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09161443/iris-and-face-biometrics.jpg"
-        width: 1720
-        height: 1032
-        isCached: true
 
 secured: "r3+PjCwrZa5LvQne1ys5r1cus0JlLlUGRfigyhT3Z5hseoGfBIRl+S0KMHFp1QdE47gKd+2b5F6Q30Y3XggXQ6haavyu2Vc5EmK0cp1dP1U/zGC6racAVAl8uDvhw3kNPNhMc8AwWCfRewxd5cDQ/k+dDyyOUCQWYW+fdXtxa49ESTVhyZP6zdaIBy4bZo0Oe5sQPp5mkdLRop7ceCROuq7/nyuKwUJLU1aCsA6c/oD/NBou4ky+9qBhrnkud7b+HBSqt9fhw7IdXOru3Gn0gMgMo46duB7Hopf/u9DTTt2oxFJKLozm+uwhvP+D6KsZNE2JnIpwfQ18TTLQIjo8XYNCjzkwaQmEuSTlzqlU/5h/ehY32cJhynizf52YUWJ/UBr9J2uxBDVa/ngTGY2c9oT9jKs2QdFyIU2CZ2dCu21xYt7O5VzcnT7pi4c1I3LWb+jsPWuDZKs0DRgF/Psq7W5w7k7ZAd59GFNY37ShPhKXlifpYceDhTUKvWzFQgYhZbS97MRtwWjZaHg04MA0GQ==;pWEHT32jPqQm3o+9Ecq7DA=="
 ---

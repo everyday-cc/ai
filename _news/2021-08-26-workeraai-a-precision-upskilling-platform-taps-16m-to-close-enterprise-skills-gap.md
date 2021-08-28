@@ -62,6 +62,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Teaching AI to Dance"
+    excerpt: "The work will culminate in a live AI dance performance with the Kennesaw State University School of Dance faculty and students. The goal is to “develop a co-creative AI that approaches expert-level participatory sensemaking in contemporary dance and train this agent to create a curated improvisational partner,"
+    publishedDateTime: 2021-08-27T04:00:00Z
+    webUrl: "https://rh.gatech.edu/news/650158/teaching-ai-dance"
+    type: article
+    provider:
+      name: Georgia Tech News Center
+      domain: gatech.edu
+    quality: 39
+    images:
+      - url: "https://rh.gatech.edu/sites/default/files/styles/740x416/public/images/mercury/brian_magerko_preferred_websized_169.jpg"
+        width: 740
+        height: 416
+        isCached: true
 
 secured: "Frf69EFkI9MyVXRlsgJk6mly8PGQ7pwthro5MTNFuN5yG9eb61FHNRrh1ljwDHsEYgUhrs0hl/pFJTvih1GhZ8NPAbb4gdb5P8pc2lqHMaRp7UFxM9xUTMUZ14wythO9pnYqKdX+ckkoUYzQSUebhza4gAoIYRnmCvd8Tjy26ri3qTZhzaz132GmJ9oVjVkSOzg3ej1/efcWuybbdsaVMTsXMNRci4O1XUp88p0wRFNQFQc8P0tNyljIepqzEhSdTn1M6f4V7D00ZOu5I9FEQ9YnAAA5e3SvETDbKDLXQ1gdBXYMWV3KJNobO1Umf/4RK/F8N7BUdSXjq/m25vFz05JbGy+phe/Aqaomb99lRzSF8kp3wLCuzUqMbwkznUOyf8URLnpmxoUNQYZcrOD0u4qW5PfBKM+iggm9kJ1qTgr+2D+nBTMJIAFhxfYeMpoEoTCoQ8yIw/0Zfyc3uKF7JnrcS09kvWy2jWZu2Ek1RevNwL0cFqiWFBpmgmiS2lFuKYYUb5S989t7WbP46ZaOqg==;HTnhWHZSKhncnDkWspNgwQ=="
 ---

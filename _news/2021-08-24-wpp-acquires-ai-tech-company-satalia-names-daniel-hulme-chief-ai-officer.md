@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "WPP acquires AI-technology company Satalia"
-    excerpt: "WPP has announced the acquisition of Satalia, a technology company offering AI solutions for clients. The full announcement is below.The announcement:Satalia is a global leader in enterprise AI and one of the UK’s fastest-growing tech companies,"
-    publishedDateTime: 2021-08-23T22:14:00Z
-    webUrl: "https://mumbrella.com.au/wpp-acquires-ai-technology-company-satalia-699700"
-    ampWebUrl: "https://mumbrella.com.au/wpp-acquires-ai-technology-company-satalia-699700/amp"
-    cdnAmpWebUrl: "https://mumbrella-com-au.cdn.ampproject.org/c/s/mumbrella.com.au/wpp-acquires-ai-technology-company-satalia-699700/amp"
-    type: article
-    provider:
-      name: Mumbrella
-      domain: mumbrella.com.au
-    quality: 59
-    images:
-      - url: "https://mumbrella.com.au/wp-content/uploads/2021/08/WPP-1.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "WPP acquires AI company Satalia"
     excerpt: "As part of the merger, Satalia will join Wunderman Thompson Commerce and lead AI strategy across all WPP agencies"
     publishedDateTime: 2021-08-24T04:17:00Z
@@ -53,20 +37,6 @@ related:
       - url: "https://cdn.i.haymarketmedia.asia/?n=campaign-india%2fcontent%2fsatalia.jpg&h=630&w=1200&q=75&v=20170226&c=1"
         width: 1200
         height: 630
-        isCached: true
-  - title: "WPP Branches Into AI Tech With Satalia Acquisition"
-    excerpt: "WPP announced that it has acquired Satalia, a technology company offering marketleading AI solutions for clients."
-    publishedDateTime: 2021-08-23T22:16:00Z
-    webUrl: "https://www.bandt.com.au/wpp-branches-into-ai-tech-with-satalia-acquisition/"
-    type: article
-    provider:
-      name: B and T
-      domain: bandt.com.au
-    quality: 39
-    images:
-      - url: "https://www.bandt.com.au/information/uploads/2021/08/dr-daniel-hume.jpg"
-        width: 500
-        height: 500
         isCached: true
 
 secured: "14lhWIjepljtXnrR+1yfv17aNRRvyOW9ua/ahfP3D7ZQ7nsMoDcmovgrLqVX4tzOgm+DcDmAyuMbT27muVydYdPIW4h4LaVK/YmpLR1Jlp7hvZtm4BWTE86UI+NnT032Cdc4u4dsB7AcDv14zSXm2O8dQXZaQsaaN9LMqPHpVwcglEooPEAA8zrpSycEnTP8crkSzVOX2NJ7mzMOyns0R0AhAa9XIS3hVlkGdNVU8kYKpzX8J+tJXuQLw8ieRmmra6StHDkXlUmRZH9RLL9gCUH6Qt43jAudJoWGEQwDDQ7yrKHtXF/qFdbQsLIshvCqm0II2zHfu9O3cFPt2crvKZy1zMqY26jVtXUEuHnbxMU=;/vvTfUR3N2aNBoY1vHUDqg=="

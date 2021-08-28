@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Toyota suspends self-driving vehicles after accident at Olympic village"
+    excerpt: "Toyota Motor said on Friday it had suspended all self-driving e-Palette transportation pods at the Tokyo Paralympic Games village, a day after one of the vehicles collided with and injured a visually impaired pedestrian."
+    publishedDateTime: 2021-08-28T14:58:00Z
+    webUrl: "https://www.nbcnews.com/news/world/toyota-suspends-self-driving-vehicles-after-accident-olympic-village-n1277849"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1277849"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1277849"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 74
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_34/3502164/210828-toyota-epalette-mb-1553.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Toyota is suspending its self-driving buses in Paralympics Village after one accidentally hit a visually-impaired athlete"
     excerpt: "The autonomous vehicles were shown off at the 2020 Tokyo Games, helping athletes travel to their events and around the Olympic village."
     publishedDateTime: 2021-08-27T20:24:00Z
@@ -78,6 +94,20 @@ related:
       - url: "https://images.news18.com/ibnlive/uploads/2021/08/sports-2021-08-22t124338.136-162973365516x9.png"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Toyota halts self-driving vehicles after Paralympics collision"
+    excerpt: "Toyota's chief executive has apologized after a self-driving transportation vehicle collided with a visually-impaired athlete at the Tokyo Paralympic Games."
+    publishedDateTime: 2021-08-28T13:08:00Z
+    webUrl: "https://www.reuters.com/video/watch/idPxIm?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 54
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/612a2496e4b085d396fcf0b6-1630151830922?location=LANDSCAPE"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Toyota pauses Paralympics self-driving buses after one hits visually impaired athlete"
     excerpt: "Japan’s Aramitsu Kitazono was left with cuts and bruises after being hit by the e-Palette vehicle at the athletes’ village"

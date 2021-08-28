@@ -76,14 +76,19 @@ related:
         height: 531
         isCached: true
   - title: "Athreon Launches Front-End Speech Recognition Solution"
-    excerpt: "Athreon, a leading business and knowledge process outsourcing company, announced today the launch of its new front-end speech recognition solution for healthcare. Athreon's speech recognition empowers physicians to focus on patient care versus administrative,"
-    publishedDateTime: 2021-08-26T16:39:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-athreon-launches-front-end-speech-recognition-solution-/2021/08/26/9438228.htm"
+    excerpt: "Athreon, a leading business and knowledge process outsourcing company, announced today the launch of its new front-end speech recognition solution for healthcare. Athreon’s speech recognition empowers physicians to focus on patient care versus administrative,"
+    publishedDateTime: 2021-08-26T14:13:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-937261d53fe91f0a1613f00fc9d48934"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "FXH0Cq6s+hO4Cx+3kzPgIQAnNMGjLRZ8CcsGjupzEJ3VqBcyyzf9mpsFBi8duZrJWCZxg5xxBlKyJhgrHn2X7jhCzqaKyTAGr8O9U9jUKX7UEmaw6PHiYWM7O1A63uPTM3fKyGjb/rEEyWMWOic4P3tlCbfzQFC7SSunjKdjapmnqbyyRXlijwwIPu4x8/MgfcMyhkcfiSJGgrBpOblrOcESbrL4W18TdGkJJAuvqD4nUAL7sKK4tRnmBbtmfQzMu+0XaBs97Ibddba4TKU3+nCm2YHwFj2TNNEoQfO8I+BDI2QIbfiX/GKDb3DqXospPOnxr9jYEp88Q0VP5wudGyQ9toX8ZS5s7r16azkumwFIPhguXVn6Xe+TI1GmxkoZByiHyynjvAYVf1yGwHpaULEhxZo7FXUNLuyH8ZrLXJA5LC0ClSncOxxoyShe7/zZYfJkj5hrodkKhds/fRdb4MpXqMnHwMh40d5UcmTibHImMSdR74K75Dks4mY22pOnhqVuePCX+8/xxWvuLIFR9w==;4eahgdfHRa4oedywalch9Q=="
 ---

@@ -1,48 +1,32 @@
 ---
 category: news
-title: "Tokyo Paralympics: Judoka Aramitsu Kitazono Withdraws After Being Hit by Self-Driving Bus in Village"
-excerpt: "The incident took place on Thursday afternoon when the automated electric vehicle, called an e-Palette and developed by Toyota, struck Kitazono after turning right into a pedestrian crossing."
-publishedDateTime: 2021-08-28T09:52:00Z
-originalUrl: "https://www.india.com/sports/tokyo-paralympics-japanese-judoka-aramitsu-kitazono-withdraws-after-being-hit-by-self-driving-bus-in-village-4919874/"
-webUrl: "https://www.india.com/sports/tokyo-paralympics-japanese-judoka-aramitsu-kitazono-withdraws-after-being-hit-by-self-driving-bus-in-village-4919874/"
-ampWebUrl: "https://www.india.com/sports/tokyo-paralympics-japanese-judoka-aramitsu-kitazono-withdraws-after-being-hit-by-self-driving-bus-in-village-4919874/amp/"
-cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/sports/tokyo-paralympics-japanese-judoka-aramitsu-kitazono-withdraws-after-being-hit-by-self-driving-bus-in-village-4919874/amp/"
+title: "Toyota suspends self-driving vehicles after accident at Olympic village"
+excerpt: "Toyota Motor said on Friday it had suspended all self-driving e-Palette transportation pods at the Tokyo Paralympic Games village, a day after one of the vehicles collided with and injured a visually impaired pedestrian."
+publishedDateTime: 2021-08-28T14:58:00Z
+originalUrl: "https://www.nbcnews.com/news/world/toyota-suspends-self-driving-vehicles-after-accident-olympic-village-n1277849"
+webUrl: "https://www.nbcnews.com/news/world/toyota-suspends-self-driving-vehicles-after-accident-olympic-village-n1277849"
+ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1277849"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1277849"
 type: article
-quality: 29
-heat: -1
-published: false
+quality: 74
+heat: 244
+published: true
 
 provider:
-  name: India.com
-  domain: india.com
+  name: NBC News
+  domain: nbcnews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s3.india.com/wp-content/uploads/2021/08/pjimage-2021-08-28T165052.351.jpg"
-    width: 1200
-    height: 670
+  - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_34/3502164/210828-toyota-epalette-mb-1553.jpg"
+    width: 2500
+    height: 1667
     isCached: true
 
 related:
-  - title: "Toyota suspends self-driving vehicles after accident at Olympic village"
-    excerpt: "Toyota Motor said on Friday it had suspended all self-driving e-Palette transportation pods at the Tokyo Paralympic Games village, a day after one of the vehicles collided with and injured a visually impaired pedestrian."
-    publishedDateTime: 2021-08-28T14:58:00Z
-    webUrl: "https://www.nbcnews.com/news/world/toyota-suspends-self-driving-vehicles-after-accident-olympic-village-n1277849"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1277849"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1277849"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 74
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_34/3502164/210828-toyota-epalette-mb-1553.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Toyota is suspending its self-driving buses in Paralympics Village after one accidentally hit a visually-impaired athlete"
     excerpt: "The autonomous vehicles were shown off at the 2020 Tokyo Games, helping athletes travel to their events and around the Olympic village."
     publishedDateTime: 2021-08-27T20:24:00Z
@@ -224,6 +208,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 30
+  - title: "Tokyo Paralympics: Judoka Aramitsu Kitazono Withdraws After Being Hit by Self-Driving Bus in Village"
+    excerpt: "The incident took place on Thursday afternoon when the automated electric vehicle, called an e-Palette and developed by Toyota, struck Kitazono after turning right into a pedestrian crossing."
+    publishedDateTime: 2021-08-28T09:52:00Z
+    webUrl: "https://www.india.com/sports/tokyo-paralympics-japanese-judoka-aramitsu-kitazono-withdraws-after-being-hit-by-self-driving-bus-in-village-4919874/"
+    ampWebUrl: "https://www.india.com/sports/tokyo-paralympics-japanese-judoka-aramitsu-kitazono-withdraws-after-being-hit-by-self-driving-bus-in-village-4919874/amp/"
+    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/sports/tokyo-paralympics-japanese-judoka-aramitsu-kitazono-withdraws-after-being-hit-by-self-driving-bus-in-village-4919874/amp/"
+    type: article
+    provider:
+      name: India.com
+      domain: india.com
+    quality: 29
+    images:
+      - url: "https://s3.india.com/wp-content/uploads/2021/08/pjimage-2021-08-28T165052.351.jpg"
+        width: 1200
+        height: 670
+        isCached: true
   - title: "Toyota suspends use of self-driving vehicle in Olympic Village after collision with Paralympic athlete"
     excerpt: "A self-driving Toyota vehicle was barely moving, but it still managed to collide with a visually-impaired athlete at the Paralympic Games, raising"
     publishedDateTime: 2021-08-27T21:52:00Z
@@ -278,6 +278,6 @@ related:
       domain: digitaljournal.com
     quality: 19
 
-secured: "welRF8kzHX5V3XaHbnvVM+qgKEzcjy8Eu7qam665ONGHnCHgNgww4TJKJ8ojKoNCpuf9NcaHjpUOyLAdrkVjNaWu/9uvdI86SUZyxpdYQtixaOt9gaglS144IGADFftS/Dg+7Fu/7lIMMHrQg0RvQI+3qb9gueG7PAdm5yBMU6nKbWeW3tOqBxhY45Ia2BduSJS6ltutLtcYd9Tg/OqX7YxCN/PDdj5duym5MTI43tyeFfKzcnUJ1xRNUrc6g1oZDcT/fSMjrJgA5ZHH2VBMWcZqtqjrYHIussEVWF+TNNFYOVd5Da7JNn40l2SJczX/WZVPBZ5K11Nqazys6QgU+tKBJjwW9ykWyFoc+XVPUcJVtYwyp0WfJx7+Oth/LsCR0xApAOUSyG/RzIOBx3scK+p7RpT0zJA5b4sD1pambRTRz1qqCCx6L2cgzKcIXX6W/8hd9FjXUl8cllaDSbYIia42O9YTbKK19ciGVfg/zV0iZfgFqERIGhT49MIYK3mqQGGarUw1DDKhpjyp2kiubg==;TGNMfMrH7g6NlNQR+Z0Muw=="
+secured: "QvRtn2baH5D43XB4zSeAreOsN9l4o4HFLvRHpOIptVhzP6f8LS4zKINIfB4DwCBWZp4NX+N/U4WFmbZ1+Wk1ggNMID3RI+QRMxwW31b8gc8C33+KrFpJKf9URA3z0E8uptRiA9V2A6nj3nyPLJOGwXUnFR2R0bCzaQzPQuHKzNTqqO8aHmAReWzHGIIcmFgovEZ81ToBWavUTYaD9Huf+pcDwOW6xiiMTywlnmglRMUgZqEBkYWI0v8kSu/IusoNP1i2q8dBHc20CztZCe/I5l/lhzm13x2J49LEZR0DKqWOwh76oUrmU8kMNPOwf1JHqT/FWY4n54uqeiRrA3iGc9WVA+wMLA9qyvIz/QciaEw=;4aloaxEKbfunPVmWK5nnPw=="
 ---
 

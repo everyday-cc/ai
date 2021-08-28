@@ -35,6 +35,15 @@ related:
         width: 615
         height: 409
         isCached: true
+  - title: "Hone your skills for the tech revolution expected to create 'millions of new jobs by 2025'"
+    excerpt: "Professor Reid explained: \" Artificial intelligence is all about getting a computer to ... AI is going to be massive in comparison.\" For example, driverless cars are already being trialled in the UK and Professor Reid predicts we will see fully autonomous ..."
+    publishedDateTime: 2021-08-28T10:13:00Z
+    webUrl: "https://www.belfastlive.co.uk/special-features/hone-your-skills-tech-revolution-21362472"
+    type: article
+    provider:
+      name: Belfast Live
+      domain: belfastlive.co.uk
+    quality: 0
 
 secured: "k4IjGeNJmMZIxFidbR+K9uCb8WkLSee/nWjZz3MfSS5FPoJJdCKHwvYbpBSCmdIHQ0fhBpk1sd2iKdI5UpjLtFLEwV3gZ0hq1VYDovjylPJLrwlj+/qgBVyZ4rTzAAUkGzMIGlnPN4POFaAeOhwz9EAs6K6tp309rdiFCngnB7tSyL4a9txuYVumvk44V5M0EZ3U0ENjreq96Cu6dfRVn9j6DY2BEB6ClRKJywxL14n9yfwmwtw1FnYCfEeWvLRrIi5VS0WXl8GgPl4eWkX/LdRWNh3xpJwJHorq0wqkjFiV7njKmQFnaBFh7dICQ51OGt6M2/B8//E7J8KHJGFSCYfu3bgDN9OHYe/Ojes2vXztCMIiNs8DMGhraNyFW/DwZM4EfeCAAcMzN+FaJlKIWpIktuCcWv/ffU0EcsB4XOzjNmtLunUsRJ1LB/CJkHBFCjUUNqsSCIZa4I/0M5WBZSW5ZMIFwnzleVxUZ6pSFo6544c4+aQ5MVEUy0678Fbr1SGhbrlcZf2ccqyIGzouPA==;FWiRuKWCOuJ3/hHeWE74qw=="
 ---

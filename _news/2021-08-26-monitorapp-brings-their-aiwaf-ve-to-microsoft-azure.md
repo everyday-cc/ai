@@ -35,20 +35,6 @@ related:
         width: 770
         height: 433
         isCached: true
-  - title: "Microsoft's AI Mudede Versus the Real Mudede"
-    excerpt: "Last week, the technologist side of Boudinot did something monstrous with an AI presently owned by Microsoft, GPT-3. This program, developed by OpenAI, is described as \"an autoregressive language [machine] that uses deep learning to produce human-like text."
-    publishedDateTime: 2021-08-23T22:42:00Z
-    webUrl: "https://www.thestranger.com/slog/2021/08/23/60660743/microsofts-ai-mudede-versus-the-real-mudede"
-    type: article
-    provider:
-      name: The Stranger
-      domain: thestranger.com
-    quality: 54
-    images:
-      - url: "https://media2.fdncms.com/stranger/imager/u/large/60663519/1629754829-img_20210102_180202_568_1_.jpg"
-        width: 700
-        height: 875
-        isCached: true
   - title: "Otter.ai Makes Automated Meeting Notes Even Easier With Otter Assistant Now Available for Microsoft Teams, Google Meet, and Cisco Webex"
     excerpt: "Otter.ai announced the launch of Otter Assistant for Microsoft Teams, Google Meet, and Cisco Webex for Otter Business Plan users. After an initi"
     publishedDateTime: 2021-08-25T13:00:00Z
