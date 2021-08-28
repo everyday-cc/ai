@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/free-speech-case-facial-recognition-opinion
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/free-speech-case-facial-recognition-opinion-1623006?amp=1"
 type: article
 quality: 91
-heat: 161
+heat: 151
 published: true
 
 provider:
@@ -117,20 +117,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
         width: 1800
         height: 734
-        isCached: true
-  - title: "The use of facial recognition technology for policing in Delhi: An empirical study of potential religion-based discrimination"
-    excerpt: "The use of new technology like facial recognition by police in India raises questions of efficiency, surveillance, and discrimination."
-    publishedDateTime: 2021-08-23T05:25:00Z
-    webUrl: "https://www.medianama.com/2021/08/223-facial-recognition-technology-policing-delhi/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 12
-    images:
-      - url: "https://www.medianama.com/wp-content/uploads/2020/10/flat-3252983_1280.png.png"
-        width: 1280
-        height: 1066
         isCached: true
 
 secured: "p8422efI5XxY1DofzArgLE6Ct39JZFzXXI1PnMqnDZktpJgw3trqIE97mSgBAsgY2Q59XDiyufoCM9N0pPrY4EVMPHEbJ4RMJM4GVlmLMCdDuXhEPdf7caK/MfLWVehLUOGs5HXxWXANsduJ1fkxUcsRYEBTEK8AtwqahMzvM6ABkL0jXQxuXnUyaNmfQPk2bVU5NmL7iCLDEL2NxWkVcNUGXHSo6wujYzsEW8b3hx/S4WuGmo8Sx4x3lTx0mxfm4IRLt82aJPHcwpAYnf3O4ktbPhQNOwHbutxqvqnwPKDX3J2K8w9w/vLymnI21fjVnIT/ur+EMgz28ojWejHUlU6nX86FAfQ2oLARDh7t6R4=;DDvYfiXCWN+7oBWFXwp8VQ=="

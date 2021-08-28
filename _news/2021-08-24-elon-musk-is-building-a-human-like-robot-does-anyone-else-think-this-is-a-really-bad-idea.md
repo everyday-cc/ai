@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/index.php/category/18502/index.php/google-amp/
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/18502/index.php/google-amp/article/elon-musk-is-building-a-human-like-robot-does-anyone-else-think-this-is-a-really-bad-idea/"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -23,19 +23,6 @@ provider:
 topics:
   - AI in Robotics
   - AI
-
-related:
-  - title: "Elon Musk is building a human-like robot: Does anyone else think this is a really bad idea?"
-    excerpt: "Yep, he's at it again. Apparently, launching a sports car into space wasn't enough. Now, he's hoping to unleash an army of labor-saving bipedal robots into our homes and businesses."
-    publishedDateTime: 2021-08-23T06:41:00Z
-    webUrl: "https://www.zdnet.com/article/elon-musk-is-building-a-human-like-robot-does-anyone-else-think-this-is-a-really-bad-idea/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/elon-musk-is-building-a-human-like-robot-does-anyone-else-think-this-is-a-really-bad-idea/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/elon-musk-is-building-a-human-like-robot-does-anyone-else-think-this-is-a-really-bad-idea/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 59
 
 secured: "GWqUcIBbSL1UXDrz+AM5ixXU1ESQdSxawEQJtq5fpCtwLUC0jmB+Rtwamv2aUZxHh3yoFjddjaPXRJdAgRtsL9GN/gzG9fCBmkuy0yfHxvlVHiA5Es2jRdT5H/vDejtQCuvnPE8whpJlYiIMg7dKgzPP2ch/fhm+9eMaqq4GcibtVrfcU8aDkOAPDlZxd79PFTbIF5n/foVDwPBOXNcqOPZ5Pb0DBqqqYCTJEFTZ2toTlCaA3bwSzozU3TXGrDgZ0qKJGMaUz52mxc6fMFXY919fC0pB/tzEebp4PiLq53yVABcHm63Sy29qffLJrXlL/72SbaFlsJ19fO3T8qlQcVWutbgE4HiDfrl9wMr7xahCi0qprfrUeGEqX+ENJq9OXUBTEwc12W4EGjF/WcW/7d3XgW76LkCq4zC7nXfnLRNARieWc/wI6yIB6KEs1v3VjShd82RKY4ipnVD4uIjzGrQzaVeQ7xUXuOx+Sjd2ONd+a/7XS5PT+ZkzpiGjp72BL0giRl08FQto/w8QopduLw==;y1oWebz/YDf14c+ydzsIIQ=="
 ---

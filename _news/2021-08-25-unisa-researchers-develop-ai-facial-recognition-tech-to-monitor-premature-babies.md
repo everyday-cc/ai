@@ -89,20 +89,6 @@ related:
         width: 860
         height: 520
         isCached: true
-  - title: "AI Features Auto Firms Are Embedding In Cars"
-    excerpt: "AI has its applications across sectors, and nowadays, it has become a hot-selling potato in the automotive industry, especially in cars."
-    publishedDateTime: 2021-08-23T05:30:00Z
-    webUrl: "https://analyticsindiamag.com/ai-features-auto-firms-are-embedding-in-cars/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/AI-Features-Auto-Firms-Are-Embedding-In-Cars.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "AI Day 2021 to bring together world’s top-notch AI experts and researchers"
     excerpt: "Empowering Innovations, organized by VinAI Research (the tech arm of Vingroup) will be held on August 27, 2021, aiming to unlock solutions to developing artificial intelligence in Vietnam. The event anticipates up to 2,"
     publishedDateTime: 2021-08-24T01:43:00Z

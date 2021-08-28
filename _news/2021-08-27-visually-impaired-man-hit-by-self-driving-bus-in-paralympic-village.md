@@ -120,6 +120,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 30
+  - title: "Toyota suspends use of self-driving vehicle in Olympic Village after collision with Paralympic athlete"
+    excerpt: "A self-driving Toyota vehicle was barely moving, but it still managed to collide with a visually-impaired athlete at the Paralympic Games, raising"
+    publishedDateTime: 2021-08-27T21:52:00Z
+    webUrl: "https://whdh.com/sports/toyota-suspends-use-of-self-driving-vehicle-in-olympic-village-after-collision-with-paralympic-athlete/"
+    ampWebUrl: "https://whdh.com/sports/toyota-suspends-use-of-self-driving-vehicle-in-olympic-village-after-collision-with-paralympic-athlete/amp/"
+    cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/sports/toyota-suspends-use-of-self-driving-vehicle-in-olympic-village-after-collision-with-paralympic-athlete/amp/"
+    type: article
+    provider:
+      name: WHDH
+      domain: whdh.com
+    quality: 28
+    images:
+      - url: "https://whdh.com/wp-content/uploads/sites/3/2021/08/hypatia-h_a0e0e4099994406cfe0dcb161ec7565a-h_e209b227e66925b2d5393382665e3467-e1630101166428.jpg?quality=60&strip=color&w=1024"
+        width: 1024
+        height: 602
+        isCached: true
 
 secured: "hZ+TA+OZtLkQ716shsGBxjDgRftZnNwDAbUrC6niB+aeLeHA1S+FG993LW9KhPYozKsl8esxwOBDDP9Xa/jskRen9wHUwJAH5c8zJB54HmLUytUqk7kaG0JBLDfk13Lc3TLgo0VA3UyEgoaunmxA8Ijmt/v/U71mTgL/F11Bg8RQzmHoNVmf7tL5IuK9n6WvqYmMClug01nH6xXJ5ydVS5mNMrH4oQzZqpj+qZuG12dlO5xx1fQNuQRQgoQmEFCZUF4r5Hks6QRWncK+/uO/rSC8XYjRCb5kuesoqJs+JtLQZzqnPGM5WsS1/KsusnubQumTYMU99HfSzOIT1UjgPe0GN81yX5QZvQAsr/lo5zf/YURcT6NZGKdez8D6pUq/rNAfUVZFTniyjNpDZFxOCiaRrL78SlEXa25CIeLR9N+IcZu5yvreXmaDlC1XDLKh7bulJnvM0m7KUjMT8bEWnpse9NpCZfMWeaaaU2yrFmOB2WFWAH8WB9YAOQmQFgF280Xs6GxffFKV/Hfb3HGL9w==;xg8lnXU3TCaOZGTiF2u4Zg=="
 ---

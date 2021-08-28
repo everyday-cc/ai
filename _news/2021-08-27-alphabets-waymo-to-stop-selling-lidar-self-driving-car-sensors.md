@@ -1,22 +1,20 @@
 ---
 category: news
 title: "Alphabet's Waymo to stop selling lidar self-driving car sensors"
-excerpt: "Alphabet's self-driving unit Waymo said on Thursday that it has ended a two-year effort to sell light detection and ranging (lidar) sensors to other companies."
-publishedDateTime: 2021-08-27T13:04:00Z
-originalUrl: "https://www.cnbc.com/2021/08/27/alphabets-waymo-to-stop-selling-lidar-self-driving-car-sensors.html"
-webUrl: "https://www.cnbc.com/2021/08/27/alphabets-waymo-to-stop-selling-lidar-self-driving-car-sensors.html"
-ampWebUrl: "https://www.cnbc.com/amp/2021/08/27/alphabets-waymo-to-stop-selling-lidar-self-driving-car-sensors.html"
-cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/08/27/alphabets-waymo-to-stop-selling-lidar-self-driving-car-sensors.html"
+excerpt: "Alphabet Inc's self-driving unit Waymo said on Thursday that it has ended a two-year effort to sell light detection and ranging (lidar) sensors to other companies."
+publishedDateTime: 2021-08-27T14:57:00Z
+originalUrl: "https://www.reuters.com/technology/alphabets-waymo-stop-selling-lidar-self-driving-car-sensors-sources-2021-08-27/"
+webUrl: "https://www.reuters.com/technology/alphabets-waymo-stop-selling-lidar-self-driving-car-sensors-sources-2021-08-27/"
 type: article
-quality: 89
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: CNBC
-  domain: cnbc.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - AI
 
 images:
-  - url: "https://image.cnbcfm.com/api/v1/image/106934327-16300761732021-08-27t022009z_2039007649_rc2edp9zmkla_rtrmadp_0_waymo-lidar.jpeg?v=1630076244"
-    width: 3500
-    height: 2333
+  - url: "https://www.reuters.com/resizer/icCZxD-J3v_6pHauZBSNngXG9zc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JH3ID44JRRIOTM3QAF4FV2F4OY.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
@@ -274,6 +272,6 @@ related:
       domain: globalspec.com
     quality: 19
 
-secured: "iOEmSY/7PBNX7pi3Ogov5CoTgX6VGtxUn9Uz9u/BkaAiLO9SoO+xKPjpSo5uE626GY0ktWiSoT16J5nb7UqCZq3sYS8Cd8VJnpc+xm/zRqWGhoBEkP0izsJnmsCIyguIYZi/VSWsD+W5O2tS2IOvHFy2yI8ojMUB/2PhPUok8oFCCfjcCImPAU1QqLL7UBPUCPJdn1zxmaiQZWUPR4liFCYxVlVpjX5UXC4YB7GAWxJU0fHYUo3AELxLEclYvdHGtThLuJcQ0Rq878pg8SUaNbJ8Hz4XuJv6DmpI7+TAwMmSOj7KPNgTSlfFs9cq++SPRN2b41IqFFbn2wZJWH0hHj13SX1x8NIqAKEo0oM2hlE=;zmGpOsBUnVxYALMOaYWAqQ=="
+secured: "6PxIfb9xwYFOArTgOW3Av/X8VkFTSCnZkiCZcw1MTZyjubMTwEEW7M/i+O3nG3mZTmVcyisoupMtzgcTCLv89M6fXkqE3+DqShilXMcFgOW/8h2N2hbGQ04EJwGqIP8KT8hJB+tUolVNzVe80Qu1fGCWhMPycHBSCDQhXbTegNmyEB04Gbrk8Y2WgLqmc3J8IukqBV2RkaAGJwxnrtRd0f4xHp5s0nqQub7oZLRTpZjSdjKBNdH47uCWoHb1hc3l5BlSQTu2zTkpBZxWeUHuj3PbDJ/AhMTrrGEuYeVQoKNwPepvPfLlTYD/JnqRX4pwzTYBmoEXPAZ+MMqTLmVD5qkjJjWMKb2gSyRMVUOhv/0=;a7wH0w52DkzS4oFXpNIv+A=="
 ---
 

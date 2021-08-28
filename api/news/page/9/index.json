@@ -2,6 +2,101 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-08-20-waymos-autonomous-vehicles-have-clocked-20-million-miles-on-public-roads.md",
+      "title": "Waymo's autonomous vehicles have clocked 20 million miles on public roads",
+      "excerpt": "Waymo has been testing its vehicles in San Francisco since 2009 and it ramped up its efforts in the city earlier this year. Its vehicles now clock north of 100,000 miles on SF's roads every week. Between narrow streets,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/waymo-autonomous-vehicles-update-san-francisco-193934150.html",
+      "originalUrl": "https://www.engadget.com/waymo-autonomous-vehicles-update-san-francisco-193934150.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-08/2229add0-0124-11ec-bfdd-21d53ef207c7",
+          "width": 2048,
+          "height": 1152,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-19T19:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-08-20-baidu-reveals-its-maximally-autonomous-robocar.md",
+      "title": "Baidu reveals its maximally autonomous ‘robocar’",
+      "excerpt": "At the end of 2018, John Krafcik, boss of Waymo at the time (Alphabet ... Kunlun chip specialised in calculations and artificial intelligence seems to be part of the solution.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2021/08/20/baidu-reveals-its-maximally-autonomous-robocar",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2021/08/20/baidu-reveals-its-maximally-autonomous-robocar",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2021/08/20/1262768.jpg",
+          "width": 800,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-19T17:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-20-ros-open-source-solutions.md",
       "title": "ROS / Open Source Solutions",
       "excerpt": "Amazon launched SageMaker Reinforcement Learning (RL) Kubeflow Components, an open-source toolkit designed to help manage robotics workflows. SageMaker RL is designed to make it faster to develop machine learning capabilities for everything from perception ...",
@@ -1104,92 +1199,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-how-this-technologist-is-using-beauty-as-a-tool-to-disrupt-facial-recognition.md",
-      "title": "How this technologist is using beauty as a tool to disrupt facial recognition",
-      "excerpt": "The biggest stories of the day delivered to your inbox. By signing up to the Mashable newsletter you agree to receive electronic communications from Mashable that may sometimes include ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/video/how-to-disrupt-surveillance-facial-recognition-tech",
-      "originalUrl": "https://mashable.com/video/how-to-disrupt-surveillance-facial-recognition-tech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/videos/00qvEiMeRxzCYbNV2ojrTjw/hero-image.fill.size_1200x675.v1628003112.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T05:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-sentiance-wins-2021-fintech-award-for-best-fintech-mobile-telematics-provider-europe.md",
-      "title": "Sentiance wins 2021 FinTech Award for \"Best FinTech Mobile Telematics Provider - Europe\"",
-      "excerpt": "Sentiance, an intelligence-driven data science and behavior change company, is awarded the \"Best FinTech Mobile Telematics Provider – Europe \" award by Wealth & Finance International. The FinTech Awards by Wealth & Finance International recognize and spotlight creative innovation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-sentiance-wins-2021-fintech-award-best-fintech-mobile-/2021/08/19/9434038.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-sentiance-wins-2021-fintech-award-best-fintech-mobile-/2021/08/19/9434038.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1597273/Sentiance_Award.jpg",
-          "width": 400,
-          "height": 230,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T05:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

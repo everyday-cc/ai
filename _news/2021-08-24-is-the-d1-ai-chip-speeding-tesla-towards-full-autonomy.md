@@ -85,22 +85,6 @@ related:
         width: 768
         height: 576
         isCached: true
-  - title: "Could Tesla Mass Produce Dojo AI Cloud Systems"
-    excerpt: "Tesla revealed its Exapod Dojo supercomputer made from 10 cabinets of servers. Each rack has 6 tiles with 9 Petaflops in each tile. Each cabinet is 100"
-    publishedDateTime: 2021-08-23T06:38:00Z
-    webUrl: "https://www.nextbigfuture.com/2021/08/could-tesla-mass-produce-dojo-ai-cloud-systems.html"
-    ampWebUrl: "https://www.nextbigfuture.com/2021/08/could-tesla-mass-produce-dojo-ai-cloud-systems.html"
-    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/08/could-tesla-mass-produce-dojo-ai-cloud-systems.html"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 74
-    images:
-      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/08/Screen-Shot-2021-08-19-at-7.36.59-PM.jpg"
-        width: 1566
-        height: 1280
-        isCached: true
   - title: "Tesla’s AI Day Made Self- Driving Technology Harder to Grasp. What Investors Need to Know."
     excerpt: "Companies are racing to build autonomous vehicles, but judging who has the best systems has become nearly impossible for ordinary people."
     publishedDateTime: 2021-08-24T08:30:00Z

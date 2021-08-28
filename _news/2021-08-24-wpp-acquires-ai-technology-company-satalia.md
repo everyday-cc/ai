@@ -9,8 +9,8 @@ ampWebUrl: "https://mumbrella.com.au/wpp-acquires-ai-technology-company-satalia-
 cdnAmpWebUrl: "https://mumbrella-com-au.cdn.ampproject.org/c/s/mumbrella.com.au/wpp-acquires-ai-technology-company-satalia-699700/amp"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 169
+published: true
 
 provider:
   name: Mumbrella
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "WPP acquires AI-tech firm Satalia"
-    excerpt: "WPP today announces that it has acquired Satalia, a technology company offering market-leading AI solutions for clients. Satalia is a global leader in enterprise AI and one of the UK’s fastest-growing tech companies,"
-    publishedDateTime: 2021-08-23T06:20:00Z
-    webUrl: "https://www.exchange4media.com/announcements-news/wpp-acquires-ai-tech-firm-satalia-115180.html"
-    ampWebUrl: "https://www.exchange4media.com/amp/announcements-news/wpp-acquires-ai-tech-firm-satalia-115180.html"
-    cdnAmpWebUrl: "https://www-exchange4media-com.cdn.ampproject.org/c/s/www.exchange4media.com/amp/announcements-news/wpp-acquires-ai-tech-firm-satalia-115180.html"
-    type: article
-    provider:
-      name: Exchange 4 Media
-      domain: exchange4media.com
-    quality: 59
-    images:
-      - url: "https://www.exchange4media.com/news-photo/115180-114480-112500-WPP-logo.jpg"
-        width: 730
-        height: 395
-        isCached: true
   - title: "WPP acquires agency specialising in artificial intelligence"
     excerpt: "Combining machine learning and optimisation, Satalia builds technologies \"that help clients transform their business strategies and radically"
     publishedDateTime: 2021-08-23T08:10:00Z

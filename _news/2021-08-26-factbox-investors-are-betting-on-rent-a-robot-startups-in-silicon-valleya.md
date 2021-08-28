@@ -9,7 +9,7 @@ ampWebUrl: "https://www.metro.us/factbox-investors-are-betting-on/amp/"
 cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/factbox-investors-are-betting-on/amp/"
 type: article
 quality: 58
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
     quality: 50
     images:
       - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2021binary_LYNXMPEH7P0CY-BASEIMAGE.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Factbox-Investors are betting on rent-a-robot startups in Silicon Valley"
+    excerpt: "Silicon Valley has a new pitch for small U.S. manufacturers struggling with hiring workers but wary of the high costs"
+    publishedDateTime: 2021-08-26T10:27:00Z
+    webUrl: "https://kelo.com/2021/08/26/factbox-investors-are-betting-on-rent-a-robot-startups-in-silicon-valley/"
+    type: article
+    provider:
+      name: KELO
+      domain: kelo.com
+    quality: 38
+    images:
+      - url: "https://storage.googleapis.com/media.mwcradio.com/mimesis/2021-08/26/2021-08-26T102946Z_1_LYNXMPEH7P0DO_RTROPTP_3_USA-ECONOMY-ROBOTS.JPG"
         width: 800
         height: 533
         isCached: true

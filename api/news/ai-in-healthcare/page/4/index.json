@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-07-13-how-ai-can-enable-better-health-care-outcomes.md",
+      "title": "How AI can enable better health care outcomes",
+      "excerpt": "AI in health care can reduce medical waste and over-testing, cut costs, and improve diagnostics and patient care, a Transform panel agreed.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/12/how-ai-can-enable-better-health-care-outcomes/",
+      "originalUrl": "https://venturebeat.com/2021/07/12/how-ai-can-enable-better-health-care-outcomes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/08/haptics-e1626058454242.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/12/how-ai-can-enable-better-health-care-outcomes/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/12/how-ai-can-enable-better-health-care-outcomes/amp/",
+      "publishedDateTime": "2021-07-12T14:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-13-artificial-intelligence-could-be-new-blueprint-for-precision-drug-discovery.md",
       "title": "Artificial intelligence could be new blueprint for precision drug discovery",
       "excerpt": "Researchers have described a new approach that uses machine learning to hunt for disease targets and then predicts whether a drug is likely to receive FDA approval.",
@@ -1246,40 +1298,6 @@
         "AI in Healthcare",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-global-artificial-intelligence-in-healthcare-deals-and-agreements-by-leading-players-from-2010-2021-researchandmarketscom.md",
-      "title": "Global Artificial Intelligence in Healthcare: Deals and Agreements by Leading Players From 2010-2021 - ResearchAndMarkets.com",
-      "excerpt": "and specific therapy focus. Each deal title links ... access to each contract document on demand. Chapter 6 lists artificial intelligence deals by technology type. Chapter 7 provides a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20210628005698/global-artificial-intelligence-in-healthcare-deals-and-agreements-by-leading-players-from-2010-2021-researchandmarketscom",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20210628005698/global-artificial-intelligence-in-healthcare-deals-and-agreements-by-leading-players-from-2010-2021-researchandmarketscom",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-28T10:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

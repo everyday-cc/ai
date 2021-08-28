@@ -122,22 +122,6 @@ related:
         width: 828
         height: 466
         isCached: true
-  - title: "IBM’s new on-chip accelerated AI processor is here. What’s its role in fraud detection?"
-    excerpt: "The new chip will leverage the full power of the AI processor for AI-specific workloads, making it ideal for fraud detection, loan processing, clearing and settlement of trades, anti-money laundering."
-    publishedDateTime: 2021-08-23T05:26:00Z
-    webUrl: "https://www.dqindia.com/ibms-new-chip-accelerated-ai-processor/"
-    ampWebUrl: "https://www.dqindia.com/ibms-new-chip-accelerated-ai-processor/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ibms-new-chip-accelerated-ai-processor/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 66
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2019/11/processor-583695_960_720.jpg"
-        width: 566
-        height: 400
-        isCached: true
   - title: "IBM Launches Telum, Its New AI Chip"
     excerpt: "The new chip features a centralised design, which allows clients to leverage the full power of the AI processor for AI-specific workloads."
     publishedDateTime: 2021-08-23T12:51:00Z

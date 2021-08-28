@@ -43,6 +43,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Factbox-Investors are betting on rent-a-robot startups in Silicon Valley"
+    excerpt: "Silicon Valley has a new pitch for small U.S. manufacturers struggling with hiring workers but wary of the high costs"
+    publishedDateTime: 2021-08-26T10:27:00Z
+    webUrl: "https://kelo.com/2021/08/26/factbox-investors-are-betting-on-rent-a-robot-startups-in-silicon-valley/"
+    type: article
+    provider:
+      name: KELO
+      domain: kelo.com
+    quality: 38
+    images:
+      - url: "https://storage.googleapis.com/media.mwcradio.com/mimesis/2021-08/26/2021-08-26T102946Z_1_LYNXMPEH7P0DO_RTROPTP_3_USA-ECONOMY-ROBOTS.JPG"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Rent-a-robot: Silicon Valley’s new answer to the labour shortage in smaller US factories"
     excerpt: "Silicon Valley has a new pitch to persuade small companies to automate: rent-a-robot. Better technology and the need to pay higher wages to humans have produced a surge in sales of robots to big companies all across America."
     publishedDateTime: 2021-08-26T11:55:00Z

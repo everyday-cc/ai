@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/researchers-make-sure-ai-works-for
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/researchers-make-sure-ai-works-for-farmers/amp/"
 type: article
 quality: 109
-heat: 189
+heat: 179
 published: true
 
 provider:
@@ -88,20 +88,6 @@ related:
       - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/researchers-demonstrate-ai-be-fooled-showcase_image-10-a-17366.jpg"
         width: 860
         height: 520
-        isCached: true
-  - title: "AI Features Auto Firms Are Embedding In Cars"
-    excerpt: "AI has its applications across sectors, and nowadays, it has become a hot-selling potato in the automotive industry, especially in cars."
-    publishedDateTime: 2021-08-23T05:30:00Z
-    webUrl: "https://analyticsindiamag.com/ai-features-auto-firms-are-embedding-in-cars/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/AI-Features-Auto-Firms-Are-Embedding-In-Cars.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "AI Day 2021 to bring together world’s top-notch AI experts and researchers"
     excerpt: "Empowering Innovations, organized by VinAI Research (the tech arm of Vingroup) will be held on August 27, 2021, aiming to unlock solutions to developing artificial intelligence in Vietnam. The event anticipates up to 2,"

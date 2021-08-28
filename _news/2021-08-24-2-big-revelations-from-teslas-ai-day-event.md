@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/08/23/2-big-revelations-from
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/08/23/2-big-revelations-from-tesla-ai-day-event/"
 type: article
 quality: 104
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -73,22 +73,6 @@ related:
       - url: "https://assets.cmcmarkets.com/images/Tesla_bots_2508_medium.jpg"
         width: 768
         height: 576
-        isCached: true
-  - title: "Could Tesla Mass Produce Dojo AI Cloud Systems"
-    excerpt: "Tesla revealed its Exapod Dojo supercomputer made from 10 cabinets of servers. Each rack has 6 tiles with 9 Petaflops in each tile. Each cabinet is 100"
-    publishedDateTime: 2021-08-23T06:38:00Z
-    webUrl: "https://www.nextbigfuture.com/2021/08/could-tesla-mass-produce-dojo-ai-cloud-systems.html"
-    ampWebUrl: "https://www.nextbigfuture.com/2021/08/could-tesla-mass-produce-dojo-ai-cloud-systems.html"
-    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/08/could-tesla-mass-produce-dojo-ai-cloud-systems.html"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 74
-    images:
-      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/08/Screen-Shot-2021-08-19-at-7.36.59-PM.jpg"
-        width: 1566
-        height: 1280
         isCached: true
   - title: "Is the ‘D1’ AI chip speeding Tesla towards full autonomy?"
     excerpt: "Tesla on its AI day, unveiled a custom chip for training artificial intelligence networks in data centers The D1 chip is part of Tesla’s Dojo"

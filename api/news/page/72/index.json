@@ -2,6 +2,92 @@
   "page": 72,
   "value": [
     {
+      "path": "_news/2021-07-07-sas-best-in-class-in-health-care-payment-integrity-says-aite-group.md",
+      "title": "SAS best in class in health care payment integrity, says Aite Group",
+      "excerpt": "SAS, the leader in massively parallel analytics and artificial intelligence (AI), is lauded as the best-in-class vendor in Aite Matrix: Payment Integrity in Healthcare. SAS' stability, brand recognition,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/sas-best-in-class-in-health-care-payment-integrity-says-aite-group-1030586131",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/sas-best-in-class-in-health-care-payment-integrity-says-aite-group-1030586131",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1559048/Aite_Group_names_SAS_best_in_class_for_health_care_payment_integrity.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-07T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-07-oneplus-nord-2-5g-to-have-new-ai-dimensity-chip.md",
+      "title": "OnePlus Nord 2 5G to have new AI Dimensity chip",
+      "excerpt": "Global smartphone brand OnePlus on Wednesday announced that it has joined hands with chip-maker MediaTek for Dimensity 1200-AI, which will be featured in the upcoming OnePlus Nord 2 5G smartphone.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sify.com/finance/oneplus-nord-2-5g-to-have-new-ai-dimensity-chip-news-topnews-vhhnk9ggchbfg.html",
+      "originalUrl": "https://www.sify.com/finance/oneplus-nord-2-5g-to-have-new-ai-dimensity-chip-news-topnews-vhhnk9ggchbfg.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-07T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sify.com",
+        "domain": "sify.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-07-ibm-research-unveils-framework-for-scaling-ai-workflows-across-the-hybrid-cloud.md",
       "title": "IBM Research unveils framework for scaling AI workflows across the hybrid cloud",
       "excerpt": "IBM Research on Wednesday unveiled CodeFlare, a new framework for integrating and scaling big data and AIworkflows in a hybrid cloud environment. The open-source framework aims to help developers cut back the time they spend creating pipelines to train and ...",
@@ -1058,93 +1144,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-ethics-part-of-curriculum-as-singapore-inks-ai-training-partnership-with-google-cloud.md",
-      "title": "Ethics part of curriculum as Singapore inks AI training partnership with Google Cloud",
-      "excerpt": "Participants of Singapore's artificial intelligence (AI) apprenticeship scheme have to go through training that includes ethics and governance, so they are aware of potential issues involving data bias. AI Singapore (AISG), which manages the apprenticeship ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ethics-part-of-curriculum-as-singapore-inks-ai-training-partnership-with-google-cloud/",
-      "originalUrl": "https://www.zdnet.com/article/ethics-part-of-curriculum-as-singapore-inks-ai-training-partnership-with-google-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ethics-part-of-curriculum-as-singapore-inks-ai-training-partnership-with-google-cloud/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ethics-part-of-curriculum-as-singapore-inks-ai-training-partnership-with-google-cloud/",
-      "publishedDateTime": "2021-07-06T19:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-australian-shares-rise-on-healthcare-tech-boost-challenger-shines.md",
-      "title": "Australian shares rise on healthcare, tech boost; Challenger shines",
-      "excerpt": "Australian shares rose on Wednesday, lifted by the healthcare and technology sectors, while Challenger Ltd jumped after two U.S. companies bought a stake in the investment manager.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/australia-stocks-midday-idUSL3N2OJ04L",
-      "originalUrl": "https://www.reuters.com/article/australia-stocks-midday-idUSL3N2OJ04L",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL3N2OJ04L",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL3N2OJ04L",
-      "publishedDateTime": "2021-07-06T17:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

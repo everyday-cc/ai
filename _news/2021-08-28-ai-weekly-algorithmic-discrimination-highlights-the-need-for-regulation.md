@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/08/27/ai-weekly-algorithmic-discrimination
 ampWebUrl: "https://venturebeat.com/2021/08/27/ai-weekly-algorithmic-discrimination-highlights-the-need-for-regulation/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/27/ai-weekly-algorithmic-discrimination-highlights-the-need-for-regulation/amp/"
 type: article
-quality: 86
-heat: 86
+quality: 88
+heat: 88
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all"
@@ -29,6 +30,6 @@ images:
     height: 600
     isCached: true
 
-secured: "bQqWrphLCJzLZZZ/OSFdgjRVKxFSgP8VERIJ93QTyJw03IvoCVuEKubFB2gSWprAtQKsxf6TXcDn/N+yaQntvnBlrxtdkR5BYX4a/VRAK+WREwHwDryzkPTtKDJ9HRkISlzKjgdna9S3bb1KMmQObJaKDlV7XpaZWZwRDUZ8xjAbLX+sDNu97Ga2hM6KULvHSE3Gigg9udEmsBT0GhHe+RNK2YTi5Pvw+BHWk2/Do8SaUCpg5jas0h4W15lnx0FH67Dr8dkf6AOICgtYKTiUxcH3cmxAyvZsffEVYHlKSb2XAXWP6XKLDkxR+DZuI4BuA3rbWNMyp66lcUZc3cxkzbAUdUS6c50JCLel4myUxWQ=;LmpB9psaeKTjSQ11BEHGmA=="
+secured: "39yRs16/7ieEp264EQqp71fIgkMKRjDV1gEknVF1mawCMmf1/Kxnv0/kEnSs+eXog2y/qU8bJHyFeAuDNPjCnM07N/TyGm9ByCN9KwTVam+c7iEVhZzuYP/pywf0Auu7gNLn01nngvNA+WjX4gJ9TLxUDtCfZXGXelpa/VxpToMzNS+t5+JI2rMKS5S2SjikIIO1zNInp2Z+ZDBxL8JXXqUNZqG6qF/57suk9yb0383bTOIrbWL45r1H5fwvIaE6yLOaggZ/9fq2CdLUweL6PlttmtWsKBbYyaDFwjnl0T+W6hQ5efQYXDhYODwvKwewoWKOvt/1F6NlJQcNA0Nz5rqotc6TyHMBqpRHRTb5msv1LoJ/Bq5+5Q4bFCpPVQfgnh6s3H++Nt2QJ0UyU4GLwJt0L7xV5IA4R5QG8iXneRj19yOU7cP2Ar56zaXhKaw8X3h5CNGha0MpbgFjrBfJi10cyPfhyYa1lQMUfZntjZpy0VHYmKwaaFX9yBbpQwVbymtVea46Eaom9wrffdFcHg==;4vYa+pwQTo2wMeAWlLx00w=="
 ---
 

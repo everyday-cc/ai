@@ -112,6 +112,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 30
+  - title: "Toyota suspends use of self-driving vehicle in Olympic Village after collision with Paralympic athlete"
+    excerpt: "A self-driving Toyota vehicle was barely moving, but it still managed to collide with a visually-impaired athlete at the Paralympic Games, raising"
+    publishedDateTime: 2021-08-27T21:52:00Z
+    webUrl: "https://whdh.com/sports/toyota-suspends-use-of-self-driving-vehicle-in-olympic-village-after-collision-with-paralympic-athlete/"
+    ampWebUrl: "https://whdh.com/sports/toyota-suspends-use-of-self-driving-vehicle-in-olympic-village-after-collision-with-paralympic-athlete/amp/"
+    cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/sports/toyota-suspends-use-of-self-driving-vehicle-in-olympic-village-after-collision-with-paralympic-athlete/amp/"
+    type: article
+    provider:
+      name: WHDH
+      domain: whdh.com
+    quality: 28
+    images:
+      - url: "https://whdh.com/wp-content/uploads/sites/3/2021/08/hypatia-h_a0e0e4099994406cfe0dcb161ec7565a-h_e209b227e66925b2d5393382665e3467-e1630101166428.jpg?quality=60&strip=color&w=1024"
+        width: 1024
+        height: 602
+        isCached: true
   - title: "Visually impaired man hit by self-driving bus in Paralympic Village"
     excerpt: "Self-driving shuttle buses are operating 24/7 in the Village - Copyright AFP Aamir QURESHIA visually impaired man was hit by a self-driving bus in the Paralympic village in Tokyo, organisers said Friday,"
     publishedDateTime: 2021-08-27T13:06:00Z

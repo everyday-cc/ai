@@ -114,20 +114,6 @@ related:
         width: 789
         height: 444
         isCached: true
-  - title: "The use of facial recognition technology for policing in Delhi: An empirical study of potential religion-based discrimination"
-    excerpt: "The use of new technology like facial recognition by police in India raises questions of efficiency, surveillance, and discrimination."
-    publishedDateTime: 2021-08-23T05:25:00Z
-    webUrl: "https://www.medianama.com/2021/08/223-facial-recognition-technology-policing-delhi/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 12
-    images:
-      - url: "https://www.medianama.com/wp-content/uploads/2020/10/flat-3252983_1280.png.png"
-        width: 1280
-        height: 1066
-        isCached: true
 
 secured: "IB9ckhsajvBORCIyV04WOMu5GvPFoQkKYqtDdIMykVcUsRcnWcrNMtl8F23t4oel7TSNGc95VzEqfrj+DhR/K1i3C8fBmYtBgdkvBCuUVjShtEo/w8UqM/6bBmvq1/lDJqE1DFZYgFSZf/leEsvfglD9c0vxcnCb69eRvFMeSNNj393iOmCoewHcxjG0+PEJ254FsIPCUB8CgXNADV01peuXICfPy9eGOt4myDgJJVOWZb7LGyVLf36eqwUwl3MQB4rSfj/0BTSK8ZFZa/JkVN8wWFE4pP3MJLmd7rDmLVmnYvf/Mdz66DfncPHfdvcNbJijBJJ65k3CvM3uxMP3IrItu6ieuwE0EyjuKvy4cZJoQ0kgyjtH/HrZAfuDd4a67Cv5iRK+vAoDZ+1kEr/63PVDuYR22mYsCcU0WyqCcEC/0DIjMgMQ56x8Y0FyIdqcGofgGdymcG2g+lXKb3dfaHtUy9/P+0cltnhYmr9Zj857kBTp7h2GGczoi1iaoJblePTum36VjdLLzDT+wocKrA==;7EAEMZo4lgBEO8St/hA/tw=="
 ---

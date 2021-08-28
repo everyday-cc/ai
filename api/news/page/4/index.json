@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-25-microsoft-teams-now-teachers-can-monitor-students-reading-fluency-with-ai.md",
+      "title": "Microsoft Teams: Now teachers can monitor students' reading fluency with AI",
+      "excerpt": "Reading Progress will help teachers build students' confidence and reading fluency at a time when face-to-face contact is less frequent.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-teams-teachers-get-a-free-ai-tool-to-monitor-students-reading-fluency/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-teams-teachers-get-a-free-ai-tool-to-monitor-students-reading-fluency/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/08/25/ff85b97e-6397-4e80-9b0e-d4c6a7f94694/teams-reading-progress.jpg",
+          "width": 770,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-teams-teachers-get-a-free-ai-tool-to-monitor-students-reading-fluency/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-teams-teachers-get-a-free-ai-tool-to-monitor-students-reading-fluency/",
+      "publishedDateTime": "2021-08-24T22:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-25-alethea-ai-raises-16m-in-private-token-sale-for-intelligent-nfts-for-the-metaverse.md",
       "title": "Alethea AI raises $16M in private token sale for intelligent NFTs for the metaverse",
       "excerpt": "Alethea AI, creator of the \"intelligent NFTs,\" or iNFTs, has raised $16 million in a private token sale to a group of investors.",
@@ -1129,7 +1181,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2021-08-24/afghanistan-war-turns-u-s-military-drone-startup-shield-into-unicorn",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 175,
       "tags": null,
       "images": [
         {
@@ -1170,58 +1222,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-onsolve-wins-security-todays-2021-new-product-of-the-year-award-for-artificial-intelligence.md",
-      "title": "OnSolve Wins Security Today's 2021 New Product of the Year Award for Artificial Intelligence",
-      "excerpt": "OnSolve, a leading critical event management provider for enterprises, SMB organizations, and government entities, today announced that it has been awarded Security Today's 2021 New Product of the Year Award in the Artificial Intelligence category.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/onsolve-wins-security-today-s-2021-new-product-of-the-year-award-for-artificial-intelligence-1030755066",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/onsolve-wins-security-today-s-2021-new-product-of-the-year-award-for-artificial-intelligence-1030755066",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1600179/2021_Security_Today_NPOY_Winner.jpg",
-          "width": 400,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-24T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

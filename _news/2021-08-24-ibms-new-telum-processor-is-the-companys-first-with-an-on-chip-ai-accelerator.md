@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ibms-new-telum-proce
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibms-new-telum-processor-is-the-companys-first-with-an-on-chip-ai-accelerator/"
 type: article
 quality: 100
-heat: 290
+heat: 280
 published: true
 
 provider:
@@ -110,22 +110,6 @@ related:
       - url: "https://www.wraltechwire.com/wp-content/uploads/2021/08/IBM_Tellus_Processor.png"
         width: 828
         height: 466
-        isCached: true
-  - title: "IBM’s new on-chip accelerated AI processor is here. What’s its role in fraud detection?"
-    excerpt: "The new chip will leverage the full power of the AI processor for AI-specific workloads, making it ideal for fraud detection, loan processing, clearing and settlement of trades, anti-money laundering."
-    publishedDateTime: 2021-08-23T05:26:00Z
-    webUrl: "https://www.dqindia.com/ibms-new-chip-accelerated-ai-processor/"
-    ampWebUrl: "https://www.dqindia.com/ibms-new-chip-accelerated-ai-processor/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ibms-new-chip-accelerated-ai-processor/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 66
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2019/11/processor-583695_960_720.jpg"
-        width: 566
-        height: 400
         isCached: true
   - title: "Next-Gen IBM Mainframes Will Have On-Chip AI Accelerators"
     excerpt: "The new chip design is meant to enable AI inference on the mainframe for things like real-time fraud detection, faster trade settlement, and more."

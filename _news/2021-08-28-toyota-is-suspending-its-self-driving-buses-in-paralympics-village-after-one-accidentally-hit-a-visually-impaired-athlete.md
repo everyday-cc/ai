@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/toyota-suspends-self-driving-buses-a
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/toyota-suspends-self-driving-buses-after-paralympic-accident-2021-8?amp"
 type: article
 quality: 64
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -116,6 +116,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 30
+  - title: "Toyota suspends use of self-driving vehicle in Olympic Village after collision with Paralympic athlete"
+    excerpt: "A self-driving Toyota vehicle was barely moving, but it still managed to collide with a visually-impaired athlete at the Paralympic Games, raising"
+    publishedDateTime: 2021-08-27T21:52:00Z
+    webUrl: "https://whdh.com/sports/toyota-suspends-use-of-self-driving-vehicle-in-olympic-village-after-collision-with-paralympic-athlete/"
+    ampWebUrl: "https://whdh.com/sports/toyota-suspends-use-of-self-driving-vehicle-in-olympic-village-after-collision-with-paralympic-athlete/amp/"
+    cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/sports/toyota-suspends-use-of-self-driving-vehicle-in-olympic-village-after-collision-with-paralympic-athlete/amp/"
+    type: article
+    provider:
+      name: WHDH
+      domain: whdh.com
+    quality: 28
+    images:
+      - url: "https://whdh.com/wp-content/uploads/sites/3/2021/08/hypatia-h_a0e0e4099994406cfe0dcb161ec7565a-h_e209b227e66925b2d5393382665e3467-e1630101166428.jpg?quality=60&strip=color&w=1024"
+        width: 1024
+        height: 602
+        isCached: true
   - title: "Visually impaired man hit by self-driving bus in Paralympic Village"
     excerpt: "Self-driving shuttle buses are operating 24/7 in the Village - Copyright AFP Aamir QURESHIA visually impaired man was hit by a self-driving bus in the Paralympic village in Tokyo, organisers said Friday,"
     publishedDateTime: 2021-08-27T13:06:00Z
@@ -126,6 +142,6 @@ related:
       domain: digitaljournal.com
     quality: 19
 
-secured: "LfD7fkLTDQjRoa2G98hckPEuPHUG5EqKeQhQsah7bARFUnpQbFSsF4gO4J3IrBihjia5e2PhyHOkw5/60VEnyyiEJdK/hpXA+S5is5hWSM//vLP919b3Zch+p/8F+rameQVrRJ+m43ey3HnUhf8c8gScYByrt8yZ1tqz3YKHOjGEUpKNj7LUmcFGjkaDB3mc41X3giViZ7nYaLP3xA3o7v+/pO8tgQqkzJOjMxhklU0PTjwPZlDBNEVm+FPXtCaMngV/Oqkm3EqYdbukWjsNqPwNiRtI8HBoHF7HjAGldjsKZmneUZn9a04LTh0MLT3S5/sYaswPIs/BbGOiT0Nl2WKePM2NdBbMcGRWKDCzgP4=;WRbECCO9Yhb6DbTbya4VEA=="
+secured: "+oazfZ1u8H+fpSYeAYgDQ2Y+QXFiIfFmQufWSFCdd5I/xVc4bGMLGMd/T27NAu3hL66xbMAcOzOeEDM4J3/Ifq3WY5f1XMOdvd/g9blAfbv3/MsDvowv+MbgDWfNEqNKH48q1JRcPYOA7SONPnZYQkKMMFwrypnzibMnwQPPol6fMDv5mV+pl4DOLMlAMxoshK0DGuhuEdGMMAY38R1eSD6ugtyC++LQt0mMjbY8u94jEnuvc3wWWwqkmf7kyxafBgwDtxM+gOm561mKvad+Sp/AKKVMCg6HeZQzk5I7kt/i182AQangQ+oCKuZKlIJ04zDqVEO4EBQZoNo0BwaEEazgABFpnAjzsARxj9Bby6f7l0lTDA7sijH8jcsX/F/7INfPlO2EhgnOMaeOsEkv2UUxZyTKXDt5TJsmSlt2S+Xv5YgRogTl2ifjOb3PCJDmwQQR0BF9QeAf1z2xmjAxCSTWs7nTwZgeXtdCIYH72bXXpmYO/+9PEWx2TdsrFtpZs0meKdzPA3tLlS5nY1HvMw==;qc/UqM54/Vmsu61n91buLQ=="
 ---
 

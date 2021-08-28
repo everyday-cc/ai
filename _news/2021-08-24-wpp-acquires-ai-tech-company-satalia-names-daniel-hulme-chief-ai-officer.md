@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "WPP acquires AI-tech firm Satalia"
-    excerpt: "WPP today announces that it has acquired Satalia, a technology company offering market-leading AI solutions for clients. Satalia is a global leader in enterprise AI and one of the UK’s fastest-growing tech companies,"
-    publishedDateTime: 2021-08-23T06:20:00Z
-    webUrl: "https://www.exchange4media.com/announcements-news/wpp-acquires-ai-tech-firm-satalia-115180.html"
-    ampWebUrl: "https://www.exchange4media.com/amp/announcements-news/wpp-acquires-ai-tech-firm-satalia-115180.html"
-    cdnAmpWebUrl: "https://www-exchange4media-com.cdn.ampproject.org/c/s/www.exchange4media.com/amp/announcements-news/wpp-acquires-ai-tech-firm-satalia-115180.html"
-    type: article
-    provider:
-      name: Exchange 4 Media
-      domain: exchange4media.com
-    quality: 59
-    images:
-      - url: "https://www.exchange4media.com/news-photo/115180-114480-112500-WPP-logo.jpg"
-        width: 730
-        height: 395
-        isCached: true
   - title: "WPP acquires AI-technology company Satalia"
     excerpt: "WPP has announced the acquisition of Satalia, a technology company offering AI solutions for clients. The full announcement is below.The announcement:Satalia is a global leader in enterprise AI and one of the UK’s fastest-growing tech companies,"
     publishedDateTime: 2021-08-23T22:14:00Z

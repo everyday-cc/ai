@@ -9,7 +9,7 @@ ampWebUrl: "https://inc42.com/buzz/foodtech-startup-ai-palette-raises-funds-led-
 cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/foodtech-startup-ai-palette-raises-funds-led-by-pi-ventures-exfinity-venture/amp/"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -18,22 +18,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "QVentures invests in Semeris, a LegalTech AI startup for Financial Services"
-    excerpt: "QVentures has announced their latest fund investment into Semeris, a legal AI startup that builds contract analysis products for the financial sector."
-    publishedDateTime: 2021-08-23T06:00:00Z
-    webUrl: "https://www.angelnews.co.uk/blog/ai-robotics/qventures-invests-in-semeris-a-legaltech-ai-startup-for-financial-services/"
-    type: article
-    provider:
-      name: angelnews.co.uk
-      domain: angelnews.co.uk
-    quality: 35
-    images:
-      - url: "https://www.angelnews.co.uk/an2017/images/Semeris.png"
-        width: 920
-        height: 700
-        isCached: true
 
 secured: "BZztq8kJzuq9ERX2OfaDKJl7jcXxz02IhvqG7MFbgPoRiDcW59MpPp1uIJcMA7tyxbv6zilg0Ckx2jNjSEtxxxCtl1XbQxsBRcodV8C5kVWyClbbv8c1YvlrbFFJaIURTXdmbXIhaCXynJmvMqHpWhTfD+1C4cToTUFEWrz0YQu1us+IAhyZ09ZrioBHmwP6OgtNrE3chYHiQ4InZgUHvdKiK+titPWbYDpRoofn0ooCi4Opj1mFTzw4bYnj7IiSuFUyaACdV5qPzLyoIRl/aF+ErrMXYin9z9iX8kxmbAM0fBlV02yESJANKvRahCP34DxXBgeb4mzJPyZcrvZz3brUBY+RdF3UQvXwQGkIRVyYO5PuUgJM1QND6pDOfLbuuTLZOUnYKS7Xq/es/39BZZqagEUp7S2ceOJ6GIhVikSgDSoeItcnfxX53donhDVGTmACDGr6onNw5A6w8IZEZtjA3t+9CdBn6i4nag7nRxJ78Uh5qDNntEhoL8noOEoNSbOX7bJhSdZxH6Z7iAk/Eg==;FCR1nSMDGe1mYZL8qa/7ow=="
 ---
