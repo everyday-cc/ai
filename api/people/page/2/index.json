@@ -17,7 +17,7 @@
       "twitter": {
         "username": "noramayc",
         "url": "https://twitter.com/noramayc",
-        "followers": 17481
+        "followers": 17479
       },
       "topics": [
         "AI"
@@ -46,7 +46,7 @@
       "twitter": {
         "username": "bschoelkopf",
         "url": "https://twitter.com/bschoelkopf",
-        "followers": 7537
+        "followers": 7536
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=DZ-fHPgAAAAJ",
@@ -95,7 +95,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=1-hcASEAAAAJ",
-        "citations": 67013
+        "citations": 67027
       },
       "affiliation": {
         "path": "",
@@ -169,7 +169,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=-hmxit8AAAAJ",
-        "citations": 43149
+        "citations": 43164
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Oren_Etzioni"
@@ -438,14 +438,14 @@
       "twitter": {
         "username": "rajatmonga",
         "url": "https://twitter.com/rajatmonga",
-        "followers": 14215
+        "followers": 14214
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/rajatmonga/"
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=W8yZCNsAAAAJ",
-        "citations": 41309
+        "citations": 41377
       },
       "affiliation": {
         "path": "",
@@ -518,6 +518,50 @@
       "content": "\r\n"
     },
     {
+      "path": "_people/clement-farabet.md",
+      "title": "Clément Farabet",
+      "excerpt": "VP, AI infra @ NVIDIA, building self-driving cars and GPU based data science. Ex Twitter (Cortex cofounder). Prev cofounder at Madbits. Deep learning, AI.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/clement-farabet/index.json",
+      "webUrl": "https://everyday.cc/ai/people/clement-farabet/",
+      "type": "profile",
+      "name": "Clément Farabet",
+      "bio": "VP, AI infra @ NVIDIA, building self-driving cars and GPU based data science. Ex Twitter (Cortex cofounder). Prev cofounder at Madbits. Deep learning, AI.",
+      "location": "San Francisco, CA",
+      "website": "http://www.clement.farabet.net/",
+      "twitter": {
+        "username": "clmt",
+        "url": "https://twitter.com/clmt",
+        "followers": 11032
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/clementfarabet"
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=u3u16tgAAAAJ",
+        "citations": 9130
+      },
+      "affiliation": {
+        "path": "",
+        "name": "nyu.edu - Homepage",
+        "domain": "nyu.edu - Homepage"
+      },
+      "topics": [
+        "AI",
+        "AI in Hardware"
+      ],
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/953003983307550720/GhDHdn42_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Clément Farabet",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_people/andrew-zisserman.md",
       "title": "Andrew Zisserman",
       "excerpt": "Andrew Zisserman FRS is a British computer scientist and a professor at the University of Oxford, and a researcher in computer vision. As of 2014 he is affiliated with DeepMind.",
@@ -528,7 +572,7 @@
       "bio": "Andrew Zisserman FRS is a British computer scientist and a professor at the University of Oxford, and a researcher in computer vision. As of 2014 he is affiliated with DeepMind.",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=UZ5wscMAAAAJ",
-        "citations": 266864
+        "citations": 267381
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Andrew_Zisserman"
@@ -685,7 +729,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=910z20QAAAAJ",
-        "citations": 49343
+        "citations": 49407
       },
       "wikipedia": {
         "url": "http://en.wikipedia.org/wiki/Daniela_L._Rus"
@@ -740,7 +784,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=7_xEzmUAAAAJ",
-        "citations": 155216
+        "citations": 155376
       },
       "affiliation": {
         "path": "",
@@ -780,7 +824,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=P6krKIkAAAAJ",
-        "citations": 162559
+        "citations": 162650
       },
       "affiliation": {
         "path": "",
@@ -818,7 +862,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=4mF2FgcAAAAJ",
-        "citations": 326478
+        "citations": 326607
       },
       "affiliation": {
         "path": "",
@@ -891,7 +935,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=q_wYjF8AAAAJ",
-        "citations": 252422
+        "citations": 252647
       },
       "affiliation": {
         "path": "",
@@ -932,7 +976,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=9akH-n8AAAAJ",
-        "citations": 47268
+        "citations": 47218
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Harry_Shum"
@@ -1098,7 +1142,7 @@
       "twitter": {
         "username": "jeanliuqing",
         "url": "https://twitter.com/jeanliuqing",
-        "followers": 1375
+        "followers": 1376
       },
       "weibo": {
         "url": "https://www.weibo.com/u/2209030102",
@@ -1195,7 +1239,7 @@
       "bio": "Queen Mary University of London",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=1DS8DjgAAAAJ",
-        "citations": 227176
+        "citations": 227332
       },
       "affiliation": {
         "path": "",
@@ -1213,54 +1257,6 @@
           "width": 96,
           "height": 128,
           "title": "Jonathan Hays",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/josh-cogan.md",
-      "title": "Josh Cogan",
-      "excerpt": "PhD Physics, Stanford University",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/josh-cogan/index.json",
-      "webUrl": "https://everyday.cc/ai/people/josh-cogan/",
-      "type": "profile",
-      "name": "Josh Cogan",
-      "bio": "PhD Physics, Stanford University",
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=_EPCKe0AAAAJ",
-        "citations": 200632
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Stanford",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          },
-          {
-            "url": "/assets/images/organizations/stanford.edu-400x400.jpg",
-            "width": 400,
-            "height": 400,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://scholar.google.com/citations?view_op=view_photo&user=_EPCKe0AAAAJ&citpid=2",
-          "width": 128,
-          "height": 84,
-          "title": "Josh Cogan",
           "isCached": false
         }
       ],
