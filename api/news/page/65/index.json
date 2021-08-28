@@ -2,6 +2,93 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2021-07-13-global-speech-recognition-market-2021-industry-research-review-growth-segmentation-key-players-analysis-and-forecast-to-2027.md",
+      "title": "Global Speech Recognition Market 2021 Industry Research, Review, Growth, Segmentation, Key Players Analysis and Forecast to 2027",
+      "excerpt": "The global Speech Recognition market size is projected to reach US$ 17490 million by 2027, from US$ 9461.8 million in 2020, at a CAGR of 9.1% during 2021-2027. This report studies the Global Speech Recognition market status and outlook of global and major regions,",
+      "sourceUrl": null,
+      "webUrl": "https://www.arnnet.com.au/mediareleases/144447/global-speech-recognition-market-2021-industry/",
+      "originalUrl": "https://www.arnnet.com.au/mediareleases/144447/global-speech-recognition-market-2021-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-13T07:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-machine-learning-can-set-your-document-data-free-heres-how.md",
+      "title": "Machine Learning Can Set Your Document Data Free - Here’s How",
+      "excerpt": "Financial services organizations need to examine documents ... Optical Character Recognition (OCR), and machine learning (ML) to capture, extract, and process data from different types of documents. Even though digitization and IDP has been top of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/amazonwebservices/2021/07/13/machine-learning-can-set-your-document-data-freeheres-how/",
+      "originalUrl": "https://www.forbes.com/sites/amazonwebservices/2021/07/13/machine-learning-can-set-your-document-data-freeheres-how/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d4ff08cd155fb463f2f788%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/amazonwebservices/2021/07/13/machine-learning-can-set-your-document-data-freeheres-how/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amazonwebservices/2021/07/13/machine-learning-can-set-your-document-data-freeheres-how/amp/",
+      "publishedDateTime": "2021-07-13T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-07-13-computer-vision-has-potential-to-radically-transform-industries-insight-and-idg-study-shows.md",
       "title": "Computer Vision Has Potential to Radically Transform Industries, Insight and IDG Study Shows",
       "excerpt": "Insight commissioned IDG to conduct a survey of 200 business and IT leaders to better understand the awareness, adoption and perceptions of computer",
@@ -1055,100 +1142,6 @@
         "Machine Learning",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-global-underwater-computer-vision-market-2021-scope-of-current-and-future-industry-swot-analysis-and-investment-feasibility-2026.md",
-      "title": "Global Underwater Computer Vision Market 2021 Scope of Current and Future Industry, SWOT Analysis and Investment Feasibility 2026",
-      "excerpt": "According to MarketsandResearch.biz, the latest report titled Global Underwater Computer Vision Market 2021 by Company, Regions, Type and Application, Forecast to 2026 helps the firms in getting a comprehensive analysis of the industry which comprises an assessment of the parental market and gives forecast information on the market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-underwater-computer-vision-market-2021-scope-of-current-and-future-industry-swot-analysis-and-investment-feasibility-2026-2021-07-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-underwater-computer-vision-market-2021-scope-of-current-and-future-industry-swot-analysis-and-investment-feasibility-2026-2021-07-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-12T17:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-cuban-embassy-attacks-and-the-microwave-auditory-effect.md",
-      "title": "Cuban Embassy Attacks And The Microwave Auditory Effect",
-      "excerpt": "They also have plenty of spill — operators standing behind the device always need ... Images from Frey’s paper Frey’s article describes how test subjects were able to hear buzzing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/behind-paper-led-google-researchers-firing/",
-      "originalUrl": "https://hackaday.com/2017/09/25/cuban-embassy-attacks-and-the-microwave-auditory-effect/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5fce6e94b9624e586e3e9906/master/pass/Business-Timnit-Gebru-h_15454848.jpg",
-          "width": 2400,
-          "height": 1659,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/behind-paper-led-google-researchers-firing/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/behind-paper-led-google-researchers-firing/amp",
-      "publishedDateTime": "2021-07-12T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

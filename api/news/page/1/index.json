@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-29-i-went-to-a-play-written-by-ai-it-was-like-looking-in-a-circus-mirror.md",
+      "title": "I went to a play written by AI; it was like looking in a circus mirror",
+      "excerpt": "At the Young Vic theatre in London last week, an experimental production called AI played a three-night run. The objective of this collaboration between person and machine was to emerge at the end with a 30-minute script, written by artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/sg/news/i-went-to-a-play-written-by-ai-it-was-like-looking-in-a-circus-mirror",
+      "originalUrl": "https://www.techradar.com/sg/news/i-went-to-a-play-written-by-ai-it-was-like-looking-in-a-circus-mirror",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/s2TJB2EMeXZQHeKtBj6bGb-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/sg/amp/news/i-went-to-a-play-written-by-ai-it-was-like-looking-in-a-circus-mirror",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/i-went-to-a-play-written-by-ai-it-was-like-looking-in-a-circus-mirror",
+      "publishedDateTime": "2021-08-28T12:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-29-the-future-of-american-democracy-hinges-on-ethical-ai.md",
       "title": "The future of American democracy hinges on ethical AI",
       "excerpt": "Not since the race to develop the atomic bomb has a technology had as much potential to effect the balance of power between democracy and authoritarianism.",
@@ -1193,58 +1244,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-ibm-announces-new-tennis-power-rankings-fantasy-tennis-teams-and-more-ahead-of-us-open.md",
-      "title": "IBM announces new tennis power rankings, fantasy tennis teams and more ahead of US Open",
-      "excerpt": "IBM unveiled a slate of new AI-powered tools on Friday centered around the US Open, which kicks off in New York City on Monday. Tennis fans will have a bevy of new match and player information available to them thanks to IBM,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/article/ibm-announces-new-tennis-power-rankings-fantasy-tennis-teams-and-more-ahead-of-us-open/",
-      "originalUrl": "https://www.zdnet.com/index.php/article/ibm-announces-new-tennis-power-rankings-fantasy-tennis-teams-and-more-ahead-of-us-open/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/08/27/b9ce487a-48ab-430b-9889-61dc0b4c6291/match-insights-example-2.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/article/ibm-announces-new-tennis-power-rankings-fantasy-tennis-teams-and-more-ahead-of-us-open/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/ibm-announces-new-tennis-power-rankings-fantasy-tennis-teams-and-more-ahead-of-us-open/",
-      "publishedDateTime": "2021-08-27T01:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

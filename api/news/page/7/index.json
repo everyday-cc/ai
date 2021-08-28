@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-08-23-an-artificial-intelligence-helped-write-this-play-it-may-contain-racism.md",
+      "title": "An Artificial Intelligence Helped Write This Play. It May Contain Racism",
+      "excerpt": "OpenAI believes that this kind of AI research will reshape the global economy. Earlier this month, they debuted a new version of GPT-3 that can translate ... you train large language models ...",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6092078/artificial-intelligence-play/",
+      "originalUrl": "https://time.com/6092078/artificial-intelligence-play/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://api.time.com/wp-content/uploads/2021/08/ai-teaser.jpg?quality&#x3D;85",
+          "width": 780,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-23T08:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-23-seeking-early-signals-of-dementia-in-driving-and-credit-scores.md",
       "title": "Seeking Early Signals of Dementia in Driving and Credit Scores",
       "excerpt": "The pathologies underlying brain decline can begin years before symptoms emerge. Can everyday behavior provide warning?",
@@ -492,6 +544,49 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-08-23-improving-creative-quality-could-save-brands-millions-in-media-spend-according-to-creativex-research.md",
+      "title": "Improving Creative Quality Could Save Brands Millions in Media Spend, According to CreativeX Research",
+      "excerpt": "CreativeX, an AI-powered technology company that enables brands to measure the impact of creative decisions, today released a landmark industry report, \"Insights From",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/improving-creative-quality-could-save-brands-millions-in-media-spend-according-to-creativex-research/article_6938f5e8-5d24-56ae-b602-11a32ea88dd7.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/improving-creative-quality-could-save-brands-millions-in-media-spend-according-to-creativex-research/article_6938f5e8-5d24-56ae-b602-11a32ea88dd7.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-23T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
       ]
     },
     {
@@ -1106,92 +1201,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-autonomous-self-driving-vehicle-news-waymo-woven-planet-perrone-robotics-aurora-baidu-lightware-robosense-ghost-robotics.md",
-      "title": "Autonomous & Self Driving Vehicle News: Waymo, Woven Planet, Perrone Robotics, Aurora, Baidu, LightWare, RoboSense & Ghost Robotics",
-      "excerpt": "In autonomous and self-driving vehicle news are Waymo, Woven Planet, Perrone Robotics, Aurora, Baidu, LightWare, RoboSense and Ghost Robotics. Waymo is building a dedicated trucking hub in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoconnectedcar.com/2021/08/autonomous-self-driving-vehicle-news-waymo-woven-planet-perrone-robotics-aurora-baidu-lightware-robosense-ghost-robotics/",
-      "originalUrl": "https://www.autoconnectedcar.com/2021/08/autonomous-self-driving-vehicle-news-waymo-woven-planet-perrone-robotics-aurora-baidu-lightware-robosense-ghost-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.autoconnectedcar.com/wp-content/uploads/2019/06/autonomousandselfdrivingvehnews2.png",
-          "width": 640,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-22T13:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "autoconnectedcar.com",
-        "domain": "autoconnectedcar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-ai-set-to-steer-indian-cars-in-new-direction.md",
-      "title": "AI set to steer Indian cars in new direction",
-      "excerpt": "The soon-to-be launched MG Astor will have a technology that lets the car temporarily take control of steering",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/technology/tech-news/ai-set-to-steer-indian-cars-in-new-direction-11629652014913.html",
-      "originalUrl": "https://www.livemint.com/technology/tech-news/ai-set-to-steer-indian-cars-in-new-direction-11629652014913.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/08/22/600x338/43ffb346-035e-11ec-89fd-c0c117172485_1629652013154_1629652056551.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/technology/tech-news/ai-set-to-steer-indian-cars-in-new-direction/amp-11629652014913.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/ai-set-to-steer-indian-cars-in-new-direction/amp-11629652014913.html",
-      "publishedDateTime": "2021-08-22T10:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

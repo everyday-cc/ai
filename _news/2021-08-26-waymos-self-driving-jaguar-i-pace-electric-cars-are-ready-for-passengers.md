@@ -230,6 +230,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Alphabet’s Waymo to stop selling lidar self-driving car sensors"
+    excerpt: "Waymo told Reuters that it is now focusing on deploying its Waymo Driver technology across its Waymo One ride-hailing and Waymo Via trucking operations."
+    publishedDateTime: 2021-08-28T19:27:00Z
+    webUrl: "https://techstory.in/alphabets-waymo-to-stop-selling-lidar-self-driving-car-sensors/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/08/download-2-1.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Waymo is Now Picking Up Riders in its Self-Driving Robotaxis in San Francisco"
     excerpt: "Alphabet’s autonomous driving division Waymo, which spun out of Google’s self-driving car project, has launched its commercial robotaxi service in San Francisco for a select group of early testers. The company was approved to begin picking up passengers in its driverless vehicles for the first time in the city after extensively testing its technology using safety drivers behind the wheel."
     publishedDateTime: 2021-08-24T17:00:00Z

@@ -83,20 +83,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "IBM Unveils On-Chip Accelerated AI Processor"
-    excerpt: "IBM unveiled details of the upcoming new IBM Telum Processor, designed to bring deep learning inference to enterprise workloads"
-    publishedDateTime: 2021-08-24T01:45:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/20593-ibm-unveils-on-chip-accelerated-ai-processor"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 54
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/f77372562623ffbc4fc486e55ae06035.jpg?t=20210824_014348"
-        width: 752
-        height: 408
-        isCached: true
   - title: "IBM Unveils Chip for Accelerating AI Inference Engines"
     excerpt: "The IBM Telum Processor is the company’s first chip capable of providing that acceleration capability while transactions are processing."
     publishedDateTime: 2021-08-25T18:23:00Z

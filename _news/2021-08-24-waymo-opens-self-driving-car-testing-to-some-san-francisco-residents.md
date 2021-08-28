@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/08/24/waymo-opens-self-driving-car-tes
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/08/24/waymo-opens-self-driving-car-testing-to-some-san-francisco-residents.html"
 type: article
 quality: 159
-heat: 329
+heat: 339
 published: true
 
 provider:
@@ -215,6 +215,20 @@ related:
       - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Waymo%20jag%20SF%20web%281%29.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Alphabet’s Waymo to stop selling lidar self-driving car sensors"
+    excerpt: "Waymo told Reuters that it is now focusing on deploying its Waymo Driver technology across its Waymo One ride-hailing and Waymo Via trucking operations."
+    publishedDateTime: 2021-08-28T19:27:00Z
+    webUrl: "https://techstory.in/alphabets-waymo-to-stop-selling-lidar-self-driving-car-sensors/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/08/download-2-1.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Waymo's self-driving Jaguar I-Pace electric cars are ready for passengers"
     excerpt: "San Francisco riders will have a self-driving electric car do the driving—although an \"autonomous specialist\" will be onboard."

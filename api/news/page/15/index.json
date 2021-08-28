@@ -2,6 +2,101 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-08-17-medius-squashes-invoice-lead-times-with-efficient-ai-tech.md",
+      "title": "Medius squashes invoice lead times with efficient AI tech",
+      "excerpt": "Experts talk about Medius' state-of-the-art data capture software that uses clever AI to extract invoice data automatically. STOCKHOLM,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/medius-squashes-invoice-lead-times-with-efficient-ai-tech-1030736976",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/medius-squashes-invoice-lead-times-with-efficient-ai-tech-1030736976",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-17T00:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-samsung-is-using-artificial-intelligence-to-design-its-new-exynos-chips.md",
+      "title": "Samsung is using Artificial Intelligence to design its new Exynos chips",
+      "excerpt": "Samsung has confirmed that the company will be using Artificial Intelligence (AI) to create its new chips and added that it will be using new software from Synopsys, a leading chip design software firm.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/08/17/samsung-exynos-chips-ai-design/",
+      "originalUrl": "https://www.gizmochina.com/2021/08/17/samsung-exynos-chips-ai-design/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2020/10/20201009142558_65337.png",
+          "width": 1204,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-16T23:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-17-china-ev-maker-warns-terms-like-self-driving-may-mislead-people.md",
       "title": "China EV Maker Warns Terms Like Self Driving May Mislead People",
       "excerpt": "The Chief Executive Officer of Chinese electric-car maker Li Auto Inc. has said the industry should limit using the terms autonomous and self driving, considering no automobile today is truly capable of that and its common usage is becoming misleading for consumers.",
@@ -1069,84 +1164,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-16-will-project-dojo-be-the-central-focus-of-teslas-tsla-ai-day.md",
-      "title": "Will Project Dojo be the Central Focus of Tesla's (TSLA) AI Day?",
-      "excerpt": "The AI Day is expected to shed light on new information about the development progress with respect to Tesla’s much touted Full Self-Driving (FSD) suite. Full Self-Driving builds on Tesla’s advanced driver-assistance system known as Autopilot,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/will-project-dojo-be-the-central-focus-of-teslas-tsla-ai-day-2021-08-16",
-      "originalUrl": "https://www.nasdaq.com/articles/will-project-dojo-be-the-central-focus-of-teslas-tsla-ai-day-2021-08-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/will-project-dojo-be-the-central-focus-of-teslas-tsla-ai-day-2021-08-16?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/will-project-dojo-be-the-central-focus-of-teslas-tsla-ai-day-2021-08-16?amp",
-      "publishedDateTime": "2021-08-16T08:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-16-ai-in-ict-information-and-communications-technology-market-2021-and-analysis-to-2027-aibrian-amazon-att-aysadi-baidu.md",
-      "title": "AI in ICT (Information and Communications Technology) Market 2021 and Analysis to 2027 – AIBrian, Amazon, AT&T, Aysadi, Baidu",
-      "excerpt": "Market research report. The market is predictable to grow at a healthy pace in the coming years. AI in ICT (Information and Communications Technology) Market 2021 research report presents analysis of market size,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/ai-in-ict-information-and-communications-technology-market-2021-and-analysis-to-2027-aibrian-amazon-att-aysadi-baidu/",
-      "originalUrl": "https://manometcurrent.com/ai-in-ict-information-and-communications-technology-market-2021-and-analysis-to-2027-aibrian-amazon-att-aysadi-baidu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/08/AI-in-ICT-Information-and-Communications-Technology.jpg",
-          "width": 500,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/ai-in-ict-information-and-communications-technology-market-2021-and-analysis-to-2027-aibrian-amazon-att-aysadi-baidu/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/ai-in-ict-information-and-communications-technology-market-2021-and-analysis-to-2027-aibrian-amazon-att-aysadi-baidu/?amp=1",
-      "publishedDateTime": "2021-08-16T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

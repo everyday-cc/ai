@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech-focused Corporate Accelerator Program Launched in Egypt by Arab Bank"
-    excerpt: "Fintech-focused corporate accelerator program launched in Egypt by Arab Bank. Initiative will support adoption of modern financial services."
-    publishedDateTime: 2021-08-24T02:37:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/08/179462-fintech-focused-corporate-accelerator-program-launched-in-egypt-by-arab-bank/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/08/179462-fintech-focused-corporate-accelerator-program-launched-in-egypt-by-arab-bank/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/08/179462-fintech-focused-corporate-accelerator-program-launched-in-egypt-by-arab-bank/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 56
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/06/Abu-Simbel-Temples-Egypt-aussieactive-unsplash-300x219.jpg"
-        width: 300
-        height: 219
-        isCached: true
   - title: "F10 launches new fintech accelerator in Madrid"
     excerpt: "F10 Spain announces seven growth-stage WealthTech and RegTech startups selected from over 150 national and international applications, joining the first cohort of its newly designed Acceleration Programs."
     publishedDateTime: 2021-08-25T09:53:00Z
@@ -54,6 +38,20 @@ related:
       - url: "https://www.finextra.com/about/finextra-logo.png"
         width: 512
         height: 512
+        isCached: true
+  - title: "Fintech Douugh launches US wealth management advice service"
+    excerpt: "US-focused fintech Douugh (ASX:DOU) has launched Douugh Wealth, an integrated robo-advisory investment service, as part of its app."
+    publishedDateTime: 2021-08-24T23:50:00Z
+    webUrl: "https://www.startupdaily.net/2021/08/fintech-douugh-launches-us-wealth-management-advice-service/"
+    type: article
+    provider:
+      name: Startup Daily
+      domain: startupdaily.net
+    quality: 24
+    images:
+      - url: "https://389739-1225869-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2017/11/Andy-Douugh-e1629848967906.png"
+        width: 770
+        height: 513
         isCached: true
 
 secured: "cLrsxQkBFOtuo8xRUXF4VdH2TsWYY5CbLGWiNTHkNFc55Nr+3Af2mRKzjZnwCS3rla01dfw8uW+GHvAklfj8Iw7lGsRo4eJfpYD5KeOygfd9jrUvvIhAKe3Z040OQn+YhvBYqvHLr7JewMvbqG2DW/T0suEteU2Yi2JAK71fZbtn063BMriFicqWq8QvgaZASVd0clJvKGcjJuRIBiNEQe5mospHgqA6oO/1GEVIWdgqkhHklT4uX+24XeCPQKYFJ3cV4jWUuZKsjL/vr2vICMIgumeEUZJUf187AsY/Js/u01s9CVn6D++oEc5D6WEzCiQ0Th9h4edBAmDknb1RwIhhK/UPib9GqBU+dO1d8uY=;P8gPdr9rb+5TraVGScpRdA=="

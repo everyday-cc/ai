@@ -2,6 +2,92 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2021-07-15-opening-up-the-email-marketing-engine-to-artificial-intelligence.md",
+      "title": "Opening Up the Email Marketing Engine to Artificial Intelligence",
+      "excerpt": "With an average open email rate of 18.0% in 2020, it’s not like marketing teams are crushing this email thing. Wait, isn't 18% pretty good? We get that standards are low here, for sure. Bottom-line? Email remains a priority.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/digital-marketing/opening-up-the-email-marketing-engine-to-artificial-intelligence/",
+      "originalUrl": "https://www.cmswire.com/digital-marketing/opening-up-the-email-marketing-engine-to-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/2a91c10dbc3d4d22a7c8a94025410d28.ashx?mw=1024",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmswire.com/digital-marketing/opening-up-the-email-marketing-engine-to-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/opening-up-the-email-marketing-engine-to-artificial-intelligence/amp/",
+      "publishedDateTime": "2021-07-15T06:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-expertai-announces-winners-of-sentiment-opinion-mining-hackathon.md",
+      "title": "Expert.ai Announces Winners of Sentiment & Opinion Mining Hackathon",
+      "excerpt": "BOSTON, July 15, 2021 /PRNewswire/ -- Expert.ai announced today the winners of the \"Sentiment & Opinion Mining Natural Language API ... retrieval and machine translation, to make sure user ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/expertai-announces-winners-of-sentiment--opinion-mining-hackathon-301333647.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/expertai-announces-winners-of-sentiment--opinion-mining-hackathon-301333647.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1283900/Expert_ai_Logo.jpg?p=facebook",
+          "width": 1500,
+          "height": 785,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-major-study-from-stanford-university-and-youper-finds-artificial-intelligence-therapy-effective-at-reducing-anxiety-and-depression.md",
       "title": "Major Study From Stanford University and Youper Finds Artificial Intelligence Therapy Effective at Reducing Anxiety and Depression",
       "excerpt": "a team of scientists at Stanford University confirmed a new model of mental health treatment that uses artificial intelligence therapy is significantly effective at reducing symptoms of depression ...",
@@ -1040,92 +1126,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-toyota-buys-us-mapping-road-data-firm-to-bulk-up-driverless-tech.md",
-      "title": "Toyota Buys U.S. Mapping, Road Data Firm To Bulk Up Driverless Tech",
-      "excerpt": "TOKYO: Toyota Motor Corp’s research arm said on Thursday it acquired U.S.-based Carmera, a provider of maps and data for driverless vehicles, marking the Japanese car maker’s latest investment in autonomous technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news18.com/news/tech/toyota-buys-u-s-mapping-road-data-firm-to-bulk-up-driverless-tech-3964145.html",
-      "originalUrl": "https://www.news18.com/news/tech/toyota-buys-u-s-mapping-road-data-firm-to-bulk-up-driverless-tech-3964145.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.news18.com/ibnlive/uploads/2021/07/1627283897_news18_logo-1200x800.jpg?im=FitAndFill,width=1200,height=675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news18.com/amp/news/tech/toyota-buys-u-s-mapping-road-data-firm-to-bulk-up-driverless-tech-3964145.html",
-      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/tech/toyota-buys-u-s-mapping-road-data-firm-to-bulk-up-driverless-tech-3964145.html",
-      "publishedDateTime": "2021-07-14T16:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN-News18",
-        "domain": "news18.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-scientists-create-device-that-can-analyze-brain-waves-of-paralyzed-people-to-help-them-communicate.md",
-      "title": "Scientists create device that can analyze brain waves of paralyzed people to help them communicate",
-      "excerpt": "In recent years, experiments with mind-controlled prosthetics have allowed paralyzed people to shake hands or take a drink using a robotic arm - they imagine moving and those brain signals are ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/health/article-9789417/Device-taps-brain-waves-help-paralyzed-man-communicate.html",
-      "originalUrl": "https://www.dailymail.co.uk/health/article-9789417/Device-taps-brain-waves-help-paralyzed-man-communicate.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2021/07/15/00/45458855-0-image-a-19_1626304239634.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/health/article-9789417/amp/Device-taps-brain-waves-help-paralyzed-man-communicate.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/health/article-9789417/amp/Device-taps-brain-waves-help-paralyzed-man-communicate.html",
-      "publishedDateTime": "2021-07-14T16:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

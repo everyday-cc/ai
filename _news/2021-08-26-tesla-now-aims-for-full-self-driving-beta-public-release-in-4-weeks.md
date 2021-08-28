@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/08/25/tesla-full-self-driving-beta-public-r
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/25/tesla-full-self-driving-beta-public-release-4-weeks/amp/"
 type: article
 quality: 104
-heat: 224
+heat: 214
 published: true
 
 provider:
@@ -108,22 +108,6 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/506b2ab92309f57eaa0241dd2b42cadd.jpg"
         width: 800
         height: 449
-        isCached: true
-  - title: "Elon Musk says Tesla's self-driving software update is 'not great'"
-    excerpt: "Tesla CEO Elon Musk said on Monday said that the electric-car maker was working on improving the much-awaited update to its self-driving software \"as fast as possible.\""
-    publishedDateTime: 2021-08-24T02:45:00Z
-    webUrl: "https://www.foxbusiness.com/technology/elon-musk-tesla-self-driving-software-update-not-great"
-    ampWebUrl: "https://www.foxbusiness.com/technology/elon-musk-tesla-self-driving-software-update-not-great.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/elon-musk-tesla-self-driving-software-update-not-great.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 59
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/95caffd0-8849-41ef-87c2-87cc53146448/d1e30ead-8dc3-46a0-acbe-e92df8713a74/1280x720/match/image.jpg?pubId=854081161001"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Tesla's Full Self-Driving system 'not great,' admits Musk"
     excerpt: "Tesla CEO Elon Musk has admitted that the Full Self-Driving system is not that great, adding that the company is trying for a"
