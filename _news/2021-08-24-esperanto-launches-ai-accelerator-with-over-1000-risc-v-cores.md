@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Attacking fraud: On-chip AI accelerator boosts new IBM processor"
-    excerpt: "IBM's latest processor, the Telum Processor, is anticipated by the company to have applications in banking, finance, retail, healthcare, and more, due to \"on-chip accelerated AI.\""
-    publishedDateTime: 2021-08-24T11:47:00Z
-    webUrl: "https://www.wraltechwire.com/2021/08/24/attacking-fraud-on-chip-ai-accelerator-boosts-new-ibm-processor/"
-    ampWebUrl: "https://www.wraltechwire.com/2021/08/24/attacking-fraud-on-chip-ai-accelerator-boosts-new-ibm-processor/"
-    cdnAmpWebUrl: "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/08/24/attacking-fraud-on-chip-ai-accelerator-boosts-new-ibm-processor/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 74
-    images:
-      - url: "https://www.wraltechwire.com/wp-content/uploads/2021/08/IBM_Tellus_Processor.png"
-        width: 828
-        height: 466
-        isCached: true
   - title: "IBM unveils AI processor chip to help financiers deal with fraud"
     excerpt: "The AI processor chip is expected to help businesses move towards a fraud prevention posture from a fraud detection posture."
     publishedDateTime: 2021-08-24T13:42:00Z

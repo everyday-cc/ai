@@ -9,7 +9,7 @@ ampWebUrl: "https://www.law360.com/amp/articles/1415652"
 cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1415652"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -19,19 +19,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "Baidu's AI Voice Assistant Xiaodu Closes Funding at $5.1 Billion Valuation"
-    excerpt: "Chinese tech giant Baidu Inc said on Tuesday its artificial intelligence (AI) voice assistant Xiaodu Technology has closed Series B financing at a $5.1 billion valuation. This comes in the midst of a regulatory crackdown on the tech industry by the Chinese authorities that has led to an upheaval in many sectors including as e-commerce,"
-    publishedDateTime: 2021-08-24T11:09:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-08-24/baidus-ai-voice-assistant-xiaodu-closes-funding-at-51-billion-valuation"
-    ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-08-24/baidus-ai-voice-assistant-xiaodu-closes-funding-at-51-billion-valuation?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-08-24/baidus-ai-voice-assistant-xiaodu-closes-funding-at-51-billion-valuation?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 67
 
 secured: "vJWEoPO/qWfbCKW7iyznocHpmxQa5Pm6r4HGlvC79jJUQGvRKQEVsSPAA2dT0cMfkRbfby2YrIQdxC+X7DSzvwHGPXC+sgRRt2+hlf7uL0W+qfMf3zeG8C0r2/8Q9twa0IXm+/WdN5s2lGtDBZHBO2MLBfbiwFBh66vA5ndSWoP2kJ9z1n/3q/yiO413+J53BCsAhtdSezb4USKGtzWwGJ4HHKh1ItQ8GdukYrT1qRzrhVJ1ST1PKDEVCqZnpbzpr76tdz/XO3ziubUheTa99UJJfBz6KoUuEUX5Yv8uTlXzdEV8lZMFPDUIHdbqQ/fiNX3eAaMxiBq6aepSzIKyud8yggqz1vj8KzAs/e23qsA=;iI4UiiIx9lTo0NWyLrxFgA=="
 ---

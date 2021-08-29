@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1277849"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1277849"
 type: article
 quality: 74
-heat: 264
+heat: 274
 published: true
 
 provider:
@@ -212,6 +212,22 @@ related:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--t4i1sTaH--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:afp_watermark%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_338%2Cw_600/v1/one-cms/core/caf21689a607c9126f6e20187c8fd056e7548d5d.jpg?itok=ESZVmQC2"
         width: 600
         height: 338
+        isCached: true
+  - title: "Toyota Suspends Self-Driving Bus Use After One Strikes Paralympian Aramitsu Kitazono"
+    excerpt: "Toyota has suspended the use of its self-driving car fleet, otherwise known as e-Palette vehicles, after one of them struck visually-impaired"
+    publishedDateTime: 2021-08-29T04:14:00Z
+    webUrl: "https://bleacherreport.com/articles/10011240-toyota-suspends-self-driving-bus-use-after-one-strikes-paralympian-aramitsu-kitazono"
+    ampWebUrl: "https://syndication.bleacherreport.com/amp/10011240-toyota-suspends-self-driving-bus-use-after-one-strikes-paralympian-aramitsu-kitazono.amp.html"
+    cdnAmpWebUrl: "https://syndication-bleacherreport-com.cdn.ampproject.org/c/s/syndication.bleacherreport.com/amp/10011240-toyota-suspends-self-driving-bus-use-after-one-strikes-paralympian-aramitsu-kitazono.amp.html"
+    type: article
+    provider:
+      name: Bleacher Report
+      domain: bleacherreport.com
+    quality: 37
+    images:
+      - url: "https://media.bleacherreport.com/image/upload/v1630207231/muqhv4cmgkfsclstwuzo.jpg"
+        width: 4420
+        height: 2941
         isCached: true
   - title: "Toyota Halts e-Palette Self-Driving Vehicle Operations After One Hits Paralympic Athlete"
     excerpt: "Toyota is grounding all e-Palette self-driving vehicles currently operating within the athlete’s village at the Tokyo Paralympic Games. The decision follows an accident in which one of the vehicles ran into a visually impaired pedestrian on August 26."

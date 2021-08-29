@@ -54,15 +54,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "eSentire Achieves AWS Level 1 Managed Security Service Provider Competency Status"
-    excerpt: "(GLOBE NEWSWIRE) -- eSentire, recognized globally as the Authority in Managed Detection and Response (MDR), announced today that it has achieved Amazon Web Services (AWS) Level 1 Managed Security Service Provider (MSSP) Competency status."
-    publishedDateTime: 2021-08-24T12:27:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/8314382/esentire-achieves-aws-level-1-managed-security-service-provider-competency-status"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 31
 
 secured: "UjcWcjcYk9RjaoYFu9qAF1iybd5nCZwbLloRZLnuTs7EYAtJV2hiS/RTrnGZg0t3irVLPU2OjtKpxHnsb1DPnux74tIjIWKAZRbXMdxOYHMd3vvBPvl2IdOs7fkkeEmcjaaoqdob3RwB67TCO75bBMic+jR9SaOkBeqS4BtDaqx+tOizSfNN36aTSFbBZxG6FrsLkbjJi+VCe/JgvG+KHVYGe02K4rYVOHeTnrwEw+7mnJ1VeblDjug8Zf1bpncW1K10P1d8mBtSwoH+3Fv125YqJ1NfEqiIrMraTa/0jy30HkHcQ2Pad6in8cTAMEdnOYbHwpyYjvQmS7Dzs1Nr9Fyi2l741pjl9AiIb9ZhZ0k=;//fTLHv/YyACCql+KASTUQ=="
 ---

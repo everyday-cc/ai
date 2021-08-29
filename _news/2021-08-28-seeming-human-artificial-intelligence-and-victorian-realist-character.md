@@ -62,6 +62,20 @@ related:
         width: 256
         height: 256
         isCached: true
+  - title: "Investing in automation: Strategies manufacturing companies need to know"
+    excerpt: "Control Engineering - Learning Objectives Investing in automation and the Internet of Things (IoT) can help keep manufacturers ahead of the curve. Companies also need to"
+    publishedDateTime: 2021-08-29T05:02:00Z
+    webUrl: "https://www.controleng.com/articles/investing-in-automation-strategies-manufacturing-companies-need-to-know/"
+    type: article
+    provider:
+      name: Control Engineering
+      domain: controleng.com
+    quality: 23
+    images:
+      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2021/08/PLEx_WEB_IMG_Cincinnati-Slider-1.jpeg"
+        width: 645
+        height: 350
+        isCached: true
 
 secured: "UUgAvzY5Uge7QwnUW6Dx3BK4lsFyNiKjE2UA8B7Ps4avg5G+/P1IuDG3DNuyS3O6BE1CqVnVYHOJ6nUbBJjj6FYmSTIp27jJsg5Yc7QnAoEyapca3L5SUqrtsracoPKuTssErGMP5aM0X5jxzFp23RmPi4rhXHRHoUxk4tzm5MhyMvkP7YmzjX5ZEEsmr58CU8OLvUJH+ZtgO7kZtHvE4hMyAxlolfmI91lnJhG/Z8Btm62rp7HMuxEcKxKSPNHKyk1WAlb/w76KLlwyCSkppgbRtHrKLNhHdHtZouBpEL6RCGoIMiaoLWbsHh32088W6tcRA6dOZJyM3VjDyTBSlmjxvnUkTGsvyn8w+KAH19Q=;jta90KXeyYwStKpzdA9HOQ=="
 ---

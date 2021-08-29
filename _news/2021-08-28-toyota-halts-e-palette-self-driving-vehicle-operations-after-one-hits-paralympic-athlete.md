@@ -229,6 +229,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Toyota Suspends Self-Driving Bus Use After One Strikes Paralympian Aramitsu Kitazono"
+    excerpt: "Toyota has suspended the use of its self-driving car fleet, otherwise known as e-Palette vehicles, after one of them struck visually-impaired"
+    publishedDateTime: 2021-08-29T04:14:00Z
+    webUrl: "https://bleacherreport.com/articles/10011240-toyota-suspends-self-driving-bus-use-after-one-strikes-paralympian-aramitsu-kitazono"
+    ampWebUrl: "https://syndication.bleacherreport.com/amp/10011240-toyota-suspends-self-driving-bus-use-after-one-strikes-paralympian-aramitsu-kitazono.amp.html"
+    cdnAmpWebUrl: "https://syndication-bleacherreport-com.cdn.ampproject.org/c/s/syndication.bleacherreport.com/amp/10011240-toyota-suspends-self-driving-bus-use-after-one-strikes-paralympian-aramitsu-kitazono.amp.html"
+    type: article
+    provider:
+      name: Bleacher Report
+      domain: bleacherreport.com
+    quality: 37
+    images:
+      - url: "https://media.bleacherreport.com/image/upload/v1630207231/muqhv4cmgkfsclstwuzo.jpg"
+        width: 4420
+        height: 2941
+        isCached: true
   - title: "Toyota Halts All Self-Driving E-Palette Vehicles After Olympic Village Accident"
     excerpt: "Toyota Motor said on Friday it had suspended all self-driving e-Palette transportation pods at the Tokyo Paralympic Games village, a day after one of the vehicles collided with and injured a visually impaired pedestrian."
     publishedDateTime: 2021-08-27T14:30:00Z

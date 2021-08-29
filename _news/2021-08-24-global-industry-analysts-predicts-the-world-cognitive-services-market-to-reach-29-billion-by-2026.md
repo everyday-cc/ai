@@ -41,20 +41,6 @@ related:
         width: 800
         height: 418
         isCached: true
-  - title: "Valued to be $28.8 Billion by 2026, Artificial Intelligence (AI) in Fintech Slated for Robust Growth Worldwide"
-    excerpt: "Preview Registry Global Artificial Intelligence (AI) in Fintech Maket to Reach $28.8 Billion by 2026 The U.S. Market is Estimated at $1.5 Billion in 2021, While China is Forecast to Reach $4.2 Billion by 2026 The Artificial Intelligence (AI) in Fintech market in the U."
-    publishedDateTime: 2021-08-26T16:28:00Z
-    webUrl: "https://www.mobilitytechzone.com/lte/news/2021/08/26/9437950.htm"
-    type: article
-    provider:
-      name: Mobility Techzone
-      domain: mobilitytechzone.com
-    quality: 34
-    images:
-      - url: "https://mma.prnewswire.com/media/1601543/MCP21180.jpg"
-        width: 400
-        height: 252
-        isCached: true
   - title: "Deep Learning in Machine Vision Market Report Covers Future Trends With Research 2021-2027"
     excerpt: "Deep learning technology is seeing many appealing advancements in several machine learning sectors, involving the reinforcement learning, natural language processing (NLP), ML frameworks (Pytorch and TensorFlow),"
     publishedDateTime: 2021-08-26T16:32:00Z
@@ -66,20 +52,6 @@ related:
       name: List of Banks in Belarus
       domain: globalbankingandfinance.com
     quality: 31
-  - title: "A $14.9 Billion Global Opportunity for Artificial Intelligence (AI) in Manufacturing by 2026 - New Research from StrategyR"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Manufacturing - Global Market Trajectory & Analytics\"."
-    publishedDateTime: 2021-08-26T13:50:00Z
-    webUrl: "https://www.lelezard.com/en/news-19969717.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 30
-    images:
-      - url: "https://mma.prnewswire.com/media/1601546/Global_Opportunity_for_Artificial_Intelligence_in_Manufacturing.jpg"
-        width: 400
-        height: 387
-        isCached: true
   - title: "Growth in AI-Enabled Distributed Energy Resources Integration Market to Reach $481 Million by 2030"
     excerpt: "AI techniques have been deployed in the energy industry for a variety of grid and market operations. A new report from Guidehouse Insights analyzes AI capabilities for enabling distributed energy resources (DER) integration,"
     publishedDateTime: 2021-08-25T17:12:00Z
@@ -151,6 +123,6 @@ related:
         height: 450
         isCached: true
 
-secured: "SEsnFQJT+DHOAcmWSXjb29MX971wv2zrN4fDO2Ovti0Xut7JihnKtCzt5D+DtCZHnbL891Y9wH9hR/8KLLRoM4Zx8GgY66NU6hDZhewjU0tgTZ6BJKUmnJXU/fQ1LVyBQbNOU/KsxYKGcwsv33+04VMXhOY8Uk1AqcZKJv3nn+DzWLcmMkFBVO+3ZNMPb//k93MA/cTkQeo+d7daR+vuxzJHs0pKuSYM0WV9vvmiPSwyMOne3mxYn+tUrfO4VwGivBBXl/rf3YQR+e74Jm5D/GUhO6faPFAw+VWrYNW7W8/VP8R0f9grA8F7l1u8xJljXq0gbhsPCjepCTms6eTyx706SCg+stt1AKeMA2Smqs0=;hUE28QNO5UmQLnmHhBXKvQ=="
+secured: "rfnv6WgODH0kUaIJ0Hu8LiZLs52KlMnEE/7l/5fqKmgyfOBQVq0dsDfOBfoPNbo+VfiKY0k0EBbKzU2u9NNo+5q7FXgiYrOKs5gl6OkKhzOAVlZ190oVRqiH1GSjlWfWUOOiapgC2Xfg6lNAGXHHEhI453jDJZa90i+/DctBohdmYL/QzbRPvFWKngNhfIdJipLi4ZOmeL/QP7frtoQX/q/fGU6WJHwomo7JVWX/jwhlrh7PZp+4A5NxOMIOhuANQhkn/KQbnW+idpA1CFElMbLicqjoecxKrQkjfjoP5RMh4ra0zWq7lXH1D0RPtdnVrHauMKyIcz71K+pItTukE99JamcXL5JYUpdOPqGi+Qw=;eCLN3dXynGhEy1pSXidxYg=="
 ---
 

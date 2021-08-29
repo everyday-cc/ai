@@ -157,17 +157,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Google’s Waymo Expanding Ride-Hailing Self-Driving Car Service to San Francisco"
-    excerpt: "Google’s self-driving vehicle spinoff, Waymo, announced Tuesday that it’s expanding its autonomous ride-hailing service to."
-    publishedDateTime: 2021-08-24T11:52:00Z
-    webUrl: "https://sanfrancisco.cbslocal.com/2021/08/24/googles-waymo-expanding-ride-hailing-self-driving-car-service-to-san-francisco/"
-    ampWebUrl: "https://sanfrancisco.cbslocal.com/2021/08/24/googles-waymo-expanding-ride-hailing-self-driving-car-service-to-san-francisco/?amp"
-    cdnAmpWebUrl: "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/2021/08/24/googles-waymo-expanding-ride-hailing-self-driving-car-service-to-san-francisco/?amp"
-    type: article
-    provider:
-      name: CBS Local
-      domain: cbslocal.com
-    quality: 50
   - title: "Training Self-Driving Cars for $1 An Hour"
     excerpt: "Every day for over four years, Ramses woke up in his home in Barquisimeto, Venezuela, turned on his computer, and began labeling images that will help make self-driving cars ubiquitous one day. Through a microtasking platform called Remotasks,"
     publishedDateTime: 2021-08-25T12:59:00Z

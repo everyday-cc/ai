@@ -217,6 +217,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Toyota Suspends Self-Driving Bus Use After One Strikes Paralympian Aramitsu Kitazono"
+    excerpt: "Toyota has suspended the use of its self-driving car fleet, otherwise known as e-Palette vehicles, after one of them struck visually-impaired"
+    publishedDateTime: 2021-08-29T04:14:00Z
+    webUrl: "https://bleacherreport.com/articles/10011240-toyota-suspends-self-driving-bus-use-after-one-strikes-paralympian-aramitsu-kitazono"
+    ampWebUrl: "https://syndication.bleacherreport.com/amp/10011240-toyota-suspends-self-driving-bus-use-after-one-strikes-paralympian-aramitsu-kitazono.amp.html"
+    cdnAmpWebUrl: "https://syndication-bleacherreport-com.cdn.ampproject.org/c/s/syndication.bleacherreport.com/amp/10011240-toyota-suspends-self-driving-bus-use-after-one-strikes-paralympian-aramitsu-kitazono.amp.html"
+    type: article
+    provider:
+      name: Bleacher Report
+      domain: bleacherreport.com
+    quality: 37
+    images:
+      - url: "https://media.bleacherreport.com/image/upload/v1630207231/muqhv4cmgkfsclstwuzo.jpg"
+        width: 4420
+        height: 2941
+        isCached: true
   - title: "Toyota Halts e-Palette Self-Driving Vehicle Operations After One Hits Paralympic Athlete"
     excerpt: "Toyota is grounding all e-Palette self-driving vehicles currently operating within the athlete’s village at the Tokyo Paralympic Games. The decision follows an accident in which one of the vehicles ran into a visually impaired pedestrian on August 26."
     publishedDateTime: 2021-08-28T12:00:00Z
@@ -319,6 +335,6 @@ related:
         height: 338
         isCached: true
 
-secured: "FlUDXrP/dBa0sd1K0Z1vhuhDf60VyWsAyv7nZqQH7XbvtrJEhlks46sjRiln24fv1IoLLsbmygP7OsnbHHFF+P85794Qv5tIUzZ7cZnF8qt014XjNXYQGmSjCwVA0JC9+dHRfy/+NXzGEm3XKvuaW5R+W6GysHV66S98EtUOce2YHl9sC0g+/ar1ogqOwyZKDXqqzOWgOiDHVxK7ml7cils0B7FhxjUvYMDg08bWuMefqygNMZFsRN/sAWlY403zGKvSx1gNO8Fj87iv4PDrw2ygQPXj9McbVXTaY5xRN3VqQT5PuCiIYKSnfqsWCMhZMswwCIoNzo+YhBJsKQ0EaANQvHSZyOmCy946bCTOEyc=;tzprrbi6EMWbFedzcTvivw=="
+secured: "+daPX3swMGx//rLs9ymWj/KEyDrpBD1hn78vaChh1GpYpei4trZGZF96fleVLIqOBemkKQeINpzKLTjrGpHzw9pscuKF2Dx4kFRQTE7oapRjY1FMwabWVX0UqxCZgeIZ6U/MtJZPRvkD+T2EOwUhierUJqqyUikvkwLOQjRj1G440vldjXKTWvdKFoy1cocSe0PBkkxqAFIELjjTQibO78EZ9kEz+Gqisn1X3KuhGAi6zZDQLfMOG+K9D8tOUh87M8NpeCrjdh6xSu2t/1JD4pJcY3HeiGvaGiwITUZPGSTtA1aSQeWWrRz0Y0zYgGxmZ4H1OS9BoVluO1ncvmHHIG1FtNjsW0z/Ns+Nov+qFusNsehauGLa1KbY/FPEHyrkJD3A9PH7B0lBJB/X0cJU2h5ihlxvSzetBazEgdZlVxYk4/rlLC0+NPVJTW2ROG9PlzBaWtGwDJZo2cJAUFupreJIserh57qM1wLYoWls8/cBPdKWqMGaNKI6uuLJtjHS+DPMdEHKnR/qf2XJ2AQVtg==;nBKURoJOqQQ4St/nupUhRg=="
 ---
 

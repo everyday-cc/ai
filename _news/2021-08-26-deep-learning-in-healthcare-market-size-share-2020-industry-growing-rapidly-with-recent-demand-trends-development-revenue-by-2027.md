@@ -50,21 +50,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Automotive Radar Market Expectation Surges with Rising Demand and Changing Trends"
-    excerpt: "The Automotive Radar market is expected to grow from USD X.X million in 2021 to USD X.X million by 2027, at a CAGR of X.X% during the forecast period. The Automotive Radar Market report offers global outlook into Development Trends,"
-    publishedDateTime: 2021-08-24T12:10:00Z
-    webUrl: "https://manometcurrent.com/automotive-radar-market-expectation-surges-with-rising-demand-and-changing-trends/"
-    ampWebUrl: "https://manometcurrent.com/automotive-radar-market-expectation-surges-with-rising-demand-and-changing-trends/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/automotive-radar-market-expectation-surges-with-rising-demand-and-changing-trends/?amp=1"
+  - title: "Artificial Intelligence (AI) in Construction Market Size, Strategies, Competitive Landscape, Trends & Factor Analysis, 2020–2026"
+    excerpt: "Artificial intelligence can help reduce construction costs in many ways. For example, the use of virtual reality goggles and mini-robots into buildings under construction to track the work as it progresses. AI is also being used today to design the routing ..."
+    publishedDateTime: 2021-08-26T17:44:00Z
+    webUrl: "https://www.openpr.com/news/2370118/artificial-intelligence-ai-in-construction-market-size"
+    ampWebUrl: "https://www.openpr.com/amp/2370118/artificial-intelligence-ai-in-construction-market-size"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2370118/artificial-intelligence-ai-in-construction-market-size"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 39
+      name: openpr.com
+      domain: openpr.com
+    quality: 45
     images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/Automotive-Radar-Market.jpeg"
-        width: 500
-        height: 282
+      - url: "https://cdn.openpr.com/U/8/U826358438_g.jpg"
+        width: 750
+        height: 350
         isCached: true
   - title: "Cognitive Computing Market to Grow at 49.9% CAGR between 2017 and 2025"
     excerpt: "As a result of various technological advancements in IT sector the global cognitive market is experiencing a major growth recently finds a Transparency Market Research report A number of small players and startups are making breakthrough innovations to establish themselves"
@@ -77,6 +77,17 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 24
+  - title: "Aerospace Artificial Intelligence Market size, share, growth report explores industry trends & analysis 2026"
+    excerpt: "This research report by Report Ocean identifies consumer needs and aims to satisfy them more efficiently effectively and accurately than the competition This report about the Aerospace Artificial Intelligence Market is exceptional because it is easy to understand contains excellent"
+    publishedDateTime: 2021-08-25T06:23:00Z
+    webUrl: "https://www.openpr.com/news/2366382/aerospace-artificial-intelligence-market-size-share-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2366382/aerospace-artificial-intelligence-market-size-share-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2366382/aerospace-artificial-intelligence-market-size-share-growth"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 18
 
 secured: "5QrpNNnJhCoBJDwy07lyWTcfOkPtJPTFUZF3bE5p12eF2iYFY8rrO6AnrwaowWTtvnrKSjyQyAuSPOBVf8JbaKOiBH4W8pq6YYLB40dxQdZPJLU2sV4yS9/mfCFbc61z9LU0FrllrW0YRgOLrs2KTwIPM9Y9kwmQ1zrzZeAi6PYMSIl/yBTdmS9SNComvTC466qDME0jCIvG+FLENoln4dZSINskK8gkpt3NxPkBPokGZszaIyPzlYetmN3jquRwed10xqY3epNgadHYIfH311R2zCRDKauB2ASfszSMLgYrQrZmU598nMahvDas8p4NigMJOA5LgTORpL3S4MPz8YXNQP14UcPSNpbFvPWRdHo=;vCorH/ygoZ8mngyb99UYTA=="
 ---

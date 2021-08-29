@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Nvidia launches AI Enterprise in general availability"
-    excerpt: "Nvidia's newly launched AI Enterprise managed service includes a suite of software tools designed to accelerate machine learning workloads."
-    publishedDateTime: 2021-08-24T13:00:00Z
-    webUrl: "https://venturebeat.com/2021/08/24/nvidia-launches-ai-enterprise-in-general-availability/"
-    ampWebUrl: "https://venturebeat.com/2021/08/24/nvidia-launches-ai-enterprise-in-general-availability/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/24/nvidia-launches-ai-enterprise-in-general-availability/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/07/GettyImages-1208744151.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "NVIDIA Now Offers A Comprehensive Platform For Enterprise AI"
     excerpt: "NVIDIA has released the full spectrum of AI tools for the Enterprise, extending its reach and confounding competitors."
     publishedDateTime: 2021-08-24T15:00:00Z
@@ -50,6 +34,38 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611d7504522a9187778d0853%2F0x0.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "NVIDIA Powers Polaris Supercomputer With 2,240 GPUs For Massive AI Workloads"
+    excerpt: "The US Department of Energy's Argonne National Laboratory is much more fortunate, having procured a whopping 2,240 NVIDIA A100 Tensor Core GPUs (based on Ampere) for its Polaris supercomputer to \"supercharge researcher and discovery."
+    publishedDateTime: 2021-08-25T17:24:00Z
+    webUrl: "https://hothardware.com/news/nvidia-2240-gpus-polaris-supercomputer-ai-workloads"
+    ampWebUrl: "https://amp.hothardware.com/news/nvidia-2240-gpus-polaris-supercomputer-ai-workloads"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-2240-gpus-polaris-supercomputer-ai-workloads"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 71
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/56074/content/small_polaris_supercomputer.jpg"
+        width: 708
+        height: 400
+        isCached: true
+  - title: "NVIDIA Crammed 2,240 GPUs Into Polaris Supercomputer To Power Massive AI Workloads"
+    excerpt: "The US Department of Energy's Argonne National Laboratory is much more fortunate, having procured a whopping 2,240 NVIDIA A100 Tensor Core GPUs (based on Ampere) for its Polaris supercomputer to \"supercharge researcher and discovery."
+    publishedDateTime: 2021-08-25T17:24:00Z
+    webUrl: "https://hothardware.com/news/nvidia-2240-gpus-polaris-supercomputer-ai-workloads"
+    ampWebUrl: "https://amp.hothardware.com/news/nvidia-2240-gpus-polaris-supercomputer-ai-workloads"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-2240-gpus-polaris-supercomputer-ai-workloads"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 68
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/56074/content/small_polaris_supercomputer.jpg"
+        width: 708
+        height: 400
         isCached: true
   - title: "Global Availability of NVIDIA AI Enterprise Makes AI Accessible for Every Industry"
     excerpt: "“As AI applications become critical ... the same tools they use to manage large-scale data centers and hybrid clouds. Subscription licenses start at $2,000 per CPU socket for one year and include Business Standard Support (five days a week, nine hours ..."
@@ -102,6 +118,29 @@ related:
         width: 640
         height: 426
         isCached: true
+  - title: "Tiny AI for the Enterprise Edge"
+    excerpt: "Even without an internet connection, Google Recorder algorithms can translate voice to text on a ... and reduced processing costs needed for tiny AI. OpenAI estimates that training costs for natural language models such as GPT-3 in the cloud are estimated ..."
+    publishedDateTime: 2021-08-28T16:33:00Z
+    webUrl: "https://www.infosys.com/iki/insights/tiny-ai-enterprise-edge.html"
+    type: article
+    provider:
+      name: Infosys
+      domain: infosys.com
+    quality: 39
+    images:
+      - url: "https://www.infosys.com/content/dam/infosys-web/en/about/knowledge-institute/Images/tiny-ai-enterprise-edge-mob.jpg"
+        width: 800
+        height: 500
+        isCached: true
+  - title: "NVIDIA Turbocharges Extreme-Scale AI for Argonne National Laboratory’s Polaris Supercomputer"
+    excerpt: "The largest GPU-based supercomputer at the U.S. Department of Energy’ s Argonne National Laboratory will run on NVIDIA’ s accelerated computing platform, the company announced today.. “The era of exascale AI will enable scientific breakthroughs with massive scale to bring incredible benefits for society,"
+    publishedDateTime: 2021-08-25T11:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/nvidia-turbocharges-extreme-scale-ai-for-argonne-national-laboratorys-polaris"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 38
   - title: "Global Artificial Intelligence Ai In Healthcare Market 2021 Latest Advancements and Business Outlook-NVIDIA Corporation (NVIDIA) (US)"
     excerpt: "Many creative start-ups that are rapidly developing have been featured ... Asia Pacific has one of the largest consumer bases and holds a substantial share of the Artificial Intelligence Ai In Healthcare Market. This region is also anticipated to expand ..."
     publishedDateTime: 2021-08-28T13:54:00Z

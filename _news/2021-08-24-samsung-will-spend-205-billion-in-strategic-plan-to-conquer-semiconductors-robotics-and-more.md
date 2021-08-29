@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/90921-samsung-spend-205-billion-st
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/90921-samsung-spend-205-billion-strategic-plan-conquer-semiconductors.html"
 type: article
 quality: 92
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://disruptive.asia/wp-content/uploads/2021/08/2021-08-24T082755Z_4_LYNXMPEH7N06V_RTROPTP_4_SAMSUNG-INVESTMENT.jpg"
         width: 530
         height: 360
-        isCached: true
-  - title: "Samsung to bring in-memory processing to standard DIMMs and mobile memory"
-    excerpt: "In-memory processing to speed applications like machine learning to be embedded in DIMMs and LPDDR5 memory formats."
-    publishedDateTime: 2021-08-24T11:07:00Z
-    webUrl: "https://blocksandfiles.com/2021/08/24/samsung-to-bring-in-memory-processing-to-standard-dimms-and-mobile-memory/"
-    type: article
-    provider:
-      name: blocksandfiles
-      domain: blocksandfiles.com
-    quality: 23
-    images:
-      - url: "https://blocksandfiles.com/wp-content/uploads/2021/02/SAmsung-HBM-PIM.jpg"
-        width: 950
-        height: 474
         isCached: true
 
 secured: "xDR5a3gw++JctwQNdyymlXxB12F7xwQuDXPzu42A5AggvtYVslArBiKyRdUVL3BtpcGVzzCkwIjuzOxiMlaEVZ0UUiCuUU9JEMDyiJ+atdq9xt3fZvl7yR5uCP8R2acd3vuCI8aZk5e59z9tc1x0Jkurgc8s8IDkfylf/CkHzL+5dhl/Zm/btNT9ajSfeObYY5DTQaWlEPgmVFtQ7mrDKyKLUn4TC8fQ+3RMmXBwAgbQW25MQIyHMzVzIcc+sFSih5mj1nZ5EAhCLV5LXwgES3RK/kufKspt8FTEj6sypSfpcdvJZqqyktdlUBr6qOF+dA8q2Pd05us/PVWn9QUkuPCIVO0FC2bHfVkct4b3J7yCM4hG5GOmZ3J+hsqmbaB7Y4WXFp/K4UmhyTybRpk7pDJeT9lZRcfy/Rbfip7rnCvxeho84VrVhJkhWszDs7WUNaezcZBbuTFyf61Cw1QfCwMRfARoWStR83X/N1bLazDTOxkrpuF2/WhMZiODTCWFEggWk7S+6UsWi0EG8dN3sQ==;YHURBkurPa9VGol4fPu/Eg=="

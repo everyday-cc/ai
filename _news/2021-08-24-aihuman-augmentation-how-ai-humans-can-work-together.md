@@ -54,6 +54,20 @@ related:
         width: 256
         height: 256
         isCached: true
+  - title: "Investing in automation: Strategies manufacturing companies need to know"
+    excerpt: "Control Engineering - Learning Objectives Investing in automation and the Internet of Things (IoT) can help keep manufacturers ahead of the curve. Companies also need to"
+    publishedDateTime: 2021-08-29T05:02:00Z
+    webUrl: "https://www.controleng.com/articles/investing-in-automation-strategies-manufacturing-companies-need-to-know/"
+    type: article
+    provider:
+      name: Control Engineering
+      domain: controleng.com
+    quality: 23
+    images:
+      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2021/08/PLEx_WEB_IMG_Cincinnati-Slider-1.jpeg"
+        width: 645
+        height: 350
+        isCached: true
   - title: "Seeming Human: Artificial Intelligence and Victorian Realist Character"
     excerpt: "Their definition of intelligence went beyond solving math problems to include what we might call subjectivity: creativity, tastes and preferences, self-awareness, and learned behaviors. We have come to call this artificial intelligence (AI), a term that ..."
     publishedDateTime: 2021-08-28T09:34:00Z

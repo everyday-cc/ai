@@ -163,17 +163,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Google’s Waymo Expanding Ride-Hailing Self-Driving Car Service to San Francisco"
-    excerpt: "Google’s self-driving vehicle spinoff, Waymo, announced Tuesday that it’s expanding its autonomous ride-hailing service to."
-    publishedDateTime: 2021-08-24T11:52:00Z
-    webUrl: "https://sanfrancisco.cbslocal.com/2021/08/24/googles-waymo-expanding-ride-hailing-self-driving-car-service-to-san-francisco/"
-    ampWebUrl: "https://sanfrancisco.cbslocal.com/2021/08/24/googles-waymo-expanding-ride-hailing-self-driving-car-service-to-san-francisco/?amp"
-    cdnAmpWebUrl: "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/2021/08/24/googles-waymo-expanding-ride-hailing-self-driving-car-service-to-san-francisco/?amp"
-    type: article
-    provider:
-      name: CBS Local
-      domain: cbslocal.com
-    quality: 50
   - title: "Waymo Rolls Out Self-Driving Taxi Service in San Francisco"
     excerpt: "Waymo, previously known as the “Google Self-Driving Car Project,” has rolled out its autonomous taxi service in San Francisco. The company has been testing out autonomous driving in San Francisco for over 12 years and began offering rides to its Bay-area employees earlier this year."
     publishedDateTime: 2021-08-25T03:25:00Z

@@ -38,34 +38,6 @@ related:
         width: 800
         height: 418
         isCached: true
-  - title: "Valued to be $28.8 Billion by 2026, Artificial Intelligence (AI) in Fintech Slated for Robust Growth Worldwide"
-    excerpt: "Preview Registry Global Artificial Intelligence (AI) in Fintech Maket to Reach $28.8 Billion by 2026 The U.S. Market is Estimated at $1.5 Billion in 2021, While China is Forecast to Reach $4.2 Billion by 2026 The Artificial Intelligence (AI) in Fintech market in the U."
-    publishedDateTime: 2021-08-26T16:28:00Z
-    webUrl: "https://www.mobilitytechzone.com/lte/news/2021/08/26/9437950.htm"
-    type: article
-    provider:
-      name: Mobility Techzone
-      domain: mobilitytechzone.com
-    quality: 34
-    images:
-      - url: "https://mma.prnewswire.com/media/1601543/MCP21180.jpg"
-        width: 400
-        height: 252
-        isCached: true
-  - title: "A $14.9 Billion Global Opportunity for Artificial Intelligence (AI) in Manufacturing by 2026 - New Research from StrategyR"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Manufacturing - Global Market Trajectory & Analytics\"."
-    publishedDateTime: 2021-08-26T13:50:00Z
-    webUrl: "https://www.lelezard.com/en/news-19969717.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 30
-    images:
-      - url: "https://mma.prnewswire.com/media/1601546/Global_Opportunity_for_Artificial_Intelligence_in_Manufacturing.jpg"
-        width: 400
-        height: 387
-        isCached: true
   - title: "Global Industry Analysts Predicts the World Cognitive Services Market to Reach $29 Billion by 2026"
     excerpt: "Companies: 42 - Players covered include Amazon Web Services, Inc.; Apple, Inc.; Attivio, Inc.; Baidu, Inc.; BMC Software, Inc.; Clarifai, Inc.; CognitiveScale; Expert ..."
     publishedDateTime: 2021-08-24T14:52:00Z

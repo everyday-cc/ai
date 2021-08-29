@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ibms-new-telum-proce
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibms-new-telum-processor-is-the-companys-first-with-an-on-chip-ai-accelerator/"
 type: article
 quality: 100
-heat: 170
+heat: 160
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611fd70be384d73d2f2ce2ad%2F0x0.jpg"
         width: 1200
         height: 689
-        isCached: true
-  - title: "Attacking fraud: On-chip AI accelerator boosts new IBM processor"
-    excerpt: "IBM's latest processor, the Telum Processor, is anticipated by the company to have applications in banking, finance, retail, healthcare, and more, due to \"on-chip accelerated AI.\""
-    publishedDateTime: 2021-08-24T11:47:00Z
-    webUrl: "https://www.wraltechwire.com/2021/08/24/attacking-fraud-on-chip-ai-accelerator-boosts-new-ibm-processor/"
-    ampWebUrl: "https://www.wraltechwire.com/2021/08/24/attacking-fraud-on-chip-ai-accelerator-boosts-new-ibm-processor/"
-    cdnAmpWebUrl: "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/08/24/attacking-fraud-on-chip-ai-accelerator-boosts-new-ibm-processor/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 74
-    images:
-      - url: "https://www.wraltechwire.com/wp-content/uploads/2021/08/IBM_Tellus_Processor.png"
-        width: 828
-        height: 466
         isCached: true
   - title: "IBM unveils AI processor chip to help financiers deal with fraud"
     excerpt: "The AI processor chip is expected to help businesses move towards a fraud prevention posture from a fraud detection posture."
