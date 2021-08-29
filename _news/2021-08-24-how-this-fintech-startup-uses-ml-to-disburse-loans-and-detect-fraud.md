@@ -42,15 +42,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "$400m SoftBank-led round pushes African fintech startup into unicorn club"
-    excerpt: "African payments platform OPay has claimed the unicorn title after banking US$400 million in a series C funding round led by SoftBank Vision Fund 2. With the fundraise, OPay’s valuation now stands at US$2 billion."
-    publishedDateTime: 2021-08-24T05:57:00Z
-    webUrl: "https://www.techinasia.com/softbankled-400m-puts-african-fintech-startup-unicorn-club"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 48
   - title: "Pngme, Raises $15M Series A to Power the Future of Financial Services in Africa"
     excerpt: "Pngme, the financial data infrastructure and machine learning-as-a-service platform, has raised a further $15 million in Series A funding as it sets out to grow its financial data platform. The round was led by Octopus Ventures and comes less than a year after its $3 million seed round."
     publishedDateTime: 2021-08-24T13:51:00Z

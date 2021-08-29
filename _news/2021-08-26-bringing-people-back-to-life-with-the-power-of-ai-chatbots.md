@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/0
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/08/26/bringing-people-back-to-life-with-the-power-of-ai-chatbots/amp/"
 type: article
 quality: 87
-heat: 207
+heat: 197
 published: true
 
 provider:
@@ -61,22 +61,6 @@ related:
       - url: "https://www.cmswire.com/-/media/3939a5d58c4c46aaa5d088cb9796d809.ashx?mw=1024"
         width: 640
         height: 480
-        isCached: true
-  - title: "'Always There': The AI Chatbot Providing a Shoulder to China's Lonely Millions"
-    excerpt: "Originally a side project from developing Microsoft's Cortana chatbot, XiaoIce now accounts for 60 percent of global human-AI interactions by volume."
-    publishedDateTime: 2021-08-24T06:20:00Z
-    webUrl: "https://www.news18.com/news/buzz/always-there-the-ai-chatbot-providing-a-shoulder-to-chinas-lonely-millions-4120385.html"
-    ampWebUrl: "https://www.news18.com/amp/news/buzz/always-there-the-ai-chatbot-providing-a-shoulder-to-chinas-lonely-millions-4120385.html"
-    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/buzz/always-there-the-ai-chatbot-providing-a-shoulder-to-chinas-lonely-millions-4120385.html"
-    type: article
-    provider:
-      name: CNN-News18
-      domain: news18.com
-    quality: 57
-    images:
-      - url: "https://images.news18.com/ibnlive/uploads/2021/08/ai-chatbot-162978597616x9.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "XiaoIce is the AI chatbot that millions of lonely Chinese are turning to for comfort"
     excerpt: "On the WeChat super-app, it lets users build a virtual girlfriend or boyfriend and interact with them via texts, voice and photo messages."

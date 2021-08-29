@@ -56,22 +56,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Nvidia brings AI to more mainstream servers with Nvidia AI Enterprise in GA"
-    excerpt: "Nvidia on Tuesday announced the general availability of Nvidia AI Enterprise, a software suite that lets companies virtualize AI workloads on mainstream servers running VMware vSphere. As part of the GA release,"
-    publishedDateTime: 2021-08-24T06:00:00Z
-    webUrl: "https://www.zdnet.com/article/nvidia-brings-ai-to-more-mainstream-servers-with-nvidia-ai-enterprise-in-ga/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-brings-ai-to-more-mainstream-servers-with-nvidia-ai-enterprise-in-ga/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-brings-ai-to-more-mainstream-servers-with-nvidia-ai-enterprise-in-ga/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/08/24/b3e8396b-756e-4968-b5ac-1fc5d9c07b53/nvidia-ai-enterprise-image.jpg"
-        width: 2048
-        height: 1006
-        isCached: true
   - title: "Global Availability of NVIDIA AI Enterprise Makes AI Accessible for Every Industry"
     excerpt: "“As AI applications become critical ... the same tools they use to manage large-scale data centers and hybrid clouds. Subscription licenses start at $2,000 per CPU socket for one year and include Business Standard Support (five days a week, nine hours ..."
     publishedDateTime: 2021-08-24T23:17:00Z

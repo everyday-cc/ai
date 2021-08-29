@@ -40,20 +40,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "7 Ways You Can Use AI to Drive Customer Loyalty"
-    excerpt: "At the most fundamental level, AI solutions free up employees to focus on tasks that need a human touch. And we’re talking roomfuls. From there, it’s a hop, skip, and a jump (performed best by people for now!"
-    publishedDateTime: 2021-08-24T05:26:00Z
-    webUrl: "https://customerthink.com/7-ways-you-can-use-ai-to-drive-customer-loyalty/"
-    type: article
-    provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 37
-    images:
-      - url: "https://customerthink.com/wp-content/uploads/ThinkstockPhotos-166139079-ctmedia.jpg"
-        width: 1788
-        height: 1677
-        isCached: true
   - title: "4 Ways to Sway Customers Toward AI for a Better Customer Experience"
     excerpt: "Consumers are ambivalent about artificial intelligence. According to data collected by O’Reilly, majorities of consumers embrace AI in applications"
     publishedDateTime: 2021-08-27T16:30:00Z

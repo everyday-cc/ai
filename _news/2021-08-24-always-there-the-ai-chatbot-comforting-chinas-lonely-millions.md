@@ -59,22 +59,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "'Always There': The AI Chatbot Providing a Shoulder to China's Lonely Millions"
-    excerpt: "Originally a side project from developing Microsoft's Cortana chatbot, XiaoIce now accounts for 60 percent of global human-AI interactions by volume."
-    publishedDateTime: 2021-08-24T06:20:00Z
-    webUrl: "https://www.news18.com/news/buzz/always-there-the-ai-chatbot-providing-a-shoulder-to-chinas-lonely-millions-4120385.html"
-    ampWebUrl: "https://www.news18.com/amp/news/buzz/always-there-the-ai-chatbot-providing-a-shoulder-to-chinas-lonely-millions-4120385.html"
-    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/buzz/always-there-the-ai-chatbot-providing-a-shoulder-to-chinas-lonely-millions-4120385.html"
-    type: article
-    provider:
-      name: CNN-News18
-      domain: news18.com
-    quality: 57
-    images:
-      - url: "https://images.news18.com/ibnlive/uploads/2021/08/ai-chatbot-162978597616x9.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "XiaoIce is the AI chatbot that millions of lonely Chinese are turning to for comfort"
     excerpt: "On the WeChat super-app, it lets users build a virtual girlfriend or boyfriend and interact with them via texts, voice and photo messages."
     publishedDateTime: 2021-08-25T08:23:00Z

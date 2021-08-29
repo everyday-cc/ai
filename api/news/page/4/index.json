@@ -2,6 +2,48 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-25-xiaomi-to-acquire-self-driving-startup-deepmotion-to-enter-ev-market.md",
+      "title": "Xiaomi to acquire self-driving startup Deepmotion to enter EV market",
+      "excerpt": "Co-founder and Chief Executive Officer Lei Jun is now spearheading a drive to take Xiaomi beyond smartphones, personally leading a project to make electric vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/technology/tech-news-technology/xiaomi-to-acquire-self-driving-startup-deepmotion-to-enter-ev-market-7470613/",
+      "originalUrl": "https://indianexpress.com/article/technology/tech-news-technology/xiaomi-to-acquire-self-driving-startup-deepmotion-to-enter-ev-market-7470613/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 202,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2021/08/Xiaomi-logo.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/technology/tech-news-technology/xiaomi-to-acquire-self-driving-startup-deepmotion-to-enter-ev-market-7470613/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/xiaomi-to-acquire-self-driving-startup-deepmotion-to-enter-ev-market-7470613/lite/",
+      "publishedDateTime": "2021-08-25T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-25-hybrid-ai-is-the-future-of-industrial-analytics.md",
       "title": "Hybrid AI Is The Future Of Industrial Analytics",
       "excerpt": "Industrial DataOps is the starting point to solving one of the key challenges of industrial digitalization: enabling hybrid AI solutions at scale.",
@@ -851,6 +893,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-25-samsung-unveils-advanced-ai-memory-chips.md",
+      "title": "Samsung unveils advanced AI memory chips",
+      "excerpt": "as the chip titan has unveiled new memory chips featuring artificial intelligence (AI) technology, the company said Tuesday. The company unveiled and introduced how the new products are used at Hot Chips, an annual semiconductor industry conference for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreatimes.co.kr/www/tech/2021/08/133_314420.html?tw",
+      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2021/08/133_314420.html?tw",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202108/1c42dfb5b5aa4a22942002c3dad99aa1.jpg",
+          "width": 980,
+          "height": 692,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=314420",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=314420",
+      "publishedDateTime": "2021-08-24T16:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "koreatimes.co.kr",
+        "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-25-hot-chips-concludes-an-amazing-lineup-of-ai-chip-companies.md",
       "title": "Hot Chips Concludes An Amazing Lineup of AI Chip Companies.",
       "excerpt": "I can deal with it: some technology is just beyond my pay grade. My masters in CS is decades old, and the deep technology underneath blindingly fast AI chips is often beyond my comprehension. But when I saw the lineup of companies presenting at this years ...",
@@ -962,7 +1047,7 @@
       "originalUrl": "https://www.pymnts.com/news/investment-tracker/2021/us-based-fintech-pngme-raises-15m-to-expand-services-across-africa/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -1149,101 +1234,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-these-robots-can-move-your-couch.md",
-      "title": "These robots can move your couch",
-      "excerpt": "To train robots how to work independently but cooperatively, researchers at the University of Cincinnati gave them a relatable task: Move a couch.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-08-robots-couch.html",
-      "originalUrl": "https://techxplore.com/news/2021-08-robots-couch.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/these-robots-can-move.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-08-robots-couch.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-robots-couch.amp",
-      "publishedDateTime": "2021-08-24T12:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-a-new-chip-cluster-will-make-massive-ai-models-possible.md",
-      "title": "A New Chip Cluster Will Make Massive AI Models Possible",
-      "excerpt": "Cerebras says its technology can run a neural network with 120 trillion connections—a hundred times what's achievable today.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/cerebras-chip-cluster-neural-networks-ai/",
-      "originalUrl": "https://www.wired.com/story/cerebras-chip-cluster-neural-networks-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/612531eb591c7f6f7012fbbb/master/pass/Business-Big-AI-Chips.jpg",
-          "width": 2250,
-          "height": 1500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/cerebras-chip-cluster-neural-networks-ai/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/cerebras-chip-cluster-neural-networks-ai/amp",
-      "publishedDateTime": "2021-08-24T12:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

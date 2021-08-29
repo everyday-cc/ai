@@ -142,6 +142,48 @@
       ]
     },
     {
+      "path": "_news/2021-08-26-artificial-intelligence-to-help-predict-arctic-sea-ice-loss.md",
+      "title": "Artificial intelligence to help predict Arctic sea ice loss",
+      "excerpt": "A new AI (artificial intelligence) tool is set to enable scientists to more accurately forecast Arctic sea ice conditions months into the future. The improved predictions could underpin new early-warning systems that protect Arctic wildlife and coastal communities from the impacts of sea ice loss.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-08-artificial-intelligence-arctic-sea-ice.html",
+      "originalUrl": "https://phys.org/news/2021-08-artificial-intelligence-arctic-sea-ice.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/artificial-intelligenc-28.jpg",
+          "width": 2880,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-08-artificial-intelligence-arctic-sea-ice.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-08-artificial-intelligence-arctic-sea-ice.amp",
+      "publishedDateTime": "2021-08-26T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-26-how-artificial-intelligence-ai-aid-medical-diagnosis.md",
       "title": "How Artificial Intelligence (AI) Aid Medical Diagnosis",
       "excerpt": "Artificial Intelligence is widely employed for the ... Increasing the effectiveness of decision-making Diagnostic and therapy procedures have always been difficult. The reason for this is that ...",
@@ -1133,7 +1175,7 @@
       "originalUrl": "https://venturebeat.com/2021/08/25/involve-ai-boosts-ai-driven-customer-data-platform-with-16m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -1164,48 +1206,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-xiaomi-to-acquire-self-driving-startup-deepmotion-to-enter-ev-market.md",
-      "title": "Xiaomi to acquire self-driving startup Deepmotion to enter EV market",
-      "excerpt": "Co-founder and Chief Executive Officer Lei Jun is now spearheading a drive to take Xiaomi beyond smartphones, personally leading a project to make electric vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/technology/tech-news-technology/xiaomi-to-acquire-self-driving-startup-deepmotion-to-enter-ev-market-7470613/",
-      "originalUrl": "https://indianexpress.com/article/technology/tech-news-technology/xiaomi-to-acquire-self-driving-startup-deepmotion-to-enter-ev-market-7470613/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 202,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2021/08/Xiaomi-logo.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/technology/tech-news-technology/xiaomi-to-acquire-self-driving-startup-deepmotion-to-enter-ev-market-7470613/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/xiaomi-to-acquire-self-driving-startup-deepmotion-to-enter-ev-market-7470613/lite/",
-      "publishedDateTime": "2021-08-25T06:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

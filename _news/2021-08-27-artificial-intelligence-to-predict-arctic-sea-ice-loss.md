@@ -40,6 +40,22 @@ related:
         width: 2880
         height: 960
         isCached: true
+  - title: "Aust researchers use AI to predict drought"
+    excerpt: "James Cook University researchers have used artificial intelligence to predict some of the key markers of drought conditions up to six months ahead of time."
+    publishedDateTime: 2021-08-28T23:02:00Z
+    webUrl: "https://thewest.com.au/technology/telecommunications/aust-researchers-use-ai-to-predict-drought-c-3810380"
+    ampWebUrl: "https://thewest.com.au/technology/telecommunications/aust-researchers-use-ai-to-predict-drought-c-3810380.amp"
+    cdnAmpWebUrl: "https://thewest-com-au.cdn.ampproject.org/c/s/thewest.com.au/technology/telecommunications/aust-researchers-use-ai-to-predict-drought-c-3810380.amp"
+    type: article
+    provider:
+      name: The West Australian
+      domain: thewest.com.au
+    quality: 57
+    images:
+      - url: "https://images.thewest.com.au/publication/C-3810380/be266d6e0fe45f3d9a3acfb8f4439407279b6436-16x9-x0y0w1280h720.jpg?imwidth=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "DDGexJIe1FM8/DGSF8HzgH/dlhcee0LfQwWdJiz9QveCqSolQMeQs2UOlNfWXeyP/8htnZ6SwGT9AISBgLlh+kKBwUYcmxSV1Xh1MY7ORKf+9e2qkE7kvD/MyoUt38kzGIN5d1P7jQf4MDQ8nmtCIAqCrbn9CPAAhWysuw9wZU4PbMVkJ8WJ1L13x8HegDByjRiS2Q6eb+vlaUAKZontX9Y2Xd46O+FNsN8hj0hy3NtQDX2e5UmhwP8xHa7k9aPRM2A/f3Y8eUs26vn4W5DxedLssiRNk1862P3hj2vPOj5F+0/KDaAuwJJM2DGRjgxhu4T3m/T4EInJMqEynkMDYPzJnvBiMERmlsV07O0m4JA=;1DbOIMk4Gc/gI5phAn7h2g=="
 ---

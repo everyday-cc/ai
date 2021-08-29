@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/us-based-fintech
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/us-based-fintech-pngme-raises-15m-to-expand-services-across-africa/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "$400m SoftBank-led round pushes African fintech startup into unicorn club"
-    excerpt: "African payments platform OPay has claimed the unicorn title after banking US$400 million in a series C funding round led by SoftBank Vision Fund 2. With the fundraise, OPay’s valuation now stands at US$2 billion."
-    publishedDateTime: 2021-08-24T05:57:00Z
-    webUrl: "https://www.techinasia.com/softbankled-400m-puts-african-fintech-startup-unicorn-club"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 48
   - title: "How This Fintech Startup Uses ML To Disburse Loans And Detect Fraud"
     excerpt: "Kissht uses machine learning-based statistical models to predict customers’ ability to repay loans and detect frauds."
     publishedDateTime: 2021-08-24T09:30:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.finsmes.com/2021/08/aumni-raises-50m-in-series-b-fundi
 webUrl: "https://www.finsmes.com/2021/08/aumni-raises-50m-in-series-b-funding.html"
 type: article
 quality: 137
-heat: 167
+heat: 157
 published: true
 
 provider:
@@ -53,20 +53,6 @@ related:
       - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
         width: 640
         height: 480
-        isCached: true
-  - title: "Startup aiming to root out misdiagnoses in radiology raises $25M in new funding"
-    excerpt: "A New York-based startup aiming to root out misdiagnoses in radiology has raised $25 million in new funding, leaders announced Monday. Covera Health said the Series C financing comes by way of private equity firm Insight Partners,"
-    publishedDateTime: 2021-08-24T06:12:00Z
-    webUrl: "https://www.radiologybusiness.com/topics/artificial-intelligence/covera-health-misdiagnoses-radiology-insight-partners"
-    type: article
-    provider:
-      name: Radiology Business
-      domain: radiologybusiness.com
-    quality: 33
-    images:
-      - url: "https://www.radiologybusiness.com/sites/default/files/styles/facebook/public/assets/articles/Dollar.jpg?itok=P_wAx_2z"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "IR+h6hFbfRd8ikpH8r8YWZQDUKMkDjv+U3aBdLobM/WYyn1Q3ZkhehUfG2DSyx84JZgzMr7RjHYEVYqmyaQqBhKbXldnwRPk+vkiYOlD6B4IURL1vyD3nV2kIFpczKDGm1qgMurkMujhL0NOD1fNWQfvpEi3C3ITRUUEzjHn1ZCAZfKg2LEsSKK2RbMtRdge6kehiUQdvzsHlEH+o1D3YrlxsLrDlDZ9MAtOgknU3A/j/MTG146EG044yxHPJF0NbS6FKhQrN85i2wTuKG32NJS1qlGV48BC8erhb7YkVwJzsptgi6VTgPjT+GzeSLSUldgDNwpzlrmAjdJbb5rbbL9spFefQinSul5HbfSABtc=;4o7M/8P0ONpTCibYVsHIFA=="

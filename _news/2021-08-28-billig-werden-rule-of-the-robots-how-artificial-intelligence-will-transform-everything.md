@@ -6,8 +6,8 @@ publishedDateTime: 2021-08-28T11:22:00Z
 originalUrl: "https://www.yumpu.com/en/document/view/65830878/billig-werden-rule-of-the-robots-how-artificial-intelligence-will-transform-everything"
 webUrl: "https://www.yumpu.com/en/document/view/65830878/billig-werden-rule-of-the-robots-how-artificial-intelligence-will-transform-everything"
 type: article
-quality: 29
-heat: 29
+quality: 46
+heat: 46
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://documents.yumpu.com/000/065/830/878/8386f1aa639ff864513399b2652e956aa83ff1eb/745435734450714355444c626b7934497455635748773d3d/677677634d45385a616c35326e4c5963676a636355773d3d.jpg?AWSAccessKeyId=AKIAICNEWSPSEKTJ5M3Q&Expires=1630188000&Signature=ORTXTD3AM9kY6rnsv5aLgTJZ944%3D"
@@ -23,6 +24,6 @@ images:
     height: 640
     isCached: true
 
-secured: "mwkexAt8KMBU939u4Swq5wDn/RDfpCVxhVQf/d9R2hHrIT+9Y1ryziz0y6HLKZIeZuC0J12Z5eeq+LhGeV0uB8drCygcUGaJZwGThgsDr91/QWdWU7SLHKkM4htrTN/Urmj6NWnr/Uv0Gjo8J3HQQmfdXNw4l4IX0DDDNK5JK7HOcoDTbCaWHbERukTQrm7rA7DXjvHlxc7aHtJFUN16gv40pcA6X+KbpWZPWoDOil37R9GNXUwLotxVN4+eNIXcArYCRC9BI9PaiDn83K9jVNOiUD7ARIra3nLbpuqec2A3AFm3LGZGXIEBCHMTVPD2qk9em9BHXUWkzX3CSHLlUfZm3B56JI5k0MkTWEc8hTs=;dIAgiTZihRPdGdHrHT5Mlw=="
+secured: "lFbJr4VwdX9mabqOrwZ2jzrv1ckIBolhiTXA396BeLQu4Xwh9/pA5jO8VQkfp8ivJyzC4S3iwvmzpTkKBn7qNk7zdujrEoabjxiV6ZJGr17JvZdXtZgbbQzc2uRoNGicNLbwESX0e7f+g0cfrYRTNW7D+LQmaZob0ObS5gxCO0FNgBwnt2QGnS8wr48GocoNRllic3lYt8aW4P1HAZXQm1QalY2h7dEKdio/fHTXuz6O/Y+EPx5qM47a0SIO+AMaB2cv8N4jAM3olVL3PRTKjfxiuHOX//9T5y/t1fOvsyZPqvCecJcWCeuwuQZ9tJifBXEKlta+3Rp1uE+zm+1b6UgxJCrmL4fHvjSISocF9vgm1XKC8nXF3nrHLv5dglNza8xSawqMXAV0HbXuZ1/CnNjnmGczWFuUEIdxtLcg7PXmsc/vaEUjP0nTGdQZkE5nuZYmnFTB1zMepaVwEM/8ktRQaRclnz2E8WRENdX2NPEEETbjtKrFf5/Q44wFp8Rq+INReMuZThgcEdRqWHI0qA==;8TzTLX1UcEJs7eov90tllQ=="
 ---
 

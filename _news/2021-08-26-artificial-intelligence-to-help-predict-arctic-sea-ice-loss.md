@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2021-08-artificial-intelligence-arctic-sea-ice
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-08-artificial-intelligence-arctic-sea-ice.amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Phys.org
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Aust researchers use AI to predict drought"
+    excerpt: "James Cook University researchers have used artificial intelligence to predict some of the key markers of drought conditions up to six months ahead of time."
+    publishedDateTime: 2021-08-28T23:02:00Z
+    webUrl: "https://thewest.com.au/technology/telecommunications/aust-researchers-use-ai-to-predict-drought-c-3810380"
+    ampWebUrl: "https://thewest.com.au/technology/telecommunications/aust-researchers-use-ai-to-predict-drought-c-3810380.amp"
+    cdnAmpWebUrl: "https://thewest-com-au.cdn.ampproject.org/c/s/thewest.com.au/technology/telecommunications/aust-researchers-use-ai-to-predict-drought-c-3810380.amp"
+    type: article
+    provider:
+      name: The West Australian
+      domain: thewest.com.au
+    quality: 57
+    images:
+      - url: "https://images.thewest.com.au/publication/C-3810380/be266d6e0fe45f3d9a3acfb8f4439407279b6436-16x9-x0y0w1280h720.jpg?imwidth=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Artificial intelligence to predict Arctic sea ice loss"
     excerpt: "A new artificial intelligence (AI) tool has been developed to enable more accurate prediction of Arctic sea ice conditions months into the future."
     publishedDateTime: 2021-08-27T09:16:00Z

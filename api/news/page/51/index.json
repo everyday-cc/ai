@@ -2,6 +2,144 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2021-07-22-zone7-raises-8-million-in-series-a-round-to-expand-artificial-intelligence-platform-for-predicting-sports-injury-risks.md",
+      "title": "Zone7 Raises $8 Million In Series A Round To Expand Artificial Intelligence Platform For Predicting Sports Injury Risks",
+      "excerpt": "Zone7, an artificial intelligence platform, recently secured $8 million in a Series A funding round to help expand its reach in sports as well as other industries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/timcasey/2021/07/22/zone7-raises-8-million-in-series-a-round-to-expand-artificial-intelligence-platform-for-predicting-sports-injury-risks/",
+      "originalUrl": "https://www.forbes.com/sites/timcasey/2021/07/22/zone7-raises-8-million-in-series-a-round-to-expand-artificial-intelligence-platform-for-predicting-sports-injury-risks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f8a10ed262ed39b756c1fd%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/timcasey/2021/07/22/zone7-raises-8-million-in-series-a-round-to-expand-artificial-intelligence-platform-for-predicting-sports-injury-risks/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timcasey/2021/07/22/zone7-raises-8-million-in-series-a-round-to-expand-artificial-intelligence-platform-for-predicting-sports-injury-risks/amp/",
+      "publishedDateTime": "2021-07-22T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-07-22-prepare-for-ai-that-learns-to-code-your-enterprise-applications.md",
+      "title": "Prepare for AI that learns to code your enterprise applications",
+      "excerpt": "Today, about 70% of the work is all about the development of glue code and wiring things together. From the UI front end to the back end of apps, as well as in the integration layer, there are lots of repetitive tasks,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/prepare-for-ai-that-learns-to-code-your-enterprise-applications/",
+      "originalUrl": "https://www.zdnet.com/article/prepare-for-ai-that-learns-to-code-your-enterprise-applications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/prepare-for-ai-that-learns-to-code-your-enterprise-applications/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/prepare-for-ai-that-learns-to-code-your-enterprise-applications/",
+      "publishedDateTime": "2021-07-22T04:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-22-people-suck-so-a-robot-with-microsoft-ai-has-to-pick-up-cigarette-butts.md",
+      "title": "People suck, so a robot with Microsoft AI has to pick up cigarette butts",
+      "excerpt": "A robot that utilizes Microsoft AI is being used to clean up beaches. It uses machine learning to identify cigarette butts in the sand and then picks up the waste.",
+      "sourceUrl": null,
+      "webUrl": "https://www.windowscentral.com/people-suck-so-robot-microsoft-ai-has-pick-cigarette-butts",
+      "originalUrl": "https://www.windowscentral.com/people-suck-so-robot-microsoft-ai-has-pick-cigarette-butts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/07/cigarette-robot-project-bb-4-3_0.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.windowscentral.com/people-suck-so-robot-microsoft-ai-has-pick-cigarette-butts?amp",
+      "cdnAmpWebUrl": "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/people-suck-so-robot-microsoft-ai-has-pick-cigarette-butts?amp",
+      "publishedDateTime": "2021-07-22T04:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Central",
+        "domain": "windowscentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-22-its-time-to-change-the-debate-around-ai-ethics-heres-how.md",
       "title": "It’s time to change the debate around AI ethics. Here’s how",
       "excerpt": "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Kay Firth-Butterfield, Head of Artificial",
@@ -1040,154 +1178,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-5-ways-driving-is-set-to-change-in-the-near-future-air-cleaning-cars-to-mind-control.md",
-      "title": "5 ways driving is set to change in the near future: air-cleaning cars to mind control",
-      "excerpt": "basically – including wireless neuroheadsets that convert our electric brainwaves into communication with robotics. At Goodwood, Emotiv demonstrated its tech through the mind-controlled ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/sg/news/5-ways-driving-is-set-to-change-in-the-near-future-air-cleaning-cars-to-mind-control",
-      "originalUrl": "https://www.techradar.com/sg/news/5-ways-driving-is-set-to-change-in-the-near-future-air-cleaning-cars-to-mind-control",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/QL6cCU9JaGStf4sqioWSJB-1200-80.jpg",
-          "width": 852,
-          "height": 479,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/sg/amp/news/5-ways-driving-is-set-to-change-in-the-near-future-air-cleaning-cars-to-mind-control",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/5-ways-driving-is-set-to-change-in-the-near-future-air-cleaning-cars-to-mind-control",
-      "publishedDateTime": "2021-07-21T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-pitch-deck-reveals-how-an-ai-startup-that-helps-brands-like-google-and-microsoft-plan-their-marketing-raised-15-million.md",
-      "title": "Pitch deck reveals how an AI startup that helps brands like Google and Microsoft plan their marketing raised $15 million",
-      "excerpt": "BlueOcean was founded by ad agency vets to automate and simplify market research.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-startup-blueocean-raised-15-million-with-this-pitch-deck-2021-7",
-      "originalUrl": "https://www.businessinsider.com/ai-startup-blueocean-raised-15-million-with-this-pitch-deck-2021-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60f73547aa1f1f0012f687ce?width=700",
-          "width": 700,
-          "height": 525,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-21T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-re2-robotics-sapien-6m-arm-designed-for-outdoor-applications.md",
-      "title": "RE2 Robotics Sapien 6M arm designed for outdoor applications",
-      "excerpt": "The RE2 Sapien 6M robotic arm is being used by commercial and defense customers who require a mobile outdoor-rated arm for complex tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/re2-robotics-sapien-6m-arm-designed-outdoor-applications/",
-      "originalUrl": "https://www.therobotreport.com/re2-robotics-sapien-6m-arm-designed-outdoor-applications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2021/07/RE2Sapien6M-80lb-Lift.jpg",
-          "width": 600,
-          "height": 745,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-21T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

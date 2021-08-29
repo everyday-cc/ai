@@ -2,6 +2,101 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-08-25-these-robots-can-move-your-couch.md",
+      "title": "These robots can move your couch",
+      "excerpt": "To train robots how to work independently but cooperatively, researchers at the University of Cincinnati gave them a relatable task: Move a couch.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-08-robots-couch.html",
+      "originalUrl": "https://techxplore.com/news/2021-08-robots-couch.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/these-robots-can-move.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-08-robots-couch.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-robots-couch.amp",
+      "publishedDateTime": "2021-08-24T12:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-a-new-chip-cluster-will-make-massive-ai-models-possible.md",
+      "title": "A New Chip Cluster Will Make Massive AI Models Possible",
+      "excerpt": "Cerebras says its technology can run a neural network with 120 trillion connections—a hundred times what's achievable today.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/cerebras-chip-cluster-neural-networks-ai/",
+      "originalUrl": "https://www.wired.com/story/cerebras-chip-cluster-neural-networks-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/612531eb591c7f6f7012fbbb/master/pass/Business-Big-AI-Chips.jpg",
+          "width": 2250,
+          "height": 1500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/cerebras-chip-cluster-neural-networks-ai/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/cerebras-chip-cluster-neural-networks-ai/amp",
+      "publishedDateTime": "2021-08-24T12:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-08-24-access-an-amazon-sagemaker-studio-notebook-from-a-corporate-network.md",
       "title": "Access an Amazon SageMaker Studio notebook from a corporate network",
       "excerpt": "Amazon SageMaker Studio is the first fully integrated development environment (IDE) for machine learning. It provides a single, web-based visual interface where you can perform all ML development steps required to build, train, and deploy models. You can quickly upload data, create new notebooks, train",
@@ -992,7 +1087,7 @@
       "originalUrl": "https://venturebeat.com/2021/08/24/nvidia-launches-ai-enterprise-in-general-availability/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 199,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -1126,109 +1221,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-unity-acquires-ai-chat-analysis-platform-oto-launches-toxicity-in-gaming-report.md",
-      "title": "Unity acquires AI chat analysis platform OTO, launches toxicity in gaming report",
-      "excerpt": "Unity Technologies has acquired OTO to use AI to analyze online multiplayer gaming conversations for possible toxic behavior.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/24/unity-acquires-ai-chat-analysis-platform-oto-launches-toxicity-in-gaming-report/",
-      "originalUrl": "https://venturebeat.com/2021/08/24/unity-acquires-ai-chat-analysis-platform-oto-launches-toxicity-in-gaming-report/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 192,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/oto.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 736,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/24/unity-acquires-ai-chat-analysis-platform-oto-launches-toxicity-in-gaming-report/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/24/unity-acquires-ai-chat-analysis-platform-oto-launches-toxicity-in-gaming-report/amp/",
-      "publishedDateTime": "2021-08-24T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-harnessing-conversational-voice-ai-in-the-e-commerce-industry.md",
-      "title": "Harnessing Conversational Voice AI In The E-Commerce Industry",
-      "excerpt": "Brands are looking to leverage conversational voice AI to automate large-scale conversations for better cost savings, greater customer experience and higher sales revenue.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/24/harnessing-conversational-voice-ai-in-the-e-commerce-industry/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/24/harnessing-conversational-voice-ai-in-the-e-commerce-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6093fd55351bd3c313dd77be%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/24/harnessing-conversational-voice-ai-in-the-e-commerce-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/24/harnessing-conversational-voice-ai-in-the-e-commerce-industry/amp/",
-      "publishedDateTime": "2021-08-24T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

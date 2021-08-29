@@ -46,20 +46,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Y-Combinator backs AI powered personal knowledge base startup Synth"
-    excerpt: "Silicon Valley-based startup accelerator Y Combinator has invested $125,000 in Synth, an AI startup for knowledge workers as part of the Y-Combinator’s Summer 21 batch. Synth is an app that captures all the relevant information you consume – text,"
-    publishedDateTime: 2021-08-24T05:26:00Z
-    webUrl: "https://mybigplunge.com/startups/funding-news/y-combinator-backs-ai-powered-personal-knowledge-base-startup-synth/"
-    type: article
-    provider:
-      name: mybigplunge.com
-      domain: mybigplunge.com
-    quality: 37
-    images:
-      - url: "https://mybigplunge.com/wp-content/uploads/2021/08/abc-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Y Combinator leads $125K round in AI startup Synth"
     excerpt: "AI-based knowledge platform Synth AI labs Inc., has raised $125k in its new round led by Silicon Valley-based Y-Combinator."
     publishedDateTime: 2021-08-24T14:23:00Z

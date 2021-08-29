@@ -55,20 +55,6 @@ related:
         width: 850
         height: 400
         isCached: true
-  - title: "Startup aiming to root out misdiagnoses in radiology raises $25M in new funding"
-    excerpt: "A New York-based startup aiming to root out misdiagnoses in radiology has raised $25 million in new funding, leaders announced Monday. Covera Health said the Series C financing comes by way of private equity firm Insight Partners,"
-    publishedDateTime: 2021-08-24T06:12:00Z
-    webUrl: "https://www.radiologybusiness.com/topics/artificial-intelligence/covera-health-misdiagnoses-radiology-insight-partners"
-    type: article
-    provider:
-      name: Radiology Business
-      domain: radiologybusiness.com
-    quality: 33
-    images:
-      - url: "https://www.radiologybusiness.com/sites/default/files/styles/facebook/public/assets/articles/Dollar.jpg?itok=P_wAx_2z"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "tKiRj0x0L3ldyTi+rz7+EYqFt/m+H2+G4Xpwbd3au5BMWmy5g7nWYKI0zUr1vbdCzLEapXiTDaZBq/FHpabmfN3Sm2FgzW+X6rlqlndCFKnSCUQoZHnvcyxM3ClLPpytlnWvBnJcaqoABP0AeCPAlPG9RwkfZcVZbSYRqqxZoTg1ybil0Ole4q7vS61sW1xALRIYaHF5wSlyJyc8Q/qt92NGQa5dUvtww0YcraDNmhR8BYpFcFfM/psixnQXUATxoS0tfPUF6L5L2GM3e+NU34Pfyb34/Q2GknQdEA+DqB7fyICrj94CF/FkuxOn8aBES/M9nRGUXPsaDa7pvW3zkI3u+0STtsMg68kzN4jHe28=;WEsOrgr+7BYNgQiLEq+SYw=="
 ---

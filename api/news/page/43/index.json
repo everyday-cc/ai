@@ -2,6 +2,144 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2021-07-28-ai-in-computer-vision-market-trends-and-forecast-2028.md",
+      "title": "AI in Computer Vision Market Trends and Forecast 2028",
+      "excerpt": "The Global AI in Computer Vision Market is estimated to value over USD 72.5 billion by 2028 finish at a CAGR of",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-trends-and-forecast-2028-2021-07-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-trends-and-forecast-2028-2021-07-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-28T05:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-renesas-and-syntiant-develop-voice-controlled-multimodal-ai-solution-combining-advanced-vision-and-voice-technologies.md",
+      "title": "Renesas and Syntiant Develop Voice-Controlled Multimodal AI Solution Combining Advanced Vision and Voice Technologies",
+      "excerpt": "Renesas and Syntiant Corp. announced the joint development of a voice-controlled multimodal AI solution for vision AI-based IoT and edge systems",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210728005284/en/Renesas-and-Syntiant-Develop-Voice-Controlled-Multimodal-AI-Solution-Combining-Advanced-Vision-and-Voice-Technologies/",
+      "originalUrl": "https://www.businesswire.com/news/home/20210728005284/en/Renesas-and-Syntiant-Develop-Voice-Controlled-Multimodal-AI-Solution-Combining-Advanced-Vision-and-Voice-Technologies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-28T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-how-an-avalanche-of-data-led-to-new-trends-in-ai-software-modernization-approaches.md",
+      "title": "How An Avalanche Of Data Led To New Trends In AI Software Modernization Approaches",
+      "excerpt": "In recent years, companies’ growing focus on big data has led to increased digitalization demands. The avalanche of data has forced businesses to reconsider software modernization approaches. With that in mind,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/28/how-an-avalanche-of-data-led-to-new-trends-in-ai-software-modernization-approaches/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/28/how-an-avalanche-of-data-led-to-new-trends-in-ai-software-modernization-approaches/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe33d661ff84a5b5e2d9ed9%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/28/how-an-avalanche-of-data-led-to-new-trends-in-ai-software-modernization-approaches/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/28/how-an-avalanche-of-data-led-to-new-trends-in-ai-software-modernization-approaches/amp/",
+      "publishedDateTime": "2021-07-28T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-28-how-to-build-a-perfect-ai-team.md",
       "title": "How To Build A Perfect AI Team",
       "excerpt": "From e-commerce and healthcare to travel and finance, AI has made its way to just about every type of industry. In fact, the adoption rate of AI has increased by more than 270%, according to Gartner,",
@@ -991,135 +1129,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-global-cognitive-spending-systems-market-2021-comprehensive-analysis-business-growing-strategies-industry-segmentation-and-forecast-2026.md",
-      "title": "Global Cognitive Spending Systems Market 2021 Comprehensive Analysis, Business Growing Strategies, Industry Segmentation and Forecast 2026",
-      "excerpt": "Global Cognitive Spending Systems Market 2021 by Company, Regions, Type and Application, Forecast to 2026 has articulated comprehensive, well-verified, and minutely analyzed research postulates ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/global-cognitive-spending-systems-market-2021-comprehensive-analysis-business-growing-strategies-industry-segmentation-and-forecast-2026",
-      "originalUrl": "https://www.digitaljournal.com/pr/global-cognitive-spending-systems-market-2021-comprehensive-analysis-business-growing-strategies-industry-segmentation-and-forecast-2026",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-27T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-inkr-draws-in-31m-to-make-more-comics-accessible-to-worldwide-audiences.md",
-      "title": "INKR draws in $3.1M to make more comics accessible to worldwide audiences",
-      "excerpt": "Luong says INKR’s proprietary AI engine ... with plans to add more languages. Some publishers, like Kuaikan Manhua and Mr. Blue, have used INKR to translate thousands of comic chapters from ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/28/inkr-draws-in-3-1m-to-make-more-comics-accessible-to-worldwide-audiences/",
-      "originalUrl": "https://techcrunch.com/2021/07/28/inkr-draws-in-3-1m-to-make-more-comics-accessible-to-worldwide-audiences/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/07/IMG_2585.jpg",
-          "width": 9736,
-          "height": 3904,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/07/28/inkr-draws-in-3-1m-to-make-more-comics-accessible-to-worldwide-audiences/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/28/inkr-draws-in-3-1m-to-make-more-comics-accessible-to-worldwide-audiences/amp/",
-      "publishedDateTime": "2021-07-27T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-ambi-robotics-releases-ambikit-a-new-kitting-robot-system.md",
-      "title": "Ambi Robotics releases Ambikit, a new kitting robot system",
-      "excerpt": "Ambi Robotics introduces AmbiKit, a new AI-driven kitting applications that leverages vision and robots to pick items from bulk into kits.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/ambi-robotics-releases-ambikit-a-new-kitting-robot-system/",
-      "originalUrl": "https://www.therobotreport.com/ambi-robotics-releases-ambikit-a-new-kitting-robot-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2021/07/ambikit-featured-web.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-27T16:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
