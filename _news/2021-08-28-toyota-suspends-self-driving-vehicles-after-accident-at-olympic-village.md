@@ -108,18 +108,18 @@ related:
         height: 600
         isCached: true
   - title: "Toyota halts self-driving vehicles after Paralympics collision"
-    excerpt: "Toyota's chief executive has apologized after a self-driving transportation vehicle collided with a visually-impaired athlete at the Tokyo Paralympic Games."
+    excerpt: "World Toyota halts self-driving vehicles after Paralympics collision. Posted . Toyota's chief executive has apologized after a self-driving transportation vehicle collided with a"
     publishedDateTime: 2021-08-28T13:08:00Z
-    webUrl: "https://www.reuters.com/video/watch/idPxIm?now=true"
+    webUrl: "https://www.reuters.com/video/watch/idOVES78QQZ"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 54
     images:
-      - url: "https://ajo.prod.reuters.tv/api/v2/img/612a2496e4b085d396fcf0b6-1630151830922?location=LANDSCAPE"
-        width: 1200
-        height: 675
+      - url: "https://static.reuters.com/resources/r/?d=20210828&i=OVES78QQZ&r=OVES78QQZ&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "Toyota pauses Paralympics self-driving buses after one hits visually impaired athlete"
     excerpt: "Japan’s Aramitsu Kitazono was left with cuts and bruises after being hit by the e-Palette vehicle at the athletes’ village"

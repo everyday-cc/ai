@@ -101,22 +101,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "San Francisco residents test Waymo's self-driving car"
-    excerpt: "Waymo announced Tuesday that some San Francisco residents will be able to test some of their self-driving cars in its second market."
-    publishedDateTime: 2021-08-24T18:12:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2021/08/24/waymo-san-francisco-autonomous-jaguar-test/9741629827145/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/08/24/waymo-san-francisco-autonomous-jaguar-test/9741629827145/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/08/24/waymo-san-francisco-autonomous-jaguar-test/9741629827145/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 59
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi_com/9741629827145/2021/1/9f564fe1a2df33fe5c199d118a5ded3f/v1.5/San-Francisco-residents-test-Waymos-self-driving-car.jpg"
-        width: 800
-        height: 535
-        isCached: true
   - title: "Waymo to stop selling lidar self-driving car sensors"
     excerpt: "Most self-driving car firms, including Waymo, say lidars are key to achieving full autonomy. Tesla CEO Elon Musk says companies that rely on the expensive sensors are \"doomed\"."
     publishedDateTime: 2021-08-27T07:41:00Z

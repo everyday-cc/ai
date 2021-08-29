@@ -43,22 +43,6 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "Intel’s “Ponte Vecchio” GPU Better Not Be A Bridge Too Far"
-    excerpt: "It is pretty obvious to everyone who watches the IT market that Intel needs an architectural win that leads to a product win in datacenter compute. And it"
-    publishedDateTime: 2021-08-24T18:42:00Z
-    webUrl: "https://www.nextplatform.com/2021/08/24/intels-ponte-vecchio-gpu-better-not-be-a-bridge-too-far/"
-    ampWebUrl: "https://www.nextplatform.com/2021/08/24/intels-ponte-vecchio-gpu-better-not-be-a-bridge-too-far/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/08/24/intels-ponte-vecchio-gpu-better-not-be-a-bridge-too-far/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 59
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/ponte-vecchio-bridge-scaled.jpg"
-        width: 2560
-        height: 1734
-        isCached: true
 
 secured: "WcZ+y057fRw4FkTVJ1HYW9W+YZchMIGXlgM6klm0+h8M39rPdUiX7pxVpVxBTHXv3qr714rzWRrV/GEnYyd7xkjDKIyi0QWz91dgHmoYb5KwR2bLYXgaAUB2y65vvhqXZj9xzEjfZfHmv55krkd3rhfBpKjlj38rfNvndFBZYDIpiSv2qNeiJY3wPyZhOR42h6JKrJwGTsq+eQLdpi16hK8lhypTfI+kz1n5GFQ4h96H+6spBUyYCPgHMYsVM61t9qwyqVT6ULbxgC/apdgbfoqAoQR3suxkaHSxtsj/c4PCkAHBhgQ+E4moy2jy75a0Xj9ize9OFSQ8MrrmAB4rQ6mQR5J8fnIyS7OWMnuuoa8nBDdQQboz3pwn/V7Ux2Arx900HT5xnYku/Ns6EjuyXh6P3oL1LdZcPTWwvvqxbhIcZnfncC0cYugq9o1UbHFBAtyNjSkls34HNvqCKXyIP0khmEP/VS8ShSDGcClMsyV/WIv8CaykUgeNF3CPiHyR9vUSdMKAkOYM29Cm35ED4A==;W9PJndGdVr7sdWB4ew5ppA=="
 ---

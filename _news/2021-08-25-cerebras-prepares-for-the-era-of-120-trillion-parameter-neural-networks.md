@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/cerebras-prepares-for-the-era-of-120-trillion-parameter-neural-networks/"
 type: article
 quality: 91
-heat: -1
-published: false
+heat: 131
+published: true
 
 provider:
   name: ZDNet
@@ -32,36 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cerebras’ CS-2 brain-scale chip can power AI models with 120 trillion parameters"
-    excerpt: "Cerebras said its CS-2 processor is a \"brain-scale\" chip that can power AI models with more than 120 trillion parameters."
-    publishedDateTime: 2021-08-24T19:00:00Z
-    webUrl: "https://venturebeat.com/2021/08/24/cerebras-cs-2-brain-scale-chip-can-power-ai-models-with-120-trillion-parameters/"
-    ampWebUrl: "https://venturebeat.com/2021/08/24/cerebras-cs-2-brain-scale-chip-can-power-ai-models-with-120-trillion-parameters/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/24/cerebras-cs-2-brain-scale-chip-can-power-ai-models-with-120-trillion-parameters/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 99
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/04/cerebras-main.jpg?w=1200&strip=all"
-        width: 1200
-        height: 668
-        isCached: true
-  - title: "Cerebras Systems connects its huge chips to make AI more power-efficient"
-    excerpt: "A Cerebras Systems artificial intelligence chip is seen between a knife and fork shown for scale in this undated handout photo provided on August 24, 2021. Courtesy of Cerebras Systems/Handout via R"
-    publishedDateTime: 2021-08-25T01:23:00Z
-    webUrl: "https://www.reuters.com/news/picture/cerebras-systems-connects-its-huge-chips-idUSKBN2FP1YX"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 83
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210824&t=2&i=1572827891&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH7N10M"
-        width: 810
-        height: 540
-        isCached: true
   - title: "Cerebras Upgrades Trillion-Transistor Chip to Train ‘Brain-Scale’ AI"
     excerpt: "Cerebras has outlined a series of innovations that mean its latest chip can train a neural network with up to 120 trillion parameters."
     publishedDateTime: 2021-08-27T14:16:00Z

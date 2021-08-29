@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Toyota halts self-driving vehicles after Paralympics collision"
-excerpt: "Toyota's chief executive has apologized after a self-driving transportation vehicle collided with a visually-impaired athlete at the Tokyo Paralympic Games."
+excerpt: "World Toyota halts self-driving vehicles after Paralympics collision. Posted . Toyota's chief executive has apologized after a self-driving transportation vehicle collided with a"
 publishedDateTime: 2021-08-28T13:08:00Z
-originalUrl: "https://www.reuters.com/video/watch/idPxIm?now=true"
-webUrl: "https://www.reuters.com/video/watch/idPxIm?now=true"
+originalUrl: "https://www.reuters.com/video/watch/idOVES78QQZ"
+webUrl: "https://www.reuters.com/video/watch/idOVES78QQZ"
 type: article
 quality: 54
 heat: -1
@@ -23,9 +23,9 @@ topics:
   - AI
 
 images:
-  - url: "https://ajo.prod.reuters.tv/api/v2/img/612a2496e4b085d396fcf0b6-1630151830922?location=LANDSCAPE"
-    width: 1200
-    height: 675
+  - url: "https://static.reuters.com/resources/r/?d=20210828&i=OVES78QQZ&r=OVES78QQZ&t=2"
+    width: 960
+    height: 540
     isCached: true
 
 related:
@@ -335,6 +335,6 @@ related:
         height: 338
         isCached: true
 
-secured: "3xHMD3EgYpbifBThhL6oYYetrLJb2rejthgDqRj7g8Bm2B375ncyEyh+EAcQClstU+HbP1cWzfnY87Hg3oJV2P5X2Z4QzohEL7GA1vs2w/fqVpm13YNfDyP8DN1x/dQ0FM9X/fFVGP4CR7iDcd76rGzZMDs/HitU5DPRmwBXSrwIwq+Ig5DtMSbF5+x0AfRY7BY38hWgf7wo61etD0huqrZaDVQHVvH4VStEXAr60bIhGKeQ4Da58BNva2OiApDScXB3VdL2ggujyGXvHy8wL/5gq5mM+TXvLU83HsPh/O0GivHpIKXf2Mr7FYVvxbtgPtCR1vj1EevQew4sTtnnkwetGvn2Z3aBxg52xNfNngcxhHPB0lTCpJ+HCziTRdN8b5Oipsiu7/mvR4oDMQsI7CNCzu3ih3reGjwdrQWjxJ4YQpc/MqrYdyi4dOA+3k7qY2edmpC2mmA43T2kGxMJYRU6KXhSLwn7d1hl/s1zO9YqtRm4DFJibz3S8nA9e5z5vfgJYxlSSiXqpzj5P9w6Qw==;BP1h+UUgq4uLYdR6hAZqnA=="
+secured: "OdgIBEwZ7jOM+iSSoLtNnfs6aEGP5Mi/IAiC92rmni+CIPuQCkioQApHmd9t6o/dKRoiwt9kMug+KTbUmm4iZgu3M3f/cZudjmnrcMOjzfRsP6+lPE6KQ3pwEK504yx4MCFd4pF+qTfNTulGRwBwtxs73kDKIAucmqiCMp1HaT1mBbusWyjhXiwFPeqyvj7J/gaW9wuxBVyPCeTtNHzmlmS9q3knVn1uSor/8zzLha6oROjyA6JKoSJ+aVY+8UYwk6jhvfutL0NLr6wfKbBbYLgvQSxmPXqOai+pNgCdQ2vN7pmoAoo15xVQ8xl58gztTYhI+HuYV9NwYqGlqx9qWi7jPM1LFQ1bcep/2qxMYNc=;3tCWsjYYzrejxKi7Sih4eg=="
 ---
 

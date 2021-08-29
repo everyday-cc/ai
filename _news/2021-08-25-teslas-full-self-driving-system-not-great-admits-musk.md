@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Elon Musk is not impressed by Tesla’s current Full Self-Driving build, but likes the next one"
-    excerpt: "Elon Musk said that Tesla’s current Full Self-Driving Beta build is “not great,” but he is currently testing the next build coming to beta testers, and he is impressed by that one."
-    publishedDateTime: 2021-08-24T17:12:00Z
-    webUrl: "https://electrek.co/2021/08/24/elon-musk-not-impressed-tesla-current-full-self-driving-build/"
-    ampWebUrl: "https://electrek.co/2021/08/24/elon-musk-not-impressed-tesla-current-full-self-driving-build/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/24/elon-musk-not-impressed-tesla-current-full-self-driving-build/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 78
-    images:
-      - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2021/07/Tesla-FSD-Beta-v9-driving-visuzalization.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla's Full Self Driving system 'not great,' admits Musk"
     excerpt: "Tesla CEO Elon Musk has admitted that the Full Self-Driving system is not that great, adding that the company is trying for a single tech platform for both highway and city streets to make"
     publishedDateTime: 2021-08-26T10:39:00Z

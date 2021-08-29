@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/cars/watch-san-franciscans-take-a-ride
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/watch-san-franciscans-take-a-ride-in-waymos-autonomous-car/?amp"
 type: article
 quality: 89
-heat: 219
+heat: 209
 published: true
 
 provider:
@@ -88,22 +88,6 @@ related:
       - url: "https://www.reuters.com/resizer/OeHFpwMvCIban7rpCKkCjXgOn_Y=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/57PBGJVXGBPTDIEICF7AG2U7BM.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "San Francisco residents test Waymo's self-driving car"
-    excerpt: "Waymo announced Tuesday that some San Francisco residents will be able to test some of their self-driving cars in its second market."
-    publishedDateTime: 2021-08-24T18:12:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2021/08/24/waymo-san-francisco-autonomous-jaguar-test/9741629827145/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/08/24/waymo-san-francisco-autonomous-jaguar-test/9741629827145/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/08/24/waymo-san-francisco-autonomous-jaguar-test/9741629827145/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 59
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi_com/9741629827145/2021/1/9f564fe1a2df33fe5c199d118a5ded3f/v1.5/San-Francisco-residents-test-Waymos-self-driving-car.jpg"
-        width: 800
-        height: 535
         isCached: true
   - title: "Waymo launches rider testing for self-driving cars in San Francisco"
     excerpt: "Some San Francisco residents will have a new way to get around the city. Waymo has launched rider testing of its self-driving cars. Right now, residents can sign up to become a “trusted tester” in the Waymo One app."

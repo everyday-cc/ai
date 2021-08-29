@@ -43,6 +43,20 @@ related:
         width: 628
         height: 385
         isCached: true
+  - title: "Speech and Voice Recognition Market worth $22.0 billion by 2026 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "According to the new market research report \"Speech and Voice Recognition Market with COVID-19 Impact Analysis by Delivery Method,"
+    publishedDateTime: 2021-08-26T13:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/speech-and-voice-recognition-market-worth-22-0-billion-by-2026--exclusive-report-by-marketsandmarkets-301363483.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 7
+    images:
+      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
+        width: 666
+        height: 350
+        isCached: true
   - title: "Speech and Voice Recognition Market worth $22.0 billion by 2026 - Exclusive Report by MarketsandMarketstm"
     excerpt: "Global Forecast to 2026\", published by MarketsandMarketstm, the Speech And Voice Recognition Market is expected to grow from USD 8.3 billion in 2021 to USD 22.0 billion by 2026; it is expected to grow at a CAGR of 21."
     publishedDateTime: 2021-08-26T14:58:00Z
@@ -71,15 +85,6 @@ related:
         width: 580
         height: 339
         isCached: true
-  - title: "Speech and Voice Recognition Market worth $22.0 billion by 2026 - Exclusive Report by MarketsandMarkets"
-    excerpt: "According to the new market research report \"Speech and Voice Recognition Market with COVID-19 Impact Analysis by Delivery Method, Deployment Mode (On"
-    publishedDateTime: 2021-08-26T15:40:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-08/53783702-speech-and-voice-recognition-market-worth-dollar-22-0-billion-by-2026-exclusive-report-by-marketsandmarkets-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
 
 secured: "cNZOaVQrxuP3cNsYIQn9peE2JoKu0mkKknB3gmYozeDsBkkrS3zCs8fOSY+035nCb2Ye9C9RqnaO6yPKePlAHx7qCpe9oAkWiF5jCYmwQNmTkuTJKjDpe5z8qhDKSyPF1u/RfHmQ1ydeE+KZ4ZXcYoJyhflvZ3lRnuMsTBLJ3kGGba2O4gRu2xHCh8VUbWGJiyN0Pg7ZIx4VRikQqk20ipn6MAU8VrcQtAhgCGvvk/LG/lQO50z92HEQbnriBmtqgHWcbH6aJLF+UCfZXtSwnmCUnTk458VkiYcYKBXuU2Dt/sW95IFuUnya7xFkZ8m4fRtwGDd0QSNyxv2ewg45a5KNG2NHRPG5w4ghHq3wUBqNi6/a+msH+9zJ9M5L2Dlm/KEQhixpyAWaITIwmrS9+wQvYLPUxY3167IHS4oOmtr2oJF60aMXslsoM4GTEEMcM3zSlTTATBZcfKX3j+If6OgyNUDS7opFwAQsQ4QuMVDEuZpyvhFNpIPLXlVmJVt5vJnSFZUJrUR4UtMZWFyZ/Q==;YQjFoQ+H8Gtk7zHB75abXQ=="
 ---

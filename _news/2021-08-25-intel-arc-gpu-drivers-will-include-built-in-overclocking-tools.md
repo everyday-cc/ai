@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/90925-intel-arc-gpu-drivers-includ
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/90925-intel-arc-gpu-drivers-include-built-overclocking-tools.html"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel’s “Ponte Vecchio” GPU Better Not Be A Bridge Too Far"
-    excerpt: "It is pretty obvious to everyone who watches the IT market that Intel needs an architectural win that leads to a product win in datacenter compute. And it"
-    publishedDateTime: 2021-08-24T18:42:00Z
-    webUrl: "https://www.nextplatform.com/2021/08/24/intels-ponte-vecchio-gpu-better-not-be-a-bridge-too-far/"
-    ampWebUrl: "https://www.nextplatform.com/2021/08/24/intels-ponte-vecchio-gpu-better-not-be-a-bridge-too-far/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/08/24/intels-ponte-vecchio-gpu-better-not-be-a-bridge-too-far/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 59
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/ponte-vecchio-bridge-scaled.jpg"
-        width: 2560
-        height: 1734
-        isCached: true
   - title: "Intel is building up its Xe-HPG GPU drivers to take on AMD and Nvidia at their own game"
     excerpt: "After Intel announced its upcoming Xe-HPG discrete GPUs, now branded Arc, updates have been coming in thick and fast. The latest swathe, outlined in a recent Intel Medium roundup post, details some juicy developments to its 'graphics story,"
     publishedDateTime: 2021-08-25T11:02:00Z

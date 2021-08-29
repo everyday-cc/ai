@@ -25,19 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "Esperanto Delivers Massive AI Processing With Less Than 20W For Data Center Inference Workloads"
-    excerpt: "The 7nm ET-SoC-1 features 1,088 64-bit in-order cores with vector units referred to as ET-Minions and four high-performance 64-bit out-of-order RISC-V cores referred to as ET-Maxions."
-    publishedDateTime: 2021-08-24T17:35:00Z
-    webUrl: "https://www.forbes.com/sites/tiriasresearch/2021/08/24/esperanto-delivers-massive-ai-processing-with-less-than-20w-for-data-center-inference-workloads/"
+  - title: "IBM Unveils Chip for Accelerating AI Inference Engines"
+    excerpt: "The IBM Telum Processor is the company’s first chip capable of providing that acceleration capability while transactions are processing."
+    publishedDateTime: 2021-08-25T18:23:00Z
+    webUrl: "https://www.itbusinessedge.com/development/ibm-unveils-chip-for-accelerating-ai-inference-engines/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 57
+      name: IT Business Edge
+      domain: itbusinessedge.com
+    quality: 54
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6125286faeafbcc6b6801db8%2F0x0.jpg"
-        width: 435
-        height: 353
+      - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/06/IBM-sues-GlobalFoundries.jpg"
+        width: 600
+        height: 422
+        isCached: true
+  - title: "IBM’s First CPU With On-chip AI Acceleration Detects Fraud at Lightning Speeds"
+    excerpt: "Containing 22 billion transistors, IBM's new processor, Telum, features on-chip acceleration for AI inferencing. The goal: to detect fraud before a transaction is complete."
+    publishedDateTime: 2021-08-27T16:00:00Z
+    webUrl: "https://www.allaboutcircuits.com/news/ibms-first-cpu-telum-with-on-chip-ai-acceleration-detects-fraud-lightning-speeds/"
+    type: article
+    provider:
+      name: All About Circuits
+      domain: allaboutcircuits.com
+    quality: 50
+    images:
+      - url: "https://www.allaboutcircuits.com/uploads/thumbnails/Telum.jpg"
+        width: 700
+        height: 348
+        isCached: true
+  - title: "IBM aims AI inference at anti-fraud for financial vertical"
+    excerpt: "This week, however, IBM stepped up to the plate with a new processor, IBM Telum, equipped with on-chip acceleration for AI inferencing for anti-fraud applications in banking and other sectors. Telum,"
+    publishedDateTime: 2021-08-26T16:52:00Z
+    webUrl: "https://www.fierceelectronics.com/electronics/ibm-aims-ai-inference-at-anti-fraud-financial-vertical"
+    type: article
+    provider:
+      name: fierceelectronics
+      domain: fierceelectronics.com
+    quality: 41
+    images:
+      - url: "https://qtxasset.com/fierceelectronics/1629997179/IBM%20Telum%20Processor_2.jpg?aPIomlo33uke.19hcfWJcF9cC5kl02wF"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Esperanto Technologies Unveils Energy-Efficient RISC-V-Based Machine Learning Accelerator Chip at Hot Chips 33 Conference"
     excerpt: "Esperanto’s ML inference accelerator features over a thousand RISC-V custom processor cores for industry-leading performance per watt."

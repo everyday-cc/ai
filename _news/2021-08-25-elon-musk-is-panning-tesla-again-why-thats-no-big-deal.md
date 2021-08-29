@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/tesla-stock-elon-musk-516297560
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-stock-elon-musk-51629756011"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla CEO Elon Musk says latest self-driving update ‘not great’"
-    excerpt: "Tesla has lately been under the scanner from the governments of US and China for its autopilot or self-driving technology..Tesla sells its advanced driver assistant features such as lane changing and automated parking under the name Full Self-Driving (FSD)."
-    publishedDateTime: 2021-08-24T17:20:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/tesla-ceo-elon-musk-says-latest-self-driving-update-not-great-41629776618271.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/news/tesla-ceo-elon-musk-says-latest-self-driving-update-not-great/amp-41629776618271.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/tesla-ceo-elon-musk-says-latest-self-driving-update-not-great/amp-41629776618271.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 59
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2021/08/24/600x338/AFP_9L8894_1629439212600_1629777640413.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Why the feds are investigating Tesla’s Autopilot and what that means for the future of self-driving cars"
     excerpt: "Tesla’s Autopilot uses cameras, radar and ultrasonic sensors to support two major features: Traffic-Aware Cruise Control and Autosteer."
     publishedDateTime: 2021-08-26T14:22:00Z

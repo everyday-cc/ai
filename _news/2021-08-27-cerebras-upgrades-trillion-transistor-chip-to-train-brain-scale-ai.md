@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cerebras’ CS-2 brain-scale chip can power AI models with 120 trillion parameters"
-    excerpt: "Cerebras said its CS-2 processor is a \"brain-scale\" chip that can power AI models with more than 120 trillion parameters."
-    publishedDateTime: 2021-08-24T19:00:00Z
-    webUrl: "https://venturebeat.com/2021/08/24/cerebras-cs-2-brain-scale-chip-can-power-ai-models-with-120-trillion-parameters/"
-    ampWebUrl: "https://venturebeat.com/2021/08/24/cerebras-cs-2-brain-scale-chip-can-power-ai-models-with-120-trillion-parameters/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/24/cerebras-cs-2-brain-scale-chip-can-power-ai-models-with-120-trillion-parameters/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 99
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/04/cerebras-main.jpg?w=1200&strip=all"
-        width: 1200
-        height: 668
-        isCached: true
   - title: "Cerebras prepares for the era of 120 trillion-parameter neural networks"
     excerpt: "In the past year, what had been the world's largest neural net as measured by neural weights, OpenAI's GPT-3 natural language processing program, with 175 billion weights, was eclipsed by Google's 1.6-trillion-parameter model, the Switch Transformer."
     publishedDateTime: 2021-08-25T00:33:00Z
@@ -57,20 +41,6 @@ related:
     images:
       - url: "https://www.zdnet.com/a/hub/i/2021/08/24/a9840569-346e-4256-83d9-a981a1f2c01d/hc2021-cerebras-embargoed-8-24-slide-10.jpg"
         width: 960
-        height: 540
-        isCached: true
-  - title: "Cerebras Systems connects its huge chips to make AI more power-efficient"
-    excerpt: "A Cerebras Systems artificial intelligence chip is seen between a knife and fork shown for scale in this undated handout photo provided on August 24, 2021. Courtesy of Cerebras Systems/Handout via R"
-    publishedDateTime: 2021-08-25T01:23:00Z
-    webUrl: "https://www.reuters.com/news/picture/cerebras-systems-connects-its-huge-chips-idUSKBN2FP1YX"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 83
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210824&t=2&i=1572827891&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH7N10M"
-        width: 810
         height: 540
         isCached: true
   - title: "Cerebras Systems Lays The Foundation For Huge Artificial Intelligence"

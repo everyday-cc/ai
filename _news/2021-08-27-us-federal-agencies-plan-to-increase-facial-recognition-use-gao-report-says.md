@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202108/us-federal-agencies-plan-to
 webUrl: "https://www.gao.gov/products/gao-21-526"
 type: article
 quality: 138
-heat: 299
+heat: 298
 published: true
 
 provider:
