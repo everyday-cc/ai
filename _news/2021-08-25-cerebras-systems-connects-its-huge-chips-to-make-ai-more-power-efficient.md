@@ -61,22 +61,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Cerebras Systems Lays The Foundation For Huge Artificial Intelligence"
-    excerpt: "Cerebras extends CS-2 system and software to train a 120-Trillion-parameter model on the way to brain-scale AI."
-    publishedDateTime: 2021-08-24T07:30:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2021/08/24/cerebras-systems-creates-huge-artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/08/24/cerebras-systems-creates-huge-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/08/24/cerebras-systems-creates-huge-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611eaab4a8a155b120682f84%2F0x0.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Cerebras Upgrades Trillion-Transistor Chip to Train ‘Brain-Scale’ AI"
     excerpt: "Cerebras has outlined a series of innovations that mean its latest chip can train a neural network with up to 120 trillion parameters."
     publishedDateTime: 2021-08-27T14:16:00Z

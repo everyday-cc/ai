@@ -7,7 +7,7 @@ originalUrl: "https://www.thelawyer.com/knowledge-bank/white-paper/hr-podcast-ep
 webUrl: "https://www.thelawyer.com/knowledge-bank/white-paper/hr-podcast-episode-14-artificial-intelligence-and-hr-the-revolution/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 485
     height: 297
     isCached: true
+
+related:
+  - title: "AI and ML: Think big, start small and move fast in the new industrial revolution"
+    excerpt: "To develop a good artificial intelligence and machine learning strategy, you’ve got to think about why you need one in the first place"
+    publishedDateTime: 2021-08-28T23:00:00Z
+    webUrl: "https://www.businesspost.ie/connected/ai-and-ml-think-big-start-small-and-move-fast-in-the-new-industrial-revolution-09025863"
+    type: article
+    provider:
+      name: The Sunday Business Post
+      domain: businesspost.ie
+    quality: 49
+    images:
+      - url: "https://img.resized.co/businesspost/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvaW1lbmdpbmUucHVibGljLnByb2Quc2JwLmluZm9tYWtlci5pbz91dWlkPTIwZmNkMjZjLTVjOTctNTk5My1iY2U5LWNiOWNlODNjZWU1MyZ0eXBlPXByZXZpZXcmcT04MCZoZWlnaHQ9MTQ4Ny4wNTIxMTcyNjM4JndpZHRoPTI2NDYmZnVuY3Rpb249Y3JvcHJlc2l6ZSZ4PTAmeT0wLjEzMzU1MDQ4ODU5OTM0ODU0JmNyb3Bfdz0wLjk5OTk5OTk5JmNyb3BfaD0wLjczMjg5OTAxMjgwMTNcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHA6XFxcL1xcXC9zMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbVxcXC9zdG9yYWdlLnB1Ymxpc2hlcnBsdXMuaWVcXFwvbWVkaWEuYnVzaW5lc3Nwb3N0LmllXFxcL3NicC1uby1pbWFnZS5wbmdcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiNTgxNjliNGZmM2QzZDZkOWUwY2ZlZDI4MDQxMDdiMzI2YTI0MzA2ZiJ9/ai-and-ml-think-big-start-small-and-move-fast-in-the-new-industrial-revolution.7328990128013"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "UlnUmFR/81tiZeHPPCPCwEXrwgoYVfpVfjkIod+UDOtlI9X2BeUqHh1OdkdUngovRdBRXAMF9tQBh5+GRNaEzOSHEwL+Jl7ADhNXB7sEFObGrpg7BB8X7mzwiZyrmnd3mVwOE4miVLf5m5i2/HccVlue79VFxU203y0SehYF1f6m/ZWTHvnPYTIyBClimEls7TyupEh1tHS4f0osn5Wja+tpSpiXpMm0suGzNq1HurTNIENEvGy8wKfsqu+VGsCzFrD0FznYz51TI1T8+vlQH5YBffrLW6DKi5RfdZdzs7az7YRGwCoVotWabgG9QxWbTcRQwqMtYKiCXI/bAmcHCSgK/GVjwLogQye6Tcf5KaE=;6snPwenoxehO+r2PgE5qbw=="
 ---

@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 840
         isCached: true
-  - title: "'Always there': the AI chatbot comforting China's lonely millions"
-    excerpt: "After a painful break-up from a cheating ex, Beijing-based human resources manager Melissa was introduced to someone new by a friend late last year."
-    publishedDateTime: 2021-08-24T07:48:00Z
-    webUrl: "https://techxplore.com/news/2021-08-ai-chatbot-comforting-china-lonely.html"
-    ampWebUrl: "https://techxplore.com/news/2021-08-ai-chatbot-comforting-china-lonely.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-ai-chatbot-comforting-china-lonely.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/xiaoice-has-pioneered.jpg"
-        width: 1024
-        height: 681
-        isCached: true
   - title: "Why Conversational AI Is So Much More Than a Chatbot"
     excerpt: "When people think of conversational AI, their first thought is often the chatbots that one encounters on many enterprise websites. While they would not be wrong, as that is one example of conversational AI,"
     publishedDateTime: 2021-08-25T15:14:00Z
@@ -82,20 +66,6 @@ related:
       - url: "https://images.firstpost.com/wp-content/uploads/2021/08/alex-knight-2EJCSULRwC8-unsplash-1.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "AI chatbot comforting China's lonely millions"
-    excerpt: "Originally a side project from developing Microsoft's Cortana chatbot, XiaoIce now accounts for 60 percent of global human-AI interactions by volume."
-    publishedDateTime: 2021-08-24T08:45:00Z
-    webUrl: "https://www.enca.com/news/always-there-ai-chatbot-comforting-chinas-lonely-millions"
-    type: article
-    provider:
-      name: eNCA
-      domain: enca.com
-    quality: 41
-    images:
-      - url: "https://www.enca.com/sites/default/files/styles/facebook/public/afp/2021-08/doc-9KW7NW-%40photo1.jpg?h=426933fc&itok=eLePxnD5"
-        width: 1200
-        height: 630
         isCached: true
   - title: "AI chatbot comforts China’s lonely millions"
     excerpt: "After a painful break-up from a cheating ex, Beijing-based human resources manager Melissa was introduced to someone new by a friend late last year. He replies to her messages at all hours of the day,"

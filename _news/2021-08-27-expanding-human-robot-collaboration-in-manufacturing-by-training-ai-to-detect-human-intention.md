@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-08-human-robot-collaboration-ai-hum
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-human-robot-collaboration-ai-human-intention.amp"
 type: article
 quality: 63
-heat: 94
+heat: 93
 published: true
 
 provider:

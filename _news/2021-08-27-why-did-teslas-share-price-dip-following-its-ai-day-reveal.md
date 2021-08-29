@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cmcmarkets.com/en-gb/news-and-analysis/why-did-teslas-sh
 cdnAmpWebUrl: "https://www-cmcmarkets-com.cdn.ampproject.org/c/s/www.cmcmarkets.com/en-gb/news-and-analysis/why-did-teslas-share-price-dip-following-its-ai-day-reveal_amp"
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla’s AI Day Made Self- Driving Technology Harder to Grasp. What Investors Need to Know."
-    excerpt: "Companies are racing to build autonomous vehicles, but judging who has the best systems has become nearly impossible for ordinary people."
-    publishedDateTime: 2021-08-24T08:30:00Z
-    webUrl: "https://www.barrons.com/articles/tesla-ai-autonomous-vehicle-technology-51629756011"
-    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-ai-autonomous-vehicle-technology-51629756011"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-ai-autonomous-vehicle-technology-51629756011"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 64
-    images:
-      - url: "https://images.barrons.com/im-389712/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Tesla AI Day, CGI, and Broken Promises Are an Insomnia Tutorial For Advocates"
     excerpt: "The Tesla AI Day would happen way past bedtime for me. On other occasions, I’d probably stay up and watch the entire thing hoping that something exciting would be revealed. This time, nobody expected more than an event to attract new talents to the company,"
     publishedDateTime: 2021-08-28T06:56:00Z

@@ -35,22 +35,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Ocado appoints AI and machine learning expert as non-executive director"
-    excerpt: "Online supermarket Ocado has appointed Nadia Shouraboura as a non-executive director. Due to take up her role on 1 September, she will also be a member of the nomination committee. A leader in the field of machine learning and robotics,"
-    publishedDateTime: 2021-08-24T07:04:00Z
-    webUrl: "https://www.theretailbulletin.com/food-and-drink/ocado-appoints-ai-and-machine-learning-expert-as-non-executive-director-24-08-2021/"
-    ampWebUrl: "https://www.theretailbulletin.com/food-and-drink/ocado-appoints-ai-and-machine-learning-expert-as-non-executive-director-24-08-2021/amp/"
-    cdnAmpWebUrl: "https://www-theretailbulletin-com.cdn.ampproject.org/c/s/www.theretailbulletin.com/food-and-drink/ocado-appoints-ai-and-machine-learning-expert-as-non-executive-director-24-08-2021/amp/"
-    type: article
-    provider:
-      name: Retail Bulletin
-      domain: theretailbulletin.com
-    quality: 74
-    images:
-      - url: "https://www.theretailbulletin.com/wp-content/uploads/2020/09/Ocado-MS.jpg"
-        width: 700
-        height: 466
-        isCached: true
 
 secured: "5AQ4jZlywMAHQRAjUEjQ7yd8Bwvv15ffxjmeNX9W6SmY/gy7/o/Iez8aelPNdMVHJrdmtPO9XIv97vaIeFb2TO3y1iO65d5c/AHkL06PL87WRuVGCFJGVA8SJ2oFxqBmbX//+XnRl+O/oh415IhTl6Nr16s4JrGNaxenT2RFWw2c46ejCmAhrusbl3ZUCujxvnDkLQMKqC4zUwAa3QU1NZ8YL1wruQnM+3daFIHCWEc58D9PZc8RhAa1j4Dn5+uTB20ZgkgoXYpOXYLrarrtSwkKjD9tNXGzdX8AsKUiM2AI5agS0W2fcPbo+xP3jRDfx+cdDlZ02Un2klTzzpLEbcHC278Fcnq7VXSZbC27nz0=;uUup5AILpfbFxQgoUa7RUQ=="
 ---

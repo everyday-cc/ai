@@ -9,7 +9,7 @@ ampWebUrl: "https://searchengineland.com/ask-the-expert-demystifying-ai-and-mach
 cdnAmpWebUrl: "https://searchengineland-com.cdn.ampproject.org/c/s/searchengineland.com/ask-the-expert-demystifying-ai-and-machine-learning-in-search-351554/amp"
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ocado appoints AI and machine learning expert as non-executive director"
-    excerpt: "Online supermarket Ocado has appointed Nadia Shouraboura as a non-executive director. Due to take up her role on 1 September, she will also be a member of the nomination committee. A leader in the field of machine learning and robotics,"
-    publishedDateTime: 2021-08-24T07:04:00Z
-    webUrl: "https://www.theretailbulletin.com/food-and-drink/ocado-appoints-ai-and-machine-learning-expert-as-non-executive-director-24-08-2021/"
-    ampWebUrl: "https://www.theretailbulletin.com/food-and-drink/ocado-appoints-ai-and-machine-learning-expert-as-non-executive-director-24-08-2021/amp/"
-    cdnAmpWebUrl: "https://www-theretailbulletin-com.cdn.ampproject.org/c/s/www.theretailbulletin.com/food-and-drink/ocado-appoints-ai-and-machine-learning-expert-as-non-executive-director-24-08-2021/amp/"
-    type: article
-    provider:
-      name: Retail Bulletin
-      domain: theretailbulletin.com
-    quality: 74
-    images:
-      - url: "https://www.theretailbulletin.com/wp-content/uploads/2020/09/Ocado-MS.jpg"
-        width: 700
-        height: 466
-        isCached: true
   - title: "AI vs. AI: Gearing Up for Battle With Deep Learning"
     excerpt: "AI has been widely integrated into our everyday lives — ranging from domestic appliances to medical equipment — but the power of AI makes it extremely appealing to threat actors, and the recent emergence of adversarial AI proves it."
     publishedDateTime: 2021-08-25T13:00:00Z

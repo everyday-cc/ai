@@ -41,22 +41,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Voice Assistant Shopping Market - Forecast to 2026"
-    excerpt: "According to a new market research report published by Global Market Estimates the Voice Assistant Shopping Market will grow with a CAGR value of around 50 percent over the forecast period Browse TOC on Global Voice Assistant Shopping Market Forecast"
-    publishedDateTime: 2021-08-24T07:11:00Z
-    webUrl: "https://www.openpr.com/news/2364652/voice-assistant-shopping-market-forecast-to-2026"
-    ampWebUrl: "https://www.openpr.com/amp/2364652/voice-assistant-shopping-market-forecast-to-2026"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2364652/voice-assistant-shopping-market-forecast-to-2026"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 44
-    images:
-      - url: "https://cdn.openpr.com/U/8/U824425762_g.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Global GPU Database Market 2020-2026"
     excerpt: "Infinity analysts forecast the global GPU Database market to grow at a CAGR of 18 3 during the forecast period according to their latest market research report GPU databases can handle a high volume of individual data points through integration"
     publishedDateTime: 2021-08-24T13:36:00Z

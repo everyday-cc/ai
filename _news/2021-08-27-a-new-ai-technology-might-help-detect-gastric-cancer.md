@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lakenbrooks/2021/08/27/a-new-ai-technol
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lakenbrooks/2021/08/27/a-new-ai-technology-might-help-detect-gastric-cancer/amp/"
 type: article
 quality: 87
-heat: 108
+heat: 107
 published: true
 
 provider:

@@ -1,29 +1,29 @@
 ---
 category: news
 title: "‘Just one more’: Inside the massive military community effort to save Afghans"
-excerpt: "The company also bought Scion Analytics, a software firm which does natural language processing and some machine learning and artificial intelligence, providing “a large platform to parse through large volumes of disparate data sources.” Wilson’s ..."
-publishedDateTime: 2021-08-28T13:53:00Z
-originalUrl: "https://www.defensenews.com/news/pentagon-congress/2021/08/27/just-one-more-inside-the-massive-military-community-effort-to-save-afghans/"
-webUrl: "https://www.defensenews.com/news/pentagon-congress/2021/08/27/just-one-more-inside-the-massive-military-community-effort-to-save-afghans/"
+excerpt: "Thousands of veterans have worked tirelessly to evacuate Afghans and Americans from Kabul. Even when the last flight leaves next week they vow to continue."
+publishedDateTime: 2021-08-27T22:12:00Z
+originalUrl: "https://www.militarytimes.com/news/pentagon-congress/2021/08/27/just-one-more-inside-the-massive-military-community-effort-to-save-afghans/"
+webUrl: "https://www.militarytimes.com/news/pentagon-congress/2021/08/27/just-one-more-inside-the-massive-military-community-effort-to-save-afghans/"
 type: article
 quality: 21
 heat: 21
 published: false
 
 provider:
-  name: Defense News
-  domain: defensenews.com
+  name: Military Times
+  domain: militarytimes.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.defensenews.com/resizer/MidnWz5mmw-g7p_4NG0x5kiJrFg=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/YO7ZEWMOYFFAFGONEVOQ3BPS4U.jpg"
+  - url: "https://www.militarytimes.com/resizer/MidnWz5mmw-g7p_4NG0x5kiJrFg=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/YO7ZEWMOYFFAFGONEVOQ3BPS4U.jpg"
     width: 1024
     height: 768
     isCached: true
 
-secured: "mwY0cD0EpyWXOXInlrHFjm3h+Ok1ZpokSNYODzuLawcnynfBux+885bgoufuKDHLdkhmgVamD8Dttxa3x+N0BXiGGjbGwzLr7/6JCBAZYnXah0yOOwpk1/B/RIRrmu+cF4Mk1rk3yCC61RPP4jgmj+rAM9xxEUskAL5bInEgnALkjUV7H/323ATbQGKd8C7jqYFLhdydP2gF+YokYiTX6bqvl3gwYHlj+bIao/zm+YuCQgMXIz1cmiSaw0GTWmrd4YA6OzlKBIRUKZp8w1nKWedIxIrbMIr+vogklWbjB+43o9ze1gV9XqfBfDahJSqMF9FIGbFPEEnjQMn39qNG+FiMhLMNVTtwC942qawcf9Vjv+vjy0yAk9e4yCZ10perFXx10KrU0F7LJ0Dhu85DzKdoz6sbs46V7b37aOs5uke2aR1w7zhte0+MtHUwCW7AjpmMpLsLDBLHGdXCItrdPJbghNZHR9FbruSSIcw624QwVK9/MOIyJhsYg92AdVP+zqpJQHXOjEDU4cyFhbS0PQ==;c/D8wmOg+KEwPc+Lrn8m8Q=="
+secured: "3qwt00rjNHL0SSQV0yd+uY2Fs1QZ7y3T3I6pW4OdSxJs6MFjBXP8bH/CoRKxqCuVFFddIyDulptfVplCa1DqzHxnobzzGr9ct63PUA04XWd2nBoOksHPiKhKqoQdo+BMG3Y64nFFTCUriVBpEUYZOPF8dVqEEuz9AezQ9OdiU1b6YXD0PZh6JN/t20ce7yyIjmutBy5v00DjlRyskcfq8JmAbkKCRRqZAjE7q9weCQSwFlXYz0bu4PKpJb1zq9X3LLdXC8VmkOIR5lf2RhzRTnw3PAOwSdYDKFo+Zz2LW8mzHa5xcgXMY63knDPEwNffmwnu3deGe8FAeh0MjEAKLaFAqAMl4HHBttcwKG8w2MQ=;2J4nnryyDpTp71l7Rw0bfA=="
 ---
 

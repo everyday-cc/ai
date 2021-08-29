@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/24/cerebras-cs-2-brain-scale-chip-ca
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/24/cerebras-cs-2-brain-scale-chip-can-power-ai-models-with-120-trillion-parameters/amp/"
 type: article
 quality: 99
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://www.zdnet.com/a/hub/i/2021/08/24/a9840569-346e-4256-83d9-a981a1f2c01d/hc2021-cerebras-embargoed-8-24-slide-10.jpg"
         width: 960
         height: 540
-        isCached: true
-  - title: "Cerebras Systems Lays The Foundation For Huge Artificial Intelligence"
-    excerpt: "Cerebras extends CS-2 system and software to train a 120-Trillion-parameter model on the way to brain-scale AI."
-    publishedDateTime: 2021-08-24T07:30:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2021/08/24/cerebras-systems-creates-huge-artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/08/24/cerebras-systems-creates-huge-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/08/24/cerebras-systems-creates-huge-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611eaab4a8a155b120682f84%2F0x0.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Cerebras Systems connects its huge chips to make AI more power-efficient"
     excerpt: "A Cerebras Systems artificial intelligence chip is seen between a knife and fork shown for scale in this undated handout photo provided on August 24, 2021. Courtesy of Cerebras Systems/Handout via R"
