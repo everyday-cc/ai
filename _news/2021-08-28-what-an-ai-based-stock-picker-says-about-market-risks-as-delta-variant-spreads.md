@@ -1,23 +1,24 @@
 ---
 category: news
 title: "What an A.I.-based stock picker says about market risks as delta variant spreads"
-excerpt: "EquBot said its A.I. platform uses the company's proprietary machine-learning algorithms, IBM Watson's natural-language processing capabilities, and tools known as knowledge graphs to build ..."
-publishedDateTime: 2021-08-27T20:49:00Z
-originalUrl: "https://www.morningstar.com/news/marketwatch/20210827560/what-an-ai-based-stock-picker-says-about-market-risks-as-delta-variant-spreads"
-webUrl: "https://www.morningstar.com/news/marketwatch/20210827560/what-an-ai-based-stock-picker-says-about-market-risks-as-delta-variant-spreads"
+excerpt: "\"Our system still sees a significant amount of risk\" as the delta variant spreads, heading into back-to-school season, said Chris Natividad, chief investment officer at San Francisco-based EquBot, in an interview."
+publishedDateTime: 2021-08-28T11:07:00Z
+originalUrl: "https://www.morningstar.com/news/marketwatch/20210828331/what-an-ai-based-stock-picker-says-about-market-risks-as-delta-variant-spreads"
+webUrl: "https://www.morningstar.com/news/marketwatch/20210828331/what-an-ai-based-stock-picker-says-about-market-risks-as-delta-variant-spreads"
 type: article
-quality: 0
-heat: 0
+quality: 1
+heat: 1
 published: false
 
 provider:
-  name: Morningstar%2c Inc.
+  name: Morningstar, Inc.
   domain: morningstar.com
 
 topics:
   - IBM AI
   - AI
+  - Natural Language Processing
 
-secured: "BwkT2/wTvyBX+8c6xp9WWWfWatitTmCK05WTX3EdjHQ9SSBhLKo2aOePNe+MZ5zXbuTmtcMqhCztVmfIf6aWLF6VJckcEaMsgq0HgYAdHfPko/WL+CrejlJkjCduQuxRCz0S+PqkkB/MYJow4s/BSZGF2I8NZw5pbuhR7aer0qugx4C5/4PIP00OfZ07QaSkXgM5dY2uy8pSIUv6tFM/Y51+8m193kIcCyocqkDNEiL/f30kU7UiGhqNRkimAnlXujpLmouwRO7K1GXQX1wSsHZqOVNDKWMY56Mit0Hg1JKMtAAUeMshSUzdVi0EDcxvDL3ezVyTzkIjQordCAul4KgZGuSxzzwKxH/EWND/jc4=;/vMx3elRo4Ock65b8rJIuA=="
+secured: "ykNZm1COTGCQqnwxHQRxj/HiY4yEXcoJwjiksLyOzcaM8bmtzNAFtq+b+dN8tjy1A6tAlX09smjnk46QB0LCOJyAqc+1vxCNFC44t9lLjpK2pbD+y1cT+82PFASSNt1qDpui7nSBaOVQ1Q7vpQSrm19ezGOrWBH6TereXckyAco/HpYF0TS4fNA3yW0FctK6XZ6ZBHKUYh1L1gB+bML06rHfzEm8Dy6IYD+3Mf+TG7O1Ruyxl32wabaA0nYyEDUlYHCF879F/27WuvY+e0EJ4e2x+vAjAwR01+1DQgoyM8SU+gTOU0Y+BiAv5mEgKKZah74UUeTZWsETuDG9N/GIW9EnzhWpFuxzlbEiLYUR6sU=;91NWS1fferBadJQHGWSi/g=="
 ---
 

@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-08-29-exclusive-sarcos-ceo-on-whether-tesla-is-late-to-the-robotics-party-ai-utility-in-repetitive-vs-dynamic-tasks-and-more.md",
-      "title": "EXCLUSIVE: Sarcos CEO On Whether Tesla Is Late To The Robotics Party, AI Utility In Repetitive Vs. Dynamic Tasks And More",
-      "excerpt": "See Also: Tesla Places Itself As A Robotics Company With Reach Beyond EVs, Unveils Dojo Chips, Humanoid: Key Takeaways From AI Day “It often takes longer than [Musk] predicts. Still, he has ...",
+      "path": "_news/2021-08-29-how-to-make-ai-more-ethical.md",
+      "title": "How to make AI more ethical",
+      "excerpt": "We practice this at my company through a cross-functional Privacy and Ethics Board and a separate ethical AI subcommittee. These groups help us define corporate ethical principles and procedures ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/exclusive-sarcos-ceo-on-whether-tesla-is-late-to-the-robotics-party-ai-utility-in-repetitive-vs-dynamic-tasks-and-more-1030764913",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/exclusive-sarcos-ceo-on-whether-tesla-is-late-to-the-robotics-party-ai-utility-in-repetitive-vs-dynamic-tasks-and-more-1030764913",
+      "webUrl": "https://venturebeat.com/2021/08/29/how-to-make-ai-more-ethical/",
+      "originalUrl": "https://venturebeat.com/2021/08/29/how-to-make-ai-more-ethical/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 164,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/sarcos_civ-wht.3.jpeg",
-          "width": 1024,
-          "height": 768,
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/AI-e1621941163863.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-29T04:38:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2021/08/29/how-to-make-ai-more-ethical/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/29/how-to-make-ai-more-ethical/amp/",
+      "publishedDateTime": "2021-08-29T06:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -41,6 +41,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-29-exclusive-sarcos-ceo-on-whether-tesla-is-late-to-the-robotics-party-ai-utility-in-repetitive-vs-dynamic-tasks-and-more.md",
+      "title": "EXCLUSIVE: Sarcos CEO On Whether Tesla Is Late To The Robotics Party, AI Utility In Repetitive Vs. Dynamic Tasks And More",
+      "excerpt": "See Also: Tesla Places Itself As A Robotics Company With Reach Beyond EVs, Unveils Dojo Chips, Humanoid: Key Takeaways From AI Day “It often takes longer than [Musk] predicts. Still, he has proven it isn’t wise to bet against him,” said Wolff.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/21/08/22689721/exclusive-sarcos-ceo-on-whether-tesla-is-late-to-the-robotics-party-ai-utility-in-repetitive-vs-dyna",
+      "originalUrl": "https://www.benzinga.com/news/21/08/22689721/exclusive-sarcos-ceo-on-whether-tesla-is-late-to-the-robotics-party-ai-utility-in-repetitive-vs-dyna",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/files/images/story/2012/sarcos_civ-wht.3.jpeg",
+          "width": 640,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/22689721",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22689721",
+      "publishedDateTime": "2021-08-29T04:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -63,7 +106,7 @@
       "originalUrl": "https://thewest.com.au/technology/telecommunications/aust-researchers-use-ai-to-predict-drought-c-3810380",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -144,101 +187,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-29-the-future-of-american-democracy-hinges-on-ethical-ai.md",
-      "title": "The future of American democracy hinges on ethical AI",
-      "excerpt": "Not since the race to develop the atomic bomb has a technology had as much potential to effect the balance of power between democracy and authoritarianism.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/28/the-future-of-american-democracy-hinges-on-ethical-ai/",
-      "originalUrl": "https://venturebeat.com/2021/08/28/the-future-of-american-democracy-hinges-on-ethical-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1256373495.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 776,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/28/the-future-of-american-democracy-hinges-on-ethical-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/28/the-future-of-american-democracy-hinges-on-ethical-ai/amp/",
-      "publishedDateTime": "2021-08-28T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-28-toyota-suspends-self-driving-vehicles-after-accident-at-olympic-village.md",
-      "title": "Toyota suspends self-driving vehicles after accident at Olympic village",
-      "excerpt": "Toyota Motor said on Friday it had suspended all self-driving e-Palette transportation pods at the Tokyo Paralympic Games village, a day after one of the vehicles collided with and injured a visually impaired pedestrian.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/world/toyota-suspends-self-driving-vehicles-after-accident-olympic-village-n1277849",
-      "originalUrl": "https://www.nbcnews.com/news/world/toyota-suspends-self-driving-vehicles-after-accident-olympic-village-n1277849",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 274,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_34/3502164/210828-toyota-epalette-mb-1553.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1277849",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1277849",
-      "publishedDateTime": "2021-08-28T07:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -919,7 +867,7 @@
       "originalUrl": "https://www.scmp.com/business/banking-finance/article/3146708/sensetime-artificial-intelligence-platform-founded-cuhk",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1056,7 +1004,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/27/chances-of-collisions-involving-urgently-underway-police-cars-and-ai-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 151,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -1108,7 +1056,7 @@
       "originalUrl": "https://venturebeat.com/2021/08/27/how-to-upskill-your-team-to-tackle-ai-and-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -1150,6 +1098,57 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-toyota-halts-all-self-driving-e-palette-vehicles-after-olympic-village-accident.md",
+      "title": "Toyota Halts All Self-Driving E-Palette Vehicles After Olympic Village Accident",
+      "excerpt": "Toyota Motor said on Friday it had suspended all self-driving e-Palette transportation pods at the Tokyo Paralympic Games village, a day after one of the vehicles collided with and injured a visually impaired pedestrian.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/autos-transportation/toyota-halts-all-self-driving-e-pallete-vehicles-after-olympic-village-accident-2021-08-27/",
+      "originalUrl": "https://money.usnews.com/investing/news/articles/2021-08-27/toyota-halts-all-self-driving-e-pallete-vehicles-after-olympic-village-accident",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 358,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/MTYMDEF6VFN53GRUIWFU3RHLR4.jpg",
+          "width": 4384,
+          "height": 2958,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-27T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {

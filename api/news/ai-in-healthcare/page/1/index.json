@@ -55,49 +55,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-26-how-artificial-intelligence-ai-aid-medical-diagnosis.md",
-      "title": "How Artificial Intelligence (AI) Aid Medical Diagnosis",
-      "excerpt": "Artificial Intelligence is widely employed for the ... Increasing the effectiveness of decision-making Diagnostic and therapy procedures have always been difficult. The reason for this is that ...",
-      "sourceUrl": null,
-      "webUrl": "https://health.economictimes.indiatimes.com/news/health-it/how-artificial-intelligence-ai-aid-medical-diagnosis/85651655",
-      "originalUrl": "https://health.economictimes.indiatimes.com/news/health-it/how-artificial-intelligence-ai-aid-medical-diagnosis/85651655",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-85651655,imgsize-23672,width-800,height-434,overlay-ethealthworld/how-artificial-intelligence-ai-aid-medical-diagnosis.jpg",
-          "width": 800,
-          "height": 434,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://health.economictimes.indiatimes.com/amp/news/health-it/how-artificial-intelligence-ai-aid-medical-diagnosis/85651655",
-      "cdnAmpWebUrl": "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/how-artificial-intelligence-ai-aid-medical-diagnosis/85651655",
-      "publishedDateTime": "2021-08-26T01:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "health.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-25-can-new-robotic-massage-chairs-really-replace-a-spa-visit.md",
       "title": "Can New, Robotic Massage Chairs Really Replace a Spa Visit?",
       "excerpt": "We take sides on whether high-tech luxury chairs—with artificial intelligence, ‘brain massage’ tech and undulating air bags—can soothe you as effectively as a licenced massage therapist.",
@@ -1381,6 +1338,52 @@
         "AI in Healthcare",
         "Machine Learning",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-massive-growth-of-machine-learning-in-healthcare-market-by-2027-oracle-intel-corporation-ibm-corporation-amazon-web-services.md",
+      "title": "Massive Growth of Machine Learning in Healthcare Market by 2027 | Oracle, Intel Corporation, IBM Corporation, Amazon Web Services",
+      "excerpt": "Machine learning can also help healthcare organizations meet growing medical demands, improve operations and lower costs. At the bedside, machine learning innovation can help healthcare practitioners detect and treat disease more efficiently and with more ...",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/massive-growth-of-machine-learning-in-healthcare-market-by-2027-oracle-intel-corporation-ibm-corporation-amazon-web-services/",
+      "originalUrl": "https://manometcurrent.com/massive-growth-of-machine-learning-in-healthcare-market-by-2027-oracle-intel-corporation-ibm-corporation-amazon-web-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manometcurrent.com/wp-content/uploads/2021/08/Machine-Learning-in-Healthcare.jpg",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/massive-growth-of-machine-learning-in-healthcare-market-by-2027-oracle-intel-corporation-ibm-corporation-amazon-web-services/",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/massive-growth-of-machine-learning-in-healthcare-market-by-2027-oracle-intel-corporation-ibm-corporation-amazon-web-services/",
+      "publishedDateTime": "2021-08-10T21:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare",
+        "AWS AI",
+        "AI in Finance"
       ]
     }
   ],

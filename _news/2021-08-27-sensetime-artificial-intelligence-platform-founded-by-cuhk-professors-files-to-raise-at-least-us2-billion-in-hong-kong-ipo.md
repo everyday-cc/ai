@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/business/banking-finance/article/3146708/senset
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/banking-finance/article/3146708/sensetime-artificial-intelligence-platform-founded-cuhk"
 type: article
 quality: 77
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2021/08/5e724d8cb14ec_compress.jpg"
         width: 792
         height: 528
+        isCached: true
+  - title: "Chinese AI firm SenseTime applies for $12b IPO in Hong Kong"
+    excerpt: "Chinese artificial intelligence (AI) company SenseTime has submitted an application to the Hong Kong Exchanges and Clearing (HKEX) for a proposed IPO that may become the world's largest in the field of AI with a valuation of $12 billion. AI companies have ..."
+    publishedDateTime: 2021-08-29T13:43:00Z
+    webUrl: "https://www.globaltimes.cn/page/202108/1232758.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 37
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2021/2021-08-23/41c23040-0432-4bd5-85a5-fe0f8060b40f.jpeg"
+        width: 800
+        height: 480
         isCached: true
   - title: "Non-Profit Federated Learning Consortium (FLC) for Decentralized AI to Launch in Hong Kong, Receives $2M Pledge"
     excerpt: "HONG KONG, CHINA / ACCESSWIRE / August 27, 2021 / Federated Learning Consortium (FLC) is a global non-profit organization headquartered in Hong"

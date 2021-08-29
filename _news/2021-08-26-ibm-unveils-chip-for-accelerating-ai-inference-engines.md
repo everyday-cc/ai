@@ -7,7 +7,7 @@ originalUrl: "https://www.itbusinessedge.com/development/ibm-unveils-chip-for-ac
 webUrl: "https://www.itbusinessedge.com/development/ibm-unveils-chip-for-accelerating-ai-inference-engines/"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -67,15 +67,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Esperanto Technologies Unveils Energy-Efficient RISC-V-Based Machine Learning Accelerator Chip at Hot Chips 33 Conference"
-    excerpt: "Esperanto’s ML inference accelerator features over a thousand RISC-V custom processor cores for industry-leading performance per watt."
-    publishedDateTime: 2021-08-24T19:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210824005243/en/Esperanto-Technologies-Unveils-Energy-Efficient-RISC-V-Based-Machine-Learning-Accelerator-Chip-at-Hot-Chips-33-Conference"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 11
 
 secured: "QTM4OndkZe/YcGq10jq8oMDgzWqUC8Oe84po3r2eLX483WZRNsACXF1VhYml+99r7jkuSTtNyBUvNHLamdfXB9UCLaULfRwKAn2LZKBIlVrDP0GezbB8mC+Xw8Jwui02OZ0ITIoZwp3ZLxIcw10P2+BL0NlcZIhz4+gA6a2vjn0fhQAxBb1US6rCcAiWQUWggIznOWHaF5EI8cBMdWDfit04w+K8/sWstVDE6aMAYt42SvRgcW1/5mcyyhVXrZPF/9ZLLUzDbozpEBQCT1bz6rV+pDxVIJdS8WmWVGetn2LH0XGzjcH/EOBrfs8jNNAV71BVSZ/FRNnC97wbu4E9z6k0tU7Unqhp5szy8x4b720MvQSwBWyrHJ+fIT3GqQz6JgD1FHjFmfCvopGchjOOB+y5ZsF7fTAAhWL/HeteDJFkEeImIAk9r4DgaFyAHkHL2hDikAkDM3iQ3qY+G70QtQDgsdRSi9eujJEB08vR41n1IWIj0fpPWR7Y4VEa4Lo0QCe0Mp6sKYD+SrW9c5dTxg==;TwjegVFx+NjONcsvtkPkRA=="
 ---

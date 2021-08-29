@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcgamer.com/uk/amp/intel-xe-hpg-arc-gpu-overclocking-gam
 cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/uk/amp/intel-xe-hpg-arc-gpu-overclocking-game-capture/"
 type: article
 quality: 51
-heat: -1
+heat: 51
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1200
     height: 676
     isCached: true
-
-related:
-  - title: "Intel Arc GPU drivers will include built-in overclocking tools"
-    excerpt: "Intel plans to release gaming-oriented Xe HPG \"Alchemist\" GPUs in Q1 2022. The Intel Arc brand was announced this month with upcoming GPUs that will span"
-    publishedDateTime: 2021-08-24T20:20:00Z
-    webUrl: "https://www.techspot.com/news/90925-intel-arc-gpu-drivers-include-built-overclocking-tools.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/90925-intel-arc-gpu-drivers-include-built-overclocking-tools.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/90925-intel-arc-gpu-drivers-include-built-overclocking-tools.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 89
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2021/08/2021-08-24-image-26.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
 
 secured: "WcZ+y057fRw4FkTVJ1HYW9W+YZchMIGXlgM6klm0+h8M39rPdUiX7pxVpVxBTHXv3qr714rzWRrV/GEnYyd7xkjDKIyi0QWz91dgHmoYb5KwR2bLYXgaAUB2y65vvhqXZj9xzEjfZfHmv55krkd3rhfBpKjlj38rfNvndFBZYDIpiSv2qNeiJY3wPyZhOR42h6JKrJwGTsq+eQLdpi16hK8lhypTfI+kz1n5GFQ4h96H+6spBUyYCPgHMYsVM61t9qwyqVT6ULbxgC/apdgbfoqAoQR3suxkaHSxtsj/c4PCkAHBhgQ+E4moy2jy75a0Xj9ize9OFSQ8MrrmAB4rQ6mQR5J8fnIyS7OWMnuuoa8nBDdQQboz3pwn/V7Ux2Arx900HT5xnYku/Ns6EjuyXh6P3oL1LdZcPTWwvvqxbhIcZnfncC0cYugq9o1UbHFBAtyNjSkls34HNvqCKXyIP0khmEP/VS8ShSDGcClMsyV/WIv8CaykUgeNF3CPiHyR9vUSdMKAkOYM29Cm35ED4A==;W9PJndGdVr7sdWB4ew5ppA=="
 ---

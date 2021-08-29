@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk Is Panning Tesla Again. Why That’s No Big Deal."
-    excerpt: "Companies are racing to build autonomous vehicles, but judging who has the best systems has become nearly impossible for ordinary people."
-    publishedDateTime: 2021-08-24T19:05:00Z
-    webUrl: "https://www.barrons.com/articles/tesla-stock-elon-musk-51629756011"
-    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-stock-elon-musk-51629756011"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-stock-elon-musk-51629756011"
+  - title: "Will Tesla share its self-driving system with other manufacturers?"
+    excerpt: "At a recent conference dedicated to artificial intelligence, Elon Musk indicated ... and numerous partnerships forged in recent years by Waymo, the subsidiary of Alphabet (parent company of ..."
+    publishedDateTime: 2021-08-25T08:08:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/08/25/will-tesla-share-its-self-driving-system-with-other-manufacturers"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 74
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
     images:
-      - url: "https://images.barrons.com/im-389712/social"
-        width: 1280
-        height: 640
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/08/25/1268743.jpg"
+        width: 1240
+        height: 826
         isCached: true
 
 secured: "g1jJPPv0z2833hCLkBgCVRY5IXFd30qwF72BuXOX0RbVJE6L7Nm/RKYYvzkH1fXPklmOQv/WDgVo8W+Y5+E8d/SpvKwUnNg2H2b2NFsjOpMIgnu+a+g1aNdAAKR563EkxzNG1x4qWRxoWAn/YKTVmFNQzWDW/2AsdZOTZ7PfXtfanyDPlO5GL3Nvis6clXdhrQAgAc9VW0yVBkRPTlPgSRS+W3oOMJ5HEWl9reM7hyk3tNBJwvRm2FOjvl00/TnaJ+m0A2sk0sIS8jt2nBb+BaMRKbn13DElSI7xBU0zbCwSoOem40/koOltvsESUgvimiMaQi3lAf5WsNnUvpG8almpEdi52MFja/ChYIrK8dnGNtvdXhh1CmclUx+rImENZSGhysRab+E4/sUgB9ed0HhGhfa7w27iuPfsCICMbbL5gWQ+NlwUTH5m74ZnxY4IUwFZYCwzuHqmyUdfMCXoTR+Vsu/LrF8yertBqr7moCozn2oTPaaimZvfrpZTrZNcwjhZgInYdoczCEQiHS8fnA==;LF5+l7S4dp0huwVa/VjA/A=="

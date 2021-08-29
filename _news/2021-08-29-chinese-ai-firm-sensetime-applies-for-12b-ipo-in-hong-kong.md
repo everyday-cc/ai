@@ -1,27 +1,26 @@
 ---
 category: news
-title: "SenseTime, AI Startup to apply for IPO in Hong Kong"
-excerpt: "Since then, SenseTime has published a white paper titled “Code of Ethics for AI Sustainable Development” and is collaborating with the United Nations to enhance AI ethics."
-publishedDateTime: 2021-08-28T19:37:00Z
-originalUrl: "https://techstory.in/sensetime-ai-startup-to-go-public/"
-webUrl: "https://techstory.in/sensetime-ai-startup-to-go-public/"
+title: "Chinese AI firm SenseTime applies for $12b IPO in Hong Kong"
+excerpt: "Chinese artificial intelligence (AI) company SenseTime has submitted an application to the Hong Kong Exchanges and Clearing (HKEX) for a proposed IPO that may become the world's largest in the field of AI with a valuation of $12 billion. AI companies have ..."
+publishedDateTime: 2021-08-29T13:43:00Z
+originalUrl: "https://www.globaltimes.cn/page/202108/1232758.shtml"
+webUrl: "https://www.globaltimes.cn/page/202108/1232758.shtml"
 type: article
-quality: 39
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: tech
-  domain: techstory.in
+  name: Global Times
+  domain: globaltimes.cn
 
 topics:
-  - AI Ethics
   - AI
 
 images:
-  - url: "https://techstory.in/wp-content/uploads/2021/08/5e724d8cb14ec_compress.jpg"
-    width: 792
-    height: 528
+  - url: "https://www.globaltimes.cn/Portals/0/attachment/2021/2021-08-23/41c23040-0432-4bd5-85a5-fe0f8060b40f.jpeg"
+    width: 800
+    height: 480
     isCached: true
 
 related:
@@ -41,19 +40,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Chinese AI firm SenseTime applies for $12b IPO in Hong Kong"
-    excerpt: "Chinese artificial intelligence (AI) company SenseTime has submitted an application to the Hong Kong Exchanges and Clearing (HKEX) for a proposed IPO that may become the world's largest in the field of AI with a valuation of $12 billion. AI companies have ..."
-    publishedDateTime: 2021-08-29T13:43:00Z
-    webUrl: "https://www.globaltimes.cn/page/202108/1232758.shtml"
+  - title: "SenseTime, AI Startup to apply for IPO in Hong Kong"
+    excerpt: "Since then, SenseTime has published a white paper titled “Code of Ethics for AI Sustainable Development” and is collaborating with the United Nations to enhance AI ethics."
+    publishedDateTime: 2021-08-28T19:37:00Z
+    webUrl: "https://techstory.in/sensetime-ai-startup-to-go-public/"
     type: article
     provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 37
+      name: tech
+      domain: techstory.in
+    quality: 39
     images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2021/2021-08-23/41c23040-0432-4bd5-85a5-fe0f8060b40f.jpeg"
-        width: 800
-        height: 480
+      - url: "https://techstory.in/wp-content/uploads/2021/08/5e724d8cb14ec_compress.jpg"
+        width: 792
+        height: 528
         isCached: true
   - title: "Non-Profit Federated Learning Consortium (FLC) for Decentralized AI to Launch in Hong Kong, Receives $2M Pledge"
     excerpt: "HONG KONG, CHINA / ACCESSWIRE / August 27, 2021 / Federated Learning Consortium (FLC) is a global non-profit organization headquartered in Hong"
@@ -65,6 +64,6 @@ related:
       domain: businessinsider.com
     quality: 29
 
-secured: "QwJP44nYdnVxkzSvJZkGuuOKfIQUH3Gb48Mll5V9XMde4ysKpNnIkXtNtEZQtigLVw3TcErwQ3uPS1767Xq9YpoVV6MAY91wHTeI4M951dTJDHeOX2u5akV+LMJ8OfMN2n1A21j0saiMTVV4xdMwBgO1KoC5N7qAu2I30uEIunIw3PFy1y9txoHYngIoLeyzBlvoII/LLeb1+ZjowcqvksfM7UZwVsgz0gD6glmPqCmrwx0XDg1ZVfl3mLApwKi+eXVxgeGCA4web2RDa2ybHCR66WpZ5ui4GHuprPqnrEHAIZoyQewVr2LxynYOaMw1C+Ycpk/5NQlUOeKaS5nsWQec2gJ4j/spCUakHtVwEj3V7Y/rHEXs/hiqhFYI8IIvg33WfElJFxloAI/oJn8NNEAaVasaNfDAZSEC17pgvOqgiIQlIfWfhiaNeoTL4q6Gl29/8bsufKkf84Swl7Asl/VcPdtnjwkAyxpxUR+TyddzVfRzl/mbDiiKPk9UEfBsIBR3VeP0wQehC5+5afkkRQ==;wEkOdXsi2v7hwCmhrOfeNA=="
+secured: "FbtwjrEp0AzhCDZ3ofE6z5sLeBSf/Z7PzEnkZnEr2XX6NaiSptZIdWLEzDrDZu5jWKGRzwA+gCC6eerCW6RDnI7bR2rcOwYQhD2vcTqiSZT3p4lM7/QPJCp8nGm0IdNEeY6oKF3tsq8g65bempISffgUOwa6vhMopBwKUiT/ky53i7sncZ37B3BqtFqTuT+1OscR7xgAt3MiHWQ6J8xB2IrXDPnbVfa/SoifYhGaE1bvn/k70KOcbEv8TeUDiNaLUJ3o7tPVmRcch4yaa0ffDYprOqzxrUDq51SoK8xSc4HTNUVJwx/V+lTHOsvcTsex2ZjJ8a5vPYaOAPj0w+Y3fHPv/fvNDTLDj/QBs6R+aqM=;97k75YhzbxeIzXk6yhOOUg=="
 ---
 

@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Toyota Halts All Self-Driving E-Palette Vehicles After Olympic Village Accident"
+    excerpt: "Toyota Motor said on Friday it had suspended all self-driving e-Palette transportation pods at the Tokyo Paralympic Games village, a day after one of the vehicles collided with and injured a visually impaired pedestrian."
+    publishedDateTime: 2021-08-27T14:30:00Z
+    webUrl: "https://www.reuters.com/business/autos-transportation/toyota-halts-all-self-driving-e-pallete-vehicles-after-olympic-village-accident-2021-08-27/"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 148
+    images:
+      - url: "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/MTYMDEF6VFN53GRUIWFU3RHLR4.jpg"
+        width: 4384
+        height: 2958
+        isCached: true
   - title: "Toyota suspends self-driving vehicles after accident at Olympic village"
     excerpt: "Toyota Motor said on Friday it had suspended all self-driving e-Palette transportation pods at the Tokyo Paralympic Games village, a day after one of the vehicles collided with and injured a visually impaired pedestrian."
     publishedDateTime: 2021-08-28T14:58:00Z
@@ -62,6 +76,22 @@ related:
       - url: "https://i.insider.com/6129413c9ef1e50018f87ebe?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Toyota suspends all self-driving vehicles at Paralympic Games after collision with athlete"
+    excerpt: "Toyota Motor Corporation announced the immediate halt to all e-Palette self-driving pods at the Tokyo Paralympic Games following a collision."
+    publishedDateTime: 2021-08-27T17:58:00Z
+    webUrl: "https://electrek.co/2021/08/27/toyota-suspends-all-self-driving-vehicles-at-paralympic-games-after-collision-with-athlete/"
+    ampWebUrl: "https://electrek.co/2021/08/27/toyota-suspends-all-self-driving-vehicles-at-paralympic-games-after-collision-with-athlete/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/27/toyota-suspends-all-self-driving-vehicles-at-paralympic-games-after-collision-with-athlete/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 64
+    images:
+      - url: "https://electrek.co/wp-content/uploads/sites/3/2021/08/Toyota-E-Palette.png?w=1000"
+        width: 1000
+        height: 500
         isCached: true
   - title: "Visually impaired Paralympian hit by self-driving bus"
     excerpt: "A visually impaired Paralympian was hit by a self-driving bus in the athletes' village in Tokyo, suffering head and leg injuries, Japanese media said Friday. Toyota, which developed the autonomous shuttle buses used in the compound,"
@@ -249,15 +279,6 @@ related:
         width: 1024
         height: 555
         isCached: true
-  - title: "Toyota Halts All Self-Driving E-Palette Vehicles After Olympic Village Accident"
-    excerpt: "Toyota Motor said on Friday it had suspended all self-driving e-Palette transportation pods at the Tokyo Paralympic Games village, a day after one of the vehicles collided with and injured a visually impaired pedestrian."
-    publishedDateTime: 2021-08-27T14:30:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2021-08-27/toyota-halts-all-self-driving-e-pallete-vehicles-after-olympic-village-accident"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 30
   - title: "Toyota halts use of self-driving vehicle in Olympic Village after collision with Paralympic athlete"
     excerpt: "Toyota has been providing a specially-designed version of its battery-powered, automated \"e-Palette\" vehicles to transport athletes and staff during the Tokyo Olympics and Paralympic Games."
     publishedDateTime: 2021-08-28T18:53:00Z

@@ -1,48 +1,36 @@
 ---
 category: news
-title: "How Artificial Intelligence (AI) Aid Medical Diagnosis"
-excerpt: "Artificial Intelligence is widely employed for the ... Increasing the effectiveness of decision-making Diagnostic and therapy procedures have always been difficult. The reason for this is that ..."
-publishedDateTime: 2021-08-26T08:42:00Z
-originalUrl: "https://health.economictimes.indiatimes.com/news/health-it/how-artificial-intelligence-ai-aid-medical-diagnosis/85651655"
-webUrl: "https://health.economictimes.indiatimes.com/news/health-it/how-artificial-intelligence-ai-aid-medical-diagnosis/85651655"
-ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/how-artificial-intelligence-ai-aid-medical-diagnosis/85651655"
-cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/how-artificial-intelligence-ai-aid-medical-diagnosis/85651655"
+title: "How to make AI more ethical"
+excerpt: "We practice this at my company through a cross-functional Privacy and Ethics Board and a separate ethical AI subcommittee. These groups help us define corporate ethical principles and procedures ..."
+publishedDateTime: 2021-08-29T13:22:00Z
+originalUrl: "https://venturebeat.com/2021/08/29/how-to-make-ai-more-ethical/"
+webUrl: "https://venturebeat.com/2021/08/29/how-to-make-ai-more-ethical/"
+ampWebUrl: "https://venturebeat.com/2021/08/29/how-to-make-ai-more-ethical/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/29/how-to-make-ai-more-ethical/amp/"
 type: article
-quality: 74
-heat: -1
-published: false
+quality: 104
+heat: 164
+published: true
 
 provider:
-  name: health.economictimes.indiatimes
-  domain: indiatimes.com
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Healthcare
+  - AI Ethics
   - AI
 
 images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-85651655,imgsize-23672,width-800,height-434,overlay-ethealthworld/how-artificial-intelligence-ai-aid-medical-diagnosis.jpg"
-    width: 800
-    height: 434
+  - url: "https://venturebeat.com/wp-content/uploads/2020/06/AI-e1621941163863.jpg?w=1200&strip=all"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
-  - title: "How to make AI more ethical"
-    excerpt: "We practice this at my company through a cross-functional Privacy and Ethics Board and a separate ethical AI subcommittee. These groups help us define corporate ethical principles and procedures ..."
-    publishedDateTime: 2021-08-29T13:22:00Z
-    webUrl: "https://venturebeat.com/2021/08/29/how-to-make-ai-more-ethical/"
-    ampWebUrl: "https://venturebeat.com/2021/08/29/how-to-make-ai-more-ethical/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/29/how-to-make-ai-more-ethical/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/AI-e1621941163863.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "The future of American democracy hinges on ethical AI"
     excerpt: "Not since the race to develop the atomic bomb has a technology had as much potential to effect the balance of power between democracy and authoritarianism."
     publishedDateTime: 2021-08-28T17:20:00Z
@@ -72,6 +60,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210824&t=2&i=1572827891&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH7N10M"
         width: 810
         height: 540
+        isCached: true
+  - title: "How Artificial Intelligence (AI) Aid Medical Diagnosis"
+    excerpt: "Artificial Intelligence is widely employed for the ... Increasing the effectiveness of decision-making Diagnostic and therapy procedures have always been difficult. The reason for this is that ..."
+    publishedDateTime: 2021-08-26T08:42:00Z
+    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/how-artificial-intelligence-ai-aid-medical-diagnosis/85651655"
+    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/how-artificial-intelligence-ai-aid-medical-diagnosis/85651655"
+    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/how-artificial-intelligence-ai-aid-medical-diagnosis/85651655"
+    type: article
+    provider:
+      name: health.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-85651655,imgsize-23672,width-800,height-434,overlay-ethealthworld/how-artificial-intelligence-ai-aid-medical-diagnosis.jpg"
+        width: 800
+        height: 434
         isCached: true
   - title: "AI ethics: key to making AI safe, trusted and embraced"
     excerpt: "At SenseTime, the objective is not to remove all bias from AI (which is unrealistic and can become a game of cat and mouse), but rather to make AI safer, fairer and more sustainable, so that people and our planet are truly factored into any AI decision or act."
@@ -113,6 +117,6 @@ related:
       domain: theladders.com
     quality: 37
 
-secured: "TiV2eHCD9jI3E1BYqcjeD+VJfBk7BQCV/g+1iCH/JEGW6MSFv7DCScNthhSG7fyLiv3Ik+y2Z1iQLc6fsDiWmB6U3WQgTCQDSdWIAAldnvxarRyLX5SP1Dlrv/9WebH88IidjO46CbSTtWgcviHcqtQJBgnX+a7UVdKVVNipIgf1yVcqnOkAWRwtMMZiBPx5Iti+GjmEfMykeVhCpwRhEfEtTb3EnGpnC7FAaww6w0kODVyGUz6ASnuG4t0wW7q/t7LrdxzG9c2nLdaAsNQdFyiV2AbQYTWiCE01TP7ndyjA6GaUYa5xMWmA+c4zbBaADfimBHyCVqD6Yv9sdK6XHKLxVEg0V75Q/ziUlcGfaCVCa19MGODMIlbfp/Ls0t0VDxXH84+f7Mpo/707QrpDMKvuijIUhH4wArAmhNjwviUv/AcYewqcluXm+eSRPBeEm2diOOGw33DNKJBw+VZo3obudfuHX+Yzav5Y7T46o0f4qGaIjya4HLTRMFmzKy67M5laMEqNFi7KARCyTTh1vw==;l89MvSHuD8L1XM0QiWeZVg=="
+secured: "X4DlHIXUCEzls7eIsf0q5vsN+fs2umJi//PscspuRR9Ay5SmIoLYXdCDvLPlH5Hgv8rhNbvuDZqU+cjUdBQV+S+Y0meIeQtPb+8xqyUCKbw4XRmpEOcZm0OraNg+ApLZQLfkQsM077GSAVF9uJBImgCtTOOWnoUoW6P3X9k7b733uaDtnaxrdcw+d+3BdSfeasx09XvMZwbSjuWwcD3vu0sapkAmxxoxadA/v2dtpu/PAZ2RZ3C+2MyLplZ397i6pL6SlgeqM2A17U2FJCqOxQhc4/s0SA871bNIA8VmXjjY2VNTBp+iC8/XQuoyOCcjfyjHAx25pYrCE0A8mFdeykLnwMQbSPSb7QNl7tuo1dQ=;mwJelJWQ1PZfz3IdCdvwEg=="
 ---
 

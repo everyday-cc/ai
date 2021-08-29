@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/cerebras-prepares-for-the-era-of-120-trillion-parameter-neural-networks/"
 type: article
 quality: 91
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       - url: "https://singularityhub.com/wp-content/uploads/2021/08/cerebras-chip-AI.jpg"
         width: 1068
         height: 601
-        isCached: true
-  - title: "Cerebras Systems Lays The Foundation For Huge Artificial Intelligence"
-    excerpt: "Cerebras extends CS-2 system and software to train a 120-Trillion-parameter model on the way to brain-scale AI."
-    publishedDateTime: 2021-08-24T20:06:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2021/08/24/cerebras-systems-lays-the-foundation-for-huge-artificial-intelligence/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611eaab4a8a155b120682f84%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2004%26cropY1%3D0%26cropY2%3D1128"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Cerebras Systems Announces World’s First Brain-Scale Artificial Intelligence Solution"
     excerpt: "Cerebras Systems, the pioneer in innovative compute solutions for Artificial Intelligence (AI), today unveiled the world’s first brain-scale AI solution. The human brain contains on the order of 100 trillion synapses."

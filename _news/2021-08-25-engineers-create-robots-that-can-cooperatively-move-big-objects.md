@@ -7,7 +7,7 @@ originalUrl: "https://www.unite.ai/engineers-create-robots-that-can-cooperativel
 webUrl: "https://www.unite.ai/engineers-create-robots-that-can-cooperatively-move-big-objects/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,54 +23,6 @@ images:
     width: 900
     height: 600
     isCached: true
-
-related:
-  - title: "These robots can move your couch"
-    excerpt: "To train robots how to work independently but cooperatively, researchers at the University of Cincinnati gave them a relatable task: Move a couch."
-    publishedDateTime: 2021-08-24T19:48:00Z
-    webUrl: "https://techxplore.com/news/2021-08-robots-couch.html"
-    ampWebUrl: "https://techxplore.com/news/2021-08-robots-couch.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-robots-couch.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/these-robots-can-move.jpg"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "In the future, you’ll share your work with robots… unless you’re a woman"
-    excerpt: "A job is an important part of how we find happiness in our lives (even if we don’t always enjoy the work). But what if the machines start doing everything for us? Helen Russell finds out if our working days are numbered."
-    publishedDateTime: 2021-08-27T03:01:00Z
-    webUrl: "https://www.sciencefocus.com/future-technology/will-we-work-in-the-future/"
-    ampWebUrl: "https://www.sciencefocus.com/future-technology/will-we-work-in-the-future/amp/"
-    cdnAmpWebUrl: "https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/future-technology/will-we-work-in-the-future/amp/"
-    type: article
-    provider:
-      name: BBC Focus
-      domain: sciencefocus.com
-    quality: 58
-    images:
-      - url: "https://images.immediate.co.uk/production/volatile/sites/4/2021/08/GettyImages-1189936980-crop-5b55bdd.jpg?quality=90&resize=960,413"
-        width: 960
-        height: 413
-        isCached: true
-  - title: "The robots are coming"
-    excerpt: "Elon envisions his robots replacing much of human physical labor. And if that comes to pass, then he suggests that Universal Basic Income will be needed. He believes that the increased efficiency"
-    publishedDateTime: 2021-08-26T00:15:00Z
-    webUrl: "https://www.redbluffdailynews.com/2021/08/25/the-robots-are-coming/"
-    type: article
-    provider:
-      name: Red Bluff Daily News
-      domain: redbluffdailynews.com
-    quality: 39
-    images:
-      - url: "https://www.redbluffdailynews.com/wp-content/uploads/2018/05/red-bluff-daily-news-site-icon-1.png"
-        width: 450
-        height: 235
-        isCached: true
 
 secured: "BbMdh6BimgMVALy9mqVVYDCN048W46nRthozZJbcQ353YEuxJyJ1q3b3lNTAFOEoaoxVvAD4U3mWQgCacS8M+UShpTbIeHc5SZsiIgViLp6uDI2zE2Sz/8MaYQ2h1eRsIf/kUtqQVD3GzSkLyqz5X7gnlGUOqtx3W9YDMrTuFDqc1NwzoqbS6BJYou+VwpQ0jFjNLxqHqxHXfAUjgabTn3OutqdNsoaxFo0zelcH4Q0+dHsOQQoZaWSGSjRvEIY8V7QEOovT7tFx0z7mxuRfknuFbRW5Se5py3KjSTk1ucdrvv3FGVpcTAYmdJb1Wb8qTdk7tcDffhfVpYnUEZAiT22nwlFfV3ZDAFkVTY9a8iBe34ZknDXHCBzeEeVqJUCt/61Y3IWWCHULSXvmylWroBA5QedCc4hrKFCVA26jbReJodnz7eQhLK6Npm9jh+KRYltA0ZJGtM/pajo1g0i2VHkAqlFjigZzpRy8r36YD+bnc7W35UuS17YzppvBoNSjL+OGtH97jwEo97BYg0LOhA==;w80G5CKBihNh1FWgh6JwkQ=="
 ---

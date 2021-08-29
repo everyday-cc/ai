@@ -9,7 +9,7 @@ ampWebUrl: "https://thewest.com.au/technology/telecommunications/aust-researcher
 cdnAmpWebUrl: "https://thewest-com-au.cdn.ampproject.org/c/s/thewest.com.au/technology/telecommunications/aust-researchers-use-ai-to-predict-drought-c-3810380.amp"
 type: article
 quality: 57
-heat: 87
+heat: 89
 published: true
 
 provider:

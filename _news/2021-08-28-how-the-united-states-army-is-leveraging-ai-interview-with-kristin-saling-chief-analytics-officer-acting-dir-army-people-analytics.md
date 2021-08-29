@@ -62,6 +62,20 @@ related:
         width: 800
         height: 555
         isCached: true
+  - title: "Edge AI: The Future of Artificial Intelligence and Edge Computing"
+    excerpt: "Edge AI processes algorithms locally on devices on the edge of a local network. Here is how it is transforming computing."
+    publishedDateTime: 2021-08-25T18:17:00Z
+    webUrl: "https://www.itbusinessedge.com/data-center/developments-edge-ai/"
+    type: article
+    provider:
+      name: IT Business Edge
+      domain: itbusinessedge.com
+    quality: 52
+    images:
+      - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/08/Edge-AI_-The-Future-of-AI-and-Edge-Computing.jpeg"
+        width: 600
+        height: 314
+        isCached: true
   - title: "Bodo.ai Raises $14 million Series A Funding for Data Analytics and Machine Learning"
     excerpt: "Bodo.ai, an extreme-performance parallel compute platform for data workloads, today announced it has raised $14 million in"
     publishedDateTime: 2021-08-25T21:49:00Z

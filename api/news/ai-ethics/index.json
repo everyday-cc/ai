@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-08-29-the-future-of-american-democracy-hinges-on-ethical-ai.md",
-      "title": "The future of American democracy hinges on ethical AI",
-      "excerpt": "Not since the race to develop the atomic bomb has a technology had as much potential to effect the balance of power between democracy and authoritarianism.",
+      "path": "_news/2021-08-29-how-to-make-ai-more-ethical.md",
+      "title": "How to make AI more ethical",
+      "excerpt": "We practice this at my company through a cross-functional Privacy and Ethics Board and a separate ethical AI subcommittee. These groups help us define corporate ethical principles and procedures ...",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/28/the-future-of-american-democracy-hinges-on-ethical-ai/",
-      "originalUrl": "https://venturebeat.com/2021/08/28/the-future-of-american-democracy-hinges-on-ethical-ai/",
+      "webUrl": "https://venturebeat.com/2021/08/29/how-to-make-ai-more-ethical/",
+      "originalUrl": "https://venturebeat.com/2021/08/29/how-to-make-ai-more-ethical/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 164,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1256373495.jpg?w=1200&strip=all",
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/AI-e1621941163863.jpg?w=1200&strip=all",
           "width": 1200,
-          "height": 776,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,9 +24,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/28/the-future-of-american-democracy-hinges-on-ethical-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/28/the-future-of-american-democracy-hinges-on-ethical-ai/amp/",
-      "publishedDateTime": "2021-08-28T10:20:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2021/08/29/how-to-make-ai-more-ethical/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/29/how-to-make-ai-more-ethical/amp/",
+      "publishedDateTime": "2021-08-29T06:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -49,8 +49,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI Ethics"
+        "AI Ethics",
+        "AI"
       ]
     },
     {
@@ -166,7 +166,7 @@
       "originalUrl": "https://www.scmp.com/business/banking-finance/article/3146708/sensetime-artificial-intelligence-platform-founded-cuhk",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {

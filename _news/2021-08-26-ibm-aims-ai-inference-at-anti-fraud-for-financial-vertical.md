@@ -68,15 +68,6 @@ related:
         width: 700
         height: 348
         isCached: true
-  - title: "Esperanto Technologies Unveils Energy-Efficient RISC-V-Based Machine Learning Accelerator Chip at Hot Chips 33 Conference"
-    excerpt: "Esperanto’s ML inference accelerator features over a thousand RISC-V custom processor cores for industry-leading performance per watt."
-    publishedDateTime: 2021-08-24T19:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210824005243/en/Esperanto-Technologies-Unveils-Energy-Efficient-RISC-V-Based-Machine-Learning-Accelerator-Chip-at-Hot-Chips-33-Conference"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 11
 
 secured: "phxQgsJIADHLbwpi5BrXhMj6XsDoCEsrvDSXr+vihWcLs4DWyflH+qaNEF1w3OqR4fR2r8mMU0vrzP5ld2cl4n/+1OGGNlSpACi8bvU90KBH6fLWbdulJLQtimlce0X1dlNSKm6lJDdG0ZoIg+raNS+aXRT7PO3Kl+IK5RSvukRBZJG4E/Itco4558R2HtodSKD6ukDF8ysi14Z4wWkUZlJ0CJuM/1D8gFxwsh/ll3G4rE3fhczNBJs2v2rrAXPEE6MJGpg+2P0CoTqvv2MFMVOcTHV+YkTszXykXuqyjr2ZhBLzks+MMZwgPn3nfgX2i1qJGlY8rXsgTGEHltf3H8FTwWxWnNsEWFiP+0oUBiRN7VTzhbj0juzxF0K+F1KU8Gdyq2np5fVnnbZILbLO7xEjmypdNTrMHwSys70vXBJqDSSXboFyW0eAl+jxNOFet2zUQtqMy051JDm0wsSj1DQY/gImH20ekCLTXXCqNRecLE9aCUrABZOGbfxS2mQd2hWbu2CYHls+hYHlxYN7Cg==;EfZK/nnRyaWgwQCo8b1zPQ=="
 ---

@@ -2,58 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2021-08-25-cerebras-systems-connects-its-huge-chips-to-make-ai-more-power-efficient.md",
-      "title": "Cerebras Systems connects its huge chips to make AI more power-efficient",
-      "excerpt": "A Cerebras Systems artificial intelligence chip is seen between a knife and fork shown for scale in this undated handout photo provided on August 24, 2021. Courtesy of Cerebras Systems/Handout via R",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/news/picture/cerebras-systems-connects-its-huge-chips-idUSKBN2FP1YX",
-      "originalUrl": "https://www.reuters.com/news/picture/cerebras-systems-connects-its-huge-chips-idUSKBN2FP1YX",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210824&t=2&i=1572827891&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH7N10M",
-          "width": 810,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-24T18:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-25-cerebras-prepares-for-the-era-of-120-trillion-parameter-neural-networks.md",
       "title": "Cerebras prepares for the era of 120 trillion-parameter neural networks",
       "excerpt": "In the past year, what had been the world's largest neural net as measured by neural weights, OpenAI's GPT-3 natural language processing program, with 175 billion weights, was eclipsed by Google's 1.6-trillion-parameter model, the Switch Transformer.",
@@ -62,7 +10,7 @@
       "originalUrl": "https://www.zdnet.com/index.php/recent/index.php/article/cerebras-prepares-for-the-era-of-120-trillion-parameter-neural-networks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -300,6 +248,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-can-robots-evolve-into-machines-of-loving-grace.md",
+      "title": "Can Robots Evolve Into Machines of Loving Grace?",
+      "excerpt": "Brautigan’s poem had been on my mind for some time before the robots arrived ... and enabled it to saccade from one place to another. Like the insect robots, Cog lacked central control and was instead programmed with a series of basic drives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/can-robots-evolve-into-machines-of-loving-grace/",
+      "originalUrl": "https://www.wired.com/story/can-robots-evolve-into-machines-of-loving-grace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6124188e1dbee11ab8eb98cb/master/pass/(Final)%20WIRED_Cybernetic%20Meadow.jpg",
+          "width": 4950,
+          "height": 3350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/can-robots-evolve-into-machines-of-loving-grace/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/can-robots-evolve-into-machines-of-loving-grace/amp",
+      "publishedDateTime": "2021-08-24T13:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },

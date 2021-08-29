@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/use-a-sagemaker-pipe
 webUrl: "https://aws.amazon.com/blogs/machine-learning/use-a-sagemaker-pipeline-lambda-step-for-lightweight-model-deployments/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: AWS
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Access an Amazon SageMaker Studio notebook from a corporate network"
-    excerpt: "Amazon SageMaker Studio is the first fully integrated development environment (IDE) for machine learning. It provides a single, web-based visual interface where you can perform all ML development steps required to build, train, and deploy models. You can quickly upload data, create new notebooks, train"
-    publishedDateTime: 2021-08-24T19:12:23Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/access-an-amazon-sagemaker-studio-notebook-from-a-corporate-network/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/10/ML-3667-image001-1260x481.png"
-        width: 1260
-        height: 481
-        isCached: true
   - title: "SageMaker Endpoint Load Testing"
     excerpt: "8089/ This document encompasses all the instructions to calibrate a SageMaker model endpoint using Locust. Also, it includes pointers to help pick the optimal strategy for auto scaling. Number of users: 1000 Hatch rate: 10 For every second, 10 users will ..."
     publishedDateTime: 2021-08-26T04:40:00Z
