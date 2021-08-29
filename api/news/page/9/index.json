@@ -2,6 +2,50 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-08-22-healthcare-artificial-intelligence-market-valuation-to-boom-through-2026-nvidia-next-it-ibm-watson-health.md",
+      "title": "Healthcare Artificial Intelligence Market valuation to boom through 2026 | NVIDIA, Next IT, IBM Watson Health",
+      "excerpt": "“A SWOT Analysis of Healthcare Artificial Intelligence (AI), Professional Survey Report Including Top Most Global Players Analysis with CAGR and Stock Market Up and Down.” By thinking from the customer point of view, a team of researchers, analysts and ...",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/healthcare-artificial-intelligence-market-valuation-to-boom-through-2026-nvidia-next-it-ibm-watson-health/",
+      "originalUrl": "https://manometcurrent.com/healthcare-artificial-intelligence-market-valuation-to-boom-through-2026-nvidia-next-it-ibm-watson-health/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manometcurrent.com/wp-content/uploads/2021/08/Healthcare-Artificial-Intelligence-Market.jpg",
+          "width": 635,
+          "height": 353,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/healthcare-artificial-intelligence-market-valuation-to-boom-through-2026-nvidia-next-it-ibm-watson-health/",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/healthcare-artificial-intelligence-market-valuation-to-boom-through-2026-nvidia-next-it-ibm-watson-health/",
+      "publishedDateTime": "2021-08-22T06:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-08-22-australia-eyes-ai-drones-facial-recognition-tech-to-protect-wild-koalas.md",
       "title": "Australia eyes AI, drones, facial recognition tech to protect wild koalas",
       "excerpt": "Researchers are seeking hi-tech solutions to protect koalas against the threats of vehicle collisions and bush fires.",
@@ -1115,57 +1159,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-how-modern-ai-enabled-automation-unlocks-full-human-potential.md",
-      "title": "How Modern AI-Enabled Automation Unlocks Full Human Potential",
-      "excerpt": "Baba Nadimpalli is the CEO and Founder of SKAEL Inc., the automation platform that superpowers your workforce with digital employees. Since the Industrial Revolution, alarmists have warned the newest technologies will eliminate the need for humans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/20/how-modern-ai-enabled-automation-unlocks-full-human-potential/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/20/how-modern-ai-enabled-automation-unlocks-full-human-potential/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60785e15222a08d6623c4b8d%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/20/how-modern-ai-enabled-automation-unlocks-full-human-potential/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/20/how-modern-ai-enabled-automation-unlocks-full-human-potential/amp/",
-      "publishedDateTime": "2021-08-20T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

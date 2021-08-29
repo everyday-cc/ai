@@ -2,6 +2,58 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-08-10-10-things-in-tech-aws-hiring-spree-musks-2020-pay-ai-for-pizza.md",
+      "title": "10 things in tech: AWS hiring spree — Musk's 2020 pay — AI for… pizza?",
+      "excerpt": "AWS is on a hiring spree, Musk got $6.7 billion in compensation in 2020, and Pizza Hut wants to build a pizza AI: 10 things in tech you need to know.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/10-things-in-tech-aws-hiring-musks-pay-ai-pizza-2021-8",
+      "originalUrl": "https://www.businessinsider.com/10-things-in-tech-aws-hiring-musks-pay-ai-pizza-2021-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6111a8fbdaba4e0019e5ab47?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/10-things-in-tech-aws-hiring-musks-pay-ai-pizza-2021-8?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-tech-aws-hiring-musks-pay-ai-pizza-2021-8?amp",
+      "publishedDateTime": "2021-08-10T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-10-5-best-artificial-intelligence-stocks-to-invest-in-right-now.md",
       "title": "5 Best Artificial Intelligence Stocks To Invest In Right Now",
       "excerpt": "Xnora.ai specializes in putting artificial intelligence on devices ... conviction in Alphabet‘s ‘moonshot’ bets (such as Waymo), substantial success in which would likely be required ...",
@@ -1065,49 +1117,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-new-technology-paves-way-towards-personalized-antibiotic-therapy.md",
-      "title": "New technology paves way towards personalized antibiotic therapy",
-      "excerpt": "Researchers have developed a method for monitoring bacterial responses to antibiotics in health-care settings that opens the door to personalized antibiotic therapy for patients. Using microwave sensing technology researchers have developed a low-cost,",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/08/210809144123.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/08/210809144123.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-09T13:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

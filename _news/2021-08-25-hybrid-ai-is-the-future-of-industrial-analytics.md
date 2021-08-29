@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/25/hybrid-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/25/hybrid-ai-is-the-future-of-industrial-analytics/amp/"
 type: article
 quality: 91
-heat: 201
+heat: 191
 published: true
 
 provider:
@@ -104,15 +104,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Singapore fashion analytics firm acquires Malaysia AI startup in $20m deal"
-    excerpt: "The acquisition of Supahands would help Omnilytics fill a gap in its existing tech offerings for retail firms."
-    publishedDateTime: 2021-08-25T04:17:00Z
-    webUrl: "https://www.techinasia.com/singapore-crypto-startup-unicorn-2-years/next"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 45
   - title: "Singapore fashion analytics firm acquires Malaysia AI startup in $20m deal"
     excerpt: "“Accelerating the adoption of AI is at the heart of our business at Supahands, having witnessed firsthand the tangible benefits that AI and machine learning can bring to our clients as they strengthen the different pillars of their business from ..."
     publishedDateTime: 2021-08-26T02:27:00Z

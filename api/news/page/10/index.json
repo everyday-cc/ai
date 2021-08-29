@@ -2,6 +2,57 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-08-20-how-modern-ai-enabled-automation-unlocks-full-human-potential.md",
+      "title": "How Modern AI-Enabled Automation Unlocks Full Human Potential",
+      "excerpt": "Baba Nadimpalli is the CEO and Founder of SKAEL Inc., the automation platform that superpowers your workforce with digital employees. Since the Industrial Revolution, alarmists have warned the newest technologies will eliminate the need for humans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/20/how-modern-ai-enabled-automation-unlocks-full-human-potential/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/20/how-modern-ai-enabled-automation-unlocks-full-human-potential/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60785e15222a08d6623c4b8d%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/20/how-modern-ai-enabled-automation-unlocks-full-human-potential/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/20/how-modern-ai-enabled-automation-unlocks-full-human-potential/amp/",
+      "publishedDateTime": "2021-08-20T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-20-electronic-discovery-market-2021-strategic-assessments-ibm-corporation-relativity-oda-llc-accessdata-group-inc-zylab-inc.md",
       "title": "Electronic Discovery Market 2021 Strategic Assessments – IBM Corporation, Relativity ODA LLC, AccessData Group Inc., ZyLAB, Inc.",
       "excerpt": "In March 2017, IBM revealed planned on updating the discovery service of its artificial intelligence-powered platform Watson with an expansion of its eDiscovery and business research technology.",
@@ -1129,49 +1180,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-eq-inc-reports-second-quarter-financial-results.md",
-      "title": "EQ Inc. Reports Second Quarter Financial Results",
-      "excerpt": "Revenue increases 71% for the quarter and 74% year over year. TORONTO, ON / ACCESSWIRE / August 19, 2021 / EQ Inc. (TSXV:EQ) (“EQ Works” or the “Company”), a leader in geo",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/accesswire/technology-canada-business-health-coronavirus-pandemic-ebc568d3d0ef96c4422de13c99638903",
-      "originalUrl": "https://apnews.com/press-release/accesswire/technology-canada-business-health-coronavirus-pandemic-ebc568d3d0ef96c4422de13c99638903",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T13:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

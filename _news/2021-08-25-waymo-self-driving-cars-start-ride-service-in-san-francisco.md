@@ -7,7 +7,7 @@ originalUrl: "https://www.motorauthority.com/news/1133352_waymo-self-driving-car
 webUrl: "https://www.motorauthority.com/news/1133352_waymo-self-driving-cars-start-ride-service-in-san-francisco"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Waymo Rolls Out Self-Driving Taxi Service in San Francisco"
-    excerpt: "Waymo, previously known as the “Google Self-Driving Car Project,” has rolled out its autonomous taxi service in San Francisco. The company has been testing out autonomous driving in San Francisco for over 12 years and began offering rides to its Bay-area employees earlier this year."
-    publishedDateTime: 2021-08-25T03:25:00Z
-    webUrl: "https://hypebeast.com/2021/8/waymo-autonomous-taxi-test-service-san-francisco"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 39
-    images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F08%2Fwaymo-autonomous-taxi-test-service-san-francisco-tw.jpg?w=960&cbr=1&q=90&fit=max"
-        width: 960
-        height: 480
-        isCached: true
   - title: "Video: Waymo begins self-driving rides in San Francisco"
     excerpt: "Waymo, the autonomous driving division of Google, has started its Trusted Tester program in San Francisco. The program will invite the local population to get rides from Waymo to help better identify the issues involved with autonomous driving as well as discover what consumers want from self-driving ride-hailing services."
     publishedDateTime: 2021-08-25T12:06:00Z

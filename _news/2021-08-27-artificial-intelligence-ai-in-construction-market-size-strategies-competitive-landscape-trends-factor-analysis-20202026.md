@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Chipsets Market 2021 Global Industry Size, Demand, Growth Analysis, Share, Revenue and Forecast 2026"
-    excerpt: "The global artificial intelligence (AI) chipsets market size may surpass USD 70 billion by 2026. From consumer electronics, BFSI, IT & Telecom, healthcare, media & advertising to retail, AI chipsets are playing a pivotal role in enhancing customer experience."
-    publishedDateTime: 2021-08-25T04:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-2021-global-industry-size-demand-growth-analysis-share-revenue-and-forecast-2026-2021-08-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Mobile Speech Recognition Software Market 2021 Recent Scope, Growing Popularity and Emerging Trends in the Market"
     excerpt: "ReportsWeb analysts forecasts the latest report on “Global Mobile Speech Recognition Software Market (Covid-19) Impact and Analysis by 2026”, according to report; The Mobile Speech Recognition Software Market report covers the overall and all ..."
     publishedDateTime: 2021-08-29T09:54:00Z

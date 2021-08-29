@@ -467,6 +467,40 @@
       ]
     },
     {
+      "path": "_news/2021-08-17-avaya-and-microsoft-announce-integration-of-microsoft-azure-communication-services-with-avaya-onecloud-cpaas.md",
+      "title": "Avaya and Microsoft Announce Integration of Microsoft Azure Communication Services with Avaya OneCloud CPaaS",
+      "excerpt": "Benefiting from the complementary strengths of both companies, the joint solutions include Avaya’s award-winning 1 Avaya OneCloud CPaaS (Communications Platform as a Service) now integrated with voice,",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/avaya-and-microsoft-announce-integration-of-microsoft-azure-communication-services-with-avaya-onecloud-cpaas/",
+      "originalUrl": "https://www.financialbuzz.com/avaya-and-microsoft-announce-integration-of-microsoft-azure-communication-services-with-avaya-onecloud-cpaas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-17T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-17-data-observability-startup-monte-carlo-raises-60m.md",
       "title": "Data observability startup Monte Carlo raises $60M",
       "excerpt": "Monte Carlo, a startup leveraging AI to power its data observability tech, has raised $60 million in venture capital.",
@@ -1144,40 +1178,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-machine-learning-chips-market-may-set-epic-growth-story-intel-ibm-nvidia-qualcomm.md",
-      "title": "Machine Learning Chips Market May Set Epic Growth Story | Intel, IBM, Nvidia, Qualcomm",
-      "excerpt": "Worldwide Machine Learning Chips Market In-depth Research Report 2021, Forecast to 2026 is latest research study released by HTF MI evaluating the market risk side analysis, highlighting opportunities and leveraged with strategic and tactical decision-making support.",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/machine-learning-chips-market-may-set-epic-growth-story-intel-ibm-nvidia-qualcomm/",
-      "originalUrl": "https://manometcurrent.com/machine-learning-chips-market-may-set-epic-growth-story-intel-ibm-nvidia-qualcomm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/machine-learning-chips-market-may-set-epic-growth-story-intel-ibm-nvidia-qualcomm/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/machine-learning-chips-market-may-set-epic-growth-story-intel-ibm-nvidia-qualcomm/?amp=1",
-      "publishedDateTime": "2021-08-17T01:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -387,6 +387,34 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Toyota grounds self-driving shuttle fleet following collision with Paralympian"
+    excerpt: "Toyota President Akio Toyoda offered an apology to the Paralympian, and then issued a stinging rebuke of autonomous-driving technology."
+    publishedDateTime: 2021-08-29T19:47:00Z
+    webUrl: "https://www.autonews.com/mobility-report/toyota-grounds-self-driving-shuttle-fleet-following-collision-paralympian"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 20
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/ToyotaE-MAIN_i.png"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Toyota withdraws all its self-driving vehicles from Paralympic village after collision with visually impaired athlete"
+    excerpt: "Toyota has suspended all self-driving e-Palette transportation pods at the Tokyo Paralympic Games village, a day after one of the vehicles collided with and injured a visually impaired pedestrian."
+    publishedDateTime: 2021-08-29T21:13:00Z
+    webUrl: "https://www.independent.ie/life/motoring/toyota-withdraws-all-its-self-driving-vehicles-from-paralympic-village-after-collision-with-visually-impaired-athlete-40800148.html"
+    type: article
+    provider:
+      name: Independent.ie
+      domain: independent.ie
+    quality: 16
+    images:
+      - url: "https://www.independent.ie/life/motoring/2ad74/40800147.ece/AUTOCROP/w1240h700/TOYOTA-OLYMPICSACCIDENT"
+        width: 1240
+        height: 700
+        isCached: true
 
 secured: "+daPX3swMGx//rLs9ymWj/KEyDrpBD1hn78vaChh1GpYpei4trZGZF96fleVLIqOBemkKQeINpzKLTjrGpHzw9pscuKF2Dx4kFRQTE7oapRjY1FMwabWVX0UqxCZgeIZ6U/MtJZPRvkD+T2EOwUhierUJqqyUikvkwLOQjRj1G440vldjXKTWvdKFoy1cocSe0PBkkxqAFIELjjTQibO78EZ9kEz+Gqisn1X3KuhGAi6zZDQLfMOG+K9D8tOUh87M8NpeCrjdh6xSu2t/1JD4pJcY3HeiGvaGiwITUZPGSTtA1aSQeWWrRz0Y0zYgGxmZ4H1OS9BoVluO1ncvmHHIG1FtNjsW0z/Ns+Nov+qFusNsehauGLa1KbY/FPEHyrkJD3A9PH7B0lBJB/X0cJU2h5ihlxvSzetBazEgdZlVxYk4/rlLC0+NPVJTW2ROG9PlzBaWtGwDJZo2cJAUFupreJIserh57qM1wLYoWls8/cBPdKWqMGaNKI6uuLJtjHS+DPMdEHKnR/qf2XJ2AQVtg==;nBKURoJOqQQ4St/nupUhRg=="
 ---

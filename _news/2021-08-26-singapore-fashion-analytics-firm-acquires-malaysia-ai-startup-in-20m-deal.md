@@ -110,15 +110,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Singapore fashion analytics firm acquires Malaysia AI startup in $20m deal"
-    excerpt: "The acquisition of Supahands would help Omnilytics fill a gap in its existing tech offerings for retail firms."
-    publishedDateTime: 2021-08-25T04:17:00Z
-    webUrl: "https://www.techinasia.com/singapore-crypto-startup-unicorn-2-years/next"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 45
   - title: "Artificial Intelligence as the core of logistics operation"
     excerpt: "With that phrase, Álvaro Echeverría, co-founder and CEO of SimpliRoute, recalls the need that shaped the idea of creating an AI virtual assistant to optimize its logistics platform. The startup is dedicated to optimizing routes for dispatch vehicles."
     publishedDateTime: 2021-08-26T14:40:00Z

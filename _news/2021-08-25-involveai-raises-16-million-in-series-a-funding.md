@@ -55,6 +55,20 @@ related:
         width: 850
         height: 400
         isCached: true
+  - title: "Workera.ai Raises $16M in Series A Funding"
+    excerpt: "Workera.ai, a Palo Alto CA-based upskilling platform provider, raised $16M in Series A funding. The round was led by New Enterprise Associates, Owl Ventures and Al Fund with participation from Richard Socher,"
+    publishedDateTime: 2021-08-27T09:51:00Z
+    webUrl: "https://www.finsmes.com/2021/08/workera-ai-raises-16m-in-series-a-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 37
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2021/08/image-56.jpeg"
+        width: 500
+        height: 598
+        isCached: true
 
 secured: "tKiRj0x0L3ldyTi+rz7+EYqFt/m+H2+G4Xpwbd3au5BMWmy5g7nWYKI0zUr1vbdCzLEapXiTDaZBq/FHpabmfN3Sm2FgzW+X6rlqlndCFKnSCUQoZHnvcyxM3ClLPpytlnWvBnJcaqoABP0AeCPAlPG9RwkfZcVZbSYRqqxZoTg1ybil0Ole4q7vS61sW1xALRIYaHF5wSlyJyc8Q/qt92NGQa5dUvtww0YcraDNmhR8BYpFcFfM/psixnQXUATxoS0tfPUF6L5L2GM3e+NU34Pfyb34/Q2GknQdEA+DqB7fyICrj94CF/FkuxOn8aBES/M9nRGUXPsaDa7pvW3zkI3u+0STtsMg68kzN4jHe28=;WEsOrgr+7BYNgQiLEq+SYw=="
 ---

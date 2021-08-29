@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Avaya and Microsoft Announce Integration of Microsoft Azure Communication Services with Avaya OneCloud CPaaS"
-excerpt: "Avaya announced a strategic relationship with Microsoft to create a powerful set of joint cloud communications solutions to define the future of customer and em"
-publishedDateTime: 2021-08-17T15:06:00Z
-originalUrl: "https://technuter.com/breaking-news/avaya-and-microsoft-announce-integration-of-microsoft-azure-communication-services-with-avaya-onecloud-cpaas.html"
-webUrl: "https://technuter.com/breaking-news/avaya-and-microsoft-announce-integration-of-microsoft-azure-communication-services-with-avaya-onecloud-cpaas.html"
+excerpt: "Benefiting from the complementary strengths of both companies, the joint solutions include Avaya’s award-winning 1 Avaya OneCloud CPaaS (Communications Platform as a Service) now integrated with voice,"
+publishedDateTime: 2021-08-17T12:00:00Z
+originalUrl: "https://www.financialbuzz.com/avaya-and-microsoft-announce-integration-of-microsoft-azure-communication-services-with-avaya-onecloud-cpaas/"
+webUrl: "https://www.financialbuzz.com/avaya-and-microsoft-announce-integration-of-microsoft-azure-communication-services-with-avaya-onecloud-cpaas/"
 type: article
 
 provider:
-  name: technuter.com
-  domain: technuter.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://technuter.com/wp-content/uploads/2020/04/Avaya.jpg"
-    width: 340
-    height: 296
-    isCached: true
-
-secured: "7a9amNtgyYnV8Ovx//OTKXITrNJ+rlb1yqHjiNonO1/aIWUL0CM3xTibHVtHIbXZ/phT/Mz96L2KI8GcsDqGEnWFwh0JxkQ//xCAF4HUjuJFQ+sd30zuo3Z2kycy57O3SMilvFXx28Qi5NpbKa7wpD0ZcIh7dAqbZ58m485LL3m2RUfihjzhYJuYTy1Ie166dBhtr7SGq3xWFfjDFMdXMRjJ09p74G0nSBEfWlMwmq0ldS//ICkcGKXcXDCQGWrhmYy9TLOWM0ZDcJBFruZWLfeRGzRhNixxZT6ywpc+DEd4XiKpRU/fFincKdb1sxDlRvQ2KdhSdaMg3lkbaGEjd488LlBgfGPD3Vfb0l9o8zDd6Tu7L1GaXUotAzRGuALzTi/dnQj42w9whOjyd6KbSziLy4IukSkObscCSThOs6MoOJPOKtz6uPrRdlvB/UKxp9zdAxTq0cC2qoFRzb4VBXHmeSJK50tLQ4AbHf20yx0vqZmgxdx1fJ8lNYF9YCpxSFIgXNQprf9L1EOJL6QDKg==;CML6Iy8Vp+bHe7pxfm9cyQ=="
+secured: "Te0qWxjHwodEou9LfvZwOANcAsmWerf/Z3djLex1GCJs14/6ilwwxUBzobS6ILA2FOrDTXkRZ5eyDyfxWf8D2M2bk3wBlrVa4xEU3BTQnivXAWRKuGOWIoWcO6t//3OKIuTHYjSovj7ABZQoX10IPiCV5crr21rb2vFElem19Dddk788jz2oRfes1+vnRiu2KJ64Hw4ugwkBvkP3zIHhYq+Py15939n93G2qaoRbhwaqTQ1KpSvmySyYrUl6Ou7xH6/GfK+WTiyUIXfsOBm1FG+NqbQlUUC+sT5tOBT1nWe7O5tygiO0WSiLf9SAwoTrs1Tqz4y4i8GIjmGrI6ap9aC+D6vf5wIRv3m34Br6S6k=;O5y5pKQOZRpAdEqS5tVbeA=="
 ---
 

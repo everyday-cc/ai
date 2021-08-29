@@ -2,6 +2,40 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-08-17-machine-learning-chips-market-may-set-epic-growth-story-intel-ibm-nvidia-qualcomm.md",
+      "title": "Machine Learning Chips Market May Set Epic Growth Story | Intel, IBM, Nvidia, Qualcomm",
+      "excerpt": "Worldwide Machine Learning Chips Market In-depth Research Report 2021, Forecast to 2026 is latest research study released by HTF MI evaluating the market risk side analysis, highlighting opportunities and leveraged with strategic and tactical decision-making support.",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/machine-learning-chips-market-may-set-epic-growth-story-intel-ibm-nvidia-qualcomm/",
+      "originalUrl": "https://manometcurrent.com/machine-learning-chips-market-may-set-epic-growth-story-intel-ibm-nvidia-qualcomm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/machine-learning-chips-market-may-set-epic-growth-story-intel-ibm-nvidia-qualcomm/?amp=1",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/machine-learning-chips-market-may-set-epic-growth-story-intel-ibm-nvidia-qualcomm/?amp=1",
+      "publishedDateTime": "2021-08-17T01:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-17-new-rules-on-police-use-of-facial-recognition-dont-go-far-enough-experts-say.md",
       "title": "New rules on police use of facial recognition don't go far enough, experts say",
       "excerpt": "The UK government has updated its code of practice on the use of surveillance cameras. Will it be enough to protect citizens' rights?",
@@ -1123,49 +1157,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-huawei-smart-city-projects-meet-facial-recognition-block-lawsuit-from-partner.md",
-      "title": "Huawei smart city projects meet facial recognition block, lawsuit from partner",
-      "excerpt": "The Serbia smart city projectis raising concerns among some members of the European Parliament. Huawei also faces a lawsuit in a Pakistan surveillance project.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202108/huawei-smart-city-projects-meet-facial-recognition-block-lawsuit-from-partner",
-      "originalUrl": "https://www.biometricupdate.com/202108/huawei-smart-city-projects-meet-facial-recognition-block-lawsuit-from-partner",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/08/11150416/Huawei-scaled.jpg",
-          "width": 2048,
-          "height": 1045,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-16T10:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

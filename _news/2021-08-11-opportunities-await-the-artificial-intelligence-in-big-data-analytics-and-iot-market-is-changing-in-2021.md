@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://industryresearchcity.files.wordpress.com/2021/08/competitor-analysis.png"

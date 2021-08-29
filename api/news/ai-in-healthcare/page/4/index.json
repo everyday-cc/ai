@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-07-13-robotics-artificial-intelligence-innovation-how-the-technology-space-is-evolving-the-etf-marketplace-podcast-transcript.md",
+      "title": "Robotics, Artificial Intelligence, Innovation & How The Technology Space Is Evolving The ETF Marketplace (Podcast Transcript)",
+      "excerpt": "ROBO Global provides their outlook on the future of robotics and artificial intelligence. Breakdown of ROBO Global's ETFs: (ROBO), (HTEC), and (THNQ).",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4438876-robotics-artificial-intelligence-innovation-and-how-the-technology-space-is-evolving-the-etf-marketplace-podcast-transcript",
+      "originalUrl": "https://seekingalpha.com/article/4438876-robotics-artificial-intelligence-innovation-and-how-the-technology-space-is-evolving-the-etf-marketplace-podcast-transcript",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1179697528/medium_image_1179697528.jpg",
+          "width": 768,
+          "height": 432,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4438876-robotics-artificial-intelligence-innovation-and-how-the-technology-space-is-evolving-the-etf-marketplace-podcast-transcript",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4438876-robotics-artificial-intelligence-innovation-and-how-the-technology-space-is-evolving-the-etf-marketplace-podcast-transcript",
+      "publishedDateTime": "2021-07-12T14:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-07-13-how-ai-can-enable-better-health-care-outcomes.md",
       "title": "How AI can enable better health care outcomes",
       "excerpt": "AI in health care can reduce medical waste and over-testing, cut costs, and improve diagnostics and patient care, a Transform panel agreed.",
@@ -1254,50 +1298,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-artificial-intelligence-hold-potential-for-improving-delivery-of-healthcare-worldwide-who.md",
-      "title": "Artificial Intelligence Hold Potential for Improving Delivery of Healthcare Worldwide: WHO",
-      "excerpt": "Artificial Intelligence (AI) holds great promise for improving the delivery of healthcare and medicine worldwide.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medcom.id/english/tech/GNG7LWAN-artificial-intelligence-hold-potential-for-improving-delivery-of-healthcare-worldwide-who",
-      "originalUrl": "https://www.medcom.id/english/tech/GNG7LWAN-artificial-intelligence-hold-potential-for-improving-delivery-of-healthcare-worldwide-who",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.medcom.id/dynamic/content/2021/06/29/1293880/u0zwSUQsoA.jpg?w=640",
-          "width": 577,
-          "height": 433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.medcom.id/amp/GNG7LWAN-artificial-intelligence-hold-potential-for-improving-delivery-of-healthcare-worldwide-who",
-      "cdnAmpWebUrl": "https://m-medcom-id.cdn.ampproject.org/c/s/m.medcom.id/amp/GNG7LWAN-artificial-intelligence-hold-potential-for-improving-delivery-of-healthcare-worldwide-who",
-      "publishedDateTime": "2021-06-29T00:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "medcom",
-        "domain": "medcom.id",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

@@ -383,6 +383,34 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Toyota grounds self-driving shuttle fleet following collision with Paralympian"
+    excerpt: "Toyota President Akio Toyoda offered an apology to the Paralympian, and then issued a stinging rebuke of autonomous-driving technology."
+    publishedDateTime: 2021-08-29T19:47:00Z
+    webUrl: "https://www.autonews.com/mobility-report/toyota-grounds-self-driving-shuttle-fleet-following-collision-paralympian"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 20
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/ToyotaE-MAIN_i.png"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Toyota withdraws all its self-driving vehicles from Paralympic village after collision with visually impaired athlete"
+    excerpt: "Toyota has suspended all self-driving e-Palette transportation pods at the Tokyo Paralympic Games village, a day after one of the vehicles collided with and injured a visually impaired pedestrian."
+    publishedDateTime: 2021-08-29T21:13:00Z
+    webUrl: "https://www.independent.ie/life/motoring/toyota-withdraws-all-its-self-driving-vehicles-from-paralympic-village-after-collision-with-visually-impaired-athlete-40800148.html"
+    type: article
+    provider:
+      name: Independent.ie
+      domain: independent.ie
+    quality: 16
+    images:
+      - url: "https://www.independent.ie/life/motoring/2ad74/40800147.ece/AUTOCROP/w1240h700/TOYOTA-OLYMPICSACCIDENT"
+        width: 1240
+        height: 700
+        isCached: true
 
 secured: "uSuh6F7xhAQrlvq4PTbj6G6WvlTrGYKpgohnyTNUL6OOPZBpNxnSeNm3M8cmv1NyAG5u/WQs8K+TokyATfsU4wbnVYTvzEABlzHVF+QK6US9QvJsghCrzoJzi42UfeEKkz6r1Od4LMa9NEm1IlyGv59hJHTZb72xbFd3UijfS64egGLT8mOSdHFllOwwloxI1GBGLKaWM76jdGzCPwFud9Nyn12mCJ2umSGog+93hpINyzp4A3DOlxOq3sEuH/FP+vjQ7C0JbnoUo3wZ1ZEroNzuj7DS/cmQFUt4uDYCreg5edzNgDj7o8FYnGRVGGPDBsZCMXVnk0NZHfAJmdzRHrTovvdgrTdkWnPWlImEIGc=;q1/H4tkuoCCUGhDQp73PFg=="
 ---

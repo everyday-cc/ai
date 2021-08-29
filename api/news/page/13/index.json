@@ -2,6 +2,57 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-08-19-the-taliban-may-have-seized-biometric-data-that-can-id-us-allies-in-afghanistan.md",
+      "title": "The Taliban may have seized biometric data that can ID US allies in Afghanistan",
+      "excerpt": "The US military created a vast database of biometric data — one report suggests it had a goal of 25 million entries — as part of its effort to track terrorists in Afghanistan. Now that the US has withdrawn from the country,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/8/18/22630686/biometric-data-afghanistan-taliban-hiide-civilians",
+      "originalUrl": "https://www.theverge.com/2021/8/18/22630686/biometric-data-afghanistan-taliban-hiide-civilians",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 188,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/gBab05-1PoA5uFaL0zyynVCRaYw=/0x0:3000x2000/1400x933/filters:focal(1260x760:1740x1240):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69743102/122259189.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/8/18/22630686/biometric-data-afghanistan-taliban-hiide-civilians",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/8/18/22630686/biometric-data-afghanistan-taliban-hiide-civilians",
+      "publishedDateTime": "2021-08-18T11:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-19-startup-that-develops-ai-pumped-robotic-arms-raises-37-million.md",
       "title": "Startup That Develops AI-Pumped Robotic Arms Raises $37 Million",
       "excerpt": "Rapid Robotics’ Series B was led by Kleiner Perkins and Tiger Global, and comes as labor and parts shortages are hitting the economy.",
@@ -1135,58 +1186,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-18-baidu-unveils-concept-autonomous-robocar.md",
-      "title": "Baidu unveils concept autonomous 'Robocar'",
-      "excerpt": "Along with unveiling a new autonomous vehicle, Baidu also announced it has started mass producing its AI chip, the Kunlun II.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/baidu-unveils-concept-autonomous-robocar/",
-      "originalUrl": "https://www.zdnet.com/article/baidu-unveils-concept-autonomous-robocar/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/08/18/97007714-bc06-4b94-816a-9a85a0427308/e9clrpivoag-sz.jpg",
-          "width": 2477,
-          "height": 1509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/baidu-unveils-concept-autonomous-robocar/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/baidu-unveils-concept-autonomous-robocar/",
-      "publishedDateTime": "2021-08-17T20:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
