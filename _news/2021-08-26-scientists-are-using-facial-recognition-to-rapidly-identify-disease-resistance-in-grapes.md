@@ -121,22 +121,6 @@ related:
         width: 1000
         height: 581
         isCached: true
-  - title: "US government agencies plan to increase their use of facial recognition technology"
-    excerpt: "A new survey shows the controversial systems are poised to play an even bigger role in federal business. A 90-page report published Tuesday by the US Government Accountability Office (GAO) details how federal agencies currently use, and plan to expand ..."
-    publishedDateTime: 2021-08-25T00:37:00Z
-    webUrl: "https://www.technologyreview.com/2021/08/24/1032967/us-government-agencies-plan-to-increase-their-use-of-facial-recognition-technology/"
-    ampWebUrl: "https://www.technologyreview.com/2021/08/24/1032967/us-government-agencies-plan-to-increase-their-use-of-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/08/24/1032967/us-government-agencies-plan-to-increase-their-use-of-facial-recognition-technology/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 53
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/08/AP_20176661952737.jpg?w=2247"
-        width: 2247
-        height: 1498
-        isCached: true
   - title: "10 federal agencies want to expand their use of facial recognition despite widespread concerns"
     excerpt: "The federal government wants to expand the use of facial recognition technology in the future, despite widespread criticism of it."
     publishedDateTime: 2021-08-27T20:08:00Z

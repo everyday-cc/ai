@@ -14,12 +14,13 @@ provider:
   name: Reuters
   domain: reuters.com
   images:
-    - url: "/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.reuters.com/resizer/rq8m88P7hJlC56k45Ywc844Ve7U=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/655WP46C6BOUPP74MRQOESNVDE.jpg"
@@ -51,6 +52,6 @@ related:
       domain: law360.com
     quality: 39
 
-secured: "K8Vb1tY/zDUaqB4D8fc2mPOvHlxOPDq8LqdhodcQLyt25GD5pz90lJV2pGm2xCFfidFLWNZeIzLJiK1D3KXgG9K5M8I6xXBJSNhXxIljIF6eLBvBA5HfImxKgSzxmHDlQBa0erU7pfcBxK1MpGUT+CXsShIxJpCvn2AZrnJnkrdjM5aaO5+HkM2K/C8CpicqEj6e/S1k+GHkhSco2QKnA7tNNYbpTnQ9Buydo09EgNwhSQ94VxIc4C748HmCS1n+DgNkZMu7BbTY2/YQ4RiHijACYeqsiDx1gn0JivGMoScSfmRsSoNDOokXZLk3LA1hpFlZH1hwhVNo/7cxFUT8sDtOwiyN9MTkv4Xe1kzQ7uBonY+1BaSGtZI9rXzdCcuJ//TrqbPxEDoXv97o3y10x48WeRKcBMyFElj/o4sMHzqk46yOe3BYuoL2mPF9E4qEbG93agITgceDcyTNwxHCBpVY/tZBuKpJQV0sOiAbE23xBCDVQufNYqrIbrJgCMOAOpLGUHNijMg2bf/FMni4UiF8c6BYsm43xSrWiP9k4XI=;HuQz30Tx3FUGgz8z9se0UQ=="
+secured: "Ja9lTpZi4p0RmnNdMQ6oeQVHYfF2yLcfKfGx8SkYeD4f2UT2Sbgh8h9hNo1XdtVw9c70SbHJ2Sbx/rFhVyX7wXfns0qXCarnjwi7lKTN/vWiN8tocEm2QW/z6TpalM2r1Kp55FLJeUaEXkE9xno7gUsx4n/Mt2K4U1yW4JZzjEVnChSgaMWv8ySP1V226+GxedU059dzA0HwAwdi3ilTFdCw8BpNzkC+jYqYQwnKxesRKXZ+jDg1GQUEvLSEkcWvvy/PE8ocy5yu/k8xBEdwj7Q8xwbifBS8vLP8/kxchgaB260En7GfaLDaNwx1vOs85ve2dyZ/5+4dsFRTy8QeEvoJBLsZwW0oHhvpcOnPl7TsizszsqzSNofEPwpknmURbh8N8oLuYIx4laHdwqWuV8q8OwR6W8XltVT47973XQF48zgF2/WrPM/E6+Y6ly+miQ6EcfNT3HjDdzehZqj5eUIcNB3sMrbz7Gu7v7IERPdRPMqa/T6qhUDFwYZO3USYnxHUKak6H6xxdRjI5hY7xYFDwwhUXNUx4jfNP3UIKhw=;BtxMPpFHuHEqlWsnboTFrQ=="
 ---
 

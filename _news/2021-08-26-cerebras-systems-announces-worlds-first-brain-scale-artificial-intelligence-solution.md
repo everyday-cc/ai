@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Cerebras prepares for the era of 120 trillion-parameter neural networks"
-    excerpt: "In the past year, what had been the world's largest neural net as measured by neural weights, OpenAI's GPT-3 natural language processing program, with 175 billion weights, was eclipsed by Google's 1.6-trillion-parameter model, the Switch Transformer."
-    publishedDateTime: 2021-08-25T00:33:00Z
-    webUrl: "https://www.zdnet.com/index.php/recent/index.php/article/cerebras-prepares-for-the-era-of-120-trillion-parameter-neural-networks/"
-    ampWebUrl: "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/cerebras-prepares-for-the-era-of-120-trillion-parameter-neural-networks/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/cerebras-prepares-for-the-era-of-120-trillion-parameter-neural-networks/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 91
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/08/24/a9840569-346e-4256-83d9-a981a1f2c01d/hc2021-cerebras-embargoed-8-24-slide-10.jpg"
-        width: 960
-        height: 540
-        isCached: true
   - title: "Cerebras Upgrades Trillion-Transistor Chip to Train ‘Brain-Scale’ AI"
     excerpt: "Cerebras has outlined a series of innovations that mean its latest chip can train a neural network with up to 120 trillion parameters."
     publishedDateTime: 2021-08-27T14:16:00Z
@@ -50,6 +34,20 @@ related:
       - url: "https://singularityhub.com/wp-content/uploads/2021/08/cerebras-chip-AI.jpg"
         width: 1068
         height: 601
+        isCached: true
+  - title: "New chip technology could enable ‘brain-scale’ AI"
+    excerpt: "Cerebras Systems said its new technology will combine four solutions to support neural networks 100 times larger than previous AI systems."
+    publishedDateTime: 2021-08-25T09:21:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/cerebras-systems-brain-scale-ai"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 54
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/08/cerebras-chip-scaled-1.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "Sdz/rR4pUGE/aCEt4b+c+2u54sPax6VhQ+6sxKksOzteF85p32b6A7RC6oofHj+kkzdbmnDSk8O+EbX1MTJbWqZdwOO8P7Ge1mt0WIRxSpUXinlbjI+f6u7D3G0+IkH5FVhyzrfxEezrdbOu+rKiJhaTfuqXXQJ6MZ1YZol+qdhyVHJKYStmAsCYMOPmWf2F9eZ6ftQDTSzIrHQ8bRRQfbUwHVv/XfXFvFTXJntArPm6M9D+cYM7tuHpQ3UDwxfIquvXZ2/fD16if3hmHDzQ4zBYn8SFhu5wlAuzcG2VPhi6zSIQwWJIjJfA1usRK1lvSY+/X5uyDMAd+n2of+otlBjEShesdYQXaWdcKnS/3XA=;az3w4cRQx2tDXHM/+C24gw=="

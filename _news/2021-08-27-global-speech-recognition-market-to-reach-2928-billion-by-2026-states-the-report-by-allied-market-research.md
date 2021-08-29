@@ -80,6 +80,29 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "New Study from StrategyR Highlights a $137.2 Billion Global Market for Emotion Detection and Recognition by 2026"
+    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Emotion Detection and Recognition - Global Market Trajectory & Analytics\"."
+    publishedDateTime: 2021-08-25T15:09:00Z
+    webUrl: "https://www.lelezard.com/en/news-19968125.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 3
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "Global Automotive Voice Recognition Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
+    excerpt: "6.2 North America Automotive Voice Recognition Revenue by Application (2016-2026) 6.3 North America Automotive Voice Recognition Market Size by Country 6.3.1 North America Automotive Voice Recognition Revenue by Country (2016-2026) 6.3.2 United States ..."
+    publishedDateTime: 2021-08-28T02:30:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4818187-global-automotive-voice-recognition-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
 
 secured: "B23KNJLcRE+8yC9vqxcEg16w92LT3N2rYNRbQNjgLdBWBZnho85J91uEynXmuwzYMpV77uguyY28kSKrPuFXFJlTPw8l2tcUTnW1Ll8Prqmdu7jWJM/smcHXyfRo6+rhp/+kWT3DrR0gYK3LaxnfDigDFlyY2k8d/4vjfXaAqbRn8/peLGsYmush9KZbOqZRFTrnpIF9Dx7fjbWAAogk5Oj9QFX2fiqWAvGp8mnqw2JxJFXiIsg1iwKTIl3bNmvQ4SMypXZN4rbiw/P8pq88QZkMs8pEpIibOYU91iL2fOhoH5tvlf2yrgoUxCEJMmbuabbqp9qKi1xYSTQ5vd8rConSSd1u8/iL/KFL0LTKyNM=;zbm7SZ5V5RZFZWl5mTYGjg=="
 ---

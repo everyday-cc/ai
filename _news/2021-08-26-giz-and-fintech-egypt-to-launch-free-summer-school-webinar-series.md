@@ -39,20 +39,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Fintech Douugh launches US wealth management advice service"
-    excerpt: "US-focused fintech Douugh (ASX:DOU) has launched Douugh Wealth, an integrated robo-advisory investment service, as part of its app."
-    publishedDateTime: 2021-08-24T23:50:00Z
-    webUrl: "https://www.startupdaily.net/2021/08/fintech-douugh-launches-us-wealth-management-advice-service/"
-    type: article
-    provider:
-      name: Startup Daily
-      domain: startupdaily.net
-    quality: 24
-    images:
-      - url: "https://389739-1225869-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2017/11/Andy-Douugh-e1629848967906.png"
-        width: 770
-        height: 513
-        isCached: true
 
 secured: "cLrsxQkBFOtuo8xRUXF4VdH2TsWYY5CbLGWiNTHkNFc55Nr+3Af2mRKzjZnwCS3rla01dfw8uW+GHvAklfj8Iw7lGsRo4eJfpYD5KeOygfd9jrUvvIhAKe3Z040OQn+YhvBYqvHLr7JewMvbqG2DW/T0suEteU2Yi2JAK71fZbtn063BMriFicqWq8QvgaZASVd0clJvKGcjJuRIBiNEQe5mospHgqA6oO/1GEVIWdgqkhHklT4uX+24XeCPQKYFJ3cV4jWUuZKsjL/vr2vICMIgumeEUZJUf187AsY/Js/u01s9CVn6D++oEc5D6WEzCiQ0Th9h4edBAmDknb1RwIhhK/UPib9GqBU+dO1d8uY=;P8gPdr9rb+5TraVGScpRdA=="
 ---

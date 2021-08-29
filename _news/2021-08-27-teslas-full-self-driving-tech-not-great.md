@@ -105,17 +105,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Elon Musk Admits That Tesla’s Full Self-Driving Is “Not Great”"
-    excerpt: "But I guess I’ve been spoiled by watching what Tesla has been doing with the Full Self Driving (FSD) Beta. That is really impressive.” The video also caught the attention of Tesla CEO Elon Musk, who — surprisingly — downplayed Tesla’s progress."
-    publishedDateTime: 2021-08-24T23:51:00Z
-    webUrl: "https://futurism.com/elon-musk-tesla-full-self-driving-not-great"
-    ampWebUrl: "https://futurism.com/elon-musk-tesla-full-self-driving-not-great/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/elon-musk-tesla-full-self-driving-not-great/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 39
   - title: "Tesla Plans To Have Its Full Self-Driving Beta Ready For Public In Four Weeks"
     excerpt: "Tesla plans to have its Full Self-Driving beta ready for the public in four weeks. Here are all the details on this."
     publishedDateTime: 2021-08-26T15:11:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202108/us-federal-agencies-plan-to
 webUrl: "https://www.gao.gov/products/gao-21-526"
 type: article
 quality: 138
-heat: 298
+heat: 288
 published: true
 
 provider:
@@ -105,22 +105,6 @@ related:
       - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
         width: 1000
         height: 581
-        isCached: true
-  - title: "US government agencies plan to increase their use of facial recognition technology"
-    excerpt: "A new survey shows the controversial systems are poised to play an even bigger role in federal business. A 90-page report published Tuesday by the US Government Accountability Office (GAO) details how federal agencies currently use, and plan to expand ..."
-    publishedDateTime: 2021-08-25T00:37:00Z
-    webUrl: "https://www.technologyreview.com/2021/08/24/1032967/us-government-agencies-plan-to-increase-their-use-of-facial-recognition-technology/"
-    ampWebUrl: "https://www.technologyreview.com/2021/08/24/1032967/us-government-agencies-plan-to-increase-their-use-of-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/08/24/1032967/us-government-agencies-plan-to-increase-their-use-of-facial-recognition-technology/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 53
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/08/AP_20176661952737.jpg?w=2247"
-        width: 2247
-        height: 1498
         isCached: true
   - title: "Scientists are using facial recognition to rapidly identify disease resistance in grapes"
     excerpt: "Emerging AI technology is helping researchers determine how different cultivars respond to diseases, ultimately helping to breed pathogen-resistant varieties."

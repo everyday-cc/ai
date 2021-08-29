@@ -41,20 +41,6 @@ related:
         width: 1249
         height: 794
         isCached: true
-  - title: "NEURAL MANUFACTURING Data: The Foundation of AI-Driven Transformation in Manufacturing"
-    excerpt: "AI, which forms the key technology backbone of manufacturing organizations, has evolved so much that it builds end-to-end intelligence in the value chains of firms. In product innovation, for example,"
-    publishedDateTime: 2021-08-25T00:00:00Z
-    webUrl: "https://www.pressreleasepoint.com/neural-manufacturing-data-foundation-ai-driven-transformation-manufacturing"
-    type: article
-    provider:
-      name: KLAS Press Release
-      domain: pressreleasepoint.com
-    quality: 31
-    images:
-      - url: "https://www.pressreleasepoint.com/sites/all/modules/press_release/social-media-icons/fbpage.png"
-        width: 256
-        height: 256
-        isCached: true
   - title: "Seeming Human: Artificial Intelligence and Victorian Realist Character"
     excerpt: "Their definition of intelligence went beyond solving math problems to include what we might call subjectivity: creativity, tastes and preferences, self-awareness, and learned behaviors. We have come to call this artificial intelligence (AI), a term that ..."
     publishedDateTime: 2021-08-28T09:34:00Z

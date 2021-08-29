@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/cars/watch-san-franciscans-take-a-ride
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/watch-san-franciscans-take-a-ride-in-waymos-autonomous-car/?amp"
 type: article
 quality: 89
-heat: 209
+heat: 199
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
     quality: 69
     images:
       - url: "https://www.reuters.com/resizer/icCZxD-J3v_6pHauZBSNngXG9zc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JH3ID44JRRIOTM3QAF4FV2F4OY.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Google self-driving spinoff Waymo begins testing with public in San Francisco"
-    excerpt: "Alphabet Inc's Waymo has started taking a few San Franciscans on rides in its self-driving sport utility vehicles and hopes to open the robotaxis to anyone in the city in less than the three years it took to launch in its only other market."
-    publishedDateTime: 2021-08-24T23:09:00Z
-    webUrl: "https://www.reuters.com/technology/google-self-driving-spinoff-waymo-begins-testing-with-public-san-francisco-2021-08-24/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 66
-    images:
-      - url: "https://www.reuters.com/resizer/OeHFpwMvCIban7rpCKkCjXgOn_Y=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/57PBGJVXGBPTDIEICF7AG2U7BM.jpg"
         width: 1200
         height: 628
         isCached: true

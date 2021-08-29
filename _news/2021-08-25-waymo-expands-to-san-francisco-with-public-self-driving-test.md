@@ -75,20 +75,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Google self-driving spinoff Waymo begins testing with public in San Francisco"
-    excerpt: "Alphabet Inc's Waymo has started taking a few San Franciscans on rides in its self-driving sport utility vehicles and hopes to open the robotaxis to anyone in the city in less than the three years it took to launch in its only other market."
-    publishedDateTime: 2021-08-24T23:09:00Z
-    webUrl: "https://www.reuters.com/technology/google-self-driving-spinoff-waymo-begins-testing-with-public-san-francisco-2021-08-24/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 66
-    images:
-      - url: "https://www.reuters.com/resizer/OeHFpwMvCIban7rpCKkCjXgOn_Y=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/57PBGJVXGBPTDIEICF7AG2U7BM.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Waymo launches rider testing for self-driving cars in San Francisco"
     excerpt: "Some San Francisco residents will have a new way to get around the city. Waymo has launched rider testing of its self-driving cars. Right now, residents can sign up to become a “trusted tester” in the Waymo One app."
     publishedDateTime: 2021-08-27T05:24:00Z

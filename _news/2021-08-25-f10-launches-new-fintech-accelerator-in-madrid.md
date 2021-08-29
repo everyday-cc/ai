@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech Douugh launches US wealth management advice service"
-    excerpt: "US-focused fintech Douugh (ASX:DOU) has launched Douugh Wealth, an integrated robo-advisory investment service, as part of its app."
-    publishedDateTime: 2021-08-24T23:50:00Z
-    webUrl: "https://www.startupdaily.net/2021/08/fintech-douugh-launches-us-wealth-management-advice-service/"
-    type: article
-    provider:
-      name: Startup Daily
-      domain: startupdaily.net
-    quality: 24
-    images:
-      - url: "https://389739-1225869-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2017/11/Andy-Douugh-e1629848967906.png"
-        width: 770
-        height: 513
-        isCached: true
   - title: "GIZ and Fintech Egypt to Launch Free Summer School Webinar Series"
     excerpt: "The series will cover cybersecurity, AI and machine learning, open banking, regtech, and blockchain. The international development wing of the German government, GIZ, is partnering with tech ecosystem platform Fintech Egypt to co-launch the GIZ Finance Summer School,"
     publishedDateTime: 2021-08-26T04:47:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://singularityhub.com/2021/08/27/cerebras-upgrades-trillion-tra
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/08/27/cerebras-upgrades-trillion-transistor-chip-to-train-brain-scale-ai/amp/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: Singularity Hub
@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Cerebras prepares for the era of 120 trillion-parameter neural networks"
-    excerpt: "In the past year, what had been the world's largest neural net as measured by neural weights, OpenAI's GPT-3 natural language processing program, with 175 billion weights, was eclipsed by Google's 1.6-trillion-parameter model, the Switch Transformer."
-    publishedDateTime: 2021-08-25T00:33:00Z
-    webUrl: "https://www.zdnet.com/index.php/recent/index.php/article/cerebras-prepares-for-the-era-of-120-trillion-parameter-neural-networks/"
-    ampWebUrl: "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/cerebras-prepares-for-the-era-of-120-trillion-parameter-neural-networks/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/cerebras-prepares-for-the-era-of-120-trillion-parameter-neural-networks/"
+  - title: "New chip technology could enable ‘brain-scale’ AI"
+    excerpt: "Cerebras Systems said its new technology will combine four solutions to support neural networks 100 times larger than previous AI systems."
+    publishedDateTime: 2021-08-25T09:21:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/cerebras-systems-brain-scale-ai"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 91
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 54
     images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/08/24/a9840569-346e-4256-83d9-a981a1f2c01d/hc2021-cerebras-embargoed-8-24-slide-10.jpg"
-        width: 960
-        height: 540
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/08/cerebras-chip-scaled-1.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "Cerebras Systems Announces World's First Brain-Scale Artificial Intelligence Solution"
     excerpt: "Technology Breakthroughs Enable Training of 120 Trillion Parameters on Single CS-2, Clusters of up to 163 Million Cores with Near Linear Scaling, Push Button Cluster Configuration, Unprecedented Spars"

@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-08-human-robot-collaboration-ai-hum
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-human-robot-collaboration-ai-human-intention.amp"
 type: article
 quality: 63
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "NEURAL MANUFACTURING Data: The Foundation of AI-Driven Transformation in Manufacturing"
-    excerpt: "AI, which forms the key technology backbone of manufacturing organizations, has evolved so much that it builds end-to-end intelligence in the value chains of firms. In product innovation, for example,"
-    publishedDateTime: 2021-08-25T00:00:00Z
-    webUrl: "https://www.pressreleasepoint.com/neural-manufacturing-data-foundation-ai-driven-transformation-manufacturing"
-    type: article
-    provider:
-      name: KLAS Press Release
-      domain: pressreleasepoint.com
-    quality: 31
-    images:
-      - url: "https://www.pressreleasepoint.com/sites/all/modules/press_release/social-media-icons/fbpage.png"
-        width: 256
-        height: 256
-        isCached: true
   - title: "Investing in automation: Strategies manufacturing companies need to know"
     excerpt: "Control Engineering - Learning Objectives Investing in automation and the Internet of Things (IoT) can help keep manufacturers ahead of the curve. Companies also need to"
     publishedDateTime: 2021-08-29T05:02:00Z
