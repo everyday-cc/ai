@@ -901,7 +901,7 @@
       "originalUrl": "https://www.koreatimes.co.kr/www/tech/2021/08/133_314420.html?tw",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -996,7 +996,7 @@
       "originalUrl": "https://techcrunch.com/2021/08/24/ai-palette-raises-4-4m-to-help-companies-react-faster-to-consumer-trends/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -1035,49 +1035,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-us-based-fintech-pngme-raises-15m-to-expand-services-across-africa.md",
-      "title": "US-Based FinTech Pngme Raises $15M To Expand Services Across Africa",
-      "excerpt": "Financial data infrastructure and machine learning-as-a-service platform Pngme has raised $15 million in Series A funding.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/investment-tracker/2021/us-based-fintech-pngme-raises-15m-to-expand-services-across-africa/",
-      "originalUrl": "https://www.pymnts.com/news/investment-tracker/2021/us-based-fintech-pngme-raises-15m-to-expand-services-across-africa/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/08/pngme-financial-app-457x274.png",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/investment-tracker/2021/us-based-fintech-pngme-raises-15m-to-expand-services-across-africa/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/us-based-fintech-pngme-raises-15m-to-expand-services-across-africa/amp/",
-      "publishedDateTime": "2021-08-24T14:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     },
@@ -1233,6 +1190,49 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-these-robots-can-move-your-couch.md",
+      "title": "These robots can move your couch",
+      "excerpt": "To train robots how to work independently but cooperatively, researchers at the University of Cincinnati gave them a relatable task: Move a couch.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-08-robots-couch.html",
+      "originalUrl": "https://techxplore.com/news/2021-08-robots-couch.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/these-robots-can-move.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-08-robots-couch.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-robots-couch.amp",
+      "publishedDateTime": "2021-08-24T12:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

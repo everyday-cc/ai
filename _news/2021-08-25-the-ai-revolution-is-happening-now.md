@@ -62,20 +62,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "The EU-AI Regulation - Part 1: Overview and structure"
-    excerpt: "The EU plans to take a leadership position in regulating artificial intelligence. To do so, it is gradually implementing the goals it set itself in 2018."
-    publishedDateTime: 2021-08-24T10:48:00Z
-    webUrl: "https://www.fieldfisher.com/en/insights/die-eu-ki-verordnung---teil-1-uberblick-und-strukt"
-    type: article
-    provider:
-      name: Fieldfisher
-      domain: fieldfisher.com
-    quality: 37
-    images:
-      - url: "http://res-4.cloudinary.com/fieldfisher/image/upload/c_lpad,g_center,h_1080,w_1080/f_jpg,q_auto/v1/sectors/technology/tech_silhouette-woman-globe_889231052_medium_lroko9"
-        width: 1080
-        height: 1080
-        isCached: true
   - title: "Biosimulation Market: Growing Adoption of Artificial Intelligence is Projected to Drive the Global Market"
     excerpt: "According to the report, the global biosimulation market was valued at US$ 1.8 Bn in 2019 and is projected to expand at a high CAGR from 2020 to 2030. Biosimulation can be defined as computer-aided mathematical simulation of biological processes,"
     publishedDateTime: 2021-08-24T14:07:00Z

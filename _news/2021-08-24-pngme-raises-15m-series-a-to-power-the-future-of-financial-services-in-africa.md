@@ -41,20 +41,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "How This Fintech Startup Uses ML To Disburse Loans And Detect Fraud"
-    excerpt: "Kissht uses machine learning-based statistical models to predict customers’ ability to repay loans and detect frauds."
-    publishedDateTime: 2021-08-24T09:30:00Z
-    webUrl: "https://analyticsindiamag.com/how-this-fintech-startup-uses-ml-to-disburse-loans-and-detect-fraud/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 41
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/Untitled-5-copy-1.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "067VRaGwwIN4iuwYzY4wsJ31xc0TBvlD8PI5EDbtQQIX7I5todkXDRqn01PT0TiLwKBbLnZIK4KrT4UdJ7C2FSJ/QzyCuG65ed9QvaqPTEd9oShMj7WNy56U4E/6o4/jpbN3WAy7RSsQ5dXxtzxsvu1aCBLLjlc0yidcZJgluHFSrsQ7+L60IEBWWsPCzRl3UD1xRqLaS4sIWd6xSjBOM0dw49CKzRxhHa7bXsNZEs3UCZXH/7gVDtmV16xogVGtYbR66sIqFhaiF/q15g75YKmxFTeCtZuY4fzXQ/Hn8+JTyLIKbiFWP9LTMPbXx+wq+sYkHXB/Ny9I6/+oettXnwaKGKRCBBn4tky5LSj3zt8=;j76nwNcruTLTlk/1dh2LNQ=="
 ---

@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Tokyo Paralympics: Judoka Aramitsu Kitazono Withdraws After Being Hit by Self-Driving Bus in Village"
-excerpt: "The incident took place on Thursday afternoon when the automated electric vehicle, called an e-Palette and developed by Toyota, struck Kitazono after turning right into a pedestrian crossing."
-publishedDateTime: 2021-08-28T09:52:00Z
-originalUrl: "https://www.india.com/sports/tokyo-paralympics-japanese-judoka-aramitsu-kitazono-withdraws-after-being-hit-by-self-driving-bus-in-village-4919874/"
-webUrl: "https://www.india.com/sports/tokyo-paralympics-japanese-judoka-aramitsu-kitazono-withdraws-after-being-hit-by-self-driving-bus-in-village-4919874/"
-ampWebUrl: "https://www.india.com/sports/tokyo-paralympics-japanese-judoka-aramitsu-kitazono-withdraws-after-being-hit-by-self-driving-bus-in-village-4919874/amp/"
-cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/sports/tokyo-paralympics-japanese-judoka-aramitsu-kitazono-withdraws-after-being-hit-by-self-driving-bus-in-village-4919874/amp/"
+title: "Collision With Paralympic Athlete Forces Toyota To Halt Self-Driving Bus Service In Olympic Village"
+excerpt: "The autonomous vehicles had been specially designed to cater to the needs of both olympians and paralympians, utilizing Level 4 self-driving technology."
+publishedDateTime: 2021-08-29T03:09:00Z
+originalUrl: "https://www.forbes.com/sites/peterlyon/2021/08/28/collision-with-paralympic-athlete-forces-toyota-to-halt-self-driving-bus-service-in-olympic-village/"
+webUrl: "https://www.forbes.com/sites/peterlyon/2021/08/28/collision-with-paralympic-athlete-forces-toyota-to-halt-self-driving-bus-service-in-olympic-village/"
+ampWebUrl: "https://www.forbes.com/sites/peterlyon/2021/08/28/collision-with-paralympic-athlete-forces-toyota-to-halt-self-driving-bus-service-in-olympic-village/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peterlyon/2021/08/28/collision-with-paralympic-athlete-forces-toyota-to-halt-self-driving-bus-service-in-olympic-village/amp/"
 type: article
-quality: 29
+quality: 60
 heat: -1
 published: false
 
 provider:
-  name: India.com
-  domain: india.com
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s3.india.com/wp-content/uploads/2021/08/pjimage-2021-08-28T165052.351.jpg"
-    width: 1200
-    height: 670
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612af96eccedf1b532c3fdbf%2F0x0.jpg"
+    width: 900
+    height: 600
     isCached: true
 
 related:
@@ -57,22 +61,6 @@ related:
     images:
       - url: "https://i.insider.com/6129413c9ef1e50018f87ebe?width=1200&format=jpeg"
         width: 1200
-        height: 600
-        isCached: true
-  - title: "Collision With Paralympic Athlete Forces Toyota To Halt Self-Driving Bus Service In Olympic Village"
-    excerpt: "The autonomous vehicles had been specially designed to cater to the needs of both olympians and paralympians, utilizing Level 4 self-driving technology."
-    publishedDateTime: 2021-08-29T03:09:00Z
-    webUrl: "https://www.forbes.com/sites/peterlyon/2021/08/28/collision-with-paralympic-athlete-forces-toyota-to-halt-self-driving-bus-service-in-olympic-village/"
-    ampWebUrl: "https://www.forbes.com/sites/peterlyon/2021/08/28/collision-with-paralympic-athlete-forces-toyota-to-halt-self-driving-bus-service-in-olympic-village/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peterlyon/2021/08/28/collision-with-paralympic-athlete-forces-toyota-to-halt-self-driving-bus-service-in-olympic-village/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 60
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612af96eccedf1b532c3fdbf%2F0x0.jpg"
-        width: 900
         height: 600
         isCached: true
   - title: "Visually impaired Paralympian hit by self-driving bus"
@@ -270,6 +258,22 @@ related:
         width: 1200
         height: 677
         isCached: true
+  - title: "Tokyo Paralympics: Judoka Aramitsu Kitazono Withdraws After Being Hit by Self-Driving Bus in Village"
+    excerpt: "The incident took place on Thursday afternoon when the automated electric vehicle, called an e-Palette and developed by Toyota, struck Kitazono after turning right into a pedestrian crossing."
+    publishedDateTime: 2021-08-28T09:52:00Z
+    webUrl: "https://www.india.com/sports/tokyo-paralympics-japanese-judoka-aramitsu-kitazono-withdraws-after-being-hit-by-self-driving-bus-in-village-4919874/"
+    ampWebUrl: "https://www.india.com/sports/tokyo-paralympics-japanese-judoka-aramitsu-kitazono-withdraws-after-being-hit-by-self-driving-bus-in-village-4919874/amp/"
+    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/sports/tokyo-paralympics-japanese-judoka-aramitsu-kitazono-withdraws-after-being-hit-by-self-driving-bus-in-village-4919874/amp/"
+    type: article
+    provider:
+      name: India.com
+      domain: india.com
+    quality: 29
+    images:
+      - url: "https://s3.india.com/wp-content/uploads/2021/08/pjimage-2021-08-28T165052.351.jpg"
+        width: 1200
+        height: 670
+        isCached: true
   - title: "Toyota suspends use of self-driving vehicle in Olympic Village after collision with Paralympic athlete"
     excerpt: "Toyota's CEO on Friday apologized in a video posted to YouTube after one of the company's self-driving vehicles hit the athlete while driving at 1 to 2 kilometers per hour around the Olympic Village in Tokyo."
     publishedDateTime: 2021-08-27T21:40:00Z
@@ -315,6 +319,6 @@ related:
         height: 338
         isCached: true
 
-secured: "welRF8kzHX5V3XaHbnvVM+qgKEzcjy8Eu7qam665ONGHnCHgNgww4TJKJ8ojKoNCpuf9NcaHjpUOyLAdrkVjNaWu/9uvdI86SUZyxpdYQtixaOt9gaglS144IGADFftS/Dg+7Fu/7lIMMHrQg0RvQI+3qb9gueG7PAdm5yBMU6nKbWeW3tOqBxhY45Ia2BduSJS6ltutLtcYd9Tg/OqX7YxCN/PDdj5duym5MTI43tyeFfKzcnUJ1xRNUrc6g1oZDcT/fSMjrJgA5ZHH2VBMWcZqtqjrYHIussEVWF+TNNFYOVd5Da7JNn40l2SJczX/WZVPBZ5K11Nqazys6QgU+tKBJjwW9ykWyFoc+XVPUcJVtYwyp0WfJx7+Oth/LsCR0xApAOUSyG/RzIOBx3scK+p7RpT0zJA5b4sD1pambRTRz1qqCCx6L2cgzKcIXX6W/8hd9FjXUl8cllaDSbYIia42O9YTbKK19ciGVfg/zV0iZfgFqERIGhT49MIYK3mqQGGarUw1DDKhpjyp2kiubg==;TGNMfMrH7g6NlNQR+Z0Muw=="
+secured: "FlUDXrP/dBa0sd1K0Z1vhuhDf60VyWsAyv7nZqQH7XbvtrJEhlks46sjRiln24fv1IoLLsbmygP7OsnbHHFF+P85794Qv5tIUzZ7cZnF8qt014XjNXYQGmSjCwVA0JC9+dHRfy/+NXzGEm3XKvuaW5R+W6GysHV66S98EtUOce2YHl9sC0g+/ar1ogqOwyZKDXqqzOWgOiDHVxK7ml7cils0B7FhxjUvYMDg08bWuMefqygNMZFsRN/sAWlY403zGKvSx1gNO8Fj87iv4PDrw2ygQPXj9McbVXTaY5xRN3VqQT5PuCiIYKSnfqsWCMhZMswwCIoNzo+YhBJsKQ0EaANQvHSZyOmCy946bCTOEyc=;tzprrbi6EMWbFedzcTvivw=="
 ---
 

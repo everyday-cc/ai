@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cmcmarkets.com/en-gb/news-and-analysis/why-did-teslas-sh
 cdnAmpWebUrl: "https://www-cmcmarkets-com.cdn.ampproject.org/c/s/www.cmcmarkets.com/en-gb/news-and-analysis/why-did-teslas-share-price-dip-following-its-ai-day-reveal_amp"
 type: article
 quality: 76
-heat: 86
+heat: 87
 published: true
 
 provider:

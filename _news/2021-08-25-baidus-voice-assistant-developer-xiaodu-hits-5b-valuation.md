@@ -21,20 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Baidu's AI voice assistant Xiaodu closes funding at $5.1 bln valuation"
-    excerpt: "Chinese tech giant Baidu Inc (9888.HK) said on Tuesday its artificial intelligence (AI) voice assistant Xiaodu Technology has closed Series B financing at a $5.1 billion valuation."
-    publishedDateTime: 2021-08-24T10:08:00Z
-    webUrl: "https://www.reuters.com/technology/baidus-ai-voice-assistant-xiaodu-closes-funding-51-bln-valuation-2021-08-24/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 167
-    images:
-      - url: "https://www.reuters.com/resizer/rq8m88P7hJlC56k45Ywc844Ve7U=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/655WP46C6BOUPP74MRQOESNVDE.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Baidu's AI Voice Assistant Xiaodu Closes Funding at $5.1 Billion Valuation"
     excerpt: "Chinese tech giant Baidu Inc said on Tuesday its artificial intelligence (AI) voice assistant Xiaodu Technology has closed Series B financing at a $5.1 billion valuation. This comes in the midst of a regulatory crackdown on the tech industry by the Chinese authorities that has led to an upheaval in many sectors including as e-commerce,"
     publishedDateTime: 2021-08-24T11:09:00Z

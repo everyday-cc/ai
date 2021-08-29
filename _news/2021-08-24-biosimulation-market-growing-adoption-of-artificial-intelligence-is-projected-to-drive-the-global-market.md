@@ -67,20 +67,6 @@ related:
         width: 1200
         height: 660
         isCached: true
-  - title: "The EU-AI Regulation - Part 1: Overview and structure"
-    excerpt: "The EU plans to take a leadership position in regulating artificial intelligence. To do so, it is gradually implementing the goals it set itself in 2018."
-    publishedDateTime: 2021-08-24T10:48:00Z
-    webUrl: "https://www.fieldfisher.com/en/insights/die-eu-ki-verordnung---teil-1-uberblick-und-strukt"
-    type: article
-    provider:
-      name: Fieldfisher
-      domain: fieldfisher.com
-    quality: 37
-    images:
-      - url: "http://res-4.cloudinary.com/fieldfisher/image/upload/c_lpad,g_center,h_1080,w_1080/f_jpg,q_auto/v1/sectors/technology/tech_silhouette-woman-globe_889231052_medium_lroko9"
-        width: 1080
-        height: 1080
-        isCached: true
 
 secured: "ZmWeCTRxzgwukaSKjTwU+H0xyOfJ4mqBn+YhW+X9nEKO264ZzvWOeUCuxUUTUOKVin0RTT8gSw/y7/GkcWkj1Cg9ZXHZfTNLdw+c5/ftqM363ycLvZMrx3WGmtEMThLFMLyFRaEH9pfzXVr37COOR/gWQXtceOp/p+9GkXzrMbgmunejkivmHZPzjrh2AWoZziMRSR9f79YK/SBgSDilzjezAjzvMevsp1EnZM2/LBoYU1USuhAtVs8Y00Fhw/Zr5MQrFOqJLEjHtc0iUHbWtsp64weG1E+B+xukAxGvU6OnOZp6K5wo7bNMBdK8MRp6kB9xKlRnySiCMW3wMxUzZWV6CcgHtXlk5ASSiwjc2u2YSBMc1dufLzvzfdarggckXKGvVF8MmS2llWNxz/TuD7AVwomzGf4bVYb/zxVpODWcweoHJLPXTsWVuzPipmpD4h4aTMtpPSKU9BkfA3Nqc4bq6aCp0qIpjzAOeF38kaDVsoxgrS75NRTWbOR4vhS8HXKjLZ1uc7qNLcO/3stT6w==;Mvht6R9RokgIfH2/4opxuQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/08/24/ai-palette-raises-4-4m-to-help-com
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/24/ai-palette-raises-4-4m-to-help-companies-react-faster-to-consumer-trends/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1024
     height: 576
     isCached: true
-
-related:
-  - title: "EXCLUSIVE: Ai Palette raises $4.4m to help brands spot the food trends of the future"
-    excerpt: "Ai Palette secured the Series A funding from Exfinity Venture Partners, pi Ventures, and AgFunder, among other investors."
-    publishedDateTime: 2021-08-24T09:30:00Z
-    webUrl: "https://agfundernews.com/ai-palette-raises-4-4m-to-help-brands-spot-the-consumer-food-trends-of-the-future.html"
-    type: article
-    provider:
-      name: Ag Funder News
-      domain: agfundernews.com
-    quality: 30
-    images:
-      - url: "https://agfundernews.com/wp-content/uploads/2021/08/Ai-Palette-founders-e1629785869243.png"
-        width: 1000
-        height: 682
-        isCached: true
 
 secured: "ilfMtnPj0FffAxo5C7F0cxeMAvXSe2zTeg+LYv2y8eogNhd5Xk+UcEHSD8H/fHIrHWxGaycDznQTSEpKQ4pmfvKrl3HJWe48wpvWEIPzb2UjjZ4NvzC23FsaNfNCAple4sqGio8Vg3TdL7ru75GcfnqeSQ4o7QplpiBuTHrTbMueIGWt+iBEgPPZPRJ+W0Adk26TB8wmjgW5sD49WAbaHS+yv1X5gPqADX4OaOkqMWIh75vDR1+KM6j+MHIHwt7Yh2lc1Ri5w5uxdrcNIo/W97s20UNiB7rdGjWQf4pi8p8Rf+NsbiJb52xO97wFu8YuyEPTyj3za2swIWzEzSBRxMM52l/n/S0nXti2F8p1G/34O6bz0qaqMysdsioJD+eiWkdXWtTtZMWccba4uKN3GVyENr7fE5bITIqn8ELR+MXkbiEAqolX8krLcff7QujXUA9/Op9b16aneuw81YlzOYNlaEzdlCCyZbgbGpzpifi4YjvnHMVa7sd1H3lIlvv4sZy/Uv7tpeZ8dH7bgD9lNg==;51i7XyiTS/TRf8c8p5WYZw=="
 ---

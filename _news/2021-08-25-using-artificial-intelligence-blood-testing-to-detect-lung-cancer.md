@@ -40,19 +40,21 @@ related:
         width: 1128
         height: 752
         isCached: true
-  - title: "Your Healthy Family: Artificial intelligence driving new hearing aid technology"
-    excerpt: "The Whisper “Brain” is a little larger than a makeup compact, and can easily be tucked in a woman’s purse, pants pocket or clipped on a belt holster similar to a cell phone."
-    publishedDateTime: 2021-08-24T10:50:00Z
-    webUrl: "https://www.koaa.com/community/your-healthy-family/your-healthy-family-artificial-intelligence-driving-new-hearing-aid-technology"
+  - title: "TECHNOLOGY: THE FUTURE OF ARTIFICIAL INTELLIGENCE"
+    excerpt: "Autonomous AI drone technology is bringing us closer and closer to a future that we so far saw depicted only in"
+    publishedDateTime: 2021-08-29T01:07:00Z
+    webUrl: "https://www.dawn.com/news/1643194"
+    ampWebUrl: "https://www.dawn.com/news/amp/1643194"
+    cdnAmpWebUrl: "https://www-dawn-com.cdn.ampproject.org/c/s/www.dawn.com/news/amp/1643194"
     type: article
     provider:
-      name: KOAA 5
-      domain: koaa.com
-    quality: 48
+      name: Dawn
+      domain: dawn.com
+    quality: 59
     images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/2c23fea/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F1b%2F53%2Ff17149e64089a37e14e14ac0e1fd%2Fposter-image-2.jpg"
-        width: 1200
-        height: 630
+      - url: "https://i.dawn.com/large/2021/08/612ab8270d40f.jpg"
+        width: 800
+        height: 480
         isCached: true
 
 secured: "/JKv2BRIEXK7fcNkI2k0PCWc3Hb8BnIyJfx+oZvFH+EaAjtzXdR0HZCwcPbMmlFFKdAbUqGXuzZxo7kc0S7H6TEQvhPJXRGUXx8cLmYzcfuPgoiKCBdqVmD0577yEp1p3AMfZJ8BoIn9fyaHtyV0lED4/wOojDVYnneVI4n/fazuZbHUCYSpE8u4O/mdz3rviKV9Wj7qM9cmw6rrzOW67ALs3MQW0SfdsQ3wbRRfo4QHCy1wtp8u2JYoYY175cC+ORIF8gfQOPKI1cRi7VQxNWr3BVBzw2B4l/KKDSWPl4SC4qmcjvdVY15tqgGbGLqfjrdSxlxqh4+w2ApBWTAzA1lBddUnkOAz9OE3WrWtx75SR6V5Wjy9PsBhCB501LcGTLjkhaPEX8zVnR37wNyXLgpJe2L0bzgANryYxglTOgEz89hJ9EZdTU2noA9ptLPfGo0TMRN5WtoGzwX6KNP4b5Ri1GDRn9FvFIVYKIfAwrg2/qJDBj9g4Ah7HH4jsxJ6KlvVKd7vU73IrELkm5OGGA==;JGs2nNDSftJlQvK45zJwXA=="

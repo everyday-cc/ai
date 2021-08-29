@@ -94,6 +94,20 @@ related:
         width: 747
         height: 630
         isCached: true
+  - title: "Growth in AI-Enabled Distributed Energy Resources Integration Market to Reach $481 Million by 2030"
+    excerpt: "AI techniques have been deployed in the energy industry for a variety of grid and market operations. A new report from Guidehouse Insights analyzes AI capabilities for enabling distributed energy resources (DER) integration,"
+    publishedDateTime: 2021-08-25T17:12:00Z
+    webUrl: "https://www.tdworld.com/smart-utility/data-analytics/article/21173397/growth-in-aienabled-distributed-energy-resources-integration-market-to-reach-481-million-by-2030"
+    type: article
+    provider:
+      name: T&D
+      domain: tdworld.com
+    quality: 25
+    images:
+      - url: "https://img.tdworld.com/files/base/ebm/tdworld/image/2021/08/16x9/GettyImages_1321274917.612679572a572.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 674
+        isCached: true
   - title: "Precision Medicine Market to Reach USD 125.67 Billion by 2026"
     excerpt: "Increasing advancements in cancer biology and myriad benefits offered by precision medicines to drive the global precision medicine market. <br />"
     publishedDateTime: 2021-08-27T10:33:00Z
@@ -122,15 +136,15 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Guidehouse Insights Report Anticipates Growth in the AI-Enabled Distributed Energy Resources Integration Market to Reach $481 Million by 2020"
-    excerpt: "A new report from Guidehouse Insights analyzes AI capabilities for enabling distributed energy resources (DER) integration, including a discussion of key industry trends, applications, market drivers and barriers,"
-    publishedDateTime: 2021-08-24T09:16:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-2a6952446a924a1b9d14b0d90fe9632f"
+  - title: "United States Automotive Voice Recognition Systems Market Report 2021 - Forecast to 2026 - ResearchAndMarkets.com"
+    excerpt: "The “Automotive Voice Recognition Systems Market Research Report by Deployment, by State - United States Forecast to 2026 - Cumulative Impact of COVID-19” report has been added to ResearchAndMarkets.com’s offering."
+    publishedDateTime: 2021-08-24T14:32:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-united-states-voice-recognition-020d4caabfe8456fbe7b0856bbb2bf8f"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 2
+    quality: 3
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

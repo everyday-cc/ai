@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Toyota suspends use of self-driving vehicle in Olympic Village after collision with Paralympic athlete"
-excerpt: "A self-driving Toyota vehicle was barely moving, but it still managed to collide with a visually-impaired athlete at the Paralympic Games, raising"
-publishedDateTime: 2021-08-27T21:52:00Z
-originalUrl: "https://whdh.com/sports/toyota-suspends-use-of-self-driving-vehicle-in-olympic-village-after-collision-with-paralympic-athlete/"
-webUrl: "https://whdh.com/sports/toyota-suspends-use-of-self-driving-vehicle-in-olympic-village-after-collision-with-paralympic-athlete/"
-ampWebUrl: "https://whdh.com/sports/toyota-suspends-use-of-self-driving-vehicle-in-olympic-village-after-collision-with-paralympic-athlete/amp/"
-cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/sports/toyota-suspends-use-of-self-driving-vehicle-in-olympic-village-after-collision-with-paralympic-athlete/amp/"
+excerpt: "Toyota's CEO on Friday apologized in a video posted to YouTube after one of the company's self-driving vehicles hit the athlete while driving at 1 to 2 kilometers per hour around the Olympic Village in Tokyo."
+publishedDateTime: 2021-08-27T21:40:00Z
+originalUrl: "https://www.kezi.com/content/national/575189232.html"
+webUrl: "https://www.kezi.com/content/national/575189232.html"
+ampWebUrl: "http://www.kezi.com/templates/AMP?contentID=575189232"
+cdnAmpWebUrl: "https://www-kezi-com.cdn.ampproject.org/c/www.kezi.com/templates/AMP?contentID=575189232"
 type: article
 quality: 28
 heat: -1
 published: false
 
 provider:
-  name: WHDH
-  domain: whdh.com
+  name: KEZI
+  domain: kezi.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://whdh.com/wp-content/uploads/sites/3/2021/08/hypatia-h_a0e0e4099994406cfe0dcb161ec7565a-h_e209b227e66925b2d5393382665e3467-e1630101166428.jpg?quality=60&strip=color&w=1024"
-    width: 1024
-    height: 602
+  - url: "http://media.heartlandtv.com/designimages/kezidefault.png"
+    width: 640
+    height: 380
     isCached: true
 
 related:
@@ -57,6 +57,22 @@ related:
     images:
       - url: "https://i.insider.com/6129413c9ef1e50018f87ebe?width=1200&format=jpeg"
         width: 1200
+        height: 600
+        isCached: true
+  - title: "Collision With Paralympic Athlete Forces Toyota To Halt Self-Driving Bus Service In Olympic Village"
+    excerpt: "The autonomous vehicles had been specially designed to cater to the needs of both olympians and paralympians, utilizing Level 4 self-driving technology."
+    publishedDateTime: 2021-08-29T03:09:00Z
+    webUrl: "https://www.forbes.com/sites/peterlyon/2021/08/28/collision-with-paralympic-athlete-forces-toyota-to-halt-self-driving-bus-service-in-olympic-village/"
+    ampWebUrl: "https://www.forbes.com/sites/peterlyon/2021/08/28/collision-with-paralympic-athlete-forces-toyota-to-halt-self-driving-bus-service-in-olympic-village/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peterlyon/2021/08/28/collision-with-paralympic-athlete-forces-toyota-to-halt-self-driving-bus-service-in-olympic-village/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 60
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612af96eccedf1b532c3fdbf%2F0x0.jpg"
+        width: 900
         height: 600
         isCached: true
   - title: "Visually impaired Paralympian hit by self-driving bus"
@@ -299,6 +315,6 @@ related:
         height: 338
         isCached: true
 
-secured: "mT6waEhlsn//72DJNXniRbWOcPJ7o8t9c27XlMUbO14C7GSSu28UoXoLIUqPnVo0CkYMI7groYHGvITZdTTlL9UXC/jpptQwrfi/XJTBf+q1PZgIy4iWlwj6MIfgSAmLWUX0SKPldFnPMpp2y7UbOI+Ux1FBZifOh5tFAksFrAxXcH4KQFNlWavM7zAX9FOSyx4JbmA9N8ewGisZji1Gud6KBhoaaQVd027Bp7wyDC/2pENSiWEPy0bnItdIyX4YLoABPMU+BXEMFUCW0vxvgc8YbyEogEivttzpxukFj3YElwW84hsPHAF/tDT0hRoWIgB1G2pwQqgAQctrS7M4PR+Kl3MBxy/JJ5YlXI+0CnWZB8R2yPtOeAS3OTExgGngdqEUPQW9F7imeVJOT7ZQCHdKMus5z5fAVLpQdg+BOykfR71nauA1Gk5wG7awt6DqSn2xVBZb48NGDCCcJYk1280H1ObhUAa7EZR8tLo83q1fuAqrsY97fFSp6xF74/tvQ6ABbNtGcAUqfJSn/wY4/Q==;HFpRPaI9OHYO3MdzZyFe6g=="
+secured: "xKmZ4jOGSxHcF4gfFbv9kvf5h1D6aVp9wUW7O2cda5PYENcI6cjmvjsr3tinEv6e1Ot1Ekd+l0m4GuvmhCcIkS78R1WnkW4t8+FpYbiioEuUQfGfKl/YFsEcFtYt1pBKfZExKeUPa5aPxSDIiUmx8ZWBM6F5h45rCf3ZL4tjxvyXkEEQfraS5qfcuEisfFyGa0MTnNP3iqrVlMNJgjXm4HketvH+TP9dthdZVthAztLGPMxyu629CgLlVQiaQfsm2JhxJt0guKQvqn2pMqIWaP12FaSWXtufhLAIgcSeZ2EI5Zis9Q7Iagg3vpvo3wjY7/HvHiXjAuKx87PiOBYdEyeld3lMFx+CQPD/hExW8as=;ovKObsKXID/j1xhO5LTWjQ=="
 ---
 

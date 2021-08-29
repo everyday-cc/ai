@@ -1,0 +1,47 @@
+---
+category: news
+title: "China's auto industry calls for standardized self-driving claims"
+excerpt: "Drivers, auto company executives and academics in China are calling for clearer industry standards in the marketing of vehicles with driver assist functions, after a fatal accident involving the technology sparked a new round of concern over whether motorists are being misled about its capabilities."
+publishedDateTime: 2021-08-29T03:25:00Z
+originalUrl: "https://asia.nikkei.com/Business/Automobiles/China-s-auto-industry-calls-for-standardized-self-driving-claims"
+webUrl: "https://asia.nikkei.com/Business/Automobiles/China-s-auto-industry-calls-for-standardized-self-driving-claims"
+type: article
+quality: 39
+heat: -1
+published: false
+
+provider:
+  name: NIKKEI
+  domain: nikkei.com
+
+topics:
+  - AI in Autos
+  - AI
+
+images:
+  - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F9%252F4%252F6%252F0%252F36120649-2-eng-GB%252FSD2.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+    width: 1024
+    height: 512
+    isCached: true
+
+related:
+  - title: "Gatik joins the driverless self-driving car club"
+    excerpt: "Walmart’s cargo-hauling partner moves to scale sans humans..Gatik engineers and algorithms laboriously study a route for weeks before letting the robots steer and are able to program specifically for certain sticky points."
+    publishedDateTime: 2021-08-28T11:38:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/news/gatik-joins-the-driverless-self-driving-car-club-41630150506346.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/news/gatik-joins-the-driverless-self-driving-car-club/amp-41630150506346.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/gatik-joins-the-driverless-self-driving-car-club/amp-41630150506346.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 59
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2021/08/28/600x338/ElW5x_SXEAY-Y6V_1606131116552_1606131128133_1630150578542.jpg"
+        width: 600
+        height: 338
+        isCached: true
+
+secured: "OyZYHS9NksM3v5h9qQAlP4bkTwhoB295Zag6YVTBCDu09v/PjAma8pBf4GCY6QsenDFdwTubFJl/k4y4KIARLecHknCb5Lz7VnmtBAQ4g8DcZDAT0A/e9j61knNC/oRRbfrlqgJMbmSHkhfLwsZoKnHLP3nqOrubXXTZMW7j5h6FB6AaIahTbQS3NxWVjKUN2KOERrAqFErvzXcnZL79XM0Ye0uwORF7koKpshEuVbY2xxM2vFzB2C6Z0Z6xHfcdK346FYi/Yi174lXtahy0ojEi34acQEf3vprDC/ThruO7jjOUxkqbBJTKCMP/KiiGUTDjcPIkzvzycJivn8x1gzncpMLlJrWMV9Hnkm6pgbw=;yDDb+Wzx9VC315rzTPBBLw=="
+---
+

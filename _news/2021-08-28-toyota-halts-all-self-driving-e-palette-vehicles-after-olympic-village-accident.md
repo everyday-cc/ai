@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Collision With Paralympic Athlete Forces Toyota To Halt Self-Driving Bus Service In Olympic Village"
+    excerpt: "The autonomous vehicles had been specially designed to cater to the needs of both olympians and paralympians, utilizing Level 4 self-driving technology."
+    publishedDateTime: 2021-08-29T03:09:00Z
+    webUrl: "https://www.forbes.com/sites/peterlyon/2021/08/28/collision-with-paralympic-athlete-forces-toyota-to-halt-self-driving-bus-service-in-olympic-village/"
+    ampWebUrl: "https://www.forbes.com/sites/peterlyon/2021/08/28/collision-with-paralympic-athlete-forces-toyota-to-halt-self-driving-bus-service-in-olympic-village/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peterlyon/2021/08/28/collision-with-paralympic-athlete-forces-toyota-to-halt-self-driving-bus-service-in-olympic-village/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 60
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612af96eccedf1b532c3fdbf%2F0x0.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Visually impaired Paralympian hit by self-driving bus"
     excerpt: "A visually impaired Paralympian was hit by a self-driving bus in the athletes' village in Tokyo, suffering head and leg injuries, Japanese media said Friday. Toyota, which developed the autonomous shuttle buses used in the compound,"
     publishedDateTime: 2021-08-27T10:56:00Z
@@ -269,20 +285,20 @@ related:
         height: 670
         isCached: true
   - title: "Toyota suspends use of self-driving vehicle in Olympic Village after collision with Paralympic athlete"
-    excerpt: "A self-driving Toyota vehicle was barely moving, but it still managed to collide with a visually-impaired athlete at the Paralympic Games, raising"
-    publishedDateTime: 2021-08-27T21:52:00Z
-    webUrl: "https://whdh.com/sports/toyota-suspends-use-of-self-driving-vehicle-in-olympic-village-after-collision-with-paralympic-athlete/"
-    ampWebUrl: "https://whdh.com/sports/toyota-suspends-use-of-self-driving-vehicle-in-olympic-village-after-collision-with-paralympic-athlete/amp/"
-    cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/sports/toyota-suspends-use-of-self-driving-vehicle-in-olympic-village-after-collision-with-paralympic-athlete/amp/"
+    excerpt: "Toyota's CEO on Friday apologized in a video posted to YouTube after one of the company's self-driving vehicles hit the athlete while driving at 1 to 2 kilometers per hour around the Olympic Village in Tokyo."
+    publishedDateTime: 2021-08-27T21:40:00Z
+    webUrl: "https://www.kezi.com/content/national/575189232.html"
+    ampWebUrl: "http://www.kezi.com/templates/AMP?contentID=575189232"
+    cdnAmpWebUrl: "https://www-kezi-com.cdn.ampproject.org/c/www.kezi.com/templates/AMP?contentID=575189232"
     type: article
     provider:
-      name: WHDH
-      domain: whdh.com
+      name: KEZI
+      domain: kezi.com
     quality: 28
     images:
-      - url: "https://whdh.com/wp-content/uploads/sites/3/2021/08/hypatia-h_a0e0e4099994406cfe0dcb161ec7565a-h_e209b227e66925b2d5393382665e3467-e1630101166428.jpg?quality=60&strip=color&w=1024"
-        width: 1024
-        height: 602
+      - url: "http://media.heartlandtv.com/designimages/kezidefault.png"
+        width: 640
+        height: 380
         isCached: true
   - title: "Tokyo Paralympics: Visually impaired athlete forced to withdraw after accident with self-driving shuttle bus"
     excerpt: "Toyota has temporarily suspended its autonomous buses in the Paralympics athletes' village after one vehicle hit a visually impaired Paralympian at a pedestrian crossing. Japanese athlete Aramitsu Kitazono was forced to withdraw from Saturday's 81kg Judo ..."
