@@ -42,6 +42,22 @@ related:
         width: 450
         height: 300
         isCached: true
+  - title: "Artificial Intelligence (AI) in Retail Market"
+    excerpt: "The global Artificial Intelligence in the Retail market is forecast to reach USD 18 74 Billion by 2026 according to a new report by The retail industry has witnessed a surge in technological advances over the past"
+    publishedDateTime: 2021-08-26T05:52:00Z
+    webUrl: "https://www.openpr.com/news/2368221/artificial-intelligence-ai-in-retail-market-investment"
+    ampWebUrl: "https://www.openpr.com/amp/2368221/artificial-intelligence-ai-in-retail-market-investment"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2368221/artificial-intelligence-ai-in-retail-market-investment"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 72
+    images:
+      - url: "https://cdn.openpr.com/U/8/U826286763_g.jpg"
+        width: 800
+        height: 373
+        isCached: true
   - title: "Artificial Intelligence (AI) Cars and Light Trucks Market Report Covers Future Trends with Exclusive Exploration 2021 to 2026"
     excerpt: "United States OR Portland The Artificial Intelligence AI Cars and Light Trucks Market 2021 report is a comprehensive professional and in depth research of market that delivers significant data for those who are seeking information for the Artificial Intelligence AI"
     publishedDateTime: 2021-08-26T06:37:00Z

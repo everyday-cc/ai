@@ -59,20 +59,6 @@ related:
         width: 1200
         height: 776
         isCached: true
-  - title: "Cerebras Systems connects its huge chips to make AI more power-efficient"
-    excerpt: "A Cerebras Systems artificial intelligence chip is seen between a knife and fork shown for scale in this undated handout photo provided on August 24, 2021. Courtesy of Cerebras Systems/Handout via R"
-    publishedDateTime: 2021-08-25T01:23:00Z
-    webUrl: "https://www.reuters.com/news/picture/cerebras-systems-connects-its-huge-chips-idUSKBN2FP1YX"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 83
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210824&t=2&i=1572827891&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH7N10M"
-        width: 810
-        height: 540
-        isCached: true
   - title: "AI ethics: key to making AI safe, trusted and embraced"
     excerpt: "At SenseTime, the objective is not to remove all bias from AI (which is unrealistic and can become a game of cat and mouse), but rather to make AI safer, fairer and more sustainable, so that people and our planet are truly factored into any AI decision or act."
     publishedDateTime: 2021-08-25T17:37:00Z

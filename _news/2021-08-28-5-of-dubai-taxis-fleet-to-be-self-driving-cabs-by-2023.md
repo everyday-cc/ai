@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.khaleejtimes.com/news/transport/5-of-dubai-taxis-fleet-t
 cdnAmpWebUrl: "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/news/transport/5-of-dubai-taxis-fleet-to-be-self-driving-cabs-by-2023"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Khaleej Times
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Dubai aims 56% of its taxi fleet as environment friendly by 2023"
+    excerpt: "(Also Read: Gatik joins the driverless self-driving car club) The publication also said that the director-general of the RTA has said that the organisation is committed to employing artificial intelligence ... like Cruise, Waymo are taking the lead in ..."
+    publishedDateTime: 2021-08-29T08:57:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/cars/dubai-aims-56-of-its-taxi-fleet-as-environment-friendly-by-2023-41630225460311.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/cars/dubai-aims-56-of-its-taxi-fleet-as-environment-friendly-by-2023/amp-41630225460311.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/dubai-aims-56-of-its-taxi-fleet-as-environment-friendly-by-2023/amp-41630225460311.html"
+    type: article
+    provider:
+      name: hindustantimes.com
+      domain: hindustantimes.com
+    quality: 59
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2021/08/29/600x338/mary-barra_c8eff84c-50d2-11e7-88ef-5a5d74cf2589_1630226474166.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Dubai to make 56% of taxi fleet environmentally friendly, 5% self-driving by 2023"
     excerpt: "Director general of the RTA has said the organisation is committed to employing artificial intelligence and smart systems in Dubai's taxi sector"
     publishedDateTime: 2021-08-29T06:29:00Z

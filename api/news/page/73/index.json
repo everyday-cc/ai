@@ -2,6 +2,151 @@
   "page": 73,
   "value": [
     {
+      "path": "_news/2021-07-08-infrared-cameras-and-artificial-intelligence-provide-insight-into-boiling.md",
+      "title": "Infrared cameras and artificial intelligence provide insight into boiling",
+      "excerpt": "But “artificial intelligence is not limited by the speed or ... or layers of silicon dioxide nanoparticles. They trained a neural network on 85 percent of the data from the first three surfaces, then tested it on 15 percent of the data of those ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/infrared-cameras-artificial-intelligence-provide-insight-into-boiling-0707",
+      "originalUrl": "https://news.mit.edu/2021/infrared-cameras-artificial-intelligence-provide-insight-into-boiling-0707",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202106/MIT-SEM-boiling-surfaces.jpg",
+          "width": 3750,
+          "height": 2500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-07T13:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "news",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-08-scientists-use-artificial-intelligence-to-detect-gravitational-waves.md",
+      "title": "Scientists use artificial intelligence to detect gravitational waves",
+      "excerpt": "When gravitational waves were first detected in 2015 by the advanced Laser Interferometer Gravitational-Wave Observatory (LIGO), they sent a ripple through the scientific community, as they confirmed another of Einstein's theories and marked the birth of gravitational wave astronomy.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-07-scientists-artificial-intelligence-gravitational.html",
+      "originalUrl": "https://phys.org/news/2021-07-scientists-artificial-intelligence-gravitational.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/scientists-use-artific.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-07-scientists-artificial-intelligence-gravitational.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-07-scientists-artificial-intelligence-gravitational.amp",
+      "publishedDateTime": "2021-07-07T13:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-08-you-can-now-apply-for-a-job-through-tiktok.md",
+      "title": "You can now apply for a job through TikTok",
+      "excerpt": "TikTok is testing a job application tool that allows its users ... and then send that video to recruiters through the app. An instructional video for the pilot program recommends applicants ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.vox.com/recode/2019/12/12/20993665/artificial-intelligence-ai-job-screen",
+      "originalUrl": "https://www.theverge.com/2021/7/7/22567220/tiktok-resumes-job-application",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/xMmd7GvB5Sbq3R_pU3scwiE3YzM=/0x0:1800x1013/1400x1050/filters:focal(745x596:1033x884):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/65882881/interview_ai_lead_art.0.jpg",
+          "width": 1400,
+          "height": 1013,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vox.com/platform/amp/recode/2019/12/12/20993665/artificial-intelligence-ai-job-screen",
+      "cdnAmpWebUrl": "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/recode/2019/12/12/20993665/artificial-intelligence-ai-job-screen",
+      "publishedDateTime": "2021-07-07T13:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-08-artificial-intelligence-ai-unfolds-the-new-dimension-of-social-development.md",
       "title": "Artificial Intelligence (AI) Unfolds the New Dimension of Social Development",
       "excerpt": "Artificial intelligence (AI) in healthcare is the discipline using data intensive computer based solutions to improve patient care and outcome. New, objective approach to assessing the reduction in apparent age after facelift surgery is now possible with ...",
@@ -1019,125 +1164,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-oneplus-nord-2-5g-to-have-new-ai-dimensity-chip.md",
-      "title": "OnePlus Nord 2 5G to have new AI Dimensity chip",
-      "excerpt": "Global smartphone brand OnePlus on Wednesday announced that it has joined hands with chip-maker MediaTek for Dimensity 1200-AI, which will be featured in the upcoming OnePlus Nord 2 5G smartphone.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sify.com/finance/oneplus-nord-2-5g-to-have-new-ai-dimensity-chip-news-topnews-vhhnk9ggchbfg.html",
-      "originalUrl": "https://www.sify.com/finance/oneplus-nord-2-5g-to-have-new-ai-dimensity-chip-news-topnews-vhhnk9ggchbfg.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-07T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sify.com",
-        "domain": "sify.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-ibm-research-unveils-framework-for-scaling-ai-workflows-across-the-hybrid-cloud.md",
-      "title": "IBM Research unveils framework for scaling AI workflows across the hybrid cloud",
-      "excerpt": "IBM Research on Wednesday unveiled CodeFlare, a new framework for integrating and scaling big data and AIworkflows in a hybrid cloud environment. The open-source framework aims to help developers cut back the time they spend creating pipelines to train and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/article/ibm-research-unveils-framework-for-scaling-ai-workflows-across-the-hybrid-cloud/",
-      "originalUrl": "https://www.zdnet.com/index.php/article/ibm-research-unveils-framework-for-scaling-ai-workflows-across-the-hybrid-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/07/06/e0231b53-f024-4629-9f53-164c15ba1c57/codeflare-overview.png",
-          "width": 1791,
-          "height": 941,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/article/ibm-research-unveils-framework-for-scaling-ai-workflows-across-the-hybrid-cloud/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/ibm-research-unveils-framework-for-scaling-ai-workflows-across-the-hybrid-cloud/",
-      "publishedDateTime": "2021-07-07T05:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-special-report-chinas-gene-giant-harvests-data-from-millions-of-women.md",
-      "title": "SPECIAL REPORT-China's gene giant harvests data from millions of women",
-      "excerpt": "A Chinese gene company selling prenatal tests around the world developed them in collaboration with the country's military and is using them to collect genetic data from millions of women for sweeping research on the traits of populations,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/special-report-chinas-gene-giant-harvests-data-from-millions-of-women-2021-07-07",
-      "originalUrl": "https://www.nasdaq.com/articles/special-report-chinas-gene-giant-harvests-data-from-millions-of-women-2021-07-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/special-report-chinas-gene-giant-harvests-data-from-millions-of-women-2021-07-07?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/special-report-chinas-gene-giant-harvests-data-from-millions-of-women-2021-07-07?amp",
-      "publishedDateTime": "2021-07-07T05:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

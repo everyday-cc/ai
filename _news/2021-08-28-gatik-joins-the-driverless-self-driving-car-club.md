@@ -9,8 +9,8 @@ ampWebUrl: "https://auto.hindustantimes.com/auto/news/gatik-joins-the-driverless
 cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/gatik-joins-the-driverless-self-driving-car-club/amp-41630150506346.html"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Hindustan Times
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "A secret weapon for self-driving car start-ups — humans"
+    excerpt: "Self-driving start-ups like Cruise and Pony.ai have begun testing their driverless cars in some parts of California in the past year, with an additional feature — human operators. While there is no driver behind the wheel, the passenger seat is occupied ..."
+    publishedDateTime: 2021-08-29T19:35:00Z
+    webUrl: "https://www.dispatchlive.co.za/lifestyle/motoring/2021-08-29-a-secret-weapon-for-self-driving-car-start-ups-humans/"
+    ampWebUrl: "https://www.dispatchlive.co.za/amp/lifestyle/motoring/2021-08-29-a-secret-weapon-for-self-driving-car-start-ups-humans/"
+    cdnAmpWebUrl: "https://www-dispatchlive-co-za.cdn.ampproject.org/c/s/www.dispatchlive.co.za/amp/lifestyle/motoring/2021-08-29-a-secret-weapon-for-self-driving-car-start-ups-humans/"
+    type: article
+    provider:
+      name: The Daily Dispatch
+      domain: dispatchlive.co.za
+    quality: 44
+    images:
+      - url: "https://lh3.googleusercontent.com/RBxm5pwg7FlRW0ZRr5l9jQtr_kX9vAf9DXWWl6-xC8bWd9LnWmrSVCuKJKIzghcfs-j6usLRb39XqP-pL0CuviFjiDTVdPLIDm8=s1000"
+        width: 1000
+        height: 562
+        isCached: true
   - title: "China's auto industry calls for standardized self-driving claims"
     excerpt: "Drivers, auto company executives and academics in China are calling for clearer industry standards in the marketing of vehicles with driver assist functions, after a fatal accident involving the technology sparked a new round of concern over whether motorists are being misled about its capabilities."
     publishedDateTime: 2021-08-29T03:25:00Z

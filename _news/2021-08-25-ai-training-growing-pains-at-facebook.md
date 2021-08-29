@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextplatform.com/2021/08/25/ai-training-growing-pains-at
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/08/25/ai-training-growing-pains-at-facebook/amp/"
 type: article
 quality: 65
-heat: 77
+heat: 78
 published: true
 
 provider:

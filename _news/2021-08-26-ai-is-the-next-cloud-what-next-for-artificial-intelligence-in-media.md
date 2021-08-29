@@ -8,8 +8,8 @@ webUrl: "https://www.tvbeurope.com/media-management/ai-is-the-next-cloud-what-ne
 ampWebUrl: "https://www.tvbeurope.com/media-management/ai-is-the-next-cloud-what-next-for-artificial-intelligence-in-media?amp"
 cdnAmpWebUrl: "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-management/ai-is-the-next-cloud-what-next-for-artificial-intelligence-in-media?amp"
 type: article
-quality: 74
-heat: 74
+quality: 76
+heat: 76
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.tvbeurope.com/wp-content/uploads/2020/09/Brain-pixels.jpg"
@@ -26,6 +27,6 @@ images:
     height: 1000
     isCached: true
 
-secured: "btr6EStQv3aGWxuQwPXgIM++sxAJGVgcBJCyFb/J87EmjQ8Zu2pi+FWSbGRZlTnpiyioWRc57ksAFTvJz3k71xUFDENd9tUXma7vtSEi70qXm9o/5xeZ9cEwsey5igS4NQfgq5fYaWm6/OPKHTzNBIBuiLt6j1FBECMax1u4Ucv3x3U9nBRlSJojlSrN7v9hmb6RF55PyiC/xPKSNEOC9hwoYV/wFwF3+6Pk0BphN7T54shSIfNeknSu4OQUKW6x+mE371Ce5cxTRf+3Sxn9tVkiM7PElgd1o8yeiJxxIVcT+rl2pMgPytQcoCxJYVv/lQEPjsgXyY0ZySXxlv2uho3ZO6MQI/B5I20F2BPQwpc=;yByjG7pR/allsIxEG6Pq8A=="
+secured: "doTwJTzCgZ/SrTsv9FpfvxZytiIkASpMkD9vy5hEWdIeb+otI/JmEVTD8/8BikYufub7GIR7d7ANPgU17UFGK7Dwjq7LJsLnHpPnBvOJ6HY4Cq074AcCkDbvL8t+QXga46HpkpmvDsezlSs8+GQ1VudfebZ0oOt6mmGk9LWVwUfQKpaaz8WHD/ZCkBGXPmGSNkej+OkaD3ybVtEHRqSXB8ZAlLOJYduIapdpaU9R5YiICKQlve7aj0N2NoUYNl98YBS9NZ2hXQlm0aQGMVHKgVWswN9LLFE6/VBUh4K5L2iQ7Q8OYQMZGpUnpajVdClRVKbGNukA9sc7jUMtrxMms72EsOoNknqGaMDHUi42bW0Mq+ik9+pwkbCkbZh2kAUJnYETowAxbDZvwp2S+id9on6+9uBcIRp5N0gN+igciWpqh87Urcv8DSh81nSje7MsgXudaVhMLcnHlPzlZ8MCPoSgPjGEZ6eYaQn//sDv5K9OicqupY7QR4JAZWLb2e0t4iY+aXvXnkVmuJbP+34Sxw==;oZ52arSsVlci+rQ4P4Oe/A=="
 ---
 

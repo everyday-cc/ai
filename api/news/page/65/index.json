@@ -2,6 +2,152 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2021-07-14-microsoft-chatbot-spinoff-xiaoice-reaches-1-billion-valuation.md",
+      "title": "Microsoft Chatbot Spinoff Xiaoice Reaches $1 Billion Valuation",
+      "excerpt": "China-based AI chatbot developer Xiaoice increased its valuation to $1 billion in a funding round led by Hillhouse Capital Management, a boon for the provider of voice and text services used in digital assistants,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-07-14/microsoft-chatbot-spinoff-xiaoice-reaches-1-billion-valuation",
+      "originalUrl": "https://www.msn.com/en-us/finance/other/microsoft-chatbot-spinoff-xiaoice-reaches-241-billion-valuation/ar-AAM8U9I",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihc28wgZfcqI/v1/1200x772.png",
+          "width": 1200,
+          "height": 772,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-14T00:53:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bloomberg.com/news/articles/2021-07-14/microsoft-chatbot-spinoff-xiaoice-reaches-1-billion-valuation",
+        "domain": "bloomberg.com/news/articles/2021-07-14/microsoft-chatbot-spinoff-xiaoice-reaches-1-billion-valuation",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-port-of-seattle-bans-facial-recognition-tech-by-law-enforcement-some-private-use-remains-permitted.md",
+      "title": "Port of Seattle bans facial recognition tech by law enforcement; some private use remains permitted",
+      "excerpt": "The Port of Seattle Commission voted Tuesday to ban the use of biometric technology for surveillance and security purposes by government and law enforcement on all its",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2021/port-seattle-bans-facial-recognition-tech-law-enforcement-private-use-remains-permitted/",
+      "originalUrl": "https://www.geekwire.com/2021/port-seattle-bans-facial-recognition-tech-law-enforcement-private-use-remains-permitted/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/07/true-630x420.jpeg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2021/port-seattle-bans-facial-recognition-tech-law-enforcement-private-use-remains-permitted/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/port-seattle-bans-facial-recognition-tech-law-enforcement-private-use-remains-permitted/amp/",
+      "publishedDateTime": "2021-07-13T18:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-singapore-is-launching-a-50-million-program-to-advance-research-on-ai-and-cybersecurity.md",
+      "title": "Singapore is launching a $50 million program to advance research on AI and cybersecurity",
+      "excerpt": "The city-state will set up new communications testbeds in 5G and beyond-5G, support technology development and training, and build up a talent pool.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/07/13/singapore-to-launch-50-million-program-in-ai-cybersecurity-research-for-5g.html",
+      "originalUrl": "https://www.cnbc.com/2021/07/13/singapore-to-launch-50-million-program-in-ai-cybersecurity-research-for-5g.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 248,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106773377-1604299089782-gettyimages-1229319130-AFP_8TZ6T8.jpeg?v=1626150420",
+          "width": 5570,
+          "height": 3713,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/07/13/singapore-to-launch-50-million-program-in-ai-cybersecurity-research-for-5g.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/13/singapore-to-launch-50-million-program-in-ai-cybersecurity-research-for-5g.html",
+      "publishedDateTime": "2021-07-13T17:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-14-seedtags-computer-vision-capabilities-boost-olympics-brand-sponsorships-within-digital-environment.md",
       "title": "Seedtag’s Computer Vision Capabilities Boost Olympics Brand Sponsorships Within Digital Environment",
       "excerpt": "Seedtag, the leader in Contextual advertising in EMEA and LATAM, has today announced that it has developed specific computer vision capabilities to detect sports and help advertisers harness the power of visual media throughout the Tokyo 2020 Olympic Games.",
@@ -1065,125 +1211,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-zoominfo-buys-israeli-company-chorusai-for-575-million.md",
-      "title": "ZoomInfo Buys Israeli Company Chorus.ai for $575 Million",
-      "excerpt": "Employees of an Israeli startup company work at the company’s office in Tel Aviv, Israel, Feb. 7, 2018. Photo: Reuters",
-      "sourceUrl": null,
-      "webUrl": "https://www.calcalistech.com/ctech/articles/0,7340,L-3912362,00.html",
-      "originalUrl": "https://www.algemeiner.com/2021/07/13/zoominfo-buys-israeli-company-chorus-ai-for-575-million/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images1.calcalist.co.il/PicServer3/2018/12/13/869065/Chorus_l.jpg",
-          "width": 590,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-13T07:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Algemeiner",
-        "domain": "algemeiner.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-chinese-city-using-facial-recognition-tech-to-fight-coronavirus.md",
-      "title": "Chinese City Using Facial Recognition Tech To Fight Coronavirus",
-      "excerpt": "Facial recognition tech linked to personal health codes has been rolled out in a Chinese city bordering Myanmar as authorities seek to squash a coronavirus outbreak.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/world-news/china-using-facial-recognition-tech-to-fight-coronavirus-2485824",
-      "originalUrl": "https://www.ndtv.com/world-news/china-using-facial-recognition-tech-to-fight-coronavirus-2485824",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2021-07/90pei86s_china-covid-ruili-afp-650_625x300_13_July_21.jpg",
-          "width": 650,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/world-news/china-using-facial-recognition-tech-to-fight-coronavirus-2485824?amp=1&akamai-rum=off",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/china-using-facial-recognition-tech-to-fight-coronavirus-2485824?amp=1&akamai-rum=off",
-      "publishedDateTime": "2021-07-13T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-global-speech-recognition-market-2021-industry-research-review-growth-segmentation-key-players-analysis-and-forecast-to-2027.md",
-      "title": "Global Speech Recognition Market 2021 Industry Research, Review, Growth, Segmentation, Key Players Analysis and Forecast to 2027",
-      "excerpt": "The global Speech Recognition market size is projected to reach US$ 17490 million by 2027, from US$ 9461.8 million in 2020, at a CAGR of 9.1% during 2021-2027. This report studies the Global Speech Recognition market status and outlook of global and major regions,",
-      "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/mediareleases/144447/global-speech-recognition-market-2021-industry/",
-      "originalUrl": "https://www.arnnet.com.au/mediareleases/144447/global-speech-recognition-market-2021-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-13T07:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

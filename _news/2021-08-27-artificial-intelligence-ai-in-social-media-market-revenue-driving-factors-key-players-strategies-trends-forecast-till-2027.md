@@ -58,17 +58,6 @@ related:
         width: 700
         height: 393
         isCached: true
-  - title: "Deep Learning in Manufacturing Market 2021 Growth Analysis, Opportunities, Trends, Developments and Forecast to 2027 - NVIDIA (US), Intel (US)"
-    excerpt: "The Global Deep Learning in Manufacturing market report from Market Intelligence Data aims to facilitate in depth information of the marketplace s definition potential and scope The document is prepared after enormous studies and analysis through experts It consists of"
-    publishedDateTime: 2021-08-25T06:45:00Z
-    webUrl: "https://www.openpr.com/news/2366422/deep-learning-in-manufacturing-market-2021-growth-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2366422/deep-learning-in-manufacturing-market-2021-growth-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2366422/deep-learning-in-manufacturing-market-2021-growth-analysis"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 3
 
 secured: "TuWL2j8NzmDc9XVE5V9pc50jVQYI4T2//VgaCWzHXY9Z9aO1PBT135LxiBH5YKnDd5hXxctcvl4cDeZcp8ngMXxDNinvwvJiUnYJZYvqrOgyysOYMQtqZM2bFfTvuyBsqglUr+CM0F7szcwcHSgzJZgFx2aFFxjC3tUUuYTc771vyKfboaoBQwPsJcuf2NyCaEV3jLdKh/cAD9gd17uFNSzPa+YOBRF2BR7QGNQ0BMMTua2Zv05TRZJHWrKmcYKjWe2WQO5eEZz0eFKV63heeq85y95le9BWC8lretytFy6sV6bacaCLO9yyuUfb4aTzK7KAaX37FjxuacTjAQ5cigGS0SxcycLlo2S+7mznXwNv10Zloo5zB4RHUGSMXYOVFeZQIn+u2RhxH9EZ/fyKrhJUN/bGMVEDewOVCirLBSBBIYeg4+vZHf9Lo1cPLQxU36daCUyt6rxSHqmkxT/dAYA1dcu5xLbK/wcKUUVlmC7JeHCRdysDcjmwn4yHcNaZD5CT5nHurQbR1mkSB+L20w==;Ix/AKomhrgEG2bjUdymB1A=="
 ---

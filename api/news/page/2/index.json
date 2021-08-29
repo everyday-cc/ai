@@ -2,6 +2,111 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-27-chances-of-collisions-involving-urgently-underway-police-cars-and-ai-self-driving-cars.md",
+      "title": "Chances Of Collisions Involving Urgently Underway Police Cars And AI Self-Driving Cars",
+      "excerpt": "Regrettably there are going to be instances of urgently underway police cars that collide with self-driving cars, though there are means to try and reduce those chances.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/27/chances-of-collisions-involving-urgently-underway-police-cars-and-ai-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/27/chances-of-collisions-involving-urgently-underway-police-cars-and-ai-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60722c4f3955ebfd3665bef7%2F0x0.jpg%3FcropX1%3D237%26cropX2%3D4511%26cropY1%3D440%26cropY2%3D2845",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/27/chances-of-collisions-involving-urgently-underway-police-cars-and-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/27/chances-of-collisions-involving-urgently-underway-police-cars-and-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2021-08-27T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-how-to-upskill-your-team-to-tackle-ai-and-machine-learning.md",
+      "title": "How to upskill your team to tackle AI and machine learning",
+      "excerpt": "Levi Strauss & Co's Katia Walsh discusses her new machine learning bootcamp and the role upskilling and mentorship can play in humanizing AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/27/how-to-upskill-your-team-to-tackle-ai-and-machine-learning/",
+      "originalUrl": "https://venturebeat.com/2021/08/27/how-to-upskill-your-team-to-tackle-ai-and-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 148,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/Women-in-AI-Awards-3.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/27/how-to-upskill-your-team-to-tackle-ai-and-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/27/how-to-upskill-your-team-to-tackle-ai-and-machine-learning/amp/",
+      "publishedDateTime": "2021-08-27T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-08-27-toyota-halts-all-self-driving-e-palette-vehicles-after-olympic-village-accident.md",
       "title": "Toyota Halts All Self-Driving E-Palette Vehicles After Olympic Village Accident",
       "excerpt": "Toyota Motor said on Friday it had suspended all self-driving e-Palette transportation pods at the Tokyo Paralympic Games village, a day after one of the vehicles collided with and injured a visually impaired pedestrian.",
@@ -10,7 +115,7 @@
       "originalUrl": "https://money.usnews.com/investing/news/articles/2021-08-27/toyota-halts-all-self-driving-e-pallete-vehicles-after-olympic-village-accident",
       "featuredContent": null,
       "highlight": null,
-      "heat": 368,
+      "heat": 378,
       "tags": null,
       "images": [
         {
@@ -156,7 +261,7 @@
       "originalUrl": "https://venturebeat.com/2021/08/27/edtech-language-platform-duolingo-ups-the-ai-ante/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1096,85 +1201,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-the-ai-training-chip-tencent-has-an-eye-on.md",
-      "title": "The AI Training Chip Tencent Has an Eye On",
-      "excerpt": "It is not news that China wants a rich, native, diverse semiconductor ecosystem to feed its largest consumers of compute. From supercomputing systems to",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2021/08/26/the-ai-training-chip-tencent-has-an-eye-on/",
-      "originalUrl": "https://www.nextplatform.com/2021/08/26/the-ai-training-chip-tencent-has-an-eye-on/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/Enflame_sd89.jpg",
-          "width": 1300,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2021/08/26/the-ai-training-chip-tencent-has-an-eye-on/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/08/26/the-ai-training-chip-tencent-has-an-eye-on/amp/",
-      "publishedDateTime": "2021-08-26T06:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-5-stocks-to-watch-amid-evolving-machine-learning-applications.md",
-      "title": "5 Stocks to Watch Amid Evolving Machine Learning Applications",
-      "excerpt": "In the fourth industrial revolution, AI will be the predominant technology, and its subsets ML and deep learning will be driving the change. ML has found its application in multiple disciplines, and businesses can use large data to better understand consumers’ behavior,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/5-stocks-to-watch-amid-evolving-machine-learning-applications-2021-08-26",
-      "originalUrl": "https://www.nasdaq.com/articles/5-stocks-to-watch-amid-evolving-machine-learning-applications-2021-08-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/5-stocks-to-watch-amid-evolving-machine-learning-applications-2021-08-26?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-stocks-to-watch-amid-evolving-machine-learning-applications-2021-08-26?amp",
-      "publishedDateTime": "2021-08-26T06:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI",
-        "AI in Finance"
       ]
     }
   ],

@@ -2,6 +2,152 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-08-24-israels-dia-gets-14m-to-expand-ai-driven-ultrasound-analysis.md",
+      "title": "Israel’s DiA gets $14M to expand AI-driven ultrasound analysis",
+      "excerpt": "Israel-based AI healthtech company, DiA Imaging Analysis, which is using deep learning and machine learning to automate analysis of ultrasound scans, has closed a $14 million Series B round of funding.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/08/24/israels-dia-gets-14m-to-expand-ai-driven-ultrasound-analysis/",
+      "originalUrl": "https://techcrunch.com/2021/08/24/israels-dia-gets-14m-to-expand-ai-driven-ultrasound-analysis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/Screenshot-2021-08-24-at-16.55.57.png?w=1024",
+          "width": 1024,
+          "height": 564,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/08/24/israels-dia-gets-14m-to-expand-ai-driven-ultrasound-analysis/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/24/israels-dia-gets-14m-to-expand-ai-driven-ultrasound-analysis/amp/",
+      "publishedDateTime": "2021-08-24T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-esperanto-launches-ai-accelerator-with-over-1000-risc-v-cores.md",
+      "title": "Esperanto Launches AI Accelerator With Over 1000 RISC-V Cores",
+      "excerpt": "Accelerating ML Recommendation with over a thousand RISC-V Processors, the Esperanto ET-SoC-1 is the highest performance commercial RISC-V chip to date.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/08/24/esperanto-launches-with-1000-core-risc-v-ai-accelerator/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/08/24/esperanto-launches-with-1000-core-risc-v-ai-accelerator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611fd70be384d73d2f2ce2ad%2F0x0.jpg",
+          "width": 1200,
+          "height": 689,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/08/24/esperanto-launches-with-1000-core-risc-v-ai-accelerator/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/08/24/esperanto-launches-with-1000-core-risc-v-ai-accelerator/amp/",
+      "publishedDateTime": "2021-08-24T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-applying-artificial-intelligence-to-paint-shop-robots.md",
+      "title": "Applying Artificial Intelligence to Paint Shop Robots",
+      "excerpt": "Dürr expands it use of artificial intelligence to help automotive paint shops incorporate robots into existing operations for quality and plant availability applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.automationworld.com/analytics/article/21627143/artificial-intelligence-for-paint-shop-robots",
+      "originalUrl": "https://www.automationworld.com/analytics/article/21627143/artificial-intelligence-for-paint-shop-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.automationworld.com/files/base/pmmi/all/image/2021/08/image004.6125130446ab6.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
+          "width": 646,
+          "height": 462,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-24T08:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automation World",
+        "domain": "automationworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-24-mynd-integrated-solutions-acquires-artificial-intelligence-platform-move78c.md",
       "title": "Mynd Integrated Solutions acquires Artificial Intelligence Platform Move78(c)",
       "excerpt": "Mynd Integrated Solutions, one of the leading Finance & Accounting (F & A) and HR outsourcing partners for businesses, awarded by NASSCOM in the AI & ML category, has acquired Move78(c)[?] platform fr",
@@ -1067,143 +1213,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-baidus-ai-voice-assistant-xiaodu-closes-funding-at-51-bln-valuation.md",
-      "title": "Baidu's AI voice assistant Xiaodu closes funding at $5.1 bln valuation",
-      "excerpt": "Chinese tech giant Baidu Inc (9888.HK) said on Tuesday its artificial intelligence (AI) voice assistant Xiaodu Technology has closed Series B financing at a $5.1 billion valuation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/baidus-ai-voice-assistant-xiaodu-closes-funding-51-bln-valuation-2021-08-24/",
-      "originalUrl": "https://www.reuters.com/technology/baidus-ai-voice-assistant-xiaodu-closes-funding-51-bln-valuation-2021-08-24/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/rq8m88P7hJlC56k45Ywc844Ve7U=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/655WP46C6BOUPP74MRQOESNVDE.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-24T03:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-ai-enabled-e-commerce-solutions-market-forecast-to-2026.md",
-      "title": "AI Enabled E-Commerce Solutions Market - Forecast to 2026",
-      "excerpt": "According to a new market research report published by Global Market Estimates the AI Enabled E Commerce Solutions Market will grow with a CAGR value of around 40 percent over the forecast period Browse TOC on Global AI Enabled E",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2364893/ai-enabled-e-commerce-solutions-market-forecast-to-2026",
-      "originalUrl": "https://www.openpr.com/news/2364893/ai-enabled-e-commerce-solutions-market-forecast-to-2026",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/8/U824327631_g.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2364893/ai-enabled-e-commerce-solutions-market-forecast-to-2026",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2364893/ai-enabled-e-commerce-solutions-market-forecast-to-2026",
-      "publishedDateTime": "2021-08-24T02:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-could-ai-designed-chips-herald-a-revolution-in-compute.md",
-      "title": "Could AI-designed chips herald a revolution in compute?",
-      "excerpt": "Microprocessors have come a long way from the days of the humble Intel 8008. In their nearly 50 years of existence, microprocessors have grown vastly more powerful, efficient, capable of handling even quantum computing simulations,",
-      "sourceUrl": null,
-      "webUrl": "https://www.deccanherald.com/business/technology/could-ai-designed-chips-herald-a-revolution-in-compute-1022986.html",
-      "originalUrl": "https://www.deccanherald.com/business/technology/could-ai-designed-chips-herald-a-revolution-in-compute-1022986.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.deccanherald.com/sites/dh/files/articleimages/2021/08/24/silicon-wafer-istock-968465-1617129572-1022986-1629796766.jpg",
-          "width": 1254,
-          "height": 836,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.deccanherald.com/amp/business/technology/could-ai-designed-chips-herald-a-revolution-in-compute-1022986.html",
-      "cdnAmpWebUrl": "https://www-deccanherald-com.cdn.ampproject.org/c/s/www.deccanherald.com/amp/business/technology/could-ai-designed-chips-herald-a-revolution-in-compute-1022986.html",
-      "publishedDateTime": "2021-08-24T02:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deccan Herald",
-        "domain": "deccanherald.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

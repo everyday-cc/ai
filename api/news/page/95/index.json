@@ -2,6 +2,152 @@
   "page": 95,
   "value": [
     {
+      "path": "_news/2021-06-22-artificial-intelligence-ai-verticals-market-see-huge-growth-for-new-normal-airbnb-salesforce-slack-dataminr-ross-intelligence.md",
+      "title": "Artificial Intelligence (AI) Verticals Market See Huge Growth for New Normal| Airbnb, Salesforce, Slack, Dataminr, ROSS Intelligence",
+      "excerpt": "Artificial intelligence (AI) has been one of the most advanced technologies in computing since its introduction in the 1950s. Advances in bringing robots closer to humans and their increasing use in developing regions have further transformed the entire market.",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/06/22/artificial-intelligence-ai-verticals-market-see-huge-growth-for-new-normal-airbnb-salesforce-slack-dataminr-ross-intelligence/",
+      "originalUrl": "https://ksusentinel.com/2021/06/22/artificial-intelligence-ai-verticals-market-see-huge-growth-for-new-normal-airbnb-salesforce-slack-dataminr-ross-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ksusentinel.com/wp-content/uploads/2021/06/A2Z-Market-Research-2-68-780x470.png",
+          "width": 780,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-22T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-22-google-says-ai-and-analytics-can-take-its-cloud-to-the-next-level.md",
+      "title": "Google says AI and analytics can take its cloud to the next level",
+      "excerpt": "Google believes that artificial intelligence ( AI) and data analytics are the key technologies that will be the impetus behind their cloud computing business going forward. In an interview on the sidelines of the Qatar Economic Forum,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/in/news/google-says-ai-and-analytics-will-help-take-its-cloud-to-the-next-level",
+      "originalUrl": "https://www.techradar.com/in/news/google-says-ai-and-analytics-will-help-take-its-cloud-to-the-next-level",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/in/amp/news/google-says-ai-and-analytics-will-help-take-its-cloud-to-the-next-level",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/google-says-ai-and-analytics-will-help-take-its-cloud-to-the-next-level",
+      "publishedDateTime": "2021-06-22T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-22-techsees-ai-can-recognize-devices-and-guide-users-through-setup.md",
+      "title": "TechSee’s AI can recognize devices and guide users through setup",
+      "excerpt": "TechSee's new Eve Cortex platform leverages AI, machine learning, and augmented reality to help users set up new devices.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/22/techsees-ai-platform-learns-to-recognize-and-guide-users-through-devices-setups/",
+      "originalUrl": "https://venturebeat.com/2021/06/22/techsees-ai-platform-learns-to-recognize-and-guide-users-through-devices-setups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/7e1ce4cc-8904-40cd-80e7-f3717fd0d695-e1603126551920.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 621,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/22/techsees-ai-platform-learns-to-recognize-and-guide-users-through-devices-setups/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/22/techsees-ai-platform-learns-to-recognize-and-guide-users-through-devices-setups/amp/",
+      "publishedDateTime": "2021-06-22T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-22-why-passengers-might-actually-feel-safe-in-zoox-self-driving-cars.md",
       "title": "Why passengers might actually feel safe in Zoox self-driving cars",
       "excerpt": "Instead of turning a traditional car into an autonomous one, the Amazon-owned self-driving car service Zoox has created its own type of autonomous vehicle without a steering wheel or front seat. Redesigning a car from the ground up also means redesigning car safety features.",
@@ -977,152 +1123,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-this-biotech-startup-just-raised-255-million-to-make-its-ai-designed-drug-a-reality.md",
-      "title": "This Biotech Startup Just Raised $255 Million To Make Its AI-Designed Drug A Reality",
-      "excerpt": "Insilico Medicine aims to use its new cash infusion to take its first drug, a treatment for idiopathic pulmonary fibrosis, into clinical trials.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/aayushipratap/2021/06/22/this-biotech-startup-just-raised-255-million-to-make-its-ai-designed-drug-a-reality/",
-      "originalUrl": "https://www.forbes.com/sites/aayushipratap/2021/06/22/this-biotech-startup-just-raised-255-million-to-make-its-ai-designed-drug-a-reality/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d15167efda823562123d4b%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/aayushipratap/2021/06/22/this-biotech-startup-just-raised-255-million-to-make-its-ai-designed-drug-a-reality/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aayushipratap/2021/06/22/this-biotech-startup-just-raised-255-million-to-make-its-ai-designed-drug-a-reality/amp/",
-      "publishedDateTime": "2021-06-22T03:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-global-telecoms-cloud-market-forecast-to-2026-aws-bt-oracle-and-verizon-dominate.md",
-      "title": "Global Telecoms Cloud Market Forecast to 2026: AWS, BT, Oracle and Verizon Dominate",
-      "excerpt": "The global telecom cloud market size is expected to grow from USD 19.8 Billion in 2021 to USD 52.3 Billion by 2026, at a Compound Annual Growth Rate (CAGR) of 21.4% during the forecast period. Data stored on a public cloud platform is generally regarded as safe from most hazards.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-telecoms-cloud-market-forecast-to-2026-aws-bt-oracle-and-verizon-dominate-2021-06-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-telecoms-cloud-market-forecast-to-2026-aws-bt-oracle-and-verizon-dominate-2021-06-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-22T03:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-natural-language-processing-tech-startup-primer-raises-110-million.md",
-      "title": "Natural Language Processing Tech Startup Primer Raises $110 Million",
-      "excerpt": "Primer, a San Francisco-based startup that offers a natural language processing platform used by U.S. national security agencies and others, on Tuesday said it raised $110 million in its latest funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2021-06-22/natural-language-processing-tech-startup-primer-raises-110-million",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-06-22/natural-language-processing-tech-startup-primer-raises-110-million",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-22T03:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

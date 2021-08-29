@@ -229,6 +229,22 @@ related:
         width: 800
         height: 540
         isCached: true
+  - title: "Toyota halts all self-driving e-Palette vehicles after Olympic Village accident"
+    excerpt: "Toyota Motor said on Friday it had suspended all self-driving e-Palette transportation pods at the Tokyo Paralympic Games village, a day after one of the vehicles collided with and injured a visually"
+    publishedDateTime: 2021-08-29T19:30:00Z
+    webUrl: "https://www.dispatchlive.co.za/lifestyle/motoring/2021-08-29-toyota-halts-all-self-driving-e-palette-vehicles-after-olympic-village-accident/"
+    ampWebUrl: "https://www.dispatchlive.co.za/amp/lifestyle/motoring/2021-08-29-toyota-halts-all-self-driving-e-palette-vehicles-after-olympic-village-accident/"
+    cdnAmpWebUrl: "https://www-dispatchlive-co-za.cdn.ampproject.org/c/s/www.dispatchlive.co.za/amp/lifestyle/motoring/2021-08-29-toyota-halts-all-self-driving-e-palette-vehicles-after-olympic-village-accident/"
+    type: article
+    provider:
+      name: The Daily Dispatch
+      domain: dispatchlive.co.za
+    quality: 40
+    images:
+      - url: "https://lh3.googleusercontent.com/VmfKs0fHGADYLMZSmfPFzdqKP6VtVWvaVQyNytiMSQtsl3v1Gw7bxLbnSE9ljxTHOQKpqUQLsn9TYFQ_vOXyaTV_3CA--zYJQVw=s1000"
+        width: 1000
+        height: 562
+        isCached: true
   - title: "Visually impaired Paralympian hit by self-driving bus in Tokyo"
     excerpt: "TOKYO: A visually impaired Paralympian was hit by a self-driving bus in the athletes' village in Tokyo, suffering head and leg injuries, Japanese media said on Friday (Aug 27). Toyota, which developed the autonomous shuttle buses used in the compound,"
     publishedDateTime: 2021-08-27T13:12:00Z

@@ -66,6 +66,15 @@ related:
       name: Mining Weekly
       domain: miningweekly.com
     quality: 19
+  - title: "Award-winning research shows the potential of deep learning in managing power networks"
+    excerpt: "Based on real data and case studies from distribution networks in Scotland, researchers have shown that deep learning neural networks can provide accurate estimates of voltage distributions in all areas of the network, even if high-granularity smart meter ..."
+    publishedDateTime: 2021-08-27T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/926712"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 11
 
 secured: "AiKqu5sR9I7BtR6+Tl1uWRW7EQwBm+2vhHiGPN+FwOA2J5Qzkkn4U1va6o7a7TXRwF4C7j4LUsxN9nOcDMzbYDxe1bqfWh2roOlZlj9tTuUFZFK2DHrEWgU9Bb82NiMx3tBw+UxswmMDzB+Ja5HWfR37iN9U2svlAs1jSJP62SSipQgYHS5znnaiFDaWLHvj5XJFer8nzceD2wLLXSQ5sbB6PvMdnuDd+ZuFdYYUG5/GR/SzbPKjid6yyLBLH16ZVfnx2zrP4gHkzji8eF84oaUdPqEU+mK+B4qAl6NZj06joFoWQqlbsHndHGHhSWpl4g94jQ9jUGE6ro2VOeKvwv7L6IalfW5Dq0Ihe07B9x0=;iIDIv06M9zPuIzKYsqtOag=="
 ---

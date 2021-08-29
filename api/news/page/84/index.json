@@ -2,6 +2,145 @@
   "page": 84,
   "value": [
     {
+      "path": "_news/2021-06-30-machine-learning-startup-datarobot-reportedly-raises-250m-on-6b-valuation.md",
+      "title": "Machine learning startup DataRobot reportedly raises $250M on $6B valuation",
+      "excerpt": "Machine learning automation startup DataRobot Inc. has raised $250 million in new funding, according to Axios on a valuation of around $6 billion. Altimeter Capital Management and Tiger Global are said to have led the Series G round.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2021/06/29/machine-learning-startup-datarobot-reportedly-raises-250m-6b-valuation/",
+      "originalUrl": "https://siliconangle.com/2021/06/29/machine-learning-startup-datarobot-reportedly-raises-250m-6b-valuation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2018/10/37743329_2165804907035213_7133156086915268608_o-1.jpg",
+          "width": 1980,
+          "height": 1320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-29T17:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-zoom-acquires-an-ai-company-building-real-time-translation.md",
+      "title": "Zoom acquires an AI company building real-time translation",
+      "excerpt": "Zoom has announced that it’s acquiring a company known as Kites (short for Karlsruhe Information Technology Solutions), which has worked on creating real-time translation and transcription software. Zoom says the acquisition is a move to help it make communicating with people who speak different languages easier,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/6/29/22556500/zoom-kites-acquisition-machine-translation-real-time-captions",
+      "originalUrl": "https://www.theverge.com/2021/6/29/22556500/zoom-kites-acquisition-machine-translation-real-time-captions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 241,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/6fNTuqlQ4-TRmQ9LVzVOFOw8exs=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69521667/acastro_200331_1777_zoom_0003.0.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/6/29/22556500/zoom-kites-acquisition-machine-translation-real-time-captions",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/6/29/22556500/zoom-kites-acquisition-machine-translation-real-time-captions",
+      "publishedDateTime": "2021-06-29T17:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-perfects-youcam-teams-with-smashbox-for-ai-face-analyzer.md",
+      "title": "Perfect’s YouCam Teams With Smashbox For AI Face Analyzer",
+      "excerpt": "AI and AR technology are applied to the beauty world as Perfect and Smashbox Cosmetics team to create Smashbox Eye Genie in the YouCam Makeup App.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/perfects-youcam-teams-with-smashbox-for-ai-face-analyzer/",
+      "originalUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/perfects-youcam-teams-with-smashbox-for-ai-face-analyzer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/06/shutterstock_1875785341-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/perfects-youcam-teams-with-smashbox-for-ai-face-analyzer/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/perfects-youcam-teams-with-smashbox-for-ai-face-analyzer/amp/",
+      "publishedDateTime": "2021-06-29T17:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-5-of-the-coolest-prosthetic-arm-breakthroughs.md",
       "title": "5 of the Coolest Prosthetic Arm Breakthroughs",
       "excerpt": "Easton LaChappelle, a young engineer from Cortez, Colorado has set out to develop the world's first mind-controlled robotic limb, and aims to make it affordable as well. The device works in tandem with a headset that reads brainwaves, reading about 12 ...",
@@ -1021,144 +1160,6 @@
         "name": "Benzinga.com",
         "domain": "benzinga.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-wekaio-announces-support-of-nvidias-turbocharged-hgx-ai-supercomputing-platform.md",
-      "title": "WekaIO Announces Support of NVIDIA's Turbocharged HGX™ AI Supercomputing Platform",
-      "excerpt": "WekaIO™ (Weka), one of the fastest-growing data platforms for artificial intelligence/machine learning (AI/ML), life sciences research, and high-performance computing (HPC), today announced the WekaFS™ Limitless Data Platform's ability to leverage the newly-turbocharged NVIDIA HGX™ AI supercomputing platform to deliver the best performance and throughput required of today's most-demanding enterprise workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/06/29/9400007.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/06/29/9400007.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T07:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-amazon-introduces-reading-sidekick-a-kids-reading-companion-for-alexa-and-voice-profiles-for-kids.md",
-      "title": "Amazon introduces Reading Sidekick, a kids reading companion for Alexa, and Voice Profiles for Kids",
-      "excerpt": "Amazon today announced a new feature that will turn Alexa into a reading companion for children as well as new support for Alexa Voice Profiles for Kids, which personalize the child’s Alexa experience across all Echo devices in the household.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/29/amazon-introduces-reading-sidekick-a-kids-reading-companion-for-alexa-and-voice-profiles-for-kids/",
-      "originalUrl": "https://techcrunch.com/2021/06/29/amazon-introduces-reading-sidekick-a-kids-reading-companion-for-alexa-and-voice-profiles-for-kids/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/Reading-Sidekick-Echo-Show-Book-List.png?w=680",
-          "width": 680,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/29/amazon-introduces-reading-sidekick-a-kids-reading-companion-for-alexa-and-voice-profiles-for-kids/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/29/amazon-introduces-reading-sidekick-a-kids-reading-companion-for-alexa-and-voice-profiles-for-kids/amp/",
-      "publishedDateTime": "2021-06-29T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-microsoft-launches-azure-arc-enabled-sql-in-general-availability.md",
-      "title": "Microsoft launches Azure Arc-enabled SQL in general availability",
-      "excerpt": "Microsoft today announced Azure Arc-enabled SQL, which extends Azure services to edge datacenter or multicloud instances.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/29/microsoft-launches-azure-arc-enabled-sql-in-general-availability/",
-      "originalUrl": "https://venturebeat.com/2021/06/29/microsoft-launches-azure-arc-enabled-sql-in-general-availability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 249,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/29/microsoft-launches-azure-arc-enabled-sql-in-general-availability/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/29/microsoft-launches-azure-arc-enabled-sql-in-general-availability/amp/",
-      "publishedDateTime": "2021-06-29T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

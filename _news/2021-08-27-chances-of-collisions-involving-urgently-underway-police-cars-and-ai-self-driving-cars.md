@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/27/chances-of-collis
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/27/chances-of-collisions-involving-urgently-underway-police-cars-and-ai-self-driving-cars/amp/"
 type: article
 quality: 81
-heat: 151
+heat: 181
 published: true
 
 provider:
@@ -63,6 +63,36 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Alphabet's Waymo to stop selling lidar self-driving car sensors"
+    excerpt: "Alphabet Inc's self-driving unit Waymo said on Thursday that it has ended a two-year effort to sell light detection and ranging (lidar) sensors to other companies."
+    publishedDateTime: 2021-08-27T14:57:00Z
+    webUrl: "https://www.reuters.com/technology/alphabets-waymo-stop-selling-lidar-self-driving-car-sensors-sources-2021-08-27/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://www.reuters.com/resizer/icCZxD-J3v_6pHauZBSNngXG9zc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JH3ID44JRRIOTM3QAF4FV2F4OY.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Waymo to stop selling lidar self-driving car sensors"
+    excerpt: "Most self-driving car firms, including Waymo, say lidars are key to achieving full autonomy. Tesla CEO Elon Musk says companies that rely on the expensive sensors are \"doomed\"."
+    publishedDateTime: 2021-08-27T07:41:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/tech-bytes/waymo-to-stop-selling-lidar-self-driving-car-sensors/articleshow/85681776.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/tech-bytes/waymo-to-stop-selling-lidar-self-driving-car-sensors/amp_articleshow/85681776.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/tech-bytes/waymo-to-stop-selling-lidar-self-driving-car-sensors/amp_articleshow/85681776.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-36846,msid-85681738/waymo-chrysler-pacifica-hybrid-self-driving-car.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Training Self-Driving Cars for $1 An Hour"
     excerpt: "Every day for over four years, Ramses woke up in his home in Barquisimeto, Venezuela, turned on his computer, and began labeling images that will help make self-driving cars ubiquitous one day. Through a microtasking platform called Remotasks,"
     publishedDateTime: 2021-08-25T12:59:00Z
@@ -76,6 +106,20 @@ related:
       - url: "https://www.predictiveanalyticsworld.com/machinelearningtimes/wp-content/uploads/2021/05/MSDS_270x270_LM.gif"
         width: 270
         height: 270
+        isCached: true
+  - title: "Waymo will stop selling lidar self-driving car sensors"
+    excerpt: "SAN FRANCISCO -- Alphabet's self-driving unit Waymo said that it has ended a two-year effort to sell light detection and ranging (lidar) sensors to other companies. This is a reversal from its ..."
+    publishedDateTime: 2021-08-27T09:20:00Z
+    webUrl: "https://europe.autonews.com/suppliers/waymo-will-stop-selling-lidar-self-driving-car-sensors"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 39
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Waymo%20jag%20SF%20web%281%29.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "Goodyear collaborates with Plus on self-driving trucking tech"
     excerpt: "Goodyear will supply a suite of services including connected tires to improve the safety for semi-trucks powered by Plus’ Level 4 self-driving technology. This will also help to reduce the carbon impact."

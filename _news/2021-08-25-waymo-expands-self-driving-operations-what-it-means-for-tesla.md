@@ -9,8 +9,8 @@ ampWebUrl: "https://www.barrons.com/amp/articles/waymo-alphabet-self-driving-car
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/waymo-alphabet-self-driving-cars-san-francisco-51629904722"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 124
+published: true
 
 provider:
   name: Barron's
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Watch San Franciscans take a ride in Waymo’s self-driving car"
-    excerpt: "Autonomous-car specialist is expanding its trial ridesharing service to regular folks in San Francisco as part of a new research program."
-    publishedDateTime: 2021-08-25T03:00:00Z
-    webUrl: "https://www.digitaltrends.com/cars/watch-san-franciscans-take-a-ride-in-waymos-autonomous-car/"
-    ampWebUrl: "https://www.digitaltrends.com/cars/watch-san-franciscans-take-a-ride-in-waymos-autonomous-car/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/watch-san-franciscans-take-a-ride-in-waymos-autonomous-car/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 89
-    images:
-      - url: "https://icdn.digitaltrends.com/image/digitaltrends/dsc_0570.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
   - title: "Waymo expands to San Francisco with public self-driving test"
     excerpt: "Waymo is finally thinking about expanding. The Alphabet self-driving car division has been running an impressive self-driving ride-hailing service for almost a year now, but only in a small suburb outside of Phoenix,"
     publishedDateTime: 2021-08-25T16:55:00Z
@@ -56,20 +40,6 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/08/SF-760x380.png"
         width: 760
         height: 380
-        isCached: true
-  - title: "Alphabet's Waymo to stop selling lidar self-driving car sensors"
-    excerpt: "Alphabet Inc's self-driving unit Waymo said on Thursday that it has ended a two-year effort to sell light detection and ranging (lidar) sensors to other companies."
-    publishedDateTime: 2021-08-27T14:57:00Z
-    webUrl: "https://www.reuters.com/technology/alphabets-waymo-stop-selling-lidar-self-driving-car-sensors-sources-2021-08-27/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://www.reuters.com/resizer/icCZxD-J3v_6pHauZBSNngXG9zc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JH3ID44JRRIOTM3QAF4FV2F4OY.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Waymo launches rider testing for self-driving cars in San Francisco"
     excerpt: "Some San Francisco residents will have a new way to get around the city. Waymo has launched rider testing of its self-driving cars. Right now, residents can sign up to become a “trusted tester” in the Waymo One app."
@@ -86,64 +56,6 @@ related:
       - url: "https://www.kron4.com/wp-content/uploads/sites/11/2021/08/9B99F949367C44F185032B18736797B9.jpg?w=1280"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Waymo to stop selling lidar self-driving car sensors"
-    excerpt: "Most self-driving car firms, including Waymo, say lidars are key to achieving full autonomy. Tesla CEO Elon Musk says companies that rely on the expensive sensors are \"doomed\"."
-    publishedDateTime: 2021-08-27T07:41:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/tech-bytes/waymo-to-stop-selling-lidar-self-driving-car-sensors/articleshow/85681776.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/tech-bytes/waymo-to-stop-selling-lidar-self-driving-car-sensors/amp_articleshow/85681776.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/tech-bytes/waymo-to-stop-selling-lidar-self-driving-car-sensors/amp_articleshow/85681776.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-36846,msid-85681738/waymo-chrysler-pacifica-hybrid-self-driving-car.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Waymo Rolls Out Self-Driving Taxi Service in San Francisco"
-    excerpt: "Waymo, previously known as the “Google Self-Driving Car Project,” has rolled out its autonomous taxi service in San Francisco. The company has been testing out autonomous driving in San Francisco for over 12 years and began offering rides to its Bay-area employees earlier this year."
-    publishedDateTime: 2021-08-25T03:25:00Z
-    webUrl: "https://hypebeast.com/2021/8/waymo-autonomous-taxi-test-service-san-francisco"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 39
-    images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F08%2Fwaymo-autonomous-taxi-test-service-san-francisco-tw.jpg?w=960&cbr=1&q=90&fit=max"
-        width: 960
-        height: 480
-        isCached: true
-  - title: "Waymo self-driving cars start ride service in San Francisco"
-    excerpt: "After successfully offering rides to passengers for the past couple of years in Phoenix, Arizona, Waymo has now expanded its Waymo One self-driving taxi service to the busy streets of San Francisco, California."
-    publishedDateTime: 2021-08-25T11:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1133352_waymo-self-driving-cars-start-ride-service-in-san-francisco"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 39
-    images:
-      - url: "https://images.hgmsites.net/hug/waymo-self-driving-car-prototype-in-san-francisco-california_100803730_h.jpg"
-        width: 1920
-        height: 1099
-        isCached: true
-  - title: "Waymo will stop selling lidar self-driving car sensors"
-    excerpt: "SAN FRANCISCO -- Alphabet's self-driving unit Waymo said that it has ended a two-year effort to sell light detection and ranging (lidar) sensors to other companies. This is a reversal from its ..."
-    publishedDateTime: 2021-08-27T09:20:00Z
-    webUrl: "https://europe.autonews.com/suppliers/waymo-will-stop-selling-lidar-self-driving-car-sensors"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 39
-    images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Waymo%20jag%20SF%20web%281%29.jpg"
-        width: 800
-        height: 600
         isCached: true
   - title: "Alphabet’s Waymo to stop selling lidar self-driving car sensors"
     excerpt: "Waymo told Reuters that it is now focusing on deploying its Waymo Driver technology across its Waymo One ride-hailing and Waymo Via trucking operations."
@@ -173,15 +85,20 @@ related:
         width: 1920
         height: 1099
         isCached: true
-  - title: "Video: Waymo begins self-driving rides in San Francisco"
-    excerpt: "Waymo, the autonomous driving division of Google, has started its Trusted Tester program in San Francisco. The program will invite the local population to get rides from Waymo to help better identify the issues involved with autonomous driving as well as discover what consumers want from self-driving ride-hailing services."
-    publishedDateTime: 2021-08-25T12:06:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17102/video-waymo-begins-self-driving-rides-in-san-francisco"
+  - title: "Why the feds are investigating Tesla’s Autopilot and what that means for the future of self-driving cars"
+    excerpt: "Tesla’s Autopilot uses cameras, radar and ultrasonic sensors to support two major features: Traffic-Aware Cruise Control and Autosteer."
+    publishedDateTime: 2021-08-26T14:22:00Z
+    webUrl: "https://www.minnpost.com/other-nonprofit-media/2021/08/why-the-feds-are-investigating-teslas-autopilot-and-what-that-means-for-the-future-of-self-driving-cars/"
     type: article
     provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 19
+      name: MinnPost
+      domain: minnpost.com
+    quality: 22
+    images:
+      - url: "https://www.minnpost.com/wp-content/uploads/2021/08/TeslaCrash640.jpg"
+        width: 640
+        height: 450
+        isCached: true
 
 secured: "Tru2YH/sEUQJqlJshkJv8yvYzaHSViPFwSCc/NSGwy69ayYrHLGoWMa+nHQrJihJqdyr8mOKas4LOt4K7kMegy6gL74TQfbiDkWvxAMXed33jEGxszbjk5IYdRM2ZJhs9aaPQRg+efcm2lyoKlcI4uJ7sWyYEGHpQRd/DNyslaxj86pfZhNsYAnC1BiJpoTEvJXTdul3TR9bLdMoLqsrm8/HGuaCvBfQqcSZ5Zlz3ghk2pd+/qFdQy+CtUpl2Sypl65usfjq/LunSB0hqsCvuqjfXp8KcmqsOXM2j3sXUK7Ktooa1MnzhVoO0FStF0m9fP3N+l2/TMu3iKxOk7cNhb+X+M2hnuq10dVAf8Ifv57NSmw1vSkBeBJx0epIO89NNUH0IvrrKJVJ+kMphBJlSfo8uTHCo5uubXinXptZaExoiJif02HUUiEKjdn+0mI9yI1iaQXO9aEuRfkuhsmCxrReIoQckU5ah3WZlryrdAOlvgph7+r+pYl5eDXlBCwrlC0TtM9rmrsg9FczHXFMDQ==;WCxQPO5Fk7e59XhIPymPxQ=="
 ---

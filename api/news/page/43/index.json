@@ -2,6 +2,145 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2021-07-29-leveraging-simulators-and-robotics-to-enhance-operations-in-the-education-sector.md",
+      "title": "Leveraging Simulators and Robotics to Enhance Operations in the Education Sector",
+      "excerpt": "Technological advancements are enhancing various industries like travel healthcare, education, and communication. The use of simulation and robotic technologies are proving to be excellent factors of existing educational resources.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mobilitytechzone.com/topics/4g-wirelessevolution/articles/2021/07/28/449577-leveraging-simulators-robotics-enhance-operations-the-education-sector.htm",
+      "originalUrl": "https://www.mobilitytechzone.com/topics/4g-wirelessevolution/articles/2021/07/28/449577-leveraging-simulators-robotics-enhance-operations-the-education-sector.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.tmcnet.com/tmc/misc/articles/image/2021-jul/4823494800-robot-2587571_960_720.jpg",
+          "width": 960,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-28T11:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobility Techzone",
+        "domain": "mobilitytechzone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-orchestrate-xgboost-ml-pipelines-with-amazon-managed-workflows-for-apache-airflow.md",
+      "title": "Orchestrate XGBoost ML Pipelines with Amazon Managed Workflows for Apache Airflow",
+      "excerpt": "The ability to scale machine learning operations (MLOps) at an enterprise is quickly becoming a competitive advantage in the modern economy. When firms started dabbling in ML, only the highest priority use cases were the focus. Businesses are now demanding more from ML practitioners: more intelligent",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/orchestrate-xgboost-ml-pipelines-with-amazon-managed-workflows-for-apache-airflow/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/orchestrate-xgboost-ml-pipelines-with-amazon-managed-workflows-for-apache-airflow/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/20/ml-4775-image007-1002x630.png",
+          "width": 1002,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-28T11:14:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-07-29-ai-driven-deep-genomics-gets-180m-to-turn-biology-into-informational-medicines.md",
+      "title": "AI-driven Deep Genomics gets $180M to turn biology into informational medicines",
+      "excerpt": "Softbank led the Series C round of funding for Deep Genomics, a startup that applies its artificial intelligence technology to all aspects of discovering and developing new drugs. The Deep Genomics platform has yielded 10 programs;",
+      "sourceUrl": null,
+      "webUrl": "https://medcitynews.com/2021/07/ai-driven-deep-genomics-gets-180m-to-turn-biology-into-informational-medicines/",
+      "originalUrl": "https://medcitynews.com/2021/07/ai-driven-deep-genomics-gets-180m-to-turn-biology-into-informational-medicines/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://medcitynews.com/uploads/2021/07/Brendan_Frey.jpg",
+          "width": 1487,
+          "height": 992,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-28T11:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedCity News",
+        "domain": "medcitynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-29-fact-check-facebook-didnt-pull-the-plug-on-two-chatbots-because-they-created-a-language.md",
       "title": "Fact check: Facebook didn't pull the plug on two chatbots because they created a language",
       "excerpt": "Because chatbots aren't yet capable of more sophisticated functions beyond, say, answering customer questions or ordering food, Facebook's Artificial Intelligence Research Group (FAIR ...",
@@ -1020,159 +1159,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/28/how-an-avalanche-of-data-led-to-new-trends-in-ai-software-modernization-approaches/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/28/how-an-avalanche-of-data-led-to-new-trends-in-ai-software-modernization-approaches/amp/",
       "publishedDateTime": "2021-07-28T04:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-how-to-build-a-perfect-ai-team.md",
-      "title": "How To Build A Perfect AI Team",
-      "excerpt": "From e-commerce and healthcare to travel and finance, AI has made its way to just about every type of industry. In fact, the adoption rate of AI has increased by more than 270%, according to Gartner,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/28/how-to-build-a-perfect-ai-team/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/28/how-to-build-a-perfect-ai-team/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61000ac31db10658736bb6eb%2F0x0.jpg%3FcropX1%3D150%26cropX2%3D2910%26cropY1%3D0%26cropY2%3D1552",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/28/how-to-build-a-perfect-ai-team/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/28/how-to-build-a-perfect-ai-team/amp/",
-      "publishedDateTime": "2021-07-28T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-fitness-startup-insane-ai-raises-873000-in-seed-round-led-by-pi-ventures.md",
-      "title": "Fitness Startup Insane AI Raises $873,000 In Seed Round Led By pi Ventures",
-      "excerpt": "The company plans to utilize the current round to invest in product development and innovation, strengthen its tech team and accelerate growth in the international market",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/378615",
-      "originalUrl": "https://www.entrepreneur.com/article/378615",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1627470253-L-RSourabhAgrawalJayeshHannurkarandAnuragMundhadav1.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/378615",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/378615",
-      "publishedDateTime": "2021-07-28T04:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-the-entertainment-industry-must-lead-the-green-ai-revolution.md",
-      "title": "The Entertainment Industry Must Lead The Green AI Revolution",
-      "excerpt": "Ricky Ray Butler is CEO of BEN, an entertainment AI company that places brands into influencer, streaming, TV, music and film content. As everything in our lives — including entertainment — turns digital,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/07/28/the-entertainment-industry-must-lead-the-green-ai-revolution/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/07/28/the-entertainment-industry-must-lead-the-green-ai-revolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61003126fd51ef8bdbc13220%2F0x0.jpg",
-          "width": 1200,
-          "height": 813,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/07/28/the-entertainment-industry-must-lead-the-green-ai-revolution/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2021/07/28/the-entertainment-industry-must-lead-the-green-ai-revolution/amp/",
-      "publishedDateTime": "2021-07-28T04:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

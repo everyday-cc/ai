@@ -1,24 +1,23 @@
 ---
 category: news
 title: "What an A.I.-based stock picker says about market risks as delta variant spreads"
-excerpt: "\"Our system still sees a significant amount of risk\" as the delta variant spreads, heading into back-to-school season, said Chris Natividad, chief investment officer at San Francisco-based EquBot, in an interview."
-publishedDateTime: 2021-08-28T11:07:00Z
-originalUrl: "https://www.morningstar.com/news/marketwatch/20210828331/what-an-ai-based-stock-picker-says-about-market-risks-as-delta-variant-spreads"
-webUrl: "https://www.morningstar.com/news/marketwatch/20210828331/what-an-ai-based-stock-picker-says-about-market-risks-as-delta-variant-spreads"
+excerpt: "EquBot said its A.I. platform uses the company's proprietary machine-learning algorithms, IBM Watson's natural-language processing capabilities, and tools known as knowledge graphs to build ..."
+publishedDateTime: 2021-08-27T20:49:00Z
+originalUrl: "https://www.morningstar.com/news/marketwatch/20210827560/what-an-ai-based-stock-picker-says-about-market-risks-as-delta-variant-spreads"
+webUrl: "https://www.morningstar.com/news/marketwatch/20210827560/what-an-ai-based-stock-picker-says-about-market-risks-as-delta-variant-spreads"
 type: article
-quality: 1
-heat: 1
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Morningstar, Inc.
+  name: Morningstar%2c Inc.
   domain: morningstar.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - IBM AI
+  - AI
 
-secured: "9A0QsacyiGxjRxkb+lPOpp/DD718XnULSAKWuyQxr0/8YKPLAZdEQrD6WUjegTvLJ6g4ryjKlG/V5bLNuhM2UNn0oogLMOhjhFLpNR3fNagbFSi+1w9BhoFjE1DircqS4+IjvELGbC1FnT8vg6LBppQPyhzUlLr+dEOxQrBOExeF05VgXGPDXfAFau77sR0Gb11wsr1n5du0xq9fXPa2bdyjD5dDHueN3i6LzzP+UIuWD6j/tjO/cvvF7iLrWhVLZ1aGs2awF9eOURwaQ18qp7NZ1PCbhyWpfNlJy8jyVQXWGnXGijApYSF/mlX9PTFYS4krpjy4h82SjeyFHlKY8FEcVI+XCZGITus/tN/xw8k=;ia3n9ghsdJK6EmfjIojc/Q=="
+secured: "3Tzv62lUjOHt9+Jm0UUGsU1zFDUynwMIcLVTEl99PG1NpktZg/AWiNLk1kmNgMygAQLYqtZTEcZXkqEpdHY3RmXNfHFBlFazsxvgo/9tglOSnf/2pUjhvJmCKTz+B1FyFvqHDq41hJ2etVQiZGbGUIeeGVeeUjW2zBfI5u96fbq7xZkaT7MC/3JMe8D7tEZLVAALycEk9yrCtIxFzVd+tg0vp/CC5bItPCQrvLm9sYxn4vToJ14l/FIciq/70qBvsx5P1CWyAEH6X9+L/TzHpqMNVjyi7VVm1wewWPdtKCo1U4itRZatwAbRYWi1IVFlomq6Oq4+cnyL3+sg8NEwJe22TMFYj/IwIGsPo4lsBdM=;QqLUTBHZWgQt4j8Ax5EiQg=="
 ---
 

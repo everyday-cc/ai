@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/mungchiang/2021/08/27/making-virtual-le
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mungchiang/2021/08/27/making-virtual-learning-real/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -70,6 +70,15 @@ related:
       name: Mining Weekly
       domain: miningweekly.com
     quality: 19
+  - title: "Award-winning research shows the potential of deep learning in managing power networks"
+    excerpt: "Based on real data and case studies from distribution networks in Scotland, researchers have shown that deep learning neural networks can provide accurate estimates of voltage distributions in all areas of the network, even if high-granularity smart meter ..."
+    publishedDateTime: 2021-08-27T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/926712"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 11
 
 secured: "KqVJwxVczfT05Jp1+n35kNgYgK76B5OBAwAQAYv5B8dMHZnxvY+ks1w2X4HkVdTATPaVqO8eQ/vuPHLzovuGktpqLCnRIrplQB76gRtFaF7+aHBwUaV053O47PWwFxokhoNaFN2UANWWWFYuzbdRLt4wlHdXguXgmkqDduPiAy4PBrothu8H8MQ0FXGiFec02rbDSKWXjUPuPSGSZEQwNhrskNfeH4UY9oPwPDJuGzR4BCtzDwU0uMgFobakslKXAXdXR5iK55mm8L3EoRE8O6P78jAd16RsMYU+eYqrqe5ejnxRyC20a6znkkt9si77vAKPrmyUYZeRxR8e1VA+sU7LFrQer9ngVYoBvoIEAuQ=;px9iHv5JEQBs0OnO7H4RMg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2368006/artificial-intelligence-ai-in-edu
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2368006/artificial-intelligence-ai-in-education-market-next-big-thing"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (AI) in Retail Market"
+    excerpt: "The global Artificial Intelligence in the Retail market is forecast to reach USD 18 74 Billion by 2026 according to a new report by The retail industry has witnessed a surge in technological advances over the past"
+    publishedDateTime: 2021-08-26T05:52:00Z
+    webUrl: "https://www.openpr.com/news/2368221/artificial-intelligence-ai-in-retail-market-investment"
+    ampWebUrl: "https://www.openpr.com/amp/2368221/artificial-intelligence-ai-in-retail-market-investment"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2368221/artificial-intelligence-ai-in-retail-market-investment"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 72
+    images:
+      - url: "https://cdn.openpr.com/U/8/U826286763_g.jpg"
+        width: 800
+        height: 373
+        isCached: true
   - title: "New Study from StrategyR Highlights a $10.3 Billion Global Market for Artificial Intelligence (AI) in Education by 2026"
     excerpt: "A new market study published b Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence"
     publishedDateTime: 2021-08-26T12:15:00Z

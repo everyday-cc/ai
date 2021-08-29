@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/29/how-to-make-ai-more-ethical/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/29/how-to-make-ai-more-ethical/amp/"
 type: article
 quality: 104
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1256373495.jpg?w=1200&strip=all"
         width: 1200
         height: 776
-        isCached: true
-  - title: "Cerebras Systems connects its huge chips to make AI more power-efficient"
-    excerpt: "A Cerebras Systems artificial intelligence chip is seen between a knife and fork shown for scale in this undated handout photo provided on August 24, 2021. Courtesy of Cerebras Systems/Handout via R"
-    publishedDateTime: 2021-08-25T01:23:00Z
-    webUrl: "https://www.reuters.com/news/picture/cerebras-systems-connects-its-huge-chips-idUSKBN2FP1YX"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 83
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210824&t=2&i=1572827891&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH7N10M"
-        width: 810
-        height: 540
         isCached: true
   - title: "How Artificial Intelligence (AI) Aid Medical Diagnosis"
     excerpt: "Artificial Intelligence is widely employed for the ... Increasing the effectiveness of decision-making Diagnostic and therapy procedures have always been difficult. The reason for this is that ..."

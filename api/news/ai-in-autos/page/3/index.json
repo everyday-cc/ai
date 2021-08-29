@@ -2,6 +2,163 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-18-baidu-unveils-concept-autonomous-robocar.md",
+      "title": "Baidu unveils concept autonomous 'Robocar'",
+      "excerpt": "Along with unveiling a new autonomous vehicle, Baidu also announced it has started mass producing its AI chip, the Kunlun II.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/baidu-unveils-concept-autonomous-robocar/",
+      "originalUrl": "https://www.zdnet.com/article/baidu-unveils-concept-autonomous-robocar/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/08/18/97007714-bc06-4b94-816a-9a85a0427308/e9clrpivoag-sz.jpg",
+          "width": 2477,
+          "height": 1509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/baidu-unveils-concept-autonomous-robocar/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/baidu-unveils-concept-autonomous-robocar/",
+      "publishedDateTime": "2021-08-17T20:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-meet-the-self-driving-brains-inside-volkswagen-and-ford.md",
+      "title": "Meet the self-driving brains inside Volkswagen and Ford",
+      "excerpt": "Argo AI CEO Bryan Salesky on a new partnership with Lyft and setting realistic expectations for self-driving cars Today I’m talking to Bryan Salesky, the co-founder and CEO of Argo AI, a startup that’s trying to build the tech stack for self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/22627847/argo-ai-bryan-salesky-decoder-interview-lyft-self-driving",
+      "originalUrl": "https://www.theverge.com/22627847/argo-ai-bryan-salesky-decoder-interview-lyft-self-driving",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/lFSsTemb8UgU8HixrqnmF7Z3krA=/0x0:2050x1367/1400x933/filters:focal(861x520:1189x848):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69735919/VRG_ILLO_Decoder_ARGO_AI_s.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/22627847/argo-ai-bryan-salesky-decoder-interview-lyft-self-driving",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/22627847/argo-ai-bryan-salesky-decoder-interview-lyft-self-driving",
+      "publishedDateTime": "2021-08-17T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-china-ev-maker-warns-terms-like-self-driving-may-mislead-people.md",
+      "title": "China EV Maker Warns Terms Like Self Driving May Mislead People",
+      "excerpt": "The Chief Executive Officer of Chinese electric-car maker Li Auto Inc. has said the industry should limit using the terms autonomous and self driving, considering no automobile today is truly capable of that and its common usage is becoming misleading for consumers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-08-17/china-ev-maker-warns-terms-like-self-driving-may-mislead-people",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-08-17/china-ev-maker-warns-terms-like-self-driving-may-mislead-people",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4mJTad9d9rA/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-16T23:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-17-farm-tech-startup-iron-ox-hires-david-silver-the-companys-first-director-of-robotics-as-company-prepares-for-hypergrowth.md",
       "title": "Farm Tech Startup Iron Ox Hires David Silver, The Company's First Director of Robotics, as Company Prepares for Hypergrowth",
       "excerpt": "Building the bench Silver was most recently a Tech Lead & Manager at Waymo, the self-driving ... with deep expertise in robotics and artificial intelligence, and a vision to solve global ...",
@@ -1201,153 +1358,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-08-3-unstoppable-stocks-that-are-beating-warren-buffett-so-far-this-year.md",
-      "title": "3 Unstoppable Stocks That Are Beating Warren Buffett So Far This Year",
-      "excerpt": "Warren Buffett's Berkshire Hathaway is delivering a solid return so far in 2021. However, several stocks that Berkshire doesn't own are performing much better year to date. Three of these stocks have strong growth prospects that should be attractive to Buffett.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/08/08/3-unstoppable-stocks-that-are-beating-warren-buffe/",
-      "originalUrl": "https://www.fool.com/investing/2021/08/08/3-unstoppable-stocks-that-are-beating-warren-buffe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F636438%2Fwarren-buffett-tmf.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/08/08/3-unstoppable-stocks-that-are-beating-warren-buffe/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/08/08/3-unstoppable-stocks-that-are-beating-warren-buffe/",
-      "publishedDateTime": "2021-08-08T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-08-3-ai-stocks-to-buy-and-hold-for-the-next-decade.md",
-      "title": "3 AI Stocks to Buy and Hold for the Next Decade",
-      "excerpt": "Waymo vehicles have been driving the streets ... As its customer processes get more complex, artificial intelligence will be a critical component to make all of this smart technology work together.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/08/08/3-ai-stocks-to-buy-and-hold-for-the-next-decade/",
-      "originalUrl": "https://www.fool.com/investing/2021/08/08/3-ai-stocks-to-buy-and-hold-for-the-next-decade/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F637762%2Fgettyimages-cloud-computing-server-room.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/08/08/3-ai-stocks-to-buy-and-hold-for-the-next-decade/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/08/08/3-ai-stocks-to-buy-and-hold-for-the-next-decade/",
-      "publishedDateTime": "2021-08-08T05:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-08-die-as-a-human-or-live-forever-as-a-cyborg-will-robots-rule-the-world.md",
-      "title": "‘Die as a human or live forever as a cyborg’: Will robots rule the world?",
-      "excerpt": "Marshall calls it “natural intelligence”, not artificial intelligence. Autonomy, the kind driverless cars and robot vacuums need to navigate their surrounds, is a solved problem, he says.",
-      "sourceUrl": null,
-      "webUrl": "https://www.smh.com.au/national/die-as-a-human-or-live-forever-as-a-cyborg-will-robots-rule-the-world-20210610-p57zy4.html",
-      "originalUrl": "https://www.smh.com.au/national/die-as-a-human-or-live-forever-as-a-cyborg-will-robots-rule-the-world-20210610-p57zy4.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.ffx.io/image/upload/v1600232233/google-amp/placeholder.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.smh.com.au/national/die-as-a-human-or-live-forever-as-a-cyborg-will-robots-rule-the-world-20210610-p57zy4.html",
-      "cdnAmpWebUrl": "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/national/die-as-a-human-or-live-forever-as-a-cyborg-will-robots-rule-the-world-20210610-p57zy4.html",
-      "publishedDateTime": "2021-08-07T12:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sydney Morning Herald",
-        "domain": "smh.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

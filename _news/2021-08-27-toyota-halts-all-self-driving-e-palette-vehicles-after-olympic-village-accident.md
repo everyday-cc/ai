@@ -7,7 +7,7 @@ originalUrl: "https://money.usnews.com/investing/news/articles/2021-08-27/toyota
 webUrl: "https://www.reuters.com/business/autos-transportation/toyota-halts-all-self-driving-e-pallete-vehicles-after-olympic-village-accident-2021-08-27/"
 type: article
 quality: 148
-heat: 368
+heat: 378
 published: true
 
 provider:
@@ -217,6 +217,22 @@ related:
       - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2021binary_LYNXMPEH7Q0I5-BASEIMAGE.jpg"
         width: 800
         height: 540
+        isCached: true
+  - title: "Toyota halts all self-driving e-Palette vehicles after Olympic Village accident"
+    excerpt: "Toyota Motor said on Friday it had suspended all self-driving e-Palette transportation pods at the Tokyo Paralympic Games village, a day after one of the vehicles collided with and injured a visually"
+    publishedDateTime: 2021-08-29T19:30:00Z
+    webUrl: "https://www.dispatchlive.co.za/lifestyle/motoring/2021-08-29-toyota-halts-all-self-driving-e-palette-vehicles-after-olympic-village-accident/"
+    ampWebUrl: "https://www.dispatchlive.co.za/amp/lifestyle/motoring/2021-08-29-toyota-halts-all-self-driving-e-palette-vehicles-after-olympic-village-accident/"
+    cdnAmpWebUrl: "https://www-dispatchlive-co-za.cdn.ampproject.org/c/s/www.dispatchlive.co.za/amp/lifestyle/motoring/2021-08-29-toyota-halts-all-self-driving-e-palette-vehicles-after-olympic-village-accident/"
+    type: article
+    provider:
+      name: The Daily Dispatch
+      domain: dispatchlive.co.za
+    quality: 40
+    images:
+      - url: "https://lh3.googleusercontent.com/VmfKs0fHGADYLMZSmfPFzdqKP6VtVWvaVQyNytiMSQtsl3v1Gw7bxLbnSE9ljxTHOQKpqUQLsn9TYFQ_vOXyaTV_3CA--zYJQVw=s1000"
+        width: 1000
+        height: 562
         isCached: true
   - title: "Visually Impaired Man Hit By Self-driving Bus In Paralympic Village"
     excerpt: "A visually impaired man was hit by a self-driving bus in the Paralympic village in Tokyo, organisers said Friday, adding the accident left no \"external injury.\" The accident took place on Thursday afternoon,"

@@ -65,6 +65,15 @@ related:
         width: 770
         height: 420
         isCached: true
+  - title: "Award-winning research shows the potential of deep learning in managing power networks"
+    excerpt: "Based on real data and case studies from distribution networks in Scotland, researchers have shown that deep learning neural networks can provide accurate estimates of voltage distributions in all areas of the network, even if high-granularity smart meter ..."
+    publishedDateTime: 2021-08-27T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/926712"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 11
 
 secured: "uNmm/bTJiYuKFXqiQzU8q26Ld34K3L7HvN5Fc4kSFrIGyG8zSZ8iScNfvtjUtbgtFkazEIWza6m0xentk3DK8nAuQPF9FDgKE787wpF1anX69eBsfN1aTa+W19vGFTN9vCkN1fjwa5Tsq/PLxetBa8Jb8NUol6fraf/LnAZhurx1StLFivlWs5JvPEq1A8z3AmnCd9IoyjsnIa56Jk8qN0Vd/wW6y4ol8qRxl13kpAv1CKDCWiLElMUcP8RNITC+xKE5Lzhxg0ae4OS9DCeZzY9jC8QAspiG664UXGaIhGZ2qfijL5N3+5jyRD4TN6pncFqHOk6xXiPjo2zUuQJtqOnnSekhmrucXbHII4NyTDQ=;4I2x0Z7DYAhrpRUd4wT9Kw=="
 ---

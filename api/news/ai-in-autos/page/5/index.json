@@ -2,6 +2,135 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-07-29-baidu-shows-its-self-driving-ambitions-with-base-in-shanghais-auto-city.md",
+      "title": "Baidu Shows Its Self-Driving Ambitions With Base in Shanghai’s Auto City",
+      "excerpt": "Located in Shanghai International Automobile City, an automotive industry cluster in the financial hub’s Jiading district, the new 10,000-square-meter Apollo Park is intended to function as a cloud and big data operations center for Baidu’s connected self-driving vehicles,",
+      "sourceUrl": null,
+      "webUrl": "https://www.caixinglobal.com/2021-07-29/baidu-shows-its-self-driving-ambitions-with-base-in-shanghais-auto-city-101747361.html",
+      "originalUrl": "https://www.caixinglobal.com/2021-07-29/baidu-shows-its-self-driving-ambitions-with-base-in-shanghais-auto-city-101747361.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.caixin.com/2021-07-29/1627542403944972_560_373.jpg",
+          "width": 560,
+          "height": 373,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-29T01:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Caixin Global",
+        "domain": "caixinglobal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-29-tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles.md",
+      "title": "Tech Alert: Navigating Driver Privacy and Safety of Electric Vehicles, Self-Driving Vehicles",
+      "excerpt": "A growing number of connected electric vehicles, as well as the evolution of self driving and automated vehicles are",
+      "sourceUrl": null,
+      "webUrl": "https://www.01net.it/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles/",
+      "originalUrl": "https://www.01net.it/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.01net.it/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles/amp/",
+      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles/amp/",
+      "publishedDateTime": "2021-07-28T19:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "01Net",
+        "domain": "01net.it",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-baidus-success-is-pivotal-to-chinas-ai-transformation.md",
+      "title": "Baidu's Success Is Pivotal To China's AI Transformation",
+      "excerpt": "Apollo Self Driving or ASD, though a small base, grew over 5x from last year. China's Big Tech Investments in AI. Data source: Intel and Deloitte While Baidu is clearly the leader when it comes to ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4441964-baidu-success-pivotal-to-china-ai-transformation",
+      "originalUrl": "https://seekingalpha.com/article/4441964-baidu-success-pivotal-to-china-ai-transformation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1183684002/medium_image_1183684002.jpg",
+          "width": 768,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4441964-baidu-success-pivotal-to-china-ai-transformation",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4441964-baidu-success-pivotal-to-china-ai-transformation",
+      "publishedDateTime": "2021-07-27T22:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-28-tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles.md",
       "title": "Tech Alert: Navigating Driver Privacy and Safety of Electric Vehicles, Self-Driving Vehicles",
       "excerpt": "A growing number of connected electric vehicles, as well as the evolution of self driving and automated vehicles are putting a greater demand on processing power. New technologies are advancing rapidly with the introduction of new processing methods,",
@@ -1212,144 +1341,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-army-eyes-artificial-intelligence-ai-to-enable-armored-vehicles-to-attack-several-targets-in-seconds.md",
-      "title": "Army eyes artificial intelligence (AI) to enable armored vehicles to attack several targets in seconds",
-      "excerpt": "The kinds of initiatives are now taking on a newer, more advanced character as artificial intelligence (AI)-enabled ... such as those for driverless cars, have been advancing for quite some ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.militaryaerospace.com/computers/article/14179977/combat-vehicles-artificial-intelligence-ai-targets",
-      "originalUrl": "https://www.militaryaerospace.com/computers/article/14179977/combat-vehicles-artificial-intelligence-ai-targets",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.militaryaerospace.com/files/base/ebm/mae/image/2020/07/Future_tank_21_July_2020.5f15bea095cd7.png?auto=format&fit=fill&fill=blur&w=1200&h=630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-20T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Military",
-        "domain": "militaryaerospace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-new-system-allows-self-driving-cars-to-make-more-human-decisions.md",
-      "title": "New System Allows Self-Driving Cars to Make More Human Decisions",
-      "excerpt": "(Image source: Chelsea Turner) A team of scientists at MIT have created a system using simple maps and visual data to enable driverless cars to navigate ... director of the Computer Science and Artificial Intelligence Laboratory (CSAIL) and a professor ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/new-system-allows-self-driving-cars-make-more-human-decisions",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/new-system-allows-self-driving-cars-make-more-human-decisions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/humanreasondriving.jpg",
-          "width": 639,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-20T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-consumer-reports-concerned-tesla-uses-owners-to-test-unsafe-self-driving-software.md",
-      "title": "Consumer Reports concerned Tesla uses owners to test unsafe self-driving software",
-      "excerpt": "A Tesla in full self-driving mode makes a left turn out of the middle lane on a busy San Francisco street. It jumps in a bus lane where it’s not meant to be. It turns a corner and nearly plows into parked vehicles,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/20/consumer-reports-concerned-tesla-uses-owners-to-test-unsafe-self-driving-software/",
-      "originalUrl": "https://techcrunch.com/2021/07/20/consumer-reports-concerned-tesla-uses-owners-to-test-unsafe-self-driving-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 314,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/GlIdu7prsAw/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/07/20/consumer-reports-concerned-tesla-uses-owners-to-test-unsafe-self-driving-software/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/20/consumer-reports-concerned-tesla-uses-owners-to-test-unsafe-self-driving-software/amp/",
-      "publishedDateTime": "2021-07-20T14:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

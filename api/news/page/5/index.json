@@ -2,6 +2,153 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-08-25-unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies.md",
+      "title": "UniSA researchers develop AI facial recognition tech to monitor premature babies",
+      "excerpt": "University of South Australia boasts the AI-based system it has developed to remotely monitor the vital signs of babies rival the accuracy of ECG.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies/",
+      "originalUrl": "https://www.zdnet.com/article/unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/08/25/32645fe4-b490-47ff-b6fb-afe88e18ae83/jimaging-07-00122-g004.jpg",
+          "width": 3825,
+          "height": 1528,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies/",
+      "publishedDateTime": "2021-08-25T01:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-energy-efficient-ai-chips-for-diagnostics.md",
+      "title": "Energy-Efficient AI Chips For Diagnostics",
+      "excerpt": "Researchers developed energy-efficient AI chips for diagnosing a common cardiac condition called atrial fibrillation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicsforu.com/tech-zone/processor-tech/energy-efficient-ai-chips-for-diagnostics",
+      "originalUrl": "https://www.electronicsforu.com/tech-zone/processor-tech/energy-efficient-ai-chips-for-diagnostics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.electronicsforu.com/wp-contents/uploads/2021/08/iis-itwm-energy-efficient-ai-chips-for-atrial-fibrillation-detection-pic-2.jpg",
+          "width": 640,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.electronicsforu.com/tech-zone/processor-tech/energy-efficient-ai-chips-for-diagnostics/amp",
+      "cdnAmpWebUrl": "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/tech-zone/processor-tech/energy-efficient-ai-chips-for-diagnostics/amp",
+      "publishedDateTime": "2021-08-24T23:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronics For You",
+        "domain": "electronicsforu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-microsoft-teams-now-teachers-can-monitor-students-reading-fluency-with-ai.md",
+      "title": "Microsoft Teams: Now teachers can monitor students' reading fluency with AI",
+      "excerpt": "Reading Progress will help teachers build students' confidence and reading fluency at a time when face-to-face contact is less frequent.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-teams-teachers-get-a-free-ai-tool-to-monitor-students-reading-fluency/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-teams-teachers-get-a-free-ai-tool-to-monitor-students-reading-fluency/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/08/25/ff85b97e-6397-4e80-9b0e-d4c6a7f94694/teams-reading-progress.jpg",
+          "width": 770,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-teams-teachers-get-a-free-ai-tool-to-monitor-students-reading-fluency/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-teams-teachers-get-a-free-ai-tool-to-monitor-students-reading-fluency/",
+      "publishedDateTime": "2021-08-24T22:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-25-alethea-ai-raises-16m-in-private-token-sale-for-intelligent-nfts-for-the-metaverse.md",
       "title": "Alethea AI raises $16M in private token sale for intelligent NFTs for the metaverse",
       "excerpt": "Alethea AI, creator of the \"intelligent NFTs,\" or iNFTs, has raised $16 million in a private token sale to a group of investors.",
@@ -1094,152 +1241,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-israels-dia-gets-14m-to-expand-ai-driven-ultrasound-analysis.md",
-      "title": "Israel’s DiA gets $14M to expand AI-driven ultrasound analysis",
-      "excerpt": "Israel-based AI healthtech company, DiA Imaging Analysis, which is using deep learning and machine learning to automate analysis of ultrasound scans, has closed a $14 million Series B round of funding.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/08/24/israels-dia-gets-14m-to-expand-ai-driven-ultrasound-analysis/",
-      "originalUrl": "https://techcrunch.com/2021/08/24/israels-dia-gets-14m-to-expand-ai-driven-ultrasound-analysis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/08/Screenshot-2021-08-24-at-16.55.57.png?w=1024",
-          "width": 1024,
-          "height": 564,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/08/24/israels-dia-gets-14m-to-expand-ai-driven-ultrasound-analysis/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/24/israels-dia-gets-14m-to-expand-ai-driven-ultrasound-analysis/amp/",
-      "publishedDateTime": "2021-08-24T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-esperanto-launches-ai-accelerator-with-over-1000-risc-v-cores.md",
-      "title": "Esperanto Launches AI Accelerator With Over 1000 RISC-V Cores",
-      "excerpt": "Accelerating ML Recommendation with over a thousand RISC-V Processors, the Esperanto ET-SoC-1 is the highest performance commercial RISC-V chip to date.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/08/24/esperanto-launches-with-1000-core-risc-v-ai-accelerator/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/08/24/esperanto-launches-with-1000-core-risc-v-ai-accelerator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611fd70be384d73d2f2ce2ad%2F0x0.jpg",
-          "width": 1200,
-          "height": 689,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/08/24/esperanto-launches-with-1000-core-risc-v-ai-accelerator/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/08/24/esperanto-launches-with-1000-core-risc-v-ai-accelerator/amp/",
-      "publishedDateTime": "2021-08-24T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-applying-artificial-intelligence-to-paint-shop-robots.md",
-      "title": "Applying Artificial Intelligence to Paint Shop Robots",
-      "excerpt": "Dürr expands it use of artificial intelligence to help automotive paint shops incorporate robots into existing operations for quality and plant availability applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.automationworld.com/analytics/article/21627143/artificial-intelligence-for-paint-shop-robots",
-      "originalUrl": "https://www.automationworld.com/analytics/article/21627143/artificial-intelligence-for-paint-shop-robots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.automationworld.com/files/base/pmmi/all/image/2021/08/image004.6125130446ab6.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
-          "width": 646,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-24T08:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation World",
-        "domain": "automationworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],
