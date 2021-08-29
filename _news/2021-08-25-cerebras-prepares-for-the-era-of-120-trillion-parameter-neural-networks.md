@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/cerebras-prepares-for-the-era-of-120-trillion-parameter-neural-networks/"
 type: article
 quality: 91
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -48,15 +48,6 @@ related:
         width: 1068
         height: 601
         isCached: true
-  - title: "Cerebras Systems Announces World’s First Brain-Scale Artificial Intelligence Solution"
-    excerpt: "Cerebras Systems, the pioneer in innovative compute solutions for Artificial Intelligence (AI), today unveiled the world’s first brain-scale AI solution. The human brain contains on the order of 100 trillion synapses."
-    publishedDateTime: 2021-08-24T23:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210824005644/en/Cerebras-Systems-Announces-World’s-First-Brain-Scale-Artificial-Intelligence-Solution"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 29
   - title: "Cerebras Systems Announces World's First Brain-Scale Artificial Intelligence Solution"
     excerpt: "Technology Breakthroughs Enable Training of 120 Trillion Parameters on Single CS-2, Clusters of up to 163 Million Cores with Near Linear Scaling, Push Button Cluster Configuration, Unprecedented Spars"
     publishedDateTime: 2021-08-26T12:45:00Z

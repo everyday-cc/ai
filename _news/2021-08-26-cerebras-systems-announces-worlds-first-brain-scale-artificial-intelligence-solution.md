@@ -51,15 +51,6 @@ related:
         width: 1068
         height: 601
         isCached: true
-  - title: "Cerebras Systems Announces World’s First Brain-Scale Artificial Intelligence Solution"
-    excerpt: "Cerebras Systems, the pioneer in innovative compute solutions for Artificial Intelligence (AI), today unveiled the world’s first brain-scale AI solution. The human brain contains on the order of 100 trillion synapses."
-    publishedDateTime: 2021-08-24T23:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210824005644/en/Cerebras-Systems-Announces-World’s-First-Brain-Scale-Artificial-Intelligence-Solution"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 29
 
 secured: "Sdz/rR4pUGE/aCEt4b+c+2u54sPax6VhQ+6sxKksOzteF85p32b6A7RC6oofHj+kkzdbmnDSk8O+EbX1MTJbWqZdwOO8P7Ge1mt0WIRxSpUXinlbjI+f6u7D3G0+IkH5FVhyzrfxEezrdbOu+rKiJhaTfuqXXQJ6MZ1YZol+qdhyVHJKYStmAsCYMOPmWf2F9eZ6ftQDTSzIrHQ8bRRQfbUwHVv/XfXFvFTXJntArPm6M9D+cYM7tuHpQ3UDwxfIquvXZ2/fD16if3hmHDzQ4zBYn8SFhu5wlAuzcG2VPhi6zSIQwWJIjJfA1usRK1lvSY+/X5uyDMAd+n2of+otlBjEShesdYQXaWdcKnS/3XA=;az3w4cRQx2tDXHM/+C24gw=="
 ---

@@ -307,6 +307,22 @@ related:
         width: 1200
         height: 677
         isCached: true
+  - title: "Toyota shuts down self-driving vehicles after car crashes into Paralympian at Tokyo Olympic Village"
+    excerpt: "A day after a self-driving vehicle hit a visually impaired athlete at the Paralympics, Toyota has paused the program entirely. The Toyota e-Palette struck the athlete, identified by the Japan Times as 30-year-old judoka Aramitsu Kitazono, as he was ..."
+    publishedDateTime: 2021-08-29T15:32:00Z
+    webUrl: "https://www.nydailynews.com/news/world/ny-toyota-self-driving-car-tokyo-olympic-village-paralympics-20210829-r2zdaidxnvauhg5zxqklrpsgmu-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/world/ny-toyota-self-driving-car-tokyo-olympic-village-paralympics-20210829-r2zdaidxnvauhg5zxqklrpsgmu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/world/ny-toyota-self-driving-car-tokyo-olympic-village-paralympics-20210829-r2zdaidxnvauhg5zxqklrpsgmu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 30
+    images:
+      - url: "https://www.nydailynews.com/resizer/t3meB-pkdJa2aVSf8_QunQYnAsQ=/1200x0/right/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/3QBF6J4NHVC25NG5U6WDULKUBY.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Tokyo Paralympics: Judoka Aramitsu Kitazono Withdraws After Being Hit by Self-Driving Bus in Village"
     excerpt: "The incident took place on Thursday afternoon when the automated electric vehicle, called an e-Palette and developed by Toyota, struck Kitazono after turning right into a pedestrian crossing."
     publishedDateTime: 2021-08-28T09:52:00Z
@@ -352,6 +368,6 @@ related:
         height: 338
         isCached: true
 
-secured: "xKmZ4jOGSxHcF4gfFbv9kvf5h1D6aVp9wUW7O2cda5PYENcI6cjmvjsr3tinEv6e1Ot1Ekd+l0m4GuvmhCcIkS78R1WnkW4t8+FpYbiioEuUQfGfKl/YFsEcFtYt1pBKfZExKeUPa5aPxSDIiUmx8ZWBM6F5h45rCf3ZL4tjxvyXkEEQfraS5qfcuEisfFyGa0MTnNP3iqrVlMNJgjXm4HketvH+TP9dthdZVthAztLGPMxyu629CgLlVQiaQfsm2JhxJt0guKQvqn2pMqIWaP12FaSWXtufhLAIgcSeZ2EI5Zis9Q7Iagg3vpvo3wjY7/HvHiXjAuKx87PiOBYdEyeld3lMFx+CQPD/hExW8as=;ovKObsKXID/j1xhO5LTWjQ=="
+secured: "B74ugKK0JAEyQW0uiFHOqHIWFIH+u6QPCWMUA8TR7hjK9lzRZLwvLzmpBe/MAKI1/f48YMluIYtASK7XAcQGF5qS8ex6s9+d2t2UiThAN67Os9sEPcxxrUxxgUK5OZ9aMSXT8VMln8j1Ghu9+bLkH8kJArhPIUhL4UukBq/OZVxQEqoQ1NsE5DiyIiOOx2Yw+b9IEjE8Iz1y9rVDJwcNNxZB2PAmY2J2Z13mWvKt5Cm8I5fe3i9l1VHufkIwNWhff2RJ9Y9nhPk9qcdIYR4MQ9IayeV/oH2ksvKpQloyXySyRt1IYug8nzggLXW7AcaBBdLuzBOVnOaP8e1zthhu7ZtDXzfkHykO8Ijwc0wmYQ2UAyktfX8jdDT0GbOlWrg/eSeUzcIUnB+xEGM9iz2GolKr3Eqporz/3BTObMEustA0hPTh/pBWL6gUjg4dz99STJ/YHtTkyNIDSUa1davKZQUFYyKhF5ot1M13hpCGNBy/BTrWZhiDBXVkLgCTQT0SlwSaA7mUbbKXsnyg02ygtQ==;jnRnADxM9L/PiM49Lzp2cw=="
 ---
 

@@ -73,6 +73,20 @@ related:
         width: 1024
         height: 439
         isCached: true
+  - title: "How enabling data and AI at scale will transform your organization"
+    excerpt: "CIO’s, CDO’s and other data and technology leaders have realized that their legacy IT platforms are unable to scale and meet the increasing demands for better analytics and AI. As a result, they are looking to transform how their organizations use and ..."
+    publishedDateTime: 2021-08-29T08:32:00Z
+    webUrl: "https://www.computerworld.com/resources/223228/how-enabling-data-and-ai-at-scale-will-transform-your-organization"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 37
+    images:
+      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "w/+/5ZgylGJwMLAgXmIukLMBju5WdXNbD16FlH+jObur6SDr8uVIPg8A8JbQpq1ahxHRO+xp212Te+V+zQNyuvKyOsqdHzh0v7IFUriJd6396q/f7VP2A9hqNL41Rfzx7kaeDdvuuBcLbkIoygkjQrjFSYZG/+CrUO5FzNxD5MEGNycCSmcRBEaI+EbITayQHMMCrGi0UxphD3GF19It2g7lzqww1KPjlk00wT43AV34mSajx4ziEQWN4xXtwrcXVwumIm4guBnGaLzZpiNPbkN59tvCwYN9MqERrsNF3/S3r6K1KJmBy26W+irq4qm+jvqLnkpUWd/ABZOgX2Y4cVx0dWcBm+UIJtKADOc8uB4=;rfQ3AUvZxqqBgsvnwrrIPA=="
 ---

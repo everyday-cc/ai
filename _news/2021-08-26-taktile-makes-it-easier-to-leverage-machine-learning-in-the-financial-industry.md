@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/08/25/taktile-makes-it-easier-to-leverag
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/25/taktile-makes-it-easier-to-leverage-machine-learning-in-the-financial-industry/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://www.finextra.com/finextra-images/top_pics/xl/berlin.jpg"
         width: 480
         height: 270
+        isCached: true
+  - title: "Exclusive: Taktile May Be the Financial Industry’s New Favorite Company"
+    excerpt: "Machine learning has gained attention for its potential to improve financial products. Industry leaders are eager to implement machine learning in their companies, but it creates a steep learning curve with little reward."
+    publishedDateTime: 2021-08-26T08:20:00Z
+    webUrl: "https://bestgamingpro.com/taktile-may-be-the-financial-industrys-new-favorite-company/"
+    type: article
+    provider:
+      name: bestgamingpro
+      domain: bestgamingpro.com
+    quality: 24
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2021/08/tektile.png"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "Fo3Jj2YJh+NzFNhcv2sZaMl8QMxupFA0R+UCgK5wa1JB8ZIJvAW9GU/CnxiXT8grcJzTLBaByHC8U0maVmkJSmonv22AQzH0Ur/9sZp5iEqRr1tXamS+Y02Y9qOP6YukcHNRJVVJ1t8Y6mFxbOcAR0JG1wqxLdjdVwtNJewLiM7q3K/FD6wWGlXA0oJpYWfw4Q3I+2MoCDluYlpCqBUjRN6xaxMn+nelm5v6ey8TaYqdsotup4VVHng0SvXUuUrztLdDyr5FJYlBZ8IG31YQWEvNCjzejRKzK59GKwJ5fNFfKkSadzfgpUjxtMXjPVXerwi5UvenEeehBCAubUnJ7lpUrTLAjK8oArRiRWR90Wnj77wKYo3AwBkhNG1htLm3EbSNllnJcaqqbabLTkuZOYmQdaekjSTW0xaMHIS7AhoNS/tmWbJswPjSnlqkNke8wk55U/uefbtR68ygA3cVZcA/nO4TNodZ2Ec17eSj3n6DaVCQ7thkwp8Kv8htsiiNS1uWPzcjToCSbEdSItysAQ==;P+Bp3nerVl7DvARaXBUuBg=="

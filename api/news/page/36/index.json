@@ -2,6 +2,50 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2021-08-03-machine-learning-as-a-service-mlaas.md",
+      "title": "Machine Learning as a Service (MlaaS)",
+      "excerpt": "The Global Machine Learning as a Service (MlaaS) Market study report ... The report covers the market by elaborating the technology dynamics, financial position, growth strategy, product portfolio ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2345234/machine-learning-as-a-service-mlaas-market-latest",
+      "originalUrl": "https://www.openpr.com/news/2345234/machine-learning-as-a-service-mlaas-market-latest",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/8/U803835557_g.jpg",
+          "width": 698,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2345234/machine-learning-as-a-service-mlaas-market-latest",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2345234/machine-learning-as-a-service-mlaas-market-latest",
+      "publishedDateTime": "2021-08-03T06:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-open-source-face-recognition-application-compreface-adds-new-features.md",
       "title": "Open Source Face Recognition Application CompreFace Adds New Features",
       "excerpt": "Exadel (  ), a software engineering company that delivers digital platforms, products and applications, today announced updates to CompreFace, an open source face recognition application. Since its launch in November 2020,",
@@ -1124,49 +1168,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-high-performance-stereo-computer-vision-for-the-raspberry-pi.md",
-      "title": "High Performance Stereo Computer Vision For The Raspberry Pi",
-      "excerpt": "Up until now, running any kind of computer vision system on the Raspberry Pi has been rather underwhelming, even with the addition of products such as the Movidius Neural Compute Stick.",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2019/08/03/high-performance-stereo-computer-vision-for-the-raspberry-pi/",
-      "originalUrl": "https://hackaday.com/2019/08/03/high-performance-stereo-computer-vision-for-the-raspberry-pi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2019/07/luxonis_10.jpg",
-          "width": 3278,
-          "height": 2458,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

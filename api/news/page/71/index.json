@@ -2,6 +2,58 @@
   "page": 71,
   "value": [
     {
+      "path": "_news/2021-07-09-new-ml-based-console-cheat-puts-the-ai-in-aim-assist.md",
+      "title": "New ML-based console cheat puts the AI in ‘aim assist’",
+      "excerpt": "Cheaters, cheaters everywhere -- even on consoles. A new AI paradigm threatens the competitive gaming community. But how big is the threat really?",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/new-ml-console-cheat-ai-aim-assist",
+      "originalUrl": "https://thenextweb.com/news/new-ml-console-cheat-ai-aim-assist",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2Faimbot.jpg&signature=84f5774ee0da6bc6b19da15606217097",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-08T12:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-07-09-us-air-force-pilots-get-an-artificial-intelligence-assist-with-scheduling-aircrews.md",
       "title": "US Air Force pilots get an artificial intelligence assist with scheduling aircrews",
       "excerpt": "An optimization tool from the Department of Air Force–MIT AI Accelerator is transforming the laborious process of staffing C-17 cargo flights. Take it from U.S. Air Force Captain Kyle McAlpin when he says that scheduling C-17 aircraft crews is a headache.",
@@ -1097,49 +1149,6 @@
         "Computer Vision",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-hot-topics-and-emerging-trends-in-data-science.md",
-      "title": "Hot topics and emerging trends in data science",
-      "excerpt": "We gauged the perspectives of experts in data science, asking them about the biggest emerging trends in data science",
-      "sourceUrl": null,
-      "webUrl": "https://www.information-age.com/emerging-trends-in-data-science-123495952/",
-      "originalUrl": "https://www.information-age.com/emerging-trends-in-data-science-123495952/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s27389.pcdn.co/wp-content/uploads/2021/07/data-science-predictions-for-near-future.jpeg",
-          "width": 1080,
-          "height": 612,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-08T01:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Information Age",
-        "domain": "information-age.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

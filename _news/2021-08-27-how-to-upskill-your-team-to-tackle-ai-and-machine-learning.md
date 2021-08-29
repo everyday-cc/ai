@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/27/how-to-upskill-your-team-to-tackl
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/27/how-to-upskill-your-team-to-tackle-ai-and-machine-learning/amp/"
 type: article
 quality: 106
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -77,6 +77,20 @@ related:
       - url: "https://rh.gatech.edu/sites/default/files/styles/740x416/public/images/mercury/brian_magerko_preferred_websized_169.jpg"
         width: 740
         height: 416
+        isCached: true
+  - title: "How enabling data and AI at scale will transform your organization"
+    excerpt: "CIO’s, CDO’s and other data and technology leaders have realized that their legacy IT platforms are unable to scale and meet the increasing demands for better analytics and AI. As a result, they are looking to transform how their organizations use and ..."
+    publishedDateTime: 2021-08-29T08:32:00Z
+    webUrl: "https://www.computerworld.com/resources/223228/how-enabling-data-and-ai-at-scale-will-transform-your-organization"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 37
+    images:
+      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+        width: 300
+        height: 300
         isCached: true
 
 secured: "db3uLcDojZMZqA2cmg2OeCn/Gv7q2tq8Q8o03h9q7k2vG0WtqnqdjQUu5BprAsAwNmIcx024Bj6hY/jyNnCpJWSXVko14Kv8605/XjIfVK9RY+GSHX2UojBs7F56/Q5ylONDJBuNXyWPnChSC02DUdt+uewRSFi86Z/W4vxNooLio7UguM05fLsVN6w1e5Uppt+oCvI2xD3ScYhzKQqmApmiraOaezq0w+zvDLm02cAznh9J7Mj1dFwO1fwC7stulYzqyrPYzHmpnYHSmu4LZ+L+JZyh/bKN+Q7w7GoyC9i8JO2mtJnZn1mLM/BY1UXe7TqbRX+RrrxGhDA2ddXRDc7v0wJBWXdjG5UiHkePqDhLEJBcwpKzJlNV0A20Gy6wEY95YJ6Bn5BQUan4GfC0/p59GmSln1lzvC5tLXwvWxE+IMS3F4K7bp7HWjSTmadcMG/HMCqv05IEYvVsiLbsqxReBmFsc3wkiYSjnym0TOJpCZrzbdzKX13aqq8d+mJw35wFxJ3Sd3zVR3D/gvP6Zg==;/Fm99jcQzPby6cZGULkOrw=="

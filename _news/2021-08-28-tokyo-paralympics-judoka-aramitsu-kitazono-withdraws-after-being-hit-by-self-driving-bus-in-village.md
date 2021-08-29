@@ -307,6 +307,22 @@ related:
         width: 1200
         height: 677
         isCached: true
+  - title: "Toyota shuts down self-driving vehicles after car crashes into Paralympian at Tokyo Olympic Village"
+    excerpt: "A day after a self-driving vehicle hit a visually impaired athlete at the Paralympics, Toyota has paused the program entirely. The Toyota e-Palette struck the athlete, identified by the Japan Times as 30-year-old judoka Aramitsu Kitazono, as he was ..."
+    publishedDateTime: 2021-08-29T15:32:00Z
+    webUrl: "https://www.nydailynews.com/news/world/ny-toyota-self-driving-car-tokyo-olympic-village-paralympics-20210829-r2zdaidxnvauhg5zxqklrpsgmu-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/world/ny-toyota-self-driving-car-tokyo-olympic-village-paralympics-20210829-r2zdaidxnvauhg5zxqklrpsgmu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/world/ny-toyota-self-driving-car-tokyo-olympic-village-paralympics-20210829-r2zdaidxnvauhg5zxqklrpsgmu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 30
+    images:
+      - url: "https://www.nydailynews.com/resizer/t3meB-pkdJa2aVSf8_QunQYnAsQ=/1200x0/right/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/3QBF6J4NHVC25NG5U6WDULKUBY.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Toyota suspends use of self-driving vehicle in Olympic Village after collision with Paralympic athlete"
     excerpt: "Toyota's CEO on Friday apologized in a video posted to YouTube after one of the company's self-driving vehicles hit the athlete while driving at 1 to 2 kilometers per hour around the Olympic Village in Tokyo."
     publishedDateTime: 2021-08-27T21:40:00Z

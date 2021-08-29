@@ -1,12 +1,12 @@
 ---
 category: news
 title: "IBM announces new tennis power rankings, fantasy tennis teams and more ahead of US Open"
-excerpt: "IBM unveiled a slate of new AI-powered tools on Friday centered around the US Open, which kicks off in New York City on Monday. Tennis fans will have a bevy of new match and player information available to them thanks to IBM,"
-publishedDateTime: 2021-08-27T08:51:00Z
-originalUrl: "https://www.zdnet.com/index.php/article/ibm-announces-new-tennis-power-rankings-fantasy-tennis-teams-and-more-ahead-of-us-open/"
-webUrl: "https://www.zdnet.com/index.php/article/ibm-announces-new-tennis-power-rankings-fantasy-tennis-teams-and-more-ahead-of-us-open/"
-ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/ibm-announces-new-tennis-power-rankings-fantasy-tennis-teams-and-more-ahead-of-us-open/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/ibm-announces-new-tennis-power-rankings-fantasy-tennis-teams-and-more-ahead-of-us-open/"
+excerpt: "IBM unveiled a slate of new AI-powered tools on Friday centered around the US Open, which kicks off in New York City on Monday. Tennis fans will have a bevy of new match and player information ..."
+publishedDateTime: 2021-08-27T16:01:00Z
+originalUrl: "https://www.zdnet.com/index.php/category/2248/7/index.php/article/ibm-announces-new-tennis-power-rankings-fantasy-tennis-teams-and-more-ahead-of-us-open/"
+webUrl: "https://www.zdnet.com/index.php/category/2248/7/index.php/article/ibm-announces-new-tennis-power-rankings-fantasy-tennis-teams-and-more-ahead-of-us-open/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2248/7/index.php/google-amp/article/ibm-announces-new-tennis-power-rankings-fantasy-tennis-teams-and-more-ahead-of-us-open/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2248/7/index.php/google-amp/article/ibm-announces-new-tennis-power-rankings-fantasy-tennis-teams-and-more-ahead-of-us-open/"
 type: article
 quality: 66
 heat: 86
@@ -60,6 +60,6 @@ related:
         height: 840
         isCached: true
 
-secured: "hq1vqUqCzYO5ihbN+Vgv+bKAEUFuAoyKiAChnmWuI2SthEsHjLJbV0038i7h6/8FMrxaWAL46Sk5Bgr+3qGbE+CjvLgzm1Pavu8xqYQ+pgLCEVWYDEHZH7y7FvylWJH0fiH5Vk+Lv3Zw5uSueM7xRv8Z7hfJYUVm5qif6y+WeEiATtKIrPrU7P5jcGz8b2cTuc0RteJ0+nHT1drH6CrtttGhfe0Wggt8oKD0taPG8xMyEVZwdUPkmuR4zI1H7QrknpQGv3Irv8y8B5KkGHYQ5PmaDC+47Pyec5mJytGj4AyXMxTG0MSan6+UFn3v7rAZ+cjgajIo1yfJMdh3eIGF8FFiRxr7MXtbL6p+i5RBaiQ=;Y20Tzw++ptBUtRumWorvVg=="
+secured: "tqaTdDSxPUYFLN0SUBgT7sw0x5nknhXVSPD+S592Tnfun57GmMc0bnjypg5EHU3N6tL8Woe4WBFUfN4xfw1vurpsQfr6jnWbytdo8zqvksbEAIh+FBvmNBPwqNZa72oG8EVKYo1n1XZYkKWG3NAAO7oc6vv8VTDBnhxGnb9t26EtBg7IrkQOqqjr1ZwR7Vinc7s6O//FwLhT8AKD5WGkb4ue4hPfXhuGd/Dp+ibXtWSQXjIcoKqH0Cgfeb2owQofUjyOscUN+DAxKjeeAqQyNXfUWuu8VosWlKekc/HvSfXS/dM7PJI8ZgiliA5k4GAbT0SiE5ClJK/zQPmQ+IR4qYBDo7Nw7N5nOodiSHb1h5Q=;fAiKR87xAnv3XZE5eym34g=="
 ---
 

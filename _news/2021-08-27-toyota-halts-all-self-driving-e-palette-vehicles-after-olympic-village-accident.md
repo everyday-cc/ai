@@ -7,7 +7,7 @@ originalUrl: "https://money.usnews.com/investing/news/articles/2021-08-27/toyota
 webUrl: "https://www.reuters.com/business/autos-transportation/toyota-halts-all-self-driving-e-pallete-vehicles-after-olympic-village-accident-2021-08-27/"
 type: article
 quality: 148
-heat: 358
+heat: 368
 published: true
 
 provider:
@@ -293,6 +293,22 @@ related:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-a0e0e4099994406cfe0dcb161ec7565a-h-e209b227e66925b2d5393382665e3467-1630170227.jpg?crop=1.00xw:0.846xh;0,0.100xh&resize=1200:*"
         width: 1200
         height: 677
+        isCached: true
+  - title: "Toyota shuts down self-driving vehicles after car crashes into Paralympian at Tokyo Olympic Village"
+    excerpt: "A day after a self-driving vehicle hit a visually impaired athlete at the Paralympics, Toyota has paused the program entirely. The Toyota e-Palette struck the athlete, identified by the Japan Times as 30-year-old judoka Aramitsu Kitazono, as he was ..."
+    publishedDateTime: 2021-08-29T15:32:00Z
+    webUrl: "https://www.nydailynews.com/news/world/ny-toyota-self-driving-car-tokyo-olympic-village-paralympics-20210829-r2zdaidxnvauhg5zxqklrpsgmu-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/world/ny-toyota-self-driving-car-tokyo-olympic-village-paralympics-20210829-r2zdaidxnvauhg5zxqklrpsgmu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/world/ny-toyota-self-driving-car-tokyo-olympic-village-paralympics-20210829-r2zdaidxnvauhg5zxqklrpsgmu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 30
+    images:
+      - url: "https://www.nydailynews.com/resizer/t3meB-pkdJa2aVSf8_QunQYnAsQ=/1200x0/right/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/3QBF6J4NHVC25NG5U6WDULKUBY.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Tokyo Paralympics: Judoka Aramitsu Kitazono Withdraws After Being Hit by Self-Driving Bus in Village"
     excerpt: "The incident took place on Thursday afternoon when the automated electric vehicle, called an e-Palette and developed by Toyota, struck Kitazono after turning right into a pedestrian crossing."

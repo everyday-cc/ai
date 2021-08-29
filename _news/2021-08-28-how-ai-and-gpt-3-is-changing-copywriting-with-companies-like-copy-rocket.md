@@ -42,20 +42,6 @@ related:
         width: 800
         height: 503
         isCached: true
-  - title: "Synopsys CEO’s Opening Keynote At Hot Chips Outlines Future Vision Of AI-Driven Chip Design"
-    excerpt: "Synopsys’ latest AI-driven design tools have moved beyond assisting with place-and-route, to now aiding in some aspects of architectural design and software interactions."
-    publishedDateTime: 2021-08-24T22:36:00Z
-    webUrl: "https://www.forbes.com/sites/marcochiappetta/2021/08/24/synopsys-ceos-opening-keynote-at-hot-chips-outlines-future-vision-of-ai-driven-chip-design/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6125726db3f93198be757638%2F0x0.jpg"
-        width: 1200
-        height: 753
-        isCached: true
 
 secured: "EvA5LzWEDLEJl4iW/CdJr8MQDJKpPaMQMavW9eUWG60W6AVlTjE7Q031YUU2+GwrF9TkxF8PD0jAamDHY/1rq6dikVknhL8/q3jEViZUTA3KRGbPKUtdEvh7FBPZMV9sGsV6JAInQ2Axrm2uvLRFtSFv29FBHJ0MD+9QwDKYy19Xf80RurtBZekCKBSt4QHjMZ4AjVPKU58SWzRv9SH9qy0dTf7vgcPQs2Q/Ea4pZIljVAugO2JaWMgGCYb7DQ1l7YNqD9orC5NIIh4sbXGhPy5QjNcKQs1lGw6XFH/Xw5dBb0Vix2JvwZnScbomve787BcRBYQaNxFPdhaCiQ6oceKUM+Rd2YUnv4uNkq2u8/c=;JEt/fv6GmD1fv+GDXrbHXA=="
 ---
