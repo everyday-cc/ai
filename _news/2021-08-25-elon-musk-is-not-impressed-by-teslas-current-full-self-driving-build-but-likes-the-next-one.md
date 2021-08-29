@@ -79,20 +79,6 @@ related:
         width: 1024
         height: 555
         isCached: true
-  - title: "Musk turns on Tesla’s latest Full Self-Driving beta, says it’s “actually not great”"
-    excerpt: "If you haven’t been impressed with what you’ve seen of Tesla’s latest Full Self-Driving beta, version 9.2, you’re not alone. CEO Elon Musk agrees. “FSD Beta 9.2 is actually not great imo ..."
-    publishedDateTime: 2021-08-24T15:56:00Z
-    webUrl: "https://arstechnica.com/cars/2021/08/musk-turns-on-teslas-latest-full-self-driving-beta-says-its-actually-not-great/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 63
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2018/05/GettyImages-855377492-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
   - title: "Tesla's Full Self-Driving system 'not great,' admits Musk"
     excerpt: "Tesla CEO Elon Musk has admitted that the Full Self-Driving system is not that great, adding that the company is trying for a"
     publishedDateTime: 2021-08-25T07:06:00Z
@@ -124,22 +110,6 @@ related:
       - url: "https://thedriven.io/wp-content/uploads/2021/06/fsd-beta-tesla.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Elon Musk Says Tesla's FSD Beta 9.2 Self-Driving Software Is ‘Not Great’"
-    excerpt: "Tesla - Get Report CEO Elon Musk admits that the company’s beta self-driving software is ‘not great.’ On Monday, Musk tweeted saying that Full Self-Driving (FSD) Beta 9.2 is"
-    publishedDateTime: 2021-08-24T15:32:00Z
-    webUrl: "https://www.thestreet.com/latest-news/musk-tesla-fsd-beta-self-driving-software-not-great"
-    ampWebUrl: "https://www.thestreet.com/.amp/latest-news/musk-tesla-fsd-beta-self-driving-software-not-great"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/latest-news/musk-tesla-fsd-beta-self-driving-software-not-great"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 58
-    images:
-      - url: "https://www.thestreet.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTgzMjgyNDUwMzA1MTMxNTU4/tesla.jpg"
-        width: 620
-        height: 349
         isCached: true
   - title: "Elon Musk Admits That Tesla’s Full Self-Driving Is “Not Great”"
     excerpt: "But I guess I’ve been spoiled by watching what Tesla has been doing with the Full Self Driving (FSD) Beta. That is really impressive.” The video also caught the attention of Tesla CEO Elon Musk, who — surprisingly — downplayed Tesla’s progress."

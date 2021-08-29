@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Consumers question AI-driven insurance claims review"
-    excerpt: "According to a survey by Policygenius, consumers are reluctant to trust black-box AI systems that make insurance policy decisions."
-    publishedDateTime: 2021-08-24T16:55:00Z
-    webUrl: "https://venturebeat.com/2021/08/24/consumers-question-ai-driven-insurance-claims-review/"
-    ampWebUrl: "https://venturebeat.com/2021/08/24/consumers-question-ai-driven-insurance-claims-review/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/24/consumers-question-ai-driven-insurance-claims-review/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?fit=800%2C414&strip=all"
-        width: 800
-        height: 400
-        isCached: true
 
 secured: "MkBJJsTSVhoascf7tQ1lZMpMWpgsvTY7EfI78/TQjtUD2ZMKe3d8TYFixgJnqZ7+8UV1XkTXw5SGNzpss7lfCruqwN/kVgMbT4NpBgyhPD0XU9kw8GfUTW2SE3x9Xa1MRfZpitMGLDI6zKL935IQwzzWCwe81ahU1nsosgLo03rpmF36PMqE6oGzfzaC4cIiMSY7BN98ZKF7qgpgJuZVDmgaMA3hYMw8OOljy0Ya6tpZ5yOyA9/QmMnJzLrX2Y3z1XDj9niPCTfVsk9BYNFdGrRJbMgpi21+GDie58+uKMA2qaTR7iSX85ketnBbSklUMyNvAjP5jBsMzu4vR3huQxVxd+B2pGm05xU9yMCSHGyaLW4XJgXfxqbgBSxmcZxmVBgcCn5EgdluQ4mxh71xMHt71QsMQxfVxFIa1TMhTd4XJHf1CiCIPRKn27Q0HeiHlEJFnMbHz5ho3WIOeABtvlWV7FBDRDafA/bsu9nT0hIErIGyvWgDlNLw5NTTpIUYS9O3oMj3aqHOnWw1/rlOiQ==;YKTu8TCh4vwROjUapD6s7g=="
 ---

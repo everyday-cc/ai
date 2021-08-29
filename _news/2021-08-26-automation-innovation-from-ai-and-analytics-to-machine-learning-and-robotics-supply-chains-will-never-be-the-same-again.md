@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI-Powered Video Analytics Make Cities More Livable"
-    excerpt: "Find out how AI-based video analytics are changing everything, and the importance of high accuracy in an AI-based vision system like Uncanny Vision."
-    publishedDateTime: 2021-08-24T16:30:00Z
-    webUrl: "https://www.infoworld.com/resources/223285/ai-powered-video-analytics-make-cities-more-livable"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 67
-    images:
-      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
-        width: 300
-        height: 300
-        isCached: true
   - title: "How The United States Army Is Leveraging AI: Interview With Kristin Saling, Chief Analytics Officer & Acting Dir., Army People Analytics"
     excerpt: "To remain competitive, the US Army has created the Army Talent Management Task Force to address the current and future needs of the war fighter. LTC Saling shares her insights into how analytics, automation,"
     publishedDateTime: 2021-08-28T05:00:00Z
@@ -159,20 +145,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "A $28.4 Billion Global Opportunity for Cognitive Analytics by 2026 - New Research from StrategyR"
-    excerpt: "A new market study published b Inc., (GIA) the premier market research company, today released its report titled \"Cognitive Analytics"
-    publishedDateTime: 2021-08-24T15:40:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/a-28-4-billion-global-opportunity-for-cognitive-analytics-by-2026---new-research/article_f3667170-a840-525d-b39e-70f58b7ce4e2.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 11
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/7/ca/7ca68c5b-9b95-5222-b3e6-dc6506bc6976/61251435c0d9d.image.jpg?resize=931%2C630"
-        width: 931
-        height: 630
         isCached: true
   - title: "A $28.4 Billion Global Opportunity for Cognitive Analytics by 2026 - New Research from StrategyR"
     excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Cognitive Analytics - Global Market Trajectory & Analytics\"."

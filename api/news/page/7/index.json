@@ -2,6 +2,127 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-08-24-accountants-best-placed-to-lead-ethical-ai-use-ca-anz-acca.md",
+      "title": "Accountants best placed to lead ethical AI use: CA ANZ, ACCA",
+      "excerpt": "As trusted advisers with a high professional regard for ethics, accountants should be tasked with leading the charge on the ethical adoption of artificial intelligence, peak bodies say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.accountantsdaily.com.au/business/16072-accountants-best-placed-to-lead-ethical-ai-use-ca-anz-acca",
+      "originalUrl": "https://www.accountantsdaily.com.au/business/16072-accountants-best-placed-to-lead-ethical-ai-use-ca-anz-acca",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.accountantsdaily.com.au/images/articleimages-391x261/850x492/Helen-Brand_Ainslie-van-Onselen_ad.jpg",
+          "width": 850,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.accountantsdaily.com.au/business/16072-accountants-best-placed-to-lead-ethical-ai-use-ca-anz-acca/amp",
+      "cdnAmpWebUrl": "https://www-accountantsdaily-com-au.cdn.ampproject.org/c/s/www.accountantsdaily.com.au/business/16072-accountants-best-placed-to-lead-ethical-ai-use-ca-anz-acca/amp",
+      "publishedDateTime": "2021-08-23T17:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "accountantsdaily.com.au",
+        "domain": "accountantsdaily.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-wpp-acquires-ai-technology-company-satalia.md",
+      "title": "WPP acquires AI-technology company Satalia",
+      "excerpt": "WPP has announced the acquisition of Satalia, a technology company offering AI solutions for clients. The full announcement is below.The announcement:Satalia is a global leader in enterprise AI and one of the UK’s fastest-growing tech companies,",
+      "sourceUrl": null,
+      "webUrl": "https://mumbrella.com.au/wpp-acquires-ai-technology-company-satalia-699700",
+      "originalUrl": "https://mumbrella.com.au/wpp-acquires-ai-technology-company-satalia-699700",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mumbrella.com.au/wp-content/uploads/2021/08/WPP-1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mumbrella.com.au/wpp-acquires-ai-technology-company-satalia-699700/amp",
+      "cdnAmpWebUrl": "https://mumbrella-com-au.cdn.ampproject.org/c/s/mumbrella.com.au/wpp-acquires-ai-technology-company-satalia-699700/amp",
+      "publishedDateTime": "2021-08-23T15:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mumbrella",
+        "domain": "mumbrella.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-etf-industry-vet-sharon-french-joins-fintech-platform-tifin.md",
+      "title": "ETF Industry Vet Sharon French Joins Fintech Platform, TIFIN",
+      "excerpt": "In a move that underscores the increasing importance of distribution in the ETF industry, financial industry veteran Sharon French recently joined emerging ETF and mutual fund platform TIFIN. TIFIN is a fintech platform designed to assist asset managers with their digital distribution strategy via artificial intelligence and machine learning software.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/etf-industry-vet-sharon-french-joins-fintech-platform-tifin-2021-08-23",
+      "originalUrl": "https://www.nasdaq.com/articles/etf-industry-vet-sharon-french-joins-fintech-platform-tifin-2021-08-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/etf-industry-vet-sharon-french-joins-fintech-platform-tifin-2021-08-23?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/etf-industry-vet-sharon-french-joins-fintech-platform-tifin-2021-08-23?amp",
+      "publishedDateTime": "2021-08-23T14:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-08-24-how-ai-will-reshape-software-development.md",
       "title": "How AI will reshape software development",
       "excerpt": "The first area to face a new AI-driven operating paradigm may be the one that created AI in the first place: software development.",
@@ -1103,161 +1224,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-10-key-questions-every-company-should-ask-before-using-ai.md",
-      "title": "10 Key Questions Every Company Should Ask Before Using AI",
-      "excerpt": "If AI technology and machine learning (ML) were parents, deep learning (DL) would be their most successful child, the one who learns from its own mistakes and makes better decisions than the neural networks of generations before.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/23/10-key-questions-every-company-should-ask-before-using-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/23/10-key-questions-every-company-should-ask-before-using-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f05f072ff71780006617f7e%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/23/10-key-questions-every-company-should-ask-before-using-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/23/10-key-questions-every-company-should-ask-before-using-ai/amp/",
-      "publishedDateTime": "2021-08-23T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-are-these-the-hidden-deepfakes-in-the-anthony-bourdain-movie.md",
-      "title": "Are These the Hidden Deepfakes in the Anthony Bourdain Movie?",
-      "excerpt": "Pindrop, which makes software to identify synthetic audio, found three clips totaling 50 seconds in the nearly 2-hour movie.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/these-hidden-deepfakes-anthony-bourdain-movie/",
-      "originalUrl": "https://www.wired.com/story/these-hidden-deepfakes-anthony-bourdain-movie/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/612021dcb557151ead78981c/master/pass/Business-Anthony-Bourdain-Deepfakes-2G4M7XT-(1).jpg",
-          "width": 2341,
-          "height": 1317,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/these-hidden-deepfakes-anthony-bourdain-movie/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/these-hidden-deepfakes-anthony-bourdain-movie/amp",
-      "publishedDateTime": "2021-08-23T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-synopsys-ceo-ai-designed-chips-will-generate-1000x-performance-in-10-years.md",
-      "title": "Synopsys CEO: AI-designed chips will generate 1,000X performance in 10 years",
-      "excerpt": "AI-designed chips are producing could lead to 1,000 times better performance for chips in the next decade, says Synopsys CEO Aart de Geus.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/23/synopsys-ceo-ai-designed-chips-will-generate-1000x-performance-in-10-years/",
-      "originalUrl": "https://venturebeat.com/2021/08/23/synopsys-ceo-ai-designed-chips-will-generate-1000x-performance-in-10-years/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/syn-2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 662,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/23/synopsys-ceo-ai-designed-chips-will-generate-1000x-performance-in-10-years/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/23/synopsys-ceo-ai-designed-chips-will-generate-1000x-performance-in-10-years/amp/",
-      "publishedDateTime": "2021-08-23T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

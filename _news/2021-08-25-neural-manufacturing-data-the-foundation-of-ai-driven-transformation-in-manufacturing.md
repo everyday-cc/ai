@@ -41,20 +41,6 @@ related:
         width: 1249
         height: 794
         isCached: true
-  - title: "AI/Human Augmentation: How AI & Humans Can Work Together"
-    excerpt: "Many predictions to the outcome of the humans and artificial intelligence take an either/or approach. Skynet is determined to end the human race in The Terminator. In The Matrix, the machines have learned to farm humans for battery power."
-    publishedDateTime: 2021-08-24T16:15:00Z
-    webUrl: "https://www.bmc.com/blogs/ai-human-augmentation/"
-    type: article
-    provider:
-      name: BMC Software
-      domain: bmc.com
-    quality: 37
-    images:
-      - url: "https://s7280.pcdn.co/wp-content/uploads/2021/08/challenges-of-ai.png"
-        width: 573
-        height: 494
-        isCached: true
   - title: "Investing in automation: Strategies manufacturing companies need to know"
     excerpt: "Control Engineering - Learning Objectives Investing in automation and the Internet of Things (IoT) can help keep manufacturers ahead of the curve. Companies also need to"
     publishedDateTime: 2021-08-29T05:02:00Z

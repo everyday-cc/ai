@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Waymo opens self-driving car testing to some San Francisco residents"
-    excerpt: "Alphabet-owned Waymo is asking San Francisco residents to help test its self-driving cars in the city it hopes will be its second market."
-    publishedDateTime: 2021-08-24T16:43:28Z
-    webUrl: "https://www.cnbc.com/2021/08/24/waymo-opens-self-driving-car-testing-to-some-san-francisco-residents.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/08/24/waymo-opens-self-driving-car-testing-to-some-san-francisco-residents.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/08/24/waymo-opens-self-driving-car-testing-to-some-san-francisco-residents.html"
-    type: article
-    provider:
-      name: com/2021/08/24/waymo-opens-self-driving-car-testing-to-some-san-francisco-residents.html
-      domain: com/2021/08/24/waymo-opens-self-driving-car-testing-to-some-san-francisco-residents.html
-    quality: 159
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/105242041-GettyImages-938757682.jpg?v=1532563631"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Watch San Franciscans take a ride in Waymo’s self-driving car"
     excerpt: "Autonomous-car specialist is expanding its trial ridesharing service to regular folks in San Francisco as part of a new research program."
     publishedDateTime: 2021-08-25T03:00:00Z
@@ -149,20 +133,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Training Self-Driving Cars for $1 An Hour"
-    excerpt: "Every day for over four years, Ramses woke up in his home in Barquisimeto, Venezuela, turned on his computer, and began labeling images that will help make self-driving cars ubiquitous one day. Through a microtasking platform called Remotasks,"
-    publishedDateTime: 2021-08-25T12:59:00Z
-    webUrl: "https://www.predictiveanalyticsworld.com/machinelearningtimes/training-self-driving-cars-for-1-an-hour/12250/"
-    type: article
-    provider:
-      name: Predictive Analytics World
-      domain: predictiveanalyticsworld.com
-    quality: 39
-    images:
-      - url: "https://www.predictiveanalyticsworld.com/machinelearningtimes/wp-content/uploads/2021/05/MSDS_270x270_LM.gif"
-        width: 270
-        height: 270
-        isCached: true
   - title: "Waymo Rolls Out Self-Driving Taxi Service in San Francisco"
     excerpt: "Waymo, previously known as the “Google Self-Driving Car Project,” has rolled out its autonomous taxi service in San Francisco. The company has been testing out autonomous driving in San Francisco for over 12 years and began offering rides to its Bay-area employees earlier this year."
     publishedDateTime: 2021-08-25T03:25:00Z
@@ -232,34 +202,6 @@ related:
       - url: "https://images.hgmsites.net/hug/waymo-self-driving-car-prototype-in-san-francisco-california_100803730_h.jpg"
         width: 1920
         height: 1099
-        isCached: true
-  - title: "Waymo is Now Picking Up Riders in its Self-Driving Robotaxis in San Francisco"
-    excerpt: "Alphabet’s autonomous driving division Waymo, which spun out of Google’s self-driving car project, has launched its commercial robotaxi service in San Francisco for a select group of early testers. The company was approved to begin picking up passengers in its driverless vehicles for the first time in the city after extensively testing its technology using safety drivers behind the wheel."
-    publishedDateTime: 2021-08-24T17:00:00Z
-    webUrl: "https://www.futurecar.com/4824/Waymo-is-Now-Picking-Up-Riders-in-its-Self-Driving-Robotaxis-in-San-Francisco"
-    type: article
-    provider:
-      name: futurecar
-      domain: futurecar.com
-    quality: 36
-    images:
-      - url: "https://img.futurecar.com/202108/24/l_61252915d0f89.jpeg"
-        width: 800
-        height: 457
-        isCached: true
-  - title: "Challenges that self-driving cars are facing"
-    excerpt: "The road to the future is a long and winding one as self-driving car companies try to get their driverless cars to go mainstream. While self-driving cars are the way of the future officials say it's just taking a little longer for the future to be fully realized."
-    publishedDateTime: 2021-08-27T18:42:00Z
-    webUrl: "https://www.wral.com/challenges-that-self-driving-cars-are-facing/19845953/"
-    type: article
-    provider:
-      name: WRAL
-      domain: wral.com
-    quality: 24
-    images:
-      - url: "https://wwwcache.wral.com/asset/news/national_world/national/2021/08/27/19845954/132237-self-driving-DMID1-5s0j0zz7n-640x480.jpg"
-        width: 640
-        height: 480
         isCached: true
   - title: "Video: Waymo begins self-driving rides in San Francisco"
     excerpt: "Waymo, the autonomous driving division of Google, has started its Trusted Tester program in San Francisco. The program will invite the local population to get rides from Waymo to help better identify the issues involved with autonomous driving as well as discover what consumers want from self-driving ride-hailing services."

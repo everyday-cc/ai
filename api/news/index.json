@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-29-aust-researchers-use-ai-to-predict-drought.md",
+      "title": "Aust researchers use AI to predict drought",
+      "excerpt": "James Cook University researchers have used artificial intelligence to predict some of the key markers of drought conditions up to six months ahead of time.",
+      "sourceUrl": null,
+      "webUrl": "https://thewest.com.au/technology/telecommunications/aust-researchers-use-ai-to-predict-drought-c-3810380",
+      "originalUrl": "https://thewest.com.au/technology/telecommunications/aust-researchers-use-ai-to-predict-drought-c-3810380",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.thewest.com.au/publication/C-3810380/be266d6e0fe45f3d9a3acfb8f4439407279b6436-16x9-x0y0w1280h720.jpg?imwidth=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thewest.com.au/technology/telecommunications/aust-researchers-use-ai-to-predict-drought-c-3810380.amp",
+      "cdnAmpWebUrl": "https://thewest-com-au.cdn.ampproject.org/c/s/thewest.com.au/technology/telecommunications/aust-researchers-use-ai-to-predict-drought-c-3810380.amp",
+      "publishedDateTime": "2021-08-28T16:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The West Australian",
+        "domain": "thewest.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-29-i-went-to-a-play-written-by-ai-it-was-like-looking-in-a-circus-mirror.md",
       "title": "I went to a play written by AI; it was like looking in a circus mirror",
       "excerpt": "At the Young Vic theatre in London last week, an experimental production called AI played a three-night run. The objective of this collaboration between person and machine was to emerge at the end with a 30-minute script, written by artificial intelligence.",
@@ -773,7 +815,7 @@
       "originalUrl": "https://www.forbes.com/sites/lakenbrooks/2021/08/27/a-new-ai-technology-might-help-detect-gastric-cancer/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -918,7 +960,7 @@
       "originalUrl": "https://techxplore.com/news/2021-08-human-robot-collaboration-ai-human-intention.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -961,7 +1003,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/27/chances-of-collisions-involving-urgently-underway-police-cars-and-ai-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -1201,49 +1243,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-good-to-know-headlines-self-driving-taxis-and-flamin-hot-cheetos-flavored-mountain-dew.md",
-      "title": "‘Good to Know’ headlines: Self-driving taxis and Flamin’ Hot Cheetos flavored Mountain Dew",
-      "excerpt": "NBC News' Vicky Nguyen reports on a new app that is set to offer self-driving taxis, logging into virtual meetings using A.I., and Mountain Dew’s new Flamin’ Hot Cheetos inspired drink.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/now/video/good-to-know-headlines-self-driving-taxis-and-flamin-hot-cheetos-flavored-mountain-dew-119588421962",
-      "originalUrl": "https://www.nbcnews.com/now/video/good-to-know-headlines-self-driving-taxis-and-flamin-hot-cheetos-flavored-mountain-dew-119588421962",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_08/1630065015132_ott_now_am_goodtoknow_210827_1920x1080-bs619r.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo119588421962",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo119588421962",
-      "publishedDateTime": "2021-08-27T04:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

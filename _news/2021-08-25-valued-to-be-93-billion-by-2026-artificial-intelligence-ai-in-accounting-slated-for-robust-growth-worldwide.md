@@ -55,6 +55,20 @@ related:
         width: 400
         height: 252
         isCached: true
+  - title: "Valued to be $28.8 Billion by 2026, Artificial Intelligence (AI) in Fintech Slated for Robust Growth Worldwide"
+    excerpt: "Home » Valued to be $28.8 Billion by 2026, Artificial Intelligence (AI) in Fintech Slated for Robust Growth Worldwide Valued to be $28.8 Billion by 2026, Artificial Intelligence (AI) in Fintech Slated for Robust Growth Worldwide Our MarketGlass ..."
+    publishedDateTime: 2021-08-29T08:45:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_fintech-news-today/valued-to-be-28-8-billion-by-2026-artificial-intelligence-ai-in-fintech-slated-for-robust-growth-worldwide/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 34
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/9827233ed5e7ed4158e2d369c66b538c.jpeg"
+        width: 400
+        height: 252
+        isCached: true
   - title: "Valued to be $4.4 Billion by 2026, Artificial Intelligence (AI) in Call Center Slated for Robust Growth Worldwide"
     excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Call Center - Global Market Trajectory & Analytics\"."
     publishedDateTime: 2021-08-26T12:06:00Z
@@ -138,20 +152,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/54/c541e310-234d-5b11-ae36-550c5cb8f770/612785f094d46.image.jpg?resize=1013%2C630"
         width: 1013
         height: 630
-        isCached: true
-  - title: "With Market Size Valued at $151.6 Billion by 2026, it`s a Healthy Outlook for the Global Cognitive Computing Market"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Cognitive Computing - Global Market Trajectory & Analytics\"."
-    publishedDateTime: 2021-08-24T15:45:00Z
-    webUrl: "https://www.lelezard.com/en/news-19966123.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 2
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
         isCached: true
 
 secured: "sOd9Xuoseaa0vdLqHIieA3k5KCiCqPnyHr08EDww6GMcpKoBeAdqdSQEY3oIN0TWbKZfoQSzU6rzy4InfnLOxc69t5/gZ7Cn7rQUGb2akbKtHT3rkmeUUebtTP2PwHmtXwLMR5rYPCxFO9mBWHiyiuqokV48P+t7d7K14jO9h/wbui0m2Y+gifZFzC9CYxCiKXI35CqAm681gZ3Ne9qstsg0gCJb8JgLVlwG8iT6WObyvp8clGcGAhml1uNLWeNXWE0KAcd/Y7AZQRJ5z9xUd+EG/MNk0dc7thlg9g8ZvW/DMqzXePBdCkdsaOUQR0kYg8CiP+tcv8MnY7nH5jNDLBGBP/hMm06HL4UoEbyoESOzroL5lyL9nma/38THRHMQtVRxm5N3z2VxFhi9CuOdc1EI507nMUVVtKNNyx1Znn58ttqN7T2BwiEhM9aAGVHz4B5CJYS1ZwtPiCYZMQufe3F0jRaFKnnrXbuxZ5YnEaqy2zEv7Vq+M+6/kSzzY+K1Jvc1ynudXoktpB5u0lqG9Q==;TEcBZ/Qxul7mHkukn/9SkA=="

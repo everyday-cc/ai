@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/25/hybrid-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/25/hybrid-ai-is-the-future-of-industrial-analytics/amp/"
 type: article
 quality: 91
-heat: 221
+heat: 201
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-Powered Video Analytics Make Cities More Livable"
-    excerpt: "Find out how AI-based video analytics are changing everything, and the importance of high accuracy in an AI-based vision system like Uncanny Vision."
-    publishedDateTime: 2021-08-24T16:30:00Z
-    webUrl: "https://www.infoworld.com/resources/223285/ai-powered-video-analytics-make-cities-more-livable"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 67
-    images:
-      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Automation Innovation: From AI and Analytics to Machine Learning and Robotics, Supply Chains Will Never be the Same Again"
     excerpt: "A combination of intensifying customer demands and massively disruptive events such as the COVID-19 pandemic is pushing suppliers, manufacturers, distributors and retailers to embrace innovation at an unprecedented pace."
     publishedDateTime: 2021-08-25T21:23:00Z
@@ -163,20 +149,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "A $28.4 Billion Global Opportunity for Cognitive Analytics by 2026 - New Research from StrategyR"
-    excerpt: "A new market study published b Inc., (GIA) the premier market research company, today released its report titled \"Cognitive Analytics"
-    publishedDateTime: 2021-08-24T15:40:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/a-28-4-billion-global-opportunity-for-cognitive-analytics-by-2026---new-research/article_f3667170-a840-525d-b39e-70f58b7ce4e2.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 11
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/7/ca/7ca68c5b-9b95-5222-b3e6-dc6506bc6976/61251435c0d9d.image.jpg?resize=931%2C630"
-        width: 931
-        height: 630
         isCached: true
   - title: "A $28.4 Billion Global Opportunity for Cognitive Analytics by 2026 - New Research from StrategyR"
     excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Cognitive Analytics - Global Market Trajectory & Analytics\"."

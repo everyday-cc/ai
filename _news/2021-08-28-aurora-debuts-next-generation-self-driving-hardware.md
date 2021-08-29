@@ -73,6 +73,20 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "Training Self-Driving Cars for $1 An Hour"
+    excerpt: "Every day for over four years, Ramses woke up in his home in Barquisimeto, Venezuela, turned on his computer, and began labeling images that will help make self-driving cars ubiquitous one day. Through a microtasking platform called Remotasks,"
+    publishedDateTime: 2021-08-25T12:59:00Z
+    webUrl: "https://www.predictiveanalyticsworld.com/machinelearningtimes/training-self-driving-cars-for-1-an-hour/12250/"
+    type: article
+    provider:
+      name: Predictive Analytics World
+      domain: predictiveanalyticsworld.com
+    quality: 39
+    images:
+      - url: "https://www.predictiveanalyticsworld.com/machinelearningtimes/wp-content/uploads/2021/05/MSDS_270x270_LM.gif"
+        width: 270
+        height: 270
+        isCached: true
   - title: "Goodyear collaborates with Plus on self-driving trucking tech"
     excerpt: "Goodyear will supply a suite of services including connected tires to improve the safety for semi-trucks powered by Plus’ Level 4 self-driving technology. This will also help to reduce the carbon impact."
     publishedDateTime: 2021-08-26T14:20:00Z
@@ -86,6 +100,20 @@ related:
       - url: "https://electronics360.globalspec.com/images/assets/111/17111/Plus_Become_Publicly_Listed-16-3e88642123.jpg"
         width: 752
         height: 470
+        isCached: true
+  - title: "Challenges that self-driving cars are facing"
+    excerpt: "The road to the future is a long and winding one as self-driving car companies try to get their driverless cars to go mainstream. While self-driving cars are the way of the future officials say it's just taking a little longer for the future to be fully realized."
+    publishedDateTime: 2021-08-27T18:42:00Z
+    webUrl: "https://www.wral.com/challenges-that-self-driving-cars-are-facing/19845953/"
+    type: article
+    provider:
+      name: WRAL
+      domain: wral.com
+    quality: 24
+    images:
+      - url: "https://wwwcache.wral.com/asset/news/national_world/national/2021/08/27/19845954/132237-self-driving-DMID1-5s0j0zz7n-640x480.jpg"
+        width: 640
+        height: 480
         isCached: true
   - title: "Will self-driving cars dominate roads?"
     excerpt: "Many companies are developing self-driving cars with the goal of making transportation a breeze for everyone, but the necessary technology still has a ways to go."

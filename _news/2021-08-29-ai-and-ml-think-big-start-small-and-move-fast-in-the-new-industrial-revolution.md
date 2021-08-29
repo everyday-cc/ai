@@ -24,22 +24,6 @@ images:
     height: 627
     isCached: true
 
-related:
-  - title: "HR Podcast Episode 14: Artificial Intelligence and HR – the revolution?"
-    excerpt: "Shoosmiths colleagues Andy Graham, Amy Anderson and Amy Leech discuss the revolution of Artificial Intelligence (AI) in HR."
-    publishedDateTime: 2021-08-24T15:51:00Z
-    webUrl: "https://www.thelawyer.com/knowledge-bank/white-paper/hr-podcast-episode-14-artificial-intelligence-and-hr-the-revolution/"
-    type: article
-    provider:
-      name: The Lawyer
-      domain: thelawyer.com
-    quality: 37
-    images:
-      - url: "https://thelawyer.imgix.net/content/uploads/2018/07/17091722/The-Lawyer_Careers_980x600-4-485x297.png"
-        width: 485
-        height: 297
-        isCached: true
-
 secured: "j1xZskZeWIHytAsdz62aimWx4dHhStR4unDkfN8S6z9cWnje0B/T+Y7cPpc99ztlk6AfCx1q/sREda5Q3Vb1UiX+14+obOe+oivKnsRUUoX+LY8v3SGLcByPB5J/KmW8dHDUrGLurTp1a97+S4ZohlKI6k1Lp9mSUjCPFOiA84hE3mGkvlqZCaqaA/8Pzs4zO1Mkpwaanyv1onHhGgUjtodPkqY270qYCRJEl/uslJccEjFpRq+WkyH48Yke5DA3LggUA0thjXx7tSnELHU++LsuHirTT/uoGL7ceD9MCvv+XrcH2Y+rr9fzDo5Cl6xVEJ0MIOPcKxMrmVMtUMXPi5qDt7o8cQfSHr31SQrMQKrGjSTDhXxXh+RVsNSpMWvBvyG/MVmfrrRV7MiNyy+CbfOnl7ZrWhLmlNgKLltog7ND3/wsVeVmUh8AhaKmQTa0Ggxvlrpxtk+vD93U5jCC6og9ZCYlc9mBzNPeftUzMHwAWHOAMkudQmAnkMyvYWQCW1kauXRYRIqDhluv3giTGQ==;iNcmgzGAJRvO+wSWxqDh3A=="
 ---
 

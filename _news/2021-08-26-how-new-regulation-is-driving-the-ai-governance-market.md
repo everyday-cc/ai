@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/25/how-new-regulation-is-driving-the
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/25/how-new-regulation-is-driving-the-ai-governance-market/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Consumers question AI-driven insurance claims review"
-    excerpt: "According to a survey by Policygenius, consumers are reluctant to trust black-box AI systems that make insurance policy decisions."
-    publishedDateTime: 2021-08-24T16:55:00Z
-    webUrl: "https://venturebeat.com/2021/08/24/consumers-question-ai-driven-insurance-claims-review/"
-    ampWebUrl: "https://venturebeat.com/2021/08/24/consumers-question-ai-driven-insurance-claims-review/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/24/consumers-question-ai-driven-insurance-claims-review/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?fit=800%2C414&strip=all"
-        width: 800
-        height: 400
-        isCached: true
   - title: "The AI Revolution Is Happening Now"
     excerpt: "From autonomous vehicles to robotic process automation, AI has developed roots and grown offshoots throughout."
     publishedDateTime: 2021-08-25T13:15:00Z

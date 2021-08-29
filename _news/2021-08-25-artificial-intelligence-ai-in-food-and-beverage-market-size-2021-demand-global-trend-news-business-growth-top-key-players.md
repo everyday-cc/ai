@@ -42,22 +42,6 @@ related:
         width: 750
         height: 350
         isCached: true
-  - title: "Computer Vision System Market Size, Product Launch, Major Companies, Revenue Analysis, Till 2028"
-    excerpt: "The Global Computer Vision System market is forecast to reach USD 25 69 Billion by 2028 according to a new report by The Computer Vision System market is witnessing continuous growth in the recent year that has"
-    publishedDateTime: 2021-08-24T15:29:00Z
-    webUrl: "https://www.openpr.com/news/2365987/computer-vision-system-market-size-product-launch-major"
-    ampWebUrl: "https://www.openpr.com/amp/2365987/computer-vision-system-market-size-product-launch-major"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2365987/computer-vision-system-market-size-product-launch-major"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 46
-    images:
-      - url: "https://cdn.openpr.com/U/8/U824532333_g.jpg"
-        width: 750
-        height: 350
-        isCached: true
   - title: "Artificial Intelligence (AI) in Social Media Market Revenue, Driving Factors, Key Players, Strategies, Trends, Forecast Till 2027"
     excerpt: "The Global Artificial intelligence AI In Social Media Market size is estimated to reach USD 4 26 Billion from USD 797 Million in 2019 exhibiting a CAGR of 24 7 through 2027 The rapid evolution of social media platforms with"
     publishedDateTime: 2021-08-27T16:45:00Z
