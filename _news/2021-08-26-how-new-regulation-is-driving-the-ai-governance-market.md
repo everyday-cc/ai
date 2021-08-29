@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/25/how-new-regulation-is-driving-the
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/25/how-new-regulation-is-driving-the-ai-governance-market/amp/"
 type: article
 quality: 91
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -64,15 +64,6 @@ related:
         width: 1200
         height: 660
         isCached: true
-  - title: "Biosimulation Market: Growing Adoption of Artificial Intelligence is Projected to Drive the Global Market"
-    excerpt: "According to the report, the global biosimulation market was valued at US$ 1.8 Bn in 2019 and is projected to expand at a high CAGR from 2020 to 2030. Biosimulation can be defined as computer-aided mathematical simulation of biological processes,"
-    publishedDateTime: 2021-08-24T14:07:00Z
-    webUrl: "https://www.medgadget.com/2021/08/biosimulation-market-growing-adoption-of-artificial-intelligence-is-projected-to-drive-the-global-market.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 2
 
 secured: "iDK1pVSxpst0V0cPwCaAkajRQmPVedyJr7MPLauagxP1Wbyj3X8RCPMDZq0lfJzBGb37Qbn54iHiJMuQOcHcqpIy54LCoqLeM6PMkjlT3DjrYZf4E7MIi5avYGGOY/TL9Avha3TEnlhOitIRTuXZwU+quxMgONhtiKg42Nj2C919NwzZYUuYu3bFkNgC+sCfAOnO9DPqqWzgxBRpqWTp8dJX21AMyLB1QnHUARCd5MEKIIQQ9YvG2txR5wh+9XibBjFkuzGOzSJ5TlhT3iXVQKRQXe9goSMBK7n3oJfrn8z9+dx6TkhlbYljMGcC5ltOyc4ZcJnixh+GywLdWCvgk5uI9W2Wb0HdrlrkC+6TjeQ0N14SwpFAQeviOK5DyvSFpnUCfezWMDO+twGt638VeHkKuAlSPRs66HvR/aRuL2n9YPKsDRYW/zMcFWcA3JToCCzFsxUkPuYvNA8x6PkkIsDFQYk/ChrOcZqrM7QPKBh988HsHttFdLjqnbcY3pEFqd77YwaCy5x3OPGayirLyw==;wNQz2+G1zZ+lM2Scxw3Yzw=="
 ---

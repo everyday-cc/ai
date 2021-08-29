@@ -7,7 +7,7 @@ originalUrl: "https://www.hydrocarbonprocessing.com/news/2021/08/aramco-deploys-
 webUrl: "https://www.hydrocarbonprocessing.com/news/2021/08/aramco-deploys-computer-vision-with-foghorn-edge-ai"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Aramco Deploys Computer Vision with FogHorn Edge AI to Improve Business Operations"
-    excerpt: "FogHorn, a leading developer of Edge AI software for industrial and commercial Internet of Things (IoT) solutions, today announce"
-    publishedDateTime: 2021-08-24T14:32:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-306b3da655a54c79b7778d33048b06d2"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 48
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "+/mHiHZ1JDoOeGUbK2M0ByfCOmV3Bbh+qieMd15LFj1iW0FSvOoTfOzRw0uUSZ4NM4+P0rA7oD2cdFrp/EGV9vw5sj4IUnpoPXWIXW6vHdR+MXS2H78zNc0wRjQjRDkJVh1jLBVrmEI9PrfgDz4w6IbpfU5dWL6Yk1DeYNcdgmFde4mcCdeDYIG2ervpDMbB0222ncpoLMs7YT/l8EONQjkv6vQGQbcGZezYC8JHTmgoaHtUdRc4sQEruooCjBZEbNPnjb2NxxbPdk1Knz9i6HJrHuTalyC/hpaLywMxLgUin4AKk4TVacJECjPsiorQC0fRu7oa09B+YovvV0YrrzYYgiWL1n3VGheMPuRSJV9TtK/TTKN4AQ6GFyvIc/OdcjfZa/W6Mszgi4609SwS+ZBrkBe61PojWTFy2hmi54m3Y+Zeb35A6i/To2osuDRtCytrAjk8iByGoCbi042tSVdcAhPmdkgIf7kNOSuo6uiwiC71l1cN8aFM/FAsoFyfGsOIrqSA176CvhSw7yWCEA==;7/WORFzaSvMzQeq1wdUNaQ=="
 ---

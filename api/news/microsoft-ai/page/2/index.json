@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-12-reliance-ties-up-with-microsoft-azure-to-bring-free-cloud-services-for-smes-startups.md",
+      "title": "Reliance Ties Up With Microsoft Azure To Bring Free Cloud Services For SMEs, Startups",
+      "excerpt": "These companies will also get easy and affordable access to advanced technologies such as data analytics, AI, cognitive services, blockchain, IoT and edge computing. For Microsoft, having the ...",
+      "sourceUrl": null,
+      "webUrl": "https://inc42.com/buzz/reliance-microsoft-azure-to-offer-free-cloud-services-for-smes-startups/",
+      "originalUrl": "https://inc42.com/buzz/reliance-microsoft-azure-to-offer-free-cloud-services-for-smes-startups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inc42.com/buzz/reliance-microsoft-azure-to-offer-free-cloud-services-for-smes-startups/amp/",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/reliance-microsoft-azure-to-offer-free-cloud-services-for-smes-startups/amp/",
+      "publishedDateTime": "2021-08-11T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42.com",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-12-ai-in-fintech-market-size-revenue-growth-trends-company-strategy-analysis-20202027-key-players-microsoft-ibm-nuance-communications.md",
       "title": "AI in Fintech Market Size, Revenue Growth Trends, Company Strategy Analysis, 2020–2027 | Key Players: Microsoft, IBM, Nuance Communications, etc.",
       "excerpt": "The global AI in Fintech Market is forecast to reach USD 26.77 Billion by 2026, according to a new report by Reports and Data. The AI in fintech incorporates computational power and deep learning algorithms to the financial technology.",
@@ -1303,58 +1337,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-31-ai-weekly-ai-adoption-is-driving-cloud-growth.md",
-      "title": "AI Weekly: AI adoption is driving cloud growth",
-      "excerpt": "As enterprises embrace AI technologies, they're increasingly turning to the cloud to meet key infrastructural needs.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/30/ai-weekly-ai-adoption-is-driving-cloud-growth/",
-      "originalUrl": "https://venturebeat.com/2021/07/30/ai-weekly-ai-adoption-is-driving-cloud-growth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/cloud.money_.GettyImages-627546267-e1623705801154.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/30/ai-weekly-ai-adoption-is-driving-cloud-growth/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/30/ai-weekly-ai-adoption-is-driving-cloud-growth/amp/",
-      "publishedDateTime": "2021-07-30T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

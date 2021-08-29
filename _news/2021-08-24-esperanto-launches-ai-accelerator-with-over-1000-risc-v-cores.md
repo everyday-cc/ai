@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/08/24/esperanto-launche
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/08/24/esperanto-launches-with-1000-core-risc-v-ai-accelerator/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 139
+published: true
 
 provider:
   name: Forbes
@@ -31,89 +31,71 @@ images:
     isCached: true
 
 related:
-  - title: "IBM's new Telum Processor is the company's first with an on-chip AI accelerator"
-    excerpt: "The microprocessor contains 8 processor cores and is designed to process sensitive data in hybrid cloud deployments, according to the company."
-    publishedDateTime: 2021-08-24T13:31:00Z
-    webUrl: "https://www.techrepublic.com/article/ibms-new-telum-processor-is-the-companys-first-with-an-on-chip-ai-accelerator/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ibms-new-telum-processor-is-the-companys-first-with-an-on-chip-ai-accelerator/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibms-new-telum-processor-is-the-companys-first-with-an-on-chip-ai-accelerator/"
+  - title: "Esperanto Delivers Massive AI Processing With Less Than 20W For Data Center Inference Workloads"
+    excerpt: "The 7nm ET-SoC-1 features 1,088 64-bit in-order cores with vector units referred to as ET-Minions and four high-performance 64-bit out-of-order RISC-V cores referred to as ET-Maxions."
+    publishedDateTime: 2021-08-24T17:35:00Z
+    webUrl: "https://www.forbes.com/sites/tiriasresearch/2021/08/24/esperanto-delivers-massive-ai-processing-with-less-than-20w-for-data-center-inference-workloads/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 100
+      name: Forbes
+      domain: forbes.com
+    quality: 57
     images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2021/05/26/62bd29f4-6524-4130-a98a-ca1e8d04a017/resize/1200x/4a60cac1d090cbcebe96fbddee66c09c/gettyimages-32.jpg"
-        width: 1200
-        height: 900
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6125286faeafbcc6b6801db8%2F0x0.jpg"
+        width: 435
+        height: 353
         isCached: true
-  - title: "IBM unveils AI processor chip to help financiers deal with fraud"
-    excerpt: "The AI processor chip is expected to help businesses move towards a fraud prevention posture from a fraud detection posture."
-    publishedDateTime: 2021-08-24T13:42:00Z
-    webUrl: "https://techhq.com/2021/08/ai-processor-chip/"
-    type: article
-    provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 54
-    images:
-      - url: "https://cdn.techhq.com/wp-content/uploads/2021/08/IBM-Z-CHIP_-Image-01.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "IBM Unveils Chip for Accelerating AI Inference Engines"
-    excerpt: "The IBM Telum Processor is the company’s first chip capable of providing that acceleration capability while transactions are processing."
-    publishedDateTime: 2021-08-25T18:23:00Z
-    webUrl: "https://www.itbusinessedge.com/development/ibm-unveils-chip-for-accelerating-ai-inference-engines/"
-    type: article
-    provider:
-      name: IT Business Edge
-      domain: itbusinessedge.com
-    quality: 54
-    images:
-      - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/06/IBM-sues-GlobalFoundries.jpg"
-        width: 600
-        height: 422
-        isCached: true
-  - title: "IBM unveils Telum, its on-chip accelerated artificial intelligence processor"
-    excerpt: "It's the first processor that has the ability to detect a fraud while a transaction is taking place, and not after it has happened"
-    publishedDateTime: 2021-08-24T17:17:00Z
-    webUrl: "https://www.itp.net/emergent-tech/99652-ibm-unveils-telum-its-on-chip-accelerated-artificial-intelligence-processor"
-    ampWebUrl: "https://www.itp.net/emergent-tech/99652-ibm-unveils-telum-its-on-chip-accelerated-artificial-intelligence-processor?amp"
-    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/emergent-tech/99652-ibm-unveils-telum-its-on-chip-accelerated-artificial-intelligence-processor?amp"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 51
-  - title: "IBM’s First CPU With On-chip AI Acceleration Detects Fraud at Lightning Speeds"
-    excerpt: "Containing 22 billion transistors, IBM's new processor, Telum, features on-chip acceleration for AI inferencing. The goal: to detect fraud before a transaction is complete."
-    publishedDateTime: 2021-08-27T16:00:00Z
-    webUrl: "https://www.allaboutcircuits.com/news/ibms-first-cpu-telum-with-on-chip-ai-acceleration-detects-fraud-lightning-speeds/"
+  - title: "AI Accelerator Chip with 1000 RISC-V Cores Shakes Up Data Center Inference"
+    excerpt: "As the need for AI and data center processing keeps rising, a new AI accelerator has risen to the challenge. After years of development, Esperanto has announced its ET-SoC-1 ML inference chip."
+    publishedDateTime: 2021-08-26T17:00:00Z
+    webUrl: "https://www.allaboutcircuits.com/news/ai-accelerator-chip-with-1000-risc-v-cores-shakes-up-data-center-inference/"
     type: article
     provider:
       name: All About Circuits
       domain: allaboutcircuits.com
-    quality: 50
+    quality: 52
     images:
-      - url: "https://www.allaboutcircuits.com/uploads/thumbnails/Telum.jpg"
+      - url: "https://www.allaboutcircuits.com/uploads/thumbnails/esperanto_ai_1000_risc_v_cores.jpg"
         width: 700
-        height: 348
+        height: 300
         isCached: true
-  - title: "New IBM Telum Processors Show AI Investment ‘Down At The Silicon Level’"
-    excerpt: "IBM unveils new Telum processors, which bring AI down to the chip level amid growing demand by businesses for data- and compute-intensive processes."
-    publishedDateTime: 2021-08-24T21:09:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/new-ibm-telum-processors-show-ai-investment-down-at-the-silicon-level-"
+  - title: "Esperanto Technologies Unveils Energy-Efficient RISC-V-Based Machine Learning Accelerator Chip"
+    excerpt: "Featuring over a thousand RISC-V custom processor cores, Esperanto’s ML inference accelerator is designed to be the highest performance commercial RISC-V chip."
+    publishedDateTime: 2021-08-25T11:54:00Z
+    webUrl: "https://www.design-reuse.com/news/50487/esperanto-risc-v-machine-learning-accelerator-chip.html"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 39
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 44
     images:
-      - url: "https://www.crn.com/resources/0268-11f7e811e4f2-5b419af4f9f5-1000/ibm-campus-1.jpg"
-        width: 1500
-        height: 1126
+      - url: "https://www.design-reuse.com/news_img2/homepage50487/20210825b_1.jpg"
+        width: 328
+        height: 285
         isCached: true
+  - title: "Esperanto Technologies Unveils Energy-Efficient RISC-V-Based Machine Learning Accelerator Chip at Hot Chips 33 Conference"
+    excerpt: "Esperanto Technologies™, a developer of high-performance, energy-efficient machine learning (ML) inference accelerators based on the RISC-V instruction set, today announced that company founder and executive chairman Dave Ditzel will reveal new details of the company’s new ET-SoC-1 “supercomputer-on-a-chip” at the Hot Chips 33 conference on August 24,"
+    publishedDateTime: 2021-08-24T15:31:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-europe-business-ab3e0dd52b3b4f9ebac2f7231427bd73"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 31
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Esperanto Technologies Unveils Energy-Efficient RISC-V-Based Machine Learning Accelerator Chip at Hot Chips 33 Conference"
+    excerpt: "Esperanto’s ML inference accelerator features over a thousand RISC-V custom processor cores for industry-leading performance per watt."
+    publishedDateTime: 2021-08-24T19:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210824005243/en/Esperanto-Technologies-Unveils-Energy-Efficient-RISC-V-Based-Machine-Learning-Accelerator-Chip-at-Hot-Chips-33-Conference"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 11
 
 secured: "AZg1b5mbKQ9QIlkOk2N7hwIbz/KkJalVgeQ0xYpbH18HeE/cT8S/5pVSa5rkOBXRWSug7+cfJ5RMBO6IOF2QoHSKpXN1EWvZMySXqEMnNzXRYYILTb3saVGO+6rpRhF3kr8WxK6sA55H4A79tuhFof8lgj914JRNam6ge2RR++Glx9Bn2Pz+GoIqq6cGl6dT3ctclgU90uKzf6ej5r4RYeGm1aC67XNrEI9scz/E/NM1L9B5TIZ1nJQ/V/5yASOnPp33bHsRYnqTL+rvWtWSeLIi9lcJLudBIXQ9eb8PHK1rKE0DpFHcz7bzWApqlR0n9onHLBiC3C7rxgseD5i3Seh36tC//qhfl54uLPxKT9/JaMAkUuodqNSVovRFerTI3w+zpfIU/RHqW1TyfbYsTWeg5whcCjpmzqVMx5/vnpDjqQxeJLJoEIcxbqp1TnGy9DL0cv7hEn/MtNsSdMKbdV2m5PcMsr/Wcx8z9OzkxbMxH6LpYCVkindqjhv0e6nCxLCBVabElLv4lvpY+fObNg==;p5hetNaLvI9RG1uPlf5i9w=="
 ---

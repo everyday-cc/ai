@@ -2,6 +2,204 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-08-24-sensors-and-ai-to-monitor-dorset-social-care-patients.md",
+      "title": "Sensors and AI to monitor Dorset social care patients",
+      "excerpt": "One hundred people in Dorset who need social care are to be monitored by artificial intelligence (AI) as part of a three-month pilot. Sensors installed in homes will track behaviour and electricity usage which the AI will analyse to spot potential health problems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/technology-58317106",
+      "originalUrl": "https://www.bbc.com/news/technology-58317106",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/6BD3/production/_120230672_gettyimages-912072020.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/technology-58317106.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-58317106.amp",
+      "publishedDateTime": "2021-08-24T06:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-ibms-new-telum-processor-is-the-companys-first-with-an-on-chip-ai-accelerator.md",
+      "title": "IBM's new Telum Processor is the company's first with an on-chip AI accelerator",
+      "excerpt": "The microprocessor contains 8 processor cores and is designed to process sensitive data in hybrid cloud deployments, according to the company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ibms-new-telum-processor-is-the-companys-first-with-an-on-chip-ai-accelerator/",
+      "originalUrl": "https://www.techrepublic.com/article/ibms-new-telum-processor-is-the-companys-first-with-an-on-chip-ai-accelerator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/05/26/62bd29f4-6524-4130-a98a-ca1e8d04a017/resize/1200x/4a60cac1d090cbcebe96fbddee66c09c/gettyimages-32.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibms-new-telum-processor-is-the-companys-first-with-an-on-chip-ai-accelerator/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibms-new-telum-processor-is-the-companys-first-with-an-on-chip-ai-accelerator/",
+      "publishedDateTime": "2021-08-24T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-artificial-intelligence-ai-in-modern-warfare-market-evolving-technology-and-growth-outlook-2021-2026.md",
+      "title": "Artificial Intelligence (AI) in Modern Warfare Market Evolving Technology and Growth Outlook 2021-2026",
+      "excerpt": "MarketInsightsReports recently published a research report called Artificial Intelligence AI in Modern Warfare Market Primary and secondary research methods were used to construct this report The Analysis was derived using history and predictions The report includes an in depth study",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2365480/artificial-intelligence-ai-in-modern-warfare-market-evolving",
+      "originalUrl": "https://www.openpr.com/news/2365480/artificial-intelligence-ai-in-modern-warfare-market-evolving",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/8/U824571901_g.jpg",
+          "width": 800,
+          "height": 449,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2365480/artificial-intelligence-ai-in-modern-warfare-market-evolving",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2365480/artificial-intelligence-ai-in-modern-warfare-market-evolving",
+      "publishedDateTime": "2021-08-24T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-nvidia-launches-ai-enterprise-in-general-availability.md",
+      "title": "Nvidia launches AI Enterprise in general availability",
+      "excerpt": "Nvidia's newly launched AI Enterprise managed service includes a suite of software tools designed to accelerate machine learning workloads.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/24/nvidia-launches-ai-enterprise-in-general-availability/",
+      "originalUrl": "https://venturebeat.com/2021/08/24/nvidia-launches-ai-enterprise-in-general-availability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/GettyImages-1208744151.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/24/nvidia-launches-ai-enterprise-in-general-availability/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/24/nvidia-launches-ai-enterprise-in-general-availability/amp/",
+      "publishedDateTime": "2021-08-24T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-24-the-new-nest-doorbell-cam-is-a-reminder-that-nest-has-gone-fully-google.md",
       "title": "The New Nest Doorbell Cam Is a Reminder That Nest Has Gone Fully Google",
       "excerpt": "Google's cheaper doorbell security camera offers a lot for less, but you make some sacrifices for those savings.",
@@ -962,212 +1160,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-how-ai-will-reshape-software-development.md",
-      "title": "How AI will reshape software development",
-      "excerpt": "The first area to face a new AI-driven operating paradigm may be the one that created AI in the first place: software development.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/23/how-ai-will-reshape-software-development/",
-      "originalUrl": "https://venturebeat.com/2021/08/23/how-ai-will-reshape-software-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-855686630-e1629739858292.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/23/how-ai-will-reshape-software-development/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/23/how-ai-will-reshape-software-development/amp/",
-      "publishedDateTime": "2021-08-23T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-musk-says-teslas-self-driving-software-update-not-great.md",
-      "title": "Musk says Tesla's self-driving software update 'not great'",
-      "excerpt": "Tesla Inc's Chief Executive Elon Musk said on Monday said that the electric-car maker was working on improving the much-awaited update to its self-driving software \"as fast as possible.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/autos-transportation/musk-says-teslas-self-driving-software-update-not-great-2021-08-23/",
-      "originalUrl": "https://www.reuters.com/business/autos-transportation/musk-says-teslas-self-driving-software-update-not-great-2021-08-23/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 369,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/oqFU64HpeP8ZKlXFpnJ9VMpS9Ds=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MJSUGPHHZRIUHCLD54FYDZ7JKQ.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-23T13:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-artificial-intelligence-ai-in-retail-market-growth-share-size-trends-top-companies-and-forecast-by-2027.md",
-      "title": "Artificial Intelligence (AI) in Retail Market Growth, Share, Size, Trends, Top Companies and Forecast By 2027",
-      "excerpt": "Artificial Intelligence (AI) in Retail Market forecast by regions, type and application, with sales and revenue, from 2021 to 2027. Artificial Intelligence (AI) in Retail Market Share, COVID-19 impact ,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-growth-share-size-trends-top-companies-and-forecast-by-2027-2021-08-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-growth-share-size-trends-top-companies-and-forecast-by-2027-2021-08-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 193,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-23T12:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-synopsys-laps-competition-with-second-generation-ai.md",
-      "title": "Synopsys Laps Competition With Second Generation AI",
-      "excerpt": "EDA Leader Synopsys achieves 28% Lower Power with AI while Samsung has first working chip designed by an Artificial Intelligence Last year, Electronic Design Automation leader Synopsys announced it had developed an AI called DSO.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/08/23/synopsys-laps-the-competition-with-second-generation-ai/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/08/23/synopsys-laps-the-competition-with-second-generation-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6122d60f85ec110a2494169e%2F0x0.jpg",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/08/23/synopsys-laps-the-competition-with-second-generation-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/08/23/synopsys-laps-the-competition-with-second-generation-ai/amp/",
-      "publishedDateTime": "2021-08-23T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

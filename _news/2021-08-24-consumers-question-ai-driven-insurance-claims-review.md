@@ -62,15 +62,6 @@ related:
         width: 1200
         height: 660
         isCached: true
-  - title: "Biosimulation Market: Growing Adoption of Artificial Intelligence is Projected to Drive the Global Market"
-    excerpt: "According to the report, the global biosimulation market was valued at US$ 1.8 Bn in 2019 and is projected to expand at a high CAGR from 2020 to 2030. Biosimulation can be defined as computer-aided mathematical simulation of biological processes,"
-    publishedDateTime: 2021-08-24T14:07:00Z
-    webUrl: "https://www.medgadget.com/2021/08/biosimulation-market-growing-adoption-of-artificial-intelligence-is-projected-to-drive-the-global-market.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 2
 
 secured: "WuI1wFt7x7OF6cFEuBmxh6nKtIebrOgO9wMAk1j6eZAzDj5ypvFSUpk57oXXb8HI34JW7Jojoc7IuWhuR3htUiyKB6/Jbnace7fQZ+huLwb5F5I7s6RF5V/4puFKSSlXSkfqf6LKZm4LuDcT33I2Yyz07QvIslim2ui7NeU8bo19obNOpZVNozAfLwWkfzzouKasIRzUlABr++qeqxrGUXFJyMvwKgr8+oRhJyBHhTyZjA6babbr39+b5DcGtnLOyS1/nAU8LCwmBD+IXwKGWpFtWYHNL7y3MopzblpYQXK1RqLJEXZNMCz4h95oCWqDBnXKuy69LLqzQ20wPxny19xlS9moTpAYxNHVx2PQV+FgDyCwIcgqmDHnuLOQ0QwVI4aS/0NDs5OkJLAYJT+NeeUKco43pUGKzimJeFhS7SCJlpvL/s+In+QrdGJvnesawpd49rzGcDqPiVedmxLDkCyjpuqz+bPUw5NGB0GJ/r3lpg6m53ICiIl29RFfGiiqexb2meJoXmG73B30VqzfNg==;N9ynUzRUBv4PaQu1O1LvHg=="
 ---

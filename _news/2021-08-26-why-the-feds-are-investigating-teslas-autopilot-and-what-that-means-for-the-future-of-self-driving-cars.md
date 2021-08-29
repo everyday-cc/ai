@@ -7,7 +7,7 @@ originalUrl: "https://www.minnpost.com/other-nonprofit-media/2021/08/why-the-fed
 webUrl: "https://www.minnpost.com/other-nonprofit-media/2021/08/why-the-feds-are-investigating-teslas-autopilot-and-what-that-means-for-the-future-of-self-driving-cars/"
 type: article
 quality: 22
-heat: 22
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,40 @@ images:
     width: 640
     height: 450
     isCached: true
+
+related:
+  - title: "Elon Musk Is Panning Tesla Again. Why That’s No Big Deal."
+    excerpt: "Companies are racing to build autonomous vehicles, but judging who has the best systems has become nearly impossible for ordinary people."
+    publishedDateTime: 2021-08-24T19:05:00Z
+    webUrl: "https://www.barrons.com/articles/tesla-stock-elon-musk-51629756011"
+    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-stock-elon-musk-51629756011"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-stock-elon-musk-51629756011"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 74
+    images:
+      - url: "https://images.barrons.com/im-389712/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Tesla CEO Elon Musk says latest self-driving update ‘not great’"
+    excerpt: "Tesla has lately been under the scanner from the governments of US and China for its autopilot or self-driving technology..Tesla sells its advanced driver assistant features such as lane changing and automated parking under the name Full Self-Driving (FSD)."
+    publishedDateTime: 2021-08-24T17:20:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/news/tesla-ceo-elon-musk-says-latest-self-driving-update-not-great-41629776618271.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/news/tesla-ceo-elon-musk-says-latest-self-driving-update-not-great/amp-41629776618271.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/tesla-ceo-elon-musk-says-latest-self-driving-update-not-great/amp-41629776618271.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 59
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2021/08/24/600x338/AFP_9L8894_1629439212600_1629777640413.jpg"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "g1jJPPv0z2833hCLkBgCVRY5IXFd30qwF72BuXOX0RbVJE6L7Nm/RKYYvzkH1fXPklmOQv/WDgVo8W+Y5+E8d/SpvKwUnNg2H2b2NFsjOpMIgnu+a+g1aNdAAKR563EkxzNG1x4qWRxoWAn/YKTVmFNQzWDW/2AsdZOTZ7PfXtfanyDPlO5GL3Nvis6clXdhrQAgAc9VW0yVBkRPTlPgSRS+W3oOMJ5HEWl9reM7hyk3tNBJwvRm2FOjvl00/TnaJ+m0A2sk0sIS8jt2nBb+BaMRKbn13DElSI7xBU0zbCwSoOem40/koOltvsESUgvimiMaQi3lAf5WsNnUvpG8almpEdi52MFja/ChYIrK8dnGNtvdXhh1CmclUx+rImENZSGhysRab+E4/sUgB9ed0HhGhfa7w27iuPfsCICMbbL5gWQ+NlwUTH5m74ZnxY4IUwFZYCwzuHqmyUdfMCXoTR+Vsu/LrF8yertBqr7moCozn2oTPaaimZvfrpZTrZNcwjhZgInYdoczCEQiHS8fnA==;LF5+l7S4dp0huwVa/VjA/A=="
 ---

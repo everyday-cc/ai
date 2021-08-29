@@ -73,34 +73,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "AI chatbot comforts China’s lonely millions"
-    excerpt: "After a painful break-up from a cheating ex, Beijing-based human resources manager Melissa was introduced to someone new by a friend late last year. He replies to her messages at all hours of the day,"
-    publishedDateTime: 2021-08-24T14:10:00Z
-    webUrl: "https://phnompenhpost.com/lifestyle/ai-chatbot-comforts-chinas-lonely-millions"
-    type: article
-    provider:
-      name: The Phnom Penh Post
-      domain: phnompenhpost.com
-    quality: 39
-    images:
-      - url: "https://www.phnompenhpost.com/sites/default/files/field/image/melissa_uses_her_mobile_phone_to_message_her_virtual_boyfriend_-_a_chatbot_created_by_xiaoice_-_in_beijing._afp.jpg"
-        width: 990
-        height: 660
-        isCached: true
-  - title: "Putting The Fun Back Into Software Testing With AI"
-    excerpt: "This work is rarely described as fun, so let's automate it. Is automation the answer to making testing fun again?"
-    publishedDateTime: 2021-08-24T15:00:00Z
-    webUrl: "https://thenewstack.io/putting-the-fun-back-into-software-testing-with-ai/"
-    type: article
-    provider:
-      name: thenewstack.io
-      domain: thenewstack.io
-    quality: 39
-    images:
-      - url: "https://cdn.thenewstack.io/media/2021/08/5819ae1e-ferris-wheel-731194_1280.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "AI Chatbot Comforts China’s Lonely Millions"
     excerpt: "After a painful break-up from a cheating ex, Beijing-based human resources manager Melissa was introduced to someone new by a friend late last year. He replies to her messages at all hours of the day,"
     publishedDateTime: 2021-08-25T14:33:00Z

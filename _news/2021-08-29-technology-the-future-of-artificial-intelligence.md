@@ -8,7 +8,7 @@ webUrl: "https://www.dawn.com/news/1643194"
 ampWebUrl: "https://www.dawn.com/news/amp/1643194"
 cdnAmpWebUrl: "https://www-dawn-com.cdn.ampproject.org/c/s/www.dawn.com/news/amp/1643194"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AWS AI
 
 images:
   - url: "https://i.dawn.com/large/2021/08/612ab8270d40f.jpg"

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.khaleejtimes.com/news/transport/5-of-dubai-taxis-fleet-t
 cdnAmpWebUrl: "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/news/transport/5-of-dubai-taxis-fleet-to-be-self-driving-cabs-by-2023"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 400
     height: 225
     isCached: true
+
+related:
+  - title: "Dubai to make 56% of taxi fleet environmentally friendly, 5% self-driving by 2023"
+    excerpt: "Director general of the RTA has said the organisation is committed to employing artificial intelligence and smart systems in Dubai's taxi sector"
+    publishedDateTime: 2021-08-29T06:29:00Z
+    webUrl: "https://www.arabianbusiness.com/transport/467689-dubai-to-make-56-of-taxi-fleet-environmentally-friendly-5-self-driving-by-2023"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 14
 
 secured: "fO3oa8H0ex1y3apYfroNKiGOizOY0UegfBI7C5ctKWrKkeXd0q7AX+5TAwNDMT4j3pcXOLy7rgd8gNvykNax/8UO9A4VS3LR3qSQgPn+0QORc1DVko8OgVs31siX2xLGM/QYBsMp0NedeiCqVeZ5EdrrYOXZ1mlpWpeRMPBWNqaiA1Z2fAjWW1W744gGTD9JipxNNuZM4bE10is5xtu1CaIgO3Bbf5OIwNBk1unZEPFvtr+JRck6W/U+lgtTSq41u8eJFVXwrqHlVOMapJar9QzFYcdk6kLCvPGKoT6MHgJnP2m+W9lxoahcRkufp7DN7R4g6IHA9GW5gcOv6Iwntuh+btdtdchIDurB4knY3Wc=;f42ymfd3CFZbgfWQWM4cew=="
 ---

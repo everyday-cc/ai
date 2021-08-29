@@ -50,7 +50,7 @@ related:
     provider:
       name: Dawn
       domain: dawn.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://i.dawn.com/large/2021/08/612ab8270d40f.jpg"
         width: 800

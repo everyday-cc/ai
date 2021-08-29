@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/24/alethea-ai-raises-16m-in-private-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/24/alethea-ai-raises-16m-in-private-token-sale-for-intelligent-nfts-for-the-metaverse/amp/"
 type: article
 quality: 181
-heat: 191
+heat: 201
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://www.finsmes.com/wp-content/uploads/2021/08/image-56.jpeg"
         width: 500
         height: 598
+        isCached: true
+  - title: "Crypto Flipsider News – August 25th – Bitcoin, Kraken, The iNFT Metaverse, Philippines Axie Infinity Income Tax, Facebook, Galaxy, Fetch.ai NFTs"
+    excerpt: "Bitcoin, Kraken, The iNFT Metaverse, Philippines Axie Infinity Income Tax, Facebook, Galaxy, Fetch.ai NFTs The world’s first intelligent NFT creator funded to build iNFT metaverse. NFT updates: Facebook,"
+    publishedDateTime: 2021-08-25T13:30:00Z
+    webUrl: "https://www.investing.com/news/cryptocurrency-news/crypto-flipsider-news--august-25th--bitcoin-kraken-the-inft-metaverse-philippines-axie-infinity-income-tax-facebook-galaxy-fetchai-nfts-2599277"
+    type: article
+    provider:
+      name: Investing.com
+      domain: investing.com
+    quality: 2
+    images:
+      - url: "https://i-invdn-com.investing.com/news/LYNXNPEE340J6_L.jpg"
+        width: 800
+        height: 488
         isCached: true
 
 secured: "9sPrXRPtJrQUVZ60PMgx5f9DvK59D5/ebhhVjUga8NNWk3dhqhNdNVqyUNgw0B9UUL3SsuFayRl51zUHzlAd6oLn6duSx6xe2GIGw21OhcPV0SwGc3/pyGc2I1rgM2u3PMRny6Zkym7c3WZ6dTPzmG7bdx+scJNIcQT11uz5jp1F84xtM2AIMZQ930ofN/Zvcd9+fuRcoAzVdiWjDbIvxc2RGVTfQuQpVlmypcDbpWTOtAjo2x/nuRECZCmckW8SztXayQaRL22WzQTBNBA9T0PiyKMp47JM4YFKkJ/f4j9RvR88PupernhrPfJHJXXuwP6kBJsMgLGEHOKkUjlMKv6+YTFxKq0uqA01rS+4bRwDwGdNIkYeQEy+E4Ig3HQ/MaygbsGkjN9+gmN0eEvjxF5Uyx+wff+4cfX8/IhsDKd8cfAy5BWfdWk3qiKOtyHfxvGTusHiX1MmXGcqCzA7vrOqKRhM2D5ccXH4ADok8eID1J2WSi7jCrvYJBSQ0c7wcDUb5PRZn9Jp4kZ0lD0CJA2HTPUokP517+Og+Qzq0bs=;v5Yrh/nnnE8VzCcRn6ryGQ=="

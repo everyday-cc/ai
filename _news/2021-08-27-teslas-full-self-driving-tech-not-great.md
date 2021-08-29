@@ -103,22 +103,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "Elon Musk Admits That Tesla's Full Self-Driving Beta Kind Of Sucks"
-    excerpt: "All of which is to say that Elon Musk is a Twitter user, and a pretty earnest one at that. When he’s not sharing silly memes, he’s frequently interacting with Tesla fans, detractors or just regular Twitter users."
-    publishedDateTime: 2021-08-24T14:19:00Z
-    webUrl: "https://jalopnik.com/elon-musk-admits-that-teslas-full-self-driving-beta-kin-1847545967"
-    ampWebUrl: "https://jalopnik.com/elon-musk-admits-that-teslas-full-self-driving-beta-kin-1847545967/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/elon-musk-admits-that-teslas-full-self-driving-beta-kin-1847545967/amp"
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 59
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/506b2ab92309f57eaa0241dd2b42cadd.jpg"
-        width: 800
-        height: 449
-        isCached: true
   - title: "Tesla's Full Self-Driving system 'not great,' admits Musk"
     excerpt: "Tesla CEO Elon Musk has admitted that the Full Self-Driving system is not that great, adding that the company is trying for a"
     publishedDateTime: 2021-08-25T07:06:00Z

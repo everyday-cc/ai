@@ -2,6 +2,180 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2021-08-09-data-labeling-platform-snorkel-ai-nabs-85m.md",
+      "title": "Data labeling platform Snorkel AI nabs $85M",
+      "excerpt": "Data labeling platform Snorkel AI has raised $85 million at a $1 billion valuation, the company announced in a press release.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/09/data-labeling-platform-snorkel-ai-nabs-85m/",
+      "originalUrl": "https://venturebeat.com/2021/08/09/data-labeling-platform-snorkel-ai-nabs-85m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/05/shutterstock_771480475-e1585240349686.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/09/data-labeling-platform-snorkel-ai-nabs-85m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/09/data-labeling-platform-snorkel-ai-nabs-85m/amp/",
+      "publishedDateTime": "2021-08-09T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-09-worldwide-medical-telepresence-robots-industry-to-2028-featuring-amy-robotics-axyn-robotics-and-xandex-among-others-researchandmarketscom.md",
+      "title": "Worldwide Medical Telepresence Robots Industry to 2028 – Featuring Amy Robotics, AXYN Robotics and Xandex Among Others – ResearchAndMarkets.com",
+      "excerpt": "The global medical telepresence robots market size is expected to reach USD 159.5 million by 2028. It is expected to expand at a CAGR of 18.5% from 2021 to 2028. Guangzhou Yingbo Intelligent Technology Co.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/worldwide-medical-telepresence-robots-industry-to-2028-featuring-amy-robotics-axyn-robotics-and-xandex-among-others-researchandmarkets-com/",
+      "originalUrl": "https://www.financialbuzz.com/worldwide-medical-telepresence-robots-industry-to-2028-featuring-amy-robotics-axyn-robotics-and-xandex-among-others-researchandmarkets-com/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-09T06:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-09-eden-ai-launches-platform-to-unify-ml-apis.md",
+      "title": "Eden AI launches platform to unify ML APIs",
+      "excerpt": "Eden AI, a startup developing a service to unify disparate AI APIs from vendors like Amazon Web Services, has launched a new platform.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/09/eden-ai-launches-platform-to-unify-ml-apis/",
+      "originalUrl": "https://venturebeat.com/2021/08/09/eden-ai-launches-platform-to-unify-ml-apis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/1_dcGpsGf0Z5Ckwtu0SS2CCQ.png?w=800&resize=800%2C371&strip=all",
+          "width": 800,
+          "height": 371,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/09/eden-ai-launches-platform-to-unify-ml-apis/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/09/eden-ai-launches-platform-to-unify-ml-apis/amp/",
+      "publishedDateTime": "2021-08-09T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "IBM AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-08-09-loxo-names-former-ibm-watson-and-bullhorn-exec-nicole-tumblin-to-vice-president-of-sales-enablement-and-operations.md",
+      "title": "Loxo Names Former IBM Watson and Bullhorn Exec, Nicole Tumblin to Vice President of Sales Enablement and Operations",
+      "excerpt": "The #1 Talent Intelligence Platform hires recruiting and AI software veteran to accelerate ... She also held leadership positions at IBM with the Watson Analytics and Watson Analytics for Social ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/08/p22399618/loxo-names-former-ibm-watson-and-bullhorn-exec-nicole-tumblin-to-vice-president-of-sales-enablemen",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/08/p22399618/loxo-names-former-ibm-watson-and-bullhorn-exec-nicole-tumblin-to-vice-president-of-sales-enablemen",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/22399618",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22399618",
+      "publishedDateTime": "2021-08-09T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2021-08-09-can-you-trust-the-solutions-that-ai-technologies-deliver-with-mathematical-optimization-you-can.md",
       "title": "Can You Trust The Solutions That AI Technologies Deliver? With Mathematical Optimization, You Can",
       "excerpt": "Numerous high-profile incidents have shone a spotlight on some of the inherent shortcomings and unintended biases of AI technologies, shaking our confidence in the accuracy of these solutions.",
@@ -928,187 +1102,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-samsungs-new-robot-vacuum-uses-lidar-and-ai-to-avoid-obstacles-priced-at-rm4999.md",
-      "title": "Samsung’s new robot vacuum uses LiDAR and AI to avoid obstacles, priced at RM4,999",
-      "excerpt": "Samsung Malaysia just released its new robot vacuum, the Samsung Jet Bot AI+. It claims to be the first vacuum that uses AI and object recognition to navigate through your home. The Jet Bot AI+ uses a LiDAR sensor,",
-      "sourceUrl": null,
-      "webUrl": "https://soyacincau.com/2021/08/09/samsung-jet-bot-ai-plus-robot-vacuum-malaysia-price/",
-      "originalUrl": "https://soyacincau.com/2021/08/09/samsung-jet-bot-ai-plus-robot-vacuum-malaysia-price/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnen.soyacincau.com/2021/07/210729-Samsung-Jet-Bot-AI-vacuum-hero.jpg",
-          "width": 900,
-          "height": 507,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://soyacincau.com/2021/08/09/samsung-jet-bot-ai-plus-robot-vacuum-malaysia-price/amp/",
-      "cdnAmpWebUrl": "https://soyacincau-com.cdn.ampproject.org/c/s/soyacincau.com/2021/08/09/samsung-jet-bot-ai-plus-robot-vacuum-malaysia-price/amp/",
-      "publishedDateTime": "2021-08-08T21:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SoyaCincau",
-        "domain": "soyacincau.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-to-create-agi-we-need-a-new-theory-of-intelligence.md",
-      "title": "To create AGI, we need a new theory of intelligence",
-      "excerpt": "For decades, Artificial General Intelligence, computers that can think and act like humans, has continued to elude scientists and researchers.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/08/to-create-agi-we-need-a-new-theory-of-intelligence/",
-      "originalUrl": "https://venturebeat.com/2021/08/08/to-create-agi-we-need-a-new-theory-of-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/robot-2301646-e1628227212251.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/08/to-create-agi-we-need-a-new-theory-of-intelligence/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/08/to-create-agi-we-need-a-new-theory-of-intelligence/amp/",
-      "publishedDateTime": "2021-08-08T19:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-read-the-leaked-email-that-googles-ai-firm-deepmind-sent-to-staff-after-the-bombshell-news-that-its-cofounder-faced-a-bullying-investigation.md",
-      "title": "Read the leaked email that Google's AI firm DeepMind sent to staff after the bombshell news that its cofounder faced a bullying investigation",
-      "excerpt": "Insider obtained the internal memo DeepMind sent after revelations that its cofounder was accused of bullying. The Wall Street Journal reported in January that a law firm had investigated Mustafa ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/google-deepmind-leaked-email-mustafa-suleyman-bullying-claims-2021-6",
-      "originalUrl": "https://www.businessinsider.com/google-deepmind-leaked-email-mustafa-suleyman-bullying-claims-2021-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60d469598c8b40001809643b?width=1200&format=jpeg",
-          "width": 1133,
-          "height": 566,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-seachange-enables-a-fully-migrated-cloud-video-delivery-platform-with-unique-analytics-and-engagement-services-on-amazon-web-services.md",
-      "title": "SeaChange Enables a Fully Migrated Cloud Video Delivery Platform with Unique Analytics and Engagement Services on Amazon Web Services",
-      "excerpt": "Now, with Amazon SageMaker, SeaChange customers will be able to easily deploy ML use cases like predictive maintenance, computer vision and predicting customer behaviors. \"SeaChange's StreamVid platform enabled us to launch Screen iL last week, our global ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/08/09/9426365.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/08/09/9426365.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

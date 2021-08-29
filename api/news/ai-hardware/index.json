@@ -89,6 +89,92 @@
       ]
     },
     {
+      "path": "_news/2021-08-26-ibm-unveils-chip-for-accelerating-ai-inference-engines.md",
+      "title": "IBM Unveils Chip for Accelerating AI Inference Engines",
+      "excerpt": "The IBM Telum Processor is the company’s first chip capable of providing that acceleration capability while transactions are processing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itbusinessedge.com/development/ibm-unveils-chip-for-accelerating-ai-inference-engines/",
+      "originalUrl": "https://www.itbusinessedge.com/development/ibm-unveils-chip-for-accelerating-ai-inference-engines/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itbusinessedge.com/wp-content/uploads/2021/06/IBM-sues-GlobalFoundries.jpg",
+          "width": 600,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-25T11:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Business Edge",
+        "domain": "itbusinessedge.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-26-nvidia-powers-polaris-supercomputer-with-2240-gpus-for-massive-ai-workloads.md",
+      "title": "NVIDIA Powers Polaris Supercomputer With 2,240 GPUs For Massive AI Workloads",
+      "excerpt": "The US Department of Energy's Argonne National Laboratory is much more fortunate, having procured a whopping 2,240 NVIDIA A100 Tensor Core GPUs (based on Ampere) for its Polaris supercomputer to \"supercharge researcher and discovery.",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/nvidia-2240-gpus-polaris-supercomputer-ai-workloads",
+      "originalUrl": "https://hothardware.com/news/nvidia-2240-gpus-polaris-supercomputer-ai-workloads",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/56074/content/small_polaris_supercomputer.jpg",
+          "width": 708,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/nvidia-2240-gpus-polaris-supercomputer-ai-workloads",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-2240-gpus-polaris-supercomputer-ai-workloads",
+      "publishedDateTime": "2021-08-25T10:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-25-ai-training-growing-pains-at-facebook.md",
       "title": "AI Training Growing Pains at Facebook",
       "excerpt": "Facebook has to keep digging into ever-lower levels of its architecture to efficiently make use of endlessly growing training data. This has meant",
@@ -97,7 +183,7 @@
       "originalUrl": "https://www.nextplatform.com/2021/08/25/ai-training-growing-pains-at-facebook/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -524,21 +610,21 @@
       ]
     },
     {
-      "path": "_news/2021-08-25-esperanto-delivers-massive-ai-processing-with-less-than-20w-for-data-center-inference-workloads.md",
-      "title": "Esperanto Delivers Massive AI Processing With Less Than 20W For Data Center Inference Workloads",
-      "excerpt": "The 7nm ET-SoC-1 features 1,088 64-bit in-order cores with vector units referred to as ET-Minions and four high-performance 64-bit out-of-order RISC-V cores referred to as ET-Maxions.",
+      "path": "_news/2021-08-24-esperanto-launches-ai-accelerator-with-over-1000-risc-v-cores.md",
+      "title": "Esperanto Launches AI Accelerator With Over 1000 RISC-V Cores",
+      "excerpt": "Accelerating ML Recommendation with over a thousand RISC-V Processors, the Esperanto ET-SoC-1 is the highest performance commercial RISC-V chip to date.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2021/08/24/esperanto-delivers-massive-ai-processing-with-less-than-20w-for-data-center-inference-workloads/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2021/08/24/esperanto-delivers-massive-ai-processing-with-less-than-20w-for-data-center-inference-workloads/",
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/08/24/esperanto-launches-with-1000-core-risc-v-ai-accelerator/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/08/24/esperanto-launches-with-1000-core-risc-v-ai-accelerator/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 139,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6125286faeafbcc6b6801db8%2F0x0.jpg",
-          "width": 435,
-          "height": 353,
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611fd70be384d73d2f2ce2ad%2F0x0.jpg",
+          "width": 1200,
+          "height": 689,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -546,9 +632,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-24T10:35:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/08/24/esperanto-launches-with-1000-core-risc-v-ai-accelerator/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/08/24/esperanto-launches-with-1000-core-risc-v-ai-accelerator/amp/",
+      "publishedDateTime": "2021-08-24T09:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1346,94 +1432,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-baidu-just-launched-a-robocar-prototype-with-its-new-ai-chip.md",
-      "title": "Baidu Just Launched a \"Robocar\" Prototype With Its New AI Chip",
-      "excerpt": "Chinese tech giant Baidu just unveiled its new artificial ... one of the world's biggest tech firms by focusing on AI and self-driving solutions. Baidu said the new chip, which uses 7 nm process ...",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/baidu-just-launched-a-robocar-prototype-with-its-new-ai-chip",
-      "originalUrl": "https://interestingengineering.com/baidu-just-launched-a-robocar-prototype-with-its-new-ai-chip",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/V0OyWrKL6Q/sizes/baidu_resize_md.jpeg",
-          "width": 744,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.interestingengineering.com/baidu-just-launched-a-robocar-prototype-with-its-new-ai-chip",
-      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/baidu-just-launched-a-robocar-prototype-with-its-new-ai-chip",
-      "publishedDateTime": "2021-08-19T09:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-google-rival-baidu-has-made-an-ai-chip-for-autonomous-driving-and-more.md",
-      "title": "Google Rival Baidu Has Made an AI Chip for Autonomous Driving and More",
-      "excerpt": "Baidu has unveiled its latest Kunlun II chip at the Baidu World Conference. It is claimed to be two to three times faster than its predecessor, but what is more important here is that the unit is an artificial intelligence chip that can also be used for autonomous cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoevolution.com/news/google-rival-baidu-has-made-an-ai-chip-for-autonomous-driving-and-more-167674.html",
-      "originalUrl": "https://www.autoevolution.com/news/google-rival-baidu-has-made-an-ai-chip-for-autonomous-driving-and-more-167674.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.cdn.autoevolution.com/images/news/google-rival-baidu-has-made-an-ai-chip-for-autonomous-driving-and-more-167674-7.jpg",
-          "width": 728,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T09:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "autoevolution.com",
-        "domain": "autoevolution.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI",
         "AI Hardware"
       ]

@@ -52,20 +52,6 @@ related:
       name: List of Banks in Belarus
       domain: globalbankingandfinance.com
     quality: 31
-  - title: "Global Industry Analysts Predicts the World Cognitive Services Market to Reach $29 Billion by 2026"
-    excerpt: "Companies: 42 - Players covered include Amazon Web Services, Inc.; Apple, Inc.; Attivio, Inc.; Baidu, Inc.; BMC Software, Inc.; Clarifai, Inc.; CognitiveScale; Expert ..."
-    publishedDateTime: 2021-08-24T14:52:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-industry-analysts-predicts-the-world-cognitive-services-market-to-reach-29-billion-by-2026/article_9c385638-fa60-5a72-b426-af194d05e231.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 25
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/6e/c6eb5c17-d1e6-5ef2-96fa-20aca81f3dca/61250288de397.image.jpg?resize=747%2C630"
-        width: 747
-        height: 630
-        isCached: true
   - title: "Growth in AI-Enabled Distributed Energy Resources Integration Market to Reach $481 Million by 2030"
     excerpt: "AI techniques have been deployed in the energy industry for a variety of grid and market operations. A new report from Guidehouse Insights analyzes AI capabilities for enabling distributed energy resources (DER) integration,"
     publishedDateTime: 2021-08-25T17:12:00Z
@@ -80,20 +66,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "Global Cognitive Media Market to Reach $2.9 Billion by 2026"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Cognitive Media - Global Market Trajectory & Analytics\". The report presents fresh perspectives"
-    publishedDateTime: 2021-08-24T14:09:00Z
-    webUrl: "https://www.lelezard.com/en/news-19965796.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 24
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Precision Medicine Market to Reach USD 125.67 Billion by 2026"
     excerpt: "Increasing advancements in cancer biology and myriad benefits offered by precision medicines to drive the global precision medicine market. <br />"
     publishedDateTime: 2021-08-27T10:33:00Z
@@ -107,20 +79,6 @@ related:
       - url: "https://menafn.com/updates/pr/2021-08/26/pr_12067_f10a3a26_image_story.jpeg"
         width: 400
         height: 300
-        isCached: true
-  - title: "United States Automotive Voice Recognition Systems Market Report 2021 - Forecast to 2026 - ResearchAndMarkets.com"
-    excerpt: "The “Automotive Voice Recognition Systems Market Research Report by Deployment, by State - United States Forecast to 2026 - Cumulative Impact of COVID-19” report has been added to ResearchAndMarkets.com’s offering."
-    publishedDateTime: 2021-08-24T14:32:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-united-states-voice-recognition-020d4caabfe8456fbe7b0856bbb2bf8f"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 3
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "9LhQQV4cUNDJ9Aj9Is7FJ9M3DfgocsxoYGroQf+JFUT8yD6YCDrooTU2NDYvZMgnq+g4c21BxQOJmDVKpArojmWXQYjoHJnWdzvQQ2/vJuQ8C8lUgyk8Ee+P7m5UI1oIaGnsjQw0GM2e5HZqwldoqGjXFQqOA3equZl4lqYKMDhnLjydc0ikeaBfQMXUWK2l2tRRUd/qd6rYGIuUG+/uKjoFsaeJ4HxvfVzwY0VfRW/g0FIXvKeuFZwCnvVzoajshuK6N+uu2jIF2NbyI4jnqoYzSUTFFS+RXYwlIO4c/ydaQmz+iRzUsr3ZFzz3uMNE5X4QnHt3GFLIZE1j81qqtEvRytSW4DEkEB/povk8klc=;IRNLl5Ov3RTfgSzUFAbqwQ=="

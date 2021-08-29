@@ -391,7 +391,7 @@
       "originalUrl": "https://venturebeat.com/2021/08/25/how-new-regulation-is-driving-the-ai-governance-market/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -495,7 +495,7 @@
       "originalUrl": "https://electrek.co/2021/08/25/tesla-full-self-driving-beta-public-release-4-weeks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 214,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -791,6 +791,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-26-ibm-unveils-chip-for-accelerating-ai-inference-engines.md",
+      "title": "IBM Unveils Chip for Accelerating AI Inference Engines",
+      "excerpt": "The IBM Telum Processor is the company’s first chip capable of providing that acceleration capability while transactions are processing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itbusinessedge.com/development/ibm-unveils-chip-for-accelerating-ai-inference-engines/",
+      "originalUrl": "https://www.itbusinessedge.com/development/ibm-unveils-chip-for-accelerating-ai-inference-engines/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itbusinessedge.com/wp-content/uploads/2021/06/IBM-sues-GlobalFoundries.jpg",
+          "width": 600,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-25T11:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Business Edge",
+        "domain": "itbusinessedge.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-26-joondalup-supports-push-to-become-centre-for-artificial-intelligence-and-robotics.md",
       "title": "Joondalup supports push to become centre for artificial intelligence and robotics",
       "excerpt": "A major Perth council wants to become Australia’s first urban centre for artificial intelligence and robotics.",
@@ -878,6 +921,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-26-nvidia-powers-polaris-supercomputer-with-2240-gpus-for-massive-ai-workloads.md",
+      "title": "NVIDIA Powers Polaris Supercomputer With 2,240 GPUs For Massive AI Workloads",
+      "excerpt": "The US Department of Energy's Argonne National Laboratory is much more fortunate, having procured a whopping 2,240 NVIDIA A100 Tensor Core GPUs (based on Ampere) for its Polaris supercomputer to \"supercharge researcher and discovery.",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/nvidia-2240-gpus-polaris-supercomputer-ai-workloads",
+      "originalUrl": "https://hothardware.com/news/nvidia-2240-gpus-polaris-supercomputer-ai-workloads",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/56074/content/small_polaris_supercomputer.jpg",
+          "width": 708,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/nvidia-2240-gpus-polaris-supercomputer-ai-workloads",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-2240-gpus-polaris-supercomputer-ai-workloads",
+      "publishedDateTime": "2021-08-25T10:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-26-enabling-student-success-what-were-learning-from-distance-and-hybrid-education.md",
       "title": "Enabling Student Success: What We’re Learning From Distance And Hybrid Education",
       "excerpt": "Make online, hybrid, and in-the-classroom Like many parents and guardians, I felt unprepared to take over the day-to-day management of my household’s learning during the pandemic. Despite being involved in online education for over a decade—first as the founding president of Khan Academy,",
@@ -939,7 +1025,7 @@
       "originalUrl": "https://www.govtech.com/news/san-diego-ai-startup-nets-210m-for-drones-used-by-military",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1076,7 +1162,7 @@
       "originalUrl": "https://www.nextplatform.com/2021/08/25/ai-training-growing-pains-at-facebook/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -1111,111 +1197,6 @@
         "AI Hardware",
         "Computer Vision",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-aura-now-offering-digital-security-platform-to-businesses-as-an-employee-first-solution.md",
-      "title": "Aura Now Offering Digital Security Platform To Businesses As An Employee-First Solution",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead talks about Aura as a digital security offering as an employee-first solution for small and large businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/08/25/aura-now-offering-digital-security-platform-to-businesses-as-an-employee-first-solution/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/08/25/aura-now-offering-digital-security-platform-to-businesses-as-an-employee-first-solution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61265fbe125c0b34f6ae514e%2F0x0.jpg",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/08/25/aura-now-offering-digital-security-platform-to-businesses-as-an-employee-first-solution/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/08/25/aura-now-offering-digital-security-platform-to-businesses-as-an-employee-first-solution/amp/",
-      "publishedDateTime": "2021-08-25T08:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-clearview-ai-offered-free-facial-recognition-trials-to-police-all-around-the-world.md",
-      "title": "Clearview AI Offered Free Facial Recognition Trials To Police All Around The World",
-      "excerpt": "As of February 2020, 88 law enforcement and government-affiliated agencies in 24 countries outside the United States have tried to use controversial facial recognition technology Clearview AI, according to a BuzzFeed News investigation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.buzzfeednews.com/article/ryanmac/clearview-ai-international-search-table",
-      "originalUrl": "https://www.buzzfeednews.com/article/ryanmac/clearview-ai-international-search-table",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2021-07/30/15/enhanced/81bd535b1926/anigif_longform-original-4168-1627660303-22.gif?crop=799:548;0,0",
-          "width": 799,
-          "height": 548,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.buzzfeednews.com/amphtml/ryanmac/clearview-ai-international-search-table",
-      "cdnAmpWebUrl": "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/ryanmac/clearview-ai-international-search-table",
-      "publishedDateTime": "2021-08-25T08:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BuzzFeed News",
-        "domain": "buzzfeednews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/buzzfeednews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

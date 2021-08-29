@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 645
         isCached: true
+  - title: "Crypto Flipsider News – August 25th – Bitcoin, Kraken, The iNFT Metaverse, Philippines Axie Infinity Income Tax, Facebook, Galaxy, Fetch.ai NFTs"
+    excerpt: "Bitcoin, Kraken, The iNFT Metaverse, Philippines Axie Infinity Income Tax, Facebook, Galaxy, Fetch.ai NFTs The world’s first intelligent NFT creator funded to build iNFT metaverse. NFT updates: Facebook,"
+    publishedDateTime: 2021-08-25T13:30:00Z
+    webUrl: "https://www.investing.com/news/cryptocurrency-news/crypto-flipsider-news--august-25th--bitcoin-kraken-the-inft-metaverse-philippines-axie-infinity-income-tax-facebook-galaxy-fetchai-nfts-2599277"
+    type: article
+    provider:
+      name: Investing.com
+      domain: investing.com
+    quality: 2
+    images:
+      - url: "https://i-invdn-com.investing.com/news/LYNXNPEE340J6_L.jpg"
+        width: 800
+        height: 488
+        isCached: true
 
 secured: "TSWWmjhAxQAUb1spmcr/XG5ynvnNgo6suxBjrDeYiANV7X1uRQ905IJhE9LDJpFtCi7EDS85OnuoL+7XiQIUpiC/5OmmJfkEXYEgwNkvgEs7H6Fd2WGd6IO6iWcJoT8mRRwhOBTdEZA1gBxn37BN2gBt57fsNECbJKNwAcOiMk2B6U9+w4TyVM0u/X19z0FNq83+TxPaHv/mpRNKmnKDlJ0T53DEM7QS7f0dlVq7IkwMMTQlW+49BOelyX8vk+EqcP5xdB5vauwzpEFBHSPGA+OJLnt9SMdYj6ExqxSuLyZ2rSABT3EM7ltSfoTLQ9c+894RALjAP7oCCqlUfxTrvTYKqUkCS4HS7N8Xa+Q2D3Q=;vJdEJtWTMkdWuWt9BRnrkw=="
 ---

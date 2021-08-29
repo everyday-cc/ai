@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bethkindig/2021/08/27/heres-why-nvidia-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2021/08/27/heres-why-nvidia-will-surpass-apples-valuation-in-5-years/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 104
 published: true
 
 provider:
@@ -29,6 +29,47 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Nvidia Launches AI Enterprise Suite In Exclusive Pact With VMware"
+    excerpt: "Nvidia believes it can build a “significant” business with the new Nvidia AI Enterprise software suite it’s exclusively launching on VMware vSphere."
+    publishedDateTime: 2021-08-25T15:59:00Z
+    webUrl: "https://www.crn.com/news/virtualization/nvidia-launches-ai-enterprise-suite-in-exclusive-pact-with-vmware"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 41
+    images:
+      - url: "https://www.crn.com/resources/026c-1315a57ab4f8-914bd40921f0-1000/nvidia-ai-enterprise-image.jpg"
+        width: 1500
+        height: 1124
+        isCached: true
+  - title: "Nvidia launches AI enterprise suite"
+    excerpt: "Nvidia believes it can build a “significant” business with the new Nvidia AI Enterprise software suite it’s launching on VMware’s vSphere virtualization platform as part of an exclusive agreement. Made generally available on Tuesday,"
+    publishedDateTime: 2021-08-25T19:24:00Z
+    webUrl: "https://www.crn.com.au/news/nvidia-launches-ai-enterprise-suite-569072"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 41
+    images:
+      - url: "https://i.nextmedia.com.au/News/20210826062328_AI_brain.jpg"
+        width: 1395
+        height: 751
+        isCached: true
+  - title: "Global Artificial Intelligence Ai In Healthcare Market 2021 Latest Advancements and Business Outlook-NVIDIA Corporation (NVIDIA) (US)"
+    excerpt: "Many creative start-ups that are rapidly developing have been featured ... Asia Pacific has one of the largest consumer bases and holds a substantial share of the Artificial Intelligence Ai In Healthcare Market. This region is also anticipated to expand ..."
+    publishedDateTime: 2021-08-28T13:54:00Z
+    webUrl: "https://manometcurrent.com/global-artificial-intelligence-ai-in-healthcare-market-2021-latest-advancements-and-business-outlook-nvidia-corporation-nvidia-us/"
+    ampWebUrl: "https://manometcurrent.com/global-artificial-intelligence-ai-in-healthcare-market-2021-latest-advancements-and-business-outlook-nvidia-corporation-nvidia-us/"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/global-artificial-intelligence-ai-in-healthcare-market-2021-latest-advancements-and-business-outlook-nvidia-corporation-nvidia-us/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 38
 
 secured: "n4Umo1Dj8pVAnYLX4lqmk4WCDuc+LcIwuYou/6J3jFvgufW3/RbRtbDzXViqsf3X9zP8wxpiaG+1Fi2v7KLWfbb0uHvBPIfIu2LT3khsXVbjSFvD4pSao7A/kUVaUZidGvqaef3b3zmtGATPa5+/OiKopcKq348xpGiOfBpfi7GejU1zleSoSEmV8r+DjVakYQEhl/yH7F+TPp/6KvVIhA5TL92TVYbL3Z3V2PyUxSzeXZ53R+8J6X8ExITBUH+rFRjERrJJJLq+hxjrSs4JNWx96H/v54drGm0sBlgd6OV4U24ZGYi51A+CgFKfwhSCwECgD9IrVqNo932UVn2IvAfdkU1EKiuDHfbO5tmiZ2r/MZyAGcvrFSheQWOoNEYe5yzCZBORBAIehwJz67AsTFAcDlGZ3FTZ+SGbaerCH4uJHkx3Sh3bMGynBlhWLo6aLIyXi5bMwVimWtuoTiPWSWwezrDoRx6bmfn1Ya18UN1cceerA7VBqdQO78D6NR8BCSaNFGzDT2H9L0NlmW3PIg==;zsWkdiohYkyfggwCr5lWWw=="
 ---

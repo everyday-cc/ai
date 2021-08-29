@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-06-22-google-says-ai-and-analytics-can-take-its-cloud-to-the-next-level.md",
+      "title": "Google says AI and analytics can take its cloud to the next level",
+      "excerpt": "Google believes that artificial intelligence ( AI) and data analytics are the key technologies that will be the impetus behind their cloud computing business going forward. In an interview on the sidelines of the Qatar Economic Forum,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/in/news/google-says-ai-and-analytics-will-help-take-its-cloud-to-the-next-level",
+      "originalUrl": "https://www.techradar.com/in/news/google-says-ai-and-analytics-will-help-take-its-cloud-to-the-next-level",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/in/amp/news/google-says-ai-and-analytics-will-help-take-its-cloud-to-the-next-level",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/google-says-ai-and-analytics-will-help-take-its-cloud-to-the-next-level",
+      "publishedDateTime": "2021-06-22T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-22-primer-announces-strategic-alliance-with-microsoft-to-make-leading-ai-solutions-easily-available-primer-to-be-natively-supported-on-microsoft.md",
       "title": "Primer Announces Strategic Alliance with Microsoft to Make Leading AI Solutions Easily Available; Primer to be Natively Supported On Microsoft Azure",
       "excerpt": "SAN FRANCISCO, June 22, 2021 /PRNewswire/ -- Primer, an artificial intelligence (AI) company ... and natively supported within Microsoft Azure, enabling rapid deployment for Azure customers.",

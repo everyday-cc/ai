@@ -2,6 +2,94 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-19-baidu-just-launched-a-robocar-prototype-with-its-new-ai-chip.md",
+      "title": "Baidu Just Launched a \"Robocar\" Prototype With Its New AI Chip",
+      "excerpt": "Chinese tech giant Baidu just unveiled its new artificial ... one of the world's biggest tech firms by focusing on AI and self-driving solutions. Baidu said the new chip, which uses 7 nm process ...",
+      "sourceUrl": null,
+      "webUrl": "https://interestingengineering.com/baidu-just-launched-a-robocar-prototype-with-its-new-ai-chip",
+      "originalUrl": "https://interestingengineering.com/baidu-just-launched-a-robocar-prototype-with-its-new-ai-chip",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/V0OyWrKL6Q/sizes/baidu_resize_md.jpeg",
+          "width": 744,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.interestingengineering.com/baidu-just-launched-a-robocar-prototype-with-its-new-ai-chip",
+      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/baidu-just-launched-a-robocar-prototype-with-its-new-ai-chip",
+      "publishedDateTime": "2021-08-19T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-google-rival-baidu-has-made-an-ai-chip-for-autonomous-driving-and-more.md",
+      "title": "Google Rival Baidu Has Made an AI Chip for Autonomous Driving and More",
+      "excerpt": "Baidu has unveiled its latest Kunlun II chip at the Baidu World Conference. It is claimed to be two to three times faster than its predecessor, but what is more important here is that the unit is an artificial intelligence chip that can also be used for autonomous cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.autoevolution.com/news/google-rival-baidu-has-made-an-ai-chip-for-autonomous-driving-and-more-167674.html",
+      "originalUrl": "https://www.autoevolution.com/news/google-rival-baidu-has-made-an-ai-chip-for-autonomous-driving-and-more-167674.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.cdn.autoevolution.com/images/news/google-rival-baidu-has-made-an-ai-chip-for-autonomous-driving-and-more-167674-7.jpg",
+          "width": 728,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-19T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "autoevolution.com",
+        "domain": "autoevolution.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-08-19-intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor.md",
       "title": "Intel architect Koduri says every chip will be a neural net processor",
       "excerpt": "Intel's Xeon chips have tended to dominate the market for AI inference, but Nvidia has been making inroads. Intel has litle share in neural network training while Nvidia dominates the field with its GPUs. Koduri said the company intends to compete against ...",
@@ -1348,92 +1436,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-brainchip-demonstrates-that-intelligent-ai-is-everywhere-at-ai-hardware-summit-2021.md",
-      "title": "BrainChip Demonstrates that Intelligent AI is Everywhere at AI Hardware Summit 2021",
-      "excerpt": "BrainChip Holdings Ltd (ASX: BRN), (OTCQX: BRCHF), a leading provider of ultra-low power high performance artificial intelligence technology, today announced that Rob Telson, VP Worldwide Sales and Marketing,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-145dade35e1d49ab827a2b1eb28f8102",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-145dade35e1d49ab827a2b1eb28f8102",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-05T16:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-i-spoke-to-a-mutating-ai-npc-this-morning-and-now-it-thinks-its-god.md",
-      "title": "I spoke to a mutating AI NPC this morning and now it thinks it's God",
-      "excerpt": "I just finished conversing with an AI NPC about transcendentalism, predeterminism, and the meaning of love. Not how I expected to spend my morning, but I'm so glad I did. Not only have I walked away from Sensorium's new AI chatbot demo with a better understanding of the definition of intelligence (according to this new breed of artificial human),",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcgamer.com/sensorium-galaxy-metaverse-ai-npc-chatbot-vr/",
-      "originalUrl": "https://www.pcgamer.com/sensorium-galaxy-metaverse-ai-npc-chatbot-vr/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/UU9jrN7YFJ9nk774jEZRjk-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcgamer.com/amp/sensorium-galaxy-metaverse-ai-npc-chatbot-vr/",
-      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/sensorium-galaxy-metaverse-ai-npc-chatbot-vr/",
-      "publishedDateTime": "2021-08-05T09:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

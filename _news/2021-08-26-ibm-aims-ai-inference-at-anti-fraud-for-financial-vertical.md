@@ -26,19 +26,44 @@ images:
     isCached: true
 
 related:
-  - title: "IBM created an AI-powered chip that can spot fraud in real-time"
-    excerpt: "IBM just revealed its Telum processor, which is rigged with AI technology to help detect fraud in real-time. The new IBM Telum processor is the first from the company to have on-chip acceleration for"
-    publishedDateTime: 2021-08-24T14:00:00Z
-    webUrl: "https://www.noypigeeks.com/tech-news/ibm-ai-powered-chip-spot-fraud-real-time/"
+  - title: "IBM Unveils Chip for Accelerating AI Inference Engines"
+    excerpt: "The IBM Telum Processor is the company’s first chip capable of providing that acceleration capability while transactions are processing."
+    publishedDateTime: 2021-08-25T18:23:00Z
+    webUrl: "https://www.itbusinessedge.com/development/ibm-unveils-chip-for-accelerating-ai-inference-engines/"
     type: article
     provider:
-      name: NoypiGeeks
-      domain: noypigeeks.com
+      name: IT Business Edge
+      domain: itbusinessedge.com
     quality: 54
     images:
-      - url: "https://www.noypigeeks.com/wp-content/uploads/2021/08/ibm-ai-powered-chip-spot-fraud-real-time-noypigeeks.jpg"
-        width: 900
-        height: 506
+      - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/06/IBM-sues-GlobalFoundries.jpg"
+        width: 600
+        height: 422
+        isCached: true
+  - title: "IBM unveils Telum, its on-chip accelerated artificial intelligence processor"
+    excerpt: "It's the first processor that has the ability to detect a fraud while a transaction is taking place, and not after it has happened"
+    publishedDateTime: 2021-08-24T17:17:00Z
+    webUrl: "https://www.itp.net/emergent-tech/99652-ibm-unveils-telum-its-on-chip-accelerated-artificial-intelligence-processor"
+    ampWebUrl: "https://www.itp.net/emergent-tech/99652-ibm-unveils-telum-its-on-chip-accelerated-artificial-intelligence-processor?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/emergent-tech/99652-ibm-unveils-telum-its-on-chip-accelerated-artificial-intelligence-processor?amp"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 51
+  - title: "IBM’s First CPU With On-chip AI Acceleration Detects Fraud at Lightning Speeds"
+    excerpt: "Containing 22 billion transistors, IBM's new processor, Telum, features on-chip acceleration for AI inferencing. The goal: to detect fraud before a transaction is complete."
+    publishedDateTime: 2021-08-27T16:00:00Z
+    webUrl: "https://www.allaboutcircuits.com/news/ibms-first-cpu-telum-with-on-chip-ai-acceleration-detects-fraud-lightning-speeds/"
+    type: article
+    provider:
+      name: All About Circuits
+      domain: allaboutcircuits.com
+    quality: 50
+    images:
+      - url: "https://www.allaboutcircuits.com/uploads/thumbnails/Telum.jpg"
+        width: 700
+        height: 348
         isCached: true
 
 secured: "phxQgsJIADHLbwpi5BrXhMj6XsDoCEsrvDSXr+vihWcLs4DWyflH+qaNEF1w3OqR4fR2r8mMU0vrzP5ld2cl4n/+1OGGNlSpACi8bvU90KBH6fLWbdulJLQtimlce0X1dlNSKm6lJDdG0ZoIg+raNS+aXRT7PO3Kl+IK5RSvukRBZJG4E/Itco4558R2HtodSKD6ukDF8ysi14Z4wWkUZlJ0CJuM/1D8gFxwsh/ll3G4rE3fhczNBJs2v2rrAXPEE6MJGpg+2P0CoTqvv2MFMVOcTHV+YkTszXykXuqyjr2ZhBLzks+MMZwgPn3nfgX2i1qJGlY8rXsgTGEHltf3H8FTwWxWnNsEWFiP+0oUBiRN7VTzhbj0juzxF0K+F1KU8Gdyq2np5fVnnbZILbLO7xEjmypdNTrMHwSys70vXBJqDSSXboFyW0eAl+jxNOFet2zUQtqMy051JDm0wsSj1DQY/gImH20ekCLTXXCqNRecLE9aCUrABZOGbfxS2mQd2hWbu2CYHls+hYHlxYN7Cg==;EfZK/nnRyaWgwQCo8b1zPQ=="
