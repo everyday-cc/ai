@@ -57,6 +57,20 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "NtechLab supplies facial recognition for Indian Railways, but privacy legislation still pending"
+    excerpt: "NtechLab is implementing a facial recognition surveillance project in India intended to monitor the movement of train commuters."
+    publishedDateTime: 2021-08-30T18:39:00Z
+    webUrl: "https://www.biometricupdate.com/202108/ntechlab-supplies-facial-recognition-for-indian-railways-but-privacy-legislation-still-pending"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 42
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/07/25183012/Chincotech-facial-recognition.png"
+        width: 623
+        height: 432
+        isCached: true
   - title: "Augnito looks to tap growing India market for speech recognition in health"
     excerpt: "The use of voice recognition systems based on artificial intelligence (AI) in health care is emerging in India, which offers a potentially enormous market, according to Scribetech Healthcare (India) Pvt."
     publishedDateTime: 2021-08-27T00:00:00Z

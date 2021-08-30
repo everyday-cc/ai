@@ -43,6 +43,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "NtechLab supplies facial recognition for Indian Railways, but privacy legislation still pending"
+    excerpt: "NtechLab is implementing a facial recognition surveillance project in India intended to monitor the movement of train commuters."
+    publishedDateTime: 2021-08-30T18:39:00Z
+    webUrl: "https://www.biometricupdate.com/202108/ntechlab-supplies-facial-recognition-for-indian-railways-but-privacy-legislation-still-pending"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 42
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/07/25183012/Chincotech-facial-recognition.png"
+        width: 623
+        height: 432
+        isCached: true
   - title: "Why Are Indian Institutes Racing To Launch B Tech in AI Courses"
     excerpt: "Gone are the days when students fancied a computer science seat in a top tier college. Now there is a demand for specialisation. Thanks to the hype around artificial intelligence (AI), many Indian institutions are now racing to offer their own B."
     publishedDateTime: 2021-08-26T06:30:00Z

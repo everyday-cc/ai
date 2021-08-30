@@ -98,6 +98,17 @@ related:
       name: TheLadders.com
       domain: theladders.com
     quality: 37
+  - title: "Zebra to acquire artificial intelligence software company"
+    excerpt: "Zebra Technologies Monday said it intends to acquire Antuit.ai, a provider of artificial intelligence-powered software solutions specific to forecasting and merchandising for the retail and consumer packaged goods industries."
+    publishedDateTime: 2021-08-30T18:24:00Z
+    webUrl: "https://www.dailyherald.com/business/20210830/zebra-to-acquire-artificial-intelligence-software-company"
+    ampWebUrl: "https://www.dailyherald.com/amp-article/20210830/business/210839944/"
+    cdnAmpWebUrl: "https://www-dailyherald-com.cdn.ampproject.org/c/s/www.dailyherald.com/amp-article/20210830/business/210839944/"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 37
 
 secured: "UYZ/l6cRPIpHYMMm2QanaO/l6ef7BK6AeyafNGINRfoz4slwx7QSySHwhDw/2t4YSNuahcyhddIZ9nVHul4Xoc0mrl3Y6wNhkWmcsNJE5OEg5JbWE3lZopbELAyjFXFMuH/CYBRhJr2jcnkYgiEXMVJRZs9mXr8amSUgO+M1Ksa8GOjhpCg4a2C67qjir5Cw8/6bPqpga6E18rSVfo07ebrwVGHN35pE9rqoTktFfyshqCQgx3HXQgs/X2nUa2yLnNBsakaL9ygHHuLL7PjECFGK1j58L0Q8celdyHzraDMCBpbbQJ8qSvRwe454l+MmrJz79Kxllutx3toDB+PdRQa1Yi56cVkiEH4TZu437tS3zD9DLl0h/f/nnuCdhaibexQZw1Z/MSWeKpQr8PoyqYIC3a/FUfXpnZWPcN8YClrPWRH4pwMGmFpOFDsif02v2d8VTWx2Us0gmQu6VsXAlRffNjL/xXSI5jDSLHQhKFWEb4/mYHmVjDX4RtyXkYVkSyStZj4Wz4vdPpkoZS/o3Q==;Tzpg8LM/znP5qCwOxEBnwg=="
 ---

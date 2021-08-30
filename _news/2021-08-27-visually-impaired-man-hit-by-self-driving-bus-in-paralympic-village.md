@@ -403,6 +403,15 @@ related:
         width: 1200
         height: 670
         isCached: true
+  - title: "Toyota to Restart Self-Driving Vehicles at Olympic Village With More Safety Staff"
+    excerpt: "Toyota Motor said on Monday it would resume operations of its self-driving e-Palette pods at the Tokyo Paralympic Games village with greater operator control and more safety staff to ensure they did not hit any more people."
+    publishedDateTime: 2021-08-30T11:16:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2021-08-30/toyota-to-restart-self-driving-vehicles-at-olympic-village-with-more-safety-staff"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 29
   - title: "Toyota suspends use of self-driving vehicle in Olympic Village after collision with Paralympic athlete"
     excerpt: "Toyota's CEO on Friday apologized in a video posted to YouTube after one of the company's self-driving vehicles hit the athlete while driving at 1 to 2 kilometers per hour around the Olympic Village in Tokyo."
     publishedDateTime: 2021-08-27T21:40:00Z

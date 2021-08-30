@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/29/how-to-make-ai-more-ethical/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/29/how-to-make-ai-more-ethical/amp/"
 type: article
 quality: 104
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -101,6 +101,17 @@ related:
     provider:
       name: TheLadders.com
       domain: theladders.com
+    quality: 37
+  - title: "Zebra to acquire artificial intelligence software company"
+    excerpt: "Zebra Technologies Monday said it intends to acquire Antuit.ai, a provider of artificial intelligence-powered software solutions specific to forecasting and merchandising for the retail and consumer packaged goods industries."
+    publishedDateTime: 2021-08-30T18:24:00Z
+    webUrl: "https://www.dailyherald.com/business/20210830/zebra-to-acquire-artificial-intelligence-software-company"
+    ampWebUrl: "https://www.dailyherald.com/amp-article/20210830/business/210839944/"
+    cdnAmpWebUrl: "https://www-dailyherald-com.cdn.ampproject.org/c/s/www.dailyherald.com/amp-article/20210830/business/210839944/"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
     quality: 37
 
 secured: "nysj91w5pCd/nx6mbncLxZmfPoVfgEDJ7SmiqgEjNv0uKyxCWJoFib0ydSj4pIna7y1MRYKs+zHm4OlXwmjzorhxHlcw5PMnncDo44lXOWrYOo0hPjWzwhbud2ysFKyOjJhegtIJF2/U9sZH7jURVbwjb0ZpG4q6HlE43mQnSo0NTY674tx33MOqEhBYiQ/8DmLec6RZPdAqK88Pl2QG7Iw+TzWp2eabmLANf3uJ77+9b52ZRDZq+xf16i9img3D/3uHjwuRcuatCMzdMI7pjGtgcUDsqd7npk6T7cz5411OmY4ornJJkE8JdvYSzvd48+UfmEZabMy+C5BrQRJ6AH0SX/0rfvhpW9Z1GDJUZghPAdlYmzFOMuKixapoTEc0dA37j14cbPcAsSBoiDs0MojS/bBApB0NMzt7NAD8cdBbVhlmCcy53xd4sio8anNfU/IOTH+eF9hXy464J5q5psPiogs7d/eXCmWW33sJRsTspdMcxsY7si20qH7NCBgXiiQm0qlv3bdVD6+3nvIfWg==;VSXlHPoTMHZVLtrPIBZxnQ=="

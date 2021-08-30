@@ -2,6 +2,57 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-08-24-sensors-and-ai-to-monitor-dorset-social-care-patients.md",
+      "title": "Sensors and AI to monitor Dorset social care patients",
+      "excerpt": "One hundred people in Dorset who need social care are to be monitored by artificial intelligence (AI) as part of a three-month pilot. Sensors installed in homes will track behaviour and electricity usage which the AI will analyse to spot potential health problems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/technology-58317106",
+      "originalUrl": "https://www.bbc.com/news/technology-58317106",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/6BD3/production/_120230672_gettyimages-912072020.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/technology-58317106.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-58317106.amp",
+      "publishedDateTime": "2021-08-24T06:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-24-ibms-new-telum-processor-is-the-companys-first-with-an-on-chip-ai-accelerator.md",
       "title": "IBM's new Telum Processor is the company's first with an on-chip AI accelerator",
       "excerpt": "The microprocessor contains 8 processor cores and is designed to process sensitive data in hybrid cloud deployments, according to the company.",
@@ -1119,49 +1170,6 @@
         "AWS AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-wpp-acquires-ai-technology-company-satalia.md",
-      "title": "WPP acquires AI-technology company Satalia",
-      "excerpt": "WPP has announced the acquisition of Satalia, a technology company offering AI solutions for clients. The full announcement is below.The announcement:Satalia is a global leader in enterprise AI and one of the UK’s fastest-growing tech companies,",
-      "sourceUrl": null,
-      "webUrl": "https://mumbrella.com.au/wpp-acquires-ai-technology-company-satalia-699700",
-      "originalUrl": "https://mumbrella.com.au/wpp-acquires-ai-technology-company-satalia-699700",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mumbrella.com.au/wp-content/uploads/2021/08/WPP-1.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mumbrella.com.au/wpp-acquires-ai-technology-company-satalia-699700/amp",
-      "cdnAmpWebUrl": "https://mumbrella-com-au.cdn.ampproject.org/c/s/mumbrella.com.au/wpp-acquires-ai-technology-company-satalia-699700/amp",
-      "publishedDateTime": "2021-08-23T15:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mumbrella",
-        "domain": "mumbrella.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

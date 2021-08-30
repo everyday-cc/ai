@@ -65,6 +65,20 @@ related:
         width: 444
         height: 333
         isCached: true
+  - title: "Zebra Technologies acquires AI forecasting provider Antuit.ai"
+    excerpt: "Antuit.ai will expand the company’s SaaS product ... market through the recently announced $290 million acquisition of startup Fetch Robotics Inc, which makes robots for fulfillment centers."
+    publishedDateTime: 2021-08-30T19:28:00Z
+    webUrl: "https://siliconangle.com/2021/08/30/zebra-technologies-acquires-ai-forecasting-provider-antuit-ai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/image-2.png"
+        width: 768
+        height: 432
+        isCached: true
   - title: "Zebra Technologies to Acquire Antuit.ai"
     excerpt: "Acquisition accelerates Zebra’s Enterprise Asset Intelligence vision by expanding its growing retail and consumer packaged goods (CPG) software portfolio."
     publishedDateTime: 2021-08-30T17:04:00Z

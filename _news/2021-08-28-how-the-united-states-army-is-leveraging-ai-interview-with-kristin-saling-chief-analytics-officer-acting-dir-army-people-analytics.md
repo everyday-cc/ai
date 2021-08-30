@@ -62,15 +62,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Singapore fashion analytics firm acquires Malaysia AI startup in $20m deal"
-    excerpt: "“Accelerating the adoption of AI is at the heart of our business at Supahands, having witnessed firsthand the tangible benefits that AI and machine learning can bring to our clients as they strengthen the different pillars of their business from ..."
-    publishedDateTime: 2021-08-26T02:27:00Z
-    webUrl: "https://www.techinasia.com/singapore-fashion-analytics-firm-omnilytics-acquires-malaysia-ai-startup-supahands-20m-deal?ref=recommender-703423"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 45
   - title: "Army Wants to Install Facial Recognition, Video Analytics at Child Development Centers"
     excerpt: "The Army wants to use facial recognition and advanced machine learning algorithms to monitor kids at base Children Development Centers and plans to launch a pilot program at Fort Jackson in the near future."
     publishedDateTime: 2021-08-27T17:25:00Z

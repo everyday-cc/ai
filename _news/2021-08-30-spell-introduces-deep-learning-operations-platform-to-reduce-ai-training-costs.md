@@ -81,6 +81,6 @@ related:
       domain: jstor.org
     quality: 17
 
-secured: "SdZrRRrV/CGgWJybdmMIXs5Rb74ZW5EBCbqgGzKhRTO6iZchVHi6T3ac1rrskxgLEIO2/FYaLprt7H3+gK2fb36Eg99qogWJ1LXOXYCXNOioM1i/6ArC/Mv2FrxQpBHj+bfOgvu5rBgClI0RFiCtdg4peUuImI8ZWQFDR6UT+yld9YEDuomwzrRH1bXpYogO/FEhWw/U3NRcfIbHU2jsPND0QaBi55w9jOafblbP0Y8W6fAZcyNzQiRmSu4SO7t1dk9+i5x7pnux07BpJdCIRb1w/PvmJTpxHRxPL7ib7vcPxTPJxoOck86Akgc00CA6PqlAcz6E1CGBUqZyg7Jj48Mqk9qgblRbiMeTES4naV0=;/IXyEeKUqneNbFapGV3Pxw=="
+secured: "9B+b2wP7sr8Op+rovgR+ve8dPxNAAvNFML9U/1IRXskP4gS6VtvbF5cbtMkcmI1H13TjCUTsk8XP3uM0tdEdfa6+kG//cAPL4DoU/k377nizOXzyqTLdZiM/pjoNfl0jrvXGEz7Q45b/zsFiJqmG/8gNd87IFuQ4z6aCbE3a/blDvT3pTSjPC5qlJD9FHkumwDfmus6YkthBvp50pYptjSkfB/yyk6kmtRG/nOjMEI9PrSFT0a74i0F8LiXgDRDMwgZFkJoNiq2OZzbESRIzS6QsrdYRN0TD1yTDfp5vZmHLoGu7UCRcprQn36SuygHfcFh3WWxAGupz5LLxksNJB0VT1+1g9wAI+J4zjQHhG6w=;+ezFlIwIpXUcBazNa/2/jw=="
 ---
 

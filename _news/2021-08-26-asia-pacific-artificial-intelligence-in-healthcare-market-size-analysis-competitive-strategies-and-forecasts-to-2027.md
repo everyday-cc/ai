@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/asia-pacific-artificial-
 webUrl: "https://www.marketwatch.com/press-release/asia-pacific-artificial-intelligence-in-healthcare-market-size-analysis-competitive-strategies-and-forecasts-to-2027-2021-08-26"
 type: article
 quality: 60
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence In Healthcare Market Industry Size Share, Business Strategies, Growth Analysis, Regional Demand By 2027"
+    excerpt: "Selbyville, Delaware Market Study Report Has Added Research Each place is then elaborated to help the reader comprehend the growth potential of each region and its contribution to the Artificial Intelligence (Ai) In Healthcare market size."
+    publishedDateTime: 2021-08-26T13:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-industry-size-share-business-strategies-growth-analysis-regional-demand-by-2027-2021-08-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

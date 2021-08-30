@@ -43,22 +43,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "How new regulation is driving the AI governance market"
-    excerpt: "In a recent KPMG report, 94% of IT decision makers said that they feel that firms need to focus more on corporate responsibility and ethics while developing AI solutions. Analysts like StrategyR ..."
-    publishedDateTime: 2021-08-26T01:13:00Z
-    webUrl: "https://venturebeat.com/2021/08/25/how-new-regulation-is-driving-the-ai-governance-market/"
-    ampWebUrl: "https://venturebeat.com/2021/08/25/how-new-regulation-is-driving-the-ai-governance-market/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/25/how-new-regulation-is-driving-the-ai-governance-market/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1288853231.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Five top tips for ensuring your conversational AI project is a hit"
     excerpt: "Let’s look first at where conversational AI can make a difference. There are three main forms of communication in every organization where conversational AI can dramatically cha"
     publishedDateTime: 2021-08-26T10:00:00Z
@@ -75,17 +59,6 @@ related:
         width: 970
         height: 545
         isCached: true
-  - title: "Ambit Launches Conversational AI Platform in AWS Marketplace"
-    excerpt: "Today, Ambit, an Auckland-based conversational artificial intelligence (AI) company, announced the availability of Ambit Edge in Amazon Web Services (AWS) Marketplace. Ambit Edge, an easy to use, intent-based, enterprise-grade digital employee that ..."
-    publishedDateTime: 2021-08-26T02:19:00Z
-    webUrl: "https://www.scoop.co.nz/stories/BU2108/S00486/ambit-launches-conversational-ai-platform-in-aws-marketplace.htm"
-    ampWebUrl: "https://m.scoop.co.nz/stories/BU2108/S00486/ambit-launches-conversational-ai-platform-in-aws-marketplace.htm"
-    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2108/S00486/ambit-launches-conversational-ai-platform-in-aws-marketplace.htm"
-    type: article
-    provider:
-      name: Scoop
-      domain: scoop.co.nz
-    quality: 54
   - title: "Conversational AI market to grow to $15.7 billion by 2024"
     excerpt: "The market for conversational artificial intelligence AI is expected to grow from 42 billion dollars in 2019 to 157 billion dollars by 2024 customer suppor"
     publishedDateTime: 2021-08-28T09:46:00Z

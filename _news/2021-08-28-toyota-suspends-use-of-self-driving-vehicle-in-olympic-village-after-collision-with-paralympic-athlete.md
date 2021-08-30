@@ -419,6 +419,15 @@ related:
         width: 1200
         height: 670
         isCached: true
+  - title: "Toyota to Restart Self-Driving Vehicles at Olympic Village With More Safety Staff"
+    excerpt: "Toyota Motor said on Monday it would resume operations of its self-driving e-Palette pods at the Tokyo Paralympic Games village with greater operator control and more safety staff to ensure they did not hit any more people."
+    publishedDateTime: 2021-08-30T11:16:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2021-08-30/toyota-to-restart-self-driving-vehicles-at-olympic-village-with-more-safety-staff"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 29
   - title: "Toyota self-driving bus throws a Paralympic judo expert"
     excerpt: "Company said it was a little overconfident – the bus not the competitor \"Toyota has apologised for the 'overconfidence' of a self-driving bus,\" after the slow-moving bus managed to hit a Paralympic judo expert."
     publishedDateTime: 2021-08-30T09:50:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.thefastmode.com/expert-opinion/20640-how-instant-cyber
 webUrl: "https://www.thefastmode.com/expert-opinion/20640-how-instant-cybersecurity-data-intelligence-will-stop-ransomware-attacks"
 type: article
 quality: 23
-heat: 23
+heat: -1
 published: false
 
 provider:
@@ -26,16 +26,16 @@ images:
 
 related:
   - title: "The 'Hyperscale SOC' and the Minds Behind It: A Machine-learning Foundation for Effective Cybersecurity"
-    excerpt: "CSO offers the latest information and best practices on business continuity and data protection, best practices for prevention of social engineering scams, malware and breaches, and tips and advice abut security careers and leadership."
+    excerpt: "With a plethora of data, configurations, and potential attack vectors across the modern midsize enterprise, the sheer volume of available information can be overwhelming for those tasked with securing their organizations."
     publishedDateTime: 2021-08-29T17:00:00Z
-    webUrl: "https://www.csoonline.com/resources/223485/the-hyperscale-soc-and-the-minds-behind-it-a-machine-learning-foundation-for-effective-cybersecurity"
+    webUrl: "https://www.infoworld.com/resources/223485/the-hyperscale-soc-and-the-minds-behind-it-a-machine-learning-foundation-for-effective-cybersecurity"
     type: article
     provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 8
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 38
     images:
-      - url: "https://idge.staticworld.net/cso/CSO_logo_300x300.png"
+      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
         width: 300
         height: 300
         isCached: true
