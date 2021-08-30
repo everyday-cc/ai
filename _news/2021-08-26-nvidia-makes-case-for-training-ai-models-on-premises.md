@@ -24,21 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "In the Face of Rising Security Issues and Hacks, GBC.AI Makes the Case for Machine Learning and AI Integration"
-    excerpt: "Trustless. The word gets thrown around a lot in the blockchain space. It is one of the principles that decentralized finance is based upon. DeFi, as it was initially envisioned, is supposed to provide users with the ability to interact directly with each other thanks to decentralized technology that eliminates the need for third-party control."
-    publishedDateTime: 2021-08-25T12:08:00Z
-    webUrl: "https://techbullion.com/in-the-face-of-rising-security-issues-and-hacks-gbc-ai-makes-the-case-for-machine-learning-and-ai-integration/"
-    ampWebUrl: "https://techbullion.com/in-the-face-of-rising-security-issues-and-hacks-gbc-ai-makes-the-case-for-machine-learning-and-ai-integration/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/in-the-face-of-rising-security-issues-and-hacks-gbc-ai-makes-the-case-for-machine-learning-and-ai-integration/amp/"
+  - title: "Nvidia, VMware Push AI Out to the Enterprise"
+    excerpt: "With the release of AI Enterprise 1.0, Nvidia is bringing AI training and inferencing into the reach of enterprises' own data centers."
+    publishedDateTime: 2021-08-26T11:00:00Z
+    webUrl: "https://thenewstack.io/nvidia-vmware-push-ai-out-to-the-enterprise/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 71
+      name: thenewstack.io
+      domain: thenewstack.io
+    quality: 41
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/08/Machine-Learning-and-AI-Integration.png"
-        width: 512
-        height: 320
+      - url: "https://cdn.thenewstack.io/media/2021/08/c783c87a-curve-1209392_640.jpg"
+        width: 640
+        height: 426
+        isCached: true
+  - title: "Tiny AI for the Enterprise Edge"
+    excerpt: "Even without an internet connection, Google Recorder algorithms can translate voice to text on a ... and reduced processing costs needed for tiny AI. OpenAI estimates that training costs for natural language models such as GPT-3 in the cloud are estimated ..."
+    publishedDateTime: 2021-08-28T16:33:00Z
+    webUrl: "https://www.infosys.com/iki/insights/tiny-ai-enterprise-edge.html"
+    type: article
+    provider:
+      name: Infosys
+      domain: infosys.com
+    quality: 39
+    images:
+      - url: "https://www.infosys.com/content/dam/infosys-web/en/about/knowledge-institute/Images/tiny-ai-enterprise-edge-mob.jpg"
+        width: 800
+        height: 500
         isCached: true
 
 secured: "Hde+pnsL8OxJ19v0XUkWi4b0+OvYXUgOZrgrCFhqkMYFqPCgHpt2bNYCfdoz4tDEPrBNjNRk3WzRcdX7ss3unwRiDfawn9C4kwZTkXQB+CvZcyICay364QTL26n0DZf+rN09808s6mGF0Y6X2qrOmJoBSs26ujk+Wgia7WJZI9JkRJ1neGXC8VYEzfrDT0AulCxJPlJY8uhTCO1wZsOfePTnnh2lqhga/EXcCUpJBXseaPD1g05gkXSOwpMCd9e+oLNCPYQhR572gA6ffzcVBOB1mT/5wR/Ey9k1en+RE90SUu0glxxJXiEB0dBD7S4jZTX+9gf6cHMmuzlkoSSAteBVDzAvuhDwOZKwNCRwNIU=;hXATR/pyDLk7lVfbvbZfvg=="

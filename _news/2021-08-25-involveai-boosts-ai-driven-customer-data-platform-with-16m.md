@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/25/involve-ai-boosts-ai-driven-custo
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/25/involve-ai-boosts-ai-driven-customer-data-platform-with-16m/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Dream Sports Uses Artificial Intelligence"
-    excerpt: "Our fan engagement product FanCode uses AI and ML backend framework to provide a personalised user experience to sports fans."
-    publishedDateTime: 2021-08-25T11:30:00Z
-    webUrl: "https://analyticsindiamag.com/how-dream-sports-uses-artificial-intelligence/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/How-Dream-Sports-Uses-Artificial-Intelligence-.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "4 Ways to Sway Customers Toward AI for a Better Customer Experience"
     excerpt: "Consumers are ambivalent about artificial intelligence. According to data collected by O’Reilly, majorities of consumers embrace AI in applications"
     publishedDateTime: 2021-08-27T16:30:00Z

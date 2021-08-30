@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/27/chances-of-collis
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/27/chances-of-collisions-involving-urgently-underway-police-cars-and-ai-self-driving-cars/amp/"
 type: article
 quality: 81
-heat: 181
+heat: 171
 published: true
 
 provider:
@@ -92,20 +92,6 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-36846,msid-85681738/waymo-chrysler-pacifica-hybrid-self-driving-car.jpg"
         width: 600
         height: 450
-        isCached: true
-  - title: "Training Self-Driving Cars for $1 An Hour"
-    excerpt: "Every day for over four years, Ramses woke up in his home in Barquisimeto, Venezuela, turned on his computer, and began labeling images that will help make self-driving cars ubiquitous one day. Through a microtasking platform called Remotasks,"
-    publishedDateTime: 2021-08-25T12:59:00Z
-    webUrl: "https://www.predictiveanalyticsworld.com/machinelearningtimes/training-self-driving-cars-for-1-an-hour/12250/"
-    type: article
-    provider:
-      name: Predictive Analytics World
-      domain: predictiveanalyticsworld.com
-    quality: 39
-    images:
-      - url: "https://www.predictiveanalyticsworld.com/machinelearningtimes/wp-content/uploads/2021/05/MSDS_270x270_LM.gif"
-        width: 270
-        height: 270
         isCached: true
   - title: "Waymo will stop selling lidar self-driving car sensors"
     excerpt: "SAN FRANCISCO -- Alphabet's self-driving unit Waymo said that it has ended a two-year effort to sell light detection and ranging (lidar) sensors to other companies. This is a reversal from its ..."

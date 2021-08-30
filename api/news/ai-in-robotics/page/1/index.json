@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-30-can-artificial-intelligence-give-thoughtful-gifts-an-exploration-of-the-possibilities-and-limits-of-ais-humanity.md",
+      "title": "Can Artificial Intelligence Give Thoughtful Gifts? An Exploration Of The Possibilities And Limits Of AI’s Humanity",
+      "excerpt": "It is clear that with the massive amounts of behavioral data available to Google and other social media platforms, the impact on our shopping behavior begins with how we are marketed to.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/08/29/can-artificial-intelligence-give-thoughtful-gifts-an-exploration-of-the-possibilities-and-limits-of-ais-humanity/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/08/29/can-artificial-intelligence-give-thoughtful-gifts-an-exploration-of-the-possibilities-and-limits-of-ais-humanity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612c521fc881ada8921adcb0%2F0x0.jpg",
+          "width": 825,
+          "height": 652,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/08/29/can-artificial-intelligence-give-thoughtful-gifts-an-exploration-of-the-possibilities-and-limits-of-ais-humanity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/08/29/can-artificial-intelligence-give-thoughtful-gifts-an-exploration-of-the-possibilities-and-limits-of-ais-humanity/amp/",
+      "publishedDateTime": "2021-08-29T20:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-08-29-exclusive-sarcos-ceo-on-whether-tesla-is-late-to-the-robotics-party-ai-utility-in-repetitive-vs-dynamic-tasks-and-more.md",
       "title": "EXCLUSIVE: Sarcos CEO On Whether Tesla Is Late To The Robotics Party, AI Utility In Repetitive Vs. Dynamic Tasks And More",
       "excerpt": "See Also: Tesla Places Itself As A Robotics Company With Reach Beyond EVs, Unveils Dojo Chips, Humanoid: Key Takeaways From AI Day “It often takes longer than [Musk] predicts. Still, he has proven it isn’t wise to bet against him,” said Wolff.",
@@ -341,7 +393,7 @@
       "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-9928905/FOCUS-Rent-robot-Silicon-Valley-s-new-answer-labor-shortage-smaller-U-S-factories.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -363,58 +415,6 @@
         "name": "Daily Mail",
         "domain": "dailymail.co.uk",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-factbox-investors-are-betting-on-rent-a-robot-startups-in-silicon-valley.md",
-      "title": "Factbox: Investors are betting on rent-a-robot startups in Silicon Valley",
-      "excerpt": "Silicon Valley has a new pitch for small U.S. manufacturers struggling with hiring workers but wary of the high costs of high tech: rent-a-robot. Much of the initial risk and cost are taken on by the robot companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/investors-are-betting-rent-a-robot-startups-silicon-valley-2021-08-26/",
-      "originalUrl": "https://www.reuters.com/business/investors-are-betting-rent-a-robot-startups-silicon-valley-2021-08-26/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=50",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-26T07:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -582,6 +582,49 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-08-26-factbox-investors-are-betting-on-rent-a-robot-startups-in-silicon-valleya.md",
+      "title": "Factbox-Investors are betting on rent-a-robot startups in Silicon ValleyÂ",
+      "excerpt": "Silicon Valley has a new pitch for small U.S. manufacturers struggling with hiring workers but wary of the high costs of high tech: rent-a-robot. Much of the initial risk and cost are taken on by the robot companies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.metro.us/factbox-investors-are-betting-on/",
+      "originalUrl": "https://www.metro.us/factbox-investors-are-betting-on/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEH7P0DO-BASEIMAGE.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.metro.us/factbox-investors-are-betting-on/amp/",
+      "cdnAmpWebUrl": "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/factbox-investors-are-betting-on/amp/",
+      "publishedDateTime": "2021-08-26T03:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro US",
+        "domain": "metro.us",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -1381,49 +1424,6 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-21-elon-musk-unveils-plan-for-humanoid-robot-prototype.md",
-      "title": "Elon Musk Unveils Plan for Humanoid Robot Prototype",
-      "excerpt": "Elon Musk said Tesla will debut a humanoid robot prototype called the Tesla Bot. Its purpose will be to perform physical labor. Musk suggested humans will be replaced in the workforce of the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/products/elon-musk-unveils-plan-for-humanoid-robot-prototype",
-      "originalUrl": "https://www.govtech.com/products/elon-musk-unveils-plan-for-humanoid-robot-prototype",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/6c993e1/2147483647/strip/true/crop/1000x521+0+83/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fb4%2Fab%2F03ac32bd487fac26ef4cc011d643%2Fshutterstock-1985005055.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/products/elon-musk-unveils-plan-for-humanoid-robot-prototype?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/elon-musk-unveils-plan-for-humanoid-robot-prototype?_amp=true",
-      "publishedDateTime": "2021-08-21T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
         "images": null,
         "publishers": null,
         "authors": null

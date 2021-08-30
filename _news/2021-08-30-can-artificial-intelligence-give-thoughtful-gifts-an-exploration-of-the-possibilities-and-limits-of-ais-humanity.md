@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/anniebrown/2021/08/29/can-artificial-intel
 ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/08/29/can-artificial-intelligence-give-thoughtful-gifts-an-exploration-of-the-possibilities-and-limits-of-ais-humanity/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/08/29/can-artificial-intelligence-give-thoughtful-gifts-an-exploration-of-the-possibilities-and-limits-of-ais-humanity/amp/"
 type: article
-quality: 80
-heat: 90
+quality: 82
+heat: 92
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612c521fc881ada8921adcb0%2F0x0.jpg"
@@ -45,6 +46,6 @@ related:
         height: 720
         isCached: true
 
-secured: "bWNbXn8jTWuAxZE0NqbCHEeHcbmDj3wY0fIIgN/bkyOFrVVU3kh5qy4LtqUugKiZPiRGN9Gy9inJCofbHi5wSTgSapW/kKwW4ljGs5ju5qqydr9wDDLSsSEjgLyVhf83GfOC925jZALqRURlqF5uFvKERCti4ygKHPDdsash8kpQoXXXWunaUCdMmrhpmUDaBWl8vUkDB6l9dg1gf5i1Tg01IXyRH6TrrIGQ1MJ4x1mhxOhTqu4CVfQMa8Eiq6tCj1KCRWy8e9SDoFqodc4h0bK4sTexxOy9TisoQ3IgIGJiJA/wTPQz2EQtGyI3av1YQzLw9vpTas5Qc9gCVU/3TTV7rFqzHdqgOa+s98Dn6YA=;7K/0ubh3qWC7Vc69IWJsRQ=="
+secured: "dwgLX6meeBOBUvEsVyqob9NV7prIn3SDx1YQ9ZAGDEBnRWnOf5AfLMPZGg2G3bKvmhuCl1PaEXKjVMEE2hXqvfdPvpsH5X3u82cOGVaPlp2hMqG6stWqASoCfA+njDks5gjXgSMoeYOe9ODdGb25TAJaF8r5RB2Qk7qJaWN705vMPcpIUEnfETzE2iBtEifUsoUMfTmtMYrPdls0eNRy/cfOVZBm4bAnoSrffNArebK9w2SkuvV2d9E+r6684HMrebb8tIw8oI37/bNF1kqL1bRfRUBmb6R0WSVEuAO2F7fPX38VSLrh1E1kvsugPGw5WFXEVjKzH9INWrHSy/zhk5qERvg0/N5IeSLzPEBqeoWWKhn7FR5/Mgj9mtnbyYpmzhx+g7gPNWsfgWtyOqYkjnQtOKiYNMbEuDPqB/s30Ufyn5ockAK9utoj+DOVMomm9vWPtWBB4SuicX5rHJglfpl8RFQTYQdQox7r/4qSeEuGko//6DT792V3J9X/ZGSEkp2Xhy8kNsIxThaG7jSyBQ==;P22V6mXTEpJSKoMerEeATQ=="
 ---
 

@@ -125,20 +125,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "With Market Size Valued at $3.6 Billion by 2026, it`s a Healthy Outlook for the Global Artificial Intelligence (AI) in Agriculture Market"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Agriculture - Global Market Trajectory & Analytics\"."
-    publishedDateTime: 2021-08-25T11:52:00Z
-    webUrl: "https://www.lelezard.com/en/news-19967220.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 21
-    images:
-      - url: "https://mma.prnewswire.com/media/1600639/Artificial_Intelligence_in_Agriculture_Market_GIA.jpg"
-        width: 400
-        height: 253
-        isCached: true
   - title: "With Market Size Valued at $2.6 Billion by 2026, it`s a Healthy Outlook for the Global Artificial Intelligence (AI) in Drug Discovery Market"
     excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence"
     publishedDateTime: 2021-08-26T12:10:00Z

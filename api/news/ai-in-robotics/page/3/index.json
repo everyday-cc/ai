@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-12-robotics-startup-miko-raises-28-mn-in-series-b-round-led-by-iifl-amc.md",
+      "title": "Robotics Startup Miko Raises $28 Mn In Series B Round led by IIFL AMC",
+      "excerpt": "Miko has raised $28 Mn in Series B funding led by IIFL AMC, Mankind Pharma Family Office, Aroa Ventures, and a clutch of global investors",
+      "sourceUrl": null,
+      "webUrl": "https://inc42.com/buzz/robotics-startup-miko-raises-28-mn-in-series-b-round-led-by-iifl-amc/",
+      "originalUrl": "https://inc42.com/buzz/robotics-startup-miko-raises-28-mn-in-series-b-round-led-by-iifl-amc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inc42.com/buzz/robotics-startup-miko-raises-28-mn-in-series-b-round-led-by-iifl-amc/amp/",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/robotics-startup-miko-raises-28-mn-in-series-b-round-led-by-iifl-amc/amp/",
+      "publishedDateTime": "2021-08-12T06:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42.com",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-12-bell-5g-powers-tiny-mile-food-delivery-robots-in-downtown-toronto.md",
       "title": "Bell 5G powers Tiny Mile food delivery robots in downtown Toronto",
       "excerpt": "Canadian AI tech start-up leveraging Bell 5G to deliver food to downtown residents MONTRÉAL,  /CNW Telbec/ - Bell today announced a",
@@ -1310,49 +1344,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-07-a-new-profile-for-robot-systems.md",
-      "title": "A new profile for robot systems",
-      "excerpt": "he also wants to be able to control and program the complete robot systems of different manufacturers integrated in the production line in a uniform manner via the PLC programming system. With this in mind, PI now wants to define a uniform data interface ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.elektroniknet.de/international/a-new-profile-for-robot-systems.188750.html",
-      "originalUrl": "https://www.elektroniknet.de/international/a-new-profile-for-robot-systems.188750.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.weka-fachmedien.de/thumbs/media_uploads/images/1620123298-256-worucgouw.png.385x217.jpg",
-          "width": 385,
-          "height": 217,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-06T14:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Elektronik Net",
-        "domain": "elektroniknet.de",
-        "images": null,
         "publishers": null,
         "authors": null
       },

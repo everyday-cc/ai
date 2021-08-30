@@ -40,6 +40,20 @@ related:
         width: 800
         height: 500
         isCached: true
+  - title: "NVIDIA Makes Case for Training AI Models On-Premises"
+    excerpt: "The NVIDIA Enterprise platform is designed to be deployed on instances of VMware deployed on servers that have been certified by NVIDIA."
+    publishedDateTime: 2021-08-26T13:47:00Z
+    webUrl: "https://www.itbusinessedge.com/data-center/nvidia-training-ai-models-on-premises/"
+    type: article
+    provider:
+      name: IT Business Edge
+      domain: itbusinessedge.com
+    quality: 37
+    images:
+      - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/08/NVIDIA-AI-Enterprise.jpeg"
+        width: 600
+        height: 295
+        isCached: true
 
 secured: "4BsC4602PNJ8ut7sO1DjO62fsu4byTeZBcjmcqh6SmsfrxJxws6/6rIkfjWajnzi5bocykAa3AaW2/yTo9kMQMZS7xliB4dNyBPQwPqzRWtW1cOH/V1eR5bwtqQVFTbgRck8wBrhtjK9E7ylpm56LEhWFHX9LnubVcu5qoCWpdgSWEhsXyM76rXp/i01xJMPK8qUnQpJpeQDyJjblndhE0VTSA4B2UdOETVrb0HNZ7ZDgrvE5p5/A4i2YWS+SvzfBSGkPYmuMCJSYAhQDErdhXle4bPkRZHmKdlwLLv+jCYrEHidVqQ38/Lekstm5x2yuhXMhWZuWNl1zroy2VVYsaJ8lhEc8EPrtNEJ1CVE/KoJh1otJ1B4YCPwQZRyHjJJz5hjvB0/R5YCXeEypE2F6H3xvKgWhNvcqEjCJcKylTgGnVvgpCQ1AFTsvAX5X2aSHt/ckkh6mf659JEq1W7/bDVqx1iED8X9WfkWL62kbke3W5aSZDln4P0AaeEHtpBlzlkAW+NG0ZBfLMsmXdG7/g==;kzQAQ0AmqZQWzaF59ecxrA=="
 ---

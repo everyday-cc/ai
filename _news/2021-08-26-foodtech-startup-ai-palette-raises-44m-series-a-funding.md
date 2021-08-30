@@ -40,20 +40,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "involve.ai Raises $16 Million in Series A Funding"
-    excerpt: "Series A financing round led by Sapphire Ventures, with participation from existing investors Bonfire Ventures, Greycroft, Launch Capital, BDMI and new"
-    publishedDateTime: 2021-08-25T12:08:00Z
-    webUrl: "https://www.lelezard.com/en/news-19967345.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 39
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Workera.ai Raises $16M in Series A Funding"
     excerpt: "Workera.ai, a Palo Alto CA-based upskilling platform provider, raised $16M in Series A funding. The round was led by New Enterprise Associates, Owl Ventures and Al Fund with participation from Richard Socher,"
     publishedDateTime: 2021-08-27T09:51:00Z

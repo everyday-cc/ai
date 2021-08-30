@@ -58,22 +58,6 @@ related:
         width: 750
         height: 350
         isCached: true
-  - title: "Artificial Intelligence (AI) in Food and Beverage Market Size 2021 Demand, Global Trend, News, Business Growth, Top Key Players"
-    excerpt: "The new report titled Global Artificial Intelligence AI in Food and Beverage Market published by Emergen Research is a vivid presentation of the global Artificial Intelligence AI in Food and Beverage market with utmost focus on the forecast market size"
-    publishedDateTime: 2021-08-25T12:51:00Z
-    webUrl: "https://www.openpr.com/news/2367537/artificial-intelligence-ai-in-food-and-beverage-market-size"
-    ampWebUrl: "https://www.openpr.com/amp/2367537/artificial-intelligence-ai-in-food-and-beverage-market-size"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2367537/artificial-intelligence-ai-in-food-and-beverage-market-size"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 44
-    images:
-      - url: "https://cdn.openpr.com/U/8/U825208148_g.jpg"
-        width: 700
-        height: 393
-        isCached: true
 
 secured: "TuWL2j8NzmDc9XVE5V9pc50jVQYI4T2//VgaCWzHXY9Z9aO1PBT135LxiBH5YKnDd5hXxctcvl4cDeZcp8ngMXxDNinvwvJiUnYJZYvqrOgyysOYMQtqZM2bFfTvuyBsqglUr+CM0F7szcwcHSgzJZgFx2aFFxjC3tUUuYTc771vyKfboaoBQwPsJcuf2NyCaEV3jLdKh/cAD9gd17uFNSzPa+YOBRF2BR7QGNQ0BMMTua2Zv05TRZJHWrKmcYKjWe2WQO5eEZz0eFKV63heeq85y95le9BWC8lretytFy6sV6bacaCLO9yyuUfb4aTzK7KAaX37FjxuacTjAQ5cigGS0SxcycLlo2S+7mznXwNv10Zloo5zB4RHUGSMXYOVFeZQIn+u2RhxH9EZ/fyKrhJUN/bGMVEDewOVCirLBSBBIYeg4+vZHf9Lo1cPLQxU36daCUyt6rxSHqmkxT/dAYA1dcu5xLbK/wcKUUVlmC7JeHCRdysDcjmwn4yHcNaZD5CT5nHurQbR1mkSB+L20w==;Ix/AKomhrgEG2bjUdymB1A=="
 ---

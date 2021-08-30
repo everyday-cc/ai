@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Factbox: Investors are betting on rent-a-robot startups in Silicon Valley"
-    excerpt: "Silicon Valley has a new pitch for small U.S. manufacturers struggling with hiring workers but wary of the high costs of high tech: rent-a-robot. Much of the initial risk and cost are taken on by the robot companies."
-    publishedDateTime: 2021-08-26T14:29:00Z
-    webUrl: "https://www.reuters.com/business/investors-are-betting-rent-a-robot-startups-silicon-valley-2021-08-26/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 68
-    images:
-      - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=50"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Factbox-Investors are betting on rent-a-robot startups in Silicon ValleyÂ"
     excerpt: "Silicon Valley has a new pitch for small U.S. manufacturers struggling with hiring workers but wary of the high costs of high tech: rent-a-robot. Much of the initial risk and cost are taken on by the robot companies."
     publishedDateTime: 2021-08-26T10:29:00Z

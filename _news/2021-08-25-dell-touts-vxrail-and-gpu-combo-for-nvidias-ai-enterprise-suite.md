@@ -51,20 +51,6 @@ related:
         width: 708
         height: 400
         isCached: true
-  - title: "NVIDIA and HPE to Deliver 2,240-GPU Polaris Supercomputer for Argonne"
-    excerpt: "NVIDIA and Argonne National Laboratory this morning announced Polaris, a GPU-based supercomputer, with 2,2240 NVIDIA A100 Tensor Core GPUs delivering 1.4 exaflops of theoretical AI performance and about 44 petaflops of peak double-precision performance."
-    publishedDateTime: 2021-08-25T11:28:00Z
-    webUrl: "https://insidehpc.com/2021/08/nvidia-and-hpe-to-deliver-2240-gpu-polaris-supercomputer-for-argonne/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 39
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2021/08/Polaris-Nvidia-HPE-Argonne-ALCF-0821.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "n5I+Jm7h4hchbSpD4wZRuYpCJEe/l40Kt34rNXMw5lmMFTjZo8peAX07OF20V9Sf2Rx0QWw9yYKIrDpkMd0WOMgUv3TK+z3LY/z2lYrg+QB/HdOICXGhGkp8yvla7cqLHBQEJup2Dk4/pLVyCei3TjwS7e4V39psiVtIdzFtN+F40umZNcF8aofGkNQH4oHmT6HAfCgbApqpwaz8WTsdBcoyUtwep2jw292G1C/UPG27Zy/MRtth1KwD/wyfIVe1LJt02pBx4VojvKtdpSiJEfQ2B5q8w85CdOwvVTZBT67RSBB/q8HYAQ2YAhNiSKzsYboOwM4g17d6DxMulD1fodtglcXgzvcsEgbvFHj9j2c=;67i+PRshmnmgOUusUdIR+w=="
 ---

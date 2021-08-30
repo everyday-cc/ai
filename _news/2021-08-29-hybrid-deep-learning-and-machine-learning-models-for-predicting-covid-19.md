@@ -1,36 +1,40 @@
 ---
 category: news
-title: "Making Virtual Learning Real"
-excerpt: "Universities have deployed virtual labs, educational digital twins and machine learning to innovate online education."
-publishedDateTime: 2021-08-27T18:07:00Z
-originalUrl: "https://www.forbes.com/sites/mungchiang/2021/08/27/making-virtual-learning-real/"
-webUrl: "https://www.forbes.com/sites/mungchiang/2021/08/27/making-virtual-learning-real/"
-ampWebUrl: "https://www.forbes.com/sites/mungchiang/2021/08/27/making-virtual-learning-real/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mungchiang/2021/08/27/making-virtual-learning-real/amp/"
+title: "Hybrid Deep-Learning and Machine-Learning Models for Predicting COVID-19."
+excerpt: "Currently, PCR is the most prevalent diagnosis tool for COVID-19. However, chest X-ray images may play an essential role in detecting this disease, as they are successful for many other viral pneumonia diseases."
+publishedDateTime: 2021-08-29T01:10:00Z
+originalUrl: "https://europepmc.org/article/MED/34394338"
+webUrl: "https://europepmc.org/article/MED/34394338"
 type: article
-quality: 74
-heat: 124
-published: true
+quality: 3
+heat: -1
+published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Europe PMC
+  domain: europepmc.org
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6128e5695e7579e33ef2390e%2F0x0.jpg"
-    width: 1200
-    height: 750
-    isCached: true
-
 related:
+  - title: "Making Virtual Learning Real"
+    excerpt: "Universities have deployed virtual labs, educational digital twins and machine learning to innovate online education."
+    publishedDateTime: 2021-08-27T18:07:00Z
+    webUrl: "https://www.forbes.com/sites/mungchiang/2021/08/27/making-virtual-learning-real/"
+    ampWebUrl: "https://www.forbes.com/sites/mungchiang/2021/08/27/making-virtual-learning-real/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mungchiang/2021/08/27/making-virtual-learning-real/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6128e5695e7579e33ef2390e%2F0x0.jpg"
+        width: 1200
+        height: 750
+        isCached: true
   - title: "The potential of deep learning in managing power networks"
     excerpt: "Power networks worldwide are faced with increasing challenges. The fast rollout of distributed renewable generation (such as rooftop solar panels or community wind turbines) can lead to considerable unpredictability."
     publishedDateTime: 2021-08-27T15:56:00Z
@@ -79,16 +83,7 @@ related:
       name: EurekAlert!
       domain: eurekalert.org
     quality: 11
-  - title: "Hybrid Deep-Learning and Machine-Learning Models for Predicting COVID-19."
-    excerpt: "Currently, PCR is the most prevalent diagnosis tool for COVID-19. However, chest X-ray images may play an essential role in detecting this disease, as they are successful for many other viral pneumonia diseases."
-    publishedDateTime: 2021-08-29T01:10:00Z
-    webUrl: "https://europepmc.org/article/MED/34394338"
-    type: article
-    provider:
-      name: Europe PMC
-      domain: europepmc.org
-    quality: 3
 
-secured: "KqVJwxVczfT05Jp1+n35kNgYgK76B5OBAwAQAYv5B8dMHZnxvY+ks1w2X4HkVdTATPaVqO8eQ/vuPHLzovuGktpqLCnRIrplQB76gRtFaF7+aHBwUaV053O47PWwFxokhoNaFN2UANWWWFYuzbdRLt4wlHdXguXgmkqDduPiAy4PBrothu8H8MQ0FXGiFec02rbDSKWXjUPuPSGSZEQwNhrskNfeH4UY9oPwPDJuGzR4BCtzDwU0uMgFobakslKXAXdXR5iK55mm8L3EoRE8O6P78jAd16RsMYU+eYqrqe5ejnxRyC20a6znkkt9si77vAKPrmyUYZeRxR8e1VA+sU7LFrQer9ngVYoBvoIEAuQ=;px9iHv5JEQBs0OnO7H4RMg=="
+secured: "GnVFdFtVczDNIcEzhUaUiVUh+/N98F7OtU8Ux3OsnSArfVtvR9vBJ9+OfUiumGoT1inkVFlhGw4dQ0y2nhaEvUJqx5L8b/SHjj9bEWbYjtVx/u/QQeqYcHuKYZHLpGma7qBD6yuukTruKgqL9kH4cgzj2k9h3NSydzwulUml6MEkuN8rwkFiYEJWZ0uGY+YXL69JyuwI/QUROUN+pSUd6LYKq7bGKSEXc65itbVRJ2Zq1FM04ynrh025gKFMtqQd1WMW3dfxFJcXLFt/AVbpLMXBqmwWcOXKRqwlm6wn2w/uIfBlAuHv80xh58kxud5aBesz15QSbKD0sWrTvCaznRgrjv/GZAyqK90Gxx/75iQ=;6LXLVQAUV34J7BAqxxGFJg=="
 ---
 

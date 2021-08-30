@@ -42,22 +42,6 @@ related:
         width: 1024
         height: 650
         isCached: true
-  - title: "Otter.ai aims to transform meetings with transcription"
-    excerpt: "The tool will quietly join all meetings, transcribe all of the discussion, create a set of minutes, and share this with everyone."
-    publishedDateTime: 2021-08-25T13:00:00Z
-    webUrl: "https://venturebeat.com/2021/08/25/otter-ai-aims-to-transform-meetings-with-transcription/"
-    ampWebUrl: "https://venturebeat.com/2021/08/25/otter-ai-aims-to-transform-meetings-with-transcription/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/25/otter-ai-aims-to-transform-meetings-with-transcription/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/05/Otter-Assistant.png?w=1200&strip=all"
-        width: 1200
-        height: 668
-        isCached: true
   - title: "How To Crack Microsoft Azure Data Scientist Associate Certification"
     excerpt: "How To Crack Microsoft Azure Data Scientist Associate Certification - Prepare with MachineHack mocks and test your level of preparation"
     publishedDateTime: 2021-08-27T11:30:00Z
@@ -81,15 +65,6 @@ related:
       name: fintechzoom
       domain: fintechzoom.com
     quality: 32
-  - title: "Otter.ai Makes Automated Meeting Notes Even Easier With Otter Assistant Now Available for Microsoft Teams, Google Meet, and Cisco Webex"
-    excerpt: "Otter.ai announced the launch of Otter Assistant for Microsoft Teams, Google Meet, and Cisco Webex for Otter Business Plan users. After an initi"
-    publishedDateTime: 2021-08-25T13:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210825005139/en/Otter.ai-Makes-Automated-Meeting-Notes-Even-Easier-With-Otter-Assistant-Now-Available-for-Microsoft-Teams-Google-Meet-and-Cisco-Webex"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 4
 
 secured: "sjMew86iVz4jqpgiptyPjNDL7LSfMpNI4cEMoG/8nbc5M2CW2miljJkqH4uUZ9nxCfcxJ4WSfyqFyeGayoxyAoOED2b23q53RBjAAYYGOJ7y4K78tSITDdkMYVQnVWa16Nv70mT5bp3mzNrETNGSyPeVabrH9Wh6FwXLXfL5xaID2YE3Ju9DyQruQkEtzA2r09GgxuLT/YL4OAmBwPotD1KwOirE8q38doTrr+gb9DwogRk/rMAUNYzMUB1N5bhcob3Yj+R4ohpwbEPaG00EB3feO92Snmsi5bQY69fvLok9i9KrWtEtAwRGqkKw+yRJRMEPyY+z2Erpo/cWEGboo8oMMLCX7D65+/esVTOPma5/4qzeyHVjqkTElQCCDeyqSCoVP8o4wdvyzdWrpERDv2dtT07uC0HYaHXwytXJ3FN29j86peRYYMNgKJpGLUhhTxe4GcGlFNbXC+dmVC4MaX2Rzon1gCAVa6kmilR6oDWLCYZA9kGOuzeaijJ/TvabZ9YXWTNABHuB9OVAdz4OZw==;zX1xER9Gz+lKYpK7wO+GDQ=="
 ---

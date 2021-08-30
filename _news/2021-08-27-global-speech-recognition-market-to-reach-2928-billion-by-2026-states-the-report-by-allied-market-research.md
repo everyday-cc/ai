@@ -27,47 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Mobile Speech Recognition Software Market 2021 Recent Scope, Growing Popularity and Emerging Trends in the Market"
-    excerpt: "ReportsWeb analysts forecasts the latest report on “Global Mobile Speech Recognition Software Market (Covid-19) Impact and Analysis by 2026”, according to report; The Mobile Speech Recognition Software Market report covers the overall and all ..."
-    publishedDateTime: 2021-08-29T09:54:00Z
-    webUrl: "https://manometcurrent.com/global-mobile-speech-recognition-software-market-2021-swot-analysis-future-growth-covid-19-impact-manufacturers-demands-and-revenue-report-investigated-in-the-latest-research/"
-    ampWebUrl: "https://manometcurrent.com/global-mobile-speech-recognition-software-market-2021-swot-analysis-future-growth-covid-19-impact-manufacturers-demands-and-revenue-report-investigated-in-the-latest-research/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/global-mobile-speech-recognition-software-market-2021-swot-analysis-future-growth-covid-19-impact-manufacturers-demands-and-revenue-report-investigated-in-the-latest-research/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 34
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/Global-Cosmetic-Packaging-Market-390x220.jpg"
-        width: 390
-        height: 220
-        isCached: true
-  - title: "Global Automated Data Science and Machine Learning Platforms Market 2021 - 2026 Business Statistics of Report that Emphasizes the impact of COVID-19"
-    excerpt: "The latest market research report titled Global Automated Data Science and Machine Learning Platforms Market 2020 by Company, Regions, Type and Application, Forecast to 2027 enfolds expansive evaluation of the market offering an analysis of the market revenue,"
-    publishedDateTime: 2021-08-25T22:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-automated-data-science-and-machine-learning-platforms-market-2021---2026-business-statistics-of-report-that-emphasizes-the-impact-of-covid-19-2021-08-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Deep Learning in Machine Vision Market Report Covers Future Trends With Research 2021-2027"
-    excerpt: "Deep learning technology is seeing many appealing advancements in several machine learning sectors, involving the reinforcement learning, natural language processing (NLP), ML frameworks (Pytorch and TensorFlow),"
-    publishedDateTime: 2021-08-26T16:32:00Z
-    webUrl: "https://www.globalbankingandfinance.com/deep-learning-in-machine-vision-market-report-covers-future-trends-with-research-2021-2027/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/deep-learning-in-machine-vision-market-report-covers-future-trends-with-research-2021-2027/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/deep-learning-in-machine-vision-market-report-covers-future-trends-with-research-2021-2027/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 31
   - title: "Growth in AI-Enabled Distributed Energy Resources Integration Market to Reach $481 Million by 2030"
     excerpt: "AI techniques have been deployed in the energy industry for a variety of grid and market operations. A new report from Guidehouse Insights analyzes AI capabilities for enabling distributed energy resources (DER) integration,"
     publishedDateTime: 2021-08-25T17:12:00Z
@@ -124,15 +83,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Global Automotive Voice Recognition Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
-    excerpt: "6.2 North America Automotive Voice Recognition Revenue by Application (2016-2026) 6.3 North America Automotive Voice Recognition Market Size by Country 6.3.1 North America Automotive Voice Recognition Revenue by Country (2016-2026) 6.3.2 United States ..."
-    publishedDateTime: 2021-08-28T02:30:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4818187-global-automotive-voice-recognition-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 0
 
 secured: "B23KNJLcRE+8yC9vqxcEg16w92LT3N2rYNRbQNjgLdBWBZnho85J91uEynXmuwzYMpV77uguyY28kSKrPuFXFJlTPw8l2tcUTnW1Ll8Prqmdu7jWJM/smcHXyfRo6+rhp/+kWT3DrR0gYK3LaxnfDigDFlyY2k8d/4vjfXaAqbRn8/peLGsYmush9KZbOqZRFTrnpIF9Dx7fjbWAAogk5Oj9QFX2fiqWAvGp8mnqw2JxJFXiIsg1iwKTIl3bNmvQ4SMypXZN4rbiw/P8pq88QZkMs8pEpIibOYU91iL2fOhoH5tvlf2yrgoUxCEJMmbuabbqp9qKi1xYSTQ5vd8rConSSd1u8/iL/KFL0LTKyNM=;zbm7SZ5V5RZFZWl5mTYGjg=="
 ---

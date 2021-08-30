@@ -35,22 +35,6 @@ related:
         width: 1024
         height: 650
         isCached: true
-  - title: "Otter.ai aims to transform meetings with transcription"
-    excerpt: "The tool will quietly join all meetings, transcribe all of the discussion, create a set of minutes, and share this with everyone."
-    publishedDateTime: 2021-08-25T13:00:00Z
-    webUrl: "https://venturebeat.com/2021/08/25/otter-ai-aims-to-transform-meetings-with-transcription/"
-    ampWebUrl: "https://venturebeat.com/2021/08/25/otter-ai-aims-to-transform-meetings-with-transcription/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/25/otter-ai-aims-to-transform-meetings-with-transcription/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/05/Otter-Assistant.png?w=1200&strip=all"
-        width: 1200
-        height: 668
-        isCached: true
   - title: "Otter.ai expands reach of Otter Assistant for video chats"
     excerpt: "The virtual assistant, rolled out for Zoom users in May, gains support for three more platforms: Microsoft Teams, Google Meet and Cisco Webex."
     publishedDateTime: 2021-08-27T07:58:00Z
@@ -81,15 +65,6 @@ related:
         width: 2200
         height: 1238
         isCached: true
-  - title: "Otter.ai Makes Automated Meeting Notes Even Easier With Otter Assistant Now Available for Microsoft Teams, Google Meet, and Cisco Webex"
-    excerpt: "Otter.ai announced the launch of Otter Assistant for Microsoft Teams, Google Meet, and Cisco Webex for Otter Business Plan users. After an initi"
-    publishedDateTime: 2021-08-25T13:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210825005139/en/Otter.ai-Makes-Automated-Meeting-Notes-Even-Easier-With-Otter-Assistant-Now-Available-for-Microsoft-Teams-Google-Meet-and-Cisco-Webex"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 4
 
 secured: "5MAqDLDUVOqnZrWk37C/1O2oplJdd9h+HlfaUu7eb+oz7HZzjs5JZmI4WprjsGucl81GSR7Ka0FTaxPMfyZFKkE80eCTN3ddpy6TFbB3SlLCU0dp6KqJcafdwmV0ofiz5I4cJ/17KuRgSudZZyksrJ9T/2rytt3XHHIDo2R9e0xztX0ASufIhNY3hf4f/26XJjcXCWLB1AokpkhQ2m1dMXpoHTnC7Wb5Ecq6vpEKdNWoCnWjfFgZ4YlNAKrxen8a1YY2ReWtGXEY9q0qeqtY7LKhb574IAvwKas//F7yeCF1g7Yi5/51WMs4+tE19ZuHmXCEiRN/FESUB42DvwQqd1CnF2xXON9yztkh/SEapQM=;TMX2n9CtlX9Vi28revKfSQ=="
 ---

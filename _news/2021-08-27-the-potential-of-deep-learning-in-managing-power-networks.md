@@ -75,6 +75,15 @@ related:
       name: EurekAlert!
       domain: eurekalert.org
     quality: 11
+  - title: "Hybrid Deep-Learning and Machine-Learning Models for Predicting COVID-19."
+    excerpt: "Currently, PCR is the most prevalent diagnosis tool for COVID-19. However, chest X-ray images may play an essential role in detecting this disease, as they are successful for many other viral pneumonia diseases."
+    publishedDateTime: 2021-08-29T01:10:00Z
+    webUrl: "https://europepmc.org/article/MED/34394338"
+    type: article
+    provider:
+      name: Europe PMC
+      domain: europepmc.org
+    quality: 3
 
 secured: "StV80OOIIL7kVnfXyBR3/S6TsLvBQVkgMMmzi82XQtVnXnafyC1geO3dnbIGdXchrzZMC0jX1uymTVxYrHwBChG9jMx6PeuKahctxhFQFJk1Tzy8ZTR0biGuCDPoDu6NqMr/4BSslPWeNbihko/oCRbhrxh2THLTuY8+YaUkptrkoo/DSAZE4xsyMICDqlVxqNYrXTf9FgtcURhy5p/CnTKSRm7bm8osDgxt996gQ6LNExiuyBlXA2VOgpXM28wN4K6lXKhc3gZot4IKvZOvWwUjB6WhNEfLcD0HOG1j6TRdvT4WMie5oUzBPZZCopPQZLsNUHtw80YRs4GkWigM27Shb3hselGVjt4EE4k2euKlESzU5CajK1nuOzjDlG7tPeXewg4fgfmUyjTARDufy2lENFo/7y3VQFLGOMAt1ZcivNTbBSB9F9+v9DX5WZvWnIb+FEtMSjVjN75ZaBtwoxQZOSFUu/pkgxwaZcpPo9zBUH5BGT3Q7lAGS3DcFuSMy7cL6wfVqccTDDQtoQ+5mA==;OI7h5szDQbxzcz6o/bitGg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.hothardware.com/news/nvidia-2240-gpus-polaris-supercompu
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-2240-gpus-polaris-supercomputer-ai-workloads"
 type: article
 quality: 71
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/56074/content/small_polaris_supercomputer.jpg"
         width: 708
         height: 400
-        isCached: true
-  - title: "NVIDIA and HPE to Deliver 2,240-GPU Polaris Supercomputer for Argonne"
-    excerpt: "NVIDIA and Argonne National Laboratory this morning announced Polaris, a GPU-based supercomputer, with 2,2240 NVIDIA A100 Tensor Core GPUs delivering 1.4 exaflops of theoretical AI performance and about 44 petaflops of peak double-precision performance."
-    publishedDateTime: 2021-08-25T11:28:00Z
-    webUrl: "https://insidehpc.com/2021/08/nvidia-and-hpe-to-deliver-2240-gpu-polaris-supercomputer-for-argonne/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 39
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2021/08/Polaris-Nvidia-HPE-Argonne-ALCF-0821.jpg"
-        width: 600
-        height: 337
         isCached: true
   - title: "Dell touts VxRail and GPU combo for Nvidia’s AI Enterprise suite"
     excerpt: "Dell's HCI platform is certified for accelerating workloads with Nvidia’s newly available AI Enterprise software suite."

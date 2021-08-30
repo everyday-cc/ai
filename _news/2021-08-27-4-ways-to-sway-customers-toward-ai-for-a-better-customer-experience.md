@@ -36,20 +36,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "How Dream Sports Uses Artificial Intelligence"
-    excerpt: "Our fan engagement product FanCode uses AI and ML backend framework to provide a personalised user experience to sports fans."
-    publishedDateTime: 2021-08-25T11:30:00Z
-    webUrl: "https://analyticsindiamag.com/how-dream-sports-uses-artificial-intelligence/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/How-Dream-Sports-Uses-Artificial-Intelligence-.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Fighting fake news with AI"
     excerpt: "PETALING JAYA: To combat the proliferation of fake news, companies across the globe are resorting to artificial intelligence (AI) programs which are able to analyse and flag disinformation. Firms like AlphaVu and Logically use these virtual sleuths to mine ..."
     publishedDateTime: 2021-08-29T23:42:00Z

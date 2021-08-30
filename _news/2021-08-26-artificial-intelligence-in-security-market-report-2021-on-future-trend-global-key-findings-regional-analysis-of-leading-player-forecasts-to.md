@@ -1,40 +1,34 @@
 ---
 category: news
-title: "Self-driving Industrial Vehicle Market Global Growth, SWOT Industry Analysis, CAGR Status, Key Companies, Applications, Upcoming Trends 2030"
-excerpt: "Allied Market Research published a new report titled Self driving industrial Market Global Opportunity Analysis and Industry Forecast 2021 2027 The latest study on the Global Self driving industrial Market covers a wide range of organizations from different regions It"
-publishedDateTime: 2021-08-27T09:35:00Z
-originalUrl: "https://www.openpr.com/news/2370553/self-driving-industrial-vehicle-market-global-growth-swot"
-webUrl: "https://www.openpr.com/news/2370553/self-driving-industrial-vehicle-market-global-growth-swot"
-ampWebUrl: "https://www.openpr.com/amp/2370553/self-driving-industrial-vehicle-market-global-growth-swot"
-cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2370553/self-driving-industrial-vehicle-market-global-growth-swot"
+title: "Artificial Intelligence in Security Market Report 2021 On Future Trend, Global Key Findings, Regional Analysis of Leading Player Forecasts to 2027"
+excerpt: "Aug (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The Global Artificial Intelligence"
+publishedDateTime: 2021-08-26T05:50:00Z
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-report-2021-on-future-trend-global-key-findings-regional-analysis-of-leading-player-forecasts-to-2027-2021-08-26"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-report-2021-on-future-trend-global-key-findings-regional-analysis-of-leading-player-forecasts-to-2027-2021-08-26"
 type: article
-quality: 0
-heat: -1
+quality: 46
+heat: 46
 published: false
 
 provider:
-  name: openpr.com
-  domain: openpr.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Autos
   - AI
+  - AI in Security
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
-  - title: "Artificial Intelligence in Security Market Report 2021 On Future Trend, Global Key Findings, Regional Analysis of Leading Player Forecasts to 2027"
-    excerpt: "Aug (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The Global Artificial Intelligence"
-    publishedDateTime: 2021-08-26T05:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-report-2021-on-future-trend-global-key-findings-regional-analysis-of-leading-player-forecasts-to-2027-2021-08-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Mobile Speech Recognition Software Market 2021 Recent Scope, Growing Popularity and Emerging Trends in the Market"
     excerpt: "ReportsWeb analysts forecasts the latest report on “Global Mobile Speech Recognition Software Market (Covid-19) Impact and Analysis by 2026”, according to report; The Mobile Speech Recognition Software Market report covers the overall and all ..."
     publishedDateTime: 2021-08-29T09:54:00Z
@@ -76,6 +70,17 @@ related:
       name: List of Banks in Belarus
       domain: globalbankingandfinance.com
     quality: 31
+  - title: "Self-driving Industrial Vehicle Market Global Growth, SWOT Industry Analysis, CAGR Status, Key Companies, Applications, Upcoming Trends 2030"
+    excerpt: "Allied Market Research published a new report titled Self driving industrial Market Global Opportunity Analysis and Industry Forecast 2021 2027 The latest study on the Global Self driving industrial Market covers a wide range of organizations from different regions It"
+    publishedDateTime: 2021-08-27T09:35:00Z
+    webUrl: "https://www.openpr.com/news/2370553/self-driving-industrial-vehicle-market-global-growth-swot"
+    ampWebUrl: "https://www.openpr.com/amp/2370553/self-driving-industrial-vehicle-market-global-growth-swot"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2370553/self-driving-industrial-vehicle-market-global-growth-swot"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
   - title: "Global Automotive Voice Recognition Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
     excerpt: "6.2 North America Automotive Voice Recognition Revenue by Application (2016-2026) 6.3 North America Automotive Voice Recognition Market Size by Country 6.3.1 North America Automotive Voice Recognition Revenue by Country (2016-2026) 6.3.2 United States ..."
     publishedDateTime: 2021-08-28T02:30:00Z
@@ -86,6 +91,6 @@ related:
       domain: reportsnreports.com
     quality: 0
 
-secured: "GyX4X1qmiAK2t/iQwAcbhx1ii3EGIUeyf1V6T0fWcFvPb9ng0UosZSUZPRh4LXAt89aVHJx5EBNVYbO9ZzisQZVA4DaGLf1gXw0XPVsL6hZOTjOqkMgeF2Kx+rqATEkqxoXLhsVF/D35I+JVYIBelItt472BHpBaBCdZQZTfHVcCyWi2PMgojlNmi5sxCD/gZ6CzDS0A3PJs1HGtKn2kfCcDhWT6T1QxOnfxS/F9xxax1+gmC4Gk/X+Wb2DwtOw8GFieT6Habma2QOKW34nVipFL54qrqT81OpYhGPh7P/ntIpWZyVAe9eCrpoZYIlvXiGBjpOXurF5ZGeoqFuOM4+AvNworjiybgkxpcCr3paA=;iUJzN08R/gEx8EDT4C+5hw=="
+secured: "LDU1mFwEJW7OsvaYzddV6wSNwr6ansc9INCXBXckhZk8WofNRGNM0Q3TEmUH90MjuTS9OVUs98ilQCrzIEjik1hMUvCMzdAfpD6KlRA1sT3P2ms1kc2vD1XyJ0VJ6F290XG6idykw84x8m1gQXTg8TfnQWq/WUfIe5JlS4wGcyO5JU2cryiTSf+0FVgSePtIcbfP/AC7sNvuQYUM6QC+BQkpr0dzyIP3xkaXFTsKaGoCl5+7e8CxrHMkQ35vPSplLV/sGIgvbYb9/8WnS1yxxaD+vFaRoFRE58WTrmH+MNTqeqdUp1vsxbtc+w84xfGidEGFXi/5WBwImM/RY9Ytdd/ADUPn21epAndrVbc4UzE=;8fJpGs3dW0205y8QteZ6Cg=="
 ---
 

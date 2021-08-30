@@ -43,22 +43,6 @@ related:
         width: 750
         height: 350
         isCached: true
-  - title: "Artificial Intelligence (AI) in Food and Beverage Market Size 2021 Demand, Global Trend, News, Business Growth, Top Key Players"
-    excerpt: "The new report titled Global Artificial Intelligence AI in Food and Beverage Market published by Emergen Research is a vivid presentation of the global Artificial Intelligence AI in Food and Beverage market with utmost focus on the forecast market size"
-    publishedDateTime: 2021-08-25T12:51:00Z
-    webUrl: "https://www.openpr.com/news/2367537/artificial-intelligence-ai-in-food-and-beverage-market-size"
-    ampWebUrl: "https://www.openpr.com/amp/2367537/artificial-intelligence-ai-in-food-and-beverage-market-size"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2367537/artificial-intelligence-ai-in-food-and-beverage-market-size"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 44
-    images:
-      - url: "https://cdn.openpr.com/U/8/U825208148_g.jpg"
-        width: 700
-        height: 393
-        isCached: true
   - title: "Artificial Intelligence (AI) in Social Media Market Revenue, Driving Factors, Key Players, Strategies, Trends, Forecast Till 2027"
     excerpt: "The Global Artificial intelligence AI In Social Media Market size is estimated to reach USD 4 26 Billion from USD 797 Million in 2019 exhibiting a CAGR of 24 7 through 2027 The rapid evolution of social media platforms with"
     publishedDateTime: 2021-08-27T16:45:00Z

@@ -74,6 +74,15 @@ related:
       name: Mining Weekly
       domain: miningweekly.com
     quality: 19
+  - title: "Hybrid Deep-Learning and Machine-Learning Models for Predicting COVID-19."
+    excerpt: "Currently, PCR is the most prevalent diagnosis tool for COVID-19. However, chest X-ray images may play an essential role in detecting this disease, as they are successful for many other viral pneumonia diseases."
+    publishedDateTime: 2021-08-29T01:10:00Z
+    webUrl: "https://europepmc.org/article/MED/34394338"
+    type: article
+    provider:
+      name: Europe PMC
+      domain: europepmc.org
+    quality: 3
 
 secured: "Aq4G8SOo7n/dWM+4IJfqzyfUDi4T5kli+4+1SAlONY8Aisr3icY+fZNhnuG37R0IAOh2N5ipwZcJ6lK2y6x6EaXldStxqCD8FlMv+q7FO4JiKKMj15Jjt3YyCU+kQo5Cp7BTW4GZJKiA3aivnrJBDSaBK/aTbfGDOWwLY/4NUd0t+wbn8D9XwGyvCNLLkFDw/s+MFV1AUFVVEoVC7cq1AA6irCLSX8MMVBAFr8lga90+W+sk/KB4YGyqYFP5tbalb7MfTFwvQwWnFFgPe2zBhoSCA7Tx/yGGLgtTlrjntlAPju5iFPfqMv3BhmVT+EEIHh4NVLsv6qjWLb2vwUXtkZvVRjpxsaHdBLOl4gqFz5Y=;+dSeiNO8atWwwhig+gIJ4Q=="
 ---

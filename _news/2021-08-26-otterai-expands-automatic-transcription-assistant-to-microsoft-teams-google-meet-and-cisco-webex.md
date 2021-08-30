@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/08/26/otter-ai-expands-automatic-transcr
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/26/otter-ai-expands-automatic-transcription-assistant-to-microsoft-teams-google-meet-and-cisco-webex/amp/"
 type: article
 quality: 90
-heat: 140
+heat: 120
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Otter.ai aims to transform meetings with transcription"
-    excerpt: "The tool will quietly join all meetings, transcribe all of the discussion, create a set of minutes, and share this with everyone."
-    publishedDateTime: 2021-08-25T13:00:00Z
-    webUrl: "https://venturebeat.com/2021/08/25/otter-ai-aims-to-transform-meetings-with-transcription/"
-    ampWebUrl: "https://venturebeat.com/2021/08/25/otter-ai-aims-to-transform-meetings-with-transcription/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/25/otter-ai-aims-to-transform-meetings-with-transcription/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/05/Otter-Assistant.png?w=1200&strip=all"
-        width: 1200
-        height: 668
-        isCached: true
   - title: "Otter.ai expands reach of Otter Assistant for video chats"
     excerpt: "The virtual assistant, rolled out for Zoom users in May, gains support for three more platforms: Microsoft Teams, Google Meet and Cisco Webex."
     publishedDateTime: 2021-08-27T07:58:00Z
@@ -86,15 +70,6 @@ related:
       name: fintechzoom
       domain: fintechzoom.com
     quality: 32
-  - title: "Otter.ai Makes Automated Meeting Notes Even Easier With Otter Assistant Now Available for Microsoft Teams, Google Meet, and Cisco Webex"
-    excerpt: "Otter.ai announced the launch of Otter Assistant for Microsoft Teams, Google Meet, and Cisco Webex for Otter Business Plan users. After an initi"
-    publishedDateTime: 2021-08-25T13:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210825005139/en/Otter.ai-Makes-Automated-Meeting-Notes-Even-Easier-With-Otter-Assistant-Now-Available-for-Microsoft-Teams-Google-Meet-and-Cisco-Webex"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 4
 
 secured: "O3nAioegjRyoaCi2d2v+QjAOK+QL64q+y85gfVp5wZu1y8HMpyryNIruDtvI7n7My/M3bbC4ENKdTQVxHFW5qLpGkQHB7y3oGjYBAaTufUNKhtia4dnGgHyrg2b7Tu3CItdOvAX7ES3UDtyYmJzPgEg/XIaqB094w2HBxsGnE6IMXdgjs0GyLLZN3I3/OP4jG8BpeaIL6SM0T1ogFjjO42CNXi8ZI0dvZLl6eyQPzYOn+wDk0hllZw8QVUrrHPI74l83mcibqz8C8KdOdVLrORY5Tg5KS2UMsVad68gsAmsb/WouAyQMODUd9CiiKe90bjlUFhTA2SoXyZ6zSqteLMos80lihmTdfUHinM9JLUItKJUUnBJPHdCATE5Vrq+aEVejKO9Cb1kXzZrUA8XrpYZqnpH4y7Zw/Mjn5dQ9X36cEeWzOaJdgB7BIN9Mbq9LmaYWUtYcHtFZKt5szBsX2Z7twRkpBR46u5tqB4MiV63R33/7eY39jY58k85am4Zmn0Xg6ugPZThXfCTkRb0trg==;G1jx8hQduW3kGe2VPCN+AA=="
 ---
