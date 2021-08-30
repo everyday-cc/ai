@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/08/26/otter-ai-expands-automatic-transcr
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/26/otter-ai-expands-automatic-transcription-assistant-to-microsoft-teams-google-meet-and-cisco-webex/amp/"
 type: article
 quality: 90
-heat: 120
+heat: 130
 published: true
 
 provider:
@@ -77,6 +77,15 @@ related:
         width: 2200
         height: 1238
         isCached: true
+  - title: "Otter.ai Makes Automated Meeting Notes Even Easier With Otter Assistant Now Available for Microsoft Teams, Google Meet, and Cisco Webex"
+    excerpt: "Otter.ai announced the launch of Otter Assistant for Microsoft Teams, Google Meet, and Cisco Webex for Otter Business Plan users. After an initi"
+    publishedDateTime: 2021-08-25T13:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210825005139/en/Otter.ai-Makes-Automated-Meeting-Notes-Even-Easier-With-Otter-Assistant-Now-Available-for-Microsoft-Teams-Google-Meet-and-Cisco-Webex"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 4
 
 secured: "O3nAioegjRyoaCi2d2v+QjAOK+QL64q+y85gfVp5wZu1y8HMpyryNIruDtvI7n7My/M3bbC4ENKdTQVxHFW5qLpGkQHB7y3oGjYBAaTufUNKhtia4dnGgHyrg2b7Tu3CItdOvAX7ES3UDtyYmJzPgEg/XIaqB094w2HBxsGnE6IMXdgjs0GyLLZN3I3/OP4jG8BpeaIL6SM0T1ogFjjO42CNXi8ZI0dvZLl6eyQPzYOn+wDk0hllZw8QVUrrHPI74l83mcibqz8C8KdOdVLrORY5Tg5KS2UMsVad68gsAmsb/WouAyQMODUd9CiiKe90bjlUFhTA2SoXyZ6zSqteLMos80lihmTdfUHinM9JLUItKJUUnBJPHdCATE5Vrq+aEVejKO9Cb1kXzZrUA8XrpYZqnpH4y7Zw/Mjn5dQ9X36cEeWzOaJdgB7BIN9Mbq9LmaYWUtYcHtFZKt5szBsX2Z7twRkpBR46u5tqB4MiV63R33/7eY39jY58k85am4Zmn0Xg6ugPZThXfCTkRb0trg==;G1jx8hQduW3kGe2VPCN+AA=="
 ---

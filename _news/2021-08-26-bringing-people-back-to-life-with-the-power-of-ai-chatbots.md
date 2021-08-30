@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/0
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/08/26/bringing-people-back-to-life-with-the-power-of-ai-chatbots/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -118,15 +118,6 @@ related:
         width: 1170
         height: 500
         isCached: true
-  - title: "Artificial intelligence chatbots providing companionship to millions in China"
-    excerpt: "Loneliness, once considered mostly a plight of the elderly, is impacting millions isolated by Covid - Click the link for more details."
-    publishedDateTime: 2021-08-25T06:46:00Z
-    webUrl: "https://www.i24news.tv/en/news/technology/1629873607-artificial-intelligence-chatbots-providing-companionship-to-millions-in-china"
-    type: article
-    provider:
-      name: i24NEWS
-      domain: i24news.tv
-    quality: 16
 
 secured: "4ccGcSHieeRp7BsOkg/Oij15jPFethMkU58wTheJQacO2bTSVFB8tJ9jsdOR/hL9QKBIBLXCMzhsZto++A1u3Dg7NF2jxuaz0gv5Sgr2nVEO/A4sWh8izibFLDp6SY5ep2fpMh7CyegD9dDRgGIwA95J/PsnIw8FPZABCTI1erj6E1EZLHq100jd/GW7V2fd+K7sMReKIvxiTK8fH+cBtmNc1jIE0D+MxIo6PK7wDv2cTvaNNgP/qmwQ+DAzTkIyTHWv7UqoXktjS1q306et5mcsSS67xTkQe/uWGUBjKN9UXQ44pnZjQxLebbP4vgAxQVGMLvmQNN9UYH8UXXf+HlORLfT7Ehke4fIsEBZlAJ9KNa+3HX0LuCJRGFAqLMzaMhcCqVpT5swWbqOBKcM0Tzl6GiJM+Pdzi1FqTA2TShlbESfaZVNUHC6+X5kxQNgpzIhqQxsarL4RpY7VWlnKtQSTJ5l+QNkLSplI6epaIHR5E215X/Li1kveb2+ImkrC2/jvIh/ZgptuTVGcFCwhAA==;NAlBUpcAljBxSMUoD0FCbA=="
 ---

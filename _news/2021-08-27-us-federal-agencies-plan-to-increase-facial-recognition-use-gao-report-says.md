@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202108/us-federal-agencies-plan-to
 webUrl: "https://www.gao.gov/products/gao-21-526"
 type: article
 quality: 138
-heat: 288
+heat: 278
 published: true
 
 provider:
@@ -57,22 +57,6 @@ related:
       - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-08/d6385430-0632-11ec-9d54-a4ebe312b944"
         width: 5988
         height: 3992
-        isCached: true
-  - title: "Facial recognition to care for prem babies"
-    excerpt: "University of South Australia researchers have successfully developed a world-first camera system to monitor the vital signs of premature babies."
-    publishedDateTime: 2021-08-25T05:32:00Z
-    webUrl: "https://thewest.com.au/news/health/facial-recognition-to-care-for-prem-babies-c-3777249"
-    ampWebUrl: "https://thewest.com.au/news/health/facial-recognition-to-care-for-prem-babies-c-3777249.amp"
-    cdnAmpWebUrl: "https://thewest-com-au.cdn.ampproject.org/c/s/thewest.com.au/news/health/facial-recognition-to-care-for-prem-babies-c-3777249.amp"
-    type: article
-    provider:
-      name: The West Australian
-      domain: thewest.com.au
-    quality: 59
-    images:
-      - url: "https://images.thewest.com.au/publication/C-3777249/ad21f7545de75e229ac117fd2463ea06a59c1a2a-16x9-x0y0w1280h720.jpg?imwidth=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Federal agencies plan to expand use of facial recognition technology"
     excerpt: "At least 10 federal agencies will use facial recognition devices in the next few years, the Government Accountability Office said."

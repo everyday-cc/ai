@@ -51,6 +51,20 @@ related:
       name: Business 2 Community
       domain: business2community.com
     quality: 37
+  - title: "Fighting fake news with AI"
+    excerpt: "PETALING JAYA: To combat the proliferation of fake news, companies across the globe are resorting to artificial intelligence (AI) programs which are able to analyse and flag disinformation. Firms like AlphaVu and Logically use these virtual sleuths to mine ..."
+    publishedDateTime: 2021-08-29T23:42:00Z
+    webUrl: "https://www.thestar.com.my/news/nation/2021/08/30/fighting-fake-news-with-ai"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 37
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/08/30/1273994.jpg"
+        width: 1240
+        height: 892
+        isCached: true
   - title: "Involve.ai raises $16M to boost companies’ customer retention rates with AI"
     excerpt: "Involve.ai Inc., a startup using artificial intelligence to help enterprises improve their customer retention rates, today announced that it has closed a $16 million funding round led by Sapphire Ventures."
     publishedDateTime: 2021-08-25T19:08:00Z

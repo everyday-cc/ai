@@ -187,6 +187,22 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "A Self-Driving Bus Has Hit A Paralympian At The Tokyo Olympic Village"
+    excerpt: "There are always consequences of using autonomous vehicles…. Earlier this week, a visually impaired Paralympian was hit by one of the self-driving shuttle buses around Tokyo Olympic Village which resulted in leg and head injuries. The autonomous bus was ..."
+    publishedDateTime: 2021-08-29T17:45:00Z
+    webUrl: "https://wonderfulengineering.com/a-self-driving-bus-has-hit-a-paralympian-at-the-tokyo-olympic-village/"
+    ampWebUrl: "https://wonderfulengineering.com/a-self-driving-bus-has-hit-a-paralympian-at-the-tokyo-olympic-village/amp/"
+    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/a-self-driving-bus-has-hit-a-paralympian-at-the-tokyo-olympic-village/amp/"
+    type: article
+    provider:
+      name: Wonderful Engineering
+      domain: wonderfulengineering.com
+    quality: 44
+    images:
+      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/08/https3A2F2Fs3-ap-northeast-1.amazonaws.com2Fpsh-ex-ftnikkei-3937bb42Fimages2F02F52F92F82F36128950-4-eng-GB2FCropped-1630084514photo_SXM2021082700014279.jpg"
+        width: 1400
+        height: 788
+        isCached: true
   - title: "Tokyo 2020 Paralympics: Japan judo star hit by self-driving bus in Village"
     excerpt: "Japanese judoka Aramitsu Kitazono has been forced to withdraw from his event in the judo competition at the 2020 Tokyo Paralympics after being hit by a self-driving vehicle inside the Paralympics Village."
     publishedDateTime: 2021-08-28T11:39:00Z
@@ -358,6 +374,20 @@ related:
       - url: "http://media.heartlandtv.com/designimages/kezidefault.png"
         width: 640
         height: 380
+        isCached: true
+  - title: "Toyota suspends self-driving shuttles after one hits a Paralympian"
+    excerpt: "Toyota has called a halt to the operation of its fully-autonomus e-Palette shuttle at the Tokyo Paralympic Games after one hit an athlete."
+    publishedDateTime: 2021-08-29T22:36:00Z
+    webUrl: "https://www.stuff.co.nz/motoring/300394471/toyota-suspends-selfdriving-shuttles-after-one-hits-a-paralympian"
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 24
+    images:
+      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/u/h/w/4/image.related.StuffLandscapeSixteenByNine.1420x800.4yuhuv.png/1630275500248.jpg"
+        width: 1420
+        height: 798
         isCached: true
   - title: "Tokyo Paralympics: Visually impaired athlete forced to withdraw after accident with self-driving shuttle bus"
     excerpt: "Toyota has temporarily suspended its autonomous buses in the Paralympics athletes' village after one vehicle hit a visually impaired Paralympian at a pedestrian crossing. Japanese athlete Aramitsu Kitazono was forced to withdraw from Saturday's 81kg Judo ..."

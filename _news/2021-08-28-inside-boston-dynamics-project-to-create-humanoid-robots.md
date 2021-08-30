@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/27/inside-boston-dynamics-project-to
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/27/inside-boston-dynamics-project-to-create-humanoid-robots/amp/"
 type: article
 quality: 89
-heat: 100
+heat: 99
 published: true
 
 provider:

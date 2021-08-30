@@ -7,7 +7,7 @@ originalUrl: "https://www.csrwire.com/press_releases/727521-intel-launches-ai-wo
 webUrl: "https://www.yahoo.com/now/intel-launches-ai-workforce-program-140107340.html"
 type: article
 quality: 136
-heat: 147
+heat: 146
 published: true
 
 provider:

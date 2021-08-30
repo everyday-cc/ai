@@ -7,8 +7,8 @@ originalUrl: "https://analyticsindiamag.com/how-to-prepare-for-microsoft-certifi
 webUrl: "https://analyticsindiamag.com/how-to-prepare-for-microsoft-certified-azure-ai-fundamentals/"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Analytics India Magazine
@@ -23,6 +23,17 @@ images:
     width: 1600
     height: 900
     isCached: true
+
+related:
+  - title: "MONITORAPP Brings Their AIWAF-VE to Microsoft Azure"
+    excerpt: "MONITORAPP, Inc., a leading cybersecurity vendor ,is not only expanding their security solutions to the cloud, but to the market as well with listings on AWS and Microsoft Azure. MONITORAPP is bringing competitive pricing and various payment options,"
+    publishedDateTime: 2021-08-25T22:21:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-monitorapp-brings-their-aiwaf-ve-microsoft-azure-/2021/08/25/9437622.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 49
 
 secured: "0WoZkaDJP9MYPxCtz8CdjyDThDonVLbnvzGzVzqrlke2zQbOe4cH+jcedpYsbw+ALDQLECfHth36YAf2wUmhZvLWjuXRPBrrHggzaqiq7TWd/swFD4TZJOEJ+K1iUawLxzETTBVvND+cMvCH1cnKI9/VMGCoDydmnzALurvhV4PA7hzdVPLKfWs3r8sNDLiGITXHrxlpwMcMm7EC102z2VLH7g1xtQyrbFW+6AcUD8P/w0EokpvTA647dVEVL9nyoU8rsLtnuimpUOrZhNjQ0Ut8aI4oPDVmxrVvuaNOMDDq+r4SynFcfl+Dz93V6pxPNgjT+LI2OFUtgBlHludPlAiS9qR8kn7pZJ8T665pAgw6h6PUMISS2CJGRdjplTorGTZEezFmpgUqXFaGkf75G3iXHrQsYNNH/y5Nh5Xod4ENuySR/igA+JC8rFJG+O7tqoIKgSewldqqVY2ZG8+5htivK3ZxGhCjEAnIbZ2JTVThdAt7sbl5r/bphzbNNP/fpAOAZ3cWS+P2GLtXJSznpg==;1VyT36DPAm5L01AwCJJRmg=="
 ---

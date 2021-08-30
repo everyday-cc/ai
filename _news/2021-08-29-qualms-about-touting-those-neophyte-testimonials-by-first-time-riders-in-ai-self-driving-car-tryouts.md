@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/29/qualms-about-touting
 ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/29/qualms-about-touting-those-neophyte-testimonials-by-first-time-riders-in-ai-self-driving-car-tryouts/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/29/qualms-about-touting-those-neophyte-testimonials-by-first-time-riders-in-ai-self-driving-car-tryouts/amp/"
 type: article
-quality: 72
+quality: 74
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6032b1c370eb42256c4691a9%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1430%26cropY1%3D72%26cropY2%3D877"
@@ -172,6 +173,6 @@ related:
       domain: kdvr.com
     quality: 4
 
-secured: "4vdNHxofwmbxqAAvgs8FaHdRii+XiM2UeaqJf4b1OuBdsy8RkLhvccAfolnksRdEho0tGODssVbeC3zZzlG6Fmz/s6cwj47bhehibS0TKHW5JDkQByl6EIDHJOCaThnBIHjIo2EBE/qCs1QeVKl/xgFl9x1pBpQmzZgxhZnHJofbUMDMxZ/2E7q59wJoieAgC9dw0w7/EnrK9mbk0+a77TtBHaBsOqoM6uPWt4CXN78fcxHq/E5Wj+QabGqRf9zZXMcNmzHGuE8ux4NT1dlfcmHKSrNN63uCIZR1LY2A3YVgWh6KTvQ4VupBD6/9oiGcbA31GCgDjsd1Kmu5S9LyxW0yRSLEgVigt2yz53XKFvk=;OovCfBOPTSE3uWDx61hHLw=="
+secured: "F/pVYD4CWuH1Kx+A8HgFtj6AFEE2zfVf9merlHE6h2MZ1JdfRkUS6x0nHGPY2oC0EmpqfDf974qWvztXd9tVMYd/jpQdVr9pGBjL0HK35l7gypFsPr4p0IDYE5Ao42LqfZwFVdRLLwGFrTeIwAWLdsEgl8BVaKUH9HybS5A9FB0HRmu6MVfhydrnPRXP1yMwN7jJtCiL8eoq5zH6rwvp8Y3fgSpw0pUr0+gz1dwsH9BEusumRfqWHArsQFSZJf6lWxRxFQXDOw77BvUTa4zxRhlDN8HHuDXdp6ARUOWl5uf8pshaAo461Dpt2vuoXqldXMGZzdelj+6dvD2+MPhJtrplLkikamLH5bt3KKeaOZL/cKMp3Y6+4YSBtYoWhjKLnEi8uUB7lsMDF5D7SiWRL+HvRtf1YXdxhjNgaB9AEgg1s7p18ZqJrMXs8udbJVzko7HHkg205ydflyCOJqHmFwo241wGGQvRDETFK0oGbesfaOqY0H595bHZ/8pcFKlZ7vA9Bl7M9Dxm5YkFr8kSOA==;4uC9jydf10OXir6GFQutEw=="
 ---
 

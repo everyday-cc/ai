@@ -64,6 +64,20 @@ related:
         width: 940
         height: 624
         isCached: true
+  - title: "Novel AI tool to help predict Arctic sea ice loss months earlier"
+    excerpt: "Scientists have developed a new artificial intelligence (AI) tool that can more accurately forecast Arctic sea ice conditions months into the future. The improved predictions could underpin new early-warning systems that protect Arctic wildlife and coastal ..."
+    publishedDateTime: 2021-08-29T23:19:00Z
+    webUrl: "https://www.tribuneindia.com/news/science technology/novel-ai-tool-to-help-predict-arctic-sea-ice-loss-months-earlier-302401"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 37
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/8/2021_8$largeimg_763629603.jpeg"
+        width: 660
+        height: 440
+        isCached: true
 
 secured: "ozCiFgui4hPCE/03B2KrLIawFQUR/XwmTLFD7eA+z5qkNjj0gQcOiOasgR7OASc9Gpo3wa1/THEl9/jQZsd5L0wg3ipRFsbLIhytww7T5gRo0hAiq0LhHW6vWk/SdM9vSMD3SwSb8v1te5Xi3FD62rUsiC5lCQrSIWDVd+c7oW/CN51RVkOnojcSo6g3FH2CnCzslkhgDra50oDDCc9w8B2YOeWn4+fP5kEY0EaUpm1a4xUE+t039nkP9GF6zIeMAkizB+2ANEO2PAZHMtPt3+ql/bzwnVsiCXP27vEsrmiy+TTXepGcPAr81+AJ4hYWKnNfZCptBrc4vYoADyI1+McjucO9GwilGTbNRWRdzqSs6MgQs3CubxLmI2SXv5Fi0K7hszxLkPzT2AhJimXdfbG02C4kSNQKlK8unDZVvjteOmt/zUL6xVpkvipI6HOhzXX/sxwXtbFXnyp/rr9EUMbV9ChjYfhGSq4Ru4z35Vt5EGYuz81Eb+qcsSvBzJ4DMMxGpt3lywCk66BeSYN95Q==;XNeaR0bS7vHBS3ERUgpBhg=="
 ---

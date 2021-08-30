@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/cognitive-computing-mark
 webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-size-share-by-sales-revenue-demands-growth-factors-and-emerging-trends-by-2028-2021-08-25"
 type: article
 quality: 52
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -84,17 +84,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 24
-  - title: "Aerospace Artificial Intelligence Market size, share, growth report explores industry trends & analysis 2026"
-    excerpt: "This research report by Report Ocean identifies consumer needs and aims to satisfy them more efficiently effectively and accurately than the competition This report about the Aerospace Artificial Intelligence Market is exceptional because it is easy to understand contains excellent"
-    publishedDateTime: 2021-08-25T06:23:00Z
-    webUrl: "https://www.openpr.com/news/2366382/aerospace-artificial-intelligence-market-size-share-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2366382/aerospace-artificial-intelligence-market-size-share-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2366382/aerospace-artificial-intelligence-market-size-share-growth"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 18
 
 secured: "znqJ85vxEMlYrbWrzKw3+ykiK2okw/3++GbnIM3TAwxgpLZAJl452C/N2IsR3c2AzolwBfNCU939a7RzLKLSn65DAiC1XjEHfqPPa0fw2pShsQcLcYw19MT1NXRkGxkTOE8QkCVyJ5GzUoT1BLLFgzqJE0CJGQNup4sC4XZ55k9psvUqPvqw9hZQmcPH5OQqP6Nl93t7aBgizQBUqEa9ZBq00+IWN/Zmu+SFPjZzPWqU8/8hAhqaTliDjSCkbvimW++jQ7/JHMkxPlxdU0/JIb53UcbkCRN/IWGP92MXh+XRMCQ27KySXLb/hdXTOrbAKaMTWj0uC4gzGbIwOd09L6nRxKukrITMfcTX7220Fls=;+GUpLEIOmsuowMmRckFEVQ=="
 ---

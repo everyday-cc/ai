@@ -115,15 +115,6 @@ related:
         width: 1170
         height: 500
         isCached: true
-  - title: "Artificial intelligence chatbots providing companionship to millions in China"
-    excerpt: "Loneliness, once considered mostly a plight of the elderly, is impacting millions isolated by Covid - Click the link for more details."
-    publishedDateTime: 2021-08-25T06:46:00Z
-    webUrl: "https://www.i24news.tv/en/news/technology/1629873607-artificial-intelligence-chatbots-providing-companionship-to-millions-in-china"
-    type: article
-    provider:
-      name: i24NEWS
-      domain: i24news.tv
-    quality: 16
 
 secured: "MQJ2vlOHkBX6XQFp/W+rn2YC0VITSQ1m3aWx/TXL+Z64IaId1otycQ6stLlMSaBS0pKrXB6RvjBuu3N8ZY7/t8Vfh3qRf7W+TTTAyBrVrdrA7pLIR8ZmEQc+woADikzl4kf/V/fmfQgOCZKKS0U+ZNxuwZGzO4aPJGY/xMFRANm7OKOcNAHtAH5knoHv8A9AjY391hLYBvSRP8hN+1zyYcNdd3ngE5AKVsUGjc0f/8MmaBahU9ka0K0HRhxX3OLiFhPi1du1dMJpaDdEC4vDnfphH2Kds+C9V94C/jJXeaHivS1WmbiP/l/WwHVhDkXruUOuMRMpnEoa87nlszKnyBhlg2GeD6t1iLOfyV6sbpc=;bGuk26M4CMGg+yhXXbUWKA=="
 ---
