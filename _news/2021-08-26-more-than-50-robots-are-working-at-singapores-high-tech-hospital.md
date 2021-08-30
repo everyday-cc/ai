@@ -39,6 +39,20 @@ related:
         width: 450
         height: 235
         isCached: true
+  - title: "Korea, Singapore discuss mutual recognition of vaccine certificates"
+    excerpt: "National Assembly Speaker Park Byeong-seug and his Singaporean counterpart Tan Chuan-Jin agreed on the need to mutually recognize COVID-19 vaccination certificates and to resume a reciprocal quarantine exemption arrangement at a virtual meeting held on Friday,"
+    publishedDateTime: 2021-08-30T02:01:00Z
+    webUrl: "https://www.nationthailand.com/international/40005442"
+    type: article
+    provider:
+      name: nationthailand
+      domain: nationthailand.com
+    quality: 24
+    images:
+      - url: "https://media.nationthailand.com/uploads/images/md/2021/08/ePWxeO5m0UVqbxM7Jz2l.jpg"
+        width: 1280
+        height: 828
+        isCached: true
 
 secured: "P6CVXx0QcwLGCffe/0ULbHOXUdqL9v00RHoG8FDxyNxujsiEHn4kBMZKle0tU7+FSdHi+t6hZPmYUJw1j/PdsoMf+gYkrb3XBUvkjDpwWUi1ROX7Szx0u3xP3w8SwAw/gYdZsj3CHv+la4UyOa3ySMitwNQqn7+QKvPQSpsL9uH1u5PlLYDuWy41RTzPvq2EOryM6Hl/dxA3JJ9NztUjbxFLdo3xW/Rvi4AXjprRObmG6KKTukYwyf6AfunSKIOjKuoUC17BtDbpajJ9nwpymi2Br7ezRpMr1HG02yDAotbnjSG1/h7RRVTmsU9hvSwctMygZnia/SUEftdHV4zz3R6Z/C9++VfMVK0OG299vAE=;LFXSAs6Z0AS9rxpqRXtlQA=="
 ---

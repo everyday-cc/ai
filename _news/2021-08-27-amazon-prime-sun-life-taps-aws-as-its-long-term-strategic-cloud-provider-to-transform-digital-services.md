@@ -51,6 +51,20 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "‘Digital Transformation is Accelerating Recovery and Financial Inclusion’"
+    excerpt: "Nume Ekeghe The President/Chairman of Council, The Chartered Institute of Bankers of Nigeria (CIBN), Dr Bayo Olugbemi has stated that with the increase and adoption of technology, the economy and"
+    publishedDateTime: 2021-08-30T03:05:00Z
+    webUrl: "https://www.thisdaylive.com/index.php/2021/08/30/digital-transformation-is-accelerating-recovery-and-financial-inclusion/"
+    type: article
+    provider:
+      name: This Day
+      domain: thisdaylive.com
+    quality: 23
+    images:
+      - url: "https://storage.googleapis.com/thisday-846548948316-wp-data/wp-media/2020/11/0a25de01-bayo-olugbemi.jpg"
+        width: 800
+        height: 620
+        isCached: true
   - title: "Sun Life Taps AWS as Its Long-Term Strategic Cloud Provider to Transform Digital Services"
     excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Sun Life (TSX: SLF) (NYSE: SLF) has selected AWS as"
     publishedDateTime: 2021-08-27T04:01:00Z

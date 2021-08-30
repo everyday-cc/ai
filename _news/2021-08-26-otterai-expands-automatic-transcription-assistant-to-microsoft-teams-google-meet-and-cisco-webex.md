@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/08/26/otter-ai-expands-automatic-transcr
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/26/otter-ai-expands-automatic-transcription-assistant-to-microsoft-teams-google-meet-and-cisco-webex/amp/"
 type: article
 quality: 90
-heat: 130
+heat: 140
 published: true
 
 provider:
@@ -77,6 +77,15 @@ related:
         width: 2200
         height: 1238
         isCached: true
+  - title: "AusNet signs 5-year deal with Microsoft as it ramps up cloud and AI options"
+    excerpt: "Microsoft has announced a five-year strategic partnership with diversified Australian energy infrastructure business, AusNet Services, which has selected Azure as its preferred cloud platform for a major digital modernisation initiative."
+    publishedDateTime: 2021-08-30T01:30:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_microsoft/ausnet-signs-5-year-deal-with-microsoft-as-it-ramps-up-cloud-and-ai-options/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 32
   - title: "Otter.ai Makes Automated Meeting Notes Even Easier With Otter Assistant Now Available for Microsoft Teams, Google Meet, and Cisco Webex"
     excerpt: "Otter.ai announced the launch of Otter Assistant for Microsoft Teams, Google Meet, and Cisco Webex for Otter Business Plan users. After an initi"
     publishedDateTime: 2021-08-25T13:00:00Z

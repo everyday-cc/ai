@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Agritech Robotics Startup TartanSense Raises $5 Mn In Series A Round"
-    excerpt: "The company builds small agricultural robots, equipped with AI-assisted computer vision, to help small farms reduce their expenditures and improve their incomes"
-    publishedDateTime: 2021-08-25T10:07:00Z
-    webUrl: "https://www.entrepreneur.com/article/381428"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/381428"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/381428"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 119
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1629886004-tartansenseteampic.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Agritech robotics startup TartanSense raises $5 mn in Series-A funding"
     excerpt: "TartanSense builds small agricultural robots, equipped with AI-assisted computer vision, to help small farms prune expenses and improve incomes"
     publishedDateTime: 2021-08-25T11:47:00Z

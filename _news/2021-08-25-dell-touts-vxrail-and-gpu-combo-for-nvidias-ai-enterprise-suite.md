@@ -65,29 +65,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "NVIDIA Turbocharges Extreme-Scale AI for Argonne National Laboratory’s Polaris Supercomputer"
-    excerpt: "The largest GPU-based supercomputer at the U.S. Department of Energy’ s Argonne National Laboratory will run on NVIDIA’ s accelerated computing platform, the company announced today.. “The era of exascale AI will enable scientific breakthroughs with massive scale to bring incredible benefits for society,"
-    publishedDateTime: 2021-08-25T11:00:00Z
-    webUrl: "https://www.nasdaq.com/press-release/nvidia-turbocharges-extreme-scale-ai-for-argonne-national-laboratorys-polaris"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 38
-  - title: "Nvidia-powered Polaris supercomputer to usher in a new era of ‘exascale’ AI"
-    excerpt: "The Polaris supercomputer (pictured) is said to be the DOE’s largest graphics processing unit-based machine so far. It’ll be hosted at the Argonne Leadership Computing Facility, where it will aid research and discovery with extreme scale for user’s algorithms and science,"
-    publishedDateTime: 2021-08-25T10:00:00Z
-    webUrl: "https://siliconangle.com/2021/08/25/nvidia-powered-polaris-supercomputer-usher-new-era-exascale-ai/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/Image-ACLF_Polaris_Rendering_1600x900_R1.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "n5I+Jm7h4hchbSpD4wZRuYpCJEe/l40Kt34rNXMw5lmMFTjZo8peAX07OF20V9Sf2Rx0QWw9yYKIrDpkMd0WOMgUv3TK+z3LY/z2lYrg+QB/HdOICXGhGkp8yvla7cqLHBQEJup2Dk4/pLVyCei3TjwS7e4V39psiVtIdzFtN+F40umZNcF8aofGkNQH4oHmT6HAfCgbApqpwaz8WTsdBcoyUtwep2jw292G1C/UPG27Zy/MRtth1KwD/wyfIVe1LJt02pBx4VojvKtdpSiJEfQ2B5q8w85CdOwvVTZBT67RSBB/q8HYAQ2YAhNiSKzsYboOwM4g17d6DxMulD1fodtglcXgzvcsEgbvFHj9j2c=;67i+PRshmnmgOUusUdIR+w=="
 ---

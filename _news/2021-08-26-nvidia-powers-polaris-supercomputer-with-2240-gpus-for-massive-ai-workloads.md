@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.hothardware.com/news/nvidia-2240-gpus-polaris-supercompu
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-2240-gpus-polaris-supercomputer-ai-workloads"
 type: article
 quality: 71
-heat: 121
+heat: 101
 published: true
 
 provider:
@@ -56,29 +56,6 @@ related:
       - url: "https://insidehpc.com/wp-content/uploads/2021/08/Polaris-Nvidia-HPE-Argonne-ALCF-0821.jpg"
         width: 600
         height: 337
-        isCached: true
-  - title: "NVIDIA Turbocharges Extreme-Scale AI for Argonne National Laboratory’s Polaris Supercomputer"
-    excerpt: "The largest GPU-based supercomputer at the U.S. Department of Energy’ s Argonne National Laboratory will run on NVIDIA’ s accelerated computing platform, the company announced today.. “The era of exascale AI will enable scientific breakthroughs with massive scale to bring incredible benefits for society,"
-    publishedDateTime: 2021-08-25T11:00:00Z
-    webUrl: "https://www.nasdaq.com/press-release/nvidia-turbocharges-extreme-scale-ai-for-argonne-national-laboratorys-polaris"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 38
-  - title: "Nvidia-powered Polaris supercomputer to usher in a new era of ‘exascale’ AI"
-    excerpt: "The Polaris supercomputer (pictured) is said to be the DOE’s largest graphics processing unit-based machine so far. It’ll be hosted at the Argonne Leadership Computing Facility, where it will aid research and discovery with extreme scale for user’s algorithms and science,"
-    publishedDateTime: 2021-08-25T10:00:00Z
-    webUrl: "https://siliconangle.com/2021/08/25/nvidia-powered-polaris-supercomputer-usher-new-era-exascale-ai/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/Image-ACLF_Polaris_Rendering_1600x900_R1.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Dell touts VxRail and GPU combo for Nvidia’s AI Enterprise suite"
     excerpt: "Dell's HCI platform is certified for accelerating workloads with Nvidia’s newly available AI Enterprise software suite."

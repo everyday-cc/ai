@@ -27,58 +27,54 @@ images:
     isCached: true
 
 related:
-  - title: "Cognitive Computing Market Size & Share by Sales Revenue, Demands, Growth Factors and Emerging Trends by 2028"
-    excerpt: "The global “Cognitive Computing Market” is expected to rise with an impressive CAGR and generate the highest revenue"
-    publishedDateTime: 2021-08-25T10:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-size-share-by-sales-revenue-demands-growth-factors-and-emerging-trends-by-2028-2021-08-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Mobile Speech Recognition Software Market 2021 Recent Scope, Growing Popularity and Emerging Trends in the Market"
-    excerpt: "ReportsWeb analysts forecasts the latest report on “Global Mobile Speech Recognition Software Market (Covid-19) Impact and Analysis by 2026”, according to report; The Mobile Speech Recognition Software Market report covers the overall and all ..."
-    publishedDateTime: 2021-08-29T09:54:00Z
-    webUrl: "https://manometcurrent.com/global-mobile-speech-recognition-software-market-2021-swot-analysis-future-growth-covid-19-impact-manufacturers-demands-and-revenue-report-investigated-in-the-latest-research/"
-    ampWebUrl: "https://manometcurrent.com/global-mobile-speech-recognition-software-market-2021-swot-analysis-future-growth-covid-19-impact-manufacturers-demands-and-revenue-report-investigated-in-the-latest-research/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/global-mobile-speech-recognition-software-market-2021-swot-analysis-future-growth-covid-19-impact-manufacturers-demands-and-revenue-report-investigated-in-the-latest-research/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 34
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/Global-Cosmetic-Packaging-Market-390x220.jpg"
-        width: 390
-        height: 220
-        isCached: true
-  - title: "Cognitive Computing Market to Grow at 49.9% CAGR between 2017 and 2025"
-    excerpt: "As a result of various technological advancements in IT sector the global cognitive market is experiencing a major growth recently finds a Transparency Market Research report A number of small players and startups are making breakthrough innovations to establish themselves"
-    publishedDateTime: 2021-08-25T12:49:00Z
-    webUrl: "https://www.openpr.com/news/2367428/cognitive-computing-market-to-grow-at-49-9-cagr-between-2017"
-    ampWebUrl: "https://www.openpr.com/amp/2367428/cognitive-computing-market-to-grow-at-49-9-cagr-between-2017"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2367428/cognitive-computing-market-to-grow-at-49-9-cagr-between-2017"
+  - title: "Artificial Intelligence (AI) as a Service Market Size, Opportunities, Key Growth Factors, Revenue Analysis, For 2020–2027"
+    excerpt: "Global Artificial Intelligence AI as a Service Market is forecasted to grow at a rate of 45 6 from USD 1 73 Billion in 2019 to USD 34 1 Billion in 2027 according to a new report by"
+    publishedDateTime: 2021-08-27T16:24:00Z
+    webUrl: "https://www.openpr.com/news/2371713/artificial-intelligence-ai-as-a-service-market-size"
+    ampWebUrl: "https://www.openpr.com/amp/2371713/artificial-intelligence-ai-as-a-service-market-size"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2371713/artificial-intelligence-ai-as-a-service-market-size"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 24
-  - title: "Deep Learning in Healthcare Market Size, Share 2020 Industry Growing Rapidly with Recent Demand, Trends, Development , Revenue by 2027"
-    excerpt: "The Global Deep Learning in Healthcare Market research delves into detailed and insightful data on important variables such as regional growth segmentation and CAGR The research contains a broad overview of the industry as well as a detailed explanation with"
-    publishedDateTime: 2021-08-26T07:31:00Z
-    webUrl: "https://www.openpr.com/news/2368510/deep-learning-in-healthcare-market-size-share-2020-industry"
-    ampWebUrl: "https://www.openpr.com/amp/2368510/deep-learning-in-healthcare-market-size-share-2020-industry"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2368510/deep-learning-in-healthcare-market-size-share-2020-industry"
+    quality: 47
+    images:
+      - url: "https://cdn.openpr.com/U/8/U827435198_g.jpg"
+        width: 750
+        height: 350
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Food and Beverage Market Size 2021 Demand, Global Trend, News, Business Growth, Top Key Players"
+    excerpt: "The new report titled Global Artificial Intelligence AI in Food and Beverage Market published by Emergen Research is a vivid presentation of the global Artificial Intelligence AI in Food and Beverage market with utmost focus on the forecast market size"
+    publishedDateTime: 2021-08-25T12:51:00Z
+    webUrl: "https://www.openpr.com/news/2367537/artificial-intelligence-ai-in-food-and-beverage-market-size"
+    ampWebUrl: "https://www.openpr.com/amp/2367537/artificial-intelligence-ai-in-food-and-beverage-market-size"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2367537/artificial-intelligence-ai-in-food-and-beverage-market-size"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 24
+    quality: 44
+    images:
+      - url: "https://cdn.openpr.com/U/8/U825208148_g.jpg"
+        width: 700
+        height: 393
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Social Media Market Revenue, Driving Factors, Key Players, Strategies, Trends, Forecast Till 2027"
+    excerpt: "The Global Artificial intelligence AI In Social Media Market size is estimated to reach USD 4 26 Billion from USD 797 Million in 2019 exhibiting a CAGR of 24 7 through 2027 The rapid evolution of social media platforms with"
+    publishedDateTime: 2021-08-27T16:45:00Z
+    webUrl: "https://www.openpr.com/news/2371710/artificial-intelligence-ai-in-social-media-market-revenue"
+    ampWebUrl: "https://www.openpr.com/amp/2371710/artificial-intelligence-ai-in-social-media-market-revenue"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2371710/artificial-intelligence-ai-in-social-media-market-revenue"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 43
+    images:
+      - url: "https://cdn.openpr.com/U/8/U827883715_g.jpg"
+        width: 750
+        height: 350
+        isCached: true
 
 secured: "0cXdpZmxjkFCiL64xP5S6obeg6fxm0rGfiGaLnFe0W+4a+fTH8jVOQmMxZx3JaHGTaY1T+bi95YNUuARW8SnCkQKmwSGuusMWuYrkJwEqgyqe5hOsSOBMPXUf7U6q+ZpsSR+dRwUa8ibqVajDZEPEJRFlWwS80/LyPV0e50DeZlQrHRhm55AzwDHzWsmE4ztAmVo5CwF+AxHMaKit6/yUAaik6MyFVDuXLyZoAuxCQfkUcgtF0DsDV9ddPiKvc7uSEhQXe7Cvsmq780tJYF9POcNoqSzeJcjgWLpk8yJLYI0h0ZbxT5J4MsGU41yYuBSnyLtESAcNDirsofZDOR1xP9zM44h9GM1MhRSFbmSq0Ulg306C0sk8Oh0LFjoUXLDIlaztDzr+LmHMApieeuPSItEiQZPAN3Ln+ALeL3AQFsogO49Gc6WmxkYb1b6dCgpensmuyvMxnG3rQyTvDFmnZ0974qnz6KEUKEIxs557xXYBmjP7SdY64TEjYnLPJsLqac31UV3SjOg07kvQGp/6w==;xyWXXrJp2JhLucECqIQYEg=="
 ---

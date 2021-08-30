@@ -27,6 +27,36 @@ images:
     isCached: true
 
 related:
+  - title: "Global Mobile Speech Recognition Software Market 2021 Recent Scope, Growing Popularity and Emerging Trends in the Market"
+    excerpt: "ReportsWeb analysts forecasts the latest report on “Global Mobile Speech Recognition Software Market (Covid-19) Impact and Analysis by 2026”, according to report; The Mobile Speech Recognition Software Market report covers the overall and all ..."
+    publishedDateTime: 2021-08-29T09:54:00Z
+    webUrl: "https://manometcurrent.com/global-mobile-speech-recognition-software-market-2021-swot-analysis-future-growth-covid-19-impact-manufacturers-demands-and-revenue-report-investigated-in-the-latest-research/"
+    ampWebUrl: "https://manometcurrent.com/global-mobile-speech-recognition-software-market-2021-swot-analysis-future-growth-covid-19-impact-manufacturers-demands-and-revenue-report-investigated-in-the-latest-research/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/global-mobile-speech-recognition-software-market-2021-swot-analysis-future-growth-covid-19-impact-manufacturers-demands-and-revenue-report-investigated-in-the-latest-research/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 34
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/Global-Cosmetic-Packaging-Market-390x220.jpg"
+        width: 390
+        height: 220
+        isCached: true
+  - title: "Global Automated Data Science and Machine Learning Platforms Market 2021 - 2026 Business Statistics of Report that Emphasizes the impact of COVID-19"
+    excerpt: "The latest market research report titled Global Automated Data Science and Machine Learning Platforms Market 2020 by Company, Regions, Type and Application, Forecast to 2027 enfolds expansive evaluation of the market offering an analysis of the market revenue,"
+    publishedDateTime: 2021-08-25T22:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-automated-data-science-and-machine-learning-platforms-market-2021---2026-business-statistics-of-report-that-emphasizes-the-impact-of-covid-19-2021-08-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Deep Learning in Machine Vision Market Report Covers Future Trends With Research 2021-2027"
     excerpt: "Deep learning technology is seeing many appealing advancements in several machine learning sectors, involving the reinforcement learning, natural language processing (NLP), ML frameworks (Pytorch and TensorFlow),"
     publishedDateTime: 2021-08-26T16:32:00Z
