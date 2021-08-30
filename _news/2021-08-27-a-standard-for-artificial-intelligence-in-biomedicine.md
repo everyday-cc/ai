@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-08-standard-artificial-intelligence
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-standard-artificial-intelligence-biomedicine.amp"
 type: article
 quality: 57
-heat: 107
+heat: 77
 published: true
 
 provider:
@@ -56,43 +56,6 @@ related:
         width: 1200
         height: 536
         isCached: true
-  - title: "Govt to offer special incentives to support 75 Start-ups in ares of telemedicine, digital health & AI"
-    excerpt: "Govt will soon launch a Special Incentives scheme to support 75 Start-Ups in areas of Telemedicine, Digital Health & Artificial Intelligence."
-    publishedDateTime: 2021-08-25T13:52:00Z
-    webUrl: "https://pragativadi.com/govt-to-offer-special-incentives-to-support-75-start-ups-in-ares-of-telemedicine-digital-health-ai/"
-    type: article
-    provider:
-      name: Pragativadi
-      domain: pragativadi.com
-    quality: 22
-    images:
-      - url: "https://pragativadi.com/wp-content/uploads/2021/08/image0018MA5.jpg"
-        width: 640
-        height: 286
-        isCached: true
-  - title: "Govt to offer special incentives to support 75 Start-ups in areas of telemedicine, digital health & AI"
-    excerpt: "Govt will soon launch a Special Incentives scheme to support 75 Start-Ups in areas of Telemedicine, Digital Health & Artificial Intelligence."
-    publishedDateTime: 2021-08-25T13:53:00Z
-    webUrl: "https://pragativadi.com/govt-to-offer-special-incentives-to-support-75-start-ups-in-areas-of-telemedicine-digital-health-ai/"
-    type: article
-    provider:
-      name: Pragativadi
-      domain: pragativadi.com
-    quality: 21
-    images:
-      - url: "https://pragativadi.com/wp-content/uploads/2021/08/image0018MA5.jpg"
-        width: 640
-        height: 286
-        isCached: true
-  - title: "Start-Ups in Telemedicine, AI to get special incentives: Dr Jitendra"
-    excerpt: "Government will soon launch a Special Incentives scheme to support 75 Start-Ups in areas of Telemedicine, Artificial Intelligence (AI)"
-    publishedDateTime: 2021-08-25T13:42:00Z
-    webUrl: "https://www.dailyexcelsior.com/start-ups-in-telemedicine-ai-to-get-special-incentives-dr-jitendra/"
-    type: article
-    provider:
-      name: Daily Excelsior
-      domain: dailyexcelsior.com
-    quality: 17
 
 secured: "4HjgO5IAe+/MJrUn9cB8IXMTyA/r71beoD1gV1/4/HMRSm156mrLMvkfZBBOtIj7JyaO/UyTBWAqLelDOmzHZUEdu3861sIx0HeLyu8d2JcxnXq6XKCr7IbvjpHxV7aC96W78cjvkEzYF8/q6bbXv9kXJ5JPTqEnq8RFAhi1ZnCBWSKzTcjeafSzDeEpetH7wmrsbN3iKYzUa5EHGlkIDmxE/AO8St5axkm7fRcJHfvgnSVj3JCmQKgKMvOFiW0MGTy72qcfSXXH+vqrjnGavpK45JAQrqFhi4VEwXMlpJx/jt+lNkDj1P4Vu0NYQG3e38f/RTtPUQq0ZOCW7kmhVo2yBlDOemj5IXQSg2ITr0M=;2Dfjz5bxmzwfqld4ZVPtsg=="
 ---

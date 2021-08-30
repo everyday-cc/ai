@@ -7,7 +7,7 @@ originalUrl: "https://gisuser.com/2021/08/velodyne-lidar-announces-multi-year-sa
 webUrl: "https://gisuser.com/2021/08/velodyne-lidar-announces-multi-year-sales-agreement-with-renu-robotics/"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Velodyne Lidar Announces Multi-Year Sales Agreement with Renu Robotics"
-    excerpt: "Velodyne Lidar, Inc. (Nasdaq: VLDR, VLDRW) today announced a multi-year agreement to provide its Puck™ lidar sensors to Renu Robotics, an industry leader in autonomous vegetation management systems. Renu Robotics' Renubot,"
-    publishedDateTime: 2021-08-25T13:12:00Z
-    webUrl: "https://www.roboticstomorrow.com/content.php?post=17377"
-    type: article
-    provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 51
   - title: "Velodyne Lidar Announces Multi-Year Sales Agreement with Renu Robotics"
     excerpt: "(Nasdaq: VLDR, VLDRW) today announced a multi-year agreement to provide its Puck™ lidar sensors to Renu Robotics, an industry leader in autonomous vegetation management systems. Renu Robotics’ Renubot,"
     publishedDateTime: 2021-08-27T15:14:00Z

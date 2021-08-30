@@ -27,77 +27,106 @@ images:
     isCached: true
 
 related:
-  - title: "Bringing People Back To Life With The Power Of AI Chatbots"
-    excerpt: "Gary Fowler is a serial AI entrepreneur with 17 startups and an IPO. He is CEO and co-founder of GSDVS.com and Yva.ai. In the reality we live in, people live their lives and then leave — for good, never to cross the line and return to the world again."
-    publishedDateTime: 2021-08-26T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/08/26/bringing-people-back-to-life-with-the-power-of-ai-chatbots/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/08/26/bringing-people-back-to-life-with-the-power-of-ai-chatbots/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/08/26/bringing-people-back-to-life-with-the-power-of-ai-chatbots/amp/"
+  - title: "Why AI Is Relevant To Conversational Marketing"
+    excerpt: "Marketers want to have one-on-one conversations with their customers to learn what they are looking for, and develop a stronger, long-term relationship with them"
+    publishedDateTime: 2021-08-30T06:08:00Z
+    webUrl: "https://www.entrepreneur.com/article/382318"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/382318"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/382318"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 104
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6126b209cfc56d1e7361035c%2F0x0.jpg"
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1630303653-4530890.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "How new regulation is driving the AI governance market"
+    excerpt: "In a recent KPMG report, 94% of IT decision makers said that they feel that firms need to focus more on corporate responsibility and ethics while developing AI solutions. Analysts like StrategyR ..."
+    publishedDateTime: 2021-08-26T01:13:00Z
+    webUrl: "https://venturebeat.com/2021/08/25/how-new-regulation-is-driving-the-ai-governance-market/"
+    ampWebUrl: "https://venturebeat.com/2021/08/25/how-new-regulation-is-driving-the-ai-governance-market/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/25/how-new-regulation-is-driving-the-ai-governance-market/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 91
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1288853231.jpg?w=1200&strip=all"
         width: 1200
-        height: 840
+        height: 800
         isCached: true
-  - title: "AI Chatbot Comforts China’s Lonely Millions"
-    excerpt: "After a painful break-up from a cheating ex, Beijing-based human resources manager Melissa was introduced to someone new by a friend late last year. He replies to her messages at all hours of the day,"
-    publishedDateTime: 2021-08-25T14:33:00Z
-    webUrl: "https://guardian.ng/life/ai-chatbot-comforts-chinas-lonely-millions/"
+  - title: "Using AI to reboot brand-client relationships"
+    excerpt: "Using strategically focused AI, brands can identify what their audiences are doing when they are not engaged in a purchase or using a product or service. The secret here is understanding context."
+    publishedDateTime: 2021-08-25T22:09:00Z
+    webUrl: "https://techcrunch.com/2021/08/25/using-ai-to-reboot-brand-client-relationships/"
     type: article
     provider:
-      name: The Guardian Nigeria
-      domain: guardian.ng
-    quality: 39
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 67
     images:
-      - url: "https://guardian.ng/wp-content/uploads/2021/08/587914a5ee14b6a47b8b526c.jpg"
-        width: 1136
-        height: 852
+      - url: "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1149685673.jpg?w=514"
+        width: 514
+        height: 400
         isCached: true
-  - title: "‘Always there:’ the AI chatbot comforting China’s lonely millions"
-    excerpt: "After a painful break-up from a cheating ex, Beijing-based human resources manager Melissa was introduced to someone new by a friend late last year. He replies to her messages at all hours of the day,"
-    publishedDateTime: 2021-08-25T16:00:00Z
-    webUrl: "https://www.taipeitimes.com/News/feat/archives/2021/08/26/2003763239"
+  - title: "Five top tips for ensuring your conversational AI project is a hit"
+    excerpt: "Let’s look first at where conversational AI can make a difference. There are three main forms of communication in every organization where conversational AI can dramatically cha"
+    publishedDateTime: 2021-08-26T10:00:00Z
+    webUrl: "https://www.itproportal.com/features/five-top-tips-for-ensuring-your-conversational-ai-project-is-a-hit/"
+    ampWebUrl: "https://www.itproportal.com/amp/features/five-top-tips-for-ensuring-your-conversational-ai-project-is-a-hit/"
+    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/five-top-tips-for-ensuring-your-conversational-ai-project-is-a-hit/"
     type: article
     provider:
-      name: The Taipei Times
-      domain: taipeitimes.com
-    quality: 39
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 59
     images:
-      - url: "https://www.taipeitimes.com/images/2021/08/26/P14-210826-main301.jpg"
-        width: 800
-        height: 532
+      - url: "https://cdn.mos.cms.futurecdn.net/ghbHs8vktkp6zcrYVRGQ2d-1200-80.jpg"
+        width: 970
+        height: 545
         isCached: true
-  - title: "'Always there': the AI chatbot comforting China's lonely millions"
-    excerpt: "After a painful break-up from a cheating ex, Beijing-based human resources manager Melissa was introduced to someone new by a friend late last year."
-    publishedDateTime: 2021-08-26T04:54:00Z
-    webUrl: "https://www.sinchew.com.my/pad/con/content_2536342.html"
+  - title: "Ambit Launches Conversational AI Platform in AWS Marketplace"
+    excerpt: "Today, Ambit, an Auckland-based conversational artificial intelligence (AI) company, announced the availability of Ambit Edge in Amazon Web Services (AWS) Marketplace. Ambit Edge, an easy to use, intent-based, enterprise-grade digital employee that ..."
+    publishedDateTime: 2021-08-26T02:19:00Z
+    webUrl: "https://www.scoop.co.nz/stories/BU2108/S00486/ambit-launches-conversational-ai-platform-in-aws-marketplace.htm"
+    ampWebUrl: "https://m.scoop.co.nz/stories/BU2108/S00486/ambit-launches-conversational-ai-platform-in-aws-marketplace.htm"
+    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2108/S00486/ambit-launches-conversational-ai-platform-in-aws-marketplace.htm"
     type: article
     provider:
-      name: 星洲网
-      domain: sinchew.com.my
-    quality: 39
+      name: Scoop
+      domain: scoop.co.nz
+    quality: 54
+  - title: "Global Industry Analysts Predicts the World Artificial Intelligence (AI) in Marketing Market to Reach $50.1 Billion by 2026"
+    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Marketing - Global Market Trajectory & Analytics\"."
+    publishedDateTime: 2021-08-26T17:12:00Z
+    webUrl: "https://www.lelezard.com/en/news-19970273.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 47
     images:
-      - url: "https://cdnpuc.sinchew.com.my/pad/pic/2021-08/26/t2_(51X32X568X330)d19b40e7-1a5a-4d82-99fa-e87985c17c8f366d8817-6151-454b-a415-c083e4c28a48.png"
-        width: 749
-        height: 432
+      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
+        width: 421
+        height: 421
         isCached: true
-  - title: "Meeting the Challenge of Implementing AI"
-    excerpt: "Artificial intelligence (AI) is quickly becoming a manufacturing and mainstream technological superstar - a rare achievement indeed. Consider some recent Internet stories highlighting AI's applicability to everyday life."
-    publishedDateTime: 2021-08-25T15:58:00Z
-    webUrl: "https://www.assemblymag.com/articles/96575-meeting-the-challenge-of-implementing-ai"
+  - title: "Conversational AI market to grow to $15.7 billion by 2024"
+    excerpt: "The market for conversational artificial intelligence AI is expected to grow from 42 billion dollars in 2019 to 157 billion dollars by 2024 customer suppor"
+    publishedDateTime: 2021-08-28T09:46:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/270909816/conversational-ai-market-to-grow-to-157-billion-by-2024"
     type: article
     provider:
-      name: Assembly Mag
-      domain: assemblymag.com
+      name: Big News Network.com
+      domain: bignewsnetwork.com
     quality: 37
     images:
-      - url: "https://www.assemblymag.com/ext/resources/Issues/2021/fotf/ai/leaderboard_asbFOTF21AI1.jpg?height=635&t=1629906857&width=1200"
-        width: 1170
-        height: 500
+      - url: "https://cdn.bignewsnetwork.com/ani1630142424.jpg"
+        width: 630
+        height: 420
         isCached: true
 
 secured: "S386lszRFMUlgLGp+8cPAmMWkrYYG8qHDAR5qHYpF7H651SSK5lAnXYBknx7Msdah/H4g1G/15QiXwg9qeQrBeEDXlrdoR7DYSAilkUpdM5OuZach2FWohvyAdEo9+DqkI/ACgvsa4RnEUWEFJK/YamXsKOvDYw5IHdHUD/J1/M5u9E233as9OXbe8pFG4quN1wRCEQ+P8GpxRjd5/odMTBGEkGY+UsCP6lqu/2myeqpatdyg9mxn4aHKHUY9Tw5Ii37JaPOY+syXCg5/Af/bHtEqx5fnLAGjt/XkiYLqfRCwMQxlwalj7ampmPaF6t6JoCmxV6NBRhknsqQO/XHG5k/HRwJdCJfAdxk9uP91i/u4jTOwrLVP1IzSd+5YOpwuZKxSqKTudiAHWgzfqOIC8nlgczSQWqqipKLiSASVGq2117oOwtBz2C6vhy+O3J6xOyZ0kdYWLybx6RLjhIUBX2ZEFgNcKfkayPmIutTIdI+qYzPSzrCsl2i/skOg6OJBd1EvUWDVevxpPrBi6+DIw==;NIKkbi/T/XtJis9LDHXiOQ=="

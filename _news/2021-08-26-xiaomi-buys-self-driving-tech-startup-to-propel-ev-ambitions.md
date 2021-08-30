@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Xiaomi to acquire self-driving startup Deepmotion to enter EV market"
-    excerpt: "Co-founder and Chief Executive Officer Lei Jun is now spearheading a drive to take Xiaomi beyond smartphones, personally leading a project to make electric vehicles."
-    publishedDateTime: 2021-08-25T13:55:00Z
-    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/xiaomi-to-acquire-self-driving-startup-deepmotion-to-enter-ev-market-7470613/"
-    ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/xiaomi-to-acquire-self-driving-startup-deepmotion-to-enter-ev-market-7470613/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/xiaomi-to-acquire-self-driving-startup-deepmotion-to-enter-ev-market-7470613/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 142
-    images:
-      - url: "https://images.indianexpress.com/2021/08/Xiaomi-logo.jpg"
-        width: 1200
-        height: 667
-        isCached: true
   - title: "Xiaomi acquires self-driving tech startup Deepmotion"
     excerpt: "Autonomous driving technologies are the most crucial part of intelligent and electric vehicles, president Wang said."
     publishedDateTime: 2021-08-26T09:59:00Z
@@ -88,20 +72,6 @@ related:
       - url: "https://images.hindustantimes.com/auto/img/2021/08/26/600x338/2021-05-05T164743Z_974700623_RC2S9N9ZBJ8F_RTRMADP_3_ITALY-CLIMATE-MINISTER_1621329101701_1629950061128.JPG"
         width: 600
         height: 338
-        isCached: true
-  - title: "Xiaomi Buys Self-Driving Company as It Accelerates Apple Car Rival Development"
-    excerpt: "The tech industry is slowly but surely pouring billions of dollars into the automotive market, with Apple, Xiaomi, and Huawei spearheading this expansion that’s expected to generate a whole new self-driving trend that would eventually attract other big names in the market too."
-    publishedDateTime: 2021-08-27T04:11:00Z
-    webUrl: "https://www.autoevolution.com/news/xiaomi-buys-self-driving-company-as-it-accelerates-apple-car-rival-development-168150.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 20
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/xiaomi-buys-self-driving-company-as-it-accelerates-apple-car-rival-development-168150-7.jpg"
-        width: 728
-        height: 300
         isCached: true
   - title: "Xiaomi to acquire self-driving startup Deepmotion for $77.4 mn"
     excerpt: "Leg-spinner Yuzvendra Chahal's maiden six-wicket for India as the hosts beat England by 75 runs in the third and final Twenty20 International"

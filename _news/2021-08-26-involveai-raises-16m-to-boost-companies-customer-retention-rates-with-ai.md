@@ -40,6 +40,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Edge AI: The Future of Artificial Intelligence and Edge Computing"
+    excerpt: "Edge AI processes algorithms locally on devices on the edge of a local network. Here is how it is transforming computing."
+    publishedDateTime: 2021-08-25T18:17:00Z
+    webUrl: "https://www.itbusinessedge.com/data-center/developments-edge-ai/"
+    type: article
+    provider:
+      name: IT Business Edge
+      domain: itbusinessedge.com
+    quality: 52
+    images:
+      - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/08/Edge-AI_-The-Future-of-AI-and-Edge-Computing.jpeg"
+        width: 600
+        height: 314
+        isCached: true
   - title: "4 Ways to Sway Customers Toward AI for a Better Customer Experience"
     excerpt: "Consumers are ambivalent about artificial intelligence. According to data collected by O’Reilly, majorities of consumers embrace AI in applications"
     publishedDateTime: 2021-08-27T16:30:00Z

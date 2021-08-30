@@ -41,36 +41,6 @@ related:
         width: 1200
         height: 840
         isCached: true
-  - title: "Why Conversational AI Is So Much More Than a Chatbot"
-    excerpt: "When people think of conversational AI, their first thought is often the chatbots that one encounters on many enterprise websites. While they would not be wrong, as that is one example of conversational AI,"
-    publishedDateTime: 2021-08-25T15:14:00Z
-    webUrl: "https://www.cmswire.com/digital-experience/why-conversational-ai-is-so-much-more-than-a-chatbot/"
-    ampWebUrl: "https://www.cmswire.com/digital-experience/why-conversational-ai-is-so-much-more-than-a-chatbot/amp/"
-    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/why-conversational-ai-is-so-much-more-than-a-chatbot/amp/"
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 59
-    images:
-      - url: "https://www.cmswire.com/-/media/3939a5d58c4c46aaa5d088cb9796d809.ashx?mw=1024"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "AI Chatbot Comforts China’s Lonely Millions"
-    excerpt: "After a painful break-up from a cheating ex, Beijing-based human resources manager Melissa was introduced to someone new by a friend late last year. He replies to her messages at all hours of the day,"
-    publishedDateTime: 2021-08-25T14:33:00Z
-    webUrl: "https://guardian.ng/life/ai-chatbot-comforts-chinas-lonely-millions/"
-    type: article
-    provider:
-      name: The Guardian Nigeria
-      domain: guardian.ng
-    quality: 39
-    images:
-      - url: "https://guardian.ng/wp-content/uploads/2021/08/587914a5ee14b6a47b8b526c.jpg"
-        width: 1136
-        height: 852
-        isCached: true
   - title: "'Always there': the AI chatbot comforting China's lonely millions"
     excerpt: "After a painful break-up from a cheating ex, Beijing-based human resources manager Melissa was introduced to someone new by a friend late last year."
     publishedDateTime: 2021-08-26T04:54:00Z

@@ -21,6 +21,19 @@ topics:
   - AI
   - AI in Healthcare
 
+related:
+  - title: "Current research: Demand for Artificial Intelligence in Construction Market rapidly growing worldwide"
+    excerpt: "This research report by Report Ocean identifies consumer needs and aims to satisfy them more efficiently effectively and accurately than the competition This report about the Artificial Intelligence in Construction Market is exceptional because it is easy to understand contains"
+    publishedDateTime: 2021-08-27T08:47:00Z
+    webUrl: "https://www.openpr.com/news/2370492/current-research-demand-for-artificial-intelligence"
+    ampWebUrl: "https://www.openpr.com/amp/2370492/current-research-demand-for-artificial-intelligence"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2370492/current-research-demand-for-artificial-intelligence"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 22
+
 secured: "5QrpNNnJhCoBJDwy07lyWTcfOkPtJPTFUZF3bE5p12eF2iYFY8rrO6AnrwaowWTtvnrKSjyQyAuSPOBVf8JbaKOiBH4W8pq6YYLB40dxQdZPJLU2sV4yS9/mfCFbc61z9LU0FrllrW0YRgOLrs2KTwIPM9Y9kwmQ1zrzZeAi6PYMSIl/yBTdmS9SNComvTC466qDME0jCIvG+FLENoln4dZSINskK8gkpt3NxPkBPokGZszaIyPzlYetmN3jquRwed10xqY3epNgadHYIfH311R2zCRDKauB2ASfszSMLgYrQrZmU598nMahvDas8p4NigMJOA5LgTORpL3S4MPz8YXNQP14UcPSNpbFvPWRdHo=;vCorH/ygoZ8mngyb99UYTA=="
 ---
 

@@ -3,24 +3,24 @@ category: news
 title: "UT Southwestern pioneers PULSAR-integrated radiotherapy with immunotherapy for improved tumor control"
 excerpt: "Artificial intelligence, along with a $71-million expansion of Radiation Oncology services, is allowing UT Southwestern Medical Center cancer physicians to pioneer a new PULSAR radiation-therapy strategy that improves tumor control compared with traditional daily therapy."
 publishedDateTime: 2021-08-20T00:00:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/926055"
-webUrl: "https://www.eurekalert.org/news-releases/926055"
+originalUrl: "https://www.utsouthwestern.edu/newsroom/articles/year-2021/pulsar-integrated-radiotherapy.html"
+webUrl: "https://www.utsouthwestern.edu/newsroom/articles/year-2021/pulsar-integrated-radiotherapy.html"
 type: article
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: UT Southwestern Medical Center
+  domain: utsouthwestern.edu
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/f5e3fc51-c302-43d0-a53d-c058ccad2dc6/Rendition/low-res/Content/Public"
-    width: 700
-    height: 355
+  - url: "https://www.utsouthwestern.edu/asset/11df8adb-48df-41dc-999b-cc800a62a59b/pulsar-thumbv2.jpg"
+    width: 1000
+    height: 1000
     isCached: true
 
-secured: "0eTe1/3v9XWOzbckv2N7IFWCsnNlmkmgAqo7/53cAcvDgQez1vaWI2sT7vZ03MOrEHPSU66nN+8k+0Z2gxn/pqYlbBLC9DIYYuBNtRdMBdugWUsLjtsF3OGJ8V2w4j6XoF+kURxS8qwMdbv31kuC83NibWwpWcbKX3pokB1zvjFrbOQyvBo2SALa1wImRau3/CGQyyX5ujt1H2icVIppO5XCzeL2vMseyfICA4GPUiQJU7HFIATX/ZMHIS2716CYKxZCIbISn152ItmVTDmb4pK+A3+pqzUMvfTFjrrABR+7EvEbz7WcFXvJiPmgYrhW2hfrxwhMzrS41doxkZUh5Y525LtuipWrIKzXU9xAi4UZ4KKHOvJLNPU3reSjk7Q5vWDofiL4UnKn6+A91lOcW5BRLy3JXwJl3eeMKwU6pN1E1BVxenmgkalE77bDsDUaGoVDu+mEFYZOMKhZhrNEmoiAEyfyotXAgGQLm6UZS2vzZBOEgU3nwJVPyOoEdXlBFjZh7dLfHw2dj9itXa9Dzw==;afaXGiaamSqoHmMpjOVAKg=="
+secured: "z7oU9XDGTroDDzJKVJyNZhSvIb6HKJvdE4YtY8J2B8SOIRe50s26JTvrR/AOISUe9JhSRFDXtdBKzs5cplN9ihRcpbF2FcrQ62wIKhMAVo4gPttI9YqxqkO+zcqzOxGC4zWL1f7D9N507aIQlj6NCPV+BtEEoELTDfgC/+DCU6TkO3dvXy+a20ruTuQJXi96mcqXkr1CMNPMz/4NtcjfSYqh4I3BRUQF2hjE/oV81YnK0Oyzryi5jKU2eOVZLC39QbmpoMOl3kQAxFlv5+JpyiK4/Vb0zu8WjetW2UJzoZELILLoUwQOjGVXgx07mKli9JdWnA85uB5RHBgKzgPpaz2CLzzWD4daRHtVPoLZ8ss=;CkoQVTonAwCTqVk6ERzbHg=="
 ---
 

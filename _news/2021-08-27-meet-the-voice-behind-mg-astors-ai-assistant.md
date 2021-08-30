@@ -9,7 +9,7 @@ ampWebUrl: "https://www.team-bhp.com/news/meet-voice-behind-mg-astors-ai-assista
 cdnAmpWebUrl: "https://www-team--bhp-com.cdn.ampproject.org/c/s/www.team-bhp.com/news/meet-voice-behind-mg-astors-ai-assistant?amp"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1280
     height: 960
     isCached: true
+
+related:
+  - title: "MG Motor Announces First Woman Paralympic Medalist Deepa Malik To Voice AI Assistance"
+    excerpt: "MG Motor has said that Khel Ratna Awardee Deepa Malik will be the voice behind the soon-to-be-launched SUV, MG Astor's personal AI assistant feature."
+    publishedDateTime: 2021-08-30T07:49:00Z
+    webUrl: "https://www.republicworld.com/auto-news/cars/mg-motor-announces-first-woman-paralympic-medalist-deepa-malik-to-voice-ai-assistance.html"
+    ampWebUrl: "https://www.republicworld.com/amp/auto-news/cars/mg-motor-announces-first-woman-paralympic-medalist-deepa-malik-to-voice-ai-assistance.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/auto-news/cars/mg-motor-announces-first-woman-paralympic-medalist-deepa-malik-to-voice-ai-assistance.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 50
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/hvguvm1zfuqptqib_1630308230.jpeg"
+        width: 768
+        height: 438
+        isCached: true
 
 secured: "I7bWVZe5nnLlVFAnqNtF3jcl+RMdqKBAJHXD3YSUCQ3Z8ihwMigTl10izAb6OviVdNnz9cITRYiKe/cxvCrdvFkPE9rz87TxpWC627PlnCFXjeW2gE9B2nFfygk6H9LUSaEOOBaq0PgVxLX/j3Lg6K1EUDMnPXPjeyb4sUZn0EmoMI7EUsS12fmTksUqJA2yCrJOTBENSuWO5noLgoriZiiuKy8bCMdv6chEGR6dLlzHMueHkEv21BnHzpfMeIP+F4mPZeo+bOdlnwc38VJaMmxU50fiRnYtlC/rHF295GF5dvJIAgmOynCywTQmsNdBE1PaHouEeru46oXuM6apO6ltluD6OB+RhnM8CIvvQ3o=;hZ3BbUe1x8wWHdIgfueP6w=="
 ---

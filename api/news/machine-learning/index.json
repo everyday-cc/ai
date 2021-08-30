@@ -283,6 +283,50 @@
       ]
     },
     {
+      "path": "_news/2021-08-26-automation-innovation-from-ai-and-analytics-to-machine-learning-and-robotics-supply-chains-will-never-be-the-same-again.md",
+      "title": "Automation Innovation: From AI and Analytics to Machine Learning and Robotics, Supply Chains Will Never be the Same Again",
+      "excerpt": "A combination of intensifying customer demands and massively disruptive events such as the COVID-19 pandemic is pushing suppliers, manufacturers, distributors and retailers to embrace innovation at an unprecedented pace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.supplychainbrain.com/articles/33642-surviving-in-the-age-of-permanent-supply-chain-disruption-part-2-automation-innovation",
+      "originalUrl": "https://www.supplychainbrain.com/articles/33642-surviving-in-the-age-of-permanent-supply-chain-disruption-part-2-automation-innovation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.supplychainbrain.com/ext/resources/0-videos/Gartner-2021/Gartner-webinar.jpg?height=635&t=1629927938&width=1200",
+          "width": 800,
+          "height": 555,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-25T14:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Supply Chain",
+        "domain": "supplychainbrain.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-08-26-avalo-uses-machine-learning-to-accelerate-the-adaptation-of-crops-to-climate-change.md",
       "title": "Avalo uses machine learning to accelerate the adaptation of crops to climate change",
       "excerpt": "Climate change is affecting farming all over the world, and solutions are seldom simple. But if you could plant crops that resisted the heat, cold, or drought instead of moving a thousand miles away,",
@@ -315,58 +359,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-unlocking-the-future-at-nextroll-how-machine-learning-is-changing-everything-for-innovation-minded-businesses.md",
-      "title": "Unlocking The Future At NextRoll: How Machine Learning Is Changing Everything For Innovation-Minded Businesses",
-      "excerpt": "In practice, ML enables companies to forge stronger customer relationships, develop new revenue opportunities, improve efficiency, make better decisions, and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/amazonwebservices/2021/08/25/unlocking-the-future-at-nextroll-how-machine-learning-is-changing-everything-for-innovation-minded-businesses/",
-      "originalUrl": "https://www.forbes.com/sites/amazonwebservices/2021/08/25/unlocking-the-future-at-nextroll-how-machine-learning-is-changing-everything-for-innovation-minded-businesses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611eab17ea89b09e18980e12%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/amazonwebservices/2021/08/25/unlocking-the-future-at-nextroll-how-machine-learning-is-changing-everything-for-innovation-minded-businesses/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amazonwebservices/2021/08/25/unlocking-the-future-at-nextroll-how-machine-learning-is-changing-everything-for-innovation-minded-businesses/amp/",
-      "publishedDateTime": "2021-08-25T11:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

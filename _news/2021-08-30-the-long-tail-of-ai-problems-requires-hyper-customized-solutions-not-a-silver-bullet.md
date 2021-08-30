@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/29/the-long-tail-of-ai-problems-requ
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/29/the-long-tail-of-ai-problems-requires-hyper-customized-solutions-not-a-silver-bullet/amp/"
 type: article
 quality: 82
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 695
     isCached: true
+
+related:
+  - title: "Green Sheen Environment Foundation offers AI-based Solutions to challenges in water sector"
+    excerpt: "Green Sheen Environment Foundation (GSEF), a non-profit organization that focuses on promising technologies like artificial intelligence (AI) and sensors for sustainable impact on the earth's natural"
+    publishedDateTime: 2021-08-30T06:30:00Z
+    webUrl: "https://www.business-standard.com/content/press-releases-ani/green-sheen-environment-foundation-offers-ai-based-solutions-to-challenges-in-water-sector-121083000392_1.html"
+    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/green-sheen-environment-foundation-offers-ai-based-solutions-to-challenges-in-water-sector-121083000392_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/green-sheen-environment-foundation-offers-ai-based-solutions-to-challenges-in-water-sector-121083000392_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 47
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-08/30/full/20210830111657.jpg"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "CSJzzVpK/DLE6sye4mjrysM0GNClGQWliRxXEVJjcpLsc3X62wyml1xun7VNo7cGUe+ItCem+sGQeR4gkcRtqg1Vf8Jg8NO8/ZIKxPZAMmytBYPvG1VrfJCzMVX7PHnkOKGk73Wl44UDxhQf6lUwR347ZWZDOBbIRhvtNHg5p3OvNTua4k4zvPPTgmwm2BJtp0C8LFkmKbSzE6s76l1X2ayhXyUQUJlbSNWQs1ncxTHM0qDV4QmWX6s5Qr2VfREWalbnxmpU8x+KozTfEKnzC7rKzNuph2sy/2j6Fa8aMhO0KDLXFU5MM+0rJat/w+3G3QcMj5Nq0xhJrP9w2CPa5LTxqcPuW1g/rWS8saQxNy7AlLqHQBI00h9MjQ1JXMK9Cqb2HcFVThqNL03mo+NJutu3KK1RYgqTbCSSoxRoKYoemBiJ0/PkNda6m09iQp7SURu67oeLeHqvtKfx6isTVXgB1rR2hMdwGVWUi9uFXpHy1+RggLxw8LcS2efIOV/tM0aLgBfeyuRNhjDTyuMZUg==;e8749IaKuk7vAyCGxXu5pQ=="
 ---

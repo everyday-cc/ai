@@ -40,20 +40,6 @@ related:
         width: 628
         height: 385
         isCached: true
-  - title: "Global Industry Analysts Predicts the World Artificial Intelligence (AI) in Marketing Market to Reach $50.1 Billion by 2026"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Marketing - Global Market Trajectory & Analytics\"."
-    publishedDateTime: 2021-08-26T17:12:00Z
-    webUrl: "https://www.lelezard.com/en/news-19970273.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 47
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
-        width: 421
-        height: 421
-        isCached: true
   - title: "Speech and Voice Recognition Market worth $22.0 billion by 2026 - Exclusive Report by MarketsandMarketstm"
     excerpt: "Global Forecast to 2026\", published by MarketsandMarketstm, the Speech And Voice Recognition Market is expected to grow from USD 8.3 billion in 2021 to USD 22.0 billion by 2026; it is expected to grow at a CAGR of 21."
     publishedDateTime: 2021-08-26T14:58:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.govtech.com/news/san-diego-ai-startup-nets-210m-for-dron
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/news/san-diego-ai-startup-nets-210m-for-drones-used-by-military?_amp=true"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Government Technology
@@ -40,15 +40,6 @@ related:
         width: 480
         height: 299
         isCached: true
-  - title: "Shield AI Finds $210M"
-    excerpt: "San Diego-based Shield AI, a startup developing AI and self driving technologies for aircraft, has raised $210M in a Series D investment round, according to the company. The funding was led by Disruptive,"
-    publishedDateTime: 2021-08-25T13:46:00Z
-    webUrl: "https://www.socaltech.com/shield_ai_finds____m/s-0081635.html"
-    type: article
-    provider:
-      name: SocalTech
-      domain: socaltech.com
-    quality: 17
 
 secured: "NMdjp000XEvSR9cxv0qDG36A2yxJEMzPR7EzTk1Ab5dCM1e9I4NbsZoZ9EQawG2JGNCYLjo0Nt/2RpnCxbYC1QIDSm+uq1ufdHEZGzphQP4fiNFLyItEPQpNOyKJjDrBwt34LBZCif/VzCU6LiO6dk/RAXIsl3hFiBznS403i9nfbPMdyxvr4VvfAlIuiaEieP4lxz6WVIJS5SelCk+W+IZ8Reu24SfVaSQtfFNdM+jBmg904gAQqNzlUFvD58gIsDZ5pQFFNrLxupCLSH0dfs40tm18OszjYb0AbhJ0DcUWAnwaNxZm6U39DPAbpR0LpO1yvMa2sM4ovK/vZme0puELD4jOjwBHP5yt4xbPRLY3OjgO5Utao1De3cAavFcugvZFuu6vkS7qpr3/Dz30R6a0HH+F9/lyAXxf+sOFSYk4hgwyR+QaNKm3z9Oca09zSFZtGuaVA/miiKmZCEooQLzCl9diaQZV0tYNUWQ+zofLJRiQhV8wxRDQf/hm2MVTlkq07bULIXI+neXF09CGhA==;TxwKkQ96E0SeJyBxmTbTTQ=="
 ---

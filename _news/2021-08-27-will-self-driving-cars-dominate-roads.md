@@ -153,6 +153,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Xiaomi Buys Self-Driving Company as It Accelerates Apple Car Rival Development"
+    excerpt: "The tech industry is slowly but surely pouring billions of dollars into the automotive market, with Apple, Xiaomi, and Huawei spearheading this expansion that’s expected to generate a whole new self-driving trend that would eventually attract other big names in the market too."
+    publishedDateTime: 2021-08-27T04:11:00Z
+    webUrl: "https://www.autoevolution.com/news/xiaomi-buys-self-driving-company-as-it-accelerates-apple-car-rival-development-168150.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 20
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/xiaomi-buys-self-driving-company-as-it-accelerates-apple-car-rival-development-168150-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
 
 secured: "osytAQl4GGoVt+Jr8p81Z+TBBk0E1cn4dHnILW4ycIV+J5D/x+6LTzTz2lo4W+SedjX3n06KVGVoqaml/YJf6vYuJFNjnnN6r2AjWw9G+1mHg+S9ie0aikGgNzn3DaVc8e4qV+CbZcTr6KZzwc6VNuQKnmAgSQNeZW3J+kOMbeo1LqEOE3MJcTXAhCo3Mi2WSNP88u6baOy/FUueHGua2q1UPPknbnR2su3dv3McFSywvJFrWiImebypKAJTf8+lRe6BK2ErFd712yd3cJWEh95ARf/dLqiQFtj9zx4ruAorbl7xiilcxCXkBxIJr3/3dme1lO5SEhQEmpGGAF9vSMMEJb9GSrsH0KXWoxxSIWcNtbgJimPZzf9iDXYpcrj+d0Wmd0HG34E1q5PMN5PCzfG8Nwj+zXStVL65V3Wh9H/WXCzwlmRRyKDYXVLybdz1UBs7L2gP9yLeK1ZNSa8hulEFK272B3TMp9kuQEqGmtx1o8nQ11F2v1iSdoA11CbPIRlgsTX1GRsyPN++zDz6aw==;wjAntBnauWHgGvit7KcKYg=="
 ---

@@ -56,43 +56,6 @@ related:
         width: 1500
         height: 960
         isCached: true
-  - title: "Govt to offer special incentives to support 75 Start-ups in ares of telemedicine, digital health & AI"
-    excerpt: "Govt will soon launch a Special Incentives scheme to support 75 Start-Ups in areas of Telemedicine, Digital Health & Artificial Intelligence."
-    publishedDateTime: 2021-08-25T13:52:00Z
-    webUrl: "https://pragativadi.com/govt-to-offer-special-incentives-to-support-75-start-ups-in-ares-of-telemedicine-digital-health-ai/"
-    type: article
-    provider:
-      name: Pragativadi
-      domain: pragativadi.com
-    quality: 22
-    images:
-      - url: "https://pragativadi.com/wp-content/uploads/2021/08/image0018MA5.jpg"
-        width: 640
-        height: 286
-        isCached: true
-  - title: "Govt to offer special incentives to support 75 Start-ups in areas of telemedicine, digital health & AI"
-    excerpt: "Govt will soon launch a Special Incentives scheme to support 75 Start-Ups in areas of Telemedicine, Digital Health & Artificial Intelligence."
-    publishedDateTime: 2021-08-25T13:53:00Z
-    webUrl: "https://pragativadi.com/govt-to-offer-special-incentives-to-support-75-start-ups-in-areas-of-telemedicine-digital-health-ai/"
-    type: article
-    provider:
-      name: Pragativadi
-      domain: pragativadi.com
-    quality: 21
-    images:
-      - url: "https://pragativadi.com/wp-content/uploads/2021/08/image0018MA5.jpg"
-        width: 640
-        height: 286
-        isCached: true
-  - title: "Start-Ups in Telemedicine, AI to get special incentives: Dr Jitendra"
-    excerpt: "Government will soon launch a Special Incentives scheme to support 75 Start-Ups in areas of Telemedicine, Artificial Intelligence (AI)"
-    publishedDateTime: 2021-08-25T13:42:00Z
-    webUrl: "https://www.dailyexcelsior.com/start-ups-in-telemedicine-ai-to-get-special-incentives-dr-jitendra/"
-    type: article
-    provider:
-      name: Daily Excelsior
-      domain: dailyexcelsior.com
-    quality: 17
 
 secured: "vgAP0YzI5GRMZiZFvL5Nxh2JFh3J2sHghiVkR2l7zXmGZlQe8dIlrFEP8CbBg76TaG55yG+a7A9jA9P72Ihh3X1DxrouJWlnOOoQHO9nf3zRgvyxDSs0kZbApQHqZHoAR+o0kRllqJmK+lCJhIZwPz6deu+Xbwl2TuxxIvFAJjkcl54Nc8iEG5BlqGdMiN0i6xS9WPqCsfLxDnWTgJpx+OfbfKhDS7KmdjCAxC50NzAj7pw5FZQe/AWmoFMdDSEwJk1/BwDsj9Er/76hC8n+C73CYtYk2dliEFbahoXuHTRnNuaWcqq3F7SnIYCu/0ZKP5JJ+GEiQrYh7k1l6RIHgt5AtA/U9o1KSno2oyWIMl0/EDM/RfoazTsX61frofIaKxrDPDsalNDcNmUC9IgqcOivmoDghsPcb8gBZo3yFubIElSoeR02RSNXU9RkavOm2GJbMwrubCwH5HBYOGXk3MVsUENvAE3D4tSqmI6T3lu2EaBRU0udhPmn0IphHFz7b8+7QpNhIFR38tqYST408Q==;155/19+1fRI26LwKQVVmyw=="
 ---

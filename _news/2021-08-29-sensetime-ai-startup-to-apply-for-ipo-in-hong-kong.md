@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "China’s AI unicorn SenseTime files for Hong Kong IPO"
+    excerpt: "China’s biggest AI firm SenseTime filed Friday to go public on the Hong Kong exchange as China tightens scrutiny on overseas listings. The firm is planning to raise at least $2 billion in its IPO, local media reported."
+    publishedDateTime: 2021-08-30T06:03:00Z
+    webUrl: "https://technode.com/2021/08/30/chinas-ai-unicorn-sensetime-files-for-hong-kong-ipo/"
+    ampWebUrl: "https://technode.com/2021/08/30/chinas-ai-unicorn-sensetime-files-for-hong-kong-ipo/"
+    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/08/30/chinas-ai-unicorn-sensetime-files-for-hong-kong-ipo/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 57
+    images:
+      - url: "https://i2.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
+        width: 540
+        height: 540
+        isCached: true
   - title: "Chinese AI firm SenseTime applies for $12b IPO in Hong Kong"
     excerpt: "Chinese artificial intelligence (AI) company SenseTime has submitted an application to the Hong Kong Exchanges and Clearing (HKEX) for a proposed IPO that may become the world's largest in the field of AI with a valuation of $12 billion. AI companies have ..."
     publishedDateTime: 2021-08-29T13:43:00Z

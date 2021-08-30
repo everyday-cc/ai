@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/amazonwebservices/2021/08/25/unlocking-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amazonwebservices/2021/08/25/unlocking-the-future-at-nextroll-how-machine-learning-is-changing-everything-for-innovation-minded-businesses/amp/"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Forbes
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Level AI Launches With $15 Million in Funding to Make the Most of Every Customer Interaction"
-    excerpt: "Level AI publicly launched to modernize customer service. The company, founded by former Amazon Alexa product leader Ashish Nagar, has developed proprietary technology and conversational artificial intelligence to uniquely help organizations work with customers to solve any issues in real time and elevate the customer’s overall experience."
-    publishedDateTime: 2021-08-25T14:21:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-9e2f5f410a9945b8ae1b5c13282e431d"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 26
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "XiZ4vSqZxipIF7n6fXKPw7WqfEAKCSBnBjio4Wk3IB0bZWWqOpzLwphdSxlUm8Y9kPxc2TyDj3K59g/VxXJigewSfFUGJmM3RWklTWexYvTvBkIwpExPLyA8gwgPAT9W5xDnAdihbS7VGdGfknckAiXfkxYhqbNMqkB/pAc3NdrYNkiK3EWijNkiKCvQVAdZp71Fx6fcUh2EDy09XBC2T5KOidcaKFLFbbBMAZNuY6/CE30ddkrfGvEXawwragd1r8NuK90QslvCbjB08CBmaRMH8HFYsgH3nH6BeU5U9wwuvSRBTeVPehBWk91rqPQZfGy/rlm13yPeOUfoA7WtcBQzZnyik1R2zL5jl2paU33yOAFAYrCbhF8FzNuz/f+xD/D3r+mIxi0keuUybrYApEyKwlzS0BgXRixM/6viRc6hgDcrBJcxD7EDD17jXb7lgZZmCqw0yHyBd1OFHdC9wimur2sHc7UZySPzZ9mLgCw33T3Lyu57/CtboOoDr063pq6CXnehUzmCdIYWHVtqyQ==;qlMQ60655gf4KT68i3ROWA=="
 ---

@@ -25,92 +25,148 @@ images:
     isCached: true
 
 related:
-  - title: "Xiaomi to acquire self-driving startup Deepmotion to enter EV market"
-    excerpt: "Co-founder and Chief Executive Officer Lei Jun is now spearheading a drive to take Xiaomi beyond smartphones, personally leading a project to make electric vehicles."
-    publishedDateTime: 2021-08-25T13:55:00Z
-    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/xiaomi-to-acquire-self-driving-startup-deepmotion-to-enter-ev-market-7470613/"
-    ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/xiaomi-to-acquire-self-driving-startup-deepmotion-to-enter-ev-market-7470613/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/xiaomi-to-acquire-self-driving-startup-deepmotion-to-enter-ev-market-7470613/lite/"
+  - title: "Chances Of Collisions Involving Urgently Underway Police Cars And AI Self-Driving Cars"
+    excerpt: "Regrettably there are going to be instances of urgently underway police cars that collide with self-driving cars, though there are means to try and reduce those chances."
+    publishedDateTime: 2021-08-27T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/27/chances-of-collisions-involving-urgently-underway-police-cars-and-ai-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/27/chances-of-collisions-involving-urgently-underway-police-cars-and-ai-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/27/chances-of-collisions-involving-urgently-underway-police-cars-and-ai-self-driving-cars/amp/"
     type: article
     provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 142
+      name: Forbes
+      domain: forbes.com
+    quality: 81
     images:
-      - url: "https://images.indianexpress.com/2021/08/Xiaomi-logo.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60722c4f3955ebfd3665bef7%2F0x0.jpg%3FcropX1%3D237%26cropX2%3D4511%26cropY1%3D440%26cropY2%3D2845"
         width: 1200
-        height: 667
+        height: 675
         isCached: true
-  - title: "Xiaomi acquires self-driving tech startup Deepmotion"
-    excerpt: "Autonomous driving technologies are the most crucial part of intelligent and electric vehicles, president Wang said."
-    publishedDateTime: 2021-08-26T09:59:00Z
-    webUrl: "https://technode.com/2021/08/26/xiaomi-acquires-self-driving-tech-startup-deepmotion/"
-    ampWebUrl: "https://technode.com/2021/08/26/xiaomi-acquires-self-driving-tech-startup-deepmotion/"
-    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/08/26/xiaomi-acquires-self-driving-tech-startup-deepmotion/"
+  - title: "Serious Concerns That AI Self-Driving Cars Cybersecurity Will Be A Hacker Leak Like An Open Sieve"
+    excerpt: "The importance of considering the numerous cybersecurity holes likely to be present in AI self-driving cars and seriously seeking to plug them up."
+    publishedDateTime: 2021-08-25T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/25/serious-concerns-that-ai-self-driving-cars-cybersecurity-will-be-a-hacker-leak-like-an-open-sieve/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/25/serious-concerns-that-ai-self-driving-cars-cybersecurity-will-be-a-hacker-leak-like-an-open-sieve/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/25/serious-concerns-that-ai-self-driving-cars-cybersecurity-will-be-a-hacker-leak-like-an-open-sieve/amp/"
     type: article
     provider:
-      name: TechNode
-      domain: technode.com
-    quality: 44
+      name: Forbes
+      domain: forbes.com
+    quality: 76
     images:
-      - url: "https://technode.com/wp-content/uploads/2019/10/xiaomi7.jpg"
-        width: 1620
-        height: 1080
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60bea15c41ff6d82b797b825%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Xiaomi to acquire self-driving startup Deepmotion"
-    excerpt: "The deal happens as the company gears up to enter the electric vehicle market, reports GizmoChina. Deepmotion develops driver assistance software."
-    publishedDateTime: 2021-08-27T09:00:00Z
-    webUrl: "https://www.gadgetsnow.com/tech-news/xiaomi-to-acquire-self-driving-startup-deepmotion/articleshow/85682575.cms"
-    ampWebUrl: "https://www.gadgetsnow.com/tech-news/xiaomi-to-acquire-self-driving-startup-deepmotion/amp_articleshow/85682575.cms"
-    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/xiaomi-to-acquire-self-driving-startup-deepmotion/amp_articleshow/85682575.cms"
+  - title: "Qualms About Touting Those Neophyte Testimonials By First-Time Riders In AI Self-Driving Car Tryouts"
+    excerpt: "To clarify, for true self-driving cars there isn’t a human driver at the wheel and instead, an AI-based driving system is undertaking the entirety of the driving chore. These alleged off-the-cuff testimonials are usually by first-time riders in self ..."
+    publishedDateTime: 2021-08-29T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/29/qualms-about-touting-those-neophyte-testimonials-by-first-time-riders-in-ai-self-driving-car-tryouts/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/29/qualms-about-touting-those-neophyte-testimonials-by-first-time-riders-in-ai-self-driving-car-tryouts/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/29/qualms-about-touting-those-neophyte-testimonials-by-first-time-riders-in-ai-self-driving-car-tryouts/amp/"
     type: article
     provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 44
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-85682575,imgsize-27696,width-800/85682575.jpg"
-        width: 800
-        height: 472
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6032b1c370eb42256c4691a9%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1430%26cropY1%3D72%26cropY2%3D877"
+        width: 1200
+        height: 676
         isCached: true
-  - title: "Phone maker Xiaomi propels EV ambitions; to buy self-driving tech startup"
-    excerpt: "Xiaomi has already pledged an initial investment of $10 billion over the next decade in the field of electric vehicles..The smartphone maker has started a hiring spree of 500 engineers for the EV project."
-    publishedDateTime: 2021-08-26T15:58:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/phone-maker-xiaomi-propels-ev-ambitions-to-buy-self-driving-tech-startup-41629949869567.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/news/phone-maker-xiaomi-propels-ev-ambitions-to-buy-self-driving-tech-startup/amp-41629949869567.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/phone-maker-xiaomi-propels-ev-ambitions-to-buy-self-driving-tech-startup/amp-41629949869567.html"
+  - title: "Alphabet's Waymo to stop selling lidar self-driving car sensors"
+    excerpt: "Alphabet Inc's self-driving unit Waymo said on Thursday that it has ended a two-year effort to sell light detection and ranging (lidar) sensors to other companies."
+    publishedDateTime: 2021-08-27T14:57:00Z
+    webUrl: "https://www.reuters.com/technology/alphabets-waymo-stop-selling-lidar-self-driving-car-sensors-sources-2021-08-27/"
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 43
+      name: Reuters
+      domain: reuters.com
+    quality: 69
     images:
-      - url: "https://images.hindustantimes.com/auto/img/2021/08/26/600x338/2021-05-05T164743Z_974700623_RC2S9N9ZBJ8F_RTRMADP_3_ITALY-CLIMATE-MINISTER_1621329101701_1629950061128.JPG"
+      - url: "https://www.reuters.com/resizer/icCZxD-J3v_6pHauZBSNngXG9zc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JH3ID44JRRIOTM3QAF4FV2F4OY.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Waymo to stop selling lidar self-driving car sensors"
+    excerpt: "Most self-driving car firms, including Waymo, say lidars are key to achieving full autonomy. Tesla CEO Elon Musk says companies that rely on the expensive sensors are \"doomed\"."
+    publishedDateTime: 2021-08-27T07:41:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/tech-bytes/waymo-to-stop-selling-lidar-self-driving-car-sensors/articleshow/85681776.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/tech-bytes/waymo-to-stop-selling-lidar-self-driving-car-sensors/amp_articleshow/85681776.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/tech-bytes/waymo-to-stop-selling-lidar-self-driving-car-sensors/amp_articleshow/85681776.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-36846,msid-85681738/waymo-chrysler-pacifica-hybrid-self-driving-car.jpg"
         width: 600
-        height: 338
+        height: 450
         isCached: true
-  - title: "Xiaomi buys self-driving tech startup to propel EV ambitions"
-    excerpt: "The acquisition of four-year-old Deepmotion, which develops driver assistance software, is the latest in a series of moves Xiaomi’s making to delve deeper into a crowded field."
-    publishedDateTime: 2021-08-25T23:19:00Z
-    webUrl: "https://www.autonews.com/china/xiaomi-buys-self-driving-tech-startup-propel-ev-ambitions"
+  - title: "Waymo will stop selling lidar self-driving car sensors"
+    excerpt: "SAN FRANCISCO -- Alphabet's self-driving unit Waymo said that it has ended a two-year effort to sell light detection and ranging (lidar) sensors to other companies. This is a reversal from its ..."
+    publishedDateTime: 2021-08-27T09:20:00Z
+    webUrl: "https://europe.autonews.com/suppliers/waymo-will-stop-selling-lidar-self-driving-car-sensors"
     type: article
     provider:
       name: Automotive News
       domain: autonews.com
-    quality: 24
+    quality: 39
     images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/377687826.jpg"
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Waymo%20jag%20SF%20web%281%29.jpg"
         width: 800
         height: 600
         isCached: true
-  - title: "Xiaomi to acquire self-driving startup Deepmotion for $77.4 mn"
-    excerpt: "Leg-spinner Yuzvendra Chahal's maiden six-wicket for India as the hosts beat England by 75 runs in the third and final Twenty20 International"
-    publishedDateTime: 2021-08-27T15:57:00Z
-    webUrl: "https://netindia123.com/articles/showdetails.asp?id=3809846&n_date=20210827&cat=Science"
+  - title: "Goodyear collaborates with Plus on self-driving trucking tech"
+    excerpt: "Goodyear will supply a suite of services including connected tires to improve the safety for semi-trucks powered by Plus’ Level 4 self-driving technology. This will also help to reduce the carbon impact."
+    publishedDateTime: 2021-08-26T14:20:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17111/goodyear-collaborates-with-plus-on-self-driving-trucking-tech"
     type: article
     provider:
-      name: Net India 123
-      domain: netindia123.com
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 24
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/111/17111/Plus_Become_Publicly_Listed-16-3e88642123.jpg"
+        width: 752
+        height: 470
+        isCached: true
+  - title: "Aurora debuts next-generation self-driving hardware"
+    excerpt: "Self-driving truck startup Aurora Friday announced the development of its next generation of hardware. The company is targeting a commercial debut of the hardware in pilots this year and with the launch of the company’s trucking and ride-hailing businesses to follow in 2023 and 2024,"
+    publishedDateTime: 2021-08-27T17:20:00Z
+    webUrl: "https://www.ccjdigital.com/equipment-controls/article/15114247/aurora-readies-debut-of-nextgeneration-selfdriving-hardware"
+    type: article
+    provider:
+      name: CCJ
+      domain: ccjdigital.com
+    quality: 24
+    images:
+      - url: "https://img.ccjdigital.com/files/base/randallreilly/all/image/2021/08/Peterbilt___Sienna__1_.61291a46a170d.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Challenges that self-driving cars are facing"
+    excerpt: "The road to the future is a long and winding one as self-driving car companies try to get their driverless cars to go mainstream. While self-driving cars are the way of the future officials say it's just taking a little longer for the future to be fully realized."
+    publishedDateTime: 2021-08-27T18:42:00Z
+    webUrl: "https://www.wral.com/challenges-that-self-driving-cars-are-facing/19845953/"
+    type: article
+    provider:
+      name: WRAL
+      domain: wral.com
+    quality: 24
+    images:
+      - url: "https://wwwcache.wral.com/asset/news/national_world/national/2021/08/27/19845954/132237-self-driving-DMID1-5s0j0zz7n-640x480.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "Will self-driving cars dominate roads?"
+    excerpt: "Many companies are developing self-driving cars with the goal of making transportation a breeze for everyone, but the necessary technology still has a ways to go."
+    publishedDateTime: 2021-08-27T11:57:00Z
+    webUrl: "https://kdvr.com/video/will-self-driving-cars-dominate-roads/6930238/"
+    type: article
+    provider:
+      name: FOX31 Denver
+      domain: kdvr.com
     quality: 4
 
 secured: "Y1QYwv6vXORLBLFvI4XHoLUWi+hj8aXjZFEWrI6+LZ+HepFKQX99wiNDqoISPDYeLuRbdB51ohrSG9P9+WdvZRMdFyx6k4rQftVucQmuuAITgAkUl66YWMWb7rp4CNt/rhPKG3hGiMJB3KIGMxgf4gXfFN0xdp0jgMN+if3TnOE4V3VselZeQFe+6HxiYx9o50aERyccR0XR9BVE+x9l3N3KxGaJsQzOnoiGjV5BOVv6A7b7rWowg+eX1f78P/9LKUOVidElIpafV8KpmYsoGfSvayGSSTx/mNdLus7CAWc+8QRH0FceBzouCNNu5N4UdjF1ybokQg/pNXVhZWCiia1uRts6kZlLUt6/teKmoUiyXjJhQ7QSY1PPNgVqv63RoCItjE/cwnaSlvscFH4Cx4pc0xdKdhHz2UpNnQuZpT84aNvJ3Z3d9Szrz66/4A5YuejNu8EXe5PwTGY7ZKvnwLitnx0yrnNAlh3In4R1QNRyzWAn0bcoY7RpxNEstlKiu/GUjZOjn2WJBp+DCf+PJA==;38iwoZIxL2a1PeAJLcD2Vw=="

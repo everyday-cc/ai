@@ -27,59 +27,109 @@ images:
     isCached: true
 
 related:
-  - title: "Get Entire Details about Artificial Intelligence System Market By 2025"
-    excerpt: "United States OR Poland Artificial Intelligence System Market According to a new report added by Reports Big Market Report titled Artificial Intelligence System Market Global Opportunity Analysis and Industry Forecast 2021 2026 The Artificial Intelligence System Market research by Market"
-    publishedDateTime: 2021-08-26T12:16:00Z
-    webUrl: "https://www.openpr.com/news/2369435/get-entire-details-about-artificial-intelligence-system-market"
-    ampWebUrl: "https://www.openpr.com/amp/2369435/get-entire-details-about-artificial-intelligence-system-market"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2369435/get-entire-details-about-artificial-intelligence-system-market"
+  - title: "Why AI Is Relevant To Conversational Marketing"
+    excerpt: "Marketers want to have one-on-one conversations with their customers to learn what they are looking for, and develop a stronger, long-term relationship with them"
+    publishedDateTime: 2021-08-30T06:08:00Z
+    webUrl: "https://www.entrepreneur.com/article/382318"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/382318"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/382318"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 72
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 104
     images:
-      - url: "https://cdn.openpr.com/U/8/U826384867_g.jpg"
-        width: 628
-        height: 385
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1630303653-4530890.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
         isCached: true
-  - title: "Speech and Voice Recognition Market worth $22.0 billion by 2026 - Exclusive Report by MarketsandMarketstm"
-    excerpt: "Global Forecast to 2026\", published by MarketsandMarketstm, the Speech And Voice Recognition Market is expected to grow from USD 8.3 billion in 2021 to USD 22.0 billion by 2026; it is expected to grow at a CAGR of 21."
-    publishedDateTime: 2021-08-26T14:58:00Z
-    webUrl: "https://www.lelezard.com/en/news-19970034.html"
+  - title: "How new regulation is driving the AI governance market"
+    excerpt: "In a recent KPMG report, 94% of IT decision makers said that they feel that firms need to focus more on corporate responsibility and ethics while developing AI solutions. Analysts like StrategyR ..."
+    publishedDateTime: 2021-08-26T01:13:00Z
+    webUrl: "https://venturebeat.com/2021/08/25/how-new-regulation-is-driving-the-ai-governance-market/"
+    ampWebUrl: "https://venturebeat.com/2021/08/25/how-new-regulation-is-driving-the-ai-governance-market/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/25/how-new-regulation-is-driving-the-ai-governance-market/amp/"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 7
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 91
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1288853231.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Using AI to reboot brand-client relationships"
+    excerpt: "Using strategically focused AI, brands can identify what their audiences are doing when they are not engaged in a purchase or using a product or service. The secret here is understanding context."
+    publishedDateTime: 2021-08-25T22:09:00Z
+    webUrl: "https://techcrunch.com/2021/08/25/using-ai-to-reboot-brand-client-relationships/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 67
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1149685673.jpg?w=514"
+        width: 514
+        height: 400
+        isCached: true
+  - title: "Why Conversational AI Is So Much More Than a Chatbot"
+    excerpt: "When people think of conversational AI, their first thought is often the chatbots that one encounters on many enterprise websites. While they would not be wrong, as that is one example of conversational AI,"
+    publishedDateTime: 2021-08-25T15:14:00Z
+    webUrl: "https://www.cmswire.com/digital-experience/why-conversational-ai-is-so-much-more-than-a-chatbot/"
+    ampWebUrl: "https://www.cmswire.com/digital-experience/why-conversational-ai-is-so-much-more-than-a-chatbot/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/why-conversational-ai-is-so-much-more-than-a-chatbot/amp/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 59
+    images:
+      - url: "https://www.cmswire.com/-/media/3939a5d58c4c46aaa5d088cb9796d809.ashx?mw=1024"
         width: 640
         height: 480
         isCached: true
-  - title: "Global AI-based Clinical Trials Solution Provider Market (2021 to 2028) - Size, Share & Trends Analysis Report - ResearchAndMarkets.com"
-    excerpt: "The global AI-based clinical trials solution provider market size is expected to reach USD 5.2 billion by 2028 and is expected to expand at a CAGR of 21.7% over the forecast period. Unlearn.AI, Inc. Antidote Technologies,"
-    publishedDateTime: 2021-08-26T13:30:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=521967"
+  - title: "Five top tips for ensuring your conversational AI project is a hit"
+    excerpt: "Let’s look first at where conversational AI can make a difference. There are three main forms of communication in every organization where conversational AI can dramatically cha"
+    publishedDateTime: 2021-08-26T10:00:00Z
+    webUrl: "https://www.itproportal.com/features/five-top-tips-for-ensuring-your-conversational-ai-project-is-a-hit/"
+    ampWebUrl: "https://www.itproportal.com/amp/features/five-top-tips-for-ensuring-your-conversational-ai-project-is-a-hit/"
+    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/five-top-tips-for-ensuring-your-conversational-ai-project-is-a-hit/"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 5
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 59
     images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
+      - url: "https://cdn.mos.cms.futurecdn.net/ghbHs8vktkp6zcrYVRGQ2d-1200-80.jpg"
+        width: 970
+        height: 545
         isCached: true
-  - title: "Speech and Voice Recognition Market worth $22.0 billion by 2026 - Exclusive Report by MarketsandMarkets"
-    excerpt: "According to the new market research report \"Speech and Voice Recognition Market with COVID-19 Impact Analysis by Delivery Method, Deployment Mode (On"
-    publishedDateTime: 2021-08-26T15:40:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-08/53783702-speech-and-voice-recognition-market-worth-dollar-22-0-billion-by-2026-exclusive-report-by-marketsandmarkets-008.htm"
+  - title: "Ambit Launches Conversational AI Platform in AWS Marketplace"
+    excerpt: "Today, Ambit, an Auckland-based conversational artificial intelligence (AI) company, announced the availability of Ambit Edge in Amazon Web Services (AWS) Marketplace. Ambit Edge, an easy to use, intent-based, enterprise-grade digital employee that ..."
+    publishedDateTime: 2021-08-26T02:19:00Z
+    webUrl: "https://www.scoop.co.nz/stories/BU2108/S00486/ambit-launches-conversational-ai-platform-in-aws-marketplace.htm"
+    ampWebUrl: "https://m.scoop.co.nz/stories/BU2108/S00486/ambit-launches-conversational-ai-platform-in-aws-marketplace.htm"
+    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2108/S00486/ambit-launches-conversational-ai-platform-in-aws-marketplace.htm"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
+      name: Scoop
+      domain: scoop.co.nz
+    quality: 54
+  - title: "Conversational AI market to grow to $15.7 billion by 2024"
+    excerpt: "The market for conversational artificial intelligence AI is expected to grow from 42 billion dollars in 2019 to 157 billion dollars by 2024 customer suppor"
+    publishedDateTime: 2021-08-28T09:46:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/270909816/conversational-ai-market-to-grow-to-157-billion-by-2024"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 37
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1630142424.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "cNZOaVQrxuP3cNsYIQn9peE2JoKu0mkKknB3gmYozeDsBkkrS3zCs8fOSY+035nCb2Ye9C9RqnaO6yPKePlAHx7qCpe9oAkWiF5jCYmwQNmTkuTJKjDpe5z8qhDKSyPF1u/RfHmQ1ydeE+KZ4ZXcYoJyhflvZ3lRnuMsTBLJ3kGGba2O4gRu2xHCh8VUbWGJiyN0Pg7ZIx4VRikQqk20ipn6MAU8VrcQtAhgCGvvk/LG/lQO50z92HEQbnriBmtqgHWcbH6aJLF+UCfZXtSwnmCUnTk458VkiYcYKBXuU2Dt/sW95IFuUnya7xFkZ8m4fRtwGDd0QSNyxv2ewg45a5KNG2NHRPG5w4ghHq3wUBqNi6/a+msH+9zJ9M5L2Dlm/KEQhixpyAWaITIwmrS9+wQvYLPUxY3167IHS4oOmtr2oJF60aMXslsoM4GTEEMcM3zSlTTATBZcfKX3j+If6OgyNUDS7opFwAQsQ4QuMVDEuZpyvhFNpIPLXlVmJVt5vJnSFZUJrUR4UtMZWFyZ/Q==;YQjFoQ+H8Gtk7zHB75abXQ=="
 ---

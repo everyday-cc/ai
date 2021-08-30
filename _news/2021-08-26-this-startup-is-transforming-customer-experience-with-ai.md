@@ -63,22 +63,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Level AI lands $13M Series A to build conversational intelligence for customer service"
-    excerpt: "Level AI, an early stage startup from a former member of the Alexa product team, wants to help companies process customer service calls faster by understanding the interactions they’re having with customers in real time."
-    publishedDateTime: 2021-08-25T13:44:00Z
-    webUrl: "https://techcrunch.com/2021/08/25/level-ai-lands-13m-series-a-to-build-conversational-intelligence-for-customer-service/"
-    ampWebUrl: "https://techcrunch.com/2021/08/25/level-ai-lands-13m-series-a-to-build-conversational-intelligence-for-customer-service/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/25/level-ai-lands-13m-series-a-to-build-conversational-intelligence-for-customer-service/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 79
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1240334968.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
 
 secured: "tNHOVgUhbL3Ob+L/Lv3kUVA8C0QlvQKhLwCI5UNNdXG9aBerztAsXshVBNj6u5WjAZtTIri/lqjnzP1K1uv2Bm8KpuozX7AcgGEAlcwHgucA+IEjZ/rOmPeiRLhwBcug7o4mFQvx7kZnZcN8YcfRtZBZNt9Tk9aw0E4jke9ab47RB4ZEVoyPW0BjioslkYsYdbZ4TOeScFmUlntMzyYnWo3cGDR7hZNqJYcK5uVJ4VaiW1s27n/vgRXON9aceZ7RT62Rw59Lo6fmXTilSHhrdaQSq8TMp9XA6HqLGMcKpJB0M8UhmuTQyNUUisG2Mdh1txRCZoYrZLtTyTlVUVsRWzyJRqTzdfG9fA9qqLpG5x1VYR6m478/uF+Wsf6cyJoBIII4w1GuPRQDotImFLqS++VitY8jatczU5/jQnjCsC8YW5SP9RGuq0O+9+gQ0nVrGGbVOywZr8rJjKqNvyhdv/aMIW/WnwEXLG7DMkYMVOepErIEM714gjoWR0uFxBXoaaT3j793Q85Gbam6/0d57Q==;aY0+YK8lW1xw2g+Vx202Mw=="
 ---

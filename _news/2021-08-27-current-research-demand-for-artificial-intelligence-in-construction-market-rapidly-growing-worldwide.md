@@ -20,20 +20,17 @@ topics:
   - AI
 
 related:
-  - title: "Using AI to reboot brand-client relationships"
-    excerpt: "Using strategically focused AI, brands can identify what their audiences are doing when they are not engaged in a purchase or using a product or service. The secret here is understanding context."
-    publishedDateTime: 2021-08-25T22:09:00Z
-    webUrl: "https://techcrunch.com/2021/08/25/using-ai-to-reboot-brand-client-relationships/"
+  - title: "Deep Learning in Healthcare Market Size, Share 2020 Industry Growing Rapidly with Recent Demand, Trends, Development , Revenue by 2027"
+    excerpt: "The Global Deep Learning in Healthcare Market research delves into detailed and insightful data on important variables such as regional growth segmentation and CAGR The research contains a broad overview of the industry as well as a detailed explanation with"
+    publishedDateTime: 2021-08-26T07:31:00Z
+    webUrl: "https://www.openpr.com/news/2368510/deep-learning-in-healthcare-market-size-share-2020-industry"
+    ampWebUrl: "https://www.openpr.com/amp/2368510/deep-learning-in-healthcare-market-size-share-2020-industry"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2368510/deep-learning-in-healthcare-market-size-share-2020-industry"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 67
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1149685673.jpg?w=514"
-        width: 514
-        height: 400
-        isCached: true
+      name: openpr.com
+      domain: openpr.com
+    quality: 24
 
 secured: "zSq6lDT6ggR7K28Qh/RK8fp6bSGZwEVjnWuKBg5IUe0Zb9ltfy/yW2LBpcclIfaO/ic+wK6pUb2n1Hm6o6ALkrA1IwelS8IowV0qydVu9J+OchhSD7WagZ+xd7DaKJva9gYT6D5wxIW0DcMzi5jYae01cx5WdJXyiNEelYQi83jeVSEI0hUAO8eFbeE8TBbgWcQhh3oKGT7TIwIUHgOtgxbh2EK6cdoWwLzJKrVSQts83FN13nNkOu3K9zuP3RuHQht1fWEYQy2+NKzbMWAnj+PnCf1hrOjuS/9Gm8buAa3euK7YZH17QjyHJuTFcs2767/D7I8/cG/odlhgH/gzDOTpBNzrbuJECL55q4J2fOs=;xAqx7Ujr4FkywKIkt4FH/Q=="
 ---

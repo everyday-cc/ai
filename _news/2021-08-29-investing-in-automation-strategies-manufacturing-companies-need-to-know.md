@@ -41,6 +41,22 @@ related:
         width: 1249
         height: 794
         isCached: true
+  - title: "How to use data and artificial intelligence for diversity and inclusion in hiring and onboarding"
+    excerpt: "Inexperienced leadership for a cohesive diversity and inclusion (D&I) strategy Insufficient data and tech infrastructure to measure impact of D&I strategies The popular adage you can’t manage what you don’t measure is best applied to D&I strategies."
+    publishedDateTime: 2021-08-30T07:19:00Z
+    webUrl: "https://www.dqindia.com/use-data-artificial-intelligence-diversity-inclusion-hiring-onboarding/"
+    ampWebUrl: "https://www.dqindia.com/use-data-artificial-intelligence-diversity-inclusion-hiring-onboarding/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/use-data-artificial-intelligence-diversity-inclusion-hiring-onboarding/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 44
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2019/12/artificial-intelligence-4417279_640.jpg"
+        width: 640
+        height: 426
+        isCached: true
   - title: "Seeming Human: Artificial Intelligence and Victorian Realist Character"
     excerpt: "Their definition of intelligence went beyond solving math problems to include what we might call subjectivity: creativity, tastes and preferences, self-awareness, and learned behaviors. We have come to call this artificial intelligence (AI), a term that ..."
     publishedDateTime: 2021-08-28T09:34:00Z

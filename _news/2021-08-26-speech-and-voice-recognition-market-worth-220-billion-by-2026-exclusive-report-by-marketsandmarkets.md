@@ -35,20 +35,6 @@ related:
         width: 628
         height: 385
         isCached: true
-  - title: "Global Industry Analysts Predicts the World Artificial Intelligence (AI) in Marketing Market to Reach $50.1 Billion by 2026"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Marketing - Global Market Trajectory & Analytics\"."
-    publishedDateTime: 2021-08-26T17:12:00Z
-    webUrl: "https://www.lelezard.com/en/news-19970273.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 47
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
-        width: 421
-        height: 421
-        isCached: true
   - title: "Speech and Voice Recognition Market worth $22.0 billion by 2026 - Exclusive Report by MarketsandMarketstm"
     excerpt: "Global Forecast to 2026\", published by MarketsandMarketstm, the Speech And Voice Recognition Market is expected to grow from USD 8.3 billion in 2021 to USD 22.0 billion by 2026; it is expected to grow at a CAGR of 21."
     publishedDateTime: 2021-08-26T14:58:00Z
@@ -78,6 +64,6 @@ related:
         height: 339
         isCached: true
 
-secured: "PQQm6RCIb0RwzVgUZ1YMgJKQk2pHsmkBcyLIKdR/S3QWzV24Grybe2a3TT/7+AE2y2vWSntt6xjtUDgThY3e7k9rv3D0TUZkG2EuLVech4rOzCQSZ/S9chbFNPz1Ts99CM7CMwc3s6GJaX2LJ/xp88x9r0J+10mk4CzMsBqC14sR3uiFLr8ffsLOKCKKpcB+QLQNJf1lhGHcos8HIsx9M7NpVI4mTJOCaBJayKdbs/9BXzpw1PTmXGnzIz/N+xda50bZ4JYXiwu4raMxP+QY/UTniopUuMCcVGjiYVro9x/u6pOOxwiuuiUwGmF9n1MQL5YfcoRdXEyyNwFPoSDbSeL5tSK0m7llRF5wcKIw/PU=;0UJt8Tf7ACT/3q/A8yUbJw=="
+secured: "ZipL3KK6xgjhH4kXJ0igdX52dOzM7MGbi5xO8a2U3AnEN3EYot/qy3sGZNzIqRAxIeLhr0IvAcigpI1kGnG80ljWK/YcvbmRFxZ/7His9n3y5uuBOXGWHATTvFokkwEMBLDLpw8cSsk6SEYVgBgtwU0Pq/hAaJ6yQzupemuoRuL+ldNOGu9Nh+bFiih8yGBmfZ/z+t29W8jPYiX5IJNdShXmtbGc3G7H2rspm8bRx2e9Sq5Bhgkz2fO5bye/S0gOUtDpIXEw99hwZWF2ZL5ycLWlmWQAUuQuPihWOwjey5alyq5+hAXIGQgpmaEe5HQFTY4fVABxRnnNqjeefTNkYVnnoiJsEI9qhVG9jQPN3j8=;7tMxIUn5q9WVG9YSOyaGjg=="
 ---
 

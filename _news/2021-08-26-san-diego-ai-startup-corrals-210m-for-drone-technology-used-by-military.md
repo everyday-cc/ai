@@ -40,15 +40,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Shield AI Finds $210M"
-    excerpt: "San Diego-based Shield AI, a startup developing AI and self driving technologies for aircraft, has raised $210M in a Series D investment round, according to the company. The funding was led by Disruptive,"
-    publishedDateTime: 2021-08-25T13:46:00Z
-    webUrl: "https://www.socaltech.com/shield_ai_finds____m/s-0081635.html"
-    type: article
-    provider:
-      name: SocalTech
-      domain: socaltech.com
-    quality: 17
 
 secured: "8sVcavG7K9udC5Mob+zO3WmCwS4frgSzR08we/N2aVVQYSsRZ7y1NtVaMKEM2VWIiLQ8q7OSBC68Ah4/WidXE/YSiUUXDypL2pkXcVOQzy7VjEBbeVI6AMnxjt3tW0UJwCVUp1kV3quAyUIGOXEHIok4icTEvSy7tky7hCZhIqerPUpkwEgZrCii6gkAPviR1rO1djkoXnMgElzse6yRXhenaJMUYesOKL3qOGhhNPij28YATXuZtWekazOKXmWdEC8OIKQSFwhhb5m+KfSFiOxC9y45XDk6rRu3xQvlMSYc29knZgBM4bQ+Rsm0yNS5mHo1uivTGF33Bo6FkhFvMiBd9X8xHWtJhSebHRBm8tEwc4twkU+l/wWCi+ZOy6/sAkFjNufdupvbrrVCae8OwmOK1Cjcx+g7Hsi0RB4Td+pFTMvBxR14GQqgo5YDNBgikUFXwL2eGMaR6sSHW/IhGmmkTCMAeezy/emYpc4tVsvuNVUYP6jWv7Wfaf1pM/YkX0vj6JjxVFUEZmX1kj8xMw==;B9/jR7NtXqRqXnhG3buC9A=="
 ---
