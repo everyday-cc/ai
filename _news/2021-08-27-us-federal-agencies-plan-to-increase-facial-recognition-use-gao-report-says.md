@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202108/us-federal-agencies-plan-to
 webUrl: "https://www.gao.gov/products/gao-21-526"
 type: article
 quality: 138
-heat: 288
+heat: 278
 published: true
 
 provider:
@@ -160,20 +160,6 @@ related:
       - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/us-agencies-increasing-use-facial-recognition-tech-showcase_image-2-a-17393.jpg"
         width: 860
         height: 520
-        isCached: true
-  - title: "GAO counts facial recognition R&D at 10 agencies"
-    excerpt: "At least 10 U.S. government agencies are undertaking research and development work into facial recognition technology, according to a new report by the Governmental Accountability Office. The new study,"
-    publishedDateTime: 2021-08-25T18:47:00Z
-    webUrl: "https://www.fedscoop.com/gao-counts-facial-recognition-rd-at-10-agencies/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 39
-    images:
-      - url: "https://s3.amazonaws.com/sng-global-web-assets/logo/Favicon_FS.png"
-        width: 629
-        height: 607
         isCached: true
   - title: "GAO Reports on Federal Use of Facial Recognition Tech Systems"
     excerpt: "The Government Accountability Office (GAO) surveyed 24 Chief Financial Officers Act agencies on their use of facial recognition technology (FRT) in fiscal year 2020 and found that 18 of those agencies reported using FRT for one or several purposes."

@@ -25,61 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Edge AI: The Future of Artificial Intelligence and Edge Computing"
-    excerpt: "Edge AI processes algorithms locally on devices on the edge of a local network. Here is how it is transforming computing."
-    publishedDateTime: 2021-08-25T18:17:00Z
-    webUrl: "https://www.itbusinessedge.com/data-center/developments-edge-ai/"
+  - title: "Nvidia, VMware Push AI Out to the Enterprise"
+    excerpt: "With the release of AI Enterprise 1.0, Nvidia is bringing AI training and inferencing into the reach of enterprises' own data centers."
+    publishedDateTime: 2021-08-26T11:00:00Z
+    webUrl: "https://thenewstack.io/nvidia-vmware-push-ai-out-to-the-enterprise/"
     type: article
     provider:
-      name: IT Business Edge
-      domain: itbusinessedge.com
-    quality: 52
+      name: thenewstack.io
+      domain: thenewstack.io
+    quality: 41
     images:
-      - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/08/Edge-AI_-The-Future-of-AI-and-Edge-Computing.jpeg"
-        width: 600
-        height: 314
-        isCached: true
-  - title: "The Coming AI Threats We Aren’t Prepared For"
-    excerpt: "Imagine the scams cybercriminals could create with AI. Now let's get going on the defenses before they happen."
-    publishedDateTime: 2021-08-27T13:27:00Z
-    webUrl: "https://www.internetnews.com/security/the-coming-ai-threats-we-arent-prepared-for/"
-    type: article
-    provider:
-      name: Internetnews
-      domain: internetnews.com
-    quality: 37
-    images:
-      - url: "https://www.internetnews.com/wp-content/uploads/2021/08/Artificial-Intelligence-04-1088x725-1.jpg"
-        width: 1088
-        height: 725
-        isCached: true
-  - title: "The Impact of AI on Unified Communications"
-    excerpt: "AI can make UC more efficient and effective. Here’s how they can ease work for employees and improve the customer experience."
-    publishedDateTime: 2021-08-27T12:30:00Z
-    webUrl: "https://www.enterprisenetworkingplanet.com/unified-communications/the-impact-of-ai-on-unified-communications/"
-    type: article
-    provider:
-      name: Enterprise Networking Planet
-      domain: enterprisenetworkingplanet.com
-    quality: 37
-    images:
-      - url: "https://www.enterprisenetworkingplanet.com/wp-content/uploads/2021/08/The-Impact-of-AI-on-Unified-Communications.jpeg"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "Fighting fake news with AI"
-    excerpt: "PETALING JAYA: To combat the proliferation of fake news, companies across the globe are resorting to artificial intelligence (AI) programs which are able to analyse and flag disinformation. Firms like AlphaVu and Logically use these virtual sleuths to mine ..."
-    publishedDateTime: 2021-08-29T23:42:00Z
-    webUrl: "https://www.thestar.com.my/news/nation/2021/08/30/fighting-fake-news-with-ai"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 37
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/08/30/1273994.jpg"
-        width: 1240
-        height: 892
+      - url: "https://cdn.thenewstack.io/media/2021/08/c783c87a-curve-1209392_640.jpg"
+        width: 640
+        height: 426
         isCached: true
 
 secured: "Qt+LFx9RzKgMb5jQsgBEJGUTxKbeM3RxURRYcC/wVWPS2tlZNHUDBOpWIlQ7fLE60Nbplj555MFBn3c7JTkFXe8KDqsq2xAXNaAnMLxWwp78OHauTfcoBAabGad6552ceiaz33OM7UFl3SFjPpBU2Exs+GslNgN4179DRofcG6pXDkoCILBNmgcA81kMP5CuDd67qtLN5mGu8BeKGpDGfD6+KMxv5+o1nW6YsBs4+1bWNxH9T19MYEJ5GxHte2zUHgYaBZNvh3aWidlHAy2BGywdF+DNX/P3EDQhNEuNwBdpmNNiRbtQ4gTk0tFGt3J6DJu4eFmVH7WVjFKSZtFT8KWYfMqPRVz43EcLwDTi2x8=;9Cfs9W4pYRX3mJnJFehZ3g=="

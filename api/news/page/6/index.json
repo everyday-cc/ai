@@ -2,6 +2,153 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-08-25-a-new-chip-cluster-will-make-massive-ai-models-possible.md",
+      "title": "A New Chip Cluster Will Make Massive AI Models Possible",
+      "excerpt": "Cerebras says its technology can run a neural network with 120 trillion connections—a hundred times what's achievable today.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/cerebras-chip-cluster-neural-networks-ai/",
+      "originalUrl": "https://www.wired.com/story/cerebras-chip-cluster-neural-networks-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/612531eb591c7f6f7012fbbb/master/pass/Business-Big-AI-Chips.jpg",
+          "width": 2250,
+          "height": 1500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/cerebras-chip-cluster-neural-networks-ai/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/cerebras-chip-cluster-neural-networks-ai/amp",
+      "publishedDateTime": "2021-08-24T12:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-access-an-amazon-sagemaker-studio-notebook-from-a-corporate-network.md",
+      "title": "Access an Amazon SageMaker Studio notebook from a corporate network",
+      "excerpt": "Amazon SageMaker Studio is the first fully integrated development environment (IDE) for machine learning. It provides a single, web-based visual interface where you can perform all ML development steps required to build, train, and deploy models. You can quickly upload data, create new notebooks, train",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/access-an-amazon-sagemaker-studio-notebook-from-a-corporate-network/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/access-an-amazon-sagemaker-studio-notebook-from-a-corporate-network/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/10/ML-3667-image001-1260x481.png",
+          "width": 1260,
+          "height": 481,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-24T12:12:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-elon-musk-is-panning-tesla-again-why-thats-no-big-deal.md",
+      "title": "Elon Musk Is Panning Tesla Again. Why That’s No Big Deal.",
+      "excerpt": "Companies are racing to build autonomous vehicles, but judging who has the best systems has become nearly impossible for ordinary people.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/tesla-stock-elon-musk-51629756011",
+      "originalUrl": "https://www.barrons.com/articles/tesla-stock-elon-musk-51629756011",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-389712/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/tesla-stock-elon-musk-51629756011",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-stock-elon-musk-51629756011",
+      "publishedDateTime": "2021-08-24T12:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-25-cerebras-cs-2-brain-scale-chip-can-power-ai-models-with-120-trillion-parameters.md",
       "title": "Cerebras’ CS-2 brain-scale chip can power AI models with 120 trillion parameters",
       "excerpt": "Cerebras said its CS-2 processor is a \"brain-scale\" chip that can power AI models with more than 120 trillion parameters.",
@@ -890,6 +1037,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-24-pngme-raises-15m-series-a-to-power-the-future-of-financial-services-in-africa.md",
+      "title": "Pngme, Raises $15M Series A to Power the Future of Financial Services in Africa",
+      "excerpt": "Pngme, the financial data infrastructure and machine learning-as-a-service platform, has raised a further $15 million in Series A funding as it sets out to grow its financial data platform. The round was led by Octopus Ventures and comes less than a year after its $3 million seed round.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-business-financial-services-2a0bc10896feb1b6d9e0741acbf22110",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-business-financial-services-2a0bc10896feb1b6d9e0741acbf22110",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-24T06:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-24-sensors-and-ai-to-monitor-dorset-social-care-patients.md",
       "title": "Sensors and AI to monitor Dorset social care patients",
       "excerpt": "One hundred people in Dorset who need social care are to be monitored by artificial intelligence (AI) as part of a three-month pilot. Sensors installed in homes will track behaviour and electricity usage which the AI will analyse to spot potential health problems.",
@@ -1033,195 +1223,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-nvidia-launches-ai-enterprise-in-general-availability.md",
-      "title": "Nvidia launches AI Enterprise in general availability",
-      "excerpt": "Nvidia's newly launched AI Enterprise managed service includes a suite of software tools designed to accelerate machine learning workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/24/nvidia-launches-ai-enterprise-in-general-availability/",
-      "originalUrl": "https://venturebeat.com/2021/08/24/nvidia-launches-ai-enterprise-in-general-availability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/GettyImages-1208744151.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/24/nvidia-launches-ai-enterprise-in-general-availability/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/24/nvidia-launches-ai-enterprise-in-general-availability/amp/",
-      "publishedDateTime": "2021-08-24T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-pngme-raises-15m-series-a-to-power-the-future-of-financial-services-in-africa.md",
-      "title": "Pngme, Raises $15M Series A to Power the Future of Financial Services in Africa",
-      "excerpt": "Pngme, the financial data infrastructure and machine learning-as-a-service platform, has raised a further $15 million in Series",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/08/n22633993/pngme-raises-15m-series-a-to-power-the-future-of-financial-services-in-africa",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/08/n22633993/pngme-raises-15m-series-a-to-power-the-future-of-financial-services-in-africa",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/22633993",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22633993",
-      "publishedDateTime": "2021-08-24T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-the-new-nest-doorbell-cam-is-a-reminder-that-nest-has-gone-fully-google.md",
-      "title": "The New Nest Doorbell Cam Is a Reminder That Nest Has Gone Fully Google",
-      "excerpt": "Google's cheaper doorbell security camera offers a lot for less, but you make some sacrifices for those savings.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/the-new-nest-doorbell-cam-is-a-reminder-that-nest-has-g-1847543113",
-      "originalUrl": "https://gizmodo.com/the-new-nest-doorbell-cam-is-a-reminder-that-nest-has-g-1847543113",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/60c0d9f8efd6d8eba4fc1bdea13ead40.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/the-new-nest-doorbell-cam-is-a-reminder-that-nest-has-g-1847543113/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/the-new-nest-doorbell-cam-is-a-reminder-that-nest-has-g-1847543113/amp",
-      "publishedDateTime": "2021-08-24T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-autonomous-vehicles-the-good-versus-the-bad.md",
-      "title": "Autonomous Vehicles: The Good Versus The Bad",
-      "excerpt": "A study by North Carolina State University suggests that with regulated use, deployment of autonomous vehicles can be more useful than harmful.",
-      "sourceUrl": null,
-      "webUrl": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0256224",
-      "originalUrl": "https://analyticsindiamag.com/autonomous-vehicles-the-good-versus-the-bad/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://journals.plos.org/plosone/article/figure/image?size=inline&id=10.1371/journal.pone.0256224.g002",
-          "width": 320,
-          "height": 217,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-24T05:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -24,50 +24,81 @@ images:
     isCached: true
 
 related:
-  - title: "Get Entire Details about Artificial Intelligence System Market By 2025"
-    excerpt: "United States OR Poland Artificial Intelligence System Market According to a new report added by Reports Big Market Report titled Artificial Intelligence System Market Global Opportunity Analysis and Industry Forecast 2021 2026 The Artificial Intelligence System Market research by Market"
-    publishedDateTime: 2021-08-26T12:16:00Z
-    webUrl: "https://www.openpr.com/news/2369435/get-entire-details-about-artificial-intelligence-system-market"
-    ampWebUrl: "https://www.openpr.com/amp/2369435/get-entire-details-about-artificial-intelligence-system-market"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2369435/get-entire-details-about-artificial-intelligence-system-market"
+  - title: "Artificial Intelligence in Security Market Report 2021 On Future Trend, Global Key Findings, Regional Analysis of Leading Player Forecasts to 2027"
+    excerpt: "Aug (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The Global Artificial Intelligence"
+    publishedDateTime: 2021-08-26T05:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-report-2021-on-future-trend-global-key-findings-regional-analysis-of-leading-player-forecasts-to-2027-2021-08-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Mobile Speech Recognition Software Market 2021 Recent Scope, Growing Popularity and Emerging Trends in the Market"
+    excerpt: "ReportsWeb analysts forecasts the latest report on “Global Mobile Speech Recognition Software Market (Covid-19) Impact and Analysis by 2026”, according to report; The Mobile Speech Recognition Software Market report covers the overall and all ..."
+    publishedDateTime: 2021-08-29T09:54:00Z
+    webUrl: "https://manometcurrent.com/global-mobile-speech-recognition-software-market-2021-swot-analysis-future-growth-covid-19-impact-manufacturers-demands-and-revenue-report-investigated-in-the-latest-research/"
+    ampWebUrl: "https://manometcurrent.com/global-mobile-speech-recognition-software-market-2021-swot-analysis-future-growth-covid-19-impact-manufacturers-demands-and-revenue-report-investigated-in-the-latest-research/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/global-mobile-speech-recognition-software-market-2021-swot-analysis-future-growth-covid-19-impact-manufacturers-demands-and-revenue-report-investigated-in-the-latest-research/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 34
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/Global-Cosmetic-Packaging-Market-390x220.jpg"
+        width: 390
+        height: 220
+        isCached: true
+  - title: "Global Automated Data Science and Machine Learning Platforms Market 2021 - 2026 Business Statistics of Report that Emphasizes the impact of COVID-19"
+    excerpt: "The latest market research report titled Global Automated Data Science and Machine Learning Platforms Market 2020 by Company, Regions, Type and Application, Forecast to 2027 enfolds expansive evaluation of the market offering an analysis of the market revenue,"
+    publishedDateTime: 2021-08-25T22:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-automated-data-science-and-machine-learning-platforms-market-2021---2026-business-statistics-of-report-that-emphasizes-the-impact-of-covid-19-2021-08-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep Learning in Machine Vision Market Report Covers Future Trends With Research 2021-2027"
+    excerpt: "Deep learning technology is seeing many appealing advancements in several machine learning sectors, involving the reinforcement learning, natural language processing (NLP), ML frameworks (Pytorch and TensorFlow),"
+    publishedDateTime: 2021-08-26T16:32:00Z
+    webUrl: "https://www.globalbankingandfinance.com/deep-learning-in-machine-vision-market-report-covers-future-trends-with-research-2021-2027/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/deep-learning-in-machine-vision-market-report-covers-future-trends-with-research-2021-2027/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/deep-learning-in-machine-vision-market-report-covers-future-trends-with-research-2021-2027/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 31
+  - title: "Self-driving Industrial Vehicle Market Global Growth, SWOT Industry Analysis, CAGR Status, Key Companies, Applications, Upcoming Trends 2030"
+    excerpt: "Allied Market Research published a new report titled Self driving industrial Market Global Opportunity Analysis and Industry Forecast 2021 2027 The latest study on the Global Self driving industrial Market covers a wide range of organizations from different regions It"
+    publishedDateTime: 2021-08-27T09:35:00Z
+    webUrl: "https://www.openpr.com/news/2370553/self-driving-industrial-vehicle-market-global-growth-swot"
+    ampWebUrl: "https://www.openpr.com/amp/2370553/self-driving-industrial-vehicle-market-global-growth-swot"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2370553/self-driving-industrial-vehicle-market-global-growth-swot"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 72
-    images:
-      - url: "https://cdn.openpr.com/U/8/U826384867_g.jpg"
-        width: 628
-        height: 385
-        isCached: true
-  - title: "Speech and Voice Recognition Market worth $22.0 billion by 2026 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "According to the new market research report \"Speech and Voice Recognition Market with COVID-19 Impact Analysis by Delivery Method,"
-    publishedDateTime: 2021-08-26T13:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/speech-and-voice-recognition-market-worth-22-0-billion-by-2026--exclusive-report-by-marketsandmarkets-301363483.html"
+    quality: 0
+  - title: "Global Automotive Voice Recognition Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
+    excerpt: "6.2 North America Automotive Voice Recognition Revenue by Application (2016-2026) 6.3 North America Automotive Voice Recognition Market Size by Country 6.3.1 North America Automotive Voice Recognition Revenue by Country (2016-2026) 6.3.2 United States ..."
+    publishedDateTime: 2021-08-28T02:30:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4818187-global-automotive-voice-recognition-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 7
-    images:
-      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
-        width: 666
-        height: 350
-        isCached: true
-  - title: "Speech and Voice Recognition Market worth $22.0 billion by 2026 - Exclusive Report by MarketsandMarketstm"
-    excerpt: "Global Forecast to 2026\", published by MarketsandMarketstm, the Speech And Voice Recognition Market is expected to grow from USD 8.3 billion in 2021 to USD 22.0 billion by 2026; it is expected to grow at a CAGR of 21."
-    publishedDateTime: 2021-08-26T14:58:00Z
-    webUrl: "https://www.lelezard.com/en/news-19970034.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 7
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-        width: 640
-        height: 480
-        isCached: true
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
 
 secured: "FktWCq8nQiIQZQPedsx5kYgjgw38oPxQRtymELh+21mhQNNEtrCic2LPWJnPsjt1T32rjubtvjyZ+EaEPEXXxfNNm/TyAGxGyptdawX/yjZsWrH5Y7wZrq3wzFfFQZmrVvHI6Mes6ECc2Ww15xk2gIQ0niKc1wbJoEUE7EwvGGnxcXqvwqLkytagQ+uB3I7XVDTnYZ4Y7qnavVNCYBY5wXi75Ovp9GaNfNTOy/KfsKG/jFFslAijZk5GYAzzAbV6BDUVREwdYS1pGA7iJ0k3rPu44kYQF0TlJ58HRyHR7l9aQA9pfehrhBfdL1IyrEH6ZkTMk42ObPyAzW7jn5ZzvUVMkqljcd58BfcZJSEk7GQ=;pA+SBOTKwB9UkQfTfk7TYA=="
 ---

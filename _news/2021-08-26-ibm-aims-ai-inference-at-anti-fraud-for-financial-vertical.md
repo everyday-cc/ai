@@ -26,33 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "IBM Unveils Chip for Accelerating AI Inference Engines"
-    excerpt: "The IBM Telum Processor is the company’s first chip capable of providing that acceleration capability while transactions are processing."
-    publishedDateTime: 2021-08-25T18:23:00Z
-    webUrl: "https://www.itbusinessedge.com/development/ibm-unveils-chip-for-accelerating-ai-inference-engines/"
+  - title: "IBM updates its mainframe processor to help AI"
+    excerpt: "IBM has introduced a new CPU for its Z Series mainframe that’s designed for transactions like banking, training, insurance, customer interactions, and fraud detection. The Telum processor was unveiled at the annual Hot Chips conference and has been in development for three years to provide high-volume,"
+    publishedDateTime: 2021-08-30T10:02:00Z
+    webUrl: "https://www.networkworld.com/article/3631132/ibm-updates-its-mainframe-processor-for-ai.html"
+    ampWebUrl: "https://www.networkworld.com/article/3631132/ibm-updates-its-mainframe-processor-for-ai.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3631132/ibm-updates-its-mainframe-processor-for-ai.amp.html"
     type: article
     provider:
-      name: IT Business Edge
-      domain: itbusinessedge.com
-    quality: 54
+      name: Network World
+      domain: networkworld.com
+    quality: 59
     images:
-      - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/06/IBM-sues-GlobalFoundries.jpg"
-        width: 600
-        height: 422
-        isCached: true
-  - title: "AI Accelerator Chip with 1000 RISC-V Cores Shakes Up Data Center Inference"
-    excerpt: "As the need for AI and data center processing keeps rising, a new AI accelerator has risen to the challenge. After years of development, Esperanto has announced its ET-SoC-1 ML inference chip."
-    publishedDateTime: 2021-08-26T17:00:00Z
-    webUrl: "https://www.allaboutcircuits.com/news/ai-accelerator-chip-with-1000-risc-v-cores-shakes-up-data-center-inference/"
-    type: article
-    provider:
-      name: All About Circuits
-      domain: allaboutcircuits.com
-    quality: 52
-    images:
-      - url: "https://www.allaboutcircuits.com/uploads/thumbnails/esperanto_ai_1000_risc_v_cores.jpg"
-        width: 700
-        height: 300
+      - url: "https://images.idgesg.net/images/article/2020/12/ibm_logo_blue60_cmyk-1-100871174-large.jpg?auto=webp"
+        width: 1200
+        height: 799
         isCached: true
   - title: "IBM’s First CPU With On-chip AI Acceleration Detects Fraud at Lightning Speeds"
     excerpt: "Containing 22 billion transistors, IBM's new processor, Telum, features on-chip acceleration for AI inferencing. The goal: to detect fraud before a transaction is complete."

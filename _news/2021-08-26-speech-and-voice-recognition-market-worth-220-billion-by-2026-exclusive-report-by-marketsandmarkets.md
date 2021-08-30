@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Get Entire Details about Artificial Intelligence System Market By 2025"
-    excerpt: "United States OR Poland Artificial Intelligence System Market According to a new report added by Reports Big Market Report titled Artificial Intelligence System Market Global Opportunity Analysis and Industry Forecast 2021 2026 The Artificial Intelligence System Market research by Market"
-    publishedDateTime: 2021-08-26T12:16:00Z
-    webUrl: "https://www.openpr.com/news/2369435/get-entire-details-about-artificial-intelligence-system-market"
-    ampWebUrl: "https://www.openpr.com/amp/2369435/get-entire-details-about-artificial-intelligence-system-market"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2369435/get-entire-details-about-artificial-intelligence-system-market"
+  - title: "Artificial Intelligence (AI) Cars and Light Trucks Market Report Covers Future Trends with Exclusive Exploration 2021 to 2026"
+    excerpt: "United States OR Portland The Artificial Intelligence AI Cars and Light Trucks Market 2021 report is a comprehensive professional and in depth research of market that delivers significant data for those who are seeking information for the Artificial Intelligence AI"
+    publishedDateTime: 2021-08-26T06:37:00Z
+    webUrl: "https://www.openpr.com/news/2368316/artificial-intelligence-ai-cars-and-light-trucks-market"
+    ampWebUrl: "https://www.openpr.com/amp/2368316/artificial-intelligence-ai-cars-and-light-trucks-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2368316/artificial-intelligence-ai-cars-and-light-trucks-market"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 72
+    quality: 45
     images:
-      - url: "https://cdn.openpr.com/U/8/U826384867_g.jpg"
-        width: 628
-        height: 385
+      - url: "https://cdn.openpr.com/U/8/U826841762_g.jpg"
+        width: 711
+        height: 430
         isCached: true
   - title: "Speech and Voice Recognition Market worth $22.0 billion by 2026 - Exclusive Report by MarketsandMarketstm"
     excerpt: "Global Forecast to 2026\", published by MarketsandMarketstm, the Speech And Voice Recognition Market is expected to grow from USD 8.3 billion in 2021 to USD 22.0 billion by 2026; it is expected to grow at a CAGR of 21."
@@ -55,21 +55,7 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Global AI-based Clinical Trials Solution Provider Market (2021 to 2028) - Size, Share & Trends Analysis Report - ResearchAndMarkets.com"
-    excerpt: "The global AI-based clinical trials solution provider market size is expected to reach USD 5.2 billion by 2028 and is expected to expand at a CAGR of 21.7% over the forecast period. Unlearn.AI, Inc. Antidote Technologies,"
-    publishedDateTime: 2021-08-26T13:30:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=521967"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 5
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
 
-secured: "H/a3Sn+Jw7NxrsaaEKDwoKgtE8xInwtCdpRmgUJNG2fUMyZvNPiGe/S9XTf+caooyfzG5XSKlB9uBtVOTMTWvTVj+p+hlucjmSddfPUKJtUfxm4V3mgbgYqwzKiiDa9iIff7qXG6IEoffwk5TDThvMPGFwbv1eVjBFgPvxa+zxfunE2SkPNSGLvtepvm0WR6pcdH+3IPGy+zNtzCtKZGg1oi/pbxIZj7rvn3UrbBc3uJHc8YN0aHrAxdzYGtKgX66mKpl9i6jSepLPF6dka+4pqTqaMPJ5cpQjzY+KTfS3gPdX5wjZsJooMzUKgQ6pBKM1oWJ4YhfhHMSEmfKkcKF3lriP6mFAPGjHWTlHEIVc4=;E0nJCTzNDjVKtvZ/VUWeQg=="
+secured: "6zf/ERz/4mxg0uIex090wiCl8usXD+TbO6BY8YHU5ccUtwDsg2Jy0sJnqs3hZvPl4TOBrKSwv24it2CGNGsQo8F9gzKmH2JhbrnXqkoHz6LmcfBiijDen+2nlqm4/wGtRwoswU+FkFjR3Lf/8xKdss5xzfdS4WGwqgbs3lfFfYjI4R+riaVtb4u+yV1dgldjokh33gsgH03Y/f6gIcHFRRYB82AWbe4dqi2xBJOCyumlzd5kJJEOKN4LeewHFFNTFCqqv0NVVohlexTmNi4hqZ7Xyo/v2HfF3AAVgos33rgQAtXbken7masXV+Txqv39cWjcpfYVGnSPr45g/B/CIBlnhczmD35/9gdnHkyBx35fTi4tmxxFy32D7smqpxz8nc9RJNVLqbWBs/fmy12OOLibVQeHwb6eI22JosZAFbjrxuh1nb1gQq9VKWOiid4Di5YPpY7oai0ia1P1+LZAEuXv2L05H9bvMrHsWC0hMM0hFG1SH9AGRz4senfQ3pmUTqyCSbcDbXEEz9pK2t/eDw==;C5CKqvvbYg+I64oKg8pbzA=="
 ---
 

@@ -57,6 +57,15 @@ related:
         width: 540
         height: 540
         isCached: true
+  - title: "SoftBank-backed AI startup SenseTime files for Hong Kong IPO"
+    excerpt: "In the first half of 2021, the China-based startup’s revenue increased 2x while its gross profit margin went slightly up to 73%."
+    publishedDateTime: 2021-08-30T10:13:00Z
+    webUrl: "https://www.techinasia.com/sensetime-ipo-hongkong-stock-exchange"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 47
   - title: "Chinese AI firm SenseTime applies for $12b IPO in Hong Kong"
     excerpt: "Chinese artificial intelligence (AI) company SenseTime has submitted an application to the Hong Kong Exchanges and Clearing (HKEX) for a proposed IPO that may become the world's largest in the field of AI with a valuation of $12 billion. AI companies have ..."
     publishedDateTime: 2021-08-29T13:43:00Z

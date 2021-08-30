@@ -73,20 +73,6 @@ related:
         width: 800
         height: 434
         isCached: true
-  - title: "AI ethics: key to making AI safe, trusted and embraced"
-    excerpt: "At SenseTime, the objective is not to remove all bias from AI (which is unrealistic and can become a game of cat and mouse), but rather to make AI safer, fairer and more sustainable, so that people and our planet are truly factored into any AI decision or act."
-    publishedDateTime: 2021-08-25T17:37:00Z
-    webUrl: "https://www.ft.com/partnercontent/sensetime/ai-ethics-key-to-making-ai-safe-trusted-and-embraced.html"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 54
-    images:
-      - url: "https://ft.com/partnercontent/images/sensetime/01/hero.jpg"
-        width: 2500
-        height: 1750
-        isCached: true
   - title: "3 top AI stocks to buy right now"
     excerpt: "While artificial intelligence (AI) has already transformed how many companies work, it is expected to make further advancements that rely on machine learning and deep learning, among other factors. So, we think it could be wise to bet on top AI stocks ..."
     publishedDateTime: 2021-08-29T09:45:00Z

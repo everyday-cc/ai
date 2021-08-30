@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2368316/artificial-intelligence-ai-cars-a
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2368316/artificial-intelligence-ai-cars-and-light-trucks-market"
 type: article
 quality: 45
-heat: -1
+heat: 45
 published: false
 
 provider:
@@ -26,65 +26,33 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (Ai) In Education Market Next Big Thing : Major Giants Google, Cognizant, IBM"
-    excerpt: "The latest research on Worldwide Artificial Intelligence Ai In Education Report 2021 offered by HTF MI provides a comprehensive investigation into the geographical landscape industry size along with the revenue estimation of the business Additionally the report also highlights the"
-    publishedDateTime: 2021-08-25T17:42:00Z
-    webUrl: "https://www.openpr.com/news/2368006/artificial-intelligence-ai-in-education-market-next-big-thing"
-    ampWebUrl: "https://www.openpr.com/amp/2368006/artificial-intelligence-ai-in-education-market-next-big-thing"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2368006/artificial-intelligence-ai-in-education-market-next-big-thing"
+  - title: "Speech and Voice Recognition Market worth $22.0 billion by 2026 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "According to the new market research report \"Speech and Voice Recognition Market with COVID-19 Impact Analysis by Delivery Method,"
+    publishedDateTime: 2021-08-26T13:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/speech-and-voice-recognition-market-worth-22-0-billion-by-2026--exclusive-report-by-marketsandmarkets-301363483.html"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 74
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 7
     images:
-      - url: "https://cdn.openpr.com/U/8/U825437860_g.jpg"
-        width: 450
-        height: 300
+      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
+        width: 666
+        height: 350
         isCached: true
-  - title: "Artificial Intelligence (AI) in Retail Market"
-    excerpt: "The global Artificial Intelligence in the Retail market is forecast to reach USD 18 74 Billion by 2026 according to a new report by The retail industry has witnessed a surge in technological advances over the past"
-    publishedDateTime: 2021-08-26T05:52:00Z
-    webUrl: "https://www.openpr.com/news/2368221/artificial-intelligence-ai-in-retail-market-investment"
-    ampWebUrl: "https://www.openpr.com/amp/2368221/artificial-intelligence-ai-in-retail-market-investment"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2368221/artificial-intelligence-ai-in-retail-market-investment"
+  - title: "Speech and Voice Recognition Market worth $22.0 billion by 2026 - Exclusive Report by MarketsandMarketstm"
+    excerpt: "Global Forecast to 2026\", published by MarketsandMarketstm, the Speech And Voice Recognition Market is expected to grow from USD 8.3 billion in 2021 to USD 22.0 billion by 2026; it is expected to grow at a CAGR of 21."
+    publishedDateTime: 2021-08-26T14:58:00Z
+    webUrl: "https://www.lelezard.com/en/news-19970034.html"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 72
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 7
     images:
-      - url: "https://cdn.openpr.com/U/8/U826286763_g.jpg"
-        width: 800
-        height: 373
-        isCached: true
-  - title: "New Study from StrategyR Highlights a $10.3 Billion Global Market for Artificial Intelligence (AI) in Education by 2026"
-    excerpt: "A new market study published b Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence"
-    publishedDateTime: 2021-08-26T12:15:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/new-study-from-strategyr-highlights-a-10-3-billion-global-market-for-artificial-intelligence-ai/article_d52461e0-94c2-51a1-bd20-265b4f3fb339.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 47
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/a0/0a049b04-cb81-5fa9-b6c0-751f1335ae5c/612786c6048ed.image.jpg?resize=710%2C630"
-        width: 710
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence (AI) in Telecommunication Market to Reach $6.5 Billion by 2026"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Telecommunication - Global Market Trajectory & Analytics\"."
-    publishedDateTime: 2021-08-26T23:38:00Z
-    webUrl: "https://www.mobilitytechzone.com/lte/news/2021/08/26/9438304.htm"
-    type: article
-    provider:
-      name: Mobility Techzone
-      domain: mobilitytechzone.com
-    quality: 41
-    images:
-      - url: "https://mma.prnewswire.com/media/1601557/MCP21191.jpg"
-        width: 400
-        height: 327
+      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "JA4TzN7BHlS1dXoFalR8vTntRvEBSY5HdLeyDlikOLShNC1J42RpLz4MJCXKqCBDMT/zFibWZ7St6Wd10BrnqMMOzlJY4i7fDrMztUsEElOyxy3JK58DyPbKkHPjchcOdwEILKwFJ8apqL4J/q/LD/5H4XJLknRyBlW5y+oMGZhvzDRc3Rce1bm6FqQAG+PI7nx+t4mS5fgBZq3i7mhJUVrxvQrVAZt0hrzISfg03j26+Mga0OR30oB6HDGeO9iHHZU2AVBYqc8OojeH92fmgHm9+9BhHEAW86eCgA/iQLuSe1F5adPI60btbaP4cFDVGndGHDIEoIFtGu2Dgr3tlS6Vb4KbsYffU/LX9SXvpGLXCA66/YH4dvUoJ7TZc01jSAfjtql8qgKvyXaMVNVbRZDYTlYcqRvhzlr60sJpPnJO5TnbrOv9lsQGs7by5dzz0TiIwuDZ2x1Hr970c4NpPEu37BuzVryNYV+cdyd+nXaVpKGqYoSGpdWoSKLtHlGN75B/BXc4F3WBChp2vaz2yg==;RKmBkDGkBDsz89msUgfcBA=="

@@ -2,6 +2,151 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2021-07-12-the-real-successes-of-ai.md",
+      "title": "The real successes of AI",
+      "excerpt": "Despite the hype, especially around self-driving cars, AI is writing code, designing Google chip floor plans, and telling us how much to trust it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3624703/the-real-successes-of-ai.html",
+      "originalUrl": "https://www.infoworld.com/article/3624703/the-real-successes-of-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2017/03/robot-arm-using-laptop-100714626-large.jpg",
+          "width": 1200,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3624703/the-real-successes-of-ai.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3624703/the-real-successes-of-ai.amp.html",
+      "publishedDateTime": "2021-07-12T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-12-iit-mandi-develops-ai-based-model-for-disease-detection-in-potato-crops.md",
+      "title": "IIT Mandi develops AI-based model for disease detection in potato crops",
+      "excerpt": "Unsplash Researchers at the Indian Institute of Technology (IIT) Mandi, have developed a computational model based on Artificial Intelligence (AI) for automated disease detection in potato crops using photographs of its leaves. The research in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.freepressjournal.in/business/iit-mandi-develops-ai-based-model-for-disease-detection-in-potato-crops",
+      "originalUrl": "https://www.freepressjournal.in/business/iit-mandi-develops-ai-based-model-for-disease-detection-in-potato-crops",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gumlet.assettype.com/freepressjournal/2021-07/d00b7c82-7237-4819-a681-a87a33536ee9/potato_crops.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.freepressjournal.in/article/business/iit-mandi-develops-ai-based-model-for-disease-detection-in-potato-crops/c8993f12-5fd3-453b-9928-25e5ae267e51",
+      "cdnAmpWebUrl": "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/business/iit-mandi-develops-ai-based-model-for-disease-detection-in-potato-crops/c8993f12-5fd3-453b-9928-25e5ae267e51",
+      "publishedDateTime": "2021-07-12T02:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Free Press Journal",
+        "domain": "freepressjournal.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-12-10-things-in-tech-musk-visits-branson-ai-tiny-homes-gates-foundation-stress.md",
+      "title": "10 things in tech: Musk visits Branson — AI tiny homes — Gates Foundation stress",
+      "excerpt": "Musk visited Branson before his flight, AI powered tiny homes arrive in the UK, Gates Foundation staff stress out: 10 things in tech you need to know.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/10-things-in-tech-musk-branson-tiny-homes-gates-foundation-2021-7",
+      "originalUrl": "https://www.businessinsider.com/10-things-in-tech-musk-branson-tiny-homes-gates-foundation-2021-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60e9a2b5ca74780018ae8bec?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/10-things-in-tech-musk-branson-tiny-homes-gates-foundation-2021-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-tech-musk-branson-tiny-homes-gates-foundation-2021-7?amp",
+      "publishedDateTime": "2021-07-12T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-12-blue-ocean-smart-system-to-introduce-chiplet-based-high-performance-low-power-ai-chips.md",
       "title": "Blue Ocean Smart System to Introduce Chiplet based, high-performance, low-power AI chips",
       "excerpt": "Blue Ocean Smart System – the leading Chiplet based technology developer in the post-Moore's Law era for large-scale computing, energy efficient applications, today jointly launched as a founding member,",
@@ -1003,137 +1148,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-10-machine-learning-in-identity-and-access-management.md",
-      "title": "Machine Learning in Identity and Access Management",
-      "excerpt": "Due to the challenges of identifying rapidly evolving threats, cybersecurity has come to rely on artificial intelligence and machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://cloudsecurityalliance.org/articles/machine-learning-in-identity-and-access-management/",
-      "originalUrl": "https://cloudsecurityalliance.org/articles/machine-learning-in-identity-and-access-management/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudsecurityalliance.org/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdjRTIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9f263b659c87472eac3e8132435d7b02d6033918/Machine-Learning-in-Identity-and-Access-Management.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-09T17:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cloud Security Alliance",
-        "domain": "cloudsecurityalliance.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-10-amazon-to-extend-ban-on-police-use-of-face-recognition-tech.md",
-      "title": "Amazon to Extend Ban on Police Use of Face Recognition Tech",
-      "excerpt": "Activists have targeted Amazon Web Services cloud computing unit's \"Rekognition\" facial recognition technology and Ring surveillance cameras used for home security. It was not clear the degree to which police have used the systems. Amazon last year called ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.courthousenews.com/amazon-to-extend-ban-on-police-use-of-face-recognition-tech/",
-      "originalUrl": "https://www.courthousenews.com/amazon-to-extend-ban-on-police-use-of-face-recognition-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://courthousenewswebsite.kinsta.cloud/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.courthousenews.com/amazon-to-extend-ban-on-police-use-of-face-recognition-tech/amp/",
-      "cdnAmpWebUrl": "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/amazon-to-extend-ban-on-police-use-of-face-recognition-tech/amp/",
-      "publishedDateTime": "2021-07-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Courthouse News Service",
-        "domain": "courthousenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-07-10-the-man-who-invented-the-self-driving-car-in-1986.md",
-      "title": "The man who invented the self-driving car (in 1986)",
-      "excerpt": "The history of artificial intelligence is a history of buzzy springs followed ... among them U.S. tech giants like Alphabet’s Waymo, have been catching up. Experts describe the current race for leadership in autonomous driving technology as neck-and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/article/delf-driving-car-born-1986-ernst-dickmanns-mercedes/amp/",
-      "originalUrl": "https://www.politico.eu/article/delf-driving-car-born-1986-ernst-dickmanns-mercedes/amp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.eu/wp-content/uploads/2018/07/ericPetersen_selfDrivingCars_RGB-e1532325107404-1200x628.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.eu/article/delf-driving-car-born-1986-ernst-dickmanns-mercedes/amp/",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/delf-driving-car-born-1986-ernst-dickmanns-mercedes/amp/",
-      "publishedDateTime": "2021-07-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "POLITICO",
-        "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

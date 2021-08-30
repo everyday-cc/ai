@@ -7,7 +7,7 @@ originalUrl: "https://www.bbntimes.com/science/how-artificial-intelligence-and-b
 webUrl: "https://www.bbntimes.com/science/how-artificial-intelligence-and-blockchain-can-execute-vaccine-allocations-for-countries-in-need"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Coronavirus Roundup: Questions on Vaccine and Testing Programs for Feds; COVID Oversight Committee Boosts Use of Analytics and AI"
-    excerpt: "Professional organizations that represent federal managers are worried that there are still some unresolved issues with the vaccination attestation and testing process for federal employees, Federal News Network reported on Wednesday."
-    publishedDateTime: 2021-08-27T15:30:00Z
-    webUrl: "https://www.govexec.com/management/2021/08/coronavirus-roundup-questions-feds-vaccine-and-testing-programs-covid-oversight-committee-boosts-use-analytics-and-ai/184907/"
+  - title: "Ojamu Employs AI and Blockchain to Help Brands Navigate the Marketing Landscape"
+    excerpt: "Not many get this right, with very few brands scaling past the basics of marketing. One company trying to solve this common problem for brands worldwide is Ojamu. The Singapore-based marketing technology firm is utilizing blockchain,"
+    publishedDateTime: 2021-08-30T10:30:00Z
+    webUrl: "https://www.investing.com/news/cryptocurrency-news/ojamu-employs-ai-and-blockchain-to-help-brands-navigate-the-marketing-landscape-2602763"
     type: article
     provider:
-      name: Government Executive
-      domain: govexec.com
-    quality: 8
+      name: Investing.com
+      domain: investing.com
+    quality: 50
     images:
-      - url: "https://cdn.govexec.com/media/img/cd/2021/08/27/082721vaccine/open-graph.jpg"
-        width: 400
-        height: 400
+      - url: "https://i-invdn-com.investing.com/news/LYNXMPEA6L0A7_L.jpg"
+        width: 728
+        height: 485
         isCached: true
 
 secured: "lk+Ms0g1O41CMEoBySKU8qvbZLYDH1Lgxh7uZeFwFfsNCERuoSvgHRvZdiUIOMXi3ZiU1GKnqIPWmzK+HwGdMxDs1gU/mxaxc94GvWa1PJ1yer0BszNF/sct2DvRKwqjYK/KxPJjwW3f/OEqyHp4MR2VGuF3HWBCS/nYDk+weP2hcjgD9jXGYivNa71JYqpTrwAcXxGlGsRW43V77+R1SdBq+kU7YAVXX3NCvZjjywXgUh/iznozgkWgY64E6nwWcvd89/Nfv4S107qaAbptLOQcVQzghU2HJQel53a2Rtz4HTRjODZwPcVXzKqEW7mjghHbbQc8cv/6Bw1Iar0G8TiWV1V2/OjuPKl6EeOA2kE=;H1uL1Rx6cDqmZF5XWrHfiQ=="

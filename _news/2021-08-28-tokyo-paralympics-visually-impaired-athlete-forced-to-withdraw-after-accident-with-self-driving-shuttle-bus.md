@@ -413,6 +413,34 @@ related:
         width: 1420
         height: 798
         isCached: true
+  - title: "Toyota to restart self-driving e-Palettes with more safety staff"
+    excerpt: "TOKYO: Toyota said today it would resume operations of its self-driving e-Palette pods at the Tokyo Paralympic Games village with greater operator control and more safety staff to ensure they did not hit any more people."
+    publishedDateTime: 2021-08-30T11:44:00Z
+    webUrl: "https://www.carsifu.my/news/toyota-to-restart-self-driving-e-palettes-with-more-safety-staff"
+    type: article
+    provider:
+      name: CarSifu
+      domain: carsifu.my
+    quality: 24
+    images:
+      - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2021/08/e21.jpg"
+        width: 800
+        height: 500
+        isCached: true
+  - title: "URGENT: Toyota self-driving buses in Paralympic village to restart Tues."
+    excerpt: "Toyota Motor Corp. said its self-driving buses will start running again in the athletes' village in Tokyo on Tuesday with improved safety measures after they have been stopped since an accident last week involving a visually impaired Paralympian."
+    publishedDateTime: 2021-08-30T11:10:00Z
+    webUrl: "https://www.nippon.com/en/news/kd805027382900211712/"
+    type: article
+    provider:
+      name: Nippon
+      domain: nippon.com
+    quality: 23
+    images:
+      - url: "https://www.nippon.com/en/ncommon/contents/news/1055056/1055056.jpg"
+        width: 360
+        height: 245
+        isCached: true
   - title: "Toyota halts all self-driving e-Palette vehicles after Olympic village accident"
     excerpt: "Toyota Motor said on Friday it had suspended all self-driving e-Palette transportation pods at the Tokyo Paralympic Games village, a day after one of the vehicles collided with and injured a visually impaired pedestrian."
     publishedDateTime: 2021-08-28T13:24:00Z

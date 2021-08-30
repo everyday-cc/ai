@@ -399,6 +399,34 @@ related:
         width: 1420
         height: 798
         isCached: true
+  - title: "Toyota to restart self-driving e-Palettes with more safety staff"
+    excerpt: "TOKYO: Toyota said today it would resume operations of its self-driving e-Palette pods at the Tokyo Paralympic Games village with greater operator control and more safety staff to ensure they did not hit any more people."
+    publishedDateTime: 2021-08-30T11:44:00Z
+    webUrl: "https://www.carsifu.my/news/toyota-to-restart-self-driving-e-palettes-with-more-safety-staff"
+    type: article
+    provider:
+      name: CarSifu
+      domain: carsifu.my
+    quality: 24
+    images:
+      - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2021/08/e21.jpg"
+        width: 800
+        height: 500
+        isCached: true
+  - title: "URGENT: Toyota self-driving buses in Paralympic village to restart Tues."
+    excerpt: "Toyota Motor Corp. said its self-driving buses will start running again in the athletes' village in Tokyo on Tuesday with improved safety measures after they have been stopped since an accident last week involving a visually impaired Paralympian."
+    publishedDateTime: 2021-08-30T11:10:00Z
+    webUrl: "https://www.nippon.com/en/news/kd805027382900211712/"
+    type: article
+    provider:
+      name: Nippon
+      domain: nippon.com
+    quality: 23
+    images:
+      - url: "https://www.nippon.com/en/ncommon/contents/news/1055056/1055056.jpg"
+        width: 360
+        height: 245
+        isCached: true
   - title: "Tokyo Paralympics: Visually impaired athlete forced to withdraw after accident with self-driving shuttle bus"
     excerpt: "Toyota has temporarily suspended its autonomous buses in the Paralympics athletes' village after one vehicle hit a visually impaired Paralympian at a pedestrian crossing. Japanese athlete Aramitsu Kitazono was forced to withdraw from Saturday's 81kg Judo ..."
     publishedDateTime: 2021-08-28T10:17:00Z
@@ -470,6 +498,6 @@ related:
         height: 700
         isCached: true
 
-secured: "t5TjXE02HfLK9g9AawDdU4PYKYB+ctO/rPRKrKf6pMWe6IcpJ0nrtQK2RBAxsqCZn4BJnNAdQpXKv+LJLbXzSXWM+tMkwLhzI0ajaAhsvZPQ7Rj5xbLMMKN0kirZKwTkr6Me21gq7v18YJz6cGNVlU4w3IFFhkcF3IH6JrBQMlwz//Yp9lkCb5mhQ/44qC3VgmfzObveyULau2LRYVPI0gu/VUjOOJmyr0Xa+iwJHBu15pY9XyL+Lx1LQHsZvtHpXNJg6uuDnTBvQdoDGq23/Yz+VaPIHfMNLy0DlaZoQnyxFhwgzd12ToPPKlKLjRr4x1X7BFirwqXbi4xbC4VCX76pdXw41aywTR8E/9/GwyM=;ji+bK8Rc6LPTXkpK5EyBEg=="
+secured: "qWkJP8EiPW4n37mqe9cwzvNr+RA47si/ZWMpMJXJUtC3laytdlZcoapCqXwSZNQzhEPw68R+VmAHaJd9zAjV0P+IiUlO/UVGg+M/QwaYdJjG0794EHiyhq4ZmF+NzmzdUd2yzhhjE/qXy2hFvSqox3EbSrBOgfvvhK49h50+EHhaiUvXqFNyBHPOoYFYIU3ntYkSNm7tbWoNaSKfTX+zQIDVerSCXwH0c5RWkgZBJ4dY/+d1QLWVpQl8axGY4sd/hShqL098NWLUAcaVtbG/7Yo0DPEabGqVHEbsUUgfr9AixOIVGxAH0Gzt6vDHyIxXcRSXTo035ZCMsPLLCLSJJgxoLB1afc4srOdPgquTuFTONEWyp/nKg48l0yIxB+i068XNR6zsnPweN21zTZswY5+d22w0cqHBToczOk1wW6KhIElBLL3xTvtUVa1xhKdS7LUyUQD5v9bRUmf/4Zn1tabzLmW3/9TNMOBT6s1nWlplg8wj5TQgKX8AuRPfdCPiUDE3yadJ1X6K6iB9uunBqQ==;An6K7be1BDJ76NodoHTc7g=="
 ---
 

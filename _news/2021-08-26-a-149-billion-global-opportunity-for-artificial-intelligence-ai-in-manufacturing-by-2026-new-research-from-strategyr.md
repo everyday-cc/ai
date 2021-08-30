@@ -42,34 +42,6 @@ related:
         width: 800
         height: 418
         isCached: true
-  - title: "Valued to be $28.8 Billion by 2026, Artificial Intelligence (AI) in Fintech Slated for Robust Growth Worldwide"
-    excerpt: "Preview Registry Global Artificial Intelligence (AI) in Fintech Maket to Reach $28.8 Billion by 2026 The U.S. Market is Estimated at $1.5 Billion in 2021, While China is Forecast to Reach $4.2 Billion by 2026 The Artificial Intelligence (AI) in Fintech market in the U."
-    publishedDateTime: 2021-08-26T16:28:00Z
-    webUrl: "https://www.mobilitytechzone.com/lte/news/2021/08/26/9437950.htm"
-    type: article
-    provider:
-      name: Mobility Techzone
-      domain: mobilitytechzone.com
-    quality: 34
-    images:
-      - url: "https://mma.prnewswire.com/media/1601543/MCP21180.jpg"
-        width: 400
-        height: 252
-        isCached: true
-  - title: "Growth in AI-Enabled Distributed Energy Resources Integration Market to Reach $481 Million by 2030"
-    excerpt: "AI techniques have been deployed in the energy industry for a variety of grid and market operations. A new report from Guidehouse Insights analyzes AI capabilities for enabling distributed energy resources (DER) integration,"
-    publishedDateTime: 2021-08-25T17:12:00Z
-    webUrl: "https://www.tdworld.com/smart-utility/data-analytics/article/21173397/growth-in-aienabled-distributed-energy-resources-integration-market-to-reach-481-million-by-2030"
-    type: article
-    provider:
-      name: T&D
-      domain: tdworld.com
-    quality: 25
-    images:
-      - url: "https://img.tdworld.com/files/base/ebm/tdworld/image/2021/08/16x9/GettyImages_1321274917.612679572a572.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 674
-        isCached: true
   - title: "Precision Medicine Market to Reach USD 125.67 Billion by 2026"
     excerpt: "Increasing advancements in cancer biology and myriad benefits offered by precision medicines to drive the global precision medicine market. <br />"
     publishedDateTime: 2021-08-27T10:33:00Z

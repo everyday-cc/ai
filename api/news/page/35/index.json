@@ -2,6 +2,159 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2021-08-04-c-light-technologies-uses-ai-to-diagnose-alzheimers-through-retinal-eye-studies.md",
+      "title": "C. Light Technologies uses AI to diagnose Alzheimer’s through retinal eye studies",
+      "excerpt": "C. Light Technologies has raised money for its AI tech that detects changes in eye motion to diagnose early signs of Alzheimer's disease.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/04/c-light-technologies-uses-ai-to-diagnose-alzheimers-through-retinal-eye-studies/",
+      "originalUrl": "https://venturebeat.com/2021/08/04/c-light-technologies-uses-ai-to-diagnose-alzheimers-through-retinal-eye-studies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/c-light.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 679,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/04/c-light-technologies-uses-ai-to-diagnose-alzheimers-through-retinal-eye-studies/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/04/c-light-technologies-uses-ai-to-diagnose-alzheimers-through-retinal-eye-studies/amp/",
+      "publishedDateTime": "2021-08-04T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-why-ai-is-a-powerful-tool-for-coinnovation.md",
+      "title": "Why AI Is A Powerful Tool For Coinnovation",
+      "excerpt": "AI is proving to be a powerful tool for coinnovation, but it won’t eliminate the need for raw human creativity, nor should it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/theyec/2021/08/04/why-ai-is-a-powerful-tool-for-coinnovation/",
+      "originalUrl": "https://www.forbes.com/sites/theyec/2021/08/04/why-ai-is-a-powerful-tool-for-coinnovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6076f18320d68a60ca2eb02c%2F0x0.jpg",
+          "width": 1200,
+          "height": 839,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/theyec/2021/08/04/why-ai-is-a-powerful-tool-for-coinnovation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2021/08/04/why-ai-is-a-powerful-tool-for-coinnovation/amp/",
+      "publishedDateTime": "2021-08-04T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-yellowai-raises-78m-to-expand-its-ai-chatbot-platform-globally.md",
+      "title": "Yellow.ai raises $78M to expand its AI chatbot platform globally",
+      "excerpt": "Yellow.ai, a startup developing a chatbot platform powered by AI technologies, has raised $78 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/04/yellow-ai-raises-78m-to-expand-its-ai-chatbot-platform-globally/",
+      "originalUrl": "https://venturebeat.com/2021/08/04/yellow-ai-raises-78m-to-expand-its-ai-chatbot-platform-globally/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/How-telemedicine-and-chatbots-are-using-to-data-to-transform-healthcare-01-e1622118119553.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/04/yellow-ai-raises-78m-to-expand-its-ai-chatbot-platform-globally/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/04/yellow-ai-raises-78m-to-expand-its-ai-chatbot-platform-globally/amp/",
+      "publishedDateTime": "2021-08-04T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-04-politico-ai-decoded-ai-in-hospitals-standards-bodies-facial-recognition.md",
       "title": "POLITICO AI: Decoded: AI in hospitals — Standards bodies — Facial recognition",
       "excerpt": "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know.",
@@ -976,164 +1129,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-is-deepminds-new-reinforcement-learning-system-a-step-toward-general-ai.md",
-      "title": "Is DeepMind’s new reinforcement learning system a step toward general AI?",
-      "excerpt": "The paper's findings show some impressive advances in applying reinforcement learning to complicated problems.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/03/is-deepminds-new-reinforcement-learning-system-a-step-toward-general-ai/",
-      "originalUrl": "https://venturebeat.com/2021/08/03/is-deepminds-new-reinforcement-learning-system-a-step-toward-general-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/DeepMind-reinforcement-learning-AI-XLand.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/03/is-deepminds-new-reinforcement-learning-system-a-step-toward-general-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/03/is-deepminds-new-reinforcement-learning-system-a-step-toward-general-ai/amp/",
-      "publishedDateTime": "2021-08-03T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-the-pixel-6-chip-might-be-made-by-one-of-googles-frenemies.md",
-      "title": "The Pixel 6 chip might be made by one of Google's frenemies",
-      "excerpt": "Sources claim the Google Tensor chip in the Pixel 6 is made by Samsung — and shares the same 5nm process as Snapdragon chips.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/pixel-6-tensor-chip-manufacturer-2728997/",
-      "originalUrl": "https://www.androidauthority.com/pixel-6-tensor-chip-manufacturer-2728997/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2021/08/google-tensor-scaled.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/amp/pixel-6-tensor-chip-manufacturer-2728997/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/pixel-6-tensor-chip-manufacturer-2728997/",
-      "publishedDateTime": "2021-08-03T13:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-enghouse-espialtv-enables-tv-accessibility-with-amazon-polly.md",
-      "title": "Enghouse EspialTV enables TV accessibility with Amazon Polly",
-      "excerpt": "This is a guest post by Mick McCluskey, the VP of Product Management at Enghouse EspialTV. Enghouse provides software solutions that power digital transformation for communications service operators. EspialTV is an Enghouse SaaS solution that transforms the delivery of TV services for these operators",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/enghouse-espialtv-enables-tv-accessibility-with-amazon-polly/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/enghouse-espialtv-enables-tv-accessibility-with-amazon-polly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/29/esp-diagram-1260x447.png",
-          "width": 1260,
-          "height": 447,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-03T12:57:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

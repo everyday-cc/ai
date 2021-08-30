@@ -168,20 +168,6 @@ related:
         width: 860
         height: 520
         isCached: true
-  - title: "GAO counts facial recognition R&D at 10 agencies"
-    excerpt: "At least 10 U.S. government agencies are undertaking research and development work into facial recognition technology, according to a new report by the Governmental Accountability Office. The new study,"
-    publishedDateTime: 2021-08-25T18:47:00Z
-    webUrl: "https://www.fedscoop.com/gao-counts-facial-recognition-rd-at-10-agencies/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 39
-    images:
-      - url: "https://s3.amazonaws.com/sng-global-web-assets/logo/Favicon_FS.png"
-        width: 629
-        height: 607
-        isCached: true
   - title: "GAO Reports on Federal Use of Facial Recognition Tech Systems"
     excerpt: "The Government Accountability Office (GAO) surveyed 24 Chief Financial Officers Act agencies on their use of facial recognition technology (FRT) in fiscal year 2020 and found that 18 of those agencies reported using FRT for one or several purposes."
     publishedDateTime: 2021-08-26T10:43:00Z

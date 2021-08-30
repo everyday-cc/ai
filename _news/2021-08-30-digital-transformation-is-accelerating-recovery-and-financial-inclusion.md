@@ -50,6 +50,17 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Amazon Web Services Chosen by Sun Life as its Cloud Tech Provider, Aims to Become Cloud First Organization"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), recently revealed that Sun Life (TSX: SLF) (NYSE: SLF) has chosen AWS as its Cloud tech  provider in order to become a “Cloud-first” organization,"
+    publishedDateTime: 2021-08-30T11:50:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/08/179747-amazon-web-services-chosen-by-sun-life-as-its-cloud-tech-provider-aims-to-become-cloud-first-organization/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/08/179747-amazon-web-services-chosen-by-sun-life-as-its-cloud-tech-provider-aims-to-become-cloud-first-organization/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/08/179747-amazon-web-services-chosen-by-sun-life-as-its-cloud-tech-provider-aims-to-become-cloud-first-organization/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 36
   - title: "Amazon Prime – Sun Life Taps AWS as Its Long-Term Strategic Cloud Provider to Transform Digital Services"
     excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
     publishedDateTime: 2021-08-27T07:56:00Z

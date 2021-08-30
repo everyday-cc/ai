@@ -9,7 +9,7 @@ ampWebUrl: "https://thewest.com.au/technology/telecommunications/aust-researcher
 cdnAmpWebUrl: "https://thewest-com-au.cdn.ampproject.org/c/s/thewest.com.au/technology/telecommunications/aust-researchers-use-ai-to-predict-drought-c-3810380.amp"
 type: article
 quality: 57
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -35,20 +35,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 47
-  - title: "Researchers Demonstrate AI Can Be Fooled"
-    excerpt: "The artificial intelligence systems used by image recognition tools, such as those that certain connected cars use to identify street signs, can be tricked to make"
-    publishedDateTime: 2021-08-25T17:39:00Z
-    webUrl: "https://www.databreachtoday.com/researchers-demonstrate-ai-be-fooled-a-17366"
-    type: article
-    provider:
-      name: DataBreachToday
-      domain: databreachtoday.com
-    quality: 39
-    images:
-      - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/researchers-demonstrate-ai-be-fooled-showcase_image-10-a-17366.jpg"
-        width: 860
-        height: 520
-        isCached: true
   - title: "Artificial intelligence to predict Arctic sea ice loss"
     excerpt: "A new artificial intelligence (AI) tool has been developed to enable more accurate prediction of Arctic sea ice conditions months into the future."
     publishedDateTime: 2021-08-27T09:16:00Z

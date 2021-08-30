@@ -2,6 +2,163 @@
   "page": 79,
   "value": [
     {
+      "path": "_news/2021-07-03-speech-recognition-software-market-next-big-thing-major-giants-google-microsoft-baidu.md",
+      "title": "Speech Recognition Software Market Next Big Thing | Major Giants Google, Microsoft, Baidu",
+      "excerpt": "The latest independent research document on Global Speech Recognition Software examine investment in Market. It describes",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/speech-recognition-software-market-next-big-thing-major-giants-google-microsoft-baidu-2021-07-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/speech-recognition-software-market-next-big-thing-major-giants-google-microsoft-baidu-2021-07-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-03T05:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-03-could-ai-keep-people-alive-after-death.md",
+      "title": "Could AI Keep People ‘Alive’ After Death?",
+      "excerpt": "Experts are exploring ways artificial intelligence might confer a kind of digital immortality, preserving the personalities of the departed in virtual form and then allowing them to evolve.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/could-ai-keep-people-alive-after-death-11625317200",
+      "originalUrl": "https://www.wsj.com/articles/could-ai-keep-people-alive-after-death-11625317200",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-363809/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/could-ai-keep-people-alive-after-death-11625317200",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/could-ai-keep-people-alive-after-death-11625317200",
+      "publishedDateTime": "2021-07-03T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-03-a-global-smart-city-competition-highlights-chinas-rise-in-ai.md",
+      "title": "A Global Smart-City Competition Highlights China’s Rise in AI",
+      "excerpt": "Chinese entrants swept all five categories, featuring technologies to improve civic life. But the advances could also be tools for surveillance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/global-smart-city-competition-highlights-china-rise-ai/",
+      "originalUrl": "https://www.wired.com/story/global-smart-city-competition-highlights-china-rise-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/60df60a8fd0513edb15af4a3/master/pass/Business-Smart-City-Competition-1032667470.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/global-smart-city-competition-highlights-china-rise-ai/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/global-smart-city-competition-highlights-china-rise-ai/amp",
+      "publishedDateTime": "2021-07-03T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-03-how-on-device-machine-learning-has-changed-the-way-we-use-our-phones.md",
       "title": "How on-device machine learning has changed the way we use our phones",
       "excerpt": "Whether you realize it or not, you probably benefit from machine learning on your phone every day. Where could the technology go next?",
@@ -1030,126 +1187,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-these-auto-stocks-are-bullish-on-increased-electric-vehicle-spending.md",
-      "title": "These Auto Stocks Are Bullish on Increased Electric Vehicle Spending",
-      "excerpt": "That momentum has continued in 2021, with Ford stock up by 70% and General ... Ford more than doubled its investment in electric and autonomous vehicles to $29.0 billion. (Source: “Ford Raises ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/02/04/ford-f-earnings-q4-2020.html",
-      "originalUrl": "https://www.profitconfidential.com/technology/these-auto-stocks-bullish/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106274216-1575316780530gettyimages-1137684994.jpeg?v=1619724446",
-          "width": 5530,
-          "height": 3679,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/02/04/ford-f-earnings-q4-2020.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/04/ford-f-earnings-q4-2020.html",
-      "publishedDateTime": "2021-07-02T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Profit Confidential",
-        "domain": "profitconfidential.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-legal-software-focus-on-machine-learning-market.md",
-      "title": "Legal Software Focus On Machine Learning Market",
-      "excerpt": "The legal software focus on machine learning market report describes ... of industries including manufacturing, healthcare, financial services, chemicals, and technology. The World’s Most ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2320027/legal-software-focus-on-machine-learning-market-global",
-      "originalUrl": "https://www.openpr.com/news/2320027/legal-software-focus-on-machine-learning-market-global",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2320027/legal-software-focus-on-machine-learning-market-global",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2320027/legal-software-focus-on-machine-learning-market-global",
-      "publishedDateTime": "2021-07-02T03:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-maine-now-has-the-toughest-facial-recognition-restrictions-in-the-us.md",
-      "title": "Maine Now Has the Toughest Facial Recognition Restrictions in the U.S.",
-      "excerpt": "The new law prohibits use of the technology across all levels of state, county, and municipal government, with limited exceptions for law enforcement.",
-      "sourceUrl": null,
-      "webUrl": "https://slate.com/technology/2021/07/maine-facial-recognition-government-use-law.html",
-      "originalUrl": "https://slate.com/technology/2021/07/maine-facial-recognition-government-use-law.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://compote.slate.com/images/cfdef433-ca60-4077-8748-01acfcc00e80.jpeg?width=780&height=520&rect=3500x2333&offset=0x0",
-          "width": 780,
-          "height": 520,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://slate.com/technology/2021/07/maine-facial-recognition-government-use-law.amp",
-      "cdnAmpWebUrl": "https://slate-com.cdn.ampproject.org/c/s/slate.com/technology/2021/07/maine-facial-recognition-government-use-law.amp",
-      "publishedDateTime": "2021-07-02T02:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Slate",
-        "domain": "slate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

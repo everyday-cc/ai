@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/29/how-to-make-ai-more-ethical/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/29/how-to-make-ai-more-ethical/amp/"
 type: article
 quality: 104
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-85651655,imgsize-23672,width-800,height-434,overlay-ethealthworld/how-artificial-intelligence-ai-aid-medical-diagnosis.jpg"
         width: 800
         height: 434
-        isCached: true
-  - title: "AI ethics: key to making AI safe, trusted and embraced"
-    excerpt: "At SenseTime, the objective is not to remove all bias from AI (which is unrealistic and can become a game of cat and mouse), but rather to make AI safer, fairer and more sustainable, so that people and our planet are truly factored into any AI decision or act."
-    publishedDateTime: 2021-08-25T17:37:00Z
-    webUrl: "https://www.ft.com/partnercontent/sensetime/ai-ethics-key-to-making-ai-safe-trusted-and-embraced.html"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 54
-    images:
-      - url: "https://ft.com/partnercontent/images/sensetime/01/hero.jpg"
-        width: 2500
-        height: 1750
         isCached: true
   - title: "AI might help agencies make workforce decisions, and the ethical issues that raises"
     excerpt: "Hodan Omaar of the ITIF thinks public sector employers can become responsible early adopters of AI for workforce decisions."

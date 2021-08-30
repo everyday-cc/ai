@@ -24,50 +24,6 @@ images:
     height: 252
     isCached: true
 
-related:
-  - title: "Valued to be $4.4 Billion by 2026, Artificial Intelligence (AI) in Call Center Slated for Robust Growth Worldwide"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Call Center - Global Market Trajectory & Analytics\"."
-    publishedDateTime: 2021-08-26T12:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-valued-be-44-billion-2026-artificial-intelligence-ai-/2021/08/26/9437856.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 33
-    images:
-      - url: "https://mma.prnewswire.com/media/1601532/MCP21174.jpg"
-        width: 400
-        height: 252
-        isCached: true
-  - title: "Valued to be $13.5 Billion by 2026, Artificial Intelligence (AI) in Supply Chain Slated for Robust Growth Worldwide"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Supply Chain - Global Market Trajectory & Analytics\"."
-    publishedDateTime: 2021-08-26T15:43:00Z
-    webUrl: "https://www.lelezard.com/en/news-19969994.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 32
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
-        width: 421
-        height: 421
-        isCached: true
-  - title: "With Market Size Valued at $2.6 Billion by 2026, it`s a Healthy Outlook for the Global Artificial Intelligence (AI) in Drug Discovery Market"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence"
-    publishedDateTime: 2021-08-26T12:10:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/with-market-size-valued-at-2-6-billion-by-2026-it-s-a-healthy-outlook/article_5d6eaa18-3270-572f-8e6f-90817cffada7.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 17
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/54/c541e310-234d-5b11-ae36-550c5cb8f770/612785f094d46.image.jpg?resize=1013%2C630"
-        width: 1013
-        height: 630
-        isCached: true
-
 secured: "bos+AKT1LcnTJsOACKN7+Q3u/QoO3g/GsYPqaeIEwehdqnaC+QUupXBetzmB2WAJ7D1mjdffkDPQfuUEX8jq9OzVCSkZxcujNAkUlF1W6QYHpVxn1lzqzOAbcsdcl/XA4+3DFCnZzbhNInViFgwL6t4CuQXXJaKqtFQ09Xz41B3e1rAPYKBDKTwD593XxBDMbJ0d38V80SH1fegS3IsWVDH+6fWfPDCbKPxrls9025NxUBi190htyyLpitBFtfId54LTMrw+R2kdvjdvKmGGFSNpfHDGgHHF6PZAWAaqkMN1NlI4M5601kx/itzgkz5L8T81L2xSJXf6HDk032X+R1fO/tAbLUV27QbtccDEZnA=;hgO6dR1sPxx0o8LPZBgnFA=="
 ---
 
