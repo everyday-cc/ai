@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "beaconcure"
   url: "https://www.twitter.com/beaconcure"
-  followers: 5
+  followers: 6
 
 locations:
   - Tel Aviv-Yafo, Israel
