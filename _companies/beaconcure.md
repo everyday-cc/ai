@@ -1,6 +1,6 @@
 ---
 name: "BeaconCure"
-overview: "AI-Driven Robots for Food Service, Retail, & Health Care"
+overview: "Beaconcure developed an automated solution supported by ML for clinical data validation. It is designed to support regulatory submissions in drug development"
 type: "profile"
 heat: 50
 
@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "beaconcure"
   url: "https://www.twitter.com/beaconcure"
-  followers: 34
+  followers: 3
 
 locations:
   - Tel Aviv-Yafo, Israel
@@ -22,7 +22,7 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1302975699662376960/ne6HT3Ec_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1334450879655796736/8VSbeGNb_400x400.jpg"
     width: 400
     height: 400
     isCached: true
