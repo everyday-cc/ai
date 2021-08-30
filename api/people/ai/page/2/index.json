@@ -166,7 +166,7 @@
       "twitter": {
         "username": "NandoDF",
         "url": "https://twitter.com/NandoDF",
-        "followers": 84913
+        "followers": 84908
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=nzEluBwAAAAJ",
@@ -238,7 +238,7 @@
       "twitter": {
         "username": "rajatmonga",
         "url": "https://twitter.com/rajatmonga",
-        "followers": 14217
+        "followers": 14215
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/rajatmonga/"
@@ -427,7 +427,7 @@
       "twitter": {
         "username": "robot_MD",
         "url": "https://twitter.com/robot_MD",
-        "followers": 11684
+        "followers": 11685
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/carol-reiley-7a91072/"
@@ -589,50 +589,6 @@
           "width": 400,
           "height": 400,
           "title": "Bernhard Schölkopf",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/clement-farabet.md",
-      "title": "Clément Farabet",
-      "excerpt": "VP, AI infra @ NVIDIA, building self-driving cars and GPU based data science. Ex Twitter (Cortex cofounder). Prev cofounder at Madbits. Deep learning, AI.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/clement-farabet/index.json",
-      "webUrl": "https://everyday.cc/ai/people/clement-farabet/",
-      "type": "profile",
-      "name": "Clément Farabet",
-      "bio": "VP, AI infra @ NVIDIA, building self-driving cars and GPU based data science. Ex Twitter (Cortex cofounder). Prev cofounder at Madbits. Deep learning, AI.",
-      "location": "San Francisco, CA",
-      "website": "http://www.clement.farabet.net/",
-      "twitter": {
-        "username": "clmt",
-        "url": "https://twitter.com/clmt",
-        "followers": 11028
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/clementfarabet"
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=u3u16tgAAAAJ",
-        "citations": 9130
-      },
-      "affiliation": {
-        "path": "",
-        "name": "nyu.edu - Homepage",
-        "domain": "nyu.edu - Homepage"
-      },
-      "topics": [
-        "AI",
-        "AI in Hardware"
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/953003983307550720/GhDHdn42_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Clément Farabet",
           "isCached": true
         }
       ],
@@ -1160,7 +1116,7 @@
       "twitter": {
         "username": "huahaiy",
         "url": "https://twitter.com/huahaiy",
-        "followers": 965
+        "followers": 966
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/huahaiyang/"
@@ -1300,6 +1256,32 @@
           "isCached": false
         }
       ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/john-giannandrea.md",
+      "title": "John Giannandrea",
+      "excerpt": "John Giannandrea is Apple's senior vice president of Machine Learning and AI Strategy, reporting to CEO Tim Cook. John joined Apple in 2018 and oversees the strategy for artificial intelligence and machine learning across the company and development of Core ML and Siri technologies.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/john-giannandrea/index.json",
+      "webUrl": "https://everyday.cc/ai/people/john-giannandrea/",
+      "type": "profile",
+      "name": "John Giannandrea",
+      "bio": "John Giannandrea is Apple's senior vice president of Machine Learning and AI Strategy, reporting to CEO Tim Cook. John joined Apple in 2018 and oversees the strategy for artificial intelligence and machine learning across the company and development of Core ML and Siri technologies.",
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/johngiannandrea/"
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/John_Giannandrea"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Apple",
+        "domain": "apple.com"
+      },
+      "topics": [
+        "AI"
+      ],
+      "heat": 50,
       "content": "\r\n"
     }
   ],
