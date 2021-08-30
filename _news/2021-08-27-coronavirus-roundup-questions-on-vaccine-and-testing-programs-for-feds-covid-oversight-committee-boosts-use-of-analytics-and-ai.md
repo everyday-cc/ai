@@ -40,20 +40,6 @@ related:
         width: 410
         height: 230
         isCached: true
-  - title: "Automation Innovation: From AI and Analytics to Machine Learning and Robotics, Supply Chains Will Never be the Same Again"
-    excerpt: "A combination of intensifying customer demands and massively disruptive events such as the COVID-19 pandemic is pushing suppliers, manufacturers, distributors and retailers to embrace innovation at an unprecedented pace."
-    publishedDateTime: 2021-08-25T21:23:00Z
-    webUrl: "https://www.supplychainbrain.com/articles/33642-surviving-in-the-age-of-permanent-supply-chain-disruption-part-2-automation-innovation"
-    type: article
-    provider:
-      name: Supply Chain
-      domain: supplychainbrain.com
-    quality: 61
-    images:
-      - url: "https://www.supplychainbrain.com/ext/resources/0-videos/Gartner-2021/Gartner-webinar.jpg?height=635&t=1629927938&width=1200"
-        width: 800
-        height: 555
-        isCached: true
   - title: "How The United States Army Is Leveraging AI: Interview With Kristin Saling, Chief Analytics Officer & Acting Dir., Army People Analytics"
     excerpt: "To remain competitive, the US Army has created the Army Talent Management Task Force to address the current and future needs of the war fighter. LTC Saling shares her insights into how analytics, automation,"
     publishedDateTime: 2021-08-28T05:00:00Z
@@ -69,20 +55,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6125197aa4e9c316e3801db8%2F0x0.jpg"
         width: 1200
         height: 1042
-        isCached: true
-  - title: "Bodo.ai Raises $14 million Series A Funding for Data Analytics and Machine Learning"
-    excerpt: "Bodo.ai, an extreme-performance parallel compute platform for data workloads, today announced it has raised $14 million in"
-    publishedDateTime: 2021-08-25T21:49:00Z
-    webUrl: "https://www.enterpriseai.news/2021/08/25/bodo-ai-raises-14-million-series-a-funding-for-data-analytics-and-machine-learning/"
-    type: article
-    provider:
-      name: enterpriseai
-      domain: enterpriseai.news
-    quality: 50
-    images:
-      - url: "https://www.enterpriseai.news/wp-content/uploads/2019/03/EAI2-01-fb.png"
-        width: 1598
-        height: 840
         isCached: true
   - title: "Advantage Acquires Strong Analytics, Provider of AI and Machine Learning Solutions"
     excerpt: "Advantage Solutions has acquired Strong Analytics, a provider of artificial intelligence, machine learning and data science services for leading brands in consumer goods and retail, automotive, hospitality,"

@@ -58,12 +58,12 @@ related:
   - title: "SoftBank-backed AI startup SenseTime files for Hong Kong IPO"
     excerpt: "In the first half of 2021, the China-based startup’s revenue increased 2x while its gross profit margin went slightly up to 73%."
     publishedDateTime: 2021-08-30T10:13:00Z
-    webUrl: "https://www.techinasia.com/alibaba-lays-off-10-people-publicizing-employees-sexual-allegations/next"
+    webUrl: "https://www.techinasia.com/sensetime-ipo-hongkong-stock-exchange"
     type: article
     provider:
       name: Techinasia
       domain: techinasia.com
-    quality: 49
+    quality: 47
   - title: "SenseTime, AI Startup to apply for IPO in Hong Kong"
     excerpt: "Since then, SenseTime has published a white paper titled “Code of Ethics for AI Sustainable Development” and is collaborating with the United Nations to enhance AI ethics."
     publishedDateTime: 2021-08-28T19:37:00Z

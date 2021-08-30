@@ -6,7 +6,7 @@ publishedDateTime: 2021-08-30T13:30:00Z
 originalUrl: "https://www.prnewswire.com/news-releases/edge-ai-hardware-market-worth-2-080-million-units-by-2026--exclusive-report-by-marketsandmarkets-301365080.html"
 webUrl: "https://www.prnewswire.com/news-releases/edge-ai-hardware-market-worth-2-080-million-units-by-2026--exclusive-report-by-marketsandmarkets-301365080.html"
 type: article
-quality: 25
+quality: 27
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI Hardware
 
 images:
   - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
@@ -79,6 +80,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "EiXI9N7STpg8l7RvDsFGK1WFFwKcBxNk80rc19pqnhp/j4GtChJ0zGcGGSlkRFKmYzgfik7I4GU8wBGMJwDFb+bJRLk7Kuqp85hu9eZsuWRzo28iOgRSYUsQD+F37dimjN3pDi8fbmFdy9MuKqscWHLB70Dc9S16M12SIeQKpxgvjqTs1Kwh1Taf3Nvb8P+3dLWe//uIrts/n+KorAbj4yHVU4p/qzrekgofoNVYXdd6AducDnlcCPvZ9xkQtr1iBZOFOsdcUtCpH0jztgnqx318zbQ68njOMCoGYUiMbTZACrb8MYE3p//ww9OyIZhBKZr1vG0Nm+shRlRDTRv8ec2bLtFTHTwio5twRrhNhX0=;I7RkIczx5iSoGMrG1bLosA=="
+secured: "lmeJ80k29JfjkRWfegwfy4k4XnAbsLnh2kyWjLhau6dwuDoKyosPiQUmvkP5NlyaGFkga509TZJKT9CfcRiuKp8iCsroCWAVbbBejN0JeHIFq8jo3H8kc8veaizOC0mhF5obq4KUmr06hjVZfCofYWz6ZP4GNF/5ySS1yAv8LG1Cvuiky1TcmfaO0wd8U35KRwAur/XHLOWNt7giXvFE3ZYvPoxI2MrJnUYQ888BK+be3ScCu9LnaUiV+52ZomZUNDrtkn2BTAiZkzgVC5b/C6tMVhyycT+/Y5siw5F2FkGhYLYr9ztgIjVx4P0skOLkQGArlmpmc353SuFPpsHul9DKfTBit7umc6jxN89cDUX6VWFNIIr3tvYHAdnlRZkR4lLdaBwiHaLxluLJ5XR+DMCIIcTGUZNrplcRs4YfDf6GGJOul/PaDQxbXDMrrzqTW05TEkkAMEH+WCp0WTG6zRS3oAbH3TMLf1hay+I/5zDfCytqRagssu56QY/GRKtTwpzS92IEcKbJN/RMAVXlVA==;FBi3w3zz9bti/yRzk6fdzQ=="
 ---
 

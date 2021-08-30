@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Zebra Technologies to Acquire Antuit.ai"
-excerpt: "Zebra Technologies to Acquire Antuit.ai. Zebra Technologies (NASDAQ: ZBRA), an innovator at the front line of business with solutions and partners that deliver a performance edge,"
-publishedDateTime: 2021-08-30T13:32:00Z
-originalUrl: "https://www.mobilitytechzone.com/wimax/news/2021/08/30/9439128.htm"
-webUrl: "https://www.mobilitytechzone.com/wimax/news/2021/08/30/9439128.htm"
+title: "Zebra Technologies to acquire Antuit.ai"
+excerpt: "Deal for vendor whose AI-based software improves forecasts and optimizes inventory allocations grows Zebra's retail and consumer packaged goods (CPG) software portfolio{/exp:eehive_hacksaw"
+publishedDateTime: 2021-08-30T14:28:00Z
+originalUrl: "https://www.scmr.com/article/zebra_technologies_to_acquire_antuit.ai"
+webUrl: "https://www.scmr.com/article/zebra_technologies_to_acquire_antuit.ai"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Mobility Techzone
-  domain: mobilitytechzone.com
+  name: Supply Chain Management Review
+  domain: scmr.com
 
 topics:
   - AI
 
 images:
-  - url: "https://blog.tmcnet.com/blog/rich-tehrani/uploads/apple-store-ny.jpg"
-    width: 1577
-    height: 1050
+  - url: "https://scg-scmr.s3.amazonaws.com/images/scmr_computer_group.png"
+    width: 444
+    height: 333
     isCached: true
 
 related:
@@ -35,6 +35,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 67
+  - title: "Zebra Technologies Acquires Antuit.ai"
+    excerpt: "Front-line business firm Zebra Technologies will acquire Antuit.ai, a retail and consumer packaged goods-based artificial intelligence (AI)-powered SaaS."
+    publishedDateTime: 2021-08-30T14:52:00Z
+    webUrl: "https://www.pymnts.com/news/retail/2021/zebra-technologies-acquires-antuit-ai/"
+    ampWebUrl: "https://www.pymnts.com/news/retail/2021/zebra-technologies-acquires-antuit-ai/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/zebra-technologies-acquires-antuit-ai/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/08/Zebra-Technologies-AI-acquires-Antuit.ai_-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "SAP Acquires AI HR Platform"
     excerpt: "SAP is enhancing its human experience management (HXM) software suite via the acquisition of artificial intelligence (AI) technology:"
     publishedDateTime: 2021-08-30T01:46:00Z
@@ -50,6 +66,6 @@ related:
         height: 979
         isCached: true
 
-secured: "hrJThYBB6eD8AzLSITPt2By5f+LFvMJZtUjpQY4xprOgiOpHNwtAApVoZqBInOygQcD0/r5+YXBCBAS5Iwz3fexUxMYxPl5zHTMK2UX8tEsNuqw02W39m7z8+1n9NW0X6NUF6xH6TqIa6Qu4XvCBBYi+3G5FR4IEXqagt5BZAJ5RFuetCtvk4rq9uvVltFNILN0BXundgWs+PENJP59XJK+s1VhmEBZF+qnwHQj/N6oUbj0MOPMOA4hsESdoJbCPsXQv6JbDAtma1Ua55HE9gO8nP09gZ8Oqhwmuf3u4EVjehfEp9in0QQSFwkykt0bQrwwansI+Da6NY9U8S9uN2wlBptaDzNT54yFdFlUJn7M=;RcANrW55lR6QichmJjEb/A=="
+secured: "aMGHaOfH6tMNTKssDVpQpR8ak6UnfFSt+yIPkW4CSXvHnZwhmyqhs3CrRjAWCs2qQPhFLW4/273fEgwEd0GY0nxZ8PN5nxTRc2h+xztuFTWyRo1Rm8+3x0iyQBBXnXK/NCOAc1rg9HdlUQRIEoWievyM6KKv9capE3iUXq4e7caR9nWh/Hwu0tmQuwMMwX71T0C1SIFcBLv2AFWF8QVxN2+EJH81p1XQtDL2O7kFQOaPU6kjHnolL1YRwJfXbPGNgWKrN2ugoF9OSzALvFJfTd8urHenWM6Lm1lLNkdaLOVw9phaW3VxDpZymqvMV6DdAPVr/Or5G7UtB5FEki0+4l3mwF8jA/gjjZ1gUeVCzjk=;XhESWSlcw8BbPBwwbiDN2w=="
 ---
 

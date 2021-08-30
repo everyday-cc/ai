@@ -35,6 +35,20 @@ related:
         width: 711
         height: 430
         isCached: true
+  - title: "Edge AI Hardware Market worth 2,080 million Units by 2026 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "According to a research report \"Edge AI Hardware Market with COVID-19 Impact Analysis device, Processor (CPU, GPU, and ASICs), End"
+    publishedDateTime: 2021-08-30T13:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/edge-ai-hardware-market-worth-2-080-million-units-by-2026--exclusive-report-by-marketsandmarkets-301365080.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 27
+    images:
+      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
+        width: 666
+        height: 350
+        isCached: true
   - title: "Edge AI Hardware Market worth 2,080 million Units by 2026 - Exclusive Report by MarketsandMarketstm"
     excerpt: "According to a research report \"Edge AI Hardware Market with COVID-19 Impact Analysis device, Processor (CPU, GPU, and ASICs), End User, Function (Training and Inference), Power (Less Than 1W, 1-3 W,"
     publishedDateTime: 2021-08-30T13:37:00Z
@@ -48,20 +62,6 @@ related:
       - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
         width: 640
         height: 480
-        isCached: true
-  - title: "Edge AI Hardware Market worth 2,080 million Units by 2026 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "According to a research report \"Edge AI Hardware Market with COVID-19 Impact Analysis device, Processor (CPU, GPU, and ASICs), End"
-    publishedDateTime: 2021-08-30T13:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/edge-ai-hardware-market-worth-2-080-million-units-by-2026--exclusive-report-by-marketsandmarkets-301365080.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 25
-    images:
-      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
-        width: 666
-        height: 350
         isCached: true
   - title: "Speech and Voice Recognition Market worth $22.0 billion by 2026 - Exclusive Report by MarketsandMarketstm"
     excerpt: "Global Forecast to 2026\", published by MarketsandMarketstm, the Speech And Voice Recognition Market is expected to grow from USD 8.3 billion in 2021 to USD 22.0 billion by 2026; it is expected to grow at a CAGR of 21."
@@ -78,6 +78,6 @@ related:
         height: 480
         isCached: true
 
-secured: "gP7QBKPVD5nuTxkEhBvVtJbiaHXLS82AsgfI8+hGxTSYN0/dtANnd91bnpjH1DuCCWW8zux6YxyqwXRTWWm8wC6px43eDAiw6949V/3Dqb8i7OUIarm02jQnPO6Eprv+RGgQfIKMQXSjNj1qfV6cp1YaTtXq/wPQKUcoVkAHYWfzVltyxRbXalZU3At5mt36PrGRBAbxA9Dwd4BycQboR0wIRgbLQElbC3s8xpNCXr5jeybC9RcmAL2wbMCtE09x8z+AageXdIuvQYdYOmRNsLWfiOPsj04waNQeoKLQG1NQh6WVnfH8EoAReaorBSjGVWLDMIe8EFoEE93PYR1FpYvfxuBMo6AkMm27M33HjBM=;ZG++ujRwNBT/wevzngOqDA=="
+secured: "CMW56dmG7kJLDcKKqgW6fE/kKljVbi/F6CkX2q7dO2yUhx1+ujz0sM0dFY3MzWLmG3a74oVzEZRx4oEyt4eo/a8Hcqhn+BnrV9fUkdiKyo6wdC2hhMQBre+rM41wpEV0QydLwm7s65RW3mQn/SmNbmQMwcBD8Oq3XY3/05NMh/4pkE5BhptBUG9rWn2gFQkDWLCNVEAxeRyYtsHolzkmggrKChh1DA7LjZ40CUL0CFK2GoHOzvJ6m+LUcjOZA4ZtHY9mKLaIPU4N9ENyykxTN7iHWEReWo3DiQxLebM83/Us48HwyzkjQVgJHbJRNlhoa4O7/Q7rGI+JA0WowhS+3/gFUAW2EdTm1DV5v761mWg=;jDW9dDTwNvyIuq1MqaCQ1Q=="
 ---
 

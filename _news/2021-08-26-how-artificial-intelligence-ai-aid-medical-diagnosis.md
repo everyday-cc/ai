@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 776
         isCached: true
+  - title: "Why The Ethics Of AI Are Complicated"
+    excerpt: "The question isn't really whether AI will eventually become more intelligent than humans (it definitely will) or whether it will turn good or evil. It's what we can do right now to make sure it turns \"good\" (or,"
+    publishedDateTime: 2021-08-30T14:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/30/why-the-ethics-of-ai-are-complicated/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 84
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61292026053f741229b0da60%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1181%26cropY1%3D146%26cropY2%3D1032"
+        width: 1181
+        height: 886
+        isCached: true
   - title: "AI might help agencies make workforce decisions, and the ethical issues that raises"
     excerpt: "Hodan Omaar of the ITIF thinks public sector employers can become responsible early adopters of AI for workforce decisions."
     publishedDateTime: 2021-08-26T15:39:00Z

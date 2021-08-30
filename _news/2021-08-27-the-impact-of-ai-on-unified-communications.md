@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence as the core of logistics operation"
-    excerpt: "With that phrase, Álvaro Echeverría, co-founder and CEO of SimpliRoute, recalls the need that shaped the idea of creating an AI virtual assistant to optimize its logistics platform. The startup is dedicated to optimizing routes for dispatch vehicles."
-    publishedDateTime: 2021-08-26T14:40:00Z
-    webUrl: "https://www.ctpost.com/business/article/Artificial-Intelligence-as-the-core-of-logistics-16412350.php"
+  - title: "Sanas.ai launches first platform that boosts communication"
+    excerpt: "Backed with $5.5 million in seed funding, Sanas' accent-matching solution makes it easier for people to understand each other in customer care centers, remote tech support, education, telemedicine and"
+    publishedDateTime: 2021-08-30T14:42:00Z
+    webUrl: "https://www.kmworld.com/Articles/News/News/Sanas.ai-launches-first-platform-that-boosts-communication-148673.aspx"
     type: article
     provider:
-      name: Connecticut Post
-      domain: ctpost.com
-    quality: 37
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 39
     images:
-      - url: "https://s.hdnux.com/photos/01/21/47/10/21393968/3/rawImage.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://dzceab466r34n.cloudfront.net/KMWorld/TemplateImages/KMW21_Sub-Cover-Image.gif"
+        width: 772
+        height: 594
         isCached: true
 
 secured: "t5tATIaxQZRqb2/jr65Wh/Pw+s0IlzIuLVMyHR8xgChmnXWi4xo3vkeGIvnFItcGy3iAqTv6okbxbeKTT/ctSkr2qf+HZNQee2SmoQFHXD4EW5/vyoE/JfpG6Os7RUEOU3tzx5I5hpVucjN0+ff2tNPb2nkg4JEEwIsvXWwkAtbu1pNJpHBUmDXXA3zevQVD3gW4+NxzLJRdWqUDqroBeKRXLlOsJqa/pz8xUHEU/5UnGy3BA0dmuKt31Gq1CpDwplN+rfN0EtLO6Ozut6/04qsoX31HgOQ2tlyXWN9sjRoZcAHBmrm5sgj+i0pbQOGxXX/y9P4aHNPInu63Ki9j4D2DEbcIinYFSbUzuVKdgQU=;dgoE8SDP/5bc/WdKXjch5w=="

@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 772
         isCached: true
+  - title: "Self-driving electric shuttle heading to Whitby GO as part of Metrolinx’s AV pilot project"
+    excerpt: "Durham Region residents will soon see a self-driving electric vehicle rolling into Whitby GO as Metrolinx partners with several agencies to help create the smart infrastructure."
+    publishedDateTime: 2021-08-30T15:52:00Z
+    webUrl: "https://www.masstransitmag.com/alt-mobility/autonomous-vehicles/press-release/21236282/metrolinx-selfdriving-electric-shuttle-heading-to-whitby-go-as-part-of-metrolinxs-av-pilot-project"
+    type: article
+    provider:
+      name: Mass Transit
+      domain: masstransitmag.com
+    quality: 14
+    images:
+      - url: "https://img.masstransitmag.com/files/base/cygnus/mass/image/2021/08/16x9/metrolinx.612cfaf90d4d9.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "FfCjLrrcBaGo5Czdkett7wW/6WK0J+dHS1ttN7dzkwsfRFwfstWQohucEe5AuE4dFTV5safNX+ry/Ei2Kh8E1mi9QfLb6uiWPZiPj8HQDrixzwTHjykoIgoAYFxtumLY1ZAXZ88XsCggCwbtDDgCtlFf0azqTFNb6co2op7WtK9YaQN284AyFoUJxdonqvlwHiuIJg9WJ52EmOUmbE+DcQIL/WoUZDLAzE5j0wtJTRgv9c44V6l6dqn9pUUqby4OADIoeIve+QCIidEFoyxeGWY+dFZYg7eIWSMOOWy3L8kPfIMYUjo35i0saX7Kt6DS71SBzYZn30JickWNGoBqvHWZNNDTq4Vg3F7zhuWakOg=;57R+yM09kb/1C63g+dfdQA=="
 ---

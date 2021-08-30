@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/29/the-long-tail-of-ai-problems-requ
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/29/the-long-tail-of-ai-problems-requires-hyper-customized-solutions-not-a-silver-bullet/amp/"
 type: article
 quality: 82
-heat: 93
+heat: 92
 published: true
 
 provider:

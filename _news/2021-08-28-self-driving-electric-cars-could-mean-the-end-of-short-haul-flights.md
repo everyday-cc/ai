@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jamesmorris/2021/08/28/self-driving-ele
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2021/08/28/self-driving-electric-cars-could-mean-the-end-of-short-haul-flights/amp/"
 type: article
 quality: 74
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://images.hgmsites.net/hug/waymo-self-driving-car-prototype-in-san-francisco-california_100803730_h.jpg"
         width: 1920
         height: 1099
+        isCached: true
+  - title: "Self-driving electric shuttle heading to Whitby GO as part of Metrolinx’s AV pilot project"
+    excerpt: "Durham Region residents will soon see a self-driving electric vehicle rolling into Whitby GO as Metrolinx partners with several agencies to help create the smart infrastructure."
+    publishedDateTime: 2021-08-30T15:52:00Z
+    webUrl: "https://www.masstransitmag.com/alt-mobility/autonomous-vehicles/press-release/21236282/metrolinx-selfdriving-electric-shuttle-heading-to-whitby-go-as-part-of-metrolinxs-av-pilot-project"
+    type: article
+    provider:
+      name: Mass Transit
+      domain: masstransitmag.com
+    quality: 14
+    images:
+      - url: "https://img.masstransitmag.com/files/base/cygnus/mass/image/2021/08/16x9/metrolinx.612cfaf90d4d9.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "3qctwIn/2KxZXlAhlu/d2wlJVkRQckQrf4BLDgqqk+zg10GmDVoUzD2vb7NXouDVBUiGwZE3HkwdbqXLirbKZnpD4E+JLo/ma4nIR4Mibtp2xEFYIMPnASB1cfyXbTCITUKPs+D31gI1OvTiGrSsExYsiydwCmWjcwGcThGlgvyoLLKezmf5a3GaBEnnB4gek4+5m0Z3HcmjqygDPKPVqTkurkBYHvTykBpqFtI4y2r5ljp/3mEz3ShZCvYzhUfjYCxSh62jkIpok/iBCOzOuwPO0PvZdjMiVxIcxEw6uNDKkdcHhtXkP5HFhBD0zMJtLQbp6AaPLl0BHxEuzSI6KjcbGdHZ/bd0U/seYU7JT5tfkQQ6MNeTO/bbI9CQqtwUKdLKelAVeoaPp9+KZzhn829rdkkQEpq8jeQ3tFSs8fCr54A/Cz0FelwWdTvRJDujC8nb/q0fb1/YpEKVrmYEwbhPi+pL30Lv924UXopWqUZlY8voYhJ0qjYLnHG9ujlMwI8R6JjdpJiQuVXa2+sXaA==;gQyxt8U9DIv5DkS+vf2njQ=="

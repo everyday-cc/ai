@@ -45,20 +45,6 @@ related:
         width: 390
         height: 220
         isCached: true
-  - title: "Global Automated Data Science and Machine Learning Platforms Market 2021 - 2026 Business Statistics of Report that Emphasizes the impact of COVID-19"
-    excerpt: "The latest market research report titled Global Automated Data Science and Machine Learning Platforms Market 2020 by Company, Regions, Type and Application, Forecast to 2027 enfolds expansive evaluation of the market offering an analysis of the market revenue,"
-    publishedDateTime: 2021-08-25T22:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-automated-data-science-and-machine-learning-platforms-market-2021---2026-business-statistics-of-report-that-emphasizes-the-impact-of-covid-19-2021-08-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Deep Learning in Machine Vision Market Report Covers Future Trends With Research 2021-2027"
     excerpt: "Deep learning technology is seeing many appealing advancements in several machine learning sectors, involving the reinforcement learning, natural language processing (NLP), ML frameworks (Pytorch and TensorFlow),"
     publishedDateTime: 2021-08-26T16:32:00Z

@@ -52,20 +52,6 @@ related:
         width: 390
         height: 220
         isCached: true
-  - title: "Global Automated Data Science and Machine Learning Platforms Market 2021 - 2026 Business Statistics of Report that Emphasizes the impact of COVID-19"
-    excerpt: "The latest market research report titled Global Automated Data Science and Machine Learning Platforms Market 2020 by Company, Regions, Type and Application, Forecast to 2027 enfolds expansive evaluation of the market offering an analysis of the market revenue,"
-    publishedDateTime: 2021-08-25T22:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-automated-data-science-and-machine-learning-platforms-market-2021---2026-business-statistics-of-report-that-emphasizes-the-impact-of-covid-19-2021-08-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global AI-based Clinical Trials Solution Provider Market (2021 to 2028) - Size, Share & Trends Analysis Report - ResearchAndMarkets.com"
     excerpt: "The global AI-based clinical trials solution provider market size is expected to reach USD 5.2 billion by 2028 and is expected to expand at a CAGR of 21.7% over the forecast period. Unlearn.AI, Inc. Antidote Technologies,"
     publishedDateTime: 2021-08-26T13:30:00Z
