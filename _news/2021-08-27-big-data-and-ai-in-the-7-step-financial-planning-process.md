@@ -70,6 +70,20 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "Beyond HBM: Samsung Breaks Processing-in-memory Into AI Applications"
+    excerpt: "AI applications bring with them many challenges, including data processing and memory. Samsung hopes to take on these issues by combining processing-in-memory with high bandwidth memory."
+    publishedDateTime: 2021-08-30T17:00:00Z
+    webUrl: "https://www.allaboutcircuits.com/news/beyond-high-bandwidth-memory-samsung-breaks-processing-in-memory-into-AI-applications/"
+    type: article
+    provider:
+      name: All About Circuits
+      domain: allaboutcircuits.com
+    quality: 39
+    images:
+      - url: "https://www.allaboutcircuits.com/uploads/thumbnails/hotchips33_samsung_HBM_PIM_thumbnail.jpg"
+        width: 700
+        height: 300
+        isCached: true
 
 secured: "g6fnb8gaPvBsaXW3Qu7GRiCu/FChLkjGppCOhXhqkG+ffBgFFwxb1JEFQHMKetPwYvLvhQfJ5/qSPp6eP5ars4P3cbWLfVxSDcc2Dn+lJNSa8Yq/MpofTQHx+ninx6IHzuReV1sx3VVgb2Qnco2dmXaI+vCoHVkheTWisvfddk5cnRmb1p4zjz6bM/HX4+RZl218ma63WjEkenAz/l9Mka3r00TZvqQBVB+OFk0Q3Kk+9GhvUkAmgo7HL/dpW24Hws40E4PhCcm7/n7W9UReoypMXkUSxz+lxywBMYfewcG99olzQ1ICj8veaiGhNSN8WnemlcL0rNDWGk2cs78jLqsfQXBf7/ki8qwumiw8i1A=;j657BMdD0kch2keJfSQN9g=="
 ---

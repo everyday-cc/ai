@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Could Automation Eliminate the Boring Job Components?"
+    excerpt: "more than 85% of businesses using AI today are reducing their operating costs. Yet these automation technologies are often limited in their scope to just call centers, or IT departments. IBM is hoping to spark a meaningful change here with its Watson ..."
+    publishedDateTime: 2021-08-30T16:53:00Z
+    webUrl: "https://www.industryweek.com/technology-and-iiot/article/21173802/could-automation-eliminate-the-boring-job-components"
+    type: article
+    provider:
+      name: IndustryWeek
+      domain: industryweek.com
+    quality: 24
+    images:
+      - url: "https://img.industryweek.com/files/base/ebm/industryweek/image/2021/08/andrea_de_santis_zwd435_ewb4_unsplash.612d074c2633a.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 624
+        isCached: true
   - title: "Stitching Open Source Components Together to Build an End to End Computer Vision Platform for Your Enterprise"
     excerpt: "The three authors are speaking at ODSC. Be sure to check out their talk, “Stitching Open Source Components Together to Build an End to End Computer Vision Platform for Your Enterprise,” there! Imagine a scenario where you just got into a meeting with your senior leadership team."
     publishedDateTime: 2021-08-27T15:49:00Z

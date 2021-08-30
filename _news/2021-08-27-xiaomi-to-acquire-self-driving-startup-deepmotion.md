@@ -59,20 +59,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Xiaomi buys self-driving tech startup to propel EV ambitions"
-    excerpt: "The acquisition of four-year-old Deepmotion, which develops driver assistance software, is the latest in a series of moves Xiaomi’s making to delve deeper into a crowded field."
-    publishedDateTime: 2021-08-25T23:19:00Z
-    webUrl: "https://www.autonews.com/china/xiaomi-buys-self-driving-tech-startup-propel-ev-ambitions"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/377687826.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Xiaomi to acquire self-driving startup Deepmotion for $77.4 mn"
     excerpt: "Leg-spinner Yuzvendra Chahal's maiden six-wicket for India as the hosts beat England by 75 runs in the third and final Twenty20 International"
     publishedDateTime: 2021-08-27T15:57:00Z

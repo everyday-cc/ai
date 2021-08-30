@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla now aims for Full Self-Driving Beta public release in ‘~4 weeks’"
-    excerpt: "Elon Musk is now saying that Tesla is aiming for the wider public release of its Full Self-Driving Beta in about 4 weeks. We are coming up on almost a year since Tesla started testing its Full Self-Driving Beta in its early access program with some customers."
-    publishedDateTime: 2021-08-25T23:37:00Z
-    webUrl: "https://electrek.co/2021/08/25/tesla-full-self-driving-beta-public-release-4-weeks/"
-    ampWebUrl: "https://electrek.co/2021/08/25/tesla-full-self-driving-beta-public-release-4-weeks/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/25/tesla-full-self-driving-beta-public-release-4-weeks/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 104
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla's Full Self Driving system 'not great,' admits Musk"
     excerpt: "Tesla CEO Elon Musk has admitted that the Full Self-Driving system is not that great, adding that the company is trying for a single tech platform for both highway and city streets to make"
     publishedDateTime: 2021-08-26T10:39:00Z
@@ -102,6 +86,20 @@ related:
       - url: "https://img.manufacturing.net/files/base/indm/multi/image/2021/08/MM_259_Thumb.6126549164c0b.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Why the feds are investigating Tesla’s Autopilot and what that means for the future of self-driving cars"
+    excerpt: "Tesla’s Autopilot uses cameras, radar and ultrasonic sensors to support two major features: Traffic-Aware Cruise Control and Autosteer."
+    publishedDateTime: 2021-08-26T14:22:00Z
+    webUrl: "https://www.minnpost.com/other-nonprofit-media/2021/08/why-the-feds-are-investigating-teslas-autopilot-and-what-that-means-for-the-future-of-self-driving-cars/"
+    type: article
+    provider:
+      name: MinnPost
+      domain: minnpost.com
+    quality: 22
+    images:
+      - url: "https://www.minnpost.com/wp-content/uploads/2021/08/TeslaCrash640.jpg"
+        width: 640
+        height: 450
         isCached: true
 
 secured: "Eeav0/Txgfhm5X7G4DIDFqQOQTUk2Bk1YNPGyaTCWJpiYlmb92e4zkV94/y7D3+Nc7jJ2Gzw+vscjPkGTHi3GpkU853G05xtVh/fN4gZpNPmwtYBE4OxzMopLmZLrpap1MFFc8e2wVPRJGi8j5RGM3PtTUAHDDiQvY1KbwXrfhzWjj/lVonhPE8VAXWfXd+xYE+vGOFCGD5VHhsSXnm9x8HoOyBz4P0H3jAq/gF/W8qfrGHSx9EhMdMbTUAnLz3war9u76Jpuo3JDnStZXCebo3ODTH4TZhk8E/Qr9GlJEh13zSlD5LLKCNP5ohg8iZ6V5pTanPGiC76qWM+bog48YfN+2BOQM9gXnmmcXKG3w5Psxq5LOr0b36QrVeXeptlb1gpKxKsXA6jKidyYzo6Eam0JA9GYvjpu+vCL9ikhI3g8yc9JDnb8A0vLQsVOrKJOi1TSAGGy76u5p2M5BSjQqdyXpPYluyWkqYGg+g4gtpduL3E7Gl73pKrShX8SvMdHxBSb84BB9eH0FHO2I9eGg==;UsavZrfWymeb/XnjKJRWgw=="

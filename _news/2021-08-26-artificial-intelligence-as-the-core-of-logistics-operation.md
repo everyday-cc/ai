@@ -7,7 +7,7 @@ originalUrl: "https://www.ctpost.com/business/article/Artificial-Intelligence-as
 webUrl: "https://www.ctpost.com/business/article/Artificial-Intelligence-as-the-core-of-logistics-16412350.php"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 2000
     height: 1333
     isCached: true
+
+related:
+  - title: "Ignore the AI hype, focus on the value"
+    excerpt: "Organizations need to focus on using AI to find solutions to real problems, not on acquiring the newest, shiniest tech."
+    publishedDateTime: 2021-08-30T16:20:00Z
+    webUrl: "https://venturebeat.com/2021/08/30/ignore-the-ai-hype-focus-on-the-value/"
+    ampWebUrl: "https://venturebeat.com/2021/08/30/ignore-the-ai-hype-focus-on-the-value/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/30/ignore-the-ai-hype-focus-on-the-value/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/05/josh-hild-WjZ4eaHq9G4-unsplash.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "bFQtqzKZWwX6IU18JCVxUAmfiAv/7dm7mO7cGfJww5aPOtJuTkMAz9EaVg5aOjfuKd4eh7FIvKxeaCgBJpX7diNlm0KSlwFruZyRKxidC8IOd1WuVbgiJH+/XuSVyPu/nCMFlT4u9lFMFAIJF5juSnYc1CQbMWFppA//FgokvoODY6hPGEZU2zEHtbScog7AFIYJFCLYFm99ii8EBgmRyEzkUMFfx9qe70y2yo04dZjH8yprXlPiqumDzUz6cu5SIiDvrhnLj9Hz7vcFUjesurvC3QAQcDUlqiJpPAdaeqapC+woldQ4E6zvEhB+oYwwgAFNt/1nYIYHLotAJiwKmnEx0lmE+vNJWLxSCgwzZzZLAoKECakttsqBecfdskSoYIux9GK8cmw8Wbk+HhiC8Vd2OI1EINE11Lh9VPJkBd0/io21yw5G0EJTjv3e8PzKYCXB0uPPmDsWwwZWHyFtmdwP8yU+pXyzHNKFYeDs/j0jCjss9q85fCmz61M2O+oAIqAxIamee4Ff9/YNpWYVsA==;hhx6o4Crau2Ba+nwuVmNag=="
 ---

@@ -42,7 +42,21 @@ related:
         width: 1920
         height: 1497
         isCached: true
+  - title: "Mayo Clinic, nference AI studies find antibody treatment may reduce hospitalization in high-risk COVID cases"
+    excerpt: "After kicking off the new year by expanding their year-old data analytics-based research collaboration, Mayo Clinic and nference’s union continues to bear fruit."
+    publishedDateTime: 2021-08-30T15:49:00Z
+    webUrl: "https://www.fiercebiotech.com/medtech/mayo-clinic-nference-ai-studies-find-antibody-treatment-may-reduce-hospitalization-high"
+    type: article
+    provider:
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 18
+    images:
+      - url: "https://qtxasset.com/fiercebiotech/1630336846/GettyImages-1293456793.jpg/GettyImages-1293456793.jpg?L0pfmlFZ8T.JmUAgoPx7LetGIDefZhUs"
+        width: 3500
+        height: 2333
+        isCached: true
 
-secured: "Y2wr7plXns092ScmuIteUiue2yHDG6RRfBjVgRxQh7/4RQfcSnnKZ8/dh/aIbfOKEJiBlAMuVv+ceMQmqnBYKWNx/QttzPY2H/dPsr63wQqt86EtzzL0Dn4/lVOIkqpAmRlEoKZ+QlLwmyMZZlpl3I6S1If7D1+Q7szE+ngaRiPC9QxIDnOhQbaETY1KAmSu5y8U5dd0E5tw8uDjsAHnvHIgR528Yt30f3r76wGjPnKvhAWb39gd6q2YfQVJGog3YuSOKzQW/vDk83CkO3enkFgZ5C7KyfeGNmSOo/nHUZTYt+qxcQIBeP3zR7I2E8E52uUGUnZsInMOjyG9FD1jtqu3SRpByKnqJbT+cK8p2J4=;9BEYu6/TnEuaKGsSrn7Pqw=="
+secured: "MxpiRXyM2vUSnNrztv4B4s/EwvpN2PTLdsJgN8KrV9/OFmmFr6W6n7HImyp9YMDncFwA+lMHhyAHP1TWJOIEBMxdx4O3FfDdKniqsB6C4HVLT0220ZFcQe+Z8RDtTHOS45slDCZFyK6mf59Hrqoc9Uxt1Awdy9ehzxHfVDyI0pGPAzwGkdw7PjTm8BBUTvIykxw2tmk1wnfkw6blKSC7DQYFePSeXGYIUAKtPSZ2XOW6GzXZShBVqLZmxsayGSp/5GO4H0r8yAKFfJ5GlUnOwVXDTCplNGmrWdO1MNVfXsKapBwjC/rWEqJ8B0C8yp8aaFtncQ7BCV6a9zElC+SRp0aCOpGrkKUwPu2TUOiR1rmBc1ScjLy5ByJ7oxgvE84rclLO6uMGNe5fksLWgV/BKXud7HHSjBXK13aUdLmDWDA3grYG8Zvs0EsWf4VDpS7ht/OpqfsDaG7sPCY3dZVyzVniS7j1lF3R3zGEkenxbODhhnOuj8UNE/D+3/shpJo4jo0xZaELHs8cBNKUOccWsA==;1WptvgNj4s+nubKkqotubA=="
 ---
 

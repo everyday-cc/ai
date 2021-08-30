@@ -57,6 +57,17 @@ related:
         width: 628
         height: 385
         isCached: true
+  - title: "C3.ai (AI) to Report Q1 Earnings: What's in the Offing?"
+    excerpt: "C3.ai AI is set to report first-quarter fiscal 2022 results on Sep 1. For the quarter, C3.ai expects revenues between $50 million and $52 million. The Zacks Consensus Estimate for revenues currently stands at $51 million."
+    publishedDateTime: 2021-08-30T16:09:00Z
+    webUrl: "https://www.nasdaq.com/articles/c3.ai-ai-to-report-q1-earnings%3A-whats-in-the-offing-2021-08-30"
+    ampWebUrl: "https://www.nasdaq.com/articles/c3.ai-ai-to-report-q1-earnings%3A-whats-in-the-offing-2021-08-30?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/c3.ai-ai-to-report-q1-earnings%3A-whats-in-the-offing-2021-08-30?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "New Study from StrategyR Highlights a $10.3 Billion Global Market for Artificial Intelligence (AI) in Education by 2026"
     excerpt: "A new market study published b Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence"
     publishedDateTime: 2021-08-26T12:15:00Z
@@ -169,20 +180,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1601532/MCP21174.jpg"
         width: 400
         height: 252
-        isCached: true
-  - title: "C3.ai Inc. (AI) market price of $49.73 offers the impression of an exciting value play"
-    excerpt: "Let’s start up with the current stock price of C3.ai Inc. (AI), which is $49.73 to be very precise. The Stock rose vividly during the last session to $50.25 after opening rate of $47.50 while the lowest price it went was recorded $47."
-    publishedDateTime: 2021-08-25T23:43:00Z
-    webUrl: "https://investchronicle.com/2021/08/25/c3-ai-inc-ai-market-price-of-49-73-offers-the-impression-of-an-exciting-value-play/"
-    type: article
-    provider:
-      name: investchronicle
-      domain: investchronicle.com
-    quality: 29
-    images:
-      - url: "https://investchronicle.com/wp-content/uploads/2019/06/investchronicle-89-e1579508125875.png"
-        width: 450
-        height: 298
         isCached: true
   - title: "New Study from StrategyR Highlights a $4.2 Billion Global Market for Artificial Intelligence (AI) in Social Media by 2026"
     excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Social Media - Global Market Trajectory & Analytics\"."

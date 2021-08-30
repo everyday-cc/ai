@@ -90,6 +90,22 @@ related:
         width: 1000
         height: 581
         isCached: true
+  - title: "Report: At least 18 federal agencies use facial recognition technology"
+    excerpt: "At least 18 federal agencies reported using facial recognition technology (FRT) over the last year and most said they plan to expand their use of it over the next few years, according to a new report by the U."
+    publishedDateTime: 2021-08-30T17:10:00Z
+    webUrl: "https://www.wpxi.com/news/top-stories/report-least-18-federal-agencies-use-facial-recognition-technology/DSNTSFGEOBAD5P3ONW3E2JYT2A/"
+    ampWebUrl: "https://www.wpxi.com/news/top-stories/report-least-18-federal-agencies-use-facial-recognition-technology/DSNTSFGEOBAD5P3ONW3E2JYT2A/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wpxi-com.cdn.ampproject.org/c/s/www.wpxi.com/news/top-stories/report-least-18-federal-agencies-use-facial-recognition-technology/DSNTSFGEOBAD5P3ONW3E2JYT2A/?outputType=amp"
+    type: article
+    provider:
+      name: WPXI
+      domain: wpxi.com
+    quality: 59
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/cmg/CTAAWBLNTVHLRIAUVMFEA6YRPQ.jpg"
+        width: 731
+        height: 411
+        isCached: true
   - title: "Scientists are using facial recognition to rapidly identify disease resistance in grapes"
     excerpt: "Emerging AI technology is helping researchers determine how different cultivars respond to diseases, ultimately helping to breed pathogen-resistant varieties."
     publishedDateTime: 2021-08-26T14:36:00Z

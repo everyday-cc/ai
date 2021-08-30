@@ -1,0 +1,91 @@
+---
+category: news
+title: "Beyond HBM: Samsung Breaks Processing-in-memory Into AI Applications"
+excerpt: "AI applications bring with them many challenges, including data processing and memory. Samsung hopes to take on these issues by combining processing-in-memory with high bandwidth memory."
+publishedDateTime: 2021-08-30T17:00:00Z
+originalUrl: "https://www.allaboutcircuits.com/news/beyond-high-bandwidth-memory-samsung-breaks-processing-in-memory-into-AI-applications/"
+webUrl: "https://www.allaboutcircuits.com/news/beyond-high-bandwidth-memory-samsung-breaks-processing-in-memory-into-AI-applications/"
+type: article
+quality: 39
+heat: -1
+published: false
+
+provider:
+  name: All About Circuits
+  domain: allaboutcircuits.com
+
+topics:
+  - AI Hardware
+  - AI
+
+images:
+  - url: "https://www.allaboutcircuits.com/uploads/thumbnails/hotchips33_samsung_HBM_PIM_thumbnail.jpg"
+    width: 700
+    height: 300
+    isCached: true
+
+related:
+  - title: "Key Ways Artificial Intelligence Can Improve Recruiting In The Hiring Process"
+    excerpt: "A number of companies have turned to AI to improve their recruiting—a task that once required hours of sorting through resumes, calling applicants and scheduling interviews to find the perfect candidate."
+    publishedDateTime: 2021-08-27T17:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2021/08/27/key-ways-artificial-intelligence-can-improve-recruiting-in-the-hiring-process/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2021/08/27/key-ways-artificial-intelligence-can-improve-recruiting-in-the-hiring-process/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2021/08/27/key-ways-artificial-intelligence-can-improve-recruiting-in-the-hiring-process/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 84
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6128f2a81a40fb7e8b49f13e%2F0x0.jpg"
+        width: 1200
+        height: 721
+        isCached: true
+  - title: "State test scores show deep learning impact during pandemic"
+    excerpt: "The number of Minnesota students meeting grade level standards in math, science and reading is down significantly compared to the last time students took tests, in 2019. This is an MPR News morning update for Friday,"
+    publishedDateTime: 2021-08-27T12:18:00Z
+    webUrl: "https://www.mprnews.org/episode/2021/08/27/state-test-scores-show-deep-learning-impact-during-pandemic"
+    ampWebUrl: "https://www.mprnews.org/amp/episode/2021/08/27/state-test-scores-show-deep-learning-impact-during-pandemic"
+    cdnAmpWebUrl: "https://www-mprnews-org.cdn.ampproject.org/c/s/www.mprnews.org/amp/episode/2021/08/27/state-test-scores-show-deep-learning-impact-during-pandemic"
+    type: article
+    provider:
+      name: MPR News
+      domain: mprnews.org
+    quality: 59
+    images:
+      - url: "https://www.mprnews.org/opengraph-fallback.png"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "Flying Robots Picking Fruits: Leveraging AI for Automatic Fruit Harvesting"
+    excerpt: "This article features the mechanism behind flying robots that leverage AI for transforming manual harvesting into automatic fruit harvesting. Click here to know how robots in fruit harvesting can act as fruit-picking robots efficiently."
+    publishedDateTime: 2021-08-27T17:30:00Z
+    webUrl: "https://www.analyticsinsight.net/flying-robots-picking-fruits-leveraging-ai-for-automatic-fruit-harvesting/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 52
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/AI-for-Automatic-Fruit-Harvesting.jpg"
+        width: 900
+        height: 500
+        isCached: true
+  - title: "Big Data And AI In The 7-Step Financial Planning Process"
+    excerpt: "Big data and artificial intelligence (AI) have tremendous disruptive potential in nearly every industry, and financial services is no exception. These powerful technologies are set to change the way in which plans are delivered,"
+    publishedDateTime: 2021-08-26T21:05:00Z
+    webUrl: "https://www.fa-mag.com/news/big-data-and-ai-in-the-7-step-financial-planning-process-63717.html?section=40"
+    type: article
+    provider:
+      name: Financial Advisor
+      domain: fa-mag.com
+    quality: 37
+    images:
+      - url: "https://www.fa-mag.com/images/logo_opengraph.jpg"
+        width: 1200
+        height: 1200
+        isCached: true
+
+secured: "K6+CaYemluQCigiyos32Uq+3YSJStz441w4+GZqUbAx7YrQrKri55+2YAjjaW3TAN2g+TqEEA8q6zc4hjgFnyo5frAG9esPe5ttydMlW6OBJsJNFbZNJ6ZgS/SsMCmJHkNUuTskldUUzjusMaHDpvETMp5J4CQd8PsZNKSPPr7d1CCyDokeMVL9riZ0/KRGzgyPVz5Z6XNK7XGBarpgNhZ6ttJwF2t7PViiBTR5DPLK1Ts8Krop+jp0egJbQKB3PiS2sSb/qR0K1Ga0Nr2Ynv70gG/VibrTjjYZG0rv6ls4tOpZ+JbHq28Oq7eXmm0S1mzcEx9UBZQbueH1izKWyYmorFVxzOZM6nUivhxXyqcA=;KCbFZKQ3+cpYGQjiyjJq0w=="
+---
+

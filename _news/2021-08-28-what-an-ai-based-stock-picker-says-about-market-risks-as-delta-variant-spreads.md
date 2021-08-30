@@ -19,6 +19,17 @@ topics:
   - AI
   - IBM AI
 
+related:
+  - title: "What an A.I.-based stock picker says about the market as delta variant delays 'return to office'"
+    excerpt: "The spread of the coronavirus delta variant poses the biggest threat to emerging-market economies, while a delayed \"return-to-office\" environment is a positive for earlier pandemic winners and residential real estate,"
+    publishedDateTime: 2021-08-30T10:03:00Z
+    webUrl: "https://www.morningstar.com/news/marketwatch/20210830235/what-an-ai-based-stock-picker-says-about-the-market-as-delta-variant-delays-return-to-office"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
+
 secured: "4mTGukpuULG0gRwlWCaJLzoCDU15suTP5AFHFg5PwhE2g45UP4FEYE/hzfkLOZM/TmZ0zX1ytLJRW7HXfCnlYlxxPCkg6tk0mc8fajzuknpfbnzQ975Ij8AQOTukHq5SdxymyP4rfKv9dBgc/U5hI1Yl2kxJOR06d9NTeA9kPymZRCXS2lnFETw35ukEE40BAGsvvwYp/Z6JOyBqfgWM5TA9sSVXBMRSQhtZ4KuSG82o50GxBIqpCTB88qI5VNLzCyF0ROuZlMYR4g/e2MLF9eii/i294YeS8acYs0DWcdtBwWcW/Vcfg1e6x/K+LFbfWFeLLRFp7vMB455DibeqLFeNCR6RDAXEXsQqAqZZgBo=;qT93VEtRoe0xC/jXqgLGQw=="
 ---
 

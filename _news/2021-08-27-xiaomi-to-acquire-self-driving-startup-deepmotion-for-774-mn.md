@@ -67,20 +67,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Xiaomi buys self-driving tech startup to propel EV ambitions"
-    excerpt: "The acquisition of four-year-old Deepmotion, which develops driver assistance software, is the latest in a series of moves Xiaomi’s making to delve deeper into a crowded field."
-    publishedDateTime: 2021-08-25T23:19:00Z
-    webUrl: "https://www.autonews.com/china/xiaomi-buys-self-driving-tech-startup-propel-ev-ambitions"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/377687826.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "xPCB3z6+EaQ0sR/UGxQR1w/gr+rdSiQeijBLfpz5ulgOY7f78rQAEIHISU9Zfmw1uaWhaQpA7rz+WLZS044ENY5JPyD+jx08mCme1n5sLjASrEh8P6dKqbCleyOHVI7BnD5QjAS8j65mt3HCtVGnXnKykuEYCqlpjCGgI0fs1nJ/M+TeLZOXRfmvWfdsr7yxdLumGtTQD3vo1LymDCommBtbhrKeCKrqcAZ/pW4rOpC4PxVFCqrAwN4R8hEUIxE+fy2Nh4bm3QC6gQu9Ce1WbXMrf+oCHw+CSvWNpRQggOwqsubI40CFm+bUT0q0SipQthg9/uPmc55g/Z0U701MMP7xkldoVGabfrq5nJiKX7Q=;NZipxWLZpxbRIIb2edG/bQ=="
 ---

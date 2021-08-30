@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/zebra-technologies-plans-to-acquire-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/zebra-technologies-plans-to-acquire-antuit.ai-quick-facts-2021-08-30?amp"
 type: article
 quality: 67
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -63,6 +63,20 @@ related:
       - url: "https://scg-scmr.s3.amazonaws.com/images/scmr_computer_group.png"
         width: 444
         height: 333
+        isCached: true
+  - title: "Zebra Technologies to Acquire Antuit.ai"
+    excerpt: "Acquisition accelerates Zebra’s Enterprise Asset Intelligence vision by expanding its growing retail and consumer packaged goods (CPG) software portfolio."
+    publishedDateTime: 2021-08-30T17:04:00Z
+    webUrl: "https://www.automation.com/en-us/articles/august-2021/zebra-technologies-acquire-antuit-ai"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 37
+    images:
+      - url: "https://www.automation.com/getmedia/90cf8611-da0b-4073-842a-785e1b44f479/Zebra-news-August-30-2021-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
         isCached: true
 
 secured: "O9c41BPqjkz8sIwzcTckv8IX6S+lvpzv+oMpHZC05pj4OnU5WB4SfK9yUg0LiL/CaO/iaQz1LQlQToLeAbxz9gmhyT1DhSHIPDAcOF8dDKuIKKOqj1eEJ7C17jxLpRtEmKeNs3z/yD/Cz++GvUPdTF0n5yn154gzqEXZ5odzAgKrXxtUJmjX6aWacVFFvfPyOS/deP+51gqi8aTll7Enc+SUIE3sOyqtnNZSrUvedZTQNoE3UdBXKOBuV2H3UOGWzpVCuU7IEexWGB+fLLSNe+2SH9gLQ9mg4t5uhaNc/5+SFPOvY+0YkfFdDFopFvfVzgMvhKSojAws/0cGxDPFNDWSyN4fImHl5cpwtYGJVNc=;K6pJ8GnDB9mwvoza/9nm2g=="

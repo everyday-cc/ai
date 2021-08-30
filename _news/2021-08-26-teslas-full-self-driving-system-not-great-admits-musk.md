@@ -9,8 +9,8 @@ ampWebUrl: "https://www.sentinelassam.com/amp/international/teslas-full-self-dri
 cdnAmpWebUrl: "https://www-sentinelassam-com.cdn.ampproject.org/c/s/www.sentinelassam.com/amp/international/teslas-full-self-driving-system-not-great-admits-musk-551968"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 124
+published: true
 
 provider:
   name: The Sentinel
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla now aims for Full Self-Driving Beta public release in ‘~4 weeks’"
-    excerpt: "Elon Musk is now saying that Tesla is aiming for the wider public release of its Full Self-Driving Beta in about 4 weeks. We are coming up on almost a year since Tesla started testing its Full Self-Driving Beta in its early access program with some customers."
-    publishedDateTime: 2021-08-25T23:37:00Z
-    webUrl: "https://electrek.co/2021/08/25/tesla-full-self-driving-beta-public-release-4-weeks/"
-    ampWebUrl: "https://electrek.co/2021/08/25/tesla-full-self-driving-beta-public-release-4-weeks/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/25/tesla-full-self-driving-beta-public-release-4-weeks/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 104
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Musk says Tesla owners to get self-driving beta button with v10"
     excerpt: "Elon Musk gives another update for when Tesla owners will be able to download the company's semi-autonomous \"Full Self-Driving\" (FSD) beta software."
     publishedDateTime: 2021-08-26T04:03:00Z
@@ -102,6 +86,20 @@ related:
       - url: "https://cdn.redmondpie.com/wp-content/uploads/2021/07/tesla-fsd-1200.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Why the feds are investigating Tesla’s Autopilot and what that means for the future of self-driving cars"
+    excerpt: "Tesla’s Autopilot uses cameras, radar and ultrasonic sensors to support two major features: Traffic-Aware Cruise Control and Autosteer."
+    publishedDateTime: 2021-08-26T14:22:00Z
+    webUrl: "https://www.minnpost.com/other-nonprofit-media/2021/08/why-the-feds-are-investigating-teslas-autopilot-and-what-that-means-for-the-future-of-self-driving-cars/"
+    type: article
+    provider:
+      name: MinnPost
+      domain: minnpost.com
+    quality: 22
+    images:
+      - url: "https://www.minnpost.com/wp-content/uploads/2021/08/TeslaCrash640.jpg"
+        width: 640
+        height: 450
         isCached: true
 
 secured: "PpjD1vFWRH7nKPUfd600yIoHz7ncCTGuZBSYUUXSoU+D3dGjsiEX42W6qeDBAJmaUmqoBSgw3i0qynTryjpE+J7LA8mhdV7E+rBxtEgxq1DEsKiqHb3LUnIamYPhtFUsXu8PwF2e/xkTlcNWOvfh0Ov+IKLBj0wmnrjA1rOZueOiTO2mAkZOemLo4eJpseURo/9I5mWAqox2T6pMrazLPhMyK+f3jVpSCxq5cwpJ6dzhrqzFw+Ah9z4f2cyfb3IdJhRpOVNJeGgMe+c9dREjAZ7BtxskvOxKYL+Ojj0Ze5S3qSAIsOS4zKfdqM2Rj2PFNK+mgTeFFqSXEpZuhr+mjmzoU/TInDz81f4g6RQHUY8=;sfNeFrKYe8is+gpokEXU0A=="

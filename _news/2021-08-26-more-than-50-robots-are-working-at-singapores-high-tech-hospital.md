@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "The robots are coming"
-    excerpt: "Elon envisions his robots replacing much of human physical labor. And if that comes to pass, then he suggests that Universal Basic Income will be needed. He believes that the increased efficiency"
-    publishedDateTime: 2021-08-26T00:15:00Z
-    webUrl: "https://www.redbluffdailynews.com/2021/08/25/the-robots-are-coming/"
-    type: article
-    provider:
-      name: Red Bluff Daily News
-      domain: redbluffdailynews.com
-    quality: 39
-    images:
-      - url: "https://www.redbluffdailynews.com/wp-content/uploads/2018/05/red-bluff-daily-news-site-icon-1.png"
-        width: 450
-        height: 235
-        isCached: true
   - title: "Korea, Singapore discuss mutual recognition of vaccine certificates"
     excerpt: "National Assembly Speaker Park Byeong-seug and his Singaporean counterpart Tan Chuan-Jin agreed on the need to mutually recognize COVID-19 vaccination certificates and to resume a reciprocal quarantine exemption arrangement at a virtual meeting held on Friday,"
     publishedDateTime: 2021-08-30T02:01:00Z

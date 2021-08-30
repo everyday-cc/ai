@@ -65,6 +65,20 @@ related:
         width: 1920
         height: 979
         isCached: true
+  - title: "Zebra Technologies to Acquire Antuit.ai"
+    excerpt: "Acquisition accelerates Zebra’s Enterprise Asset Intelligence vision by expanding its growing retail and consumer packaged goods (CPG) software portfolio."
+    publishedDateTime: 2021-08-30T17:04:00Z
+    webUrl: "https://www.automation.com/en-us/articles/august-2021/zebra-technologies-acquire-antuit-ai"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 37
+    images:
+      - url: "https://www.automation.com/getmedia/90cf8611-da0b-4073-842a-785e1b44f479/Zebra-news-August-30-2021-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
 
 secured: "aMGHaOfH6tMNTKssDVpQpR8ak6UnfFSt+yIPkW4CSXvHnZwhmyqhs3CrRjAWCs2qQPhFLW4/273fEgwEd0GY0nxZ8PN5nxTRc2h+xztuFTWyRo1Rm8+3x0iyQBBXnXK/NCOAc1rg9HdlUQRIEoWievyM6KKv9capE3iUXq4e7caR9nWh/Hwu0tmQuwMMwX71T0C1SIFcBLv2AFWF8QVxN2+EJH81p1XQtDL2O7kFQOaPU6kjHnolL1YRwJfXbPGNgWKrN2ugoF9OSzALvFJfTd8urHenWM6Lm1lLNkdaLOVw9phaW3VxDpZymqvMV6DdAPVr/Or5G7UtB5FEki0+4l3mwF8jA/gjjZ1gUeVCzjk=;XhESWSlcw8BbPBwwbiDN2w=="
 ---

@@ -43,6 +43,22 @@ related:
         width: 2475
         height: 3150
         isCached: true
+  - title: "Stanford AI Algorithm Solves Structural Biology Challenges"
+    excerpt: "Stanford machine learning algorithm predicts biological structures more accurately than ever before. Stanford researchers develop machine learning methods that accurately predict the 3D shapes of drug targets and other important biological molecules,"
+    publishedDateTime: 2021-08-30T17:46:00Z
+    webUrl: "https://scitechdaily.com/stanford-ai-algorithm-solves-structural-biology-challenges/"
+    ampWebUrl: "https://scitechdaily.com/stanford-ai-algorithm-solves-structural-biology-challenges/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/stanford-ai-algorithm-solves-structural-biology-challenges/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 57
+    images:
+      - url: "https://scitechdaily.com/images/AI-Picking-Structures-777x989.jpg"
+        width: 777
+        height: 989
+        isCached: true
 
 secured: "UpV26gt1XkXGE67kAFgZE3leuvWWbF5/Y7grvw0ecMPkmWIqtqIRLeEwa5kiQir5v/Komwozz66UqaQVsIkNJRoaVfLN1hEjnHI9cPBO1DXdEppGgYuSnTCReanSGH/IxXQre1Kb6w4lZn3EfOiGDJKOWCWhBVhZQ6KOqfRsK06SVwwhzLObvNHYs8OsVdUa3m+USdPhxy8yahuAwHGm7epj7PlDQwnSlt4WHVPqzMigLB/9T9b/UasVL7iJXEohQobpEGu/hMk/nZ56scoXfGkcwTXAnbIoH7zPq0b1mtodwu/TONJAC/aLiRx8ru3GUE9YtMp4Czm8NMPpGf/MqP5ayZpzi28uttQZoElE4UE=;Mtml76sPHA9S0ZWOODMqtQ=="
 ---

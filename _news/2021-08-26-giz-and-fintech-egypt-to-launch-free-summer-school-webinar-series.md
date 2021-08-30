@@ -39,6 +39,20 @@ related:
         width: 1279
         height: 640
         isCached: true
+  - title: "Open Finance Is All Set To Become The Next Frontier In Fintech"
+    excerpt: "The collaboration between traditional banks and fintech companies in Open Finance presents major opportunities"
+    publishedDateTime: 2021-08-30T17:04:00Z
+    webUrl: "https://www.valuewalk.com/open-finance-next-frontier-fintech/"
+    type: article
+    provider:
+      name: ValueWalk
+      domain: valuewalk.com
+    quality: 39
+    images:
+      - url: "https://valuewalk.b-cdn.net/wp-content/uploads/2021/08/Fintech-1.png"
+        width: 1200
+        height: 1067
+        isCached: true
 
 secured: "cLrsxQkBFOtuo8xRUXF4VdH2TsWYY5CbLGWiNTHkNFc55Nr+3Af2mRKzjZnwCS3rla01dfw8uW+GHvAklfj8Iw7lGsRo4eJfpYD5KeOygfd9jrUvvIhAKe3Z040OQn+YhvBYqvHLr7JewMvbqG2DW/T0suEteU2Yi2JAK71fZbtn063BMriFicqWq8QvgaZASVd0clJvKGcjJuRIBiNEQe5mospHgqA6oO/1GEVIWdgqkhHklT4uX+24XeCPQKYFJ3cV4jWUuZKsjL/vr2vICMIgumeEUZJUf187AsY/Js/u01s9CVn6D++oEc5D6WEzCiQ0Th9h4edBAmDknb1RwIhhK/UPib9GqBU+dO1d8uY=;P8gPdr9rb+5TraVGScpRdA=="
 ---

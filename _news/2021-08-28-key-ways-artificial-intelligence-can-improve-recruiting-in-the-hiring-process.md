@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2021/08/27/key-way
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2021/08/27/key-ways-artificial-intelligence-can-improve-recruiting-in-the-hiring-process/amp/"
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/AI-for-Automatic-Fruit-Harvesting.jpg"
         width: 900
         height: 500
+        isCached: true
+  - title: "Beyond HBM: Samsung Breaks Processing-in-memory Into AI Applications"
+    excerpt: "AI applications bring with them many challenges, including data processing and memory. Samsung hopes to take on these issues by combining processing-in-memory with high bandwidth memory."
+    publishedDateTime: 2021-08-30T17:00:00Z
+    webUrl: "https://www.allaboutcircuits.com/news/beyond-high-bandwidth-memory-samsung-breaks-processing-in-memory-into-AI-applications/"
+    type: article
+    provider:
+      name: All About Circuits
+      domain: allaboutcircuits.com
+    quality: 39
+    images:
+      - url: "https://www.allaboutcircuits.com/uploads/thumbnails/hotchips33_samsung_HBM_PIM_thumbnail.jpg"
+        width: 700
+        height: 300
         isCached: true
   - title: "Big Data And AI In The 7-Step Financial Planning Process"
     excerpt: "Big data and artificial intelligence (AI) have tremendous disruptive potential in nearly every industry, and financial services is no exception. These powerful technologies are set to change the way in which plans are delivered,"
