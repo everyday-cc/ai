@@ -2,7 +2,7 @@
 name: "Prophesee"
 overview: "Prophesee (formerly Chronocam) is the inventor of the world’s most advanced neuromorphic vision systems"
 type: "profile"
-heat: 71
+heat: 58
 
 website: http://www.prophesee.ai/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Prophesee_ai"
   url: "https://twitter.com/Prophesee_ai"
-  followers: 1369
+  followers: 1370
 
 size: 51-200 employees
 yearFounded: 2014
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=L7DsXXUyRis"
 
-secured: "FKoPYbkSWUOmLBAJxjzR0eGmGNPTkWiXkQkXjkpxuzYqNJ95OuGhyi6BEMytXYp0INeUeFcMW4aG4qPjO3eZ6DGOY5OUao0uosTFiSEHMjlgXZpEiI6ReiNKBBR27vMo+c5qhjct1odgCrK6pS4/eEsmIOCFxKLpmptw2o/DvDKAbvlSPHyRicXsFKbKhzlZ3HWLNUh1KZ+Pgbd4kHy1meJulsXG31lA0zp3zAzTK0fRl4cX96Bbh+nWUTZsvYtMFMl2vAioS8JKI3/EtScQad8jh79Q5R4cDoG7+f0CLQv1q2pV06pXlHwTgzIGtQZEwEGH5qg/WtpD+ipK9+9VwUrTMe3o/NXzYfEpME/InZ/OZVgkiUCAWJGwI2oqxsHUY3Fk6DnQwy0ZjTLJzgb5xmJrI/hPC3H91zN4/Z0LTHo=;pmZXyPWe55TMpE7xuOXlPw=="
+secured: "FxI1Vh6UHIcyi0ztr7Hh7QstQrqukbs/rHkHrm8IIyY1nWT83NIDrypicKesFg7CcFf2pbEiCjtggZOKxJj07mtiqHR8+KaQ8PTtLlS9itbE6QydmlYNT4y/lfYZ6VjySxAWf52VYi30RVIPrAqpmoo6E00Kpwv0NvrST7XyUaAw2Xm5lemdpvYws8GHNuUXrhkxnMt0ofZZLhWH4wC34/vXwJRu/GGCMGDKsaoHU0LeXsiGOu+KD+5/Ty/s56umERm90VA8JmU85hHplkJVYZEPM0OiEJLBUv4HlK7Ou+sxL+mF/ZZnnQzg100SYcpxqcLpXRmzF1LzCBmhTlp/RbU+sMGioEb8AwSfVWR8GYbA9AXNyq2dfO30ihV1mfLCOhmzHcHvW+HjnuvluDpfe+s+tRxeXjbd7bCOC6l81Do=;OqroZtfFfOGz5M41KS1b+g=="
 ---
 

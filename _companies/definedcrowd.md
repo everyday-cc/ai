@@ -2,7 +2,7 @@
 name: "DefinedCrowd"
 overview: "DefinedCrowd Corporation is a company based in Seattle, WA, USA, with R&amp;D centers in Lisbon and Porto, Portugal, and Tokyo, Japan.  We offer efficient data workflows that enable data scientists to collect, synthesize, enrich and structure training data. We do this by combining human-in-the-loop, automatic tools, and machine learning capabilities to accelerate enterprise machine learning and Artificial Intelligence initiatives training and modeling. Our value proposition is 95-98% quality, speed (5-10x faster than competition) and scale (70 languages and dialects covered).  With strong expertise in speech and natural language processing technologies, the company has been serving top AI companies and Fortune 500 companies since day one."
 type: "profile"
-heat: 64
+heat: 58
 
 website: https://www.definedcrowd.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "definedcrowd"
   url: "https://www.twitter.com/definedcrowd"
-  followers: 1823
+  followers: 1824
 
 size: 51-200 employees
 yearFounded: 2015
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "Hw7voSTqjCLuEb2RYujlGiz8m/Jl5aCvdWgf9WTORM7ZFptMuxAizIh/IZUEHFiaaH36DXvdVyddofUKV2WDPGUoMa2joGx1ElHk/FJUWM+ltFbiHgFflFQsIU+xMDCR7Aet31PqHp+xXWbHwOzbdjMQYFH4FBLF/qt7qxpNY83G6XUn2T1sd8dnirCvDFB9faWSGDbIaBBhNRxD2/+R4T4h0CM1d67kAmSQ2j1UC1ozsnaWUEudw7jt7wC8HQ/Dzk/I7I7LsMWSWP+ZQ6lMwZlDjNapGkKeDZX7IpVZs7Z+pPzcM9+bH8COyQdVyVIbofywZUB8agYafA94max5Y1bS2/FQWSQ0UU3F4FA0DK2mudJlAQ04OIuFcQTCss+qKnXh08MpueqpxnFxwOIP+QkGRPJ0y9YaKjePRYbKo/w=;zUAYrmuxoP4NKO3LiY9ljA=="
+secured: "+xAgM840P+oOF4KmZeStHDkRmzuhzZ7d83EoXBOEsn8OOlVh5uo/BnjtkUlabZzKtgGAeK5tekc1IjcjSEHW6d3gx1P6p+Ob+WwlHCyBnoFKfOdLOvYnzCp5Yvo+7g1CtznNDS6//21Va5wfpaRiW7Y1Z7tTpDn3IY1dYNl8vqflywsM6gfUfz0Fv1W3NNUBX5sRN3mZxXsiuEjSV4XfFK8Np7XPG0yHQ1oLQ/jeSRv1IHkM8q8RZbkp9BuXuJBIkg9VhnEcwtbRb6xxiLrwkRmOX/PDW840cNHpc+4pabgtTEX8v3BL5bA5f4u84kfAkP85OORGj4BB0BYpksE6kipMB8HKxRHRg9IaFUr8icLqVi8eUfH2EUy+a3mpPKR1CjXxD3NcyLkbOMzIcDTbiD1TAk6uArqq3OaX0CotNJQ=;PYzqVkoB5oD9taWv1PlXuQ=="
 ---
 

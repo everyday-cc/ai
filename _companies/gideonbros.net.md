@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "GideonBros"
   url: "https://twitter.com/GideonBros"
-  followers: 551
+  followers: 552
 
 size: 11-50 employees
 yearFounded: 2017
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=Dud1F65jkjY"
 
-secured: "YBAhixAAkYhAGkN/i6AeSfCNWxZ9zp/WBeQBnQuhO7wkwkn20yeeDGeQ45ck3SZqL0/1JyT4UvE0jDY56X5FYFJBlQHoqoVzxIFRC2KTY+JGgT2qBXCatencwb8tbyMycqijTaZFx3mkf+uJFoT0R5VjX8Qd1crBAzSMuHJlsRLaU4Vn0L1KWFBWatVQHLPswYE6/y/+oo9GSvHdNlJf715otNgAjN99RuGy2gF4C0qSzC7LBAYQmOpcubnG7UxnD4t/zzFevAOXMIDFBqLDTPpuTSUOlyanHtPdDgOiwfMJ0Nl6iQEHaGQzeCo5cR4YIYdMxu37CCzzwBpFegL7c+Ly+AwwJiOXgmz4Fi1fn9IOJmEy7cKcCbyd5eVpRQwbiJTb5rN/rY/Rge2tnAOnLA==;k3CXqgpnnEWmwwfctLMHfQ=="
+secured: "gmXbeOQJz2CMInA9MutY6rYz3TaMAQCTIfJpYTJ9TvD3K5m8BjrOD45gOPfcP2WjEcstHcHfLZ28jLuadnveh7p1RJlRwwHoUYelz6B1Io61S1ofq89E1YQ8UsFp3kH+/Tm441AbulntY16gh3410x01pUhjgJSKxdm5SzcKygmsL4YifG+tqksxsMXqW2jFvDUkFW8YsnYg6XpJr5N5/vf3mHXbqLYwIENaM2xyVyx2Htk0k3s3pZXuqXXKDOAieniYYPel8cqwuWJMI0BpgFNe9VfjgX1C7+kmZnEEvI0h0+bFlqwZBRjU7khlziYOD9Vzr2xhyU5uiunaBTumGYTWgl5DERtK4D+9o4uc0Tj8mwRRlL79CV8cDBWokSagIMRyXoWCwycedWDcorsLsA==;fJ6u1OZ+gn6zNg0LIJ6Ymg=="
 ---
 
