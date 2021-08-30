@@ -7,7 +7,7 @@ originalUrl: "https://www.thefastmode.com/expert-opinion/20640-how-instant-cyber
 webUrl: "https://www.thefastmode.com/expert-opinion/20640-how-instant-cybersecurity-data-intelligence-will-stop-ransomware-attacks"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -26,16 +26,16 @@ images:
 
 related:
   - title: "The 'Hyperscale SOC' and the Minds Behind It: A Machine-learning Foundation for Effective Cybersecurity"
-    excerpt: "With a plethora of data, configurations, and potential attack vectors across the modern midsize enterprise, the sheer volume of available information can be overwhelming for those tasked with securing their organizations."
-    publishedDateTime: 2021-08-29T17:00:00Z
-    webUrl: "https://www.infoworld.com/resources/223485/the-hyperscale-soc-and-the-minds-behind-it-a-machine-learning-foundation-for-effective-cybersecurity"
+    excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
+    publishedDateTime: 2021-08-29T21:00:00Z
+    webUrl: "https://www.computerworld.com/resources/223485/the-hyperscale-soc-and-the-minds-behind-it-a-machine-learning-foundation-for-effective-cybersecurity"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 38
+      name: Computerworld
+      domain: computerworld.com
+    quality: 8
     images:
-      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
         width: 300
         height: 300
         isCached: true

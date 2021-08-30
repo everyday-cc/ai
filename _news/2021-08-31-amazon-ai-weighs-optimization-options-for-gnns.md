@@ -8,8 +8,8 @@ webUrl: "https://www.nextplatform.com/2021/08/30/amazon-ai-weighs-optimization-o
 ampWebUrl: "https://www.nextplatform.com/2021/08/30/amazon-ai-weighs-optimization-options-for-gnns/amp/"
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/08/30/amazon-ai-weighs-optimization-options-for-gnns/amp/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/04/ab_network-graph-1024x1024.jpg"
@@ -26,6 +27,6 @@ images:
     height: 1024
     isCached: true
 
-secured: "MhJbAwxBcs0Ry8itgInBZKfSKMabwMX5vzFIocbwqGpZ5rWoO/ND8qfEkubnxNe7Ny27wXzQmT7ue+CkrFrKVH/wxVc9JH0IHlHuBm4l+l5x8AbfSIjxhdoFXPv5Ov1m4tMgc0AZdwajtI7nQdRY7dgy95rw9ur3gxFCyfqFWgVsd63SRRqnIBVYbCVXinI+dL9Quz9cXtlwG+A4XNL12OzVJF2PXbfDKMRGY9FzrzmnuIr6X8TqXpQuQbEjvBQXNMgrC0PvrTGJfjZJLrLskydFCJM/07w/a3x6aX9DGC+fdg3Sq+97rFpil32Ko2ZsTC6DITdCuo9TxoXSO5qfrQ7N54Dc6QbjCotiCc8/sus=;A+PYx1QcicYDFhKZVaF7kQ=="
+secured: "Ql0r+2zHaRM6ABShw3QDQ5KyR2hPkzgWtb+HLhRr2iayTYbZvgtmPtCQzMqDOBwAQUykzOo9jmHQrqoz/yEfMt//AmqtD3jyqCs8vjM+gRsjjSmIJmSXZN559boE8c1M5e0tiduAqpF9QBikoMh/iIXexgxUQl49O8UOkaMHJMCu4QOJ++jTnlDDtD1ITpvorctGe0xRIkEyXlssu5mxsDIUhiNLnAb1zGkqByOGUhpv3Io1RxbGplMwOxCA0VEA8YqqseX/VJNW3OjpFiXPWe4T2hXxECpnLNNiJeMSlvSTa1noeQlELgQxczvMJQ2kDaSagJLpZmYn8afsMNDkWn/WWRMhnktwkk2A72lT6Tg0/kF3fulZ2SzCYd9Ix2d/nUW3ZTAz5WXrPifVsJIwomJT8QSr2NGjx+XytZ1fR5oNmV+sEyJKLsBjOhZ9vqp/f89TdkDPVz0n/StVlHnHWJDcE9PQi+++I7yWFmxX3zAQwIInuiQtOfcgNNX+Z0Mpw94no4Ac7U4SjU+Mpaw02w==;fmDgQsj7WFjk2gHMOBdA5Q=="
 ---
 

@@ -6,8 +6,8 @@ publishedDateTime: 2021-08-30T19:56:00Z
 originalUrl: "https://www.bbntimes.com/science/the-need-of-a-real-world-artificial-intelligence-in-the-pandemic-era"
 webUrl: "https://www.bbntimes.com/science/the-need-of-a-real-world-artificial-intelligence-in-the-pandemic-era"
 type: article
-quality: 39
-heat: 39
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -17,6 +17,8 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
+  - AI in Robotics
 
 images:
   - url: "https://www.bbntimes.com/images/articles/global-economy/The_Need_of_A_Real-World_Artificial_Intelligence_in_The_Pandemic_Era.jpeg"

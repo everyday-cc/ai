@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/30/ignore-the-ai-hype-focus-on-the-v
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/30/ignore-the-ai-hype-focus-on-the-value/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 99
 published: true
 
 provider:

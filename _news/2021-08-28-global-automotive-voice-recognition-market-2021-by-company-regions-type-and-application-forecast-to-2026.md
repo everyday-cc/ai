@@ -49,17 +49,6 @@ related:
         width: 390
         height: 220
         isCached: true
-  - title: "Deep Learning in Machine Vision Market Report Covers Future Trends With Research 2021-2027"
-    excerpt: "Deep learning technology is seeing many appealing advancements in several machine learning sectors, involving the reinforcement learning, natural language processing (NLP), ML frameworks (Pytorch and TensorFlow),"
-    publishedDateTime: 2021-08-26T16:32:00Z
-    webUrl: "https://www.globalbankingandfinance.com/deep-learning-in-machine-vision-market-report-covers-future-trends-with-research-2021-2027/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/deep-learning-in-machine-vision-market-report-covers-future-trends-with-research-2021-2027/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/deep-learning-in-machine-vision-market-report-covers-future-trends-with-research-2021-2027/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 31
   - title: "Global AI-based Clinical Trials Solution Provider Market (2021 to 2028) - Size, Share & Trends Analysis Report - ResearchAndMarkets.com"
     excerpt: "The global AI-based clinical trials solution provider market size is expected to reach USD 5.2 billion by 2028 and is expected to expand at a CAGR of 21.7% over the forecast period. Unlearn.AI, Inc. Antidote Technologies,"
     publishedDateTime: 2021-08-26T13:30:00Z

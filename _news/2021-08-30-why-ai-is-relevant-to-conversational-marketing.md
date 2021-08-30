@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/382318"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/382318"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -75,6 +75,15 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Cognigy Launches Conversational AI Analytics Suite to Deliver Actionable Insights From Conversational Data"
+    excerpt: "The Cognigy Insights analytics suite will enhance the capabilities of the Cognigy.AI platform to make sense of conversational data and facilitate data-driven optimization SAN FRANCISCO-- ( BUSINESS WIRE )-- Cognigy,"
+    publishedDateTime: 2021-08-30T20:32:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210830005479/en/Cognigy-Launches-Conversational-AI-Analytics-Suite-to-Deliver-Actionable-Insights-From-Conversational-Data"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "75AOvEEQ7Amc9OfIQ99LjwcfPqApKa8M5gl9nNY9xs6MTUHpGSk+eUXT5P4t3xsQUbh2jEs3/q2z3/+Rdh5QzuaHIOOL4zLJ1bVFKZI8KLmJKDEBinJArgtzY83kJYyX8Lg+eiHrobT1VXRfS19amd07Qup9iFZUN6FBHzsgCe7ef+WvFaJmzM901dgvO2S2T8FLvPLpIlk+qkTMwp4S6+neCE6/6cHf8q9DRZqaKuy2G4uA2E+iyT/vL/Q6cj3zB7vW3oTGa2Bs71hCquc3SlIhikVtkCQac0qmhNUwRPdHgcLMrwU9Fq0nTuQjUMiRf9M7RXGRZTcsNb09f9vggxVUw5r7ncgDrstyR/0zKI0I9w9JBcwwtZBOtDfw9aK9LMkEcy4x2oG34QSV3dlDruJ6c/qA8eLTDNyO8GEZ8GDM2c0LioFq4iyJ8VJUQlXccPytr5eEQlB74Qd37lDQZ/6ibszSdFiNGwHJ7xhTnNmkC2+5FomlGCpfPPwdbe38V1JRRAGlye7tALxPy4YdPw==;uX/HUiAmQ5LnJSDtgTQb6Q=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2021-08-30T19:28:00Z
 originalUrl: "https://siliconangle.com/2021/08/30/zebra-technologies-acquires-ai-forecasting-provider-antuit-ai/"
 webUrl: "https://siliconangle.com/2021/08/30/zebra-technologies-acquires-ai-forecasting-provider-antuit-ai/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/image-2.png"
@@ -50,6 +51,22 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/08/Zebra-Technologies-AI-acquires-Antuit.ai_-457x274.jpg"
         width: 457
         height: 274
+        isCached: true
+  - title: "Zebra Technologies to Acquire AI Software Firm Antuit"
+    excerpt: "In a move it said would enhance the demand forecasting and pricing capabilities of its store execution solutions, Zebra Technologies intends to acquire antuit.ai, a provider of AI-powered merchandising software for the retail and CPG industries."
+    publishedDateTime: 2021-08-30T20:16:00Z
+    webUrl: "https://www.winsightgrocerybusiness.com/technology/zebra-technologies-acquire-ai-software-firm-antuit"
+    ampWebUrl: "https://www.winsightgrocerybusiness.com/amp/technology/zebra-technologies-acquire-ai-software-firm-antuit"
+    cdnAmpWebUrl: "https://www-winsightgrocerybusiness-com.cdn.ampproject.org/c/s/www.winsightgrocerybusiness.com/amp/technology/zebra-technologies-acquire-ai-software-firm-antuit"
+    type: article
+    provider:
+      name: Winsight Grocery Business
+      domain: winsightgrocerybusiness.com
+    quality: 57
+    images:
+      - url: "https://cdn.winsightmedia.com/platform/files/public/2021-08/background/400x600/antuit1.jpg?VersionId=ykWLYXCE0R31U_UXOc1fHHbPm5ZqlpP."
+        width: 400
+        height: 210
         isCached: true
   - title: "SAP Acquires AI HR Platform"
     excerpt: "SAP is enhancing its human experience management (HXM) software suite via the acquisition of artificial intelligence (AI) technology:"
@@ -94,6 +111,6 @@ related:
         height: 313
         isCached: true
 
-secured: "bt1BZG1sEglvzipI5B38KIMZNgvq0KLJ/WvqyVYWIetLKSrZY+lwmQkD+xGItgj2LD6djC2jY5ZRuoOUiBit/xFxPsKXAsSrgsHDTavO6OnSB4ybQwU5CozR2QRX3dfSljEbzl7X3u+MELWyHwDxgLu9k/Za24y75DG6ZJSNMn1Wkr5LwPGhoRykaVqWIokFxRE/5H5eYt9LkVF+UeY4jULMT8tUeY14Hxgj2SH511XqOs/g1+blSi2t3SmVx5tde41MFT7Q+8bRdC8NHb6yWIuHnzDvwJHiQccPvdrAZIjgcKuwrTOUa+0piBZ6Jq5Ym4piDkfG+jC8jqp2ULzADTRvlR2Po5FImA0D5dpyce4=;5BeVn5JqAvc3wVvrE4hKHw=="
+secured: "V10bmqPbfgku2jUHrxbPNwrobF9S0ZSQvqljOxXC9u8xZmPEPBF0beMjBKN/ccZB4gj8aGmbF8XBG/m8SfBfxsFrHQHNejyQtLI8rCVtix+MVedFnwm5r6Uy6hGZhpzVqx5xMpvnGjhn/Y4k4u3WR0X44EdF/B7YBJxxZ+ShRPjFtaZc1Djzistd2IiaUxEBhxL6U9FRQpqSEvm/BaVtSW15kOC0+ly/8ZWMSDZQHeHt0exznNO0IzQO9in5ia/OzBxSk8lk7Rg7l9f9m3Ew4lD+utcV/HoEdrWUm+p+nkro/DmNeI/52rxlNIw0I8JXqpifGO5zob8y61vbUdGvF3rEMN9Po36g//hv+GME3q4Er7n18Yjea0DWkDSMWx/ERHAUCm2hbyzFmgooflXlPWmoc+RD13Es8EDJDgSIF9wvoJQ7Gnnks3p111mLbgUU0KbdctmTGh7ngoJGmmCwRadLfba23piWX7AjiwiIMR+pwesSRPWcHeEdcb2aIKLIwqulPcbCo67jGpC+YVTZSQ==;RFUPTvnKYVOea0Whl23k8A=="
 ---
 

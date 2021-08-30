@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/28/we-underestimated-iot-security-le
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/28/we-underestimated-iot-security-lets-not-make-that-mistake-with-robotics/amp/"
 type: article
 quality: 119
-heat: 120
+heat: 119
 published: true
 
 provider:

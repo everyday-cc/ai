@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - IBM AI
 
 related:
   - title: "What an A.I.-based stock picker says about market risks as delta variant spreads"

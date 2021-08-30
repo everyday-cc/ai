@@ -6,7 +6,7 @@ publishedDateTime: 2021-08-30T16:43:00Z
 originalUrl: "https://www.eurekalert.org/news-releases/926808"
 webUrl: "https://www.eurekalert.org/news-releases/926808"
 type: article
-quality: 9
+quality: 11
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 related:
   - title: "Artificial Intelligence approach helps identify patients with heart failure that respond to beta-blocker treatment"

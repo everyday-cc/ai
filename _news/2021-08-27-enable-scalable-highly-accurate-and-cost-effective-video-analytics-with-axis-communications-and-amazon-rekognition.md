@@ -74,6 +74,20 @@ related:
         width: 770
         height: 578
         isCached: true
+  - title: "Army Testing Facial Recognition in Child-Care Centers"
+    excerpt: "Live video feeds of daycare centers are common, but the Army wants to take their kid-monitoring capabilities to the next level. Under a new pilot program being rolled out at a Fort Jackson, S.C. child-care center,"
+    publishedDateTime: 2021-08-30T20:32:00Z
+    webUrl: "https://threatpost.com/army-facial-recognition-child-care/169036/"
+    type: article
+    provider:
+      name: Threat Post
+      domain: threatpost.com
+    quality: 39
+    images:
+      - url: "https://media.threatpost.com/wp-content/uploads/sites/103/2020/08/05143851/deepfake-fireeye.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Athreon Launches Front-End Speech Recognition Solution"
     excerpt: "Athreon, a leading business and knowledge process outsourcing company, announced today the launch of its new front-end speech recognition solution for healthcare. Athreon's speech recognition empowers physicians to focus on patient care versus administrative,"
     publishedDateTime: 2021-08-26T16:39:00Z

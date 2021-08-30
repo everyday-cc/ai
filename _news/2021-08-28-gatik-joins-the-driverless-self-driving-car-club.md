@@ -9,7 +9,7 @@ ampWebUrl: "https://auto.hindustantimes.com/auto/news/gatik-joins-the-driverless
 cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/gatik-joins-the-driverless-self-driving-car-club/amp-41630150506346.html"
 type: article
 quality: 59
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F9%252F4%252F6%252F0%252F36120649-2-eng-GB%252FSD2.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
         width: 1024
         height: 512
+        isCached: true
+  - title: "A secret weapon for self-driving car start-ups - humans"
+    excerpt: "Self-driving start-ups such as Cruise and Pony.ai have begun testing their driverless cars in some parts of California in the past year, with an additional feature: human operators.. Read more at straitstimes."
+    publishedDateTime: 2021-08-30T21:00:00Z
+    webUrl: "https://www.straitstimes.com/tech/tech-news/a-secret-weapon-for-self-driving-car-start-ups-humans"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 24
+    images:
+      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/08/30/mi_selfdrive_300821.jpg?itok=OUMWk11o"
+        width: 763
+        height: 509
         isCached: true
 
 secured: "ftv2o8Y7H6L0kf6EJHubMAshwdn8sL0Fl4+NGCTCnNLfqcRU/XI5myIhNOXVD1blfCqovY/0HYxFaxxP6GPvT8va7W0qFcOZ7DguRB9T7kVCBlWQ2/SCHi76JFK1Wn1QPSy0nG8hikvl0qMyIOyIxbyt7cLYSbWlKEJFk0mSsBPWTQ1zCgCaSPSXYgzXnHFFQFBTJZPqORqUqFwcU+8S1cIIKKKAsLRn6fUGuidcn2R+kusrotPWR6JMHMsdW4D7CuU0IgsuBwTLUF78dHj7KM3YL0SI4rh2p7tnQWmETFDmicSBdWaamfHrfK7rxufv+mlKAcMibr1Qk67ecA0KotxyiPUF+dLx4Eyh53NOPhF6aKuW9Cbmd5vm/dvqR5ohEa0sIryJfkwjE8OyuC5OmicyQ7U49bCXxFz8xA1+8I1ilfGXZO2IEBWLOnFYm0fd4onDdXinC3W4+6ml2/lRFZWHuECNmqtYJY5XzFI3UzMVwWkB89uKTBep26wzgs9ttUeZIHg2/MbP680yAaYwGQ==;gzQ9ktMjiskziHDiw1xY/g=="

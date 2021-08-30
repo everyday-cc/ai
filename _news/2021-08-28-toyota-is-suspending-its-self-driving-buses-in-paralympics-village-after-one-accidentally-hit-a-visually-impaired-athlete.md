@@ -61,6 +61,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Toyota resumes self-driving operations at Paralympic Games; CEO remains skeptical of autonomous progress"
+    excerpt: "Following a collision with an athlete last week, Toyota has resumed operations at the Paralympic Games with new safety measures in place."
+    publishedDateTime: 2021-08-30T19:58:00Z
+    webUrl: "https://electrek.co/2021/08/30/toyota-resumes-self-driving-operations-at-paralympic-games-ceo-remains-skeptical-of-autonomous-progress/"
+    ampWebUrl: "https://electrek.co/2021/08/30/toyota-resumes-self-driving-operations-at-paralympic-games-ceo-remains-skeptical-of-autonomous-progress/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/30/toyota-resumes-self-driving-operations-at-paralympic-games-ceo-remains-skeptical-of-autonomous-progress/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 72
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Toyota-E-Pallette-Paralympics.png?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Toyota suspends all self-driving vehicles at Paralympic Games after collision with athlete"
     excerpt: "Toyota Motor Corporation announced the immediate halt to all e-Palette self-driving pods at the Tokyo Paralympic Games following a collision."
     publishedDateTime: 2021-08-27T17:58:00Z
@@ -487,6 +503,20 @@ related:
       - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2021/08/e21.jpg"
         width: 800
         height: 500
+        isCached: true
+  - title: "Toyota Paralympic self-driving incident: operator and car at fault"
+    excerpt: "Toyota has re-started its e-Palette autonomous shuttle service at the Paralympics after making a number of adjustments to how the self-driving shuttles work, including beefing up operator training."
+    publishedDateTime: 2021-08-30T20:49:00Z
+    webUrl: "https://www.stuff.co.nz/motoring/126233072/toyota-paralympic-selfdriving-incident-operator-and-car-at-fault"
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 24
+    images:
+      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/u/h/v/5/image.related.StuffLandscapeSixteenByNine.1420x800.235m28.png/1630360720910.jpg"
+        width: 1420
+        height: 798
         isCached: true
   - title: "URGENT: Toyota self-driving buses in Paralympic village to restart Tues."
     excerpt: "Toyota Motor Corp. said its self-driving buses will start running again in the athletes' village in Tokyo on Tuesday with improved safety measures after they have been stopped since an accident last week involving a visually impaired Paralympian."

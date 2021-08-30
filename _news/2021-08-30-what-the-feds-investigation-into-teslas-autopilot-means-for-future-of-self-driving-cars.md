@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Musk says Tesla owners to get self-driving beta button with v10"
-    excerpt: "Elon Musk gives another update for when Tesla owners will be able to download the company's semi-autonomous \"Full Self-Driving\" (FSD) beta software."
-    publishedDateTime: 2021-08-26T04:03:00Z
-    webUrl: "https://thedriven.io/2021/08/26/musk-says-tesla-owners-to-get-self-driving-beta-button-with-v10/"
-    ampWebUrl: "https://thedriven.io/2021/08/26/musk-says-tesla-owners-to-get-self-driving-beta-button-with-v10/amp/"
-    cdnAmpWebUrl: "https://thedriven-io.cdn.ampproject.org/c/s/thedriven.io/2021/08/26/musk-says-tesla-owners-to-get-self-driving-beta-button-with-v10/amp/"
-    type: article
-    provider:
-      name: thedriven
-      domain: thedriven.io
-    quality: 59
-    images:
-      - url: "https://thedriven.io/wp-content/uploads/2021/06/fsd-beta-tesla.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Tesla's Full Self-Driving Tech 'Not Great'"
     excerpt: "And based on comments made last year, Musk gave the impression that full self-driving was coming up fast. That’s why it was even more surprising when Musk Tweeted on Monday that Tesla’s latest full self-driving beta version 9."
     publishedDateTime: 2021-08-27T14:42:00Z

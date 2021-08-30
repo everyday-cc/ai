@@ -38,6 +38,36 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 67
+  - title: "Zebra Technologies to Acquire AI Software Firm Antuit"
+    excerpt: "In a move it said would enhance the demand forecasting and pricing capabilities of its store execution solutions, Zebra Technologies intends to acquire antuit.ai, a provider of AI-powered merchandising software for the retail and CPG industries."
+    publishedDateTime: 2021-08-30T20:16:00Z
+    webUrl: "https://www.winsightgrocerybusiness.com/technology/zebra-technologies-acquire-ai-software-firm-antuit"
+    ampWebUrl: "https://www.winsightgrocerybusiness.com/amp/technology/zebra-technologies-acquire-ai-software-firm-antuit"
+    cdnAmpWebUrl: "https://www-winsightgrocerybusiness-com.cdn.ampproject.org/c/s/www.winsightgrocerybusiness.com/amp/technology/zebra-technologies-acquire-ai-software-firm-antuit"
+    type: article
+    provider:
+      name: Winsight Grocery Business
+      domain: winsightgrocerybusiness.com
+    quality: 57
+    images:
+      - url: "https://cdn.winsightmedia.com/platform/files/public/2021-08/background/400x600/antuit1.jpg?VersionId=ykWLYXCE0R31U_UXOc1fHHbPm5ZqlpP."
+        width: 400
+        height: 210
+        isCached: true
+  - title: "Zebra Technologies acquires AI forecasting provider Antuit.ai"
+    excerpt: "Antuit.ai will expand the company’s SaaS product ... market through the recently announced $290 million acquisition of startup Fetch Robotics Inc, which makes robots for fulfillment centers."
+    publishedDateTime: 2021-08-30T19:28:00Z
+    webUrl: "https://siliconangle.com/2021/08/30/zebra-technologies-acquires-ai-forecasting-provider-antuit-ai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/image-2.png"
+        width: 768
+        height: 432
+        isCached: true
   - title: "SAP Acquires AI HR Platform"
     excerpt: "SAP is enhancing its human experience management (HXM) software suite via the acquisition of artificial intelligence (AI) technology:"
     publishedDateTime: 2021-08-30T01:46:00Z
@@ -65,20 +95,6 @@ related:
       - url: "https://scg-scmr.s3.amazonaws.com/images/scmr_computer_group.png"
         width: 444
         height: 333
-        isCached: true
-  - title: "Zebra Technologies acquires AI forecasting provider Antuit.ai"
-    excerpt: "Antuit.ai will expand the company’s SaaS product ... market through the recently announced $290 million acquisition of startup Fetch Robotics Inc, which makes robots for fulfillment centers."
-    publishedDateTime: 2021-08-30T19:28:00Z
-    webUrl: "https://siliconangle.com/2021/08/30/zebra-technologies-acquires-ai-forecasting-provider-antuit-ai/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/image-2.png"
-        width: 768
-        height: 432
         isCached: true
   - title: "Zebra Technologies to Acquire Antuit.ai"
     excerpt: "Acquisition accelerates Zebra’s Enterprise Asset Intelligence vision by expanding its growing retail and consumer packaged goods (CPG) software portfolio."

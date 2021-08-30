@@ -1,29 +1,25 @@
 ---
 category: news
 title: "The 'Hyperscale SOC' and the Minds Behind It: A Machine-learning Foundation for Effective Cybersecurity"
-excerpt: "With a plethora of data, configurations, and potential attack vectors across the modern midsize enterprise, the sheer volume of available information can be overwhelming for those tasked with securing their organizations."
-publishedDateTime: 2021-08-29T17:00:00Z
-originalUrl: "https://www.infoworld.com/resources/223485/the-hyperscale-soc-and-the-minds-behind-it-a-machine-learning-foundation-for-effective-cybersecurity"
-webUrl: "https://www.infoworld.com/resources/223485/the-hyperscale-soc-and-the-minds-behind-it-a-machine-learning-foundation-for-effective-cybersecurity"
+excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
+publishedDateTime: 2021-08-29T21:00:00Z
+originalUrl: "https://www.computerworld.com/resources/223485/the-hyperscale-soc-and-the-minds-behind-it-a-machine-learning-foundation-for-effective-cybersecurity"
+webUrl: "https://www.computerworld.com/resources/223485/the-hyperscale-soc-and-the-minds-behind-it-a-machine-learning-foundation-for-effective-cybersecurity"
 type: article
-quality: 38
-heat: 38
+quality: 8
+heat: -1
 published: false
 
 provider:
-  name: InfoWorld
-  domain: infoworld.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Computerworld
+  domain: computerworld.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
     width: 300
     height: 300
     isCached: true
@@ -44,6 +40,6 @@ related:
         height: 550
         isCached: true
 
-secured: "bpKXGurx9Y/M8djl6IGIyQgMlS9LyNjuF7kK3B5kO0tAm5Xdfu6RCnBhEbF14lPDkcNQrPY/MtRxRsromKsMRchHbfN25MLr2mo5x1wPv3fkSVOu+a0ZGGcb9zBha98U+Z55TaehI0PO5mgl3PRUiHFpSJ30IXN/t1W1n0OfWRrmX/rjcFXW7gd+1W8sM1fjoLPY6Ck90hHd4cre8MBsq7lPqBBgAy13xdpETA5cLgwpDvugCWU8yER5rIjDku/2YAaAPjAmtTqrV1oW03QaFn2+Fs7V9lyrFrtyUa3Ja4YL/lOQsU4huSh5hvAD76Qd14pI37GcruOBr4ku+nghCmgju+WvyQYlRy76/Pvrzfc=;egtM4AsdF7h9FC0wgPN/qw=="
+secured: "wsHPtM/+7D+xYLgQaVkaahSB0j6ncPWNKruKgl5WEfZlESWhRsV3Ep031+ANYBGxDAGSGTRtX9nd11V9hr9yhZe1HtbOXNK/brkOLYNGMsJj56wJFpmjHKMzAnJkcqxPz+OtUMF8ptwr9ty/ZTGF2bmXSMvt0o5O+QLUnPbz/wAUFFslI0uIAv6PIPqMGrrXtgQGBh6UV2QubapJt8i+gK2JHPdvmRkrDbBkRSjL/fvVyAr1ovZFYs69oTNTjQyRRuuZ2azbUKlGd/bqunw8g5Q5ZpaKiOVeihbMg5WIOxAbnQHPcdMJWwSusmBhGCqWu0FF0NShHPtDXDOiZaELPkCkswbbuQ6dFI5T3TarnCk=;B96XZxqb5TK95MBI2nVStQ=="
 ---
 

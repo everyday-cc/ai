@@ -43,14 +43,28 @@ related:
         height: 430
         isCached: true
   - title: "Edge AI Hardware Market worth 2,080 million Units by 2026 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "According to a research report \"Edge AI Hardware Market with COVID-19 Impact Analysis device, Processor (CPU, GPU, and ASICs), End"
+    excerpt: "According to a research report \"Edge AI Hardware Market with COVID-19 Impact Analysis device, Processor (CPU, GPU, and ASICs), End User, Function (Training and"
     publishedDateTime: 2021-08-30T13:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/edge-ai-hardware-market-worth-2-080-million-units-by-2026--exclusive-report-by-marketsandmarkets-301365080.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/edge-ai-hardware-market-worth-2-080-million-units-by-2026---exclusive-report/article_d19062e8-3ab9-50f9-a711-5e5c4d492767.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 25
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/63/a63dc5dc-7992-5fd0-8794-8539b71dd644/60abab2ba5c22.image.jpg?resize=669%2C229"
+        width: 669
+        height: 229
+        isCached: true
+  - title: "Speech and Voice Recognition Market worth $22.0 billion by 2026 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "According to the new market research report \"Speech and Voice Recognition Market with COVID-19 Impact Analysis by Delivery Method,"
+    publishedDateTime: 2021-08-26T13:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/speech-and-voice-recognition-market-worth-22-0-billion-by-2026--exclusive-report-by-marketsandmarkets-301363483.html"
     type: article
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 27
+    quality: 7
     images:
       - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
         width: 666
@@ -70,15 +84,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Speech and Voice Recognition Market worth $22.0 billion by 2026 - Exclusive Report by MarketsandMarkets"
-    excerpt: "According to the new market research report \"Speech and Voice Recognition Market with COVID-19 Impact Analysis by Delivery Method, Deployment Mode (On"
-    publishedDateTime: 2021-08-26T15:40:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-08/53783702-speech-and-voice-recognition-market-worth-dollar-22-0-billion-by-2026-exclusive-report-by-marketsandmarkets-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
 
 secured: "nZ6eCkgkobkOakUXxgzcGMbF7+qGsDLOuKyujmvzWzWtnNHJrXPSVIJ/Q2J+uxZpOp7EtDKB8JCiz1VXiBHpWe2moMPqzAy7YYK8FUG2OzkJxExvmYmI57/yYL28ZywA5Gp/h9Kvmval1qLEKN2tanS54KaPPP1sTIoEbM4ZagLgesDNkTldYSr9raljzPRwUPwK+xB+va431ihHKij42+hmjxQoyYeZ6veykRCj1kRoRAi5b8vgAkBX2Hi2zKnlndS1wcZkjDpe+x+my25zXCFdY+4HyP3lOocy/6eLaNGQ0PkFF5OQm2LffaU4v2xatf+fcvh2dUQ5WGZtVaO87Y1vtS16FPlqwq/JFgQJNsY=;1nuRNxNO6rhuc2/4hEbOHQ=="
 ---

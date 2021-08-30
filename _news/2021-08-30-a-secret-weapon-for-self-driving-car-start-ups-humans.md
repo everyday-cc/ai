@@ -57,6 +57,20 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "A secret weapon for self-driving car start-ups - humans"
+    excerpt: "Self-driving start-ups such as Cruise and Pony.ai have begun testing their driverless cars in some parts of California in the past year, with an additional feature: human operators.. Read more at straitstimes."
+    publishedDateTime: 2021-08-30T21:00:00Z
+    webUrl: "https://www.straitstimes.com/tech/tech-news/a-secret-weapon-for-self-driving-car-start-ups-humans"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 24
+    images:
+      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/08/30/mi_selfdrive_300821.jpg?itok=OUMWk11o"
+        width: 763
+        height: 509
+        isCached: true
 
 secured: "3I1tyLdcZiYLkR7NNaR5i4ba5U8Nl5pEvMaJvJTE9zyU+V/nbWe6BefpG2kt+BgW6vSCk5BP0Ya6qr+SAWlAqqeR8qHgnGHSfjZgIPwfNgOvXbXnKhiKOsZPz7ouZ2Z70vyh/7HhqxdqByFVjn6Uu79D4kRkBdik8X/ZNbqGnhXp/L7wtlr4PJyCADa4iM85BMI8w/NyNoGhfsIMPOhB1M1BXu3FUlfxXkCBSMG73yyBdLnarfbSrEMzYbo6cMWdohLLL9iiVGvffQ7iV/pXzjcVD9Eh8xZXzh+GKA4u2oXCENt13O1ZS1JS4Vrvw3f+05xwCB2WSiEAA89JFdX9fKe3Y1MA71ADV7q6yELzLsI=;kIa90p7s0TccOXqWEYMRhQ=="
 ---

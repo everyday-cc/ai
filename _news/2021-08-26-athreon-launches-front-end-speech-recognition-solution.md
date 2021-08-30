@@ -77,6 +77,20 @@ related:
         width: 770
         height: 578
         isCached: true
+  - title: "Army Testing Facial Recognition in Child-Care Centers"
+    excerpt: "Live video feeds of daycare centers are common, but the Army wants to take their kid-monitoring capabilities to the next level. Under a new pilot program being rolled out at a Fort Jackson, S.C. child-care center,"
+    publishedDateTime: 2021-08-30T20:32:00Z
+    webUrl: "https://threatpost.com/army-facial-recognition-child-care/169036/"
+    type: article
+    provider:
+      name: Threat Post
+      domain: threatpost.com
+    quality: 39
+    images:
+      - url: "https://media.threatpost.com/wp-content/uploads/sites/103/2020/08/05143851/deepfake-fireeye.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "1791EOx80EMbvNq2VEOz/1C+00gNZ6KlHLfWrHANBk4+rx6gF6n7nl5bW1cSk4XMvGokIkMTD0hUEeU1osp1i5XcjRWUgzvOpJYtfhp02Q56aUge+sOsEYG2VdjLM593a3HYEWuJx5KuVRF87itazNZu5NBnVj8051NVkSJ0AqJstZ2tPpGwBs93BsjvqkTgkK7cuzNlze0l/EJkC8JXAq+bGnG3wAkKnU0fgVnC6vJ9zZw8TBrCp2fI3UoF5cnu0YNiyScQSUWS97d+yQbDTIdMJkJoEb/PGXuUrGCAw39Ck4WPWhOggzBFrE658kUp8m8Eeu0fB31qcKXZJLLeweDX2DsjjoQLkwzczKOzGFU=;zv4AjCPyBRnnPntwJCOtbw=="
 ---

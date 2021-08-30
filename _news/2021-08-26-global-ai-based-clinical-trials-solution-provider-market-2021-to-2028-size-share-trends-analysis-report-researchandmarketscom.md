@@ -54,17 +54,6 @@ related:
         width: 390
         height: 220
         isCached: true
-  - title: "Deep Learning in Machine Vision Market Report Covers Future Trends With Research 2021-2027"
-    excerpt: "Deep learning technology is seeing many appealing advancements in several machine learning sectors, involving the reinforcement learning, natural language processing (NLP), ML frameworks (Pytorch and TensorFlow),"
-    publishedDateTime: 2021-08-26T16:32:00Z
-    webUrl: "https://www.globalbankingandfinance.com/deep-learning-in-machine-vision-market-report-covers-future-trends-with-research-2021-2027/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/deep-learning-in-machine-vision-market-report-covers-future-trends-with-research-2021-2027/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/deep-learning-in-machine-vision-market-report-covers-future-trends-with-research-2021-2027/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 31
   - title: "Self-driving Industrial Vehicle Market Global Growth, SWOT Industry Analysis, CAGR Status, Key Companies, Applications, Upcoming Trends 2030"
     excerpt: "Allied Market Research published a new report titled Self driving industrial Market Global Opportunity Analysis and Industry Forecast 2021 2027 The latest study on the Global Self driving industrial Market covers a wide range of organizations from different regions It"
     publishedDateTime: 2021-08-27T09:35:00Z

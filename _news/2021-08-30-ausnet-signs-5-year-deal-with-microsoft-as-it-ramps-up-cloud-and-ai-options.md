@@ -65,6 +65,20 @@ related:
         width: 2200
         height: 1238
         isCached: true
+  - title: "Otter.ai Brings Transcription Assistant To Microsoft Teams, Google Meet and Webex"
+    excerpt: "After partnering with Zoom, Otter.ai, brings Otter Assistant to Microsoft Teams, Google Meet and Webex for automatic transcriptions."
+    publishedDateTime: 2021-08-30T20:42:00Z
+    webUrl: "https://www.commercialintegrator.com/communications/otter-ai-brings-transcription-assistant-to-microsoft-teams-google-meet-and-webex/"
+    type: article
+    provider:
+      name: Commercial Integrator
+      domain: commercialintegrator.com
+    quality: 49
+    images:
+      - url: "https://www.commercialintegrator.com/wp-content/uploads/2021/08/Desktop-edit-e1630356121313.png"
+        width: 1000
+        height: 672
+        isCached: true
   - title: "Microsoft adds literary Chinese to translation service"
     excerpt: "Microsoft has added literary Chinese to its translation service, from the modern Chinese, and the more than 90 other languages and dialects provided by the service. Literary Chinese translation has been integrated into the Microsoft Translator app,"
     publishedDateTime: 2021-08-30T08:14:00Z
