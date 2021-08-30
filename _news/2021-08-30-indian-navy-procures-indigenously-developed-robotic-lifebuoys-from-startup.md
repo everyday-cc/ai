@@ -1,31 +1,31 @@
 ---
 category: news
-title: "Indian Navy procures indigenously developed Robotic Lifebuoys from startup"
-excerpt: "Robotic lifebuoys are autonomous and are fitted out with sensors and electronic equipment that allow them to locate a stranded person in the water."
-publishedDateTime: 2021-08-30T10:41:00Z
-originalUrl: "https://www.thestatesman.com/india/indian-navy-procures-indigenously-developed-robotic-lifebuoys-startup-1503000772.html"
-webUrl: "https://www.thestatesman.com/india/indian-navy-procures-indigenously-developed-robotic-lifebuoys-startup-1503000772.html"
-ampWebUrl: "https://www.thestatesman.com/india/indian-navy-procures-indigenously-developed-robotic-lifebuoys-startup-1503000772.html/amp"
-cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/india/indian-navy-procures-indigenously-developed-robotic-lifebuoys-startup-1503000772.html/amp"
+title: "Indian Navy Procures Indigenously Developed Robotic Lifebuoys From Startup"
+excerpt: "In a big boost to the 'Self Reliant India' campaign, Indian Navy signed a Rs 13 crore contract to procure country's first indigenously developed Robotic Lifebuoys."
+publishedDateTime: 2021-08-30T12:28:00Z
+originalUrl: "https://odishatv.in/news/national/indian-navy-procures-indigenously-developed-robotic-lifebuoys-from-startup-158679"
+webUrl: "https://odishatv.in/news/national/indian-navy-procures-indigenously-developed-robotic-lifebuoys-from-startup-158679"
+ampWebUrl: "https://odishatv.in/news/national/indian-navy-procures-indigenously-developed-robotic-lifebuoys-from-startup-158679/amp"
+cdnAmpWebUrl: "https://odishatv-in.cdn.ampproject.org/c/s/odishatv.in/news/national/indian-navy-procures-indigenously-developed-robotic-lifebuoys-from-startup-158679/amp"
 type: article
 quality: 57
 heat: 57
 published: false
 
 provider:
-  name: The Statesman
-  domain: thestatesman.com
+  name: Odisha TV
+  domain: odishatv.in
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.thestatesman.com/wp-content/uploads/2021/08/iStock-924555518-1024x683.jpg"
-    width: 1024
-    height: 683
+  - url: "https://images.odishatv.in/uploadimage/library/16_9/16_9_2/IMAGE_1630326466.jpg"
+    width: 400
+    height: 225
     isCached: true
 
-secured: "BavFnbXBQ29ul54q++rL25RZv2e3MulWoYKrDo6jHy3QvB55tKgrzv7P27LMNYpWm39BUSWuN6CLzKoCek1WokuhzMt/FdTaCoR1ivoCqcsX7nCaY+F2ABjNtqlRNw4AXX7PAR9bPkB0GrCsvGHM1uFpTlbaqCj1gUH3t5/oIuc5nPdqjyDQ8kQb9LV+rjK/WcKQ8AyCnJj+3X/GhWoul7V7n9YFbWhTbzWI+CWbthV0RY5rGER8lZGk5yjQviRg+BtS1LCs+yOuu8BRc0h8ZQKQhw4ez5v8G2sTV8KDC69LsveA0Vg1xhopCaZ8supDpfABGJSEu230Y05fiknM2QFU6D5KwBEb+NaRlMVw4xk=;zwG5uUuo1V2YYcxQQL4YVQ=="
+secured: "T8zNezJg6lEVGn8fVVOF+X9Mhjo2x+67FdMfzdqwdEZ8AI7bheTcfbPy0cICd7b6E9/m6omBItCqfCWI4Y4sdqzn3rosGvZtS7OQ8M8SU/xUAxboR3rjEKCQxmF0FEpUoofydey5e8pScszwG8uxrRPX2CwJSMOTX+NMgR5z6I9eqPm8hjtxZXH8yjni1T/YnukN2mRMuX4tyA7YEPWR7HLn0ww3T6L536S4CVr7x7HZiYiKa5PSgJi/GL+9nf5/3BYuebB17EAFv3CRtkMUZlgZa6ftlYy+kU+I+fPfksdv2UkXY2dfrqPV8I+uuK/fz97xac/DhB0mpG6rCOSOEYVbevNsIdNYYZAPwv/SIHk=;vi9qDDMCUuEK7p9n2WdMbA=="
 ---
 

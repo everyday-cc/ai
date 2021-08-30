@@ -83,7 +83,7 @@ related:
     provider:
       name: UPI.com
       domain: upi.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://cdnph.upi.com/sv/ph/og/upi_com/9701629997438/2021/1/e30981875b6529604732f53d58b86540/v1.5/Federal-agencies-plan-to-expand-use-of-facial-recognition-technology.jpg"
         width: 800

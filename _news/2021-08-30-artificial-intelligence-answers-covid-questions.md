@@ -8,9 +8,9 @@ webUrl: "https://techxplore.com/news/2021-08-artificial-intelligence-covid.html"
 ampWebUrl: "https://techxplore.com/news/2021-08-artificial-intelligence-covid.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-artificial-intelligence-covid.amp"
 type: article
-quality: 59
-heat: 79
-published: true
+quality: 61
+heat: 61
+published: false
 
 provider:
   name: techxplore.com
@@ -19,6 +19,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Machine Learning
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/neural-network-1.jpg"
@@ -26,36 +27,6 @@ images:
     height: 1497
     isCached: true
 
-related:
-  - title: "Azure SDK: Goodbye QnA Maker, Hello AI 'Question Answering'"
-    excerpt: "The regular monthly update to Microsoft's Azure SDK improves Cognitive Services text analytics, specifically with a new Question Answering SDK that supplants QnA Maker."
-    publishedDateTime: 2021-08-25T20:24:00Z
-    webUrl: "https://visualstudiomagazine.com/articles/2021/08/25/azure-sdk-aug21.aspx"
-    type: article
-    provider:
-      name: Visual Studio Magazine
-      domain: visualstudiomagazine.com
-    quality: 54
-    images:
-      - url: "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/introimages/130725REDJonesQuestions.jpg"
-        width: 647
-        height: 450
-        isCached: true
-  - title: "Coronavirus Roundup: Questions on Vaccine and Testing Programs for Feds; COVID Oversight Committee Boosts Use of Analytics and AI"
-    excerpt: "Professional organizations that represent federal managers are worried that there are still some unresolved issues with the vaccination attestation and testing process for federal employees, Federal News Network reported on Wednesday."
-    publishedDateTime: 2021-08-27T15:30:00Z
-    webUrl: "https://www.govexec.com/management/2021/08/coronavirus-roundup-questions-feds-vaccine-and-testing-programs-covid-oversight-committee-boosts-use-analytics-and-ai/184907/"
-    type: article
-    provider:
-      name: Government Executive
-      domain: govexec.com
-    quality: 8
-    images:
-      - url: "https://cdn.govexec.com/media/img/cd/2021/08/27/082721vaccine/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
-
-secured: "/+aKsenrwPu7ABG2/l148fdXikFiaHJC9uFimyWly/qtzpQW+in9Eg0S9ED2hpfRwngTIDE0p3YpzG2vmR3cxxqzXRh9KPkTn82GN+UVxzz19UT8KhfeJi6nUmLk6vrxcIFvJuW7rZNmdL1mrNRtr8FbOJzf5R6Oyfxyaw8Uxrhcsju03SGsQmRU9+J+QmZKVTe3fpx6Wap9KyGloPvv31xqjzw2WnLktNb2YVsxsG7rd8M9mdmdtnGO21yiNBhPaTAzdxx3VLg+jqBENyZ3OC0WYOI/dwOWtp7DN/krxO1xUw2kwAAzMTYhD+Ue29/84RW/prrJllAlkaBEwhJhHZIyW9fd2dDhdhRc5R8NI6I=;t7ziNMDYAM8jfZ6idSiOmw=="
+secured: "AuBnVp0ZXPEvwtoRIsXtM2wkgdOwLXlGZ7WGgl6JUjekXZgqmIFFmA4qF+rCL5hJT0HhCEqWLAMAkIlATI0vS90WWINaeUNPE2W0j6RvXdolJRE8U1UverdaPfp4ZdTARrzXiSQEN/8RCBLQSb/utIdrOPVZSG78oO/mdMeKZXd8kwgFI9jF63I74fO/tXeOnFjD0LRLW3jz/8n+F9lltyY5zOQq8OAS0Gatni9bKshAK0tXcRsDLLAd2D0CCKcXlGBVDPfoxHWrBK2eKk3QgsrV9ggoyJaStULxrOqE5OD7GhiUiTUlUij3oMGRD28YS6W6WlWiBH8K+M2QjSOeSumVRoKLR+RRDv2aK5ALYj8Bs2vEujaWJ/cd5r4gxDUuEuWIBu7+2/C8t0gdOi281yf8Pc9zrJpRJmpUiEbc3PoKkvItqZVI/wgPOTmQ0CXyOGuIX0hsZQBeNda81S0vRB0WbSKS6ib9kuAEpyNC8c0qIPHj7wws1XcgPNZszHn3+9u1D429Yfg+0MTaO9dPsA==;vUhCqa6CEr7Y0mMRRv76iw=="
 ---
 

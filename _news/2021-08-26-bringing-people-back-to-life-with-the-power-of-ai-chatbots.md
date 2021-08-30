@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/0
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/08/26/bringing-people-back-to-life-with-the-power-of-ai-chatbots/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Flying robots with AI mechanisms can identify the right fruits for plucking"
+    excerpt: "In the past decade, the introduction of cutting-edge technologies like AI, machine learning and deep learning has transformed the overall process of fruit harvesting. Now, fruit farmers"
+    publishedDateTime: 2021-08-30T12:41:00Z
+    webUrl: "https://www.freshplaza.com/article/9350621/flying-robots-with-ai-mechanisms-can-identify-the-right-fruits-for-plucking/"
+    type: article
+    provider:
+      name: FreshPlaza
+      domain: freshplaza.com
+    quality: 52
+    images:
+      - url: "https://www.freshplaza.com/remote/https/agfstorage.blob.core.windows.net/misc/FP_com/2021/08/30/Fake.jpg?preset=OgImage"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "'Always there': the AI chatbot comforting China's lonely millions"
     excerpt: "After a painful break-up from a cheating ex, Beijing-based human resources manager Melissa was introduced to someone new by a friend late last year."
     publishedDateTime: 2021-08-26T04:54:00Z

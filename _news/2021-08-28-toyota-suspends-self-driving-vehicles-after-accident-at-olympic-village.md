@@ -199,6 +199,38 @@ related:
         width: 1400
         height: 788
         isCached: true
+  - title: "Toyota to restart self-driving pods at Paralympic village in Tokyo"
+    excerpt: "Toyota has said it will resume operations of its self-driving e-Palette pods at the Tokyo Paralympic Games village with greater operator control and more safety staff. The pods were earlier suspended after one of the them collided with and injured a visually impaired Japanese athlete."
+    publishedDateTime: 2021-08-30T13:36:00Z
+    webUrl: "https://inshorts.com/en/news/toyota-to-restart-selfdriving-pods-at-paralympic-village-in-tokyo-1630330612058"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/toyota-to-restart-selfdriving-pods-at-paralympic-village-in-tokyo-1630330612058"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/toyota-to-restart-selfdriving-pods-at-paralympic-village-in-tokyo-1630330612058"
+    type: article
+    provider:
+      name: Inshorts
+      domain: inshorts.com
+    quality: 44
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/08_aug/30_mon/img_1630327521629_942.jpg?"
+        width: 1008
+        height: 1632
+        isCached: true
+  - title: "Toyota to resume self-driving vehicles at Paralympic Games village"
+    excerpt: "CNBCTV18 is India's leading financial, economic and business information source. The leading platform for business & financial news, BSE/NSE stock market news updates, business news live, IPO Analysis,"
+    publishedDateTime: 2021-08-30T12:25:00Z
+    webUrl: "https://www.cnbctv18.com/sports/toyota-to-resume-self-driving-vehicles-at-paralympic-games-village-10548111.htm"
+    ampWebUrl: "https://www.cnbctv18.com/sports/toyota-to-resume-self-driving-vehicles-at-paralympic-games-village-10548111.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/sports/toyota-to-resume-self-driving-vehicles-at-paralympic-games-village-10548111.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 44
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2018/06/2018-06-27T140657Z_1_LYNXMPEE5Q1GO_RTROPTP_3_AUTOS-TOYOTA.jpg"
+        width: 800
+        height: 504
+        isCached: true
   - title: "Tokyo 2020 Paralympics: Japan judo star hit by self-driving bus in Village"
     excerpt: "Japanese judoka Aramitsu Kitazono has been forced to withdraw from his event in the judo competition at the 2020 Tokyo Paralympics after being hit by a self-driving vehicle inside the Paralympics Village."
     publishedDateTime: 2021-08-28T11:39:00Z
@@ -214,6 +246,22 @@ related:
       - url: "https://imagevars.gulfnews.com/2021/08/28/The-self-driving-buses-run-throughout-the-Paralympic-Village-in-Tokyo_17b8c8e3fbb_medium.jpg"
         width: 540
         height: 405
+        isCached: true
+  - title: "Toyota to resume self-driving e-Palette vehicle operations at Olympic village"
+    excerpt: "A Toyota self-driving e-Palette vehicle had last week collided with and injured a visually impaired pedestrian at the Olympic village..Toyota says it is cooperating with a local police investigation to determine the exact cause of the accident."
+    publishedDateTime: 2021-08-30T12:24:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/news/toyota-to-resume-self-driving-e-palette-vehicle-operations-at-olympic-village-41630324084693.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/news/toyota-to-resume-self-driving-e-palette-vehicle-operations-at-olympic-village/amp-41630324084693.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/toyota-to-resume-self-driving-e-palette-vehicle-operations-at-olympic-village/amp-41630324084693.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 41
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2021/08/30/600x338/Screenshot_2021-07-20_at_2.07.14_PM_1626770282792_1630324372220.png"
+        width: 600
+        height: 338
         isCached: true
   - title: "Toyota halts all self-driving e-Pallete vehicles after Olympic village accident"
     excerpt: "Toyota Motor said on Friday it had suspended operations of its self-driving e-Palette transportation pods at the Paralympic Games village in Tokyo, a day after one of the vehicles collided with a visually impaired pedestrian."
@@ -385,6 +433,20 @@ related:
         width: 620
         height: 464
         isCached: true
+  - title: "Toyota self-driving buses in Paralympic village to restart Tues."
+    excerpt: "Toyota Motor Corp. said its self-driving buses will start running again in the athletes' village in Tokyo on Tuesday with improved sa"
+    publishedDateTime: 2021-08-30T13:00:00Z
+    webUrl: "https://mainichi.jp/english/articles/20210830/p2g/00m/0bu/064000c"
+    type: article
+    provider:
+      name: mainichi.jp
+      domain: mainichi.jp
+    quality: 24
+    images:
+      - url: "https://cdn.mainichi.jp/vol1/2021/08/30/20210830p2g00m0bu063000p/0c10.jpg?1"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Toyota suspends self-driving shuttles after one hits a Paralympian"
     excerpt: "Toyota has called a halt to the operation of its fully-autonomus e-Palette shuttle at the Tokyo Paralympic Games after one hit an athlete."
     publishedDateTime: 2021-08-29T22:36:00Z
@@ -469,6 +531,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Toyota restarts self-driving shuttle fleet following collision with Paralympian"
+    excerpt: "Toyota President Akio Toyoda offered an apology to the Paralympian, and then issued a stinging rebuke of autonomous-driving technology."
+    publishedDateTime: 2021-08-30T11:47:00Z
+    webUrl: "https://www.autonews.com/mobility-report/toyota-restarts-self-driving-shuttle-fleet-following-collision-paralympian"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 20
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/ToyotaE-MAIN_i.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Toyota suspends self-driving shuttle bus program after vehicle hits pedestrian"
     excerpt: "Japanese manufacturer Toyota has temporarily suspended its self-driving shuttle bus program, after one of its vehicles hit an athlete at the Paralympic games in Tokyo last Thursday. The ‘e-Palette’ autonomous transporter allegedly struck vision ..."
     publishedDateTime: 2021-08-30T01:31:00Z
@@ -496,6 +572,20 @@ related:
       - url: "https://www.independent.ie/life/motoring/2ad74/40800147.ece/AUTOCROP/w1240h700/TOYOTA-OLYMPICSACCIDENT"
         width: 1240
         height: 700
+        isCached: true
+  - title: "Toyota suspends use of self-driving vehicle in Olympic Village after collision with paralympic athlete"
+    excerpt: "Toyota’s CEO on Friday apologized in a video posted to YouTube after one of the company’s self-driving vehicles hit the athlete while driving at 1 to 2 kilometers per hour around the Olympic Village in Tokyo."
+    publishedDateTime: 2021-08-30T13:44:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_world/toyota-suspends-use-of-self-driving-vehicle-in-olympic-village-after-collision-with-paralympic-athlete/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 8
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210827145423-e-palette-toyota-tokyo-olympics-2020-restricted-large-169.jpg"
+        width: 460
+        height: 259
         isCached: true
 
 secured: "ytw6e8AYHs2Bfl1HrWiN8G4xufEWXayLVayZyVoLLgu7PMdc4Bz6FipXmUVT/dhVze571iz6FmLL7X06opTFalkJ5JcGy0o/59JxIuI57n6BXlYDxv8TheED6qeBnyVvVtmRIvgHtyazm7meMcZacB8DaY0hl+kOpXAZX3+MSNTd+neZllQWqruda228wnzgWvUZnATTdZ/gdbGuo2CZ6eNOVP6NQN2YCK1kmpdwftReUN42+lM6vlAw6QXH8lEI/YwqL9M6bIMT6uB29A536HsTeK6HOifZXame+MEAtgaeg1Mip4zKFA5Pw9MUlSvgdS//Q4W80Qk/CgGSKqLhQjFbkNTSPwXyxwdfqphpVgEnORVPssY/gGC90EdlDArGug1hZ5fJ8BmrBFEM2yekLpzlDPjQHwihKoQzEaf06TA5OiNu/6TzMIuS36HxioppjtGNXtrmAlcngOqUEg1Iz/NXgz3fHT/NAtdpoMZl2eYATuIoL5lts/4u1ahOZgErdHyqV0g8k04O0HpN+i7CqQ==;d717J1fpUh9yU6Sl6S8/RQ=="

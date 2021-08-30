@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/08/26/google-confirms-its-pulling-the-pl
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/26/google-confirms-its-pulling-the-plug-on-streams-its-uk-clinician-support-app/amp/"
 type: article
 quality: 70
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
     quality: 20
     images:
       - url: "http://cdn.24.co.za/files/Cms/General/d/11516/f33f7a39291e4f9194d73778f83dd73f.jpg"
+        width: 700
+        height: 525
+        isCached: true
+  - title: "Google is pulling the plug on Streams, the clinical app developed by DeepMind, following health division shutdown"
+    excerpt: "Google is shutting down Streams, a mobile app designed to help clinicians track patients' conditions, two years after acquiring it from portfolio firm DeepMind. The decision to take Streams ..."
+    publishedDateTime: 2021-08-27T11:05:00Z
+    webUrl: "https://www.businessinsider.nl/google-is-pulling-the-plug-on-streams-the-clinical-app-developed-by-deepmind-following-health-division-shutdown/"
+    type: article
+    provider:
+      name: Businessinsider.nl
+      domain: businessinsider.nl
+    quality: 18
+    images:
+      - url: "https://cdn.businessinsider.nl/wp-content/uploads/2021/08/6128ad6d80be940019b9ec9c.png"
         width: 700
         height: 525
         isCached: true

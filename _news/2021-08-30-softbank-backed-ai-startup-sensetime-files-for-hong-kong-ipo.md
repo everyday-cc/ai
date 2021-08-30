@@ -3,10 +3,10 @@ category: news
 title: "SoftBank-backed AI startup SenseTime files for Hong Kong IPO"
 excerpt: "In the first half of 2021, the China-based startup’s revenue increased 2x while its gross profit margin went slightly up to 73%."
 publishedDateTime: 2021-08-30T10:13:00Z
-originalUrl: "https://www.techinasia.com/sensetime-ipo-hongkong-stock-exchange"
-webUrl: "https://www.techinasia.com/sensetime-ipo-hongkong-stock-exchange"
+originalUrl: "https://www.techinasia.com/alibaba-lays-off-10-people-publicizing-employees-sexual-allegations/next"
+webUrl: "https://www.techinasia.com/alibaba-lays-off-10-people-publicizing-employees-sexual-allegations/next"
 type: article
-quality: 47
+quality: 49
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
       height: 50
 
 topics:
+  - Facebook AI
   - AI
 
 related:
@@ -92,6 +93,6 @@ related:
       domain: businessinsider.com
     quality: 29
 
-secured: "l1TALBMrWGyJnwd8lD2FrilAflR4BSWDBMahnG89QG9L16sykTN2eBUuwymn7btgrq/smAm1BK4xVPgQs3L0rVGuNHQr1l8wy1fN873p+zJIeLPRedb9VPZaKLVzrQccoIewsLqHTyas7aoMsUo8yLy/HDWAyoyR/EncdPoJgTrs1ycuHabuRfwnJi21yUPpvHBflRUJshd3qJroB2deLeayA+0lPoAC5CpzgmC2MEbZfkhEO9s/6EQPTA5zjQ0TRTZyRSrNVmfYcE+8XyjnWBySh94JKbJTi5JmbSv1TWILm3Rlo2/kPoWXaoKCG8x8drKa4+87RwPl/irRFIEdpEImdWfNuVIfIr3hYCCZw9M=;lFPohkeYhKUpD9gQnR1mYQ=="
+secured: "xPFbSZxlELCjl/PXAHQTXt2mY/vYGG/LOQJwnJFOjKjzjzGmMXTfJz5IZsw1o+XtrGqMTjN1vDGhyB18feGNhsihyh5ds5gTuMqSiIhbFgnWU2sn9Aa3ZW+DAeKRl1REimc2b60uZBCKoAydoFk2/RhmbUbwvoZJGwYHInP54tinqRcTdGwM7Sg4/1KzIHH8Viq91/00aDzwTgMN3DPp8smhBQIO15lR8MEeAzvuvlx2n2tKKjcDNMWoKFGbX1/rApHl5nYR44xPDHMT5GzwXIW8GKme4ryyf6vNzS6YVbSGBCW34F/vmF7EvgsBv21cDX9wQUZ5S6CvAM2KA4QsxRnMBIw9T1/pVEVRY4mk1Gc=;gQIQ3aTuNxh1Xr13hE3o2Q=="
 ---
 

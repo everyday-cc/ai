@@ -7,8 +7,8 @@ originalUrl: "https://www.supplychainbrain.com/articles/33642-surviving-in-the-a
 webUrl: "https://www.supplychainbrain.com/articles/33642-surviving-in-the-age-of-permanent-supply-chain-disruption-part-2-automation-innovation"
 type: article
 quality: 61
-heat: 111
-published: true
+heat: -1
+published: false
 
 provider:
   name: Supply Chain
@@ -26,6 +26,38 @@ images:
     isCached: true
 
 related:
+  - title: "Playing catch-up to the early adopters of analytics, AI and machine learning"
+    excerpt: "Opinion: Early adopters of data analytics, artificial intelligence (AI), and machine learning (ML) tools have found themselves in a position of favour in today’s rapidly accelerating digital world."
+    publishedDateTime: 2021-08-30T13:00:00Z
+    webUrl: "https://www.iol.co.za/technology/techsperts/playing-catch-up-to-the-early-adopters-of-analytics-ai-and-machine-learning-1863199a-1af1-4958-a27d-31dcb475e9ff"
+    ampWebUrl: "https://www.iol.co.za/amp/technology/techsperts/playing-catch-up-to-the-early-adopters-of-analytics-ai-and-machine-learning-1863199a-1af1-4958-a27d-31dcb475e9ff"
+    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/techsperts/playing-catch-up-to-the-early-adopters-of-analytics-ai-and-machine-learning-1863199a-1af1-4958-a27d-31dcb475e9ff"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 71
+    images:
+      - url: "https://image-prod.iol.co.za/16x9/410?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/33b5a18b-4abc-5f59-9582-87502577d13e"
+        width: 410
+        height: 230
+        isCached: true
+  - title: "How The United States Army Is Leveraging AI: Interview With Kristin Saling, Chief Analytics Officer & Acting Dir., Army People Analytics"
+    excerpt: "To remain competitive, the US Army has created the Army Talent Management Task Force to address the current and future needs of the war fighter. LTC Saling shares her insights into how analytics, automation,"
+    publishedDateTime: 2021-08-28T05:00:00Z
+    webUrl: "https://www.forbes.com/sites/cognitiveworld/2021/08/28/how-the-united-states-army-is-leveraging-ai-interview-with-kristin-saling-chief-analytics-officer--acting-dir-army-people-analytics/"
+    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2021/08/28/how-the-united-states-army-is-leveraging-ai-interview-with-kristin-saling-chief-analytics-officer--acting-dir-army-people-analytics/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2021/08/28/how-the-united-states-army-is-leveraging-ai-interview-with-kristin-saling-chief-analytics-officer--acting-dir-army-people-analytics/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 58
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6125197aa4e9c316e3801db8%2F0x0.jpg"
+        width: 1200
+        height: 1042
+        isCached: true
   - title: "Bodo.ai Raises $14 million Series A Funding for Data Analytics and Machine Learning"
     excerpt: "Bodo.ai, an extreme-performance parallel compute platform for data workloads, today announced it has raised $14 million in"
     publishedDateTime: 2021-08-25T21:49:00Z
@@ -86,6 +118,20 @@ related:
       name: Engineering News
       domain: engineeringnews.co.za
     quality: 24
+  - title: "Coronavirus Roundup: Questions on Vaccine and Testing Programs for Feds; COVID Oversight Committee Boosts Use of Analytics and AI"
+    excerpt: "Professional organizations that represent federal managers are worried that there are still some unresolved issues with the vaccination attestation and testing process for federal employees, Federal News Network reported on Wednesday."
+    publishedDateTime: 2021-08-27T15:30:00Z
+    webUrl: "https://www.govexec.com/management/2021/08/coronavirus-roundup-questions-feds-vaccine-and-testing-programs-covid-oversight-committee-boosts-use-analytics-and-ai/184907/"
+    type: article
+    provider:
+      name: Government Executive
+      domain: govexec.com
+    quality: 8
+    images:
+      - url: "https://cdn.govexec.com/media/img/cd/2021/08/27/082721vaccine/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "rsWKU601v+7mH97Qzm53lnpQ6wyLDAVmTZv+uovrDHfTnXulEAzwt59VzfiPYnx2S4TdcbHBtWfx+0vMXZMJS/Rw0n8iFvDhzfnUVqt+iU/8MGULhVBCF3LW2rWxSczw7foi1kcKKRWYqjzPUg2H6AguPPrDkTenPpQG0p3O/d1cfrvaZidGLJRURJgi1RG6Kwawlr1DdSEo30en13xWFGTKzWaAyO1KOLrAC8Et3/2tJKY8LHHyj4+CAc+wVEXJNV2zGYuiR12EeJCMRHrypqnZCWQegyRvoURY9kWUd0mNoUNgotgiTAKRz8uySToV3FCywxNoe1M2F/QTbidsCqW16FbvA+36epnm43Y+7UBjwAOK272cLQprGEdGHZsqYfBll+4qWHdIKJ1EjB0ORrks7XxVQP2QPqYCRWfZqbv77DxpZgQHWRQ0q4Kzbdi8CEGqMEwyYPnA62xr2fQN+wPAXTdMChZpJHZcDGhVYDJH3YH3zJW30e0Yd464hGmCGHKiMWFkS519suFgdo36hg==;YjvK/lzmZtRCgAyrIk5JAQ=="
 ---

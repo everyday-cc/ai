@@ -8,7 +8,7 @@ webUrl: "https://www.crowdfundinsider.com/2021/08/179747-amazon-web-services-cho
 ampWebUrl: "https://www.crowdfundinsider.com/2021/08/179747-amazon-web-services-chosen-by-sun-life-as-its-cloud-tech-provider-aims-to-become-cloud-first-organization/amp/"
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/08/179747-amazon-web-services-chosen-by-sun-life-as-its-cloud-tech-provider-aims-to-become-cloud-first-organization/amp/"
 type: article
-quality: 36
+quality: 38
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - AI in Finance
 
 related:
   - title: "Amazon Web Services In Deal To Transform Sun Life Financial's Digital Services"

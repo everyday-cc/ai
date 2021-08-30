@@ -41,6 +41,20 @@ related:
         width: 1240
         height: 697
         isCached: true
+  - title: "Why Facebook Won’t Stop Pushing Propaganda"
+    excerpt: "Vaccine disinformation. The Big Lie. The hate poisoning your community. It all goes back to Mark Zuckerberg's business model."
+    publishedDateTime: 2021-08-30T10:37:00Z
+    webUrl: "https://www.motherjones.com/politics/2021/08/why-facebook-wont-stop-pushing-propaganda/"
+    type: article
+    provider:
+      name: Mother Jones
+      domain: motherjones.com
+    quality: 24
+    images:
+      - url: "https://www.motherjones.com/wp-content/uploads/2021/02/462_facebook_2000.jpg?w=1200&h=630&crop=1"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "xfNc6PHXnLzthYb8+C3RMFtWOq49ONBT8T7IJJxJ6ajsjFBE/CZYe4I/n7I9btRD8/3KyOLv+STCY4yrB9lNcNdxCaqhoYzecdYLb39ds+/TpyfEa71oyTZ/jODAjRcSi8iOlEE4C8UZZAKOr9hFQKn9O5b2hr/ZhhPi9a52YXGyLEaxOPBS85T7qJ+697FnC6EPj/K60gzgZvrhTlZ1uTefIX33Yt0tQdNvZ4BcpzAsI1f5ML3tFS3XimhGqRivRMIorWREdjTCNZB4zFNsQ5sNIJ2V+HgWu9y5Gld/LQib8CMEvpKnXvQCbYHV1bAA7NO2bndHENgOWvk/Ap6sFVejfljwfx9eG5PtOcSDpS4=;zYPY52/8tp92J6xLWWwl3w=="
 ---

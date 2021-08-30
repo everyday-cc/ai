@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bethkindig/2021/08/27/heres-why-nvidia-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2021/08/27/heres-why-nvidia-will-surpass-apples-valuation-in-5-years/amp/"
 type: article
 quality: 74
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia launches AI enterprise suite"
-    excerpt: "Nvidia believes it can build a “significant” business with the new Nvidia AI Enterprise software suite it’s launching on VMware’s vSphere virtualization platform as part of an exclusive agreement. Made generally available on Tuesday,"
-    publishedDateTime: 2021-08-25T19:24:00Z
-    webUrl: "https://www.crn.com.au/news/nvidia-launches-ai-enterprise-suite-569072"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 41
-    images:
-      - url: "https://i.nextmedia.com.au/News/20210826062328_AI_brain.jpg"
-        width: 1395
-        height: 751
-        isCached: true
   - title: "Global Artificial Intelligence Ai In Healthcare Market 2021 Latest Advancements and Business Outlook-NVIDIA Corporation (NVIDIA) (US)"
     excerpt: "Many creative start-ups that are rapidly developing have been featured ... Asia Pacific has one of the largest consumer bases and holds a substantial share of the Artificial Intelligence Ai In Healthcare Market. This region is also anticipated to expand ..."
     publishedDateTime: 2021-08-28T13:54:00Z

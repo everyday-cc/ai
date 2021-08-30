@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 840
         isCached: true
+  - title: "Flying robots with AI mechanisms can identify the right fruits for plucking"
+    excerpt: "In the past decade, the introduction of cutting-edge technologies like AI, machine learning and deep learning has transformed the overall process of fruit harvesting. Now, fruit farmers"
+    publishedDateTime: 2021-08-30T12:41:00Z
+    webUrl: "https://www.freshplaza.com/article/9350621/flying-robots-with-ai-mechanisms-can-identify-the-right-fruits-for-plucking/"
+    type: article
+    provider:
+      name: FreshPlaza
+      domain: freshplaza.com
+    quality: 52
+    images:
+      - url: "https://www.freshplaza.com/remote/https/agfstorage.blob.core.windows.net/misc/FP_com/2021/08/30/Fake.jpg?preset=OgImage"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "MQJ2vlOHkBX6XQFp/W+rn2YC0VITSQ1m3aWx/TXL+Z64IaId1otycQ6stLlMSaBS0pKrXB6RvjBuu3N8ZY7/t8Vfh3qRf7W+TTTAyBrVrdrA7pLIR8ZmEQc+woADikzl4kf/V/fmfQgOCZKKS0U+ZNxuwZGzO4aPJGY/xMFRANm7OKOcNAHtAH5knoHv8A9AjY391hLYBvSRP8hN+1zyYcNdd3ngE5AKVsUGjc0f/8MmaBahU9ka0K0HRhxX3OLiFhPi1du1dMJpaDdEC4vDnfphH2Kds+C9V94C/jJXeaHivS1WmbiP/l/WwHVhDkXruUOuMRMpnEoa87nlszKnyBhlg2GeD6t1iLOfyV6sbpc=;bGuk26M4CMGg+yhXXbUWKA=="
 ---

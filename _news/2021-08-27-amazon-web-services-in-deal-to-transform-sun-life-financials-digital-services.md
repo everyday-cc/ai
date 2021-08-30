@@ -46,7 +46,7 @@ related:
     provider:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
-    quality: 36
+    quality: 38
   - title: "Amazon Prime – Sun Life Taps AWS as Its Long-Term Strategic Cloud Provider to Transform Digital Services"
     excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
     publishedDateTime: 2021-08-27T07:56:00Z

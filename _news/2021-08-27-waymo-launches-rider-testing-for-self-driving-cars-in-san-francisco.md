@@ -43,20 +43,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Cruise Looks to Solar Panels to Power Self-Driving Cars"
-    excerpt: "Cruise, the San Francisco autonomous car company backed by General Motors, is launching a new initiative to support renewable energy efforts in California’s Central Valley that takes advantage of solar power."
-    publishedDateTime: 2021-08-25T20:30:00Z
-    webUrl: "https://www.ttnews.com/articles/cruise-looks-solar-panels-power-self-driving-cars"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 24
-    images:
-      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/cruise.jpg?itok=CsWCu9x8"
-        width: 470
-        height: 246
-        isCached: true
 
 secured: "i9IvlHoj5DM91dK/Ne5FUqXqL45FPN+8aVLx7K1AiLaYyQY5FY0qLGTEG+xq9izRuXyVv6YRnN5e8TT8Gf3wbfOVXj4A5qPLS6LJRtCBOvfJlQB9tjhYlUv6Jq/eQ0nBBeKMQxATXB0SaZtYWknfn8ZLiLa7bzWV3BAMCViwN1+U0rdyEHYksR/kmtEffDcL+7qHOedLTWzoALseP7a/1nHrTCsmYmXC9OJfRzt2rd4StkDNfdKg1+YTydm940cmo7faQe3adLCyfWpeDMWL3xxmoqpLCf8pw5neMCfM28HuVt3FZhxcHzhvCGpReKjNFniydAwX6jXovwgcZ+QAKw9qSgIquthjPBTCsYMkgXs=;dfyrEaLlReIr+jFM+1ChXA=="
 ---

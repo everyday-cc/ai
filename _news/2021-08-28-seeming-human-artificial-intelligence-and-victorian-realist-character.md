@@ -34,6 +34,20 @@ related:
         width: 1249
         height: 794
         isCached: true
+  - title: "Spell Introduces Deep Learning Operations Platform To Reduce AI Training Costs"
+    excerpt: "Concept: NY’s MLOps platform provider Spell has announced the launch of an operations platform that includes the tools needed to train AI models using deep learning algorithms. ML algorithms are tuned for the platforms currently used to train AI models."
+    publishedDateTime: 2021-08-30T12:53:00Z
+    webUrl: "https://www.pharmaceutical-technology.com/research-reports/spell-introduces-deep-learning-operations-platform-to-reduce-ai-training-costs/"
+    type: article
+    provider:
+      name: Pharmaceutical Technology
+      domain: pharmaceutical-technology.com
+    quality: 50
+    images:
+      - url: "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/10/2021/08/shutterstock_1698736867.jpg"
+        width: 500
+        height: 282
+        isCached: true
   - title: "How to use data and artificial intelligence for diversity and inclusion in hiring and onboarding"
     excerpt: "Inexperienced leadership for a cohesive diversity and inclusion (D&I) strategy Insufficient data and tech infrastructure to measure impact of D&I strategies The popular adage you can’t manage what you don’t measure is best applied to D&I strategies."
     publishedDateTime: 2021-08-30T07:19:00Z

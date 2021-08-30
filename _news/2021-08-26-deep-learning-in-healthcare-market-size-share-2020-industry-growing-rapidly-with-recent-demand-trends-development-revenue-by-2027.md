@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2368510/deep-learning-in-healthcare-marke
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2368510/deep-learning-in-healthcare-market-size-share-2020-industry"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -22,17 +22,17 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Current research: Demand for Artificial Intelligence in Construction Market rapidly growing worldwide"
-    excerpt: "This research report by Report Ocean identifies consumer needs and aims to satisfy them more efficiently effectively and accurately than the competition This report about the Artificial Intelligence in Construction Market is exceptional because it is easy to understand contains"
-    publishedDateTime: 2021-08-27T08:47:00Z
-    webUrl: "https://www.openpr.com/news/2370492/current-research-demand-for-artificial-intelligence"
-    ampWebUrl: "https://www.openpr.com/amp/2370492/current-research-demand-for-artificial-intelligence"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2370492/current-research-demand-for-artificial-intelligence"
+  - title: "Know What are the driving factors of NLP in Healthcare and Life Sciences Market growth during 2021-2031"
+    excerpt: "Major Industry Developments Behind Evolution? NLP (natural language processing), a rapidly emerging area in artificial intelligence (AI), has attracted groundswell of attention among industry players and academia alike."
+    publishedDateTime: 2021-08-30T13:38:00Z
+    webUrl: "https://www.globalbankingandfinance.com/know-what-are-the-driving-factors-of-nlp-in-healthcare-and-life-sciences-market-growth-during-2021-2031/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/know-what-are-the-driving-factors-of-nlp-in-healthcare-and-life-sciences-market-growth-during-2021-2031/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/know-what-are-the-driving-factors-of-nlp-in-healthcare-and-life-sciences-market-growth-during-2021-2031/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 22
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 40
 
 secured: "5QrpNNnJhCoBJDwy07lyWTcfOkPtJPTFUZF3bE5p12eF2iYFY8rrO6AnrwaowWTtvnrKSjyQyAuSPOBVf8JbaKOiBH4W8pq6YYLB40dxQdZPJLU2sV4yS9/mfCFbc61z9LU0FrllrW0YRgOLrs2KTwIPM9Y9kwmQ1zrzZeAi6PYMSIl/yBTdmS9SNComvTC466qDME0jCIvG+FLENoln4dZSINskK8gkpt3NxPkBPokGZszaIyPzlYetmN3jquRwed10xqY3epNgadHYIfH311R2zCRDKauB2ASfszSMLgYrQrZmU598nMahvDas8p4NigMJOA5LgTORpL3S4MPz8YXNQP14UcPSNpbFvPWRdHo=;vCorH/ygoZ8mngyb99UYTA=="
 ---

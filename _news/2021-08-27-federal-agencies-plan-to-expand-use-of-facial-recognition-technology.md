@@ -8,7 +8,7 @@ webUrl: "https://www.upi.com/Top_News/US/2021/08/26/facial-recognition-technolog
 ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/08/26/facial-recognition-technology-federal-government/9701629997438/"
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/08/26/facial-recognition-technology-federal-government/9701629997438/"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://cdnph.upi.com/sv/ph/og/upi_com/9701629997438/2021/1/e30981875b6529604732f53d58b86540/v1.5/Federal-agencies-plan-to-expand-use-of-facial-recognition-technology.jpg"

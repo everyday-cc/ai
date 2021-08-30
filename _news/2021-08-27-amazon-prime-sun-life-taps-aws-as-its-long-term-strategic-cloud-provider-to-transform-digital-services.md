@@ -61,7 +61,7 @@ related:
     provider:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
-    quality: 36
+    quality: 38
   - title: "‘Digital Transformation is Accelerating Recovery and Financial Inclusion’"
     excerpt: "Nume Ekeghe The President/Chairman of Council, The Chartered Institute of Bankers of Nigeria (CIBN), Dr Bayo Olugbemi has stated that with the increase and adoption of technology, the economy and"
     publishedDateTime: 2021-08-30T03:05:00Z
