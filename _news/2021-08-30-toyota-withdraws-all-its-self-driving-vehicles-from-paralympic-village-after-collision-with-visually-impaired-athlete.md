@@ -441,6 +441,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Toyota suspends self-driving shuttle bus program after vehicle hits pedestrian"
+    excerpt: "Japanese manufacturer Toyota has temporarily suspended its self-driving shuttle bus program, after one of its vehicles hit an athlete at the Paralympic games in Tokyo last Thursday. The ‘e-Palette’ autonomous transporter allegedly struck vision ..."
+    publishedDateTime: 2021-08-30T01:31:00Z
+    webUrl: "https://www.drive.com.au/news/toyota-suspends-self-driving-shuttle-bus-program-after-vehicle-hits-pedestrian/"
+    type: article
+    provider:
+      name: Drive.com.au
+      domain: drive.com.au
+    quality: 20
+    images:
+      - url: "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_720,q_auto:best,w_1280/v1/cms/uploads/fohl6ojcry7ou1breo3w"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "GnL20VJpqEg3ulsgKU1q9Zc2e45GBWqwg/wFo49E+1iABlr+OB1GqY7BvjUDYEoCTylbM87Q98xqh43jpkByqwl3qE4iIDDkjqJ+qlcMa4iRx1yuDmhgUza6+PzVnliRdohH0b888UzNgB9W1m5n0Nrsu2FOmm6qzsNjEnhBXYJxlNaFSXeAjb3TefTcPTtJFT3Bkfkwj1dqFANiiIVeWgqn9k0NYhNHZgkSWs+GhvdLe+W3Gwc/0tEN/GkK/ksVlGJkaC0Ks2cHoh5OI7U0pYE4sROF23u4NYZYc2shIoIRWrEffKkXAsZWKtMjE74RDA/PSa1b14j0A76yXy4zXknRKKW3uaaB6nq//KB3T4A=;+uiXuMiTkiahP+C1Eecf2w=="
 ---

@@ -2,6 +2,99 @@
   "page": 96,
   "value": [
     {
+      "path": "_news/2021-06-22-the-new-normal-reimagine-the-transformation-of-industries-with-ai.md",
+      "title": "The New Normal: Reimagine The Transformation Of Industries With AI",
+      "excerpt": "With its far-reaching impact across industry segments, AI has unleashed the Fourth Industrial Revolution and is changing business processes as well as how industries reimagine their customer's preferences.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/22/the-new-normal-reimagine-the-transformation-of-industries-with-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/22/the-new-normal-reimagine-the-transformation-of-industries-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7376dc40469ab26495a8e5%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D23%26cropY2%3D3398",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/22/the-new-normal-reimagine-the-transformation-of-industries-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/06/22/the-new-normal-reimagine-the-transformation-of-industries-with-ai/amp/",
+      "publishedDateTime": "2021-06-22T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-22-grand-theft-auto-v-is-now-playable-inside-of-an-ai.md",
+      "title": "Grand Theft Auto V is now playable inside of an AI",
+      "excerpt": "A portion of GTA V has been recreated inside of an AI in a fascinating project involving a neural mind. AI is a term that is often used when talking about video games, but what it usually refers to is a behavioral set of rules that are reacting to the player.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gamesradar.com/grand-theft-auto-v-is-now-playable-inside-of-an-ai/",
+      "originalUrl": "https://www.gamesradar.com/grand-theft-auto-v-is-now-playable-inside-of-an-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Usdru3W58p6g8NGpxzUfyi-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamesradar.com/amp/grand-theft-auto-v-is-now-playable-inside-of-an-ai/",
+      "cdnAmpWebUrl": "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/amp/grand-theft-auto-v-is-now-playable-inside-of-an-ai/",
+      "publishedDateTime": "2021-06-22T03:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GamesRadar",
+        "domain": "gamesradar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-22-hewlett-packard-hpe-scoops-up-determined-ai-boosts-hpc-offerings.md",
       "title": "Hewlett Packard (HPE) Scoops Up Determined AI, Boosts HPC Offerings",
       "excerpt": "Hewlett Packard Enterprise HPE recently announced the acquisition of software provider — Determined AI — for an undisclosed amount. The acquisition is expected to boost Hewlett Packard’s portfolio of AI and high-performance computing (HPC) solutions by enabling machine learning (ML) professionals to implement ML models seamlessly to generate more precise insights from data.",
@@ -1069,93 +1162,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-why-self-driving-cars-arent-coming-any-time-soon-with-dr-missy-cummings.md",
-      "title": "Why Self-Driving Cars Aren’t Coming Any Time Soon with Dr. Missy Cummings",
-      "excerpt": "Dr. Missy Cummings, AI researcher and director of the Humans and Autonomy Laboratory at Duke, joins Adam to detail the massive gap between Silicon Valley’s promises and the technology’s limitations, and explain the real benefits that might come when we use AI to enhance human capability rather than replace us.",
-      "sourceUrl": null,
-      "webUrl": "https://www.earwolf.com/episode/why-self-driving-cars-arent-coming-any-time-soon-with-dr-missy-cummings/",
-      "originalUrl": "https://www.earwolf.com/episode/why-self-driving-cars-arent-coming-any-time-soon-with-dr-missy-cummings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.earwolf.com/wp-content/uploads/2019/05/EARWOLF_COVER_Factually_3000x3000_10thAnni_Final-1024x1024.jpg",
-          "width": 1024,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Earwolf",
-        "domain": "earwolf.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-aqua-security-launches-on-aws-cloudformation-public-registry-for-iac-automation.md",
-      "title": "Aqua Security Launches on AWS CloudFormation Public Registry for IaC Automation",
-      "excerpt": "Aqua Security, the pure-play cloud native security leader, today announced its participation in the launch of the AWS CloudFormation Public Registry, with a published listing to enable customers to easily discover,",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-19867139.html",
-      "originalUrl": "https://www.lelezard.com/en/news-19867139.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-21T16:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

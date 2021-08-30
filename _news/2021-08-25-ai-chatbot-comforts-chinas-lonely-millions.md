@@ -57,22 +57,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "XiaoIce is the AI chatbot that millions of lonely Chinese are turning to for comfort"
-    excerpt: "On the WeChat super-app, it lets users build a virtual girlfriend or boyfriend and interact with them via texts, voice and photo messages."
-    publishedDateTime: 2021-08-25T08:23:00Z
-    webUrl: "https://www.firstpost.com/tech/news-analysis/xiaoice-is-the-ai-chatbot-that-millions-of-lonely-chinese-are-turning-to-for-comfort-9910921.html"
-    ampWebUrl: "https://www.firstpost.com/tech/news-analysis/xiaoice-is-the-ai-chatbot-that-millions-of-lonely-chinese-are-turning-to-for-comfort-9910921.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/xiaoice-is-the-ai-chatbot-that-millions-of-lonely-chinese-are-turning-to-for-comfort-9910921.html/amp"
-    type: article
-    provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 52
-    images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2021/08/alex-knight-2EJCSULRwC8-unsplash-1.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "‘Always there:’ the AI chatbot comforting China’s lonely millions"
     excerpt: "After a painful break-up from a cheating ex, Beijing-based human resources manager Melissa was introduced to someone new by a friend late last year. He replies to her messages at all hours of the day,"
     publishedDateTime: 2021-08-25T16:00:00Z

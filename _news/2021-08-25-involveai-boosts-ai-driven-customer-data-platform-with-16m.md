@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/25/involve-ai-boosts-ai-driven-custo
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/25/involve-ai-boosts-ai-driven-customer-data-platform-with-16m/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -68,6 +68,20 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2021/08/30/1273994.jpg"
         width: 1240
         height: 892
+        isCached: true
+  - title: "SAP Acquires AI HR Platform"
+    excerpt: "SAP is enhancing its human experience management (HXM) software suite via the acquisition of artificial intelligence (AI) technology:"
+    publishedDateTime: 2021-08-30T01:46:00Z
+    webUrl: "https://www.datamation.com/applications/sap-acquires-swooptalent-ai-hr-platform/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
+    quality: 37
+    images:
+      - url: "https://www.datamation.com/wp-content/uploads/2021/07/SAP-logo.png"
+        width: 1920
+        height: 979
         isCached: true
   - title: "Involve.ai raises $16M to boost companies’ customer retention rates with AI"
     excerpt: "Involve.ai Inc., a startup using artificial intelligence to help enterprises improve their customer retention rates, today announced that it has closed a $16 million funding round led by Sapphire Ventures."

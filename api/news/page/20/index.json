@@ -2,6 +2,110 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-08-13-ai-startup-abacusai-turns-on-real-time-deep-learning-system-for-enterprises.md",
+      "title": "AI startup Abacus.ai turns on real-time deep learning system for enterprises",
+      "excerpt": "Real-time capabilities will allow a customer to plug an existing TensorFlow or Pytorch neural network into streaming data and have it continuously re-trained, for uses such as recommender systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-startup-abacus-ai-turns-on-real-time-deep-learning-system-for-enterprises/",
+      "originalUrl": "https://www.zdnet.com/article/ai-startup-abacus-ai-turns-on-real-time-deep-learning-system-for-enterprises/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/08/13/da0ed5fb-d3e2-4f25-be4f-afb1d8aa863d/abacus-ai-vector-matching-engine-2021.png",
+          "width": 2468,
+          "height": 1406,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-startup-abacus-ai-turns-on-real-time-deep-learning-system-for-enterprises/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-abacus-ai-turns-on-real-time-deep-learning-system-for-enterprises/",
+      "publishedDateTime": "2021-08-13T03:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-13-lawmakers-ask-amazon-what-it-plans-to-do-with-palm-print-biometric-data.md",
+      "title": "Lawmakers ask Amazon what it plans to do with palm print biometric data",
+      "excerpt": "A group of senators sent new Amazon CEO Andy Jassy a letter Friday pressing the company for more information about how it scans and stores customer palm prints for use in some of its retail stores. The company rolled out the palm print scanners through a program it calls Amazon One,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/08/13/amazon-biometric-data-senate-letter/",
+      "originalUrl": "https://techcrunch.com/2021/08/13/amazon-biometric-data-senate-letter/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-1027656194.jpg?w=1024",
+          "width": 1024,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/08/13/amazon-biometric-data-senate-letter/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/13/amazon-biometric-data-senate-letter/amp/",
+      "publishedDateTime": "2021-08-13T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-13-grape-crops-protected-with-help-of-facial-recognition-technology.md",
       "title": "Grape Crops Protected With Help of Facial Recognition Technology",
       "excerpt": "A radical collaboration between a biologist and an engineer is supercharging efforts to protect grape crops. The technology they’ve developed, using robotics and AI to identify grape plants infected with a devastating fungus,",
@@ -1043,93 +1147,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-deep-learning-chip-market-trend-forecast-drivers-restraints-company-profiles-and-key-players-analysis-by-2028.md",
-      "title": "Deep Learning Chip Market Trend, Forecast, Drivers, Restraints, Company Profiles and Key Players Analysis by 2028",
-      "excerpt": "The global deep learning chip market is expected to reach a market size of USD 27.75 Billion by 2028 and register a high revenue CAGR, according to latest analysis by Emergen Research. Increasing quantum computing adoption is expected to drive global deep learning chip market growth to a significant extent during the forecast period.",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/deep-learning-chip-market-trend-forecast-drivers-restraints-company-profiles-and-key-players-analysis-by-2028/",
-      "originalUrl": "https://manometcurrent.com/deep-learning-chip-market-trend-forecast-drivers-restraints-company-profiles-and-key-players-analysis-by-2028/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/08/Rotating-U-Disk-Market-390x220.jpg",
-          "width": 390,
-          "height": 220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/deep-learning-chip-market-trend-forecast-drivers-restraints-company-profiles-and-key-players-analysis-by-2028/",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-learning-chip-market-trend-forecast-drivers-restraints-company-profiles-and-key-players-analysis-by-2028/",
-      "publishedDateTime": "2021-08-12T08:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-dalhousie-universitys-ai-robotics-team-wins-gold-in-robocup.md",
-      "title": "Dalhousie University’s AI robotics team wins gold in RoboCup",
-      "excerpt": "The Dalhousie University's AI robotics team, CYRUS, has become the first Canadian team to win gold in the international RoboCup competition. Team CYRUS, led by research assistant Nader Zare and PhD student Mahtab Sarvmaili,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/article/dalhousie-universitys-ai-robotics-team-wins-gold-in-robocup/456872",
-      "originalUrl": "https://www.itworldcanada.com/article/dalhousie-universitys-ai-robotics-team-wins-gold-in-robocup/456872",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2021/08/GettyImages-637794534.jpg",
-          "width": 836,
-          "height": 418,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/article/dalhousie-universitys-ai-robotics-team-wins-gold-in-robocup/456872?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/dalhousie-universitys-ai-robotics-team-wins-gold-in-robocup/456872?amp=1",
-      "publishedDateTime": "2021-08-12T07:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

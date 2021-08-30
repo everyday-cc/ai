@@ -9,7 +9,7 @@ ampWebUrl: "https://auto.hindustantimes.com/auto/news/gatik-joins-the-driverless
 cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/gatik-joins-the-driverless-self-driving-car-club/amp-41630150506346.html"
 type: article
 quality: 59
-heat: 79
+heat: 81
 published: true
 
 provider:

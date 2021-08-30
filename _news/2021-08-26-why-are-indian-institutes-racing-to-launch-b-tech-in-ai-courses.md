@@ -57,20 +57,6 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "How Does Indian Railways Leverage Artificial Intelligence to Boost Customer Experience?"
-    excerpt: "This article explores how Indian Railways leverage Artificial Intelligence to boost customer experience across India. AI models and data analytics tools are helping to incorporate Artificial Intelligence in Indian Railways."
-    publishedDateTime: 2021-08-25T07:24:00Z
-    webUrl: "https://www.analyticsinsight.net/how-does-indian-railways-leverage-artificial-intelligence-to-boost-customer-experience/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 44
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Indian-Railways-Leverage-Artificial-Intelligence-to-Boost-Customer-Experience.jpg"
-        width: 900
-        height: 500
-        isCached: true
   - title: "Augnito looks to tap growing India market for speech recognition in health"
     excerpt: "The use of voice recognition systems based on artificial intelligence (AI) in health care is emerging in India, which offers a potentially enormous market, according to Scribetech Healthcare (India) Pvt."
     publishedDateTime: 2021-08-27T00:00:00Z

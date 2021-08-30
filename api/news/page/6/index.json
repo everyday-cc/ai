@@ -433,6 +433,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-24-global-industry-analysts-predicts-the-world-cognitive-services-market-to-reach-29-billion-by-2026.md",
+      "title": "Global Industry Analysts Predicts the World Cognitive Services Market to Reach $29 Billion by 2026",
+      "excerpt": "Companies: 42 - Players covered include Amazon Web Services, Inc.; Apple, Inc.; Attivio, Inc.; Baidu, Inc.; BMC Software, Inc.; Clarifai, Inc.; CognitiveScale; Expert ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-industry-analysts-predicts-the-world-cognitive-services-market-to-reach-29-billion-by-2026/article_9c385638-fa60-5a72-b426-af194d05e231.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-industry-analysts-predicts-the-world-cognitive-services-market-to-reach-29-billion-by-2026/article_9c385638-fa60-5a72-b426-af194d05e231.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/6e/c6eb5c17-d1e6-5ef2-96fa-20aca81f3dca/61250288de397.image.jpg?resize=747%2C630",
+          "width": 747,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-24T07:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-24-elon-musk-says-teslas-latest-beta-self-driving-software-is-not-great.md",
       "title": "Elon Musk says Tesla's latest beta self-driving software is ‘not great’",
       "excerpt": "Musk's critical tweet on Monday came just days after he touted Tesla's prowess with autonomous systems and components for them at an event called Tesla AI Day.",
@@ -533,49 +576,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-global-industry-analysts-predicts-the-world-cognitive-services-market-to-reach-29-billion-by-2026.md",
-      "title": "Global Industry Analysts Predicts the World Cognitive Services Market to Reach $29 Billion by 2026",
-      "excerpt": "A new market study published b Inc., (GIA) the premier market research company, today released its report titled \"Cognitive Services",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/global-industry-analysts-predicts-the-world-cognitive-services-market-to-reach-29-billion-by-2026/article_9c385638-fa60-5a72-b426-af194d05e231.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/global-industry-analysts-predicts-the-world-cognitive-services-market-to-reach-29-billion-by-2026/article_9c385638-fa60-5a72-b426-af194d05e231.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/6e/c6eb5c17-d1e6-5ef2-96fa-20aca81f3dca/61250288de397.image.jpg?resize=747%2C630",
-          "width": 747,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-24T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     },

@@ -6,8 +6,8 @@ publishedDateTime: 2021-08-29T22:01:00Z
 originalUrl: "https://www.brinknews.com/artificial-intelligence-uses-a-computer-chip-designed-for-video-games-does-that-matter/"
 webUrl: "https://www.brinknews.com/artificial-intelligence-uses-a-computer-chip-designed-for-video-games-does-that-matter/"
 type: article
-quality: 45
-heat: 45
+quality: 47
+heat: 47
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.brinknews.com/wp-content/uploads/2021/08/GettyImages-1125049869.jpg"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/indian-railway
 cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/indian-railways-installs-a-facial-recognition-system-to-track-commuters-703762"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe3c15c96-a674-4114-8ec0-0fe5f1cab4f8.jpg?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
-        isCached: true
-  - title: "How Does Indian Railways Leverage Artificial Intelligence to Boost Customer Experience?"
-    excerpt: "This article explores how Indian Railways leverage Artificial Intelligence to boost customer experience across India. AI models and data analytics tools are helping to incorporate Artificial Intelligence in Indian Railways."
-    publishedDateTime: 2021-08-25T07:24:00Z
-    webUrl: "https://www.analyticsinsight.net/how-does-indian-railways-leverage-artificial-intelligence-to-boost-customer-experience/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 44
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Indian-Railways-Leverage-Artificial-Intelligence-to-Boost-Customer-Experience.jpg"
-        width: 900
-        height: 500
         isCached: true
   - title: "Why Are Indian Institutes Racing To Launch B Tech in AI Courses"
     excerpt: "Gone are the days when students fancied a computer science seat in a top tier college. Now there is a demand for specialisation. Thanks to the hype around artificial intelligence (AI), many Indian institutions are now racing to offer their own B."

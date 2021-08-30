@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Tesla's Full Self-Driving system 'not great,' admits Musk"
-    excerpt: "Tesla CEO Elon Musk has admitted that the Full Self-Driving system is not that great, adding that the company is trying for a"
-    publishedDateTime: 2021-08-25T07:06:00Z
-    webUrl: "https://www.glamsham.com/world/technology/teslas-full-self-driving-system-not-great-admits-musk"
-    ampWebUrl: "https://www.glamsham.com/world/technology/teslas-full-self-driving-system-not-great-admits-musk/amp"
-    cdnAmpWebUrl: "https://www-glamsham-com.cdn.ampproject.org/c/s/www.glamsham.com/world/technology/teslas-full-self-driving-system-not-great-admits-musk/amp"
-    type: article
-    provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 59
-    images:
-      - url: "https://www.glamsham.com/wp-content/uploads/2021/08/5715ef8ba8bbb92159b39551d2e804fc.jpg"
-        width: 400
-        height: 266
-        isCached: true
   - title: "Musk says Tesla owners to get self-driving beta button with v10"
     excerpt: "Elon Musk gives another update for when Tesla owners will be able to download the company's semi-autonomous \"Full Self-Driving\" (FSD) beta software."
     publishedDateTime: 2021-08-26T04:03:00Z

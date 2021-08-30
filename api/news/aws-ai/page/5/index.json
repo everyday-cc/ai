@@ -2,6 +2,60 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-07-14-deploy-variational-autoencoders-for-anomaly-detection-with-tensorflow-serving-on-amazon-sagemaker.md",
+      "title": "Deploy variational autoencoders for anomaly detection with TensorFlow Serving on Amazon SageMaker",
+      "excerpt": "Anomaly detection is the process of identifying items, events, or occurrences that have different characteristics from the majority of the data. It has many applications in various fields, like fraud detection for credit cards, insurance, or healthcare; network intrusion detection for cybersecurity;",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/deploying-variational-autoencoders-for-anomaly-detection-with-tensorflow-serving-on-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/deploying-variational-autoencoders-for-anomaly-detection-with-tensorflow-serving-on-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/01/ML1533-image003.jpg",
+          "width": 1588,
+          "height": 934,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-14T10:28:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2021-07-14-artificial-intelligence-ai-chipsets-market-to-upheave-market-growth-during-the-forecast-period-2020-2026.md",
       "title": "Artificial Intelligence (AI) Chipsets Market to Upheave Market Growth During The Forecast Period 2020-2026",
       "excerpt": "Chipsets Market to Upheave Market Growth During The Forecast Period 2020-2026” by Zion Market Research facilitates a closer outlook on opportunities, revenue growth, and current market trends. The report is focused to offer qualitative and quantitative analysis of dynamics and market opportunities prevailing during the forecast period.",
@@ -1308,49 +1362,6 @@
         "AI",
         "AWS AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-06-28-virtana-migrate-delivers-3x-faster-cloud-migration-to-aws.md",
-      "title": "Virtana Migrate Delivers 3x Faster Cloud Migration to AWS",
-      "excerpt": "Virtana, the AIOps observability company for hybrid cloud, announces the momentum of Virtana Platform, with successful customer and partner use cases for",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/virtana-migrate-delivers-3x-faster-cloud-migration-to-aws/article_c79c0c74-8524-58d9-9ccc-a395876d246b.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/virtana-migrate-delivers-3x-faster-cloud-migration-to-aws/article_c79c0c74-8524-58d9-9ccc-a395876d246b.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/03/f03f332d-513b-51a1-a054-036cd721ca33/6050c91088e37.image.jpg?resize=864%2C288",
-          "width": 864,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-28T06:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

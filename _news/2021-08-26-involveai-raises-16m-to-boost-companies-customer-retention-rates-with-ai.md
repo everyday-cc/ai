@@ -79,6 +79,20 @@ related:
         width: 1240
         height: 892
         isCached: true
+  - title: "SAP Acquires AI HR Platform"
+    excerpt: "SAP is enhancing its human experience management (HXM) software suite via the acquisition of artificial intelligence (AI) technology:"
+    publishedDateTime: 2021-08-30T01:46:00Z
+    webUrl: "https://www.datamation.com/applications/sap-acquires-swooptalent-ai-hr-platform/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
+    quality: 37
+    images:
+      - url: "https://www.datamation.com/wp-content/uploads/2021/07/SAP-logo.png"
+        width: 1920
+        height: 979
+        isCached: true
 
 secured: "aLUL+mIBlVKjKNxECy3qVp1hbC6MRkENbXYxDsTiXCX2LgrXNgHer7My+h1Vv9dHDaheJedER0pGxYZZJvNNe6/+hxtZr2065xmByZPlos7W476nBLkPmecR+qoQlhZPiqFHOorREGBBFNtWhOJy9ILCW0eorH6akNOQ1B2u10urBtW79B0q/CwPTFkPNIUroRLqc02eyPfedWD9T0lQ7ayWw/feXmCupxpEI8ili8F25qD37rjXsF2k3SPo3cAHmZs9c62Z8zRX/Kq7L+KIzK5+tUy5GA1A/yyyqbp5AqNyntRXQfiP3xGvAPy6e9j11IKBqYKkkHqcrzq0dUht4KTB9ovX0ymIInub7DI7y/R+IjRv0hotMeZqriUYwHgdtBfsKctFWNP17hvKwDdkluBa+4xtW3wmhgaPdmf6Eg49zy3DoLeY+IjhIPWQaMfpQRMEgVTd3gpE1STYjFErThpzUdsLF+CRJAo1EHV9u2MZ1a0pS1TUL0J7F53Fr5xbeCVBzLMKClVP90azKjhaOA==;d6zXgVa5uZ7PHqbyAEJx2A=="
 ---

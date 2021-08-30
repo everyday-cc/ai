@@ -2,29 +2,38 @@
   "page": 15,
   "value": [
     {
-      "path": "_news/2021-08-17-noodleai-joins-aws-partner-network-to-build-supply-chain-resiliency-for-cpg-customers.md",
-      "title": "Noodle.ai Joins AWS Partner Network to Build Supply Chain Resiliency for CPG Customers",
-      "excerpt": "Noodle.ai, the leading provider of Flow Operations (FlowOps) software, today announced it has become an Amazon Web Services (AWS) Advanced Technology Partner to drive scale and efficiency for the supply chains of global consumer packaged goods (CPG) companies.",
+      "path": "_news/2021-08-17-when-your-teacher-is-an-ai-avatar.md",
+      "title": "When your teacher is an AI avatar",
+      "excerpt": "Natalie Monbiot, head of strategy at Hour One, explains to Tonya Hall how digital avatars could expand the reach of online education.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/noodle-ai-joins-aws-partner-network-to-build-supply-chain-resiliency-for-cpg-customers-1030737980",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/noodle-ai-joins-aws-partner-network-to-build-supply-chain-resiliency-for-cpg-customers-1030737980",
+      "webUrl": "https://www.zdnet.com/video/when-your-teacher-is-an-ai-avatar/",
+      "originalUrl": "https://www.zdnet.com/video/when-your-teacher-is-an-ai-avatar/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 87,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/r/2021/08/17/7a1c3acf-bd9b-49cf-b428-a124026eb375/thumbnail/770x578/cf74f2a944f82fd6bc4128ea1210553f/thumb.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-17T07:05:00-07:00",
+      "publishedDateTime": "2021-08-17T07:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "ZDNet",
+        "domain": "zdnet.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -40,7 +49,6 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
         "AI"
       ]
     },
@@ -550,6 +558,74 @@
       "topics": [
         "AI",
         "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-noodleai-joins-aws-partner-network-to-build-supply-chain-resiliency-for-cpg-customers.md",
+      "title": "Noodle.ai Joins AWS Partner Network to Build Supply Chain Resiliency for CPG Customers",
+      "excerpt": "Noodle.ai, the leading provider of Flow Operations (FlowOps) software, today announced it has become an Amazon Web Services (AWS)",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/noodleai-joins-aws-partner-network-to-build-supply-chain-resiliency-for-cpg-customers-301356411.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/noodleai-joins-aws-partner-network-to-build-supply-chain-resiliency-for-cpg-customers-301356411.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-17T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-avaya-and-microsoft-announce-integration-of-microsoft-azure-communication-services-with-avaya-onecloud-cpaas.md",
+      "title": "Avaya and Microsoft Announce Integration of Microsoft Azure Communication Services with Avaya OneCloud CPaaS",
+      "excerpt": "Benefiting from the complementary strengths of both companies, the joint solutions include Avaya’s award-winning 1 Avaya OneCloud CPaaS (Communications Platform as a Service) now integrated with voice,",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/avaya-and-microsoft-announce-integration-of-microsoft-azure-communication-services-with-avaya-onecloud-cpaas/",
+      "originalUrl": "https://www.financialbuzz.com/avaya-and-microsoft-announce-integration-of-microsoft-azure-communication-services-with-avaya-onecloud-cpaas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-17T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1091,93 +1167,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-solve-your-toughest-business-problems-with-ai-and-machine-learning.md",
-      "title": "Solve your toughest business problems with AI and machine learning ",
-      "excerpt": "Today, AI and machine learning are enabling data-driven organizations to accelerate their journey to insights and decisions. With all the latest advancements, AI is no longer limited to only those with deep expertise or a cache of data scientists, and many organizations can now adopt AI and machine learning",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/solve-your-toughest-business-problems-with-ai-and-machine-learning/",
-      "originalUrl": "https://azure.microsoft.com/blog/solve-your-toughest-business-problems-with-ai-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-17T03:00:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-technologies-of-voice-recognition-market-globally-expected-to-drive-growth-through-2027.md",
-      "title": "Technologies of Voice Recognition Market Globally Expected to Drive Growth through 2027",
-      "excerpt": "The report discusses the key players in the market who have provided a huge contribution in the growth of the Technologies of Voice Recognition Market and dominate the market share. The report also provides information on the market revenue of the key players.",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/technologies-of-voice-recognition-market-2021-research-including-growth-factors-global-survey-development-strategy-nuance-communicationsauraya-systems-pty-ltd-microsoft-corporation/",
-      "originalUrl": "https://manometcurrent.com/technologies-of-voice-recognition-market-2021-research-including-growth-factors-global-survey-development-strategy-nuance-communicationsauraya-systems-pty-ltd-microsoft-corporation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/08/Global-Tantalum-Pentoxide-Market-390x220.jpg",
-          "width": 390,
-          "height": 220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/technologies-of-voice-recognition-market-2021-research-including-growth-factors-global-survey-development-strategy-nuance-communicationsauraya-systems-pty-ltd-microsoft-corporation/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/technologies-of-voice-recognition-market-2021-research-including-growth-factors-global-survey-development-strategy-nuance-communicationsauraya-systems-pty-ltd-microsoft-corporation/?amp=1",
-      "publishedDateTime": "2021-08-17T02:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

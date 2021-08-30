@@ -2,6 +2,110 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2021-08-03-seeing-the-future-of-ai-an-introduction-to-computer-vision-for-safety.md",
+      "title": "Seeing The Future Of AI: An Introduction To Computer Vision For Safety",
+      "excerpt": "Computer vision has exploded onto the technology scene over the past decade. Considered one of the most powerful types of artificial intelligence (AI), it has become the technology solution of choice for some of the most complex issues facing industries today.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/03/seeing-the-future-of-ai-an-introduction-to-computer-vision-for-safety/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/03/seeing-the-future-of-ai-an-introduction-to-computer-vision-for-safety/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6107f1ea0713bed8d21910e1%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/03/seeing-the-future-of-ai-an-introduction-to-computer-vision-for-safety/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/03/seeing-the-future-of-ai-an-introduction-to-computer-vision-for-safety/amp/",
+      "publishedDateTime": "2021-08-03T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-03-why-sales-leaders-need-ai-and-the-c-suite-should-demand-it.md",
+      "title": "Why Sales Leaders Need AI - and the C-Suite Should Demand It",
+      "excerpt": "There is nothing inherently strategic or rigorous about using a dashboard. Therefore, it may be up to senior leaders to invest in the best AI solutions and encourage (or even insist on) their use by the sales department.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joelshapiro/2021/08/03/why-sales-leaders-need-aiand-the-c-suite-should-demand-it/",
+      "originalUrl": "https://www.forbes.com/sites/joelshapiro/2021/08/03/why-sales-leaders-need-aiand-the-c-suite-should-demand-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610827a5e420c7d6667a6fed%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-03T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-first-uae-bank-to-use-facial-recognition-for-account-opening-goes-live.md",
       "title": "First UAE bank to use facial recognition for account opening goes live",
       "excerpt": "Leading brand for international independent financial advisers, wealth management professionals serving expatriate and cross-border clients worldwide.",
@@ -1078,92 +1182,6 @@
       "topics": [
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-chinese-weightlifter-li-dominates-womens-87kg-division-at-tokyo-2020.md",
-      "title": "Chinese weightlifter Li dominates women's +87kg division at Tokyo 2020",
-      "excerpt": "Li Wenwen of China celebrates during the awarding ceremony for the Weightlifting Women's +87kg Final at Tokyo 2020 Olympic Games in Tokyo, Japan on Aug. 2, 2021. (Xinhua/Yang Lei) China's Li Wenwen shows her supremacy in the women's weightlifting +87kg division and sets three new Olympic records at Tokyo 2020.",
-      "sourceUrl": null,
-      "webUrl": "https://lileicc.github.io/",
-      "originalUrl": "https://www.msn.com/en-xl/news/other/chinese-weightlifter-li-dominates-womens-87kg-division-at-tokyo-2020/ar-AAMQvND",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-02T08:07:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "github.io/",
-        "domain": "github.io/",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-nvidia-is-tracking-more-than-8500-ai-startups-with-60b-in-funding.md",
-      "title": "Nvidia is tracking more than 8,500 AI startups with $60B in funding",
-      "excerpt": "Nvidia is tracking more than 8,500 AI startups through its Inception AI startup program. Those companies have raised more than $60 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/02/nvidia-is-tracking-more-than-8500-ai-startups-with-60b-in-funding/",
-      "originalUrl": "https://venturebeat.com/2021/08/02/nvidia-is-tracking-more-than-8500-ai-startups-with-60b-in-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 231,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/nvidia-inception-2-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 624,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/02/nvidia-is-tracking-more-than-8500-ai-startups-with-60b-in-funding/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/02/nvidia-is-tracking-more-than-8500-ai-startups-with-60b-in-funding/amp/",
-      "publishedDateTime": "2021-08-02T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

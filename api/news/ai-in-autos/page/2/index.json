@@ -1406,21 +1406,21 @@
       ]
     },
     {
-      "path": "_news/2021-08-18-democrats-ask-ftc-to-investigate-teslas-self-driving-claims.md",
-      "title": "Democrats ask FTC to investigate Tesla's self-driving claims",
-      "excerpt": "Two Democratic senators asked the Federal Trade Commission to investigate Tesla over the company’s advertising of its Autopilot and Full Self-Driving technology. The letter comes one day after the National Highway Traffic Safety Administration opened a formal investigation into Tesla’s Autopilot system.",
+      "path": "_news/2021-08-18-chinas-baidu-launches-second-chip-and-a-robocar-as-it-sets-up-future-in-ai-and-autonomous-driving.md",
+      "title": "China's Baidu launches second chip and a 'robocar' as it sets up future in AI and autonomous driving",
+      "excerpt": "Baidu, known as China's biggest search engine player, has focused on diversifying its business beyond advertising to artificial intelligence and driverless cars. In this article GUANGZHOU, China — Chinese internet giant Baidu unveiled its second ...",
       "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/08/18/democrats-ask-ftc-to-investigate-teslas-self-driving-claims.html",
-      "originalUrl": "https://www.cnbc.com/2021/08/18/democrats-ask-ftc-to-investigate-teslas-self-driving-claims.html",
+      "webUrl": "https://www.cnbc.com/2021/08/18/baidu-launches-robocar-and-ai-chip-in-bid-to-diversify-business.html",
+      "originalUrl": "https://www.cnbc.com/2021/08/18/baidu-launches-robocar-and-ai-chip-in-bid-to-diversify-business.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 424,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://image.cnbcfm.com/api/v1/image/104670924-GettyImages-492682160-autonomous-car.jpg?v=1629294162",
-          "width": 2000,
-          "height": 1333,
+          "url": "https://image.cnbcfm.com/api/v1/image/106929546-1629264747396-Robin_Li_Baidu_Robocarpic_hd_copy.jpg?v=1629264961",
+          "width": 2891,
+          "height": 1927,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1428,9 +1428,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/08/18/democrats-ask-ftc-to-investigate-teslas-self-driving-claims.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/08/18/democrats-ask-ftc-to-investigate-teslas-self-driving-claims.html",
-      "publishedDateTime": "2021-08-18T04:57:00-07:00",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/08/18/baidu-launches-robocar-and-ai-chip-in-bid-to-diversify-business.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/08/18/baidu-launches-robocar-and-ai-chip-in-bid-to-diversify-business.html",
+      "publishedDateTime": "2021-08-18T05:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNBC",
@@ -1454,7 +1454,8 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
+        "AI",
+        "AI Hardware"
       ]
     }
   ],

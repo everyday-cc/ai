@@ -7,7 +7,7 @@ originalUrl: "https://money.usnews.com/investing/news/articles/2021-08-27/toyota
 webUrl: "https://www.reuters.com/business/autos-transportation/toyota-halts-all-self-driving-e-pallete-vehicles-after-olympic-village-accident-2021-08-27/"
 type: article
 quality: 148
-heat: 418
+heat: 428
 published: true
 
 provider:
@@ -429,6 +429,20 @@ related:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/ToyotaE-MAIN_i.png"
         width: 800
         height: 600
+        isCached: true
+  - title: "Toyota suspends self-driving shuttle bus program after vehicle hits pedestrian"
+    excerpt: "Japanese manufacturer Toyota has temporarily suspended its self-driving shuttle bus program, after one of its vehicles hit an athlete at the Paralympic games in Tokyo last Thursday. The ‘e-Palette’ autonomous transporter allegedly struck vision ..."
+    publishedDateTime: 2021-08-30T01:31:00Z
+    webUrl: "https://www.drive.com.au/news/toyota-suspends-self-driving-shuttle-bus-program-after-vehicle-hits-pedestrian/"
+    type: article
+    provider:
+      name: Drive.com.au
+      domain: drive.com.au
+    quality: 20
+    images:
+      - url: "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_720,q_auto:best,w_1280/v1/cms/uploads/fohl6ojcry7ou1breo3w"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Toyota withdraws all its self-driving vehicles from Paralympic village after collision with visually impaired athlete"
     excerpt: "Toyota has suspended all self-driving e-Palette transportation pods at the Tokyo Paralympic Games village, a day after one of the vehicles collided with and injured a visually impaired pedestrian."

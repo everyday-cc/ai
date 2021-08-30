@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-17-huawei-smart-city-projects-meet-facial-recognition-block-lawsuit-from-partner.md",
+      "title": "Huawei smart city projects meet facial recognition block, lawsuit from partner",
+      "excerpt": "The Serbia smart city projectis raising concerns among some members of the European Parliament. Huawei also faces a lawsuit in a Pakistan surveillance project.",
+      "sourceUrl": null,
+      "webUrl": "https://www.biometricupdate.com/202108/huawei-smart-city-projects-meet-facial-recognition-block-lawsuit-from-partner",
+      "originalUrl": "https://www.biometricupdate.com/202108/huawei-smart-city-projects-meet-facial-recognition-block-lawsuit-from-partner",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/08/11150416/Huawei-scaled.jpg",
+          "width": 2048,
+          "height": 1045,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-16T10:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-16-optical-adversarial-attack-can-change-the-meaning-of-road-signs.md",
       "title": "Optical Adversarial Attack Can Change the Meaning of Road Signs",
       "excerpt": "Researchers in the US have developed an adversarial attack against the ability of machine learning systems to correctly interpret what they see – including mission-critical items such as road signs – by shining patterned light onto real world objects.",
@@ -1280,49 +1323,6 @@
       "provider": {
         "name": "Windsor Star",
         "domain": "windsorstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-federal-liberals-probed-for-facial-recognition-use.md",
-      "title": "Federal Liberals probed for facial recognition use",
-      "excerpt": "The Liberal Party of Canada’s use of facial recognition technology is under investigation by B.C.’s information and privacy commissioner. Michael McEvoy’s office said August 6 it would be looking into the federal governing party’s use of the controversial technology for identification purposes in nomination races.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nsnews.com/bc-news/federal-liberals-probed-for-facial-recognition-use-4199368",
-      "originalUrl": "https://www.nsnews.com/bc-news/federal-liberals-probed-for-facial-recognition-use-4199368",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.vmcdn.ca/f/files/biv/facial-recognition-yuichiro-chino-moment-getty-images.jpg;w=724;h=483;mode=crop",
-          "width": 724,
-          "height": 483,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nsnews.com/amp/bc-news/federal-liberals-probed-for-facial-recognition-use-4199368",
-      "cdnAmpWebUrl": "https://www-nsnews-com.cdn.ampproject.org/c/s/www.nsnews.com/amp/bc-news/federal-liberals-probed-for-facial-recognition-use-4199368",
-      "publishedDateTime": "2021-08-06T09:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News",
-        "domain": "nsnews.com",
         "images": null,
         "publishers": null,
         "authors": null

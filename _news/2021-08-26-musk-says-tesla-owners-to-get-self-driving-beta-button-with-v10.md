@@ -75,22 +75,6 @@ related:
         width: 1024
         height: 555
         isCached: true
-  - title: "Tesla's Full Self-Driving system 'not great,' admits Musk"
-    excerpt: "Tesla CEO Elon Musk has admitted that the Full Self-Driving system is not that great, adding that the company is trying for a"
-    publishedDateTime: 2021-08-25T07:06:00Z
-    webUrl: "https://www.glamsham.com/world/technology/teslas-full-self-driving-system-not-great-admits-musk"
-    ampWebUrl: "https://www.glamsham.com/world/technology/teslas-full-self-driving-system-not-great-admits-musk/amp"
-    cdnAmpWebUrl: "https://www-glamsham-com.cdn.ampproject.org/c/s/www.glamsham.com/world/technology/teslas-full-self-driving-system-not-great-admits-musk/amp"
-    type: article
-    provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 59
-    images:
-      - url: "https://www.glamsham.com/wp-content/uploads/2021/08/5715ef8ba8bbb92159b39551d2e804fc.jpg"
-        width: 400
-        height: 266
-        isCached: true
   - title: "What the feds’ investigation into Tesla’s Autopilot means for future of self-driving cars"
     excerpt: "In addition to its Autopilot capabilities, Tesla has been offering what it calls “full self-driving” features that include autopark and auto lane change. Since its first offering of the Autopilot system and other self-driving features, Tesla has ..."
     publishedDateTime: 2021-08-29T19:56:00Z
