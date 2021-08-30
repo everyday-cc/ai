@@ -76,6 +76,15 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 45
+  - title: "Opinion Piece: Playing catch-up to the early adopters of analytics, AI and machine learning"
+    excerpt: "By Sarthak Rohal, VP - IT services at AlphaCodes Early adopters of data analytics, Artificial Intelligence (AI) and Machine Learning (ML) tools have found themselves in a position of favour in today’s rapidly accelerating digital world."
+    publishedDateTime: 2021-08-30T08:22:00Z
+    webUrl: "https://www.engineeringnews.co.za/article/opinion-piece-playing-catch-up-to-the-early-adopters-of-analytics-ai-and-machine-learning-2021-08-30"
+    type: article
+    provider:
+      name: Engineering News
+      domain: engineeringnews.co.za
+    quality: 24
 
 secured: "WM5gyvMPMirW0l4I2P+PDxXhThQx6uzjat8+GUwJhxDxP9tWus020ETK4omRCb5KkAeS2nFFdEVRLwzf1VxCSPBgfkxxN11bT7PDrj/MdRRkjIZV6emc6s2LocbEd48gHB4fCul7JKMXq+oAEEp+CeHExb6VTgA5hl//Cny6ZJBEnHX2nxy/FkhcZeIbR60cMY3TwNbQ2uhq5kulDfQa96hpIgSaHAaCO0TqIHKi1E2Fi4JlY3lYYxRr0Uc6u08BkJIV2/+6Vmi4LmX/R8TN7sSovwQpvLqT/7QGkVk67sAXiib32e9VkF/OtXX1z9z5fiyBuRupWj3WFfSlIe1Z4D9N3SlBWvxrLGj3YEA/IHTUHwk1jW3r7srf8uQUBWc8qGhcg6MDbvJav0WkNS4kYiPIuJSFq3vOyl+16hM8F279l88ySO3ccp55FWbALYfBuEnLR2bHE+Juax5ezDDXngICLSNZjjMGWlXlWDHnf9K+sYP3VUFkWnmAW+6rYwbEFHBGaro/XkaZjXhTWc5XNg==;GCE3HOn1uMlolWO9DvyWFQ=="
 ---

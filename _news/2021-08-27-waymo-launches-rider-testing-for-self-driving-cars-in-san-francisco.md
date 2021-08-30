@@ -27,77 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Waymo Expands Self-Driving Operations. What It Means for Tesla."
-    excerpt: "Truly self-driving cars are on American roads. And they don’t come from Tesla. Consumers—and investors—just need to know where to look. Waymo, Alphabet’s (ticker: GOOG) venture into self-driving cars,"
-    publishedDateTime: 2021-08-25T15:21:00Z
-    webUrl: "https://www.barrons.com/articles/waymo-alphabet-self-driving-cars-san-francisco-51629904722"
-    ampWebUrl: "https://www.barrons.com/amp/articles/waymo-alphabet-self-driving-cars-san-francisco-51629904722"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/waymo-alphabet-self-driving-cars-san-francisco-51629904722"
+  - title: "Cruise is buying solar energy from California farmers to power its electric, self-driving fleet"
+    excerpt: "Cruise, the self-driving car company under General Motors, has launched a new initiative called Farm to Fleet that will allow the company to source solar power from farms in California’s Central Valley."
+    publishedDateTime: 2021-08-26T23:08:00Z
+    webUrl: "https://techcrunch.com/2021/08/26/cruise-is-buying-solar-energy-from-california-farmers-to-power-its-electric-self-driving-fleet/"
+    ampWebUrl: "https://techcrunch.com/2021/08/26/cruise-is-buying-solar-energy-from-california-farmers-to-power-its-electric-self-driving-fleet/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/26/cruise-is-buying-solar-energy-from-california-farmers-to-power-its-electric-self-driving-fleet/amp/"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 74
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 62
     images:
-      - url: "https://images.barrons.com/im-391008/social"
-        width: 1280
-        height: 640
+      - url: "https://techcrunch.com/wp-content/uploads/2021/08/cruise-solar.png?w=1024"
+        width: 1024
+        height: 768
         isCached: true
-  - title: "Waymo expands to San Francisco with public self-driving test"
-    excerpt: "Waymo is finally thinking about expanding. The Alphabet self-driving car division has been running an impressive self-driving ride-hailing service for almost a year now, but only in a small suburb outside of Phoenix,"
-    publishedDateTime: 2021-08-25T16:55:00Z
-    webUrl: "https://arstechnica.com/gadgets/2021/08/waymo-expands-to-san-francisco-with-public-self-driving-test/"
+  - title: "Cruise Looks to Solar Panels to Power Self-Driving Cars"
+    excerpt: "Cruise, the San Francisco autonomous car company backed by General Motors, is launching a new initiative to support renewable energy efforts in California’s Central Valley that takes advantage of solar power."
+    publishedDateTime: 2021-08-25T20:30:00Z
+    webUrl: "https://www.ttnews.com/articles/cruise-looks-solar-panels-power-self-driving-cars"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 69
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 24
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/08/SF-760x380.png"
-        width: 760
-        height: 380
-        isCached: true
-  - title: "Alphabet’s Waymo to stop selling lidar self-driving car sensors"
-    excerpt: "Waymo told Reuters that it is now focusing on deploying its Waymo Driver technology across its Waymo One ride-hailing and Waymo Via trucking operations."
-    publishedDateTime: 2021-08-28T19:27:00Z
-    webUrl: "https://techstory.in/alphabets-waymo-to-stop-selling-lidar-self-driving-car-sensors/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/08/download-2-1.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Waymo's self-driving Jaguar I-Pace electric cars are ready for passengers"
-    excerpt: "San Francisco riders will have a self-driving electric car do the driving—although an \"autonomous specialist\" will be onboard."
-    publishedDateTime: 2021-08-26T12:00:00Z
-    webUrl: "https://www.greencarreports.com/news/1133368_waymo-s-self-driving-jaguar-i-pace-electric-cars-are-ready-for-passengers"
-    type: article
-    provider:
-      name: Green Car Reports
-      domain: greencarreports.com
-    quality: 38
-    images:
-      - url: "https://images.hgmsites.net/hug/waymo-self-driving-car-prototype-in-san-francisco-california_100803730_h.jpg"
-        width: 1920
-        height: 1099
-        isCached: true
-  - title: "Why the feds are investigating Tesla’s Autopilot and what that means for the future of self-driving cars"
-    excerpt: "Tesla’s Autopilot uses cameras, radar and ultrasonic sensors to support two major features: Traffic-Aware Cruise Control and Autosteer."
-    publishedDateTime: 2021-08-26T14:22:00Z
-    webUrl: "https://www.minnpost.com/other-nonprofit-media/2021/08/why-the-feds-are-investigating-teslas-autopilot-and-what-that-means-for-the-future-of-self-driving-cars/"
-    type: article
-    provider:
-      name: MinnPost
-      domain: minnpost.com
-    quality: 22
-    images:
-      - url: "https://www.minnpost.com/wp-content/uploads/2021/08/TeslaCrash640.jpg"
-        width: 640
-        height: 450
+      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/cruise.jpg?itok=CsWCu9x8"
+        width: 470
+        height: 246
         isCached: true
 
 secured: "i9IvlHoj5DM91dK/Ne5FUqXqL45FPN+8aVLx7K1AiLaYyQY5FY0qLGTEG+xq9izRuXyVv6YRnN5e8TT8Gf3wbfOVXj4A5qPLS6LJRtCBOvfJlQB9tjhYlUv6Jq/eQ0nBBeKMQxATXB0SaZtYWknfn8ZLiLa7bzWV3BAMCViwN1+U0rdyEHYksR/kmtEffDcL+7qHOedLTWzoALseP7a/1nHrTCsmYmXC9OJfRzt2rd4StkDNfdKg1+YTydm940cmo7faQe3adLCyfWpeDMWL3xxmoqpLCf8pw5neMCfM28HuVt3FZhxcHzhvCGpReKjNFniydAwX6jXovwgcZ+QAKw9qSgIquthjPBTCsYMkgXs=;dfyrEaLlReIr+jFM+1ChXA=="

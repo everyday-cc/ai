@@ -41,6 +41,34 @@ related:
         width: 800
         height: 418
         isCached: true
+  - title: "Valued to be $28.8 Billion by 2026, Artificial Intelligence (AI) in Fintech Slated for Robust Growth Worldwide"
+    excerpt: "Preview Registry Global Artificial Intelligence (AI) in Fintech Maket to Reach $28.8 Billion by 2026 The U.S. Market is Estimated at $1.5 Billion in 2021, While China is Forecast to Reach $4.2 Billion by 2026 The Artificial Intelligence (AI) in Fintech market in the U."
+    publishedDateTime: 2021-08-26T16:28:00Z
+    webUrl: "https://www.mobilitytechzone.com/lte/news/2021/08/26/9437950.htm"
+    type: article
+    provider:
+      name: Mobility Techzone
+      domain: mobilitytechzone.com
+    quality: 34
+    images:
+      - url: "https://mma.prnewswire.com/media/1601543/MCP21180.jpg"
+        width: 400
+        height: 252
+        isCached: true
+  - title: "A $14.9 Billion Global Opportunity for Artificial Intelligence (AI) in Manufacturing by 2026 - New Research from StrategyR"
+    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Manufacturing - Global Market Trajectory & Analytics\"."
+    publishedDateTime: 2021-08-26T13:50:00Z
+    webUrl: "https://www.lelezard.com/en/news-19969717.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 30
+    images:
+      - url: "https://mma.prnewswire.com/media/1601546/Global_Opportunity_for_Artificial_Intelligence_in_Manufacturing.jpg"
+        width: 400
+        height: 387
+        isCached: true
   - title: "Precision Medicine Market to Reach USD 125.67 Billion by 2026"
     excerpt: "Increasing advancements in cancer biology and myriad benefits offered by precision medicines to drive the global precision medicine market. <br />"
     publishedDateTime: 2021-08-27T10:33:00Z
@@ -68,20 +96,6 @@ related:
       - url: "https://www.opalesque.com/images/GTE-Cap-Intro-Florida-(300x250).png"
         width: 300
         height: 250
-        isCached: true
-  - title: "New Study from StrategyR Highlights a $137.2 Billion Global Market for Emotion Detection and Recognition by 2026"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Emotion Detection and Recognition - Global Market Trajectory & Analytics\"."
-    publishedDateTime: 2021-08-25T15:09:00Z
-    webUrl: "https://www.lelezard.com/en/news-19968125.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 3
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
         isCached: true
 
 secured: "UzCn204Qj1tPJKO5vfyz3qIin3My14+Ma94kg7t/29LW2DJ+L53iqFvpxZ3Lck9x1bO2DQdj4snwma0+kabfZoN1qln4r81CD/0xDA5FW8SK07301kW4qiL16pZsjeE4VN8ylkZwXO0l/PF2qz9XskdUjNU9UTDTaWDglNsF69eCMh2J6wdHUBGEn3y6M9ioqhP6WJM/FoeuAjtmTYqKO27SpbKekozDcfPnwbAL9Qoxlb1dTBTKs+qAYTw3ZDpZ7w6bzqufIvJg3dRQ7XpyoZ3IYTb4+9qaThIAC50x/VtsvANox1bPm37JC6KsrMesohAeujMvPghAnwuVR6xu6mKEYddV/vAuXkfM29HPJmc=;m0g8jilPZPTfKAW/9lxzdQ=="

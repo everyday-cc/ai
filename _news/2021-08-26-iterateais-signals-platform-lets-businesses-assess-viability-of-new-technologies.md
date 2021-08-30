@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2021/08/26/iterate-ais-signals-platform-l
 webUrl: "https://siliconangle.com/2021/08/26/iterate-ais-signals-platform-lets-businesses-assess-viability-new-tech/"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 783
     height: 462
     isCached: true
+
+related:
+  - title: "SAP Acquires AI HR Platform"
+    excerpt: "SAP is enhancing its human experience management (HXM) software suite via the acquisition of artificial intelligence (AI) technology:"
+    publishedDateTime: 2021-08-30T01:46:00Z
+    webUrl: "https://www.datamation.com/applications/sap-acquires-swooptalent-ai-hr-platform/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
+    quality: 37
+    images:
+      - url: "https://www.datamation.com/wp-content/uploads/2021/07/SAP-logo.png"
+        width: 1920
+        height: 979
+        isCached: true
 
 secured: "nUHytkAdJVW0i9BqHEJCWPV66YMSdDFEEoXz1eDxBrLn5JPCTjw2BQ2KlpjH0JQMXeFQPYNNrLypq73czsgwITwpCClBN8pgosdPkRK5Ws+hB77C80QCJq21clcNBKHrlXaJF5kWx698OWVrc9LNn1azvYf1fe+muCb1rr1SBAyyt5o4cvTOX2SVqiOwMXpa68b47G/R2nVzlpzguOLv8BwKokLzfcntJWByADHUlPNZjAX4ZZx7JEPBOpgo3OIRj+7UUAzqI20YZFXn+KQTefbuImhysPbD3lP0KLT6pxPasINEor+3+hvJtGZNzh4HTQe1U24a5fELM8Ztqm1oNqjhmNiitpXcOWeWfCwmGYo=;4aIelDQdVYkci/EPz8A4nA=="
 ---

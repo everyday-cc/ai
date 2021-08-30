@@ -24,50 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Valued to be $9.3 Billion by 2026, Artificial Intelligence (AI) in Accounting Slated for Robust Growth Worldwide"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its"
-    publishedDateTime: 2021-08-25T15:55:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/08/n22659416/valued-to-be-9-3-billion-by-2026-artificial-intelligence-ai-in-accounting-slated-for-robust-growth"
-    ampWebUrl: "https://www.benzinga.com/amp/content/22659416"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22659416"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 53
-    images:
-      - url: "https://mma.prnewswire.com/media/1600638/GIA_Artificial_Intelligence_Accounting.jpg"
-        width: 400
-        height: 367
-        isCached: true
-  - title: "With Market Size Valued at $40 Billion by 2026, it`s a Healthy Outlook for the Global Artificial Intelligence (AI) in Healthcare Market"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Healthcare - Global Market Trajectory & Analytics\"."
-    publishedDateTime: 2021-08-26T13:44:00Z
-    webUrl: "https://www.lelezard.com/en/news-19969639.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 39
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "Valued to be $28.8 Billion by 2026, Artificial Intelligence (AI) in Fintech Slated for Robust Growth Worldwide"
-    excerpt: "Preview Registry Global Artificial Intelligence (AI) in Fintech Maket to Reach $28.8 Billion by 2026 The U.S. Market is Estimated at $1.5 Billion in 2021, While China is Forecast to Reach $4.2 Billion by 2026 The Artificial Intelligence (AI) in Fintech market in the U."
-    publishedDateTime: 2021-08-26T16:28:00Z
-    webUrl: "https://www.mobilitytechzone.com/lte/news/2021/08/26/9437950.htm"
-    type: article
-    provider:
-      name: Mobility Techzone
-      domain: mobilitytechzone.com
-    quality: 34
-    images:
-      - url: "https://mma.prnewswire.com/media/1601543/MCP21180.jpg"
-        width: 400
-        height: 252
-        isCached: true
   - title: "Valued to be $28.8 Billion by 2026, Artificial Intelligence (AI) in Fintech Slated for Robust Growth Worldwide"
     excerpt: "Home » Valued to be $28.8 Billion by 2026, Artificial Intelligence (AI) in Fintech Slated for Robust Growth Worldwide Valued to be $28.8 Billion by 2026, Artificial Intelligence (AI) in Fintech Slated for Robust Growth Worldwide Our MarketGlass ..."
     publishedDateTime: 2021-08-29T08:45:00Z
@@ -109,34 +65,6 @@ related:
       - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
         width: 421
         height: 421
-        isCached: true
-  - title: "A $14.9 Billion Global Opportunity for Artificial Intelligence (AI) in Manufacturing by 2026 - New Research from StrategyR"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Manufacturing - Global Market Trajectory & Analytics\"."
-    publishedDateTime: 2021-08-26T13:50:00Z
-    webUrl: "https://www.lelezard.com/en/news-19969717.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 30
-    images:
-      - url: "https://mma.prnewswire.com/media/1601546/Global_Opportunity_for_Artificial_Intelligence_in_Manufacturing.jpg"
-        width: 400
-        height: 387
-        isCached: true
-  - title: "New Study from StrategyR Highlights a $4.2 Billion Global Market for Artificial Intelligence (AI) in Social Media by 2026"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Social Media - Global Market Trajectory & Analytics\"."
-    publishedDateTime: 2021-08-26T17:32:00Z
-    webUrl: "https://www.lelezard.com/en/news-19970367.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 29
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
         isCached: true
 
 secured: "aHtfatOPAj1Lz6nUDD3pKCPqPi0ZOFeAPWKQTK4bG735dbc3sluJgKdrxLKomsInwr82yb2WraimDAut5Ad/Y+bt1lsRMj5o3dl2TctvTsOj/hdAO27kzyVFI/bGJduCrPfoD7cDZYrTSjmvGN+GbGEygMAE6hJ9KMZeZivrVRDEfGW+LNwT2qQaC/XMnMeFLhJBdedPSlI9bEH8LGNuEdN+0rDqo/1LEkT2rCQP8vEg4Se93nA1UxDS8IGYaLV5RY4cU6QHoPfc2ypPy64YLeT8vIoK+tzkX0BUFcljE2aJeZhq0EMWGhgf8TiPQS4bXztk3ME3prcNcy+ohW+SiKKKQGlukaNEj/bP1UAQGGlxbjEZX9hKHrFSnSvc+Wm1vVXMzrmqvD2oxXfaBjJaAMlt4Uw5c4LmWht+aiqnIKVftj9tMeDFiWjzroqvVre9DcNOfjDpDJtscVy3xRif2j8Ax9DyXbNS2iP8WYn/iOT5RSQnzBZCaMaqeyYMnon4uAV1BuW/UFjIWwxYbc6SJw==;q/1BbIiPsHuLibGa1rs2TQ=="

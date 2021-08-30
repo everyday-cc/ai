@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "A Chat with Alan Jacobson, Chief Data and Analytics Officer at Computer Software Company: Alteryx"
-    excerpt: "Our AutoML library – Compose – lets businesses set up a machine learning process and prediction engineering, among other things. We’re not just proselytising – we’re living and breathing full end-to-end data work, and it’s that experience and ..."
-    publishedDateTime: 2021-08-27T10:40:00Z
-    webUrl: "https://techround.co.uk/interviews/a-chat-with-alan-jacobson-alteryx/"
-    ampWebUrl: "https://techround.co.uk/interviews/a-chat-with-alan-jacobson-alteryx/amp/"
-    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/interviews/a-chat-with-alan-jacobson-alteryx/amp/"
+  - title: "Edge computing - coming to eat your data center? Some CIO considerations"
+    excerpt: "Will data centers be chewed up by the edge? Some may, most won’t, but there will be big changes and all businesses need to be ready."
+    publishedDateTime: 2021-08-30T07:12:00Z
+    webUrl: "https://diginomica.com/edge-computing-coming-eat-your-data-center-some-cio-considerations"
+    ampWebUrl: "https://diginomica.com/edge-computing-coming-eat-your-data-center-some-cio-considerations?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/edge-computing-coming-eat-your-data-center-some-cio-considerations?amp"
     type: article
     provider:
-      name: TechRound
-      domain: techround.co.uk
-    quality: 31
+      name: Diginomica
+      domain: diginomica.com
+    quality: 43
     images:
-      - url: "https://techround.co.uk/wp-content/uploads/2021/08/Screenshot-2021-08-22-at-19.01.00.png"
-        width: 1150
-        height: 726
+      - url: "https://diginomica.com/sites/default/files/images/2021-08/pacman-151558_640.png"
+        width: 640
+        height: 468
         isCached: true
 
 secured: "8H1+PKl/egedaGBCHrvRf1GlLwDwzYmdVUU+3e+acP6moQ8IINHbq0621RLDnM8+BVSREZPFEh/LnJycrNO5TPrhpagiqYe+958Y95yVAbj0bFO+fG9fqRqHbqMFS7fBd/GA5J90SXTUF9j19cAX0FW7SYS9VIBGszWH3orLRQ//e1R7oW3r84yPBuD0Sy0DB5mZLuVH3N49526mTnNUowN/qWxxNs46DL/47QJCX+8DpxFDyCGGweem3mSP8+WdGX4Pc8jrujMscFa+94gNLMefefa58n3l+gmKLjwTVM6Muoo3Tu34wJvPljI94Oj3/MizxIy+LlkZiwRUIrc7emrp0d3TfG3WuVU8pIv+hp8=;ROTWCiClm9MbpHL+BFU2yw=="

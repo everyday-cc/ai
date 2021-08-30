@@ -7,7 +7,7 @@ originalUrl: "https://www.supplychainbrain.com/articles/33642-surviving-in-the-a
 webUrl: "https://www.supplychainbrain.com/articles/33642-surviving-in-the-age-of-permanent-supply-chain-disruption-part-2-automation-innovation"
 type: article
 quality: 61
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -77,6 +77,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Opinion Piece: Playing catch-up to the early adopters of analytics, AI and machine learning"
+    excerpt: "By Sarthak Rohal, VP - IT services at AlphaCodes Early adopters of data analytics, Artificial Intelligence (AI) and Machine Learning (ML) tools have found themselves in a position of favour in today’s rapidly accelerating digital world."
+    publishedDateTime: 2021-08-30T08:22:00Z
+    webUrl: "https://www.engineeringnews.co.za/article/opinion-piece-playing-catch-up-to-the-early-adopters-of-analytics-ai-and-machine-learning-2021-08-30"
+    type: article
+    provider:
+      name: Engineering News
+      domain: engineeringnews.co.za
+    quality: 24
 
 secured: "rsWKU601v+7mH97Qzm53lnpQ6wyLDAVmTZv+uovrDHfTnXulEAzwt59VzfiPYnx2S4TdcbHBtWfx+0vMXZMJS/Rw0n8iFvDhzfnUVqt+iU/8MGULhVBCF3LW2rWxSczw7foi1kcKKRWYqjzPUg2H6AguPPrDkTenPpQG0p3O/d1cfrvaZidGLJRURJgi1RG6Kwawlr1DdSEo30en13xWFGTKzWaAyO1KOLrAC8Et3/2tJKY8LHHyj4+CAc+wVEXJNV2zGYuiR12EeJCMRHrypqnZCWQegyRvoURY9kWUd0mNoUNgotgiTAKRz8uySToV3FCywxNoe1M2F/QTbidsCqW16FbvA+36epnm43Y+7UBjwAOK272cLQprGEdGHZsqYfBll+4qWHdIKJ1EjB0ORrks7XxVQP2QPqYCRWfZqbv77DxpZgQHWRQ0q4Kzbdi8CEGqMEwyYPnA62xr2fQN+wPAXTdMChZpJHZcDGhVYDJH3YH3zJW30e0Yd464hGmCGHKiMWFkS519suFgdo36hg==;YjvK/lzmZtRCgAyrIk5JAQ=="
 ---

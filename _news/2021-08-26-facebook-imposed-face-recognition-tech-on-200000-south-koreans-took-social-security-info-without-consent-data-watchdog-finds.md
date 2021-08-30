@@ -9,7 +9,7 @@ ampWebUrl: "https://www.rt.com/news/533136-facebook-face-recognition-tech-south-
 cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/news/533136-facebook-face-recognition-tech-south-korea/amp/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -28,21 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI Training Growing Pains at Facebook"
-    excerpt: "Facebook has to keep digging into ever-lower levels of its architecture to efficiently make use of endlessly growing training data. This has meant"
-    publishedDateTime: 2021-08-25T15:26:00Z
-    webUrl: "https://www.nextplatform.com/2021/08/25/ai-training-growing-pains-at-facebook/"
-    ampWebUrl: "https://www.nextplatform.com/2021/08/25/ai-training-growing-pains-at-facebook/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/08/25/ai-training-growing-pains-at-facebook/amp/"
+  - title: "Facebook joins ID2020, fined $5.5M for facial recognition violations by South Korea"
+    excerpt: "Facebook is the latest company to join ID2020 to contribute to its efforts pioneering user-managed, privacy-protecting digital ID."
+    publishedDateTime: 2021-08-27T18:54:00Z
+    webUrl: "https://www.biometricupdate.com/202108/facebook-joins-id2020-fined-5-5m-for-facial-recognition-violations-by-south-korea"
     type: article
     provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 65
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 33
     images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/ab_datacenter-racks-woman.jpg"
-        width: 544
-        height: 407
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/15105857/facebook.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "WOUPTVbC1lfMp3DGrF+N3G8zJiDoeDPf6LW6xpJxjZUZ6mDpO/g+dgMqZ7QPWYRll5GWD/HtF9aqNFKEgm12mQ9Ra+zGYuHuPUtRRmvtFmO4phKGInJhdRJddCZGaWOCES+NB4GXwuG9tl8qUs5bYXyXHQdft0FRyTMscNfV9a1QgrHiro7Rlr60ekvUG82udSEiBLXqtWw+MvMP2MRTp0AdeGp1fxqzOXMCRcsdXfaah5r6VcxxMvx+XIIDlE/yHLZnGz1O/UN+yle8oz3d+AKVXFSaEwI0tHMSEMvtp68Dsh9xLKKdSlIVdHPapW7q6lrS5FoA/vAVXXFT+EV9nYJS0iKRznqARC0lSDp7bNigLD6gpyEvVZDRERdbHfxYJRr+R2sDGibBH2+5ZCfVClVsExnt9VtEcodjOgLecEjnrM81a3VYItRcqKNn2bhq3G3wZ/WBoElLxKpg1J4x3j5U7zt8AGr58eGaYeSEAY/0ziyimtRSWRCkhO5w90vRQZ/uqwA+eHTY/pGM1mpD8g==;pViyMktqEf5RFbI8RyehMg=="

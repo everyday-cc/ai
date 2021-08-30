@@ -41,22 +41,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Wearable tech for your ears: ‘Hearables’ can teach you a language or music with the help of AI"
-    excerpt: "In music education and language teaching, hearables are poised to play a significant role as listening is at the centre of both music and language comprehension. Music and language students could access relevant content from anywhere and practise their lessons."
-    publishedDateTime: 2021-08-25T16:22:00Z
-    webUrl: "https://theconversation.com/wearable-tech-for-your-ears-hearables-can-teach-you-a-language-or-music-with-the-help-of-ai-161571"
-    ampWebUrl: "https://theconversation.com/amp/wearable-tech-for-your-ears-hearables-can-teach-you-a-language-or-music-with-the-help-of-ai-161571"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/wearable-tech-for-your-ears-hearables-can-teach-you-a-language-or-music-with-the-help-of-ai-161571"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 47
-    images:
-      - url: "https://images.theconversation.com/files/414380/original/file-20210803-13-1yb8n4k.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=229&fit=crop"
-        width: 320
-        height: 229
-        isCached: true
   - title: "‘Hearables’ can teach you a language or music with the help of AI"
     excerpt: "With AI, hearables are also well-placed to support adaptive ... connections are essential to support natural language communications, particularly in language translation. In the immediate future, this may only be available in larger cities where 5G ..."
     publishedDateTime: 2021-08-26T08:03:00Z

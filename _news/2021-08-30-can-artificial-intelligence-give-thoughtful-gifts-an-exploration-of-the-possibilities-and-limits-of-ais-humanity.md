@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/08/29/can-artificial-in
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/08/29/can-artificial-intelligence-give-thoughtful-gifts-an-exploration-of-the-possibilities-and-limits-of-ais-humanity/amp/"
 type: article
 quality: 82
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 825
     height: 652
     isCached: true
-
-related:
-  - title: "THE PARABLE OF THE ALIEN AI AND HOW THE HUMANS WON THE WAR"
-    excerpt: "THE PARABLE OF THE ALIEN AI AND HOW THE HUMANS WON THE WAR Article by Kerry Cassidy, Project Camelot So they link you up to the Borg by way of the nano in the VAXES and TESTS…the reality is the Borg is studying"
-    publishedDateTime: 2021-08-25T15:58:00Z
-    webUrl: "https://projectcamelotportal.com/2021/08/25/the-parable-of-the-alien-ai-and-how-the-humans-won-the-war/"
-    type: article
-    provider:
-      name: PROJECT CAMELOT
-      domain: projectcamelotportal.com
-    quality: 37
-    images:
-      - url: "https://projectcamelotportal.com/wp-content/uploads/the-parable-of-the-alien-ai-and.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "dwgLX6meeBOBUvEsVyqob9NV7prIn3SDx1YQ9ZAGDEBnRWnOf5AfLMPZGg2G3bKvmhuCl1PaEXKjVMEE2hXqvfdPvpsH5X3u82cOGVaPlp2hMqG6stWqASoCfA+njDks5gjXgSMoeYOe9ODdGb25TAJaF8r5RB2Qk7qJaWN705vMPcpIUEnfETzE2iBtEifUsoUMfTmtMYrPdls0eNRy/cfOVZBm4bAnoSrffNArebK9w2SkuvV2d9E+r6684HMrebb8tIw8oI37/bNF1kqL1bRfRUBmb6R0WSVEuAO2F7fPX38VSLrh1E1kvsugPGw5WFXEVjKzH9INWrHSy/zhk5qERvg0/N5IeSLzPEBqeoWWKhn7FR5/Mgj9mtnbyYpmzhx+g7gPNWsfgWtyOqYkjnQtOKiYNMbEuDPqB/s30Ufyn5ockAK9utoj+DOVMomm9vWPtWBB4SuicX5rHJglfpl8RFQTYQdQox7r/4qSeEuGko//6DT792V3J9X/ZGSEkp2Xhy8kNsIxThaG7jSyBQ==;P22V6mXTEpJSKoMerEeATQ=="
 ---

@@ -65,6 +65,15 @@ related:
         width: 2200
         height: 1238
         isCached: true
+  - title: "Microsoft adds literary Chinese to translation service"
+    excerpt: "Microsoft has added literary Chinese to its translation service, from the modern Chinese, and the more than 90 other languages and dialects provided by the service. Literary Chinese translation has been integrated into the Microsoft Translator app,"
+    publishedDateTime: 2021-08-30T08:14:00Z
+    webUrl: "https://www.telecompaper.com/news/microsoft-adds-literary-chinese-to-translation-service--1395246"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
 secured: "5MAqDLDUVOqnZrWk37C/1O2oplJdd9h+HlfaUu7eb+oz7HZzjs5JZmI4WprjsGucl81GSR7Ka0FTaxPMfyZFKkE80eCTN3ddpy6TFbB3SlLCU0dp6KqJcafdwmV0ofiz5I4cJ/17KuRgSudZZyksrJ9T/2rytt3XHHIDo2R9e0xztX0ASufIhNY3hf4f/26XJjcXCWLB1AokpkhQ2m1dMXpoHTnC7Wb5Ecq6vpEKdNWoCnWjfFgZ4YlNAKrxen8a1YY2ReWtGXEY9q0qeqtY7LKhb574IAvwKas//F7yeCF1g7Yi5/51WMs4+tE19ZuHmXCEiRN/FESUB42DvwQqd1CnF2xXON9yztkh/SEapQM=;TMX2n9CtlX9Vi28revKfSQ=="
 ---

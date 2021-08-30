@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/amazon-web-services-in-deal-to-trans
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-web-services-in-deal-to-transform-sun-life-financials-digital-services-2021-08-27?amp"
 type: article
 quality: 67
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -63,6 +63,20 @@ related:
       - url: "https://storage.googleapis.com/thisday-846548948316-wp-data/wp-media/2020/11/0a25de01-bayo-olugbemi.jpg"
         width: 800
         height: 620
+        isCached: true
+  - title: "Nigeria: 'Digital Transformation Is Accelerating Recovery and Financial Inclusion'"
+    excerpt: "The President/Chairman of Council, The Chartered Institute of Bankers of Nigeria (CIBN), Dr Bayo Olugbemi has stated that with the increase and adoption of technology, the economy and financial inclusion is on a faster path of recovery and growth."
+    publishedDateTime: 2021-08-30T08:48:00Z
+    webUrl: "https://allafrica.com/stories/202108300391.html"
+    type: article
+    provider:
+      name: AllAfrica.com
+      domain: allafrica.com
+    quality: 18
+    images:
+      - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
+        width: 664
+        height: 664
         isCached: true
   - title: "Sun Life Taps AWS as Its Long-Term Strategic Cloud Provider to Transform Digital Services"
     excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Sun Life (TSX: SLF) (NYSE: SLF) has selected AWS as"

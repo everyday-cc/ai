@@ -76,6 +76,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Opinion Piece: Playing catch-up to the early adopters of analytics, AI and machine learning"
+    excerpt: "By Sarthak Rohal, VP - IT services at AlphaCodes Early adopters of data analytics, Artificial Intelligence (AI) and Machine Learning (ML) tools have found themselves in a position of favour in today’s rapidly accelerating digital world."
+    publishedDateTime: 2021-08-30T08:22:00Z
+    webUrl: "https://www.engineeringnews.co.za/article/opinion-piece-playing-catch-up-to-the-early-adopters-of-analytics-ai-and-machine-learning-2021-08-30"
+    type: article
+    provider:
+      name: Engineering News
+      domain: engineeringnews.co.za
+    quality: 24
 
 secured: "Ne/SM8841bZ7AsrJh7LYZiCmeJj3tVqhCZCYpAZljq5aQjepIIIjnSHnXexSOMBFCpDxlPC8ibLru9tSRsBRKY95A+duXKSIDPbAXrcmL6AvFQkOhk/Psi8PwuybGEFtutULTSCtnXdsqnIKDpEPtpwXb4bGld2Ao1/6E07M8Rs1nrQt3Lj6/nlRjp4jCOmR8ruQljwuG/HCZDFcMrN/GYrubb71DMdQYSmmuR6TQg2IGF4NuDcTIIK7sA5CykC2JUlcxtoa9HYlkbslshogYJWP87e18yOA+qdoXjaOOrAGqc1hdWrIVgloofwWbjAe6eVoYATo0cXVNskoreJLVKIK5qghHv+hM132CBihOsU=;IuTSJhhSF7TrQ+M2OanCkg=="
 ---

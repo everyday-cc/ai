@@ -25,79 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Waymo Expands Self-Driving Operations. What It Means for Tesla."
-    excerpt: "Truly self-driving cars are on American roads. And they don’t come from Tesla. Consumers—and investors—just need to know where to look. Waymo, Alphabet’s (ticker: GOOG) venture into self-driving cars,"
-    publishedDateTime: 2021-08-25T15:21:00Z
-    webUrl: "https://www.barrons.com/articles/waymo-alphabet-self-driving-cars-san-francisco-51629904722"
-    ampWebUrl: "https://www.barrons.com/amp/articles/waymo-alphabet-self-driving-cars-san-francisco-51629904722"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/waymo-alphabet-self-driving-cars-san-francisco-51629904722"
+  - title: "Self-Driving Electric Cars Could Mean The End Of Short Haul Flights"
+    excerpt: "Self-driving battery-electric vehicles could drastically reduce the need for short haul flying, or even render it obsolete, and slash emissions in the process."
+    publishedDateTime: 2021-08-28T09:00:00Z
+    webUrl: "https://www.forbes.com/sites/jamesmorris/2021/08/28/self-driving-electric-cars-could-mean-the-end-of-short-haul-flights/"
+    ampWebUrl: "https://www.forbes.com/sites/jamesmorris/2021/08/28/self-driving-electric-cars-could-mean-the-end-of-short-haul-flights/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2021/08/28/self-driving-electric-cars-could-mean-the-end-of-short-haul-flights/amp/"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
+      name: Forbes
+      domain: forbes.com
     quality: 74
     images:
-      - url: "https://images.barrons.com/im-391008/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Waymo expands to San Francisco with public self-driving test"
-    excerpt: "Waymo is finally thinking about expanding. The Alphabet self-driving car division has been running an impressive self-driving ride-hailing service for almost a year now, but only in a small suburb outside of Phoenix,"
-    publishedDateTime: 2021-08-25T16:55:00Z
-    webUrl: "https://arstechnica.com/gadgets/2021/08/waymo-expands-to-san-francisco-with-public-self-driving-test/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 69
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/08/SF-760x380.png"
-        width: 760
-        height: 380
-        isCached: true
-  - title: "Waymo launches rider testing for self-driving cars in San Francisco"
-    excerpt: "Some San Francisco residents will have a new way to get around the city. Waymo has launched rider testing of its self-driving cars. Right now, residents can sign up to become a “trusted tester” in the Waymo One app."
-    publishedDateTime: 2021-08-27T05:24:00Z
-    webUrl: "https://www.kron4.com/news/bay-area/waymo-launches-rider-testing-for-self-driving-cars-in-san-francisco/"
-    ampWebUrl: "https://www.kron4.com/news/bay-area/waymo-launches-rider-testing-for-self-driving-cars-in-san-francisco/amp/"
-    cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/bay-area/waymo-launches-rider-testing-for-self-driving-cars-in-san-francisco/amp/"
-    type: article
-    provider:
-      name: KRON4
-      domain: kron4.com
-    quality: 59
-    images:
-      - url: "https://www.kron4.com/wp-content/uploads/sites/11/2021/08/9B99F949367C44F185032B18736797B9.jpg?w=1280"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Alphabet’s Waymo to stop selling lidar self-driving car sensors"
-    excerpt: "Waymo told Reuters that it is now focusing on deploying its Waymo Driver technology across its Waymo One ride-hailing and Waymo Via trucking operations."
-    publishedDateTime: 2021-08-28T19:27:00Z
-    webUrl: "https://techstory.in/alphabets-waymo-to-stop-selling-lidar-self-driving-car-sensors/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/08/download-2-1.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61262ae06169576215801db8%2F0x0.jpg"
         width: 1200
-        height: 675
-        isCached: true
-  - title: "Why the feds are investigating Tesla’s Autopilot and what that means for the future of self-driving cars"
-    excerpt: "Tesla’s Autopilot uses cameras, radar and ultrasonic sensors to support two major features: Traffic-Aware Cruise Control and Autosteer."
-    publishedDateTime: 2021-08-26T14:22:00Z
-    webUrl: "https://www.minnpost.com/other-nonprofit-media/2021/08/why-the-feds-are-investigating-teslas-autopilot-and-what-that-means-for-the-future-of-self-driving-cars/"
-    type: article
-    provider:
-      name: MinnPost
-      domain: minnpost.com
-    quality: 22
-    images:
-      - url: "https://www.minnpost.com/wp-content/uploads/2021/08/TeslaCrash640.jpg"
-        width: 640
-        height: 450
+        height: 772
         isCached: true
 
 secured: "FfCjLrrcBaGo5Czdkett7wW/6WK0J+dHS1ttN7dzkwsfRFwfstWQohucEe5AuE4dFTV5safNX+ry/Ei2Kh8E1mi9QfLb6uiWPZiPj8HQDrixzwTHjykoIgoAYFxtumLY1ZAXZ88XsCggCwbtDDgCtlFf0azqTFNb6co2op7WtK9YaQN284AyFoUJxdonqvlwHiuIJg9WJ52EmOUmbE+DcQIL/WoUZDLAzE5j0wtJTRgv9c44V6l6dqn9pUUqby4OADIoeIve+QCIidEFoyxeGWY+dFZYg7eIWSMOOWy3L8kPfIMYUjo35i0saX7Kt6DS71SBzYZn30JickWNGoBqvHWZNNDTq4Vg3F7zhuWakOg=;57R+yM09kb/1C63g+dfdQA=="

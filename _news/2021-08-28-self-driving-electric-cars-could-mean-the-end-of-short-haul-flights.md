@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jamesmorris/2021/08/28/self-driving-ele
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2021/08/28/self-driving-electric-cars-could-mean-the-end-of-short-haul-flights/amp/"
 type: article
 quality: 74
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 772
     isCached: true
+
+related:
+  - title: "Waymo's self-driving Jaguar I-Pace electric cars are ready for passengers"
+    excerpt: "San Francisco riders will have a self-driving electric car do the driving—although an \"autonomous specialist\" will be onboard."
+    publishedDateTime: 2021-08-26T12:00:00Z
+    webUrl: "https://www.greencarreports.com/news/1133368_waymo-s-self-driving-jaguar-i-pace-electric-cars-are-ready-for-passengers"
+    type: article
+    provider:
+      name: Green Car Reports
+      domain: greencarreports.com
+    quality: 38
+    images:
+      - url: "https://images.hgmsites.net/hug/waymo-self-driving-car-prototype-in-san-francisco-california_100803730_h.jpg"
+        width: 1920
+        height: 1099
+        isCached: true
 
 secured: "3qctwIn/2KxZXlAhlu/d2wlJVkRQckQrf4BLDgqqk+zg10GmDVoUzD2vb7NXouDVBUiGwZE3HkwdbqXLirbKZnpD4E+JLo/ma4nIR4Mibtp2xEFYIMPnASB1cfyXbTCITUKPs+D31gI1OvTiGrSsExYsiydwCmWjcwGcThGlgvyoLLKezmf5a3GaBEnnB4gek4+5m0Z3HcmjqygDPKPVqTkurkBYHvTykBpqFtI4y2r5ljp/3mEz3ShZCvYzhUfjYCxSh62jkIpok/iBCOzOuwPO0PvZdjMiVxIcxEw6uNDKkdcHhtXkP5HFhBD0zMJtLQbp6AaPLl0BHxEuzSI6KjcbGdHZ/bd0U/seYU7JT5tfkQQ6MNeTO/bbI9CQqtwUKdLKelAVeoaPp9+KZzhn829rdkkQEpq8jeQ3tFSs8fCr54A/Cz0FelwWdTvRJDujC8nb/q0fb1/YpEKVrmYEwbhPi+pL30Lv924UXopWqUZlY8voYhJ0qjYLnHG9ujlMwI8R6JjdpJiQuVXa2+sXaA==;gQyxt8U9DIv5DkS+vf2njQ=="
 ---

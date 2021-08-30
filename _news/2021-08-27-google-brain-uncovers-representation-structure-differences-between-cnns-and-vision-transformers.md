@@ -26,6 +26,22 @@ images:
     height: 320
     isCached: true
 
+related:
+  - title: "Are Visual Transformers Better Than CNNs"
+    excerpt: "To explore the differences between ViTs and CNNs, researchers from Google have surveyed the various factors influencing the learning processes."
+    publishedDateTime: 2021-08-30T09:30:00Z
+    webUrl: "https://analyticsindiamag.com/are-visual-transformers-better-than-convolutional-neural-networks/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 24
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/visual-transformers.gif"
+        width: 600
+        height: 338
+        isCached: true
+
 secured: "DadjYf3ffCYB3aq2fLMonIeAuLENXq9lZr95lsVc9Sq1ozh4hEvvGU63fTKqMP/6lijgVkNVS2Bl/HZ0/igph0LbcZUUiuw39PP+GnNs8pIOHCf6HoIQo/Awf9tHxSxfviAbXRM3XeYjWRVAQmK9tm0QOA/JWuqUBdcaO6g7GZVuPxYkoTKb4e+sZEhZX8Kk3jEmURZpm6gVXKv5UBn/PvhUNYcRnWznLJkrEgd9S/qc3eC3O4SiXjMWUN/JVUsGe+kowrbEm/zzfhfi4z4BjnWU0lchlula1HCF8AId+ds/zRPRd2sk421uRFk7IfhifOCfKq4OFlDralhqzTrIspZiweaYEakVz8VekKfRlI9A4kDYDoXC4jNlR7I8ERul0zba8VEuBRmJ835fUZXZSOGM8RXavw6xM4QCGDhcJKmSmGp1scLEwbslHzWEjNK3oPfUTgBXhn5e0Wkkegoq4CQ5tjwGUOGwHIToQctCHAWtdNt/lDncPwyAFBvn14wxPlYSeytzphhTxn+EcIiaoA==;ta/WInKAZXtrav7g7cigbg=="
 ---
 

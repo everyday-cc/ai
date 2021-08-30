@@ -27,6 +27,34 @@ images:
     isCached: true
 
 related:
+  - title: "Valued to be $28.8 Billion by 2026, Artificial Intelligence (AI) in Fintech Slated for Robust Growth Worldwide"
+    excerpt: "Preview Registry Global Artificial Intelligence (AI) in Fintech Maket to Reach $28.8 Billion by 2026 The U.S. Market is Estimated at $1.5 Billion in 2021, While China is Forecast to Reach $4.2 Billion by 2026 The Artificial Intelligence (AI) in Fintech market in the U."
+    publishedDateTime: 2021-08-26T16:28:00Z
+    webUrl: "https://www.mobilitytechzone.com/lte/news/2021/08/26/9437950.htm"
+    type: article
+    provider:
+      name: Mobility Techzone
+      domain: mobilitytechzone.com
+    quality: 34
+    images:
+      - url: "https://mma.prnewswire.com/media/1601543/MCP21180.jpg"
+        width: 400
+        height: 252
+        isCached: true
+  - title: "A $14.9 Billion Global Opportunity for Artificial Intelligence (AI) in Manufacturing by 2026 - New Research from StrategyR"
+    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Manufacturing - Global Market Trajectory & Analytics\"."
+    publishedDateTime: 2021-08-26T13:50:00Z
+    webUrl: "https://www.lelezard.com/en/news-19969717.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 30
+    images:
+      - url: "https://mma.prnewswire.com/media/1601546/Global_Opportunity_for_Artificial_Intelligence_in_Manufacturing.jpg"
+        width: 400
+        height: 387
+        isCached: true
   - title: "Growth in AI-Enabled Distributed Energy Resources Integration Market to Reach $481 Million by 2030"
     excerpt: "AI techniques have been deployed in the energy industry for a variety of grid and market operations. A new report from Guidehouse Insights analyzes AI capabilities for enabling distributed energy resources (DER) integration,"
     publishedDateTime: 2021-08-25T17:12:00Z
@@ -68,20 +96,6 @@ related:
       - url: "https://www.opalesque.com/images/GTE-Cap-Intro-Florida-(300x250).png"
         width: 300
         height: 250
-        isCached: true
-  - title: "New Study from StrategyR Highlights a $137.2 Billion Global Market for Emotion Detection and Recognition by 2026"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Emotion Detection and Recognition - Global Market Trajectory & Analytics\"."
-    publishedDateTime: 2021-08-25T15:09:00Z
-    webUrl: "https://www.lelezard.com/en/news-19968125.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 3
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
         isCached: true
 
 secured: "B23KNJLcRE+8yC9vqxcEg16w92LT3N2rYNRbQNjgLdBWBZnho85J91uEynXmuwzYMpV77uguyY28kSKrPuFXFJlTPw8l2tcUTnW1Ll8Prqmdu7jWJM/smcHXyfRo6+rhp/+kWT3DrR0gYK3LaxnfDigDFlyY2k8d/4vjfXaAqbRn8/peLGsYmush9KZbOqZRFTrnpIF9Dx7fjbWAAogk5Oj9QFX2fiqWAvGp8mnqw2JxJFXiIsg1iwKTIl3bNmvQ4SMypXZN4rbiw/P8pq88QZkMs8pEpIibOYU91iL2fOhoH5tvlf2yrgoUxCEJMmbuabbqp9qKi1xYSTQ5vd8rConSSd1u8/iL/KFL0LTKyNM=;zbm7SZ5V5RZFZWl5mTYGjg=="

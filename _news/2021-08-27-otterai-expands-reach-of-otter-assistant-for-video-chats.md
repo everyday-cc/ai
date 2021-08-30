@@ -65,6 +65,15 @@ related:
       name: fintechzoom
       domain: fintechzoom.com
     quality: 32
+  - title: "Microsoft adds literary Chinese to translation service"
+    excerpt: "Microsoft has added literary Chinese to its translation service, from the modern Chinese, and the more than 90 other languages and dialects provided by the service. Literary Chinese translation has been integrated into the Microsoft Translator app,"
+    publishedDateTime: 2021-08-30T08:14:00Z
+    webUrl: "https://www.telecompaper.com/news/microsoft-adds-literary-chinese-to-translation-service--1395246"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
 secured: "sjMew86iVz4jqpgiptyPjNDL7LSfMpNI4cEMoG/8nbc5M2CW2miljJkqH4uUZ9nxCfcxJ4WSfyqFyeGayoxyAoOED2b23q53RBjAAYYGOJ7y4K78tSITDdkMYVQnVWa16Nv70mT5bp3mzNrETNGSyPeVabrH9Wh6FwXLXfL5xaID2YE3Ju9DyQruQkEtzA2r09GgxuLT/YL4OAmBwPotD1KwOirE8q38doTrr+gb9DwogRk/rMAUNYzMUB1N5bhcob3Yj+R4ohpwbEPaG00EB3feO92Snmsi5bQY69fvLok9i9KrWtEtAwRGqkKw+yRJRMEPyY+z2Erpo/cWEGboo8oMMLCX7D65+/esVTOPma5/4qzeyHVjqkTElQCCDeyqSCoVP8o4wdvyzdWrpERDv2dtT07uC0HYaHXwytXJ3FN29j86peRYYMNgKJpGLUhhTxe4GcGlFNbXC+dmVC4MaX2Rzon1gCAVa6kmilR6oDWLCYZA9kGOuzeaijJ/TvabZ9YXWTNABHuB9OVAdz4OZw==;zX1xER9Gz+lKYpK7wO+GDQ=="
 ---

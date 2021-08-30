@@ -7,7 +7,7 @@ originalUrl: "https://money.usnews.com/investing/news/articles/2021-08-27/toyota
 webUrl: "https://www.reuters.com/business/autos-transportation/toyota-halts-all-self-driving-e-pallete-vehicles-after-olympic-village-accident-2021-08-27/"
 type: article
 quality: 148
-heat: 428
+heat: 438
 published: true
 
 provider:
@@ -373,6 +373,20 @@ related:
       - url: "http://media.heartlandtv.com/designimages/kezidefault.png"
         width: 640
         height: 380
+        isCached: true
+  - title: "Toyota self-driving bus throws a Paralympic judo expert"
+    excerpt: "Company said it was a little overconfident – the bus not the competitor \"Toyota has apologised for the 'overconfidence' of a self-driving bus,\" after the slow-moving bus managed to hit a Paralympic judo expert."
+    publishedDateTime: 2021-08-30T09:50:00Z
+    webUrl: "https://www.fudzilla.com/news/automotive/53447-toyota-self-driving-bus-throws-a-paralympic-judo-expert"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 24
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/2a05e0b5e9bf0f01d2ab319a3e5f3217_L.jpg"
+        width: 620
+        height: 464
         isCached: true
   - title: "Toyota suspends self-driving shuttles after one hits a Paralympian"
     excerpt: "Toyota has called a halt to the operation of its fully-autonomus e-Palette shuttle at the Tokyo Paralympic Games after one hit an athlete."

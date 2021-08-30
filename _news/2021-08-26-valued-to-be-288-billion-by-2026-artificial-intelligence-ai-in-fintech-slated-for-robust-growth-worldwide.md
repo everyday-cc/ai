@@ -25,77 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Valued to be $9.3 Billion by 2026, Artificial Intelligence (AI) in Accounting Slated for Robust Growth Worldwide"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its"
-    publishedDateTime: 2021-08-25T15:55:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/08/n22659416/valued-to-be-9-3-billion-by-2026-artificial-intelligence-ai-in-accounting-slated-for-robust-growth"
-    ampWebUrl: "https://www.benzinga.com/amp/content/22659416"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22659416"
+  - title: "Global Speech Recognition Market to Reach $29.28 Billion by 2026, States the Report by Allied Market Research"
+    excerpt: "Allied Market Research published a research report on the speech recognition market. The findings of the report states that the global market for speech recognition is expected to reach $29.28 billion by 2026, manifesting a CAGR of 19.9% from 2019 to 2026."
+    publishedDateTime: 2021-08-27T03:36:00Z
+    webUrl: "https://www.openpr.com/news/2370242/global-speech-recognition-market-to-reach-29-28-billion"
+    ampWebUrl: "https://www.openpr.com/amp/2370242/global-speech-recognition-market-to-reach-29-28-billion"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2370242/global-speech-recognition-market-to-reach-29-28-billion"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 53
+      name: openpr.com
+      domain: openpr.com
+    quality: 40
     images:
-      - url: "https://mma.prnewswire.com/media/1600638/GIA_Artificial_Intelligence_Accounting.jpg"
-        width: 400
-        height: 367
-        isCached: true
-  - title: "With Market Size Valued at $40 Billion by 2026, it`s a Healthy Outlook for the Global Artificial Intelligence (AI) in Healthcare Market"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Healthcare - Global Market Trajectory & Analytics\"."
-    publishedDateTime: 2021-08-26T13:44:00Z
-    webUrl: "https://www.lelezard.com/en/news-19969639.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 39
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "Valued to be $28.8 Billion by 2026, Artificial Intelligence (AI) in Fintech Slated for Robust Growth Worldwide"
-    excerpt: "Home » Valued to be $28.8 Billion by 2026, Artificial Intelligence (AI) in Fintech Slated for Robust Growth Worldwide Valued to be $28.8 Billion by 2026, Artificial Intelligence (AI) in Fintech Slated for Robust Growth Worldwide Our MarketGlass ..."
-    publishedDateTime: 2021-08-29T08:45:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_fintech-news-today/valued-to-be-28-8-billion-by-2026-artificial-intelligence-ai-in-fintech-slated-for-robust-growth-worldwide/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 34
-    images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/9827233ed5e7ed4158e2d369c66b538c.jpeg"
-        width: 400
-        height: 252
-        isCached: true
-  - title: "Valued to be $4.4 Billion by 2026, Artificial Intelligence (AI) in Call Center Slated for Robust Growth Worldwide"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Call Center - Global Market Trajectory & Analytics\"."
-    publishedDateTime: 2021-08-26T12:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-valued-be-44-billion-2026-artificial-intelligence-ai-/2021/08/26/9437856.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 33
-    images:
-      - url: "https://mma.prnewswire.com/media/1601532/MCP21174.jpg"
-        width: 400
-        height: 252
-        isCached: true
-  - title: "Valued to be $13.5 Billion by 2026, Artificial Intelligence (AI) in Supply Chain Slated for Robust Growth Worldwide"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Supply Chain - Global Market Trajectory & Analytics\"."
-    publishedDateTime: 2021-08-26T15:43:00Z
-    webUrl: "https://www.lelezard.com/en/news-19969994.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 32
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
-        width: 421
-        height: 421
+      - url: "https://cdn.openpr.com/U/8/U827193633_g.jpg"
+        width: 800
+        height: 418
         isCached: true
   - title: "A $14.9 Billion Global Opportunity for Artificial Intelligence (AI) in Manufacturing by 2026 - New Research from StrategyR"
     excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Manufacturing - Global Market Trajectory & Analytics\"."
@@ -111,33 +55,47 @@ related:
         width: 400
         height: 387
         isCached: true
-  - title: "New Study from StrategyR Highlights a $4.2 Billion Global Market for Artificial Intelligence (AI) in Social Media by 2026"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Social Media - Global Market Trajectory & Analytics\"."
-    publishedDateTime: 2021-08-26T17:32:00Z
-    webUrl: "https://www.lelezard.com/en/news-19970367.html"
+  - title: "Growth in AI-Enabled Distributed Energy Resources Integration Market to Reach $481 Million by 2030"
+    excerpt: "AI techniques have been deployed in the energy industry for a variety of grid and market operations. A new report from Guidehouse Insights analyzes AI capabilities for enabling distributed energy resources (DER) integration,"
+    publishedDateTime: 2021-08-25T17:12:00Z
+    webUrl: "https://www.tdworld.com/smart-utility/data-analytics/article/21173397/growth-in-aienabled-distributed-energy-resources-integration-market-to-reach-481-million-by-2030"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 29
+      name: T&D
+      domain: tdworld.com
+    quality: 25
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://img.tdworld.com/files/base/ebm/tdworld/image/2021/08/16x9/GettyImages_1321274917.612679572a572.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 674
         isCached: true
-  - title: "With Market Size Valued at $2.6 Billion by 2026, it`s a Healthy Outlook for the Global Artificial Intelligence (AI) in Drug Discovery Market"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence"
-    publishedDateTime: 2021-08-26T12:10:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/with-market-size-valued-at-2-6-billion-by-2026-it-s-a-healthy-outlook/article_5d6eaa18-3270-572f-8e6f-90817cffada7.html"
+  - title: "Precision Medicine Market to Reach USD 125.67 Billion by 2026"
+    excerpt: "Increasing advancements in cancer biology and myriad benefits offered by precision medicines to drive the global precision medicine market. <br />"
+    publishedDateTime: 2021-08-27T10:33:00Z
+    webUrl: "https://menafn.com/1102685223/Precision-Medicine-Market-to-Reach-USD-12567-Billion-by-2026"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 17
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 24
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/54/c541e310-234d-5b11-ae36-550c5cb8f770/612785f094d46.image.jpg?resize=1013%2C630"
-        width: 1013
-        height: 630
+      - url: "https://menafn.com/updates/pr/2021-08/26/pr_12067_f10a3a26_image_story.jpeg"
+        width: 400
+        height: 300
+        isCached: true
+  - title: "Global fintech market size to grow a CAGR of 8.5% to reach $191bn in 2028"
+    excerpt: "The global fintech market size was USD 100.09 billion in 2020 and is expected to register a revenue CAGR of 8.5% to reach USD 190.80 billion during 2021 - 2028, boosted by rising demand for digitization in organizations."
+    publishedDateTime: 2021-08-27T09:20:00Z
+    webUrl: "https://www.opalesque.com/687194/Global_fintech_market_size_to_grow_a_CAGR719.html"
+    type: article
+    provider:
+      name: Opalesque
+      domain: opalesque.com
+    quality: 23
+    images:
+      - url: "https://www.opalesque.com/images/GTE-Cap-Intro-Florida-(300x250).png"
+        width: 300
+        height: 250
         isCached: true
 
 secured: "0eDgSbUkB1QYCz2KC/C0sNfUiK3ZR6LnSiBp776VPa7ruZpc09MSMF5K6u8YWa3N4BDRfjIWYTF7Tq1+8yvDmtGS1ZJ6xtmRkZwom1sPORtjtKte2W1pJhVjBLKOdLlkkxHYYcA8hEBz8jK7F5uI48oM2vzyLeO9VxnIL57Vz7EUWalfhYw2U8GJemlWQ0KSWEsiuzdmo06texlxVa5J3CwKzKBj/rLzPidJ74RWPdCJnLah+ExmvuZes0fMreTwvFd/E5t/5WHZT+M59PQlvh+dzuxebudwik9/SVtrHMmfcCnUYU241ChQgX1u4EPnAAIvRRQ2ovr2VYlKn0IGBfIT/s8sIqibPtnCZxdhEknusEZF1z6hwUlBY8MKb7iT6DW8q8b4VcRQGZKxFF57adJSMqzTR6TZPbqDmUjqoTkPkw/QBK1avovpsM646zvHntsutLEfFURh0ioqTJ4QHtGHOJ5bXFpb64kss06lyCPw0HFmDFZ6ByWRhSfSOsBdQZQWVxFpPZUK8kTEdUyW8g==;mJMAF7h4sJP+InYyRAoK/g=="

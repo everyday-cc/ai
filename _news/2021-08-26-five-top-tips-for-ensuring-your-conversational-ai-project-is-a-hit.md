@@ -73,22 +73,6 @@ related:
         width: 514
         height: 400
         isCached: true
-  - title: "Why Conversational AI Is So Much More Than a Chatbot"
-    excerpt: "When people think of conversational AI, their first thought is often the chatbots that one encounters on many enterprise websites. While they would not be wrong, as that is one example of conversational AI,"
-    publishedDateTime: 2021-08-25T15:14:00Z
-    webUrl: "https://www.cmswire.com/digital-experience/why-conversational-ai-is-so-much-more-than-a-chatbot/"
-    ampWebUrl: "https://www.cmswire.com/digital-experience/why-conversational-ai-is-so-much-more-than-a-chatbot/amp/"
-    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/why-conversational-ai-is-so-much-more-than-a-chatbot/amp/"
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 59
-    images:
-      - url: "https://www.cmswire.com/-/media/3939a5d58c4c46aaa5d088cb9796d809.ashx?mw=1024"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Ambit Launches Conversational AI Platform in AWS Marketplace"
     excerpt: "Today, Ambit, an Auckland-based conversational artificial intelligence (AI) company, announced the availability of Ambit Edge in Amazon Web Services (AWS) Marketplace. Ambit Edge, an easy to use, intent-based, enterprise-grade digital employee that ..."
     publishedDateTime: 2021-08-26T02:19:00Z

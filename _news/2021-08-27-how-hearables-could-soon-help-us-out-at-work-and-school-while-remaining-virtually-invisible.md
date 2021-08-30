@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/how-hearables-could-soon-help-out-work
 webUrl: "https://thenextweb.com/news/how-hearables-could-soon-help-out-work-school-remaining-virtually-invisible-syndication"
 type: article
 quality: 58
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Wearable tech for your ears: ‘Hearables’ can teach you a language or music with the help of AI"
-    excerpt: "In music education and language teaching, hearables are poised to play a significant role as listening is at the centre of both music and language comprehension. Music and language students could access relevant content from anywhere and practise their lessons."
-    publishedDateTime: 2021-08-25T16:22:00Z
-    webUrl: "https://theconversation.com/wearable-tech-for-your-ears-hearables-can-teach-you-a-language-or-music-with-the-help-of-ai-161571"
-    ampWebUrl: "https://theconversation.com/amp/wearable-tech-for-your-ears-hearables-can-teach-you-a-language-or-music-with-the-help-of-ai-161571"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/wearable-tech-for-your-ears-hearables-can-teach-you-a-language-or-music-with-the-help-of-ai-161571"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 47
-    images:
-      - url: "https://images.theconversation.com/files/414380/original/file-20210803-13-1yb8n4k.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=229&fit=crop"
-        width: 320
-        height: 229
-        isCached: true
   - title: "Wearable tech for your ears: 'Hearables' can teach you a language or music with the help of AI"
     excerpt: "Hearables are wireless smart micro-computers with artificial intelligence that incorporate both speakers and microphones. They fit in the ears and can connect to the internet and to other devices, and are designed to be worn daily."
     publishedDateTime: 2021-08-26T13:08:00Z

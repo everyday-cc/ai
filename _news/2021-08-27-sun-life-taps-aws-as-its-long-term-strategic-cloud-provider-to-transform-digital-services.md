@@ -73,6 +73,20 @@ related:
         width: 800
         height: 620
         isCached: true
+  - title: "Nigeria: 'Digital Transformation Is Accelerating Recovery and Financial Inclusion'"
+    excerpt: "The President/Chairman of Council, The Chartered Institute of Bankers of Nigeria (CIBN), Dr Bayo Olugbemi has stated that with the increase and adoption of technology, the economy and financial inclusion is on a faster path of recovery and growth."
+    publishedDateTime: 2021-08-30T08:48:00Z
+    webUrl: "https://allafrica.com/stories/202108300391.html"
+    type: article
+    provider:
+      name: AllAfrica.com
+      domain: allafrica.com
+    quality: 18
+    images:
+      - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
+        width: 664
+        height: 664
+        isCached: true
 
 secured: "OXVP6F5GpllQjUbQdLr3B3otHAqs4lz4AOhkoOagwWw+1pRkyM51+ywKn8ziXslOxOqOiN1MlHV7VVKXWHurmKG7eGzrvyKR1UJK2d5L/z8kR7tVrcVZ4COeSysQUwhsyUsF0RDfkJkC/r1fYrhJtwFSx0CteavTgSiwuORfVSI2QolTx4PLllGn3D0LlZ0uDd2H5eS4hvQdaVoNRHvzDUPZfZZuyiDE/BpVjB/XkcsYHfCg1pMuHhMI0yPsRXvKepqbu1kcoeljOpn/+X3fWugyVpd/XaYLWTzdL70/k/Qxy7pn5H09wj+aW+ga1hcVNu3ZhYXt9uD6QjljNRoET0i9A4De6rLy5z+7ywH4nBg6ESGZaPUWeKnCPIpJH+TkIxn3pAFoTK/L3YkboHZ45mTNvHxNKHcSo9m7N5R5gUArKmchD/5kfneE5Trr01Wy0esxWakXW8UMd+L04w88bGUVDw1iAWwvKBhntn+AkxTKVp8Js1RMNQPy2uWzf4z0AE0c79bkydN+UiazZDNsxg==;t3vB2dtkj7zKV43N1VODTw=="
 ---

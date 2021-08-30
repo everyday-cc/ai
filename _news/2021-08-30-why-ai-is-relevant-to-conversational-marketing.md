@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/382318"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/382318"
 type: article
 quality: 104
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -60,22 +60,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1149685673.jpg?w=514"
         width: 514
         height: 400
-        isCached: true
-  - title: "Why Conversational AI Is So Much More Than a Chatbot"
-    excerpt: "When people think of conversational AI, their first thought is often the chatbots that one encounters on many enterprise websites. While they would not be wrong, as that is one example of conversational AI,"
-    publishedDateTime: 2021-08-25T15:14:00Z
-    webUrl: "https://www.cmswire.com/digital-experience/why-conversational-ai-is-so-much-more-than-a-chatbot/"
-    ampWebUrl: "https://www.cmswire.com/digital-experience/why-conversational-ai-is-so-much-more-than-a-chatbot/amp/"
-    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/why-conversational-ai-is-so-much-more-than-a-chatbot/amp/"
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 59
-    images:
-      - url: "https://www.cmswire.com/-/media/3939a5d58c4c46aaa5d088cb9796d809.ashx?mw=1024"
-        width: 640
-        height: 480
         isCached: true
   - title: "Five top tips for ensuring your conversational AI project is a hit"
     excerpt: "Let’s look first at where conversational AI can make a difference. There are three main forms of communication in every organization where conversational AI can dramatically cha"
@@ -133,6 +117,6 @@ related:
         height: 420
         isCached: true
 
-secured: "ob0nz+TE3nlQ6adu+dBf77mpSCX1uxggPoIKV30WPrsJnB+CrOeDTV027JBKqZnx5dBuplGbJwcfD2Cdcp4WiOgRHRFy3Q+0CMTABmKg1s//TBluRKlKRe+8otBLkpVD8viizXTuqV769WX7zgrslng+oxey2xQM1+sDmnrapVe6lg2gUwD5uVxIeNX6bkyabz+y8EtE9IsICy8noxhVJLUmtp9pB+okVW+eC6YUNKngyFq/jsH2wSLziEcEMt3WC1v1VcmM5nCdqEenHVY2DtpfFQmE4sKAW5cdNLwNlIRqZiaIIiJ4yJ/JZrPqwj9GJyopGg9n/HfV4Qq3lAj/Pr6+H3OXgwjxOoPcUuqW9Wg=;LGixGWwq3CFM5A04JkSmyg=="
+secured: "75AOvEEQ7Amc9OfIQ99LjwcfPqApKa8M5gl9nNY9xs6MTUHpGSk+eUXT5P4t3xsQUbh2jEs3/q2z3/+Rdh5QzuaHIOOL4zLJ1bVFKZI8KLmJKDEBinJArgtzY83kJYyX8Lg+eiHrobT1VXRfS19amd07Qup9iFZUN6FBHzsgCe7ef+WvFaJmzM901dgvO2S2T8FLvPLpIlk+qkTMwp4S6+neCE6/6cHf8q9DRZqaKuy2G4uA2E+iyT/vL/Q6cj3zB7vW3oTGa2Bs71hCquc3SlIhikVtkCQac0qmhNUwRPdHgcLMrwU9Fq0nTuQjUMiRf9M7RXGRZTcsNb09f9vggxVUw5r7ncgDrstyR/0zKI0I9w9JBcwwtZBOtDfw9aK9LMkEcy4x2oG34QSV3dlDruJ6c/qA8eLTDNyO8GEZ8GDM2c0LioFq4iyJ8VJUQlXccPytr5eEQlB74Qd37lDQZ/6ibszSdFiNGwHJ7xhTnNmkC2+5FomlGCpfPPwdbe38V1JRRAGlye7tALxPy4YdPw==;uX/HUiAmQ5LnJSDtgTQb6Q=="
 ---
 

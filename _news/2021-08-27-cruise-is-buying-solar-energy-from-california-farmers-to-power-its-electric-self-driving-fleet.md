@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/08/26/cruise-is-buying-solar-energy-from
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/26/cruise-is-buying-solar-energy-from-california-farmers-to-power-its-electric-self-driving-fleet/amp/"
 type: article
 quality: 62
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Waymo launches rider testing for self-driving cars in San Francisco"
+    excerpt: "Some San Francisco residents will have a new way to get around the city. Waymo has launched rider testing of its self-driving cars. Right now, residents can sign up to become a “trusted tester” in the Waymo One app."
+    publishedDateTime: 2021-08-27T05:24:00Z
+    webUrl: "https://www.kron4.com/news/bay-area/waymo-launches-rider-testing-for-self-driving-cars-in-san-francisco/"
+    ampWebUrl: "https://www.kron4.com/news/bay-area/waymo-launches-rider-testing-for-self-driving-cars-in-san-francisco/amp/"
+    cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/bay-area/waymo-launches-rider-testing-for-self-driving-cars-in-san-francisco/amp/"
+    type: article
+    provider:
+      name: KRON4
+      domain: kron4.com
+    quality: 59
+    images:
+      - url: "https://www.kron4.com/wp-content/uploads/sites/11/2021/08/9B99F949367C44F185032B18736797B9.jpg?w=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Cruise Looks to Solar Panels to Power Self-Driving Cars"
     excerpt: "Cruise, the San Francisco autonomous car company backed by General Motors, is launching a new initiative to support renewable energy efforts in California’s Central Valley that takes advantage of solar power."
     publishedDateTime: 2021-08-25T20:30:00Z

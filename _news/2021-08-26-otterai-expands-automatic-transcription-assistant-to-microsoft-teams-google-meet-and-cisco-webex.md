@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/08/26/otter-ai-expands-automatic-transcr
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/26/otter-ai-expands-automatic-transcription-assistant-to-microsoft-teams-google-meet-and-cisco-webex/amp/"
 type: article
 quality: 90
-heat: 120
+heat: 130
 published: true
 
 provider:
@@ -70,6 +70,15 @@ related:
       name: fintechzoom
       domain: fintechzoom.com
     quality: 32
+  - title: "Microsoft adds literary Chinese to translation service"
+    excerpt: "Microsoft has added literary Chinese to its translation service, from the modern Chinese, and the more than 90 other languages and dialects provided by the service. Literary Chinese translation has been integrated into the Microsoft Translator app,"
+    publishedDateTime: 2021-08-30T08:14:00Z
+    webUrl: "https://www.telecompaper.com/news/microsoft-adds-literary-chinese-to-translation-service--1395246"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
 secured: "O3nAioegjRyoaCi2d2v+QjAOK+QL64q+y85gfVp5wZu1y8HMpyryNIruDtvI7n7My/M3bbC4ENKdTQVxHFW5qLpGkQHB7y3oGjYBAaTufUNKhtia4dnGgHyrg2b7Tu3CItdOvAX7ES3UDtyYmJzPgEg/XIaqB094w2HBxsGnE6IMXdgjs0GyLLZN3I3/OP4jG8BpeaIL6SM0T1ogFjjO42CNXi8ZI0dvZLl6eyQPzYOn+wDk0hllZw8QVUrrHPI74l83mcibqz8C8KdOdVLrORY5Tg5KS2UMsVad68gsAmsb/WouAyQMODUd9CiiKe90bjlUFhTA2SoXyZ6zSqteLMos80lihmTdfUHinM9JLUItKJUUnBJPHdCATE5Vrq+aEVejKO9Cb1kXzZrUA8XrpYZqnpH4y7Zw/Mjn5dQ9X36cEeWzOaJdgB7BIN9Mbq9LmaYWUtYcHtFZKt5szBsX2Z7twRkpBR46u5tqB4MiV63R33/7eY39jY58k85am4Zmn0Xg6ugPZThXfCTkRb0trg==;G1jx8hQduW3kGe2VPCN+AA=="
 ---

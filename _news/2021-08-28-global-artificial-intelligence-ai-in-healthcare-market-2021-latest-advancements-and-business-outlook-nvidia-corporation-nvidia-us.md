@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Nvidia Launches AI Enterprise Suite In Exclusive Pact With VMware"
-    excerpt: "Nvidia believes it can build a “significant” business with the new Nvidia AI Enterprise software suite it’s exclusively launching on VMware vSphere."
-    publishedDateTime: 2021-08-25T15:59:00Z
-    webUrl: "https://www.crn.com/news/virtualization/nvidia-launches-ai-enterprise-suite-in-exclusive-pact-with-vmware"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 41
-    images:
-      - url: "https://www.crn.com/resources/026c-1315a57ab4f8-914bd40921f0-1000/nvidia-ai-enterprise-image.jpg"
-        width: 1500
-        height: 1124
-        isCached: true
   - title: "Nvidia launches AI enterprise suite"
     excerpt: "Nvidia believes it can build a “significant” business with the new Nvidia AI Enterprise software suite it’s launching on VMware’s vSphere virtualization platform as part of an exclusive agreement. Made generally available on Tuesday,"
     publishedDateTime: 2021-08-25T19:24:00Z
