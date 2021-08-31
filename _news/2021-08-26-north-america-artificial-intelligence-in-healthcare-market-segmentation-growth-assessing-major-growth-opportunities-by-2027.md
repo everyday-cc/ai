@@ -29,19 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Asia Pacific Artificial Intelligence In Healthcare Market Size, Analysis, Competitive Strategies and Forecasts to 2027"
-    excerpt: "The market research report an in-depth study of the present as well as the future market needs of the Asia Pacific Artificial Intelligence (Ai) In Healthcare Market size. The research report serves as a comprehensive guide for new entrants to the Asia Pacific Artificial Intelligence (Ai) In Healthcare market size."
-    publishedDateTime: 2021-08-26T13:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/asia-pacific-artificial-intelligence-in-healthcare-market-size-analysis-competitive-strategies-and-forecasts-to-2027-2021-08-26"
+  - title: "Get Entire Details about Artificial Intelligence System Market By 2025"
+    excerpt: "United States OR Poland Artificial Intelligence System Market According to a new report added by Reports Big Market Report titled Artificial Intelligence System Market Global Opportunity Analysis and Industry Forecast 2021 2026 The Artificial Intelligence System Market research by Market"
+    publishedDateTime: 2021-08-26T12:16:00Z
+    webUrl: "https://www.openpr.com/news/2369435/get-entire-details-about-artificial-intelligence-system-market"
+    ampWebUrl: "https://www.openpr.com/amp/2369435/get-entire-details-about-artificial-intelligence-system-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2369435/get-entire-details-about-artificial-intelligence-system-market"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
+      name: openpr.com
+      domain: openpr.com
+    quality: 72
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.openpr.com/U/8/U826384867_g.jpg"
+        width: 628
+        height: 385
         isCached: true
   - title: "Artificial Intelligence In Healthcare Market Industry Size Share, Business Strategies, Growth Analysis, Regional Demand By 2027"
     excerpt: "Selbyville, Delaware Market Study Report Has Added Research Each place is then elaborated to help the reader comprehend the growth potential of each region and its contribution to the Artificial Intelligence (Ai) In Healthcare market size."
@@ -57,66 +59,71 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Construction Market Size, Strategies, Competitive Landscape, Trends & Factor Analysis, 2020–2026"
-    excerpt: "Artificial intelligence can help reduce construction costs in many ways. For example, the use of virtual reality goggles and mini-robots into buildings under construction to track the work as it progresses. AI is also being used today to design the routing ..."
-    publishedDateTime: 2021-08-26T17:44:00Z
-    webUrl: "https://www.openpr.com/news/2370118/artificial-intelligence-ai-in-construction-market-size"
-    ampWebUrl: "https://www.openpr.com/amp/2370118/artificial-intelligence-ai-in-construction-market-size"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2370118/artificial-intelligence-ai-in-construction-market-size"
+  - title: "Edge AI Hardware Market worth 2,080 million Units by 2026 - Exclusive Report by MarketsandMarketstm"
+    excerpt: "According to a research report \"Edge AI Hardware Market with COVID-19 Impact Analysis device, Processor (CPU, GPU, and ASICs), End User, Function (Training and Inference), Power (Less Than 1W, 1-3 W,"
+    publishedDateTime: 2021-08-30T13:37:00Z
+    webUrl: "https://www.lelezard.com/en/news-19973236.html"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 45
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 27
     images:
-      - url: "https://cdn.openpr.com/U/8/U826358438_g.jpg"
-        width: 750
-        height: 350
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
-  - title: "Artificial Intelligence in Transportation Market with Report In Depth Industry Analysis on Trends, Growth, Opportunities and Forecast till 2025"
-    excerpt: "Selbyville, Delaware Market Study Report Has Added Research helps to set achievable targets, which consequently"
-    publishedDateTime: 2021-08-26T13:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-transportation-market-with-report-in-depth-industry-analysis-on-trends-growth-opportunities-and-forecast-till-2025-2021-08-26"
+  - title: "Edge AI Hardware Market worth 2,080 million Units by 2026 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "According to a research report \"Edge AI Hardware Market with COVID-19 Impact Analysis device, Processor (CPU, GPU, and ASICs), End User, Function (Training and"
+    publishedDateTime: 2021-08-30T13:30:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/edge-ai-hardware-market-worth-2-080-million-units-by-2026---exclusive-report/article_d19062e8-3ab9-50f9-a711-5e5c4d492767.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 25
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/63/a63dc5dc-7992-5fd0-8794-8539b71dd644/60abab2ba5c22.image.jpg?resize=669%2C229"
+        width: 669
+        height: 229
         isCached: true
-  - title: "Cloud Machine Learning Market Analysis by Trends, Technological Advancement, Forecast till 2027 & COVID-19 Effect | IBM, Alibaba"
-    excerpt: "Cloud Machine Learning market study report focuses on identifying the opportunities and threats come in the business and provide best ideas to deal with them It depicts future scenario of the industry Knowing competitors in the market is beneficial for"
-    publishedDateTime: 2021-08-26T11:10:00Z
-    webUrl: "https://www.openpr.com/news/2369228/cloud-machine-learning-market-analysis-by-trends"
-    ampWebUrl: "https://www.openpr.com/amp/2369228/cloud-machine-learning-market-analysis-by-trends"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2369228/cloud-machine-learning-market-analysis-by-trends"
+  - title: "Speech and Voice Recognition Market worth $22.0 billion by 2026 - Exclusive Report by MarketsandMarketstm"
+    excerpt: "Global Forecast to 2026\", published by MarketsandMarketstm, the Speech And Voice Recognition Market is expected to grow from USD 8.3 billion in 2021 to USD 22.0 billion by 2026; it is expected to grow at a CAGR of 21."
+    publishedDateTime: 2021-08-26T14:58:00Z
+    webUrl: "https://www.lelezard.com/en/news-19970034.html"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 30
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 7
     images:
-      - url: "https://cdn.openpr.com/U/8/U826170529_g.jpg"
-        width: 800
-        height: 457
+      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+        width: 640
+        height: 480
         isCached: true
-  - title: "Global Trade Surveillance Systems Market Forecast to 2028: Opportunities in the Integration of Technologies such as Artificial Intelligence and Machin"
-    excerpt: "The \"Trade Surveillance Systems Market Forecast to 2028 - COVID-19 Impact and Global Analysis by Component (Solutions and Services), Deployment (On Premise and Cloud), and Organization Size (SMEs and Large Enterprises)\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2021-08-30T09:01:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=522713"
+  - title: "Global AI-based Clinical Trials Solution Provider Market (2021 to 2028) - Size, Share & Trends Analysis Report - ResearchAndMarkets.com"
+    excerpt: "The global AI-based clinical trials solution provider market size is expected to reach USD 5.2 billion by 2028 and is expected to expand at a CAGR of 21.7% over the forecast period. Unlearn.AI, Inc. Antidote Technologies,"
+    publishedDateTime: 2021-08-26T13:30:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=521967"
     type: article
     provider:
       name: 아크로팬
       domain: acrofan.com
-    quality: 0
+    quality: 5
     images:
       - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
         width: 580
         height: 339
         isCached: true
+  - title: "Speech and Voice Recognition Market worth $22.0 billion by 2026 - Exclusive Report by MarketsandMarkets"
+    excerpt: "According to the new market research report \"Speech and Voice Recognition Market with COVID-19 Impact Analysis by Delivery Method, Deployment Mode (On"
+    publishedDateTime: 2021-08-26T15:40:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-08/53783702-speech-and-voice-recognition-market-worth-dollar-22-0-billion-by-2026-exclusive-report-by-marketsandmarkets-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "FfkqAcO5tHaHtGoZg475eL5gZEJJobadkTJtbNb+HPVrsndiIzxF5rbm6xAGI8zXVq7ELm4NEmEIgyC1Ot26f9V1xZlaZe/EY3pUYtLgs6VO0fYeVlIE5iZsCn574Sv0BmSUwgc/mk8SMwXaYNK/dGlVQKNAeI0nN0e5nzRR7RCT+vCFOI5Bie94LipxXDp8Ckm6F8h170SIc/dcfd9MXM+rMbtjsTbsrd2egZPAxPyNq61Im1CCAdiyC+InWqbHu13+uL33IWl1XvYjgrccM1RwXhzGb+Xrsd3iz79P7HWzY88YVYHIyTkFY2hUSksfr8cNl764chZPlgjsZvzruFHniPWy9ZQZ4ozO0ipCfyo=;CBSlUEhQ7GvXSUfeWLqC7A=="
 ---

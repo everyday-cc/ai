@@ -24,55 +24,100 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Security Market Report 2021 On Future Trend, Global Key Findings, Regional Analysis of Leading Player Forecasts to 2027"
-    excerpt: "Aug (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The Global Artificial Intelligence"
-    publishedDateTime: 2021-08-26T05:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-report-2021-on-future-trend-global-key-findings-regional-analysis-of-leading-player-forecasts-to-2027-2021-08-26"
+  - title: "Get Entire Details about Artificial Intelligence System Market By 2025"
+    excerpt: "United States OR Poland Artificial Intelligence System Market According to a new report added by Reports Big Market Report titled Artificial Intelligence System Market Global Opportunity Analysis and Industry Forecast 2021 2026 The Artificial Intelligence System Market research by Market"
+    publishedDateTime: 2021-08-26T12:16:00Z
+    webUrl: "https://www.openpr.com/news/2369435/get-entire-details-about-artificial-intelligence-system-market"
+    ampWebUrl: "https://www.openpr.com/amp/2369435/get-entire-details-about-artificial-intelligence-system-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2369435/get-entire-details-about-artificial-intelligence-system-market"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 72
+    images:
+      - url: "https://cdn.openpr.com/U/8/U826384867_g.jpg"
+        width: 628
+        height: 385
+        isCached: true
+  - title: "North America Artificial Intelligence In Healthcare Market Segmentation, Growth, Assessing Major Growth Opportunities by 2027"
+    excerpt: "Selbyville, Delaware Market Study Report Has Added Research Each place is then elaborated to help the reader comprehend the growth potential of each region and its contribution to the North America Artificial Intelligence (Ai) In Healthcare market size."
+    publishedDateTime: 2021-08-26T13:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/north-america-artificial-intelligence-in-healthcare-market-segmentation-growth-assessing-major-growth-opportunities-by-2027-2021-08-26"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 46
+    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Mobile Speech Recognition Software Market 2021 Recent Scope, Growing Popularity and Emerging Trends in the Market"
-    excerpt: "ReportsWeb analysts forecasts the latest report on “Global Mobile Speech Recognition Software Market (Covid-19) Impact and Analysis by 2026”, according to report; The Mobile Speech Recognition Software Market report covers the overall and all ..."
-    publishedDateTime: 2021-08-29T09:54:00Z
-    webUrl: "https://manometcurrent.com/global-mobile-speech-recognition-software-market-2021-swot-analysis-future-growth-covid-19-impact-manufacturers-demands-and-revenue-report-investigated-in-the-latest-research/"
-    ampWebUrl: "https://manometcurrent.com/global-mobile-speech-recognition-software-market-2021-swot-analysis-future-growth-covid-19-impact-manufacturers-demands-and-revenue-report-investigated-in-the-latest-research/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/global-mobile-speech-recognition-software-market-2021-swot-analysis-future-growth-covid-19-impact-manufacturers-demands-and-revenue-report-investigated-in-the-latest-research/?amp=1"
+  - title: "Artificial Intelligence In Healthcare Market Industry Size Share, Business Strategies, Growth Analysis, Regional Demand By 2027"
+    excerpt: "Selbyville, Delaware Market Study Report Has Added Research Each place is then elaborated to help the reader comprehend the growth potential of each region and its contribution to the Artificial Intelligence (Ai) In Healthcare market size."
+    publishedDateTime: 2021-08-26T13:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-industry-size-share-business-strategies-growth-analysis-regional-demand-by-2027-2021-08-26"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 34
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
     images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/Global-Cosmetic-Packaging-Market-390x220.jpg"
-        width: 390
-        height: 220
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Self-driving Industrial Vehicle Market Global Growth, SWOT Industry Analysis, CAGR Status, Key Companies, Applications, Upcoming Trends 2030"
-    excerpt: "Allied Market Research published a new report titled Self driving industrial Market Global Opportunity Analysis and Industry Forecast 2021 2027 The latest study on the Global Self driving industrial Market covers a wide range of organizations from different regions It"
-    publishedDateTime: 2021-08-27T09:35:00Z
-    webUrl: "https://www.openpr.com/news/2370553/self-driving-industrial-vehicle-market-global-growth-swot"
-    ampWebUrl: "https://www.openpr.com/amp/2370553/self-driving-industrial-vehicle-market-global-growth-swot"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2370553/self-driving-industrial-vehicle-market-global-growth-swot"
+  - title: "Edge AI Hardware Market worth 2,080 million Units by 2026 - Exclusive Report by MarketsandMarketstm"
+    excerpt: "According to a research report \"Edge AI Hardware Market with COVID-19 Impact Analysis device, Processor (CPU, GPU, and ASICs), End User, Function (Training and Inference), Power (Less Than 1W, 1-3 W,"
+    publishedDateTime: 2021-08-30T13:37:00Z
+    webUrl: "https://www.lelezard.com/en/news-19973236.html"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
-  - title: "Global Automotive Voice Recognition Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
-    excerpt: "6.2 North America Automotive Voice Recognition Revenue by Application (2016-2026) 6.3 North America Automotive Voice Recognition Market Size by Country 6.3.1 North America Automotive Voice Recognition Revenue by Country (2016-2026) 6.3.2 United States ..."
-    publishedDateTime: 2021-08-28T02:30:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4818187-global-automotive-voice-recognition-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 27
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "Edge AI Hardware Market worth 2,080 million Units by 2026 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "According to a research report \"Edge AI Hardware Market with COVID-19 Impact Analysis device, Processor (CPU, GPU, and ASICs), End User, Function (Training and"
+    publishedDateTime: 2021-08-30T13:30:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/edge-ai-hardware-market-worth-2-080-million-units-by-2026---exclusive-report/article_d19062e8-3ab9-50f9-a711-5e5c4d492767.html"
     type: article
     provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 25
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/63/a63dc5dc-7992-5fd0-8794-8539b71dd644/60abab2ba5c22.image.jpg?resize=669%2C229"
+        width: 669
+        height: 229
+        isCached: true
+  - title: "Speech and Voice Recognition Market worth $22.0 billion by 2026 - Exclusive Report by MarketsandMarketstm"
+    excerpt: "Global Forecast to 2026\", published by MarketsandMarketstm, the Speech And Voice Recognition Market is expected to grow from USD 8.3 billion in 2021 to USD 22.0 billion by 2026; it is expected to grow at a CAGR of 21."
+    publishedDateTime: 2021-08-26T14:58:00Z
+    webUrl: "https://www.lelezard.com/en/news-19970034.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 7
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "Speech and Voice Recognition Market worth $22.0 billion by 2026 - Exclusive Report by MarketsandMarkets"
+    excerpt: "According to the new market research report \"Speech and Voice Recognition Market with COVID-19 Impact Analysis by Delivery Method, Deployment Mode (On"
+    publishedDateTime: 2021-08-26T15:40:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-08/53783702-speech-and-voice-recognition-market-worth-dollar-22-0-billion-by-2026-exclusive-report-by-marketsandmarkets-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
     quality: 0
 
 secured: "FktWCq8nQiIQZQPedsx5kYgjgw38oPxQRtymELh+21mhQNNEtrCic2LPWJnPsjt1T32rjubtvjyZ+EaEPEXXxfNNm/TyAGxGyptdawX/yjZsWrH5Y7wZrq3wzFfFQZmrVvHI6Mes6ECc2Ww15xk2gIQ0niKc1wbJoEUE7EwvGGnxcXqvwqLkytagQ+uB3I7XVDTnYZ4Y7qnavVNCYBY5wXi75Ovp9GaNfNTOy/KfsKG/jFFslAijZk5GYAzzAbV6BDUVREwdYS1pGA7iJ0k3rPu44kYQF0TlJ58HRyHR7l9aQA9pfehrhBfdL1IyrEH6ZkTMk42ObPyAzW7jn5ZzvUVMkqljcd58BfcZJSEk7GQ=;pA+SBOTKwB9UkQfTfk7TYA=="

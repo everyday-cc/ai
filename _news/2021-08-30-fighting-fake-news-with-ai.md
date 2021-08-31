@@ -24,21 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "This Company Wants To Put Your Face In Advertisements By Making Deepfake Clones With AI"
-    excerpt: "Advertisement With every passing day, scientists and researchers are coming up with ways to incorporate technology in ways that were not known before. This brings innovation, convenience, and improved living standards in our lives."
-    publishedDateTime: 2021-08-30T17:36:00Z
-    webUrl: "https://wonderfulengineering.com/this-company-wants-to-put-your-face-in-advertisements-by-making-deepfake-clones-with-ai/"
-    ampWebUrl: "https://wonderfulengineering.com/this-company-wants-to-put-your-face-in-advertisements-by-making-deepfake-clones-with-ai/amp/"
-    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/this-company-wants-to-put-your-face-in-advertisements-by-making-deepfake-clones-with-ai/amp/"
+  - title: "READY, FIRE, AIM: My Personal Struggle with Artificial Intelligence"
+    excerpt: "Artificial Intelligence. Because normal, genuine intelligence seems to be failing us… as anyone can tell, if they’re following the news lately. In a sense, those of us interested in AI are rubbing shoulders with the computer nerds at Facebook and Google,"
+    publishedDateTime: 2021-08-30T11:34:00Z
+    webUrl: "https://pagosadailypost.com/2021/08/30/ready-fire-aim-my-personal-struggle-with-artificial-intelligence/"
     type: article
     provider:
-      name: Wonderful Engineering
-      domain: wonderfulengineering.com
-    quality: 49
+      name: Pagosa Daily Post
+      domain: pagosadailypost.com
+    quality: 52
     images:
-      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/08/109129822_19845043-8e5a-4bb4-a8af-b7269659a838.jpg"
-        width: 976
-        height: 549
+      - url: "https://pagosadailypost.com/wp-content/uploads/2021/08/30-Artificial-Intelligence-720x480.jpg"
+        width: 720
+        height: 480
         isCached: true
 
 secured: "mdxXAioh0zqCVbIGt/+Ruyk8AXzuvo+aLsqAlHttBIAHwJpX6cOF5ZuYNLNsRg0j8Lmynzyr2fVoT3okOEEN0Vg4kYQrm6kJZvw66UamG5PjrRbccw+8k3zcV1qrWldx94gZjubS44LON4CSwzJ3jhn0b0WGRIeatcmvDrQgMlH2CdvtdPbj5/iPqeb6so85u+yxksUHTMQitt4e/ghjOAJCQFIv1jnV062EOgreSEZyY/aFiqwYDyFrAFi0KzQ7af3eDZJ7WKAbuQxdgXcgF2TXgPkU46TBMw/vcJRZ+9UhOR6dYXzQXShG9kcihF+Jrr4X7n3jY4yA/jaVRBK5A0bAI2OqxUAf5GAxh+N2oRM=;lV/5Pgz1VEThx3JpxinRqA=="

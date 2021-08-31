@@ -25,50 +25,45 @@ images:
     isCached: true
 
 related:
-  - title: "Global Speech Recognition Market to Reach $29.28 Billion by 2026, States the Report by Allied Market Research"
-    excerpt: "Allied Market Research published a research report on the speech recognition market. The findings of the report states that the global market for speech recognition is expected to reach $29.28 billion by 2026, manifesting a CAGR of 19.9% from 2019 to 2026."
-    publishedDateTime: 2021-08-27T03:36:00Z
-    webUrl: "https://www.openpr.com/news/2370242/global-speech-recognition-market-to-reach-29-28-billion"
-    ampWebUrl: "https://www.openpr.com/amp/2370242/global-speech-recognition-market-to-reach-29-28-billion"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2370242/global-speech-recognition-market-to-reach-29-28-billion"
+  - title: "Valued to be $28.8 Billion by 2026, Artificial Intelligence (AI) in Fintech Slated for Robust Growth Worldwide"
+    excerpt: "Preview Registry Global Artificial Intelligence (AI) in Fintech Maket to Reach $28.8 Billion by 2026 The U.S. Market is Estimated at $1.5 Billion in 2021, While China is Forecast to Reach $4.2 Billion by 2026 The Artificial Intelligence (AI) in Fintech market in the U."
+    publishedDateTime: 2021-08-26T16:28:00Z
+    webUrl: "https://www.mobilitytechzone.com/lte/news/2021/08/26/9437950.htm"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 40
+      name: Mobility Techzone
+      domain: mobilitytechzone.com
+    quality: 34
     images:
-      - url: "https://cdn.openpr.com/U/8/U827193633_g.jpg"
-        width: 800
-        height: 418
-        isCached: true
-  - title: "A $14.9 Billion Global Opportunity for Artificial Intelligence (AI) in Manufacturing by 2026 - New Research from StrategyR"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Manufacturing - Global Market Trajectory & Analytics\"."
-    publishedDateTime: 2021-08-26T13:50:00Z
-    webUrl: "https://www.lelezard.com/en/news-19969717.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 30
-    images:
-      - url: "https://mma.prnewswire.com/media/1601546/Global_Opportunity_for_Artificial_Intelligence_in_Manufacturing.jpg"
+      - url: "https://mma.prnewswire.com/media/1601543/MCP21180.jpg"
         width: 400
-        height: 387
+        height: 252
         isCached: true
-  - title: "Precision Medicine Market to Reach USD 125.67 Billion by 2026"
-    excerpt: "Increasing advancements in cancer biology and myriad benefits offered by precision medicines to drive the global precision medicine market. <br />"
-    publishedDateTime: 2021-08-27T10:33:00Z
-    webUrl: "https://menafn.com/1102685223/Precision-Medicine-Market-to-Reach-USD-12567-Billion-by-2026"
+  - title: "Valued to be $28.8 Billion by 2026, Artificial Intelligence (AI) in Fintech Slated for Robust Growth Worldwide"
+    excerpt: "Home » Valued to be $28.8 Billion by 2026, Artificial Intelligence (AI) in Fintech Slated for Robust Growth Worldwide Valued to be $28.8 Billion by 2026, Artificial Intelligence (AI) in Fintech Slated for Robust Growth Worldwide Our MarketGlass ..."
+    publishedDateTime: 2021-08-29T08:45:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_fintech-news-today/valued-to-be-28-8-billion-by-2026-artificial-intelligence-ai-in-fintech-slated-for-robust-growth-worldwide/"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 24
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 34
     images:
-      - url: "https://menafn.com/updates/pr/2021-08/26/pr_12067_f10a3a26_image_story.jpeg"
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/9827233ed5e7ed4158e2d369c66b538c.jpeg"
         width: 400
-        height: 300
+        height: 252
         isCached: true
+  - title: "Artificial Intelligence (AI) in Fintech market trends and prospects 2027 with key players: Onfido,Data Minr Inc"
+    excerpt: "Global Artificial Intelligence (AI) in Fintech market forecast 2020-2027 A new report, global Artificial Intelligence (AI) in Fintech market provides an overview of recent factors enabling growth in the global Artificial Intelligence (AI) in Fintech industry."
+    publishedDateTime: 2021-08-30T04:47:00Z
+    webUrl: "https://www.globalbankingandfinance.com/artificial-intelligence-ai-in-fintech-market-trends-and-prospects-2027-with-key-players-onfidodata-minr-inc/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/artificial-intelligence-ai-in-fintech-market-trends-and-prospects-2027-with-key-players-onfidodata-minr-inc/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/artificial-intelligence-ai-in-fintech-market-trends-and-prospects-2027-with-key-players-onfidodata-minr-inc/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 34
 
 secured: "9LhQQV4cUNDJ9Aj9Is7FJ9M3DfgocsxoYGroQf+JFUT8yD6YCDrooTU2NDYvZMgnq+g4c21BxQOJmDVKpArojmWXQYjoHJnWdzvQQ2/vJuQ8C8lUgyk8Ee+P7m5UI1oIaGnsjQw0GM2e5HZqwldoqGjXFQqOA3equZl4lqYKMDhnLjydc0ikeaBfQMXUWK2l2tRRUd/qd6rYGIuUG+/uKjoFsaeJ4HxvfVzwY0VfRW/g0FIXvKeuFZwCnvVzoajshuK6N+uu2jIF2NbyI4jnqoYzSUTFFS+RXYwlIO4c/ydaQmz+iRzUsr3ZFzz3uMNE5X4QnHt3GFLIZE1j81qqtEvRytSW4DEkEB/povk8klc=;IRNLl5Ov3RTfgSzUFAbqwQ=="
 ---

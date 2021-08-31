@@ -25,49 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Retail Market"
-    excerpt: "The global Artificial Intelligence in the Retail market is forecast to reach USD 18 74 Billion by 2026 according to a new report by The retail industry has witnessed a surge in technological advances over the past"
-    publishedDateTime: 2021-08-26T05:52:00Z
-    webUrl: "https://www.openpr.com/news/2368221/artificial-intelligence-ai-in-retail-market-investment"
-    ampWebUrl: "https://www.openpr.com/amp/2368221/artificial-intelligence-ai-in-retail-market-investment"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2368221/artificial-intelligence-ai-in-retail-market-investment"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 72
-    images:
-      - url: "https://cdn.openpr.com/U/8/U826286763_g.jpg"
-        width: 800
-        height: 373
-        isCached: true
-  - title: "Get Entire Details about Artificial Intelligence System Market By 2025"
-    excerpt: "United States OR Poland Artificial Intelligence System Market According to a new report added by Reports Big Market Report titled Artificial Intelligence System Market Global Opportunity Analysis and Industry Forecast 2021 2026 The Artificial Intelligence System Market research by Market"
-    publishedDateTime: 2021-08-26T12:16:00Z
-    webUrl: "https://www.openpr.com/news/2369435/get-entire-details-about-artificial-intelligence-system-market"
-    ampWebUrl: "https://www.openpr.com/amp/2369435/get-entire-details-about-artificial-intelligence-system-market"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2369435/get-entire-details-about-artificial-intelligence-system-market"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 72
-    images:
-      - url: "https://cdn.openpr.com/U/8/U826384867_g.jpg"
-        width: 628
-        height: 385
-        isCached: true
-  - title: "C3.ai (AI) to Report Q1 Earnings: What's in the Offing?"
-    excerpt: "C3.ai AI is set to report first-quarter fiscal 2022 results on Sep 1. For the quarter, C3.ai expects revenues between $50 million and $52 million. The Zacks Consensus Estimate for revenues currently stands at $51 million."
-    publishedDateTime: 2021-08-30T16:09:00Z
-    webUrl: "https://www.nasdaq.com/articles/c3.ai-ai-to-report-q1-earnings%3A-whats-in-the-offing-2021-08-30"
-    ampWebUrl: "https://www.nasdaq.com/articles/c3.ai-ai-to-report-q1-earnings%3A-whats-in-the-offing-2021-08-30?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/c3.ai-ai-to-report-q1-earnings%3A-whats-in-the-offing-2021-08-30?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
   - title: "New Study from StrategyR Highlights a $10.3 Billion Global Market for Artificial Intelligence (AI) in Education by 2026"
     excerpt: "A new market study published b Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence"
     publishedDateTime: 2021-08-26T12:15:00Z
@@ -81,38 +38,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/a0/0a049b04-cb81-5fa9-b6c0-751f1335ae5c/612786c6048ed.image.jpg?resize=710%2C630"
         width: 710
         height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) as a Service Market Size, Opportunities, Key Growth Factors, Revenue Analysis, For 2020–2027"
-    excerpt: "Global Artificial Intelligence AI as a Service Market is forecasted to grow at a rate of 45 6 from USD 1 73 Billion in 2019 to USD 34 1 Billion in 2027 according to a new report by"
-    publishedDateTime: 2021-08-27T16:24:00Z
-    webUrl: "https://www.openpr.com/news/2371713/artificial-intelligence-ai-as-a-service-market-size"
-    ampWebUrl: "https://www.openpr.com/amp/2371713/artificial-intelligence-ai-as-a-service-market-size"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2371713/artificial-intelligence-ai-as-a-service-market-size"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 47
-    images:
-      - url: "https://cdn.openpr.com/U/8/U827435198_g.jpg"
-        width: 750
-        height: 350
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Social Media Market Revenue, Driving Factors, Key Players, Strategies, Trends, Forecast Till 2027"
-    excerpt: "The Global Artificial intelligence AI In Social Media Market size is estimated to reach USD 4 26 Billion from USD 797 Million in 2019 exhibiting a CAGR of 24 7 through 2027 The rapid evolution of social media platforms with"
-    publishedDateTime: 2021-08-27T16:45:00Z
-    webUrl: "https://www.openpr.com/news/2371710/artificial-intelligence-ai-in-social-media-market-revenue"
-    ampWebUrl: "https://www.openpr.com/amp/2371710/artificial-intelligence-ai-in-social-media-market-revenue"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2371710/artificial-intelligence-ai-in-social-media-market-revenue"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 43
-    images:
-      - url: "https://cdn.openpr.com/U/8/U827883715_g.jpg"
-        width: 750
-        height: 350
         isCached: true
   - title: "Global Artificial Intelligence (AI) in Telecommunication Market to Reach $6.5 Billion by 2026"
     excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Telecommunication - Global Market Trajectory & Analytics\"."
@@ -128,45 +53,22 @@ related:
         width: 400
         height: 327
         isCached: true
-  - title: "With Market Size Valued at $40 Billion by 2026, it`s a Healthy Outlook for the Global Artificial Intelligence (AI) in Healthcare Market"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Healthcare - Global Market Trajectory & Analytics\"."
-    publishedDateTime: 2021-08-26T13:44:00Z
-    webUrl: "https://www.lelezard.com/en/news-19969639.html"
+  - title: "Global Speech Recognition Market to Reach $29.28 Billion by 2026, States the Report by Allied Market Research"
+    excerpt: "Allied Market Research published a research report on the speech recognition market. The findings of the report states that the global market for speech recognition is expected to reach $29.28 billion by 2026, manifesting a CAGR of 19.9% from 2019 to 2026."
+    publishedDateTime: 2021-08-27T03:36:00Z
+    webUrl: "https://www.openpr.com/news/2370242/global-speech-recognition-market-to-reach-29-28-billion"
+    ampWebUrl: "https://www.openpr.com/amp/2370242/global-speech-recognition-market-to-reach-29-28-billion"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2370242/global-speech-recognition-market-to-reach-29-28-billion"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 39
+      name: openpr.com
+      domain: openpr.com
+    quality: 40
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-        width: 640
-        height: 480
+      - url: "https://cdn.openpr.com/U/8/U827193633_g.jpg"
+        width: 800
+        height: 418
         isCached: true
-  - title: "Valued to be $28.8 Billion by 2026, Artificial Intelligence (AI) in Fintech Slated for Robust Growth Worldwide"
-    excerpt: "Preview Registry Global Artificial Intelligence (AI) in Fintech Maket to Reach $28.8 Billion by 2026 The U.S. Market is Estimated at $1.5 Billion in 2021, While China is Forecast to Reach $4.2 Billion by 2026 The Artificial Intelligence (AI) in Fintech market in the U."
-    publishedDateTime: 2021-08-26T16:28:00Z
-    webUrl: "https://www.mobilitytechzone.com/lte/news/2021/08/26/9437950.htm"
-    type: article
-    provider:
-      name: Mobility Techzone
-      domain: mobilitytechzone.com
-    quality: 34
-    images:
-      - url: "https://mma.prnewswire.com/media/1601543/MCP21180.jpg"
-        width: 400
-        height: 252
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Fintech market trends and prospects 2027 with key players: Onfido,Data Minr Inc"
-    excerpt: "Global Artificial Intelligence (AI) in Fintech market forecast 2020-2027 A new report, global Artificial Intelligence (AI) in Fintech market provides an overview of recent factors enabling growth in the global Artificial Intelligence (AI) in Fintech industry."
-    publishedDateTime: 2021-08-30T04:47:00Z
-    webUrl: "https://www.globalbankingandfinance.com/artificial-intelligence-ai-in-fintech-market-trends-and-prospects-2027-with-key-players-onfidodata-minr-inc/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/artificial-intelligence-ai-in-fintech-market-trends-and-prospects-2027-with-key-players-onfidodata-minr-inc/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/artificial-intelligence-ai-in-fintech-market-trends-and-prospects-2027-with-key-players-onfidodata-minr-inc/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 34
   - title: "Valued to be $4.4 Billion by 2026, Artificial Intelligence (AI) in Call Center Slated for Robust Growth Worldwide"
     excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Call Center - Global Market Trajectory & Analytics\"."
     publishedDateTime: 2021-08-26T12:06:00Z
@@ -194,6 +96,20 @@ related:
       - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
         width: 421
         height: 421
+        isCached: true
+  - title: "A $14.9 Billion Global Opportunity for Artificial Intelligence (AI) in Manufacturing by 2026 - New Research from StrategyR"
+    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Manufacturing - Global Market Trajectory & Analytics\"."
+    publishedDateTime: 2021-08-26T13:50:00Z
+    webUrl: "https://www.lelezard.com/en/news-19969717.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 30
+    images:
+      - url: "https://mma.prnewswire.com/media/1601546/Global_Opportunity_for_Artificial_Intelligence_in_Manufacturing.jpg"
+        width: 400
+        height: 387
         isCached: true
   - title: "With Market Size Valued at $2.6 Billion by 2026, it`s a Healthy Outlook for the Global Artificial Intelligence (AI) in Drug Discovery Market"
     excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence"

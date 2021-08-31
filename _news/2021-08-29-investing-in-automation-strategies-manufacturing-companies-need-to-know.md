@@ -41,6 +41,22 @@ related:
         width: 1249
         height: 794
         isCached: true
+  - title: "Patent Protection on AI Inventions"
+    excerpt: "In recent years, AI patent activity has exponentially increased. The figure below shows the volume of public AI patent applications categorized by AI component in the U.S. from 1990-2018. The eight AI"
+    publishedDateTime: 2021-08-30T23:06:00Z
+    webUrl: "https://www.natlawreview.com/article/patent-protection-ai-inventions"
+    ampWebUrl: "https://www.natlawreview.com/article/patent-protection-ai-inventions?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/patent-protection-ai-inventions?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 57
+    images:
+      - url: "https://www.intellectualpropertylawblog.com/wp-content/uploads/sites/98/2021/08/111.gif"
+        width: 1906
+        height: 811
+        isCached: true
   - title: "Spell Introduces Deep Learning Operations Platform To Reduce AI Training Costs"
     excerpt: "Concept: NY’s MLOps platform provider Spell has announced the launch of an operations platform that includes the tools needed to train AI models using deep learning algorithms. ML algorithms are tuned for the platforms currently used to train AI models."
     publishedDateTime: 2021-08-30T12:53:00Z

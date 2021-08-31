@@ -1,29 +1,28 @@
 ---
 category: news
 title: "RITA: The Wound Pros Leverages Artificial Intelligence With Its Wound Measurement App"
-excerpt: "The Wound Pros ( today introduced its automatic wound measurement app, RITA designed to aid healthcare providers"
-publishedDateTime: 2021-08-30T18:10:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/rita-the-wound-pros-leverages-artificial-intelligence-with-its-wound-measurement-app-301365367.html"
-webUrl: "https://www.prnewswire.com/news-releases/rita-the-wound-pros-leverages-artificial-intelligence-with-its-wound-measurement-app-301365367.html"
+excerpt: "RITA represents The Wound Pros' \"high-tech\" approach that leverages the power of artificial intelligence and machine learning to measure chronic non-healing wounds with pinpoint accuracy. According to Dr."
+publishedDateTime: 2021-08-30T18:14:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-rita-wound-pros-leverages-artificial-intelligence-with-its-/2021/08/30/9439425.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-rita-wound-pros-leverages-artificial-intelligence-with-its-/2021/08/30/9439425.htm"
 type: article
-quality: 32
-heat: 32
+quality: 30
+heat: 30
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1604641/The_Wound_Pros_app_RITA.jpg?p=facebook"
-    width: 1170
-    height: 613
+  - url: "https://mma.prnewswire.com/media/1604641/The_Wound_Pros_app_RITA.jpg"
+    width: 400
+    height: 276
     isCached: true
 
-secured: "ROG8jm0BJstSOG9jP/W/PnRLW78+zvRfguxiawf5pVdTKhCVTKUpS0o+7Zn5D6Hn7wWz8ySTozsY2J4h8ynqrvaQ8nsPn0hd3Hh0u4sS08w93AFtQb3HeY/NnG9ilH61AL4IYFx58PqF0Xgkg95I/AUBRXnMuboq6CnApMDImZ4Ks8MhyHywfBcnGvOH55W0YZmhGUM1gbyvfqDjD2sum5kmxWWBQIBr0+X/r2xDnbeffXalj8vLguFwkI6tEQzB8bpGCzuNLL9UMCXSskNEL69Q2MqosaMXS5A6b6U3q7O/K4bVpYYweSnZc6h4tDuLu4d732Lqc33cA2Th3jV9LYIKZhI30MZboRYYg1jVWOw=;IaVrhONGTOHBU+th1F39pg=="
+secured: "gFgT4fqK2g6F7jyZszdFqOQ9U0bIPm4OKBMiPXIqSdTQ4omvNDjBlwp9tIbAO+OhfV2t7YdYzdile0OLvPJZPXppO+PPBW/IAEzGxmNZ2Sll+dC6Li9u3lVKCBPhcmdTX06/EP9I+hQ8PuDWH0TBTpTfJnfnZoWHdrri6tSY86yGuPe3gsNVdjNEBOEdTLx+uvOHR4MDR98dxFrc5gBHTGAeqpCVcsaGdVR+eXIQcO7ynWCHKLoHVtZrrfOQNv8z/JeHOx4Q6SVFHBBWRQcsUsUHqVCTf//TUI3O0qnxPdInBgrTbLHvUlu63emEncCeqm6DkCvCRgpgWcuQ7JQtIU9LLUF/GzfcxOFfvMorX/A=;Ekh1ruBT7S0FgR2pc9aCUg=="
 ---
 

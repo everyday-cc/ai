@@ -57,20 +57,6 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "Why Are Indian Institutes Racing To Launch B Tech in AI Courses"
-    excerpt: "Gone are the days when students fancied a computer science seat in a top tier college. Now there is a demand for specialisation. Thanks to the hype around artificial intelligence (AI), many Indian institutions are now racing to offer their own B."
-    publishedDateTime: 2021-08-26T06:30:00Z
-    webUrl: "https://analyticsindiamag.com/why-are-indian-institutes-racing-to-launch-b-tech-in-ai-courses/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/B-Tech-in-Artificial-Intelligence-AI.jpg"
-        width: 2240
-        height: 1260
-        isCached: true
   - title: "Augnito looks to tap growing India market for speech recognition in health"
     excerpt: "The use of voice recognition systems based on artificial intelligence (AI) in health care is emerging in India, which offers a potentially enormous market, according to Scribetech Healthcare (India) Pvt."
     publishedDateTime: 2021-08-27T00:00:00Z

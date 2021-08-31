@@ -41,6 +41,22 @@ related:
         width: 1249
         height: 794
         isCached: true
+  - title: "Patent Protection on AI Inventions"
+    excerpt: "In recent years, AI patent activity has exponentially increased. The figure below shows the volume of public AI patent applications categorized by AI component in the U.S. from 1990-2018. The eight AI"
+    publishedDateTime: 2021-08-30T23:06:00Z
+    webUrl: "https://www.natlawreview.com/article/patent-protection-ai-inventions"
+    ampWebUrl: "https://www.natlawreview.com/article/patent-protection-ai-inventions?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/patent-protection-ai-inventions?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 57
+    images:
+      - url: "https://www.intellectualpropertylawblog.com/wp-content/uploads/sites/98/2021/08/111.gif"
+        width: 1906
+        height: 811
+        isCached: true
   - title: "How to use data and artificial intelligence for diversity and inclusion in hiring and onboarding"
     excerpt: "Inexperienced leadership for a cohesive diversity and inclusion (D&I) strategy Insufficient data and tech infrastructure to measure impact of D&I strategies The popular adage you can’t manage what you don’t measure is best applied to D&I strategies."
     publishedDateTime: 2021-08-30T07:19:00Z
@@ -81,6 +97,6 @@ related:
       domain: jstor.org
     quality: 17
 
-secured: "/FbhoutWoGdkPMWE3aqBcMhjEPYxv4nL+ha2S2xlnyuQv/OxnCJWd3tIDgtmFGlaHo1a6FmBNarpt+SxTBCsuMqhtn2XjE6kdbJ2hDQrHgg2TIN5WFJHuUZ2CznkVdYfFBqHaydUx+cN6ZZJhwdvOvODnLJCu4NVrV3wEefIyO9SlStB0Wqf4FJYZuX1SBQ65IeOM1UQ0DwPHe68OvWDEoTw9BR57aIRp2UuYOS8YTwrtLGrBfMs6qPLApAH//AMDcRLcEeAcfNKhlXC36Y8nqnXVNLay3HdmEmg6o2AfF3foogI9Z085bwe6FXZ5uCyXaB1rxO7csSj25cr44s558F+ggWk2szmavtvs51rn1g=;Ttp5f40i6eEePVGQiRL5Uw=="
+secured: "sSg0B7kUKhts+EUEcD/HTMq7xJXbX71zbZx/xS1phbgOjlEKmkJqboUFp6bYC46hqp3CmaD7e1ifoumVCWhOcfCXb2/19d5ROtSbac1Y3fgK5p4YduU5i7a0eE31i/cmHW9+SxRsMCmJatcjq8wwdoWO/xoLcuIcEfqInkiwIJo6BTnkjMSWNo65DuiroAaTd2VgTkPAR8HzIwoiQn8RKCyvOXkrwTvGZU0WExv1vJyldgl6GXNdPEl4q5bg3sNuRFhe+B4H9me18PCzuQh6dMDNmJITpE7jbTG67uUjCjtvOolg7yzT7gc9h/hnBs5bJMnB2G55wFsRqxtSLpZWNiz1V8ddcWkDblMiIUnJZ+lIf60/tvmCjIvwLwKXz8iMMWyHSzV1cqD5CDQZhFK4/UDjxF8JfVnkQrIMHtKiDDp6WsNRHLok44KRXcTog6B3G1COeurzLImbSgehcKDOdM7jjiYb+omECE8yIzNCCCNOTBpHXotzvi43qU8dN+2lf7WMFD3XWMrqfsc3yviGLg==;TdVMrHkgMu7QsTFKrIFGyA=="
 ---
 

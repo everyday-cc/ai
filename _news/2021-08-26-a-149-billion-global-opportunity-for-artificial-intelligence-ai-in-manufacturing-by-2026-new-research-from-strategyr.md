@@ -26,6 +26,34 @@ images:
     isCached: true
 
 related:
+  - title: "New Study from StrategyR Highlights a $10.3 Billion Global Market for Artificial Intelligence (AI) in Education by 2026"
+    excerpt: "A new market study published b Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence"
+    publishedDateTime: 2021-08-26T12:15:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/new-study-from-strategyr-highlights-a-10-3-billion-global-market-for-artificial-intelligence-ai/article_d52461e0-94c2-51a1-bd20-265b4f3fb339.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 47
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/a0/0a049b04-cb81-5fa9-b6c0-751f1335ae5c/612786c6048ed.image.jpg?resize=710%2C630"
+        width: 710
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence (AI) in Telecommunication Market to Reach $6.5 Billion by 2026"
+    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Telecommunication - Global Market Trajectory & Analytics\"."
+    publishedDateTime: 2021-08-26T23:38:00Z
+    webUrl: "https://www.mobilitytechzone.com/lte/news/2021/08/26/9438304.htm"
+    type: article
+    provider:
+      name: Mobility Techzone
+      domain: mobilitytechzone.com
+    quality: 41
+    images:
+      - url: "https://mma.prnewswire.com/media/1601557/MCP21191.jpg"
+        width: 400
+        height: 327
+        isCached: true
   - title: "Global Speech Recognition Market to Reach $29.28 Billion by 2026, States the Report by Allied Market Research"
     excerpt: "Allied Market Research published a research report on the speech recognition market. The findings of the report states that the global market for speech recognition is expected to reach $29.28 billion by 2026, manifesting a CAGR of 19.9% from 2019 to 2026."
     publishedDateTime: 2021-08-27T03:36:00Z
@@ -42,33 +70,61 @@ related:
         width: 800
         height: 418
         isCached: true
-  - title: "Precision Medicine Market to Reach USD 125.67 Billion by 2026"
-    excerpt: "Increasing advancements in cancer biology and myriad benefits offered by precision medicines to drive the global precision medicine market. <br />"
-    publishedDateTime: 2021-08-27T10:33:00Z
-    webUrl: "https://menafn.com/1102685223/Precision-Medicine-Market-to-Reach-USD-12567-Billion-by-2026"
+  - title: "Valued to be $4.4 Billion by 2026, Artificial Intelligence (AI) in Call Center Slated for Robust Growth Worldwide"
+    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Call Center - Global Market Trajectory & Analytics\"."
+    publishedDateTime: 2021-08-26T12:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-valued-be-44-billion-2026-artificial-intelligence-ai-/2021/08/26/9437856.htm"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 24
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 33
     images:
-      - url: "https://menafn.com/updates/pr/2021-08/26/pr_12067_f10a3a26_image_story.jpeg"
+      - url: "https://mma.prnewswire.com/media/1601532/MCP21174.jpg"
         width: 400
-        height: 300
+        height: 252
         isCached: true
-  - title: "Global fintech market size to grow a CAGR of 8.5% to reach $191bn in 2028"
-    excerpt: "The global fintech market size was USD 100.09 billion in 2020 and is expected to register a revenue CAGR of 8.5% to reach USD 190.80 billion during 2021 - 2028, boosted by rising demand for digitization in organizations."
-    publishedDateTime: 2021-08-27T09:20:00Z
-    webUrl: "https://www.opalesque.com/687194/Global_fintech_market_size_to_grow_a_CAGR719.html"
+  - title: "Valued to be $13.5 Billion by 2026, Artificial Intelligence (AI) in Supply Chain Slated for Robust Growth Worldwide"
+    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Supply Chain - Global Market Trajectory & Analytics\"."
+    publishedDateTime: 2021-08-26T15:43:00Z
+    webUrl: "https://www.lelezard.com/en/news-19969994.html"
     type: article
     provider:
-      name: Opalesque
-      domain: opalesque.com
-    quality: 23
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 32
     images:
-      - url: "https://www.opalesque.com/images/GTE-Cap-Intro-Florida-(300x250).png"
-        width: 300
-        height: 250
+      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
+        width: 421
+        height: 421
+        isCached: true
+  - title: "New Study from StrategyR Highlights a $4.2 Billion Global Market for Artificial Intelligence (AI) in Social Media by 2026"
+    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Social Media - Global Market Trajectory & Analytics\"."
+    publishedDateTime: 2021-08-26T17:32:00Z
+    webUrl: "https://www.lelezard.com/en/news-19970367.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 29
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "With Market Size Valued at $2.6 Billion by 2026, it`s a Healthy Outlook for the Global Artificial Intelligence (AI) in Drug Discovery Market"
+    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence"
+    publishedDateTime: 2021-08-26T12:10:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/with-market-size-valued-at-2-6-billion-by-2026-it-s-a-healthy-outlook/article_5d6eaa18-3270-572f-8e6f-90817cffada7.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 17
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/54/c541e310-234d-5b11-ae36-550c5cb8f770/612785f094d46.image.jpg?resize=1013%2C630"
+        width: 1013
+        height: 630
         isCached: true
 
 secured: "sQJOFLWnVNt196EBiuBQBkySEkkjEMoBXezcri4TQk2LJldUMPg8tqo8Ao6A9212+Y8oQGsxDejOgG7+wcYRrfEBwaOfQPcXAxK6G1rSRrsX2kD18DW5gn7ItPL7Z9u1lyqp62z8xHaqjERgGQf5LCa+N6NDVjnNM/0jG8bYkpAw6kj68vG9CHSAnty9MCzsSyqvpECVymCPkvq/ZCwgM24X+kzjR5HcOd2PU4KiUJc3D5bbOngsXD2FMIPz6zWI5AKueIzIARauXQt3QEVT+3fNFkB+sTZ/mNT6veKUEFhhQ4z3lFnagrP5gOEcuhZg5vTb0//hG6+xUzTuE6AlkFB0MDDwy2ZNYfJhV7u4IvRPs/KjybjMSNalBrglzVECEeT8aDoQauIkDWltNpcLcxn2/Vq5q9kkYCtzy9N/KvoLJ7NCTelQhr1pAzU2Nld256t8dRz5AjgS7LdOXNP2YqMcE+EFP9HJrBoqEPro9KZkPGNyjP0PO5FLREH9jdgaixXWq56Hz4ZgZb0zPnt1uA==;ILkaDXrzIoe4THYHmCuIeg=="

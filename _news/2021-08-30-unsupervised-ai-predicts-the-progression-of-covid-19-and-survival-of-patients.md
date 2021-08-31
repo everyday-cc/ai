@@ -42,6 +42,20 @@ related:
         width: 1920
         height: 1497
         isCached: true
+  - title: "Using artificial intelligence and eco-friendly printing to kill COVID-19"
+    excerpt: "Imagine if our personal protective gear could not only block the virus that causes COVID-19, but also kill it. Imagine if hospitals had walls, floors, and even bedsheets that could disinfect themselves."
+    publishedDateTime: 2021-08-30T23:12:00Z
+    webUrl: "https://www.uottawa.ca/gazette/en/news/using-artificial-intelligence-and-eco-friendly-printing-kill-covid-19"
+    type: article
+    provider:
+      name: University of Ottawa
+      domain: uottawa.ca
+    quality: 36
+    images:
+      - url: "https://www.uottawa.ca/gazette/sites/www.uottawa.ca.gazette/files/ghassan-jabbour-1200x628.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Mayo Clinic, nference AI studies find antibody treatment may reduce hospitalization in high-risk COVID cases"
     excerpt: "After kicking off the new year by expanding their year-old data analytics-based research collaboration, Mayo Clinic and nference’s union continues to bear fruit."
     publishedDateTime: 2021-08-30T15:49:00Z

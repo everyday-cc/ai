@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/08/26/zendesk-acquires-ai-automation-sta
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/26/zendesk-acquires-ai-automation-startup-cleverly-to-advance-customer-service/amp/"
 type: article
 quality: 185
-heat: 205
+heat: 195
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "This Startup Is Transforming Customer Experience With AI"
-    excerpt: "The San Francisco-based company boasts that it helps businesses transcribe every interaction with high accuracy and coach agents while gaining full visibility into their customer service operations"
-    publishedDateTime: 2021-08-26T05:25:00Z
-    webUrl: "https://www.entrepreneur.com/article/381743"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/381743"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/381743"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 89
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1629955538-Untitleddesign7.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Zendesk acquires customer service automation startup Cleverly.ai"
     excerpt: "Zendesk has acquired Cleverly.ai, a service automation startup that develops AI-powered tools to solve common customer problems."
     publishedDateTime: 2021-08-26T16:46:00Z

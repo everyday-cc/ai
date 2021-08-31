@@ -46,22 +46,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "This Startup Is Transforming Customer Experience With AI"
-    excerpt: "The San Francisco-based company boasts that it helps businesses transcribe every interaction with high accuracy and coach agents while gaining full visibility into their customer service operations"
-    publishedDateTime: 2021-08-26T05:25:00Z
-    webUrl: "https://www.entrepreneur.com/article/381743"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/381743"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/381743"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 89
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1629955538-Untitleddesign7.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
-        isCached: true
 
 secured: "2WwsvfTUSdl/4nofeskfU4jQur0q4PxRBfszmJLDpGTgnU4SOHlW9epQvMpudemp2H/H/CXY5E/vousCJybee4/uRtGmxAtTEVL/scUBZaIxsDXW8nTIkomnlKVvOq5d+0UEJn8e1/V7NjdEknpeqoiZ1wIm2ttEjtXi/nYfvU7DyDmKALrRDOTVEzjygVsg7Is202ontwE0AzQWeuEz9QU5trcNn08tQM82QXqiJ8j8Irkv3ya4KowrLfQ22coX6TecP5p0ryyGjJCDe6q3u0K/oYAHscRxZp9HG1Mpl4JQ1PUh1e9F1DtX2aZ9lEgD4qRXRjF1uMn4ecQhsidfmTwbOyDwN8rReAWd9+Z29PNEiu46p2l7i6ntZzJMvtvTglmRuFqV4eUZb/kw2m2sE5//mDxgGnBBlxeZsOTXZd23Wr/r9vNG5WSoPzAp51svNcnvRE4JVix5Sc2TSeHE54CkYblFOe271weH3DI/dHS1XJasj4SrDmoK031BTCpj190LO58uPsGvf1z5BRzmAQ==;rA/RtsflIpoiNBvA3hEs3g=="
 ---

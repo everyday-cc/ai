@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence in Security Market Report 2021 On Future Trend, Global Key Findings, Regional Analysis of Leading Player Forecasts to 2027"
-    excerpt: "Aug (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The Global Artificial Intelligence"
-    publishedDateTime: 2021-08-26T05:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-report-2021-on-future-trend-global-key-findings-regional-analysis-of-leading-player-forecasts-to-2027-2021-08-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Mobile Speech Recognition Software Market 2021 Recent Scope, Growing Popularity and Emerging Trends in the Market"
     excerpt: "ReportsWeb analysts forecasts the latest report on “Global Mobile Speech Recognition Software Market (Covid-19) Impact and Analysis by 2026”, according to report; The Mobile Speech Recognition Software Market report covers the overall and all ..."
     publishedDateTime: 2021-08-29T09:54:00Z
@@ -48,20 +34,6 @@ related:
       - url: "https://manometcurrent.com/wp-content/uploads/2021/08/Global-Cosmetic-Packaging-Market-390x220.jpg"
         width: 390
         height: 220
-        isCached: true
-  - title: "Global AI-based Clinical Trials Solution Provider Market (2021 to 2028) - Size, Share & Trends Analysis Report - ResearchAndMarkets.com"
-    excerpt: "The global AI-based clinical trials solution provider market size is expected to reach USD 5.2 billion by 2028 and is expected to expand at a CAGR of 21.7% over the forecast period. Unlearn.AI, Inc. Antidote Technologies,"
-    publishedDateTime: 2021-08-26T13:30:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=521967"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 5
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
         isCached: true
   - title: "Self-driving Industrial Vehicle Market Global Growth, SWOT Industry Analysis, CAGR Status, Key Companies, Applications, Upcoming Trends 2030"
     excerpt: "Allied Market Research published a new report titled Self driving industrial Market Global Opportunity Analysis and Industry Forecast 2021 2027 The latest study on the Global Self driving industrial Market covers a wide range of organizations from different regions It"

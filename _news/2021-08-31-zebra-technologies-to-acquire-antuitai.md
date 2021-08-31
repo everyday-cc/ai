@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Zebra Technologies to Acquire Antuit.ai"
-excerpt: "Acquisition accelerates Zebra’s Enterprise Asset Intelligence vision by expanding its growing retail and consumer packaged goods (CPG) software portfolio."
-publishedDateTime: 2021-08-30T17:04:00Z
-originalUrl: "https://www.automation.com/en-us/articles/august-2021/zebra-technologies-acquire-antuit-ai"
-webUrl: "https://www.automation.com/en-us/articles/august-2021/zebra-technologies-acquire-antuit-ai"
+excerpt: "Zebra Technologies (NASDAQ: ZBRA), a Lincolnshire, IL-based provider of performance edge solutions, is to acquire antuit.ai, a Dallas, TX-based provider of artificial intelligence (AI)-powered Softwar"
+publishedDateTime: 2021-08-30T21:57:00Z
+originalUrl: "https://www.finsmes.com/2021/08/zebra-technologies-to-acquire-antuit-ai.html"
+webUrl: "https://www.finsmes.com/2021/08/zebra-technologies-to-acquire-antuit-ai.html"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Automation
-  domain: automation.com
+  name: finsmes.com
+  domain: finsmes.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.automation.com/getmedia/90cf8611-da0b-4073-842a-785e1b44f479/Zebra-news-August-30-2021-web.png?width=500&height=313&ext=.png"
-    width: 500
-    height: 313
+  - url: "https://www.finsmes.com/wp-content/uploads/2021/08/zebra-1.jpg"
+    width: 1280
+    height: 596
     isCached: true
 
 related:
@@ -67,6 +67,20 @@ related:
         width: 400
         height: 210
         isCached: true
+  - title: "Frisco-Based Antuit.ai to Be Acquired By Zebra Technologies"
+    excerpt: "Zebra plans to expand its growing retail and CPG portfolio with the addition of Antuit.ai, a Goldman Sachs company that uses AI and machine learning software to assist retail and CPG businesses in digitally transforming their businesses and achieving outsized results in supply chain,"
+    publishedDateTime: 2021-08-30T23:15:00Z
+    webUrl: "https://dallasinnovates.com/frisco-based-antuit-ai-to-be-acquired-by-zebra-technologies/"
+    type: article
+    provider:
+      name: dallasinnovates.com
+      domain: dallasinnovates.com
+    quality: 39
+    images:
+      - url: "https://s24806.pcdn.co/wp-content/uploads/2021/06/SivakumarLakshmanan_and_YogeshKulkarni-970.jpg"
+        width: 970
+        height: 508
+        isCached: true
   - title: "Zebra Technologies acquires AI forecasting provider Antuit.ai"
     excerpt: "Antuit.ai will expand the company’s SaaS product ... market through the recently announced $290 million acquisition of startup Fetch Robotics Inc, which makes robots for fulfillment centers."
     publishedDateTime: 2021-08-30T19:28:00Z
@@ -110,6 +124,6 @@ related:
         height: 333
         isCached: true
 
-secured: "C19O2l7JyQaWAd7kBEcIJeBRw8KNQF0GKqk19nUCNG7u6BaV4u5YdBl5KCF9sqSve3DlO3RWGHVPXVWIjsQD98JYy406xGEvIPejk5LVzI4mFAUqCDeXVcyh9RLS4Voz2b03qlqVqPBbMbx4O5nX6/iBO6cI3a4QOAw2nnKjp4mOn9R+7YRc05zah+z0R1wUyDZy5OFkJz3R4BqnKJ/FKeCAc2A7fYEiTJZzDgCS/yx6TvQSwdA8kxqLjixOvPAt+UmTbFv7mDGd/0yWnaIZe/3aKIBhn2mSw3rUKJV6xcbN7djHFbII8LvZPL47mWcQkE5G5+j1VrTyoIDyZ5wkfZTGygjT9rlr7h2iHywPd2b+xwwVtTtZRbWO9oVvCD+8lNR9bzCIFJ3UwL5scK7FKAT9m9pOe2DEXnKATxOZkeWynx+CDrTz6vNtKJLK5QsAtXuZJabxeQ13g6BI86cztaYDkA5HBj6IyP6vVfLrRDKJSnjfVSVk56WZPUgjNHNrHqK7t8sgMD2nbE/QDHiNyA==;yV2cR3xsXPNm5Dwq1VJstw=="
+secured: "Ssy8xL/k6O5KKHtcx423BDIo90vc/M65xbxbMG5iAsOGRVDRrYVrB9WUPfF77yA0DWuYWoU2dBsbteQZISU0OV+me9j1LLRBU8+0orHwSk1ekSIVyfKWb6IdPu3O9cfm3dBSGvx6P6vab/+LZGTsjhKafx6HRr0JMoUU3iYcCZPHnVYjxs6xHj4iBtis+nsHfeSTSva4Of69zs3fnXdMq0J0/sm9T16VOoBIfUco4t+wixNaZb9TRDp8reLXOe35X6JmV82wBj4LUVK3btH6YVBOLiW5p1Lef+jgw7KgJ1GyDpV7YFQUyY4oyFHmUmQYE/5TQnrK6JzJoR35B8kW/ab3bYB0JF6LvRmltS9iUDc=;W7Nyh9puAA+0M7Ur23bBCg=="
 ---
 

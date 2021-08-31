@@ -71,20 +71,6 @@ related:
         width: 623
         height: 432
         isCached: true
-  - title: "Why Are Indian Institutes Racing To Launch B Tech in AI Courses"
-    excerpt: "Gone are the days when students fancied a computer science seat in a top tier college. Now there is a demand for specialisation. Thanks to the hype around artificial intelligence (AI), many Indian institutions are now racing to offer their own B."
-    publishedDateTime: 2021-08-26T06:30:00Z
-    webUrl: "https://analyticsindiamag.com/why-are-indian-institutes-racing-to-launch-b-tech-in-ai-courses/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/B-Tech-in-Artificial-Intelligence-AI.jpg"
-        width: 2240
-        height: 1260
-        isCached: true
   - title: "Western Railways Commissions Russian Face Recognition Technology; Can Identify 50 People In A Single Frame"
     excerpt: "The Western Railway, one of the busiest railway networks in India, has commissioned 470 cameras featuring real-time face recognition technology developed by Russian company NtechLab. According to the company,"
     publishedDateTime: 2021-08-26T07:53:00Z

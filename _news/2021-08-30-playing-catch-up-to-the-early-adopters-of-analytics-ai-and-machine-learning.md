@@ -9,7 +9,7 @@ ampWebUrl: "https://www.iol.co.za/amp/technology/techsperts/playing-catch-up-to-
 cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/techsperts/playing-catch-up-to-the-early-adopters-of-analytics-ai-and-machine-learning-1863199a-1af1-4958-a27d-31dcb475e9ff"
 type: article
 quality: 71
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -80,6 +80,20 @@ related:
       name: Engineering News
       domain: engineeringnews.co.za
     quality: 24
+  - title: "MiaRec Announces Release of Integrated Voice Analytics"
+    excerpt: "MiaRec, provider of award-winning voice AI solutions, announced a major analytics update to its call recording and quality assurance solution. MiaRec CEO Gennadiy Bezko said, “MiaRec is thrilled to take our analytics update live."
+    publishedDateTime: 2021-08-30T19:02:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-332c91f4ba32ad3619be5425d0b096c8"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Coronavirus Roundup: Questions on Vaccine and Testing Programs for Feds; COVID Oversight Committee Boosts Use of Analytics and AI"
     excerpt: "Professional organizations that represent federal managers are worried that there are still some unresolved issues with the vaccination attestation and testing process for federal employees, Federal News Network reported on Wednesday."
     publishedDateTime: 2021-08-27T15:30:00Z

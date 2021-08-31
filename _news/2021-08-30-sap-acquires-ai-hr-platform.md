@@ -67,6 +67,20 @@ related:
         width: 400
         height: 210
         isCached: true
+  - title: "Frisco-Based Antuit.ai to Be Acquired By Zebra Technologies"
+    excerpt: "Zebra plans to expand its growing retail and CPG portfolio with the addition of Antuit.ai, a Goldman Sachs company that uses AI and machine learning software to assist retail and CPG businesses in digitally transforming their businesses and achieving outsized results in supply chain,"
+    publishedDateTime: 2021-08-30T23:15:00Z
+    webUrl: "https://dallasinnovates.com/frisco-based-antuit-ai-to-be-acquired-by-zebra-technologies/"
+    type: article
+    provider:
+      name: dallasinnovates.com
+      domain: dallasinnovates.com
+    quality: 39
+    images:
+      - url: "https://s24806.pcdn.co/wp-content/uploads/2021/06/SivakumarLakshmanan_and_YogeshKulkarni-970.jpg"
+        width: 970
+        height: 508
+        isCached: true
   - title: "Zebra Technologies acquires AI forecasting provider Antuit.ai"
     excerpt: "Antuit.ai will expand the company’s SaaS product ... market through the recently announced $290 million acquisition of startup Fetch Robotics Inc, which makes robots for fulfillment centers."
     publishedDateTime: 2021-08-30T19:28:00Z
@@ -96,18 +110,18 @@ related:
         height: 333
         isCached: true
   - title: "Zebra Technologies to Acquire Antuit.ai"
-    excerpt: "Acquisition accelerates Zebra’s Enterprise Asset Intelligence vision by expanding its growing retail and consumer packaged goods (CPG) software portfolio."
-    publishedDateTime: 2021-08-30T17:04:00Z
-    webUrl: "https://www.automation.com/en-us/articles/august-2021/zebra-technologies-acquire-antuit-ai"
+    excerpt: "Zebra Technologies (NASDAQ: ZBRA), a Lincolnshire, IL-based provider of performance edge solutions, is to acquire antuit.ai, a Dallas, TX-based provider of artificial intelligence (AI)-powered Softwar"
+    publishedDateTime: 2021-08-30T21:57:00Z
+    webUrl: "https://www.finsmes.com/2021/08/zebra-technologies-to-acquire-antuit-ai.html"
     type: article
     provider:
-      name: Automation
-      domain: automation.com
+      name: finsmes.com
+      domain: finsmes.com
     quality: 37
     images:
-      - url: "https://www.automation.com/getmedia/90cf8611-da0b-4073-842a-785e1b44f479/Zebra-news-August-30-2021-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
+      - url: "https://www.finsmes.com/wp-content/uploads/2021/08/zebra-1.jpg"
+        width: 1280
+        height: 596
         isCached: true
 
 secured: "BTB439/bRHlFGz9ZP5sx5Pwo1nvk83MsgOLzVhgHUM2IvvjjIZ3HQcBbiaf2/d77FUbAtGoBno/IRtuLtdw8k5QLf1sgg13ZikY3Ou4yBg4H+hMlN+htJBlmtTZ2/mu3DooBwnF0dj6DwwuiBU+QR8BVkGvO39jeZ0hrlC5QYc7Wje7M0P55iHWqADU/n6Sgx9GiPUt0lUpfwrNJvL8BWxOM4wxvuqjKd46xC1smVLeXECfhvqJPvRxH73TxU4a1EcGBXElQDEKwT7/WeaNlyi1x/PCdYSxqshGD/kcR3qYm5RE7Rg666peGpB0SK05Ry+F9UXV2ZCIA17UQShOxxwrYWhsvGRy2RBovP4rq3sg0ET0mH/1YhZn+0ZoI+x2narfI013eZ4VoWhmRhWwv7oMI705KwZY5V+SnqNCpEP0DHpkXEcoZqCJTgyHmpFpfHkzSsFttWQZrc1CjM54oz6A+iktetqb8CwRK99KDldt/YvWUK6eObzL+k60mWDUKseZBMAUbM2eaTZ6wBNCZYw==;kOIVXkfJzmat5Si6DZ+D9g=="

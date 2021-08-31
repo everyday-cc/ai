@@ -25,22 +25,6 @@ images:
     height: 549
     isCached: true
 
-related:
-  - title: "Fighting fake news with AI"
-    excerpt: "PETALING JAYA: To combat the proliferation of fake news, companies across the globe are resorting to artificial intelligence (AI) programs which are able to analyse and flag disinformation. Firms like AlphaVu and Logically use these virtual sleuths to mine ..."
-    publishedDateTime: 2021-08-29T23:42:00Z
-    webUrl: "https://www.thestar.com.my/news/nation/2021/08/30/fighting-fake-news-with-ai"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 37
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/08/30/1273994.jpg"
-        width: 1240
-        height: 892
-        isCached: true
-
 secured: "sSahMKcHMbdHCF0WY+Qi6LQFOIOm5GLKFONG65M4iDn0GxlSocyzHwviXvlpdsd+OsdvEI7GlJ3GOiQ+9uWPjL4JrTUzPHw0RKm8MuUnkLE3QrnmcNadHyl9tJw48HjHDSyCvOhzXwkUU6lfDKUlyXEgiRoPRKtnqt7lCaF8fNjUUwRhR/0cf4GSt6uxvsIVbFzVA4+Hh25mBFl5HDOJaW7+97Y/0lMmB+77nb7SBkmoXdE7lndqKIS/xmXQknqeyCe6gGRsJ7jk8I1N9CSqJDPh5GXPELjA+ats+uWX3f3FbyhOZ/CafnM6sBhosN/uQIhrcLqgrA4KdCd9sk/UZXuOEyMEH1YPzUfp1RtSOWtd4vdjKol28oVzsACE1nrNkbwIlO3GVBmgXOlSgid6JjHW7qyw924KtYP37dwCzOqNgUpHowvotcb6F4IIOF5bKovIx3CY6OxMxLW/uYr+w5L4hbwjops3J/Q+Iq7HPA2obFyreAnpN5CSHTavjh1Q1V9CR9TUXwNtRUWcQ8To7g==;BX5b6AThab3VgRowfL/leQ=="
 ---
 

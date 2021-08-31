@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Tesla Crashes Into Police Cruiser. Self-Driving Cars Have To Learn How To Drive."
+    excerpt: "The stock brushed off the crash, which happened over the weekend in Florida. Still, the wreck shows that true self driving is hard to achieve."
+    publishedDateTime: 2021-08-30T22:00:00Z
+    webUrl: "https://www.barrons.com/articles/tesla-crashes-into-police-cruiser-self-driving-cars-have-to-learn-how-to-drive-51630360830"
+    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-crashes-into-police-cruiser-self-driving-cars-have-to-learn-how-to-drive-51630360830"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-crashes-into-police-cruiser-self-driving-cars-have-to-learn-how-to-drive-51630360830"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 54
+    images:
+      - url: "https://images.barrons.com/im-386041/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Tesla's Full Self-Driving Tech 'Not Great'"
     excerpt: "And based on comments made last year, Musk gave the impression that full self-driving was coming up fast. That’s why it was even more surprising when Musk Tweeted on Monday that Tesla’s latest full self-driving beta version 9."
     publishedDateTime: 2021-08-27T14:42:00Z

@@ -41,34 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "North America Artificial Intelligence In Healthcare Market Segmentation, Growth, Assessing Major Growth Opportunities by 2027"
-    excerpt: "Selbyville, Delaware Market Study Report Has Added Research Each place is then elaborated to help the reader comprehend the growth potential of each region and its contribution to the North America Artificial Intelligence (Ai) In Healthcare market size."
-    publishedDateTime: 2021-08-26T13:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/north-america-artificial-intelligence-in-healthcare-market-segmentation-growth-assessing-major-growth-opportunities-by-2027-2021-08-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence In Healthcare Market Industry Size Share, Business Strategies, Growth Analysis, Regional Demand By 2027"
-    excerpt: "Selbyville, Delaware Market Study Report Has Added Research Each place is then elaborated to help the reader comprehend the growth potential of each region and its contribution to the Artificial Intelligence (Ai) In Healthcare market size."
-    publishedDateTime: 2021-08-26T13:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-industry-size-share-business-strategies-growth-analysis-regional-demand-by-2027-2021-08-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) in Construction Market Size, Strategies, Competitive Landscape, Trends & Factor Analysis, 2020–2026"
     excerpt: "Artificial intelligence can help reduce construction costs in many ways. For example, the use of virtual reality goggles and mini-robots into buildings under construction to track the work as it progresses. AI is also being used today to design the routing ..."
     publishedDateTime: 2021-08-26T17:44:00Z
@@ -84,6 +56,20 @@ related:
       - url: "https://cdn.openpr.com/U/8/U826358438_g.jpg"
         width: 750
         height: 350
+        isCached: true
+  - title: "With Market Size Valued at $40 Billion by 2026, it`s a Healthy Outlook for the Global Artificial Intelligence (AI) in Healthcare Market"
+    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Healthcare - Global Market Trajectory & Analytics\"."
+    publishedDateTime: 2021-08-26T13:44:00Z
+    webUrl: "https://www.lelezard.com/en/news-19969639.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 39
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+        width: 640
+        height: 480
         isCached: true
   - title: "Artificial Intelligence in Transportation Market with Report In Depth Industry Analysis on Trends, Growth, Opportunities and Forecast till 2025"
     excerpt: "Selbyville, Delaware Market Study Report Has Added Research helps to set achievable targets, which consequently"
