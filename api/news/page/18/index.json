@@ -2,6 +2,275 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-08-17-besieging-gpu-who-will-be-the-next-overlord-of-ai-computing-after-nvidia.md",
+      "title": "Besieging GPU: Who Will Be the Next Overlord of AI Computing After NVIDIA?",
+      "excerpt": "Briefing: This article will introduce several AI chip companies with unique technologies. They either have advanced computing concepts, or have the top architects. These AI chips with new architectures are destroying half of the GPU's world like the magical Thanos Gloves.",
+      "sourceUrl": null,
+      "webUrl": "https://www.brantfordexpositor.ca/newsfile/92799-besieging-gpu-who-will-be-the-next-overlord-of-ai-computing-after-nvidia",
+      "originalUrl": "https://www.brantfordexpositor.ca/newsfile/92799-besieging-gpu-who-will-be-the-next-overlord-of-ai-computing-after-nvidia",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://orders.newsfilecorp.com/files/8203/92799_9d7ca129d49838cd_001.jpg",
+          "width": 550,
+          "height": 309,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-16T12:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Brantford Expositor",
+        "domain": "brantfordexpositor.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-researchers-fooled-ai-into-ignoring-stop-signs-using-a-cheap-projector.md",
+      "title": "Researchers fooled AI into ignoring stop signs using a cheap projector",
+      "excerpt": "A team of researchers demonstrated a novel attack on AI vision systems using nothing but a laptop and a projector. What does this mean for driverless cars?",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/researchers-tricked-ai-ignoring-stop-signs-using-cheap-projector",
+      "originalUrl": "https://thenextweb.com/news/researchers-tricked-ai-ignoring-stop-signs-using-cheap-projector",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2Fstopattack.jpg&signature=3ff95e62e62b4f1c42d18ca4e0b2b0d3",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-16T11:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-sales-fintech-seismic-pushes-valuation-to-3-billion.md",
+      "title": "Sales fintech Seismic pushes valuation to $3 billion",
+      "excerpt": "Seismic, a fintech designed to personalize sales interactions, doubled its valuation in a year after fresh funding and a new acquisition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.investmentnews.com/sales-fintech-seismic-pushes-valuation-to-3-billion-210373",
+      "originalUrl": "https://www.investmentnews.com/sales-fintech-seismic-pushes-valuation-to-3-billion-210373",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s32566.pcdn.co/wp-content/uploads/2021/07/applovin-Tech-social-digital-mobile-.jpeg.optimal.jpeg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.investmentnews.com/sales-fintech-seismic-pushes-valuation-to-3-billion-210373/amp",
+      "cdnAmpWebUrl": "https://www-investmentnews-com.cdn.ampproject.org/c/s/www.investmentnews.com/sales-fintech-seismic-pushes-valuation-to-3-billion-210373/amp",
+      "publishedDateTime": "2021-08-16T11:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestmentNews",
+        "domain": "investmentnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-upstart-holdings-vs-360-finance-which-fintech-stock-is-a-better-choice.md",
+      "title": "Upstart Holdings vs. 360 Finance: Which FinTech Stock is a Better Choice?",
+      "excerpt": "Fintech companies have been in the limelight owing to a significant increase in remote financial transactions amid the COVID-19 pandemic. The trend is expected to continue in the foreseeable future thanks to rapid digitalization.",
+      "sourceUrl": null,
+      "webUrl": "https://stocknews.com/news/qfin-upst-upstart-holdings-vs-360-finance-which-fintech-stock-is-a/",
+      "originalUrl": "https://stocknews.com/news/qfin-upst-upstart-holdings-vs-360-finance-which-fintech-stock-is-a/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://stocknews.com/single-snippet-page/amp/",
+      "cdnAmpWebUrl": "https://stocknews-com.cdn.ampproject.org/c/s/stocknews.com/single-snippet-page/amp/",
+      "publishedDateTime": "2021-08-16T11:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stock News",
+        "domain": "stocknews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-the-collective-benefits-of-artificial-intelligence-and-machine-learning.md",
+      "title": "The Collective Benefits Of Artificial Intelligence And Machine Learning",
+      "excerpt": "T he COVID-19 pandemic has pulled together a variety of factors that have brought the opportunities of artificial intelligence (AI) and machine learning (ML) into sharp focus acro",
+      "sourceUrl": null,
+      "webUrl": "https://www.hellenicshippingnews.com/the-collective-benefits-of-artificial-intelligence-and-machine-learning/",
+      "originalUrl": "https://www.hellenicshippingnews.com/the-collective-benefits-of-artificial-intelligence-and-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hellenicshippingnews.com/wp-content/uploads/2021/06/plane_view_290_242.jpg",
+          "width": 290,
+          "height": 242,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hellenicshippingnews.com/the-collective-benefits-of-artificial-intelligence-and-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-hellenicshippingnews-com.cdn.ampproject.org/c/s/www.hellenicshippingnews.com/the-collective-benefits-of-artificial-intelligence-and-machine-learning/amp/",
+      "publishedDateTime": "2021-08-16T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hellenic Shipping News Worldwide",
+        "domain": "hellenicshippingnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-08-16-machine-learning-at-the-edge-with-aws-outposts-and-amazon-sagemaker.md",
+      "title": "Machine Learning at the Edge with AWS Outposts and Amazon SageMaker",
+      "excerpt": "As customers continue to come up with new use-cases for machine learning, data gravity is as important as ever. Where latency and network connectivity is not an issue, generating data in one location (such as a manufacturing facility) and sending it to the cloud for inference is acceptable for some use-cases.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/machine-learning-at-the-edge-with-aws-outposts-and-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/machine-learning-at-the-edge-with-aws-outposts-and-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 201,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/10/ML-2440-img1-1260x592.png",
+          "width": 1260,
+          "height": 592,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-16T10:40:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-08-17-how-ibm-is-using-digital-twins-to-optimize-ai.md",
       "title": "How IBM is using digital twins to optimize AI",
       "excerpt": "Lisa Seacat DeLuca, head of IBM’s digital twin research, talked about how orgs can share expertise by combining digital twins, AI, and IoT.",
@@ -838,275 +1107,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-16-leveraging-on-fintech-to-solve-the-creditworthiness-issues-among-msmes-in-india.md",
-      "title": "Leveraging On Fintech To Solve the 'Creditworthiness' Issues Among MSMEs In India",
-      "excerpt": "The traditional lending cycle is time-consuming, involves excessive documentation including but not limited to registration proof, income proof, bank statement, business plan, MSME certificate, etc.,",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/380301",
-      "originalUrl": "https://www.entrepreneur.com/article/380301",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1629109807-austin-distel-EMPZ7yRZoGw-unsplash.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/380301",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/380301",
-      "publishedDateTime": "2021-08-16T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-16-mobilicom-launches-world-first-ai-based-360-cybersecurity-suite-for-drones-robotics.md",
-      "title": "Mobilicom launches world-first AI-based 360° Cybersecurity Suite for drones, robotics",
-      "excerpt": "First-ever AI-based 360° drone cybersecurity system that can detect, prevent, and respond to multiple cyber threats in real-time without requiring an operator• Designed specifically for industrial and commercial drones,",
-      "sourceUrl": null,
-      "webUrl": "https://www.suasnews.com/2021/08/mobilicom-launches-world-first-ai-based-360-cybersecurity-suite-for-drones-robotics/",
-      "originalUrl": "https://www.suasnews.com/2021/08/mobilicom-launches-world-first-ai-based-360-cybersecurity-suite-for-drones-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.suasnews.com/wp-content/uploads/2018/11/skyhopper-gcs.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-16T00:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SUAS News",
-        "domain": "suasnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-16-single-mri-scan-can-classify-brain-tumours-using-deep-learning-model.md",
-      "title": "Single MRI scan can classify brain tumours using deep learning model",
-      "excerpt": "According to a recent study, a new deep learning model can help classify a brain tumour as one of six common types, using a single 3D MRI scan.",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesnownews.com/health/article/single-mri-scan-can-classify-brain-tumours-using-deep-learning-model/799586",
-      "originalUrl": "https://www.timesnownews.com/health/article/single-mri-scan-can-classify-brain-tumours-using-deep-learning-model/799586",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imgk.timesnownews.com/story/MRI-56baa4073df78c0b136bb6bc.jpg?tr=w-400,h-300,fo-auto",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesnownews.com/amp/health/article/single-mri-scan-can-classify-brain-tumours-using-deep-learning-model/799586",
-      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/health/article/single-mri-scan-can-classify-brain-tumours-using-deep-learning-model/799586",
-      "publishedDateTime": "2021-08-15T22:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "timesnownews.com",
-        "domain": "timesnownews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-16-artificial-intelligence-in-retail-market-sizesharerecent-study-by-2027microsoft-nvidia-amazon-web-services.md",
-      "title": "Artificial Intelligence in Retail Market Size,Share,Recent Study by 2027|Microsoft, Nvidia, Amazon Web Services",
-      "excerpt": "“Los Angeles, United States, Aug 2021,- QY Research has recently published a new report, titled Global Artificial Intelligence in Retail Market Report, History and Forecast 2016-2027, Breakdown Data by Companies, Key Regions, Types and Application The ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2355656/artificial-intelligence-in-retail-market-size-share-recent",
-      "originalUrl": "https://www.openpr.com/news/2355656/artificial-intelligence-in-retail-market-size-share-recent",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/8/U816958276_g.jpg",
-          "width": 800,
-          "height": 407,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2355656/artificial-intelligence-in-retail-market-size-share-recent",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2355656/artificial-intelligence-in-retail-market-size-share-recent",
-      "publishedDateTime": "2021-08-15T21:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-16-googles-deepmind-and-the-nhs-a-glimpse-of-what-ai-means-for-the-future-of-healthcare.md",
-      "title": "Google's DeepMind and the NHS: A glimpse of what AI means for the future of healthcare",
-      "excerpt": "Take the agreements between Google subsidiary DeepMind and the likes of Moorfields Eye Hospital and University College London Hospitals (UCLH) Trust: both pave the way for a future where the routine work of reading scans is done by an algorithm rather than ...",
-      "sourceUrl": null,
-      "webUrl": "https://thearabianpost.com/googles-deepmind-and-the-nhs-a-glimpse-of-what-ai-means-for-the-future-of-healthcare/",
-      "originalUrl": "https://thearabianpost.com/googles-deepmind-and-the-nhs-a-glimpse-of-what-ai-means-for-the-future-of-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thearabianpost.com/wp-content/uploads/2020/07/Advertise-on-arabian-post-1.gif",
-          "width": 375,
-          "height": 312,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "thearabianpost.com",
-        "domain": "thearabianpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-08-16-ready-to-build-your-own-house-terrascope-uses-ai-to-sort-through-rural-property-for-sale.md",
-      "title": "Ready to build your own house? Terrascope uses AI to sort through rural property for sale",
-      "excerpt": "Terrascope co-founder Kehan Zhou talks about shopping for rural land with the help of machine learning technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailynews.com/2021/08/15/ready-to-build-your-own-house-terrascope-an-ai-real-estate-agent-lists-land/",
-      "originalUrl": "https://www.dailynews.com/2021/08/15/ready-to-build-your-own-house-terrascope-an-ai-real-estate-agent-lists-land/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dailynews.com/wp-content/uploads/2021/08/OCR-L-TERRASCOPE-0808-01.jpg?w=1024&#038;h=682",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailynews.com/2021/08/15/ready-to-build-your-own-house-terrascope-an-ai-real-estate-agent-lists-land/amp/",
-      "cdnAmpWebUrl": "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/08/15/ready-to-build-your-own-house-terrascope-an-ai-real-estate-agent-lists-land/amp/",
-      "publishedDateTime": "2021-08-15T16:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Daily News",
-        "domain": "dailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

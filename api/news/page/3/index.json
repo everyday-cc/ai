@@ -2,6 +2,171 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-27-schnuck-markets-expanding-use-of-tally-robots-chainwide.md",
+      "title": "Schnuck Markets expanding use of Tally robots chainwide",
+      "excerpt": "Schnuck Markets Inc. is expanding its use of Tally inventory-taking robots to all of its stores chainwide. Schnuck Markets said Thursday that a multiyear, full-scale rollout now will bring Tally robots to all 111 Schnucks stores.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ksdk.com/article/news/local/business-journal/schnuck-markets-expanding-use-tally-robots-chainwide/63-19ffa56e-e84d-48dc-ac17-0652ea68460c",
+      "originalUrl": "https://www.ksdk.com/article/news/local/business-journal/schnuck-markets-expanding-use-tally-robots-chainwide/63-19ffa56e-e84d-48dc-ac17-0652ea68460c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.ksdk.com/assets/KSDK/images/6064e977-d6b9-4a67-9b45-b73059276597/6064e977-d6b9-4a67-9b45-b73059276597_1140x641.png",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ksdk.com/amp/article/news/local/business-journal/schnuck-markets-expanding-use-tally-robots-chainwide/63-19ffa56e-e84d-48dc-ac17-0652ea68460c",
+      "cdnAmpWebUrl": "https://www-ksdk-com.cdn.ampproject.org/c/s/www.ksdk.com/amp/article/news/local/business-journal/schnuck-markets-expanding-use-tally-robots-chainwide/63-19ffa56e-e84d-48dc-ac17-0652ea68460c",
+      "publishedDateTime": "2021-08-27T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KSDK",
+        "domain": "ksdk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-good-to-know-headlines-self-driving-taxis-and-flamin-hot-cheetos-flavored-mountain-dew.md",
+      "title": "‘Good to Know’ headlines: Self-driving taxis and Flamin’ Hot Cheetos flavored Mountain Dew",
+      "excerpt": "NBC News' Vicky Nguyen reports on a new app that is set to offer self-driving taxis, logging into virtual meetings using A.I., and Mountain Dew’s new Flamin’ Hot Cheetos inspired drink.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/now/video/good-to-know-headlines-self-driving-taxis-and-flamin-hot-cheetos-flavored-mountain-dew-119588421962",
+      "originalUrl": "https://www.nbcnews.com/now/video/good-to-know-headlines-self-driving-taxis-and-flamin-hot-cheetos-flavored-mountain-dew-119588421962",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_08/1630065015132_ott_now_am_goodtoknow_210827_1920x1080-bs619r.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo119588421962",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo119588421962",
+      "publishedDateTime": "2021-08-27T04:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-why-did-teslas-share-price-dip-following-its-ai-day-reveal.md",
+      "title": "Why did Tesla’s share price dip following its AI Day reveal?",
+      "excerpt": "How will the latest technologies unveiled at Tesla’s AI Day impact the Tesla share price and the autonomous vehicles market? Read our analysis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmcmarkets.com/en-gb/news-and-analysis/why-did-teslas-share-price-dip-following-its-ai-day-reveal",
+      "originalUrl": "https://www.cmcmarkets.com/en-gb/news-and-analysis/why-did-teslas-share-price-dip-following-its-ai-day-reveal",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.cmcmarkets.com/images/Tesla_bots_2508_medium.jpg",
+          "width": 768,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmcmarkets.com/en-gb/news-and-analysis/why-did-teslas-share-price-dip-following-its-ai-day-reveal_amp",
+      "cdnAmpWebUrl": "https://www-cmcmarkets-com.cdn.ampproject.org/c/s/www.cmcmarkets.com/en-gb/news-and-analysis/why-did-teslas-share-price-dip-following-its-ai-day-reveal_amp",
+      "publishedDateTime": "2021-08-27T00:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMC Markets",
+        "domain": "cmcmarkets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-amazon-web-services-in-deal-to-transform-sun-life-financials-digital-services.md",
+      "title": "Amazon Web Services In Deal To Transform Sun Life Financial's Digital Services",
+      "excerpt": "Amazon Web Services, Inc. or AWS, an Amazon.com, Inc. company (AMZN), announced Friday a deal with Sun Life Financial Inc. (SLF, SLF.TO) to become its long-term strategic cloud technology provider. Sun Life will use AWS's cloud technologies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/amazon-web-services-in-deal-to-transform-sun-life-financials-digital-services-2021-08-27",
+      "originalUrl": "https://www.nasdaq.com/articles/amazon-web-services-in-deal-to-transform-sun-life-financials-digital-services-2021-08-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/amazon-web-services-in-deal-to-transform-sun-life-financials-digital-services-2021-08-27?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-web-services-in-deal-to-transform-sun-life-financials-digital-services-2021-08-27?amp",
+      "publishedDateTime": "2021-08-27T00:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-27-heres-why-nvidia-will-surpass-apples-valuation-in-5-years.md",
       "title": "Here’s Why Nvidia Will Surpass Apple’s Valuation In 5 Years",
       "excerpt": "Nvidia can surpass Apple by capitalizing on the artificial intelligence economy, which will add an estimated $15 trillion to GDP. This is compared to the mobile economy that brought us gains in Apple,",
@@ -210,7 +375,7 @@
       "originalUrl": "https://www.biometricupdate.com/202108/us-federal-agencies-plan-to-increase-facial-recognition-use-gao-report-says",
       "featuredContent": null,
       "highlight": null,
-      "heat": 278,
+      "heat": 268,
       "tags": null,
       "images": [
         {
@@ -1000,196 +1165,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-get-entire-details-about-artificial-intelligence-system-market-by-2025.md",
-      "title": "Get Entire Details about Artificial Intelligence System Market By 2025",
-      "excerpt": "United States OR Poland Artificial Intelligence System Market According to a new report added by Reports Big Market Report titled Artificial Intelligence System Market Global Opportunity Analysis and Industry Forecast 2021 2026 The Artificial Intelligence System Market research by Market",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2369435/get-entire-details-about-artificial-intelligence-system-market",
-      "originalUrl": "https://www.openpr.com/news/2369435/get-entire-details-about-artificial-intelligence-system-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/8/U826384867_g.jpg",
-          "width": 628,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2369435/get-entire-details-about-artificial-intelligence-system-market",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2369435/get-entire-details-about-artificial-intelligence-system-market",
-      "publishedDateTime": "2021-08-26T05:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-robots-are-already-taking-over-the-world-you-just-havent-noticed-it-yet.md",
-      "title": "Robots Are Already Taking Over The World — You Just Haven’t Noticed It Yet",
-      "excerpt": "Once you start thinking about the rapidly growing capabilities of robots, it’s obvious that robotics is going to change everything.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/26/robots-are-already-taking-over-the-world---you-just-havent-noticed-it-yet/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/26/robots-are-already-taking-over-the-world---you-just-havent-noticed-it-yet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff5d2f5cbcd0c27adbb3f9e%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/26/robots-are-already-taking-over-the-world---you-just-havent-noticed-it-yet/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/26/robots-are-already-taking-over-the-world---you-just-havent-noticed-it-yet/amp/",
-      "publishedDateTime": "2021-08-26T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-better-together-striking-the-balance-between-artificial-and-human-intelligence.md",
-      "title": "Better Together: Striking The Balance Between Artificial And Human Intelligence",
-      "excerpt": "The past decade saw artificial intelligence (AI) advance by leaps and bounds. From the birth of Alexa to its application in vaccine development, AI has radically altered our personal and professional lives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/08/26/better-together-striking-the-balance-between-artificial-and-human-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/08/26/better-together-striking-the-balance-between-artificial-and-human-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6049320a6efcb28d45029f3c%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/08/26/better-together-striking-the-balance-between-artificial-and-human-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/08/26/better-together-striking-the-balance-between-artificial-and-human-intelligence/amp/",
-      "publishedDateTime": "2021-08-26T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-ai-is-the-next-cloud-what-next-for-artificial-intelligence-in-media.md",
-      "title": "AI is the next cloud: what next for artificial intelligence in media?",
-      "excerpt": "Artificial intelligence is the next ‘cloud ... In the case of content, this could lead to active therapy, for instance to combat mental health issues by curating content appropriate to benefit the state of mind of the individual.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tvbeurope.com/media-management/ai-is-the-next-cloud-what-next-for-artificial-intelligence-in-media",
-      "originalUrl": "https://www.tvbeurope.com/media-management/ai-is-the-next-cloud-what-next-for-artificial-intelligence-in-media",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tvbeurope.com/wp-content/uploads/2020/09/Brain-pixels.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tvbeurope.com/media-management/ai-is-the-next-cloud-what-next-for-artificial-intelligence-in-media?amp",
-      "cdnAmpWebUrl": "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-management/ai-is-the-next-cloud-what-next-for-artificial-intelligence-in-media?amp",
-      "publishedDateTime": "2021-08-26T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tvbeurope.com",
-        "domain": "tvbeurope.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

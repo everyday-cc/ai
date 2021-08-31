@@ -2,6 +2,248 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-08-18-edgeq-samples-soc-for-5g-and-ai-inference-engines.md",
+      "title": "EdgeQ samples SoC for 5G and AI inference engines",
+      "excerpt": "EdgeQ is sampling a system-on-chip for 5G networks that reduces costs by running AI inference engines at the edge.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/18/edgeq-samples-soc-for-5g-and-ai-inference-engines/",
+      "originalUrl": "https://venturebeat.com/2021/08/18/edgeq-samples-soc-for-5g-and-ai-inference-engines/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/EdgeQ.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/18/edgeq-samples-soc-for-5g-and-ai-inference-engines/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/18/edgeq-samples-soc-for-5g-and-ai-inference-engines/amp/",
+      "publishedDateTime": "2021-08-18T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-18-democrats-ask-ftc-to-investigate-teslas-self-driving-claims.md",
+      "title": "Democrats ask FTC to investigate Tesla's self-driving claims",
+      "excerpt": "Two Democratic senators asked the Federal Trade Commission to investigate Tesla over the company’s advertising of its Autopilot and Full Self-Driving technology. The letter comes one day after the National Highway Traffic Safety Administration opened a formal investigation into Tesla’s Autopilot system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/08/18/democrats-ask-ftc-to-investigate-teslas-self-driving-claims.html",
+      "originalUrl": "https://www.cnbc.com/2021/08/18/democrats-ask-ftc-to-investigate-teslas-self-driving-claims.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 424,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104670924-GettyImages-492682160-autonomous-car.jpg?v=1629294162",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/08/18/democrats-ask-ftc-to-investigate-teslas-self-driving-claims.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/08/18/democrats-ask-ftc-to-investigate-teslas-self-driving-claims.html",
+      "publishedDateTime": "2021-08-18T04:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-18-artificial-intelligence-in-healthcare-market-by-technological-innovations-and-future-growth-2021-2027.md",
+      "title": "Artificial Intelligence in Healthcare Market by Technological Innovations and Future Growth 2021-2027",
+      "excerpt": "The Global Artificial Intelligence in Healthcare Market Research ... and others. March 2020: IBM Watson Health and EBSCO Information Services partnered to provide access to evidence-based drug ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-market-by-technological-innovations-and-future-growth-2021-2027",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-market-by-technological-innovations-and-future-growth-2021-2027",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/08/Remembering-September-911-AFP-1K-03-1-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-18T04:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-08-18-intel-says-good-bye-to-its-ai-powered-realsense-cameras.md",
+      "title": "Intel Says Good-Bye To Its AI-Powered RealSense Cameras",
+      "excerpt": "Intel’s RealSense cameras were originally designed for touch-free interactions but pivoted to specifically facial recognition in January. Today, Intel confirmed that",
+      "sourceUrl": null,
+      "webUrl": "https://techbooky.com/intel-says-good-bye-to-its-ai-powered-realsense-cameras/",
+      "originalUrl": "https://techbooky.com/intel-says-good-bye-to-its-ai-powered-realsense-cameras/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbooky.com/wp-content/uploads/2021/08/D435-Depth-Camera-with-Mount-1130x636-1.jpg",
+          "width": 1130,
+          "height": 636,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbooky.com/intel-says-good-bye-to-its-ai-powered-realsense-cameras/?amp=1",
+      "cdnAmpWebUrl": "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/intel-says-good-bye-to-its-ai-powered-realsense-cameras/?amp=1",
+      "publishedDateTime": "2021-08-18T03:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techbooky.com",
+        "domain": "techbooky.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-18-insurance-verification-startup-trustlayer-lands-151m.md",
+      "title": "Insurance verification startup TrustLayer lands $15.1M",
+      "excerpt": "TrustLayer, a startup developing AI and automation technologies to quickly verify insurance, has raised $15.1 million in capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/18/insurance-verification-startup-trustlayer-lands-15-1m/",
+      "originalUrl": "https://venturebeat.com/2021/08/18/insurance-verification-startup-trustlayer-lands-15-1m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/Business-Intelligence.GettyImages-1023848048-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 661,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/18/insurance-verification-startup-trustlayer-lands-15-1m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/18/insurance-verification-startup-trustlayer-lands-15-1m/amp/",
+      "publishedDateTime": "2021-08-18T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-18-keep-an-eye-on-your-home-from-afar-with-this-affordable-ai-powered-security-camera.md",
       "title": "Keep an eye on your home from afar with this affordable AI-powered security camera",
       "excerpt": "TL;DR: Keep your home safe with this Blurams Home Pro Indoor Security Camera, available for $37.99 as of Aug. 18. Whether you’re finally leaving your house more often or casually retreating back inside after your brief stint out in the world,",
@@ -919,231 +1161,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-conga-buys-ai-startup-that-helps-companies-understand-how-contracts-will-affect-revenue.md",
-      "title": "Conga buys AI startup that helps companies understand how contracts will affect revenue",
-      "excerpt": "Revenue operations company AppExtremes LLC, which does business as Conga, is boosting its contract management capabilities by acquiring a startup called Contract Wrangler Inc. for an undisclosed price.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2021/08/17/conga-buys-ai-startup-helps-companies-understand-contracts-will-impact-revenue/",
-      "originalUrl": "https://siliconangle.com/2021/08/17/conga-buys-ai-startup-helps-companies-understand-contracts-will-impact-revenue/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/writing-1149962_1920.jpg",
-          "width": 1920,
-          "height": 1281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-17T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-western-states-face-first-federal-water-cuts-ap-explainer.md",
-      "title": "Western States Face First Federal Water Cuts: AP Explainer",
-      "excerpt": "Federal officials said Monday's declaration makes clear that conditions have intensified faster than scientists predicted.",
-      "sourceUrl": null,
-      "webUrl": "https://patch.com/us/across-america/western-states-face-first-federal-water-cuts-ap-explainer",
-      "originalUrl": "https://patch.com/us/across-america/western-states-face-first-federal-water-cuts-ap-explainer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://patch.com/img/cdn20/ap/22940811/20210817/112329/styles/patch_image/public/ap21226282799514___17112200420.jpg?width=984",
-          "width": 911,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://patch.com/us/across-america/amp/29790439/western-states-face-first-federal-water-cuts-ap-explainer",
-      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/us/across-america/amp/29790439/western-states-face-first-federal-water-cuts-ap-explainer",
-      "publishedDateTime": "2021-08-17T08:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Patch",
-        "domain": "patch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-ai-in-medical-imaging-diagnosis-market-is-booming-worldwide-ge-healthcare-ibm-watson-health-philips-healthcare.md",
-      "title": "AI in Medical Imaging Diagnosis Market Is Booming Worldwide | GE Healthcare, IBM Watson Health, Philips Healthcare",
-      "excerpt": "Our report will be revised to address COVID-19 pre-Post pandemic effects on the Global AI in Medical Imaging Diagnosis Market. Click to get Global AI in Medical Imaging Diagnosis Market Research Free Sample PDF Copy Here Before Purchase @: jcmarketresearch.",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/ai-in-medical-imaging-diagnosis-market-is-booming-worldwide-ge-healthcare-ibm-watson-health-philips-healthcare/",
-      "originalUrl": "https://manometcurrent.com/ai-in-medical-imaging-diagnosis-market-is-booming-worldwide-ge-healthcare-ibm-watson-health-philips-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/08/global-silicone-swimming-caps-market-390x220.png",
-          "width": 390,
-          "height": 220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/ai-in-medical-imaging-diagnosis-market-is-booming-worldwide-ge-healthcare-ibm-watson-health-philips-healthcare/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/ai-in-medical-imaging-diagnosis-market-is-booming-worldwide-ge-healthcare-ibm-watson-health-philips-healthcare/?amp=1",
-      "publishedDateTime": "2021-08-17T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-moloco-closes-150-million-series-c-financing-led-by-tiger-global-to-bring-transparent-machine-learning-algorithms-to-all.md",
-      "title": "MOLOCO Closes $150 Million Series C Financing Led by Tiger Global to Bring Transparent Machine Learning Algorithms to All",
-      "excerpt": "MOLOCO (  com ), a leader in machine learning and growth solutions for mobile app marketers and e-commerce companies, announced today it has raised $150 million in Series C funding to bring sophisticated,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/moloco-closes-150-million-series-c-financing-led-by-tiger-global-to-bring-transparent-machine-learning-algorithms-to-all-1030739081",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/moloco-closes-150-million-series-c-financing-led-by-tiger-global-to-bring-transparent-machine-learning-algorithms-to-all-1030739081",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-17T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-this-app-urges-gen-z-to-talk-it-out-privately-not-overshare-on-social-media.md",
-      "title": "This App Urges Gen Z to Talk It Out Privately, Not Overshare on Social Media",
-      "excerpt": "Mental health apps abound, but with evrmore, the idea is to receive support from the app's cocktail of AI, machine learning, and natural language processing rather than the dopamine drip of social media validation.",
-      "sourceUrl": null,
-      "webUrl": "https://in.pcmag.com/mobile-apps/144335/this-app-urges-gen-z-to-talk-it-out-privately-not-overshare-on-social-media",
-      "originalUrl": "https://in.pcmag.com/mobile-apps/144335/this-app-urges-gen-z-to-talk-it-out-privately-not-overshare-on-social-media",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_in/news/t/this-app-u/this-app-urges-gen-z-to-talk-it-out-privately-not-overshare_n7eb.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-17T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

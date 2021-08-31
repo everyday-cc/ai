@@ -6,8 +6,8 @@ publishedDateTime: 2021-08-30T18:17:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/rita-the-wound-pros-leverages-artificial-intelligence-with-its-wound-measurement-app-1030767728"
 webUrl: "https://markets.businessinsider.com/news/stocks/rita-the-wound-pros-leverages-artificial-intelligence-with-its-wound-measurement-app-1030767728"
 type: article
-quality: 60
-heat: 60
+quality: 62
+heat: 62
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mma.prnewswire.com/media/1604641/The_Wound_Pros_app_RITA.jpg"
@@ -27,6 +28,6 @@ images:
     height: 276
     isCached: true
 
-secured: "Xo51umiV8oDVLGpBCmqMOue4IbxSczvGuuai4P8g9y2ftW+cF83ueGFEymsLAqQ2PDxWhs6e3oZVIBXQAZgx1nGfrsYRIraK7dKuQEiW0mMti8P+kDk00F/KHcF6u2Ir8pz0/KxpRze7i/+nxe/8q8lrB3R08ftW33Af3CYJsbW7Ob4yqGSbP+yW14E8Gz31y2ZOipLV7vMpiTrRSt20J2Bjyu0vkW6IDKcckUzqoX6iteXxLTW/AbjY/IfUxSlbvjF2yfzUQMcoDdEHrzhRvUaKnF9aUm7GcNdnhiG0GFQ8WhDPVF73+tshx/5e9oY5jYmg1C7zU2ad0epy0MBGpNr83jcb4dUXW1nEP1Q87ag=;faXN1DL9cVU/1+s4idAJcg=="
+secured: "AjKv4ICQVJIYJb/XFbNKEGRXnPnZ1x+N+6M8ODQ8iS4pkwr7QiELWo5VpUs2e/O/JP/oaxltj+ZtYwCtfGjx1JmI96LwYyNW1NNeHEt/PI+S1rRHikGOpUmpbYotsT6DjtPY8LLsYo7pkxO6mBgJCZoOIMEJF4m7LnkQ9UbIu2k9Uru/QYiBPpPK54vGXi5KEnSu8AwUUPRV+tSQZJJLS69LYwQAqcgfM0+w5quhHKZ2htC2eXre4UkNA1xLJzFUVgblKEqdVMu2Ns41jzb/fkbfUiFfnAV/Cxvj7lv/QyBkPkXuoC+/t/yXyWK0LrSK5BqGLDv0wC+gse/e3m3MtxRkHT056i7k/5LtK6WRU3oPWSbWf+e8IeyHP7Ci3vLTZ4qX/oWAnS5PAEG8L8BoYMq1RuNxNWjvet1OKW99cwJNh9sFITRq06NO2VdBESkIWl6XBHJUxaRRpDSVsS5AoLn/d11Vvb5GvnXs8gjZrso2YdQctoNvwoFgBVf+OF9mbP6FoI+cBnBGOzY7/+pI+w==;1UV899MUGi0/ulFJ++/5PQ=="
 ---
 

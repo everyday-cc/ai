@@ -177,20 +177,6 @@ related:
         width: 2000
         height: 1500
         isCached: true
-  - title: "GAO Reports on Federal Use of Facial Recognition Tech Systems"
-    excerpt: "The Government Accountability Office (GAO) surveyed 24 Chief Financial Officers Act agencies on their use of facial recognition technology (FRT) in fiscal year 2020 and found that 18 of those agencies reported using FRT for one or several purposes."
-    publishedDateTime: 2021-08-26T10:43:00Z
-    webUrl: "https://www.executivegov.com/2021/08/gao-reports-on-federal-use-of-facial-recognition-tech-systems/"
-    type: article
-    provider:
-      name: Executive Gov
-      domain: executivegov.com
-    quality: 39
-    images:
-      - url: "https://executivegov-media.s3.amazonaws.com/2020/12/04/cf/a3/89/3f/73/fc/a7/74/facial_recognition_20201125.png"
-        width: 272
-        height: 270
-        isCached: true
   - title: "Facial Recognition Tech Use Increasing Among Federal Agencies"
     excerpt: "Use cases included criminal investigations, building security and access to digital assets like smartphones and security agency websites."
     publishedDateTime: 2021-08-26T19:00:00Z

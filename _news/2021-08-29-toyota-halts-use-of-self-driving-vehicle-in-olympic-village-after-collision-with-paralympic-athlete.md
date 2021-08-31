@@ -3,18 +3,18 @@ category: news
 title: "Toyota halts use of self-driving vehicle in Olympic Village after collision with Paralympic athlete"
 excerpt: "Toyota has been providing a specially-designed version of its battery-powered, automated \"e-Palette\" vehicles to transport athletes and staff during the Tokyo Olympics and Paralympic Games."
 publishedDateTime: 2021-08-28T18:53:00Z
-originalUrl: "https://www.wlwt.com/article/toyota-halts-use-of-self-driving-vehicle-in-olympic-village-after-collision-with-paralympic-athlete/37418517"
-webUrl: "https://www.wlwt.com/article/toyota-halts-use-of-self-driving-vehicle-in-olympic-village-after-collision-with-paralympic-athlete/37418517"
-ampWebUrl: "https://www.wlwt.com/amp/article/toyota-halts-use-of-self-driving-vehicle-in-olympic-village-after-collision-with-paralympic-athlete/37418517"
-cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/toyota-halts-use-of-self-driving-vehicle-in-olympic-village-after-collision-with-paralympic-athlete/37418517"
+originalUrl: "https://www.wbaltv.com/article/toyota-halts-use-of-self-driving-vehicle-in-olympic-village-after-collision-with-paralympic-athlete/37418517"
+webUrl: "https://www.wbaltv.com/article/toyota-halts-use-of-self-driving-vehicle-in-olympic-village-after-collision-with-paralympic-athlete/37418517"
+ampWebUrl: "https://www.wbaltv.com/amp/article/toyota-halts-use-of-self-driving-vehicle-in-olympic-village-after-collision-with-paralympic-athlete/37418517"
+cdnAmpWebUrl: "https://www-wbaltv-com.cdn.ampproject.org/c/s/www.wbaltv.com/amp/article/toyota-halts-use-of-self-driving-vehicle-in-olympic-village-after-collision-with-paralympic-athlete/37418517"
 type: article
 quality: 30
 heat: -1
 published: false
 
 provider:
-  name: WLWT
-  domain: wlwt.com
+  name: WBALTV11
+  domain: wbaltv.com
 
 topics:
   - AI in Autos
@@ -643,6 +643,6 @@ related:
         height: 259
         isCached: true
 
-secured: "NOL2nBYVcWrW8N87S8Uh93cQDZn6LXePkjch9Rvj9rlmWwymHGmFSoCJvb/TKuLABG868MwzjPc147aK4LJGp4x5A3KNDUbTvqeTJgH8vKIiJIXYrL7y4zp3W2hmX8MXhKWTnsPLJb9/aYWB0YViyzHv/GjTw4hesAcz2ByqMT1NmQ8fFXAnnoriiPiqmoZVrmv3ZNCiC4uzsgRNCxmsTiYKM53Q1EEVC3uKhVXNNjpqgKhUH20xE3fTlB7g8UXWcVpqpSqPY7Ufo70QwDJELp7hxH81+MrOwyPJSq1Q8lSQ2KNi3oOyJm/WNYZ3FjaHFPTZ9K3l2WaecXYRK9/PxZEIZkIblpxmapADea97aFjnnSvUk/Gm9EL6H7KmVSE2uuczC5SZ2Dm4YTJTYpYreZTBBwAhJYkZyT3+N7rUSZiALXrzrtdOCEzY0Y51zJ9mZryPv6tIhoIYkOt3XTxi0mrdxhK9kxxaXsI7MDEkydvoIfJX3gBPutojLaChEbPxrBa+gpC9Xl5zX98/gYzVJQ==;FS/gF9M8Jtg3bKFhTInVJw=="
+secured: "sY2+rIKwfFALtUp/ZWvy/E5+lhz5KvO4oWIc19penB4jm+2YAd1u2K7yZqPplkCmBJ8dNmlEwhqkD79cEN/s3J5gr/bdOC6n4HC3ASCsjpenBHOUDwkOGr4myc9ayuBtWuBeH5oM2ccQ5L6/AMCyfGXc4g98CdWVup8V9TBDq3K+yd2XxvwzPvKoL32mWXmThN3qI3GGWDiQ21Z19p13KKyDx0bSLqqhC9uL763S9Rlpey54GqiCWd6ISL4YIg1EhBlbAT4MRV1OmvDz2j8PP3DFucr3x1NVV5ocoqEpltcq/sQxKtt3KlxKuk/mUD9ytwYn5uKYjK4VA2ygVZIsynWsdBICt2FbEm2BD1/+LQ0=;8nqYswm63mt1YhQ7K98yYA=="
 ---
 

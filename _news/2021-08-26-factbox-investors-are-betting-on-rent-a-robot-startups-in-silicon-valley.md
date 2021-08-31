@@ -1,18 +1,15 @@
 ---
 category: news
 title: "Factbox-Investors are betting on rent-a-robot startups in Silicon Valley"
-excerpt: "Silicon Valley has a new pitch for small U.S. manufacturers struggling with hiring workers but wary of the high costs"
+excerpt: "Silicon Valley has a new pitch for small U.S. manufacturers struggling with hiring workers but wary of the high costs of high tech: rent-a-robot. Much of the initial risk and cost are taken on by the robot companies."
 publishedDateTime: 2021-08-26T10:27:00Z
-originalUrl: "https://kelo.com/2021/08/26/factbox-investors-are-betting-on-rent-a-robot-startups-in-silicon-valley/"
-webUrl: "https://kelo.com/2021/08/26/factbox-investors-are-betting-on-rent-a-robot-startups-in-silicon-valley/"
+originalUrl: "https://kfgo.com/2021/08/26/factbox-investors-are-betting-on-rent-a-robot-startups-in-silicon-valley/"
+webUrl: "https://kfgo.com/2021/08/26/factbox-investors-are-betting-on-rent-a-robot-startups-in-silicon-valley/"
 type: article
-quality: 38
-heat: -1
-published: false
 
 provider:
-  name: KELO
-  domain: kelo.com
+  name: KFGO
+  domain: kfgo.com
 
 topics:
   - AI in Robotics
@@ -24,82 +21,6 @@ images:
     height: 533
     isCached: true
 
-related:
-  - title: "Factbox-Investors are betting on rent-a-robot startups in Silicon ValleyÂ"
-    excerpt: "Silicon Valley has a new pitch for small U.S. manufacturers struggling with hiring workers but wary of the high costs of high tech: rent-a-robot. Much of the initial risk and cost are taken on by the robot companies."
-    publishedDateTime: 2021-08-26T10:29:00Z
-    webUrl: "https://www.metro.us/factbox-investors-are-betting-on/"
-    ampWebUrl: "https://www.metro.us/factbox-investors-are-betting-on/amp/"
-    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/factbox-investors-are-betting-on/amp/"
-    type: article
-    provider:
-      name: Metro US
-      domain: metro.us
-    quality: 58
-    images:
-      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEH7P0DO-BASEIMAGE.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Rent-a-robot: Silicon Valley’s new answer to the labor shortage in smaller U.S. factories"
-    excerpt: "Silicon Valley has a new pitch to persuade small companies to automate: rent-a-robot. Better technology and the need to pay higher wages to humans have produced a surge in sales of robots to big companies all across America."
-    publishedDateTime: 2021-08-26T10:14:00Z
-    webUrl: "https://www.metro.us/rent-a-robot-silicon-valleys-new/"
-    ampWebUrl: "https://www.metro.us/rent-a-robot-silicon-valleys-new/amp/"
-    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/rent-a-robot-silicon-valleys-new/amp/"
-    type: article
-    provider:
-      name: Metro US
-      domain: metro.us
-    quality: 50
-    images:
-      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2021binary_LYNXMPEH7P0CY-BASEIMAGE.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Rent-a-robot: Silicon Valley’s new answer to the labour shortage in smaller US factories"
-    excerpt: "Silicon Valley has a new pitch to persuade small companies to automate: rent-a-robot. Better technology and the need to pay higher wages to humans have produced a surge in sales of robots to big companies all across America."
-    publishedDateTime: 2021-08-26T11:55:00Z
-    webUrl: "https://www.channelnewsasia.com/business/rent-robot-silicon-valleys-new-answer-labour-shortage-smaller-us-factories-2137457"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 30
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s---lhSRLjt--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_338%2Cw_600/v1/one-cms/core/2021-08-26t101348z_1_lynxmpeh7p0d2_rtroptp_3_usa-robots-manufacturing.jpg?itok=4S77uP2D"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Rent-A-Robot: Silicon Valley’s New Answer To The Labor Shortage In Smaller U.S. Factories"
-    excerpt: "Silicon Valley has a new pitch to persuade small companies to automate: rent-a-robot. Better technology and the need to pay higher wages to humans have"
-    publishedDateTime: 2021-08-27T07:46:00Z
-    webUrl: "https://masscentral.com/rent-a-robot-silicon-valleys-new-answer-to-the-labor-shortage-in-smaller-u-s-factories/"
-    type: article
-    provider:
-      name: Attack
-      domain: masscentral.com
-    quality: 30
-    images:
-      - url: "https://i0.wp.com/masscentral.com/wp-content/uploads/2021/08/ai-robots-post.jpg?fit=600%2C400&#038;ssl=1"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "Rent-a-robot: Silicon Valleyâ€™s new answer to the labor shortage in smaller U.S. factories"
-    excerpt: "Silicon Valley has a new pitch to persuade small companies to automate: rent-a-robot. Better technology and the need to pay higher wages to humans have produced a surge in sales of robots to big companies all across America."
-    publishedDateTime: 2021-08-26T10:14:00Z
-    webUrl: "https://kdal610.com/2021/08/26/rent-a-robot-silicon-valleys-new-answer-to-the-labor-shortage-in-smaller-u-s-factories/"
-    type: article
-    provider:
-      name: KDAL 610
-      domain: kdal610.com
-    quality: 29
-    images:
-      - url: "https://storage.googleapis.com/media.mwcradio.com/mimesis/2021-08/26/2021-08-26T101348Z_1_LYNXMPEH7P0D6_RTROPTP_3_USA-ROBOTS-MANUFACTURING.JPG"
-        width: 800
-        height: 600
-        isCached: true
-
-secured: "NzvL+rAv4VpiP36D4LO1YT04xjE2hFgSh0Q8NCfZngkbXgexb9iCQSrtbMfKot+XoXkG7ve8ea9R90DgMOTfWlCYEnL3K6EtqhvFccs0eS4hnUjWDvzJlN9r433nrMDZA668Kx8fAI04A9Zp1KDL5kC9zGXB+hO+P4VzjozGQScElSINP1WUustOKCCpiL+2gu8kDF3Z8UkNR+TIiPvLbJLBVcKi7Az/aVSLzhcD7DFT1dxeDlWM9AqZOaw3z8L23shl2bIOJyv4DioO8pGYKXo2ILkVrzRcf+cTNERGdWtT6KZCinB1YJP6cEKD/0ZWlwnIfE8w2hBIx1jgojdK7buzwrUPgmU9Bv594qX7b8U=;LysQPvVVtax6M+RnXTa6aw=="
+secured: "mi1hixbhvhMKIQz6FumRJGNynLNkD/cufalkCx3gI8bGIcHUMQ9GHiAXKX8KjedrXW5AV8X8QktmyH4pMPaHUrr7FLSgebxhi7GoSTe8OO1/fpmjy/BaccTUiYhwoW6UZUXu4TipJnIVrzTFoPzVtCH8N8FRVnAUsLjK7/GjEL0fI/s5AWAw8yirbuOK5cju+biXVHqvYNPkCMqDuMUD6K5+8uWjjBo8y5C+pBakBZCcAjgD1CdvVc1i6Dfb29blThTYNs6hGoIC/6fVnNuJBJiIMkxFo1XlS77vcGNx8r9kyKt8IpgVuylb1a08V5ZylHsIRLDxVkYcSDzqHLpoWM/gz2MWZOGdTNBjQC8Wru4=;ZLwgf9FvuJgrCBIgBD+r2Q=="
 ---
 

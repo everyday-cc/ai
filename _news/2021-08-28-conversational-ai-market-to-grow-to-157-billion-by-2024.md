@@ -40,22 +40,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Five top tips for ensuring your conversational AI project is a hit"
-    excerpt: "Let’s look first at where conversational AI can make a difference. There are three main forms of communication in every organization where conversational AI can dramatically cha"
-    publishedDateTime: 2021-08-26T10:00:00Z
-    webUrl: "https://www.itproportal.com/features/five-top-tips-for-ensuring-your-conversational-ai-project-is-a-hit/"
-    ampWebUrl: "https://www.itproportal.com/amp/features/five-top-tips-for-ensuring-your-conversational-ai-project-is-a-hit/"
-    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/five-top-tips-for-ensuring-your-conversational-ai-project-is-a-hit/"
-    type: article
-    provider:
-      name: IT Pro Portal
-      domain: itproportal.com
-    quality: 59
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/ghbHs8vktkp6zcrYVRGQ2d-1200-80.jpg"
-        width: 970
-        height: 545
-        isCached: true
   - title: "Global Industry Analysts Predicts the World Artificial Intelligence (AI) in Marketing Market to Reach $50.1 Billion by 2026"
     excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Marketing - Global Market Trajectory & Analytics\"."
     publishedDateTime: 2021-08-26T17:12:00Z

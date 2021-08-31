@@ -1,15 +1,17 @@
 ---
 category: news
 title: "RBL Bank selects AWS to Accelerate Artificial Intelligence Efforts"
-excerpt: "Other use cases already being tested within the Operations division include using services like Amazon Rekognition and Amazon Textract to automatically extract and match customer signatures and running fuzzy match algorithms to replace manual name match ..."
-publishedDateTime: 2021-08-09T14:35:00Z
-originalUrl: "https://technuter.com/breaking-news/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts.html"
-webUrl: "https://technuter.com/breaking-news/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts.html"
+excerpt: "Other use cases already being tested within the Operations division include using services like Amazon Rekognition and Amazon Textract to automatically extract and match customer signatures and ..."
+publishedDateTime: 2021-08-09T08:09:00Z
+originalUrl: "https://www.indiainfoline.com/article/news-sector-banking-financials/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900334_1.html"
+webUrl: "https://www.indiainfoline.com/article/news-sector-banking-financials/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900334_1.html"
+ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-banking-financials/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900334_1.html"
+cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-banking-financials/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900334_1.html"
 type: article
 
 provider:
-  name: technuter.com
-  domain: technuter.com
+  name: India Infoline
+  domain: indiainfoline.com
 
 topics:
   - AWS AI
@@ -17,11 +19,11 @@ topics:
   - AI in Finance
 
 images:
-  - url: "https://technuter.com/wp-content/uploads/2019/03/aws-logo.jpg"
-    width: 277
-    height: 239
+  - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
+    width: 350
+    height: 233
     isCached: true
 
-secured: "TNfgjSEfetB7llb+ZcBrJmKoQ8P4u/6fr2TtMrfA+Yb/9KA5uqvUzZ3YJvRzdfDVc7dj29fFZ4HlHf1rvt3xY/TZ/8dKBvrLvArPlLIUvbWHj2CC1+258+EFDn/oFfsL73jn+5HZkwPtJnLC0wKpTQ10Q8Ama/mPb0iiOO5HqbZi2lOKMssBt1HDi1gGSYVyEFAX0CsTB1c8aNMiWo5xA7BdJd28Dc46wvYAbMq3wgZcx9S5mYmSRfs9JApUgSK9EDIjo5oNDG4MeJTeS/pU3ZHQLcReNMDZcMtjizeSrutI3aUJfPHFTYLvfe+28AWeY6PuDCDmVquwRmnXHUKt9uUS/Gf/3kPjpca0LuDnMvE=;/zwvb/oTXadiDK6+MA7A0w=="
+secured: "EyAWm06bFOPw6AOZWRvgqnc6dPvJmb73ka0kQmuX8/DOVV6AhV9TWiOkqzgMHhX8j6J9+nBUzjwwPFRt9onpYPzD/pn/NLHvumRZKyAd3QSFR9yRr73S2O8HGFloFVHLw+TwDNflYGkurAue5VcwU7nDkZ2VITta4yvkIXTwQ6GPGYtv/WFF59JKlUhRJ13WMF2Z+n0918hsY5rm9RkP/w6cRZSymuWWRIO/D5EhwuXYDcCpEWnYYCJbHFKe4uR1Mj2aStKsdunKGezgwcJgY0x5airLm9XTt4RRs6DbxoGTJU+kodrvoqYPHd4VcQhhKAdfyfEioLP7//dSOE/g6IiP3dv+bM73BU55lq+kj7Q=;y5e6SAjwenm6jPflTwS28Q=="
 ---
 

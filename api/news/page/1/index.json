@@ -2,6 +2,91 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-31-global-spending-on-ai-systems-to-reach-more-than-204-billion-in-2025-report.md",
+      "title": "Global spending on AI systems to reach more than $204 billion in 2025: Report",
+      "excerpt": "Investment in AI solutions will accelerate as businesses seek insights, efficiency, and innovation, according to a New IDC Spending Guide.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/global-spending-ai-systems-reach-204-billion-2025-report/",
+      "originalUrl": "https://www.dqindia.com/global-spending-ai-systems-reach-204-billion-2025-report/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2020/11/IT-Spending_opt.jpg",
+          "width": 850,
+          "height": 531,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/global-spending-ai-systems-reach-204-billion-2025-report/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/global-spending-ai-systems-reach-204-billion-2025-report/amp/",
+      "publishedDateTime": "2021-08-30T20:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-31-self-driving-truck-technology-market-size-2021-and-forecast-to-2028-keyplayers-daimler-volvo-waymo-tesla.md",
+      "title": "Self-Driving Truck Technology Market Size 2021 And Forecast to 2028 | Keyplayers – Daimler, Volvo, Waymo, Tesla",
+      "excerpt": "The global Self-Driving Truck Technology market report provides detailed details on market size, share, industry overview, revenues, recent developments, acquisitions and mergers, and expansion strategies.",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/self-driving-truck-technology-market-size-2021-and-forecast-to-2028-keyplayers-daimler-volvo-waymo-tesla/",
+      "originalUrl": "https://manometcurrent.com/self-driving-truck-technology-market-size-2021-and-forecast-to-2028-keyplayers-daimler-volvo-waymo-tesla/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manometcurrent.com/wp-content/uploads/2021/08/MRI-17-1-300x212.jpg",
+          "width": 300,
+          "height": 212,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/self-driving-truck-technology-market-size-2021-and-forecast-to-2028-keyplayers-daimler-volvo-waymo-tesla/",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/self-driving-truck-technology-market-size-2021-and-forecast-to-2028-keyplayers-daimler-volvo-waymo-tesla/",
+      "publishedDateTime": "2021-08-30T19:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-31-artificial-intelligences-biggest-stumbling-block-trust.md",
       "title": "Artificial Intelligence’s Biggest Stumbling Block: Trust",
       "excerpt": "All others must bring data.” But how far can we trust the data? This is becoming an important question, as the artificial intelligence systems now being built and deployed across the business landscape are only as good as the data being fed into them,",
@@ -144,6 +229,49 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-31-tesla-crashes-into-police-cruiser-self-driving-cars-have-to-learn-how-to-drive.md",
+      "title": "Tesla Crashes Into Police Cruiser. Self-Driving Cars Have To Learn How To Drive.",
+      "excerpt": "The stock brushed off the crash, which happened over the weekend in Florida. Still, the wreck shows that true self driving is hard to achieve.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/tesla-crashes-into-police-cruiser-self-driving-cars-have-to-learn-how-to-drive-51630360830",
+      "originalUrl": "https://www.barrons.com/articles/tesla-crashes-into-police-cruiser-self-driving-cars-have-to-learn-how-to-drive-51630360830",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-386041/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/tesla-crashes-into-police-cruiser-self-driving-cars-have-to-learn-how-to-drive-51630360830",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-crashes-into-police-cruiser-self-driving-cars-have-to-learn-how-to-drive-51630360830",
+      "publishedDateTime": "2021-08-30T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -338,6 +466,57 @@
       ]
     },
     {
+      "path": "_news/2021-08-30-c3ai-ai-to-report-q1-earnings-whats-in-the-offing.md",
+      "title": "C3.ai (AI) to Report Q1 Earnings: What's in the Offing?",
+      "excerpt": "C3.ai AI is set to report first-quarter fiscal 2022 results on Sep 1. For the quarter, C3.ai expects revenues between $50 million and $52 million. The Zacks Consensus Estimate for revenues currently stands at $51 million.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/382487",
+      "originalUrl": "https://www.entrepreneur.com/article/382487",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-382487.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/382487",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/382487",
+      "publishedDateTime": "2021-08-30T09:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-30-playing-catch-up-to-the-early-adopters-of-analytics-ai-and-machine-learning.md",
       "title": "Playing catch-up to the early adopters of analytics, AI and machine learning",
       "excerpt": "Opinion: Early adopters of data analytics, artificial intelligence (AI), and machine learning (ML) tools have found themselves in a position of favour in today’s rapidly accelerating digital world.",
@@ -389,7 +568,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/zebra-technologies-plans-to-acquire-antuit.ai-quick-facts-2021-08-30",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 147,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -613,7 +792,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/382318",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -989,197 +1168,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-28-5-of-dubai-taxis-fleet-to-be-self-driving-cabs-by-2023.md",
-      "title": "5% of Dubai Taxi's fleet to be self-driving cabs by 2023",
-      "excerpt": "By 2023, five per cent of Dubai Taxi’s fleet will be converted into self-driving cabs, the Roads and Transport Authority (RTA) said on Saturday. The RTA recently signed a partnership agreement with General Motors-backed Cruise to run driverless taxis and shared transport service in Dubai,",
-      "sourceUrl": null,
-      "webUrl": "https://www.khaleejtimes.com/news/transport/5-of-dubai-taxis-fleet-to-be-self-driving-cabs-by-2023",
-      "originalUrl": "https://www.khaleejtimes.com/news/transport/5-of-dubai-taxis-fleet-to-be-self-driving-cabs-by-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://amp.khaleejtimes.com/storyimage/KT/20210828/ARTICLE/210829143/AR/0/AR-210829143.jpg&NCS_modified=20210829010133&MaxH=225&imageVersion=16by9",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.khaleejtimes.com/news/transport/5-of-dubai-taxis-fleet-to-be-self-driving-cabs-by-2023",
-      "cdnAmpWebUrl": "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/news/transport/5-of-dubai-taxis-fleet-to-be-self-driving-cabs-by-2023",
-      "publishedDateTime": "2021-08-28T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Khaleej Times",
-        "domain": "khaleejtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-28-we-underestimated-iot-security-lets-not-make-that-mistake-with-robotics.md",
-      "title": "We underestimated IoT security. Let’s not make that mistake with robotics.",
-      "excerpt": "Even if placed behind a firewall, inadequately secured robots may not be safe. We’ve already seen malware that breaches isolated networks.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/28/we-underestimated-iot-security-lets-not-make-that-mistake-with-robotics/",
-      "originalUrl": "https://venturebeat.com/2021/08/28/we-underestimated-iot-security-lets-not-make-that-mistake-with-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/agility-robotics-digit.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/28/we-underestimated-iot-security-lets-not-make-that-mistake-with-robotics/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/28/we-underestimated-iot-security-lets-not-make-that-mistake-with-robotics/amp/",
-      "publishedDateTime": "2021-08-28T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-08-28-how-ai-can-enhance-our-real-and-virtual-lives.md",
-      "title": "How AI can enhance our real and virtual lives",
-      "excerpt": "The answer is adding humanity back into the digital world? In simplest terms, it’s remembering why and who the tech was envisioned for in the first place.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/ai-can-enhance-real-virtual-lives-syndication",
-      "originalUrl": "https://thenextweb.com/news/ai-can-enhance-real-virtual-lives-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2Fyuyeung-lau-lr5mTjURI5c-unsplash.jpg&signature=e0ef9096ac1d6277d18c077b4ff9827d",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-28T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-28-gatik-joins-the-driverless-self-driving-car-club.md",
-      "title": "Gatik joins the driverless self-driving car club",
-      "excerpt": "Walmart’s cargo-hauling partner moves to scale sans humans..Gatik engineers and algorithms laboriously study a route for weeks before letting the robots steer and are able to program specifically for certain sticky points.",
-      "sourceUrl": null,
-      "webUrl": "https://auto.hindustantimes.com/auto/news/gatik-joins-the-driverless-self-driving-car-club-41630150506346.html",
-      "originalUrl": "https://auto.hindustantimes.com/auto/news/gatik-joins-the-driverless-self-driving-car-club-41630150506346.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/auto/img/2021/08/28/600x338/ElW5x_SXEAY-Y6V_1606131116552_1606131128133_1630150578542.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://auto.hindustantimes.com/auto/news/gatik-joins-the-driverless-self-driving-car-club/amp-41630150506346.html",
-      "cdnAmpWebUrl": "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/gatik-joins-the-driverless-self-driving-car-club/amp-41630150506346.html",
-      "publishedDateTime": "2021-08-28T04:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

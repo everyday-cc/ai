@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 1042
         isCached: true
+  - title: "MiaRec Announces Release of Integrated Voice Analytics"
+    excerpt: "MiaRec, provider of award-winning voice AI solutions, announced a major analytics update to its call recording and quality assurance solution. MiaRec CEO Gennadiy Bezko said, \"MiaRec is thrilled to take our analytics update live."
+    publishedDateTime: 2021-08-30T19:21:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/miarec-announces-release-of-integrated-voice-analytics-1030767806"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
+    images:
+      - url: "https://mma.prnewswire.com/media/1604692/MiaRec_Voice_Analytics.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Advantage Acquires Strong Analytics, Provider of AI and Machine Learning Solutions"
     excerpt: "Advantage Solutions has acquired Strong Analytics, a provider of artificial intelligence, machine learning and data science services for leading brands in consumer goods and retail, automotive, hospitality,"
     publishedDateTime: 2021-08-26T13:02:00Z
@@ -93,20 +107,6 @@ related:
       name: Engineering News
       domain: engineeringnews.co.za
     quality: 24
-  - title: "MiaRec Announces Release of Integrated Voice Analytics"
-    excerpt: "MiaRec, provider of award-winning voice AI solutions, announced a major analytics update to its call recording and quality assurance solution. MiaRec CEO Gennadiy Bezko said, “MiaRec is thrilled to take our analytics update live."
-    publishedDateTime: 2021-08-30T19:02:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-332c91f4ba32ad3619be5425d0b096c8"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "E82rXk4lSuUrY6PF6yV/Z9XW6HiI1lj3PcXxjW0qFspE/mWURsKMURLMCYGvNZ+s3sLjpSe6BNrEnboD8aGN2n0HyUCmxUt8xAE9JOzT36zxHmcb8mt6+/neYr6q/HoUx1f7AQtrx/uahyg/9BWjaiam148y1ZBvlNFKdSxDIB9XUJa9AiG4EqxNLy9zquyfrNg7J5dVwH0yV4uL0xaZ1eYfmEXSspSH9E1zCX3Wd7Ml9nb/DD962C5gWFpdwZwXplMR54Vw3Fu+pJRVHU3Z2YrZT9Cc9TzFKOKtutJ0gLrPW6cf/Hl5u+LQ9t8JrBLNhPbFwILEWtJwwjkpBU7hLWO5GWB83522CDFXr9o9eZ/U98fu7MVl6llX/VHmfBCX4Qmb0Cx+iGZR2nCHitaEKrcoHLatPDGbi0e9t7GhfcabgUk52ebfu38E/fFnhd106uUnbW9Os/H6oBN/yCgkeWE1MBwKQJBByDQD9BTv3C/UtXyiEs6Ib7dE72cVTTSEdLdhi5YZE47lopCTiJ7ddA==;QBc1LZdNBbQRsbD/vZRh4w=="
 ---

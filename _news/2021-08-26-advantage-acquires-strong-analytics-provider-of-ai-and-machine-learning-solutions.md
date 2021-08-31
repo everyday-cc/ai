@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 1042
         isCached: true
+  - title: "MiaRec Announces Release of Integrated Voice Analytics"
+    excerpt: "MiaRec, provider of award-winning voice AI solutions, announced a major analytics update to its call recording and quality assurance solution. MiaRec CEO Gennadiy Bezko said, \"MiaRec is thrilled to take our analytics update live."
+    publishedDateTime: 2021-08-30T19:21:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/miarec-announces-release-of-integrated-voice-analytics-1030767806"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
+    images:
+      - url: "https://mma.prnewswire.com/media/1604692/MiaRec_Voice_Analytics.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Army Wants to Install Facial Recognition, Video Analytics at Child Development Centers"
     excerpt: "The Army wants to use facial recognition and advanced machine learning algorithms to monitor kids at base Children Development Centers and plans to launch a pilot program at Fort Jackson in the near future."
     publishedDateTime: 2021-08-27T17:25:00Z
@@ -80,20 +94,6 @@ related:
       name: Engineering News
       domain: engineeringnews.co.za
     quality: 24
-  - title: "MiaRec Announces Release of Integrated Voice Analytics"
-    excerpt: "MiaRec, provider of award-winning voice AI solutions, announced a major analytics update to its call recording and quality assurance solution. MiaRec CEO Gennadiy Bezko said, “MiaRec is thrilled to take our analytics update live."
-    publishedDateTime: 2021-08-30T19:02:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-332c91f4ba32ad3619be5425d0b096c8"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Coronavirus Roundup: Questions on Vaccine and Testing Programs for Feds; COVID Oversight Committee Boosts Use of Analytics and AI"
     excerpt: "Professional organizations that represent federal managers are worried that there are still some unresolved issues with the vaccination attestation and testing process for federal employees, Federal News Network reported on Wednesday."
     publishedDateTime: 2021-08-27T15:30:00Z

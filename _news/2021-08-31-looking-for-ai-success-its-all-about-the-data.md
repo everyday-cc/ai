@@ -23,17 +23,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "Investment in Artificial Intelligence Solutions Will Accelerate According to a New IDC Spending Guide"
-    excerpt: "Businesses and organizations across all industries are increasing their investment in artificial intelligence (AI) to"
-    publishedDateTime: 2021-08-30T16:05:00Z
-    webUrl: "https://www.enterpriseai.news/2021/08/30/investment-in-artificial-intelligence-solutions-will-accelerate-according-to-a-new-idc-spending-guide/"
-    type: article
-    provider:
-      name: enterpriseai
-      domain: enterpriseai.news
-    quality: 2
-
 secured: "BFg/SqrnJU5g1eJ8kSgLBsC9O5hkaIp67oq0rCaF0OHbGd46H5HpE89/3XBmaNcBIcOI+NYjp76aXuSuXm05wqRvTvXzWND5tajn9fuJ7U4g75yYgBLPqjUNZBCVY9UNygPmw/cSna108Dybaub8aHH3kHjRlYg6dimtRunwmvU/qgl0YcZeX30AlQ/Ac8hU1boFZgBZURlnCJiLaMAN7WoKl0dVEtaFdizYA1SAkuJJhOkqMqWcndStqtYJ14e01vz0BlmddAxn8IVWFPRkMfQa+nmg5Q5dBD3lUusFhukRLGGd/XvnWWXzSD8i8L6j1dmgG4Wo/XjsejozZQORGvtNEkX2KZArcoxO6AeyKsg=;gvnk9uGxNsuvyErFcFNpSg=="
 ---
 

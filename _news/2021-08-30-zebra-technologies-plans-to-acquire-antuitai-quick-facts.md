@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/zebra-technologies-plans-to-acquire-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/zebra-technologies-plans-to-acquire-antuit.ai-quick-facts-2021-08-30?amp"
 type: article
 quality: 67
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -20,6 +20,20 @@ topics:
   - AI
 
 related:
+  - title: "Temasek-founded Aicadium acquires Singapore AI firm BasisAI"
+    excerpt: "Aicadium, a global technology company founded by Temasek and dedicated to creating and scaling AI solutions, today announced the acquisition of BasisAI, a Singapore -based provider of scalable and responsible artificial intelligence (AI) software."
+    publishedDateTime: 2021-08-31T02:08:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/temasek-founded-aicadium-acquires-singapore-ai-firm-basisai-1030768169"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://mma.prnewswire.com/media/1605010/Cofounders_1.jpg"
+        width: 400
+        height: 283
+        isCached: true
   - title: "Zebra Technologies Acquires Antuit.ai"
     excerpt: "Front-line business firm Zebra Technologies will acquire Antuit.ai, a retail and consumer packaged goods-based artificial intelligence (AI)-powered SaaS."
     publishedDateTime: 2021-08-30T14:52:00Z

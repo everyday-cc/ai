@@ -1,27 +1,31 @@
 ---
 category: news
 title: "MiaRec Announces Release of Integrated Voice Analytics"
-excerpt: "MiaRec, provider of award-winning voice AI solutions, announced a major analytics update to its call recording and quality assurance solution. MiaRec CEO Gennadiy Bezko said, “MiaRec is thrilled to take our analytics update live."
-publishedDateTime: 2021-08-30T19:02:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-332c91f4ba32ad3619be5425d0b096c8"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-332c91f4ba32ad3619be5425d0b096c8"
+excerpt: "MiaRec, provider of award-winning voice AI solutions, announced a major analytics update to its call recording and quality assurance solution. MiaRec CEO Gennadiy Bezko said, \"MiaRec is thrilled to take our analytics update live."
+publishedDateTime: 2021-08-30T19:21:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/miarec-announces-release-of-integrated-voice-analytics-1030767806"
+webUrl: "https://markets.businessinsider.com/news/stocks/miarec-announces-release-of-integrated-voice-analytics-1030767806"
 type: article
-quality: 24
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1604692/MiaRec_Voice_Analytics.jpg"
+    width: 400
+    height: 400
     isCached: true
 
 related:
@@ -109,6 +113,6 @@ related:
         height: 400
         isCached: true
 
-secured: "ymCOzCuZMUauhUpr5r8sHJYXhzcjp0FZ/WOQDWDOkCBCzVvZF2DtLYmYKkd8BtRQFJBACcIwTEUoY15QryyQkFpuK7piKNBnxbYQBoqlztNdM18TDLbcs9GAGIYA0+OsW8vf80q/vEtdAxbUAuAylcyZqPE9fjdgOb7wpIX8SI3+d05EKTJDd8NzsZQdNVz7/8R3duRe8VnSJITphvbeoD4WOFFm0mwlIsG9gzASErLUlSO8oljHNGumWKil5wmonbG/W+AfM2vWE8+ymKsg52ebfBQXOp6UHhEo5ZxQgvya+pN9g82DojY16/zQhlXM9+Y+w/02O6b9X8jFOmtoSYsHIoj44u0rHV/LH0jysYI=;5kCnJqyjeMGoJWzF1N3/hg=="
+secured: "iDiz4flRhkBDdbCT/SxaeOaUMuSaief86fUobLR0HfoW4a4BkpdqimroASCMs5vMsMwi40Bdh299mxaRAJ3DLM+ffwdbvMXqnT6GTtaCmlMZ8BukeknhAAXEBOnB7l6IDyHtDjeskerKnF14fCjtZK86wQTFRNfMbuyt1orWo+9m3EMR1YF2RBoFjNmVTp6bStTD/Ie8KhiR8WoBs2NP0WjG9QNnjlSob88GfkjMaONCzf5dEBBRoKFpSVWRPHzza6dJwOPCNlz5ZruAHW30/d3gGM8cPyXT9swdDWTAoGKf3GQcw+CRgSr+4xyodxu4mKsq6NgzRQg0bnf7AlEP09CAqgwa1U5zlI24lRtB0x0=;KyjCntPYJICyw0AXv0Xu1Q=="
 ---
 

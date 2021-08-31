@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-12-dalhousie-universitys-ai-robotics-team-wins-gold-in-robocup.md",
+      "title": "Dalhousie University’s AI robotics team wins gold in RoboCup",
+      "excerpt": "The Dalhousie University's AI robotics team, CYRUS, has become the first Canadian team to win gold in the international RoboCup competition. Team CYRUS, led by research assistant Nader Zare and PhD student Mahtab Sarvmaili,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/article/dalhousie-universitys-ai-robotics-team-wins-gold-in-robocup/456872",
+      "originalUrl": "https://www.itworldcanada.com/article/dalhousie-universitys-ai-robotics-team-wins-gold-in-robocup/456872",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2021/08/GettyImages-637794534.jpg",
+          "width": 836,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itworldcanada.com/article/dalhousie-universitys-ai-robotics-team-wins-gold-in-robocup/456872?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/dalhousie-universitys-ai-robotics-team-wins-gold-in-robocup/456872?amp=1",
+      "publishedDateTime": "2021-08-12T07:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-12-robotics-startup-miko-raises-28-mn-in-series-b-round-led-by-iifl-amc.md",
       "title": "Robotics Startup Miko Raises $28 Mn In Series B Round led by IIFL AMC",
       "excerpt": "Miko has raised $28 Mn in Series B funding led by IIFL AMC, Mankind Pharma Family Office, Aroa Ventures, and a clutch of global investors",
@@ -1292,58 +1335,6 @@
         "name": "Ecumenical News",
         "domain": "ecumenicalnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-07-new-robotic-arm-promises-to-mind-newtons-third-law.md",
-      "title": "New robotic arm promises to mind Newton's third law",
-      "excerpt": "Don't you hate it how simply moving a robotic arm in a microgravity environment ... To do that, they've employed a device known as a control-moment gyroscope (or CMG) instead of a motor to control ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/2008-08-07-new-robotic-arm-promises-to-mind-newtons-third-law.html",
-      "originalUrl": "https://www.engadget.com/2008-08-07-new-robotic-arm-promises-to-mind-newtons-third-law.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/guGy4Ecs4npzTVhZYQ0dog--~B/aD0zNDY7dz01MTg7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/www.engadget.com/media/2008/08/space-robot-08-07-08.jpg",
-          "width": 518,
-          "height": 346,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -24,19 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "New Study from StrategyR Highlights a $10.3 Billion Global Market for Artificial Intelligence (AI) in Education by 2026"
-    excerpt: "A new market study published b Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence"
-    publishedDateTime: 2021-08-26T12:15:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/new-study-from-strategyr-highlights-a-10-3-billion-global-market-for-artificial-intelligence-ai/article_d52461e0-94c2-51a1-bd20-265b4f3fb339.html"
+  - title: "Global spending on AI systems to reach more than $204 billion in 2025: Report"
+    excerpt: "Investment in AI solutions will accelerate as businesses seek insights, efficiency, and innovation, according to a New IDC Spending Guide."
+    publishedDateTime: 2021-08-31T03:41:00Z
+    webUrl: "https://www.dqindia.com/global-spending-ai-systems-reach-204-billion-2025-report/"
+    ampWebUrl: "https://www.dqindia.com/global-spending-ai-systems-reach-204-billion-2025-report/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/global-spending-ai-systems-reach-204-billion-2025-report/amp/"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 47
+      name: Dataquest
+      domain: dqindia.com
+    quality: 54
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/a0/0a049b04-cb81-5fa9-b6c0-751f1335ae5c/612786c6048ed.image.jpg?resize=710%2C630"
-        width: 710
-        height: 630
+      - url: "https://www.dqindia.com/wp-content/uploads/2020/11/IT-Spending_opt.jpg"
+        width: 850
+        height: 531
         isCached: true
   - title: "Global Speech Recognition Market to Reach $29.28 Billion by 2026, States the Report by Allied Market Research"
     excerpt: "Allied Market Research published a research report on the speech recognition market. The findings of the report states that the global market for speech recognition is expected to reach $29.28 billion by 2026, manifesting a CAGR of 19.9% from 2019 to 2026."
@@ -54,75 +56,28 @@ related:
         width: 800
         height: 418
         isCached: true
-  - title: "Valued to be $4.4 Billion by 2026, Artificial Intelligence (AI) in Call Center Slated for Robust Growth Worldwide"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Call Center - Global Market Trajectory & Analytics\"."
-    publishedDateTime: 2021-08-26T12:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-valued-be-44-billion-2026-artificial-intelligence-ai-/2021/08/26/9437856.htm"
+  - title: "Investment in Artificial Intelligence Solutions Will Accelerate According to a New IDC Spending Guide"
+    excerpt: "Businesses and organizations across all industries are increasing their investment in artificial intelligence (AI) to"
+    publishedDateTime: 2021-08-30T16:05:00Z
+    webUrl: "https://www.enterpriseai.news/2021/08/30/investment-in-artificial-intelligence-solutions-will-accelerate-according-to-a-new-idc-spending-guide/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 33
-    images:
-      - url: "https://mma.prnewswire.com/media/1601532/MCP21174.jpg"
-        width: 400
-        height: 252
-        isCached: true
-  - title: "Valued to be $13.5 Billion by 2026, Artificial Intelligence (AI) in Supply Chain Slated for Robust Growth Worldwide"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Supply Chain - Global Market Trajectory & Analytics\"."
-    publishedDateTime: 2021-08-26T15:43:00Z
-    webUrl: "https://www.lelezard.com/en/news-19969994.html"
+      name: enterpriseai
+      domain: enterpriseai.news
+    quality: 2
+  - title: "Investment in Artificial Intelligence Solutions Will Accelerate as Businesses Seek Insights, Efficiency, and Innovation, According to a New IDC Spendi"
+    excerpt: "Businesses and organizations across all industries are increasing their investment in artificial intelligence (AI) to create competitive advantage through improved customer insight, greater employee efficiency,"
+    publishedDateTime: 2021-08-30T12:30:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=522875"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 32
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
-        width: 421
-        height: 421
-        isCached: true
-  - title: "A $14.9 Billion Global Opportunity for Artificial Intelligence (AI) in Manufacturing by 2026 - New Research from StrategyR"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Manufacturing - Global Market Trajectory & Analytics\"."
-    publishedDateTime: 2021-08-26T13:50:00Z
-    webUrl: "https://www.lelezard.com/en/news-19969717.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 30
-    images:
-      - url: "https://mma.prnewswire.com/media/1601546/Global_Opportunity_for_Artificial_Intelligence_in_Manufacturing.jpg"
-        width: 400
-        height: 387
-        isCached: true
-  - title: "New Study from StrategyR Highlights a $4.2 Billion Global Market for Artificial Intelligence (AI) in Social Media by 2026"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Social Media - Global Market Trajectory & Analytics\"."
-    publishedDateTime: 2021-08-26T17:32:00Z
-    webUrl: "https://www.lelezard.com/en/news-19970367.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 29
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "With Market Size Valued at $2.6 Billion by 2026, it`s a Healthy Outlook for the Global Artificial Intelligence (AI) in Drug Discovery Market"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence"
-    publishedDateTime: 2021-08-26T12:10:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/with-market-size-valued-at-2-6-billion-by-2026-it-s-a-healthy-outlook/article_5d6eaa18-3270-572f-8e6f-90817cffada7.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 17
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/54/c541e310-234d-5b11-ae36-550c5cb8f770/612785f094d46.image.jpg?resize=1013%2C630"
-        width: 1013
-        height: 630
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
         isCached: true
 
 secured: "9DG7e6E28lyOlVVsXreJ8hmbtM69ZCd7kDbZBo3hJabn8OJr8IGHrtkgy6F4xm3epiZ3/fLl34DZTjg4lgpSSRa46J5nRL1F3jlKVtLYRp1bLpywYrnujsmRD9t3KsY/LvwtdMdYzDr/dIQ5c7jEJxOVxATINToY1TGVHGASTWO41vA4mvamT4BIGhRqjELW8tQC5RvBqSmCHN37b1R06zNQjEVlULLxWdurVXMsvwJbam/zOXrpcKwBbxCHYBLWQ5I/EvDXHWkGDk6Gq7rQXuR4HaS0wsvyLFFvDeHPDy6bxRJi0lGr6LUN6JeW6v5wXo/4/BZn4ibmNjnT/KDgZWWWuVSsUmH2JGzLY22Bm40=;cdmSmgGRdRZ3nEP8wAvJWg=="

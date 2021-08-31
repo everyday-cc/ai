@@ -2,6 +2,101 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-06-24-the-globe-and-mail.md",
+      "title": "The Globe and Mail",
+      "excerpt": "Our innovative driverless and autonomous street sweeper ... data analysis systems, artificial intelligence controls, positioning and navigation systems, automatic actuators, and safety assurance ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/TANH-Q/pressreleases/1942106/",
+      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/TANH-Q/pressreleases/1942106/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theglobeandmail.com/resources/assets/meta/facebook-1200x630.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-23T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-internal-whistleblowers-might-just-blow-the-lid-off-some-quite-dicey-ai-self-driving-cars.md",
+      "title": "Internal Whistleblowers Might Just Blow The Lid Off Some Quite Dicey AI Self-Driving Cars",
+      "excerpt": "You can expect that there will be whistleblowers about self-driving cars, something that might seem surprising and altogether unexpected, but it is going to happen nonetheless. Here's why.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/23/internal-whistleblowers-might-just-blow-the-lid-off-some-quite-dicey-ai-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/23/internal-whistleblowers-might-just-blow-the-lid-off-some-quite-dicey-ai-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60cd37770b24e71b5d37d80b%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/23/internal-whistleblowers-might-just-blow-the-lid-off-some-quite-dicey-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/23/internal-whistleblowers-might-just-blow-the-lid-off-some-quite-dicey-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2021-06-23T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-self-driving-truck-maker-embark-to-go-public-via-46-bln-spac-deal.md",
       "title": "Self-driving truck maker Embark to go public via $4.6 bln SPAC deal",
       "excerpt": "Embark Trucks Inc, a self-driving truck developer backed by private equity firm Tiger Global Management, said it had agreed to go public through a merger with blank-check firm Northern Genesis Acquisition Corp.",
@@ -1286,92 +1381,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-chinas-ponyai-plans-to-begin-commercial-driverless-robotaxi-service-in-california-in-2022.md",
-      "title": "China’s Pony.ai plans to begin commercial driverless robotaxi service in California in 2022",
-      "excerpt": "Chinese startup Pony.ai has commenced testing of its driverless vehicles on public roads he the US state of California. This is a prelude to the full rollout of commercial robotaxi services in the US planned for 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/06/17/chinas-pony-ai-commercial-driverless-robotaxi-service-california-2022/",
-      "originalUrl": "https://www.gizmochina.com/2021/06/17/chinas-pony-ai-commercial-driverless-robotaxi-service-california-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2021/05/pony.ai_.png",
-          "width": 731,
-          "height": 393,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-17T01:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-baidu-and-baic-groups-arcfox-brand-collaborate-to-launch-apollo-moon-robotaxis-plan-mass-production-at-affordable-costs.md",
-      "title": "Baidu and BAIC Group's ARCFOX Brand Collaborate to Launch Apollo Moon Robotaxis, Plan Mass Production at Affordable Costs",
-      "excerpt": "Baidu, Inc. is partnering with BAIC Group's EV brand ARCFOX to jointly release Apollo Moon, a new generation of robotaxis that are set to be mass-produced with a per unit manufacturing price of RMB 480,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/baidu-and-baic-groups-arcfox-brand-collaborate-to-launch-apollo-moon-robotaxis-plan",
-      "originalUrl": "https://www.nasdaq.com/press-release/baidu-and-baic-groups-arcfox-brand-collaborate-to-launch-apollo-moon-robotaxis-plan",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-17T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

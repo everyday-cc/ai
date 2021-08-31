@@ -24,19 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "READY, FIRE, AIM: My Personal Struggle with Artificial Intelligence"
-    excerpt: "Artificial Intelligence. Because normal, genuine intelligence seems to be failing us… as anyone can tell, if they’re following the news lately. In a sense, those of us interested in AI are rubbing shoulders with the computer nerds at Facebook and Google,"
-    publishedDateTime: 2021-08-30T11:34:00Z
-    webUrl: "https://pagosadailypost.com/2021/08/30/ready-fire-aim-my-personal-struggle-with-artificial-intelligence/"
+  - title: "SEC To Monitor DeFi With Artificial Intelligence"
+    excerpt: "The United States Securities and Exchange Commission (SEC) signed a deal with blockchain analytics firm AnChain.AI to help its efforts in"
+    publishedDateTime: 2021-08-31T03:30:00Z
+    webUrl: "https://www.benzinga.com/markets/cryptocurrency/21/08/22723083/sec-to-monitor-defi-with-artificial-intelligence"
+    ampWebUrl: "https://www.benzinga.com/amp/content/22723083"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22723083"
     type: article
     provider:
-      name: Pagosa Daily Post
-      domain: pagosadailypost.com
-    quality: 52
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
     images:
-      - url: "https://pagosadailypost.com/wp-content/uploads/2021/08/30-Artificial-Intelligence-720x480.jpg"
-        width: 720
-        height: 480
+      - url: "https://www.benzinga.com/files/images/story/2012/screen_shot_2021-08-30_at_7.30.20_pm.png"
+        width: 1402
+        height: 578
         isCached: true
 
 secured: "mdxXAioh0zqCVbIGt/+Ruyk8AXzuvo+aLsqAlHttBIAHwJpX6cOF5ZuYNLNsRg0j8Lmynzyr2fVoT3okOEEN0Vg4kYQrm6kJZvw66UamG5PjrRbccw+8k3zcV1qrWldx94gZjubS44LON4CSwzJ3jhn0b0WGRIeatcmvDrQgMlH2CdvtdPbj5/iPqeb6so85u+yxksUHTMQitt4e/ghjOAJCQFIv1jnV062EOgreSEZyY/aFiqwYDyFrAFi0KzQ7af3eDZJ7WKAbuQxdgXcgF2TXgPkU46TBMw/vcJRZ+9UhOR6dYXzQXShG9kcihF+Jrr4X7n3jY4yA/jaVRBK5A0bAI2OqxUAf5GAxh+N2oRM=;lV/5Pgz1VEThx3JpxinRqA=="

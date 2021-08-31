@@ -7,7 +7,7 @@ originalUrl: "https://www.channelnewsasia.com/business/rent-robot-silicon-valley
 webUrl: "https://www.channelnewsasia.com/business/rent-robot-silicon-valleys-new-answer-labour-shortage-smaller-us-factories-2137457"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -25,52 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Factbox-Investors are betting on rent-a-robot startups in Silicon ValleyÂ"
-    excerpt: "Silicon Valley has a new pitch for small U.S. manufacturers struggling with hiring workers but wary of the high costs of high tech: rent-a-robot. Much of the initial risk and cost are taken on by the robot companies."
-    publishedDateTime: 2021-08-26T10:29:00Z
-    webUrl: "https://www.metro.us/factbox-investors-are-betting-on/"
-    ampWebUrl: "https://www.metro.us/factbox-investors-are-betting-on/amp/"
-    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/factbox-investors-are-betting-on/amp/"
-    type: article
-    provider:
-      name: Metro US
-      domain: metro.us
-    quality: 58
-    images:
-      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEH7P0DO-BASEIMAGE.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Rent-a-robot: Silicon Valley’s new answer to the labor shortage in smaller U.S. factories"
-    excerpt: "Silicon Valley has a new pitch to persuade small companies to automate: rent-a-robot. Better technology and the need to pay higher wages to humans have produced a surge in sales of robots to big companies all across America."
-    publishedDateTime: 2021-08-26T10:14:00Z
-    webUrl: "https://www.metro.us/rent-a-robot-silicon-valleys-new/"
-    ampWebUrl: "https://www.metro.us/rent-a-robot-silicon-valleys-new/amp/"
-    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/rent-a-robot-silicon-valleys-new/amp/"
-    type: article
-    provider:
-      name: Metro US
-      domain: metro.us
-    quality: 50
-    images:
-      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2021binary_LYNXMPEH7P0CY-BASEIMAGE.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Factbox-Investors are betting on rent-a-robot startups in Silicon Valley"
-    excerpt: "Silicon Valley has a new pitch for small U.S. manufacturers struggling with hiring workers but wary of the high costs"
-    publishedDateTime: 2021-08-26T10:27:00Z
-    webUrl: "https://kelo.com/2021/08/26/factbox-investors-are-betting-on-rent-a-robot-startups-in-silicon-valley/"
-    type: article
-    provider:
-      name: KELO
-      domain: kelo.com
-    quality: 38
-    images:
-      - url: "https://storage.googleapis.com/media.mwcradio.com/mimesis/2021-08/26/2021-08-26T102946Z_1_LYNXMPEH7P0DO_RTROPTP_3_USA-ECONOMY-ROBOTS.JPG"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Rent-A-Robot: Silicon Valley’s New Answer To The Labor Shortage In Smaller U.S. Factories"
     excerpt: "Silicon Valley has a new pitch to persuade small companies to automate: rent-a-robot. Better technology and the need to pay higher wages to humans have"
     publishedDateTime: 2021-08-27T07:46:00Z
@@ -84,20 +38,6 @@ related:
       - url: "https://i0.wp.com/masscentral.com/wp-content/uploads/2021/08/ai-robots-post.jpg?fit=600%2C400&#038;ssl=1"
         width: 600
         height: 400
-        isCached: true
-  - title: "Rent-a-robot: Silicon Valleyâ€™s new answer to the labor shortage in smaller U.S. factories"
-    excerpt: "Silicon Valley has a new pitch to persuade small companies to automate: rent-a-robot. Better technology and the need to pay higher wages to humans have produced a surge in sales of robots to big companies all across America."
-    publishedDateTime: 2021-08-26T10:14:00Z
-    webUrl: "https://kdal610.com/2021/08/26/rent-a-robot-silicon-valleys-new-answer-to-the-labor-shortage-in-smaller-u-s-factories/"
-    type: article
-    provider:
-      name: KDAL 610
-      domain: kdal610.com
-    quality: 29
-    images:
-      - url: "https://storage.googleapis.com/media.mwcradio.com/mimesis/2021-08/26/2021-08-26T101348Z_1_LYNXMPEH7P0D6_RTROPTP_3_USA-ROBOTS-MANUFACTURING.JPG"
-        width: 800
-        height: 600
         isCached: true
 
 secured: "ufsobnvvkd5h+5HIxGUJf8N1WMcjRwm2ezuxyGfGqdztIUj0xMd29GNza/1KxfnsHiPfq8nuiLswcu1REKXppGvbiLZBcZtP0kCnqpf8MAqmPF2g8XedVXwq6ychIaA+BBkeSyXORmwVniliQ1o0kJ+CLFawdRF7rIrwsfB3aqKXCR8bdL2ZTipputoY35Uj4D//iSS7FIitTK6KNcIloSLF6zmW1mk7iTo1QqI8YbOeksjmyH9M7mLuvS4leQp39oCfDZaqpuP7jd7nwPREMKTc4ZwS3jlD90g65EAedlU++DsBUw7IWjC4n4/y2OrLF5hYQc/HpuV2WBr4NLtHYf77D0nMJ+n2W9Rzn2H7nqjgLeCMQNln+2hEIL4Lsj5BbFbrCsscCRO6dtMWS+NQvaTqbcPuXOCGddYA5/1ATLsgSJykh6K0TmBevOv2JYJyW7WKpngJyOkC7jsJWRFFQGbeXqg6N0AxUef5oHNpkfd8ax2evlPrMdIbQq9WacEmD8MD5Sd4eQPDXWVthCGvkQ==;7DkRTTPDw80E1zgNIDHLoA=="

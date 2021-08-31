@@ -2,6 +2,237 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-08-17-african-fintech-pngme-raises-15m-for-its-financial-data-infrastructure-platform.md",
+      "title": "African fintech Pngme raises $15M for its financial data infrastructure platform",
+      "excerpt": "Unbundling financial data through APIs and driving data-driven insights with value-add products in Africa keeps getting more exciting as major players continue to raise more money for scale. Less than a year after its $3 million seed round,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/08/17/african-fintech-pngme-raises-15m-for-its-financial-data-infrastructure-platform/",
+      "originalUrl": "https://techcrunch.com/2021/08/17/african-fintech-pngme-raises-15m-for-its-financial-data-infrastructure-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/85237365-BCDC-4C78-B42B-91B00D15C6C0.jpeg?w=887",
+          "width": 887,
+          "height": 508,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/08/17/african-fintech-pngme-raises-15m-for-its-financial-data-infrastructure-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/17/african-fintech-pngme-raises-15m-for-its-financial-data-infrastructure-platform/amp/",
+      "publishedDateTime": "2021-08-17T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-moloco-raises-150m-series-c-led-by-tiger-global-at-a-15b-valuation.md",
+      "title": "MOLOCO raises $150M Series C led by Tiger Global at a $1.5B valuation",
+      "excerpt": "MOLOCO, an adtech startup that uses machine learning to build mobile campaigns, announced today it has raised $150 million in new Series C funding led by Tiger Global Management, taking its valuation to $1.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/08/17/moloco-raises-150m-series-c-led-by-tiger-global-at-a-1-5b-valuation/",
+      "originalUrl": "https://techcrunch.com/2021/08/17/moloco-raises-150m-series-c-led-by-tiger-global-at-a-1-5b-valuation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 237,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1271131179.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/08/17/moloco-raises-150m-series-c-led-by-tiger-global-at-a-1-5b-valuation/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/17/moloco-raises-150m-series-c-led-by-tiger-global-at-a-1-5b-valuation/amp/",
+      "publishedDateTime": "2021-08-17T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-a-big-hole-and-cutting-edge-ideas-as-osf-healthcare-begins-work-on-new-cancer-institute.md",
+      "title": "A big hole and cutting-edge ideas as OSF HealthCare begins work on new Cancer Institute",
+      "excerpt": "Once the proton beam is installed in Peoria, it will be only the second in Illinois — there is currently one in Warrenville.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pjstar.com/story/business/2021/08/17/new-cancer-institute-peoria-bringing-proton-beam-therapy-osf/8151382002/",
+      "originalUrl": "https://www.pjstar.com/story/business/2021/08/17/new-cancer-institute-peoria-bringing-proton-beam-therapy-osf/8151382002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/08/16/NJOS/b223fc39-10ec-443a-8d7e-561daa22f8ea-CancerInstitute1.jpg?auto=webp&crop=6191,3483,x0,y629&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.pjstar.com/amp/8151382002",
+      "cdnAmpWebUrl": "https://amp-pjstar-com.cdn.ampproject.org/c/s/amp.pjstar.com/amp/8151382002",
+      "publishedDateTime": "2021-08-17T03:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Journal Star",
+        "domain": "pjstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-ai-startup-mate-labs-to-digitally-transform-luminous-power-technologies-supply-chain.md",
+      "title": "AI startup Mate Labs to digitally transform Luminous Power Technologies' supply chain",
+      "excerpt": "Mate Labs' flagship product Mateverse is a full-scale AI and ML-based forecasting platform that can dynamically predict end-customer demands while avoiding inefficiencies caused by supply and demand misalignment across business operations.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/tech-bytes/ai-startup-mate-labs-to-digitally-transform-luminous-power-technologies-supply-chain/articleshow/85398526.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/tech-bytes/ai-startup-mate-labs-to-digitally-transform-luminous-power-technologies-supply-chain/articleshow/85398526.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-2159821,msid-85398512/ai.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/tech-bytes/ai-startup-mate-labs-to-digitally-transform-luminous-power-technologies-supply-chain/amp_articleshow/85398526.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/tech-bytes/ai-startup-mate-labs-to-digitally-transform-luminous-power-technologies-supply-chain/amp_articleshow/85398526.cms",
+      "publishedDateTime": "2021-08-17T03:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-explainer-western-states-face-first-federal-water-cuts.md",
+      "title": "EXPLAINER: Western states face first federal water cuts",
+      "excerpt": "U.S. officials on Monday declared the first-ever water shortage from a river that serves 40 million people in the West, triggering cuts to some Arizona farmers next year amid a gripping drought. Water levels at the largest reservoir on the Colorado River — Lake Mead — have fallen to record lows.",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattlepi.com/news/article/EXPLAINER-Western-states-face-first-federal-16389204.php",
+      "originalUrl": "https://www.seattlepi.com/news/article/EXPLAINER-Western-states-face-first-federal-16389204.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.seattlepi.com/news/amp/EXPLAINER-Western-states-face-first-federal-16389204.php",
+      "cdnAmpWebUrl": "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/EXPLAINER-Western-states-face-first-federal-16389204.php",
+      "publishedDateTime": "2021-08-17T03:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "seattlepi.com",
+        "domain": "seattlepi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-17-solve-your-toughest-business-problems-with-ai-and-machine-learning.md",
       "title": "Solve your toughest business problems with AI and machine learning ",
       "excerpt": "Today, AI and machine learning are enabling data-driven organizations to accelerate their journey to insights and decisions. With all the latest advancements, AI is no longer limited to only those with deep expertise or a cache of data scientists, and many organizations can now adopt AI and machine learning",
@@ -712,6 +943,40 @@
       ]
     },
     {
+      "path": "_news/2021-08-17-graph-based-natural-language-processing-and-information-retrieval.md",
+      "title": "Graph-based Natural Language Processing and Information Retrieval",
+      "excerpt": "Graph theory and the fields of natural language processing and information retrieval are well-studied disciplines. Traditionally, these areas have been perceived as distinct, with different algorithms, different applications and different potential end-users.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/pg/academic/subjects/computer-science/artificial-intelligence-and-natural-language-processing/graph-based-natural-language-processing-and-information-retrieval?format=HB&isbn=9780521896139",
+      "originalUrl": "https://www.cambridge.org/pg/academic/subjects/computer-science/artificial-intelligence-and-natural-language-processing/graph-based-natural-language-processing-and-information-retrieval?format=HB&isbn=9780521896139",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-16T19:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-17-diebold-voting-machine-failures-found-across-state-during-new-hampshire-primary.md",
       "title": "Diebold Voting Machine Failures Found Across State During New Hampshire Primary",
       "excerpt": "Such data, combined with ... would protect against the hack described above. Given the sensitive vulnerability of these systems, it's troubling that in New Hampshire last week, reports indicate that LHS employees may have had regular access to memory ...",
@@ -890,275 +1155,6 @@
         "Microsoft AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-besieging-gpu-who-will-be-the-next-overlord-of-ai-computing-after-nvidia.md",
-      "title": "Besieging GPU: Who Will Be the Next Overlord of AI Computing After NVIDIA?",
-      "excerpt": "Briefing: This article will introduce several AI chip companies with unique technologies. They either have advanced computing concepts, or have the top architects. These AI chips with new architectures are destroying half of the GPU's world like the magical Thanos Gloves.",
-      "sourceUrl": null,
-      "webUrl": "https://www.brantfordexpositor.ca/newsfile/92799-besieging-gpu-who-will-be-the-next-overlord-of-ai-computing-after-nvidia",
-      "originalUrl": "https://www.brantfordexpositor.ca/newsfile/92799-besieging-gpu-who-will-be-the-next-overlord-of-ai-computing-after-nvidia",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://orders.newsfilecorp.com/files/8203/92799_9d7ca129d49838cd_001.jpg",
-          "width": 550,
-          "height": 309,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-16T12:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Brantford Expositor",
-        "domain": "brantfordexpositor.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-researchers-fooled-ai-into-ignoring-stop-signs-using-a-cheap-projector.md",
-      "title": "Researchers fooled AI into ignoring stop signs using a cheap projector",
-      "excerpt": "A team of researchers demonstrated a novel attack on AI vision systems using nothing but a laptop and a projector. What does this mean for driverless cars?",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/researchers-tricked-ai-ignoring-stop-signs-using-cheap-projector",
-      "originalUrl": "https://thenextweb.com/news/researchers-tricked-ai-ignoring-stop-signs-using-cheap-projector",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2Fstopattack.jpg&signature=3ff95e62e62b4f1c42d18ca4e0b2b0d3",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-16T11:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-sales-fintech-seismic-pushes-valuation-to-3-billion.md",
-      "title": "Sales fintech Seismic pushes valuation to $3 billion",
-      "excerpt": "Seismic, a fintech designed to personalize sales interactions, doubled its valuation in a year after fresh funding and a new acquisition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.investmentnews.com/sales-fintech-seismic-pushes-valuation-to-3-billion-210373",
-      "originalUrl": "https://www.investmentnews.com/sales-fintech-seismic-pushes-valuation-to-3-billion-210373",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s32566.pcdn.co/wp-content/uploads/2021/07/applovin-Tech-social-digital-mobile-.jpeg.optimal.jpeg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.investmentnews.com/sales-fintech-seismic-pushes-valuation-to-3-billion-210373/amp",
-      "cdnAmpWebUrl": "https://www-investmentnews-com.cdn.ampproject.org/c/s/www.investmentnews.com/sales-fintech-seismic-pushes-valuation-to-3-billion-210373/amp",
-      "publishedDateTime": "2021-08-16T11:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestmentNews",
-        "domain": "investmentnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-upstart-holdings-vs-360-finance-which-fintech-stock-is-a-better-choice.md",
-      "title": "Upstart Holdings vs. 360 Finance: Which FinTech Stock is a Better Choice?",
-      "excerpt": "Fintech companies have been in the limelight owing to a significant increase in remote financial transactions amid the COVID-19 pandemic. The trend is expected to continue in the foreseeable future thanks to rapid digitalization.",
-      "sourceUrl": null,
-      "webUrl": "https://stocknews.com/news/qfin-upst-upstart-holdings-vs-360-finance-which-fintech-stock-is-a/",
-      "originalUrl": "https://stocknews.com/news/qfin-upst-upstart-holdings-vs-360-finance-which-fintech-stock-is-a/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://stocknews.com/single-snippet-page/amp/",
-      "cdnAmpWebUrl": "https://stocknews-com.cdn.ampproject.org/c/s/stocknews.com/single-snippet-page/amp/",
-      "publishedDateTime": "2021-08-16T11:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stock News",
-        "domain": "stocknews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-the-collective-benefits-of-artificial-intelligence-and-machine-learning.md",
-      "title": "The Collective Benefits Of Artificial Intelligence And Machine Learning",
-      "excerpt": "T he COVID-19 pandemic has pulled together a variety of factors that have brought the opportunities of artificial intelligence (AI) and machine learning (ML) into sharp focus acro",
-      "sourceUrl": null,
-      "webUrl": "https://www.hellenicshippingnews.com/the-collective-benefits-of-artificial-intelligence-and-machine-learning/",
-      "originalUrl": "https://www.hellenicshippingnews.com/the-collective-benefits-of-artificial-intelligence-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hellenicshippingnews.com/wp-content/uploads/2021/06/plane_view_290_242.jpg",
-          "width": 290,
-          "height": 242,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hellenicshippingnews.com/the-collective-benefits-of-artificial-intelligence-and-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://www-hellenicshippingnews-com.cdn.ampproject.org/c/s/www.hellenicshippingnews.com/the-collective-benefits-of-artificial-intelligence-and-machine-learning/amp/",
-      "publishedDateTime": "2021-08-16T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hellenic Shipping News Worldwide",
-        "domain": "hellenicshippingnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-16-machine-learning-at-the-edge-with-aws-outposts-and-amazon-sagemaker.md",
-      "title": "Machine Learning at the Edge with AWS Outposts and Amazon SageMaker",
-      "excerpt": "As customers continue to come up with new use-cases for machine learning, data gravity is as important as ever. Where latency and network connectivity is not an issue, generating data in one location (such as a manufacturing facility) and sending it to the cloud for inference is acceptable for some use-cases.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/machine-learning-at-the-edge-with-aws-outposts-and-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/machine-learning-at-the-edge-with-aws-outposts-and-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 201,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/10/ML-2440-img1-1260x592.png",
-          "width": 1260,
-          "height": 592,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-16T10:40:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

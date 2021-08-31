@@ -9,8 +9,8 @@ ampWebUrl: "https://www.barrons.com/amp/articles/tesla-crashes-into-police-cruis
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-crashes-into-police-cruiser-self-driving-cars-have-to-learn-how-to-drive-51630360830"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: Barron's
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla's Full Self Driving system 'not great,' admits Musk"
-    excerpt: "Tesla CEO Elon Musk has admitted that the Full Self-Driving system is not that great, adding that the company is trying for a single tech platform for both highway and city streets to make"
-    publishedDateTime: 2021-08-26T10:39:00Z
-    webUrl: "https://www.sentinelassam.com/international/teslas-full-self-driving-system-not-great-admits-musk-551968"
-    ampWebUrl: "https://www.sentinelassam.com/amp/international/teslas-full-self-driving-system-not-great-admits-musk-551968"
-    cdnAmpWebUrl: "https://www-sentinelassam-com.cdn.ampproject.org/c/s/www.sentinelassam.com/amp/international/teslas-full-self-driving-system-not-great-admits-musk-551968"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: sentinelassam.com
-    quality: 74
-    images:
-      - url: "https://assets.sentinelassam.com/h-upload/2021/08/26/250768-elon-musk.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "What the feds’ investigation into Tesla’s Autopilot means for future of self-driving cars"
     excerpt: "In addition to its Autopilot capabilities, Tesla has been offering what it calls “full self-driving” features that include autopark and auto lane change. Since its first offering of the Autopilot system and other self-driving features, Tesla has ..."
     publishedDateTime: 2021-08-29T19:56:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gadgetsnow.com/tech-news/xiaomi-to-acquire-self-driving-
 cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/xiaomi-to-acquire-self-driving-startup-deepmotion/amp_articleshow/85682575.cms"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Xiaomi acquires self-driving tech startup Deepmotion"
-    excerpt: "Autonomous driving technologies are the most crucial part of intelligent and electric vehicles, president Wang said."
-    publishedDateTime: 2021-08-26T09:59:00Z
-    webUrl: "https://technode.com/2021/08/26/xiaomi-acquires-self-driving-tech-startup-deepmotion/"
-    ampWebUrl: "https://technode.com/2021/08/26/xiaomi-acquires-self-driving-tech-startup-deepmotion/"
-    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/08/26/xiaomi-acquires-self-driving-tech-startup-deepmotion/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 44
-    images:
-      - url: "https://technode.com/wp-content/uploads/2019/10/xiaomi7.jpg"
-        width: 1620
-        height: 1080
-        isCached: true
   - title: "Phone maker Xiaomi propels EV ambitions; to buy self-driving tech startup"
     excerpt: "Xiaomi has already pledged an initial investment of $10 billion over the next decade in the field of electric vehicles..The smartphone maker has started a hiring spree of 500 engineers for the EV project."
     publishedDateTime: 2021-08-26T15:58:00Z

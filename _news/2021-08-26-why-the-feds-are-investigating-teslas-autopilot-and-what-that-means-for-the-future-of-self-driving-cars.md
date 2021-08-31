@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla's Full Self Driving system 'not great,' admits Musk"
-    excerpt: "Tesla CEO Elon Musk has admitted that the Full Self-Driving system is not that great, adding that the company is trying for a single tech platform for both highway and city streets to make"
-    publishedDateTime: 2021-08-26T10:39:00Z
-    webUrl: "https://www.sentinelassam.com/international/teslas-full-self-driving-system-not-great-admits-musk-551968"
-    ampWebUrl: "https://www.sentinelassam.com/amp/international/teslas-full-self-driving-system-not-great-admits-musk-551968"
-    cdnAmpWebUrl: "https://www-sentinelassam-com.cdn.ampproject.org/c/s/www.sentinelassam.com/amp/international/teslas-full-self-driving-system-not-great-admits-musk-551968"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: sentinelassam.com
-    quality: 74
-    images:
-      - url: "https://assets.sentinelassam.com/h-upload/2021/08/26/250768-elon-musk.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Tesla Crashes Into Police Cruiser. Self-Driving Cars Have To Learn How To Drive."
     excerpt: "The stock brushed off the crash, which happened over the weekend in Florida. Still, the wreck shows that true self driving is hard to achieve."
     publishedDateTime: 2021-08-30T22:00:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://pagosadailypost.com/2021/08/30/ready-fire-aim-my-personal-
 webUrl: "https://pagosadailypost.com/2021/08/30/ready-fire-aim-my-personal-struggle-with-artificial-intelligence/"
 type: article
 quality: 52
-heat: 62
+heat: 52
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 720
     height: 480
     isCached: true
-
-related:
-  - title: "Fighting fake news with AI"
-    excerpt: "PETALING JAYA: To combat the proliferation of fake news, companies across the globe are resorting to artificial intelligence (AI) programs which are able to analyse and flag disinformation. Firms like AlphaVu and Logically use these virtual sleuths to mine ..."
-    publishedDateTime: 2021-08-29T23:42:00Z
-    webUrl: "https://www.thestar.com.my/news/nation/2021/08/30/fighting-fake-news-with-ai"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 37
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/08/30/1273994.jpg"
-        width: 1240
-        height: 892
-        isCached: true
 
 secured: "rNz/zc7d7F1EP+DrO6D5Hc8kY1MoSQCD40PpHmn2NIUuajbcbxPpCpPEDoVN/hBSETTZ2fr8onB2YHqTjKrQO8/yN/R/VNg9EgBCfJhTUrIk5Vv8n+mUbrQPRhZdgd4rMAu3hJrzGVDuN8THGpjEhr+/0ZhNmOqsePjZpmYJhlq0+2ptrB1aQkmyn9DmuPSYTj4Q3X5tuvG1M57oWoh4mhok8Kk7JXLsP2RbYSdcJuA3+Ni5Swt6e53MnI4bwXdDCxkpm7xPiHeWC5Pv9jJ2q16jVhpaC1mFVdsfRdqn4r0D4DdrCTuwiF+yHHGo8J78kFFyFuA449zT/SU+5HMOVMG0PmE+H5QHrwT2QxAtRgw=;35iFuISnvOZo4/DS0OZUPg=="
 ---
