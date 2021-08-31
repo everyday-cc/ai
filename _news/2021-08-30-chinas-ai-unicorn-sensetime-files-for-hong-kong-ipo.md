@@ -9,8 +9,8 @@ ampWebUrl: "https://technode.com/2021/08/30/chinas-ai-unicorn-sensetime-files-fo
 cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/08/30/chinas-ai-unicorn-sensetime-files-for-hong-kong-ipo/"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: TechNode
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "SenseTime, artificial intelligence platform founded by CUHK professors, files to raise at least US$2 billion in Hong Kong IPO"
-    excerpt: "SenseTime Group , China’s largest artificial intelligence (AI) company, filed to go public in Hong Kong on Friday in one of the biggest technology offerings since Beijing cracked down on the country’s tech sector last month,"
-    publishedDateTime: 2021-08-27T16:15:00Z
-    webUrl: "https://www.scmp.com/business/banking-finance/article/3146708/sensetime-artificial-intelligence-platform-founded-cuhk"
-    ampWebUrl: "https://amp.scmp.com/business/banking-finance/article/3146708/sensetime-artificial-intelligence-platform-founded-cuhk"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/banking-finance/article/3146708/sensetime-artificial-intelligence-platform-founded-cuhk"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 77
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/08/28/df1bdd3e-04b5-11ec-a83e-ec0670db1017_image_hires_001515.jpg?itok=mC54EoqE&v=1630080929"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "SoftBank-backed AI startup SenseTime files for Hong Kong IPO"
     excerpt: "In the first half of 2021, the China-based startup’s revenue increased 2x while its gross profit margin went slightly up to 73%."
     publishedDateTime: 2021-08-30T10:13:00Z
@@ -64,20 +48,6 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2021/08/5e724d8cb14ec_compress.jpg"
         width: 792
         height: 528
-        isCached: true
-  - title: "Chinese AI firm SenseTime applies for $12b IPO in Hong Kong"
-    excerpt: "Chinese artificial intelligence (AI) company SenseTime has submitted an application to the Hong Kong Exchanges and Clearing (HKEX) for a proposed IPO that may become the world's largest in the field of AI with a valuation of $12 billion. AI companies have ..."
-    publishedDateTime: 2021-08-29T13:43:00Z
-    webUrl: "https://www.globaltimes.cn/page/202108/1232758.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 37
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2021/2021-08-23/41c23040-0432-4bd5-85a5-fe0f8060b40f.jpeg"
-        width: 800
-        height: 480
         isCached: true
   - title: "Non-Profit Federated Learning Consortium (FLC) for Decentralized AI to Launch in Hong Kong, Receives $2M Pledge"
     excerpt: "HONG KONG, CHINA / ACCESSWIRE / August 27, 2021 / Federated Learning Consortium (FLC) is a global non-profit organization headquartered in Hong"

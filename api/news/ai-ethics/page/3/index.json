@@ -2,50 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-07-16-why-we-need-engineers-who-study-ethics-as-much-as-maths.md",
-      "title": "Why we need engineers who study ethics as much as maths",
-      "excerpt": "The Miami apartment collapse is a grim reminder of why engineering matters, and why comprehensive education in ethics should be embedded in the training of engineers.",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/why-we-need-engineers-who-study-ethics-as-much-as-maths-161356",
-      "originalUrl": "https://theconversation.com/why-we-need-engineers-who-study-ethics-as-much-as-maths-161356",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/404650/original/file-20210606-80132-z4b58d.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
-          "width": 320,
-          "height": 213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/why-we-need-engineers-who-study-ethics-as-much-as-maths-161356",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/why-we-need-engineers-who-study-ethics-as-much-as-maths-161356",
-      "publishedDateTime": "2021-07-15T12:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Math for AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-15-building-ethical-ai-products-can-put-businesses-at-a-competitive-advantage.md",
       "title": "Building ethical A.I. products can put businesses at a competitive advantage",
       "excerpt": "They are able to automate repetitive tasks, analyze large volumes of data, recommend content, translate languages and even play games. But the current scope of things that AI can do is relatively ...",
@@ -1429,6 +1385,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-scaling-blue-collar-ai-ethically-and-sustainably.md",
+      "title": "Scaling Blue-Collar AI Ethically And Sustainably",
+      "excerpt": "Developing an AI labor force is similar to building a pyramid. And the mortar holding the entire structure together is ethics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/30/scaling-blue-collar-ai-ethically-and-sustainably/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/30/scaling-blue-collar-ai-ethically-and-sustainably/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60db5c3b6347e2639bfd526b%2F0x0.jpg",
+          "width": 1200,
+          "height": 692,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/30/scaling-blue-collar-ai-ethically-and-sustainably/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/30/scaling-blue-collar-ai-ethically-and-sustainably/amp/",
+      "publishedDateTime": "2021-06-30T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

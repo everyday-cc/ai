@@ -43,7 +43,7 @@ related:
   - title: "Israeli sales tech startup nets $15m in Eight Roads Ventures-led round"
     excerpt: "Walnut, an Israel-based sales experience startup, has raised US$15 million in a series A round led by Eight Roads Ventures. Through its no-code platform, the startup aims to make the process of creating demos more efficient,"
     publishedDateTime: 2021-08-31T13:58:00Z
-    webUrl: "https://www.techinasia.com/israeli-sales-tech-startup-nets-15m-series-a-eight-road-ventures"
+    webUrl: "https://www.techinasia.com/israeli-sales-tech-startup-nets-15m-series-a-eight-road-ventures?comments=true"
     type: article
     provider:
       name: Techinasia

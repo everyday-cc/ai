@@ -27,36 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "US federal agencies plan to increase facial recognition use, GAO report says"
-    excerpt: "Three-quarters of U.S. federal agencies surveyed for a Government Accountability Office (GAO) report are already using facial recognition."
-    publishedDateTime: 2021-08-26T21:42:00Z
-    webUrl: "https://www.gao.gov/products/gao-21-526"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 138
-    images:
-      - url: "https://www.gao.gov/assets/styles/hero_l/public/extracts/c1917b8fbd51f63d6fde064a0ffb86f1/d21526-FF-Image.png?itok=U7z95JiA"
-        width: 1400
-        height: 500
-        isCached: true
-  - title: "The Free-Speech Case for Facial Recognition | Opinion"
-    excerpt: "The right to communicate anonymously is important, but most would agree it shouldn't extend to people who commit violent crimes."
-    publishedDateTime: 2021-08-27T10:00:00Z
-    webUrl: "https://www.newsweek.com/free-speech-case-facial-recognition-opinion-1623006"
-    ampWebUrl: "https://www.newsweek.com/free-speech-case-facial-recognition-opinion-1623006?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/free-speech-case-facial-recognition-opinion-1623006?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 91
-    images:
-      - url: "https://d.newsweek.com/en/full/1880796/charlottesville-rally-anniversary.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "US government agencies plan to increase facial recognition"
     excerpt: "The majority of US federal agencies are using some form of facial recognition technology, according to a study by the Government Accountability Office (GAO)."
     publishedDateTime: 2021-08-27T10:45:00Z
@@ -89,44 +59,19 @@ related:
         width: 731
         height: 411
         isCached: true
-  - title: "Amazon Suspends Police Use of Its Facial Recognition"
-    excerpt: "Amazon did not respond to questions about it. Civil rights groups and Amazon's own employees have pushed the company to stop selling its technology, called Rekognition, to government agencies, saying it could be used to invade privacy and target people of ..."
-    publishedDateTime: 2021-08-28T00:01:00Z
-    webUrl: "https://www.courthousenews.com/amazon-suspends-police-use-of-its-facial-recognition/"
-    ampWebUrl: "https://www.courthousenews.com/amazon-suspends-police-use-of-its-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/amazon-suspends-police-use-of-its-facial-recognition/amp/"
+  - title: "Team to monitor babies in the NICU with facial recognition tech"
+    excerpt: "A team of researchers from the University of South Australia (UniSA) has created artificial intelligence (AI)-based facial recognition technology for monitoring premature babies in neonatal intensive care units (NICUs)."
+    publishedDateTime: 2021-08-29T17:07:00Z
+    webUrl: "https://insights.globalspec.com/article/17245/team-to-monitor-babies-in-the-nicu-with-facial-recognition-tech"
     type: article
     provider:
-      name: Courthouse News Service
-      domain: courthousenews.com
-    quality: 41
-  - title: "The government is going to use facial recognition more. That’s bad."
-    excerpt: "A report from the GAO traces the use of facial-recognition tech among US government agencies. Here's what it found."
-    publishedDateTime: 2021-08-28T11:00:00Z
-    webUrl: "https://www.popsci.com/technology/gao-report-facial-recognition-federal-government/"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 41
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 39
     images:
-      - url: "https://www.popsci.com/uploads/2021/08/27/michael-daniels-yHh07IGJAJM-unsplash.jpeg"
-        width: 2000
-        height: 1500
-        isCached: true
-  - title: "US Agencies Increasing Use of Facial Recognition Tech"
-    excerpt: "At least 10 U.S. government agencies are planning to increase the use of facial recognition technologies by 2023, according to a GAO report. The growing utilization"
-    publishedDateTime: 2021-08-27T17:46:00Z
-    webUrl: "https://www.govinfosecurity.com/us-agencies-increasing-use-facial-recognition-tech-a-17393"
-    type: article
-    provider:
-      name: HHS
-      domain: govinfosecurity.com
-    quality: 41
-    images:
-      - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/us-agencies-increasing-use-facial-recognition-tech-showcase_image-2-a-17393.jpg"
-        width: 860
-        height: 520
+      - url: "https://insights.globalspec.com/images/assets/245/17245/UNISA.png"
+        width: 1159
+        height: 470
         isCached: true
   - title: "Government agencies used Clearview facial recognition in 24 countries"
     excerpt: "Dozens of government-affiliated agencies around the world, including police departments and universities, have trialled Clearview AI's facial-recognition system, according to BuzzFeed News. The publication reviewed internal data from Clearview and found that 88 government agencies in 24 countries (not including the USA) had used the firm's facial recognition system,"

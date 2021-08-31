@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/29/how-to-make-ai-more-ethical/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/29/how-to-make-ai-more-ethical/amp/"
 type: article
 quality: 104
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -61,6 +61,17 @@ related:
         width: 1181
         height: 886
         isCached: true
+  - title: "Why Businesses Benefit From Building Ethical AI"
+    excerpt: "Compatible Artificial Intelligence (CHAI) Throughout the pandemic, many businesses have turned to artificial intelligence at"
+    publishedDateTime: 2021-08-31T14:21:00Z
+    webUrl: "https://www.nasdaq.com/articles/why-businesses-benefit-from-building-ethical-ai-2021-08-31"
+    ampWebUrl: "https://www.nasdaq.com/articles/why-businesses-benefit-from-building-ethical-ai-2021-08-31?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-businesses-benefit-from-building-ethical-ai-2021-08-31?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 84
   - title: "How To Create An AI Startup"
     excerpt: "Artificial intelligence is the future of the world, according to many experts. With the rise of AI-enabled chatbots, voice assistants, and driverless cars, it’s hard to argue. Here are the essential tips for founding an AI startup."
     publishedDateTime: 2021-08-31T07:24:00Z

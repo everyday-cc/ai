@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/verizon-and-microsoft-team-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/verizon-and-microsoft-team-up-to-offer-edge-cloud-computing-for-businesses/"
 type: article
 quality: 66
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -48,6 +48,15 @@ related:
       name: fintechzoom
       domain: fintechzoom.com
     quality: 32
+  - title: "Verizon starts on-site 5G edge services for Azure private cloud"
+    excerpt: "Verizon announced the availability of an on-premises, private edge compute service with Microsoft Azure, building on their collaboration formed last year. Verizon 5G Edge with Microsoft Azure Stack Edge is a cloud computing platform that brings compute and storage services to the edge of the network at the customer premises."
+    publishedDateTime: 2021-08-31T14:55:00Z
+    webUrl: "https://www.telecompaper.com/news/verizon-starts-on-site-5g-edge-services-for-azure-private-cloud--1395486"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
 secured: "CbkXclYI4UssqenSkrWdJC1kxus6D7rkO2K8AFBxIkPOVjYBOhPhV8C4BLxLssBYlKijv/KnOkoHRoxJ1G94drdLFi+hMwm84y/ANhUCdAJM0+f8rORQsATFgOsLEhPFfyTmObnY3Z0oqr2IgElQEbaKyFO54LxYSxg/Ts23FAyuLWUYXXFGSBNDT/s5f7SeM6jAPKZ75qgi+qc308qcjlQ6zjz44MVPm+EYxCS+ktBoP1NZbo7VwRJIueURfzmEosANQiuWp42DOv+miKl52SYcv31nTT1W3cYhR+oLAfThBBbqQcMrhzXGDZgPid7ltqv5ZB8I0TIkW2eN8AM4moXpDmqmS2eemnMTLMJxhD+OxDRGq4c/L2a7esiA7tPKiKmwyfxGc5O6E3M8dyxXxXnD1o5gg6CyX3eFGHBQQ/HP5MEbXUGJx4chH3K8PSPYbA/ck2iwpWia0UjUstm9foNKTiNVVgpJmJ8fFdwx1hySD/OBMMDEatZK4yCegk733ZTeVTUaPRt1rPb7Lv++fQ==;k1olY9u5pelkbaQW2jZVRQ=="
 ---

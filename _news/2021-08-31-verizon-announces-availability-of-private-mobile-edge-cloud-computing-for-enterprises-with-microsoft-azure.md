@@ -47,6 +47,20 @@ related:
         width: 2200
         height: 1238
         isCached: true
+  - title: "Verizon, Microsoft Azure Roll Out Private Mobile Edge Cloud For Enterprises"
+    excerpt: "Verizon Business and Microsoft debuted Verizon 5G Edge with Microsoft Azure Stack Edge, on-premises, private edge compute solution for enterprises that uses Verizon's private 5G network, On Site 5G."
+    publishedDateTime: 2021-08-31T15:39:00Z
+    webUrl: "https://www.crn.com/news/networking/verizon-microsoft-azure-roll-out-private-mobile-edge-cloud-for-enterprises"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 52
+    images:
+      - url: "https://www.crn.com/resources/026c-131fe7ed6511-86ecc8226b17-1000/cloud-blue.jpg"
+        width: 1500
+        height: 1126
+        isCached: true
   - title: "Microsoft adds literary Chinese to translation service"
     excerpt: "Microsoft has added literary Chinese to its translation service, from the modern Chinese, and the more than 90 other languages and dialects provided by the service. Literary Chinese translation has been integrated into the Microsoft Translator app,"
     publishedDateTime: 2021-08-30T08:14:00Z

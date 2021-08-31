@@ -31,11 +31,27 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2021/08/Rafael_002.jpg?w=1024"
         width: 1024
         height: 544
+        isCached: true
+  - title: "NVIDIA shares expressive speech synthesis research at Interspeech"
+    excerpt: "Developers and creators can access state-of-the-art conversational AI models for expressive speech synthesis to generate voices for characters, virtual assistants and personalized avatars."
+    publishedDateTime: 2021-08-31T14:58:00Z
+    webUrl: "https://www.dqindia.com/nvidia-shares-expressive-speech-synthesis-research-interspeech/"
+    ampWebUrl: "https://www.dqindia.com/nvidia-shares-expressive-speech-synthesis-research-interspeech/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/nvidia-shares-expressive-speech-synthesis-research-interspeech/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 44
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/07/Data-for-AI.jpg"
+        width: 850
+        height: 400
         isCached: true
   - title: "Nvidia Aims vSphere-Integrated AI Software Suite at Enterprise Market"
     excerpt: "The AI leader has designed the software together with VMware to make AI easier for both data scientists and enterprise IT pros."
@@ -50,6 +66,20 @@ related:
       - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/jensen%20huang%20nvidia%20gtc%2020%20keynote%20kitchen.png"
         width: 1413
         height: 736
+        isCached: true
+  - title: "Nvidia projects are helping AI find its human-like voice"
+    excerpt: "Nvidia is presenting multiple speech technology efforts at Interspeech this week, including one to help create more human-sounding AI voices."
+    publishedDateTime: 2021-08-31T14:23:00Z
+    webUrl: "https://www.fierceelectronics.com/electronics/nvidia-helping-ai-find-its-human-like-voice"
+    type: article
+    provider:
+      name: fierceelectronics
+      domain: fierceelectronics.com
+    quality: 39
+    images:
+      - url: "https://qtxasset.com/fierceelectronics/1630421287/Interspeech%20Press%20Graphic.jpg?hpuWXoyncP1AHsu8QCYo2fGwPxvfXhII"
+        width: 1999
+        height: 1024
         isCached: true
   - title: "Nvidia showcases latest research and advances in speech synthesis"
     excerpt: "Nvidia Corp. is closing the gap between synthesized speech and human voices with the launch of its most advanced conversational artificial intelligence models at the Interspeech 2021 conference today."

@@ -7,7 +7,7 @@ originalUrl: "https://fintechnews.sg/54725/australia/australian-fintech-startups
 webUrl: "https://fintechnews.sg/54725/australia/australian-fintech-startups-seek-singapore-investors-to-help-fund-se-asian-expansion/"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 2048
     height: 1136
     isCached: true
-
-related:
-  - title: "How the Indian Diaspora Helps Fuel Fintech Innovation in the UAE"
-    excerpt: "Recent news headlines have underscored the long-standing relationship between fintechs in India and the UAE. This week, we learned that Indian payment solution provider PayMate has teamed up with both Visa and Citi to automate business payments in the UAE."
-    publishedDateTime: 2021-08-27T20:54:00Z
-    webUrl: "https://finovate.com/how-the-indian-diaspora-helps-fuel-fintech-innovation-in-the-uae/"
-    type: article
-    provider:
-      name: finovate.com
-      domain: finovate.com
-    quality: 24
-    images:
-      - url: "https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/pexels-sreenadh-tc-4038084.jpg"
-        width: 1280
-        height: 853
-        isCached: true
 
 secured: "J3xx+XLBaOJ4Fr3x+RvcP3wPwCkcZUU1zdWx61rUgD8ZvQTzj52zefES6JsAkGutvTGh6Ke2bZDyCz55oQodk0wLmVA6Df15x+WAFvZtBi4RbDHgDg9Ag5wx7aHgV8I5fLkfDgVRnpMW0G7D9zKZFPelCK6aPlFLAieSlQ04LJwQFshLtRSMGh0XSKBSICSEE3Adzb4anahPREKzzzeGI4hnVL38ehN1ZT7GHTv2psRZ4Qbf0Ck2zWhf0rwC5BD4LEAclKYOWcmenuM8kehQBL3P/BZ+0ohAt7zMC4lNgc0/SxKPEFJrjOp8c3qq5ylKQdywK3aC8Rx+57od+16CIJ/rp/DitpH/YVWRIOrsIdYWD56bovovYiFRCkbV2HQUj3AHJ9HwjB64454eZ0Rgft7unwsoKjCTBl49J/FHunqj/0ryx+yRkTP068Hy4hZcVgPZhHyDk93+3nlyQjbf69K0y1z2i2JJ+ZbKr4QW//lMmrDHueW9HP1OEdoqSH/O1Rq711dDlvbnT18l9ayrhQ==;0vsJTfptHUDXpB0qTu58Pw=="
 ---

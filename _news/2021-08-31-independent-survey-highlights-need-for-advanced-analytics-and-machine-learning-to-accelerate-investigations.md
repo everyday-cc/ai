@@ -106,6 +106,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Lex Machina's Market-Leading State Court Analytics Driven By The Collection Of State Documents"
+    excerpt: "Lex Machina, a LexisNexis company, takes state court analytics to a new level, driven by Lex Machina's unique combination of"
+    publishedDateTime: 2021-08-31T15:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/lex-machinas-market-leading-state-court-analytics-driven-by-the-collection-of-state-documents-301363025.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 12
+    images:
+      - url: "https://mma.prnewswire.com/media/484883/LexisNexis_Logo.jpg?p=facebook"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Cognigy Launches Conversational AI Analytics Suite to Deliver Actionable Insights From Conversational Data"
     excerpt: "The Cognigy Insights analytics suite will enhance the capabilities of the Cognigy.AI platform to make sense of conversational data and facilitate data-driven optimisation SYDNEY-- ( BUSINESS WIRE )-- Cognigy,"
     publishedDateTime: 2021-08-31T00:53:00Z
@@ -116,6 +130,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "7xXRzMuHDPz86dsksa9/usXU7bukpLN++hLRokoAK0G3/kdgZ+PsMDgnr3WylRID9gxX9ZyNOU0BfzFe30iVEiSb0C3JwV+IAnZotwVVv/p3UN9twHkA75JdJUx2o92rcUDzU9spk2i6uO7JmxfndIoGHr6B40dwmTDJRPfL5uQfUr9gpETXUnZiHhOcUvavtK84rET1E96/tbpvQCrXZDC1XsXA2xk91eaQFSJXDyUqatz0lqY7FBZspvPw0DYA0VDjwshx+yuPQh1Gx2REbN/0eFBmIJ5aXi5HbDrMlV2PLApO00NkwYxJvGWk5mCpINuUvW7AQvIoeBU18sTio3ffrpryYRp+HEzYpWQHZIQ=;xIYknqkrToNBz3tYRimRZg=="
+secured: "BjkKqrBFqbU6ytWsIOtNZNlHtnJ7jBCZZRh/lSRRgm9gcg677UYq3sIuYWh3MCoeBTiy6pZHgp5Y8YO4WPYiCpQN3c58zIfo4jG+bJDXXEa6OPshzrms7FyaKkMksjBeiYQYtiWwql1JNexyaOroKhRLO0QS+Zfp18IaN3QpIh3R9lzrdZuZ/46FbGpb/iTYRx6v8IrcMLDXGXnjYZr1DBVLqbFBZRo0n2xOwqh/QYiXlNpo/2/He8sFNFHizOuj9c3jqSyfcdzXMdvje2oPNapQw3ditCno3DdWB0yWE8WOOugCcWPOF0nUZbgq/a7Abz0tsTzn/ZK0uZRhOGU5ttLBt2Psm5vAcHY4YA3tjIuahH5eWniDA0QDzoLzfnReAPgGJS94AdQebvh/8mEkcEM002e4LZBYvTa8JjYZxIM3Depsqn6TIQFlCUvp5BgwNlKssLYJC+GEbJcEsRA437XqS4cUdYPpqBr4MvRxBL9n15JUazM/n0odA2FkdNUGsLNX1yVreE51mw8zi8GFew==;s4BBXXOI6/BIFTqtb+mAIQ=="
 ---
 

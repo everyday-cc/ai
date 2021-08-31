@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - Facebook AI
+  - AI Hardware
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/07/GettyImages-1208744151.jpg?w=1200&strip=all"

@@ -2,6 +2,144 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-07-24-want-your-unemployment-benefits-you-may-have-to-submit-to-facial-recognition-first.md",
+      "title": "Want your unemployment benefits? You may have to submit to facial recognition first",
+      "excerpt": "After being let go from his job as a software quality-assurance engineer in April, Eric Watkins said he filed for unemployment benefits in Colorado. But he hasn't received a penny of the $6,490 he said he was eligible to receive and he's not sure when he will.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2021/07/23/tech/idme-unemployment-facial-recognition/index.html",
+      "originalUrl": "https://www.msn.com/en-us/money/smallbusiness/want-your-unemployment-benefits-you-may-have-to-submit-to-facial-recognition-first/ar-AAMtC1Y",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 193,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200209224400-20200209-facial-recognition-gfx-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/23/tech/idme-unemployment-facial-recognition/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/23/tech/idme-unemployment-facial-recognition/index.html",
+      "publishedDateTime": "2021-07-23T11:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "com/2021/07/23/tech/idme-unemployment-facial-recognition/index.html",
+        "domain": "com/2021/07/23/tech/idme-unemployment-facial-recognition/index.html",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-07-24-25-states-are-forcing-face-recognition-on-people-filing-for-unemployment.md",
+      "title": "25 States Are Forcing Face Recognition on People Filing for Unemployment",
+      "excerpt": "State labor departments claim that they're using face recognition identity verification to prevent fraud, but you might want to check out the privacy policy.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/25-states-are-forcing-face-recognition-on-people-filing-1847350707",
+      "originalUrl": "https://gizmodo.com/25-states-are-forcing-face-recognition-on-people-filing-1847350707",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/401a169d87d990b688a397d4df93cbd1.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/25-states-are-forcing-face-recognition-on-people-filing-1847350707/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/25-states-are-forcing-face-recognition-on-people-filing-1847350707/amp",
+      "publishedDateTime": "2021-07-23T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-24-how-facial-recognition-went-from-bad-tv-to-big-brother.md",
+      "title": "How facial recognition went from bad TV to Big Brother",
+      "excerpt": "You might not see it, but it sees you. CNN's Jon Sarlin explores the brave new world of facial recognition technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.waaytv.com/content/news/574905042.html",
+      "originalUrl": "https://www.waaytv.com/content/news/574905042.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200228162112-facial-recognition-sarlin-live-video.jpg",
+          "width": 576,
+          "height": 324,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-23T10:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WAAY-TV",
+        "domain": "waaytv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-23-scientist-computer-vision-the-hague.md",
       "title": "Scientist Computer Vision | The Hague",
       "excerpt": "How do you want to contribute to tomorrow's world? How big can your impact be? Come and work at TNO and envision it. The selection process comprises two interview rounds. In a final meeting we will discuss the terms of employment and your tailored benefits ...",
@@ -1257,127 +1395,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-partnership-of-the-caribbean-securing-the-west-indies.md",
-      "title": "Partnership of the Caribbean: Securing the West Indies",
-      "excerpt": "In 2004, Cyclops Technologies, under the PlateSmart Technologies brand, introduced the first software-only, camera-agnostic automatic license plate recognition (ALPR) engine powered by early AI-based object recognition technology and compatible with video ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.tmcnet.com/usubmit/2021/07/15/9410651.htm",
-      "originalUrl": "https://news.tmcnet.com/usubmit/2021/07/15/9410651.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-14T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-congress-asks-experts-for-guidance-on-facial-recognition.md",
-      "title": "Congress Asks Experts for Guidance on Facial Recognition",
-      "excerpt": "Law enforcement uses facial recognition systems with little oversight and, at times, disastrous impact. During a congressional hearing this week, members and experts talked through how new laws could head off greater harm.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/security/congress-asks-experts-for-guidance-on-facial-recognition",
-      "originalUrl": "https://www.govtech.com/security/congress-asks-experts-for-guidance-on-facial-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/9451d55/2147483647/strip/true/crop/1095x571+18+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F67%2F8b%2Fbf2467764012829abc8b9b917271%2Frw-better.png",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/security/congress-asks-experts-for-guidance-on-facial-recognition?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/congress-asks-experts-for-guidance-on-facial-recognition?_amp=true",
-      "publishedDateTime": "2021-07-14T16:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-civil-rights-groups-take-aim-at-facial-recognition-tech-in-stores.md",
-      "title": "Civil Rights Groups Take Aim at Facial Recognition Tech in Stores",
-      "excerpt": "Three dozen civil rights organizations have called on retailers to stop using the tech, saying “prioritizing profit over privacy is wrong.”",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/01/14/fight-for-the-future-launches-campaign-to-keep-facial-recognition-off-u-s-college-campuses/",
-      "originalUrl": "https://wwd.com/business-news/technology/civil-rights-groups-protest-facial-recognition-tech-stores-1234882271/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 244,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/08/deepfake-e1576010828444.jpg?fit=800%2C400&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/01/14/fight-for-the-future-launches-campaign-to-keep-facial-recognition-off-u-s-college-campuses/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/14/fight-for-the-future-launches-campaign-to-keep-facial-recognition-off-u-s-college-campuses/amp/",
-      "publishedDateTime": "2021-07-14T15:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Women's Wear Daily",
-        "domain": "wwd.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

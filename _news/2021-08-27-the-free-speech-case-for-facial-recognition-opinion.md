@@ -32,67 +32,49 @@ images:
     isCached: true
 
 related:
-  - title: "US federal agencies plan to increase facial recognition use, GAO report says"
-    excerpt: "Three-quarters of U.S. federal agencies surveyed for a Government Accountability Office (GAO) report are already using facial recognition."
-    publishedDateTime: 2021-08-26T21:42:00Z
-    webUrl: "https://www.gao.gov/products/gao-21-526"
+  - title: "Celebrity spotting: Amazon improves facial recognition for famous people"
+    excerpt: "Amazon promises its Rekognition machine-learning tech will save hours of humans tagging photos and videos of celebrities."
+    publishedDateTime: 2021-08-27T03:51:00Z
+    webUrl: "https://www.zdnet.com/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 92
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/08/27/0edfb3a5-a400-465b-86f8-f06782fe711e/amazon-rekognition-wener-vogels.jpg"
+        width: 1054
+        height: 600
+        isCached: true
+  - title: "Celebrity spotting: Amazon improves facial recognition for famous people"
+    excerpt: "The service caters to media companies, and AWS says that Rekognition now \"automatically recognizes tens of thousands of well-known personalities in images and videos using machine learning (ML ... include Microsoft's Azure Face and Google's Cloud ..."
+    publishedDateTime: 2021-08-28T10:39:00Z
+    webUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 72
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/r/2021/08/27/0b1ee20f-42d7-45d1-96b2-dbb621c20c86/thumbnail/770x578/556ef2129ec59a24cf677f1dfdd98714/amazon-rekognition-bezos.jpg"
+        width: 770
+        height: 578
+        isCached: true
+  - title: "Scottish local authority switches off facial recognition citing legal, ethical concerns"
+    excerpt: "A council spokesperson said that facial recognition was specifically switched off over ethical and legal concerns about the implications of the technology."
+    publishedDateTime: 2021-08-30T15:46:00Z
+    webUrl: "https://www.biometricupdate.com/202108/scottish-local-authority-switches-off-facial-recognition-citing-legal-ethical-concerns"
     type: article
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 138
+    quality: 48
     images:
-      - url: "https://www.gao.gov/assets/styles/hero_l/public/extracts/c1917b8fbd51f63d6fde064a0ffb86f1/d21526-FF-Image.png?itok=U7z95JiA"
-        width: 1400
-        height: 500
-        isCached: true
-  - title: "US government agencies plan to increase facial recognition"
-    excerpt: "The majority of US federal agencies are using some form of facial recognition technology, according to a study by the Government Accountability Office (GAO)."
-    publishedDateTime: 2021-08-27T10:45:00Z
-    webUrl: "https://www.research-live.com/article/news/us_government_agencies_plan_to_increase_facial_recognition/id/5088462"
-    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5088462&name=us-government-agencies-plan-to-increase-facial-recognition"
-    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5088462&name=us-government-agencies-plan-to-increase-facial-recognition"
-    type: article
-    provider:
-      name: research
-      domain: research-live.com
-    quality: 59
-    images:
-      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
-        width: 1000
-        height: 581
-        isCached: true
-  - title: "Report: At least 18 federal agencies use facial recognition technology"
-    excerpt: "At least 18 federal agencies reported using facial recognition technology (FRT) over the last year and most said they plan to expand their use of it over the next few years, according to a new report by the U."
-    publishedDateTime: 2021-08-30T17:10:00Z
-    webUrl: "https://www.wpxi.com/news/top-stories/report-least-18-federal-agencies-use-facial-recognition-technology/DSNTSFGEOBAD5P3ONW3E2JYT2A/"
-    ampWebUrl: "https://www.wpxi.com/news/top-stories/report-least-18-federal-agencies-use-facial-recognition-technology/DSNTSFGEOBAD5P3ONW3E2JYT2A/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wpxi-com.cdn.ampproject.org/c/s/www.wpxi.com/news/top-stories/report-least-18-federal-agencies-use-facial-recognition-technology/DSNTSFGEOBAD5P3ONW3E2JYT2A/?outputType=amp"
-    type: article
-    provider:
-      name: WPXI
-      domain: wpxi.com
-    quality: 59
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/cmg/CTAAWBLNTVHLRIAUVMFEA6YRPQ.jpg"
-        width: 731
-        height: 411
-        isCached: true
-  - title: "10 federal agencies want to expand their use of facial recognition despite widespread concerns"
-    excerpt: "The federal government wants to expand the use of facial recognition technology in the future, despite widespread criticism of it."
-    publishedDateTime: 2021-08-27T20:08:00Z
-    webUrl: "https://www.dailydot.com/debug/facial-recognition-federal-government-expand-gao-report/"
-    ampWebUrl: "https://www.dailydot.com/debug/facial-recognition-federal-government-expand-gao-report/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facial-recognition-federal-government-expand-gao-report/?amp"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 47
-    images:
-      - url: "https://uploads.dailydot.com/2021/08/Federal-Government-Plans-To-Grow-Its-Use-Of-Facial-Recognition-Technology.jpg?auto=compress%2Cformat&ixlib=php-3.3.0"
-        width: 2000
-        height: 1000
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/11113259/public-safety-camera.jpg"
+        width: 1200
+        height: 914
         isCached: true
   - title: "Amazon Suspends Police Use of Its Facial Recognition"
     excerpt: "Amazon did not respond to questions about it. Civil rights groups and Amazon's own employees have pushed the company to stop selling its technology, called Rekognition, to government agencies, saying it could be used to invade privacy and target people of ..."
@@ -105,48 +87,6 @@ related:
       name: Courthouse News Service
       domain: courthousenews.com
     quality: 41
-  - title: "The government is going to use facial recognition more. That’s bad."
-    excerpt: "A report from the GAO traces the use of facial-recognition tech among US government agencies. Here's what it found."
-    publishedDateTime: 2021-08-28T11:00:00Z
-    webUrl: "https://www.popsci.com/technology/gao-report-facial-recognition-federal-government/"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 41
-    images:
-      - url: "https://www.popsci.com/uploads/2021/08/27/michael-daniels-yHh07IGJAJM-unsplash.jpeg"
-        width: 2000
-        height: 1500
-        isCached: true
-  - title: "US Agencies Increasing Use of Facial Recognition Tech"
-    excerpt: "At least 10 U.S. government agencies are planning to increase the use of facial recognition technologies by 2023, according to a GAO report. The growing utilization"
-    publishedDateTime: 2021-08-27T17:46:00Z
-    webUrl: "https://www.govinfosecurity.com/us-agencies-increasing-use-facial-recognition-tech-a-17393"
-    type: article
-    provider:
-      name: HHS
-      domain: govinfosecurity.com
-    quality: 41
-    images:
-      - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/us-agencies-increasing-use-facial-recognition-tech-showcase_image-2-a-17393.jpg"
-        width: 860
-        height: 520
-        isCached: true
-  - title: "Government agencies used Clearview facial recognition in 24 countries"
-    excerpt: "Dozens of government-affiliated agencies around the world, including police departments and universities, have trialled Clearview AI's facial-recognition system, according to BuzzFeed News. The publication reviewed internal data from Clearview and found that 88 government agencies in 24 countries (not including the USA) had used the firm's facial recognition system,"
-    publishedDateTime: 2021-08-31T11:03:00Z
-    webUrl: "https://www.computing.co.uk/news/4036424/government-agencies-clearview-facial-recognition-countries"
-    type: article
-    provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 39
-    images:
-      - url: "https://www.computing.co.uk/api/v1/wps/957b3e5/1560dce2-db4e-469d-86cb-0b930d4c95fc/6/ClearviewAI-370x229.jpg"
-        width: 370
-        height: 229
-        isCached: true
 
 secured: "dIR5fwwSAjtip/NNSLYiRMVXCU2FIfTm4z5GEbpG1qTRGDJA/YSMzju+xL5DphCCoaCYfZnG6tr6RhP6WkPbLFcc8YuM7cih8pbViEBqSIIA0c83Mp0OXxpXmplD63zFT0B9lmLV3IqEHT8CPaQkO5x8gwS8TwLbigOCwIEV9w/4luqUcDEubIl2POn3lf31ZN0tRWHxN69oIg/JsBe8tnclYevZwwGN+N5tp4dR15p3hNeP8sl6AgjHSbT3m0jA475KkMevsZZhbjRyHB80leWl+LV9rawgprL9ULd3v95qloffiLiTXy+TD7fRcr41q4odEHl041bekgzVEh/ygjzsdFyE8Zoce7/ILifigdJ86dfD6SjxlZi1MZNX3dG17wxLBvrx5N75wUwRbGIvXBAAI1XFJ2iT7G37TYKxCiq4s10Yab/g98heUhyuleWHdxQsLYEgPzULaoGLSEAbD8X2D0Rnb8N94Ty6cf5VkE0UVvg1qtuZizWVcN/qTl99ksw7gJMHlZmg05Vzvdaj9Q==;jh6CECGZGwMTjodv6k47Gw=="
 ---

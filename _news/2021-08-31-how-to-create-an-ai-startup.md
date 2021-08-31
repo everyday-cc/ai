@@ -72,6 +72,17 @@ related:
         width: 1181
         height: 886
         isCached: true
+  - title: "Why Businesses Benefit From Building Ethical AI"
+    excerpt: "Compatible Artificial Intelligence (CHAI) Throughout the pandemic, many businesses have turned to artificial intelligence at"
+    publishedDateTime: 2021-08-31T14:21:00Z
+    webUrl: "https://www.nasdaq.com/articles/why-businesses-benefit-from-building-ethical-ai-2021-08-31"
+    ampWebUrl: "https://www.nasdaq.com/articles/why-businesses-benefit-from-building-ethical-ai-2021-08-31?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-businesses-benefit-from-building-ethical-ai-2021-08-31?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 84
   - title: "3 top AI stocks to buy right now"
     excerpt: "While artificial intelligence (AI) has already transformed how many companies work, it is expected to make further advancements that rely on machine learning and deep learning, among other factors. So, we think it could be wise to bet on top AI stocks ..."
     publishedDateTime: 2021-08-29T09:45:00Z

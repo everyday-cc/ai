@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-18-logic-explained-deep-neural-networks-a-general-approach-to-explainable-ai.md",
+      "title": "Logic Explained Deep Neural Networks: A General Approach to Explainable AI",
+      "excerpt": "Although deep learning models are playing increasingly important roles across a wide range of decision-making scenarios, a critical drawback is their inability to provide human-understandable motivations for their opaque or complex decision-making processes.",
+      "sourceUrl": null,
+      "webUrl": "https://syncedreview.com/2021/08/18/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-85/",
+      "originalUrl": "https://syncedreview.com/2021/08/18/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-85/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1",
+          "width": 790,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://syncedreview.com/2021/08/18/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-85/amp/",
+      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/08/18/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-85/amp/",
+      "publishedDateTime": "2021-08-18T09:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "syncedreview",
+        "domain": "syncedreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-18-artificial-intelligence-for-automotive-applications-market-may-set-epic-growth-story-with-audi-bmw-aimotive.md",
       "title": "Artificial Intelligence For Automotive Applications Market May Set Epic Growth Story with Audi, BMW, AImotive",
       "excerpt": "The Latest research study released by HTF MI Worldwide Artificial Intelligence For Automotive Applications Market with 100 pages of analysis on business Strategy taken up by key and emerging industry players and delivers know how of the current market development",
@@ -81,7 +124,7 @@
     {
       "path": "_news/2021-08-17-moloco-closes-150-million-series-c-financing-led-by-tiger-global-to-bring-transparent-machine-learning-algorithms-to-all.md",
       "title": "MOLOCO Closes $150 Million Series C Financing Led by Tiger Global to Bring Transparent Machine Learning Algorithms to All",
-      "excerpt": "MOLOCO (  com ), a leader in machine learning and growth solutions for mobile app marketers and e-commerce companies, announced today it has raised $150 million in Series C funding to bring sophisticated,",
+      "excerpt": "He founded MOLOCO with the vision of making sophisticated machine learning algorithms available as a cloud service to a wide variety of businesses, industries and use cases. MOLOCO Cloud is a ...",
       "sourceUrl": null,
       "webUrl": "https://markets.businessinsider.com/news/stocks/moloco-closes-150-million-series-c-financing-led-by-tiger-global-to-bring-transparent-machine-learning-algorithms-to-all-1030739081",
       "originalUrl": "https://markets.businessinsider.com/news/stocks/moloco-closes-150-million-series-c-financing-led-by-tiger-global-to-bring-transparent-machine-learning-algorithms-to-all-1030739081",
@@ -94,7 +137,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-17T08:11:00-07:00",
+      "publishedDateTime": "2021-08-17T08:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -117,9 +160,9 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "AI in Finance",
         "AI",
-        "AI in Finance"
+        "Machine Learning"
       ]
     },
     {
@@ -1293,49 +1336,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-scaler-academy-launches-new-course-in-data-science-and-machine-learning.md",
-      "title": "Scaler Academy launches new course in data science and machine learning",
-      "excerpt": "The company said that the program had been designed based on a survey conducted by the company with around 100 data scientists working in leading tech and product firms worldwide.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/tech-bytes/scaler-academy-launches-new-course-in-data-science-and-machine-learning/articleshow/85267653.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/tech-bytes/scaler-academy-launches-new-course-in-data-science-and-machine-learning/articleshow/85267653.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1756969,msid-85267628/edtech.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/tech-bytes/scaler-academy-launches-new-course-in-data-science-and-machine-learning/amp_articleshow/85267653.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/tech-bytes/scaler-academy-launches-new-course-in-data-science-and-machine-learning/amp_articleshow/85267653.cms",
-      "publishedDateTime": "2021-08-12T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

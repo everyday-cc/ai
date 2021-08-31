@@ -2,6 +2,191 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-02-samsung-sets-up-ai-ml-lab-at-karnatakas-kle-technological-university.md",
+      "title": "Samsung sets up AI, ML lab at Karnataka's KLE Technological University",
+      "excerpt": "The ‘SEED Lab’ will allows students and faculty members at KLE Tech to jointly work on research and development projects under the mentorship of s..",
+      "sourceUrl": null,
+      "webUrl": "https://telecom.economictimes.indiatimes.com/news/samsung-sets-up-ai-ml-lab-at-karnatakas-kle-technological-university/84969085",
+      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/samsung-sets-up-ai-ml-lab-at-karnatakas-kle-technological-university/84969085",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-84969085,imgsize-1257112,width-800,height-434,overlay-ettelecom/samsung-sets-up-ai-ml-lab-at-karnataka-s-kle-technological-university.jpg",
+          "width": 800,
+          "height": 434,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/samsung-sets-up-ai-ml-lab-at-karnatakas-kle-technological-university/84969085",
+      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/samsung-sets-up-ai-ml-lab-at-karnatakas-kle-technological-university/84969085",
+      "publishedDateTime": "2021-08-02T01:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-07-31-elon-musks-old-pals-invest-in-neuralink-to-fund-testing-brain-chips-in-humans.md",
+      "title": "Elon Musk’s Old Pals Invest in Neuralink to Fund Testing Brain Chips in Humans",
+      "excerpt": "Elon Musk has rounded up his old friends from PayPal and Open AI days to fund his brain-computer interface startup Neuralink’s next phase of experiments to test implantable brain chips in humans and take the company’s first product to market.",
+      "sourceUrl": null,
+      "webUrl": "https://observer.com/2021/07/elon-musk-neuralink-raise-fund-peter-thiel-brain-chip-human-test/",
+      "originalUrl": "https://observer.com/2021/07/elon-musk-neuralink-raise-fund-peter-thiel-brain-chip-human-test/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://observer.com/wp-content/uploads/sites/2/2021/07/GettyImages-491588398-e1627667664725.jpeg?quality=80&#038;strip",
+          "width": 3461,
+          "height": 2344,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://observer.com/2021/07/elon-musk-neuralink-raise-fund-peter-thiel-brain-chip-human-test/amp/",
+      "cdnAmpWebUrl": "https://observer-com.cdn.ampproject.org/c/s/observer.com/2021/07/elon-musk-neuralink-raise-fund-peter-thiel-brain-chip-human-test/amp/",
+      "publishedDateTime": "2021-07-30T12:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Observer",
+        "domain": "observer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-30-artificial-intelligence-ai-chipsets-market-booming-segments-investors-seeking-stunning-growth-market-size-forecast-2027.md",
+      "title": "Artificial Intelligence (AI) Chipsets Market Booming Segments; Investors Seeking Stunning Growth, Market Size, Forecast 2027",
+      "excerpt": "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-booming-segments-investors-seeking-stunning-growth-market-size-forecast-2027-2021-07-30",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-booming-segments-investors-seeking-stunning-growth-market-size-forecast-2027-2021-07-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-30T02:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-07-29-openai-debuts-python-based-triton-for-gpu-powered-machine-learning.md",
+      "title": "OpenAI debuts Python-based Triton for GPU-powered machine learning",
+      "excerpt": "Triton 1.0 uses Python (3.6 and up) as its base. The developer writes code in Python using Triton’s libraries, which are then JIT-compiled to run on the GPU. This allows integration with the rest of the Python ecosystem,",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3627243/openai-debuts-python-based-triton-for-gpu-powered-machine-learning.html",
+      "originalUrl": "https://www.infoworld.com/article/3627243/openai-debuts-python-based-triton-for-gpu-powered-machine-learning.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3627243/openai-debuts-python-based-triton-for-gpu-powered-machine-learning.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3627243/openai-debuts-python-based-triton-for-gpu-powered-machine-learning.amp.html",
+      "publishedDateTime": "2021-07-29T07:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-07-29-intel-ministry-of-education-launch-ai-for-all-in-india.md",
       "title": "Intel, Ministry of Education launch 'AI For All' in India",
       "excerpt": "Chip maker Intel on Thursday partnered with Central Board of School Education (CBSE), Ministry of Education to announce the launch of an initiative -- 'AI For All' -- that aims to create a basic understanding of Artificial Intelligence (AI) for everyone in India.",
@@ -1256,200 +1441,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-cerebras-new-monster-ai-chip-adds-14-trillion-transistors.md",
-      "title": "Cerebras’ New Monster AI Chip Adds 1.4 Trillion Transistors",
-      "excerpt": "Shift to 7-nanometer process boosts the second-generation chip's transistor count to a mind-boggling 2.6 trillion.",
-      "sourceUrl": null,
-      "webUrl": "https://cacm.acm.org/news/254014-cerebras-new-monster-ai-chip-adds-14-trillion-transistors",
-      "originalUrl": "https://cacm.acm.org/news/254014-cerebras-new-monster-ai-chip-adds-14-trillion-transistors",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T09:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "acm.org",
-        "domain": "acm.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-china-grants-tax-breaks-policy-leeway-to-turn-shanghai-into-powerhouse-for-ai-chips-planes-and-pharmaceuticals.md",
-      "title": "China grants tax breaks, policy leeway to turn Shanghai into powerhouse for AI, chips, planes and pharmaceuticals",
-      "excerpt": "China’s central government has offered tax incentives, greater autonomy in local legislation and more administrative power to liberalise the capital markets in Shanghai, as Beijing envisions building Pudong into a ‘brilliant pearl’ of a strong socialist country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/business/money/money-news/article/3141277/china-grants-tax-breaks-policy-leeway-turn-shanghai",
-      "originalUrl": "https://www.scmp.com/business/money/money-news/article/3141277/china-grants-tax-breaks-policy-leeway-turn-shanghai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/07/15/d8254c32-e551-11eb-9aba-1b7e08262541_image_hires_220157.jpeg?itok=fYw4eWfq&v=1626357723",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/business/money/money-news/article/3141277/china-grants-tax-breaks-policy-leeway-turn-shanghai",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/money/money-news/article/3141277/china-grants-tax-breaks-policy-leeway-turn-shanghai",
-      "publishedDateTime": "2021-07-15T06:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-artificial-intelligence-ai-chipsets-market-industry-analysis-size-share-trends-demand-growth-opportunities-and-forecast-2027.md",
-      "title": "Artificial Intelligence (AI) Chipsets Market Industry Analysis, Size, Share, Trends, Demand, Growth, Opportunities and Forecast 2027",
-      "excerpt": "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-industry-analysis-size-share-trends-demand-growth-opportunities-and-forecast-2027-2021-07-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-industry-analysis-size-share-trends-demand-growth-opportunities-and-forecast-2027-2021-07-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-14T20:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare",
-        "AWS AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-lambda-labs-raises-15m-for-ai-optimized-hardware-infrastructure.md",
-      "title": "Lambda Labs raises $15M for AI-optimized hardware infrastructure",
-      "excerpt": "Among these are the TensorBook, a laptop with a dedicated GPU, and a workstation product with up to four desktop-class GPUs for AI training. Lambda also offers servers including one designed to be ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/14/lambda-labs-raises-15m-for-ai-optimized-hardware-infrastructure/",
-      "originalUrl": "https://venturebeat.com/2021/07/14/lambda-labs-raises-15m-for-ai-optimized-hardware-infrastructure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/AI-e1621941163863.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/14/lambda-labs-raises-15m-for-ai-optimized-hardware-infrastructure/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/14/lambda-labs-raises-15m-for-ai-optimized-hardware-infrastructure/amp/",
-      "publishedDateTime": "2021-07-14T13:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

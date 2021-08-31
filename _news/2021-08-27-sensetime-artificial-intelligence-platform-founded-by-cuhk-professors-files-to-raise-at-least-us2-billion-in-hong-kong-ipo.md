@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.scmp.com/business/banking-finance/article/3146708/senset
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/banking-finance/article/3146708/sensetime-artificial-intelligence-platform-founded-cuhk"
 type: article
 quality: 77
-heat: 127
-published: true
+heat: -1
+published: false
 
 provider:
   name: South China Morning Post
@@ -31,44 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "China’s AI unicorn SenseTime files for Hong Kong IPO"
-    excerpt: "China’s biggest AI firm SenseTime filed Friday to go public on the Hong Kong exchange as China tightens scrutiny on overseas listings. The firm is planning to raise at least $2 billion in its IPO, local media reported."
-    publishedDateTime: 2021-08-30T06:03:00Z
-    webUrl: "https://technode.com/2021/08/30/chinas-ai-unicorn-sensetime-files-for-hong-kong-ipo/"
-    ampWebUrl: "https://technode.com/2021/08/30/chinas-ai-unicorn-sensetime-files-for-hong-kong-ipo/"
-    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/08/30/chinas-ai-unicorn-sensetime-files-for-hong-kong-ipo/"
+  - title: "Chinese Professor Set To Join Billion Ranks As His AI Company Files To Go Public"
+    excerpt: "A Chinese artificial intelligence professor is poised to join the world’s billionaire ranks as SenseTime, the AI company he cofounded seven years ago, has filed for an initial public offering in Hong Kong."
+    publishedDateTime: 2021-08-31T15:20:00Z
+    webUrl: "https://www.forbes.com/sites/ywang/2021/08/31/sensetime-chinese-professor-set-to-join-billion-ranks-as-his-ai-company-files-to-go-public/"
+    ampWebUrl: "https://www.forbes.com/sites/ywang/2021/08/31/sensetime-chinese-professor-set-to-join-billion-ranks-as-his-ai-company-files-to-go-public/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ywang/2021/08/31/sensetime-chinese-professor-set-to-join-billion-ranks-as-his-ai-company-files-to-go-public/amp/"
     type: article
     provider:
-      name: TechNode
-      domain: technode.com
-    quality: 57
+      name: Forbes
+      domain: forbes.com
+    quality: 82
     images:
-      - url: "https://i2.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
-        width: 540
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612e4853e4660bb090cf31d3%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D959%26cropY1%3D233%26cropY2%3D773"
+        width: 959
         height: 540
-        isCached: true
-  - title: "SoftBank-backed AI startup SenseTime files for Hong Kong IPO"
-    excerpt: "In the first half of 2021, the China-based startup’s revenue increased 2x while its gross profit margin went slightly up to 73%."
-    publishedDateTime: 2021-08-30T10:13:00Z
-    webUrl: "https://www.techinasia.com/sensetime-ipo-hongkong-stock-exchange"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 47
-  - title: "SenseTime, AI Startup to apply for IPO in Hong Kong"
-    excerpt: "Since then, SenseTime has published a white paper titled “Code of Ethics for AI Sustainable Development” and is collaborating with the United Nations to enhance AI ethics."
-    publishedDateTime: 2021-08-28T19:37:00Z
-    webUrl: "https://techstory.in/sensetime-ai-startup-to-go-public/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/08/5e724d8cb14ec_compress.jpg"
-        width: 792
-        height: 528
         isCached: true
   - title: "Chinese AI firm SenseTime applies for $12b IPO in Hong Kong"
     excerpt: "Chinese artificial intelligence (AI) company SenseTime has submitted an application to the Hong Kong Exchanges and Clearing (HKEX) for a proposed IPO that may become the world's largest in the field of AI with a valuation of $12 billion. AI companies have ..."
@@ -84,15 +61,6 @@ related:
         width: 800
         height: 480
         isCached: true
-  - title: "Non-Profit Federated Learning Consortium (FLC) for Decentralized AI to Launch in Hong Kong, Receives $2M Pledge"
-    excerpt: "HONG KONG, CHINA / ACCESSWIRE / August 27, 2021 / Federated Learning Consortium (FLC) is a global non-profit organization headquartered in Hong"
-    publishedDateTime: 2021-08-27T03:40:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/non-profit-federated-learning-consortium-flc-for-decentralized-ai-to-launch-in-hong-kong-receives-2m-pledge-1030763028"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 29
 
 secured: "jxAPNDpLPPBs24x1F/XXD6UikSHiv19QMY2l1RJLgV4HlqzKC7vlyuGG94+MeA8cjwc/SbEei4/v/1+lW2siyF5lQQUntSPLz9PJWpbENhCIVwJB47/W2dQc2Es05b5d0bvqBfaqiYceGGTiAH2ZFfJfgJ8+4H+xjX99cT8bj6p2ioPWN9xM0scSp0KZVseoo6l/75v0IEf9Rph8H5oypSOrPfmUvKMPtWjuHiX3dnhoNY0fE0S3DbdKqscgG29Md1JsqfzYllWa4M8nge9fFi0E9X+rruU6WzYI7WQU86SHqEHKAzBf6s+ykBbpqhX+dt3gImKKyj5BIXOKcfyUUoj5o163bhdBtikPLjqpQExQkXGrWjQDjsktxqldtXwYjIgAGsuYFolXdgByZt2+QR7cY3JTdHIEYSc+a7VQAggHaI10oeYeVUJG6mVZf5xlzvtWc0840mRjwRcuOLUZI1Ir4iqUYdwiucvDVLser8hmaB8PEhppTY+57A3ABUQDaCE/3UbXGhFZysoz4APmwA==;w04f0W91P98W6sCY/oKRDw=="
 ---

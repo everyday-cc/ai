@@ -2,6 +2,179 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-06-23-yotta-launches-virtual-pro-workstations-for-3d-architectural-designs-ai-ml.md",
+      "title": "Yotta Launches Virtual Pro Workstations for 3D architectural designs, AI, ML",
+      "excerpt": "Path-breaking combination of virtual GPU and advanced VDI technology, to deliver extreme performance for video editing, graphics design, 3D architectural designs, AI, ML and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/yotta-launches-virtual-pro-workstations-3d-architectural-designs-ai-ml/",
+      "originalUrl": "https://www.dqindia.com/yotta-launches-virtual-pro-workstations-3d-architectural-designs-ai-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2016/10/cloud-computing-2.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/yotta-launches-virtual-pro-workstations-3d-architectural-designs-ai-ml/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/yotta-launches-virtual-pro-workstations-3d-architectural-designs-ai-ml/amp/",
+      "publishedDateTime": "2021-06-23T00:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-tyan-to-bring-ai-and-hpc-optimized-server-platforms-at-isc-2021.md",
+      "title": "TYAN to Bring AI and HPC Optimized Server Platforms at ISC 2021",
+      "excerpt": "TYAN exhibits its latest AI and HPC server platforms for data centers and enterprises at ISC21 Digital from June 24th to July 2nd",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210623005008/en/TYAN-to-Bring-AI-and-HPC-Optimized-Server-Platforms-at-ISC-2021",
+      "originalUrl": "https://www.businesswire.com/news/home/20210623005008/en/TYAN-to-Bring-AI-and-HPC-Optimized-Server-Platforms-at-ISC-2021",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-23T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-cloud-gpu-market-and-ai-trends-and-analysis-2020.md",
+      "title": "Cloud GPU Market And AI: Trends And Analysis 2020",
+      "excerpt": "And, AI will be one of the top workloads that drives ... according to a report by MarketsandMarkets. The demand for Cloud GPU instances in the compute infrastructure market is majorly driven ...",
+      "sourceUrl": null,
+      "webUrl": "https://inc42.com/resources/cloud-gpu-market-and-ai-trends-and-analysis-2020/",
+      "originalUrl": "https://inc42.com/resources/cloud-gpu-market-and-ai-trends-and-analysis-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inc42.com/wp-content/uploads/2019/06/cloud-social.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inc42.com/resources/cloud-gpu-market-and-ai-trends-and-analysis-2020/amp/",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/cloud-gpu-market-and-ai-trends-and-analysis-2020/amp/",
+      "publishedDateTime": "2021-06-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42.com",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-22-nvidia-jetson-chips-make-iot-devices-vulnerable-to-attack.md",
+      "title": "Nvidia Jetson chips make IoT devices vulnerable to attack",
+      "excerpt": "Nvidia has patched several vulnerabilities in its Jetson system-on-module (SOM) series chips that hackers could have exploited to escalate privileges and mount denial-of-service (DoS) attacks. The products affected by the vulnerabilities include the Jetson TX1,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/security/vulnerability/359961/nvidia-jetson-chips-make-iot-devices-vulnerable-to-attack",
+      "originalUrl": "https://www.itpro.co.uk/security/vulnerability/359961/nvidia-jetson-chips-make-iot-devices-vulnerable-to-attack",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1597916170/Nvidia_shutterstock.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/security/vulnerability/359961/nvidia-jetson-chips-make-iot-devices-vulnerable-to-attack?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/vulnerability/359961/nvidia-jetson-chips-make-iot-devices-vulnerable-to-attack?amp",
+      "publishedDateTime": "2021-06-22T06:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-22-deep-learning-chip-market-forecast-trend-analysis-competition-tracking-global-market-insights-2020-to-2028.md",
       "title": "Deep Learning Chip Market Forecast, Trend Analysis & Competition Tracking – Global Market Insights 2020 to 2028",
       "excerpt": "The global deep learning chip market is expected to reach a market size of USD 27.75 Billion by 2028 and register a",
@@ -1178,196 +1351,6 @@
         "AI Hardware",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-13-google-team-uses-ai-to-create-next-gen-chips-faster-than-humans.md",
-      "title": "Google team uses AI to create next-gen chips faster than humans",
-      "excerpt": "As the world faces acute semiconductor or chip shortage, a team of Google researchers is working on to design next-generation artificial-intelligence (AI) chips, and has created an AI model",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/technology/tech-news/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-690520",
-      "originalUrl": "https://www.thehansindia.com/technology/tech-news/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-690520",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thehansindia.com/h-upload/2021/06/12/1081754-ai.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/technology/tech-news/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-690520",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-690520",
-      "publishedDateTime": "2021-06-12T11:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-google-team-creates-next-gen-chips-using-ai.md",
-      "title": "Google team creates next-gen chips using AI",
-      "excerpt": "A team of Google researchers working on to design next-generation artificial-intelligence (AI) chip has created an AI model that allows chip design to be performed by artificial",
-      "sourceUrl": null,
-      "webUrl": "https://english.madhyamam.com/technology/google-team-creates-next-gen-chips-using-ai-809695",
-      "originalUrl": "https://english.madhyamam.com/technology/google-team-creates-next-gen-chips-using-ai-809695",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://english.madhyamam.com/h-upload/2021/06/12/1047211-5900612b2aace1dd090ab881ff1e1fc4.jpg",
-          "width": 400,
-          "height": 248,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://english.madhyamam.com/amp/technology/google-team-creates-next-gen-chips-using-ai-809695",
-      "cdnAmpWebUrl": "https://english-madhyamam-com.cdn.ampproject.org/c/s/english.madhyamam.com/amp/technology/google-team-creates-next-gen-chips-using-ai-809695",
-      "publishedDateTime": "2021-06-12T07:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Madhyamam",
-        "domain": "madhyamam.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-can-we-afford-ai.md",
-      "title": "Can we afford AI?",
-      "excerpt": "AI can lower the cost of doing business, but enterprises have to consider cost management to make it less expensive to acquire and deploy.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/11/can-we-afford-ai/",
-      "originalUrl": "https://venturebeat.com/2021/06/11/can-we-afford-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/01/market-analyze-e1623419360531.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/11/can-we-afford-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/11/can-we-afford-ai/amp/",
-      "publishedDateTime": "2021-06-11T14:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-google-is-training-ai-to-design-the-next-generation-of-chips.md",
-      "title": "Google is training AI to design the next generation of chips",
-      "excerpt": "The authors note that Google is putting it into action and using their research to design the upcoming version of Google’s own Tensor Processing Unit ( TPU) chips, which are optimized to handle AI workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/uk/news/google-is-training-ai-to-design-the-next-generation-of-chips",
-      "originalUrl": "https://www.techradar.com/uk/news/google-is-training-ai-to-design-the-next-generation-of-chips",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 264,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/2UMvPDp3snEwaGbRuCivjE-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/uk/amp/news/google-is-training-ai-to-design-the-next-generation-of-chips",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/google-is-training-ai-to-design-the-next-generation-of-chips",
-      "publishedDateTime": "2021-06-11T02:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

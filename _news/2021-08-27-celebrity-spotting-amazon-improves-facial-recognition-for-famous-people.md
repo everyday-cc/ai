@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/celebrity-spotting-amazon-i
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/"
 type: article
 quality: 92
-heat: -1
-published: false
+heat: 132
+published: true
 
 provider:
   name: ZDNet
@@ -33,19 +33,21 @@ images:
     isCached: true
 
 related:
-  - title: "Recognize celebrities in images and videos using Amazon Rekognition"
-    excerpt: "The celebrity recognition feature in Amazon Rekognition automatically recognizes tens of thousands of well-known personalities in images and videos using machine learning (ML). Celebrity recognition significantly reduces the repetitive manual effort required to tag produced media content and make it"
-    publishedDateTime: 2021-08-26T22:13:32Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/easily-recognize-celebrities-in-images-and-videos-using-amazon-rekognition/"
+  - title: "The Free-Speech Case for Facial Recognition | Opinion"
+    excerpt: "The right to communicate anonymously is important, but most would agree it shouldn't extend to people who commit violent crimes."
+    publishedDateTime: 2021-08-27T10:00:00Z
+    webUrl: "https://www.newsweek.com/free-speech-case-facial-recognition-opinion-1623006"
+    ampWebUrl: "https://www.newsweek.com/free-speech-case-facial-recognition-opinion-1623006?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/free-speech-case-facial-recognition-opinion-1623006?amp=1"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 106
+      name: Newsweek
+      domain: newsweek.com
+    quality: 91
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/26/ML-5386-IMG1.jpg"
-        width: 1645
-        height: 785
+      - url: "https://d.newsweek.com/en/full/1880796/charlottesville-rally-anniversary.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Celebrity spotting: Amazon improves facial recognition for famous people"
     excerpt: "The service caters to media companies, and AWS says that Rekognition now \"automatically recognizes tens of thousands of well-known personalities in images and videos using machine learning (ML ... include Microsoft's Azure Face and Google's Cloud ..."
@@ -61,6 +63,31 @@ related:
         width: 770
         height: 578
         isCached: true
+  - title: "Scottish local authority switches off facial recognition citing legal, ethical concerns"
+    excerpt: "A council spokesperson said that facial recognition was specifically switched off over ethical and legal concerns about the implications of the technology."
+    publishedDateTime: 2021-08-30T15:46:00Z
+    webUrl: "https://www.biometricupdate.com/202108/scottish-local-authority-switches-off-facial-recognition-citing-legal-ethical-concerns"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 48
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/11113259/public-safety-camera.jpg"
+        width: 1200
+        height: 914
+        isCached: true
+  - title: "Amazon Suspends Police Use of Its Facial Recognition"
+    excerpt: "Amazon did not respond to questions about it. Civil rights groups and Amazon's own employees have pushed the company to stop selling its technology, called Rekognition, to government agencies, saying it could be used to invade privacy and target people of ..."
+    publishedDateTime: 2021-08-28T00:01:00Z
+    webUrl: "https://www.courthousenews.com/amazon-suspends-police-use-of-its-facial-recognition/"
+    ampWebUrl: "https://www.courthousenews.com/amazon-suspends-police-use-of-its-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/amazon-suspends-police-use-of-its-facial-recognition/amp/"
+    type: article
+    provider:
+      name: Courthouse News Service
+      domain: courthousenews.com
+    quality: 41
 
 secured: "pMKlwyjMOD4P33kvMV9HlUVf9103f00qYIqaKdWMhBkC6KllhzNnMM5V65X3gaY+pGX209lc2Gj8a6MaRr+sP67MAewnY6GPTuQXP9TVDddcL8iZxfks4EyR1sBslW9/QlRt+OOBcleBY2VnRllalOvyoWSysUpzKf4yuY+UaeMCdRG4f0I+PBK6Aj0MtafKA5eUzW87nvL+MssiSgnuPsIxQoouziwTzRwBtWwA2AeoSXymFrb3lSRAaZGDU0B6JLiasnNOVgm+KByTATxb4TCgPurDQJS1cRCyNL2t8uHORcRdrq8ghZjonLbWUnLQ6OAgY4tdQX1+Ypu4pfBkLWug5ypwi2wI9Wm3RDt8g9U=;hOBOPkDnm3EDqQTpv+7V6w=="
 ---

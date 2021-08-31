@@ -52,6 +52,20 @@ related:
         width: 360
         height: 240
         isCached: true
+  - title: "How artificial intelligence is ushering in the age of the science of negotiation"
+    excerpt: "But as artificial intelligence technologies mature, great benefits will be yielded in a business context. And nowhere is as ripe with opportunity as the field of commercial negotiation. In fact, artificial intelligence will accelerate the evolution of the ..."
+    publishedDateTime: 2021-08-31T14:04:00Z
+    webUrl: "https://www.bizcommunity.com/Article/224/706/219579.html"
+    type: article
+    provider:
+      name: Bizcommunity
+      domain: bizcommunity.com
+    quality: 32
+    images:
+      - url: "https://biz-file.com/c/2108/626014-546x364.jpg"
+        width: 546
+        height: 364
+        isCached: true
   - title: "Hospitals Deploy Spending on Artificial Intelligence Coding Solutions to Reduce Costs & Payer Denials, Reports Black Book Survey"
     excerpt: "Black Book Research surveyed 1,012 health information management executives and revealed that 58% of healthcare organizations are using artificial intelligence in one basic form or another, and 92% of them expect widespread industry implementation in the next five years,"
     publishedDateTime: 2021-08-27T01:24:00Z

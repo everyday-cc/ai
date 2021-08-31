@@ -27,17 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Law Market Size 2021 And Forecast to 2028 | Keyplayers – AIBrain, Amazon, Anki, CloudMinds"
-    excerpt: "In addition, the global Artificial Intelligence in Law Market is expected to grow at a CAGR of about XX % over the next five years, will reach XX Billion US $in 2020, XX Billion US $in 2028 Get | Download Sample Copy with TOC,"
-    publishedDateTime: 2021-08-26T21:12:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-in-law-market-size-2021-and-forecast-to-2028-keyplayers-aibrain-amazon-anki-cloudminds/"
-    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-law-market-size-2021-and-forecast-to-2028-keyplayers-aibrain-amazon-anki-cloudminds/"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-law-market-size-2021-and-forecast-to-2028-keyplayers-aibrain-amazon-anki-cloudminds/"
+  - title: "Computer Vision Market Trends, Size, Market Share, Growth Factor, Opportunities, Segment, Top Manufacturers, Drivers and Forecast 2021-2026"
+    excerpt: "Global “Computer Vision Market” research report presents a detailed analysis of the industry by size, strategies"
+    publishedDateTime: 2021-08-31T11:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-trends-size-market-share-growth-factor-opportunities-segment-top-manufacturers-drivers-and-forecast-2021-2026-2021-08-31"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 29
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "2NCz3LwEaPJsyjfn4NuGL4c3lsgbMUecw2eZEpIRLt0LXu7eXX2qdIlQLgzvlTdXlPORq3h0l6uIqP0BV1tVItACwVL+NsRu9bLH49Lk5fomCFnWjU9zu6hWMw22LRfrpGCeYPDeiJlT3BTk86FfmGOoM3NzXklpzrh4LihsYqd8kkJ1ZS/JQWbQLCUqDoZ3cVT34ztNzExKbh792/Dj3iGJzTWZmBAICYEL9ZRFQMq8aAe/zxtIPDQ70HHeonsxhdQut9/rfCgu/cqwt/xFwOHBv0/n6BHR8w7uzNeULbN+owHc6X979eh+tOIkprKgZt/6Yi8QU3VqMJVUYGe5Sr3m/Bt607B5H5Nt7HSPorKNVC8Bv2KVB7PF/kBSgt9NGnW6jzB7vK0Y2WIO0AaJSAHZR91HR4PY/rpCwDbQT9xXUXwsEvmvHb1FjW7r4BL+kx3pqZzd3asEjByueYmHZ/8U9rNJ/coLxTL/Pu0lxtHB9LX7PUfvLChwGvgsqr6ib/9XkX8rljXhbfOJb2cxRA==;intOW5kdGxTt5+6JKR5IKA=="
 ---

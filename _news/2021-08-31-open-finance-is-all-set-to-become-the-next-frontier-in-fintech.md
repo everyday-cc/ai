@@ -1,30 +1,52 @@
 ---
 category: news
 title: "Open Finance Is All Set To Become The Next Frontier In Fintech"
-excerpt: "The collaboration between traditional banks and fintech companies in Open Finance presents major opportunities"
-publishedDateTime: 2021-08-30T20:54:00Z
-originalUrl: "https://www.valuewalk.com/open-finance-become-next-frontier-fintech/"
-webUrl: "https://www.valuewalk.com/open-finance-become-next-frontier-fintech/"
+excerpt: "Open Finance is not just considered to be an extension but the next big step in the fintech journey. Over the past decade, Fintech companies have"
+publishedDateTime: 2021-08-31T14:48:00Z
+originalUrl: "https://www.entrepreneur.com/article/382675"
+webUrl: "https://www.entrepreneur.com/article/382675"
+ampWebUrl: "https://www.entrepreneur.com/amphtml/382675"
+cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/382675"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 89
+heat: 159
+published: true
 
 provider:
-  name: ValueWalk
-  domain: valuewalk.com
+  name: Entrepreneur
+  domain: entrepreneur.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://valuewalk.b-cdn.net/wp-content/uploads/2021/08/Fintech-1.png"
-    width: 1200
-    height: 1067
+  - url: "https://www.valuewalk.com/wp-content/uploads/2021/08/Fintech-1.png"
+    width: 1523
+    height: 1354
     isCached: true
 
 related:
+  - title: "JPMorgan deepens wealthtech push by leading raise in investment analytics fintech"
+    excerpt: "JPMorgan went on an investing and acquisition spree this year to accelerate its digital transformation in wealthtech."
+    publishedDateTime: 2021-08-31T14:09:00Z
+    webUrl: "https://www.businessinsider.com/jpmorgan-leads-aumni-50-million-funding-raise-2021-8"
+    ampWebUrl: "https://www.businessinsider.com/jpmorgan-leads-aumni-50-million-funding-raise-2021-8?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jpmorgan-leads-aumni-50-million-funding-raise-2021-8?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
+    images:
+      - url: "https://i.insider.com/60f9726c0729770012b93db5?width=1200&format=jpeg"
+        width: 795
+        height: 397
+        isCached: true
   - title: "Fintech and digital banking searches have been on the rise"
     excerpt: "Four popular fintech brands have seen a surge in Google searches as they’ve gained a foothold in the banking industry."
     publishedDateTime: 2021-08-30T09:02:00Z
@@ -39,21 +61,74 @@ related:
         width: 1279
         height: 640
         isCached: true
-  - title: "JPMorgan deepens wealthtech push by leading raise in investment analytics fintech"
-    excerpt: "It led a $50M round in Aumni to scale its investment analytics capabilities in private markets, and we expect the incumbent will seek more targets in H2 to power its digital transformation."
-    publishedDateTime: 2021-08-31T04:23:00Z
-    webUrl: "https://www.emarketer.com/content/jpmorgan-deepens-wealthtech-push"
+  - title: "China: WeiyangX Fintech Review"
+    excerpt: "(Source: Cyber Administration of China) AI Data Infrastructure Service Provider BasicFinder ... (Source: Tencent) The above is a weekly synopsis of the biggest stories on Fintech in China provided by WeiyangX, part of Tsinghua University, in partnership ..."
+    publishedDateTime: 2021-08-29T12:27:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/08/179727-china-weiyangx-fintech-review-212/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/08/179727-china-weiyangx-fintech-review-212/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/08/179727-china-weiyangx-fintech-review-212/amp/"
     type: article
     provider:
-      name: eMarketer
-      domain: emarketer.com
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/11/Beijing-China-2-600x599.jpeg"
+        width: 600
+        height: 599
+        isCached: true
+  - title: "Valued to be $28.8 Billion by 2026, Artificial Intelligence (AI) in Fintech Slated for Robust Growth Worldwide"
+    excerpt: "Home » Valued to be $28.8 Billion by 2026, Artificial Intelligence (AI) in Fintech Slated for Robust Growth Worldwide Valued to be $28.8 Billion by 2026, Artificial Intelligence (AI) in Fintech Slated for Robust Growth Worldwide Our MarketGlass ..."
+    publishedDateTime: 2021-08-29T08:45:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_fintech-news-today/valued-to-be-28-8-billion-by-2026-artificial-intelligence-ai-in-fintech-slated-for-robust-growth-worldwide/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
     quality: 34
     images:
-      - url: "https://contentstorage-nax1.emarketer.com/91ffbc3248ceb5523f42d9166a8d827c/21997_original_lazy?im=FitAndFill,width=1200,height=630"
-        width: 795
-        height: 476
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/9827233ed5e7ed4158e2d369c66b538c.jpeg"
+        width: 400
+        height: 252
         isCached: true
+  - title: "How the Indian Diaspora Helps Fuel Fintech Innovation in the UAE"
+    excerpt: "Recent news headlines have underscored the long-standing relationship between fintechs in India and the UAE. This week, we learned that Indian payment solution provider PayMate has teamed up with both Visa and Citi to automate business payments in the UAE."
+    publishedDateTime: 2021-08-27T20:54:00Z
+    webUrl: "https://finovate.com/how-the-indian-diaspora-helps-fuel-fintech-innovation-in-the-uae/"
+    type: article
+    provider:
+      name: finovate.com
+      domain: finovate.com
+    quality: 24
+    images:
+      - url: "https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/pexels-sreenadh-tc-4038084.jpg"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Global fintech market size to grow a CAGR of 8.5% to reach $191bn in 2028"
+    excerpt: "The global fintech market size was USD 100.09 billion in 2020 and is expected to register a revenue CAGR of 8.5% to reach USD 190.80 billion during 2021 - 2028, boosted by rising demand for digitization in organizations."
+    publishedDateTime: 2021-08-27T09:20:00Z
+    webUrl: "https://www.opalesque.com/687194/Global_fintech_market_size_to_grow_a_CAGR719.html"
+    type: article
+    provider:
+      name: Opalesque
+      domain: opalesque.com
+    quality: 23
+    images:
+      - url: "https://www.opalesque.com/images/GTE-Cap-Intro-Florida-(300x250).png"
+        width: 300
+        height: 250
+        isCached: true
+  - title: "Spice Money Partners with Israel’s Leading Fintech Player Tarya to Launch Community-led Rural Lend-Tech platform"
+    excerpt: "The joint venture will combine their technological expertise leveraging data to bring digital transformation and reshape financial"
+    publishedDateTime: 2021-08-31T08:53:00Z
+    webUrl: "https://www.indianweb2.com/2021/08/spice-money-partners-with-israels.html"
+    type: article
+    provider:
+      name: indianweb2.com
+      domain: indianweb2.com
+    quality: 0
 
-secured: "FAh7lSrs+HHnvgiF3owA7NCsjF/bHhahZ7C1JCCAWub+rsMKejeLC9nMv+FGmKeVCXQR0C02ydhxjJOtFFul23VEM2O4tmYVXarUVBBGc4qiipAj8W+8MrG3/Fgl3s0+kMkja1yVERuF9W5Cuo1EtQVmdmUcmok5bMa5gI+gcUXK/Jkiyz2vPjm/2jA78R67153230927cpxIHzLIuxvaiB6gPPoy5qwt2d3vom5+UsSFlaeRpLc7CUWRdvalZ80k7LgldNDRIKJS9hv5F1MlAks3j91CLbyquwC5CHYAzSYJ9eGLOPxLU3wLnKR10RM34aXN8fbB35wkzPqodHwL7m3uDoqsk7/BOIBKpK+2+Gpqy355iO8HwDG7lGzH476DI2kJ1k93k78jNfPSRsAqRZL+S9jqLNMWAt3t2SFDYSg394PZw+1sWlQt5itDgc3AHT2ZMs6q2/jxTKpsJ//XlnbN1UtHglR2kA+lrF9Z9/i+mtfr1biqQrVt/P3OCWjqdf8MCdGwOv/DZOyflnYvQ==;rlDAB2AJmH1CGCaU9Y0dIQ=="
+secured: "1LhAh7W+3k9grK7uYFt845sw8U02OxAxUoiCAW2IRremmGHxkmmWSb7Hi42wHQp15/GAtkvqSWHbmY+Nr6lhJQezADCJT1zvQFmJueOb3BsCdEA88z5GjdMOpHkP96gghC5YrKnPyj1qWHZUR3hciFuUf3q0h+EPHGK2cFVaFIVjvI6K9MJXFpga0eN9RfdwG1o5Ryzs/vCwPSSMG+9Ohw+OgLeBCrvG3LU1u1oIpzpn4M6WDU6rTK5ZU3VVnbprGYWJleD/MCYVQcYbvSBhQnNzWxP23XP5PdPgEoMmjYFpBhBeaGXpSngX4mt2ZaDH0hPXEIdEWNgaHWri4FMzPZSi9dfbbf/rwjOwUE8QYwk=;hKNgMho25ZenqbcwyDIi4g=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-07-26-imd-to-use-artificial-intelligence-machine-learning-for-accurate-weather-forecasts.md",
+      "title": "IMD to use artificial intelligence, machine learning for accurate weather forecasts",
+      "excerpt": "The IMD has formed several internal sub-groups of senior officials and meteorologists to decide on how best to use AI and ML in weather forecasts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbctv18.com/india/imd-to-use-artificial-intelligence-machine-learning-for-accurate-weather-forecasts-10113201.htm",
+      "originalUrl": "https://www.cnbctv18.com/india/imd-to-use-artificial-intelligence-machine-learning-for-accurate-weather-forecasts-10113201.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cnbctv18.com/wp-content/uploads/2021/06/kerala-rains-1019x573.jpg",
+          "width": 1019,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbctv18.com/india/imd-to-use-artificial-intelligence-machine-learning-for-accurate-weather-forecasts-10113201.htm/amp",
+      "cdnAmpWebUrl": "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/india/imd-to-use-artificial-intelligence-machine-learning-for-accurate-weather-forecasts-10113201.htm/amp",
+      "publishedDateTime": "2021-07-26T00:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cnbctv18",
+        "domain": "cnbctv18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-25-data-centers-in-an-ai-and-ml-driven-future.md",
       "title": "Data Centers in an AI and ML driven future",
       "excerpt": "Thank you for signing up to TechRadar. You will receive a verification email shortly. There was a problem. Please refresh the page and try again. No spam, we promise. You can unsubscribe at any time and we'll never share your details without your permission.",
@@ -1344,58 +1387,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-edge-impulse-combines-automl-and-tinyml-to-make-ai-ubiquitous.md",
-      "title": "Edge Impulse Combines AutoML And TinyML To Make AI Ubiquitous",
-      "excerpt": "Edge Impulse has partnered with silicon companies and DIY electronic kit developers to accelerate building AI models for microcontrollers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2021/07/19/edge-impulse-combines-automl-and-tinyml-to-make-ai-ubiquitous/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2021/07/19/edge-impulse-combines-automl-and-tinyml-to-make-ai-ubiquitous/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f511be8b024b0aecbdea50%2F0x0.jpg",
-          "width": 1000,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2021/07/19/edge-impulse-combines-automl-and-tinyml-to-make-ai-ubiquitous/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/07/19/edge-impulse-combines-automl-and-tinyml-to-make-ai-ubiquitous/amp/",
-      "publishedDateTime": "2021-07-18T22:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

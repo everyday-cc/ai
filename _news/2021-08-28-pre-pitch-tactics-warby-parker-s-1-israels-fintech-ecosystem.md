@@ -41,15 +41,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Spice Money Partners with Israel’s Leading Fintech Player Tarya to Launch Community-led Rural Lend-Tech platform"
-    excerpt: "The joint venture will combine their technological expertise leveraging data to bring digital transformation and reshape financial"
-    publishedDateTime: 2021-08-31T08:53:00Z
-    webUrl: "https://www.indianweb2.com/2021/08/spice-money-partners-with-israels.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 0
 
 secured: "8xKQuZ6HL6xH0mYPllAaqvqkdZMNjgGMoYJIFir9cX2AiwZqdlpAkcV6zXaCN5qS7U8NTBD26ABhRr4wldM+iXANiZOWbz3BAduyP+7EGJQbnYQxGaR9qx7MWsdoXGdx5BGreIF3msPy4bvJcosAkqTRR+5E2lm11zy3FCoLw1dtTaLVTWUoSNCQfR+3Uz2mj4Nk4O3/hrYls0mLdlkKWeEbYybshxwDv00xBZu101M1sMxy2lTTASFYqvXWUhdXTaaRNb2NLI0UczJJxK5dY4irxMPeRk+J2GBoK/95sWqr0d8a0mg447XS6wO8ghgIMl4iqn7laZTmdN0lp0PF2IOj7AQkHbhYUubF5NtU2aCtZ1piFtFFsPH4NkudfyKq3LR8bAWLD6SEnuFfD9zWGKBtxoxdzfSTZfrjO//QK3PdYjg5PVL+hEvYqdpPmkJ3EMr1bwmayXnrBxao8IsJKUqea1x25C40ULzWoUa//rqfRfApDLGafxyo41w7EL/YJXyziKu2A64AuZVdwfJ4Dg==;6VxlI5Oduqo1t7/GSXTlHA=="
 ---

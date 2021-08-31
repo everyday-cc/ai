@@ -7,7 +7,7 @@ originalUrl: "https://www.nextgov.com/emerging-tech/2021/08/army-wants-install-f
 webUrl: "https://www.nextgov.com/emerging-tech/2021/08/army-wants-install-facial-recognition-video-analytics-child-development-centers/184915/"
 type: article
 quality: 131
-heat: 201
+heat: 211
 published: true
 
 provider:
@@ -105,6 +105,20 @@ related:
       - url: "https://mma.prnewswire.com/media/780816/Open_Text_Logo.jpg"
         width: 400
         height: 400
+        isCached: true
+  - title: "Lex Machina's Market-Leading State Court Analytics Driven By The Collection Of State Documents"
+    excerpt: "Lex Machina, a LexisNexis company, takes state court analytics to a new level, driven by Lex Machina's unique combination of"
+    publishedDateTime: 2021-08-31T15:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/lex-machinas-market-leading-state-court-analytics-driven-by-the-collection-of-state-documents-301363025.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 12
+    images:
+      - url: "https://mma.prnewswire.com/media/484883/LexisNexis_Logo.jpg?p=facebook"
+        width: 600
+        height: 315
         isCached: true
   - title: "Cognigy Launches Conversational AI Analytics Suite to Deliver Actionable Insights From Conversational Data"
     excerpt: "The Cognigy Insights analytics suite will enhance the capabilities of the Cognigy.AI platform to make sense of conversational data and facilitate data-driven optimisation SYDNEY-- ( BUSINESS WIRE )-- Cognigy,"

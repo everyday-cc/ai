@@ -30,7 +30,7 @@ related:
   - title: "Israeli sales tech startup nets $15m in Eight Roads Ventures-led round"
     excerpt: "Walnut, an Israel-based sales experience startup, has raised US$15 million in a series A round led by Eight Roads Ventures. Through its no-code platform, the startup aims to make the process of creating demos more efficient,"
     publishedDateTime: 2021-08-31T13:58:00Z
-    webUrl: "https://www.techinasia.com/israeli-sales-tech-startup-nets-15m-series-a-eight-road-ventures"
+    webUrl: "https://www.techinasia.com/israeli-sales-tech-startup-nets-15m-series-a-eight-road-ventures?comments=true"
     type: article
     provider:
       name: Techinasia
@@ -51,6 +51,6 @@ related:
         height: 901
         isCached: true
 
-secured: "jIjJUnNZ3Q7aD1coG5529C6LC+5XcqOgv1azsA6M00ePzfumuwHoR9gUMHMMDJxtJB6C/nneHooihE5nJy9OWU1Lcv6pMJhFOBJK4mg0XRrWuPtOWT4h9q/vlTV/hcjj8/Is8Dvw+eG70aQ2n5vqMIO0i3Uh5j3huY8DHFXyBfTWiais3gtam+FvniyuU9L+BIdjZ3xKy08AxYbdnk2808Nmw2U4bDY/SqbNtgEBDgrLAljm/pfU9sK+mfu0UuiissC3H4JviMC44RC/7pQzarE7+uTrfvIveRBSXOS/vFoxBc4//J85vcs5G7epXIRwz9ejMfUBD7Ah/Sl/HKdWJbZVGbb8o7IXt3nSfWgbRt8=;n56TLMNRE2f9XgxccVW9Fg=="
+secured: "s++BJOe7AGfx42LGdtNDu9D0PZJFRGo//Vtvar0QkVfFqapVjrlNxdtVMlDDvSldP4LRU9l7pfp4YojiwIu+lMVXtaIinzPs9v1OOYYZO46BS461nEZsbL49aO7Dk34ieZNBqqW4iVstkOvaam/WpvOA5mu+XcAIbKGgKD6KgAgzbswaOpG8H2YKHtJ1G3vK3q5qrE8mvTl5C2aBglEC4qG9yjFIW0QBBFlf3oW/KPUAmX+JdMus3X1MDH1pTLqNTDDPf2nbLvcozRyNbaPwckqN4h/mmQ++Vh0Mor7+ueaf1LqJ7wr+2XQP9W6MSLwJdP8asAtpRTLLybGLyrxxq0s7SyZuZCcFyzW68QA/WCLeEW0spN0qrOTXy3++CctwpoYODTloyJOPg+BsJvAL6qyT3eVasNdLe5TSYN8VgPf1FsZvY5hp3ZhCgi6/Qi/pL9OWiSz5/0EmcNEC7sbDBXHX4KPtlloXXu4vqcOQ3hJv39w4tUKo3yzv712kjIPZbdJ3WEr9cdsyh1gkC/OGNw==;Jdgvt1mW9qYZVfUBenTkpA=="
 ---
 

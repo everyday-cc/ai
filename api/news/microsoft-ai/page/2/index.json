@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-16-artificial-intelligence-in-retail-market-sizesharerecent-study-by-2027microsoft-nvidia-amazon-web-services.md",
+      "title": "Artificial Intelligence in Retail Market Size,Share,Recent Study by 2027|Microsoft, Nvidia, Amazon Web Services",
+      "excerpt": "“Los Angeles, United States, Aug 2021,- QY Research has recently published a new report, titled Global Artificial Intelligence in Retail Market Report, History and Forecast 2016-2027, Breakdown Data by Companies, Key Regions, Types and Application The ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2355656/artificial-intelligence-in-retail-market-size-share-recent",
+      "originalUrl": "https://www.openpr.com/news/2355656/artificial-intelligence-in-retail-market-size-share-recent",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/8/U816958276_g.jpg",
+          "width": 800,
+          "height": 407,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2355656/artificial-intelligence-in-retail-market-size-share-recent",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2355656/artificial-intelligence-in-retail-market-size-share-recent",
+      "publishedDateTime": "2021-08-15T21:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-13-global-machine-learning-accelerator-for-healthcare-report-forecast-to-2021-27-google-ibm-and-microsoft.md",
       "title": "Global Machine Learning Accelerator For Healthcare Report Forecast to 2021-27- Google, IBM, and Microsoft.",
       "excerpt": "The global Machine Learning Accelerator For Healthcare sector, it is forecasted to achieve a CAGR of xx% by the year end 2027. This growth rate will benefit the sector to achieve USD xx in 2027 , which is in 2020 valued at USD xx billion.",
@@ -1260,58 +1304,6 @@
         "AI in Healthcare",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-microsofts-new-azure-data-services-explained.md",
-      "title": "Microsoft's new Azure data services explained",
-      "excerpt": "And like other Azure data services, you can use the data as a source for Azure Machine Learning, or analyse it in Power BI. Download this article and thousands of whitepapers and ebooks from our ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/article/microsofts-new-azure-data-services-explained/",
-      "originalUrl": "https://www.techrepublic.com/index.php/article/microsofts-new-azure-data-services-explained/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/google-amp/article/microsofts-new-azure-data-services-explained/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/microsofts-new-azure-data-services-explained/",
-      "publishedDateTime": "2021-08-02T03:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

@@ -90,6 +90,60 @@
       ]
     },
     {
+      "path": "_news/2021-08-27-celebrity-spotting-amazon-improves-facial-recognition-for-famous-people.md",
+      "title": "Celebrity spotting: Amazon improves facial recognition for famous people",
+      "excerpt": "Amazon promises its Rekognition machine-learning tech will save hours of humans tagging photos and videos of celebrities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/",
+      "originalUrl": "https://www.zdnet.com/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/08/27/0edfb3a5-a400-465b-86f8-f06782fe711e/amazon-rekognition-wener-vogels.jpg",
+          "width": 1054,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/",
+      "publishedDateTime": "2021-08-26T20:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Computer Vision",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-26-recognize-celebrities-in-images-and-videos-using-amazon-rekognition.md",
       "title": "Recognize celebrities in images and videos using Amazon Rekognition",
       "excerpt": "The celebrity recognition feature in Amazon Rekognition automatically recognizes tens of thousands of well-known personalities in images and videos using machine learning (ML). Celebrity recognition significantly reduces the repetitive manual effort required to tag produced media content and make it",
@@ -1368,59 +1422,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-run-ml-inference-on-aws-snowball-edge-with-amazon-sagemaker-edge-manager-and-aws-iot-greengrass.md",
-      "title": "Run ML inference on AWS Snowball Edge with Amazon SageMaker Edge Manager and AWS IoT Greengrass",
-      "excerpt": "You can use AWS Snowball Edge devices in locations like cruise ships, oil rigs, and factory floors with limited to no network connectivity for a wide range of machine learning (ML) applications such as surveillance, facial recognition, and industrial inspection. However, given the remote and disconnected",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/run-ml-inference-on-aws-snowball-edge-with-amazon-sagemaker-edge-manager-and-aws-iot-greengrass/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-ml-inference-on-aws-snowball-edge-with-amazon-sagemaker-edge-manager-and-aws-iot-greengrass/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-11T14:28:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

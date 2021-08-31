@@ -44,6 +44,15 @@ related:
         width: 1000
         height: 672
         isCached: true
+  - title: "Verizon starts on-site 5G edge services for Azure private cloud"
+    excerpt: "Verizon announced the availability of an on-premises, private edge compute service with Microsoft Azure, building on their collaboration formed last year. Verizon 5G Edge with Microsoft Azure Stack Edge is a cloud computing platform that brings compute and storage services to the edge of the network at the customer premises."
+    publishedDateTime: 2021-08-31T14:55:00Z
+    webUrl: "https://www.telecompaper.com/news/verizon-starts-on-site-5g-edge-services-for-azure-private-cloud--1395486"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
 secured: "5MAqDLDUVOqnZrWk37C/1O2oplJdd9h+HlfaUu7eb+oz7HZzjs5JZmI4WprjsGucl81GSR7Ka0FTaxPMfyZFKkE80eCTN3ddpy6TFbB3SlLCU0dp6KqJcafdwmV0ofiz5I4cJ/17KuRgSudZZyksrJ9T/2rytt3XHHIDo2R9e0xztX0ASufIhNY3hf4f/26XJjcXCWLB1AokpkhQ2m1dMXpoHTnC7Wb5Ecq6vpEKdNWoCnWjfFgZ4YlNAKrxen8a1YY2ReWtGXEY9q0qeqtY7LKhb574IAvwKas//F7yeCF1g7Yi5/51WMs4+tE19ZuHmXCEiRN/FESUB42DvwQqd1CnF2xXON9yztkh/SEapQM=;TMX2n9CtlX9Vi28revKfSQ=="
 ---

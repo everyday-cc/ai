@@ -2,6 +2,127 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-07-15-partnership-of-the-caribbean-securing-the-west-indies.md",
+      "title": "Partnership of the Caribbean: Securing the West Indies",
+      "excerpt": "In 2004, Cyclops Technologies, under the PlateSmart Technologies brand, introduced the first software-only, camera-agnostic automatic license plate recognition (ALPR) engine powered by early AI-based object recognition technology and compatible with video ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.tmcnet.com/usubmit/2021/07/15/9410651.htm",
+      "originalUrl": "https://news.tmcnet.com/usubmit/2021/07/15/9410651.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-14T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-congress-asks-experts-for-guidance-on-facial-recognition.md",
+      "title": "Congress Asks Experts for Guidance on Facial Recognition",
+      "excerpt": "Law enforcement uses facial recognition systems with little oversight and, at times, disastrous impact. During a congressional hearing this week, members and experts talked through how new laws could head off greater harm.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/security/congress-asks-experts-for-guidance-on-facial-recognition",
+      "originalUrl": "https://www.govtech.com/security/congress-asks-experts-for-guidance-on-facial-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/9451d55/2147483647/strip/true/crop/1095x571+18+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F67%2F8b%2Fbf2467764012829abc8b9b917271%2Frw-better.png",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/security/congress-asks-experts-for-guidance-on-facial-recognition?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/congress-asks-experts-for-guidance-on-facial-recognition?_amp=true",
+      "publishedDateTime": "2021-07-14T16:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-civil-rights-groups-take-aim-at-facial-recognition-tech-in-stores.md",
+      "title": "Civil Rights Groups Take Aim at Facial Recognition Tech in Stores",
+      "excerpt": "Three dozen civil rights organizations have called on retailers to stop using the tech, saying “prioritizing profit over privacy is wrong.”",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/01/14/fight-for-the-future-launches-campaign-to-keep-facial-recognition-off-u-s-college-campuses/",
+      "originalUrl": "https://wwd.com/business-news/technology/civil-rights-groups-protest-facial-recognition-tech-stores-1234882271/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 244,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/08/deepfake-e1576010828444.jpg?fit=800%2C400&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/01/14/fight-for-the-future-launches-campaign-to-keep-facial-recognition-off-u-s-college-campuses/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/14/fight-for-the-future-launches-campaign-to-keep-facial-recognition-off-u-s-college-campuses/amp/",
+      "publishedDateTime": "2021-07-14T15:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Women's Wear Daily",
+        "domain": "wwd.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-07-14-report-computer-vision-adoption-expected-to-grow-significantly-in-the-near-future.md",
       "title": "Report: Computer vision adoption expected to grow significantly in the near future",
       "excerpt": "An overwhelming 96% of respondents believe that computer vision has the potential to boost revenue, while 97% said these technologies will save their organization time and money, according to a new IDG study commissioned by Insight. While only 10% of ...",
@@ -1263,126 +1384,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-atos-launches-atos-computer-vision-platform-the-first-highly-scalable-end-to-end-artificial-intelligence-video-and-image-analytics-platform.md",
-      "title": "Atos launches Atos Computer Vision Platform, the first highly scalable end-to-end Artificial Intelligence video and image analytics platform",
-      "excerpt": "Atos Technology Days’ event, Atos today launches Atos Computer Vision Platform , its new highly scalable end-to-end AI video and image analytics platform. It is the most comprehensive video and image analytics solution on the market today and the only one which combines a full offering bringing together a set of pre-trained and customizable AI models,",
-      "sourceUrl": null,
-      "webUrl": "https://www.pressreleasepoint.com/atos-launches-atos-computer-vision-platform-first-highly-scalable-end-end-artificial-intelligence",
-      "originalUrl": "https://www.pressreleasepoint.com/atos-launches-atos-computer-vision-platform-first-highly-scalable-end-end-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pressreleasepoint.com/sites/all/modules/press_release/social-media-icons/fbpage.png",
-          "width": 256,
-          "height": 256,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KLAS Press Release",
-        "domain": "pressreleasepoint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-hybrid-architecture-speeds-ai-vision-workloads.md",
-      "title": "Hybrid architecture speeds AI, vision workloads",
-      "excerpt": "A novel hybrid data-flow and Von Neumann architecture can accelerate workloads including neural networks, machine learning, computer vision, DSP and basic",
-      "sourceUrl": null,
-      "webUrl": "https://www.embedded.com/hybrid-architecture-speeds-ai-vision-workloads/",
-      "originalUrl": "https://www.embedded.com/hybrid-architecture-speeds-ai-vision-workloads/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.embedded.com/wp-content/uploads/2021/07/img20210706030431Quadric-Hybrid-Architecture-Take_0_w1642_h925.jpg",
-          "width": 1642,
-          "height": 925,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-06T12:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Embedded",
-        "domain": "embedded.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-cyberlinks-facial-recognition-technology-partners-with-asus-edge-computing-single-board-computers-to-create-smart-iotaiot-applications.md",
-      "title": "CyberLink's Facial Recognition Technology Partners with ASUS Edge Computing Single-board Computers to Create Smart IoT/AIoT Applications",
-      "excerpt": "CyberLink Corp. (5203.TW), a pioneer in AI and facial recognition technologies, today announced a partnership with ASUS, by integrating its FaceMe® AI",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210706005212/en/CyberLinks-Facial-Recognition-Technology-Partners-with-ASUS-Edge-Computing-Single-board-Computers-to-Create-Smart-IoTAIoT-Applications",
-      "originalUrl": "https://www.businesswire.com/news/home/20210706005212/en/CyberLinks-Facial-Recognition-Technology-Partners-with-ASUS-Edge-Computing-Single-board-Computers-to-Create-Smart-IoTAIoT-Applications",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-06T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

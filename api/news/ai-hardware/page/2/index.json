@@ -2,6 +2,207 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-23-the-possibilities-of-ai-in-2030-transformation-across-dimensions.md",
+      "title": "The Possibilities Of AI In 2030: Transformation Across Dimensions",
+      "excerpt": "The decade will truly belong to those who understand the importance of data, algorithms and computational architectures and can use the transformations in these spaces in truly effective ways.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/08/23/the-possibilities-of-ai-in-2030-transformation-across-dimensions/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/08/23/the-possibilities-of-ai-in-2030-transformation-across-dimensions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611ffbd688a933e24c37e9fe%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/08/23/the-possibilities-of-ai-in-2030-transformation-across-dimensions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/08/23/the-possibilities-of-ai-in-2030-transformation-across-dimensions/amp/",
+      "publishedDateTime": "2021-08-23T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-23-synopsys-ceo-ai-designed-chips-will-generate-1000x-performance-in-10-years.md",
+      "title": "Synopsys CEO: AI-designed chips will generate 1,000X performance in 10 years",
+      "excerpt": "AI-designed chips are producing could lead to 1,000 times better performance for chips in the next decade, says Synopsys CEO Aart de Geus.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/23/synopsys-ceo-ai-designed-chips-will-generate-1000x-performance-in-10-years/",
+      "originalUrl": "https://venturebeat.com/2021/08/23/synopsys-ceo-ai-designed-chips-will-generate-1000x-performance-in-10-years/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/syn-2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 662,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/23/synopsys-ceo-ai-designed-chips-will-generate-1000x-performance-in-10-years/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/23/synopsys-ceo-ai-designed-chips-will-generate-1000x-performance-in-10-years/amp/",
+      "publishedDateTime": "2021-08-23T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-23-new-chip-helps-chinese-tech-brand-baidu-to-make-level-5-fully-autonomous-robocar.md",
+      "title": "New Chip Helps Chinese Tech Brand Baidu to Make Level 5 Fully Autonomous 'Robocar'",
+      "excerpt": "At the end of 2018, John Krafcik, boss of Waymo at the time (Alphabet’s autonomous car ... The production of a new second-generation Kunlun chip specialized in calculations and artificial intelligence seems to be part of the solution.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news18.com/news/auto/new-chip-helps-chinese-tech-brand-baidu-to-make-level-5-fully-autonomous-robocar-4115870.html",
+      "originalUrl": "https://www.news18.com/news/auto/new-chip-helps-chinese-tech-brand-baidu-to-make-level-5-fully-autonomous-robocar-4115870.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.news18.com/ibnlive/uploads/2021/08/baidu_co_founder_ceo_robin_li_cctv_host_beining_sa_sit-162969138516x9.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news18.com/amp/news/auto/new-chip-helps-chinese-tech-brand-baidu-to-make-level-5-fully-autonomous-robocar-4115870.html",
+      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/auto/new-chip-helps-chinese-tech-brand-baidu-to-make-level-5-fully-autonomous-robocar-4115870.html",
+      "publishedDateTime": "2021-08-22T21:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN-News18",
+        "domain": "news18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-08-20-tesla-unveils-dojo-supercomputer-worlds-new-most-powerful-ai-training-machine.md",
+      "title": "Tesla unveils Dojo supercomputer: world’s new most powerful AI training machine",
+      "excerpt": "At its AI Day, Tesla unveiled its Dojo supercomputer technology while flexing its growing in-house chip design talent. The automaker claims to have developed the fastest AI training machine in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/08/20/tesla-dojo-supercomputer-worlds-new-most-powerful-ai-training-machine/",
+      "originalUrl": "https://electrek.co/2021/08/20/tesla-dojo-supercomputer-worlds-new-most-powerful-ai-training-machine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Dojo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/08/20/tesla-dojo-supercomputer-worlds-new-most-powerful-ai-training-machine/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/20/tesla-dojo-supercomputer-worlds-new-most-powerful-ai-training-machine/amp/",
+      "publishedDateTime": "2021-08-20T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-08-20-baidu-unveils-robocar-and-its-second-generation-ai-chip-in-china.md",
       "title": "Baidu Unveils Robocar And Its Second-Generation AI Chip In China",
       "excerpt": "Chinese internet and AI behemoth Baidu has unveiled its second-generation artificial intelligence chip alongside a host of other important pieces of technology related to the automotive industry, including a ‘robocar’.",
@@ -1235,200 +1436,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-motivo-raises-125m-series-a-to-speed-up-chip-design-with-ai.md",
-      "title": "Motivo raises $12.5M Series A to speed up chip design with AI",
-      "excerpt": "Chip design is a long slog of trial and error, taking years to bring a design to market. Motivo, a five year old startup from a chip industry veteran is creating software to speed up chip design from years to months using AI.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/08/12/motivo-raises-12-5m-series-a-to-speed-up-chip-design-with-ai/",
-      "originalUrl": "https://techcrunch.com/2021/08/12/motivo-raises-12-5m-series-a-to-speed-up-chip-design-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1095112402.jpg?w=1024",
-          "width": 1024,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/08/12/motivo-raises-12-5m-series-a-to-speed-up-chip-design-with-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/12/motivo-raises-12-5m-series-a-to-speed-up-chip-design-with-ai/amp/",
-      "publishedDateTime": "2021-08-12T06:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-vw-aims-to-increase-output-by-30-at-its-north-american-plants-with-better-software-ai-and-robotics.md",
-      "title": "VW Aims To Increase Output By 30% At Its North American Plants With Better Software, AI, And Robotics",
-      "excerpt": "VW believes better robots and industrial machines that can be updated will make factories much more efficient.",
-      "sourceUrl": null,
-      "webUrl": "https://www.carscoops.com/2021/08/vw-aims-to-increase-output-by-30-at-its-north-american-plants-with-better-software-ai-and-robotics/",
-      "originalUrl": "https://www.carscoops.com/2021/08/vw-aims-to-increase-output-by-30-at-its-north-american-plants-with-better-software-ai-and-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.carscoops.com/wp-content/uploads/2021/08/VW-AI-and-Robotics-Push-2-1024x555.jpg",
-          "width": 1024,
-          "height": 555,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.carscoops.com/2021/08/vw-aims-to-increase-output-by-30-at-its-north-american-plants-with-better-software-ai-and-robotics/amp/",
-      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/08/vw-aims-to-increase-output-by-30-at-its-north-american-plants-with-better-software-ai-and-robotics/amp/",
-      "publishedDateTime": "2021-08-11T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Carscoops",
-        "domain": "carscoops.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-artificial-intelligence-ai-chipsets-market-booming-segments-investors-seeking-stunning-growth-market-size-forecast-2028.md",
-      "title": "Artificial Intelligence (AI) Chipsets Market Booming Segments; Investors Seeking Stunning Growth, Market Size, Forecast 2028",
-      "excerpt": "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-booming-segments-investors-seeking-stunning-growth-market-size-forecast-2028-2021-08-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-booming-segments-investors-seeking-stunning-growth-market-size-forecast-2028-2021-08-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-11T01:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Healthcare",
-        "Machine Learning",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-nvidia-launches-new-rtx-a2000-gpu-with-6gb-gddr6-ecc-memory.md",
-      "title": "NVIDIA Launches New RTX A2000 GPU With 6GB GDDR6 ECC Memory",
-      "excerpt": "NVIDIA officially launched the RTX A2000, a compact GPU designed for professionals, designed to fit into small form factor desktop PCs. Built upon the GPU brand’s current Ampere architecture, the card was built to handle a wide variety of professional tasks by accelerating AI and ray-tracing in workflows.",
-      "sourceUrl": null,
-      "webUrl": "https://www.lowyat.net/2021/248919/nvidia-launches-new-rtx-a2000-gpu-with-6gb-gddr6-ecc-memory/",
-      "originalUrl": "https://www.lowyat.net/2021/248919/nvidia-launches-new-rtx-a2000-gpu-with-6gb-gddr6-ecc-memory/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lowyat.net/wp-content/uploads/2021/08/NVIDIA-RTX-A2000-1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.lowyat.net/2021/248919/nvidia-launches-new-rtx-a2000-gpu-with-6gb-gddr6-ecc-memory/amp/",
-      "cdnAmpWebUrl": "https://www-lowyat-net.cdn.ampproject.org/c/s/www.lowyat.net/2021/248919/nvidia-launches-new-rtx-a2000-gpu-with-6gb-gddr6-ecc-memory/amp/",
-      "publishedDateTime": "2021-08-10T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Lowyat.net",
-        "domain": "lowyat.net",
-        "images": null,
         "publishers": null,
         "authors": null
       },

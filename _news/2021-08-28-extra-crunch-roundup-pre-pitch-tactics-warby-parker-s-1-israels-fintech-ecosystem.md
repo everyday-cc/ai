@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/08/27/extra-crunch-roundup-pre-pitch-tac
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/27/extra-crunch-roundup-pre-pitch-tactics-warby-parker-s-1-israels-fintech-ecosystem/amp/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Spice Money Partners with Israel’s Leading Fintech Player Tarya to Launch Community-led Rural Lend-Tech platform"
-    excerpt: "The joint venture will combine their technological expertise leveraging data to bring digital transformation and reshape financial"
-    publishedDateTime: 2021-08-31T08:53:00Z
-    webUrl: "https://www.indianweb2.com/2021/08/spice-money-partners-with-israels.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 0
 
 secured: "4KErFq7RguvQX/J0yRYG3nroz55rlAjbFjb2z4uhIocoBjivd7kCGRwZGxytF6zwcBy8Oxv37G7tIiY+2zpSNSraEZzEVm0ZaatDc7tZJUccqUG3aO2WXe1nQqFUJQYXdGVE9bq7Ou7Lz9js54XghO2R3mdIAnOhp14vNM96k9tT1xDdW1npPDOLPGEJEbuTgZEmagj8ZsJHAp+lwhTeRrEEZMcqG9X0FAmDHcoCfvIS8h/xysCL7cmQeaDqP3k5vg1X/xILNtEXJPR64yCtPDP/Cnb5+xe6DJJvwPpMY7Am4PGxWr2ua4MDBmvFMf+HhZTHBDIFNJkCsxfgJeKv0rZ6fVqeRWXK9ajijnNmrv38PaKnbCGRQXguBCMeTd/Ra+fZDPyhH+xdX3jWqO/EEKpO+moYLYSUZZpCGkXbKkbI8hgnxCzkFEM6U2vP9feHB2v2mzyn2gs2siaAVD724oIkcLCtgxnjLCeWL+9R6L9F6lsqtqKlgdaQ+H1MgGHWAP0pVzMh2rEQv6KYiyUn/Q==;G3DA+GmsIev5K/po8Mt3wA=="
 ---

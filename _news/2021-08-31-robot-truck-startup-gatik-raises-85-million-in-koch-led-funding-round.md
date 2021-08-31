@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2021/08/31/robot-truck-star
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2021/08/31/robot-truck-startup-gatik-raises-85-million-in-koch-led-funding-round/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 115
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-08-standards-machine.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-standards-machine.amp"
 type: article
 quality: 59
-heat: 79
+heat: 80
 published: true
 
 provider:

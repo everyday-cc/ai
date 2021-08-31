@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2021/08/31/nvidias-latest-tech-makes-ai-voices-m
 ampWebUrl: "https://techcrunch.com/2021/08/31/nvidias-latest-tech-makes-ai-voices-more-expressive-and-realistic/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/31/nvidias-latest-tech-makes-ai-voices-more-expressive-and-realistic/amp/"
 type: article
-quality: 87
-heat: 117
+quality: 89
+heat: 139
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2021/08/Rafael_002.jpg?w=1024"
@@ -30,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "NVIDIA shares expressive speech synthesis research at Interspeech"
+    excerpt: "Developers and creators can access state-of-the-art conversational AI models for expressive speech synthesis to generate voices for characters, virtual assistants and personalized avatars."
+    publishedDateTime: 2021-08-31T14:58:00Z
+    webUrl: "https://www.dqindia.com/nvidia-shares-expressive-speech-synthesis-research-interspeech/"
+    ampWebUrl: "https://www.dqindia.com/nvidia-shares-expressive-speech-synthesis-research-interspeech/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/nvidia-shares-expressive-speech-synthesis-research-interspeech/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 44
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/07/Data-for-AI.jpg"
+        width: 850
+        height: 400
+        isCached: true
   - title: "Nvidia Aims vSphere-Integrated AI Software Suite at Enterprise Market"
     excerpt: "The AI leader has designed the software together with VMware to make AI easier for both data scientists and enterprise IT pros."
     publishedDateTime: 2021-08-30T13:49:00Z
@@ -43,6 +60,20 @@ related:
       - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/jensen%20huang%20nvidia%20gtc%2020%20keynote%20kitchen.png"
         width: 1413
         height: 736
+        isCached: true
+  - title: "Nvidia projects are helping AI find its human-like voice"
+    excerpt: "Nvidia is presenting multiple speech technology efforts at Interspeech this week, including one to help create more human-sounding AI voices."
+    publishedDateTime: 2021-08-31T14:23:00Z
+    webUrl: "https://www.fierceelectronics.com/electronics/nvidia-helping-ai-find-its-human-like-voice"
+    type: article
+    provider:
+      name: fierceelectronics
+      domain: fierceelectronics.com
+    quality: 39
+    images:
+      - url: "https://qtxasset.com/fierceelectronics/1630421287/Interspeech%20Press%20Graphic.jpg?hpuWXoyncP1AHsu8QCYo2fGwPxvfXhII"
+        width: 1999
+        height: 1024
         isCached: true
   - title: "Global Artificial Intelligence Ai In Healthcare Market 2021 Latest Advancements and Business Outlook-NVIDIA Corporation (NVIDIA) (US)"
     excerpt: "Many creative start-ups that are rapidly developing have been featured ... Asia Pacific has one of the largest consumer bases and holds a substantial share of the Artificial Intelligence Ai In Healthcare Market. This region is also anticipated to expand ..."
@@ -70,6 +101,6 @@ related:
         height: 536
         isCached: true
 
-secured: "r6mzm4L/+YDMea6jT5O7rmEAWiwZ/pKDZPPSn9QjorwdFeR0HQpNqek2FYvy9VLJdrDqQ+lJvXYPgKmECYMpsQP+YCa9BDlJdCnNY529JH82+7Z70Aj434/Yf0+RL0z3W10BT9Y7gGZbHNR43Htuz7TOvr2NTQsZmWalqi+pCZtRzG+mRDysYC3UbvlNVSDzRn+hZc7o6Vsqywxd1LUyI/7jY4JXxHXYxiosrwaPaYNqly+NZI/RLBm8Xx7vxY4ewwU8rGPpSoW6Pe60po3aSqq8PyfSYxvvhix2EBdfr2/mgAgwMYtEIX9IKdXAiRxb4j6YPd3pigy2GCsP1IOaKl+iWIQEI50s7oVzm+ciPU4=;pHu2/veixIgmwfNzf9TnrA=="
+secured: "GjbmrvVvu6CyIbZmP2V22+LiaBI6nKC6hdY4CZaOBL9UhQQSCrXESG/1513ND3K2fge9BnJI6aaplgnkEo0yFabbui609NGIQZj6N1LBR3dpqCYxrJCMRIJpHJGgglYEQEvfb5lFAbx6pzOKdUP25X9KEIRmP7ggkh1OctMh14l6KDe5FEezKuBowAUkhEHFeACg+XyUWov/A9OdFWZcPf9dudk3XtN7Ni7hSJydIQRG+Yh6TSYaBLM51rTj6k+E2vPyMGcG7Fbgpd481+ND43cAEVoHaBJInANZ3fk9C8vqqHd7VfWwqSFxG0kIl08FAer0XJpll9PEaYp1JisRFsTS0zJl6aWu0lK0H4OKAAnJ135dz+JvgvHMhQ1kvTYrSU5otIMTv2qyPBBek/BsmXNAd1Q8T9E4p8dte6IQ6UgXHcaXLe3NYJ4o8vLnp++a1KF74rIirhRzhy7gEYIVEsS6/He6N95VPEGpZtygbqXgCCk3mrsjTs2NbXUU6UhkThz5x5b0q+htERTQ/q15Kw==;9rYPa8eAb0x9HsvuwreZvg=="
 ---
 

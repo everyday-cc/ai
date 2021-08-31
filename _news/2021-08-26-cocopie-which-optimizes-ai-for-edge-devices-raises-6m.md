@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - Facebook AI
+  - AI Hardware
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/11/texting.GettyImages-994454806-e1623124901126.jpg?w=1200&#038;strip=all"

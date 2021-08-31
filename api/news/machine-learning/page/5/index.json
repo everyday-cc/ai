@@ -2,6 +2,59 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-07-31-aws-neptune-update-machine-learning-data-science-and-the-future-of-graph-databases.md",
+      "title": "AWS Neptune update: Machine learning, data science, and the future of graph databases",
+      "excerpt": "Neptune ML is powered by Amazon SageMaker and the open source Deep Graph Library (DGL), to which Amazon contributes. GNNs is a relatively new branch of Deep Learning, with the interesting feature ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/recent/index.php/article/aws-neptune-update-machine-learning-data-science-and-the-future-of-graph-databases/",
+      "originalUrl": "https://www.zdnet.com/index.php/recent/index.php/article/aws-neptune-update-machine-learning-data-science-and-the-future-of-graph-databases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/r/2021/07/14/62f347fe-6f0b-4839-ab2b-06e018ce2952/thumbnail/770x578/39a01d6b5ca478d2dfbafb1737c4d324/amazonneptuneml.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-30T14:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-07-31-platform-teaches-nonexperts-to-use-machine-learning.md",
       "title": "Platform Teaches Nonexperts to Use Machine Learning",
       "excerpt": "Research from Cornell explores how to help nonexperts use machine-learning algorithms to better enable industries beyond the computing field to harness the power of AI.",
@@ -1318,49 +1371,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-imd-to-use-artificial-intelligence-machine-learning-for-accurate-weather-forecasts.md",
-      "title": "IMD to use artificial intelligence, machine learning for accurate weather forecasts",
-      "excerpt": "The IMD has formed several internal sub-groups of senior officials and meteorologists to decide on how best to use AI and ML in weather forecasts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbctv18.com/india/imd-to-use-artificial-intelligence-machine-learning-for-accurate-weather-forecasts-10113201.htm",
-      "originalUrl": "https://www.cnbctv18.com/india/imd-to-use-artificial-intelligence-machine-learning-for-accurate-weather-forecasts-10113201.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cnbctv18.com/wp-content/uploads/2021/06/kerala-rains-1019x573.jpg",
-          "width": 1019,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbctv18.com/india/imd-to-use-artificial-intelligence-machine-learning-for-accurate-weather-forecasts-10113201.htm/amp",
-      "cdnAmpWebUrl": "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/india/imd-to-use-artificial-intelligence-machine-learning-for-accurate-weather-forecasts-10113201.htm/amp",
-      "publishedDateTime": "2021-07-26T00:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cnbctv18",
-        "domain": "cnbctv18.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -88,19 +88,19 @@ related:
         width: 700
         height: 300
         isCached: true
-  - title: "Big Data And AI In The 7-Step Financial Planning Process"
-    excerpt: "Big data and artificial intelligence (AI) have tremendous disruptive potential in nearly every industry, and financial services is no exception. These powerful technologies are set to change the way in which plans are delivered,"
-    publishedDateTime: 2021-08-26T21:05:00Z
-    webUrl: "https://www.fa-mag.com/news/big-data-and-ai-in-the-7-step-financial-planning-process-63717.html?section=40"
+  - title: "3 Ways Artificial Intelligence Tech Is Reshaping Enterprise Recruiting"
+    excerpt: "It's estimated that 80% of companies use artificial intelligence in their HR workflows as it brings immense value to enterprise recruiting."
+    publishedDateTime: 2021-08-31T15:17:00Z
+    webUrl: "https://techreport.com/software/3474594/artificial-intelligence-enterprise-recruiting/"
     type: article
     provider:
-      name: Financial Advisor
-      domain: fa-mag.com
+      name: The Tech Report
+      domain: techreport.com
     quality: 37
     images:
-      - url: "https://www.fa-mag.com/images/logo_opengraph.jpg"
-        width: 1200
-        height: 1200
+      - url: "https://cdn.techreport.com/wp-content/uploads/2021/08/artificial-intelligence-enterprise-recruiting.jpg"
+        width: 1920
+        height: 1280
         isCached: true
 
 secured: "eeu8FXxsAVc952uzYEePEclkFT94RANZ+zKp+eKJ/iC3Tez7ymUTmiuJ2avNe2XyqK8TJjh++82HWJWYaN1F/N7xQtzd6FAQ7X9/meZuQVGvIYwz/sN0C8qLOh9ReI0gfHF3+iW+hNdZMpr+jaqxWxxwuF//G3FxFaB3wDdLfUYHbuqYFamEpWgPHNvRF/rCqXiuRwJx5xGxDx07LQjkzISjnn+YobzE0FhwhuNGDbrUzj9OB2kmoXfH9S1WSHH5NKgWE4dkH377uQkyfchH6mUjaaTccTBxGRozd+wAx5hpkG10Z7Va7lAKCY/5qdd/e7czBwwpsNfg9zklq3+ghjqhUe4PYdmiUHiGOvAEipdHkc9FragL/kuhpBum3xzd/WN/w4cjP8JqQ0eRQO3o0MOY65g4FpdRDqJlXn5HB07MKlj3sdogAmn97QEzs8OQqAUaIFlYwR2/6L5BhhrVpeCoQ6kKxvOvAjXFpaxuN4DSp9y1YjlaQ2lG9QaYFl10Q2GWtAENYx0zQ9GB76tATA==;5BzsXqUwjIWQwiHtH2Fk1Q=="

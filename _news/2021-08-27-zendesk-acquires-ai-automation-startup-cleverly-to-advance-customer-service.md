@@ -16,7 +16,7 @@ provider:
   name: TechCrunch
   domain: techcrunch.com
   images:
-    - url: "/assets/images/organizations/techcrunch.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -29,6 +29,6 @@ images:
     height: 683
     isCached: true
 
-secured: "yiBycoRa3kfGE91X5HuQq/wK2kwdAuBCIWUnmXXFPYeSMx2G4f1DjE7Q4M+zQ6tSza3b+Wz0aCYwvdiHL2XhYzp3ODA8rbgEZPsfLGWfsN5sXuOhOBlhBlfQ+BtS5JKkVleSjLujJejx3hNzw5atKyQLm9jcxz/eQMTy3PtLSgBeQhnQ6bsalEnx+e9sgtN3gzMRji58kKPgXt76dMFyYIiZ78arHBRi6EQwPoT0Bdhsgv1bar35K7KmkJaAfOhOZGHajWlj/4ZLSwV8kZCdxVgz4pWRWRV2qcXKxiqzQ8z1wVHR6m0uOBmeXfHR0Rj9Y+3QkWPzTWYDSbU4ZNgqp07vT/2/FJvg382lkYf2idc=;N6m+8s0wP8cRU9g98e/42A=="
+secured: "hxKSI1gEfxvgB92O1/xN+V7eCywBMq+qleSZjlLF7u2WuE3NoLxiXqnNbFeQIoGQQ2HQjMwOVTL/PAKajF8eBCQuEQxgNnZbuXcShz2OOasPniTsV+KZRqXsDAIN8DJmzmoXfJAGuEewDwJPgm1HxkBS1pTOQ380iyh/dp8SNiFGiHM9+6tZbXchkU/ngKQYb0E0uCO8w5zrUi4hY/unjT0PG5o6EmT3Cv9pdJRJCKh8V2w/NTT6YQNeJ2w+OnIdWIw1VHkeBlnns83xDfUBcLY4fMEzPVylxbTu1Va/GMW57vwBxdh2cVsJm7BEyHA+A4Z+6CpmQBPmIQ2W6u9ztVhLDYzWB5S2x5UkGR01x9MG7fhy5kGiy1n0HsWWQ0N39uJmEqr63WpGZr352Cr+mAlp+L5gBEpl/NBEvyQX4GvJxFO7KjT5ma07LR242y3j/zEZKzbYUiEbjCesqaDiZ2uOJNvRcusM6jdo2EwJZOL2E/wEn1HpWhCbNMeaRaWkfYZLzLbGA7MgBli+XG3k+Adv80gk9NdKpSJsO57texU=;FY3ddqHIFGIDlAlH6s91IQ=="
 ---
 

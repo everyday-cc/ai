@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Gesa Credit Union Goes Live with Scienaptic’s AI-Powered Credit Decisioning Platform"
-excerpt: "Leading global AI-powered credit decision platform provider, Scienaptic AI today announced that Gesa Credit Union has completed implementation and is now live on its platform. The deployment enables Gesa to make automated,"
-publishedDateTime: 2021-08-31T11:02:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-credit-unions-bab9783561294fc7b11f1b3f7e8c99f4"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-credit-unions-bab9783561294fc7b11f1b3f7e8c99f4"
+excerpt: "Leading global AI-powered credit decision platform provider, Scienaptic AI today announced that Gesa Credit Union has completed implementation and is"
+publishedDateTime: 2021-08-31T15:01:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210831005082/en/Gesa-Credit-Union-Goes-Live-with-Scienaptic’s-AI-Powered-Credit-Decisioning-Platform"
+webUrl: "https://www.businesswire.com/news/home/20210831005082/en/Gesa-Credit-Union-Goes-Live-with-Scienaptic’s-AI-Powered-Credit-Decisioning-Platform"
 type: article
-quality: 30
-heat: 30
+quality: 10
+heat: 10
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "SJmprf5bb8kI6yo2ocO8dS3bEeIV/xSin196X0Cxb3EZn/k2BKgeFE23CVVaRQbyynkE+GijUTqPJohw6H+ZfyJ2UnjbcNhlIgM0oLhgtfqy7+63jia9ErCz9vGhpmf6XdB9RAPLT/scsg3wVc0mP/5dZEl9Eq5r5V9wkHTvk1MNMlK4B7QCAxvhh5p0PILU8fk6t63HSrlqCT8x1RtT2oSqQFe6ny9usS1d1wzTpkufsyEPLGt5BiadxcNUQtX14Rv9leBv4f13yVuZNNgGvfxIGxLIULlahvNvMP1GliKRDpdopZLPt0JPXAX6oGMg03bStHykO/xYzjJuWBR/9OJbCJHLLsL/Md4vo7KvzQU=;QtnpylexwxQdDSk28H740Q=="
+secured: "xjEuHU39yMuyxFoMv0WFnjmuGBSK+WTQ8oO9Fq41ySCh7zkQKGAZflG3pejvLhPTUHm0N26e9vVXhSgfTTd+F+s2N7j4zDOQPByIx3WU9WuSU9CHG1tGG3GNbnCurEsaTrmvmPffU+/YyBrV3/xZFAGkEADY3r1apjZYfailxfnN6YA3IKEPqRTA/Xxg6/0hjfb0vrE9axMIuMulXsFIWgpOGcl5J1A0TGmhGvXbBS4zayhtYimHVRs9Rds7XsmtpR0OohMvXewhv7Ag80Os2p7DpifeomUInK0boT7lv0ZpqAyrtA9VFgoVdiq4Us2ReIAKLOsMKRL6Df2tBmZrOaIrXwATN/HoERFFEhl+MSQ=;xG9nWBCO8t/RlWrRsuGaIA=="
 ---
 
