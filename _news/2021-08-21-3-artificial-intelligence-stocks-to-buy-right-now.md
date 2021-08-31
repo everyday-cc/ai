@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AWS AI
 
 secured: "MwvVJv6CUCt4kpecvgo4XTLBhqzkNrZNczsJRoZtJbiRTxToUipZGdMoAQiM93jAOgkbi4R9cfoeOwwwjjsyRyJzOpchAGAu3g9u0VOU+nlg5F/DiNxPVmn8pxX+vLpNQACzXolWPC7wxn3nZ/XR2zYJ7wkULgWIyJFn89dIEM+GSYmAobGxBKKzLXf5gn8/HdCIHpjKGnqsD745jlQPwL3ipi7pc3KsbfHhOMDNvLiTDcRDTfc9EX8eD8AtCJ/kvOkNvFVGe4C3SVWSg84sV67hh3l9INxRznH4wEPPh0VxOgpGrC4va/8mNmZwwrWJVstgSlzVHNjmA4o0efAhGEQbw//LCyYp5krBYoISaXE=;y2EosxO0iu3pHe7O67yM6g=="
 ---

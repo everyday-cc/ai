@@ -64,6 +64,20 @@ related:
       name: List of Banks in Belarus
       domain: globalbankingandfinance.com
     quality: 34
+  - title: "Valued to be $13.5 Billion by 2026, Artificial Intelligence (AI) in Supply Chain Slated for Robust Growth Worldwide"
+    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Supply Chain - Global Market Trajectory & Analytics\"."
+    publishedDateTime: 2021-08-26T15:43:00Z
+    webUrl: "https://www.lelezard.com/en/news-19969994.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 32
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
+        width: 421
+        height: 421
+        isCached: true
 
 secured: "9LhQQV4cUNDJ9Aj9Is7FJ9M3DfgocsxoYGroQf+JFUT8yD6YCDrooTU2NDYvZMgnq+g4c21BxQOJmDVKpArojmWXQYjoHJnWdzvQQ2/vJuQ8C8lUgyk8Ee+P7m5UI1oIaGnsjQw0GM2e5HZqwldoqGjXFQqOA3equZl4lqYKMDhnLjydc0ikeaBfQMXUWK2l2tRRUd/qd6rYGIuUG+/uKjoFsaeJ4HxvfVzwY0VfRW/g0FIXvKeuFZwCnvVzoajshuK6N+uu2jIF2NbyI4jnqoYzSUTFFS+RXYwlIO4c/ydaQmz+iRzUsr3ZFzz3uMNE5X4QnHt3GFLIZE1j81qqtEvRytSW4DEkEB/povk8klc=;IRNLl5Ov3RTfgSzUFAbqwQ=="
 ---

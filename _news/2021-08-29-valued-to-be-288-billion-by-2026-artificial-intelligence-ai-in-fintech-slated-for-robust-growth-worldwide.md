@@ -50,6 +50,20 @@ related:
       name: List of Banks in Belarus
       domain: globalbankingandfinance.com
     quality: 34
+  - title: "Valued to be $13.5 Billion by 2026, Artificial Intelligence (AI) in Supply Chain Slated for Robust Growth Worldwide"
+    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Supply Chain - Global Market Trajectory & Analytics\"."
+    publishedDateTime: 2021-08-26T15:43:00Z
+    webUrl: "https://www.lelezard.com/en/news-19969994.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 32
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
+        width: 421
+        height: 421
+        isCached: true
   - title: "Global fintech market size to grow a CAGR of 8.5% to reach $191bn in 2028"
     excerpt: "The global fintech market size was USD 100.09 billion in 2020 and is expected to register a revenue CAGR of 8.5% to reach USD 190.80 billion during 2021 - 2028, boosted by rising demand for digitization in organizations."
     publishedDateTime: 2021-08-27T09:20:00Z

@@ -25,48 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "New Study from StrategyR Highlights a $10.3 Billion Global Market for Artificial Intelligence (AI) in Education by 2026"
-    excerpt: "A new market study published b Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence"
-    publishedDateTime: 2021-08-26T12:15:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/new-study-from-strategyr-highlights-a-10-3-billion-global-market-for-artificial-intelligence-ai/article_d52461e0-94c2-51a1-bd20-265b4f3fb339.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 47
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/a0/0a049b04-cb81-5fa9-b6c0-751f1335ae5c/612786c6048ed.image.jpg?resize=710%2C630"
-        width: 710
-        height: 630
-        isCached: true
-  - title: "Valued to be $4.4 Billion by 2026, Artificial Intelligence (AI) in Call Center Slated for Robust Growth Worldwide"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Call Center - Global Market Trajectory & Analytics\"."
-    publishedDateTime: 2021-08-26T12:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-valued-be-44-billion-2026-artificial-intelligence-ai-/2021/08/26/9437856.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 33
-    images:
-      - url: "https://mma.prnewswire.com/media/1601532/MCP21174.jpg"
-        width: 400
-        height: 252
-        isCached: true
-  - title: "Valued to be $13.5 Billion by 2026, Artificial Intelligence (AI) in Supply Chain Slated for Robust Growth Worldwide"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Supply Chain - Global Market Trajectory & Analytics\"."
-    publishedDateTime: 2021-08-26T15:43:00Z
-    webUrl: "https://www.lelezard.com/en/news-19969994.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 32
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
-        width: 421
-        height: 421
-        isCached: true
   - title: "A $14.9 Billion Global Opportunity for Artificial Intelligence (AI) in Manufacturing by 2026 - New Research from StrategyR"
     excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Manufacturing - Global Market Trajectory & Analytics\"."
     publishedDateTime: 2021-08-26T13:50:00Z
@@ -80,20 +38,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1601546/Global_Opportunity_for_Artificial_Intelligence_in_Manufacturing.jpg"
         width: 400
         height: 387
-        isCached: true
-  - title: "With Market Size Valued at $2.6 Billion by 2026, it`s a Healthy Outlook for the Global Artificial Intelligence (AI) in Drug Discovery Market"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence"
-    publishedDateTime: 2021-08-26T12:10:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/with-market-size-valued-at-2-6-billion-by-2026-it-s-a-healthy-outlook/article_5d6eaa18-3270-572f-8e6f-90817cffada7.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 17
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/54/c541e310-234d-5b11-ae36-550c5cb8f770/612785f094d46.image.jpg?resize=1013%2C630"
-        width: 1013
-        height: 630
         isCached: true
 
 secured: "eDDPTVTwDedTNe8yCGqHFhs1O5IA+rOAN8ONYsX5ClSLJduPwcFBIsJZNc85e7B6YLhN9dziie7Wr4ftuXXWaMOUTC2vIH+RgsfwUd1o8KZcdgokPlWwhO5o6x0inkWkgnm9PH0A7tAO3KLds1280f7jeGTGclBzLzehgZEVB8q+qjTb5jdaANJoLdQ6iyfF66JX5PbODVxbppj5j0G1mXseMDUoRjAZjMd0+R1ABjTPbGp8C3wtEjEkH3Ral8Fm51eIcbJW64VG+ARLHZ1DNMi1NC9Uo7KFkNsN9nFsUGov8gWBbt1mMZFQhtXxdp3LHkuLJ+592yhDB94bqZiDOdzhhU7WoZRftjquRfQxnyzn+M8k3MHzvvCgA2QpmF3nm1krJTmSnIR2x+X0Ce1sUIJD8aQungWdjZgxHoPmah8eg0gJb+XhShVpznmXNXKGXIClq8CsQdFvWkpO3HO6d9K2iofe2f6qeKJnmj4zGobFEXTEaBgtkdPsDzvSuI2cxQJtyorykpJ4vtSIzoMicg==;kUeqnNrAiCbAYxawaBTbNg=="

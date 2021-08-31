@@ -22,20 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "More than 50 robots are working at Singapore’s high-tech hospital"
-    excerpt: "That’s because at Changi General Hospital (CGH), more than 50 members of staff are robots. From performing surgery to carrying out administrative work, robots have become an integral part of the 1,000-bed hospital’s workforce,"
-    publishedDateTime: 2021-08-26T11:13:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_news/more-than-50-robots-are-working-at-singapores-high-tech-hospital/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 39
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210727123558-02-robot-hospital-t4g-large-169.jpg"
-        width: 460
-        height: 259
-        isCached: true
   - title: "Korea, Singapore discuss mutual recognition of vaccine certificates"
     excerpt: "National Assembly Speaker Park Byeong-seug and his Singaporean counterpart Tan Chuan-Jin agreed on the need to mutually recognize COVID-19 vaccination certificates and to resume a reciprocal quarantine exemption arrangement at a virtual meeting held on Friday,"
     publishedDateTime: 2021-08-30T02:01:00Z

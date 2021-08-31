@@ -56,6 +56,20 @@ related:
         width: 800
         height: 570
         isCached: true
+  - title: "How AI Helped Companies Survive COVID-19: 5 Tips for Resilience"
+    excerpt: "Tim Lawes, Sr. Manager for Solutions Consulting at Symphony SummitAI shares 5 lessons for post-COVID-19 pandemic resiliency leveraging AI"
+    publishedDateTime: 2021-08-31T04:00:00Z
+    webUrl: "https://hitconsultant.net/2021/08/31/ai-helped-companies-survive-covid-19/"
+    type: article
+    provider:
+      name: HIT Consultant
+      domain: hitconsultant.net
+    quality: 37
+    images:
+      - url: "https://mk0hitconsultan2lp7c.kinstacdn.com/wp-content/uploads/2021/08/TimLawes-headshot.jpg"
+        width: 683
+        height: 903
+        isCached: true
   - title: "Mayo Clinic, nference AI studies find antibody treatment may reduce hospitalization in high-risk COVID cases"
     excerpt: "After kicking off the new year by expanding their year-old data analytics-based research collaboration, Mayo Clinic and nference’s union continues to bear fruit."
     publishedDateTime: 2021-08-30T15:49:00Z

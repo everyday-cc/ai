@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Workera.ai, a precision upskilling platform, taps $16M to close enterprise skills gap"
-    excerpt: "Finding the right learning platform can be difficult, especially as companies look to upskill and reskill their talent to meet demand."
-    publishedDateTime: 2021-08-26T13:00:00Z
-    webUrl: "https://techcrunch.com/2021/08/26/workera-ai-a-precision-upskilling-platform-taps-16m-to-close-enterprise-skills-gap/"
-    ampWebUrl: "https://techcrunch.com/2021/08/26/workera-ai-a-precision-upskilling-platform-taps-16m-to-close-enterprise-skills-gap/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/26/workera-ai-a-precision-upskilling-platform-taps-16m-to-close-enterprise-skills-gap/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 80
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/10/Header-Brighteye-Ventures-EdTech-VC-education-Europe-2020.jpeg?w=1024"
-        width: 1024
-        height: 439
-        isCached: true
   - title: "How enabling data and AI at scale will transform your organization"
     excerpt: "CIO’s, CDO’s and other data and technology leaders have realized that their legacy IT platforms are unable to scale and meet the increasing demands for better analytics and AI. As a result, they are looking to transform how their organizations use and ..."
     publishedDateTime: 2021-08-29T08:32:00Z

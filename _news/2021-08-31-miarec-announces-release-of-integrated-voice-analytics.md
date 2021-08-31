@@ -1,31 +1,27 @@
 ---
 category: news
 title: "MiaRec Announces Release of Integrated Voice Analytics"
-excerpt: "MiaRec, provider of award-winning voice AI solutions, announced a major analytics update to its call recording and quality assurance solution. MiaRec CEO Gennadiy Bezko said, \"MiaRec is thrilled to take our analytics update live."
-publishedDateTime: 2021-08-30T19:21:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/miarec-announces-release-of-integrated-voice-analytics-1030767806"
-webUrl: "https://markets.businessinsider.com/news/stocks/miarec-announces-release-of-integrated-voice-analytics-1030767806"
+excerpt: "MiaRec, provider of award-winning voice AI solutions, announced a major analytics update to its call recording and quality assurance solution. MiaRec CEO Gennadiy Bezko said, “MiaRec is thrilled to take our analytics update live."
+publishedDateTime: 2021-08-30T19:02:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-332c91f4ba32ad3619be5425d0b096c8"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-332c91f4ba32ad3619be5425d0b096c8"
 type: article
-quality: 54
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1604692/MiaRec_Voice_Analytics.jpg"
-    width: 400
-    height: 400
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -61,20 +57,6 @@ related:
         width: 1200
         height: 1042
         isCached: true
-  - title: "Advantage Acquires Strong Analytics, Provider of AI and Machine Learning Solutions"
-    excerpt: "Advantage Solutions has acquired Strong Analytics, a provider of artificial intelligence, machine learning and data science services for leading brands in consumer goods and retail, automotive, hospitality,"
-    publishedDateTime: 2021-08-26T13:02:00Z
-    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-science-e5d71a7d56c78c0a9b4b06d42218e915"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 48
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Army Wants to Install Facial Recognition, Video Analytics at Child Development Centers"
     excerpt: "The Army wants to use facial recognition and advanced machine learning algorithms to monitor kids at base Children Development Centers and plans to launch a pilot program at Fort Jackson in the near future."
     publishedDateTime: 2021-08-27T17:25:00Z
@@ -88,6 +70,20 @@ related:
       - url: "https://cdn.nextgov.com/media/img/cd/2021/08/27/close_up_of_cctv_camera_over_defocused_urban_background_picture_id1214093147/open-graph.jpg"
         width: 400
         height: 400
+        isCached: true
+  - title: "PKS rebrands as Beamtree, buys AI start-up Ainsoff and data analytics firm Potential(x)"
+    excerpt: "The clinical data analytics company formed earlier this year through the merger of health software vendors Pacific Knowledge Systems (PKS) and Pavilion Health has rebranded as Beamtree Holdings, with the ASX-listed company recently buying two smaller companies to form what it says is one of the largest health analytics and decision support platforms in Australia."
+    publishedDateTime: 2021-08-31T05:22:00Z
+    webUrl: "https://www.pulseitmagazine.com.au/australian-ehealth/6229-pks-rebrands-as-beamtree-buys-ai-start-up-ainsoff-and-data-analytics-firm-potential-x"
+    type: article
+    provider:
+      name: PULSE IT
+      domain: pulseitmagazine.com.au
+    quality: 29
+    images:
+      - url: "https://www.pulseitmagazine.com.au/images/articles/ClinicalData.jpg"
+        width: 400
+        height: 225
         isCached: true
   - title: "Opinion Piece: Playing catch-up to the early adopters of analytics, AI and machine learning"
     excerpt: "By Sarthak Rohal, VP - IT services at AlphaCodes Early adopters of data analytics, Artificial Intelligence (AI) and Machine Learning (ML) tools have found themselves in a position of favour in today’s rapidly accelerating digital world."
@@ -113,6 +109,6 @@ related:
         height: 400
         isCached: true
 
-secured: "iDiz4flRhkBDdbCT/SxaeOaUMuSaief86fUobLR0HfoW4a4BkpdqimroASCMs5vMsMwi40Bdh299mxaRAJ3DLM+ffwdbvMXqnT6GTtaCmlMZ8BukeknhAAXEBOnB7l6IDyHtDjeskerKnF14fCjtZK86wQTFRNfMbuyt1orWo+9m3EMR1YF2RBoFjNmVTp6bStTD/Ie8KhiR8WoBs2NP0WjG9QNnjlSob88GfkjMaONCzf5dEBBRoKFpSVWRPHzza6dJwOPCNlz5ZruAHW30/d3gGM8cPyXT9swdDWTAoGKf3GQcw+CRgSr+4xyodxu4mKsq6NgzRQg0bnf7AlEP09CAqgwa1U5zlI24lRtB0x0=;KyjCntPYJICyw0AXv0Xu1Q=="
+secured: "I0Vb0aRv3H+ZdWxvuIcWJ0WE1TisZMV0kbBKNgGRwe6nefOMZL5PgZKBL14B42jMdcyPmU9u4yyaRxv3AiB1Y5oWrtIQk2blfvxCNW2iLa4XqRZMN9APiJL2Od1Vi6M3ZfiHT/udF3DbWg3nTpXlneBIxvSq9atpYmfBmwswQiGE6g/7qwCzM9x66QLz9spLb8xvJMslETlXlRLu6IJXgREA26etLgQwxw8ujHW6ZaQ+zLl4p3We+NoVnm/SWbdoDAIIdCS6/zRSNh8Nhjt4y6YypMJvB1zHo0tqv/o0qZcfnTcaXwuuCBuh+pYaLnec7eca9s//ean5/M0K5sWSYTefxXhMuI4bRK5nNUrdzgA=;SK/KyYJOzFJc1NEvvrCqpg=="
 ---
 

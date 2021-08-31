@@ -71,6 +71,20 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "Flying robots with AI mechanisms can identify the right fruits for plucking"
+    excerpt: "In the past decade, the introduction of cutting-edge technologies like AI, machine learning and deep learning has transformed the overall process of fruit harvesting. Now, fruit farmers"
+    publishedDateTime: 2021-08-30T12:41:00Z
+    webUrl: "https://www.freshplaza.com/article/9350621/flying-robots-with-ai-mechanisms-can-identify-the-right-fruits-for-plucking/"
+    type: article
+    provider:
+      name: FreshPlaza
+      domain: freshplaza.com
+    quality: 52
+    images:
+      - url: "https://www.freshplaza.com/remote/https/agfstorage.blob.core.windows.net/misc/FP_com/2021/08/30/Fake.jpg?preset=OgImage"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Big Data And AI In The 7-Step Financial Planning Process"
     excerpt: "Big data and artificial intelligence (AI) have tremendous disruptive potential in nearly every industry, and financial services is no exception. These powerful technologies are set to change the way in which plans are delivered,"
     publishedDateTime: 2021-08-26T21:05:00Z

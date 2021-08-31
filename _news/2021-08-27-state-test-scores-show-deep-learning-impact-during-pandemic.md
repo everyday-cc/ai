@@ -57,6 +57,20 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "Flying robots with AI mechanisms can identify the right fruits for plucking"
+    excerpt: "In the past decade, the introduction of cutting-edge technologies like AI, machine learning and deep learning has transformed the overall process of fruit harvesting. Now, fruit farmers"
+    publishedDateTime: 2021-08-30T12:41:00Z
+    webUrl: "https://www.freshplaza.com/article/9350621/flying-robots-with-ai-mechanisms-can-identify-the-right-fruits-for-plucking/"
+    type: article
+    provider:
+      name: FreshPlaza
+      domain: freshplaza.com
+    quality: 52
+    images:
+      - url: "https://www.freshplaza.com/remote/https/agfstorage.blob.core.windows.net/misc/FP_com/2021/08/30/Fake.jpg?preset=OgImage"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Beyond HBM: Samsung Breaks Processing-in-memory Into AI Applications"
     excerpt: "AI applications bring with them many challenges, including data processing and memory. Samsung hopes to take on these issues by combining processing-in-memory with high bandwidth memory."
     publishedDateTime: 2021-08-30T17:00:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/improve-your-marketing-content-with-ai
 webUrl: "https://thenextweb.com/news/improve-your-marketing-content-with-ai-generated-copy-from-writesonic"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: The Next Web
@@ -29,21 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Could This Robot Actually Be Your Marketing Writer?"
-    excerpt: "Because while scores of humans debated its content, it turned out most of the words weren’t actually written by a human at all. They were penned by a new artificial intelligence model called GPT-3, and posted by Liam Porr,"
-    publishedDateTime: 2021-08-26T12:46:00Z
-    webUrl: "https://www.entrepreneur.com/article/379745"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/379745"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/379745"
+  - title: "How AI and GPT-3 is changing copywriting with companies like Copy Rocket"
+    excerpt: "It's not. If you need something to be written, whether it’s an eBook, a landing page, or a complete website, coming up with a ton of unique text can"
+    publishedDateTime: 2021-08-27T21:21:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/08/ab22704039/how-ai-and-gpt-3-is-changing-copywriting-with-companies-like-copy-rocket"
+    ampWebUrl: "https://www.benzinga.com/amp/content/22704039"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22704039"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 106
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 56
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1629321559-ent21-sept-bigidea.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
+      - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "Ne/OAbFxvOs89WQ6pQ/1ybIfAEUeOQo47mvFagwFgZKkzlSdBcNMPBmOs0OOfTbd5MzRYooGOQ1mahT2py7Ktc/aN4T7nXdA5+K+7gr9yldKCHvs4HraKoUaWX275B/GhFmCyQUxJnuinZuPQnB1sKMnC0z2Ux2JIBWfmitKaMbv+jh9D4gsUeDoMbn+vqImjgVtGKx7MeoMv/HORMvHlfr3uLJuQAbnX/DsTjmTyjo2eNgjseDyv+FRcdKslbGOkInZVeqT6neAvFf6NgnUojfsZM6eGfOXMHXOrT2MyFIbuZOsHOGbQ6GqakS7nsfxPeDXj6oXeqIljIeSQ8ZVCbOHbHBdRHa8Mx+MQLsuYml8XVVXg2tzPycFE3VumEwtDJ9ksKSyJXamTmVYgby06Kz+exMFrMQDn9hOMZhbbW6LXtkuIDHW8D5holUjg34AxZpIYKDc6iCXyWZid4uNemLRc0yiTawNb+wLb+1/mWvc6TiuQWGqfF0iq4Ol8SHSlGyhEZlHisgPYPmdHqwooQ==;QmARZ+02Aqnzf07OaY0iYg=="

@@ -39,6 +39,20 @@ related:
         width: 1279
         height: 640
         isCached: true
+  - title: "JPMorgan deepens wealthtech push by leading raise in investment analytics fintech"
+    excerpt: "It led a $50M round in Aumni to scale its investment analytics capabilities in private markets, and we expect the incumbent will seek more targets in H2 to power its digital transformation."
+    publishedDateTime: 2021-08-31T04:23:00Z
+    webUrl: "https://www.emarketer.com/content/jpmorgan-deepens-wealthtech-push"
+    type: article
+    provider:
+      name: eMarketer
+      domain: emarketer.com
+    quality: 34
+    images:
+      - url: "https://contentstorage-nax1.emarketer.com/91ffbc3248ceb5523f42d9166a8d827c/21997_original_lazy?im=FitAndFill,width=1200,height=630"
+        width: 795
+        height: 476
+        isCached: true
 
 secured: "FAh7lSrs+HHnvgiF3owA7NCsjF/bHhahZ7C1JCCAWub+rsMKejeLC9nMv+FGmKeVCXQR0C02ydhxjJOtFFul23VEM2O4tmYVXarUVBBGc4qiipAj8W+8MrG3/Fgl3s0+kMkja1yVERuF9W5Cuo1EtQVmdmUcmok5bMa5gI+gcUXK/Jkiyz2vPjm/2jA78R67153230927cpxIHzLIuxvaiB6gPPoy5qwt2d3vom5+UsSFlaeRpLc7CUWRdvalZ80k7LgldNDRIKJS9hv5F1MlAks3j91CLbyquwC5CHYAzSYJ9eGLOPxLU3wLnKR10RM34aXN8fbB35wkzPqodHwL7m3uDoqsk7/BOIBKpK+2+Gpqy355iO8HwDG7lGzH476DI2kJ1k93k78jNfPSRsAqRZL+S9jqLNMWAt3t2SFDYSg394PZw+1sWlQt5itDgc3AHT2ZMs6q2/jxTKpsJ//XlnbN1UtHglR2kA+lrF9Z9/i+mtfr1biqQrVt/P3OCWjqdf8MCdGwOv/DZOyflnYvQ==;rlDAB2AJmH1CGCaU9Y0dIQ=="
 ---

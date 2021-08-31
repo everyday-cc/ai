@@ -9,7 +9,7 @@ ampWebUrl: "https://singularityhub.com/2021/08/27/cerebras-upgrades-trillion-tra
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/08/27/cerebras-upgrades-trillion-transistor-chip-to-train-brain-scale-ai/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1068
     height: 601
     isCached: true
-
-related:
-  - title: "Cerebras Systems Announces World's First Brain-Scale Artificial Intelligence Solution"
-    excerpt: "Technology Breakthroughs Enable Training of 120 Trillion Parameters on Single CS-2, Clusters of up to 163 Million Cores with Near Linear Scaling, Push Button Cluster Configuration, Unprecedented Spars"
-    publishedDateTime: 2021-08-26T12:45:00Z
-    webUrl: "https://www.design-reuse.com/news/50495/cerebras-brain-scale-artificial-intelligence-solution.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 27
 
 secured: "7wNvZ7Ikg7NSVCUSOwgSDgaF5uVySXoqblHXLjKFf8GSXaeP2xyoBM+NJ50F0YBLwPNoOEQrvGcNVu3aGHTJLCD1PmWK+ks3x+3dZRU3kP/3ZCTfDfly5XZRvNqu/ENEs3bHBSK0qiJsBcOlV2yRl8DexPY/FCPIhjgQ+LjB7LKJ1wd85POdnVvR4g8yDa207x3e/gp0YYE37dmlVNTc5oaN1A93KGoM6gEsfVouHRJKHHVyKd/45w9nwrVG+J+MRXOONgerNdjUrwsSoif+bQYFefbRMblVIShjSq8FJIu05hTQt+uxSOQAiakWXmQePDDndgPLJ3w1/ibdQkQnJh5Kcrm8IXGI9LWKxs4bPyU=;JBzLNRqCE/A6CNuFX1YF1w=="
 ---

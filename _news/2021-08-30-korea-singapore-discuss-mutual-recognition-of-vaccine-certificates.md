@@ -34,20 +34,6 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 47
-  - title: "More than 50 robots are working at Singapore’s high-tech hospital"
-    excerpt: "That’s because at Changi General Hospital (CGH), more than 50 members of staff are robots. From performing surgery to carrying out administrative work, robots have become an integral part of the 1,000-bed hospital’s workforce,"
-    publishedDateTime: 2021-08-26T11:13:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_news/more-than-50-robots-are-working-at-singapores-high-tech-hospital/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 39
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210727123558-02-robot-hospital-t4g-large-169.jpg"
-        width: 460
-        height: 259
-        isCached: true
 
 secured: "Zw6N+MytoC2fnwUITzgnOxDbeWC2m9uoANzq14ZxR/yXKm42w5F8MZbAT7EMicU2EM5p1TAIEO8aVKhq5h7GxFLVWdBaM/d25OKsFoe+coasDBKwuiKYaDoqFIYNr7OB+4JcGZ9fBKR74rHYAijiKC9qTtd94LWciQILlIOZvlJYaemwNhWlGk4JKtW4aIQbWP0tnmavosq/Vbu2DCp0DiggeePo/0UIoTaNE3Y/uviRth9qUfxY/cY7Gi/7/N1FFrLCdQBkPq6kLTSuiHo3ZeGkUfGZhwVeVBaQNEwuW+SGmF9ym8YW3Of9iBmPVek6C/m44gRlpCHXQEIXgNTDrm5BU7jnm32+5acTVfDr4/I=;kNF1bVEGgsARAo3Gnljejw=="
 ---
