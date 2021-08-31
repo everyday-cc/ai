@@ -3,8 +3,8 @@ category: news
 title: "COVID-19 showed why the military must do more to accelerate machine learning for its toughest challenges"
 excerpt: "At the heart of complex systems, such as the U.S. military, there is a critical tipping point where the systems are so complex that humans can no longer track them, a machine learning company CEO says."
 publishedDateTime: 2021-08-28T13:10:00Z
-originalUrl: "https://www.defensenews.com/opinion/2021/08/28/covid-19-showed-why-the-military-must-do-more-to-accelerate-machine-learning-for-its-toughest-challenges/"
-webUrl: "https://www.defensenews.com/opinion/2021/08/28/covid-19-showed-why-the-military-must-do-more-to-accelerate-machine-learning-for-its-toughest-challenges/"
+originalUrl: "https://www.defensenews.com/opinion/2021/08/28/covid-19-showed-why-the-military-must-do-more-to-accelerate-machine-learning-for-its-toughest-challenges/?contentFeatureId=f0fDpLOjQEen8H9&contentQuery={\"section\"%3A\"%2Fhome\"%2C\"from\"%3A5%2C\"size\"%3A10%2C\"exclude\"%3A\"%2Fopinion\"}"
+webUrl: "https://www.defensenews.com/opinion/2021/08/28/covid-19-showed-why-the-military-must-do-more-to-accelerate-machine-learning-for-its-toughest-challenges/?contentFeatureId=f0fDpLOjQEen8H9&contentQuery={\"section\"%3A\"%2Fhome\"%2C\"from\"%3A5%2C\"size\"%3A10%2C\"exclude\"%3A\"%2Fopinion\"}"
 type: article
 quality: 22
 heat: 22
@@ -24,6 +24,6 @@ images:
     height: 683
     isCached: true
 
-secured: "e3TxOePTDk9cpLU7ehkOTxvEFAlYu75MelhYr4tsOW0TMLIY3mXwBSizQ2zJKLyoXwO8Rp+31OFZlRQhmCu/oImQd7Y0331zDegFJ3NS4cks9pa/tQVK42xk/N6uenww9VdEd8aySsxL+wVaQM5fNNTBzGfvRJDlRoS9jFAVaveQbMq0BMIFJOoPbqTpQ6IYhjE+0LPA3Z9Y8APEr3EK1Yo2Atfr7O8RoyLPCT2Efa0Ie24Bq7Tag2uOsm1oFMGO/us8Zre+XkcKG001QRNKF26QBkCo4nS0Dte4Lp+/I/qcQaXvrXXtadqWmizuI+lp+Idov4AgpRnN0Z9iXt5wIq3rG7x/Z7gznMUidynou14=;1Y5OeXQAWNWHC1Qw9yR97Q=="
+secured: "jaTSF9hZnaEiuB8+VhHwmMn2XfZhAcigHLAR2MpI5aRWwD4df4Kfgb4in0a4Otk3DLr3kz8Vz0ptQCawjLG5OiphRH1AMLW3TmtsuEEhJ2x3uhG5FM9NBYYhV9Mg1W5WkS+mvgoCicHyu3rbweQTnaSfvRGAo9MSIyAjjku2dSsjRBOR6+nCHfwC1SQDQf7hKB0Z4xO30PJxc7b6qmGENRqOkscquOJGUUxGvkXhLXe4vAQz9BVWroxJAwsQcDss7JjAw4N8i5S9RtAvdXaGq/FAHaXB4u/F+2iy0kewAx07RqyW4jtrjcPPVCkhCTlBBunUJIJd4m0nmhxV09q4utGYjqtWpGZ4eDM/SupVBlk=;DDWQm5g4P/AB7weBk6yOhQ=="
 ---
 

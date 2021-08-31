@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "New startup founded by Temasek acquires Singapore AI firm"
+    excerpt: "Aicadium, a tech firm based in Singapore and the founded by Temasek, today announced the acquisition of BasisAI, a provider of scalable and responsible AI software. Specific details about the deal amount,"
+    publishedDateTime: 2021-08-31T01:27:00Z
+    webUrl: "https://www.techinasia.com/temasekfounded-aicadium-acquires-singapore-ai-firm"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 47
   - title: "More than 50 robots are working at Singapore’s high-tech hospital"
     excerpt: "That’s because at Changi General Hospital (CGH), more than 50 members of staff are robots. From performing surgery to carrying out administrative work, robots have become an integral part of the 1,000-bed hospital’s workforce,"
     publishedDateTime: 2021-08-26T11:13:00Z

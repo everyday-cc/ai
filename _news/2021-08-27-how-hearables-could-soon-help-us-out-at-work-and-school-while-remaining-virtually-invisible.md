@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/how-hearables-could-soon-help-out-work
 webUrl: "https://thenextweb.com/news/how-hearables-could-soon-help-out-work-school-remaining-virtually-invisible-syndication"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: The Next Web
@@ -44,20 +44,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/wearable-tech-for-your.jpg"
         width: 1356
         height: 668
-        isCached: true
-  - title: "‘Hearables’ can teach you a language or music with the help of AI"
-    excerpt: "With AI, hearables are also well-placed to support adaptive ... connections are essential to support natural language communications, particularly in language translation. In the immediate future, this may only be available in larger cities where 5G ..."
-    publishedDateTime: 2021-08-26T08:03:00Z
-    webUrl: "https://stuff.co.za/2021/08/26/hearables-teach-languag-music-ai/"
-    type: article
-    provider:
-      name: stuff.co.za
-      domain: stuff.co.za
-    quality: 39
-    images:
-      - url: "https://stuff.co.za/wp-content/uploads/2021/08/Hearables.jpg"
-        width: 1600
-        height: 900
         isCached: true
 
 secured: "7906UKgUxlSEcZKTPSccPCT9CXGmM0117fuU/1WD1AJlgQWqZUGjAh4kGwAY51Ah12VV7gonVyDpByumw0DPJBBoFO2RYLCDG28k3sV9znRMRe6JMUPXk4tviVswj9cT2cinL7GtY1as1Yw8hjkqY4+oIp9TOm8W42RTR8sZtfwdkdS+lPes1OK1MobZabgMK5q231ZrOm5BPnBeGOS+UdRjZ4wpeGuKTTPEMq7LmuzF4waaAp8SzuyRxFnXwNvQC4wBHJiDOAJzc87sINAYjb4OX+RR29z9pdBeQ7fQt7lGkNWKmTvktwFnHK79UFb6e82LubeheRHvwRr/RJmV7KLSJyrydRxmRvJ8Vpin27Q=;rbNVKfJCMse07PRUYG624A=="

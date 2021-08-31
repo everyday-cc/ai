@@ -41,20 +41,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "‘Hearables’ can teach you a language or music with the help of AI"
-    excerpt: "With AI, hearables are also well-placed to support adaptive ... connections are essential to support natural language communications, particularly in language translation. In the immediate future, this may only be available in larger cities where 5G ..."
-    publishedDateTime: 2021-08-26T08:03:00Z
-    webUrl: "https://stuff.co.za/2021/08/26/hearables-teach-languag-music-ai/"
-    type: article
-    provider:
-      name: stuff.co.za
-      domain: stuff.co.za
-    quality: 39
-    images:
-      - url: "https://stuff.co.za/wp-content/uploads/2021/08/Hearables.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "fEk5yNlJv1vP7bnEfGBGBXj5iX2rO4D8Jc3KZnKIe89B5riGeIBNAsfVyCzqZC/GMUcesQi302S270rUjPNrMZ1Omy+d7jLBlcrxyw2n3nP3d1vcJApYAIjTQ+LflVNWRGTbobERd1DdpVmpe/OVLQvR+17WijvK4Bi8EIhHCEtD4ypOT9LylRc0+5tGw544tJjErYCWRLIjeDSGCR1qUWVu63CNKUzwivK19Athutfmnk+RFRuVxKg/HAKDk1nMk1KO+WAb1PucYO7uEniLr3lXutBcPawQ9oNhUVDCHKRj8gZFXtc59IWKrOc9gC2CXdLk8dDDF6FsCF//0WquRcAO4dskjEFC+CT5FTe2DVRfQR7hCwU+TvP/obEjN7MLryEUdyv3zsj78lLX1CfiGM/oO3Orie348b9lxB5Dbyiq3J9Tr+IIJvzHt4krA4+CM3L4/MHvy7hwqnRPc8GHqhDgyFuCdCNySJdq/tZQMaFLPQ+8Jqe4j9wux4Mlv6YHJtfFfjfgWv+ttaQjhHdsTA==;Zq+Z0ztVgeYzH0QPBAapnw=="
 ---

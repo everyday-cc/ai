@@ -85,20 +85,6 @@ related:
         width: 847
         height: 635
         isCached: true
-  - title: "Western Railways Commissions Russian Face Recognition Technology; Can Identify 50 People In A Single Frame"
-    excerpt: "The Western Railway, one of the busiest railway networks in India, has commissioned 470 cameras featuring real-time face recognition technology developed by Russian company NtechLab. According to the company,"
-    publishedDateTime: 2021-08-26T07:53:00Z
-    webUrl: "https://swarajyamag.com/insta/western-railways-commissions-russian-face-recognition-technology-can-identify-50-people-in-a-single-frame"
-    type: article
-    provider:
-      name: Swarajya
-      domain: swarajyamag.com
-    quality: 36
-    images:
-      - url: "https://gumlet.assettype.com/swarajya%2F2021-08%2Fe7ebe932-7439-4513-a7b2-135a2510571e%2Fd7f2c1fcc278280702f4f0f5a320ce5d.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "kS/3q4xO61Dp8y+tcffcvotlnillnvg7qtMft9lOsIE99Dd81KN1OQqVF7/5YMVPpZ+eLpJzo1XbhbB9vuEe3Qgpy9XpVvp2eZACkhyI/PjyyMTwR8F5fsRI8GTEtFUYHSuUJwkKFWABVL729WJQcKt+9P1js0tj9+wXvRp5stsCX+dqzOTbUItDMzy03cjzxVSKIHTDKqGPY2Oi+haRDu6hZ4ZNMhXs0+nPb+8PeY6OMsIgZ7HdJnqOeJ42b20+nCZYb7WJYvW0/Ffkp8Si/UmTzBf/9w1SEBnbRY6MmWplnxV/V+xWey7b5J0Mt/pcazHd9dtUncOr8yCDCb/Bh9qIlljHXzWcaDinsaL7gX4=;yVm8TB+PddXNBX0iiL0TjQ=="
 ---

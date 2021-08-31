@@ -7,7 +7,7 @@ originalUrl: "https://money.usnews.com/investing/news/articles/2021-08-27/toyota
 webUrl: "https://www.reuters.com/business/autos-transportation/toyota-halts-all-self-driving-e-pallete-vehicles-after-olympic-village-accident-2021-08-27/"
 type: article
 quality: 148
-heat: 548
+heat: 558
 published: true
 
 provider:
@@ -249,6 +249,22 @@ related:
       - url: "https://images.cnbctv18.com/wp-content/uploads/2018/06/2018-06-27T140657Z_1_LYNXMPEE5Q1GO_RTROPTP_3_AUTOS-TOYOTA.jpg"
         width: 800
         height: 504
+        isCached: true
+  - title: "Toyota Adjusts Self-Driving Olympic Shuttles after 1-MPH Accident"
+    excerpt: "Photo: ToyotaToyota announced its e-Palette autonomous Olympic shuttles could be used again, with added security measures, after one of them struck a visually impaired pedestrian last week.Th"
+    publishedDateTime: 2021-08-30T23:30:00Z
+    webUrl: "https://thenewswheel.com/toyota-adjusts-self-driving-olympic-shuttles-after-1-mph-accident/"
+    ampWebUrl: "https://thenewswheel.com/toyota-adjusts-self-driving-olympic-shuttles-after-1-mph-accident/amp/"
+    cdnAmpWebUrl: "https://thenewswheel-com.cdn.ampproject.org/c/s/thenewswheel.com/toyota-adjusts-self-driving-olympic-shuttles-after-1-mph-accident/amp/"
+    type: article
+    provider:
+      name: thenewswheel.com
+      domain: thenewswheel.com
+    quality: 44
+    images:
+      - url: "https://thenewswheel.com/wp-content/uploads/2021/08/Toyota-e-Palette-at-pedestrian-crossing.jpg"
+        width: 1000
+        height: 666
         isCached: true
   - title: "Tokyo 2020 Paralympics: Japan judo star hit by self-driving bus in Village"
     excerpt: "Japanese judoka Aramitsu Kitazono has been forced to withdraw from his event in the judo competition at the 2020 Tokyo Paralympics after being hit by a self-driving vehicle inside the Paralympics Village."

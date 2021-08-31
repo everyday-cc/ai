@@ -61,22 +61,6 @@ related:
         width: 1200
         height: 776
         isCached: true
-  - title: "How Artificial Intelligence (AI) Aid Medical Diagnosis"
-    excerpt: "Artificial Intelligence is widely employed for the ... Increasing the effectiveness of decision-making Diagnostic and therapy procedures have always been difficult. The reason for this is that ..."
-    publishedDateTime: 2021-08-26T08:42:00Z
-    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/how-artificial-intelligence-ai-aid-medical-diagnosis/85651655"
-    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/how-artificial-intelligence-ai-aid-medical-diagnosis/85651655"
-    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/how-artificial-intelligence-ai-aid-medical-diagnosis/85651655"
-    type: article
-    provider:
-      name: health.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-85651655,imgsize-23672,width-800,height-434,overlay-ethealthworld/how-artificial-intelligence-ai-aid-medical-diagnosis.jpg"
-        width: 800
-        height: 434
-        isCached: true
   - title: "AI might help agencies make workforce decisions, and the ethical issues that raises"
     excerpt: "Hodan Omaar of the ITIF thinks public sector employers can become responsible early adopters of AI for workforce decisions."
     publishedDateTime: 2021-08-26T15:39:00Z

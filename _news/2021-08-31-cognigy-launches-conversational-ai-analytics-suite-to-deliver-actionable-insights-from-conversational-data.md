@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Cognigy Launches Conversational AI Analytics Suite to Deliver Actionable Insights From Conversational Data"
-excerpt: "The Cognigy Insights analytics suite will enhance the capabilities of the Cognigy.AI platform to make sense of conversational data and facilitate data-driven optimization SAN FRANCISCO-- ( BUSINESS WIRE )-- Cognigy,"
-publishedDateTime: 2021-08-30T20:32:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210830005479/en/Cognigy-Launches-Conversational-AI-Analytics-Suite-to-Deliver-Actionable-Insights-From-Conversational-Data"
-webUrl: "https://www.businesswire.com/news/home/20210830005479/en/Cognigy-Launches-Conversational-AI-Analytics-Suite-to-Deliver-Actionable-Insights-From-Conversational-Data"
+excerpt: "The Cognigy Insights analytics suite will enhance the capabilities of the Cognigy.AI platform to make sense of conversational data and facilitate data-driven optimisation SYDNEY-- ( BUSINESS WIRE )-- Cognigy,"
+publishedDateTime: 2021-08-31T00:53:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210830005567/en/Cognigy-Launches-Conversational-AI-Analytics-Suite-to-Deliver-Actionable-Insights-From-Conversational-Data"
+webUrl: "https://www.businesswire.com/news/home/20210830005567/en/Cognigy-Launches-Conversational-AI-Analytics-Suite-to-Deliver-Actionable-Insights-From-Conversational-Data"
 type: article
 quality: 0
 heat: -1
@@ -79,6 +79,6 @@ related:
         height: 420
         isCached: true
 
-secured: "WQp9s9LSX+oksJsmHHfXj6x5ZW87OrQC2ynCPOjkKUZc7HNlfFYGVFAK9Ty7YDeQD4jp7nosBGnRNHfiuXmCLMWvwRjMF/rtcefpRA5tZPvNtsH4LO9FqT4mb60oiRy3VhBTZLY2aycfye6PT2UY27h6bw/wRYd7BoltqDaxPO0+mPvpHj2mhJTiMvc9SqFLrXtn2QWRryA7zcrudzTha8DWbJeKRy2kp8OaL1H7l2946Jl3ZgLwOrnaoKGGW8rUHRrIX9ZnhKmTnhgpE/+n1jrAM8uhnB5+kFJe/WuZUaOmpcHlystxICXroYpHuOwt4O6hGA8jv2/6oiVgs7KODFU9m5VmMZC9Wv/8BZ1ht88=;iYxLy/J9tuv2f/843Cx2cw=="
+secured: "dTRIyG3/LaBYcSZrRHlRjq/H4gGV+z72005EEtsxbyXZWy0PBJXlxw8uPSptzOADHuOV1AvpVgvxv88Wyq3HVizGQvZ86O1il8xVxxbIEUImNj675spUvEgkrFrnjIxuPksHT2xFKEzB5E+/W/HWpNgR/6hAxevhoRBdDeu9qMlOACsuVkEVj5/+gvAw5dcoHF2KbfXraciz1kpPS2EFUMIgh3MLSl15P25ipUXtEfxb/qYb0PlM6Adx0EC75iRmyue8flaSyR+Dpnf3tfakFFqYhGiLvJ4Js/cDBVqJSL1GHivZf+6ISsrQuT6Tsa9nLts/eUaBKBc7qYHEbVAOhjoVu0K9dNsRST0hIo8GXYc=;xzN1IwzIQAtTxa3yaS/jwA=="
 ---
 

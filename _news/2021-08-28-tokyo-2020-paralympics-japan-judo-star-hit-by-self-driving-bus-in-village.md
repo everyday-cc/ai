@@ -263,6 +263,22 @@ related:
         width: 800
         height: 504
         isCached: true
+  - title: "Toyota Adjusts Self-Driving Olympic Shuttles after 1-MPH Accident"
+    excerpt: "Photo: ToyotaToyota announced its e-Palette autonomous Olympic shuttles could be used again, with added security measures, after one of them struck a visually impaired pedestrian last week.Th"
+    publishedDateTime: 2021-08-30T23:30:00Z
+    webUrl: "https://thenewswheel.com/toyota-adjusts-self-driving-olympic-shuttles-after-1-mph-accident/"
+    ampWebUrl: "https://thenewswheel.com/toyota-adjusts-self-driving-olympic-shuttles-after-1-mph-accident/amp/"
+    cdnAmpWebUrl: "https://thenewswheel-com.cdn.ampproject.org/c/s/thenewswheel.com/toyota-adjusts-self-driving-olympic-shuttles-after-1-mph-accident/amp/"
+    type: article
+    provider:
+      name: thenewswheel.com
+      domain: thenewswheel.com
+    quality: 44
+    images:
+      - url: "https://thenewswheel.com/wp-content/uploads/2021/08/Toyota-e-Palette-at-pedestrian-crossing.jpg"
+        width: 1000
+        height: 666
+        isCached: true
   - title: "Toyota to resume self-driving e-Palette vehicle operations at Olympic village"
     excerpt: "A Toyota self-driving e-Palette vehicle had last week collided with and injured a visually impaired pedestrian at the Olympic village..Toyota says it is cooperating with a local police investigation to determine the exact cause of the accident."
     publishedDateTime: 2021-08-30T12:24:00Z
