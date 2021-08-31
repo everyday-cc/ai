@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/7-ai-stocks-to-buy
 webUrl: "https://markets.businessinsider.com/news/stocks/7-ai-stocks-to-buy-as-tesla-doubles-down-automation-1030767572"
 type: article
 quality: 66
-heat: 66
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,38 @@ topics:
   - AI Hardware
   - AI
   - AI in Autos
+
+related:
+  - title: "Tesla adds more jobs to build its humanoid robot, hints at production in Texas"
+    excerpt: "Tesla is adding more job postings related to building its humanoid robot: Tesla Bot. One of the new postings even hints at production in Austin, Texas. When Elon Musk announced plans for Tesla Bot, a humanoid robot equipped with artificial intelligence aimed at completing general boring tasks,"
+    publishedDateTime: 2021-08-31T11:16:00Z
+    webUrl: "https://electrek.co/2021/08/31/tesla-bot-jobs-build-humanoid-robot-hints-production-texas/"
+    ampWebUrl: "https://electrek.co/2021/08/31/tesla-bot-jobs-build-humanoid-robot-hints-production-texas/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/31/tesla-bot-jobs-build-humanoid-robot-hints-production-texas/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 102
+    images:
+      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Screen-Shot-2021-08-19-at-10.17.39-PM.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Tesla Presents A Humanoid Robot To Support Humans At Work"
+    excerpt: "The Tesla Company is working on the development of a humanoid robot. This TeslaBot will be able to perform the thankless tasks usually performed by humans in the workforce."
+    publishedDateTime: 2021-08-30T12:43:00Z
+    webUrl: "https://www.dcvelocity.com/articles/52113-tesla-presents-a-humanoid-robot-to-support-humans-at-work"
+    type: article
+    provider:
+      name: DC Velocity
+      domain: dcvelocity.com
+    quality: 56
+    images:
+      - url: "https://www.dcvelocity.com/ext/resources/video-uploads/uploaded-thumbnails/e2ffc489-4bca-4e4a-afba-df8fcdcb9840.jpg?crop=true&height=430&t=1629323382&width=640"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "rs1l1r+8nU/g/MsZtoX90nd8arSZN33+kAAzCw4rjPSzi7C5tKUwDe4ES18+8fp0lB30kfs1w49RSE21bd2tqI6j+2S74mKl1470IedTCXCMAPZnkORfhOY+9W4ldkVSci0WdPLOMfU7QVdWPqLceCZvrZTLNLOS3yrCRqNrUax/cMoipz0riQA1WeEMe0V0Cg9/yJaad/XTv2CzWaq2nVXRmdJfBaFtBKlX2xL5M6oA0v1k9fJQ5uzPl8qdK/24N37bYsus/xWQ+YoAy2U0wEBDu19cpe/4oMucwtQ0DVYMa6iKxVR6E7Ctem3Vi8MVux7D0SMGG+jaE2clwSuslXOeyWuk52wuCKd7jIKUKuMJdUY7ydZMCdVJHAXWjc0ouXVkLKoTe36UBxLSaGFXP7mmTgm0qgwv3zz7GnfTVw6eBzOcyJCdWvI+E0skJpxcsmNCNQfIc83lC+UMIhm++p08T8W65KQvq8wWecNrKn0uhx44H8CE8F7qsHJ0s16kDeNsCLgqWtG/70RshUs4VQ==;ZSda6evYkqD8MuYxUIQkUg=="
 ---

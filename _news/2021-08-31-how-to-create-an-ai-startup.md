@@ -6,7 +6,7 @@ publishedDateTime: 2021-08-31T07:24:00Z
 originalUrl: "https://www.analyticsinsight.net/how-to-create-an-ai-startup/"
 webUrl: "https://www.analyticsinsight.net/how-to-create-an-ai-startup/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Natural Language Processing
+  - AI in Autos
 
 images:
   - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/AI-10.jpg"

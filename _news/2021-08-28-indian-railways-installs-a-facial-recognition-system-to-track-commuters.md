@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/indian-railway
 cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/indian-railways-installs-a-facial-recognition-system-to-track-commuters-703762"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://img.jagranjosh.com/images/2021/July/2972021/ludo_express.png?new_images_en"
         width: 450
         height: 232
-        isCached: true
-  - title: "India deploys facial recognition surveilling millions of commuters"
-    excerpt: "Indian Railways, one of the world’s busiest urban rail systems, has deployed a network of almost 500 facial recognition cameras to track millions of daily commuters, as the Indian government increases its surveillance efforts."
-    publishedDateTime: 2021-08-26T17:04:00Z
-    webUrl: "https://www.ft.com/content/b5e3fdc9-2fed-45f1-beff-2944da89f6c1?shareType=nongift"
-    ampWebUrl: "https://amp.ft.com/content/b5e3fdc9-2fed-45f1-beff-2944da89f6c1"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/b5e3fdc9-2fed-45f1-beff-2944da89f6c1"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 59
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe3c15c96-a674-4114-8ec0-0fe5f1cab4f8.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
         isCached: true
   - title: "NtechLab supplies facial recognition for Indian Railways, but privacy legislation still pending"
     excerpt: "NtechLab is implementing a facial recognition surveillance project in India intended to monitor the movement of train commuters."

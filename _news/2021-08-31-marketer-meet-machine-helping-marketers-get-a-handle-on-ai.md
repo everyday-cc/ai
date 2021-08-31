@@ -43,20 +43,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Global Industry Analysts Predicts the World Artificial Intelligence (AI) in Marketing Market to Reach $50.1 Billion by 2026"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Marketing - Global Market Trajectory & Analytics\"."
-    publishedDateTime: 2021-08-26T17:12:00Z
-    webUrl: "https://www.lelezard.com/en/news-19970273.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 47
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
-        width: 421
-        height: 421
-        isCached: true
   - title: "Conversational AI market to grow to $15.7 billion by 2024"
     excerpt: "The market for conversational artificial intelligence AI is expected to grow from 42 billion dollars in 2019 to 157 billion dollars by 2024 customer suppor"
     publishedDateTime: 2021-08-28T09:46:00Z
@@ -81,6 +67,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "nX8fLSY8gbVJsLjKyxX3VQbJeGUtt5vrC3SnCPzKsnImmweyAU42/iMle7HFpLJR66Y0Nl9v0hkb/iJ1GK/rJXjK0Yll/pGVeCbJdLulAwrHeGmLta18QF9lu1Vh2lQKtHSFDF3dqj+5oH6oCwpjgXG0h4hhkqb7fsqFs3+kcCpS57Gepx2Bct5nu8TLtbTayo4Whsmkb/rB0VHMPGJSBAY1e4UofO5r1JLwxmNcUguswfXQOCvSBPB2fL6LEW0i5uTDX6q5gedQqHAVRInD2ClZoZYbFL1glGKy6QMU1E/BhN6T1g9YYb+Pq+/Y87krcCdJzJwhwn1tdpxHI2q3tLAPJObWGQbGGw+5KO9gY3M=;Dw3Ng3Uj3/q4w5237nD5Ew=="
+secured: "UQM13KpANbs3brxCaktzwCpAsKXrekr9KnKX33DZk26eLsFgP7eyRwMLq5GzZZnRG1nuGeVL6e73mc8odqBv7I32Ez3aOstC7nWBwlPKs4Bkr0nqES6o73tabhVcyiH7X3elozLR7IVJRzh2EO4W/Gw1w9IU7Vun2Q7+GoSEBQSJFFYMx7bM2LIwqh9e3oTS6lmsD2RSH5l8Mr+l7X9dpxF5Psz4lqaeWIHFYv13qUtQ3jGS/+mKbO+jT8x/HHqCUnq2cgYXTHbktLnFY1BTfbO7Qans3nZ1NdsDXm5KCPITH01SkySX91zkMpbNGbTgB0Ca5otwsD0c+Px0KgA1lUxrP6NWV3wHjMR/Bo2su6aKcNC63l1sY2UkGBoLur8ulPHZJho6Yv8TJoyrz5KG/1/ljqh4rL/UwBe2AcABhwMmjjpndleX0aLVflTuYKNWE6jAWqcH08VE9JAC6s1ig9ucIfD3/ecm7jz331pfGRB+aPu7pLw+gqXxfcuC2FwP3P8gblzKqdTX4G9CeTyD0g==;6+f2QuEj8aVwvItUQDlHhw=="
 ---
 

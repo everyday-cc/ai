@@ -51,6 +51,20 @@ related:
         width: 2880
         height: 1620
         isCached: true
+  - title: "AI identifies heart failure patients best suited to beta-blocker treatment"
+    excerpt: "A new AI-based approach could help to quickly and easily identify the best treatment options for heart failure patients."
+    publishedDateTime: 2021-08-31T09:57:00Z
+    webUrl: "https://www.healtheuropa.eu/ai-identifies-heart-failure-patients-best-suited-to-beta-blocker-treatment/110680/"
+    type: article
+    provider:
+      name: healtheuropa
+      domain: healtheuropa.eu
+    quality: 37
+    images:
+      - url: "https://www.healtheuropa.eu/wp-content/uploads/2021/08/iStockdiephosi-183362325.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "CJxJ/8dOHWVE3yM+tAq2oPntZ1Lzr8rJ092XQrX60uvWp1PA5RGkwayLknO4uWZIUFwTufDiEL8yuT9dYQ8yMpaKUsM0mf5WnWhUOgVjj68Bgo0L3zoTWqaVrBA6H7jbKoykSaTf/7S+OMbNoE+Df7qRcWAV1KQ5XIuXnxLZn3qNJfgxj+Xmfei9uSA3wZoredwpVflmhhNLZfWYRhZF6dbmpNixLTeaIlPtN1W8GRilTtHCgyJA8QM4DBALNeYQM9ehrxzXXcWMFrhme83UULQ2F6X4znFy4fHbMalSZDZ7viWOPgap63mQ7AwZ5Q51C1sh2mL/7EzCCor39qeW2UcaVGM89EGwLTxcES2WxeE=;hVByGrCzVVNAIW03lU726A=="
 ---

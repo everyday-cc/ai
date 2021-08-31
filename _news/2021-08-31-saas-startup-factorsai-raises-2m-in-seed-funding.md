@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/saas-startup-factors-a
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/saas-startup-factors-ai-raises-2m-in-seed-funding/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: pymnts.com
@@ -40,16 +40,7 @@ related:
         width: 500
         height: 598
         isCached: true
-  - title: "Dental AI startup raises $27M after FDA clearance"
-    excerpt: "We're seeing dental AI software perform at the level of a team of trained dentists with accuracy closer than the width of a needle,\" Chris Balaban, DMD, clinical director for Overjet."
-    publishedDateTime: 2021-08-26T18:45:00Z
-    webUrl: "https://www.bizjournals.com/boston/news/2021/08/26/overjet-raises-27-million-after-fda-approval.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
-secured: "Pc/fVCHtjK0RV4UKE/GjD3kvKFSldlxD3GfGW2Bn4i8jJ96HWLY493/a/yu9pfIRdtmeuq9rhrmJW+Jg/b+I1UAsId5SmEFA+KReyqVwRFOZ/rlEgzzbjWASxEsxqKSmhydPjnkRWZwQJo+DMgVDDDLlSulNVhNP2QZLshsIVd0TBX+sYY6/0jxclsgNXaiPnf0v+wSK6CHcN+b9pQpX/P5w2Niki1ut1xXhwQ0nVyR56D9dozS00kXJ/5fG5cW3/Z72iZf9XX1a8E/XmLaySc6VfvOlnevoJKPDFtdrVNBoJLN5C5FnzyQEppJndI0RtZNbopxDGCG4ZOGpAmTgeY/W9AmhQMEN0ojI46pbaz4=;JHFZCtmQpoXePa1Bs0/rLA=="
+secured: "1X8wTGDvS9OKkm3xwL6f+fQmG+rYo6HACs2XxHpkPZn6qAMJhHClzxVMMBG7lSfok85JDU9thoMf8oV/ZSMtZb2W6xKAzH3+4O4RMiDDTNIaUVW0MarXS/2DpNAWH3XhLSKFaH/3mokX8cG9TPYVBTANWEPMJohPrEPogfvBYkRo+rKfjgLACM/Fund8ZltazaXCy4cI8v7xIE5Ji80VKp1+OnBnGqcSph8rwb/TjSiblw5tIlj27mA+Bs0dn744QtLWRW4R9ccyLoGkWTlxLEZGozXLQsUTjviRQKoiUEHLZo8DoPlf4eqOezb1wg8RyP7ZicHIF1ih9NDHQ6FBmlTx1HTADe6J3ZybQtHsrabwLGnnNGMD/8qW2bJxMYcMdgl55BaMU8Ci/qQvIsa3waGaGlS4dVqSQx0/9HN9X40js5V+TCU6VADr5oaE3Yu2U5RkPbOhBj7TY1TnaALt7dKmDEDW7nYqyVsynzK3h5Ok6IAaqndWfjwUH8akGkEeP8ayLSRBBRcgnHk2zMYpsQ==;mklYxTJKBBPpdqvTb75jhw=="
 ---
 

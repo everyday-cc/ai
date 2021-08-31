@@ -40,15 +40,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Dental AI startup raises $27M after FDA clearance"
-    excerpt: "We're seeing dental AI software perform at the level of a team of trained dentists with accuracy closer than the width of a needle,\" Chris Balaban, DMD, clinical director for Overjet."
-    publishedDateTime: 2021-08-26T18:45:00Z
-    webUrl: "https://www.bizjournals.com/boston/news/2021/08/26/overjet-raises-27-million-after-fda-approval.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
 secured: "TSWWmjhAxQAUb1spmcr/XG5ynvnNgo6suxBjrDeYiANV7X1uRQ905IJhE9LDJpFtCi7EDS85OnuoL+7XiQIUpiC/5OmmJfkEXYEgwNkvgEs7H6Fd2WGd6IO6iWcJoT8mRRwhOBTdEZA1gBxn37BN2gBt57fsNECbJKNwAcOiMk2B6U9+w4TyVM0u/X19z0FNq83+TxPaHv/mpRNKmnKDlJ0T53DEM7QS7f0dlVq7IkwMMTQlW+49BOelyX8vk+EqcP5xdB5vauwzpEFBHSPGA+OJLnt9SMdYj6ExqxSuLyZ2rSABT3EM7ltSfoTLQ9c+894RALjAP7oCCqlUfxTrvTYKqUkCS4HS7N8Xa+Q2D3Q=;vJdEJtWTMkdWuWt9BRnrkw=="
 ---

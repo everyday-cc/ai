@@ -43,22 +43,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "India deploys facial recognition surveilling millions of commuters"
-    excerpt: "Indian Railways, one of the world’s busiest urban rail systems, has deployed a network of almost 500 facial recognition cameras to track millions of daily commuters, as the Indian government increases its surveillance efforts."
-    publishedDateTime: 2021-08-26T17:04:00Z
-    webUrl: "https://www.ft.com/content/b5e3fdc9-2fed-45f1-beff-2944da89f6c1?shareType=nongift"
-    ampWebUrl: "https://amp.ft.com/content/b5e3fdc9-2fed-45f1-beff-2944da89f6c1"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/b5e3fdc9-2fed-45f1-beff-2944da89f6c1"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 59
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe3c15c96-a674-4114-8ec0-0fe5f1cab4f8.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
   - title: "NtechLab supplies facial recognition for Indian Railways, but privacy legislation still pending"
     excerpt: "NtechLab is implementing a facial recognition surveillance project in India intended to monitor the movement of train commuters."
     publishedDateTime: 2021-08-30T18:39:00Z
@@ -102,6 +86,6 @@ related:
         height: 600
         isCached: true
 
-secured: "48YM1c5Yshb79P2708JG6p3IEo9Xbk2FY+o4NtytzJONHf9RfMR6X37ToGi3tUG/kSMAEocIs+ovJAXLq0UwK4f9wrWQ0lbkAwpQZSW7ZZkCyI/LhgLYLNz3KBNC27rCQgkg0zunValbHLHsInbK6SU7+nVpiQ4s0scqAlkGrx6LD1CEbSSbVZ2XKnZ4FoJqdJppZnMPFpCwBkzwUlodqbEK/Q8SoFCBbsisugC4CZzXwPrYuASujx9G82Dg6ohLzndo/hEJ2tJtt8aXvsK0gTDAKBOmm0ZBzYhXQHauAYg+JIa7x/fbcRg56CJFVwFF+kLffZKc6jGu2yxIuhSv6Dr9fHh2QIP2x1vFP5O6e4g=;8rbTb/mVZBGax2cu/y4L2g=="
+secured: "OrTbtPtgQc3cyfpXEs2SOAxPnALm5TfssLTLUuUGgNT19axwyvb6GJ5ZsMOfk5qg/UWLfNZgQ99RYeYLL+uh5bdKJH7my8P2GeN5/Iw6g44fBBuVEgNLki+EBZTBPIzpRQ5+arC7cZPbqGuzu07poqoAmHJd2VlyXVGctTsMTy3Qhqa0imqH02awWiwikRQ48rJ3zRFHM92EMYcQT40ecavuIn7d/FEJSGb61UvchLy4l21DKVhzgTxNfJzPnj4GOjlhDyVG3HUfJREYre5beVm4e+HIu+810nuDVVgmhHyEQl77ZmYdS2Q/Cb1QWUMygWOSrS1fnov7Gsq1u4PC9gTk+o0Njs7hMhfhmwNNEIalf7DbhoNrkrB+vORmo149JsEFsxP14d0NtnKtEaBi0hULuNYHZjzqXQ0IzRb6yhGZHt2b8EhdowNgl2M+4IFR75vW0xcWBxY8X3z97Jl3opziWDbKNFRHF4WWZOvTo3WFN2OsbKadFJS5ITdIUxtEnwau1DitmoYClgQtI1qYMw==;p9ZHO8itZhBuzWlIfVC7+Q=="
 ---
 

@@ -1,0 +1,54 @@
+---
+category: news
+title: "Yandex to buy Uber shares for $1bn in self-driving, mobility and foodtech"
+excerpt: "As well as Yandex acquiring full ownership of four companies, the deal opens the way for a further $2bn acquisition in the mobility sector."
+publishedDateTime: 2021-08-31T11:29:00Z
+originalUrl: "https://www.siliconrepublic.com/companies/yandex-deal-uber-mobility-foodtech"
+webUrl: "https://www.siliconrepublic.com/companies/yandex-deal-uber-mobility-foodtech"
+type: article
+quality: 23
+heat: -1
+published: false
+
+provider:
+  name: SiliconRepublic
+  domain: siliconrepublic.com
+
+topics:
+  - AI in Autos
+  - AI
+
+images:
+  - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/08/yandex-office-building.jpeg"
+    width: 800
+    height: 600
+    isCached: true
+
+related:
+  - title: "Yandex To Acquire Uber's Interest In Eats, Lavka, Delivery And Self-Driving Businesses"
+    excerpt: "Yandex (YNDX) and Uber (UBER) have agreed to restructure the ownership of their joint ventures, MLU B.V. and Yandex Self-Driving B.V."
+    publishedDateTime: 2021-08-31T10:48:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/yandex-to-acquire-uber-s-interest-in-eats-lavka-delivery-and-self-driving-businesses-1030769168"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 26
+  - title: "Yandex to Acquire Uber's Interest in the Foodtech, Delivery and Self-Driving ..."
+    excerpt: "Yandex will own 100% of Yandex Eats, Lavka, Delivery and Self-Driving Group businesses Yandex and employees will increase share in mobility-focused MLU to approximately 71% Yandex"
+    publishedDateTime: 2021-08-31T06:50:00Z
+    webUrl: "https://www.pr-inside.com/yandex-to-acquire-uber-s-interest-in-the-foodtech-delivery-and-self-driving-r4845207.htm"
+    type: article
+    provider:
+      name: PR-Inside
+      domain: pr-inside.com
+    quality: 19
+    images:
+      - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
+        width: 1200
+        height: 628
+        isCached: true
+
+secured: "iRSk7m3U6QyQydDh01lk2u0ksyVkPE4CR6//lpsFxmHmEecFM0l2qCRrxab26AnVas4QUOCqsY7+4HEKndfci+IUJBHydXLuzzN2Qw6RVfXR50FPxdYd9EhvcVDxjBADJizxRmOfRFuJfAd+NoN5u4OBCTBUBf4ccrhSuXWmhNai2u4sQmN4FfFskVo4g4CUUYfGtiynjBfJlebY6y8AoCvI6dPzFst1IfCS0A9lQ4hGDlUPy+y4n2T8JlK7pRp8vYJIUQkSsTkoI9krkZMosyaC0H7TJj2Vi62ElwoLBylt9qCUIFCljyFHbqZQmizAPJUYzoLq+W9ppAQvZ5GFpcBG4Kc7Mc20TaqAAexrG/s=;DLPw1cH7+eZ6WeSjWEhCGA=="
+---
+

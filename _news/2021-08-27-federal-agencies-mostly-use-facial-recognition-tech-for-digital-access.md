@@ -49,38 +49,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Ten federal agencies are expanding their use of facial recognition"
-    excerpt: "The Government Accountability Office has revealed in a new report that 10 federal agencies are planning to expand their use of facial recognition. In a survey involving 24 federal agencies on their use of facial recognition technology,"
-    publishedDateTime: 2021-08-26T18:24:00Z
-    webUrl: "https://www.engadget.com/ten-federal-agencies-expanding-facial-recognition-070044629.html"
-    ampWebUrl: "https://www.engadget.com/amp/ten-federal-agencies-expanding-facial-recognition-070044629.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ten-federal-agencies-expanding-facial-recognition-070044629.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-08/d6385430-0632-11ec-9d54-a4ebe312b944"
-        width: 5988
-        height: 3992
-        isCached: true
-  - title: "Federal agencies plan to expand use of facial recognition technology"
-    excerpt: "At least 10 federal agencies will use facial recognition devices in the next few years, the Government Accountability Office said."
-    publishedDateTime: 2021-08-26T17:26:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2021/08/26/facial-recognition-technology-federal-government/9701629997438/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/08/26/facial-recognition-technology-federal-government/9701629997438/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/08/26/facial-recognition-technology-federal-government/9701629997438/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 61
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi_com/9701629997438/2021/1/e30981875b6529604732f53d58b86540/v1.5/Federal-agencies-plan-to-expand-use-of-facial-recognition-technology.jpg"
-        width: 800
-        height: 532
-        isCached: true
   - title: "US government agencies plan to increase facial recognition"
     excerpt: "The majority of US federal agencies are using some form of facial recognition technology, according to a study by the Government Accountability Office (GAO)."
     publishedDateTime: 2021-08-27T10:45:00Z
@@ -167,20 +135,6 @@ related:
       - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/us-agencies-increasing-use-facial-recognition-tech-showcase_image-2-a-17393.jpg"
         width: 860
         height: 520
-        isCached: true
-  - title: "Facial Recognition Tech Use Increasing Among Federal Agencies"
-    excerpt: "Use cases included criminal investigations, building security and access to digital assets like smartphones and security agency websites."
-    publishedDateTime: 2021-08-26T19:00:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2021/08/facial-recognition-tech-use-increasing-among-federal-agencies/184884/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 39
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2021/08/26/authentication_by_facial_recognition_biometric_security_system_picture_id1216416251/open-graph.jpg"
-        width: 400
-        height: 400
         isCached: true
 
 secured: "pNjk4hNhkSrlwoaqokQ4J5ziD3HmP45R0RNwC//eif8Np9o6SVF+1TLagVB/9B8Vk8bcZAuxVXQwqE2Baf50+IwgCc0FosOIjxNej/wscdPvmzE6qbjTtCXrGgrd1U4/coKIaErsBu8pnqzVxMZAaGnjeV6M11pCRQ6bn4y4F6Eb/6F+S6sZr8tmClRJaLkxfX7PhekZRGRzZY/NiDt4UlIeAyHBMijV7qqPo0nV6ncklXNUbOSZzmOr0JtEi8vM8IH5Tnj7BZb6/QcaXAzwhy0BdsiOE+KI+pB6jyuUkVcQHbiNKCI30Id5t3P6k35UBcM4cdeYYEeiiTSqLwIKklgb+TR4TYEpvNIrMNMiOfc=;r1/7pUjkXAEByu3TUo2kiQ=="

@@ -544,6 +544,17 @@ related:
         width: 360
         height: 245
         isCached: true
+  - title: "Self-driving buses back online in Tokyo after hitting Paralympic athlete"
+    excerpt: "Toyota will resume the use of its self-driving buses, e-Palette Pods, at the Tokyo 2020 Paralympic Games today after one hit a visually impaired athlete. The Guardian reported that the Paralympian, Aramitsu Kitazono,"
+    publishedDateTime: 2021-08-31T11:28:00Z
+    webUrl: "https://mybroadband.co.za/news/motoring/412038-self-driving-buses-back-online-in-tokyo-after-hitting-paralympic-athlete.html"
+    ampWebUrl: "https://mybroadband.co.za/news/motoring/412038-self-driving-buses-back-online-in-tokyo-after-hitting-paralympic-athlete.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/motoring/412038-self-driving-buses-back-online-in-tokyo-after-hitting-paralympic-athlete.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 23
   - title: "Tokyo Paralympics: Visually impaired athlete forced to withdraw after accident with self-driving shuttle bus"
     excerpt: "Toyota has temporarily suspended its autonomous buses in the Paralympics athletes' village after one vehicle hit a visually impaired Paralympian at a pedestrian crossing. Japanese athlete Aramitsu Kitazono was forced to withdraw from Saturday's 81kg Judo ..."
     publishedDateTime: 2021-08-28T10:17:00Z
@@ -643,6 +654,6 @@ related:
         height: 259
         isCached: true
 
-secured: "eXu7wDbWUW0V/nxJCwhSCG296l72muWuP54d4qsR9N1NXY3UROTqU/rbSOccAbHbDIwwB55DKxf4d3kg2753t32oL3ljYV/FxQVx9bVtAcMqO7iJVaZBluqNzOjymHLexk3I/Ei70rN0QLJ9gPdCXDIHj0lySeLmj/4b6+T4tZ7co8XIwGL2vzCREWkV3D96UMDQ8Dq6KV3e5cCbYzkCqrnhFCQskZ0eEPcuQb/da4grUCds5JbUFBi3UwEZx5bCizjBJXjCIx/MXaHgAoEVbew8A57ImBApqN56Lz90UQz4ISV1HFdIYxSHTI93hErdEhxMR7As8jrmHKtJ1+5H3kzkp5TDUm3bQiwol09hq2U=;vmVqXer9/1af/eIfzK16eA=="
+secured: "O3nClSshhL9pjEWLaqK4pMILVIoDQ1hUO2yXoIbO9irY/8VN9nUJvVoUTku4XW5Tn0p8ZxFML9wm9cfnGirzr8OEk/cKRrqFBcPH3eRokfyvsyqziYHKVoX7xNDoh3URuMrbwh1YKKtNBEM/r9NZPJpwNqNhjIkleXsOIY7fbTrX82yZ22ZVNGQ10WN/6g0l6ZWBjETFxm8wbl0x0MEbTM4lx+UbQFNC3PvNH/bESbkxVaEkaHBNjt/05iFgU5hw+8Wbo6c7oWBVJtvIeZpOSk5rxfKjXd5e6k5dzzh6BDY1TGsog54I1ZiGyu389Guwe5QFjgAYeaCQ6n4U9Rojouh4cYkLWkh5SOUJnhh6iC8MhpwBG5K3kmswh01yR5n/Kx3bjYIvCqACwxYx+9yeLsw/m/F7CEitigNllmdaJAhE5KyqHeON2UpPve23WOlfQnV6vB+6N9MgVMfSmgaDlDjQ4XeagPA3O0B1GjNMufXEOwaMeiyWe6hAfU/lF4kHbeZjQl12ADtbW84LzMNvAA==;VU2N1TRBXbI6sTZUqXUsLA=="
 ---
 

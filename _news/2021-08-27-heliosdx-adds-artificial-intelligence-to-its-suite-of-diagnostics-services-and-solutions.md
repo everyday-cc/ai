@@ -7,7 +7,7 @@ originalUrl: "https://www.lelezard.com/en/news-19970658.html"
 webUrl: "https://www.lelezard.com/en/news-19970658.html"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "heliosDX Adds Artificial Intelligence to its Suite of Diagnostics Services ..."
-    excerpt: "ALPHARETTA, GA / ACCESSWIRE / August 26, 2021 / RushNet, Inc (OTC PINK:RSHN), (the \"Company\" or \"heliosDX\") is pleased to announce through its subsidiary heliosDX the investment and adoption of Artificial Intelligence (\"AI\") into the diagnostic laboratory."
-    publishedDateTime: 2021-08-26T17:46:00Z
-    webUrl: "https://www.pr-inside.com/heliosdx-adds-artificial-intelligence-to-its-suite-of-diagnostics-services-r4844816.htm"
-    type: article
-    provider:
-      name: PR-Inside
-      domain: pr-inside.com
-    quality: 33
-    images:
-      - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "RushNet, Inc.: heliosDX Adds Artificial Intelligence to its Suite of Diagnostics Services and Solutions"
     excerpt: "ALPHARETTA, GA / ACCESSWIRE / August 26, 2021 / RushNet, Inc (OTC PINK:RSHN), (the \"Company\" or \"heliosDX\") is pleased to announce through its subsidiary heliosDX the investment and adoption of Artifi"
     publishedDateTime: 2021-08-26T22:04:00Z

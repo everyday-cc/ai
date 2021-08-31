@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI algorithm solves structural biology challenges"
-    excerpt: "Determining the 3-D shapes of biological molecules is one of the hardest problems in modern biology and medical discovery. Companies and research institutions often spend millions of dollars to determine a molecular structure—and even such massive efforts are frequently unsuccessful."
-    publishedDateTime: 2021-08-26T18:00:00Z
-    webUrl: "https://phys.org/news/2021-08-ai-algorithm-biology.html"
-    ampWebUrl: "https://phys.org/news/2021-08-ai-algorithm-biology.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-08-ai-algorithm-biology.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/ai-algorithm-solves-st.jpg"
-        width: 2475
-        height: 3150
-        isCached: true
   - title: "New machine learning techniques help resolve structural biology challenges"
     excerpt: "Determining the 3D shapes of biological molecules is one of the hardest problems in modern biology and medical discovery. Companies and research institutions often spend millions of dollars to determine a molecular structure – and even such massive efforts are frequently unsuccessful."
     publishedDateTime: 2021-08-27T04:25:00Z

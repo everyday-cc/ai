@@ -20,22 +20,6 @@ topics:
   - Machine Learning
   - AI
 
-related:
-  - title: "Machine Learning: Africa at the heart of a three-day conference at the Ecole Polytechnique Fédérale de Lausanne"
-    excerpt: "L’Ecole Polytechnique Fédérale de Lausanne (EPFL) ( annonces AMLD Africa ( International event from September 2 to 4 on machine learning applied to African development. This will be the first time that the “Applied Machine Learning Days”,"
-    publishedDateTime: 2021-08-26T18:00:00Z
-    webUrl: "https://guardian.ng/apo-press-releases/machine-learning-africa-at-the-heart-of-a-three-day-conference-at-the-ecole-polytechnique-federale-de-lausanne/"
-    type: article
-    provider:
-      name: The Guardian Nigeria
-      domain: guardian.ng
-    quality: 19
-    images:
-      - url: "https://www.africa-newsroom.com/files/thumb/b104197d90279ae/600/418"
-        width: 600
-        height: 334
-        isCached: true
-
 secured: "A78NAauiWTQs5GvIMRTrqM2xIubEH+dR0xUTvULyDTR6NKoKe0GK/osa9ELhvM+sPMjQexC5AKP7C2HapHXlJa3uCz+GQncLntHhIJsB+mF200u8KCFPNkEFVJAUTn3c29QoHpoO0JftmFyvM0cZHCAaYB+gQqiqMh1VB1chP37TgaKdVAt0pBeSYrxuE5zh/EhRTDhLLXQb+dBxv97YPik6vgwXGCNjKOGzdrXf1eojyihTr8iAq4Z4YpGPbj00lMhENB3y/SMMC+kZllr4jipBDqfm2/FEzvjRtH+Xw1+eDfaQz6w2DHAnhInCPGfU+B/LLUCqlrGb22ak76+bBPcia7WToM/mpq0rzatQo0g=;rjTaqke07bMaeJ1RPLj7Bg=="
 ---
 
