@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "fetchrobotics"
   url: "https://twitter.com/fetchrobotics"
-  followers: 7786
+  followers: 7787
 
 size: 51-200 employees
 yearFounded: 2014
