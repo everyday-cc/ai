@@ -53,6 +53,6 @@ related:
       domain: eurekalert.org
     quality: 11
 
-secured: "a9yAUaYL630sl4xZC5pMlvEnPrg1uNnBu7zaWx0AOoce+S/0ULXd1NEYzsr0+nkdu6Kr5KjnQrNU0aTb8U/W7Jzk7u49jNy+Cdsmem7jnWWDgssgAwphgZ3BJ6Cl0v+XGYHxZNNLPahUNZGgi4HNe2ChdoIFrcltp+AUp3DItkuizQvEWZ8yXsdhi5Ih2jLKWlO8ecltTKRVkzaEOPqbVcT1+2GzZw0/LEKK15gTg++6Fbawah2Wi7lqOFqvK2mUrTNLJb5EF9cZmThdDzyply4Wz+A5khOtuX1pebTgLM/RoSevww+OA/JCINI0DI4AB2j13RjIev0nP0sjPqGFJjuegC/vh5OxPJgcd9Rsau0=;NReFR7jjyn5uV8r2ogUq0g=="
+secured: "XDWTp/uLMjcsGiuKVns1m/R8uKIWLq1aN0RYmgmTUbBViwTuxgfG2d2FgVRl+s1KsNb+Q/9emXPyZafvjyDKDtEVEH0TSBKKKBAyybNYYN7ZF4j6VMchsCCZAnTXiI2HqsZ+cDutCwwrESF60093ta7sR8f8/bdlTQ+hHIps/AGeNF8FX8ar/W9UO2fDiVa+nBtngesmCuzWcn5de+zaveq57zw5blJsN4Q5jRYsArzmdDhoLMYaqx5p55HhLJCo5wsGJ4dgnSq3hwqnhjrHdZHWoAWtiS8JqG8Vmce+vwgcZYotJaagP+EWZJIWhOkOoUk1cqRzmI8vGsvmuetbFeX7seijd1mqeuVQivHi//c=;ywI1bURVeNbSocwOtMDUAQ=="
 ---
 
