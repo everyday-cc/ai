@@ -101,20 +101,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Goodyear collaborates with Plus on self-driving trucking tech"
-    excerpt: "Goodyear will supply a suite of services including connected tires to improve the safety for semi-trucks powered by Plus’ Level 4 self-driving technology. This will also help to reduce the carbon impact."
-    publishedDateTime: 2021-08-26T14:20:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17111/goodyear-collaborates-with-plus-on-self-driving-trucking-tech"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 24
-    images:
-      - url: "https://electronics360.globalspec.com/images/assets/111/17111/Plus_Become_Publicly_Listed-16-3e88642123.jpg"
-        width: 752
-        height: 470
-        isCached: true
   - title: "Challenges that self-driving cars are facing"
     excerpt: "The road to the future is a long and winding one as self-driving car companies try to get their driverless cars to go mainstream. While self-driving cars are the way of the future officials say it's just taking a little longer for the future to be fully realized."
     publishedDateTime: 2021-08-27T18:42:00Z

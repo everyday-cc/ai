@@ -27,75 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "Asia Pacific Artificial Intelligence In Healthcare Market Size, Analysis, Competitive Strategies and Forecasts to 2027"
-    excerpt: "The market research report an in-depth study of the present as well as the future market needs of the Asia Pacific Artificial Intelligence (Ai) In Healthcare Market size. The research report serves as a comprehensive guide for new entrants to the Asia Pacific Artificial Intelligence (Ai) In Healthcare market size."
-    publishedDateTime: 2021-08-26T13:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/asia-pacific-artificial-intelligence-in-healthcare-market-size-analysis-competitive-strategies-and-forecasts-to-2027-2021-08-26"
+  - title: "Artificial Intelligence (AI) as a Service Market Size, Opportunities, Key Growth Factors, Revenue Analysis, For 2020–2027"
+    excerpt: "Global Artificial Intelligence AI as a Service Market is forecasted to grow at a rate of 45 6 from USD 1 73 Billion in 2019 to USD 34 1 Billion in 2027 according to a new report by"
+    publishedDateTime: 2021-08-27T16:24:00Z
+    webUrl: "https://www.openpr.com/news/2371713/artificial-intelligence-ai-as-a-service-market-size"
+    ampWebUrl: "https://www.openpr.com/amp/2371713/artificial-intelligence-ai-as-a-service-market-size"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2371713/artificial-intelligence-ai-as-a-service-market-size"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
+      name: openpr.com
+      domain: openpr.com
+    quality: 47
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.openpr.com/U/8/U827435198_g.jpg"
+        width: 750
+        height: 350
         isCached: true
-  - title: "North America Artificial Intelligence In Healthcare Market Segmentation, Growth, Assessing Major Growth Opportunities by 2027"
-    excerpt: "Selbyville, Delaware Market Study Report Has Added Research Each place is then elaborated to help the reader comprehend the growth potential of each region and its contribution to the North America Artificial Intelligence (Ai) In Healthcare market size."
-    publishedDateTime: 2021-08-26T13:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/north-america-artificial-intelligence-in-healthcare-market-segmentation-growth-assessing-major-growth-opportunities-by-2027-2021-08-26"
+  - title: "Artificial Intelligence (AI) in Social Media Market Revenue, Driving Factors, Key Players, Strategies, Trends, Forecast Till 2027"
+    excerpt: "The Global Artificial intelligence AI In Social Media Market size is estimated to reach USD 4 26 Billion from USD 797 Million in 2019 exhibiting a CAGR of 24 7 through 2027 The rapid evolution of social media platforms with"
+    publishedDateTime: 2021-08-27T16:45:00Z
+    webUrl: "https://www.openpr.com/news/2371710/artificial-intelligence-ai-in-social-media-market-revenue"
+    ampWebUrl: "https://www.openpr.com/amp/2371710/artificial-intelligence-ai-in-social-media-market-revenue"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2371710/artificial-intelligence-ai-in-social-media-market-revenue"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
+      name: openpr.com
+      domain: openpr.com
+    quality: 43
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "With Market Size Valued at $40 Billion by 2026, it`s a Healthy Outlook for the Global Artificial Intelligence (AI) in Healthcare Market"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Healthcare - Global Market Trajectory & Analytics\"."
-    publishedDateTime: 2021-08-26T13:44:00Z
-    webUrl: "https://www.lelezard.com/en/news-19969639.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 39
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "Artificial Intelligence in Transportation Market with Report In Depth Industry Analysis on Trends, Growth, Opportunities and Forecast till 2025"
-    excerpt: "Selbyville, Delaware Market Study Report Has Added Research helps to set achievable targets, which consequently"
-    publishedDateTime: 2021-08-26T13:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-transportation-market-with-report-in-depth-industry-analysis-on-trends-growth-opportunities-and-forecast-till-2025-2021-08-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Trade Surveillance Systems Market Forecast to 2028: Opportunities in the Integration of Technologies such as Artificial Intelligence and Machin"
-    excerpt: "The \"Trade Surveillance Systems Market Forecast to 2028 - COVID-19 Impact and Global Analysis by Component (Solutions and Services), Deployment (On Premise and Cloud), and Organization Size (SMEs and Large Enterprises)\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2021-08-30T09:01:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=522713"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
+      - url: "https://cdn.openpr.com/U/8/U827883715_g.jpg"
+        width: 750
+        height: 350
         isCached: true
 
 secured: "0cXdpZmxjkFCiL64xP5S6obeg6fxm0rGfiGaLnFe0W+4a+fTH8jVOQmMxZx3JaHGTaY1T+bi95YNUuARW8SnCkQKmwSGuusMWuYrkJwEqgyqe5hOsSOBMPXUf7U6q+ZpsSR+dRwUa8ibqVajDZEPEJRFlWwS80/LyPV0e50DeZlQrHRhm55AzwDHzWsmE4ztAmVo5CwF+AxHMaKit6/yUAaik6MyFVDuXLyZoAuxCQfkUcgtF0DsDV9ddPiKvc7uSEhQXe7Cvsmq780tJYF9POcNoqSzeJcjgWLpk8yJLYI0h0ZbxT5J4MsGU41yYuBSnyLtESAcNDirsofZDOR1xP9zM44h9GM1MhRSFbmSq0Ulg306C0sk8Oh0LFjoUXLDIlaztDzr+LmHMApieeuPSItEiQZPAN3Ln+ALeL3AQFsogO49Gc6WmxkYb1b6dCgpensmuyvMxnG3rQyTvDFmnZ0974qnz6KEUKEIxs557xXYBmjP7SdY64TEjYnLPJsLqac31UV3SjOg07kvQGp/6w==;xyWXXrJp2JhLucECqIQYEg=="

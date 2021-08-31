@@ -70,6 +70,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Unsupervised artificial intelligence predicts COVID-19 progression, survival rates based on CT scans"
+    excerpt: "Massachusetts General Hospital scientists have helped create an unsupervised artificial intelligence system they say can predict patients’ COVID-19 progression and risk of death based on chest CT images."
+    publishedDateTime: 2021-08-31T07:16:00Z
+    webUrl: "https://www.radiologybusiness.com/topics/artificial-intelligence/unsupervised-artificial-intelligence-covid-19-progression"
+    type: article
+    provider:
+      name: Radiology Business
+      domain: radiologybusiness.com
+    quality: 22
+    images:
+      - url: "https://www.radiologybusiness.com/sites/default/files/styles/facebook/public/2020-05/covid.jpg?h=38c30757&itok=YrVp4qUR"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Mayo Clinic, nference AI studies find antibody treatment may reduce hospitalization in high-risk COVID cases"
     excerpt: "After kicking off the new year by expanding their year-old data analytics-based research collaboration, Mayo Clinic and nference’s union continues to bear fruit."
     publishedDateTime: 2021-08-30T15:49:00Z
@@ -85,6 +99,6 @@ related:
         height: 2333
         isCached: true
 
-secured: "vqakTn/xzQn8r3vEgazaVn0NpLli6hpQogc7SmEXXAJow7SbQNMQ6GQlY7fiGzfJQ3NRO1lzIeVpcHzkKobKuZ0P+iVtlReKYCjktqoonfBr3ujLdTEN2LomuLoGWFBuUr4H4goiQsj4s25T8z0FhpSZ+tpGj6iTvEQldAb6C8/6izQogjpNHfYv29xCxO+qvS9/4bnzBHNLv5JnogK8zoGFU6w2BR4/YoM/6r47sMuqGvLOWakxks8yv1DZ36EY8pa2D5Kn3jLmePMR48mbk2ICa1FhCHntsqpHbYKrtpew5uS0ADt3l9dx6QWjeJHdwsqpe+rHKEdt1lTKdZZ/L4PbsNj8NDulGkVEwNgoqm8=;06QoTXBLPET6P5kX1bse+w=="
+secured: "uOH5DZDqBu30taOp/h3GlJzo8t/HT/BuUzcbk4xDSu/rA+7I+YsA8SaaCtVXopCx0uynZeSh5wjk0nzsg6yY+mkGUbaf2BO0VaMznDayz4XT2b/NuQONPjZK9OOQWHuZHwwbI6pbs2RCvDCzbFm2fnXHE62SpMZ0UZpc/4oLQl81/F7U8RrzP35J/Os1hQzQqIbDaZSWXKh0yVf4oLSZs3XTW0jZSn6uUpiteMe0DpqLU56IMoEnOe37gGNQkVhht/b+Yp2pRxaaiexJVXOPBIvjo9jw1B8xqNDbWJHjcPGz6qCW/e7qcAI3hiVpNk10GZ5kjm6QcDfrwbQGdh5BuRkRuPx0fAfUSOqIE2DtsE/3eJQSCspYVK3Rjzr31ml42uxZeIbToRx7PsJNXqryXYHAXq9joQLBQ4fN0duEH1ns47JOgvsafQHVAlfh9ivSh1S66hzLE+woJZkAkX/QOX3Rn6WMD/E/wUrs5M9OHHOnXhlTrfmr03cXBMBXaInrDdfWhMI9+8Z9yBbHN7fk2g==;DKET6UZnCfGlMDDcHHRbGQ=="
 ---
 

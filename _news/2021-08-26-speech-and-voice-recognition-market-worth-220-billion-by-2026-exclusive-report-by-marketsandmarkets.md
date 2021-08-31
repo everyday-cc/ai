@@ -35,34 +35,6 @@ related:
         width: 390
         height: 220
         isCached: true
-  - title: "Speech and Voice Recognition Market worth $22.0 billion by 2026 - Exclusive Report by MarketsandMarketstm"
-    excerpt: "Global Forecast to 2026\", published by MarketsandMarketstm, the Speech And Voice Recognition Market is expected to grow from USD 8.3 billion in 2021 to USD 22.0 billion by 2026; it is expected to grow at a CAGR of 21."
-    publishedDateTime: 2021-08-26T14:58:00Z
-    webUrl: "https://www.lelezard.com/en/news-19970034.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 7
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "Global AI-based Clinical Trials Solution Provider Market (2021 to 2028) - Size, Share & Trends Analysis Report - ResearchAndMarkets.com"
-    excerpt: "The global AI-based clinical trials solution provider market size is expected to reach USD 5.2 billion by 2028 and is expected to expand at a CAGR of 21.7% over the forecast period. Unlearn.AI, Inc. Antidote Technologies,"
-    publishedDateTime: 2021-08-26T13:30:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=521967"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 5
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
   - title: "Self-driving Industrial Vehicle Market Global Growth, SWOT Industry Analysis, CAGR Status, Key Companies, Applications, Upcoming Trends 2030"
     excerpt: "Allied Market Research published a new report titled Self driving industrial Market Global Opportunity Analysis and Industry Forecast 2021 2027 The latest study on the Global Self driving industrial Market covers a wide range of organizations from different regions It"
     publishedDateTime: 2021-08-27T09:35:00Z
@@ -84,6 +56,6 @@ related:
       domain: reportsnreports.com
     quality: 0
 
-secured: "UK1E42vtVRFYc1m6/phJ5oyXXGn/V771u9BNY31wdCE6Ndzr4Jxda52aXMpNIyMKKsGF0x2lDTzeiUoEl6C5C/vCk7bw5U8ecXK0dtxePO/GfDgka9jR1y/Swrm5UJFhfnekju3bJEkQMT0HETR4f6rl+927LM8rPFW/l7w6rv7okTB3M8M2dHZ/BCP7LADslS+kOOOL7wNM2am1K7SC8g9c2iuhyp70oi8VtVjoyzm+EhIrxxn9h07qHEjQ78oU41QZE2xm3niXGbCp69RWawb9h7sg2zpUfJjvgi7yn4IbnBwk2e2YPb5QpDJhUTRZKWCiKaG23GQHve27FycwW2u2jXhfGH2wmp/M+yHyVTY=;/IO4N71q4I+3cMTmCMN7bw=="
+secured: "WYnWuUpkQmb/Ep5Vri24ErFtTc+noOC9BtOpX4dzoxH5z8pJOezLzfREFqZ9U2U4aNM7+RSTVur4zoWFzjayPcRmlcvkQKZ/KCd3CqvTSdJHYth18H0odH9bP9QFe7ZXmchxSsKhsuWldRWIRS+/705raS5tQ/r+q5PelW1VI4h44krmXftfPb882olwt3DJHoA+S/PTdwFl7+v49tsVPGt+Ci4nr2k6/a9jXL29dJO82iWfj2nwpZSNEnVln+EhzWNNLQy7Cn1WkHPQmeE9kb3T9srkYVFfcBa3+zgH7ov21wsOqf0A/S1nVutYRb6bwN4O5BweA2/DrVzZf510TYl4puV9M+BrgQwK/ZjdoKY=;V/i2ENIAYpuSjNUGq2tsKQ=="
 ---
 

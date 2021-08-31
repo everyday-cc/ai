@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-31-csu-san-marcos-gets-grant-to-create-speech-therapy-video-games.md",
+      "title": "CSU San Marcos Gets Grant To Create Speech Therapy Video Games",
+      "excerpt": "Cal State San Marcos will collaborate with Verboso, a Chicago-based company that creates therapy video games with automated feedback.",
+      "sourceUrl": null,
+      "webUrl": "https://patch.com/california/san-diego/csu-san-marcos-gets-grant-create-speech-therapy-video-games",
+      "originalUrl": "https://patch.com/california/san-diego/csu-san-marcos-gets-grant-create-speech-therapy-video-games",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn20/shutterstock/22880694/20210831/030212/styles/patch_image/public/shutterstock-701622064___31025930607.jpg?width=984",
+          "width": 615,
+          "height": 461,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://patch.com/california/san-diego/amp/29836633/csu-san-marcos-gets-grant-to-create-speech-therapy-video-games",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/california/san-diego/amp/29836633/csu-san-marcos-gets-grant-to-create-speech-therapy-video-games",
+      "publishedDateTime": "2021-08-31T00:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-08-31-ai-approach-helps-identify-heart-failure-patients-who-will-benefit-from-beta-blocker-therapy.md",
       "title": "AI approach helps identify heart failure patients who will benefit from beta-blocker therapy",
       "excerpt": "Researchers at the University of Birmingham have developed a new way to identify patients with heart failure who will benefit from treatment with beta-blockers.",
@@ -466,7 +510,7 @@
       "originalUrl": "https://venturebeat.com/2021/08/30/ignore-the-ai-hype-focus-on-the-value/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -490,6 +534,57 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-30-c3ai-ai-to-report-q1-earnings-whats-in-the-offing.md",
+      "title": "C3.ai (AI) to Report Q1 Earnings: What's in the Offing?",
+      "excerpt": "C3.ai AI is set to report first-quarter fiscal 2022 results on Sep 1. For the quarter, C3.ai expects revenues between $50 million and $52 million. The Zacks Consensus Estimate for revenues currently stands at $51 million.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/382487",
+      "originalUrl": "https://www.entrepreneur.com/article/382487",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-382487.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/382487",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/382487",
+      "publishedDateTime": "2021-08-30T09:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -593,7 +688,7 @@
       "originalUrl": "https://techxplore.com/news/2021-08-artificial-intelligence-covid.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -836,7 +931,7 @@
       "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/08/29/can-artificial-intelligence-give-thoughtful-gifts-an-exploration-of-the-possibilities-and-limits-of-ais-humanity/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -983,7 +1078,7 @@
       "originalUrl": "https://venturebeat.com/2021/08/29/how-to-make-ai-more-ethical/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -1068,99 +1163,6 @@
         "AI",
         "AI in Autos",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-29-aust-researchers-use-ai-to-predict-drought.md",
-      "title": "Aust researchers use AI to predict drought",
-      "excerpt": "James Cook University researchers have used artificial intelligence to predict some of the key markers of drought conditions up to six months ahead of time.",
-      "sourceUrl": null,
-      "webUrl": "https://thewest.com.au/technology/telecommunications/aust-researchers-use-ai-to-predict-drought-c-3810380",
-      "originalUrl": "https://thewest.com.au/technology/telecommunications/aust-researchers-use-ai-to-predict-drought-c-3810380",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.thewest.com.au/publication/C-3810380/be266d6e0fe45f3d9a3acfb8f4439407279b6436-16x9-x0y0w1280h720.jpg?imwidth=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thewest.com.au/technology/telecommunications/aust-researchers-use-ai-to-predict-drought-c-3810380.amp",
-      "cdnAmpWebUrl": "https://thewest-com-au.cdn.ampproject.org/c/s/thewest.com.au/technology/telecommunications/aust-researchers-use-ai-to-predict-drought-c-3810380.amp",
-      "publishedDateTime": "2021-08-28T16:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The West Australian",
-        "domain": "thewest.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-29-i-went-to-a-play-written-by-ai-it-was-like-looking-in-a-circus-mirror.md",
-      "title": "I went to a play written by AI; it was like looking in a circus mirror",
-      "excerpt": "At the Young Vic theatre in London last week, an experimental production called AI played a three-night run. The objective of this collaboration between person and machine was to emerge at the end with a 30-minute script, written by artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/sg/news/i-went-to-a-play-written-by-ai-it-was-like-looking-in-a-circus-mirror",
-      "originalUrl": "https://www.techradar.com/sg/news/i-went-to-a-play-written-by-ai-it-was-like-looking-in-a-circus-mirror",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/s2TJB2EMeXZQHeKtBj6bGb-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/sg/amp/news/i-went-to-a-play-written-by-ai-it-was-like-looking-in-a-circus-mirror",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/i-went-to-a-play-written-by-ai-it-was-like-looking-in-a-circus-mirror",
-      "publishedDateTime": "2021-08-28T12:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -41,6 +41,22 @@ related:
         width: 1024
         height: 650
         isCached: true
+  - title: "Artificial Intelligence in Construction Market is Booming Worldwide | IBM, Microsoft, Oracle"
+    excerpt: "Latest released the research study on Global Artificial Intelligence in Construction Market offers a detailed overview of the factors influencing the global business scope Artificial Intelligence in Construction Market research report shows the latest market insights current situation analysis with"
+    publishedDateTime: 2021-08-31T06:15:00Z
+    webUrl: "https://www.openpr.com/news/2373861/artificial-intelligence-in-construction-market-is-booming"
+    ampWebUrl: "https://www.openpr.com/amp/2373861/artificial-intelligence-in-construction-market-is-booming"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2373861/artificial-intelligence-in-construction-market-is-booming"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 63
+    images:
+      - url: "https://cdn.openpr.com/U/8/U831667007_g.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Otter.ai expands reach of Otter Assistant for video chats"
     excerpt: "The virtual assistant, rolled out for Zoom users in May, gains support for three more platforms: Microsoft Teams, Google Meet and Cisco Webex."
     publishedDateTime: 2021-08-27T07:58:00Z

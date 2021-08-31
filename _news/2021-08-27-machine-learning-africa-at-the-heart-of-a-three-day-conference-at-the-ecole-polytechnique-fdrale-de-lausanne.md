@@ -36,20 +36,6 @@ related:
         height: 334
         isCached: true
   - title: "Machine Learning: Africa at the heart of a three-day conference at the Ecole Polytechnique Fédérale de Lausanne"
-    excerpt: "L’Ecole Polytechnique Fédérale de Lausanne (EPFL) ( annonces AMLD Africa ( International event from September 2 to 4 on machine learning applied to African development."
-    publishedDateTime: 2021-08-26T14:35:00Z
-    webUrl: "https://www.africanews.com/2021/08/26/machine-learning-africa-at-the-heart-of-a-three-day-conference-at-the-ecole-polytechnique-federale-de-lausanne/"
-    type: article
-    provider:
-      name: Africanews
-      domain: africanews.com
-    quality: 19
-    images:
-      - url: "https://static.euronews.com/articles/wires/769/17/7691768/1024x538_71m4dd.jpg?1629992109"
-        width: 1024
-        height: 538
-        isCached: true
-  - title: "Machine Learning: Africa at the heart of a three-day conference at the Ecole Polytechnique Fédérale de Lausanne"
     excerpt: "L’Ecole Polytechnique Fédérale de Lausanne (EPFL) ( annonces AMLD Africa ( International event from September 2 to 4 on machine learning applied to African development. This will be the first time that the “Applied Machine Learning Days”,"
     publishedDateTime: 2021-08-26T18:00:00Z
     webUrl: "https://guardian.ng/apo-press-releases/machine-learning-africa-at-the-heart-of-a-three-day-conference-at-the-ecole-polytechnique-federale-de-lausanne/"

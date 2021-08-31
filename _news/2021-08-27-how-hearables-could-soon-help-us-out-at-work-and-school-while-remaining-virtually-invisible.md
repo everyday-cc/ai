@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/how-hearables-could-soon-help-out-work
 webUrl: "https://thenextweb.com/news/how-hearables-could-soon-help-out-work-school-remaining-virtually-invisible-syndication"
 type: article
 quality: 58
-heat: 68
+heat: 58
 published: false
 
 provider:
@@ -27,24 +27,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "Wearable tech for your ears: 'Hearables' can teach you a language or music with the help of AI"
-    excerpt: "Hearables are wireless smart micro-computers with artificial intelligence that incorporate both speakers and microphones. They fit in the ears and can connect to the internet and to other devices, and are designed to be worn daily."
-    publishedDateTime: 2021-08-26T13:08:00Z
-    webUrl: "https://techxplore.com/news/2021-08-wearable-tech-ears-hearables-language.html"
-    ampWebUrl: "https://techxplore.com/news/2021-08-wearable-tech-ears-hearables-language.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-wearable-tech-ears-hearables-language.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 47
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/wearable-tech-for-your.jpg"
-        width: 1356
-        height: 668
-        isCached: true
 
 secured: "7906UKgUxlSEcZKTPSccPCT9CXGmM0117fuU/1WD1AJlgQWqZUGjAh4kGwAY51Ah12VV7gonVyDpByumw0DPJBBoFO2RYLCDG28k3sV9znRMRe6JMUPXk4tviVswj9cT2cinL7GtY1as1Yw8hjkqY4+oIp9TOm8W42RTR8sZtfwdkdS+lPes1OK1MobZabgMK5q231ZrOm5BPnBeGOS+UdRjZ4wpeGuKTTPEMq7LmuzF4waaAp8SzuyRxFnXwNvQC4wBHJiDOAJzc87sINAYjb4OX+RR29z9pdBeQ7fQt7lGkNWKmTvktwFnHK79UFb6e82LubeheRHvwRr/RJmV7KLSJyrydRxmRvJ8Vpin27Q=;rbNVKfJCMse07PRUYG624A=="
 ---

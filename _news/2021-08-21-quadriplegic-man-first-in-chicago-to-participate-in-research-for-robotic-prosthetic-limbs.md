@@ -3,10 +3,10 @@ category: news
 title: "Quadriplegic man first in Chicago to participate in research for robotic prosthetic limbs"
 excerpt: "The first time Scott Imbrie cried over his catastrophic injury, he was looking out over Lake Michigan from a room inside the Rehabilitation Institute of Chicago."
 publishedDateTime: 2021-08-21T10:00:00Z
-originalUrl: "https://www.pantagraph.com/news/state-and-regional/quadriplegic-man-first-in-chicago-to-participate-in-research-for-robotic-prosthetic-limbs/article_cb2049f2-d03d-5392-9f28-c3eda2ce8dd3.html"
-webUrl: "https://www.pantagraph.com/news/state-and-regional/quadriplegic-man-first-in-chicago-to-participate-in-research-for-robotic-prosthetic-limbs/article_cb2049f2-d03d-5392-9f28-c3eda2ce8dd3.html"
-ampWebUrl: "https://www.pantagraph.com/news/state-and-regional/quadriplegic-man-first-in-chicago-to-participate-in-research-for-robotic-prosthetic-limbs/article_cb2049f2-d03d-5392-9f28-c3eda2ce8dd3.amp.html"
-cdnAmpWebUrl: "https://www-pantagraph-com.cdn.ampproject.org/c/s/www.pantagraph.com/news/state-and-regional/quadriplegic-man-first-in-chicago-to-participate-in-research-for-robotic-prosthetic-limbs/article_cb2049f2-d03d-5392-9f28-c3eda2ce8dd3.amp.html"
+originalUrl: "https://pantagraph.com/news/state-and-regional/quadriplegic-man-first-in-chicago-to-participate-in-research-for-robotic-prosthetic-limbs/article_cb2049f2-d03d-5392-9f28-c3eda2ce8dd3.html"
+webUrl: "https://pantagraph.com/news/state-and-regional/quadriplegic-man-first-in-chicago-to-participate-in-research-for-robotic-prosthetic-limbs/article_cb2049f2-d03d-5392-9f28-c3eda2ce8dd3.html"
+ampWebUrl: "https://pantagraph.com/news/state-and-regional/quadriplegic-man-first-in-chicago-to-participate-in-research-for-robotic-prosthetic-limbs/article_cb2049f2-d03d-5392-9f28-c3eda2ce8dd3.amp.html"
+cdnAmpWebUrl: "https://pantagraph-com.cdn.ampproject.org/c/s/pantagraph.com/news/state-and-regional/quadriplegic-man-first-in-chicago-to-participate-in-research-for-robotic-prosthetic-limbs/article_cb2049f2-d03d-5392-9f28-c3eda2ce8dd3.amp.html"
 type: article
 
 provider:
@@ -23,6 +23,6 @@ images:
     height: 732
     isCached: true
 
-secured: "cVnYyiPWXlwSeOCZfXUiZ/h//X9/qnPAECSMMG1FHZmGl0AmSfqbEnEiNOmLuKqHwL2CBW81YgLtOaPg2ms783wET6Umr80/4SiZNO/+KOVxrZ/87+lGNbGf2BM3Io5ZhG8ie2ivoI6baRe9GmftbY0q4JI7P/Zckw8UiAlwdKLjw/+1HVu2/S6ljij6cDhVW6522j09SMAGVmMHygphzOdEpE1Sh0ocwJnUSSvcmQDZFsiSAPhqnSqn2dkWXnnORNkoNt6YwQeOSZprJ7O1nWIFA9JNyppq5kuXSIgPrzI0xOJnVxjgc4PJUEcad0oGkU9uBuTqQwODZywkSxPp5mLY7mDBMNTmVLt34a7pcyzB+W2nfrpJGHFDctvzVbrKuFf1/C2LWRl/Ctml4IfRtqsW6u+aqaJZXCgX6rz8GoLTXXXdjSw0CShOaZga9E8Hsm4DesiMBsitYpZLsOxQVhLRdFfwlagKPM7kiXs5xG2+yiHn0wjHuOxRPA/Q5PQKc4siaEHU2S/90U1Ag2mhOQ==;bEgBlFs/uvdzSv4irbUbkg=="
+secured: "kr0WOZI2i/mpchuatM17AmJrhLRNmutv0zV9kiiuisXybI0xwgvg5rHEzay0Kxa2IRSKJQeyfMdeSLDk1hDxrlQulQHXOH7u1z5We+a7nnRmsWTK90v+VV1Dc40uhdH9LbDPSfpQIrWObfoiabNPT2aGm0Ac51xblpxchPnmaX144ehzVurqzBgO61a2UXmGP220P8Yfx5nu5LG8Conp+lnXrn2qXg8Qd3YGi9dkcrE38G5rEIrTO5bT+lAtJbutRYByYwVtopo88X3oeZmgQJudR5h5RifFUx2wW/bGf3B7j7Cl1nVbKYZp+MIlad+dGRZB0cwQQ2YhrhV7ZjOzmsJrs5Zdk///fAqvjfQmprA=;W5HNH4/YDGRFM5r5XhpmWg=="
 ---
 

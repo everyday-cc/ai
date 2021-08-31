@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202108/us-federal-agencies-plan-to
 webUrl: "https://www.gao.gov/products/gao-21-526"
 type: article
 quality: 138
-heat: 268
+heat: 258
 published: true
 
 provider:
@@ -105,22 +105,6 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/cmg/CTAAWBLNTVHLRIAUVMFEA6YRPQ.jpg"
         width: 731
         height: 411
-        isCached: true
-  - title: "Scientists are using facial recognition to rapidly identify disease resistance in grapes"
-    excerpt: "Emerging AI technology is helping researchers determine how different cultivars respond to diseases, ultimately helping to breed pathogen-resistant varieties."
-    publishedDateTime: 2021-08-26T14:36:00Z
-    webUrl: "https://thecounter.org/scientists-facial-recognition-disease-resistance-grapes-ai/"
-    ampWebUrl: "https://thecounter.org/scientists-facial-recognition-disease-resistance-grapes-ai/amp/"
-    cdnAmpWebUrl: "https://thecounter-org.cdn.ampproject.org/c/s/thecounter.org/scientists-facial-recognition-disease-resistance-grapes-ai/amp/"
-    type: article
-    provider:
-      name: thecounter
-      domain: thecounter.org
-    quality: 50
-    images:
-      - url: "https://thecounter.org/wp-content/uploads/2021/08/robots-grapes-fungal-disease-august-2021-copy.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "10 federal agencies want to expand their use of facial recognition despite widespread concerns"
     excerpt: "The federal government wants to expand the use of facial recognition technology in the future, despite widespread criticism of it."

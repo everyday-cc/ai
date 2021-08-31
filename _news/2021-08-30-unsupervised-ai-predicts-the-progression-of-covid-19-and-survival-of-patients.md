@@ -70,6 +70,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Unsupervised artificial intelligence predicts COVID-19 progression, survival rates based on CT scans"
+    excerpt: "Massachusetts General Hospital scientists have helped create an unsupervised artificial intelligence system they say can predict patients’ COVID-19 progression and risk of death based on chest CT images."
+    publishedDateTime: 2021-08-31T07:16:00Z
+    webUrl: "https://www.radiologybusiness.com/topics/artificial-intelligence/unsupervised-artificial-intelligence-covid-19-progression"
+    type: article
+    provider:
+      name: Radiology Business
+      domain: radiologybusiness.com
+    quality: 22
+    images:
+      - url: "https://www.radiologybusiness.com/sites/default/files/styles/facebook/public/2020-05/covid.jpg?h=38c30757&itok=YrVp4qUR"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Mayo Clinic, nference AI studies find antibody treatment may reduce hospitalization in high-risk COVID cases"
     excerpt: "After kicking off the new year by expanding their year-old data analytics-based research collaboration, Mayo Clinic and nference’s union continues to bear fruit."
     publishedDateTime: 2021-08-30T15:49:00Z

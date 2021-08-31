@@ -71,19 +71,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Why the feds are investigating Tesla’s Autopilot and what that means for the future of self-driving cars"
-    excerpt: "Tesla’s Autopilot uses cameras, radar and ultrasonic sensors to support two major features: Traffic-Aware Cruise Control and Autosteer."
-    publishedDateTime: 2021-08-26T14:22:00Z
-    webUrl: "https://www.minnpost.com/other-nonprofit-media/2021/08/why-the-feds-are-investigating-teslas-autopilot-and-what-that-means-for-the-future-of-self-driving-cars/"
+  - title: "Passengers want self-driving cars to be like them"
+    excerpt: "Recent studies have shown that people have negative attitudes about using autonomous systems because they don’t trust them. Moreover, research shows a human-centred approach in autonomy is perceived as more trustworthy by users."
+    publishedDateTime: 2021-08-31T07:12:00Z
+    webUrl: "https://gadget.co.za/passengers-want-self-driving-cars-to-be-like-them/"
     type: article
     provider:
-      name: MinnPost
-      domain: minnpost.com
-    quality: 22
+      name: gadget.co.za
+      domain: gadget.co.za
+    quality: 24
     images:
-      - url: "https://www.minnpost.com/wp-content/uploads/2021/08/TeslaCrash640.jpg"
-        width: 640
-        height: 450
+      - url: "https://i1.wp.com/gadget.co.za/wp-content/uploads/2021/08/self-driving-car.jpg?resize=600%2C332&#038;ssl=1"
+        width: 600
+        height: 332
         isCached: true
 
 secured: "Eeav0/Txgfhm5X7G4DIDFqQOQTUk2Bk1YNPGyaTCWJpiYlmb92e4zkV94/y7D3+Nc7jJ2Gzw+vscjPkGTHi3GpkU853G05xtVh/fN4gZpNPmwtYBE4OxzMopLmZLrpap1MFFc8e2wVPRJGi8j5RGM3PtTUAHDDiQvY1KbwXrfhzWjj/lVonhPE8VAXWfXd+xYE+vGOFCGD5VHhsSXnm9x8HoOyBz4P0H3jAq/gF/W8qfrGHSx9EhMdMbTUAnLz3war9u76Jpuo3JDnStZXCebo3ODTH4TZhk8E/Qr9GlJEh13zSlD5LLKCNP5ohg8iZ6V5pTanPGiC76qWM+bog48YfN+2BOQM9gXnmmcXKG3w5Psxq5LOr0b36QrVeXeptlb1gpKxKsXA6jKidyYzo6Eam0JA9GYvjpu+vCL9ikhI3g8yc9JDnb8A0vLQsVOrKJOi1TSAGGy76u5p2M5BSjQqdyXpPYluyWkqYGg+g4gtpduL3E7Gl73pKrShX8SvMdHxBSb84BB9eH0FHO2I9eGg==;UsavZrfWymeb/XnjKJRWgw=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.thefastmode.com/expert-opinion/20640-how-instant-cyber
 webUrl: "https://www.thefastmode.com/expert-opinion/20640-how-instant-cybersecurity-data-intelligence-will-stop-ransomware-attacks"
 type: article
 quality: 23
-heat: 23
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Reinventing cybersecurity with artificial intelligence"
+    excerpt: "As traditional company barriers broke down, and remote working became the norm, the threat landscape rapidly changed, bringing cybersecurity to centre stage for every digital organisation. To be resilient in this hybrid working paradigm,"
+    publishedDateTime: 2021-08-31T07:05:00Z
+    webUrl: "https://www.technologyrecord.com/Article/reinventing-cybersecurity-with-artificial-intelligence-125555"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 37
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10479/img-The-Record---imagery.jpg"
+        width: 940
+        height: 443
+        isCached: true
   - title: "The 'Hyperscale SOC' and the Minds Behind It: A Machine-learning Foundation for Effective Cybersecurity"
     excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
     publishedDateTime: 2021-08-29T21:00:00Z

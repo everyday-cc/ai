@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-31-csu-san-marcos-gets-grant-to-create-speech-therapy-video-games.md",
+      "title": "CSU San Marcos Gets Grant To Create Speech Therapy Video Games",
+      "excerpt": "Cal State San Marcos will collaborate with Verboso, a Chicago-based company that creates therapy video games with automated feedback.",
+      "sourceUrl": null,
+      "webUrl": "https://patch.com/california/san-diego/csu-san-marcos-gets-grant-create-speech-therapy-video-games",
+      "originalUrl": "https://patch.com/california/san-diego/csu-san-marcos-gets-grant-create-speech-therapy-video-games",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn20/shutterstock/22880694/20210831/030212/styles/patch_image/public/shutterstock-701622064___31025930607.jpg?width=984",
+          "width": 615,
+          "height": 461,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://patch.com/california/san-diego/amp/29836633/csu-san-marcos-gets-grant-to-create-speech-therapy-video-games",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/california/san-diego/amp/29836633/csu-san-marcos-gets-grant-to-create-speech-therapy-video-games",
+      "publishedDateTime": "2021-08-31T00:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-08-31-ai-approach-helps-identify-heart-failure-patients-who-will-benefit-from-beta-blocker-therapy.md",
       "title": "AI approach helps identify heart failure patients who will benefit from beta-blocker therapy",
       "excerpt": "Researchers at the University of Birmingham have developed a new way to identify patients with heart failure who will benefit from treatment with beta-blockers.",
@@ -1327,49 +1371,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-new-technology-for-personalized-antibiotic-therapy.md",
-      "title": "New Technology for Personalized Antibiotic Therapy",
-      "excerpt": "Incorporating a new sensor to antibiotic susceptibility test can reduce inappropriate usage of antibiotics and enhance quality of care for the patients.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/new-technology-for-personalized-antibiotic-therapy-202714-1.htm",
-      "originalUrl": "https://www.medindia.net/news/new-technology-for-personalized-antibiotic-therapy-202714-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/potent-antibiotic-identified.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/new-technology-for-personalized-antibiotic-therapy-202714-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/new-technology-for-personalized-antibiotic-therapy-202714-1.htm",
-      "publishedDateTime": "2021-08-11T10:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

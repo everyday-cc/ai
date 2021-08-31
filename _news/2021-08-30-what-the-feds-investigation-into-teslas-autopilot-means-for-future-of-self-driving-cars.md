@@ -71,19 +71,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Why the feds are investigating Tesla’s Autopilot and what that means for the future of self-driving cars"
-    excerpt: "Tesla’s Autopilot uses cameras, radar and ultrasonic sensors to support two major features: Traffic-Aware Cruise Control and Autosteer."
-    publishedDateTime: 2021-08-26T14:22:00Z
-    webUrl: "https://www.minnpost.com/other-nonprofit-media/2021/08/why-the-feds-are-investigating-teslas-autopilot-and-what-that-means-for-the-future-of-self-driving-cars/"
+  - title: "Passengers want self-driving cars to be like them"
+    excerpt: "Recent studies have shown that people have negative attitudes about using autonomous systems because they don’t trust them. Moreover, research shows a human-centred approach in autonomy is perceived as more trustworthy by users."
+    publishedDateTime: 2021-08-31T07:12:00Z
+    webUrl: "https://gadget.co.za/passengers-want-self-driving-cars-to-be-like-them/"
     type: article
     provider:
-      name: MinnPost
-      domain: minnpost.com
-    quality: 22
+      name: gadget.co.za
+      domain: gadget.co.za
+    quality: 24
     images:
-      - url: "https://www.minnpost.com/wp-content/uploads/2021/08/TeslaCrash640.jpg"
-        width: 640
-        height: 450
+      - url: "https://i1.wp.com/gadget.co.za/wp-content/uploads/2021/08/self-driving-car.jpg?resize=600%2C332&#038;ssl=1"
+        width: 600
+        height: 332
         isCached: true
 
 secured: "lpS8rxCrkjb09PGhsbLuB4od6Wnl2iSeL2R9XrlDk+gAFLkZaq94UYtBe6DhXqURp52Ze9F53OQJpLXIbIyXKysrvrqlLkYAuHIsYhbx7Fq60LTLcTicmLLszgrRrP3TRiZRORxFRtcgrQNJFfD6GMyWujDRONkIDsYu3ZrU5QohUX338g1ClbXNVBoZ2kASOMPyuQHizA/NewlDs8pDupQOdGF4pXDvpCFMHCKQ0preCd79w8IKXw9QSeO4woyQJdN7IShR6EZkak5ykSE8oV68Sp3tPAoPi7td2B6H3hVJAbCmISASElzdr+LvA5xEcKuxv+iD8mtcIQS7ocuTN+lPYu6UMaLtEycxfFVDlfY=;xOMMOHoJLoK5YOvudi06Fw=="

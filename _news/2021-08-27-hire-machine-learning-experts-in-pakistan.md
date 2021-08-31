@@ -25,22 +25,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Why Is Pakistan Cautious in Extending Recognition to the Taliban Regime?"
-    excerpt: "Pakistan has decided against going it alone with regard to extending recognition to the Taliban as Afghanistan’s legitimate government. It would take a decision on the matter in"
-    publishedDateTime: 2021-08-26T14:52:00Z
-    webUrl: "https://thediplomat.com/2021/08/why-is-pakistan-cautious-in-extending-recognition-to-the-taliban-regime/"
-    type: article
-    provider:
-      name: The Diplomat
-      domain: thediplomat.com
-    quality: 23
-    images:
-      - url: "https://thediplomat.com/wp-content/uploads/2021/08/sizes/td-story-s-2/thediplomat_2021-08-26-3.jpg"
-        width: 600
-        height: 377
-        isCached: true
-
 secured: "JJAqUjCPRKuooQ1kVm2GuikyObvMNY2jUGYPDb52YipBWMVoOuFo39AyCD+VwNKpfu21mFFO7HDRaUlcPpwmJSCkciv0kI7fiKxH38sdwnzdm2bQUUyDthk8RzKfFyfhWFTy5TfqAmgvwwFznFiB5+c48vHVFNPMqSFbtKHjyqU72Ni65aAN9Mb/q1tvccAe7C2e9HD81aRZYnSm7yoYoHZlD2SahLejtyuHEXWHe6DIFW/Vkxl6en5SXyWFdHpgNnDVCPaUDVuEfYO8RTaMs1pXTV0cpWLsJd8qRAmLkDi0KjQaEBrh5QsGxGrrCQqvI6GuyPcs9+b1Y7TlJMEHLYJbu4R8a6l5LDxfk95ZJYk=;nhv4eXhAAfSYonRnJeC95w=="
 ---
 

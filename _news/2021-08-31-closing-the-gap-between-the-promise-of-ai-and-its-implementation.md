@@ -1,0 +1,65 @@
+---
+category: news
+title: "Closing the gap between the promise of AI and its implementation"
+excerpt: "Despite a growing and compelling body of evidence that AI can significantly boost business performance there's still widespread reluctance to adopt it."
+publishedDateTime: 2021-08-31T07:28:00Z
+originalUrl: "https://www.ibtimes.co.uk/closing-gap-between-promise-ai-its-implementation-1693998"
+webUrl: "https://www.ibtimes.co.uk/closing-gap-between-promise-ai-its-implementation-1693998"
+ampWebUrl: "https://amp.ibtimes.co.uk/closing-gap-between-promise-ai-its-implementation-1693998"
+cdnAmpWebUrl: "https://amp-ibtimes-co-uk.cdn.ampproject.org/c/s/amp.ibtimes.co.uk/closing-gap-between-promise-ai-its-implementation-1693998"
+type: article
+quality: 59
+heat: -1
+published: false
+
+provider:
+  name: IBTimes UK
+  domain: ibtimes.co.uk
+
+topics:
+  - AI Ethics
+  - AI
+
+images:
+  - url: "https://d.ibtimes.co.uk/en/full/1692825/ibm-quantum-system-one.jpg"
+    width: 2500
+    height: 1734
+    isCached: true
+
+related:
+  - title: "Can Artificial Intelligence Give Thoughtful Gifts? An Exploration Of The Possibilities And Limits Of AI’s Humanity"
+    excerpt: "It is clear that with the massive amounts of behavioral data available to Google and other social media platforms, the impact on our shopping behavior begins with how we are marketed to."
+    publishedDateTime: 2021-08-30T03:38:00Z
+    webUrl: "https://www.forbes.com/sites/anniebrown/2021/08/29/can-artificial-intelligence-give-thoughtful-gifts-an-exploration-of-the-possibilities-and-limits-of-ais-humanity/"
+    ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/08/29/can-artificial-intelligence-give-thoughtful-gifts-an-exploration-of-the-possibilities-and-limits-of-ais-humanity/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/08/29/can-artificial-intelligence-give-thoughtful-gifts-an-exploration-of-the-possibilities-and-limits-of-ais-humanity/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 82
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612c521fc881ada8921adcb0%2F0x0.jpg"
+        width: 825
+        height: 652
+        isCached: true
+  - title: "Closing The Gap Between The Promise Of AI And Its Implementation"
+    excerpt: "Despite a growing and compelling body of evidence that AI can significantly boost business performance there’s still widespread reluctance to adopt it."
+    publishedDateTime: 2021-08-30T10:40:00Z
+    webUrl: "https://www.ibtimes.com/closing-gap-between-promise-ai-its-implementation-3283952"
+    ampWebUrl: "https://www.ibtimes.com/closing-gap-between-promise-ai-its-implementation-3283952?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/closing-gap-between-promise-ai-its-implementation-3283952?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 59
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/06/10/artificial-intelligence.jpg"
+        width: 1200
+        height: 803
+        isCached: true
+
+secured: "acJJ/m5wiXkQ0Nbo/a98g0N7uNg8vwNZcv8jFLhq9ZZJFtkBGUeuCzkVwNdIy9XulRsDjA9V7wZ+EFBi4Gkm/+D1Q4tvGs4v2fAG2v1IP9VtweTjGuqAXIsA0HFiB/2cnC0ey6Z3xZGbLi0Y/L7GCCz1gZ5tQdwOk8KBoPZd4cn3umrYmwGymn58PVoc+1y6U0lZYCON5KkzUTRxQEZlbplMMDbnTS2p7HfazDi8Vrq1mMrS+AzMnfd/VE/QiNy6KwO1eZTbOY8OAsnt2CC/75HwqNJRzCRTjwAMxz51Cs4EUh3fWlut/41xvpp+ss3JyF8Pz58k+7q4+2Zbx/RFRvtPVyba5nsEz0IaF64BvNI=;hVCfoiUgnueGG06s2G11VA=="
+---
+

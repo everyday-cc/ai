@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "VelocityEHS Machine Learning Expert Authors Award-Winning Research Highlighting Benefits of ..."
-    excerpt: "VelocityEHS, the global leader in cloud-based environmental, health, safety (EHS) and environmental, social, and corporate governance (ESG) software, announced today that Dr. Julia Penfield, Ph.D., principal machine learning scientist at VelocityEHS,"
-    publishedDateTime: 2021-08-26T14:13:00Z
-    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-entertainment-canada-business-science-92b7ddc602b59b2a208882242d9afa72"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 27
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "VelocityEHS Machine Learning Expert Authors Award-Winning Research Highlighting Benefits of Predictive Monitoring Programs"
     excerpt: "VelocityEHS, the global leader in cloud-based environmental, health, safety (EHS) and environmental, social, and corporate governance (ESG) software, announced today that Dr. Julia Penfield, Ph.D., principal machine learning scientist at VelocityEHS,"
     publishedDateTime: 2021-08-26T16:26:00Z

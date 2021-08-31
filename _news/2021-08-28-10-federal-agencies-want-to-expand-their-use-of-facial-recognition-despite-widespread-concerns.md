@@ -121,22 +121,6 @@ related:
         width: 731
         height: 411
         isCached: true
-  - title: "Scientists are using facial recognition to rapidly identify disease resistance in grapes"
-    excerpt: "Emerging AI technology is helping researchers determine how different cultivars respond to diseases, ultimately helping to breed pathogen-resistant varieties."
-    publishedDateTime: 2021-08-26T14:36:00Z
-    webUrl: "https://thecounter.org/scientists-facial-recognition-disease-resistance-grapes-ai/"
-    ampWebUrl: "https://thecounter.org/scientists-facial-recognition-disease-resistance-grapes-ai/amp/"
-    cdnAmpWebUrl: "https://thecounter-org.cdn.ampproject.org/c/s/thecounter.org/scientists-facial-recognition-disease-resistance-grapes-ai/amp/"
-    type: article
-    provider:
-      name: thecounter
-      domain: thecounter.org
-    quality: 50
-    images:
-      - url: "https://thecounter.org/wp-content/uploads/2021/08/robots-grapes-fungal-disease-august-2021-copy.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Amazon Suspends Police Use of Its Facial Recognition"
     excerpt: "Amazon did not respond to questions about it. Civil rights groups and Amazon's own employees have pushed the company to stop selling its technology, called Rekognition, to government agencies, saying it could be used to invade privacy and target people of ..."
     publishedDateTime: 2021-08-28T00:01:00Z

@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Medius squashes invoice lead times with efficient AI tech"
-excerpt: "Experts talk about Medius' state-of-the-art data capture software that uses clever AI to extract invoice data automatically. STOCKHOLM,"
-publishedDateTime: 2021-08-17T07:42:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/medius-squashes-invoice-lead-times-with-efficient-ai-tech-1030736976"
-webUrl: "https://markets.businessinsider.com/news/stocks/medius-squashes-invoice-lead-times-with-efficient-ai-tech-1030736976"
+excerpt: "Utilizing Microsoft Azure Machine Learning and Artificial Intelligence (AI), with a user-friendly interface, Medius has developed an e-invoicing solution that captures and converts data ..."
+publishedDateTime: 2021-08-17T07:32:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/08/n22528768/medius-squashes-invoice-lead-times-with-efficient-ai-tech"
+webUrl: "https://www.benzinga.com/pressreleases/21/08/n22528768/medius-squashes-invoice-lead-times-with-efficient-ai-tech"
+ampWebUrl: "https://www.benzinga.com/amp/content/22528768"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22528768"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "7Sf/defvrRH//x4NroFvBQWpcLqbLwdfFbkHTkyGLLvCN4Fw1NI6Sa+Mpx9BkVN7kzBD2YUn+JSBZz/busm/Mzh2qRlVLWEiIDLjQVQGZJ03HEICv3zGsOAmR0sQmmUtJqdJrsFzYgd1goVZ3cvinzcTg8fbb1y2O+bnsbmQZyU9tW+ow/8Y1RN1rut4MenoxgMhdmA7MMs2J/iVCtG6ULDGnk2nyS7Pi1IsyRUVmZav3EPpQQilI/iov+CUOoD4LsQpUrGg9YK1wKSI3R0CLbdjKdWZZmXtvv0eO409dmqngngvmbBTrV7e6Dj2p1lRYPCObbdzXWpAQC12XiSwg3ZoNtjb29QYdP47XC7Q+6c=;aLjxynTnhbgkBdDoApuB+g=="
+images:
+  - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png"
+    width: 1200
+    height: 600
+    isCached: true
+
+secured: "tnpGT6X3UYKW+nYEkD0N0FhGbLU2qFMs+5e6GzKppyRQuAinD15RqM9YyYsSnmBHVoCyVbC66cIioMaCO7F+UZG+zMPA5pO32w7KVFsKiJsAOeffokfS6rN295UV/pxBnFBcR0awmTwg0N9AQ+oF0kZ/0VAHxgs+z20FMbGszU7jVjSyGBSA164D6I93HZlf4p6SdsVQbXgUxmbe4IVLKcMoma8phs5FD5lpa2+5sdohFgVpuBw7co5D5aNbfp9bVazuGyEUXmwXLiZMsR7jZS9ATGgkpyt0CwV0AfcB3cSvM477Z/ptkcPjT1qXOlk4wKXUjHC9yW626PU1tgFzUP7fZpm/tsUXBcwwg910mOI=;WJASWXyB++hz8DTsciILgw=="
 ---
 

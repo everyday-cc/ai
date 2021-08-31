@@ -25,6 +25,22 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "Val Kilmer voice recreated with AI ahead of Top Gun: Maverick after Tom Cruise insisted on Iceman’s return"
+    excerpt: "A few weeks after Top Gun star Val Kilmer teased an AI recreation of his voice by British firm Sonantic, fans of his character from the Top Gun franchise can now potentially look forward to hearing more of him in the upcoming sequel, thanks to Tom Cruise."
+    publishedDateTime: 2021-08-31T07:49:00Z
+    webUrl: "https://www.independent.co.uk/arts-entertainment/films/news/val-kiler-top-gun-tom-cruise-iceman-b1911555.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 19
+    images:
+      - url: "https://static.independent.co.uk/2021/08/31/08/cruise%20kilmer.jpeg?width=1200&auto=webp&quality=75"
+        width: 1200
+        height: 900
+        isCached: true
+
 secured: "M5/8etvdhAY/I81RfduigG4pYvX7WtSHI12PqXjq7kMT7vgVjEZFsJxzapqXBOQsjQ4fSPUugx2NtLArjFt11CoJvAx7swMmKTv2vQFjC18OM1SwE6rp7Elrtl/iEARwS4Lxd4lRw2H4OhR6ANlqiSBYglTwOujHvOMhe789WgsqB5Bqo1CNXASyd5ByDmQH4777wO7+kPHU3DJJzzHZcHfnnaFlnpSsDMaYh87j4j0gIkp3H+HkWef1D/4oJFeSjyocVtxdZJMUWMCIQZm8xjHss016XaWgA23SZFXdqS9NuBERb7/hZOoDS1cMqscS7YywOoWWVRnXe9/EUkfH4/A1d23Qpfx6sUhV/+wkWIoimb6ZDQCMYn10tEYFcyaqv8rbD653wKcVLPpdmtTWht/bQdnFFvqkBkPsAMQ17FN6DPqCr4DUSEdqhfwcwO4gCd/b/Fj65DOryo0k89RK2sFrP6yAO6r/RBS7+Gmynzn41tm1BsIF5XIndFd6l8cnV007Ocu0/1vWBMS/lLjLXA==;TFRL48iBl1+xscngdZrsyw=="
 ---
 

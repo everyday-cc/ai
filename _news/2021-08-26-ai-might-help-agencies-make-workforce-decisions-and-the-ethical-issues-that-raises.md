@@ -82,6 +82,20 @@ related:
       name: TheLadders.com
       domain: theladders.com
     quality: 37
+  - title: "How To Create An AI Startup"
+    excerpt: "Artificial intelligence is the future of the world, according to many experts. With the rise of AI-enabled chatbots, voice assistants, and driverless cars, it’s hard to argue. Here are the essential tips for founding an AI startup."
+    publishedDateTime: 2021-08-31T07:24:00Z
+    webUrl: "https://www.analyticsinsight.net/how-to-create-an-ai-startup/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 37
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/AI-10.jpg"
+        width: 900
+        height: 500
+        isCached: true
   - title: "Zebra to acquire artificial intelligence software company"
     excerpt: "Zebra Technologies Monday said it intends to acquire Antuit.ai, a provider of artificial intelligence-powered software solutions specific to forecasting and merchandising for the retail and consumer packaged goods industries."
     publishedDateTime: 2021-08-30T18:24:00Z

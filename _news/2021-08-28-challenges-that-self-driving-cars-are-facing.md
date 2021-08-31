@@ -101,20 +101,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Goodyear collaborates with Plus on self-driving trucking tech"
-    excerpt: "Goodyear will supply a suite of services including connected tires to improve the safety for semi-trucks powered by Plus’ Level 4 self-driving technology. This will also help to reduce the carbon impact."
-    publishedDateTime: 2021-08-26T14:20:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17111/goodyear-collaborates-with-plus-on-self-driving-trucking-tech"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 24
-    images:
-      - url: "https://electronics360.globalspec.com/images/assets/111/17111/Plus_Become_Publicly_Listed-16-3e88642123.jpg"
-        width: 752
-        height: 470
-        isCached: true
   - title: "Aurora debuts next-generation self-driving hardware"
     excerpt: "Self-driving truck startup Aurora Friday announced the development of its next generation of hardware. The company is targeting a commercial debut of the hardware in pilots this year and with the launch of the company’s trucking and ride-hailing businesses to follow in 2023 and 2024,"
     publishedDateTime: 2021-08-27T17:20:00Z
