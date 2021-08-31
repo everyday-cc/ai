@@ -2,6 +2,144 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-31-kai-fu-lee-and-chen-qiufan-will-share-their-vision-of-our-ai-powered-future-at-disrupt.md",
+      "title": "Kai-Fu Lee and Chen Qiufan will share their vision of our AI-powered future at Disrupt",
+      "excerpt": "We’ve had visionary investors onstage before, and we’ve had science fiction authors onstage — but never at the same time, let alone a pair who collaborated on a unique book of stories and essays that make an optimistic prediction of our AI-infused future.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/08/31/kai-fu-lee-and-chen-qiufan-will-share-their-vision-of-our-ai-powered-future-at-disrupt/",
+      "originalUrl": "https://techcrunch.com/2021/08/31/kai-fu-lee-and-chen-qiufan-will-share-their-vision-of-our-ai-powered-future-at-disrupt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/Disrupt-2021-lee-qiufan.jpg?w=1024",
+          "width": 1024,
+          "height": 536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/08/31/kai-fu-lee-and-chen-qiufan-will-share-their-vision-of-our-ai-powered-future-at-disrupt/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/31/kai-fu-lee-and-chen-qiufan-will-share-their-vision-of-our-ai-powered-future-at-disrupt/amp/",
+      "publishedDateTime": "2021-08-31T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-31-facial-recognition-market-growth-registering-a-cagr-of-135-by-2025.md",
+      "title": "Facial Recognition Market Growth Registering a CAGR of 13.5 % by 2025",
+      "excerpt": "Global Facial Recognition Market Drivers Restraints Opportunities Trends and Forecast up to 2025 Facial Recognition Market is approximately USD 5 billion market that is expected to double by 2025 Facial recognition market is experiencing a sudden boom due to proliferation",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2375485/facial-recognition-market-growth-registering-a-cagr-of-13-5",
+      "originalUrl": "https://www.openpr.com/news/2375485/facial-recognition-market-growth-registering-a-cagr-of-13-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/8/U831188396_g.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2375485/facial-recognition-market-growth-registering-a-cagr-of-13-5",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2375485/facial-recognition-market-growth-registering-a-cagr-of-13-5",
+      "publishedDateTime": "2021-08-31T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-31-adyen-releases-score-machine-learning-solution.md",
+      "title": "Adyen Releases Score Machine Learning Solution",
+      "excerpt": "Dutch payment processing firm Adyen announced the release of Score, a machine learning-based solution that picks up on irregular activity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/ecommerce/2021/adyen-releases-score-machine-learning-solution/",
+      "originalUrl": "https://www.pymnts.com/news/ecommerce/2021/adyen-releases-score-machine-learning-solution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/08/Adyen-machine-learning-security-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/ecommerce/2021/adyen-releases-score-machine-learning-solution/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/ecommerce/2021/adyen-releases-score-machine-learning-solution/amp/",
+      "publishedDateTime": "2021-08-31T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-08-31-chinese-professor-set-to-join-billion-ranks-as-his-ai-company-files-to-go-public.md",
       "title": "Chinese Professor Set To Join Billion Ranks As His AI Company Files To Go Public",
       "excerpt": "A Chinese artificial intelligence professor is poised to join the world’s billionaire ranks as SenseTime, the AI company he cofounded seven years ago, has filed for an initial public offering in Hong Kong.",
@@ -519,7 +657,7 @@
       "originalUrl": "https://venturebeat.com/2021/08/31/observe-ai-acquires-scopeai-to-advance-omnichannel-ambitions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -902,6 +1040,48 @@
       ]
     },
     {
+      "path": "_news/2021-08-31-saas-startup-factorsai-raises-2m-in-seed-funding.md",
+      "title": "SaaS Startup Factors.AI Raises $2M in Seed Funding",
+      "excerpt": "The software-as-a-service company Factors.AI will use the funding to hire and establish itself. The company uses data analytics to maximize marketing campaigns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/b2b-payments/2021/saas-startup-factors-ai-raises-2m-in-seed-funding/",
+      "originalUrl": "https://www.pymnts.com/news/b2b-payments/2021/saas-startup-factors-ai-raises-2m-in-seed-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/08/data-analytics-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/b2b-payments/2021/saas-startup-factors-ai-raises-2m-in-seed-funding/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/saas-startup-factors-ai-raises-2m-in-seed-funding/amp/",
+      "publishedDateTime": "2021-08-31T00:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-31-csu-san-marcos-gets-grant-to-create-speech-therapy-video-games.md",
       "title": "CSU San Marcos Gets Grant To Create Speech Therapy Video Games",
       "excerpt": "Cal State San Marcos will collaborate with Verboso, a Chicago-based company that creates therapy video games with automated feedback.",
@@ -954,7 +1134,7 @@
       "originalUrl": "https://www.zdnet.com/article/verizon-and-microsoft-team-up-to-offer-edge-cloud-computing-for-businesses/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 106,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1028,194 +1208,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-31-global-spending-on-ai-systems-to-reach-more-than-204-billion-in-2025-report.md",
-      "title": "Global spending on AI systems to reach more than $204 billion in 2025: Report",
-      "excerpt": "Investment in AI solutions will accelerate as businesses seek insights, efficiency, and innovation, according to a New IDC Spending Guide.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/global-spending-ai-systems-reach-204-billion-2025-report/",
-      "originalUrl": "https://www.dqindia.com/global-spending-ai-systems-reach-204-billion-2025-report/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2020/11/IT-Spending_opt.jpg",
-          "width": 850,
-          "height": 531,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/global-spending-ai-systems-reach-204-billion-2025-report/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/global-spending-ai-systems-reach-204-billion-2025-report/amp/",
-      "publishedDateTime": "2021-08-30T20:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-31-self-driving-truck-technology-market-size-2021-and-forecast-to-2028-keyplayers-daimler-volvo-waymo-tesla.md",
-      "title": "Self-Driving Truck Technology Market Size 2021 And Forecast to 2028 | Keyplayers – Daimler, Volvo, Waymo, Tesla",
-      "excerpt": "The global Self-Driving Truck Technology market report provides detailed details on market size, share, industry overview, revenues, recent developments, acquisitions and mergers, and expansion strategies.",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/self-driving-truck-technology-market-size-2021-and-forecast-to-2028-keyplayers-daimler-volvo-waymo-tesla/",
-      "originalUrl": "https://manometcurrent.com/self-driving-truck-technology-market-size-2021-and-forecast-to-2028-keyplayers-daimler-volvo-waymo-tesla/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/08/MRI-17-1-300x212.jpg",
-          "width": 300,
-          "height": 212,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/self-driving-truck-technology-market-size-2021-and-forecast-to-2028-keyplayers-daimler-volvo-waymo-tesla/",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/self-driving-truck-technology-market-size-2021-and-forecast-to-2028-keyplayers-daimler-volvo-waymo-tesla/",
-      "publishedDateTime": "2021-08-30T19:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-31-artificial-intelligences-biggest-stumbling-block-trust.md",
-      "title": "Artificial Intelligence’s Biggest Stumbling Block: Trust",
-      "excerpt": "All others must bring data.” But how far can we trust the data? This is becoming an important question, as the artificial intelligence systems now being built and deployed across the business landscape are only as good as the data being fed into them,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2021/08/30/artificial-intelligences-biggest-stumbling-block-trust/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2021/08/30/artificial-intelligences-biggest-stumbling-block-trust/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d753f54c79efac57de383c%2F0x0.jpg",
-          "width": 1087,
-          "height": 724,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2021/08/30/artificial-intelligences-biggest-stumbling-block-trust/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2021/08/30/artificial-intelligences-biggest-stumbling-block-trust/amp/",
-      "publishedDateTime": "2021-08-30T18:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-31-strider-launches-risk-intelligence-tool-to-protect-intellectual-property.md",
-      "title": "Strider launches risk intelligence tool to protect intellectual property",
-      "excerpt": "Strider Technologies launches risk intelligence tool to enable organizations to better identify threats to intellectual property.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/30/strider-launches-risk-intelligence-tool-to-protect-intellectual-property/",
-      "originalUrl": "https://venturebeat.com/2021/08/30/strider-launches-risk-intelligence-tool-to-protect-intellectual-property/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/Strider-Shield-1200-x-600.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/30/strider-launches-risk-intelligence-tool-to-protect-intellectual-property/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/30/strider-launches-risk-intelligence-tool-to-protect-intellectual-property/amp/",
-      "publishedDateTime": "2021-08-30T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

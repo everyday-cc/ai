@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/saas-startup-factors-a
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/saas-startup-factors-ai-raises-2m-in-seed-funding/amp/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: pymnts.com
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "SoftBank-backed AI startup Peak raises $75m in second funding round in six months"
+    excerpt: "Manchester-based Artificial Intelligence (AI) provider Peak will expand into new global markets after raising $75m in its latest funding round, led by SoftBank's $100bn Vision Fund Two."
+    publishedDateTime: 2021-08-31T16:15:00Z
+    webUrl: "https://www.cityam.com/softbank-backed-ai-startup-peak-raises-75m-in-second-funding-round-in-six-months/"
+    ampWebUrl: "https://www.cityam.com/softbank-backed-ai-startup-peak-raises-75m-in-second-funding-round-in-six-months/amp/"
+    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/softbank-backed-ai-startup-peak-raises-75m-in-second-funding-round-in-six-months/amp/"
+    type: article
+    provider:
+      name: City A.M.
+      domain: cityam.com
+    quality: 52
+    images:
+      - url: "https://www.cityam.com/assets/uploads/main-image/full_width_article_body_image/2013/09/manufacturers-responded-57ed4cb5d756f-57ed4cb5efe68.jpg"
+        width: 839
+        height: 523
+        isCached: true
   - title: "Workera.ai Raises $16M in Series A Funding"
     excerpt: "Workera.ai, a Palo Alto CA-based upskilling platform provider, raised $16M in Series A funding. The round was led by New Enterprise Associates, Owl Ventures and Al Fund with participation from Richard Socher,"
     publishedDateTime: 2021-08-27T09:51:00Z

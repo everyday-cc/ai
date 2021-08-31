@@ -36,6 +36,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 66
+  - title: "Verizon turns up private 5G edge compute with Microsoft Azure"
+    excerpt: "Verizon's private 5G edge product with Microsoft Azure is now available for enterprise. It complements Verizon’s 5G private wireless offering that launched in June."
+    publishedDateTime: 2021-08-31T16:09:00Z
+    webUrl: "https://www.fiercewireless.com/private-wireless/verizon-turns-up-prem-private-5g-edge-compute-microsoft-azure"
+    type: article
+    provider:
+      name: Fierce Wireless
+      domain: fiercewireless.com
+    quality: 54
+    images:
+      - url: "https://qtxasset.com/fiercewireless/1630426422/GettyImages-875013806.jpg?Rfp1YVeSs3.1Lp7Ke5VFBuRAz0A.OlwN"
+        width: 6567
+        height: 4378
+        isCached: true
   - title: "AusNet signs 5-year deal with Microsoft as it ramps up cloud and AI options"
     excerpt: "Microsoft has announced a five-year strategic partnership with diversified Australian energy infrastructure business, AusNet Services, which has selected Azure as its preferred cloud platform for a major digital modernisation initiative."
     publishedDateTime: 2021-08-30T01:30:00Z

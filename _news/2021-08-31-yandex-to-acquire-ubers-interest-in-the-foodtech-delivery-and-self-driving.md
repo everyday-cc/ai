@@ -48,6 +48,22 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "US tech giant Uber bought out in Russia by homegrown Yandex, handing over keys to self-driving cars & food delivery business"
+    excerpt: "Russia's largest technology company has announced it will buy a series of joint ventures from US ride-sharing and delivery services conglomerate Uber, handing over a billion dollars as part of the deal and sending shares soaring."
+    publishedDateTime: 2021-08-31T17:20:00Z
+    webUrl: "https://www.rt.com/russia/533563-yandex-buys-ventures-uber/"
+    ampWebUrl: "https://www.rt.com/russia/533563-yandex-buys-ventures-uber/amp/"
+    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/russia/533563-yandex-buys-ventures-uber/amp/"
+    type: article
+    provider:
+      name: RT
+      domain: rt.com
+    quality: 17
+    images:
+      - url: "https://cdni.rt.com/files/2021.08/xxl/612e519085f54044fb0668a0.jpg"
+        width: 1240
+        height: 697
+        isCached: true
 
 secured: "bZ9XyefapJpanWakOAUbSaP45VgpXendQOelm4EkmBqXAgbJ77LWVQ3Ev2X4fuF5guKLf3L4IR+ATgyk1xJUb8lwjVyz1m1EOCalMW0dKGk39BZoqzfcuz8rT8ZcZCwsJnPue7UOFlUv7i6q0yHyrYSdujnpxwf2USjT0x6MIGdsJlyAjmaozIShWb4JMXL5QTFpIHs+8DDotts139T17iiG26ModRlscIw9npKlHM38ZjnJCyBzqwy7Qyjb8bHykDvEPC75B0CLH1ScW7nFo0J8IOdw6RpusS3ZtJquJJCkhRvIdDLzFJgZqTZdXunRGj+t/LN7/LL6HJziCi3ro1Tv0x2fr7Cd5w6xFWsuM5A=;JVy6hFq/AaBbPEBeCNZpvg=="
 ---

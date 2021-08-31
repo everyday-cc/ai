@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/31/observe-ai-acquires-scopeai-to-ad
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/31/observe-ai-acquires-scopeai-to-advance-omnichannel-ambitions/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Observe.AI Expands Into Omnichannel Customer Experience Market With ScopeAI Acquisition"
+    excerpt: "Observe.AI, the leader in Contact Center AI, today announced its entry into omnichannel conversation intelligence following its acquisition of ScopeAI"
+    publishedDateTime: 2021-08-31T16:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210831005272/en/Observe.AI-Expands-Into-Omnichannel-Customer-Experience-Market-With-ScopeAI-Acquisition"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 9
 
 secured: "lKUhgrUnvDniDDN1EnhrvMgHUi+cF1CvlBUapwHxKS8bzvoNWeqBtr09CEMYzSy50yMwLlKxoFx9P0l792NNJcGetTfzWlMS7BLAAhx0jcJneblBRua+CZToeHtMjB+4nZkKeIvFTuEh+58Fij4JKcPsk2vIcOkGag1QowjuYIAcJS+OH7dXIdMYuDgysNu03GwzQNauy5mljtDT0EaRyOVeQVnmwe09KOOgR9UkA3nkZsOlNMqwmrbvQ2shG4YVCNXaTnSBqmT8yizi2ZEeD4DTbmpULdjAWwppd40/xhaUnU093A9MoEeVYIY7m6vRTkGkd6cK1SYzDaGphHiItcUXxOJpcV40rLTtva0RF8dKi5WyBPWkhQKYPAHhnfUZ99IgZLfQAt2ReL/iaxH5NqzImuVNQFqyMMat6yN//yWbCwuFRiTyfdSFpWfxi2FeM5VS+Dx4kjXBxe0/Mf13wt0nAYY1/uOxtRWL8HaR7By8VifdSY5O/V9xkzR3NgF/OnAhCr1Nlrs949fLkZHgEg==;hTZq0EU+omHs+apTA4zYWg=="
 ---

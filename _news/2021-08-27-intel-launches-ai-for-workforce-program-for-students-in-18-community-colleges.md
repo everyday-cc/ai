@@ -7,7 +7,7 @@ originalUrl: "https://www.csrwire.com/press_releases/727521-intel-launches-ai-wo
 webUrl: "https://www.yahoo.com/now/intel-launches-ai-workforce-program-140107340.html"
 type: article
 quality: 136
-heat: 146
+heat: 136
 published: true
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 650
     height: 366
     isCached: true
-
-related:
-  - title: "How Intel Is Empowering Students With AI Skills For Employability"
-    excerpt: "Social Skills: AI ethics and bias reduction critical thinking problem solving, system mapping and solution building, social and emotional skills. Career Growth Skills: career path finding skills, entrepreneurial mindset, design, and systems thinking skills."
-    publishedDateTime: 2021-08-26T23:38:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_intel/how-intel-is-empowering-students-with-ai-skills-for-employability/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 19
 
 secured: "BsjFh0DtbB569Bdag1Ddi/q5AA7d7v2mLAtLk71U/JiHdcMCaHiG8uhkBoRuV0+pKhyAsXE/69F+KbgM185/SkJ+RM9jJ8yHCwhsDj+i4eqfpccpux5jmSlOGegc/uORYLJldL75tkxbxu3cOEyeTeYxE6AIIcnlbFZBJjGaXnLB7qhoFJHWRWM0B6VuWlYxt8ivdA5DtLaSefKmLue4YrD3rlFcAZrpo+HMXr3bcfXAFGT+LqhmrkCn7+5pPaNM1fNoLCcqVMmGO1nzZ2o/O+/6QpW0zICFPkRusnNqQkKSFTao/+4noY6KQOdiD1yGYS6zA3+KH1FnIJ8bzwbzb8GPsMD9FUGTfN3frx147wtim0CLv7Wop9ckeLjRAiJxshaX7dF22L6GQ0kPpRqCYdfI4iHIOfVe6oNTSw7OpBYsSSIEo8lB2l4l5OrHg67keGo9znX4EsO40VgfLEiuGyjHmoPT9m5qsabTFvazmYrePnq84QeDCZyDYrPvhGUCmjsSDe/O9Gu9As1a64PirowbzBIo1o0Pb2y//007Nas=;8y2k1ntOTt7g6uRrK8mOUA=="
 ---

@@ -66,15 +66,15 @@ related:
       name: Mining Weekly
       domain: miningweekly.com
     quality: 19
-  - title: "Award-winning research shows the potential of deep learning in managing power networks"
-    excerpt: "Based on real data and case studies from distribution networks in Scotland, researchers have shown that deep learning neural networks can provide accurate estimates of voltage distributions in all areas of the network, even if high-granularity smart meter ..."
-    publishedDateTime: 2021-08-27T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/926712"
+  - title: "How Machine Learning is changing credit decisioning forever"
+    excerpt: "The rise of Machine Learning has long-been discussed, promising a new way of delivering successful outcomes and solutions across a myriad of services and applications. The future is already here but we are now reaching a critical juncture where businesses need to begin prioritising their Machine Learning capabilities – or risk being left behind as competitors embrace it and reap the benefits it can bring."
+    publishedDateTime: 2021-08-31T17:09:00Z
+    webUrl: "https://www.finextra.com/blogposting/20823/how-machine-learning-is-changing-credit-decisioning-forever"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 11
+      name: Finextra
+      domain: finextra.com
+    quality: 19
   - title: "Hybrid Deep-Learning and Machine-Learning Models for Predicting COVID-19."
     excerpt: "Currently, PCR is the most prevalent diagnosis tool for COVID-19. However, chest X-ray images may play an essential role in detecting this disease, as they are successful for many other viral pneumonia diseases."
     publishedDateTime: 2021-08-29T01:10:00Z

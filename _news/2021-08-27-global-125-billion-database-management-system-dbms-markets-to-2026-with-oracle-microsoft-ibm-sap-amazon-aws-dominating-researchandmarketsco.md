@@ -58,6 +58,17 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Recent Survey on Automatic Speech Recognition Market 2021-2030 Key Players : Nuance, Microsoft, Alphabet, IBM, Sensory, Cantab Research"
+    excerpt: "In recent years and especially due to the Covid-19 impact, the Global Automatic Speech Recognition Market has been through many ups and downs which have greatly impacted the business and the market players be it large or small."
+    publishedDateTime: 2021-08-31T09:46:00Z
+    webUrl: "https://manometcurrent.com/recent-survey-on-automatic-speech-recognition-market-2021-2030-key-players-nuance-microsoft-alphabet-ibm-sensory-cantab-research/"
+    ampWebUrl: "https://manometcurrent.com/recent-survey-on-automatic-speech-recognition-market-2021-2030-key-players-nuance-microsoft-alphabet-ibm-sensory-cantab-research/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/recent-survey-on-automatic-speech-recognition-market-2021-2030-key-players-nuance-microsoft-alphabet-ibm-sensory-cantab-research/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 24
 
 secured: "nMw1lXT+r0jUl0wFsdBnTXl+p49kYsrRpgwvI8pP/3Zhssk6CV6yuGJmOdYvw3zUcmkNBVOpGvnhl+C3U5la2E6jvz/zFUnDyg4SPahxdbUBGMOGb5WDj/bRiBOJq8QJzB/oStJZg6XsGv0XxVmHS8qzi1yCgmCgn96+7PPMXAleEMQ1UxQDYLMedwWiniIRvhhv7bAhZgSyGL5sEoNZ9eLmuTHdZxJ6J0znw786csnO43dfLOP5Dcq2gfbT0yhICrBvIBS8EszsH0dO5IZ9mK73e8jEmPMkP+/+gFG6+cIiv79SvmsSRB4mZwD0WJpB09oMDyb1sGcW/jNaUzUIbfosaRU5puAMevYl2r6meuQ=;gtQOH0lL+TghBODIzJxWOg=="
 ---

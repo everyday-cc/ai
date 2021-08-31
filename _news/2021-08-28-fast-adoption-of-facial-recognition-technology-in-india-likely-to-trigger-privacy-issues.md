@@ -71,20 +71,6 @@ related:
         width: 623
         height: 432
         isCached: true
-  - title: "Augnito looks to tap growing India market for speech recognition in health"
-    excerpt: "The use of voice recognition systems based on artificial intelligence (AI) in health care is emerging in India, which offers a potentially enormous market, according to Scribetech Healthcare (India) Pvt."
-    publishedDateTime: 2021-08-27T00:00:00Z
-    webUrl: "https://www.bioworld.com/articles/510874-augnito-looks-to-tap-growing-india-market-for-speech-recognition-in-health"
-    type: article
-    provider:
-      name: BioWorld
-      domain: bioworld.com
-    quality: 37
-    images:
-      - url: "https://www.bioworld.com/ext/resources/Stock-images/Misc/voice-soundwave-analysis.png?height=635&t=1605222774&width=1200"
-        width: 847
-        height: 635
-        isCached: true
 
 secured: "kS/3q4xO61Dp8y+tcffcvotlnillnvg7qtMft9lOsIE99Dd81KN1OQqVF7/5YMVPpZ+eLpJzo1XbhbB9vuEe3Qgpy9XpVvp2eZACkhyI/PjyyMTwR8F5fsRI8GTEtFUYHSuUJwkKFWABVL729WJQcKt+9P1js0tj9+wXvRp5stsCX+dqzOTbUItDMzy03cjzxVSKIHTDKqGPY2Oi+haRDu6hZ4ZNMhXs0+nPb+8PeY6OMsIgZ7HdJnqOeJ42b20+nCZYb7WJYvW0/Ffkp8Si/UmTzBf/9w1SEBnbRY6MmWplnxV/V+xWey7b5J0Mt/pcazHd9dtUncOr8yCDCb/Bh9qIlljHXzWcaDinsaL7gX4=;yVm8TB+PddXNBX0iiL0TjQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/verizon-and-microsoft-team-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/verizon-and-microsoft-team-up-to-offer-edge-cloud-computing-for-businesses/"
 type: article
 quality: 66
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -25,6 +25,20 @@ topics:
   - AI
 
 related:
+  - title: "Verizon turns up private 5G edge compute with Microsoft Azure"
+    excerpt: "Verizon's private 5G edge product with Microsoft Azure is now available for enterprise. It complements Verizon’s 5G private wireless offering that launched in June."
+    publishedDateTime: 2021-08-31T16:09:00Z
+    webUrl: "https://www.fiercewireless.com/private-wireless/verizon-turns-up-prem-private-5g-edge-compute-microsoft-azure"
+    type: article
+    provider:
+      name: Fierce Wireless
+      domain: fiercewireless.com
+    quality: 54
+    images:
+      - url: "https://qtxasset.com/fiercewireless/1630426422/GettyImages-875013806.jpg?Rfp1YVeSs3.1Lp7Ke5VFBuRAz0A.OlwN"
+        width: 6567
+        height: 4378
+        isCached: true
   - title: "Otter.ai Brings Transcription Assistant To Microsoft Teams, Google Meet and Webex"
     excerpt: "After partnering with Zoom, Otter.ai, brings Otter Assistant to Microsoft Teams, Google Meet and Webex for automatic transcriptions."
     publishedDateTime: 2021-08-30T20:42:00Z

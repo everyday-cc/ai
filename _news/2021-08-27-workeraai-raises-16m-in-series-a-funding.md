@@ -40,6 +40,22 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "SoftBank-backed AI startup Peak raises $75m in second funding round in six months"
+    excerpt: "Manchester-based Artificial Intelligence (AI) provider Peak will expand into new global markets after raising $75m in its latest funding round, led by SoftBank's $100bn Vision Fund Two."
+    publishedDateTime: 2021-08-31T16:15:00Z
+    webUrl: "https://www.cityam.com/softbank-backed-ai-startup-peak-raises-75m-in-second-funding-round-in-six-months/"
+    ampWebUrl: "https://www.cityam.com/softbank-backed-ai-startup-peak-raises-75m-in-second-funding-round-in-six-months/amp/"
+    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/softbank-backed-ai-startup-peak-raises-75m-in-second-funding-round-in-six-months/amp/"
+    type: article
+    provider:
+      name: City A.M.
+      domain: cityam.com
+    quality: 52
+    images:
+      - url: "https://www.cityam.com/assets/uploads/main-image/full_width_article_body_image/2013/09/manufacturers-responded-57ed4cb5d756f-57ed4cb5efe68.jpg"
+        width: 839
+        height: 523
+        isCached: true
 
 secured: "TSWWmjhAxQAUb1spmcr/XG5ynvnNgo6suxBjrDeYiANV7X1uRQ905IJhE9LDJpFtCi7EDS85OnuoL+7XiQIUpiC/5OmmJfkEXYEgwNkvgEs7H6Fd2WGd6IO6iWcJoT8mRRwhOBTdEZA1gBxn37BN2gBt57fsNECbJKNwAcOiMk2B6U9+w4TyVM0u/X19z0FNq83+TxPaHv/mpRNKmnKDlJ0T53DEM7QS7f0dlVq7IkwMMTQlW+49BOelyX8vk+EqcP5xdB5vauwzpEFBHSPGA+OJLnt9SMdYj6ExqxSuLyZ2rSABT3EM7ltSfoTLQ9c+894RALjAP7oCCqlUfxTrvTYKqUkCS4HS7N8Xa+Q2D3Q=;vJdEJtWTMkdWuWt9BRnrkw=="
 ---

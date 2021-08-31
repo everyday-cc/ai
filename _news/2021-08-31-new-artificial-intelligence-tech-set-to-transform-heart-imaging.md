@@ -7,7 +7,7 @@ originalUrl: "https://www.miragenews.com/new-artificial-intelligence-tech-set-to
 webUrl: "https://www.miragenews.com/new-artificial-intelligence-tech-set-to-623195/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 1348
     height: 901
     isCached: true
+
+related:
+  - title: "New artificial intelligence tech set to transform heart imaging"
+    excerpt: "A new artificial-intelligence technology for heart imaging can potentially improve care for patients, allowing doctors to examine their hearts for scar tissue while eliminating the need for contrast injections required for traditional cardiovascular magnetic resonance imaging (CMR)."
+    publishedDateTime: 2021-08-31T17:02:00Z
+    webUrl: "https://medicalxpress.com/news/2021-08-artificial-intelligence-tech-heart-imaging.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-08-artificial-intelligence-tech-heart-imaging.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-08-artificial-intelligence-tech-heart-imaging.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/heart-1.jpg"
+        width: 1920
+        height: 1920
+        isCached: true
 
 secured: "ON/xyDNQX6wLFgZwD1okeGjCtNzfuZbiGDeIgJIG+Qa7I+QTrtOzoeMmXdfSTzx56IHcf1CYRHlhpTqIelblFkZUFKjnEPgUgx07uye8hBYSh6q+92WxKZYh9spqaIrkf5oKrDoAb1aNKMVuiUighwjT1E4B9pS9EhmhSYcJ++3+f/2mhIhDlP++NsCr0Uke9/TsVG9r2mtB0Sur3Ba/RnyT4TCrIo5MZVUhppp9V/08KO0ykxi4nYG7b+70oJ/qad9veJHqlOn6jNvYKQWk43WFFmntdZFXlS66dwp9aAVD7UweF7OBYgRblReB8SQbJ5cSB3FMgReJs1duHlggXilol2ni7ZLQ7hTcVJNYo90=;/NwstA30B/K0cdeJkUYH/g=="
 ---

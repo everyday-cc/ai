@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Lex Machina's Market-Leading State Court Analytics Driven By The Collection Of State Documents"
-excerpt: "Lex Machina, a LexisNexis company, takes state court analytics to a new level, driven by Lex Machina's unique combination of"
-publishedDateTime: 2021-08-31T15:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/lex-machinas-market-leading-state-court-analytics-driven-by-the-collection-of-state-documents-301363025.html"
-webUrl: "https://www.prnewswire.com/news-releases/lex-machinas-market-leading-state-court-analytics-driven-by-the-collection-of-state-documents-301363025.html"
+title: "Lex Machina’s Market-Leading State Court Analytics Driven By The Collection Of State Documents"
+excerpt: "Today, Lex Machina, a LexisNexis company, takes state court analytics to a new level, driven by Lex Machina’s unique combination of natural language processing and human review of state documents, including new state court “fetch” functionality."
+publishedDateTime: 2021-08-31T15:38:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/business-courts-state-courts-0b2d0953b39ee8a634d0b83e39e5c5c2"
+webUrl: "https://apnews.com/press-release/pr-newswire/business-courts-state-courts-0b2d0953b39ee8a634d0b83e39e5c5c2"
 type: article
 quality: 12
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/484883/LexisNexis_Logo.jpg?p=facebook"
-    width: 600
-    height: 315
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -130,6 +130,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "XYdiz782WKcJwuQbJNdc2DUEFKWr4jkkFdiPOqykLGIv+gfFbo12o4/9tCACtELcMYiCn3oYeVwQ/VO01o3LjQH96110L0umPnnxgKPhBZuFXcqELfRwoZaH4Usz9zYw5rxpAgVXkASVXk45J/Lzr9+zm1EwgnQOyW0a0jh/IKDr3BRVXGTv6C0Dqyf4MdPCLAdzPqh5d0uWdXAtcoUQmsPkDnYA+s99Z+s3peycRVhNzaAT4IUv66nrPEjnM9CKg5YceVHsHG9faVp/BtgtakCO0kuCggO7fvN/4KkSwoTPOdFX38CD+CxPMJ/O10UCZmDQbOdXWtHgM+np/l/Rc5DDGxYdBTK0zLc9Gme7ud8=;nN/vYvaHsfto8V7sd5YDhA=="
+secured: "4GsOjdrvQybG9Ch080KPAEAbwOHshSP4nPp+UqeqFXRLIq8YKWO/iVx49I6Rt51x+8Mdefe+ohHGuWnKKImCtkiK1+n/gAgrZfHYH6hvKyoYF/X7dF0rdyPsVyg5LG+cetsDt/4b9zJOPLWPtluY8d1C2IF2RAjB/8uJjI/i2jz1OZ01d24XECsjMC2xkuI4fQapIS+by6wUhW6rPVekVCYM6E72do7a+jvsJsWhZbgONvzDYRgDXUNdQFk9rN1UsYZBrNNVL2fdZsW8W9gpkvAYCAJaQdwHr/ffnZkvu39pdCfEatIB/YQUcJrmn6WQVo4vOFpM2KDxhl6pPtZxjVEsP5icDrkQnw8vtO7dU9w=;EKBTYhuRhljX+wltL6OU6A=="
 ---
 

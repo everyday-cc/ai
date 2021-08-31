@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/indian-railway
 cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/indian-railways-installs-a-facial-recognition-system-to-track-commuters-703762"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/07/25183012/Chincotech-facial-recognition.png"
         width: 623
         height: 432
-        isCached: true
-  - title: "Augnito looks to tap growing India market for speech recognition in health"
-    excerpt: "The use of voice recognition systems based on artificial intelligence (AI) in health care is emerging in India, which offers a potentially enormous market, according to Scribetech Healthcare (India) Pvt."
-    publishedDateTime: 2021-08-27T00:00:00Z
-    webUrl: "https://www.bioworld.com/articles/510874-augnito-looks-to-tap-growing-india-market-for-speech-recognition-in-health"
-    type: article
-    provider:
-      name: BioWorld
-      domain: bioworld.com
-    quality: 37
-    images:
-      - url: "https://www.bioworld.com/ext/resources/Stock-images/Misc/voice-soundwave-analysis.png?height=635&t=1605222774&width=1200"
-        width: 847
-        height: 635
         isCached: true
   - title: "Fast adoption of facial recognition technology in India likely to trigger privacy issues"
     excerpt: "Businesses, big corporates and even government departments have adopted facial recognition technology (FRT) in India for authentication and security reasons. The COVID-19 pandemic has also led to facial recognition systems,"

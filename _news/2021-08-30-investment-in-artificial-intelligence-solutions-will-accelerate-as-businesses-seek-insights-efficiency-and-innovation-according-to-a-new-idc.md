@@ -40,36 +40,6 @@ related:
         width: 850
         height: 531
         isCached: true
-  - title: "Global Artificial Intelligence (AI) in Telecommunication Market to Reach $6.5 Billion by 2026"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Telecommunication - Global Market Trajectory & Analytics\"."
-    publishedDateTime: 2021-08-26T23:38:00Z
-    webUrl: "https://www.mobilitytechzone.com/lte/news/2021/08/26/9438304.htm"
-    type: article
-    provider:
-      name: Mobility Techzone
-      domain: mobilitytechzone.com
-    quality: 41
-    images:
-      - url: "https://mma.prnewswire.com/media/1601557/MCP21191.jpg"
-        width: 400
-        height: 327
-        isCached: true
-  - title: "Global Speech Recognition Market to Reach $29.28 Billion by 2026, States the Report by Allied Market Research"
-    excerpt: "Allied Market Research published a research report on the speech recognition market. The findings of the report states that the global market for speech recognition is expected to reach $29.28 billion by 2026, manifesting a CAGR of 19.9% from 2019 to 2026."
-    publishedDateTime: 2021-08-27T03:36:00Z
-    webUrl: "https://www.openpr.com/news/2370242/global-speech-recognition-market-to-reach-29-28-billion"
-    ampWebUrl: "https://www.openpr.com/amp/2370242/global-speech-recognition-market-to-reach-29-28-billion"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2370242/global-speech-recognition-market-to-reach-29-28-billion"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 40
-    images:
-      - url: "https://cdn.openpr.com/U/8/U827193633_g.jpg"
-        width: 800
-        height: 418
-        isCached: true
   - title: "Investment in Artificial Intelligence Solutions Will Accelerate According to a New IDC Spending Guide"
     excerpt: "Businesses and organizations across all industries are increasing their investment in artificial intelligence (AI) to"
     publishedDateTime: 2021-08-30T16:05:00Z

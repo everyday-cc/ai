@@ -39,20 +39,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Global Harvesting Robot Market is Forecasted to Grow at a CAGR of 19.9% During the Forecast Period 2017-2027 - ResearchAndMarkets.com"
-    excerpt: "By Harvesting Type (Fruit, Vegetable, Grain, Others), By Application (Outdoor, Greenhouse), By Region, Estimation & Forecast, 2017 - 2027” report has been added to ResearchAndMarkets.com’s offering. The global harvesting robot market held a market value of USD 512."
-    publishedDateTime: 2021-08-31T08:48:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-44659cc39bc347bb95c2977d50153fc1"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 8
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "riyevBBp0E6O5/6ikAtKKHm3M0l1+pGBAm2uOhJEvWsqUXcLQFr5P8MWBfvDmnc8oi55v84qxFMJF5xwTT9wObFOS0rp1Rw0aVNzlgNLhYQPF19+95b1JVL2ZJSWn7oFxI8VJgXcqFCx+SMtVix+y4L/toeU0AHo0UAi20NugUGEzQbaCE5H6DRBf3AHuUlOx3HRB3uq1PYqt+UBrKFQRowLYLZUmFUZ3mIrGy8W+kRJpOdBq8PAqv1nUPzl9svVBZZTxYFYipoXW1U4D9EV9xWehspe5b75ppFflL80OAbm0y8i6uX2nJo7JtWaRX4eB8sUJe4itko0i+9QVT7NP4dTXwiJ6MW/sbIBPlajohzzr+xu6Y0rddvVwybAa/PevpxeD36eKnag8C2tqtSbAbSeE2yfgRCuekkIP6jl7U+M2tzPBuUAhPduF23QV0JmAL4OycZghveW9+b6bc0BzxDTRJpbV5iV7Qltc0M9DgaMj3m+1ersHtJFCr6k0f9pNYJuac5Ds1zGZqs514lzBA==;oI0bXbVuP6VFCFtUk0eLig=="
 ---

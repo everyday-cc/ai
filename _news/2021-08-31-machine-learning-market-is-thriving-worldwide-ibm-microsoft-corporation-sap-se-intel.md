@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2373672/machine-learning-market-is-thrivi
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2373672/machine-learning-market-is-thriving-worldwide-ibm-microsoft"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -44,6 +44,17 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Recent Survey on Automatic Speech Recognition Market 2021-2030 Key Players : Nuance, Microsoft, Alphabet, IBM, Sensory, Cantab Research"
+    excerpt: "In recent years and especially due to the Covid-19 impact, the Global Automatic Speech Recognition Market has been through many ups and downs which have greatly impacted the business and the market players be it large or small."
+    publishedDateTime: 2021-08-31T09:46:00Z
+    webUrl: "https://manometcurrent.com/recent-survey-on-automatic-speech-recognition-market-2021-2030-key-players-nuance-microsoft-alphabet-ibm-sensory-cantab-research/"
+    ampWebUrl: "https://manometcurrent.com/recent-survey-on-automatic-speech-recognition-market-2021-2030-key-players-nuance-microsoft-alphabet-ibm-sensory-cantab-research/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/recent-survey-on-automatic-speech-recognition-market-2021-2030-key-players-nuance-microsoft-alphabet-ibm-sensory-cantab-research/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 24
   - title: "Global $125+ Billion Database Management System (DBMS) Markets to 2026 with Oracle, Microsoft, IBM, SAP, Amazon AWS Dominating - ResearchAndMarkets.co"
     excerpt: "The \"Global Database Management System (DBMS) Market Report and Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The global database management system (DBMS) market attained a value of approximately USD 63."
     publishedDateTime: 2021-08-27T15:26:00Z
