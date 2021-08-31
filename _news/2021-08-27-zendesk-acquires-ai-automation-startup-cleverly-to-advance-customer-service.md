@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/08/26/zendesk-acquires-ai-automation-sta
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/26/zendesk-acquires-ai-automation-startup-cleverly-to-advance-customer-service/amp/"
 type: article
 quality: 185
-heat: 195
+heat: 185
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1024
     height: 683
     isCached: true
-
-related:
-  - title: "Zendesk acquires customer service automation startup Cleverly.ai"
-    excerpt: "Zendesk has acquired Cleverly.ai, a service automation startup that develops AI-powered tools to solve common customer problems."
-    publishedDateTime: 2021-08-26T16:46:00Z
-    webUrl: "https://venturebeat.com/2021/08/26/zendesk-acquires-customer-service-automation-startup-cleverly-ai/"
-    ampWebUrl: "https://venturebeat.com/2021/08/26/zendesk-acquires-customer-service-automation-startup-cleverly-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/26/zendesk-acquires-customer-service-automation-startup-cleverly-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/03/customer-e1629996056347.jpg?fit=800%2C533&strip=all"
-        width: 800
-        height: 400
-        isCached: true
 
 secured: "yiBycoRa3kfGE91X5HuQq/wK2kwdAuBCIWUnmXXFPYeSMx2G4f1DjE7Q4M+zQ6tSza3b+Wz0aCYwvdiHL2XhYzp3ODA8rbgEZPsfLGWfsN5sXuOhOBlhBlfQ+BtS5JKkVleSjLujJejx3hNzw5atKyQLm9jcxz/eQMTy3PtLSgBeQhnQ6bsalEnx+e9sgtN3gzMRji58kKPgXt76dMFyYIiZ78arHBRi6EQwPoT0Bdhsgv1bar35K7KmkJaAfOhOZGHajWlj/4ZLSwV8kZCdxVgz4pWRWRV2qcXKxiqzQ8z1wVHR6m0uOBmeXfHR0Rj9Y+3QkWPzTWYDSbU4ZNgqp07vT/2/FJvg382lkYf2idc=;N6m+8s0wP8cRU9g98e/42A=="
 ---

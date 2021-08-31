@@ -42,6 +42,22 @@ related:
         width: 1280
         height: 960
         isCached: true
+  - title: "Otter.ai expands reach of Otter Assistant for video chats"
+    excerpt: "The virtual assistant, rolled out for Zoom users in May, gains support for three more platforms: Microsoft Teams, Google Meet and Cisco Webex."
+    publishedDateTime: 2021-08-27T07:58:00Z
+    webUrl: "https://www.computerworld.com/article/3619630/otterai-expands-reach-of-otter-assistant-for-video-chats.html"
+    ampWebUrl: "https://www.computerworld.com/article/3619630/otterai-expands-reach-of-otter-assistant-for-video-chats.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3619630/otterai-expands-reach-of-otter-assistant-for-video-chats.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 57
+    images:
+      - url: "https://images.idgesg.net/images/article/2021/05/otter-assistant_2-100889453-large.jpg?auto=webp"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "s6PLF5EMF8jSTFEyeOXBUajuU2p7LXWIyvZ+FdxHSQ4ftC+GghsGze7Es8823AjVU5oYbVmjtjVRS74WHssqA3fzLhiFyPfd7oBbV7M+TTNsZQAqJUicA9VT/Qq/O24rTMLVDJIi0+cNa5dkr5EAiRGy48cYU0nuld3es/BLzMarIxCUZ3BfLlsRD7J+6RLBUScZYqvvfULV8PeBLoriuYNZT5/UwWBVDLMLr0ytRs4UxOf0sZLACcdvflcLHTlWtNH5tuPyMXIgUi/aVZDoI4U+DMi8mJhJuJ4LLX69D87HialSE7hYUdB6w03Xf2sLqajx/aJl1skgPIS9CHx0xsGKtyBH6f6tJZJS6xOjtlk=;zm6Eb2puelto50JiPLCNjw=="
 ---

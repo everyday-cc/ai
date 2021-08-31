@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "IBM aims AI inference at anti-fraud for financial vertical"
-    excerpt: "This week, however, IBM stepped up to the plate with a new processor, IBM Telum, equipped with on-chip acceleration for AI inferencing for anti-fraud applications in banking and other sectors. Telum,"
-    publishedDateTime: 2021-08-26T16:52:00Z
-    webUrl: "https://www.fierceelectronics.com/electronics/ibm-aims-ai-inference-at-anti-fraud-financial-vertical"
-    type: article
-    provider:
-      name: fierceelectronics
-      domain: fierceelectronics.com
-    quality: 41
-    images:
-      - url: "https://qtxasset.com/fierceelectronics/1629997179/IBM%20Telum%20Processor_2.jpg?aPIomlo33uke.19hcfWJcF9cC5kl02wF"
-        width: 2500
-        height: 1667
-        isCached: true
 
 secured: "7XQm1U8ybAivNcAoAovbBs+qigi/N9im8NB5jrMX7AEQJ1AY7duoaCKlwRhwPqSSDhqZsTWx0o5zidULuqnD5hWs8OcWxOGiCCy1LJkYWdoYm/WzvFWUdEsRkwy71659FC4UZt0LUOvR580mpgJRrgcFc8nTToGLg++/WgFlcGAj1bKikRJLzBkDt7dKXIBRg0mzXtgSzDmxzvJcza1h5pABcYkmb73Ad3TG7xTmWTRTXDZqXqZx7Zgf7tdL5C/0yp5IyKafs62QBpJiQ6z7AlJvh6AQlW2doRruvo0Re8nUm5SfocNCVVriinyKGWzWhfCAnDsra4U6BQ82scKbg2D9p+6o9LUDONpeL15naUIuwZfTPINW+1NYGsdEzpGfWLbGjz3HqUILsQ/orPyXct4jltdhASaxdBmwGyz6QDq5fZVSkBPDMIvJ+v8JdrHXxkvso5eA300e2A8PIi4EVbX5ta1HdfFwV4uvkakhPa+vwl0A1GoKzfeCgBbeKDKvSpWrvjWvnLQBNnwEf+5H6w==;wcpbioue/N0XcpjblJZsug=="
 ---

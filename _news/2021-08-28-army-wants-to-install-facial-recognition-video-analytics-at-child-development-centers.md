@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 1042
         isCached: true
+  - title: "Playing catch-up to the early adopters of AI and machine learning"
+    excerpt: "Early adopters of data analytics, artificial intelligence and machine learning tools have found themselves in a position of favour in today's rapidly accelerating digital"
+    publishedDateTime: 2021-08-30T15:19:00Z
+    webUrl: "https://www.bizcommunity.com/Article/196/852/219535.html"
+    type: article
+    provider:
+      name: Bizcommunity
+      domain: bizcommunity.com
+    quality: 54
+    images:
+      - url: "https://biz-file.com/c/2108/625807.jpg"
+        width: 700
+        height: 364
+        isCached: true
   - title: "PKS rebrands as Beamtree, buys AI start-up Ainsoff and data analytics firm Potential(x)"
     excerpt: "The clinical data analytics company formed earlier this year through the merger of health software vendors Pacific Knowledge Systems (PKS) and Pavilion Health has rebranded as Beamtree Holdings, with the ASX-listed company recently buying two smaller companies to form what it says is one of the largest health analytics and decision support platforms in Australia."
     publishedDateTime: 2021-08-31T05:22:00Z

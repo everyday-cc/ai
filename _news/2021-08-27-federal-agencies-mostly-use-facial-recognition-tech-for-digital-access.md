@@ -182,20 +182,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Planned Expansion of Facial Recognition by US Agencies Called 'Disturbing'"
-    excerpt: "Digital rights advocates reacted harshly Thursday to a new internal U.S. government report detailing how ten federal agencies have plans to greatly expand their reliance on facial recognition in the years ahead."
-    publishedDateTime: 2021-08-26T16:53:00Z
-    webUrl: "https://www.commondreams.org/news/2021/08/26/planned-expansion-facial-recognition-us-agencies-called-disturbing"
-    type: article
-    provider:
-      name: Common Dreams
-      domain: commondreams.org
-    quality: 37
-    images:
-      - url: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2021-08/face-recognition-Getty1080200068-1300x681.jpg?h=319522b7&itok=fxTdPR8d"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "pNjk4hNhkSrlwoaqokQ4J5ziD3HmP45R0RNwC//eif8Np9o6SVF+1TLagVB/9B8Vk8bcZAuxVXQwqE2Baf50+IwgCc0FosOIjxNej/wscdPvmzE6qbjTtCXrGgrd1U4/coKIaErsBu8pnqzVxMZAaGnjeV6M11pCRQ6bn4y4F6Eb/6F+S6sZr8tmClRJaLkxfX7PhekZRGRzZY/NiDt4UlIeAyHBMijV7qqPo0nV6ncklXNUbOSZzmOr0JtEi8vM8IH5Tnj7BZb6/QcaXAzwhy0BdsiOE+KI+pB6jyuUkVcQHbiNKCI30Id5t3P6k35UBcM4cdeYYEeiiTSqLwIKklgb+TR4TYEpvNIrMNMiOfc=;r1/7pUjkXAEByu3TUo2kiQ=="
 ---

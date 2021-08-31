@@ -49,17 +49,6 @@ related:
         width: 768
         height: 512
         isCached: true
-  - title: "Deep Learning in Machine Vision Market Report Covers Future Trends With Research 2021-2027"
-    excerpt: "Deep learning technology is seeing many appealing advancements in several machine learning sectors, involving the reinforcement learning, natural language processing (NLP), ML frameworks (Pytorch and TensorFlow),"
-    publishedDateTime: 2021-08-26T16:32:00Z
-    webUrl: "https://www.globalbankingandfinance.com/deep-learning-in-machine-vision-market-report-covers-future-trends-with-research-2021-2027/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/deep-learning-in-machine-vision-market-report-covers-future-trends-with-research-2021-2027/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/deep-learning-in-machine-vision-market-report-covers-future-trends-with-research-2021-2027/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 31
 
 secured: "ue03tjAcBY+U7mMXUJm4/3l3y/7MtoG1P5Dhq0uX+1nbzsoBDjYzYqtP3RX8MUsmAD9gXFLAr5OQMMjDLM/ikNhbU6+/A4leG5EDV8GUo//Fck/+/V7SY5eEfM1mrhKXXFAUSuXTtERG5iOlYp0sqUG2bqLgWw5zN0sJATPua27hPI131Vsb17yy8m+lUr8mwq7B8aGqGqRb3jyOgvhQ7py/NZ6E2HyPwOwXSWD1R9zFH+8jA+9VAqtqDt9bWRkxbQTgZJUcmV1Qygi4Enc04ssnv2KL6WGU6V9Dy3uZCHa4VzxpD1KifVo6srgB8AOFBiQjfqa9QmSxMi3x0BJKOHcPru4Zl5NGl3vdBvWPLqY=;LuKFW6cpX0JmLtK6bURcrw=="
 ---

@@ -43,6 +43,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Marketer, meet machine! - helping marketers get a handle on AI"
+    excerpt: "As a marketer, I am fascinated with how machine learning and Artificial Intelligence are helping companies improve their marketing and sales strategies. But also understand we have a long way to go, and there are many questions around how to use AI right."
+    publishedDateTime: 2021-08-31T09:30:00Z
+    webUrl: "https://diginomica.com/marketer-meet-machine-helping-marketers-get-handle-ai"
+    ampWebUrl: "https://diginomica.com/marketer-meet-machine-helping-marketers-get-handle-ai?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/marketer-meet-machine-helping-marketers-get-handle-ai?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 59
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2021-03/shutterstock_1005701926.png"
+        width: 740
+        height: 450
+        isCached: true
   - title: "Conversational AI market to grow to $15.7 billion by 2024"
     excerpt: "The market for conversational artificial intelligence AI is expected to grow from 42 billion dollars in 2019 to 157 billion dollars by 2024 customer suppor"
     publishedDateTime: 2021-08-28T09:46:00Z

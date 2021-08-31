@@ -9,7 +9,7 @@ ampWebUrl: "https://www.iol.co.za/amp/technology/techsperts/playing-catch-up-to-
 cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/techsperts/playing-catch-up-to-the-early-adopters-of-analytics-ai-and-machine-learning-1863199a-1af1-4958-a27d-31dcb475e9ff"
 type: article
 quality: 71
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6125197aa4e9c316e3801db8%2F0x0.jpg"
         width: 1200
         height: 1042
+        isCached: true
+  - title: "Playing catch-up to the early adopters of AI and machine learning"
+    excerpt: "Early adopters of data analytics, artificial intelligence and machine learning tools have found themselves in a position of favour in today's rapidly accelerating digital"
+    publishedDateTime: 2021-08-30T15:19:00Z
+    webUrl: "https://www.bizcommunity.com/Article/196/852/219535.html"
+    type: article
+    provider:
+      name: Bizcommunity
+      domain: bizcommunity.com
+    quality: 54
+    images:
+      - url: "https://biz-file.com/c/2108/625807.jpg"
+        width: 700
+        height: 364
         isCached: true
   - title: "Army Wants to Install Facial Recognition, Video Analytics at Child Development Centers"
     excerpt: "The Army wants to use facial recognition and advanced machine learning algorithms to monitor kids at base Children Development Centers and plans to launch a pilot program at Fort Jackson in the near future."

@@ -41,19 +41,19 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Israel’s maturing fintech ecosystem may soon create global disruptors"
-    excerpt: "What is it about Israeli-founded fintech startups that stand out from their scaling neighbors across the pond?"
-    publishedDateTime: 2021-08-26T16:27:00Z
-    webUrl: "https://techcrunch.com/2021/08/26/israels-maturing-fintech-ecosystem-may-soon-create-global-disruptors/"
+  - title: "Spice Money partners with Israel’s leading fintech player, Tarya to launch community-led rural lend-tech platform"
+    excerpt: "Spice Money has entered into a joint venture with Tarya group, Israel’s leading fintech player with 70% P2P market-share in Israel, to bring Bharat to the fore of the ongoing data-led digital revoluti"
+    publishedDateTime: 2021-08-31T09:09:00Z
+    webUrl: "https://www.smechannels.com/spice-money-partners-with-israels-leading-fintech-player-tarya-to-launch-community-led-rural-lend-tech-platform/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 54
+      name: NETGEAR
+      domain: smechannels.com
+    quality: 3
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1159730247.jpg?w=571"
-        width: 571
-        height: 400
+      - url: "https://i0.wp.com/www.smechannels.com/wp-content/uploads/2021/08/spice.png?fit=610%2C380&ssl=1"
+        width: 610
+        height: 380
         isCached: true
 
 secured: "8xKQuZ6HL6xH0mYPllAaqvqkdZMNjgGMoYJIFir9cX2AiwZqdlpAkcV6zXaCN5qS7U8NTBD26ABhRr4wldM+iXANiZOWbz3BAduyP+7EGJQbnYQxGaR9qx7MWsdoXGdx5BGreIF3msPy4bvJcosAkqTRR+5E2lm11zy3FCoLw1dtTaLVTWUoSNCQfR+3Uz2mj4Nk4O3/hrYls0mLdlkKWeEbYybshxwDv00xBZu101M1sMxy2lTTASFYqvXWUhdXTaaRNb2NLI0UczJJxK5dY4irxMPeRk+J2GBoK/95sWqr0d8a0mg447XS6wO8ghgIMl4iqn7laZTmdN0lp0PF2IOj7AQkHbhYUubF5NtU2aCtZ1piFtFFsPH4NkudfyKq3LR8bAWLD6SEnuFfD9zWGKBtxoxdzfSTZfrjO//QK3PdYjg5PVL+hEvYqdpPmkJ3EMr1bwmayXnrBxao8IsJKUqea1x25C40ULzWoUa//rqfRfApDLGafxyo41w7EL/YJXyziKu2A64AuZVdwfJ4Dg==;6VxlI5Oduqo1t7/GSXTlHA=="

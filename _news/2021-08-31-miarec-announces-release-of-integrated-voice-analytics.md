@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 1042
         isCached: true
+  - title: "Playing catch-up to the early adopters of AI and machine learning"
+    excerpt: "Early adopters of data analytics, artificial intelligence and machine learning tools have found themselves in a position of favour in today's rapidly accelerating digital"
+    publishedDateTime: 2021-08-30T15:19:00Z
+    webUrl: "https://www.bizcommunity.com/Article/196/852/219535.html"
+    type: article
+    provider:
+      name: Bizcommunity
+      domain: bizcommunity.com
+    quality: 54
+    images:
+      - url: "https://biz-file.com/c/2108/625807.jpg"
+        width: 700
+        height: 364
+        isCached: true
   - title: "Army Wants to Install Facial Recognition, Video Analytics at Child Development Centers"
     excerpt: "The Army wants to use facial recognition and advanced machine learning algorithms to monitor kids at base Children Development Centers and plans to launch a pilot program at Fort Jackson in the near future."
     publishedDateTime: 2021-08-27T17:25:00Z
@@ -109,6 +123,6 @@ related:
         height: 400
         isCached: true
 
-secured: "WCPaiajFW20zHFspSUxHx4OdMfFvv9SWynxrGMc7pZaAUpdFT/afagiLjIW2xGwzbDpdTYpaVnRvDPGDQo1vxguXjG75B8uXU2rNKmoleFGTebeYOfl8OR8XE/zDRz34hqNOfpMyHaQI9aUIhCZJEEqA64pkK15J4ggDMgBLLKeEzSo6HcMEgxS6YDpS5g4El2eZqnHEXR6iqGNLjj3+cn9L6bebgOK1esRMxY6eEJIeJdXdRMnv/AbceEgclUJEBiVWRVDsOzxz/+4H+XrP0vy1o8hjW2CIya+Mh3j6trmrYOxGJwhrd8Lj/43gONMlZZEeeYLjGFvNMa8TpGtnNDfVR61stpKSoyVIUO3aQ00=;3B5IYGxv64IiJH+MK+l5Og=="
+secured: "yBkxsAbfX4TOKrGBxbKQuRY+UZfsWWSZW3xRYLbeyPx6ef07r7Ra6UDgj3qiegjwgnKjuDXf3lKLLnkT29nyfMJRKd5eirSJ0SvR9grDlM8qbXx+bGw35y19uSb/7NgJGo/w8XOCjyJsNuuQYg4RhhHugk2TTYWkQC5XjuNVk7YbFOo5wJljq45mI3G2qajvMQn/0s32zdwPSFHLbYH3+6VC69ZKoQr57gxgFlDyTADTdWMtl6M/mhsLb+TxTYtVpzYHu/VAWOZBTXXa3+U001vktD6aw8FEAkRjbRgXphhEK5aq58BbRqTe0lAR2dH4N/tMrXwEYSSBnz9JpaTNgNBV1XsYf+DhA+mFe5TMgjM4tDdbfniuIbetiGNuKXW/JwLuLwHGV4SSitrvgQYe7jF8IPJ27AiMR5Lbc7kgtIsIXIV7sNQnNVLeyZJkw/tHRQ+gd6ug3vD6OPAb8RlwDupVSq5T1e8iPTdUXAekrtAKOfsjGBkx0uEfdnCtgy8WutJidszyTVdRRjQTRMbc3w==;fyxwY7MxlfaXn7sWeHtRTg=="
 ---
 

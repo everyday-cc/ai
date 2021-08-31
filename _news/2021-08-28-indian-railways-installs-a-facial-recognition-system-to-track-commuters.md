@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/indian-railway
 cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/indian-railways-installs-a-facial-recognition-system-to-track-commuters-703762"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Explained: India's plan to establish National Facial Recognition Network"
+    excerpt: "Indian Government has installed facial recognition technology cameras at more than 30 railway stations and busy airports of the country. The move is a"
+    publishedDateTime: 2021-08-31T07:52:00Z
+    webUrl: "https://www.jagranjosh.com/general-knowledge/explained-indias-plan-to-establish-national-facial-recognition-network-1630396385-1"
+    ampWebUrl: "https://m.jagranjosh.com/general-knowledge/amp/explained-indias-plan-to-establish-national-facial-recognition-network-1630396385-1"
+    cdnAmpWebUrl: "https://m-jagranjosh-com.cdn.ampproject.org/c/s/m.jagranjosh.com/general-knowledge/amp/explained-indias-plan-to-establish-national-facial-recognition-network-1630396385-1"
+    type: article
+    provider:
+      name: Rojgar Samachar
+      domain: jagranjosh.com
+    quality: 73
+    images:
+      - url: "https://img.jagranjosh.com/images/2021/July/2972021/ludo_express.png?new_images_en"
+        width: 450
+        height: 232
+        isCached: true
   - title: "India deploys facial recognition surveilling millions of commuters"
     excerpt: "Indian Railways, one of the world’s busiest urban rail systems, has deployed a network of almost 500 facial recognition cameras to track millions of daily commuters, as the Indian government increases its surveillance efforts."
     publishedDateTime: 2021-08-26T17:04:00Z

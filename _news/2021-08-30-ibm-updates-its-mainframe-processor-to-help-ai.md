@@ -9,8 +9,8 @@ ampWebUrl: "https://www.networkworld.com/article/3631132/ibm-updates-its-mainfra
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3631132/ibm-updates-its-mainframe-processor-for-ai.amp.html"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Network World
@@ -40,20 +40,6 @@ related:
       - url: "https://www.allaboutcircuits.com/uploads/thumbnails/Telum.jpg"
         width: 700
         height: 348
-        isCached: true
-  - title: "IBM aims AI inference at anti-fraud for financial vertical"
-    excerpt: "This week, however, IBM stepped up to the plate with a new processor, IBM Telum, equipped with on-chip acceleration for AI inferencing for anti-fraud applications in banking and other sectors. Telum,"
-    publishedDateTime: 2021-08-26T16:52:00Z
-    webUrl: "https://www.fierceelectronics.com/electronics/ibm-aims-ai-inference-at-anti-fraud-financial-vertical"
-    type: article
-    provider:
-      name: fierceelectronics
-      domain: fierceelectronics.com
-    quality: 41
-    images:
-      - url: "https://qtxasset.com/fierceelectronics/1629997179/IBM%20Telum%20Processor_2.jpg?aPIomlo33uke.19hcfWJcF9cC5kl02wF"
-        width: 2500
-        height: 1667
         isCached: true
 
 secured: "YRg8+o5L7qgtacxX7orP+/fiTjaus2r/vl5yY7zGmI26dKKKUxTKt2u9okUHpRha+ZVkuNLY08Rrt8eIRhrBEBzrrCVtoKBw0Di+CSn3Wc2pnZgQ2wQspHpVpm/3IDtz1CUX/axfd9ouMBlrWZOmK0Oo+58dbgxCZE0+bkqZLt6vpvyiDg8Q4gIDhZ37vAJhQHhspBDYX+b+UIk8xHARn+citIK/ienpSWJFaHt315Qra3vHwlEOIMfGu08wruUixqNlbCwRUuSSVNHFyRXEikDWZw2QkSOStIeRB0TnJ09LecfV03u1NSY3qjPDI43EdPfygDVrFvS/YrvS87UZp18PKcpupcSD8sqUJrTwrDw=;7yZloVHJY8Nmm/sqML67/g=="

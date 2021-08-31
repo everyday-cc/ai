@@ -26,84 +26,38 @@ images:
     isCached: true
 
 related:
-  - title: "Otter.ai expands automatic transcription assistant to Microsoft Teams, Google Meet and Cisco Webex"
-    excerpt: "AI-powered voice transcription service Otter.ai is expanding its Otter Assistant feature for Microsoft Teams, Google Meet, and Cisco Webex. Otter.ai first released this feature for Zoom users earlier this year in May."
-    publishedDateTime: 2021-08-26T16:16:00Z
-    webUrl: "https://techcrunch.com/2021/08/26/otter-ai-expands-automatic-transcription-assistant-to-microsoft-teams-google-meet-and-cisco-webex/"
-    ampWebUrl: "https://techcrunch.com/2021/08/26/otter-ai-expands-automatic-transcription-assistant-to-microsoft-teams-google-meet-and-cisco-webex/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/26/otter-ai-expands-automatic-transcription-assistant-to-microsoft-teams-google-meet-and-cisco-webex/amp/"
+  - title: "Meet the voice behind MG Astor's AI assistant"
+    excerpt: "One of the highlights of the upcoming MG Astor is the personal AI assistant. MG has now revealed the voice behind this interactive robot.The carmaker has announced that the AI assistant in the upcoming"
+    publishedDateTime: 2021-08-27T05:14:00Z
+    webUrl: "https://www.team-bhp.com/news/meet-voice-behind-mg-astors-ai-assistant"
+    ampWebUrl: "https://www.team-bhp.com/news/meet-voice-behind-mg-astors-ai-assistant?amp"
+    cdnAmpWebUrl: "https://www-team--bhp-com.cdn.ampproject.org/c/s/www.team-bhp.com/news/meet-voice-behind-mg-astors-ai-assistant?amp"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 90
+      name: Team-BHP.com
+      domain: team-bhp.com
+    quality: 59
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/05/Otter-Assistant.png?w=1024"
-        width: 1024
-        height: 650
+      - url: "https://www.team-bhp.com/sites/default/files/styles/amp_high_res/public/20210826_174114.jpg"
+        width: 1280
+        height: 960
         isCached: true
-  - title: "Artificial Intelligence in Construction Market is Booming Worldwide | IBM, Microsoft, Oracle"
-    excerpt: "Latest released the research study on Global Artificial Intelligence in Construction Market offers a detailed overview of the factors influencing the global business scope Artificial Intelligence in Construction Market research report shows the latest market insights current situation analysis with"
-    publishedDateTime: 2021-08-31T06:15:00Z
-    webUrl: "https://www.openpr.com/news/2373861/artificial-intelligence-in-construction-market-is-booming"
-    ampWebUrl: "https://www.openpr.com/amp/2373861/artificial-intelligence-in-construction-market-is-booming"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2373861/artificial-intelligence-in-construction-market-is-booming"
+  - title: "MG Motor Announces First Woman Paralympic Medalist Deepa Malik To Voice AI Assistance"
+    excerpt: "MG Motor has said that Khel Ratna Awardee Deepa Malik will be the voice behind the soon-to-be-launched SUV, MG Astor's personal AI assistant feature."
+    publishedDateTime: 2021-08-30T07:49:00Z
+    webUrl: "https://www.republicworld.com/auto-news/cars/mg-motor-announces-first-woman-paralympic-medalist-deepa-malik-to-voice-ai-assistance.html"
+    ampWebUrl: "https://www.republicworld.com/amp/auto-news/cars/mg-motor-announces-first-woman-paralympic-medalist-deepa-malik-to-voice-ai-assistance.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/auto-news/cars/mg-motor-announces-first-woman-paralympic-medalist-deepa-malik-to-voice-ai-assistance.html"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 63
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 50
     images:
-      - url: "https://cdn.openpr.com/U/8/U831667007_g.jpg"
-        width: 800
-        height: 533
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/hvguvm1zfuqptqib_1630308230.jpeg"
+        width: 768
+        height: 438
         isCached: true
-  - title: "How To Crack Microsoft Azure Data Scientist Associate Certification"
-    excerpt: "How To Crack Microsoft Azure Data Scientist Associate Certification - Prepare with MachineHack mocks and test your level of preparation"
-    publishedDateTime: 2021-08-27T11:30:00Z
-    webUrl: "https://analyticsindiamag.com/how-to-crack-microsoft-azure-data-scientist-associate-certification/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/AIM-Illustration-3.jpg"
-        width: 2200
-        height: 1238
-        isCached: true
-  - title: "Otter.ai Brings Transcription Assistant To Microsoft Teams, Google Meet and Webex"
-    excerpt: "After partnering with Zoom, Otter.ai, brings Otter Assistant to Microsoft Teams, Google Meet and Webex for automatic transcriptions."
-    publishedDateTime: 2021-08-30T20:42:00Z
-    webUrl: "https://www.commercialintegrator.com/communications/otter-ai-brings-transcription-assistant-to-microsoft-teams-google-meet-and-webex/"
-    type: article
-    provider:
-      name: Commercial Integrator
-      domain: commercialintegrator.com
-    quality: 49
-    images:
-      - url: "https://www.commercialintegrator.com/wp-content/uploads/2021/08/Desktop-edit-e1630356121313.png"
-        width: 1000
-        height: 672
-        isCached: true
-  - title: "AusNet signs 5-year deal with Microsoft as it ramps up cloud and AI options"
-    excerpt: "Microsoft has announced a five-year strategic partnership with diversified Australian energy infrastructure business, AusNet Services, which has selected Azure as its preferred cloud platform for a major digital modernisation initiative."
-    publishedDateTime: 2021-08-30T01:30:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_microsoft/ausnet-signs-5-year-deal-with-microsoft-as-it-ramps-up-cloud-and-ai-options/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 32
-  - title: "Microsoft adds literary Chinese to translation service"
-    excerpt: "Microsoft has added literary Chinese to its translation service, from the modern Chinese, and the more than 90 other languages and dialects provided by the service. Literary Chinese translation has been integrated into the Microsoft Translator app,"
-    publishedDateTime: 2021-08-30T08:14:00Z
-    webUrl: "https://www.telecompaper.com/news/microsoft-adds-literary-chinese-to-translation-service--1395246"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
 
 secured: "sjMew86iVz4jqpgiptyPjNDL7LSfMpNI4cEMoG/8nbc5M2CW2miljJkqH4uUZ9nxCfcxJ4WSfyqFyeGayoxyAoOED2b23q53RBjAAYYGOJ7y4K78tSITDdkMYVQnVWa16Nv70mT5bp3mzNrETNGSyPeVabrH9Wh6FwXLXfL5xaID2YE3Ju9DyQruQkEtzA2r09GgxuLT/YL4OAmBwPotD1KwOirE8q38doTrr+gb9DwogRk/rMAUNYzMUB1N5bhcob3Yj+R4ohpwbEPaG00EB3feO92Snmsi5bQY69fvLok9i9KrWtEtAwRGqkKw+yRJRMEPyY+z2Erpo/cWEGboo8oMMLCX7D65+/esVTOPma5/4qzeyHVjqkTElQCCDeyqSCoVP8o4wdvyzdWrpERDv2dtT07uC0HYaHXwytXJ3FN29j86peRYYMNgKJpGLUhhTxe4GcGlFNbXC+dmVC4MaX2Rzon1gCAVa6kmilR6oDWLCYZA9kGOuzeaijJ/TvabZ9YXWTNABHuB9OVAdz4OZw==;zX1xER9Gz+lKYpK7wO+GDQ=="
 ---

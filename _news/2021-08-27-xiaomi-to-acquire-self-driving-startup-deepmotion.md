@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Phone maker Xiaomi propels EV ambitions; to buy self-driving tech startup"
-    excerpt: "Xiaomi has already pledged an initial investment of $10 billion over the next decade in the field of electric vehicles..The smartphone maker has started a hiring spree of 500 engineers for the EV project."
-    publishedDateTime: 2021-08-26T15:58:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/phone-maker-xiaomi-propels-ev-ambitions-to-buy-self-driving-tech-startup-41629949869567.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/news/phone-maker-xiaomi-propels-ev-ambitions-to-buy-self-driving-tech-startup/amp-41629949869567.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/phone-maker-xiaomi-propels-ev-ambitions-to-buy-self-driving-tech-startup/amp-41629949869567.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 43
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2021/08/26/600x338/2021-05-05T164743Z_974700623_RC2S9N9ZBJ8F_RTRMADP_3_ITALY-CLIMATE-MINISTER_1621329101701_1629950061128.JPG"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Xiaomi to acquire self-driving startup Deepmotion for $77.4 mn"
     excerpt: "Leg-spinner Yuzvendra Chahal's maiden six-wicket for India as the hosts beat England by 75 runs in the third and final Twenty20 International"
     publishedDateTime: 2021-08-27T15:57:00Z

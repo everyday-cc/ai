@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/tesla-crashes-into-police-cruis
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-crashes-into-police-cruiser-self-driving-cars-have-to-learn-how-to-drive-51630360830"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
     quality: 39
     images:
       - url: "https://img.manufacturing.net/files/base/indm/multi/image/2021/08/MM_259_Thumb.6126549164c0b.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Tesla Plans To Have Its Full Self-Driving Beta Ready For Public In Four Weeks"
-    excerpt: "Tesla plans to have its Full Self-Driving beta ready for the public in four weeks. Here are all the details on this."
-    publishedDateTime: 2021-08-26T15:11:00Z
-    webUrl: "https://www.redmondpie.com/tesla-plans-to-have-its-full-self-driving-beta-ready-for-public-in-four-weeks/"
-    type: article
-    provider:
-      name: Redmond Pie
-      domain: redmondpie.com
-    quality: 36
-    images:
-      - url: "https://cdn.redmondpie.com/wp-content/uploads/2021/07/tesla-fsd-1200.jpg"
         width: 1200
         height: 675
         isCached: true

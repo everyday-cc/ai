@@ -174,20 +174,6 @@ related:
         width: 860
         height: 520
         isCached: true
-  - title: "Planned Expansion of Facial Recognition by US Agencies Called 'Disturbing'"
-    excerpt: "Digital rights advocates reacted harshly Thursday to a new internal U.S. government report detailing how ten federal agencies have plans to greatly expand their reliance on facial recognition in the years ahead."
-    publishedDateTime: 2021-08-26T16:53:00Z
-    webUrl: "https://www.commondreams.org/news/2021/08/26/planned-expansion-facial-recognition-us-agencies-called-disturbing"
-    type: article
-    provider:
-      name: Common Dreams
-      domain: commondreams.org
-    quality: 37
-    images:
-      - url: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2021-08/face-recognition-Getty1080200068-1300x681.jpg?h=319522b7&itok=fxTdPR8d"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Federal Agencies Mostly Use Facial Recognition Tech for Digital Access"
     excerpt: "The most popular uses for facial recognition technology (FRT) by federal agencies are cybersecurity and digital access, according to a new report by the United States Government Accountability Office. The GAO surveyed 24 agencies about their FRT activities ..."
     publishedDateTime: 2021-08-26T20:35:00Z

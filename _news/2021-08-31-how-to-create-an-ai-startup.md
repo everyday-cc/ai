@@ -6,7 +6,7 @@ publishedDateTime: 2021-08-31T07:24:00Z
 originalUrl: "https://www.analyticsinsight.net/how-to-create-an-ai-startup/"
 webUrl: "https://www.analyticsinsight.net/how-to-create-an-ai-startup/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/AI-10.jpg"
@@ -70,20 +71,6 @@ related:
         width: 1181
         height: 886
         isCached: true
-  - title: "AI might help agencies make workforce decisions, and the ethical issues that raises"
-    excerpt: "Hodan Omaar of the ITIF thinks public sector employers can become responsible early adopters of AI for workforce decisions."
-    publishedDateTime: 2021-08-26T15:39:00Z
-    webUrl: "https://federalnewsnetwork.com/artificial-intelligence/2021/08/ai-might-help-agencies-make-workforce-decisions-and-the-ethical-issues-that-raises/"
-    type: article
-    provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 48
-    images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2018/03/ThinkstockPhotos-851956310.jpg"
-        width: 3865
-        height: 2576
-        isCached: true
   - title: "3 top AI stocks to buy right now"
     excerpt: "While artificial intelligence (AI) has already transformed how many companies work, it is expected to make further advancements that rely on machine learning and deep learning, among other factors. So, we think it could be wise to bet on top AI stocks ..."
     publishedDateTime: 2021-08-29T09:45:00Z
@@ -107,6 +94,6 @@ related:
       domain: dailyherald.com
     quality: 37
 
-secured: "+9YwDJ7UMeuoSVelInykofXbjWIDeOICpLoqLAd//CEZ803gtiTv3jtHSXeAiuZA2duhCMsT+3ql95QZOJG/wxnlnYllcyYUxJe3PDDfKmbJuVJDDiELKT6YMB0itk+h199dfeaEHrWaKur5xBLJ7v0SoHrU8jaMi2fW8eaLsOU9CLpnesR0bX/4pePZRSO0wVxYl+adAdn8TtdTueRNS2rdU3+voawL7bzh1PB5ZwQLhTQ2fRj1o/nsvSXXdb51zmQZWPvNH8qP4rNP5K3D4OPgMHGH9c14xy+E8AQZd4trvpi7P72a7PRPJ+o/y8yVvKKjc/UMAs1ZJZyTmOn91ftSA8zENFy+olki/3TW0l0=;H1XePsRG1fPdj7vFArbf7g=="
+secured: "J1R8TJ4gibuKxUIfUka3yEbSk0IJkREkrjBlTiHVqY3uh8vrFJBw+0joPc26q1h/7pPVvx42wA+z7blps9A4/Ilnszdwmt0YTcUo+IeGz+5L2orrc3+zrqTWN/ra/hQbQkupZeJxXtU50I3AmMYqHkkSnIGUH23/93GqGx+rYzx9NAE4m2SVtHQgkLSiP+LJn0Jb6wP680j3lhJPZyD5Ntr6weNPrettolXw8Rs4gsETMiOai6dAvojOrSdMStA444gLYQ7uUwzx9E4a9LZMFSW+4n5IkyNs21UuzfMtP3EOr84sRavdGAUGFYp9QXZjZidLg9Ej47Iz4PmL2expd5BX+l1egGFDgDOHQmH1eKxcCMbPqxHSsRnIch0AHWhEyiM/3tQcQxnTVoiyCUCZCFZ4wt12C8QCjGKxE9RPnAnOpQTAyaOmF7YNBGhZOBJkuvQ91h1eQmwN0lEwx0JyU9tCXS29VXHxFJKq7D/xxyNOtPQx5aK9nRmIHMogcGJyQS5Y3eOCmerZdo5IQPKu9Q==;SMjCqCOs5ikGZoA+KNNDPw=="
 ---
 

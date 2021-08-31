@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "How to wrangle data and manage your AI pipeline"
-    excerpt: "Managing your AI and machine learning pipelines starts with data sourcing, data curation, and data annotation."
-    publishedDateTime: 2021-08-26T16:10:00Z
-    webUrl: "https://venturebeat.com/2021/08/26/how-to-wrangle-data-and-manage-your-ai-pipeline/"
-    ampWebUrl: "https://venturebeat.com/2021/08/26/how-to-wrangle-data-and-manage-your-ai-pipeline/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/26/how-to-wrangle-data-and-manage-your-ai-pipeline/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/12/istock-636754212-e1629925759866.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Teaching AI to Dance"
     excerpt: "The work will culminate in a live AI dance performance with the Kennesaw State University School of Dance faculty and students. The goal is to “develop a co-creative AI that approaches expert-level participatory sensemaking in contemporary dance and train this agent to create a curated improvisational partner,"
     publishedDateTime: 2021-08-27T04:00:00Z

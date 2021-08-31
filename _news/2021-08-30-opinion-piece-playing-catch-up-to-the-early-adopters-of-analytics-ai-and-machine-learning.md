@@ -51,6 +51,20 @@ related:
         width: 1200
         height: 1042
         isCached: true
+  - title: "Playing catch-up to the early adopters of AI and machine learning"
+    excerpt: "Early adopters of data analytics, artificial intelligence and machine learning tools have found themselves in a position of favour in today's rapidly accelerating digital"
+    publishedDateTime: 2021-08-30T15:19:00Z
+    webUrl: "https://www.bizcommunity.com/Article/196/852/219535.html"
+    type: article
+    provider:
+      name: Bizcommunity
+      domain: bizcommunity.com
+    quality: 54
+    images:
+      - url: "https://biz-file.com/c/2108/625807.jpg"
+        width: 700
+        height: 364
+        isCached: true
   - title: "Army Wants to Install Facial Recognition, Video Analytics at Child Development Centers"
     excerpt: "The Army wants to use facial recognition and advanced machine learning algorithms to monitor kids at base Children Development Centers and plans to launch a pilot program at Fort Jackson in the near future."
     publishedDateTime: 2021-08-27T17:25:00Z

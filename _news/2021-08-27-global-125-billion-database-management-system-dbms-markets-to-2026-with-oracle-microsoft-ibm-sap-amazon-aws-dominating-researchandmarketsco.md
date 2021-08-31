@@ -42,6 +42,22 @@ related:
         width: 640
         height: 400
         isCached: true
+  - title: "Artificial Intelligence in Construction Market is Booming Worldwide | IBM, Microsoft, Oracle"
+    excerpt: "Latest released the research study on Global Artificial Intelligence in Construction Market offers a detailed overview of the factors influencing the global business scope Artificial Intelligence in Construction Market research report shows the latest market insights current situation analysis with"
+    publishedDateTime: 2021-08-31T06:15:00Z
+    webUrl: "https://www.openpr.com/news/2373861/artificial-intelligence-in-construction-market-is-booming"
+    ampWebUrl: "https://www.openpr.com/amp/2373861/artificial-intelligence-in-construction-market-is-booming"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2373861/artificial-intelligence-in-construction-market-is-booming"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 63
+    images:
+      - url: "https://cdn.openpr.com/U/8/U831667007_g.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "nMw1lXT+r0jUl0wFsdBnTXl+p49kYsrRpgwvI8pP/3Zhssk6CV6yuGJmOdYvw3zUcmkNBVOpGvnhl+C3U5la2E6jvz/zFUnDyg4SPahxdbUBGMOGb5WDj/bRiBOJq8QJzB/oStJZg6XsGv0XxVmHS8qzi1yCgmCgn96+7PPMXAleEMQ1UxQDYLMedwWiniIRvhhv7bAhZgSyGL5sEoNZ9eLmuTHdZxJ6J0znw786csnO43dfLOP5Dcq2gfbT0yhICrBvIBS8EszsH0dO5IZ9mK73e8jEmPMkP+/+gFG6+cIiv79SvmsSRB4mZwD0WJpB09oMDyb1sGcW/jNaUzUIbfosaRU5puAMevYl2r6meuQ=;gtQOH0lL+TghBODIzJxWOg=="
 ---

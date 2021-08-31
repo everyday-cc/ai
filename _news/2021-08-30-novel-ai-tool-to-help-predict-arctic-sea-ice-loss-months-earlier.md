@@ -40,15 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Artificial intelligence to help predict Arctic sea ice loss"
-    excerpt: "A new AI (artificial intelligence) tool is set to enable scientists to more accurately forecast Arctic sea ice conditions months into the future. The improved predictions could underpin new early-warning systems that protect Arctic wildlife and coastal communities from the impacts of sea ice loss."
-    publishedDateTime: 2021-08-26T15:32:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/08/210826081706.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 47
   - title: "Artificial intelligence to predict Arctic sea ice loss"
     excerpt: "A new artificial intelligence (AI) tool has been developed to enable more accurate prediction of Arctic sea ice conditions months into the future."
     publishedDateTime: 2021-08-27T09:16:00Z

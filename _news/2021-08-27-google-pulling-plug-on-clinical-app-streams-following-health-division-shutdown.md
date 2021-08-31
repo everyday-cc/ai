@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.co.za/google-deepmind-health-app-strea
 webUrl: "https://www.businessinsider.co.za/google-deepmind-health-app-streams-technology-2021-8"
 type: article
 quality: 20
-heat: -1
+heat: 20
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google confirms it’s pulling the plug on Streams, its UK clinician support app"
-    excerpt: "Google is infamous for spinning up products and killing them off, often in very short order. It’s an annoying enough habit when it’s stuff like messaging apps and games. But the tech giant’s ambitions stretch into many domains that touch human lives these days."
-    publishedDateTime: 2021-08-26T15:12:00Z
-    webUrl: "https://techcrunch.com/2021/08/26/google-confirms-its-pulling-the-plug-on-streams-its-uk-clinician-support-app/"
-    ampWebUrl: "https://techcrunch.com/2021/08/26/google-confirms-its-pulling-the-plug-on-streams-its-uk-clinician-support-app/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/26/google-confirms-its-pulling-the-plug-on-streams-its-uk-clinician-support-app/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 70
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2016/05/p1040482.jpg?w=1024"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Google is pulling the plug on Streams, the clinical app developed by DeepMind, following health division shutdown"
     excerpt: "Google is shutting down Streams, a mobile app designed to help clinicians track patients' conditions, two years after acquiring it from portfolio firm DeepMind. The decision to take Streams ..."
     publishedDateTime: 2021-08-27T11:05:00Z

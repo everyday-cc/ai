@@ -57,20 +57,6 @@ related:
         width: 1280
         height: 827
         isCached: true
-  - title: "Tesla Plans To Have Its Full Self-Driving Beta Ready For Public In Four Weeks"
-    excerpt: "Tesla plans to have its Full Self-Driving beta ready for the public in four weeks. Here are all the details on this."
-    publishedDateTime: 2021-08-26T15:11:00Z
-    webUrl: "https://www.redmondpie.com/tesla-plans-to-have-its-full-self-driving-beta-ready-for-public-in-four-weeks/"
-    type: article
-    provider:
-      name: Redmond Pie
-      domain: redmondpie.com
-    quality: 36
-    images:
-      - url: "https://cdn.redmondpie.com/wp-content/uploads/2021/07/tesla-fsd-1200.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Passengers want self-driving cars to be like them"
     excerpt: "Recent studies have shown that people have negative attitudes about using autonomous systems because they don’t trust them. Moreover, research shows a human-centred approach in autonomy is perceived as more trustworthy by users."
     publishedDateTime: 2021-08-31T07:12:00Z

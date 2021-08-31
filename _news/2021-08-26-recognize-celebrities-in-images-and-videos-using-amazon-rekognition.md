@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/easily-recognize-cel
 webUrl: "https://aws.amazon.com/blogs/machine-learning/easily-recognize-celebrities-in-images-and-videos-using-amazon-rekognition/"
 type: article
 quality: 106
-heat: 156
+heat: 146
 published: true
 
 provider:
@@ -88,15 +88,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Athreon Launches Front-End Speech Recognition Solution"
-    excerpt: "Athreon, a leading business and knowledge process outsourcing company, announced today the launch of its new front-end speech recognition solution for healthcare. Athreon's speech recognition empowers physicians to focus on patient care versus administrative,"
-    publishedDateTime: 2021-08-26T16:39:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-athreon-launches-front-end-speech-recognition-solution-/2021/08/26/9438228.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "j+CXydhnvSXr/DGVWmbVGPISvGoelbrioE+BkZ3ryJqTEzwiKmW7iNmio/H/1kQUrZPKkU54r5F8QDvp0D4fq678ewTcrYTlti6rxdPptbxg75CQoyJwe9HRLMLkE19id09jBDsT5vVhkbdaiy7eOCI3jxm9qAjJcPMuVe0JuvqQ0OQpIIsIMtKz4PNRAnR++yfpDL+9e0LvjcPEPAOIADPhsA6xnGa3WZK/7vv5KXuaMuqBe1djEBztSz9ytQZZ9P8xJr/SXO4lsi0Tz3zIsJZuAvShs/oZnoJAk9hC4956W5n1ad7F8jOVWmKG1OPeq3HoYVqxfHiJbuQeZM7jq/qrn07HmpwN9wg3z8fVfdg=;nZ+L8OT2O9w20CTp+g0u3g=="
 ---

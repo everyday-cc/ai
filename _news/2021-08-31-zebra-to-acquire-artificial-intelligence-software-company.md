@@ -66,19 +66,19 @@ related:
         width: 1181
         height: 886
         isCached: true
-  - title: "AI might help agencies make workforce decisions, and the ethical issues that raises"
-    excerpt: "Hodan Omaar of the ITIF thinks public sector employers can become responsible early adopters of AI for workforce decisions."
-    publishedDateTime: 2021-08-26T15:39:00Z
-    webUrl: "https://federalnewsnetwork.com/artificial-intelligence/2021/08/ai-might-help-agencies-make-workforce-decisions-and-the-ethical-issues-that-raises/"
+  - title: "How To Create An AI Startup"
+    excerpt: "Artificial intelligence is the future of the world, according to many experts. With the rise of AI-enabled chatbots, voice assistants, and driverless cars, it’s hard to argue. Here are the essential tips for founding an AI startup."
+    publishedDateTime: 2021-08-31T07:24:00Z
+    webUrl: "https://www.analyticsinsight.net/how-to-create-an-ai-startup/"
     type: article
     provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 48
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
     images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2018/03/ThinkstockPhotos-851956310.jpg"
-        width: 3865
-        height: 2576
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/AI-10.jpg"
+        width: 900
+        height: 500
         isCached: true
   - title: "3 top AI stocks to buy right now"
     excerpt: "While artificial intelligence (AI) has already transformed how many companies work, it is expected to make further advancements that rely on machine learning and deep learning, among other factors. So, we think it could be wise to bet on top AI stocks ..."
@@ -91,20 +91,6 @@ related:
       name: TheLadders.com
       domain: theladders.com
     quality: 37
-  - title: "How To Create An AI Startup"
-    excerpt: "Artificial intelligence is the future of the world, according to many experts. With the rise of AI-enabled chatbots, voice assistants, and driverless cars, it’s hard to argue. Here are the essential tips for founding an AI startup."
-    publishedDateTime: 2021-08-31T07:24:00Z
-    webUrl: "https://www.analyticsinsight.net/how-to-create-an-ai-startup/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 37
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/AI-10.jpg"
-        width: 900
-        height: 500
-        isCached: true
 
 secured: "6tV/cHPQjyAaYq3gDP7/Xj8GQj2xqzWcBKgpLEbcA7Zi1flZFKHdxFL2Bh2lo9IuQqFN/UhA3hyoHj+rAgDz4s3XJA7gxbThEGBRArt5Q6WFQEYFpyHY5Jiux8HPh5BUrgMFliCi7bMLsDxQKD7rFFi3EkH01EGfcAYxX1Eo2+MMPytmARb0oyoovV70lTYjpwyAYO1BzWbvIdu+AioHZ6XlIPpNG4V6Q8mPfSA/aalT7v1P3cOwe1BebCPtTFsR2ba+p89gqu3xCXP4nInHCBy3LVedD+zceCjaCksOe7EDSm4q554Id109N67qxVBeQIjQN+fP58FFdrgi6SWWGK81kA4nE8uZFOAFE8xo1lc=;sL7Ma22ygOYiX/xRCOhv3g=="
 ---

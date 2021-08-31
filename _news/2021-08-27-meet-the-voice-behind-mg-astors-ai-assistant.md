@@ -9,8 +9,8 @@ ampWebUrl: "https://www.team-bhp.com/news/meet-voice-behind-mg-astors-ai-assista
 cdnAmpWebUrl: "https://www-team--bhp-com.cdn.ampproject.org/c/s/www.team-bhp.com/news/meet-voice-behind-mg-astors-ai-assistant?amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Team-BHP.com
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Otter.ai expands reach of Otter Assistant for video chats"
+    excerpt: "The virtual assistant, rolled out for Zoom users in May, gains support for three more platforms: Microsoft Teams, Google Meet and Cisco Webex."
+    publishedDateTime: 2021-08-27T07:58:00Z
+    webUrl: "https://www.computerworld.com/article/3619630/otterai-expands-reach-of-otter-assistant-for-video-chats.html"
+    ampWebUrl: "https://www.computerworld.com/article/3619630/otterai-expands-reach-of-otter-assistant-for-video-chats.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3619630/otterai-expands-reach-of-otter-assistant-for-video-chats.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 57
+    images:
+      - url: "https://images.idgesg.net/images/article/2021/05/otter-assistant_2-100889453-large.jpg?auto=webp"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "MG Motor Announces First Woman Paralympic Medalist Deepa Malik To Voice AI Assistance"
     excerpt: "MG Motor has said that Khel Ratna Awardee Deepa Malik will be the voice behind the soon-to-be-launched SUV, MG Astor's personal AI assistant feature."
     publishedDateTime: 2021-08-30T07:49:00Z

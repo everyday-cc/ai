@@ -89,15 +89,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Athreon Launches Front-End Speech Recognition Solution"
-    excerpt: "Athreon, a leading business and knowledge process outsourcing company, announced today the launch of its new front-end speech recognition solution for healthcare. Athreon's speech recognition empowers physicians to focus on patient care versus administrative,"
-    publishedDateTime: 2021-08-26T16:39:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-athreon-launches-front-end-speech-recognition-solution-/2021/08/26/9438228.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "pMKlwyjMOD4P33kvMV9HlUVf9103f00qYIqaKdWMhBkC6KllhzNnMM5V65X3gaY+pGX209lc2Gj8a6MaRr+sP67MAewnY6GPTuQXP9TVDddcL8iZxfks4EyR1sBslW9/QlRt+OOBcleBY2VnRllalOvyoWSysUpzKf4yuY+UaeMCdRG4f0I+PBK6Aj0MtafKA5eUzW87nvL+MssiSgnuPsIxQoouziwTzRwBtWwA2AeoSXymFrb3lSRAaZGDU0B6JLiasnNOVgm+KByTATxb4TCgPurDQJS1cRCyNL2t8uHORcRdrq8ghZjonLbWUnLQ6OAgY4tdQX1+Ypu4pfBkLWug5ypwi2wI9Wm3RDt8g9U=;hOBOPkDnm3EDqQTpv+7V6w=="
 ---

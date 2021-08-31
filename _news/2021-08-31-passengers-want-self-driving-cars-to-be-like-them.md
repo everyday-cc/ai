@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Tesla Plans To Have Its Full Self-Driving Beta Ready For Public In Four Weeks"
-    excerpt: "Tesla plans to have its Full Self-Driving beta ready for the public in four weeks. Here are all the details on this."
-    publishedDateTime: 2021-08-26T15:11:00Z
-    webUrl: "https://www.redmondpie.com/tesla-plans-to-have-its-full-self-driving-beta-ready-for-public-in-four-weeks/"
-    type: article
-    provider:
-      name: Redmond Pie
-      domain: redmondpie.com
-    quality: 36
-    images:
-      - url: "https://cdn.redmondpie.com/wp-content/uploads/2021/07/tesla-fsd-1200.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "lhlXU/CuFtLkS42RbqrImLw+UCX7Plb0CmGSd1x3zGyespsjn6JgyBEm/46yblLToZlvdtiGsFuIf4ml95s8QfzVIt+vP1uEYC0JCxmbvyOQqpjJAK+0dKk/zWaIfiVamG086/LdjVGs/qeICDcJnfX4tFFFQCFWGgCtPx2DcRAcTtHF49DCsaw3j+midhkAn+ZJymBFiwwFtFZ+RITKVFawAugqzCT1DybFzNfBjBLm+wiSoiz+jLKRGZJ0oQtbAF6hyvN7X8P7zGiaY206ozJpmtsyTodM5SCMNtkhMhPa/4K7QfnJjRusD56eRAETZqvnLPO0iNPgfKAIknG676uGjtqDfZeRyFXw9FL0LRM=;rzKaqhlz3BN36FpHcoJiyw=="
 ---
