@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2021/08/31/robot-truck-star
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2021/08/31/robot-truck-startup-gatik-raises-85-million-in-koch-led-funding-round/amp/"
 type: article
 quality: 104
-heat: 115
+heat: 125
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Palo Alto self-driving truck startup Gatik raises $85M, expands to Texas"
+    excerpt: "California's Gatik, which has more than $100 million in funding, said Tuesday it’s expanding with a new facility in Fort Worth."
+    publishedDateTime: 2021-08-31T21:11:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/08/31/self-driving-truck-startup-gatik-raises-85m-expa.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 18
 
 secured: "WF6Mehi3isEDwKyILcgv8gJZC3ZZMGp2ke2sYLpNBK+H27Y0VGX8e+XQLPIFBVhysyV7wN8UEnAki41RMLfXj8d6TbeJV4mBX3yzmtF/U3KYBlylDD0Sd54m30GXSHRwLm9pqBQIMi5wOCugA3PB3h6sB3Cu6yX5jKnxeO6zON4t49PRC6UKmnrUtxNXFbKbPiHPYrmHhUPq5AcoOtTyc+YY/OhMwaJSl++nwqnHnjkzbTujNJVaVphMVD8lHx/b39vcnBocq7z/KnI/OVaSbIGeescNNE9KEBUsEbcfdgNnnFtKHOahJwqdjxAI9lLQSrEkYpJMiSmvlnJ92npfZ8USrmzab7dE1POyA0COIH54DkTDkCSw8WPAwyp3v9Pv//b9YtouQjNEtIMwxMQuTkTTR2gq4arB85w4GB8SFsr95zmRPE8w9UdvPODNzFQbTdF/6KvKzA0SldP0C+3rsu2JWb4zr96Cbebnq9huu8VMkeM07ecEuzBVmGSCybdn7dJo36PodidEae6YFRzQKA==;S9XpAOT1VAmMG26bKFqE2A=="
 ---

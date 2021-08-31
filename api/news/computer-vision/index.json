@@ -10,7 +10,7 @@
       "originalUrl": "https://www.openpr.com/news/2375485/facial-recognition-market-growth-registering-a-cagr-of-13-5",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -88,21 +88,21 @@
       ]
     },
     {
-      "path": "_news/2021-08-30-chinas-new-data-laws-are-a-risk-factor-in-a-facial-recognition-giants-ipo-filing.md",
-      "title": "China’s new data laws are a risk factor in a facial-recognition giant’s IPO filing",
-      "excerpt": "The firm's lengthy list of risk factors is a reminder that Chinese tech champions face rising scrutiny in both Beijing and Washington.",
+      "path": "_news/2021-08-31-report-at-least-18-federal-agencies-use-facial-recognition-technology.md",
+      "title": "Report: At least 18 federal agencies use facial recognition technology",
+      "excerpt": "At least 18 federal agencies reported using facial recognition technology (FRT) over the last year and most said they plan to expand their use of it over the next few years, according to a new report by the U.",
       "sourceUrl": null,
-      "webUrl": "https://qz.com/2053040/chinas-new-data-laws-are-a-risk-factor-in-sensetimes-ipo-filing/",
-      "originalUrl": "https://qz.com/2053040/chinas-new-data-laws-are-a-risk-factor-in-sensetimes-ipo-filing/",
+      "webUrl": "https://www.wpxi.com/news/top-stories/report-least-18-federal-agencies-use-facial-recognition-technology/DSNTSFGEOBAD5P3ONW3E2JYT2A/",
+      "originalUrl": "https://www.wpxi.com/news/top-stories/report-least-18-federal-agencies-use-facial-recognition-technology/DSNTSFGEOBAD5P3ONW3E2JYT2A/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://cms.qz.com/wp-content/uploads/2020/02/1581746326404096.png?quality=75&strip=all&w=1200&h=630&crop=1",
-          "width": 875,
-          "height": 492,
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/cmg/CTAAWBLNTVHLRIAUVMFEA6YRPQ.jpg",
+          "width": 731,
+          "height": 411,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -110,23 +110,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://qz.com/2053040/chinas-new-data-laws-are-a-risk-factor-in-sensetimes-ipo-filing/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/2053040/chinas-new-data-laws-are-a-risk-factor-in-sensetimes-ipo-filing/amp/",
-      "publishedDateTime": "2021-08-30T03:57:00-07:00",
+      "ampWebUrl": "https://www.wpxi.com/news/top-stories/report-least-18-federal-agencies-use-facial-recognition-technology/DSNTSFGEOBAD5P3ONW3E2JYT2A/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-wpxi-com.cdn.ampproject.org/c/s/www.wpxi.com/news/top-stories/report-least-18-federal-agencies-use-facial-recognition-technology/DSNTSFGEOBAD5P3ONW3E2JYT2A/?outputType=amp",
+      "publishedDateTime": "2021-08-30T10:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "WPXI",
+        "domain": "wpxi.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -226,21 +217,21 @@
       ]
     },
     {
-      "path": "_news/2021-08-27-us-government-agencies-plan-to-increase-facial-recognition.md",
-      "title": "US government agencies plan to increase facial recognition",
-      "excerpt": "The majority of US federal agencies are using some form of facial recognition technology, according to a study by the Government Accountability Office (GAO).",
+      "path": "_news/2021-08-27-the-free-speech-case-for-facial-recognition-opinion.md",
+      "title": "The Free-Speech Case for Facial Recognition | Opinion",
+      "excerpt": "The right to communicate anonymously is important, but most would agree it shouldn't extend to people who commit violent crimes.",
       "sourceUrl": null,
-      "webUrl": "https://www.research-live.com/article/news/us_government_agencies_plan_to_increase_facial_recognition/id/5088462",
-      "originalUrl": "https://www.research-live.com/article/news/us_government_agencies_plan_to_increase_facial_recognition/id/5088462",
+      "webUrl": "https://www.newsweek.com/free-speech-case-facial-recognition-opinion-1623006",
+      "originalUrl": "https://www.newsweek.com/free-speech-case-facial-recognition-opinion-1623006",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 151,
       "tags": null,
       "images": [
         {
-          "url": "https://www.research-live.com/img/MRS_EM_RGB.jpg",
-          "width": 1000,
-          "height": 581,
+          "url": "https://d.newsweek.com/en/full/1880796/charlottesville-rally-anniversary.jpg",
+          "width": 2500,
+          "height": 1667,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -248,14 +239,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.research-live.com/amp-page.html?id=5088462&name=us-government-agencies-plan-to-increase-facial-recognition",
-      "cdnAmpWebUrl": "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5088462&name=us-government-agencies-plan-to-increase-facial-recognition",
-      "publishedDateTime": "2021-08-27T03:45:00-07:00",
+      "ampWebUrl": "https://www.newsweek.com/free-speech-case-facial-recognition-opinion-1623006?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/free-speech-case-facial-recognition-opinion-1623006?amp=1",
+      "publishedDateTime": "2021-08-27T03:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "research",
-        "domain": "research-live.com",
-        "images": null,
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -264,8 +264,9 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
-        "AI"
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
       ]
     },
     {

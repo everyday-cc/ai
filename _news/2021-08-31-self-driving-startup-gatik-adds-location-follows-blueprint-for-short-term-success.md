@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Palo Alto self-driving truck startup Gatik raises $85M, expands to Texas"
+    excerpt: "California's Gatik, which has more than $100 million in funding, said Tuesday it’s expanding with a new facility in Fort Worth."
+    publishedDateTime: 2021-08-31T21:11:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/08/31/self-driving-truck-startup-gatik-raises-85m-expa.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 18
 
 secured: "MZJIrGNGDz8Uzwhyr6wIb1TZvxtS2RRUP9mWlOqikCWznaeWFWE2NFebgbHBpY8cIJf365HtqpkSFQUZwHr/onJMtnFHWn2mj7IvEYrGwZZQP05rz9nCsU2ygYs4mNr8xzOgX5m0o30aXL5nYlaGYgN3ab3SjzUZOwEgkefg3rlUPHk4isObcptgfLcqI6Bpd6uuWnW9nxhHWIJw/7TLLaJvYFM6Ecu303Brw5hywC7GULt08XhDmMADXlCTqHM/Gg/+6PBVUzIbaraLpkO8B3Qj3WloJoKJ0NYap1E9UDnt18K8MHXNNeI/d1s3X0Nry5PpqYKovqsM6aZjnQkHXSwcg+V4eY0hmRFY5T91v0k=;ruddiE/EqAfmwpwxVNxDJg=="
 ---

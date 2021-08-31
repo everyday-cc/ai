@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wpxi.com/news/top-stories/report-least-18-federal-agenci
 cdnAmpWebUrl: "https://www-wpxi-com.cdn.ampproject.org/c/s/www.wpxi.com/news/top-stories/report-least-18-federal-agencies-use-facial-recognition-technology/DSNTSFGEOBAD5P3ONW3E2JYT2A/?outputType=amp"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: WPXI
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "US government agencies plan to increase facial recognition"
-    excerpt: "The majority of US federal agencies are using some form of facial recognition technology, according to a study by the Government Accountability Office (GAO)."
-    publishedDateTime: 2021-08-27T10:45:00Z
-    webUrl: "https://www.research-live.com/article/news/us_government_agencies_plan_to_increase_facial_recognition/id/5088462"
-    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5088462&name=us-government-agencies-plan-to-increase-facial-recognition"
-    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5088462&name=us-government-agencies-plan-to-increase-facial-recognition"
-    type: article
-    provider:
-      name: research
-      domain: research-live.com
-    quality: 59
-    images:
-      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
-        width: 1000
-        height: 581
-        isCached: true
   - title: "10 federal agencies want to expand their use of facial recognition despite widespread concerns"
     excerpt: "The federal government wants to expand the use of facial recognition technology in the future, despite widespread criticism of it."
     publishedDateTime: 2021-08-27T20:08:00Z
@@ -58,20 +42,6 @@ related:
       - url: "https://uploads.dailydot.com/2021/08/Federal-Government-Plans-To-Grow-Its-Use-Of-Facial-Recognition-Technology.jpg?auto=compress%2Cformat&ixlib=php-3.3.0"
         width: 2000
         height: 1000
-        isCached: true
-  - title: "Team to monitor babies in the NICU with facial recognition tech"
-    excerpt: "A team of researchers from the University of South Australia (UniSA) has created artificial intelligence (AI)-based facial recognition technology for monitoring premature babies in neonatal intensive care units (NICUs)."
-    publishedDateTime: 2021-08-29T17:07:00Z
-    webUrl: "https://insights.globalspec.com/article/17245/team-to-monitor-babies-in-the-nicu-with-facial-recognition-tech"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 39
-    images:
-      - url: "https://insights.globalspec.com/images/assets/245/17245/UNISA.png"
-        width: 1159
-        height: 470
         isCached: true
   - title: "Government agencies used Clearview facial recognition in 24 countries"
     excerpt: "Dozens of government-affiliated agencies around the world, including police departments and universities, have trialled Clearview AI's facial-recognition system, according to BuzzFeed News. The publication reviewed internal data from Clearview and found that 88 government agencies in 24 countries (not including the USA) had used the firm's facial recognition system,"

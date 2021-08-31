@@ -87,6 +87,20 @@ related:
         width: 600
         height: 599
         isCached: true
+  - title: "Open Finance Is All Set To Become The Next Frontier In Fintech"
+    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
+    publishedDateTime: 2021-08-31T21:57:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_fintech-news-today/open-finance-is-all-set-to-become-the-next-frontier-in-fintech/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 39
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/6f0b9837f87a6b9370971ed25b30abad.png"
+        width: 759
+        height: 675
+        isCached: true
   - title: "How the Indian Diaspora Helps Fuel Fintech Innovation in the UAE"
     excerpt: "Recent news headlines have underscored the long-standing relationship between fintechs in India and the UAE. This week, we learned that Indian payment solution provider PayMate has teamed up with both Visa and Citi to automate business payments in the UAE."
     publishedDateTime: 2021-08-27T20:54:00Z

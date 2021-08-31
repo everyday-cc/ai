@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Yandex buys out Uber’s stake in Yandex Self-Driving Group, Eats, Lavka and Delivery for $1B"
+    excerpt: "The total cost of the deal came to $1 billion, giving the Russian company 100% ownership over all four businesses."
+    publishedDateTime: 2021-08-31T20:59:00Z
+    webUrl: "https://techcrunch.com/2021/08/31/yandex-buys-out-ubers-stake-in-yandex-self-driving-group-eats-lavka-and-delivery-for-1b/"
+    ampWebUrl: "https://techcrunch.com/2021/08/31/yandex-buys-out-ubers-stake-in-yandex-self-driving-group-eats-lavka-and-delivery-for-1b/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/31/yandex-buys-out-ubers-stake-in-yandex-self-driving-group-eats-lavka-and-delivery-for-1b/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 64
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/04/yandex.jpg?w=1024"
+        width: 1024
+        height: 546
+        isCached: true
   - title: "Yandex To Acquire Uber's Interest In Eats, Lavka, Delivery And Self-Driving Businesses"
     excerpt: "Yandex (YNDX) and Uber (UBER) have agreed to restructure the ownership of their joint ventures, MLU B.V. and Yandex Self-Driving B.V."
     publishedDateTime: 2021-08-31T10:48:00Z

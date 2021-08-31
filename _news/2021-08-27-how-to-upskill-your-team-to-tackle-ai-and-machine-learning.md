@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/27/how-to-upskill-your-team-to-tackl
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/27/how-to-upskill-your-team-to-tackle-ai-and-machine-learning/amp/"
 type: article
 quality: 106
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Teaching AI to Dance"
-    excerpt: "The work will culminate in a live AI dance performance with the Kennesaw State University School of Dance faculty and students. The goal is to “develop a co-creative AI that approaches expert-level participatory sensemaking in contemporary dance and train this agent to create a curated improvisational partner,"
-    publishedDateTime: 2021-08-27T04:00:00Z
-    webUrl: "https://rh.gatech.edu/news/650158/teaching-ai-dance"
-    type: article
-    provider:
-      name: Georgia Tech News Center
-      domain: gatech.edu
-    quality: 39
-    images:
-      - url: "https://rh.gatech.edu/sites/default/files/styles/740x416/public/images/mercury/brian_magerko_preferred_websized_169.jpg"
-        width: 740
-        height: 416
-        isCached: true
   - title: "How enabling data and AI at scale will transform your organization"
     excerpt: "CIO’s, CDO’s and other data and technology leaders have realized that their legacy IT platforms are unable to scale and meet the increasing demands for better analytics and AI. As a result, they are looking to transform how their organizations use and ..."
     publishedDateTime: 2021-08-29T08:32:00Z

@@ -75,15 +75,6 @@ related:
         width: 664
         height: 664
         isCached: true
-  - title: "Sun Life Taps AWS as Its Long-Term Strategic Cloud Provider to Transform Digital Services"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Sun Life (TSX: SLF) (NYSE: SLF) has selected AWS as"
-    publishedDateTime: 2021-08-27T04:01:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210826005687/en/Sun-Life-Taps-AWS-as-Its-Long-Term-Strategic-Cloud-Provider-to-Transform-Digital-Services"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 12
 
 secured: "hHn0QlJrZLFqZksMDTGT+q2llgKHnR7ixsz6enC1A9kH0WTpYzz3S0vl6BR7YPfrgttn0VSUdKoCPD9iQbsZeTcdzwmqvogq5F9PWQYfAG9DDJLotwjWfmrPrhl8sY6CGnpiJuoLhKChB6T+Nm/ULWw/0ursoWpRpmZabgabfKAQ7EUKW6g6jWZc9lf+5Y3a+ppBg8bl/HqSybK3DPtBFp1H35OMkNFJcQgKJejpn49/qJfl4r5lbOx+kTTFx1LB8+uRowL7oB9aLT1ny98KZ2/vklhP4zwmd0Rmz9iEhi/0flKuM3bY7gtMFwBIozVDwu8gwQHQ2alMCC41/X4NeaAmMhB7sTwCbSorDCWErxc=;XiLO7M68YGzoDesIPmLdMw=="
 ---

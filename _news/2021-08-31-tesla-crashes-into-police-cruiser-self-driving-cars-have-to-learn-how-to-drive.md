@@ -9,8 +9,8 @@ ampWebUrl: "https://www.barrons.com/amp/articles/tesla-crashes-into-police-cruis
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-crashes-into-police-cruiser-self-driving-cars-have-to-learn-how-to-drive-51630360830"
 type: article
 quality: 54
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: Barron's
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla survey shows take rate for Full Self-Driving package is surprisingly low"
+    excerpt: "A large survey of Tesla owners gives us probably the best idea of the take rate for the Full Self-Driving package. It’s an important metric for Tesla and it is surprisingly low. Or… is it? Tesla’s Full Self-Driving (FSD) package has been controversial for a few reasons."
+    publishedDateTime: 2021-08-31T20:13:00Z
+    webUrl: "https://electrek.co/2021/08/31/tesla-survey-take-rate-full-self-driving-package/"
+    ampWebUrl: "https://electrek.co/2021/08/31/tesla-survey-take-rate-full-self-driving-package/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/31/tesla-survey-take-rate-full-self-driving-package/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 85
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "What the feds’ investigation into Tesla’s Autopilot means for future of self-driving cars"
     excerpt: "In addition to its Autopilot capabilities, Tesla has been offering what it calls “full self-driving” features that include autopark and auto lane change. Since its first offering of the Autopilot system and other self-driving features, Tesla has ..."
     publishedDateTime: 2021-08-29T19:56:00Z
@@ -56,20 +72,6 @@ related:
       - url: "https://img.manufacturing.net/files/base/indm/multi/image/2021/08/MM_259_Thumb.6126549164c0b.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Passengers want self-driving cars to be like them"
-    excerpt: "Recent studies have shown that people have negative attitudes about using autonomous systems because they don’t trust them. Moreover, research shows a human-centred approach in autonomy is perceived as more trustworthy by users."
-    publishedDateTime: 2021-08-31T07:12:00Z
-    webUrl: "https://gadget.co.za/passengers-want-self-driving-cars-to-be-like-them/"
-    type: article
-    provider:
-      name: gadget.co.za
-      domain: gadget.co.za
-    quality: 24
-    images:
-      - url: "https://i1.wp.com/gadget.co.za/wp-content/uploads/2021/08/self-driving-car.jpg?resize=600%2C332&#038;ssl=1"
-        width: 600
-        height: 332
         isCached: true
 
 secured: "Llm3h6aiWp6XY7WOr8V7lQhB1+pY0tP/fC7TZxzKTeHTsy4S+XZZdA/POLjGZ/xBqvJ0nh1OioopVFjHnJTDLMnUQXzrsrPGMbG3khCdm68fWB3ZfKFz4XLchfA9JwcFB6R2+A6Q+2dJZiMnokiMhJFpDmbETxZVHPjY7X5Bqv/wIpuX3UUUJvSTRUV+MB8rkFiy+WZD4+byOzlJ78AZik15cyPvtfGWyzaXCEp0gINriO6ERUHor10J1V759EIHcnL6TjQRGF78FGgtzktdCEb+N79lYdN79lEeZ3X9+FU2LazIvfj/BRNAarBpfJde03SfEZShTGd4m31w0Fx2z6aMZGYSED7AAS1jpMdbVDx0lTf/nWJFg1sZeGkU6BeCqVCgVhsiYWROgeDppOK9ajLBwxqCgs0WVK2aPhulxpy4daWMHIqdiMMn8f/wiF2sfjx7Fiyu357+IDtDnNn/F5MbJl0HIV5jYm6f9of56IE74KnVj8QVCMS6prRe7cvyx4FOsxzCEw+sjH/hROSaRQ==;Va9FU/OVCQQ6jgI24Ql5Zw=="

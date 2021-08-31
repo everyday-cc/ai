@@ -59,22 +59,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Global Speech Recognition Market to Reach $29.28 Billion by 2026, States the Report by Allied Market Research"
-    excerpt: "Allied Market Research published a research report on the speech recognition market. The findings of the report states that the global market for speech recognition is expected to reach $29.28 billion by 2026, manifesting a CAGR of 19.9% from 2019 to 2026."
-    publishedDateTime: 2021-08-27T03:36:00Z
-    webUrl: "https://www.openpr.com/news/2370242/global-speech-recognition-market-to-reach-29-28-billion"
-    ampWebUrl: "https://www.openpr.com/amp/2370242/global-speech-recognition-market-to-reach-29-28-billion"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2370242/global-speech-recognition-market-to-reach-29-28-billion"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 40
-    images:
-      - url: "https://cdn.openpr.com/U/8/U827193633_g.jpg"
-        width: 800
-        height: 418
-        isCached: true
   - title: "Global Mobile Speech Recognition Software Market 2021 Recent Scope, Growing Popularity and Emerging Trends in the Market"
     excerpt: "ReportsWeb analysts forecasts the latest report on “Global Mobile Speech Recognition Software Market (Covid-19) Impact and Analysis by 2026”, according to report; The Mobile Speech Recognition Software Market report covers the overall and all ..."
     publishedDateTime: 2021-08-29T09:54:00Z

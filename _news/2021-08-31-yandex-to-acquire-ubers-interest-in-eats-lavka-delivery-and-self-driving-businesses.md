@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/yandex-to-acquire-
 webUrl: "https://markets.businessinsider.com/news/stocks/yandex-to-acquire-uber-s-interest-in-eats-lavka-delivery-and-self-driving-businesses-1030769168"
 type: article
 quality: 26
-heat: 26
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "Yandex buys out Uber’s stake in Yandex Self-Driving Group, Eats, Lavka and Delivery for $1B"
+    excerpt: "The total cost of the deal came to $1 billion, giving the Russian company 100% ownership over all four businesses."
+    publishedDateTime: 2021-08-31T20:59:00Z
+    webUrl: "https://techcrunch.com/2021/08/31/yandex-buys-out-ubers-stake-in-yandex-self-driving-group-eats-lavka-and-delivery-for-1b/"
+    ampWebUrl: "https://techcrunch.com/2021/08/31/yandex-buys-out-ubers-stake-in-yandex-self-driving-group-eats-lavka-and-delivery-for-1b/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/31/yandex-buys-out-ubers-stake-in-yandex-self-driving-group-eats-lavka-and-delivery-for-1b/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 64
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/04/yandex.jpg?w=1024"
+        width: 1024
+        height: 546
+        isCached: true
   - title: "Yandex to buy Uber shares for $1bn in self-driving, mobility and foodtech"
     excerpt: "As well as Yandex acquiring full ownership of four companies, the deal opens the way for a further $2bn acquisition in the mobility sector."
     publishedDateTime: 2021-08-31T11:29:00Z

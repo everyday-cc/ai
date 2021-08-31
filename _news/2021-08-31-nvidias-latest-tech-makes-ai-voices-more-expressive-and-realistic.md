@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/08/31/nvidias-latest-tech-makes-ai-voice
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/31/nvidias-latest-tech-makes-ai-voices-more-expressive-and-realistic/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://qtxasset.com/fierceelectronics/1630421287/Interspeech%20Press%20Graphic.jpg?hpuWXoyncP1AHsu8QCYo2fGwPxvfXhII"
         width: 1999
         height: 1024
+        isCached: true
+  - title: "NVIDIA’s latest tech makes AI voices more expressive and realistic"
+    excerpt: "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading on FintechZoom"
+    publishedDateTime: 2021-08-31T20:46:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_nvidia-stock/nvidias-latest-tech-makes-ai-voices-more-expressive-and-realistic/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 39
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/09371cbda8d7ec87ba62fa6252f58268.jpeg"
+        width: 1200
+        height: 638
         isCached: true
   - title: "Global Artificial Intelligence Ai In Healthcare Market 2021 Latest Advancements and Business Outlook-NVIDIA Corporation (NVIDIA) (US)"
     excerpt: "Many creative start-ups that are rapidly developing have been featured ... Asia Pacific has one of the largest consumer bases and holds a substantial share of the Artificial Intelligence Ai In Healthcare Market. This region is also anticipated to expand ..."

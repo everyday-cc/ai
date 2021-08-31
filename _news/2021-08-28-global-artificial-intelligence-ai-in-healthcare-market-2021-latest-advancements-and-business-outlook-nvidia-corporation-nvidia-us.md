@@ -81,6 +81,20 @@ related:
         width: 1999
         height: 1024
         isCached: true
+  - title: "NVIDIA’s latest tech makes AI voices more expressive and realistic"
+    excerpt: "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading on FintechZoom"
+    publishedDateTime: 2021-08-31T20:46:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_nvidia-stock/nvidias-latest-tech-makes-ai-voices-more-expressive-and-realistic/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 39
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/09371cbda8d7ec87ba62fa6252f58268.jpeg"
+        width: 1200
+        height: 638
+        isCached: true
   - title: "Nvidia showcases latest research and advances in speech synthesis"
     excerpt: "Nvidia Corp. is closing the gap between synthesized speech and human voices with the launch of its most advanced conversational artificial intelligence models at the Interspeech 2021 conference today."
     publishedDateTime: 2021-08-31T13:00:00Z

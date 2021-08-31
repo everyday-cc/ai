@@ -52,15 +52,6 @@ related:
         width: 792
         height: 528
         isCached: true
-  - title: "Non-Profit Federated Learning Consortium (FLC) for Decentralized AI to Launch in Hong Kong, Receives $2M Pledge"
-    excerpt: "HONG KONG, CHINA / ACCESSWIRE / August 27, 2021 / Federated Learning Consortium (FLC) is a global non-profit organization headquartered in Hong"
-    publishedDateTime: 2021-08-27T03:40:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/non-profit-federated-learning-consortium-flc-for-decentralized-ai-to-launch-in-hong-kong-receives-2m-pledge-1030763028"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 29
 
 secured: "IszCWpLqwTECtrJy4FiJ0Z7H60+0OhGYJQHvaxHfg8cF3v024Lju5gz3syh3UEkkZm+fnrXdqxtcTy5icujRvWiIxa+8HuPXhUI8v10ug47NxqsAkdCByrzdBHhEjc3AblPSK2vaCZO8xWwJrTWenyEztxmJqrmESKgYf/BDeQC+TZpycIe2IWkxkwadc7ycRNdC8GD7W/OeHoqkwz2IfzzgGKq2LTXx4Dn2rH8o+UvF90puiM5daZ+Ou/7ypKFSJfy1kEvnHVNXHWLAr5geQCH7ybR7xfO4ArcAsTOvIX1xZ+Pdg/e92un9vMKoR1rOHCHc7xFm+pwXh7sNAkTzTmCr7wahP/lfHv1LDmRVNwY=;NPvkaJLMDMWwJQxatn5bew=="
 ---

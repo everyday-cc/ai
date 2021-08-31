@@ -71,6 +71,20 @@ related:
         width: 1999
         height: 1024
         isCached: true
+  - title: "NVIDIA’s latest tech makes AI voices more expressive and realistic"
+    excerpt: "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading on FintechZoom"
+    publishedDateTime: 2021-08-31T20:46:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_nvidia-stock/nvidias-latest-tech-makes-ai-voices-more-expressive-and-realistic/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 39
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/09371cbda8d7ec87ba62fa6252f58268.jpeg"
+        width: 1200
+        height: 638
+        isCached: true
   - title: "Global Artificial Intelligence Ai In Healthcare Market 2021 Latest Advancements and Business Outlook-NVIDIA Corporation (NVIDIA) (US)"
     excerpt: "Many creative start-ups that are rapidly developing have been featured ... Asia Pacific has one of the largest consumer bases and holds a substantial share of the Artificial Intelligence Ai In Healthcare Market. This region is also anticipated to expand ..."
     publishedDateTime: 2021-08-28T13:54:00Z

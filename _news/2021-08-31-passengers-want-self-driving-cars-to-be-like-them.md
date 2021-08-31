@@ -25,51 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla Crashes Into Police Cruiser. Self-Driving Cars Have To Learn How To Drive."
-    excerpt: "The stock brushed off the crash, which happened over the weekend in Florida. Still, the wreck shows that true self driving is hard to achieve."
-    publishedDateTime: 2021-08-30T22:00:00Z
-    webUrl: "https://www.barrons.com/articles/tesla-crashes-into-police-cruiser-self-driving-cars-have-to-learn-how-to-drive-51630360830"
-    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-crashes-into-police-cruiser-self-driving-cars-have-to-learn-how-to-drive-51630360830"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-crashes-into-police-cruiser-self-driving-cars-have-to-learn-how-to-drive-51630360830"
+  - title: "From Self-driving Cars to Remote Surgeries, 5G Will Make More Possible"
+    excerpt: "G technology, short for fifth generation, is the newest mobile network being adopted by countries around the world, and it promises newer and faster ways to interact with and experience technology of all types."
+    publishedDateTime: 2021-08-31T13:12:00Z
+    webUrl: "https://www.voanews.com/episode/self-driving-cars-remote-surgeries-5g-will-make-more-possible-4790546"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 54
+      name: Voice of America
+      domain: voanews.com
+    quality: 24
     images:
-      - url: "https://images.barrons.com/im-386041/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "What the feds’ investigation into Tesla’s Autopilot means for future of self-driving cars"
-    excerpt: "In addition to its Autopilot capabilities, Tesla has been offering what it calls “full self-driving” features that include autopark and auto lane change. Since its first offering of the Autopilot system and other self-driving features, Tesla has ..."
-    publishedDateTime: 2021-08-29T19:56:00Z
-    webUrl: "https://www.krqe.com/news/business/what-the-feds-investigation-into-teslas-autopilot-means-for-future-of-self-driving-cars/"
-    ampWebUrl: "https://www.krqe.com/news/business/what-the-feds-investigation-into-teslas-autopilot-means-for-future-of-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-krqe-com.cdn.ampproject.org/c/s/www.krqe.com/news/business/what-the-feds-investigation-into-teslas-autopilot-means-for-future-of-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: KRQE
-      domain: krqe.com
-    quality: 50
-    images:
-      - url: "https://www.krqe.com/wp-content/uploads/sites/12/2021/08/AP20079851214157.jpg?w=1280"
-        width: 1280
-        height: 827
-        isCached: true
-  - title: "Tesla's Full Self-Driving Tech 'Not Great'"
-    excerpt: "And based on comments made last year, Musk gave the impression that full self-driving was coming up fast. That’s why it was even more surprising when Musk Tweeted on Monday that Tesla’s latest full self-driving beta version 9."
-    publishedDateTime: 2021-08-27T14:42:00Z
-    webUrl: "https://www.manufacturing.net/video/video/21627305/musk-teslas-full-selfdriving-tech-not-great"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 39
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2021/08/MM_259_Thumb.6126549164c0b.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 675
+      - url: "https://im-media.voltron.voanews.com/Drupal/01live-166/kaltura-video-thumbs/1_j/1_jwieafxu.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "lhlXU/CuFtLkS42RbqrImLw+UCX7Plb0CmGSd1x3zGyespsjn6JgyBEm/46yblLToZlvdtiGsFuIf4ml95s8QfzVIt+vP1uEYC0JCxmbvyOQqpjJAK+0dKk/zWaIfiVamG086/LdjVGs/qeICDcJnfX4tFFFQCFWGgCtPx2DcRAcTtHF49DCsaw3j+midhkAn+ZJymBFiwwFtFZ+RITKVFawAugqzCT1DybFzNfBjBLm+wiSoiz+jLKRGZJ0oQtbAF6hyvN7X8P7zGiaY206ozJpmtsyTodM5SCMNtkhMhPa/4K7QfnJjRusD56eRAETZqvnLPO0iNPgfKAIknG676uGjtqDfZeRyFXw9FL0LRM=;rzKaqhlz3BN36FpHcoJiyw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lakenbrooks/2021/08/27/a-new-ai-technol
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lakenbrooks/2021/08/27/a-new-ai-technology-might-help-detect-gastric-cancer/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://i.dawn.com/large/2021/08/612ab8270d40f.jpg"
         width: 800
         height: 480
+        isCached: true
+  - title: "New Artificial Intelligence Technology Poised to Transform Heart Imaging"
+    excerpt: "A new artificial-intelligence technology for heart imaging can potentially improve care for patients, allowing doctors to examine their hearts for"
+    publishedDateTime: 2021-08-31T19:36:00Z
+    webUrl: "https://www.miragenews.com/new-artificial-intelligence-technology-poised-623368/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 36
+    images:
+      - url: "https://news.virginia.edu/sites/default/files/inline_1_chris_kramer_05hr_da.jpg"
+        width: 2000
+        height: 1333
         isCached: true
 
 secured: "JJZZuEJRM0/tWAQ13VOkus4lv5iFuRowthEozcdJyf0866ofqeHo1RjLy1UiYWSU55/5R2IEg8faRLCjBQDPJWdy9ekKeD8KQvt1On0XXz2k3vNUYtoaq7K+SRW4dbya/tg4o4/hbEc6iZ+7ifz5SSfCkUPgKgoknA7fH4Y9YfAnlb47VyYLa8c0sfmLLF+nZa7ica8kR0dZqrjw+avZrwRpdyw/fpOwkFBRE2ZuepojYqa8rXFaq22lw6wG3bnSY+HouA9ip8v1mko0Taod8ABba3ck8nmldSoUBgsORzHXwP7DSf18b+gKSO9QZOPugP/TX0YUPW0DuIdVUjJ3SFDszHr66wwIiThhJ3bDXoNFCkf/cf04l8v2gKYcPL/Qmz+JSp/+Cf2Wj5Ztb70cjhf/3SH86B/y9sJ/IoYJofVkDBNiwzxjMe9Kg8VH2A6bX1e9LfNU1Lec1QbwHfWNwfHJlFdEUHLeVXl7eLEbF/a2paSGDvwLSV902zaSfUJXpYKnrWArI8e2HQoVkN9BdA==;ERazrsuw6rN8ZJr+G4oeTA=="

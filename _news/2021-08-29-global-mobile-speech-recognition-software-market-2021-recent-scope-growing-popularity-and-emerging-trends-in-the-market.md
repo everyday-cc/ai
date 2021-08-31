@@ -59,22 +59,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Global Speech Recognition Market to Reach $29.28 Billion by 2026, States the Report by Allied Market Research"
-    excerpt: "Allied Market Research published a research report on the speech recognition market. The findings of the report states that the global market for speech recognition is expected to reach $29.28 billion by 2026, manifesting a CAGR of 19.9% from 2019 to 2026."
-    publishedDateTime: 2021-08-27T03:36:00Z
-    webUrl: "https://www.openpr.com/news/2370242/global-speech-recognition-market-to-reach-29-28-billion"
-    ampWebUrl: "https://www.openpr.com/amp/2370242/global-speech-recognition-market-to-reach-29-28-billion"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2370242/global-speech-recognition-market-to-reach-29-28-billion"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 40
-    images:
-      - url: "https://cdn.openpr.com/U/8/U827193633_g.jpg"
-        width: 800
-        height: 418
-        isCached: true
   - title: "Gesture Recognition Market Size Is Likely To Reach USD 30.6 Billion By 2025. It Is Poised To Post A CAGR Of 22.2% From 2018 To 2025."
     excerpt: "A recent market research report added to repository of Credible Markets is an in depth analysis of Gesture Recognition Market On the basis of historic growth analysis and current scenario of Gesture Recognition Market place the report intends to offer"
     publishedDateTime: 2021-08-31T12:51:00Z

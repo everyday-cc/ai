@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla survey shows take rate for Full Self-Driving package is surprisingly low"
+    excerpt: "A large survey of Tesla owners gives us probably the best idea of the take rate for the Full Self-Driving package. It’s an important metric for Tesla and it is surprisingly low. Or… is it? Tesla’s Full Self-Driving (FSD) package has been controversial for a few reasons."
+    publishedDateTime: 2021-08-31T20:13:00Z
+    webUrl: "https://electrek.co/2021/08/31/tesla-survey-take-rate-full-self-driving-package/"
+    ampWebUrl: "https://electrek.co/2021/08/31/tesla-survey-take-rate-full-self-driving-package/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/31/tesla-survey-take-rate-full-self-driving-package/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 85
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Tesla Crashes Into Police Cruiser. Self-Driving Cars Have To Learn How To Drive."
     excerpt: "The stock brushed off the crash, which happened over the weekend in Florida. Still, the wreck shows that true self driving is hard to achieve."
     publishedDateTime: 2021-08-30T22:00:00Z
@@ -56,20 +72,6 @@ related:
       - url: "https://img.manufacturing.net/files/base/indm/multi/image/2021/08/MM_259_Thumb.6126549164c0b.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Passengers want self-driving cars to be like them"
-    excerpt: "Recent studies have shown that people have negative attitudes about using autonomous systems because they don’t trust them. Moreover, research shows a human-centred approach in autonomy is perceived as more trustworthy by users."
-    publishedDateTime: 2021-08-31T07:12:00Z
-    webUrl: "https://gadget.co.za/passengers-want-self-driving-cars-to-be-like-them/"
-    type: article
-    provider:
-      name: gadget.co.za
-      domain: gadget.co.za
-    quality: 24
-    images:
-      - url: "https://i1.wp.com/gadget.co.za/wp-content/uploads/2021/08/self-driving-car.jpg?resize=600%2C332&#038;ssl=1"
-        width: 600
-        height: 332
         isCached: true
 
 secured: "lpS8rxCrkjb09PGhsbLuB4od6Wnl2iSeL2R9XrlDk+gAFLkZaq94UYtBe6DhXqURp52Ze9F53OQJpLXIbIyXKysrvrqlLkYAuHIsYhbx7Fq60LTLcTicmLLszgrRrP3TRiZRORxFRtcgrQNJFfD6GMyWujDRONkIDsYu3ZrU5QohUX338g1ClbXNVBoZ2kASOMPyuQHizA/NewlDs8pDupQOdGF4pXDvpCFMHCKQ0preCd79w8IKXw9QSeO4woyQJdN7IShR6EZkak5ykSE8oV68Sp3tPAoPi7td2B6H3hVJAbCmISASElzdr+LvA5xEcKuxv+iD8mtcIQS7ocuTN+lPYu6UMaLtEycxfFVDlfY=;xOMMOHoJLoK5YOvudi06Fw=="

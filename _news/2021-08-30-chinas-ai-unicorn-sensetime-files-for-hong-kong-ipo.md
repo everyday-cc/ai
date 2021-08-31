@@ -9,7 +9,7 @@ ampWebUrl: "https://technode.com/2021/08/30/chinas-ai-unicorn-sensetime-files-fo
 cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/08/30/chinas-ai-unicorn-sensetime-files-for-hong-kong-ipo/"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -49,15 +49,6 @@ related:
         width: 792
         height: 528
         isCached: true
-  - title: "Non-Profit Federated Learning Consortium (FLC) for Decentralized AI to Launch in Hong Kong, Receives $2M Pledge"
-    excerpt: "HONG KONG, CHINA / ACCESSWIRE / August 27, 2021 / Federated Learning Consortium (FLC) is a global non-profit organization headquartered in Hong"
-    publishedDateTime: 2021-08-27T03:40:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/non-profit-federated-learning-consortium-flc-for-decentralized-ai-to-launch-in-hong-kong-receives-2m-pledge-1030763028"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 29
 
 secured: "REyXSgr8aOEnz3mNDTgzRXxy0F19oe2y+x3ktOk2eNcCXLmjxPoPvibAwjwT7865ao8avWJnxPTCyER2SuwH1ySn1eZhpco+dw/VdIzSCcd54QIvfxxPeVc0O9Lr4k2yYGpDl6BHzAYsOGYTjbWAGL7vHhI2EPDUr+4a+ms2YPcbiphL0InXTzhd9tK+TsSvnwOBjA9Klo4yLs/r6W3elb/AKn061M4rE7/6M5hQzQ4mjDrL6WPnCLCBvCJBLcYdnq+5bIKaCu7cAdsJSMP8W4mKBqANyvYknTzyUk/65gsYRb18+IaWMfUuBSUYwDtqoWV2c/btGVmeLWQD5D6wqpkLSaJmz0YmndIre9VR49s=;5OQrTRi6b/ZcoPjTFemk9Q=="
 ---

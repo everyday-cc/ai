@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Celebrity spotting: Amazon improves facial recognition for famous people"
-    excerpt: "Amazon promises its Rekognition machine-learning tech will save hours of humans tagging photos and videos of celebrities."
-    publishedDateTime: 2021-08-27T03:51:00Z
-    webUrl: "https://www.zdnet.com/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 92
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/08/27/0edfb3a5-a400-465b-86f8-f06782fe711e/amazon-rekognition-wener-vogels.jpg"
-        width: 1054
-        height: 600
-        isCached: true
   - title: "The Free-Speech Case for Facial Recognition | Opinion"
     excerpt: "The right to communicate anonymously is important, but most would agree it shouldn't extend to people who commit violent crimes."
     publishedDateTime: 2021-08-27T10:00:00Z
@@ -63,19 +47,21 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Scottish local authority switches off facial recognition citing legal, ethical concerns"
-    excerpt: "A council spokesperson said that facial recognition was specifically switched off over ethical and legal concerns about the implications of the technology."
-    publishedDateTime: 2021-08-30T15:46:00Z
-    webUrl: "https://www.biometricupdate.com/202108/scottish-local-authority-switches-off-facial-recognition-citing-legal-ethical-concerns"
+  - title: "US government agencies plan to increase facial recognition"
+    excerpt: "The majority of US federal agencies are using some form of facial recognition technology, according to a study by the Government Accountability Office (GAO)."
+    publishedDateTime: 2021-08-27T10:45:00Z
+    webUrl: "https://www.research-live.com/article/news/us_government_agencies_plan_to_increase_facial_recognition/id/5088462"
+    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5088462&name=us-government-agencies-plan-to-increase-facial-recognition"
+    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5088462&name=us-government-agencies-plan-to-increase-facial-recognition"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 48
+      name: research
+      domain: research-live.com
+    quality: 59
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/11113259/public-safety-camera.jpg"
-        width: 1200
-        height: 914
+      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
+        width: 1000
+        height: 581
         isCached: true
   - title: "Amazon Suspends Police Use of Its Facial Recognition"
     excerpt: "Amazon did not respond to questions about it. Civil rights groups and Amazon's own employees have pushed the company to stop selling its technology, called Rekognition, to government agencies, saying it could be used to invade privacy and target people of ..."
@@ -88,6 +74,48 @@ related:
       name: Courthouse News Service
       domain: courthousenews.com
     quality: 41
+  - title: "The government is going to use facial recognition more. That’s bad."
+    excerpt: "A report from the GAO traces the use of facial-recognition tech among US government agencies. Here's what it found."
+    publishedDateTime: 2021-08-28T11:00:00Z
+    webUrl: "https://www.popsci.com/technology/gao-report-facial-recognition-federal-government/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 41
+    images:
+      - url: "https://www.popsci.com/uploads/2021/08/27/michael-daniels-yHh07IGJAJM-unsplash.jpeg"
+        width: 2000
+        height: 1500
+        isCached: true
+  - title: "US Agencies Increasing Use of Facial Recognition Tech"
+    excerpt: "At least 10 U.S. government agencies are planning to increase the use of facial recognition technologies by 2023, according to a GAO report. The growing utilization"
+    publishedDateTime: 2021-08-27T17:46:00Z
+    webUrl: "https://www.govinfosecurity.com/us-agencies-increasing-use-facial-recognition-tech-a-17393"
+    type: article
+    provider:
+      name: HHS
+      domain: govinfosecurity.com
+    quality: 41
+    images:
+      - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/us-agencies-increasing-use-facial-recognition-tech-showcase_image-2-a-17393.jpg"
+        width: 860
+        height: 520
+        isCached: true
+  - title: "Team to monitor babies in the NICU with facial recognition tech"
+    excerpt: "A team of researchers from the University of South Australia (UniSA) has created artificial intelligence (AI)-based facial recognition technology for monitoring premature babies in neonatal intensive care units (NICUs)."
+    publishedDateTime: 2021-08-29T17:07:00Z
+    webUrl: "https://insights.globalspec.com/article/17245/team-to-monitor-babies-in-the-nicu-with-facial-recognition-tech"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 39
+    images:
+      - url: "https://insights.globalspec.com/images/assets/245/17245/UNISA.png"
+        width: 1159
+        height: 470
+        isCached: true
 
 secured: "FXH0Cq6s+hO4Cx+3kzPgIQAnNMGjLRZ8CcsGjupzEJ3VqBcyyzf9mpsFBi8duZrJWCZxg5xxBlKyJhgrHn2X7jhCzqaKyTAGr8O9U9jUKX7UEmaw6PHiYWM7O1A63uPTM3fKyGjb/rEEyWMWOic4P3tlCbfzQFC7SSunjKdjapmnqbyyRXlijwwIPu4x8/MgfcMyhkcfiSJGgrBpOblrOcESbrL4W18TdGkJJAuvqD4nUAL7sKK4tRnmBbtmfQzMu+0XaBs97Ibddba4TKU3+nCm2YHwFj2TNNEoQfO8I+BDI2QIbfiX/GKDb3DqXospPOnxr9jYEp88Q0VP5wudGyQ9toX8ZS5s7r16azkumwFIPhguXVn6Xe+TI1GmxkoZByiHyynjvAYVf1yGwHpaULEhxZo7FXUNLuyH8ZrLXJA5LC0ClSncOxxoyShe7/zZYfJkj5hrodkKhds/fRdb4MpXqMnHwMh40d5UcmTibHImMSdR74K75Dks4mY22pOnhqVuePCX+8/xxWvuLIFR9w==;4eahgdfHRa4oedywalch9Q=="
 ---

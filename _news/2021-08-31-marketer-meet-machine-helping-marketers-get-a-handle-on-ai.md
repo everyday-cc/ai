@@ -43,6 +43,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Can real time accent translations perfect conversational AI?"
+    excerpt: "One of the biggest problem with conversational AI is understand and detecting the various accents of a language."
+    publishedDateTime: 2021-08-31T21:15:00Z
+    webUrl: "https://techhq.com/2021/08/can-real-time-accent-translations-perfect-conversational-ai/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 39
+    images:
+      - url: "https://cdn1.techhq.com/wp-content/uploads/2021/08/000_1Q247L-scaled.jpg"
+        width: 2560
+        height: 1731
+        isCached: true
   - title: "Conversational AI market to grow to $15.7 billion by 2024"
     excerpt: "The market for conversational artificial intelligence AI is expected to grow from 42 billion dollars in 2019 to 157 billion dollars by 2024 customer suppor"
     publishedDateTime: 2021-08-28T09:46:00Z
