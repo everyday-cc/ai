@@ -2,6 +2,160 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-08-12-dalhousie-universitys-ai-robotics-team-wins-gold-in-robocup.md",
+      "title": "Dalhousie University’s AI robotics team wins gold in RoboCup",
+      "excerpt": "The Dalhousie University's AI robotics team, CYRUS, has become the first Canadian team to win gold in the international RoboCup competition. Team CYRUS, led by research assistant Nader Zare and PhD student Mahtab Sarvmaili,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/article/dalhousie-universitys-ai-robotics-team-wins-gold-in-robocup/456872",
+      "originalUrl": "https://www.itworldcanada.com/article/dalhousie-universitys-ai-robotics-team-wins-gold-in-robocup/456872",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2021/08/GettyImages-637794534.jpg",
+          "width": 836,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itworldcanada.com/article/dalhousie-universitys-ai-robotics-team-wins-gold-in-robocup/456872?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/dalhousie-universitys-ai-robotics-team-wins-gold-in-robocup/456872?amp=1",
+      "publishedDateTime": "2021-08-12T07:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-engineering-students-makes-driverless-car-using-ai-maharashtra.md",
+      "title": "Engineering Students Makes Driverless Car Using AI: Maharashtra",
+      "excerpt": "Maharashtra`s Pune-based engineering students of a private university have developed a Driverless autonomous electric four-wheeler with the help of Artificial Intelligence. They mentioned the use for reducing accidents and deaths caused by human errors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nyoooz.com/news/pune/1601592/engineering-students-makes-driverless-car-using-ai-maharashtra-/",
+      "originalUrl": "https://www.nyoooz.com/news/pune/1601592/engineering-students-makes-driverless-car-using-ai-maharashtra-/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nyoooz.com/uploads/nyoooz-images/maxresdefault49.jpg",
+          "width": 800,
+          "height": 494,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nyoooz.com/amp/news/pune/1601592/engineering-students-makes-driverless-car-using-ai-maharashtra-/",
+      "cdnAmpWebUrl": "https://www-nyoooz-com.cdn.ampproject.org/c/s/www.nyoooz.com/amp/news/pune/1601592/engineering-students-makes-driverless-car-using-ai-maharashtra-/",
+      "publishedDateTime": "2021-08-12T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "nyoooz.com",
+        "domain": "nyoooz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-graph-based-natural-language-processing-and-information-retrieval.md",
+      "title": "Graph-based Natural Language Processing and Information Retrieval",
+      "excerpt": "Graph theory and the fields of natural language processing and information retrieval are well-studied disciplines. Traditionally, these areas have been perceived as distinct, with different algorithms, different applications and different potential end-users.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/gm/academic/subjects/computer-science/artificial-intelligence-and-natural-language-processing/graph-based-natural-language-processing-and-information-retrieval?format=HB&isbn=9780521896139",
+      "originalUrl": "https://www.cambridge.org/gm/academic/subjects/computer-science/artificial-intelligence-and-natural-language-processing/graph-based-natural-language-processing-and-information-retrieval?format=HB&isbn=9780521896139",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-12T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-robotics-startup-miko-raises-28-mn-in-series-b-round-led-by-iifl-amc.md",
+      "title": "Robotics Startup Miko Raises $28 Mn In Series B Round led by IIFL AMC",
+      "excerpt": "Miko has raised $28 Mn in Series B funding led by IIFL AMC, Mankind Pharma Family Office, Aroa Ventures, and a clutch of global investors",
+      "sourceUrl": null,
+      "webUrl": "https://inc42.com/buzz/robotics-startup-miko-raises-28-mn-in-series-b-round-led-by-iifl-amc/",
+      "originalUrl": "https://inc42.com/buzz/robotics-startup-miko-raises-28-mn-in-series-b-round-led-by-iifl-amc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inc42.com/buzz/robotics-startup-miko-raises-28-mn-in-series-b-round-led-by-iifl-amc/amp/",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/robotics-startup-miko-raises-28-mn-in-series-b-round-led-by-iifl-amc/amp/",
+      "publishedDateTime": "2021-08-12T06:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42.com",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-12-tensorflow-with-sagemaker-on-pycharm.md",
       "title": "TensorFlow with SageMaker on Pycharm",
       "excerpt": "Amazon SageMaker is a fully managed machine learning service. With SageMaker, data scientists and developers can quickly and easily build and train machine learning models, and then directly deploy them into a production-ready hosted environment.",
@@ -979,171 +1133,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-stashfin-is-improving-fraud-detection-in-india-with-machine-learning-and-ai.md",
-      "title": "StashFin is improving fraud detection in India with machine learning and AI",
-      "excerpt": "Fraud detection is something the financial services industry can't afford to take lightly. From retail to consumer banking, to fintech and insurance",
-      "sourceUrl": null,
-      "webUrl": "https://techwireasia.com/2021/08/can-ai-and-ml-help-reduce-fraud-detection-in-india/",
-      "originalUrl": "https://techwireasia.com/2021/08/can-ai-and-ml-help-reduce-fraud-detection-in-india/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.techwireasia.com/wp-content/uploads/2021/08/Parikshit-Chitalkar-Co-founderStashfin-259x300.jpg",
-          "width": 259,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techwireasia.com/amp/2021/08/can-ai-and-ml-help-reduce-fraud-detection-in-india/",
-      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/08/can-ai-and-ml-help-reduce-fraud-detection-in-india/",
-      "publishedDateTime": "2021-08-11T19:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techwireasia.com",
-        "domain": "techwireasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-microsoft-cognitive-services-on-embarcadero-delphi.md",
-      "title": "Microsoft Cognitive Services on Embarcadero DELPHI",
-      "excerpt": "This is free and open source library (wrapper - interface/class/types) for communicate with Microsoft Cognitive services Face API 1.0. New! Available async functions ...",
-      "sourceUrl": null,
-      "webUrl": "https://github.com/KohrAhr/MicrosoftCognitiveServices",
-      "originalUrl": "https://github.com/KohrAhr/MicrosoftCognitiveServices",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://opengraph.githubassets.com/12d7fe01be631bdcc577b979b01e3f059826423326cb78fd1a107e2c49ce6d8a/KohrAhr/MicrosoftCognitiveServices",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-11T17:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GitHub",
-        "domain": "github.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-amazon-rekognition-custom-brand-detection.md",
-      "title": "Amazon Rekognition Custom Brand Detection",
-      "excerpt": "When the labelers complete the labeling job, the solution uses the annotations from the labelers to prepare and train a custom label model using Amazon Rekognition Custom Labels service and deploys the model once the training completes. When the model is ...",
-      "sourceUrl": null,
-      "webUrl": "https://github.com/aws-samples/amazon-rekognition-custom-brand-detection",
-      "originalUrl": "https://github.com/aws-samples/amazon-rekognition-custom-brand-detection",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://opengraph.githubassets.com/e28091c2f1b5d65ce18c3a75b7f39a2e547efdeac7635e00e02bf5afa8433e86/aws-samples/amazon-rekognition-custom-brand-detection",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-11T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GitHub",
-        "domain": "github.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-reliance-ties-up-with-microsoft-azure-to-bring-free-cloud-services-for-smes-startups.md",
-      "title": "Reliance Ties Up With Microsoft Azure To Bring Free Cloud Services For SMEs, Startups",
-      "excerpt": "These companies will also get easy and affordable access to advanced technologies such as data analytics, AI, cognitive services, blockchain, IoT and edge computing. For Microsoft, having the ...",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/reliance-microsoft-azure-to-offer-free-cloud-services-for-smes-startups/",
-      "originalUrl": "https://inc42.com/buzz/reliance-microsoft-azure-to-offer-free-cloud-services-for-smes-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/reliance-microsoft-azure-to-offer-free-cloud-services-for-smes-startups/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/reliance-microsoft-azure-to-offer-free-cloud-services-for-smes-startups/amp/",
-      "publishedDateTime": "2021-08-11T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -65,15 +65,6 @@ related:
         width: 770
         height: 420
         isCached: true
-  - title: "Machine learning reaches mineral prospecting"
-    excerpt: "Machine learning technology is not widely used in the domestic exploration space thus far, with only specialist consultancies offering advanced machine learning-driven target generation and prospectivity mapping services. The partnership, formed in 2020 ..."
-    publishedDateTime: 2021-08-27T01:17:00Z
-    webUrl: "https://www.miningweekly.com/article/machine-learning-reaches-mineral-prospecting-2021-08-27"
-    type: article
-    provider:
-      name: Mining Weekly
-      domain: miningweekly.com
-    quality: 19
   - title: "How Machine Learning is changing credit decisioning forever"
     excerpt: "The rise of Machine Learning has long-been discussed, promising a new way of delivering successful outcomes and solutions across a myriad of services and applications. The future is already here but we are now reaching a critical juncture where businesses need to begin prioritising their Machine Learning capabilities – or risk being left behind as competitors embrace it and reap the benefits it can bring."
     publishedDateTime: 2021-08-31T17:09:00Z
@@ -82,7 +73,7 @@ related:
     provider:
       name: Finextra
       domain: finextra.com
-    quality: 19
+    quality: 21
 
 secured: "GnVFdFtVczDNIcEzhUaUiVUh+/N98F7OtU8Ux3OsnSArfVtvR9vBJ9+OfUiumGoT1inkVFlhGw4dQ0y2nhaEvUJqx5L8b/SHjj9bEWbYjtVx/u/QQeqYcHuKYZHLpGma7qBD6yuukTruKgqL9kH4cgzj2k9h3NSydzwulUml6MEkuN8rwkFiYEJWZ0uGY+YXL69JyuwI/QUROUN+pSUd6LYKq7bGKSEXc65itbVRJ2Zq1FM04ynrh025gKFMtqQd1WMW3dfxFJcXLFt/AVbpLMXBqmwWcOXKRqwlm6wn2w/uIfBlAuHv80xh58kxud5aBesz15QSbKD0sWrTvCaznRgrjv/GZAyqK90Gxx/75iQ=;6LXLVQAUV34J7BAqxxGFJg=="
 ---

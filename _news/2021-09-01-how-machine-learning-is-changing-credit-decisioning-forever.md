@@ -6,7 +6,7 @@ publishedDateTime: 2021-08-31T17:09:00Z
 originalUrl: "https://www.finextra.com/blogposting/20823/how-machine-learning-is-changing-credit-decisioning-forever"
 webUrl: "https://www.finextra.com/blogposting/20823/how-machine-learning-is-changing-credit-decisioning-forever"
 type: article
-quality: 19
+quality: 21
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 related:
   - title: "Making Virtual Learning Real"
@@ -65,15 +66,6 @@ related:
         width: 770
         height: 420
         isCached: true
-  - title: "Machine learning reaches mineral prospecting"
-    excerpt: "Machine learning technology is not widely used in the domestic exploration space thus far, with only specialist consultancies offering advanced machine learning-driven target generation and prospectivity mapping services. The partnership, formed in 2020 ..."
-    publishedDateTime: 2021-08-27T01:17:00Z
-    webUrl: "https://www.miningweekly.com/article/machine-learning-reaches-mineral-prospecting-2021-08-27"
-    type: article
-    provider:
-      name: Mining Weekly
-      domain: miningweekly.com
-    quality: 19
   - title: "Hybrid Deep-Learning and Machine-Learning Models for Predicting COVID-19."
     excerpt: "Currently, PCR is the most prevalent diagnosis tool for COVID-19. However, chest X-ray images may play an essential role in detecting this disease, as they are successful for many other viral pneumonia diseases."
     publishedDateTime: 2021-08-29T01:10:00Z

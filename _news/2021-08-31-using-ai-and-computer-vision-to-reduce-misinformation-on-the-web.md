@@ -7,7 +7,7 @@ originalUrl: "https://www.bbntimes.com/science/using-ai-and-computer-vision-to-r
 webUrl: "https://www.bbntimes.com/science/using-ai-and-computer-vision-to-reduce-misinformation-on-the-web"
 type: article
 quality: 54
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -66,20 +66,6 @@ related:
       - url: "https://biz-file.com/c/2108/626014-546x364.jpg"
         width: 546
         height: 364
-        isCached: true
-  - title: "Hospitals Deploy Spending on Artificial Intelligence Coding Solutions to Reduce Costs & Payer Denials, Reports Black Book Survey"
-    excerpt: "Black Book Research surveyed 1,012 health information management executives and revealed that 58% of healthcare organizations are using artificial intelligence in one basic form or another, and 92% of them expect widespread industry implementation in the next five years,"
-    publishedDateTime: 2021-08-27T01:24:00Z
-    webUrl: "https://apnews.com/press-release/Newswire/technology-business-health-artificial-intelligence-f45c14e8ed9f21260f8c2decc17bdbc3"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 10
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "8jGex3P6rKoJrZ6Yk0n7l+A+Wrt0oOjkem8f3T11ERkV4jdxUk5LFwCLSTfALm83ugvd2KEx4ZQZ6Ubvr9/jMpvQZISsXETAC17LMTWDvEAmkvFWepbp02Hhl5+/qZ6Yd6b2tpgUVJoxmH3hhLyxJE04OuvqEuMchUPIVwYqEhhSGuQ+NfSSQdeYXmjIif0A4U4CU89u2JhhwMfT+I8Ox3ZEB1tdyilR7/QWB1Amctd4zFiX5HlUuloV3NFy4CW9ZInOkYHFnweAuUcwrnMody6bEWtRR4K82DHP1j9/Jgb0D3HnIHqrmutAj9Zij4ph4k5NHUrNqxnW477sTzzGuv+UNdlH6w2MFyGy7lXU8IBpzNFgvDXlORaxKZU6oCIH+xe/sETRs/EHvoxzkkcTFSmcy+YCVqmHc7h2KY2w9htQDNT4gbvoa0BcGbxMp8xLW9ymWEcbYFE7T6zKoBF3pgeTSZiTOCuo+410kbGecDqe5QSS1Z8LyVh6Hat9J1ZKphZznxK5cWqGAx6/6ZqmtA==;sfTfpjWjxAt1WJyh0JrA6w=="

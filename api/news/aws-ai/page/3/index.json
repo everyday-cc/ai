@@ -2,6 +2,92 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-04-amazon-sagemaker-drift-detection-pipeline.md",
+      "title": "Amazon SageMaker Drift Detection Pipeline",
+      "excerpt": "Use this following AWS CloudFormation quick start to create a custom SageMaker MLOps project template in the AWS Service Catalog and configure the portfolio and products so you can launch the project from within your Studio domain. Follow are the list of ...",
+      "sourceUrl": null,
+      "webUrl": "https://github.com/aws-samples/amazon-sagemaker-drift-detection",
+      "originalUrl": "https://github.com/aws-samples/amazon-sagemaker-drift-detection",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://opengraph.githubassets.com/7e7eedf715326076134aa3b33c72ca240dc5647204e8202d837b17aea51b57f4/aws-samples/amazon-sagemaker-drift-detection",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-04T06:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GitHub",
+        "domain": "github.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-top-mlops-books-in-2021.md",
+      "title": "Top MLOps Books In 2021",
+      "excerpt": "It will guide you through the process of deploying and querying your models with AWS SageMaker, Microsoft Azure, and Google Cloud. Find it here. In this book, authors Lynn Heidmann and Mark Treveil from Dataiku introduce the data science-ML-AI project ...",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/top-mlops-books-in-2021/",
+      "originalUrl": "https://analyticsindiamag.com/top-mlops-books-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/08/Top-Books-On-MLOps-To-Look-Out-For-In-2021-.png",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-enghouse-espialtv-enables-tv-accessibility-with-amazon-polly.md",
       "title": "Enghouse EspialTV enables TV accessibility with Amazon Polly",
       "excerpt": "This is a guest post by Mick McCluskey, the VP of Product Management at Enghouse EspialTV. Enghouse provides software solutions that power digital transformation for communications service operators. EspialTV is an Enghouse SaaS solution that transforms the delivery of TV services for these operators",
@@ -1271,103 +1357,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-ai-governance-market-predictions-with-covid-19-analysis-key-players-ibm-google-facebook-aws.md",
-      "title": "Ai Governance Market Predictions With Covid-19 Analysis, Key Players – IBM, Google, Facebook, AWS.",
-      "excerpt": "To avail Sample Copy of report, visit @  Key Companies Operating in this Market IBM Google Facebook AWS Microsoft Salesforce.com SAP FICO 2021.AI ZestFinance SAS Institute Pymetrics H2O.AI integrate.ai Market by Application BFSI Healthcare and Life Sciences Government and Defense Retail and Car This report is wide in concept and content right from Ai Governance market In addition to CAGR,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/ai-governance-market-predictions-with-covid-19-analysis-key-players-ibm-google-facebook-aws/",
-      "originalUrl": "https://manometcurrent.com/ai-governance-market-predictions-with-covid-19-analysis-key-players-ibm-google-facebook-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ksusentinel.com/wp-content/uploads/2021/05/300-x-300-pixel.jpg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-23T01:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-automate-annotation-of-image-training-data-with-amazon-rekognition.md",
-      "title": "Automate annotation of image training data with Amazon Rekognition",
-      "excerpt": "Every machine learning (ML) model demands data to train it. If your model isn’t predicting Titanic survival or iris species, then acquiring a dataset might be one of the most time-consuming parts of your model-building process—second only to data cleaning. What data cleaning looks like varies from dataset",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automate-annotation-of-image-training-data-with-amazon-rekognition/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-annotation-of-image-training-data-with-amazon-rekognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/14/ml3998-image001.png",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-22T17:05:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
       ]
     }
   ],

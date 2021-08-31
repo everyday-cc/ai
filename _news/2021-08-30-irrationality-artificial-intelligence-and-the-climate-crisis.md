@@ -66,20 +66,6 @@ related:
         width: 546
         height: 364
         isCached: true
-  - title: "Hospitals Deploy Spending on Artificial Intelligence Coding Solutions to Reduce Costs & Payer Denials, Reports Black Book Survey"
-    excerpt: "Black Book Research surveyed 1,012 health information management executives and revealed that 58% of healthcare organizations are using artificial intelligence in one basic form or another, and 92% of them expect widespread industry implementation in the next five years,"
-    publishedDateTime: 2021-08-27T01:24:00Z
-    webUrl: "https://apnews.com/press-release/Newswire/technology-business-health-artificial-intelligence-f45c14e8ed9f21260f8c2decc17bdbc3"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 10
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "ewzPS/yzpMQC4XxorCc8Po/6BVx0FLYW0d5YXld2irHVBlbxDm84N7noIlEoJs3CzrZgIZvT7Dsj+Tt+yGxLYF2mtEEw5xyAZ/KtFa9hMyqsaUkev+VkWxph/CTxBVVb0dLFzHxNHhfz5jfRN/5LFr2jEXbzwtqNtSLoAzLcJSd7Jfr0/3YVpC96yonHFzXB9DULv5T9CtIs33p+3xRPvZO46V+WOlAJ5OddnN2JLHzNP+8rPO5VfhvnBBLXI2mcvkF9UMJLRDjnUiXBs4rEYLEf/8M4PaQHaFULsuVsx/dKafs7B3/kVyerrLOtq3OfOMU8IccR3gblMaX88VEOPdyoHVx20BDsBG1xFT0zrcquJ2XQ48RkTre+VVCG3EVyqvNLDU6d5tWUCvdYFRyVjjoZ35caulmSWoSjpXdO6XPRECjJpWPIItVK3kxJktVwGRGZ0y0UneYLlKstOVdHhmrfXbM35Mt0kpoV+b9MhtYGAvJMpcXWtTZ504SmA/nb3wE6kAsWc2jNgEqJGnPvKw==;pgQX42/EkALcmCGtjheLlg=="
 ---

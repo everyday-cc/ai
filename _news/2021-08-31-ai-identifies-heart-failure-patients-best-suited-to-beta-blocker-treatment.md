@@ -58,6 +58,20 @@ related:
         height: 1620
         isCached: true
   - title: "Artificial Intelligence approach helps to identify patients with heart failure that respond to beta-blocker treatment"
+    excerpt: "Researchers at the University of Birmingham have developed a new way to identify which patients with heart failure will benefit from treatment with beta-blockers."
+    publishedDateTime: 2021-08-31T12:14:00Z
+    webUrl: "https://www.birmingham.ac.uk/news/latest/2021/08/artificial-intelligence-beta-blocker-heart-failure.aspx"
+    type: article
+    provider:
+      name: birmingham.ac.uk
+      domain: birmingham.ac.uk
+    quality: 31
+    images:
+      - url: "https://www.birmingham.ac.uk/images/news/heart-900px.jpg"
+        width: 900
+        height: 510
+        isCached: true
+  - title: "Artificial Intelligence approach helps to identify patients with heart failure that respond to beta-blocker treatment"
     excerpt: "Researchers at the University of Birmingham have developed a new way to identify patients with heart failure who will benefit from treatment with beta-blockers."
     publishedDateTime: 2021-08-30T16:43:00Z
     webUrl: "https://www.eurekalert.org/news-releases/926808"
@@ -65,15 +79,6 @@ related:
     provider:
       name: EurekAlert!
       domain: eurekalert.org
-    quality: 11
-  - title: "Artificial Intelligence approach helps to identify patients with heart failure that respond to beta-blocker treatment"
-    excerpt: "Researchers at the University of Birmingham have developed a new way to identify which patients with heart failure will benefit from treatment with beta-blockers."
-    publishedDateTime: 2021-08-31T12:14:00Z
-    webUrl: "https://www.birmingham.ac.uk/university/colleges/mds/news/2021/08/artificial-intelligence-helps-to-identify-patients-with-heart-failure.aspx"
-    type: article
-    provider:
-      name: birmingham.ac.uk
-      domain: birmingham.ac.uk
     quality: 11
 
 secured: "9du6y52QLWFvcpmZfoARIW5h73E2AdC/IQf7r4PmRluUpDUnekwcGv9cbu1EGGsWndaWRFLOth/SwFDNM8Scq3fDBnXfPHB/PUwNC6ol+GQk7rRwsfc+1WzfDr3G/5Ia7sx/T8Vm5xsCcFhQkFxA/pMiIOjVc9WVhawgZcw4icUKeamX3mqXTts+LCDcm9XNJFyNZ+l2pX3cmRL9GR/7v1L1QqO7Ou2/VNrEoeLlWBm5lRxCyCaYejHeLCeMtK7sQ239+UzESc3eXWHdWIwBbgauUxsJJiJzMccrE7bS+ATzHk9Qyzchy0GB0MAP//EA0ocWlQ1Z3xgQCzJmivT2haMt85OJCfNl3PMq7qLO+fo=;CDebEQKTPq72mWLNZE8iIw=="

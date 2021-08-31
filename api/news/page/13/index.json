@@ -2,6 +2,187 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-08-20-baidu-unveils-robocar-and-its-second-generation-ai-chip-in-china.md",
+      "title": "Baidu Unveils Robocar And Its Second-Generation AI Chip In China",
+      "excerpt": "Chinese internet and AI behemoth Baidu has unveiled its second-generation artificial intelligence chip alongside a host of other important pieces of technology related to the automotive industry, including a ‘robocar’.",
+      "sourceUrl": null,
+      "webUrl": "https://www.carscoops.com/2021/08/baidu-unveils-robocar-and-its-second-generation-ai-chip-in-china/",
+      "originalUrl": "https://www.carscoops.com/2021/08/baidu-unveils-robocar-and-its-second-generation-ai-chip-in-china/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.carscoops.com/wp-content/uploads/2021/08/Baidu-Robocara-1024x555.jpg",
+          "width": 1024,
+          "height": 555,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.carscoops.com/2021/08/baidu-unveils-robocar-and-its-second-generation-ai-chip-in-china/amp/",
+      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/08/baidu-unveils-robocar-and-its-second-generation-ai-chip-in-china/amp/",
+      "publishedDateTime": "2021-08-20T02:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Carscoops",
+        "domain": "carscoops.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-08-20-digital-education-company-numerade-raises-26m-for-ai.md",
+      "title": "Digital Education Company Numerade Raises $26M for AI",
+      "excerpt": "The Los Angeles-based, venture-backed ed-tech startup will use the funds to build out artificial intelligence for a tutoring program, as well as its library of virtual lessons that have been used by millions worldwide.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/education/higher-ed/digital-education-company-numerade-raises-26m-for-ai",
+      "originalUrl": "https://www.govtech.com/education/higher-ed/digital-education-company-numerade-raises-26m-for-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/0f4aa74/2147483647/strip/true/crop/940x490+0+69/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F9d%2F1a%2F8221c2aac7823fec923972d30d68%2Fshutterstock-458330614.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/education/higher-ed/digital-education-company-numerade-raises-26m-for-ai?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/digital-education-company-numerade-raises-26m-for-ai?_amp=true",
+      "publishedDateTime": "2021-08-20T02:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2021-08-20-andrew-hawkins-of-the-verge-on-the-highlights-from-teslas-ai-day.md",
+      "title": "Andrew Hawkins of The Verge on the highlights from Tesla's AI Day",
+      "excerpt": "Andrew Hawkins, Senior Transportation Reporter at The Verge, joins Worldwide Exchange to discuss Tesla's AI Day event and the announcement of a humanoid Tesla robot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2021/08/20/andrew-hawkins-of-the-verge-on-the-highlights-from-teslas-ai-day.html",
+      "originalUrl": "https://www.cnbc.com/video/2021/08/20/andrew-hawkins-of-the-verge-on-the-highlights-from-teslas-ai-day.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106930909-16294568745ED4-WEX-082021-Hawkins.jpg?v=1629456873",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-20T01:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-08-20-how-ai-powered-tech-landed-man-in-jail-with-scant-evidence.md",
+      "title": "How AI-powered tech landed man in jail with scant evidence",
+      "excerpt": "Williams was jailed last August, accused of killing a young man from the neighborhood who asked him for a ride during a night of unrest over police brutality in May. But the key evidence against Williams didn’t come from an eyewitness or an informant;",
+      "sourceUrl": null,
+      "webUrl": "https://www.chron.com/news/article/How-AI-powered-Tech-Landed-Man-In-Jail-With-Scant-16396942.php",
+      "originalUrl": "https://www.chron.com/news/article/How-AI-powered-Tech-Landed-Man-In-Jail-With-Scant-16396942.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chron.com/news/amp/How-AI-powered-Tech-Landed-Man-In-Jail-With-Scant-16396942.php",
+      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/How-AI-powered-Tech-Landed-Man-In-Jail-With-Scant-16396942.php",
+      "publishedDateTime": "2021-08-20T01:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-20-highest-paying-ai-certifications-available-in-2021.md",
       "title": "Highest Paying AI Certifications Available in 2021",
       "excerpt": "AI is one of the most popular subjects that people are interested to learn more about. Here is the list of some of the popular AI certificate programmes and they also include programmes on machine learning and deep learning.",
@@ -972,198 +1153,6 @@
         "AI in Autos",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-cast-ai-eyes-a-hybrid-goldmine-cloud-cost-reduction.md",
-      "title": "Cast AI Eyes A Hybrid Goldmine: Cloud Cost Reduction",
-      "excerpt": "A major focus is on suppliers of cloud Kubernetes services, including Amazon EKS, Google GKS, Kubernetes Operation (Kops), and Microsoft’s Azure Kubernetes Services (AKS). The CAST AI engine does this by using Cloud Service Provider (CSP) accounts to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rscottraynovich/2021/08/19/cast-ai-eyes-a-hybrid-goldmine-cloud-cost-reduction/",
-      "originalUrl": "https://www.forbes.com/sites/rscottraynovich/2021/08/19/cast-ai-eyes-a-hybrid-goldmine-cloud-cost-reduction/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/400x0/smart/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f872e59a2c190b8db859662%2F960x0.jpg%3FcropX1%3D0%26cropX2%3D400%26cropY1%3D0%26cropY2%3D400",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rscottraynovich/2021/08/19/cast-ai-eyes-a-hybrid-goldmine-cloud-cost-reduction/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rscottraynovich/2021/08/19/cast-ai-eyes-a-hybrid-goldmine-cloud-cost-reduction/amp/",
-      "publishedDateTime": "2021-08-19T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-google-rival-baidu-has-made-an-ai-chip-for-autonomous-driving-and-more.md",
-      "title": "Google Rival Baidu Has Made an AI Chip for Autonomous Driving and More",
-      "excerpt": "Baidu has unveiled its latest Kunlun II chip at the Baidu World Conference. It is claimed to be two to three times faster than its predecessor, but what is more important here is that the unit is an artificial intelligence chip that can also be used for autonomous cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoevolution.com/news/google-rival-baidu-has-made-an-ai-chip-for-autonomous-driving-and-more-167674.html",
-      "originalUrl": "https://www.autoevolution.com/news/google-rival-baidu-has-made-an-ai-chip-for-autonomous-driving-and-more-167674.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.cdn.autoevolution.com/images/news/google-rival-baidu-has-made-an-ai-chip-for-autonomous-driving-and-more-167674-7.jpg",
-          "width": 728,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T09:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "autoevolution.com",
-        "domain": "autoevolution.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor.md",
-      "title": "Intel architect Koduri says every chip will be a neural net processor",
-      "excerpt": "Intel's Xeon chips have tended to dominate the market for AI inference, but Nvidia has been making inroads. Intel has litle share in neural network training while Nvidia dominates the field with its GPUs. Koduri said the company intends to compete against ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/article/intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor/",
-      "originalUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/article/intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/08/19/beb44cbb-ab59-4180-9f75-496e4ef8a5b4/intel-2021-sapphire-rapids.jpg",
-          "width": 365,
-          "height": 310,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor/",
-      "publishedDateTime": "2021-08-19T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-diamond-age-raises-8-million-seed-round-to-advance-robotics-and-3d-printing-for-affordable-home-construction.md",
-      "title": "Diamond Age Raises $8 Million Seed Round to Advance Robotics and 3D Printing for Affordable Home Construction",
-      "excerpt": "Diamond Age, a full stack robotics startup that is automating new home construction to make home ownership more affordable, raised an $8 million seed round led by Prime Movers Lab and Alpaca VC. Additional investors include Dolby Family Ventures,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/diamond-age-raises-8-million-seed-round-to-advance-robotics-and-3d-printing-for-affordable-home-construction-1030746267",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/diamond-age-raises-8-million-seed-round-to-advance-robotics-and-3d-printing-for-affordable-home-construction-1030746267",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

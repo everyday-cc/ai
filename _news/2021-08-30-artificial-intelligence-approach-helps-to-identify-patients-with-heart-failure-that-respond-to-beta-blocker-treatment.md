@@ -68,12 +68,17 @@ related:
   - title: "Artificial Intelligence approach helps to identify patients with heart failure that respond to beta-blocker treatment"
     excerpt: "Researchers at the University of Birmingham have developed a new way to identify which patients with heart failure will benefit from treatment with beta-blockers."
     publishedDateTime: 2021-08-31T12:14:00Z
-    webUrl: "https://www.birmingham.ac.uk/university/colleges/mds/news/2021/08/artificial-intelligence-helps-to-identify-patients-with-heart-failure.aspx"
+    webUrl: "https://www.birmingham.ac.uk/news/latest/2021/08/artificial-intelligence-beta-blocker-heart-failure.aspx"
     type: article
     provider:
       name: birmingham.ac.uk
       domain: birmingham.ac.uk
-    quality: 11
+    quality: 31
+    images:
+      - url: "https://www.birmingham.ac.uk/images/news/heart-900px.jpg"
+        width: 900
+        height: 510
+        isCached: true
 
 secured: "CJxJ/8dOHWVE3yM+tAq2oPntZ1Lzr8rJ092XQrX60uvWp1PA5RGkwayLknO4uWZIUFwTufDiEL8yuT9dYQ8yMpaKUsM0mf5WnWhUOgVjj68Bgo0L3zoTWqaVrBA6H7jbKoykSaTf/7S+OMbNoE+Df7qRcWAV1KQ5XIuXnxLZn3qNJfgxj+Xmfei9uSA3wZoredwpVflmhhNLZfWYRhZF6dbmpNixLTeaIlPtN1W8GRilTtHCgyJA8QM4DBALNeYQM9ehrxzXXcWMFrhme83UULQ2F6X4znFy4fHbMalSZDZ7viWOPgap63mQ7AwZ5Q51C1sh2mL/7EzCCor39qeW2UcaVGM89EGwLTxcES2WxeE=;hVByGrCzVVNAIW03lU726A=="
 ---

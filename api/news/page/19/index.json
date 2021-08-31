@@ -2,6 +2,205 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-08-17-new-rules-on-police-use-of-facial-recognition-dont-go-far-enough-experts-say.md",
+      "title": "New rules on police use of facial recognition don't go far enough, experts say",
+      "excerpt": "The UK government has updated its code of practice on the use of surveillance cameras. Will it be enough to protect citizens' rights?",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/new-rules-on-police-use-of-facial-recognition-dont-go-far-enough-experts-say/",
+      "originalUrl": "https://www.zdnet.com/article/new-rules-on-police-use-of-facial-recognition-dont-go-far-enough-experts-say/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/08/17/781cbd69-4be4-4e42-8031-b7287e8afc84/gettyimages-1208074512.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/new-rules-on-police-use-of-facial-recognition-dont-go-far-enough-experts-say/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/new-rules-on-police-use-of-facial-recognition-dont-go-far-enough-experts-say/",
+      "publishedDateTime": "2021-08-17T01:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-medius-squashes-invoice-lead-times-with-efficient-ai-tech.md",
+      "title": "Medius squashes invoice lead times with efficient AI tech",
+      "excerpt": "Utilizing Microsoft Azure Machine Learning and Artificial Intelligence (AI), with a user-friendly interface, Medius has developed an e-invoicing solution that captures and converts data ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/08/n22528768/medius-squashes-invoice-lead-times-with-efficient-ai-tech",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/08/n22528768/medius-squashes-invoice-lead-times-with-efficient-ai-tech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/22528768",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22528768",
+      "publishedDateTime": "2021-08-17T00:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-samsung-is-using-artificial-intelligence-to-design-its-new-exynos-chips.md",
+      "title": "Samsung is using Artificial Intelligence to design its new Exynos chips",
+      "excerpt": "Samsung has confirmed that the company will be using Artificial Intelligence (AI) to create its new chips and added that it will be using new software from Synopsys, a leading chip design software firm.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/08/17/samsung-exynos-chips-ai-design/",
+      "originalUrl": "https://www.gizmochina.com/2021/08/17/samsung-exynos-chips-ai-design/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2020/10/20201009142558_65337.png",
+          "width": 1204,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-16T23:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-china-ev-maker-warns-terms-like-self-driving-may-mislead-people.md",
+      "title": "China EV Maker Warns Terms Like Self Driving May Mislead People",
+      "excerpt": "The Chief Executive Officer of Chinese electric-car maker Li Auto Inc. has said the industry should limit using the terms autonomous and self driving, considering no automobile today is truly capable of that and its common usage is becoming misleading for consumers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-08-17/china-ev-maker-warns-terms-like-self-driving-may-mislead-people",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-08-17/china-ev-maker-warns-terms-like-self-driving-may-mislead-people",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4mJTad9d9rA/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-16T23:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-17-at-2473-cagr-3d-sensor-market-size-share-is-expected-to-exhibit-us-722175-million-by-2025.md",
       "title": "At 24.73% CAGR, 3D Sensor Market Size, Share is Expected to Exhibit US$ 7221.75 Million by 2025",
       "excerpt": "Global 3D Sensor Market is valued at USD 1537.61 Million in 2018 and expected to reach USD 7221.75 Million by 2025 with the CAGR of 24.73% over the forecast period. Get Sample Report:@  3D sensors enable a machine to understand the size shape and distance of an object within its field of view.",
@@ -958,178 +1157,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-huawei-smart-city-projects-meet-facial-recognition-block-lawsuit-from-partner.md",
-      "title": "Huawei smart city projects meet facial recognition block, lawsuit from partner",
-      "excerpt": "The Serbia smart city projectis raising concerns among some members of the European Parliament. Huawei also faces a lawsuit in a Pakistan surveillance project.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202108/huawei-smart-city-projects-meet-facial-recognition-block-lawsuit-from-partner",
-      "originalUrl": "https://www.biometricupdate.com/202108/huawei-smart-city-projects-meet-facial-recognition-block-lawsuit-from-partner",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/08/11150416/Huawei-scaled.jpg",
-          "width": 2048,
-          "height": 1045,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-16T10:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-16-adapdix-acquires-edge-intelligence-to-bring-data-and-ai-closer-together.md",
-      "title": "Adapdix acquires Edge Intelligence to bring data and AI closer together",
-      "excerpt": "Adapdix, the industry leader in AI-powered automation software, announces that it has acquired Edge Intelligence, developer of the first geographically distributed data management platform for analytics built for both edge computing and hybrid cloud environments.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/adapdix-acquires-edge-intelligence-to-bring-data-and-ai-closer-together-1030735171",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/adapdix-acquires-edge-intelligence-to-bring-data-and-ai-closer-together-1030735171",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1589890/Adapdix_acquires_Edge_Intelligence.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-16T09:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-16-will-project-dojo-be-the-central-focus-of-teslas-tsla-ai-day.md",
-      "title": "Will Project Dojo be the Central Focus of Tesla's (TSLA) AI Day?",
-      "excerpt": "The AI Day is expected to shed light on new information about the development progress with respect to Tesla’s much touted Full Self-Driving (FSD) suite. Full Self-Driving builds on Tesla’s advanced driver-assistance system known as Autopilot,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/will-project-dojo-be-the-central-focus-of-teslas-tsla-ai-day-2021-08-16",
-      "originalUrl": "https://www.nasdaq.com/articles/will-project-dojo-be-the-central-focus-of-teslas-tsla-ai-day-2021-08-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/will-project-dojo-be-the-central-focus-of-teslas-tsla-ai-day-2021-08-16?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/will-project-dojo-be-the-central-focus-of-teslas-tsla-ai-day-2021-08-16?amp",
-      "publishedDateTime": "2021-08-16T08:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-16-ai-in-ict-information-and-communications-technology-market-2021-and-analysis-to-2027-aibrian-amazon-att-aysadi-baidu.md",
-      "title": "AI in ICT (Information and Communications Technology) Market 2021 and Analysis to 2027 – AIBrian, Amazon, AT&T, Aysadi, Baidu",
-      "excerpt": "Market research report. The market is predictable to grow at a healthy pace in the coming years. AI in ICT (Information and Communications Technology) Market 2021 research report presents analysis of market size,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/ai-in-ict-information-and-communications-technology-market-2021-and-analysis-to-2027-aibrian-amazon-att-aysadi-baidu/",
-      "originalUrl": "https://manometcurrent.com/ai-in-ict-information-and-communications-technology-market-2021-and-analysis-to-2027-aibrian-amazon-att-aysadi-baidu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/08/AI-in-ICT-Information-and-Communications-Technology.jpg",
-          "width": 500,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/ai-in-ict-information-and-communications-technology-market-2021-and-analysis-to-2027-aibrian-amazon-att-aysadi-baidu/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/ai-in-ict-information-and-communications-technology-market-2021-and-analysis-to-2027-aibrian-amazon-att-aysadi-baidu/?amp=1",
-      "publishedDateTime": "2021-08-16T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

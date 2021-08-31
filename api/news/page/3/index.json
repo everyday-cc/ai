@@ -2,6 +2,195 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-29-aust-researchers-use-ai-to-predict-drought.md",
+      "title": "Aust researchers use AI to predict drought",
+      "excerpt": "James Cook University researchers have used artificial intelligence to predict some of the key markers of drought conditions up to six months ahead of time.",
+      "sourceUrl": null,
+      "webUrl": "https://thewest.com.au/technology/telecommunications/aust-researchers-use-ai-to-predict-drought-c-3810380",
+      "originalUrl": "https://thewest.com.au/technology/telecommunications/aust-researchers-use-ai-to-predict-drought-c-3810380",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.thewest.com.au/publication/C-3810380/be266d6e0fe45f3d9a3acfb8f4439407279b6436-16x9-x0y0w1280h720.jpg?imwidth=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thewest.com.au/technology/telecommunications/aust-researchers-use-ai-to-predict-drought-c-3810380.amp",
+      "cdnAmpWebUrl": "https://thewest-com-au.cdn.ampproject.org/c/s/thewest.com.au/technology/telecommunications/aust-researchers-use-ai-to-predict-drought-c-3810380.amp",
+      "publishedDateTime": "2021-08-28T16:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The West Australian",
+        "domain": "thewest.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-29-i-went-to-a-play-written-by-ai-it-was-like-looking-in-a-circus-mirror.md",
+      "title": "I went to a play written by AI; it was like looking in a circus mirror",
+      "excerpt": "At the Young Vic theatre in London last week, an experimental production called AI played a three-night run. The objective of this collaboration between person and machine was to emerge at the end with a 30-minute script, written by artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/sg/news/i-went-to-a-play-written-by-ai-it-was-like-looking-in-a-circus-mirror",
+      "originalUrl": "https://www.techradar.com/sg/news/i-went-to-a-play-written-by-ai-it-was-like-looking-in-a-circus-mirror",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/s2TJB2EMeXZQHeKtBj6bGb-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/sg/amp/news/i-went-to-a-play-written-by-ai-it-was-like-looking-in-a-circus-mirror",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/i-went-to-a-play-written-by-ai-it-was-like-looking-in-a-circus-mirror",
+      "publishedDateTime": "2021-08-28T12:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-28-5-of-dubai-taxis-fleet-to-be-self-driving-cabs-by-2023.md",
+      "title": "5% of Dubai Taxi's fleet to be self-driving cabs by 2023",
+      "excerpt": "By 2023, five per cent of Dubai Taxi’s fleet will be converted into self-driving cabs, the Roads and Transport Authority (RTA) said on Saturday. The RTA recently signed a partnership agreement with General Motors-backed Cruise to run driverless taxis and shared transport service in Dubai,",
+      "sourceUrl": null,
+      "webUrl": "https://www.khaleejtimes.com/news/transport/5-of-dubai-taxis-fleet-to-be-self-driving-cabs-by-2023",
+      "originalUrl": "https://www.khaleejtimes.com/news/transport/5-of-dubai-taxis-fleet-to-be-self-driving-cabs-by-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://amp.khaleejtimes.com/storyimage/KT/20210828/ARTICLE/210829143/AR/0/AR-210829143.jpg&NCS_modified=20210829010133&MaxH=225&imageVersion=16by9",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.khaleejtimes.com/news/transport/5-of-dubai-taxis-fleet-to-be-self-driving-cabs-by-2023",
+      "cdnAmpWebUrl": "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/news/transport/5-of-dubai-taxis-fleet-to-be-self-driving-cabs-by-2023",
+      "publishedDateTime": "2021-08-28T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Khaleej Times",
+        "domain": "khaleejtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-28-we-underestimated-iot-security-lets-not-make-that-mistake-with-robotics.md",
+      "title": "We underestimated IoT security. Let’s not make that mistake with robotics.",
+      "excerpt": "Even if placed behind a firewall, inadequately secured robots may not be safe. We’ve already seen malware that breaches isolated networks.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/28/we-underestimated-iot-security-lets-not-make-that-mistake-with-robotics/",
+      "originalUrl": "https://venturebeat.com/2021/08/28/we-underestimated-iot-security-lets-not-make-that-mistake-with-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/agility-robotics-digit.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/28/we-underestimated-iot-security-lets-not-make-that-mistake-with-robotics/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/28/we-underestimated-iot-security-lets-not-make-that-mistake-with-robotics/amp/",
+      "publishedDateTime": "2021-08-28T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-08-28-how-ai-can-enhance-our-real-and-virtual-lives.md",
       "title": "How AI can enhance our real and virtual lives",
       "excerpt": "The answer is adding humanity back into the digital world? In simplest terms, it’s remembering why and who the tech was envisioned for in the first place.",
@@ -296,7 +485,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2021/08/worst-cloud-vulnerability-you-can-imagine-discovered-in-microsoft-azure/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -558,7 +747,7 @@
       "originalUrl": "https://www.forbes.com/sites/mungchiang/2021/08/27/making-virtual-learning-real/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1037,196 +1226,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-cerebras-upgrades-trillion-transistor-chip-to-train-brain-scale-ai.md",
-      "title": "Cerebras Upgrades Trillion-Transistor Chip to Train ‘Brain-Scale’ AI",
-      "excerpt": "Cerebras has outlined a series of innovations that mean its latest chip can train a neural network with up to 120 trillion parameters.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2021/08/27/cerebras-upgrades-trillion-transistor-chip-to-train-brain-scale-ai/",
-      "originalUrl": "https://singularityhub.com/2021/08/27/cerebras-upgrades-trillion-transistor-chip-to-train-brain-scale-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2021/08/cerebras-chip-AI.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2021/08/27/cerebras-upgrades-trillion-transistor-chip-to-train-brain-scale-ai/amp/",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/08/27/cerebras-upgrades-trillion-transistor-chip-to-train-brain-scale-ai/amp/",
-      "publishedDateTime": "2021-08-27T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-improve-your-marketing-content-with-ai-generated-copy-from-writesonic.md",
-      "title": "Improve your marketing content with AI-generated copy from Writesonic",
-      "excerpt": "Let your computer do the work of a copywriter with this AI-generated copywriter. Save time and money to get the marketing copy your business needs.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/improve-your-marketing-content-with-ai-generated-copy-from-writesonic",
-      "originalUrl": "https://thenextweb.com/news/improve-your-marketing-content-with-ai-generated-copy-from-writesonic",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/tnw-deals?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2FTNW-Writesonic.jpeg&signature=c66ccfd2aff5105969f50164bea79ab2",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-27T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-edtech-language-platform-duolingo-ups-the-ai-ante.md",
-      "title": "EdTech language platform Duolingo ups the AI ante",
-      "excerpt": "In the wake of a noted IPO, EdTech player Duolingo showed off AI-infused updates to its language lesson platform.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/27/edtech-language-platform-duolingo-ups-the-ai-ante/",
-      "originalUrl": "https://venturebeat.com/2021/08/27/edtech-language-platform-duolingo-ups-the-ai-ante/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/duolingo-duo.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/27/edtech-language-platform-duolingo-ups-the-ai-ante/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/27/edtech-language-platform-duolingo-ups-the-ai-ante/amp/",
-      "publishedDateTime": "2021-08-27T06:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-schnuck-markets-expanding-use-of-tally-robots-chainwide.md",
-      "title": "Schnuck Markets expanding use of Tally robots chainwide",
-      "excerpt": "Schnuck Markets Inc. is expanding its use of Tally inventory-taking robots to all of its stores chainwide. Schnuck Markets said Thursday that a multiyear, full-scale rollout now will bring Tally robots to all 111 Schnucks stores.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ksdk.com/article/news/local/business-journal/schnuck-markets-expanding-use-tally-robots-chainwide/63-19ffa56e-e84d-48dc-ac17-0652ea68460c",
-      "originalUrl": "https://www.ksdk.com/article/news/local/business-journal/schnuck-markets-expanding-use-tally-robots-chainwide/63-19ffa56e-e84d-48dc-ac17-0652ea68460c",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.ksdk.com/assets/KSDK/images/6064e977-d6b9-4a67-9b45-b73059276597/6064e977-d6b9-4a67-9b45-b73059276597_1140x641.png",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ksdk.com/amp/article/news/local/business-journal/schnuck-markets-expanding-use-tally-robots-chainwide/63-19ffa56e-e84d-48dc-ac17-0652ea68460c",
-      "cdnAmpWebUrl": "https://www-ksdk-com.cdn.ampproject.org/c/s/www.ksdk.com/amp/article/news/local/business-journal/schnuck-markets-expanding-use-tally-robots-chainwide/63-19ffa56e-e84d-48dc-ac17-0652ea68460c",
-      "publishedDateTime": "2021-08-27T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KSDK",
-        "domain": "ksdk.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

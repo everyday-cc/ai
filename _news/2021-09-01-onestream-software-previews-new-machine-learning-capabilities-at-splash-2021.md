@@ -6,7 +6,7 @@ publishedDateTime: 2021-08-31T17:00:00Z
 originalUrl: "https://www.businesswire.com/news/home/20210831005268/en/OneStream-Software-Previews-New-Machine-Learning-Capabilities-at-Splash-2021"
 webUrl: "https://www.businesswire.com/news/home/20210831005268/en/OneStream-Software-Previews-New-Machine-Learning-Capabilities-at-Splash-2021"
 type: article
-quality: 16
+quality: 18
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 related:
   - title: "OneStream to deliver new machine learning enabled capabilities"

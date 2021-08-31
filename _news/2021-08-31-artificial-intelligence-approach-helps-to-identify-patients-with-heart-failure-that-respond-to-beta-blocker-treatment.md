@@ -3,10 +3,10 @@ category: news
 title: "Artificial Intelligence approach helps to identify patients with heart failure that respond to beta-blocker treatment"
 excerpt: "Researchers at the University of Birmingham have developed a new way to identify which patients with heart failure will benefit from treatment with beta-blockers."
 publishedDateTime: 2021-08-31T12:14:00Z
-originalUrl: "https://www.birmingham.ac.uk/university/colleges/mds/news/2021/08/artificial-intelligence-helps-to-identify-patients-with-heart-failure.aspx"
-webUrl: "https://www.birmingham.ac.uk/university/colleges/mds/news/2021/08/artificial-intelligence-helps-to-identify-patients-with-heart-failure.aspx"
+originalUrl: "https://www.birmingham.ac.uk/news/latest/2021/08/artificial-intelligence-beta-blocker-heart-failure.aspx"
+webUrl: "https://www.birmingham.ac.uk/news/latest/2021/08/artificial-intelligence-beta-blocker-heart-failure.aspx"
 type: article
-quality: 11
+quality: 31
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://www.birmingham.ac.uk/images/news/heart-900px.jpg"
+    width: 900
+    height: 510
+    isCached: true
 
 related:
   - title: "AI approach helps identify heart failure patients who will benefit from beta-blocker therapy"
@@ -75,6 +81,6 @@ related:
       domain: eurekalert.org
     quality: 11
 
-secured: "d6M90iXdCQBuc7b6AJtEC0AJ2hume9Ymvu6yJYQlDl3YIx3dkH4vUWf4sNUzhuMUU3W7JsuPB7+KwRMP6ZZGgXXoWmJgqMev7/aDtkwXf+tVSLbJyd4pltzzVN9kDRq8t+90/7RjfaUmeQLoTce5XESq9AzUvxITu/jdiIqReTVVpB4pJAcTciLehvJgsdsEOeTIe3GV+urTWZrR7Gxj/nmrH+9PBwHYDKdAuCclwe3bSm8IAZIo1GED2Ew8ZxgDq0+DKCRbRqiFq9EEIYVNvWOlxqvFc2o+ojilikwdvIas8yEj8QLiardBpu9TLEGpW8lMmQwEc59qFCM49YzH5O1OCne8DoiBf5nhiwmE44U=;l2rcLp8iSCvXqT29yQ/2mQ=="
+secured: "VCQdNUtpQv+mxeZwgURcFVhy0cAzFCzSte32tq2mrkjkRbikQs14bvoHiA9fQmRjK5lhwo1RgRGwQeXyU1zCxdg7HVNv/5xnKHWTP6EQS7lJtn8j/sluXte3+WGpa/tTWSHdCU/ZvlAe9rEsnPN/PeV5vDOCsXBKF1d+DZkRYO8zZ7b6oIFCjL8znLIiMfmeEzjuPAadNeT5wnzSUYcvt1F5CKOyGC4sXYsMZDlvmU2+wY+9V+mfrd+woY+OfOUN9+sCWGedkD1TbkZ0APeHYaGv6+Aq5LEk5VSSBqp35jPsyBluTFakQ2G9utktrieormyGo+wo8v2ym64IiUeMebm8F6QVsGX7XX2SYo1GL/c=;Lj/64FYuTjYhxeat4bE3qg=="
 ---
 

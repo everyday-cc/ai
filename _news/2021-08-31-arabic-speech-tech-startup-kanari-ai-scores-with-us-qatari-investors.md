@@ -7,7 +7,7 @@ originalUrl: "https://cairoscene.com/Business/Arabic-Speech-Tech-Startup-Kanari-
 webUrl: "https://cairoscene.com/Business/Arabic-Speech-Tech-Startup-Kanari-AI-Scores-with-US-Qatari-Investors"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -27,12 +27,12 @@ related:
   - title: "Qatar Science and Technology Park invests in Kanari AI"
     excerpt: "Qatar Science and Technology Park (QSTP) has invested in US-based Kanari AI's $475,000 in pre-Seed funding round. Founded in"
     publishedDateTime: 2021-08-31T11:46:00Z
-    webUrl: "https://www.wamda.com/en/2021/08/qatar-science-technology-park-invests-kanari-ai"
+    webUrl: "https://www.wamda.com/2021/08/qatar-science-technology-park-invests-kanari-ai"
     type: article
     provider:
       name: wamda.com
       domain: wamda.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://cdn.wamda.com/feature-images/27cad4178099b55.jpeg"
         width: 1000

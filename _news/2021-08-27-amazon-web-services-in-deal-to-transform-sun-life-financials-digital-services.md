@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/amazon-web-services-in-deal-to-trans
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-web-services-in-deal-to-transform-sun-life-financials-digital-services-2021-08-27?amp"
 type: article
 quality: 67
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -22,20 +22,6 @@ topics:
   - AWS AI
 
 related:
-  - title: "Sun Life signs with AWS"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Sun Life (TSX: SLF) (NYSE: SLF) has selected AWS as its long-term strategic cloud technology provider to become a cloud-first organization,"
-    publishedDateTime: 2021-08-27T14:06:00Z
-    webUrl: "https://www.finextra.com/pressarticle/89061/sun-life-signs-with-aws"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Amazon Web Services Chosen by Sun Life as its Cloud Tech Provider, Aims to Become Cloud First Organization"
     excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), recently revealed that Sun Life (TSX: SLF) (NYSE: SLF) has chosen AWS as its Cloud tech  provider in order to become a “Cloud-first” organization,"
     publishedDateTime: 2021-08-30T11:50:00Z

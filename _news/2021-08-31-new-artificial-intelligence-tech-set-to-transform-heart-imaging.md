@@ -40,6 +40,20 @@ related:
         width: 1920
         height: 1920
         isCached: true
+  - title: "New AI Allows Physicians to Obtain Better Images of the Heart"
+    excerpt: "Researchers from University of Virginia Health System have developed an artificial intelligence technology for heart imaging – dubbed the Virtual Native Enhancement (VNE). The researchers said the AI technology could improve care for patients allowing doctors to examine their hearts for scar tissue while eliminating the need for contrast injections required for traditional cardiovascular magnetic resonance imaging (CMR)."
+    publishedDateTime: 2021-08-31T18:36:00Z
+    webUrl: "https://www.mddionline.com/artificial-intelligence/new-ai-allows-physicians-obtain-better-images-heart"
+    type: article
+    provider:
+      name: MD&M East
+      domain: mddionline.com
+    quality: 37
+    images:
+      - url: "https://www.mddionline.com/sites/mddionline.com/files/IMG_Aug312021at22928PM.jpg"
+        width: 770
+        height: 400
+        isCached: true
 
 secured: "ON/xyDNQX6wLFgZwD1okeGjCtNzfuZbiGDeIgJIG+Qa7I+QTrtOzoeMmXdfSTzx56IHcf1CYRHlhpTqIelblFkZUFKjnEPgUgx07uye8hBYSh6q+92WxKZYh9spqaIrkf5oKrDoAb1aNKMVuiUighwjT1E4B9pS9EhmhSYcJ++3+f/2mhIhDlP++NsCr0Uke9/TsVG9r2mtB0Sur3Ba/RnyT4TCrIo5MZVUhppp9V/08KO0ykxi4nYG7b+70oJ/qad9veJHqlOn6jNvYKQWk43WFFmntdZFXlS66dwp9aAVD7UweF7OBYgRblReB8SQbJ5cSB3FMgReJs1duHlggXilol2ni7ZLQ7hTcVJNYo90=;/NwstA30B/K0cdeJkUYH/g=="
 ---

@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Instant Cybersecurity Data Intelligence Will Stop Ransomware Attacks"
-    excerpt: "Machine learning alone will not stay the course. Natural language processing and artificial intelligence will make it possible to instantly gain visibility into a business environment, detect insider threats, and evaluate the impact of emerging cyber ..."
-    publishedDateTime: 2021-08-27T01:41:00Z
-    webUrl: "https://www.thefastmode.com/expert-opinion/20640-how-instant-cybersecurity-data-intelligence-will-stop-ransomware-attacks"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 23
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/598d8ed3469b2cfabea8850e055b21e5.jpg?t=20210826_122631"
-        width: 1126
-        height: 550
-        isCached: true
   - title: "The 'Hyperscale SOC' and the Minds Behind It: A Machine-learning Foundation for Effective Cybersecurity"
     excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
     publishedDateTime: 2021-08-29T21:00:00Z
